@@ -1,0 +1,26 @@
+{
+  "hideNodes": {
+    "node": [
+      "pylon_a60_001",
+      "pylon_a60_002",
+      "pylon_a60_003",
+      "pylon_a60_004",
+      "pylon_k60_001",
+      "pylon_k60_002",
+      "akankapsel_l",
+      "flare1",
+      "akankapsel_r",
+      "flare2",
+      "rb_05a_launcher_l",
+      "rb_05a_launcher_r"
+    ]
+  },
+  "hideDmParts": {
+    "node": [
+      "cannon1_dm",
+      "cover2_dm",
+      "cannon2_dm",
+      "cover3_dm"
+    ]
+  }
+}

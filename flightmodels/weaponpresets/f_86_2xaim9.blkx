@@ -1,0 +1,29 @@
+{
+  "hideNodes": {
+    "node": [
+      "aero_14a_pylon_r1",
+      "aero_14a_pylon_l1",
+      "aero_14a_pylon_r2",
+      "aero_14a_pylon_l2",
+      "pylon_86n"
+    ]
+  },
+  "Weapon": [
+    {
+      "trigger": "aam",
+      "external": true,
+      "separate": true,
+      "blk": "gameData/Weapons/rocketGuns/us_aim9b_sidewinder.blk",
+      "emitter": "us_aim_9b_sidewinder_l",
+      "bullets": 1
+    },
+    {
+      "trigger": "aam",
+      "external": true,
+      "separate": true,
+      "blk": "gameData/Weapons/rocketGuns/us_aim9b_sidewinder.blk",
+      "emitter": "us_aim_9b_sidewinder_r",
+      "bullets": 1
+    }
+  ]
+}

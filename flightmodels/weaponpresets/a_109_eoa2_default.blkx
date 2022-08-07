@@ -1,0 +1,26 @@
+{
+  "hideNodes": {
+    "node": [
+      "aero_6_b1",
+      "aero_6_b2",
+      "aero_6_b3",
+      "aero_6_b4",
+      "tow_tube_001",
+      "tow_tube_002",
+      "tow_cap_001",
+      "tow_cap_002",
+      "tow_cap_003",
+      "tow_cap_004",
+      "fn_hmp400_pod_l",
+      "flare1",
+      "fn_hmp400_pod_r",
+      "flare2"
+    ]
+  },
+  "hideDmParts": {
+    "node": [
+      "gun1_dm",
+      "gun2_dm"
+    ]
+  }
+}

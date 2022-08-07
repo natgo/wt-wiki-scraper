@@ -1,0 +1,31 @@
+{
+  "hideDmParts": {
+    "node": [
+      "tank6_dm",
+      "tank7_dm",
+      "tank8_dm"
+    ]
+  },
+  "Weapon": [
+    {
+      "slot": 1,
+      "preset": "aim_9b"
+    },
+    {
+      "slot": 2,
+      "preset": "jl_100r_36"
+    },
+    {
+      "slot": 3,
+      "preset": "pm3_fr_250"
+    },
+    {
+      "slot": 4,
+      "preset": "jl_100r_36"
+    },
+    {
+      "slot": 5,
+      "preset": "aim_9b"
+    }
+  ]
+}

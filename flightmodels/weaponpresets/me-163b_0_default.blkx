@@ -1,0 +1,20 @@
+{
+  "hideNodes": {
+    "node": [
+      "wing_cannon_l",
+      "wing_cannon_r",
+      "emtr_shellrejection3",
+      "emtr_shellrejection4",
+      "flare3",
+      "flare4"
+    ]
+  },
+  "hideDmParts": {
+    "node": [
+      "cannon3_dm",
+      "cannon4_dm",
+      "cover3_dm",
+      "cover4_dm"
+    ]
+  }
+}

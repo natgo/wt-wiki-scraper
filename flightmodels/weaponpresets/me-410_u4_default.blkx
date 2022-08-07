@@ -1,0 +1,8 @@
+{
+  "hideDmParts": {
+    "node": [
+      "cannon3_dm",
+      "cannon4_dm"
+    ]
+  }
+}

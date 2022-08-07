@@ -1,0 +1,11 @@
+{
+  "hideNodes": {
+    "node": [
+      "210mm_tube_l",
+      "210mm_tube_r"
+    ]
+  },
+  "hideDmParts": {
+    "node": "cannon5_dm"
+  }
+}

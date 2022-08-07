@@ -1,0 +1,44 @@
+{
+  "Weapon": [
+    {
+      "trigger": "bombs",
+      "external": true,
+      "separate": true,
+      "blk": "gameData/Weapons/bombGuns/us_1000lb_anm65a1.blk",
+      "emitter": "bomb13",
+      "bullets": 1
+    },
+    {
+      "trigger": "bombs",
+      "external": true,
+      "separate": true,
+      "blk": "gameData/Weapons/bombGuns/us_1000lb_anm65a1.blk",
+      "emitter": "bomb14",
+      "bullets": 1
+    },
+    {
+      "trigger": "bombs",
+      "external": true,
+      "separate": true,
+      "blk": "gameData/Weapons/bombGuns/us_1000lb_anm65a1.blk",
+      "emitter": "bomb15",
+      "bullets": 1
+    },
+    {
+      "trigger": "bombs",
+      "external": true,
+      "separate": true,
+      "blk": "gameData/Weapons/bombGuns/us_1000lb_anm65a1.blk",
+      "emitter": "bomb16",
+      "bullets": 1
+    }
+  ],
+  "hideNodes": {
+    "node": [
+      "pylon_bomb1",
+      "pylon_bomb2",
+      "pylon_bomb5",
+      "pylon_bomb6"
+    ]
+  }
+}

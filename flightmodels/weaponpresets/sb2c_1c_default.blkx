@@ -1,0 +1,18 @@
+{
+  "hideNodes": {
+    "node": [
+      "hatch1_open",
+      "hatch2_open",
+      "pylon_bomb1",
+      "pylon_bomb2",
+      "dgp_1_l",
+      "dgp_1_r",
+      "pylon_dgp_1",
+      "pylon_dgp_2",
+      "flare13",
+      "flare14",
+      "flare15",
+      "flare16"
+    ]
+  }
+}

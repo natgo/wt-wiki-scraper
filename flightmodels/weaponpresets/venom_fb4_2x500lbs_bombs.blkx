@@ -1,0 +1,42 @@
+{
+  "hideNodes": {
+    "node": [
+      "rocket_pylon_l",
+      "rocket_pylon_r",
+      "rocket1",
+      "rocket2",
+      "rocket3",
+      "rocket4",
+      "rocket5",
+      "rocket6",
+      "rocket7",
+      "rocket8",
+      "tank_l",
+      "tank_r",
+      "bomb1",
+      "bomb2"
+    ]
+  },
+  "hideDmParts": {
+    "node": [
+      "tank6_dm",
+      "tank7_dm"
+    ]
+  },
+  "Weapon": [
+    {
+      "trigger": "bombs",
+      "blk": "gameData/Weapons/BombGuns/uk_500lbs.blk",
+      "emitter": "bomb3",
+      "bullets": 1,
+      "external": true
+    },
+    {
+      "trigger": "bombs",
+      "blk": "gameData/Weapons/BombGuns/uk_500lbs.blk",
+      "emitter": "bomb4",
+      "bullets": 1,
+      "external": true
+    }
+  ]
+}

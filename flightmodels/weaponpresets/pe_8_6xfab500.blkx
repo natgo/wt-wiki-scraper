@@ -1,0 +1,60 @@
+{
+  "Weapon": [
+    {
+      "trigger": "bombs",
+      "blk": "gameData/Weapons/BombGuns/su_fab500.blk",
+      "emitter": "bomb9",
+      "bullets": 1,
+      "separate": true,
+      "external": true
+    },
+    {
+      "trigger": "bombs",
+      "blk": "gameData/Weapons/BombGuns/su_fab500.blk",
+      "emitter": "bomb10",
+      "bullets": 1,
+      "separate": true,
+      "external": true
+    },
+    {
+      "trigger": "bombs",
+      "blk": "gameData/Weapons/BombGuns/su_fab500.blk",
+      "emitter": "bomb7",
+      "bullets": 1,
+      "separate": true,
+      "external": false
+    },
+    {
+      "trigger": "bombs",
+      "blk": "gameData/Weapons/BombGuns/su_fab500.blk",
+      "emitter": "bomb8",
+      "bullets": 1,
+      "separate": true,
+      "external": false
+    },
+    {
+      "trigger": "bombs",
+      "blk": "gameData/Weapons/BombGuns/su_fab500.blk",
+      "emitter": "bomb5",
+      "bullets": 1,
+      "separate": true,
+      "external": false
+    },
+    {
+      "trigger": "bombs",
+      "blk": "gameData/Weapons/BombGuns/su_fab500.blk",
+      "emitter": "bomb6",
+      "bullets": 1,
+      "separate": true,
+      "external": false
+    }
+  ],
+  "hideNodes": {
+    "node": [
+      "pylon_bomb3",
+      "pylon_bomb4",
+      "pylon_bomb5",
+      "pylon_bomb6"
+    ]
+  }
+}

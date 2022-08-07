@@ -1,0 +1,8 @@
+{
+  "hideNodes": {
+    "node": [
+      "bomb_holder_l_down",
+      "bomb_holder_r_down"
+    ]
+  }
+}

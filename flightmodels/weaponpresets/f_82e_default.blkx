@@ -1,0 +1,34 @@
+{
+  "hideNodes": {
+    "node": [
+      "aero_14a_pylon",
+      "mk_51_bomb_pylon",
+      "p_82_gun_pod",
+      "flare7",
+      "flare8",
+      "flare9",
+      "flare10",
+      "flare11",
+      "flare12",
+      "flare13",
+      "flare14",
+      "pylon_bomb1",
+      "pylon_bomb2",
+      "pylon_bomb3",
+      "pylon_bomb4"
+    ]
+  },
+  "hideDmParts": {
+    "node": [
+      "cover5_dm",
+      "mgun7_dm",
+      "mgun8_dm",
+      "mgun9_dm",
+      "mgun10_dm",
+      "mgun11_dm",
+      "mgun12_dm",
+      "mgun13_dm",
+      "mgun14_dm"
+    ]
+  }
+}

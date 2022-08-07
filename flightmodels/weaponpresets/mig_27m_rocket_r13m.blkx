@@ -1,0 +1,12 @@
+{
+  "Weapon": [
+    {
+      "slot": 1,
+      "preset": "default_r_13m1"
+    },
+    {
+      "slot": 7,
+      "preset": "default_r_13m1"
+    }
+  ]
+}

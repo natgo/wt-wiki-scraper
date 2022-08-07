@@ -1,0 +1,12 @@
+{
+  "hideNodes": {
+    "node": [
+      "pylon1_bomb50kg",
+      "pylon2_bomb50kg",
+      "pylon3_bomb50kg",
+      "pylon4_bomb50kg",
+      "pylon1_bomb100kg",
+      "pylon2_bomb100kg"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "hideNodes": {
+    "node": [
+      "pylon_l",
+      "pylon_r"
+    ]
+  },
+  "RocketCap": [
+    {
+      "name": "cap_1",
+      "part": "cap1_l"
+    },
+    {
+      "name": "cap_2",
+      "part": "cap2_l"
+    },
+    {
+      "name": "cap_3",
+      "part": "cap1_r"
+    },
+    {
+      "name": "cap_4",
+      "part": "cap2_r"
+    }
+  ],
+  "Weapon": [
+    {
+      "trigger": "atgm",
+      "blk": "gameData/Weapons/rocketGuns/us_127mm_TOW2.blk",
+      "emitter": "tow_001",
+      "bullets": 1,
+      "external": true,
+      "separate": true,
+      "capName": "cap_1"
+    },
+    {
+      "trigger": "atgm",
+      "blk": "gameData/Weapons/rocketGuns/us_127mm_TOW2.blk",
+      "emitter": "tow_004",
+      "bullets": 1,
+      "external": true,
+      "separate": true,
+      "capName": "cap_4"
+    },
+    {
+      "trigger": "atgm",
+      "blk": "gameData/Weapons/rocketGuns/us_127mm_TOW2.blk",
+      "emitter": "tow_002",
+      "bullets": 1,
+      "external": true,
+      "separate": true,
+      "capName": "cap_2"
+    },
+    {
+      "trigger": "atgm",
+      "blk": "gameData/Weapons/rocketGuns/us_127mm_TOW2.blk",
+      "emitter": "tow_003",
+      "bullets": 1,
+      "external": true,
+      "separate": true,
+      "capName": "cap_3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "hideNodes": {
+    "node": [
+      "rack",
+      "torpcord",
+      "pylon_l",
+      "pylon_r"
+    ]
+  }
+}

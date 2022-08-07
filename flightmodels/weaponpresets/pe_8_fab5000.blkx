@@ -1,0 +1,23 @@
+{
+  "Weapon": {
+    "trigger": "bombs",
+    "blk": "gameData/Weapons/BombGuns/su_fab5000.blk",
+    "emitter": "bomb63",
+    "bullets": 1,
+    "external": true
+  },
+  "hideNodes": {
+    "node": [
+      "hatch1",
+      "hatch2",
+      "hatch3",
+      "hatch4",
+      "hatch5",
+      "hatch6",
+      "pylon_bomb3",
+      "pylon_bomb4",
+      "pylon_bomb5",
+      "pylon_bomb6"
+    ]
+  }
+}

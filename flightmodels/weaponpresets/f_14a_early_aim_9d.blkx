@@ -1,0 +1,20 @@
+{
+  "Weapon": [
+    {
+      "slot": 1,
+      "preset": "aim_9d_deafult"
+    },
+    {
+      "slot": 2,
+      "preset": "aim_9d"
+    },
+    {
+      "slot": 5,
+      "preset": "aim_9d"
+    },
+    {
+      "slot": 6,
+      "preset": "aim_9d_deafult"
+    }
+  ]
+}

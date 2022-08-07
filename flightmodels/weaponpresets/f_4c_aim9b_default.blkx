@@ -1,0 +1,16 @@
+{
+  "Weapon": [
+    {
+      "slot": 3,
+      "preset": "aim_9b_default_left_wing"
+    },
+    {
+      "slot": 6,
+      "preset": "suu_23a_gunpod"
+    },
+    {
+      "slot": 9,
+      "preset": "aim_9b_default_right_wing"
+    }
+  ]
+}

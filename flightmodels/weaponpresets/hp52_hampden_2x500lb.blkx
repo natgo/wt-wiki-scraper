@@ -1,0 +1,25 @@
+{
+  "hideNodes": {
+    "node": [
+      "pylon_torpedo",
+      "hatch7",
+      "hatch8"
+    ]
+  },
+  "Weapon": [
+    {
+      "trigger": "bombs",
+      "blk": "gameData/Weapons/BombGuns/uk_500lbs_43.blk",
+      "emitter": "bomb_5",
+      "bullets": 1,
+      "external": true
+    },
+    {
+      "trigger": "bombs",
+      "blk": "gameData/Weapons/BombGuns/uk_500lbs_43.blk",
+      "emitter": "bomb_6",
+      "bullets": 1,
+      "external": true
+    }
+  ]
+}

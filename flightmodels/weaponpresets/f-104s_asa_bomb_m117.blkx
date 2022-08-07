@@ -1,0 +1,32 @@
+{
+  "Weapon": [
+    {
+      "slot": 2,
+      "preset": "us_750lb_m117_cone_45"
+    },
+    {
+      "slot": 3,
+      "preset": "us_750lb_m117_cone_45"
+    },
+    {
+      "slot": 4,
+      "preset": "us_750lb_m117_cone_45"
+    },
+    {
+      "slot": 5,
+      "preset": "cannon_m61"
+    },
+    {
+      "slot": 7,
+      "preset": "us_750lb_m117_cone_45"
+    },
+    {
+      "slot": 8,
+      "preset": "us_750lb_m117_cone_45"
+    },
+    {
+      "slot": 9,
+      "preset": "us_750lb_m117_cone_45"
+    }
+  ]
+}

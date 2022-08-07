@@ -1,0 +1,12 @@
+{
+  "hideNodes": {
+    "node": [
+      "pylon_cannon_l",
+      "pylon_cannon_r",
+      "flare4",
+      "flare5",
+      "rocket_pylon1",
+      "rocket_pylon2"
+    ]
+  }
+}
