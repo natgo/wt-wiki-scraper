@@ -14,10 +14,10 @@ interface FinalProps {
   intname: string;
   wikiname: string;
   normal_type: string;
-  extended_type: string;
+  extended_type: string[];
   country: string;
   rank: number;
-  price: number;
+  sl_price: number;
   reqRP: number;
   ab_br: string;
   ab_realbr: number;
@@ -32,6 +32,7 @@ interface FinalProps {
   ab_sl_multiplyer: number;
   rb_sl_multiplyer: number;
   sb_sl_multiplyer: number;
+  is_prem: boolean;
 }
 
 interface GroundProps extends FinalProps {
@@ -163,10 +164,12 @@ async function main() {
     "11.3",
   ];
   const final: {
+    updated: Date;
     ground: GroundProps[];
     aircraft: FinalProps[];
     helicopter: FinalProps[];
   } = {
+    updated: new Date(),
     ground: [],
     aircraft: [],
     helicopter: [],
@@ -175,27 +178,31 @@ async function main() {
     const vehicle: GroundVehicle = JSON.parse(
       fs.readFileSync(`./tankmodels/${element.intname.toLowerCase()}.blkx`, "utf-8"),
     );
+    let prem = false;
     let type = "";
-    let ext_type = "";
+    const ext_type: string[] = [];
     switch (true) {
-    case unitData[element.intname].tags.type_light_tank:
-      type = "type_light_tank";
-      break;
-    case unitData[element.intname].tags.type_medium_tank:
-      type = "type_medium_tank";
-      break;
-    case unitData[element.intname].tags.type_heavy_tank:
-      type = "type_heavy_tank";
-      break;
-    case unitData[element.intname].tags.type_tank_destroyer:
-      type = "type_destroyer_tank";
-      if (unitData[element.intname].tags.type_missile_tank) {
-        ext_type = "type_missile_tank";
-      }
-      break;
-    case unitData[element.intname].tags.type_spaa:
-      type = "type_spaa_tank";
-      break;
+      case unitData[element.intname].tags.type_light_tank:
+        type = "type_light_tank";
+        break;
+      case unitData[element.intname].tags.type_medium_tank:
+        type = "type_medium_tank";
+        break;
+      case unitData[element.intname].tags.type_heavy_tank:
+        type = "type_heavy_tank";
+        break;
+      case unitData[element.intname].tags.type_tank_destroyer:
+        type = "type_destroyer_tank";
+        if (unitData[element.intname].tags.type_missile_tank) {
+          ext_type.push("type_missile_tank");
+        }
+        break;
+      case unitData[element.intname].tags.type_spaa:
+        type = "type_spaa_tank";
+        break;
+    }
+    if (economy[element.intname].gift) {
+      prem = true;
     }
     final.ground.push({
       intname: element.intname,
@@ -217,22 +224,60 @@ async function main() {
       ab_sl_multiplyer: economy[element.intname].rewardMulArcade,
       rb_sl_multiplyer: economy[element.intname].rewardMulHistorical,
       sb_sl_multiplyer: economy[element.intname].rewardMulSimulation,
-      price: economy[element.intname].value,
+      sl_price: economy[element.intname].value,
       reqRP: economy[element.intname].reqExp,
       mass: vehicle.VehiclePhys.Mass.Empty + vehicle.VehiclePhys.Mass.Fuel,
       horsepower: vehicle.VehiclePhys.engine.horsePowers,
+      is_prem: prem,
     });
   });
   names.aircraft.forEach((element) => {
     const vehicle: AirVehicle = JSON.parse(
       fs.readFileSync(`./flightmodels/${element.intname.toLowerCase()}.blkx`, "utf-8"),
     );
-    //cont
+    let prem = false;
+    let type = "";
+    const ext_type: string[] = [];
+    switch (true) {
+      case unitData[element.intname].tags.type_fighter:
+        type = "type_fighter";
+        break;
+      case unitData[element.intname].tags.type_bomber:
+        type = "type_bomber";
+        break;
+      case unitData[element.intname].tags.type_strike_aircraft:
+        type = "type_strike_aircraft";
+        break;
+    }
+    if (unitData[element.intname].tags.type_jet_fighter) {
+      ext_type.push("type_jet_fighter");
+    }
+    if (unitData[element.intname].tags.type_jet_bomber) {
+      ext_type.push("type_jet_bomber");
+    }
+    if (unitData[element.intname].tags.type_longrange_bomber) {
+      ext_type.push("type_longrange_bomber");
+    }
+    if (unitData[element.intname].tags.type_frontline_bomber) {
+      ext_type.push("type_frontline_bomber");
+    }
+    if (unitData[element.intname].tags.type_hydroplane) {
+      ext_type.push("type_hydroplane");
+    }
+    if (unitData[element.intname].tags.type_naval_aircraft) {
+      ext_type.push("type_naval_aircraft");
+    }
+    if (unitData[element.intname].tags.type_torpedo) {
+      ext_type.push("type_torpedo_bomber");
+    }
+    if (economy[element.intname].gift) {
+      prem = true;
+    }
     final.aircraft.push({
       intname: element.intname,
       wikiname: element.wikiname,
-      normal_type: vehicle.fightAiBehaviour,
-      extended_type: vehicle.fightAiBehaviour,
+      normal_type: type,
+      extended_type: ext_type,
       country: economy[element.intname].country,
       rank: economy[element.intname].rank,
       ab_br: br[economy[element.intname].economicRankArcade],
@@ -248,19 +293,36 @@ async function main() {
       ab_sl_multiplyer: economy[element.intname].rewardMulArcade,
       rb_sl_multiplyer: economy[element.intname].rewardMulHistorical,
       sb_sl_multiplyer: economy[element.intname].rewardMulSimulation,
-      price: economy[element.intname].value,
+      sl_price: economy[element.intname].value,
       reqRP: economy[element.intname].reqExp,
+      is_prem: prem,
     });
   });
   names.helicopter.forEach((element) => {
     const vehicle: AirVehicle = JSON.parse(
       fs.readFileSync(`./flightmodels/${element.intname.toLowerCase()}.blkx`, "utf-8"),
     );
-    final.aircraft.push({
+    let prem = false;
+    let type = "";
+    const ext_type: string[] = [];
+    if (unitData[element.intname].tags.type_attack_helicopter) {
+      type = "type_attack_helicopter";
+      if (unitData[element.intname].tags.type_utility_helicopter) {
+        ext_type.push("type_attack_helicopter", "type_utility_helicopter");
+      }
+    } else {
+      if (unitData[element.intname].tags.type_utility_helicopter) {
+        type = "type_utility_helicopter";
+      }
+    }
+    if (economy[element.intname].gift) {
+      prem = true;
+    }
+    final.helicopter.push({
       intname: element.intname,
       wikiname: element.wikiname,
-      normal_type: vehicle.fightAiBehaviour,
-      extended_type: vehicle.fightAiBehaviour,
+      normal_type: type,
+      extended_type: ext_type,
       country: economy[element.intname].country,
       rank: economy[element.intname].rank,
       ab_br: br[economy[element.intname].economicRankArcade],
@@ -276,10 +338,11 @@ async function main() {
       ab_sl_multiplyer: economy[element.intname].rewardMulArcade,
       rb_sl_multiplyer: economy[element.intname].rewardMulHistorical,
       sb_sl_multiplyer: economy[element.intname].rewardMulSimulation,
-      price: economy[element.intname].value,
+      sl_price: economy[element.intname].value,
       reqRP: economy[element.intname].reqExp,
+      is_prem: prem,
     });
   });
-  console.log(final.ground);
+  fs.writeFileSync("./out/final.json", JSON.stringify(final));
 }
 main();

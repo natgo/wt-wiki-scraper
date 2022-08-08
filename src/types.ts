@@ -586,4 +586,6 @@ export interface Tags {
   sicily?: boolean;
   has_aps?: boolean;
   type_heavy_tank?: boolean;
+  cannot_takeoff?: boolean;
+  type_hydroplane?: boolean;
 }
