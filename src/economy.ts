@@ -270,6 +270,18 @@ async function main() {
     if (unitData[element.intname].tags.type_torpedo) {
       ext_type.push("type_torpedo_bomber");
     }
+    if (unitData[element.intname].tags.type_dive_bomber) {
+      ext_type.push("type_dive_bomber");
+    }
+    if (unitData[element.intname].tags.type_interceptor) {
+      ext_type.push("type_interceptor");
+    }
+    if (unitData[element.intname].tags.type_aa_fighter) {
+      ext_type.push("type_aa_fighter");
+    }
+    if (unitData[element.intname].tags.type_light_bomber) {
+      ext_type.push("type_light_bomber");
+    }
     if (economy[element.intname].gift) {
       prem = true;
     }

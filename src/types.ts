@@ -588,4 +588,8 @@ export interface Tags {
   type_heavy_tank?: boolean;
   cannot_takeoff?: boolean;
   type_hydroplane?: boolean;
+  type_dive_bomber?: boolean;
+  type_interceptor?: boolean;
+  type_aa_fighter?: boolean;
+  type_light_bomber?:boolean;
 }
