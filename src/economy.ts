@@ -10,6 +10,13 @@ interface savedwikiparse {
   };
 }
 
+interface Final {
+  updated: Date;
+  ground: GroundProps[];
+  aircraft: FinalProps[];
+  helicopter: FinalProps[];
+}
+
 interface FinalProps {
   intname: string;
   wikiname: string;
@@ -163,12 +170,7 @@ async function main() {
     "11.0",
     "11.3",
   ];
-  const final: {
-    updated: Date;
-    ground: GroundProps[];
-    aircraft: FinalProps[];
-    helicopter: FinalProps[];
-  } = {
+  const final: Final = {
     updated: new Date(),
     ground: [],
     aircraft: [],
@@ -192,13 +194,13 @@ async function main() {
         type = "type_heavy_tank";
         break;
       case unitData[element.intname].tags.type_tank_destroyer:
-        type = "type_destroyer_tank";
+        type = "type_tank_destroyer";
         if (unitData[element.intname].tags.type_missile_tank) {
           ext_type.push("type_missile_tank");
         }
         break;
       case unitData[element.intname].tags.type_spaa:
-        type = "type_spaa_tank";
+        type = "type_spaa";
         break;
     }
     if (economy[element.intname].gift) {
@@ -245,8 +247,8 @@ async function main() {
       case unitData[element.intname].tags.type_bomber:
         type = "type_bomber";
         break;
-      case unitData[element.intname].tags.type_strike_aircraft:
-        type = "type_strike_aircraft";
+      case unitData[element.intname].tags.type_assault:
+        type = "type_assault";
         break;
     }
     if (unitData[element.intname].tags.type_jet_fighter) {

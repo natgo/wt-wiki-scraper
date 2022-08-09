@@ -591,5 +591,5 @@ export interface Tags {
   type_dive_bomber?: boolean;
   type_interceptor?: boolean;
   type_aa_fighter?: boolean;
-  type_light_bomber?:boolean;
+  type_light_bomber?: boolean;
 }
