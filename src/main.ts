@@ -78,12 +78,16 @@ async function getHelicopters() {
 }
 
 function downloand(vehicles: categorymemberspart[], type: string) {
-  const parsequery = "https://wiki.warthunder.com/api.php?action=parse&format=json&prop=wikitext";
+  const parsequery = "https://wiki.warthunder.com/api.php?action=parse&format=json&prop=text";
   vehicles.forEach(async (element) => {
     const response: parsedpage = await axios.get(parsequery + `&pageid=${element.pageid}`);
     fs.writeFileSync(
       `./wikitext/${type}/${encodeURIComponent(element.title)}.json`,
       JSON.stringify(response.data.parse),
+    );
+    fs.writeFileSync(
+      `./wikitext-transpiled/${type}/${encodeURIComponent(element.title)}.html`,
+      response.data.parse.text["*"],
     );
   });
 }

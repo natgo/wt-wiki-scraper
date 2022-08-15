@@ -2,10 +2,10 @@ import fs from "fs";
 
 import { AirVehicle, Economy, GroundVehicle, UnitData } from "./types";
 
-interface savedwikiparse {
+interface savedparse {
   title: string;
   pageid: number;
-  wikitext: {
+  text: {
     "*": string;
   };
 }
@@ -56,9 +56,9 @@ async function main() {
   );
 
   const vehicles: {
-    ground: savedwikiparse[];
-    aircraft: savedwikiparse[];
-    helicopter: savedwikiparse[];
+    ground: savedparse[];
+    aircraft: savedparse[];
+    helicopter: savedparse[];
   } = {
     ground: [],
     aircraft: [],
@@ -91,46 +91,28 @@ async function main() {
   });
 
   vehicles.ground.forEach((element) => {
-    const match = element.wikitext["*"].match(/Specs-Card.*\n.code\s?=\s?.*/g);
+    const match = element.text["*"].match(/data-code=".*"/g);
     if (match) {
-      if (match[0].split("=")[1][0] === " ") {
-        names.ground.push({
-          intname: match[0].split("=")[1].substring(1),
-          wikiname: element.title,
-        });
-      } else {
-        names.ground.push({ intname: match[0].split("=")[1], wikiname: element.title });
-      }
+      const splitmatch = match[0].split("=")[1];
+      names.ground.push({ intname: splitmatch.substring(1,splitmatch.length-1), wikiname: element.title });
     } else {
       console.log(element.title + element.pageid);
     }
   });
   vehicles.aircraft.forEach((element) => {
-    const match = element.wikitext["*"].match(/Specs-Card.*\n.code\s?=\s?.*/g);
+    const match = element.text["*"].match(/data-code=".*"/g);
     if (match) {
-      if (match[0].split("=")[1][0] === " ") {
-        names.aircraft.push({
-          intname: match[0].split("=")[1].substring(1),
-          wikiname: element.title,
-        });
-      } else {
-        names.aircraft.push({ intname: match[0].split("=")[1], wikiname: element.title });
-      }
+      const splitmatch = match[0].split("=")[1];
+      names.aircraft.push({ intname: splitmatch.substring(1,splitmatch.length-1), wikiname: element.title });
     } else {
       console.log(element.title + element.pageid);
     }
   });
   vehicles.helicopter.forEach((element) => {
-    const match = element.wikitext["*"].match(/Specs-Card.*\n.code\s?=\s?.*/g);
+    const match = element.text["*"].match(/data-code=".*"/g);
     if (match) {
-      if (match[0].split("=")[1][0] === " ") {
-        names.helicopter.push({
-          intname: match[0].split("=")[1].substring(1),
-          wikiname: element.title,
-        });
-      } else {
-        names.helicopter.push({ intname: match[0].split("=")[1], wikiname: element.title });
-      }
+      const splitmatch = match[0].split("=")[1];
+      names.helicopter.push({ intname: splitmatch.substring(1,splitmatch.length-1), wikiname: element.title });
     } else {
       console.log(element.title + element.pageid);
     }
