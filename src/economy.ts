@@ -39,7 +39,8 @@ interface FinalProps {
   ab_sl_multiplyer: number;
   rb_sl_multiplyer: number;
   sb_sl_multiplyer: number;
-  is_prem: boolean;
+  prem_type: string;
+  cost_gold: number|undefined;
 }
 
 interface GroundProps extends FinalProps {
@@ -94,7 +95,10 @@ async function main() {
     const match = element.text["*"].match(/data-code=".*"/g);
     if (match) {
       const splitmatch = match[0].split("=")[1];
-      names.ground.push({ intname: splitmatch.substring(1,splitmatch.length-1), wikiname: element.title });
+      names.ground.push({
+        intname: splitmatch.substring(1, splitmatch.length - 1),
+        wikiname: element.title,
+      });
     } else {
       console.log(element.title + element.pageid);
     }
@@ -103,7 +107,10 @@ async function main() {
     const match = element.text["*"].match(/data-code=".*"/g);
     if (match) {
       const splitmatch = match[0].split("=")[1];
-      names.aircraft.push({ intname: splitmatch.substring(1,splitmatch.length-1), wikiname: element.title });
+      names.aircraft.push({
+        intname: splitmatch.substring(1, splitmatch.length - 1),
+        wikiname: element.title,
+      });
     } else {
       console.log(element.title + element.pageid);
     }
@@ -112,7 +119,10 @@ async function main() {
     const match = element.text["*"].match(/data-code=".*"/g);
     if (match) {
       const splitmatch = match[0].split("=")[1];
-      names.helicopter.push({ intname: splitmatch.substring(1,splitmatch.length-1), wikiname: element.title });
+      names.helicopter.push({
+        intname: splitmatch.substring(1, splitmatch.length - 1),
+        wikiname: element.title,
+      });
     } else {
       console.log(element.title + element.pageid);
     }
@@ -162,7 +172,7 @@ async function main() {
     const vehicle: GroundVehicle = JSON.parse(
       fs.readFileSync(`./tankmodels/${element.intname.toLowerCase()}.blkx`, "utf-8"),
     );
-    let prem = false;
+    let prem = "false";
     let type = "";
     const ext_type: string[] = [];
     switch (true) {
@@ -185,9 +195,22 @@ async function main() {
         type = "type_spaa";
         break;
     }
-    if (economy[element.intname].gift) {
-      prem = true;
+    if (economy[element.intname].costGold) {
+      if (economy[element.intname].gift) {
+        prem = "store";
+      } else {
+        prem = "gold";
+      }
+    } else {
+      if (economy[element.intname].researchType) {
+        prem = "squad";
+      } else {
+        if (economy[element.intname].event) {
+          prem = "event";
+        }
+      }
     }
+
     final.ground.push({
       intname: element.intname,
       wikiname: element.wikiname,
@@ -212,14 +235,15 @@ async function main() {
       reqRP: economy[element.intname].reqExp,
       mass: vehicle.VehiclePhys.Mass.Empty + vehicle.VehiclePhys.Mass.Fuel,
       horsepower: vehicle.VehiclePhys.engine.horsePowers,
-      is_prem: prem,
+      prem_type: prem,
+      cost_gold: economy[element.intname].costGold,
     });
   });
   names.aircraft.forEach((element) => {
     const vehicle: AirVehicle = JSON.parse(
       fs.readFileSync(`./flightmodels/${element.intname.toLowerCase()}.blkx`, "utf-8"),
     );
-    let prem = false;
+    let prem = "false";
     let type = "";
     const ext_type: string[] = [];
     switch (true) {
@@ -266,9 +290,22 @@ async function main() {
     if (unitData[element.intname].tags.type_light_bomber) {
       ext_type.push("type_light_bomber");
     }
-    if (economy[element.intname].gift) {
-      prem = true;
+    if (economy[element.intname].costGold) {
+      if (economy[element.intname].gift) {
+        prem = "store";
+      } else {
+        prem = "gold";
+      }
+    } else {
+      if (economy[element.intname].researchType) {
+        prem = "squad";
+      } else {
+        if (economy[element.intname].event) {
+          prem = "event";
+        }
+      }
     }
+
     final.aircraft.push({
       intname: element.intname,
       wikiname: element.wikiname,
@@ -291,14 +328,15 @@ async function main() {
       sb_sl_multiplyer: economy[element.intname].rewardMulSimulation,
       sl_price: economy[element.intname].value,
       reqRP: economy[element.intname].reqExp,
-      is_prem: prem,
+      prem_type: prem,
+      cost_gold: economy[element.intname].costGold,
     });
   });
   names.helicopter.forEach((element) => {
     const vehicle: AirVehicle = JSON.parse(
       fs.readFileSync(`./flightmodels/${element.intname.toLowerCase()}.blkx`, "utf-8"),
     );
-    let prem = false;
+    let prem = "false";
     let type = "";
     const ext_type: string[] = [];
     if (unitData[element.intname].tags.type_attack_helicopter) {
@@ -311,9 +349,22 @@ async function main() {
         type = "type_utility_helicopter";
       }
     }
-    if (economy[element.intname].gift) {
-      prem = true;
+    if (economy[element.intname].costGold) {
+      if (economy[element.intname].gift) {
+        prem = "store";
+      } else {
+        prem = "gold";
+      }
+    } else {
+      if (economy[element.intname].researchType) {
+        prem = "squad";
+      } else {
+        if (economy[element.intname].event) {
+          prem = "event";
+        }
+      }
     }
+
     final.helicopter.push({
       intname: element.intname,
       wikiname: element.wikiname,
@@ -336,7 +387,8 @@ async function main() {
       sb_sl_multiplyer: economy[element.intname].rewardMulSimulation,
       sl_price: economy[element.intname].value,
       reqRP: economy[element.intname].reqExp,
-      is_prem: prem,
+      prem_type: prem,
+      cost_gold: economy[element.intname].costGold,
     });
   });
   fs.writeFileSync("./out/final.json", JSON.stringify(final));

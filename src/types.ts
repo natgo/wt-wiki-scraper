@@ -43,6 +43,8 @@ export interface Economy {
   crewTotalCount: number;
   killStreak: boolean;
   gift: string;
+  researchType?: "clanVehicle";
+  event?: string;
   weaponmask: number;
   reloadTime_cannon: number;
   maxDeltaAngle_rockets: number;
@@ -53,7 +55,7 @@ export interface Economy {
   needBuyToOpenNextInTier2: number;
   needBuyToOpenNextInTier3: number;
   needBuyToOpenNextInTier4: number;
-  costGold: number;
+  costGold?: number;
   freeRepairs: number;
   weapons: Record<string, unknown>;
   modifications: Record<string, unknown>;
