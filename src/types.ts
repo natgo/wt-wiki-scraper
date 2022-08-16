@@ -45,6 +45,7 @@ export interface Economy {
   gift: string;
   researchType?: "clanVehicle";
   event?: string;
+  showOnlyWhenBought?:boolean;
   weaponmask: number;
   reloadTime_cannon: number;
   maxDeltaAngle_rockets: number;

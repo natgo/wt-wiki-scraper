@@ -41,6 +41,7 @@ interface FinalProps {
   sb_sl_multiplyer: number;
   prem_type: string;
   cost_gold: number|undefined;
+  hidden: boolean;
 }
 
 interface GroundProps extends FinalProps {
@@ -174,6 +175,7 @@ async function main() {
     );
     let prem = "false";
     let type = "";
+    let hidden = false;
     const ext_type: string[] = [];
     switch (true) {
       case unitData[element.intname].tags.type_light_tank:
@@ -194,6 +196,9 @@ async function main() {
       case unitData[element.intname].tags.type_spaa:
         type = "type_spaa";
         break;
+    }
+    if (economy[element.intname].showOnlyWhenBought) {
+      hidden = true;
     }
     if (economy[element.intname].costGold) {
       if (economy[element.intname].gift) {
@@ -237,6 +242,7 @@ async function main() {
       horsepower: vehicle.VehiclePhys.engine.horsePowers,
       prem_type: prem,
       cost_gold: economy[element.intname].costGold,
+      hidden: hidden,
     });
   });
   names.aircraft.forEach((element) => {
@@ -245,6 +251,7 @@ async function main() {
     );
     let prem = "false";
     let type = "";
+    let hidden = false;
     const ext_type: string[] = [];
     switch (true) {
       case unitData[element.intname].tags.type_fighter:
@@ -290,6 +297,9 @@ async function main() {
     if (unitData[element.intname].tags.type_light_bomber) {
       ext_type.push("type_light_bomber");
     }
+    if (economy[element.intname].showOnlyWhenBought) {
+      hidden = true;
+    }
     if (economy[element.intname].costGold) {
       if (economy[element.intname].gift) {
         prem = "store";
@@ -330,6 +340,7 @@ async function main() {
       reqRP: economy[element.intname].reqExp,
       prem_type: prem,
       cost_gold: economy[element.intname].costGold,
+      hidden: hidden,
     });
   });
   names.helicopter.forEach((element) => {
@@ -338,6 +349,7 @@ async function main() {
     );
     let prem = "false";
     let type = "";
+    let hidden = false;
     const ext_type: string[] = [];
     if (unitData[element.intname].tags.type_attack_helicopter) {
       type = "type_attack_helicopter";
@@ -348,6 +360,9 @@ async function main() {
       if (unitData[element.intname].tags.type_utility_helicopter) {
         type = "type_utility_helicopter";
       }
+    }
+    if (economy[element.intname].showOnlyWhenBought) {
+      hidden = true;
     }
     if (economy[element.intname].costGold) {
       if (economy[element.intname].gift) {
@@ -389,6 +404,7 @@ async function main() {
       reqRP: economy[element.intname].reqExp,
       prem_type: prem,
       cost_gold: economy[element.intname].costGold,
+      hidden: hidden,
     });
   });
   fs.writeFileSync("./out/final.json", JSON.stringify(final));
