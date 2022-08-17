@@ -24,6 +24,7 @@ interface FinalProps {
   extended_type: string[];
   country: string;
   rank: number;
+  crew: number;
   sl_price: number;
   reqRP: number;
   ab_br: string;
@@ -243,6 +244,7 @@ async function main() {
       prem_type: prem,
       cost_gold: economy[element.intname].costGold,
       hidden: hidden,
+      crew:economy[element.intname].crewTotalCount,
     });
   });
   names.aircraft.forEach((element) => {
@@ -341,6 +343,7 @@ async function main() {
       prem_type: prem,
       cost_gold: economy[element.intname].costGold,
       hidden: hidden,
+      crew:economy[element.intname].crewTotalCount,
     });
   });
   names.helicopter.forEach((element) => {
@@ -405,6 +408,7 @@ async function main() {
       prem_type: prem,
       cost_gold: economy[element.intname].costGold,
       hidden: hidden,
+      crew:economy[element.intname].crewTotalCount,
     });
   });
   fs.writeFileSync("./out/final.json", JSON.stringify(final));
