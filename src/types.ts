@@ -478,7 +478,7 @@ export interface UnitData {
   releaseDate: Date;
   info: Info;
   tags: Tags;
-  Shop: Shop;
+  Shop?: Shop;
   operatorCountry?: string;
 }
 
