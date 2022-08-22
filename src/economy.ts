@@ -49,7 +49,7 @@ interface GroundProps extends FinalProps {
   mass: number;
   horsepower: number;
   turret_armour?: number[];
-  hull_armout?: number[];
+  hull_armour?: number[];
 }
 
 async function main() {
@@ -248,7 +248,7 @@ async function main() {
       hidden: hidden,
       crew: economy[element.intname].crewTotalCount,
       turret_armour: unitData[element.intname].Shop?.armorThicknessTurret,
-      hull_armout: unitData[element.intname].Shop?.armorThicknessHull,
+      hull_armour: unitData[element.intname].Shop?.armorThicknessHull,
     });
   });
   names.aircraft.forEach((element) => {
