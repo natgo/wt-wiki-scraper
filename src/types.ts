@@ -45,7 +45,7 @@ export interface Economy {
   gift: string;
   researchType?: "clanVehicle";
   event?: string;
-  showOnlyWhenBought?:boolean;
+  showOnlyWhenBought?: boolean;
   weaponmask: number;
   reloadTime_cannon: number;
   maxDeltaAngle_rockets: number;
@@ -110,12 +110,289 @@ export interface GroundVehicle {
   sound: Sound;
   gunConvergence: GunConvergence;
   cockpit: Cockpit;
+  DamageParts: DamageParts;
+}
+
+export interface Mechanics {
+  maxBrakeForce:   number;
+  driveGearRadius: number;
+  mainGearRatio:   number;
+  sideGearRatio:   number;
+  gearRatios:      GearRatios;
+}
+
+export interface GearRatios {
+  ratio: number[];
+}
+
+export interface DamageParts {
+  formatVersion: number;
+  armorClass: string;
+  hp: number;
+  hull: Hull;
+  turret: Turret;
+  hull_turret_ex_shields: HullTurretExShields;
+  tank_structural_steel_elements: TankStructuralSteelElements;
+  mask: Mask;
+  optics: Optics;
+  chassis: Chassis;
+  gun: Gun;
+  tracks: Tracks;
+  crew: Crew;
+  equipment_body_turret: EquipmentBodyTurret;
+  cannon_breech: CannonBreech;
+  power_block: PowerBlock;
+  ammo: Ammo;
+  fuel_tanks: FuelTanks;
+  fuel_tanks_exterior: FuelTanksExterior;
+  commander_panoramic_sight: CommanderPanoramicSight;
+}
+
+export interface Ammo {
+  armorClass: string;
+  hp: number;
+  armorThickness: number;
+  armorThrough: number;
+  fireProtectionHp: number;
+  createSecondaryShatters: boolean;
+}
+
+export interface CannonBreech {
+  armorClass: string;
+  hp: number;
+  armorThickness: number;
+  fireProtectionHp: number;
+  hidableInViewer: boolean;
+  cannon_breech_dm: CannonBreechDm;
+  cannon_breech_01_dm: CannonBreech0__Dm;
+  cannon_breech_02_dm: CannonBreech0__Dm;
+  cannon_breech_03_dm: CannonBreech0__Dm;
+  cannon_breech_04_dm: CannonBreech0__Dm;
+  cannon_breech_05_dm: CannonBreech0__Dm;
+}
+
+export interface CannonBreech0__Dm {
+  armorThickness: number;
+  armorThrough: number;
+}
+
+export interface CannonBreechDm {
+  restrainDamage: number;
+  armorThrough: number;
+}
+
+export interface Chassis {
+  armorClass: string;
+  hp: number;
+  armorThickness: number;
+  submodule: Submodule;
+}
+
+export interface Submodule {
+  armorClass: string;
+  armorThickness: number;
+  hp: number;
+}
+
+export interface CommanderPanoramicSight {
+  commander_panoramic_sight_dm: CommanderPanoramicSightDmClass;
+}
+
+export interface CommanderPanoramicSightDmClass {
+  armorClass?: string;
+  armorThrough: number;
+  armorThickness: number;
+  hp: number;
+}
+
+export interface Crew {
+  armorClass: string;
+  hp: number;
+  genericDamageMult: number;
+  pressureDamageMult: number;
+  napalmDamageMult: number;
+  ignoreSolidDimension: boolean;
+}
+
+export interface EquipmentBodyTurret {
+  armorClass: string;
+  hp: number;
+  armorThrough: number;
+  fireProtectionHp: number;
+  hidableInViewer: boolean;
+  drive_turret_v_dm: DriveTurretDm;
+  drive_turret_h_dm: DriveTurretDm;
+  drive_turret_v_01_dm: DriveTurretH01_DmClass;
+  drive_turret_h_01_dm: DriveTurretH01_DmClass;
+  drive_turret_v_02_dm: DriveTurretH01_DmClass;
+  drive_turret_h_02_dm: DriveTurretH01_DmClass;
+  drive_turret_v_03_dm: DriveTurretH01_DmClass;
+  drive_turret_h_03_dm: DriveTurretH01_DmClass;
+  drive_turret_v_04_dm: DriveTurretH01_DmClass;
+  drive_turret_h_04_dm: DriveTurretH01_DmClass;
+  drive_turret_v_05_dm: DriveTurretH01_DmClass;
+  drive_turret_h_05_dm: DriveTurretH01_DmClass;
+  radiator_dm: DriveTurretH01_DmClass;
+  radiator_l_dm: DriveTurretH01_DmClass;
+  radiator_r_dm: DriveTurretH01_DmClass;
+  radio_station_dm: DriveTurretH01_DmClass;
+  radio_station_01_dm: DriveTurretH01_DmClass;
+}
+
+export interface DriveTurretH01_DmClass {
+  hp: number;
+  armorThrough: number;
+}
+
+export interface DriveTurretDm {
+  armorThrough: number;
+}
+
+export interface FuelTanks {
+  armorClass: string;
+  hp: number;
+  armorThickness: number;
+  armorThrough: number;
+  fireProtectionHp: number;
+  createSecondaryShatters: boolean;
+  fireParamsPreset: string;
+  stopChanceOnDeadPart: number;
+}
+
+export interface FuelTanksExterior {
+  armorClass: string;
+  hp: number;
+  armorThickness: number;
+  armorThrough: number;
+  fireProtectionHp: number;
+  createSecondaryShatters: boolean;
+  fireParamsPreset: string;
+}
+
+export interface Gun {
+  armorClass: string;
+  hp: number;
+  armorThickness: number;
+  gun_barrel_01_dm: CommanderPanoramicSightDmClass;
+  gun_barrel_02_dm: CommanderPanoramicSightDmClass;
+  gun_barrel_03_dm: CommanderPanoramicSightDmClass;
+  gun_barrel_04_dm: CommanderPanoramicSightDmClass;
+  gun_barrel_05_dm: CommanderPanoramicSightDmClass;
+}
+
+export interface Hull {
+  body_front_dm: Armour;
+  superstructure_front_dm: Armour;
+  body_top_dm: Armour;
+  body_back_dm: Armour;
+  body_side_dm: Armour;
+  superstructure_top_dm: Armour;
+  superstructure_bottom_dm: Armour;
+  superstructure_back_dm: Armour;
+  body_bottom_dm: Armour;
+  turret_01_bottom_dm: Armour;
+  turret_01_front_dm: Armour;
+  turret_01_side_dm: Armour;
+  superstructure_side_dm: Armour;
+  turret_02_back_dm: Turret02___Dm;
+  turret_02_bottom_dm: Turret02___Dm;
+  turret_02_front_dm: Turret02___Dm;
+  turret_03_bottom_dm: Armour;
+}
+
+export interface Armour {
+  armorThickness: number;
+}
+
+export interface Turret02___Dm {
+  armorThickness: number;
+  armorEffectiveThicknessMax: number;
+}
+
+export interface HullTurretExShields {
+  armorClass: string;
+  hidableInViewer: boolean;
+  hp: number;
+  ex_armor_turret_01_dm: Armour;
+  ex_armor_turret_r_01_dm: Armour;
+  ex_armor_turret_r_02_dm: Armour;
+  ex_armor_turret_l_01_dm: Armour;
+  ex_armor_turret_l_02_dm: Armour;
+}
+
+export interface Mask {
+  armorClass: string;
+  gun_barrel_armor_dm: Armour;
+  turret_commander_dm: Armour;
+  turret_02_side_dm: Armour;
+  mg_twin_armor_dm: Armour;
+  gun_mask_02_dm: Armour;
+}
+
+export interface Optics {
+  armorClass: string;
+  optic_gun_dm: OpticDm;
+  optic_turret_01_dm: OpticDm;
+  optic_turret_02_dm: OpticDm;
+  optic_turret_03_dm: OpticDm;
+  optic_turret_04_dm: OpticDm;
+  optic_turret_05_dm: OpticDm;
+  optic_turret_06_dm: OpticDm;
+  optic_turret_07_dm: OpticDm;
+  optic_turret_08_dm: OpticDm;
+  optic_turret_09_dm: OpticDm;
+  optic_turret_10_dm: OpticDm;
+  optic_turret_11_dm: OpticDm;
+  optic_body_01_dm: OpticDm;
+}
+
+export interface OpticDm {
+  armorThickness: number;
+  hp: number;
+}
+
+export interface PowerBlock {
+  armorClass: string;
+  hp: number;
+  armorThickness: number;
+  fireProtectionHp: number;
+  restrainDamage: number;
+}
+
+export interface TankStructuralSteelElements {
+  armorClass: string;
+  armorThickness: number;
+  hp: number;
+  stopChanceOnDeadPart: number;
+  createSecondaryShatters: boolean;
+}
+
+export interface Tracks {
+  armorClass: string;
+  allowRicochet: boolean;
+  armorThickness: number;
+  armorEffectiveThicknessMax: number;
+  hp: number;
+  genericEffectiveThicknessMax: number;
+  genericDamageMult: number;
+  cumulativeDamageMult: number;
+}
+
+export interface Turret {
+  turret_top_dm: Armour;
+  turret_side_dm: Armour;
+  turret_front_dm: Armour;
+  gun_mask_dm: Armour;
+  gun_mask_01_dm: Armour;
+  turret_bottom_dm: Armour;
+  turret_back_dm: Armour;
 }
 
 export interface VehiclePhys {
   Mass: Mass;
   tracks: VehiclePhysTracks;
   engine: Engine;
+  mechanics: Mechanics;
 }
 
 export interface Engine {

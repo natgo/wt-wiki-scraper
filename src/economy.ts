@@ -41,15 +41,17 @@ interface FinalProps {
   rb_sl_multiplyer: number;
   sb_sl_multiplyer: number;
   prem_type: string;
-  cost_gold: number|undefined;
+  cost_gold: number | undefined;
   hidden: boolean;
 }
 
 interface GroundProps extends FinalProps {
   mass: number;
   horsepower: number;
-  turret_armour?: number[];
-  hull_armour?: number[];
+  turret_armour: number[];
+  hull_armour: number[];
+  gears_forward: number;
+  gears_backward:number;
 }
 
 async function main() {
@@ -218,6 +220,83 @@ async function main() {
         }
       }
     }
+    console.log(element.wikiname);
+
+    let gearsF = 0;
+    let gearsB = 0;
+    if (vehicle.VehiclePhys.mechanics.gearRatios.ratio) {
+      vehicle.VehiclePhys.mechanics.gearRatios.ratio.forEach(element => {
+        if (element>0) {
+          gearsF++;
+        }
+        if (element<0) {
+          gearsB++;
+        }
+      });
+    }
+
+    let turret: number[] = [0, 0, 0];
+    let hull: number[] = [0, 0, 0];
+    if (vehicle.DamageParts.turret) {
+      if (
+        vehicle.DamageParts.turret.turret_front_dm ||
+        vehicle.DamageParts.turret.turret_side_dm ||
+        vehicle.DamageParts.turret.turret_back_dm
+      ) {
+        if (
+          vehicle.DamageParts.turret.turret_front_dm &&
+          vehicle.DamageParts.turret.turret_side_dm &&
+          vehicle.DamageParts.turret.turret_back_dm
+        ) {
+          turret = [
+            vehicle.DamageParts.turret.turret_front_dm.armorThickness,
+            vehicle.DamageParts.turret.turret_side_dm.armorThickness,
+            vehicle.DamageParts.turret.turret_back_dm.armorThickness,
+          ];
+        } else {
+          if (
+            vehicle.DamageParts.turret.turret_front_dm &&
+            vehicle.DamageParts.turret.turret_side_dm &&
+            !vehicle.DamageParts.turret.turret_back_dm
+          ) {
+            turret = [
+              vehicle.DamageParts.turret.turret_front_dm.armorThickness,
+              vehicle.DamageParts.turret.turret_side_dm.armorThickness,
+            ];
+          }
+        }
+      }
+    }
+    if (vehicle.DamageParts.hull) {
+      if (
+        vehicle.DamageParts.hull.body_front_dm ||
+        vehicle.DamageParts.hull.body_side_dm ||
+        vehicle.DamageParts.hull.body_back_dm
+      ) {
+        if (
+          vehicle.DamageParts.hull.body_front_dm &&
+          vehicle.DamageParts.hull.body_side_dm &&
+          vehicle.DamageParts.hull.body_back_dm
+        ) {
+          hull = [
+            vehicle.DamageParts.hull.body_front_dm.armorThickness,
+            vehicle.DamageParts.hull.body_side_dm.armorThickness,
+            vehicle.DamageParts.hull.body_back_dm.armorThickness,
+          ];
+        } else {
+          if (
+            vehicle.DamageParts.hull.body_front_dm &&
+            vehicle.DamageParts.hull.body_side_dm &&
+            !vehicle.DamageParts.hull.body_back_dm
+          ) {
+            hull = [
+              vehicle.DamageParts.hull.body_front_dm.armorThickness,
+              vehicle.DamageParts.hull.body_side_dm.armorThickness,
+            ];
+          }
+        }
+      }
+    }
 
     final.ground.push({
       intname: element.intname,
@@ -247,8 +326,10 @@ async function main() {
       cost_gold: economy[element.intname].costGold,
       hidden: hidden,
       crew: economy[element.intname].crewTotalCount,
-      turret_armour: unitData[element.intname].Shop?.armorThicknessTurret,
-      hull_armour: unitData[element.intname].Shop?.armorThicknessHull,
+      turret_armour: turret,
+      hull_armour: hull,
+      gears_forward: gearsF,
+      gears_backward: gearsB,
     });
   });
   names.aircraft.forEach((element) => {
@@ -347,7 +428,7 @@ async function main() {
       prem_type: prem,
       cost_gold: economy[element.intname].costGold,
       hidden: hidden,
-      crew:economy[element.intname].crewTotalCount,
+      crew: economy[element.intname].crewTotalCount,
     });
   });
   names.helicopter.forEach((element) => {
@@ -412,7 +493,7 @@ async function main() {
       prem_type: prem,
       cost_gold: economy[element.intname].costGold,
       hidden: hidden,
-      crew:economy[element.intname].crewTotalCount,
+      crew: economy[element.intname].crewTotalCount,
     });
   });
   fs.writeFileSync("./out/final.json", JSON.stringify(final));
