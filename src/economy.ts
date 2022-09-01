@@ -51,7 +51,7 @@ interface GroundProps extends FinalProps {
   turret_armour: number[];
   hull_armour: number[];
   gears_forward: number;
-  gears_backward:number;
+  gears_backward: number;
 }
 
 async function main() {
@@ -225,11 +225,11 @@ async function main() {
     let gearsF = 0;
     let gearsB = 0;
     if (vehicle.VehiclePhys.mechanics.gearRatios.ratio) {
-      vehicle.VehiclePhys.mechanics.gearRatios.ratio.forEach(element => {
-        if (element>0) {
+      vehicle.VehiclePhys.mechanics.gearRatios.ratio.forEach((element) => {
+        if (element > 0) {
           gearsF++;
         }
-        if (element<0) {
+        if (element < 0) {
           gearsB++;
         }
       });

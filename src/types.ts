@@ -114,11 +114,11 @@ export interface GroundVehicle {
 }
 
 export interface Mechanics {
-  maxBrakeForce:   number;
+  maxBrakeForce: number;
   driveGearRadius: number;
-  mainGearRatio:   number;
-  sideGearRatio:   number;
-  gearRatios:      GearRatios;
+  mainGearRatio: number;
+  sideGearRatio: number;
+  gearRatios: GearRatios;
 }
 
 export interface GearRatios {

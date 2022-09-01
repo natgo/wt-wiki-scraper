@@ -146,7 +146,7 @@ function transpile(techtree: { ground: string[]; aircraft: string[]; helicopter:
 }
 
 async function main() {
-  if (!fs.existsSync("./wikitext/ground/VT1-2.json")) {
+  if (!fs.existsSync("./wikitext/ground/2S6.json")) {
     const aircraft = await getAircraft();
     const ground = await getGroundVehicles();
     const helicopter = await getHelicopters();
