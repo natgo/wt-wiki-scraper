@@ -1782,7 +1782,7 @@
           1.0,
           15.0
         ],
-        "bullets": 5950,
+        "bullets": 6000,
         "isBulletBelt": true,
         "ChainfireTime": 3.0,
         "DelayAfterShoot": 3.0,

@@ -1960,7 +1960,7 @@
         "parkInDeadzone": false,
         "speedYaw": 90.0,
         "speedPitch": 90.0,
-        "bullets": 500,
+        "bullets": 600,
         "isBulletBelt": true,
         "fireConeAngle": 5.0,
         "ChainfireTime": 0.5,
@@ -2788,6 +2788,21 @@
           "fireEvent": "ammo_fire",
           "explosionEvent": "ammo_explosion",
           "wreckedPartId": 0,
+          "ammo_turret_44_dm": {
+            "count": 1
+          },
+          "ammo_turret_45_dm": {
+            "count": 1
+          },
+          "ammo_turret_46_dm": {
+            "count": 1
+          },
+          "ammo_turret_47_dm": {
+            "count": 1
+          },
+          "ammo_turret_48_dm": {
+            "count": 1
+          },
           "ammo_turret_27_dm": {
             "count": 1
           },
@@ -2837,21 +2852,6 @@
             "count": 1
           },
           "ammo_turret_43_dm": {
-            "count": 1
-          },
-          "ammo_turret_44_dm": {
-            "count": 1
-          },
-          "ammo_turret_45_dm": {
-            "count": 1
-          },
-          "ammo_turret_46_dm": {
-            "count": 1
-          },
-          "ammo_turret_47_dm": {
-            "count": 1
-          },
-          "ammo_turret_48_dm": {
             "count": 1
           }
         },
@@ -3211,7 +3211,7 @@
               "parkInDeadzone": false,
               "speedYaw": 90.0,
               "speedPitch": 90.0,
-              "bullets": 500,
+              "bullets": 600,
               "isBulletBelt": true,
               "fireConeAngle": 5.0,
               "ChainfireTime": 0.5,
@@ -3289,7 +3289,7 @@
               "defaultYaw": 0.0,
               "defaultPitch": 0.0,
               "allowableDelta": 360.0,
-              "salvo": 4,
+              "salvo": 2,
               "salvoDelay": 0.5,
               "speedYaw": 24.0,
               "speedPitch": 15.0,

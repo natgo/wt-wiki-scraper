@@ -274,7 +274,7 @@
     },
     "chassis": {
       "armorClass": "tank_steel_wheels",
-      "hp": 250.0,
+      "hp": 300.0,
       "armorThickness": 20.0,
       "wheel_r_01_dm": {},
       "wheel_r_02_dm": {},
@@ -1548,7 +1548,7 @@
           1.0,
           15.0
         ],
-        "bullets": 3600,
+        "bullets": 3750,
         "ChainfireTime": 3.0,
         "DelayAfterShoot": 3.0,
         "accuracyAir": 0.0,
@@ -2543,7 +2543,7 @@
                 1.0,
                 15.0
               ],
-              "bullets": 3600,
+              "bullets": 3750,
               "ChainfireTime": 3.0,
               "DelayAfterShoot": 3.0,
               "accuracyAir": 0.0,

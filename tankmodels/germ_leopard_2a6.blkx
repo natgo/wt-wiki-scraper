@@ -2131,7 +2131,7 @@
           1.0,
           15.0
         ],
-        "bullets": 4500,
+        "bullets": 5000,
         "isBulletBelt": true,
         "ChainfireTime": 3.0,
         "DelayAfterShoot": 3.0,
@@ -3186,7 +3186,7 @@
                 1.0,
                 15.0
               ],
-              "bullets": 4500,
+              "bullets": 5000,
               "isBulletBelt": true,
               "ChainfireTime": 3.0,
               "DelayAfterShoot": 3.0,
@@ -3380,7 +3380,7 @@
               "defaultYaw": 0.0,
               "defaultPitch": 0.0,
               "allowableDelta": 360.0,
-              "salvo": 4,
+              "salvo": 2,
               "salvoDelay": 0.5,
               "speedYaw": 24.0,
               "speedPitch": 15.0,
@@ -3512,6 +3512,7 @@
       "replenishmentDelay": 4.0,
       "shells": [
         {
+          "fireParamsPreset": "turret_bustle",
           "fatalFire": false,
           "fatalExplosion": false,
           "firstStage": true,

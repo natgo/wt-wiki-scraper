@@ -1680,7 +1680,7 @@
           1.0,
           15.0
         ],
-        "bullets": 3600,
+        "bullets": 3750,
         "ChainfireTime": 3.0,
         "DelayAfterShoot": 3.0,
         "accuracyAir": 0.0,
@@ -1692,6 +1692,7 @@
         "errTargettingOn100kmph": 0.0,
         "errTargetting": 3.0,
         "errExplTime": 0.0,
+        "showBulletsInHud": false,
         "turret": {
           "head": "bone_mg_gun_twin_01",
           "gun": "bone_mg_gun_twin_01",

@@ -2625,12 +2625,11 @@
     "ammo1": {
       "weaponTrigger": "gunner0",
       "removeLoadedAmmo": true,
-      "fatalFire": true,
-      "fatalExplosion": true,
       "replenishmentTime": 13.0,
       "replenishmentDelay": 4.0,
       "shells": [
         {
+          "fireParamsPreset": "turret_bustle",
           "fatalFire": false,
           "fatalExplosion": false,
           "firstStage": true,
@@ -2681,6 +2680,11 @@
           }
         },
         {
+          "fatalFire": true,
+          "fatalExplosion": true,
+          "fireEvent": "ammo_fire",
+          "explosionEvent": "ammo_explosion",
+          "wreckedPartId": 0,
           "reloadTimeMult": 4.0,
           "ammo_body_01_dm": {
             "count": 1
@@ -2883,7 +2887,7 @@
           1.0,
           15.0
         ],
-        "bullets": 4500,
+        "bullets": 5000,
         "isBulletBelt": true,
         "ChainfireTime": 3.0,
         "DelayAfterShoot": 3.0,
@@ -3237,7 +3241,7 @@
                 1.0,
                 15.0
               ],
-              "bullets": 4500,
+              "bullets": 5000,
               "isBulletBelt": true,
               "ChainfireTime": 3.0,
               "DelayAfterShoot": 3.0,
@@ -3442,7 +3446,7 @@
               "defaultYaw": 0.0,
               "defaultPitch": 0.0,
               "allowableDelta": 360.0,
-              "salvo": 4,
+              "salvo": 2,
               "salvoDelay": 0.5,
               "speedYaw": 24.0,
               "speedPitch": 15.0,

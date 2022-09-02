@@ -1561,7 +1561,7 @@
           1.0,
           15.0
         ],
-        "bullets": 2000,
+        "bullets": 2016,
         "ChainfireTime": 3.0,
         "DelayAfterShoot": 3.0,
         "accuracyAir": 0.0,
@@ -1618,7 +1618,7 @@
         "turret": {
           "head": "bone_mg_aa_h_01",
           "gun": "bone_mg_aa_v_01",
-          "gunnerDm": "commander_dm"
+          "gunnerDm": "loader_dm"
         },
         "limits": {
           "yaw": [

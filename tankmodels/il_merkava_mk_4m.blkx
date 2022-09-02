@@ -1938,7 +1938,7 @@
           1.0,
           15.0
         ],
-        "bullets": 5950,
+        "bullets": 6000,
         "isBulletBelt": true,
         "ChainfireTime": 3.0,
         "DelayAfterShoot": 3.0,
@@ -1951,6 +1951,7 @@
         "errTargettingOn100kmph": 0.0,
         "errTargetting": 3.0,
         "errExplTime": 0.0,
+        "showBulletsInHud": false,
         "turret": {
           "head": "bone_mg_twin_01",
           "gun": "bone_mg_twin_01",
@@ -1986,7 +1987,7 @@
           1.0,
           15.0
         ],
-        "bullets": 900,
+        "bullets": 1000,
         "isBulletBelt": true,
         "ChainfireTime": 3.0,
         "DelayAfterShoot": 3.0,
@@ -2031,7 +2032,7 @@
         "parkInDeadzone": false,
         "speedYaw": 90.0,
         "speedPitch": 90.0,
-        "bullets": 1750,
+        "bullets": 1800,
         "isBulletBelt": true,
         "fireConeAngle": 5.0,
         "ChainfireTime": 0.5,
@@ -2181,6 +2182,7 @@
         "speedYaw": 1000.0,
         "speedPitch": 1000.0,
         "bullets": 1,
+        "showBulletsInHud": false,
         "turret": {
           "head": "bone_countermeasure_02_h",
           "gun": "bone_countermeasure_02_v"
@@ -2207,6 +2209,7 @@
         "speedYaw": 1000.0,
         "speedPitch": 1000.0,
         "bullets": 1,
+        "showBulletsInHud": false,
         "turret": {
           "head": "bone_countermeasure_01_h",
           "gun": "bone_countermeasure_01_v"
@@ -3247,14 +3250,13 @@
   },
   "ammoStowages": {
     "ammo1": {
-      "removeLoadedAmmo": true,
       "weaponTrigger": "gunner0",
-      "fatalFire": true,
-      "fatalExplosion": true,
+      "removeLoadedAmmo": true,
       "replenishmentDelay": 4.0,
       "replenishmentTime": 10.0,
       "shells": [
         {
+          "fireParamsPreset": "turret_bustle",
           "fatalFire": false,
           "fatalExplosion": false,
           "firstStage": true,
@@ -3290,6 +3292,11 @@
           }
         },
         {
+          "fatalFire": true,
+          "fatalExplosion": true,
+          "fireEvent": "ammo_fire",
+          "explosionEvent": "ammo_explosion",
+          "wreckedPartId": 0,
           "reloadTimeMult": 1.28,
           "ammo_body_01_dm": {
             "count": 1
@@ -3543,7 +3550,7 @@
                 1.0,
                 15.0
               ],
-              "bullets": 5950,
+              "bullets": 6000,
               "isBulletBelt": true,
               "ChainfireTime": 3.0,
               "DelayAfterShoot": 3.0,
@@ -3556,6 +3563,7 @@
               "errTargettingOn100kmph": 0.0,
               "errTargetting": 3.0,
               "errExplTime": 0.0,
+              "showBulletsInHud": false,
               "turret": {
                 "head": "bone_mg_twin_01",
                 "gun": "bone_mg_twin_01",
@@ -3591,7 +3599,7 @@
                 1.0,
                 15.0
               ],
-              "bullets": 900,
+              "bullets": 1000,
               "isBulletBelt": true,
               "ChainfireTime": 3.0,
               "DelayAfterShoot": 3.0,
@@ -3636,7 +3644,7 @@
               "parkInDeadzone": false,
               "speedYaw": 90.0,
               "speedPitch": 90.0,
-              "bullets": 1750,
+              "bullets": 1800,
               "isBulletBelt": true,
               "fireConeAngle": 5.0,
               "ChainfireTime": 0.5,
@@ -3786,6 +3794,7 @@
               "speedYaw": 1000.0,
               "speedPitch": 1000.0,
               "bullets": 1,
+              "showBulletsInHud": false,
               "turret": {
                 "head": "bone_countermeasure_02_h",
                 "gun": "bone_countermeasure_02_v"
@@ -3812,6 +3821,7 @@
               "speedYaw": 1000.0,
               "speedPitch": 1000.0,
               "bullets": 1,
+              "showBulletsInHud": false,
               "turret": {
                 "head": "bone_countermeasure_01_h",
                 "gun": "bone_countermeasure_01_v"
@@ -3845,7 +3855,7 @@
               "defaultYaw": 0.0,
               "defaultPitch": 0.0,
               "allowableDelta": 360.0,
-              "salvo": 6,
+              "salvo": 2,
               "salvoDelay": 0.5,
               "speedYaw": 24.0,
               "speedPitch": 15.0,

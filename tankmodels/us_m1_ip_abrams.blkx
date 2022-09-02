@@ -2827,6 +2827,7 @@
         "errTargettingOn100kmph": 0.0,
         "errTargetting": 3.0,
         "errExplTime": 0.0,
+        "showBulletsInHud": false,
         "turret": {
           "head": "bone_mg_aa_h",
           "gun": "bone_mg_aa_v",
@@ -3246,6 +3247,7 @@
               "errTargettingOn100kmph": 0.0,
               "errTargetting": 3.0,
               "errExplTime": 0.0,
+              "showBulletsInHud": false,
               "turret": {
                 "head": "bone_mg_aa_h",
                 "gun": "bone_mg_aa_v",
@@ -3341,7 +3343,7 @@
               "defaultYaw": 0.0,
               "defaultPitch": 0.0,
               "allowableDelta": 360.0,
-              "salvo": 6,
+              "salvo": 4,
               "salvoDelay": 0.5,
               "speedYaw": 24.0,
               "speedPitch": 15.0,

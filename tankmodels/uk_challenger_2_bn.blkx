@@ -1975,7 +1975,7 @@
           1.0,
           15.0
         ],
-        "bullets": 2300,
+        "bullets": 4000,
         "ChainfireTime": 3.0,
         "DelayAfterShoot": 3.0,
         "accuracyAir": 0.0,
@@ -2113,6 +2113,7 @@
         "speedYaw": 1000.0,
         "speedPitch": 1000.0,
         "bullets": 1,
+        "showBulletsInHud": false,
         "turret": {
           "head": "bone_countermeasure_02_h",
           "gun": "bone_countermeasure_02_01_v",
@@ -2150,6 +2151,7 @@
         "speedYaw": 1000.0,
         "speedPitch": 1000.0,
         "bullets": 1,
+        "showBulletsInHud": false,
         "turret": {
           "head": "bone_countermeasure_01_h",
           "gun": "bone_countermeasure_01_01_v",
@@ -3133,7 +3135,7 @@
                 1.0,
                 15.0
               ],
-              "bullets": 2300,
+              "bullets": 4000,
               "ChainfireTime": 3.0,
               "DelayAfterShoot": 3.0,
               "accuracyAir": 0.0,
@@ -3271,6 +3273,7 @@
               "speedYaw": 1000.0,
               "speedPitch": 1000.0,
               "bullets": 1,
+              "showBulletsInHud": false,
               "turret": {
                 "head": "bone_countermeasure_02_h",
                 "gun": "bone_countermeasure_02_01_v",
@@ -3308,6 +3311,7 @@
               "speedYaw": 1000.0,
               "speedPitch": 1000.0,
               "bullets": 1,
+              "showBulletsInHud": false,
               "turret": {
                 "head": "bone_countermeasure_01_h",
                 "gun": "bone_countermeasure_01_01_v",
@@ -3352,7 +3356,7 @@
               "defaultYaw": 0.0,
               "defaultPitch": 0.0,
               "allowableDelta": 360.0,
-              "salvo": 5,
+              "salvo": 4,
               "salvoDelay": 0.5,
               "speedYaw": 24.0,
               "speedPitch": 15.0,

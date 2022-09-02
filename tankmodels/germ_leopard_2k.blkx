@@ -2208,6 +2208,18 @@
           }
         }
       ]
+    },
+    "ammo2": {
+      "weaponTrigger": "gunner1",
+      "removeLoadedAmmo": false,
+      "shells": {
+        "fatalFire": false,
+        "fatalExplosion": false,
+        "fireParamsPreset": "turret_bustle",
+        "ammo_turret_dm": {
+          "count": 750
+        }
+      }
     }
   },
   "wreckedParts": {
@@ -3082,7 +3094,7 @@
               "defaultYaw": 0.0,
               "defaultPitch": 0.0,
               "allowableDelta": 360.0,
-              "salvo": 4,
+              "salvo": 2,
               "salvoDelay": 0.5,
               "speedYaw": 24.0,
               "speedPitch": 15.0,

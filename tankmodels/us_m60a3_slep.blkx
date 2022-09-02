@@ -1985,7 +1985,7 @@
           1.0,
           5.0
         ],
-        "bullets": 900,
+        "bullets": 1000,
         "ChainfireTime": 0.5,
         "DelayAfterShoot": 2.0,
         "accuracyAir": 1.5,
@@ -1998,6 +1998,7 @@
         "errTargetting": 3.0,
         "errExplTime": 0.0,
         "forestallTime": 0.1,
+        "showBulletsInHud": false,
         "turret": {
           "head": "bone_turret_02",
           "gun": "bone_gun_barrel_02",
@@ -2031,7 +2032,7 @@
           1.0,
           15.0
         ],
-        "bullets": 5950,
+        "bullets": 6000,
         "isBulletBelt": true,
         "ChainfireTime": 3.0,
         "DelayAfterShoot": 3.0,
@@ -3032,7 +3033,7 @@
                 1.0,
                 5.0
               ],
-              "bullets": 900,
+              "bullets": 1000,
               "ChainfireTime": 0.5,
               "DelayAfterShoot": 2.0,
               "accuracyAir": 1.5,
@@ -3045,6 +3046,7 @@
               "errTargetting": 3.0,
               "errExplTime": 0.0,
               "forestallTime": 0.1,
+              "showBulletsInHud": false,
               "turret": {
                 "head": "bone_turret_02",
                 "gun": "bone_gun_barrel_02",
@@ -3078,7 +3080,7 @@
                 1.0,
                 15.0
               ],
-              "bullets": 5950,
+              "bullets": 6000,
               "isBulletBelt": true,
               "ChainfireTime": 3.0,
               "DelayAfterShoot": 3.0,
@@ -3199,7 +3201,7 @@
               "defaultYaw": 0.0,
               "defaultPitch": 0.0,
               "allowableDelta": 360.0,
-              "salvo": 6,
+              "salvo": 4,
               "salvoDelay": 0.5,
               "speedYaw": 12.0,
               "speedPitch": 15.0,

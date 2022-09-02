@@ -863,6 +863,7 @@
       "replenishmentDelay": 3.0,
       "shells": [
         {
+          "fireParamsPreset": "turret_bustle",
           "fatalFire": false,
           "fatalExplosion": false,
           "firstStage": true,
@@ -942,6 +943,9 @@
         {
           "fatalFire": true,
           "fatalExplosion": true,
+          "fireEvent": "ammo_fire",
+          "explosionEvent": "ammo_explosion",
+          "wreckedPartId": 0,
           "reloadTimeMult": 2.0,
           "ammo_body_01_dm": {
             "count": 1
@@ -992,6 +996,9 @@
         {
           "fatalFire": true,
           "fatalExplosion": true,
+          "fireEvent": "ammo_fire",
+          "explosionEvent": "ammo_explosion",
+          "wreckedPartId": 0,
           "reloadTimeMult": 1.28,
           "ammo_turret_01_dm": {
             "count": 1
@@ -1894,7 +1901,7 @@
           1.0,
           15.0
         ],
-        "bullets": 8900,
+        "bullets": 9000,
         "isBulletBelt": true,
         "ChainfireTime": 3.0,
         "DelayAfterShoot": 3.0,
@@ -1951,6 +1958,7 @@
         "errTargetting": 3.0,
         "errExplTime": 0.0,
         "forestallTime": 0.1,
+        "showBulletsInHud": false,
         "turret": {
           "head": "bone_mg_aa_h",
           "gun": "bone_mg_aa_v",
@@ -1980,7 +1988,7 @@
         "parkInDeadzone": false,
         "speedYaw": 90.0,
         "speedPitch": 90.0,
-        "bullets": 1000,
+        "bullets": 1080,
         "isBulletBelt": true,
         "fireConeAngle": 5.0,
         "ChainfireTime": 0.5,
