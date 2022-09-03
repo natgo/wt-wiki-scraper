@@ -20,6 +20,7 @@ interface Final {
 interface FinalProps {
   intname: string;
   wikiname: string;
+  type: "tank"|"aircraft"|"helicopter";
   normal_type: string;
   extended_type: string[];
   country: string;
@@ -330,6 +331,7 @@ async function main() {
       hull_armour: hull,
       gears_forward: gearsF,
       gears_backward: gearsB,
+      type: "tank"
     });
   });
   names.aircraft.forEach((element) => {
@@ -429,6 +431,7 @@ async function main() {
       cost_gold: economy[element.intname].costGold,
       hidden: hidden,
       crew: economy[element.intname].crewTotalCount,
+      type: "aircraft"
     });
   });
   names.helicopter.forEach((element) => {
@@ -494,6 +497,7 @@ async function main() {
       cost_gold: economy[element.intname].costGold,
       hidden: hidden,
       crew: economy[element.intname].crewTotalCount,
+      type: "helicopter"
     });
   });
   fs.writeFileSync("./out/final.json", JSON.stringify(final));
