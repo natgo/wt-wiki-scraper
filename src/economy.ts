@@ -1,6 +1,6 @@
 import fs from "fs";
 
-import { AirVehicle, Economy, Final, GroundVehicle, savedparse, UnitData } from "./types";
+import { AirVehicle, Economy, Final, GroundVehicle, UnitData, savedparse, NightVision } from "./types";
 
 async function main() {
   const economy: Record<string, Economy> = JSON.parse(
@@ -170,6 +170,14 @@ async function main() {
     }
     console.log(element.wikiname);
 
+    let night: NightVision | undefined = undefined;
+    Object.entries(vehicle.modifications).forEach(([key, value]) => {
+      if (value.effects?.nightVision) {
+        night = value.effects.nightVision;
+      }
+    });
+    console.log(night);
+
     let gearsF = 0;
     let gearsB = 0;
     if (vehicle.VehiclePhys.mechanics.gearRatios.ratio) {
@@ -278,7 +286,10 @@ async function main() {
       hull_armour: hull,
       gears_forward: gearsF,
       gears_backward: gearsB,
-      type: "tank"
+      type: "tank",
+      night_vision: night,
+      hydro_suspension: vehicle.VehiclePhys.movableSuspension ? true : undefined,
+      can_float: vehicle.VehiclePhys.floats ? true : undefined,
     });
   });
   names.aircraft.forEach((element) => {
@@ -378,7 +389,7 @@ async function main() {
       cost_gold: economy[element.intname].costGold,
       hidden: hidden,
       crew: economy[element.intname].crewTotalCount,
-      type: "aircraft"
+      type: "aircraft",
     });
   });
   names.helicopter.forEach((element) => {
@@ -444,7 +455,7 @@ async function main() {
       cost_gold: economy[element.intname].costGold,
       hidden: hidden,
       crew: economy[element.intname].crewTotalCount,
-      type: "helicopter"
+      type: "helicopter",
     });
   });
   fs.writeFileSync("./out/final.json", JSON.stringify(final));

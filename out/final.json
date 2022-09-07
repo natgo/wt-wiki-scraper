@@ -1,5 +1,5 @@
 {
-  "updated": "2022-09-02T13:49:48.309Z",
+  "updated": "2022-09-05T11:20:52.411Z",
   "ground": [
     {
       "intname": "us_m18_hellcat_black_cat_race",
@@ -165,7 +165,29 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 5,
       "gears_backward": 5,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      },
+      "hydro_suspension": true,
+      "can_float": true
     },
     {
       "intname": "ussr_2s25m",
@@ -198,7 +220,19 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [1200, 800],
+          "lightMult": 7,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      },
+      "hydro_suspension": true,
+      "can_float": true
     },
     {
       "intname": "ussr_2s3m",
@@ -231,7 +265,21 @@
       "hull_armour": [15, 15, 15],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_zprk_2s6",
@@ -264,7 +312,23 @@
       "hull_armour": [9, 9, 9],
       "gears_forward": 4,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      },
+      "hydro_suspension": true
     },
     {
       "intname": "it_semovente_l40",
@@ -827,7 +891,16 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 3,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "us_adats_bradley",
@@ -860,7 +933,16 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_armored_car_mk_2_aa",
@@ -960,7 +1042,16 @@
       "hull_armour": [38.1, 25.4, 25.4],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "fr_amc_34",
@@ -1223,7 +1314,24 @@
       "hull_armour": [45, 20, 25],
       "gears_forward": 10,
       "gears_backward": 5,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      },
+      "hydro_suspension": true,
+      "can_float": true
     },
     {
       "intname": "fr_amx_13_fl_11",
@@ -1522,7 +1630,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 5,
       "gears_backward": 5,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "fr_amx_30_ACRA",
@@ -1555,7 +1683,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 5,
       "gears_backward": 5,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "fr_amx_30_dca",
@@ -1622,7 +1770,16 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 7,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "fr_amx_30",
@@ -1656,7 +1813,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 5,
       "gears_backward": 5,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "fr_amx_30_b2_brenus",
@@ -1689,7 +1866,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 10,
       "gears_backward": 10,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "fr_amx_30_b2",
@@ -1722,7 +1914,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 10,
       "gears_backward": 10,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "fr_amx_32",
@@ -1755,7 +1962,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 10,
       "gears_backward": 10,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "fr_amx_40",
@@ -1788,7 +2010,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 7,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "fr_amx_50_foch",
@@ -2052,7 +2289,16 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 3,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_asu_57",
@@ -2085,7 +2331,15 @@
       "hull_armour": [6, 4],
       "gears_forward": 4,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_asu_85",
@@ -2118,7 +2372,27 @@
       "hull_armour": [45, 6, 6],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "it_aubl_74_60_70m",
@@ -2152,7 +2426,16 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        }
+      },
+      "can_float": true
     },
     {
       "intname": "it_fiat_6616_cockerill",
@@ -2185,7 +2468,16 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        }
+      },
+      "can_float": true
     },
     {
       "intname": "uk_17_pdr_m10_achilles_norfolk_yeomanry",
@@ -2352,7 +2644,22 @@
       "hull_armour": [50, 35, 20],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "it_c1_ariete_pso",
@@ -2385,7 +2692,17 @@
       "hull_armour": [50, 35, 20],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [1200, 800],
+          "lightMult": 7,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "it_c1_ariete",
@@ -2418,7 +2735,17 @@
       "hull_armour": [50, 35, 20],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [1200, 800],
+          "lightMult": 7,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_a30_sp_avenger",
@@ -2586,7 +2913,8 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "hydro_suspension": true
     },
     {
       "intname": "ussr_bm_8_24",
@@ -2653,7 +2981,24 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 5,
       "gears_backward": 5,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      },
+      "hydro_suspension": true,
+      "can_float": true
     },
     {
       "intname": "ussr_bmp_1",
@@ -2686,7 +3031,28 @@
       "hull_armour": [19, 18, 16],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      },
+      "can_float": true
     },
     {
       "intname": "ussr_bmp_2",
@@ -2719,7 +3085,28 @@
       "hull_armour": [15, 15, 13],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      },
+      "can_float": true
     },
     {
       "intname": "ussr_bmp_2m",
@@ -2752,7 +3139,23 @@
       "hull_armour": [15, 15, 13],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      },
+      "can_float": true
     },
     {
       "intname": "ussr_bmp_3",
@@ -2785,7 +3188,24 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      },
+      "hydro_suspension": true,
+      "can_float": true
     },
     {
       "intname": "ussr_bt_5",
@@ -3016,7 +3436,22 @@
       "hull_armour": [32, 20, 20],
       "gears_forward": 4,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      },
+      "can_float": true
     },
     {
       "intname": "germ_begleitpanzer_57",
@@ -3049,7 +3484,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 7,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_panzerbefelhswagen_jagdpanther",
@@ -3149,7 +3599,17 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [1200, 800],
+          "lightMult": 7,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_a_43_black_prince",
@@ -3316,7 +3776,22 @@
       "hull_armour": [70, 30, 25],
       "gears_forward": 7,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "fr_lorraine_100",
@@ -3448,7 +3923,16 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "cn_cm_25",
@@ -3481,7 +3965,28 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 3,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      },
+      "can_float": true
     },
     {
       "intname": "sw_cv_90105_tml",
@@ -3515,7 +4020,17 @@
       "hull_armour": [20, 10, 20],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [1200, 800],
+          "lightMult": 7,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "sw_cv_90120",
@@ -3548,7 +4063,17 @@
       "hull_armour": [20, 10, 20],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [1200, 800],
+          "lightMult": 7,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_fv221_caernarvon",
@@ -3682,7 +4207,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "it_b1_centauro",
@@ -3715,7 +4255,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "it_centauro_mgs_120",
@@ -3748,7 +4303,17 @@
       "hull_armour": [20, 15, 15],
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [1200, 800],
+          "lightMult": 7,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_centurion_action_x",
@@ -3848,7 +4413,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_centurion_mk_3",
@@ -3949,7 +4534,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_challenger_2_dorchester",
@@ -3982,7 +4587,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_challenger_2_tes",
@@ -4015,7 +4635,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_challenger_II",
@@ -4048,7 +4683,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_challenger_1_mk_3_gulf",
@@ -4082,7 +4732,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 6,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_challenger_1",
@@ -4115,7 +4780,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 6,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_challenger_mk_3",
@@ -4148,7 +4828,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 6,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_a30_challenger",
@@ -4745,7 +5440,15 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_chieftain_mk_10",
@@ -4778,7 +5481,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_chieftain_mk_3",
@@ -4811,7 +5534,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_chieftain_mk_5",
@@ -4844,7 +5587,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_a_22_mk_1_churchill_1941",
@@ -4976,7 +5739,27 @@
       "hull_armour": [30, 20, 20],
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "us_m4a3e2_sherman_jumbo_cobra_king",
@@ -5607,7 +6390,16 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_pzsfl_IVa_dickermax",
@@ -6008,7 +6800,8 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "can_float": true
     },
     {
       "intname": "uk_fv4005",
@@ -6107,7 +6900,15 @@
       "hull_armour": [12.7, 14.27, 12],
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_panzerjager_tiger_P_ferdinand",
@@ -6206,7 +7007,16 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_flakpanzer_V_Coelian",
@@ -6338,7 +7148,15 @@
       "hull_armour": [20, 8, 10],
       "gears_forward": 11,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_gaz_4m",
@@ -6470,7 +7288,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_flakpz_I_Gepard",
@@ -6736,7 +7569,17 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "jp_type_95_ha_go_commander",
@@ -7069,7 +7912,21 @@
       "hull_armour": [38, 44, 38],
       "gears_forward": 3,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "jp_type_89b_i_go_otsu",
@@ -7134,7 +7991,16 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_is_1",
@@ -7731,7 +8597,27 @@
       "hull_armour": [100, 80, 45],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "sw_ikv_103",
@@ -7864,7 +8750,27 @@
       "hull_armour": [20, 8, 8],
       "gears_forward": 8,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "sw_ikv_91",
@@ -7964,7 +8870,16 @@
       "hull_armour": [8, 8],
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "sw_crotale_ng",
@@ -7997,7 +8912,16 @@
       "hull_armour": [8, 8],
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_kanonenjagdpanzer",
@@ -8030,7 +8954,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 6,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_sk105_a2",
@@ -8063,7 +9007,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_panzerjager_panther",
@@ -8228,7 +9187,28 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 8,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      },
+      "hydro_suspension": true
     },
     {
       "intname": "ussr_kv_1_L_11",
@@ -8699,7 +9679,8 @@
       "hull_armour": [50, 10, 20],
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "can_float": true
     },
     {
       "intname": "jp_type_2_ka_mi",
@@ -8732,7 +9713,8 @@
       "hull_armour": [12, 10, 10],
       "gears_forward": 8,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "can_float": true
     },
     {
       "intname": "jp_type_98_ke_ni",
@@ -8797,7 +9779,17 @@
       "hull_armour": [60, 43, 43],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      },
+      "can_float": true
     },
     {
       "intname": "germ_flakpanzer_IV_Kugelblitz",
@@ -8995,7 +9987,18 @@
       "hull_armour": [12.7, null, null],
       "gears_forward": 10,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [1200, 800],
+          "lightMult": 7,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      },
+      "can_float": true
     },
     {
       "intname": "us_lvt_a_1",
@@ -9027,7 +10030,8 @@
       "hull_armour": [6.35, 6.35, 6.35],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "can_float": true
     },
     {
       "intname": "us_lvt_4_zis_2",
@@ -9060,7 +10064,8 @@
       "hull_armour": [6.35, 6.35, 6.35],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "can_float": true
     },
     {
       "intname": "cn_lvt_4_zis_2",
@@ -9093,7 +10098,8 @@
       "hull_armour": [6.35, 6.35, 6.35],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "can_float": true
     },
     {
       "intname": "us_lvt_a_4",
@@ -9127,7 +10133,8 @@
       "hull_armour": [6.35, 6.35, 6.35],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "can_float": true
     },
     {
       "intname": "fr_lvt_bofors",
@@ -9161,7 +10168,8 @@
       "hull_armour": [6.35, 6.35, 6.35],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "can_float": true
     },
     {
       "intname": "sw_lago_1",
@@ -9260,7 +10268,15 @@
       "hull_armour": [31.7, 25.4, 19],
       "gears_forward": 4,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "fr_leclerc_s2",
@@ -9293,7 +10309,22 @@
       "hull_armour": [50, 20, 20],
       "gears_forward": 10,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "fr_leclerc_sxxi",
@@ -9326,7 +10357,17 @@
       "hull_armour": [50, 20, 20],
       "gears_forward": 10,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [1200, 800],
+          "lightMult": 7,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "fr_leclerc_s1",
@@ -9359,7 +10400,22 @@
       "hull_armour": [50, 20, 20],
       "gears_forward": 10,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "it_leopard_1a5",
@@ -9392,7 +10448,22 @@
       "hull_armour": [70, 30, 25],
       "gears_forward": 7,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_leopard_1a5",
@@ -9425,7 +10496,22 @@
       "hull_armour": [70, 30, 25],
       "gears_forward": 7,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_leopard_2a4_pzbtl_123",
@@ -9459,7 +10545,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_leopard_2pl",
@@ -9492,7 +10593,17 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [1200, 800],
+          "lightMult": 7,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_leopard_2a4",
@@ -9525,7 +10636,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_leopard_2a5",
@@ -9558,7 +10684,17 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_leopard_2a6",
@@ -9591,7 +10727,17 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_leopard_2av",
@@ -9624,7 +10770,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_leopard_2k",
@@ -9657,7 +10823,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 8,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_leopard_a1a1_120",
@@ -9691,7 +10877,22 @@
       "hull_armour": [70, 30, 25],
       "gears_forward": 7,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_leopard_I_a1",
@@ -9724,7 +10925,27 @@
       "hull_armour": [70, 30, 25],
       "gears_forward": 7,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_leopard_I",
@@ -9757,7 +10978,27 @@
       "hull_armour": [70, 30, 25],
       "gears_forward": 7,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_vickers_mk_6_aa_mk_1",
@@ -9923,7 +11164,8 @@
       "hull_armour": [null, null, null],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "hydro_suspension": true
     },
     {
       "intname": "sw_lvkv_90c",
@@ -9956,7 +11198,16 @@
       "hull_armour": [20, 10, 20],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "sw_lvrbv_701",
@@ -10121,7 +11372,16 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "cn_m10",
@@ -10253,7 +11513,15 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "it_m11_39",
@@ -10319,7 +11587,12 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 12,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
+        "driverThermal": { "resolution": [500, 300], "noiseFactor": 0.05 }
+      }
     },
     {
       "intname": "cn_m113a1_tow",
@@ -10352,7 +11625,28 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 3,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      },
+      "can_float": true
     },
     {
       "intname": "it_m113a1_tow",
@@ -10385,7 +11679,28 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 3,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      },
+      "can_float": true
     },
     {
       "intname": "us_halftrack_m13",
@@ -10750,7 +12065,21 @@
       "hull_armour": [38, 44, 38],
       "gears_forward": 3,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "us_m18_hellcat_black_cat",
@@ -10982,7 +12311,16 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "us_m1a1_hc_abrams",
@@ -11015,7 +12353,16 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "us_m1a1_abrams",
@@ -11048,7 +12395,16 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "us_m1a2_abrams",
@@ -11081,7 +12437,17 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "us_m2_medium",
@@ -11345,7 +12711,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "it_m26_ariete",
@@ -11645,7 +13031,16 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "us_halftrack_m3_75mm_gmc",
@@ -12077,7 +13472,12 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverThermal": { "resolution": [800, 600], "noiseFactor": 0.04 }
+      }
     },
     {
       "intname": "cn_m3a3_stuart",
@@ -12310,7 +13710,15 @@
       "hull_armour": [31.7, 25.4, 19],
       "gears_forward": 4,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "us_m41_walker_bulldog",
@@ -12343,7 +13751,15 @@
       "hull_armour": [31.7, 25.4, 19],
       "gears_forward": 4,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "cn_m_41d",
@@ -12376,7 +13792,16 @@
       "hull_armour": [31.7, 25.4, 19],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "cn_m42_duster",
@@ -12409,7 +13834,15 @@
       "hull_armour": [25.7, 12.7, 19],
       "gears_forward": 4,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "it_m15_42_contraereo",
@@ -12475,7 +13908,15 @@
       "hull_armour": [25.7, 12.7, 19],
       "gears_forward": 4,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "us_m42_duster",
@@ -12508,7 +13949,15 @@
       "hull_armour": [25.7, 12.7, 19],
       "gears_forward": 4,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "it_semovente_m43_105_leoncello",
@@ -12642,7 +14091,15 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "jp_m47_patton_II",
@@ -12675,7 +14132,15 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 4,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "us_m47_patton_II",
@@ -12708,7 +14173,15 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 4,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_mkpz_super_m48",
@@ -12741,7 +14214,16 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 7,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "cn_m48a1_patton_III",
@@ -12774,7 +14256,15 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 4,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "us_m48a1_patton_III",
@@ -12807,7 +14297,15 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 4,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_mkpz_m48a2c",
@@ -12840,7 +14338,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 4,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_mkpz_m48a2ga2",
@@ -12873,7 +14391,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 4,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "cn_m4a1_76w_sherman",
@@ -13636,7 +15174,27 @@
       "hull_armour": [31.7, 25.4, 19],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "us_m56_scorpion",
@@ -13801,7 +15359,17 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [1200, 800],
+          "lightMult": 7,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "us_m60",
@@ -13834,7 +15402,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "it_m60a1_ariete",
@@ -13868,7 +15456,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "us_m60a1",
@@ -13901,7 +15509,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "us_m60a1_rise_passive_era",
@@ -13934,7 +15562,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "us_m60a2",
@@ -13967,7 +15615,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "cn_m60a3_tts",
@@ -14000,7 +15668,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "us_m60a3_tts",
@@ -14033,7 +15716,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "cn_type_64",
@@ -14333,7 +16031,22 @@
       "hull_armour": [38, 44, 38],
       "gears_forward": 3,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "fr_mars_15",
@@ -14399,7 +16112,28 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 8,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      },
+      "hydro_suspension": true
     },
     {
       "intname": "fr_vcac_mephisto",
@@ -14432,7 +16166,17 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 10,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      },
+      "can_float": true
     },
     {
       "intname": "ussr_a_12_mk_2_matilda_2A_F96",
@@ -14534,7 +16278,15 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 4,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "il_machbet",
@@ -14567,7 +16319,16 @@
       "hull_armour": [38, 44, 38],
       "gears_forward": 3,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "il_m48a1_patton_III",
@@ -14600,7 +16361,15 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 4,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "il_magach_2",
@@ -14633,7 +16402,15 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 4,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "us_magach_3",
@@ -14667,7 +16444,15 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "il_magach_3",
@@ -14701,7 +16486,15 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "il_magach_6",
@@ -14734,7 +16527,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "il_magach_6a",
@@ -14767,7 +16580,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "il_magach_6b",
@@ -14800,7 +16633,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_marder_1a3",
@@ -14833,7 +16686,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 8,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_marder_1a1",
@@ -14866,7 +16734,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 8,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_pzkpfw_38t_Marder_III_ausf_H",
@@ -15065,7 +16953,27 @@
       "hull_armour": [50, 50, 30],
       "gears_forward": 4,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "il_merkava_mk_1b",
@@ -15098,7 +17006,22 @@
       "hull_armour": [50, 50, 30],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "us_merkava_mk_2b_late",
@@ -15131,7 +17054,22 @@
       "hull_armour": [50, 50, 30],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "il_merkava_mk_2b_early",
@@ -15164,7 +17102,22 @@
       "hull_armour": [50, 50, 30],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "il_merkava_mk_2d",
@@ -15198,7 +17151,22 @@
       "hull_armour": [50, 50, 30],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "il_merkava_mk_3b",
@@ -15231,7 +17199,22 @@
       "hull_armour": [50, 50, 30],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "us_merkava_mk_3d",
@@ -15264,7 +17247,22 @@
       "hull_armour": [50, 50, 30],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "il_merkava_mk_4b",
@@ -15297,7 +17295,17 @@
       "hull_armour": [50, 50, 30],
       "gears_forward": 7,
       "gears_backward": 7,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [1200, 800],
+          "lightMult": 7,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "il_merkava_mk_4m",
@@ -15330,7 +17338,17 @@
       "hull_armour": [50, 50, 30],
       "gears_forward": 7,
       "gears_backward": 7,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [1200, 800],
+          "lightMult": 7,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "jp_type_5_na_to",
@@ -15464,7 +17482,27 @@
       "hull_armour": [50, 30, 25],
       "gears_forward": 7,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "it_of_40_mk_2a",
@@ -15497,7 +17535,27 @@
       "hull_armour": [50, 30, 25],
       "gears_forward": 7,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "it_of_40_mk_1",
@@ -15530,7 +17588,27 @@
       "hull_armour": [50, 30, 25],
       "gears_forward": 7,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "it_otomatic",
@@ -15563,7 +17641,22 @@
       "hull_armour": [50, 30, 25],
       "gears_forward": 7,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_object_120",
@@ -15597,7 +17690,27 @@
       "hull_armour": [30, 30, 10],
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_object_248",
@@ -15697,7 +17810,27 @@
       "hull_armour": [120, 80, 5],
       "gears_forward": 8,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_object_685",
@@ -15730,7 +17863,28 @@
       "hull_armour": [60, 43, 13],
       "gears_forward": 4,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      },
+      "can_float": true
     },
     {
       "intname": "ussr_object_906",
@@ -15763,7 +17917,28 @@
       "hull_armour": [30, 25, 12],
       "gears_forward": 9,
       "gears_backward": 9,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      },
+      "can_float": true
     },
     {
       "intname": "uk_olifant_mk_1a",
@@ -15796,7 +17971,27 @@
       "hull_armour": [76.2, 50.8, 38],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_olifant_mk_2",
@@ -15829,7 +18024,17 @@
       "hull_armour": [76.2, 50.8, 38],
       "gears_forward": 8,
       "gears_backward": 3,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [1200, 800],
+          "lightMult": 7,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_flakpanzer_IV_Ostwind_2",
@@ -15928,7 +18133,16 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "fr_citroen_kegresse_p4t",
@@ -16061,7 +18275,22 @@
       "hull_armour": [12, 10, 10],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "cn_pgz_09",
@@ -16094,7 +18323,22 @@
       "hull_armour": [12, 10, 10],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_leopard_2_pt14",
@@ -16127,7 +18371,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 8,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "cn_pt_76",
@@ -16160,7 +18424,16 @@
       "hull_armour": [13, 10, 6],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      },
+      "can_float": true
     },
     {
       "intname": "ussr_pt_76_57",
@@ -16194,7 +18467,22 @@
       "hull_armour": [13, 10, 6],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      },
+      "can_float": true
     },
     {
       "intname": "ussr_pt_76b",
@@ -16227,7 +18515,16 @@
       "hull_armour": [13, 10, 6],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      },
+      "can_float": true
     },
     {
       "intname": "cn_ptl_02",
@@ -16260,7 +18557,22 @@
       "hull_armour": [10, 10],
       "gears_forward": 8,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "cn_ptz_89",
@@ -16293,7 +18605,27 @@
       "hull_armour": [35, 15, 10],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_schutzenpanzer_puma",
@@ -16326,7 +18658,17 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 10,
       "gears_backward": 5,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [1200, 800],
+          "lightMult": 7,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "fr_pzkpfw_V_panther_dauphine",
@@ -16525,7 +18867,21 @@
       "hull_armour": [60, 60, 40],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "commanderIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_pz_IV_L70_A",
@@ -16957,7 +19313,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 4,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_pzkpfw_35t",
@@ -18018,7 +20394,8 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "can_float": true
     },
     {
       "intname": "it_oto_r3_t20_fa",
@@ -18051,7 +20428,8 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "can_float": true
     },
     {
       "intname": "ussr_rbt_5",
@@ -18118,7 +20496,27 @@
       "hull_armour": [29, 29],
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_raketenjagdpanzer_2_hot",
@@ -18151,7 +20549,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 6,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_raketenjagdpanzer_2",
@@ -18384,7 +20802,22 @@
       "hull_armour": [30, 25, 20],
       "gears_forward": 12,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_rooikat_mttd",
@@ -18417,7 +20850,22 @@
       "hull_armour": [30, 25, 20],
       "gears_forward": 12,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_rooikat_76",
@@ -18450,7 +20898,27 @@
       "hull_armour": [30, 25, 20],
       "gears_forward": 12,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_ru251",
@@ -18749,7 +21217,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_smk",
@@ -18816,7 +21299,28 @@
       "hull_armour": [19, 18, 16],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      },
+      "can_float": true
     },
     {
       "intname": "jp_st_a1",
@@ -18948,7 +21452,16 @@
       "hull_armour": [80, 40, 25],
       "gears_forward": 7,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      },
+      "hydro_suspension": true
     },
     {
       "intname": "cn_su_100_1945",
@@ -19114,7 +21627,15 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_su_122",
@@ -20149,7 +22670,15 @@
       "hull_armour": [76.2, 50.8, 38],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_centurion_shot_kal_d",
@@ -20183,7 +22712,15 @@
       "hull_armour": [76.2, 50.8, 38],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "il_centurion_shot_kal_d",
@@ -20217,7 +22754,15 @@
       "hull_armour": [76.2, 50.8, 38],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "il_centurion_shot_kal_gimel",
@@ -20250,7 +22795,15 @@
       "hull_armour": [76.2, 50.8, 38],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "il_centurion_mk_5_shot",
@@ -20283,7 +22836,15 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_9p149",
@@ -20316,7 +22877,17 @@
       "hull_armour": [14, 7, 7],
       "gears_forward": 11,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      },
+      "can_float": true
     },
     {
       "intname": "jp_type_95_so_ki",
@@ -20482,7 +23053,22 @@
       "hull_armour": [25, 12.7, 12.7],
       "gears_forward": 7,
       "gears_backward": 7,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "sw_strf_9056",
@@ -20515,7 +23101,17 @@
       "hull_armour": [20, 10, 20],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [1200, 800],
+          "lightMult": 7,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "sw_strf_90b",
@@ -20548,7 +23144,16 @@
       "hull_armour": [20, 10, 20],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "sw_strf_90c",
@@ -20581,7 +23186,16 @@
       "hull_armour": [20, 10, 20],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_fv102_striker",
@@ -20614,7 +23228,22 @@
       "hull_armour": [25, 12.7, 12.7],
       "gears_forward": 7,
       "gears_backward": 7,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "sw_strv_101",
@@ -20647,7 +23276,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "sw_strv_103_0",
@@ -20681,7 +23330,28 @@
       "hull_armour": [40, 30, 10],
       "gears_forward": 7,
       "gears_backward": 6,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      },
+      "hydro_suspension": true
     },
     {
       "intname": "sw_strv_103a",
@@ -20714,7 +23384,28 @@
       "hull_armour": [40, 30, 10],
       "gears_forward": 7,
       "gears_backward": 6,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      },
+      "hydro_suspension": true
     },
     {
       "intname": "sw_strv_103c",
@@ -20747,7 +23438,28 @@
       "hull_armour": [40, 30, 10],
       "gears_forward": 7,
       "gears_backward": 6,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      },
+      "hydro_suspension": true
     },
     {
       "intname": "sw_strv_104",
@@ -20780,7 +23492,27 @@
       "hull_armour": [76.2, 50.8, 19],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "sw_strv_105",
@@ -20813,7 +23545,22 @@
       "hull_armour": [76.2, 50.8, 19],
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "sw_strv_121",
@@ -20846,7 +23593,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "sw_strv_122",
@@ -20879,7 +23641,17 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "sw_strv_122b_plss",
@@ -20912,7 +23684,17 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "sw_strv_74",
@@ -21708,7 +24490,15 @@
       "hull_armour": [10, 12],
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_t_34_747",
@@ -21776,7 +24566,15 @@
       "hull_armour": [120, 80, 60],
       "gears_forward": 8,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_t_10m",
@@ -21809,7 +24607,27 @@
       "hull_armour": [120, 80, 60],
       "gears_forward": 8,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_t_126sp",
@@ -23008,7 +25826,27 @@
       "hull_armour": [100, 20, 30],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_t_55_am",
@@ -23042,7 +25880,27 @@
       "hull_armour": [100, 20, 20],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_t_55_amd_1",
@@ -23075,7 +25933,27 @@
       "hull_armour": [100, 20],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_t_60_1941",
@@ -23142,7 +26020,27 @@
       "hull_armour": [100, 80, 20],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_t_62",
@@ -23175,7 +26073,27 @@
       "hull_armour": [100, 80, 20],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_t_62m1",
@@ -23208,7 +26126,27 @@
       "hull_armour": [100, 80, 20],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_t_64a_1971",
@@ -23241,7 +26179,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 7,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_t_64_b_1984",
@@ -23274,7 +26232,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 7,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "cn_type_69_2g",
@@ -23308,7 +26286,27 @@
       "hull_armour": [100, 20, 30],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_t_70_1942",
@@ -23374,7 +26372,27 @@
       "hull_armour": [80, 70, 40],
       "gears_forward": 7,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_t_72av_turms",
@@ -23408,7 +26426,17 @@
       "hull_armour": [80, 70, 40],
       "gears_forward": 7,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [1200, 800],
+          "lightMult": 7,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_t_72b_1989",
@@ -23441,7 +26469,27 @@
       "hull_armour": [80, 70, 40],
       "gears_forward": 7,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_t_72b",
@@ -23474,7 +26522,27 @@
       "hull_armour": [80, 70, 40],
       "gears_forward": 7,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_t_72b3_2011",
@@ -23507,7 +26575,22 @@
       "hull_armour": [80, 70, 40],
       "gears_forward": 7,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_t_72m2_moderna",
@@ -23540,7 +26623,17 @@
       "hull_armour": [80, 20, 40],
       "gears_forward": 7,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [1200, 800],
+          "lightMult": 7,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_t_80",
@@ -23606,7 +26699,22 @@
       "hull_armour": [80, 80, 60],
       "gears_forward": 9,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_t_80bvm",
@@ -23639,7 +26747,22 @@
       "hull_armour": [80, 80, 5],
       "gears_forward": 9,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_t_80u",
@@ -23672,7 +26795,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 9,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_t_90a",
@@ -23705,7 +26843,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 7,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_pzkpfw_III_ausf_J_L42",
@@ -23807,7 +26960,8 @@
       "hull_armour": [44, 19, 32],
       "gears_forward": 7,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "can_float": true
     },
     {
       "intname": "us_t14",
@@ -24243,7 +27397,15 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 4,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "us_t55e1",
@@ -24310,7 +27472,15 @@
       "hull_armour": [12.7, 10, 25.4],
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "us_t95",
@@ -24376,7 +27546,15 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_thyssen_henschel_tam_2c",
@@ -24409,7 +27587,17 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 7,
       "gears_backward": 7,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [1200, 800],
+          "lightMult": 7,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_thyssen_henschel_tam_2ip",
@@ -24443,7 +27631,15 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 7,
       "gears_backward": 7,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_thyssen_henschel_tam",
@@ -24476,7 +27672,15 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 7,
       "gears_backward": 7,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_ttd",
@@ -24509,7 +27713,22 @@
       "hull_armour": [40, 35, 20],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "jp_type_98_ta_se",
@@ -25041,7 +28260,18 @@
       "hull_armour": [40, 35, 25],
       "gears_forward": 8,
       "gears_backward": 8,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [1200, 800],
+          "lightMult": 7,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      },
+      "hydro_suspension": true
     },
     {
       "intname": "jp_type_16",
@@ -25074,7 +28304,17 @@
       "hull_armour": [35, 10, 20],
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [1200, 800],
+          "lightMult": 7,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "cn_type_59",
@@ -25206,7 +28446,15 @@
       "hull_armour": [50, 35, 12],
       "gears_forward": 7,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_type_62",
@@ -25305,7 +28553,8 @@
       "hull_armour": [14, 10, 10],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "can_float": true
     },
     {
       "intname": "cn_type_69",
@@ -25338,7 +28587,27 @@
       "hull_armour": [100, 20, 20],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "jp_type_74_c",
@@ -25371,7 +28640,28 @@
       "hull_armour": [80, 30, 25],
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      },
+      "hydro_suspension": true
     },
     {
       "intname": "jp_type_74",
@@ -25404,7 +28694,28 @@
       "hull_armour": [80, 30, 25],
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      },
+      "hydro_suspension": true
     },
     {
       "intname": "jp_type_74_f",
@@ -25437,7 +28748,28 @@
       "hull_armour": [80, 30, 25],
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      },
+      "hydro_suspension": true
     },
     {
       "intname": "jp_type_74_mod_g_kai",
@@ -25471,7 +28803,23 @@
       "hull_armour": [80, 30, 25],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      },
+      "hydro_suspension": true
     },
     {
       "intname": "jp_type_75_mlrs",
@@ -25505,7 +28853,15 @@
       "hull_armour": [20, 12.7, 25],
       "gears_forward": 8,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "jp_type_75",
@@ -25538,7 +28894,15 @@
       "hull_armour": [25, 30, 30],
       "gears_forward": 8,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "jp_type_87_rcv",
@@ -25571,7 +28935,21 @@
       "hull_armour": [20, 10, 10],
       "gears_forward": 12,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "jp_type_87",
@@ -25604,7 +28982,22 @@
       "hull_armour": [30, 20, 20],
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      },
+      "hydro_suspension": true
     },
     {
       "intname": "jp_type_89",
@@ -25637,7 +29030,22 @@
       "hull_armour": [35, 15, 15],
       "gears_forward": 9,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "jp_type_90b",
@@ -25670,7 +29078,23 @@
       "hull_armour": [40, 35, 25],
       "gears_forward": 7,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      },
+      "hydro_suspension": true
     },
     {
       "intname": "jp_type_90",
@@ -25703,7 +29127,23 @@
       "hull_armour": [40, 35, 25],
       "gears_forward": 7,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      },
+      "hydro_suspension": true
     },
     {
       "intname": "jp_type_93",
@@ -25736,7 +29176,16 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 7,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "jp_type_94",
@@ -25835,7 +29284,27 @@
       "hull_armour": [12, 6, 12],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "it_vbc_pt2",
@@ -25868,7 +29337,16 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "it_vcc_80_hitfist_30",
@@ -25901,7 +29379,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "it_vcc_80_hitfist_60",
@@ -25934,7 +29427,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "sw_veak_40",
@@ -26000,7 +29508,27 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_vsw_flak_41",
@@ -26101,7 +29629,28 @@
       "hull_armour": [20, 15],
       "gears_forward": 8,
       "gears_backward": 7,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      },
+      "hydro_suspension": true
     },
     {
       "intname": "uk_valentine_mk_1",
@@ -26233,7 +29782,15 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_vickers_mbt_mk_3",
@@ -26266,7 +29823,21 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "uk_vickers_mk7",
@@ -26299,7 +29870,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "cn_wma_301",
@@ -26333,7 +29919,22 @@
       "hull_armour": [10, 10],
       "gears_forward": 8,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "cn_wz_305",
@@ -26432,7 +30033,22 @@
       "hull_armour": [44.4, 44.4, 44.4],
       "gears_forward": 9,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_wiesel_1_tow",
@@ -26465,7 +30081,16 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_wiesel_1_mk20",
@@ -26498,7 +30123,16 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "germ_flakpanzer_IV_Wirbelwind",
@@ -26565,7 +30199,16 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "us_xm1_gm",
@@ -26599,7 +30242,17 @@
       "hull_armour": [76.2, 31.75, 19],
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      },
+      "hydro_suspension": true
     },
     {
       "intname": "us_xm_803",
@@ -26632,7 +30285,28 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 8,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      },
+      "hydro_suspension": true
     },
     {
       "intname": "us_xm_8",
@@ -26665,7 +30339,16 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "us_xm_975_roland",
@@ -26797,7 +30480,15 @@
       "hull_armour": [30, 25, 20],
       "gears_forward": 12,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "cn_type_86",
@@ -26830,7 +30521,28 @@
       "hull_armour": [19, 18, 16],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      },
+      "can_float": true
     },
     {
       "intname": "cn_ztl_11",
@@ -26863,7 +30575,23 @@
       "hull_armour": [20, 10, 8],
       "gears_forward": 8,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      },
+      "can_float": true
     },
     {
       "intname": "cn_zsd63_pg87",
@@ -26962,7 +30690,21 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_zsu_37_2",
@@ -26995,7 +30737,21 @@
       "hull_armour": [null, null, null],
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_zsu_37",
@@ -27094,7 +30850,22 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 8,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "cn_ztz_59a",
@@ -27161,7 +30932,22 @@
       "hull_armour": [100, 20, 30],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "cn_ztz_88a",
@@ -27194,7 +30980,27 @@
       "hull_armour": [60, 50, 45],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "cn_ztz_96",
@@ -27227,7 +31033,27 @@
       "hull_armour": [60, 50, 45],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "commanderViewIr": {
+          "resolution": [800, 600],
+          "lightMult": 8,
+          "ghosting": 0.75,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.7,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "cn_ztz_96a_prot",
@@ -27261,7 +31087,22 @@
       "hull_armour": [60, 50, 45],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "cn_ztz_96a",
@@ -27294,7 +31135,22 @@
       "hull_armour": [60, 50, 45],
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewIr": {
+          "resolution": [1600, 1200],
+          "lightMult": 9,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        },
+        "driverIr": {
+          "resolution": [800, 600],
+          "lightMult": 5,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "cn_ztz_99",
@@ -27327,7 +31183,17 @@
       "hull_armour": [60, 5, 20],
       "gears_forward": 7,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [1200, 800],
+          "lightMult": 7,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "cn_ztz_99_w",
@@ -27360,7 +31226,17 @@
       "hull_armour": [60, 5, 20],
       "gears_forward": 7,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [1200, 800],
+          "lightMult": 7,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "cn_ztz_99a",
@@ -27393,7 +31269,17 @@
       "hull_armour": [0, 0, 0],
       "gears_forward": 12,
       "gears_backward": 6,
-      "type": "tank"
+      "type": "tank",
+      "night_vision": {
+        "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "commanderViewThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
+        "driverIr": {
+          "resolution": [1200, 800],
+          "lightMult": 7,
+          "ghosting": 0.6,
+          "noiseFactor": 0.2
+        }
+      }
     },
     {
       "intname": "ussr_zut_37",

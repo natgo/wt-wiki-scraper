@@ -111,6 +111,37 @@ export interface GroundVehicle {
   gunConvergence: GunConvergence;
   cockpit: Cockpit;
   DamageParts: DamageParts;
+  modifications: Record<string, Mod>;
+}
+
+export interface Mod {
+  effects?: {
+    nightVision?: {
+      commanderViewThermal?: { resolution: [800, 600]; noiseFactor: 0.04 };
+      gunnerThermal?: {
+        resolution: [500 | 800 | 1200, 300 | 600 | 800];
+        noiseFactor: 0.05 | 0.04;
+      };
+      commanderViewIr?: {
+        resolution: [800 | 1600, 600 | 1200];
+        lightMult: 8.0 | 9.0;
+        ghosting: 0.75 | 0.6;
+        noiseFactor: 0.2;
+      };
+      driverIr?: {
+        resolution: [800 | 1200, 600 | 800];
+        lightMult: 5.0 | 7.0;
+        ghosting: 0.7 | 0.6;
+        noiseFactor: 0.2;
+      };
+      gunnerIr?: {
+        resolution: [800, 600];
+        lightMult: 5.0 | 8;
+        ghosting: 0.7 | 0.75;
+        noiseFactor: 0.2;
+      };
+    };
+  };
 }
 
 export interface Mechanics {
@@ -393,6 +424,18 @@ export interface VehiclePhys {
   tracks: VehiclePhysTracks;
   engine: Engine;
   mechanics: Mechanics;
+  movableSuspension?: MovableSuspension;
+  floats?: Floats;
+}
+
+export interface Floats {
+  volume: number[];
+  waterJet: Record<string,unknown>[];
+}
+
+export interface MovableSuspension {
+  speed: number;
+  maxSpeedForMove: number;
 }
 
 export interface Engine {
@@ -892,7 +935,7 @@ export interface Final {
 export interface FinalProps {
   intname: string;
   wikiname: string;
-  type: "tank"|"aircraft"|"helicopter";
+  type: "tank" | "aircraft" | "helicopter";
   normal_type: string;
   extended_type: string[];
   country: string;
@@ -925,4 +968,33 @@ export interface GroundProps extends FinalProps {
   hull_armour: number[];
   gears_forward: number;
   gears_backward: number;
+  night_vision?: NightVision;
+  hydro_suspension?: boolean;
+  can_float?:boolean;
+}
+
+export interface NightVision {
+  commanderViewThermal?: { resolution: [800, 600]; noiseFactor: 0.04 };
+  gunnerThermal?: {
+    resolution: [500 | 800 | 1200, 300 | 600 | 800];
+    noiseFactor: 0.05 | 0.04;
+  };
+  commanderViewIr?: {
+    resolution: [800 | 1600, 600 | 1200];
+    lightMult: 8.0 | 9.0;
+    ghosting: 0.75 | 0.6;
+    noiseFactor: 0.2;
+  };
+  driverIr?: {
+    resolution: [800 | 1200, 600 | 800];
+    lightMult: 5.0 | 7.0;
+    ghosting: 0.7 | 0.6;
+    noiseFactor: 0.2;
+  };
+  gunnerIr?: {
+    resolution: [800, 600];
+    lightMult: 5.0 | 8;
+    ghosting: 0.7 | 0.75;
+    noiseFactor: 0.2;
+  };
 }

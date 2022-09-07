@@ -1,13 +1,10 @@
-import fs from "fs";
 import { load } from "cheerio";
-
+import fs from "fs";
 
 import { Final, savedparse } from "./types";
 
 async function main() {
-  const final: Final = JSON.parse(
-    fs.readFileSync("./out/final.json", "utf-8"),
-  );
+  const final: Final = JSON.parse(fs.readFileSync("./out/final.json", "utf-8"));
 
   const vehicles: {
     ground: string[];
@@ -34,16 +31,24 @@ async function main() {
     );
   });
   const $ = load(vehicles.ground[7]);
-  const type = $(".specs_info .specs_char .specs_char_block .specs_char_line.indent");
-  console.log(type.children(".name").first())
-  type.children(".name").each((i,el)=> {
-    //console.log(el);
-    if ($(this).text() === "Turret") {
-      const selectedText = $(this).text();
-      console.log($(this).next(".value").text());
+  const indent = $(".specs_info .specs_char .specs_char_block .specs_char_line.indent");
+  const head = $(".specs_info .specs_char .specs_char_block .specs_char_line.head");
+  console.log(indent.children(".name").first().next().text());
+  indent.children(".name").each((i, el) => {
+    if ($(el).text() === "Turret") {
+      console.log($(el).next(".value").text());
     }
   });
-  //console.log(type.children(".name").next(".value").html());
+  head.children(".name").each((i, el) => {
+    if ($(el).text() === "Visibility") {
+      console.log($(el).next(".value").text());
+    }
+  });
+  head.children(".name").each((i, el) => {
+    if ($(el).text() === "Speed") {
+      console.log($(indent[i]).children(".value").html());
+    }
+  });
 }
 
 main();
