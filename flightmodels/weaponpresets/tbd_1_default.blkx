@@ -1,9 +1,0 @@
-{
-  "hideNodes": {
-    "node": [
-      "pylon_bomb1",
-      "pylon_bomb2",
-      "torpedo_pylon"
-    ]
-  }
-}

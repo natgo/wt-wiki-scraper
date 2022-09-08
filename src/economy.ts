@@ -124,7 +124,7 @@ async function main() {
   };
   names.ground.forEach((element) => {
     const vehicle: GroundVehicle = JSON.parse(
-      fs.readFileSync(`./tankmodels/${element.intname.toLowerCase()}.blkx`, "utf-8"),
+      fs.readFileSync(`./War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/units/tankmodels/${element.intname.toLowerCase()}.blkx`, "utf-8"),
     );
     let prem = "false";
     let type = "";
@@ -176,7 +176,6 @@ async function main() {
         night = value.effects.nightVision;
       }
     });
-    console.log(night);
 
     let gearsF = 0;
     let gearsB = 0;
@@ -294,7 +293,7 @@ async function main() {
   });
   names.aircraft.forEach((element) => {
     const vehicle: AirVehicle = JSON.parse(
-      fs.readFileSync(`./flightmodels/${element.intname.toLowerCase()}.blkx`, "utf-8"),
+      fs.readFileSync(`./War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/flightmodels/${element.intname.toLowerCase()}.blkx`, "utf-8"),
     );
     let prem = "false";
     let type = "";
@@ -394,7 +393,7 @@ async function main() {
   });
   names.helicopter.forEach((element) => {
     const vehicle: AirVehicle = JSON.parse(
-      fs.readFileSync(`./flightmodels/${element.intname.toLowerCase()}.blkx`, "utf-8"),
+      fs.readFileSync(`./War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/flightmodels/${element.intname.toLowerCase()}.blkx`, "utf-8"),
     );
     let prem = "false";
     let type = "";
