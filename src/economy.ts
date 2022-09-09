@@ -179,6 +179,7 @@ async function main() {
         }
       }
     }
+    
     console.log(element.wikiname);
 
     let night: NightVision | undefined = undefined;
@@ -212,6 +213,22 @@ async function main() {
         has_synchro = true;
       }
     }
+
+    let era = false;
+    Object.entries(vehicle.DamageParts).forEach(([key, value]) => {
+      const armor = value.armorClass as string;
+      if (armor && armor.match(/ERA_|era_/g)) {
+        era = true;
+      }
+    });
+
+    let composite = false;
+    Object.entries(vehicle.DamageParts).forEach(([key, value]) => {
+      if (key.match(/composite|inner_armor/g)) {
+        composite = true;
+      }
+    });
+    
 
     final.ground.push({
       intname: element.intname,
@@ -248,6 +265,13 @@ async function main() {
       hydro_suspension: vehicle.VehiclePhys.movableSuspension ? true : undefined,
       can_float: vehicle.VehiclePhys.floats ? true : undefined,
       has_synchro: has_synchro ? true : undefined,
+      has_neutral: vehicle.VehiclePhys.mechanics.neutralGearRatio ? true : undefined,
+      has_dozer: vehicle.modifications.tank_bulldozer_blade? true: undefined,
+      has_smoke:vehicle.modifications.tank_smoke_screen_system_mod? true:undefined,
+      has_ess:vehicle.modifications.tank_engine_smoke_screen_system? true:undefined,
+      has_lws:vehicle.modifications.laser_rangefinder_lws? true:undefined,
+      has_era:era?true:undefined,
+      has_composite:composite?true:undefined,
     });
   });
   names.aircraft.forEach((element) => {

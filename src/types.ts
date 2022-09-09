@@ -149,6 +149,7 @@ export interface Mechanics {
   driveGearRadius: number;
   mainGearRatio: number;
   sideGearRatio: number;
+  neutralGearRatio?: number;
   gearRatios: GearRatios;
 }
 
@@ -177,6 +178,29 @@ export interface DamageParts {
   fuel_tanks: FuelTanks;
   fuel_tanks_exterior: FuelTanksExterior;
   commander_panoramic_sight: CommanderPanoramicSight;
+  era_side_box: Era;
+  era_hull:Era;
+  era_turret:Era;
+  era_turret_top:Era;
+  era_turret_front_box:Era;
+  era_turret_front_plate:Era;
+  ufp_era:Era;
+  front_turret_era:Era;
+  side_turret_era:Era;
+  top_turret_era:Era;
+}
+
+export interface Era {
+  armorClass:                     string;
+  kineticProtectionEquivalent:    number;
+  cumulativeProtectionEquivalent: number;
+  hp:                             number;
+  armorThickness:                 number;
+  genericDamageMult:              number;
+  cumulativeArmorQuality:         number;
+  armorEffectiveThicknessMax:     number;
+  stopChanceOnDeadPart:           number;
+  hidableInViewer:                boolean;
 }
 
 export interface Ammo {
@@ -970,6 +994,13 @@ export interface GroundProps extends FinalProps {
   hydro_suspension?: boolean;
   can_float?: boolean;
   has_synchro?: boolean;
+  has_neutral?: boolean;
+  has_dozer?:boolean;
+  has_ess?:boolean;
+  has_smoke?:boolean;
+  has_lws?:boolean;
+  has_era?:boolean;
+  has_composite?:boolean;
 }
 
 export interface NightVision {

@@ -1,5 +1,5 @@
 {
-  "updated": "2022-09-09T12:03:32.594Z",
+  "updated": "2022-09-09T18:02:04.549Z",
   "ground": [
     {
       "intname": "us_m18_hellcat_black_cat_race",
@@ -61,7 +61,8 @@
       "crew": 3,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_panzerwerfer_42",
@@ -178,7 +179,10 @@
       },
       "hydro_suspension": true,
       "can_float": true,
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true
     },
     {
       "intname": "ussr_2s25m",
@@ -221,7 +225,10 @@
         }
       },
       "hydro_suspension": true,
-      "can_float": true
+      "can_float": true,
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true
     },
     {
       "intname": "ussr_2s3m",
@@ -266,7 +273,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_dozer": true
     },
     {
       "intname": "ussr_zprk_2s6",
@@ -313,7 +321,8 @@
           "noiseFactor": 0.2
         }
       },
-      "hydro_suspension": true
+      "hydro_suspension": true,
+      "has_neutral": true
     },
     {
       "intname": "it_semovente_l40",
@@ -437,7 +446,8 @@
       "crew": 3,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "it_semovente_m43_75_34",
@@ -468,7 +478,8 @@
       "crew": 3,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "it_semovente_m43_75_46",
@@ -499,7 +510,8 @@
       "crew": 3,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_sdkfz_9_flak37",
@@ -657,7 +669,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "uk_a_13_mk1",
@@ -687,7 +700,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "uk_a_13_mk2_1939",
@@ -719,7 +733,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "uk_a_13_mk2",
@@ -750,7 +765,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "it_ab_41",
@@ -851,7 +867,8 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true
     },
     {
       "intname": "us_adats_bradley",
@@ -891,7 +908,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_ess": true
     },
     {
       "intname": "uk_armored_car_mk_2_aa",
@@ -954,7 +973,8 @@
       "crew": 4,
       "gears_forward": 8,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "us_ags_teledyne",
@@ -994,7 +1014,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "fr_amc_34",
@@ -1117,7 +1139,8 @@
       "crew": 3,
       "gears_forward": 10,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "fr_aml_90",
@@ -1148,7 +1171,8 @@
       "crew": 3,
       "gears_forward": 10,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "fr_amr_35_zt3",
@@ -1258,7 +1282,9 @@
         }
       },
       "hydro_suspension": true,
-      "can_float": true
+      "can_float": true,
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "fr_amx_13_fl_11",
@@ -1289,7 +1315,8 @@
       "crew": 3,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "fr_amx_13_hot",
@@ -1320,7 +1347,8 @@
       "crew": 3,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "il_amx_13_75",
@@ -1351,7 +1379,8 @@
       "crew": 3,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "fr_amx_13_75_ss11",
@@ -1383,7 +1412,8 @@
       "crew": 3,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "fr_amx_13_dca_40",
@@ -1445,7 +1475,8 @@
       "crew": 3,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "fr_amx_13_chaffee",
@@ -1477,7 +1508,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "fr_amx_13_75",
@@ -1508,7 +1540,8 @@
       "crew": 3,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "fr_amx_30_1972",
@@ -1560,7 +1593,8 @@
           "noiseFactor": 0.2
         }
       },
-      "has_synchro": true
+      "has_synchro": true,
+      "has_smoke": true
     },
     {
       "intname": "fr_amx_30_ACRA",
@@ -1612,7 +1646,8 @@
           "noiseFactor": 0.2
         }
       },
-      "has_synchro": true
+      "has_synchro": true,
+      "has_smoke": true
     },
     {
       "intname": "fr_amx_30_dca",
@@ -1644,7 +1679,9 @@
       "gears_forward": 5,
       "gears_backward": 5,
       "type": "tank",
-      "has_synchro": true
+      "has_synchro": true,
+      "has_smoke": true,
+      "has_ess": true
     },
     {
       "intname": "fr_amx_30_super",
@@ -1685,7 +1722,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "fr_amx_30",
@@ -1738,7 +1777,8 @@
           "noiseFactor": 0.2
         }
       },
-      "has_synchro": true
+      "has_synchro": true,
+      "has_smoke": true
     },
     {
       "intname": "fr_amx_30_b2_brenus",
@@ -1785,7 +1825,10 @@
           "noiseFactor": 0.2
         }
       },
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_era": true
     },
     {
       "intname": "fr_amx_30_b2",
@@ -1832,7 +1875,9 @@
           "noiseFactor": 0.2
         }
       },
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "fr_amx_32",
@@ -1879,7 +1924,11 @@
           "noiseFactor": 0.2
         }
       },
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_composite": true
     },
     {
       "intname": "fr_amx_40",
@@ -1925,7 +1974,12 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_dozer": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_composite": true
     },
     {
       "intname": "fr_amx_50_foch",
@@ -1956,7 +2010,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "fr_amx_50_surbaisse",
@@ -1987,7 +2042,9 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "fr_amx_50_surblinde",
@@ -2018,7 +2075,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "fr_amx_50",
@@ -2049,7 +2107,8 @@
       "crew": 5,
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "fr_arl_44_acl1",
@@ -2182,7 +2241,8 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true
     },
     {
       "intname": "ussr_asu_57",
@@ -2272,7 +2332,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true
     },
     {
       "intname": "it_aubl_74_60_70m",
@@ -2313,7 +2374,8 @@
           "noiseFactor": 0.2
         }
       },
-      "can_float": true
+      "can_float": true,
+      "has_smoke": true
     },
     {
       "intname": "it_fiat_6616_cockerill",
@@ -2353,7 +2415,8 @@
           "noiseFactor": 0.2
         }
       },
-      "can_float": true
+      "can_float": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_17_pdr_m10_achilles_norfolk_yeomanry",
@@ -2525,7 +2588,10 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_composite": true
     },
     {
       "intname": "it_c1_ariete_pso",
@@ -2566,7 +2632,11 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_lws": true,
+      "has_composite": true
     },
     {
       "intname": "it_c1_ariete",
@@ -2607,7 +2677,11 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_lws": true,
+      "has_composite": true
     },
     {
       "intname": "uk_a30_sp_avenger",
@@ -2638,7 +2712,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "fr_b1_bis",
@@ -2669,7 +2744,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "fr_b1_ter",
@@ -2701,7 +2777,8 @@
       "crew": 5,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "ussr_ba_11",
@@ -2846,7 +2923,10 @@
         }
       },
       "hydro_suspension": true,
-      "can_float": true
+      "can_float": true,
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true
     },
     {
       "intname": "ussr_bmp_1",
@@ -2898,7 +2978,8 @@
           "noiseFactor": 0.2
         }
       },
-      "can_float": true
+      "can_float": true,
+      "has_ess": true
     },
     {
       "intname": "ussr_bmp_2",
@@ -2950,7 +3031,9 @@
           "noiseFactor": 0.2
         }
       },
-      "can_float": true
+      "can_float": true,
+      "has_smoke": true,
+      "has_ess": true
     },
     {
       "intname": "ussr_bmp_2m",
@@ -2997,7 +3080,9 @@
           "noiseFactor": 0.2
         }
       },
-      "can_float": true
+      "can_float": true,
+      "has_smoke": true,
+      "has_ess": true
     },
     {
       "intname": "ussr_bmp_3",
@@ -3045,7 +3130,11 @@
         }
       },
       "hydro_suspension": true,
-      "can_float": true
+      "can_float": true,
+      "has_neutral": true,
+      "has_dozer": true,
+      "has_smoke": true,
+      "has_ess": true
     },
     {
       "intname": "ussr_bt_5",
@@ -3277,7 +3366,9 @@
           "noiseFactor": 0.2
         }
       },
-      "can_float": true
+      "can_float": true,
+      "has_smoke": true,
+      "has_ess": true
     },
     {
       "intname": "germ_begleitpanzer_57",
@@ -3323,7 +3414,8 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "germ_panzerbefelhswagen_jagdpanther",
@@ -3355,7 +3447,9 @@
       "crew": 5,
       "gears_forward": 7,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "sw_bkan_1c",
@@ -3387,7 +3481,8 @@
       "gears_forward": 6,
       "gears_backward": 6,
       "type": "tank",
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true
     },
     {
       "intname": "uk_challenger_2_bn",
@@ -3428,7 +3523,12 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_lws": true,
+      "has_composite": true
     },
     {
       "intname": "uk_a_43_black_prince",
@@ -3460,7 +3560,9 @@
       "crew": 5,
       "gears_forward": 4,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "it_semovente_breda_501",
@@ -3554,7 +3656,9 @@
       "crew": 3,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_leopard_c2_mexas",
@@ -3600,7 +3704,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "fr_lorraine_100",
@@ -3631,7 +3737,8 @@
       "crew": 5,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "cn_gmc_cckw_353_m45_quad",
@@ -3733,7 +3840,10 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_era": true
     },
     {
       "intname": "cn_cm_25",
@@ -3785,7 +3895,8 @@
           "noiseFactor": 0.2
         }
       },
-      "can_float": true
+      "can_float": true,
+      "has_smoke": true
     },
     {
       "intname": "sw_cv_90105_tml",
@@ -3827,7 +3938,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "sw_cv_90120",
@@ -3868,7 +3981,10 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_lws": true
     },
     {
       "intname": "uk_fv221_caernarvon",
@@ -3899,7 +4015,9 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "us_m4_sherman_calliope",
@@ -4009,7 +4127,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_lws": true,
+      "has_era": true
     },
     {
       "intname": "it_b1_centauro",
@@ -4055,7 +4175,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true,
+      "has_lws": true
     },
     {
       "intname": "it_centauro_mgs_120",
@@ -4096,7 +4218,10 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true,
+      "has_lws": true,
+      "has_composite": true
     },
     {
       "intname": "uk_centurion_action_x",
@@ -4128,7 +4253,9 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_centurion_mk_1",
@@ -4159,7 +4286,9 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_centurion_mk_10",
@@ -4210,7 +4339,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_centurion_mk_3",
@@ -4241,7 +4372,9 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_centurion_mk_5_avre_era",
@@ -4273,7 +4406,11 @@
       "crew": 5,
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_dozer": true,
+      "has_smoke": true,
+      "has_era": true
     },
     {
       "intname": "uk_centurion_mk_5_raac",
@@ -4325,7 +4462,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "uk_challenger_2_dorchester",
@@ -4371,7 +4509,11 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_ess": true,
+      "has_era": true,
+      "has_composite": true
     },
     {
       "intname": "uk_challenger_2_tes",
@@ -4417,7 +4559,12 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_era": true,
+      "has_composite": true
     },
     {
       "intname": "uk_challenger_II",
@@ -4463,7 +4610,12 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_era": true,
+      "has_composite": true
     },
     {
       "intname": "uk_challenger_1_mk_3_gulf",
@@ -4510,7 +4662,10 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true
     },
     {
       "intname": "uk_challenger_1",
@@ -4556,7 +4711,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_challenger_mk_3",
@@ -4602,7 +4759,11 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_era": true
     },
     {
       "intname": "uk_a30_challenger",
@@ -4633,7 +4794,9 @@
       "crew": 5,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "fr_bat_chat_25t",
@@ -4665,7 +4828,9 @@
       "gears_forward": 6,
       "gears_backward": 6,
       "type": "tank",
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_charioteer_mk_7",
@@ -4696,7 +4861,9 @@
       "crew": 3,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "cn_type_97_chi_ha",
@@ -5172,7 +5339,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_chieftain_mk_10",
@@ -5223,7 +5392,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_chieftain_mk_3",
@@ -5274,7 +5445,10 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_dozer": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_chieftain_mk_5",
@@ -5325,7 +5499,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_a_22_mk_1_churchill_1941",
@@ -5356,7 +5532,9 @@
       "crew": 5,
       "gears_forward": 4,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_a_22b_mk_3_churchill_1942",
@@ -5387,7 +5565,9 @@
       "crew": 5,
       "gears_forward": 4,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_a_22f_mk_7_churchill_1944",
@@ -5418,7 +5598,9 @@
       "crew": 5,
       "gears_forward": 4,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_th_800_bismark",
@@ -5469,7 +5651,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true,
+      "has_composite": true
     },
     {
       "intname": "us_m4a3e2_sherman_jumbo_cobra_king",
@@ -5533,7 +5717,9 @@
       "crew": 5,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_a_34_comet",
@@ -5564,7 +5750,9 @@
       "crew": 5,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_concept3_ngac",
@@ -5627,7 +5815,9 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_fv4004_conway",
@@ -5658,7 +5848,9 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_a27m_cromwell_1",
@@ -5689,7 +5881,9 @@
       "crew": 5,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_a27m_cromwell_5_rp3",
@@ -5721,7 +5915,9 @@
       "crew": 5,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_a27m_cromwell_5",
@@ -5752,7 +5948,9 @@
       "crew": 5,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_crusader_mk_2_the_saint",
@@ -5784,7 +5982,8 @@
       "crew": 5,
       "gears_forward": 4,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "uk_crusader_aa_mk_1",
@@ -5877,7 +6076,8 @@
       "crew": 5,
       "gears_forward": 4,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "uk_crusader_mk_3",
@@ -5908,7 +6108,8 @@
       "crew": 3,
       "gears_forward": 4,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "fr_crusader_mk_2",
@@ -5939,7 +6140,8 @@
       "crew": 5,
       "gears_forward": 4,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "fr_renault_d2",
@@ -5970,7 +6172,8 @@
       "crew": 3,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "germ_marder_df_105",
@@ -6001,7 +6204,9 @@
       "crew": 3,
       "gears_forward": 7,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_daimler_mk_2",
@@ -6032,7 +6237,8 @@
       "crew": 3,
       "gears_forward": 8,
       "gears_backward": 5,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "it_dardo_vcc",
@@ -6072,7 +6278,10 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_lws": true
     },
     {
       "intname": "germ_pzsfl_IVa_dickermax",
@@ -6134,7 +6343,9 @@
       "crew": 6,
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "fr_panhard_ebr_1951",
@@ -6166,7 +6377,8 @@
       "gears_forward": 10,
       "gears_backward": 10,
       "type": "tank",
-      "has_synchro": true
+      "has_synchro": true,
+      "has_smoke": true
     },
     {
       "intname": "fr_panhard_ebr_1954",
@@ -6199,7 +6411,8 @@
       "gears_forward": 10,
       "gears_backward": 10,
       "type": "tank",
-      "has_synchro": true
+      "has_synchro": true,
+      "has_smoke": true
     },
     {
       "intname": "fr_panhard_ebr_1963",
@@ -6232,7 +6445,8 @@
       "gears_forward": 10,
       "gears_backward": 10,
       "type": "tank",
-      "has_synchro": true
+      "has_synchro": true,
+      "has_smoke": true
     },
     {
       "intname": "fr_amx_elc_bis",
@@ -6263,7 +6477,8 @@
       "crew": 2,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "uk_eland_90_mk_7",
@@ -6294,7 +6509,8 @@
       "crew": 3,
       "gears_forward": 10,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_panzerjager_tiger_P_elefant",
@@ -6327,7 +6543,8 @@
       "gears_forward": 6,
       "gears_backward": 6,
       "type": "tank",
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true
     },
     {
       "intname": "germ_pzkpfw_V_ersatz_m10",
@@ -6359,7 +6576,8 @@
       "crew": 5,
       "gears_forward": 7,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "uk_a_33_excelsior",
@@ -6391,7 +6609,9 @@
       "crew": 5,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "fr_fcm_36",
@@ -6454,7 +6674,8 @@
       "gears_forward": 5,
       "gears_backward": 1,
       "type": "tank",
-      "can_float": true
+      "can_float": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_fv4005",
@@ -6485,7 +6706,8 @@
       "crew": 5,
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "uk_fv4202",
@@ -6516,7 +6738,9 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_falcon",
@@ -6587,7 +6811,8 @@
       "gears_forward": 6,
       "gears_backward": 6,
       "type": "tank",
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true
     },
     {
       "intname": "germ_flarakpz_1",
@@ -6618,7 +6843,9 @@
       "crew": 3,
       "gears_forward": 7,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_flarakrad",
@@ -6658,7 +6885,8 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true
     },
     {
       "intname": "germ_flakpanzer_V_Coelian",
@@ -6689,7 +6917,9 @@
       "crew": 5,
       "gears_forward": 7,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_flakpanzer_38t_Gepard",
@@ -6790,7 +7020,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true
     },
     {
       "intname": "ussr_gaz_4m",
@@ -6929,7 +7160,13 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_lws": true,
+      "has_era": true,
+      "has_composite": true
     },
     {
       "intname": "germ_flakpz_I_Gepard",
@@ -6960,7 +7197,9 @@
       "crew": 3,
       "gears_forward": 7,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "us_mk1_grant",
@@ -6992,7 +7231,8 @@
       "crew": 6,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "uk_mk1_grant",
@@ -7024,7 +7264,8 @@
       "crew": 6,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "uk_3_inch_gun_carrier",
@@ -7055,7 +7296,8 @@
       "crew": 4,
       "gears_forward": 4,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "fr_hotchkiss_h35",
@@ -7189,7 +7431,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "jp_type_95_ha_go_commander",
@@ -7221,7 +7465,8 @@
       "crew": 3,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "jp_type_95_ha_go",
@@ -7284,7 +7529,8 @@
       "crew": 5,
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "jp_type_2_ho_i",
@@ -7586,7 +7832,10 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true
     },
     {
       "intname": "ussr_is_1",
@@ -7867,7 +8116,8 @@
       "crew": 4,
       "gears_forward": 8,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "ussr_is_4m",
@@ -7898,7 +8148,8 @@
       "crew": 4,
       "gears_forward": 6,
       "gears_backward": 3,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "ussr_is_6",
@@ -7961,7 +8212,8 @@
       "crew": 5,
       "gears_forward": 8,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "cn_isu_122",
@@ -8167,7 +8419,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_ess": true
     },
     {
       "intname": "sw_ikv_103",
@@ -8198,7 +8451,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "sw_ikv_72",
@@ -8229,7 +8483,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "sw_ikv_73",
@@ -8312,7 +8567,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "sw_ikv_91",
@@ -8343,7 +8600,9 @@
       "crew": 4,
       "gears_forward": 8,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_a1e1_independent",
@@ -8375,7 +8634,8 @@
       "crew": 8,
       "gears_forward": 4,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "fr_crotale_ng",
@@ -8507,7 +8767,9 @@
           "noiseFactor": 0.2
         }
       },
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_sk105_a2",
@@ -8553,7 +8815,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_panzerjager_panther",
@@ -8584,7 +8848,9 @@
       "crew": 5,
       "gears_forward": 7,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_jgdpz_38t",
@@ -8646,7 +8912,8 @@
       "crew": 4,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_panzerjager_tiger",
@@ -8677,7 +8944,9 @@
       "crew": 6,
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_kpz_70",
@@ -8730,7 +8999,9 @@
         }
       },
       "hydro_suspension": true,
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "ussr_kv_1_L_11",
@@ -9277,7 +9548,10 @@
           "noiseFactor": 0.2
         }
       },
-      "can_float": true
+      "can_float": true,
+      "has_neutral": true,
+      "has_dozer": true,
+      "has_ess": true
     },
     {
       "intname": "germ_flakpanzer_IV_Kugelblitz",
@@ -9736,7 +10010,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "fr_leclerc_s2",
@@ -9782,7 +10058,11 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_era": true,
+      "has_composite": true
     },
     {
       "intname": "fr_leclerc_sxxi",
@@ -9823,7 +10103,11 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_era": true,
+      "has_composite": true
     },
     {
       "intname": "fr_leclerc_s1",
@@ -9869,7 +10153,11 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_era": true,
+      "has_composite": true
     },
     {
       "intname": "it_leopard_1a5",
@@ -9915,7 +10203,11 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_dozer": true,
+      "has_smoke": true,
+      "has_lws": true
     },
     {
       "intname": "germ_leopard_1a5",
@@ -9961,7 +10253,10 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_dozer": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_leopard_2a4_pzbtl_123",
@@ -10008,7 +10303,10 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_composite": true
     },
     {
       "intname": "germ_leopard_2pl",
@@ -10049,7 +10347,10 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_composite": true
     },
     {
       "intname": "germ_leopard_2a4",
@@ -10095,7 +10396,11 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_dozer": true,
+      "has_smoke": true,
+      "has_composite": true
     },
     {
       "intname": "germ_leopard_2a5",
@@ -10136,7 +10441,10 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_composite": true
     },
     {
       "intname": "germ_leopard_2a6",
@@ -10177,7 +10485,10 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_composite": true
     },
     {
       "intname": "germ_leopard_2av",
@@ -10228,7 +10539,10 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_composite": true
     },
     {
       "intname": "germ_leopard_2k",
@@ -10280,7 +10594,9 @@
           "noiseFactor": 0.2
         }
       },
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_leopard_a1a1_120",
@@ -10327,7 +10643,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_leopard_I_a1",
@@ -10378,7 +10696,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_leopard_I",
@@ -10429,7 +10749,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_vickers_mk_6_aa_mk_1",
@@ -10492,7 +10814,8 @@
       "crew": 6,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "fr_lorraine_37l",
@@ -10554,7 +10877,8 @@
       "crew": 4,
       "gears_forward": 8,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "sw_lvkv_42",
@@ -10586,7 +10910,8 @@
       "gears_forward": 5,
       "gears_backward": 1,
       "type": "tank",
-      "hydro_suspension": true
+      "hydro_suspension": true,
+      "has_neutral": true
     },
     {
       "intname": "sw_lvkv_90c",
@@ -10626,7 +10951,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "sw_lvrbv_701",
@@ -10657,7 +10984,8 @@
       "crew": 4,
       "gears_forward": 4,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "sw_tgdgb_m40_lv",
@@ -10720,7 +11048,8 @@
       "crew": 5,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "il_m_51",
@@ -10750,7 +11079,8 @@
       "crew": 5,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "us_m1_abrams",
@@ -10790,7 +11120,10 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true
     },
     {
       "intname": "cn_m10",
@@ -10922,7 +11255,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "it_m11_39",
@@ -10989,7 +11323,8 @@
         "gunnerThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
         "commanderViewThermal": { "resolution": [1200, 800], "noiseFactor": 0.04 },
         "driverThermal": { "resolution": [500, 300], "noiseFactor": 0.05 }
-      }
+      },
+      "has_smoke": true
     },
     {
       "intname": "cn_m113a1_tow",
@@ -11343,7 +11678,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "jp_halftrack_m16",
@@ -11677,7 +12013,10 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true
     },
     {
       "intname": "us_m1a1_hc_abrams",
@@ -11717,7 +12056,11 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_dozer": true,
+      "has_smoke": true,
+      "has_ess": true
     },
     {
       "intname": "us_m1a1_abrams",
@@ -11757,7 +12100,10 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true
     },
     {
       "intname": "us_m1a2_abrams",
@@ -11798,7 +12144,10 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true
     },
     {
       "intname": "us_m2_medium",
@@ -11891,7 +12240,8 @@
       "crew": 5,
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "it_m24_chaffee",
@@ -11922,7 +12272,8 @@
       "crew": 5,
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "jp_m24_chaffee",
@@ -11953,7 +12304,8 @@
       "crew": 5,
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "us_m24_chaffee_tl",
@@ -11984,7 +12336,8 @@
       "crew": 5,
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "us_m24_chaffee",
@@ -12015,7 +12368,8 @@
       "crew": 5,
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "us_m247",
@@ -12066,7 +12420,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "it_m26_ariete",
@@ -12357,7 +12713,10 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true
     },
     {
       "intname": "us_halftrack_m3_75mm_gmc",
@@ -12701,7 +13060,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "it_m3a3_stuart",
@@ -12732,7 +13092,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "us_m3a3_bradley",
@@ -12768,7 +13129,10 @@
         "gunnerThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
         "commanderViewThermal": { "resolution": [800, 600], "noiseFactor": 0.04 },
         "driverThermal": { "resolution": [800, 600], "noiseFactor": 0.04 }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true
     },
     {
       "intname": "cn_m3a3_stuart",
@@ -12799,7 +13163,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "fr_m3a3_stuart",
@@ -12830,7 +13195,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "us_m4a2_1944_germ",
@@ -12862,7 +13228,8 @@
       "crew": 5,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "it_sherman_75_37",
@@ -12925,7 +13292,8 @@
       "crew": 5,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "us_m4_sherman",
@@ -12995,7 +13363,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "us_m41_walker_bulldog",
@@ -13034,7 +13403,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "cn_m_41d",
@@ -13074,7 +13444,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "cn_m42_duster",
@@ -13113,7 +13485,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "it_m15_42_contraereo",
@@ -13144,7 +13517,8 @@
       "crew": 3,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "jp_m42_duster",
@@ -13183,7 +13557,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "us_m42_duster",
@@ -13222,7 +13597,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "it_semovente_m43_105_leoncello",
@@ -13254,7 +13630,8 @@
       "crew": 3,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "us_m46_patton_73_armor_bat",
@@ -13286,7 +13663,8 @@
       "crew": 5,
       "gears_forward": 4,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "us_m46_patton",
@@ -13317,7 +13695,8 @@
       "crew": 5,
       "gears_forward": 4,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "it_m47_105",
@@ -13356,7 +13735,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "jp_m47_patton_II",
@@ -13395,7 +13775,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "us_m47_patton_II",
@@ -13434,7 +13815,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "germ_mkpz_super_m48",
@@ -13474,7 +13856,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "cn_m48a1_patton_III",
@@ -13513,7 +13897,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "us_m48a1_patton_III",
@@ -13552,7 +13937,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "germ_mkpz_m48a2c",
@@ -13603,7 +13989,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_mkpz_m48a2ga2",
@@ -13654,7 +14042,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "cn_m4a1_76w_sherman",
@@ -13748,7 +14138,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "fr_m4a1_sherman",
@@ -13935,7 +14326,8 @@
       "crew": 5,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "us_m4a3_105_sherman",
@@ -13966,7 +14358,8 @@
       "crew": 5,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "jp_m4a3e8_76w_sherman",
@@ -14309,7 +14702,8 @@
       "crew": 5,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_ess": true
     },
     {
       "intname": "us_m50_ontos",
@@ -14391,7 +14785,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "us_m56_scorpion",
@@ -14556,7 +14952,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "us_m60",
@@ -14607,7 +15005,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "it_m60a1_ariete",
@@ -14659,7 +15058,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "us_m60a1",
@@ -14710,7 +15111,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "us_m60a1_rise_passive_era",
@@ -14761,7 +15163,11 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_era": true
     },
     {
       "intname": "us_m60a2",
@@ -14812,7 +15218,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "cn_m60a3_tts",
@@ -14858,7 +15266,10 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true
     },
     {
       "intname": "us_m60a3_tts",
@@ -14904,7 +15315,11 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_era": true
     },
     {
       "intname": "cn_type_64",
@@ -14936,7 +15351,8 @@
       "crew": 5,
       "gears_forward": 4,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "us_m6a1",
@@ -14967,7 +15383,8 @@
       "crew": 6,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "us_m6a2e1",
@@ -15000,7 +15417,8 @@
       "gears_forward": 6,
       "gears_backward": 6,
       "type": "tank",
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true
     },
     {
       "intname": "cn_m8_scott",
@@ -15202,7 +15620,8 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true
     },
     {
       "intname": "fr_mars_15",
@@ -15233,7 +15652,8 @@
       "crew": 3,
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "us_mbt_70",
@@ -15286,7 +15706,9 @@
         }
       },
       "hydro_suspension": true,
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "fr_vcac_mephisto",
@@ -15327,7 +15749,8 @@
           "noiseFactor": 0.2
         }
       },
-      "can_float": true
+      "can_float": true,
+      "has_smoke": true
     },
     {
       "intname": "ussr_a_12_mk_2_matilda_2A_F96",
@@ -15359,7 +15782,8 @@
       "crew": 4,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "ussr_valentine_mk_9",
@@ -15391,7 +15815,8 @@
       "crew": 3,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_mkpz_m47",
@@ -15431,7 +15856,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "il_machbet",
@@ -15510,7 +15937,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "il_magach_2",
@@ -15549,7 +15977,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "us_magach_3",
@@ -15589,7 +16018,10 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_era": true
     },
     {
       "intname": "il_magach_3",
@@ -15629,7 +16061,10 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_era": true
     },
     {
       "intname": "il_magach_6",
@@ -15680,7 +16115,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "il_magach_6a",
@@ -15731,7 +16167,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "il_magach_6b",
@@ -15782,7 +16219,10 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_era": true
     },
     {
       "intname": "germ_marder_1a3",
@@ -15829,7 +16269,9 @@
           "noiseFactor": 0.2
         }
       },
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_marder_1a1",
@@ -15881,7 +16323,9 @@
           "noiseFactor": 0.2
         }
       },
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_38t_Marder_III_ausf_H",
@@ -15943,7 +16387,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "uk_matilda_hedgehog",
@@ -16006,7 +16451,8 @@
       "crew": 4,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_Maus",
@@ -16038,7 +16484,9 @@
       "gears_forward": 8,
       "gears_backward": 8,
       "type": "tank",
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "us_merkava_mk_1",
@@ -16089,7 +16537,10 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true
     },
     {
       "intname": "il_merkava_mk_1b",
@@ -16135,7 +16586,11 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_lws": true
     },
     {
       "intname": "us_merkava_mk_2b_late",
@@ -16181,7 +16636,11 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_lws": true
     },
     {
       "intname": "il_merkava_mk_2b_early",
@@ -16227,7 +16686,11 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_lws": true
     },
     {
       "intname": "il_merkava_mk_2d",
@@ -16274,7 +16737,11 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_lws": true
     },
     {
       "intname": "il_merkava_mk_3b",
@@ -16320,7 +16787,12 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_lws": true,
+      "has_composite": true
     },
     {
       "intname": "us_merkava_mk_3d",
@@ -16366,7 +16838,12 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_lws": true,
+      "has_composite": true
     },
     {
       "intname": "il_merkava_mk_4b",
@@ -16408,7 +16885,12 @@
           "noiseFactor": 0.2
         }
       },
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_lws": true,
+      "has_composite": true
     },
     {
       "intname": "il_merkava_mk_4m",
@@ -16450,7 +16932,12 @@
           "noiseFactor": 0.2
         }
       },
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_lws": true,
+      "has_composite": true
     },
     {
       "intname": "jp_type_5_na_to",
@@ -16596,7 +17083,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "it_of_40_mk_2a",
@@ -16647,7 +17136,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "it_of_40_mk_1",
@@ -16698,7 +17189,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "it_otomatic",
@@ -16744,7 +17237,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "ussr_object_120",
@@ -16796,7 +17291,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "ussr_object_248",
@@ -16859,7 +17355,8 @@
       "crew": 4,
       "gears_forward": 8,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "ussr_object_279",
@@ -16910,7 +17407,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_ess": true
     },
     {
       "intname": "ussr_object_685",
@@ -16962,7 +17460,9 @@
           "noiseFactor": 0.2
         }
       },
-      "can_float": true
+      "can_float": true,
+      "has_smoke": true,
+      "has_ess": true
     },
     {
       "intname": "ussr_object_906",
@@ -17015,7 +17515,9 @@
         }
       },
       "can_float": true,
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_ess": true
     },
     {
       "intname": "uk_olifant_mk_1a",
@@ -17066,7 +17568,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_olifant_mk_2",
@@ -17107,7 +17611,11 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_composite": true
     },
     {
       "intname": "germ_flakpanzer_IV_Ostwind_2",
@@ -17209,7 +17717,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "fr_citroen_kegresse_p4t",
@@ -17272,7 +17782,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "it_p_40",
@@ -17303,7 +17814,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "cn_pgz_04a",
@@ -17349,7 +17861,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "cn_pgz_09",
@@ -17395,7 +17909,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_leopard_2_pt14",
@@ -17447,7 +17963,8 @@
           "noiseFactor": 0.2
         }
       },
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true
     },
     {
       "intname": "cn_pt_76",
@@ -17487,7 +18004,8 @@
           "noiseFactor": 0.2
         }
       },
-      "can_float": true
+      "can_float": true,
+      "has_ess": true
     },
     {
       "intname": "ussr_pt_76_57",
@@ -17534,7 +18052,10 @@
           "noiseFactor": 0.2
         }
       },
-      "can_float": true
+      "can_float": true,
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true
     },
     {
       "intname": "ussr_pt_76b",
@@ -17574,7 +18095,8 @@
           "noiseFactor": 0.2
         }
       },
-      "can_float": true
+      "can_float": true,
+      "has_ess": true
     },
     {
       "intname": "cn_ptl_02",
@@ -17620,7 +18142,8 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true
     },
     {
       "intname": "cn_ptz_89",
@@ -17671,7 +18194,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_dozer": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_schutzenpanzer_puma",
@@ -17712,7 +18237,12 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_lws": true,
+      "has_era": true,
+      "has_composite": true
     },
     {
       "intname": "fr_pzkpfw_V_panther_dauphine",
@@ -17744,7 +18274,9 @@
       "crew": 5,
       "gears_forward": 7,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_V_ausf_a_panther",
@@ -17775,7 +18307,9 @@
       "crew": 5,
       "gears_forward": 7,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_V_ausf_d_panther",
@@ -17806,7 +18340,9 @@
       "crew": 5,
       "gears_forward": 7,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_V_ausf_f_panther",
@@ -17837,7 +18373,9 @@
       "crew": 5,
       "gears_forward": 7,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_V_ausf_g_panther",
@@ -17868,7 +18406,9 @@
       "crew": 5,
       "gears_forward": 7,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_panther_II",
@@ -17913,7 +18453,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_pz_IV_L70_A",
@@ -17945,7 +18487,8 @@
       "crew": 4,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_pz_IV_L70",
@@ -17976,7 +18519,8 @@
       "crew": 4,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_panzerjager_1",
@@ -18071,7 +18615,8 @@
       "crew": 2,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "ussr_type_65_aa",
@@ -18227,7 +18772,8 @@
       "crew": 4,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_composite": true
     },
     {
       "intname": "sw_pvkv_m43_1963",
@@ -18258,7 +18804,8 @@
       "crew": 4,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_composite": true
     },
     {
       "intname": "sw_pvlvv_fm42",
@@ -18340,7 +18887,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "germ_pzkpfw_35t",
@@ -18433,7 +18981,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_panzerbefelhswagen_IV_ausf_J",
@@ -18497,7 +19046,8 @@
       "crew": 5,
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "germ_pzkpfw_II_ausf_C_DAK",
@@ -18652,7 +19202,8 @@
       "crew": 5,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_III_ausf_E",
@@ -18682,7 +19233,8 @@
       "crew": 5,
       "gears_forward": 10,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_III_ausf_F",
@@ -18713,7 +19265,8 @@
       "crew": 5,
       "gears_forward": 10,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_III_ausf_J_L42",
@@ -18744,7 +19297,8 @@
       "crew": 5,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_III_ausf_J_td",
@@ -18775,7 +19329,8 @@
       "crew": 5,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_III_ausf_J",
@@ -18806,7 +19361,8 @@
       "crew": 5,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_III_ausf_L",
@@ -18868,7 +19424,8 @@
       "crew": 5,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "it_pzkpfw_III_ausf_N",
@@ -18899,7 +19456,8 @@
       "crew": 5,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_III_ausf_N",
@@ -18931,7 +19489,8 @@
       "crew": 5,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_IV_ausf_C",
@@ -18962,7 +19521,8 @@
       "crew": 5,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_IV_ausf_E",
@@ -18993,7 +19553,8 @@
       "crew": 5,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_IV_ausf_F",
@@ -19024,7 +19585,8 @@
       "crew": 5,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_IV_ausf_F2",
@@ -19055,7 +19617,8 @@
       "crew": 5,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "it_pzkpfw_IV_ausf_G",
@@ -19087,7 +19650,8 @@
       "crew": 5,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_IV_ausf_G",
@@ -19118,7 +19682,8 @@
       "crew": 5,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_IV_ausf_H",
@@ -19180,7 +19745,8 @@
       "crew": 5,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_infanterie_kampfpanzer_churchill",
@@ -19212,7 +19778,9 @@
       "crew": 5,
       "gears_forward": 4,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_II_ausf_H",
@@ -19454,7 +20022,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true,
+      "has_composite": true
     },
     {
       "intname": "germ_raketenjagdpanzer_2_hot",
@@ -19506,7 +20076,9 @@
           "noiseFactor": 0.2
         }
       },
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_raketenjagdpanzer_2",
@@ -19538,7 +20110,9 @@
       "gears_forward": 6,
       "gears_backward": 6,
       "type": "tank",
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_ratel_20",
@@ -19569,7 +20143,8 @@
       "crew": 3,
       "gears_forward": 8,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "uk_ratel_90",
@@ -19600,7 +20175,8 @@
       "crew": 3,
       "gears_forward": 8,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "jp_hiro_sha",
@@ -19695,7 +20271,8 @@
       "gears_forward": 5,
       "gears_backward": 5,
       "type": "tank",
-      "has_synchro": true
+      "has_synchro": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_rooikat_105_td",
@@ -19742,7 +20319,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true,
+      "has_ess": true
     },
     {
       "intname": "uk_rooikat_mttd",
@@ -19788,7 +20367,8 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_ess": true
     },
     {
       "intname": "uk_rooikat_76",
@@ -19839,7 +20419,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true,
+      "has_ess": true
     },
     {
       "intname": "germ_ru251",
@@ -19872,7 +20454,9 @@
       "gears_forward": 6,
       "gears_backward": 6,
       "type": "tank",
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "fr_somua_s35",
@@ -19903,7 +20487,8 @@
       "crew": 3,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "uk_marmon_herrington_mk_6_2pdr",
@@ -19934,7 +20519,8 @@
       "crew": 4,
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "uk_marmon_herrington_mk_6_6pdr",
@@ -19965,7 +20551,8 @@
       "crew": 3,
       "gears_forward": 6,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "sw_sav_fm48",
@@ -19997,7 +20584,8 @@
       "crew": 3,
       "gears_forward": 4,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "fr_somua_sau40",
@@ -20028,7 +20616,8 @@
       "crew": 3,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "it_otobreda_sidam_25_mistral",
@@ -20136,7 +20725,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "ussr_smk",
@@ -20220,7 +20811,8 @@
           "noiseFactor": 0.2
         }
       },
-      "can_float": true
+      "can_float": true,
+      "has_ess": true
     },
     {
       "intname": "jp_st_a1",
@@ -20251,7 +20843,8 @@
       "crew": 4,
       "gears_forward": 7,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "jp_st_a2",
@@ -20282,7 +20875,8 @@
       "crew": 4,
       "gears_forward": 7,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "jp_st_a3",
@@ -20353,7 +20947,9 @@
           "noiseFactor": 0.2
         }
       },
-      "hydro_suspension": true
+      "hydro_suspension": true,
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "cn_su_100_1945",
@@ -20446,7 +21042,8 @@
       "crew": 5,
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "ussr_su_100Y",
@@ -20517,7 +21114,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true
     },
     {
       "intname": "ussr_su_122",
@@ -21146,7 +21744,8 @@
       "gears_forward": 7,
       "gears_backward": 7,
       "type": "tank",
-      "has_synchro": true
+      "has_synchro": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_sdkfz_234_2",
@@ -21178,7 +21777,8 @@
       "gears_forward": 7,
       "gears_backward": 7,
       "type": "tank",
-      "has_synchro": true
+      "has_synchro": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_sdkfz_234_3",
@@ -21370,7 +21970,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "uk_sherman_ic_firefly",
@@ -21402,7 +22003,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "uk_sherman_II",
@@ -21464,7 +22066,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "il_centurion_shot_kal_alef",
@@ -21503,7 +22106,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "uk_centurion_shot_kal_d",
@@ -21543,7 +22147,11 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_era": true
     },
     {
       "intname": "il_centurion_shot_kal_d",
@@ -21583,7 +22191,11 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_era": true
     },
     {
       "intname": "il_centurion_shot_kal_gimel",
@@ -21622,7 +22234,11 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_era": true
     },
     {
       "intname": "il_centurion_mk_5_shot",
@@ -21661,7 +22277,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "ussr_9p149",
@@ -21702,7 +22320,8 @@
           "noiseFactor": 0.2
         }
       },
-      "can_float": true
+      "can_float": true,
+      "has_ess": true
     },
     {
       "intname": "jp_type_95_so_ki",
@@ -21874,7 +22493,9 @@
           "noiseFactor": 0.2
         }
       },
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "sw_strf_9056",
@@ -21915,7 +22536,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "sw_strf_90b",
@@ -21955,7 +22578,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "sw_strf_90c",
@@ -21995,7 +22620,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_fv102_striker",
@@ -22042,7 +22669,9 @@
           "noiseFactor": 0.2
         }
       },
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "sw_strv_101",
@@ -22093,7 +22722,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "sw_strv_103_0",
@@ -22146,7 +22777,8 @@
           "noiseFactor": 0.2
         }
       },
-      "hydro_suspension": true
+      "hydro_suspension": true,
+      "has_neutral": true
     },
     {
       "intname": "sw_strv_103a",
@@ -22198,7 +22830,9 @@
           "noiseFactor": 0.2
         }
       },
-      "hydro_suspension": true
+      "hydro_suspension": true,
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "sw_strv_103c",
@@ -22250,7 +22884,10 @@
           "noiseFactor": 0.2
         }
       },
-      "hydro_suspension": true
+      "hydro_suspension": true,
+      "has_neutral": true,
+      "has_dozer": true,
+      "has_smoke": true
     },
     {
       "intname": "sw_strv_104",
@@ -22301,7 +22938,10 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_era": true
     },
     {
       "intname": "sw_strv_105",
@@ -22347,7 +22987,10 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_era": true
     },
     {
       "intname": "sw_strv_121",
@@ -22393,7 +23036,11 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_dozer": true,
+      "has_smoke": true,
+      "has_composite": true
     },
     {
       "intname": "sw_strv_122",
@@ -22434,7 +23081,10 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_composite": true
     },
     {
       "intname": "sw_strv_122b_plss",
@@ -22475,7 +23125,10 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_composite": true
     },
     {
       "intname": "sw_strv_74",
@@ -22506,7 +23159,8 @@
       "crew": 4,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "uk_centurion_mk_3_ss11",
@@ -22538,7 +23192,9 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "sw_strv_81_rb52",
@@ -22570,7 +23226,9 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "sw_strv_81",
@@ -22601,7 +23259,9 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "sw_strv_m31",
@@ -22911,7 +23571,8 @@
       "crew": 4,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_stug_III_ausf_F",
@@ -22942,7 +23603,8 @@
       "crew": 4,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "it_stug_III_ausf_G",
@@ -22973,7 +23635,8 @@
       "crew": 4,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_stug_III_ausf_G",
@@ -23160,7 +23823,8 @@
       "crew": 5,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "us_m18_super_hellcat",
@@ -23231,7 +23895,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_t_34_747",
@@ -23303,7 +23969,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true,
+      "has_ess": true
     },
     {
       "intname": "ussr_t_10m",
@@ -23354,7 +24022,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true,
+      "has_ess": true
     },
     {
       "intname": "ussr_t_126sp",
@@ -23886,7 +24556,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "ussr_t_34_57_1943",
@@ -24263,7 +24934,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "ussr_t_44_122",
@@ -24388,7 +25060,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "ussr_t_54_1949",
@@ -24419,7 +25092,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "ussr_t_54_1951",
@@ -24450,7 +25124,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "ussr_t_55a",
@@ -24501,7 +25176,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_ess": true
     },
     {
       "intname": "ussr_t_55_am",
@@ -24553,7 +25229,10 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true,
+      "has_ess": true,
+      "has_composite": true
     },
     {
       "intname": "ussr_t_55_amd_1",
@@ -24604,7 +25283,10 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true,
+      "has_ess": true,
+      "has_composite": true
     },
     {
       "intname": "ussr_t_60_1941",
@@ -24687,7 +25369,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_ess": true
     },
     {
       "intname": "ussr_t_62",
@@ -24738,7 +25421,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_ess": true
     },
     {
       "intname": "ussr_t_62m1",
@@ -24789,7 +25473,10 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true,
+      "has_ess": true,
+      "has_composite": true
     },
     {
       "intname": "ussr_t_64a_1971",
@@ -24840,7 +25527,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_ess": true,
+      "has_composite": true
     },
     {
       "intname": "ussr_t_64_b_1984",
@@ -24891,7 +25580,12 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_dozer": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_era": true,
+      "has_composite": true
     },
     {
       "intname": "cn_type_69_2g",
@@ -24943,7 +25637,10 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true,
+      "has_ess": true,
+      "has_era": true
     },
     {
       "intname": "ussr_t_70_1942",
@@ -25025,7 +25722,11 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_dozer": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_composite": true
     },
     {
       "intname": "ussr_t_72av_turms",
@@ -25067,7 +25768,12 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_dozer": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_era": true,
+      "has_composite": true
     },
     {
       "intname": "ussr_t_72b_1989",
@@ -25118,7 +25824,12 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_dozer": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_era": true,
+      "has_composite": true
     },
     {
       "intname": "ussr_t_72b",
@@ -25169,7 +25880,12 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_dozer": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_era": true,
+      "has_composite": true
     },
     {
       "intname": "ussr_t_72b3_2011",
@@ -25215,7 +25931,12 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_dozer": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_era": true,
+      "has_composite": true
     },
     {
       "intname": "ussr_t_72m2_moderna",
@@ -25256,7 +25977,13 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_dozer": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_lws": true,
+      "has_era": true,
+      "has_composite": true
     },
     {
       "intname": "ussr_t_80",
@@ -25333,7 +26060,12 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_dozer": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_era": true,
+      "has_composite": true
     },
     {
       "intname": "ussr_t_80bvm",
@@ -25379,7 +26111,12 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_dozer": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_era": true,
+      "has_composite": true
     },
     {
       "intname": "ussr_t_80u",
@@ -25425,7 +26162,12 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_dozer": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_era": true,
+      "has_composite": true
     },
     {
       "intname": "ussr_t_90a",
@@ -25471,7 +26213,12 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_dozer": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_era": true,
+      "has_composite": true
     },
     {
       "intname": "ussr_pzkpfw_III_ausf_J_L42",
@@ -25503,7 +26250,8 @@
       "crew": 5,
       "gears_forward": 6,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "ussr_pzkpfw_V",
@@ -25535,7 +26283,9 @@
       "crew": 5,
       "gears_forward": 7,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "us_t114",
@@ -25632,7 +26382,8 @@
       "crew": 5,
       "gears_forward": 7,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "us_t20",
@@ -25696,7 +26447,8 @@
       "gears_forward": 5,
       "gears_backward": 5,
       "type": "tank",
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true
     },
     {
       "intname": "us_t26e4_superpershing",
@@ -25790,7 +26542,8 @@
       "crew": 4,
       "gears_forward": 3,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "us_t29",
@@ -25822,7 +26575,8 @@
       "crew": 6,
       "gears_forward": 8,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "us_t30",
@@ -25854,7 +26608,8 @@
       "crew": 6,
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "us_t32",
@@ -25885,7 +26640,8 @@
       "crew": 5,
       "gears_forward": 8,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "us_t32e1",
@@ -25916,7 +26672,8 @@
       "crew": 5,
       "gears_forward": 8,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "us_t34",
@@ -25947,7 +26704,8 @@
       "crew": 6,
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "us_t54e1",
@@ -25987,7 +26745,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "us_t55e1",
@@ -26089,7 +26848,8 @@
       "crew": 4,
       "gears_forward": 4,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "us_t95e1",
@@ -26128,7 +26888,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "germ_thyssen_henschel_tam_2c",
@@ -26170,7 +26931,10 @@
           "noiseFactor": 0.2
         }
       },
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_lws": true
     },
     {
       "intname": "germ_thyssen_henschel_tam_2ip",
@@ -26211,7 +26975,10 @@
           "noiseFactor": 0.2
         }
       },
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_composite": true
     },
     {
       "intname": "germ_thyssen_henschel_tam",
@@ -26251,7 +27018,9 @@
           "noiseFactor": 0.2
         }
       },
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_ttd",
@@ -26297,7 +27066,11 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_composite": true
     },
     {
       "intname": "jp_type_98_ta_se",
@@ -26358,7 +27131,8 @@
       "crew": 3,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_VI_ausf_h1_tiger_animal_version",
@@ -26390,7 +27164,9 @@
       "crew": 5,
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_VI_ausf_e_tiger",
@@ -26421,7 +27197,9 @@
       "crew": 5,
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_VI_ausf_h1_tiger",
@@ -26452,7 +27230,9 @@
       "crew": 5,
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46",
@@ -26483,7 +27263,9 @@
       "crew": 6,
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_VI_ausf_b_tiger_IIh_sla",
@@ -26515,7 +27297,9 @@
       "crew": 5,
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_VI_ausf_b_tiger_IIh",
@@ -26546,7 +27330,9 @@
       "crew": 5,
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_pzkpfw_VI_ausf_b_tiger_IIp",
@@ -26577,7 +27363,9 @@
       "crew": 5,
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "il_tiran_4",
@@ -26703,7 +27491,9 @@
       "gears_forward": 6,
       "gears_backward": 6,
       "type": "tank",
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "it_41m_turan_2",
@@ -26735,7 +27525,8 @@
       "crew": 5,
       "gears_forward": 6,
       "gears_backward": 3,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "germ_erprobungstrager_3_achs_turm",
@@ -26767,7 +27558,8 @@
       "crew": 3,
       "gears_forward": 7,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "jp_type_10",
@@ -26810,7 +27602,10 @@
         }
       },
       "hydro_suspension": true,
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_lws": true
     },
     {
       "intname": "jp_type_16",
@@ -26851,7 +27646,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true,
+      "has_lws": true
     },
     {
       "intname": "cn_type_59",
@@ -26983,7 +27780,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true
     },
     {
       "intname": "ussr_type_62",
@@ -27014,7 +27812,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "cn_type_62",
@@ -27045,7 +27844,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "cn_type_63_I",
@@ -27180,7 +27980,9 @@
           "noiseFactor": 0.2
         }
       },
-      "hydro_suspension": true
+      "hydro_suspension": true,
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "jp_type_74",
@@ -27232,7 +28034,10 @@
           "noiseFactor": 0.2
         }
       },
-      "hydro_suspension": true
+      "hydro_suspension": true,
+      "has_neutral": true,
+      "has_dozer": true,
+      "has_smoke": true
     },
     {
       "intname": "jp_type_74_f",
@@ -27284,7 +28089,9 @@
           "noiseFactor": 0.2
         }
       },
-      "hydro_suspension": true
+      "hydro_suspension": true,
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "jp_type_74_mod_g_kai",
@@ -27332,7 +28139,10 @@
           "noiseFactor": 0.2
         }
       },
-      "hydro_suspension": true
+      "hydro_suspension": true,
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_lws": true
     },
     {
       "intname": "jp_type_75_mlrs",
@@ -27411,7 +28221,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "jp_type_87_rcv",
@@ -27456,7 +28267,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true
     },
     {
       "intname": "jp_type_87",
@@ -27502,7 +28314,10 @@
           "noiseFactor": 0.2
         }
       },
-      "hydro_suspension": true
+      "hydro_suspension": true,
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_lws": true
     },
     {
       "intname": "jp_type_89",
@@ -27548,7 +28363,10 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_lws": true
     },
     {
       "intname": "jp_type_90b",
@@ -27595,7 +28413,11 @@
           "noiseFactor": 0.2
         }
       },
-      "hydro_suspension": true
+      "hydro_suspension": true,
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_lws": true,
+      "has_composite": true
     },
     {
       "intname": "jp_type_90",
@@ -27642,7 +28464,12 @@
           "noiseFactor": 0.2
         }
       },
-      "hydro_suspension": true
+      "hydro_suspension": true,
+      "has_neutral": true,
+      "has_dozer": true,
+      "has_smoke": true,
+      "has_lws": true,
+      "has_composite": true
     },
     {
       "intname": "jp_type_93",
@@ -27795,7 +28622,8 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "it_vbc_pt2",
@@ -27835,7 +28663,10 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true,
+      "has_lws": true,
+      "has_composite": true
     },
     {
       "intname": "it_vcc_80_hitfist_30",
@@ -27881,7 +28712,10 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_lws": true
     },
     {
       "intname": "it_vcc_80_hitfist_60",
@@ -27927,7 +28761,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "sw_veak_40",
@@ -27958,7 +28794,9 @@
       "crew": 3,
       "gears_forward": 5,
       "gears_backward": 2,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true,
+      "has_composite": true
     },
     {
       "intname": "uk_vfm_5",
@@ -28009,7 +28847,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "germ_vsw_flak_41",
@@ -28073,7 +28913,8 @@
       "crew": 5,
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "germ_vt_1_2",
@@ -28125,7 +28966,8 @@
           "noiseFactor": 0.2
         }
       },
-      "hydro_suspension": true
+      "hydro_suspension": true,
+      "has_neutral": true
     },
     {
       "intname": "uk_valentine_mk_1",
@@ -28156,7 +28998,8 @@
       "crew": 3,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "uk_valentine_mk_9",
@@ -28187,7 +29030,8 @@
       "crew": 3,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "uk_valentine_mk_11",
@@ -28218,7 +29062,8 @@
       "crew": 3,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "uk_vickers_mbt_mk_1",
@@ -28257,7 +29102,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_vickers_mbt_mk_3",
@@ -28302,7 +29149,9 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "uk_vickers_mk7",
@@ -28348,7 +29197,10 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_composite": true
     },
     {
       "intname": "cn_wma_301",
@@ -28395,7 +29247,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true,
+      "has_composite": true
     },
     {
       "intname": "cn_wz_305",
@@ -28457,7 +29311,8 @@
       "crew": 4,
       "gears_forward": 8,
       "gears_backward": 4,
-      "type": "tank"
+      "type": "tank",
+      "has_neutral": true
     },
     {
       "intname": "uk_fv510_isv",
@@ -28503,7 +29358,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_composite": true
     },
     {
       "intname": "germ_wiesel_1_tow",
@@ -28543,7 +29400,8 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "germ_wiesel_1_mk20",
@@ -28583,7 +29441,8 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "germ_flakpanzer_IV_Wirbelwind",
@@ -28655,7 +29514,8 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "us_xm1_gm",
@@ -28697,7 +29557,9 @@
           "noiseFactor": 0.2
         }
       },
-      "hydro_suspension": true
+      "hydro_suspension": true,
+      "has_neutral": true,
+      "has_composite": true
     },
     {
       "intname": "us_xm_803",
@@ -28750,7 +29612,9 @@
         }
       },
       "hydro_suspension": true,
-      "has_synchro": true
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true
     },
     {
       "intname": "us_xm_8",
@@ -28790,7 +29654,8 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true
     },
     {
       "intname": "us_xm_975_roland",
@@ -28922,7 +29787,8 @@
           "ghosting": 0.75,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_ess": true
     },
     {
       "intname": "cn_type_86",
@@ -28974,7 +29840,8 @@
           "noiseFactor": 0.2
         }
       },
-      "can_float": true
+      "can_float": true,
+      "has_ess": true
     },
     {
       "intname": "cn_ztl_11",
@@ -29021,7 +29888,9 @@
           "noiseFactor": 0.2
         }
       },
-      "can_float": true
+      "can_float": true,
+      "has_smoke": true,
+      "has_lws": true
     },
     {
       "intname": "cn_zsd63_pg87",
@@ -29281,7 +30150,8 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true
     },
     {
       "intname": "cn_ztz_59a",
@@ -29313,7 +30183,8 @@
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
-      "type": "tank"
+      "type": "tank",
+      "has_smoke": true
     },
     {
       "intname": "cn_type_59d",
@@ -29359,7 +30230,9 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true,
+      "has_era": true
     },
     {
       "intname": "cn_ztz_88a",
@@ -29410,7 +30283,10 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true,
+      "has_ess": true,
+      "has_composite": true
     },
     {
       "intname": "cn_ztz_96",
@@ -29461,7 +30337,10 @@
           "ghosting": 0.7,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true,
+      "has_ess": true,
+      "has_composite": true
     },
     {
       "intname": "cn_ztz_96a_prot",
@@ -29508,7 +30387,11 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true,
+      "has_ess": true,
+      "has_era": true,
+      "has_composite": true
     },
     {
       "intname": "cn_ztz_96a",
@@ -29554,7 +30437,11 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true,
+      "has_ess": true,
+      "has_era": true,
+      "has_composite": true
     },
     {
       "intname": "cn_ztz_99",
@@ -29595,7 +30482,12 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true,
+      "has_ess": true,
+      "has_lws": true,
+      "has_era": true,
+      "has_composite": true
     },
     {
       "intname": "cn_ztz_99_w",
@@ -29636,7 +30528,12 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_smoke": true,
+      "has_ess": true,
+      "has_lws": true,
+      "has_era": true,
+      "has_composite": true
     },
     {
       "intname": "cn_ztz_99a",
@@ -29677,7 +30574,14 @@
           "ghosting": 0.6,
           "noiseFactor": 0.2
         }
-      }
+      },
+      "has_neutral": true,
+      "has_dozer": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_lws": true,
+      "has_era": true,
+      "has_composite": true
     },
     {
       "intname": "ussr_zut_37",
