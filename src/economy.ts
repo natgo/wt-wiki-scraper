@@ -1,6 +1,14 @@
 import fs from "fs";
 
-import { AirVehicle, Economy, Final, GroundVehicle, UnitData, savedparse, NightVision } from "./types";
+import {
+  AirVehicle,
+  Economy,
+  Final,
+  GroundVehicle,
+  NightVision,
+  UnitData,
+  savedparse,
+} from "./types";
 
 async function main() {
   const economy: Record<string, Economy> = JSON.parse(
@@ -124,7 +132,10 @@ async function main() {
   };
   names.ground.forEach((element) => {
     const vehicle: GroundVehicle = JSON.parse(
-      fs.readFileSync(`./War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/units/tankmodels/${element.intname.toLowerCase()}.blkx`, "utf-8"),
+      fs.readFileSync(
+        `./War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/units/tankmodels/${element.intname.toLowerCase()}.blkx`,
+        "utf-8",
+      ),
     );
     let prem = "false";
     let type = "";
@@ -183,73 +194,22 @@ async function main() {
       vehicle.VehiclePhys.mechanics.gearRatios.ratio.forEach((element) => {
         if (element > 0) {
           gearsF++;
-        }
-        if (element < 0) {
+        } else if (element < 0) {
           gearsB++;
         }
       });
     }
-
-    let turret: number[] = [0, 0, 0];
-    let hull: number[] = [0, 0, 0];
-    if (vehicle.DamageParts.turret) {
-      if (
-        vehicle.DamageParts.turret.turret_front_dm ||
-        vehicle.DamageParts.turret.turret_side_dm ||
-        vehicle.DamageParts.turret.turret_back_dm
-      ) {
-        if (
-          vehicle.DamageParts.turret.turret_front_dm &&
-          vehicle.DamageParts.turret.turret_side_dm &&
-          vehicle.DamageParts.turret.turret_back_dm
-        ) {
-          turret = [
-            vehicle.DamageParts.turret.turret_front_dm.armorThickness,
-            vehicle.DamageParts.turret.turret_side_dm.armorThickness,
-            vehicle.DamageParts.turret.turret_back_dm.armorThickness,
-          ];
-        } else {
-          if (
-            vehicle.DamageParts.turret.turret_front_dm &&
-            vehicle.DamageParts.turret.turret_side_dm &&
-            !vehicle.DamageParts.turret.turret_back_dm
-          ) {
-            turret = [
-              vehicle.DamageParts.turret.turret_front_dm.armorThickness,
-              vehicle.DamageParts.turret.turret_side_dm.armorThickness,
-            ];
-          }
+    
+    let synchro = 0;
+    let has_synchro = false;
+    if (gearsB === gearsF) {
+      vehicle.VehiclePhys.mechanics.gearRatios.ratio.forEach((element, i, array) => {
+        if (element + array[array.length - i - 1] === 0) {
+          synchro++;
         }
-      }
-    }
-    if (vehicle.DamageParts.hull) {
-      if (
-        vehicle.DamageParts.hull.body_front_dm ||
-        vehicle.DamageParts.hull.body_side_dm ||
-        vehicle.DamageParts.hull.body_back_dm
-      ) {
-        if (
-          vehicle.DamageParts.hull.body_front_dm &&
-          vehicle.DamageParts.hull.body_side_dm &&
-          vehicle.DamageParts.hull.body_back_dm
-        ) {
-          hull = [
-            vehicle.DamageParts.hull.body_front_dm.armorThickness,
-            vehicle.DamageParts.hull.body_side_dm.armorThickness,
-            vehicle.DamageParts.hull.body_back_dm.armorThickness,
-          ];
-        } else {
-          if (
-            vehicle.DamageParts.hull.body_front_dm &&
-            vehicle.DamageParts.hull.body_side_dm &&
-            !vehicle.DamageParts.hull.body_back_dm
-          ) {
-            hull = [
-              vehicle.DamageParts.hull.body_front_dm.armorThickness,
-              vehicle.DamageParts.hull.body_side_dm.armorThickness,
-            ];
-          }
-        }
+      });
+      if ((synchro - 1) / 2 === gearsB) {
+        has_synchro = true;
       }
     }
 
@@ -281,19 +241,21 @@ async function main() {
       cost_gold: economy[element.intname].costGold,
       hidden: hidden,
       crew: economy[element.intname].crewTotalCount,
-      turret_armour: turret,
-      hull_armour: hull,
       gears_forward: gearsF,
       gears_backward: gearsB,
       type: "tank",
       night_vision: night,
       hydro_suspension: vehicle.VehiclePhys.movableSuspension ? true : undefined,
       can_float: vehicle.VehiclePhys.floats ? true : undefined,
+      has_synchro: has_synchro ? true : undefined,
     });
   });
   names.aircraft.forEach((element) => {
     const vehicle: AirVehicle = JSON.parse(
-      fs.readFileSync(`./War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/flightmodels/${element.intname.toLowerCase()}.blkx`, "utf-8"),
+      fs.readFileSync(
+        `./War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/flightmodels/${element.intname.toLowerCase()}.blkx`,
+        "utf-8",
+      ),
     );
     let prem = "false";
     let type = "";
@@ -393,7 +355,10 @@ async function main() {
   });
   names.helicopter.forEach((element) => {
     const vehicle: AirVehicle = JSON.parse(
-      fs.readFileSync(`./War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/flightmodels/${element.intname.toLowerCase()}.blkx`, "utf-8"),
+      fs.readFileSync(
+        `./War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/flightmodels/${element.intname.toLowerCase()}.blkx`,
+        "utf-8",
+      ),
     );
     let prem = "false";
     let type = "";

@@ -1,7 +1,7 @@
 import { load } from "cheerio";
 import fs from "fs";
 
-import { Final, savedparse } from "./types";
+import { Final } from "./types";
 
 async function main() {
   const final: Final = JSON.parse(fs.readFileSync("./out/final.json", "utf-8"));
