@@ -1,4 +1,6 @@
 import fs from "fs";
+import { CWToCannon } from "./commonWeaponToCannon";
+import { langcsvJSON } from "./csvJSON";
 
 import {
   AirVehicle,
@@ -9,6 +11,8 @@ import {
   UnitData,
   savedparse,
   Sights,
+  TankWeapons,
+  TankCannon,
 } from "./types";
 
 async function main() {
@@ -125,6 +129,12 @@ async function main() {
     "11.0",
     "11.3",
   ];
+
+  const weaponry_lang = langcsvJSON(fs.readFileSync(
+    "./War-Thunder-Datamine/lang.vromfs.bin_u/lang/units_weaponry.csv",
+    "utf-8",
+  ));
+
   const final: Final = {
     updated: new Date(),
     ground: [],
@@ -180,9 +190,12 @@ async function main() {
     console.log(element.wikiname);
 
     let night: NightVision = {};
-    Object.entries(vehicle.modifications).forEach(([, value]) => {
+    const bullets:string[] = [];
+    Object.entries(vehicle.modifications).forEach(([key, value]) => {
       if (value.effects?.nightVision) {
         night = value.effects.nightVision;
+      } else if (key.match(/^(\d{2}|\d{3})mm_.*[^ammo_pack]$/g)) {
+        bullets.push(key);
       }
     });
 
@@ -226,19 +239,25 @@ async function main() {
       }
     });
 
+    const weapons: TankWeapons = {
+      cannon: [],
+      machineGun: [],
+    };
+
     if (Array.isArray(vehicle.commonWeapons.Weapon)) {
       vehicle.commonWeapons.Weapon.forEach(element => {
         if (element.trigger === "gunner0") {
-          console.log(element.blk);
+          weapons.cannon?.push(CWToCannon(element,bullets,weaponry_lang));
         }
       });
     } else {
       const Weapon = vehicle.commonWeapons.Weapon;
       if (Weapon.trigger === "gunner0") {
-        console.log(Weapon.blk);
+        weapons.cannon?.push(CWToCannon(Weapon,bullets,weaponry_lang));
       }
     }
 
+    console.log(weapons.cannon[0].shells);
 
     let laser = false;
     if (vehicle.modifications.modern_tank_laser_rangefinder || vehicle.modifications.laser_rangefinder_lws) {

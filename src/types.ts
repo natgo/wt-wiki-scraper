@@ -757,10 +757,10 @@ export interface PartsOilDmg {
 }
 
 export interface CommonWeapons {
-  Weapon: Weapon[];
+  Weapon: CommonWeapon[];
 }
 
-export interface Weapon {
+export interface CommonWeapon {
   trigger: string;
   blk: string;
   emitter: string;
@@ -1040,6 +1040,160 @@ export interface Tags {
   type_light_bomber?: boolean;
 }
 
+//groundmodels_weapons
+export type Weapon = {
+  cannon:                     boolean;
+  weaponType:                 number;
+  bUseHookAsRel:              boolean;
+  emitColor:                  number[];
+  emitI:                      number;
+  emitR:                      number;
+  emitTime:                   number;
+  aimMinDist:                 number;
+  aimMaxDist:                 number;
+  maxDeltaAngle:              number;
+  maxDeltaAngleVertical:      number;
+  shotFreq:                   number;
+  traceFreq:                  number;
+  bEnablePause:               boolean;
+  bullets:                    number;
+  bulletsCluster:             number;
+  fxType:                     string;
+  fxGroundDust:               string;
+  fxGrassDust:                string;
+  fxSandDust:                 string;
+  fxSnowDust:                 string;
+  fxConcreteDust:             string;
+  fxWaterShockWave:           string;
+  shouldCollideWithRendinsts: boolean;
+  sound_path:                 string;
+  sound_pathStudio:           string;
+  sound:                      string;
+  sound_inside:               string;
+  sfxReloadBullet:            string;
+  fxMultipleSpawn:            boolean;
+  isBulletBelt:               boolean;
+  notUseDefaultBulletInGui:   boolean;
+  bullet:                     Bullet;
+} & {
+  [key: string]: {bullet: Bullet};
+}
+
+export interface Bullet {
+  bulletCount:             number;
+  mass:                    number;
+  caliber:                 number;
+  damageCaliber:           number;
+  ballisticCaliber:        number;
+  speed:                   number;
+  Cx:                      number;
+  maxDistance:             number;
+  normalizationPreset:     string;
+  ricochetPreset:          string;
+  secondaryShattersPreset: string;
+  bulletType:              string;
+  slopeEffectPreset:       string;
+  fresnel:                 number[];
+  shellAnimation:          string;
+  bulletName:              string;
+  onHitChanceMultExplFuel: number;
+  relativeVelHitShift:     number[];
+  relativeVelArmorShift:   number[];
+  selfDestructionFx:       string;
+  explosionEffect:         string;
+  groundCollisionEffect:   string;
+  ricochetEffect:          string;
+  waterCollisionEffect:    string;
+  explosionPatchRadius:    number;
+  stability:               Stability;
+  DamageParts:             DamageParts;
+  DamageEffects:           DamageEffects;
+  tracePattern:            TracePattern;
+  hitpower:                PurpleHitpower;
+  armorpower:              { [key: string]: number[] };
+  visual:                  Visual;
+  ballistics?:             Ballistics;
+}
+
+export interface DamageEffects {
+  part: Part;
+}
+
+export interface Part {
+  name:   string;
+  onKill: OnKill;
+}
+
+export interface OnKill {
+  destabilization: number;
+  impulse:         number;
+}
+
+export interface DamageParts {
+  body: Body;
+}
+
+export interface Body {
+  hp:             number;
+  armorClass:     string;
+  armorThickness: number;
+}
+
+export interface Ballistics {
+  slopeEffect: SlopeEffect;
+}
+
+export interface SlopeEffect {
+  table: Table;
+}
+
+export interface Table {
+  t1: T1;
+}
+
+export interface T1 {
+  caliberToArmor:   number;
+  slopeEffect0deg:  number[];
+  slopeEffect10deg: number[];
+  slopeEffect20deg: number[];
+  slopeEffect30deg: number[];
+  slopeEffect50deg: number[];
+  slopeEffect70deg: number[];
+  slopeEffect90deg: number[];
+}
+
+export interface PurpleHitpower {
+  HitPower0m:     number[];
+  HitPower10000m: number[];
+}
+
+export interface Stability {
+  precessionDamping:                   number;
+  ricochetAnglePrecessionFactor:       number;
+  ricochetAngleOmegaFactor:            number;
+  slopeToOmega:                        number[];
+  angleLossStabilizationAfterRicochet: number;
+  penetrationReduction:                PenetrationReduction;
+}
+
+export interface PenetrationReduction {
+  pnt: Array<number[]>;
+}
+
+export interface TracePattern {
+  caliber:     number;
+  circleCount: number;
+  pointCount:  number;
+}
+
+export interface Visual {
+  range_percent_of_ammo: number[];
+  traceFreq:             number;
+  tracer:                string;
+  trail:                 string;
+}
+
+//custom
 export interface savedparse {
   title: string;
   pageid: number;
@@ -1153,8 +1307,8 @@ export interface commanderSight {
 }
 
 export interface TankWeapons {
-  cannon?: TankCannon;
-  machineGun?: MG;
+  cannon?: TankCannon[];
+  machineGun?: MG[];
   launcher?:TankCannon;
 }
 
@@ -1167,9 +1321,11 @@ export interface MG {
 }
 
 export interface TankCannon {
+  intname:string;
   name:string;
+  secondary?:boolean;
   ammo:number;
-  shells:string[];
+  shells:Shell[];
   autoloader?:boolean;
   horizonalSpeed:number;
   verticalSpeed:number;
@@ -1177,6 +1333,13 @@ export interface TankCannon {
   verticalLimit:number[];
   stabilizer?: Stabilizer;
   hullAiming?:HullAiming;
+}
+
+//store mby in a diffrent file for each weapon
+export interface Shell {
+  modname:string;
+  intname:string;
+  name:string;
 }
 
 export interface HullAiming {
