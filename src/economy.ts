@@ -8,14 +8,15 @@ import {
   NightVision,
   UnitData,
   savedparse,
+  Sights,
 } from "./types";
 
 async function main() {
   const economy: Record<string, Economy> = JSON.parse(
-    fs.readFileSync("./economy/wpcost.blkx", "utf-8"),
+    fs.readFileSync("./War-Thunder-Datamine/char.vromfs.bin_u/config/wpcost.blkx", "utf-8"),
   );
   const unitData: Record<string, UnitData> = JSON.parse(
-    fs.readFileSync("./economy/unittags.blkx", "utf-8"),
+    fs.readFileSync("./War-Thunder-Datamine/char.vromfs.bin_u/config/unittags.blkx", "utf-8"),
   );
 
   const vehicles: {
@@ -139,7 +140,6 @@ async function main() {
     );
     let prem = "false";
     let type = "";
-    let hidden = false;
     const ext_type: string[] = [];
     switch (true) {
       case unitData[element.intname].tags.type_light_tank:
@@ -161,9 +161,6 @@ async function main() {
         type = "type_spaa";
         break;
     }
-    if (economy[element.intname].showOnlyWhenBought) {
-      hidden = true;
-    }
     if (economy[element.intname].costGold) {
       if (economy[element.intname].gift) {
         prem = "store";
@@ -179,11 +176,11 @@ async function main() {
         }
       }
     }
-    
+
     console.log(element.wikiname);
 
-    let night: NightVision | undefined = undefined;
-    Object.entries(vehicle.modifications).forEach(([key, value]) => {
+    let night: NightVision = {};
+    Object.entries(vehicle.modifications).forEach(([, value]) => {
       if (value.effects?.nightVision) {
         night = value.effects.nightVision;
       }
@@ -200,7 +197,7 @@ async function main() {
         }
       });
     }
-    
+
     let synchro = 0;
     let has_synchro = false;
     if (gearsB === gearsF) {
@@ -215,7 +212,7 @@ async function main() {
     }
 
     let era = false;
-    Object.entries(vehicle.DamageParts).forEach(([key, value]) => {
+    Object.entries(vehicle.DamageParts).forEach(([, value]) => {
       const armor = value.armorClass as string;
       if (armor && armor.match(/ERA_|era_/g)) {
         era = true;
@@ -223,18 +220,63 @@ async function main() {
     });
 
     let composite = false;
-    Object.entries(vehicle.DamageParts).forEach(([key, value]) => {
+    Object.entries(vehicle.DamageParts).forEach(([key]) => {
       if (key.match(/composite|inner_armor/g)) {
         composite = true;
       }
     });
-    
+
+    if (Array.isArray(vehicle.commonWeapons.Weapon)) {
+      vehicle.commonWeapons.Weapon.forEach(element => {
+        if (element.trigger === "gunner0") {
+          console.log(element.blk);
+        }
+      });
+    } else {
+      const Weapon = vehicle.commonWeapons.Weapon;
+      if (Weapon.trigger === "gunner0") {
+        console.log(Weapon.blk);
+      }
+    }
+
+
+    let laser = false;
+    if (vehicle.modifications.modern_tank_laser_rangefinder || vehicle.modifications.laser_rangefinder_lws) {
+      laser = true;
+    }
+
+    const sights: Sights = {
+      gunner: {
+        zoomInFov:vehicle.cockpit.zoomInFov,
+        zoomOutFov:vehicle.cockpit.zoomOutFov,
+      }
+    };
+    if (vehicle.commanderView) {
+      sights.commander = {
+        zoomInFov:vehicle.commanderView.zoomInFov,
+        zoomOutFov:vehicle.commanderView.zoomOutFov,
+      };
+    }
+    if (night.gunnerThermal) {
+      sights.gunner.gunnerThermal = night.gunnerThermal;
+    } else if (night.gunnerIr) {
+      sights.gunner.gunnerIr = night.gunnerIr;
+    }
+    if (night.commanderViewThermal && sights.commander) {
+      sights.commander.commanderViewThermal = night.commanderViewThermal;
+    } else if (night.commanderViewIr && sights.commander) {
+      sights.commander.commanderViewIr= night.commanderViewIr;
+    }
+    if (night.driverIr) {
+      sights.driver = {driverIr:night.driverIr};
+    }
+
 
     final.ground.push({
       intname: element.intname,
       wikiname: element.wikiname,
       normal_type: type,
-      extended_type: ext_type,
+      extended_type: ext_type.length > 0 ? ext_type : undefined,
       country: economy[element.intname].country,
       rank: economy[element.intname].rank,
       ab_br: br[economy[element.intname].economicRankArcade],
@@ -256,22 +298,23 @@ async function main() {
       horsepower: vehicle.VehiclePhys.engine.horsePowers,
       prem_type: prem,
       cost_gold: economy[element.intname].costGold,
-      hidden: hidden,
+      hidden: economy[element.intname].showOnlyWhenBought ? true : undefined,
       crew: economy[element.intname].crewTotalCount,
       gears_forward: gearsF,
       gears_backward: gearsB,
       type: "tank",
-      night_vision: night,
       hydro_suspension: vehicle.VehiclePhys.movableSuspension ? true : undefined,
       can_float: vehicle.VehiclePhys.floats ? true : undefined,
       has_synchro: has_synchro ? true : undefined,
       has_neutral: vehicle.VehiclePhys.mechanics.neutralGearRatio ? true : undefined,
-      has_dozer: vehicle.modifications.tank_bulldozer_blade? true: undefined,
-      has_smoke:vehicle.modifications.tank_smoke_screen_system_mod? true:undefined,
-      has_ess:vehicle.modifications.tank_engine_smoke_screen_system? true:undefined,
-      has_lws:vehicle.modifications.laser_rangefinder_lws? true:undefined,
-      has_era:era?true:undefined,
-      has_composite:composite?true:undefined,
+      has_dozer: vehicle.modifications.tank_bulldozer_blade ? true : undefined,
+      has_smoke: vehicle.modifications.tank_smoke_screen_system_mod ? true : undefined,
+      has_ess: vehicle.modifications.tank_engine_smoke_screen_system ? true : undefined,
+      has_lws: vehicle.modifications.laser_rangefinder_lws ? true : undefined,
+      has_era: era ? true : undefined,
+      has_composite: composite ? true : undefined,
+      laser_range: laser ? true : undefined,
+      optics: sights,
     });
   });
   names.aircraft.forEach((element) => {
@@ -283,7 +326,6 @@ async function main() {
     );
     let prem = "false";
     let type = "";
-    let hidden = false;
     const ext_type: string[] = [];
     switch (true) {
       case unitData[element.intname].tags.type_fighter:
@@ -329,9 +371,6 @@ async function main() {
     if (unitData[element.intname].tags.type_light_bomber) {
       ext_type.push("type_light_bomber");
     }
-    if (economy[element.intname].showOnlyWhenBought) {
-      hidden = true;
-    }
     if (economy[element.intname].costGold) {
       if (economy[element.intname].gift) {
         prem = "store";
@@ -352,7 +391,7 @@ async function main() {
       intname: element.intname,
       wikiname: element.wikiname,
       normal_type: type,
-      extended_type: ext_type,
+      extended_type: ext_type.length > 0 ? ext_type:undefined,
       country: economy[element.intname].country,
       rank: economy[element.intname].rank,
       ab_br: br[economy[element.intname].economicRankArcade],
@@ -372,7 +411,7 @@ async function main() {
       reqRP: economy[element.intname].reqExp,
       prem_type: prem,
       cost_gold: economy[element.intname].costGold,
-      hidden: hidden,
+      hidden: economy[element.intname].showOnlyWhenBought?true:undefined,
       crew: economy[element.intname].crewTotalCount,
       type: "aircraft",
     });
@@ -386,7 +425,6 @@ async function main() {
     );
     let prem = "false";
     let type = "";
-    let hidden = false;
     const ext_type: string[] = [];
     if (unitData[element.intname].tags.type_attack_helicopter) {
       type = "type_attack_helicopter";
@@ -397,9 +435,6 @@ async function main() {
       if (unitData[element.intname].tags.type_utility_helicopter) {
         type = "type_utility_helicopter";
       }
-    }
-    if (economy[element.intname].showOnlyWhenBought) {
-      hidden = true;
     }
     if (economy[element.intname].costGold) {
       if (economy[element.intname].gift) {
@@ -421,7 +456,7 @@ async function main() {
       intname: element.intname,
       wikiname: element.wikiname,
       normal_type: type,
-      extended_type: ext_type,
+      extended_type: ext_type.length > 0 ? ext_type:undefined,
       country: economy[element.intname].country,
       rank: economy[element.intname].rank,
       ab_br: br[economy[element.intname].economicRankArcade],
@@ -441,7 +476,7 @@ async function main() {
       reqRP: economy[element.intname].reqExp,
       prem_type: prem,
       cost_gold: economy[element.intname].costGold,
-      hidden: hidden,
+      hidden: economy[element.intname].showOnlyWhenBought?true:undefined,
       crew: economy[element.intname].crewTotalCount,
       type: "helicopter",
     });

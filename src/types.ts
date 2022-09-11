@@ -110,8 +110,107 @@ export interface GroundVehicle {
   sound: Sound;
   gunConvergence: GunConvergence;
   cockpit: Cockpit;
+  commanderView?:CommanderView;
   DamageParts: DamageParts;
   modifications: Record<string, Mod>;
+  commonWeapons: CommonGroundWeapons;
+}
+
+export interface CommanderView {
+  aimModeAvailable: boolean,
+  optics: string,
+  zoomOutFov: number,
+  zoomInFov: number,
+  sightSize: number[]
+}
+
+export interface CommonGroundWeapons {
+  Weapon: WeaponGround[] | WeaponGround;
+}
+
+export interface WeaponGround {
+  trigger:                 string;
+  blk:                     string;
+  emitter:                 string;
+  flash?:                  string;
+  sleeveEmitter?:          string;
+  sleeveMesh?:             string;
+  hatchAnimVar?:           string;
+  openHatchTime?:          number;
+  sleevesLifeTime?:        number;
+  sleeveImpulse?:          number[];
+  sleevesImpulseOffset?:   number;
+  sleeveExtractSound?:     string;
+  recoilOffset?:           number;
+  recoilMultiplier?:       number;
+  defaultYaw:              number;
+  defaultPitch:            number;
+  barrelDP?:               string;
+  breechDP?:               string;
+  autoLoader?:             boolean;
+  speedYaw:                number;
+  speedPitch:              number;
+  fireConeAngle?:          number[] | number;
+  bullets?:                number;
+  salvoAmount?:            number;
+  ChainfireTime?:          number;
+  DelayAfterShoot?:        number;
+  AttackMaxDistance?:      number;
+  AttackMaxRadius?:        number;
+  AttackMaxHeight?:        number;
+  accuracyAir?:            number;
+  accuracyGnd?:            number;
+  errMeasureVel?:          number;
+  errMeasureVelFast?:      number;
+  errMeasureVelFwdShift?:  number;
+  errMeasureVelDir?:       number;
+  errTargettingOn100kmph?: number;
+  errTargetting?:          number;
+  errExplTime?:            number;
+  turret:                  Turret;
+  limits:                  Limits;
+  limitsTable?:            LimitsTable;
+  gunStabilizer?:          GunStabilizer;
+  triggerGroup?:           string;
+  parkInDeadzone?:         boolean;
+}
+
+export interface GunStabilizer {
+  hasVerticalGunFreeMode:       boolean;
+  hasHorizontal:                boolean;
+  horizontalOmegaMult:          number;
+  horizontalSpeedLimitKPH:      number;
+  hasVertical:                  boolean;
+  verticalOmegaMult:            number;
+  verticalSpeedLimitKPH:        number;
+  speedFromVehicleVerticalMult: number;
+  errorKPHToDegrees:            ErrorKPHToDegrees;
+  forceEnabled?:                boolean;
+}
+
+export interface ErrorKPHToDegrees {
+  row: Array<number[]>;
+}
+
+export interface Limits {
+  yaw:   number[];
+  pitch: number[];
+}
+
+export interface LimitsTable {
+  lim1: number[];
+  lim2: number[];
+  lim3: number[];
+}
+
+export interface Turret {
+  head:            string;
+  gun:             string;
+  barrel?:         string;
+  gunnerDm:        string;
+  secondGunnerDm?: string;
+  verDriveDm?:     string;
+  horDriveDm?:     string;
 }
 
 export interface Mod {
@@ -961,7 +1060,7 @@ export interface FinalProps {
   wikiname: string;
   type: "tank" | "aircraft" | "helicopter";
   normal_type: string;
-  extended_type: string[];
+  extended_type?: string[];
   country: string;
   rank: number;
   crew: number;
@@ -982,7 +1081,7 @@ export interface FinalProps {
   sb_sl_multiplyer: number;
   prem_type: string;
   cost_gold: number | undefined;
-  hidden: boolean;
+  hidden?: boolean;
 }
 
 export interface GroundProps extends FinalProps {
@@ -990,7 +1089,6 @@ export interface GroundProps extends FinalProps {
   horsepower: number;
   gears_forward: number;
   gears_backward: number;
-  night_vision?: NightVision;
   hydro_suspension?: boolean;
   can_float?: boolean;
   has_synchro?: boolean;
@@ -1001,6 +1099,98 @@ export interface GroundProps extends FinalProps {
   has_lws?:boolean;
   has_era?:boolean;
   has_composite?:boolean;
+  laser_range?:boolean;
+  weapons?: TankWeapons;
+  optics:Sights;
+}
+
+export interface Sights {
+  driver?:driverSight;
+  gunner:gunnerSight;
+  commander?:commanderSight;
+}
+
+export interface driverSight {
+  driverIr?: {
+    resolution: [800 | 1200, 600 | 800];
+    lightMult: 5.0 | 7.0;
+    ghosting: 0.7 | 0.6;
+    noiseFactor: 0.2;
+  };
+}
+
+export interface gunnerSight {
+  gunnerIr?: {
+    resolution: [
+      800|1600,
+      600|1200
+    ];
+    lightMult: 5.0 | 8|9;
+    ghosting: 0.7 | 0.75|0.6;
+    noiseFactor: 0.2;
+  };
+  gunnerThermal?: {
+    resolution: [500 | 800 | 1200, 300 | 600 | 800];
+    noiseFactor: 0.05 | 0.04;
+  };
+  zoomInFov:number;//74
+  zoomOutFov:number;
+}
+
+export interface commanderSight {
+  commanderViewIr?: {
+    resolution: [800 | 1600, 600 | 1200];
+    lightMult: 8.0 | 9.0;
+    ghosting: 0.75 | 0.6;
+    noiseFactor: 0.2;
+  };
+  commanderViewThermal?: {
+    resolution: [800, 600];
+    noiseFactor: 0.04
+  };
+  zoomInFov:number;
+  zoomOutFov:number;
+}
+
+export interface TankWeapons {
+  cannon?: TankCannon;
+  machineGun?: MG;
+  launcher?:TankCannon;
+}
+
+export interface MG {
+  ammo:number;
+  horizonalSpeed:number;
+  verticalSpeed:number;
+  horizonalLimit:number[];
+  verticalLimit:number[];
+}
+
+export interface TankCannon {
+  name:string;
+  ammo:number;
+  shells:string[];
+  autoloader?:boolean;
+  horizonalSpeed:number;
+  verticalSpeed:number;
+  horizonalLimit:number[];
+  verticalLimit:number[];
+  stabilizer?: Stabilizer;
+  hullAiming?:HullAiming;
+}
+
+export interface HullAiming {
+  horizontal?:boolean;
+  vertical?:boolean;
+  maxRoll:number;
+}
+
+export interface Stabilizer {
+  shoulderStop?:boolean;
+  horizontal?:boolean;
+  vertical?:boolean;
+  horizontalSpeed?:number;
+  verticalSpeed?:number;
 }
 
 export interface NightVision {
@@ -1022,9 +1212,12 @@ export interface NightVision {
     noiseFactor: 0.2;
   };
   gunnerIr?: {
-    resolution: [800, 600];
-    lightMult: 5.0 | 8;
-    ghosting: 0.7 | 0.75;
+    resolution: [
+      800|1600,
+      600|1200
+    ];
+    lightMult: 5.0 | 8|9;
+    ghosting: 0.7 | 0.75|0.6;
     noiseFactor: 0.2;
   };
 }
