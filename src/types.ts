@@ -110,18 +110,18 @@ export interface GroundVehicle {
   sound: Sound;
   gunConvergence: GunConvergence;
   cockpit: Cockpit;
-  commanderView?:CommanderView;
+  commanderView?: CommanderView;
   DamageParts: DamageParts;
   modifications: Record<string, Mod>;
   commonWeapons: CommonGroundWeapons;
 }
 
 export interface CommanderView {
-  aimModeAvailable: boolean,
-  optics: string,
-  zoomOutFov: number,
-  zoomInFov: number,
-  sightSize: number[]
+  aimModeAvailable: boolean;
+  optics: string;
+  zoomOutFov: number;
+  zoomInFov: number;
+  sightSize: number[];
 }
 
 export interface CommonGroundWeapons {
@@ -129,63 +129,63 @@ export interface CommonGroundWeapons {
 }
 
 export interface WeaponGround {
-  trigger:                 string;
-  blk:                     string;
-  emitter:                 string;
-  flash?:                  string;
-  sleeveEmitter?:          string;
-  sleeveMesh?:             string;
-  hatchAnimVar?:           string;
-  openHatchTime?:          number;
-  sleevesLifeTime?:        number;
-  sleeveImpulse?:          number[];
-  sleevesImpulseOffset?:   number;
-  sleeveExtractSound?:     string;
-  recoilOffset?:           number;
-  recoilMultiplier?:       number;
-  defaultYaw:              number;
-  defaultPitch:            number;
-  barrelDP?:               string;
-  breechDP?:               string;
-  autoLoader?:             boolean;
-  speedYaw:                number;
-  speedPitch:              number;
-  fireConeAngle?:          number[] | number;
-  bullets?:                number;
-  salvoAmount?:            number;
-  ChainfireTime?:          number;
-  DelayAfterShoot?:        number;
-  AttackMaxDistance?:      number;
-  AttackMaxRadius?:        number;
-  AttackMaxHeight?:        number;
-  accuracyAir?:            number;
-  accuracyGnd?:            number;
-  errMeasureVel?:          number;
-  errMeasureVelFast?:      number;
-  errMeasureVelFwdShift?:  number;
-  errMeasureVelDir?:       number;
+  trigger: string;
+  blk: string;
+  emitter: string;
+  flash?: string;
+  sleeveEmitter?: string;
+  sleeveMesh?: string;
+  hatchAnimVar?: string;
+  openHatchTime?: number;
+  sleevesLifeTime?: number;
+  sleeveImpulse?: number[];
+  sleevesImpulseOffset?: number;
+  sleeveExtractSound?: string;
+  recoilOffset?: number;
+  recoilMultiplier?: number;
+  defaultYaw: number;
+  defaultPitch: number;
+  barrelDP?: string;
+  breechDP?: string;
+  autoLoader?: boolean;
+  speedYaw: number;
+  speedPitch: number;
+  fireConeAngle?: number[] | number;
+  bullets?: number;
+  salvoAmount?: number;
+  ChainfireTime?: number;
+  DelayAfterShoot?: number;
+  AttackMaxDistance?: number;
+  AttackMaxRadius?: number;
+  AttackMaxHeight?: number;
+  accuracyAir?: number;
+  accuracyGnd?: number;
+  errMeasureVel?: number;
+  errMeasureVelFast?: number;
+  errMeasureVelFwdShift?: number;
+  errMeasureVelDir?: number;
   errTargettingOn100kmph?: number;
-  errTargetting?:          number;
-  errExplTime?:            number;
-  turret:                  Turret;
-  limits:                  Limits;
-  limitsTable?:            LimitsTable;
-  gunStabilizer?:          GunStabilizer;
-  triggerGroup?:           string;
-  parkInDeadzone?:         boolean;
+  errTargetting?: number;
+  errExplTime?: number;
+  turret: Turret;
+  limits: Limits;
+  limitsTable?: LimitsTable;
+  gunStabilizer?: GunStabilizer;
+  triggerGroup?: string;
+  parkInDeadzone?: boolean;
 }
 
 export interface GunStabilizer {
-  hasVerticalGunFreeMode:       boolean;
-  hasHorizontal:                boolean;
-  horizontalOmegaMult:          number;
-  horizontalSpeedLimitKPH:      number;
-  hasVertical:                  boolean;
-  verticalOmegaMult:            number;
-  verticalSpeedLimitKPH:        number;
+  hasVerticalGunFreeMode: boolean;
+  hasHorizontal: boolean;
+  horizontalOmegaMult: number;
+  horizontalSpeedLimitKPH: number;
+  hasVertical: boolean;
+  verticalOmegaMult: number;
+  verticalSpeedLimitKPH: number;
   speedFromVehicleVerticalMult: number;
-  errorKPHToDegrees:            ErrorKPHToDegrees;
-  forceEnabled?:                boolean;
+  errorKPHToDegrees: ErrorKPHToDegrees;
+  forceEnabled?: boolean;
 }
 
 export interface ErrorKPHToDegrees {
@@ -193,7 +193,7 @@ export interface ErrorKPHToDegrees {
 }
 
 export interface Limits {
-  yaw:   number[];
+  yaw: number[];
   pitch: number[];
 }
 
@@ -204,13 +204,13 @@ export interface LimitsTable {
 }
 
 export interface Turret {
-  head:            string;
-  gun:             string;
-  barrel?:         string;
-  gunnerDm:        string;
+  head: string;
+  gun: string;
+  barrel?: string;
+  gunnerDm: string;
   secondGunnerDm?: string;
-  verDriveDm?:     string;
-  horDriveDm?:     string;
+  verDriveDm?: string;
+  horDriveDm?: string;
 }
 
 export interface Mod {
@@ -278,28 +278,28 @@ export interface DamageParts {
   fuel_tanks_exterior: FuelTanksExterior;
   commander_panoramic_sight: CommanderPanoramicSight;
   era_side_box: Era;
-  era_hull:Era;
-  era_turret:Era;
-  era_turret_top:Era;
-  era_turret_front_box:Era;
-  era_turret_front_plate:Era;
-  ufp_era:Era;
-  front_turret_era:Era;
-  side_turret_era:Era;
-  top_turret_era:Era;
+  era_hull: Era;
+  era_turret: Era;
+  era_turret_top: Era;
+  era_turret_front_box: Era;
+  era_turret_front_plate: Era;
+  ufp_era: Era;
+  front_turret_era: Era;
+  side_turret_era: Era;
+  top_turret_era: Era;
 }
 
 export interface Era {
-  armorClass:                     string;
-  kineticProtectionEquivalent:    number;
+  armorClass: string;
+  kineticProtectionEquivalent: number;
   cumulativeProtectionEquivalent: number;
-  hp:                             number;
-  armorThickness:                 number;
-  genericDamageMult:              number;
-  cumulativeArmorQuality:         number;
-  armorEffectiveThicknessMax:     number;
-  stopChanceOnDeadPart:           number;
-  hidableInViewer:                boolean;
+  hp: number;
+  armorThickness: number;
+  genericDamageMult: number;
+  cumulativeArmorQuality: number;
+  armorEffectiveThicknessMax: number;
+  stopChanceOnDeadPart: number;
+  hidableInViewer: boolean;
 }
 
 export interface Ammo {
@@ -1042,77 +1042,81 @@ export interface Tags {
 
 //groundmodels_weapons
 export type Weapon = {
-  cannon:                     boolean;
-  weaponType:                 number;
-  bUseHookAsRel:              boolean;
-  emitColor:                  number[];
-  emitI:                      number;
-  emitR:                      number;
-  emitTime:                   number;
-  aimMinDist:                 number;
-  aimMaxDist:                 number;
-  maxDeltaAngle:              number;
-  maxDeltaAngleVertical:      number;
-  shotFreq:                   number;
-  traceFreq:                  number;
-  bEnablePause:               boolean;
-  bullets:                    number;
-  bulletsCluster:             number;
-  fxType:                     string;
-  fxGroundDust:               string;
-  fxGrassDust:                string;
-  fxSandDust:                 string;
-  fxSnowDust:                 string;
-  fxConcreteDust:             string;
-  fxWaterShockWave:           string;
+  cannon: boolean;
+  weaponType: number;
+  bUseHookAsRel: boolean;
+  emitColor: number[];
+  emitI: number;
+  emitR: number;
+  emitTime: number;
+  aimMinDist: number;
+  aimMaxDist: number;
+  maxDeltaAngle: number;
+  maxDeltaAngleVertical: number;
+  shotFreq: number;
+  traceFreq: number;
+  bEnablePause: boolean;
+  bullets: number;
+  bulletsCluster: number;
+  fxType: string;
+  fxGroundDust: string;
+  fxGrassDust: string;
+  fxSandDust: string;
+  fxSnowDust: string;
+  fxConcreteDust: string;
+  fxWaterShockWave: string;
   shouldCollideWithRendinsts: boolean;
-  sound_path:                 string;
-  sound_pathStudio:           string;
-  sound:                      string;
-  sound_inside:               string;
-  sfxReloadBullet:            string;
-  fxMultipleSpawn:            boolean;
-  isBulletBelt:               boolean;
-  notUseDefaultBulletInGui:   boolean;
-  bullet:                     Bullet;
+  sound_path: string;
+  sound_pathStudio: string;
+  sound: string;
+  sound_inside: string;
+  sfxReloadBullet: string;
+  fxMultipleSpawn: boolean;
+  isBulletBelt: boolean;
+  notUseDefaultBulletInGui: boolean;
+  bullet: Bullet[] | Bullet;
 } & {
-  [key: string]: {bullet: Bullet};
+  [key: string]: BulletContainer;
+};
+
+export interface BulletContainer {
+  bullet: Bullet[] | Bullet;
 }
 
 export interface Bullet {
-  bulletCount:             number;
-  mass:                    number;
-  caliber:                 number;
-  damageCaliber:           number;
-  ballisticCaliber:        number;
-  speed:                   number;
-  Cx:                      number;
-  maxDistance:             number;
-  normalizationPreset:     string;
-  ricochetPreset:          string;
+  bulletCount: number;
+  mass: number;
+  caliber: number;
+  damageCaliber: number;
+  ballisticCaliber: number;
+  speed: number;
+  Cx: number;
+  maxDistance: number;
+  normalizationPreset: string;
+  ricochetPreset: string;
   secondaryShattersPreset: string;
-  bulletType:              string;
-  slopeEffectPreset:       string;
-  fresnel:                 number[];
-  shellAnimation:          string;
-  bulletName:              string;
+  bulletType: string;
+  slopeEffectPreset: string;
+  fresnel: number[];
+  shellAnimation: string;
+  bulletName: string;
   onHitChanceMultExplFuel: number;
-  relativeVelHitShift:     number[];
-  relativeVelArmorShift:   number[];
-  selfDestructionFx:       string;
-  explosionEffect:         string;
-  groundCollisionEffect:   string;
-  ricochetEffect:          string;
-  waterCollisionEffect:    string;
-  explosionPatchRadius:    number;
-  stability:               Stability;
-  DamageParts:             DamageParts;
-  DamageEffects:           DamageEffects;
-  tracePattern:            TracePattern;
-  hitpower:                PurpleHitpower;
-  armorpower:              { [key: string]: number[] };
-  visual:                  Visual;
-  ballistics?:             Ballistics;
+  relativeVelHitShift: number[];
+  relativeVelArmorShift: number[];
+  selfDestructionFx: string;
+  explosionEffect: string;
+  groundCollisionEffect: string;
+  ricochetEffect: string;
+  waterCollisionEffect: string;
+  explosionPatchRadius: number;
+  stability: Stability;
+  DamageParts: DamageParts;
+  DamageEffects: DamageEffects;
+  tracePattern: TracePattern;
+  hitpower: PurpleHitpower;
+  armorpower: { [key: string]: number[] };
+  visual: Visual;
+  ballistics?: Ballistics;
 }
 
 export interface DamageEffects {
@@ -1120,13 +1124,13 @@ export interface DamageEffects {
 }
 
 export interface Part {
-  name:   string;
+  name: string;
   onKill: OnKill;
 }
 
 export interface OnKill {
   destabilization: number;
-  impulse:         number;
+  impulse: number;
 }
 
 export interface DamageParts {
@@ -1134,8 +1138,8 @@ export interface DamageParts {
 }
 
 export interface Body {
-  hp:             number;
-  armorClass:     string;
+  hp: number;
+  armorClass: string;
   armorThickness: number;
 }
 
@@ -1152,8 +1156,8 @@ export interface Table {
 }
 
 export interface T1 {
-  caliberToArmor:   number;
-  slopeEffect0deg:  number[];
+  caliberToArmor: number;
+  slopeEffect0deg: number[];
   slopeEffect10deg: number[];
   slopeEffect20deg: number[];
   slopeEffect30deg: number[];
@@ -1163,17 +1167,17 @@ export interface T1 {
 }
 
 export interface PurpleHitpower {
-  HitPower0m:     number[];
+  HitPower0m: number[];
   HitPower10000m: number[];
 }
 
 export interface Stability {
-  precessionDamping:                   number;
-  ricochetAnglePrecessionFactor:       number;
-  ricochetAngleOmegaFactor:            number;
-  slopeToOmega:                        number[];
+  precessionDamping: number;
+  ricochetAnglePrecessionFactor: number;
+  ricochetAngleOmegaFactor: number;
+  slopeToOmega: number[];
   angleLossStabilizationAfterRicochet: number;
-  penetrationReduction:                PenetrationReduction;
+  penetrationReduction: PenetrationReduction;
 }
 
 export interface PenetrationReduction {
@@ -1181,16 +1185,16 @@ export interface PenetrationReduction {
 }
 
 export interface TracePattern {
-  caliber:     number;
+  caliber: number;
   circleCount: number;
-  pointCount:  number;
+  pointCount: number;
 }
 
 export interface Visual {
   range_percent_of_ammo: number[];
-  traceFreq:             number;
-  tracer:                string;
-  trail:                 string;
+  traceFreq: number;
+  tracer: string;
+  trail: string;
 }
 
 //custom
@@ -1247,21 +1251,21 @@ export interface GroundProps extends FinalProps {
   can_float?: boolean;
   has_synchro?: boolean;
   has_neutral?: boolean;
-  has_dozer?:boolean;
-  has_ess?:boolean;
-  has_smoke?:boolean;
-  has_lws?:boolean;
-  has_era?:boolean;
-  has_composite?:boolean;
-  laser_range?:boolean;
+  has_dozer?: boolean;
+  has_ess?: boolean;
+  has_smoke?: boolean;
+  has_lws?: boolean;
+  has_era?: boolean;
+  has_composite?: boolean;
+  laser_range?: boolean;
   weapons?: TankWeapons;
-  optics:Sights;
+  optics: Sights;
 }
 
 export interface Sights {
-  driver?:driverSight;
-  gunner:gunnerSight;
-  commander?:commanderSight;
+  driver?: driverSight;
+  gunner: gunnerSight;
+  commander?: commanderSight;
 }
 
 export interface driverSight {
@@ -1275,20 +1279,17 @@ export interface driverSight {
 
 export interface gunnerSight {
   gunnerIr?: {
-    resolution: [
-      800|1600,
-      600|1200
-    ];
-    lightMult: 5.0 | 8|9;
-    ghosting: 0.7 | 0.75|0.6;
+    resolution: [800 | 1600, 600 | 1200];
+    lightMult: 5.0 | 8 | 9;
+    ghosting: 0.7 | 0.75 | 0.6;
     noiseFactor: 0.2;
   };
   gunnerThermal?: {
     resolution: [500 | 800 | 1200, 300 | 600 | 800];
     noiseFactor: 0.05 | 0.04;
   };
-  zoomInFov:number;//74
-  zoomOutFov:number;
+  zoomInFov: number; //74
+  zoomOutFov: number;
 }
 
 export interface commanderSight {
@@ -1300,60 +1301,72 @@ export interface commanderSight {
   };
   commanderViewThermal?: {
     resolution: [800, 600];
-    noiseFactor: 0.04
+    noiseFactor: 0.04;
   };
-  zoomInFov:number;
-  zoomOutFov:number;
+  zoomInFov: number;
+  zoomOutFov: number;
 }
 
 export interface TankWeapons {
   cannon?: TankCannon[];
   machineGun?: MG[];
-  launcher?:TankCannon;
+  launcher?: TankCannon;
 }
 
 export interface MG {
-  ammo:number;
-  horizonalSpeed:number;
-  verticalSpeed:number;
-  horizonalLimit:number[];
-  verticalLimit:number[];
+  ammo: number;
+  horizonalSpeed: number;
+  verticalSpeed: number;
+  horizonalLimit: number[];
+  verticalLimit: number[];
 }
 
 export interface TankCannon {
-  intname:string;
-  name:string;
-  secondary?:boolean;
-  ammo:number;
-  shells:Shell[];
-  autoloader?:boolean;
-  horizonalSpeed:number;
-  verticalSpeed:number;
-  horizonalLimit:number[];
-  verticalLimit:number[];
+  intname: string;
+  name: string;
+  secondary?: boolean;
+  ammo: number;
+  reload: number;
+  shells?: Shell[];
+  belts?: ShellBelt[];
+  autoloader?: boolean;
+  horizonalSpeed: number;
+  verticalSpeed: number;
+  horizonalLimit: number[];
+  verticalLimit: number[];
   stabilizer?: Stabilizer;
-  hullAiming?:HullAiming;
+  hullAiming?: HullAiming;
 }
 
 //store mby in a diffrent file for each weapon
 export interface Shell {
-  modname:string;
-  intname:string;
-  name:string;
+  modname: string;
+  intname: string;
+  name: string;
+}
+
+export interface ShellBelt {
+  modname: string;
+  shells: Belt[];
+}
+
+export interface Belt {
+  intname: string;
+  name: string;
 }
 
 export interface HullAiming {
-  horizontal?:boolean;
-  vertical?:boolean;
-  maxRoll:number;
+  horizontal?: boolean;
+  vertical?: boolean;
+  maxRoll: number;
 }
 
 export interface Stabilizer {
-  shoulderStop?:boolean;
-  horizontal?:boolean;
-  vertical?:boolean;
-  horizontalSpeed?:number;
-  verticalSpeed?:number;
+  shoulderStop?: boolean;
+  horizontal?: boolean;
+  vertical?: boolean;
+  horizontalSpeed?: number;
+  verticalSpeed?: number;
 }
 
 export interface NightVision {
@@ -1375,12 +1388,9 @@ export interface NightVision {
     noiseFactor: 0.2;
   };
   gunnerIr?: {
-    resolution: [
-      800|1600,
-      600|1200
-    ];
-    lightMult: 5.0 | 8|9;
-    ghosting: 0.7 | 0.75|0.6;
+    resolution: [800 | 1600, 600 | 1200];
+    lightMult: 5.0 | 8 | 9;
+    ghosting: 0.7 | 0.75 | 0.6;
     noiseFactor: 0.2;
   };
 }

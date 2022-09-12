@@ -3,22 +3,21 @@ export function langcsvJSON(csv: string) {
   const result = [];
   const headers = lines[0].split(";");
 
-  headers.forEach((element,i,array) => {
-    if (element === "\"<ID|readonly|noverify>\"") {
-      element = "\"<ID>\"";
+  headers.forEach((element, i, array) => {
+    if (element === '"<ID|readonly|noverify>"') {
+      element = '"<ID>"';
     }
-    array[i] = element.substring(2,element.length-2);
+    array[i] = element.substring(2, element.length - 2);
   });
 
   for (let i = 1; i < lines.length; i++) {
-    if (!lines[i])
-      continue;
-    const obj = {ID:"string",English:"string"};
+    if (!lines[i]) continue;
+    const obj = { ID: "string", English: "string" };
     const currentline = lines[i].split(";");
 
-    currentline.forEach((element,i,array) => {
-      if (element.length >0) {
-        array[i] = element.substring(1,element.length-1);
+    currentline.forEach((element, i, array) => {
+      if (element.length > 0) {
+        array[i] = element.substring(1, element.length - 1);
       }
     });
 
