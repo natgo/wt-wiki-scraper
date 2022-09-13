@@ -257,7 +257,7 @@ async function main() {
       }
     }
 
-    console.log(weapons.cannon[0].shells);
+    console.log(weapons);
 
     let laser = false;
     if (
@@ -336,6 +336,7 @@ async function main() {
       has_composite: composite ? true : undefined,
       laser_range: laser ? true : undefined,
       optics: sights,
+      weapons: weapons,
     });
   });
   names.aircraft.forEach((element) => {
