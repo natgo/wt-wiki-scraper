@@ -189,13 +189,13 @@ async function main() {
     console.log(element.wikiname);
 
     let night: NightVision = {};
-    const bullets: string[] = [];
+    const bullets: { name: string; maxamount?: number }[] = [];
     Object.entries(vehicle.modifications).forEach(([key, value]) => {
       if (value.effects?.nightVision) {
         night = value.effects.nightVision;
-      } 
+      }
       if (key.match(/^(\d{2}|\d{3})mm_.*(?<!ammo_pack)$/g)) {
-        bullets.push(key);
+        bullets.push({ name: key, maxamount: value.maxToRespawn });
       }
     });
 
@@ -246,13 +246,13 @@ async function main() {
 
     if (Array.isArray(vehicle.commonWeapons.Weapon)) {
       vehicle.commonWeapons.Weapon.forEach((element) => {
-        if (element.trigger === "gunner0") {
+        if (element.trigger === "gunner0" || element.triggerGroup === "secondary") {
           weapons.cannon?.push(CWToCannon(element, bullets, weaponry_lang));
         }
       });
     } else {
       const Weapon = vehicle.commonWeapons.Weapon;
-      if (Weapon.trigger === "gunner0") {
+      if (Weapon.trigger === "gunner0" || Weapon.triggerGroup === "secondary") {
         weapons.cannon?.push(CWToCannon(Weapon, bullets, weaponry_lang));
       }
     }

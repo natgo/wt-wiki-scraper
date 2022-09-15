@@ -152,6 +152,9 @@ export interface WeaponGround {
   speedPitch: number;
   fireConeAngle?: number[] | number;
   bullets?: number;
+  reloadTime?: number;
+  changeBulletTypeReloadTime?: number;
+  bulletsCartridge?: number;
   salvoAmount?: number;
   ChainfireTime?: number;
   DelayAfterShoot?: number;
@@ -173,6 +176,12 @@ export interface WeaponGround {
   gunStabilizer?: GunStabilizer;
   triggerGroup?: string;
   parkInDeadzone?: boolean;
+  isBulletBelt?: boolean;
+  overheat?: Overheat;
+}
+
+export interface Overheat {
+  overheat: number[][];
 }
 
 export interface GunStabilizer {
@@ -214,6 +223,7 @@ export interface Turret {
 }
 
 export interface Mod {
+  maxToRespawn?: number;
   effects?: {
     nightVision?: {
       commanderViewThermal?: { resolution: [800, 600]; noiseFactor: 0.04 };
@@ -1080,6 +1090,7 @@ export type Weapon = {
 };
 
 export interface BulletContainer {
+  bulletsCartridge: number;
   bullet: Bullet[] | Bullet;
 }
 
@@ -1326,14 +1337,15 @@ export interface TankCannon {
   name: string;
   secondary?: boolean;
   ammo: number;
-  reload: number;
+  shotFreq: number;
+  caliber: number;
   shells?: Shell[];
   belts?: ShellBelt[];
   autoloader?: boolean;
-  horizonalSpeed: number;
-  verticalSpeed: number;
-  horizonalLimit: number[];
-  verticalLimit: number[];
+  horizonalSpeed: number | "primary";
+  verticalSpeed: number | "primary";
+  horizonalLimit: number[] | "primary";
+  verticalLimit: number[] | "primary";
   stabilizer?: Stabilizer;
   hullAiming?: HullAiming;
 }
@@ -1343,10 +1355,14 @@ export interface Shell {
   modname: string;
   intname: string;
   name: string;
+  maxamount?: number;
+  modmaxamount?: number;
 }
 
 export interface ShellBelt {
   modname: string;
+  maxamount?: number;
+  modmaxamount?: number;
   shells: Belt[];
 }
 
