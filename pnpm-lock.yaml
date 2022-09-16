@@ -2,11 +2,14 @@ lockfileVersion: 5.4
 
 specifiers:
   '@trivago/prettier-plugin-sort-imports': 3.3.0
+  '@types/decomment': 0.9.2
   '@types/node': 18.7.16
+  '@types/prettier': ^2.7.0
   '@typescript-eslint/eslint-plugin': 5.36.2
   '@typescript-eslint/parser': 5.36.2
   axios: 0.27.2
   cheerio: 1.0.0-rc.12
+  decomment: 0.9.5
   eslint: 8.23.1
   prettier: 2.7.1
   typescript: 4.8.3
@@ -14,10 +17,13 @@ specifiers:
 dependencies:
   axios: 0.27.2
   cheerio: 1.0.0-rc.12
+  decomment: 0.9.5
 
 devDependencies:
   '@trivago/prettier-plugin-sort-imports': 3.3.0_prettier@2.7.1
+  '@types/decomment': 0.9.2
   '@types/node': 18.7.16
+  '@types/prettier': 2.7.0
   '@typescript-eslint/eslint-plugin': 5.36.2_wxqvmnl3i4rbvz4ixyoiufmx3e
   '@typescript-eslint/parser': 5.36.2_irgkl5vooow2ydyo6aokmferha
   eslint: 8.23.1
@@ -381,12 +387,20 @@ packages:
       - supports-color
     dev: true
 
+  /@types/decomment/0.9.2:
+    resolution: {integrity: sha512-MIGGhh+5AJ71sAZ6lZ/dM15Y4FsE9ZHMcNKdzG5wJgzPipXeOlFU4pkLcJ9J8segfB8YZNxyXNru9XmETIbQlQ==}
+    dev: true
+
   /@types/json-schema/7.0.11:
     resolution: {integrity: sha512-wOuvG1SN4Us4rez+tylwwwCV1psiNVOkJeM3AUWUNWg/jDQY2+HE/444y5gc+jBmRqASOm2Oeh5c1axHobwRKQ==}
     dev: true
 
   /@types/node/18.7.16:
     resolution: {integrity: sha512-EQHhixfu+mkqHMZl1R2Ovuvn47PUw18azMJOTwSZr9/fhzHNGXAJ0ma0dayRVchprpCj0Kc1K1xKoWaATWF1qg==}
+    dev: true
+
+  /@types/prettier/2.7.0:
+    resolution: {integrity: sha512-RI1L7N4JnW5gQw2spvL7Sllfuf1SaHdrZpCHiBlCXjIlufi1SMNnbu2teze3/QE67Fg2tBlH7W+mi4hVNk4p0A==}
     dev: true
 
   /@typescript-eslint/eslint-plugin/5.36.2_wxqvmnl3i4rbvz4ixyoiufmx3e:
@@ -737,6 +751,13 @@ packages:
       ms: 2.1.2
     dev: true
 
+  /decomment/0.9.5:
+    resolution: {integrity: sha512-h0TZ8t6Dp49duwyDHo3iw67mnh9/UpFiSSiOb5gDK1sqoXzrfX/SQxIUQd2R2QEiSnqib0KF2fnKnGfAhAs6lg==}
+    engines: {node: '>=6.4', npm: '>=2.15'}
+    dependencies:
+      esprima: 4.0.1
+    dev: false
+
   /deep-is/0.1.4:
     resolution: {integrity: sha512-oIPzksmTg4/MriiaYGO+okXDT7ztn/w3Eptv/+gSIdMdKsJo0u4CfYNFJPy+4SKMuCqGw2wxnA+URMg3t8a/bQ==}
     dev: true
@@ -903,6 +924,12 @@ packages:
       acorn-jsx: 5.3.2_acorn@8.8.0
       eslint-visitor-keys: 3.3.0
     dev: true
+
+  /esprima/4.0.1:
+    resolution: {integrity: sha512-eGuFFw7Upda+g4p+QHvnW0RyTX/SVeJBDM/gCtMARO0cLuT2HcEKnTPvhjV6aGeqrCB/sbNop0Kszm0jsaWU4A==}
+    engines: {node: '>=4'}
+    hasBin: true
+    dev: false
 
   /esquery/1.4.0:
     resolution: {integrity: sha512-cCDispWt5vHHtwMY2YrAQ4ibFkAL8RbH5YGBnZBc90MolvvfkkQcJro/aZiAQUlQ3qgrYS6D6v8Gc5G5CQsc9w==}

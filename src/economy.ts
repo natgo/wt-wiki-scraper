@@ -1,4 +1,5 @@
 import fs from "fs";
+import { format } from "prettier";
 
 import { CWToCannon } from "./commonWeaponToCannon";
 import { langcsvJSON } from "./csvJSON";
@@ -9,10 +10,9 @@ import {
   GroundVehicle,
   NightVision,
   Sights,
-  TankCannon,
   TankWeapons,
   UnitData,
-  savedparse,
+  modernparse,
 } from "./types";
 
 async function main() {
@@ -24,9 +24,19 @@ async function main() {
   );
 
   const vehicles: {
-    ground: savedparse[];
-    aircraft: savedparse[];
-    helicopter: savedparse[];
+    ground: modernparse[];
+    aircraft: modernparse[];
+    helicopter: modernparse[];
+  } = {
+    ground: [],
+    aircraft: [],
+    helicopter: [],
+  };
+
+  const vehiclePages: {
+    ground: string[];
+    aircraft: string[];
+    helicopter: string[];
   } = {
     ground: [],
     aircraft: [],
@@ -44,22 +54,26 @@ async function main() {
   };
 
   const ground = fs.readdirSync("./wikitext/ground/");
-  ground.forEach((element) => {
+  const groundPages = fs.readdirSync("./wikitext-transpiled/ground/");
+  ground.forEach((element,i) => {
     vehicles.ground.push(JSON.parse(fs.readFileSync(`./wikitext/ground/${element}`, "utf-8")));
+    vehiclePages.ground.push(fs.readFileSync(`./wikitext-transpiled/ground/${groundPages[i]}`, "utf-8"));
   });
   const aircraft = fs.readdirSync("./wikitext/aircraft/");
-  aircraft.forEach((element) => {
+  const aircraftPages = fs.readdirSync("./wikitext-transpiled/aircraft/");
+  aircraft.forEach((element,i) => {
     vehicles.aircraft.push(JSON.parse(fs.readFileSync(`./wikitext/aircraft/${element}`, "utf-8")));
+    vehiclePages.aircraft.push(fs.readFileSync(`./wikitext-transpiled/aircraft/${aircraftPages[i]}`, "utf-8"));
   });
   const helicopter = fs.readdirSync("./wikitext/helicopter/");
-  helicopter.forEach((element) => {
-    vehicles.helicopter.push(
-      JSON.parse(fs.readFileSync(`./wikitext/helicopter/${element}`, "utf-8")),
-    );
+  const helicopterPages = fs.readdirSync("./wikitext-transpiled/helicopter/");
+  helicopter.forEach((element,i) => {
+    vehicles.helicopter.push(JSON.parse(fs.readFileSync(`./wikitext/helicopter/${element}`, "utf-8")),);
+    vehiclePages.helicopter.push(fs.readFileSync(`./wikitext-transpiled/helicopter/${helicopterPages[i]}`, "utf-8"));
   });
 
-  vehicles.ground.forEach((element) => {
-    const match = element.text["*"].match(/data-code=".*"/g);
+  vehicles.ground.forEach((element,i) => {
+    const match = vehiclePages.ground[i].match(/data-code=".*"/g);
     if (match) {
       const splitmatch = match[0].split("=")[1];
       names.ground.push({
@@ -70,8 +84,8 @@ async function main() {
       console.log(element.title + element.pageid);
     }
   });
-  vehicles.aircraft.forEach((element) => {
-    const match = element.text["*"].match(/data-code=".*"/g);
+  vehicles.aircraft.forEach((element,i) => {
+    const match = vehiclePages.aircraft[i].match(/data-code=".*"/g);
     if (match) {
       const splitmatch = match[0].split("=")[1];
       names.aircraft.push({
@@ -82,8 +96,8 @@ async function main() {
       console.log(element.title + element.pageid);
     }
   });
-  vehicles.helicopter.forEach((element) => {
-    const match = element.text["*"].match(/data-code=".*"/g);
+  vehicles.helicopter.forEach((element,i) => {
+    const match = vehiclePages.helicopter[i].match(/data-code=".*"/g);
     if (match) {
       const splitmatch = match[0].split("=")[1];
       names.helicopter.push({
@@ -503,7 +517,7 @@ async function main() {
       type: "helicopter",
     });
   });
-  fs.writeFileSync("./out/final.json", JSON.stringify(final));
+  fs.writeFileSync("./out/final.json", format(JSON.stringify(final),{parser:"json"}));
 }
 
 main();
