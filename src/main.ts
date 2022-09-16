@@ -2,6 +2,7 @@ import axios, { AxiosResponse } from "axios";
 import decomment from "decomment";
 import fs from "fs";
 import { check, format } from "prettier";
+
 import { modernparse } from "./types";
 
 interface categorymembers extends AxiosResponse {
@@ -85,13 +86,13 @@ function downloand(vehicles: categorymemberspart[], type: string) {
   vehicles.forEach(async (element) => {
     const response: parsedpage = await axios.get(parsequery + `&pageid=${element.pageid}`);
     console.info(element.title);
-    const out:modernparse = {
+    const out: modernparse = {
       title: response.data.parse.title,
-      pageid: response.data.parse.pageid
+      pageid: response.data.parse.pageid,
     };
     fs.writeFileSync(
       `./wikitext/${type}/${encodeURIComponent(element.title)}.json`,
-      format(JSON.stringify(out),{parser:"json"}),
+      format(JSON.stringify(out), { parser: "json" }),
     );
     fs.writeFileSync(
       `./wikitext-transpiled/${type}/${encodeURIComponent(element.title)}.html`,
@@ -116,21 +117,21 @@ async function getTechTree() {
     const response: parsedpage = await axios.get(parsequery + `&pageid=${element.pageid}`);
     fs.writeFileSync(
       `./techtree/ground/${encodeURIComponent(element.title)}.json`,
-      format(JSON.stringify(response.data.parse),{parser:"json"}),
+      format(JSON.stringify(response.data.parse), { parser: "json" }),
     );
   });
   aircraftQuery.data.query.categorymembers.forEach(async (element) => {
     const response: parsedpage = await axios.get(parsequery + `&pageid=${element.pageid}`);
     fs.writeFileSync(
       `./techtree/aircraft/${encodeURIComponent(element.title)}.json`,
-      format(JSON.stringify(response.data.parse),{parser:"json"}),
+      format(JSON.stringify(response.data.parse), { parser: "json" }),
     );
   });
   helicopterQuery.data.query.categorymembers.forEach(async (element) => {
     const response: parsedpage = await axios.get(parsequery + `&pageid=${element.pageid}`);
     fs.writeFileSync(
       `./techtree/helicopter/${encodeURIComponent(element.title)}.json`,
-      format(JSON.stringify(response.data.parse),{parser:"json"}),
+      format(JSON.stringify(response.data.parse), { parser: "json" }),
     );
   });
 }
@@ -139,17 +140,26 @@ function transpile(techtree: { ground: string[]; aircraft: string[]; helicopter:
   techtree.ground.forEach((element) => {
     const parsed: savedparse = JSON.parse(element);
     const vehicle = decomment(parsed.text["*"]);
-    fs.writeFileSync(`./parsed/${encodeURIComponent(parsed.title)}.html`, format(vehicle,{parser:"html"}));
+    fs.writeFileSync(
+      `./parsed/${encodeURIComponent(parsed.title)}.html`,
+      format(vehicle, { parser: "html" }),
+    );
   });
   techtree.aircraft.forEach((element) => {
     const parsed: savedparse = JSON.parse(element);
     const vehicle = decomment(parsed.text["*"]);
-    fs.writeFileSync(`./parsed/${encodeURIComponent(parsed.title)}.html`, format(vehicle,{parser:"html"}));
+    fs.writeFileSync(
+      `./parsed/${encodeURIComponent(parsed.title)}.html`,
+      format(vehicle, { parser: "html" }),
+    );
   });
   techtree.helicopter.forEach((element) => {
     const parsed: savedparse = JSON.parse(element);
     const vehicle = decomment(parsed.text["*"]);
-    fs.writeFileSync(`./parsed/${encodeURIComponent(parsed.title)}.html`, format(vehicle,{parser:"html"}));
+    fs.writeFileSync(
+      `./parsed/${encodeURIComponent(parsed.title)}.html`,
+      format(vehicle, { parser: "html" }),
+    );
   });
 }
 

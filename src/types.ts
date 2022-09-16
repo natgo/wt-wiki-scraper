@@ -1218,8 +1218,8 @@ export interface savedparse {
 }
 
 export interface modernparse {
-  title:string;
-  pageid:number;
+  title: string;
+  pageid: number;
 }
 
 export interface Final {
