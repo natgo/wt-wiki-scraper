@@ -49,6 +49,8 @@ Just run
 pnpm start # npm run start
 ```
 
+the output will be in out/ directory
+
 # Todo
 - [ ] Add lint-staged
 - [ ] Make a CI/CD pipeline to wt-app
