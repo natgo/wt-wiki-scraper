@@ -7,7 +7,7 @@ War thunder wiki scraper and data collector
 
 All the data in final.json comes from game files
 
-# How does it work
+### How does it work
 1. The app starts by querying a public api on wiki.warthunder.com for vehicles and downloads all vehicle pages
 2. Parses the internal vehicle name from wiki pages 
 3. Reads from game files data for all vehicles and parses it to out/final.json 
