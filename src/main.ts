@@ -164,38 +164,38 @@ function transpile(techtree: { ground: string[]; aircraft: string[]; helicopter:
 }
 
 async function main() {
-  if (!fs.existsSync("./wikitext/ground/2S6.json")) {
-    const aircraft = await getAircraft();
-    const ground = await getGroundVehicles();
-    const helicopter = await getHelicopters();
 
-    //download all vehicle pages
-    downloand(aircraft, "aircraft");
-    downloand(ground, "ground");
-    downloand(helicopter, "helicopter");
-    console.info("Downloading Wikitexts");
+  const aircraft = await getAircraft();
+  const ground = await getGroundVehicles();
+  const helicopter = await getHelicopters();
 
-    getTechTree();
-    console.info("Downloading Techtrees");
-  } else {
-    const techtree: { ground: string[]; aircraft: string[]; helicopter: string[] } = {
-      ground: [],
-      aircraft: [],
-      helicopter: [],
-    };
-    const groundTechtree = fs.readdirSync("./techtree/ground/");
-    groundTechtree.forEach((element) => {
-      techtree.ground.push(fs.readFileSync(`./techtree/ground/${element}`, "utf-8"));
-    });
-    const aircraftTechtree = fs.readdirSync("./techtree/aircraft/");
-    aircraftTechtree.forEach((element) => {
-      techtree.aircraft.push(fs.readFileSync(`./techtree/aircraft/${element}`, "utf-8"));
-    });
-    const helicopterTechtree = fs.readdirSync("./techtree/helicopter/");
-    helicopterTechtree.forEach((element) => {
-      techtree.helicopter.push(fs.readFileSync(`./techtree/helicopter/${element}`, "utf-8"));
-    });
-    transpile(techtree);
-  }
+  //download all vehicle pages
+  downloand(aircraft, "aircraft");
+  downloand(ground, "ground");
+  downloand(helicopter, "helicopter");
+  console.info("Downloading Wikitexts");
+
+  getTechTree();
+  console.info("Downloading Techtrees");
+
+  const techtree: { ground: string[]; aircraft: string[]; helicopter: string[] } = {
+    ground: [],
+    aircraft: [],
+    helicopter: [],
+  };
+  const groundTechtree = fs.readdirSync("./techtree/ground/");
+  groundTechtree.forEach((element) => {
+    techtree.ground.push(fs.readFileSync(`./techtree/ground/${element}`, "utf-8"));
+  });
+  const aircraftTechtree = fs.readdirSync("./techtree/aircraft/");
+  aircraftTechtree.forEach((element) => {
+    techtree.aircraft.push(fs.readFileSync(`./techtree/aircraft/${element}`, "utf-8"));
+  });
+  const helicopterTechtree = fs.readdirSync("./techtree/helicopter/");
+  helicopterTechtree.forEach((element) => {
+    techtree.helicopter.push(fs.readFileSync(`./techtree/helicopter/${element}`, "utf-8"));
+  });
+  transpile(techtree);
+
 }
 main();

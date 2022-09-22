@@ -1,0 +1,2 @@
+rm -r wikitext/aircraft/ wikitext/ground/ wikitext/helicopter/ wikitext-transpiled/aircraft/ wikitext-transpiled/ground/ wikitext-transpiled/helicopter/
+mkdir wikitext/aircraft/ wikitext/ground/ wikitext/helicopter/ wikitext-transpiled/aircraft/ wikitext-transpiled/ground/ wikitext-transpiled/helicopter/

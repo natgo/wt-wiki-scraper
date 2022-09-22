@@ -7,15 +7,15 @@
   "scripts": {
     "build": "tsc",
     "pretty": "prettier -w src/ --plugin=./node_modules/@trivago/prettier-plugin-sort-imports/",
-    "start": "tsc ; node dist/main.js && prettier -w wikitext-transpiled/ --plugin=./node_modules/@trivago/prettier-plugin-sort-imports/ ; node dist/main.js && node dist/economy.js"
+    "start": "bash ./clean.sh && tsc ; node dist/main.js && prettier -w wikitext-transpiled/ --plugin=./node_modules/@trivago/prettier-plugin-sort-imports/ ; node dist/economy.js"
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "3.3.0",
     "@types/decomment": "0.9.2",
-    "@types/node": "18.7.16",
+    "@types/node": "18.7.18",
     "@types/prettier": "2.7.0",
-    "@typescript-eslint/eslint-plugin": "5.36.2",
-    "@typescript-eslint/parser": "5.36.2",
+    "@typescript-eslint/eslint-plugin": "5.38.0",
+    "@typescript-eslint/parser": "5.38.0",
     "eslint": "8.23.1",
     "prettier": "2.7.1",
     "typescript": "4.8.3"

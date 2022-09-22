@@ -54,3 +54,4 @@ the output will be in out/ directory
 # Todo
 - [ ] Add lint-staged
 - [ ] Make a CI/CD pipeline to wt-app
+- [ ] Update the techtree directory
