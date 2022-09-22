@@ -55,3 +55,5 @@ the output will be in out/ directory
 - [ ] Add lint-staged
 - [ ] Make a CI/CD pipeline to wt-app
 - [ ] Update the techtree directory
+- [ ] Complete the scrape module
+- [ ] Improve the file structure
