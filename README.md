@@ -1,4 +1,4 @@
-# wt-wiki-scraper
+# WT Wiki scraper
 <p align="center">
   <a href="http://forthebadge.com/"><img src="https://forthebadge.com/images/badges/made-with-typescript.svg" alt="forthebadge"/></a>
   <a href="http://forthebadge.com/"><img src="https://forthebadge.com/images/badges/open-source.svg" alt="forthebadge"/></a>
