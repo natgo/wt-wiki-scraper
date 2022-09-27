@@ -57,3 +57,4 @@ the output will be in out/ directory
 - [ ] Update the techtree directory
 - [ ] Complete the scrape module
 - [ ] Improve the file structure
+- [ ] Driver thermal
