@@ -1291,6 +1291,10 @@ export interface driverSight {
     ghosting: 0.7 | 0.6;
     noiseFactor: 0.2;
   };
+  driverThermal?: {
+    resolution: [500 | 800, 300 | 600];
+    noiseFactor: 0.05 | 0.04;
+  };
 }
 
 export interface gunnerSight {
@@ -1394,6 +1398,10 @@ export interface NightVision {
   commanderViewThermal?: { resolution: [800, 600]; noiseFactor: 0.04 };
   gunnerThermal?: {
     resolution: [500 | 800 | 1200, 300 | 600 | 800];
+    noiseFactor: 0.05 | 0.04;
+  };
+  driverThermal?: {
+    resolution: [500 | 800, 300 | 600];
     noiseFactor: 0.05 | 0.04;
   };
   commanderViewIr?: {

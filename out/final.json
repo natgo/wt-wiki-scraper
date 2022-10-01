@@ -1,5 +1,5 @@
 {
-  "updated": "2022-09-22T13:33:07.401Z",
+  "updated": "2022-10-01T20:02:27.395Z",
   "ground": [
     {
       "intname": "us_m18_hellcat_black_cat_race",
@@ -23538,6 +23538,9 @@
             "resolution": [1200, 800],
             "noiseFactor": 0.04
           }
+        },
+        "driver": {
+          "driverThermal": { "resolution": [500, 300], "noiseFactor": 0.05 }
         }
       },
       "weapons": {
@@ -27594,6 +27597,9 @@
             "resolution": [800, 600],
             "noiseFactor": 0.04
           }
+        },
+        "driver": {
+          "driverThermal": { "resolution": [800, 600], "noiseFactor": 0.04 }
         }
       },
       "weapons": {

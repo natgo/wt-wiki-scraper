@@ -295,24 +295,34 @@ async function main() {
         zoomOutFov: vehicle.cockpit.zoomOutFov,
       },
     };
+    
     if (vehicle.commanderView) {
       sights.commander = {
         zoomInFov: vehicle.commanderView.zoomInFov,
         zoomOutFov: vehicle.commanderView.zoomOutFov,
       };
     }
+
+    if (night.driverIr || night.driverThermal) {
+      sights.driver = {};
+    }
+
     if (night.gunnerThermal) {
       sights.gunner.gunnerThermal = night.gunnerThermal;
     } else if (night.gunnerIr) {
       sights.gunner.gunnerIr = night.gunnerIr;
     }
+    
     if (night.commanderViewThermal && sights.commander) {
       sights.commander.commanderViewThermal = night.commanderViewThermal;
     } else if (night.commanderViewIr && sights.commander) {
       sights.commander.commanderViewIr = night.commanderViewIr;
     }
-    if (night.driverIr) {
-      sights.driver = { driverIr: night.driverIr };
+
+    if (night.driverThermal && sights.driver) {
+      sights.driver.driverThermal = night.driverThermal;
+    } else if (night.driverIr && sights.driver) {
+      sights.driver.driverIr = night.driverIr;
     }
 
     final.ground.push({
