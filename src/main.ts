@@ -46,58 +46,24 @@ function cleanPages(output: categorymemberspart[]) {
   return output;
 }
 
-async function getGroundVehicles() {
-  const query =
-    "https://wiki.warthunder.com/api.php?action=query&list=categorymembers&cmtitle=Category%3AGround+vehicles&cmlimit=max&format=json&cmtype=page";
+async function getVehicles(baseQuery: string) {
+  let cont = true;
+  let contData: string | undefined = undefined;
+  let categorymembers: categorymemberspart[] = [];
 
-  const response: categorymembers = await axios.get(query);
-  if (response.data.continue) {
-    const response2: categorymembers = await axios.get(
-      query + `&cmcontinue='${response.data.continue.cmcontinue}'`,
+  while (cont) {
+    const response: categorymembers = await axios.get(
+      contData ? `${baseQuery}&cmcontinue='${contData}'` : baseQuery,
     );
-    const output = cleanPages(
-      response.data.query.categorymembers.concat(response2.data.query.categorymembers),
-    );
-    return output;
-  } else {
-    const output = cleanPages(response.data.query.categorymembers);
-    return output;
+    categorymembers = [...categorymembers, ...response.data.query.categorymembers];
+    if (response.data.continue) {
+      contData = response.data.continue.cmcontinue;
+    } else {
+      cont = false;
+    }
   }
-}
-
-async function getAircraft() {
-  const query =
-    "https://wiki.warthunder.com/api.php?action=query&list=categorymembers&cmtitle=Category%3AAviation&cmlimit=max&format=json&cmtype=page";
-
-  const response: categorymembers = await axios.get(query);
-  if (response.data.continue) {
-    const response2: categorymembers = await axios.get(
-      query + `&cmcontinue='${response.data.continue.cmcontinue}'`,
-    );
-    const output = cleanPages(
-      response.data.query.categorymembers.concat(response2.data.query.categorymembers),
-    );
-    return output;
-  } else {
-    const output = cleanPages(response.data.query.categorymembers);
-    return output;
-  }
-}
-
-async function getHelicopters() {
-  const query =
-    "https://wiki.warthunder.com/api.php?action=query&list=categorymembers&cmtitle=Category%3AHelicopters&cmlimit=max&format=json&cmtype=page";
-
-  const response: categorymembers = await axios.get(query);
-  if (response.data.continue) {
-    const response2: categorymembers = await axios.get(
-      query + `&cmcontinue='${response.data.continue.cmcontinue}'`,
-    );
-    return response.data.query.categorymembers.concat(response2.data.query.categorymembers);
-  } else {
-    const output = cleanPages(response.data.query.categorymembers);
-    return output;
-  }
+  const output = cleanPages(categorymembers);
+  return output;
 }
 
 function downloand(vehicles: categorymemberspart[], type: string) {
@@ -180,9 +146,16 @@ async function getTechTree() {
 }
 
 async function main() {
-  const aircraft = await getAircraft();
-  const ground = await getGroundVehicles();
-  const helicopter = await getHelicopters();
+  const airQuery =
+    "https://wiki.warthunder.com/api.php?action=query&list=categorymembers&cmtitle=Category%3AAviation&cmlimit=max&format=json&cmtype=page";
+  const groundQuery =
+    "https://wiki.warthunder.com/api.php?action=query&list=categorymembers&cmtitle=Category%3AGround+vehicles&cmlimit=max&format=json&cmtype=page";
+  const helicopterQuery =
+    "https://wiki.warthunder.com/api.php?action=query&list=categorymembers&cmtitle=Category%3AHelicopters&cmlimit=max&format=json&cmtype=page";
+
+  const aircraft = await getVehicles(airQuery);
+  const ground = await getVehicles(groundQuery);
+  const helicopter = await getVehicles(helicopterQuery);
 
   //download all vehicle pages
   downloand(aircraft, "aircraft");

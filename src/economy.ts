@@ -163,39 +163,42 @@ async function main() {
     helicopter: [],
   };
   names.ground.forEach((element) => {
-    const vehicle: GroundVehicle = JSON.parse(
+    const vehicleData: GroundVehicle = JSON.parse(
       fs.readFileSync(
         `./War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/units/tankmodels/${element.intname.toLowerCase()}.blkx`,
         "utf-8",
       ),
     );
+    const vehicleEconomy = economy[element.intname];
+    const vehicleUnit = unitData[element.intname];
+
     let prem = "false";
     let type = "";
     const ext_type: string[] = [];
     switch (true) {
-      case unitData[element.intname].tags.type_light_tank:
+      case vehicleUnit.tags.type_light_tank:
         type = "type_light_tank";
         break;
-      case unitData[element.intname].tags.type_medium_tank:
+      case vehicleUnit.tags.type_medium_tank:
         type = "type_medium_tank";
         break;
-      case unitData[element.intname].tags.type_heavy_tank:
+      case vehicleUnit.tags.type_heavy_tank:
         type = "type_heavy_tank";
         break;
-      case unitData[element.intname].tags.type_tank_destroyer:
+      case vehicleUnit.tags.type_tank_destroyer:
         type = "type_tank_destroyer";
-        if (unitData[element.intname].tags.type_missile_tank) {
+        if (vehicleUnit.tags.type_missile_tank) {
           ext_type.push("type_missile_tank");
         }
         break;
-      case unitData[element.intname].tags.type_spaa:
+      case vehicleUnit.tags.type_spaa:
         type = "type_spaa";
         break;
     }
 
-    if (economy[element.intname].costGold) {
-      if (economy[element.intname].gift) {
-        if (economy[element.intname].event) {
+    if (vehicleEconomy.costGold) {
+      if (vehicleEconomy.gift) {
+        if (vehicleEconomy.event) {
           prem = "event";
         } else {
           prem = "store";
@@ -204,10 +207,10 @@ async function main() {
         prem = "gold";
       }
     } else {
-      if (economy[element.intname].researchType) {
+      if (vehicleEconomy.researchType) {
         prem = "squad";
       } else {
-        if (economy[element.intname].event) {
+        if (vehicleEconomy.event) {
           prem = "event";
         }
       }
@@ -217,7 +220,7 @@ async function main() {
 
     let night: NightVision = {};
     const bullets: { name: string; maxamount?: number }[] = [];
-    Object.entries(vehicle.modifications).forEach(([key, value]) => {
+    Object.entries(vehicleData.modifications).forEach(([key, value]) => {
       if (value.effects?.nightVision) {
         night = value.effects.nightVision;
       }
@@ -228,8 +231,8 @@ async function main() {
 
     let gearsF = 0;
     let gearsB = 0;
-    if (vehicle.VehiclePhys.mechanics.gearRatios.ratio) {
-      vehicle.VehiclePhys.mechanics.gearRatios.ratio.forEach((element) => {
+    if (vehicleData.VehiclePhys.mechanics.gearRatios.ratio) {
+      vehicleData.VehiclePhys.mechanics.gearRatios.ratio.forEach((element) => {
         if (element > 0) {
           gearsF++;
         } else if (element < 0) {
@@ -241,7 +244,7 @@ async function main() {
     let synchro = 0;
     let has_synchro = false;
     if (gearsB === gearsF) {
-      vehicle.VehiclePhys.mechanics.gearRatios.ratio.forEach((element, i, array) => {
+      vehicleData.VehiclePhys.mechanics.gearRatios.ratio.forEach((element, i, array) => {
         if (element + array[array.length - i - 1] === 0) {
           synchro++;
         }
@@ -252,7 +255,7 @@ async function main() {
     }
 
     let era = false;
-    Object.entries(vehicle.DamageParts).forEach(([, value]) => {
+    Object.entries(vehicleData.DamageParts).forEach(([, value]) => {
       const armor = value.armorClass as string;
       if (armor && armor.match(/ERA_|era_/g)) {
         era = true;
@@ -260,7 +263,7 @@ async function main() {
     });
 
     let composite = false;
-    Object.entries(vehicle.DamageParts).forEach(([key]) => {
+    Object.entries(vehicleData.DamageParts).forEach(([key]) => {
       if (key.match(/composite|inner_armor/g)) {
         composite = true;
       }
@@ -271,14 +274,14 @@ async function main() {
       machineGun: [],
     };
 
-    if (Array.isArray(vehicle.commonWeapons.Weapon)) {
-      vehicle.commonWeapons.Weapon.forEach((element) => {
+    if (Array.isArray(vehicleData.commonWeapons.Weapon)) {
+      vehicleData.commonWeapons.Weapon.forEach((element) => {
         if (element.trigger === "gunner0" || element.triggerGroup === "secondary") {
           weapons.cannon?.push(CWToCannon(element, bullets, weaponry_lang));
         }
       });
     } else {
-      const Weapon = vehicle.commonWeapons.Weapon;
+      const Weapon = vehicleData.commonWeapons.Weapon;
       if (Weapon.trigger === "gunner0" || Weapon.triggerGroup === "secondary") {
         weapons.cannon?.push(CWToCannon(Weapon, bullets, weaponry_lang));
       }
@@ -288,23 +291,23 @@ async function main() {
 
     let laser = false;
     if (
-      vehicle.modifications.modern_tank_laser_rangefinder ||
-      vehicle.modifications.laser_rangefinder_lws
+      vehicleData.modifications.modern_tank_laser_rangefinder ||
+      vehicleData.modifications.laser_rangefinder_lws
     ) {
       laser = true;
     }
 
     const sights: Sights = {
       gunner: {
-        zoomInFov: vehicle.cockpit.zoomInFov,
-        zoomOutFov: vehicle.cockpit.zoomOutFov,
+        zoomInFov: vehicleData.cockpit.zoomInFov,
+        zoomOutFov: vehicleData.cockpit.zoomOutFov,
       },
     };
 
-    if (vehicle.commanderView) {
+    if (vehicleData.commanderView) {
       sights.commander = {
-        zoomInFov: vehicle.commanderView.zoomInFov,
-        zoomOutFov: vehicle.commanderView.zoomOutFov,
+        zoomInFov: vehicleData.commanderView.zoomInFov,
+        zoomOutFov: vehicleData.commanderView.zoomOutFov,
       };
     }
 
@@ -335,41 +338,41 @@ async function main() {
       wikiname: element.wikiname,
       normal_type: type,
       extended_type: ext_type.length > 0 ? ext_type : undefined,
-      country: economy[element.intname].country,
-      rank: economy[element.intname].rank,
-      ab_br: br[economy[element.intname].economicRankArcade],
-      ab_realbr: economy[element.intname].economicRankArcade,
-      rb_br: br[economy[element.intname].economicRankHistorical],
-      rb_realbr: economy[element.intname].economicRankHistorical,
-      sb_br: br[economy[element.intname].economicRankSimulation],
-      sb_realbr: economy[element.intname].economicRankSimulation,
-      base_ab_repair: economy[element.intname].repairCostArcade,
-      base_rb_repair: economy[element.intname].repairCostHistorical,
-      base_sb_repair: economy[element.intname].repairCostSimulation,
-      rp_multiplyer: economy[element.intname].expMul,
-      ab_sl_multiplyer: economy[element.intname].rewardMulArcade,
-      rb_sl_multiplyer: economy[element.intname].rewardMulHistorical,
-      sb_sl_multiplyer: economy[element.intname].rewardMulSimulation,
-      sl_price: economy[element.intname].value,
-      reqRP: economy[element.intname].reqExp,
-      mass: vehicle.VehiclePhys.Mass.Empty + vehicle.VehiclePhys.Mass.Fuel,
-      horsepower: vehicle.VehiclePhys.engine.horsePowers,
+      country: vehicleEconomy.country,
+      rank: vehicleEconomy.rank,
+      ab_br: br[vehicleEconomy.economicRankArcade],
+      ab_realbr: vehicleEconomy.economicRankArcade,
+      rb_br: br[vehicleEconomy.economicRankHistorical],
+      rb_realbr: vehicleEconomy.economicRankHistorical,
+      sb_br: br[vehicleEconomy.economicRankSimulation],
+      sb_realbr: vehicleEconomy.economicRankSimulation,
+      base_ab_repair: vehicleEconomy.repairCostArcade,
+      base_rb_repair: vehicleEconomy.repairCostHistorical,
+      base_sb_repair: vehicleEconomy.repairCostSimulation,
+      rp_multiplyer: vehicleEconomy.expMul,
+      ab_sl_multiplyer: vehicleEconomy.rewardMulArcade,
+      rb_sl_multiplyer: vehicleEconomy.rewardMulHistorical,
+      sb_sl_multiplyer: vehicleEconomy.rewardMulSimulation,
+      sl_price: vehicleEconomy.value,
+      reqRP: vehicleEconomy.reqExp,
+      mass: vehicleData.VehiclePhys.Mass.Empty + vehicleData.VehiclePhys.Mass.Fuel,
+      horsepower: vehicleData.VehiclePhys.engine.horsePowers,
       prem_type: prem,
-      event: economy[element.intname].event ? economy[element.intname].event : undefined,
-      cost_gold: economy[element.intname].costGold,
-      hidden: economy[element.intname].showOnlyWhenBought ? true : undefined,
-      crew: economy[element.intname].crewTotalCount,
+      event: vehicleEconomy.event ? vehicleEconomy.event : undefined,
+      cost_gold: vehicleEconomy.costGold,
+      hidden: vehicleEconomy.showOnlyWhenBought ? true : undefined,
+      crew: vehicleEconomy.crewTotalCount,
       gears_forward: gearsF,
       gears_backward: gearsB,
       type: "tank",
-      hydro_suspension: vehicle.VehiclePhys.movableSuspension ? true : undefined,
-      can_float: vehicle.VehiclePhys.floats ? true : undefined,
+      hydro_suspension: vehicleData.VehiclePhys.movableSuspension ? true : undefined,
+      can_float: vehicleData.VehiclePhys.floats ? true : undefined,
       has_synchro: has_synchro ? true : undefined,
-      has_neutral: vehicle.VehiclePhys.mechanics.neutralGearRatio ? true : undefined,
-      has_dozer: vehicle.modifications.tank_bulldozer_blade ? true : undefined,
-      has_smoke: vehicle.modifications.tank_smoke_screen_system_mod ? true : undefined,
-      has_ess: vehicle.modifications.tank_engine_smoke_screen_system ? true : undefined,
-      has_lws: vehicle.modifications.laser_rangefinder_lws ? true : undefined,
+      has_neutral: vehicleData.VehiclePhys.mechanics.neutralGearRatio ? true : undefined,
+      has_dozer: vehicleData.modifications.tank_bulldozer_blade ? true : undefined,
+      has_smoke: vehicleData.modifications.tank_smoke_screen_system_mod ? true : undefined,
+      has_ess: vehicleData.modifications.tank_engine_smoke_screen_system ? true : undefined,
+      has_lws: vehicleData.modifications.laser_rangefinder_lws ? true : undefined,
       has_era: era ? true : undefined,
       has_composite: composite ? true : undefined,
       laser_range: laser ? true : undefined,
@@ -378,63 +381,66 @@ async function main() {
     });
   });
   names.aircraft.forEach((element) => {
-    const vehicle: AirVehicle = JSON.parse(
+    const vehicleData: AirVehicle = JSON.parse(
       fs.readFileSync(
         `./War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/flightmodels/${element.intname.toLowerCase()}.blkx`,
         "utf-8",
       ),
     );
+    const vehicleEconomy = economy[element.intname];
+    const vehicleUnit = unitData[element.intname];
+
     let prem = "false";
     let type = "";
     const ext_type: string[] = [];
     switch (true) {
-      case unitData[element.intname].tags.type_fighter:
+      case vehicleUnit.tags.type_fighter:
         type = "type_fighter";
         break;
-      case unitData[element.intname].tags.type_bomber:
+      case vehicleUnit.tags.type_bomber:
         type = "type_bomber";
         break;
-      case unitData[element.intname].tags.type_assault:
+      case vehicleUnit.tags.type_assault:
         type = "type_assault";
         break;
     }
-    if (unitData[element.intname].tags.type_jet_fighter) {
+    if (vehicleUnit.tags.type_jet_fighter) {
       ext_type.push("type_jet_fighter");
     }
-    if (unitData[element.intname].tags.type_jet_bomber) {
+    if (vehicleUnit.tags.type_jet_bomber) {
       ext_type.push("type_jet_bomber");
     }
-    if (unitData[element.intname].tags.type_longrange_bomber) {
+    if (vehicleUnit.tags.type_longrange_bomber) {
       ext_type.push("type_longrange_bomber");
     }
-    if (unitData[element.intname].tags.type_frontline_bomber) {
+    if (vehicleUnit.tags.type_frontline_bomber) {
       ext_type.push("type_frontline_bomber");
     }
-    if (unitData[element.intname].tags.type_hydroplane) {
+    if (vehicleUnit.tags.type_hydroplane) {
       ext_type.push("type_hydroplane");
     }
-    if (unitData[element.intname].tags.type_naval_aircraft) {
+    if (vehicleUnit.tags.type_naval_aircraft) {
       ext_type.push("type_naval_aircraft");
     }
-    if (unitData[element.intname].tags.type_torpedo) {
+    if (vehicleUnit.tags.type_torpedo) {
       ext_type.push("type_torpedo_bomber");
     }
-    if (unitData[element.intname].tags.type_dive_bomber) {
+    if (vehicleUnit.tags.type_dive_bomber) {
       ext_type.push("type_dive_bomber");
     }
-    if (unitData[element.intname].tags.type_interceptor) {
+    if (vehicleUnit.tags.type_interceptor) {
       ext_type.push("type_interceptor");
     }
-    if (unitData[element.intname].tags.type_aa_fighter) {
+    if (vehicleUnit.tags.type_aa_fighter) {
       ext_type.push("type_aa_fighter");
     }
-    if (unitData[element.intname].tags.type_light_bomber) {
+    if (vehicleUnit.tags.type_light_bomber) {
       ext_type.push("type_light_bomber");
     }
 
-    if (economy[element.intname].costGold) {
-      if (economy[element.intname].gift) {
-        if (economy[element.intname].event) {
+    if (vehicleEconomy.costGold) {
+      if (vehicleEconomy.gift) {
+        if (vehicleEconomy.event) {
           prem = "event";
         } else {
           prem = "store";
@@ -443,10 +449,10 @@ async function main() {
         prem = "gold";
       }
     } else {
-      if (economy[element.intname].researchType) {
+      if (vehicleEconomy.researchType) {
         prem = "squad";
       } else {
-        if (economy[element.intname].event) {
+        if (vehicleEconomy.event) {
           prem = "event";
         }
       }
@@ -457,55 +463,58 @@ async function main() {
       wikiname: element.wikiname,
       normal_type: type,
       extended_type: ext_type.length > 0 ? ext_type : undefined,
-      country: economy[element.intname].country,
-      rank: economy[element.intname].rank,
-      ab_br: br[economy[element.intname].economicRankArcade],
-      ab_realbr: economy[element.intname].economicRankArcade,
-      rb_br: br[economy[element.intname].economicRankHistorical],
-      rb_realbr: economy[element.intname].economicRankHistorical,
-      sb_br: br[economy[element.intname].economicRankSimulation],
-      sb_realbr: economy[element.intname].economicRankSimulation,
-      base_ab_repair: economy[element.intname].repairCostArcade,
-      base_rb_repair: economy[element.intname].repairCostHistorical,
-      base_sb_repair: economy[element.intname].repairCostSimulation,
-      rp_multiplyer: economy[element.intname].expMul,
-      ab_sl_multiplyer: economy[element.intname].rewardMulArcade,
-      rb_sl_multiplyer: economy[element.intname].rewardMulHistorical,
-      sb_sl_multiplyer: economy[element.intname].rewardMulSimulation,
-      sl_price: economy[element.intname].value,
-      reqRP: economy[element.intname].reqExp,
+      country: vehicleEconomy.country,
+      rank: vehicleEconomy.rank,
+      ab_br: br[vehicleEconomy.economicRankArcade],
+      ab_realbr: vehicleEconomy.economicRankArcade,
+      rb_br: br[vehicleEconomy.economicRankHistorical],
+      rb_realbr: vehicleEconomy.economicRankHistorical,
+      sb_br: br[vehicleEconomy.economicRankSimulation],
+      sb_realbr: vehicleEconomy.economicRankSimulation,
+      base_ab_repair: vehicleEconomy.repairCostArcade,
+      base_rb_repair: vehicleEconomy.repairCostHistorical,
+      base_sb_repair: vehicleEconomy.repairCostSimulation,
+      rp_multiplyer: vehicleEconomy.expMul,
+      ab_sl_multiplyer: vehicleEconomy.rewardMulArcade,
+      rb_sl_multiplyer: vehicleEconomy.rewardMulHistorical,
+      sb_sl_multiplyer: vehicleEconomy.rewardMulSimulation,
+      sl_price: vehicleEconomy.value,
+      reqRP: vehicleEconomy.reqExp,
       prem_type: prem,
-      event: economy[element.intname].event ? economy[element.intname].event : undefined,
-      cost_gold: economy[element.intname].costGold,
-      hidden: economy[element.intname].showOnlyWhenBought ? true : undefined,
-      crew: economy[element.intname].crewTotalCount,
+      event: vehicleEconomy.event ? vehicleEconomy.event : undefined,
+      cost_gold: vehicleEconomy.costGold,
+      hidden: vehicleEconomy.showOnlyWhenBought ? true : undefined,
+      crew: vehicleEconomy.crewTotalCount,
       type: "aircraft",
     });
   });
   names.helicopter.forEach((element) => {
-    const vehicle: AirVehicle = JSON.parse(
+    const vehicleData: AirVehicle = JSON.parse(
       fs.readFileSync(
         `./War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/flightmodels/${element.intname.toLowerCase()}.blkx`,
         "utf-8",
       ),
     );
+    const vehicleEconomy = economy[element.intname];
+    const vehicleUnit = unitData[element.intname];
+
     let prem = "false";
     let type = "";
     const ext_type: string[] = [];
-    if (unitData[element.intname].tags.type_attack_helicopter) {
+    if (vehicleUnit.tags.type_attack_helicopter) {
       type = "type_attack_helicopter";
-      if (unitData[element.intname].tags.type_utility_helicopter) {
+      if (vehicleUnit.tags.type_utility_helicopter) {
         ext_type.push("type_attack_helicopter", "type_utility_helicopter");
       }
     } else {
-      if (unitData[element.intname].tags.type_utility_helicopter) {
+      if (vehicleUnit.tags.type_utility_helicopter) {
         type = "type_utility_helicopter";
       }
     }
 
-    if (economy[element.intname].costGold) {
-      if (economy[element.intname].gift) {
-        if (economy[element.intname].event) {
+    if (vehicleEconomy.costGold) {
+      if (vehicleEconomy.gift) {
+        if (vehicleEconomy.event) {
           prem = "event";
         } else {
           prem = "store";
@@ -514,10 +523,10 @@ async function main() {
         prem = "gold";
       }
     } else {
-      if (economy[element.intname].researchType) {
+      if (vehicleEconomy.researchType) {
         prem = "squad";
       } else {
-        if (economy[element.intname].event) {
+        if (vehicleEconomy.event) {
           prem = "event";
         }
       }
@@ -528,28 +537,28 @@ async function main() {
       wikiname: element.wikiname,
       normal_type: type,
       extended_type: ext_type.length > 0 ? ext_type : undefined,
-      country: economy[element.intname].country,
-      rank: economy[element.intname].rank,
-      ab_br: br[economy[element.intname].economicRankArcade],
-      ab_realbr: economy[element.intname].economicRankArcade,
-      rb_br: br[economy[element.intname].economicRankHistorical],
-      rb_realbr: economy[element.intname].economicRankHistorical,
-      sb_br: br[economy[element.intname].economicRankSimulation],
-      sb_realbr: economy[element.intname].economicRankSimulation,
-      base_ab_repair: economy[element.intname].repairCostArcade,
-      base_rb_repair: economy[element.intname].repairCostHistorical,
-      base_sb_repair: economy[element.intname].repairCostSimulation,
-      rp_multiplyer: economy[element.intname].expMul,
-      ab_sl_multiplyer: economy[element.intname].rewardMulArcade,
-      rb_sl_multiplyer: economy[element.intname].rewardMulHistorical,
-      sb_sl_multiplyer: economy[element.intname].rewardMulSimulation,
-      sl_price: economy[element.intname].value,
-      reqRP: economy[element.intname].reqExp,
+      country: vehicleEconomy.country,
+      rank: vehicleEconomy.rank,
+      ab_br: br[vehicleEconomy.economicRankArcade],
+      ab_realbr: vehicleEconomy.economicRankArcade,
+      rb_br: br[vehicleEconomy.economicRankHistorical],
+      rb_realbr: vehicleEconomy.economicRankHistorical,
+      sb_br: br[vehicleEconomy.economicRankSimulation],
+      sb_realbr: vehicleEconomy.economicRankSimulation,
+      base_ab_repair: vehicleEconomy.repairCostArcade,
+      base_rb_repair: vehicleEconomy.repairCostHistorical,
+      base_sb_repair: vehicleEconomy.repairCostSimulation,
+      rp_multiplyer: vehicleEconomy.expMul,
+      ab_sl_multiplyer: vehicleEconomy.rewardMulArcade,
+      rb_sl_multiplyer: vehicleEconomy.rewardMulHistorical,
+      sb_sl_multiplyer: vehicleEconomy.rewardMulSimulation,
+      sl_price: vehicleEconomy.value,
+      reqRP: vehicleEconomy.reqExp,
       prem_type: prem,
-      event: economy[element.intname].event ? economy[element.intname].event : undefined,
-      cost_gold: economy[element.intname].costGold,
-      hidden: economy[element.intname].showOnlyWhenBought ? true : undefined,
-      crew: economy[element.intname].crewTotalCount,
+      event: vehicleEconomy.event ? vehicleEconomy.event : undefined,
+      cost_gold: vehicleEconomy.costGold,
+      hidden: vehicleEconomy.showOnlyWhenBought ? true : undefined,
+      crew: vehicleEconomy.crewTotalCount,
       type: "helicopter",
     });
   });
