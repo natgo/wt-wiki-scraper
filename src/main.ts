@@ -36,6 +36,16 @@ interface categorymemberspart {
   title: string;
 }
 
+function cleanPages(output: categorymemberspart[]) {
+  output.forEach((element, i, array) => {
+    if (element.pageid === 46 || element.pageid === 3378 || element.pageid === 66) {
+      array.splice(i, 1);
+    }
+  });
+
+  return output;
+}
+
 async function getGroundVehicles() {
   const query =
     "https://wiki.warthunder.com/api.php?action=query&list=categorymembers&cmtitle=Category%3AGround+vehicles&cmlimit=max&format=json&cmtype=page";
@@ -45,9 +55,13 @@ async function getGroundVehicles() {
     const response2: categorymembers = await axios.get(
       query + `&cmcontinue='${response.data.continue.cmcontinue}'`,
     );
-    return response.data.query.categorymembers.concat(response2.data.query.categorymembers);
+    const output = cleanPages(
+      response.data.query.categorymembers.concat(response2.data.query.categorymembers),
+    );
+    return output;
   } else {
-    return response.data.query.categorymembers;
+    const output = cleanPages(response.data.query.categorymembers);
+    return output;
   }
 }
 
@@ -60,9 +74,13 @@ async function getAircraft() {
     const response2: categorymembers = await axios.get(
       query + `&cmcontinue='${response.data.continue.cmcontinue}'`,
     );
-    return response.data.query.categorymembers.concat(response2.data.query.categorymembers);
+    const output = cleanPages(
+      response.data.query.categorymembers.concat(response2.data.query.categorymembers),
+    );
+    return output;
   } else {
-    return response.data.query.categorymembers;
+    const output = cleanPages(response.data.query.categorymembers);
+    return output;
   }
 }
 
@@ -77,7 +95,8 @@ async function getHelicopters() {
     );
     return response.data.query.categorymembers.concat(response2.data.query.categorymembers);
   } else {
-    return response.data.query.categorymembers;
+    const output = cleanPages(response.data.query.categorymembers);
+    return output;
   }
 }
 
@@ -161,7 +180,6 @@ async function getTechTree() {
 }
 
 async function main() {
-
   const aircraft = await getAircraft();
   const ground = await getGroundVehicles();
   const helicopter = await getHelicopters();

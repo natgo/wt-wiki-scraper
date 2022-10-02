@@ -300,7 +300,7 @@ async function main() {
         zoomOutFov: vehicle.cockpit.zoomOutFov,
       },
     };
-    
+
     if (vehicle.commanderView) {
       sights.commander = {
         zoomInFov: vehicle.commanderView.zoomInFov,
@@ -317,7 +317,7 @@ async function main() {
     } else if (night.gunnerIr) {
       sights.gunner.gunnerIr = night.gunnerIr;
     }
-    
+
     if (night.commanderViewThermal && sights.commander) {
       sights.commander.commanderViewThermal = night.commanderViewThermal;
     } else if (night.commanderViewIr && sights.commander) {
@@ -355,7 +355,7 @@ async function main() {
       mass: vehicle.VehiclePhys.Mass.Empty + vehicle.VehiclePhys.Mass.Fuel,
       horsepower: vehicle.VehiclePhys.engine.horsePowers,
       prem_type: prem,
-      event: economy[element.intname].event ? economy[element.intname].event:undefined,
+      event: economy[element.intname].event ? economy[element.intname].event : undefined,
       cost_gold: economy[element.intname].costGold,
       hidden: economy[element.intname].showOnlyWhenBought ? true : undefined,
       crew: economy[element.intname].crewTotalCount,
@@ -475,7 +475,7 @@ async function main() {
       sl_price: economy[element.intname].value,
       reqRP: economy[element.intname].reqExp,
       prem_type: prem,
-      event: economy[element.intname].event ? economy[element.intname].event:undefined,
+      event: economy[element.intname].event ? economy[element.intname].event : undefined,
       cost_gold: economy[element.intname].costGold,
       hidden: economy[element.intname].showOnlyWhenBought ? true : undefined,
       crew: economy[element.intname].crewTotalCount,
@@ -546,7 +546,7 @@ async function main() {
       sl_price: economy[element.intname].value,
       reqRP: economy[element.intname].reqExp,
       prem_type: prem,
-      event: economy[element.intname].event ? economy[element.intname].event:undefined,
+      event: economy[element.intname].event ? economy[element.intname].event : undefined,
       cost_gold: economy[element.intname].costGold,
       hidden: economy[element.intname].showOnlyWhenBought ? true : undefined,
       crew: economy[element.intname].crewTotalCount,
