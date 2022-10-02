@@ -1,5 +1,5 @@
 {
-  "updated": "2022-10-01T20:02:27.395Z",
+  "updated": "2022-10-02T01:11:44.825Z",
   "ground": [
     {
       "intname": "us_m18_hellcat_black_cat_race",
@@ -1266,7 +1266,8 @@
       "reqRP": 9200,
       "mass": 26400,
       "horsepower": 340,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "winter_2022",
       "cost_gold": 850,
       "hidden": true,
       "crew": 5,
@@ -2088,7 +2089,8 @@
       "reqRP": 11000,
       "mass": 12825,
       "horsepower": 165,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "winter_2018",
       "cost_gold": 1000,
       "crew": 4,
       "gears_forward": 8,
@@ -2229,6 +2231,7 @@
       "mass": 19050,
       "horsepower": 600,
       "prem_type": "event",
+      "event": "winter_2022",
       "crew": 3,
       "gears_forward": 6,
       "gears_backward": 2,
@@ -3560,13 +3563,18 @@
               {
                 "modname": "30mm_hs_831_APHEI",
                 "shells": [
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" },
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" },
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" },
                   { "name": "30x170 HE-I-T", "intname": "30_170mm_he_i_t" }
                 ]
               },
               {
                 "modname": "30mm_hs_831_APDS",
                 "shells": [
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" },
                   { "name": "30х170 APDS-T", "intname": "30_170mm_apds_t" },
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" },
                   { "name": "30x170 HE-I-T", "intname": "30_170mm_he_i_t" }
                 ]
               },
@@ -3575,12 +3583,14 @@
                 "shells": [
                   { "name": "30x170 HE-I-T", "intname": "30_170mm_he_i_t" },
                   { "name": "30x170 HE-I", "intname": "30_170mm_he_i" },
-                  { "name": "30x170 HE-I", "intname": "30_170mm_he_i" }
+                  { "name": "30x170 HE-I", "intname": "30_170mm_he_i" },
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" }
                 ]
               },
               {
                 "modname": "default",
                 "shells": [
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" },
                   { "name": "30x170 HE-I-T", "intname": "30_170mm_he_i_t" }
                 ]
               }
@@ -3600,13 +3610,18 @@
               {
                 "modname": "30mm_hs_831_APHEI",
                 "shells": [
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" },
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" },
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" },
                   { "name": "30x170 HE-I-T", "intname": "30_170mm_he_i_t" }
                 ]
               },
               {
                 "modname": "30mm_hs_831_APDS",
                 "shells": [
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" },
                   { "name": "30х170 APDS-T", "intname": "30_170mm_apds_t" },
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" },
                   { "name": "30x170 HE-I-T", "intname": "30_170mm_he_i_t" }
                 ]
               },
@@ -3615,12 +3630,14 @@
                 "shells": [
                   { "name": "30x170 HE-I-T", "intname": "30_170mm_he_i_t" },
                   { "name": "30x170 HE-I", "intname": "30_170mm_he_i" },
-                  { "name": "30x170 HE-I", "intname": "30_170mm_he_i" }
+                  { "name": "30x170 HE-I", "intname": "30_170mm_he_i" },
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" }
                 ]
               },
               {
                 "modname": "default",
                 "shells": [
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" },
                   { "name": "30x170 HE-I-T", "intname": "30_170mm_he_i_t" }
                 ]
               }
@@ -4396,6 +4413,7 @@
       "mass": 70000,
       "horsepower": 1000,
       "prem_type": "event",
+      "event": "worldwar_recon_fire",
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
@@ -4890,7 +4908,8 @@
       "reqRP": 150000,
       "mass": 8700,
       "horsepower": 160,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "summer_2019",
       "cost_gold": 8560,
       "crew": 3,
       "gears_forward": 5,
@@ -5186,7 +5205,8 @@
       "reqRP": 4000,
       "mass": 8000,
       "horsepower": 165,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "craft_2022_spring",
       "cost_gold": 400,
       "crew": 4,
       "gears_forward": 4,
@@ -5835,7 +5855,8 @@
       "reqRP": 4000,
       "mass": 8130,
       "horsepower": 90,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "worldwar_attack_from_the_sea",
       "cost_gold": 400,
       "crew": 4,
       "gears_forward": 4,
@@ -5990,6 +6011,7 @@
       "mass": 13600,
       "horsepower": 450,
       "prem_type": "event",
+      "event": "summer_2021",
       "crew": 3,
       "gears_forward": 5,
       "gears_backward": 5,
@@ -6819,7 +6841,8 @@
       "reqRP": 11000,
       "mass": 13700,
       "horsepower": 400,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "summer_2019",
       "cost_gold": 1000,
       "crew": 3,
       "gears_forward": 3,
@@ -7799,6 +7822,7 @@
       "mass": 44000,
       "horsepower": 830,
       "prem_type": "event",
+      "event": "summer_2020",
       "crew": 4,
       "gears_forward": 8,
       "gears_backward": 4,
@@ -7957,7 +7981,7 @@
       "weapons": {
         "cannon": [
           {
-            "intname": "12_7mm_M2_HB_user_machinegun",
+            "intname": "12_7mm_M2_HB_user_machinegun_for_M15",
             "name": "12.7 mm M2HB machine gun",
             "ammo": 800,
             "belts": [
@@ -7974,7 +7998,7 @@
             "caliber": 12
           },
           {
-            "intname": "12_7mm_M2_HB_user_machinegun",
+            "intname": "12_7mm_M2_HB_user_machinegun_for_M15",
             "name": "12.7 mm M2HB machine gun",
             "ammo": 800,
             "belts": [
@@ -7991,7 +8015,7 @@
             "caliber": 12
           },
           {
-            "intname": "12_7mm_M2_HB_user_machinegun",
+            "intname": "12_7mm_M2_HB_user_machinegun_for_M15",
             "name": "12.7 mm M2HB machine gun",
             "ammo": 800,
             "belts": [
@@ -8008,7 +8032,7 @@
             "caliber": 12
           },
           {
-            "intname": "12_7mm_M2_HB_user_machinegun",
+            "intname": "12_7mm_M2_HB_user_machinegun_for_M15",
             "name": "12.7 mm M2HB machine gun",
             "ammo": 800,
             "belts": [
@@ -8081,6 +8105,106 @@
             "verticalLimit": [-6, 87],
             "shotFreq": 2,
             "caliber": 40
+          }
+        ],
+        "machineGun": []
+      }
+    },
+    {
+      "intname": "us_ccvl",
+      "wikiname": "CCVL",
+      "normal_type": "type_light_tank",
+      "country": "country_usa",
+      "rank": 6,
+      "ab_br": "10.0",
+      "ab_realbr": 27,
+      "rb_br": "10.0",
+      "rb_realbr": 27,
+      "sb_br": "10.0",
+      "sb_realbr": 27,
+      "base_ab_repair": 3530,
+      "base_rb_repair": 4110,
+      "base_sb_repair": 4970,
+      "rp_multiplyer": 2.26,
+      "ab_sl_multiplyer": 1.11,
+      "rb_sl_multiplyer": 1.53,
+      "sb_sl_multiplyer": 2.5,
+      "sl_price": 740000,
+      "reqRP": 270000,
+      "mass": 19500,
+      "horsepower": 575,
+      "prem_type": "false",
+      "hidden": true,
+      "crew": 3,
+      "gears_forward": 6,
+      "gears_backward": 2,
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true,
+      "laser_range": true,
+      "optics": {
+        "gunner": {
+          "zoomInFov": 7.37,
+          "zoomOutFov": 24.7,
+          "gunnerThermal": { "resolution": [500, 300], "noiseFactor": 0.05 }
+        },
+        "commander": {
+          "zoomInFov": 7.4,
+          "zoomOutFov": 30,
+          "commanderViewThermal": {
+            "resolution": [500, 300],
+            "noiseFactor": 0.05
+          }
+        },
+        "driver": {
+          "driverIr": {
+            "resolution": [800, 600],
+            "lightMult": 5,
+            "ghosting": 0.6,
+            "noiseFactor": 0.2
+          }
+        }
+      },
+      "weapons": {
+        "cannon": [
+          {
+            "intname": "105mm_M68A1_AGS_user_cannon",
+            "name": "105 mm M68A1 cannon",
+            "ammo": 43,
+            "shells": [
+              {
+                "modname": "105mm_usa_HESH",
+                "name": "M393A2",
+                "intname": "105mm_m393a2"
+              },
+              {
+                "modname": "105mm_us_M416_Smoke",
+                "name": "M416",
+                "intname": "105mm_m416"
+              },
+              {
+                "modname": "105mm_NATO_APDS_FS",
+                "name": "M735",
+                "intname": "105mm_m735"
+              },
+              {
+                "modname": "105mm_usa_M833_APDS_FS",
+                "name": "M833",
+                "intname": "105mm_m833"
+              },
+              {
+                "modname": "default",
+                "name": "M456A2",
+                "intname": "105mm_m456a2"
+              }
+            ],
+            "horizonalSpeed": 42,
+            "verticalSpeed": 11,
+            "horizonalLimit": [-180, 180],
+            "verticalLimit": [-10, 20],
+            "autoloader": true,
+            "shotFreq": 0.2,
+            "caliber": 105
           }
         ],
         "machineGun": []
@@ -9332,7 +9456,8 @@
       "reqRP": 95000,
       "mass": 52000,
       "horsepower": 650,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "battlepass_season2",
       "cost_gold": 8020,
       "crew": 4,
       "gears_forward": 5,
@@ -11784,6 +11909,7 @@
       "mass": 41000,
       "horsepower": 786,
       "prem_type": "event",
+      "event": "winter_2021",
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 2,
@@ -11953,7 +12079,8 @@
       "reqRP": 54000,
       "mass": 33500,
       "horsepower": 600,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "chronicles_2016",
       "cost_gold": 3850,
       "crew": 5,
       "gears_forward": 5,
@@ -13489,7 +13616,8 @@
       "reqRP": 33000,
       "mass": 15200,
       "horsepower": 200,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "winter_2021",
       "cost_gold": 1600,
       "crew": 4,
       "gears_forward": 10,
@@ -13551,7 +13679,8 @@
       "reqRP": 95000,
       "mass": 13500,
       "horsepower": 200,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "battlepass_season4",
       "cost_gold": 8020,
       "crew": 4,
       "gears_forward": 10,
@@ -13745,7 +13874,8 @@
       "reqRP": 82000,
       "mass": 65000,
       "horsepower": 625,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "battlepass_season7",
       "cost_gold": 7480,
       "crew": 6,
       "gears_forward": 6,
@@ -13816,7 +13946,8 @@
       "reqRP": 63000,
       "mass": 45250,
       "horsepower": 700,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "winter_2018",
       "cost_gold": 4880,
       "hidden": true,
       "crew": 5,
@@ -13877,7 +14008,8 @@
       "reqRP": 33000,
       "mass": 40027,
       "horsepower": 628,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "chronicles_2017",
       "cost_gold": 1600,
       "crew": 5,
       "gears_forward": 5,
@@ -14215,13 +14347,18 @@
               {
                 "modname": "30mm_hs_831_APHEI",
                 "shells": [
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" },
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" },
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" },
                   { "name": "30x170 HE-I-T", "intname": "30_170mm_he_i_t" }
                 ]
               },
               {
                 "modname": "30mm_hs_831_APDS",
                 "shells": [
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" },
                   { "name": "30х170 APDS-T", "intname": "30_170mm_apds_t" },
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" },
                   { "name": "30x170 HE-I-T", "intname": "30_170mm_he_i_t" }
                 ]
               },
@@ -14230,12 +14367,14 @@
                 "shells": [
                   { "name": "30x170 HE-I-T", "intname": "30_170mm_he_i_t" },
                   { "name": "30x170 HE-I", "intname": "30_170mm_he_i" },
-                  { "name": "30x170 HE-I", "intname": "30_170mm_he_i" }
+                  { "name": "30x170 HE-I", "intname": "30_170mm_he_i" },
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" }
                 ]
               },
               {
                 "modname": "default",
                 "shells": [
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" },
                   { "name": "30x170 HE-I-T", "intname": "30_170mm_he_i_t" }
                 ]
               }
@@ -14255,13 +14394,18 @@
               {
                 "modname": "30mm_hs_831_APHEI",
                 "shells": [
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" },
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" },
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" },
                   { "name": "30x170 HE-I-T", "intname": "30_170mm_he_i_t" }
                 ]
               },
               {
                 "modname": "30mm_hs_831_APDS",
                 "shells": [
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" },
                   { "name": "30х170 APDS-T", "intname": "30_170mm_apds_t" },
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" },
                   { "name": "30x170 HE-I-T", "intname": "30_170mm_he_i_t" }
                 ]
               },
@@ -14270,12 +14414,14 @@
                 "shells": [
                   { "name": "30x170 HE-I-T", "intname": "30_170mm_he_i_t" },
                   { "name": "30x170 HE-I", "intname": "30_170mm_he_i" },
-                  { "name": "30x170 HE-I", "intname": "30_170mm_he_i" }
+                  { "name": "30x170 HE-I", "intname": "30_170mm_he_i" },
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" }
                 ]
               },
               {
                 "modname": "default",
                 "shells": [
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" },
                   { "name": "30x170 HE-I-T", "intname": "30_170mm_he_i_t" }
                 ]
               }
@@ -15365,7 +15511,8 @@
       "reqRP": 9200,
       "mass": 27900,
       "horsepower": 400,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "summer_2016",
       "cost_gold": 850,
       "crew": 6,
       "gears_forward": 5,
@@ -17266,6 +17413,7 @@
       "mass": 68000,
       "horsepower": 1050,
       "prem_type": "event",
+      "event": "summer_2018_craft",
       "crew": 5,
       "gears_forward": 8,
       "gears_backward": 2,
@@ -17874,7 +18022,8 @@
       "reqRP": 14000,
       "mass": 22500,
       "horsepower": 410,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "summer_2020",
       "cost_gold": 1150,
       "hidden": true,
       "crew": 4,
@@ -19279,7 +19428,8 @@
       "reqRP": 40000,
       "mass": 52400,
       "horsepower": 600,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "chronicles_2016",
       "cost_gold": 1750,
       "crew": 6,
       "gears_forward": 5,
@@ -19399,7 +19549,8 @@
       "reqRP": 54000,
       "mass": 62400,
       "horsepower": 850,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "summer_2016",
       "cost_gold": 3850,
       "crew": 6,
       "gears_forward": 5,
@@ -19718,7 +19869,8 @@
       "reqRP": 4000,
       "mass": 26450,
       "horsepower": 240,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "summer_2021",
       "cost_gold": 400,
       "hidden": true,
       "crew": 7,
@@ -20497,6 +20649,7 @@
       "mass": 18300,
       "horsepower": 250,
       "prem_type": "event",
+      "event": "winter_2017",
       "crew": 5,
       "gears_forward": 5,
       "gears_backward": 1,
@@ -20690,7 +20843,8 @@
       "reqRP": 7900,
       "mass": 17000,
       "horsepower": 250,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "battlepass_season5",
       "cost_gold": 700,
       "hidden": true,
       "crew": 5,
@@ -21973,6 +22127,7 @@
       "mass": 55150,
       "horsepower": 1500,
       "prem_type": "event",
+      "event": "summer_2022",
       "crew": 4,
       "gears_forward": 8,
       "gears_backward": 4,
@@ -22515,7 +22670,8 @@
       "reqRP": 33000,
       "mass": 29950,
       "horsepower": 600,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "chronicles_2018",
       "cost_gold": 1600,
       "hidden": true,
       "crew": 6,
@@ -23744,7 +23900,7 @@
       "weapons": {
         "cannon": [
           {
-            "intname": "12_7mm_M2_HB_user_machinegun",
+            "intname": "12_7mm_M2_HB_user_machinegun_for_M15",
             "name": "12.7 mm M2HB machine gun",
             "ammo": 2400,
             "belts": [
@@ -23761,7 +23917,7 @@
             "caliber": 12
           },
           {
-            "intname": "12_7mm_M2_HB_user_machinegun",
+            "intname": "12_7mm_M2_HB_user_machinegun_for_M15",
             "name": "12.7 mm M2HB machine gun",
             "ammo": 2400,
             "belts": [
@@ -24238,7 +24394,7 @@
       "weapons": {
         "cannon": [
           {
-            "intname": "12_7mm_M2_HB_user_machinegun",
+            "intname": "12_7mm_M2_HB_user_machinegun_for_M15",
             "name": "12.7 mm M2HB machine gun",
             "ammo": 1200,
             "belts": [
@@ -24255,7 +24411,7 @@
             "caliber": 12
           },
           {
-            "intname": "12_7mm_M2_HB_user_machinegun",
+            "intname": "12_7mm_M2_HB_user_machinegun_for_M15",
             "name": "12.7 mm M2HB machine gun",
             "ammo": 1200,
             "belts": [
@@ -24272,7 +24428,7 @@
             "caliber": 12
           },
           {
-            "intname": "12_7mm_M2_HB_user_machinegun",
+            "intname": "12_7mm_M2_HB_user_machinegun_for_M15",
             "name": "12.7 mm M2HB machine gun",
             "ammo": 1200,
             "belts": [
@@ -24289,7 +24445,7 @@
             "caliber": 12
           },
           {
-            "intname": "12_7mm_M2_HB_user_machinegun",
+            "intname": "12_7mm_M2_HB_user_machinegun_for_M15",
             "name": "12.7 mm M2HB machine gun",
             "ammo": 1200,
             "belts": [
@@ -24341,7 +24497,7 @@
       "weapons": {
         "cannon": [
           {
-            "intname": "12_7mm_M2_HB_user_machinegun",
+            "intname": "12_7mm_M2_HB_user_machinegun_for_M15",
             "name": "12.7 mm M2HB machine gun",
             "ammo": 1200,
             "belts": [
@@ -24358,7 +24514,7 @@
             "caliber": 12
           },
           {
-            "intname": "12_7mm_M2_HB_user_machinegun",
+            "intname": "12_7mm_M2_HB_user_machinegun_for_M15",
             "name": "12.7 mm M2HB machine gun",
             "ammo": 1200,
             "belts": [
@@ -24375,7 +24531,7 @@
             "caliber": 12
           },
           {
-            "intname": "12_7mm_M2_HB_user_machinegun",
+            "intname": "12_7mm_M2_HB_user_machinegun_for_M15",
             "name": "12.7 mm M2HB machine gun",
             "ammo": 1200,
             "belts": [
@@ -24392,7 +24548,7 @@
             "caliber": 12
           },
           {
-            "intname": "12_7mm_M2_HB_user_machinegun",
+            "intname": "12_7mm_M2_HB_user_machinegun_for_M15",
             "name": "12.7 mm M2HB machine gun",
             "ammo": 1200,
             "belts": [
@@ -31747,6 +31903,7 @@
       "mass": 54500,
       "horsepower": 1200,
       "prem_type": "event",
+      "event": "worldwar_road_to_the_west",
       "crew": 4,
       "gears_forward": 6,
       "gears_backward": 2,
@@ -32510,7 +32667,8 @@
       "reqRP": 40000,
       "mass": 24000,
       "horsepower": 500,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "battlepass_season6",
       "cost_gold": 1750,
       "crew": 5,
       "gears_forward": 4,
@@ -32678,7 +32836,8 @@
       "reqRP": 110000,
       "mass": 69850,
       "horsepower": 800,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "battlepass_season3",
       "cost_gold": 8200,
       "crew": 5,
       "gears_forward": 6,
@@ -32979,7 +33138,8 @@
       "reqRP": 4000,
       "mass": 15570,
       "horsepower": 296,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "winter_2015",
       "cost_gold": 400,
       "crew": 4,
       "gears_forward": 8,
@@ -33374,7 +33534,8 @@
       "reqRP": 14000,
       "mass": 28500,
       "horsepower": 190,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "chronicles_2017",
       "cost_gold": 1150,
       "crew": 4,
       "gears_forward": 6,
@@ -35139,7 +35300,8 @@
       "reqRP": 9200,
       "mass": 27331,
       "horsepower": 190,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "battlepass_season1",
       "cost_gold": 850,
       "crew": 4,
       "gears_forward": 6,
@@ -35393,6 +35555,7 @@
       "mass": 61000,
       "horsepower": 900,
       "prem_type": "event",
+      "event": "craft_2019_spring",
       "crew": 4,
       "gears_forward": 4,
       "gears_backward": 1,
@@ -35591,6 +35754,7 @@
       "mass": 63000,
       "horsepower": 963,
       "prem_type": "event",
+      "event": "winter_2020",
       "crew": 4,
       "gears_forward": 6,
       "gears_backward": 2,
@@ -36061,6 +36225,7 @@
       "mass": 65000,
       "horsepower": 1200,
       "prem_type": "event",
+      "event": "craft_2020_autumn",
       "crew": 4,
       "gears_forward": 6,
       "gears_backward": 2,
@@ -37156,8 +37321,10 @@
       "reqRP": 82000,
       "mass": 46500,
       "horsepower": 520,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "battlepass_season8",
       "cost_gold": 7480,
+      "hidden": true,
       "crew": 4,
       "gears_forward": 8,
       "gears_backward": 2,
@@ -37288,6 +37455,7 @@
       "mass": 60400,
       "horsepower": 1000,
       "prem_type": "event",
+      "event": "craft_2020_spring",
       "crew": 4,
       "gears_forward": 8,
       "gears_backward": 2,
@@ -38534,6 +38702,7 @@
       "mass": 50500,
       "horsepower": 1500,
       "prem_type": "event",
+      "event": "craft_2021_autumn",
       "crew": 4,
       "gears_forward": 8,
       "gears_backward": 8,
@@ -38709,7 +38878,8 @@
       "reqRP": 82000,
       "mass": 15000,
       "horsepower": 300,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "battlepass_season5",
       "cost_gold": 7480,
       "crew": 3,
       "gears_forward": 8,
@@ -39730,7 +39900,8 @@
       "reqRP": 4000,
       "mass": 8100,
       "horsepower": 135,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "craft_2021_autumn",
       "cost_gold": 400,
       "crew": 6,
       "gears_forward": 5,
@@ -39930,7 +40101,8 @@
       "reqRP": 54000,
       "mass": 24900,
       "horsepower": 500,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "summer_2017",
       "cost_gold": 3850,
       "hidden": true,
       "crew": 5,
@@ -42457,7 +42629,8 @@
       "reqRP": 54000,
       "mass": 29000,
       "horsepower": 400,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "winter_2020",
       "cost_gold": 3850,
       "crew": 6,
       "gears_forward": 5,
@@ -45634,7 +45807,8 @@
       "reqRP": 9200,
       "mass": 11600,
       "horsepower": 110,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "craft_2021_spring",
       "cost_gold": 850,
       "crew": 4,
       "gears_forward": 4,
@@ -45971,7 +46145,8 @@
       "reqRP": 26000,
       "mass": 12200,
       "horsepower": 140,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "winter_2019",
       "cost_gold": 1450,
       "crew": 4,
       "gears_forward": 4,
@@ -46424,7 +46599,8 @@
       "reqRP": 4000,
       "mass": 11500,
       "horsepower": 210,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "craft_2020_spring",
       "cost_gold": 400,
       "crew": 4,
       "gears_forward": 7,
@@ -46630,7 +46806,8 @@
       "reqRP": 4000,
       "mass": 11500,
       "horsepower": 210,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "summer_2018_good_old",
       "cost_gold": 400,
       "crew": 4,
       "gears_forward": 7,
@@ -46705,7 +46882,8 @@
       "reqRP": 18000,
       "mass": 11740,
       "horsepower": 210,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "summer_2017",
       "cost_gold": 1300,
       "crew": 4,
       "gears_forward": 7,
@@ -46780,7 +46958,8 @@
       "reqRP": 4000,
       "mass": 8000,
       "horsepower": 100,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "craft_2020_autumn",
       "cost_gold": 400,
       "crew": 5,
       "gears_forward": 8,
@@ -46924,7 +47103,8 @@
       "reqRP": 11000,
       "mass": 9900,
       "horsepower": 100,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "battlepass_season4",
       "cost_gold": 1000,
       "hidden": true,
       "crew": 5,
@@ -48156,7 +48336,7 @@
       "weapons": {
         "cannon": [
           {
-            "intname": "12_7mm_M2_HB_user_machinegun",
+            "intname": "12_7mm_M2_HB_user_machinegun_for_M15",
             "name": "12.7 mm M2HB machine gun",
             "ammo": 1400,
             "belts": [
@@ -48173,7 +48353,7 @@
             "caliber": 12
           },
           {
-            "intname": "12_7mm_M2_HB_user_machinegun",
+            "intname": "12_7mm_M2_HB_user_machinegun_for_M15",
             "name": "12.7 mm M2HB machine gun",
             "ammo": 1400,
             "belts": [
@@ -51186,7 +51366,8 @@
       "reqRP": 150000,
       "mass": 50000,
       "horsepower": 700,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "battlepass_season1",
       "cost_gold": 8560,
       "crew": 4,
       "gears_forward": 8,
@@ -55366,6 +55547,7 @@
       "mass": 44500,
       "horsepower": 850,
       "prem_type": "event",
+      "event": "craft_2022_spring",
       "crew": 3,
       "gears_forward": 7,
       "gears_backward": 1,
@@ -56304,7 +56486,8 @@
       "reqRP": 11000,
       "mass": 24040,
       "horsepower": 250,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "chronicles_2018",
       "cost_gold": 1000,
       "crew": 5,
       "gears_forward": 7,
@@ -56767,7 +56950,8 @@
       "reqRP": 110000,
       "mass": 65835,
       "horsepower": 810,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "winter_2019",
       "cost_gold": 8200,
       "crew": 6,
       "gears_forward": 5,
@@ -57116,7 +57300,8 @@
       "reqRP": 40000,
       "mass": 13700,
       "horsepower": 296,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "battlepass_season2",
       "cost_gold": 1750,
       "hidden": true,
       "crew": 4,
@@ -57874,7 +58059,8 @@
       "reqRP": 46000,
       "mass": 57320,
       "horsepower": 650,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "craft_2018_spring",
       "cost_gold": 2980,
       "crew": 5,
       "gears_forward": 8,
@@ -58523,7 +58709,8 @@
       "reqRP": 4000,
       "mass": 9300,
       "horsepower": 155,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "battlepass_season3",
       "cost_gold": 400,
       "hidden": true,
       "crew": 3,
@@ -58645,7 +58832,8 @@
       "reqRP": 7900,
       "mass": 19800,
       "horsepower": 260,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "battlepass_season6",
       "cost_gold": 700,
       "hidden": true,
       "crew": 5,
@@ -59360,6 +59548,7 @@
       "mass": 20230,
       "horsepower": 500,
       "prem_type": "event",
+      "event": "winter_2017",
       "crew": 4,
       "gears_forward": 5,
       "gears_backward": 1,
@@ -59562,6 +59751,106 @@
             "verticalLimit": [-4, 22],
             "shotFreq": 0.135,
             "caliber": 85
+          }
+        ],
+        "machineGun": []
+      }
+    },
+    {
+      "intname": "cn_type_69_2a",
+      "wikiname": "Type 69-IIa",
+      "normal_type": "type_medium_tank",
+      "country": "country_china",
+      "rank": 5,
+      "ab_br": "8.0",
+      "ab_realbr": 21,
+      "rb_br": "8.0",
+      "rb_realbr": 21,
+      "sb_br": "8.0",
+      "sb_realbr": 21,
+      "base_ab_repair": 5500,
+      "base_rb_repair": 5300,
+      "base_sb_repair": 3560,
+      "rp_multiplyer": 2.08,
+      "ab_sl_multiplyer": 2,
+      "rb_sl_multiplyer": 3,
+      "sb_sl_multiplyer": 3.3,
+      "sl_price": 0,
+      "reqRP": 150000,
+      "mass": 36700,
+      "horsepower": 580,
+      "prem_type": "store",
+      "cost_gold": 8560,
+      "crew": 4,
+      "gears_forward": 5,
+      "gears_backward": 1,
+      "type": "tank",
+      "has_smoke": true,
+      "laser_range": true,
+      "optics": {
+        "gunner": {
+          "zoomInFov": 10.5,
+          "zoomOutFov": 21.1,
+          "gunnerIr": {
+            "resolution": [800, 600],
+            "lightMult": 8,
+            "ghosting": 0.75,
+            "noiseFactor": 0.2
+          }
+        },
+        "commander": {
+          "zoomInFov": 14.7,
+          "zoomOutFov": 15,
+          "commanderViewIr": {
+            "resolution": [800, 600],
+            "lightMult": 8,
+            "ghosting": 0.75,
+            "noiseFactor": 0.2
+          }
+        },
+        "driver": {
+          "driverIr": {
+            "resolution": [800, 600],
+            "lightMult": 5,
+            "ghosting": 0.7,
+            "noiseFactor": 0.2
+          }
+        }
+      },
+      "weapons": {
+        "cannon": [
+          {
+            "intname": "100mm_Type69_II_user_cannon",
+            "name": "100 mm Type 69-II cannon",
+            "ammo": 44,
+            "shells": [
+              {
+                "modname": "100mm_ussr_HE",
+                "name": "Type 44 HE",
+                "intname": "type_44_he"
+              },
+              {
+                "modname": "100mm_ussr_BR412D",
+                "name": "Type 44 AP",
+                "intname": "type_44_ap"
+              },
+              {
+                "modname": "100mm_cn_HEAT",
+                "name": "Type 1973 HEAT-FS",
+                "intname": "100mm_type1973"
+              },
+              {
+                "modname": "default",
+                "name": "Type 1959 APDS",
+                "intname": "100mm_type1959"
+              }
+            ],
+            "horizonalSpeed": 15,
+            "verticalSpeed": 4.5,
+            "horizonalLimit": [-180, 180],
+            "verticalLimit": [-4.5, 18],
+            "shotFreq": 0.117,
+            "caliber": 100
           }
         ],
         "machineGun": []
@@ -61507,7 +61796,8 @@
       "reqRP": 54000,
       "mass": 26000,
       "horsepower": 360,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "craft_2019_spring",
       "cost_gold": 3850,
       "crew": 6,
       "gears_forward": 7,
@@ -61631,7 +61921,8 @@
       "reqRP": 46000,
       "mass": 57000,
       "horsepower": 625,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "winter_2016",
       "cost_gold": 2980,
       "crew": 5,
       "gears_forward": 8,
@@ -61799,6 +62090,7 @@
       "mass": 43500,
       "horsepower": 2200,
       "prem_type": "event",
+      "event": "craft_2019_autumn",
       "crew": 3,
       "gears_forward": 8,
       "gears_backward": 7,
@@ -62742,6 +63034,7 @@
               {
                 "modname": "default",
                 "shells": [
+                  { "name": "30x170 APHE-I", "intname": "30_170mm_aphe_i" },
                   { "name": "30x170 HE-I-T", "intname": "30_170mm_he_i_t" }
                 ]
               }
@@ -63437,6 +63730,7 @@
       "mass": 17600,
       "horsepower": 550,
       "prem_type": "event",
+      "event": "craft_2021_spring",
       "crew": 3,
       "gears_forward": 6,
       "gears_backward": 2,
@@ -65872,7 +66166,8 @@
       "reqRP": 33000,
       "mass": 22000,
       "horsepower": 260,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "summer_2022",
       "cost_gold": 1600,
       "hidden": true,
       "crew": 4,
@@ -66923,7 +67218,8 @@
       "sb_sl_multiplyer": 5.82,
       "sl_price": 0,
       "reqRP": 40000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "battlepass_season4",
       "cost_gold": 1750,
       "crew": 1,
       "type": "aircraft"
@@ -67185,7 +67481,8 @@
       "sb_sl_multiplyer": 5.53,
       "sl_price": 0,
       "reqRP": 63000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "craft_2020_spring",
       "cost_gold": 4880,
       "crew": 1,
       "type": "aircraft"
@@ -67292,7 +67589,8 @@
       "sb_sl_multiplyer": 1.26,
       "sl_price": 0,
       "reqRP": 4000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "summer_2020",
       "cost_gold": 400,
       "hidden": true,
       "crew": 2,
@@ -68341,6 +68639,7 @@
       "sl_price": 270000,
       "reqRP": 95000,
       "prem_type": "event",
+      "event": "craft_2020_autumn",
       "crew": 1,
       "type": "aircraft"
     },
@@ -68419,7 +68718,8 @@
       "sb_sl_multiplyer": 6.83,
       "sl_price": 0,
       "reqRP": 26000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "battlepass_season8",
       "cost_gold": 1450,
       "hidden": true,
       "crew": 1,
@@ -68551,7 +68851,8 @@
       "sb_sl_multiplyer": 6.02,
       "sl_price": 0,
       "reqRP": 9200,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "battlepass_season5",
       "cost_gold": 850,
       "crew": 2,
       "type": "aircraft"
@@ -69189,7 +69490,8 @@
       "sb_sl_multiplyer": 4.16,
       "sl_price": 0,
       "reqRP": 11000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "summer_2019",
       "cost_gold": 1000,
       "crew": 2,
       "type": "aircraft"
@@ -69368,7 +69670,8 @@
       "sb_sl_multiplyer": 5.85,
       "sl_price": 0,
       "reqRP": 63000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "chronicles_2016",
       "cost_gold": 4880,
       "crew": 1,
       "type": "aircraft"
@@ -69579,6 +69882,7 @@
       "sl_price": 500000,
       "reqRP": 180000,
       "prem_type": "event",
+      "event": "summer_2021",
       "crew": 2,
       "type": "aircraft"
     },
@@ -69779,7 +70083,8 @@
       "sb_sl_multiplyer": 3.31,
       "sl_price": 0,
       "reqRP": 7900,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "winter_2022",
       "cost_gold": 700,
       "hidden": true,
       "crew": 1,
@@ -71692,6 +71997,7 @@
       "sl_price": 930000,
       "reqRP": 340000,
       "prem_type": "event",
+      "event": "craft_2021_spring",
       "crew": 2,
       "type": "aircraft"
     },
@@ -71796,6 +72102,7 @@
       "sl_price": 930000,
       "reqRP": 340000,
       "prem_type": "event",
+      "event": "craft_2021_autumn",
       "crew": 1,
       "type": "aircraft"
     },
@@ -71899,7 +72206,8 @@
       "sb_sl_multiplyer": 7,
       "sl_price": 0,
       "reqRP": 18000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "battlepass_season7",
       "cost_gold": 1300,
       "crew": 1,
       "type": "aircraft"
@@ -72755,6 +73063,7 @@
       "sl_price": 930000,
       "reqRP": 340000,
       "prem_type": "event",
+      "event": "summer_2020",
       "crew": 1,
       "type": "aircraft"
     },
@@ -72857,7 +73166,8 @@
       "sb_sl_multiplyer": 7,
       "sl_price": 0,
       "reqRP": 82000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "battlepass_season1",
       "cost_gold": 7480,
       "crew": 1,
       "type": "aircraft"
@@ -72989,6 +73299,7 @@
       "sl_price": 590000,
       "reqRP": 220000,
       "prem_type": "event",
+      "event": "summer_2022",
       "crew": 1,
       "type": "aircraft"
     },
@@ -73431,7 +73742,8 @@
       "sb_sl_multiplyer": 6.85,
       "sl_price": 0,
       "reqRP": 82000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "summer_2016",
       "cost_gold": 7480,
       "crew": 1,
       "type": "aircraft"
@@ -73641,6 +73953,7 @@
       "sl_price": 930000,
       "reqRP": 340000,
       "prem_type": "event",
+      "event": "summer_2018_good_old",
       "crew": 1,
       "type": "aircraft"
     },
@@ -73896,7 +74209,8 @@
       "sb_sl_multiplyer": 0.79,
       "sl_price": 0,
       "reqRP": 4000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "summer_2016",
       "cost_gold": 400,
       "crew": 3,
       "type": "aircraft"
@@ -74126,7 +74440,8 @@
       "sb_sl_multiplyer": 5.78,
       "sl_price": 0,
       "reqRP": 63000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "winter_2019",
       "cost_gold": 4880,
       "crew": 1,
       "type": "aircraft"
@@ -76831,7 +77146,8 @@
       "sb_sl_multiplyer": 6.36,
       "sl_price": 0,
       "reqRP": 11000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "craft_2019_spring",
       "cost_gold": 1000,
       "crew": 1,
       "type": "aircraft"
@@ -76959,7 +77275,8 @@
       "sb_sl_multiplyer": 2.82,
       "sl_price": 0,
       "reqRP": 7900,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "winter_2015",
       "cost_gold": 700,
       "crew": 1,
       "type": "aircraft"
@@ -77162,7 +77479,8 @@
       "sb_sl_multiplyer": 4.62,
       "sl_price": 0,
       "reqRP": 26000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "worldwar_road_to_the_west",
       "cost_gold": 1450,
       "crew": 2,
       "type": "aircraft"
@@ -77394,7 +77712,8 @@
       "sb_sl_multiplyer": 4.59,
       "sl_price": 0,
       "reqRP": 18000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "battlepass_season2",
       "cost_gold": 1300,
       "crew": 1,
       "type": "aircraft"
@@ -78166,7 +78485,8 @@
       "sb_sl_multiplyer": 5.81,
       "sl_price": 0,
       "reqRP": 71000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "winter_2020",
       "cost_gold": 6090,
       "crew": 1,
       "type": "aircraft"
@@ -78269,6 +78589,32 @@
       "reqRP": 270000,
       "prem_type": "false",
       "crew": 1,
+      "type": "aircraft"
+    },
+    {
+      "intname": "jaguar_e",
+      "wikiname": "Jaguar E",
+      "normal_type": "type_assault",
+      "country": "country_france",
+      "rank": 6,
+      "ab_br": "10.0",
+      "ab_realbr": 27,
+      "rb_br": "10.3",
+      "rb_realbr": 28,
+      "sb_br": "9.7",
+      "sb_realbr": 26,
+      "base_ab_repair": 3900,
+      "base_rb_repair": 9740,
+      "base_sb_repair": 17980,
+      "rp_multiplyer": 2.26,
+      "ab_sl_multiplyer": 0.98,
+      "rb_sl_multiplyer": 2.36,
+      "sb_sl_multiplyer": 6,
+      "sl_price": 740000,
+      "reqRP": 270000,
+      "prem_type": "false",
+      "hidden": true,
+      "crew": 2,
       "type": "aircraft"
     },
     {
@@ -78422,7 +78768,8 @@
       "sb_sl_multiplyer": 5.95,
       "sl_price": 0,
       "reqRP": 63000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "craft_2019_spring",
       "cost_gold": 4880,
       "crew": 2,
       "type": "aircraft"
@@ -78788,6 +79135,7 @@
       "sl_price": 1060000,
       "reqRP": 390000,
       "prem_type": "event",
+      "event": "craft_2022_spring",
       "crew": 1,
       "type": "aircraft"
     },
@@ -79091,7 +79439,8 @@
       "sb_sl_multiplyer": 1.69,
       "sl_price": 0,
       "reqRP": 4000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "winter_2017",
       "cost_gold": 400,
       "crew": 5,
       "type": "aircraft"
@@ -80142,6 +80491,7 @@
       "sl_price": 200000,
       "reqRP": 63000,
       "prem_type": "event",
+      "event": "summer_2017",
       "crew": 1,
       "type": "aircraft"
     },
@@ -80219,7 +80569,8 @@
       "sb_sl_multiplyer": 6.03,
       "sl_price": 0,
       "reqRP": 40000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "craft_2018_spring",
       "cost_gold": 1750,
       "crew": 1,
       "type": "aircraft"
@@ -81019,7 +81370,8 @@
       "sb_sl_multiplyer": 3.12,
       "sl_price": 0,
       "reqRP": 7900,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "winter_2019",
       "cost_gold": 700,
       "crew": 1,
       "type": "aircraft"
@@ -81380,7 +81732,8 @@
       "sb_sl_multiplyer": 1.21,
       "sl_price": 0,
       "reqRP": 4000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "chronicles_2016",
       "cost_gold": 400,
       "crew": 3,
       "type": "aircraft"
@@ -81538,7 +81891,8 @@
       "sb_sl_multiplyer": 3.56,
       "sl_price": 0,
       "reqRP": 9200,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "summer_2018_good_old",
       "cost_gold": 850,
       "crew": 1,
       "type": "aircraft"
@@ -81718,6 +82072,7 @@
       "sl_price": 310000,
       "reqRP": 110000,
       "prem_type": "event",
+      "event": "winter_2017",
       "crew": 1,
       "type": "aircraft"
     },
@@ -82473,6 +82828,7 @@
       "sl_price": 930000,
       "reqRP": 340000,
       "prem_type": "event",
+      "event": "winter_2021",
       "crew": 1,
       "type": "aircraft"
     },
@@ -82655,6 +83011,7 @@
       "sl_price": 1060000,
       "reqRP": 390000,
       "prem_type": "event",
+      "event": "winter_2022",
       "crew": 1,
       "type": "aircraft"
     },
@@ -83456,6 +83813,7 @@
       "sl_price": 0,
       "reqRP": 54000,
       "prem_type": "gold",
+      "event": "winter_2018",
       "cost_gold": 3850,
       "hidden": true,
       "crew": 1,
@@ -84073,7 +84431,8 @@
       "sb_sl_multiplyer": 4.6,
       "sl_price": 0,
       "reqRP": 18000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "battlepass_season3",
       "cost_gold": 1300,
       "crew": 1,
       "type": "aircraft"
@@ -84149,7 +84508,8 @@
       "sb_sl_multiplyer": 2.9,
       "sl_price": 0,
       "reqRP": 9200,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "winter_2018",
       "cost_gold": 850,
       "crew": 1,
       "type": "aircraft"
@@ -84353,7 +84713,8 @@
       "sb_sl_multiplyer": 5.02,
       "sl_price": 0,
       "reqRP": 11000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "summer_2017",
       "cost_gold": 1000,
       "crew": 1,
       "type": "aircraft"
@@ -84941,7 +85302,8 @@
       "sb_sl_multiplyer": 5.55,
       "sl_price": 0,
       "reqRP": 54000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "summer_2019",
       "cost_gold": 3850,
       "crew": 1,
       "type": "aircraft"
@@ -85150,6 +85512,7 @@
       "sl_price": 0,
       "reqRP": 46000,
       "prem_type": "gold",
+      "event": "winter_2016",
       "cost_gold": 2980,
       "hidden": true,
       "crew": 1,
@@ -85511,6 +85874,7 @@
       "sl_price": 0,
       "reqRP": 11000,
       "prem_type": "gold",
+      "event": "winter_2019_ship",
       "cost_gold": 1000,
       "hidden": true,
       "crew": 6,
@@ -85617,7 +85981,8 @@
       "sb_sl_multiplyer": 2.18,
       "sl_price": 0,
       "reqRP": 14000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "chronicles_2017",
       "cost_gold": 1150,
       "crew": 6,
       "type": "aircraft"
@@ -86035,6 +86400,34 @@
       "sl_price": 700,
       "reqRP": 2900,
       "prem_type": "false",
+      "hidden": true,
+      "crew": 2,
+      "type": "aircraft"
+    },
+    {
+      "intname": "po-2m",
+      "wikiname": "Po-2M",
+      "normal_type": "type_bomber",
+      "extended_type": ["type_hydroplane", "type_light_bomber"],
+      "country": "country_ussr",
+      "rank": 1,
+      "ab_br": "1.0",
+      "ab_realbr": 0,
+      "rb_br": "1.0",
+      "rb_realbr": 0,
+      "sb_br": "1.0",
+      "sb_realbr": 0,
+      "base_ab_repair": 130,
+      "base_rb_repair": 230,
+      "base_sb_repair": 280,
+      "rp_multiplyer": 1,
+      "ab_sl_multiplyer": 1.08,
+      "rb_sl_multiplyer": 2.01,
+      "sb_sl_multiplyer": 1.34,
+      "sl_price": 0,
+      "reqRP": 4000,
+      "prem_type": "store",
+      "cost_gold": 400,
       "hidden": true,
       "crew": 2,
       "type": "aircraft"
@@ -86575,7 +86968,8 @@
       "sb_sl_multiplyer": 5.45,
       "sl_price": 0,
       "reqRP": 11000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "winter_2021",
       "cost_gold": 1000,
       "crew": 1,
       "type": "aircraft"
@@ -89193,7 +89587,8 @@
       "sb_sl_multiplyer": 7,
       "sl_price": 0,
       "reqRP": 54000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "battlepass_season6",
       "cost_gold": 3850,
       "crew": 2,
       "type": "aircraft"
@@ -89587,7 +89982,8 @@
       "sb_sl_multiplyer": 4.76,
       "sl_price": 0,
       "reqRP": 18000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "winter_2020",
       "cost_gold": 1300,
       "crew": 2,
       "type": "aircraft"
@@ -89692,7 +90088,8 @@
       "sb_sl_multiplyer": 1.35,
       "sl_price": 0,
       "reqRP": 5900,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "chronicles_2018",
       "cost_gold": 550,
       "hidden": true,
       "crew": 2,
@@ -90391,7 +90788,8 @@
       "sb_sl_multiplyer": 1.91,
       "sl_price": 0,
       "reqRP": 7900,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "summer_2021",
       "cost_gold": 700,
       "hidden": true,
       "crew": 1,
@@ -90761,7 +91159,8 @@
       "sb_sl_multiplyer": 6.25,
       "sl_price": 0,
       "reqRP": 40000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "chronicles_2018",
       "cost_gold": 1750,
       "crew": 1,
       "type": "aircraft"
@@ -91414,6 +91813,7 @@
       "sl_price": 0,
       "reqRP": 46000,
       "prem_type": "gold",
+      "event": "chronicles_2017",
       "cost_gold": 2980,
       "hidden": true,
       "crew": 1,
@@ -91668,58 +92068,6 @@
       "reqRP": 82000,
       "prem_type": "false",
       "crew": 1,
-      "type": "aircraft"
-    },
-    {
-      "intname": "er-2_ach30b_early",
-      "wikiname": "Yer-2 (ACh-30B) (e)",
-      "normal_type": "type_bomber",
-      "extended_type": ["type_longrange_bomber"],
-      "country": "country_ussr",
-      "rank": 4,
-      "ab_br": "5.0",
-      "ab_realbr": 12,
-      "rb_br": "4.7",
-      "rb_realbr": 11,
-      "sb_br": "5.3",
-      "sb_realbr": 13,
-      "base_ab_repair": 1430,
-      "base_rb_repair": 4040,
-      "base_sb_repair": 7190,
-      "rp_multiplyer": 1.6,
-      "ab_sl_multiplyer": 0.91,
-      "rb_sl_multiplyer": 2.45,
-      "sb_sl_multiplyer": 6,
-      "sl_price": 170000,
-      "reqRP": 46000,
-      "prem_type": "false",
-      "crew": 5,
-      "type": "aircraft"
-    },
-    {
-      "intname": "er-2_ach30b_late",
-      "wikiname": "Yer-2 (ACh-30B) (l)",
-      "normal_type": "type_bomber",
-      "extended_type": ["type_longrange_bomber"],
-      "country": "country_ussr",
-      "rank": 4,
-      "ab_br": "5.0",
-      "ab_realbr": 12,
-      "rb_br": "4.7",
-      "rb_realbr": 11,
-      "sb_br": "5.7",
-      "sb_realbr": 14,
-      "base_ab_repair": 1830,
-      "base_rb_repair": 4000,
-      "base_sb_repair": 10200,
-      "rp_multiplyer": 1.66,
-      "ab_sl_multiplyer": 0.96,
-      "rb_sl_multiplyer": 3.25,
-      "sb_sl_multiplyer": 1.91,
-      "sl_price": 180000,
-      "reqRP": 54000,
-      "prem_type": "false",
-      "crew": 5,
       "type": "aircraft"
     }
   ],
@@ -92506,7 +92854,8 @@
       "sb_sl_multiplyer": 6.29,
       "sl_price": 0,
       "reqRP": 99000,
-      "prem_type": "store",
+      "prem_type": "event",
+      "event": "craft_2019_autumn",
       "cost_gold": 8380,
       "crew": 2,
       "type": "helicopter"

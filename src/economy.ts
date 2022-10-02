@@ -89,7 +89,7 @@ async function main() {
         wikiname: element.title,
       });
     } else {
-      console.log(element.title + element.pageid);
+      console.log(`no match for "${element.title}" pageid: ${element.pageid}`);
     }
   });
   vehicles.aircraft.forEach((element, i) => {
@@ -101,7 +101,7 @@ async function main() {
         wikiname: element.title,
       });
     } else {
-      console.log(element.title + element.pageid);
+      console.log(`no match for "${element.title}" pageid: ${element.pageid}`);
     }
   });
   vehicles.helicopter.forEach((element, i) => {
@@ -113,7 +113,7 @@ async function main() {
         wikiname: element.title,
       });
     } else {
-      console.log(element.title + element.pageid);
+      console.log(`no match for "${element.title}" pageid: ${element.pageid}`);
     }
   });
 
@@ -192,9 +192,14 @@ async function main() {
         type = "type_spaa";
         break;
     }
+
     if (economy[element.intname].costGold) {
       if (economy[element.intname].gift) {
-        prem = "store";
+        if (economy[element.intname].event) {
+          prem = "event";
+        } else {
+          prem = "store";
+        }
       } else {
         prem = "gold";
       }
@@ -350,6 +355,7 @@ async function main() {
       mass: vehicle.VehiclePhys.Mass.Empty + vehicle.VehiclePhys.Mass.Fuel,
       horsepower: vehicle.VehiclePhys.engine.horsePowers,
       prem_type: prem,
+      event: economy[element.intname].event ? economy[element.intname].event:undefined,
       cost_gold: economy[element.intname].costGold,
       hidden: economy[element.intname].showOnlyWhenBought ? true : undefined,
       crew: economy[element.intname].crewTotalCount,
@@ -425,9 +431,14 @@ async function main() {
     if (unitData[element.intname].tags.type_light_bomber) {
       ext_type.push("type_light_bomber");
     }
+
     if (economy[element.intname].costGold) {
       if (economy[element.intname].gift) {
-        prem = "store";
+        if (economy[element.intname].event) {
+          prem = "event";
+        } else {
+          prem = "store";
+        }
       } else {
         prem = "gold";
       }
@@ -464,6 +475,7 @@ async function main() {
       sl_price: economy[element.intname].value,
       reqRP: economy[element.intname].reqExp,
       prem_type: prem,
+      event: economy[element.intname].event ? economy[element.intname].event:undefined,
       cost_gold: economy[element.intname].costGold,
       hidden: economy[element.intname].showOnlyWhenBought ? true : undefined,
       crew: economy[element.intname].crewTotalCount,
@@ -490,9 +502,14 @@ async function main() {
         type = "type_utility_helicopter";
       }
     }
+
     if (economy[element.intname].costGold) {
       if (economy[element.intname].gift) {
-        prem = "store";
+        if (economy[element.intname].event) {
+          prem = "event";
+        } else {
+          prem = "store";
+        }
       } else {
         prem = "gold";
       }
@@ -529,6 +546,7 @@ async function main() {
       sl_price: economy[element.intname].value,
       reqRP: economy[element.intname].reqExp,
       prem_type: prem,
+      event: economy[element.intname].event ? economy[element.intname].event:undefined,
       cost_gold: economy[element.intname].costGold,
       hidden: economy[element.intname].showOnlyWhenBought ? true : undefined,
       crew: economy[element.intname].crewTotalCount,

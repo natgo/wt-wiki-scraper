@@ -1254,6 +1254,7 @@ export interface FinalProps {
   rb_sl_multiplyer: number;
   sb_sl_multiplyer: number;
   prem_type: string;
+  event?: string;
   cost_gold: number | undefined;
   hidden?: boolean;
 }

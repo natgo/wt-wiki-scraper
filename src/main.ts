@@ -1,7 +1,7 @@
 import axios, { AxiosResponse } from "axios";
 import decomment from "decomment";
 import fs from "fs";
-import { check, format } from "prettier";
+import { format } from "prettier";
 
 import { modernparse } from "./types";
 
@@ -115,50 +115,47 @@ async function getTechTree() {
 
   groundQuery.data.query.categorymembers.forEach(async (element) => {
     const response: parsedpage = await axios.get(parsequery + `&pageid=${element.pageid}`);
+    const out: modernparse = {
+      title: response.data.parse.title,
+      pageid: response.data.parse.pageid,
+    };
     fs.writeFileSync(
       `./techtree/ground/${encodeURIComponent(element.title)}.json`,
-      format(JSON.stringify(response.data.parse), { parser: "json" }),
+      format(JSON.stringify(out), { parser: "json" }),
+    );
+    fs.writeFileSync(
+      `./parsed/${encodeURIComponent(element.title)}.html`,
+      format(decomment(response.data.parse.text["*"]), { parser: "html" }),
     );
   });
   aircraftQuery.data.query.categorymembers.forEach(async (element) => {
     const response: parsedpage = await axios.get(parsequery + `&pageid=${element.pageid}`);
+    const out: modernparse = {
+      title: response.data.parse.title,
+      pageid: response.data.parse.pageid,
+    };
     fs.writeFileSync(
       `./techtree/aircraft/${encodeURIComponent(element.title)}.json`,
-      format(JSON.stringify(response.data.parse), { parser: "json" }),
+      format(JSON.stringify(out), { parser: "json" }),
+    );
+    fs.writeFileSync(
+      `./parsed/${encodeURIComponent(element.title)}.html`,
+      format(decomment(response.data.parse.text["*"]), { parser: "html" }),
     );
   });
   helicopterQuery.data.query.categorymembers.forEach(async (element) => {
     const response: parsedpage = await axios.get(parsequery + `&pageid=${element.pageid}`);
+    const out: modernparse = {
+      title: response.data.parse.title,
+      pageid: response.data.parse.pageid,
+    };
     fs.writeFileSync(
       `./techtree/helicopter/${encodeURIComponent(element.title)}.json`,
-      format(JSON.stringify(response.data.parse), { parser: "json" }),
+      format(JSON.stringify(out), { parser: "json" }),
     );
-  });
-}
-
-function transpile(techtree: { ground: string[]; aircraft: string[]; helicopter: string[] }) {
-  techtree.ground.forEach((element) => {
-    const parsed: savedparse = JSON.parse(element);
-    const vehicle = decomment(parsed.text["*"]);
     fs.writeFileSync(
-      `./parsed/${encodeURIComponent(parsed.title)}.html`,
-      format(vehicle, { parser: "html" }),
-    );
-  });
-  techtree.aircraft.forEach((element) => {
-    const parsed: savedparse = JSON.parse(element);
-    const vehicle = decomment(parsed.text["*"]);
-    fs.writeFileSync(
-      `./parsed/${encodeURIComponent(parsed.title)}.html`,
-      format(vehicle, { parser: "html" }),
-    );
-  });
-  techtree.helicopter.forEach((element) => {
-    const parsed: savedparse = JSON.parse(element);
-    const vehicle = decomment(parsed.text["*"]);
-    fs.writeFileSync(
-      `./parsed/${encodeURIComponent(parsed.title)}.html`,
-      format(vehicle, { parser: "html" }),
+      `./parsed/${encodeURIComponent(element.title)}.html`,
+      format(decomment(response.data.parse.text["*"]), { parser: "html" }),
     );
   });
 }
@@ -177,25 +174,5 @@ async function main() {
 
   getTechTree();
   console.info("Downloading Techtrees");
-
-  const techtree: { ground: string[]; aircraft: string[]; helicopter: string[] } = {
-    ground: [],
-    aircraft: [],
-    helicopter: [],
-  };
-  const groundTechtree = fs.readdirSync("./techtree/ground/");
-  groundTechtree.forEach((element) => {
-    techtree.ground.push(fs.readFileSync(`./techtree/ground/${element}`, "utf-8"));
-  });
-  const aircraftTechtree = fs.readdirSync("./techtree/aircraft/");
-  aircraftTechtree.forEach((element) => {
-    techtree.aircraft.push(fs.readFileSync(`./techtree/aircraft/${element}`, "utf-8"));
-  });
-  const helicopterTechtree = fs.readdirSync("./techtree/helicopter/");
-  helicopterTechtree.forEach((element) => {
-    techtree.helicopter.push(fs.readFileSync(`./techtree/helicopter/${element}`, "utf-8"));
-  });
-  transpile(techtree);
-
 }
 main();
