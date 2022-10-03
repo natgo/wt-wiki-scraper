@@ -3,7 +3,7 @@ lockfileVersion: 5.4
 specifiers:
   '@trivago/prettier-plugin-sort-imports': 3.3.0
   '@types/decomment': 0.9.2
-  '@types/node': 18.7.23
+  '@types/node': 18.8.0
   '@types/prettier': 2.7.1
   '@typescript-eslint/eslint-plugin': 5.38.1
   '@typescript-eslint/parser': 5.38.1
@@ -22,7 +22,7 @@ dependencies:
 devDependencies:
   '@trivago/prettier-plugin-sort-imports': 3.3.0_prettier@2.7.1
   '@types/decomment': 0.9.2
-  '@types/node': 18.7.23
+  '@types/node': 18.8.0
   '@types/prettier': 2.7.1
   '@typescript-eslint/eslint-plugin': 5.38.1_c7qepppml3d4ahu5cnfwqe6ltq
   '@typescript-eslint/parser': 5.38.1_ypn2ylkkyfa5i233caldtndbqa
@@ -395,8 +395,8 @@ packages:
     resolution: {integrity: sha512-wOuvG1SN4Us4rez+tylwwwCV1psiNVOkJeM3AUWUNWg/jDQY2+HE/444y5gc+jBmRqASOm2Oeh5c1axHobwRKQ==}
     dev: true
 
-  /@types/node/18.7.23:
-    resolution: {integrity: sha512-DWNcCHolDq0ZKGizjx2DZjR/PqsYwAcYUJmfMWqtVU2MBMG5Mo+xFZrhGId5r/O5HOuMPyQEcM6KUBp5lBZZBg==}
+  /@types/node/18.8.0:
+    resolution: {integrity: sha512-u+h43R6U8xXDt2vzUaVP3VwjjLyOJk6uEciZS8OSyziUQGOwmk+l+4drxcsDboHXwyTaqS1INebghmWMRxq3LA==}
     dev: true
 
   /@types/prettier/2.7.1:
