@@ -504,7 +504,7 @@ async function main() {
     if (vehicleUnit.tags.type_attack_helicopter) {
       type = "type_attack_helicopter";
       if (vehicleUnit.tags.type_utility_helicopter) {
-        ext_type.push("type_attack_helicopter", "type_utility_helicopter");
+        ext_type.push("type_utility_helicopter");
       }
     } else {
       if (vehicleUnit.tags.type_utility_helicopter) {
