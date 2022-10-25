@@ -2573,9 +2573,15 @@
       <td>No</td>
     </tr>
   </table>
-  <p><b>Note</b>:</p>
+  <p><b>Notes</b>:</p>
   <ul>
-    <li>Racks 6, 7 and 8 are first-stage ammo racks.</li>
+    <li>Shells are modeled individually and disappear after having been shot or loaded.</li>
+    <li>Racks 6,7 and 8 are first stage ammo racks and total 13 shells.</li>
+    <li>They get filled first when loading up the tank and emptied first when firing.</li>
+    <li>
+      Simply not firing when the gun is loaded will move ammo from racks 1 to 5 into rack 6, 7, and
+      8. Firing will interrupt the restocking of the ready rack.
+    </li>
   </ul>
   <h3>
     <span class="mw-headline" id="Machine_guns">Machine guns</span

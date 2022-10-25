@@ -13,6 +13,8 @@ import {
   TankWeapons,
   UnitData,
   modernparse,
+  Shop,
+  ShopItem,
 } from "./types";
 
 async function main() {
@@ -156,6 +158,13 @@ async function main() {
     fs.readFileSync("./War-Thunder-Datamine/lang.vromfs.bin_u/lang/units_weaponry.csv", "utf-8"),
   );
 
+  const shopData: Shop = JSON.parse(
+    fs.readFileSync(
+      "./War-Thunder-Datamine/char.vromfs.bin_u/config/shop.blkx",
+      "utf-8",
+    ),
+  );
+
   const final: Final = {
     updated: new Date(),
     ground: [],
@@ -171,6 +180,30 @@ async function main() {
     );
     const vehicleEconomy = economy[element.intname];
     const vehicleUnit = unitData[element.intname];
+
+    let marketplace: number| undefined;
+    shopData[vehicleEconomy.country].army.range.forEach(notelement => {
+      Object.entries(notelement).forEach(([key, value]) => {
+        if (value.image) {
+          Object.entries(value).forEach(([key, value]) => {
+            if (key === "image" || key === "reqAir") {
+              //
+            } else {
+              if (key === element.intname) {
+                const value2 = value as ShopItem;
+                marketplace = value2.marketplaceItemdefId;
+              }
+            }
+          });
+        } else {
+          if (key === element.intname) {
+            const value2 = value as ShopItem;
+            marketplace = value2.marketplaceItemdefId;
+          }
+        }
+        
+      });
+    });
 
     let prem = "false";
     let type = "";
@@ -201,7 +234,11 @@ async function main() {
         if (vehicleEconomy.event) {
           prem = "event";
         } else {
-          prem = "store";
+          if (marketplace) {
+            prem = "marketplace";
+          } else {
+            prem = "store";
+          }
         }
       } else {
         prem = "gold";
@@ -358,6 +395,7 @@ async function main() {
       mass: vehicleData.VehiclePhys.Mass.Empty + vehicleData.VehiclePhys.Mass.Fuel,
       horsepower: vehicleData.VehiclePhys.engine.horsePowers,
       prem_type: prem,
+      marketplace: marketplace,
       event: vehicleEconomy.event ? vehicleEconomy.event : undefined,
       cost_gold: vehicleEconomy.costGold,
       hidden: vehicleEconomy.showOnlyWhenBought ? true : undefined,
@@ -389,6 +427,28 @@ async function main() {
     );
     const vehicleEconomy = economy[element.intname];
     const vehicleUnit = unitData[element.intname];
+
+    let marketplace: number| undefined;
+    shopData[vehicleEconomy.country].aviation.range.forEach(notelement => {
+      Object.entries(notelement).forEach(([key, value]) => {
+        if (value.image) {
+          Object.entries(value).forEach(([key, value]) => {
+            if (key === "image" || key === "reqAir") {
+              //
+            } else {
+              if (key === element.intname) {
+                const value2 = value as ShopItem;
+                marketplace = value2.marketplaceItemdefId;
+              }
+            }
+          });
+        } else {
+          const value2 = value as ShopItem;
+          marketplace = value2.marketplaceItemdefId;
+        }
+        
+      });
+    });
 
     let prem = "false";
     let type = "";
@@ -443,7 +503,11 @@ async function main() {
         if (vehicleEconomy.event) {
           prem = "event";
         } else {
-          prem = "store";
+          if (marketplace) {
+            prem = "marketplace";
+          } else {
+            prem = "store";
+          }
         }
       } else {
         prem = "gold";
@@ -480,6 +544,7 @@ async function main() {
       sb_sl_multiplyer: vehicleEconomy.rewardMulSimulation,
       sl_price: vehicleEconomy.value,
       reqRP: vehicleEconomy.reqExp,
+      marketplace: marketplace,
       prem_type: prem,
       event: vehicleEconomy.event ? vehicleEconomy.event : undefined,
       cost_gold: vehicleEconomy.costGold,
@@ -497,6 +562,28 @@ async function main() {
     );
     const vehicleEconomy = economy[element.intname];
     const vehicleUnit = unitData[element.intname];
+
+    let marketplace: number| undefined;
+    shopData[vehicleEconomy.country].helicopters.range.forEach(notelement => {
+      Object.entries(notelement).forEach(([key, value]) => {
+        if (value.image) {
+          Object.entries(value).forEach(([key, value]) => {
+            if (key === "image" || key === "reqAir") {
+              //
+            } else {
+              if (key === element.intname) {
+                const value2 = value as ShopItem;
+                marketplace = value2.marketplaceItemdefId;
+              }
+            }
+          });
+        } else {
+          const value2 = value as ShopItem;
+          marketplace = value2.marketplaceItemdefId;
+        }
+        
+      });
+    });
 
     let prem = "false";
     let type = "";
@@ -517,7 +604,11 @@ async function main() {
         if (vehicleEconomy.event) {
           prem = "event";
         } else {
-          prem = "store";
+          if (marketplace) {
+            prem = "marketplace";
+          } else {
+            prem = "store";
+          }
         }
       } else {
         prem = "gold";
@@ -555,6 +646,7 @@ async function main() {
       sl_price: vehicleEconomy.value,
       reqRP: vehicleEconomy.reqExp,
       prem_type: prem,
+      marketplace: marketplace,
       event: vehicleEconomy.event ? vehicleEconomy.event : undefined,
       cost_gold: vehicleEconomy.costGold,
       hidden: vehicleEconomy.showOnlyWhenBought ? true : undefined,

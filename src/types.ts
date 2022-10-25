@@ -33,7 +33,7 @@ export interface Economy {
   economicRankArcade: number;
   economicRankHistorical: number;
   economicRankSimulation: number;
-  country: string;
+  country: VehicleCountry;
   unitClass: string;
   spawnType: string;
   unitMoveType: string;
@@ -62,6 +62,20 @@ export interface Economy {
   modifications: Record<string, unknown>;
   spare: Spare;
 }
+
+export enum VehicleCountry {
+  country_usa = "country_usa",
+  country_germany = "country_germany",
+  country_ussr = "country_ussr",
+  country_britain = "country_britain",
+  country_japan = "country_japan",
+  country_china = "country_china",
+  country_italy = "country_italy",
+  country_france = "country_france",
+  country_sweden = "country_sweden",
+  country_israel = "country_israel",
+}
+
 export interface Spare {
   value: number;
   costGold: number;
@@ -931,11 +945,11 @@ export interface UnitData {
   releaseDate: Date;
   info: Info;
   tags: Tags;
-  Shop?: Shop;
+  Shop?: UnitShop;
   operatorCountry?: string;
 }
 
-export interface Shop {
+export interface UnitShop {
   maxAltitude?: number;
   maxSpeed?: number;
   turnTime?: number;
@@ -1208,6 +1222,52 @@ export interface Visual {
   trail: string;
 }
 
+export interface Shop {
+  country_usa:     ShopCountry;
+  country_germany: ShopCountry;
+  country_ussr:    ShopCountry;
+  country_britain: ShopCountry;
+  country_japan:   ShopCountry;
+  country_china:   ShopCountry;
+  country_italy:   ShopCountry;
+  country_france:  ShopCountry;
+  country_sweden:  ShopCountry;
+  country_israel:  ShopCountry;
+}
+
+export interface ShopCountry {
+  army: ShopRange;
+  helicopters: ShopRange;
+  aviation: ShopRange;
+  ships?: ShopRange;
+  boats?: ShopRange;
+}
+
+export interface ShopRange {
+  range: Record<string, ShopItem | ShopGroup>[];
+}
+
+export interface ShopItem {
+  rank: number;
+  reqAir?: "" | string;
+  gift?:"msi_notebook";
+  showOnlyWhenBought?:true;
+  marketplaceItemdefId?: number;
+  hideFeature?: "!Marketplace";
+  event?: string;
+  reqFeature?: "ClanVehicles";
+  isClanVehicle?: true;
+  showByPlatform?:string;
+  hideByPlatform?: string;
+}
+
+export type ShopGroup = {
+  image: string;
+  reqAir?: ""|string;
+} & {
+  [key: string]: ShopItem;
+}
+
 //custom
 export interface savedparse {
   title: string;
@@ -1258,6 +1318,7 @@ export interface FinalProps {
   event?: string;
   cost_gold?: number;
   hidden?: boolean;
+  marketplace?:number;
 }
 
 export interface GroundProps extends FinalProps {
