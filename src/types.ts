@@ -1223,16 +1223,16 @@ export interface Visual {
 }
 
 export interface Shop {
-  country_usa:     ShopCountry;
+  country_usa: ShopCountry;
   country_germany: ShopCountry;
-  country_ussr:    ShopCountry;
+  country_ussr: ShopCountry;
   country_britain: ShopCountry;
-  country_japan:   ShopCountry;
-  country_china:   ShopCountry;
-  country_italy:   ShopCountry;
-  country_france:  ShopCountry;
-  country_sweden:  ShopCountry;
-  country_israel:  ShopCountry;
+  country_japan: ShopCountry;
+  country_china: ShopCountry;
+  country_italy: ShopCountry;
+  country_france: ShopCountry;
+  country_sweden: ShopCountry;
+  country_israel: ShopCountry;
 }
 
 export interface ShopCountry {
@@ -1250,23 +1250,23 @@ export interface ShopRange {
 export interface ShopItem {
   rank: number;
   reqAir?: "" | string;
-  gift?:"msi_notebook";
-  showOnlyWhenBought?:true;
+  gift?: "msi_notebook";
+  showOnlyWhenBought?: true;
   marketplaceItemdefId?: number;
   hideFeature?: "!Marketplace";
   event?: string;
   reqFeature?: "ClanVehicles";
   isClanVehicle?: true;
-  showByPlatform?:string;
+  showByPlatform?: string;
   hideByPlatform?: string;
 }
 
 export type ShopGroup = {
   image: string;
-  reqAir?: ""|string;
+  reqAir?: "" | string;
 } & {
   [key: string]: ShopItem;
-}
+};
 
 //custom
 export interface savedparse {
@@ -1318,7 +1318,7 @@ export interface FinalProps {
   event?: string;
   cost_gold?: number;
   hidden?: boolean;
-  marketplace?:number;
+  marketplace?: number;
 }
 
 export interface GroundProps extends FinalProps {

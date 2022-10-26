@@ -9,12 +9,12 @@ import {
   Final,
   GroundVehicle,
   NightVision,
+  Shop,
+  ShopItem,
   Sights,
   TankWeapons,
   UnitData,
   modernparse,
-  Shop,
-  ShopItem,
 } from "./types";
 
 async function main() {
@@ -159,10 +159,7 @@ async function main() {
   );
 
   const shopData: Shop = JSON.parse(
-    fs.readFileSync(
-      "./War-Thunder-Datamine/char.vromfs.bin_u/config/shop.blkx",
-      "utf-8",
-    ),
+    fs.readFileSync("./War-Thunder-Datamine/char.vromfs.bin_u/config/shop.blkx", "utf-8"),
   );
 
   const final: Final = {
@@ -181,8 +178,8 @@ async function main() {
     const vehicleEconomy = economy[element.intname];
     const vehicleUnit = unitData[element.intname];
 
-    let marketplace: number| undefined;
-    shopData[vehicleEconomy.country].army.range.forEach(notelement => {
+    let marketplace: number | undefined;
+    shopData[vehicleEconomy.country].army.range.forEach((notelement) => {
       Object.entries(notelement).forEach(([key, value]) => {
         if (value.image) {
           Object.entries(value).forEach(([key, value]) => {
@@ -201,7 +198,6 @@ async function main() {
             marketplace = value2.marketplaceItemdefId;
           }
         }
-        
       });
     });
 
@@ -436,8 +432,8 @@ async function main() {
     const vehicleEconomy = economy[element.intname];
     const vehicleUnit = unitData[element.intname];
 
-    let marketplace: number| undefined;
-    shopData[vehicleEconomy.country].aviation.range.forEach(notelement => {
+    let marketplace: number | undefined;
+    shopData[vehicleEconomy.country].aviation.range.forEach((notelement) => {
       Object.entries(notelement).forEach(([key, value]) => {
         if (value.image) {
           Object.entries(value).forEach(([key, value]) => {
@@ -454,7 +450,6 @@ async function main() {
           const value2 = value as ShopItem;
           marketplace = value2.marketplaceItemdefId;
         }
-        
       });
     });
 
@@ -571,8 +566,8 @@ async function main() {
     const vehicleEconomy = economy[element.intname];
     const vehicleUnit = unitData[element.intname];
 
-    let marketplace: number| undefined;
-    shopData[vehicleEconomy.country].helicopters.range.forEach(notelement => {
+    let marketplace: number | undefined;
+    shopData[vehicleEconomy.country].helicopters.range.forEach((notelement) => {
       Object.entries(notelement).forEach(([key, value]) => {
         if (value.image) {
           Object.entries(value).forEach(([key, value]) => {
@@ -589,7 +584,6 @@ async function main() {
           const value2 = value as ShopItem;
           marketplace = value2.marketplaceItemdefId;
         }
-        
       });
     });
 
