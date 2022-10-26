@@ -1,5 +1,5 @@
 {
-  "updated": "2022-10-25T20:26:53.476Z",
+  "updated": "2022-10-25T23:09:42.635Z",
   "ground": [
     {
       "intname": "us_m18_hellcat_black_cat_race",
@@ -56100,6 +56100,7 @@
       "has_dozer": true,
       "has_smoke": true,
       "has_ess": true,
+      "has_lws": true,
       "has_era": true,
       "has_composite": true,
       "optics": {
@@ -56204,6 +56205,7 @@
       "has_dozer": true,
       "has_smoke": true,
       "has_ess": true,
+      "has_lws": true,
       "has_era": true,
       "has_composite": true,
       "optics": {

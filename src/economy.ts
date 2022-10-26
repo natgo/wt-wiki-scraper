@@ -334,6 +334,14 @@ async function main() {
       laser = true;
     }
 
+    let lws = false;
+    if (
+      vehicleData.modifications.laser_rangefinder_ircm_lws_t_90a ||
+      vehicleData.modifications.laser_rangefinder_lws
+    ) {
+      lws = true;
+    }
+
     const sights: Sights = {
       gunner: {
         zoomInFov: vehicleData.cockpit.zoomInFov,
@@ -410,7 +418,7 @@ async function main() {
       has_dozer: vehicleData.modifications.tank_bulldozer_blade ? true : undefined,
       has_smoke: vehicleData.modifications.tank_smoke_screen_system_mod ? true : undefined,
       has_ess: vehicleData.modifications.tank_engine_smoke_screen_system ? true : undefined,
-      has_lws: vehicleData.modifications.laser_rangefinder_lws ? true : undefined,
+      has_lws: lws ? true : undefined,
       has_era: era ? true : undefined,
       has_composite: composite ? true : undefined,
       laser_range: laser ? true : undefined,
