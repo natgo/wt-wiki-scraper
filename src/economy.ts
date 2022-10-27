@@ -453,8 +453,10 @@ async function main() {
             }
           });
         } else {
-          const value2 = value as ShopItem;
-          marketplace = value2.marketplaceItemdefId;
+          if (key === element.intname) {
+            const value2 = value as ShopItem;
+            marketplace = value2.marketplaceItemdefId;
+          }
         }
       });
     });
@@ -587,8 +589,10 @@ async function main() {
             }
           });
         } else {
-          const value2 = value as ShopItem;
-          marketplace = value2.marketplaceItemdefId;
+          if (key === element.intname) {
+            const value2 = value as ShopItem;
+            marketplace = value2.marketplaceItemdefId;
+          }
         }
       });
     });

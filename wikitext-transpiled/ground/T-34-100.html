@@ -1344,20 +1344,20 @@
     >
   </h4>
   <div class="thumb tright">
-    <div class="thumbinner" style="width: 255px">
+    <div class="thumbinner" style="width: 295px">
       <a href="/File:Ammoracks_T-34-100.png" class="image"
         ><img
           alt=""
-          src="/images/thumb/c/c1/Ammoracks_T-34-100.png/253px-Ammoracks_T-34-100.png"
-          width="253"
+          src="/images/thumb/c/c1/Ammoracks_T-34-100.png/293px-Ammoracks_T-34-100.png"
+          width="293"
           height="250"
           class="thumbimage"
           srcset="
-            /images/thumb/c/c1/Ammoracks_T-34-100.png/379px-Ammoracks_T-34-100.png 1.5x,
-            /images/thumb/c/c1/Ammoracks_T-34-100.png/505px-Ammoracks_T-34-100.png 2x
+            /images/thumb/c/c1/Ammoracks_T-34-100.png/440px-Ammoracks_T-34-100.png 1.5x,
+            /images/thumb/c/c1/Ammoracks_T-34-100.png/587px-Ammoracks_T-34-100.png 2x
           "
-          data-file-width="797"
-          data-file-height="789"
+          data-file-width="744"
+          data-file-height="634"
       /></a>
       <div class="thumbcaption">
         <div class="magnify">
@@ -1372,18 +1372,42 @@
       <th>Full<br />ammo</th>
       <th>1st<br />rack empty</th>
       <th>2nd<br />rack empty</th>
+      <th>3rd<br />rack empty</th>
+      <th>4th<br />rack empty</th>
+      <th>5th<br />rack empty</th>
+      <th>6th<br />rack empty</th>
       <th>Visual<br />discrepancy</th>
     </tr>
     <tr>
       <td><b>50</b></td>
-      <td>38&#160;<i>(+12)</i></td>
+      <td>47&#160;<i>(+3)</i></td>
+      <td>37&#160;<i>(+13)</i></td>
+      <td>27&#160;<i>(+23)</i></td>
+      <td>17&#160;<i>(+33)</i></td>
+      <td>7&#160;<i>(+43)</i></td>
       <td>1&#160;<i>(+49)</i></td>
-      <td>Yes</td>
+      <td>No</td>
     </tr>
   </table>
-  <p><b>Note</b>:</p>
+  <p><b>Notes</b>:</p>
   <ul>
-    <li>Turret empty: 38&#160;<i>(+12)</i> shells.</li>
+    <li>Shells are modeled individually and disappear after having been shot or loaded.</li>
+    <li>
+      Rack 6 is a first stage ammo rack. It totals 6 shells and gets filled first when loading up
+      the tank.
+    </li>
+    <li>
+      This rack is also emptied early: the rack depletion order at full capacity is: 6 - 1 - 2 -
+      etc. until 5.
+    </li>
+    <li>
+      Full reload speed will be realized as long as shells are available in the ready rack 6. If the
+      ready rack is empty, a penalty to reload speed will occur.
+    </li>
+    <li>
+      Simply not firing when the gun is loaded will move ammo from racks 1-5 into rack 6. Firing
+      will interrupt the restocking of the ready rack.
+    </li>
   </ul>
   <h3>
     <span class="mw-headline" id="Machine_guns">Machine guns</span
@@ -2480,7 +2504,7 @@
         ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/T-126" title="T-126">T-126</a
         ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/PT-76-57" title="PT-76-57"
           >PT-76-57</a
-        >
+        ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/2S38" title="2S38">2S38</a>
       </td>
     </tr>
     <tr>
