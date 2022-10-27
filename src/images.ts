@@ -96,7 +96,7 @@ async function main() {
         return value.title.match(new RegExp("File:GarageImage.*.jpg|File:GarageImage.*.png", "gi"));
       });
       if (!match) {
-        console.log(`no match ${element[1].title}`);
+        console.log(`no match for ${element[1].title}`);
         console.log(images);
       } else {
         const download: imageinforesponse = await axios.get(
@@ -108,6 +108,8 @@ async function main() {
             https.get(downloadlink, function (res: { pipe: (arg0: fs.WriteStream) => void }) {
               res.pipe(fs.createWriteStream(`./garageimages/${element[1].title}`));
             });
+          } else {
+            console.log(`no image for ${element[1].title}`);
           }
         });
       }
@@ -124,7 +126,7 @@ async function main() {
         return value.title.match(new RegExp("File:GarageImage.*.jpg|File:GarageImage.*.png", "gi"));
       });
       if (!match) {
-        console.log(`no match ${element[1].title}`);
+        console.log(`no match for ${element[1].title}`);
         console.log(images);
       } else {
         const download: imageinforesponse = await axios.get(
@@ -136,6 +138,8 @@ async function main() {
             https.get(downloadlink, function (res: { pipe: (arg0: fs.WriteStream) => void }) {
               res.pipe(fs.createWriteStream(`./garageimages/${element[1].title}`));
             });
+          } else {
+            console.log(`no image for ${element[1].title}`);
           }
         });
       }
