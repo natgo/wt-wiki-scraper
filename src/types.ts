@@ -143,6 +143,7 @@ export interface CommonGroundWeapons {
 }
 
 export interface WeaponGround {
+  dummy: boolean;
   trigger: string;
   blk: string;
   emitter: string;

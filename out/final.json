@@ -1,5 +1,5 @@
 {
-  "updated": "2022-10-25T23:09:42.635Z",
+  "updated": "2022-10-26T06:40:10.811Z",
   "ground": [
     {
       "intname": "us_m18_hellcat_black_cat_race",
@@ -20098,6 +20098,30 @@
             "horizonalLimit": [-90, 90],
             "verticalLimit": [-10, 20],
             "caliber": null
+          },
+          {
+            "intname": "152mm_9M123_launcher_user_cannon",
+            "name": "9M123 ATGM",
+            "ammo": 16,
+            "shells": [
+              {
+                "modname": "152mm_9M123_ATGM",
+                "name": "9M123",
+                "intname": "152mm_9m123"
+              },
+              {
+                "modname": "152mm_9M123F_ATGM",
+                "name": "9M123F",
+                "intname": "152mm_9m123f"
+              }
+            ],
+            "horizonalSpeed": 40,
+            "verticalSpeed": 25,
+            "horizonalLimit": [-85, 85],
+            "verticalLimit": [-5, 15],
+            "autoloader": true,
+            "shotFreq": 1,
+            "caliber": 152
           }
         ],
         "machineGun": []
@@ -33543,6 +33567,30 @@
             "horizonalLimit": [-180, 180],
             "verticalLimit": [-10, 10],
             "caliber": null
+          },
+          {
+            "intname": "136mm_mephisto_launcher_user_cannon",
+            "name": "HOT ATGM",
+            "ammo": 12,
+            "shells": [
+              {
+                "modname": "136mm_HOT_ATGM",
+                "name": "HOT",
+                "intname": "136mm_k3s_hot"
+              },
+              {
+                "modname": "150mm_HOT_2_ATGM",
+                "name": "HOT-2",
+                "intname": "150mm_k3s_hot_2"
+              }
+            ],
+            "horizonalSpeed": 30,
+            "verticalSpeed": 5,
+            "horizonalLimit": [-180, 180],
+            "verticalLimit": [-10, 10],
+            "autoloader": true,
+            "shotFreq": 1,
+            "caliber": 136
           }
         ],
         "machineGun": []
@@ -43145,6 +43193,18 @@
             "horizonalLimit": [-90, 90],
             "verticalLimit": [-10, 20],
             "caliber": null
+          },
+          {
+            "intname": "136mm_k3s_hot_rocket_launcher",
+            "name": "HOT-K3S ATGM",
+            "ammo": 20,
+            "horizonalSpeed": 25,
+            "verticalSpeed": 25,
+            "horizonalLimit": [-15, 15],
+            "verticalLimit": [-5, 10],
+            "autoloader": true,
+            "shotFreq": 0.0833,
+            "caliber": 136
           }
         ],
         "machineGun": []
@@ -43194,6 +43254,28 @@
             "horizonalLimit": [-90, 90],
             "verticalLimit": [-10, 20],
             "caliber": null
+          },
+          {
+            "intname": "164mm_lfk_ss11_rocket_launcher",
+            "name": "LFK SS.11 ATGM",
+            "ammo": 7,
+            "horizonalSpeed": 25,
+            "verticalSpeed": 25,
+            "horizonalLimit": [-10, 90],
+            "verticalLimit": [-10, 20],
+            "shotFreq": 0.05,
+            "caliber": 164
+          },
+          {
+            "intname": "164mm_lfk_ss11_rocket_launcher",
+            "name": "LFK SS.11 ATGM",
+            "ammo": 7,
+            "horizonalSpeed": 25,
+            "verticalSpeed": 25,
+            "horizonalLimit": [-90, 10],
+            "verticalLimit": [-10, 20],
+            "shotFreq": 0.05,
+            "caliber": 164
           }
         ],
         "machineGun": []
@@ -47986,6 +48068,40 @@
             "horizonalLimit": [-90, 90],
             "verticalLimit": [-10, 20],
             "caliber": null
+          },
+          {
+            "intname": "130mm_9M114_launcher_user_cannon",
+            "name": "9M114 ATGM",
+            "ammo": 12,
+            "shells": [
+              {
+                "modname": "130mm_9m114_ATGM",
+                "name": "9M114",
+                "intname": "130mm_9m114"
+              },
+              {
+                "modname": "130mm_9m120_ATGM",
+                "name": "9M120",
+                "intname": "130mm_9m120"
+              },
+              {
+                "modname": "130mm_9m120f_1_ATGM",
+                "name": "9M120F-1",
+                "intname": "130mm_9m120f_1"
+              },
+              {
+                "modname": "130mm_9m220o_ATGM",
+                "name": "9M220O",
+                "intname": "130mm_9m220o"
+              }
+            ],
+            "horizonalSpeed": 25,
+            "verticalSpeed": 25,
+            "horizonalLimit": [-85, 85],
+            "verticalLimit": [-5, 15],
+            "autoloader": true,
+            "shotFreq": 0.12,
+            "caliber": 130
           }
         ],
         "machineGun": []
@@ -48492,6 +48608,24 @@
       "weapons": {
         "cannon": [
           {
+            "intname": "130mm_Starstreak_hvm_launcher_user_cannon",
+            "name": "Starstreak HVM SAM",
+            "ammo": 16,
+            "shells": [
+              {
+                "modname": "130mm_starstreak_aam",
+                "name": "Starstreak HVM",
+                "intname": "130mm_starstreak_hvm"
+              }
+            ],
+            "horizonalSpeed": 70,
+            "verticalSpeed": 60,
+            "horizonalLimit": [-180, 180],
+            "verticalLimit": [-10, 60],
+            "shotFreq": 1,
+            "caliber": 130
+          },
+          {
             "intname": "dummy_weapon",
             "name": "",
             "ammo": 1,
@@ -48820,16 +48954,6 @@
       },
       "weapons": {
         "cannon": [
-          {
-            "intname": "dummy_weapon",
-            "name": "",
-            "ammo": 1,
-            "horizonalSpeed": 60,
-            "verticalSpeed": 60,
-            "horizonalLimit": [-50, 130],
-            "verticalLimit": [-10, 20],
-            "caliber": null
-          },
           {
             "intname": "170mm_BAe_Swingfire_launcher_user_cannon",
             "name": "BAe Swingfire ATGM",
@@ -51334,6 +51458,28 @@
             "horizonalLimit": [-90, 90],
             "verticalLimit": [-10, 20],
             "caliber": null
+          },
+          {
+            "intname": "170mm_bae_swingfire_rocket_launcher",
+            "name": "BAe Swingfire ATGM",
+            "ammo": 7,
+            "horizonalSpeed": 15,
+            "verticalSpeed": 25,
+            "horizonalLimit": [0, 0],
+            "verticalLimit": [0, 0],
+            "shotFreq": 0.05,
+            "caliber": 170
+          },
+          {
+            "intname": "170mm_bae_swingfire_rocket_launcher",
+            "name": "BAe Swingfire ATGM",
+            "ammo": 7,
+            "horizonalSpeed": 15,
+            "verticalSpeed": 25,
+            "horizonalLimit": [0, 0],
+            "verticalLimit": [0, 0],
+            "shotFreq": 0.05,
+            "caliber": 170
           }
         ],
         "machineGun": []
@@ -59414,14 +59560,26 @@
       "weapons": {
         "cannon": [
           {
-            "intname": "dummy_weapon",
-            "name": "",
-            "ammo": 1,
+            "intname": "120mm_Type_64_MAT_rocket_launcher",
+            "name": "Type 64 MAT ATGM",
+            "ammo": 3,
             "horizonalSpeed": 25,
             "verticalSpeed": 25,
-            "horizonalLimit": [-10, 10],
-            "verticalLimit": [-10, 20],
-            "caliber": null
+            "horizonalLimit": [0, 0],
+            "verticalLimit": [0, 0],
+            "shotFreq": 0.05,
+            "caliber": 120
+          },
+          {
+            "intname": "120mm_Type_64_MAT_rocket_launcher",
+            "name": "Type 64 MAT ATGM",
+            "ammo": 3,
+            "horizonalSpeed": 25,
+            "verticalSpeed": 25,
+            "horizonalLimit": [0, 0],
+            "verticalLimit": [0, 0],
+            "shotFreq": 0.05,
+            "caliber": 120
           }
         ],
         "machineGun": []
@@ -63776,6 +63934,16 @@
             "autoloader": true,
             "shotFreq": 0.16666,
             "caliber": 152
+          },
+          {
+            "intname": "dummy_weapon",
+            "name": "",
+            "ammo": 1,
+            "horizonalSpeed": 45,
+            "verticalSpeed": 45,
+            "horizonalLimit": [-45, 45],
+            "verticalLimit": [0, 0],
+            "caliber": null
           }
         ],
         "machineGun": []
@@ -65985,16 +66153,6 @@
       "optics": { "gunner": { "zoomInFov": 9.21, "zoomOutFov": 10.21 } },
       "weapons": {
         "cannon": [
-          {
-            "intname": "dummy_weapon",
-            "name": "",
-            "ammo": 1,
-            "horizonalSpeed": 25,
-            "verticalSpeed": 25,
-            "horizonalLimit": [-10, 10],
-            "verticalLimit": [-10, 20],
-            "caliber": null
-          },
           {
             "intname": "164mm_lfk_ss11_rocket_launcher_user_cannon",
             "name": "Tager ATGM",

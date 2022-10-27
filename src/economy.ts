@@ -181,7 +181,7 @@ async function main() {
     let marketplace: number | undefined;
     shopData[vehicleEconomy.country].army.range.forEach((notelement) => {
       Object.entries(notelement).forEach(([key, value]) => {
-        if (value.image) {
+        if ("image" in value) {
           Object.entries(value).forEach(([key, value]) => {
             if (key === "image" || key === "reqAir") {
               //
@@ -309,13 +309,19 @@ async function main() {
 
     if (Array.isArray(vehicleData.commonWeapons.Weapon)) {
       vehicleData.commonWeapons.Weapon.forEach((element) => {
-        if (element.trigger === "gunner0" || element.triggerGroup === "secondary") {
-          weapons.cannon?.push(CWToCannon(element, bullets, weaponry_lang));
+        if (element.trigger === "gunner0" || element.triggerGroup === "primary" || element.triggerGroup === "secondary") {
+          if (element.dummy) {
+            if (element.emitter=== "bone_gun_01") {
+              weapons.cannon?.push(CWToCannon(element, bullets, weaponry_lang));
+            }
+          } else {
+            weapons.cannon?.push(CWToCannon(element, bullets, weaponry_lang));
+          }
         }
       });
     } else {
       const Weapon = vehicleData.commonWeapons.Weapon;
-      if (Weapon.trigger === "gunner0" || Weapon.triggerGroup === "secondary") {
+      if (Weapon.trigger === "gunner0" || Weapon.triggerGroup === "primary" || Weapon.triggerGroup === "secondary") {
         weapons.cannon?.push(CWToCannon(Weapon, bullets, weaponry_lang));
       }
     }
@@ -435,7 +441,7 @@ async function main() {
     let marketplace: number | undefined;
     shopData[vehicleEconomy.country].aviation.range.forEach((notelement) => {
       Object.entries(notelement).forEach(([key, value]) => {
-        if (value.image) {
+        if ("image" in value) {
           Object.entries(value).forEach(([key, value]) => {
             if (key === "image" || key === "reqAir") {
               //
@@ -569,7 +575,7 @@ async function main() {
     let marketplace: number | undefined;
     shopData[vehicleEconomy.country].helicopters.range.forEach((notelement) => {
       Object.entries(notelement).forEach(([key, value]) => {
-        if (value.image) {
+        if ("image" in value) {
           Object.entries(value).forEach(([key, value]) => {
             if (key === "image" || key === "reqAir") {
               //

@@ -9,11 +9,11 @@ export function CWToCannon(
 ) {
   const name = Weapon.blk.split("/")[Weapon.blk.split("/").length - 1].replace(/\.blk/g, "");
   let weapon_data: Weapon;
-  let nimi = "";
+  let enName = "";
 
   langdata.forEach((langelement) => {
     if (langelement.ID === "weapons/" + name) {
-      nimi = langelement.English;
+      enName = langelement.English;
     }
   });
 
@@ -163,7 +163,7 @@ export function CWToCannon(
 
   const cannon: TankCannon = {
     intname: name,
-    name: nimi,
+    name: enName,
     secondary: Weapon.triggerGroup === "secondary" ? true : undefined,
     ammo: Weapon.bullets ? Weapon.bullets : 0,
     shells: shells.length > 0 ? shells : undefined,
