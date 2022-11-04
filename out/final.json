@@ -1,5 +1,5 @@
 {
-  "updated": "2022-11-04T14:27:47.569Z",
+  "updated": "2022-11-04T15:03:10.049Z",
   "ground": [
     {
       "intname": "us_m18_hellcat_black_cat_race",
@@ -252,7 +252,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_ess": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -362,7 +362,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_ess": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -464,7 +464,7 @@
       "has_smoke": true,
       "has_ess": true,
       "has_lws": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.84,
@@ -1247,6 +1247,7 @@
       "gears_forward": 8,
       "gears_backward": 2,
       "type": "tank",
+      "has_range": true,
       "optics": { "gunner": { "zoomInFov": 18.49, "zoomOutFov": 19.49 } },
       "weapons": {
         "cannon": [
@@ -1922,7 +1923,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -1993,7 +1994,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_ess": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -2334,7 +2335,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -2826,7 +2827,7 @@
       "can_float": true,
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -3644,7 +3645,7 @@
       "has_synchro": true,
       "has_smoke": true,
       "has_ess": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": { "zoomInFov": 9.8, "zoomOutFov": 10.8 },
         "commander": { "zoomInFov": 9.21, "zoomOutFov": 37.5 }
@@ -3780,7 +3781,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -3962,7 +3963,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_era": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -4058,7 +4059,7 @@
       "has_synchro": true,
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -4156,7 +4157,7 @@
       "has_smoke": true,
       "has_ess": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.3,
@@ -4244,7 +4245,7 @@
       "has_smoke": true,
       "has_ess": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.3,
@@ -4986,6 +4987,7 @@
       "gears_backward": 1,
       "type": "tank",
       "has_smoke": true,
+      "has_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 18.5,
@@ -5508,7 +5510,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.141,
@@ -5600,7 +5602,7 @@
       "has_smoke": true,
       "has_lws": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.141,
@@ -5687,7 +5689,7 @@
       "has_smoke": true,
       "has_lws": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.141,
@@ -6175,7 +6177,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_ess": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -6530,7 +6532,7 @@
       "can_float": true,
       "has_smoke": true,
       "has_ess": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -6676,7 +6678,7 @@
       "has_dozer": true,
       "has_smoke": true,
       "has_ess": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -7443,7 +7445,7 @@
       "gears_backward": 4,
       "type": "tank",
       "has_neutral": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -7674,7 +7676,7 @@
       "has_ess": true,
       "has_lws": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -8146,7 +8148,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -8459,7 +8461,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -8556,7 +8558,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_era": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -8728,7 +8730,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_lws": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -8825,7 +8827,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_lws": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.02,
@@ -9117,7 +9119,7 @@
       "type": "tank",
       "has_lws": true,
       "has_era": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.141,
@@ -9213,7 +9215,7 @@
       "type": "tank",
       "has_smoke": true,
       "has_lws": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.141,
@@ -9310,7 +9312,7 @@
       "has_smoke": true,
       "has_lws": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.141,
@@ -9872,7 +9874,7 @@
       "has_ess": true,
       "has_era": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -9975,7 +9977,7 @@
       "has_ess": true,
       "has_era": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -10078,7 +10080,7 @@
       "has_ess": true,
       "has_era": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -10180,7 +10182,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_ess": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -10276,7 +10278,7 @@
       "has_neutral": true,
       "has_dozer": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -10373,7 +10375,7 @@
       "has_smoke": true,
       "has_ess": true,
       "has_era": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -11745,7 +11747,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -11846,6 +11848,7 @@
       "has_neutral": true,
       "has_dozer": true,
       "has_smoke": true,
+      "has_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.2,
@@ -11959,6 +11962,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
+      "has_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.2,
@@ -12381,7 +12385,7 @@
       "type": "tank",
       "has_smoke": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 4.63,
@@ -12848,6 +12852,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
+      "has_range": true,
       "optics": {
         "gunner": { "zoomInFov": 12.2, "zoomOutFov": 14 },
         "commander": { "zoomInFov": 7.37, "zoomOutFov": 18.5 }
@@ -13832,7 +13837,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_lws": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.217,
@@ -14802,6 +14807,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
+      "has_range": true,
       "optics": {
         "gunner": { "zoomInFov": 12.3, "zoomOutFov": 13.3 },
         "commander": { "zoomInFov": 7.37, "zoomOutFov": 7.47 }
@@ -15145,7 +15151,7 @@
       "gears_backward": 2,
       "type": "tank",
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -15730,7 +15736,7 @@
       "has_lws": true,
       "has_era": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -16380,7 +16386,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -17155,7 +17161,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_ess": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -18653,7 +18659,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -18758,7 +18764,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": { "zoomInFov": 7.37, "zoomOutFov": 7.37 },
         "commander": { "zoomInFov": 7.37, "zoomOutFov": 7.47 }
@@ -19102,7 +19108,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -19485,7 +19491,7 @@
       "has_synchro": true,
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 5.26,
@@ -20598,7 +20604,7 @@
       "has_neutral": true,
       "has_dozer": true,
       "has_ess": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -21086,7 +21092,7 @@
       "gears_backward": 2,
       "type": "tank",
       "can_float": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.141,
@@ -21701,7 +21707,7 @@
       "has_smoke": true,
       "has_era": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -21794,7 +21800,7 @@
       "has_smoke": true,
       "has_era": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -21882,7 +21888,7 @@
       "has_smoke": true,
       "has_era": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -21975,7 +21981,7 @@
       "has_dozer": true,
       "has_smoke": true,
       "has_lws": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -22067,7 +22073,7 @@
       "has_neutral": true,
       "has_dozer": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -22159,7 +22165,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -22252,7 +22258,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -22343,7 +22349,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -22434,7 +22440,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -22526,7 +22532,7 @@
       "has_dozer": true,
       "has_smoke": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -22617,7 +22623,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -22703,7 +22709,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -22789,7 +22795,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -22877,7 +22883,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -22974,7 +22980,7 @@
       "has_synchro": true,
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 4.62,
@@ -23070,7 +23076,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -23250,6 +23256,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
+      "has_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 4.63,
@@ -23669,7 +23676,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -24011,7 +24018,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_ess": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -24289,6 +24296,7 @@
       "gears_backward": 2,
       "type": "tank",
       "has_neutral": true,
+      "has_range": true,
       "optics": {
         "gunner": { "zoomInFov": 9.8, "zoomOutFov": 12.3 },
         "commander": { "zoomInFov": 7.37, "zoomOutFov": 7.47 },
@@ -24422,7 +24430,7 @@
       "gears_backward": 2,
       "type": "tank",
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -25876,7 +25884,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_ess": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -25954,7 +25962,7 @@
       "has_dozer": true,
       "has_smoke": true,
       "has_ess": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -26036,7 +26044,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_ess": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -26113,7 +26121,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_ess": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -26200,7 +26208,7 @@
       "has_neutral": true,
       "has_ess": true,
       "has_era": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -26749,7 +26757,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -28563,7 +28571,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_ess": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -29214,7 +29222,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -30100,6 +30108,7 @@
       "gears_backward": 2,
       "type": "tank",
       "has_neutral": true,
+      "has_range": true,
       "optics": {
         "gunner": { "zoomInFov": 9.83, "zoomOutFov": 10.83 },
         "commander": { "zoomInFov": 9.17, "zoomOutFov": 9.27 },
@@ -30175,6 +30184,7 @@
       "gears_backward": 2,
       "type": "tank",
       "has_neutral": true,
+      "has_range": true,
       "optics": {
         "gunner": { "zoomInFov": 9.83, "zoomOutFov": 10.83 },
         "commander": { "zoomInFov": 9.17, "zoomOutFov": 9.27 },
@@ -30270,6 +30280,7 @@
       "gears_backward": 2,
       "type": "tank",
       "has_neutral": true,
+      "has_range": true,
       "optics": {
         "gunner": { "zoomInFov": 9.83, "zoomOutFov": 10.83 },
         "commander": { "zoomInFov": 9.17, "zoomOutFov": 9.27 },
@@ -30366,7 +30377,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -30447,6 +30458,7 @@
       "gears_backward": 1,
       "type": "tank",
       "has_neutral": true,
+      "has_range": true,
       "optics": {
         "gunner": { "zoomInFov": 9.2, "zoomOutFov": 11 },
         "commander": { "zoomInFov": 7.37, "zoomOutFov": 7.47 },
@@ -30532,6 +30544,7 @@
       "gears_backward": 1,
       "type": "tank",
       "has_neutral": true,
+      "has_range": true,
       "optics": {
         "gunner": { "zoomInFov": 9.2, "zoomOutFov": 11 },
         "commander": { "zoomInFov": 7.37, "zoomOutFov": 7.47 },
@@ -30618,6 +30631,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
+      "has_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.2,
@@ -32732,7 +32746,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -32807,6 +32821,7 @@
       "gears_backward": 2,
       "type": "tank",
       "has_neutral": true,
+      "has_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -32907,6 +32922,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
+      "has_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -33001,6 +33017,7 @@
       "gears_backward": 2,
       "type": "tank",
       "has_neutral": true,
+      "has_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -33098,6 +33115,7 @@
       "has_smoke": true,
       "has_ess": true,
       "has_era": true,
+      "has_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -33198,7 +33216,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -33295,7 +33313,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_ess": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -33393,7 +33411,7 @@
       "has_smoke": true,
       "has_ess": true,
       "has_era": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -34116,7 +34134,7 @@
       "gears_backward": 2,
       "type": "tank",
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -34201,7 +34219,7 @@
       "has_synchro": true,
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 5.26,
@@ -34537,6 +34555,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
+      "has_range": true,
       "optics": {
         "gunner": { "zoomInFov": 9.83, "zoomOutFov": 10.83 },
         "commander": { "zoomInFov": 9.17, "zoomOutFov": 9.27 },
@@ -34631,7 +34650,7 @@
       "gears_forward": 3,
       "gears_backward": 1,
       "type": "tank",
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 21,
@@ -34721,6 +34740,7 @@
       "gears_backward": 1,
       "type": "tank",
       "has_neutral": true,
+      "has_range": true,
       "optics": {
         "gunner": { "zoomInFov": 9.2, "zoomOutFov": 11 },
         "commander": { "zoomInFov": 7.37, "zoomOutFov": 7.47 },
@@ -35219,6 +35239,7 @@
       "gears_backward": 2,
       "type": "tank",
       "has_neutral": true,
+      "has_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -35317,6 +35338,7 @@
       "gears_backward": 2,
       "type": "tank",
       "has_neutral": true,
+      "has_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -35515,7 +35537,7 @@
       "has_ess": true,
       "has_lws": true,
       "has_era": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -35617,7 +35639,7 @@
       "has_dozer": true,
       "has_smoke": true,
       "has_era": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -35793,7 +35815,7 @@
       "has_synchro": true,
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 12.3,
@@ -35906,7 +35928,7 @@
       "has_synchro": true,
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 12.3,
@@ -36416,7 +36438,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_ess": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -36518,7 +36540,7 @@
       "has_smoke": true,
       "has_ess": true,
       "has_lws": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -36617,7 +36639,7 @@
       "has_smoke": true,
       "has_ess": true,
       "has_lws": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -36714,7 +36736,7 @@
       "has_smoke": true,
       "has_ess": true,
       "has_lws": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -36812,7 +36834,7 @@
       "has_smoke": true,
       "has_ess": true,
       "has_lws": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -36915,7 +36937,7 @@
       "has_ess": true,
       "has_lws": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -37004,7 +37026,7 @@
       "has_ess": true,
       "has_lws": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -37095,7 +37117,7 @@
       "has_ess": true,
       "has_lws": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -37185,7 +37207,7 @@
       "has_ess": true,
       "has_lws": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -37275,7 +37297,7 @@
       "has_ess": true,
       "has_lws": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -37586,7 +37608,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 4.63,
@@ -37691,7 +37713,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 4.63,
@@ -37796,7 +37818,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 4.63,
@@ -37896,7 +37918,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 4.63,
@@ -38082,7 +38104,7 @@
       "gears_backward": 1,
       "type": "tank",
       "has_ess": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 10.5,
@@ -38247,6 +38269,7 @@
       "gears_backward": 2,
       "type": "tank",
       "has_smoke": true,
+      "has_range": true,
       "optics": {
         "gunner": { "zoomInFov": 9.2, "zoomOutFov": 23.9 },
         "commander": { "zoomInFov": 7.37, "zoomOutFov": 18.5 }
@@ -38316,6 +38339,7 @@
       "gears_backward": 2,
       "type": "tank",
       "has_ess": true,
+      "has_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -38406,7 +38430,7 @@
       "can_float": true,
       "has_smoke": true,
       "has_ess": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -38609,7 +38633,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -38711,7 +38735,7 @@
       "has_smoke": true,
       "has_ess": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -38946,7 +38970,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 12.3,
@@ -39294,7 +39318,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 12.3,
@@ -39392,7 +39416,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 12.3,
@@ -39824,7 +39848,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_ess": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 5.26,
@@ -39985,7 +40009,7 @@
       "gears_backward": 1,
       "type": "tank",
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.7,
@@ -40080,7 +40104,7 @@
       "type": "tank",
       "has_dozer": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 10.53,
@@ -40170,7 +40194,7 @@
       "has_lws": true,
       "has_era": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 5,
@@ -40441,6 +40465,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
+      "has_range": true,
       "optics": { "gunner": { "zoomInFov": 12.3, "zoomOutFov": 29.7 } },
       "weapons": {
         "cannon": [
@@ -40571,6 +40596,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
+      "has_range": true,
       "optics": {
         "gunner": { "zoomInFov": 12.3, "zoomOutFov": 29.7 },
         "driver": {
@@ -43972,7 +43998,7 @@
       "type": "tank",
       "has_smoke": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 4.63,
@@ -44560,7 +44586,7 @@
       "type": "tank",
       "has_smoke": true,
       "has_ess": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.141,
@@ -44650,7 +44676,7 @@
       "gears_backward": 4,
       "type": "tank",
       "has_ess": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.141,
@@ -44737,7 +44763,7 @@
       "type": "tank",
       "has_smoke": true,
       "has_ess": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.141,
@@ -45284,7 +45310,7 @@
       "gears_forward": 3,
       "gears_backward": 1,
       "type": "tank",
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": { "gunner": { "zoomInFov": 14.7, "zoomOutFov": 15.7 } },
       "weapons": {
         "cannon": [
@@ -45428,7 +45454,7 @@
       "gears_forward": 3,
       "gears_backward": 1,
       "type": "tank",
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": { "gunner": { "zoomInFov": 14.7, "zoomOutFov": 15.7 } },
       "weapons": {
         "cannon": [
@@ -45574,7 +45600,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -46024,6 +46050,7 @@
       "gears_forward": 7,
       "gears_backward": 2,
       "type": "tank",
+      "has_range": true,
       "optics": {
         "gunner": { "zoomInFov": 9.2, "zoomOutFov": 18.5 },
         "commander": { "zoomInFov": 6.14, "zoomOutFov": 6.24 }
@@ -46104,7 +46131,7 @@
       "hydro_suspension": true,
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": { "zoomInFov": 9.21, "zoomOutFov": 10 },
         "commander": { "zoomInFov": 7.4, "zoomOutFov": 30 },
@@ -46459,6 +46486,7 @@
       "gears_backward": 1,
       "type": "tank",
       "has_smoke": true,
+      "has_range": true,
       "optics": {
         "gunner": { "zoomInFov": 10.5, "zoomOutFov": 21.1 },
         "commander": { "zoomInFov": 7.37, "zoomOutFov": 18.5 },
@@ -48759,7 +48787,7 @@
       "has_smoke": true,
       "has_ess": true,
       "has_era": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": { "zoomInFov": 12.3, "zoomOutFov": 15 },
         "commander": { "zoomInFov": 7.37, "zoomOutFov": 7.47 },
@@ -48844,7 +48872,7 @@
       "has_smoke": true,
       "has_ess": true,
       "has_era": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": { "zoomInFov": 12.3, "zoomOutFov": 15 },
         "commander": { "zoomInFov": 7.37, "zoomOutFov": 7.47 },
@@ -48928,7 +48956,7 @@
       "has_smoke": true,
       "has_ess": true,
       "has_era": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": { "zoomInFov": 12.3, "zoomOutFov": 15 },
         "commander": { "zoomInFov": 7.37, "zoomOutFov": 7.47 },
@@ -49719,7 +49747,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -49805,7 +49833,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -49886,7 +49914,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -50158,7 +50186,7 @@
       "type": "tank",
       "hydro_suspension": true,
       "has_neutral": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 4.1,
@@ -50255,7 +50283,7 @@
       "hydro_suspension": true,
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 4.1,
@@ -50363,7 +50391,7 @@
       "has_neutral": true,
       "has_dozer": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 4.1,
@@ -50470,7 +50498,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_era": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -50576,7 +50604,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_era": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -50678,7 +50706,7 @@
       "has_dozer": true,
       "has_smoke": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -50769,7 +50797,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -50856,7 +50884,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -52623,7 +52651,7 @@
       "has_ess": true,
       "has_era": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -55762,7 +55790,7 @@
       "has_smoke": true,
       "has_ess": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -55874,7 +55902,7 @@
       "has_smoke": true,
       "has_ess": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -56226,7 +56254,7 @@
       "has_smoke": true,
       "has_ess": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -56444,7 +56472,7 @@
       "has_ess": true,
       "has_era": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 8.19,
@@ -56554,7 +56582,7 @@
       "has_smoke": true,
       "has_ess": true,
       "has_era": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 12.3,
@@ -56719,7 +56747,7 @@
       "has_smoke": true,
       "has_ess": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -56829,7 +56857,7 @@
       "has_ess": true,
       "has_era": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -56923,7 +56951,7 @@
       "has_ess": true,
       "has_era": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -57033,7 +57061,7 @@
       "has_ess": true,
       "has_era": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -57143,7 +57171,7 @@
       "has_ess": true,
       "has_era": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -57247,7 +57275,7 @@
       "has_smoke": true,
       "has_ess": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -57359,7 +57387,7 @@
       "has_lws": true,
       "has_era": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -57521,7 +57549,7 @@
       "has_ess": true,
       "has_era": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 8.19,
@@ -57626,7 +57654,7 @@
       "has_ess": true,
       "has_era": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -57731,7 +57759,7 @@
       "has_ess": true,
       "has_era": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -59033,6 +59061,7 @@
       "gears_backward": 1,
       "type": "tank",
       "has_neutral": true,
+      "has_range": true,
       "optics": {
         "gunner": { "zoomInFov": 9.8, "zoomOutFov": 12.3 },
         "commander": { "zoomInFov": 7.37, "zoomOutFov": 7.47 },
@@ -59397,7 +59426,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_lws": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -59486,7 +59515,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": { "zoomInFov": 9.21, "zoomOutFov": 10.21 },
         "commander": { "zoomInFov": 9.21, "zoomOutFov": 37.5 },
@@ -59565,7 +59594,7 @@
       "has_synchro": true,
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": { "zoomInFov": 9.21, "zoomOutFov": 10.21 },
         "commander": { "zoomInFov": 9.21, "zoomOutFov": 37.5 },
@@ -59759,7 +59788,7 @@
       "has_dozer": true,
       "has_smoke": true,
       "has_lws": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 5.54,
@@ -59922,7 +59951,7 @@
       "has_smoke": true,
       "has_ess": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -60356,6 +60385,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
+      "has_range": true,
       "optics": { "gunner": { "zoomInFov": 14.7, "zoomOutFov": 29.7 } },
       "weapons": {
         "cannon": [
@@ -61048,7 +61078,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_lws": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 5.54,
@@ -61134,7 +61164,7 @@
       "type": "tank",
       "has_smoke": true,
       "has_lws": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 5.54,
@@ -61224,7 +61254,7 @@
       "type": "tank",
       "has_smoke": true,
       "has_lws": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 5.54,
@@ -61544,6 +61574,7 @@
       "gears_backward": 2,
       "type": "tank",
       "has_smoke": true,
+      "has_range": true,
       "optics": {
         "gunner": { "zoomInFov": 9.2, "zoomOutFov": 18.5 },
         "commander": { "zoomInFov": 7.37, "zoomOutFov": 18.5 },
@@ -61864,7 +61895,7 @@
       "gears_backward": 1,
       "type": "tank",
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 10.5,
@@ -61962,7 +61993,7 @@
       "gears_forward": 5,
       "gears_backward": 1,
       "type": "tank",
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 10.5,
@@ -62058,7 +62089,7 @@
       "hydro_suspension": true,
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -62155,7 +62186,7 @@
       "has_neutral": true,
       "has_dozer": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -62256,7 +62287,7 @@
       "hydro_suspension": true,
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -62359,7 +62390,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_lws": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -62696,7 +62727,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_lws": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 12.3,
@@ -62857,7 +62888,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_lws": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.217,
@@ -62946,7 +62977,7 @@
       "has_smoke": true,
       "has_lws": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -63036,7 +63067,7 @@
       "has_smoke": true,
       "has_lws": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -63120,7 +63151,7 @@
       "gears_forward": 7,
       "gears_backward": 2,
       "type": "tank",
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -63397,7 +63428,7 @@
       "has_smoke": true,
       "has_lws": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.217,
@@ -63497,7 +63528,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_lws": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.217,
@@ -63582,7 +63613,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.141,
@@ -63782,7 +63813,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -63883,6 +63914,7 @@
       "gears_forward": 7,
       "gears_backward": 1,
       "type": "tank",
+      "has_range": true,
       "optics": { "gunner": { "zoomInFov": 12.3, "zoomOutFov": 13.3 } },
       "weapons": {
         "cannon": [
@@ -64081,7 +64113,7 @@
       "type": "tank",
       "has_smoke": true,
       "has_lws": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.141,
@@ -64179,7 +64211,7 @@
       "type": "tank",
       "hydro_suspension": true,
       "has_neutral": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 4.63,
@@ -64596,7 +64628,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": { "zoomInFov": 7.37, "zoomOutFov": 7.37 },
         "commander": {
@@ -64698,7 +64730,7 @@
       "has_neutral": true,
       "has_smoke": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -64852,7 +64884,7 @@
       "type": "tank",
       "has_smoke": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.7,
@@ -65144,7 +65176,7 @@
       "type": "tank",
       "has_neutral": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.217,
@@ -65312,7 +65344,7 @@
       "gears_backward": 2,
       "type": "tank",
       "has_neutral": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 12.3,
@@ -65613,7 +65645,7 @@
       "gears_backward": 4,
       "type": "tank",
       "has_neutral": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -65701,7 +65733,7 @@
       "hydro_suspension": true,
       "has_neutral": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -65789,7 +65821,7 @@
       "has_synchro": true,
       "has_neutral": true,
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -65901,7 +65933,7 @@
       "gears_backward": 2,
       "type": "tank",
       "has_neutral": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 7.37,
@@ -66049,6 +66081,7 @@
       "gears_forward": 4,
       "gears_backward": 1,
       "type": "tank",
+      "has_range": true,
       "optics": { "gunner": { "zoomInFov": 21, "zoomOutFov": 40 } },
       "weapons": {
         "cannon": [
@@ -66179,7 +66212,7 @@
       "gears_backward": 4,
       "type": "tank",
       "has_ess": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 12.3,
@@ -66396,7 +66429,7 @@
       "can_float": true,
       "has_smoke": true,
       "has_lws": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.7,
@@ -67494,7 +67527,7 @@
       "gears_backward": 2,
       "type": "tank",
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.14,
@@ -67569,7 +67602,7 @@
       "gears_backward": 1,
       "type": "tank",
       "has_smoke": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": { "zoomInFov": 10.5, "zoomOutFov": 21.1 },
         "commander": { "zoomInFov": 14.7, "zoomOutFov": 80 }
@@ -67648,7 +67681,7 @@
       "type": "tank",
       "has_smoke": true,
       "has_era": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 10.5,
@@ -67739,7 +67772,7 @@
       "has_smoke": true,
       "has_ess": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -67840,7 +67873,7 @@
       "has_smoke": true,
       "has_ess": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 9.21,
@@ -67939,7 +67972,7 @@
       "has_ess": true,
       "has_era": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.7,
@@ -68032,7 +68065,7 @@
       "has_ess": true,
       "has_era": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.7,
@@ -68126,7 +68159,7 @@
       "has_lws": true,
       "has_era": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.7,
@@ -68230,7 +68263,7 @@
       "has_lws": true,
       "has_era": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.7,
@@ -68336,7 +68369,7 @@
       "has_lws": true,
       "has_era": true,
       "has_composite": true,
-      "laser_range": true,
+      "has_laser_range": true,
       "optics": {
         "gunner": {
           "zoomInFov": 6.7,

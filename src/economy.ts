@@ -309,9 +309,13 @@ async function main() {
 
     if (Array.isArray(vehicleData.commonWeapons.Weapon)) {
       vehicleData.commonWeapons.Weapon.forEach((element) => {
-        if (element.trigger === "gunner0" || element.triggerGroup === "primary" || element.triggerGroup === "secondary") {
+        if (
+          element.trigger === "gunner0" ||
+          element.triggerGroup === "primary" ||
+          element.triggerGroup === "secondary"
+        ) {
           if (element.dummy) {
-            if (element.emitter=== "bone_gun_01") {
+            if (element.emitter === "bone_gun_01") {
               weapons.cannon?.push(CWToCannon(element, bullets, weaponry_lang));
             }
           } else {
@@ -321,12 +325,22 @@ async function main() {
       });
     } else {
       const Weapon = vehicleData.commonWeapons.Weapon;
-      if (Weapon.trigger === "gunner0" || Weapon.triggerGroup === "primary" || Weapon.triggerGroup === "secondary") {
+      if (
+        Weapon.trigger === "gunner0" ||
+        Weapon.triggerGroup === "primary" ||
+        Weapon.triggerGroup === "secondary"
+      ) {
         weapons.cannon?.push(CWToCannon(Weapon, bullets, weaponry_lang));
       }
     }
 
     console.log(weapons);
+
+    let range = false;
+
+    if (vehicleData.modifications.tank_rangefinder) {
+      range = true;
+    }
 
     let laser = false;
     if (
@@ -423,7 +437,8 @@ async function main() {
       has_lws: lws ? true : undefined,
       has_era: era ? true : undefined,
       has_composite: composite ? true : undefined,
-      laser_range: laser ? true : undefined,
+      has_laser_range: laser ? true : undefined,
+      has_range: range ? true : undefined,
       optics: sights,
       weapons: weapons,
     });
