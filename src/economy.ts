@@ -363,21 +363,21 @@ async function main() {
     }
 
     if (night.gunnerThermal) {
-      sights.gunner.gunnerThermal = night.gunnerThermal;
+      sights.gunner.thermal = night.gunnerThermal;
     } else if (night.gunnerIr) {
-      sights.gunner.gunnerIr = night.gunnerIr;
+      sights.gunner.ir = night.gunnerIr;
     }
 
     if (night.commanderViewThermal && sights.commander) {
-      sights.commander.commanderViewThermal = night.commanderViewThermal;
+      sights.commander.thermal = night.commanderViewThermal;
     } else if (night.commanderViewIr && sights.commander) {
-      sights.commander.commanderViewIr = night.commanderViewIr;
+      sights.commander.ir = night.commanderViewIr;
     }
 
     if (night.driverThermal && sights.driver) {
-      sights.driver.driverThermal = night.driverThermal;
+      sights.driver.thermal = night.driverThermal;
     } else if (night.driverIr && sights.driver) {
-      sights.driver.driverIr = night.driverIr;
+      sights.driver.ir = night.driverIr;
     }
 
     final.ground.push({

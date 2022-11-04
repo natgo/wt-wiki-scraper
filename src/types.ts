@@ -1349,26 +1349,26 @@ export interface Sights {
 }
 
 export interface driverSight {
-  driverIr?: {
+  ir?: {
     resolution: [800 | 1200, 600 | 800];
     lightMult: 5.0 | 7.0;
     ghosting: 0.7 | 0.6;
     noiseFactor: 0.2;
   };
-  driverThermal?: {
+  thermal?: {
     resolution: [500 | 800, 300 | 600];
     noiseFactor: 0.05 | 0.04;
   };
 }
 
 export interface gunnerSight {
-  gunnerIr?: {
+  ir?: {
     resolution: [800 | 1600, 600 | 1200];
     lightMult: 5.0 | 8 | 9;
     ghosting: 0.7 | 0.75 | 0.6;
     noiseFactor: 0.2;
   };
-  gunnerThermal?: {
+  thermal?: {
     resolution: [500 | 800 | 1200, 300 | 600 | 800];
     noiseFactor: 0.05 | 0.04;
   };
@@ -1377,13 +1377,13 @@ export interface gunnerSight {
 }
 
 export interface commanderSight {
-  commanderViewIr?: {
+  ir?: {
     resolution: [800 | 1600, 600 | 1200];
     lightMult: 8.0 | 9.0;
     ghosting: 0.75 | 0.6;
     noiseFactor: 0.2;
   };
-  commanderViewThermal?: {
+  thermal?: {
     resolution: [800, 600];
     noiseFactor: 0.04;
   };
