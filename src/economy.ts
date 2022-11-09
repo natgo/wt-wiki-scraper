@@ -183,9 +183,7 @@ async function main() {
       Object.entries(notelement).forEach(([key, value]) => {
         if ("image" in value) {
           Object.entries(value).forEach(([key, value]) => {
-            if (key === "image" || key === "reqAir") {
-              //
-            } else {
+            if (!(key === "image" || key === "reqAir")) {
               if (key === element.intname) {
                 const value2 = value as ShopItem;
                 marketplace = value2.marketplaceItemdefId;
@@ -458,9 +456,7 @@ async function main() {
       Object.entries(notelement).forEach(([key, value]) => {
         if ("image" in value) {
           Object.entries(value).forEach(([key, value]) => {
-            if (key === "image" || key === "reqAir") {
-              //
-            } else {
+            if (!(key === "image" || key === "reqAir")) {
               if (key === element.intname) {
                 const value2 = value as ShopItem;
                 marketplace = value2.marketplaceItemdefId;
@@ -594,9 +590,7 @@ async function main() {
       Object.entries(notelement).forEach(([key, value]) => {
         if ("image" in value) {
           Object.entries(value).forEach(([key, value]) => {
-            if (key === "image" || key === "reqAir") {
-              //
-            } else {
+            if (!(key === "image" || key === "reqAir")) {
               if (key === element.intname) {
                 const value2 = value as ShopItem;
                 marketplace = value2.marketplaceItemdefId;

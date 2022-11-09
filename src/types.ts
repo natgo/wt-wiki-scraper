@@ -1469,3 +1469,37 @@ export interface NightVision {
     noiseFactor: 0.2;
   };
 }
+
+//Final Shop
+
+export type FinalShop = Record<string, FinalShopCountry>;
+
+export interface FinalShopCountry {
+  army: FinalShopRange;
+  helicopters: FinalShopRange;
+  aviation: FinalShopRange;
+}
+
+export interface FinalShopRange {
+  col_normal: number;
+  col_prem: number;
+  range: Array<FinalShopItem | FinalShopGroup>[];
+}
+
+export interface FinalShopItem {
+  name: string;
+  rank: number;
+  reqAir?: "" | string;
+  gift?: true;
+  hidden?: true;
+  marketplace?: number;
+  event?: string;
+  clanVehicle?: true;
+}
+
+export type FinalShopGroup = {
+  name: string;
+  image: string;
+  reqAir?: "" | string;
+  vehicles: FinalShopItem[];
+};
