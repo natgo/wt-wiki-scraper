@@ -25,18 +25,28 @@ async function main() {
     const army: FinalShopRange = {
       col_normal: 0,
       col_prem: 0,
-      range: [],
+      min_rank: 9,
+      max_rank: 0,
+      range: []
     };
     const helicopters: FinalShopRange = {
       col_normal: 0,
       col_prem: 0,
-      range: [],
+      min_rank: 9,
+      max_rank: 0,
+      range: []
     };
     const aviation: FinalShopRange = {
       col_normal: 0,
       col_prem: 0,
-      range: [],
+      min_rank: 9,
+      max_rank: 0,
+      range: []
     };
+
+    let armyMaxRank = 0;
+    let aviationMaxRank = 0;
+    let helicoptersMaxRank = 0;
 
     value2.army.range.forEach((element) => {
       let isPrem = false;
@@ -70,6 +80,15 @@ async function main() {
           });
           if (find && find.prem_type !== "false") {
             isPrem = true;
+          }
+
+          if (find && find.rank < army.min_rank) {
+            army.min_rank = find.rank;
+          }
+
+          if (find && find.rank > armyMaxRank) {
+            army.max_rank = find.rank;
+            armyMaxRank = find.rank;
           }
 
           const out: FinalShopItem = {
@@ -128,6 +147,15 @@ async function main() {
             isPrem = true;
           }
 
+          if (find && find.rank < aviation.min_rank) {
+            aviation.min_rank = find.rank;
+          }
+
+          if (find && find.rank > aviationMaxRank) {
+            aviation.max_rank = find.rank;
+            aviationMaxRank = find.rank;
+          }
+
           const out: FinalShopItem = {
             name: key,
             rank: value.rank,
@@ -184,6 +212,15 @@ async function main() {
             isPrem = true;
           }
 
+          if (find && find.rank < helicopters.min_rank) {
+            helicopters.min_rank = find.rank;
+          }
+
+          if (find && find.rank > helicoptersMaxRank) {
+            helicopters.max_rank = find.rank;
+            helicoptersMaxRank = find.rank;
+          }
+
           const out: FinalShopItem = {
             name: key,
             rank: value.rank,
@@ -205,6 +242,7 @@ async function main() {
 
       helicopters.range.push(range);
     });
+    console.log(`${key} : ${helicopters.max_rank}`);
 
     result[key] = {
       army: army,
