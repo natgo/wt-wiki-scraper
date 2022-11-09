@@ -1296,6 +1296,7 @@ export interface Final {
 export interface FinalProps {
   intname: string;
   wikiname: string;
+  displayname: string;
   type: "tank" | "aircraft" | "helicopter";
   normal_type: string;
   extended_type?: string[];

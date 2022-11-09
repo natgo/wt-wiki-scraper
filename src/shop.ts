@@ -27,21 +27,21 @@ async function main() {
       col_prem: 0,
       min_rank: 9,
       max_rank: 0,
-      range: []
+      range: [],
     };
     const helicopters: FinalShopRange = {
       col_normal: 0,
       col_prem: 0,
       min_rank: 9,
       max_rank: 0,
-      range: []
+      range: [],
     };
     const aviation: FinalShopRange = {
       col_normal: 0,
       col_prem: 0,
       min_rank: 9,
       max_rank: 0,
-      range: []
+      range: [],
     };
 
     let armyMaxRank = 0;
@@ -242,7 +242,6 @@ async function main() {
 
       helicopters.range.push(range);
     });
-    console.log(`${key} : ${helicopters.max_rank}`);
 
     result[key] = {
       army: army,

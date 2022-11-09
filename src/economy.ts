@@ -158,6 +158,10 @@ async function main() {
     fs.readFileSync("./War-Thunder-Datamine/lang.vromfs.bin_u/lang/units_weaponry.csv", "utf-8"),
   );
 
+  const units_lang = langcsvJSON(
+    fs.readFileSync("./War-Thunder-Datamine/lang.vromfs.bin_u/lang/units.csv", "utf-8"),
+  );
+
   const shopData: Shop = JSON.parse(
     fs.readFileSync("./War-Thunder-Datamine/char.vromfs.bin_u/config/shop.blkx", "utf-8"),
   );
@@ -177,6 +181,12 @@ async function main() {
     );
     const vehicleEconomy = economy[element.intname];
     const vehicleUnit = unitData[element.intname];
+    const vehicleLang = units_lang.find((lang) => {
+      return lang.ID === element.intname + "_shop";
+    });
+    if (!vehicleLang) {
+      throw new Error(`no match in lang data to ${element.intname}_shop`);
+    }
 
     let marketplace: number | undefined;
     shopData[vehicleEconomy.country].army.range.forEach((notelement) => {
@@ -395,6 +405,7 @@ async function main() {
     final.ground.push({
       intname: element.intname,
       wikiname: element.wikiname,
+      displayname: vehicleLang.English,
       normal_type: type,
       extended_type: ext_type.length > 0 ? ext_type : undefined,
       country: vehicleEconomy.country,
@@ -450,6 +461,12 @@ async function main() {
     );
     const vehicleEconomy = economy[element.intname];
     const vehicleUnit = unitData[element.intname];
+    const vehicleLang = units_lang.find((lang) => {
+      return lang.ID === element.intname + "_shop";
+    });
+    if (!vehicleLang) {
+      throw new Error(`no match in lang data to ${element.intname}_shop`);
+    }
 
     let marketplace: number | undefined;
     shopData[vehicleEconomy.country].aviation.range.forEach((notelement) => {
@@ -547,6 +564,7 @@ async function main() {
     final.aircraft.push({
       intname: element.intname,
       wikiname: element.wikiname,
+      displayname: vehicleLang.English,
       normal_type: type,
       extended_type: ext_type.length > 0 ? ext_type : undefined,
       country: vehicleEconomy.country,
@@ -584,6 +602,12 @@ async function main() {
     );
     const vehicleEconomy = economy[element.intname];
     const vehicleUnit = unitData[element.intname];
+    const vehicleLang = units_lang.find((lang) => {
+      return lang.ID === element.intname + "_shop";
+    });
+    if (!vehicleLang) {
+      throw new Error(`no match in lang data to ${element.intname}_shop`);
+    }
 
     let marketplace: number | undefined;
     shopData[vehicleEconomy.country].helicopters.range.forEach((notelement) => {
@@ -647,6 +671,7 @@ async function main() {
     final.helicopter.push({
       intname: element.intname,
       wikiname: element.wikiname,
+      displayname: vehicleLang.English,
       normal_type: type,
       extended_type: ext_type.length > 0 ? ext_type : undefined,
       country: vehicleEconomy.country,
