@@ -1,7 +1,7 @@
 import fs from "fs";
 import { format } from "prettier";
-import { langcsvJSON } from "./csvJSON";
 
+import { langcsvJSON } from "./csvJSON";
 import {
   Final,
   FinalShop,
@@ -66,7 +66,8 @@ async function main() {
 
           const out: FinalShopGroup = {
             name: key,
-            displayname:groupLang.English,
+            displayname: groupLang.English,
+            image: value.image.split("#")[2],
             reqAir: value.reqAir,
             vehicles: [],
           };
@@ -138,7 +139,8 @@ async function main() {
 
           const out: FinalShopGroup = {
             name: key,
-            displayname:groupLang.English,
+            displayname: groupLang.English,
+            image: value.image.split("#")[2],
             reqAir: value.reqAir,
             vehicles: [],
           };
@@ -210,7 +212,8 @@ async function main() {
 
           const out: FinalShopGroup = {
             name: key,
-            displayname:groupLang.English,
+            displayname: groupLang.English,
+            image: value.image.split("#")[2],
             reqAir: value.reqAir,
             vehicles: [],
           };

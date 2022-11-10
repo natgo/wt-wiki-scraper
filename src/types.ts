@@ -1502,7 +1502,8 @@ export interface FinalShopItem {
 
 export type FinalShopGroup = {
   name: string;
-  displayname:string;
+  displayname: string;
+  image: string;
   reqAir?: "" | string;
   vehicles: FinalShopItem[];
 };
