@@ -1,5 +1,6 @@
 import fs from "fs";
 import { format } from "prettier";
+import { langcsvJSON } from "./csvJSON";
 
 import {
   Final,
@@ -15,6 +16,9 @@ async function main() {
   const final: Final = JSON.parse(fs.readFileSync("./out/final.json", "utf-8"));
   const shopData: Shop = JSON.parse(
     fs.readFileSync("./War-Thunder-Datamine/char.vromfs.bin_u/config/shop.blkx", "utf-8"),
+  );
+  const units_lang = langcsvJSON(
+    fs.readFileSync("./War-Thunder-Datamine/lang.vromfs.bin_u/lang/units.csv", "utf-8"),
   );
 
   const result: FinalShop = {};
@@ -53,9 +57,16 @@ async function main() {
       const range: Array<FinalShopItem | FinalShopGroup> = [];
       Object.entries(element).forEach(([key, value]) => {
         if ("image" in value) {
+          const groupLang = units_lang.find((lang) => {
+            return lang.ID === "shop/group/" + key;
+          });
+          if (!groupLang) {
+            throw new Error(`no match in lang data to shop/group/${element.intname}`);
+          }
+
           const out: FinalShopGroup = {
             name: key,
-            image: value.image,
+            displayname:groupLang.English,
             reqAir: value.reqAir,
             vehicles: [],
           };
@@ -118,9 +129,16 @@ async function main() {
       const range: Array<FinalShopItem | FinalShopGroup> = [];
       Object.entries(element).forEach(([key, value]) => {
         if ("image" in value) {
+          const groupLang = units_lang.find((lang) => {
+            return lang.ID === "shop/group/" + key;
+          });
+          if (!groupLang) {
+            throw new Error(`no match in lang data to shop/group/${element.intname}`);
+          }
+
           const out: FinalShopGroup = {
             name: key,
-            image: value.image,
+            displayname:groupLang.English,
             reqAir: value.reqAir,
             vehicles: [],
           };
@@ -183,9 +201,16 @@ async function main() {
       const range: Array<FinalShopItem | FinalShopGroup> = [];
       Object.entries(element).forEach(([key, value]) => {
         if ("image" in value) {
+          const groupLang = units_lang.find((lang) => {
+            return lang.ID === "shop/group/" + key;
+          });
+          if (!groupLang) {
+            throw new Error(`no match in lang data to shop/group/${element.intname}`);
+          }
+
           const out: FinalShopGroup = {
             name: key,
-            image: value.image,
+            displayname:groupLang.English,
             reqAir: value.reqAir,
             vehicles: [],
           };
