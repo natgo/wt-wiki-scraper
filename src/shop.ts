@@ -28,21 +28,18 @@ async function main() {
 
     const army: FinalShopRange = {
       col_normal: 0,
-      col_prem: 0,
       min_rank: 9,
       max_rank: 0,
       range: [],
     };
     const helicopters: FinalShopRange = {
       col_normal: 0,
-      col_prem: 0,
       min_rank: 9,
       max_rank: 0,
       range: [],
     };
     const aviation: FinalShopRange = {
       col_normal: 0,
-      col_prem: 0,
       min_rank: 9,
       max_rank: 0,
       range: [],
@@ -52,8 +49,11 @@ async function main() {
     let aviationMaxRank = 0;
     let helicoptersMaxRank = 0;
 
+    let armyIsPrem = false;
+    let aviationIsPrem = false;
+    let helicoptersIsPrem = false;
+
     value2.army.range.forEach((element) => {
-      let isPrem = false;
       const range: Array<FinalShopItem | FinalShopGroup> = [];
       Object.entries(element).forEach(([key, value]) => {
         if ("image" in value) {
@@ -91,7 +91,7 @@ async function main() {
             return element.intname === key;
           });
           if (find && find.prem_type !== "false") {
-            isPrem = true;
+            armyIsPrem = true;
           }
 
           if (find && find.rank < army.min_rank) {
@@ -116,9 +116,7 @@ async function main() {
           range.push(out);
         }
       });
-      if (isPrem) {
-        army.col_prem++;
-      } else {
+      if (!armyIsPrem) {
         army.col_normal++;
       }
 
@@ -126,7 +124,6 @@ async function main() {
     });
 
     value2.aviation.range.forEach((element) => {
-      let isPrem = false;
       const range: Array<FinalShopItem | FinalShopGroup> = [];
       Object.entries(element).forEach(([key, value]) => {
         if ("image" in value) {
@@ -164,7 +161,7 @@ async function main() {
             return element.intname === key;
           });
           if (find && find.prem_type !== "false") {
-            isPrem = true;
+            aviationIsPrem = true;
           }
 
           if (find && find.rank < aviation.min_rank) {
@@ -189,9 +186,7 @@ async function main() {
           range.push(out);
         }
       });
-      if (isPrem) {
-        aviation.col_prem++;
-      } else {
+      if (!aviationIsPrem) {
         aviation.col_normal++;
       }
 
@@ -199,7 +194,6 @@ async function main() {
     });
 
     value2.helicopters.range.forEach((element) => {
-      let isPrem = false;
       const range: Array<FinalShopItem | FinalShopGroup> = [];
       Object.entries(element).forEach(([key, value]) => {
         if ("image" in value) {
@@ -237,7 +231,7 @@ async function main() {
             return element.intname === key;
           });
           if (find && find.prem_type !== "false") {
-            isPrem = true;
+            helicoptersIsPrem = true;
           }
 
           if (find && find.rank < helicopters.min_rank) {
@@ -262,9 +256,7 @@ async function main() {
           range.push(out);
         }
       });
-      if (isPrem) {
-        helicopters.col_prem++;
-      } else {
+      if (!helicoptersIsPrem) {
         helicopters.col_normal++;
       }
 

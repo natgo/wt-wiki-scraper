@@ -2,7 +2,6 @@
   "country_usa": {
     "army": {
       "col_normal": 5,
-      "col_prem": 2,
       "min_rank": 1,
       "max_rank": 7,
       "range": [
@@ -341,7 +340,6 @@
     },
     "helicopters": {
       "col_normal": 2,
-      "col_prem": 1,
       "min_rank": 5,
       "max_rank": 7,
       "range": [
@@ -391,7 +389,6 @@
     },
     "aviation": {
       "col_normal": 5,
-      "col_prem": 2,
       "min_rank": 1,
       "max_rank": 7,
       "range": [
@@ -914,7 +911,6 @@
   "country_germany": {
     "army": {
       "col_normal": 5,
-      "col_prem": 2,
       "min_rank": 1,
       "max_rank": 7,
       "range": [
@@ -1361,7 +1357,6 @@
     },
     "helicopters": {
       "col_normal": 2,
-      "col_prem": 1,
       "min_rank": 5,
       "max_rank": 7,
       "range": [
@@ -1387,7 +1382,6 @@
     },
     "aviation": {
       "col_normal": 5,
-      "col_prem": 2,
       "min_rank": 1,
       "max_rank": 7,
       "range": [
@@ -1922,7 +1916,6 @@
   "country_ussr": {
     "army": {
       "col_normal": 5,
-      "col_prem": 2,
       "min_rank": 1,
       "max_rank": 7,
       "range": [
@@ -2379,7 +2372,6 @@
     },
     "helicopters": {
       "col_normal": 2,
-      "col_prem": 1,
       "min_rank": 5,
       "max_rank": 7,
       "range": [
@@ -2410,7 +2402,6 @@
     },
     "aviation": {
       "col_normal": 5,
-      "col_prem": 2,
       "min_rank": 1,
       "max_rank": 7,
       "range": [
@@ -2961,7 +2952,6 @@
   "country_britain": {
     "army": {
       "col_normal": 5,
-      "col_prem": 2,
       "min_rank": 1,
       "max_rank": 7,
       "range": [
@@ -3230,7 +3220,6 @@
     },
     "helicopters": {
       "col_normal": 1,
-      "col_prem": 1,
       "min_rank": 5,
       "max_rank": 7,
       "range": [
@@ -3248,7 +3237,6 @@
     },
     "aviation": {
       "col_normal": 5,
-      "col_prem": 2,
       "min_rank": 1,
       "max_rank": 7,
       "range": [
@@ -3598,7 +3586,6 @@
   "country_japan": {
     "army": {
       "col_normal": 4,
-      "col_prem": 2,
       "min_rank": 1,
       "max_rank": 7,
       "range": [
@@ -3711,7 +3698,6 @@
     },
     "helicopters": {
       "col_normal": 1,
-      "col_prem": 1,
       "min_rank": 5,
       "max_rank": 7,
       "range": [
@@ -3726,7 +3712,6 @@
     },
     "aviation": {
       "col_normal": 5,
-      "col_prem": 2,
       "min_rank": 1,
       "max_rank": 7,
       "range": [
@@ -4003,7 +3988,6 @@
   "country_china": {
     "army": {
       "col_normal": 4,
-      "col_prem": 2,
       "min_rank": 1,
       "max_rank": 7,
       "range": [
@@ -4135,7 +4119,6 @@
     },
     "helicopters": {
       "col_normal": 2,
-      "col_prem": 1,
       "min_rank": 5,
       "max_rank": 7,
       "range": [
@@ -4151,8 +4134,7 @@
       ]
     },
     "aviation": {
-      "col_normal": 5,
-      "col_prem": 1,
+      "col_normal": 4,
       "min_rank": 1,
       "max_rank": 7,
       "range": [
@@ -4270,7 +4252,6 @@
   "country_italy": {
     "army": {
       "col_normal": 4,
-      "col_prem": 2,
       "min_rank": 1,
       "max_rank": 7,
       "range": [
@@ -4422,7 +4403,6 @@
     },
     "helicopters": {
       "col_normal": 1,
-      "col_prem": 1,
       "min_rank": 5,
       "max_rank": 7,
       "range": [
@@ -4445,7 +4425,6 @@
     },
     "aviation": {
       "col_normal": 4,
-      "col_prem": 2,
       "min_rank": 1,
       "max_rank": 7,
       "range": [
@@ -4614,7 +4593,6 @@
   "country_france": {
     "army": {
       "col_normal": 5,
-      "col_prem": 2,
       "min_rank": 1,
       "max_rank": 7,
       "range": [
@@ -4742,7 +4720,6 @@
     },
     "helicopters": {
       "col_normal": 2,
-      "col_prem": 1,
       "min_rank": 5,
       "max_rank": 7,
       "range": [
@@ -4768,7 +4745,6 @@
     },
     "aviation": {
       "col_normal": 4,
-      "col_prem": 2,
       "min_rank": 1,
       "max_rank": 7,
       "range": [
@@ -4987,7 +4963,6 @@
   "country_sweden": {
     "army": {
       "col_normal": 5,
-      "col_prem": 2,
       "min_rank": 1,
       "max_rank": 7,
       "range": [
@@ -5108,7 +5083,6 @@
     },
     "helicopters": {
       "col_normal": 1,
-      "col_prem": 1,
       "min_rank": 5,
       "max_rank": 6,
       "range": [
@@ -5124,7 +5098,6 @@
     },
     "aviation": {
       "col_normal": 4,
-      "col_prem": 2,
       "min_rank": 1,
       "max_rank": 7,
       "range": [
@@ -5209,7 +5182,6 @@
   "country_israel": {
     "army": {
       "col_normal": 3,
-      "col_prem": 1,
       "min_rank": 4,
       "max_rank": 7,
       "range": [
@@ -5267,7 +5239,6 @@
     },
     "helicopters": {
       "col_normal": 2,
-      "col_prem": 1,
       "min_rank": 5,
       "max_rank": 7,
       "range": [
@@ -5284,7 +5255,6 @@
     },
     "aviation": {
       "col_normal": 3,
-      "col_prem": 1,
       "min_rank": 4,
       "max_rank": 7,
       "range": [

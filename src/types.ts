@@ -1483,7 +1483,6 @@ export interface FinalShopCountry {
 
 export interface FinalShopRange {
   col_normal: number;
-  col_prem: number;
   min_rank: number;
   max_rank: number;
   range: Array<FinalShopItem | FinalShopGroup>[];
