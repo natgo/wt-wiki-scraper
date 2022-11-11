@@ -14,7 +14,7 @@ import {
   Sights,
   TankWeapons,
   UnitData,
-  modernparse,
+  namevehicles,
 } from "./types";
 
 async function main() {
@@ -25,99 +25,7 @@ async function main() {
     fs.readFileSync("./War-Thunder-Datamine/char.vromfs.bin_u/config/unittags.blkx", "utf-8"),
   );
 
-  const vehicles: {
-    ground: modernparse[];
-    aircraft: modernparse[];
-    helicopter: modernparse[];
-  } = {
-    ground: [],
-    aircraft: [],
-    helicopter: [],
-  };
-
-  const vehiclePages: {
-    ground: string[];
-    aircraft: string[];
-    helicopter: string[];
-  } = {
-    ground: [],
-    aircraft: [],
-    helicopter: [],
-  };
-
-  const names: {
-    ground: { wikiname: string; intname: string }[];
-    aircraft: { wikiname: string; intname: string }[];
-    helicopter: { wikiname: string; intname: string }[];
-  } = {
-    ground: [],
-    aircraft: [],
-    helicopter: [],
-  };
-
-  const ground = fs.readdirSync("./wikitext/ground/");
-  const groundPages = fs.readdirSync("./wikitext-transpiled/ground/");
-  ground.forEach((element, i) => {
-    vehicles.ground.push(JSON.parse(fs.readFileSync(`./wikitext/ground/${element}`, "utf-8")));
-    vehiclePages.ground.push(
-      fs.readFileSync(`./wikitext-transpiled/ground/${groundPages[i]}`, "utf-8"),
-    );
-  });
-  const aircraft = fs.readdirSync("./wikitext/aircraft/");
-  const aircraftPages = fs.readdirSync("./wikitext-transpiled/aircraft/");
-  aircraft.forEach((element, i) => {
-    vehicles.aircraft.push(JSON.parse(fs.readFileSync(`./wikitext/aircraft/${element}`, "utf-8")));
-    vehiclePages.aircraft.push(
-      fs.readFileSync(`./wikitext-transpiled/aircraft/${aircraftPages[i]}`, "utf-8"),
-    );
-  });
-  const helicopter = fs.readdirSync("./wikitext/helicopter/");
-  const helicopterPages = fs.readdirSync("./wikitext-transpiled/helicopter/");
-  helicopter.forEach((element, i) => {
-    vehicles.helicopter.push(
-      JSON.parse(fs.readFileSync(`./wikitext/helicopter/${element}`, "utf-8")),
-    );
-    vehiclePages.helicopter.push(
-      fs.readFileSync(`./wikitext-transpiled/helicopter/${helicopterPages[i]}`, "utf-8"),
-    );
-  });
-
-  vehicles.ground.forEach((element, i) => {
-    const match = vehiclePages.ground[i].match(/data-code=".*"/g);
-    if (match) {
-      const splitmatch = match[0].split("=")[1];
-      names.ground.push({
-        intname: splitmatch.substring(1, splitmatch.length - 1),
-        wikiname: element.title,
-      });
-    } else {
-      console.log(`no match for "${element.title}" pageid: ${element.pageid}`);
-    }
-  });
-  vehicles.aircraft.forEach((element, i) => {
-    const match = vehiclePages.aircraft[i].match(/data-code=".*"/g);
-    if (match) {
-      const splitmatch = match[0].split("=")[1];
-      names.aircraft.push({
-        intname: splitmatch.substring(1, splitmatch.length - 1),
-        wikiname: element.title,
-      });
-    } else {
-      console.log(`no match for "${element.title}" pageid: ${element.pageid}`);
-    }
-  });
-  vehicles.helicopter.forEach((element, i) => {
-    const match = vehiclePages.helicopter[i].match(/data-code=".*"/g);
-    if (match) {
-      const splitmatch = match[0].split("=")[1];
-      names.helicopter.push({
-        intname: splitmatch.substring(1, splitmatch.length - 1),
-        wikiname: element.title,
-      });
-    } else {
-      console.log(`no match for "${element.title}" pageid: ${element.pageid}`);
-    }
-  });
+  const vehicles: namevehicles = JSON.parse(fs.readFileSync("./out/vehicles.json", "utf-8"));
 
   const br = [
     "1.0",
@@ -172,7 +80,8 @@ async function main() {
     aircraft: [],
     helicopter: [],
   };
-  names.ground.forEach((element) => {
+
+  vehicles.ground.forEach((element) => {
     const vehicleData: GroundVehicle = JSON.parse(
       fs.readFileSync(
         `./War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/units/tankmodels/${element.intname.toLowerCase()}.blkx`,
@@ -184,9 +93,6 @@ async function main() {
     const vehicleLang = units_lang.find((lang) => {
       return lang.ID === element.intname + "_shop";
     });
-    if (!vehicleLang) {
-      throw new Error(`no match in lang data to ${element.intname}_shop`);
-    }
 
     let marketplace: number | undefined;
     shopData[vehicleEconomy.country].army.range.forEach((notelement) => {
@@ -256,8 +162,6 @@ async function main() {
         }
       }
     }
-
-    console.log(element.wikiname);
 
     let night: NightVision = {};
     const bullets: { name: string; maxamount?: number }[] = [];
@@ -405,7 +309,7 @@ async function main() {
     final.ground.push({
       intname: element.intname,
       wikiname: element.wikiname,
-      displayname: vehicleLang.English,
+      displayname: vehicleLang?.English ? vehicleLang.English : undefined,
       normal_type: type,
       extended_type: ext_type.length > 0 ? ext_type : undefined,
       country: vehicleEconomy.country,
@@ -452,7 +356,7 @@ async function main() {
       weapons: weapons,
     });
   });
-  names.aircraft.forEach((element) => {
+  vehicles.aviation.forEach((element) => {
     const vehicleData: AirVehicle = JSON.parse(
       fs.readFileSync(
         `./War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/flightmodels/${element.intname.toLowerCase()}.blkx`,
@@ -464,9 +368,6 @@ async function main() {
     const vehicleLang = units_lang.find((lang) => {
       return lang.ID === element.intname + "_shop";
     });
-    if (!vehicleLang) {
-      throw new Error(`no match in lang data to ${element.intname}_shop`);
-    }
 
     let marketplace: number | undefined;
     shopData[vehicleEconomy.country].aviation.range.forEach((notelement) => {
@@ -564,7 +465,7 @@ async function main() {
     final.aircraft.push({
       intname: element.intname,
       wikiname: element.wikiname,
-      displayname: vehicleLang.English,
+      displayname: vehicleLang?.English ? vehicleLang.English : undefined,
       normal_type: type,
       extended_type: ext_type.length > 0 ? ext_type : undefined,
       country: vehicleEconomy.country,
@@ -593,7 +494,7 @@ async function main() {
       type: "aircraft",
     });
   });
-  names.helicopter.forEach((element) => {
+  vehicles.helicopter.forEach((element) => {
     const vehicleData: AirVehicle = JSON.parse(
       fs.readFileSync(
         `./War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/flightmodels/${element.intname.toLowerCase()}.blkx`,
@@ -605,9 +506,6 @@ async function main() {
     const vehicleLang = units_lang.find((lang) => {
       return lang.ID === element.intname + "_shop";
     });
-    if (!vehicleLang) {
-      throw new Error(`no match in lang data to ${element.intname}_shop`);
-    }
 
     let marketplace: number | undefined;
     shopData[vehicleEconomy.country].helicopters.range.forEach((notelement) => {
@@ -671,7 +569,7 @@ async function main() {
     final.helicopter.push({
       intname: element.intname,
       wikiname: element.wikiname,
-      displayname: vehicleLang.English,
+      displayname: vehicleLang?.English ? vehicleLang.English : undefined,
       normal_type: type,
       extended_type: ext_type.length > 0 ? ext_type : undefined,
       country: vehicleEconomy.country,

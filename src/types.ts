@@ -1295,8 +1295,8 @@ export interface Final {
 
 export interface FinalProps {
   intname: string;
-  wikiname: string;
-  displayname: string;
+  wikiname?: string;
+  displayname?: string;
   type: "tank" | "aircraft" | "helicopter";
   normal_type: string;
   extended_type?: string[];
@@ -1507,3 +1507,14 @@ export type FinalShopGroup = {
   reqAir?: "" | string;
   vehicles: FinalShopItem[];
 };
+
+export interface namevehicles {
+  ground: namevehicle[];
+  aviation: namevehicle[];
+  helicopter: namevehicle[];
+}
+
+export interface namevehicle {
+  intname: string;
+  wikiname?: string;
+}
