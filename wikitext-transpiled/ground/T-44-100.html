@@ -2547,20 +2547,20 @@
     >
   </h4>
   <div class="thumb tright">
-    <div class="thumbinner" style="width: 338px">
+    <div class="thumbinner" style="width: 266px">
       <a href="/File:Ammoracks_T-44-100.png" class="image"
         ><img
           alt=""
-          src="/images/thumb/9/9b/Ammoracks_T-44-100.png/336px-Ammoracks_T-44-100.png"
-          width="336"
+          src="/images/thumb/9/9b/Ammoracks_T-44-100.png/264px-Ammoracks_T-44-100.png"
+          width="264"
           height="250"
           class="thumbimage"
           srcset="
-            /images/thumb/9/9b/Ammoracks_T-44-100.png/504px-Ammoracks_T-44-100.png 1.5x,
-            /images/thumb/9/9b/Ammoracks_T-44-100.png/672px-Ammoracks_T-44-100.png 2x
+            /images/thumb/9/9b/Ammoracks_T-44-100.png/396px-Ammoracks_T-44-100.png 1.5x,
+            /images/thumb/9/9b/Ammoracks_T-44-100.png/528px-Ammoracks_T-44-100.png 2x
           "
-          data-file-width="800"
-          data-file-height="595"
+          data-file-width="742"
+          data-file-height="703"
       /></a>
       <div class="thumbcaption">
         <div class="magnify">
@@ -2582,15 +2582,26 @@
     <tr>
       <td><b>36</b></td>
       <td>34&#160;<i>(+2)</i></td>
-      <td>24&#160;<i>(+12)</i></td>
-      <td>21&#160;<i>(+15)</i></td>
+      <td>31&#160;<i>(+5)</i></td>
+      <td>11&#160;<i>(+25)</i></td>
       <td>1&#160;<i>(+35)</i></td>
       <td>No</td>
     </tr>
   </table>
   <p><b>Notes</b>:</p>
   <ul>
-    <li>Turret empty: 24&#160;<i>(+12)</i> shells.</li>
+    <li>Shells are modeled individually and disappear after having been shot or loaded.</li>
+    <li>
+      Rack 4 is a first stage ammo rack. It totals 10 shells and gets filled first when loading up
+      the tank.
+    </li>
+    <li>
+      This rack is also emptied early: the rack depletion order at full capacity is: 4 - 1 - 2 - 3.
+    </li>
+    <li>
+      Simply not firing when the gun is loaded will move ammo from racks 1-3 into rack 4. Firing
+      will interrupt the restocking of the ready rack.
+    </li>
   </ul>
   <h3>
     <span class="mw-headline" id="Machine_guns">Machine guns</span

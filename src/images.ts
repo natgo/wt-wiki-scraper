@@ -57,6 +57,10 @@ async function main() {
     "https://wiki.warthunder.com/api.php?action=query&format=json&prop=imageinfo&iiprop=url";
 
   final.aircraft.forEach(async (element) => {
+    if (!element.wikiname) {
+      return;
+    }
+
     const response: pageimages = await axios.get(
       `${imquery}&titles=${encodeURI(element.wikiname)}`,
     );
@@ -87,6 +91,10 @@ async function main() {
   });
 
   final.ground.forEach(async (element) => {
+    if (!element.wikiname) {
+      return;
+    }
+
     const response: pageimages = await axios.get(
       `${imquery}&titles=${encodeURI(element.wikiname)}`,
     );
@@ -117,6 +125,10 @@ async function main() {
   });
 
   final.helicopter.forEach(async (element) => {
+    if (!element.wikiname) {
+      return;
+    }
+    
     const response: pageimages = await axios.get(
       `${imquery}&titles=${encodeURI(element.wikiname)}`,
     );
