@@ -1,7 +1,7 @@
 import fs from "fs";
 import { format } from "prettier";
 
-import { Shop, ShopCountry, namevehicles, modernparse } from "./types";
+import { Shop, ShopCountry, modernparse, namevehicles } from "./types";
 
 async function main() {
   const shopData: Shop = JSON.parse(
@@ -116,17 +116,17 @@ async function main() {
         if ("image" in value) {
           Object.entries(value).forEach(([key, value]) => {
             if (!(key === "image" || key === "reqAir") && typeof value !== "string") {
-              const wikifind = wiki.ground.find((element)=>{
+              const wikifind = wiki.ground.find((element) => {
                 return element.intname === key;
               });
-              result.ground.push({ intname: key, wikiname:wikifind?.wikiname });
+              result.ground.push({ intname: key, wikiname: wikifind?.wikiname });
             }
           });
         } else {
-          const wikifind = wiki.ground.find((element)=>{
+          const wikifind = wiki.ground.find((element) => {
             return element.intname === key;
           });
-          result.ground.push({ intname: key, wikiname:wikifind?.wikiname });
+          result.ground.push({ intname: key, wikiname: wikifind?.wikiname });
         }
       });
     });
@@ -136,17 +136,17 @@ async function main() {
         if ("image" in value) {
           Object.entries(value).forEach(([key, value]) => {
             if (!(key === "image" || key === "reqAir") && typeof value !== "string") {
-              const wikifind = wiki.aviation.find((element)=>{
+              const wikifind = wiki.aviation.find((element) => {
                 return element.intname === key;
               });
-              result.aviation.push({ intname: key, wikiname:wikifind?.wikiname });
+              result.aviation.push({ intname: key, wikiname: wikifind?.wikiname });
             }
           });
         } else {
-          const wikifind = wiki.aviation.find((element)=>{
+          const wikifind = wiki.aviation.find((element) => {
             return element.intname === key;
           });
-          result.aviation.push({ intname: key, wikiname:wikifind?.wikiname });
+          result.aviation.push({ intname: key, wikiname: wikifind?.wikiname });
         }
       });
     });
@@ -156,17 +156,17 @@ async function main() {
         if ("image" in value) {
           Object.entries(value).forEach(([key, value]) => {
             if (!(key === "image" || key === "reqAir") && typeof value !== "string") {
-              const wikifind = wiki.helicopter.find((element)=>{
+              const wikifind = wiki.helicopter.find((element) => {
                 return element.intname === key;
               });
-              result.helicopter.push({ intname: key, wikiname:wikifind?.wikiname });
+              result.helicopter.push({ intname: key, wikiname: wikifind?.wikiname });
             }
           });
         } else {
-          const wikifind = wiki.helicopter.find((element)=>{
+          const wikifind = wiki.helicopter.find((element) => {
             return element.intname === key;
           });
-          result.helicopter.push({ intname: key, wikiname:wikifind?.wikiname });
+          result.helicopter.push({ intname: key, wikiname: wikifind?.wikiname });
         }
       });
     });

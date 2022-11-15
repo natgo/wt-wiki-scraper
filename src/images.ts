@@ -128,7 +128,7 @@ async function main() {
     if (!element.wikiname) {
       return;
     }
-    
+
     const response: pageimages = await axios.get(
       `${imquery}&titles=${encodeURI(element.wikiname)}`,
     );
