@@ -108,7 +108,7 @@ async function main() {
     }
   });
 
-  Object.entries(shopData).forEach(([key, value]) => {
+  Object.values(shopData).forEach((value) => {
     const value2 = value as ShopCountry;
 
     value2.army.range.forEach((element) => {
