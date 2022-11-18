@@ -1,5 +1,5 @@
 {
-  "updated": "2022-11-14T03:26:45.537Z",
+  "updated": "2022-11-18T18:11:22.984Z",
   "ground": [
     {
       "intname": "us_m2a4",
@@ -17403,8 +17403,8 @@
             ],
             "horizonalSpeed": 10,
             "verticalSpeed": 4,
-            "horizonalLimit": [-3, 3],
-            "verticalLimit": [0, 65],
+            "horizonalLimit": [-11, 11],
+            "verticalLimit": [0, 72],
             "shotFreq": 0.025,
             "caliber": 380
           }
@@ -51642,7 +51642,7 @@
       "sl_price": 110000,
       "reqRP": 26000,
       "mass": 8900,
-      "horsepower": 142,
+      "horsepower": 140,
       "prem_type": "false",
       "crew": 5,
       "gears_forward": 5,
@@ -60191,9 +60191,9 @@
       "rb_realbr": 25,
       "sb_br": "9.3",
       "sb_realbr": 25,
-      "base_ab_repair": 6190,
-      "base_rb_repair": 6350,
-      "base_sb_repair": 5630,
+      "base_ab_repair": 5710,
+      "base_rb_repair": 5860,
+      "base_sb_repair": 5190,
       "rp_multiplyer": 2.26,
       "ab_sl_multiplyer": 1.41,
       "rb_sl_multiplyer": 1.68,
@@ -74514,6 +74514,7 @@
       "reqRP": 71000,
       "prem_type": "gold",
       "cost_gold": 6090,
+      "hidden": true,
       "crew": 1,
       "type": "aircraft"
     },
