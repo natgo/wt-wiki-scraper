@@ -14,7 +14,7 @@ All the data in final.json comes from game files
 
 ### How does it work
 1. The app starts by querying a public api on wiki.warthunder.com for vehicles and downloads all vehicle pages
-2. Parses the internal vehicle name from wiki pages 
+2. Parses the internal vehicle name from wiki pages and combine them with internal gamedata
 3. Reads from game files data for all vehicles and parses it to out/final.json 
 
 ## Development
@@ -64,3 +64,4 @@ the output will be in out/ directory
 - [ ] Improve the file structure
 - [ ] Unify groud aircraft and helicopter
 - [x] Driver thermal
+- [ ] Add stabilizer and machineguns
