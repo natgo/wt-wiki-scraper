@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://github.com/prettier/prettier"><img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg"></a>
   <img alt="GitHub" src="https://img.shields.io/github/license/natgo/wt-wiki-scraper">
+  <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/natgo/wt-wiki-scraper">
 </p>
 
 <p align="center">
@@ -16,6 +17,8 @@ All the data in final.json comes from game files
 1. The app starts by querying a public api on wiki.warthunder.com for vehicles and downloads all vehicle pages
 2. Parses the internal vehicle name from wiki pages and combine them with internal gamedata
 3. Reads from game files data for all vehicles and parses it to out/final.json 
+4. Downloads all garageimages from wiki.warthunder.com and saves them to garageimages directory
+5. Parses and creates shop.json from shop.blkx
 
 ## Development
 

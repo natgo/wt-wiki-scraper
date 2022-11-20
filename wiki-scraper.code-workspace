@@ -11,6 +11,10 @@
 		"typescript.preferences.quoteStyle": "double",
 		"files.insertFinalNewline": true,
 		"editor.acceptSuggestionOnEnter": "off",
-		"terminal.integrated.shellIntegration.enabled": true
+		"terminal.integrated.shellIntegration.enabled": true,
+		"files.associations": {
+			"*.blkx": "json"
+		},
+		"typescript.updateImportsOnFileMove.enabled": "always"
 	}
 }
