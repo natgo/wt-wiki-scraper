@@ -2613,9 +2613,18 @@
       <td>No</td>
     </tr>
   </table>
-  <p><b>Note</b>:</p>
+  <p><b>Notes</b>:</p>
   <ul>
-    <li>The 2nd rack serves as first-stage ammo stowage.</li>
+    <li>Shells are modeled individually and disappear after having been shot or loaded.</li>
+    <li>
+      Rack 2 is a first stage ammo rack. It totals 15 shells and gets filled first when loading up
+      the tank.
+    </li>
+    <li>This rack is also emptied early: the rack depletion order at full capacity is: 2 - 1.</li>
+    <li>
+      Simply not firing when the gun is loaded will move ammo from rack 1 into rack 2. Firing will
+      interrupt the restocking of the ready rack.
+    </li>
   </ul>
   <h3>
     <span class="mw-headline" id="Machine_guns">Machine guns</span

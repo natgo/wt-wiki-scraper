@@ -258,7 +258,10 @@
       "wikiname": "Bfw. Jagdpanther G1"
     },
     { "intname": "germ_panzerjager_tiger_P_elefant", "wikiname": "Elefant" },
-    { "intname": "germ_sturmmorser_sturmtiger" },
+    {
+      "intname": "germ_sturmmorser_sturmtiger",
+      "wikiname": "38 cm Sturmmörser"
+    },
     { "intname": "germ_panther_II", "wikiname": "Panther II" },
     { "intname": "germ_mkpz_m47", "wikiname": "MKPz M47 G" },
     { "intname": "germ_erprobungstrager_3_achs_turm", "wikiname": "Turm III" },
@@ -1171,7 +1174,7 @@
       "intname": "p-63c-5_kingcobra_animal_version",
       "wikiname": "Kingcobra (USA)"
     },
-    { "intname": "p-61a_1", "wikiname": "P-61A-1" },
+    { "intname": "p-61a_1", "wikiname": "P-61A-11" },
     { "intname": "p-38j_marge", "wikiname": "Bong's P-38J-15" },
     { "intname": "p-38k", "wikiname": "P-38K" },
     { "intname": "p-59a", "wikiname": "P-59A" },

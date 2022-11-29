@@ -1,5 +1,5 @@
 {
-  "updated": "2022-11-18T18:11:22.984Z",
+  "updated": "2022-11-29T22:49:37.896Z",
   "ground": [
     {
       "intname": "us_m2a4",
@@ -12652,7 +12652,7 @@
             "horizonalSpeed": 20,
             "verticalSpeed": 4,
             "horizonalLimit": [-180, 180],
-            "verticalLimit": [-8, 20],
+            "verticalLimit": [-8, 18],
             "shotFreq": 0.135,
             "caliber": 75
           }
@@ -12785,7 +12785,7 @@
             "horizonalSpeed": 20,
             "verticalSpeed": 4,
             "horizonalLimit": [-180, 180],
-            "verticalLimit": [-8, 20],
+            "verticalLimit": [-8, 18],
             "shotFreq": 0.135,
             "caliber": 75
           }
@@ -17356,6 +17356,7 @@
     },
     {
       "intname": "germ_sturmmorser_sturmtiger",
+      "wikiname": "38 cm Sturmmörser",
       "displayname": "38 cm Sturmmörser",
       "normal_type": "type_tank_destroyer",
       "country": "country_germany",
@@ -18876,7 +18877,7 @@
             "horizonalSpeed": 20,
             "verticalSpeed": 4,
             "horizonalLimit": [-180, 180],
-            "verticalLimit": [-8, 20],
+            "verticalLimit": [-8, 18],
             "shotFreq": 0.135,
             "caliber": 75
           }
@@ -30939,7 +30940,7 @@
             "horizonalSpeed": 20,
             "verticalSpeed": 4,
             "horizonalLimit": [-180, 180],
-            "verticalLimit": [-8, 20],
+            "verticalLimit": [-8, 18],
             "shotFreq": 0.135,
             "caliber": 75
           }
@@ -50522,7 +50523,7 @@
             "horizonalSpeed": 15,
             "verticalSpeed": 4.5,
             "horizonalLimit": [-180, 180],
-            "verticalLimit": [-4.5, 18],
+            "verticalLimit": [-5, 18],
             "shotFreq": 0.117,
             "caliber": 100
           }
@@ -61550,7 +61551,7 @@
             "horizonalSpeed": 20,
             "verticalSpeed": 4,
             "horizonalLimit": [-180, 180],
-            "verticalLimit": [-8, 20],
+            "verticalLimit": [-8, 18],
             "shotFreq": 0.135,
             "caliber": 75
           }
@@ -75169,8 +75170,8 @@
     },
     {
       "intname": "p-61a_1",
-      "wikiname": "P-61A-1",
-      "displayname": "P-61A-1",
+      "wikiname": "P-61A-11",
+      "displayname": "P-61A-11",
       "normal_type": "type_fighter",
       "extended_type": ["type_aa_fighter"],
       "country": "country_usa",
