@@ -255,6 +255,11 @@
     was introduced in
     <a href="/Update_%22Fire_and_Ice%22" title='Update "Fire and Ice"'>Update "Fire and Ice"</a>.
   </p>
+  <p>
+    An export version of the Soviet <a href="/T-72A" title="T-72A">T-72A</a>, the T-72M1 carries
+    mostly the same characteristics of the original version in terms of armament, mobility, and
+    armour, though the latter has some slight changes with an applique armour on the front glacis.
+  </p>
   <h2>
     <span class="mw-headline" id="General_info">General info</span
     ><span class="mw-editsection"
@@ -345,14 +350,21 @@
     </div>
   </div>
   <p>
-    <i
-      >Describe armour protection. Note the most well protected and key weak areas. Appreciate the
-      layout of modules as well as the number and location of crew members. Is the level of armour
-      protection sufficient, is the placement of modules helpful for survival in combat? If
-      necessary use a visual template to indicate the most secure and weak zones of the armour.</i
-    >
+    The T-72M1 is basically a near identical copy of the T-72A found in the Soviet tech tree,
+    therefore the armour layout is also almost identical. Some differences are the additional
+    applique armour placed on the front glacis. While not substantially thick, the sloping effect on
+    top of the composite front glacis might be enough to prevent some shells from fully penetrating.
+  </p>
+  <p>
+    The hull and turret of the T-72M1 are strong enough to somewhat reliably bounce some shells and
+    eat, although it still possesses the same "weak spots" that most other soviet tanks have (weak
+    lower front plate, drivers optics etc.)
   </p>
   <p><b>Armour type:</b></p>
+  <ul>
+    <li>Cast homogeneous armor (turret)</li>
+    <li>Rolled homogeneous armor (hull)</li>
+  </ul>
   <table class="wikitable">
     <tr>
       <th>Armour</th>
@@ -363,30 +375,36 @@
     </tr>
     <tr>
       <td>Hull</td>
-      <td>___ mm</td>
       <td>
-        ___ mm <i>Top</i> <br />
-        ___ mm <i>Bottom</i>
+        60+16 mm (68°) <br />
+        mm
       </td>
-      <td>___ mm</td>
-      <td>___ - ___ mm</td>
+      <td>
+        80 mm <i>Top</i> <br />
+        20 mm <i>Bottom</i>
+      </td>
+      <td>40 mm</td>
+      <td>
+        30 mm <i>Frontal roof</i> <br />
+        20 mm <i>Engine deck roof</i>
+      </td>
     </tr>
     <tr>
       <td>Turret</td>
       <td>
-        ___ - ___ mm <i>Turret front</i> <br />
-        ___ mm <i>Gun mantlet</i>
+        200-280 mm <i>Turret front</i> (variable angles)<br />
+        150-400 mm <i>Gun mantlet</i> (variable angles)
       </td>
-      <td>___ - ___ mm</td>
-      <td>___ - ___ mm</td>
-      <td>___ - ___ mm</td>
+      <td>130-240 mm</td>
+      <td>75 mm</td>
+      <td>45 mm</td>
     </tr>
     <tr>
       <td>Cupola</td>
-      <td>___ mm</td>
-      <td>___ mm</td>
-      <td>___ mm</td>
-      <td>___ mm</td>
+      <td>100 mm (variable angles)</td>
+      <td>100 mm (variable angles)</td>
+      <td>100 mm (variable angles)</td>
+      <td>45 mm</td>
     </tr>
   </table>
   <p><b>Notes:</b></p>
@@ -2727,25 +2745,74 @@
   <table class="wikitable" style="text-align: center">
     <tr>
       <th>Full<br />ammo</th>
+      <th>Ammo parts</th>
       <th>1st<br />rack empty</th>
       <th>2nd<br />rack empty</th>
       <th>3rd<br />rack empty</th>
       <th>4th<br />rack empty</th>
-      <th>5th<br />rack empty</th>
-      <th>6th<br />rack empty</th>
       <th>Visual<br />discrepancy</th>
     </tr>
     <tr>
       <td><b>44</b></td>
-      <td>__&#160;<i>(+__)</i></td>
-      <td>__&#160;<i>(+__)</i></td>
-      <td>__&#160;<i>(+__)</i></td>
-      <td>__&#160;<i>(+__)</i></td>
-      <td>__&#160;<i>(+__)</i></td>
-      <td>__&#160;<i>(+__)</i></td>
-      <td>__</td>
+      <td>
+        <i>Projectiles</i>
+        <p><i>Propellants</i></p>
+      </td>
+      <td>
+        40 <i>(+4)</i>
+        <p>40 <i>(+4)</i></p>
+      </td>
+      <td>
+        29 <i>(+15)</i>
+        <p>29 <i>(+15)</i></p>
+      </td>
+      <td>
+        23 <i>(+21)</i>
+        <p>23 <i>(+21)</i></p>
+      </td>
+      <td>
+        1 <i>(+43)</i>
+        <p>1 <i>(+43)</i></p>
+      </td>
+      <td>No</td>
     </tr>
   </table>
+  <p><b>Notes:</b></p>
+  <ul>
+    <li>
+      The T-72M1 uses two-piece ammunition, composed of propellant bags and projectiles. Both have
+      separate racks.
+    </li>
+    <li>Shells are modelled individually and disappear after having been shot or loaded.</li>
+    <li>
+      A propellant charge remains in rack 2 after it is emptied and is later fired as part of rack
+      3. For the purpose of clarity, rack 2 is considered empty even if that charge is still
+      present.
+    </li>
+    <li>
+      Rack 4 (autoloader carrousel) is a first stage ammo rack containing 22 projectiles and 22
+      propellant charges.
+      <ul>
+        <li>
+          If you go into battle with only 23 shells loaded all your ammunition is stored in the
+          autoloader carrousel.
+        </li>
+        <li>This rack gets filled first when loading up the tank and is also emptied first.</li>
+        <li>
+          As the T-72M1 is equipped with an autoloader, manual reloading of the gun is not possible.
+        </li>
+        <li>
+          Once the autoloader magazine has been depleted, you can't shoot until the loader has
+          restocked the autoloader with at least one shell. The restocking time is longer than the
+          normal reload time of the gun. Take this into account when playing.
+        </li>
+        <li>
+          Simply not firing when the gun is loaded will move ammo from racks 1 to 3 into rack 4.
+          Firing will interrupt the restocking of the ready rack.
+        </li>
+      </ul>
+    </li>
+  </ul>
   <h3>
     <span class="mw-headline" id="Machine_guns">Machine guns</span
     ><span class="mw-editsection"
@@ -2911,19 +2978,59 @@
       ><span class="mw-editsection-bracket">]</span></span
     >
   </h3>
-  <p>
-    <i
-      >Summarise and briefly evaluate the vehicle in terms of its characteristics and combat
-      effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points
-      for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and
-      the like - use substitutions with softer forms such as "inadequate" and "effective".</i
-    >
-  </p>
   <p><b>Pros:</b></p>
   <ul>
-    <li></li>
+    <li>
+      Mounts the same powerful 125 mm 2A46 gun as on the T-64 and T-80 (though an earlier version)
+    </li>
+    <li>Low profile, small target compared to other countries' main battle tanks</li>
+    <li>Early unlocked laser rangefinder makes sniping long distances easier</li>
+    <li>Has both smoke grenade launchers and ESS</li>
+    <li>
+      Due to thick frontal armour and correct angling, able to deflect most rounds from counterpart
+      tanks of other countries
+    </li>
+    <li>
+      Very accurate gun due to the high muzzle velocity of the APFSDS rounds, very effective
+      long-range sniper
+    </li>
+    <li>
+      Autoloader continues working even if fighting a fire or replacing a crew member, ready to use
+      upon the fire being extinguished or the gunner having been replaced
+    </li>
   </ul>
   <p><b>Cons:</b></p>
+  <ul>
+    <li>
+      Ammo carousel means your first stage rounds all are centred below the turret, can be easily
+      detonated through a hit to the hull
+    </li>
+    <li>Doesn't get access to thermals</li>
+    <li>
+      Very slow reverse speed and traverse speed, a problem in situations where you cannot back away
+      from an attacking enemy
+    </li>
+    <li>
+      3-man crew makes tank able to be knocked out easier, once one crew member is knocked out, you
+      have to be very careful not to get hit again
+    </li>
+    <li>
+      Gun depression inadequate for most hull-down situations, e.g. sniping from a hill or down a
+      valley
+    </li>
+    <li>Driver's port is a easily penetrated</li>
+    <li>Poor top speed</li>
+    <li>Inferior optics with only one 8x zoom level</li>
+    <li>
+      1st APFSDS modification is inferior to most contemporary rounds and 3BM22 is a Rank IV
+      modification
+    </li>
+    <li>
+      Its 2A46 125 mm gun is an early type; the stock ammunition is lacklustre and it cannot fire
+      ATGMs like the T-64B, T-80B, and T-80U
+    </li>
+    <li>The tank commander can't fire the main gun if the gunner is knocked out.</li>
+  </ul>
   <ul>
     <li></li>
   </ul>

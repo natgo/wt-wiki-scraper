@@ -18,12 +18,7 @@ export function CWToCannon(
   });
 
   if (name === "dummy_weapon") {
-    weapon_data = JSON.parse(
-      fs.readFileSync(
-        `./War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/weapons/${name}.blkx`,
-        "utf-8",
-      ),
-    );
+    weapon_data = {};
   } else {
     weapon_data = JSON.parse(
       fs.readFileSync(

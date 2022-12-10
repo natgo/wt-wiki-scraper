@@ -60,6 +60,11 @@ async function main() {
     "10.7",
     "11.0",
     "11.3",
+    "11.7",
+    "12.0",
+    "12.3",
+    "12.7",
+    "13.0",
   ];
 
   const weaponry_lang = langcsvJSON(
