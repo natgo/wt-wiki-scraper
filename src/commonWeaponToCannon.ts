@@ -6,6 +6,7 @@ export function CWToCannon(
   Weapon: WeaponGround,
   bullets: { name: string; maxamount?: number }[],
   langdata: { ID: string; English: string }[],
+  dev: boolean,
 ) {
   const name = Weapon.blk.split("/")[Weapon.blk.split("/").length - 1].replace(/\.blk/g, "");
   let weapon_data: Weapon;
@@ -22,7 +23,9 @@ export function CWToCannon(
   } else {
     weapon_data = JSON.parse(
       fs.readFileSync(
-        `./War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/weapons/groundmodels_weapons/${name.toLowerCase()}.blkx`,
+        `./${
+          dev ? "datamine-dev" : "War-Thunder-Datamine"
+        }/aces.vromfs.bin_u/gamedata/weapons/groundmodels_weapons/${name.toLowerCase()}.blkx`,
         "utf-8",
       ),
     );

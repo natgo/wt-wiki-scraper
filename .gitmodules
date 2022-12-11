@@ -1,3 +1,7 @@
 [submodule "War-Thunder-Datamine"]
 	path = War-Thunder-Datamine
 	url = https://github.com/natgo/War-Thunder-Datamine.git
+[submodule "datamine-dev"]
+	path = datamine-dev
+	url = https://github.com/natgo/War-Thunder-Datamine.git
+	branch = dev

@@ -3,9 +3,12 @@ import { format } from "prettier";
 
 import { Shop, ShopCountry, modernparse, namevehicles } from "./types";
 
-async function main() {
+async function main(dev: boolean) {
   const shopData: Shop = JSON.parse(
-    fs.readFileSync("./War-Thunder-Datamine/char.vromfs.bin_u/config/shop.blkx", "utf-8"),
+    fs.readFileSync(
+      `./${dev ? "datamine-dev" : "War-Thunder-Datamine"}/char.vromfs.bin_u/config/shop.blkx`,
+      "utf-8",
+    ),
   );
 
   const result: namevehicles = {
@@ -171,7 +174,11 @@ async function main() {
       });
     });
   });
-  fs.writeFileSync("./out/vehicles.json", format(JSON.stringify(result), { parser: "json" }));
+  fs.writeFileSync(
+    `./out/${dev ? "vehicles-dev" : "vehicles"}.json`,
+    format(JSON.stringify(result), { parser: "json" }),
+  );
 }
 
-main();
+main(false);
+main(true);

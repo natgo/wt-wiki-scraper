@@ -17,15 +17,23 @@ import {
   namevehicles,
 } from "./types";
 
-async function main() {
+async function main(dev: boolean) {
   const economy: Record<string, Economy> = JSON.parse(
-    fs.readFileSync("./War-Thunder-Datamine/char.vromfs.bin_u/config/wpcost.blkx", "utf-8"),
+    fs.readFileSync(
+      `./${dev ? "datamine-dev" : "War-Thunder-Datamine"}/char.vromfs.bin_u/config/wpcost.blkx`,
+      "utf-8",
+    ),
   );
   const unitData: Record<string, UnitData> = JSON.parse(
-    fs.readFileSync("./War-Thunder-Datamine/char.vromfs.bin_u/config/unittags.blkx", "utf-8"),
+    fs.readFileSync(
+      `./${dev ? "datamine-dev" : "War-Thunder-Datamine"}/char.vromfs.bin_u/config/unittags.blkx`,
+      "utf-8",
+    ),
   );
 
-  const vehicles: namevehicles = JSON.parse(fs.readFileSync("./out/vehicles.json", "utf-8"));
+  const vehicles: namevehicles = JSON.parse(
+    fs.readFileSync(`./out/${dev ? "vehicles-dev" : "vehicles"}.json`, "utf-8"),
+  );
 
   const br = [
     "1.0",
@@ -68,19 +76,34 @@ async function main() {
   ];
 
   const weaponry_lang = langcsvJSON(
-    fs.readFileSync("./War-Thunder-Datamine/lang.vromfs.bin_u/lang/units_weaponry.csv", "utf-8"),
+    fs.readFileSync(
+      `./${
+        dev ? "datamine-dev" : "War-Thunder-Datamine"
+      }/lang.vromfs.bin_u/lang/units_weaponry.csv`,
+      "utf-8",
+    ),
   );
 
   const units_lang = langcsvJSON(
-    fs.readFileSync("./War-Thunder-Datamine/lang.vromfs.bin_u/lang/units.csv", "utf-8"),
+    fs.readFileSync(
+      `./${dev ? "datamine-dev" : "War-Thunder-Datamine"}/lang.vromfs.bin_u/lang/units.csv`,
+      "utf-8",
+    ),
   );
 
   const shopData: Shop = JSON.parse(
-    fs.readFileSync("./War-Thunder-Datamine/char.vromfs.bin_u/config/shop.blkx", "utf-8"),
+    fs.readFileSync(
+      `./${dev ? "datamine-dev" : "War-Thunder-Datamine"}/char.vromfs.bin_u/config/shop.blkx`,
+      "utf-8",
+    ),
   );
 
   const final: Final = {
     updated: new Date(),
+    version: fs.readFileSync(
+      `./${dev ? "datamine-dev" : "War-Thunder-Datamine"}/aces.vromfs.bin_u/version`,
+      "utf-8",
+    ),
     ground: [],
     aircraft: [],
     helicopter: [],
@@ -89,7 +112,9 @@ async function main() {
   vehicles.ground.forEach((element) => {
     const vehicleData: GroundVehicle = JSON.parse(
       fs.readFileSync(
-        `./War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/units/tankmodels/${element.intname.toLowerCase()}.blkx`,
+        `./${
+          dev ? "datamine-dev" : "War-Thunder-Datamine"
+        }/aces.vromfs.bin_u/gamedata/units/tankmodels/${element.intname.toLowerCase()}.blkx`,
         "utf-8",
       ),
     );
@@ -233,10 +258,10 @@ async function main() {
         ) {
           if (element.dummy) {
             if (element.emitter === "bone_gun_01") {
-              weapons.cannon?.push(CWToCannon(element, bullets, weaponry_lang));
+              weapons.cannon?.push(CWToCannon(element, bullets, weaponry_lang, dev));
             }
           } else {
-            weapons.cannon?.push(CWToCannon(element, bullets, weaponry_lang));
+            weapons.cannon?.push(CWToCannon(element, bullets, weaponry_lang, dev));
           }
         }
       });
@@ -247,7 +272,7 @@ async function main() {
         Weapon.triggerGroup === "primary" ||
         Weapon.triggerGroup === "secondary"
       ) {
-        weapons.cannon?.push(CWToCannon(Weapon, bullets, weaponry_lang));
+        weapons.cannon?.push(CWToCannon(Weapon, bullets, weaponry_lang, dev));
       }
     }
 
@@ -365,7 +390,9 @@ async function main() {
   vehicles.aviation.forEach((element) => {
     const vehicleData: AirVehicle = JSON.parse(
       fs.readFileSync(
-        `./War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/flightmodels/${element.intname.toLowerCase()}.blkx`,
+        `./${
+          dev ? "datamine-dev" : "War-Thunder-Datamine"
+        }/aces.vromfs.bin_u/gamedata/flightmodels/${element.intname.toLowerCase()}.blkx`,
         "utf-8",
       ),
     );
@@ -504,7 +531,9 @@ async function main() {
   vehicles.helicopter.forEach((element) => {
     const vehicleData: AirVehicle = JSON.parse(
       fs.readFileSync(
-        `./War-Thunder-Datamine/aces.vromfs.bin_u/gamedata/flightmodels/${element.intname.toLowerCase()}.blkx`,
+        `./${
+          dev ? "datamine-dev" : "War-Thunder-Datamine"
+        }/aces.vromfs.bin_u/gamedata/flightmodels/${element.intname.toLowerCase()}.blkx`,
         "utf-8",
       ),
     );
@@ -606,7 +635,11 @@ async function main() {
       type: "helicopter",
     });
   });
-  fs.writeFileSync("./out/final.json", format(JSON.stringify(final), { parser: "json" }));
+  fs.writeFileSync(
+    `./out/${dev ? "final-dev" : "final"}.json`,
+    format(JSON.stringify(final), { parser: "json" }),
+  );
 }
 
-main();
+main(false);
+main(true);

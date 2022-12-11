@@ -12,13 +12,19 @@ import {
   ShopCountry,
 } from "./types";
 
-async function main() {
+async function main(dev: boolean) {
   const final: Final = JSON.parse(fs.readFileSync("./out/final.json", "utf-8"));
   const shopData: Shop = JSON.parse(
-    fs.readFileSync("./War-Thunder-Datamine/char.vromfs.bin_u/config/shop.blkx", "utf-8"),
+    fs.readFileSync(
+      `./${dev ? "datamine-dev" : "War-Thunder-Datamine"}/char.vromfs.bin_u/config/shop.blkx`,
+      "utf-8",
+    ),
   );
   const units_lang = langcsvJSON(
-    fs.readFileSync("./War-Thunder-Datamine/lang.vromfs.bin_u/lang/units.csv", "utf-8"),
+    fs.readFileSync(
+      `./${dev ? "datamine-dev" : "War-Thunder-Datamine"}/lang.vromfs.bin_u/lang/units.csv`,
+      "utf-8",
+    ),
   );
 
   const result: FinalShop = {};
@@ -269,7 +275,11 @@ async function main() {
       aviation: aviation,
     };
   });
-  fs.writeFileSync("./out/shop.json", format(JSON.stringify(result), { parser: "json" }));
+  fs.writeFileSync(
+    `./out/${dev ? "shop-dev" : "shop"}.json`,
+    format(JSON.stringify(result), { parser: "json" }),
+  );
 }
 
-main();
+main(false);
+main(true);

@@ -1,6 +1,6 @@
 {
-  "updated": "2022-12-11T04:16:47.665Z",
-  "version": "2.21.1.101",
+  "updated": "2022-12-11T04:16:59.177Z",
+  "version": "2.22.0.14",
   "ground": [
     {
       "intname": "us_m2a4",
@@ -326,7 +326,7 @@
       "sb_sl_multiplyer": 2.1,
       "sl_price": 170000,
       "reqRP": 46000,
-      "mass": 23040,
+      "mass": 23100,
       "horsepower": 500,
       "prem_type": "false",
       "crew": 4,
@@ -1107,7 +1107,7 @@
       "mass": 27675,
       "horsepower": 400,
       "prem_type": "false",
-      "crew": 6,
+      "crew": 7,
       "gears_forward": 5,
       "gears_backward": 1,
       "type": "tank",
@@ -3585,7 +3585,7 @@
       "sb_sl_multiplyer": 2.17,
       "sl_price": 740000,
       "reqRP": 270000,
-      "mass": 54431,
+      "mass": 56700,
       "horsepower": 1519,
       "prem_type": "false",
       "crew": 4,
@@ -3677,7 +3677,7 @@
       "sb_sl_multiplyer": 1.94,
       "sl_price": 930000,
       "reqRP": 340000,
-      "mass": 57150,
+      "mass": 59360,
       "horsepower": 1519,
       "prem_type": "false",
       "crew": 4,
@@ -3755,7 +3755,7 @@
       "sb_sl_multiplyer": 1.83,
       "sl_price": 930000,
       "reqRP": 340000,
-      "mass": 55340,
+      "mass": 56800,
       "horsepower": 1519,
       "prem_type": "false",
       "crew": 4,
@@ -4417,22 +4417,22 @@
       "displayname": "M42",
       "normal_type": "type_spaa",
       "country": "country_usa",
-      "rank": 4,
+      "rank": 3,
       "ab_br": "5.3",
       "ab_realbr": 13,
-      "rb_br": "4.7",
-      "rb_realbr": 11,
+      "rb_br": "4.3",
+      "rb_realbr": 10,
       "sb_br": "4.7",
       "sb_realbr": 11,
-      "base_ab_repair": 3600,
-      "base_rb_repair": 2960,
-      "base_sb_repair": 3980,
-      "rp_multiplyer": 1.78,
-      "ab_sl_multiplyer": 1.38,
-      "rb_sl_multiplyer": 1.91,
+      "base_ab_repair": 2120,
+      "base_rb_repair": 1730,
+      "base_sb_repair": 2730,
+      "rp_multiplyer": 1.6,
+      "ab_sl_multiplyer": 1.1,
+      "rb_sl_multiplyer": 1.52,
       "sb_sl_multiplyer": 2.5,
-      "sl_price": 210000,
-      "reqRP": 71000,
+      "sl_price": 170000,
+      "reqRP": 46000,
       "mass": 22450,
       "horsepower": 500,
       "prem_type": "false",
@@ -5685,9 +5685,9 @@
       "rb_realbr": 27,
       "sb_br": "10.0",
       "sb_realbr": 27,
-      "base_ab_repair": 3860,
-      "base_rb_repair": 4020,
-      "base_sb_repair": 3760,
+      "base_ab_repair": 3220,
+      "base_rb_repair": 3350,
+      "base_sb_repair": 3130,
       "rp_multiplyer": 2.32,
       "ab_sl_multiplyer": 1.16,
       "rb_sl_multiplyer": 1.41,
@@ -5727,8 +5727,8 @@
             "shells": [
               {
                 "modname": "105mm_NATO_APDS_FS",
-                "name": "C76A1",
-                "intname": "105mm_c76a1"
+                "name": "M774",
+                "intname": "105mm_m774"
               },
               {
                 "modname": "105mm_usa_M900_APDS_FS",
@@ -6874,40 +6874,58 @@
       }
     },
     {
-      "intname": "us_t54e1",
-      "wikiname": "T54E1",
-      "displayname": "T54E1",
+      "intname": "us_m728",
+      "displayname": "M728",
       "normal_type": "type_medium_tank",
       "country": "country_usa",
       "rank": 5,
       "ab_br": "8.0",
       "ab_realbr": 21,
-      "rb_br": "8.0",
-      "rb_realbr": 21,
-      "sb_br": "8.0",
-      "sb_realbr": 21,
-      "base_ab_repair": 2810,
-      "base_rb_repair": 2810,
-      "base_sb_repair": 4100,
-      "rp_multiplyer": 2.08,
-      "ab_sl_multiplyer": 2,
-      "rb_sl_multiplyer": 3,
-      "sb_sl_multiplyer": 3.1,
+      "rb_br": "7.0",
+      "rb_realbr": 18,
+      "sb_br": "7.0",
+      "sb_realbr": 18,
+      "base_ab_repair": 5100,
+      "base_rb_repair": 2420,
+      "base_sb_repair": 2420,
+      "rp_multiplyer": 1.96,
+      "ab_sl_multiplyer": 1.44,
+      "rb_sl_multiplyer": 2.24,
+      "sb_sl_multiplyer": 3.3,
       "sl_price": 0,
-      "reqRP": 150000,
-      "mass": 54430,
-      "horsepower": 810,
-      "prem_type": "gold",
-      "cost_gold": 8560,
+      "reqRP": 110000,
+      "mass": 53200,
+      "horsepower": 750,
+      "prem_type": "store",
+      "cost_gold": 8200,
       "crew": 4,
-      "gears_forward": 4,
-      "gears_backward": 1,
+      "gears_forward": 6,
+      "gears_backward": 2,
       "type": "tank",
       "has_neutral": true,
-      "has_range": true,
+      "has_dozer": true,
+      "has_ess": true,
       "optics": {
-        "gunner": { "zoomInFov": 9.8, "zoomOutFov": 12.3 },
-        "commander": { "zoomInFov": 7.37, "zoomOutFov": 7.47 },
+        "gunner": {
+          "zoomInFov": 9.21,
+          "zoomOutFov": 10,
+          "ir": {
+            "resolution": [800, 600],
+            "lightMult": 8,
+            "ghosting": 0.75,
+            "noiseFactor": 0.2
+          }
+        },
+        "commander": {
+          "zoomInFov": 10.53,
+          "zoomOutFov": 80,
+          "ir": {
+            "resolution": [800, 600],
+            "lightMult": 8,
+            "ghosting": 0.75,
+            "noiseFactor": 0.2
+          }
+        },
         "driver": {
           "ir": {
             "resolution": [800, 600],
@@ -6920,33 +6938,22 @@
       "weapons": {
         "cannon": [
           {
-            "intname": "105mm_T140_user_cannon",
-            "name": "105 mm T140E2 cannon",
-            "ammo": 36,
+            "intname": "165mm_M135_user_cannon",
+            "name": "165 mm M135 cannon",
+            "ammo": 30,
             "shells": [
               {
-                "modname": "105mm_us_T298E1_HEAT",
-                "name": "T298E1",
-                "intname": "105mm_t298e1"
-              },
-              {
-                "modname": "105mm_us_T279_APDS",
-                "name": "T279",
-                "intname": "105mm_t279"
-              },
-              {
-                "modname": "default",
-                "name": "T182E1",
-                "intname": "105mm_t182e1"
+                "modname": "165mm_us_HESH",
+                "name": "M123",
+                "intname": "165mm_m123"
               }
             ],
-            "horizonalSpeed": 18,
+            "horizonalSpeed": 20,
             "verticalSpeed": 4,
             "horizonalLimit": [-180, 180],
-            "verticalLimit": [-8, 13],
-            "autoloader": true,
-            "shotFreq": 0.2,
-            "caliber": 105
+            "verticalLimit": [-10, 20],
+            "shotFreq": 0.047,
+            "caliber": 165
           }
         ],
         "machineGun": []
@@ -7281,6 +7288,86 @@
             "verticalLimit": [-30, 35],
             "shotFreq": 2,
             "caliber": 127
+          }
+        ],
+        "machineGun": []
+      }
+    },
+    {
+      "intname": "us_m1128_wolfpack",
+      "normal_type": "type_light_tank",
+      "country": "country_usa",
+      "rank": 6,
+      "ab_br": "9.7",
+      "ab_realbr": 26,
+      "rb_br": "9.7",
+      "rb_realbr": 26,
+      "sb_br": "9.7",
+      "sb_realbr": 26,
+      "base_ab_repair": 4560,
+      "base_rb_repair": 4560,
+      "base_sb_repair": 4560,
+      "rp_multiplyer": 2.26,
+      "ab_sl_multiplyer": 2,
+      "rb_sl_multiplyer": 3,
+      "sb_sl_multiplyer": 3.3,
+      "sl_price": 0,
+      "reqRP": 270000,
+      "mass": 23404,
+      "horsepower": 350,
+      "prem_type": "gold",
+      "cost_gold": 9090,
+      "crew": 3,
+      "gears_forward": 12,
+      "gears_backward": 2,
+      "type": "tank",
+      "has_smoke": true,
+      "has_laser_range": true,
+      "optics": {
+        "gunner": {
+          "zoomInFov": 7.37,
+          "zoomOutFov": 22.46,
+          "thermal": { "resolution": [1200, 800], "noiseFactor": 0.04 }
+        },
+        "commander": {
+          "zoomInFov": 9.21,
+          "zoomOutFov": 37.5,
+          "thermal": { "resolution": [1200, 800], "noiseFactor": 0.04 }
+        },
+        "driver": {
+          "thermal": { "resolution": [500, 300], "noiseFactor": 0.05 }
+        }
+      },
+      "weapons": {
+        "cannon": [
+          {
+            "intname": "105mm_M68A1_E8_user_cannon",
+            "name": "105 mm M68A1E8 cannon",
+            "ammo": 18,
+            "shells": [
+              {
+                "modname": "105mm_NATO_APDS_FS",
+                "name": "M774",
+                "intname": "105mm_m774"
+              },
+              {
+                "modname": "105mm_usa_M833_APDS_FS",
+                "name": "M833",
+                "intname": "105mm_m833"
+              },
+              {
+                "modname": "default",
+                "name": "M456A2",
+                "intname": "105mm_m456a2"
+              }
+            ],
+            "horizonalSpeed": 40,
+            "verticalSpeed": 36,
+            "horizonalLimit": [-180, 180],
+            "verticalLimit": [-5, 15],
+            "autoloader": true,
+            "shotFreq": 0.1334,
+            "caliber": 105
           }
         ],
         "machineGun": []
@@ -8253,6 +8340,85 @@
       }
     },
     {
+      "intname": "us_t54e1",
+      "wikiname": "T54E1",
+      "displayname": "T54E1",
+      "normal_type": "type_medium_tank",
+      "country": "country_usa",
+      "rank": 5,
+      "ab_br": "8.0",
+      "ab_realbr": 21,
+      "rb_br": "8.0",
+      "rb_realbr": 21,
+      "sb_br": "8.0",
+      "sb_realbr": 21,
+      "base_ab_repair": 2810,
+      "base_rb_repair": 2810,
+      "base_sb_repair": 4100,
+      "rp_multiplyer": 2.08,
+      "ab_sl_multiplyer": 2,
+      "rb_sl_multiplyer": 3,
+      "sb_sl_multiplyer": 3.1,
+      "sl_price": 0,
+      "reqRP": 150000,
+      "mass": 54430,
+      "horsepower": 810,
+      "prem_type": "gold",
+      "cost_gold": 8560,
+      "crew": 4,
+      "gears_forward": 4,
+      "gears_backward": 1,
+      "type": "tank",
+      "has_neutral": true,
+      "has_range": true,
+      "optics": {
+        "gunner": { "zoomInFov": 9.8, "zoomOutFov": 12.3 },
+        "commander": { "zoomInFov": 7.37, "zoomOutFov": 7.47 },
+        "driver": {
+          "ir": {
+            "resolution": [800, 600],
+            "lightMult": 5,
+            "ghosting": 0.7,
+            "noiseFactor": 0.2
+          }
+        }
+      },
+      "weapons": {
+        "cannon": [
+          {
+            "intname": "105mm_T140_user_cannon",
+            "name": "105 mm T140E2 cannon",
+            "ammo": 36,
+            "shells": [
+              {
+                "modname": "105mm_us_T298E1_HEAT",
+                "name": "T298E1",
+                "intname": "105mm_t298e1"
+              },
+              {
+                "modname": "105mm_us_T279_APDS",
+                "name": "T279",
+                "intname": "105mm_t279"
+              },
+              {
+                "modname": "default",
+                "name": "T182E1",
+                "intname": "105mm_t182e1"
+              }
+            ],
+            "horizonalSpeed": 18,
+            "verticalSpeed": 4,
+            "horizonalLimit": [-180, 180],
+            "verticalLimit": [-8, 13],
+            "autoloader": true,
+            "shotFreq": 0.2,
+            "caliber": 105
+          }
+        ],
+        "machineGun": []
+      }
+    },
+    {
       "intname": "us_merkava_mk_1",
       "wikiname": "Merkava Mk.1 (USA)",
       "displayname": "▃Merkava Mk.1",
@@ -8386,8 +8552,8 @@
       "marketplace": 50085,
       "event": "winter_2020",
       "crew": 4,
-      "gears_forward": 6,
-      "gears_backward": 2,
+      "gears_forward": 8,
+      "gears_backward": 4,
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
@@ -8853,8 +9019,8 @@
       "marketplace": 50105,
       "event": "craft_2020_autumn",
       "crew": 4,
-      "gears_forward": 6,
-      "gears_backward": 2,
+      "gears_forward": 8,
+      "gears_backward": 4,
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
@@ -8938,7 +9104,7 @@
       "sb_sl_multiplyer": 1.94,
       "sl_price": 930000,
       "reqRP": 340000,
-      "mass": 57150,
+      "mass": 59360,
       "horsepower": 1519,
       "prem_type": "false",
       "hidden": true,
@@ -8990,84 +9156,6 @@
             "verticalLimit": [-10, 20],
             "shotFreq": 0.2,
             "caliber": 120
-          }
-        ],
-        "machineGun": []
-      }
-    },
-    {
-      "intname": "sdi_minotaur",
-      "normal_type": "type_medium_tank",
-      "country": "country_usa",
-      "operator_country": "country_invisible",
-      "rank": 7,
-      "ab_br": "10.3",
-      "ab_realbr": 28,
-      "rb_br": "10.3",
-      "rb_realbr": 28,
-      "sb_br": "10.3",
-      "sb_realbr": 28,
-      "base_ab_repair": 4880,
-      "base_rb_repair": 5860,
-      "base_sb_repair": 6330,
-      "rp_multiplyer": 2.32,
-      "ab_sl_multiplyer": 1.09,
-      "rb_sl_multiplyer": 1.66,
-      "sb_sl_multiplyer": 1.82,
-      "sl_price": 930000,
-      "reqRP": 340000,
-      "mass": 60000,
-      "horsepower": 3000,
-      "prem_type": "false",
-      "hidden": true,
-      "crew": 3,
-      "gears_forward": 9,
-      "gears_backward": 4,
-      "type": "tank",
-      "has_neutral": true,
-      "has_lws": true,
-      "has_composite": true,
-      "has_laser_range": true,
-      "optics": {
-        "gunner": {
-          "zoomInFov": 5,
-          "zoomOutFov": 13,
-          "thermal": { "resolution": [1200, 800], "noiseFactor": 0.04 }
-        },
-        "driver": {
-          "thermal": { "resolution": [500, 300], "noiseFactor": 0.05 }
-        }
-      },
-      "weapons": {
-        "cannon": [
-          {
-            "intname": "140mm_utc_l55_user_cannon",
-            "name": "140 mm ATW cannon",
-            "ammo": 26,
-            "shells": [
-              {
-                "modname": "140mm_KE",
-                "name": "ATW-KE",
-                "intname": "140mm_KE"
-              },
-              {
-                "modname": "140mm_MPHE",
-                "name": "ATW-MP-HE",
-                "intname": "140mm_mphe"
-              },
-              {
-                "modname": "140mm_GM",
-                "name": "ATW-CLGP",
-                "intname": "140mm_clgp"
-              }
-            ],
-            "horizonalSpeed": 35,
-            "verticalSpeed": 12,
-            "horizonalLimit": [-180, 180],
-            "verticalLimit": [-10, 20],
-            "autoloader": true,
-            "shotFreq": 0.25,
-            "caliber": 140
           }
         ],
         "machineGun": []
@@ -9877,7 +9965,7 @@
       "sb_sl_multiplyer": 2.37,
       "sl_price": 210000,
       "reqRP": 71000,
-      "mass": 23040,
+      "mass": 23100,
       "horsepower": 500,
       "prem_type": "false",
       "crew": 4,
@@ -11673,8 +11761,8 @@
       "horsepower": 1000,
       "prem_type": "false",
       "crew": 4,
-      "gears_forward": 7,
-      "gears_backward": 2,
+      "gears_forward": 8,
+      "gears_backward": 4,
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
@@ -12502,7 +12590,6 @@
       "gears_forward": 7,
       "gears_backward": 1,
       "type": "tank",
-      "has_neutral": true,
       "has_smoke": true,
       "optics": { "gunner": { "zoomInFov": 21, "zoomOutFov": 40 } },
       "weapons": {
@@ -17686,7 +17773,7 @@
       "sb_sl_multiplyer": 3.09,
       "sl_price": 0,
       "reqRP": 220000,
-      "mass": 30500,
+      "mass": 33000,
       "horsepower": 720,
       "prem_type": "gold",
       "cost_gold": 8910,
@@ -23553,8 +23640,8 @@
       "horsepower": 1100,
       "prem_type": "false",
       "crew": 3,
-      "gears_forward": 9,
-      "gears_backward": 1,
+      "gears_forward": 8,
+      "gears_backward": 2,
       "type": "tank",
       "has_dozer": true,
       "has_smoke": true,
@@ -23659,8 +23746,8 @@
       "horsepower": 1250,
       "prem_type": "false",
       "crew": 3,
-      "gears_forward": 9,
-      "gears_backward": 1,
+      "gears_forward": 8,
+      "gears_backward": 2,
       "type": "tank",
       "has_dozer": true,
       "has_smoke": true,
@@ -23766,8 +23853,8 @@
       "horsepower": 1250,
       "prem_type": "false",
       "crew": 3,
-      "gears_forward": 9,
-      "gears_backward": 1,
+      "gears_forward": 8,
+      "gears_backward": 2,
       "type": "tank",
       "has_dozer": true,
       "has_smoke": true,
@@ -27215,22 +27302,11 @@
                 "modname": "57mm_ussr_AP",
                 "name": "BR-281",
                 "intname": "57mm_br_281"
-              }
-            ],
-            "belts": [
-              {
-                "modname": "57mm_ussr_APCBC",
-                "shells": [
-                  { "name": "BR-281U", "intname": "57mm_br_281u" },
-                  { "name": "OR-281U", "intname": "57mm_or_281u" }
-                ]
               },
               {
-                "modname": "default",
-                "shells": [
-                  { "name": "OR-281U", "intname": "57mm_or_281u" },
-                  { "name": "BR-281", "intname": "57mm_br_281" }
-                ]
+                "modname": "57mm_ussr_APCBC",
+                "name": "BR-281U",
+                "intname": "57mm_br_281u"
               }
             ],
             "horizonalSpeed": 60,
@@ -27254,22 +27330,11 @@
                 "modname": "57mm_ussr_AP",
                 "name": "BR-281",
                 "intname": "57mm_br_281"
-              }
-            ],
-            "belts": [
-              {
-                "modname": "57mm_ussr_APCBC",
-                "shells": [
-                  { "name": "BR-281U", "intname": "57mm_br_281u" },
-                  { "name": "OR-281U", "intname": "57mm_or_281u" }
-                ]
               },
               {
-                "modname": "default",
-                "shells": [
-                  { "name": "OR-281U", "intname": "57mm_or_281u" },
-                  { "name": "BR-281", "intname": "57mm_br_281" }
-                ]
+                "modname": "57mm_ussr_APCBC",
+                "name": "BR-281U",
+                "intname": "57mm_br_281u"
               }
             ],
             "horizonalSpeed": 60,
@@ -27588,6 +27653,61 @@
             "verticalLimit": [-4, 85],
             "shotFreq": 14.166,
             "caliber": 23
+          }
+        ],
+        "machineGun": []
+      }
+    },
+    {
+      "intname": "ussr_9a35_m2",
+      "displayname": "Strela-10M2",
+      "normal_type": "type_spaa",
+      "country": "country_ussr",
+      "rank": 6,
+      "ab_br": "9.3",
+      "ab_realbr": 25,
+      "rb_br": "9.3",
+      "rb_realbr": 25,
+      "sb_br": "9.3",
+      "sb_realbr": 25,
+      "base_ab_repair": 6360,
+      "base_rb_repair": 6530,
+      "base_sb_repair": 5790,
+      "rp_multiplyer": 2.26,
+      "ab_sl_multiplyer": 1.41,
+      "rb_sl_multiplyer": 1.68,
+      "sb_sl_multiplyer": 2.5,
+      "sl_price": 740000,
+      "reqRP": 270000,
+      "mass": 12300,
+      "horsepower": 240,
+      "prem_type": "false",
+      "crew": 3,
+      "gears_forward": 11,
+      "gears_backward": 2,
+      "type": "tank",
+      "can_float": true,
+      "has_ess": true,
+      "optics": { "gunner": { "zoomInFov": 9.21, "zoomOutFov": 10.21 } },
+      "weapons": {
+        "cannon": [
+          {
+            "intname": "120mm_9m37m_rocket_launcher",
+            "name": "AAM 9M37M",
+            "ammo": 8,
+            "shells": [
+              {
+                "modname": "120mm_9m37m_aam",
+                "name": "9M37M",
+                "intname": "120mm_9m37m"
+              }
+            ],
+            "horizonalSpeed": 100,
+            "verticalSpeed": 50,
+            "horizonalLimit": [-180, 180],
+            "verticalLimit": [-5, 80],
+            "shotFreq": 1,
+            "caliber": 120
           }
         ],
         "machineGun": []
@@ -29687,6 +29807,118 @@
       }
     },
     {
+      "intname": "ussr_t_80um2",
+      "displayname": "T-80UM2",
+      "normal_type": "type_medium_tank",
+      "country": "country_ussr",
+      "rank": 7,
+      "ab_br": "10.7",
+      "ab_realbr": 29,
+      "rb_br": "10.7",
+      "rb_realbr": 29,
+      "sb_br": "10.7",
+      "sb_realbr": 29,
+      "base_ab_repair": 3970,
+      "base_rb_repair": 4120,
+      "base_sb_repair": 5230,
+      "rp_multiplyer": 2.32,
+      "ab_sl_multiplyer": 1.35,
+      "rb_sl_multiplyer": 1.62,
+      "sb_sl_multiplyer": 1.81,
+      "sl_price": 930000,
+      "reqRP": 340000,
+      "mass": 47000,
+      "horsepower": 1250,
+      "prem_type": "event",
+      "event": "winter_2023",
+      "hidden": true,
+      "crew": 3,
+      "gears_forward": 8,
+      "gears_backward": 2,
+      "type": "tank",
+      "has_dozer": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_era": true,
+      "has_composite": true,
+      "has_laser_range": true,
+      "optics": {
+        "gunner": {
+          "zoomInFov": 6.14,
+          "zoomOutFov": 27.54,
+          "ir": {
+            "resolution": [1600, 1200],
+            "lightMult": 9,
+            "ghosting": 0.6,
+            "noiseFactor": 0.2
+          }
+        },
+        "commander": {
+          "zoomInFov": 9.2,
+          "zoomOutFov": 80,
+          "ir": {
+            "resolution": [1600, 1200],
+            "lightMult": 9,
+            "ghosting": 0.6,
+            "noiseFactor": 0.2
+          }
+        },
+        "driver": {
+          "ir": {
+            "resolution": [800, 600],
+            "lightMult": 5,
+            "ghosting": 0.6,
+            "noiseFactor": 0.2
+          }
+        }
+      },
+      "weapons": {
+        "cannon": [
+          {
+            "intname": "125mm_2A46_M1_T_80U_user_cannon",
+            "name": "125 mm 2A46M-1 cannon",
+            "ammo": 45,
+            "shells": [
+              {
+                "modname": "125mm_ussr_HE",
+                "name": "3OF26",
+                "intname": "125mm_3of_26"
+              },
+              {
+                "modname": "125mm_ussr_3BM42_APDS_FS",
+                "name": "3BM46",
+                "intname": "125mm_3bm46"
+              },
+              {
+                "modname": "125mm_ussr_APDS_FS",
+                "name": "3BM42",
+                "intname": "125mm_3bm42"
+              },
+              {
+                "modname": "125mm_ussr_ATGM",
+                "name": "9M119",
+                "intname": "125mm_9m_119",
+                "modmaxamount": 28
+              },
+              {
+                "modname": "default",
+                "name": "3BK18M",
+                "intname": "125mm_3bk_18m"
+              }
+            ],
+            "horizonalSpeed": 24,
+            "verticalSpeed": 4.4,
+            "horizonalLimit": [-180, 180],
+            "verticalLimit": [-5, 15],
+            "autoloader": true,
+            "shotFreq": 0.1537,
+            "caliber": 125
+          }
+        ],
+        "machineGun": []
+      }
+    },
+    {
       "intname": "ussr_t_80uk",
       "wikiname": "T-80UK",
       "displayname": "T-80UK",
@@ -29713,8 +29945,8 @@
       "horsepower": 1250,
       "prem_type": "squad",
       "crew": 3,
-      "gears_forward": 9,
-      "gears_backward": 1,
+      "gears_forward": 8,
+      "gears_backward": 2,
       "type": "tank",
       "has_dozer": true,
       "has_smoke": true,
@@ -30064,7 +30296,7 @@
       "prem_type": "marketplace",
       "marketplace": 50041,
       "cost_gold": 850,
-      "crew": 6,
+      "crew": 7,
       "gears_forward": 5,
       "gears_backward": 1,
       "type": "tank",
@@ -31877,93 +32109,6 @@
       }
     },
     {
-      "intname": "destroyer_heavy_tank_h",
-      "normal_type": "type_heavy_tank",
-      "country": "country_ussr",
-      "operator_country": "country_invisible",
-      "rank": 7,
-      "ab_br": "10.3",
-      "ab_realbr": 28,
-      "rb_br": "10.3",
-      "rb_realbr": 28,
-      "sb_br": "10.3",
-      "sb_realbr": 28,
-      "base_ab_repair": 6540,
-      "base_rb_repair": 7820,
-      "base_sb_repair": 8450,
-      "rp_multiplyer": 2.32,
-      "ab_sl_multiplyer": 1.09,
-      "rb_sl_multiplyer": 1.66,
-      "sb_sl_multiplyer": 1.82,
-      "sl_price": 930000,
-      "reqRP": 340000,
-      "mass": 124000,
-      "horsepower": 4000,
-      "prem_type": "false",
-      "hidden": true,
-      "crew": 2,
-      "gears_forward": 9,
-      "gears_backward": 4,
-      "type": "tank",
-      "has_neutral": true,
-      "has_smoke": true,
-      "has_lws": true,
-      "has_composite": true,
-      "has_laser_range": true,
-      "optics": { "gunner": { "zoomInFov": 5, "zoomOutFov": 13 } },
-      "weapons": {
-        "cannon": [
-          {
-            "intname": "180mm_destroyer_h_user_cannon",
-            "name": "180 mm Maul-Q7 cannon",
-            "ammo": 22,
-            "shells": [
-              {
-                "modname": "180mm_mphe",
-                "name": "180 mm Maul-MP-HE",
-                "intname": "180mm_mphe"
-              },
-              {
-                "modname": "default",
-                "name": "ADW-MP-HE",
-                "intname": "60mm_mphe"
-              }
-            ],
-            "horizonalSpeed": 54,
-            "verticalSpeed": 30,
-            "horizonalLimit": [-180, 180],
-            "verticalLimit": [-10, 45],
-            "shotFreq": 0.1,
-            "caliber": 180
-          },
-          {
-            "intname": "180mm_destroyer_h_user_cannon",
-            "name": "180 mm Maul-Q7 cannon",
-            "ammo": 22,
-            "shells": [
-              {
-                "modname": "180mm_mphe",
-                "name": "180 mm Maul-MP-HE",
-                "intname": "180mm_mphe"
-              },
-              {
-                "modname": "default",
-                "name": "ADW-MP-HE",
-                "intname": "60mm_mphe"
-              }
-            ],
-            "horizonalSpeed": 54,
-            "verticalSpeed": 30,
-            "horizonalLimit": [-180, 180],
-            "verticalLimit": [-10, 90],
-            "shotFreq": 0.1,
-            "caliber": 180
-          }
-        ],
-        "machineGun": []
-      }
-    },
-    {
       "intname": "ussr_m551_football",
       "normal_type": "type_light_tank",
       "country": "country_ussr",
@@ -32067,8 +32212,8 @@
       "prem_type": "false",
       "hidden": true,
       "crew": 3,
-      "gears_forward": 9,
-      "gears_backward": 1,
+      "gears_forward": 8,
+      "gears_backward": 2,
       "type": "tank",
       "has_dozer": true,
       "has_smoke": true,
@@ -32173,8 +32318,8 @@
       "prem_type": "false",
       "hidden": true,
       "crew": 3,
-      "gears_forward": 9,
-      "gears_backward": 1,
+      "gears_forward": 8,
+      "gears_backward": 2,
       "type": "tank",
       "has_smoke": true,
       "has_ess": true,
@@ -40790,6 +40935,103 @@
       }
     },
     {
+      "intname": "uk_khalid",
+      "displayname": "Khalid",
+      "normal_type": "type_medium_tank",
+      "country": "country_britain",
+      "operator_country": "country_jordan",
+      "rank": 6,
+      "ab_br": "9.0",
+      "ab_realbr": 24,
+      "rb_br": "9.0",
+      "rb_realbr": 24,
+      "sb_br": "9.0",
+      "sb_realbr": 24,
+      "base_ab_repair": 4560,
+      "base_rb_repair": 4560,
+      "base_sb_repair": 4560,
+      "rp_multiplyer": 2.2,
+      "ab_sl_multiplyer": 1.92,
+      "rb_sl_multiplyer": 2.75,
+      "sb_sl_multiplyer": 3.3,
+      "sl_price": 0,
+      "reqRP": 220000,
+      "mass": 58000,
+      "horsepower": 1200,
+      "prem_type": "gold",
+      "cost_gold": 8910,
+      "crew": 4,
+      "gears_forward": 8,
+      "gears_backward": 6,
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_range": true,
+      "optics": {
+        "gunner": {
+          "zoomInFov": 9.2,
+          "zoomOutFov": 10.2,
+          "ir": {
+            "resolution": [800, 600],
+            "lightMult": 8,
+            "ghosting": 0.75,
+            "noiseFactor": 0.2
+          }
+        },
+        "commander": {
+          "zoomInFov": 7.37,
+          "zoomOutFov": 80,
+          "ir": {
+            "resolution": [800, 600],
+            "lightMult": 8,
+            "ghosting": 0.75,
+            "noiseFactor": 0.2
+          }
+        },
+        "driver": {
+          "ir": {
+            "resolution": [800, 600],
+            "lightMult": 5,
+            "ghosting": 0.7,
+            "noiseFactor": 0.2
+          }
+        }
+      },
+      "weapons": {
+        "cannon": [
+          {
+            "intname": "120mm_OBL_Tk_L11_user_cannon",
+            "name": "120 mm Ordnance BL Tk. L11 cannon",
+            "ammo": 54,
+            "shells": [
+              {
+                "modname": "120mm_britain_L37A7_HESH",
+                "name": "Shell L31A7",
+                "intname": "120mm_l37a7"
+              },
+              {
+                "modname": "120mm_britain_Smoke",
+                "name": "L34",
+                "intname": "120mm_smoke_l34"
+              },
+              {
+                "modname": "default",
+                "name": "Shot L15A3",
+                "intname": "120mm_l15a3"
+              }
+            ],
+            "horizonalSpeed": 22.5,
+            "verticalSpeed": 22.5,
+            "horizonalLimit": [-180, 180],
+            "verticalLimit": [-10, 20],
+            "shotFreq": 0.134,
+            "caliber": 120
+          }
+        ],
+        "machineGun": []
+      }
+    },
+    {
       "intname": "jp_type_95_ha_go",
       "wikiname": "Ha-Go",
       "displayname": "Ha-Go",
@@ -41125,7 +41367,7 @@
       "sb_sl_multiplyer": 2.5,
       "sl_price": 200000,
       "reqRP": 63000,
-      "mass": 23040,
+      "mass": 23100,
       "horsepower": 500,
       "prem_type": "false",
       "crew": 4,
@@ -43662,7 +43904,7 @@
     {
       "intname": "jp_m36b2_jgsdf",
       "wikiname": "M36B2 (Japan)",
-      "displayname": "▅M36B2",
+      "displayname": "▅M36",
       "normal_type": "type_tank_destroyer",
       "country": "country_japan",
       "operator_country": "country_japan_modern",
@@ -43683,7 +43925,7 @@
       "sl_price": 200000,
       "reqRP": 63000,
       "mass": 29937,
-      "horsepower": 410,
+      "horsepower": 500,
       "prem_type": "false",
       "crew": 5,
       "gears_forward": 5,
@@ -44469,22 +44711,22 @@
       "normal_type": "type_spaa",
       "country": "country_japan",
       "operator_country": "country_japan_modern",
-      "rank": 4,
+      "rank": 3,
       "ab_br": "5.3",
       "ab_realbr": 13,
-      "rb_br": "4.7",
-      "rb_realbr": 11,
+      "rb_br": "4.3",
+      "rb_realbr": 10,
       "sb_br": "4.7",
       "sb_realbr": 11,
-      "base_ab_repair": 3640,
-      "base_rb_repair": 2950,
-      "base_sb_repair": 4120,
-      "rp_multiplyer": 1.78,
-      "ab_sl_multiplyer": 1.27,
-      "rb_sl_multiplyer": 1.77,
-      "sb_sl_multiplyer": 2.5,
-      "sl_price": 210000,
-      "reqRP": 71000,
+      "base_ab_repair": 2140,
+      "base_rb_repair": 1720,
+      "base_sb_repair": 2610,
+      "rp_multiplyer": 1.6,
+      "ab_sl_multiplyer": 1.01,
+      "rb_sl_multiplyer": 1.4,
+      "sb_sl_multiplyer": 2.21,
+      "sl_price": 170000,
+      "reqRP": 46000,
       "mass": 22450,
       "horsepower": 500,
       "prem_type": "false",
@@ -44551,6 +44793,94 @@
             "verticalLimit": [-3, 85],
             "shotFreq": 2,
             "caliber": 40
+          }
+        ],
+        "machineGun": []
+      }
+    },
+    {
+      "intname": "jp_sub_i_ii_20mm",
+      "displayname": "SUB-I-II",
+      "normal_type": "type_spaa",
+      "country": "country_japan",
+      "operator_country": "country_japan_modern",
+      "rank": 4,
+      "ab_br": "5.3",
+      "ab_realbr": 13,
+      "rb_br": "5.3",
+      "rb_realbr": 13,
+      "sb_br": "5.3",
+      "sb_realbr": 13,
+      "base_ab_repair": 3300,
+      "base_rb_repair": 3270,
+      "base_sb_repair": 4630,
+      "rp_multiplyer": 1.78,
+      "ab_sl_multiplyer": 0.88,
+      "rb_sl_multiplyer": 1.13,
+      "sb_sl_multiplyer": 1.76,
+      "sl_price": 210000,
+      "reqRP": 71000,
+      "mass": 13500,
+      "horsepower": 300,
+      "prem_type": "false",
+      "crew": 4,
+      "gears_forward": 8,
+      "gears_backward": 2,
+      "type": "tank",
+      "can_float": true,
+      "has_smoke": true,
+      "optics": { "gunner": { "zoomInFov": 21, "zoomOutFov": 40 } },
+      "weapons": {
+        "cannon": [
+          {
+            "intname": "20mm_Rh_202_Wiesel_user_cannon",
+            "name": "20 mm Rh202 cannon",
+            "ammo": 800,
+            "belts": [
+              {
+                "modname": "20mm_rh202_HE",
+                "shells": [
+                  { "name": "DM51A1", "intname": "20mm_dm51a1" },
+                  { "name": "DM51A1", "intname": "20mm_dm51a1" },
+                  { "name": "DM51A1", "intname": "20mm_dm51a1" },
+                  { "name": "DM43", "intname": "20mm_dm43" }
+                ],
+                "maxamount": 100
+              },
+              {
+                "modname": "20mm_rh202_AP",
+                "shells": [
+                  { "name": "DM43", "intname": "20mm_dm43" },
+                  { "name": "DM43", "intname": "20mm_dm43" },
+                  { "name": "DM43", "intname": "20mm_dm43" },
+                  { "name": "DM51A1", "intname": "20mm_dm51a1" }
+                ],
+                "maxamount": 100
+              },
+              {
+                "modname": "20mm_rh202_APDS",
+                "shells": [
+                  { "name": "DM63", "intname": "20mm_dm63" },
+                  { "name": "DM63", "intname": "20mm_dm63" },
+                  { "name": "DM63", "intname": "20mm_dm63" },
+                  { "name": "DM51A1", "intname": "20mm_dm51a1" }
+                ],
+                "maxamount": 100
+              },
+              {
+                "modname": "default",
+                "shells": [
+                  { "name": "DM43", "intname": "20mm_dm43" },
+                  { "name": "DM51A1", "intname": "20mm_dm51a1" }
+                ]
+              }
+            ],
+            "horizonalSpeed": 60,
+            "verticalSpeed": 20,
+            "horizonalLimit": [-180, 180],
+            "verticalLimit": [-10, 80],
+            "shotFreq": 13.334,
+            "caliber": 20
           }
         ],
         "machineGun": []
@@ -47987,6 +48317,112 @@
       }
     },
     {
+      "intname": "cn_wz_1001",
+      "displayname": "WZ1001",
+      "normal_type": "type_medium_tank",
+      "country": "country_china",
+      "rank": 7,
+      "ab_br": "11.0",
+      "ab_realbr": 30,
+      "rb_br": "11.0",
+      "rb_realbr": 30,
+      "sb_br": "11.0",
+      "sb_realbr": 30,
+      "base_ab_repair": 4690,
+      "base_rb_repair": 4500,
+      "base_sb_repair": 5730,
+      "rp_multiplyer": 2.44,
+      "ab_sl_multiplyer": 1.41,
+      "rb_sl_multiplyer": 2,
+      "sb_sl_multiplyer": 2.25,
+      "sl_price": 1080000,
+      "reqRP": 400000,
+      "mass": 55000,
+      "horsepower": 1500,
+      "prem_type": "false",
+      "crew": 3,
+      "gears_forward": 12,
+      "gears_backward": 6,
+      "type": "tank",
+      "has_neutral": true,
+      "has_dozer": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_lws": true,
+      "has_era": true,
+      "has_composite": true,
+      "has_laser_range": true,
+      "optics": {
+        "gunner": {
+          "zoomInFov": 6.7,
+          "zoomOutFov": 12.3,
+          "thermal": { "resolution": [800, 600], "noiseFactor": 0.04 }
+        },
+        "commander": {
+          "zoomInFov": 6.9,
+          "zoomOutFov": 24.7,
+          "thermal": { "resolution": [800, 600], "noiseFactor": 0.04 }
+        },
+        "driver": {
+          "ir": {
+            "resolution": [1200, 800],
+            "lightMult": 7,
+            "ghosting": 0.6,
+            "noiseFactor": 0.2
+          }
+        }
+      },
+      "weapons": {
+        "cannon": [
+          {
+            "intname": "125mm_Type_99A_user_cannon",
+            "name": "125 mm Type 99A cannon",
+            "ammo": 39,
+            "shells": [
+              {
+                "modname": "125mm_china_HE",
+                "name": "DTB-125",
+                "intname": "125mm_dtb_125"
+              },
+              {
+                "modname": "125mm_china_APDS_FS",
+                "name": "125-I",
+                "intname": "125mm_125_1"
+              },
+              {
+                "modname": "125mm_china_DTW_APDS_FS",
+                "name": "DTC10-125",
+                "intname": "125mm_dtc10_125"
+              },
+              {
+                "modname": "125mm_china_ATGM",
+                "name": "GP125",
+                "intname": "125mm_GP125"
+              },
+              {
+                "modname": "125mm_china_HE_VT",
+                "name": "DTB12-125",
+                "intname": "125mm_dtb_12_he"
+              },
+              {
+                "modname": "default",
+                "name": "DTP-125",
+                "intname": "125mm_dtp_125"
+              }
+            ],
+            "horizonalSpeed": 38,
+            "verticalSpeed": 7,
+            "horizonalLimit": [-180, 180],
+            "verticalLimit": [-5, 13],
+            "autoloader": true,
+            "shotFreq": 0.1408,
+            "caliber": 125
+          }
+        ],
+        "machineGun": []
+      }
+    },
+    {
       "intname": "cn_gmc_cckw_353_m45_quad",
       "wikiname": "CCKW 353 (M45)",
       "displayname": "CCKW 353 (M45)",
@@ -48183,8 +48619,8 @@
       "rank": 3,
       "ab_br": "5.3",
       "ab_realbr": 13,
-      "rb_br": "4.7",
-      "rb_realbr": 11,
+      "rb_br": "4.3",
+      "rb_realbr": 10,
       "sb_br": "4.7",
       "sb_realbr": 11,
       "base_ab_repair": 1730,
@@ -48408,25 +48844,14 @@
                 "intname": "57mm_br_281"
               },
               {
+                "modname": "57mm_ussr_APCBC",
+                "name": "BR-281U",
+                "intname": "57mm_br_281u"
+              },
+              {
                 "modname": "57mm_HE_VT",
                 "name": "DKY-1",
                 "intname": "57mm_dky_1"
-              }
-            ],
-            "belts": [
-              {
-                "modname": "57mm_ussr_APCBC",
-                "shells": [
-                  { "name": "BR-281U", "intname": "57mm_br_281u" },
-                  { "name": "OR-281U", "intname": "57mm_or_281u" }
-                ]
-              },
-              {
-                "modname": "default",
-                "shells": [
-                  { "name": "OR-281U", "intname": "57mm_or_281u" },
-                  { "name": "BR-281", "intname": "57mm_br_281" }
-                ]
               }
             ],
             "horizonalSpeed": 36,
@@ -48452,25 +48877,14 @@
                 "intname": "57mm_br_281"
               },
               {
+                "modname": "57mm_ussr_APCBC",
+                "name": "BR-281U",
+                "intname": "57mm_br_281u"
+              },
+              {
                 "modname": "57mm_HE_VT",
                 "name": "DKY-1",
                 "intname": "57mm_dky_1"
-              }
-            ],
-            "belts": [
-              {
-                "modname": "57mm_ussr_APCBC",
-                "shells": [
-                  { "name": "BR-281U", "intname": "57mm_br_281u" },
-                  { "name": "OR-281U", "intname": "57mm_or_281u" }
-                ]
-              },
-              {
-                "modname": "default",
-                "shells": [
-                  { "name": "OR-281U", "intname": "57mm_or_281u" },
-                  { "name": "BR-281", "intname": "57mm_br_281" }
-                ]
               }
             ],
             "horizonalSpeed": 36,
@@ -53899,9 +54313,113 @@
             "horizonalSpeed": 35,
             "verticalSpeed": 20,
             "horizonalLimit": [-150, 150],
-            "verticalLimit": [-10, 90],
+            "verticalLimit": [-10, 80],
             "shotFreq": 4,
             "caliber": 20
+          }
+        ],
+        "machineGun": []
+      }
+    },
+    {
+      "intname": "it_fiat_cm52",
+      "displayname": "CM52",
+      "normal_type": "type_spaa",
+      "country": "country_italy",
+      "operator_country": "country_italy_kingdom",
+      "rank": 2,
+      "ab_br": "2.3",
+      "ab_realbr": 4,
+      "rb_br": "2.3",
+      "rb_realbr": 4,
+      "sb_br": "2.3",
+      "sb_realbr": 4,
+      "base_ab_repair": 340,
+      "base_rb_repair": 310,
+      "base_sb_repair": 550,
+      "rp_multiplyer": 1.12,
+      "ab_sl_multiplyer": 0.21,
+      "rb_sl_multiplyer": 0.3,
+      "sb_sl_multiplyer": 0.35,
+      "sl_price": 10000,
+      "reqRP": 7900,
+      "mass": 6850,
+      "horsepower": 92,
+      "prem_type": "false",
+      "crew": 3,
+      "gears_forward": 8,
+      "gears_backward": 2,
+      "type": "tank",
+      "optics": { "gunner": { "zoomInFov": 21, "zoomOutFov": 40 } },
+      "weapons": {
+        "cannon": [
+          {
+            "intname": "12_7mm_M2_HB_user_machinegun_for_M15",
+            "name": "12.7 mm M2HB machine gun",
+            "ammo": 800,
+            "belts": [
+              { "modname": "12mm_usa_M2HB_common", "shells": [] },
+              { "modname": "12mm_usa_M2HB_API", "shells": [] },
+              { "modname": "12mm_usa_M2HB_AP", "shells": [] },
+              { "modname": "default", "shells": [] }
+            ],
+            "horizonalSpeed": 60,
+            "verticalSpeed": 60,
+            "horizonalLimit": [-180, 180],
+            "verticalLimit": [-10, 90],
+            "shotFreq": 9.6,
+            "caliber": 12
+          },
+          {
+            "intname": "12_7mm_M2_HB_user_machinegun_for_M15",
+            "name": "12.7 mm M2HB machine gun",
+            "ammo": 800,
+            "belts": [
+              { "modname": "12mm_usa_M2HB_common", "shells": [] },
+              { "modname": "12mm_usa_M2HB_API", "shells": [] },
+              { "modname": "12mm_usa_M2HB_AP", "shells": [] },
+              { "modname": "default", "shells": [] }
+            ],
+            "horizonalSpeed": 60,
+            "verticalSpeed": 60,
+            "horizonalLimit": [-180, 180],
+            "verticalLimit": [-10, 90],
+            "shotFreq": 9.6,
+            "caliber": 12
+          },
+          {
+            "intname": "12_7mm_M2_HB_user_machinegun_for_M15",
+            "name": "12.7 mm M2HB machine gun",
+            "ammo": 800,
+            "belts": [
+              { "modname": "12mm_usa_M2HB_common", "shells": [] },
+              { "modname": "12mm_usa_M2HB_API", "shells": [] },
+              { "modname": "12mm_usa_M2HB_AP", "shells": [] },
+              { "modname": "default", "shells": [] }
+            ],
+            "horizonalSpeed": 60,
+            "verticalSpeed": 60,
+            "horizonalLimit": [-180, 180],
+            "verticalLimit": [-10, 90],
+            "shotFreq": 9.6,
+            "caliber": 12
+          },
+          {
+            "intname": "12_7mm_M2_HB_user_machinegun_for_M15",
+            "name": "12.7 mm M2HB machine gun",
+            "ammo": 800,
+            "belts": [
+              { "modname": "12mm_usa_M2HB_common", "shells": [] },
+              { "modname": "12mm_usa_M2HB_API", "shells": [] },
+              { "modname": "12mm_usa_M2HB_AP", "shells": [] },
+              { "modname": "default", "shells": [] }
+            ],
+            "horizonalSpeed": 60,
+            "verticalSpeed": 60,
+            "horizonalLimit": [-180, 180],
+            "verticalLimit": [-10, 90],
+            "shotFreq": 9.6,
+            "caliber": 12
           }
         ],
         "machineGun": []
@@ -56184,8 +56702,9 @@
       "reqRP": 18000,
       "mass": 15700,
       "horsepower": 185,
-      "prem_type": "gold",
+      "prem_type": "store",
       "cost_gold": 1300,
+      "hidden": true,
       "crew": 3,
       "gears_forward": 5,
       "gears_backward": 1,
@@ -57446,7 +57965,7 @@
               },
               {
                 "modname": "75mm_SA50_HE",
-                "name": "75 mm HE",
+                "name": "OE Mle 1951",
                 "intname": "75mm_sa50_he"
               }
             ],
@@ -57643,7 +58162,7 @@
               },
               {
                 "modname": "75mm_SA50_HE",
-                "name": "75 mm HE",
+                "name": "OE Mle 1951",
                 "intname": "75mm_sa50_he"
               }
             ],
@@ -58239,7 +58758,7 @@
               },
               {
                 "modname": "75mm_SA50_HE",
-                "name": "75 mm HE",
+                "name": "OE Mle 1951",
                 "intname": "75mm_sa50_he"
               }
             ],
@@ -59094,7 +59613,7 @@
           {
             "intname": "47mm_SA_35_user_cannon",
             "name": "47 mm SA35 L/32 cannon",
-            "ammo": 120,
+            "ammo": 108,
             "shells": [
               {
                 "modname": "47mm_SA35_APC",
@@ -59582,6 +60101,104 @@
             "autoloader": true,
             "shotFreq": 0.167,
             "caliber": 120
+          }
+        ],
+        "machineGun": []
+      }
+    },
+    {
+      "intname": "fr_amx_32_105",
+      "displayname": "AMX-32 (105)",
+      "normal_type": "type_medium_tank",
+      "country": "country_france",
+      "rank": 6,
+      "ab_br": "9.0",
+      "ab_realbr": 24,
+      "rb_br": "9.0",
+      "rb_realbr": 24,
+      "sb_br": "9.0",
+      "sb_realbr": 24,
+      "base_ab_repair": 4050,
+      "base_rb_repair": 4610,
+      "base_sb_repair": 5970,
+      "rp_multiplyer": 2.14,
+      "ab_sl_multiplyer": 1.37,
+      "rb_sl_multiplyer": 2,
+      "sb_sl_multiplyer": 2.26,
+      "sl_price": 500000,
+      "reqRP": 180000,
+      "mass": 38000,
+      "horsepower": 800,
+      "prem_type": "false",
+      "crew": 4,
+      "gears_forward": 10,
+      "gears_backward": 10,
+      "type": "tank",
+      "has_synchro": true,
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_composite": true,
+      "has_laser_range": true,
+      "optics": {
+        "gunner": {
+          "zoomInFov": 7.3,
+          "zoomOutFov": 8.3,
+          "thermal": { "resolution": [500, 300], "noiseFactor": 0.05 }
+        },
+        "commander": {
+          "zoomInFov": 9.21,
+          "zoomOutFov": 37.5,
+          "ir": {
+            "resolution": [800, 600],
+            "lightMult": 8,
+            "ghosting": 0.75,
+            "noiseFactor": 0.2
+          }
+        },
+        "driver": {
+          "ir": {
+            "resolution": [800, 600],
+            "lightMult": 5,
+            "ghosting": 0.6,
+            "noiseFactor": 0.2
+          }
+        }
+      },
+      "weapons": {
+        "cannon": [
+          {
+            "intname": "105mm_CN_105_F1_user_cannon",
+            "name": "105 mm CN-105-F1 cannon",
+            "ammo": 47,
+            "shells": [
+              {
+                "modname": "105mm_fr_CN105_HEAT",
+                "name": "OCC 105 F1",
+                "intname": "105mm_occ_f1"
+              },
+              {
+                "modname": "105mm_fr_CN105_HE",
+                "name": "OE 105 F1 Mle.60",
+                "intname": "105mm_oe_f1_mle60"
+              },
+              {
+                "modname": "105mm_fr_CN105_APDSFS",
+                "name": "OFL 105 F1",
+                "intname": "105mm_ofl_105_f1"
+              },
+              {
+                "modname": "105mm_fr_CN105_Smoke",
+                "name": "OFPH 105 F1",
+                "intname": "105mm_ofph_f1"
+              }
+            ],
+            "horizonalSpeed": 25,
+            "verticalSpeed": 5.5,
+            "horizonalLimit": [-180, 180],
+            "verticalLimit": [-8, 20],
+            "shotFreq": 0.15,
+            "caliber": 105
           }
         ],
         "machineGun": []
@@ -61482,7 +62099,7 @@
               },
               {
                 "modname": "75mm_SA50_HE",
-                "name": "75 mm HE",
+                "name": "OE Mle 1951",
                 "intname": "75mm_sa50_he"
               }
             ],
@@ -61611,7 +62228,7 @@
               },
               {
                 "modname": "75mm_SA50_HE",
-                "name": "75 mm HE",
+                "name": "OE Mle 1951",
                 "intname": "75mm_sa50_he"
               }
             ],
@@ -61811,6 +62428,79 @@
       }
     },
     {
+      "intname": "fr_char_2c_bis",
+      "normal_type": "type_heavy_tank",
+      "country": "country_france",
+      "rank": 1,
+      "ab_br": "1.7",
+      "ab_realbr": 2,
+      "rb_br": "1.7",
+      "rb_realbr": 2,
+      "sb_br": "1.7",
+      "sb_realbr": 2,
+      "base_ab_repair": 3330,
+      "base_rb_repair": 900,
+      "base_sb_repair": 290,
+      "rp_multiplyer": 1.06,
+      "ab_sl_multiplyer": 0.6,
+      "rb_sl_multiplyer": 0.6,
+      "sb_sl_multiplyer": 0.72,
+      "sl_price": 0,
+      "reqRP": 5900,
+      "mass": 31140,
+      "horsepower": 307,
+      "prem_type": "gold",
+      "cost_gold": 2100,
+      "crew": 4,
+      "gears_forward": 5,
+      "gears_backward": 1,
+      "type": "tank",
+      "has_neutral": true,
+      "optics": { "gunner": { "zoomInFov": 18.49, "zoomOutFov": 19.49 } },
+      "weapons": {
+        "cannon": [
+          {
+            "intname": "47mm_SA_35_user_cannon",
+            "name": "47 mm SA35 L/32 cannon",
+            "ammo": 50,
+            "shells": [
+              {
+                "modname": "default",
+                "name": "Mle1935",
+                "intname": "47mm_mle1935"
+              }
+            ],
+            "horizonalSpeed": 10,
+            "verticalSpeed": 10,
+            "horizonalLimit": [-180, 180],
+            "verticalLimit": [-15, 18],
+            "shotFreq": 0.3333,
+            "caliber": 47
+          },
+          {
+            "intname": "75mm_SA_35_user_cannon",
+            "name": "75 mm SA35 L/17 cannon",
+            "secondary": true,
+            "ammo": 74,
+            "shells": [
+              {
+                "modname": "default",
+                "name": "Mle1910M",
+                "intname": "75mm_mle1910m"
+              }
+            ],
+            "horizonalSpeed": 4,
+            "verticalSpeed": 4,
+            "horizonalLimit": [-1, 1],
+            "verticalLimit": [-15, 25],
+            "shotFreq": 0.1167,
+            "caliber": 75
+          }
+        ],
+        "machineGun": []
+      }
+    },
+    {
       "intname": "fr_lvt_bofors",
       "wikiname": "LVT-4/40",
       "displayname": "LVT-4/40",
@@ -61984,7 +62674,7 @@
               },
               {
                 "modname": "75mm_SA50_HE",
-                "name": "75 mm HE",
+                "name": "OE Mle 1951",
                 "intname": "75mm_sa50_he"
               }
             ],
@@ -64758,22 +65448,11 @@
                 "modname": "57mm_ussr_AP",
                 "name": "BR-281",
                 "intname": "57mm_br_281"
-              }
-            ],
-            "belts": [
-              {
-                "modname": "57mm_ussr_APCBC",
-                "shells": [
-                  { "name": "BR-281U", "intname": "57mm_br_281u" },
-                  { "name": "OR-281U", "intname": "57mm_or_281u" }
-                ]
               },
               {
-                "modname": "default",
-                "shells": [
-                  { "name": "OR-281U", "intname": "57mm_or_281u" },
-                  { "name": "BR-281", "intname": "57mm_br_281" }
-                ]
+                "modname": "57mm_ussr_APCBC",
+                "name": "BR-281U",
+                "intname": "57mm_br_281u"
               }
             ],
             "horizonalSpeed": 60,
@@ -64797,22 +65476,11 @@
                 "modname": "57mm_ussr_AP",
                 "name": "BR-281",
                 "intname": "57mm_br_281"
-              }
-            ],
-            "belts": [
-              {
-                "modname": "57mm_ussr_APCBC",
-                "shells": [
-                  { "name": "BR-281U", "intname": "57mm_br_281u" },
-                  { "name": "OR-281U", "intname": "57mm_or_281u" }
-                ]
               },
               {
-                "modname": "default",
-                "shells": [
-                  { "name": "OR-281U", "intname": "57mm_or_281u" },
-                  { "name": "BR-281", "intname": "57mm_br_281" }
-                ]
+                "modname": "57mm_ussr_APCBC",
+                "name": "BR-281U",
+                "intname": "57mm_br_281u"
               }
             ],
             "horizonalSpeed": 60,
@@ -66652,6 +67320,113 @@
       }
     },
     {
+      "intname": "sw_t_55m",
+      "displayname": "T-55M",
+      "normal_type": "type_medium_tank",
+      "country": "country_sweden",
+      "operator_country": "country_finland",
+      "rank": 6,
+      "ab_br": "8.3",
+      "ab_realbr": 22,
+      "rb_br": "8.3",
+      "rb_realbr": 22,
+      "sb_br": "8.3",
+      "sb_realbr": 22,
+      "base_ab_repair": 4820,
+      "base_rb_repair": 5510,
+      "base_sb_repair": 6490,
+      "rp_multiplyer": 2.14,
+      "ab_sl_multiplyer": 1.09,
+      "rb_sl_multiplyer": 1.94,
+      "sb_sl_multiplyer": 1.76,
+      "sl_price": 500000,
+      "reqRP": 180000,
+      "mass": 36000,
+      "horsepower": 580,
+      "prem_type": "false",
+      "crew": 4,
+      "gears_forward": 5,
+      "gears_backward": 1,
+      "type": "tank",
+      "has_smoke": true,
+      "has_ess": true,
+      "has_laser_range": true,
+      "optics": {
+        "gunner": {
+          "zoomInFov": 10.5,
+          "zoomOutFov": 24.7,
+          "ir": {
+            "resolution": [800, 600],
+            "lightMult": 8,
+            "ghosting": 0.75,
+            "noiseFactor": 0.2
+          }
+        },
+        "commander": {
+          "zoomInFov": 14.7,
+          "zoomOutFov": 15,
+          "ir": {
+            "resolution": [800, 600],
+            "lightMult": 8,
+            "ghosting": 0.75,
+            "noiseFactor": 0.2
+          }
+        },
+        "driver": {
+          "ir": {
+            "resolution": [800, 600],
+            "lightMult": 5,
+            "ghosting": 0.7,
+            "noiseFactor": 0.2
+          }
+        }
+      },
+      "weapons": {
+        "cannon": [
+          {
+            "intname": "100mm_D10T2S_fin_user_cannon",
+            "name": "100 mm D-10T2S cannon",
+            "ammo": 43,
+            "shells": [
+              {
+                "modname": "100mm_ussr_HE",
+                "name": "OF-412",
+                "intname": "100mm_of_412"
+              },
+              {
+                "modname": "100mm_ussr_BR412D",
+                "name": "BR-412D",
+                "intname": "100mm_br_412d"
+              },
+              {
+                "modname": "100mm_ussr_HEAT",
+                "name": "3BK17M",
+                "intname": "100mm_3bk_17m"
+              },
+              {
+                "modname": "100mm_ussr_Smoke",
+                "name": "3D3",
+                "intname": "100mm_3d3"
+              },
+              {
+                "modname": "100mm_ussr_M1000",
+                "name": "M1000A1",
+                "intname": "100mm_m1000a1"
+              },
+              { "modname": "default", "name": "3BM-8", "intname": "100mm_zbm8" }
+            ],
+            "horizonalSpeed": 15,
+            "verticalSpeed": 4.5,
+            "horizonalLimit": [-180, 180],
+            "verticalLimit": [-5, 18],
+            "shotFreq": 0.095,
+            "caliber": 100
+          }
+        ],
+        "machineGun": []
+      }
+    },
+    {
       "intname": "sw_t_72m1",
       "wikiname": "T-72M1",
       "displayname": "T-72M1",
@@ -67588,8 +68363,8 @@
       "horsepower": 1250,
       "prem_type": "squad",
       "crew": 3,
-      "gears_forward": 9,
-      "gears_backward": 1,
+      "gears_forward": 8,
+      "gears_backward": 2,
       "type": "tank",
       "has_dozer": true,
       "has_smoke": true,
@@ -68108,7 +68883,7 @@
     {
       "intname": "il_magach_3_idf",
       "wikiname": "Magach 3",
-      "displayname": "Magach 3 ",
+      "displayname": "Magach 3",
       "normal_type": "type_medium_tank",
       "country": "country_israel",
       "rank": 5,
@@ -68954,6 +69729,107 @@
       }
     },
     {
+      "intname": "il_magach_7c",
+      "displayname": "Magach 7C",
+      "normal_type": "type_medium_tank",
+      "country": "country_israel",
+      "rank": 6,
+      "ab_br": "9.3",
+      "ab_realbr": 25,
+      "rb_br": "9.3",
+      "rb_realbr": 25,
+      "sb_br": "9.3",
+      "sb_realbr": 25,
+      "base_ab_repair": 4380,
+      "base_rb_repair": 5280,
+      "base_sb_repair": 8000,
+      "rp_multiplyer": 2.32,
+      "ab_sl_multiplyer": 1.19,
+      "rb_sl_multiplyer": 1.84,
+      "sb_sl_multiplyer": 1.29,
+      "sl_price": 930000,
+      "reqRP": 340000,
+      "mass": 55000,
+      "horsepower": 908,
+      "prem_type": "false",
+      "crew": 4,
+      "gears_forward": 6,
+      "gears_backward": 2,
+      "type": "tank",
+      "has_neutral": true,
+      "has_smoke": true,
+      "has_ess": true,
+      "has_laser_range": true,
+      "optics": {
+        "gunner": {
+          "zoomInFov": 9.21,
+          "zoomOutFov": 10,
+          "thermal": { "resolution": [500, 300], "noiseFactor": 0.05 }
+        },
+        "commander": {
+          "zoomInFov": 9.21,
+          "zoomOutFov": 37.5,
+          "ir": {
+            "resolution": [800, 600],
+            "lightMult": 8,
+            "ghosting": 0.75,
+            "noiseFactor": 0.2
+          }
+        },
+        "driver": {
+          "ir": {
+            "resolution": [800, 600],
+            "lightMult": 5,
+            "ghosting": 0.6,
+            "noiseFactor": 0.2
+          }
+        }
+      },
+      "weapons": {
+        "cannon": [
+          {
+            "intname": "105mm_L7_Shot_user_cannon",
+            "name": "105 mm Sharir cannon",
+            "ammo": 57,
+            "shells": [
+              {
+                "modname": "105mm_usa_HESH",
+                "name": "M156",
+                "intname": "105mm_imi_m156"
+              },
+              {
+                "modname": "105mm_usa_M735_APDS_FS",
+                "name": "M111",
+                "intname": "105mm_m111"
+              },
+              {
+                "modname": "105mm_us_M416_Smoke",
+                "name": "M416",
+                "intname": "105mm_m416"
+              },
+              {
+                "modname": "105mm_DM63_APDS_FS",
+                "name": "M426",
+                "intname": "105mm_imi_m426"
+              },
+              {
+                "modname": "default",
+                "name": "M152",
+                "intname": "105mm_imi_m152"
+              }
+            ],
+            "horizonalSpeed": 24,
+            "verticalSpeed": 4,
+            "horizonalLimit": [-180, 180],
+            "verticalLimit": [-9, 19],
+            "shotFreq": 0.15,
+            "caliber": 105
+          }
+        ],
+        "machineGun": []
+      }
+    },
+    {
       "intname": "il_amx_13_75",
       "wikiname": "AMX-13 (Israel)",
       "displayname": "AMX-13",
@@ -69003,7 +69879,7 @@
               },
               {
                 "modname": "75mm_SA50_HE",
-                "name": "75 mm HE",
+                "name": "OE Mle 1951",
                 "intname": "75mm_sa50_he"
               }
             ],
@@ -69611,8 +70487,8 @@
       "horsepower": 963,
       "prem_type": "false",
       "crew": 4,
-      "gears_forward": 6,
-      "gears_backward": 2,
+      "gears_forward": 8,
+      "gears_backward": 4,
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
@@ -69709,8 +70585,8 @@
       "horsepower": 1200,
       "prem_type": "false",
       "crew": 4,
-      "gears_forward": 6,
-      "gears_backward": 2,
+      "gears_forward": 8,
+      "gears_backward": 4,
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
@@ -69799,8 +70675,8 @@
       "horsepower": 1200,
       "prem_type": "false",
       "crew": 4,
-      "gears_forward": 6,
-      "gears_backward": 2,
+      "gears_forward": 8,
+      "gears_backward": 4,
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
@@ -70052,12 +70928,12 @@
       "normal_type": "type_spaa",
       "country": "country_israel",
       "rank": 4,
-      "ab_br": "4.7",
-      "ab_realbr": 11,
-      "rb_br": "4.7",
-      "rb_realbr": 11,
-      "sb_br": "4.7",
-      "sb_realbr": 11,
+      "ab_br": "4.3",
+      "ab_realbr": 10,
+      "rb_br": "4.3",
+      "rb_realbr": 10,
+      "sb_br": "4.3",
+      "sb_realbr": 10,
       "base_ab_repair": 1860,
       "base_rb_repair": 2500,
       "base_sb_repair": 3120,
@@ -70254,22 +71130,11 @@
                 "modname": "57mm_ussr_AP",
                 "name": "BR-281",
                 "intname": "57mm_br_281"
-              }
-            ],
-            "belts": [
-              {
-                "modname": "57mm_ussr_APCBC",
-                "shells": [
-                  { "name": "BR-281U", "intname": "57mm_br_281u" },
-                  { "name": "OR-281U", "intname": "57mm_or_281u" }
-                ]
               },
               {
-                "modname": "default",
-                "shells": [
-                  { "name": "OR-281U", "intname": "57mm_or_281u" },
-                  { "name": "BR-281", "intname": "57mm_br_281" }
-                ]
+                "modname": "57mm_ussr_APCBC",
+                "name": "BR-281U",
+                "intname": "57mm_br_281u"
               }
             ],
             "horizonalSpeed": 60,
@@ -70293,22 +71158,11 @@
                 "modname": "57mm_ussr_AP",
                 "name": "BR-281",
                 "intname": "57mm_br_281"
-              }
-            ],
-            "belts": [
-              {
-                "modname": "57mm_ussr_APCBC",
-                "shells": [
-                  { "name": "BR-281U", "intname": "57mm_br_281u" },
-                  { "name": "OR-281U", "intname": "57mm_or_281u" }
-                ]
               },
               {
-                "modname": "default",
-                "shells": [
-                  { "name": "OR-281U", "intname": "57mm_or_281u" },
-                  { "name": "BR-281", "intname": "57mm_br_281" }
-                ]
+                "modname": "57mm_ussr_APCBC",
+                "name": "BR-281U",
+                "intname": "57mm_br_281u"
               }
             ],
             "horizonalSpeed": 60,
@@ -70977,8 +71831,8 @@
       "prem_type": "store",
       "cost_gold": 8910,
       "crew": 4,
-      "gears_forward": 6,
-      "gears_backward": 2,
+      "gears_forward": 8,
+      "gears_backward": 4,
       "type": "tank",
       "has_neutral": true,
       "has_smoke": true,
@@ -71553,6 +72407,32 @@
       "sb_sl_multiplyer": 3.41,
       "sl_price": 930000,
       "reqRP": 340000,
+      "prem_type": "false",
+      "crew": 1,
+      "type": "aircraft"
+    },
+    {
+      "intname": "f_16a_block_10",
+      "displayname": "F-16A",
+      "normal_type": "type_fighter",
+      "extended_type": ["type_jet_fighter"],
+      "country": "country_usa",
+      "rank": 8,
+      "ab_br": "11.7",
+      "ab_realbr": 32,
+      "rb_br": "11.7",
+      "rb_realbr": 32,
+      "sb_br": "11.7",
+      "sb_realbr": 32,
+      "base_ab_repair": 3350,
+      "base_rb_repair": 8360,
+      "base_sb_repair": 15740,
+      "rp_multiplyer": 2.5,
+      "ab_sl_multiplyer": 0.91,
+      "rb_sl_multiplyer": 2.65,
+      "sb_sl_multiplyer": 5.59,
+      "sl_price": 1100000,
+      "reqRP": 410000,
       "prem_type": "false",
       "crew": 1,
       "type": "aircraft"
@@ -72580,9 +73460,9 @@
       "rb_realbr": 20,
       "sb_br": "8.0",
       "sb_realbr": 21,
-      "base_ab_repair": 3280,
-      "base_rb_repair": 8200,
-      "base_sb_repair": 11790,
+      "base_ab_repair": 3460,
+      "base_rb_repair": 8650,
+      "base_sb_repair": 12450,
       "rp_multiplyer": 1.9,
       "ab_sl_multiplyer": 0.99,
       "rb_sl_multiplyer": 3.16,
@@ -72607,9 +73487,9 @@
       "rb_realbr": 22,
       "sb_br": "8.3",
       "sb_realbr": 22,
-      "base_ab_repair": 3310,
-      "base_rb_repair": 9940,
-      "base_sb_repair": 12820,
+      "base_ab_repair": 3670,
+      "base_rb_repair": 11040,
+      "base_sb_repair": 14240,
       "rp_multiplyer": 1.96,
       "ab_sl_multiplyer": 0.85,
       "rb_sl_multiplyer": 3.15,
@@ -72634,9 +73514,9 @@
       "rb_realbr": 22,
       "sb_br": "8.3",
       "sb_realbr": 22,
-      "base_ab_repair": 3670,
-      "base_rb_repair": 11410,
-      "base_sb_repair": 8230,
+      "base_ab_repair": 4110,
+      "base_rb_repair": 12790,
+      "base_sb_repair": 9230,
       "rp_multiplyer": 2.02,
       "ab_sl_multiplyer": 0.81,
       "rb_sl_multiplyer": 2.96,
@@ -72661,9 +73541,9 @@
       "rb_realbr": 22,
       "sb_br": "8.3",
       "sb_realbr": 22,
-      "base_ab_repair": 4170,
-      "base_rb_repair": 14420,
-      "base_sb_repair": 18480,
+      "base_ab_repair": 4370,
+      "base_rb_repair": 15120,
+      "base_sb_repair": 19370,
       "rp_multiplyer": 2.14,
       "ab_sl_multiplyer": 1.01,
       "rb_sl_multiplyer": 2.96,
@@ -72789,7 +73669,7 @@
       "normal_type": "type_fighter",
       "extended_type": ["type_jet_fighter", "type_naval_aircraft"],
       "country": "country_usa",
-      "rank": 7,
+      "rank": 8,
       "ab_br": "11.3",
       "ab_realbr": 31,
       "rb_br": "11.3",
@@ -72799,12 +73679,12 @@
       "base_ab_repair": 4560,
       "base_rb_repair": 9160,
       "base_sb_repair": 15250,
-      "rp_multiplyer": 2.44,
+      "rp_multiplyer": 2.5,
       "ab_sl_multiplyer": 0.91,
       "rb_sl_multiplyer": 2.67,
       "sb_sl_multiplyer": 6,
-      "sl_price": 1080000,
-      "reqRP": 400000,
+      "sl_price": 1100000,
+      "reqRP": 410000,
       "prem_type": "false",
       "crew": 2,
       "type": "aircraft"
@@ -73230,9 +74110,9 @@
       "rb_realbr": 14,
       "sb_br": "5.7",
       "sb_realbr": 14,
-      "base_ab_repair": 2230,
-      "base_rb_repair": 4130,
-      "base_sb_repair": 8270,
+      "base_ab_repair": 2560,
+      "base_rb_repair": 4730,
+      "base_sb_repair": 9460,
       "rp_multiplyer": 1.72,
       "ab_sl_multiplyer": 0.86,
       "rb_sl_multiplyer": 1.63,
@@ -73257,9 +74137,9 @@
       "rb_realbr": 14,
       "sb_br": "5.7",
       "sb_realbr": 14,
-      "base_ab_repair": 2550,
-      "base_rb_repair": 4830,
-      "base_sb_repair": 11450,
+      "base_ab_repair": 2930,
+      "base_rb_repair": 5520,
+      "base_sb_repair": 13100,
       "rp_multiplyer": 1.78,
       "ab_sl_multiplyer": 0.83,
       "rb_sl_multiplyer": 1.75,
@@ -73284,8 +74164,8 @@
       "rb_realbr": 15,
       "sb_br": "5.7",
       "sb_realbr": 14,
-      "base_ab_repair": 2860,
-      "base_rb_repair": 5200,
+      "base_ab_repair": 3290,
+      "base_rb_repair": 5950,
       "base_sb_repair": 12000,
       "rp_multiplyer": 1.84,
       "ab_sl_multiplyer": 0.9,
@@ -73337,8 +74217,8 @@
       "rb_realbr": 22,
       "sb_br": "8.7",
       "sb_realbr": 23,
-      "base_ab_repair": 3590,
-      "base_rb_repair": 9530,
+      "base_ab_repair": 4150,
+      "base_rb_repair": 11020,
       "base_sb_repair": 18000,
       "rp_multiplyer": 2.08,
       "ab_sl_multiplyer": 0.87,
@@ -73984,7 +74864,7 @@
       "sb_realbr": 26,
       "base_ab_repair": 4900,
       "base_rb_repair": 11000,
-      "base_sb_repair": 20900,
+      "base_sb_repair": 19400,
       "rp_multiplyer": 2.14,
       "ab_sl_multiplyer": 0.6,
       "rb_sl_multiplyer": 1.99,
@@ -74799,6 +75679,33 @@
       "type": "aircraft"
     },
     {
+      "intname": "a_6e_tram",
+      "displayname": "A-6E TRAM",
+      "normal_type": "type_assault",
+      "extended_type": ["type_naval_aircraft"],
+      "country": "country_usa",
+      "rank": 7,
+      "ab_br": "10.0",
+      "ab_realbr": 27,
+      "rb_br": "10.0",
+      "rb_realbr": 27,
+      "sb_br": "10.0",
+      "sb_realbr": 27,
+      "base_ab_repair": 5400,
+      "base_rb_repair": 5400,
+      "base_sb_repair": 5400,
+      "rp_multiplyer": 2.32,
+      "ab_sl_multiplyer": 2,
+      "rb_sl_multiplyer": 4.73,
+      "sb_sl_multiplyer": 7,
+      "sl_price": 0,
+      "reqRP": 340000,
+      "prem_type": "store",
+      "cost_gold": 9270,
+      "crew": 2,
+      "type": "aircraft"
+    },
+    {
       "intname": "ucav_mq_1_predator",
       "wikiname": "MQ-1",
       "displayname": "MQ-1",
@@ -75383,9 +76290,9 @@
       "rb_realbr": 14,
       "sb_br": "5.7",
       "sb_realbr": 14,
-      "base_ab_repair": 3660,
+      "base_ab_repair": 4070,
       "base_rb_repair": 5000,
-      "base_sb_repair": 4010,
+      "base_sb_repair": 4460,
       "rp_multiplyer": 1.72,
       "ab_sl_multiplyer": 1.44,
       "rb_sl_multiplyer": 3.38,
@@ -76779,8 +77686,8 @@
       "rb_realbr": 23,
       "sb_br": "8.7",
       "sb_realbr": 23,
-      "base_ab_repair": 4420,
-      "base_rb_repair": 12710,
+      "base_ab_repair": 4080,
+      "base_rb_repair": 11730,
       "base_sb_repair": 13000,
       "rp_multiplyer": 2.02,
       "ab_sl_multiplyer": 1.05,
@@ -76807,9 +77714,9 @@
       "rb_realbr": 24,
       "sb_br": "9.0",
       "sb_realbr": 24,
-      "base_ab_repair": 3820,
-      "base_rb_repair": 11440,
-      "base_sb_repair": 14910,
+      "base_ab_repair": 3500,
+      "base_rb_repair": 10510,
+      "base_sb_repair": 13690,
       "rp_multiplyer": 2.08,
       "ab_sl_multiplyer": 0.98,
       "rb_sl_multiplyer": 3.07,
@@ -76887,8 +77794,8 @@
       "rank": 7,
       "ab_br": "11.0",
       "ab_realbr": 30,
-      "rb_br": "11.3",
-      "rb_realbr": 31,
+      "rb_br": "11.0",
+      "rb_realbr": 30,
       "sb_br": "11.0",
       "sb_realbr": 30,
       "base_ab_repair": 3300,
@@ -76912,7 +77819,7 @@
       "extended_type": ["type_jet_fighter"],
       "country": "country_germany",
       "operator_country": "country_gdr",
-      "rank": 7,
+      "rank": 8,
       "ab_br": "11.3",
       "ab_realbr": 31,
       "rb_br": "11.3",
@@ -76922,12 +77829,12 @@
       "base_ab_repair": 4800,
       "base_rb_repair": 10460,
       "base_sb_repair": 14270,
-      "rp_multiplyer": 2.44,
+      "rp_multiplyer": 2.5,
       "ab_sl_multiplyer": 0.98,
       "rb_sl_multiplyer": 2.81,
       "sb_sl_multiplyer": 3.68,
-      "sl_price": 1080000,
-      "reqRP": 400000,
+      "sl_price": 1100000,
+      "reqRP": 410000,
       "prem_type": "false",
       "crew": 1,
       "type": "aircraft"
@@ -77768,9 +78675,9 @@
       "rb_realbr": 22,
       "sb_br": "8.7",
       "sb_realbr": 23,
-      "base_ab_repair": 3980,
-      "base_rb_repair": 7650,
-      "base_sb_repair": 20730,
+      "base_ab_repair": 4600,
+      "base_rb_repair": 8840,
+      "base_sb_repair": 23970,
       "rp_multiplyer": 2.08,
       "ab_sl_multiplyer": 0.84,
       "rb_sl_multiplyer": 2.4,
@@ -78309,9 +79216,9 @@
       "rb_realbr": 21,
       "sb_br": "8.0",
       "sb_realbr": 21,
-      "base_ab_repair": 4300,
-      "base_rb_repair": 13760,
-      "base_sb_repair": 24010,
+      "base_ab_repair": 3960,
+      "base_rb_repair": 12690,
+      "base_sb_repair": 22140,
       "rp_multiplyer": 2.08,
       "ab_sl_multiplyer": 0.82,
       "rb_sl_multiplyer": 2.28,
@@ -78703,7 +79610,7 @@
       "reqRP": 18000,
       "prem_type": "gold",
       "cost_gold": 1840,
-      "crew": 10,
+      "crew": 7,
       "type": "aircraft"
     },
     {
@@ -79268,6 +80175,34 @@
       "prem_type": "event",
       "event": "craft_2021_spring",
       "crew": 2,
+      "type": "aircraft"
+    },
+    {
+      "intname": "mig-21_bis_lazur",
+      "displayname": "▀MiG-21 \"\"\"\"Lazur-M\"\"\"\"\"\"",
+      "normal_type": "type_fighter",
+      "extended_type": ["type_jet_fighter"],
+      "country": "country_germany",
+      "operator_country": "country_gdr",
+      "rank": 7,
+      "ab_br": "11.0",
+      "ab_realbr": 30,
+      "rb_br": "11.0",
+      "rb_realbr": 30,
+      "sb_br": "11.0",
+      "sb_realbr": 30,
+      "base_ab_repair": 5400,
+      "base_rb_repair": 5400,
+      "base_sb_repair": 5400,
+      "rp_multiplyer": 2.38,
+      "ab_sl_multiplyer": 1.56,
+      "rb_sl_multiplyer": 4.4,
+      "sb_sl_multiplyer": 7,
+      "sl_price": 0,
+      "reqRP": 390000,
+      "prem_type": "store",
+      "cost_gold": 9450,
+      "crew": 1,
       "type": "aircraft"
     },
     {
@@ -80304,7 +81239,7 @@
       "rb_realbr": 26,
       "sb_br": "9.7",
       "sb_realbr": 26,
-      "base_ab_repair": 2870,
+      "base_ab_repair": 3380,
       "base_rb_repair": 7200,
       "base_sb_repair": 11000,
       "rp_multiplyer": 2.2,
@@ -80749,7 +81684,7 @@
       "rb_realbr": 22,
       "sb_br": "8.3",
       "sb_realbr": 22,
-      "base_ab_repair": 3790,
+      "base_ab_repair": 3510,
       "base_rb_repair": 8300,
       "base_sb_repair": 9700,
       "rp_multiplyer": 1.96,
@@ -80776,9 +81711,9 @@
       "rb_realbr": 23,
       "sb_br": "8.7",
       "sb_realbr": 23,
-      "base_ab_repair": 4250,
-      "base_rb_repair": 12120,
-      "base_sb_repair": 12090,
+      "base_ab_repair": 3910,
+      "base_rb_repair": 11170,
+      "base_sb_repair": 11140,
       "rp_multiplyer": 2.02,
       "ab_sl_multiplyer": 0.97,
       "rb_sl_multiplyer": 3.36,
@@ -80803,9 +81738,9 @@
       "rb_realbr": 24,
       "sb_br": "9.0",
       "sb_realbr": 24,
-      "base_ab_repair": 4000,
-      "base_rb_repair": 13120,
-      "base_sb_repair": 15480,
+      "base_ab_repair": 3690,
+      "base_rb_repair": 12100,
+      "base_sb_repair": 14270,
       "rp_multiplyer": 2.08,
       "ab_sl_multiplyer": 0.98,
       "rb_sl_multiplyer": 3.28,
@@ -80958,7 +81893,7 @@
       "normal_type": "type_fighter",
       "extended_type": ["type_jet_fighter"],
       "country": "country_ussr",
-      "rank": 7,
+      "rank": 8,
       "ab_br": "11.3",
       "ab_realbr": 31,
       "rb_br": "11.3",
@@ -80968,12 +81903,38 @@
       "base_ab_repair": 4710,
       "base_rb_repair": 9600,
       "base_sb_repair": 15420,
-      "rp_multiplyer": 2.44,
+      "rp_multiplyer": 2.5,
       "ab_sl_multiplyer": 0.85,
       "rb_sl_multiplyer": 2.64,
       "sb_sl_multiplyer": 4.26,
-      "sl_price": 1080000,
-      "reqRP": 400000,
+      "sl_price": 1100000,
+      "reqRP": 410000,
+      "prem_type": "false",
+      "crew": 1,
+      "type": "aircraft"
+    },
+    {
+      "intname": "mig_29_9_13",
+      "displayname": "MiG-29 (9-13)",
+      "normal_type": "type_fighter",
+      "extended_type": ["type_jet_fighter"],
+      "country": "country_ussr",
+      "rank": 8,
+      "ab_br": "11.7",
+      "ab_realbr": 32,
+      "rb_br": "11.7",
+      "rb_realbr": 32,
+      "sb_br": "11.7",
+      "sb_realbr": 32,
+      "base_ab_repair": 4400,
+      "base_rb_repair": 8660,
+      "base_sb_repair": 15750,
+      "rp_multiplyer": 2.56,
+      "ab_sl_multiplyer": 0.83,
+      "rb_sl_multiplyer": 2.48,
+      "sb_sl_multiplyer": 4.26,
+      "sl_price": 1120000,
+      "reqRP": 420000,
       "prem_type": "false",
       "crew": 1,
       "type": "aircraft"
@@ -81358,9 +82319,9 @@
       "rb_realbr": 21,
       "sb_br": "8.0",
       "sb_realbr": 21,
-      "base_ab_repair": 5230,
+      "base_ab_repair": 4850,
       "base_rb_repair": 10000,
-      "base_sb_repair": 11280,
+      "base_sb_repair": 10470,
       "rp_multiplyer": 2.08,
       "ab_sl_multiplyer": 1.04,
       "rb_sl_multiplyer": 3.1,
@@ -81881,9 +82842,9 @@
       "rb_realbr": 11,
       "sb_br": "5.0",
       "sb_realbr": 12,
-      "base_ab_repair": 1340,
+      "base_ab_repair": 1550,
       "base_rb_repair": 2300,
-      "base_sb_repair": 4980,
+      "base_sb_repair": 5750,
       "rp_multiplyer": 1.6,
       "ab_sl_multiplyer": 0.72,
       "rb_sl_multiplyer": 1.27,
@@ -81959,9 +82920,9 @@
       "rb_realbr": 11,
       "sb_br": "5.3",
       "sb_realbr": 13,
-      "base_ab_repair": 2210,
-      "base_rb_repair": 3520,
-      "base_sb_repair": 7060,
+      "base_ab_repair": 2550,
+      "base_rb_repair": 4040,
+      "base_sb_repair": 8120,
       "rp_multiplyer": 1.78,
       "ab_sl_multiplyer": 0.94,
       "rb_sl_multiplyer": 1.77,
@@ -81986,9 +82947,9 @@
       "rb_realbr": 21,
       "sb_br": "8.0",
       "sb_realbr": 21,
-      "base_ab_repair": 3400,
+      "base_ab_repair": 3140,
       "base_rb_repair": 10000,
-      "base_sb_repair": 18470,
+      "base_sb_repair": 17040,
       "rp_multiplyer": 1.96,
       "ab_sl_multiplyer": 0.82,
       "rb_sl_multiplyer": 2.41,
@@ -82013,9 +82974,9 @@
       "rb_realbr": 21,
       "sb_br": "8.0",
       "sb_realbr": 21,
-      "base_ab_repair": 3320,
+      "base_ab_repair": 3060,
       "base_rb_repair": 7700,
-      "base_sb_repair": 18520,
+      "base_sb_repair": 17080,
       "rp_multiplyer": 2.02,
       "ab_sl_multiplyer": 0.72,
       "rb_sl_multiplyer": 2.52,
@@ -82772,9 +83733,9 @@
       "rb_realbr": 21,
       "sb_br": "8.0",
       "sb_realbr": 21,
-      "base_ab_repair": 3040,
-      "base_rb_repair": 11840,
-      "base_sb_repair": 19740,
+      "base_ab_repair": 2800,
+      "base_rb_repair": 10920,
+      "base_sb_repair": 18210,
       "rp_multiplyer": 1.96,
       "ab_sl_multiplyer": 0.82,
       "rb_sl_multiplyer": 2.08,
@@ -82846,7 +83807,7 @@
       "normal_type": "type_fighter",
       "extended_type": ["type_jet_fighter"],
       "country": "country_ussr",
-      "rank": 7,
+      "rank": 8,
       "ab_br": "11.3",
       "ab_realbr": 31,
       "rb_br": "11.3",
@@ -82856,12 +83817,12 @@
       "base_ab_repair": 3240,
       "base_rb_repair": 8800,
       "base_sb_repair": 14640,
-      "rp_multiplyer": 2.44,
+      "rp_multiplyer": 2.5,
       "ab_sl_multiplyer": 0.85,
       "rb_sl_multiplyer": 2.75,
       "sb_sl_multiplyer": 6,
-      "sl_price": 1080000,
-      "reqRP": 400000,
+      "sl_price": 1100000,
+      "reqRP": 410000,
       "prem_type": "false",
       "crew": 1,
       "type": "aircraft"
@@ -83347,7 +84308,7 @@
       "rb_realbr": 9,
       "sb_br": "4.3",
       "sb_realbr": 10,
-      "base_ab_repair": 1560,
+      "base_ab_repair": 1730,
       "base_rb_repair": 4300,
       "base_sb_repair": 2800,
       "rp_multiplyer": 1.66,
@@ -83402,9 +84363,9 @@
       "rb_realbr": 11,
       "sb_br": "4.7",
       "sb_realbr": 11,
-      "base_ab_repair": 1490,
-      "base_rb_repair": 1490,
-      "base_sb_repair": 3370,
+      "base_ab_repair": 1660,
+      "base_rb_repair": 1660,
+      "base_sb_repair": 3750,
       "rp_multiplyer": 1.66,
       "ab_sl_multiplyer": 1.45,
       "rb_sl_multiplyer": 2.94,
@@ -83575,7 +84536,7 @@
       "sb_br": "9.7",
       "sb_realbr": 26,
       "base_ab_repair": 1900,
-      "base_rb_repair": 4860,
+      "base_rb_repair": 5400,
       "base_sb_repair": 7200,
       "rp_multiplyer": 2.2,
       "ab_sl_multiplyer": 2,
@@ -83669,6 +84630,33 @@
       "sl_price": 930000,
       "reqRP": 520000,
       "prem_type": "squad",
+      "crew": 1,
+      "type": "aircraft"
+    },
+    {
+      "intname": "mig_23ml",
+      "displayname": "MiG-23ML",
+      "normal_type": "type_fighter",
+      "extended_type": ["type_jet_fighter"],
+      "country": "country_ussr",
+      "rank": 7,
+      "ab_br": "11.3",
+      "ab_realbr": 31,
+      "rb_br": "11.3",
+      "rb_realbr": 31,
+      "sb_br": "11.0",
+      "sb_realbr": 30,
+      "base_ab_repair": 5400,
+      "base_rb_repair": 5400,
+      "base_sb_repair": 5400,
+      "rp_multiplyer": 2.44,
+      "ab_sl_multiplyer": 1.44,
+      "rb_sl_multiplyer": 4,
+      "sb_sl_multiplyer": 6.85,
+      "sl_price": 0,
+      "reqRP": 400000,
+      "prem_type": "store",
+      "cost_gold": 9620,
       "crew": 1,
       "type": "aircraft"
     },
@@ -84373,8 +85361,8 @@
       "rb_realbr": 21,
       "sb_br": "8.0",
       "sb_realbr": 21,
-      "base_ab_repair": 5460,
-      "base_rb_repair": 13740,
+      "base_ab_repair": 5070,
+      "base_rb_repair": 12750,
       "base_sb_repair": 12000,
       "rp_multiplyer": 2.02,
       "ab_sl_multiplyer": 0.76,
@@ -86365,7 +87353,7 @@
       "normal_type": "type_assault",
       "extended_type": ["type_naval_aircraft"],
       "country": "country_britain",
-      "rank": 7,
+      "rank": 8,
       "ab_br": "11.3",
       "ab_realbr": 31,
       "rb_br": "11.3",
@@ -86374,13 +87362,13 @@
       "sb_realbr": 30,
       "base_ab_repair": 3800,
       "base_rb_repair": 9160,
-      "base_sb_repair": 11220,
-      "rp_multiplyer": 2.38,
-      "ab_sl_multiplyer": 1.09,
-      "rb_sl_multiplyer": 2.81,
+      "base_sb_repair": 11000,
+      "rp_multiplyer": 2.5,
+      "ab_sl_multiplyer": 1.12,
+      "rb_sl_multiplyer": 2.88,
       "sb_sl_multiplyer": 6,
-      "sl_price": 1060000,
-      "reqRP": 390000,
+      "sl_price": 1100000,
+      "reqRP": 410000,
       "prem_type": "false",
       "crew": 1,
       "type": "aircraft"
@@ -86893,6 +87881,31 @@
       "sb_sl_multiplyer": 4.13,
       "sl_price": 500000,
       "reqRP": 180000,
+      "prem_type": "false",
+      "crew": 2,
+      "type": "aircraft"
+    },
+    {
+      "intname": "tornado_gr1",
+      "displayname": "Tornado GR.1",
+      "normal_type": "type_assault",
+      "country": "country_britain",
+      "rank": 8,
+      "ab_br": "11.3",
+      "ab_realbr": 31,
+      "rb_br": "11.3",
+      "rb_realbr": 31,
+      "sb_br": "11.3",
+      "sb_realbr": 31,
+      "base_ab_repair": 4560,
+      "base_rb_repair": 10990,
+      "base_sb_repair": 13190,
+      "rp_multiplyer": 2.5,
+      "ab_sl_multiplyer": 1.12,
+      "rb_sl_multiplyer": 2.88,
+      "sb_sl_multiplyer": 6,
+      "sl_price": 1100000,
+      "reqRP": 410000,
       "prem_type": "false",
       "crew": 2,
       "type": "aircraft"
@@ -87436,8 +88449,8 @@
       "rb_realbr": 23,
       "sb_br": "8.3",
       "sb_realbr": 22,
-      "base_ab_repair": 3060,
-      "base_rb_repair": 3060,
+      "base_ab_repair": 3400,
+      "base_rb_repair": 3400,
       "base_sb_repair": 11000,
       "rp_multiplyer": 2.08,
       "ab_sl_multiplyer": 2,
@@ -87505,6 +88518,33 @@
       "prem_type": "store",
       "cost_gold": 9090,
       "crew": 1,
+      "type": "aircraft"
+    },
+    {
+      "intname": "f-4jk",
+      "displayname": "F-4J(UK) Phantom II",
+      "normal_type": "type_fighter",
+      "extended_type": ["type_jet_fighter", "type_naval_aircraft"],
+      "country": "country_britain",
+      "rank": 7,
+      "ab_br": "11.3",
+      "ab_realbr": 31,
+      "rb_br": "11.3",
+      "rb_realbr": 31,
+      "sb_br": "11.3",
+      "sb_realbr": 31,
+      "base_ab_repair": 5400,
+      "base_rb_repair": 5400,
+      "base_sb_repair": 5400,
+      "rp_multiplyer": 2.38,
+      "ab_sl_multiplyer": 1.44,
+      "rb_sl_multiplyer": 4.18,
+      "sb_sl_multiplyer": 7,
+      "sl_price": 0,
+      "reqRP": 390000,
+      "prem_type": "store",
+      "cost_gold": 9450,
+      "crew": 2,
       "type": "aircraft"
     },
     {
@@ -88024,6 +89064,32 @@
       "type": "aircraft"
     },
     {
+      "intname": "harrier_frs1",
+      "displayname": "Sea Harrier FRS.1",
+      "normal_type": "type_assault",
+      "extended_type": ["type_naval_aircraft"],
+      "country": "country_britain",
+      "rank": 7,
+      "ab_br": "10.7",
+      "ab_realbr": 29,
+      "rb_br": "10.7",
+      "rb_realbr": 29,
+      "sb_br": "10.7",
+      "sb_realbr": 29,
+      "base_ab_repair": 3860,
+      "base_rb_repair": 10010,
+      "base_sb_repair": 14350,
+      "rp_multiplyer": 2.32,
+      "ab_sl_multiplyer": 1.28,
+      "rb_sl_multiplyer": 3.01,
+      "sb_sl_multiplyer": 6,
+      "sl_price": 930000,
+      "reqRP": 520000,
+      "prem_type": "squad",
+      "crew": 1,
+      "type": "aircraft"
+    },
+    {
       "intname": "a5m4",
       "wikiname": "A5M4",
       "displayname": "A5M4",
@@ -88411,8 +89477,8 @@
       "rb_realbr": 15,
       "sb_br": "6.0",
       "sb_realbr": 15,
-      "base_ab_repair": 2470,
-      "base_rb_repair": 6160,
+      "base_ab_repair": 2280,
+      "base_rb_repair": 5700,
       "base_sb_repair": 7000,
       "rp_multiplyer": 1.66,
       "ab_sl_multiplyer": 0.85,
@@ -88437,9 +89503,9 @@
       "rb_realbr": 15,
       "sb_br": "6.3",
       "sb_realbr": 16,
-      "base_ab_repair": 2830,
-      "base_rb_repair": 7280,
-      "base_sb_repair": 11080,
+      "base_ab_repair": 2620,
+      "base_rb_repair": 6740,
+      "base_sb_repair": 10260,
       "rp_multiplyer": 1.72,
       "ab_sl_multiplyer": 0.92,
       "rb_sl_multiplyer": 1.83,
@@ -88675,22 +89741,22 @@
       "extended_type": ["type_jet_fighter"],
       "country": "country_japan",
       "operator_country": "country_japan_modern",
-      "rank": 7,
+      "rank": 8,
       "ab_br": "11.0",
       "ab_realbr": 30,
       "rb_br": "11.3",
       "rb_realbr": 31,
       "sb_br": "11.0",
       "sb_realbr": 30,
-      "base_ab_repair": 3880,
-      "base_rb_repair": 9040,
-      "base_sb_repair": 15210,
-      "rp_multiplyer": 2.38,
-      "ab_sl_multiplyer": 0.97,
-      "rb_sl_multiplyer": 2.56,
+      "base_ab_repair": 3890,
+      "base_rb_repair": 9030,
+      "base_sb_repair": 15140,
+      "rp_multiplyer": 2.5,
+      "ab_sl_multiplyer": 1,
+      "rb_sl_multiplyer": 2.62,
       "sb_sl_multiplyer": 6,
-      "sl_price": 1060000,
-      "reqRP": 390000,
+      "sl_price": 1100000,
+      "reqRP": 410000,
       "prem_type": "false",
       "crew": 2,
       "type": "aircraft"
@@ -89124,8 +90190,8 @@
       "sb_br": "5.0",
       "sb_realbr": 12,
       "base_ab_repair": 1820,
-      "base_rb_repair": 4780,
-      "base_sb_repair": 7030,
+      "base_rb_repair": 4790,
+      "base_sb_repair": 7040,
       "rp_multiplyer": 1.6,
       "ab_sl_multiplyer": 0.59,
       "rb_sl_multiplyer": 1.71,
@@ -89150,7 +90216,7 @@
       "sb_br": "6.0",
       "sb_realbr": 15,
       "base_ab_repair": 4000,
-      "base_rb_repair": 7890,
+      "base_rb_repair": 7900,
       "base_sb_repair": 13000,
       "rp_multiplyer": 1.72,
       "ab_sl_multiplyer": 0.79,
@@ -89175,8 +90241,8 @@
       "rb_realbr": 16,
       "sb_br": "6.3",
       "sb_realbr": 16,
-      "base_ab_repair": 3950,
-      "base_rb_repair": 10180,
+      "base_ab_repair": 3960,
+      "base_rb_repair": 10190,
       "base_sb_repair": 17000,
       "rp_multiplyer": 1.84,
       "ab_sl_multiplyer": 0.85,
@@ -90688,6 +91754,35 @@
       "type": "aircraft"
     },
     {
+      "intname": "f-4ej_adtw",
+      "displayname": "F-4EJ ADTW",
+      "normal_type": "type_fighter",
+      "extended_type": ["type_jet_fighter"],
+      "country": "country_japan",
+      "operator_country": "country_japan_modern",
+      "rank": 7,
+      "ab_br": "11.0",
+      "ab_realbr": 30,
+      "rb_br": "11.0",
+      "rb_realbr": 30,
+      "sb_br": "11.0",
+      "sb_realbr": 30,
+      "base_ab_repair": 5400,
+      "base_rb_repair": 5400,
+      "base_sb_repair": 5400,
+      "rp_multiplyer": 2.32,
+      "ab_sl_multiplyer": 1.73,
+      "rb_sl_multiplyer": 5.3,
+      "sb_sl_multiplyer": 7,
+      "sl_price": 0,
+      "reqRP": 340000,
+      "prem_type": "store",
+      "cost_gold": 9270,
+      "hidden": true,
+      "crew": 2,
+      "type": "aircraft"
+    },
+    {
       "intname": "ki_21_1hei",
       "wikiname": "Ki-21-I hei",
       "displayname": "Ki-21-I hei",
@@ -91912,9 +93007,9 @@
       "rb_realbr": 23,
       "sb_br": "8.7",
       "sb_realbr": 23,
-      "base_ab_repair": 4590,
-      "base_rb_repair": 12630,
-      "base_sb_repair": 16890,
+      "base_ab_repair": 4240,
+      "base_rb_repair": 11660,
+      "base_sb_repair": 15590,
       "rp_multiplyer": 2.02,
       "ab_sl_multiplyer": 0.95,
       "rb_sl_multiplyer": 3.12,
@@ -91939,9 +93034,9 @@
       "rb_realbr": 24,
       "sb_br": "9.0",
       "sb_realbr": 24,
-      "base_ab_repair": 3920,
+      "base_ab_repair": 3610,
       "base_rb_repair": 14000,
-      "base_sb_repair": 15170,
+      "base_sb_repair": 14000,
       "rp_multiplyer": 2.08,
       "ab_sl_multiplyer": 0.95,
       "rb_sl_multiplyer": 2.81,
@@ -92043,8 +93138,8 @@
       "rank": 7,
       "ab_br": "11.3",
       "ab_realbr": 31,
-      "rb_br": "11.3",
-      "rb_realbr": 31,
+      "rb_br": "11.0",
+      "rb_realbr": 30,
       "sb_br": "11.0",
       "sb_realbr": 30,
       "base_ab_repair": 4190,
@@ -92563,9 +93658,9 @@
       "rb_realbr": 21,
       "sb_br": "8.0",
       "sb_realbr": 21,
-      "base_ab_repair": 3510,
-      "base_rb_repair": 12300,
-      "base_sb_repair": 27570,
+      "base_ab_repair": 3240,
+      "base_rb_repair": 11350,
+      "base_sb_repair": 25440,
       "rp_multiplyer": 1.96,
       "ab_sl_multiplyer": 0.74,
       "rb_sl_multiplyer": 1.93,
@@ -92823,6 +93918,33 @@
       "rp_multiplyer": 2.32,
       "ab_sl_multiplyer": 1.46,
       "rb_sl_multiplyer": 4.9,
+      "sb_sl_multiplyer": 7,
+      "sl_price": 0,
+      "reqRP": 340000,
+      "prem_type": "store",
+      "cost_gold": 9270,
+      "crew": 1,
+      "type": "aircraft"
+    },
+    {
+      "intname": "j_7d",
+      "displayname": "J-7D",
+      "normal_type": "type_fighter",
+      "extended_type": ["type_jet_fighter"],
+      "country": "country_china",
+      "rank": 7,
+      "ab_br": "11.0",
+      "ab_realbr": 30,
+      "rb_br": "11.0",
+      "rb_realbr": 30,
+      "sb_br": "11.0",
+      "sb_realbr": 30,
+      "base_ab_repair": 5400,
+      "base_rb_repair": 5870,
+      "base_sb_repair": 5400,
+      "rp_multiplyer": 2.32,
+      "ab_sl_multiplyer": 1.74,
+      "rb_sl_multiplyer": 3.1,
       "sb_sl_multiplyer": 7,
       "sl_price": 0,
       "reqRP": 340000,
@@ -93190,7 +94312,7 @@
       "normal_type": "type_fighter",
       "extended_type": ["type_jet_fighter"],
       "country": "country_italy",
-      "rank": 6,
+      "rank": 7,
       "ab_br": "10.7",
       "ab_realbr": 29,
       "rb_br": "10.7",
@@ -93200,12 +94322,12 @@
       "base_ab_repair": 4200,
       "base_rb_repair": 11880,
       "base_sb_repair": 5070,
-      "rp_multiplyer": 2.26,
-      "ab_sl_multiplyer": 0.8,
-      "rb_sl_multiplyer": 2.75,
-      "sb_sl_multiplyer": 1.72,
-      "sl_price": 740000,
-      "reqRP": 270000,
+      "rp_multiplyer": 2.32,
+      "ab_sl_multiplyer": 0.82,
+      "rb_sl_multiplyer": 2.82,
+      "sb_sl_multiplyer": 1.76,
+      "sl_price": 930000,
+      "reqRP": 340000,
       "prem_type": "false",
       "crew": 1,
       "type": "aircraft"
@@ -93224,15 +94346,15 @@
       "rb_realbr": 31,
       "sb_br": "11.0",
       "sb_realbr": 30,
-      "base_ab_repair": 8790,
+      "base_ab_repair": 8800,
       "base_rb_repair": 12510,
-      "base_sb_repair": 11410,
-      "rp_multiplyer": 2.32,
-      "ab_sl_multiplyer": 1.12,
-      "rb_sl_multiplyer": 2.67,
-      "sb_sl_multiplyer": 4.77,
-      "sl_price": 930000,
-      "reqRP": 340000,
+      "base_sb_repair": 11420,
+      "rp_multiplyer": 2.38,
+      "ab_sl_multiplyer": 1.15,
+      "rb_sl_multiplyer": 2.74,
+      "sb_sl_multiplyer": 4.89,
+      "sl_price": 1060000,
+      "reqRP": 390000,
       "prem_type": "false",
       "crew": 1,
       "type": "aircraft"
@@ -94059,8 +95181,8 @@
       "rb_realbr": 22,
       "sb_br": "8.7",
       "sb_realbr": 23,
-      "base_ab_repair": 3890,
-      "base_rb_repair": 9590,
+      "base_ab_repair": 4500,
+      "base_rb_repair": 11090,
       "base_sb_repair": 18000,
       "rp_multiplyer": 2.08,
       "ab_sl_multiplyer": 0.69,
@@ -94743,6 +95865,34 @@
       "type": "aircraft"
     },
     {
+      "intname": "f-104s_cb",
+      "displayname": "▄F-104S TAF",
+      "normal_type": "type_fighter",
+      "extended_type": ["type_jet_fighter"],
+      "country": "country_italy",
+      "operator_country": "country_turkey",
+      "rank": 7,
+      "ab_br": "10.7",
+      "ab_realbr": 29,
+      "rb_br": "10.7",
+      "rb_realbr": 29,
+      "sb_br": "10.3",
+      "sb_realbr": 28,
+      "base_ab_repair": 5400,
+      "base_rb_repair": 5810,
+      "base_sb_repair": 5400,
+      "rp_multiplyer": 2.32,
+      "ab_sl_multiplyer": 1.83,
+      "rb_sl_multiplyer": 3.79,
+      "sb_sl_multiplyer": 7,
+      "sl_price": 0,
+      "reqRP": 340000,
+      "prem_type": "store",
+      "cost_gold": 9270,
+      "crew": 1,
+      "type": "aircraft"
+    },
+    {
       "intname": "ro_43",
       "wikiname": "Ro.43",
       "displayname": "Ro.43",
@@ -95322,9 +96472,9 @@
       "rb_realbr": 28,
       "sb_br": "10.7",
       "sb_realbr": 29,
-      "base_ab_repair": 3910,
-      "base_rb_repair": 11510,
-      "base_sb_repair": 17000,
+      "base_ab_repair": 4070,
+      "base_rb_repair": 12000,
+      "base_sb_repair": 17710,
       "rp_multiplyer": 2.32,
       "ab_sl_multiplyer": 1.01,
       "rb_sl_multiplyer": 2.87,
@@ -95349,9 +96499,9 @@
       "rb_realbr": 28,
       "sb_br": "11.0",
       "sb_realbr": 30,
-      "base_ab_repair": 3690,
-      "base_rb_repair": 11420,
-      "base_sb_repair": 14890,
+      "base_ab_repair": 3870,
+      "base_rb_repair": 11960,
+      "base_sb_repair": 15600,
       "rp_multiplyer": 2.38,
       "ab_sl_multiplyer": 1.06,
       "rb_sl_multiplyer": 2.91,
@@ -95396,16 +96546,16 @@
       "normal_type": "type_fighter",
       "extended_type": ["type_jet_fighter"],
       "country": "country_france",
-      "rank": 7,
+      "rank": 8,
       "ab_br": "11.3",
       "ab_realbr": 31,
       "rb_br": "11.3",
       "rb_realbr": 31,
       "sb_br": "11.3",
       "sb_realbr": 31,
-      "base_ab_repair": 4740,
-      "base_rb_repair": 9080,
-      "base_sb_repair": 14960,
+      "base_ab_repair": 4980,
+      "base_rb_repair": 9550,
+      "base_sb_repair": 15740,
       "rp_multiplyer": 2.5,
       "ab_sl_multiplyer": 0.78,
       "rb_sl_multiplyer": 2.77,
@@ -95746,8 +96896,8 @@
       "rb_realbr": 22,
       "sb_br": "8.7",
       "sb_realbr": 23,
-      "base_ab_repair": 3420,
-      "base_rb_repair": 8400,
+      "base_ab_repair": 3960,
+      "base_rb_repair": 9720,
       "base_sb_repair": 16000,
       "rp_multiplyer": 2.02,
       "ab_sl_multiplyer": 0.76,
@@ -95939,9 +97089,9 @@
       "rb_realbr": 15,
       "sb_br": "6.0",
       "sb_realbr": 15,
-      "base_ab_repair": 2040,
-      "base_rb_repair": 4470,
-      "base_sb_repair": 8880,
+      "base_ab_repair": 2350,
+      "base_rb_repair": 5110,
+      "base_sb_repair": 10160,
       "rp_multiplyer": 1.72,
       "ab_sl_multiplyer": 0.76,
       "rb_sl_multiplyer": 1.67,
@@ -96245,7 +97395,7 @@
       "sl_price": 77000,
       "reqRP": 18000,
       "prem_type": "false",
-      "crew": 3,
+      "crew": 2,
       "type": "aircraft"
     },
     {
@@ -96450,9 +97600,9 @@
       "rb_realbr": 28,
       "sb_br": "10.3",
       "sb_realbr": 28,
-      "base_ab_repair": 3850,
-      "base_rb_repair": 11150,
-      "base_sb_repair": 24940,
+      "base_ab_repair": 4010,
+      "base_rb_repair": 11620,
+      "base_sb_repair": 25990,
       "rp_multiplyer": 2.32,
       "ab_sl_multiplyer": 0.95,
       "rb_sl_multiplyer": 2.48,
@@ -96668,9 +97818,9 @@
       "rb_realbr": 15,
       "sb_br": "6.0",
       "sb_realbr": 15,
-      "base_ab_repair": 2000,
-      "base_rb_repair": 2550,
-      "base_sb_repair": 5380,
+      "base_ab_repair": 2220,
+      "base_rb_repair": 2840,
+      "base_sb_repair": 5970,
       "rp_multiplyer": 1.78,
       "ab_sl_multiplyer": 1.44,
       "rb_sl_multiplyer": 3.02,
@@ -96762,6 +97912,34 @@
       "reqRP": 270000,
       "prem_type": "store",
       "cost_gold": 9090,
+      "crew": 1,
+      "type": "aircraft"
+    },
+    {
+      "intname": "mirage_f1c_200",
+      "displayname": "Mirage F1C-200",
+      "normal_type": "type_fighter",
+      "extended_type": ["type_jet_fighter"],
+      "country": "country_france",
+      "rank": 7,
+      "ab_br": "11.0",
+      "ab_realbr": 30,
+      "rb_br": "11.3",
+      "rb_realbr": 31,
+      "sb_br": "11.0",
+      "sb_realbr": 30,
+      "base_ab_repair": 5400,
+      "base_rb_repair": 5550,
+      "base_sb_repair": 5400,
+      "rp_multiplyer": 2.44,
+      "ab_sl_multiplyer": 1.44,
+      "rb_sl_multiplyer": 4.47,
+      "sb_sl_multiplyer": 7,
+      "sl_price": 0,
+      "reqRP": 400000,
+      "prem_type": "store",
+      "cost_gold": 9620,
+      "hidden": true,
       "crew": 1,
       "type": "aircraft"
     },
@@ -96925,7 +98103,7 @@
       "sb_br": "8.7",
       "sb_realbr": 23,
       "base_ab_repair": 1600,
-      "base_rb_repair": 7580,
+      "base_rb_repair": 8430,
       "base_sb_repair": 12000,
       "rp_multiplyer": 2.08,
       "ab_sl_multiplyer": 1.59,
@@ -97166,7 +98344,7 @@
       "sb_realbr": 7,
       "base_ab_repair": 1300,
       "base_rb_repair": 3500,
-      "base_sb_repair": 2790,
+      "base_sb_repair": 2570,
       "rp_multiplyer": 1.42,
       "ab_sl_multiplyer": 0.41,
       "rb_sl_multiplyer": 1.2,
@@ -97243,9 +98421,9 @@
       "rb_realbr": 17,
       "sb_br": "6.7",
       "sb_realbr": 17,
-      "base_ab_repair": 3810,
-      "base_rb_repair": 11270,
-      "base_sb_repair": 14350,
+      "base_ab_repair": 3520,
+      "base_rb_repair": 10410,
+      "base_sb_repair": 13240,
       "rp_multiplyer": 1.96,
       "ab_sl_multiplyer": 1.16,
       "rb_sl_multiplyer": 2.99,
@@ -97510,7 +98688,7 @@
       "rb_realbr": 17,
       "sb_br": "6.7",
       "sb_realbr": 17,
-      "base_ab_repair": 3370,
+      "base_ab_repair": 3090,
       "base_rb_repair": 7400,
       "base_sb_repair": 13000,
       "rp_multiplyer": 1.96,
@@ -98321,6 +99499,34 @@
       "type": "aircraft"
     },
     {
+      "intname": "saab_j35j",
+      "displayname": "J35J",
+      "normal_type": "type_fighter",
+      "extended_type": ["type_jet_fighter"],
+      "country": "country_sweden",
+      "rank": 7,
+      "ab_br": "10.0",
+      "ab_realbr": 27,
+      "rb_br": "10.7",
+      "rb_realbr": 29,
+      "sb_br": "10.7",
+      "sb_realbr": 29,
+      "base_ab_repair": 4860,
+      "base_rb_repair": 4860,
+      "base_sb_repair": 4860,
+      "rp_multiplyer": 2.32,
+      "ab_sl_multiplyer": 2,
+      "rb_sl_multiplyer": 5.29,
+      "sb_sl_multiplyer": 7,
+      "sl_price": 0,
+      "reqRP": 340000,
+      "prem_type": "store",
+      "cost_gold": 9270,
+      "hidden": true,
+      "crew": 1,
+      "type": "aircraft"
+    },
+    {
       "intname": "vl_myrsky_2_late",
       "wikiname": "VL Myrsky II",
       "displayname": "VL Myrsky II",
@@ -98551,9 +99757,9 @@
       "rb_realbr": 27,
       "sb_br": "10.0",
       "sb_realbr": 27,
-      "base_ab_repair": 4290,
-      "base_rb_repair": 12710,
-      "base_sb_repair": 13560,
+      "base_ab_repair": 4470,
+      "base_rb_repair": 13250,
+      "base_sb_repair": 14130,
       "rp_multiplyer": 2.32,
       "ab_sl_multiplyer": 0.99,
       "rb_sl_multiplyer": 2.83,
@@ -98578,15 +99784,41 @@
       "rb_realbr": 31,
       "sb_br": "11.0",
       "sb_realbr": 30,
-      "base_ab_repair": 3410,
-      "base_rb_repair": 10650,
-      "base_sb_repair": 14700,
+      "base_ab_repair": 3570,
+      "base_rb_repair": 11150,
+      "base_sb_repair": 15400,
       "rp_multiplyer": 2.38,
       "ab_sl_multiplyer": 1.01,
       "rb_sl_multiplyer": 2.82,
       "sb_sl_multiplyer": 1.99,
       "sl_price": 1060000,
       "reqRP": 390000,
+      "prem_type": "false",
+      "crew": 1,
+      "type": "aircraft"
+    },
+    {
+      "intname": "f_16a_block_10_iaf",
+      "displayname": "F-16A Netz",
+      "normal_type": "type_fighter",
+      "extended_type": ["type_jet_fighter"],
+      "country": "country_israel",
+      "rank": 8,
+      "ab_br": "11.7",
+      "ab_realbr": 32,
+      "rb_br": "11.7",
+      "rb_realbr": 32,
+      "sb_br": "11.7",
+      "sb_realbr": 32,
+      "base_ab_repair": 3350,
+      "base_rb_repair": 8360,
+      "base_sb_repair": 15740,
+      "rp_multiplyer": 2.5,
+      "ab_sl_multiplyer": 0.91,
+      "rb_sl_multiplyer": 2.65,
+      "sb_sl_multiplyer": 5.59,
+      "sl_price": 1100000,
+      "reqRP": 410000,
       "prem_type": "false",
       "crew": 1,
       "type": "aircraft"
@@ -98872,9 +100104,9 @@
       "rb_realbr": 28,
       "sb_br": "10.3",
       "sb_realbr": 28,
-      "base_ab_repair": 3850,
-      "base_rb_repair": 10120,
-      "base_sb_repair": 16580,
+      "base_ab_repair": 4010,
+      "base_rb_repair": 10550,
+      "base_sb_repair": 17280,
       "rp_multiplyer": 2.32,
       "ab_sl_multiplyer": 0.84,
       "rb_sl_multiplyer": 2.7,
@@ -98925,9 +100157,9 @@
       "rb_realbr": 22,
       "sb_br": "8.7",
       "sb_realbr": 23,
-      "base_ab_repair": 3060,
-      "base_rb_repair": 4300,
-      "base_sb_repair": 4710,
+      "base_ab_repair": 3400,
+      "base_rb_repair": 4780,
+      "base_sb_repair": 5240,
       "rp_multiplyer": 2.08,
       "ab_sl_multiplyer": 1.44,
       "rb_sl_multiplyer": 3.09,
@@ -98981,9 +100213,9 @@
       "rb_realbr": 30,
       "sb_br": "10.7",
       "sb_realbr": 29,
-      "base_ab_repair": 3400,
-      "base_rb_repair": 9110,
-      "base_sb_repair": 17870,
+      "base_ab_repair": 3560,
+      "base_rb_repair": 9550,
+      "base_sb_repair": 18720,
       "rp_multiplyer": 2.38,
       "ab_sl_multiplyer": 1.3,
       "rb_sl_multiplyer": 3.79,
@@ -98993,6 +100225,33 @@
       "marketplace": 50175,
       "prem_type": "event",
       "event": "craft_2022_spring",
+      "crew": 1,
+      "type": "aircraft"
+    },
+    {
+      "intname": "kfir_canard",
+      "displayname": "Kfir Canard",
+      "normal_type": "type_fighter",
+      "extended_type": ["type_jet_fighter"],
+      "country": "country_israel",
+      "rank": 7,
+      "ab_br": "10.3",
+      "ab_realbr": 28,
+      "rb_br": "11.0",
+      "rb_realbr": 30,
+      "sb_br": "10.7",
+      "sb_realbr": 29,
+      "base_ab_repair": 5400,
+      "base_rb_repair": 5400,
+      "base_sb_repair": 5400,
+      "rp_multiplyer": 2.38,
+      "ab_sl_multiplyer": 2,
+      "rb_sl_multiplyer": 5.3,
+      "sb_sl_multiplyer": 3.23,
+      "sl_price": 0,
+      "reqRP": 390000,
+      "prem_type": "store",
+      "cost_gold": 9450,
       "crew": 1,
       "type": "aircraft"
     }
@@ -99468,9 +100727,9 @@
       "rb_realbr": 26,
       "sb_br": "9.7",
       "sb_realbr": 26,
-      "base_ab_repair": 5190,
-      "base_rb_repair": 3840,
-      "base_sb_repair": 2670,
+      "base_ab_repair": 6240,
+      "base_rb_repair": 4610,
+      "base_sb_repair": 3210,
       "rp_multiplyer": 2.14,
       "ab_sl_multiplyer": 1.6,
       "rb_sl_multiplyer": 2.34,
@@ -99524,9 +100783,9 @@
       "rb_realbr": 26,
       "sb_br": "9.7",
       "sb_realbr": 26,
-      "base_ab_repair": 4860,
-      "base_rb_repair": 4860,
-      "base_sb_repair": 4860,
+      "base_ab_repair": 5400,
+      "base_rb_repair": 5400,
+      "base_sb_repair": 5400,
       "rp_multiplyer": 2.14,
       "ab_sl_multiplyer": 2.3,
       "rb_sl_multiplyer": 4.29,
@@ -99576,9 +100835,9 @@
       "rb_realbr": 23,
       "sb_br": "9.0",
       "sb_realbr": 24,
-      "base_ab_repair": 7560,
-      "base_rb_repair": 2660,
-      "base_sb_repair": 5760,
+      "base_ab_repair": 8870,
+      "base_rb_repair": 3120,
+      "base_sb_repair": 6760,
       "rp_multiplyer": 2.08,
       "ab_sl_multiplyer": 1.6,
       "rb_sl_multiplyer": 3,
@@ -99602,9 +100861,9 @@
       "rb_realbr": 26,
       "sb_br": "9.7",
       "sb_realbr": 26,
-      "base_ab_repair": 7250,
-      "base_rb_repair": 3580,
-      "base_sb_repair": 4410,
+      "base_ab_repair": 8700,
+      "base_rb_repair": 4290,
+      "base_sb_repair": 5300,
       "rp_multiplyer": 2.14,
       "ab_sl_multiplyer": 1.6,
       "rb_sl_multiplyer": 2.7,
@@ -99628,9 +100887,9 @@
       "rb_realbr": 26,
       "sb_br": "9.7",
       "sb_realbr": 26,
-      "base_ab_repair": 6930,
-      "base_rb_repair": 3330,
-      "base_sb_repair": 2750,
+      "base_ab_repair": 8330,
+      "base_rb_repair": 4000,
+      "base_sb_repair": 3310,
       "rp_multiplyer": 2.2,
       "ab_sl_multiplyer": 1.6,
       "rb_sl_multiplyer": 2.58,
@@ -99656,9 +100915,9 @@
       "rb_realbr": 28,
       "sb_br": "10.3",
       "sb_realbr": 28,
-      "base_ab_repair": 6480,
-      "base_rb_repair": 4670,
-      "base_sb_repair": 6030,
+      "base_ab_repair": 7780,
+      "base_rb_repair": 5600,
+      "base_sb_repair": 7230,
       "rp_multiplyer": 2.26,
       "ab_sl_multiplyer": 1.6,
       "rb_sl_multiplyer": 1.87,
@@ -99795,9 +101054,9 @@
       "rb_realbr": 24,
       "sb_br": "9.3",
       "sb_realbr": 25,
-      "base_ab_repair": 4860,
-      "base_rb_repair": 4860,
-      "base_sb_repair": 4860,
+      "base_ab_repair": 5400,
+      "base_rb_repair": 5400,
+      "base_sb_repair": 5400,
       "rp_multiplyer": 2.2,
       "ab_sl_multiplyer": 2.3,
       "rb_sl_multiplyer": 5.3,
