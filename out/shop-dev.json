@@ -391,7 +391,7 @@
     "aviation": {
       "col_normal": 5,
       "min_rank": 1,
-      "max_rank": 7,
+      "max_rank": 8,
       "range": [
         [
           { "name": "p-26a_34_m2", "rank": 1 },
@@ -549,7 +549,7 @@
           { "name": "f8u-2", "rank": 6 },
           { "name": "f-8e", "rank": 7 },
           { "name": "f-4j", "rank": 7 },
-          { "name": "f_14a_early", "rank": 8 }
+          { "name": "f_14a_early", "rank": 7 }
         ],
         [
           {
@@ -1532,7 +1532,7 @@
           { "name": "mig-19s", "rank": 6 },
           { "name": "mig-21_mf", "rank": 7 },
           { "name": "mig-21_bis_sau", "rank": 7 },
-          { "name": "mig_23mla", "rank": 8 }
+          { "name": "mig_23mla", "rank": 7 }
         ],
         [
           { "name": "do_17z_7", "rank": 1 },
@@ -2403,7 +2403,7 @@
     "aviation": {
       "col_normal": 5,
       "min_rank": 1,
-      "max_rank": 7,
+      "max_rank": 8,
       "range": [
         [
           {
@@ -2528,7 +2528,7 @@
             ]
           },
           { "name": "mig_23m", "rank": 7 },
-          { "name": "mig_23mld", "rank": 8 },
+          { "name": "mig_23mld", "rank": 7 },
           { "name": "mig_29_9_13", "rank": 8 }
         ],
         [
@@ -2707,7 +2707,7 @@
           { "name": "tu_14t", "rank": 5 },
           { "name": "yak-28b", "rank": 6 },
           { "name": "mig_27m", "rank": 7 },
-          { "name": "mig_27k", "rank": 8 }
+          { "name": "mig_27k", "rank": 7 }
         ],
         [
           { "name": "i-153_m62_zhukovskiy", "rank": 1, "reqAir": "" },
@@ -3246,7 +3246,7 @@
     "aviation": {
       "col_normal": 5,
       "min_rank": 1,
-      "max_rank": 7,
+      "max_rank": 8,
       "range": [
         [
           {
@@ -3409,7 +3409,7 @@
           { "name": "harrier_gr3", "rank": 6 },
           { "name": "jaguar_gr1", "rank": 6 },
           { "name": "jaguar_gr1a", "rank": 7 },
-          { "name": "harrier_gr7", "rank": 8 }
+          { "name": "harrier_gr7", "rank": 7 }
         ],
         [
           { "name": "swordfish_mk1", "rank": 1 },
@@ -3730,7 +3730,7 @@
     "aviation": {
       "col_normal": 5,
       "min_rank": 1,
-      "max_rank": 7,
+      "max_rank": 8,
       "range": [
         [
           { "name": "a5m4", "rank": 1, "reqAir": "" },
@@ -4161,7 +4161,7 @@
     "aviation": {
       "col_normal": 4,
       "min_rank": 1,
-      "max_rank": 7,
+      "max_rank": 8,
       "range": [
         [
           { "name": "gladiator_mk1_china", "rank": 1 },
@@ -4180,7 +4180,8 @@
           { "name": "f-104a_china", "rank": 6 },
           { "name": "f-104g_china", "rank": 7 },
           { "name": "f-5a_china", "rank": 7 },
-          { "name": "f-5e_aidc", "rank": 7 }
+          { "name": "f-5e_aidc", "rank": 7 },
+          { "name": "f_16a_block_20_mlu", "rank": 8 }
         ],
         [
           {
@@ -4486,7 +4487,7 @@
           { "name": "f-86_cl_13_mk4_italy", "rank": 5 },
           { "name": "f-86k_late_italy", "rank": 6 },
           { "name": "f-104g_italy", "rank": 6 },
-          { "name": "f-104s", "rank": 7 },
+          { "name": "f-104s", "rank": 6 },
           { "name": "f-104s_asa", "rank": 7 }
         ],
         [
@@ -4700,6 +4701,7 @@
         ],
         [
           { "name": "fr_hotchkiss_h39_cambronne", "rank": 1, "reqAir": "" },
+          { "name": "fr_char_2c_bis", "rank": 1, "reqAir": "" },
           { "name": "fr_b1_ter", "rank": 2, "reqAir": "" },
           { "name": "fr_amx_13_chaffee", "rank": 2, "reqAir": "" },
           { "name": "fr_m4a1_sherman_fl_10", "rank": 3, "reqAir": "" },
@@ -4709,7 +4711,6 @@
           { "name": "fr_amx_30_super", "rank": 6, "reqAir": "", "gift": true }
         ],
         [
-          { "name": "fr_char_2c_bis", "rank": 1, "reqAir": "" },
           {
             "name": "fr_lvt_bofors",
             "rank": 2,
@@ -4832,7 +4833,7 @@
           { "name": "mirage_3c", "rank": 7 },
           { "name": "mirage_3e", "rank": 7 },
           { "name": "mirage_f1c", "rank": 7 },
-          { "name": "mirage_2000c_s5", "rank": 8 }
+          { "name": "mirage_2000c_s5", "rank": 7 }
         ],
         [
           {
@@ -5142,7 +5143,7 @@
     "aviation": {
       "col_normal": 4,
       "min_rank": 1,
-      "max_rank": 7,
+      "max_rank": 8,
       "range": [
         [
           { "name": "gladiator_j8a", "rank": 1, "reqAir": "" },
@@ -5159,7 +5160,8 @@
           { "name": "saab_j29f", "rank": 6 },
           { "name": "saab_j32b", "rank": 6 },
           { "name": "saab_j35d", "rank": 7 },
-          { "name": "saab_ja37", "rank": 7 }
+          { "name": "saab_ja37", "rank": 7 },
+          { "name": "saab_ja37d", "rank": 8 }
         ],
         [
           { "name": "saab_b17bs", "rank": 1 },
@@ -5307,7 +5309,7 @@
     "aviation": {
       "col_normal": 3,
       "min_rank": 4,
-      "max_rank": 7,
+      "max_rank": 8,
       "range": [
         [
           { "name": "spitfire_mk9c_iaf", "rank": 4, "reqAir": "" },

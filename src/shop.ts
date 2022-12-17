@@ -13,7 +13,7 @@ import {
 } from "./types";
 
 async function main(dev: boolean) {
-  const final: Final = JSON.parse(fs.readFileSync("./out/final.json", "utf-8"));
+  const final: Final = JSON.parse(fs.readFileSync(`./out/${dev ? "final-dev" : "final"}.json`, "utf-8"));
   const shopData: Shop = JSON.parse(
     fs.readFileSync(
       `./${dev ? "datamine-dev" : "War-Thunder-Datamine"}/char.vromfs.bin_u/config/shop.blkx`,

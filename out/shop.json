@@ -383,6 +383,13 @@
             "reqAir": "",
             "gift": true,
             "hidden": true
+          },
+          { "name": "dragonfly_a", "rank": 6, "reqAir": "", "hidden": true },
+          {
+            "name": "dragonfly_99_rda",
+            "rank": 6,
+            "reqAir": "",
+            "hidden": true
           }
         ]
       ]
@@ -2389,14 +2396,10 @@
           { "name": "ka_52", "rank": 7 }
         ],
         [
-          {
-            "name": "mi_24d",
-            "rank": 5,
-            "reqAir": "",
-            "gift": true,
-            "hidden": true
-          },
-          { "name": "ka_50", "rank": 6, "reqAir": "", "gift": true }
+          { "name": "mi_24d", "rank": 5, "reqAir": "", "hidden": true },
+          { "name": "ka_50", "rank": 6, "reqAir": "", "gift": true },
+          { "name": "dragonfly_h", "rank": 6, "reqAir": "", "hidden": true },
+          { "name": "dragonfly_99_na", "rank": 6, "reqAir": "", "hidden": true }
         ]
       ]
     },
