@@ -1287,7 +1287,6 @@ export interface modernparse {
 }
 
 export interface Final {
-  updated: Date;
   version: string;
   ground: GroundProps[];
   aircraft: FinalProps[];

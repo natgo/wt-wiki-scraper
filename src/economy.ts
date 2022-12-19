@@ -99,7 +99,6 @@ async function main(dev: boolean) {
   );
 
   const final: Final = {
-    updated: new Date(),
     version: fs.readFileSync(
       `./${dev ? "datamine-dev" : "War-Thunder-Datamine"}/aces.vromfs.bin_u/version`,
       "utf-8",
