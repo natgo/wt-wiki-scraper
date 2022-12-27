@@ -2,7 +2,7 @@ import axios, { AxiosResponse } from "axios";
 import fs from "fs";
 import https from "https";
 
-import { Final } from "./types";
+import { Final, FinalProps } from "./types";
 
 interface pageimages extends AxiosResponse {
   data: {
@@ -48,21 +48,19 @@ interface imageinfo {
   descriptionshorturl: string;
 }
 
-async function main() {
-  const final: Final = JSON.parse(fs.readFileSync("./out/final.json", "utf-8"));
-
+function imageLoop(vehicles:FinalProps[]) {
   const imquery =
     "https://wiki.warthunder.com/api.php?action=query&format=json&prop=images&imlimit=max";
   const iiquery =
     "https://wiki.warthunder.com/api.php?action=query&format=json&prop=imageinfo&iiprop=url";
 
-  final.aircraft.forEach(async (element) => {
-    if (!element.wikiname) {
+  vehicles.forEach(async topelement => {
+    if (!topelement.wikiname) {
       return;
     }
 
     const response: pageimages = await axios.get(
-      `${imquery}&titles=${encodeURI(element.wikiname)}`,
+      `${imquery}&titles=${encodeURI(topelement.wikiname)}`,
     );
     Object.entries(response.data.query.pages).forEach(async (element) => {
       const images: { ns: number; title: string }[] = element[1].images;
@@ -80,7 +78,7 @@ async function main() {
           if (element[1].imageinfo) {
             const downloadlink = element[1].imageinfo[0].url;
             https.get(downloadlink, function (res: { pipe: (arg0: fs.WriteStream) => void }) {
-              res.pipe(fs.createWriteStream(`./garageimages/${element[1].title}`));
+              res.pipe(fs.createWriteStream(`./garageimages/${topelement.intname}.jpg`));
             });
           } else {
             console.log(`no image for ${element[1].title}`);
@@ -89,74 +87,14 @@ async function main() {
       }
     });
   });
+}
 
-  final.ground.forEach(async (element) => {
-    if (!element.wikiname) {
-      return;
-    }
+async function main() {
+  const final: Final = JSON.parse(fs.readFileSync("./out/final.json", "utf-8"));
 
-    const response: pageimages = await axios.get(
-      `${imquery}&titles=${encodeURI(element.wikiname)}`,
-    );
-    Object.entries(response.data.query.pages).forEach(async (element) => {
-      const images: { ns: number; title: string }[] = element[1].images;
-      const match = images.find((value) => {
-        return value.title.match(new RegExp("File:GarageImage.*.jpg|File:GarageImage.*.png", "gi"));
-      });
-      if (!match) {
-        console.log(`no match for ${element[1].title}`);
-        console.log(images);
-      } else {
-        const download: imageinforesponse = await axios.get(
-          `${iiquery}&titles=${encodeURI(match.title)}&*`,
-        );
-        Object.entries(download.data.query.pages).forEach(async (element) => {
-          if (element[1].imageinfo) {
-            const downloadlink = element[1].imageinfo[0].url;
-            https.get(downloadlink, function (res: { pipe: (arg0: fs.WriteStream) => void }) {
-              res.pipe(fs.createWriteStream(`./garageimages/${element[1].title}`));
-            });
-          } else {
-            console.log(`no image for ${element[1].title}`);
-          }
-        });
-      }
-    });
-  });
-
-  final.helicopter.forEach(async (element) => {
-    if (!element.wikiname) {
-      return;
-    }
-
-    const response: pageimages = await axios.get(
-      `${imquery}&titles=${encodeURI(element.wikiname)}`,
-    );
-    Object.entries(response.data.query.pages).forEach(async (element) => {
-      const images: { ns: number; title: string }[] = element[1].images;
-      const match = images.find((value) => {
-        return value.title.match(new RegExp("File:GarageImage.*.jpg|File:GarageImage.*.png", "gi"));
-      });
-      if (!match) {
-        console.log(`no match for ${element[1].title}`);
-        console.log(images);
-      } else {
-        const download: imageinforesponse = await axios.get(
-          `${iiquery}&titles=${encodeURI(match.title)}&*`,
-        );
-        Object.entries(download.data.query.pages).forEach(async (element) => {
-          if (element[1].imageinfo) {
-            const downloadlink = element[1].imageinfo[0].url;
-            https.get(downloadlink, function (res: { pipe: (arg0: fs.WriteStream) => void }) {
-              res.pipe(fs.createWriteStream(`./garageimages/${element[1].title}`));
-            });
-          } else {
-            console.log(`no image for ${element[1].title}`);
-          }
-        });
-      }
-    });
-  });
+  imageLoop(final.aircraft);
+  imageLoop(final.ground);
+  imageLoop(final.helicopter);
 }
 
 main();
