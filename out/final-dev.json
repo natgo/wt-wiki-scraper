@@ -6874,6 +6874,7 @@
     },
     {
       "intname": "us_m728",
+      "wikiname": "M728 CEV",
       "displayname": "M728",
       "normal_type": "type_medium_tank",
       "country": "country_usa",
@@ -7294,6 +7295,7 @@
     },
     {
       "intname": "us_m1128_wolfpack",
+      "wikiname": "M1128 Wolfpack",
       "normal_type": "type_light_tank",
       "country": "country_usa",
       "rank": 6,
@@ -27659,6 +27661,7 @@
     },
     {
       "intname": "ussr_9a35_m2",
+      "wikiname": "Strela-10M2",
       "displayname": "Strela-10M2",
       "normal_type": "type_spaa",
       "country": "country_ussr",
@@ -40935,6 +40938,7 @@
     },
     {
       "intname": "uk_khalid",
+      "wikiname": "Khalid",
       "displayname": "Khalid",
       "normal_type": "type_medium_tank",
       "country": "country_britain",
@@ -43902,7 +43906,7 @@
     },
     {
       "intname": "jp_m36b2_jgsdf",
-      "wikiname": "M36B2 (Japan)",
+      "wikiname": "M36 (Japan)",
       "displayname": "▅M36",
       "normal_type": "type_tank_destroyer",
       "country": "country_japan",
@@ -44799,6 +44803,7 @@
     },
     {
       "intname": "jp_sub_i_ii_20mm",
+      "wikiname": "SUB-I-II",
       "displayname": "SUB-I-II",
       "normal_type": "type_spaa",
       "country": "country_japan",
@@ -48317,6 +48322,7 @@
     },
     {
       "intname": "cn_wz_1001",
+      "wikiname": "WZ1001(E) LCT",
       "displayname": "WZ1001",
       "normal_type": "type_medium_tank",
       "country": "country_china",
@@ -54321,6 +54327,7 @@
     },
     {
       "intname": "it_fiat_cm52",
+      "wikiname": "CM52",
       "displayname": "CM52",
       "normal_type": "type_spaa",
       "country": "country_italy",
@@ -60106,6 +60113,7 @@
     },
     {
       "intname": "fr_amx_32_105",
+      "wikiname": "AMX-32 (105)",
       "displayname": "AMX-32 (105)",
       "normal_type": "type_medium_tank",
       "country": "country_france",
@@ -61897,6 +61905,7 @@
     },
     {
       "intname": "fr_char_2c_bis",
+      "wikiname": "2C bis",
       "normal_type": "type_heavy_tank",
       "country": "country_france",
       "rank": 1,
@@ -67294,6 +67303,7 @@
     },
     {
       "intname": "sw_t_55m",
+      "wikiname": "T-55M",
       "displayname": "T-55M",
       "normal_type": "type_medium_tank",
       "country": "country_sweden",
@@ -69703,6 +69713,7 @@
     },
     {
       "intname": "il_magach_7c",
+      "wikiname": "Magach 7C",
       "displayname": "Magach 7C",
       "normal_type": "type_medium_tank",
       "country": "country_israel",
@@ -72704,6 +72715,7 @@
     },
     {
       "intname": "f_16a_block_10",
+      "wikiname": "F-16A",
       "displayname": "F-16A",
       "normal_type": "type_fighter",
       "extended_type": ["type_jet_fighter"],
@@ -83219,6 +83231,7 @@
     },
     {
       "intname": "a_6e_tram",
+      "wikiname": "A-6E TRAM",
       "displayname": "A-6E TRAM",
       "normal_type": "type_assault",
       "extended_type": ["type_naval_aircraft"],
@@ -85571,7 +85584,7 @@
     },
     {
       "intname": "f-86_canadair_german",
-      "wikiname": "CL-13A Mk 5",
+      "wikiname": "CL-13A Mk 5 (Germany)",
       "displayname": "CL-13A Mk 5",
       "normal_type": "type_fighter",
       "extended_type": ["type_jet_fighter"],
@@ -85599,7 +85612,7 @@
     },
     {
       "intname": "f-86_cl_13b_mk6",
-      "wikiname": "CL-13B Mk.6",
+      "wikiname": "CL-13B Mk.6 (Germany)",
       "displayname": "CL-13B Mk.6",
       "normal_type": "type_fighter",
       "extended_type": ["type_jet_fighter"],
@@ -85655,7 +85668,7 @@
     },
     {
       "intname": "f-104g",
-      "wikiname": "F-104G",
+      "wikiname": "F-104G (Germany)",
       "displayname": "F-104G",
       "normal_type": "type_fighter",
       "extended_type": ["type_jet_fighter"],
@@ -85930,7 +85943,7 @@
     },
     {
       "intname": "f-4f_late",
-      "wikiname": "F-4F",
+      "wikiname": "F-4F (Germany)",
       "displayname": "F-4F",
       "normal_type": "type_fighter",
       "extended_type": ["type_jet_fighter"],
@@ -86842,7 +86855,7 @@
     },
     {
       "intname": "mig-17p_lim_5p",
-      "wikiname": "Lim-5P",
+      "wikiname": "Lim-5P (Germany)",
       "displayname": "Lim-5P",
       "normal_type": "type_fighter",
       "extended_type": ["type_jet_fighter"],
@@ -90840,7 +90853,7 @@
     },
     {
       "intname": "sea_hawk_mk100",
-      "wikiname": "Sea Hawk Mk.100",
+      "wikiname": "Sea Hawk Mk.100 (Germany)",
       "displayname": "Sea Hawk Mk.100",
       "normal_type": "type_fighter",
       "extended_type": ["type_jet_fighter", "type_naval_aircraft"],
@@ -91105,7 +91118,7 @@
     },
     {
       "intname": "f-4f",
-      "wikiname": "F-4F Early",
+      "wikiname": "F-4F Early (Germany)",
       "displayname": "F-4F Early",
       "normal_type": "type_fighter",
       "extended_type": ["type_jet_fighter"],
@@ -91451,6 +91464,7 @@
     },
     {
       "intname": "mig-21_bis_lazur",
+      "wikiname": "MiG-21 \"Lazur-M\" (Germany)",
       "displayname": "▀MiG-21 \"\"\"\"Lazur-M\"\"\"\"\"\"",
       "normal_type": "type_fighter",
       "extended_type": ["type_jet_fighter"],
@@ -95007,6 +95021,7 @@
     },
     {
       "intname": "mig_29_9_13",
+      "wikiname": "MiG-29",
       "displayname": "MiG-29 (9-13)",
       "normal_type": "type_fighter",
       "extended_type": ["type_jet_fighter"],
@@ -102648,6 +102663,7 @@
     },
     {
       "intname": "mig_23ml",
+      "wikiname": "MiG-23ML",
       "displayname": "MiG-23ML",
       "normal_type": "type_fighter",
       "extended_type": ["type_jet_fighter"],
@@ -108166,6 +108182,7 @@
     },
     {
       "intname": "tornado_gr1",
+      "wikiname": "Tornado GR.1",
       "displayname": "Tornado GR.1",
       "normal_type": "type_assault",
       "country": "country_britain",
@@ -109474,6 +109491,7 @@
     },
     {
       "intname": "f-4jk",
+      "wikiname": "F-4J(UK) Phantom II",
       "displayname": "F-4J(UK) Phantom II",
       "normal_type": "type_fighter",
       "extended_type": ["type_jet_fighter", "type_naval_aircraft"],
@@ -110321,6 +110339,7 @@
     },
     {
       "intname": "harrier_frs1",
+      "wikiname": "Sea Harrier FRS.1",
       "displayname": "Sea Harrier FRS.1",
       "normal_type": "type_assault",
       "extended_type": ["type_naval_aircraft"],
@@ -114275,6 +114294,7 @@
     },
     {
       "intname": "f-4ej_adtw",
+      "wikiname": "F-4EJ ADTW",
       "displayname": "F-4EJ ADTW",
       "normal_type": "type_fighter",
       "extended_type": ["type_jet_fighter"],
@@ -116069,6 +116089,7 @@
     },
     {
       "intname": "f_16a_block_20_mlu",
+      "wikiname": "F-16A MLU (China)",
       "displayname": "␗F-16A  MLU",
       "normal_type": "type_fighter",
       "extended_type": ["type_jet_fighter"],
@@ -118362,6 +118383,7 @@
     },
     {
       "intname": "j_7d",
+      "wikiname": "J-7D",
       "displayname": "J-7D",
       "normal_type": "type_fighter",
       "extended_type": ["type_jet_fighter"],
@@ -121747,6 +121769,7 @@
     },
     {
       "intname": "f-104s_cb",
+      "wikiname": "F-104S TAF (Italy)",
       "displayname": "▄F-104S TAF",
       "normal_type": "type_fighter",
       "extended_type": ["type_jet_fighter"],
@@ -127682,6 +127705,7 @@
     },
     {
       "intname": "mirage_f1c_200",
+      "wikiname": "Mirage F1C-200",
       "displayname": "Mirage F1C-200",
       "normal_type": "type_fighter",
       "extended_type": ["type_jet_fighter"],
@@ -129600,6 +129624,7 @@
     },
     {
       "intname": "saab_ja37d",
+      "wikiname": "JA37D",
       "displayname": "JA37D",
       "normal_type": "type_fighter",
       "extended_type": ["type_jet_fighter"],
@@ -131836,6 +131861,7 @@
     },
     {
       "intname": "f_16a_block_10_iaf",
+      "wikiname": "F-16A Netz (Israel)",
       "displayname": "F-16A Netz",
       "normal_type": "type_fighter",
       "extended_type": ["type_jet_fighter"],
@@ -135658,6 +135684,7 @@
     },
     {
       "intname": "kfir_canard",
+      "wikiname": "Kfir Canard",
       "displayname": "Kfir Canard",
       "normal_type": "type_fighter",
       "extended_type": ["type_jet_fighter"],
