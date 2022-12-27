@@ -3,12 +3,18 @@ import { format } from "prettier";
 
 import { CWToCannon } from "./commonWeaponToCannon";
 import { langcsvJSON } from "./csvJSON";
+import { DeepShit, WeaponArray, typeSwitch } from "./secondaryPresets";
 import {
   AirVehicle,
+  BallisticComputer,
   Economy,
   Final,
+  FinalWeapon,
+  FinalWeaponArray,
+  FinalWeapons,
   GroundVehicle,
   NightVision,
+  SecondaryWeaponPreset,
   Shop,
   ShopItem,
   Sights,
@@ -494,6 +500,73 @@ async function main(dev: boolean) {
       }
     }
 
+    let ballistic: BallisticComputer | undefined = undefined;
+    if (
+      vehicleData.haveCCIPForGun ||
+      vehicleData.haveCCIPForRocket ||
+      vehicleData.haveCCIPForBombs ||
+      vehicleData.haveCCRPForBombs
+    ) {
+      ballistic = {
+        ccip_guns: vehicleData.haveCCIPForGun ? true : undefined,
+        ccip_rockets: vehicleData.haveCCIPForRocket ? true : undefined,
+        ccip_bombs: vehicleData.haveCCIPForBombs ? true : undefined,
+        ccrp_bombs: vehicleData.haveCCRPForBombs ? true : undefined,
+      };
+    }
+
+    let weaponPreset: SecondaryWeaponPreset | undefined = undefined;
+    if (vehicleData.WeaponSlots) {
+      const slots: Array<Array<FinalWeapons | FinalWeapon | { name: string }>> = [];
+
+      vehicleData.WeaponSlots.WeaponSlot.forEach((topelement) => {
+        const slot: Array<FinalWeapons | FinalWeapon | { name: string }> = [];
+        if (Array.isArray(topelement.WeaponPreset)) {
+          topelement.WeaponPreset.forEach((element) => {
+            slot.push({ ...DeepShit(element), hidden: topelement.order ? undefined : true });
+          });
+          slots.push(slot);
+        } else {
+          if (!topelement.WeaponPreset) {
+            slots.push([]);
+          } else if ("Weapon" in topelement.WeaponPreset) {
+            if (Array.isArray(topelement.WeaponPreset.Weapon)) {
+              const weapon: FinalWeapons = {
+                intname: topelement.WeaponPreset.name,
+                iconType: topelement.WeaponPreset.iconType,
+                reqModification: topelement.WeaponPreset.reqModification,
+                weapons: WeaponArray(topelement.WeaponPreset.Weapon),
+                hidden: topelement.order ? undefined : true,
+              };
+              slot.push(weapon);
+            } else {
+              const type = typeSwitch(topelement.WeaponPreset.Weapon.trigger);
+              if (type === null) {
+                console.log(topelement, topelement.WeaponPreset.Weapon.trigger);
+              }
+              const weapon: FinalWeapon = {
+                type: type,
+                intname: topelement.WeaponPreset.name,
+                iconType: topelement.WeaponPreset.iconType,
+                reqModification: topelement.WeaponPreset.reqModification,
+                hidden: topelement.order ? undefined : true,
+              };
+              slots.push([weapon]);
+            }
+          } else {
+            slots.push([{ name: topelement.WeaponPreset.name }]);
+          }
+        }
+      });
+      weaponPreset = {
+        maxload: vehicleData.WeaponSlots.maxloadMass,
+        maxloadLeft: vehicleData.WeaponSlots.maxloadMassLeftConsoles,
+        maxloadRight: vehicleData.WeaponSlots.maxloadMassRightConsoles,
+        maxDisbalance: vehicleData.WeaponSlots.maxDisbalance,
+        weaponSlots: slots,
+      };
+    }
+
     final.aircraft.push({
       intname: element.intname,
       wikiname: element.wikiname,
@@ -525,6 +598,8 @@ async function main(dev: boolean) {
       hidden: vehicleEconomy.showOnlyWhenBought ? true : undefined,
       crew: vehicleEconomy.crewTotalCount,
       type: "aircraft",
+      ballistic_computer: ballistic ? ballistic : undefined,
+      secondary_weapon_preset: weaponPreset ? weaponPreset : undefined,
     });
   });
   vehicles.helicopter.forEach((element) => {

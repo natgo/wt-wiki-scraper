@@ -672,6 +672,10 @@ export interface AirVehicle {
   explosion_dmBlk: string;
   fireParamsPreset: string;
   fightAiBehaviour: string;
+  haveCCIPForRocket?: boolean;
+  haveCCIPForBombs?: boolean;
+  haveCCIPForGun?: boolean;
+  haveCCRPForBombs?: boolean;
   ikPilot: IkPilot;
   attach: Attach;
   Sound: Sound;
@@ -680,12 +684,156 @@ export interface AirVehicle {
   propellers: Propellers;
   commonWeapons: CommonWeapons;
   weapon_presets: WeaponPresets;
+  WeaponSlots?: WeaponSlots;
   jetwash: Jetwash;
   turbulence: Turbulence;
   fireParams: FireParams;
   wiki: Wiki;
   balanceData: BalanceData;
   user_skin: UserSkin;
+}
+
+export interface WeaponSlots {
+  maxloadMass: number;
+  maxloadMassLeftConsoles: number;
+  maxloadMassRightConsoles: number;
+  maxDisbalance: number;
+  WeaponSlot: WeaponSlot[];
+}
+
+export interface WeaponSlot {
+  index: number;
+  tier?: number;
+  order?: number;
+  notUseforDisbalanceCalculation?: boolean;
+  WeaponPreset?: Array<WeaponPreset | WeaponNamePreset> | WeaponPreset | WeaponNamePreset;
+}
+
+export interface WeaponNamePreset {
+  name: string;
+}
+
+export interface WeaponPreset {
+  name: string;
+  iconType: string;
+  showInWeaponMenu?: boolean;
+  reqModification?: string;
+  hasTargetingPod?: boolean;
+  ShowNodes: {
+    node: string[] | string;
+  };
+  ShowDmParts?: {
+    node: string[] | string;
+  };
+  HideNodes?: {
+    node: string[] | string;
+  };
+  Weapon:
+    | CounterMeasure
+    | Cannon
+    | Cannon[]
+    | Bomb
+    | Rocket
+    | Missile
+    | AircraftOptics
+    | TargetingPod
+    | Booster;
+  DependentWeaponPreset?: { slot: number; preset: string };
+}
+
+export interface CounterMeasure {
+  trigger: "countermeasures";
+  startFx: string;
+  blk: string;
+  emitter: string;
+  external: boolean;
+  separate: boolean;
+}
+
+export interface Bomb {
+  trigger: "bombs" | "torpedoes";
+  blk: string;
+  emitter: string;
+  bullets: number;
+  external: boolean;
+  separate?: boolean;
+  machLimit: number;
+}
+
+export interface Rocket {
+  trigger: "rockets";
+  blk: string;
+  emitter: string;
+  external: boolean;
+  machLimit: number;
+}
+
+export interface Cannon {
+  trigger: string;
+  blk: string;
+  emitter: string;
+  flash: string;
+  dm: string;
+  shell: string;
+  bullets: number;
+  spread: number;
+  traceOffset: number;
+  counterIndex: number;
+  external: boolean;
+  gearLimit: number[];
+  gearName: string;
+  rotationAnimScale: string;
+}
+
+export interface Missile {
+  trigger: "aam" | "atgm" | "guided bombs" | "fuel tanks";
+  blk: string;
+  emitter: string;
+  bullets?: number;
+  external: boolean;
+  separate: boolean;
+}
+
+export interface AircraftOptics {
+  dummy?: boolean;
+  trigger: "gunner0" | "gunner1";
+  triggerGroup?: string;
+  blk: string;
+  breechInCockpit?: boolean;
+  invertedLimitsInViewer?: boolean;
+  emitter: string;
+  flash?: string;
+  dm?: string;
+  gunnerDm?: string;
+  gunDm?: string;
+  partsDP?: string;
+  bullets?: number;
+  defaultYaw?: number;
+  defaultPitch?: number;
+  speedYaw?: number;
+  speedPitch?: number;
+  parkInDeadzone?: boolean;
+  aimForOperatedShell?: boolean;
+  turret: { head: string; gun: string; mainTurret?: boolean };
+  limits: { yaw: number[]; pitch: number[] };
+}
+
+export interface TargetingPod {
+  trigger: "targetingPod";
+  blk: string;
+  emitter: string;
+  bullets: number;
+  dragCx: number;
+}
+
+export interface Booster {
+  trigger: "boosters";
+  blk: string;
+  emitter: string;
+  bullets: number;
+  external?: boolean;
+  gearRange?: number[];
+  airbrakeRange?: number[];
 }
 
 export interface OnHitPart {
@@ -1289,7 +1437,7 @@ export interface modernparse {
 export interface Final {
   version: string;
   ground: GroundProps[];
-  aircraft: FinalProps[];
+  aircraft: AircraftProps[];
   helicopter: FinalProps[];
 }
 
@@ -1325,6 +1473,74 @@ export interface FinalProps {
   cost_gold?: number;
   hidden?: boolean;
   marketplace?: number;
+}
+
+export interface AircraftProps extends FinalProps {
+  ballistic_computer?: BallisticComputer;
+  secondary_weapon_preset?: SecondaryWeaponPreset;
+}
+
+export interface BallisticComputer {
+  ccip_guns?: true;
+  ccip_rockets?: true;
+  ccip_bombs?: true;
+  ccrp_bombs?: true;
+}
+
+export interface SecondaryWeaponPreset {
+  maxload: number;
+  maxloadLeft: number;
+  maxloadRight: number;
+  maxDisbalance: number;
+  weaponSlots: Array<Array<FinalWeapons | FinalWeapon | { name: string }>>;
+}
+
+export interface FinalWeapons {
+  intname: string;
+  iconType: string;
+  reqModification?: string;
+  hidden?: true;
+  weapons: FinalWeaponArray[];
+}
+
+export interface FinalWeaponArray {
+  type:
+    | "aam"
+    | "agm"
+    | "bomb"
+    | "guided_bomb"
+    | "torpedo"
+    | "rocket"
+    | "gun"
+    | "countermeasures"
+    | "fuel_tank"
+    | "optics"
+    | "targeting_pod"
+    | "booster"
+    | null;
+  bullets?: number;
+}
+
+export interface FinalWeapon {
+  type:
+    | "aam"
+    | "agm"
+    | "bomb"
+    | "guided_bomb"
+    | "torpedo"
+    | "rocket"
+    | "gun"
+    | "countermeasures"
+    | "fuel_tank"
+    | "optics"
+    | "targeting_pod"
+    | "booster"
+    | null;
+  bullets?: number;
+  intname: string;
+  iconType: string;
+  reqModification?: string;
+  hidden?: true;
 }
 
 export interface GroundProps extends FinalProps {
