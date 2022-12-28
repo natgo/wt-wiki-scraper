@@ -1438,14 +1438,15 @@ export interface Final {
   version: string;
   ground: GroundProps[];
   aircraft: AircraftProps[];
-  helicopter: FinalProps[];
+  helicopter: HelicopterProps[];
 }
+
+export type VehicleProps = GroundProps|AircraftProps|HelicopterProps;
 
 export interface FinalProps {
   intname: string;
   wikiname?: string;
   displayname?: string;
-  type: "tank" | "aircraft" | "helicopter";
   normal_type: string;
   extended_type?: string[];
   country: string;
@@ -1476,6 +1477,7 @@ export interface FinalProps {
 }
 
 export interface AircraftProps extends FinalProps {
+  type: "aircraft";
   ballistic_computer?: BallisticComputer;
   secondary_weapon_preset?: SecondaryWeaponPreset;
 }
@@ -1544,6 +1546,7 @@ export interface FinalWeapon {
 }
 
 export interface GroundProps extends FinalProps {
+  type: "tank";
   mass: number;
   horsepower: number;
   gears_forward: number;
@@ -1686,6 +1689,10 @@ export interface NightVision {
     ghosting: 0.7 | 0.75 | 0.6;
     noiseFactor: 0.2;
   };
+}
+
+export interface HelicopterProps extends FinalProps {
+  type: "helicopter";
 }
 
 //Final Shop
