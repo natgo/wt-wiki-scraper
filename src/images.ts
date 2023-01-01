@@ -48,13 +48,13 @@ interface imageinfo {
   descriptionshorturl: string;
 }
 
-function imageLoop(vehicles:FinalProps[]) {
+function imageLoop(vehicles: FinalProps[]) {
   const imquery =
     "https://wiki.warthunder.com/api.php?action=query&format=json&prop=images&imlimit=max";
   const iiquery =
     "https://wiki.warthunder.com/api.php?action=query&format=json&prop=imageinfo&iiprop=url";
 
-  vehicles.forEach(async topelement => {
+  vehicles.forEach(async (topelement) => {
     if (!topelement.wikiname) {
       return;
     }

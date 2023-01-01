@@ -1441,7 +1441,7 @@ export interface Final {
   helicopter: HelicopterProps[];
 }
 
-export type VehicleProps = GroundProps|AircraftProps|HelicopterProps;
+export type VehicleProps = GroundProps | AircraftProps | HelicopterProps;
 
 export interface FinalProps {
   intname: string;
@@ -1494,14 +1494,16 @@ export interface SecondaryWeaponPreset {
   maxloadLeft: number;
   maxloadRight: number;
   maxDisbalance: number;
-  weaponSlots: Array<Array<FinalWeapons | FinalWeapon | { name: string }>>;
+  weaponSlots: Array<{
+    hidden?: boolean;
+    slot: Array<FinalWeapons | FinalWeapon | { name: string }>;
+  }>;
 }
 
 export interface FinalWeapons {
   intname: string;
   iconType: string;
   reqModification?: string;
-  hidden?: true;
   weapons: FinalWeaponArray[];
 }
 
@@ -1520,6 +1522,7 @@ export interface FinalWeaponArray {
     | "targeting_pod"
     | "booster"
     | null;
+  displayname?: string;
   bullets?: number;
 }
 
@@ -1540,9 +1543,9 @@ export interface FinalWeapon {
     | null;
   bullets?: number;
   intname: string;
+  displayname?: string;
   iconType: string;
   reqModification?: string;
-  hidden?: true;
 }
 
 export interface GroundProps extends FinalProps {

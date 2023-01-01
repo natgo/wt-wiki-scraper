@@ -9,6 +9,7 @@ import {
 
 export function DeepShit(
   element: WeaponPreset | WeaponNamePreset,
+  weaponry_lang: { ID: string; English: string }[],
 ): FinalWeapon | FinalWeapons | { name: string } {
   if ("Weapon" in element) {
     if (Array.isArray(element.Weapon)) {
@@ -16,7 +17,7 @@ export function DeepShit(
         intname: element.name,
         iconType: element.iconType,
         reqModification: element.reqModification,
-        weapons: WeaponArray(element.Weapon),
+        weapons: WeaponArray(element.Weapon, weaponry_lang),
       };
       return weapon;
     } else {
@@ -27,6 +28,13 @@ export function DeepShit(
       const weapon: FinalWeapon = {
         type: type,
         intname: element.name,
+        displayname: weaponry_lang.find((botelement) => {
+          if (element && "Weapon" in element && !Array.isArray(element.Weapon)) {
+            const blk = element.Weapon.blk.split("/");
+            return botelement.ID === `weapons/${blk[blk.length - 1].split(".")[0]}/short`;
+          }
+          return false;
+        })?.English,
         iconType: element.iconType,
         reqModification: element.reqModification,
       };
@@ -37,7 +45,10 @@ export function DeepShit(
   }
 }
 
-export function WeaponArray(element: Cannon[]): FinalWeaponArray[] {
+export function WeaponArray(
+  element: Cannon[],
+  weaponry_lang: { ID: string; English: string }[],
+): FinalWeaponArray[] {
   const weapons: FinalWeaponArray[] = [];
   element.forEach((element) => {
     const type = typeSwitch(element.trigger);
@@ -46,6 +57,13 @@ export function WeaponArray(element: Cannon[]): FinalWeaponArray[] {
     }
     weapons.push({
       type: type,
+      displayname: weaponry_lang.find((botelement) => {
+        if (element && "Weapon" in element && !Array.isArray(element.Weapon)) {
+          const blk = element.blk.split("/");
+          return botelement.ID === `weapons/${blk[blk.length - 1].split(".")[0]}/short`;
+        }
+        return false;
+      })?.English,
       bullets: element.bullets,
     });
   });

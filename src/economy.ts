@@ -517,26 +517,28 @@ async function main(dev: boolean) {
 
     let weaponPreset: SecondaryWeaponPreset | undefined = undefined;
     if (vehicleData.WeaponSlots) {
-      const slots: Array<Array<FinalWeapons | FinalWeapon | { name: string }>> = [];
+      const slots: Array<{
+        hidden?: boolean;
+        slot: Array<FinalWeapons | FinalWeapon | { name: string }>;
+      }> = [];
 
       vehicleData.WeaponSlots.WeaponSlot.forEach((topelement) => {
         const slot: Array<FinalWeapons | FinalWeapon | { name: string }> = [];
         if (Array.isArray(topelement.WeaponPreset)) {
           topelement.WeaponPreset.forEach((element) => {
-            slot.push({ ...DeepShit(element), hidden: topelement.order ? undefined : true });
+            slot.push({ ...DeepShit(element, weaponry_lang) });
           });
-          slots.push(slot);
+          slots.push({ hidden: topelement.order ? undefined : true, slot: slot });
         } else {
           if (!topelement.WeaponPreset) {
-            slots.push([]);
+            slots.push({ slot: [] });
           } else if ("Weapon" in topelement.WeaponPreset) {
             if (Array.isArray(topelement.WeaponPreset.Weapon)) {
               const weapon: FinalWeapons = {
                 intname: topelement.WeaponPreset.name,
                 iconType: topelement.WeaponPreset.iconType,
                 reqModification: topelement.WeaponPreset.reqModification,
-                weapons: WeaponArray(topelement.WeaponPreset.Weapon),
-                hidden: topelement.order ? undefined : true,
+                weapons: WeaponArray(topelement.WeaponPreset.Weapon, weaponry_lang),
               };
               slot.push(weapon);
             } else {
@@ -547,14 +549,28 @@ async function main(dev: boolean) {
               const weapon: FinalWeapon = {
                 type: type,
                 intname: topelement.WeaponPreset.name,
+                displayname: weaponry_lang.find((element) => {
+                  if (
+                    topelement.WeaponPreset &&
+                    "Weapon" in topelement.WeaponPreset &&
+                    !Array.isArray(topelement.WeaponPreset.Weapon)
+                  ) {
+                    const blk = topelement.WeaponPreset.Weapon.blk.split("/");
+
+                    return element.ID === `weapons/${blk[blk.length - 1].split(".")[0]}/short`;
+                  }
+                  return false;
+                })?.English,
                 iconType: topelement.WeaponPreset.iconType,
                 reqModification: topelement.WeaponPreset.reqModification,
-                hidden: topelement.order ? undefined : true,
               };
-              slots.push([weapon]);
+              slots.push({ hidden: topelement.order ? undefined : true, slot: [weapon] });
             }
           } else {
-            slots.push([{ name: topelement.WeaponPreset.name }]);
+            slots.push({
+              hidden: topelement.order ? undefined : true,
+              slot: [{ name: topelement.WeaponPreset.name }],
+            });
           }
         }
       });
