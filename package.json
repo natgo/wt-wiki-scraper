@@ -15,14 +15,14 @@
     "@types/decomment": "0.9.2",
     "@types/node": "18.11.18",
     "@types/prettier": "2.7.2",
-    "@typescript-eslint/eslint-plugin": "5.47.1",
-    "@typescript-eslint/parser": "5.47.1",
-    "eslint": "8.30.0",
+    "@typescript-eslint/eslint-plugin": "5.48.0",
+    "@typescript-eslint/parser": "5.48.0",
+    "eslint": "8.31.0",
     "prettier": "2.8.1",
     "typescript": "4.9.4"
   },
   "dependencies": {
-    "axios": "1.2.1",
+    "axios": "1.2.2",
     "cheerio": "1.0.0-rc.12",
     "decomment": "0.9.5"
   }
