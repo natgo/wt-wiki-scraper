@@ -54,11 +54,8 @@ export function WeaponArray(
     weapons.push({
       type: type,
       displayname: weaponry_lang.find((botelement) => {
-        if (element && "Weapon" in element && !Array.isArray(element.Weapon)) {
-          const blk = element.blk.split("/");
-          return botelement.ID === `weapons/${blk[blk.length - 1].split(".")[0]}/short`;
-        }
-        return false;
+        const blk = element.blk.split("/");
+        return botelement.ID.toLowerCase() === `weapons/${blk[blk.length - 1].split(".")[0].toLowerCase()}/short`;
       })?.English,
       bullets: element.bullets,
     });
