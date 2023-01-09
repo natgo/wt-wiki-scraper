@@ -1,10 +1,10 @@
 {
   "compilerOptions": {
-    "target": "es2020",
+    "target": "ES2021",
     "module": "CommonJS",
-    "lib": ["dom", "es6", "es2017", "esnext.asynciterable"],
+    "lib": ["ES2021", "ESNext"],
     "skipLibCheck": true,
-    "sourceMap": false,
+    "sourceMap": true,
     "outDir": "./dist",
     "moduleResolution": "node",
     "removeComments": true,
@@ -23,6 +23,6 @@
     "resolveJsonModule": true,
     "baseUrl": "."
   },
-  "exclude": ["node_modules","./src/**/*.test.ts"],
+  "exclude": ["node_modules", "./src/**/*.test.ts"],
   "include": ["./src/**/*.ts"]
 }
