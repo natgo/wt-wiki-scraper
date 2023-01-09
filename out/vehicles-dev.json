@@ -433,7 +433,7 @@
     { "intname": "ussr_t_72av_turms", "wikiname": "T-72AV (TURMS-T)" },
     { "intname": "ussr_2s38", "wikiname": "2S38" },
     { "intname": "ussr_bmp_2m", "wikiname": "BMP-2M" },
-    { "intname": "ussr_t_80um2" },
+    { "intname": "ussr_t_80um2", "wikiname": "T-80UM2" },
     { "intname": "ussr_t_80uk", "wikiname": "T-80UK" },
     { "intname": "ussr_t_26E", "wikiname": "T-26E" },
     { "intname": "ussr_bt_7_1937_td", "wikiname": "BT-7 TD" },
