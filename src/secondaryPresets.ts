@@ -6,10 +6,12 @@ import {
   WeaponNamePreset,
   WeaponPreset,
 } from "./types";
+import { weaponDisplayname } from "./weaponDisplayname";
 
 export function DeepShit(
   element: WeaponPreset | WeaponNamePreset,
   weaponry_lang: { ID: string; English: string }[],
+  dev: boolean,
 ): FinalWeapon | FinalWeapons | { name: string } {
   if ("Weapon" in element) {
     if (Array.isArray(element.Weapon)) {
@@ -28,13 +30,7 @@ export function DeepShit(
       const weapon: FinalWeapon = {
         type: type,
         intname: element.name,
-        displayname: weaponry_lang.find((botelement) => {
-          if (element && "Weapon" in element && !Array.isArray(element.Weapon)) {
-            const blk = element.Weapon.blk.split("/");
-            return botelement.ID === `weapons/${blk[blk.length - 1].split(".")[0]}/short`;
-          }
-          return false;
-        })?.English,
+        ...weaponDisplayname(element, weaponry_lang, dev),
         iconType: element.iconType,
         reqModification: element.reqModification,
       };

@@ -739,6 +739,7 @@ export interface WeaponPreset {
     | TargetingPod
     | Booster;
   DependentWeaponPreset?: { slot: number; preset: string };
+  BannedWeaponPreset?: { slot: number; preset: string };
 }
 
 export interface CounterMeasure {
@@ -834,6 +835,227 @@ export interface Booster {
   external?: boolean;
   gearRange?: number[];
   airbrakeRange?: number[];
+}
+
+export type Container = RocketContainer | BombContainer | CannonContainer;
+
+export interface RocketContainer {
+  container: boolean;
+  mesh: string;
+  useEmitter: boolean;
+  emitterGenRange: number[];
+  emitterGenFmt: string;
+  cap: string;
+  blk: string;
+  bullets: number;
+  amountPerTier: number;
+  mass: number;
+  dragCx: number;
+  brokenCaps: {
+    brokenCap: string[];
+  };
+}
+
+export interface BombContainer {
+  container: boolean;
+  mesh: string;
+  useEmitter: boolean;
+  emitter: string[];
+  blk: string;
+  bullets: number;
+  amountPerTier: number;
+}
+
+export interface CannonContainer {
+  cannon: boolean;
+  weaponType: number;
+  bUseHookAsRel: boolean;
+  emitColor: number[];
+  emitI: number;
+  emitR: number;
+  emitTime: number;
+  aimMinDist: number;
+  aimMaxDist: number;
+  maxDeltaAngle: number;
+  shotFreq: number;
+  alternativeShotFreq: number;
+  traceFreq: number;
+  bEnablePause: boolean;
+  bullets: number;
+  bulletsCluster: number;
+  mass: number;
+  dragCx: number;
+  shouldCollideWithRendinsts: boolean;
+  fxType: string;
+  fxMultipleSpawn: boolean;
+  iconType: string;
+  bullet: CannonContainerBullet[];
+  gunSound: GunSound;
+}
+
+export interface CannonContainerBullet {
+  mass: number;
+  caliber: number;
+  explosiveType?: string;
+  explosiveMass?: number;
+  speed: number;
+  maxDistance: number;
+  Cx: number;
+  selfDestructionInAir?: boolean;
+  normalizationPreset: string;
+  ricochetPreset: string;
+  secondaryShattersPreset: string;
+  stabilityThreshold: number;
+  stabilityCaliberToArmorThreshold: number;
+  stabilityReductionAfterRicochet: number;
+  stabilityReductionAfterPenetration: number;
+  bulletType: string;
+  slopeEffectPreset?: string;
+  fresnel?: number[];
+  explodeOnRendinst?: boolean;
+  shellAnimation: string;
+  recoilMultiplier: number;
+  hitPowerMult?: number;
+  nearHitPower?: number[];
+  midHitPower?: number[];
+  farHitPower?: number[];
+  endHitPower?: number[];
+  relativeVelHitShift: number[];
+  nearArmorPower?: number[];
+  midArmorPower?: number[];
+  farArmorPower?: number[];
+  relativeVelArmorShift: Array<number[] | number>;
+  fuseDelayDist?: number;
+  explodeTreshold?: number;
+  explodeHitPower?: number;
+  explodeArmorPower?: number;
+  explodeRadius?: number[];
+  shutterDamage?: boolean;
+  shutterDamageRadius?: number;
+  shutterAmount?: number;
+  shutterArmorPower?: number;
+  shutterHit?: number;
+  selfDestructionFx: string;
+  explosionEffect: string;
+  groundCollisionEffect: string;
+  ricochetEffect: string;
+  waterCollisionEffect: string;
+  explosionPatchRadius?: number;
+  stabilityRicochetModifier: StabilityRicochetModifier;
+  visual: Visual;
+  collisions: { [key: string]: Collision };
+  modelName?: string;
+  onHitChanceMultFire?: number;
+  hitpower?: Hitpower;
+  damage?: Damage;
+  effectiveDistance?: number;
+  armorpower?: Armorpower;
+}
+
+export interface Armorpower {
+  ArmorPower0m: number[];
+  ArmorPower100m: number[];
+  ArmorPower500m: number[];
+  ArmorPower1000m: number[];
+  ArmorPower1450m: number[];
+  ArmorPower1500m: number[];
+}
+
+export interface Collision {
+  fx: string;
+}
+
+export interface Damage {
+  kinetic: Kinetic;
+}
+
+export interface Kinetic {
+  damageType: string;
+  demarrePenetrationK: number;
+  demarreSpeedPow: number;
+  demarreMassPow: number;
+  demarreCaliberPow: number;
+}
+
+export interface Hitpower {
+  HitPower0m?: number[];
+  HitPower1000m: number[];
+  HitPower10000m?: number[];
+  HitPower10m?: number[];
+  HitPower1500m?: number[];
+  HitPower2000m?: number[];
+}
+
+export interface StabilityRicochetModifier {
+  mod1: number[];
+  mod2: number[];
+  mod3: Array<number[]>;
+}
+
+export interface GunSound {
+  path: string;
+  pathStudio: string;
+  outside: string;
+  cockpit: string;
+  ai: string;
+}
+
+export interface Ns23ArmorTargetsBullet {
+  mass: number;
+  caliber: number;
+  explosiveType?: string;
+  explosiveMass?: number;
+  speed: number;
+  maxDistance: number;
+  Cx: number;
+  selfDestructionInAir?: boolean;
+  normalizationPreset: string;
+  ricochetPreset: string;
+  secondaryShattersPreset: string;
+  stabilityThreshold: number;
+  stabilityCaliberToArmorThreshold: number;
+  stabilityReductionAfterRicochet: number;
+  stabilityReductionAfterPenetration: number;
+  bulletType: string;
+  slopeEffectPreset?: string;
+  fresnel?: number[];
+  explodeOnRendinst?: boolean;
+  shellAnimation: string;
+  recoilMultiplier: number;
+  hitPowerMult?: number;
+  effectiveDistance?: number;
+  relativeVelHitShift: number[];
+  relativeVelArmorShift: Array<number[] | number>;
+  nearArmorPower?: number[];
+  midArmorPower?: number[];
+  farArmorPower?: number[];
+  fuseDelayDist?: number;
+  explodeTreshold?: number;
+  explodeHitPower?: number;
+  explodeArmorPower?: number;
+  explodeRadius?: number[];
+  shutterDamage?: boolean;
+  shutterDamageRadius?: number;
+  shutterAmount?: number;
+  shutterArmorPower?: number;
+  shutterHit?: number;
+  selfDestructionFx: string;
+  explosionEffect: string;
+  groundCollisionEffect: string;
+  ricochetEffect: string;
+  waterCollisionEffect: string;
+  stabilityRicochetModifier: StabilityRicochetModifier;
+  hitpower: Hitpower;
+  armorpower?: Armorpower;
+  visual: Visual;
+  collisions: { [key: string]: Collision };
+  modelName?: string;
+  onHitChanceMultFire?: number;
+  damage?: Damage;
+}
+
+export interface Overheat {
+  overheat: Array<number[]>;
 }
 
 export interface OnHitPart {

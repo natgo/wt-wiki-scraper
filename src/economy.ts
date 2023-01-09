@@ -22,6 +22,7 @@ import {
   UnitData,
   namevehicles,
 } from "./types";
+import { weaponDisplayname } from "./weaponDisplayname";
 
 async function main(dev: boolean) {
   const economy: Record<string, Economy> = JSON.parse(
@@ -526,7 +527,7 @@ async function main(dev: boolean) {
         const slot: Array<FinalWeapons | FinalWeapon | { name: string }> = [];
         if (Array.isArray(topelement.WeaponPreset)) {
           topelement.WeaponPreset.forEach((element) => {
-            slot.push({ ...DeepShit(element, weaponry_lang) });
+            slot.push({ ...DeepShit(element, weaponry_lang, dev) });
           });
           slots.push({ hidden: topelement.order ? undefined : true, slot: slot });
         } else {
@@ -549,18 +550,7 @@ async function main(dev: boolean) {
               const weapon: FinalWeapon = {
                 type: type,
                 intname: topelement.WeaponPreset.name,
-                displayname: weaponry_lang.find((element) => {
-                  if (
-                    topelement.WeaponPreset &&
-                    "Weapon" in topelement.WeaponPreset &&
-                    !Array.isArray(topelement.WeaponPreset.Weapon)
-                  ) {
-                    const blk = topelement.WeaponPreset.Weapon.blk.split("/");
-
-                    return element.ID === `weapons/${blk[blk.length - 1].split(".")[0]}/short`;
-                  }
-                  return false;
-                })?.English,
+                ...weaponDisplayname(topelement.WeaponPreset, weaponry_lang, dev),
                 iconType: topelement.WeaponPreset.iconType,
                 reqModification: topelement.WeaponPreset.reqModification,
               };
