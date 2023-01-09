@@ -1918,6 +1918,8 @@ export interface NightVision {
 
 export interface HelicopterProps extends FinalProps {
   type: "helicopter";
+  ballistic_computer?: BallisticComputer;
+  secondary_weapon_preset?: SecondaryWeaponPreset;
 }
 
 //Final Shop

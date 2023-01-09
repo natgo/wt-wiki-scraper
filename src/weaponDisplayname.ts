@@ -29,8 +29,6 @@ export function weaponDisplayname(
       return undefined;
     }
 
-    console.log(blk.slice(2).join("/").split(".")[0], blk.length);
-
     const weaponData: Container = JSON.parse(
       fs.readFileSync(
         `./${dev ? "datamine-dev" : "War-Thunder-Datamine"}/aces.vromfs.bin_u/gamedata/weapons/${blk
@@ -41,11 +39,9 @@ export function weaponDisplayname(
         "utf-8",
       ),
     );
-    console.log(weaponData);
 
     if ("blk" in weaponData) {
       const containerblk = weaponData.blk.split("/");
-      console.log(containerblk.join("/"));
 
       const containerName = langdata.find((element) => {
         return (
@@ -71,7 +67,6 @@ export function weaponDisplayname(
       );
       if ("blk" in containerData) {
         const container2blk = containerData.blk.split("/");
-        console.log(container2blk.join("/"));
 
         const container2data = langdata.find((element) => {
           return (
