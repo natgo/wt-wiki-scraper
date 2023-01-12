@@ -1,5 +1,5 @@
-import { load } from "cheerio";
 import fs from "fs";
+import { parseHTML} from "linkedom";
 
 import { Final } from "./types";
 
@@ -30,25 +30,23 @@ async function main() {
       fs.readFileSync(`./wikitext-transpiled/helicopter/${element}`, "utf-8"),
     );
   });
-  const $ = load(vehicles.ground[7]);
-  const indent = $(".specs_info .specs_char .specs_char_block .specs_char_line.indent");
-  const head = $(".specs_info .specs_char .specs_char_block .specs_char_line.head");
-  console.log(indent.children(".name").first().next().text());
-  indent.children(".name").each((i, el) => {
-    if ($(el).text() === "Turret") {
-      console.log($(el).next(".value").text());
-    }
-  });
-  head.children(".name").each((i, el) => {
-    if ($(el).text() === "Visibility") {
-      console.log($(el).next(".value").text());
-    }
-  });
-  head.children(".name").each((i, el) => {
-    if ($(el).text() === "Speed") {
-      console.log($(indent[i]).children(".value").html());
-    }
-  });
+
+  vehicles.ground.forEach(element => {
+    const {
+      document
+    } = parseHTML(element);
+    const indent = document.querySelectorAll(".specs_info .specs_char .specs_char_block .specs_char_line.indent");
+    const head = document.querySelectorAll(".specs_info .specs_char .specs_char_block .specs_char_line.head");
+    // AB Top speed
+    const ab_top = indent[2].querySelector(".value")?.innerHTML.replaceAll(/\s/g,"").replace("km/h","").split("/");
+    console.log(ab_top);
+    // RB Top speed
+    const rb_top = indent[3].querySelector(".value")?.innerHTML.replaceAll(/\s/g,"").replace("km/h","").split("/");
+    console.log(rb_top);
+    // Visibility
+    const visibility = head[2].querySelector(".value")?.innerHTML.replace("&nbsp;%","");
+    console.log(visibility);
+  });  
 }
 
 main();
