@@ -1,4 +1,5 @@
 import fs from "fs";
+import { stabilizer } from "./stabilizer";
 
 import { Belt, Bullet, Shell, ShellBelt, TankCannon, Weapon, WeaponGround } from "./types";
 
@@ -159,6 +160,8 @@ export function CWToCannon(
     belts.push(belt);
   }
 
+  const stab=stabilizer(Weapon);
+
   const cannon: TankCannon = {
     intname: name,
     name: enName,
@@ -183,6 +186,7 @@ export function CWToCannon(
         ? "primary"
         : Weapon.limits.pitch,
     autoloader: Weapon.autoLoader,
+    stabilizer: stab,
     shotFreq: weapon_data.shotFreq,
     caliber: parseFloat(
       Weapon.blk
