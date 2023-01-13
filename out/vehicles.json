@@ -100,11 +100,23 @@
     { "intname": "us_m901_itv", "wikiname": "M901" },
     { "intname": "us_m1128_wolfpack", "wikiname": "M1128 Wolfpack" },
     { "intname": "us_m1a1_aim_abrams", "wikiname": "M1A1 AIM" },
-    { "intname": "us_m8_greyhound", "wikiname": "M8 LAC" },
-    { "intname": "us_m8a1", "wikiname": "M8A1 GMC" },
+    { "intname": "us_m8_greyhound", "wikiname": "M8 LAC", "marketplace": "M8" },
+    {
+      "intname": "us_m8a1",
+      "wikiname": "M8A1 GMC",
+      "marketplace": "75mm Gun Motor Carriage M8"
+    },
     { "intname": "us_m5a1_stuart_td", "wikiname": "M5A1 TD" },
-    { "intname": "us_lvt_4_zis_2", "wikiname": "LVT(A)(4) (ZIS-2) (USA)" },
-    { "intname": "us_t18_e2", "wikiname": "T18E2" },
+    {
+      "intname": "us_lvt_4_zis_2",
+      "wikiname": "LVT(A)(4) (ZIS-2) (USA)",
+      "marketplace": "LVT(A)(4) ZIS-2"
+    },
+    {
+      "intname": "us_t18_e2",
+      "wikiname": "T18E2",
+      "marketplace": "T18E2 Boarhound (USA)"
+    },
     { "intname": "us_t55e1", "wikiname": "T55E1" },
     {
       "intname": "us_m4a3e2_sherman_jumbo_cobra_king",
@@ -113,17 +125,49 @@
     { "intname": "us_t20", "wikiname": "T20" },
     { "intname": "us_t28", "wikiname": "T28" },
     { "intname": "us_t29", "wikiname": "T29" },
-    { "intname": "us_t30", "wikiname": "T30" },
-    { "intname": "us_m6a2e1", "wikiname": "M6A2E1" },
+    {
+      "intname": "us_t30",
+      "wikiname": "T30",
+      "marketplace": "Heavy Tank T30 (USA)"
+    },
+    {
+      "intname": "us_m6a2e1",
+      "wikiname": "M6A2E1",
+      "marketplace": "items_M6A2E1 (USA)"
+    },
     { "intname": "us_magach_3", "wikiname": "Magach 3 (ERA) (USA)" },
     { "intname": "us_t54e1", "wikiname": "T54E1" },
     { "intname": "us_merkava_mk_1", "wikiname": "Merkava Mk.1 (USA)" },
-    { "intname": "us_merkava_mk_2b_late", "wikiname": "Merkava Mk.2B (USA)" },
-    { "intname": "us_xm_8", "wikiname": "XM8" },
-    { "intname": "us_ags_teledyne", "wikiname": "AGS" },
-    { "intname": "us_ccvl", "wikiname": "CCVL" },
-    { "intname": "us_m60a3_slep", "wikiname": "M60 AMBT" },
-    { "intname": "us_merkava_mk_3d", "wikiname": "Merkava Mk.3D (USA)" },
+    {
+      "intname": "us_merkava_mk_2b_late",
+      "wikiname": "Merkava Mk.2B (USA)",
+      "marketplace": "Merkava Mk.2B (USA)"
+    },
+    {
+      "intname": "us_xm_8",
+      "wikiname": "XM8",
+      "marketplace": "items_XM8 (USA)"
+    },
+    {
+      "intname": "us_ags_teledyne",
+      "wikiname": "AGS",
+      "marketplace": "id50163_ags_usa"
+    },
+    {
+      "intname": "us_ccvl",
+      "wikiname": "CCVL",
+      "marketplace": "id50197_ccvl_usa"
+    },
+    {
+      "intname": "us_m60a3_slep",
+      "wikiname": "M60 AMBT",
+      "marketplace": "items_M60 AMBT (USA)"
+    },
+    {
+      "intname": "us_merkava_mk_3d",
+      "wikiname": "Merkava Mk.3D (USA)",
+      "marketplace": "items_Merkava Mk.3D (USA)"
+    },
     { "intname": "us_m1a1_abrams_yt_cup_2019" },
     {
       "intname": "germ_sdkfz_221_s_pz_b_41",
@@ -259,7 +303,11 @@
       "intname": "germ_panzerbefelhswagen_jagdpanther",
       "wikiname": "Bfw. Jagdpanther G1"
     },
-    { "intname": "germ_panzerjager_tiger_P_elefant", "wikiname": "Elefant" },
+    {
+      "intname": "germ_panzerjager_tiger_P_elefant",
+      "wikiname": "Elefant",
+      "marketplace": "id50181_elefant_germany"
+    },
     {
       "intname": "germ_sturmmorser_sturmtiger",
       "wikiname": "38 cm Sturmmörser"
@@ -275,22 +323,51 @@
     },
     { "intname": "germ_leopard_2pl", "wikiname": "Leopard 2 PL" },
     { "intname": "germ_leopard_2a5_yt_cup_2019" },
-    { "intname": "germ_sdkfz_251_10", "wikiname": "Sd.Kfz.251/10" },
-    { "intname": "germ_sdkfz_234_1", "wikiname": "Sd.Kfz.234/1" },
-    { "intname": "germ_sdkfz_234_3", "wikiname": "Sd.Kfz.234/3" },
+    {
+      "intname": "germ_sdkfz_251_10",
+      "wikiname": "Sd.Kfz.251/10",
+      "marketplace": "items_Sd.Kfz.251/10 (Germany)"
+    },
+    {
+      "intname": "germ_sdkfz_234_1",
+      "wikiname": "Sd.Kfz.234/1",
+      "marketplace": "Sd.Kfz.234/1 (Germany)"
+    },
+    {
+      "intname": "germ_sdkfz_234_3",
+      "wikiname": "Sd.Kfz.234/3",
+      "marketplace": "Sd.Kfz.234/3 (Germany)"
+    },
     { "intname": "germ_sdkfz_234_2_td", "wikiname": "Sd.Kfz.234/2 TD" },
     { "intname": "germ_pzkpfw_II_ausf_H", "wikiname": "Pz.Sfl.Ic" },
     { "intname": "germ_sdkfz_251_22", "wikiname": "Sd.Kfz.251/22" },
-    { "intname": "germ_sdkfz_234_4", "wikiname": "Sd.Kfz.234/4" },
+    {
+      "intname": "germ_sdkfz_234_4",
+      "wikiname": "Sd.Kfz.234/4",
+      "marketplace": "Sd.Kfz.234/4"
+    },
     { "intname": "us_m4a2_1944_germ", "wikiname": "M4 748 (a) (Germany)" },
-    { "intname": "germ_kv_1B_finland", "wikiname": "KV-IB (Germany)" },
-    { "intname": "germ_vsw_flak_41", "wikiname": "VFW" },
+    {
+      "intname": "germ_kv_1B_finland",
+      "wikiname": "KV-IB (Germany)",
+      "marketplace": "KV-1B"
+    },
+    {
+      "intname": "germ_vsw_flak_41",
+      "wikiname": "VFW",
+      "marketplace": "VFW (Germany)"
+    },
     { "intname": "germ_pzkpfw_V_ersatz_m10", "wikiname": "Ersatz M10" },
     {
       "intname": "germ_pzkpfw_VI_ausf_h1_tiger_animal_version",
-      "wikiname": "Tiger (Germany)"
+      "wikiname": "Tiger (Germany)",
+      "marketplace": "␠Tiger"
     },
-    { "intname": "germ_pzkpfw_VI_tiger_P", "wikiname": "VK 45.01 (P)" },
+    {
+      "intname": "germ_pzkpfw_VI_tiger_P",
+      "wikiname": "VK 45.01 (P)",
+      "marketplace": "VK 4501 P"
+    },
     {
       "intname": "germ_pzkpfw_VI_ausf_b_tiger_IIh_sla",
       "wikiname": "Tiger II (H) Sla.16"
@@ -301,13 +378,37 @@
       "intname": "germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46",
       "wikiname": "Tiger II (10.5 cm Kw.K)"
     },
-    { "intname": "germ_pzkpfw_e_100", "wikiname": "E-100" },
+    {
+      "intname": "germ_pzkpfw_e_100",
+      "wikiname": "E-100",
+      "marketplace": "E-100"
+    },
     { "intname": "germ_pzkpfw_Maus", "wikiname": "Maus" },
-    { "intname": "germ_vt_1_2", "wikiname": "VT1-2" },
-    { "intname": "germ_th_800_bismark", "wikiname": "Class 3 (P)" },
-    { "intname": "germ_leopard_c2_mexas", "wikiname": "C2A1" },
-    { "intname": "germ_leopard_2_pt14", "wikiname": "PT-16/T14 mod." },
-    { "intname": "germ_leopard_2av", "wikiname": "Leopard 2AV" },
+    {
+      "intname": "germ_vt_1_2",
+      "wikiname": "VT1-2",
+      "marketplace": "VT1-2 (Germany)"
+    },
+    {
+      "intname": "germ_th_800_bismark",
+      "wikiname": "Class 3 (P)",
+      "marketplace": "items_Class 3 (P) (Germany)"
+    },
+    {
+      "intname": "germ_leopard_c2_mexas",
+      "wikiname": "C2A1",
+      "marketplace": "items_Leopard C2A1 MEXAS (Germany)"
+    },
+    {
+      "intname": "germ_leopard_2_pt14",
+      "wikiname": "PT-16/T14 mod.",
+      "marketplace": "id50154_pt_16_t14_mod__germany"
+    },
+    {
+      "intname": "germ_leopard_2av",
+      "wikiname": "Leopard 2AV",
+      "marketplace": "id50190_leopard_2av_germany"
+    },
     { "intname": "ussr_bt_5", "wikiname": "BT-5" },
     { "intname": "ussr_bt_7_1937", "wikiname": "BT-7" },
     { "intname": "ussr_bt_7_m", "wikiname": "BT-7M" },
@@ -412,7 +513,11 @@
     { "intname": "ussr_t_126sp", "wikiname": "T-126" },
     { "intname": "ussr_zut_37", "wikiname": "ZUT-37" },
     { "intname": "ussr_smk", "wikiname": "SMK" },
-    { "intname": "ussr_bm_13n", "wikiname": "BM-13N" },
+    {
+      "intname": "ussr_bm_13n",
+      "wikiname": "BM-13N",
+      "marketplace": "items_BM-13N (USSR)"
+    },
     {
       "intname": "ussr_valentine_mk_9",
       "wikiname": "MK-IX \"Valentine\" (USSR)"
@@ -436,40 +541,102 @@
     { "intname": "ussr_bmp_2m", "wikiname": "BMP-2M" },
     { "intname": "ussr_t_80um2", "wikiname": "T-80UM2" },
     { "intname": "ussr_t_80uk", "wikiname": "T-80UK" },
-    { "intname": "ussr_t_26E", "wikiname": "T-26E" },
+    {
+      "intname": "ussr_t_26E",
+      "wikiname": "T-26E",
+      "marketplace": "T-26E (USSR)"
+    },
     { "intname": "ussr_bt_7_1937_td", "wikiname": "BT-7 TD" },
-    { "intname": "ussr_rbt_5", "wikiname": "RBT-5" },
-    { "intname": "ussr_ba_11", "wikiname": "BA-11" },
-    { "intname": "ussr_m3c", "wikiname": "M3 Medium (USSR)" },
+    { "intname": "ussr_rbt_5", "wikiname": "RBT-5", "marketplace": "RBT-5" },
+    {
+      "intname": "ussr_ba_11",
+      "wikiname": "BA-11",
+      "marketplace": "BA-11 (USSR)"
+    },
+    {
+      "intname": "ussr_m3c",
+      "wikiname": "M3 Medium (USSR)",
+      "marketplace": "M3 Medium (USSR)"
+    },
     {
       "intname": "ussr_su_76m_5st_kav_corps",
-      "wikiname": "SU-76M (5th Gv.Kav.Corps)"
+      "wikiname": "SU-76M (5th Gv.Kav.Corps)",
+      "marketplace": "SU-76M 5th Gv.Kav.Corps"
     },
-    { "intname": "ussr_su_76d", "wikiname": "SU-76D" },
-    { "intname": "ussr_bt_7a_f32", "wikiname": "BT-7A (F-32)" },
+    {
+      "intname": "ussr_su_76d",
+      "wikiname": "SU-76D",
+      "marketplace": "items_SU-76D (USSR)"
+    },
+    {
+      "intname": "ussr_bt_7a_f32",
+      "wikiname": "BT-7A (F-32)",
+      "marketplace": "BT-7 (F-32) (USSR)"
+    },
     {
       "intname": "ussr_a_12_mk_2_matilda_2A_F96",
-      "wikiname": "MK-II \"Matilda\" (USSR)"
+      "wikiname": "MK-II \"Matilda\" (USSR)",
+      "marketplace": "Matilda Mk II (USSR)"
     },
-    { "intname": "ussr_su_85a", "wikiname": "SU-85A" },
-    { "intname": "ussr_t_34E", "wikiname": "T-34E" },
+    {
+      "intname": "ussr_su_85a",
+      "wikiname": "SU-85A",
+      "marketplace": "SU-85A (USSR)"
+    },
+    { "intname": "ussr_t_34E", "wikiname": "T-34E", "marketplace": "T-34E" },
     { "intname": "ussr_t_34_1940_l_11", "wikiname": "T-34 (Prototype)" },
-    { "intname": "ussr_kv_2_1940", "wikiname": "KV-2 (1940)" },
+    {
+      "intname": "ussr_kv_2_1940",
+      "wikiname": "KV-2 (1940)",
+      "marketplace": "KV-2 (1940) (USSR)"
+    },
     { "intname": "ussr_kv_1e", "wikiname": "KV-1E" },
-    { "intname": "ussr_kv_220", "wikiname": "KV-220" },
+    { "intname": "ussr_kv_220", "wikiname": "KV-220", "marketplace": "KV-220" },
     { "intname": "ussr_kv_2_zis_6", "wikiname": "KV-2 (ZiS-6)" },
-    { "intname": "ussr_pzkpfw_V", "wikiname": "T-V (USSR)" },
+    {
+      "intname": "ussr_pzkpfw_V",
+      "wikiname": "T-V (USSR)",
+      "marketplace": "T-V"
+    },
     { "intname": "ussr_kv_122", "wikiname": "KV-122" },
     { "intname": "ussr_is_2_1944_revenge", "wikiname": "IS-2 \"Revenge\"" },
-    { "intname": "ussr_object_248", "wikiname": "Object 248" },
+    {
+      "intname": "ussr_object_248",
+      "wikiname": "Object 248",
+      "marketplace": "id50184_object_248_ussr"
+    },
     { "intname": "ussr_is_6", "wikiname": "IS-6" },
-    { "intname": "ussr_type_62", "wikiname": "Type 62 (USSR)" },
-    { "intname": "ussr_pt_76_57", "wikiname": "PT-76-57" },
-    { "intname": "ussr_t_10a", "wikiname": "T-10A" },
-    { "intname": "ussr_is_7", "wikiname": "IS-7" },
-    { "intname": "ussr_object_279", "wikiname": "Object 279" },
-    { "intname": "ussr_bmd_4", "wikiname": "BMD-4" },
-    { "intname": "ussr_t_72m2_moderna", "wikiname": "T-72M2 Moderna" },
+    {
+      "intname": "ussr_type_62",
+      "wikiname": "Type 62 (USSR)",
+      "marketplace": "Type-62"
+    },
+    {
+      "intname": "ussr_pt_76_57",
+      "wikiname": "PT-76-57",
+      "marketplace": "id50160_pt_76_57_ussr"
+    },
+    {
+      "intname": "ussr_t_10a",
+      "wikiname": "T-10A",
+      "marketplace": "items_Т-10А (USSR)"
+    },
+    { "intname": "ussr_is_7", "wikiname": "IS-7", "marketplace": "IS-7" },
+    {
+      "intname": "ussr_object_279",
+      "wikiname": "Object 279",
+      "marketplace": "Object 279 (USSR)"
+    },
+    {
+      "intname": "ussr_bmd_4",
+      "wikiname": "BMD-4",
+      "marketplace": "id50148_bmd_4_ussr"
+    },
+    {
+      "intname": "ussr_t_72m2_moderna",
+      "wikiname": "T-72M2 Moderna",
+      "marketplace": "id50176_t_72m2_moderna_ussr"
+    },
     { "intname": "ussr_m551_football" },
     { "intname": "ussr_t_80u_yt_cup_2019" },
     { "intname": "ussr_t_80u_race" },
@@ -591,23 +758,56 @@
     },
     { "intname": "uk_challenger_1_mk_3_gulf", "wikiname": "Challenger DS" },
     { "intname": "uk_challenger_II_yt_cup_2019" },
-    { "intname": "uk_alecto_mk_1", "wikiname": "Alecto I" },
-    { "intname": "uk_a_13_mk2_1939", "wikiname": "A13 Mk II 1939" },
+    {
+      "intname": "uk_alecto_mk_1",
+      "wikiname": "Alecto I",
+      "marketplace": "id50172_alecto_i_great_britain"
+    },
+    {
+      "intname": "uk_a_13_mk2_1939",
+      "wikiname": "A13 Mk II 1939",
+      "marketplace": "Mark IV A13 Mk.II (Britain)"
+    },
     { "intname": "uk_ac1_sentinel", "wikiname": "A.C.I" },
-    { "intname": "uk_matilda_hedgehog", "wikiname": "Matilda Hedgehog" },
-    { "intname": "uk_mk1_grant", "wikiname": "Grant I" },
-    { "intname": "uk_armored_car_aec_mk_2", "wikiname": "AEC Mk II" },
-    { "intname": "uk_a_33_excelsior", "wikiname": "Excelsior" },
+    {
+      "intname": "uk_matilda_hedgehog",
+      "wikiname": "Matilda Hedgehog",
+      "marketplace": "items_Matilda Hedgehog (Britain)"
+    },
+    {
+      "intname": "uk_mk1_grant",
+      "wikiname": "Grant I",
+      "marketplace": "Cruiser Tank Grant I"
+    },
+    {
+      "intname": "uk_armored_car_aec_mk_2",
+      "wikiname": "AEC Mk II",
+      "marketplace": "AEC Mk.II"
+    },
+    {
+      "intname": "uk_a_33_excelsior",
+      "wikiname": "Excelsior",
+      "marketplace": "A.33+Heavy+Assault+Tank+%27Excelsior%27"
+    },
     {
       "intname": "uk_a_22f_mk_7_churchill_crocodile",
       "wikiname": "Churchill Crocodile"
     },
     {
       "intname": "uk_a_34_comet_iron_duke",
-      "wikiname": "Comet I \"Iron Duke IV\""
+      "wikiname": "Comet I \"Iron Duke IV\"",
+      "marketplace": "A34 Comet I Iron Duke IV (Britain)"
     },
-    { "intname": "uk_ram_90mm_aa", "wikiname": "QF 3.7 Ram" },
-    { "intname": "uk_centurion_mk_5_raac", "wikiname": "Centurion Mk.5/1" },
+    {
+      "intname": "uk_ram_90mm_aa",
+      "wikiname": "QF 3.7 Ram",
+      "marketplace": "QF 3.7 Ram (Britain)"
+    },
+    {
+      "intname": "uk_centurion_mk_5_raac",
+      "wikiname": "Centurion Mk.5/1",
+      "marketplace": "items_Centurion Mk.5/1 (RAAC) (Britain)"
+    },
     { "intname": "uk_rooikat_105_td", "wikiname": "Rooikat 105" },
     { "intname": "uk_khalid", "wikiname": "Khalid" },
     { "intname": "jp_type_95_ha_go", "wikiname": "Ha-Go" },
@@ -672,7 +872,8 @@
     { "intname": "jp_type_3_chi_nu_75cm_type_5", "wikiname": "Chi-Nu II" },
     {
       "intname": "jp_pzkpfw_VI_ausf_e_tiger",
-      "wikiname": "Heavy Tank No.6 (Japan)"
+      "wikiname": "Heavy Tank No.6 (Japan)",
+      "marketplace": "items_Heavy Tank No.6 (Japan)"
     },
     { "intname": "jp_type_5_ho_ri_prototype", "wikiname": "Ho-Ri Prototype" },
     { "intname": "jp_type_75_mlrs", "wikiname": "Type 75 MLRS" },
@@ -743,7 +944,11 @@
       "intname": "cn_m4a4_sherman_1st_ptg",
       "wikiname": "M4A4 (1st PTG) (China)"
     },
-    { "intname": "cn_type_64", "wikiname": "M64" },
+    {
+      "intname": "cn_type_64",
+      "wikiname": "M64",
+      "marketplace": "id50169_m64_china"
+    },
     { "intname": "cn_t_34_85_zis_53_no215", "wikiname": "T-34-85 No.215" },
     { "intname": "cn_is_2_1943_no402", "wikiname": "IS-2 No.402" },
     { "intname": "cn_ztz_59a", "wikiname": "ZTZ59A" },
@@ -834,7 +1039,11 @@
     { "intname": "it_41m_turan_2", "wikiname": "Turan II" },
     { "intname": "it_p_26_40", "wikiname": "P40 \"G.C. Leoncello\"" },
     { "intname": "it_44m_zrinyi_1", "wikiname": "Zrinyi I" },
-    { "intname": "it_aubl_74_60_70m", "wikiname": "AUBL/74 HVG" },
+    {
+      "intname": "it_aubl_74_60_70m",
+      "wikiname": "AUBL/74 HVG",
+      "marketplace": "AUBL/74 HVG (Italy)"
+    },
     { "intname": "fr_amc_34", "wikiname": "AMC.34 YR" },
     { "intname": "fr_amd_35", "wikiname": "AMD.35" },
     { "intname": "fr_amc_35", "wikiname": "AMC.35 (ACG.1)" },
@@ -912,9 +1121,17 @@
     { "intname": "fr_lvt_bofors", "wikiname": "LVT-4/40" },
     { "intname": "fr_lorraine_155", "wikiname": "Lorraine 155 Mle.50" },
     { "intname": "fr_panhard_ebr_1954", "wikiname": "E.B.R. (1954)" },
-    { "intname": "fr_panhard_ebr_1963", "wikiname": "E.B.R. (1963)" },
+    {
+      "intname": "fr_panhard_ebr_1963",
+      "wikiname": "E.B.R. (1963)",
+      "marketplace": "id50145_e_b_r__1963_france"
+    },
     { "intname": "fr_somua_sm", "wikiname": "Somua SM" },
-    { "intname": "fr_amx_50_surblinde", "wikiname": "AMX-50 Surblinde" },
+    {
+      "intname": "fr_amx_50_surblinde",
+      "wikiname": "AMX-50 Surblinde",
+      "marketplace": "AMX 50 Surblindé (France)"
+    },
     { "intname": "sw_strv_m31", "wikiname": "Strv m/31" },
     { "intname": "sw_ikv_72", "wikiname": "Ikv 72" },
     { "intname": "sw_strv_m41_s2", "wikiname": "Strv m/41 S-II" },
@@ -990,7 +1207,11 @@
     { "intname": "sw_cv_90105_tml", "wikiname": "CV 90105" },
     { "intname": "sw_t_80u", "wikiname": "T 80 U (Sweden)" },
     { "intname": "sw_strv_m39_td", "wikiname": "Strv m/39 TD" },
-    { "intname": "sw_pbil_m40", "wikiname": "Pbil m/40" },
+    {
+      "intname": "sw_pbil_m40",
+      "wikiname": "Pbil m/40",
+      "marketplace": "id50150_pbil_m_40_sweden"
+    },
     { "intname": "sw_ikv_73", "wikiname": "Ikv 73" },
     { "intname": "il_m_51", "wikiname": "M-51" },
     { "intname": "il_m48a1_patton_III", "wikiname": "Magach 1" },
@@ -1175,34 +1396,75 @@
     { "intname": "ucav_mq_1_predator", "wikiname": "MQ-1" },
     { "intname": "ucav_recon_micro" },
     { "intname": "ucav_recon_micro_flir" },
-    { "intname": "p-26a_34", "wikiname": "P-26A-34" },
+    {
+      "intname": "p-26a_34",
+      "wikiname": "P-26A-34",
+      "marketplace": "P-26A-34 (USA)"
+    },
     { "intname": "p-36a_rasmussen", "wikiname": "Rasmussen's P-36A" },
     { "intname": "b_10b", "wikiname": "B-10B" },
-    { "intname": "p-40c", "wikiname": "P-40C" },
+    {
+      "intname": "p-40c",
+      "wikiname": "P-40C",
+      "marketplace": "items_P-40C Warhawk (USA)"
+    },
     { "intname": "yp-38", "wikiname": "YP-38" },
-    { "intname": "p-43a-1", "wikiname": "P-43A-1" },
+    { "intname": "p-43a-1", "wikiname": "P-43A-1", "marketplace": "P-43A-1" },
     { "intname": "pbm_3", "wikiname": "PBM-3 \"Mariner\"" },
-    { "intname": "pv_2d", "wikiname": "PV-2D" },
-    { "intname": "xf5f", "wikiname": "XF5F" },
+    {
+      "intname": "pv_2d",
+      "wikiname": "PV-2D",
+      "marketplace": "PV-2D Harpoon (USA)"
+    },
+    { "intname": "xf5f", "wikiname": "XF5F", "marketplace": "XF5F Skyrocket" },
     {
       "intname": "p-63c-5_kingcobra_animal_version",
-      "wikiname": "Kingcobra (USA)"
+      "wikiname": "Kingcobra (USA)",
+      "marketplace": "␠Kingcobra"
     },
     { "intname": "p-61a_1", "wikiname": "P-61A-11" },
-    { "intname": "p-38j_marge", "wikiname": "Bong's P-38J-15" },
+    {
+      "intname": "p-38j_marge",
+      "wikiname": "Bong's P-38J-15",
+      "marketplace": "Richard Bong%27s P-38J-15 Lightning(USA)"
+    },
     { "intname": "p-38k", "wikiname": "P-38K" },
-    { "intname": "p-59a", "wikiname": "P-59A" },
+    { "intname": "p-59a", "wikiname": "P-59A", "marketplace": "P-59A (USA)" },
     { "intname": "a-26c", "wikiname": "A-26C-45" },
     { "intname": "a-26c-45-dt", "wikiname": "A-26C-45DT" },
     { "intname": "f4u-4b_vmf_214", "wikiname": "F4U-4B VMF-214" },
-    { "intname": "f4u-6_au-1", "wikiname": "AU-1" },
-    { "intname": "f2g-1", "wikiname": "F2G-1" },
-    { "intname": "f7f3", "wikiname": "F7F-3" },
+    {
+      "intname": "f4u-6_au-1",
+      "wikiname": "AU-1",
+      "marketplace": "AU-1 Corsair (USA)"
+    },
+    {
+      "intname": "f2g-1",
+      "wikiname": "F2G-1",
+      "marketplace": "items_F2G-1 Super Corsair (USA)"
+    },
+    { "intname": "f7f3", "wikiname": "F7F-3", "marketplace": "F7F-3 Tigercat" },
     { "intname": "f-86f-35", "wikiname": "F-86F-35" },
-    { "intname": "f4d_1", "wikiname": "F4D-1" },
-    { "intname": "fj_4b_agm_12b", "wikiname": "FJ-4B VMF-232" },
-    { "intname": "f11f_1_late", "wikiname": "F11F-1" },
-    { "intname": "f-5a", "wikiname": "F-5A" },
+    {
+      "intname": "f4d_1",
+      "wikiname": "F4D-1",
+      "marketplace": "id50188_f4d_1_usa"
+    },
+    {
+      "intname": "fj_4b_agm_12b",
+      "wikiname": "FJ-4B VMF-232",
+      "marketplace": "FJ-4B VMF-232 (USA)"
+    },
+    {
+      "intname": "f11f_1_late",
+      "wikiname": "F11F-1",
+      "marketplace": "items_F11F-1 (USA)"
+    },
+    {
+      "intname": "f-5a",
+      "wikiname": "F-5A",
+      "marketplace": "id50153_f_5a_usa"
+    },
     { "intname": "bf-109b_2", "wikiname": "Bf 109 B-1" },
     { "intname": "bf-109e-1", "wikiname": "Bf 109 E-1" },
     { "intname": "bf-109e-3", "wikiname": "Bf 109 E-3" },
@@ -1348,34 +1610,90 @@
     { "intname": "sea_hawk_mk100", "wikiname": "Sea Hawk Mk.100 (Germany)" },
     { "intname": "fiat_g91_r4_german", "wikiname": "G.91 R/4 (Germany)" },
     { "intname": "mig-21_sps_k", "wikiname": "MiG-21 SPS-K (Germany)" },
-    { "intname": "f-4f", "wikiname": "F-4F Early (Germany)" },
+    {
+      "intname": "f-4f",
+      "wikiname": "F-4F Early (Germany)",
+      "marketplace": "items_F-4F Early (Germany)"
+    },
     {
       "intname": "mig-21_bis_lazur",
       "wikiname": "MiG-21 \"Lazur-M\" (Germany)"
     },
-    { "intname": "tornado_ids_de_mfg", "wikiname": "Tornado IDS (Germany)" },
-    { "intname": "he51b_2w", "wikiname": "He 51 B-2/H" },
-    { "intname": "fw-189a-1", "wikiname": "Fw 189 A-1" },
+    {
+      "intname": "tornado_ids_de_mfg",
+      "wikiname": "Tornado IDS (Germany)",
+      "marketplace": "id50204_%E2%97%84tornado_ids_germany"
+    },
+    {
+      "intname": "he51b_2w",
+      "wikiname": "He 51 B-2/H",
+      "marketplace": "He 51 B-2/H"
+    },
+    {
+      "intname": "fw-189a-1",
+      "wikiname": "Fw 189 A-1",
+      "marketplace": "Fw.189A-1 (Germany)"
+    },
     { "intname": "arado-196a-3", "wikiname": "Ar 196 A-3" },
-    { "intname": "h-75a-2_finland", "wikiname": "Hawk H-75A-2 (Germany)" },
-    { "intname": "he_112b_2", "wikiname": "He 112 B-2/U2" },
+    {
+      "intname": "h-75a-2_finland",
+      "wikiname": "Hawk H-75A-2 (Germany)",
+      "marketplace": "Hawk H-75A-2 (Germany)"
+    },
+    {
+      "intname": "he_112b_2",
+      "wikiname": "He 112 B-2/U2",
+      "marketplace": "He.112B-2/U2 (Germany)"
+    },
     {
       "intname": "wellington_mk1c_luftwaffe",
       "wikiname": "Wellington Mk Ic (Germany)"
     },
-    { "intname": "bf-109e-7", "wikiname": "Bf 109 E-7/U2" },
-    { "intname": "bf-110c-6", "wikiname": "Bf 110 C-6" },
+    {
+      "intname": "bf-109e-7",
+      "wikiname": "Bf 109 E-7/U2",
+      "marketplace": "Bf.109E-7/U2"
+    },
+    {
+      "intname": "bf-110c-6",
+      "wikiname": "Bf 110 C-6",
+      "marketplace": "Bf 110 C-6 (Germany)"
+    },
     { "intname": "hs-129b-2_romania", "wikiname": "Hs 129 B-2 (Romania)" },
-    { "intname": "bv-155b-1", "wikiname": "BV 155 B-1" },
+    {
+      "intname": "bv-155b-1",
+      "wikiname": "BV 155 B-1",
+      "marketplace": "id50186_bv_155_b_1_germany"
+    },
     { "intname": "p-47d_luftwaffe", "wikiname": "P-47D (Germany)" },
     { "intname": "la-5fn_luftwaffe", "wikiname": "La-5FN (Germany)" },
     { "intname": "bf-109z", "wikiname": "Bf 109 Z-1" },
     { "intname": "fw-190d-13", "wikiname": "Fw 190 D-13" },
-    { "intname": "ju-388j", "wikiname": "Ju 388 J" },
-    { "intname": "fw-190c", "wikiname": "Fw 190 C" },
-    { "intname": "he-162a-1", "wikiname": "He 162 A-1" },
-    { "intname": "me-262a-2a", "wikiname": "Me 262 A-2a" },
-    { "intname": "mig_23mf_germany", "wikiname": "MiG-23MF (Germany)" },
+    {
+      "intname": "ju-388j",
+      "wikiname": "Ju 388 J",
+      "marketplace": "Ju 388 J (Germany)"
+    },
+    {
+      "intname": "fw-190c",
+      "wikiname": "Fw 190 C",
+      "marketplace": "Fw 190 C (Germany)"
+    },
+    {
+      "intname": "he-162a-1",
+      "wikiname": "He 162 A-1",
+      "marketplace": "He&nbsp;162&nbsp;A-1"
+    },
+    {
+      "intname": "me-262a-2a",
+      "wikiname": "Me 262 A-2a",
+      "marketplace": "Me.262A-2a Sturmvogel"
+    },
+    {
+      "intname": "mig_23mf_germany",
+      "wikiname": "MiG-23MF (Germany)",
+      "marketplace": "id50161_mig_23mf_germany"
+    },
     { "intname": "yak-1_early", "wikiname": "Yak-1" },
     { "intname": "yak-1b", "wikiname": "Yak-1B" },
     { "intname": "yak-7b", "wikiname": "Yak-7B" },
@@ -1514,7 +1832,11 @@
     { "intname": "la-7_dolgushin", "wikiname": "Dolgushin's La-7" },
     { "intname": "su_6_single", "wikiname": "Su-6" },
     { "intname": "be_6", "wikiname": "Be-6" },
-    { "intname": "su-8", "wikiname": "Su-8" },
+    {
+      "intname": "su-8",
+      "wikiname": "Su-8",
+      "marketplace": "id50170_su_8_ussr"
+    },
     { "intname": "la-11", "wikiname": "La-11" },
     { "intname": "yak-3_vk107", "wikiname": "Yak-3 (VK-107)" },
     { "intname": "su-11", "wikiname": "Su-11" },
@@ -1526,31 +1848,59 @@
     { "intname": "su_22m3", "wikiname": "Su-22M3" },
     { "intname": "mig_23ml", "wikiname": "MiG-23ML" },
     { "intname": "ucav_orion", "wikiname": "Orion" },
-    { "intname": "mbr-2", "wikiname": "MBR-2-M-34" },
-    { "intname": "po-2m", "wikiname": "Po-2M" },
+    {
+      "intname": "mbr-2",
+      "wikiname": "MBR-2-M-34",
+      "marketplace": "MBR-2-M-34"
+    },
+    {
+      "intname": "po-2m",
+      "wikiname": "Po-2M",
+      "marketplace": "id50194_po_2m_ussr"
+    },
     { "intname": "tb_3_m17_32", "wikiname": "TB-3M-17-32" },
     { "intname": "tandem_mai", "wikiname": "Tandem MAI" },
     { "intname": "lagg-3-23", "wikiname": "LaGG-3-23" },
-    { "intname": "i_29", "wikiname": "I-29" },
+    { "intname": "i_29", "wikiname": "I-29", "marketplace": "I-29 (USSR)" },
     { "intname": "il_2_m82", "wikiname": "IL-2 M-82" },
-    { "intname": "lagg-3-34", "wikiname": "LaGG-3-34" },
-    { "intname": "i_180", "wikiname": "I-180S" },
-    { "intname": "lagg-i-301", "wikiname": "I-301" },
+    {
+      "intname": "lagg-3-34",
+      "wikiname": "LaGG-3-34",
+      "marketplace": "LaGG-3-34 (USSR)"
+    },
+    {
+      "intname": "i_180",
+      "wikiname": "I-180S",
+      "marketplace": "I-180S (USSR)"
+    },
+    { "intname": "lagg-i-301", "wikiname": "I-301", "marketplace": "I-301" },
     { "intname": "il-2m_mstitel", "wikiname": "IL-2M \"Avenger\"" },
     { "intname": "yak-9m", "wikiname": "Golovachev's Yak-9M" },
     { "intname": "pe-2-205", "wikiname": "Pe-2-205" },
     { "intname": "tu-2_early", "wikiname": "Tu-2" },
-    { "intname": "itp_m1", "wikiname": "ITP (M-1)" },
-    { "intname": "tis_ma", "wikiname": "TIS MA" },
+    {
+      "intname": "itp_m1",
+      "wikiname": "ITP (M-1)",
+      "marketplace": "items_ITP (M-1) (USSR)"
+    },
+    {
+      "intname": "tis_ma",
+      "wikiname": "TIS MA",
+      "marketplace": "TIS MA (USSR)"
+    },
     { "intname": "yak-3t", "wikiname": "Yak-3T" },
     { "intname": "p-63c-5_ussr", "wikiname": "P-63C-5 (USSR)" },
     { "intname": "p-63a-10_ussr", "wikiname": "P-63A-10 (USSR)" },
     { "intname": "fw-190d-9_ussr", "wikiname": "Fw 190 D-9 (USSR)" },
     { "intname": "spitfire_ix_ussr", "wikiname": "Spitfire Mk IXc (USSR)" },
     { "intname": "tu-1", "wikiname": "Tu-1" },
-    { "intname": "bi", "wikiname": "BI" },
-    { "intname": "la_174", "wikiname": "La-174" },
-    { "intname": "mig-21_pfm", "wikiname": "MiG-21PFM" },
+    { "intname": "bi", "wikiname": "BI", "marketplace": "items_BI (USSR)" },
+    { "intname": "la_174", "wikiname": "La-174", "marketplace": "La-174" },
+    {
+      "intname": "mig-21_pfm",
+      "wikiname": "MiG-21PFM",
+      "marketplace": "items_MiG-21PFM (USSR)"
+    },
     { "intname": "mig-21_s", "wikiname": "MiG-21S (R-13-300)" },
     { "intname": "fury_mk1", "wikiname": "Fury Mk I" },
     { "intname": "fury_mk2", "wikiname": "Fury Mk II" },
@@ -1680,15 +2030,24 @@
     { "intname": "swordfish_mk2", "wikiname": "Swordfish Mk II" },
     { "intname": "intruder_mk_1", "wikiname": "Havoc Mk I (Great Britain)" },
     { "intname": "pby-5a_raf", "wikiname": "Catalina Mk IIIa (Great Britain)" },
-    { "intname": "boston_mk_1", "wikiname": "Boston Mk I (Great Britain)" },
-    { "intname": "db_7", "wikiname": "DB-7 (Great Britain)" },
+    {
+      "intname": "boston_mk_1",
+      "wikiname": "Boston Mk I (Great Britain)",
+      "marketplace": "Boston Mk.I (UK)"
+    },
+    {
+      "intname": "db_7",
+      "wikiname": "DB-7 (Great Britain)",
+      "marketplace": "▄DB-7"
+    },
     {
       "intname": "hurricane_mk1_late_ep",
       "wikiname": "Hurricane Mk.I/L FAA M"
     },
     {
       "intname": "f4f-4_martlet_mk4",
-      "wikiname": "Martlet Mk IV (Great Britain)"
+      "wikiname": "Martlet Mk IV (Great Britain)",
+      "marketplace": "Martlet Mk.IV (UK)"
     },
     {
       "intname": "boomerang_mki",
@@ -1700,11 +2059,20 @@
     },
     {
       "intname": "beaufighter_mk1_40mm",
-      "wikiname": "Beaufighter Mk I (40-mm)"
+      "wikiname": "Beaufighter Mk I (40-mm)",
+      "marketplace": "id50159_beaufighter_mk_i_40_mm_great_britain"
     },
     { "intname": "typhoon_mk1b", "wikiname": "Typhoon Mk Ib" },
-    { "intname": "whirlwind_p9", "wikiname": "Whirlwind P.9" },
-    { "intname": "spitfire_mk9c_4cannons", "wikiname": "Spitfire F Mk IXc" },
+    {
+      "intname": "whirlwind_p9",
+      "wikiname": "Whirlwind P.9",
+      "marketplace": "Whirlwind P.9 (Britain)"
+    },
+    {
+      "intname": "spitfire_mk9c_4cannons",
+      "wikiname": "Spitfire F Mk IXc",
+      "marketplace": "Spitfire F. Mk IXc"
+    },
     { "intname": "wyvern_s4", "wikiname": "Wyvern S4" },
     { "intname": "spitfire_fr_mk14e", "wikiname": "Spitfire FR Mk XIVe" },
     {
@@ -1712,7 +2080,11 @@
       "wikiname": "Plagis' Spitfire LF Mk IXc"
     },
     { "intname": "hunter_f9_rhodesia", "wikiname": "Hunter FGA.9" },
-    { "intname": "buccaneer_s1", "wikiname": "Buccaneer S.1" },
+    {
+      "intname": "buccaneer_s1",
+      "wikiname": "Buccaneer S.1",
+      "marketplace": "id50146_buccaneer_s_1_great_britain"
+    },
     { "intname": "harrier_frs1", "wikiname": "Sea Harrier FRS.1" },
     { "intname": "a5m4", "wikiname": "A5M4" },
     { "intname": "a6m2_n_zero", "wikiname": "A6M2-N" },
@@ -1817,7 +2189,11 @@
     },
     { "intname": "t2_early", "wikiname": "T-2 Early" },
     { "intname": "f-4ej_adtw", "wikiname": "F-4EJ ADTW" },
-    { "intname": "ki_21_1hei", "wikiname": "Ki-21-I hei" },
+    {
+      "intname": "ki_21_1hei",
+      "wikiname": "Ki-21-I hei",
+      "marketplace": "Ki-21-I hei"
+    },
     { "intname": "e7k2", "wikiname": "E7K2" },
     { "intname": "e8n2", "wikiname": "E8N2" },
     { "intname": "aichi_e13a", "wikiname": "Aichi E13A1" },
@@ -1826,10 +2202,14 @@
     { "intname": "h8k3", "wikiname": "H8K3" },
     { "intname": "p-51c-11-nt_japan", "wikiname": "P-51C-11-NT (Japan)" },
     { "intname": "fw-190a-5_japan", "wikiname": "Fw 190 A-5 (Japan)" },
-    { "intname": "a6m6c", "wikiname": "A6M6c" },
+    {
+      "intname": "a6m6c",
+      "wikiname": "A6M6c",
+      "marketplace": "id50144_a6m6c_japan"
+    },
     { "intname": "a6m5ko", "wikiname": "A6M5 Ko" },
-    { "intname": "ki_94_2", "wikiname": "Ki-94-II" },
-    { "intname": "j6k1", "wikiname": "J6K1" },
+    { "intname": "ki_94_2", "wikiname": "Ki-94-II", "marketplace": "Ki-94-II" },
+    { "intname": "j6k1", "wikiname": "J6K1", "marketplace": "J6K1 (Japan)" },
     { "intname": "gladiator_mk1_china", "wikiname": "Gladiator Mk I (China)" },
     { "intname": "cw_21", "wikiname": "CW-21" },
     { "intname": "p-66", "wikiname": "P-66" },
@@ -1983,7 +2363,11 @@
     { "intname": "ariete", "wikiname": "Ariete (Fighter)" },
     { "intname": "f-104s_cb", "wikiname": "F-104S TAF (Italy)" },
     { "intname": "ro_43", "wikiname": "Ro.43" },
-    { "intname": "cr_32_bis", "wikiname": "CR.32 bis" },
+    {
+      "intname": "cr_32_bis",
+      "wikiname": "CR.32 bis",
+      "marketplace": "CR.32 bis"
+    },
     { "intname": "ro_57_quadriarma", "wikiname": "Ro.57 Quadriarma" },
     { "intname": "mc-202_d", "wikiname": "C. 202D" },
     { "intname": "d_371", "wikiname": "D.371" },
@@ -2069,14 +2453,34 @@
     { "intname": "mirage_milan", "wikiname": "Milan" },
     { "intname": "mirage_f1c_200", "wikiname": "Mirage F1C-200" },
     { "intname": "late_298d", "wikiname": "Late 298D" },
-    { "intname": "mb_152c1", "wikiname": "M.B.152C1" },
-    { "intname": "p-39q_25_france", "wikiname": "P-39Q-25 (France)" },
-    { "intname": "p-51c-10_france", "wikiname": "F-6C-10-NA" },
-    { "intname": "yak-9t_france", "wikiname": "Challe's Yak-9T (France)" },
+    {
+      "intname": "mb_152c1",
+      "wikiname": "M.B.152C1",
+      "marketplace": "M.B.152C1 (France)"
+    },
+    {
+      "intname": "p-39q_25_france",
+      "wikiname": "P-39Q-25 (France)",
+      "marketplace": "items_P-39Q-25%20(France)"
+    },
+    {
+      "intname": "p-51c-10_france",
+      "wikiname": "F-6C-10-NA",
+      "marketplace": "id50180_f_6c_10_na_france"
+    },
+    {
+      "intname": "yak-9t_france",
+      "wikiname": "Challe's Yak-9T (France)",
+      "marketplace": "▄Yak-9T"
+    },
     { "intname": "fw-190a-8_france", "wikiname": "NC.900" },
     { "intname": "f-84f_iaf", "wikiname": "F-84F (IAF)" },
     { "intname": "so_4050_vautour_2a_iaf", "wikiname": "Vautour IIA IDF/AF" },
-    { "intname": "jaguar_e", "wikiname": "Jaguar E" },
+    {
+      "intname": "jaguar_e",
+      "wikiname": "Jaguar E",
+      "marketplace": "id50196_jaguar_e_france"
+    },
     { "intname": "gladiator_j8a", "wikiname": "J8A" },
     { "intname": "j6b", "wikiname": "J6B" },
     { "intname": "fiat_cr42_j11", "wikiname": "J11" },
@@ -2177,7 +2581,11 @@
     },
     { "intname": "f-84f_israel_iaf", "wikiname": "F-84F (Israel)" },
     { "intname": "a_4e_late_iaf", "wikiname": "A-4E (Israel)" },
-    { "intname": "kfir_c2", "wikiname": "Kfir C.2" },
+    {
+      "intname": "kfir_c2",
+      "wikiname": "Kfir C.2",
+      "marketplace": "id50175_kfir_c_2"
+    },
     { "intname": "kfir_canard", "wikiname": "Kfir Canard" }
   ],
   "helicopter": [
@@ -2188,7 +2596,7 @@
     { "intname": "ah_1z", "wikiname": "AH-1Z" },
     { "intname": "ah_64a", "wikiname": "AH-64A" },
     { "intname": "ah_64d", "wikiname": "AH-64D" },
-    { "intname": "h_34", "wikiname": "H-34" },
+    { "intname": "h_34", "wikiname": "H-34", "marketplace": "H-34 (USA)" },
     { "intname": "uh_1c_xm_30", "wikiname": "UH-1C XM-30" },
     { "intname": "yah_64", "wikiname": "YAH-64" },
     { "intname": "ah_64a_greece_usa", "wikiname": "AH-64A (GR)" },

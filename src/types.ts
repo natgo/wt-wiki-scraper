@@ -1316,7 +1316,7 @@ export interface UnitData {
   type: HangarPlace;
   hangar_place: HangarPlace;
   testFlight: string;
-  releaseDate: Date;
+  releaseDate: string;
   info: Info;
   tags: Tags;
   Shop?: UnitShop;
@@ -1695,7 +1695,7 @@ export interface FinalProps {
   event?: string;
   cost_gold?: number;
   hidden?: boolean;
-  marketplace?: number;
+  marketplace?: string;
 }
 
 export interface AircraftProps extends FinalProps {
@@ -1967,4 +1967,5 @@ export interface namevehicles {
 export interface namevehicle {
   intname: string;
   wikiname?: string;
+  marketplace?: string;
 }

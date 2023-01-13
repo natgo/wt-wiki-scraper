@@ -1,0 +1,456 @@
+{{DISPLAYTITLE:USA aircraft}}
+{| class="tree-select-table" cellspacing="0"
+|[[:Category:USA aircraft|Aircraft]]
+|[[:Category:USA helicopters|Helicopters]]
+|}
+{{Tree-Start|7}}
+
+{{Tree-Line|I Rank}}
+|
+{{Tree-Unit|p-26a_34_m2}}
+{{Tree-Arrow}}
+{{Tree-Unit|p-26a_33}}
+{{Tree-Arrow}}
+{{Tree-Unit|p-26b_35}}
+|
+{{Tree-Unit|p-36a}}
+{{Tree-Arrow}}
+{{Tree-Unit|p-36c}}
+{{Tree-Arrow}}
+{{Tree-Unit|p-36g}}
+{{Tree-Arrow}}
+|
+{{Tree-Unit|f3f-2}}
+{{Tree-Arrow}}
+{{Tree-Unit|f2a-1}}
+{{Tree-Arrow}}
+{{Tree-Unit|f2a-3}}
+|
+{{Tree-Group|os2u_group|OS2U|
+  {{Tree-Unit|os2u_1}}
+{{Tree-Arrow}}
+{{Tree-Unit|os2u_3}}
+}}
+{{Tree-Skip}}
+{{Tree-Group|sb2u_group|SB2U|
+  {{Tree-Unit|sb2u-2}}
+{{Tree-Arrow}}
+{{Tree-Unit|sb2u-3}}
+}}
+{{Tree-Arrow}}
+{{Tree-Unit|sbd-3}}
+{{Tree-Arrow}}
+|
+{{Tree-Unit|tbd-1_1938}}
+{{Tree-Arrow}}
+{{Tree-Group|pby_group|PBY-5|
+  {{Tree-Unit|pby-5}}
+{{Tree-Arrow}}
+{{Tree-Unit|pby-5a}}
+}}
+{{Tree-Arrow}}
+{{Tree-Unit|b_18a}}
+{{Tree-Arrow}}
+| style="border-left: solid 1px #cccccc;" |
+{{Tree-Unit|f3f-2_galer}}
+{{Tree-Skip}}
+{{Tree-Unit|f2a-1_thach}}
+{{Tree-Skip}}
+|
+{{Tree-Unit|p-26a_34}}
+{{Tree-Skip}}
+{{Tree-Unit|p-36a_rasmussen}}
+{{Tree-Skip}}
+{{Tree-Unit|b_10b}}
+{{Tree-Skip}}
+
+{{Tree-Line|II Rank}}
+|
+{{Tree-Unit|p-400}}
+{{Tree-Arrow}}
+{{Tree-Group|p-39_group|P-39|
+  {{Tree-Unit|p-39n}}
+{{Tree-Arrow}}
+{{Tree-Unit|p-39q_5}}
+}}
+{{Tree-Arrow}}
+{{Tree-Group|p-38_group|P-38 (e)|
+  {{Tree-Unit|p-38e}}
+{{Tree-Arrow}}
+{{Tree-Unit|p-38g}}
+}}
+{{Tree-Arrow|3}}
+|
+{{Tree-Unit|p-40e}}
+{{Tree-Arrow}}
+{{Tree-Unit|p-40f_10}}
+{{Tree-Arrow}}
+{{Tree-Unit|p-51_mk1a_usaaf}}
+{{Tree-Skip}}
+|
+{{Tree-Group|f4f_group|F4F|
+  {{Tree-Unit|f4f-3}}
+{{Tree-Arrow}}
+{{Tree-Unit|f4f-4}}
+}}
+{{Tree-Arrow}}
+{{Tree-Unit|f4u-1a}}
+{{Tree-Arrow}}
+{{Tree-Unit|f4u-1a_usmc}}
+{{Tree-Skip}}
+|
+{{Tree-Unit|tbf-1c}}
+{{Tree-Arrow}}
+{{Tree-Unit|p-51_a-36}}
+{{Tree-Arrow}}
+{{Tree-Unit|a-20g}}
+{{Tree-Arrow|3}}
+|
+{{Tree-Unit|pbm_1}}
+{{Tree-Arrow}}
+{{Tree-Unit|b_34}}
+{{Tree-Arrow}}
+{{Tree-Unit|b_25j_1}}
+{{Tree-Arrow|3}}
+| style="border-left: solid 1px #cccccc;" |
+{{Tree-Unit|ki_43_2_late}}
+{{Tree-Skip}}
+{{Tree-Unit|ki_61_1a_otsu_usa}}
+{{Tree-Skip}}
+{{Tree-Unit|p-51a_tl}}
+{{Tree-Skip}}
+{{Tree-Unit|p-38g_metal}}
+{{Tree-Skip}}
+{{Tree-Unit|xp-55}}
+{{Tree-Skip}}
+{{Tree-Unit|p-40e_td}}
+{{Tree-Skip}}
+|
+{{Tree-Unit|p-40c}}
+{{Tree-Skip}}
+{{Tree-Unit|yp-38}}
+{{Tree-Skip}}
+{{Tree-Unit|p-43a-1}}
+{{Tree-Skip}}
+{{Tree-Unit|pbm_3}}
+{{Tree-Skip}}
+{{Tree-Unit|pv_2d}}
+{{Tree-Skip}}
+
+{{Tree-Line|III Rank}}
+|
+{{Tree-Unit|p-63a-5}}
+{{Tree-Arrow}}
+{{Tree-Group|p-63_group|P-63|
+  {{Tree-Unit|p-63a-10}}
+{{Tree-Arrow}}
+{{Tree-Unit|p-63c-5}}
+}}
+{{Tree-Arrow|2}}
+|
+{{Tree-Unit|p-51c-10-nt}}
+{{Tree-Arrow}}
+{{Tree-Unit|p-47d_22_re}}
+{{Tree-Arrow}}
+{{Tree-Group|p-47_group|P-47|
+  {{Tree-Unit|p-47d}}
+{{Tree-Arrow}}
+{{Tree-Unit|p-47d-28}}
+}}
+{{Tree-Arrow|1}}
+|
+{{Tree-Unit|f4u-1d}}
+{{Tree-Arrow}}
+{{Tree-Group|f6f_group|F6F|
+  {{Tree-Unit|f6f-3}}
+{{Tree-Arrow}}
+{{Tree-Unit|f6f-5n}}
+}}
+{{Tree-Arrow}}
+{{Tree-Group|f4u_group|F4U|
+  {{Tree-Unit|f4u-1c}}
+{{Tree-Arrow}}
+{{Tree-Unit|f4u-4}}
+}}
+{{Tree-Arrow|1}}
+|
+{{Tree-Group|sb2c_group|SB2C|
+  {{Tree-Unit|sb2c_1c}}
+{{Tree-Arrow}}
+{{Tree-Unit|sb2c_4}}
+}}
+{{Tree-Arrow}}
+{{Tree-Group|pbj_group|PBJ|
+  {{Tree-Unit|pbj_1j}}
+{{Tree-Arrow}}
+{{Tree-Unit|pbj_1h}}
+}}
+{{Tree-Arrow}}
+{{Tree-Unit|p-61c_1}}
+{{Tree-Arrow|1}}
+|
+{{Tree-Unit|b_25j_20}}
+{{Tree-Arrow}}
+{{Tree-Unit|b_26b_c}}
+{{Tree-Arrow}}
+{{Tree-Group|b-17_group|B-17|
+  {{Tree-Unit|b-17e}}
+{{Tree-Arrow}}
+{{Tree-Unit|b-17e_late}}
+}}
+{{Tree-Arrow}}
+{{Tree-Unit|pb4y-2}}
+{{Tree-Arrow}}
+| style="border-left: solid 1px #cccccc;" |
+{{Tree-Unit|a6m2_zero_usa}}
+{{Tree-Skip}}
+{{Tree-Unit|bf-109f-4_usa}}
+{{Tree-Skip}}
+{{Tree-Unit|xp-50}}
+{{Tree-Skip}}
+{{Tree-Unit|btd-1}}
+{{Tree-Skip}}
+|
+{{Tree-Unit|xf5f}}
+{{Tree-Skip}}
+{{Tree-Unit|p-63c-5_kingcobra_animal_version}}
+{{Tree-Skip}}
+{{Tree-Unit|p-61a_1}}
+{{Tree-Skip}}
+
+{{Tree-Line|IV Rank}}
+|
+{{Tree-Unit|p-38j}}
+{{Tree-Arrow}}
+{{Tree-Unit|p-38l}}
+{{Tree-Arrow}}
+{{Tree-Unit|f-82e}}
+{{Tree-Arrow|6}}
+|
+{{Tree-Group|p-51_group|P-51 (l)|
+  {{Tree-Unit|p-51d-5}}
+{{Tree-Arrow}}
+{{Tree-Unit|p-51d-30_usaaf_korea}}
+}}
+{{Tree-Arrow}}
+{{Tree-Unit|p-47n-15}}
+{{Tree-Arrow}}
+{{Tree-Unit|p-51h-5_na}}
+{{Tree-Arrow|6}}
+|
+{{Tree-Unit|f4u-4b}}
+{{Tree-Arrow}}
+{{Tree-Group|f8f1_group|F8F|
+  {{Tree-Unit|f8f1}}
+{{Tree-Arrow}}
+{{Tree-Unit|f8f1b}}
+}}
+{{Tree-Arrow}}
+{{Tree-Unit|f7f1}}
+{{Tree-Arrow|6}}
+|
+{{Tree-Group|a-26_group|A-26B|
+  {{Tree-Unit|a-26b_10}}
+{{Tree-Arrow}}
+{{Tree-Unit|a-26b}}
+}}
+{{Tree-Arrow}}
+{{Tree-Unit|am_1_mauler}}
+{{Tree-Arrow}}
+{{Tree-Group|douglas_ad_group|AD|
+  {{Tree-Unit|douglas_ad_2}}
+{{Tree-Arrow}}
+{{Tree-Unit|douglas_ad_4}}
+}}
+{{Tree-Arrow|6}}
+|
+{{Tree-Unit|b-17g}}
+{{Tree-Arrow}}
+{{Tree-Unit|b_24d}}
+{{Tree-Arrow}}
+{{Tree-Unit|b-29}}
+{{Tree-Arrow|6}}
+| style="border-left: solid 1px #cccccc;" |
+{{Tree-Unit|p-51d-10}}
+{{Tree-Skip}}
+{{Tree-Unit|p-51d-20-na}}
+{{Tree-Skip}}
+{{Tree-Unit|xa_38}}
+{{Tree-Skip}}
+{{Tree-Unit|p-47m-1-re}}
+{{Tree-Skip}}
+{{Tree-Unit|p-47m-1-re_boxted}}
+{{Tree-Skip}}
+{{Tree-Unit|fw-190a-8_usa}}
+{{Tree-Skip}}
+{{Tree-Unit|spitfire_ix_usa}}
+{{Tree-Skip}}
+{{Tree-Unit|a2d}}
+{{Tree-Skip}}
+{{Tree-Unit|douglas_a_1h}}
+{{Tree-Skip}}
+|
+{{Tree-Unit|p-38j_marge}}
+{{Tree-Skip}}
+{{Tree-Unit|p-38k}}
+{{Tree-Skip}}
+{{Tree-Unit|p-59a}}
+{{Tree-Skip}}
+{{Tree-Unit|a-26c}}
+{{Tree-Skip}}
+{{Tree-Unit|a-26c-45-dt}}
+{{Tree-Skip}}
+{{Tree-Unit|f4u-4b_vmf_214}}
+{{Tree-Skip}}
+{{Tree-Unit|f4u-6_au-1}}
+{{Tree-Skip}}
+{{Tree-Unit|f2g-1}}
+{{Tree-Skip}}
+{{Tree-Unit|f7f3}}
+{{Tree-Skip}}
+
+{{Tree-Line|V Rank}}
+|
+{{Tree-Unit|f-80a}}
+{{Tree-Arrow}}
+{{Tree-Unit|f-80}}
+{{Tree-Arrow}}
+|
+{{Tree-Group|f-84_group|F-84|
+  {{Tree-Unit|f-84b}}
+{{Tree-Arrow}}
+{{Tree-Unit|f-84g}}
+}}
+{{Tree-Arrow}}
+{{Tree-Group|f-86_group|F-86|
+  {{Tree-Unit|f-86a-5}}
+{{Tree-Arrow}}
+{{Tree-Unit|f-86f-25}}
+}}
+{{Tree-Arrow}}
+|
+{{Tree-Unit|f2h-2}}
+{{Tree-Arrow}}
+{{Tree-Group|f9f_group|F9F|
+  {{Tree-Unit|f9f-2}}
+{{Tree-Arrow}}
+{{Tree-Unit|f9f-5}}
+}}
+{{Tree-Arrow}}
+|
+{{Tree-Unit|f3d_1}}
+{{Tree-Arrow}}
+{{Tree-Unit|f-84f}}
+{{Tree-Arrow}}
+|
+{{Tree-Unit|b-57}}
+{{Tree-Arrow}}
+{{Tree-Unit|b-57b}}
+{{Tree-Arrow}}
+| style="border-left: solid 1px #cccccc;" |
+{{Tree-Unit|f-89b}}
+{{Tree-Arrow}}
+{{Tree-Unit|f-89d}}
+{{Tree-Skip}}
+|
+{{Tree-Unit|f-86f-35}}
+{{Tree-Skip}}
+
+{{Tree-Line|VI Rank}}
+|
+{{Tree-Unit|f-104a}}
+{{Tree-Arrow}}
+{{Tree-Unit|f-104c}}
+{{Tree-Arrow|2}}
+|
+{{Tree-Unit|f-86f-2}}
+{{Tree-Arrow}}
+{{Tree-Unit|f-100d}}
+{{Tree-Arrow}}
+{{Tree-Unit|f-4c}}
+{{Tree-Arrow|1}}
+|
+{{Tree-Unit|f9f-8}}
+{{Tree-Arrow}}
+{{Tree-Unit|f3h-2}}
+{{Tree-Arrow}}
+{{Tree-Unit|f8u-2}}
+{{Tree-Arrow|1}}
+|
+{{Tree-Unit|a_4b}}
+{{Tree-Arrow}}
+{{Tree-Unit|fj_4b}}
+{{Tree-Arrow}}
+{{Tree-Unit|av_8c}}
+{{Tree-Arrow|1}}
+|
+{{Tree-Unit|f-105d}}
+| style="border-left: solid 1px #cccccc;" |
+{{Tree-Unit|a_4e_early}}
+{{Tree-Skip}}
+{{Tree-Unit|av_8a}}
+{{Tree-Skip}}
+{{Tree-Unit|a_10a_early}}
+{{Tree-Skip}}
+{{Tree-Unit|f-5c}}
+{{Tree-Skip}}
+|
+{{Tree-Unit|f4d_1}}
+{{Tree-Skip}}
+{{Tree-Unit|fj_4b_agm_12b}}
+{{Tree-Skip}}
+{{Tree-Unit|f11f_1_late}}
+{{Tree-Skip}}
+{{Tree-Unit|f-5a}}
+
+{{Tree-Line|VII Rank}}
+|
+{{Tree-Unit|f-5e}}
+{{Tree-Arrow|2}}
+|
+{{Tree-Unit|f-4e}}
+|
+{{Tree-Unit|f-8e}}
+{{Tree-Arrow}}
+{{Tree-Unit|f-4j}}
+{{Tree-Arrow}}
+{{Tree-Unit|f_14a_early}}
+|
+{{Tree-Unit|a_10a_late}}
+{{Tree-Arrow}}
+{{Tree-Unit|a_7d}}
+{{Tree-Arrow}}
+{{Tree-Unit|a_7e}}
+|
+| style="border-left: solid 1px #cccccc;" |
+{{Tree-Unit|a_6e_tram}}
+|
+
+{{Tree-Line|VIII Rank}}
+|
+{{Tree-Unit|f_16a_block_15_adf}}
+{{Tree-Arrow}}
+{{Tree-Unit|f_16a_block_10}}
+{{Tree-Skip}}
+|
+{{Tree-Skip}}
+|
+{{Tree-Skip}}
+|
+{{Tree-Skip}}
+|
+{{Tree-Skip}}
+| style="border-left: solid 1px #cccccc;" |
+{{Tree-Skip}}
+|
+{{Tree-Skip}}
+
+{{Tree-End}}
+
+== Media ==
+
+<!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+{{Youtube-gallery|bwQldakCLM8|'''Grumman Aircraft''' - ''War Thunder Official Channel''|HEMjPJAqxmU|'''American Air Forces Rank II - Tutorial and Guide''' - ''Jengar''|KQKzDGXlbtY|'''Book of Records: American Aircraft''' - ''War Thunder Official Channel''|k6xxIkP80xM|'''American Air Forces Rank I - Tutorial and Guide''' - ''Jengar''|nio77hOta5k|'''Climbing the ranks with US aircraft'''  - ''War Thunder Official Channel''}}
+
+[[Category:Aircraft by country]]

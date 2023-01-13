@@ -1,7 +1,64 @@
 import fs from "fs";
 import { format } from "prettier";
 
-import { Shop, ShopCountry, modernparse, namevehicles } from "./types";
+import { Shop, ShopCountry, ShopRange, modernparse, namevehicle, namevehicles } from "./types";
+
+interface Wiki {
+  intname: string;
+  wikiname: string;
+  marketplace?: string;
+}
+
+function vehiclesLoop(vehicles: modernparse[], vehiclePages: string[]) {
+  const wiki: Wiki[] = [];
+  vehicles.forEach((element, index) => {
+    const wikinameMatch = vehiclePages[index].match(/code\s?=\s?([^\n]*)/);
+    const marketplaceMatch = vehiclePages[index].match(/markets?=\s?([^\n]*)/);
+
+    if (wikinameMatch) {
+      if (marketplaceMatch) {
+        wiki.push({
+          intname: wikinameMatch[1],
+          wikiname: element.title,
+          marketplace: marketplaceMatch[1],
+        });
+      } else {
+        wiki.push({
+          intname: wikinameMatch[1],
+          wikiname: element.title,
+        });
+      }
+    } else {
+      console.log(`no match for "${element.title}" pageid: ${element.pageid}`);
+    }
+  });
+
+  return wiki;
+}
+
+function shopLoop(country: ShopRange, wiki: Wiki[]) {
+  const result: namevehicle[] = [];
+  country.range.forEach((element) => {
+    Object.entries(element).forEach(([key, value]) => {
+      if ("image" in value) {
+        Object.entries(value).forEach(([key, value]) => {
+          if (!(key === "image" || key === "reqAir") && typeof value !== "string") {
+            const wikifind = wiki.find((element) => {
+              return element.intname === key;
+            });
+            result.push({ intname: key, ...wikifind });
+          }
+        });
+      } else {
+        const wikifind = wiki.find((element) => {
+          return element.intname === key;
+        });
+        result.push({ intname: key, ...wikifind });
+      }
+    });
+  });
+  return result;
+}
 
 async function main(dev: boolean) {
   const shopData: Shop = JSON.parse(
@@ -10,12 +67,6 @@ async function main(dev: boolean) {
       "utf-8",
     ),
   );
-
-  const result: namevehicles = {
-    ground: [],
-    aviation: [],
-    helicopter: [],
-  };
 
   const vehicles: {
     ground: modernparse[];
@@ -31,16 +82,6 @@ async function main(dev: boolean) {
     ground: string[];
     aviation: string[];
     helicopter: string[];
-  } = {
-    ground: [],
-    aviation: [],
-    helicopter: [],
-  };
-
-  const wiki: {
-    ground: { wikiname: string; intname: string }[];
-    aviation: { wikiname: string; intname: string }[];
-    helicopter: { wikiname: string; intname: string }[];
   } = {
     ground: [],
     aviation: [],
@@ -74,105 +115,28 @@ async function main(dev: boolean) {
     );
   });
 
-  vehicles.ground.forEach((element, i) => {
-    const match = vehiclePages.ground[i].match(/data-code=".*"/g);
-    if (match) {
-      const splitmatch = match[0].split("=")[1];
-      wiki.ground.push({
-        intname: splitmatch.substring(1, splitmatch.length - 1),
-        wikiname: element.title,
-      });
-    } else {
-      console.log(`no match for "${element.title}" pageid: ${element.pageid}`);
-    }
-  });
-  vehicles.aviation.forEach((element, i) => {
-    const match = vehiclePages.aviation[i].match(/data-code=".*"/g);
-    if (match) {
-      const splitmatch = match[0].split("=")[1];
-      wiki.aviation.push({
-        intname: splitmatch.substring(1, splitmatch.length - 1),
-        wikiname: element.title,
-      });
-    } else {
-      console.log(`no match for "${element.title}" pageid: ${element.pageid}`);
-    }
-  });
-  vehicles.helicopter.forEach((element, i) => {
-    const match = vehiclePages.helicopter[i].match(/data-code=".*"/g);
-    if (match) {
-      const splitmatch = match[0].split("=")[1];
-      wiki.helicopter.push({
-        intname: splitmatch.substring(1, splitmatch.length - 1),
-        wikiname: element.title,
-      });
-    } else {
-      console.log(`no match for "${element.title}" pageid: ${element.pageid}`);
-    }
-  });
+  const wiki: {
+    ground: Wiki[];
+    aviation: Wiki[];
+    helicopter: Wiki[];
+  } = {
+    ground: vehiclesLoop(vehicles.ground, vehiclePages.ground),
+    aviation: vehiclesLoop(vehicles.aviation, vehiclePages.aviation),
+    helicopter: vehiclesLoop(vehicles.helicopter, vehiclePages.helicopter),
+  };
+
+  const result: namevehicles = {
+    ground: [],
+    aviation: [],
+    helicopter: [],
+  };
 
   Object.values(shopData).forEach((value) => {
     const value2 = value as ShopCountry;
 
-    value2.army.range.forEach((element) => {
-      Object.entries(element).forEach(([key, value]) => {
-        if ("image" in value) {
-          Object.entries(value).forEach(([key, value]) => {
-            if (!(key === "image" || key === "reqAir") && typeof value !== "string") {
-              const wikifind = wiki.ground.find((element) => {
-                return element.intname === key;
-              });
-              result.ground.push({ intname: key, wikiname: wikifind?.wikiname });
-            }
-          });
-        } else {
-          const wikifind = wiki.ground.find((element) => {
-            return element.intname === key;
-          });
-          result.ground.push({ intname: key, wikiname: wikifind?.wikiname });
-        }
-      });
-    });
-
-    value2.aviation.range.forEach((element) => {
-      Object.entries(element).forEach(([key, value]) => {
-        if ("image" in value) {
-          Object.entries(value).forEach(([key, value]) => {
-            if (!(key === "image" || key === "reqAir") && typeof value !== "string") {
-              const wikifind = wiki.aviation.find((element) => {
-                return element.intname === key;
-              });
-              result.aviation.push({ intname: key, wikiname: wikifind?.wikiname });
-            }
-          });
-        } else {
-          const wikifind = wiki.aviation.find((element) => {
-            return element.intname === key;
-          });
-          result.aviation.push({ intname: key, wikiname: wikifind?.wikiname });
-        }
-      });
-    });
-
-    value2.helicopters.range.forEach((element) => {
-      Object.entries(element).forEach(([key, value]) => {
-        if ("image" in value) {
-          Object.entries(value).forEach(([key, value]) => {
-            if (!(key === "image" || key === "reqAir") && typeof value !== "string") {
-              const wikifind = wiki.helicopter.find((element) => {
-                return element.intname === key;
-              });
-              result.helicopter.push({ intname: key, wikiname: wikifind?.wikiname });
-            }
-          });
-        } else {
-          const wikifind = wiki.helicopter.find((element) => {
-            return element.intname === key;
-          });
-          result.helicopter.push({ intname: key, wikiname: wikifind?.wikiname });
-        }
-      });
-    });
+    result.ground.push(...shopLoop(value2.army, wiki.ground));
+    result.aviation.push(...shopLoop(value2.aviation, wiki.aviation));
+    result.helicopter.push(...shopLoop(value2.helicopters, wiki.helicopter));
   });
   fs.writeFileSync(
     `./out/${dev ? "vehicles-dev" : "vehicles"}.json`,

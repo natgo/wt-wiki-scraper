@@ -1,6 +1,6 @@
 import fs from "fs";
-import { stabilizer } from "./stabilizer";
 
+import { stabilizer } from "./stabilizer";
 import { Belt, Bullet, Shell, ShellBelt, TankCannon, Weapon, WeaponGround } from "./types";
 
 export function CWToCannon(
@@ -160,7 +160,7 @@ export function CWToCannon(
     belts.push(belt);
   }
 
-  const stab=stabilizer(Weapon);
+  const stab = stabilizer(Weapon);
 
   const cannon: TankCannon = {
     intname: name,

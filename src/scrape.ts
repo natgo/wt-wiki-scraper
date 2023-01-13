@@ -1,5 +1,5 @@
 import fs from "fs";
-import { parseHTML} from "linkedom";
+import { parseHTML } from "linkedom";
 
 import { Final } from "./types";
 
@@ -31,22 +31,32 @@ async function main() {
     );
   });
 
-  vehicles.ground.forEach(element => {
-    const {
-      document
-    } = parseHTML(element);
-    const indent = document.querySelectorAll(".specs_info .specs_char .specs_char_block .specs_char_line.indent");
-    const head = document.querySelectorAll(".specs_info .specs_char .specs_char_block .specs_char_line.head");
+  vehicles.ground.forEach((element) => {
+    const { document } = parseHTML(element);
+    const indent = document.querySelectorAll(
+      ".specs_info .specs_char .specs_char_block .specs_char_line.indent",
+    );
+    const head = document.querySelectorAll(
+      ".specs_info .specs_char .specs_char_block .specs_char_line.head",
+    );
     // AB Top speed
-    const ab_top = indent[2].querySelector(".value")?.innerHTML.replaceAll(/\s/g,"").replace("km/h","").split("/");
+    const ab_top = indent[2]
+      .querySelector(".value")
+      ?.innerHTML.replaceAll(/\s/g, "")
+      .replace("km/h", "")
+      .split("/");
     console.log(ab_top);
     // RB Top speed
-    const rb_top = indent[3].querySelector(".value")?.innerHTML.replaceAll(/\s/g,"").replace("km/h","").split("/");
+    const rb_top = indent[3]
+      .querySelector(".value")
+      ?.innerHTML.replaceAll(/\s/g, "")
+      .replace("km/h", "")
+      .split("/");
     console.log(rb_top);
     // Visibility
-    const visibility = head[2].querySelector(".value")?.innerHTML.replace("&nbsp;%","");
+    const visibility = head[2].querySelector(".value")?.innerHTML.replace("&nbsp;%", "");
     console.log(visibility);
-  });  
+  });
 }
 
 main();

@@ -55,7 +55,10 @@ export function WeaponArray(
       type: type,
       displayname: weaponry_lang.find((botelement) => {
         const blk = element.blk.split("/");
-        return botelement.ID.toLowerCase() === `weapons/${blk[blk.length - 1].split(".")[0].toLowerCase()}/short`;
+        return (
+          botelement.ID.toLowerCase() ===
+          `weapons/${blk[blk.length - 1].split(".")[0].toLowerCase()}/short`
+        );
       })?.English,
       bullets: element.bullets,
     });

@@ -1,0 +1,244 @@
+{{About
+| about = gift American fighter '''{{PAGENAME}}'''
+| usage = other versions
+| link = P-47 (Family)
+}}
+{{Specs-Card
+|code=p-47m-1-re
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|cockpit=Cockpit_p-47m-1-re.jpg
+}}
+
+== Description ==
+
+<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
+
+'''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American fighter {{Battle-rating}}. It was introduced as a [[wt:en/news/3071--en|premium pack]] in [[Update 1.49 "Weapons of Victory"]]. It was discontinued after the [[wt:en/news/6694-shop-may-sale-in-war-thunder-en|2020 May sale]], but has since been made available either for purchase in the store or in-game with Golden Eagles {{ge}} for specific American mini-events like the [[wt:en/news/6759/current|2020 "D-Day sale"]], the [[wt:en/news/7344-special-us-air-force-day-en|2021 "US Air Force Day"]], and the [[wt:en/news/7875-special-us-air-force-birthday-en|2022 "US Air Force Birthday"]].
+
+The Republic P-47M was the fastest of the production model Thunderbolts. The plane is painted after the camouflage scheme of American pilot George E. Bostwick in the US Army Air Force in the 56th Fighter Group.
+
+== General info ==
+=== Flight performance ===
+{{Specs-Avia-Flight}}
+
+<!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
+
+The P-47M is a high-altitude interceptor that has impressive armament and ordnance that serves it well in both the fighter and Close Air Support role. In Air RB, it is currently unequalled in performance at its battle rating, possessing ridiculous top speed, competitive climb rate, decent energy retention, great armament, and surprising manoeuvrability at speed.
+
+As such, the P-47M is best played to its strengths as a Boom & Zoom and Boom & Run fighter in Air RB. In Ground RB it is an excellent fighter bomber with a good rocket/bomb load-out and .50 cals that can deal with most turret roofs.
+
+The M variant was specifically setup to intercept Germany's buzz-bombs and the new [[Me 262 A-1a|jet]]/[[Me 163 B|rocket]] powered fighters. The primary advantage of this new variant came through speed. The aircraft was powered by either a Pratt & Whitney R-2800-14W or R-2800-5 engine while using the CH-5 turbo-supercharger. The aircraft was able to produce 2,800 hp, giving it higher top speed.
+
+The P-47M has the flight performance of super-props. Top speeds above 5 km exceed literally any opponent besides the [[Ta 152 H-1]] (which is only faster at around 11-12 km). Climb rate is great, at around an average of 23 m/s from 0-6,000 m. WEP is available for up to 12 minutes to maximize engine output.
+
+Interestingly (besides the better engine), the P-47M gets a unique airbrake which makes it very easy to stick behind the tails of opponents in a high-speed dive.
+
+{| class="wikitable" style="text-align:center" width="70%"
+! rowspan="2" | Characteristics
+! colspan="2" | Max Speed<br>(km/h at 9,144 m)
+! rowspan="2" | Max altitude<br>(metres)
+! colspan="2" | Turn time<br>(seconds)
+! colspan="2" | Rate of climb<br>(metres/second)
+! rowspan="2" | Take-off run<br>(metres)
+|-
+! AB !! RB !! AB !! RB !! AB !! RB
+|-
+! Stock
+| 726 || 711 || rowspan="2" | {{Specs|ceiling}} || 25.3 || 26.1 || 10.8 || 10.8 || rowspan="2" | 500
+|-
+! Upgraded
+| 794 || 760 || 22.8 || 24.0 || 23.3 || 15.9
+|-
+|}
+
+==== Details ====
+{| class="wikitable" style="text-align:center" width="50%"
+|-
+! colspan="5" | Features
+|-
+! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
+|-
+| ✓ || ✓ || ✓ || ✓ || X <!-- ✓ -->
+|-
+|}
+
+{| class="wikitable" style="text-align:center" width="50%"
+|-
+! colspan="7" | Limits
+|-
+! rowspan="2" | Wings (km/h)
+! rowspan="2" | Gear (km/h)
+! colspan="3" | Flaps (km/h)
+! colspan="2" | Max Static G
+|-
+! Combat !! Take-off !! Landing !! + !! -
+|-
+| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 498 || 469 || 320 || ~13 || ~5
+|-
+|}
+
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="4" | Optimal velocities (km/h)
+|-
+! Ailerons !! Rudder !! Elevators !! Radiator
+|-
+| < 400 || < 420 || < 470 || > 335
+|-
+|}
+
+=== Survivability and armour ===
+[[File:P47M Armor Schematic.png|thumb|300px|Armour diagram of the P-47M-1-RE, corresponds to the list on the left]]
+{{Specs-Avia-Armour}}
+
+<!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
+
+# 9.5 mm Steel - Instrument panel and pilot armour
+
+# 38 mm Bulletproof glass - Windscreen
+
+# 9.5 mm Steel - Seat back and headrest armour plates
+
+=== Modifications and economy ===
+{{Specs-Economy}}
+
+== Armaments ==
+{{Specs-Avia-Armaments}}
+=== Offensive armament ===
+{{Specs-Avia-Offensive}}
+
+<!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
+
+{{main|M2 Browning (12.7 mm)}}
+
+'''''{{PAGENAME}}''''' is armed with:
+
+- 8 x 12.7 mm M2 Browning machine guns, wing-mounted (425 rpg = 3,400 total)
+
+=== Suspended armament ===
+{{Specs-Avia-Suspended}}
+
+<!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
+
+{{main|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|HVAR}}
+
+'''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+
+- Without load
+- 1 x 500 lb AN-M64A1 bomb (500 lb total)
+- 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
+- 2 x 1,000 lb AN-M65A1 bombs + 1 x 500 lb AN-M64A1 bomb (2,500 lb total)
+- 10 x HVAR rockets
+- 10 x HVAR rockets + 1 x 500 lb AN-M64A1 bomb (500 lb total)
+- 10 x HVAR rockets + 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
+- 10 x HVAR rockets + 2 x 1,000 lb AN-M65A1 bombs + 1 x 500 lb AN-M64A1 bomb (2,500 lb total)
+
+== Usage in battles ==
+
+<!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
+
+First of all, the P-47 should always fly fast. No matter the altitude, it is recommended to fly at speeds higher than 520 km/h (~320 mph). One of the few things the P-47 is terrible at doing is prolonged dogfighting. Imagine a truck loaded with cement with wings strapped to the side. Congratulations, you just pictured a P-47 flying at low speeds. Now, with this out of the way you must remember one thing and one thing only, when and where possible, fly high, the higher the better. The higher in altitude the P-47 goes the better the engine performs compared to its potential adversaries. The best altitude for the P-47M is around 9,000 m (~30,000 ft), but it still can perform very good at lower altitudes ranging from 6,000 m (~20,000 ft) to 8,000 m (~26,000 ft). One drawback of the P-47M's engine is that it can easily overheat when using WEP for extended periods of time, however just disabling WEP for few seconds should be enough to cool down the powerful Pratt & Whitney powerplant hidden under the hood.
+
+=== Combat tactics ===
+'''Arcade''' - Much of what was mentioned above can be disregarded due to the adjusted flight model of arcade battles, instead just put your throttle to WEP, climb above your enemies and Boom & Zoom them. It is important to realize that while the P-47 can be the king of the hill, there are a few others which will buck for the spot too including Spitfires, Fw 190s and Bf 109s as they can climb as good as you and they often have cannons which in no time can dismantle a P-47 quickly in flight.
+
+'''Realistic''' - A P-47M's pilot should not take any additional armaments such as bombs and rockets, they will only slow down the plane and make it an easy prey for Bf 109 K-4s, Ta 152s and Fw 190s. As soon as you take off from the airfield, divert 30 degrees to left or right (depends on where the middle of the map is, just don't climb towards the middle), engage WEP and climb at ~17-18 degrees. The best speed for climbing is around ~267 km/h IAS (~165 mph). When you reach an altitude of about 5,500 m (18,000 ft) start to gradually turn towards the middle of the map. Watch out for any enemy planes coming towards you, especially Ta 152s and Bf 109 K-4s which are your biggest threats as they have similar performance output compared to the P-47M. Approaching ~6,000 m, you will notice that climbing at 18 degrees becomes less efficient and is necessary to adjust the angle of attack to 10-15 degrees to maintain the optimal climbing speed. It is also a plausible option to stop climbing at this point since there is a good chance you will already be above everyone. Next, it is recommended to fly level and gain some speed, but not more than 400 km/h IAS (~250 mph) due to the air being thinner (your true airspeed will be very high at this point). In this situation, the P-47 will reign supreme over the skies. Look around you to see if there are any enemy planes spotted, and pick off the easiest targets. Preferably slow-flying fighters which are flying straight or climbing. If you cannot see such targets go for other fighters, Bf 109s, Ta 152s, and G.55s are your priority targets, as they can easily kill you if you are not careful.
+
+Always perform powered dives, and if you feel you're going too fast, just extend the airbrakes long enough to reign in the aircraft's speed. This is one of the biggest advantages of P-47M over the D-series and other comparable prop fighters. When you are finished with the Boom phase of your attack, resist the urge to climb outright. Instead, speed away from the enemies (preferably towards your teammates) while increasing distance between you and anyone tailing. When you gain ~3 km (~2 mi) of separation from enemy planes, you can begin the Zoom part of the tactic. Alternatively, you can remain level and fast if you're feeling that any potential pursuer could catch up to you. Once you are confident this won't happen, climb at 10 degrees and gain enough altitude to ensure that you have an energy advantage above enemy planes. In the most dire situations you can try to go for a head-on attack (only if you have at least 2.5 km separation from the enemy), but it's not recommended to do that as you will most likely damage your engine in the process. In the worst-case scenario, your plane will catch fire and burn up. If you see an enemy fighter which is attempting a diving attack, try and force them to overshoot, call for help and fly towards your closest teammate. You can shrug off a few hits to the fuselage, but anything that touches your wings and elevators will most likely disable or destroy the aircraft's ability to fly well or at all. Flying with friends also helps as you can quickly call them to assist you. If you're the only one left on your team you should climb, look out for enemy fighters, and Boom & Zoom them. Just keep in mind that P-47 is not the best plane to do 1 vs 2 dogfights in, so try to separate enemies and pick them off one by one. Bombers are typically a difficult target to go after as they usually soak up quite a bit of ammunition before taking critical damage and you risk being set afire or sniped by the defensive gunners. However, the long effective range and shallow drop of the .50 cals makes it possible to attack some bombers from outside their own gunners' effective range.
+
+It's important to remember that the P-47's first and foremost mission is air superiority, especially in the case of the P-47M. Taking bombs and rockets will make your plane even more sluggish than it already is and because of that you will have to fly near the ground, and that typically makes the P-47 easy pickings for other enemy fighters. This is not to say you should never attack ground targets however, and there are certain situations where it is more rewarding (e.g. no enemy fighters left). With a large ammunition pool of 3,400 .50 cal rounds, there will almost certainly be enough left over to wreak substantial havoc on soft targets. It's also important to note that the Ground Targets and Tracers belts are capable of destroying light pillboxes with ~100 rounds. For more flexibility in attacking, it is sometimes beneficial to RTB and take on ordnance, but you should only do this after expending all of your .50 cal ammunition. The two 1,000 lb and 500 lb bombs as well as ten HVAR rockets mean it is possible to engage hard targets such as tanks. Again, it must be remembered that this should only seriously be considered if the relative danger to your aircraft is virtually zero. But if this is the case, it can be very rewarding to the player, as well as help win the game faster.
+
+It is important to mention the two schools of thought regarding the ammunition belts for .50 cals. The first one says that you should use Ground Targets belts because of the high amount of armour piercing rounds. These do a lot of damage and can easily shred anything hit with them. However, the second school of thought states one should use Tracer belts because they have the highest chance of setting the enemy on fire, which will typically leads to a fiery destruction of the enemy aircraft. But, there's one thing everyone agrees on: don't use Default belts, as the other available belts have a higher ratio of more damaging AP-T, API, and API-T bullets.
+
+=== Manual Engine Control ===
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="7" | MEC elements
+|-
+! rowspan="2" | Mixer
+! rowspan="2" | Pitch
+! colspan="3" | Radiator
+! rowspan="2" | Supercharger
+! rowspan="2" | Turbocharger
+|-
+! Oil !! Water !! Type
+|-
+| Controllable<br>Not auto controlled || Controllable<br>Auto control available || Controllable<br>Not auto controlled || Controllable<br>Not auto controlled || Separate || Controllable<br>1 gear || Auto controlled
+|-
+|}
+To get the most performance out of your Pratt & Whitney R-2800-57(C), use 120% mixture from 0 to 2,000 m, 100% mixture from 2,000 to 4,000 m, and 80% mixture above 4,000 m. The default setting on auto mixture controls is 60%, setting it higher at lower altitudes allows you to squeeze some extra horsepower out of the engine, which significantly improves the rate of climb. It is possible to set the oil and engine radiators to 0% and not worry about overheating when not using WEP. However, prolonged WEP usage will overheat the engine in this state, and it should only be used when maximum power is absolutely necessary. To run WEP for extended periods of time, set the oil radiator to ~20%, and engine radiator from 25% to 50% as needed. It is important to note that you have a limited WEP duration of ~15 minutes. While this is enough to last through most engagements, during prolonged battles it does well to conserve the boost for when it is most needed.
+
+=== Pros and cons ===
+
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+
+'''Pros:'''
+
+- Forgiving aircraft
+- Eight deadly .50 cal M2 Brownings
+- Great ground-attack ordnance selection
+- Unrivalled high altitude performance
+- Very good high-speed manoeuvrability
+- Enemies are often surprised by the enhanced performance of what is usually seen as an easy target
+- Good climb rate; can keep up with many fighters at its battle rating, unlike its earlier variants
+- Airbrakes
+- Radial engine is good at soaking up damage from the rest of the aircraft
+- Access to premium bonuses in Silver Lion and Research Points
+
+'''Cons:'''
+
+- Payloads encourage a low-altitude attacker playstyle, playing into P-47M's disadvantages
+- Sluggish acceleration on the deck as the turbocharger doesn't produce much extra horsepower
+- This inadequate top speed near the ground means most enemy fighters will be able to catch you
+- Poor low-speed manoeuvrability: a prolonged turnfight almost always ends badly
+- Large size and wingspan makes it easier for enemy fighters to score hits on you
+- While protective, the engine will typically suffer disproportionately at the cost of keeping the plane intact
+- Engine easily catches fire when hit by 13/15/20 mm shells
+
+== History ==
+
+<!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
+
+Four P-47D-27 Aircraft were pulled from the production line at the Farmingdale factory and were fitted with the Pratt & Whitney R-2800-57(C) engine. They were also equipped with a larger CH-5 turbo-supercharger allowing the aircraft to reach 2,800 hp at 32,000 feet. Air brakes were also added underneath the wings to aid in deceleration and recovery during dives. These four prototypes were re-designated YP-47M.
+
+The engine installations were eventually added to the last 130 P-47D-30s from Farmingdale in Sept of 1944. They were all re-designated P-47M-1-RE. It is important to note that the under-wing racks were not fitted to this aircraft. It was intended to be strictly a fighter. They were delivered in Dec. of 1944. The dorsal fins were later added as a field modification.
+
+The M-variant saw service with the 56th Fighter Group but problems with the new highly tuned R-2800 delayed their use until the last weeks of the war in Europe. At one point the aircraft was pulled from service and replaced with D variants until the aircraft performed reliably. The P-47M was never used against V-1 flying bombs, its original target.
+
+The P-47M is most remembered for Major George Bostwick's engagements with the [[Me 262 A-1a|Me 262]]. Bostwick shot down a Me 262 on March 25 1945. He was able to damage a second one a few days later on April 7th.
+
+His P-47M-1-RE had the nickname "Ugly Duckling" and a striking paint scheme.
+
+== Media ==
+
+<!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Skins
+
+- [https://live.warthunder.com/feed/camouflages/?vehicle=p-47m-1-re Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+;Videos
+{{Youtube-gallery|RO11u_Vim1I|'''Premium Review: {{PAGENAME}} [Jug is Love - Jug is Life]''' - ''Jengar''|tVzOxJBcTj8|'''{{PAGENAME}} - 5 Kills In 3 Minutes And Dominating Italians''' - ''Napalmratte''}}
+
+== See also ==
+
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;Carbon-copy vehicle
+
+- [[Lanovski's P-47M-1-RE]]
+
+== External links ==
+
+<!-- ''Paste links to sources and external resources, such as:''
+* ''topic on the official game forum;''
+* ''other literature.'' -->
+
+- [[wt:en/news/3073/current/|[Series] Maj. George Bostwick's P-47 Thunderbolt]]
+- [http://forum.warthunder.com/index.php?/topic/234553-republic-p-47m/ Official WT forum Aircraft Data Sheet section: "Republic P-47M"]
+
+{{AirManufacturer Republic}}
+{{USA fighters}}
+{{USA premium aircraft}}

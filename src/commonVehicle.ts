@@ -1,4 +1,4 @@
-import { Economy, Shop, ShopItem, UnitData, namevehicle } from "./types";
+import { Economy, FinalProps, Shop, ShopItem, UnitData, namevehicle } from "./types";
 import { vehicleType } from "./vehicleType";
 
 const br = [
@@ -100,7 +100,7 @@ export function commonVehicle(
     }
   }
 
-  const commonProps = {
+  const commonProps: FinalProps = {
     intname: element.intname,
     wikiname: element.wikiname,
     displayname: vehicleLang?.English ? vehicleLang.English : undefined,
@@ -124,7 +124,7 @@ export function commonVehicle(
     sl_price: vehicleEconomy.value,
     reqRP: vehicleEconomy.reqExp,
     prem_type: prem,
-    marketplace: marketplace,
+    marketplace: element.marketplace,
     event: vehicleEconomy.event ? vehicleEconomy.event : undefined,
     cost_gold: vehicleEconomy.costGold,
     hidden: vehicleEconomy.showOnlyWhenBought ? true : undefined,

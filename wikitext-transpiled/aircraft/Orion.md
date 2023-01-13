@@ -1,0 +1,155 @@
+{{Specs-Card
+|code=ucav_orion
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+}}
+
+== Description ==
+
+<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
+
+The '''{{Specs|name}}''' is a Russian strike UCAV. It was introduced in [[Update "Drone Age"]].
+
+At its introduction, the Orion UCAV is the only drone with multiple types of loadouts to choose from when spawning.
+
+== General info ==
+=== Flight performance ===
+{{Specs-Avia-Flight}}
+
+<!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
+
+The Orion has a low top speed. As a propeller-driven UCAV, its climb rate and manoeuvrability are also sub-par. Despite this, it still can carry a devastating loadout of 9M113M-2 or 9M113FM3 missiles.
+
+{| class="wikitable" style="text-align:center" width="70%"
+! colspan="2" | Max speed<br>(km/h at 1,000 m)
+! rowspan="2" | Max altitude<br>(metres)
+! colspan="2" | Turn time<br>(seconds)
+! colspan="2" | Rate of climb<br>(metres/second)
+! rowspan="2" | Take-off run<br>(metres)
+|-
+! AB !! RB !! AB !! RB !! AB !! RB
+|-
+| 220 || 220 || {{Specs|ceiling}} || 22.0 || 22.0 || 2.5 || 2.5 || 250
+|-
+|}
+
+==== Details ====
+{| class="wikitable" style="text-align:center" width="50%"
+|-
+! colspan="5" | Features
+|-
+! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
+|-
+| X || X || X || X || X <!-- ✓ -->
+|-
+|}
+
+{| class="wikitable" style="text-align:center" width="50%"
+|-
+! colspan="7" | Limits
+|-
+! rowspan="2" | Wings (km/h)
+! rowspan="2" | Gear (km/h)
+! colspan="3" | Flaps (km/h)
+! colspan="2" | Max Static G
+|-
+! Combat !! Take-off !! Landing !! + !! -
+|-
+| 390 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || N/A || N/A || N/A || ~** || ~**
+|-
+|}
+
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="4" | Optimal velocities (km/h)
+|-
+! Ailerons !! Rudder !! Elevators !! Radiator
+|-
+| < **_ || < _** || < **_ || > _**
+|-
+|}
+
+=== Survivability and armour ===
+{{Specs-Avia-Armour}}
+
+<!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
+
+''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+
+== Armaments ==
+{{Specs-Avia-Armaments}}
+=== Suspended armament ===
+{{Specs-Avia-Suspended}}
+
+<!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
+
+{{main|9M133FM3|9M133M-2}}
+
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+
+- 2 x 9M133M-2 missiles
+- 2 x 9M133FM3 missiles
+
+== Usage in battles ==
+
+<!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
+
+The Orion fills a good niche as the "everyman's CAS". It is available to everyone, which can be very beneficial to players who have not researched BR appropriate aircraft or helicopters. You start off by spawning at an altitude of 4000 meters above the battlefield. Your main priority is SPAA. They are usually found stationary at the enemy spawn. Destroying them will not only help your survival, but also enable your fellow helicopter/aircraft pilots to move in and provide better, uninterrupted CAS. If there are no SPAA around, your next target would be enemy tanks that are near/on the capture points. Once you fire both [[9M133M-2]] missiles, you have three options:
+
+# '''Loiter over the battlefield and provide reconnaissance:''' Just because you can no longer use your missiles doesn't mean you can't help your team! Fly around the battlefield and scan the area with your amazing optical camera. Once you spot any enemy vehicles that pose a threat to your team, quickly mark them on the map and tell your teammates using the in-game chat (alternatively if you have any squad mates, you can work with them and point out enemies nearby using the squad marker)
+
+# '''Land and rearm:''' Once the two ATGM's are used, reduce your throttle and glide towards the airbase. Once you land, begin any repairs and necessary rearming so you can take off. It should be worth noting that the Orion UCAV suffers from a low speed and a horrid climb rate, making the return to base and return to the battlefield incredibly lengthy. Altitude is also the only saving grace of the Orion, as helicopters/attack aircraft will generally be at lower altitudes and SPAA's will have no trouble sending a very slow target back to the hangar screen. Consequently, fighting at low altitudes should be regarded as a suicide mission.
+
+# '''Bail out of the vehicle and spawn in a more capable vehicle:''' While it feels counterintuitive to bail out of a vehicle that cost 750 spawn points, it is the fastest and best way to get you back into the battle. Using the spawn points you accumulated, you can get enough to spawn another tank, an attack aircraft, or a helicopter. The advantage of this is that you should have cleared the path for you or other pilots to make some damage, as the SPAA's and anti air threats are no longer there.
+
+=== Pros and cons ===
+
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+
+'''Pros:'''
+
+- Spawns at altitude (4000 meters)
+- Access to two devastating [[9M133M-2]] or [[9M133FM3]] missiles
+- Exceptional optical camera
+- Hard to counter by SPAA
+- Available for everyone to use
+
+'''Cons:'''
+
+- Low maximum speed
+- Terrible climb rate
+- Access to only two ATGM's for a price higher than most helicopters and attack aircraft (which can carry more ATGM's)
+- A large amount of time will be spent going from spawn to the airfield to rearm and back - better off bailing out and spawning another tank, aircraft, or helicopter
+- Small launch window.
+
+== History ==
+
+<!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
+
+''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+
+== Media ==
+
+<!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+== See also ==
+
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+- [[Drones]]
+  ** [[MQ-1]]
+  ** [[Wing Long I]]
+
+== External links ==
+
+<!-- ''Paste links to sources and external resources, such as:''
+* ''topic on the official game forum;''
+* ''other literature.'' -->
+
+- [[wikipedia:Kronshtadt_Orion|[Wikipedia] Kronshtadt Orion]]
+
+{{AirManufacturer Kronstadt Group}}
+{{Strike UCAVs}}
