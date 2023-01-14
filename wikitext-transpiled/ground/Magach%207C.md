@@ -32,7 +32,7 @@ From Magach 6 (M60A1/3)  to the 7 series, aside from still based on M60s, the re
 |-
 | Turret || 40+130 mm ''Turret front'' (Volumetric) <br> 152 mm ''Gun mantlet'' || 40+76 mm (Volumetric) || 28 mm || 24 mm (Volumetric)
 |-
-| Cupola || colspan="4" | 25.4 mm 
+| Cupola || colspan="4" | 25.4 mm
 |-
 |}
 
@@ -85,62 +85,7 @@ The Magach 7C shares the same ammunition as its tech-tree predecessor Magach 6B 
 
 '''M426; APFSDS''' - The final round and the go-to round for the tank; the Israeli equivalent to 105 mm DM63, it is among the best 105 mm APFSDS available and having vastly improved penetration to M111. This also means it can now penetrates earlier Warsaw-Pact MBTs safely even at longer ranges, but MBTs such as T-64BV and ZTZ96A can still cause major problem for Magach 7C.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M152 || HEATFS || 400 || 400 || 400 || 400 || 400 || 400
-|-
-| M156 || HESH || 127 || 127 || 127 || 127 || 127 || 127
-|-
-| M111 || APFSDS || 337 || 335 || 330 || 322 || 314 || 306
-|-
-| M426 || APFSDS || 430 || 427 || 420 || 409 || 400 || 390
-|-
-|}
-
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M152 || HEATFS || 1,174 || 10.5 || 0.05 || 0.1 || 1,270 || 65° || 72° || 77°
-|-
-| M156 || HESH || 731 || 11.4 || 0.1 || 4 || 3,170 || 73° || 77° || 80°
-|-
-| M111 || APFSDS || 1,455 || 4.2 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-| M426 || APFSDS || 1,455 || 4.4 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive mass<br>(TNT equivalent) (g)
-|-
-| M416 || 732 || 11.6 || 20 || 5 || 20 || 50
-|-
-|}
+{{:Sharir (105 mm)/Ammunition|M152|M156|M111|M416|M426}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
@@ -211,7 +156,7 @@ The Magach 7C shares the same ammunition as its tech-tree predecessor Magach 6B 
 * Rather cramped interior filled with ammunition
 * Rather slow gun traverse speed to competitors
 * Huge in size, can be easily identified by enemies
-* Fixed 8x gunsight that hinders its gun flexibility 
+* Fixed 8x gunsight that hinders its gun flexibility
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

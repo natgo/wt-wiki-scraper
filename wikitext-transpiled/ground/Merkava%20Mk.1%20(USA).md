@@ -100,57 +100,7 @@ The gun can be loaded with:
 * '''M111''': APFSDS; a kinetic rod with high penetration power but without explosive. It is capable of easily penetrating the majority of the foes it meets, but these rounds do require finesse as to their placing. Because the projectile lacks an explosive filler, the best bet is to try and either knock out the majority of the enemy tank's crew or to destroy the enemy by ammo or fuel detonation through hitting their respective storage capacities. This, of course, requires knowledge about the vehicles the {{PAGENAME}} may face - so be sure to use the game's X-Ray view in the hangar and analyse the potential foes for their weak spots! Also, keep in mind that with increased armour thickness the amount of shrapnel shrinks.
 * '''M416''': Smoke; useful to blind enemy vehicles that are too remote for you to disable so that you can progress towards objectives.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M152 || HEATFS || 400 || 400 || 400 || 400 || 400 || 400
-|-
-| M156 || HESH || 127 || 127 || 127 || 127 || 127 || 127
-|-
-| M111 || APFSDS || 337 || 335 || 330 || 322 || 314 || 306
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M152 || HEATFS || 1,174 || 10.5 || 0.05 || 0.1 || 1,270 || 65° || 72° || 77°
-|-
-| M156 || HESH || 731 || 11.4 || 0.1 || 4 || 3,170 || 73° || 77° || 80°
-|-
-| M111 || APFSDS || 1,455 || 4.2 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive mass<br>(TNT equivalent) (g)
-|-
-| M416 || 732 || 11.6 || 20 || 5 || 25 || 50
-|-
-|}
+{{:Sharir (105 mm)/Ammunition|M152|M156|M111|M416}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.jpg|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

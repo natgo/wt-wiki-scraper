@@ -17,9 +17,9 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} German medium tank {{Batt
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-The armor is capable of defeating M735 and most early HEAT-FS when hitting the composite armor arrays, However the lower plate is very weak due to the layout of the armor. Please do note there is a fuel tank sandwiched between the composite armor which will usually lead to a fuel fire when hit, Recommended to play hull down if you dont have FPE (Please note i have only played the tank once so i may have missed something, Someone else who has played it more will have to edit this as i only edited it because there was nothing here originally.)
+The armour is capable of defeating M735 and most early HEATFS rounds when hitting the composite armour arrays, but the lower plate is very weak due to the layout of the composite armour. There is a fuel tank sandwiched between the composite armour which will usually lead to a fuel fire or even fuel detonation when hit. It is recommended to play hull down if you don't have FPE as the hull protection is very unreliable. The turret cheeks are near-invulnerable to all but the strongest rounds. However as with all MBTs, the area around the gun mantlet is quite weak.
 
-'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
+'''Armour type:'''<!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
 
@@ -29,7 +29,7 @@ The armor is capable of defeating M735 and most early HEAT-FS when hitting the c
 |-
 | Hull || 340 - 360 mm || 50 mm ''Top'' <br> 20 mm ''Bottom'' || 20 mm || 20 - 45 mm
 |-
-| Turret || 320 - 415mm ''Turret front'' <br> 250~ mm ''Gun mantlet'' || 160 KE - 260 CE mm || 28 - 59 mm || 20 - 40 mm
+| Turret || 320 - 415mm ''Turret front'' <br>250~ mm ''Gun mantlet'' || 160 mm (KE) - 260 mm (CE) || 28 - 59 mm || 20 - 40 mm
 |-
 | Cupola || 80 mm || 80 mm || 80 mm || 18 mm
 |-
@@ -42,13 +42,17 @@ The armor is capable of defeating M735 and most early HEAT-FS when hitting the c
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
+Its mobility is what makes the Leopard 2AV great. The acceleration is good, but making sharp turns at high speed can lead to flipping. Reverse speed is acceptable, enough to get out of a sticky situation quickly.
+
 {{tankMobility|abMinHp=2,032|rbMinHp=1,327}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
+Start with Parts and FPE, then go for the APFSDS projectile.
 
 == Armaments ==
 {{Specs-Tank-Armaments}}
+
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
@@ -140,6 +144,7 @@ The armor is capable of defeating M735 and most early HEAT-FS when hitting the c
 {{Specs-Tank-Weapon|3}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|MG3A1 (7.62 mm)}}
+There are 2 x 7.62 machine guns on the turret and 1 coaxial 7.62 machine gun. They are useful to shoot at low-flying jets and helicopters and can occasionally penetrate some lightly-armoured vehicles.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -160,18 +165,15 @@ The armor is capable of defeating M735 and most early HEAT-FS when hitting the c
 ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
-
-'''Pros:'''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
 
 * Basically a better armoured [[TTD]]
 ** Hull can block at least one HE hit from late game tanks without consequences (unless it was an SPG)
-** NERA placement is more solid and turret front is actually almost HEAT-FS proof, can survive some ATGMs
+** NERA placement is more solid and turret front is actually almost HEATFS proof, can survive some ATGMs
 ** The ammo rack is more compact
 ** 8 smoke groups
-** Has 3 MGs with focused fire to get rid of slow ATGM
-* Slightly faster than similar tanks
+** Has 3 MGs with focused fire to get rid of slow-flying ATGMs
+* Mobility is great
 
 '''Cons:'''
 
@@ -195,10 +197,14 @@ The armor is capable of defeating M735 and most early HEAT-FS when hitting the c
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[Leopard 2 (Family)]]
+** [[Leopard 2A4]]
+
+;Other vehicles of similar configuration and role
+* [[XM-1 (GM)]]
+* [[M1A2 Abrams]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

@@ -89,57 +89,7 @@ M156 shell, aka L35, is identical to other 105 mm HESH rounds, having high explo
 
 M111 APFSDS, aka DM23, is found on some other NATO vehicles and they perform identically. Being a long-rod dart, this shell can safely penetrate most tanks it might face at the rank. This will be the go-to round for the tank.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M152 || HEATFS || 400 || 400 || 400 || 400 || 400 || 400
-|-
-| M156 || HESH || 127 || 127 || 127 || 127 || 127 || 127
-|-
-| M111 || APFSDS || 337 || 335 || 330 || 322 || 314 || 306
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M152 || HEATFS || 1,174 || 10.5 || 0.05 || 0.1 || 1,270 || 65° || 72° || 77°
-|-
-| M156 || HESH || 731 || 11.4 || 0.1 || 4 || 3,170 || 73° || 77° || 80°
-|-
-| M111 || APFSDS || 1,455 || 4.2 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| M416 || 732 || 11.6 || 20 || 5 || 25 || 50
-|-
-|}
+{{:Sharir (105 mm)/Ammunition|M152|M156|M111|M416}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Sho't_Kal_Dalet_(Great_Britain).png|right|thumb|x250px|[[Ammo racks]] of the [[Sho't Kal Dalet]] (identical)]]

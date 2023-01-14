@@ -73,6 +73,7 @@ While its KwK40 L48 main gun is quite powerful for its BR, it has obvious weakne
 |}
 
 ==== Ammunition ====
+
 * '''PzGr 39'''; APCBC shell - This is the main ammo type, and can confidently penetrate enemy armour due to the explosive filler. This should be the main ammo that your crew carries even as you unlock the other two shell types.
 * '''Hl.Gr 38B'''; HEAT shell - it is recommended to completely avoid this kind of shell as its performance is vastly inferior in all aspects compared to APCBC or APCR ammo used by this tank.
 * '''PzGr 40'''; APCR shell - This type of ammo should be used only if there is trouble penetrating the opponent, or trying to hit a fast moving tank at some distance. However, its damaging potential is much lower because it has no explosive filler to further enhance damage after the penetration.
@@ -136,8 +137,8 @@ While its KwK40 L48 main gun is quite powerful for its BR, it has obvious weakne
 |}
 
 ==== [[Ammo racks]] ====
-<!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
-<!-- '''Last updated:''' -->
+[[File:Ammoracks_Pz.IV_H.png|right|thumb|x250px|[[Ammo racks]] of the Pz.IV H (identical)]]
+<!-- '''Last updated: 2.23.0.51''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -147,14 +148,26 @@ While its KwK40 L48 main gun is quite powerful for its BR, it has obvious weakne
 ! 4th<br>rack empty
 ! 5th<br>rack empty
 ! 6th<br>rack empty
-! Visual<br>discrepancy
 |-
-| '''87''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''87''' || 84&nbsp;''(+3)'' || 82&nbsp;''(+5)'' || 80&nbsp;''(+7)'' || 72&nbsp;''(+15)'' || 63&nbsp;''(+24)'' || 54&nbsp;''(+33)''
+|-
+! 7th<br>rack empty
+! 8th<br>rack empty
+! 9th<br>rack empty
+! 10th<br>rack empty
+! 11th<br>rack empty
+! Visual<br>discrepancy
+!
+|-
+| 46&nbsp;''(+41)'' || 38&nbsp;''(+49)'' || 30&nbsp;''(+57)'' || 24&nbsp;''(+63)'' || 1&nbsp;''(+86)'' || No
+!
 |-
 |}
-'''Note''':
+'''Notes:'''
 
-* It is generally recommended to carry no more than 30 shells. Carrying 20 PzGR 39 and 10 PzGR 40 rounds will keep all rounds deep inside the tank and away from the sides which are easily penetrated.
+* Racks are modeled by sets of 2 shells and disappear after both shells in the set have been shot or loaded.
+* Racks 5 and 6 have a shell set in common.
+* Sides empty: 30&nbsp;''(+57)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

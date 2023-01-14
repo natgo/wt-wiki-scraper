@@ -180,7 +180,8 @@ As with most tanks make sure you research "Parts" and "FPE". Then focus on resea
 |}
 '''Notes:'''
 
-* Racks are modeled by sets of 2 and disappear after both shells in the set having been shot or loaded.
+* Racks are modeled by sets of 2 shells and disappear after both shells in the set have been shot or loaded.
+* Racks 5 and 6 have a shell set in common.
 * Sides empty: 30&nbsp;''(+57)'' shells.
 
 === Machine guns ===

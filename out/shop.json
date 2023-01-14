@@ -1057,11 +1057,7 @@
           { "name": "germ_flakpz_I_Gepard", "rank": 6 },
           { "name": "germ_wiesel_2_adwc", "rank": 6 },
           { "name": "germ_flakpz_1a2_Gepard", "rank": 6 },
-          {
-            "name": "germ_flarakpz_1",
-            "rank": 7,
-            "reqAir": "germ_wiesel_2_adwc"
-          },
+          { "name": "germ_flarakpz_1", "rank": 7 },
           { "name": "germ_flarakrad", "rank": 7 }
         ],
         [
@@ -2101,7 +2097,7 @@
           { "name": "ussr_zsu_37_2", "rank": 6 },
           { "name": "ussr_zsu_23_4", "rank": 6 },
           { "name": "ussr_9a35_m2", "rank": 6 },
-          { "name": "ussr_zprk_2s6", "rank": 7, "reqAir": "ussr_zsu_23_4" }
+          { "name": "ussr_zprk_2s6", "rank": 7 }
         ],
         [
           { "name": "ussr_t_26_1940_1st_GvTBr", "rank": 1, "reqAir": "" },
@@ -3517,7 +3513,13 @@
           { "name": "meteor_fmk8_reaper", "rank": 5, "reqAir": "" },
           { "name": "dh_110_sea_vixen", "rank": 5, "reqAir": "" },
           { "name": "harrier_gr1", "rank": 6, "reqAir": "" },
-          { "name": "lightning_f53", "rank": 6, "reqAir": "", "gift": true },
+          {
+            "name": "lightning_f53",
+            "rank": 6,
+            "reqAir": "",
+            "gift": true,
+            "hidden": true
+          },
           { "name": "f-4jk", "rank": 7, "reqAir": "", "gift": true }
         ],
         [
@@ -3693,7 +3695,7 @@
           { "name": "jp_m19", "rank": 3 },
           { "name": "jp_m42_duster", "rank": 3 },
           { "name": "jp_sub_i_ii_20mm", "rank": 4 },
-          { "name": "jp_type_87", "rank": 6, "reqAir": "jp_m42_duster" },
+          { "name": "jp_type_87", "rank": 6 },
           { "name": "jp_type_93", "rank": 7 }
         ],
         [
@@ -3715,7 +3717,8 @@
             "name": "jp_type_74_mod_g_kai",
             "rank": 6,
             "reqAir": "",
-            "gift": true
+            "gift": true,
+            "hidden": true
           }
         ],
         [
@@ -4348,11 +4351,7 @@
         [
           { "name": "it_as_42_metropolitana", "rank": 1 },
           { "name": "it_fiat_cm52", "rank": 2 },
-          {
-            "name": "it_m15_42_contraereo",
-            "rank": 2,
-            "reqAir": "it_as_42_metropolitana"
-          },
+          { "name": "it_m15_42_contraereo", "rank": 2 },
           { "name": "it_oto_r3_t20_fa", "rank": 3 },
           { "name": "it_otobreda_sidam_25", "rank": 5 },
           { "name": "it_otobreda_sidam_25_mistral", "rank": 7 },
@@ -4470,7 +4469,13 @@
             "gift": true,
             "hidden": true
           },
-          { "name": "t_129_atak", "rank": 6, "reqAir": "", "gift": true }
+          {
+            "name": "t_129_atak",
+            "rank": 6,
+            "reqAir": "",
+            "gift": true,
+            "hidden": true
+          }
         ]
       ]
     },
@@ -4693,7 +4698,7 @@
           { "name": "fr_amx_50", "rank": 4 },
           { "name": "fr_amx_50_surbaisse", "rank": 5 },
           { "name": "fr_amx_32_105", "rank": 6 },
-          { "name": "fr_amx_32", "rank": 6, "reqAir": "fr_amx_50_surbaisse" },
+          { "name": "fr_amx_32", "rank": 6 },
           { "name": "fr_amx_40", "rank": 6 }
         ],
         [
@@ -4948,7 +4953,8 @@
             "name": "so_4050_vautour_2n",
             "rank": 5,
             "reqAir": "",
-            "gift": true
+            "gift": true,
+            "hidden": true
           },
           {
             "name": "md_460_yt_cup_2019",
@@ -5100,7 +5106,7 @@
           { "name": "sw_charioteer_mk_7", "rank": 4 },
           { "name": "sw_t_54_1951", "rank": 5 },
           { "name": "sw_t_55m", "rank": 6 },
-          { "name": "sw_t_72m1", "rank": 6, "reqAir": "sw_t_54_1951" },
+          { "name": "sw_t_72m1", "rank": 6 },
           { "name": "sw_leopard_2a4_fin", "rank": 6 },
           { "name": "sw_leopard_2a6nl", "rank": 7 }
         ],
@@ -5108,13 +5114,7 @@
           { "name": "sw_strv_m39", "rank": 1, "reqAir": "" },
           { "name": "sw_vickers_mk_e_45", "rank": 1, "reqAir": "" },
           { "name": "sw_strv_m41_s1", "rank": 2, "reqAir": "" },
-          {
-            "name": "sw_sav_fm48",
-            "rank": 2,
-            "reqAir": "",
-            "gift": true,
-            "hidden": true
-          },
+          { "name": "sw_sav_fm48", "rank": 2, "reqAir": "" },
           { "name": "sw_strv_81_rb52", "rank": 4, "reqAir": "" },
           { "name": "sw_strv_103_0", "rank": 5, "reqAir": "" },
           { "name": "sw_leopard_1a5no", "rank": 6, "reqAir": "" },
