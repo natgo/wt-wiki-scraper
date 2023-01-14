@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=uk_challenger_mk_3
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' (shortened as '''{{Specs|pseudonym}}''') is a rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced in [[Update 1.85 "Supersonic"]].
 
 The Challenger Mk.3 retains most of the characteristics of the [[Challenger Mk.2]]. It has some unique differences; such as: [[Armour#Explosive_reactive_armour_.28ERA.29|"ROMOR-A ERA"]] which covers the lower glacis and sides, along with the addition of the ammunition storage being covered with rolled homogeneous armour. It retains the same engine (1200 hp) as the Mk.2, however with a minor increase in weight it suffers slightly reduced mobility and acceleration. Its iconic, legendary, and pin-point accurate gun stays the same as on the Challenger Mk.2.
@@ -19,9 +17,7 @@ The Challenger Mk.3 retains most of the characteristics of the [[Challenger Mk.2
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 The armour protection on the Challenger Mk.3 is excellent in some areas and bad in others. The upper half of the turret cheeks are capable of withstanding almost all kinetic penetrators and will stop most chemical penetrators with less than 800 mm, while the lower half won't protect against most top-rank rounds. Additionally, the breech weak spot is quite small. This means the turret has excellent protection and hulldown play is recommended. The hull composite is only good against lower penetrating APFSDS rounds such as [[T-55AM-1|T-55AM]], and can also withstand some chemical munitions, but it is not advised to rely on this armour. The rest of the tank (turret and hull sides, lower front plate) has decent protection against chemical rounds due to the add on armour, ERA, and thick turret sides.
 
 {| class="wikitable"
@@ -38,7 +34,7 @@ The armour protection on the Challenger Mk.3 is excellent in some areas and bad 
 |}
 {| class="wikitable"
 |-
-! Composite armour\* !! Front !! Sides
+! Composite armour* !! Front !! Sides
 |-
 | Hull || 200 mm NERA + 80 mm RHA + 50 mm RHA ''Upper glacis'' || 150 mm NERA, 70 mm screens ''Side skirts''
 |-
@@ -54,13 +50,12 @@ The armour protection on the Challenger Mk.3 is excellent in some areas and bad 
 |}
 '''Notes:'''
 
-- The propellant ammo racks are surrounded by 5 mm RHA.
-- Side skirts consist of 150 mm NERA composite, 70 mm composite screens, or 19 mm aluminium.
-- Tracks and wheels are 20 mm thick.
+* The propellant ammo racks are surrounded by 5 mm RHA.
+* Side skirts consist of 150 mm NERA composite, 70 mm composite screens, or 19 mm aluminium.
+* Tracks and wheels are 20 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=1,860|rbMinHp=1,061}}
@@ -85,7 +80,7 @@ The {{PAGENAME}} has an acceptable top speed, however, acceleration and mobility
 | 12 Seconds
 |-
 | '''Test Conditions'''
-| colspan="3" style="text-align:left" | \*Tested with a spaded {{PAGENAME}}, crew at maximum skill, with basic training qualification. Results can vary based on tank research state, crew levels & qualifications.
+| colspan="3" style="text-align:left" |  *Tested with a spaded {{PAGENAME}}, crew at maximum skill, with basic training qualification. Results can vary based on tank research state, crew levels & qualifications.
 |}
 
 === Modifications and economy ===
@@ -95,9 +90,7 @@ The {{PAGENAME}} has an acceptable top speed, however, acceleration and mobility
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|L11A5 (120 mm)}}
 
 The Challenger's main gun, while not the most powerful at its rank, is competitive, and more importantly, accurate. With over 470 mm of penetration at point blank, there is no need to aim for weak spots, unless you are facing higher-ranked vehicles such as the T-80U, Leopard 2A5, etc.). Make good use of the Challenger's good reload speed to knock out important modules first.
@@ -173,9 +166,7 @@ The Challenger's main gun, while not the most powerful at its rank, is competiti
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Challenger_Mk.2.png|right|thumb|x250px|[[Ammo racks]] of the Challenger Mk.2 (identical)]]
-
 <!-- '''Last updated: 2.19.0.82''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -203,15 +194,13 @@ The Challenger's main gun, while not the most powerful at its rank, is competiti
 |}
 '''Notes''':
 
-- Packing only 29 rounds will keep the front hull empty of charges.
-- All propellant charges are protected by a box of 5 mm of steel
+* Packing only 29 rounds will keep the front hull empty of charges.
+* All propellant charges are protected by a box of 5 mm of steel
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|L37A2 (7.62 mm)|L8A2 (7.62 mm)}}
 
 The machine gun's calibre won't present any major advantage in armoured combat other than serving as target spotter to allies, ranging gun and obstacle clearer. But a major important role is against low flying aircrafts and especially, helicopters. As the highly adequate rate of fire is capable to bring down the biggest of the hovering birds, with enough well placed rounds that is.
@@ -238,7 +227,6 @@ The machine gun's calibre won't present any major advantage in armoured combat o
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 ;Urban Environments
@@ -250,35 +238,32 @@ In urban environments, the Challenger will struggle relative to the [[T-80B]], [
 The Mk.3 performs very well in rural areas, where defilades and ditches that can be used for cover are far more readily available. The Challenger is still best played in hull-down defensive positions, clearing areas of maps before moving up, but a patient playstyle will be rewarded. Make use of the vehicle's good gun depression and competitive reload, utilising off-angles and hull-down positions. If a situation begins to degrade, make use of the Challenger's reasonably good reverse speed and reposition.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Decent turret armour; efficiency increased even more with proper hull down in slopes
-- Reasonably small breech protected by turret cheek's armour
-- Good HEAT and ATGM resistance on front/sides thanks to ERA and NERA elements
-- Good neutral steering and decent reverse speed provides a great boost from the slower [[Chieftain (Family)|Chieftains]]
-- Reasonably good reload, particularly for a 120 mm gun; one of the most remarkable aspects of the latter British MBTs
-- Brand-new TOGS system provides easy target acquisition in day or night
-- Precise L11 gun with adequate penetration values; support rounds available
-- Access to L26 APFSDS, a noticable upgrade over the stock L23A1 APFSDS shell
-- 5 second reload when aced
+* Decent turret armour; efficiency increased even more with proper hull down in slopes
+* Reasonably small breech protected by turret cheek's armour
+* Good HEAT and ATGM resistance on front/sides thanks to ERA and NERA elements
+* Good neutral steering and decent reverse speed provides a great boost from the slower [[Chieftain (Family)|Chieftains]]
+* Reasonably good reload, particularly for a 120 mm gun; one of the most remarkable aspects of the latter British MBTs
+* Brand-new TOGS system provides easy target acquisition in day or night
+* Precise L11 gun with adequate penetration values; support rounds available
+* Access to L26 APFSDS, a noticable upgrade over the stock L23A1 APFSDS shell
+* 5 second reload when aced
 
 '''Cons:'''
 
-- Lacklustre sloped armour penetration, worst at high BR battles facing omni-present [[Leopard 2A6]] or [[T-72B (1989)]]; must aim for weak spots
-- The lower half of the turret cheeks are vulnerable to some higher-tier FIN rounds
-- Slower MBT than most of the vehicles it faces, albeit not by a huge margin
-- Hull is large and tall, very vulnerable to kinetic rounds or aerial attacks
-- Cannot shoot straight over its engine deck; a notable disadvantage on urban engagements
-- Top-tier shells can easily penetrate Challenger's turret armour, even at range
-- Ready-rack is depleted very fast due to the low amount of shells it carries and the quick reloading of the gun
+* Lacklustre sloped armour penetration, worst at high BR battles facing omni-present [[Leopard 2A6]] or [[T-72B (1989)]]; must aim for weak spots
+* The lower half of the turret cheeks are vulnerable to some higher-tier FIN rounds
+* Slower MBT than most of the vehicles it faces, albeit not by a huge margin
+* Hull is large and tall, very vulnerable to kinetic rounds or aerial attacks
+* Cannot shoot straight over its engine deck; a notable disadvantage on urban engagements
+* Top-tier shells can easily penetrate Challenger's turret armour, even at range
+* Ready-rack is depleted very fast due to the low amount of shells it carries and the quick reloading of the gun
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 Once the Challenger was established as the latest MBT for the British army following the decommissioning of the older Chieftain tank, it entered service with the British Army in 1983.
 
 The British Army chose to test this newly designated tank in the Canadian Army Trophy (CAT) competition in West Germany, 1986. Once in the competition and despite having adequate scores, the Challengers were amongst the last in the score tables versus the equally powerful Abrams and Leopards. This proved to be discouraging results, as it was hoped the all-around better Challengers would provide excellent results this time unlike the older Chieftain - distinctly on the mobility and off-road abilities as the new Rolls-Royce CV12 provided almost twice the horsepower of the Chieftain's Leyland L60 Powerpack.
@@ -324,50 +309,47 @@ Eventually with most of the 400 tanks being sold or gifted in the 2000s to Jorda
 The Challenger 1 Mk.2 and Mk.3 were replaced by the Challenger 2 in the UK service but is still in service until this day in Jordan where the large fleet is being gradually replaced by the more modern French MBT, the Leclerc.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_challenger_mk_3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_challenger_mk_3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|zlTWSpm0-KA|'''Challenger I Mk.3 - Tank Review''' - ''Napalmratte''|Lwcx7vVieUQ|'''Tank Chats #82 Challenger 1''' - ''The Tank Museum''|TCpSxqaqo-s|'''Challenger 1 Main Battle Tank''' - ''TankNutDave''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 '''Shared operational History - Gulf War'''
 
-- [[M1 Abrams]]
-- [[Warrior]]
-- [[Challenger Mk.2|Challenger Mk. 2]]
-- [[M3 Bradley]]
-- [[T-55A|T-55]]
-- [[T-62]]
+* [[M1 Abrams]]
+* [[Warrior]]
+* [[Challenger Mk.2|Challenger Mk. 2]]
+* [[M3 Bradley]]
+* [[T-55A|T-55]]
+* [[T-62]]
 
 '''Analogues on other nations'''
 
-- [[Leopard 2K]]
-- [[T-72B]]
-- [[T-72B (1989)]]
-- [[Leopard 1A5 (Italy)|Leopard 1A5]]
-- [[AMX-30B2 BRENUS]]
+* [[Leopard 2K]]
+* [[T-72B]]
+* [[T-72B (1989)]]
+* [[Leopard 1A5 (Italy)|Leopard 1A5]]
+* [[AMX-30B2 BRENUS]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/5918-development-challenger-mk-3-a-royal-upgrade-en|[Devblog] Challenger Mk 3 - A Royal Upgrade]]
-- [https://britisharmyblog.wordpress.com/2016/03/11/desert-storm-part-24-back-to-germany/ Lt Col Tim Purbrick's UK Army blogs - Desert Storm Experience]
-- [https://www.militaryfactory.com/armor/detail.asp?armor_id=54 Military Factory.com - Challenger 1 MBT]
-- Dunstan, Simon (1998). ''Challenger Main Battle Tank 1982-97''. Osprey Publishing, p. 18. ISBN <bdi>1-85532-485-7</bdi>.
-- Challenger 2 Owners' Tank Manual, Haynes Manuals, 1998 to Present - ''An Insight Into the Design, Construction, Operation and Maintenance of the British Army's Main Battle Tank of the 21st Century'', 2018
+* [[wt:en/news/5918-development-challenger-mk-3-a-royal-upgrade-en|[Devblog] Challenger Mk 3 - A Royal Upgrade]]
+* [https://britisharmyblog.wordpress.com/2016/03/11/desert-storm-part-24-back-to-germany/ Lt Col Tim Purbrick's UK Army blogs - Desert Storm Experience]
+* [https://www.militaryfactory.com/armor/detail.asp?armor_id=54 Military Factory.com - Challenger 1 MBT]
+* Dunstan, Simon (1998). ''Challenger Main Battle Tank 1982-97''. Osprey Publishing, p. 18. ISBN <bdi>1-85532-485-7</bdi>.
+* Challenger 2 Owners' Tank Manual, Haynes Manuals, 1998 to Present - ''An Insight Into the Design, Construction, Operation and Maintenance of the British Army's Main Battle Tank of the 21st Century'', 2018
 
 {{TankManufacturer Department of Tank Design}}
 {{Britain medium tanks}}

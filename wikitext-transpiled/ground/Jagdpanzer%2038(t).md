@@ -5,31 +5,27 @@
 }}
 {{Specs-Card
 |code=germ_jgdpz_38t
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
-The '''{{Specs|pseudonym}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|German armoury designation:]] Sd.Kfz. 138/2) (also known by misnomer '''"Hetzer"''' ''([[#Media|Endurance Hunter]])'') is a rank {{Specs|rank}} German tank destroyer {{Battle-rating}}. It was one of the first vehicles introduced in the opening of "Ground Forces" in [[Update 1.41]] after the Closed Beta Test.
+The '''{{Specs|pseudonym}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|German armoury designation:]] Sd.Kfz. 138/2) (also known by misnomer '''"Hetzer"''' ''([[#Media|Endurance Hunter]])'') is a rank {{Specs|rank}} German tank destroyer {{Battle-rating}}. It was one of the first vehicles introduced in the opening of "Ground Forces" in [[Update 1.41]] after the Closed Beta Test. 
 
 The Jagdpanzer 38(t) presents itself as a low profile tank destroyer with a powerful main gun that could keep itself hidden and annihilate the enemy as they come, yet with impressive front armour that could withstand an average amount of incoming enemy fire.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 Don't bother trying to crack through the front armour of the Jagdpanzer 38(t) unless in possession of a very good gun and ammo. Specifications list the front armour as 60 mm thick, but sloped at a 60 degree angle causes it to become 120 mm in effectiveness, quite thick for the battle rating it is in. Try to flank it to the sides or the rear and even in a heavily sloped format, there will be a likely chance the 75 mm shells will penetrate due to how thin the side and rear armour are (20 mm and 10 mm respectively). If unable to reach the side of the Jagdpanzer 38(t), an artillery or aerial strike could harass the Jagdpanzer 38(t) out of its comfort zone and even potentially disable it.
 
 If there are no other choice but to go against it up front, there are some weak spots in the front area. Starting from the smallest, there are some sweet spots around the gun mount area where a lucky shell might penetrate, but these are very unlikely so only aim for these in the worst case scenario. The driver vision port is a tempting target on the front, not only is it a weak spot, but behind that are the driver, gunner, and commander! If one shot gets through here cleanly, there is a very high chance of making a shot cause a crew knockout. The last weak point, and also the largest, is the lower glacis area on the vehicle. The lower glacis only has an effective armour thickness of 80 mm compared to the front glacis sloping armour of 120 mm, making it easier to penetrate for even weaker guns.
 
 '''Armour type:'''
 
-- Cast homogeneous armour
-- Rolled homogeneous armour (Lower side hull)
+* Cast homogeneous armour
+* Rolled homogeneous armour (Lower side hull)
 
 {| class="wikitable"
 |-
@@ -40,15 +36,14 @@ If there are no other choice but to go against it up front, there are some weak 
 |}
 '''Notes:'''
 
-- Suspension wheels are 15 mm thick, bogies are 10 mm thick, and tracks are 20 mm thick.
-- Front armour slope not even, lower part is weaker than top.
-- Belly armour is 12.7 mm thick.
-- A small patch on the turret front right side is thinner (50.8 mm) than the rest (76.2 mm).
-- Bolt edges on the transmission housing are 101.6 mm thick.
+* Suspension wheels are 15 mm thick, bogies are 10 mm thick, and tracks are 20 mm thick.
+* Front armour slope not even, lower part is weaker than top.
+* Belly armour is 12.7 mm thick.
+* A small patch on the turret front right side is thinner (50.8 mm) than the rest (76.2 mm).
+* Bolt edges on the transmission housing are 101.6 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=227|rbMinHp=142}}
@@ -62,9 +57,7 @@ As with any vehicle, research ''Parts'' and ''FPE'' modifications first to preve
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|PaK39 L48 (75 mm)}}
 
 The main gun is a decent 75 mm gun with a stock APCBC shell penetrating 140 mm of armour at most. This penetration allows the vehicle to pierce through almost all tanks around its BR, and upon penetration the 28.9 g of explosives will do a great job finishing off the crew thus destroying the tank. The fast reloading time allows it to deal with multiple enemies effectively. However, sometimes it will face well-armoured opponents like the Jumbos and the Churchill VIIs, in which case the player will struggle to penetrate them with the stock round. This is when the researchable APCR becomes useful. Remember to shoot at the flat armour plates, not the angled parts.
@@ -146,9 +139,7 @@ The horizontal and vertical guidance are average. The player might want to aim h
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.13.0.180''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -162,16 +153,14 @@ The horizontal and vertical guidance are average. The player might want to aim h
 |}
 '''Notes''':
 
-- Racks disappear after you've fired all shells in the rack.
-- The visual discrepancy concerns the number of shells per rack as well as the total number of sells (38 shells modeled for 41 available).
-  ** Rack 1 is modeled as 12 shells but it will disappear after you've fired 14 shells from it.
-  ** Rack 2 is modeled as 13 shells but it will disappear after you've fired 14 shells from it.
+* Racks disappear after you've fired all shells in the rack.
+* The visual discrepancy concerns the number of shells per rack as well as the total number of sells (38 shells modeled for 41 available).
+** Rack 1 is modeled as 12 shells but it will disappear after you've fired 14 shells from it.
+** Rack 2 is modeled as 13 shells but it will disappear after you've fired 14 shells from it.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|MG34 (7.92 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -185,7 +174,6 @@ The horizontal and vertical guidance are average. The player might want to aim h
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The Jagdpanzer 38(t) tank destroyer is armed with a [[PaK39 L48 (75 mm)|75 mm PaK39 L48]] cannon, making it quite capable of taking out enemy armour at its battle rating. Use its speed -- up to 42 km/h (26 mph) -- to take up sniping positions making full use of the frontal armour and height to achieve while the enemy deploy. Keep the distance while engaging, as this allows the Jagdpanzer 38(t) to get more mileage out of its thin but heavily sloped armour on the small size. Watch out for aircraft and artillery. To avoid being constantly targeted with artillery and bombardment, try to reposition after each enemy destroyed or a certain amount of time so as to disorientate the enemy. Be careful though in arcade battles you will be revealed so this will be much more challenging than in realistic battles.
@@ -213,35 +201,32 @@ It is strongly advised against using the Jagdpanzer 38(t) in city maps. Without 
 '''Heavy tank/tank destroyer''': heavy tanks and tank destroyers, being able to easily destroy a Hetzer from any angle & distance, can do a great favour for their team by wiping out a well-armoured target that most of the team cannot kill frontally. The Jagdpanzer 38(t)'s frontal armour becomes virtually useless against a heavy tank or a glass-cannon tank destroyer. Tanks like the [[IS-2 (Family)|IS-2]], [[Sav m/43 (1946)]] or [[ARL-44]] will simply ignore the sloped armour thanks to the sheer penetration of their shells. Now only target the upper plate to ensure successful kills, as the lower plate will absorb the shot with the transmission. Of course, shoot at its thin side armour whenever it is possible.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Even for its rank, the Hetzer is small and can use corners and cover that other tanks can't
-- At its rank, its main gun is very capable of dealing with any threat
-- Sloped armour on all sides, however, the sides and rear are thin
-- Equal armour all over the front with extreme sloping, so it has essentially no frontal weak spots
-- Hard to hit at range due to its size, and difficult to pen due to its armour angles
-- At long range, the sloped armour can even make high calibre shells ricochet
+* Even for its rank, the Hetzer is small and can use corners and cover that other tanks can't
+* At its rank, its main gun is very capable of dealing with any threat
+* Sloped armour on all sides, however, the sides and rear are thin
+* Equal armour all over the front with extreme sloping, so it has essentially no frontal weak spots
+* Hard to hit at range due to its size, and difficult to pen due to its armour angles
+* At long range, the sloped armour can even make high calibre shells ricochet
 
 '''Cons:'''
 
-- As with all tank destroyers, side and rear armour is thin and any shots can often be fatal
-- Not great in close-quarters, this vehicle is more suited for long-range engagements
-- With the gun being placed to the right of the vehicle it has a limited traverse range to the left
-- The roof armour is fairly thin, which makes the Hetzer vulnerable to artillery barrages and aircraft
-- Lower front glacis plate is thin in comparison to the entire front, cover this if possible
-- As with turretless vehicles, the Hetzer is more vulnerable to being flanked
-- Floor armour is very thin and can be penetrated by 105 mm shrapnel.
-- While the gun can penetrate most targets at its rank, it suffers at long range against some more heavily armoured targets
-- Driver, Gunner, and Loader are in-line with each other, making it easy to knock out the vehicle with a penetrating shot from the driver's visor
-- Poor mobility for a vehicle on the 38(t) platform
+* As with all tank destroyers, side and rear armour is thin and any shots can often be fatal
+* Not great in close-quarters, this vehicle is more suited for long-range engagements
+* With the gun being placed to the right of the vehicle it has a limited traverse range to the left
+* The roof armour is fairly thin, which makes the Hetzer vulnerable to artillery barrages and aircraft
+* Lower front glacis plate is thin in comparison to the entire front, cover this if possible
+* As with turretless vehicles, the Hetzer is more vulnerable to being flanked
+* Floor armour is very thin and can be penetrated by 105 mm shrapnel.
+* While the gun can penetrate most targets at its rank, it suffers at long range against some more heavily armoured targets
+* Driver, Gunner, and Loader are in-line with each other, making it easy to knock out the vehicle with a penetrating shot from the driver's visor
+* Poor mobility for a vehicle on the 38(t) platform
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 When Germany's situation in World War II turned to a defensive war, the need for tank destroyers increased and anything that could increased Germany's armoured fighting vehicle production was needed as the Allied AFV production tables dwarf Germany's AFV production. A new tank destroyer was in demand as the current [[Marder III H|Marder]] series was under-protected, and the choice to utilize the [[Pz.38(t) F|Panzer 38(t)]] was done to not only build a more well-protected tank destroyer, but to keep in production the obsolete Panzer 38(t) chassis for the basis of stronger armoured fighting vehicles in the form of a tank destroyer.
 
@@ -269,12 +254,11 @@ A total of 2,827 Jagdpanzer 38 SPGs were produced, as well as 318 tank destroyer
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_jgdpz_38t Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_jgdpz_38t Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|MPdcryL47sk|'''The Shooting Range #205''' - ''Pages of History'' section at 04:58 discusses the Jagdpanzer 38(t).|7d-Kop_sGt8|'''The Shooting Range #162''' - ''Metal Beasts'' section at 00:35 discusses the Jagdpanzer 38(t).|SJGkovFT2VM|'''Hetzer's gonna hetz - but what EXACTLY is hetz?''' - ''{{Annotation|DasPanzermuseum|German Tank Museum}}''}}
@@ -283,16 +267,15 @@ A total of 2,827 Jagdpanzer 38 SPGs were produced, as well as 318 tank destroyer
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/2858/current/|[Vehicle Profile] Jagdpanzer 38(t) 'Hetzer']]
-- [[Wikipedia:Hetzer|[Wikipedia] Hetzer]]
+* [[wt:en/news/2858/current/|[Vehicle Profile] Jagdpanzer 38(t) 'Hetzer']]
+* [[Wikipedia:Hetzer|[Wikipedia] Hetzer]]
 
 {{Germany tank destroyers}}

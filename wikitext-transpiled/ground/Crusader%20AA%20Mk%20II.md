@@ -5,25 +5,22 @@
 }}
 {{Specs-Card
 |code=uk_crusader_aa_mk_2
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British self-propelled anti-aircraft gun {{Battle-rating}}. It was introduced along with the entire British tree line in [[Update 1.55 "Royal Armour"]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (Gun mantlet, Driver's port)
+* Rolled homogeneous armour
+* Cast homogeneous armour (Gun mantlet, Driver's port)
 
 {| class="wikitable"
 |-
@@ -36,12 +33,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British self-propelled anti-ai
 |}
 '''Notes:'''
 
-- Suspension wheels and tracks are 15 mm thick.
-- The driver's port at the driver's position offers up to 50 mm of protection in cast homogeneous armour.
+* Suspension wheels and tracks are 15 mm thick.
+* The driver's port at the driver's position offers up to 50 mm of protection in cast homogeneous armour.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=483|rbMinHp=301}}
@@ -49,18 +45,16 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British self-propelled anti-ai
 === Modifications and economy ===
 {{Specs-Economy}}
 
-- Like every other vehicle, the "Parts" and "FPE" modifications should be prioritized so you won't lose your vehicle due to being disabled.
-- After that, prioritize on the different ammunition, aiming for "HET", for better anti-air performance.
-- Getting "Horizontal Drive" next is recommended for aiming at high-speed targets
-- Everything else is extra, but still essentials to upgrading the vehicle.
+* Like every other vehicle, the "Parts" and "FPE" modifications should be prioritized so you won't lose your vehicle due to being disabled.
+* After that, prioritize on the different ammunition, aiming for "HET", for better anti-air performance.
+* Getting "Horizontal Drive" next is recommended for aiming at high-speed targets
+* Everything else is extra, but still essentials to upgrading the vehicle.
 
 == Armaments ==
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|Oerlikon Mk.II (20 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -81,9 +75,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British self-propelled anti-ai
 
 ==== Ammunition ====
 
-- '''Default:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}} - This belt carries an equal mixture of HEF-I and AP-T.
-- '''HET:''' {{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}} - This is the belt you want to research first, since they are the best against aircraft.
-- '''APT:''' {{Annotation|AP-T|Armour-piercing tracer}} - These are purely AP-T belts. They are not always useful with only 42 mm of penetration, but it is always a good idea to carry a round of them for self-defence; it can knockout lightly armoured vehicles.
+* '''Default:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}} - This belt carries an equal mixture of HEF-I and AP-T.
+* '''HET:''' {{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}} - This is the belt you want to research first, since they are the best against aircraft.
+* '''APT:''' {{Annotation|AP-T|Armour-piercing tracer}} - These are purely AP-T belts. They are not always useful with only 42 mm of penetration, but it is always a good idea to carry a round of them for self-defence; it can knockout lightly armoured vehicles.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="7" | Penetration statistics
@@ -138,48 +132,42 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British self-propelled anti-ai
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 Though the Crusader AA Mk.II was meant for SPAA, the twin 20 mm cannons mean this vehicle can annihilate lightly-protected vehicles with ease, such as the [[8,8 cm Flak 37 Sfl.]] or the [[M15A1 CGMC]], as the 20 mm will slice through the thin half-track armour to knock out the crew.
 
 Due to the heavy ammunition consumption as SPAA in AA fights, stay at "safe" capture points to get free ammunition to reload during battle.
 
 This vehicle has multiple uses depending on which type of ammunition is selected:
-
-- HET is recommended for destroying planes, but it would be impossible to destroy a tank with them. If such an encounter occurs, get out of the vicinity and do not draw the attention of tanks like the [[T-34-57]] or [[Tiger H1|Tiger]] will one shot this SPAA. When shooting planes try to aim for bombers and ground attack planes as they won't be able to outmanoeuvre the shots.
-- APT rounds gives a lot more choices. Though it is a Rank 3 vehicle, the low battle rating means it will be matched against Rank 2 opponents, many of which won't stand a chance if shot from the sides with APT. If in a higher rank battle (with opponents like the [[Panther D]] and the [[IS-1]]), this tactic will often not work. However, the Mark II can still tear apart tracks and gun barrels just as easily with the APT rounds.
-- As for the default belt, it is probably better off changing to prioritize HET or APT.
+* HET is recommended for destroying planes, but it would be impossible to destroy a tank with them. If such an encounter occurs, get out of the vicinity and do not draw the attention of tanks like the [[T-34-57]] or [[Tiger H1|Tiger]] will one shot this SPAA. When shooting planes try to aim for bombers and ground attack planes as they won't be able to outmanoeuvre the shots.
+* APT rounds gives a lot more choices. Though it is a Rank 3 vehicle, the low battle rating means it will be matched against Rank 2 opponents, many of which won't stand a chance if shot from the sides with APT. If in a higher rank battle (with opponents like the [[Panther D]] and the [[IS-1]]), this tactic will often not work. However, the Mark II can still tear apart tracks and gun barrels just as easily with the APT rounds.
+* As for the default belt, it is probably better off changing to prioritize HET or APT.
 
 Due to the relatively low ammo reserve, only take one type of belt with you and take as much you can carry as the ammo will run out quickly when it is split apart for both belts.
 
 Due to the closed nature of the vehicle, the Crusader AA Mk.II doesn't need to worry about strafing fighters as they will often not do any serious damage to the crew. However, ground attackers like the [[IL-2 (Family)|IL-2]] or the [[P-47 (Family)|P-47]] are still just as deadly. Though more protected from machine gun fire, its armour is not enough to stand against enemy tanks, which would slice through the armour with shots from their cannons.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Using [[Crusader Mk II]]'s chassis - fast with a low profile.
-- High fire rate and a quick reload.
-- Closed-top AAA - the crew is well protected from strafing planes.
-- Extremely dangerous for vehicles with the armour of 40 mm or less.
-- Rank III vehicle - suitable for completing missions for war bonds and events.
-- Lightly armoured vehicles like armoured cars, SPAA, and tank side armour can be an easy target to the rapid-fire 20 mm autocannons.
+* Using [[Crusader Mk II]]'s chassis - fast with a low profile.
+* High fire rate and a quick reload.
+* Closed-top AAA - the crew is well protected from strafing planes.
+* Extremely dangerous for vehicles with the armour of 40 mm or less.
+* Rank III vehicle - suitable for completing missions for war bonds and events.
+* Lightly armoured vehicles like armoured cars, SPAA, and tank side armour can be an easy target to the rapid-fire 20 mm autocannons.
 
 '''Cons:'''
 
-- Limited ammo supply (can be a problem when losing on one point maps).
-- Essentially the armour of a Rank 1 tank.
-- Can only penetrate medium tanks like the Panzer IVs from the side at close range, any more armour will leave the SPAA armament useless.
-- Contemporary to the German [[Wirbelwind]], but with less firepower, less anti-tank ability, and less hull armour.
-- No improvement in firepower compared to the 20 mm Oerlikon cannons on the Armoured Car Mk.II AA.
+* Limited ammo supply (can be a problem when losing on one point maps).
+* Essentially the armour of a Rank 1 tank.
+* Can only penetrate medium tanks like the Panzer IVs from the side at close range, any more armour will leave the SPAA armament useless.
+* Contemporary to the German [[Wirbelwind]], but with less firepower, less anti-tank ability, and less hull armour.
+* No improvement in firepower compared to the 20 mm Oerlikon cannons on the Armoured Car Mk.II AA.
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 In 1938, the General Staff of the British Army requested a cruiser tank that was lighter and more affordable than the heavier A16 cruiser design developed by Nuffield Mechanizations & Aero. One of these designs was the designation Tank, Cruiser Mk.V based off the [[A13 Mk I|A13 cruiser tanks]], named the "Covenanter", and Nuffield was invited to become part of its development team, but they refused due to interest in developing their own cruiser tank. Their tank was designated the '''Tank, Cruiser Mk.VI Crusader''' and fell under the General Staff specification of A15. The Crusader was a parallel design to the Covenanter but was ready six weeks earlier than the Covenanter despite starting at a later time. The Crusader was adopted into service with the British Army in 1941 and the 5,300 units were manufactured between 1940 to 1943.
 
@@ -201,12 +189,10 @@ The AA tank Mark II replaced the obsolete Mark VI AA tanks that had been in the 
 About 21 Crusaders still exist intact in various parts of the world. The most notable places with the Crusaders are South Africa with 8 known survivors, a running [[Crusader Mk III]] at Bovington Tank Museum at England, and an anti-aircraft version at Musée des Blindés in France.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_crusader_aa_mk_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_crusader_aa_mk_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="200px">
@@ -216,17 +202,15 @@ File:Crusader AA Mk II after shooting down a Ju-87.jpg|A Crusader shortly after 
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/devblog/current/855/|[Devblog] Crusader AA Mk.I and Crusader AA Mk.II]]
+* [[wt:en/devblog/current/855/|[Devblog] Crusader AA Mk.I and Crusader AA Mk.II]]
 
 {{TankManufacturer Nuffield}}
 {{Britain anti-aircraft vehicles}}

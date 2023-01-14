@@ -5,30 +5,26 @@
 }}
 {{Specs-Card
 |code=uk_crusader_mk_2
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British light tank {{Battle-rating}}. It was introduced along with the initial British ground tree in [[Update 1.55 "Royal Armour"]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 The armour on the Crusader II is the typical light tank armour. The frontal hull's thickest part is the 20 mm glacis which can only bounce reserve level vehicles' shells (e.g. [[H.35]]), while anything better (e.g. [[Chi-Ha Kai]], [[BT-7]], [[M5A1]]) will penetrate it with ease. The turret front is not much better, being 30 mm. However, the curved cylindrical gun mantlet has some chances of bouncing poorly aimed shells if you are lucky. The heavily angled turret sides might also deflect some. The MG turret, being enclosed on the back side, can act as spaced armour and stop some penetrating rounds from entering the hull with its 30 mm rear armour. Still, normal cannons at this BR will have no problem penetrating the Crusader II's frontal armour. The sides (~14 mm) are even weaker and will only stop rifle-calibre bullets.
 
 Penetrating solid rounds or small calibre shells tend to knock out 1-2 crew normally, as there is a fair gap between the driving compartment and the fighting compartment. Thus, vehicles with low-calibre guns (e.g. [[M5A1]], [[M22]]) will need a few shots to destroy you. However, against explosive or larger calibre shells, the shrapnel will easily travel through the gap and hurt any crew behind. The 3 turret crew are packed very closely and are prone to be all knocked out by a single explosive shell. Overall, the survivability of the Crusader II is low, like every other light tank.
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (Gun mantlet, Machine gun mantlet, Driver's port)
-- Structural steel (Side skirts)
+* Rolled homogeneous armour
+* Cast homogeneous armour (Gun mantlet, Machine gun mantlet, Driver's port)
+* Structural steel (Side skirts)
 
 {| class="wikitable"
 |-
@@ -42,13 +38,11 @@ Penetrating solid rounds or small calibre shells tend to knock out 1-2 crew norm
 |}
 '''Notes:'''
 
-- Suspension wheels and tracks are 15 mm thick.
+* Suspension wheels and tracks are 15 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-
 The Crusader II's mobility is decent. It has a power-to-weight ratio of ~20, giving it adequate acceleration on all terrains. It can reach an average speed of ~40 km/h on hard surfaces, and ~30 km/h on soft surfaces in a reasonable amount of time. It also has great hull traverse and can turn the hull rather easily without moving forward/backward first. This gives the Crusader II the ability to quickly relocate tactically, which is useful if you need to flank any enemy, for example a [[Valentine I|Valentine]].
 
 However, as one might expect, the reverse speed is only -7 km/h which is far from enough to get the Crusader out of a dangerous situation in time. A lot of the times the Crusader can only turn the hull around to retreat. When turning on the move, the Crusader will lose quite some speed. Its top speed is also somewhat limited, capped at 43 km/h - it will not get as fast as some other light tanks like [[BT-7]], [[M22]], and the [[M5 Stuart (Family)|M5 Stuarts]] who can go over 50+ km/h. This can be dangerous if the Crusader wants to cap a point in the middle of the map at the start of the match: either faster teammates will get there first, or faster enemies will.
@@ -62,9 +56,7 @@ However, as one might expect, the reverse speed is only -7 km/h which is far fro
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|QF 2-pounder (40 mm)}}
 
 The Crusader is armed with a 40 mm QF 2pdr cannon, which is rather capable, even for the battle rating. It reloads very fast, at ~3 seconds, similar to the American 37 mm and the Soviet 45 mm guns, allowing the Crusader to quickly fire off multiple shots at a target. It has an amazing gun depression of -15° meaning the Crusader will be able to press its gun down over the majority of hills, giving it great map adaptability. Its turret also rotates quickly at around 25°/s, thus the Crusader can deal with surprise attacks effectively. Lastly, a shoulder stabiliser will help speeding up the targeting process once the tank is moving below ~7 km/h which is beneficial for quick stop-and-shoot scenarios and CQC especially against non-stabilised tanks, like the [[Pz.III B|Pz.IIIs]]. All these aspects give the Crusader admirable versatility on the battlefield.
@@ -138,9 +130,7 @@ The Shot Mk.1 APHV/T only offers a slightly faster velocity but not better penet
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -156,15 +146,13 @@ The Shot Mk.1 APHV/T only offers a slightly faster velocity but not better penet
 |}
 Notes:
 
-- Turret & center empty: 45&nbsp;''(+65)'' shells.
-- Racks disappear after all shells in the rack have been shot or loaded.
+* Turret & center empty: 45&nbsp;''(+65)'' shells.
+* Racks disappear after all shells in the rack have been shot or loaded.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|BESA (7.92 mm)}}
 
 There are 2 x 7.92 mm BESA machine guns on the Crusader II, one being coaxial and the other inside a small turret at the front of the hull. MGs of this calibre only have less than 20 mm penetration at most, meaning they are only good against non-armoured vehicles. Vehicles with open fighting compartment and exposed crew (e.g. [[GAZ-AAA (DShK)|GAZ-AAA (DshK)]], [[ZiS-30]], [[Sd.Kfz. 6/2|Sd.Kfz 6/2]], etc) are most vulnerable to such MG fire. These 2 MGs can also be useful to clear obstacles like fences, trees, etc so the tank will not slow down driving over them. On super rare occasions you might see planes flying very low, within the Crusader II's elevation angle. The 2 MGs can get some hits or even critical hits if aimed carefully.
@@ -184,9 +172,7 @@ Note that the smaller MG turret rotates very very slowly, at around 10°/s.
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Crusader Mk II is a quite effective low-range light tank, it is equipped with a fast firing 40 mm cannon, which is excellent at taking out tanks with a cramped interior and the crew close to each other, very fast reload, gun stabilization and its good handling makes up for shell doing not so much damage.
 
 Since it is a light tank it does not have much armour, driving and fighting in the open field should be avoided whatever it is possible, unless there is enough of cover or the terrain shaped in a way so it is possible to use the hull down tactics at which this tank excels at because of its very low profile. The tank also has excellent gun depression and the turret shape makes it hard to hit.
@@ -197,34 +183,31 @@ Any frontal engagement with enemy SPAA units should be avoided, try engaging the
 
 === Enemies worth noting: ===
 
-- [[M4A3 (105)]]: this M4 Sherman is equipped with a deadly 105 mm howitzer firing HE and HEAT shells, the former having no problem destroying the Crusader II with overpressure while the latter can easily penetrate the Crusader. Thus, the Crusader must avoid getting hit by the M4. The Crusader II cannot penetrate the frontal armour of the M4A3 (105), so flanking becomes a good tactic. Use your speed and agility to get to the side/rear of the M4. If shooting at the hull side, the APHE will be enough. If shooting at turret side, you will need the Shot Mk.IXB APCBC/T to penetrate the turret. Try disabling the M4's engine, transmission or driver first, then take your time to finish it because it has an extremely low turret rotation speed so it will not get its gun on you quickly once it cannot traverse its hull.
-- [[B1 ter]]: this is an upgraded model of the [[B1 bis]] heavy tank, featuring thicker armour. Its hull sides have additional armour plates that is slightly sloped, and the Crusader II's 40 mm gun will struggle to penetrate it. The hull front is ~70 mm sloped, which can also resist the Crusader II's shells. The frontal turret and the gun mantlet can be bouncy but other areas like the cupola and turret ring are weakspots. Targeting there will take out the B1's 47 mm gunner who is also the commander. The turret sides/rear are of course easier to penetrate, if you get the chance. The hull rear can also be penetrated, but multiple shots will be required to destroy its transmission or engine due to your small calibre. Do not get hit by the B1, it will be fatal.
+* [[M4A3 (105)]]: this M4 Sherman is equipped with a deadly 105 mm howitzer firing HE and HEAT shells, the former having no problem destroying the Crusader II with overpressure while the latter can easily penetrate the Crusader. Thus, the Crusader must avoid getting hit by the M4. The Crusader II cannot penetrate the frontal armour of the M4A3 (105), so flanking becomes a good tactic. Use your speed and agility to get to the side/rear of the M4. If shooting at the hull side, the APHE will be enough. If shooting at turret side, you will need the Shot Mk.IXB APCBC/T to penetrate the turret. Try disabling the M4's engine, transmission or driver first, then take your time to finish it because it has an extremely low turret rotation speed so it will not get its gun on you quickly once it cannot traverse its hull.
+* [[B1 ter]]: this is an upgraded model of the [[B1 bis]] heavy tank, featuring thicker armour. Its hull sides have additional armour plates that is slightly sloped, and the Crusader II's 40 mm gun will struggle to penetrate it. The hull front is ~70 mm sloped, which can also resist the Crusader II's shells. The frontal turret and the gun mantlet can be bouncy but other areas like the cupola and turret ring are weakspots. Targeting there will take out the B1's 47 mm gunner who is also the commander. The turret sides/rear are of course easier to penetrate, if you get the chance. The hull rear can also be penetrated, but multiple shots will be required to destroy its transmission or engine due to your small calibre. Do not get hit by the B1, it will be fatal.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- 5-man crew increases survivability. More unlikely to get taken by a single shot from small-calibre guns (e.g. from [[M2A4]])
-- Spherical gun mantlet and sloped turret sides may bounce shells from certain angles
-- 2-pdr cannon can frontally penetrate almost all tanks it will face, like [[M3A1 Stuart]], [[Chi-He]]
-- Low profile, harder to get spotted and shot at
-- Very good acceleration with good handling
-- Additional 4 mm side skirts can detonate HE and HEAT fuses before they impact the hull
-- Smoke grenades which can be fired one at the time
+* 5-man crew increases survivability. More unlikely to get taken by a single shot from small-calibre guns (e.g. from [[M2A4]])
+* Spherical gun mantlet and sloped turret sides may bounce shells from certain angles
+* 2-pdr cannon can frontally penetrate almost all tanks it will face, like [[M3A1 Stuart]], [[Chi-He]]
+* Low profile, harder to get spotted and shot at
+* Very good acceleration with good handling
+* Additional 4 mm side skirts can detonate HE and HEAT fuses before they impact the hull
+* Smoke grenades which can be fired one at the time
 
 '''Cons:'''
 
-- Overall weak armour, anyone (including SPAA) can penetrate it
-- Most of shells have no explosive filler and can have trouble killing larger tanks (e.g. [[LVT(A)(1)]]), pinpoint shots are needed
-- Crew is packed together, can be knocked out easily with a single shot by large-calibre shells, notably the early Pz.IV models
-- Reverse speed of -7 km/h is slow
+* Overall weak armour, anyone (including SPAA) can penetrate it
+* Most of shells have no explosive filler and can have trouble killing larger tanks (e.g. [[LVT(A)(1)]]), pinpoint shots are needed
+* Crew is packed together, can be knocked out easily with a single shot by large-calibre shells, notably the early Pz.IV models
+* Reverse speed of -7 km/h is slow
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 In 1938, the General Staff of the British Army requested for a cruiser tank that was lighter and more affordable than the heavier A16 cruiser design developed by Nuffield Mechanizations & Aero. One of these designs was the designation ''Tank, Cruiser Mk.V'' based off the [[A13 Mk I|A13 cruiser tanks]], named the "Covenanter", and Nuffield was invited to become part of its development team, but they refused due to interest in developing their own cruiser tank. Their tank was designated the '''Tank, Cruiser Mk.VI Crusader''' and fell under the General Staff specification of ''A15''. The Crusader was a parallel design to the Covenanter, but was ready six weeks earlier than the Covenanter despite starting at a later time. The Crusader was adopted into service with the British Army in 1941 and the 5,300 units were manufactured between 1940 to 1943.
 
@@ -244,12 +227,11 @@ After the North African Campaign, the Crusaders no longer saw any use in the fro
 About 21 Crusaders still exist intact in various parts of the world. The most notable places with the Crusaders are South Africa with 8 known survivors, a running [[Crusader Mk III]] at Bovington Tank Museum at England, and an anti-aircraft version at Musée des Blindés in France.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_crusader_mk_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_crusader_mk_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|4_cJ1CpEatw|'''Best gun depression''' discusses the {{PAGENAME}} at 1:33 - ''War Thunder Official Channel''}}
@@ -257,14 +239,14 @@ About 21 Crusaders still exist intact in various parts of the world. The most no
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{TankManufacturer Nuffield}}
 {{Britain light tanks}}

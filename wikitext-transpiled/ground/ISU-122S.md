@@ -11,25 +11,21 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet tank destroyer {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before [[Update 1.41]]. Compared to the [[ISU-122]], the {{PAGENAME}} is equipped with a different 122 mm gun whose modified breech allows for a faster reload.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 The {{PAGENAME}}'s armour profile is almost identical to that of its predecessor, except for a different gun mantlet. The armour will protect against smaller calibre guns and autocannons, but should not be relied upon against most tanks it faces at its battle rating. The gun mantlet is the strongest part of the armour, and, because the gun is offset to the right, it is thus recommended to try and hide the left side and only expose the right side of the front towards enemies.
 
 The relatively thick side armour can cause bounces and ricochets if angled, but depending on this is risky for a turretless vehicle, as it may get its tracks disabled and rendered helpless.
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (hull, superstructure/casemate, roof)
-- Cast homogeneous armour (gun mantlet)
+* Rolled homogeneous armour (hull, superstructure/casemate, roof)
+* Cast homogeneous armour (gun mantlet)
 
 {| class="wikitable"
 |-
@@ -42,12 +38,11 @@ The relatively thick side armour can cause bounces and ricochets if angled, but 
 |}
 '''Notes:'''
 
-- Suspension wheels are 20 mm thick while tracks are 30 mm thick.
-- There is a 40 mm plate under the gun mantlet, reinforcing the original 65 mm gun mantlet case.
+* Suspension wheels are 20 mm thick while tracks are 30 mm thick.
+* There is a 40 mm plate under the gun mantlet, reinforcing the original 65 mm gun mantlet case.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp= 739|rbMinHp= 460}}
@@ -59,17 +54,15 @@ The very high reverse speed allows it to back off from an engagement quickly, on
 === Modifications and economy ===
 {{Specs-Economy}}
 
-- Start with Parts and FPE for the survivability.
-- Proceed with Tracks to increase your mobility.
-- After that, prioritize either firepower or mobility modules depending on your needs.
+* Start with Parts and FPE for the survivability.
+* Proceed with Tracks to increase your mobility.
+* After that, prioritize either firepower or mobility modules depending on your needs.
 
 == Armaments ==
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|D-25S (122 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -104,9 +97,9 @@ Your recoil is important but not powerful enough to throw your gun off target af
 ==== Ammunition ====
 The available choice of ammunition focuses on heavily armoured targets:
 
-- '''BR-471''': APHE; an armour-piercing shell with high explosive mass and high muzzle velocity that will one-shot any tank that it penetrates.
-- '''BR-471B''': APHEBC; essentially the same as the BR-471, but with significantly improved performance against sloped armour thanks to the ballistic cap. This shell can reliably penetrate the frontal glacis of a Panther from over 700 m. The preferred shell against armoured targets.
-- '''OF-471''': HE; most effective against lightly armoured and open-topped vehicles. However, the projectile contains enough explosive to penetrate the roofs of some tanks via the blast overpressure.
+* '''BR-471''': APHE; an armour-piercing shell with high explosive mass and high muzzle velocity that will one-shot any tank that it penetrates.
+* '''BR-471B''': APHEBC; essentially the same as the BR-471, but with significantly improved performance against sloped armour thanks to the ballistic cap. This shell can reliably penetrate the frontal glacis of a Panther from over 700 m. The preferred shell against armoured targets.
+* '''OF-471''': HE; most effective against lightly armoured and open-topped vehicles. However, the projectile contains enough explosive to penetrate the roofs of some tanks via the blast overpressure.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="8" | Penetration statistics
@@ -148,9 +141,7 @@ The available choice of ammunition focuses on heavily armoured targets:
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -167,14 +158,12 @@ The available choice of ammunition focuses on heavily armoured targets:
 |}
 '''Notes''':
 
-- The {{PAGENAME}} uses two-piece ammunition, composed of propellant bags (orange) and projectiles (yellow). Both have separate racks.
-- To go into battle with the right flank depleted of propellant bags (racks 1 to 3), pack 17&nbsp;''(+13)'' shells.
+* The {{PAGENAME}} uses two-piece ammunition, composed of propellant bags (orange) and projectiles (yellow). Both have separate racks.
+* To go into battle with the right flank depleted of propellant bags (racks 1 to 3), pack 17&nbsp;''(+13)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|DShK (12.7 mm)}}
 
 The 12.7 mm DShK heavy machine gun is located on a pintle mount, manned by the loader, and can act as both an offensive and anti-aircraft machine gun on the {{PAGENAME}}, giving protection against aircraft and lightly armoured vehicles. Effective range is within 500 m against lightly armoured vehicles. The 360° traverse allows you to point the DShK in any given direction. However, the position of the DShK high on the casemate and the poor depression angle make it difficult to shoot at low-profile targets at close range. The DShK also has a slow traverse speed compared to the American .50 cal M2HB mounted on American-made vehicles.
@@ -190,7 +179,6 @@ The 12.7 mm DShK heavy machine gun is located on a pintle mount, manned by the l
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 ;Offensive role
@@ -205,66 +193,63 @@ In case of an enemy breakthrough, your role is to contain the enemy advance by p
 
 If you try to use the {{PAGENAME}} in a different role on the battlefield, you will be confronted with the following:
 
-- If you try to play as a front-line tank, you will be quickly disabled by any type of fire coming from enemy tanks. Your frontal armour is pretty thin for a tank to play at close range, and a successful penetrating shot from the front will usually disable your crew sitting in a line. Your gun traverse is very limited and your turning speed is also too poor to manoeuvre quickly enough in close combat.
-- If you attempt to play support tank, your high profile will make it difficult to stay hidden behind obstacles without taking fire. Your good reverse speed can be an advantage but the enemy will flush you out with an artillery strike (which can be accurate enough at medium range to disable you). Even with an escape route planned and cover to hide behind, your chances of survival are meagre. You will also be at risk of being flanked by light tanks or armoured cars, especially if they swarm you. Anyone who manages to get behind you has a very high chance of destroying you. In that role, an undetected flanking enemy, artillery strikes or CAS will be great threats to the {{PAGENAME}}.
+* If you try to play as a front-line tank, you will be quickly disabled by any type of fire coming from enemy tanks. Your frontal armour is pretty thin for a tank to play at close range, and a successful penetrating shot from the front will usually disable your crew sitting in a line. Your gun traverse is very limited and your turning speed is also too poor to manoeuvre quickly enough in close combat.
+* If you attempt to play support tank, your high profile will make it difficult to stay hidden behind obstacles without taking fire. Your good reverse speed can be an advantage but the enemy will flush you out with an artillery strike (which can be accurate enough at medium range to disable you). Even with an escape route planned and cover to hide behind, your chances of survival are meagre. You will also be at risk of being flanked by light tanks or armoured cars, especially if they swarm you. Anyone who manages to get behind you has a very high chance of destroying you. In that role, an undetected flanking enemy, artillery strikes or CAS will be great threats to the {{PAGENAME}}.
 
 ;Notable enemies
 
-- Any tank will disable you with ease in a close range encounter because of your weak unsloped casemate armour.
-- For long range engagements, commonly met guns able to penetrate the {{PAGENAME}} from 1,000 m are:
-  ** USA: tanks equipped with a long 76 mm gun (M4/M41), M36 GMC
-  ** Germany: any vehicle equipped with a 75 or 88 mm gun like Panthers, Tigers I & II, etc.
-  ** USSR: any vehicle equipped with an 85 or 122 mm gun like the IS-2, T-34-85, etc.
-  ** Great Britain: any vehicle equipped with APDS like the Centurion, Challenger, and Charioteer.
-  ** Japan: Ho-Ri and US-built tanks.
-  ** China: vehicles similar to the US and USSR ones.
-  ** France: ARL-44 and AMX-13.
-  ** Sweden: Ikv 103 and Strv 74.
+* Any tank will disable you with ease in a close range encounter because of your weak unsloped casemate armour.
+* For long range engagements, commonly met guns able to penetrate the {{PAGENAME}} from 1,000 m are:
+** USA: tanks equipped with a long 76 mm gun (M4/M41), M36 GMC
+** Germany: any vehicle equipped with a 75 or 88 mm gun like Panthers, Tigers I & II, etc.
+** USSR: any vehicle equipped with an 85 or 122 mm gun like the IS-2, T-34-85, etc.
+** Great Britain: any vehicle equipped with APDS like the Centurion, Challenger, and Charioteer.
+** Japan: Ho-Ri and US-built tanks.
+** China: vehicles similar to the US and USSR ones.
+** France: ARL-44 and AMX-13.
+** Sweden: Ikv 103 and Strv 74.
 
 [[File:Wsp volumetric shell diagram.png|thumb|Differences between non-volumetric shells and volumetric shells hitting a Tiger I]]
 An important note when engaging tanks, especially Tiger I's, is that, with the implementation of volumetric shells, you can no longer expect your shells to pierce through small openings or right past an obstacle. The large 122 mm calibre of your shells will result in it catching on an armour plate's edge very often, losing all of its penetration. For example, a Tiger I has some edges that can absorb your shell unexpectedly, despite having flat armour. Thus you must always make sure that where you are aiming at is absolutely free of obstruction, or it may result in a non-penetration or a ricochet. This can be seen in the diagram to the right.
 
 ;Defeating an {{PAGENAME}}
 
-- Wait for {{PAGENAME}} to shoot before engaging it: its long reloading time is a big weakness as it is defenseless for at least 15 seconds like an IS-2. It can however retreat quickly thanks to its good reverse speed. Be careful not to get baited into open field trying to follow your prey.
-- The {{PAGENAME}} has a rather thin armour when compared to tanks at the same BR: if you have a very high penetrating power, aim for the casemate.
-- In a frontal encounter, the right side of the frontal armour plate is the biggest weak spot. A successful penetration will most likely knock out 3 out of 4 crew members because they sit in line along that axis.
-- In a flanking manoeuvre, the center of the casemate is the place to shoot to knock most crew members out.
-- From behind, the left side of the casemate is the best spot to disable the {{PAGENAME}}.
-- If you are alone, flanking a {{PAGENAME}} undetected remains your best chance to destroy it. But it is difficult because the {{PAGENAME}} ideally positions itself very far from the frontline.
-- Force it out of position with indirect fire (artillery strikes) if you're at relative close range.
-- In case of a frontal attack (choke point/corridor), try blinding the {{PAGENAME}} with smoke and then swarm it with several tanks to saturate its defensive capacities.
-- Engage the {{PAGENAME}} while it is moving: it takes a long time to brake, turn, bring the gun to a stable position and target precisely. With a reload time over 15 seconds, no player will take a shot that has little chance to hit.
-- Do not take pot shots or shoot on the move, aim precisely at the weak spots (casemate walls). Your chance of ricochet is increased at long range as your penetration power decreases and the {{PAGENAME}} can angle its hull in a defensive manoeuvre.
+* Wait for {{PAGENAME}} to shoot before engaging it: its long reloading time is a big weakness as it is defenseless for at least 15 seconds like an IS-2. It can however retreat quickly thanks to its good reverse speed. Be careful not to get baited into open field trying to follow your prey.
+* The {{PAGENAME}} has a rather thin armour when compared to tanks at the same BR: if you have a very high penetrating power, aim for the casemate.
+* In a frontal encounter, the right side of the frontal armour plate is the biggest weak spot. A successful penetration will most likely knock out 3 out of 4 crew members because they sit in line along that axis.
+* In a flanking manoeuvre, the center of the casemate is the place to shoot to knock most crew members out.
+* From behind, the left side of the casemate is the best spot to disable the {{PAGENAME}}.
+* If you are alone, flanking a {{PAGENAME}} undetected remains your best chance to destroy it. But it is difficult because the {{PAGENAME}} ideally positions itself very far from the frontline.
+* Force it out of position with indirect fire (artillery strikes) if you're at relative close range.
+* In case of a frontal attack (choke point/corridor), try blinding the {{PAGENAME}} with smoke and then swarm it with several tanks to saturate its defensive capacities.
+* Engage the {{PAGENAME}} while it is moving: it takes a long time to brake, turn, bring the gun to a stable position and target precisely. With a reload time over 15 seconds, no player will take a shot that has little chance to hit.
+* Do not take pot shots or shoot on the move, aim precisely at the weak spots (casemate walls). Your chance of ricochet is increased at long range as your penetration power decreases and the {{PAGENAME}} can angle its hull in a defensive manoeuvre.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Extremely potent 122 mm gun.
-- Reloads significantly faster than other 122 mm gun platforms.
-- Large gun mantlet can be hard to penetrate.
-- Decent all-round protection against autocannons.
-- Powerful roof-mounted MG that can rotate at 360°
-- High reverse speed.
+* Extremely potent 122 mm gun.
+* Reloads significantly faster than other 122 mm gun platforms.
+* Large gun mantlet can be hard to penetrate.
+* Decent all-round protection against autocannons.
+* Powerful roof-mounted MG that can rotate at 360°
+* High reverse speed.
 
 '''Cons:'''
 
-- Long reload time compared to most contemporary vehicles.
-- Unsloped frontal armour that is insufficient against commonly encountered tank guns.
-- Cramped crew compartment results in poor survivability.
-- Very poor gun depression and narrow traverse arc.
-- Prominent gun breech often gets damaged.
-- Vulnerable when immobilized and flanked
+* Long reload time compared to most contemporary vehicles.
+* Unsloped frontal armour that is insufficient against commonly encountered tank guns.
+* Cramped crew compartment results in poor survivability.
+* Very poor gun depression and narrow traverse arc.
+* Prominent gun breech often gets damaged.
+* Vulnerable when immobilized and flanked
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
-When the [[ISU-152]] began production in 1943 with the large 152 mm ML-20S gun, production of the chassis and hull soon exceeded the supply of the ML-20S gun, which caused a decrease in the production of self-propelled guns for the Soviet military. It was determined to speed up self-propelled gun production, the ISU chassis were to be mounted with the 122 mm A-19S gun. Work on this mounting already began before the supply issue in December 1943 at the Chelyabinsk Kirov Plant (ChKZ), which had a design team simply take the ISU-152 chassis and hull and only changing out the armament with the 122 mm gun, but this prototype - ''Object 242'' - was not immediately put into production despite successful testings. When the supply issue arose, the prototype was then adopted by the Soviet Defense Committee for increased production and also that the 122 mm gun had better accuracy against tanks than the 152 mm gun. The ISU armed with the 122 mm gun, designated the '''ISU-122''', began production in April 1944.
+When the [[ISU-152]] began production in 1943 with the large 152 mm ML-20S gun, production of the chassis and hull soon exceeded the supply of the ML-20S gun, which caused a decrease in the production of self-propelled guns for the Soviet military. It was determined to speed up self-propelled gun production, the ISU chassis were to be mounted with the 122 mm A-19S gun.  Work on this mounting already began before the supply issue in December 1943 at the Chelyabinsk Kirov Plant (ChKZ), which had a design team simply take the ISU-152 chassis and hull and only changing out the armament with the 122 mm gun, but this prototype - ''Object 242'' - was not immediately put into production despite successful testings. When the supply issue arose, the prototype was then adopted by the Soviet Defense Committee for increased production and also that the 122 mm gun had better accuracy against tanks than the 152 mm gun. The ISU armed with the 122 mm gun, designated the '''ISU-122''', began production in April 1944.
 
 ===Upgrade===
 The original '''[[ISU-122]]''' is equipped with the 122 mm A-19S gun, which had a firing rate of 1.5 to 2.5 shots per minute due to its manual-piston breech. An attempt to fix this was a modernized A-19 gun called the D-25. The D-25 didn't see instalment onto the ISU-122 for a while due to prioritization on the IS-2 tanks, but it was available for use on self-propelled mounts after September 1944 as the D-25S. The ISU-122 prototype mounting the D-25 gun was called ''Object 249'' which was successfully tested and an improvement over the A-19 gun with an increased firing rate of 2 to 3 shots per minute with one loader and up to 4 shots per minute with an additional loader in the crew. The D-25 also exploited the use of a muzzle brake in order to reduce the recoil forces on the gun, so the recoil buffer on the D-25 was much smaller than the A-19, which helped reduce the size of the gun and improved crew workspace in the self-propelled gun. ''Object 249'' was then adopted as the '''[[ISU-122S]]''', which entered production side by side with the ISU-122 u and both were produced up until the end of 1945. ChKZ produced both vehicles during the war and manufactured 1,735 ISU-122s (April 1944 - December 1945) and 675 ISU-122Ss (September 1944 - December 1945).
@@ -285,50 +270,46 @@ In the middle of the 1960s, the SPGs were removed from service in the Soviet Arm
 {{Navigation-End}}
 
 == Media ==
-
 <!--''Excellent additions to the article would be video guides, screenshots from the game, and photos.''-->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_isu_122s Skins and Camouflages for the {{PAGENAME}} on live.warthunder.com].
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_isu_122s Skins and Camouflages for the {{PAGENAME}} on live.warthunder.com].
 
 ;Videos
 {{Youtube-gallery|7JWqa5QMQUI|'''ISU-122S - One last trick''' - ''Oxy'' (review starts at 00:42)}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
 
-- [[ISU-122]] / [[ISU-122 (China)]]
-- [[IS-2 (Family)]]
+* [[ISU-122]] / [[ISU-122 (China)]]
+* [[IS-2 (Family)]]
 
 ;Similar Soviet vehicles
 
-- [[SU-152]]
-- [[ISU-152]] / [[ISU-152 (China)]]
-- [[SU-122-54]]
+* [[SU-152]]
+* [[ISU-152]] / [[ISU-152 (China)]]
+* [[SU-122-54]]
 
 ;Other vehicles of similar configuration and role
 
-- [[Panzer IV/70(A)]]
-- [[Panzer IV/70(V)]]
-- [[Jagdpanther]]
-- [[Ho-Ri Prototype]]
-- [[CA Lorraine]]
-- [[Ikv 103]]
+* [[Panzer IV/70(A)]]
+* [[Panzer IV/70(V)]]
+* [[Jagdpanther]]
+* [[Ho-Ri Prototype]]
+* [[CA Lorraine]]
+* [[Ikv 103]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[Wikipedia:ISU-122#Variants|[Wikipedia] ISU-122]]
-- [https://tanks-encyclopedia.com/ww2/soviet/ISU-122.php Tanks Encyclopedia - ISU-122 & 122S]
+* [[Wikipedia:ISU-122#Variants|[Wikipedia] ISU-122]]
+* [https://tanks-encyclopedia.com/ww2/soviet/ISU-122.php Tanks Encyclopedia - ISU-122 & 122S]
 
 {{TankManufacturer ChTZ}}
 {{USSR tank destroyers}}

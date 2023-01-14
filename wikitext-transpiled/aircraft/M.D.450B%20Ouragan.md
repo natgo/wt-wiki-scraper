@@ -8,19 +8,16 @@
 }}
 {{Specs-Card
 |code=md_450b_ouragan
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -48,7 +45,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-ra
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -114,12 +111,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-ra
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 40 mm Bulletproof glass in cockpit front.
-- 13.5 mm Steel plate in the nose.
-- 13.5 mm Steel plates behind the pilot.
+* 40 mm Bulletproof glass in cockpit front.
+* 13.5 mm Steel plate in the nose.
+* 13.5 mm Steel plates behind the pilot.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -128,36 +124,30 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-ra
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M50 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 20 mm M50 cannons, chin-mounted (125 rpg = 500 total)
+* 4 x 20 mm M50 cannons, chin-mounted (125 rpg = 500 total)
 
 The four machine guns are clustered on the underside of the fuselage, directly below the pilot. Each are armed with the same amount of ammunition, which means that all guns will fire with each other until empty.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|T10 140|T10 151}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
-- 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
-- 16 x T10 140 rockets
-- 16 x T10 151 rockets
+* Without load
+* 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
+* 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
+* 16 x T10 140 rockets
+* 16 x T10 151 rockets
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The usual strategy for the M.D.450B Ouragan is to play as a Boom & Zoom aircraft. It retains energy in vertical turns and can perform "BnZ" manoeuvres well. When you takeoff, it is recommended to gain speed immediately. After gaining speed, you can side-climb up to 2,500 - 3,000 m then head to the centre of the battlefield. When you're finally in the centre, you will have already gained significant speed by accelerating. Then you can commence Boom & Zoom tactics. This strategy goes as follows: Dive, engage, zoom up to 2,500 - 3,000 m, loop around, look for a suitable target, rinse and repeat. If you find yourself in a bad situation where you cannot use the recommended tactics, then your last resort option would be to turn. Beware that this bleeds a lot of speed and usually results in the M.D.450 becoming an easy target.
 
 If this is your first jet, the most important thing to understand is that keeping your speed is vital in most jet engagements. By turning in big, wide circles and not attempting any speed-bleeding manoeuvres just to get a quick potential shot on target, you can excel in jet combat.
@@ -165,31 +155,29 @@ If this is your first jet, the most important thing to understand is that keepin
 As the main role of the Ouragan is as a fighter aircraft, taking secondary loadouts to ground pound at the start of jet matches in air realistic battles is not recommended.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Good manoeuvrability, especially between 500 km/h and 600 km/h
-- Good roll rate
-- Nose-mounted guns
-- Does not compress much below 900 km/h
-- Down-tiered often, very capable aircraft against lower-ranked aircraft
-- Strong and effective flaps
-- 20 mm M50 cannons excel with Air Targets belt
-- Easy to fly and land with a ripped wingtip
+* Good manoeuvrability, especially between 500 km/h and 600 km/h
+* Good roll rate
+* Nose-mounted guns
+* Does not compress much below 900 km/h
+* Down-tiered often, very capable aircraft against lower-ranked aircraft
+* Strong and effective flaps
+* 20 mm M50 cannons excel with Air Targets belt
+* Easy to fly and land with a ripped wingtip
 
 '''Cons:'''
 
-- Stock performance is lacking
-- Wingtips rip easily in a dive
-- Slow compared to contemporaries
-- Extremely heavy compression above 970 km/h
-- Poor acceleration
-- 20 mm M50 cannons tend to spark and are less effective with Default belts
+* Stock performance is lacking
+* Wingtips rip easily in a dive
+* Slow compared to contemporaries
+* Extremely heavy compression above 970 km/h
+* Poor acceleration
+* 20 mm M50 cannons tend to spark and are less effective with Default belts
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 French aircraft designer and Resistance fighter Marcel Bloch's aim when the war ended was to put France's aeronautical industry back on the map and reduce dependence on foreign aircraft for L'Armee de l'Air. The M.D. 450 Ouragan (Hurricane) was the first jet fighter to be completely designed and manufactured in France. In total 350 were built for French service, 104 for the Indian Air Force, and 12 for the Israelis. Entering service in 1952, it was a front-line fighter until the swept-wing Mystere arrived in 1955, and continued in operational service in France until the mid-1960s, after 1961 as training aircraft.
@@ -197,31 +185,27 @@ French aircraft designer and Resistance fighter Marcel Bloch's aim when the war 
 Bloch's company Dassault started prototype construction in April 1948, two months before the French government agreed to authorize development. The first flight of the prototype was in February, 1949. The jet combined American ideas on jet manufacture with a British Nene engine license-built by Hispano-Suiza. It had a reputation as a strong climber with excellent handling characteristics, and a stable firing platform. It was the official jet of the French aerobatic team for two years. Production for the Armee de l'Air ran from 1951 to 1954, who used it to replace their British Vampires. The Indians called it the Toofani (Hurricane), with production of their order beginning in 1953. The Israelis received their initial 12 in 1955; they later augmented this by buying another 40 of the French Ouragans after they left active service. In operation service it was used as a fighter-bomber as well as in straight fighter roles.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=md_450b_ouragan Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=md_450b_ouragan Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|UXaIKX58Rd4|'''The Shooting Range #70''' - ''Pages of History'' section at 06:26 discusses the M.D.450B Ouragan.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[M.D.452 IIA]]
+* [[M.D.452 IIA]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/385701-md450b-ouragan/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/385701-md450b-ouragan/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Dassault}}
 {{France jet aircraft}}

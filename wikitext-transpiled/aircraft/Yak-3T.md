@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet fighter {{Battle-rating}}. It was introduced during [[Update 1.67 "Assault"]] as a reward for the 2017 [[wt:en/news/4648-special-war-thunder-chronicles-en|War Thunder Chronicles]] event.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -45,7 +42,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet fighter {{
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || X || ✓ || X || X <!-- ✓ -->
+| X || X || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -76,10 +73,9 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet fighter {{
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 64 mm bulletproof glass - Behind pilot
+* 64 mm bulletproof glass - Behind pilot
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -88,15 +84,13 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet fighter {{
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|N-37 (37 mm)|B-20S (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 1 x 37 mm N-37 cannon, nose-mounted (25 rpg)
-- 2 x 20 mm B-20S cannons, nose-mounted (100 rpg = 200 total)
+* 1 x 37 mm N-37 cannon, nose-mounted (25 rpg)
+* 2 x 20 mm B-20S cannons, nose-mounted (100 rpg = 200 total)
 
 == Usage in battles ==
 ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
@@ -123,14 +117,13 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 '''Pros:'''
 
--
+*
 
 '''Cons:'''
 
--
+*
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The idea to produce a new fighter for the Red Army Air Force went as far back as 1941. It was then that the Yakovlev Design Bureau presented the I-30 prototype, intended an alternative to the earlier Yak-1 design. However, the German invasion of the USSR, as well as aluminium shortages, meant that the project had to be put on hold. Yakovlev resumed the development in 1943 while working on an upgraded version of the Yak-1 fighter. This time, it was decided that a new aircraft should be produced to completely replace the Yak-1 and Yak-7 models.
@@ -144,12 +137,10 @@ The new fighter quickly became very popular with Soviet pilots. They highly prai
 The Yak-3P was produced from April 1945 until mid-1946, armed with 3 x 20 mm Berezin B-20 cannon with 120 rounds for the middle cannon and 130 RPG for the side weapons. The three-cannon armament with full ammunition load was actually 11 kg (24 lb) lighter than that of a standard Yak-3, and the one-second burst mass of 3.52 kg (7.74 lb) was greater than that of most contemporary fighters. Starting in August 1945, all Yak-3 were produced in the Yak-3P configuration with a total of 596 built.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=yak-3t Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=yak-3t Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|UMCGzhRFKzc|'''The Shooting Range #42''' - ''Pages of History'' section at 07:04 discusses the Yak-3T.}}
@@ -157,17 +148,16 @@ The Yak-3P was produced from April 1945 until mid-1946, armed with 3 x 20 mm Ber
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/4673-development-ww2-chronicles-vehicles-yak-3t-ussr-en|[Devblog] WW2 Chronicles vehicles: Yak-3T (USSR)]]
-- [https://forum.warthunder.com/index.php?/topic/361708-yak-3t/ Official data sheet - more details about the performance]
+* [[wt:en/news/4673-development-ww2-chronicles-vehicles-yak-3t-ussr-en|[Devblog] WW2 Chronicles vehicles: Yak-3T (USSR)]]
+* [https://forum.warthunder.com/index.php?/topic/361708-yak-3t/ Official data sheet - more details about the performance]
 
 === References ===
 <references />

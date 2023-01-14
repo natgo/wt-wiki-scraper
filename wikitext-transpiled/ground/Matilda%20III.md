@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=uk_a_12_mk_2_matilda_2
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' (or just '''{{Specs|pseudonym}}''') is a rank {{Specs|rank}} British heavy tank {{Battle-rating}}. It was introduced in [[Update 1.55 "Royal Armour"]] along with the rest of the initial British Ground Forces Tree. The {{Specs|pseudonym}} in the game reflects its real-life counterpart with its extreme slow speed, but formidable front armour.
 
 The Matilda is a great character on the battlefield. The name and its historical significance makes the Matilda a more noteworthy target than your teammates. The Matilda should be played like most other heavy tanks, absorbing damage for your team mates and dealing damage against the enemy as they try to penetrate your armour. Stay away from the front line to maximise armour effectiveness with distance.
@@ -19,13 +17,11 @@ The Matilda is a great character on the battlefield. The name and its historical
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
-- Cast homogeneous armour (Front hull, Turret, Side top)
-- Rolled homogeneous armour (Hull side, Hull rear, Hull roof)
+* Cast homogeneous armour (Front hull, Turret, Side top)
+* Rolled homogeneous armour (Hull side, Hull rear, Hull roof)
 
 {| class="wikitable"
 |-
@@ -40,14 +36,13 @@ The Matilda is a great character on the battlefield. The name and its historical
 |}
 '''Notes:'''
 
-- Suspension wheels and tracks are both 20 mm thick.
-- Side skirts are not all flat. Small protrusions in the center area go inwards by 54° and are 13 mm thick, giving that portion 40 + 13 mm thick.
-- Smoke Launchers on right side of tank.
-- On the frontal lower glacis there's another 40 mm thick armour plate right behind 22 mm thick armour.
+* Suspension wheels and tracks are both 20 mm thick.
+* Side skirts are not all flat. Small protrusions in the center area go inwards by 54° and are 13 mm thick, giving that portion 40 + 13 mm thick.
+* Smoke Launchers on right side of tank.
+* On the frontal lower glacis there's another 40 mm thick armour plate right behind 22 mm thick armour.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=245|rbMinHp=168}}
@@ -59,9 +54,7 @@ The Matilda is a great character on the battlefield. The name and its historical
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|QF 2-pounder (40 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -129,9 +122,7 @@ The Matilda is a great character on the battlefield. The name and its historical
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.5.1.106''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -150,8 +141,8 @@ The Matilda is a great character on the battlefield. The name and its historical
 |}
 '''Notes:'''
 
-- Racks disappear after you've fired all shells in the rack.
-- Turret empty: 53&nbsp;''(+40)'' shells.
+* Racks disappear after you've fired all shells in the rack.
+* Turret empty: 53&nbsp;''(+40)'' shells.
 
 ==== Optics ====
 {| class="wikitable" style="text-align:center" width="50%"
@@ -171,9 +162,7 @@ The Matilda is a great character on the battlefield. The name and its historical
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|BESA (7.92 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -187,9 +176,7 @@ The Matilda is a great character on the battlefield. The name and its historical
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 If attacking, the Matilda should take point in the attacking force (if your team will wait for you) and crawl slowly towards the enemy locations with support from your team members. Stop and fire at any target that reveals itself to attack you. When defending, park some distance away from a choke point to a vital area and blast enemies as they try to enter. Remember to maintain team support so that enemies don't try to out manoeuvre you. Make sure to keep a safe distance away from the enemy to maximise the effectiveness of your armour with the shell damage drop-off. Like this, your armour will be very hard to penetrate. At the same time use the [[Ordnance QF 2-pounder (40 mm)|2-pounder gun]] to attack the enemy. Close-distance fighting is ill-advised as opponents will be able to more easily penetrate the front armour and find weak points. A very important tip to know about the {{Specs|pseudonym}} is to not go into towns. You will be easily outmanoeuvred, allowing your opponents to get close and flank and destroy you.
 
 Opponents that deserve extra attention are the tank destroyers. The two German Marders carry a gun that can easily knock you out at long range, especially the [[Marder III H]], but those have thin armour, so use that to your advantage. The more armoured German TD, the StuG III, is even more dangerous. The [[StuG III A]] carry the [[KwK37 (75 mm)|short 75 mm]] that can fire high-penetrating HEAT rounds while its front armour can resist the 2-pounder's shots from a longer distance. The [[StuG III F]] is a bigger problem with its [[StuK40 (75 mm)|longer 75 mm gun]] and thicker armour. The Matilda will have a hard time to fight the StuGs due to the front armour and inability to manoeuvre to hit the side armour, thus it would be better to leave that to more manoeuvrable team members.
@@ -197,36 +184,33 @@ Opponents that deserve extra attention are the tank destroyers. The two German M
 Other tanks to worry about are the more common medium tanks each nation carries from the [[M4A1|M4 Shermans]], [[Pz.IV F2|Panzer IVs]], and [[T-34 (1941)|T-34s]]. These medium tanks have frontal armour able to resist the Matilda's 2-pounder rounds and easily out manoeuvre it as well. The most noteworthy tank to worry about is the Panzer IV with the long 75 mm guns, which can easily destroy your frontal armour.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Excellent armour, comparable to [[KV-1 (L-11)]]
-- Fast reloading gun with decent penetration
-- Great in-game gun depression -20° to +20°
-- Good turret rotation
-- Small profile for a heavy tank
-- Fast reload rate
-- Can be paired with enemy tanks that the 2-pounder can destroy while they can't easily penetrate Matilda's armour
+* Excellent armour, comparable to [[KV-1 (L-11)]]
+* Fast reloading gun with decent penetration
+* Great in-game gun depression -20° to +20°
+* Good turret rotation
+* Small profile for a heavy tank
+* Fast reload rate
+* Can be paired with enemy tanks that the 2-pounder can destroy while they can't easily penetrate Matilda's armour
 
 '''Cons:'''
 
-- Pitiful mobility, even for British infantry tanks
-- Gun is ineffective against heavily armoured foes like the KV-1 and the Churchill
-- Gun is inaccurate at longer ranges
-- Slow, can't outflank others and will take a long time just to get to the combat zone
-- Doesn't like hills and other obstacles
-- Small calibre gun
-- 3/4 crew in turret, a single shot will knock out the tank
-- Can be easily penetrated by HEAT and APCR shells, especially from German tanks
-- Small size makes penetrating shot more likely to incapacitate entire crew
-- Can be paired against higher tanks like the [[Pz.IV F2|Panzer IV F2]] that can easily penetrate armour
+* Pitiful mobility, even for British infantry tanks
+* Gun is ineffective against heavily armoured foes like the KV-1 and the Churchill
+* Gun is inaccurate at longer ranges
+* Slow, can't outflank others and will take a long time just to get to the combat zone
+* Doesn't like hills and other obstacles
+* Small calibre gun
+* 3/4 crew in turret, a single shot will knock out the tank
+* Can be easily penetrated by HEAT and APCR shells, especially from German tanks
+* Small size makes penetrating shot more likely to incapacitate entire crew
+* Can be paired against higher tanks like the [[Pz.IV F2|Panzer IV F2]] that can easily penetrate armour
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 [[File:Matilda II Italy.jpg|thumb|right|A captured Matilda II in North Africa.]]
 ===Development===
 With the development of tanks, the British Army doctrine regarding tanks split the classification into two types, the infantry and cruiser tanks. Cruiser tanks were high-speed tanks meant to exploit breakthroughs in enemy lines while infantry tanks were tanks meant to support the infantry advances. Tank developments were based off these classifications. Then in 1934, Major-General Percy Hobart came with a concept for two types of infantry tanks, one machine-gun armed tank with heavy armour and another heavier armoured tank with a cannon and machine gun. The former was developed by Vickers into the A11 Infantry Tank Mark I, or the A11 Matilda. The larger cannon-armed infantry tank was not produced for some time due to finance restrictions. The designing for the latter infantry tank started with the General Staff specification '''A12''' given in 1936. It was considered an improvement over the A11 Matilda and was produced by Woolwich, with Vulcan Foundry as the manufacturer. The A12 took many design implements of an older medium tank known as A7. The increased armour of the developing tank suffered from a lack of engine power, to which it was solved with two AEC diesel engines used in London buses. An order for two wooden mock-ups and two steel prototypes were made to Vulcan in November 1936, to which they presented the wooden ones in 1937 and the steel prototypes in April 1938. The functioning prototype performed well in a 1,000 mile test and only required a few modifications to improve the gearbox, suspension, and the engine cooling. With the approach of World War II, the A12 was adopted and designated the '''A12 Infantry Tank Mk.II Matilda II''', but became more widely known by the name '''Matilda''' than its predecessor. The first orders were made after the trials with an order for 140 made in June 1938. Production started from 1937 from its test trials and lasted to 1943 with a total of 2,987 Matilda IIs produced.
@@ -242,26 +226,22 @@ The Matilda II saw service again in the North African Campaign against the Itali
 After being taken out of service in a front-line role, the Matilda II still saw service among British Allies. The Soviets received about 918 Matilda IIs, to which they used in the Battle of Moscow. Despite the unreliability and slowness of the Matilda II, they were used in the same capacity as their [[KV-1 (L-11)|KV-1]] heavy tanks, but the reduced firepower of the 2-pounder. Though most were lost by 1942, some were still seen as late as 1944. In the Pacific, the Matilda II continued to see use among the Australian forces, such as the 4th Armoured Brigade. It saw service in the Huon Peninsula Campaign in October 1943 and remained in service up until the end of the war. The Matilda II stayed in service due to the inferior tank designs of the Japanese tanks and the lack of heavy anti-tank guns, causing the Matildas to become dangerous foes against the Japanese forces. A few Matildas were captured by the Axis forces when a few were damaged in Operation Battleaxe, to which they were repaired and put into service by the Germans as the Infanterie Panzerkampfwagen Mk.II 748(e), which were well received by German troops despite causing confusion on friend-foe identity between the different sides.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a_12_mk_2_matilda_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a_12_mk_2_matilda_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|gR3JPNt0iPw|'''Heavyweight brits''' discusses the {{PAGENAME}} at 2:34 - ''War Thunder Official Channel''|4_cJ1CpEatw|'''Best gun depression''' discusses the {{PAGENAME}} at 3:43 - ''War Thunder Official Channel''|DMSj1XIQ1wo|'''The Matilda Diaries Special - Breech Operation''' - ''The Tank Museum''}}
+{{Youtube-gallery|gR3JPNt0iPw|'''Heavyweight brits''' discusses the {{PAGENAME}} at 2:34 - ''War Thunder Official Channel''|4_cJ1CpEatw|'''Best gun depression'''  discusses the {{PAGENAME}} at 3:43 - ''War Thunder Official Channel''|DMSj1XIQ1wo|'''The Matilda Diaries Special - Breech Operation''' - ''The Tank Museum''}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{Britain heavy tanks}}

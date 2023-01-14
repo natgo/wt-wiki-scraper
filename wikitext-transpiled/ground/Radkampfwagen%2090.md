@@ -1,20 +1,16 @@
 {{Specs-Card
 |code=germ_radpanzer_90
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} German light tank {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 The Radkampfwagen 90, being a light tank, is surprisingly survivable. When talking about the survivability of this vehicle, it is best to separate the tank into two parts, the turret, and the hull.
 
 '''The Hull'''
@@ -33,9 +29,9 @@ This allows you to engage such vehicles with relative ease and destroy them wher
 
 '''Armour Type'''
 
-- High Hardness Rolled Armour (HHRA)
-- Rolled Homogeneous Armour (RHA)
-- Cast Homogeneous Armour
+* High Hardness Rolled Armour (HHRA)
+* Rolled Homogeneous Armour (RHA)
+* Cast Homogeneous Armour
 
 {| class="wikitable"
 |-
@@ -49,14 +45,13 @@ This allows you to engage such vehicles with relative ease and destroy them wher
 
 '''Notes:'''
 
-- There is a lining of 16 mm RHA between the sponsons and the crew compartment, creating spaced armour on the sides of the vehicle.
-- There are optics apertures at the sides of the turret, which have a 50 mm armour plate and a 8 mm armour plate, along with the 20 mm optics. These are essentially a hole in the spaced armour of the turret sides, but most rounds go through the spaced armour anyway so it isn't really a weakness.
-- Turret Ring - 50 mm
-- Tires and Suspension - 10 mm
+* There is a lining of 16 mm RHA between the sponsons and the crew compartment, creating spaced armour on the sides of the vehicle.
+* There are optics apertures at the sides of the turret, which have a 50 mm armour plate and a 8 mm armour plate, along with the 20 mm optics. These are essentially a hole in the spaced armour of the turret sides, but most rounds go through the spaced armour anyway so it isn't really a weakness.
+* Turret Ring - 50 mm
+* Tires and Suspension - 10 mm
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=1,286|rbMinHp=734}}
@@ -68,9 +63,7 @@ This allows you to engage such vehicles with relative ease and destroy them wher
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|L7A3 (105 mm)}}
 
 The L7A3 105 mm gun mounted on the Radkampfwagen 90 is the same as the gun that the Leopard 1 series uses, and is the same in many aspects. Similar to the Leopard A1A1, the gun is equipped with a two-plane stabilizer allowing for firing on the move. The gun also has faster targeting speed at 5.1 degrees per second compared to the Leopard 1's 3.1 degrees per second in the vertical plane, but the turret traverse speed of the Radkampfwagen, or horizontal targeting speed, certainly leaves something to be desired. A unique thing about this particular L7 is that it fires one of the best L7 APFSDS shells in the game, with higher penetration than even the first Rheinmetall 120 mm L44 APFSDS shell.
@@ -136,9 +129,7 @@ The L7A3 105 mm gun mounted on the Radkampfwagen 90 is the same as the gun that 
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x200px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -153,19 +144,17 @@ The L7A3 105 mm gun mounted on the Radkampfwagen 90 is the same as the gun that 
 |}
 '''Notes:'''
 
-- The 4th rack is a first stage ammo rack, so it refills from the other racks in the designated order.
+* The 4th rack is a first stage ammo rack, so it refills from the other racks in the designated order.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|MG3A1 (7.62 mm)}}
 
 The coaxially mounted 7.62 mm MG3A1 is, in most situations, not useful. While being able to "blind" opponents by shooting at their optics, as with any MG, and able to easily dispatch of vehicles with exposed crew that have uptiered themselves, such as the [[M56]], 2 factors really hold this MG back from being truly useful. These are:
 
-- The MG is mounted coaxially, limiting its traverse and AA capabilities (especially against helicopters)
-- This MG has very low penetration, as almost any thin armoured plate can withstand its fire
+* The MG is mounted coaxially, limiting its traverse and AA capabilities (especially against helicopters)
+* This MG has very low penetration, as almost any thin armoured plate can withstand its fire
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -178,9 +167,7 @@ The coaxially mounted 7.62 mm MG3A1 is, in most situations, not useful. While be
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 '''General Playstyle'''
 
 The Radkampfwagen 90 may be used in a flanking manner thanks to its speed, being able to go around the enemy and surprise them where they do not expect. When flanking, it is recommended to use roads if possible, as the Radkampfwagen is a wheeled vehicle, and rough terrain will slow it down. However, even offroad, the vehicle is still capable of speeds that are much higher than many other contemporary MBTs. The scouting ability of the Radkampfwagen can also be very useful, as it can help you support your team without risking the possibility of being spotted/noticed by firing your gun. The only downside to this playstyle is that the Radkampfwagen is unusually large in size, most notably the hull, which makes it easier to be spotted.
@@ -196,32 +183,30 @@ In Arcade, the playstyle of the Radkampfwagen changes a bit. Due to markers that
 In Realistic, the Radkampfwagen's speed and scouting abilities are even more prominent. As mentioned above, it can flank around the enemy with stealth, and either scout enemies for the team or quickly knock them out with its very punchy gun. The team also will benefit from its scouting abilities, as in a game mode without enemy markers, intel on the enemies whereabouts can be crucial to the team's victory.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Very mobile and very fast on both roads and cross-country terrain
-- Has DM33 round available for research
-- Very competitive, gun performs great even in uptiered battles
-- Hull is resistant against most heavy machine guns
-- Spaced armour in the front and is resistant against low calibre SPAA and IFV fire
-- Same turret as the Leopard 2K, can sometimes bounce shots
-- Is not sluggish at low speed
-- Great reverse speed
-- Has great optics (8x-16x zoom), making it a great sniper
+* Very mobile and very fast on both roads and cross-country terrain
+* Has DM33 round available for research
+* Very competitive, gun performs great even in uptiered battles
+* Hull is resistant against most heavy machine guns
+* Spaced armour in the front and is resistant against low calibre SPAA and IFV fire
+* Same turret as the Leopard 2K, can sometimes bounce shots
+* Is not sluggish at low speed
+* Great reverse speed
+* Has great optics (8x-16x zoom), making it a great sniper
 
 '''Cons:'''
 
-- Does not have anti-aircraft machine gun
-- Can be destroyed with overpressure by HE shells, artillery strikes and bombs
-- Does not have thermal sights, putting it at a disadvantage of other vehicles at its rank
-- Has a large silhouette
-- Only average turret rotation of 24°/sec spaded, below average for such a mobile vehicle which would benefit from better gun handling (i.e. like the Rooikat)
-- Is littered with ammo
+* Does not have anti-aircraft machine gun
+* Can be destroyed with overpressure by HE shells, artillery strikes and bombs
+* Does not have thermal sights, putting it at a disadvantage of other vehicles at its rank
+* Has a large silhouette
+* Only average turret rotation of 24°/sec spaded, below average for such a mobile vehicle which would benefit from better gun handling (i.e. like the Rooikat)
+* Is littered with ammo
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 In the early 1980s, the German Federal Ministry of Defence, known as the Bundesministerium der Verteidigung (BMVg) in German, initiated a program to produce an eight-wheeled combat vehicle. The reason for the program's creation was the success of the Spähpanzer 2 Luchs and the Transportpanzer Fuchs, along with vehicles operated by other countries, such as the French AMX-10RC. Daimler-Benz was tasked with the construction of such a vehicle, and the requirements were for an 8 x 8 wheeled combat vehicle with a weight of less than 30 tons and a powerful armament and adequate armour. The first prototype was built in 1983, and was first known as the Demonstrationsfahrzeug Rad (demonstration vehicle wheeled) and then the Experimentalfahrzeug Rad (8×8), meaning experimental vehicle wheeled (8×8). It finally received the name Radpanzer 90, and it is known as the Radkampfwagen 90 in War Thunder. The final production model was completed in 1986. It featured a rear-mounted engine, had an independent suspension for the wheels, and the turret was that of the Leopard 1A3. The Radpanzer 90 never entered service, but the information gathered from the program was later used in the development of the GTK Boxer wheeled vehicle.
@@ -234,12 +219,10 @@ As a result, the Ministry of Defense tasked the Daimler-Benz company, who had al
 The first, and what would end up being the only prototype was constructed in 1986, subsequently undergoing various trials. Despite proving itself as a highly capable vehicle and producing favorable test results, the dissolution of the Eastern Bloc and its Warsaw Pact alliance, caused not only the need for a vehicle such as the Radkampfwagen 90 to disappear, but also for a valid justification of accepting its high production costs. As the direct result of a combination of all these factors, further development of the project was suspended in the late '80s - early '90s, with the Radkampfwagen 90 project being ultimately abandoned.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_radpanzer_90 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_radpanzer_90 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="150">
@@ -255,33 +238,29 @@ File:Radpanzer 90 WTWallpaper 06.jpg|
 {{Youtube-gallery|chjZ6Hra--c|'''Best wheeled tanks''' discusses the {{PAGENAME}} at 04:49 - ''War Thunder Official Channel''|KZ6O1OKiShA|'''Should You Buy The RadKampfWagen 90?''' - ''Sako Sniper''|d5oJGOKiUV8|'''{{PAGENAME}} Tank Review''' - ''Napalmratte''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
-
-- [[Class 3 (P)]]
-- [[Rooikat 105]]
-- [[Type 16]]
-- [[WMA301]]
-- [[Centauro I 105 R]]
-- [[AMX-10RC]]
+* [[Class 3 (P)]]
+* [[Rooikat 105]]
+* [[Type 16]]
+* [[WMA301]]
+* [[Centauro I 105 R]]
+* [[AMX-10RC]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6635-development-radkampfwagen-90-a-leopard-on-wheels-en|[Devblog] Radkampfwagen 90: A leopard on wheels]]
+* [[wt:en/news/6635-development-radkampfwagen-90-a-leopard-on-wheels-en|[Devblog] Radkampfwagen 90: A leopard on wheels]]
 
 === References ===
 
 ;Biblbiography
-
-- Radpanzer 90. (2020, February 22). In ''Wikipedia''. https://de.wikipedia.org/w/index.php?title=Radpanzer_90&oldid=197067150
+* Radpanzer 90. (2020, February 22). In ''Wikipedia''. https://de.wikipedia.org/w/index.php?title=Radpanzer_90&oldid=197067150
 
 {{Germany light tanks}}
 [[Category:Wheeled ground vehicles]]

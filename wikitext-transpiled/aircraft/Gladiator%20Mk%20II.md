@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
 The Gladiator Mk II is one of the first British tech tree fighters that can be researched (the other two being the [[Hurricane Mk I/L]] and the [[Sea Gladiator Mk I]]), and once researched leads into the famous [[Spitfire (Family)|Spitfire]] fighter line.
@@ -20,16 +18,15 @@ At rank I {{Battle-rating}}, this plane will typically be one of the first fight
 
 There are a couple of issues with the Gladiator, all of which can make it an easy target at times:
 
-- Its power plant configuration, which includes a three-blade fixed-pitch propeller, can make the Gladiator a slug in acceleration and climb. In-flight testing the Gladiator can usually only sustain at most around 3,000 ft/min (roughly 15 m/s) in a climb at around 180 - 200 km/h (111 - 124 mph) indicated airspeed, and its top speed isn't great either (at sea level it can only manage around 335 km/h, and testing has yielded 396 km/h at 4,000 m altitude).
+* Its power plant configuration, which includes a three-blade fixed-pitch propeller, can make the Gladiator a slug in acceleration and climb. In-flight testing the Gladiator can usually only sustain at most around 3,000 ft/min (roughly 15 m/s) in a climb at around 180 - 200 km/h (111 - 124 mph) indicated airspeed, and its top speed isn't great either (at sea level it can only manage around 335 km/h, and testing has yielded 396 km/h at 4,000 m altitude).
 
-- The Gladiator manoeuvres well. However, it bleeds a lot of speed in sharp turns, and while its turn radius is good enough to shake off reserve planes, the loss of speed can make the plane a slower and henceforth a more vulnerable target to any other enemy planes in the area. Using flaps does help a bit with decreasing the amount of speed lost in a turn, but it is not beneficial enough to allow for minimal loss of speed. Like most early British fighters, it does not fare well in high-speed dives.
+* The Gladiator manoeuvres well. However, it bleeds a lot of speed in sharp turns, and while its turn radius is good enough to shake off reserve planes, the loss of speed can make the plane a slower and henceforth a more vulnerable target to any other enemy planes in the area. Using flaps does help a bit with decreasing the amount of speed lost in a turn, but it is not beneficial enough to allow for minimal loss of speed. Like most early British fighters, it does not fare well in high-speed dives.
 
 The Gladiator has four 7.7 mm (.303) Browning machine guns with a total of 2,000 rounds on hand. As with most other 7.7 mm guns the default rounds for the Browning's can be a bit weak in stopping power, but when equipped with tracer belts the four guns on this plane can be a deadly force to be reckoned with, as they can trigger fires and do a considerable amount of damage as a result.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!--''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''-->
 
 The Gladiator Mk II behaves very well in the sky, it got a decent acceleration to compared single set of wings fighters, but for a Biplane it got a excellent acceleration. manoeuvrability like many other Biplanes of War Thunder it's an excellent turnfighter and avoid bursts with, making it a plane to avoid trying to engage with at close combat. For a biplane it got an excellent speed to get close to the other biplanes but can also keep up with other fighter types can have problem with the acceleration to keep up with certain fighters. Its most important characteristics is being able to turn and keep up with other biplanes, being able to handle up to 11G and -5G make it a good plane to make tight turns without having to be concerned about the G force overload.
@@ -59,7 +56,7 @@ The Gladiator Mk II behaves very well in the sky, it got a decent acceleration t
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || ✓ || ✓ || X || X <!-- ✓ -->
+| X || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -104,7 +101,6 @@ The Gladiator Mk II behaves very well in the sky, it got a decent acceleration t
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!--''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''-->
 
 The Gladiator Mk II does not have any particular armour on the plane itself, making the pilot exposed to being hit by bullet can be fatal and instantly knocked unconscious. The survivability of the aircraft over all is decent when in its own BR and not facing any cannons other than most 7,62mm and 7,92mm Machine guns. But it's still best to avoid being hit as much as possible in the Gladiator Mk II since it does not have much armour its survivability can be questioned at the damage it can take before going down.
@@ -116,18 +112,15 @@ The Gladiator Mk II does not have any particular armour on the plane itself, mak
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Browning .303 (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 7.7 mm Browning .303 machine guns, nose-mounted (600 rpg = 1,200 total)
-- 2 x 7.7 mm Browning .303 machine guns, wing-mounted (400 rpg = 800 total)
+* 2 x 7.7 mm Browning .303 machine guns, nose-mounted (600 rpg = 1,200 total)
+* 2 x 7.7 mm Browning .303 machine guns, wing-mounted (400 rpg = 800 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 '''Simulator:'''
@@ -166,27 +159,24 @@ If you are not very experienced in Sim, you can also go for even bigger targets 
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Armament is equal to or better than other fighters in its battle rating range
-- Good manoeuvrability in a turn
-- Tracer belts, like all other planes fitted with Browning machine guns, can be deadly
-- Has flaps, unlike most other biplane fighters
+* Armament is equal to or better than other fighters in its battle rating range
+* Good manoeuvrability in a turn
+* Tracer belts, like all other planes fitted with Browning machine guns, can be deadly
+* Has flaps, unlike most other biplane fighters
 
 '''Cons:'''
 
-- Sluggish in acceleration and top speed (fixed-pitch propeller can exacerbate this problem)
-- Performance deficiencies can make it an easy target for experienced or more difficult adversaries
-- Not the best climber
-- Bleeds speed in turns, even when using flaps
+* Sluggish in acceleration and top speed (fixed-pitch propeller can exacerbate this problem)
+* Performance deficiencies can make it an easy target for experienced or more difficult adversaries
+* Not the best climber
+* Bleeds speed in turns, even when using flaps
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 One of the greatest claims to fame of the Gloster Gladiator was the Siege of Malta, which was, at the time, controlled by Great Britain. Because of the high value of Malta (it is only about 400 miles south of Italy, and on the map, it is an island in the middle of the Mediterranean), the IAF (Italian Air Force) using mainly SM.79 Sparviero bombers began bombing Malta into submission starting June 11, 1940. Due to the remote location of Malta and the fact that the British forces had to cover the Suez Canal, there were very few fighters available to defend against the IAF - so few that, as legend has it, there were only 3 Gloster Gladiators available: Faith, Hope, and Charity. In reality, there were at least 6 Gladiators, and after the first few weeks of the Siege, 4 [[Hurricane Mk I/L|Hurricanes]] en route to North Africa were pressed into service. Amazingly, against 40 - 50 bombers in the initial raids, the resistance was fierce enough to force the Italians to send a fighter escort of [[C.200 serie 3|MC.200 Saetta]] fighters. By the end of 1940, Malta was nowhere near defeated, and quite, on the contrary, the RAF claimed an impressive 45 kills. However, the antiquated Gladiators were retired, being replaced by more effective Hurricane IIAs and [[Spitfire (Family)|Spitfires]].
 
 {{break}}
@@ -204,12 +194,10 @@ A total of 746 Gladiator aircraft were produced, and served with distinction in 
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=gladiator_mk2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=gladiator_mk2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|iE4wTuJbe2I|'''The Shooting Range #40''' - ''Pages of History'' section at 05:13 discusses the Gladiator.|rpp-GqXiaKg|'''The Shooting Range #214''' - ''Air Triathlon'' section at 09:59 discusses the {{PAGENAME}}.}}
@@ -217,17 +205,16 @@ A total of 746 Gladiator aircraft were produced, and served with distinction in 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!--''Paste links to sources and external resources, such as:''
 
 * ''topic on the official game forum;''
 * ''other literature.''-->
 
-- [https://forum.warthunder.ru/index.php?/topic/197035-gloster-gladiator-mk-ii-iis-iif-taka/ Official data sheet - more details about the performance (Russian Forum)]
+* [https://forum.warthunder.ru/index.php?/topic/197035-gloster-gladiator-mk-ii-iis-iif-taka/ Official data sheet - more details about the performance (Russian Forum)]
 
 {{AirManufacturer Gloster}}
 {{Britain fighters}}

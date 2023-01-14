@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -45,7 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British fighter {{Battle-ratin
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || X || X || X || ✓ <!-- ✓ -->
+| X || X || X || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -90,11 +87,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British fighter {{Battle-ratin
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- No armour protection
-- Self-sealing fuel tanks
+* No armour protection
+* Self-sealing fuel tanks
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -103,17 +99,14 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British fighter {{Battle-ratin
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Vickers E (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 7.7 mm Vickers E machine guns, nose-mounted (600 rpg = 1,200 total)
+* 2 x 7.7 mm Vickers E machine guns, nose-mounted (600 rpg = 1,200 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The Nimrod Mk I has inadequate speed, but makes up for it with an excellent climb rate that will get it above most other biplanes. It is also a highly manoeuvrable. Being slow makes it easy prey to faster fighters, but that's where the manoeuvrability can come in play to avoid being a easy prey for superior fighters and make them bleed their energy.
@@ -140,24 +133,22 @@ Enemies to be aware of are aircraft like [[I-15 (Family)|I-15]] and [[Ki-10 (Fam
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Highly manoeuvrable
-- Efficient turn fighter
-- Excellent climb rate
-- Notable endurance
+* Highly manoeuvrable
+* Efficient turn fighter
+* Excellent climb rate
+* Notable endurance
 
 '''Cons:'''
 
-- Insufficient firepower
-- Inadequate speed
-- Frail durability
+* Insufficient firepower
+* Inadequate speed
+* Frail durability
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -179,24 +170,20 @@ A total of 57 Hawker Nimrod Mk.I fighters were built.
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=nimrod_mk1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=nimrod_mk1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer Hawker}}
 {{Britain fighters}}

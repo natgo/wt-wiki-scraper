@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet jet fighter {{Battle-rating}}. It was introduced in [[Update 1.31]].
 
 The Yak-15P is arguably one of the most underestimated planes in the game. Although its statcard reveals what would be considered "sub-par" performance and armament, the Yak-15P is both a unique and deadly fighter. Unlike its propeller-driven counterparts, this first generation jet aircraft wields the ability to hold on to energy in a straight line, whereas prop aircraft will slowly lose speed. Holding speed coupled with its excellent rate of turn allows the Yak-15P to defend itself against both propeller and jet-powered fighters, which is what it will typically face in all game modes.
@@ -21,7 +19,6 @@ The Yak-15P's major faults include a low top speed, poor acceleration, little ar
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -49,7 +46,7 @@ The Yak-15P's major faults include a low top speed, poor acceleration, little ar
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || X || ✓ || X || X || X <!-- ✓ -->
+| X || X || ✓ || X || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -115,10 +112,9 @@ The Yak-15P's major faults include a low top speed, poor acceleration, little ar
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 8.5 mm Steel - armour plate behind the pilot seat
+* 8.5 mm Steel - armour plate behind the pilot seat
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -129,22 +125,19 @@ Obtaining the "Offensive 23 mm" modification is the best choice as it allows for
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|NS-23K (23 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 1 x 23 mm NS-23K cannon, nose-mounted (60 rpg)
+* 1 x 23 mm NS-23K cannon, nose-mounted (60 rpg)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 In Realistic battles, climbing with this aircraft at the start of a match is not always the best course of action, considering how poor the Yak-15P's rate of climb is. Instead of the traditional and slow angled climb, the Yak-15P is best used in a "zoom climb" where once enough energy has been built up at a low altitude the Yak-15P pilot will pitch up, thus gaining altitude quickly. This way, if attacked during the first few minutes of the match, the Yak-15P still wields some energy whereas had the Yak-15P been slowly climbing, it would have had to face another aircraft's guns. To shake an enemy, especially a prop driven enemy, dive low to the ground to ensure your assailant's speed only decreases. This dive is called a "speed trap" and is effective when followed by either a "hammerhead" attack or a continuation of the escape. This tactic of utilising the Yak-15P's ability to hold on to energy in a straight line is negated when facing other jet aircraft who wield the same ability; however, this is where the Yak-15P's dogfighting abilities come into play. Because it is so similar to the Yak-3, the Yak-15P retains some of its manoeuvrability characteristics, namely its turn time. This facet often proves an indispensable one as other first-generation jets will not be able to maintain a tight enough turn circle.
 
-However, the Yak-15P is '''severely''' hampered in its damage output due to its reliance on a single 23 mm NS-23K cannon, with 60 shells total. Expending this pool in seconds is possible. The Yak-15P shares this downfall with aircraft like the [[Ki-200]], and the [[Me_163_B|Me 163]]. Firing in small, accurate bursts negates this and is the most efficient way of destroying enemies. The 23 mm shells these cannons fire are extremely deadly when they hit and often rip enemies apart.
+However, the Yak-15P is '''severely''' hampered in its damage output due to its reliance on a single  23 mm NS-23K cannon, with 60 shells total. Expending this pool in seconds is possible. The Yak-15P shares this downfall with aircraft like the [[Ki-200]], and the [[Me_163_B|Me 163]]. Firing in small, accurate bursts negates this and is the most efficient way of destroying enemies. The 23 mm shells these cannons fire are extremely deadly when they hit and often rip enemies apart.
 
 To use the guns most effectively, be close to your target. The reason for this is twofold: First, the limited ammo means you want your shots to count. Being close to your target will give your cannons the highest chance of hitting. The second reason is that of the ballistics of the 23 mm shells - their muzzle velocity is not very high, meaning you have to lead your targets by quite a bit. If you are closer to your mark, you won't have to lead them by quite as much, although still more than most other cannons.
 
@@ -153,29 +146,27 @@ With some practice, it is possible to consistently get about two fighter kills w
 In Arcade battles, the Yak-15P is capable of breaking up a "furball" due to its impressive turn time. The turn time coupled with its hard-hitting cannon makes any Yak-15P pilot an indispensable asset to any Arcade team.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Excellent turn time
-- Good armament
-- Outstanding roll rate
-- Fairly responsive at higher speeds
-- Great visibility in cockpit, good for spotting
+* Excellent turn time
+* Good armament
+* Outstanding roll rate
+* Fairly responsive at higher speeds
+* Great visibility in cockpit, good for spotting
 
 '''Cons:'''
 
-- Slow for a jet fighter
-- Extremely low ammunition count
-- Poor rate of climb
-- Poor acceleration
-- Lacks bulletproof glass
-- Inability to carry suspended armament
-- Low wing rip speed for a jet fighter
+* Slow for a jet fighter
+* Extremely low ammunition count
+* Poor rate of climb
+* Poor acceleration
+* Lacks bulletproof glass
+* Inability to carry suspended armament
+* Low wing rip speed for a jet fighter
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -197,26 +188,22 @@ Production of the Yak-15 was discontinued in 1947. In all, 280 planes were const
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=yak-15_early Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=yak-15_early Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/320875-yakovlev-yak-15/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/320875-yakovlev-yak-15/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Yakovlev}}
 {{USSR jet aircraft}}

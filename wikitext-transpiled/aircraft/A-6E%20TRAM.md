@@ -1,21 +1,17 @@
 {{Specs-Card
 |code=a_6e_tram
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage\_{{PAGENAME}}\_002.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage_{{PAGENAME}}_002.png}}
 |store=11805
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American strike aircraft {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -32,7 +28,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American strike a
 | 1,063 || 1,055 || rowspan="2" | {{Specs|ceiling}} || 48.0 || 49.0 || 58.3 || 44.0 || rowspan="2" | 1,100
 |-
 ! Upgraded
-| **_ || _** || **.\_ || **._ || \_\_._ || \__._
+| ___ || ___ || __._ || __._ || __._ || __._
 |-
 |}
 
@@ -43,7 +39,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American strike a
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || ✓ || ✓ || X <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || ✓ || X     <!-- ✓ -->
 |-
 |}
 
@@ -58,7 +54,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American strike a
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 1,322 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || N/A || 555 || 510 || ~** || ~**
+| 1,322 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || N/A || 555 || 510 || ~__ || ~__
 |-
 |}
 
@@ -68,7 +64,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American strike a
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < **_ || < _** || < \_\_\_ || N/A
+| < ___ || < ___ || < ___ || N/A
 |-
 |}
 
@@ -82,7 +78,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American strike a
 ! colspan="3" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
 | colspan="2" | Pratt & Whitney J52-P-8As || 2
-| colspan="3" | 12,647 kg || colspan="3" | \_\_\_ kg/m<sup>2</sup>
+| colspan="3" | 12,647 kg || colspan="3" | ___ kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="5" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
@@ -109,9 +105,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American strike a
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
 
 === Modifications and economy ===
@@ -121,93 +115,80 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American strike a
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** Without offensive armament
-  ** 60 x countermeasures
+* A choice between two presets:
+** Without offensive armament
+** 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.' -->
+The '''''A-6E TRAM''''' can be outfitted with the following ordinance presets: 
 
-The '''''A-6E TRAM''''' can be outfitted with the following ordinance presets:
-
-- 6x 500 lb LDGP Mk 82 bombs, 2x AIM-9L Sidewinder missiles, 2x 957 kg GBU-10 Paveway II guided bombs
-- 4x AIM-9G Sidewinder missiles
-- 4x AIM-9L Sidewinder missiles
-- 28x 500 lb LDGP Mk 82 bombs
-- 13x 1,009 lb LDGP Mk 83 bombs
-- 5x 957 kg GBU-10 Paveway II guided bombs
-- 5x 2,000 lb LDGP Mk 84 bombs
-- 28x 250 lb LDGP Mk 81 bombs
-- 9x 277 kg GBU-12 Paveway II guided bombs
-- 5x 1,092 lb GBU-16 Paveway II guided bombs
-- 10x Mk 77 mod 4 incendiary bombs
-- 40x Zuni Mk32 Mod 0 ATAP rockets
-- 190x FFAR Mighty Mouse rockets
-- 4x 20 mm Mk 11 mod 5 cannons
-- Countermeasures x960
+* 6x 500 lb LDGP Mk 82 bombs, 2x AIM-9L Sidewinder missiles, 2x 957 kg GBU-10 Paveway II guided bombs
+* 4x AIM-9G Sidewinder missiles
+* 4x AIM-9L Sidewinder missiles
+* 28x 500 lb LDGP Mk 82 bombs
+* 13x 1,009 lb LDGP Mk 83 bombs 
+* 5x 957 kg GBU-10 Paveway II guided bombs
+* 5x 2,000 lb LDGP Mk 84 bombs 
+* 28x 250 lb LDGP Mk 81 bombs
+* 9x 277 kg GBU-12 Paveway II guided bombs
+* 5x 1,092 lb GBU-16 Paveway II guided bombs 
+* 10x Mk 77 mod 4 incendiary bombs 
+* 40x Zuni Mk32 Mod 0 ATAP rockets
+* 190x FFAR Mighty Mouse rockets 
+* 4x 20 mm Mk 11 mod 5 cannons 
+* Countermeasures x960 
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Very large air-to-ground payloads, with many choices for suspended weaponry
-- Access to excellent AIM-9L all-aspect air-to-air missiles
-- Decent flight characteristics when lightly loaded makes it viable in dogfights
-- Built-in TRAM turret provides FLIR and laser-targeting capabilities
+* Very large air-to-ground payloads, with many choices for suspended weaponry
+* Access to excellent AIM-9L all-aspect air-to-air missiles
+* Decent flight characteristics when lightly loaded makes it viable in dogfights
+* Built-in TRAM turret provides FLIR and laser-targeting capabilities
 
 '''Cons:'''
 
-- No internal gun; taking gun pods or air-to-air missiles for self-defense reduces payload amount
-- Loses speed very quickly in turns
-- Gunpods have poor accuracy and are wing-mounted (convergence issue)
-- TRAM turret cannot look fully backwards
-- Relatively low top speed, acceleration and climb rate, especially when carrying heavy payloads
+* No internal gun; taking gun pods or air-to-air missiles for self-defense reduces payload amount 
+* Loses speed very quickly in turns 
+* Gunpods have poor accuracy and are wing-mounted (convergence issue)
+* TRAM turret cannot look fully backwards 
+* Relatively low top speed, acceleration and climb rate, especially when carrying heavy payloads
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-
 ''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/7984-development-aircraft-rank-viii-announce-and-pre-order-of-the-a-6e-tram-intruder-en|[Devblog] Aircraft Rank VIII announce and pre-order of the A-6E TRAM Intruder]]
+* [[wt:en/news/7984-development-aircraft-rank-viii-announce-and-pre-order-of-the-a-6e-tram-intruder-en|[Devblog] Aircraft Rank VIII announce and pre-order of the A-6E TRAM Intruder]]
 
 {{AirManufacturer Grumman}}
 {{USA jet aircraft}}

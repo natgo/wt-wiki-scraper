@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 The SU-76M shares a similar hull armour profile with the T-70 light tank on which it is based. The hull, with a large, well-angled 25 mm upper front plate, might bounce some shells when the hull is angled, but high-penetrating guns such as the 50 mm KwK39 can still penetrate it easily. Once penetrated the driver will get knocked out, or the transmission/engine will be broken, immobilising the tank. On the back of the hull, the SU-76M has a lightly armoured open-topped superstructure to accommodate the 76 mm gun. With a maximum thickness of only 25 mm and poor angling, the superstructure will not stop much more than heavy machine gun fire. Common tanks such as Pz.II, M3A3, AB 41, etc. are all able to penetrate the front of the fighting compartment with ease, and knock out any crew in the shell path. The crews are quite cramped together too, further decreasing the survivability against explosive-filled rounds. It is only able to resist rifle-calibre rounds or heavy machine gun fire from far away.
@@ -26,7 +23,7 @@ The thin armour might sometimes save you, as many tanks at the BR will still hav
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
+* Rolled homogeneous armour
 
 {| class="wikitable"
 ! Armour !! Front !! Sides !! Rear !! Roof
@@ -38,14 +35,13 @@ The thin armour might sometimes save you, as many tanks at the BR will still hav
 |}
 '''Notes:'''
 
-- Suspension wheels are 10 mm thick while tracks are 15 mm thick.
-- Belly armour is 7 mm thick.
-- The rear superstructure does not cover the entire crew compartment.
-- A 25 mm plate of armour separates the driver's and engine compartment to the rear fighting compartment.
+* Suspension wheels are 10 mm thick while tracks are 15 mm thick.
+* Belly armour is 7 mm thick.
+* The rear superstructure does not cover the entire crew compartment.
+* A 25 mm plate of armour separates the driver's and engine compartment to the rear fighting compartment.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=199|rbMinHp=124}}
@@ -59,9 +55,7 @@ The SU-76M has an adequate top speed of about 30 km/h. It does have a good power
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|ZIS-3 (76 mm)}}
 
 The SU-76M is armed with the 76 mm ZiS-3 field gun, a versatile artillery piece that is also capable of performing in the anti-tank role. It has a decent rate of fire, a wide traverse arc, and the ability to knock out most enemies at its BR, but the mounting has very poor gun depression due to the rearward placement of the superstructure.
@@ -155,9 +149,7 @@ It has a very wide-selection of ammunition, though only a few are worth using re
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_SU-76M.png|right|thumb|x250px|[[Ammo racks]] of the SU-76M.]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -172,7 +164,6 @@ It has a very wide-selection of ammunition, though only a few are worth using re
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 Like most turretless tank destroyers, the SU-76M needs to be handled with care. Not only does it not have a rotating turret, it is also lightly armoured, has an open top, and practically no protection from behind. The crew is quite exposed to air and rear attacks, which can disable them with even machine gun fire.
@@ -189,35 +180,33 @@ The main gun is the one and only aspect that makes the SU-76M a great vehicle, w
 
 '''Enemies worth noting:'''
 
-- [[M4A3 (105)]]: This low-rank Sherman posts a huge threat to every of its opponents due to its superior armour and destructive firepower. Its armour is overall quite tough to penetrate with your short 76 mm gun, but it can be solved by careful aiming. If the M4 is within 200 m, use default APHE to shoot at the vertical part of its gun mantlet or its side if exposed. If it's hull down within 100 m, only target the gun mantlet with either APHE or APCR to disarm it. When the M4 is further than 400 m away, all of your shells will perform poorly at penetrating its armour, so disengage or wait until it gets closer. Remember to not get hit by it, its HE or HEAT is likely to knock the SU-76 out with ease.
+* [[M4A3 (105)]]: This low-rank Sherman posts a huge threat to every of its opponents due to its superior armour and destructive firepower. Its armour is overall quite tough to penetrate with your short 76 mm gun, but it can be solved by careful aiming. If the M4 is within 200 m, use default APHE to shoot at the vertical part of its gun mantlet or its side if exposed. If it's hull down within 100 m, only target the gun mantlet with either APHE or APCR to disarm it. When the M4 is further than 400 m away, all of your shells will perform poorly at penetrating its armour, so disengage or wait until it gets closer. Remember to not get hit by it, its HE or HEAT is likely to knock the SU-76 out with ease.
 
-- [[B1 bis]]/[[B1 ter|ter]]: this is a French early-war heavy tank that is commonly used around your BR. Against other tanks the B1 can sometimes be an indestructible fortress on wheels, but fortunately the SU-76M is one of the few vehicles that hold the power to destroy such tough tanks. It is best to fire when the B1 has its front/side armour facing right at you without any angling. Target spots such as the section above the hull gun, the large engine vents at the side, or the side armour below the turret. The explosive-packed 76 mm shells should easily knock out multiple or even all of its crew members. If you do not feel confident, switch to APCR. Do not get hit by the B1, either of its cannons can destroy the SU-76 equally easily.
-- [[M13 MGMC|M13]]/[[M16 MGMC]], [[AS 42]], [[Flakpanzer 38]], etc: these vehicles with fast-firing autocannons or heavy machine guns are very dangerous to the SU-76M. They have adequate penetration to frontally penetrate the SU-76M's fighting compartment and knock out the crew easily. At the same time they are also thinly armoured meaning the SU-76's AP shells are likely to over-penetrate without exploding, dealing minimal damage. The SU-76 also is turretless and has no MG, making it even harder to respond to this type of vehicle quickly and effectively. It is best to stay in cover until they are distracted, reloading, or are disarmed. Be careful and quick since if you are a little slow they might respond faster than you expect with their fast-traversing guns. Being showered with bullets picking your crew members one after the other is not the most enjoyable experience.
+* [[B1 bis]]/[[B1 ter|ter]]: this is a French early-war heavy tank that is commonly used around your BR. Against other tanks the B1 can sometimes be an indestructible fortress on wheels, but fortunately the SU-76M is one of the few vehicles that hold the power to destroy such tough tanks. It is best to fire when the B1 has its front/side armour facing right at you without any angling. Target spots such as the section above the hull gun, the large engine vents at the side, or the side armour below the turret. The explosive-packed 76 mm shells should easily knock out multiple or even all of its crew members. If you do not feel confident, switch to APCR. Do not get hit by the B1, either of its cannons can destroy the SU-76 equally easily.
+* [[M13 MGMC|M13]]/[[M16 MGMC]], [[AS 42]], [[Flakpanzer 38]], etc: these vehicles with fast-firing autocannons or heavy machine guns are very dangerous to the SU-76M. They have adequate penetration to frontally penetrate the SU-76M's fighting compartment and knock out the crew easily. At the same time they are also thinly armoured meaning the SU-76's AP shells are likely to over-penetrate without exploding, dealing minimal damage. The SU-76 also is turretless and has no MG, making it even harder to respond to this type of vehicle quickly and effectively. It is best to stay in cover until they are distracted, reloading, or are disarmed. Be careful and quick since if you are a little slow they might respond faster than you expect with their fast-traversing guns. Being showered with bullets picking your crew members one after the other is not the most enjoyable experience.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Decent horizontal gun traverse of 30 degrees-no need to constantly adjust hull position
-- Great cannon, its deadly APHEBC packs a heavy blow for common opponents like the [[Panzer III (Family)|Pz.IIIs]], [[Crusader (Family)|Crusaders]] and [[M5 Stuart (Family)|M5 Stuarts]]
-- Offers a wide range of ammo to deal with various opponents: APHEBC for normal targets, HE/shrapnel for soft targets and APCR for the hard ones
-- Small profile makes it easy to hide and set up ambushes
-- Adequate acceleration and hull traverse
-- Carries up to 60 rounds of ammo which is plenty even for a long battle
+* Decent horizontal gun traverse of 30 degrees-no need to constantly adjust hull position
+* Great cannon, its deadly APHEBC packs a heavy blow for common opponents like the [[Panzer III (Family)|Pz.IIIs]], [[Crusader (Family)|Crusaders]] and [[M5 Stuart (Family)|M5 Stuarts]]
+* Offers a wide range of ammo to deal with various opponents: APHEBC for normal targets, HE/shrapnel for soft targets and APCR for the hard ones
+* Small profile makes it easy to hide and set up ambushes
+* Adequate acceleration and hull traverse
+* Carries up to 60 rounds of ammo which is plenty even for a long battle
 
 '''Cons:'''
 
-- Open topped, very vulnerable to strafing aircraft
-- Thin armour struggles to protect the crew from even .50 cal
-- -3 degrees of gun depression isn't enough for hill combat, and this flaw is sometimes fatal
-- No MG, so killing vehicles with light armour/exposed crew is rather ineffective, for example SPAAs
-- Poor reverse speed of only 5 km/h might get the player killed
-- Cannon penetrates poorly at more than 700 m. Will struggle to penetrate hard targets like the [[Matilda (Family)|Matildas]], early [[Churchill (Family)|Churchills]] and [[M4 Sherman (Family)|Shermans]]
+* Open topped, very vulnerable to strafing aircraft
+* Thin armour struggles to protect the crew from even .50 cal
+* -3 degrees of gun depression isn't enough for hill combat, and this flaw is sometimes fatal
+* No MG, so killing vehicles with light armour/exposed crew is rather ineffective, for example SPAAs
+* Poor reverse speed of only 5 km/h might get the player killed
+* Cannon penetrates poorly at more than 700 m. Will struggle to penetrate hard targets like the [[Matilda (Family)|Matildas]], early [[Churchill (Family)|Churchills]] and [[M4 Sherman (Family)|Shermans]]
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 === The way to Korea ===
@@ -233,27 +222,23 @@ China seized a Soviet T-62 medium tank after the Incident of Damansky Island in 
 ''(The Incident of Damansky Island is known as Self-defense and Counterattack in Zhen Bao Island in China, that seized T-62 is the well-known T-62 No.545.)''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=cn_su_76m_1943 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=cn_su_76m_1943 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
-- [[SU-76M (Family)]]
+* [[SU-76M (Family)]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{China tank destroyers}}

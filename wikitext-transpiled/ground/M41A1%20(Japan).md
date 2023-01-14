@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=jp_m41_walker_bulldog
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese light tank {{Battle-rating}}. It was introduced in [[Update 1.65 "Way of the Samurai"]] along with the rest of the initial Japanese Ground Forces Tree. It shares its performance with the American [[M41A1|M41 Walker Bulldog]].
 
 The playstyle of the M41A1 returns to the M24 after the previous medium tank in the line, the M4A3: shoot and scoot. The 'Bulldog' is best utilized as a flanker with its respectable 76 mm gun and high speed and manoeuvrability. Since the ammunition available is solid shot (no explosive filler), an idea of the internal layouts of the tanks it faces is necessary to make the shots count. At its current BR, it will regularly face American, British, Soviet, and in arcade battles, German heavy tanks, and anything it meets, including self propelled anti-aircraft vehicles will be able to reliable penetrate the M41A1's armour, so utilization of the terrain to maximize cover and good situational awareness is a must.
@@ -19,13 +17,11 @@ The playstyle of the M41A1 returns to the M24 after the previous medium tank in 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (Gun mantlet)
+* Rolled homogeneous armour
+* Cast homogeneous armour (Gun mantlet)
 
 {| class="wikitable"
 |-
@@ -40,8 +36,8 @@ The playstyle of the M41A1 returns to the M24 after the previous medium tank in 
 |}
 '''Notes:'''
 
-- Suspension wheels and tracks are both 15 mm thick.
-- Belly armour is 9.5 mm thick
+* Suspension wheels and tracks are both 15 mm thick.
+* Belly armour is 9.5 mm thick
 
 There aren't any specific targets worth noting as the M41A1 will be hurt by pretty much anything. Be extra careful with [[:Category:Anti-aircraft_vehicles|SPAAs]] as they can knock out the Walker Bulldog's components with ease and even destroy the tank.
 
@@ -49,7 +45,6 @@ If at all possible, try only to expose the turret. If using the terrain to the M
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=775|rbMinHp=442}}
@@ -61,9 +56,7 @@ If at all possible, try only to expose the turret. If using the terrain to the M
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|M32 (76 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -141,9 +134,7 @@ If at all possible, try only to expose the turret. If using the terrain to the M
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_M41A1.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.5.0.23''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -176,9 +167,7 @@ If at all possible, try only to expose the turret. If using the terrain to the M
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|M2HB (12.7 mm)|M1919A4 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -201,9 +190,7 @@ If at all possible, try only to expose the turret. If using the terrain to the M
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 Like the tanks that come before it, the Bulldog should be used as a rapid-deployment support vehicle in conjunction with heavier vehicles. It is best used to run rapid insertion and flanking operations while allowing the heavier tanks absorb the brunt of the enemy attack. The Bulldog's top speed does cap off-road, requiring good knowledge of the map to make the most of the terrain.
 
 Always remember that the Bulldog lacks any effective armour. In a frontal attack, it will be easily penetrated by almost anything the enemy throws at it. Try to use the terrain to hide the tank and relocate after shots. Also, attempt to engage targets who are busy or already engaged with a teammates. The Bulldog's 76 mm gun has great penetration, but due to the solid shot AP rounds it has it is necessary to make each shot count by hitting either ammo racks or fuel tanks/engines to disable and or destroy an enemy vehicle. Equipping HVAP rounds later on makes it easier to destroy vehicles with better side armour such as the [[IS-3]] which has a fairly strong side profile.
@@ -216,35 +203,32 @@ While playing this tank, the biggest concern should be not to get hit by anythin
 If up against heavy tanks, such as the [[Tiger II (H)]], don't bother trying to hit its front chassis armour even with APDS. The chances to penetrate this tank's upper glacis are very low. It is better to try and either ignoring him or aiming for his lower glacis and turret. Should the round penetrate the lower glacis, the transmission is likely to catch on fire. When attacking the turret, aim for the gunner on the left (player's right) of the gun. After that, disengage as the gunner will be replaced faster than the M41A1 can reload. Fighting off heavily armoured targets takes a lot of practice, but the gun's accuracy and good penetration can be used to the M41A1's advantage.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Extremely agile tank
-- Top speed of 72 km/h
-- Fast turret traverse (30.6°/s)
-- Fast reload rate
-- Respectable firepower when loaded with APDS
-- APDS has high muzzle velocity, easy to hit targets at longer ranges
-- Good flanker, but if the momentum is lost, it's over
-- Good suspension; can drive away from steep downhills and jumps
-- .50 cal AA machine gun with good coverage
+* Extremely agile tank
+* Top speed of 72 km/h
+* Fast turret traverse (30.6°/s)
+* Fast reload rate
+* Respectable firepower when loaded with APDS
+* APDS has high muzzle velocity, easy to hit targets at longer ranges
+* Good flanker, but if the momentum is lost, it's over
+* Good suspension; can drive away from steep downhills and jumps
+* .50 cal AA machine gun with good coverage
 
 '''Cons:'''
 
-- Low torque; without a downhill run, the tank won't reach higher speeds than 50 km/h
-- Thin armour, even SPAA tanks will take the M41A1 out given the opportunity
-- Its poor engine is its biggest weakness, makes it a bad scouting unit
-- Ammo storage in the front, next to the driver
-- APDS shot causes only punctual damage (aim carefully)
-- No explosive filler on any AP shells
-- Quite tall for a light tank
+* Low torque; without a downhill run, the tank won't reach higher speeds than 50 km/h
+* Thin armour, even SPAA tanks will take the M41A1 out given the opportunity
+* Its poor engine is its biggest weakness, makes it a bad scouting unit
+* Ammo storage in the front, next to the driver
+* APDS shot causes only punctual damage (aim carefully)
+* No explosive filler on any AP shells
+* Quite tall for a light tank
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 The U.S. Army light tank in the later part of World War II, the [[M24|M24 Chaffee]], was a promising design but was deemed not effective for the future of armour encounters. Though its role as a scout was seen as needing the 75 mm gun, the army wanted a tank with a better gun to have a more equal chance against tanks. The project began as the ''T37'' program in 1947 with the focus of being air-transportable with an anti-tank capability in the form of a 76 mm gun and a rangefinder. The adoption of a simplified rangefinder had the project designation changed to the ''T41''. After testings and evaluations, the ''T41'' model was accepted into service as the '''M41 Little Bulldog''', with production starting at Cadillac Cleveland Tank Plant in 1951. The name "Little Bulldog" stayed until General Walton Walker, the first commander of the 8th US Army in Korea, died in a car accident, so the tank was renamed into the '''M41 Walker Bulldog''' in remembrance. Production went from 1953 to somewhere in the late 1960s with about 3,728 units produced.
 
@@ -254,23 +238,19 @@ The M41 light tank would go on to replace the M24 Chaffees by 1953. The M41 had 
 In 1961, the United States gave 150 M41 Walker Bulldog tanks to the Japanese Self Defense Force to supplement their new and heavier [[Type 61]] main battle tank. These would see service all the way until 1981.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=jp_m41_walker_bulldog Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=jp_m41_walker_bulldog Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{Japan light tanks}}

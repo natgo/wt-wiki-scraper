@@ -5,29 +5,25 @@
 }}
 {{Specs-Card
 |code=kfir_canard
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage\_{{PAGENAME}}\_004.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage_{{PAGENAME}}_004.jpg}}
 |store=11812
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}'''; known as F-21A/Kfir Gaderot(C.1) in US/Israeli service, is a premium gift rank {{Specs|rank}} Israeli jet fighter {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
 
-The representation of the IAI Kfir C.1 variant in Israel Air Force service; the jet itself looks extremely like its technological predecessor [[Nesher]], based on Dassault [[Mirage 5 (Family)|Mirage 5]], but with a pair of fixed canards bolted onto the the sides of the air intake. It might somehow make it look like the later Mirage 2000, but it has an air-to-air armament inferior to its enemies and the combat limitations of delta-wing jets. For ground attack, the Kfir Canard still offers varieties of US bombs and rocket pods to make it effective against grouped targets.
+The representation of the IAI Kfir C.1 variant in Israel Air Force service; the jet itself looks extremely like its technological predecessor [[Nesher]], based on Dassault [[Mirage 5 (Family)|Mirage 5]], but with a pair of fixed canards bolted onto the the sides of the air intake. It might somehow make it look like the later Mirage 2000, but it has an air-to-air armament inferior to its enemies and the combat limitations of delta-wing jets. For ground attack, the Kfir Canard still offers varieties of US bombs and rocket pods to make it effective against grouped targets. 
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
-At first glance, the jet looks very similar to French's Mirage series and players might start to think about the tech-tree predecessor Nesher. However, closer inspection shows the major differences of the Kfir Canard over the Mirage 5/Nesher: a pitot tube, enlarged air intakes, a pair of canards on the intakes, a vertical stabilizer with a longer "spine" as well as a shorter tail. For players already used to the Nesher or Mirage IIICJ, they will quickly feel familiar to the Kfir. For new comers who are flying a delta-wing jet for the first time, they will have to keep in mind the traits of delta wing: high rate of climb, severely energy bleed under manoeuvre and rather high stall speed. But a good news for the Kfir series is the engine, due to the upgrade of engine from a Snecma Atar into a GE J79-GE-17 with higher thrust, the overall acceleration and manoeuvring ability in sustained turns is better than its predecessors (the fixed canard performs inferior to later variants with larger control-canards when pulling high AoA). Always remember the traits of delta-wings and stick to boom-and-zoom attacks rather than turnfights (unless in dire or 1-vs-1).
+At first glance, the jet looks very similar to French's Mirage series and players might start to think about the tech-tree predecessor Nesher. However, closer inspection shows the major differences of the Kfir Canard over the Mirage 5/Nesher: a pitot tube, enlarged air intakes, a pair of canards on the intakes, a vertical stabilizer with a longer "spine" as well as a shorter tail. For players already used to the Nesher or Mirage IIICJ, they will quickly feel familiar to the Kfir. For new comers who are flying a delta-wing jet for the first time, they will have to keep in mind the traits of delta wing: high rate of climb, severely energy bleed under manoeuvre and rather high stall speed. But a good news for the Kfir series is the engine, due to the upgrade of engine from a Snecma Atar into a GE J79-GE-17 with higher thrust, the overall acceleration and manoeuvring ability in sustained turns is better than its predecessors (the fixed canard performs inferior to later variants with larger control-canards when pulling high AoA). Always remember the traits of delta-wings and stick to boom-and-zoom attacks rather than turnfights (unless in dire or 1-vs-1). 
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at \_,**_ m)
+! colspan="2" | Max speed<br>(km/h at _,___ m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -36,10 +32,10 @@ At first glance, the jet looks very similar to French's Mirage series and player
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| _** || **\_ || rowspan="2" | {{Specs|ceiling}} || **._ || \_\_._ || **.\_ || **.\_ || rowspan="2" | **_
+| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
 |-
 ! Upgraded
-| _** || **\_ || **._ || \_\_._ || **.\_ || **.\_
+| ___ || ___ || __._ || __._ || __._ || __._
 |-
 |}
 
@@ -50,7 +46,7 @@ At first glance, the jet looks very similar to French's Mirage series and player
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || X || X || ✓ || X || ✓ <!-- ✓ -->
+| X || X || X || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -65,7 +61,7 @@ At first glance, the jet looks very similar to French's Mirage series and player
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || N/A || N/A || ~** || ~**
+| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || N/A || N/A || ~__ || ~__
 |-
 |}
 
@@ -75,7 +71,7 @@ At first glance, the jet looks very similar to French's Mirage series and player
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < **_ || < _** || < \_\_\_ || N/A
+| < ___ || < ___ || < ___ || N/A
 |-
 |}
 
@@ -88,38 +84,36 @@ At first glance, the jet looks very similar to French's Mirage series and player
 ! colspan="2" | Engine name || Number
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
 |-
-| colspan="2" | **\_** || _
-| colspan="2" | _,**_ kg || colspan="2" | _** kg/m<sup>2</sup>
+| colspan="2" | _____ || _
+| colspan="2" | _,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
-! \_m fuel || **m fuel || **m fuel
+! _m fuel || __m fuel || __m fuel
 |-
-| **_ kg || colspan="2" | _**
-| \_,**_ kg || _,\_** kg || \_,**_ kg || _,\_** kg
+| ___ kg || colspan="2" | ___
+| _,___ kg || _,___ kg || _,___ kg || _,___ kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
-! colspan="4" | Thrust to weight ratio @ 0 m (**_%/WEP)
+! colspan="4" | Thrust to weight ratio @ 0 m (___%/WEP)
 |-
-! Condition || 100% || _**%/WEP
-! \_m fuel || **m fuel || **m fuel || MGW
+! Condition || 100% || ___%/WEP
+! _m fuel || __m fuel || __m fuel || MGW
 |-
-| ''Stationary'' || **_ kgf || _** kgf
-| _.\_\_ || _.** || \_.** || \_.**
+| ''Stationary'' || ___ kgf || ___ kgf
+| _.__ || _.__ || _.__ || _.__
 |-
-| ''Optimal'' || \_** kgf<br>(\_ km/h) || **_ kgf<br>(_ km/h)
-| \_.** || _.\_\_ || _.** || \_.**
+| ''Optimal'' || ___ kgf<br>(_ km/h) || ___ kgf<br>(_ km/h)
+| _.__ || _.__ || _.__ || _.__
 |-
 |}
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
-The Kfir Canard relies upon not being hit to be effective, largely achieved through its phenomenal acceleration, sharp but brief manoeuvring capability, and level flight speed. The Kfir Canard features no armour protection for the pilot or otherwise. While the aircraft is quite small, the fuel tanks are positioned above the engine and in the wings with the control surfaces meaning that any hits to your airframe will likely result in either a fuel fire (which cannot be manually extinguished as the Kfir Canard lacks extinguishers) or the destruction of a control surface tractor. The Kfir Canard does not respond to even slight damage well and it is advised to return to the airfield if damage is taken, even if still airworthy. This is primarily because the Kfir Canard's main strengths - acceleration, speed, and temporarily exceptional manoeuvrability - are substantially mitigated when damage is taken in general, but even more so if endured by the wings or tail.
+The Kfir Canard relies upon not being hit to be effective, largely achieved through its phenomenal acceleration, sharp but brief manoeuvring capability, and level flight speed. The Kfir Canard features no armour protection for the pilot or otherwise. While the aircraft is quite small, the fuel tanks are positioned above the engine and in the wings with the control surfaces meaning that any hits to your airframe will likely result in either a fuel fire (which cannot be manually extinguished as the Kfir Canard lacks extinguishers) or the destruction of a control surface tractor. The Kfir Canard does not respond to even slight damage well and it is advised to return to the airfield if damage is taken, even if still airworthy. This is primarily because the Kfir Canard's main strengths - acceleration, speed, and temporarily exceptional manoeuvrability - are substantially mitigated when damage is taken in general, but even more so if endured by the wings or tail. 
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -128,28 +122,22 @@ The Kfir Canard relies upon not being hit to be effective, largely achieved thro
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|DEFA 552A (30 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 2 x 30 mm DEFA 552A cannons, belly-mounted (140 rpg = 280 total)
-  ** 2 x 30 mm DEFA 552A cannons + 36 x countermeasures
+* A choice between two presets:
+** 2 x 30 mm DEFA 552A cannons, belly-mounted (140 rpg = 280 total)
+** 2 x 30 mm DEFA 552A cannons + 36 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.' -->
-
-In terms of suspended weaponry, the Kfir Canard can carry AIM-9D or AIM-9G air-to-air missiles, FFAR Mighty Mouse or Zuni Mk.32 unguided rockets, 20 mm GAU-4 gunpods and a variety of 500, 750, 1,000, and 2,000 lb bomb options.
+In terms of suspended weaponry, the Kfir Canard can carry AIM-9D or AIM-9G air-to-air missiles, FFAR Mighty Mouse or Zuni Mk.32 unguided rockets, 20 mm GAU-4 gunpods and a variety of 500, 750, 1,000, and 2,000 lb bomb options. 
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Kfir Canard, like all other Kfirs in the Israeli tech tree, possesses a uniquely powerful motor relative to its size and weight, decent guns (when the Air targets belt is selected), mediocre if not situationally-acceptable missiles, and an ability to make sharp angular manoeuvres in a split second.
 
 The Kfir Canard should be ideally played as a support fighter, using your powerful engine, light airframe, and superb though brief high angle-of-attack manoeuvring characteristics to benefit. Only housing a proximity radar to gauge distance to target (max range of 5 km), the Kfir Canard suffers immensely when pitted at long ranges against aircraft with radar missile capability. It is advised not to engage or present yourself as an easily-acquirable target when jets like the F-4s, F-14s, F-16s, and various MiG-23s and MiG-29s in particular have advanced radar missiles which will make quick work of the Kfir Canard. This is especially true when caught at altitude, given the Kfir Canards's reliance on IAS (indicated air speed, essentially the relative flow of air over the jet's wings useful for manoeuvring) for making sharp adjustments to dodge/engage targets. The Kfir Canard is a nimble jet (though very fragile on account of the wing configuration, as any damage to the wings will be very noticeable) and flies very similarly to a MiG-21, though in a slightly more extreme form.
@@ -163,64 +151,55 @@ Given the Kfir Canard's ability to carry bombs, it can be used with some success
 However, the Kfir Canard can also be used as a support fighter, engaging unsuspecting targets from above and behind when fighting jets that lack look-up radar capability. It is recommended to simply select the 2 x AIM-Gs for this purpose. After accelerating to Mach 1 off the runway, climbing at a 30-40 degree angle until ~8,000+ m and getting to speed will usually place you above the enemy team where you can then utilize the high altitude in combination with the thinner air and long missile burn time to destroy preoccupied enemies below. After netting a kill or two, moving in to engage singular targets is preferable to take advantage of the Kfir Canard's ridiculous ability to pull brief, high-G turns in getting the DEFAs on target.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Fantastic acceleration and top straight-line speed
-- Ability to pull insanely high angle-of-attack manoeuvres for brief periods
-- Decent and reliable cannons with good ammo count and options
-- Good/great climb rate
-- Versatile payload options
-- Long missile burn time
-- Very strong when paired with a coordinated team
+* Fantastic acceleration and top straight-line speed
+* Ability to pull insanely high angle-of-attack manoeuvres for brief periods
+* Decent and reliable cannons with good ammo count and options
+* Good/great climb rate
+* Versatile payload options
+* Long missile burn time
+* Very strong when paired with a coordinated team
 
 '''Cons:'''
 
-- No outstanding missiles
-- Extremely fragile
-- Bleeds speed and energy rapidly upon sustaining turning manoeuvres
-- Limited flares/chaff (36)
-- No access to tracking/search radar
+* No outstanding missiles
+* Extremely fragile
+* Bleeds speed and energy rapidly upon sustaining turning manoeuvres
+* Limited flares/chaff (36)
+* No access to tracking/search radar
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 In the mid-1960s, as the requirements of Israel Air Force for a dedicated cost-reduction variant of Mirage III arose, Dassault Aviation designed Mirage 5 for their needs on defense against neighbouring countries. But after the complications of the late-1960s, Israeli also managed to built their own version of Mirage 5 known as the Nesher ("vulture") and they were built from September 1969 until 1974.
 
 What replaced their production was a heavily-modified variant of Nesher with some aerodynamic changes on the tail and intake; although still being a delta-wing fighter, the new Kfir ("lion cub") based on a "technologist" prototype in October 1970. Then, later, the prototype model known as Ra'am B (Thunder B) powered by a licensed GE J79 engine made its maiden flight in June 1973. Serial production started in April 1975 and they was first seen in the Independence Day's parade in 14th May. Although the timespan of their production was rather short due to the introduction of the F-15A, later Kfir series have been the selected fighters of different countries such as Ecuador, Sri Lanka and oddly enough, the United States in USN/USMC service. As the need for fast adversary jets for the Navy arose, 25 Kfir C.1, known as F-21A in US service were leased from Israel in 1985 for such purpose which fitted the need for an adversary of MiG-23 (NATO: Flogger) due to its rather impressive acceleration yet subpar manoeuvrability. As the replacement for adversary jets of F-5Es came into service, they were then sent back to Israel in 1989 and examples of them can still be found in different places in Israel, as well as US Mainland.
 
-The default delivery in-game represents the No. 703 of the 109th "Valley" Squadron of Israel Air Force (delivered as F-21 No.999703 of USN and returned to Israel in 1988<ref>https://abpic.co.uk/pictures/view/1148469</ref>).
+The default delivery in-game represents the No. 703 of the 109th "Valley" Squadron of Israel Air Force (delivered as F-21 No.999703 of USN and returned to Israel in 1988<ref>https://abpic.co.uk/pictures/view/1148469</ref>). 
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-
 ''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{Israel jet aircraft}}
 {{Israel premium aircraft}}

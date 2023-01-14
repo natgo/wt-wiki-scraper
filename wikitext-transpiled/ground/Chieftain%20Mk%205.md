@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=uk_chieftain_mk_5
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]]. The Chieftain Mk 5 carries over its strength from the [[Chieftain Mk 3|Mk 3]] variant, but with a more powerful engine for improved mobility.
 
 The fundamental average for Chieftain: its rate of shooting and its penetration. With Chieftain, there are few vehicles being able to resist the firepower, except perhaps [[T95]] or [[Maus]]. Shoot anywhere at the enemy with L15A3 shells, it will more than likely penetrate the armour. Know where to shoot, any enemies can be taken down with the 120 mm gun. That requires good knowledge of the enemy tanks. A Chieftain player will have to know where are the shells, fuel tanks, crews.
@@ -19,13 +17,12 @@ The fundamental average for Chieftain: its rate of shooting and its penetration.
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Cast homogeneous armour (hull front, turret front half, cupola)
-- Rolled homogeneous armour (hull sides, hull rear, hull roof, turret rear half, turret roof, cupola roof)
+* Cast homogeneous armour (hull front, turret front half, cupola)
+* Rolled homogeneous armour (hull sides, hull rear, hull roof, turret rear half, turret roof, cupola roof)
 
 {| class="wikitable"
 |-
@@ -41,14 +38,13 @@ The fundamental average for Chieftain: its rate of shooting and its penetration.
 
 '''Notes:'''
 
-- Suspension wheels and tracks are 20 mm thick while bogies are 19 mm thick.
-- Armour thickness throughout the vehicle is very complex and the tank relies more on sloping thickness to enhance its effective armour.
-- The metal boxes on the sides of the turret and hull are 13 mm of structural steel.
-- The belly of the {{PAGENAME}} is 15 mm thick (6°).
+* Suspension wheels and tracks are 20 mm thick while bogies are 19 mm thick.
+* Armour thickness throughout the vehicle is very complex and the tank relies more on sloping thickness to enhance its effective armour.
+* The metal boxes on the sides of the turret and hull are 13 mm of structural steel.
+* The belly of the {{PAGENAME}} is 15 mm thick (6°).
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=1,178|rbMinHp=672}}
@@ -60,21 +56,19 @@ The first upgrades to head for are ''Parts'' and ''FPE'' for increased survivabi
 
 ;Modules to get in order, maximizing recovery and speed first:
 
-- Parts
-- FPE
-- Tracks (critical for hull rotation speed)
-- Adjustment of Fire
-- Elevation Mechanism
-- Horizontal Drive
-- Other mobility upgrades as needed
+* Parts
+* FPE
+* Tracks (critical for hull rotation speed)
+* Adjustment of Fire
+* Elevation Mechanism
+* Horizontal Drive
+* Other mobility upgrades as needed
 
 == Armaments ==
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|Ordnance BL Tk. L11 (120 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -100,11 +94,11 @@ The Chieftain's 120 mm gun has access to APDS and HESH when stock, with a smoke 
 
 The available ammunition allows for engaging all types of targets:
 
-- '''L15A3''': APDS; an armour-piercing round with a discarding sabot that has a good penetration power and no explosive filler. As it lacks post-penetration damage, the tactic with an APDS shot is to either knock out the majority of the tank's crew or to provoke ammo or fuel detonation by targeting their respective locations. This requires good knowledge of the layouts of potential opposing vehicles. Use the Protection analysis feature in the hangar menu to analyse potential foes for their weak spots! Also, keep in mind that with increased armour thickness the number of shrapnel shrinks.
+* '''L15A3''': APDS; an armour-piercing round with a discarding sabot that has a good penetration power and no explosive filler. As it lacks post-penetration damage, the tactic with an APDS shot is to either knock out the majority of the tank's crew or to provoke ammo or fuel detonation by targeting their respective locations. This requires good knowledge of the layouts of potential opposing vehicles. Use the Protection analysis feature in the hangar menu to analyse potential foes for their weak spots! Also, keep in mind that with increased armour thickness the number of shrapnel shrinks.
 
-- '''L31A7''': HESH; a high-explosive squash head projectile works very differently from other shell types. It ignores any angle, except for ricochet, and deals damage by metal-flakes which are blown off inside the armour by the exterior explosion. To create this deadly shrapnel inside the tank, make sure to only hit armour plates which are a direct part of the interior crew compartment of the tank. Hitting exterior parts of a tank like spaced armour, the suspension, tracks etc. will not harm crew members/modules at all. Currently, only true armour thickness (as opposed to the line of sight thickness) will provide sufficient means of protection, benefiting the USSR turret designs and in general German tanks. Like all high-explosive shells, the fuse is very sensitive and can be set-off by most objects e.g. fences, trees, posts. The slow muzzle velocity of this shell can make it quite hard to hit targets at longer distances, but at the same time it can be handy because its arc trajectory allows it to land hits on enemies hiding behind shallow hills.
+* '''L31A7''': HESH; a high-explosive squash head projectile works very differently from other shell types. It ignores any angle, except for ricochet, and deals damage by metal-flakes which are blown off inside the armour by the exterior explosion. To create this deadly shrapnel inside the tank, make sure to only hit armour plates which are a direct part of the interior crew compartment of the tank. Hitting exterior parts of a tank like spaced armour, the suspension, tracks etc. will not harm crew members/modules at all. Currently, only true armour thickness (as opposed to the line of sight thickness) will provide sufficient means of protection, benefiting the USSR turret designs and in general German tanks. Like all high-explosive shells, the fuse is very sensitive and can be set-off by most objects e.g. fences, trees, posts. The slow muzzle velocity of this shell can make it quite hard to hit targets at longer distances, but at the same time it can be handy because its arc trajectory allows it to land hits on enemies hiding behind shallow hills.
 
-- '''L34''': Smoke; useful to blind enemy vehicles that are too remote for you to disable so that you can progress towards objectives.
+* '''L34''': Smoke; useful to blind enemy vehicles that are too remote for you to disable so that you can progress towards objectives.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="8" | Penetration statistics
@@ -156,9 +150,7 @@ The available ammunition allows for engaging all types of targets:
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x400px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.13.0.71''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -186,16 +178,14 @@ The available ammunition allows for engaging all types of targets:
 
 Notes:
 
-- The {{PAGENAME}} uses two-piece ammunition, composed of projectiles (yellow) and propellants (orange). Both have separate racks. Projectile racks can be seen on the upper part of the image while the propellant racks can be seen on the lower part.
-- Every propellant rack is encased by 5 mm of {{Annotation|RHA|Rolled homogeneous armour}}. In case of a successful penetration, the 5 mm of RHA provide protection against shrapnel. It however may not be enough to stop a direct hit to the propellant rack.
-- Projectile racks 10 to 13 and propellant racks 5 to 7 are the first stage ammo racks. They total 18 shots and get filled first when loading up the tank.
-- As to go into battle without any ammunition stored in the front hull, it is advised to bring 18&nbsp;''(+36)'' shells (projectile racks 1 to 9 emptied and propellant racks 1 to 4 emptied).
+* The {{PAGENAME}} uses two-piece ammunition, composed of projectiles (yellow) and propellants (orange). Both have separate racks. Projectile racks can be seen on the upper part of the image while the propellant racks can be seen on the lower part.
+* Every propellant rack is encased by 5 mm of {{Annotation|RHA|Rolled homogeneous armour}}. In case of a successful penetration, the 5 mm of RHA provide protection against shrapnel. It however may not be enough to stop a direct hit to the propellant rack.
+* Projectile racks 10 to 13 and propellant racks 5 to 7 are the first stage ammo racks. They total 18 shots and get filled first when loading up the tank.
+* As to go into battle without any ammunition stored in the front hull, it is advised to bring 18&nbsp;''(+36)'' shells (projectile racks 1 to 9 emptied and propellant racks 1 to 4 emptied).
 
 === Additional armament ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Some tanks are armed with several guns in one or more turrets. Evaluate the additional weaponry and give advice on its use. Describe the ammunition available for additional weaponry. Give advice on about how to use them and how to fill the ammunition storage. If there is no additional weaponry remove this subsection.'' -->
-
 {{main|L21A1 (12.7 mm)}}
 
 The 12.7 mm L21A1 machine gun is specifically used to determine ranging for the main gun. While the game indicates a very short clip of 3 rounds, it is in fact more accurate to say that the MG only fires small bursts of 3 rounds. It is not fired alongside the other machine guns but through the "Fire from secondary guns" option (Controls > Ground Vehicles > Weaponry).
@@ -213,9 +203,7 @@ The 12.7 mm L21A1 machine gun is specifically used to determine ranging for the 
 === Machine guns ===
 {{Specs-Tank-Weapon|3}}
 {{Specs-Tank-Weapon|4}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|L37A1 (7.62 mm)|L8A1 (7.62 mm)}}
 
 The small calibre of the 7.62 mm machine gun makes them largely ineffective against all armoured vehicles but the ones with an open compartment.
@@ -240,9 +228,7 @@ The small calibre of the 7.62 mm machine gun makes them largely ineffective agai
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 '''In long-range fight:'''<br>
 The gun is very precise with all the shooting amelioration. Do not forget to protect the frame, it is fragile. The turret armour protects the tank well. Invest in camouflage plants, one or two seconds lost by the aiming enemy is time gained to eliminate the threat.
 
@@ -254,42 +240,39 @@ Other tanks could be easily knocked out with fuel tank or disabled in aiming cre
 Be wary of the Chieftain's width, often the weak points are exposed when trying to turn the Chieftain.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Turret armour strong enough to bounce APDS, HEATFS and even some APFSDS shells
-- Upper frontal plate is heavily sloped, providing adequate protection against same tier rounds
-- Excellent reload time for a 120 mm (7.5s - 9.5s)
-- Access to 320 mm penetrating APDS shells and HESH shells immediately
-- 10 degrees of gun depression
-- Has access to a dual plane stabilizer
-- Includes an additional range finding .50 calibre machine gun that can be separately bound
-- Unlike other British tanks, it has a respectable reverse speed
-- Much faster and easier to handle than the Mk 3 model
-- Very effective in a hull down position
-- Excels in maps with a lot of open ground where it can go hull down effectively
+* Turret armour strong enough to bounce APDS, HEATFS and even some APFSDS shells
+* Upper frontal plate is heavily sloped, providing adequate protection against same tier rounds
+* Excellent reload time for a 120 mm (7.5s - 9.5s)
+* Access to 320 mm penetrating APDS shells and HESH shells immediately
+* 10 degrees of gun depression
+* Has access to a dual plane stabilizer
+* Includes an additional range finding .50 calibre machine gun that can be separately bound
+* Unlike other British tanks, it has a respectable reverse speed
+* Much faster and easier to handle than the Mk 3 model
+* Very effective in a hull down position
+* Excels in maps with a lot of open ground where it can go hull down effectively
 
 '''Cons:'''
 
-- Weak hull armour overall
-- APFSDS can go through this tank easily
-- The design of the tank only allows for a limited playstyle
-- Does not like fighting in small maps
-- Lower frontal plate is very poorly armored and has an ammo rack behind it
-- Very weak side and rear armour
-- Ammo rack everywhere but can be mitigated by carrying only 24 rounds
-- Small ammo variety (APDS or HESH only)
-- APDS deals minimal, punctual damage
-- APDS cannot reliably penetrate modern composite armour on most tanks; must aim for weak spots
-- Slowest of all MBTs
-- In an uptier, the {{PAGENAME}} is prone to fighting superior tanks such as the T-72AV, T-72B, AMX-40 and Leopard 2K
+* Weak hull armour overall
+* APFSDS can go through this tank easily
+* The design of the tank only allows for a limited playstyle
+* Does not like fighting in small maps
+* Lower frontal plate is very poorly armored and has an ammo rack behind it
+* Very weak side and rear armour
+* Ammo rack everywhere but can be mitigated by carrying only 24 rounds
+* Small ammo variety (APDS or HESH only)
+* APDS deals minimal, punctual damage
+* APDS cannot reliably penetrate modern composite armour on most tanks; must aim for weak spots 
+* Slowest of all MBTs
+* In an uptier, the {{PAGENAME}} is prone to fighting superior tanks such as the T-72AV, T-72B, AMX-40 and Leopard 2K
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Concept===
 The idea of a "universal tank" began in Britain in 1944 when Montgomery and other influential people began advocating for a more standardized tank to replace the cruiser and infantry tank classes used on the field. Efforts did not start until after World War II under the General Staff designation A45, with development starting just as the new cruiser tank [[Centurion Mk 3|Centurion]] started to enter military service. The A45 was cancelled in 1948 after development troubles and its inability to be used as a "universal" platform. Ironically, the Centurion proved to be a better "universal tank" platform than the A45.<ref name="DunstanChieftain">Dunstan Simon. ''Chieftain Main Battle Tank 1965-2003'' Great Britain: Osprey Publishing Ltd., 2003</ref>
 
@@ -310,39 +293,35 @@ Despite that, sales to the Middle East soared, with Iran being the major buyer o
 The Chieftain is still in service Iran, Jordan, and Oman in varying numbers, about 100 in Iran, 350 in Jordan, and 27 in Oman. The Chieftains underwent local upgrades to keep them up to date against a modern threat, which resulted in the Iran ''Mobarez'' Chieftain upgrade.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_chieftain_mk_5 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_chieftain_mk_5 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|l_091yu5mKg|'''Chieftain Mk 5 Tank Review''' - ''Napalmratte''|D3OF9IvtHLk|'''Tank Chats #34: Chieftain''' - ''The Tank Museum''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
 
-- [[Chieftain (Family)]]
+* [[Chieftain (Family)]]
 
 ;Other vehicles of similar configuration and role
 
-- [[T-62]]
+* [[T-62]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wikipedia:Chieftain_(tank)|[Wikipedia] Chieftain (tank)]]
-- [https://tanks-encyclopedia.com/coldwar/UK/chieftain.php <nowiki>[Tanks Encyclopedia]</nowiki> FV4201 Chieftain]
-- [https://www.militaryfactory.com/armor/detail.asp?armor_id=83 <nowiki>[Military Factory]</nowiki> Chieftain MBT]
+* [[wikipedia:Chieftain_(tank)|[Wikipedia] Chieftain (tank)]]
+* [https://tanks-encyclopedia.com/coldwar/UK/chieftain.php <nowiki>[Tanks Encyclopedia]</nowiki> FV4201 Chieftain]
+* [https://www.militaryfactory.com/armor/detail.asp?armor_id=83 <nowiki>[Military Factory]</nowiki> Chieftain MBT]
 
 === References ===
 <references />

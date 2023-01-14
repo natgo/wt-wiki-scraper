@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} American jet fighter {{Battle-rating}}. It was introduced in [[Update "Red Skies"]].
 
 The F-5 series are known to be small, lightweight, and nimble. The F-5E Tiger II, made famous by its use as a US Navy aggressor aircraft, improves on the earlier [[F-5A]] and [[F-5C]] with more powerful engines and a revised airframe, increasing its top speed, acceleration, and climb rate. It also has access to deadly AIM-9J missiles, similarly to the [[F-5A (China)|ROCAF F-5A]]. In air-to-air combat, the F-5E still suffers from a subpar top speed and limited armament compared to other top-tier Rank VII fighters, but it remains an excellent dogfighter that can cover the weaknesses of heavier US jets like the [[F-4E]] and [[F-4J Phantom II|F-4J]] Phantoms. In the ground attack role, the F-5E packs a deceptively big punch: few would expect such a small fighter to have AGM-65 Maverick air-to-ground missiles and a 30 mm gunpod, among many other options.
@@ -19,7 +17,6 @@ The F-5 series are known to be small, lightweight, and nimble. The F-5E Tiger II
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -47,7 +44,7 @@ The F-5 series are known to be small, lightweight, and nimble. The F-5E Tiger II
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || ✓ || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -113,9 +110,7 @@ The F-5 series are known to be small, lightweight, and nimble. The F-5E Tiger II
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
 
 === Modifications and economy ===
@@ -125,40 +120,36 @@ The F-5 series are known to be small, lightweight, and nimble. The F-5E Tiger II
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M39A3 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 2 x 20 mm M39A3 cannons, nose-mounted (280 rpg = 560 total)
-  ** 2 x 20 mm M39A3 cannons + 45 x countermeasures
+* A choice between two presets:
+** 2 x 20 mm M39A3 cannons, nose-mounted (280 rpg = 560 total)
+** 2 x 20 mm M39A3 cannons + 45 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)|BLU-1 incendiary}}
 {{main|AGM-65B|AIM-9E Sidewinder|AIM-9J Sidewinder}}
 {{main|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|GAU-13/A (30 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x AIM-9E Sidewinder missiles
-- 2 x AIM-9J Sidewinder missiles
-- 5 x 750 lb M117 cone 45 bombs (3,750 lb total)
-- 5 x 500 lb LDGP Mk 82 bombs (2,500 lb total)
-- 3 x 1,000 lb LDGP Mk 83 bombs (3,000 lb total)
-- 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
-- 76 x FFAR Mighty Mouse rockets
-- 8 x Zuni Mk32 Mod 0 ATAP rockets
-- 4 x AGM-65B missiles
-- 1 x 30 mm GAU-13/A cannon (353 rpg)
-- 5 x BLU-1 incendiary bombs
+* Without load
+* 2 x AIM-9E Sidewinder missiles
+* 2 x AIM-9J Sidewinder missiles
+* 5 x 750 lb M117 cone 45 bombs (3,750 lb total)
+* 5 x 500 lb LDGP Mk 82 bombs (2,500 lb total)
+* 3 x 1,000 lb LDGP Mk 83 bombs (3,000 lb total)
+* 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
+* 76 x FFAR Mighty Mouse rockets
+* 8 x Zuni Mk32 Mod 0 ATAP rockets
+* 4 x AGM-65B missiles
+* 1 x 30 mm GAU-13/A cannon (353 rpg)
+* 5 x BLU-1 incendiary bombs
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -202,9 +193,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The F-5E is one of the most manoeuvrable, and survivable fighters at its rank. The F-5E is a very prevalent gun fighter due to its conservation of energy and turn radius, but has weaker guns compared to the M61 Vulcan found on other American jets.
 
 Before taking off, consider selecting a lighter fuel load to increase the {{PAGENAME}}'s speed and lower the turn radius, but using the afterburner will eat through the fuel due to its high inefficiency. Another suggestion is to disable the {{PAGENAME}}'s radar as the {{PAGENAME}} has no radar guided missiles, so the radar isn't necessary in combat and may harm the {{PAGENAME}}'s combat performance due to it tripping enemy {{Annotation|RWR|Radar Warning Receiver}}. After taking off, climbing too high will make the {{PAGENAME}} an easy target for enemy missiles, and without any ground to notch with or mask with it can be difficult to dodge a radar-guided missile. Staying below 10,000 feet (~3,000 metres) and going off towards the side of the battle at the start will let the {{PAGENAME}} work from the inside out, maximizing its survivability.
@@ -214,27 +203,24 @@ After the battle starts, {{PAGENAME}} pilots will want to abuse its energy conse
 If an enemy jet follows the {{PAGENAME}}, be prepared to defend against a missile and reverse a turn, as long as the {{PAGENAME}} has speed and is in close range to an enemy jet, the {{PAGENAME}} will be able to win a dogfight against almost anything. The {{PAGENAME}} has the advantage against most jets in a turn-radius fight except against the MiG-21, Kfir, and JA37 Viggen. These enemy jets have very similar performance, but bleeds speed much easier, so a {{PAGENAME}} pilots can try to force them to lose their speed by maintaining a turn rate fight, where the {{PAGENAME}} will hold the advantage and force them to lose their speed. When using the plane's missiles, the AIM-9J has solid flare resistance, but will be defeated most of the time by an observant enemy. Pilots should only use missiles when an opponent lacks the speed to evade the threat, or against an enemy who is distracted by a friendly. The F-5E is a huge threat in battle, and can survive against lots of enemies at once, but without teammates the F-5E becomes an easy target. If there are teammates in the area, a {{PAGENAME}} pilots can draw enemies into a tunnel vision onto the {{PAGENAME}}, which will allow allies to pick the enemies off with ease if the {{PAGENAME}} baits the enemy into a low speed turn or inside loop.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great manoeuvrability
-- Large selection of air-to-ground armaments, including Maverick air-to-ground missiles
-- Generous ammunition capacity for guns
-- Small target
-- Efficient afterburner allows the use of lower fuel reserves, improving performance
+* Great manoeuvrability
+* Large selection of air-to-ground armaments, including Maverick air-to-ground missiles
+* Generous ammunition capacity for guns
+* Small target
+* Efficient afterburner allows the use of lower fuel reserves, improving performance
 
 '''Cons:'''
 
-- Low top speed
-- Can only carry a maximum of two air-to-air missiles
-- No ballistic computer
+* Low top speed
+* Can only carry a maximum of two air-to-air missiles
+* No ballistic computer
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 In the late 1960s, Northrop realized that by using an improved version of the General Electric J85 engine with more maximum thrust, the flight performance of the N-156 fighter (F-5 Freedom Fighter) could be improved a lot. During the test, the new J85-GE-21 engine was approved that it could produce almost 23% more thrust than the earlier J85-GE-13 engine used by early produced F-5A/B Freedom Fighter, F-5C Skoshi Tiger and T-38 Talon, which was 5,000 pounds maximum thrust in afterburner mode and 3,500 pounds thrust in military mode.
 [[File:1200px-Northrop F-5E (Tail No. 11417) 061006-F-1234S-067.jpg|thumb|332x332px|Official roll-out of first USAF F-5E Tiger II]]
 As a result, the sixth production F-5B trainer was chosen to be modified with two new J85-GE-21 engines at Edwards AFB during the summer of 1969, and this upgraded Freedom Fighter with J85-GE-21 engines was called F-5-21 at that time. Overall, the new J85-GE-21 engine's weight was 100 lbs less than J85-GE-13 engine, the length of J85-GE-21 engine was 7 inches longer than J85-GE-13 engine, and an additional stage was added to the front of the J85-GE-13's previous eight-stage compressor to provide extra power, though the single rotor structure was retained, apart from that, two auxiliary intake doors were added to the fuselage above the wing trailing edge (one on each side of fuselage) to provide additional air to the engines for added thrust during take-off and low-speed flight. In Autumn of 1969, USAF decided to hold a new competition to select a new international fighter for Allied countries, and Northrop's F-5-21 program was announced the winner of new international fighter on 20th November 1970. Northrop received the contract from USAF for the further development of F-5E fighter on 8th December 1970. In January 1971, USAF changed the new F-5 fighter's designation from F-5-21 to F-5E, and the latter was named Tiger II in memory of the previous Skoshi Tiger Combat Evaluation program in Vietnam.
@@ -257,32 +243,28 @@ Therefore, they thought that using the latest MiG-23 fighters against F-5E fight
 Back in 1972, the USAF realised the need for dissimilar aircraft combat training, and they began to use T-38 Talon trainers as an aggressor aircraft at Nellis AFB, Nevada. Although the USAF wanted the more desirable F-5E jets to act as the aggressor's aircraft, the F-5Es produced at the time were prioritized to South Vietnam to save the situation. After the Saigon government finally fell in 1975, many F-5Es including those former Republic of Vietnam Air Force's planes that escaped to Thailand successfully were transported to those aggressor squadrons of the USAF, apart from their homeland, the USAF also established some aggressor squadrons in England and the Philippines to train with other fighter squadrons overseas. As for the US Navy, they also realized the need for dissimilar aircraft combat training, even earlier than the Air Force. The famous Top Gun program was first established in 1969, initially with A-4 Skyhawk, but later it was changed to T-38 Talon and F-5E. In the 1980s, the U.S Navy introduced the F-16N Fighting Falcon and Israel F-21A Kfir as the new aggressor aircraft, therefore, the use of F-5E waned. In 2009, Northrop Grumman delivered the last 44 ex-Swiss Air Force F-5E to the US Navy after modification for use as aggressor aircraft, these 41 single seat fighters and three fighters modified from F-5E and F-5F were renamed F-5N by US Navy (one interesting fact was that in 1965, Northrop also tested a modified F-5A 63-8421 fighter which was equipped with two new J85-GE-15 engine, and this aircraft was initially named F-5N too, the N referred to Northrop), these aircraft were served in VFC-13 and VFC-111 aggressor squadrons in Nevada and Florida.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=f-5e Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f-5e Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/526079-f-5e/ Official data sheet - more details about the performance]
-- [https://archive.org/details/T.O.1F5E11984OCR/mode/2up/ Technical Order 1F-5E-1 - Flight Manual for F-5E/F-5F Aircraft]
+* [https://forum.warthunder.com/index.php?/topic/526079-f-5e/ Official data sheet - more details about the performance]
+* [https://archive.org/details/T.O.1F5E11984OCR/mode/2up/ Technical Order 1F-5E-1 - Flight Manual for F-5E/F-5F Aircraft]
 
 {{AirManufacturer Northrop}}
 {{USA jet aircraft}}

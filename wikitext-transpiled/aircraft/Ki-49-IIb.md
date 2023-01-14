@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=ki-49_2b
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese bomber {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
 The Ki-49's role is a low-altitude medium bomber capable of destroying ground targets such as pillboxes and tanks. Although hindered by a low total bomb capacity, this aircraft is renowned for its impressive manoeuvrability. This being said, it is very easy for the Ki-49 to hover above an area and drop all of its payloads rather quickly. Heavy bombers such as the G8N1 Renzan have a harder time due to their sheer size and slow rate of turn. Make sure to select the 4 x 250 kg bomb load out if attacking targets like tanks, pillboxes, bases or smaller ships.
@@ -19,7 +17,6 @@ The Ki-49's role is a low-altitude medium bomber capable of destroying ground ta
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -47,7 +44,7 @@ The Ki-49's role is a low-altitude medium bomber capable of destroying ground ta
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -78,55 +75,49 @@ The Ki-49's role is a low-altitude medium bomber capable of destroying ground ta
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 68 mm Bulletproof glass in front of the pilot
-- 12.5 mm Steel plate in front of the pilot
-- 16.5 mm Steel plate behind the pilots
-- 12.5 mm Steel plate behind the dorsal gunner
-- 12.5 mm Steel plates surrounding the dorsal gunner
-- 12.5 mm Steel plates in front of the tail gunner
+* 68 mm Bulletproof glass in front of the pilot
+* 12.5 mm Steel plate in front of the pilot
+* 16.5 mm Steel plate behind the pilots
+* 12.5 mm Steel plate behind the dorsal gunner
+* 12.5 mm Steel plates surrounding the dorsal gunner
+* 12.5 mm Steel plates in front of the tail gunner
 
 === Modifications and economy ===
 {{Specs-Economy}}
 
-- Being a bomber, speed is not necessarily an important attribute, however, payload and defensive armament is. Upgrading the bombs allows for more target flexibility and damage potential while turret upgrades will help survivability. the turret belts and the "new turrets" upgrades are useful. The "new turrets" upgrade will allow you to fire the turrets for longer periods of time and having access to multiple ammunition belts is also helpful. The engine upgrades are also useful in that they will help you reach your target faster and will control engine temperature. Having all of the weapons upgrades will help drastically in unlocking the other modules on this aircraft.
+* Being a bomber, speed is not necessarily an important attribute, however, payload and defensive armament is. Upgrading the bombs allows for more target flexibility and damage potential while turret upgrades will help survivability. the turret belts and the "new turrets" upgrades are useful. The "new turrets" upgrade will allow you to fire the turrets for longer periods of time and having access to multiple ammunition belts is also helpful. The engine upgrades are also useful in that they will help you reach your target faster and will control engine temperature. Having all of the weapons upgrades will help drastically in unlocking the other modules on this aircraft.
 
-- The best way of grinding with this aircraft is to play cautiously and to use communication. As with any bomber, if you're caught alone or off guard you are as good as lost. Although not a sure tactic, having a fighter escort will boost RP gains drastically. This goes for all game modes. Generally, try to destroy as many targets as possible without wasting bombs. If done in a speedy fashion it is possible to drop multiple payloads in RB. The same goes for simulator battles. In arcade battles, having a high reload speed and a fighter escort will allow for constant bombardment. If done correctly, flying the Ki-49 in all modes will net you large amounts of RP.
+* The best way of grinding with this aircraft is to play cautiously and to use communication. As with any bomber, if you're caught alone or off guard you are as good as lost. Although not a sure tactic, having a fighter escort will boost RP gains drastically. This goes for all game modes. Generally, try to destroy as many targets as possible without wasting bombs. If done in a speedy fashion it is possible to drop multiple payloads in RB. The same goes for simulator battles. In arcade battles, having a high reload speed and a fighter escort will allow for constant bombardment. If done correctly, flying the Ki-49 in all modes will net you large amounts of RP.
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|Army Type 94 GPHE (50 kg)|Army Type 92 GPHE (250 kg)|Army Type 92 GPHE (500 kg)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 12 x 50 kg Army Type 94 GPHE bombs (600 kg total)
-- 4 x 250 kg Army Type 92 GPHE bombs (1,000 kg total)
-- 1 x 500 kg Army Type 92 GPHE bomb (500 kg total)
+* 12 x 50 kg Army Type 94 GPHE bombs (600 kg total)
+* 4 x 250 kg Army Type 92 GPHE bombs (1,000 kg total)
+* 1 x 500 kg Army Type 92 GPHE bomb (500 kg total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|Ho-1 (20 mm)|Ho-104 (12.7 mm)|Type 89 (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 1 x 20 mm Ho-1 cannon, dorsal turret (180 rpg)
-- 1 x 12.7 mm Ho-104 machine gun, nose turret (250 rpg)
-- 1 x 12.7 mm Ho-104 machine gun, ventral turret (250 rpg)
-- 1 x 12.7 mm Ho-104 machine gun, tail turret (250 rpg)
-- 1 x 7.7 mm Type 89 machine gun, 2 x beam turrets (414 rpg)
+* 1 x 20 mm Ho-1 cannon, dorsal turret (180 rpg)
+* 1 x 12.7 mm Ho-104 machine gun, nose turret (250 rpg)
+* 1 x 12.7 mm Ho-104 machine gun, ventral turret (250 rpg)
+* 1 x 12.7 mm Ho-104 machine gun, tail turret (250 rpg)
+* 1 x 7.7 mm Type 89 machine gun, 2 x beam turrets (414 rpg)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 If attacked by fighters, it is important to remember and recognize the Ki-49's turning capabilities. It is actually possible to win lateral turn fights against fighters with this aircraft. Try not to act like a "sitting duck" because the Ki-49 features little armour protection and has limited defensive capabilities as far as weapons go. If found in a sticky situation, the hard-hitting 20 mm dorsal cannon is deadly. The only problem is that it isn't located directly on the tail. If an enemy is directly behind or below the Ki-49, the 20 mm tail gunner's arc will not reach it. Therefore, one may need to change altitude in order to have the enemy plane both above and behind you. Pulling hard manoeuvres will throw the enemy off and allow you to set up for more defensive fire.
@@ -139,10 +130,10 @@ Although unconventional, this aircraft is a fantastic weapon if you want to bait
 
 Specific aircraft to watch out for:
 
-- North American Aviation B-25J Mitchel (This is due to the firepower the B-25J has with its nose-mounted machine guns and its airspawn).
-- Bristol Beaufighter (This heavy fighter has 4 x 20 mm cannons and can destroy the Ki-49-IIb with relative ease).
-- Northrop P-61 Black Widow (This heavy fighter has 4 x 20 mm cannons and 4 machine guns. This level of firepower can destroy the Ki-49-IIb with relative ease).
-- Any planes with big guns (Bell P-39 Airacobra, Bell P-63 King Cobra....) this is because the Ki-49-IIb does not react well to damage.
+* North American Aviation B-25J Mitchel (This is due to the firepower the B-25J has with its nose-mounted machine guns and its airspawn).
+* Bristol Beaufighter (This heavy fighter has 4 x 20 mm cannons and can destroy the Ki-49-IIb with relative ease).
+* Northrop P-61 Black Widow (This heavy fighter has 4 x 20 mm cannons and 4 machine guns. This level of firepower can destroy the Ki-49-IIb with relative ease).
+* Any planes with big guns (Bell P-39 Airacobra, Bell P-63 King Cobra....) this is because the Ki-49-IIb does not react well to damage.
 
 When dealing with the Ki-49-IIb, be careful of its defensive armament. It may not be strong, however, do not underestimate it. To attack this bomber while taking minimal damage, attack it from the front of the plane or attack from below. Do not attack from above the rear of the Ki-49-IIb as the 20 mm cannon will cripple your plane if not outright destroy it.
 
@@ -164,28 +155,26 @@ When dealing with the Ki-49-IIb, be careful of its defensive armament. It may no
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Very good manoeuvrability and turn time for a bomber
-- Variety of payload options
-- Multiple gunners for protection in almost all directions
-- Armour protection around pilots and gunners
-- Tremendous fuel capacity
+* Very good manoeuvrability and turn time for a bomber
+* Variety of payload options
+* Multiple gunners for protection in almost all directions
+* Armour protection around pilots and gunners
+* Tremendous fuel capacity
 
 '''Cons:'''
 
-- Prone to engine and fuel fires
-- Relatively slow
-- Low total bomb capacity (1,000 kg)
-- Below average defensive armament
-- Low rate of climb
-- Gunners are closely grouped together
+* Prone to engine and fuel fires
+* Relatively slow
+* Low total bomb capacity (1,000 kg)
+* Below average defensive armament
+* Low rate of climb
+* Gunners are closely grouped together
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 ;Nakajima Ki-49-II Donryu Army Bomber, type 100 model 2 (code name "Helen")
@@ -194,8 +183,8 @@ Prior to the outbreak of the War in the Pacific, the Japanese utilised the Ki-49
 
 Quickly it was determined that the defensive machine guns were proven to be ineffective against Allied fighters and this required a new modification, which became the Ki-49-IIb (model 2 Otsu) implemented with stronger defensive weaponry. In the bow, stern, and ventral firing positions, the Type 98 7.92 mm machine guns were replaced with Ho-103 12.7 mm machine guns (the Type 1 Japanese version of the Browning M2 .50 calibre machine guns). The two guns on the aircraft's sides were replaced with the original 7.7 mm Type 89 machine guns removed during the Ki-49-Ia upgrade. The bomb load remained unchanged at 1,000 kg. In later series, the Ki-49-IIb's common exhaust tube was replaced with several individual pipes. Even though the Ki-49-II bombers went through several revisions and upgrades, they were unable to completely replace the older models still in service. These bombers were used mainly in New Guinea, and China, and, in October of 1944, they were transferred to the Philippines where they actively participated in the Battle of Leyte Gulf. The Ki-49 was utilised as a jack-of-all-trades aircraft as she was used as both a day and a night bomber, long-range reconnaissance, transport, and anti-submarine patrols to name a few. Towards the end of the war, the Ki-49s were assigned to kamikaze units and modified for such action. Modifications for the kamikaze missions included stripping out all of the defensive armaments, the crew was reduced to two pilots and the bomb load was increased to 1,600 kg. Production of the Ki-49 ceased in December of 1944. In all its different variants, a total of 819 Ki-49s were constructed.
 
-- 7th Sentai, 2nd Chutai 1944-45
-- 74th Sentai, 2nd Chutai Philippines 1944-45
+* 7th Sentai, 2nd Chutai 1944-45
+* 74th Sentai, 2nd Chutai Philippines 1944-45
 
 {{break}}
 {{Navigation-Start|{{Annotation|Archive of the in-game description|An archive of the historical description of the vehicle that was presented in-game prior to Update 1.55 'Royal Armour'}}}}
@@ -218,28 +207,24 @@ Production of the Ki-49 ceased in December of 1944. In all, 819 Ki-49s were cons
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ki-49_2b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ki-49_2b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [http://www.militaryfactory.com/aircraft/detail.asp?aircraft_id=559 [Military Factory<nowiki>]</nowiki> Nakajima Ki-49 Donryu (Helen)]
-- [http://www.pilotfriend.com/photo_albums/timeline/ww2/Nakajima%20Ki%2049%20Helen.htm [Pilot Friend<nowiki>]</nowiki> Nakajima Ki 49 Helen]
-- [http://wp.scn.ru/en/ww2/b/1033/65 [Wings Palette<nowiki>]</nowiki> Nakajima Ki-49 Donryu/Helen]
+* [http://www.militaryfactory.com/aircraft/detail.asp?aircraft_id=559 [Military Factory<nowiki>]</nowiki> Nakajima Ki-49 Donryu (Helen)]
+* [http://www.pilotfriend.com/photo_albums/timeline/ww2/Nakajima%20Ki%2049%20Helen.htm [Pilot Friend<nowiki>]</nowiki> Nakajima Ki 49 Helen]
+* [http://wp.scn.ru/en/ww2/b/1033/65 [Wings Palette<nowiki>]</nowiki> Nakajima Ki-49 Donryu/Helen]
 
 {{AirManufacturer Nakajima}}
 {{Japan bombers}}

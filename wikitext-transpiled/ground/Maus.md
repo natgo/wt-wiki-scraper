@@ -1,12 +1,10 @@
 {{Specs-Card
 |code=germ_pzkpfw_Maus
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} German heavy tank {{Battle-rating}}. It was introduced in [[Update 1.47 "Big Guns"]] as a main tree vehicle, however in [[Update 1.91 "Night Vision"]] it was shifted to become a gift vehicle for players who previously owned it. It was later reopened to research for a limited time during War Thunder's [[wt:en/news/6907-special-8th-anniversary-of-war-thunder-en|8th]], [[wt:en/news/7408-news-happy-birthday-war-thunder-en|9th]] and [[wt:en/news/7945-special-happy-anniversary-war-thunder-en|10th]] anniversary events. The Maus is the definitive tank of heavy armour in Rank V and is one of the largest ground vehicles in-game. The Maus can be a menace in the battlefield and conversely also a bullet magnet, a double-edged sword that must be played correctly or else fall victim to heavy enemy fire.
 
 The Maus lives up to its reputation as a mobile bunker. The dual guns do great damage, however, against high-rank tanks it is best to use the 128 mm main gun. It is important to protect the back armour on the Maus and to make sure it does not get outflanked. Preferable used at long range and choke points. Best used as an armoured beast able to destroy vehicles and take any shot.
@@ -20,9 +18,7 @@ Coaxial MG? That's for normal tanks (but it is there anyway). On the Maus, every
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
 *Rolled homogeneous armour
@@ -38,21 +34,21 @@ Coaxial MG? That's for normal tanks (but it is there anyway). On the Maus, every
 |}
 '''Notes:'''
 
-- Armour on the Maus is quite complex, and definitely does not end with the above-mentioned values
-  ** Gun mantlet is 240 mm thick and nicely rounded, right around both guns the armour is 300 mm thick
-  ** Tracks at the front are protected by 100+60 mm plates (100 mm basic plate + attached tracks)
-  ** Behind the frontal upper plate on deck armour, there are many 60 mm highly sloped plates of armour, protecting the engine vents and turret ring from HEAT/HE shells and some small-calibre fire
-  ** Frontal part of the belly is also 100 mm thick (Would be probably good against mines/other explosives), the rest is 50 mm
-  ** Deck armour in front of these plates is also strengthened to an impressive 100 mm
-  ** Side armour is split to two parts, top with 180 mm and bottom with 100 mm + tracks
-  ** Even inside the tank there is armour - there are many 20 mm plates inside the tank, separating crew compartments from various modules, and partially protecting the interior from shrapnel that penetrated the tank from other areas \***One plate is at the rear of the tank, between the enormous transmission and the fighting compartment
-  **_ Second one is more to the front, separating fighting compartment from the middle-mounted Engine and its radiators
-  _** Third is in the front between the driver's compartment and the engine
-  \*\*\* Around the driver there are many more 20 mm plates, adding some protection to Fuel Tanks located there
+* Armour on the Maus is quite complex, and definitely does not end with the above-mentioned values
+** Gun mantlet is 240 mm thick and nicely rounded, right around both guns the armour is 300 mm thick
+** Tracks at the front are protected by 100+60 mm plates (100 mm basic plate + attached tracks)
+** Behind the frontal upper plate on deck armour, there are many 60 mm highly sloped plates of armour, protecting the engine vents and turret ring from HEAT/HE shells and some small-calibre fire
+** Frontal part of the belly is also 100 mm thick (Would be probably good against mines/other explosives), the rest is 50 mm
+** Deck armour in front of these plates is also strengthened to an impressive 100 mm
+** Side armour is split to two parts, top with 180 mm and bottom with 100 mm + tracks
+** Even inside the tank there is armour - there are many 20 mm plates inside the tank, separating crew compartments from various modules, and partially protecting the interior from shrapnel that penetrated the tank from other areas
+***One plate is at the rear of the tank, between the enormous transmission and the fighting compartment
+*** Second one is more to the front, separating fighting compartment from the middle-mounted Engine and its radiators
+*** Third is in the front between the driver's compartment and the engine
+*** Around the driver there are many more 20 mm plates, adding some protection to Fuel Tanks located there
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=1,549|rbMinHp=1,061}}
@@ -64,9 +60,7 @@ Coaxial MG? That's for normal tanks (but it is there anyway). On the Maus, every
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|KwK44 (128 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -129,9 +123,7 @@ Coaxial MG? That's for normal tanks (but it is there anyway). On the Maus, every
 |}
 
 ==== [[Ammo racks]] ====
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -154,13 +146,11 @@ Coaxial MG? That's for normal tanks (but it is there anyway). On the Maus, every
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
 '''Note''':
 
-- Turret empty: 45&nbsp;''(+23)'' shells.
+* Turret empty: 45&nbsp;''(+23)'' shells.
 
 === Additional armament ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Some tanks are armed with several guns in one or more turrets. Evaluate the additional weaponry and give advice on its use. Describe the ammunition available for additional weaponry. Give advice on about how to use them and how to fill the ammunition storage. If there is no additional weaponry remove this subsection.'' -->
-
 {{main|KwK44 L/36.5 (75 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -229,9 +219,7 @@ Coaxial MG? That's for normal tanks (but it is there anyway). On the Maus, every
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|center|framed|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -246,13 +234,11 @@ Coaxial MG? That's for normal tanks (but it is there anyway). On the Maus, every
 |}
 '''Note''':
 
-- Turret empty: 76&nbsp;''(+24)'' shells.
+* Turret empty: 76&nbsp;''(+24)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|MG34 (7.92 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -266,52 +252,47 @@ Coaxial MG? That's for normal tanks (but it is there anyway). On the Maus, every
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
-Versus heavy tanks, the Maus has all the advantages. While slower it can make up for this in close combat thanks to the good turn rate of both tracks and turret. Just quickly angle the Maus (both turret and hull) and you will turn it nearly invincible (be advised that HEAT shells can still penetrate the angled turret). Try angling the front drive wheel at the enemy tank and turn the turret so that the armour is at ~45 degrees to the enemy fire. The tanks that pose a threat are the [[M103]], the [[M48 Patton (Family)|M48]], the [[T-62 545 (China)|Chinese T-62]], the BMPs, the [[Object 120]], and basically every tank that has HEATFS, ATGM, or APFSDS rounds that can penetrate more than 320 mm of armour. One good strategy is to capture the objective and just defend it. This can be really helpful to the team.
+Versus heavy tanks, the Maus has all the advantages. While slower it can make up for this in close combat thanks to the good turn rate of both tracks and turret. Just quickly angle the Maus (both turret and hull) and you will turn it nearly invincible (be advised that HEAT shells can still penetrate the angled turret). Try angling the front drive wheel at the enemy tank and turn the turret so that the armour is at ~45 degrees to the enemy fire. The tanks that pose a threat are the [[M103]], the [[M48 Patton (Family)|M48]], the [[T-62 545 (China)|Chinese T-62]], the BMPs, the [[Object 120]], and basically every tank that has HEATFS, ATGM, or APFSDS rounds that can penetrate more than 320 mm of armour. One good strategy is to capture the objective and just defend it. This can be really helpful to the team. 
 
 Versus medium tanks, the Panzerkampfwagen VIII can fight in {{Annotation|CQC|Close Quarter Combat}} with its decent turret rotation but at the cost of exposing its side armour and getting flanked. Doing so should be kept as one's last resort. Distance is the ally of the Maus, which should be easy to do considering that the top speed is 20 km/h.
 
 While it is very strong frontally because of its excellent armour, the Maus should be played very carefully: it can be very vulnerable if it gets uptiered where enemies have APFSDS rounds and ATGMs that will go clean through your armour. Try to stay out of close quarters as it will be easier for tanks to take out your gun barrel or move to your sides.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Heavily-armoured tank, practically invincible if angled properly
-- Capable of soaking a large amount of damage and very resilient to bombs and rockets
-- Only vulnerable to large-calibre HE shells
-- Turret sides are as strong as, if not stronger than, the front of the turret
-- Access to smoke grenades
-- Surprisingly good off-road manoeuvrability
-- Makes decently fast turns in high gear movement or in neutral steering
-- Very difficult to immobilize, due to extremely thick track skirts
-- Powerful 128 mm cannon and rounds
-- Secondary 75 mm coaxial cannon is surprisingly effective when using HEAT rounds
+* Heavily-armoured tank, practically invincible if angled properly
+* Capable of soaking a large amount of damage and very resilient to bombs and rockets
+* Only vulnerable to large-calibre HE shells
+* Turret sides are as strong as, if not stronger than, the front of the turret
+* Access to smoke grenades
+* Surprisingly good off-road manoeuvrability
+* Makes decently fast turns in high gear movement or in neutral steering
+* Very difficult to immobilize, due to extremely thick track skirts
+* Powerful 128 mm cannon and rounds
+* Secondary 75 mm coaxial cannon is surprisingly effective when using HEAT rounds
 
 '''Cons:'''
 
-- Very slow
-- Struggles on hilly terrain
-- Requires good teamwork to perform adequately
-- Slow turret rotation
-- The sides of the Maus are littered with ammo racks
-- Very loud engine, players will be able to locate the Maus just by the engine sounds
-- Vulnerable at all ranges to modern rounds such as HEAT and sabot rounds
-- Towing is practically impossible unless it is done by another Maus
-- Large bombs will commonly cripple the Maus, or detonate its fuel tanks
-- Optics have little zoom capability, making it difficult for hitting long range targets
-- Big target for ATGMs
-- No modern armour of any kind, relies completely on conventional armour plating
-- Secondary 75 mm is hard to aim
+* Very slow
+* Struggles on hilly terrain
+* Requires good teamwork to perform adequately
+* Slow turret rotation
+* The sides of the Maus are littered with ammo racks
+* Very loud engine, players will be able to locate the Maus just by the engine sounds
+* Vulnerable at all ranges to modern rounds such as HEAT and sabot rounds
+* Towing is practically impossible unless it is done by another Maus
+* Large bombs will commonly cripple the Maus, or detonate its fuel tanks
+* Optics have little zoom capability, making it difficult for hitting long range targets
+* Big target for ATGMs
+* No modern armour of any kind, relies completely on conventional armour plating
+* Secondary 75 mm is hard to aim
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 This monster of a tank started development in 1942 on the suggestion of Ferdinand Porsche to Hitler, which was approved. The first prototype was to be completed by 1943 and the project vehicle was designated the ''Mammut'' (Mammoth). The name changed in December 1942 to ''Mäuschen'' (Little Mouse), then once more to the '''Maus''' (Mouse) in February 1943, which stayed as its designation (and perhaps proving that Germany does have a sense of humour).
 
@@ -345,12 +326,10 @@ The Panzerkampfwagen Maus can currently be viewed on display at the tank museum 
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_Maus Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_Maus Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover" heights="200">
@@ -363,16 +342,15 @@ File:Wallpaper MAUS 000012.jpg
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/devblog/current/737/|[Devblog] Panzerkampfwagen VIII «Maus»]]
-- <nowiki>[Historical]</nowiki> Panzerkampfwagen VIII "Maus", [[wt:en/news/2825-historical-panzerkampfwagen-viii-maus-part-i-en|Part I]], [[wt:en/news/2831-historical-panzerkampfwagen-viii-maus-part-ii-en|Part II]], and [[wt:en/news/2843/current/|Part III]]
+* [[wt:en/devblog/current/737/|[Devblog] Panzerkampfwagen VIII «Maus»]]
+* <nowiki>[Historical]</nowiki> Panzerkampfwagen VIII "Maus", [[wt:en/news/2825-historical-panzerkampfwagen-viii-maus-part-i-en|Part I]], [[wt:en/news/2831-historical-panzerkampfwagen-viii-maus-part-ii-en|Part II]], and [[wt:en/news/2843/current/|Part III]]
 
 {{Germany heavy tanks}}

@@ -9,16 +9,13 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Battle-rating}}. It was introduced in [[Update "Raining Fire"]].
 
 The SEPECAT Jaguar is a strike aircraft co-designed by British and French engineers in the late 1960s/early 1970s, and remains in service today with the Indian Air Force. It is fit with afterburning engines and totes an incredibly heavy air-to-ground payload, with full ballistics computer capability to match, though its flight performance does not lend well to air-to-air combat.
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -46,7 +43,7 @@ The SEPECAT Jaguar is a strike aircraft co-designed by British and French engine
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || ✓ || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -112,9 +109,7 @@ The SEPECAT Jaguar is a strike aircraft co-designed by British and French engine
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 The Jaguar GR.1 has no armour plating or armoured glass. The entire wingspan of the Jaguar GR.1 is composed of fuel tanks, along with most of the upper fuselage, with flight controls being exposed in the "spine" of the aircraft, making it very vulnerable to damage received anywhere along the mid-section or wings of the aircraft.
 
 The two jet's engines take up a small amount of room in the very rear of the fuselage and the Jaguar's elevators are separated from each other, allowing the aircraft to potentially survive a glancing blow to its tail section. The Jaguar's nosecone is also devoid of any avionics, and the pilot is seated relatively far back, causing strikes there to deal little damage.
@@ -137,32 +132,28 @@ The Jaguar GR.1 is fit with an AN/APR-25 radar warning receiver inside the verti
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|ADEN Mk.4 (30 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 30 mm ADEN Mk.4 cannons, belly-mounted (150 rpg = 300 total)
+* 2 x 30 mm ADEN Mk.4 cannons, belly-mounted (150 rpg = 300 total)
 
 The Jaguar's ADEN Mk.4s are excellent against air targets, capable of dealing critical damage even with glancing blows and otherwise outright destroying aircraft with a single hit, although their ballistics are only average compared to the Jaguar's opponents and the cannons are not particularly lethal against ground targets with any amount of armour.
 
 As the ADEN Mk.4 is typically only used in air-to-air engagements, it may be advisible to steer away from the ''Ground targets'' belt, and instead use one of the other three to increase the number of high-explosive shells in the belt.
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|Mk.M2 (540 lb)|H.E. M.C. Mk.13 (1,000 lb)|AIM-9G Sidewinder|CRV7 M247}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 8 x 540 lb Mk.M2 bombs (4,320 lb total)
-- 8 x 1,000 lb H.E. M.C. Mk.13 bombs (8,000 lb total)
-- 2 x AIM-9G Sidewinder missiles
-- 76 x CRV7 M247 rockets
+* Without load
+* 8 x 540 lb Mk.M2 bombs (4,320 lb total)
+* 8 x 1,000 lb H.E. M.C. Mk.13 bombs (8,000 lb total)
+* 2 x AIM-9G Sidewinder missiles
+* 76 x CRV7 M247 rockets
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -185,9 +176,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 As a strike aircraft, the Jaguar GR.1 is well-suited to engaging ground targets with its ability to carry up to eight 1,000 lb bombs and access to a complete ballistics computer allowing it to shine in this role, particularly in ground battles. The aircraft's moderately high speed and good agility allow it to easily manoeuvre near terrain while providing close air support, although the aircraft bleeds considerable energy in turns making it highly unsuitable for air-to-air combat.
 
 The Jaguar GR.1 includes a pair of internal ADEN Mk.4 30 mm cannons for self-defense against aircraft, and can additionally be fitted with a pair of AIM-9G Sidewinder missiles, at the expense of two bombs, allowing the Jaguar to pose a threat to enemy fighters in its airspace, and making it particularly lethal against distracted aircraft, although the Jaguar's poor energy retention and top speed only barely cresting mach 1.0 make it vulnerable to the many dedicated fighters it can face in battle. Where possible, the Jaguar should be employed in combat with supporting allied aircraft, particularly in air battles.
@@ -203,32 +192,28 @@ The aircraft features a drag chute, air brakes, and an arresting hook, as well a
 [[F-5C]] - The premium F-5C Skoshi Tiger is perhaps the biggest threat the Jaguar GR.1 will face on the battlefield. With a noticably superior engine, considerably better dogfight characteristics, and a full countermeasures package, the F-5C is capable of out-manoeuvring the Jaguar at every turn, and its flares make the Jaguar's AIM-9G Sidewinders almost entirely useless against a Skoshi Tiger pilot aware of their launch. To make matters worse, the F-5C's incredibly durable airframe means that the Jaguar is not guaranteed a victory even should it successfully hit the aircraft.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Access to AIM-9G Sidewinders, which have a reasonably long range and manoeuvrability.
-- Reasonably agile, particularly compared to heavier fighters like the [[F-4C Phantom II]], alongside a good roll rate.
-- Heavy air-to-ground loadouts, able to carry up to eight 1,000 lb bombs.
-- Equipped with a full ballistics computer for its cannon, rockets, and bombs.
-- Armed with powerful ADEN Mk.4 30 mm cannons for anti-air usage
-- Fitted with a radar warning receiver
-- Comfortable to land, thanks to large landing gear, airbrakes, a drogue chute, and large landing flaps
-- Equipped with [[HUD#410SUM1|Head-Up Display]] in the cockpit, which displays a large variety of flight information and has full integration with weapon systems.
+* Access to AIM-9G Sidewinders, which have a reasonably long range and manoeuvrability.
+* Reasonably agile, particularly compared to heavier fighters like the [[F-4C Phantom II]], alongside a good roll rate.
+* Heavy air-to-ground loadouts, able to carry up to eight 1,000 lb bombs.
+* Equipped with a full ballistics computer for its cannon, rockets, and bombs.
+* Armed with powerful ADEN Mk.4 30 mm cannons for anti-air usage
+* Fitted with a radar warning receiver
+* Comfortable to land, thanks to large landing gear, airbrakes, a drogue chute, and large landing flaps
+* Equipped with [[HUD#410SUM1|Head-Up Display]] in the cockpit, which displays a large variety of flight information and has full integration with weapon systems.
 
 '''Cons:'''
-
-- Mediocre top speed, only barely capable of crossing mach 1.
-- Middling climb rate and acceleration, with poor energy retention.
-- Only able to cary two AIM-9G Sidewinders.
-- Does not come equipped with any kind of radar, leaving it unable to use radar-homing missiles.
-- Incredibly heavy when loaded with bombs.
+* Mediocre top speed, only barely capable of crossing mach 1.
+* Middling climb rate and acceleration, with poor energy retention.
+* Only able to cary two AIM-9G Sidewinders.
+* Does not come equipped with any kind of radar, leaving it unable to use radar-homing missiles.
+* Incredibly heavy when loaded with bombs.
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 [[File:Jaguar GR.1 in the Gulf.jpg|thumb|400px|right|British and U.S. ground crew members refuel a Royal Air Force Jaguar GR.1 during the Gulf War.]]
 The SEPECAT Jaguar was a joint program between the British and French to develop a cheap subsonic trainer and light attack aircraft. The British and French bought a total of 403 aircraft with Britain receiving 203 of the aircraft. Other exports include to the Indian Air force (160 total aircraft ordered ), The Royal Air force of Oman (26 total aircraft ordered), The Ecuadorian Air force (12 total aircraft ordered) and the air force of Nigeria (18 total aircraft ordered). The Jaguar was used in several military conflicts in countries such as: Mauritania, Chad, Iraq, Bosnia, Pakistan and The Chenepa war but most notably it saw service in the 1990 Gulf War during Operation Desert Storm, where it was used to destroy Iraqi artillery and missile positions. During the Bosnian bombing campaign of 1995 Jaguars of the 41 squadron carried out the first raids in Europe since the second world war. During the Bosnian airstrikes jaguars were fitted with laser designators and would laze Bosnian-Serb forces for RAF Harriers to strike. These re-fitted more modern Jaguars were re-designated as SEPECAT Jaguar GR.1 B.
 
@@ -242,12 +227,10 @@ The first of eight prototypes of the Jaguar successfully conducted its maiden fl
 The Jaguar primarily served with France and Great Britain, most notably distinguishing itself in action during the Gulf War of the 1990's. However, Ecuador, Nigeria and Oman also operated modifications of the Jaguar, while India still operates the Jaguar to this day. In total over 540 SEPECAT Jaguars were built.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=jaguar_gr1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=jaguar_gr1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" caption="Jaguar GR.1 Devblog Images" heights="150">
@@ -259,25 +242,22 @@ File:Jaguar GR.1 WTWallpaper 005.jpg|
 </gallery>
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
-- [[Jaguar GR.1A]]
-- [[Jaguar A]] (France)
-- Japanese-developed aircraft inspired by the SEPECAT Jaguar
-  ** [[F-1]]
-  ** [[T-2]]
+* [[Jaguar GR.1A]]
+* [[Jaguar A]] (France)
+* Japanese-developed aircraft inspired by the SEPECAT Jaguar
+** [[F-1]]
+** [[T-2]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6841-development-sepecat-jaguar-raining-fire-en|[Devblog] SEPECAT Jaguar: Raining Fire]]
-- [https://forum.warthunder.com/index.php?/topic/497250-jaguar-gr1/ Official data sheet - more details about the performance]
+* [[wt:en/news/6841-development-sepecat-jaguar-raining-fire-en|[Devblog] SEPECAT Jaguar: Raining Fire]]
+* [https://forum.warthunder.com/index.php?/topic/497250-jaguar-gr1/ Official data sheet - more details about the performance]
 
 {{AirManufacturer SEPECAT}}
 {{Britain jet aircraft}}

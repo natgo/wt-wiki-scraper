@@ -1,13 +1,11 @@
 {{Specs-Card
 |code=ussr_bm_13n
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage*{{PAGENAME}}.png|ArtImage2*{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png|ArtImage2_{{PAGENAME}}.png}}
 |market=items_BM-13N (USSR)
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet tank destroyer {{Battle-rating}} also known as "Katyusha". It was introduced during [[Update 1.67 "Assault"]] as part of the [[wt:en/news/4687-vday-bm-13n-say-hello-from-katyusha-en|2017 Victory Day Event]]. It later returned as part of the [[wt:en/news/7007-market-trophies-with-a-user-created-hot-tracks-camouflage-en|Hot Tracks trophy]] and is currently only obtainable from different trophies or the [[War Thunder Market|marketplace]] via a coupon.
 
 One of the most unusual vehicle in game, to say the least. Not only is its truck-based configuration not the most common, it also uses 16 x 132 mm M13 rockets as its main armament, has limited traverse, has only 2 crew members, and a gun depression of +8°. The last is somewhat compensated by its ability to lean forwards with a [[hydropneumatic suspension|hydropneumatic suspension system]] usually found on Rank 5 vehicles and up. Its gameplay is somewhat comparable to other rocket-armed premium machines such as the T34 [[Calliope]] or [[15 cm Pz.W.42|Panzerwerfer 42]], but remains a rather unique experience.
@@ -17,15 +15,14 @@ The Katyusha is an artillery piece, belonging more in an artillery formation tha
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 With next to no armour, the BM-13N is not designed for armour-vs-armour engagements. Being a simple truck, even rifle-calibre machine gun can penetrate the vehicle and knock out the two crew members. Therefore, the vehicle is extremely vulnerable to overpressure (HE shells, rockets, bombs and artillery strikes) as well as strafing aircraft. It is best to play at a distance from the frontline and with some cover nearby to retreat behind once the enemy presence increases, as your mobility isn't great either.
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (Roof)
-- Structural steel (Chassis and driver's cabin)
+* Rolled homogeneous armour (Roof)
+* Structural steel (Chassis and driver's cabin)
 
 {| class="wikitable"
 |-
@@ -39,12 +36,11 @@ With next to no armour, the BM-13N is not designed for armour-vs-armour engageme
 
 '''Notes:'''
 
-- Wheels are 2 mm thick.
-- No armour in front grille, simple 7.62 mm machine gun rounds can enter and damage the engine.
+* Wheels are 2 mm thick.
+* No armour in front grille, simple 7.62 mm machine gun rounds can enter and damage the engine.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp= 134|rbMinHp= 83}}
@@ -58,9 +54,7 @@ Being a wheeled vehicle with a rather high ground pressure, the BM-13N has issue
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|M13}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -112,9 +106,7 @@ Being a wheeled vehicle with a rather high ground pressure, the BM-13N has issue
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -125,10 +117,9 @@ Being a wheeled vehicle with a rather high ground pressure, the BM-13N has issue
 |}
 Notes:
 
-- Rockets deplete right to left, columns first
+* Rockets deplete right to left, columns first
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 There are two main ways to use the Katyusha:
@@ -145,43 +136,40 @@ Best used in an urban combat scenario, when your team is losing and the enemies 
 
 When firing, try to aim for these:
 
-- Tank's bellies: Since very few tanks have more than 40 mm of armour underneath, rocket detonations on or right under the floor of a tank can go up and into the fighting compartment, damaging essential components and crewmembers, or detonating ammo racks.
-- Tracks: To immobilize your foes, you can knock out the tracks of the enemy vehicle. This can be to stop it from escaping your sights, or to give your allies a chance to finish them off. This is particularly deadly for casemate tank destroyers like the [[StuG III F]] or the [[Gun Carrier (3-in)]]. Some tanks store ammo over the tracks, it can detonate them.
-- Gun barrel: Blasting off your enemy's gun barrel will incapacitate it from firing back at you and your allies. Beware other weapons and coaxial and roof machine guns however, as even though the main gun may be incapacitated, the enemy could still fire back. An extreme example of this is the [[M6A1]] which has one main cannon, one coaxial cannon, a roof machine gun, and two bow machine guns. Completely disabling the M6A1 from firing back would require, at minimum, five well-placed rockets.
-- Engine deck: Can disable a tank's engine to prevent it from moving. Has a decent chance of igniting it.
-- Turret front/Commander's hatch/Turret roof: Many tanks have weak roof armour. Rocket detonations on or right on top of the roof of a tank can go down and into the fighting compartment, damaging essential components and crewmembers, or detonating ammo racks.
-- Hull roofs: Same as with turrets the hull top armour is usually weak, an easy way to knock out the driver and immobilize your target.
+* Tank's bellies: Since very few tanks have more than 40 mm of armour underneath, rocket detonations on or right under the floor of a tank can go up and into the fighting compartment, damaging essential components and crewmembers, or detonating ammo racks. 
+* Tracks: To immobilize your foes, you can knock out the tracks of the enemy vehicle. This can be to stop it from escaping your sights, or to give your allies a chance to finish them off. This is particularly deadly for casemate tank destroyers like the [[StuG III F]] or the [[Gun Carrier (3-in)]]. Some tanks store ammo over the tracks, it can detonate them. 
+* Gun barrel: Blasting off your enemy's gun barrel will incapacitate it from firing back at you and your allies. Beware other weapons and coaxial and roof machine guns however, as even though the main gun may be incapacitated, the enemy could still fire back. An extreme example of this is the [[M6A1]] which has one main cannon, one coaxial cannon, a roof machine gun, and two bow machine guns. Completely disabling the M6A1 from firing back would require, at minimum, five well-placed rockets.
+* Engine deck: Can disable a tank's engine to prevent it from moving. Has a decent chance of igniting it.
+* Turret front/Commander's hatch/Turret roof: Many tanks have weak roof armour. Rocket detonations on or right on top of the roof of a tank can go down and into the fighting compartment, damaging essential components and crewmembers, or detonating ammo racks.
+* Hull roofs: Same as with turrets the hull top armour is usually weak, an easy way to knock out the driver and immobilize your target.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Powerful 132 mm rockets with a high explosive mass. Able to take out most, if not all, lightly armoured vehicle and open topped vehicles in just a few shots.
-- High rate of fire
-- High-velocity rockets
-- Adjustable suspension
-- Can be used in deceptions: a similar model is used as decorations on some maps, without rockets and with the add-on armour plate lifted. This may allow the player to hide in plain sight. Works better when in groups of 2 Katyushas or more.
-- Relatively rare vehicle to see on the battlefield, thus it has a certain element of surprise.
-- Launcher sight helps with aiming to play as an indirect fire weapon
+* Powerful 132 mm rockets with a high explosive mass. Able to take out most, if not all, lightly armoured vehicle and open topped vehicles in just a few shots.
+* High rate of fire
+* High-velocity rockets
+* Adjustable suspension
+* Can be used in deceptions: a similar model is used as decorations on some maps, without rockets and with the add-on armour plate lifted. This may allow the player to hide in plain sight. Works better when in groups of 2 Katyushas or more.
+* Relatively rare vehicle to see on the battlefield, thus it has a certain element of surprise.
+* Launcher sight helps with aiming to play as an indirect fire weapon
 
 '''Cons:'''
 
-- Poor survivability
-- Has issues traversing rough and muddy terrains, to be expected from a wheeled vehicle
-- Poor horizontal launcher traverse
-- Low ammunition supply of 16 rockets
-- Loud and distinguishable firing sound
-- Lacks other armaments beside rockets
-- Large dead zone in front of vehicle up to 250 m (launcher depression of +8°)
-- Vehicle cannot move properly while suspension is adjusted
-- In RB & SB, cannot reload unless on allied capture point and can only reload one rocket at a time.
+* Poor survivability
+* Has issues traversing rough and muddy terrains, to be expected from a wheeled vehicle
+* Poor horizontal launcher traverse
+* Low ammunition supply of 16 rockets
+* Loud and distinguishable firing sound
+* Lacks other armaments beside rockets
+* Large dead zone in front of vehicle up to 250 m (launcher depression of +8°)
+* Vehicle cannot move properly while suspension is adjusted
+* In RB & SB, cannot reload unless on allied capture point and can only reload one rocket at a time.
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 The concept of a multiple rocket launcher system came about in June 1938, when the Soviet Jet Propulsion Research Institute was authorized by the Main Artillery Directorate to develop such system for the RS-132 rocket in use on their aircraft. A prototype by I. Gvay in Chelyabinsk was tried and fired M-132 rockets on ZiS-5 trucks, though these were unstable and were revised on the proposals of V.N. Galkovskiy to mount the launching rails longitudinally. Testing for the newly made prototype began at the end of 1938, firing 233 rounds in a couple of salvos. The rockets were found to be able to hit up to 5,500 meters out, but the system was not looked fondly upon by the artillery branch. It took 50 minutes to load 24 rockets onto the launching rail, while a regular artillery cannon and howitzer can fire about a hundred in the same time at a sustained rate.
 
@@ -193,9 +181,9 @@ Compared to the contemporary artillery systems of the time, the multiple rocket 
 ===Designations===
 Multiple variants of the multiple rocket launcher system were made in the course of the war as the design is simply the attachment of launch rails onto a variety of vehicles. Each vehicle has different names that follows a template to distinguish their types.
 
-- "BM-x-y" indicates a ground vehicle.
-- "M-x-y" indicates a towed variant.
-- "y-M-x" indicates a naval variant.
+* "BM-x-y" indicates a ground vehicle.
+* "M-x-y" indicates a towed variant.
+* "y-M-x" indicates a naval variant.
 
 and "x" stands for the missile model while "y" stands for the number of launch rails available for the launcher variant. For example, the BM-8-24 indicates a ground vehicle firing M-8 rockets with 24 rails available to mount on.
 
@@ -210,12 +198,11 @@ The rocket launchers continue to become more integrated into the rest of the arm
 The Katyusha launchers, issued in large numbers in the Eastern Front, was largely successful in the strategic effect of the war, granting the Soviet Union the ability to lay down a very heavy and shocking bombardment very quickly. The success of the system prompted many other countries to pursuit such a system as well, such as the modified [[Calliope|T34 Calliope]] based off the Sherman and the Germans [[Panzerwerfer 42]]s. Today, the multiple rocket launcher system is still widespread with the implementation of newer technology, rockets, and missiles that makes the rocket launcher system a very potent weapon to anyone on the receiving end.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_bm_13n Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_bm_13n Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover" heights="x200px">
@@ -226,25 +213,23 @@ Image:Wallpaper BM-13NKatyusha.jpg|<small>War Thunder event announcement image</
 {{Youtube-gallery|OR18NRGT7uw|'''The Shooting Range #254''' - ''Challenge'' section at 06:50 discusses the Katyusha vs MBTs.|ifSt7zyLw8o|'''The Shooting Range #47''' - ''Metal Beasts'' section at 03:28 discusses the BM-13N.|0bWt81vhIyY|'''Katyusha Rocket Artillery''' (sound warning) - ''Colonel Thyran''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
 
-- [[Calliope]]
-- [[Panzerwerfer 42]]
-- [[BM-8-24]]
+* [[Calliope]]
+* [[Panzerwerfer 42]]
+* [[BM-8-24]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/4687-vday-bm-13n-say-hello-from-katyusha-en|[Event] BM-13N: Say Hello from Katyusha!]]
-- [[Wikipedia:Katyusha_rocket_launcher|[Wikipedia] Katyusha rocket launcher]]
+* [[wt:en/news/4687-vday-bm-13n-say-hello-from-katyusha-en|[Event] BM-13N: Say Hello from Katyusha!]]
+* [[Wikipedia:Katyusha_rocket_launcher|[Wikipedia] Katyusha rocket launcher]]
 
 {{USSR tank destroyers}}
 {{USSR premium ground vehicles}}

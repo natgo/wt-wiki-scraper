@@ -8,14 +8,12 @@
 }}
 {{Specs-Card
 |code=f6f-5n
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.jpg}}
 |cockpit=cockpit_f6f-5n.jpg
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} American naval fighter {{Battle-rating}}. It was introduced in [[Update 1.65 "Way of the Samurai"]].
 
 The F6F-5N (N stands for Night fighter variant) is the late variant of the Grumman F6F-5 Hellcat. Despite being a somewhat less agile and fast variant, this F6F is distinctly capable thanks to the combination of cannons, heavy machine guns, and the addition of a search radar while keeping the ability to provide ground and sea support with highly menacing payloads. It can defend itself admirably against no matter what; in skilful hands of course. An efficient jack-of-all-trades!
@@ -23,9 +21,7 @@ The F6F-5N (N stands for Night fighter variant) is the late variant of the Grumm
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The main drawback of this fighter is the powerful but often overloaded engine. This means that after all the weight added with the twin 20 mm cannons, radar, and payload, the plane becomes much slower compared to the previous F6F-5 in US service. This may be an indication to avoid engaging in air supremacy battles with other more dedicated air superiority fighters. Instead, these variants excel at ground strike and interception, leaving the pure fighter role to other more fast and agile fighters.
 
 Once spaded, the F6F-5N feels similar to the F6F-5, but all of the main flight characteristics are slightly reduced, such as the top speed, rate of climb, and turn rate. When equipping payloads is a good idea to avoid extended combat, this is due to the fact the plane gets even slower and less manoeuvrable. American pilots should consider learning (MEC) manual engine controls to boost flight performance. Its details are explained [[#Manual Engine Control|below]]!
@@ -55,7 +51,7 @@ Once spaded, the F6F-5N feels similar to the F6F-5, but all of the main flight c
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -86,14 +82,12 @@ Once spaded, the F6F-5N feels similar to the F6F-5, but all of the main flight c
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 [[File:F6F_Pilot_Protection.png|thumb|right|300px|A page from the F63/F6F pilots manual detailing protective angles against enemy weapons.]]
 
-- 3 mm steel - below the engine and above cooling system
-- 6.35 mm steel - behind the pilot
-- 38 mm bulletproof glass - armoured windscreen
+* 3 mm steel - below the engine and above cooling system
+* 6.35 mm steel - behind the pilot
+* 38 mm bulletproof glass - armoured windscreen
 
 The F6F-5N is a considerably robust and armoured aircraft, a usual trait of American-made fighters. This armour will enable pilots to survive several hits if they end up tailed by some more agile enemy aircraft; like the Japanese [[Ki-61-II Otsu Kai]] or the [[Bf 109 G-2/trop]]. Nonetheless, avoid being targeted and attacked!
 
@@ -108,10 +102,10 @@ A slow F6F is a certainly doomed F6F. Attempt to go for some flight performance 
 
 Payload modules unlock the following:
 
-- ITC mk.III: One torpedo
-- FRC mk.2: Six HVAR rockets
-- LFRC mk.12: Two Tiny Tims
-- FLBC mk.1: Two 1,000 lb AN-M65A1 bombs
+* ITC mk.III: One torpedo
+* FRC mk.2: Six HVAR rockets
+* LFRC mk.12: Two Tiny Tims
+* FLBC mk.1: Two 1,000 lb AN-M65A1 bombs
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
@@ -120,21 +114,19 @@ In the offensive department, the F6F-5N is devastating!
 There are a plethora of choices on armaments that truly bring a lot of power to the US pilots. The 20 mm cannons and 12.7 mm machine guns are capable of devastating, if not destroying, light and medium tanks, even from the sides. This is accompanying the already lethal available explosive payloads.
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|AN/M2 (20 mm)|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 20 mm AN/M2 cannons, wing-mounted (231 rpg = 462 total)
-- 4 x 12.7 mm M2 Browning machine guns, wing-mounted (400 rpg = 1,600 total)
+* 2 x 20 mm AN/M2 cannons, wing-mounted (231 rpg = 462 total)
+* 4 x 12.7 mm M2 Browning machine guns, wing-mounted (400 rpg = 1,600 total)
 
 The familiar American M2 Browning provides quick-firing, adequate damage, and high penetration capacities. Not many aircraft can withstand a prolonged burst from these machine guns. However, they lack the fast, decisive punch of a large-calibre cannon. This could lead to the F6F-5N often staying in combat more than it should; something detrimental to its survival.
 
-\*The Ground targets belt is notably good to bypass the enemy's armour plates and also good for head-ons attacks. Works for some medium tanks, armoured cars and light tanks. (Side or top armour)
+*The Ground targets belt is notably good to bypass the enemy's armour plates and also good for head-ons attacks. Works for some medium tanks, armoured cars and light tanks. (Side or top armour)
 
-\*The Tracers belt is handy to burst your enemies into flames. Mainly, the light and nimble planes with poor durability.
+*The Tracers belt is handy to burst your enemies into flames. Mainly, the light and nimble planes with poor durability.
 
 In this variant, the F6F-5N also receives two new powerful 20 mm AN/M2 cannons.
 
@@ -142,24 +134,20 @@ The 20 mm AN/M2 cannons will dramatically increase the firepower and lethality o
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AN-M65A1 (1,000 lb)|HVAR|Tiny Tim|Mk.13-6 Case (2,216 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 6 x HVAR rockets
-- 2 x Tiny Tim rockets
-- 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
-- 2 x 1,000 lb AN-M65A1 bombs + 6 x HVAR rockets (2,000 lb total)
-- 1 x 2,216 lb Mk.13-6 Case torpedo
+* Without load
+* 6 x HVAR rockets
+* 2 x Tiny Tim rockets
+* 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
+* 2 x 1,000 lb AN-M65A1 bombs + 6 x HVAR rockets (2,000 lb total)
+* 1 x 2,216 lb Mk.13-6 Case torpedo
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 Once a good understanding of the abilities and inabilities of the F6F-5N is gained, players can use this plane on all game modes without major trouble.
 
 The F6F-5N was a versatile fighter during World War II and it proves this with both the capabilities of the airframe along with the varied ordnance it can carry. The powerful weapons that the F6F-5N has on-board can make short work of enemy aircraft and some ground targets, and the sizeable amount of suspended weapons allows the aircraft to be used in support roles when attacking critical ground targets. In addition, employment of the radar can make the F6F-5N a deadly fighter in night combat or in adverse weather condition
@@ -211,10 +199,10 @@ All the payloads the F6F-5N can carry are able to be used against naval targets,
 
 With the bombs, the pilot can perform several naval tactics for bombing:
 
-- Skip bombing
-- Toss bombing
-- Glide bombing
-- Dive bombing
+* Skip bombing
+* Toss bombing
+* Glide bombing
+* Dive bombing
 
 '''Skip Bombing/Top-mast bombing'''
 
@@ -232,7 +220,7 @@ The bombs will follow a parabolic trajectory and drop near or in the target.
 
 This is a high altitude (2,000-3,500 m) approach in which the Hellcat will dive for its target in a not very steep attacking angle (shouldn't be more than 45° angle). This tactic offers more controls since it is not needed to pull up as hard when compared to a full 90° dive-bombing. Time the drop, the moving of the ship and keep in mind the desired exit altitude. During this shallow dive, the plane must gather enough speed to exit the danger zone immediately.
 
-The Hellcat can withstand some outstanding 800 km/h, so do not exceed that limit.
+ The Hellcat can withstand some outstanding 800 km/h, so do not exceed that limit.
 
 '''Dive bombing'''
 
@@ -313,40 +301,37 @@ During the night, the radar becomes an invaluable tool to seek out and destroy e
 
 It is highly rewarding to learn and constantly apply MEC during Simulator and Realistic battles. The main instruments beneficial for the F6F are: propeller pitch, radiators, and superchargers.
 
-\*The propeller pitch will enable the F6F to reach higher top speeds. This is vital during pursuits or diving away; something in which the F6F is great at. They also provide increased thrust/lift and less speed when needed; for example during vertical slow speed dogfights
+*The propeller pitch will enable the F6F to reach higher top speeds. This is vital during pursuits or diving away; something in which the F6F is great at. They also provide increased thrust/lift and less speed when needed; for example during vertical slow speed dogfights
 
-\*The radiators lets the F6F cool down the engine and components during hot weather maps. While if closed, they reduce aerodynamic drag and increase the top speed. Watch out, prolonged closing of the radiators leads to overheating and ultimately, to engine damage.
+*The radiators lets the F6F cool down the engine and components during hot weather maps. While if closed, they reduce aerodynamic drag and increase the top speed. Watch out, prolonged closing of the radiators leads to overheating and ultimately, to engine damage.
 
-\*Superchargers are an important piece of the MEC (even more for American planes), they will let the F6F reach superior high altitudes with a decent amount of speed even when fully loaded. They should only be used while climbing not during low altitude flights. Stage 1 is activated by default, stage 2 should be activated around 3-4 km of altitude. Stage 3 should be activated above 5-6 km of altitude. The hotter the temperature, the sooner this should be activated. If cold, it should be activated later at these altitudes. Pilots should maintain their eyes out to confirm their input affects performance positively and not negatively.
+*Superchargers are an important piece of the MEC (even more for American planes), they will let the F6F reach superior high altitudes with a decent amount of speed even when fully loaded. They should only be used while climbing not during low altitude flights. Stage 1 is activated by default, stage 2 should be activated around 3-4 km of altitude. Stage 3 should be activated above 5-6 km of altitude. The hotter the temperature, the sooner this should be activated. If cold, it should be activated later at these altitudes. Pilots should maintain their eyes out to confirm their input affects performance positively and not negatively.
 
 Once in combat, some pilots can choose whether to keep controlling everything manually and multitask, or they can set things back to automatic mode. Having manual control of the engine while on battle allows controlling the plane for the exact needs and desired pilot's tactics. While on auto mode, the pilot can focus efficiently only on the work outside the cabin without additional workload.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great variety of weapons for any map and mode; aerial combat, ground attack and maps with naval ships
-- Decent manoeuvrability
-- Has a search and tracking radar with an excellent range
-- Capable of operating from an aircraft carrier
-- Competent high-altitude performance (3 Stage supercharger)
-- High durability and efficient armour protection for the engine and the pilot
+* Great variety of weapons for any map and mode; aerial combat, ground attack and maps with naval ships
+* Decent manoeuvrability
+* Has a search and tracking radar with an excellent range
+* Capable of operating from an aircraft carrier
+* Competent high-altitude performance (3 Stage supercharger)
+* High durability and efficient armour protection for the engine and the pilot
 
 '''Cons:'''
 
-- Poor climb rate
-- All manoeuvrability is drastically decreased by payloads
-- Not as energy-efficient in a climb as other American aircraft (such as the P-47)
-- Overall worse fighter performance than F6F-5; playstyle varies
-- Hopelessly outmatched on speed by enemy planes on the same BR, as the [[Bf 109 (Family)]]
-- Turn rate is significantly higher than enemies it faces
+* Poor climb rate
+* All manoeuvrability is drastically decreased by payloads
+* Not as energy-efficient in a climb as other American aircraft (such as the P-47)
+* Overall worse fighter performance than F6F-5; playstyle varies
+* Hopelessly outmatched on speed by enemy planes on the same BR, as the [[Bf 109 (Family)]]
+* Turn rate is significantly higher than enemies it faces
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 [[File:F6F-5N- Historical photo.jpg|thumb|USS Ticonderoga (CV-14). Grumman F6F "Hellcat" fighters prepare to take off for strikes against targets in Manila Bay. The two leading planes are F6F-5N night fighters, with wing-mounted radar.|230x230px]]
 The F6F-5N was a modification of the standard F6F-5 for use as a night fighter. This variant became available on the final phase of World war II (1944-1945). The United States' Marines and US NAVY used these variants along the F6F-5 in the Pacific Theater on a wide variety of roles such as air interception, ground strike and night patrolling.
 
@@ -403,12 +388,11 @@ As the United States started to focus on Jet fighter technologies. The Hellcats 
 Consequently, the F6F-5N remained in US service up to the Korean war in 1950, where it got replaced by the F4U-5N to fill the night fighter role. {{clear}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=f6f-5n Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f6f-5n Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="150">
@@ -421,38 +405,36 @@ File:Tiny_Tim_shackle.png|A side view of the shackle connection of the [[Tiny Ti
 {{Youtube-gallery|2dJ4_1cOfus|'''This World War 2 Aircraft Had Targeting Radar - F6F-5N Night Fighter''' - ''PhlyDaily''|-FQH-w6lMHs|'''F6F 5N - HOW TO RUSH - Guide and tutorial''' - ''Green Fury''|UwJa-dIeeHI|'''WWII's F6F HellCat''' - ''Smithsonian National Air and Space Museum''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 '''Shared operational history during World War II'''
 
-- [[F6F-5]]
-- [[F4U-4]]
-- [[F4U-4B]]
+* [[F6F-5]]
+* [[F4U-4]]
+* [[F4U-4B]]
 
 '''Similar variants of this aircraft'''
 
-- [[F6F-5 (France)|▄F6F-5]]
-- [[F6F-5]]
-- [[Hellcat Mk II (Great Britain)|▄Hellcat Mk II]]
+* [[F6F-5 (France)|▄F6F-5]]
+* [[F6F-5]]
+* [[Hellcat Mk II (Great Britain)|▄Hellcat Mk II]]
 
 '''Related development'''
 
-- [[F4F (Family)|F4F]]
+* [[F4F (Family)|F4F]]
 
-- [[F8F-1]]
-- [[F8F-1B]]
+* [[F8F-1]]
+* [[F8F-1B]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/341959-f6f-5n-hellcat/ Official data sheet - more details about the performance]
-- [https://aviationshoppe.com/manuals/grumman_f6f_flight_manual/f6f.html AviationShoppe - Grumman F6F Hellcat Pilot's Manual]
+* [https://forum.warthunder.com/index.php?/topic/341959-f6f-5n-hellcat/ Official data sheet - more details about the performance]
+* [https://aviationshoppe.com/manuals/grumman_f6f_flight_manual/f6f.html AviationShoppe - Grumman F6F Hellcat Pilot's Manual]
 
 === References ===
 
@@ -463,8 +445,8 @@ File:Tiny_Tim_shackle.png|A side view of the shackle connection of the [[Tiny Ti
 
 ;Bibliography
 
-- Aircraft Carriers: A History of Carrier Aviation and Its Influence on World Events, Volume II: 1946-2006, Norman Polmar, 2007
-- And A Few Marines - Marines in the Liberation of the Philippines, PCN 19000314300, Captain John C. Chapin, USMCR (Ret), 2002
+* Aircraft Carriers: A History of Carrier Aviation and Its Influence on World Events, Volume II: 1946-2006, Norman Polmar, 2007
+* And A Few Marines - Marines in the Liberation of the Philippines, PCN 19000314300, Captain John C. Chapin, USMCR (Ret), 2002
 
 {{AirManufacturer Grumman}}
 {{USA fighters}}

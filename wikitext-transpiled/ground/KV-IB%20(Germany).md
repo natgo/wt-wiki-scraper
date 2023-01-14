@@ -10,9 +10,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German heavy tank {{Battle-rating}}. It was first unveiled in the game in [[Update_1.41#19.06.2014_-_1.41.27.12|Update 1.41.27]]. The KV-IB has been available a handful of times throughout its history, but relatively difficult to attain each time, making it one of the rarer vehicles in-game. It was first obtainable by purchasing select MSI products in Russia. In 2015, an event known as [[wt:en/news/3249/current/|"Summertime Madness"]] had the KV-1B available to be obtained as a prize. The vehicle has since been available to be obtained via events, such as the March 2016 [[wt:en/news/3610-special-team-deathmatch-win-rare-vehicles-en|"War Thunder:100"]] team deathmatch event and the Warbond shop in the [[wt:en/news/4312-shop-how-can-you-get-premium-vehicles-warbonds-en/|4th]], [[wt:en/news/5071-news-how-can-you-get-premium-vehicles-warbonds-en|5th]], and [[wt:en/news/5858-news-how-can-you-get-premium-vehicles-warbonds-en|6th]] War Thunder anniversary. Aside from these events, it is not available in-game or via the gift shop.
 
 Performance wise, the KV-1B is identical to the Soviet [[KV-1E]] with the applique armour. The applique armour is seen on the front hull plate, lower glacis, bits of the sides, and the turret sides.
@@ -28,12 +26,11 @@ The KV-1B's mobility is a mixed bag due to the heavier weight. It accelerates ef
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
+* Rolled homogeneous armour
 
 {| class="wikitable"
 |-
@@ -45,11 +42,11 @@ The KV-1B's mobility is a mixed bag due to the heavier weight. It accelerates ef
 |}
 '''Notes:'''
 
-- Suspension wheels are 20 mm thick, tracks are 30 mm thick.
-- Roof armour is quite excellent, coming in at 30 - 40 mm. It will reliably protect from most autocannons, though aircraft with good driveability and 30+ mm weaponry may still pierce it. More importantly, it makes the vehicle quite resilient against rocket strikes from vehicles such as the [[Calliope|Calliope]].
-  \*The lower glacis, unlike most other tanks, is not a weak spot! It is significantly better angled than the upper frontal plate. Furthermore, neither the MG port nor the drivers view slit are weak points. Discard them as targets if aiming for them.
-- Gun mantlet is an extra 75 mm bolted on to the turret, with some parts having an extra 90 mm added. This results in a spaced and overlapped part with ~150 mm. Only the cheeks left and right of the mantlet bulges should be shot! However, these areas are quite small and easily missed, if the turret is traversed.
-- Extra armour is not placed all over the tank, thus revealing some weaker areas on the front hull and sides.
+* Suspension wheels are 20 mm thick, tracks are 30 mm thick.
+* Roof armour is quite excellent, coming in at 30 - 40 mm. It will reliably protect from most autocannons, though aircraft with good driveability and 30+ mm weaponry may still pierce it. More importantly, it makes the vehicle quite resilient against rocket strikes from vehicles such as the [[Calliope|Calliope]].
+*The lower glacis, unlike most other tanks, is not a weak spot! It is significantly better angled than the upper frontal plate. Furthermore, neither the MG port nor the drivers view slit are weak points. Discard them as targets if aiming for them.
+* Gun mantlet is an extra 75 mm bolted on to the turret, with some parts having an extra 90 mm added. This results in a spaced and overlapped part with ~150 mm. Only the cheeks left and right of the mantlet bulges should be shot! However, these areas are quite small and easily missed, if the turret is traversed.
+* Extra armour is not placed all over the tank, thus revealing some weaker areas on the front hull and sides.
 
 The Finnish KV-1B has excellent protection characteristics. Above from its naturally tough KV-1 body that consists primarily of 75 mm of armour, it has armour screens ranging of 25 and 30 mm thick on the hull and turret respectively. Those who fight the Soviet [[KV-1E]] may understand some weak points, but the KV-1B remains a tough tank. Another part of why the KV-1B is quite a threat is that the tank is overall quite fast once it has accelerated. Coupled with the armour, this tank can be considered quite a swift bruiser.
 
@@ -61,7 +58,6 @@ Though the F-32 gun is at the weaker end of the Soviet 76 mm guns, it is still q
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=775|rbMinHp=531}}
@@ -73,9 +69,7 @@ Though the F-32 gun is at the weaker end of the Soviet 76 mm guns, it is still q
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|F-32 (76 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -96,11 +90,10 @@ Though the F-32 gun is at the weaker end of the Soviet 76 mm guns, it is still q
 
 ==== Ammunition ====
 The {{PAGENAME}} has the following ammunition available:
-
-- BR-350A: The typical APBC with HE filler. This is the standard round most players will take as the default type. It is able to cause massive post-penetration damage if it does penetrate.
-- BR-350B: The new APHEBC with HE filler, sacrificing some explosive post-penetration damages for raw penetrating power and solid-shot spalling post-penetration damage. Recommended taking this shot as the primary weapon to use the extra penetration values.
-- OF-350M: High-explosive shell. Though it should never be used for the purpose of penetrating an enemy tank, it can be useful for destroying lightly-armoured vehicles with overpressure, such as trucks and the like.
-- Sh-354T: Shrapnel shell. In ways, it is similar to the HE shell, except it has sufficient penetration value to deal with light tanks as well. Its explosion can also create shrapnel that can also be used against lightly armoured vehicles in a manner similar to HE shells.
+* BR-350A: The typical APBC with HE filler. This is the standard round most players will take as the default type. It is able to cause massive post-penetration damage if it does penetrate.
+* BR-350B: The new APHEBC with HE filler, sacrificing some explosive post-penetration damages for raw penetrating power and solid-shot spalling post-penetration damage. Recommended taking this shot as the primary weapon to use the extra penetration values.
+* OF-350M: High-explosive shell. Though it should never be used for the purpose of penetrating an enemy tank, it can be useful for destroying lightly-armoured vehicles with overpressure, such as trucks and the like.
+* Sh-354T: Shrapnel shell. In ways, it is similar to the HE shell, except it has sufficient penetration value to deal with light tanks as well. Its explosion can also create shrapnel that can also be used against lightly armoured vehicles in a manner similar to HE shells.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="8" | Penetration statistics
@@ -146,9 +139,7 @@ The {{PAGENAME}} has the following ammunition available:
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_KV-1_(L-11).png|right|thumb|x250px|[[Ammo racks]] of the [[KV-1 (L-11)]] (identical)]]
-
 <!-- '''Last updated: 1.101.0.61''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -162,15 +153,12 @@ The {{PAGENAME}} has the following ammunition available:
 |-
 |}
 Notes:
-
-- Racks are modeled by sets of 5 shells (+ 1 set of 3 & 2 sets of 4) and sets disappear from the rack once all shells in the set have been loaded/fired.
-- Turret empty: 102&nbsp;''(+9)'' shells.
+* Racks are modeled by sets of 5 shells (+ 1 set of 3 & 2 sets of 4) and sets disappear from the rack once all shells in the set have been loaded/fired.
+* Turret empty: 102&nbsp;''(+9)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|DT (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -186,7 +174,6 @@ Notes:
 The small calibre of the DT machine gun makes it largely ineffective against all armoured vehicles but the ones with an open compartment. It still can be used to ping targets as a rangefinding help. The clip capacity of the machine gun is quite poor, as it relies on a magazine of 63 bullets instead of a belt like similar machine guns from other nations.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 In game, this tank is possesses great armour and an adequate gun. However, it may not be able to destroy the enemy from the front at times. As such, the tank may require being at a very close distance or a flank shot to disable certain targets. The defining characteristic of this tank is its armour. It can be a tough tank to destroy, given that most of the weak spots from the predecessor have been armoured and, from the front, the only weak spot is the centre of the upper hull. When using this tank, do not be afraid to advance towards the enemy, especially against tanks such as the 75 mm M4s and T-34s since they will find it very difficult to penetrate your thick armour. This tank can also be used for long-range support, since when the armour is properly angled, almost no tank that it faces can pierce its armour.
@@ -199,24 +186,24 @@ Against Allies, there are a few guns that have the ability to penetrate the KV-1
 '''''Urban environment'''''<br>
 Urban areas tend to result in very close range engagements. At this range, the armour of this tank can no longer offer the degree of protection that it does at range. With this being said, urban can also present nice medium range opportunities, such as open-air squares and long streets in which this tank can utilise its armour. Urban fighting presents the largest challenge for this tank, as close range flank shots can easily pierce its mighty armour. As such, here are some tactics to use in a city setting:
 
-- Hold down a street - set up in a way that minimizes the chance to be flanked while allowing for the largest angle fire. This will allow the KV-1B to fire at the enemy while minimizing the chance of getting knocked out by a close-range flank shot
-- Move with a group of tanks - try to stay in the middle of a group as this will minimize the chances of a close-range flank shot. At this range, the cannon of the tank can penetrate most tanks and has a decent rate of fire, allowing it to quickly engage multiple targets.
-- Never blindly drive through an intersection - always check both ways before crossing, as this presents the largest opportunity for danger for this tank.
+* Hold down a street - set up in a way that minimizes the chance to be flanked while allowing for the largest angle fire. This will allow the KV-1B to fire at the enemy while minimizing the chance of getting knocked out by a close-range flank shot
+* Move with a group of tanks - try to stay in the middle of a group as this will minimize the chances of a close-range flank shot. At this range, the cannon of the tank can penetrate most tanks and has a decent rate of fire, allowing it to quickly engage multiple targets.
+* Never blindly drive through an intersection - always check both ways before crossing, as this presents the largest opportunity for danger for this tank.
 
 '''Open country'''
 The armour of this tank allows it to engage in the long-range fighting that defines an open country. However, the gun on this tank does not allow it to engage targets at range. This means that in while playing in open country, it is a good idea to get into a good overwatch position or to charge the enemy until the KV-1B is capable of engaging at the optimal range for the 76 mm weapon. While the armour on this tank is among the best for the enemies it faces, there are still certain tanks to worry about. The main tanks to work about are those with the American 76 mm, German 75 mm L/48, Soviet 57 mm and 85 mm, and of course all the large calibre guns such as the KV-2. These weapons are capable of piercing through the KV-1B armour at range, though this requires a lucky hit on an un-angled plate. Here are some tips when fighting in open country:
 
-- Always angle the tank - the unangled armour is good, but it is nearly impossible to pierce when properly angled.
-- Don't be afraid to expose the tank - use the armour to give a degree of freedom in finding the targets.
-- Advance - take the point or lead the charge, the KV-1B has the armour to break through enemy lines.
+* Always angle the tank - the unangled armour is good, but it is nearly impossible to pierce when properly angled.
+* Don't be afraid to expose the tank - use the armour to give a degree of freedom in finding the targets.
+* Advance - take the point or lead the charge, the KV-1B has the armour to break through enemy lines.
 
 '''Hill country'''
 
 This is the type of terrain that this tank excels in. The average range of engagements allows for both the armour and gun to shine. This type of terrain also makes flanking hard, since going over a hill exposes a tank to fire from multiple directions. Even with this, don't forget to check your surroundings. Here are some tips and tactics for fighting in this environment:
 
-- Move through the area between hills - this will allow a degree of control on where the enemy will come from and angle the armour in accordance.
-  \*\* Going over large hills can be dangerous as it exposes the KV-1B to fire from all directions and also exposes the bottom of the tank to fire.
-- Check your surroundings - while it is dangerous to go over hills, many newer player will attempt to do this and will sometimes manage to flank the tank.
+* Move through the area between hills - this will allow a degree of control on where the enemy will come from and angle the armour in accordance.
+** Going over large hills can be dangerous as it exposes the KV-1B to fire from all directions and also exposes the bottom of the tank to fire.
+* Check your surroundings - while it is dangerous to go over hills, many newer player will attempt to do this and will sometimes manage to flank the tank.
 
 '''Long range'''
 
@@ -231,36 +218,34 @@ This tank excels in medium range combat due to great armour. Many tanks it faces
 This tank does not excel here due to bad mobility, and the greatest strength of this tank, its great armour, is no longer as potent.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Has extra 25 mm armour on the hull front and sides, and 30 mm on the turret sides
-- Features a unique Finnish camouflage
-- Good reload time
-- Very good brawler
-- Very good at absorbing damage
-- Gun does a lot of damage upon penetration
-- Very good top armour
-- Crew of five
-- Bouncy turret cheeks
-- Located on the German lineup, you wont face dangerous guns like the KwK 40 in RB or SB.
+* Has extra 25 mm armour on the hull front and sides, and 30 mm on the turret sides
+* Features a unique Finnish camouflage
+* Good reload time
+* Very good brawler
+* Very good at absorbing damage
+* Gun does a lot of damage upon penetration
+* Very good top armour
+* Crew of five
+* Bouncy turret cheeks
+* Located on the German lineup, you wont face dangerous guns like the KwK 40 in RB or SB.
 
 '''Cons:'''
 
-- Some of the spots are not covered by the additional armour
-- Gun is basically the same as the L-11 cannon, therefore it's weak compared to other guns
-- Slow repair times
-- No access to APCR shells
-- Driver's port can easily be penetrated
-- Sluggish turn when not in motion, and turning while in motion will make the KV-1B lose a lot of speed
-- Does not like obstacle and hills
-- Reverse speed is below average
-- Finnish KV-1B looks like a Soviet KV-1 so you may be mistakenly team killed often in SB, however regularly updating teammates using the request location feature can negate this somewhat
+* Some of the spots are not covered by the additional armour
+* Gun is basically the same as the L-11 cannon, therefore it's weak compared to other guns
+* Slow repair times
+* No access to APCR shells
+* Driver's port can easily be penetrated
+* Sluggish turn when not in motion, and turning while in motion will make the KV-1B lose a lot of speed
+* Does not like obstacle and hills
+* Reverse speed is below average
+* Finnish KV-1B looks like a Soviet KV-1 so you may be mistakenly team killed often in SB, however regularly updating teammates using the request location feature can negate this somewhat
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 ===Development of KV-1===
@@ -276,40 +261,34 @@ Finnish troops captured many Soviet armoured vehicles during the Winter War and 
 Several KV-1s survived the war, most as monuments, but also in museums, along with several reproductions. Only one genuine KV-1 was restored to running condition in Russia after it was found in the bottom of the Neva River. One KV-1B can also be found at the Bovington Tank Museum at England.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_kv_1B_finland Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_kv_1B_finland Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|TAsKF9jjBSY|'''Tank Review Gameplay - RARE Premium {{PAGENAME}}''' - ''Jim Chamberlin''|SQ1JGMeRYZA|'''Rare Tank - {{PAGENAME}}''' - ''Krebs''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
-
-- [[KV-1 (Family)]]
+* [[KV-1 (Family)]]
 
 ;Other vehicles of similar configuration and role
-
-- [[Churchill III]]
-- [[ARL-44 (ACL-1)]]
+* [[Churchill III]]
+* [[ARL-44 (ACL-1)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/792--en|[Historical] Zinovy Kolobanov's feat of arms]]
-- [[wikipedia:Kliment_Voroshilov_tank|[Wikipedia] Kliment Voroshilov tank]]
-- [https://tanks-encyclopedia.com/ww2/soviet/soviet_KV-1.php <nowiki>[Tanks Encyclopedia]</nowiki> KV-1]
+* [[wt:en/news/792--en|[Historical] Zinovy Kolobanov's feat of arms]]
+* [[wikipedia:Kliment_Voroshilov_tank|[Wikipedia] Kliment Voroshilov tank]]
+* [https://tanks-encyclopedia.com/ww2/soviet/soviet_KV-1.php <nowiki>[Tanks Encyclopedia]</nowiki> KV-1]
 
 {{TankManufacturer Kirov}}
 {{Germany heavy tanks}}

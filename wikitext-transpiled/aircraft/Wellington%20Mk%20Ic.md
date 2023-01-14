@@ -12,15 +12,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British bomber {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -48,7 +45,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British bomber {{Battle-rating
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -79,13 +76,12 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British bomber {{Battle-rating
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
 The Wellington Mk Ic has no armour protection. The fuel tanks, oil coolers, and engines are all located in the wings. The crew are spread throughout the fuselage. Due to the lack of armour the crew, especially the gunners, are very vulnerable. This could lead to enemy fighters quickly disabling your gunners and leaving you defenceless.
 
-- No armour protection
-- Self-sealing fuel tanks
+* No armour protection
+* Self-sealing fuel tanks
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -102,35 +98,30 @@ The sneaky approach, on the other hand, relies less on speed, but on surviving t
 {{Specs-Avia-Armaments}}
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|G.P. Mk.I (1,000 lb)|H.C. 4,000 lb Mk.II (4,000 lb)|18 inch Mark XII (450 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 10 x 250 lb G.P. Mk.IV bombs (2,500 lb total)
-- 18 x 250 lb G.P. Mk.IV bombs (4,500 lb total)
-- 9 x 500 lb G.P. Mk.IV bombs (4,500 lb total)
-- 2 x 1,000 lb G.P. Mk.I bombs + 6 x 250 lb G.P. Mk.IV bombs (3,500 lb total)
-- 2 x 18 inch Mark XII torpedoes
-- 1 x H.C. 4,000 lb Mk.II bomb (4,000 lb total)
+* 10 x 250 lb G.P. Mk.IV bombs (2,500 lb total)
+* 18 x 250 lb G.P. Mk.IV bombs (4,500 lb total)
+* 9 x 500 lb G.P. Mk.IV bombs (4,500 lb total)
+* 2 x 1,000 lb G.P. Mk.I bombs + 6 x 250 lb G.P. Mk.IV bombs (3,500 lb total)
+* 2 x 18 inch Mark XII torpedoes
+* 1 x H.C. 4,000 lb Mk.II bomb (4,000 lb total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|Vickers K (7.7 mm)|Browning (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 2 x 7.7 mm Browning machine guns, nose turret (1,200 rpg = 2,400 total)
-- 2 x 7.7 mm Browning machine guns, tail turret (2,000 rpg = 4,000 total)
-- 1 x 7.7 mm Vickers K machine gun, 2 x beam turrets (483 rpg)
+* 2 x 7.7 mm Browning machine guns, nose turret (1,200 rpg = 2,400 total)
+* 2 x 7.7 mm Browning machine guns, tail turret (2,000 rpg = 4,000 total)
+* 1 x 7.7 mm Vickers K machine gun, 2 x beam turrets (483 rpg)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 === Air Battles ===
@@ -170,28 +161,26 @@ Using the 500 lb or 4,000 lb bombs or other bombs which can be used, either dive
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Excellent payload - up to 4,500 lbs at max payload weight
-- Versatile payload options and access to the devastating 4,000 lb bomb
-- Excellent turret coverage
-- Very powerful torpedoes, two are enough to sink an aircraft carrier
-- The aircraft can take a beating thanks to the cross-hatched airframe
+* Excellent payload - up to 4,500 lbs at max payload weight
+* Versatile payload options and access to the devastating 4,000 lb bomb
+* Excellent turret coverage
+* Very powerful torpedoes, two are enough to sink an aircraft carrier
+* The aircraft can take a beating thanks to the cross-hatched airframe
 
 '''Cons:'''
 
-- Defensive turrets are easy to take out
-- Defensive armament has poor damage output
-- Extremely slow all-around mobility
-- Easy prey for high altitude fighters/try to get near 6,000 m where very little opposition is found
-- Having a fighter with good weaponry on your six usually means death
-- The crew cannot take a beating due to the lack of armour. The cockpit is particularly vulnerable
+* Defensive turrets are easy to take out
+* Defensive armament has poor damage output
+* Extremely slow all-around mobility
+* Easy prey for high altitude fighters/try to get near 6,000 m where very little opposition is found
+* Having a fighter with good weaponry on your six usually means death
+* The crew cannot take a beating due to the lack of armour. The cockpit is particularly vulnerable
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 Developed from the British Air Ministry's Specification B.9/32 in 1932, which called for a long range, twin-engine bomber capable of a range of 720 miles with a payload of 1,000 lbs, Vickers returned to the Ministry with a proposal for an aircraft with four times the range and bombload of the specification. Unsurprisingly, the Ministry ordered a prototype, designated the Vickers Type 271, which took off on its maiden flight on June 15, 1936 with Vickers Chief Test Pilot Joseph "Mutt" Summers at the controls. The aircraft, a mid-wing monoplane fitted with Bristol's Pegasus X engines outputting 915 HP each which drove a three-bladed, variable pitch propeller.
@@ -219,27 +208,23 @@ The Wellington torpedo bombers were used for the first time in the Mediterranean
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=wellington_mk1c Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=wellington_mk1c Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|RuBjkyZT6Yw|'''The Shooting Range #6''' - ''Pages of History'' section at 00:40 discusses the Vickers Wellington.}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer Vickers}}
 {{Britain bombers}}

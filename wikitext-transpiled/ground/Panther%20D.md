@@ -8,13 +8,11 @@
 }}
 {{Specs-Card
 |code=germ_pzkpfw_V_ausf_d_panther
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' ('''{{Specs|pseudonym}}''') ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 171''') is a rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41. Beginning a new generation of German tanks, the Panther medium tank was one of the most iconic tanks of World War II with its high velocity [[KwK 42 (75 mm)|75 mm gun]] and heavy front sloping armour.
 
 The Panther is not like the preceding [[Pz.IV H|Panzer IV]] in the German tank line-up. The Panther D was historically made for long-range combat with its long 75 mm KwK 42 gun. Close distance is not the greatest ally for the Panther, with its weak side armour and gun mantlet, it can be easily penetrated by most other tanks at its rank if they can hit these points. Additionally, the slow turret traverse speed makes it easy for enemy tanks to flank the Panther, therefore close-quarter combat should be avoided if possible. Thus, Panther should be played with a self-established "safe boundary" around the tank to stay safe from flankers. Despite that, as a front brawler, it excels due to the strong front armour and speed.
@@ -22,9 +20,7 @@ The Panther is not like the preceding [[Pz.IV H|Panzer IV]] in the German tank l
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
 *Rolled homogeneous armour
@@ -43,18 +39,17 @@ The Panther is not like the preceding [[Pz.IV H|Panzer IV]] in the German tank l
 |}
 '''Notes:'''
 
-- Suspension wheels and tracks are 20 mm thick. The interleaved suspension wheels means that there are places where it will be a cumulative 20 + 20 mm extra armour.
-- Belly armour is 16 mm thick.
-- A 30 mm RHA plate separates the engine compartment from the crew compartment.
-- Tracks and lower side of the hull are covered by 5 mm thick armour plate, protecting them from HEAT and HE shells.
-- Rear parts of the upper side hull armour have tracks attached to it, adding additional 20 mm of armour.
-- The gun mantlet ring around the gun barrel is 300 mm thick.
-- [[Add-on Armor|Add-on armour]] adds tracks around the turret side and rear.
-- Never try to angle the Panther, its side is too vulnerable, especially above the tracks
+* Suspension wheels and tracks are 20 mm thick. The interleaved suspension wheels means that there are places where it will be a cumulative 20 + 20 mm extra armour.
+* Belly armour is 16 mm thick.
+* A 30 mm RHA plate separates the engine compartment from the crew compartment.
+* Tracks and lower side of the hull are covered by 5 mm thick armour plate, protecting them from HEAT and HE shells.
+* Rear parts of the upper side hull armour have tracks attached to it, adding additional 20 mm of armour.
+* The gun mantlet ring around the gun barrel is 300 mm thick.
+* [[Add-on Armor|Add-on armour]] adds tracks around the turret side and rear.
+* Never try to angle the Panther, its side is too vulnerable, especially above the tracks
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=1,007|rbMinHp=575|AoAweight=0.45}}
@@ -66,9 +61,7 @@ The Panther is not like the preceding [[Pz.IV H|Panzer IV]] in the German tank l
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|KwK42 (75 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -124,9 +117,7 @@ The Panther is not like the preceding [[Pz.IV H|Panzer IV]] in the German tank l
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.15.1.65''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -150,13 +141,11 @@ The Panther is not like the preceding [[Pz.IV H|Panzer IV]] in the German tank l
 |}
 '''Note''':
 
-- Turret and large sides empty: 31 ''(+48)'' shells
+* Turret and large sides empty: 31 ''(+48)'' shells
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|MG34 (7.92 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -170,9 +159,7 @@ The Panther is not like the preceding [[Pz.IV H|Panzer IV]] in the German tank l
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Panther has a much stronger front glacis armour than its heavy tank companion [[Tiger H1|Tiger I]], with ~140 mm effective thickness with sloping compared to the Tiger's 100 mm armour. However, only the frontal glacis is nigh impenetrable, the side armour and turret are very vulnerable and care must be taken to keep this safe.
 
 One method is to exploit the Panther's long gun range with distance. Fight from a long distance from 800 m to 2,000 m away. At this range, the enemy's gun shells will lose most of their penetrative potential compared to the Panther's gun and will (hopefully) not be able to penetrate the Panther's weak point on the turret, plus you have the benefit of their lower aim accuracy due to distance. Of course, this scenario is very unlikely given the more close-oriented maps and games in War Thunder, so let's get to the alternative tactic...
@@ -180,37 +167,34 @@ One method is to exploit the Panther's long gun range with distance. Fight from 
 In a more close-range tactic, stay with your allies. Allies will help you by covering your weak points on your sides. If you advance too far from your allies, the likelihood of your tank ending in a fiery ammunition explosion increases exponentially. Even in a close-range battle, try to maintain distance between you and the enemy tank to prevent them from easily flanking you and keep a range advantage to keep your weak points as hard to hit as possible. The slow turret traverse will also be a lower drawback at a longer range as you will not need to turn your turret as much to aim at different targets. Stay near the rear of the line while more mobile and aggressive allies charge forward and attract the enemy's attention so you can get the jump on them.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Excellent cannon has a range of ammo for any type of enemy: great stock AP for common targets, piercing APCR for early Cold War tanks and HE for light vehicles. Plenty of ammo capacity allows flexible ammo loadouts
-- Great accuracy and velocity allows easy long-range sniping.
-- Heavily armoured frontal hull is immune to most guns at its battle rating, e.g. the 85 mm D-5T or 76 mm M1
-- Fast top speed, good hull traverse. Can get to positions in time
-- Adequate gun depression of -8° adapts most terrains well
-- Has a wide range of effective camouflage to unlock. Suitable for almost every terrain/map
-- Gun mantlet tends to sometimes absorb shells
+* Excellent cannon has a range of ammo for any type of enemy: great stock AP for common targets, piercing APCR for early Cold War tanks and HE for light vehicles. Plenty of ammo capacity allows flexible ammo loadouts
+* Great accuracy and velocity allows easy long-range sniping.
+* Heavily armoured frontal hull is immune to most guns at its battle rating, e.g. the 85 mm D-5T or 76 mm M1
+* Fast top speed, good hull traverse. Can get to positions in time
+* Adequate gun depression of -8° adapts most terrains well
+* Has a wide range of effective camouflage to unlock. Suitable for almost every terrain/map
+* Gun mantlet tends to sometimes absorb shells
 
 '''Cons:'''
 
-- Gun mantlet is only 100 mm thick, a huge and well-known weak spot to shoot at
-- Very poor turret traverse making it hard to respond to flankers or to get the gun on target. For close-quarter combat, great situational awareness and fast reaction is required which isn't beginner friendly
-- Side ammo racks are prone to detonation when hit
-- Terrible reverse speed, not enough to get out of bad situations
-- Weak side armour gets penetrated easily by Soviet APHEBC shells (e.g. BR-365A, BR-471). Cannot angle too much
-- Lower glacis penetrations often start fires or break the transmission, leaving the tank immobile and vulnerable
-- High profile for a medium tank makes it harder to hide
-- Thin roof armour is vulnerable to [[M2 Browning (12.7 mm)|M2 Brownings]] which are widely seen on American planes
-- Although heavily armoured, its hull can easily get penetrated frontally by Soviet 122 mm guns ([[IS-2 (Family)|IS-2]], etc.), resulting in a knock-out out with a single shot
-- The small calibre of the gun means the main APCBC shell has rather small amounts of explosive filler, resulting in it often being unable to one shot enemies
-- The curved gun mantlet is a shot trap: it will deflect rounds into the weak hull roof armour
+* Gun mantlet is only 100 mm thick, a huge and well-known weak spot to shoot at
+* Very poor turret traverse making it hard to respond to flankers or to get the gun on target. For close-quarter combat, great situational awareness and fast reaction is required which isn't beginner friendly
+* Side ammo racks are prone to detonation when hit
+* Terrible reverse speed, not enough to get out of bad situations
+* Weak side armour gets penetrated easily by Soviet APHEBC shells (e.g. BR-365A, BR-471). Cannot angle too much
+* Lower glacis penetrations often start fires or break the transmission, leaving the tank immobile and vulnerable
+* High profile for a medium tank makes it harder to hide
+* Thin roof armour is vulnerable to [[M2 Browning (12.7 mm)|M2 Brownings]] which are widely seen on American planes
+* Although heavily armoured, its hull can easily get penetrated frontally by Soviet 122 mm guns ([[IS-2 (Family)|IS-2]], etc.), resulting in a knock-out out with a single shot
+* The small calibre of the gun means the main APCBC shell has rather small amounts of explosive filler, resulting in it often being unable to one shot enemies
+* The curved gun mantlet is a shot trap: it will deflect rounds into the weak hull roof armour
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 The '''Panther''' development started as far back as 1938 as a replacement to the [[Pz.III F|Panzer IIIs]] and [[Pz.IV E|Panzer IVs]]. The program was called ''VK 20'' and it called for a 20 ton tracked vehicle design by Krupp, Daimler-Benz, and MAN. Krupp dropped out when the requirements changed to 30 tones in 1941 when the German encounters the Soviet [[T-34 (1941)|T-34]] and [[KV-1 (L-11)|KV-1]] tanks where the Panzer III and Panzer IV's performance have little effect due to its superior armour, mobility, and armament. The ''VK 20'' was abandoned for the ''VK 30.02'' in April 1942. Daimler-Benz design for this project looks similar to the T-34 with the turret far forward in the hull, plus the use of a diesel engine and external leaf spring suspension. MAN's design had a twin torsion bar, the interleaved suspension system (like the [[Tiger H1|Tiger I]]) with the turret situated in the middle of the hull, plus had a petrol Maybach engine. Hitler was reported to believe that the DB design was superior to the MAN design, and in a review between January to March 1942, Fritz Todt and Albert Speer also recommended the DB design. Then MAN revised their design, and a special commission by Hitler decided on the MAN design in May 1942, to which Hitler approved after reviewing it. One of the reasons the MAN was approved was that its turret was already in production while the DB used a completely new design. However, despite being built for a 30-ton design, Hitler decided to increase the armour on the MAN design and the weight went from 30 tons to 45 tons.
 
@@ -253,16 +237,13 @@ The vehicle's combat debut was the Battle of Kursk, where the variant exhibited 
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_V_ausf_d_panther Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_V_ausf_d_panther Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
-
-- [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
+* [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 ;Videos
 {{Youtube-gallery|E9574a7h9is|'''Panther D at BR 5.3 - Rewarding But Exhausting''' - ''Napalmratte''|y1S7jHyFxdA|'''The Shooting Range #34''' - ''Pages of History'' section at 02:36 discusses the Panther I.|9rUocSj2dHc|'''Tank Chats #16 Panther''' - ''The Tank Museum''}}
@@ -270,17 +251,16 @@ The vehicle's combat debut was the Battle of Kursk, where the variant exhibited 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wikipedia:Panther_tank|[Wikipedia] Panther tank]]
-- [https://tanks-encyclopedia.com/ww2/nazi_germany/Panzer-V_Panther.php <nowiki>[Tanks Encyclopedia]</nowiki> Panzer V Panther]
+* [[wikipedia:Panther_tank|[Wikipedia] Panther tank]]
+* [https://tanks-encyclopedia.com/ww2/nazi_germany/Panzer-V_Panther.php <nowiki>[Tanks Encyclopedia]</nowiki> Panzer V Panther]
 
 {{TankManufacturer MAN AG}}
 {{Germany medium tanks}}

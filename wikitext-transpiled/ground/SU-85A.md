@@ -7,14 +7,12 @@
 }}
 {{Specs-Card
 |code=ussr_su_85a
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |market=SU-85A (USSR)
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet tank destroyer {{Battle-rating}}. This vehicle was introduced in [[Update 1.85 "Supersonic"]] and offered as a reward during the [[wt:en/news/5962-special-festive-quest-en|2018 Festive Quest]] event.
 
 This tank destroyer was created for testing at the end of 1943, as a potential successor of the SU-76M. The most notable difference was the replacement of the older 76 mm gun with an adapted version of an 85 mm anti-aircraft cannon. Ultimately the vehicle was not accepted for anything beyond testing due to poor mechanical performance.
@@ -22,12 +20,11 @@ This tank destroyer was created for testing at the end of 1943, as a potential s
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (hull, superstructure)
+* Rolled homogeneous armour (hull, superstructure)
 
 {| class="wikitable"
 |-
@@ -41,10 +38,10 @@ This tank destroyer was created for testing at the end of 1943, as a potential s
 |}
 '''Notes:'''
 
-- Suspension wheels are 10 mm thick while tracks are 15 mm thick.
-- Belly armour is 7 mm thick.
-- There is an additional inner wall (10 mm thick) separating the driver compartment from the crew compartment.
-- There is an additional inner wall (10 mm thick) on the right side separating the radiator from the crew compartment.
+* Suspension wheels are 10 mm thick while tracks are 15 mm thick.
+* Belly armour is 7 mm thick.
+* There is an additional inner wall (10 mm thick) separating the driver compartment from the crew compartment.
+* There is an additional inner wall (10 mm thick) on the right side separating the radiator from the crew compartment.
 
 Like the [[SU-76M]] it derives from, the {{PAGENAME}}'s armour leaves a lot to be desired. The chassis itself is loosely based off of the light tanks T-70 and T-80. As a result, the lower frontal plate is 30 mm RHA, the upper plate and front of the crew compartment is 25 mm RHA, and the gun mantlet is 35 mm. There is a relatively small additional armour plate (25 mm) that is welded onto the upper frontal plate in front of the engines to give them slightly better protection. The sides and rear are 15 mm (hull) and 10 mm (crew compartment), making this vehicle vulnerable to heavy machine gunfire. This vehicle is also open-topped, making it a prime target for fighters looking to strafe an easy kill. All in all, this vehicle is the embodiment of a "glass cannon", unable to defend itself from anything but perhaps a glancing blow.
 
@@ -52,7 +49,6 @@ At its battle rating where one of the most common ammunition type used is APHE o
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=199|rbMinHp=124}}
@@ -68,9 +64,7 @@ The {{PAGENAME}} has two coupled 70 horsepower motors, giving it a combined outp
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|D-5S (85 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -94,10 +88,10 @@ The D-5S gun offers a very good penetration power at its battle rating. Its high
 ==== Ammunition ====
 The available ammunition allows for engaging all types of targets:
 
-- '''BR-365K''': APHE; an armour-piercing shell with good penetration power and an explosive filler that will destroy any tank it penetrates.
-- '''BR-365A''': APHEBC; an armour-piercing shell with a reduced penetration power but a bigger explosive filler.
-- '''BR-365P''': APCR; a composite round with the best penetration power but no explosive filler and that will only penetrate flat vertical surfaces. It loses its advantage in penetration power beyond 1,000 m compared with conventional shells.
-- '''O-365K''': HE; a high-explosive shell useful for destroying open and lightly armoured vehicles.
+* '''BR-365K''': APHE; an armour-piercing shell with good penetration power and an explosive filler that will destroy any tank it penetrates.
+* '''BR-365A''': APHEBC; an armour-piercing shell with a reduced penetration power but a bigger explosive filler.
+* '''BR-365P''': APCR; a composite round with the best penetration power but no explosive filler and that will only penetrate flat vertical surfaces. It loses its advantage in penetration power beyond 1,000 m compared with conventional shells.
+* '''O-365K''': HE; a high-explosive shell useful for destroying open and lightly armoured vehicles.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="8" | Penetration statistics
@@ -143,9 +137,7 @@ The available ammunition allows for engaging all types of targets:
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 1.101.0.75''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -159,35 +151,32 @@ The available ammunition allows for engaging all types of targets:
 |}
 Notes:
 
-- Shells are modeled individually and disappear after having been shot or loaded.
-- Open-topped compartment empty of ammo: 31&nbsp;''(+11)''.
+* Shells are modeled individually and disappear after having been shot or loaded.
+* Open-topped compartment empty of ammo: 31&nbsp;''(+11)''.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 In realistic battles, this vehicle plays best from the sidelines in a support role. It does not possess the speed to rush anywhere, even if it is not slow. It does not have the ability to take a hit without enduring crippling damage. It can hide behind walls and relatively low cover and remain hidden where a taller light or medium tank would likely be spotted. Its gun is superior to other guns at its BR range, such as American short 75 and 76 mm guns commonly found on Shermans and German 75 mm guns found on Panzer IV's. As such, the SU-85A can typically penetrate most tanks it battles against through their frontal armour out to distances in excess of a kilometre.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- 85 mm D5-S cannon is powerful against common tanks like [[M4A2]], [[Cromwell V|Cromwell]], [[Pz.IV G|Pz.IV]]
-- Relatively small target / low silhouette
-- Great variety of ammunition to deal with all types of opponents
+* 85 mm D5-S cannon is powerful against common tanks like [[M4A2]], [[Cromwell V|Cromwell]], [[Pz.IV G|Pz.IV]]
+* Relatively small target / low silhouette
+* Great variety of ammunition to deal with all types of opponents
 
 '''Cons:'''
 
-- Armour is not thick enough to protect the crew from much of anything, making the vehicle a "glass cannon".
-- Open-topped (often strafed by planes)
-- Crew is grouped tightly together - A penetrating shot that does not result in ammunition or fuel detonation will likely incapacitate several crew members.
-- ±8° horizontal gun traverse limit means that it might have to constantly adjust the hull, revealing itself
-- Low reverse speed
+* Armour is not thick enough to protect the crew from much of anything, making the vehicle a "glass cannon".
+* Open-topped (often strafed by planes)
+* Crew is grouped tightly together - A penetrating shot that does not result in ammunition or fuel detonation will likely incapacitate several crew members.
+* ±8° horizontal gun traverse limit means that it might have to constantly adjust the hull, revealing itself
+* Low reverse speed
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 While working to develop an SPG that could vie with the most modern German tanks, the designers in the GAZ design bureau came up with a simple plan: take the SU-76M, the production of which had already been mastered, and create a new, more powerful weapon based on it. The project was developed with two 85 mm cannons, the D-5S and the S-53S. The version with the D-5S ended up being built for testing purposes, and the vehicle came to be called the SU-85A. During testing it became clear that the recoil of the powerful cannon was too great for a light SPG, which led the engineers to install a new gun and upgrade the defensive characteristics of their creation. However, by 1945 the modernized vehicle known as the SU-85B had become decidedly out of date, and the military decided to cancel the project.
@@ -195,38 +184,33 @@ While working to develop an SPG that could vie with the most modern German tanks
 ''- From [[wt:en/news/5964-development-su-85a-premium-spg-en|Devblog]]''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_su_85a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_su_85a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|NpbRZ-Z56AQ|'''Keep it or Sell it? {{PAGENAME}} Event Tank''' - ''Virus''|XTl06UP8wZ8|'''{{PAGENAME}}; Is it worth it?''' - ''Many Miles Away''|exXJEChm53c|'''{{PAGENAME}} - The Ugly with the 85 mm''' - ''Napalmratte''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
-
-- [[SU-76M]] / [[SU-76M (China)]] / [[SU-76M (5th Gv.Kav.Corps)]]
+* [[SU-76M]] / [[SU-76M (China)]] / [[SU-76M (5th Gv.Kav.Corps)]]
 
 ;Other vehicles of similar configuration and role
-
-- [[90/53 M41M]]
-- [[Pvkv m/43 (1946)]]
+* [[90/53 M41M]]
+* [[Pvkv m/43 (1946)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/5964-development-su-85a-premium-spg-en|[Devblog] SU-85A Premium SPG]]
+* [[wt:en/news/5964-development-su-85a-premium-spg-en|[Devblog] SU-85A Premium SPG]]
 
 {{TankManufacturer GAZ}}
 {{USSR tank destroyers}}

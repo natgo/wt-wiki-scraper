@@ -8,25 +8,22 @@
 }}
 {{Specs-Card
 |code=germ_pzkpfw_V_ausf_f_panther
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' ('''{{Specs|pseudonym}}''') ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 171''') is a rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before [[Update 1.41]]. Since [[Update 1.91 "Night Vision"]], it became the last Panther in the German tech tree due to the removal of the [[Panther II]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (gun mantlet, cupola)
+* Rolled homogeneous armour
+* Cast homogeneous armour (gun mantlet, cupola)
 
 {| class="wikitable"
 |-
@@ -44,7 +41,6 @@ From the hull up, the F variation of the Panther is similar to previous models. 
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=930|rbMinHp=531}}
@@ -58,9 +54,7 @@ As expected of the Panther series, it features excellent mobility as a result of
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|KwK44 (75 mm)}}
 
 The KwK44 is an incredibly effective gun when engaging enemy armour due to its penetration. Although not as effective as the later legendary [[KwK43 (88 mm)|KwK43]], it's enough to penetrate most enemies it will face, resulting in many two-shot kills with the help of the PzGr 39's explosive filler. The penetration combined with the excellent accuracy makes it an ideal sniping cannon.
@@ -122,9 +116,7 @@ The KwK44 is an incredibly effective gun when engaging enemy armour due to its p
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -145,14 +137,12 @@ The KwK44 is an incredibly effective gun when engaging enemy armour due to its p
 |}
 '''Note''':
 
-- Right side empty: 50&nbsp;''(+32)'' shells.
-- Both sides empty: 22&nbsp;''(+60)'' shells.
+* Right side empty: 50&nbsp;''(+32)'' shells.
+* Both sides empty: 22&nbsp;''(+60)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|MG42 (7.92 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -166,7 +156,6 @@ The KwK44 is an incredibly effective gun when engaging enemy armour due to its p
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The Panther is a great "hunter," locating weak (slow, damaged, or alone) tanks and taking them out is by far its greatest capability. Mobility is a big advantage and the tanker should use it to their advantage, especially when fighting higher-rank vehicles. You should find a suitable location as soon as possible; when you do this, you can easily push off advancing enemy tanks while heavier allies join the action. Just when you notice that you have strong opposition it is time to retreat. Your role is not to fight directly but rather spot weaknesses in the enemy defence. Once you learn how to take advantage of its speed and gun, you'll easily take out enemy targets by surprise.
@@ -180,32 +169,30 @@ The Panther has no anti-air capabilities, so it is best to find cover if there a
 If the map allows it and you prefer this kind of playstyle, the Panther F also excels at sniping. Although having a slower turret traverse speed and mobility compared to the Panther A, the F version trades it for better turret armour, a rangefinder and faster reload. The distance will make your armour almost impenetrable to a lot of guns while being able to use the rangefinder, high muzzle velocity and great optics to pick off enemies.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Flat mantlet removes the shot trap which plagued earlier models
-- Nigh impenetrable turret cheeks when facing from the front
-- 75 mm KwK44 is an accurate and powerful gun
-- Explosive filler on PzGr 39 shell allows for easy one- or two-shot kills
-- APCR shell can allow the tank to compete with the heavier armour found in an uptier
-- Features excellent, although toned down mobility as well as neutral steering
-- Hull can become even more difficult to penetrate when angled properly
-- Slightly faster reload than the previous models of Panthers
-- Optical rangefinder, allows you to measure the range faster than the normal rangefinder and up to 2,200-2,500 m (depending on your crew qualification)
+* Flat mantlet removes the shot trap which plagued earlier models
+* Nigh impenetrable turret cheeks when facing from the front
+* 75 mm KwK44 is an accurate and powerful gun
+* Explosive filler on PzGr 39 shell allows for easy one- or two-shot kills
+* APCR shell can allow the tank to compete with the heavier armour found in an uptier
+* Features excellent, although toned down mobility as well as neutral steering
+* Hull can become even more difficult to penetrate when angled properly
+* Slightly faster reload than the previous models of Panthers
+* Optical rangefinder, allows you to measure the range faster than the normal rangefinder and up to 2,200-2,500 m (depending on your crew qualification)
 
 '''Cons:'''
 
-- Although the turret has increased armour, it remains a weak spot with basically no angling
-- Hull suffers similarly to turret; although good by itself, it becomes paper when facing higher tier guns
-- 75 mm KwK44 can become difficult to use as a sniper in an uptier
-- Pitiful reverse speed of only -3 km/h
-- Slower turret traverse than the Panther A and G
-- Turret cheeks can be penetrated by high penetration guns (German 88 mm or US 90 mm)
+* Although the turret has increased armour, it remains a weak spot with basically no angling
+* Hull suffers similarly to turret; although good by itself, it becomes paper when facing higher tier guns
+* 75 mm KwK44 can become difficult to use as a sniper in an uptier
+* Pitiful reverse speed of only -3 km/h
+* Slower turret traverse than the Panther A and G
+* Turret cheeks can be penetrated by high penetration guns (German 88 mm or US 90 mm)
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -219,24 +206,23 @@ In October 1944, production of the Ausf. F was set to launch in the Daimler-Benz
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_V_ausf_f_panther Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_V_ausf_f_panther Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{TankManufacturer MAN AG}}
 {{Germany medium tanks}}

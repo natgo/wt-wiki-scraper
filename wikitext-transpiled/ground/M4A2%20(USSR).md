@@ -12,9 +12,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet medium tank {{Battle-rating}}. It was introduced in [[Update 1.45 "Steel Generals"]].
 
 The M4A2 (76) W has an unusually high profile and thus it is difficult to drive around undetected. While playing this tank, the M4A2 is an easy target for [[Jagdpanzer_IV|Jagdpanzers]]. However, if correctly camouflaged, it is possible to get the first shot off. Also, the sides and rear of this tank are very poorly armoured. Thus, Sherman's fuel tanks and engine catch on fire very easily.
@@ -24,9 +22,7 @@ One redeeming fact of this model is that the ammo is in the centre of the tank s
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
 *Rolled homogeneous armour
@@ -45,11 +41,10 @@ One redeeming fact of this model is that the ammo is in the centre of the tank s
 |}
 '''Notes:'''
 
-- Suspension wheels are 15 mm thick, the bogies are 10 mm thick, and the tracks are 20 mm thick.
+* Suspension wheels are 15 mm thick, the bogies are 10 mm thick, and the tracks are 20 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=635|rbMinHp=363}}
@@ -63,7 +58,6 @@ The most important modules to research are Parts and FPE. The M62 APCBC shell is
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -123,9 +117,7 @@ The most important modules to research are Parts and FPE. The M62 APCBC shell is
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks M4A1 (75) W (China).png|right|thumb|x250px|[[Ammo racks]] of the M4A1 (75) W (China) (identical)]]
-
 <!-- '''Last updated: 2.11.0.27''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -139,12 +131,11 @@ The most important modules to research are Parts and FPE. The M62 APCBC shell is
 |}
 '''Note''':
 
-- Shells are modeled individually and disappear from the rack after having been shot or loaded.
+* Shells are modeled individually and disappear from the rack after having been shot or loaded.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -167,9 +158,7 @@ The most important modules to research are Parts and FPE. The M62 APCBC shell is
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The M4A2 (76) W is a classic Sherman tank. It requires careful positioning and avoidance of enemy fire, possesses an above-average gun, and works best when played around teammates.
 
 As such, it is well-suited to city brawls in which it can use rubble as cover and protect its flanks effectively. The city environment also suits the tank's below-average mobility. In close quarters, this shortcoming will not be too much of a hindrance. That being said, the M4A2 is also a classic medium tank, and highly adaptable. If needed, it can engage at most, if not all, ranges. It can be used to rush a point, or to defend from an assault. Certainly, the powerful cannon is capable against all but the most heavily armoured enemies.
@@ -177,39 +166,36 @@ As such, it is well-suited to city brawls in which it can use rubble as cover an
 This vehicle has mediocre armour and a highly visible profile, so it must be played carefully if the player wishes to stay alive for more than a few minutes. It is not uncommon for the M4A2 to be destroyed in a single hit, especially when facing the German cannons. Other enemies to watch out for include enemy aircraft: although the roof armour will protect crew members from strafing runs, the vehicle's above-average size makes it rather visible from the air, and makes it a target for bombing and rocket attacks.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Higher top speed compared to the previous vehicle
-- Great rate of fire for the main gun
-- Angled frontal slope which may sometimes bounce larger calibres if angled correctly
-- A standard 5 crew members, which equates to 3 spare crew members to take over positions of the tank if necessary
-- A pintle-mounted heavy machine gun (12.7 mm), which can be used for anti-aircraft and against light armoured vehicles
-- Wet ammo storage - Which reduces greatly ammo rack chances, is indicated by the "W" in its name, this also means tightly packed ammo only placed under the turret
-- Fast turret traverse
+* Higher top speed compared to the previous vehicle
+* Great rate of fire for the main gun
+* Angled frontal slope which may sometimes bounce larger calibres if angled correctly
+* A standard 5 crew members, which equates to 3 spare crew members to take over positions of the tank if necessary
+* A pintle-mounted heavy machine gun (12.7 mm), which can be used for anti-aircraft and against light armoured vehicles
+* Wet ammo storage - Which reduces greatly ammo rack chances, is indicated by the "W" in its name, this also means tightly packed ammo only placed under the turret
+* Fast turret traverse
 
 '''Cons:'''
 
-- Is quite tall
-- Prone to tipping over when travelling across steep inclines
-- Sides and rear are thinly armoured
-- Engine compartment is poorly armoured
-- Susceptible to nearby artillery explosions
-- Narrow tracks mean poor ground flotation and cross country performance
-- Only reaches its top speed on paved surfaces
-- Lacks the add-on armour module found on the 76 mm M4A1 and M4A3
-- Unlike the earlier M4A1 (76) W, Cruise Control 1 setting is slightly above the maximum speed that the stabilizer operates at
-- Armour might not stand up against common guns like the Soviet 85 mm or the KwK36.
+* Is quite tall
+* Prone to tipping over when travelling across steep inclines
+* Sides and rear are thinly armoured
+* Engine compartment is poorly armoured
+* Susceptible to nearby artillery explosions
+* Narrow tracks mean poor ground flotation and cross country performance
+* Only reaches its top speed on paved surfaces
+* Lacks the add-on armour module found on the 76 mm M4A1 and M4A3
+* Unlike the earlier M4A1 (76) W, Cruise Control 1 setting is slightly above the maximum speed that the stabilizer operates at
+* Armour might not stand up against common guns like the Soviet 85 mm or the KwK36.
 
 == History ==
-
 <!--''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''-->
-
 ===Lend-Lease===
 [[File:Matilda Mk II USSR.jpg|x250px|right|thumb|none|Matilda Mk II tanks in Soviet service.]]
-The Soviet participation in the United States' Lend-Lease program started in Autumn of 1941 when the United States and United Kingdom agreed to give military aid. Tanks were of particular interests to the Soviets in order to replenish their Summer losses against Germany during Operation ''Barbarossa''. The first tanks sent were from Great Britain with [[MK-IX_"Valentine"_(USSR)|Valentines]] and [[MK-II_"Matilda"_(USSR)|Matildas]], which played a part in the Battle of Moscow.<ref name="ZalogaLendLease_British">Zaloga 2017, Loc 63, 95 of 1264</ref> The United States provided their [[M3 Stuart]] light tanks and [[M3_Medium_(USSR)|M3 Medium]] tanks in late 1941/early 1942 (The two were designated ''{{Annotation|M3L|Legkhiy/Light}}'' and ''{{Annotation|M3S|sredniy/Medium}}'' respectively to avoid name confusion).<ref name="ZalogaLendLease_M3Stuart">Zaloga 2017, Loc 245-257 of 1264</ref><ref name="ZalogaLendLease_M3Medium">Zaloga 2017, Loc 305 of 1264</ref> These American tanks were not viewed with satisfaction, with the head of Soviet tank industry, Vyacheslav Malyshev, even considering stopping all American tank imports and focusing instead on American trucks.<ref name="ZalogaLendLease_Trucks">Zaloga 2017, Loc 420-426 of 1264</ref> Despite that, the Soviets were interested in America's newest medium tank, the M4 Sherman, and were eager to obtain some as soon as possible.
+The Soviet participation in the United States' Lend-Lease program started in Autumn of 1941 when the United States and United Kingdom agreed to give military aid. Tanks were of particular interests to the Soviets in order to replenish their Summer losses against Germany during Operation ''Barbarossa''. The first tanks sent were from Great Britain with [[MK-IX_"Valentine"_(USSR)|Valentines]] and [[MK-II_"Matilda"_(USSR)|Matildas]], which played a part in the Battle of Moscow.<ref name="ZalogaLendLease_British">Zaloga 2017, Loc 63, 95 of 1264</ref> The United States provided their [[M3 Stuart]] light tanks and [[M3_Medium_(USSR)|M3 Medium]] tanks in late 1941/early 1942 (The two were designated ''{{Annotation|M3L|Legkhiy/Light}}'' and ''{{Annotation|M3S|sredniy/Medium}}'' respectively to avoid name confusion).<ref name="ZalogaLendLease_M3Stuart">Zaloga 2017, Loc 245-257 of 1264</ref><ref name="ZalogaLendLease_M3Medium">Zaloga 2017, Loc 305 of 1264</ref> These American tanks were not viewed with satisfaction, with the head of Soviet tank industry, Vyacheslav Malyshev, even considering stopping all American tank imports and focusing instead on American trucks.<ref name="ZalogaLendLease_Trucks">Zaloga 2017, Loc 420-426 of 1264</ref> Despite that, the Soviets were interested in America's newest medium tank, the M4 Sherman, and were eager to obtain some as soon as possible. 
 
 ===Shermans in the Soviet Union===
 Though the M4 and M4A1 were available, the Soviets disliked the gasoline Continental radial engine due to their experience with the M3 Light and Medium tanks. Instead, they asked for the diesel GMC engine variant M4A2 Sherman upon learning of its existence in August 1942.<ref name="SamsonovRedArmyM4A2(1)">Samsonov 2021, pg 28</ref> The M4A2 had been in production since April 1942, but the time needed for the production to supply the demand meant that the first M4A2 only arrived in the Soviet Union by 21 September 1942.<ref name="ZalogaLendLease_M4Intro">Zaloga 2017, Loc 616-633 of 1264</ref> Concern on shortfalls in M4A2 productions caused the Soviets to order and receive two M4A4 tank models for evaluation in 1943. After trials with the M4A4, the Soviet disliked the Chrysler A57 engine configuration and low fuel efficiency compared to the M4A2, and so opted not to receive anymore M4A4 tanks.<ref name="SamsonovRedArmyM4A4">Samsonov 2021, pg 51-55</ref><ref name="TankArchivesM4A4">Samsonov 2013</ref>
@@ -229,7 +215,7 @@ The Soviets continued requesting more M4A2 Shermans to fill their armies, with 2
 The Soviet Union's next order of 3,000 Shermans would be for M4 Shermans equipped with the new 76 mm M1 gun.<ref name="ZalogaLendLease_76mm">Zaloga 2017, Loc 660 of 1264</ref> These M4A2 (76 mm) Shermans began arriving to the Soviet Union in September 1944.<ref name="TankArchivesEmcha">Samsonov 2017</ref> ​The first combat unit to be equipped with these M4A2 (76) Shermans was the 1st Mechanized Corps in October. Other units that received and used the M4A2 (76) Shermans were the 8th and 9th Guards Mechanized Corps, as well as the 2nd Guards Cavalry Corps.<ref name="GillonoEUUnits">Gillono and Hulbert 2011, pg 17-18</ref>
 [[File:M4A2 (USSR) Historical - 03 May 1945.jpg|thumb|right|x250px|none|A Lend-Lease M4A2 (76) W Sherman in Soviet service in May 1945 at Grabow, Germany.]]
 
-The first action the M4A2 (76) Sherman saw in Soviet service in was in December 1944, when the 6th Guards Tank Army and its associated 9th Guards Mechanized Corps conducted offensive operations in Hungary.<ref name="ZalogaLendLease_76mm" /><ref name="LozaShermans">Loza and Gebhardt 1996</ref> The M4A2 (76) Shermans would see large-scale usage in 1945 during the Soviet's offensives towards Germany, sometimes alongside the M4A2 (75) versions. Some of the most notable Soviet actions the M4A2 (76) were in the Vistula–Oder offensive in Winter 1945, the Vienna Offensive in Spring 1945, and finally the Battle of Berlin in April-May 1945, where most notably the 1st Mechanized Corps, equipped with 165 M4A2 Shermans prior to the battle, participated in the heavy fighting.<ref name="TankArchives1stMCBerlin">Samsonov 2015</ref>
+The first action the M4A2 (76) Sherman saw in Soviet service in was in December 1944, when the 6th Guards Tank Army and its associated 9th Guards Mechanized Corps conducted offensive operations in Hungary.<ref name="ZalogaLendLease_76mm" /><ref name="LozaShermans">Loza and Gebhardt 1996</ref> The M4A2 (76) Shermans would see large-scale usage in 1945 during the Soviet's offensives towards Germany, sometimes alongside the M4A2 (75) versions. Some of the most notable Soviet actions the M4A2 (76) were in the Vistula–Oder offensive in Winter 1945, the Vienna Offensive in Spring 1945, and finally the Battle of Berlin in April-May 1945, where most notably the 1st Mechanized Corps, equipped with 165 M4A2 Shermans prior to the battle, participated in the heavy fighting.<ref name="TankArchives1stMCBerlin">Samsonov 2015</ref> 
 
 The final M4A2 Sherman usage by the Soviet Union was in Operation ''August Storm'', the Soviet invasion of Manchuria against Japan in August 1945.<ref name="ZalogaLendLease_76mmUsage">Zaloga 2017, Loc 665-672 of 1264</ref> This offensive saw M4A2 Shermans used on the Transbaikal Front, with the M4A2s in the 3rd and 9th Guards Mechanized Corps, as well as smaller units such as the 48th Independent Tank Battalion and 201st Tank Brigade present (the 201st were held in reserves).<ref name="GillonoUnits" /><ref name="LozaShermans" /> In all, 250 M4A2 Sherman tanks were present in the Soviet forces when the invasion of Manchuria commenced.<ref name="TankArchivesEast">Samsonov 2014</ref> <ref name="TankArchivesHVSS">Samsonov 2018</ref>
 
@@ -243,30 +229,25 @@ Large quantities of military vehicles were delivered to the Soviet Union as part
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_m4a2_76w_sherman Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_m4a2_76w_sherman Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|Zh8JUqody5g|'''The Shooting Range #59''' - ''Pages of History'' section at 00:34 discusses the Soviet Shermans.}}
 
 == See also ==
-
 <!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''-->
 
 ;Other M4A2 tanks in the game
-
-- [[M4A2]]
-- [[M4A2 (76) W]]
-- [[M4 748 (a) (Germany)]]
+* [[M4A2]]
+* [[M4A2 (76) W]]
+* [[M4 748 (a) (Germany)]]
 
 == External links ==
-
 <!--''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.''-->
@@ -276,17 +257,16 @@ Large quantities of military vehicles were delivered to the Soviet Union as part
 <references />
 
 ;Bibliography
-
-- Gillono, Claude; Hulbert, Leife. ''Comrade Emcha: Red Army Shermans of WW2 (Battleline, 2)''. The Oliver Publishing Group, 2011
-- Loza, Dimitry; Gebhardt, James F. ''Commanding the Red Army's Sherman Tanks: The World War II Memoirs of Hero of the Soviet Union Dimitry Loza''. University of Nebraska Press, 1996.
-- Samsonov, Peter. "Common Questions: Sherman Preference." ''Tank Archives'', Blogger, 22 Jun. 2015, [http://www.tankarchives.ca/2015/06/common-questions-sherman-preference.html ​Website]. Accessed 24 Mar. 2021 ([https://web.archive.org/web/20220520023211/http://www.tankarchives.ca/2015/06/common-questions-sherman-preference.html Archive]).
-- Samsonov, Peter. "Lend Lease Impressions: M4A4 Sherman." ''Tank Archives'', Blogger, 12 Sep. 2013, [http://www.tankarchives.ca/2013/09/lend-lease-impressions-m4a4-sherman.html ​Website]. Accessed 24 Mar. 2021 ([https://web.archive.org/web/20220520023521/http://www.tankarchives.ca/2013/09/lend-lease-impressions-m4a4-sherman.html Archive]).
-- Samsonov, Peter. "M4A2(76)W: Emcha With a Long Hand." ''Tank Archives'', Blogger, 30 Jul. 2017, [http://www.tankarchives.ca/2017/07/m4a276w-emcha-with-long-hand.html Website]. Accessed 23 Mar. 2021 ([https://web.archive.org/web/20220520023630/http://www.tankarchives.ca/2017/07/m4a276w-emcha-with-long-hand.html Archive]).
-- Samsonov, Peter. "New Legs for the Emcha." ''Tank Archives'', Blogger, 15 Dec. 2018, [http://www.tankarchives.ca/2018/12/new-legs-for-emcha.html Website]. Accessed 24 Mar. 2021 ([https://web.archive.org/web/20220520024420/http://www.tankarchives.ca/2018/12/new-legs-for-emcha.html Archive]).
-- Samsonov, Peter. "Soviet Tanks in the Far East." ''Tank Archives'', Blogger, 09 Apr. 2014, [http://www.tankarchives.ca/2014/04/soviet-tanks-in-far-east.html ​Website]. Accessed 24 Mar. 2021 ([https://web.archive.org/web/20220520023108/http://www.tankarchives.ca/2014/04/soviet-tanks-in-far-east.html Archive]).
-- Samsonov, Peter. ''Sherman Tanks of the Red Army: The American Vehicle in Soviet Service''. Gallantry Books, 23 Jul. 2021.
-- Zaloga, Steven J. ''M4 (76mm) Sherman Medium Tank 1943-65''. Osprey Publishing Ltd., 20 Apr. 2003.
-- Zaloga, Steven J. ''Soviet Lend-Lease Tanks of World War II''. Osprey Publishing Ltd., 20 Jul. 2017.
+* Gillono, Claude; Hulbert, Leife. ''Comrade Emcha: Red Army Shermans of WW2 (Battleline, 2)''. The Oliver Publishing Group, 2011
+* Loza, Dimitry; Gebhardt, James F. ''Commanding the Red Army's Sherman Tanks: The World War II Memoirs of Hero of the Soviet Union Dimitry Loza''. University of Nebraska Press, 1996.
+* Samsonov, Peter. "Common Questions: Sherman Preference." ''Tank Archives'', Blogger, 22 Jun. 2015, [http://www.tankarchives.ca/2015/06/common-questions-sherman-preference.html ​Website]. Accessed 24 Mar. 2021 ([https://web.archive.org/web/20220520023211/http://www.tankarchives.ca/2015/06/common-questions-sherman-preference.html Archive]).
+* Samsonov, Peter. "Lend Lease Impressions: M4A4 Sherman." ''Tank Archives'', Blogger, 12 Sep. 2013, [http://www.tankarchives.ca/2013/09/lend-lease-impressions-m4a4-sherman.html ​Website]. Accessed 24 Mar. 2021 ([https://web.archive.org/web/20220520023521/http://www.tankarchives.ca/2013/09/lend-lease-impressions-m4a4-sherman.html Archive]).
+* Samsonov, Peter. "M4A2(76)W: Emcha With a Long Hand." ''Tank Archives'', Blogger, 30 Jul. 2017, [http://www.tankarchives.ca/2017/07/m4a276w-emcha-with-long-hand.html Website]. Accessed 23 Mar. 2021 ([https://web.archive.org/web/20220520023630/http://www.tankarchives.ca/2017/07/m4a276w-emcha-with-long-hand.html Archive]).
+* Samsonov, Peter. "New Legs for the Emcha." ''Tank Archives'', Blogger, 15 Dec. 2018, [http://www.tankarchives.ca/2018/12/new-legs-for-emcha.html Website]. Accessed 24 Mar. 2021 ([https://web.archive.org/web/20220520024420/http://www.tankarchives.ca/2018/12/new-legs-for-emcha.html Archive]).
+* Samsonov, Peter. "Soviet Tanks in the Far East." ''Tank Archives'', Blogger, 09 Apr. 2014, [http://www.tankarchives.ca/2014/04/soviet-tanks-in-far-east.html ​Website]. Accessed 24 Mar. 2021 ([https://web.archive.org/web/20220520023108/http://www.tankarchives.ca/2014/04/soviet-tanks-in-far-east.html Archive]).
+* Samsonov, Peter. ''Sherman Tanks of the Red Army: The American Vehicle in Soviet Service''. Gallantry Books, 23 Jul. 2021.
+* Zaloga, Steven J. ''M4 (76mm) Sherman Medium Tank 1943-65''. Osprey Publishing Ltd., 20 Apr. 2003.
+* Zaloga, Steven J. ''Soviet Lend-Lease Tanks of World War II''. Osprey Publishing Ltd., 20 Jul. 2017.
 
 {{TankManufacturer Ordnance Department}}
 {{USSR medium tanks}}

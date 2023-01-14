@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American bomber {{Battle-rating}}. It was introduced during [[Update 1.85 "Supersonic"]] as part of the [[wt:en/news/6037-event-sea-voyage-en|Sea Voyage]] event that ran from 21 February to 11 March 2019.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 Due to the fact that it is a large seaplane, the PBM-3 is not very manoeuvrable and has trouble banking. However, when you get into a high-angle bank, it does turn fairly easily because of its large wings. As for payloads, it doesn't matter which payload you take for flight performance. All of the bombs are contained in the nacelle-mounted bomb bays and won't have a large difference in manoeuvrability.
@@ -47,7 +44,7 @@ Due to the fact that it is a large seaplane, the PBM-3 is not very manoeuvrable 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -78,11 +75,10 @@ Due to the fact that it is a large seaplane, the PBM-3 is not very manoeuvrable 
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- No armour
-- Small fuel tanks in wing roots, rest in bottom of fuselage
+* No armour
+* Small fuel tanks in wing roots, rest in bottom of fuselage
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -91,34 +87,29 @@ Due to the fact that it is a large seaplane, the PBM-3 is not very manoeuvrable 
 {{Specs-Avia-Armaments}}
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AN-M30A1 (100 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|Type A Mark I mine}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 12 x 100 lb AN-M30A1 bombs (1,200 lb total)
-- 8 x 500 lb AN-M64A1 bombs (4,000 lb total)
-- 8 x 1,000 lb AN-M65A1 bombs (8,000 lb total)
-- 8 x Type A Mark I mines
+* 12 x 100 lb AN-M30A1 bombs (1,200 lb total)
+* 8 x 500 lb AN-M64A1 bombs (4,000 lb total)
+* 8 x 1,000 lb AN-M65A1 bombs (8,000 lb total)
+* 8 x Type A Mark I mines
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 1 x 12.7 mm M2 Browning machine gun, nose turret (400 rpg)
-- 1 x 12.7 mm M2 Browning machine gun, 2 x waist turret (375 rpg = 750 total)
-- 1 x 12.7 mm M2 Browning machine gun, dorsal turret (600 rpg)
-- 1 x 12.7 mm M2 Browning machine gun, tail turret (350 rpg)
+* 1 x 12.7 mm M2 Browning machine gun, nose turret (400 rpg)
+* 1 x 12.7 mm M2 Browning machine gun, 2 x waist turret (375 rpg = 750 total)
+* 1 x 12.7 mm M2 Browning machine gun, dorsal turret (600 rpg)
+* 1 x 12.7 mm M2 Browning machine gun, tail turret (350 rpg)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 In RB, the PBM-3 should be used as a traditional heavy bomber, as with the addition of naval mines, the PBM-3 is capable of ending the game on airfield map as long as its not an uptier.
@@ -145,26 +136,24 @@ Against enemy aircraft that have seen and are heading towards you, you are gener
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Massive bomb load: can carry 8,000 lbs of bombs (as much as a B-24)
-- Access to 8 naval mines
-- Mines plus amphibious ability makes it a good aircraft for naval battles
-- Unlike most other naval bombers, its bomb bays allow it to drop a single bomb at once.
-- Very sturdy, can survive a lot of punishment to the body from heavy machine guns and even light cannons
+* Massive bomb load: can carry 8,000 lbs of bombs (as much as a B-24)
+* Access to 8 naval mines
+* Mines plus amphibious ability makes it a good aircraft for naval battles
+* Unlike most other naval bombers, its bomb bays allow it to drop a single bomb at once.
+* Very sturdy, can survive a lot of punishment to the body from heavy machine guns and even light cannons
 
 '''Cons:'''
 
-- Big, slow target
-- Lacklustre defensive turrets
-- Does not have controllable landing gear
-- Turns very sluggishly
+* Big, slow target
+* Lacklustre defensive turrets
+* Does not have controllable landing gear
+* Turns very sluggishly
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 Service experience gained from the twenty-one [[PBM-1 "Mariner"|PBM-1s]] in USN service found anticipated deficiencies and desires, so Martin went back to the drawing board for a major redesign. The most obvious change was replacing the retractable wing float with a robust fixed mount (possibly due to reliability issues with the retractable design) and eliminating the wing bomb bay for more fuel tanks and enlargement of the nacelle bomb bay. Also changed was the round bubble windows in waist mounts to square openings with doors similar to those of the [[B-24/PB4Y (Family)|B-24]]s. Also added were small vanes above and below the horizontal stabilizer attached to the vertical, a feature unique only to the Mariner. There was also numerous turrets variations, different makes or mounting two .50 cal (12.7 mm) machine gun options. To top off the multitude of external changes, more powerful 1,700 hp (1,270 kW) Wright R-2600-12 engines were installed to balance the increased weight. The PBM-3 was the largest and heaviest twin-engine seaplane in production at the time. It was not long before a large radome was added in a prominent structure above the cockpit, reducing performance but benefiting from finding enemy submarines and ships farther away; the result was sinking a number of Japanese and German submarines during their service.
@@ -187,12 +176,11 @@ The Mariners primarily served with the USN as coastal patrol aircraft before the
 The PBM-3 Mariner flying boats of the third series served very briefly during WW2, as nearly all PBM-3s from the first series were converted into unarmed transport machines shortly after their construction. Nevertheless, the aircraft proved to be very successful and further models were built in large numbers - in total more than 1360 Mariner vehicles of different modifications. Mariners were also used in small numbers by Great Britain, Australia, Argentina, Uruguay and the Netherlands. The last Mariners were phased out of service during the 1960s, being replaced by newer aircraft.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=pbm_3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=pbm_3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="150">
@@ -210,25 +198,23 @@ File:PBM-3 WTWallpaper 008.jpg
 {{Youtube-gallery|NJAlhvjgrUs|'''{{PAGENAME}} - High bombload, Low Performance''' - ''Napalmratte''|UbkAs7sJp18|'''The {{PAGENAME}} In Game''' - ''TheEuropeanCanadian''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
 
-- [[PBM-1 "Mariner"]]
+* [[PBM-1 "Mariner"]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6040-development-pbm-3-mariner-the-eye-in-the-sky-en|[Devblog] PBM-3 Mariner: The Eye in the Sky]]
-- [https://forum.warthunder.com/index.php?/topic/445723-pbm-3/ Official data sheet - more details about the performance]
-- [[wikipedia:Martin_PBM_Mariner|[Wikipedia] Martin PBM Mariner]]
-- [http://airvectors.net/avmars.html#m3 <nowiki>[Air Vectors]</nowiki> The Martin Mariner, Mars, & Marlin Flying Boats - PBM-3 Mariner series]
+* [[wt:en/news/6040-development-pbm-3-mariner-the-eye-in-the-sky-en|[Devblog] PBM-3 Mariner: The Eye in the Sky]]
+* [https://forum.warthunder.com/index.php?/topic/445723-pbm-3/ Official data sheet - more details about the performance]
+* [[wikipedia:Martin_PBM_Mariner|[Wikipedia] Martin PBM Mariner]]
+* [http://airvectors.net/avmars.html#m3 <nowiki>[Air Vectors]</nowiki> The Martin Mariner, Mars, & Marlin Flying Boats - PBM-3 Mariner series]
 
 {{AirManufacturer Martin}}
 {{USA bombers}}

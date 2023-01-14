@@ -4,15 +4,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian jet fighter {{Battle-rating}}. It was introduced in [[Update "Direct Hit"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -40,7 +37,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian jet fighter {{Battle-r
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || ✓ || ✓ || ✓ <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -106,7 +103,6 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian jet fighter {{Battle-r
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
 The F-104G has no armour; be it in the form of armour plates or armoured glass. Fuel tanks are self-sealing, which is pretty much a standard feature at this rank. The F-104G also has access to countermeasures as a tier I modification (unlike the [[F-104G (China)|Chinese F-104G]]).
@@ -127,37 +123,33 @@ The F-104G has no armour; be it in the form of armour plates or armoured glass. 
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M61A1 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 1 x 20 mm M61A1 cannon, chin-mounted (750 rpg)
-  ** 1 x 20 mm M61A1 cannon + 60 x countermeasures
+* A choice between two presets:
+** 1 x 20 mm M61A1 cannon, chin-mounted (750 rpg)
+** 1 x 20 mm M61A1 cannon + 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)|BLU-1 incendiary}}
 {{main|AIM-9B Sidewinder|AIM-9J Sidewinder|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x AIM-9B Sidewinder missiles
-- 2 x AIM-9J Sidewinder missiles
-- 38 x FFAR Mighty Mouse rockets
-- 8 x Zuni Mk32 Mod 0 ATAP rockets
-- 3 x 500 lb LDGP Mk 82 bombs (1,500 lb total)
-- 3 x 750 lb M117 cone 45 bombs (2,250 lb total)
-- 3 x 1,000 lb LDGP Mk 83 bombs (3,000 lb total)
-- 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
-- 3 x BLU-1 incendiary bombs
+* Without load
+* 2 x AIM-9B Sidewinder missiles
+* 2 x AIM-9J Sidewinder missiles
+* 38 x FFAR Mighty Mouse rockets
+* 8 x Zuni Mk32 Mod 0 ATAP rockets
+* 3 x 500 lb LDGP Mk 82 bombs (1,500 lb total)
+* 3 x 750 lb M117 cone 45 bombs (2,250 lb total)
+* 3 x 1,000 lb LDGP Mk 83 bombs (3,000 lb total)
+* 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
+* 3 x BLU-1 incendiary bombs
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -197,17 +189,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 F-104G is a hit-and-run type of airplane, for the simple fact that the wings of this airplane are very small, and this means the aircraft has little manoeuvrability. Its strong point is its engine that makes it very fast and gives it a thrust of 4,530 kgf while with afterburner 6,360 kgf, this makes it capable of regaining speed very quickly after a manoeuvre.
 
 The Italian F-104G, unlike other F-104, carries chaff and flares so players also have the possibility to defend from both IR and Radar missile threats. When using flares, do not continue going straight and instead try to manoeuvre so the missile loses track of the F-104G's engine exhaust and focuses on the flares.
 
 Recommended payloads:
 
-- 2x AIM-9J for air battles
-- 1x 2000 lb, 2x 1000 lb, AIM-9J for mixed battles to shoot down planes and destroy tanks with the bombs tanks
+* 2x AIM-9J for air battles
+* 1x 2000 lb, 2x 1000 lb, AIM-9J for mixed battles to shoot down planes and destroy tanks with the bombs tanks
 
 '''Air RB:'''
 
@@ -218,29 +208,27 @@ As soon as taking off, players can use two tactics with the F-104G. The first ta
 When using the F-104G, remember to stay at lower altitude to avoid enemy anti-aircraft from locking on, then go out and launch the bombs or rockets that was brought into the battle against the enemy. After expending all the payload against the enemy, return to the base and come back for another round of attack runs. If bringing anti-air missiles, the F-104G can also loiter and help maintain air superiority by shooting down enemy aircraft that appear.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great top speed and acceleration
-- Great rate of climb
-- Good roll rate
-- Powerful M61 Vulcan cannon with a very high fire rate, great ballistics and high damage
-- Wide selection of secondary ordnance; much better than early F-104s
-- Access to two potent AIM-9J sidewinder air-to-air missiles
-- Access to 60 chaff/flare countermeasures
+* Great top speed and acceleration
+* Great rate of climb
+* Good roll rate
+* Powerful M61 Vulcan cannon with a very high fire rate, great ballistics and high damage
+* Wide selection of secondary ordnance; much better than early F-104s
+* Access to two potent AIM-9J sidewinder air-to-air missiles
+* Access to 60 chaff/flare countermeasures
 
 '''Cons:'''
 
-- Very poor overall manoeuvrability and terrible low-speed manoeuvrability
-- Bleeds energy quickly in sustained turn fights
-- Only 750 rounds of cannon ammo; with such a high rate of fire, trigger discipline is a must
-- Large turning radius due to small wing surface and high speed
-- High takeoff and landing speeds
+* Very poor overall manoeuvrability and terrible low-speed manoeuvrability
+* Bleeds energy quickly in sustained turn fights
+* Only 750 rounds of cannon ammo; with such a high rate of fire, trigger discipline is a must
+* Large turning radius due to small wing surface and high speed
+* High takeoff and landing speeds
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The story of the Italian F-104G originally began in America. In February of 1954 at the Lockheed facilities in America, the first 2 prototypes of the F-104 would take flight for the first time. America was looking to develop a new aircraft to combat the Soviet's new age of supersonic jet fighters. The aircraft would incorporate the smallest possible airframe with the most technologically advanced turbojet at the time, to create the base of what would become the F-104. Although the program would have some minor setbacks, such as the intended engine not being available during the beginning, development would continue and would lead to the first variant of the F-104, the F-104A. From the base variant of the F-104 many variants would begin to be developed, such as the F-104C, the F-104S and in this case, the F-104G.
@@ -250,32 +238,28 @@ The main differences of the G variant compared to the others would be a reinforc
 The first aircraft (MM 6501) was delivered to Italy on March 3rd of 1961. It was built by Lockheed, however after being transferred to Italy it was dismantled and used as a model for the construction under license of the 105 units ordered by the Italian Air Force. Aeritalia ended up producing a total of 230 Starfighters in different versions, of which 124 would be made for the Italian Air Force. The F-104G in Italian service was mainly used as an all-weather interceptor armed with AIM-9B Sidewinder infrared guided air-to-air missiles. Other departments instead used the F-104G as a conventional or strike fighter-bomber. The F-104G would eventually be replaced in these roles by the "Tornado IDS", the F-104Gs were concentrated at the 3rd Aerobrigata (later 3rd Stormo) which already used the RF-104G reconnaissance variant. A unit of F/RF-104G of the 3rd Wing took part in the 1991 Gulf War, operating from the Turkish base of Incirlik. Most of the F-104G's would be turned into static displays or kept in museums, for example one resides in Vigna di Valle Airforce museum, this one was the first entirely Italian-built F-104G which first flew on the 5th October of 1962.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=f-104g_italy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f-104g_italy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[F-104 (Family)]]
-  \*\* [[F-104S]]
+* [[F-104 (Family)]]
+** [[F-104S]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer Fiat}}
 {{Italy jet aircraft}}

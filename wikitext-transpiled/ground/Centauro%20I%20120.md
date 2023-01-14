@@ -9,24 +9,21 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian light tank {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]]. It is also known as the Centauro MGS.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
-The armour of the Centauro I 120 is the same as the previous Centauros, mediocre against everything but calibres smaller than 14.5 mm HMG fire. It has additional armour plates which give it decent armour protection to shrapnel fragmentation as well as autocannons. However, it is vulnerable to overpressure. The lack of armour is however compensated by adopting a playstyle based on the increased mobility to position your vehicle in unexpected spots. This is what the Centauros excel at. Fast speed, manoeuvrability and relatively small profile helps it disguise, move and stay under cover at almost all times.
+The armour of the Centauro I 120 is the same as the previous Centauros, mediocre against everything but calibres smaller than 14.5 mm HMG fire. It has  additional armour plates which give it decent armour protection to shrapnel fragmentation as well as autocannons. However, it is vulnerable to overpressure. The lack of armour is however compensated by adopting a playstyle based on the increased mobility to position your vehicle in unexpected spots. This is what the Centauros excel at. Fast speed, manoeuvrability and relatively small profile helps it disguise, move and stay under cover at almost all times.
 
 '''Armour type:'''
 
-- High Hardness Rolled Armour
-- Aluminium alloy 7020
-- Composite Screens
+* High Hardness Rolled Armour
+* Aluminium alloy 7020
+* Composite Screens
 
 {| class="wikitable"
 |-
@@ -41,8 +38,8 @@ The armour of the Centauro I 120 is the same as the previous Centauros, mediocre
 |}
 '''Notes:'''
 
-- The wheels and suspension bars are 10 mm thick.
-- The rear of the turret is covered with 5 mm of structural steel.
+* The wheels and suspension bars are 10 mm thick.
+* The rear of the turret is covered with 5 mm of structural steel.
 
 {| class="wikitable"
 |-
@@ -55,7 +52,6 @@ The armour of the Centauro I 120 is the same as the previous Centauros, mediocre
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=806|rbMinHp=460}}
@@ -92,9 +88,7 @@ Some of the more useful modifications that likely haven't been unlocked yet incl
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|OTO Melara 120/45 (120 mm)}}
 
 The Centauro I 120 has access to the powerful 120 mm OTO Melara 120/45 smoothbore cannon, the same cannon mounted on the Ariete MBT. It has the same handling as it utilizes the same ammunition and has the same ballistic performance.
@@ -118,9 +112,9 @@ The Centauro I 120 has access to the powerful 120 mm OTO Melara 120/45 smoothbor
 ==== Ammunition ====
 The Centauro I 120 has access to a wide variety of ammunition which are the deadliest at the game, specially the CL3143.
 
-- DM12A1: this is the starter HEATFS round when it comes stock. It can be considered mediocre as the MBTs faced at the battle rating are more than capable of withstanding it. However, it is specially useful when dealing at long distances and when lightly armoured vehicles are seen (SPAA for example) as they will be destroyed because of overpressure damage once hit.
-- DM33: this is a round seen in most NATO MBTs in the game (or similar to them), it has decent performance and is able to kill pretty much everything it faces with exception of Russian MBTs with CONTACT-5 ERA (unless the K5 is destroyed first).
-- CL3143: this is the best performing round. It is able to penetrate and destroy all MBTs in the game, even Russian vehicles with CONTACT-5 ERA.
+* DM12A1: this is the starter HEATFS round when it comes stock. It can be considered mediocre as the MBTs faced at the battle rating are more than capable of withstanding it. However, it is specially useful when dealing at long distances and when lightly armoured vehicles are seen (SPAA for example) as they will be destroyed because of overpressure damage once hit.
+* DM33: this is a round seen in most NATO MBTs in the game (or similar to them), it has decent performance and is able to kill pretty much everything it faces with exception of Russian MBTs with CONTACT-5 ERA (unless the K5 is destroyed first).
+* CL3143: this is the best performing round. It is able to penetrate and destroy all MBTs in the game, even Russian vehicles with CONTACT-5 ERA.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="8" | Penetration statistics
@@ -162,9 +156,7 @@ The Centauro I 120 has access to a wide variety of ammunition which are the dead
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.jpg|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -178,15 +170,13 @@ The Centauro I 120 has access to a wide variety of ammunition which are the dead
 |}
 Note:
 
-- Contrary to previous Centauros, the MGS does not have a side ready rack.
+* Contrary to previous Centauros, the MGS does not have a side ready rack.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
 {{Specs-Tank-Weapon|4}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|M2HB (12.7 mm)|Beretta MG42/59 (7.62 mm)}}
 
 The MGS is armed with the already seen MG42/59 and a newly mounted M2HB. As seen in previous Centauros, the 7.62 mm are only effective against low flying aircraft and obstacle removal, they are inefficient for anything else. However, the M2HB is a nice addition to the anti-aircraft capabilities and even anti-tank capabilities. It is able to damage gun barrels and tracks upon continuous firing and able to take down SPAA like the Tunguska, Roland SAM and ADATS due to their low armour.
@@ -213,9 +203,7 @@ The MGS is armed with the already seen MG42/59 and a newly mounted M2HB. As seen
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Centauro I 120 should be played as the rest as the Centauros but not quite. Speed, firepower and low profile should be used to perform flanking manoeuvres, get quickly into sniping positions and surprise the enemy.
 
 '''As a flanker:'''
@@ -231,35 +219,32 @@ Like previous Centauros, this is nothing new as the use of thermals, really good
 This is nothing new for any of the Italian wheeled vehicles. Spawn, rush as fast as possible a cap point, capture, leave as fast as possible. This can be done really easily with this Centauro despite what looks like a "sluggish" Centauro. The MGS should not be underestimated in terms of speed.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- 120 mm APFSDS offers improved penetration and damage over the 105 mm gun
-- Extremely fast and mobile on road
-- Has night vision devices and generation 1 gunner thermals
-- Good turret traverse speed
-- Smoke grenades cover player when there is danger
-- 12.7 mm MG is effective against similar light vehicles/helicopters
-- An aced crew can fire the second best APFSDS round in the game every five seconds
-- Access to the scouting ability
+* 120 mm APFSDS offers improved penetration and damage over the 105 mm gun
+* Extremely fast and mobile on road
+* Has night vision devices and generation 1 gunner thermals
+* Good turret traverse speed
+* Smoke grenades cover player when there is danger
+* 12.7 mm MG is effective against similar light vehicles/helicopters
+* An aced crew can fire the second best APFSDS round in the game every five seconds
+* Access to the scouting ability
 
 '''Cons:'''
 
-- Little to no protection against most projectiles
-- Vulnerable to overpressure damage
-- Tall and long
-- Very sluggish on soft terrain (mud, snow or sand)
-- Rearward turret placement, sometimes frontal hull is exposed while turret is still behind cover
-- Only -6 degrees of gun depression
-- Stock grind is difficult with vehicle having low manoeuvrability, thin armour and stock HEATFS before modifications are unlocked
-- High recoil when firing from the sides or rear of the vehicle, knocking the sights off target
+* Little to no protection against most projectiles
+* Vulnerable to overpressure damage
+* Tall and long
+* Very sluggish on soft terrain (mud, snow or sand)
+* Rearward turret placement, sometimes frontal hull is exposed while turret is still behind cover
+* Only -6 degrees of gun depression
+* Stock grind is difficult with vehicle having low manoeuvrability, thin armour and stock HEATFS before modifications are unlocked
+* High recoil when firing from the sides or rear of the vehicle, knocking the sights off target
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The story of the B1 Centauro MGS starts during the late stages of the Cold War, there was a need of up gunning the B1 Centauro, already in service in the Italian army, so the Iveco-Oto Melara Consortium (CIO) would take lead. An evaluation of sorts would begin in which the B1 Centauro would have an entirely new turret applied to it. The new turret would be called "HITFACT 105-120 mm (LOW RECOIL FORCE TURRET)", the turret had almost the same weight as the 105 mm turret of the B1 Centauro series (1/2/3), but with an increase in ballistic protection. The new cannon replaced the standard 105 mm cannon with an Italian-made 120 mm one (this brought the firepower on par with the majority of MBTs).
 
 The turret was made in such a way that it could easily be installed on pretty much anything that could support it, and since it was lightweight this really allowed it to outclass a lot of what it would face. Another reason it being lightweight helped it, was how it had little to no effect to its mobility, which meant the best of both speed and firepower could be achieved. Among other changes, the Hitfact turret would incorporate many advancement that would not be prevalent on many vehicles of its class before.
@@ -269,37 +254,32 @@ The gun would controlled by a new FCS, which included a gunner's self-stabilized
 The MGS would first be shown to the public in its official debut, at IDEX 2003. During the course of its development, the MGS's would enter limited production, and be used by the Italian army, mainly for testing, such as how a 120 mm version of the Centauro would be(this later on lead to the development of the B2 Centauro). Due to this, the B1 Centauro MGS would change and be offered for export, and as it was being showed in multiple expos, it ended up getting picked up by the Royal Omani Guard. It is not known how many they currently have in service, but what is known is that they decided to repaint them in a tan/brownish pattern to better suit its operational environment. Other than that, Leonardo has kept on marketing the turret system on multiple different hulls, such as one being on the Patria AMV and another being presented on top of a German Marder.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=it_centauro_mgs_120 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=it_centauro_mgs_120 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|lNshHG9EWNo|'''Should You Grind The Centauro MGS?''' - ''Sako Sniper''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{TankManufacturer OTO Melara}}
 {{Italy light tanks}}

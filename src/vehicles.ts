@@ -7,6 +7,7 @@ interface Wiki {
   intname: string;
   wikiname: string;
   marketplace?: string;
+  store?: string;
 }
 
 function vehiclesLoop(vehicles: modernparse[], vehiclePages: string[]) {
@@ -14,6 +15,7 @@ function vehiclesLoop(vehicles: modernparse[], vehiclePages: string[]) {
   vehicles.forEach((element, index) => {
     const wikinameMatch = vehiclePages[index].match(/code\s?=\s?([^\n]*)/);
     const marketplaceMatch = vehiclePages[index].match(/markets?=\s?([^\n]*)/);
+    const storeMatch = vehiclePages[index].match(/store?=\s?([^\n]*)/);
 
     if (wikinameMatch) {
       if (marketplaceMatch) {
@@ -23,10 +25,18 @@ function vehiclesLoop(vehicles: modernparse[], vehiclePages: string[]) {
           marketplace: marketplaceMatch[1],
         });
       } else {
-        wiki.push({
-          intname: wikinameMatch[1],
-          wikiname: element.title,
-        });
+        if (storeMatch) {
+          wiki.push({
+            intname: wikinameMatch[1],
+            wikiname: element.title,
+            store: storeMatch[1],
+          });
+        } else {
+          wiki.push({
+            intname: wikinameMatch[1],
+            wikiname: element.title,
+          });
+        }
       }
     } else {
       console.log(`no match for "${element.title}" pageid: ${element.pageid}`);
@@ -89,23 +99,31 @@ async function main(dev: boolean) {
   };
 
   const ground = fs.readdirSync("./wikitext/ground/");
-  const groundPages = fs.readdirSync("./wikitext-transpiled/ground/");
+  const aircraft = fs.readdirSync("./wikitext/aircraft/");
+  const helicopter = fs.readdirSync("./wikitext/helicopter/");
+
+  const groundPages = fs.readdirSync("./wikitext-transpiled/ground/").filter((value) => {
+    return value.match(".md");
+  });
+  const aircraftPages = fs.readdirSync("./wikitext-transpiled/aircraft/").filter((value) => {
+    return value.match(".md");
+  });
+  const helicopterPages = fs.readdirSync("./wikitext-transpiled/helicopter/").filter((value) => {
+    return value.match(".md");
+  });
+
   ground.forEach((element, i) => {
     vehicles.ground.push(JSON.parse(fs.readFileSync(`./wikitext/ground/${element}`, "utf-8")));
     vehiclePages.ground.push(
       fs.readFileSync(`./wikitext-transpiled/ground/${groundPages[i]}`, "utf-8"),
     );
   });
-  const aircraft = fs.readdirSync("./wikitext/aircraft/");
-  const aircraftPages = fs.readdirSync("./wikitext-transpiled/aircraft/");
   aircraft.forEach((element, i) => {
     vehicles.aviation.push(JSON.parse(fs.readFileSync(`./wikitext/aircraft/${element}`, "utf-8")));
     vehiclePages.aviation.push(
       fs.readFileSync(`./wikitext-transpiled/aircraft/${aircraftPages[i]}`, "utf-8"),
     );
   });
-  const helicopter = fs.readdirSync("./wikitext/helicopter/");
-  const helicopterPages = fs.readdirSync("./wikitext-transpiled/helicopter/");
   helicopter.forEach((element, i) => {
     vehicles.helicopter.push(
       JSON.parse(fs.readFileSync(`./wikitext/helicopter/${element}`, "utf-8")),

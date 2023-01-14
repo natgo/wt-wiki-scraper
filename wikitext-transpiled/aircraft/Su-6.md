@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet strike aircraft {{Battle-rating}}. It was introduced in [[Update "Raining Fire"]].
 
 The Su-6 is a Soviet prototype attack aircraft built to replace the [[IL-2 (Family)|IL-2]]. This first prototype Su-6 lacked the rear gunner of the later production [[Su-6 (AM-42)]] and [[Su-6 (M-71F)]].
@@ -19,7 +17,6 @@ The Su-6 is a Soviet prototype attack aircraft built to replace the [[IL-2 (Fami
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 If you have flown the [[IL-2 (Family)|IL-2]], the Su-6 is a very familiar experience, as it shares many of the IL-2's performance characteristics. The greatest improvement of the Su-6 compared to the IL-2 is a much-improved top speed of 491 km/h, almost 100 km/h faster than the ultimate IL-2 variants. Other than that, the aircraft has very similar characteristics to the IL-2: competitive instantaneous turn rate, subpar energy retention in sustained turns (particularly at higher speeds), moderately responsive control surfaces and a decent turn rate.
@@ -49,7 +46,7 @@ If you have flown the [[IL-2 (Family)|IL-2]], the Su-6 is a very familiar experi
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -80,22 +77,21 @@ If you have flown the [[IL-2 (Family)|IL-2]], the Su-6 is a very familiar experi
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
 Compared to the [[IL-2 (Family)|IL-2]] and [[IL-10]], the Su-6 is much less survivable mainly due to a reduction in armour plating. The aircraft's armour is concentrated around the cockpit, with 12 mm of plating in the lower front and back, 6 mm of plating on the sides, and 65 mm of bulletproof glass in front of the cockpit. Unlike the IL-2 and IL-10, the Su-6's engine block is unarmoured, meaning that headons in this aircraft are extremely dangerous due to the risk of engine damage.
 
 The Su-6's main fuel tank is located directly underneath the cockpit and is also covered by the cockpit armour; this fuel tank is also self-sealing and features a neutral gas fire suppression system. The oil cooling system is mounted between the engine and cockpit, but is unarmoured making it more susceptible to damage.
 
-- 6 mm steel behind propeller spinner
-- 6 mm steel under oil cooling systems
-- 6 mm steel on both sides of fuel tank
-- 6 mm steel on both sides of pilot
-- 8 mm steel above pilot's head
-- 12 mm steel in front of and behind fuel tank
-- 12 mm steel behind pilot
-- 65 mm bulletproof glass in front of pilot
-- Self-sealing fuel tanks (1 underneath pilot)
+* 6 mm steel behind propeller spinner
+* 6 mm steel under oil cooling systems
+* 6 mm steel on both sides of fuel tank
+* 6 mm steel on both sides of pilot
+* 8 mm steel above pilot's head
+* 12 mm steel in front of and behind fuel tank
+* 12 mm steel behind pilot
+* 65 mm bulletproof glass in front of pilot
+* Self-sealing fuel tanks (1 underneath pilot)
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -104,34 +100,30 @@ The Su-6's main fuel tank is located directly underneath the cockpit and is also
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|VYa-23 (23 mm)|ShKAS (7.62 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 23 mm VYa-23 cannons, wing-mounted (115 rpg = 230 total)
-- 4 x 7.62 mm ShKAS machine guns, wing-mounted (750 rpg = 3,000 total)
+* 2 x 23 mm VYa-23 cannons, wing-mounted (115 rpg = 230 total)
+* 4 x 7.62 mm ShKAS machine guns, wing-mounted (750 rpg = 3,000 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AO-25M-1 (25 kg)|FAB-50sv (50 kg)|FAB-100sv (100 kg)}}
 {{main|M-8|M-13UK|RBS-82|RBS-132}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 10 x M-8 rockets
-- 10 x RBS-82 rockets
-- 10 x M-13UK rockets
-- 10 x RBS-132 rockets
-- 16 x 25 kg AO-25M-1 bombs (400 kg total)
-- 6 x 50 kg FAB-50sv bombs (300 kg total)
-- 4 x 100 kg FAB-100sv bombs (400 kg total)
+* Without load
+* 10 x M-8 rockets
+* 10 x RBS-82 rockets
+* 10 x M-13UK rockets
+* 10 x RBS-132 rockets
+* 16 x 25 kg AO-25M-1 bombs (400 kg total)
+* 6 x 50 kg FAB-50sv bombs (300 kg total)
+* 4 x 100 kg FAB-100sv bombs (400 kg total)
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -165,9 +157,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
 === Manual Engine Control ===
@@ -188,54 +178,46 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
 
-- Powerful offensive armament: heavy-hitting 23 mm cannons and fast-firing 7.62 mm machine guns
+* Powerful offensive armament: heavy-hitting 23 mm cannons and fast-firing 7.62 mm machine guns
 
 '''Cons:'''
 
-- Slow for its BR: top speed of only 491 km/h
+* Slow for its BR: top speed of only 491 km/h
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=su_6_single Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=su_6_single Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|ZnopLjce42E|'''The Shooting Range #225''' - ''Metal Beasts'' section at 00:28 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/497243-su-6-single/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/497243-su-6-single/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Sukhoi}}
 {{USSR strike aircraft}}

@@ -11,9 +11,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]]. It features a 102 mm cannon in its fuselage, one of the largest armament ever fitted onto an aircraft.
 
 The P.108A serie 2 is your normal P.108, but with a 102 mm anti-shipping gun containing 50 rounds. In saying that, you're basically an over-sized [[Hs 129 (Family)|Hs 129]] or [[PBJ-1H]]. The main reason for not seeing the aircraft in Air AB, RB or even Sim is due to the fact that the plane is situational and requires a few different factors to line up for it to be successful, including air superiority, lack of enemy AA, and open space for it to manoeuvre. The defensive weaponry is decent for its battle rating but will not help the plane survive if it get uptiered past 4.0.
@@ -21,7 +19,6 @@ The P.108A serie 2 is your normal P.108, but with a 102 mm anti-shipping gun con
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!--''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''-->
 
 It is difficult to compliment the P.108A's flight performance. It is for all intents and purposes a heavy bomber repurposed into a strike aircraft. It flies somewhat acceptably compared to other bombers but by strike aircraft standards it is poor. The P.108A is slow, turns poorly, and does not accelerate or climb well. Roll rate and energy retention are not really applicable for this aircraft. The sheer weight and bulk of the plane give it a large amount of inertia, so getting guns on target during a strafing run can be a major challenge due to its weak rudder and extremely sluggish controls. Once its altitude is expended, there is little chance of getting it back in a timely manner. Think twice about your speed and altitude before attacking a ground or naval target and avoid steep dives or you will be fighting with the controls in a futile attempt to pull up!
@@ -51,7 +48,7 @@ It is difficult to compliment the P.108A's flight performance. It is for all int
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -82,54 +79,45 @@ It is difficult to compliment the P.108A's flight performance. It is for all int
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 8 mm Steel - Cockpit armour - instrument panel, pilot's seat, co-pilot's seat and floor plate below pilot
-- 8 mm Steel - Armour plate protecting ammo located in wings
-- 8 mm Steel - Side gunner armoured walls
-- 8 mm Steel - Ventral gunner position
-- Fuel tanks located in wings
+* 8 mm Steel - Cockpit armour - instrument panel, pilot's seat, co-pilot's seat and floor plate below pilot
+* 8 mm Steel - Armour plate protecting ammo located in wings
+* 8 mm Steel - Side gunner armoured walls
+* 8 mm Steel - Ventral gunner position
+* Fuel tanks located in wings
 
 === Modifications and economy ===
 {{Specs-Economy}}
 
 # The first tier modifications to be unlocked should be Radiator and Fuselage repair, then Turret 7 mm. This is so you can improve the poor performance of the plane. The belts should be last as no matter what the defensive firepower of the plane with or with out the belts would still remain poor.
-
 # The second tier upgrades should start with the Airframe so your plane is a bit more durable. Then get the New 7 mm MGs (turret) and Offensive 102 mm for increase in firepower and defensive armament. Finally go get the Compressor.
-
 # The Third tier modifications should start off with the Engine, then unlock the Wings repair. Last of all unlock the Turret 12.7 mm.
-
 # The fourth tier modification should start off with the New 12.7 mm MGs (turret) then Cover. And your last two modification should be Engine Injection and New 102 mm Cannons.
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|102/35 mod 14 (102 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 1 x 102 mm 102/35 mod 14 cannon, nose-mounted (50 rpg)
+* 1 x 102 mm 102/35 mod 14 cannon, nose-mounted (50 rpg)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|Breda-SAFAT (12.7 mm)|Breda-SAFAT (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 2 x 12.7 mm Breda-SAFAT machine gun, 2 x wing turret (300 rpg = 1,200 total)
-- 1 x 12.7 mm Breda-SAFAT machine gun, ventral turret (450 rpg)
-- 1 x 7.7 mm Breda-SAFAT machine gun, 2 x beam turret (400 rpg = 800 total)
+* 2 x 12.7 mm Breda-SAFAT machine gun, 2 x wing turret (300 rpg = 1,200 total)
+* 1 x 12.7 mm Breda-SAFAT machine gun, ventral turret (450 rpg)
+* 1 x 7.7 mm Breda-SAFAT machine gun, 2 x beam turret (400 rpg = 800 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 '''Air Battles'''
@@ -142,9 +130,9 @@ Bomber vs bomber gunfights are ill-advised because the P.108A's gunners are easy
 
 In Ground RB, try to attack enemy vehicles from the side, preferably ones that are stationary and looking away from you. This is where they are the largest and there is less chance that your target will spot you before you can attack. Since the reloading of the 102 mm cannon is done manually, it will take a relatively long time to reload. A large ammo reserve means that you can take a couple of long-distance sniper shots as you get closer to your target. Make sure you can both hit the target and pull out of the dive or you will miss and crash. The large calibre gun, which was derived from the 90 mm [[90/53 mod.41 (90 mm)|90/53 mod.41]], will do significant damage to enemy tanks if it gets a hit. Try to aim for the crew compartment to maximise damage, or hit the engine to immobilise it for so you can swing around for another pass.
 
-The aircraft is a very large target, its size and slow speed mean that enemy tanks have a chance to shoot you down with their coaxial machine guns and even their main cannon. The poor frontal armour will often get the pilot sniped or have its engines and fuel set alight on a low pass. Beware of enemy tanks that have roof-mounted machine guns. Many American vehicles like the [[M24]] Chaffee, [[M4]] Sherman, and the [[M10 GMC]] have [[M2HB (12.7 mm)|.50 cal]] machine guns for AA defense. These will do a lot of damage to your plane and pilot. Try to keep your distance from these tanks and attack when they aren't looking.
+The aircraft is a very large target, its size and slow speed mean that enemy tanks have a chance to shoot you down with their coaxial machine guns and even their main cannon. The poor frontal armour will often get the pilot sniped or have its engines and fuel set alight on a low pass. Beware of enemy tanks that have roof-mounted machine guns. Many American vehicles like the [[M24]] Chaffee, [[M4]] Sherman, and the [[M10 GMC]] have [[M2HB (12.7 mm)|.50 cal]] machine guns for AA defense. These will do a lot of damage to your plane and pilot. Try to keep your distance from these tanks and attack when they aren't looking. 
 
-Any enemy SPAA able to get its guns on target is dangerous. If there is an enemy SPAA present, circle outside of the battlefield and try to get your teammates to dispatch it before you start attack runs.
+Any enemy SPAA able to get its guns on target is dangerous. If there is an enemy SPAA present, circle outside of the battlefield and try to get your teammates to dispatch it before you start attack runs. 
 
 '''Naval Battles'''
 
@@ -168,31 +156,29 @@ Despite anti-shipping being the P.108A's original design purpose, Naval battles 
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- 102 mm cannon can prove devastating on a direct hit
-- Large amount of ammo for the cannon
-- Two turrets with two guns each are placed on the distant engines allowing for more guns to face backwards
-- Survivability of a four-engined heavy bomber
-- Slow enough that enemy fighters have less time to fire and will often overshoot
+* 102 mm cannon can prove devastating on a direct hit
+* Large amount of ammo for the cannon
+* Two turrets with two guns each are placed on the distant engines allowing for more guns to face backwards
+* Survivability of a four-engined heavy bomber
+* Slow enough that enemy fighters have less time to fire and will often overshoot
 
 '''Cons:'''
 
-- Massive target
-- Somewhat inaccurate cannon and sluggish airframe make lining up shots very difficult
-- Relatively weak defensive armament
-- Gunners are bunched together and easily knocked out
-- Turrets on the engines cannot face forwards
-- Head on attacks are usually fatal
-- Prone to fuel tank fire due to tremendous fuel load
-- No suspended ordnance options
-- Difficult to take off without flaps due to low horsepower engines
+* Massive target
+* Somewhat inaccurate cannon and sluggish airframe make lining up shots very difficult
+* Relatively weak defensive armament
+* Gunners are bunched together and easily knocked out
+* Turrets on the engines cannot face forwards
+* Head on attacks are usually fatal
+* Prone to fuel tank fire due to tremendous fuel load
+* No suspended ordnance options
+* Difficult to take off without flaps due to low horsepower engines
 
 == History ==
-
 <!--''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''-->
 
 The Piaggio P.108 heavy bomber series were the only strategic bombers to see service with the Italian military during World War II. The P.108 was developed prior to the war as a continuation of the earlier prototype Piaggio P.50. With long range and considerable bombload, the P.108 was supposed to offer the Regia Aeronautica the ability to attack ships and bases throughout the Mediterranean region, particularly at Gibraltar. The resulting aircraft was fairly advanced by the standards of the Italian industry, featuring all-metal construction, electric welding, and remote-control gun turrets on the outer engine nacelles. It looked somewhat like an Italian equivalent of the American B-17 Flying Fortress, which itself had been considered for license production in Italy. The P.108 first flew in late 1939.
@@ -206,36 +192,33 @@ The P.108 did not make a significant impact in World War II, only being produced
 No P.108s are known to survive today.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=p_108a_serie2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=p_108a_serie2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|GSSJKUqU3WE|'''The Shooting Range #260''' - ''Challenge'' section at 11:34 discusses the {{PAGENAME}}.|ObEcMPqFBbE|'''The Shooting Range #259''' - ''Tips & Tricks'' section at 11:21 discusses the {{PAGENAME}}.|PrqqMtZin1U|'''The Shooting Range #48''' - ''Metal Beasts'' section at 02:35 discusses the P.108A.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Similar aircraft fitted with a large-calibre gun
 
-- [[PBJ-1H]]
-- [[XA-38]]
-- [[Hs 129 B-3]]
-- [[Ki-109]]
+* [[PBJ-1H]]
+* [[XA-38]]
+* [[Hs 129 B-3]]
+* [[Ki-109]]
 
 == External links ==
-
 <!--''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.''-->
 
-- [https://forum.warthunder.com/index.php?/topic/365184-piaggio-p108ba-serie-2/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/365184-piaggio-p108ba-serie-2/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Piaggio}}
 {{Italy strike aircraft}}

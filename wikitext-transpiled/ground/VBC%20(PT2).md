@@ -4,21 +4,17 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian light tank {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 The VBC (PT2) has enough armour to protect it against heavy machine gun fire and low level autocannon fire. Due to this, it is quite well suited to facing other lightly armoured vehicles and will be able to take a beating as long as it's not hit in any important modules. However, the machine will not be able to withstand high-calibre rounds such as APFSDS or HEAT shot by MBTs. It is advised that you keep in mind what type of damage an enemy can do to you when facing each other, make the most out of your armour when possible but don't completely rely on it for every engagement.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
-
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
 
@@ -35,14 +31,11 @@ The VBC (PT2) has enough armour to protect it against heavy machine gun fire and
 |}
 
 '''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
-
 <!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-
 The VBC is equipped with a powerful 520 hp engine that is capable of taking this vehicle to a top speed of 110 km/h. Should it need to back out, it has a 40 km/h reverse gear available, which is very effective if it is an emergency. Thanks to its six steerable wheels, it can change direction quickly, accurately and effectively without bothering the aiming. The wheels and excellent suspension ensure that the VBC can operate smoothly on all surfaces.
 
 {{tankMobility|abMinHp=806|rbMinHp=460}}
@@ -54,9 +47,7 @@ The VBC is equipped with a powerful 520 hp engine that is capable of taking this
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|Oerlikon KBA B02 (25 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -77,10 +68,10 @@ The VBC is equipped with a powerful 520 hp engine that is capable of taking this
 
 ==== Ammunition ====
 
-- '''Default:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
-- '''M792:''' {{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
-- '''M791:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}
-- '''PMB 090:''' {{Annotation|APFSDS|Armour-piercing fin-stabilized discarding sabot}}
+* '''Default:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
+* '''M792:''' {{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
+* '''M791:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}
+* '''PMB 090:''' {{Annotation|APFSDS|Armour-piercing fin-stabilized discarding sabot}}
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="7" | Penetration statistics
@@ -113,7 +104,7 @@ The VBC is equipped with a powerful 520 hp engine that is capable of taking this
 |-
 ! 0% !! 50% !! 100%
 |-
-| M792 || HEI-T\* || 1,100 || 0.19 || 0 || 0.1 || 54.4 || 79° || 80° || 81°
+| M792 || HEI-T* || 1,100 || 0.19 || 0 || 0.1 || 54.4 || 79° || 80° || 81°
 |-
 | M791 || APDS || 1,335 || 0.13 || N/A || N/A || N/A || 75° || 78° || 80°
 |-
@@ -123,9 +114,7 @@ The VBC is equipped with a powerful 520 hp engine that is capable of taking this
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -137,16 +126,14 @@ The VBC is equipped with a powerful 520 hp engine that is capable of taking this
 ! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''4''' || 3&nbsp;''(+1)'' || 2&nbsp;''(+2)'' || 1&nbsp;''(+3)'' || ''0(+4)'' || **&nbsp;''(+**)'' || **&nbsp;''(+**)'' || No
+| '''4''' || 3&nbsp;''(+1)'' || 2&nbsp;''(+2)'' || 1&nbsp;''(+3)'' || ''0(+4)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || No
 |-
 |}
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|Beretta MG42/59 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -162,7 +149,6 @@ The VBC is equipped with a powerful 520 hp engine that is capable of taking this
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The VBC PT2 incorporates the playstyle of the Centauros and the Dardo IFVs, so it's best to play this vehicle as a support to your more armoured allies. The VBC is wheeled meaning that whenever it finds a road it's able to go at much higher speeds compared to many other vehicles at the battle rating. It is best to stick with allies when possible if you are planning to fight enemies head-on. The VBC at times can be used effectively in urban combat. If you pick a side street to set up, when the enemy goes past hopefully without seeing you, you will be able to hit them in the side with your main 25 mm cannon. By doing this you can become quite the annoyance to the enemy team as there's not much they can do to stop you. If you've been spotted however you will need to move as quickly as possible. The VBC, although being fast, is not very survivable. Its armour is only good against machine gun fire and low level autocannon fire. An enemy MBT will make short work of you. One of the many weaknesses of the VBC is the fact that it also has a big profile which usually means hiding is not possible at times.
@@ -170,24 +156,22 @@ The VBC PT2 incorporates the playstyle of the Centauros and the Dardo IFVs, so i
 When playing stock as the VBC PT2, it might be hard to earn points, you can still however be useful by actively scouting enemy players and attacking enemy aircraft, which the 25 mm cannon is more than able to do. The VBC can also work well late game when capturing points is essential to getting the victory, make the most out of its mobility. Once you research the important modifications for this vehicle (APFSDS and Thermals), your offensive capabilities are greatly improved. The VBC has a 25 mm Oerlikon-Buhrle cannon, which is able to use APDS and APFSDS. The stock round for the 25 mm cannon is not too good at dealing with enemies but once the APFSDS round is unlocked, the VBC PT2 can easily make short work of MBTs and light vehicles frontally or from the sides. Sadly, unlike the VCC-80 'Dardo', the VBC doesn't have ATGMs so keep that in mind if more armoured foes present themselves. Other neat additions that will greatly aid you is the VBC's thermal imaging device made by Kollsman. Although only available for the gunner, it is a great asset that you'll be able to use once unlocked to easily pick out and spot enemies. In terms of defence systems, it has access to smoke dischargers, which at times can prove to be very useful. Another system the VBC PT2 has is a laser warning receiver which will alert you when an enemy vehicle is lasing you, such as when laser rangefinding or guiding laser-guided missiles.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Fast-firing 25 mm cannon
-- Potent sub-calibre rounds
-- Superb mobility
-- Light protection against HMGs and low-level autocannon fire
+* Fast-firing 25 mm cannon
+* Potent sub-calibre rounds
+* Superb mobility
+* Light protection against HMGs and low-level autocannon fire
 
 '''Cons:'''
 
-- Weak against high calibre projectiles
-- Not the best off-road mobility
-- High profile
+* Weak against high calibre projectiles
+* Not the best off-road mobility
+* High profile
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The history of the OTO Melara/Iveco VBC begins during the late stages of the Cold War. In 1995, shortly after the development of the B1 Centauro tank destroyer made by OTO Melara and Iveco, Italy would begin to show interest in what they could do to the design of the Centauro to allow it to be used for different roles and scenarios. This was partially due to Italy finally being somewhat independent in its military industrial complex, which allowed more homegrown designs to be put into service. Whilst the Cold War had been raging on, Italy had begun to rapidly re-arm itself mainly due to the post WW2 laws no longer being in effect, and Italian companies such as OTO Melara became able to continue work on military projects.
@@ -206,29 +190,25 @@ Based on a modified Centauro chassis and fitted with the new turret designed by 
 The Freccia represents the spearhead of the Italian light armored units and is among the most advanced vehicles in service with the Italian forces. Outside of the military exercises, the Freccia has not taken part in any active combat operations and Italy remains its sole operator until the present day.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=it_vbc_pt2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=it_vbc_pt2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[Dardo]]
-- [[Centauro I 105]]
+* [[Dardo]]
+* [[Centauro I 105]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/7696-development-vbc-pt-2-sub-caliber-hive-en|[Devblog] VBC (Pt 2): Sub-Caliber Hive]]
+* [[wt:en/news/7696-development-vbc-pt-2-sub-caliber-hive-en|[Devblog] VBC (Pt 2): Sub-Caliber Hive]]
 
 {{Italy light tanks}}
 [[Category:Wheeled ground vehicles]]

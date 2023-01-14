@@ -9,17 +9,13 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} German jet fighter {{Battle-rating}}. It was introduced in [[Update "Starfighters"]]. It is often referred to as the "missile with a man in it" or the "widow maker", the latter nickname highlighting its questionable safety record in Luftwaffe use.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The F-104G has great speed, acceleration, and climb rate due to its streamlined aerodynamics and powerful engine, the General Electric J79-GE-11; which gives thrust of up to 4,130 kgf without and 8,391 kgf with afterburner. This is achieved at the cost of low-speed handling and turning capabilities. It only turns acceptably at transsonic or supersonic speeds (around 1,000 km/h), anything below that being far below average for a jet fighter. Even then, do not try to turnfight with anything other than fellow Starfighters; even a F-4E will outturn you. The stubby wings with a low aspect ratio also contribute to poor manoeuvring energy retention, so extended turning will bleed energy quickly. The roll rate is good, which helps in defensive manoeuvres.
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -47,7 +43,7 @@ The F-104G has great speed, acceleration, and climb rate due to its streamlined 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || ✓ || ✓ || ✓ <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -113,9 +109,7 @@ The F-104G has great speed, acceleration, and climb rate due to its streamlined 
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 The F-104G has no armour; be it in the form of armour plates or armoured glass. Fuel tanks are self-sealing, which is pretty much a standard feature at this rank. The F-104G also has access to countermeasures as a tier I modification (unlike [[F-104G (China)|Chinese F-104G]]) and Radar Warning Receiver as a tier IV modification.
 
 While selecting which combination of countermeasures to use, the pilot should consider which missiles opponents are likely to use.
@@ -144,16 +138,14 @@ The F-104G's engine performance is sufficient when stock, so one should go for c
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M61A1 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 1 x 20 mm M61A1 cannon, nose-mounted (750 rpg)
-  ** 1 x 20 mm M61A1 cannon + 60 x countermeasures
+* A choice between two presets:
+** 1 x 20 mm M61A1 cannon, nose-mounted (750 rpg)
+** 1 x 20 mm M61A1 cannon + 60 x countermeasures
 
 The M61A1 is an excellent cannon at its rank, only disadvantages being the spool up time and limited ammo count relative to rate of fire.
 
@@ -165,28 +157,26 @@ Last thing to note is that trigger discipline is a must.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|Matra 25E (250 kg)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|BLU-1 incendiary}}
 {{main|AIM-9B Sidewinder|AIM-9B FGW.2 Sidewinder|AIM-9E Sidewinder|AIM-9J Sidewinder}}
 {{main|Hydra-70 M247|AS-20 Nord|AS-30 Nord}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x AIM-9E Sidewinder missiles
-- 4 x AIM-9B Sidewinder missiles
-- 4 x AIM-9B FGW.2 Sidewinder missiles
-- 4 x AIM-9J Sidewinder missiles
-- 14 x Hydra-70 M247 rockets
-- 2 x AS-20 Nord missiles
-- 2 x AS-30 Nord missiles
-- 3 x 500 lb LDGP Mk 82 bombs (1,500 lb total)
-- 3 x 750 lb M117 cone 45 bombs (2,250 lb total)
-- 3 x 1,000 lb LDGP Mk 83 bombs (3,000 lb total)
-- 3 x 250 kg Matra 25E bombs (750 kg total)
-- 3 x BLU-1 incendiary bombs
+* Without load
+* 2 x AIM-9E Sidewinder missiles
+* 4 x AIM-9B Sidewinder missiles
+* 4 x AIM-9B FGW.2 Sidewinder missiles
+* 4 x AIM-9J Sidewinder missiles
+* 14 x Hydra-70 M247 rockets
+* 2 x AS-20 Nord missiles
+* 2 x AS-30 Nord missiles
+* 3 x 500 lb LDGP Mk 82 bombs (1,500 lb total)
+* 3 x 750 lb M117 cone 45 bombs (2,250 lb total)
+* 3 x 1,000 lb LDGP Mk 83 bombs (3,000 lb total)
+* 3 x 250 kg Matra 25E bombs (750 kg total)
+* 3 x BLU-1 incendiary bombs
 
 For Air RB, F-104G is quite limited in its options of armaments. With only two air-to-air missiles, they should not be wasted in turnfights, against agile planes, or planes that have a lot of energy. Instead, focus on enemy planes going after your teammates or planes in low energy state. Planes that lock up at higher speeds are also viable targets. The closer you get behind the enemy plane before launching, the higher your chances of hitting them are.
 
@@ -246,9 +236,7 @@ With the ballistic computer, bombs become much more viable option. Turning on th
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The F-104G should not be used in turn fighting engagements as its small wingspan and wing area does not allow the Starfighter to outturn or retain enough energy to fight any other aircraft. Instead, the Starfighter should use its high speed and engine performance to outrun most opponents. When at top speeds, the Starfighter is able to outrun short-range AAMs launched from 2.4 km at sea level and 3.5 km at higher altitudes. Flares are also available to the Starfighter which proves to be incredibly useful to pre-flare or to dodge missiles which your aircraft wouldn't normally be able to dodge without flares.
 
 Aggressive flanking and forcing enemies to turn and dump their energy is the playstyle which all Starfighter's should be flown and the more powerful engine of the F-104G variants compared to the As and Cs allow this playstyle to be played more successfully, though you cannot outrun some fighters such as the MiG-21bis (though your wing rip speed is much higher) and the F-104S (having a much more powerful engine though also much heavier).
@@ -258,9 +246,7 @@ Do not bother with climbing in an uptier: your already bad manoeuvrability gets 
 If you get downtiered, there are few enemies that can match your speed and climb rate. Stick to boom-and-zoom tactics, watch out for other [[F-104 (Family)|Starfighters]], [[Harrier (Family)|Harriers]], [[Yak-38 (Family)|Yak-38]] and [[Hunter (Family)|Hunters]] and use your flares to evade their missiles. Since few planes (or any at all) around BR 9.0 have RWR or flares, they should be easy prey for your Sidewinders.
 
 === Radars ===
-
 <!--{{main|AN/APS-19}}-->
-
 The F-104G is equipped with an NASARR search and tracking radar. The radar is mounted in the nose of the aircraft.
 
 {| class="wikitable" style="text-align:center"
@@ -285,32 +271,29 @@ The F-104G is equipped with an NASARR search and tracking radar. The radar is mo
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great top speed and acceleration
-- Great rate of climb
-- Good roll rate
-- Decent high-speed manoeuvrability
-- Powerful M61 Vulcan cannon with a very high fire rate, great ballistics and high damage
-- Wide selection of secondary ordnance, including air-to-ground AS.20 guided missiles; much better than early F-104s
-- Access to four potent AIM-9J sidewinder air-to-air missiles
-- Access to 60 chaff/flare countermeasures
+* Great top speed and acceleration
+* Great rate of climb
+* Good roll rate
+* Decent high-speed manoeuvrability
+* Powerful M61 Vulcan cannon with a very high fire rate, great ballistics and high damage
+* Wide selection of secondary ordnance, including air-to-ground AS.20 guided missiles; much better than early F-104s
+* Access to four potent AIM-9J sidewinder air-to-air missiles
+* Access to 60 chaff/flare countermeasures
 
 '''Cons:'''
 
-- Very poor overall manoeuvrability and terrible low-speed manoeuvrability
-- Bleeds energy quickly in sustained turn fights
-- Only 750 rounds of cannon ammo; with such a high rate of fire, trigger discipline is a must
-- Large turning radius due to small wing surface and high speed
-- High takeoff and landing speeds
+* Very poor overall manoeuvrability and terrible low-speed manoeuvrability
+* Bleeds energy quickly in sustained turn fights
+* Only 750 rounds of cannon ammo; with such a high rate of fire, trigger discipline is a must
+* Large turning radius due to small wing surface and high speed
+* High takeoff and landing speeds
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The brainchild of famed Lockheed engineer Clarence "Kelly" Johnson, after having spoken to USAF pilots about their experience in the Korean Air War, the F-104 Starfighter was innovative in both its design and speed. Developed from the start as a daytime air-superiority fighter with speed in mind, the Starfighter began life at Lockheed's famous "Skunk Works" facility in 1952 to combat the Soviet's new age of supersonic jet fighters. The aircraft would incorporate the smallest airframe, combined with the most technologically advanced turbojet at the time, to create the base of what would become the F-104.
 
 In 1953, the USAF showed interest in the project, and proposed an open contest with Lockheed and multiple other firms for a supersonic interceptor, based wholly on performance. Lockheed evidently won the contest and approval for two prototypes to be produced and, in February of 1954, took flight for the first time. Although it was slated to be fitted with the General Electric J79 turbofan, due to shortages of the engines the prototypes were mated to a license-built variant of the British Armstrong Siddeley Sapphire engine, called the Wright XJ65-W-6, until the initial powerplant was available. The aircraft however was not without its problems, resulting in a four-year long developmental period for the aircraft. By the end of it, 17 pre-production YF-104As had been built, tested, and used to iron out any problems that would be noticeable on the final F-104. In 1958, the F-104 would finally be available for deliveries featuring some differences from the initial prototypes in the form of a longer fuselage as well as the fitting of General Electric J79GE-3 engines putting out a whopping 14,800 lbs of thrust.
@@ -322,30 +305,25 @@ While having a history of accidents and high pilot attrition, the aircraft was f
 The aircraft saw its best success as the F-104G, of which Germany had many. The aircraft has come to be known as the "definitive" variant of the Starfighter. Sporting a reinforced airframe, larger vertical stabilizer, uprated turbofans, and improved electronics, the aircraft was initially built for the German Luftwaffe and first flew in October 1960. The aircraft's licensing was handled by multiple manufacturers, notably Messerschmitt-Bölkow-Blohm (MBB), FIAT, Fokker, and Sociétés Anonyme Belge de Constructions Aéronautiques (SABCA). While in German service the aircraft earned the nickname "Widowmaker" when, between the years 1961 and 1989, 292 aircraft out of 916 had crashed, with 116 pilots being lost.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=f-104g Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f-104g Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
-- [[F-104 (Family)]]
+* [[F-104 (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://www.militaryfactory.com/aircraft/detail.asp?aircraft_id=113 <nowiki>[Military Factory]</nowiki> Lockheed F-104 Starfighter]
+* [https://www.militaryfactory.com/aircraft/detail.asp?aircraft_id=113 <nowiki>[Military Factory]</nowiki> Lockheed F-104 Starfighter]
 
 {{AirManufacturer Lockheed}}
 {{Germany jet aircraft}}

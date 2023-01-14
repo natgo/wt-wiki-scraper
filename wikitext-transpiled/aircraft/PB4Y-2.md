@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=pb4y-2
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} American heavy bomber {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]].
 
 Historically a maritime patrol/reconnaissance aircraft derived from the [[B-24D-25-CO|B-24 Liberator]], the Privateer performs the function of a heavy bomber, optimized for dumping large amounts of high explosive on enemy bases.
@@ -19,7 +17,6 @@ Historically a maritime patrol/reconnaissance aircraft derived from the [[B-24D-
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -49,7 +46,7 @@ Since it is a heavy four-engine maritime bomber, the Privateer's manoeuvrability
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || ✓ || ✓ || X || X <!-- ✓ -->
+| X || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -80,20 +77,19 @@ Since it is a heavy four-engine maritime bomber, the Privateer's manoeuvrability
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 38 mm Bulletproof glass in front of nose gunner
-- 12.7 mm Steel plate in front of nose gunner
-- 9.5 mm Steel plate underneath nose gunner
-- 9.5 mm Steel plates behind pilots
-- 9.5 mm Steel plates inside fuselage x 3
-- 9.5 mm Steel plates behind and under radial engines
-- 12.7 mm Steel plates behind dorsal gunners
-- 38 mm Bulletproof glass in front of beam gunners
-- 9.5 and 6.35 mm Steel plates in front of beam gunners
-- 55 mm Bulletproof glass in front of the tail gunner
-- 9.5 mm Steel plate in front of the tail gunner
+* 38 mm Bulletproof glass in front of nose gunner
+* 12.7 mm Steel plate in front of nose gunner
+* 9.5 mm Steel plate underneath nose gunner
+* 9.5 mm Steel plates behind pilots
+* 9.5 mm Steel plates inside fuselage x 3
+* 9.5 mm Steel plates behind and under radial engines
+* 12.7 mm Steel plates behind dorsal gunners
+* 38 mm Bulletproof glass in front of beam gunners
+* 9.5 and 6.35 mm Steel plates in front of beam gunners
+* 55 mm Bulletproof glass in front of the tail gunner
+* 9.5 mm Steel plate in front of the tail gunner
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -102,20 +98,20 @@ Since it is a heavy four-engine maritime bomber, the Privateer's manoeuvrability
 {{Specs-Avia-Armaments}}
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AN-M30A1 (100 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|AN-M66A2 (2,000 lb)|Type A Mark I mine}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 20 x 100 lb AN-M30A1 bombs (2,000 lb total)
-- 8 x 500 lb AN-M64A1 bombs (4,000 lb total)
-- 4 x 1,000 lb AN-M65A1 bombs (4,000 lb total)
-- 8 x 1,000 lb AN-M65A1 bombs (8,000 lb total)
-- 4 x 2,000 lb AN-M66A2 bombs (8,000 lb total)
-- 4 x Type A Mark I mines
-- 8 x Type A Mark I mines
+* 20 x 100 lb AN-M30A1 bombs (2,000 lb total)
+* 8 x 500 lb AN-M64A1 bombs (4,000 lb total)
+* 4 x 1,000 lb AN-M65A1 bombs (4,000 lb total)
+* 8 x 1,000 lb AN-M65A1 bombs (8,000 lb total)
+* 4 x 2,000 lb AN-M66A2 bombs (8,000 lb total)
+* 4 x Type A Mark I mines
+* 8 x Type A Mark I mines
+
+
 
 When stock, the Privateer is loaded with 20 x 100 lb AN-M30A1 bombs, which are near useless at anything other than picking off light stationary targets. Fortunately, the Privateer gets its best payload option once you've researched the "Mk 13 Mod 0" modification at rank II: 8 x Type A Mark I naval mines, with 508 kg of TNT equivalent each (compared to 4 x 2,000 lb AN-M66A2 bombs). This is the most potent payload for any American bomber until the B-29 Superfortress. These will do more damage to a base than the equivalent weight in 2,000 lb bombs that the B-17 Flying Fortress or B-24 Liberator can carry. Against ground targets, the Type A naval mine will work like an ordinary bomb (will explode upon ground contact after the fuse timer is up). Due to quantity of bombs and explosives, the Privateer can be used to either destroy the base or destroy a column of heavy vehicles.
 
@@ -123,22 +119,20 @@ Against naval targets, however, the naval mines will not explode when missed but
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 2 x 12.7 mm M2 Browning machine guns, nose turret (600 rpg = 1,200 total)
-- 2 x 12.7 mm M2 Browning machine guns, 2 x dorsal turrets (380 rpg = 1,520 total)
-- 2 x 12.7 mm M2 Browning machine guns, 2 x beam turrets (400 rpg = 1,600 total)
-- 2 x 12.7 mm M2 Browning machine guns, tail turret (400 rpg = 800 total)
+* 2 x 12.7 mm M2 Browning machine guns, nose turret (600 rpg = 1,200 total)
+* 2 x 12.7 mm M2 Browning machine guns, 2 x dorsal turrets (380 rpg = 1,520 total)
+* 2 x 12.7 mm M2 Browning machine guns, 2 x beam turrets (400 rpg = 1,600 total)
+* 2 x 12.7 mm M2 Browning machine guns, tail turret (400 rpg = 800 total)
+
 
 The PB4Y-2 features a large amount of .50 cal heavy machine guns as defensive armament. However, even when all of them can be brought to bear, it may not be sufficient to protect the bomber against determined or skilled fighter opposition. Only the tail turret can engage enemies attacking directly behind the Privateer, as the vertical stabilizer blocks the dorsal turrets (gunner dead-zone).
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 There are two ways to play the Privateer. One of them is as a conventional heavy bomber, attempting to gain as much altitude as possible while utilizing cloud cover to evade enemy fighters. Unfortunately, the Privateer does not have very good high altitude performance, and it will struggle to climb to high altitude. This approach will also expose the aircraft to attacks from below, against which the Privateer has very little protection.
@@ -159,7 +153,7 @@ In general, when engaged by fighters, one should attempt to force them to attack
 
 '''Enemies worth noting:'''
 
-- [[Do 335 (Family)|Do 335]]: this interceptor posts a huge threat to the PB4Y due to its destructive firepower. An experienced Do 335 player might open fire from a far distance of 2.5 km away, at this range its MK108/MK103 shells still have adequate accuracy and damage to cripple the PB4Y, while the PB4Y's Browning M2 can barely do any damage. The PB4Y's tail is also prone to being blown off by a few HE cannon shells.
+* [[Do 335 (Family)|Do 335]]: this interceptor posts a huge threat to the PB4Y due to its destructive firepower. An experienced Do 335 player might open fire from a far distance of 2.5 km away, at this range its MK108/MK103 shells still have adequate accuracy and damage to cripple the PB4Y, while the PB4Y's Browning M2 can barely do any damage. The PB4Y's tail is also prone to being blown off by a few HE cannon shells.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -179,36 +173,33 @@ In general, when engaged by fighters, one should attempt to force them to attack
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Best payload of any American bomber before the B-29
-- Side turrets can fire down giving 360° coverage in all directions, meaning full coverage of the bomber, with no blindspots whatsoever
-- Waist turrets can swivel nearly 180° vertically and horizontally
-- Nose and tail turrets have excellent fields of fire
-- Large amount of .50 cal machine guns, the same as the B-29
-- No fuel tanks in the fuselage and fuel tanks are self-sealing
-- All payload options are internal, barely affecting performance
-- Has two pilots who are protected by multiple layers of armour behind, meaning it is hard to pilot snipe it from behind
-- Tricycle landing gear allows continuous braking until full stop, without having to worry about flipping over
-- Critical parts such as gunners/cooling systems are quite spread out, which helps to soak up damage
+* Best payload of any American bomber before the B-29
+* Side turrets can fire down giving 360° coverage in all directions, meaning full coverage of the bomber, with no blindspots whatsoever
+* Waist turrets can swivel nearly 180° vertically and horizontally
+* Nose and tail turrets have excellent fields of fire
+* Large amount of .50 cal machine guns, the same as the B-29
+* No fuel tanks in the fuselage and fuel tanks are self-sealing
+* All payload options are internal, barely affecting performance
+* Has two pilots who are protected by multiple layers of armour behind, meaning it is hard to pilot snipe it from behind
+* Tricycle landing gear allows continuous braking until full stop, without having to worry about flipping over
+* Critical parts such as gunners/cooling systems are quite spread out, which helps to soak up damage
 
 '''Cons:'''
 
-- Extremely slow, even for a heavy bomber
-- Near-useless stock payload
-- No ventral turrets
-- Very poor climb rate
-- Easily damaged, a large vertical stabilizer which blocks (gunner dead zone) the dorsal turrets from firing directly to the rear
-- Poor engine performance at high altitude (optimized for low altitude)
-- Gear retraction and lowering is rather slow
+* Extremely slow, even for a heavy bomber
+* Near-useless stock payload
+* No ventral turrets
+* Very poor climb rate
+* Easily damaged, a large vertical stabilizer which blocks (gunner dead zone) the dorsal turrets from firing directly to the rear
+* Poor engine performance at high altitude (optimized for low altitude)
+* Gear retraction and lowering is rather slow
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The Consolidated PB4Y-2 Privateer was a heavy bomber & maritime patrol aircraft used by the United States Navy developed from the PB4Y-1, a minor modification of the B-24 Liberator used by the United States during WWII. The aircraft was a fully-navalized version of the B-24 featuring a taller single vertical stabilizer, a flight engineer's station and modified armament. The aircraft were used towards the end of the Second World War, and were used after the war as patrol aircraft by various countries. Some converted Privateers served as firefighters into the early 2000s; all aircraft are now retired from service, though two airframes are still fully airworthy.
 
 The PB4Y-2 Privateer was a heavy modification on the previous PB4Y-1, which had been developed from the B-24 Liberator for the United States Navy and featured only minor changes from its air force cousin. The navy had been seeking a fully-navalized version of the B-24, and as a result, the aircraft featured numerous improvements over the previous PB4Y-1. The aircraft was similar in appearance to the B-24 but featured several defining features: first, the aircraft had a single vertical stabilizer compared to two smaller stabilizers on the B-24. The aircraft also had a longer fuselage accommodating a flight engineer's station, and a rebuilt armament suite consisting of twelve .50 caliber machine guns in two beam & dorsal turrets and one fore & aft turret. The ventral "ball" turret of the B-24 was removed, considering that the PB4Y was designed for low-altitude operations; the engine's superchargers were also removed for this purpose.
@@ -218,27 +209,24 @@ The Navy would eventually acquire 739 PB4Y-2 Privateers, though most of these ai
 Following the end of the Second World War, the remaining PB4Ys were used as maritime patrol aircraft, patrol bombers and even hurricane hunters (several aircraft were lost in this role). The aircraft was used once again during the Korean War as a patrol bomber, and sold to both France and the Republic of China. All American PB4Ys were retired by 1954; small numbers of these aircraft were used as firefighting aircraft all the way until 2002, when a converted PB4Y disintegrated in mid-air while firefighting; as a result, the last of the firefighting PB4Ys were retired as well. Eight PB4Y-2 Privateers survive to this day, mostly in museums in the United States. Two aircraft are fully airworthy and a third is under restoration to become fully airworthy.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=pb4y-2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=pb4y-2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/4723-development-pb4y-2-privateer-pirate-of-the-skies-en|[Devblog] PB4Y-2 Privateer: Pirate of the Skies]]
-- [https://forum.warthunder.com/index.php?/topic/365067-consolidated-pb4y-2-privateer/ Official data sheet - more details about the performance]
+* [[wt:en/news/4723-development-pb4y-2-privateer-pirate-of-the-skies-en|[Devblog] PB4Y-2 Privateer: Pirate of the Skies]]
+* [https://forum.warthunder.com/index.php?/topic/365067-consolidated-pb4y-2-privateer/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Consolidated}}
 {{USA bombers}}

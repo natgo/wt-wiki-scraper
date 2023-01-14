@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese jet fighter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
 
 After the Korean War, several nations came out with various aircraft which would out-fly opposing aircraft, especially in a dogfight. The U.S. introduced the Lockheed F-104 Starfighter and Northrop F-5 Freedom Fighter while European nations France, England and Sweden rolled out the Dassault Mirage F-1, Mirage III, English Electric Lightning, Hawker Hunter and the Saab Draken. At this time the Soviet Union was working on further developing the twin-engine MiG-19 but realized what it actually needed was a fast, single-engine light-weight fighter in what ultimately became the most highly produced supersonic fighter in the world and used by over 60 countries. The basis of this fighter was the Ye-66a (''Ye'' stands for "Yedinitsa" or single-unit), later changed to MiG-21 F-13 or as dubbed by NATO, the ''Fishbed-C''. Due to a shaky political situation, the Chengdu Aircraft Company in China reversed and engineered the MiG-21 sent by the Soviet Union without technological documents. In the process, they solved almost 250 inherent problems with the MiG-21, upgraded the fuel system, replaced the ejection seat and reoriented how the cockpit canopy opened. The result was the J-7 interceptor fighter that looked like the original MiG-21 with minor design and performance differences. NATO dubbed this aircraft ''Fishcan''.
@@ -23,9 +21,7 @@ The {{PAGENAME}} excels in air-to-air combat. Beware of hard banking; while it c
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 Due to the Chengdu {{PAGENAME}} being a point-defence fighter, the jet's main purpose is to swiftly interdict enemy aircraft. Having a take-off weight of 9.5 tons and power output from the WP-7b jet engine of 3320 kgf, the J-7 is a rocket compared to other contemporary fighters/interceptor aircraft. The closest comparable aircraft in-game are the Hunter F1, Hunter F.6, and the Super Mystère B2. In terms of engine-to-engine statistics, the Hunter F1 is the most similar plane, with a take-off weight of 9.5 tons and power output from a Rolls-Royce Avon Mk. 113 engine with 3188.1 kgf. Nevertheless, the {{PAGENAME}} is able to fly 1,000 km/h faster than the Hunter F1.
 
 Manoeuvrability in the J-7, for the most part, is non-existent. Due to the shape of the wings and the aerodynamics of the entire aircraft, it is built mostly for high-speed low-drag in a straight flight and that becomes apparent when it enters into a manoeuvre or a turn where it begins to bleed speed at a horrendous rate. With no adjustment to the throttle, a {{PAGENAME}} can drop from 1,000 km/h to 600 - 700 km/h when banking. J-7 pilots must take into account when they attempt evasive manoeuvres after a missile is fired at them because they may avoid the missile, but they may also end up flying under 700 km/h which can be difficult to return from if there is no room to dive. The best way to use the {{PAGENAME}} is up at higher altitudes where the jet flies faster and has room to dive if the speed needs to be built up after turning or manoeuvring.
@@ -57,7 +53,7 @@ While the {{PAGENAME}} can be outfitted with 500 kg bombs, adding the extra weig
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || ✓ || X || ✓ <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -123,14 +119,13 @@ While the {{PAGENAME}} can be outfitted with 500 kg bombs, adding the extra weig
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
 ;Armour
 
-- 16 mm Steel – behind the pilot's seat
-- 25 mm Steel – pilot's headrest
-- 65 mm Bulletproof glass – forward canopy windscreen
+* 16 mm Steel – behind the pilot's seat
+* 25 mm Steel – pilot's headrest
+* 65 mm Bulletproof glass – forward canopy windscreen
 
 With the {{PAGENAME}} configured for and operated as an interceptor, not much thought was put into protecting the aircraft as it was relatively cheap and easy to build and maintain. However, protections were put in place for the pilot which on the other hand was a valuable asset. Protective steel behind the seat and the pilot's headrest along with the 65 mm bulletproof glass helped protect the pilot from defensive fire coming from bomber turrets or from smaller calibre guns found on many Western fighters of the time.
 
@@ -143,30 +138,26 @@ The {{PAGENAME}}'s role as an interceptor basically had it scramble from the air
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Type 30-1 (30 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 30 mm Type 30-1 cannons, belly-mounted (60 rpg = 120 total)
+* 2 x 30 mm Type 30-1 cannons, belly-mounted (60 rpg = 120 total)
 
 The {{PAGENAME}} has been outfitted with dual 30 mm Type 30-1 cannons (Chinese version of [[NR-30 (30 mm)|Nudelman-Rikhter NR-30]] cannon). This gun is the perfect weapon for an interceptor class aircraft as it is large enough calibre to do some serious damage, however, this cannon only houses 60 rounds of ammunition per gun. While the small ammunition pool appears to be a negative point to the aircraft, minimizing weight is necessary to ensure this aircraft can intercept inbound enemy aircraft. Compared to the MiG-21 F-13, the {{PAGENAME}} has a second cannon and double the ammunition (60 rpg), however, trigger control is still a necessary skill the pilot must use to ensure enough rounds available to make the necessary shots before returning to base to reload.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|FAB-500M-54 (500 kg)|PL-2|Type 57-1}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
-- 64 x Type 57-1 rockets
-- 2 x PL-2 missiles
+* Without load
+* 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
+* 64 x Type 57-1 rockets
+* 2 x PL-2 missiles
 
 ==== Custom loadout options ====
 {| class="wikitable" width="100%" style="text-align:center"
@@ -186,7 +177,6 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 Just like the MiG-21, the J-7II was designed to be a fighter interceptor and thus all of its design features shape it into virtually a missile with a cockpit. This aircraft wasn't designed to carry the load the [[F-4C]], [[G.91 YS]] or the [[Super Mystere B2]] can carry, but it was built for speed and to bring along the minimal amount of armament to do its job.
@@ -200,9 +190,7 @@ Options are available to use this aircraft in the role of ground attack, however
 When attacking ground targets, it is best to place the J-7II into a relatively shallow dive, it is important to remember to properly line up for the target ahead of time because with the external ordnance fine-tuned manoeuvring can be difficult especially when corrections need to be made at the last minute. The lack of a bombsight makes bombing smaller targets a bit more difficult to hit. When flying low to take on ground targets, make sure you leave yourself an out when the situation turns bad. The best practice here is to ensure you keep your speed up, slow enough to hit the target, but fast enough to get away when the situation turns.
 
 === Radars ===
-
 <!--{{main|SRD-5}}-->
-
 The J-7II is equipped with an SRD-5 rangefinding radar, located in the nose of the aircraft.
 It will automatically detect other planes within the scanning area and display the range to the closest target. It is linked with a gyro gunsight and can help with aiming at close range.
 
@@ -219,43 +207,40 @@ It will automatically detect other planes within the scanning area and display t
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Higher acceleration and speed than its Soviet counterparts thanks to its new engine
-- Less high-speed compression than the [[J-6A]]
-- Can pull high AoA for quick snapshots
-- Additional port side gun which doubled the ammo count than [[MiG-21F-13]]
-- Great rate of climb
-- Missiles have a high explosive mass
+* Higher acceleration and speed than its Soviet counterparts thanks to its new engine
+* Less high-speed compression than the [[J-6A]]
+* Can pull high AoA for quick snapshots
+* Additional port side gun which doubled the ammo count than [[MiG-21F-13]]
+* Great rate of climb
+* Missiles have a high explosive mass
 
 '''Cons:'''
 
-- Not very manoeuvrable at low speeds
-- Loses energy quickly in hard turns
-- Missiles have poor agility and tracking, easily dodged by attentive targets
-- Engine tends to overheat on sustained afterburner
-- Unlike the MiG-21F-13, no access to S-24 heavy rockets for ground attack or head-ons
+* Not very manoeuvrable at low speeds
+* Loses energy quickly in hard turns
+* Missiles have poor agility and tracking, easily dodged by attentive targets
+* Engine tends to overheat on sustained afterburner
+* Unlike the MiG-21F-13, no access to S-24 heavy rockets for ground attack or head-ons
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
-The Sino-Soviet split, which began in the late 1950s, led to a period of chilled relations between the Soviet Union and the People's Republic of China. The most modern fighter aircraft in the inventory of the People's Liberation Army Air Force was the MiG-19, purchased from the USSR. While an effective fighter at the time of its introduction, rapid advancements in fighter jet development lead to new aircraft like the MiG-21 capable of flying at twice the speed of sound. Around 1960, plans were underway for MiG-21s to be license produced in China, but negotiations broke down and Soviet advisors were pulled from the country, leaving the fate of the project in question. A few years later, Khruschev unexpectedly approached Mao with an offer to sell the MiG-21 and its technology. This deal went through and several MiG-21s, parts, and associated documentation were delivered to China. However, it was discovered that the documents were incomplete. In order to manufacture them properly, the MiG-21s were thoroughly reverse-engineered, and a number of improvements were made in the process. The finished product of this effort was firstly named a '''Type 62 Interceptor (62 式歼击机)''' then later a '''J-7 (歼-7)''', mostly identical to the original [[MiG-21 F-13]] (NATO: Fishbed; the Chinese variants are sometimes called a '''Fishcan''' to differentiate from Soviet-built ones).
+The Sino-Soviet split, which began in the late 1950s, led to a period of chilled relations between the Soviet Union and the People's Republic of China. The most modern fighter aircraft in the inventory of the People's Liberation Army Air Force was the MiG-19, purchased from the USSR. While an effective fighter at the time of its introduction, rapid advancements in fighter jet development lead to new aircraft like the MiG-21 capable of flying at twice the speed of sound. Around 1960, plans were underway for MiG-21s to be license produced in China, but negotiations broke down and Soviet advisors were pulled from the country, leaving the fate of the project in question. A few years later, Khruschev unexpectedly approached Mao with an offer to sell the MiG-21 and its technology. This deal went through and several MiG-21s, parts, and associated documentation were delivered to China. However, it was discovered that the documents were incomplete. In order to manufacture them properly, the MiG-21s were thoroughly reverse-engineered, and a number of improvements were made in the process. The finished product of this effort was firstly named a '''Type 62 Interceptor (62式歼击机)''' then later a '''J-7 (歼-7)''', mostly identical to the original [[MiG-21 F-13]] (NATO: Fishbed; the Chinese variants are sometimes called a '''Fishcan''' to differentiate from Soviet-built ones).
 
 A huge number of J-7 variants were manufactured in the course of its nearly 50-year production run, though development and production stagnated during the chaos of the Cultural Revolution and the PLAAF often had to rely on the outdated [[J-6A|Shenyang J-6]]. The '''{{PAGENAME}}''' first flew in 1978 and featured an improved engine and ejection seat, among other changes. Later J-7B/F-7M incorporated British GEC Marconi avionics and was compatible with Western weapons, these were popular export items to customers like Bangladesh, Pakistan, Nigeria, and Iran. The J-7III series was developed from the basis of a reverse-engineered [[MiG-21MF (Germany)|MiG-21MF]] and attempted to match the MiG-21SM, featuring a larger nosecone and a more powerful radar, but did not see large-scale production. The successful J-7IV (later [[J-7E]]) introduced a unique double-delta wing design that improved the aircraft's agility and fuel capacity tremendously. The J-7 design was also used as a starting point for the Guizhou JL-9 supersonic trainer and the JF-17 multirole export fighter.
 
 At present, the J-7 is still in the inventory of numerous air forces, but they are mostly those based on the later E variants (F-7MG, PG, BG) and only very few of the original delta wing variants are still in service. After PLAAF and PLANAF decommissioned their remaining J-7IIH and J-7B from combat service in 2021, the remaining J-7E and G still served as an inexpensive and quick-response frontline interceptors for PLAAF.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=j_7_mk2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=j_7_mk2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover" heights="150">
@@ -273,17 +258,16 @@ File:J-7 mkII WTWallpaper 006.jpg
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6360-development-chengdu-j-7ii-domestic-technologies-en|[Development] Chengdu J-7II: Domestic Technologies]]
-- [https://forum.warthunder.com/index.php?/topic/474722-chengdu-j-7ii/ Official data sheet - more details about the performance]
+* [[wt:en/news/6360-development-chengdu-j-7ii-domestic-technologies-en|[Development] Chengdu J-7II: Domestic Technologies]]
+* [https://forum.warthunder.com/index.php?/topic/474722-chengdu-j-7ii/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Chengdu}}
 {{China jet aircraft}}

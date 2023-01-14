@@ -11,15 +11,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} German jet fighter {{Battle-rating}}. It was introduced during [[Update "Ixwa Strike"]] as a reward for the [[wt:en/news/7107-event-future-technology-en|Future Technology]] event.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -47,7 +44,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} German jet fighter {{Batt
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || ✓ || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -113,9 +110,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} German jet fighter {{Batt
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
 
 === Modifications and economy ===
@@ -125,40 +120,36 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} German jet fighter {{Batt
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M61A1 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 1 x 20 mm M61A1 cannon, chin-mounted (640 rpg)
+* 1 x 20 mm M61A1 cannon, chin-mounted (640 rpg)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
 {{main|M118 (3,000 lb)|BLU-27/B incendiary|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|GAU-4 (20 mm)}}
 {{main|AIM-9B FGW.2 Sidewinder|AIM-9E Sidewinder|AIM-9J Sidewinder}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x 20 mm GAU-4 cannons (1,200 rpg = 2,400 total)
-- 2 x AIM-9E Sidewinder missiles
-- 4 x AIM-9B FGW.2 Sidewinder missiles
-- 4 x AIM-9E Sidewinder missiles
-- 4 x AIM-9J Sidewinder missiles
-- 24 x 500 lb LDGP Mk 82 bombs (12,000 lb total)
-- 17 x 750 lb M117 cone 45 bombs (12,750 lb total)
-- 4 x BLU-27/B incendiary bombs
-- 13 x 1,000 lb LDGP Mk 83 bombs (13,000 lb total)
-- 3 x 2,000 lb LDGP Mk 84 bombs (6,000 lb total)
-- 1 x 3,000 lb M118 bomb (3,000 lb total)
-- 285 x FFAR Mighty Mouse rockets
-- 60 x Zuni Mk32 Mod 0 ATAP rockets
+* Without load
+* 2 x 20 mm GAU-4 cannons (1,200 rpg = 2,400 total)
+* 2 x AIM-9E Sidewinder missiles
+* 4 x AIM-9B FGW.2 Sidewinder missiles
+* 4 x AIM-9E Sidewinder missiles
+* 4 x AIM-9J Sidewinder missiles
+* 24 x 500 lb LDGP Mk 82 bombs (12,000 lb total)
+* 17 x 750 lb M117 cone 45 bombs (12,750 lb total)
+* 4 x BLU-27/B incendiary bombs
+* 13 x 1,000 lb LDGP Mk 83 bombs (13,000 lb total)
+* 3 x 2,000 lb LDGP Mk 84 bombs (6,000 lb total)
+* 1 x 3,000 lb M118 bomb (3,000 lb total)
+* 285 x FFAR Mighty Mouse rockets
+* 60 x Zuni Mk32 Mod 0 ATAP rockets
 
 ==== Custom loadout options ====
 {| class="wikitable" width="100%" style="text-align:center"
@@ -210,7 +201,6 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The aircraft is pretty heavy, rather quick in acceleration and top speed and doesn't have the best turn time. Its armament, however, is impressive. With the gun pod modification equipped, you'll fire enough lead downrange to destroy any air target. Using the phantom as a turnfighter is generally ill-advised. Therefore, try to ambush a unsuspecting enemy. Even the single 20 mm cannon will give any foe a fiery end.
@@ -226,58 +216,51 @@ If you are being chased by the enemy, try to be as far and as fast as possible: 
 The missiles on the F-4F, apart from the AIM-9J, aren't very good. the AIM-9B FGW.2 and AIM-9E both have pretty poor lock-on range, small targeting window and they can pull roughly 10 G. The AIM-9J is better, it has a higher lock-on range, a pretty large targeting window, can pull 20 G and is faster. You want to fire a missile when the enemy is close and slow. Very close targets usually don't have the time to activate countermeasures, or the countermeasures are flat out ignored. Another way of using missiles is to make the enemy lose their energy, and making them an easy target to hit with either another missile or with your cannon.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Good performance at high altitude
-- Can carry up to 12,000 lb of ordnance
-- Varied and mixed armament presets allow for multipurpose usage in ground battles
-- AIM-9J are one of the best missiles in game
+* Good performance at high altitude
+* Can carry up to 12,000 lb of ordnance
+* Varied and mixed armament presets allow for multipurpose usage in ground battles
+* AIM-9J are one of the best missiles in game
 
 '''Cons:'''
 
-- Lacks countermeasures (flares/chaff)
-- Lacks SARH missiles found on other Phantoms, such as the AIM-7 Sparrow
-- Underwhelming performance at very low altitudes
-- Lacks a [[Ballistic Computer]]
-- Cannot carry more than 4 missiles
-- Dodging IR missiles is harder, with its 2 engines, which make a bigger heat signature near the plane
+* Lacks countermeasures (flares/chaff)
+* Lacks SARH missiles found on other Phantoms, such as the AIM-7 Sparrow
+* Underwhelming performance at very low altitudes
+* Lacks a [[Ballistic Computer]]
+* Cannot carry more than 4 missiles
+* Dodging IR missiles is harder, with its 2 engines, which make a bigger heat signature near the plane
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=f-4f Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f-4f Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Aircraft of comparable role, configuration and era
 
-- Mikoyan-Gurevich [[MiG-21 (Family)|MiG-21]]
-- SAAB [[J35D]]
-- Dassault [[Mirage IIIC]]
+* Mikoyan-Gurevich [[MiG-21 (Family)|MiG-21]]
+* SAAB [[J35D]]
+* Dassault [[Mirage IIIC]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/7104-development-craft-srafting-event-early-f-4f-phantom-ii-en|[Devblog] Crafting event: Early F-4F Phantom II]]
+* [[wt:en/news/7104-development-craft-srafting-event-early-f-4f-phantom-ii-en|[Devblog] Crafting event: Early F-4F Phantom II]]
 
 {{AirManufacturer McDonnell}}
 {{Germany jet aircraft}}

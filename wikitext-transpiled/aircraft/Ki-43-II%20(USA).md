@@ -10,9 +10,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} American fighter {{Battle-rating}}. It was introduced in [[Update 1.43]].
 
 The Ki-43-II Hayabusa was built from the ground up to be a very manoeuvrable turn fighter. It sacrifices any additional armament and armour for the ability to turn and climb. The aircraft was fitted with butterfly flaps (a type of combat flap) that drastically boost its ability to turn. Since the Hayabusa lacks any armour you will need to fly it with a defensive mindset. This aircraft is very comparable to the A6M series in the regards of handling and tactics.
@@ -20,7 +18,6 @@ The Ki-43-II Hayabusa was built from the ground up to be a very manoeuvrable tur
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -48,7 +45,7 @@ The Ki-43-II Hayabusa was built from the ground up to be a very manoeuvrable tur
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -79,11 +76,10 @@ The Ki-43-II Hayabusa was built from the ground up to be a very manoeuvrable tur
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 12 mm steel - behind pilot
-- Fuel tanks in wing roots
+* 12 mm steel - behind pilot
+* Fuel tanks in wing roots
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -92,17 +88,14 @@ The Ki-43-II Hayabusa was built from the ground up to be a very manoeuvrable tur
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Ho-103 (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 12.7 mm Ho-103 machine guns, nose-mounted (250 rpg = 500 total)
+* 2 x 12.7 mm Ho-103 machine guns, nose-mounted (250 rpg = 500 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 In all modes, the Ki-43 can perform both BnZ fighting and turnfighting with the correct opponent. It can easily accelerate to 500 km/h in a dive while still having responsive controls. However its speed retention is quite poor and will lose lots of speed as soon as you level out. For turnfighting, you can out-turn most monoplanes and almost all heavy fighters/attackers even without combat flaps deployed, but never turn with Spitfires and Zeros. Note that this aircraft will experience severe rudder lockup when faster than around 450 km/h, resulting in awkward aiming adjustments if the target manoeuvres, so you need to cut throttle appropriately to control your speed.
@@ -123,7 +116,7 @@ When it comes to intercepting ground pounders or bombers, the Ki-43 generally pe
 
 '''Enemies worth noting:'''
 
-- [[Typhoon Mk Ia]] (mixed battles): this is a very capable opponent, it is quite fast, climbs good, manoeuvres alright and has 12 x 7.7 mm MGs that can fatally damage the Ki-43. If you are attacking, get an altitude advantage first and BnZ it. If you are being attacked by it, evade its first pass and immediately start a turnfight. You need to deploy combat / takeoff flaps, or even landing flaps if needed to push your turn rate to the limit. Several circles are needed, don't panic to see the Typhoon keeping up with your turns at first. With appropriate flaps, the Ki-43 will slowly out turn it, allowing you to get onto its tail. The Typhoon overall resembles a Hurricane, except its symbolic giant intake below the engine.
+* [[Typhoon Mk Ia]] (mixed battles): this is a very capable opponent, it is quite fast, climbs good, manoeuvres alright and has 12 x 7.7 mm MGs that can fatally damage the Ki-43. If you are attacking, get an altitude advantage first and BnZ it. If you are being attacked by it, evade its first pass and immediately start a turnfight. You need to deploy combat / takeoff flaps, or even landing flaps if needed to push your turn rate to the limit. Several circles are needed, don't panic to see the Typhoon keeping up with your turns at first. With appropriate flaps, the Ki-43 will slowly out turn it, allowing you to get onto its tail. The Typhoon overall resembles a Hurricane, except its symbolic giant intake below the engine.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -143,53 +136,49 @@ When it comes to intercepting ground pounders or bombers, the Ki-43 generally pe
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Decent level & dive speed at its place
-- Good acceleration
-- Climbs well
-- Useful flaps in a turnfight
-- Good all-round cockpit visibility in simulator
-- Forgiving landing characteristics
+* Decent level & dive speed at its place
+* Good acceleration
+* Climbs well
+* Useful flaps in a turnfight
+* Good all-round cockpit visibility in simulator
+* Forgiving landing characteristics
 
 '''Cons:'''
 
-- Limited armament
-- Lacks armour
-- Mostly faces Japan (facing equally/more manoeuvrable planes)
-- Somewhat limited damage output
-- As with a lot of Japanese-made planes, is rather fragile
-- Ammo limits prolonged fighting
-- Rudder locks up past 450 km/h, meaning that you will miss quite some passes due to the aim not being able to adjust horizontally
-- No payload options
+* Limited armament
+* Lacks armour
+* Mostly faces Japan (facing equally/more manoeuvrable planes)
+* Somewhat limited damage output
+* As with a lot of Japanese-made planes, is rather fragile
+* Ammo limits prolonged fighting
+* Rudder locks up past 450 km/h, meaning that you will miss quite some passes due to the aim not being able to adjust horizontally
+* No payload options
 
 == History ==
 ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ki_43_2_late Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ki_43_2_late Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/111036-nakajima-ki-43-ii/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/111036-nakajima-ki-43-ii/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Nakajima}}
 {{USA fighters}}

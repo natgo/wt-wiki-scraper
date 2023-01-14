@@ -9,14 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian jet fighter {{Battle-rating}}. It was introduced in [[Update 1.87 "Locked On"]].
 
 The {{PAGENAME}} is a multi-role fighter which first debuted in 1966. Based largely on earlier Fiat G.91 fighters, the G.91 YS was a complete redesign but kept the basic shape of the G.91 series. The biggest difference between the two types was the conversion from a single-engine to two General Electric J85 turbojets outfitted with afterburners. This conversion alone resulted in a 60% increase in the aircraft's thrust, however, it was not enough for this jet to become supersonic even when in a dive.
 
-In similar fashion to the earlier French fighter, the [[Super Mystere B2]], the {{PAGENAME}} was outfitted with dual 30 mm DEFA autocannons in the cheeks of the forward fuselage. Also in the same vein, the {{PAGENAME}} was built to be a multi-role fighter as a fighter-interceptor or a fighter-bomber. Due to the increased power of the dual engines, this fighter when acting in a bomber role has the ability to carry up to 4,000 lbs of bombs, though configurations as low as 1,000 lbs is available. FFAR Mighty Mouse unguided rockets are another good option for taking out softer ground targets in which the larger 500 – 1,000 lb bombs would otherwise be overkill.
+In similar fashion to the earlier French fighter, the [[Super Mystere B2]], the {{PAGENAME}} was outfitted with dual 30 mm DEFA autocannons in the cheeks of the forward fuselage.  Also in the same vein, the {{PAGENAME}} was built to be a multi-role fighter as a fighter-interceptor or a fighter-bomber. Due to the increased power of the dual engines, this fighter when acting in a bomber role has the ability to carry up to 4,000 lbs of bombs, though configurations as low as 1,000 lbs is available. FFAR Mighty Mouse unguided rockets are another good option for taking out softer ground targets in which the larger 500 – 1,000 lb bombs would otherwise be overkill.
 
 The {{PAGENAME}} while lacking in the supersonic flight department is a feisty little fellow which can still hold its own in an air-to-air combat role. The dual autocannons can make quick work of any head-on attacks provided the pilot gets out of the way of incoming bullets in return. AIM-9B Sidewinder missiles prove themselves very effective especially against slower targets such as bombers and helicopters but are a bit more difficult to achieve success against other fighters due to their ability to pull high-G manoeuvres and break the missile lock and avoid them.
 
@@ -25,9 +23,7 @@ The pilot has the option to change up the load-out of the aircraft due to the ma
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 [[File:G91YS Jermster 91 001.jpg|300px|thumb|right|A bird's eye view of a {{PAGENAME}} fighter.]]
 The {{PAGENAME}} is a very good Boom & Zoom fighter, the only issue is confronting other jets with afterburner capabilities which make your Boom & Zoom attempt more difficult. The YS has a lower turn speed than the other G.91s (swapped for acceleration and a little bit more speed) it is also two high power engines, making it possible to return to base on one engine or even fight like that if you want. Sadly the G.91 isn't supersonic but it can get close in a steep dive, making it one of the best trans-sonic jets!
 
@@ -56,7 +52,7 @@ The {{PAGENAME}} is a very good Boom & Zoom fighter, the only issue is confronti
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || ✓ || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -122,11 +118,10 @@ The {{PAGENAME}} is a very good Boom & Zoom fighter, the only issue is confronti
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 40 mm bulletproof glass in the canopy windshield (angled to provide about 94 mm of protection)
-- 6.5 mm steel behind pilot's seat
+* 40 mm bulletproof glass in the canopy windshield (angled to provide about 94 mm of protection)
+* 6.5 mm steel behind pilot's seat
 
 Like many later generation jet fighters (those built in the 1960s-70s) the {{PAGENAME}} traded armour for greater ordnance carrying capacity. Though not without all armour, the canopy windshield has an effective thickness of 94 mm to protect the pilot in the event of a head-on attack. Though the 6.5 mm of steel behind the pilot's seat seem to be on the thin side, bullets coming in from that direction will need to pass through the engine first. If the pilot is going to be hit by bullets it will most likely be through side angle shots or from above.
 [[File:G91YS AgressiveRecon 001.jpg|700px|thumb|center|Aerial shot of a {{PAGENAME}} at altitude.]]
@@ -148,32 +143,28 @@ Like many later generation jet fighters (those built in the 1960s-70s) the {{PAG
 === Offensive armament ===
 [[File:G91YS CrazyJow 001.jpg|400px|thumb|right|'''{{PAGENAME}}''' fighter with the sun setting behind it.]]
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|DEFA 552 (30 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 30 mm DEFA 552 cannons, nose-mounted (125 rpg = 250 total)
+* 2 x 30 mm DEFA 552 cannons, nose-mounted (125 rpg = 250 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)|AIM-9B Sidewinder|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x 500 lb LDGP Mk 82 bombs (1,000 lb total)
-- 4 x 500 lb LDGP Mk 82 bombs (2,000 lb total)
-- 2 x 1,000 lb LDGP Mk 83 bombs (2,000 lb total)
-- 4 x 1,000 lb LDGP Mk 83 bombs (4,000 lb total)
-- 76 x FFAR Mighty Mouse rockets
-- 16 x Zuni Mk32 Mod 0 ATAP rockets
-- 2 x AIM-9B Sidewinder missiles
+* Without load
+* 2 x 500 lb LDGP Mk 82 bombs (1,000 lb total)
+* 4 x 500 lb LDGP Mk 82 bombs (2,000 lb total)
+* 2 x 1,000 lb LDGP Mk 83 bombs (2,000 lb total)
+* 4 x 1,000 lb LDGP Mk 83 bombs (4,000 lb total)
+* 76 x FFAR Mighty Mouse rockets
+* 16 x Zuni Mk32 Mod 0 ATAP rockets
+* 2 x AIM-9B Sidewinder missiles
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -201,40 +192,34 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The G.91 YS has a lot of power and energy potential, keep that in mind before going into battle. To add to this fighters punch, it also utilises AIM 9B missiles and in capable hands, this fighter can be a monster on the battlefield. The YS also has the capability of mounting 76 x FFAR Mighty Mouse rockets which provide the potential of low-altitude Boom & Zooming on trucks, anti-aircraft artillery, light tanks and even enemy fighters attempting an airfield capture, though this does not come without a cost. When dropping in low on ground targets, the fighter sacrifices its speed and manoeuvrability for that ordnance. The YS also can outfit a few bombs so the YS can then be used as a base bomber following up by attacking enemy fighters, but even still it isn't always reliable and can be easily intercepted from any other supersonic fighter jets patrolling the area.
 
 Your biggest threats will be F-4Cs, MiG-19S/PT, F-100D, Mitsubishi T2, J-6A, J-7II, Hunter F.6, mainly because they have superior speed and ordnance. The Hunter is probably the best-matched jet to the {{PAGENAME}}. The only top tier jet which should not be too much of a pain is the Super Mystere B2, and F-86K because they have limited speed and slow acceleration compared and will never win in a vertical climb against the {{PAGENAME}}.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 [[File:G91YS easterly0815 001.png |400px|thumb|right|{{PAGENAME}} popping its braking parachute upon landing.]]
 '''Pros:'''
 
-- Excellent acceleration and roll speed
-- Able to carry air-to-air missiles
-- Wide variety of payload options
-- High rate of climb
-- Deadly main armament
-- Drag chute helps slow you down very quickly during landings
+* Excellent acceleration and roll speed
+* Able to carry air-to-air missiles
+* Wide variety of payload options
+* High rate of climb
+* Deadly main armament
+* Drag chute helps slow you down very quickly during landings
 
 '''Cons:'''
 
-- Slower than most planes it will face
-- Limited ammo
-- Slower turn rate compared to earlier G.91s
-- Flaps and landing gear are prone to ripping off
-- New booster module is a must to research in order to avoid crashing during a very fast and low-level dive
-- AIM-9Bs have a poorer performance other air-to-air missiles at this BR
+* Slower than most planes it will face
+* Limited ammo
+* Slower turn rate compared to earlier G.91s
+* Flaps and landing gear are prone to ripping off
+* New booster module is a must to research in order to avoid crashing during a very fast and low-level dive
+* AIM-9Bs have a poorer performance other air-to-air missiles at this BR
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 [[File:G91YS Jermster 91 002.jpg|400px|thumb|right|A {{PAGENAME}} heading into an active battle zone.]]
 During the 1960s, Fiat began developing a successor to their previous G.91 fighter, which had thus far managed to obtain a favourable reputation with its operators. Fiat based their new aircraft heavily on the two-seat trainer version of the G.91 and decided outfit the aircraft with two General Electric J85 afterburning engines contrary to the preceding single-engine G.91.
 
@@ -249,12 +234,11 @@ The G.91YS was a single prototype conversion of the G.91Y, which followed a requ
 ''- From [[wt:en/news/6078-development-g-91ys-turning-and-burning-en|Devblog]]''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=fiat_g91_ys Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=fiat_g91_ys Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="200">
@@ -270,17 +254,16 @@ File:G91YS_WTWallpaper_007.jpg
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6078-development-g-91ys-turning-and-burning-en|[Devblog] G.91YS: Turning and Burning]]
-- [https://forum.warthunder.com/index.php?/topic/445808-fiat-g91ys/ Official data sheet - more details about the performance]
+* [[wt:en/news/6078-development-g-91ys-turning-and-burning-en|[Devblog] G.91YS: Turning and Burning]]
+* [https://forum.warthunder.com/index.php?/topic/445808-fiat-g91ys/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Fiat}}
 {{Italy jet aircraft}}

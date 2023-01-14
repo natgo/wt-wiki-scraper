@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet jet fighter {{Battle-rating}}. It was introduced in [[Update 1.35]]. The main differences between this aircraft and the [[MiG-15bis]] are weaker engine performance and [[NR-23 (23 mm)|23 mm NR-23]] autocannons.
 
 == General info ==
@@ -19,10 +17,8 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet jet fighter {{Battle-ra
 
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
-The MiG-15, while being a successor of the MiG-9, uses swept wings which provide better performance at transonic speed. The other difference is the use of a single engine, the Klimov RD-45F. The plane is able to reach 1050 km/h at sea level and 994 km/h at 9,000 m, it makes the plane's speed very comparable with other jets at a similar battle rating. The climb rate is very high: with full fuel tanks it reaches 42 m/s and the plane can climb from sea level up to 5,000 m in slightly above 2 minutes. The acceleration is also great, thrust to weight ration when the plane is fully loaded is 0.44, which is significantly better compared to the F-86A, one of its main competitors, the plane also keeps its speed very well, especially at high speed.
+The MiG-15, while being a successor of the MiG-9, uses swept wings which provide better performance at transonic speed. The other difference is the use of a single engine, the Klimov RD-45F. The plane is able to reach 1050 km/h at sea level and 994 km/h at 9,000 m, it makes the plane's speed very comparable with other jets at a similar battle rating. The climb rate is very high: with full fuel tanks it reaches 42 m/s and the plane can climb from sea level up to 5,000 m in slightly above 2 minutes. The acceleration is also great, thrust to weight ration when the plane is fully loaded is 0.44, which is significantly better compared to the F-86A, one of its main competitors, the plane also keeps its speed very well, especially at high speed. 
 The engine can start overheating after prolonged flying at 100% of power, but it is quite easy to cool down, although when that happens it will keep overheating after switching back to max power so when it possible it should be reduced to 95% or lower.
 
 The MiG-15's weight is very low in comparison to other jet fighters from similar era, it is only ~4700 kg and along with quite good wings aerodynamics and wing loading it makes the plane very manoeuvrable at low and medium speeds and makes it a very dangerous foe to any other plane when it comes to dogfighting, the only thing that slightly drags this plane down is its high speed turn rate, which is very underwhelming. The MiG-15 locks up at lot after reaching subsonic speeds and its rolling performance, which is already very average at medium and low speeds, gets very bad at high speed. It is also equipped with an airbrake that can help a lot with slowing down and it situations to make the enemy plane overshoot.
@@ -55,7 +51,7 @@ When flying with simulator controls, it is very pleasant to fly: trimming is alm
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -121,13 +117,12 @@ When flying with simulator controls, it is very pleasant to fly: trimming is alm
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 64 mm Bulletproof glass in the cockpit front
-- 10 mm Steel plate in front of the pilot in the nose
-- 6 mm Steel plate in pilot's seat
-- 10 mm Steel plate behind the pilot's head
+* 64 mm Bulletproof glass in the cockpit front
+* 10 mm Steel plate in front of the pilot in the nose
+* 6 mm Steel plate in pilot's seat
+* 10 mm Steel plate behind the pilot's head
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -136,35 +131,29 @@ When flying with simulator controls, it is very pleasant to fly: trimming is alm
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|N-37D (37 mm)|NS-23 (23 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 1 x 37 mm N-37D cannon, nose-mounted (40 rpg)
-- 2 x 23 mm NS-23 cannons, nose-mounted (80 rpg = 160 total)
+* 1 x 37 mm N-37D cannon, nose-mounted (40 rpg)
+* 2 x 23 mm NS-23 cannons, nose-mounted (80 rpg = 160 total)
 
 Both the N-37D and the NS-23 cannons have the muzzle velocity of 690 m/s.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|FAB-100M-43 (100 kg)|FAB-250M-46 (250 kg)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 100 kg FAB-100M-43 bombs (200 kg total)
-- 2 x 250 kg FAB-250M-46 bombs (500 kg total)
+* Without load
+* 2 x 100 kg FAB-100M-43 bombs (200 kg total)
+* 2 x 250 kg FAB-250M-46 bombs (500 kg total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 At higher ranks of the Soviet aviation line, the MiG-15 series is one of the most iconic jet fighter aircraft designs from after the Second World War. Earning its reputation on fame over the skies of Korea against its US contemporary, the [[F-86A-5]] Sabre.
 
 The MiG-15 can be researched from its predecessor, the [[MiG-9]]. The MiG-15 features a powerful cannon arrangement of 2 x 23 mm and 1 x 37 mm, excellent high altitude performance and is highly effective in vertical manoeuvres. Unlike the MiG-9, the MiG-15 is also the first Soviet jet aircraft to feature an air brake which is extremely useful in combat situations. The jet fighter does, however, have its downsides. The lack of an "All-flying tailplane" (such as that featured on the [[F-86F-25]]) leads to less control over the aircraft at higher speeds approaching 1,000 km/h. While the MiG is initially faster in acceleration by comparison to the Sabre, this does mean that once both aircraft are up at higher speeds, the Sabre will hold some advantages over the MiG-15. It should be noted that if you load 8 minutes of fuel instead of the regular (for most pilots) 20, it drastically improves your performance. However, this is not recommended to be done at the beginning of the match as most matches last longer than 8 minutes, and should instead be done when you land mid-match.
@@ -174,41 +163,38 @@ The combination of 37 mm and 23 mm cannons creates aiming issues for pilots not 
 Once pilots have learned to use the MiG-15s excellent rate of climb, acceleration and high altitude capabilities to their advantage, the downsides of the aircraft are far less significant than the positives. In the right hands, the MiG-15 can be a devastating combatant, capable of dealing with any aircraft in game swiftly. Teamwork, Squads and communication will also be beneficial when flying the MiG-15 as effective coordination between multiple pilots allow you to use this aircraft to its maximum potential. After mastering the MiG-15, you can research its improved variant, the [[MiG-15bis]]. As the MiG-15 is essentially a slightly merged MiG-15bis, it shares much of its performance issues and abilities.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Flaps can be deployed at high speeds
-- Capable and useful air brake
-- High rate of climb
-- Great acceleration
-- Deadly armament capable of making snapshots
-- Excellent energy retention
-- Quite good turn rate compared to other subsonic jets
+* Flaps can be deployed at high speeds
+* Capable and useful air brake
+* High rate of climb
+* Great acceleration
+* Deadly armament capable of making snapshots
+* Excellent energy retention
+* Quite good turn rate compared to other subsonic jets
 
 '''Cons:'''
 
-- Abysmal roll rate
-- Compression at high speeds
-- Extremely challenging to use when stock
-- Armament is difficult to use (low velocities, low ammo and two different trajectories)
-- Guns tend to do an insufficient amount of damage quite often
-- No G-suit, so maintaining control is difficult when turning at high speeds
-- The plane cannot use any rockets, it is limited to bombs only
-- Poor forward visibility in simulator, as a large canopy frame and the gunsight block the top and bottom
+* Abysmal roll rate
+* Compression at high speeds
+* Extremely challenging to use when stock
+* Armament is difficult to use (low velocities, low ammo and two different trajectories)
+* Guns tend to do an insufficient amount of damage quite often
+* No G-suit, so maintaining control is difficult when turning at high speeds
+* The plane cannot use any rockets, it is limited to bombs only
+* Poor forward visibility in simulator, as a large canopy frame and the gunsight block the top and bottom
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 First taking to the air in December of 1947, the Mikoyan-Gurevich MiG-15 jet fighter aircraft came as a massive shock to the west when it appeared in the skies over Korea in the early 1950s. The swept-wing fighter quickly proved itself as a capable and effective combat aircraft and forged a fearsome reputation.
 
 The prototype I-310 was designed around the British Rolls Royce Nene engine which was purchased under license from Great Britain as the RD-45. Featuring sleek swept-back wings, tricycle undercarriage and the same armament as its predecessor, the [[MiG-9]], in the form of 2 x 23 mm NS-23 cannons (Later replaced by NR-23 cannons in the [[MiG-15bis]] model) and a single 37 mm N-37D cannon all mounted centrally under the nose intake. The new aircraft was designed as an interceptor with heavy armament capable of quickly taking out bomber formations and was one of the most advanced aircraft in the world at the time.
 
 Entering service between 1949-50, the MiG-15 made its operational combat debut in the Korean War, completely outclassing the first-generation jet fighter aircraft of the UN forces such as the [[F-80C-10]] and [[F-84B-26]]. The MiG's excellent climb rate, high-speed performance and deadly weaponry proved superior to the early jets and was only challenged by the arrival of the [[F-86A-5]]. At the time, the Sabre was the only aircraft capable of effectively combating the MiG in aerial combat and the pair became synonymous with the conflict.
 
-From 1950, the MiG-15 was later developed into the Bis model, featuring a new engine, armament changes and minor overall improvements. However, the aircraft would ultimately lead to the development of the MiG-17. The MiG-15 was also a hugely successful export aircraft, operated by many nations such as Poland, Czechoslovakia, [[MiG-15bis (Germany)|East Germany]], China, North Korea and Vietnam to name but a few. Licence built versions of the MiG-15 also existed such as the Chinese J-2, Czech S-102/3 and Polish Lim-1.
+From 1950, the MiG-15 was later developed into the Bis model, featuring a new engine, armament changes and minor overall improvements.  However, the aircraft would ultimately lead to the development of the MiG-17. The MiG-15 was also a hugely successful export aircraft, operated by many nations such as Poland, Czechoslovakia, [[MiG-15bis (Germany)|East Germany]], China, North Korea and Vietnam to name but a few. Licence built versions of the MiG-15 also existed such as the Chinese J-2, Czech S-102/3 and Polish Lim-1.
 
 The MiG-15 is a true icon of aviation and will provide experienced pilots with an impressive top tier jet fighter when employed to its strengths, being more than a match to any other aircraft in the game.
 
@@ -227,39 +213,33 @@ The first production MiG-15s with RD-45F engines began to leave the factory floo
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=mig-15_ns23 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=mig-15_ns23 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[MiG-15 (Family)|Related development]]
-
-- [[MiG-15bis]]
+* [[MiG-15bis]]
 
 ;Aircraft of comparable role, configuration and era
-
-- [[F-86 Sabre (Family)|F-86 Family]]
-- [[F9F (Family)|F9F Family]]
-- [[F-80C-10|F-80C]]
-- [[J29 (Family)|J29 Family]]
-- [[Hunter (Family)|Hunter Family]]
+* [[F-86 Sabre (Family)|F-86 Family]]
+* [[F9F (Family)|F9F Family]]
+* [[F-80C-10|F-80C]]
+* [[J29 (Family)|J29 Family]]
+* [[Hunter (Family)|Hunter Family]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/3054/current/|[Vehicle Profile] MiG-15]]
-- [https://forum.warthunder.com/index.php?/topic/285037-mikoyan-gurevich-mig-15/ Official data sheet - more details about the performance]
+* [[wt:en/news/3054/current/|[Vehicle Profile] MiG-15]]
+* [https://forum.warthunder.com/index.php?/topic/285037-mikoyan-gurevich-mig-15/ Official data sheet - more details about the performance]
 
 {{AirManufacturer MiG}}
 {{USSR jet aircraft}}

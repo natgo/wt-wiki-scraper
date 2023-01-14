@@ -8,19 +8,16 @@
 }}
 {{Specs-Card
 |code=us_m1_abrams
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage*{{PAGENAME}}.png|ArtImage2*{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''', or just '''{{Specs|pseudonym}}''', is a rank {{Specs|rank}} American medium tank {{Battle-rating}}. It was introduced in [[Update 1.77 "Advancing Storm"]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 The armour is decent, with the LFP being able to stop rounds such as 3BM22, 3BM15, 3BM9, offering about 430 mm of kinetic protection against these three rounds. It can also stop the 105 mm DM23 and 120 mm L23 rounds. The Abrams has around 410/415 mm of protection against these rounds. The lower front plate is nigh impenetrable to nearly all HEATFS shells and ATGMs. The UFP is decent as well: it can ricochet shots right into the huge turret ring, so when playing, keep it in mind. The turret fares much better against these shots. It offers 440 mm of protection, being able to stop these rounds.
@@ -31,7 +28,7 @@ The gun mantlet is also huge and all APFSDS and HEATFS rounds can go trough (tho
 
 '''Armour type:'''
 
-- Composite armour (hull, turret)
+* Composite armour (hull, turret)
 
 {| class="wikitable"
 |-
@@ -39,12 +36,12 @@ The gun mantlet is also huge and all APFSDS and HEATFS rounds can go trough (tho
 |-
 | Hull || 19-38.1 mm (82-83°) ''Front glacis'' <br> 32*+101* mm (40°) ''Lower glacis'' <br> 25.4-38.1 mm (82°) ''Belly glacis'' || 25.4+65** ''Front tip'' <br> 30+30+65** mm ''Front half'' <br> 12.7 mm ''Rear half - Top'' <br> 27.6+6.35 mm ''Rear half - Bottom'' <br> 28.4+6.35 mm ''Rear tip'' || 31.75 mm (5-37°) <br> 12.7 mm (53-54°) || 31.75 mm <br> 5 mm ''Engine grille''
 |-
-| Turret || 38*+101* mm (21-30°) <br> 38*+18* mm (30-36°) ''Gun mantlet'' <br> 25.4 mm (74-82°) ''Turret underside'' || 19*+101* mm (30°) ''Crew compartment'' <br> 6*+13* (30°) ''Ammo rack bustle'' || 12.7 mm (43-48°) <br> 25.4 mm (80-83°) ''Turret underside'' || 38.1 mm ''Front'' <br> 25.4 mm ''Rear'' <br> 12.7 mm ''Panels''
+| Turret || 38*+101* mm (21-30°) <br> 38*+18* mm (30-36°) ''Gun mantlet'' <br> 25.4 mm (74-82°) ''Turret underside''  || 19*+101* mm (30°) ''Crew compartment'' <br> 6*+13* (30°) ''Ammo rack bustle''  || 12.7 mm (43-48°) <br> 25.4 mm (80-83°) ''Turret underside''  || 38.1 mm ''Front'' <br> 25.4 mm ''Rear'' <br> 12.7 mm ''Panels''
 |-
 | Cupola || colspan="3" style="text-align:center" | 25.4 mm (conical) || 25.4 mm (conical) ''Outer ring'' <br> 25.4 mm ''Centre''
 |-
 |}
-<nowiki>\*</nowiki> <small>RHA plates part of composite armour</small><br><nowiki>\*\*</nowiki> <small>Composite screens</small>
+<nowiki>*</nowiki> <small>RHA plates part of composite armour</small><br><nowiki>**</nowiki> <small>Composite screens</small>
 
 {| class="wikitable"
 |-
@@ -57,14 +54,13 @@ The gun mantlet is also huge and all APFSDS and HEATFS rounds can go trough (tho
 |}
 '''Notes:'''
 
-- Suspension wheels are 20 mm thick while tracks are 30 mm thick.
-- Turret ring is 50.8 + 50.8 mm thick.
-- 19 mm RHA plates are positioned behind the front fuel tanks.
-- 19 mm RHA plates surround the turret rear ammo racks.
+* Suspension wheels are 20 mm thick while tracks are 30 mm thick.
+* Turret ring is 50.8 + 50.8 mm thick.
+* 19 mm RHA plates are positioned behind the front fuel tanks.
+* 19 mm RHA plates surround the turret rear ammo racks.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 Overall mobility is superb, even without mobility modifications researched it can still outaccelerate most contemporary vehicles. Hull traverse is however poor, with it becoming only decent when all mobility modifications researched. The M1 Abrams is a fairly quick main battle tank. It accelerates quickly, and will hold a speed of 52 km/h (32 mph) over rough terrain. On city maps or paved surfaces, an M1 Abrams can easily reach its top speed of 72 km/h (45 mph), thanks to its monstrously powerful turbine engine. With three speeds in reverse, it is also capable of an impressive 40 km/h (25 mph) to back away from troublesome situations. As powerful as the motor may be, the M1 Abrams has a slow to respond, and relatively slow traverse rate for its neutral steering. In some circumstances, it may be more beneficial to back away before turning around, as waiting for the neutral steering to turn 180 degrees is lengthy.
@@ -78,9 +74,7 @@ Overall mobility is superb, even without mobility modifications researched it ca
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|M68A1 (105 mm)}}
 
 The gun performance is adequate. While the shells are good against angles, they can penetrate weak spots and the sides of enemy vehicles with ease. At long ranges the gun can struggle, especially against enemies in a hull down position. Most Soviet/Russian MBTs in a hull down position only have the following weak spots: the gun mantlet and the driver hatch window, located just below the gun. The M1 Abrams also suffers from a raised engine deck. As such, its capacity for "over the shoulder" shots and shots directly over the rear is very limited, because the engine deck prevents the lowering of the cannon.
@@ -160,9 +154,7 @@ The gun performance is adequate. While the shells are good against angles, they 
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.17.0.126''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -177,15 +169,13 @@ The gun performance is adequate. While the shells are good against angles, they 
 |}
 '''Notes''':
 
-- Blowout rack only: 45&nbsp;''(+10)'' shells.
+* Blowout rack only: 45&nbsp;''(+10)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
 {{Specs-Tank-Weapon|4}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|M2HB (12.7 mm)|M240 (7.62 mm)}}
 
 With three machine guns (two light 7.62 mm and one heavy 12.7 mm), the Abrams is well equipped at dealing with helicopters and lightly armoured SPAA.
@@ -212,9 +202,7 @@ With three machine guns (two light 7.62 mm and one heavy 12.7 mm), the Abrams is
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 Its armour, whilst reliable in downtiers and when facing tanks of the same BR, should not be relied on when uptiered. Many tanks will destroy you. But when downtiered, your armour will protect you 70-75% of the time. Many rounds at this BR and below have a hard time facing you and even penetrating you in the LFP even.
 
 It is suggested to use the M735, since at distance many rounds will not hit the target and the M774 costs 600 SL to fire and has only got a better angle penetration. Although it has a low penetration, the M735 and the M774 are still APFSDS, and as such, you can get a penetrating hit on an enemy's side even with a very low impact angle.
@@ -229,44 +217,41 @@ A useful thing to note when playing the Abrams, and most MBTs in general, is tha
 
 In terms of threats:
 
-- [[Type 90]] and [[AMX-40]], as their incredibly powerful shots can penetrate you anywhere, at any angle, at almost any distance. For the Type 90, aim for the turret ring, and for the AMX-40, aim for the LFP.
-- The T-80B, because of its strong armament and very strong armour; it can be penetrated through its lower front plate, the drivers viewport below the gun, and just to the side or below the gun; if a T80B shows any of its side, you can penetrate it there
+* [[Type 90]] and [[AMX-40]], as their incredibly powerful shots can penetrate you anywhere, at any angle, at almost any distance. For the Type 90, aim for the turret ring, and for the AMX-40, aim for the LFP.
+* The T-80B, because of its strong armament and very strong armour; it can be penetrated through its lower front plate, the drivers viewport below the gun, and just to the side or below the gun; if a T80B shows any of its side, you can penetrate it there
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- LFP and turret face can easily stop 3BM22, other soviet rounds, DM23 (105 mm) and L23.
-- Good chemical protection due to composite armour, especially on the turret
-- Internal armour plating increases crew survivability
-- Very good mobility for its weight
-- Great forward and reverse speed
-- Very good acceleration
-- Turns very fast, even in neutral steering
-- Very accurate and fast-firing main gun
-- Blowout panels protect the crew from ammo rack detonation
-- Although composite armour is absent on the upper glacis plate, the extreme sloping makes shells bounce every time
+* LFP and turret face can easily stop 3BM22, other soviet rounds, DM23 (105 mm) and L23.
+* Good chemical protection due to composite armour, especially on the turret
+* Internal armour plating increases crew survivability
+* Very good mobility for its weight
+* Great forward and reverse speed
+* Very good acceleration
+* Turns very fast, even in neutral steering
+* Very accurate and fast-firing main gun
+* Blowout panels protect the crew from ammo rack detonation
+* Although composite armour is absent on the upper glacis plate, the extreme sloping makes shells bounce every time
 
 '''Cons:'''
 
-- Large target
-- The three shells under the gun do NOT have blowout panels, if detonated you will die
-- No composite armour on the upper glacis plate and in the rear of the turret, so remaining on level terrain is priority
-- The turret ring is a massive and easily penetrated weak spot
-- The armour's high chemical resistance is not relevant against contemporary enemies usually equipped with APFSDS
-- Losing some crew members will prevent you from firing some of your smoke grenades
-- Low APFSDS penetration
-- Inadequate stock ammo loadout: both the M735 and M456 shells are no longer effective at this BR
-- NVD are a tier III modification
-- M774 is a tier IV modification and it is still a fairly weak round for this BR
-- Like with most Abrams series tanks, the engine deck is slightly raised, meaning that you will not be able to depress the gun over the rear of the tank.
+* Large target
+* The three shells under the gun do NOT have blowout panels, if detonated you will die
+* No composite armour on the upper glacis plate and in the rear of the turret, so remaining on level terrain is priority
+* The turret ring is a massive and easily penetrated weak spot
+* The armour's high chemical resistance is not relevant against contemporary enemies usually equipped with APFSDS
+* Losing some crew members will prevent you from firing some of your smoke grenades
+* Low APFSDS penetration
+* Inadequate stock ammo loadout: both the M735 and M456 shells are no longer effective at this BR
+* NVD are a tier III modification
+* M774 is a tier IV modification and it is still a fairly weak round for this BR
+* Like with most Abrams series tanks, the engine deck is slightly raised, meaning that you will not be able to depress the gun over the rear of the tank.
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 Once the unsuccessful joint German-American MBT-70 project had been shut down in 1971, the Congress redistributed funds to the further development of the XM815 project, later known as the XM1 Abrams. The development of the XM1 Abrams was a competition between two designs of the Chrysler and General Motors companies, respectively. Early July 1973 marks an important date for the project after representatives of both companies travelled to Great Britain to witness the development of the new composite armour, named Burlington. Impressed by what they saw, both companies decided to reevaluate and optimize their designs' armour layout to increase its effectiveness, with General Motors changing the front shape of the turret to a sloped surface, whilst Chrysler retained its vertical design. By 1976, the XM1 prototypes were being readied for testing, with the finishing touch being the installation of the M68 cannon.. Testing of both prototypes took place in the presence of the new German Leopard 2 tank, which was shipped to the U.S. for comparison purposes. Once testing was concluded and the results evaluated, the turbine-powered Chrysler design was proclaimed the winner of the competition and thus the Chrysler design would soon enter production as the M1 Abrams.
 [[File:M1 Abrams REFORGER 82 - National Archives 6505991.jpeg|x200px|right|none|thumb|An M1 Abrams during Exercise Reforger 82 "Carbine Fortress"]]
 
@@ -275,12 +260,11 @@ The M1 entered production in 1979, with the first production version M1 leaving 
 ''- From [[wt:en/news/5355-development-m1-abrams-the-desert-warrior-en|Devblog]]''
 
 == Media ==
-
 <!--Excellent additions to the article would be video guides, screenshots from the game, and photos.-->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=us_m1_abrams Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=us_m1_abrams Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|Q6sYNcaVVO0|'''The Shooting Range #88''' - ''Metal Beasts'' section at 00:32 discusses the {{PAGENAME}}.|P6SfZC-n-U4|'''Т-64B vs {{PAGENAME}}''' - ''War Thunder Official Channel''|t3mqsI10beU|'''How to destroy the {{PAGENAME}}''' - ''War Thunder Official Channel''|WA3jQgZLjAg|'''The Shooting Range #94''' - ''Pages of History'' section at 04:33 discusses the {{PAGENAME}}.|CJ9sCL1BGy4|'''{{PAGENAME}} vs T-72A vs T-80B''' - ''War Thunder Official Channel''}}
@@ -288,16 +272,15 @@ The M1 entered production in 1979, with the first production version M1 leaving 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/5355-development-m1-abrams-the-desert-warrior-en|[Devblog] M1 Abrams: The Desert Warrior]]
+* [[wt:en/news/5355-development-m1-abrams-the-desert-warrior-en|[Devblog] M1 Abrams: The Desert Warrior]]
 
 {{TankManufacturer Chrysler Defense}}
 {{USA medium tanks}}

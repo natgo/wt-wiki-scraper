@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} French self-propelled anti-aircraft vehicle {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 The AMX-30 DCA is based off the hull of the [[AMX-30 (1972)|AMX-30]] main battle tank, resulting in a decently armoured hull. The front glacis is heavily sloped and capable of bouncing most APHE shells and, with luck, some HEAT shells. However, the hull sides and rear are fairly weak, coming in at only 25-30 mm thick.
@@ -28,7 +25,6 @@ Crew placement is fairly average, as the driver is in the center of the hull whi
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 As with the AMX-30, the AMX-30 DCA has a decent top and reverse speed of 65 km/h. This allows the DCA to keep up with its team, in addition to the ability to quickly escape danger.
@@ -44,16 +40,14 @@ However, note that the DCA lacks neutral steering and is somewhat slow to accele
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|HSS 831A (30 mm)}}
 
 The armament consists of 2 x 30 mm HSS 831A cannons with 300 RPG with a quick, fixed fire rate and can make use of 3 types of munitions:
 
-- High-explosive incendiary (self-destroying, note that the self-destruction range coincides with the radar's lead indicator maximum distance, making the shell inadequate at longer ranges)
-- Armour-piercing incendiary tracer, which can be used against lightly armoured vehicles and enemy SPAAs, though the damage to enemy aircraft is reduced, the shell can be used outside radar range since it does not self destruct.
-- High-velocity armour-piercing tracer (APDS), which can be used against targets mentioned above and additionally, can be used to attack the side profile of enemy MBTs with reasonable effectiveness.
+* High-explosive incendiary (self-destroying, note that the self-destruction range coincides with the radar's lead indicator maximum distance, making the shell inadequate at longer ranges)
+* Armour-piercing incendiary tracer, which can be used against lightly armoured vehicles and enemy SPAAs, though the damage to enemy aircraft is reduced, the shell can be used outside radar range since it does not self destruct.
+* High-velocity armour-piercing tracer (APDS), which can be used against targets mentioned above and additionally, can be used to attack the side profile of enemy MBTs with reasonable effectiveness.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -73,10 +67,10 @@ The armament consists of 2 x 30 mm HSS 831A cannons with 300 RPG with a quick, f
 
 ==== Ammunition ====
 
-- '''Default:''' {{Annotation|SAP-I|Semi-armour-piercing incendiary}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
-- '''30x170 HE-I-T:''' {{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI*|High-explosive incendiary (self-destroying)}}{{-}}{{Annotation|HEI*|High-explosive incendiary (self-destroying)}}{{-}}{{Annotation|SAP-I|Semi-armour-piercing incendiary}}
-- '''30x170 APHE-I:''' {{Annotation|SAP-I|Semi-armour-piercing incendiary}}{{-}}{{Annotation|SAP-I|Semi-armour-piercing incendiary}}{{-}}{{Annotation|SAP-I|Semi-armour-piercing incendiary}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
-- '''30x170 APDS-T:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|SAP-I|Semi-armour-piercing incendiary}}{{-}}{{Annotation|SAP-I|Semi-armour-piercing incendiary}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
+* '''Default:''' {{Annotation|SAP-I|Semi-armour-piercing incendiary}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
+* '''30x170 HE-I-T:''' {{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI*|High-explosive incendiary (self-destroying)}}{{-}}{{Annotation|HEI*|High-explosive incendiary (self-destroying)}}{{-}}{{Annotation|SAP-I|Semi-armour-piercing incendiary}}
+* '''30x170 APHE-I:''' {{Annotation|SAP-I|Semi-armour-piercing incendiary}}{{-}}{{Annotation|SAP-I|Semi-armour-piercing incendiary}}{{-}}{{Annotation|SAP-I|Semi-armour-piercing incendiary}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
+* '''30x170 APDS-T:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|SAP-I|Semi-armour-piercing incendiary}}{{-}}{{Annotation|SAP-I|Semi-armour-piercing incendiary}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="7" | Penetration statistics
@@ -98,9 +92,7 @@ The armament consists of 2 x 30 mm HSS 831A cannons with 300 RPG with a quick, f
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.7.0.173''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -113,8 +105,8 @@ The armament consists of 2 x 30 mm HSS 831A cannons with 300 RPG with a quick, f
 |}
 '''Notes''':
 
-- Ammunition is divided into 4 clips of 300 rounds.
-- The visual discrepancy concerns the number of clips: 4 clips can be fired but only 2 are modeled.
+* Ammunition is divided into 4 clips of 300 rounds.
+* The visual discrepancy concerns the number of clips: 4 clips can be fired but only 2 are modeled.
 
 ===Radars===
 {{main|DR-VC-1A|Albis}}
@@ -143,10 +135,9 @@ The AMX-30 DCA is equipped with a [[DR-VC-1A]] combined search and tracking rada
 |-
 |}
 
-- '''Note: lead indicator shows up within 4km'''
+* '''Note: lead indicator shows up within 4km'''
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 '''Anti-Air'''
@@ -167,37 +158,35 @@ If facing enemy tanks alone, make sure that they are isolated before attempting 
 
 Ideally, the enemy should be unaware of you and be flat-on (i.e perpendicular). From there, check to see if your belt has enough penetration to overcome his side armour. If it does, aim to take out his gun first (shoot directly below the turret), then his crew (driver's compartment, any survivors in the turret).
 
-- Note that most Soviet MBTS like the [[T-54/55 (Family)|T-55]] or [[T-62]] have '''80 mm''' of side armour, meaning that they should be avoided when stock
-- Other notable opponents include the [[M60]] and [[Chieftain (Family)|Chieftain]] series of tanks, as they too have enough side armour to protect against the stock belt.
+* Note that most Soviet MBTS like the [[T-54/55 (Family)|T-55]] or [[T-62]] have '''80 mm''' of side armour, meaning that they should be avoided when stock
+* Other notable opponents include the [[M60]] and [[Chieftain (Family)|Chieftain]] series of tanks, as they too have enough side armour to protect against the stock belt.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Fast rate of fire, generally 50-100 RPM higher compared to other 30-35 mm gun SPAA
-- The placement of the three crew members makes taking out the whole crew next to impossible with one shot
-- Hull front of AMX-30 can sometimes block or deflect APHE
-- Very fast considering its hull armour level, unlike the [[Chieftain Marksman]]
-- Double or even triple the amount of ammunition, when compared to other 30-35 mm gun SPAA
-- Gun arrangement makes it much easier to use against ground targets than the [[Gepard]]-style SPAAs
-- Has radar, unlike some SPAA like the [[Falcon]] and [[M163]]
-- Stock belts chew through lightly armoured medium tanks like the Leopard I series and light tanks like the BMP series
-- Access to smoke grenades and ESS
-- Night vision is available - no thermals however
-- Extremely deadly to enemy ground vehicles in flanking manoeuvres
+* Fast rate of fire, generally 50-100 RPM higher compared to other 30-35 mm gun SPAA
+* The placement of the three crew members makes taking out the whole crew next to impossible with one shot
+* Hull front of AMX-30 can sometimes block or deflect APHE
+* Very fast considering its hull armour level, unlike the [[Chieftain Marksman]]
+* Double or even triple the amount of ammunition, when compared to other 30-35 mm gun SPAA
+* Gun arrangement makes it much easier to use against ground targets than the [[Gepard]]-style SPAAs
+* Has radar, unlike some SPAA like the [[Falcon]] and [[M163]]
+* Stock belts chew through lightly armoured medium tanks like the Leopard I series and light tanks like the BMP series
+* Access to smoke grenades and ESS
+* Night vision is available - no thermals however
+* Extremely deadly to enemy ground vehicles in flanking manoeuvres
 
 '''Cons:'''
 
-- Can only take out light and sometimes medium tanks due to the small size of its guns
-- Lightly armoured turret, with ammunition being '''very''' vulnerable to direct attacks
-- Gun placement makes firing over ridges and hiding behind cover awkward
-- Slow acceleration (when stock) and lack of neutral steering hinders responsiveness
-- Reloading the guns, switching ammunition belts or clearing jammed guns takes over a minute to complete, leaving you vulnerable and out of the action for a very, very long time
+* Can only take out light and sometimes medium tanks due to the small size of its guns
+* Lightly armoured turret, with ammunition being '''very''' vulnerable to direct attacks
+* Gun placement makes firing over ridges and hiding behind cover awkward
+* Slow acceleration (when stock) and lack of neutral steering hinders responsiveness
+* Reloading the guns, switching ammunition belts or clearing jammed guns takes over a minute to complete, leaving you vulnerable and out of the action for a very, very long time
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The development of the '''AMX-30 {{Annotation|DCA|Défense Contre Avions - Defense Against Aircraft}}''' (also known as the AMX-30{{Annotation|SA|Saudi Arabia}}) began in the year 1969 and it was derived from the '''AMX-13 DCA''', a similar system produced for the French army. While the AMX-30 DCA was made for the French Army, it was also made for export and in the end, none of the DCA's were ordered by the French army. Instead, Saudi Arabia ordered an improved version in the 1975, called the AMX-30SA which included the SA-10 Shaline missiles.
@@ -207,12 +196,10 @@ It was developed to be used against low-flying aircraft and low-altitude attacks
 The guns were designed to shoot in bursts of 5 rounds, or even 15 rounds per burst with the cyclic rate of fire of 650 rounds a minute. They were controlled by an analogue computer that received information from a Doppler radar, which could be folded into an armoured box when not in use to protect from damage. The fire control depended on visual tracking, meaning it could not be used in night time.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=fr_amx_30_dca Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=fr_amx_30_dca Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|l7JUEQDYf9Q|'''How To Basic SPAA feat. AMX-30 DCA''' - ''Napalmratte''}}
@@ -220,16 +207,15 @@ The guns were designed to shoot in bursts of 5 rounds, or even 15 rounds per bur
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://weaponsystems.net/system/114-AMX-30+DCA <nowiki>[Weapon Systems]</nowiki> AMX-30 DCA]
+* [https://weaponsystems.net/system/114-AMX-30+DCA <nowiki>[Weapon Systems]</nowiki> AMX-30 DCA]
 
 {{TankManufacturer AMX}}
 {{France anti-aircraft vehicles}}

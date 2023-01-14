@@ -10,9 +10,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 '''{{Specs|name}}''' is a premium rank {{Specs|rank}} American fighter {{Battle-rating}}. It was introduced in [[Update 1.31]] as a premium vehicle purchasable in-game with Golden Eagles {{ge}}.
 
 The plane is painted after the camouflage scheme of American pilot John Thach in the U.S. Navy, who was famous for the "Thach Weave" manoeuvre.
@@ -24,7 +22,6 @@ The F2A-1 is a competitive machine, if using the proper tactic versus the proper
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -52,7 +49,7 @@ The F2A-1 is a competitive machine, if using the proper tactic versus the proper
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -105,11 +102,10 @@ The F2A-1 is a competitive machine, if using the proper tactic versus the proper
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- No armour
-- Self-sealing fuel tanks (1 in each wing)
+* No armour
+* Self-sealing fuel tanks (1 in each wing)
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -118,21 +114,17 @@ The F2A-1 is a competitive machine, if using the proper tactic versus the proper
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M2 Browning (12.7 mm)|Browning (7.62 mm)}}
 
 '''''{{PAGENAME}}''''' is armed with:
 
-- 1 x 12.7 mm M2 Browning machine gun, nose-mounted (250 rpg)
-- 2 x 12.7 mm M2 Browning machine guns, wing-mounted (400 rpg = 800 total)
-- 1 x 7.62 mm Browning machine gun, nose-mounted (450 rpg)
+* 1 x 12.7 mm M2 Browning machine gun, nose-mounted (250 rpg)
+* 2 x 12.7 mm M2 Browning machine guns, wing-mounted (400 rpg = 800 total)
+* 1 x 7.62 mm Browning machine gun, nose-mounted (450 rpg)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The best way to fly this aircraft would be as a Boom & Zoom or ''energy fighter''; it can outrun most aircraft it faces, unless it is uptiered and faces something like the [[Bf 109 F-1]]. In such a scenario the best way to destroy more advanced vehicles is through boom and zoom tactics.
 
 In '''Arcade''', there is no need to worry about ammo count as much as in Realistic Battles (RB) and Simulator (SB) since the planes can reload in the air. The target-lead indicator, which shows approximately where there enemy plane will when when the bullets reach the target, also eases with aiming. For arcade, the ammo belts are really useful, it is suggested to use Omni purpose ammo for the .50 calibre (12.7 mm) machine gun and stealth for the .30 cal (7.62 mm) machine gun, however another option is to try going all stealth so the F2A can surprise the enemy with bullets they can't see. There are a variety of enemy planes that the F2A-1 faces, ranging from biplanes to low rank monoplanes. In the common low rank arcade battle we get fur-balls going on at low altitude with planes trying to get on each other's tail, a perfect set up for a Boom & Zoomer like the Buffalo, first set the attack angle, which could be from directly above the enemy that is targeted, or from behind (it should be priority to target enemy planes that are chasing friendly planes or for a dangerous threat like, [[MiG-3-15|MiG-3s]], [[LaGG-3 (Family)|LaGG-3s]], [[Hurricane Mk I/L|Hurricane]], [[Bf 109 B-1|Bf 109s]] or another Buffalo). Once the F2A is nearing towards the enemy plane, know what type of enemy they are, depending on what plane they are flying, is what determines what to do after an attack run. Lets say with a dive on an enemy, but the attack didn't destroy them on the first pass, if the enemy was a biplane, then keep up the speed and vacant the area, and set up another pass. If the enemy was a monoplane in the same situation, the F2A can choose to either clear the area, or turn onto their tail, but it is advisable to leave the area and look and see if the enemy noticed the attacking F2A, if he didn't and he is chasing a friendly or going for ground targets then latch on to his tail and shoot him down!
@@ -140,9 +132,7 @@ In '''Arcade''', there is no need to worry about ammo count as much as in Realis
 In '''Realistic Battles & Simulator Battles''', most of the tactics against fighters would be the same as in arcade, only with a few restrictions.
 
 # Do not dive too fast, or the F2A wont be able to pull up or the plane's wings will break.
-
 # No Enemy-Lead indicator, pilot skill and intuition will have to guess where the enemy plane will be when the bullets reach the targets.
-
 # Very limited ammo, on top of that the armament isn't reliable outside of 400 m.
 
 So how does one play this in RB with all these drawbacks? A few very simple things will help with those problems, at the beginning of the match in RB, climb at about a 15 degree angle until about 3,000-4,000 m in altitude. When an enemy is spotted, if a biplane the F2A will have to take up a Boom & Zoom tactic, do not attempt to turn fight. If the enemy is a monoplane, turnfighting can be a valid tactic; unless they are the British Hurricane or Japanese [[A5M4|A5M]] (not to confuse with [[A6M2|A6M]] much superior to the Buffalo) or [[Ki-43-I|Ki-43]], then do not turn fight these monoplanes. For the most part, Soviet monoplanes are safe to turn fight ([[I-16_type_5|I-16s]], late [[I-16_type_24|I-16s]], MiG-3 and LaGG-3s). When diving on an enemy, put the throttle to 0% so the F2A does not accelerate too fast. If a shot can't be gained on the enemy, pull out by putting throttle at 100% and point the nose up to gain altitude. Once on the tail of an enemy, no matter the plane, open fire only at close ranges, firing at 300 m or less would help conserve the ammo and there won't have to lead as much, therefore easier to aim and make each shot more effective.
@@ -167,29 +157,26 @@ This can apply to all three game-modes: When someone is on the F2A tail and bull
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great dive speed
-- Great vertical and horizontal energy retention
-- Good armament for its rank
-- Good top speed
-- Good turning circle and speed not a turn-fighter though
-- Can land on a carriers
-- Powerful .50 calibre machine guns
-- Great acceleration (at take-off and on the deck up to ~250 mph)
+* Great dive speed
+* Great vertical and horizontal energy retention
+* Good armament for its rank
+* Good top speed
+* Good turning circle and speed not a turn-fighter though
+* Can land on a carriers
+* Powerful .50 calibre machine guns
+* Great acceleration (at take-off and on the deck up to ~250 mph)
 
 '''Cons:'''
 
-- Low ammo count (can be conserved by firing at close range)
-- The telescopic sight is a bit of an annoyance in Simulator battles, as these have to be used when zoomed in
+* Low ammo count (can be conserved by firing at close range)
+* The telescopic sight is a bit of an annoyance in Simulator battles, as these have to be used when zoomed in
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 '''F2A-1 Buffalo'''
 
 The Brewster F2A-1 buffalo was designed to replace the Grumman F3F biplane fighter. In a competition between the Grumman XF4F1 and the XF2A-1(the P-35 lost early on), the XF2A-1 won as it was more advanced than the Grumman aircraft, so it went into production as F2A-1.
@@ -239,12 +226,10 @@ John Thach was awarded with the Navy Cross (US) with a gold star, the Navy Disti
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=f2a-1_thach Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f2a-1_thach Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover"  heights="200">
@@ -256,15 +241,13 @@ File:FighterImage Thach F2A-1 Decal.jpg
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer Brewster}}
 {{USA fighters}}

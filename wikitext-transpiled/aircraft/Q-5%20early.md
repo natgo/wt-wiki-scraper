@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese strike aircraft {{Battle-rating}}. It was introduced in [[Update "Raining Fire"]].
 
 A development of the [[J-6A|J-6]]/[[MiG-19PT|MiG-19]], the Nanchang Q-5 is the first jet aircraft in the Chinese tech tree of indigenous design. Its wings and rear fuselage still closely resemble the MiG-19 but the new forward fuselage with side-mounted air intakes and a pointed nose give it a distinctive sleek appearance. Designed as an attacker, this early version of the Q-5 has better ground attack ordnance than the J-6A with access to 90 mm rocket pods and up to four 250 kg bombs. It also works well in the air-to-air role, having toned-down flight characteristics and armament compared to the J-6A at a lower battle rating in Realistic Battles. The Q-5 is not the most beginner friendly of aircraft but skilled pilots can still enjoy this iconic piece of Chinese aviation history.
@@ -21,9 +19,7 @@ Succeeding the Q-5 early is the improved [[Q-5A]], which boasts countermeasures,
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 Despite weighing about 10% more than the J-6A when empty, the Q-5 early still feels similar in terms of general flight performance. Acceleration, climb, and turning capability are good for its battle rating and the Q-5 can match or exceed late subsonic and early supersonic aircraft. It can reach about 1210 km/h at sea level thanks to its cleaner aerodynamic design, which actually compares very well to the J-6A, but it is noticeably slower than the J-6A at higher altitudes. It compresses more in dives, has somewhat worse low speed handling, and does not carry as much fuel. Anyone used to flying the J-6A or MiG-19PT will have few issues transitioning to the Q-5 and similar tactics can be used.
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -51,7 +47,7 @@ Despite weighing about 10% more than the J-6A when empty, the Q-5 early still fe
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || ✓ || X || ✓ <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -117,15 +113,14 @@ Despite weighing about 10% more than the J-6A when empty, the Q-5 early still fe
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 10 mm steel plate behind nose cone
-- 4.5 + 8 mm bulletproof glass in front of the cockpit
-- 8 mm steel plate underneath cockpit
-- 16 mm steel armoured pilot's seat
-- 10 + 25 mm steel armoured pilot's headrest
-- Self-sealing fuel tanks behind cockpit and underneath engines in rear fuselage
+* 10 mm steel plate behind nose cone
+* 4.5 + 8 mm bulletproof glass in front of the cockpit
+* 8 mm steel plate underneath cockpit
+* 16 mm steel armoured pilot's seat
+* 10 + 25 mm steel armoured pilot's headrest
+* Self-sealing fuel tanks behind cockpit and underneath engines in rear fuselage
 
 The Q-5 protects the pilot from small arms fire and machine guns, but at a battle rating of 9.7, this level of protection does not amount to much. Enemy cannons and missiles will make short work of the Q-5 so avoiding incoming fire is paramount. The twin engines are likely to be damaged by attacks from the rear, but having two of them offers some extra survivability since it is capable of flying back to base on one engine. The elevators also have separate damage models and the aircraft remains somewhat controllable if one of them is blown off.
 
@@ -136,14 +131,12 @@ The Q-5 protects the pilot from small arms fire and machine guns, but at a battl
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Type 23-2K (23 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 23 mm Type 23-2K cannons, wing-mounted (120 rpg = 240 total)
+* 2 x 23 mm Type 23-2K cannons, wing-mounted (120 rpg = 240 total)
 
 The original 30 mm [[Type 30-1 (30 mm)|Type 30]]/[[NR-30 (30 mm)|NR-30]] cannons, known for their fearsome firepower, have been replaced with short-barreled 23 mm cannons. The Type 23-2K is a licensed copy of the Soviet AM-23, which was originally used as a defensive weapon for bombers like the famous Tu-95 "Bear". Compared to the [[NR-23 (23 mm)|NR-23]] seen on earlier Soviet fighters, it has a 28% higher rate of fire. Although it is less powerful than the NR-30 and more difficult to aim, it can still do good work with a bit of luck. Using the Type 23-2K cannons against ground targets should not be a priority since their penetration is not much higher than a heavy machine gun and the ammo supply is limited.
 
@@ -151,16 +144,14 @@ The default belt has an even mix of FI-T and AP-I rounds and should be satisfact
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|Type 250-2 (250 kg)|Type 90-1}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 4 x 250 kg Type 250-2 bombs (1,000 kg total)
-- 14 x Type 90-1 rockets
+* Without load
+* 4 x 250 kg Type 250-2 bombs (1,000 kg total)
+* 14 x Type 90-1 rockets
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -181,9 +172,7 @@ The Q-5 early's suspended armaments are an improvement over the J-6A, but nothin
 In addition to the bombs, it can carry a pair of 90 mm rocket pods with seven rockets each. The Type 90-1 rockets are better than the anemic S-5 rockets used by typical Soviet jets and can penetrate 280 mm of armour with 1.03 kg of TNT equivalent, but their capacity is very limited; the contemporary [[A-4E Early]] can carry 171 comparable FFAR Mighty Mouse rockets.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Q-5 early can be used similarly to the MiG-19 or J-6A. As discussed, it has inferior performance and armament but tends to face easier opposition.
 
 '''Air Battles'''
@@ -207,35 +196,32 @@ After using up the ordnance, which can be done in just one or two passes, the Q-
 Be wary of enemy SPAA while ground attacking or dogfighting. The Q-5 early lacks a radar warning receiver and anti-aircraft cannons or missiles can open fire suddenly. Do not head-on or stall out in full view of an SPAA, and even when the coast appears to be clear, avoid flying in straight lines.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- High acceleration
-- Good climb rate
-- Excellent top speed at sea level
-- Fantastic energy retention
-- Good ammunition stock
-- With some luck, the 23 mm cannons can make quick work of enemy aircraft
-- Good sustained manoeuvrability, can out-turn F-4 Phantoms and keep up with MiG-21s
-- Well-placed cannons in the wing roots
+* High acceleration
+* Good climb rate
+* Excellent top speed at sea level
+* Fantastic energy retention
+* Good ammunition stock
+* With some luck, the 23 mm cannons can make quick work of enemy aircraft
+* Good sustained manoeuvrability, can out-turn F-4 Phantoms and keep up with MiG-21s
+* Well-placed cannons in the wing roots
 
 '''Cons:'''
 
-- Average roll rate
-- Tail locks up at high speeds
-- Easily beaten in manoeuvrability by most subsonic aircraft
-- The 23 mm cannons sometimes fall short in damage
-- New players may experience difficulty with aiming the 23 mm cannons of such type (found also on the MiG-15bis and MiG-17)
-- Less powerful ordnance than contemporaries like the [[Su-7B]] or [[F-100D]]
-- Limited fuel capacity
-- No air-to-air missiles
+* Average roll rate
+* Tail locks up at high speeds
+* Easily beaten in manoeuvrability by most subsonic aircraft
+* The 23 mm cannons sometimes fall short in damage
+* New players may experience difficulty with aiming the 23 mm cannons of such type (found also on the MiG-15bis and MiG-17)
+* Less powerful ordnance than contemporaries like the [[Su-7B]] or [[F-100D]]
+* Limited fuel capacity
+* No air-to-air missiles
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 [[File:Nanchang Q-5.jpg|thumb|500x500px|An old Nanchang Q-5.]]
 The Nanchang Q-5 'Fantan' is a Chinese land-based fighter-bomber, close support aircraft and nuclear strike aircraft. Developed in the early 1950s as a replacement for the ageing Soviet-made [[IL-10 (1946) (China)|IL-10]] attack aircraft, the plane was developed from the MiG-19 airframe. Though it entered service relatively late due to the effects of the Cultural Revolution, it still saw extensive service as the primary attack aircraft of the Chinese Air Force. As well, it was exported to several countries including Pakistan, Bangladesh and Myanmar. Though it has now been retired from active Chinese service, the aircraft remains in service with the Myanmar Air Force.<ref name=":0">Peck, M. (2019)</ref><ref name=":1">Eastern Order of Battle. (n.d.)</ref>
 
@@ -257,12 +243,11 @@ In June 1965, the prototype of the aircraft that would become known as the Nanch
 The Q-5 officially entered service with the Chinese Air Force in 1970. Around 100 aircraft of the early versions were built out of a total of around 1,300 aircraft of all variants. However, later models continued service with Chinese forces well into the 2000's. Apart from the PLA, the Q-5 also saw service with Bangladesh, Pakistan, Myanmar, North Korea and Sudan.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=q_5_early Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=q_5_early Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" caption="Q-5 Early Devblog Images" heights="150">
@@ -275,23 +260,20 @@ File:Q-5 Early WTWallpaper 006.jpg|
 </gallery>
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
-- [[Q-5 (Family)]]
+* [[Q-5 (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6831-development-nanchang-q-5-phoenix-reborn-en|[Devblog] Nanchang Q-5: Phoenix Reborn]]
-- [https://forum.warthunder.com/index.php?/topic/497253-q-5/ Official data sheet - more details about the performance]
+* [[wt:en/news/6831-development-nanchang-q-5-phoenix-reborn-en|[Devblog] Nanchang Q-5: Phoenix Reborn]]
+* [https://forum.warthunder.com/index.php?/topic/497253-q-5/ Official data sheet - more details about the performance]
 
 === References ===
 
@@ -300,8 +282,8 @@ File:Q-5 Early WTWallpaper 006.jpg|
 
 ;Bibliography
 
-- Peck, M. (2019, October 18). Meet the Nanchang Q-5: China's Nuclear Bomber. Retrieved November 20, 2020, from <nowiki>https://nationalinterest.org/blog/buzz/meet-nanchang-q-5-chinas-nuclear-bomber-89681</nowiki>
-- Eastern Order of Battle. (n.d.). Nanchang Q-5 Fantan attack aircraft at the People's Liberation Army Air Force Part One. Retrieved November 20, 2020, from <nowiki>http://www.easternorbat.com/html/nanchang_q-5_fantan_01_eng.html</nowiki>
+* Peck, M. (2019, October 18). Meet the Nanchang Q-5: China's Nuclear Bomber. Retrieved November 20, 2020, from <nowiki>https://nationalinterest.org/blog/buzz/meet-nanchang-q-5-chinas-nuclear-bomber-89681</nowiki>
+* Eastern Order of Battle. (n.d.). Nanchang Q-5 Fantan attack aircraft at the People's Liberation Army Air Force Part One. Retrieved November 20, 2020, from <nowiki>http://www.easternorbat.com/html/nanchang_q-5_fantan_01_eng.html</nowiki>
 
 {{AirManufacturer Nanchang}}
 {{China jet aircraft}}

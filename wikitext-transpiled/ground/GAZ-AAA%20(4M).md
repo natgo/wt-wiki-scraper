@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=ussr_gaz_4m
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' (4M gun mount on a GAZ-AAA truck), or the '''4M GAZ-AAA''', is a rank {{Specs|rank}} Soviet self-propelled anti-aircraft vehicle {{Battle-rating}}. It was introduced in [[Update 1.49 "Weapons of Victory"]].
 
 The first of the Soviet SPAAs, it presented a crude set-up of bolting a 4M quadruple Maxim MG mount to a 6x4 GAZ-AAA truck chassis. This Soviet improvisation would lead to the Soviet SPAA trend of attaching anti-aircraft weaponry to trucks, [[ZiS-43|half-tracks]], and [[BTR-152A|cars]].
@@ -21,17 +19,15 @@ Better suited for hauling potatoes on the Russian steppes than rolling into the 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
-This vehicle has extremely poor survivability. The gunner is completely exposed, and the rest of the 3-man crew is protected only by 1 mm of steel. Any machine gun can destroy the vehicle with ease, as can nearby artillery, rocket, or bomb strikes.
+This vehicle has extremely poor survivability.  The gunner is completely exposed, and the rest of the 3-man crew is protected only by 1 mm of steel.  Any machine gun can destroy the vehicle with ease, as can nearby artillery, rocket, or bomb strikes.
 
 However, the vehicle's extremely thin armour does mean that it is possible for APHE rounds to overpenetrate, and pass through the vehicle without detonating and causing catastrophic damage.
 
 '''Armour type:'''
 
-- Structural steel
-- Wood (Truck bed)
+* Structural steel
+* Wood (Truck bed)
 
 {| class="wikitable"
 |-
@@ -44,13 +40,12 @@ However, the vehicle's extremely thin armour does mean that it is possible for A
 |}
 '''Notes:'''
 
-- Road wheels are 2 mm thick while the chassis was 5 mm thick.
-- The truck bed is 15 mm of wood, which will probably not offer as much protection as the truck cab
-- The radiator housing is unarmoured.
+* Road wheels are 2 mm thick while the chassis was 5 mm thick.
+* The truck bed is 15 mm of wood, which will probably not offer as much protection as the truck cab
+* The radiator housing is unarmoured.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=71|rbMinHp=44}}
@@ -62,9 +57,7 @@ However, the vehicle's extremely thin armour does mean that it is possible for A
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|Maxim's (7.62 mm)}}
 
 The main armament of the GAZ-AAA (4M) is 4 x 7.62 mm machine guns. For anti-air duty, these little guns do the job pretty well against biplanes and early monoplanes. The fire density given by the quad 7.62 mm MGs is good enough to damage a plane's critical components such as engine, cooling system, and fuel tank. They also have a huge amount of ammunition each gun, so one does not have to worry about constant reloads. Lastly, the guns have a depression of -10 degrees, something pretty rare for Soviet vehicles. The low projectile mass, however, will result in it not being able to hurt planes at a distance, and any armour plates inside the plane is likely to stop the bullet.
@@ -91,10 +84,10 @@ The recommended belts are APIT or API. APIT is great for new players to learn th
 
 ==== Ammunition ====
 
-- '''Default:''' {{Annotation|AI|Adjustment incendiary}}{{-}}{{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|T|Tracer}}
-- '''Universal:''' {{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|T|Tracer}}
-- '''API:''' {{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}
-- '''APIT:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}
+* '''Default:''' {{Annotation|AI|Adjustment incendiary}}{{-}}{{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|T|Tracer}}
+* '''Universal:''' {{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|T|Tracer}}
+* '''API:''' {{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}
+* '''APIT:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="7" | Penetration statistics
@@ -116,9 +109,7 @@ The recommended belts are APIT or API. APIT is great for new players to learn th
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.9.0.33''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -132,9 +123,7 @@ The recommended belts are APIT or API. APIT is great for new players to learn th
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The 4M GAZ-AAA is highly vulnerable to any vehicle, from tanks to planes. An encounter will most likely end with the GAZ-AAA destroyed. Prioritize enemy aircraft, as you are significantly vulnerable to strafing and bombing due to the lack of armour.
 
 Stay back from the front lines yet don't be too far away from it, because most planes might go strafing the cap points, and if you are far away the low kinetic energy of your bullets will result in even weaker damage. So stay between a cap point and a friendly spawn point. You can find a hard cover and position yourself sideways, with the driver's cabin behind cover and the gunner exposed. This way the two crews at the front can be effectively protected.
@@ -145,47 +134,44 @@ If a tank comes up to you, don't try to fight it as the tanks are built to be re
 
 '''Enemies worth noting:'''
 
-- [[Ju 87 (Family)|Ju 87]]: the Stuka has a durable airframe against the 4x 7.62 mm MGs, so you need to put enough bullets into it to effectively damage it. The main threat comes from its bombs, an early Stuka can carry either 4x 50 kg + 1x 250 kg, or a huge 500 kg bomb, both of which are more than enough to destroy the GAZ-AAA with shrapnel. If you see a Stuka diving at you, move sideways to avoid the bombs.
+* [[Ju 87 (Family)|Ju 87]]: the Stuka has a durable airframe against the 4x 7.62 mm MGs, so you need to put enough bullets into it to effectively damage it. The main threat comes from its bombs, an early Stuka can carry either 4x 50 kg + 1x 250 kg, or a huge 500 kg bomb, both of which are more than enough to destroy the GAZ-AAA with shrapnel. If you see a Stuka diving at you, move sideways to avoid the bombs.
 
-- [[Pz.II]], [[M3 Stuart (Family)|M3 Stuart]], etc: these tanks, although designated as "light" tanks, are literally heavy tanks for the GAZ-AAA's weak guns, therefore impossible to get destroyed. They also have superior mobility and firepower, so if you see them it is best to leave them to your teammates. If it is safe enough you can shoot a few shots at their tracks, barrel, etc to show them on the minimap.
+* [[Pz.II]], [[M3 Stuart (Family)|M3 Stuart]], etc: these tanks, although designated as "light" tanks, are literally heavy tanks for the GAZ-AAA's weak guns, therefore impossible to get destroyed. They also have superior mobility and firepower, so if you see them it is best to leave them to your teammates. If it is safe enough you can shoot a few shots at their tracks, barrel, etc to show them on the minimap.
 
-- [[M13 MGMC]]: this is a commonly seen SPAA with armour enough to resist rifle-calibre bullets and firepower enough to vaporise poorly protected crews. Target its quad .50 cal mount to disable its gunner first, then you can just shoot at the gun mount as its elevation drive, guns, ammo, etc are all exposed. The armoured cabin can only be penetrated if you two are face to face, a distance of more than 200 m will render your bullets useless.
+* [[M13 MGMC]]: this is a commonly seen SPAA with armour enough to resist rifle-calibre bullets and firepower enough to vaporise poorly protected crews. Target its quad .50 cal mount to disable its gunner first, then you can just shoot at the gun mount as its elevation drive, guns, ammo, etc are all exposed. The armoured cabin can only be penetrated if you two are face to face, a distance of more than 200 m will render your bullets useless.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Decent anti-aircraft capabilities afforded by the armament, can do satisfactory damage to aircraft of its rank
-- Turns in a tight radius like a conventional truck
-- Large amount of ammunition
-- Able to reasonably damage lightly armoured vehicles of its kind such as [[M13 MGMC]] or [[M3 GMC]]
-- More of a threat to small, nimble aircraft than the M13 or [[T17E2]]
-- 6x4 truck design is sturdier and heavier than the 4 x 2 design of the [[GAZ-MM (72-K)]]
-- Has a great rate of fire thanks to the four fast firing maxim guns
-- Aircraft at early ranks are very common, meaning there will be plenty of aircraft for to be picked off
-- Good at setting aircraft on fire
-- Unique ability to fire tracer-less rounds. This allows you to pick off enemy planes without them even realizing that they are being shot at
-- The fact that you cannot kill tanks will mean that you focus on enemy aircraft rather than stray and hunt tanks
+* Decent anti-aircraft capabilities afforded by the armament, can do satisfactory damage to aircraft of its rank
+* Turns in a tight radius like a conventional truck
+* Large amount of ammunition
+* Able to reasonably damage lightly armoured vehicles of its kind such as [[M13 MGMC]] or [[M3 GMC]]
+* More of a threat to small, nimble aircraft than the M13 or [[T17E2]]
+* 6x4 truck design is sturdier and heavier than the 4 x 2 design of the [[GAZ-MM (72-K)]]
+* Has a great rate of fire thanks to the four fast firing maxim guns
+* Aircraft at early ranks are very common, meaning there will be plenty of aircraft for to be picked off
+* Good at setting aircraft on fire
+* Unique ability to fire tracer-less rounds. This allows you to pick off enemy planes without them even realizing that they are being shot at
+* The fact that you cannot kill tanks will mean that you focus on enemy aircraft rather than stray and hunt tanks
 
 '''Cons:'''
 
-- Non-existent armour/protection, anything will penetrate and damage the vehicle
-- Very lightweight, prone to being destroyed by ramming or being overturned by other vehicles
-- Crew is not afforded much protection, owing to the improvised design
-- Low speed of 43 km/h (27 mph), even slower cross-country
-- Gunner is exposed and can easily be knocked out from a stray bullet
-- Cannot be used effectively against anything other than trucks or aircraft due to its machine gun armament
-- Outclassed by other AA vehicles in the same rank
-- Vulnerable to strafing by enemy aircraft, especially to kamikaze attacks
-- Can easily be tipped over in tight turns
-- Machine guns are useless against armoured targets except for other GAZ trucks
+* Non-existent armour/protection, anything will penetrate and damage the vehicle
+* Very lightweight, prone to being destroyed by ramming or being overturned by other vehicles
+* Crew is not afforded much protection, owing to the improvised design
+* Low speed of 43 km/h (27 mph), even slower cross-country
+* Gunner is exposed and can easily be knocked out from a stray bullet
+* Cannot be used effectively against anything other than trucks or aircraft due to its machine gun armament
+* Outclassed by other AA vehicles in the same rank
+* Vulnerable to strafing by enemy aircraft, especially to kamikaze attacks
+* Can easily be tipped over in tight turns
+* Machine guns are useless against armoured targets except for other GAZ trucks
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 [[File:4MM GAZ AAA- truck hiding behind the hay, awaiting the enemy..jpg|thumb|right|{{PAGENAME}}<ref>http://www.wio.ru/galgrnd/flak/spflak.htm</ref>]]
 Around the late 1920s, the Soviet Union was undergoing a mechanization revolution and realized that no purpose-built motor vehicles were available for them to help move cargo and materiel back and forth from point one to point two. The result was the GAZ-AAA truck, which was a truck based on the Ford Model AAA 6 x 4 truck. These trucks entered production in 1932 and were used in multiple roles in the civilian world and in the military.
 
@@ -202,26 +188,22 @@ This self-propelled anti-air mount based on the GAZ-AAA truck with four Maxim ma
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_gaz_4m Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_gaz_4m Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/devblog/current/776/|[Devblog] M2A2 / 4M GAZ-AAA / BF109B-1]]
+* [[wt:en/devblog/current/776/|[Devblog] M2A2 / 4M GAZ-AAA / BF109B-1]]
 
 === References ===
 <references />

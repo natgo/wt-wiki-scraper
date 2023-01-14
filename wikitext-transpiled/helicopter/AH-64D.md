@@ -9,17 +9,13 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} American attack helicopter {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Heli-Flight}}
-
 <!-- ''Describe how the helicopter behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The AH-64D Longbow, provides great manoeuvrability, incredible acceleration and overall providing a great speed of up to 319 km/h in arcade and 295 km/h in realistic and simulator game modes. It is as fast as the Japanese [[AH-64DJP]] but the title of fastest AH-64D belongs to the British Army variant called the [[AH Mk.1]]. The U.S. Army AH-64D Longbow is able to do manoeuvres other helicopters can only dream about, from barrel roles, flips to loops. Which allow it to evade enemy missiles with ease and surprise, poor enemy tankers who will be helpless to defeat it.
 
 {| class="wikitable" style="text-align:center"
@@ -42,13 +38,11 @@ The AH-64D Longbow, provides great manoeuvrability, incredible acceleration and 
 [[File:AH-64D Armor Values.jpg|thumb|300px|Kevlar boron carbide armour on AH-64D]]
 [[File:AH-64D Bulletproof Glass Stats.jpg|thumb|300px|Bulletproof glass armour rating]]
 {{Specs-Heli-Armour}}
-
 <!-- ''Examine the survivability of the helicopter. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical systems.'' -->
-
 The AH-64D Apache longbow, has only limited armour protection installed with bullet proof glass only being installed on the pilot windscreen. The helicopter uses Kevlar boron carbide, composite martial which is limited only to instrument, floor and side panels around the cockpit. It does not provide the same level of protection as seen on other helicopters such as the [[Mi-28N]].
 
-- Bullet proof glass installed only for the pilot - 22 mm thick.
-- Installation of Kevlar boron carbide, composite martial only on the: Seats, cockpit side panels, Gunner floor panels and pilot instrument panel - 20 mm thick.
+* Bullet proof glass installed only for the pilot - 22 mm thick.
+* Installation of Kevlar boron carbide, composite martial only on the: Seats, cockpit side panels, Gunner floor panels and pilot instrument panel - 20 mm thick.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -67,37 +61,33 @@ The AH-64D Apache longbow, has only limited armour protection installed with bul
 |}
 === Offensive armament ===
 {{Specs-Heli-Offensive}}
-
 <!-- ''Describe the offensive armament of the helicopter, if any. Describe how effective the cannons and machine guns are in battle, also what ammunition belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M230E-1 (30 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 1 x 30 mm M230E-1 cannon (1,200 rpg)
-  ** 1 x 30 mm M230E-1 cannon + 30 x countermeasures
+* A choice between two presets:
+** 1 x 30 mm M230E-1 cannon (1,200 rpg)
+** 1 x 30 mm M230E-1 cannon + 30 x countermeasures
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
-
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-
 [[File:AH-64D Countermeasures.jpg|thumb|300px|AH-64D dispenses flare series as a countermeasure against heat-seeking missiles.]]
 {{main|AGM-114K Hellfire II|APKWS II (M151)|APKWS II (M282)|ATAS (AIM-92)}}
 {{main|Hydra-70 M247}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 8 x ATAS (AIM-92) missiles
-- 76 x Hydra-70 M247 rockets
-- 28 x APKWS II (M151) missiles
-- 28 x APKWS II (M282) missiles
-- 4 x AGM-114K Hellfire II missiles
-- 8 x AGM-114K Hellfire II missiles
-- 16 x AGM-114K Hellfire II missiles
-- 120 x countermeasures
+* Without load
+* 8 x ATAS (AIM-92) missiles
+* 76 x Hydra-70 M247 rockets
+* 28 x APKWS II (M151) missiles
+* 28 x APKWS II (M282) missiles
+* 4 x AGM-114K Hellfire II missiles
+* 8 x AGM-114K Hellfire II missiles
+* 16 x AGM-114K Hellfire II missiles
+* 120 x countermeasures
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -123,23 +113,20 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 ! Countermeasures
 | 60 || || || || || 60
 |-
-| colspan="8" | \* Both countermeasure pods must be equipped together
+| colspan="8" | * Both countermeasure pods must be equipped together
 |}
 
 === Defensive systems ===
-
 <!--''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.''-->
-
 The '''''{{PAGENAME}}''''' only has the following Defensive systems installed:
 
-_'''Countermeasures''' - Up to 150 countermeasures can be installed.
-_'''AMASE''' - Apache Modular Aircraft Survivability Equipment.
-\*'''AIM-92 Stinger''' - AIM 92 Stinger missiles
+*'''Countermeasures''' - Up to 150 countermeasures can be installed.
+*'''AMASE''' - Apache Modular Aircraft Survivability Equipment.
+*'''AIM-92 Stinger''' - AIM 92 Stinger missiles
 
 When unlocked, countermeasures are not installed - this requires the Flares/Chaff module (tier I) to be researched and installed, this provides up to 30 countermeasures. The next module called AMASE (tier II) provides up to 150 countermeasures, the additional 110 countermeasures are installed on the wingtips of the helicopter. Then the last module called AIM-92 Stinger (tier III) allows for the installation of a maximum of eight AIM-92 Stinger missiles, which two are mounted on each wing tip.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 '''Overview'''
@@ -184,25 +171,23 @@ Combatting enemy anti-aircraft vehicles can be a challenge. Always remain in cov
 {{Clear}}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Excellent ground attack armaments (Hellfire missiles and 30 mm autocannon)
-- Excellent air-to-air capability with the Stinger missile and radar
-- Adequate speed and manoeuvrability
-- Advanced countermeasure system with radar warning receiver (RWR) and Missile Alert Warning
-- Longbow radar
+* Excellent ground attack armaments (Hellfire missiles and 30 mm autocannon)
+* Excellent air-to-air capability with the Stinger missile and radar
+* Adequate speed and manoeuvrability
+* Advanced countermeasure system with radar warning receiver (RWR) and Missile Alert Warning
+* Longbow radar
 
 '''Cons:'''
 
-- Hellfire missiles have limited self-guidance abilities from certain positions
-- Hellfire missiles need line-of-sight for guidance.
-- Easily destroyed by main adversary ([[Ka-50]] & [[Ka-52]]) and enemy aircraft
+* Hellfire missiles have limited self-guidance abilities from certain positions
+* Hellfire missiles need line-of-sight for guidance.
+* Easily destroyed by main adversary ([[Ka-50]] & [[Ka-52]]) and enemy aircraft
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The '''AH-64D Apache Longbow''' is an improved version of the AH-64A Apache. The AH-64B was not a production designation but instead was a proposed designation, and the AH-64C was later redesignated to the AH-64D because of their similarity. As such, the AH-64D was the second US Army production Apache variant.
@@ -221,12 +206,10 @@ After conducting their maiden flights on the 30th of September and the 1st of Oc
 Following this, work on refining the YAH-64's design continued throughout the late 1970s. As part of this further development, the YAH-64 was optimized for the use of the newly developed AGM-114 Hellfire missile, which was in development since 1974. By the end of the '70s and going into the early '80s, the AH-64 was considered ready for full scale production. In 1981, the first pre-production machines were built, while the first production models began rolling off the assembly lines in 1983. Since then, the Apache has been produced in a huge numbers, participating in virtually every scale military operation of the US Army: Panama, Iraq, Bosnia, Kosovo, etc. Israel became the first foreign operator of the Apache named AH-64 Peten, where this helicopter saw intense combat in Lebanon and Gaza strip.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ah_64d Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ah_64d Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="200">
@@ -242,32 +225,28 @@ File:AH-64D (6).jpg|
 {{Youtube-gallery|28ngW8SmkWI|'''AH-64D The Purely American Tank Buster''' - ''JustinPlaysYT''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the helicopter;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
-- [[AH-64 (Family)]]
+* [[AH-64 (Family)]]
 
 ;Aircraft of comparable role, configuration and era
-
-- [[EC-665 Tiger UHT]]
-- [[EC-665 Tiger HAD]]
-- [[Mi-28N]] and [[Ka-52]]
+* [[EC-665 Tiger UHT]]
+* [[EC-665 Tiger HAD]]
+* [[Mi-28N]] and [[Ka-52]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6638-development-ah-64-apache-the-rotary-chieftain-en|[Devblog] AH-64 Apache: The Rotary Chieftain]]
-- [[wikipedia:Boeing_AH-64_Apache#AH-64D|[Wikipedia] AH-64D]]
-- [https://asc.army.mil/web/portfolio-item/aviation_apache-ah-64e/ <nowiki>[US Army]</nowiki> Apache Attack Helicopter AH-64D/E]
-- [http://www.military-today.com/helicopters/boeing_ah64d_longbow.htm <nowiki>[Military Today]</nowiki> Boeing AH-64D Longbow Apache]
-- [https://www.army-technology.com/projects/apache/ <nowiki>[Army Technology]</nowiki> Apache Attack Helicopter (AH-64A/D)]
+* [[wt:en/news/6638-development-ah-64-apache-the-rotary-chieftain-en|[Devblog] AH-64 Apache: The Rotary Chieftain]]
+* [[wikipedia:Boeing_AH-64_Apache#AH-64D|[Wikipedia] AH-64D]]
+* [https://asc.army.mil/web/portfolio-item/aviation_apache-ah-64e/ <nowiki>[US Army]</nowiki> Apache Attack Helicopter AH-64D/E]
+* [http://www.military-today.com/helicopters/boeing_ah64d_longbow.htm <nowiki>[Military Today]</nowiki> Boeing AH-64D Longbow Apache]
+* [https://www.army-technology.com/projects/apache/ <nowiki>[Army Technology]</nowiki> Apache Attack Helicopter (AH-64A/D)]
 
 {{AirManufacturer Boeing}}
 {{USA helicopters}}

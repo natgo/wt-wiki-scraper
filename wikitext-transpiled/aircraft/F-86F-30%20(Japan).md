@@ -5,19 +5,16 @@
 }}
 {{Specs-Card
 |code=f-86f-30_japan
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese jet fighter {{Battle-rating}}. It was introduced in [[Update 1.39]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -45,7 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese jet fighter {{Battle-
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -83,7 +80,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese jet fighter {{Battle-
 ! colspan="2" | Engine name || Number
 ! colspan="2" | Empty mass || colspan="2" | Wing loading (full fuel)
 |-
-| colspan="2" | General Electric J47-GE-27 || 1
+| colspan="2" | General Electric J47-GE-27 ||  1
 | colspan="2" | 5,430 kg || colspan="2" | 239 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
@@ -111,13 +108,12 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese jet fighter {{Battle-
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 6.35 mm steel - in front of cockpit
-- 12.7 mm steel - behind pilot
-- 38 mm steel - armoured windscreen
-- 20 mm steel pilot's headrest
+* 6.35 mm steel - in front of cockpit
+* 12.7 mm steel - behind pilot
+* 38 mm steel - armoured windscreen
+* 20 mm steel pilot's headrest
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -126,39 +122,32 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese jet fighter {{Battle-
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M3 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 6 x 12.7 mm M3 Browning machine guns, nose-mounted (300 rpg = 1,800 total)
+* 6 x 12.7 mm M3 Browning machine guns, nose-mounted (300 rpg = 1,800 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|M117 cone 45 (750 lb)|AN-M65A1 Fin M129 (1,000 lb)|HVAR}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 16 x HVAR rockets
-- 2 x 750 lb M117 cone 45 bombs (1,500 lb total)
-- 2 x 1,000 lb AN-M65A1 Fin M129 bombs (2,000 lb total)
+* Without load
+* 16 x HVAR rockets
+* 2 x 750 lb M117 cone 45 bombs (1,500 lb total)
+* 2 x 1,000 lb AN-M65A1 Fin M129 bombs (2,000 lb total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 While the F-86F-30's acceleration and top speed are lacking compared to its contemporaries, the F-86F-30's slats allow the plane to have an outstanding manoeuvrability. That said, one must beware of their speed as pulling high manoeuvres at high and max speed can put the plane under great stress which leads to the wings falling apart. The outstanding manoeuvrability comes at the cost of speed. Pulling hard turns will bleed your airspeed. Try to climb up before engaging the enemy to ensure you have enough energy to get out of a sticky situation. Hopefully, there will be a furball underneath you where you would be able to pounce on low-energy fighters with your guns. One advantage the F-86 has over the jets of other nations is the large ammo count of its 6 x .50 cals (1,800) although it would be wise to try and hit most of your shots. Try staying above 500 km/h as any slower and you would lose a significant amount of energy in a prolonged turn.
 
 === Radars ===
-
 <!--{{main|AN/APG-30}}-->
-
 The F-86F-30 is equipped with an AN/APG-30 rangefinding radar, located in the nose of the aircraft.
 It will automatically detect other planes within the scanning area and display the range to the closest target. It is linked with a gyro gunsight and can help with aiming at close range.
 
@@ -175,30 +164,27 @@ It will automatically detect other planes within the scanning area and display t
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great roll rate
-- Retains energy well in turns and vertical manoeuvres
-- Decent turn time for jet
-- Good acceleration
-- Decent armament 12.7 mm M3 with a high rate of fire
-- Can carry bombs or rockets
-- Decent radar
-- Clear cockpit view for simulator battle
+* Great roll rate
+* Retains energy well in turns and vertical manoeuvres 
+* Decent turn time for jet
+* Good acceleration
+* Decent armament 12.7 mm M3 with a high rate of fire
+* Can carry bombs or rockets
+* Decent radar
+* Clear cockpit view for simulator battle
 
 '''Cons:'''
 
-- Easy to rip off the wings with high-speed manoeuvres (realistic and simulator battles)
-- This plane can match up against higher tier jets with afterburner and air-to-air missiles, like MiG-21s, Harriers, Su-25s, etc.
-- Low ammo count equates to only 15-second burst
+* Easy to rip off the wings with high-speed manoeuvres (realistic and simulator battles)
+* This plane can match up against higher tier jets with afterburner and air-to-air missiles, like MiG-21s, Harriers, Su-25s, etc.
+* Low ammo count equates to only 15-second burst
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 Following the Japanese defeat and the end of the Second World War, Japan was prohibited from maintaining armed forces of its own. Following the disbanding of the Imperial Japanese Army and Navy in 1945, this decision was written into law in the 1947 Constitution. While the original article declared that Japan would never resort to war as an instrument to settle disputes and would never maintain land, sea or air forces or other instruments of war, later on the exact meaning of this article was questioned by successive governments as it meant Japan was fully dependent on the occupying Allied forces to come to its defence in case of an armed conflict. The outbreak of the Korean War in 1950 only furthered this concern, and a new interpretation of the constitutional article came into being: while Japan was prohibited from maintaining an offensive force, the article did not state that they were also prohibited from maintaining a purely defensive force.
 
 The formal establishment of a mutual defence clause in the 1951 US-Japan Peace treaty led to the founding of the Japanese Self-Defense Forces in 1954, with the Japanese Air Self-Defense Force being its air component. As a result of negotiations concerning the founding of the JASDF, it was eventually decided that the new armed force would use the North American F-86F as its standard day-fighter, with license production being undertaken by Mitsubishi in the form of assembly of knock-down kits produced by the North American factory in California. However, as it would take time for production to start, the decision was taken to hand over USAF aircraft to the nascent JASDF pending the arrival of the first domestically-produced F-86Fs. This first delivery included 30 North American F-86F Sabres and 55 Lockheed T-33A Shooting Star jet-trainers.
@@ -209,50 +195,47 @@ This was not the end of their story, as 18 aircraft were converted to RF-86F rec
 
 The following F-86Fs were transferred from the USAF to the JASDF:
 
-- F-86F-25-NH: 51-13361; 51-13368; 51-13369; 61-13376; 51-13385; 51-13390; 51-13414; 51-13474; 52-5327; 52-5439
-- F-86F-30-NA: 52-4542; 52-4618; 52-4679; 52-4684; 52-4693; 52-4699; 52-4705; 52-4708; 52-4745; 52-4758; 52-4836; 52-4844; 52-4845; 52-4905; 52-4909; 52-4913; 52-4914; 52-4916; 52-4923; 52-4939
+* F-86F-25-NH: 51-13361; 51-13368; 51-13369; 61-13376; 51-13385; 51-13390; 51-13414; 51-13474; 52-5327; 52-5439
+* F-86F-30-NA: 52-4542; 52-4618; 52-4679; 52-4684; 52-4693; 52-4699; 52-4705; 52-4708; 52-4745; 52-4758; 52-4836; 52-4844; 52-4845; 52-4905; 52-4909; 52-4913; 52-4914; 52-4916; 52-4923; 52-4939
 
 These aircraft were (randomly) renumbered in JASDF service as 52-7401/7409 and 62-7410/7430. Aircraft later converted to RF-86F standard were renumbered from the x2-74xx to x2-64xx.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=f-86f-30_japan Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f-86f-30_japan Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
 
-- Canadair [[F-86 (Family)|Sabre]] (those Sabres manufactured with the designator "CL")
-- North American [[F-86K (France)|F-86D]] Sabre
-- North American [[F-100D|F-100]] Super Sabre
-- North American [[FJ-4B|FJ-4]] Fury
+* Canadair [[F-86 (Family)|Sabre]] (those Sabres manufactured with the designator "CL")
+* North American [[F-86K (France)|F-86D]] Sabre
+* North American [[F-100D|F-100]] Super Sabre
+* North American [[FJ-4B|FJ-4]] Fury
 
 ;Aircraft of comparable role, configuration and era
 
-- Dassault [[Super Mystere B2|Super Mystère]]
-- Grumman [[F9F-8|F-9]] Cougar
-- Hawker [[Hunter F.1|Hunter]]
-- Lavochkin [[La-15]]
-- Mikoyan-Gurevich [[MiG-15]]
-- Mikoyan-Gurevich [[MiG-17]]
-- Saab [[J29D|J29]] Tunnan
+* Dassault [[Super Mystere B2|Super Mystère]]
+* Grumman [[F9F-8|F-9]] Cougar
+* Hawker [[Hunter F.1|Hunter]]
+* Lavochkin [[La-15]]
+* Mikoyan-Gurevich [[MiG-15]]
+* Mikoyan-Gurevich [[MiG-17]]
+* Saab [[J29D|J29]] Tunnan
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/272062-north-american-f-86f-30/ Official data sheet - more details about the performance]
-- [http://www.joebaugher.com/usaf_fighters/p86_12.html <nowiki>[Joe Baugher]</nowiki> F-86F in Foreign Service]
+* [https://forum.warthunder.com/index.php?/topic/272062-north-american-f-86f-30/ Official data sheet - more details about the performance]
+* [http://www.joebaugher.com/usaf_fighters/p86_12.html <nowiki>[Joe Baugher]</nowiki> F-86F in Foreign Service]
 
 {{Manufacturer MHI}}
 {{AirManufacturer NAA}}

@@ -5,26 +5,23 @@
 }}
 {{Specs-Card
 |code=uk_chieftain_mk_10
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced in [[Update 1.71 "New E.R.A."]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Cast homogeneous armour (hull front, turret front half, cupola)
-- Rolled homogeneous armour (hull sides, hull rear, hull roof, turret rear half, turret roof, cupola roof)
-- Stillbrew composite armour (turret front half, turret ring - front part)
+* Cast homogeneous armour (hull front, turret front half, cupola)
+* Rolled homogeneous armour (hull sides, hull rear, hull roof, turret rear half, turret roof, cupola roof)
+* Stillbrew composite armour (turret front half, turret ring - front part)
 
 {| class="wikitable"
 |-
@@ -39,8 +36,8 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British medium tank {{Battle-r
 |}
 '''Notes:'''
 
-- Suspension wheels and tracks are 20 mm thick while bogies are 19 mm thick.
-- Belly armour is 16 mm of RHA.
+* Suspension wheels and tracks are 20 mm thick while bogies are 19 mm thick.
+* Belly armour is 16 mm of RHA.
 
 {| class="wikitable"
 |-
@@ -53,8 +50,8 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British medium tank {{Battle-r
 |}
 '''Notes:'''
 
-- Stillbrew armour at turret ring is pure 200 mm CHA.
-- Stillbrew armour on turret front is composed of 80 to 150 mm CHA + 60 mm rubber + 150 to 250 mm CHA.
+* Stillbrew armour at turret ring is pure 200 mm CHA.
+* Stillbrew armour on turret front is composed of 80 to 150 mm CHA + 60 mm rubber + 150 to 250 mm CHA.
 
 The {{PAGENAME}} sports identical hull armour to the earlier variants, however the turret is augmented with Stillbrew composite armour, providing near-complete frontal protection when in hull-down positioning, with the exceptions of the small area around the gun breech and a small section of visible turret ring. The Chieftain's Stillbrew package offers extremely effective protection against most kinetic rounds, with only rounds available on vehicles such as the T-80B and Type 90 able to penetrate it.
 
@@ -62,7 +59,6 @@ The vehicle's hull armour should be considered essentially non-existent relative
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=1,178|rbMinHp=672}}
@@ -78,9 +74,7 @@ As such, {{PAGENAME}} players should not rely on their mobility for anything; ra
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|Ordnance BL Tk. L11 (120 mm)}}
 
 The L11 120 mm Rifled Cannon is reasonably competitive at the Chieftain's rank, although it does suffer from a somewhat mediocre reload time. The weapon is extremely accurate, particularly once utilising the L23 APFSDS round, and performs admirably in ranged engagements. The weapon's default APDS and HESH rounds can be used to good effect against most targets, given careful aim and target selection.
@@ -104,13 +98,13 @@ The L11 120 mm Rifled Cannon is reasonably competitive at the Chieftain's rank, 
 ==== Ammunition ====
 The available ammunition allows for engaging all types of targets:
 
-- '''L15A3''': APDS; an armour-piercing round with a discarding sabot that has a good penetration power and no explosive filler. As it lacks post-penetration damage, the tactic with an APDS shot is to either knock out the majority of the tank's crew or to provoke ammo or fuel detonation by targeting their respective locations. This requires good knowledge of the layouts of potential opposing vehicles. Use the Protection analysis feature in the hangar menu to analyse potential foes for their weak spots! Also, keep in mind that with increased armour thickness the number of shrapnel shrinks.
+* '''L15A3''': APDS; an armour-piercing round with a discarding sabot that has a good penetration power and no explosive filler. As it lacks post-penetration damage, the tactic with an APDS shot is to either knock out the majority of the tank's crew or to provoke ammo or fuel detonation by targeting their respective locations. This requires good knowledge of the layouts of potential opposing vehicles. Use the Protection analysis feature in the hangar menu to analyse potential foes for their weak spots! Also, keep in mind that with increased armour thickness the number of shrapnel shrinks.
 
-- '''L31A7''': HESH; a high-explosive squash head projectile works very differently from other shell types. It ignores any angle, except for ricochet, and deals damage by metal-flakes which are blown off inside the armour by the exterior explosion. To create this deadly shrapnel inside the tank, make sure to only hit armour plates which are a direct part of the interior crew compartment of the tank. Hitting exterior parts of a tank like spaced armour, the suspension, tracks etc. will not harm crew members/modules at all. Currently, only true armour thickness (as opposed to the line of sight thickness) will provide sufficient means of protection, benefiting the USSR turret designs and in general German tanks. Like all high-explosive shells, the fuse is very sensitive and can be set-off by most objects e.g. fences, trees, posts. The slow muzzle velocity of this shell can make it quite hard to hit targets at longer distances, but at the same time it can be handy because its arc trajectory allows it to land hits on enemies hiding behind shallow hills.
+* '''L31A7''': HESH; a high-explosive squash head projectile works very differently from other shell types. It ignores any angle, except for ricochet, and deals damage by metal-flakes which are blown off inside the armour by the exterior explosion. To create this deadly shrapnel inside the tank, make sure to only hit armour plates which are a direct part of the interior crew compartment of the tank. Hitting exterior parts of a tank like spaced armour, the suspension, tracks etc. will not harm crew members/modules at all. Currently, only true armour thickness (as opposed to the line of sight thickness) will provide sufficient means of protection, benefiting the USSR turret designs and in general German tanks. Like all high-explosive shells, the fuse is very sensitive and can be set-off by most objects e.g. fences, trees, posts. The slow muzzle velocity of this shell can make it quite hard to hit targets at longer distances, but at the same time it can be handy because its arc trajectory allows it to land hits on enemies hiding behind shallow hills.
 
-- '''L23''': APFSDS; a kinetic dart with high penetration power capable of easily penetrating the majority of the foes it meets but without explosive filler. As it lacks post-penetration damage, the tactic with an APDS shot is to either knock out the majority of the tank's crew or to provoke ammo or fuel detonation by targeting their respective locations. This requires good knowledge of the layouts of potential opposing vehicles. Use the Protection analysis feature in the hangar menu to analyse potential foes for their weak spots! Also, keep in mind that with increased armour thickness the number of shrapnel shrinks.
+* '''L23''': APFSDS; a kinetic dart with high penetration power capable of easily penetrating the majority of the foes it meets but without explosive filler. As it lacks post-penetration damage, the tactic with an APDS shot is to either knock out the majority of the tank's crew or to provoke ammo or fuel detonation by targeting their respective locations. This requires good knowledge of the layouts of potential opposing vehicles. Use the Protection analysis feature in the hangar menu to analyse potential foes for their weak spots! Also, keep in mind that with increased armour thickness the number of shrapnel shrinks.
 
-- '''L34''': Smoke; useful to blind enemy vehicles that are too remote for you to disable so that you can progress towards objectives.
+* '''L34''': Smoke; useful to blind enemy vehicles that are too remote for you to disable so that you can progress towards objectives.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="8" | Penetration statistics
@@ -165,9 +159,7 @@ The available ammunition allows for engaging all types of targets:
 |}
 
 ==== [[Ammo racks]] ====
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -200,12 +192,12 @@ The available ammunition allows for engaging all types of targets:
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x400px|[[Ammo racks]] of the {{PAGENAME}}]]
 Notes:
 
-- Like the other Chieftains, the {{PAGENAME}} uses two-piece ammunition, composed of both projectiles (yellow) and propellants (orange). Both have separate racks. Projectiles' racks can be seen on the upper part of the image while the propellants' racks can be seen on the lower part.
-- Like the previous Chieftains, every propellant rack is encased by 5 mm of {{Annotation|RHA|Rolled homogeneous armour}}. In case of a successful penetration, the 5 mm of RHA provide protection against shrapnel. It however may not be enough to stop a direct hit to the propellant rack.
-- Projectile racks 11 to 17 and propellant racks 4 to 7 are the first stage ammo racks. They total 20 shots and get filled first when loading up the tank.
-- Unlike the previous Chieftains, the projectile racks have visual discrepancy: the ammo racks can "''store''" more ammo than what the model suggests. For instance projectile racks 9 and 10 have such phenomenon.
-- So as to go into battle without any ammunition stored in the front hull, it is advised to bring 20&nbsp;''(+33)'' shells (projectile racks 1 to 10 emptied and propellant racks 1 to 3 emptied).
-- Projectile racks 15 and 17 are located right next to each other: rack 15 being on top of rack 17.
+* Like the other Chieftains, the {{PAGENAME}} uses two-piece ammunition, composed of both projectiles (yellow) and propellants (orange). Both have separate racks. Projectiles' racks can be seen on the upper part of the image while the propellants' racks can be seen on the lower part.
+* Like the previous Chieftains, every propellant rack is encased by 5 mm of {{Annotation|RHA|Rolled homogeneous armour}}. In case of a successful penetration, the 5 mm of RHA provide protection against shrapnel. It however may not be enough to stop a direct hit to the propellant rack.
+* Projectile racks 11 to 17 and propellant racks 4 to 7 are the first stage ammo racks. They total 20 shots and get filled first when loading up the tank.
+* Unlike the previous Chieftains, the projectile racks have visual discrepancy: the ammo racks can "''store''" more ammo than what the model suggests. For instance projectile racks 9 and 10 have such phenomenon.
+* So as to go into battle without any ammunition stored in the front hull, it is advised to bring 20&nbsp;''(+33)'' shells (projectile racks 1 to 10 emptied and propellant racks 1 to 3 emptied).
+* Projectile racks 15 and 17 are located right next to each other: rack 15 being on top of rack 17.
 
 ==== Optics and night vision ====
 The magnification of the gunner's optics on the {{PAGENAME}} is ok, but not anything special compared to other tanks it faces. There is only a minimal difference between the default magnification and the zoomed in magnification.
@@ -254,9 +246,7 @@ The IR searchlight on the {{PAGENAME}} is mounted in a distinctive box on the le
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|L37A1 (7.62 mm)|L8A1 (7.62 mm)}}
 
 The small calibre of the 7.62 machine gun makes them largely ineffective against all armoured vehicles but the ones with an open compartment or to destroy incoming ATGMs, with a bit of luck.
@@ -281,9 +271,7 @@ The small calibre of the 7.62 machine gun makes them largely ineffective against
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The {{PAGENAME}} plays similarly to the Mk 3/Mk 5 - ideally taking long-ranged engagements from hull-down positions, or when forced into shorter-ranged engagements avoiding exposing the vehicle as much as possible. Fortunately, the Stillbrew addition on the Mk 10 significantly reduces the risks of exposing the turret, with the composite capable of deflecting most kinetic rounds it will face - although the armour package is not invulnerable to chemical rounds; some powerful HEAT rounds and most late ATGMs will easily punch through it. Augmenting the vehicle's ability further is the (researchable) access to L23 APFSDS, which significantly improves the L11's long range efficacy. Despite these improvements, the Chieftain still suffers from mediocre mobility and care must be taken to ensure one does not get engaged while the vehicle is moving, as the ability to quickly move into cover is often not an option.
 
 '''Specific Adversaries'''
@@ -295,30 +283,27 @@ The {{PAGENAME}} plays similarly to the Mk 3/Mk 5 - ideally taking long-ranged e
 '''[[AMX-40]]:''' The AMX-40 is a threat to the Chieftain Mk 10 for similar reasons to the Leopard 2K; as with the Leopard, be wary of flanks and the power of the AMX-40's APFSDS.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Stillbrew composite armour makes a hull-down Chieftain essentially impervious to all but the best kinetic rounds. It is also resistant to most rank VI chemical rounds and early generation ATGMs. Due to this, the tank is a nightmare to fight with outdated tanks for many nations, as not many tanks can even scratch its turret directly to begin with
-- The L23 APFSDS round is very powerful and will have little trouble penetrating most vehicles at the Chieftain's rank
-- 10° of gun depression
-- Reasonably fast reload time for a 120 mm with a base time of 9.5s and a best time of 7.5s
-- Reasonable reverse speed
-- Receives a Laser Rangefinder as a Tier 4 modification
+* Stillbrew composite armour makes a hull-down Chieftain essentially impervious to all but the best kinetic rounds. It is also resistant to most rank VI chemical rounds and early generation ATGMs. Due to this, the tank is a nightmare to fight with outdated tanks for many nations, as not many tanks can even scratch its turret directly to begin with
+* The L23 APFSDS round is very powerful and will have little trouble penetrating most vehicles at the Chieftain's rank
+* 10° of gun depression
+* Reasonably fast reload time for a 120 mm with a base time of 9.5s and a best time of 7.5s
+* Reasonable reverse speed
+* Receives a Laser Rangefinder as a Tier 4 modification
 
 '''Cons:'''
 
-- Stillbrew composite armour does not provide particularly good chemical protection against upgraded rank VI ATGM, which means, that while it can often allow {{PAGENAME}} to ignore ATGM attacks from tanks like [[Begleitpanzer 57]], [[KPz-70]] or [[M551]] and maybe even some attacks from unskilled [[IT-1]] operator, in up-tier or against specialized rank VI ATGM tanks and tanks, which can carry advanced ATGM ( like [[BMP-1]], [[BMP-1 (DDR)]], [[BMP-2]], [[Type 89]], [[Warrior]], Etc.), the tank commander must be much more cautious
-- While turret is near invulnerable to shells with poor flight characteristics, it still retains a glaring weak spot in form of cupola, which can be penetrated and obliterated by almost any APHE, sometimes even from light tanks such as [[Begleitpanzer 57]], resulting in full crew knock-out. Because of this, the {{PAGENAME}} is usually forced to keep their enemies away, even when going to the frontline
-- Very poor mobility characteristics, much slower than most medium tanks it have to face
-- Hull armour is negligible, comprised only of cast homogeneous armour, which means that it is even weaker, than what it looks like
-- Hull penetration will often result in ammunition detonation as ammo is strewn throughout it
+* Stillbrew composite armour does not provide particularly good chemical protection against upgraded rank VI ATGM, which means, that while it can often allow {{PAGENAME}} to ignore ATGM attacks from tanks like [[Begleitpanzer 57]], [[KPz-70]] or [[M551]] and maybe even some attacks from unskilled [[IT-1]] operator, in up-tier or against specialized rank VI ATGM tanks and tanks, which can carry advanced ATGM ( like [[BMP-1]], [[BMP-1 (DDR)]], [[BMP-2]], [[Type 89]], [[Warrior]], Etc.), the tank commander must be much more cautious
+* While turret is near invulnerable to shells with poor flight characteristics, it still retains a glaring weak spot in form of cupola, which can be penetrated and obliterated by almost any APHE, sometimes even from light tanks such as [[Begleitpanzer 57]], resulting in full crew knock-out. Because of this, the {{PAGENAME}} is usually forced to keep their enemies away, even when going to the frontline
+* Very poor mobility characteristics, much slower than most medium tanks it have to face
+* Hull armour is negligible, comprised only of cast homogeneous armour, which means that it is even weaker, than what it looks like
+* Hull penetration will often result in ammunition detonation as ammo is strewn throughout it
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Concept===
 The idea of a "universal tank" began in Britain in 1944 when Montgomery and other influential people began advocating for a more standardized tank to replace the cruiser and infantry tank classes used on the field. Efforts did not start until after World War II under the General Staff designation A45, with development starting just as the new cruiser tank [[Centurion Mk 3|Centurion]] started to enter military service. The A45 was cancelled in 1948 after development troubles and its inability to be used as a "universal" platform. Ironically, the Centurion proved to be a better "universal tank" platform than the A45.<ref name="DunstanChieftain">Dunstan Simon. ''Chieftain Main Battle Tank 1965-2003'' Great Britain: Osprey Publishing Ltd., 2003</ref>
 
@@ -342,42 +327,38 @@ The Chieftain is still in service Iran, Jordan, and Oman in varying numbers, abo
 The Chieftain helped revolutionize tank design with its innovative features. The most important was the reclining driver seat, which allowed the tank to have a lower profile as the driver was now that highest part of the hull in tank design. It also had the most powerful NATO tank armament in service until the advent of the German Rheinmetall 120 mm, which came about two decades later. Chieftain can be considered the definitive main battle tank of the 1960s and help transition the path between second-generation main battle tanks and the third.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_chieftain_mk_10 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_chieftain_mk_10 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|LufGqZTfvoI|'''MBTs with Best Armor''' discusses the {{PAGENAME}} at 01:25 - ''War Thunder Official Channel''|lAW5l2qvPZs|'''Chieftain Mk 10: Come at me Bro!!!''' - ''Napalmratte''|D3OF9IvtHLk|'''Tank Chats #34: Chieftain''' - ''The Tank Museum''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
 
-- [[Chieftain (Family)]]
+* [[Chieftain (Family)]]
 
 ;Other vehicles of similar configuration and role
 
-- [[M48 Super]]
-- [[T-55AM-1]]
+* [[M48 Super]]
+* [[T-55AM-1]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/4946-development-chieftain-mk-10-dressing-up-for-war-en|[Devblog] Chieftain Mk.10: Dressing Up for War]]
-- [[wikipedia:Chieftain_(tank)|[Wikipedia] Chieftain (tank)]]
-- [[wikipedia:Stillbrew_armour|[Wikipedia] Stillbrew armour]]
-- [https://tanks-encyclopedia.com/coldwar/UK/chieftain.php <nowiki>[Tanks Encyclopedia]</nowiki> FV4201 Chieftain]
-- [https://www.militaryfactory.com/armor/detail.asp?armor_id=83 <nowiki>[Military Factory]</nowiki> Chieftain MBT]
+* [[wt:en/news/4946-development-chieftain-mk-10-dressing-up-for-war-en|[Devblog] Chieftain Mk.10: Dressing Up for War]]
+* [[wikipedia:Chieftain_(tank)|[Wikipedia] Chieftain (tank)]]
+* [[wikipedia:Stillbrew_armour|[Wikipedia] Stillbrew armour]]
+* [https://tanks-encyclopedia.com/coldwar/UK/chieftain.php <nowiki>[Tanks Encyclopedia]</nowiki> FV4201 Chieftain]
+* [https://www.militaryfactory.com/armor/detail.asp?armor_id=83 <nowiki>[Military Factory]</nowiki> Chieftain MBT]
 
 === References ===
 <references />

@@ -5,27 +5,24 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' (also known as the '''{{Specs|pseudonym}}''') is a premium gift rank {{Specs|rank}} German light tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before [[Update 1.41]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (hull, turret)
-- Structural steel (storage boxes, mudguards)
+* Rolled homogeneous armour (hull, turret)
+* Structural steel (storage boxes, mudguards)
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 15 mm (25°) ''Upper plate - Top'' <br> 50 mm (19°) ''Upper plate - Bottom'' <br> 15 mm (15°) ''Upper plate - Cheeks'' <br> 30 mm (74°) ''Upper glacis'' <br> 50 mm (15°) ''Lower plate'' <br> 8 mm (66°) ''Lower glacis'' || 15 mm (6-31°) ''Top'' <br> 30 mm ''Bottom'' || 15 mm (2-10°) ''Upper plate'' <br> 30 mm (14°) ''Lower plate'' || 30 mm (16°) ''Front glacis'' <br> 10 mm ''Crew compartment'' <br> 15 mm (0-30°) ''Engine deck''
+| Hull || 15 mm (25°) ''Upper plate - Top'' <br> 50 mm (19°) ''Upper plate - Bottom'' <br> 15 mm (15°) ''Upper plate - Cheeks'' <br> 30 mm (74°) ''Upper glacis'' <br> 50 mm (15°) ''Lower plate''  <br> 8 mm (66°) ''Lower glacis'' || 15 mm (6-31°) ''Top'' <br> 30 mm ''Bottom'' || 15 mm (2-10°) ''Upper plate'' <br> 30 mm (14°) ''Lower plate'' || 30 mm (16°) ''Front glacis'' <br> 10 mm ''Crew compartment'' <br> 15 mm (0-30°) ''Engine deck''
 |-
 | Turret || 30 mm (36°) ''Turret front'' <br> 10 mm (6°) + 30 mm (36°) ''Gun mantlet'' || 10 mm (37°) || 8 mm (38°) || N/A
 |-
@@ -33,15 +30,14 @@ The '''{{Specs|name}}''' (also known as the '''{{Specs|pseudonym}}''') is a prem
 
 '''Notes:'''
 
-- Suspension wheels, tracks and bogies are 15 mm thick.
-- The belly armour is 8 mm thick.
-- Mudguards and storage boxes are 4 mm thick.
+* Suspension wheels, tracks and bogies are 15 mm thick.
+* The belly armour is 8 mm thick.
+* Mudguards and storage boxes are 4 mm thick.
 
 This vehicle is all-around better than the Flakpanzer I at the same BR in the tech tree. It has a 50 mm front plate, a 30 mm sloped turret, and four crew members spaced out nicely.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=248|rbMinHp=142}}
@@ -55,9 +51,7 @@ The speed and power-to-weight ratio of the {{PAGENAME}} are both superior to the
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|KwK38 (20 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -80,10 +74,10 @@ The 20 mm KwK38 autocannon is one of the most lethal low-rank guns.
 
 ==== Ammunition ====
 
-- '''Default:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}} - These rounds work well until the others are researched.
-- '''Sprgr.:''' {{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}} - These are absolutely devastating in the AA role.
-- '''PzGr:''' {{Annotation|API-T|Armour-piercing incendiary tracer}} - These are suited for the anti-tank role at close range and do good damage to planes.
-- '''PzGr 40:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}} - The best belt for the anti-tank role with the best penetrating shell for this cannon. While the post-penetration damage can be quite poor, the rapid fire from the autocannon can mitigate this problem by following up quickly with another penetrating shot. In close combat, these shells should be used against modules and crew members to make the most of each shell. Against angled armour, however, the HVAP ammo may not be very effective. Unlike the Flakpanzer 1 and Flakpanzer 38, this belt is still 100% HVAP.
+* '''Default:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}} - These rounds work well until the others are researched.
+* '''Sprgr.:''' {{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}} - These are absolutely devastating in the AA role.
+* '''PzGr:''' {{Annotation|API-T|Armour-piercing incendiary tracer}} - These are suited for the anti-tank role at close range and do good damage to planes.
+* '''PzGr 40:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}} -  The best belt for the anti-tank role with the best penetrating shell for this cannon. While the post-penetration damage can be quite poor, the rapid fire from the autocannon can mitigate this problem by following up quickly with another penetrating shot. In close combat, these shells should be used against modules and crew members to make the most of each shell. Against angled armour, however, the HVAP ammo may not be very effective. Unlike the Flakpanzer 1 and Flakpanzer 38, this belt is still 100% HVAP.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="7" | Penetration statistics
@@ -116,7 +110,7 @@ The 20 mm KwK38 autocannon is one of the most lethal low-rank guns.
 |-
 ! 0% !! 50% !! 100%
 |-
-| Sprgr. || HEFI-T\* || 900 || 0.12 || 0.0 || 0.1 || 10.2 || 79° || 80° || 81°
+| Sprgr. || HEFI-T* || 900 || 0.12 || 0.0 || 0.1 || 10.2 || 79° || 80° || 81°
 |-
 | PzGr || API-T || 800 || 0.15 || N/A || N/A || N/A || 47° || 60° || 65°
 |-
@@ -126,9 +120,7 @@ The 20 mm KwK38 autocannon is one of the most lethal low-rank guns.
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Sd.Kfz._140-1.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 1.101.0.44''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -144,13 +136,11 @@ The 20 mm KwK38 autocannon is one of the most lethal low-rank guns.
 |}
 '''Notes''':
 
-- Racks disappear after all shells in the rack have been shot or loaded.
+* Racks disappear after all shells in the rack have been shot or loaded.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|MG42 (7.92 mm)}}
 
 This tank has a coaxial 7.92 mm MG 42 machine gun that is a sufficient fallback to the FlaK 38. The MG42 is unlikely to be of help against other ground vehicles but is best used between reloads to maintain a semi-constant rate of fire on enemy aircraft.
@@ -166,7 +156,6 @@ This tank has a coaxial 7.92 mm MG 42 machine gun that is a sufficient fallback 
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The Sd.Kfz. 140/1 is a multirole armored vehicle which mainly focuses on light/medium armor and air targets. It can be considered a combination between the Pz.II and the Flakpanzer 1.
@@ -184,32 +173,30 @@ Due to its high rate of fire, the 20 mm gun is able to not only damage tracks bu
 Despite being a light tank with a relatively slow traverse and gun elevation, the Sd.Kfz. 140/1 can be comparable to the Flakpanzer 1 when engaging aircraft. It has a 70° elevation, more than enough to engage low flying aircraft with ease. It is able to become a formidable anti air not only at its battle rating capable of destroying any aircraft in a small burst. Although the AP-I belts have more crippling power compared to the HVAP, with the amount of shells the gun can put on the aircraft, it is not as crucial although this is up to player's discretion. It works very well against low passing bombers and fighters as it only takes about 4 seconds to completely take out and aircraft (if you hit all shots).
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Armed with a powerful 20 mm cannon with a very high rate of fire
-- The 20 mm HVAP magazine has incredible close range penetration and damage potential thanks to all the spalling. Hitting an enemy with all 10 rounds will either kill crew, or leave the vehicle severely damaged
-- Can carry almost twice the amount of ammo that the [[Pz.II C]] or [[Pz.II F|F]] can
-- The high rate of fire coupled with the 70 degrees of gun elevation makes this vehicle an effective anti-aircraft tank
-- The hull has an impressive 50 mm of armour on the front while the turret has 30 mm of angled armour
-- Very fast and highly mobile. Can keep up with many of the armoured cars at Rank I
-- Many tanks at this BR have exposed crew members. This makes the coaxial MG42 an excellent way of taking out exposed enemy crew without having to waste any 20 mm shells
+* Armed with a powerful 20 mm cannon with a very high rate of fire
+* The 20 mm HVAP magazine has incredible close range penetration and damage potential thanks to all the spalling. Hitting an enemy with all 10 rounds will either kill crew, or leave the vehicle severely damaged
+* Can carry almost twice the amount of ammo that the [[Pz.II C]] or [[Pz.II F|F]] can
+* The high rate of fire coupled with the 70 degrees of gun elevation makes this vehicle an effective anti-aircraft tank
+* The hull has an impressive 50 mm of armour on the front while the turret has 30 mm of angled armour
+* Very fast and highly mobile. Can keep up with many of the armoured cars at Rank I
+* Many tanks at this BR have exposed crew members. This makes the coaxial MG42 an excellent way of taking out exposed enemy crew without having to waste any 20 mm shells
 
 '''Cons:'''
 
-- There's only a 15 mm plate of armour between the turret and chassis making it a massive weak spot
-- Only 15 mm of armour on the flat corners of the upper hull and hull sides. Angling is not a good tactic to employ
-- A really tall tank with a high centre of gravity. Not only is this tank difficult to hide, but a really sharp turn can cause the tank to flip over
-- Only 4 degrees of gun depression. That coupled with this tank's height makes this vehicle ill-suited for cresting ridge lines
-- Longer reload time between magazine reloads
-- Only performs well at close quarters combat, as both the AP and HVAP penetration drop below 30 mm past 500 m
-- The turret crew are exposed to strafing aircraft and artillery, as well as machine gun fire
-- Lacks a shoulder stabilizer
+* There's only a 15 mm plate of armour between the turret and chassis making it a massive weak spot
+* Only 15 mm of armour on the flat corners of the upper hull and hull sides. Angling is not a good tactic to employ
+* A really tall tank with a high centre of gravity. Not only is this tank difficult to hide, but a really sharp turn can cause the tank to flip over
+* Only 4 degrees of gun depression. That coupled with this tank's height makes this vehicle ill-suited for cresting ridge lines
+* Longer reload time between magazine reloads
+* Only performs well at close quarters combat, as both the AP and HVAP penetration drop below 30 mm past 500 m
+* The turret crew are exposed to strafing aircraft and artillery, as well as machine gun fire
+* Lacks a shoulder stabilizer
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 === Development ===
@@ -241,40 +228,34 @@ Its design was successful, reliable, and advanced. However, the rivet joints in 
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_38t_Aufklarungspanzer Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_38t_Aufklarungspanzer Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|ejKGyrDj8E0|'''Premium Review, Sd.Kfz. 140/1. A Nasty Sealclubber!''' - ''Joseph 2000''|y1cgs1cHhGA|'''Aufklärungspanzer 38(t), German Premium Tier-1 Light Tank''' - ''Angry Nerd Gaming''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
-
-- [[LT-38 (Family)]]
+* [[LT-38 (Family)]]
 
 ;Other vehicles of similar configuration and role
-
-- [[T-60]]
-- [[L6/40]]
+* [[T-60]]
+* [[L6/40]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wikipedia:Panzer_38(t)|[Wikipedia] Panzer 38(t)]]
-- [https://tanks-encyclopedia.com/ww2/nazi_germany/aufklarungspanzer-38t-2cm-kwk-38-l55-sd-kfz-1401.php <nowiki>[Tanks Encyclopedia]</nowiki> Aufklärungspanzer 38(t)]
-- [http://www.historyofwar.org/articles/weapons_aufklarungspanzer_38t.html <nowiki>[History of War]</nowiki> Aufklarungspanzer 38(t) (Sdkfz 140/1)]
+* [[wikipedia:Panzer_38(t)|[Wikipedia] Panzer 38(t)]]
+* [https://tanks-encyclopedia.com/ww2/nazi_germany/aufklarungspanzer-38t-2cm-kwk-38-l55-sd-kfz-1401.php <nowiki>[Tanks Encyclopedia]</nowiki> Aufklärungspanzer 38(t)]
+* [http://www.historyofwar.org/articles/weapons_aufklarungspanzer_38t.html <nowiki>[History of War]</nowiki> Aufklarungspanzer 38(t) (Sdkfz 140/1)]
 
 {{Germany light tanks}}
 {{Germany premium ground vehicles}}

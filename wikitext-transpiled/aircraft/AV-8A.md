@@ -10,15 +10,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American strike aircraft {{Battle-rating}}. It was introduced in [[Update "New Power"]]. Like all members of the [[Harrier (Family)|Harrier family]] the AV-8A is a [[VTOL]] aircraft with thrust vectoring nozzles, which allow it to take off and land vertically, in addition to enhancing its manoeuvrability. Among the [[Harrier (Family)]], it has a higher powered engine than the [[Harrier GR.1]], but it has the same engine as the others ([[Harrier GR.3]] and [[AV-8C]]).
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -46,7 +43,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American strike a
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -113,9 +110,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American strike a
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 The AV-8A has no armour. The engine and all fuel tanks are packed in a tight cluster in the centre of the fuselage, which makes it quite vulnerable, as a few well-placed shots can cause major damage.
 
 === Modifications and economy ===
@@ -134,34 +129,30 @@ The AV-8A has no armour. The engine and all fuel tanks are packed in a tight clu
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|ADEN Mk.4 (30 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 30 mm ADEN Mk.4 cannons, belly-mounted (130 rpg = 260 total)
+* 2 x 30 mm ADEN Mk.4 cannons, belly-mounted (130 rpg = 260 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)}}
 {{main|AIM-9G Sidewinder|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x AIM-9G Sidewinder missiles
-- 28 x FFAR Mighty Mouse rockets
-- 76 x FFAR Mighty Mouse rockets
-- 16 x Zuni Mk32 Mod 0 ATAP rockets
-- 5 x 250 lb LDGP Mk 81 bombs (1,250 lb total)
-- 5 x 500 lb LDGP Mk 82 bombs (2,500 lb total)
-- 2 x 1,000 lb LDGP Mk 83 bombs (2,000 lb total)
-- 240 x countermeasures
+* Without load
+* 2 x AIM-9G Sidewinder missiles
+* 28 x FFAR Mighty Mouse rockets
+* 76 x FFAR Mighty Mouse rockets
+* 16 x Zuni Mk32 Mod 0 ATAP rockets
+* 5 x 250 lb LDGP Mk 81 bombs (1,250 lb total)
+* 5 x 500 lb LDGP Mk 82 bombs (2,500 lb total)
+* 2 x 1,000 lb LDGP Mk 83 bombs (2,000 lb total)
+* 240 x countermeasures
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -193,9 +184,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The AV-8A can be considered a multirole aircraft which can focus in air-to-air combat, air-to-ground combat and air-to-sea combat. Its firepower and ordnance make it a competitive aircraft in all game modes. The roles can be divided in such:
 
 '''In air-to-air combat:'''
@@ -229,35 +218,32 @@ This is where the Harrier is able to shine as an attacker, primarily using VTOL 
 AIM-9G are not recommended to be taken in Ground Realistic Battles as most of the air to air engagements will be within a kilometre range specially since the AIM-9G's turn radius is fairly narrow, meaning enemy planes can be engaged with the 30 mm ADEN autocannons or be taken by friendly SPAA. It is not recommended to use them against enemy helicopters either as the autocannons are sufficient for them.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Thrust vectoring capabilities
-  ** Can be used during combat to temporarily boost turn rate
-  ** Can land and rearm on the helicopter bases in combined battles
-- AIM-9Gs are potent missiles, having a max overload of 18G and a very long burn time
-- 22 different payload options, many of which are great for bombing
-- Powerful 30 mm ADEN cannons with a generous ammo count of 260 rounds (130 per gun)
-- Has a [[HUD#410SUM1|Head-Up Display]] in the cockpit which provides flight information and accurate weapon aiming functionality and is useful in Simulator battles
-- Large supply of 240 countermeasures
+* Thrust vectoring capabilities
+** Can be used during combat to temporarily boost turn rate 
+** Can land and rearm on the helicopter bases in combined battles
+* AIM-9Gs are potent missiles, having a max overload of 18G and a very long burn time
+* 22 different payload options, many of which are great for bombing
+* Powerful 30 mm ADEN cannons with a generous ammo count of 260 rounds (130 per gun)
+* Has a [[HUD#410SUM1|Head-Up Display]] in the cockpit which provides flight information and accurate weapon aiming functionality and is useful in Simulator battles
+* Large supply of 240 countermeasures
 
 '''Cons:'''
 
-- Heavy airframe loses significant speed in turns
-- No Radar Warning Receiver
-- Only gets two air-to-air missiles at most
-- ADEN cannons have low velocity
-- Limited WEP and lack of afterburner
-- Engine overheats very quickly above 90% throttle
-- Using thrust vectoring in combat bleeds speed and leaves you vulnerable
-- Stiffens up in dives; this can be fatal during ground attack missions
+* Heavy airframe loses significant speed in turns
+* No Radar Warning Receiver
+* Only gets two air-to-air missiles at most
+* ADEN cannons have low velocity 
+* Limited WEP and lack of afterburner
+* Engine overheats very quickly above 90% throttle
+* Using thrust vectoring in combat bleeds speed and leaves you vulnerable
+* Stiffens up in dives; this can be fatal during ground attack missions 
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The US military had been paying close attention to the development of British VTOL aircraft through the 1950s / 60s, taking part in the testing and evaluation of the Hawker Siddeley P.1127 / Kestrel FGA.1 (prototypes that would eventually develop into the Harrier) in the mid-1960s. At the 1968 Farnborough air show two United States Marine Corps (USMC) pilots, Col. Thomas H. Miller (eventually promoted to Lieutenant General) and Lt. Col. Bud Baker unexpectedly arrived at the Hawker Siddeley Aviation (HSA) chalet and announced they had been sent to test fly the new Harrier GR.1 aircraft. Within 2 weeks of the show both pilots had flown the Harrier and shortly after returned to the US with a very positive report of the aircraft.<ref name="HarrierCaseStudy">Fozard 1978</ref>
 
 Within three months of the report a team of US test pilots were in the UK evaluating the Harrier and within a further five months the US had declared its intention to buy 110 Harriers by the mid 1970s. The US congress originally insisted that the Harriers should be built in the US, leading to HSA signing a 15 year agreement with McDonnell-Douglas, where McDonnell-Douglas would build the aircraft in the US and both parties would share data and designs of any aircraft related to the Harrier.<ref name="HarrierCaseStudy" /> However later, after realizing the cost increase that would come from shifting production to the US, it was instead decided all 110 aircraft would be built by HSA in the UK. The aircraft would be purchased as "off the shelf" products with only limited modifications made from the Harrier GR.1. The US Harriers would have the more powerful Pegasus Mk 103 engine, the ability to carry two Sidewinder missiles, and other minor changes such as US radio equipment.<ref name="HarrierCaseStudy" />
@@ -265,27 +251,25 @@ Within three months of the report a team of US test pilots were in the UK evalua
 The Harrier entered service with the USMC in 1971, under the designation AV-8A.<ref name="HarrierCaseStudy" />Marine Attack Squadron 513 (VMA-513) was the first squadron to receive its Harriers with VMA-231 and VMA-542 following. Shortly after it entered service the US decided to replace the British Ferranti FE 541 Inertial Navigation and Attack System (INAS) system with an American system known as "baseline". The FE 541 was an advanced system, it was able to use inertial navigation to plot the Harrier's location on a moving map in the cockpit and had various weapons aiming modes to allow for accurate bombing. The US however did not like the FE 541 finding it too complicated and difficult to maintain. In addition the FE 541 required a calibration process to be carried out before use, which could not be completed onboard a ship, severely limiting it's usefulness to the USMC. The baseline system was far simpler than the FE 541 and did not provide navigation functionality; with the removal of the large moving map display the USMC took the opportunity to change the layout of the AV-8A's cockpit making it different to that in British Harriers.<ref name="HarrierCaseStudy" />
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=av_8a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=av_8a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6918-development-jump-jets-arrive-in-war-thunder-meet-the-harrier-en|[Devblog] Jump Jets arrive in War Thunder: Meet the Harrier]]
-- [http://www.alternatewars.com/SAC/AV-8A_Harrier_SAC_-_November_1972.pdf Standard Aircraft Characteristics of the AV-8A]
+* [[wt:en/news/6918-development-jump-jets-arrive-in-war-thunder-meet-the-harrier-en|[Devblog] Jump Jets arrive in War Thunder: Meet the Harrier]]
+* [http://www.alternatewars.com/SAC/AV-8A_Harrier_SAC_-_November_1972.pdf Standard Aircraft Characteristics of the AV-8A]
 
 ===References===
 
@@ -294,7 +278,7 @@ The Harrier entered service with the USMC in 1971, under the designation AV-8A.<
 
 ;Bibliography
 
-- Fozard, J. (1978). The British Aerospace Harrier Case Study in Aircraft Design. American Institute of Aeronautics & Astronautics.
+* Fozard, J. (1978). The British Aerospace Harrier Case Study in Aircraft Design. American Institute of Aeronautics & Astronautics.
 
 {{AirManufacturer Hawker}}
 {{USA jet aircraft}}

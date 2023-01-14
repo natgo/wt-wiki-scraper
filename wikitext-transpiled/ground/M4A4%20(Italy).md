@@ -8,31 +8,28 @@
 }}
 {{Specs-Card
 |code=it_m4a4_sherman
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian medium tank {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (transmission housing, turret, gun mantlet)
+* Rolled homogeneous armour
+* Cast homogeneous armour (transmission housing, turret, gun mantlet)
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 50.8 mm (56°) ''Front glacis'' <br> 50.8 mm (8-17°) + 25.4 mm (29°) ''Viewports'' <br> 34 + 25.4 mm (spherical) ''MG port'' <br> 50.8 mm (3°) ''Radio antenna bulge'' <br> 50.8 mm (cylindrical) ''Transmission housing'' || 38.1 mm <br> 38.1 + 25.4 mm ''Ammo racks'' || 38.1 mm (21°) ''Top'' <br> 38.1 mm ''Bottom'' || 19.5 mm Front section'' <br> 12.7 mm (7°) ''Engine bay - centre'' <br> 19.5 mm (23°) ''Engine bay - sides
+| Hull || 50.8 mm (56°) ''Front glacis'' <br> 50.8 mm (8-17°) + 25.4 mm (29°) ''Viewports'' <br>  34 + 25.4 mm (spherical) ''MG port'' <br>  50.8 mm (3°) ''Radio antenna bulge'' <br> 50.8 mm (cylindrical) ''Transmission housing'' || 38.1 mm <br>  38.1 + 25.4 mm ''Ammo racks'' || 38.1 mm (21°) ''Top'' <br> 38.1 mm ''Bottom'' || 19.5 mm Front section'' <br> 12.7 mm (7°) ''Engine bay - centre'' <br> 19.5 mm (23°) ''Engine bay - sides
 |-
 | Turret || 76 mm (7-65°) ''Turret front'' <br> 50.8 mm (9-26°) ''Turret front - gunner side'' <br> 50.8 + 88.9 mm (cylindrical) ''Gun mantlet'' || 50.8 mm (1-3°) ''Turret sides'' <br> 50.8 mm (58-66°) ''Roof radius'' || 50.8 mm (1-5°) ''Sponson'' <br> 50.8 mm (21-65°) ''Roof slope'' || 25.4 mm
 |-
@@ -42,15 +39,14 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian medium tank {{Battle-r
 
 '''Notes:'''
 
-- Suspension wheels are 15 mm thick while tracks are 20 mm thick and bogies are 10 mm thick.
-- The belly of the tank is 12.7 mm thick.
-- The internal wall separating the crew compartment from the engine bay is 9.5 mm thick.
+* Suspension wheels are 15 mm thick while tracks are 20 mm thick and bogies are 10 mm thick.
+* The belly of the tank is 12.7 mm thick.
+* The internal wall separating the crew compartment from the engine bay is 9.5 mm thick.
 
 The hull is very similar to the American [[M4|M4 Sherman]], with a 50.8 mm thick upper glacis and protruding hatches interrupting the glacis (reinforced with appliqué armour). A weak spot is the radio antenna bulge on the machine gunner side. The hull sides feature appliqué armour plates covering the ammunition storage racks. The turret is also very similar but lacks the appliqué armour on the right cheek, leaving a small weakened zone in that area. Frontal protection is quite good for its rank and shots from smaller anti-tank guns can generally be shrugged off, particularly when hull down. However more powerful guns such as the [[Pz.IV F2]]'s long 75 mm can destroy the tank easily, so care should be taken. The side armour is only 38.1 mm thick and can be easily penetrated by just about any anti-tank gun if not angled.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=659|rbMinHp=376}}
@@ -64,9 +60,7 @@ Based on the chassis of the M4, the {{PAGENAME}} has the same good all-round mob
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|M3 (75 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -88,10 +82,10 @@ Based on the chassis of the M4, the {{PAGENAME}} has the same good all-round mob
 ==== Ammunition ====
 When discussing {{PAGENAME}} shells, one always has to account for the fact that it's a medium tank. This means short to medium engagement range, so realistically it can benefit more from its short-range penetration figures than long-range sniping tanks would.
 
-- M72 shot - {{Annotation|AP|Armour-Piercing}} - Solid shot, stock shell. Acceptable penetration, poor post-penetration damage.
-- M48 shell - {{Annotation|HE|High-Explosive fragmentation shell}} - Low-velocity shell useful against soft targets, in particular when hitting an open-topped vehicle. Harmless against any vehicle with more than 10 mm of armour.
-- M61 shot - {{Annotation|APCBC|Armour-Piercing Capped Ballistic Capped}} - This shell has a better penetration than the M72 thanks to its ballistic cap and a good post-penetration damage thanks to its explosive filler.
-- M89 smoke shell - Useful to blind enemy vehicles that are too remote for you to disable so that you can progress towards objectives.
+* M72 shot - {{Annotation|AP|Armour-Piercing}} - Solid shot, stock shell. Acceptable penetration, poor post-penetration damage.
+* M48 shell - {{Annotation|HE|High-Explosive fragmentation shell}} - Low-velocity shell useful against soft targets, in particular when hitting an open-topped vehicle. Harmless against any vehicle with more than 10 mm of armour.
+* M61 shot - {{Annotation|APCBC|Armour-Piercing Capped Ballistic Capped}} - This shell has a better penetration than the M72 thanks to its ballistic cap and a good post-penetration damage thanks to its explosive filler.
+* M89 smoke shell - Useful to blind enemy vehicles that are too remote for you to disable so that you can progress towards objectives.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="8" | Penetration statistics
@@ -146,9 +140,7 @@ When discussing {{PAGENAME}} shells, one always has to account for the fact that
 |}
 
 ==== [[Ammo racks]] ====
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -168,15 +160,13 @@ When discussing {{PAGENAME}} shells, one always has to account for the fact that
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
 '''Notes''':
 
-- To go into battle with the turret basket empty of ammo, pack 79&nbsp;''(+19)'' shells (racks 1 to 4 emptied).
-- To go into battle with the turret basket and the flanks empty of ammo, pack 31&nbsp;''(+67)'' shells (racks 1 to 7 emptied).
-- The 8th rack is large and located in a weak spot: the bottom section of the armour. In case of penetration, there is a high risk of ammo rack detonation. Make sure not to expose your flanks unnecessarily.
+* To go into battle with the turret basket empty of ammo, pack 79&nbsp;''(+19)'' shells (racks 1 to 4 emptied).
+* To go into battle with the turret basket and the flanks empty of ammo, pack 31&nbsp;''(+67)'' shells (racks 1 to 7 emptied).
+* The 8th rack is large and located in a weak spot: the bottom section of the armour. In case of penetration, there is a high risk of ammo rack detonation. Make sure not to expose your flanks unnecessarily.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|M1919A4 (7.62 mm)}}
 
 The M4A4 only has a coaxial 7.62 mm machine gun and lacks the familiar pintle-mounted M2 Browning seen on other Sherman models. This makes fending off lightly-armoured and fast opponents like the [[Sd.Kfz.234/2 | Puma]] more difficult as the main gun must be used instead. The lone M1919A4 is also unlikely to do significant damage to incoming aircraft.
@@ -192,9 +182,7 @@ The M4A4 only has a coaxial 7.62 mm machine gun and lacks the familiar pintle-mo
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The M4 Sherman is an effective medium-range combat tank. Equipped with a fast-firing 75 mm gun and with good handling characteristics, the M4 can be an extremely useful asset in most battles.
 
 In battle the M4 performs well as an all-rounder; the thick turret front and 10 degrees of gun depression make the tank ideal for taking hull-down positions which protect the thinner hull armour from being penetrated by enemy fire. The sloped front upper glacis, when angled, also provides good protection against enemy fire. An unusual - and useful - difference is that the upper glacis is sloped at 56 degrees rather than the standard 45 degrees, making it more of a threat and more powerful due to improving the chances of a round ricochet. The only downfall may be the 2 crew member position in the front that protrudes out to form a flat surface, but both are covered with an additional 20 mm plate. The reasonable mobility of the Sherman makes flanking a viable tactic. The main weakness of the M4 is the side armour - not only is it vertical and thin, but behind it most of the ammunition is stowed. The tall silhouette of the tank also makes finding suitable cover difficult. Overall, the M4 Sherman can be considered as an armoured jack-of-all-trades - it will serve a tanker well, however it will not excel in any particular role.
@@ -212,35 +200,32 @@ Another way to play the M4 Sherman is to tap into its traditional cavalry role, 
 [[KV-1 (ZiS-5)]] - A vehicle that the M4 Sherman will have trouble against is the KV-1. While the [[KV-1 (L-11)|L-11]] is underpowered, the KV-1 (ZiS-5) is potent enough to punch through the Sherman's front, and the Sherman is unable to penetrate the KV-1's thick armour especially with its add-on armour plates. If this heavy tank is encountered frontally, aim at the vertical area on the round gun mantlet as it is only 90 mm thick. You can knock out its gunner this way. Or shoot at the vertical part where the gun mantlet doesn't cover to disable its turret ring and gunner / loader. Note: do not shoot at the frontal hull as it is too thick for the M61 shell. Of course, the best way is to shoot at its sides and rear without any angle, where its armour is unsloped, though it will still have to be at a close range to penetrate the armour. In addition, shots to the sides will most likely hit fuel tanks or ammunition storage, causing a fire or ammunition detonation and at best, time to reassess the situation.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Excellent gun depression of -10° plus the angled frontal turret allows it to utilise hills very well
-- Great penetration and post-penetration damage when using M61 shells; can frontally penetrate and knock out most opponents with a single shot
-- Great turret traverse speed allows it to deal with multiple threats easily
-- Sloped hull armour provides good protection against small calibre / low-penetration shells (e.g. 75 mm M3), and even large calibre guns when angled correctly. In addition, Italy is usually grouped with Germany therefore this M4 won't face the long 75 mm, increasing its survivability
-- Adequate top speed allows it to get to positions in time, or to do tactical manoeuvres like flanking
-- Pintle-mounted HMG provides an anti-aircraft defence or anti-tank duty against tanks like [[ZiS-30]]
-- Fitted with a vertical stabilizer, allowing more accurate fire on the move compared to other tanks, as well as better usage of shoot-n-scoot tactics
+* Excellent gun depression of -10° plus the angled frontal turret allows it to utilise hills very well
+* Great penetration and post-penetration damage when using M61 shells; can frontally penetrate and knock out most opponents with a single shot
+* Great turret traverse speed allows it to deal with multiple threats easily
+* Sloped hull armour provides good protection against small calibre / low-penetration shells (e.g. 75 mm M3), and even large calibre guns when angled correctly. In addition, Italy is usually grouped with Germany therefore this M4 won't face the long 75 mm, increasing its survivability
+* Adequate top speed allows it to get to positions in time, or to do tactical manoeuvres like flanking
+* Pintle-mounted HMG provides an anti-aircraft defence or anti-tank duty against tanks like [[ZiS-30]]
+* Fitted with a vertical stabilizer, allowing more accurate fire on the move compared to other tanks, as well as better usage of shoot-n-scoot tactics
 
 '''Cons:'''
 
-- Large profile and weak side armour; flankers like the M24 Chaffee can easily see and penetrate it
-- Frontal armour is still inadequate, will get frontally penetrated and knocked out with a single shot
-- The best M61 shell struggles to penetrate heavy targets
-- Trajectory is curved and velocity is low due to its short barrel, thus distant/moving targets are hard to shoot at
-- Hull traverse is quite slow, making it sluggish in a turn
-- Roof armour of 19.5 mm thick is vulnerable to airstrikes with AP cannons. For example the widely used [[M2 Browning (12.7 mm)|M2 Browning]]
+* Large profile and weak side armour; flankers like the M24 Chaffee can easily see and penetrate it
+* Frontal armour is still inadequate, will get frontally penetrated and knocked out with a single shot
+* The best M61 shell struggles to penetrate heavy targets
+* Trajectory is curved and velocity is low due to its short barrel, thus distant/moving targets are hard to shoot at
+* Hull traverse is quite slow, making it sluggish in a turn
+* Roof armour of 19.5 mm thick is vulnerable to airstrikes with AP cannons. For example the widely used [[M2 Browning (12.7 mm)|M2 Browning]]
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 After the end of WW2, the United States started to export Sherman tanks in multiple versions for military and civil use some were used in the recostruction of various countrys and removal of destroyed tanks of WW2.
 
-After the WW2 and the fondation of the Republican Italy, the Italian Army reconstituted in 1945 and 1946 a minor military command for the territorial defense, the unit was equipped wih Italian, British and American Tanks which they used extensively post-war.
+After the WW2 and the fondation of the Republican Italy, the Italian Army reconstituted in 1945 and 1946 a minor military command for the territorial defense, the unit was equipped wih Italian, British and American Tanks  which they used extensively post-war.
 [[File:M4A4 (italy) 1.png|thumb|M4A4 during test drives]]
 Italy was subject to an export deal to reform military forces. The US delivered at least 57 M4 Sherman tanks (M4A2 and M4A4) as part of allied cooperation and Great Britain also gave some Shermans.
 
@@ -249,34 +234,32 @@ These tanks were given to Italy, the first official armoured corps for Italy was
 After their life in Italian service, they were demilitarized, scrapped and some other were refurbished from scrap and smuggled as tractors (32 reported Sherman tanks) to Israel to aid the IDF with 105 mm howitzers in the Israel-Palestine war.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=it_m4a4_sherman Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
-- Skins and camouflages for the [[M4A4 (China)]] or the [[M4A4 (France)]] can be used for the {{PAGENAME}}.
+* [https://live.warthunder.com/feed/camouflages/?vehicle=it_m4a4_sherman Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* Skins and camouflages for the [[M4A4 (China)]] or the [[M4A4 (France)]] can be used for the {{PAGENAME}}.
 
 ;Videos
 {{Youtube-gallery|x8toili-cYE|'''M4A4 Sherman Medium Tank (Italy)''' - ''Orangefan''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
 
-- [[M4A4 (1st PTG)]]
-- [[M4A4 (China)]]
-- [[M4A4 (France)]]
+* [[M4A4 (1st PTG)]]
+* [[M4A4 (China)]]
+* [[M4A4 (France)]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{TankManufacturer Ordnance Department}}
 {{Italy medium tanks}}

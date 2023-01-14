@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27 as the ''Hellcat Mk I'', but was renamed to the Hellcat Mk II in [[Update 1.65 "Way of the Samurai"]].
 
 The Hellcat Mk II is nearly identical to the American non-premium [[F6F-5|F6F-5 Hellcat]], both can carry a wide array of weaponry for ground attack, but the British one has a good premium boost for Silver Lions {{sl}} and Golden Eagles {{ge}}, making it an effective researcher for many British Rank 4 aircraft. Just like the American Hellcat, it is easy to get to grips with and can be very fun to play.
@@ -21,7 +19,6 @@ The stock [[F6F-5|F6F-5 Hellcat]] is equipped with six 12.7 mm Browning machine 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -49,7 +46,7 @@ The stock [[F6F-5|F6F-5 Hellcat]] is equipped with six 12.7 mm Browning machine 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -80,14 +77,13 @@ The stock [[F6F-5|F6F-5 Hellcat]] is equipped with six 12.7 mm Browning machine 
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 38 mm Bulletproof glass - Armoured windscreen
-- 6.35 mm Steel plate behind the pilot
-- 3 mm Steel plate on both sides of the oil cooling system
-- 3 mm Steel plate in front of cockpit on top of the fuselage
-- 3 mm Steel plates under the engine and fuselage
+* 38 mm Bulletproof glass - Armoured windscreen
+* 6.35 mm Steel plate behind the pilot
+* 3 mm Steel plate on both sides of the oil cooling system
+* 3 mm Steel plate in front of cockpit on top of the fuselage
+* 3 mm Steel plates under the engine and fuselage
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -96,35 +92,29 @@ The stock [[F6F-5|F6F-5 Hellcat]] is equipped with six 12.7 mm Browning machine 
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 6 x 12.7 mm M2 Browning machine guns, wing-mounted (400 rpg = 2,400 total)
+* 6 x 12.7 mm M2 Browning machine guns, wing-mounted (400 rpg = 2,400 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AN-M65A1 (1,000 lb)|HVAR|Tiny Tim|Mk.13-6 Case (2,216 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 6 x HVAR rockets
-- 2 x Tiny Tim rockets
-- 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
-- 2 x 1,000 lb AN-M65A1 bombs + 6 x HVAR rockets (2,000 lb total)
-- 1 x 2,216 lb Mk.13-6 Case torpedo
+* Without load
+* 6 x HVAR rockets
+* 2 x Tiny Tim rockets
+* 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
+* 2 x 1,000 lb AN-M65A1 bombs + 6 x HVAR rockets (2,000 lb total)
+* 1 x 2,216 lb Mk.13-6 Case torpedo
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Hellcat Mk I is an all-around excellent aircraft, being at home in many roles such as Bomber Hunter, Fighter, and Ground attacker. This plane is especially good in the role of Boom & Zoom, and for its Battle Rating, it can be one of the first aircraft at high altitude, ready to stalk its prey. You can turn-fight with the Hellcat's excellent elevator authority, but it is ill-advised, as aircraft of this battle rating you will encounter such as the [[La-5]], [[A6M2]], [[Spitfire Mk IIb|Spitfire]], and the occasional [[Yak-3]] will out turn you and turn you into Swiss cheese. This aircraft is legendary for its ruggedness and reliability in real life and is accurately represented in War Thunder. This aircraft is easy to land with its strong landing gear. The large radial engine and sturdy wings can take some hits and still make it home, and, as in the Pacific theatre, this plane was very hard to set alight due to its self-sealing fuel tanks. Don't jump out of your burning Hellcat just yet! You can take bombs and rockets to become a formidable ground attacker, and even take Tiny Tim rockets for extreme anti-ship and anti-tank capabilities. You will earn Silver Lions {{sl}} very quickly thanks to the Premium vehicle bonus. The M2 Browning machine guns can load Ground targets belts to destroy light vehicles easily, as well as medium tanks and light pillboxes (though with some difficulty). In the bomber hunter role, use Universal belts (as with the fighter role) as they contain the most Incendiary rounds to set nearly anything alight, double time. Just remember to not get carried away with staying behind bombers - they can shoot into your engine and set you alight; sometimes with no hope of getting rid of the fire. Though this aircraft is a Jack of All Trades, one may say this is a disadvantage itself - being master of none. Aircraft that excel in certain categories such as climb rate, manoeuvrability, and firepower can beat you if they play smart - but remember, if you play smart too, you may come out on top, even against very deadly aircraft such as the earlier mentioned Yak-3.
 
 === Manual Engine Control ===
@@ -145,33 +135,30 @@ The Hellcat Mk I is an all-around excellent aircraft, being at home in many role
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Excellent diving ability
-- Great bomb & rocket payload options
-- Great top speed
-- Good instantaneous turn
-- Well armed for its rank with a lot of ammunition
-- Decent climber
-- Very stable gun platform
+* Excellent diving ability
+* Great bomb & rocket payload options
+* Great top speed
+* Good instantaneous turn
+* Well armed for its rank with a lot of ammunition
+* Decent climber
+* Very stable gun platform
 
 '''Cons:'''
 
-- Below average turner against Japanese & British aircraft
-- Higher stall speeds than its Japanese counterparts
-- Control Stiffening above moderate speeds
-- Poor roll rate
-- Poor performance when equipping bombs and rockets
-- Large fuselage cross-section makes it an easy target
-- Spins are cumbersome to recover from due to poor rudder effectiveness
+* Below average turner against Japanese & British aircraft
+* Higher stall speeds than its Japanese counterparts
+* Control Stiffening above moderate speeds
+* Poor roll rate
+* Poor performance when equipping bombs and rockets
+* Large fuselage cross-section makes it an easy target
+* Spins are cumbersome to recover from due to poor rudder effectiveness
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 [[File:Hellcats in flight, 1944.jpg|thumb|400x400px|A flight of British Fleet Air Arm Hellcats from 1840 NAS in flight.]]
 The American-designed Grumman F6F "Hellcat" fighter served with the British Fleet Air Arm (FAA) between 1944 and 1946. The aircraft was initially known as the "Gannet", but soon had its name reverted to its original, American name. The Hellcat was delivered in two variants; the Mk I, equivalent to the F6F-3, and the Mk II, equivalent to the F6F-5. Over 1,300 Hellcat Mk Is and Mk IIs were used by the FAA between 1944 and 1946.
 
@@ -198,12 +185,11 @@ A rugged, well armed machine with a good blend of agility, performance and firep
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=hellcat_fmk1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=hellcat_fmk1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover" heights="150">
@@ -214,18 +200,16 @@ Image:FighterImage_Hellcat secondary skin unlock.jpg|<small>Hellcat sporting 6 x
 {{Youtube-gallery|vIiQQ0PEmKs|'''Premium Review. British Hellcat Mk II. A True Workhorse''' - ''Joseph 2000''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Aircraft of a similar role, configuration or era
 
-- [[F4F (Family)|F4F 'Wildcat']]
-- [[Martlet Mk IV|Grumman Martlet]]
+* [[F4F (Family)|F4F 'Wildcat']]
+* [[Martlet Mk IV|Grumman Martlet]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->

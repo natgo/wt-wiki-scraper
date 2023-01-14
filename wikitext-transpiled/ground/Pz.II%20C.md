@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=germ_pzkpfw_II_ausf_C
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 121''') is a rank {{Specs|rank}} German light tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41.
 
 The Pz.II C is a vehicle that fits well in any line-up using low-rank German tanks. The first of its column in the German tech tree, the Pz.II C can be distinguished from the later [[Pz.II F|Ausf. F]] model by its heavier frontal armour. A distinguishing feature for this series of Panzer II is the trademark 20 mm automatic cannon, which can be a curse to new users or a gift to players who know how to use the vehicle well. This autocannon can give several misconceptions on the Pz.II's utilities that can lure players into assuming it is a close quarters vehicle. The reality is much different - at close ranges, the 20 mm autocannon with its 280 round per minute (RPM) rate of fire and PzGr.40 APCR ammo can have a great effect on a single target, but the reload time and 10 round-capacity per magazine can backfire hard if the Pz.II C faces against more tanks than a single magazine can deal with.
@@ -19,9 +17,7 @@ The Pz.II C is a vehicle that fits well in any line-up using low-rank German tan
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 [[File:Pz.II C Screenshot 2.jpg|thumb|Pz.II C on frozen pass]]
 The Pz.II C has (on the surface) decent frontal armour, with 35 mm for the front plate with a section of heavily sloped 30 mm armour on the glacis, then a sloped lower glacis that has 35 mm as well. The side, rear, and hull roof armour are a paltry 15 mm, including the turret sides. The front turret face is 30 mm that do not overlap with the 30 mm thick gun mantlet well so it will be rare, if not impossible, for a chance at relying on a 60 mm overlapping area to deflect rounds.
 
@@ -31,7 +27,7 @@ Put shortly - do everything to ensure that the Pz.II C does not get hit, because
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
+* Rolled homogeneous armour
 
 {| class="wikitable"
 |-
@@ -46,13 +42,12 @@ Put shortly - do everything to ensure that the Pz.II C does not get hit, because
 |}
 '''Notes:'''
 
-- Suspension wheels and torsion bars are 10 mm thick while tracks are 15 mm thick.
-- Mudguards are 4 mm thick.
-- Belly armour is 5 mm thick.
+* Suspension wheels and torsion bars are 10 mm thick while tracks are 15 mm thick.
+* Mudguards are 4 mm thick.
+* Belly armour is 5 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=217|rbMinHp=124}}
@@ -66,9 +61,7 @@ Mobility-wise, the {{PAGENAME}} is actually better than most of its peers, but t
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 [[File:Pz.II C Screenshot 1.jpg|thumb|Pz.II C firing its main weapon]]
 {{main|KwK30 (20 mm)}}
 
@@ -96,9 +89,9 @@ The biggest problem with the 20 mm autocannon is the 10 round magazines combined
 
 ==== Ammunition ====
 
-- '''Default:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}} - The belt composition means that 50% of the shells (HEFI-T\*) are useless against tanks. However, this belt is reliable against open-topped or thin-skinned vehicles like SPAA vehicles. Since there are no dedicated high-explosive shells for the selection, having one belt of this in reserve does not hurt for those situations.
-- '''PzGr:''' {{Annotation|API-T|Armour-piercing incendiary tracer}} - This belt offers a good transition from the Default to the PzGr 40 belt. The round offers decent damage against lightly armoured tanks, especially at close range. Due to lack of high-explosive filler, however, it is better to focus on the PzGr 40 belt to maximize penetration power.
-- '''PzGr 40:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}} - Probably the best belt with the best penetrating shell for the vehicle. While the damage effects post-penetration can be quite poor, the rapid fire from the autocannon can mitigate this problem by following up quickly with another penetrating shot. In close combat, these shells should be used against modules and crew member to make the most of each shell. Against angled armour, however, the HVAP ammo may not be very effective. Unlike the Flakpanzer 1 and Flakpanzer 38, this belt is still 100% HVAP.
+* '''Default:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}} - The belt composition means that 50% of the shells (HEFI-T*) are useless against tanks. However, this belt is reliable against open-topped or thin-skinned vehicles like SPAA vehicles. Since there are no dedicated high-explosive shells for the selection, having one belt of this in reserve does not hurt for those situations.
+* '''PzGr:''' {{Annotation|API-T|Armour-piercing incendiary tracer}} - This belt offers a good transition from the Default to the PzGr 40 belt. The round offers decent damage against lightly armoured tanks, especially at close range. Due to lack of high-explosive filler, however, it is better to focus on the PzGr 40 belt to maximize penetration power.
+* '''PzGr 40:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}} - Probably the best belt with the best penetrating shell for the vehicle. While the damage effects post-penetration can be quite poor, the rapid fire from the autocannon can mitigate this problem by following up quickly with another penetrating shot. In close combat, these shells should be used against modules and crew member to make the most of each shell. Against angled armour, however, the HVAP ammo may not be very effective. Unlike the Flakpanzer 1 and Flakpanzer 38, this belt is still 100% HVAP.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="7" | Penetration statistics
@@ -137,9 +130,7 @@ The biggest problem with the 20 mm autocannon is the 10 round magazines combined
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.13.0.125''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -153,15 +144,13 @@ The biggest problem with the 20 mm autocannon is the 10 round magazines combined
 |}
 '''Notes''':
 
-- Ammunition is modeled as 18 magazines of 10 rounds.
-- Racks disappear after you've fired all magazines in the rack.
-- Right flank empty: 11&nbsp;''(+7)'' magazines.
+* Ammunition is modeled as 18 magazines of 10 rounds.
+* Racks disappear after you've fired all magazines in the rack.
+* Right flank empty: 11&nbsp;''(+7)'' magazines.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|MG34 (7.92 mm)}}
 
 Mounted opposite to the 20 mm autocannon is the MG 34, which is loaded with a 50-round belt with an AP-I/AP-I/AP-T ammo pattern. With 13 mm of maximum penetration at point blank range, this gun's 800 RPM rate of fire will make short work of unarmoured vehicles like truck-based SPAA, as well as exposed enemy crew members.
@@ -177,9 +166,7 @@ Mounted opposite to the 20 mm autocannon is the MG 34, which is loaded with a 50
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The main key to success with this vehicle is to drive aggressively, trying to take shots at relatively close range (100-300 m or even less). Aim for the enemy's weak spots such as modules and crew members. Go for flank or rear shots in order to make the most of the 20 mm close-range penetration power on the enemy's thinner armour plates.
 
 When positioning the Pz.II C, try to use the terrain to remain hull down so that a quick reverse can mask the hull. With this position, the Pz.II C can quickly scoot forward and fire off a few quick shots before reversing to a safe position away from enemy fire. Keep this in mind when attempting to ambush the enemy in an open arena with little cover, as cover and concealment are more reliable in disrupting enemy return fire accuracy than the Pz.II's thin armour.
@@ -195,33 +182,30 @@ Generally speaking, if the target is about the size of a coin when looking at it
 A more advanced method of playing this is to use it like an autoloading gun from higher BRs - fire only one or two shots per click at a given time. This helps avoid spraying uselessly at bigger, more stubborn targets.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Decent frontal armour: when angled it can be immune to common opponents like the [[BT-5]], [[BT-7]], [[M3A1 Stuart|M3A1]] and [[A13 (Family)|A13]]
-- Overall superior firepower: autocannon shoots rapidly, resulting in denser fire, and with the PzGr 40 belt it can penetrate any tank, including the [[B1 bis]] when aiming correctly
-- Has a stabiliser. Quite poor, but enough to fire precisely while reversing.
-- Fast top speed and great agility makes it a great flanker
-- Curved turret armour of 30 mm plus -10 degrees gun depression allows it to hull-down on hills easily
-- Small width means it can manoeuvre through or hide in narrow passages in urban maps, allowing it to ambush or flank unexpectedly
-- Low profile makes it easy to hide behind bushes or cover
-- In Simulator mode, friendly fire is less likely due to the very distinct shape and profile
+* Decent frontal armour: when angled it can be immune to common opponents like the [[BT-5]], [[BT-7]], [[M3A1 Stuart|M3A1]] and [[A13 (Family)|A13]]
+* Overall superior firepower: autocannon shoots rapidly, resulting in denser fire, and with the PzGr 40 belt it can penetrate any tank, including the [[B1 bis]] when aiming correctly
+* Has a stabiliser. Quite poor, but enough to fire precisely while reversing.
+* Fast top speed and great agility makes it a great flanker
+* Curved turret armour of 30 mm plus -10 degrees gun depression allows it to hull-down on hills easily
+* Small width means it can manoeuvre through or hide in narrow passages in urban maps, allowing it to ambush or flank unexpectedly
+* Low profile makes it easy to hide behind bushes or cover
+* In Simulator mode, friendly fire is less likely due to the very distinct shape and profile
 
 '''Cons:'''
 
-- Only performs well at close quarters combat, as both the AP and HVAP penetration drop below 30 mm past 500 m, making it struggle to penetrate common opponents such as the [[M3 Stuart (Family)|M3]]/[[M5 Stuart (Family)|M5]] Stuart and B1 bis
-- Magazine-loaded armament means there is lengthy downtime for reloading where you are vulnerable
-- Survivability is still inadequate: unsloped armour plus closely-packed crew of 3 means it is very vulnerable to [[T-26]], BT-5 or [[M8 General Scott (Family)|M8 Scott]] which all have explosive AP
-- Although top speed is good, it is still slower than other light tanks like the infamous BT-5, [[M8 Greyhound (Family)|M8 Greyhound]] and M3/M5
-- Poor damage of 20 mm shells means that new players cannot effectively destroy spacious tanks like [[LVT(A)(1)]]
-- Low penetration when not using HVAP-T rounds. When stock it is useless against a B1 bis or M3/M5 (frontally)
+* Only performs well at close quarters combat, as both the AP and HVAP penetration drop below 30 mm past 500 m, making it struggle to penetrate common opponents such as the [[M3 Stuart (Family)|M3]]/[[M5 Stuart (Family)|M5]] Stuart and B1 bis
+* Magazine-loaded armament means there is lengthy downtime for reloading where you are vulnerable
+* Survivability is still inadequate: unsloped armour plus closely-packed crew of 3 means it is very vulnerable to [[T-26]], BT-5 or [[M8 General Scott (Family)|M8 Scott]] which all have explosive AP
+* Although top speed is good, it is still slower than other light tanks like the infamous BT-5, [[M8 Greyhound (Family)|M8 Greyhound]] and M3/M5
+* Poor damage of 20 mm shells means that new players cannot effectively destroy spacious tanks like [[LVT(A)(1)]]
+* Low penetration when not using HVAP-T rounds. When stock it is useless against a B1 bis or M3/M5 (frontally)
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 In 1934, the development of the new German tanks, which would be the [[Pz.III E|Panzer III]] and [[Pz.IV E|Panzer IV]], was falling behind schedule despite an urgent need for tanks. As a stopgap solution until the designs were finalized, the Germany Army submitted a request for a new tank, giving the responsibility of designing to Krupp, MAN, Henschel, and Daimler-Benz. The product was a design based off the German Panzer I light tank, but was larger with the addition of an extra bogie wheel and had a 20 mm autocannon as its main armament. The finished tank was designated the '''Panzer II''' and production was to start in 1935, but tank deliveries did not start until 18 months later. At this time, it was in a low rate production status by 1936. By the time the Panzer II reached the '''Ausf. C''' designation, it was fitted with an improved suspension system to support the tank's weight. The changes included five larger wheels attached to new leaf springs. In 1937, the Ausf. C entered full production with MAN and other manufacturers. Over 1,600 Panzer II light tanks were produced between 1937 to 1942.
 
@@ -249,37 +233,30 @@ Despite its outdated design and weak armament, the Pz.Kpfw. II Ausf. C was used 
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_II_ausf_C Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_II_ausf_C Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
-
-- [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
+* [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
-
-- [[Pz.II]]
+* [[Pz.II]]
 
 ;Other vehicles of similar configuration and role
-
-- [[T-60]]
+* [[T-60]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/2778/current|[Vehicle Profile] PzKpfw II Ausf C/F and DAK]]
+* [[wt:en/news/2778/current|[Vehicle Profile] PzKpfw II Ausf C/F and DAK]]
 
 {{Germany light tanks}}

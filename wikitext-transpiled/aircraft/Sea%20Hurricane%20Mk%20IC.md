@@ -12,9 +12,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British naval fighter {{Battle-rating}}. It was introduced in [[Update 1.49 "Weapons of Victory"]].
 
 The Hurricane is not a great climber and its optimal operating altitude is in the medium range. Between 4 and 5 km should suffice most combat situations. As a rule of thumb, it is advisable to gain some altitude in the initial stages of the battle. This will help with cruise speed and give you some altitude to trade in order to pick up additional speed. With the relatively low maximum speed of the Hurricane, extended chases are not practical though a quick dive on a bogey can provide a short-lived closure into firing range.
@@ -37,9 +35,7 @@ Unfortunately, the Sea Hurricane Mk IC is not able to carry any under-wing armam
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The Sea Hurricane Mk IC's flight performance is extremely similar to that of the Hurricane Mk I/L. It has rather good manoeuvrability and can win a dogfight or a head-on easily because of its strong structure and its four Hispano Mk.II cannons.
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -67,7 +63,7 @@ The Sea Hurricane Mk IC's flight performance is extremely similar to that of the
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -112,12 +108,11 @@ The Sea Hurricane Mk IC's flight performance is extremely similar to that of the
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 6.35 mm Steel - Armour plating in front of cockpit control panel
-- 12.7 mm Steel - Armour plating behind pilot's seat and headrest
-- 38 mm Bulletproof glass - Armoured windscreen
+* 6.35 mm Steel - Armour plating in front of cockpit control panel
+* 12.7 mm Steel - Armour plating behind pilot's seat and headrest
+* 38 mm Bulletproof glass - Armoured windscreen
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -126,19 +121,15 @@ The Sea Hurricane Mk IC's flight performance is extremely similar to that of the
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Hispano Mk.II (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 20 mm Hispano Mk.II cannons, wing-mounted (125 rpg = 500 total)
+* 4 x 20 mm Hispano Mk.II cannons, wing-mounted (125 rpg = 500 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 [[File:FighterImage_Sea_Hurricane_Mk.IC_2.jpg|250px|thumbnail|A Hawker Sea Hurricane IC firing its four 20 mm Hispano cannons in War Thunder.]]
 The aircraft can fulfil two roles: it either can take the role of a fighter or an attack aircraft. It excels as an interceptor (or bomber-hunter in War Thunder language).
 
@@ -151,27 +142,25 @@ The aircraft can fulfil various roles, though it does not particularly excel as 
 However, the disadvantages of the Hurricane design are also present in the Mark IC: the biggest concern being its rather fragile engine and airframe. Its soft skin and little protection means the Mark IIB can't take too much damage before it takes on critical damage. Once the aircraft is damaged, the plane often loses controllability, making survival far harder, as manoeuvrability is key for the British aircraft.
 
 ====Specific enemies worth noting====
-
 <!--Some concerning vehicles to worry about if playing this plane. (i.e. Japanese fighters will out turn you)-->
-
 [[File:FighterImage_MKICs_launch2.jpg|250px|thumbnail|Two Hawker Sea Hurricane Mk ICs launching from the deck of a carrier during a battle in War Thunder.]]
 '''Fighters'''
 
-- [[Bf 109 (Family)|Bf 109s]] & [[Fw 190 (Family)|Fw 190s]] - Although the latter are still not commonly encountered at its BR, both the 109 and the 190 pose a large threat due to the excellent firepower and great boom-and-zoom characteristics. Whilst German pilots that allow themselves to lured in turn fighting can be quickly destroyed, the boom-and-zoom tactics are hard to counter. The Hurricane packs a punch but can still be defeated by the German cannon power in a head-on engagement. It's more advisable to evade a head-on attack and try to engage after a quick turn. The Mark IC pilot should avoid boom and zoom attacks and try to lure the opponent into a turn to follow or a complete turn fight in order to get a gun solution on the target. The Sea Hurricane IC isn't fast enough nor has the high-altitude performance its German opponents have, so don't think about winning such a race in the long run.
+* [[Bf 109 (Family)|Bf 109s]] & [[Fw 190 (Family)|Fw 190s]] - Although the latter are still not commonly encountered at its BR, both the 109 and the 190 pose a large threat due to the excellent firepower and great boom-and-zoom characteristics. Whilst German pilots that allow themselves to lured in turn fighting can be quickly destroyed, the boom-and-zoom tactics are hard to counter. The Hurricane packs a punch but can still be defeated by the German cannon power in a head-on engagement. It's more advisable to evade a head-on attack and try to engage after a quick turn. The Mark IC pilot should avoid boom and zoom attacks and try to lure the opponent into a turn to follow or a complete turn fight in order to get a gun solution on the target. The Sea Hurricane IC isn't fast enough nor has the high-altitude performance its German opponents have, so don't think about winning such a race in the long run.
 
-- [[Bf 110 (Family)|Bf 110s]] - The Bf 110s are now no longer a big concern. The most dangerous scenarios remain head-on and boom-and-zoom attacks. The Bf 110 packs one of the biggest punches at its rank, though your four Hispanos outclass the German firepower. It is rather slow in turning and is a big target though, so if you do get a angle within convergence range, the Bf 110 can be taken out quite easily.
+* [[Bf 110 (Family)|Bf 110s]] - The Bf 110s are now no longer a big concern. The most dangerous scenarios remain head-on and boom-and-zoom attacks. The Bf 110 packs one of the biggest punches at its rank, though your four Hispanos outclass the German firepower. It is rather slow in turning and is a big target though, so if you do get a angle within convergence range, the Bf 110 can be taken out quite easily.
 
-- [[I-153P]] & [[I-16 type 28]] - Although the Sea Hurricane Mk IC never had to fight Russians in real life, War Thunder does bring this challenge. In general, the Russians have a major advantage here. Being more manoeuvrable and having good firepower available, the I-153 and I-16 can be a tough nut to crack. Avoid turn fights with these aircraft. You have the advantage of speed, but only marginally so. Avoid getting too close, unless you are leading the target. Never engage multiple Russian bogeys when lacking support by other teammates.
+* [[I-153P]] & [[I-16 type 28]] - Although the Sea Hurricane Mk IC never had to fight Russians in real life, War Thunder does bring this challenge. In general, the Russians have a major advantage here. Being more manoeuvrable and having good firepower available, the I-153 and I-16 can be a tough nut to crack. Avoid turn fights with these aircraft. You have the advantage of speed, but only marginally so. Avoid getting too close, unless you are leading the target. Never engage multiple Russian bogeys when lacking support by other teammates.
 
-- [[Yak-9 (Family)|Yak-9s]]: The Yak-9 sits somewhere between the agile I-153s & I-16s and the more advanced La-5s. The Yaks surpass the Hurricane in turn time and speed. On top of being superior in that field, the Yaks also bring a big punch to the battle. Unless you have a great ambush opportunity in your Sea Hurricane Mk IC, avoid the Yak-9 as an opponent.
+* [[Yak-9 (Family)|Yak-9s]]: The Yak-9 sits somewhere between the agile I-153s & I-16s and the more advanced La-5s. The Yaks surpass the Hurricane in turn time and speed. On top of being superior in that field, the Yaks also bring a big punch to the battle. Unless you have a great ambush opportunity in your Sea Hurricane Mk IC, avoid the Yak-9 as an opponent.
 
-- [[La-5 (Family)|La-5s]]: Although the La-5s are a very tough opponent, the La-5s do not match the Hurricane's turn speed. Ergo: turn-fighting is your best option here. Avoid being caught in a boom-and-zoom situation as a target: the La-5 is fast, has great energy conservation and has a deadly punch with its two ShVAK 20 mm cannons. Try to catch the La-5s below you, where you have the advantage of energy. The La-5s do not carry a lot of ammunition, so making them expend their rounds is a good albeit very dangerous tactic.
+* [[La-5 (Family)|La-5s]]: Although the La-5s are a very tough opponent, the La-5s do not match the Hurricane's turn speed. Ergo: turn-fighting is your best option here. Avoid being caught in a boom-and-zoom situation as a target: the La-5 is fast, has great energy conservation and has a deadly punch with its two ShVAK 20 mm cannons. Try to catch the La-5s below you, where you have the advantage of energy. The La-5s do not carry a lot of ammunition, so making them expend their rounds is a good albeit very dangerous tactic.
 
-- American fighters - The US fighter aircraft at this rank are faster than the Sea Hurricane Mk IC - not just a bit, but really fast (the [[P-47 (Family)|P-47]] will do almost 200 km/h more than your Mk IC). These opponents also often approach your aircraft capabilities in terms of firepower. Turn fighting is key here - avoid being caught in boom-and-zoom fights with your speedier American opponents, as they will race past you while they take snapshots with their impressive firepower.
+* American fighters - The US fighter aircraft at this rank are faster than the Sea Hurricane Mk IC - not just a bit, but really fast (the [[P-47 (Family)|P-47]] will do almost 200 km/h more than your Mk IC). These opponents also often approach your aircraft capabilities in terms of firepower. Turn fighting is key here - avoid being caught in boom-and-zoom fights with your speedier American opponents, as they will race past you while they take snapshots with their impressive firepower.
 
 '''Bombers'''
 
-- For all bomber targets you may encounter the tactics are bound by two main considerations: lack of ammunition and vulnerability of the Sea Hurricane IC. Engaging targets with speed advantage and firing within the convergence zone allows you to really do damage. The Mark IC is an excellent interceptor or bomber hunter, though in the hands of a novice pilot this will likely mean many return trips to base to reload those guns. Get accurate and await a powerful shooting solution.
+* For all bomber targets you may encounter the tactics are bound by two main considerations: lack of ammunition and vulnerability of the Sea Hurricane IC. Engaging targets with speed advantage and firing within the convergence zone allows you to really do damage. The Mark IC is an excellent interceptor or bomber hunter, though in the hands of a novice pilot this will likely mean many return trips to base to reload those guns. Get accurate and await a powerful shooting solution.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -191,31 +180,27 @@ However, the disadvantages of the Hurricane design are also present in the Mark 
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 [[File:FighterImage_MkIC_sea.jpg|250px|thumbnail|Two Sea Hurricane Mk ICs over the sea, just after launching into battle in War Thunder.]]
 
 '''Pros:'''
 
-- Good manoeuvrability
-- Good handling characteristics / easy to fly
-- Excellent over-the-nose visibility ensures easy tracking and leading in cockpit view
-- Is a stable gun platform with very smooth handling with simulator controls
-- Extreme firepower with 4 x 20 mm cannons
-- The cannons equipped with a Ground Targets belt are effective in a ground attack role
+* Good manoeuvrability
+* Good handling characteristics / easy to fly
+* Excellent over-the-nose visibility ensures easy tracking and leading in cockpit view
+* Is a stable gun platform with very smooth handling with simulator controls
+* Extreme firepower with 4 x 20 mm cannons
+* The cannons equipped with a Ground Targets belt are effective in a ground attack role
 
 '''Cons:'''
 
-- Low structural strength / fragile engine and airframe
-- Low ammunition capacity
-- Low maximum speed & acceleration / doesn't intercept or chase well
-- Tough matchmaking at its BR / hard aircraft for novice pilots
+* Low structural strength / fragile engine and airframe
+* Low ammunition capacity
+* Low maximum speed & acceleration / doesn't intercept or chase well
+* Tough matchmaking at its BR / hard aircraft for novice pilots
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 [[File:Swordfish and Sea Hurricane aboard HMS Striker.jpg|250px|thumbnail|A Hawker Sea Hurricane Mk. IC taking off with Fairey Swordfish aircraft alongside during an anti-submarine sweep from on board HMS Striker]]
 As the Fleet Air Arm (FAA) was very slow on developing a modern ship-borne fighter in the interbellum, the Gloster Gladiator was adapted to the role in 1938. However, the situation in Norway in 1940 made it painfully clear that the RAF was not able to support expeditionary operations from bases in the United Kingdom and the Gladiator was very much obsolete. To worsen the crisis, Britain had lost HMS Courageous and Glorious in the failed Norwegian campaign and had no quick way to replace the carriers. During the campaign however, valuable experience was gained with Hurricanes of RAF No. 46 Squadron, as the aircraft proved that using it on a carrier was possible during the Squadrons transfer to Norway. A solution was needed.<ref name="hh1">[https://www.amazon.com/Hawker-Hurricane-Comprehensive-Modeller-Modellers/dp/095334651X The Hawker Hurricane: A Comprehensive Guide for the Modeller], Franks (1999), ''"The Hawker Hurricane: A Comprehensive Guide for the Modeller"'', SAM Publications, ISBN10: 095334651X</ref>
 
@@ -232,12 +217,11 @@ The last big action for Sea Hurricanes occurred during Operation Torch, the land
 After Operation Torch, the front line use of Sea Hurricanes diminished as more potent fighters, such as Seafires, Wildcats and Hellcats became available. Nonetheless the Sea Hurricane continued its service in escort to convoys to Russia and on the Atlantic. On 26 May 1944 No. 835 Squadron claimed the last Sea Hurricane victories: two Junkers Ju 290s destroyed on a convoy run to North Russia. The final sorties were flown by Sea Hurricanes of No. 824 Squadron, before re-equipping with Wildcats during the summer of 1944, thus ending the three-year service of the Sea Hurricane during World War II.<ref name="aas" /> Although the achievements of the Sea Hurricane were humbler than its land-based Hurricane sibling, the aircraft and its crew provided much needed protection to convoys when no other means were available to protect this lifeline to the British Isles. The aircraft and pilots provided naval air power for Britain in a time when means were limited and German dominance was not yet broken. A job that was crucial, though is often overlooked.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=hurricane_mk1c Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=hurricane_mk1c Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover" heights="150">
@@ -250,16 +234,15 @@ Image:FighterImage_MKICs_launch.jpeg|<small>Hawker Sea Hurricane ICs ready to la
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://docs.google.com/spreadsheets/u/1/d/1KRPfVbI_gJhPVPRyvO3i7HA85tTeu-5y8kWfnOuuv38/pubhtml?gid=971574216&single=true Official data sheet - more details about performance]<!-- from https://forum.warthunder.com/index.php?/topic/235942-hawker-sea-hurricane-mk-ic/ -->
+* [https://docs.google.com/spreadsheets/u/1/d/1KRPfVbI_gJhPVPRyvO3i7HA85tTeu-5y8kWfnOuuv38/pubhtml?gid=971574216&single=true Official data sheet - more details about performance]<!-- from https://forum.warthunder.com/index.php?/topic/235942-hawker-sea-hurricane-mk-ic/ -->
 
 === References ===
 <references />

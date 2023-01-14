@@ -12,9 +12,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British jet fighter {{Battle-rating}}. It was introduced in [[Update 1.85 "Supersonic"]] as a [[wt:en/news/5924-development-shop-jet-packs-en|premium pack]] in the Gaijin store, but was discontinued after [[wt:en/news/6464-shop-war-thunder-birthday-sale-en|War Thunder's 7th Anniversary]]. It was later reintroduced as a premium purchasable for Golden Eagles {{ge}} after [[wt:en/news/6907-special-8th-anniversary-of-war-thunder-en|War Thunder's 8th Anniversary]].
 
 The ''Reaper'' is a dedicated ground-attack variant based on the 'standard' Meteor F Mk.8 (G.41K) fighter-bomber which did not progress beyond its prototype stage. Thanks to a number of modifications, it would have been capable of carrying twice the payload of the standard Meteor F.8. However, combat experience of the Meteor F.8 in Korea showed that the base type had reached its technical limitations and would have been outclassed in any future conflict; the appearance of more modern types such as the Hawker Hunter and Supermarine Swift - and equivalent foreign designs - led to a loss of interest in the type.
@@ -22,7 +20,6 @@ The ''Reaper'' is a dedicated ground-attack variant based on the 'standard' Mete
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -50,7 +47,7 @@ The ''Reaper'' is a dedicated ground-attack variant based on the 'standard' Mete
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -116,20 +113,19 @@ The ''Reaper'' is a dedicated ground-attack variant based on the 'standard' Mete
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
 ;Armour plates
 
-- 38 mm (60°) Bulletproof glass in cockpit front.
-- 12.7 mm Steel plate in the nose.
-- 12.7 mm Steel plate behind the pilot.
+* 38 mm (60°) Bulletproof glass in cockpit front.
+* 12.7 mm Steel plate in the nose.
+* 12.7 mm Steel plate behind the pilot.
 
 ;Critical components
 
-- Self-sealing fuel tanks are located behind the pilot on the central airframe.
-- Engines and cooling systems are in the wings.
-- Traction cables of control surfaces run in the tail section and in the wings.
+* Self-sealing fuel tanks are located behind the pilot on the central airframe.
+* Engines and cooling systems are in the wings.
+* Traction cables of control surfaces run in the tail section and in the wings.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -138,40 +134,34 @@ The ''Reaper'' is a dedicated ground-attack variant based on the 'standard' Mete
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Hispano Mk.V (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 20 mm Hispano Mk.V cannons, nose-mounted (200 rpg upper + 180 rpg lower = 780 total)
+* 4 x 20 mm Hispano Mk.V cannons, nose-mounted (200 rpg upper + 180 rpg lower = 780 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|G.P. Mk.IV (500 lb)|M.C. Mk.I (1,000 lb)|H.E. M.C. Mk.13 (1,000 lb)|RP-3}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 4 x 500 lb G.P. Mk.IV bombs (2,000 lb total)
-- 4 x 1,000 lb H.E. M.C. Mk.13 bombs (4,000 lb total)
-- 4 x 1,000 lb M.C. Mk.I bombs (4,000 lb total)
-- 24 x RP-3 rockets
-- 16 x RP-3 rockets + 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
-- 16 x RP-3 rockets + 2 x 1,000 lb H.E. M.C. Mk.13 bombs (2,000 lb total)
-- 16 x RP-3 rockets + 2 x 1,000 lb M.C. Mk.I bombs (2,000 lb total)
+* Without load
+* 4 x 500 lb G.P. Mk.IV bombs (2,000 lb total)
+* 4 x 1,000 lb H.E. M.C. Mk.13 bombs (4,000 lb total)
+* 4 x 1,000 lb M.C. Mk.I bombs (4,000 lb total)
+* 24 x RP-3 rockets
+* 16 x RP-3 rockets + 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
+* 16 x RP-3 rockets + 2 x 1,000 lb H.E. M.C. Mk.13 bombs (2,000 lb total)
+* 16 x RP-3 rockets + 2 x 1,000 lb M.C. Mk.I bombs (2,000 lb total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 '''As a fighter:'''
 
-The Meteor Mk. 8 can play both as an energy fighter and a turn fighter. While not as manoeuvrable as a Vampire or a Venom, it can still outturn most of its opposition, but will bleed a lot of precious speed doing so. It's often better to energy trap your target, and save turnfights for emergencies or for times you're sure no third party would interfere.
+The Meteor Mk. 8 can play both as an energy fighter and a turn fighter. While not as manoeuvrable as a Vampire or a Venom, it can still outturn most of its opposition, but will bleed a lot of precious speed doing so. It's often better to energy trap your target, and save turnfights for emergencies or for times you're sure no third party would interfere. 
 
 The Meteor's control surfaces work best in the 400-700 km/h range, but they don't lock up too badly even at the red line. Below 300 km/h, it begins to really struggle, even with flaps out. The rudder is pretty weak, so you will often find yourself slipping to the side for a while after exiting a hard turn.
 
@@ -181,10 +171,10 @@ Finally, there is no optimal option for fuel load. 6 minutes of fuel is just abo
 
 Notable enemies:
 
-- [[La-200]] will outrun you in most circumstances. It has relatively small ammo pool and bad at turning, so practice defensive flying.
-- [[A28B]], Italian [[Vampire FB 52A]], and [[Ho 229 V3]]: These can and will outturn you if given the opportunity, but are generally slower than Meteor in a straight line.
-- [[Ki-200]] and [[Me 163 B]] will both outrun and outturn you. Getting a numerical advantage is your best bet.
-- [[G.91 (Family)|G.91 series]] have higher max speed than you and can keep up in turns. R/4 variant also has air to air missiles that you will need to be careful around. It doesn't have the best energy retention, so depending on the situation, you may turnfight them into a stall, or at least force it to do 180 and run away for a while.
+* [[La-200]] will outrun you in most circumstances. It has relatively small ammo pool and bad at turning, so practice defensive flying.
+* [[A28B]], Italian [[Vampire FB 52A]], and [[Ho 229 V3]]: These can and will outturn you if given the opportunity, but are generally slower than Meteor in a straight line.
+* [[Ki-200]] and [[Me 163 B]] will both outrun and outturn you. Getting a numerical advantage is your best bet.
+* [[G.91 (Family)|G.91 series]] have higher max speed than you and can keep up in turns. R/4 variant also has air to air missiles that you will need to be careful around. It doesn't have the best energy retention, so depending on the situation, you may turnfight them into a stall, or at least force it to do 180 and run away for a while.
 
 '''As a ground attacker:'''
 
@@ -195,24 +185,20 @@ Rockets: 24 RP-3 rockets can decimate ground units. However, 2/3 of them are win
 The Hispano Mk.V's AP rounds can damage light pillboxes, so if you find no enemies to use your ammo on, you can always take out 5-6 pillboxes on your way back for a neat profit.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 '''Pros:'''
 
-- Effective in turnfights
-- High ammo capacity
-- Strong ground attack loadouts
+* Effective in turnfights
+* High ammo capacity
+* Strong ground attack loadouts
 
 '''Cons:'''
 
-- Mediocre top speed
-- Slow acceleration
+* Mediocre top speed
+* Slow acceleration
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 With the appearance of the Meteor F.8 (Type G.41K) in 1949, which offered an overall improved performance over the earlier F.4 variant, a number of studies were launched aimed at increasing the versatility of the Meteor. One obvious path given the type's improved performance and stability as a gun platform was that of a dedicated ground attack platform, the so-called ''Ground Attack Fighter'' (GAF, or G.44), which was started as a private venture by Gloster.
 
 Initial studies of the GAF foresaw the modification of a standard F.8 airframe with new outer wing panels, fitted with 4 additional 20 mm Hispano cannons similar to the armament lay-out on the Meteor NF.11 night fighter variant, albeit with cropped wing tips similar to those on the standard F.8. This early design initially presented some problematic flight characteristics, mostly linked to the wing's reduced torsional stiffness caused by the wing gun bays: aileron reversal set in at speeds above 885 km/h (550 mph), which was considered unacceptable for a single-seater fighter-bomber. Work was done to rectify this, and eventually the reinforced wings allowed a maximum speed of 965 km/h (600 mph) while retaining the wing-mounted armament of four Hispano cannons with 160 rounds each.
@@ -230,12 +216,11 @@ Eventually, with the appearance of more capable designs, interest in any Gloster
 Following local conversion to a target tug, the former Reaper prototype, now Meteor T.7 SE-DCC, entered service with ''Svensk Flygtjänsk AB'' in February of 1960, remaining in service until July 27th 1974. Following a short stay at the Flygvapenmuseum or Swedish Air Museum at Linköping from September 1974 until September 1976, she ended up in 1977 at the ''Svedinos Bil- och Flygmuséum'' (Svedinos car and aircraft museum) in Ugglarp, where restoration was started in 2012 with the intention of cosmetically restoring her to her appearance as the Gloster company demonstrator G-ANSO (albeit retaining her appearance as a 'standard' T.7).
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=meteor_fmk8_reaper Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=meteor_fmk8_reaper Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|CtFA7r6OTiw|'''The Shooting Range #144''' - ''Metal Beasts'' section at 00:32 discusses the {{PAGENAME}}.|VHJN6ZWOmnY|'''The bane of tanks''' discusses the {{PAGENAME}} at 3:45 - ''War Thunder Official Channel''}}
@@ -243,17 +228,16 @@ Following local conversion to a target tug, the former Reaper prototype, now Met
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/5924-development-shop-jet-packs-en|[Shop] Jet Packs!]]
-- [https://forum.warthunder.com/index.php?/topic/264949-gloster-meteor-f-mk8-g41k/ Official data sheet - more details about the performance]
+* [[wt:en/news/5924-development-shop-jet-packs-en|[Shop] Jet Packs!]]
+* [https://forum.warthunder.com/index.php?/topic/264949-gloster-meteor-f-mk8-g41k/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Gloster}}
 {{Britain jet aircraft}}

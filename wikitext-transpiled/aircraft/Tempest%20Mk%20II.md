@@ -9,17 +9,13 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The Tempest Mk II is the last propeller-driven aircraft in the Hawker line and is a fitting send-off. With its sleek airframe, extremely powerful Centaurus engine and heavy weight, it holds one of the highest top speeds of any traditional prop aircraft in the game and acceleration to match. However, it only keeps these advantages below 3,000 m, as above that the engine will asphyxiate and you will notice a drastic decrease in performance.
 
 Boom & Zoom is this aircraft's forté, and is the main way you should fly it. It can easily abuse its brutal speed and acceleration combined with the amazing dive speed and powerful weaponry to blitz any aircraft that it sets its sights on. On the flip side, the heavy weight means it fares very poorly in manoeuvre fights as most propeller aircraft (and some jet-powered ones) will easily turn circles around it.
@@ -49,7 +45,7 @@ Boom & Zoom is this aircraft's forté, and is the main way you should fly it. It
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -102,11 +98,10 @@ Boom & Zoom is this aircraft's forté, and is the main way you should fly it. It
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 16.9 mm Steel - Armour plate behind pilot's seat and headrest
-- 44.5 mm Bulletproof glass - Armoured windscreen
+* 16.9 mm Steel - Armour plate behind pilot's seat and headrest
+* 44.5 mm Bulletproof glass - Armoured windscreen
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -115,34 +110,28 @@ Boom & Zoom is this aircraft's forté, and is the main way you should fly it. It
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Hispano Mk.V (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 20 mm Hispano Mk.V cannons, wing-mounted (156 rpg outer + 162 rpg inner = 636 total)
+* 4 x 20 mm Hispano Mk.V cannons, wing-mounted (156 rpg outer + 162 rpg inner = 636 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|M.C. 1,000 lb Mk.I (1,000 lb)|RP-3}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 250 lb G.P. Mk.IV bombs (500 lb total)
-- 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
-- 2 x 1,000 lb M.C. 1,000 lb Mk.I bombs (2,000 lb total)
-- 8 x RP-3 rockets
+* Without load
+* 2 x 250 lb G.P. Mk.IV bombs (500 lb total)
+* 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
+* 2 x 1,000 lb M.C. 1,000 lb Mk.I bombs (2,000 lb total)
+* 8 x RP-3 rockets
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The main tactic for the Tempest II is high-speed combat. With a weight of over 5,000 kg, and a peak WEP power of 2,500 hp it can accelerate very fast in a dive. This means that less altitude is traded for the same gain in speed compared to other props.
 
 The second main benefit from the extra weight is that the plane can hold the speed gained from a dive for a long time. Additionally, the plane has a very sleek airframe, which means that its top speed is one of the highest of any prop in the game. Considering this data, the plane should be flown in high-speed shallow manoeuvres.
@@ -176,32 +165,29 @@ There's not much one can do while a Tempest II is diving on your aircraft, as it
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Strong engine providing excellent performance below 3,000 m (9,840 ft)
-- Excellent climb rate and acceleration up to 3,500 m
-- Dives very well (low parasitic drag)
-- Reasonably decent roll rate
-- Very agile at moderate speeds
-- Very high speed in level flight for a propeller-driven aircraft: can maintain a speed of 670 km/h at sea level
-- Solid firepower
-- Can land on carriers if absolutely necessary
+* Strong engine providing excellent performance below 3,000 m (9,840 ft)
+* Excellent climb rate and acceleration up to 3,500 m
+* Dives very well (low parasitic drag)
+* Reasonably decent roll rate
+* Very agile at moderate speeds
+* Very high speed in level flight for a propeller-driven aircraft: can maintain a speed of 670 km/h at sea level
+* Solid firepower
+* Can land on carriers if absolutely necessary
 
 '''Cons:'''
 
-- Poor performance at high altitudes
-- Often gets matches with early rank 5 aircraft (early jets)
-- Sub-par turning radius
-- Difficult to aim at high speed
-- Doesn't climb as well as its German or Italian counterparts
+* Poor performance at high altitudes
+* Often gets matches with early rank 5 aircraft (early jets)
+* Sub-par turning radius
+* Difficult to aim at high speed
+* Doesn't climb as well as its German or Italian counterparts
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The creation of this plane also came with an older counterpart, the Tempest Mk V. The Mk II has a different engine than the Mk V which is why they seem different. The Mk II's were used later in the war than the Mk V's.
 
 {{break}}
@@ -215,31 +201,26 @@ The first two Tempest II squadrons were No.54 and No.247 in autumn 1945. Only tw
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=tempest_mk2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=tempest_mk2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|n9KdgbSzla8|'''The Shooting Range #23''' - ''Pages of History'' section at 05:58 discusses the Tempest and its engine.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
-- [[Typhoon (Family)]] - the aircraft the Tempest evolved from
+* [[Typhoon (Family)]] - the aircraft the Tempest evolved from
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer Hawker}}
 {{Britain fighters}}

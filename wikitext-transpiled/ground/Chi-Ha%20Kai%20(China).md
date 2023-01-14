@@ -9,22 +9,19 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese medium tank {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 The Chi-Ha Kai has little to no armour against its common opponents like the [[Pz.II (Disambiguation)|Pz.II]]. It has only 25 mm of armour on the turret cheeks and the frontal plate, and 20-25 mm at the hull sides. Its thin armour might only, with some luck, bounce off some autocannon shells while angling, or block the low penetration shells from a distance. Unfortunately, when being hit and penetrated, the Chi-Ha Kai is usually destroyed with one or two shots. However, this tank has a fairly small frontal profile, making it harder to be hit. Also, for the guns lacking post-penetration damage, the Chi-Ha Kai has an alright survivability, as it has a total of 5 crews and they are fairly spaced out due to the long hull. The huge transmission system at the front of the tank can also serve as further protection for the crew members, at the price of making the tank immobile and thus vulnerable.
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
+* Rolled homogeneous armour
 
 {| class="wikitable"
 |-
@@ -39,11 +36,10 @@ The Chi-Ha Kai has little to no armour against its common opponents like the [[P
 |}
 '''Notes''':
 
-- Suspension wheels and tracks are 15 mm thick.
+* Suspension wheels and tracks are 15 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=263|rbMinHp=150}}
@@ -57,9 +53,7 @@ In general, this tank can get to pretty much anywhere an average medium tank can
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|Type 1 (47 mm)}}
 
 The Chi-Ha Kai is armed with a [[Type 1 (47 mm)|47 mm Type 1]] cannon with a maximum of 104 rounds. The 75 mm penetration at 100 m makes it easy to penetrate most of its opponents at its battle rating, and if penetrated, the damage is usually big enough to destroy a tank. The fast reload time (about 4 seconds) allows it to quickly fire the second shell if the first one missed or didn't penetrate. It has an amazing depression of 15 degrees and a vertical stabiliser that works when your tank is slower than 11 km/h, which are always the advantages. However the shells drop dramatically at long distances, making it hard to snipe the enemies far away.
@@ -113,9 +107,7 @@ The Chi-Ha Kai is armed with a [[Type 1 (47 mm)|47 mm Type 1]] cannon with a max
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Chi-Ha_Kai.png|right|thumb|x250px|[[Ammo racks]] of the [[Chi-Ha Kai]].]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -136,9 +128,7 @@ Turret empty: 66&nbsp;''(+48)''
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|Type 97 (7.7 mm)}}
 
 The Chi-Ha Kai has a [[Type 97 (7.7 mm)|7.7 mm Type 97]] machine gun mounted on the left side of the hull, and another on the turret roof. While it has enough ammunition, this machine gun is just simply not good enough. The rate of fire is below average, the penetration is bad, one can only fire forward, and there are only about 25 bullets in each magazine, making it impossible to provide a continuous machine-gun fire. The one things these machine guns can do is to incapacitate the fully exposed crews on some vehicles, as even a bit of armour might block out the weak bullets. The roof mounted gun can ward off some low-flying strafing planes but it is still inferior comparing to other machine guns like the American M1919 or M2HB.
@@ -156,7 +146,6 @@ The Chi-Ha Kai has a [[Type 97 (7.7 mm)|7.7 mm Type 97]] machine gun mounted on 
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The Chi-Ha Kai is best used as a front line support vehicle. Although it has its down sides, a player who knows this tank well can utilise its interesting potentials. Stay close to your teammates, and try to use its manoeuvrability to flank the enemies when possible, while being careful and sneaky as it can be knocked out with a single shot by a lot of tanks.
@@ -167,32 +156,29 @@ The next tactic is better in the towns, involving the use of your stabiliser. Tr
 
 '''Enemies worth noting:'''
 
-- B1 bis / ter: the B1 can easily destroy the Chi-Ha when using both of its guns, but when angling only the 47 mm gun is available, meaning that the Chi-Ha can take some more hits. It is very hard to destroy the Char B1 from a distance, so get as close as possible with the ideal range being no more than 300 m. Aim at their flat hull side, turret side, hull cannon mount or the driving compartment (the near-vertical frontal armour right below the turret). Upon penetrating, the Chi-Ha's 47 mm APHE can knock out several crews, and your quick reload allows you to finish the rest off in time. However if the B1 has folded armour plates on their hull sides then it is a B1 ter, avoid shooting at its sides.
+* B1 bis / ter: the B1 can easily destroy the Chi-Ha when using both of its guns, but when angling only the 47 mm gun is available, meaning that the Chi-Ha can take some more hits. It is very hard to destroy the Char B1 from a distance, so get as close as possible with the ideal range being no more than 300 m. Aim at their flat hull side, turret side, hull cannon mount or the driving compartment (the near-vertical frontal armour right below the turret). Upon penetrating, the Chi-Ha's 47 mm APHE can knock out several crews, and your quick reload allows you to finish the rest off in time. However if the B1 has folded armour plates on their hull sides then it is a B1 ter, avoid shooting at its sides.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Improved sloped armour compared to the reserve vehicles
-- Quite fast (up to 44 km/h), allowing it to get to certain spots in time
-- Lovely climbing ability combined with the amazing -15 degrees gun depression, it is great at mountain combat
-- Has a vertical stabiliser which most tanks don't have, allowing the Chi-Ha Kai to get the first shot off
-- Decent cannon can frontally penetrate common targets like [[M3 Lee]] and [[T-70]]
-- Great turning ability in low gear
-- Five-man crew with some space between the driving & fighting compartment improves survivability from previous models
+* Improved sloped armour compared to the reserve vehicles
+* Quite fast (up to 44 km/h), allowing it to get to certain spots in time
+* Lovely climbing ability combined with the amazing -15 degrees gun depression, it is great at mountain combat
+* Has a vertical stabiliser which most tanks don't have, allowing the Chi-Ha Kai to get the first shot off
+* Decent cannon can frontally penetrate common targets like [[M3 Lee]] and [[T-70]]
+* Great turning ability in low gear
+* Five-man crew with some space between the driving & fighting compartment improves survivability from previous models
 
 '''Cons:'''
 
-- Its penetration may be underpowered in an uptier, especially in frontal engagements against a [[B1 bis]] or [[Matilda III|Matilda]]
-- The thin armour can be penetrated by 20 mm cannons or .50 cal HMGs up close
-- Bad turning while driving
+* Its penetration may be underpowered in an uptier, especially in frontal engagements against a [[B1 bis]] or [[Matilda III|Matilda]]
+* The thin armour can be penetrated by 20 mm cannons or .50 cal HMGs up close
+* Bad turning while driving
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 {{main|Chi-Ha (Family)|l1=History of the Type 97 Chi-Ha}}
 
 [[File:Gongchen Chi-Ha Kai Propaganda.jpg|thumb|PLA "Gongchen" Chi-Ha Kai]]
@@ -214,12 +200,10 @@ In October 1948, the battle of Jinzhou began. The Chinese had the "102" Chi-ha a
 After the battle, the "102" Chi-ha was renamed "Gongchen tank" (功臣號, meaning "Heroic tank") for its excellent performance in the battle. It also honourably led the victory parade at Tiananmen Square on 1st October 1949. Retired in 1959, the tank is now displayed in the Military Museum of the Chinese People's Revolution in Beijing.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=cn_type_97_kai Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=cn_type_97_kai Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover"  heights="150">
@@ -232,17 +216,15 @@ Image:PLA Gongchen Chi-Ha Kais on Parade, Tiennamen Square, 1949.jpg|<small>Two 
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://tanks-encyclopedia.com/ww2/china/gongchen_tank <nowiki>[Tanks Encyclopedia]</nowiki> Gongchen Tank & Chi-Ha (Chinese Service)]
+* [https://tanks-encyclopedia.com/ww2/china/gongchen_tank <nowiki>[Tanks Encyclopedia]</nowiki> Gongchen Tank & Chi-Ha (Chinese Service)]
 
 {{TankManufacturer Mitsubishi}}
 {{China medium tanks}}

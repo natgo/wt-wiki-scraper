@@ -9,17 +9,13 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Battle-rating}}. It was introduced in [[Update "New Power"]]. Like all members of the [[Harrier (Family)|Harrier family]], the Harrier GR.3 is a [[VTOL]] aircraft with thrust vectoring nozzles, which allow it to take off and land vertically.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
 ! colspan="2" | Max Speed<br>(km/h at 0 m - sea level)
@@ -45,7 +41,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Batt
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -112,9 +108,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Batt
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 The Harrier GR.3 has no armour. The engine and all fuel tanks are packed in a tight cluster in the centre of the fuselage.
 
 === Modifications and economy ===
@@ -135,33 +129,29 @@ Your first priorities should be flares and then AIM-9Gs (if you are planning to 
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|ADEN Mk.4 (30 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 2 x 30 mm ADEN Mk.4 cannons, belly-mounted (130 rpg = 260 total)
-  ** 2 x 30 mm ADEN Mk.4 cannons + 60 x countermeasures
+* A choice between two presets:
+** 2 x 30 mm ADEN Mk.4 cannons, belly-mounted (130 rpg = 260 total)
+** 2 x 30 mm ADEN Mk.4 cannons + 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|H.E. M.C. Mk.II (500 lb)|H.E. M.C. Mk.13 (1,000 lb)|AIM-9G Sidewinder|SNEB type 23}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x AIM-9G Sidewinder missiles
-- 108 x SNEB type 23 rockets
-- 5 x 500 lb H.E. M.C. Mk.II bombs (2,500 lb total)
-- 4 x 500 lb H.E. M.C. Mk.II bombs (2,000 lb total)
-- 3 x 1,000 lb H.E. M.C. Mk.13 bombs (3,000 lb total)
-- 4 x 1,000 lb H.E. M.C. Mk.13 bombs (4,000 lb total)
+* Without load
+* 2 x AIM-9G Sidewinder missiles
+* 108 x SNEB type 23 rockets
+* 5 x 500 lb H.E. M.C. Mk.II bombs (2,500 lb total)
+* 4 x 500 lb H.E. M.C. Mk.II bombs (2,000 lb total)
+* 3 x 1,000 lb H.E. M.C. Mk.13 bombs (3,000 lb total)
+* 4 x 1,000 lb H.E. M.C. Mk.13 bombs (4,000 lb total)
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -184,14 +174,12 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 Despite originally being designed as a ground-attack aircraft, the Harrier GR.3 can be considered a multi-role aircraft that can focus on air-to-air combat, air to ground combat and air to sea combat. Its firepower and ordnance make it a competitive aircraft in all game modes. The roles can be divided into:
 
 '''As fighter:'''
 
-The Harrier has access to AIM-9G Sidewinder air to air missiles capable of taking down all enemy aircraft in the game. It should be noted that the AIM-9G is a rear-aspect lock-on missile, meaning the Harrier must be behind the enemy aircraft to be able to launch the missile. It is not recommended to use them against enemy helicopters neither, since the IR seeker requires a rear-aspect lock; thus the autocannons are way more effective.
+The Harrier has access to AIM-9G Sidewinder air to air missiles capable of taking down all enemy aircraft in the game. It should be noted that the AIM-9G is a rear-aspect lock-on missile, meaning the Harrier must be behind the enemy aircraft to be able to launch the missile. It is not recommended to use them against enemy helicopters neither,  since the IR seeker requires a rear-aspect lock; thus the autocannons are way more effective.
 
 When fighting enemy fighters, it is best to launch your AIM-9Gs from 2.5 to 3 km away as they are agile enough to be able to take down any enemy jet. It is also best to not engage in a turnfight as almost any aircraft is more manoeuvrable than you are making you an easy target for enemy guns and missiles.
 
@@ -207,7 +195,7 @@ When facing player-controlled attackers ([[A-4E Early]] for example), the pilot 
 
 The Harrier has access to a wide variety of ground ordnance capable of destroying enemy ground units and bases. It also has access to CCIP ballistics computer (refer to [[Ballistic Computer]] for explanation) meaning the pilot has access to ground ordnance crosshairs which will increase ordnance accuracy, both rockets and bombs. It is not recommended to fly as a bomber (in terms of altitude) but fly as a tree cutter (as close to the ground as possible). This is recommended to achieve multiple things: radar interference, max speed, reduce enemy visibility and awareness. It also makes bombing easier without the need of ballistics computer (although it is recommended to use it since it will not require any practice). Time fuze MUST BE ADDED to avoid assault fuze explosion, risking your plane to be hit by the explosion causing a death. Ground striking ordnance should be taken at pilot's discretion, but it is recommended to take the 3 x 1,000 lb bombs in order to take a whole base completely and still maintain high speeds. This bomb loadout and AAM are recommended if the pilot wants to engage enemy air targets upon taking an enemy base.
 
-''\*Note: radar interference is mostly irrelevant in air realistic battles as the plane will still be highlighted and enemy pilots could use eye aiming. However, it will interfere with radar homing missiles (SARH missiles such as AIM-7E, R-3R, etc carried by F-4 Phantoms and MiG-21's) and will be your main line of defence when flying in simulator battles, you will be able to fly stealthily if flying in tree cutting tactic.''
+''*Note: radar interference is mostly irrelevant in air realistic battles as the plane will still be highlighted and enemy pilots could use eye aiming. However, it will interfere with radar homing missiles (SARH missiles such as AIM-7E, R-3R, etc carried by F-4 Phantoms and MiG-21's) and will be your main line of defence when flying in simulator battles, you will be able to fly stealthily if flying in tree cutting tactic.''
 
 '''When in combined battles (ground realistic battles):'''
 
@@ -226,30 +214,27 @@ This is the trickiest but most rewarding payload the Harrier can carry (rewardin
 Harrier can be used as a helicopter thanks to the VTOL capabilities, rockets are recommended if used like this. It is able to hide behind mountains, poke to attack and go back into cover as a helicopter would do. Handling this technique can be tricky and will require practice but is an alternate way of playing CAS.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 '''Pros:'''
 
-- Exceptional thrust to weight ratio
-- Extremely good acceleration, even without WEP
-- Vertical Take-off and Landing capabilities
-- At the expense of speed, can improve manoeuvrability significantly with the use of thrust vectoring nozzles
-- [[AIM-9G]] missiles have long range and good turning capability
-- Countermeasures and RWR available, unlike the [[Harrier GR.1]]
-- CCIP available for accurate use of unguided weapons
-- Has a [[HUD#410SUM1|Head-Up Display]] in the cockpit which provides flight information and weapon aiming functionality
+* Exceptional thrust to weight ratio
+* Extremely good acceleration, even without WEP
+* Vertical Take-off and Landing capabilities
+* At the expense of speed, can improve manoeuvrability significantly with the use of thrust vectoring nozzles
+* [[AIM-9G]] missiles have long range and good turning capability
+* Countermeasures and RWR available, unlike the [[Harrier GR.1]]
+* CCIP available for accurate use of unguided weapons
+* Has a [[HUD#410SUM1|Head-Up Display]] in the cockpit which provides flight information and weapon aiming functionality
 
 '''Cons:'''
 
-- Engine overheats extremely quickly at high throttle and WEP
-- Below average top speed
-- Poor energy retention; bleeds speed quickly in turns
-- Rather light payload options for a strike aircraft
-- ADEN Cannons have low velocity and under-fuselage placement makes it awkward to aim
+* Engine overheats extremely quickly at high throttle and WEP
+* Below average top speed
+* Poor energy retention; bleeds speed quickly in turns
+* Rather light payload options for a strike aircraft
+* ADEN Cannons have low velocity and under-fuselage placement makes it awkward to aim
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 ===Development===
@@ -304,31 +289,28 @@ The Harrier was initially deployed with British forces in West Germany in the ea
 Apart from British and American service, variants of the Harrier were also operated by Spain, Thailand and India. In total, around 270 Harriers were produced across all variants with the last being decommissioned from active service in the early 2000's. The original Harrier was subsequently succeeded by a further developed variant - the Harrier II - but more importantly, it had successfully proven the viability of V/STOL aircraft, thus generating a sustained interest in such designs which can still be seen today.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=harrier_gr3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=harrier_gr3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[Yak-38]]
-- [[Yak-38M]]
-- [[Jaguar GR.1]]
+* [[Yak-38]]
+* [[Yak-38M]]
+* [[Jaguar GR.1]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6918-development-jump-jets-arrive-in-war-thunder-meet-the-harrier-en|[Devblog] Jump Jets arrive in War Thunder: Meet the Harrier]]
-- [https://forum.warthunder.com/index.php?/topic/504157-harrier-gr3/ Official data sheet - more details about the performance]
+* [[wt:en/news/6918-development-jump-jets-arrive-in-war-thunder-meet-the-harrier-en|[Devblog] Jump Jets arrive in War Thunder: Meet the Harrier]]
+* [https://forum.warthunder.com/index.php?/topic/504157-harrier-gr3/ Official data sheet - more details about the performance]
 
 ===References===
 
@@ -337,19 +319,19 @@ Apart from British and American service, variants of the Harrier were also opera
 
 ;Bibliography
 
-- Beer, M. (n.d. 1). A Close Run Thing – The Harrier Deployments to the South Atlantic. Retrieved from [http://www.victorxm715.co.uk/a-close-run-thing-the-harrier-deployments-to-the-south-atlantic/ Victor XM175]
-- Beer, M. (n.d. 2). F4s – and more Harrier GR3s Head South. Retrieved from [http://www.victorxm715.co.uk/f4s-and-more-harrier-gr3s-head-south/ Victor XM175]
-- Falklands Campaign: Electronic Warfare Story Revealed. (1984). Aircraft Engineering and Aerospace Technology, Vol. 56 No. 12, 13-14.
-- First Report on Farnborough. (1980). Aircraft Engineering and Aerospace Technology, Vol. 52 No. 8, 11-17.
-- Fozard, J. (1978). The British Aerospace Harrier Case Study in Aircraft Design. American Institute of Aeronautics & Astronautics.
-- Goebel, G. (2019, August 01). First-Generation Harriers / Sea Harrier. Retrieved from [http://www.airvectors.net/avav8_2.html AirVectors]
-- Greenall, N. (n.d.). Falklands War Harriers and Sea Hrriers. Retrieved from [https://web.archive.org/web/20040410043918/http://harrier.hyperlinx.cz/FAQ-falklandwar.htm Harrier Special Interest Group]
-- Imperial War Museum. (2010). BAe Harrier GR.3. Retrieved from [https://www.iwm.org.uk/collections/item/object/70000080 Imperial War Museum]
-- Posey, C. (2002, September). Air War in the Falklands. Retrieved from [https://www.airspacemag.com/military-aviation/air-war-in-the-falklands-32214512/ Air & Space Magazine]
-- RAF Museum. (n.d.). Hawker Siddeley Harrier GR3. Retrieved from [https://www.rafmuseum.org.uk/research/collections/hawker-siddeley-harrier-gr3/ Royal Air Force Museum]
-- The Amazing Tale Of Bravo November, The British Chinook Helicopter That Refused To Die. (2020, November 23). Retrieved from [https://www.thedrive.com/the-war-zone/37788/the-amazing-tale-of-bravo-november-the-british-chinook-helicopter-that-refused-to-die The Drive]
-- Think Defence. (n.d. 1). The San Carlos Forward Operating Base. Retrieved from [https://www.thinkdefence.co.uk/san-carlos-fob/ ThinkDefence]
-- Think Defence. (n.d. 2). Post Conflict and RAF Stanley. Retrieved from [https://www.thinkdefence.co.uk/operation-black-buck/post-conflict-and-raf-stanley/ ThinkDefence]
+* Beer, M. (n.d. 1). A Close Run Thing – The Harrier Deployments to the South Atlantic. Retrieved from [http://www.victorxm715.co.uk/a-close-run-thing-the-harrier-deployments-to-the-south-atlantic/ Victor XM175]
+* Beer, M. (n.d. 2). F4s – and more Harrier GR3s Head South. Retrieved from [http://www.victorxm715.co.uk/f4s-and-more-harrier-gr3s-head-south/ Victor XM175]
+* Falklands Campaign: Electronic Warfare Story Revealed. (1984). Aircraft Engineering and Aerospace Technology, Vol. 56 No. 12, 13-14.
+* First Report on Farnborough. (1980). Aircraft Engineering and Aerospace Technology, Vol. 52 No. 8, 11-17.
+* Fozard, J. (1978). The British Aerospace Harrier Case Study in Aircraft Design. American Institute of Aeronautics & Astronautics.
+* Goebel, G. (2019, August 01). First-Generation Harriers / Sea Harrier. Retrieved from [http://www.airvectors.net/avav8_2.html AirVectors]
+* Greenall, N. (n.d.). Falklands War Harriers and Sea Hrriers. Retrieved from [https://web.archive.org/web/20040410043918/http://harrier.hyperlinx.cz/FAQ-falklandwar.htm Harrier Special Interest Group]
+* Imperial War Museum. (2010). BAe Harrier GR.3. Retrieved from [https://www.iwm.org.uk/collections/item/object/70000080 Imperial War Museum]
+* Posey, C. (2002, September). Air War in the Falklands. Retrieved from [https://www.airspacemag.com/military-aviation/air-war-in-the-falklands-32214512/ Air & Space Magazine]
+* RAF Museum. (n.d.). Hawker Siddeley Harrier GR3. Retrieved from [https://www.rafmuseum.org.uk/research/collections/hawker-siddeley-harrier-gr3/ Royal Air Force Museum]
+* The Amazing Tale Of Bravo November, The British Chinook Helicopter That Refused To Die. (2020, November 23). Retrieved from [https://www.thedrive.com/the-war-zone/37788/the-amazing-tale-of-bravo-november-the-british-chinook-helicopter-that-refused-to-die The Drive]
+* Think Defence. (n.d. 1). The San Carlos Forward Operating Base. Retrieved from [https://www.thinkdefence.co.uk/san-carlos-fob/ ThinkDefence]
+* Think Defence. (n.d. 2). Post Conflict and RAF Stanley. Retrieved from [https://www.thinkdefence.co.uk/operation-black-buck/post-conflict-and-raf-stanley/ ThinkDefence]
 
 {{AirManufacturer Hawker}}
 {{Britain jet aircraft}}

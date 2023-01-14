@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -45,7 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-ratin
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -85,37 +82,31 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-ratin
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 8 x 12.7 mm M2 Browning machine guns, wing-mounted (425 rpg = 3,400 total)
+* 8 x 12.7 mm M2 Browning machine guns, wing-mounted (425 rpg = 3,400 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|HVAR}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 1 x 500 lb AN-M64A1 bomb (500 lb total)
-- 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
-- 2 x 1,000 lb AN-M65A1 bombs + 1 x 500 lb AN-M64A1 bomb (2,500 lb total)
-- 10 x HVAR rockets
-- 10 x HVAR rockets + 1 x 500 lb AN-M64A1 bomb (500 lb total)
-- 10 x HVAR rockets + 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
-- 10 x HVAR rockets + 2 x 1,000 lb AN-M65A1 bombs + 1 x 500 lb AN-M64A1 bomb (2,500 lb total)
+* Without load
+* 1 x 500 lb AN-M64A1 bomb (500 lb total)
+* 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
+* 2 x 1,000 lb AN-M65A1 bombs + 1 x 500 lb AN-M64A1 bomb (2,500 lb total)
+* 10 x HVAR rockets
+* 10 x HVAR rockets + 1 x 500 lb AN-M64A1 bomb (500 lb total)
+* 10 x HVAR rockets + 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
+* 10 x HVAR rockets + 2 x 1,000 lb AN-M65A1 bombs + 1 x 500 lb AN-M64A1 bomb (2,500 lb total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 '''Realistic'''
 
 Always maintain speed. The P-47 handles like a dream at about 550-650 km/h (350-400 mph), but once it gets below 350 km/h (220 mph) it handles sluggishly, like a pig dipped in mud. One great thing about the handling at high speed though, is that the P-47 responds quickly at high speeds, and this allows some impressive defensive scissoring without losing wings at terminal velocity. The high-wing loading is an issue though, as the Jug will lose most of its energy in a blackout turn. This does endow the Jug with one key feature. it is a rock-solid gun platform.
@@ -151,9 +142,9 @@ As for dogfighting, because almost all aerial battles in Sim occurs at below 3,0
 
 '''Enemies worth noting:'''
 
-- [[Me 264]]: This giant is one of the few bombers who get air spawns in Sim, so it usually flies higher than you think. On top of this, the Me 264 is armed with large calibre MG and cannons all over it, therefore tailing a 264 is basically suicide unless all of their gunners are knocked out. You can treat the 264 almost like a B-29 or B-17 as they are very similar in both design and defensive capabilities. It is best to head-on the 264 if you can as you can easily knock out the pilots due to its glazed nose while also taking minimal damage. However the bomber lacks a ventral turret on its belly, making it easy to deal damage from below, but be wary of the downwards facing rear 20 mm cannon near the tail. The safest way to attack is from a higher altitude, dive at an oblique angle and focus fire on the wings and nose. Never engage if you have no altitude advantage.
+* [[Me 264]]: This giant is one of the few bombers who get air spawns in Sim, so it usually flies higher than you think. On top of this, the Me 264 is armed with large calibre MG and cannons all over it, therefore tailing a 264 is basically suicide unless all of their gunners are knocked out. You can treat the 264 almost like a B-29 or B-17 as they are very similar in both design and defensive capabilities. It is best to head-on the 264 if you can as you can easily knock out the pilots due to its glazed nose while also taking minimal damage. However the bomber lacks a ventral turret on its belly, making it easy to deal damage from below, but be wary of the downwards facing rear 20 mm cannon near the tail. The safest way to attack is from a higher altitude, dive at an oblique angle and focus fire on the wings and nose. Never engage if you have no altitude advantage.
 
-- [[Bf 110 (Family)|Bf 110]], [[Ki-45 (Family)|Ki-45]], [[A-26 (Family)|A-26]]: As mentioned before, those twin engine aircraft are a big threat since their lack of manoeuvrability comparing to single engine fighters are minimised in Sim. They are usually armed with heavy guns & cannons in the nose, so an accurate burst will tear any plane apart, including the P-47. The P-47 manoeuvres rather sluggishly and you might get out-turned from even those heavy fighters, so engage them with either altitude or speed advantage to avoid being targeted. If they are not manoeuvring aggressively, aim for their wings or engines. If the fight is intense and you cannot smooth the aim, just burst anywhere as long as you hit them, the 12.7 mm bullets will damage their flight models quite a bit.
+* [[Bf 110 (Family)|Bf 110]], [[Ki-45 (Family)|Ki-45]], [[A-26 (Family)|A-26]]: As mentioned before, those twin engine aircraft are a big threat since their lack of manoeuvrability comparing to single engine fighters are minimised in Sim. They are usually armed with heavy guns & cannons in the nose, so an accurate burst will tear any plane apart, including the P-47. The P-47 manoeuvres rather sluggishly and you might get out-turned from even those heavy fighters, so engage them with either altitude or speed advantage to avoid being targeted. If they are not manoeuvring aggressively, aim for their wings or engines. If the fight is intense and you cannot smooth the aim, just burst anywhere as long as you hit them, the 12.7 mm bullets will damage their flight models quite a bit.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -173,38 +164,36 @@ As for dogfighting, because almost all aerial battles in Sim occurs at below 3,0
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great at diving and Boom & Zoom
-- Turbocharged engine, meaning you do not lose any engine power until around 7,000 m altitude
-- Good power-to-weight ratio
-- Fantastic gun platform: the 2 "quartets" of M2s are extremely accurate and in many cases as powerful as cannon
-- Impressive payloads, making for fantastic ground attack capability
-- Great engine performance above 6,000 m
-- Great high-speed handling
-- Fantastic top speed in level flight
-- Good scissoring capability
-- Great durability
-- Great cockpit visibility
-- Engine cools rapidly and can WEP for a long duration of time without overheating
-- Has 20 minutes of ADI WEP
-- Currently running 70" of boost, almost as high as P-47M, P-47N
+* Great at diving and Boom & Zoom
+* Turbocharged engine, meaning you do not lose any engine power until around 7,000 m altitude
+* Good power-to-weight ratio
+* Fantastic gun platform: the 2 "quartets" of M2s are extremely accurate and in many cases as powerful as cannon
+* Impressive payloads, making for fantastic ground attack capability
+* Great engine performance above 6,000 m
+* Great high-speed handling
+* Fantastic top speed in level flight
+* Good scissoring capability
+* Great durability
+* Great cockpit visibility
+* Engine cools rapidly and can WEP for a long duration of time without overheating
+* Has 20 minutes of ADI WEP
+* Currently running 70" of boost, almost as high as P-47M, P-47N
 
 '''Cons:'''
 
-- Terrible turning radius at low altitude
-- Good climb rate at most altitudes
-- Engine prone to being set on fire
-- Poor low-speed handling
-- Large target
-- Engine can overheat quickly if you constantly use WEP
-- Machine guns are mounted very far apart
+* Terrible turning radius at low altitude
+* Good climb rate at most altitudes
+* Engine prone to being set on fire
+* Poor low-speed handling
+* Large target
+* Engine can overheat quickly if you constantly use WEP
+* Machine guns are mounted very far apart
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 Thunderbolt pilots flew into battle with the roar of a 2,000-horsepower radial engine and the flash of eight .50 calibre machine guns. This combination of a robust, reliable engine and heavy armament made the P-47 a feared ground-attack aircraft. U.S. Army Air Forces commanders considered it one of the three premier American fighters, along with the P-51 Mustang and P-38 Lightning. The United States built more P-47s than any other fighter airplane.
@@ -212,12 +201,11 @@ Thunderbolt pilots flew into battle with the roar of a 2,000-horsepower radial e
 After World War II, the Chinese Nationalist Air Force received 102 P-47Ds used during the Chinese Civil War. The Chinese Communists captured five P-47Ds from the Chinese Nationalist forces. In 1948, the Chinese Nationalists employed 70 P-47Ds and brought them to Taiwan in 1952. P-47s were used extensively in aerial clashes over the Taiwan Strait between Nationalist and Communist aircraft.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=p-47d_30_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=p-47d_30_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|05gm5vYQczw|'''Death from Above! P-47D-28 Thunderbolt - China'''  - ''Jengar''|yHuUGzezChI|'''Best after-party picks''' discusses the {{PAGENAME}} at 1:23 - ''War Thunder Official Channel''|x7ZqjJx-lyI|'''How to Stock Grind feat. Chinese P-47D-28''' - ''Napalmratte''|t3xD7JpnHeI|'''Best aircraft for Boom & Zoom''' discusses the {{PAGENAME}} at 3:34 - ''War Thunder Official Channel''}}
@@ -225,14 +213,14 @@ After World War II, the Chinese Nationalist Air Force received 102 P-47Ds used d
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer Republic}}
 {{China fighters}}

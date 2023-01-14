@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet fighter {{Battle-rating}}. This aircraft was introduced in [[Update 1.33]].
 
 == General info ==
@@ -21,7 +19,6 @@ Since the LaGG-3 has cannon armament, a 2-4 second burst is all that is needed t
 
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -49,7 +46,7 @@ Since the LaGG-3 has cannon armament, a 2-4 second burst is all that is needed t
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -111,33 +108,28 @@ Since the LaGG-3 has cannon armament, a 2-4 second burst is all that is needed t
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|ShVAK (20 mm)|Berezin UB (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 1 x 20 mm ShVAK cannon, nose-mounted (150 rpg)
-- 1 x 12.7 mm Berezin UB machine gun, nose-mounted (200 rpg)
+* 1 x 20 mm ShVAK cannon, nose-mounted (150 rpg)
+* 1 x 12.7 mm Berezin UB machine gun, nose-mounted (200 rpg)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|FAB-50 (50 kg)|FAB-100 (100 kg)|RBS-82|RS-82}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 50 kg FAB-50 bombs (100 kg total)
-- 2 x 100 kg FAB-100 bombs (200 kg total)
-- 6 x RS-82 rockets
-- 6 x RBS-82 rockets
+* Without load
+* 2 x 50 kg FAB-50 bombs (100 kg total)
+* 2 x 100 kg FAB-100 bombs (200 kg total)
+* 6 x RS-82 rockets
+* 6 x RBS-82 rockets
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The LaGG-3-11 is best use as a multirole fighter with a good climb rate, making boom and zoom a viable tactic, but turn fighting can help when facing less nimble aircraft. The armaments are nose mounted and fewer in number than most counterparts, making this plane less beginner friendly. Accuracy and trigger discipline are more important as there won't be much rounds when pulling the trigger, but when the rounds hit, it deals effective damage.
@@ -164,27 +156,25 @@ In ground realistic battles, the FAB-100 bombs are a good choice to take out tan
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Cannon
-- Effective Berezin UB MG
-- Speed and climb rate
-- Durability
-- Substantial ammunition supply
+* Cannon
+* Effective Berezin UB MG
+* Speed and climb rate
+* Durability
+* Substantial ammunition supply
 
 '''Cons:'''
 
-- Poor handling at high speeds
-- Average horizontal handling, poor vertical handling
-- Low ammo count with Berezin UB MG
-- Poor roll rate
-- Wings tend to snap when turning against biplanes
+* Poor handling at high speeds
+* Average horizontal handling, poor vertical handling
+* Low ammo count with Berezin UB MG
+* Poor roll rate
+* Wings tend to snap when turning against biplanes
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The LaGG-3-11 was a Soviet fighter aircraft of World War II. It was one of the most modern aircraft available to the Soviet Air Force at the time of Germany's invasion in 1941. The plane was produced 1941–1944 and first took flight 28 March 1940. Approximately 6,528 LaGG-3-11's were made, and designed by V. P. Gorbunov.
@@ -208,26 +198,22 @@ Later on, the LaGG-3 Series 11 was replaced by the Series 23 in manufacturing fa
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=lagg-3-11 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=lagg-3-11 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/195726-lavochkin-gorbunov-gudkov-lagg-3-series-11/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/195726-lavochkin-gorbunov-gudkov-lagg-3-series-11/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Lavochkin}}
 {{USSR fighters}}

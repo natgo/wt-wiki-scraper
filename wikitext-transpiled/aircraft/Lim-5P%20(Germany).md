@@ -4,17 +4,14 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} German jet fighter {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]].
 
-The Lim-5P (LI''cencyjny Myśliwiec; Licensed Fighter)'' is a Polish built MiG-17PF in East-German service. Compared to the [[MiG-17]] in the Soviet tech tree, the MiG-17PF/{{PAGENAME}} features an airborne radar to search for aerial targets, an afterburning engine, and a uniform armament with three 23 mm cannons. While players of China's [[Shenyang F-5]] will find the performance very similar thanks to the afterburner, the Lim-5P has 3 x 23 mm cannons and no missiles. Although the 23 mm guns have more ammo, players might need more practice to utilize this jet properly.
+The Lim-5P (LI''cencyjny Myśliwiec; Licensed Fighter)'' is a Polish built MiG-17PF in East-German service. Compared to the [[MiG-17]] in the Soviet tech tree, the MiG-17PF/{{PAGENAME}} features an airborne radar to search for aerial targets, an afterburning engine, and a uniform armament with three 23 mm cannons. While players of China's [[Shenyang F-5]] will find the performance very similar thanks to the afterburner, the Lim-5P has 3 x 23 mm cannons and no missiles. Although the 23 mm guns have more ammo, players might need more practice to utilize this jet properly. 
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -45,7 +42,7 @@ Players who own the Chinese (North Korean) [[Shenyang F-5|F-5]] will soon find t
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -111,9 +108,7 @@ Players who own the Chinese (North Korean) [[Shenyang F-5|F-5]] will soon find t
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 Like his Fresco cousins, aside from a 60 mm windshield, it has 16 mm steel plates behind the pilot seats and a 10 mm one by the intake; although it might not sound much to autocannons, but having this extra layer of protection is better than none at all for the pilot.
 
 === Modifications and economy ===
@@ -123,48 +118,41 @@ Like his Fresco cousins, aside from a 60 mm windshield, it has 16 mm steel plate
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|NR-23 (23 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 3 x 23 mm NR-23 cannons, chin-mounted (100 rpg = 300 total)
+* 3 x 23 mm NR-23 cannons, chin-mounted (100 rpg = 300 total)
 
 Different from its cousins in other trees, the Lim-5P replaced the nose-mounted 37 mm N-37D cannon for a third 23 mm NR-23 instead; perhaps there is some weight reduction in this case but it is also a decrease in overall firepower. For players who find the 23 mm cannon sometimes unreliable, they should spend time to practice its ballistics and make sure every shot counts; 100 rounds per gun is not as forgiving as NATO jets.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
-MiG-17 equivalent for the DDR line fighters is the best description for Lim-5P; it is the Polish licensed version of MiG-17PF and this also marks its identity as a all-weather interceptor with a RP-5 radar. It might not be very reliable due to its electronics, but 8 km detection range at higher altitude does also gives players an edge on spotting enemies beforehand; this is especially true in SB since who spot first really matters in this case (but do make sure the target is indeed an enemy). Another feature of Lim-5P is the VK-1F afterburner turbojet engine, players of [[Shenyang F-5]] will soon find themselves at home as this further boost its capability to chase down enemies with lower energy or altitude with ease, sometimes even handling supersonic jets in dire.
+MiG-17 equivalent for the DDR line fighters is the best description for Lim-5P; it is the Polish licensed version of MiG-17PF and this also marks its identity as a all-weather interceptor with a RP-5 radar. It might not be very reliable due to its electronics, but 8 km detection range at higher altitude does also gives players an edge on spotting enemies beforehand; this is especially true in SB since who spot first really matters in this case (but do make sure the target is indeed an enemy). Another feature of Lim-5P is the VK-1F afterburner turbojet engine, players of [[Shenyang F-5]] will soon find themselves at home as this further boost its capability to chase down enemies with lower energy or altitude with ease, sometimes even handling supersonic jets in dire. 
 
 However, players will also find the similar flaws from his cousins: control surfaces lock up and subpar roll rate at higher speeds. Be sure to check the speeds before chasing down enemies or players will meet their demise quickly; do beware of jets with missiles when doing dogfights, since the heat from the afterburner is high, turn it off for better odds to dodge the missile. Meanwhile, it has 3 x 23 mm NR-23 cannons instead of the conventional 2 x 23 mm and a 37 mm N-37D config for lighter weight during interception missions and also higher ammo count; to some players it means more rounds to sparse, while some consider it as a big nerf from his cousins since the 23 mm rounds don't fly as straight as their NATO counterparts and some might prefer having a 37 mm for an instant-kill. Trigger discipline is still essential for this jet (300 rounds in total) to make sure the best efficiency can be achieved- it is still an autocannon, after all.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Very good acceleration due to the afterburner
-- Has a RP-5 radar to search enemies
-- Above average top speed and climb rate
-- Turn rate is better than most enemies it faces
-- More ammo for cannons compared to MiG-15s/17s
+* Very good acceleration due to the afterburner
+* Has a RP-5 radar to search enemies
+* Above average top speed and climb rate
+* Turn rate is better than most enemies it faces
+* More ammo for cannons compared to MiG-15s/17s
 
 '''Cons:'''
 
-- Rather bad roll rate at high speeds
-- Compresses at high speeds
-- 23 mm cannons have subpar velocity
-- Lacks ground-attack ordnances
+* Rather bad roll rate at high speeds
+* Compresses at high speeds
+* 23 mm cannons have subpar velocity
+* Lacks ground-attack ordnances 
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The MiG-17 (NATO: Fresco) has been the weapon of choice for Warsaw Pact or allies of Soviet Union and has already been exported to tens of countries throughout the 1950s; while the development for supersonic jets were still in progress, some countries with better heavy industry capabilities decided to get the license for building them domestically. Aside from the other wide-spread build of Shenyang J-5 (歼-5), the other licensed build was the WSK "PZL-Mielec" Lim-5 and 6 from Poland.
 
 The licensing contract was signed in 1955 as the replacement of the earlier Lim-2 (MiG-15), Lim-5P was the all-weather variant of MiG-17PF with revisions on armaments and engine, as well as a RP-5 radar for target acquisition. By the end of 1960, 129 of them were built; some of them were also converted into Lim-6M and -6MR variant as attacker/recon aircraft for Polish Air Force.
@@ -172,28 +160,25 @@ The licensing contract was signed in 1955 as the replacement of the earlier Lim-
 The LSK (''Luftstreitkräfte;'' East German Airforce) acquired 40-48 of MiG-17PF/Lim-5P from both USSR and Poland as one of the composition of their jet fighter/attacker fleets. They didn't join any combats and been phrased out by newer jets from USSR between 1970 to 1973, either being scrapped or been transferred to Guinea-Bissau in the 1980s.<ref>https://acesflyinghigh.wordpress.com/2015/11/08/combat-jets-of-the-east-german-air-force-1956-to-1969-the-early-days/</ref>
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=mig-17p_lim_5p Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=mig-17p_lim_5p Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|0uTPOTTUKxY|'''The Shooting Range #309''' - ''Metal Beasts'' section at 00:25 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
 
-- [[MiG-17 (Family)]]
+* [[MiG-17 (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->

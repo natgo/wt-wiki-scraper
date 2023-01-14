@@ -10,10 +10,8 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish fighter {{Battle-rating}}. It was introduced in [[Update 1.93 "Shark Attack"]] but was unavailable to be played in any game mode, however, it could be flown in test-flight and with the mission editor against NPC aircraft. The aircraft was fully implemented in [[Update 1.95 "Northern Wind"]].
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish fighter {{Battle-rating}}. It was introduced in [[Update 1.93 "Shark Attack"]] but was unavailable to be played in any game mode, however, it could be flown in test-flight and with the mission editor against NPC aircraft.  The aircraft was fully implemented in [[Update 1.95 "Northern Wind"]].
 
 The {{PAGENAME}} or the original Gloster Gladiator Mk II was developed in an awkward time, in that it was an advancement in biplane technology over what was already in production, however, its time was almost up even before it rolled out the door as state-of-the-art monoplanes were beginning to take to the skies and outperform even the most advanced biplanes. Though a long future looked grim for the Gladiator, nevertheless it went into production and found a place in the Air Forces not only for the British but other nations such as the Swedish.
 
@@ -24,13 +22,11 @@ The Gladiator was the last British biplane to be produced, but it was the first 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!--''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''-->
-
 [[File:J8a_an_trn_26_001.png|450px|thumb|right|'''{{PAGENAME}}''' on the tail of a [[Flegel%27s_Bf_109_A|Bf 109 A-1]].]]
 The {{PAGENAME}} is an average biplane in terms of manoeuvrability, however, it is very stiff to the controls when attempting to roll the aircraft. Though an excellent flyer at lower altitudes and at lower speeds, keeping its speed up will increase its effectiveness when engaging in turn battles with other aircraft. The Bristol Mercury-IX engine allows this aircraft to reach top speeds of over 400 km/h (~250 mph) and can be a contender with other biplanes, however it will start to struggle against early monoplanes such as the Heinkel [[He 112 (Family)|He 112]], Messerschmitt [[Flegel's Bf 109 A|Bf 109A]], Polykarpov [[I-16 (Family)|I-16]] and the Brewster [[F2A-1|F2A]] fighters. Though not as fast nor does it have the armament these do, it does have a turning advantage they do not and can sometimes make a quick turn around or tail-chase a faster fighter long enough to put guns on target and eliminate an enemy.
 
-The {{PAGENAME}} has a very low stall speed and with the throttle reduced to around 55%, this fighter can maintain level flight at a speed of about 80 km/h (50 mph) without nosing over. The vertical stabilizer is rather large for an aircraft of this type which lends itself to being an excellent aircraft for performing wing-over and hammerhead manoeuvres, especially when luring newer and unsuspecting enemy pilots into a rope-a-dope manoeuvre allowing for the {{PAGENAME}} to immediately change direction and pursue the tailing enemy fighter which may have themselves stalled out and set themselves up to be the perfect target for an inbound {{PAGENAME}}.
+The {{PAGENAME}} has a very low stall speed and with the throttle reduced to around 55%, this fighter can maintain level flight at a speed of about 80 km/h (50 mph) without nosing over. The vertical stabilizer is rather large for an aircraft of this type which lends itself to being an excellent aircraft for performing wing-over and hammerhead manoeuvres, especially when luring newer and unsuspecting enemy pilots into a rope-a-dope manoeuvre allowing for the {{PAGENAME}} to immediately change direction and pursue the tailing enemy fighter which may have themselves stalled out and set themselves up to be the perfect target for an inbound {{PAGENAME}}.  
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -57,7 +53,7 @@ The {{PAGENAME}} has a very low stall speed and with the throttle reduced to aro
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || ✓ || ✓ || X || X <!-- ✓ -->
+| X || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -102,12 +98,11 @@ The {{PAGENAME}} has a very low stall speed and with the throttle reduced to aro
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-Like many aircraft just prior to the break out of World War II, the {{PAGENAME}} was not outfitted with any armour plating. The {{PAGENAME}} relied on its engine to get the aircraft where it needed to go and helped the aircraft get into a position where the guns should shoot down an enemy, any attempts to install armour plating would have only slowed down the already relatively slow biplane which would not have been worth the trade-off.
+Like many aircraft just prior to the break out of World War II, the {{PAGENAME}} was not outfitted with any armour plating. The {{PAGENAME}} relied on its engine to get the aircraft where it needed to go and helped the aircraft get into a position where the guns should shoot down an enemy, any attempts to install armour plating would have only slowed down the already relatively slow biplane which would not have been worth the trade-off. 
 
-To maintain the centre of balance for this fighter, the pilot, fuel tank and engine take up the fuselage from the middle to the front, any attacks on this aircraft in this zone risk hitting a critical component, ending the {{PAGENAME}}'s fight in the battle earlier than expected. Though a closed cockpit may offer the pilot protection from glancing shots, it will not do much for head-on or side attacks.
+To maintain the centre of balance for this fighter, the pilot, fuel tank and engine take up the fuselage from the middle to the front, any attacks on this aircraft in this zone risk hitting a critical component, ending the {{PAGENAME}}'s fight in the battle earlier than expected. Though a closed cockpit may offer the pilot protection from glancing shots, it will not do much for head-on or side attacks. 
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -117,26 +112,22 @@ To maintain the centre of balance for this fighter, the pilot, fuel tank and eng
 [[File:J8a_an_trn_26_003.png|450px|thumb|right|A flight of {{PAGENAME}}s]]
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Ksp m/22 (8 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 8 mm Ksp m/22 machine guns, side-mounted (600 rpg = 1,200 total)
-- 2 x 8 mm Ksp m/22 machine guns, wing-mounted (400 rpg = 800 total)
+* 2 x 8 mm Ksp m/22 machine guns, side-mounted (600 rpg = 1,200 total)
+* 2 x 8 mm Ksp m/22 machine guns, wing-mounted (400 rpg = 800 total)
 
-The Swedish Air Forces decided to not outfit their {{PAGENAME}} fighters with the standard .303 machine guns the British typically used, instead they opted to install four 8 mm Ksp m/22 machine guns, two mounted on each side of the pilot within arm's reach and the other two were mounted one under each side of the lower wing. It is important for pilots of this aircraft to determine at what distance they typically engage enemy aircraft at as convergence of the machine guns is a necessity to manage to effectively put as many bullets as possible into the enemy fighter. Typically in biplanes, a closer convergence setting of 100 to 250 m is best for close-in fighting, typically as one gets farther out from there, bullets lose some of their punch.
+The Swedish Air Forces decided to not outfit their {{PAGENAME}} fighters with the standard .303 machine guns the British typically used, instead they opted to install four 8 mm Ksp m/22 machine guns, two mounted on each side of the pilot within arm's reach and the other two were mounted one under each side of the lower wing. It is important for pilots of this aircraft to determine at what distance they typically engage enemy aircraft at as convergence of the machine guns is a necessity to manage to effectively put as many bullets as possible into the enemy fighter. Typically in biplanes, a closer convergence setting of 100 to 250 m is best for close-in fighting, typically as one gets farther out from there, bullets lose some of their punch. 
 
 Many ace pilots from all sides of the war stated that when the enemy filled the windscreen, there was no way you could not hit, thereby guaranteeing a hit and conserving ammunition. The {{PAGENAME}} does not have the machine-gun speed of those found on some Soviet biplanes as it is necessary to synchronize the firing of the guns in the fuselage to fire through the propeller arc. With 2,000 rounds of ammunition distributed between all four machine guns, it is recommended to fire in short bursts, mainly to prevent overheating and jamming of the machine guns. Typically you can continuously fire about 750 rounds of ammunition before the guns jam up and require a cool down before they can be used again.
 
 When possible, change out the default ammunition belts for either tracer belts which are very effective against other biplanes, especially those which have fabric coverings and non-self sealing fuel tanks as tracer rounds have a good chance of setting planes on fire which can rarely put the flames out. Air belts are another good choice due to the explosive filler in the round which helps to damage or disable aircraft faster than regular bullets. For those pilots who like to sneak into a fight and catch enemy aircraft unaware, stealth belts are the way to go as there are no tracer rounds to give away your position. The enemy pilots tend to realize where the stealth bullets are coming from only too late as their aircraft is coming apart and falling to the ground.
 
 == Usage in battles ==
-
 <!--''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''-->
-
 [[File:J8a_an_trn_26_002.png|450px|thumb|right|Scratch one more Bf 109.]]
 On early maps which tend to favour biplanes and some early monoplanes, the {{PAGENAME}} pilot has the option to decide which type of target they will go after and arm up the ammunition to do so. The {{PAGENAME}} is a multirole aircraft which can pursue either air-to-air combat, ground attack or both. The {{PAGENAME}} is a very effective turn fighter and can hold its own against many early biplanes, but due to its speed, it has the option to turn fight or attempt early Boom & Zoom runs. If flying at an altitude above the enemy aircraft, the {{PAGENAME}} can selectively choose targets, swoop down on them and either zoom back up to altitude or zoom away out of range of slower aircraft before turning around.
 
@@ -176,32 +167,30 @@ Before engaging a fight, it is better to have an altitude advantage first. When 
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Can go up to 418 km/h
-- Its four 8 mm machine guns can quickly shred other low rank planes
-- Ground belt for machine guns can easily penetrate the roofs of player tanks it typically sees
-- 2,000 rounds of ammunition total, can fire continuously about 750 rounds before guns jam
-- Very high max altitude for its rank
-- Fixed-pitch propeller reduces the need for manual engine control tweaking
-- Fantastic rudder control for stall manoeuvres
-- Very low stall speed
+* Can go up to 418 km/h
+* Its four 8 mm machine guns can quickly shred other low rank planes
+* Ground belt for machine guns can easily penetrate the roofs of player tanks it typically sees
+* 2,000 rounds of ammunition total, can fire continuously about 750 rounds before guns jam
+* Very high max altitude for its rank
+* Fixed-pitch propeller reduces the need for manual engine control tweaking
+* Fantastic rudder control for stall manoeuvres
+* Very low stall speed
 
 '''Cons:'''
 
-- Climb rate is slower than most other planes that rival it
-- Poor roll rate
-- Higher than average required takeoff length for biplanes
-- Bleeds a lot of speed in turns
-- No armour protection
-- During Simulator battles, much of the front view is obscured by the upper wing and canopy framing
-- No option for bombs or rockets, strict aerial or ground attack with 8 mm machine guns only
+* Climb rate is slower than most other planes that rival it
+* Poor roll rate
+* Higher than average required takeoff length for biplanes
+* Bleeds a lot of speed in turns
+* No armour protection
+* During Simulator battles, much of the front view is obscured by the upper wing and canopy framing
+* No option for bombs or rockets, strict aerial or ground attack with 8 mm machine guns only
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 In 1936, a new defence resolution was made by the Swedish defence ministry to organise one new fighter wing and four new bomber wings in light of rising tensions in Europe. The new fighter wing was intended to provide an aerial defence to the Stockholm region and would consist of three squadrons. After a selection process, the Gloster Gladiator was found to be the aircraft most suited to requirements, and an order was made for 55 aircraft, which were to be locally fitted with engines and armament.
@@ -215,42 +204,37 @@ International events led to the Swedish J8 to have their ''combat debut'' in 193
 In 1940, F8 Barkarby was re-equipped with the J9 (Seversky EP-1), with the J8s transferred to the F9 Säve wing which was tasked with protecting Gothenborg. The J8's stint with F9 was short, being replaced by the J11 (Fiat CR.42), after which they were used to equip the F10 Ängelholm Wing tasked with protecting Malmö. When the F10 Wing, in turn, was re-equipped with the J20 (Reggiane Re.2000), the J8's role as a frontline fighter in Swedish Air Force service was considered over, and the aircraft were distributed among other wings as advanced trainers, reserves and base hacks. During the latter part of their career in the Swedish Air Force, J8s were used piecemeal by the F8, F9, F10, F13, F16 and F20 wings. About 20 aircraft remained in service at the end of the Second World War, at which point they were progressively withdrawn from service as they were considered as being at the end of their service life. The last three Swedish J8 Gladiators were withdrawn from service on February 10th 1947.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=gladiator_j8a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=gladiator_j8a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''-->
 
 ;Other variants in-game
 
-- [[Gladiator (Family)]]
+* [[Gladiator (Family)]]
 
 ;Aircraft of comparable role, configuration and era
-
-- Grumman [[F3F-2|F3F]]
-- Polikarpov [[I-15 (Family)|I-15]]
-- Polikarpov [[I-153 M-62|I-153]]
-- Fiat [[CR.32]]
-- Fiat [[CR.42]]
+* Grumman [[F3F-2|F3F]]
+* Polikarpov [[I-15 (Family)|I-15]]
+* Polikarpov [[I-153 M-62|I-153]]
+* Fiat [[CR.32]]
+* Fiat [[CR.42]]
 
 == External links ==
-
 <!--''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.''-->
 
-- [https://forum.warthunder.ru/index.php?/topic/197035-gloster-gladiator-mk-ii-iis-iif-taka/ Official data sheet - more details about the performance (Russian Forum)]
-- [[Wikipedia:Gloster_Gladiator|[Wikipedia] Gloster Gladiator]]
-- [https://www.ipmsstockholm.org/magazine/1999/05/stuff_eng_detail_gladiator.htm [IPMS Stockholm<nowiki>]</nowiki> Gloster Gladiator in Detail - Gladiators in Sweden]
-- [http://surfcity.kund.dalnet.se/gladiator_sweden.htm [Håkans aviation page<nowiki>]</nowiki> J8 Gloster Gladiator in the Swedish Air Force]
-- [http://users.kymp.net/mode0522/planes/gladiator.html [Jari Juvonen's page<nowiki>]</nowiki> Gloster Gladiator Mk II ( J8A )]
+* [https://forum.warthunder.ru/index.php?/topic/197035-gloster-gladiator-mk-ii-iis-iif-taka/ Official data sheet - more details about the performance (Russian Forum)]
+* [[Wikipedia:Gloster_Gladiator|[Wikipedia] Gloster Gladiator]]
+* [https://www.ipmsstockholm.org/magazine/1999/05/stuff_eng_detail_gladiator.htm [IPMS Stockholm<nowiki>]</nowiki> Gloster Gladiator in Detail - Gladiators in Sweden]
+* [http://surfcity.kund.dalnet.se/gladiator_sweden.htm [Håkans aviation page<nowiki>]</nowiki> J8 Gloster Gladiator in the Swedish Air Force]
+* [http://users.kymp.net/mode0522/planes/gladiator.html [Jari Juvonen's page<nowiki>]</nowiki> Gloster Gladiator Mk II ( J8A )]
 
 {{AirManufacturer Gloster}}
 {{Sweden fighters}}

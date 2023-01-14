@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=germ_wiesel_1_mk20
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} German SPAA {{Battle-rating}}. It was introduced in [[Update "Ground Breaking"]].
 
 The Wiesel 1A4, while very weak in both armour and armament, is very small and fast compared to most other vehicles at its BR. Given the ability to spot, use thermals, and help teammates with repairs, the Wiesel handles a lot closer to a light tank than an SPAA as it has very limited gun elevation at 45°. Even with its poor elevation, the Rh202 is capable of taking down aircraft found at its BR such as the [[Su-9]] as well as lightly-armoured vehicles like the [[U-SH 405]].
@@ -19,14 +17,12 @@ The Wiesel 1A4, while very weak in both armour and armament, is very small and f
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 The armour is very thin throughout the vehicle, only able to protect from shrapnel and rifle-calibre machine gun fire. Anything with a calibre of 12.7 mm or larger will penetrate. The external fuel tank provides a minor increase in protection, but is still able to be penetrated by large-calibre machine guns. The interior armour provides minor protection to spalling and small shells, but isn't guaranteed to stop anything above 12.7 mm upon penetration. Two vents can be found on the tank with 5 mm of armour, one on the top above the radiator and the other in the middle of the left side, while not much of a difference, if shot at the right angle rifle-calibre machine gun fire can penetrate. The driver and gunner are sitting in a line if looking directly from the front or at a slight angle, which increases the likelihood of getting both knocked out with a single shot. Moreover, as there are only 2 crew members, losing even 1 man will knock out the vehicle unless on a point with crew replenishment.
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (Front, side, rear, roof, turret)
+* Rolled homogeneous armour (Front, side, rear, roof, turret)
 
 {| class="wikitable"
 |-
@@ -39,14 +35,13 @@ The armour is very thin throughout the vehicle, only able to protect from shrapn
 |}
 '''Notes:'''
 
-- There is a 5 mm RHA internal plate separating the engine compartment from the crew.
-- Tracks, suspension wheels, and torsion bars are 20 mm thick.
-- Mudguards and storage boxes are 5 mm thick, mud flaps are 2 mm thick.
-- The gun breech is 150 mm thick and the gun mount is 6 mm thick (including ammo boxes).
+* There is a 5 mm RHA internal plate separating the engine compartment from the crew.
+* Tracks, suspension wheels, and torsion bars are 20 mm thick.
+* Mudguards and storage boxes are 5 mm thick, mud flaps are 2 mm thick.
+* The gun breech is 150 mm thick and the gun mount is 6 mm thick (including ammo boxes).
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=124|rbMinHp=77}}
@@ -58,9 +53,7 @@ The armour is very thin throughout the vehicle, only able to protect from shrapn
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|Rh202 (20 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -81,10 +74,10 @@ The armour is very thin throughout the vehicle, only able to protect from shrapn
 
 ==== Ammunition ====
 
-- '''Default:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
-- '''DM51A1:''' {{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}
-- '''DM43:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
-- '''DM63:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
+* '''Default:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
+* '''DM51A1:''' {{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}
+* '''DM43:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
+* '''DM63:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="7" | Penetration statistics
@@ -106,9 +99,7 @@ The armour is very thin throughout the vehicle, only able to protect from shrapn
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.13.0.23''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -124,39 +115,34 @@ The armour is very thin throughout the vehicle, only able to protect from shrapn
 |}
 '''Notes:'''
 
-- The ammunition is modeled as 4 magazines of 100 rounds.
-- Even though racks 3 & 4 both are fed into the gun, the gun still reloads when switching from rack 3 to 4.
+* The ammunition is modeled as 4 magazines of 100 rounds.
+* Even though racks 3 & 4 both are fed into the gun, the gun still reloads when switching from rack 3 to 4.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 Given the size and speed of the Wiesel, it is very competent at flanking or rushing objectives. With the ability to spot and use thermals, the Wiesel can help its team by spotting enemies when flanking, or help its team by assisting with repairs and shooting down low-flying aircraft. Because of the minimal armour though, the Wiesel will almost always die from a single shot because of this, being alone in open areas or near enemies is not a good idea.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Excellent acceleration and mobility
-- Good anti-air capability
-- Low profile, can hide in small areas
-- Its 20 mm has a high rate of fire
-- Access to 3rd generation thermals, night vision and a laser rangefinder
+* Excellent acceleration and mobility
+* Good anti-air capability
+* Low profile, can hide in small areas
+* Its 20 mm has a high rate of fire
+* Access to 3rd generation thermals, night vision and a laser rangefinder
 
 '''Cons:'''
 
-- Almost no armour
-- Can't penetrate tanks reliably
-- Turret can't rotate a full 360°
-- Its gun heats up quite quickly
-- Poor gun elevation compared to other SPAA
+* Almost no armour
+* Can't penetrate tanks reliably
+* Turret can't rotate a full 360°
+* Its gun heats up quite quickly
+* Poor gun elevation compared to other SPAA
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 === Development ===
 Initially developed in 1979 by Rheinmetall for the Bundeswehr as an airborne light armoured vehicle, the Wiesel was equipped with Rheinmetall's own Mk 20 RH-202 20 mm autocannon and designed to be small enough to fit inside standard NATO transport aircraft and even the CH53G Sea Stallion helicopter. The Wiesel was supposedly capable of being air dropped alongside airborne elements and was meant to act as armoured support for airborne troops though this idea was abandoned due to many failed tests. The Wiesel 1A4 was designed to combat infantry, tanks, armoured vehicles, and even aircraft. The Wiesel program was temporarily shut down in 1978 due to a lack of adequate funding though continued development later after interest was heard from other countries. The Bundeswehr eventually ordered 343 Wiesels in 1985.
 
@@ -164,33 +150,28 @@ Initially developed in 1979 by Rheinmetall for the Bundeswehr as an airborne lig
 The Wiesel 1A4 first saw service in 1993 as a part of the UN mission to Somalia ([[wikipedia:United_Nations_Operation_in_Somalia_II|UNOSOM II]]) as part of the German peacekeeping force. Soon after, the Wiesel participated in NATO's Implementation Force ([[wikipedia:Implementation_Force|IFOR]]) which took place in Bosnia and Herzegovina from 1995-1996. Continuing after was NATO's Stabilization Force ([[wikipedia:Stabilisation_Force_in_Bosnia_and_Herzegovina|SFOR]]) also taking place in Bosnia and Herzegovina from 1996-2004. It participated in yet another NATO mission in Kosovo as part of the Kosovo Force ([[wikipedia:Kosovo_Force|KFOR]]) from 1999-Present (2022). The Wiesel then was a part of [[wikipedia:Operation_Essential_Harvest|Operation Essential Harvest]] taking place in the Republic of Macedonia in 2001 to combat insurgencies. Lastly, Wiesel took part in the International Security Assistance Force ([[wikipedia:International_Security_Assistance_Force|ISAF]]) in Afghanistan from 2001-2014.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_wiesel_1_mk20 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_wiesel_1_mk20 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|QRb3o5OJsHo|'''Wiesel 1: Firepower for the Fallschirmjäger''' - ''Military History Visualized''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/7376-development-wiesel-armored-vehicles-mk20-tow-2-adwc-en|[Devblog] Wiesel armored vehicles: MK20/TOW/2 ADWC]]
+* [[wt:en/news/7376-development-wiesel-armored-vehicles-mk20-tow-2-adwc-en|[Devblog] Wiesel armored vehicles: MK20/TOW/2 ADWC]]
 
 {{Germany anti-aircraft vehicles}}

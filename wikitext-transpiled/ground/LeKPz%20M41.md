@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} German light tank {{Battle-rating}}. It was introduced in [[Update 1.95 "Northern Wind"]].
 
 Essentially a West German-operated model of the American [[M41A1|M41 Walker Bulldog]], the leKPz M41 features smoke grenades and a different ammunition selection. It offers scouting capability and a powerful armament in a highly mobile package.
@@ -19,13 +17,11 @@ Essentially a West German-operated model of the American [[M41A1|M41 Walker Bull
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (Gun mantlet, Lower glacis)
+* Rolled homogeneous armour
+* Cast homogeneous armour (Gun mantlet, Lower glacis)
 
 {| class="wikitable"
 |-
@@ -37,9 +33,9 @@ Essentially a West German-operated model of the American [[M41A1|M41 Walker Bull
 |}
 '''Notes:'''
 
-- Suspension wheels, bogies, and tracks are 15 mm thick.
-- An extra 12.7 mm RHA metal plate is present on the right side of the turret near the pintle 7.62 mm machine gun.
-- A 4 mm Structural steel box is present, mounted on the vehicle rear turret.
+* Suspension wheels, bogies, and tracks are 15 mm thick.
+* An extra 12.7 mm RHA metal plate is present on the right side of the turret near the pintle 7.62 mm machine gun.
+* A 4 mm Structural steel box is present, mounted on the vehicle rear turret.
 
 The M41's armour is very light and practically useless. With some luck, a few shots may bounce off of the turret if at an angle but don't expect that to happen often. As for the rest of the tank, it has no real armour and will be penetrated by any tank cannons at its rank. However, this means that APDS rounds used by some contemporary tanks will not create much spalling, which limits the post-penetration damage of poorly aimed shots. The armour is thick enough to trigger the fuses on APHE rounds, so be wary of instant knockouts. The most vulnerable part of this tank is the large turret. Three crew members are located here and most shots to the right of the gun will immediately destroy the tank. The turret does have a lot of empty space on the left side of the gun causing most solid shots there to do no damage. Still, avoid keeping the turret exposed, it is an enticing target for APHE rounds and a single one of those can send the tank back to the hangar.
 
@@ -47,7 +43,6 @@ Compared to some other contemporary light tanks like the [[Ru 251]] or [[T92]], 
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=775|rbMinHp=442}}
@@ -59,9 +54,7 @@ Compared to some other contemporary light tanks like the [[Ru 251]] or [[T92]], 
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|M32 (76 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -135,9 +128,7 @@ The leKPz M41 does not have the M339 AP shot or the M361 smoke round from the US
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_M41A1.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.5.0.23''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -157,9 +148,7 @@ Keep in mind that due to the low post-penetration damage of its ammunition, the 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|M2HB (12.7 mm)|M1919A4 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -182,7 +171,6 @@ Keep in mind that due to the low post-penetration damage of its ammunition, the 
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The leKPz M41 is best used as a support tank, covering teammate advances and scouting enemies from afar. While it can be used for brawling, the terrible armour, bouncy gun handling, and inability to destroy enemies quickly mean that this role should be left to other tanks if possible.
@@ -193,49 +181,45 @@ Move up or otherwise switch positions every once in a while to avoid retaliatory
 
 The good optics, decent gun depression, and high velocity APDS/HEATFS make the M41 a good sniper. Most enemies that it will encounter do not require precise aiming to penetrate unless the tank has been uptiered. Just be prepared to reverse into cover or pop smoke if the target only sustains superficial damage. Watch out for other light tanks like the [[T92]], [[M56|M56 Scorpion]], and [[Type 63-I]]. They are capable of dispatching the M41 with ease and their high mobility makes them difficult to account for when wrangling multiple opponents. The best tools against these are HEATFS and the M2 Browning machine gun. Thankfully, as a German tank, the M41 will usually not face the Ru 251 in realistic battles.
 
-Stick close to trees or tall buildings if aircraft are around. The M41's size and bulbous turret makes it easy to spot and even aircraft armed with heavy machine guns can penetrate the roof easily. It should go without saying that bombs and rockets are also very lethal.
+Stick close to trees or tall buildings if aircraft are around. The M41's size and bulbous turret makes it easy to spot  and even aircraft armed with heavy machine guns can penetrate the roof easily. It should go without saying that bombs and rockets are also very lethal.
 
 Remember to scout enemies as often as possible. This makes it much easier for your teammates to stay alive and dispatch them, and when the latter happens a reward is given and the SP cost of aircraft is reduced. A successful run can result in very cheap aircraft spawns, which is a good consolation if the M41's career ends with a revenge bomb or untimely snipe from a camping opponent. Do not fret if not many kills are achieved, it is common to rack up lots of assists and still contribute a lot to the team - definitely nice considering the difficult stock grind.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Agile tank, has good reverse speed and can turn in place
-- Good top speed 72 km/h (average speed is more around 35-40 km/h)
-- Fast turret traverse
-- Has access to the same HEATFS shell as the T92
-- .50 cal AA machine gun with good coverage, for use against aircraft and light targets
-- Equipped with smoke grenade launchers
-- Can fulfill the role of the Ru 251 for players that don't have it
+* Agile tank, has good reverse speed and can turn in place
+* Good top speed 72 km/h (average speed is more around 35-40 km/h)
+* Fast turret traverse
+* Has access to the same HEATFS shell as the T92
+* .50 cal AA machine gun with good coverage, for use against aircraft and light targets
+* Equipped with smoke grenade launchers
+* Can fulfill the role of the Ru 251 for players that don't have it
 
 '''Cons:'''
 
-- Large profile for a light tank
-- Bad armour, can be ripped to shreds by all the AA guns at the tier
-- Armour is thick enough to fuse APHE rounds
-- All ammo types cause punctual post-penetration damage
-- Painful stock grind that begins with an APCR stock shell
-- HEATFS is mediocre
+* Large profile for a light tank
+* Bad armour, can be ripped to shreds by all the AA guns at the tier
+* Armour is thick enough to fuse APHE rounds
+* All ammo types cause punctual post-penetration damage
+* Painful stock grind that begins with an APCR stock shell
+* HEATFS is mediocre
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 {{main|M41A1#History|l1=History of the M41}}
 
 === Usage by the Bundeswehr (leKPz M41) ===
 The leKPz M41 (short for leichter Kampfpanzer M41 (light MBT M41) was the Bundeswehr variant, serving in the West German Army from 1956 to 1969. The leKPz M41's served in Panzeraufklärungsbatallione (tank reconnaissance batallions) and Panzerjägerbataillione (tank destroyer batallions). Very few served in Panzergrenadierbataillione (tank grenadier bataillions). From 1969, the leKPz M41 was replaced by the [[Leopard 1]] in reconnaissance bataillions and by tank destroyers like the [[JPz 4-5]] and the [[RakJPz 2]] in tank destroyer bataillions. Variants with a slightly modified chassis of the M41 remained in service in the form of SPAA (Flakpanzer M42) as well as in the form of tank howitzers (lePzH M52 and mPzH M44).
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_le_kpz_m41 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_le_kpz_m41 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover" heights="200">
@@ -248,13 +232,13 @@ File:LeKPz M41 Firing.jpg|<small>LePKz M41 firing its main gun</small>
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{Germany light tanks}}

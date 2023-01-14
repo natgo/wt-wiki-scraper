@@ -10,9 +10,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian fighter {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]].
 
 The C.R.32 quater fights are usually at low to medium altitude, the recommended fight altitude is around 1,000 to 3,000 m. Flying above ground level gives you the advantage of diving on your enemies, and you can also dive to avoid incoming fighters.
@@ -24,7 +22,6 @@ It has plenty of ammo, 350 rpg, which is enough to kill at least 2 planes. Its a
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!--''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''-->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -52,7 +49,7 @@ It has plenty of ammo, 350 rpg, which is enough to kill at least 2 planes. Its a
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || X || X || X || X <!-- ✓ -->
+| X || X || X || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -97,11 +94,10 @@ It has plenty of ammo, 350 rpg, which is enough to kill at least 2 planes. Its a
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- No armour plates or bulletproof glass
-- Self-sealing fuel tank located between engine and pilot
+* No armour plates or bulletproof glass
+* Self-sealing fuel tank located between engine and pilot
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -112,20 +108,16 @@ When grinding the CR.32 quater focus on getting the performance modifications. T
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Breda-SAFAT (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 12.7 mm Breda-SAFAT machine guns, nose-mounted (350 rpg = 700 total)
+* 2 x 12.7 mm Breda-SAFAT machine guns, nose-mounted (350 rpg = 700 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
-The CR.32 Quater does not have a real playstyle that differs much from other biplanes. Compared to the Soviet and German biplanes, it is slightly less manoeuvrable because it has a little more structural resistance, this also means that it is able to absorb many more shots during fights. Its increased resistance allows it to absorb many hits from 12.7 mm MGs without causing too much damage to the aircraft. In these cases, each player is free to use the aircraft as he likes, being a biplane it is difficult to differentiate it from the others, but use it in pairs or in groups when possible because its slowness is a disadvantage in solo fights.
+The CR.32 Quater does not have a real playstyle that differs much from other biplanes. Compared to the Soviet and German biplanes, it is slightly less manoeuvrable because it has a little more structural resistance, this also means that it is able to absorb many more shots during fights. Its increased resistance allows it to absorb many hits from 12.7 mm MGs without causing too much damage to the aircraft. In these cases, each player is free to use the aircraft as he likes, being a biplane it is difficult to differentiate it from the others, but use it in pairs or in groups when possible because its slowness is a disadvantage in solo fights. 
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -145,33 +137,30 @@ The CR.32 Quater does not have a real playstyle that differs much from other bip
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- 12.7 mm MGs are great for knocking out pilots and penetrating enemy armour plates
-- Nose-mounted MGs mean little convergence work is needed
-- Excellent dive speed
-- Surprisingly good turning against bigger fighters
-- Fixed gear make it easy to land
-- Great all-round vision provided by the open cockpit especially towards the rear, giving the pilot enough situational awareness in Simulator
-- In Simulator it almost never spins, allowing some really tight manoeuvres to be performed without danger
+* 12.7 mm MGs are great for knocking out pilots and penetrating enemy armour plates
+* Nose-mounted MGs mean little convergence work is needed
+* Excellent dive speed
+* Surprisingly good turning against bigger fighters
+* Fixed gear make it easy to land
+* Great all-round vision provided by the open cockpit especially towards the rear, giving the pilot enough situational awareness in Simulator
+* In Simulator it almost never spins, allowing some really tight manoeuvres to be performed without danger
 
 '''Cons:'''
 
-- Turns worse than some biplanes (e.g. I-15) it faces
-- Has a relatively small ammo pool, firing in short bursts is very recommended
-- Very poor roll rate
-- No protection for the pilot
-- Uses a telescopic gunsight which is extremely hard to use in Simulator
-- Upper wing greatly obstructs the upward-forward view, a disadvantage in a Simulator dogfight
-- Fixed gear increase drag
+* Turns worse than some biplanes (e.g. I-15) it faces
+* Has a relatively small ammo pool, firing in short bursts is very recommended
+* Very poor roll rate
+* No protection for the pilot
+* Uses a telescopic gunsight which is extremely hard to use in Simulator
+* Upper wing greatly obstructs the upward-forward view, a disadvantage in a Simulator dogfight
+* Fixed gear increase drag
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 '''Development'''
 
 The FIAT CR.32 quater fighter biplane was developed by the Celestino Rosatelli, an Italian aeronautic enginner, who designed various planes, such as the [[CR.32]], CR.32 quater, [[CR.32 bis]], [[CR.42]], [[Marcolin's C.R.42 CN|CR.42 CN]], [[B.R.20DR]], [[B.R.20M M1]], and many more.
@@ -180,8 +169,8 @@ After the production of the CR.32 Ter, engineers added a few improvements: modif
 
 At the end of 1937, the CR.32 quater had replaced the CR.32 ter in the Regia Aeronautica. The CR.32 quater was used by Italy, Hungary, Venezuela and Paraguay and sub-variants were created:
 
-- CR.32 quater CN
-- CR.32 quater AS (variant capable of carrying bombs and fight in desert conditions, the drop load, consist bombs or stick bombs up to 100 Kg)
+* CR.32 quater CN
+* CR.32 quater AS (variant capable of carrying bombs and fight in desert conditions, the drop load, consist bombs or stick bombs up to 100 Kg)
 
 '''Italy'''
 
@@ -194,12 +183,10 @@ The CR.32 quater having been involved in military operations were those statione
 The other front where the machine was used to the last example was Eastern Africa, fighting highly superior machines, such as Blenheims and Hurricanes. The CR.32 quater closely followed the alternate phases of the campaign, from Italian advance into Egypt to the loss of Cyrenaica, they were widely used fairly successfully with various bomb types until January 1941. After the conquest of Crete in May 1941, [[CR.32 (Family)|CR.32s]] were relegated to fighting training duties.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=cr_32_quater Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=cr_32_quater Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover"  heights="150">
@@ -212,15 +199,13 @@ File:CR.32 quater over Italian city.png|<small>Overflying Italy in war</small>
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer Fiat}}
 {{Italy fighters}}

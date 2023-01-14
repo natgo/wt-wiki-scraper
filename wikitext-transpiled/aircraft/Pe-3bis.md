@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet strike aircraft {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
 The Pe-3bis is the final aircraft in the Pe-3 family of strike aircraft, and shares similar characteristics with its other brethren. It features an impressive array of secondary weapons, making it an effective ground attacker. It can also be used in as an effective air-defence fighter and bomber hunter, taking advantage of its airspawn and powerful frontal armament. Overall, this aircraft is a great multirole fighter suitable for both Air and Mixed battles.
@@ -19,9 +17,7 @@ The Pe-3bis is the final aircraft in the Pe-3 family of strike aircraft, and sha
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The Pe-3bis has similar handling characteristics as its predecessor, the Pe-3. It isn't a very manoeuvrable aircraft, and has mediocre handling characteristics even for a twin-engined heavy fighter. The plane can attain a top speed of roughly 430 kph at sea level when spaded, and up to 530 kph at higher altitudes. This means that the aircraft is much slower than most enemy single-engine fighters and some of its twin-engined brethren (for example, the [[Me 410 A-1|Me 410]]). The plane also has a slow climb rate, meaning that gaining altitude is always going to be a pain.
 
 This aircraft benefits from having control surfaces that are relatively large and responsive. In particular, the aircraft's roll rate is actually quite satisfactory for an aircraft of its size. However, being a heavy fighter, the Pe-3bis suffers from relatively bad energy retention and turning capacity. The aircraft is equipped with leading-edge slats which can help improve manoeuvrability, but still cannot out-manoeuvre almost every single-engine fighter it faces at the BR. The aircraft suffers from slight control-surface lockup at higher speeds, but this isn't severe enough to prevent the aircraft from pulling out from a steep dive.
@@ -53,7 +49,7 @@ The aircraft's engines are another weak point, as their oil coolers are rather i
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -106,19 +102,17 @@ The aircraft's engines are another weak point, as their oil coolers are rather i
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 [[File:Pe-3bis Armour Layout (2).png|thumb|Pe-3 Armour layout seen from the side.]]
 
-- 6 mm steel plate in front of the pilot
-- 7 mm steel plate in front / partially below the pilot
-- 45 mm bulletproof glass in front of pilot
-- 13 mm armoured seat for pilot
-- 6 mm steel protecting sides of gunner cabin
-- 10 mm steel underneath gunner
-- 12 mm steel behind gunner
-- Fuel tanks are located behind the gunner and in the wing, are self-sealing and feature a neutral gas pressurization system
+* 6 mm steel plate in front of the pilot
+* 7 mm steel plate in front / partially below the pilot
+* 45 mm bulletproof glass in front of pilot
+* 13 mm armoured seat for pilot
+* 6 mm steel protecting sides of gunner cabin
+* 10 mm steel underneath gunner
+* 12 mm steel behind gunner
+* Fuel tanks are located behind the gunner and in the wing, are self-sealing and feature a neutral gas pressurization system
 
 This aircraft benefits from strong armour protection for both crew members, featuring 6-13 mm steel plating for the pilot cabin. As well, the pilot has a 45 mm bulletproof glass plate in the front of the aircraft. The fuel tanks in the wing can often survive fires due to their pressurization system.
 
@@ -131,50 +125,42 @@ However, the plane is still rather fragile. The central fuel tank (behind the gu
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|ShVAK (20 mm)|Berezin UB (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 1 x 20 mm ShVAK cannon, nose-mounted (250 rpg)
-- 2 x 12.7 mm Berezin UB machine guns, belly-mounted (265 rpg left + 230 rpg right = 495 total)
+* 1 x 20 mm ShVAK cannon, nose-mounted (250 rpg)
+* 2 x 12.7 mm Berezin UB machine guns, belly-mounted (265 rpg left + 230 rpg right = 495 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|FAB-100 (100 kg)|FAB-250M43 (250 kg)|RS-132|RBS-132}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 100 kg FAB-100 bombs (200 kg total)
-- 4 x 100 kg FAB-100 bombs (400 kg total)
-- 2 x 250 kg FAB-250M43 bombs + 2 x 100 kg FAB-100 bombs (700 kg total)
-- 6 x RS-132 rockets
-- 6 x RBS-132 rockets
+* Without load
+* 2 x 100 kg FAB-100 bombs (200 kg total)
+* 4 x 100 kg FAB-100 bombs (400 kg total)
+* 2 x 250 kg FAB-250M43 bombs + 2 x 100 kg FAB-100 bombs (700 kg total)
+* 6 x RS-132 rockets
+* 6 x RBS-132 rockets
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|Berezin UB (12.7 mm)|ShKAS (7.62 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 1 x 12.7 mm Berezin UB machine gun, dorsal turret (200 rpg)
-- 1 x 7.62 mm ShKAS machine gun, tail turret (250 rpg)
+* 1 x 12.7 mm Berezin UB machine gun, dorsal turret (200 rpg)
+* 1 x 7.62 mm ShKAS machine gun, tail turret (250 rpg)
 
 It should be noted that the 7.62 mm machine gun has a tiny firing arc making it almost useless in all engagements. Thus, the main line of defence of the Pe-3bis is its 12.7 mm machine gun. This weapon has decent coverage over the upper hemisphere, but cannot fire underneath the aircraft. As a result, the aircraft is completely undefended against attacks from below.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Pe-3bis is a very effective multirole aircraft that can be configured for a variety of missions. Firstly, the aircraft benefits from an airspawn, allowing it to reach the battlefield much faster. As well, the aircraft is decently-armoured and has great armament options, meaning that it can be used in both bomber-hunting and ground-attack roles. These two main paths will be discussed below:
 
 '''Ground Attack:'''
@@ -193,9 +179,9 @@ An ideal strategy is to begin side-climbing at the start of a match. Due to the 
 
 '''Specific Enemies worth noting:'''
 
-- '[BV 238]] - The German mega-boat-plane is one common enemy that can be encountered in uptiers. Though slow, its formidable defensive armament will turn you into mincemeat if you stay on their tail for too long. When engaging this aircraft, approaching for a head-on is the best strategy, as the BV 238 only has a single quad turret at the front. Aim for the wings and engines, as they are much more vulnerable than the BV 238's fuselage.
-- [[SB2C-4]] - The Helldiver can often be encountered in uptiers flying at altitude. However, don't underestimate this plane as it wield a strong set of forward weapons that can be augmented with underwing gun pods (on the SB2C-4). Thus, don't take any head-ons as the SB2C's cannons can easily break a wing or set the engines on fire. Instead, dive on them when they're unaware, as the rear quadrant of the SB2C isn't well protected.
-- [[Mosquito (Family)|Mosquito]] - The Mosquito, another twin-engined fighter that can be encountered, is also a dangerous enemy. It wields a quad pack of 20 mm Hispanos that will rip the Pe-3bis apart. As with the Helldiver, don't take head-ons. Instead, dive on them from the upper quadrant. Their airframe is fragile as it is made of wood, and will not take many hits.
+* '[BV 238]] - The German mega-boat-plane is one common enemy that can be encountered in uptiers. Though slow, its formidable defensive armament will turn you into mincemeat if you stay on their tail for too long. When engaging this aircraft, approaching for a head-on is the best strategy, as the BV 238 only has a single quad turret at the front. Aim for the wings and engines, as they are much more vulnerable than the BV 238's fuselage.
+* [[SB2C-4]] - The Helldiver can often be encountered in uptiers flying at altitude. However, don't underestimate this plane as it wield a strong set of forward weapons that can be augmented with underwing gun pods (on the SB2C-4). Thus, don't take any head-ons as the SB2C's cannons can easily break a wing or set the engines on fire. Instead, dive on them when they're unaware, as the rear quadrant of the SB2C isn't well protected.
+* [[Mosquito (Family)|Mosquito]] - The Mosquito, another twin-engined fighter that can be encountered, is also a dangerous enemy. It wields a quad pack of 20 mm Hispanos that will rip the Pe-3bis apart. As with the Helldiver, don't take head-ons. Instead, dive on them from the upper quadrant. Their airframe is fragile as it is made of wood, and will not take many hits.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -215,31 +201,28 @@ An ideal strategy is to begin side-climbing at the start of a match. Due to the 
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Decent frontal armament with large ammunition reserves
-- Relatively sturdy, and can potentially survive some fires due to its self-sealing and pressurized fuel tanks
-  \*\* Pilot and gunner are both fairly well protected
-- Gets an airspawn in RB meaning that it can reach the battlefield much faster
-- Can carry a decent amount of suspended ordnance making ground-pounding a viable option
+* Decent frontal armament with large ammunition reserves
+* Relatively sturdy, and can potentially survive some fires due to its self-sealing and pressurized fuel tanks
+** Pilot and gunner are both fairly well protected
+* Gets an airspawn in RB meaning that it can reach the battlefield much faster
+* Can carry a decent amount of suspended ordnance making ground-pounding a viable option
 
 '''Cons:'''
 
-- Frontal armament isn't nearly as powerful as similar aircraft such as the [[Mosquito (Family)|Mosquito]] or [[Ki-108]]
-- Ordnance options are rather limited and doesn't have access to heavy bombs (500 kg+)
-- Lacklustre flight characteristics including poor manoeuvrability and slow top speed
-- FAB-250 bombs and rockets drop in pairs, severely limiting the maximum amount of targets
-- Aircraft lacks a ventral gunner, and the tailcone machine gun is essentially useless as a self-defence weapon
-- Has a large minimum fuel option of 52 minutes - you'll almost never need that much fuel
-- Terribly long turn time, even when fully upgraded; you will have a tough time manoeuvring
+* Frontal armament isn't nearly as powerful as similar aircraft such as the [[Mosquito (Family)|Mosquito]] or [[Ki-108]]
+* Ordnance options are rather limited and doesn't have access to heavy bombs (500 kg+)
+* Lacklustre flight characteristics including poor manoeuvrability and slow top speed
+* FAB-250 bombs and rockets drop in pairs, severely limiting the maximum amount of targets
+* Aircraft lacks a ventral gunner, and the tailcone machine gun is essentially useless as a self-defence weapon
+* Has a large minimum fuel option of 52 minutes - you'll almost never need that much fuel
+* Terribly long turn time, even when fully upgraded; you will have a tough time manoeuvring
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 After the initial introduction of the Pe-3 fighter to frontline units, pilots reported several issues with the aircraft. Importantly, the flash from the forward guns frequently blinded the pilot, due to the aircraft's frequent use as a night fighter. As a result, the Petlyakov design bureau began working on an improved version of the Pe-3, called the Pe-3bis. The first prototype was developed in September and October of 1941.
 
 The aircraft featured an improved main armament over the original Pe-3, now carrying a pair of 12.7 mm Berezin UB machine guns and a 20 mm ShVak cannon. The wing was equipped with leading-edge slats, and the fuel tanks were given a gas pressurization system using engine exhaust gases. Combat testing of the aircraft revealed additional problems - importantly, the nose-mounted machine guns still frequently blinded the pilot. As a result, a redesign of the weapons mountings led to the guns being moved underneath the fuselage, near the bomb bay location of the original Pe-2.
@@ -269,39 +252,33 @@ Pe-3/Pe-3bis fighters were in service only with the Air Force of the Workers' an
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=pe-3_bis Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=pe-3_bis Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-
 <div><ul>
 <li style="display: inline-block;"> [[File:Pe-3bis at sunset with rockets.png|thumb|none|300px|]] </li>
 </ul></div>
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 '''Aircraft of a comparable role, configuration or era:'''
-
-- [[Me 410 (Family)|Me 410 ''Hornisse'']]
-- [[Mosquito (Family)|Mosquito]]
-- [[Ki-108]]
-- [[SM.91]]
+* [[Me 410 (Family)|Me 410 ''Hornisse'']]
+* [[Mosquito (Family)|Mosquito]]
+* [[Ki-108]]
+* [[SM.91]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wikipedia:Petlyakov_Pe-3|[Wikipedia] Petlyakov Pe-3]]
+* [[wikipedia:Petlyakov_Pe-3|[Wikipedia] Petlyakov Pe-3]]
 
 {{AirManufacturer Petlyakov}}
 {{USSR strike aircraft}}

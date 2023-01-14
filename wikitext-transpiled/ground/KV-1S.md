@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=ussr_kv_1s
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet heavy tank {{Battle-rating}}. It was introduced in [[Update 1.57 "Battle March"]]. A lightened KV-1 made to improve its manoeuvrability, the KV-1S has less overall armour than the original design but keeps its same lethality with improved speed.
 
 Compared to the KV-1 L-11, side and rear armour are decreased to 60 mm, lightening the vehicle and increasing its speed to maximum 43 kph. A new turret was installed, presenting a smaller profile, thicker armour, and better angling all around. The armament is also changed to the ZIS-5, the equivalent of its [[KV-1 (ZiS-5)|successor]] and the [[T-34 (1941)|T-34]]'s F-34 guns.
@@ -19,15 +17,13 @@ Compared to the KV-1 L-11, side and rear armour are decreased to 60 mm, lighteni
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 The KV-1S is a lighter, more mobile version of the KV-1, meaning it has thinner armour. The KV-1S features thinner hull side armour at 60 mm, thinner lower front plate at 60 mm, and a very weak gun mantlet of only ~50 mm thick. Though against opponents of lower BR the KV-1S can still utilise the angling tactic and stack the effective thickness up to 100 mm, the gun mantlet becomes a very fatal weak spot if the opponent knows it. At 50 mm unangled, even a Pz.III can frontally penetrate it and break the gun breech or knock out a few crews. But apart from the gun mantlet, the turret is overall more sturdy than the original KV-1, at 82 mm all-round. This may bounce off some poorly aimed shells if they impact the edge. Roof armour, at 30-40mm, is very reliable against strafing planes. Post-penetration survivability against common opponents is not great as the crew members are closely packed together. Overall, due to the reduction of armour thickness here and there, the KV-1S no longer grants the player a sturdy protection. Rather they must rely more on the improved mobility to not get hit.
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (Hull, Turret roof)
-- Cast homogeneous armour (Turret)
+* Rolled homogeneous armour (Hull, Turret roof)
+* Cast homogeneous armour (Turret)
 
 {| class="wikitable"
 |-
@@ -42,12 +38,11 @@ The KV-1S is a lighter, more mobile version of the KV-1, meaning it has thinner 
 |}
 '''Notes:'''
 
-- Suspension wheels are 20 mm thick, tracks are 30 mm thick.
-- The gun mantlet shield has varying thickness, thickest just a little above and below the centre 55 mm area.
+* Suspension wheels are 20 mm thick, tracks are 30 mm thick.
+* The gun mantlet shield has varying thickness, thickest just a little above and below the centre 55 mm area.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp= 775|rbMinHp= 531}}
@@ -61,9 +56,7 @@ The core of the KV-1S is its enhanced mobility over the heavier KV-1. With a pow
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|ZIS-5 (76 mm)}}
 
 The KV-1S is armed with a 76 mm ZIS-5 cannon which is quite similar to that of a SU-76M. In general, the gun has inadequate penetration at this BR but comes with a wide range of ammunition. From APHE to APCR and smoke shells, these shells can fit various scenarios. The 76 mm APHE shells have an explosive filler, allowing them to knock out most enemy tanks with a single shot if it is placed correctly. However, their mediocre penetration of ~90 mm becomes below average when facing well-armoured tanks at similar BR like the [[Pz.IV H]], [[StuG III G]] and [[T14]], especially when at a distance or when they are angling. The player have to be familiar with common foes' weak spots or else they will struggle to penetrate in most cases.
@@ -89,13 +82,13 @@ The gun depression is of a typical Soviet style, at -5 degrees, which is inadequ
 ==== Ammunition ====
 The available ammunition allows for engaging all types of targets:
 
-- '''BR-350A (MD-5 fuze)''': APHEBC; a shell with high explosive mass that will one-shot any tank it penetrates but has an average penetration power.
-- '''BR-354P''': APCR; a composite round with the best penetration but no explosive filler and will only penetrate flat vertical surfaces.
-- '''BR-350SP''': APBC; a solid shot with an even better penetration but no explosive filler.
-- '''BR-350B (MD-8 fuze)''': APHEBC; same shell as the BR-350A but with increased penetration at the cost of slightly less explosive filler.
-- '''OF-350M''': HE; useful for destroying open and lightly armoured vehicles.
-- '''Sh-354T''': Shrapnel; useful against vehicles that are resistant to the HE shells but too thinly armoured to trigger the fuzes of AP shells.
-- '''D-350A''': Smoke; useful to blind enemy vehicles that are too remote for you to disable so that you can progress towards objectives.
+* '''BR-350A (MD-5 fuze)''': APHEBC; a shell with high explosive mass that will one-shot any tank it penetrates but has an average penetration power.
+* '''BR-354P''': APCR; a composite round with the best penetration but no explosive filler and will only penetrate flat vertical surfaces.
+* '''BR-350SP''': APBC; a solid shot with an even better penetration but no explosive filler.
+* '''BR-350B (MD-8 fuze)''': APHEBC; same shell as the BR-350A but with increased penetration at the cost of slightly less explosive filler.
+* '''OF-350M''': HE; useful for destroying open and lightly armoured vehicles.
+* '''Sh-354T''': Shrapnel; useful against vehicles that are resistant to the HE shells but too thinly armoured to trigger the fuzes of AP shells.
+* '''D-350A''': Smoke; useful to blind enemy vehicles that are too remote for you to disable so that you can progress towards objectives.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="8" | Penetration statistics
@@ -163,9 +156,7 @@ The available ammunition allows for engaging all types of targets:
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.13.0.171''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -180,14 +171,12 @@ The available ammunition allows for engaging all types of targets:
 |}
 '''Notes''':
 
-- As they are modeled by sets of 2, shells disappear from the rack only after you fire both shells in the set.
-- Turret empty: 109&nbsp;''(+5)'' shells.
+* As they are modeled by sets of 2, shells disappear from the rack only after you fire both shells in the set.
+* Turret empty: 109&nbsp;''(+5)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|DT (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -202,9 +191,7 @@ The available ammunition allows for engaging all types of targets:
 The small calibre of the DT machine gun makes it largely ineffective against all armoured vehicles but the ones with an open compartment. It still can be used to ping targets as a rangefinding help or to mow down minor obstacles blocking your line of sight.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 When playing the {{PAGENAME}}, remember that you are still a heavy tank. Keep your front armour facing your enemies at all times, and preferably angled (but slightly less than [[KV-1 (L-11)]]). The turret is more durable and can deflect more shots than before, so if possible expose your turret only. Gun has no special penetration value, so try to target weak spots or areas with the least armour. Flanking attacks could end in a fiery demise. Also, this tank is still a KV-1 in its heart.
 
 The best tactics for this tank is: keep a low profile and stay behind the main assault. When your team has advanced to the enemy's base, the KV-1s is best used to round up straggling enemy tanks behind your lines. If these tanks aren't destroyed, they'll attack your team's rear.
@@ -216,29 +203,27 @@ This vehicle (due to its higher BR) can also meet many opponents that your armou
 Meeting other KV-1's and [[Churchill Mk VII|Churchill]] may become a stalemate as the KV-1S gun may not penetrate against their formidable armour. This leads to the hope that the APCR ammunition works, and the firing of several rounds into the target for penetration.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Faster than its [[KV-1 (L-11)|predecessor]] and [[KV-1 (ZiS-5)|successor]], meaning more flexible tactics
-- High reverse speed and acceleration, allowing it to get back into cover quickly after firing
-- Adequate gun with nice penetration and great damage against common foes like [[Pz.IV G]], [[Cromwell I|Cromwell]]
-- Bouncy turret front
-- Wide tracks make for good cross-country performance
-- Resilient. Can remain reasonably effective, even with a lot of damage
+* Faster than its [[KV-1 (L-11)|predecessor]] and [[KV-1 (ZiS-5)|successor]], meaning more flexible tactics
+* High reverse speed and acceleration, allowing it to get back into cover quickly after firing
+* Adequate gun with nice penetration and great damage against common foes like [[Pz.IV G]], [[Cromwell I|Cromwell]]
+* Bouncy turret front
+* Wide tracks make for good cross-country performance
+* Resilient. Can remain reasonably effective, even with a lot of damage
 
 '''Cons:'''
 
-- Weakened armour is considerably more vulnerable especially against tanks with long-barreled guns (e.g. [[StuG III G]] and [[Pz.IV H]])
-- Cramped turret puts all crew at risk of being taken out in one shot
-- Still a heavy vehicle with poor acceleration. Cannot keep up with medium tanks like [[T-34-57|T-34]]
-- Gun lacks penetration against heavier opponents: the [[Churchill Mk VII]]s are very hard to get through and the APCR shot is unreliable.
-- -5° gun depression is not enough for hilly battlefields
-- Turret rotation is slow, unable to respond to flankers quickly
+* Weakened armour is considerably more vulnerable especially against tanks with long-barreled guns (e.g. [[StuG III G]] and [[Pz.IV H]])
+* Cramped turret puts all crew at risk of being taken out in one shot
+* Still a heavy vehicle with poor acceleration. Cannot keep up with medium tanks like [[T-34-57|T-34]]
+* Gun lacks penetration against heavier opponents: the [[Churchill Mk VII]]s are very hard to get through and the APCR shot is unreliable.
+* -5° gun depression is not enough for hilly battlefields
+* Turret rotation is slow, unable to respond to flankers quickly
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The KV-1S was an attempt by the Soviet Union (USSR) to come up with a more mobile variant of the KV-1 heavy tank. The 'S' stood for 'Skorostnoy' which means 'fast' in English.<ref name=":0">https://tanks-encyclopedia.com/ww2/soviet/soviet_KV-1s.php</ref>
@@ -262,37 +247,34 @@ Production lasted from August 1942 until late 1943 with a total of 1,370 KV-1S t
 The KV-1S did end up serving on the front line for a while, taking part in the Battle of Kursk in 1943 under the herd Guards Heavy Tank Brigade. It's stated by some sources that the KV-1S had also taken part in the Berlin offensive but that may not be true because by then the KV-1S had been mostly removed from combat units.<ref name=":0" />
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_kv_1s Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_kv_1s Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|DwbexTKZA-A|'''The Shooting Range #49''' - ''Pages of History'' section at 03:09 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
 
-- [[MK-II "Matilda" (USSR)]]
-- [[Churchill Mk III]]
-- [[ARL-44 (ACL-1)]]
+* [[MK-II "Matilda" (USSR)]]
+* [[Churchill Mk III]]
+* [[ARL-44 (ACL-1)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/devblog/current/868/|[Devblog] KV-1S: How's the tank?]]
-- [[wikipedia:Kliment_Voroshilov_tank|[Wikipedia] Kliment Voroshilov tank]]
-- [https://tanks-encyclopedia.com/ww2/soviet/soviet_KV-1.php <nowiki>[Tanks Encyclopedia]</nowiki> KV-1]
+* [[wt:en/devblog/current/868/|[Devblog] KV-1S: How's the tank?]]
+* [[wikipedia:Kliment_Voroshilov_tank|[Wikipedia] Kliment Voroshilov tank]]
+* [https://tanks-encyclopedia.com/ww2/soviet/soviet_KV-1.php <nowiki>[Tanks Encyclopedia]</nowiki> KV-1]
 
 === References ===
 <references />

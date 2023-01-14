@@ -8,13 +8,11 @@
 }}
 {{Specs-Card
 |code=f-86f-40_japan_blue_impulse
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Japanese jet fighter {{Battle-rating}}. It was introduced as a premium pack in [[Update 1.87 "Locked On"]] but was removed from the store after the [[wt:en/news/7748-sale-summer-sale-en|2022 Summer sale]]. It was later reintroduced as a premium vehicle purchasable in-game with Golden Eagles {{ge}} in [[Update "Drone Age"]].
 
 Considered one of the premier fighter aircraft of the day, several nations put bids in to receive surplus F-86 fighters to add to their arsenal. Japan successfully acquired this aircraft, however, due to the popularity of the aircraft, supplies evaporated. Though North American restarted production of the aircraft, Japan successfully lobbied to acquire the licensing rights to have Mitsubishi Manufacturing begin production of the aircraft, allowing Japan to increase its air force's offensive and defensive capabilities sooner than expected.
@@ -24,7 +22,6 @@ Though not one of the fastest aircraft during this time period, it can be one of
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -52,7 +49,7 @@ Though not one of the fastest aircraft during this time period, it can be one of
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -90,7 +87,7 @@ Though not one of the fastest aircraft during this time period, it can be one of
 ! colspan="2" | Engine name || Number
 ! colspan="2" | Empty mass || colspan="2" | Wing loading (full fuel)
 |-
-| colspan="2" | General Electric J47-GE-27 || 1
+| colspan="2" | General Electric J47-GE-27 ||  1
 | colspan="2" | 5,490 kg || colspan="2" | 232 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
@@ -118,16 +115,14 @@ Though not one of the fastest aircraft during this time period, it can be one of
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 [[File:F-86F-40 JASDF (Japan) Armour Scheme.png|thumb|right|The armour scheme of the {{PAGENAME}}.]]
 '''Armour list:'''
 
-- 6.35 mm - Fore-cockpit steel plates
-- 38 mm - Bulletproof windscreen
-- 12.7 mm - Steel plate behind pilot's seat
-- 20 mm - Steel plate in pilot's headrest
+* 6.35 mm - Fore-cockpit steel plates
+* 38 mm - Bulletproof windscreen
+* 12.7 mm - Steel plate behind pilot's seat
+* 20 mm - Steel plate in pilot's headrest
 
 This aircraft is equipped at the front with two steel plates, each of which is 6.35 mm thick. The cockpit has a 38 mm bulletproof windscreen that protects the pilot's torso and head. The backseat incorporates 12.7 mm of steel to protect the pilot's back while the headrest contains a 20 mm steel plate. This protection will help against smaller calibre rounds, however, cannot sustain many direct hits with 20 mm rounds or higher.
 
@@ -140,43 +135,35 @@ The overall survivability of the aircraft is manageable. There are some empty sp
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M3 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 6 x 12.7 mm M3 Browning machine guns, nose-mounted (300 rpg = 1,800 total)
+* 6 x 12.7 mm M3 Browning machine guns, nose-mounted (300 rpg = 1,800 total)
 
 The F86F-40 JASDF were U.S. airframes assembled by Mitsubishi in Japan, and they offered the same offensive armament of many of its Sabre brethren, namely the 6 x M3 Browning 12.7 mm/.50 calibre machine guns. These machine guns are similar in performance to their predecessor, the M2 Browning; however, they excelled with a significantly higher rate of fire. The total ammunition count for this aircraft is 1,800 rounds, divided up with 300 rounds per gun. Ammunition belts for this aircraft are conventional 12.7 mm belts found on U.S. aircraft, and typically the tracer belts permit for the quickest correction of aim. Other belts may be utilised as necessary and depending on playstyle such as the Stealth belts; however, these should be used by skilled pilots who already understand the firing aspects of the M3 Brownings and bullet performance. One challenge with the Stealth belts is the lack of tracers, making it much harder to correct aim when solely relying on visual clues.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AN-M65A1 Fin M129 (1,000 lb)|AIM-9B Sidewinder|HVAR}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 16 x HVAR rockets
-- 2 x 1,000 lb AN-M65A1 Fin M129 bombs (2,000 lb total)
-- 2 x AIM-9B Sidewinder missiles
+* Without load
+* 16 x HVAR rockets
+* 2 x 1,000 lb AN-M65A1 Fin M129 bombs (2,000 lb total)
+* 2 x AIM-9B Sidewinder missiles
 
 The unguided rockets out-fitted on this aircraft are the familiar American HVARs, which can be used against slow-moving bombers or ground target vehicles and anti-aircraft guns. Since the HVARs are a fire-and-forget rocket, they work best against either stationary targets or against slow-moving targets which may not be able to avoid inbound rockets. Another option for suspended ordnances includes bombs, namely the 1,000 lbs AN-M65A1 bombs. Two of these bombs is all that this aircraft can safely carry, but these bombs will do considerable damage against ground units, ships and bases. While performing bombing runs, always be on the lookout for enemy fighters attempting to swoop in and eliminate the F-86F-40 which may be flying slower and lower than typical. For air-to-air combat, using the Aim-9B missiles to complement the M3 Browing machine guns makes for a deadly combination. These missiles are best used in close quarters, anywhere from 600 to 800 m which minimizes the opportunity for the enemy pilot to evade or out-fly the missiles. It is quite possible for the enemy to avoid the in-bound missile; however, this provides the attacking aircraft with the opportunity to manoeuvre in and take out the fighter with its machine guns. Hopefully, the enemy fighter has bled any energy advantage it may have had presenting itself as an ideal target for the machine guns.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 While the {{Specs|pseudonym}}'s acceleration and top speed are lacking compared to its contemporaries, the {{Specs|pseudonym}}'s slats allow the plane to have an outstanding manoeuvrability. That said, one must beware of their speed as pulling high manoeuvres at high speed can put the plane under great stress, leading to the wings ripping apart. The outstanding manoeuvrability comes at the cost of speed. Pulling hard turns will bleed your air speed. Try to climb up before engaging the enemy to ensure you have enough energy to get out of a sticky situation. Hopefully, there will be a furball underneath you where you would be able to pounce on low-energy fighters with your guns or the AIM-9B. One advantage the {{Specs|pseudonym}} has over the jets of other nations is the large ammo count of its 6 x .50 cals (1,800) although it would be wise to hit most of your shoots. Try staying above 500 km/h as any slower and you would lose a significant amount of energy in a prolonged turn.
 
 === Radars ===
-
 <!--{{main|AN/APG-30}}-->
-
 The F-86F-40 is equipped with an AN/APG-30 rangefinding radar, located in the nose of the aircraft.
 It will automatically detect other planes within the scanning area and display the range to the closest target. It is linked with a gyro gunsight and can help with aiming at close range.
 
@@ -193,32 +180,30 @@ It will automatically detect other planes within the scanning area and display t
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Outstanding manoeuvrability
-- Can wield air-to-air missiles
-- Lots of ammo for the 12.7 mm M3 machine guns
-- Air-to-ground armaments, such as bombs and rockets
-- Excellent roll rate
-- Great diver
-- Good energy retention in a climb
-- Stable shooting platform at high speeds
-- Airbrakes and flaps allow for tight manoeuvres and enemy overshoots at the cost of reduced speed
+* Outstanding manoeuvrability
+* Can wield air-to-air missiles
+* Lots of ammo for the 12.7 mm M3 machine guns
+* Air-to-ground armaments, such as bombs and rockets
+* Excellent roll rate
+* Great diver
+* Good energy retention in a climb
+* Stable shooting platform at high speeds
+* Airbrakes and flaps allow for tight manoeuvres and enemy overshoots at the cost of reduced speed
 
 '''Cons:'''
 
-- Inferior acceleration and top speed
-- Slower and less manoeuvrable than aircraft like the MiG-15 and MiG-17
-- Weak armament
-- High-speed manoeuvres can lead to wings breaking apart
-- No 20 mm autocannons for a more powerful punch
-- Lacks air-to-ground missiles
+* Inferior acceleration and top speed
+* Slower and less manoeuvrable than aircraft like the MiG-15 and MiG-17
+* Weak armament
+* High-speed manoeuvres can lead to wings breaking apart
+* No 20 mm autocannons for a more powerful punch
+* Lacks air-to-ground missiles
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 Following the formal founding of the JASDF in 1954, the North American F-86F was selected as the nascent air force's day-fighter jet. Originally, the USAF expected to be able to deliver all of the JASDF's fighters from its stocks of surplus aircraft since the Sabre was slated for replacement by supersonic fighter jets, but with the production of the F-86F-35-NA having been wound down in August of 1954 it was soon realised that existing stocks would be insufficient to cover the orders for the Sabre made by many of the Allied nations. Additionally, negotiations between Japan and the United States resulted in a license agreement being struck which would eventually see Mitsubishi cover the production of the F-86F for the JASDF. However, as production facilities would first have to be set up for this, the first block of F-86Fs would be delivered to the JASDF.
@@ -244,42 +229,39 @@ From 1959 onwards, the F-86F-40s of the JASDF were modified so they could carry 
 The F-86Fs of the JASDF were supplemented by the F-86D Sabre Dog in the night/all-weather interceptor role from 1957 onwards; from 1964 onwards numerous of the F-86F units started converting to the Lockheed/Mitsubishi F-104J Starfighter. Even so, the Japanese F-86F was destined for very long service life, remaining in service as a combat trainer long after they had been replaced in front-line service. The very last JASDF F-86F-40 was withdrawn from active service on March 15th 1982. As the JASDF F-86Fs had been procured under the MDAP program, the aircraft nominally remained USAF property even during their JASDF service; following their retirement many of these aircraft were returned to USAF control and 'returned' to the United States, where most were converted to unmanned QF-86F target drones.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=f-86f-40_japan_blue_impulse Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f-86f-40_japan_blue_impulse Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
 
-- North American [[F-100D|F-100]] Super Sabre
+* North American [[F-100D|F-100]] Super Sabre
 
 ;Aircraft of comparable role, configuration and era
 
-- Grumman [[F9F (Family)|F9F]] Cougar
-- Lavochkin [[La-15]]
-- Mikoyan-Gurevich [[MiG-15 (Family)|MiG-15]]
-- Mikoyan-Gurevich [[MiG-17 (Family)|MiG-17]]
-- Hawker [[Hunter (Family)|Hunter]]
-- Dassault [[Super Mystere B2|Super Mystère]]
-- Saab [[J29D|J29]] Tunnan
+* Grumman [[F9F (Family)|F9F]] Cougar
+* Lavochkin [[La-15]]
+* Mikoyan-Gurevich [[MiG-15 (Family)|MiG-15]]
+* Mikoyan-Gurevich [[MiG-17 (Family)|MiG-17]]
+* Hawker [[Hunter (Family)|Hunter]]
+* Dassault [[Super Mystere B2|Super Mystère]]
+* Saab [[J29D|J29]] Tunnan
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/392644-north-american-f-86f-40-sabre/ Official data sheet - more details about the performance]
-- [http://dansa.minim.ne.jp/His-Mil-F86F-000-Index.htm <nowiki>[dansa.minim.ne.jp]</nowiki> Aviation History Museum - Short history of the F-86F]
-- [http://www.joebaugher.com/usaf_fighters/p86_13.html <nowiki>[joebaugher.com]</nowiki> North American F-86F-40-NA]
+* [https://forum.warthunder.com/index.php?/topic/392644-north-american-f-86f-40-sabre/ Official data sheet - more details about the performance]
+* [http://dansa.minim.ne.jp/His-Mil-F86F-000-Index.htm <nowiki>[dansa.minim.ne.jp]</nowiki> Aviation History Museum - Short history of the F-86F]
+* [http://www.joebaugher.com/usaf_fighters/p86_13.html <nowiki>[joebaugher.com]</nowiki> North American F-86F-40-NA]
 
 {{Manufacturer MHI}}
 {{AirManufacturer NAA}}

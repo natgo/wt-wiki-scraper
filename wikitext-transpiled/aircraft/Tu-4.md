@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet heavy bomber {{Battle-rating}}. It was introduced in [[Update 1.59 "Flaming Arrows"]]. Though it's an almost identical structure copy of the American [[B-29A-BN|B-29 bomber]], the Tu-4 features an improved 23 mm defensive armament and a very large payload.
 
 Soviet engineers reverse-engineered an interred B-29 to develop an "exact" copy per Stalin's request. Challenges were met as available materials were developed using the metric system and the B-29 had been developed using the standard imperial system. Equipment had to be retooled and new supplies had to be developed to match the metric version of the imperial standard sizes. In the end, between the two aircraft, the Soviet Tu-4 only weighed 340 kg more than the B-29, a difference of less than 1%. So stringent was the bureaucratic process for manufacturing parts and equipment, special permission from a high-level general was required to allow Soviet-made parachutes to be utilized in the Tu-4.
@@ -21,7 +19,6 @@ The Tu-4 is a heavy bomber, able to load up to 12,000 kg of bombs. It is able to
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -50,7 +47,7 @@ The Tu-4 is a heavy bomber, able to load up to 12,000 kg of bombs. It is able to
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -81,17 +78,16 @@ The Tu-4 is a heavy bomber, able to load up to 12,000 kg of bombs. It is able to
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 60 mm Bulletproof glass in front of the pilots.
-- 6.5 mm Steel plates in front of the pilots.
-- 6.5 mm Steel plates behind the pilots.
-- 6.5 mm Steel plates in front of tail control tractions.
-- 6.5 mm Steel plates boxing around rear dorsal gunner and beam gunners.
-- 6.5 mm Steel plate behind the rear ventral turret.
-- 60 mm Bulletproof glass in front of tail gunner.
-- 6.5 mm Steel plate in front of tail gunner.
+* 60 mm Bulletproof glass in front of the pilots.
+* 6.5 mm Steel plates in front of the pilots.
+* 6.5 mm Steel plates behind the pilots.
+* 6.5 mm Steel plates in front of tail control tractions.
+* 6.5 mm Steel plates boxing around rear dorsal gunner and beam gunners.
+* 6.5 mm Steel plate behind the rear ventral turret.
+* 60 mm Bulletproof glass in front of tail gunner.
+* 6.5 mm Steel plate in front of tail gunner.
 
 Do not be fooled of its nickname of "The Russian Death Star". Even with its powerful defensive armament, it does have weak spots.
 
@@ -110,42 +106,36 @@ Do not engage the Tu-4 from the six. Engaging the Tu-4 at its tail, especially f
 {{Specs-Avia-Armaments}}
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|FAB-100sv (100 kg)|FAB-250sv (250 kg)|FAB-500sv (500 kg)}}
 {{main|FAB-1000 (1,000 kg)|FAB-1500M-46 (1,500 kg)|FAB-3000M-46 (3,000 kg)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 40 x 100 kg FAB-100sv bombs (4,000 kg total)
-- 40 x 250 kg FAB-250sv bombs (10,000 kg total)
-- 12 x 500 kg FAB-500sv bombs (6,000 kg total)
-- 20 x 500 kg FAB-500sv bombs (10,000 kg total)
-- 8 x 1,000 kg FAB-1000 bombs (8,000 kg total)
-- 8 x 1,500 kg FAB-1500M-46 bombs (12,000 kg total)
-- 4 x 3,000 kg FAB-3000M-46 bombs (12,000 kg total)
+* 40 x 100 kg FAB-100sv bombs (4,000 kg total)
+* 40 x 250 kg FAB-250sv bombs (10,000 kg total)
+* 12 x 500 kg FAB-500sv bombs (6,000 kg total)
+* 20 x 500 kg FAB-500sv bombs (10,000 kg total)
+* 8 x 1,000 kg FAB-1000 bombs (8,000 kg total)
+* 8 x 1,500 kg FAB-1500M-46 bombs (12,000 kg total)
+* 4 x 3,000 kg FAB-3000M-46 bombs (12,000 kg total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|NR-23 (23 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 2 x 23 mm NR-23 cannons, front dorsal turret (275 rpg = 550 total)
-- 2 x 23 mm NR-23 cannons, front ventral turret (250 rpg = 500 total)
-- 2 x 23 mm NR-23 cannons, rear dorsal turret (275 rpg = 550 total)
-- 2 x 23 mm NR-23 cannons, rear ventral turret (500 rpg = 1,000 total)
-- 2 x 23 mm NR-23 cannons, tail turret (275 rpg = 550 total)
+* 2 x 23 mm NR-23 cannons, front dorsal turret (275 rpg = 550 total)
+* 2 x 23 mm NR-23 cannons, front ventral turret (250 rpg = 500 total)
+* 2 x 23 mm NR-23 cannons, rear dorsal turret (275 rpg = 550 total)
+* 2 x 23 mm NR-23 cannons, rear ventral turret (500 rpg = 1,000 total)
+* 2 x 23 mm NR-23 cannons, tail turret (275 rpg = 550 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
-Like most planes of its class, the Tu-4 relies on its defensive turrets for aerial combat. A few good hits from its 10 x 23 mm guns can send an attacker back to base, with critical damage or, if not, credit the player with the victory. Maxing out the crew stats is a good idea, it will allow the player to focus more on flying while the AI does the gunning. Don't get too arrogant, remember, the Tu-4 is a huge plane. It is easy to hit, and as mentioned above, especially when the opponents could be jets.
+Like most planes of its class, the Tu-4 relies on its defensive turrets for aerial combat. A few good hits from its 10 x 23 mm guns can send an attacker back to base, with critical damage or, if not, credit the player with the victory.  Maxing out the crew stats is a good idea, it will allow the player to focus more on flying while the AI does the gunning. Don't get too arrogant, remember, the Tu-4 is a huge plane. It is easy to hit, and as mentioned above, especially when the opponents could be jets.
 
 All in all, pay attention to the aircraft's surroundings. The Tu-4 can easily net the team a win so don't let the feeling of invincibility get imbued, or the only reward will be a fiery end.
 
@@ -183,51 +173,48 @@ Do not consider any enemy bomber or attacker as a neutral or even friendly party
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 [[File:Tu-4 going in the sunset.jpg|thumb|350px]]
+
 
 '''Pros:'''
 
-- Very strong and fast climber once flight performance modifications have been purchased
-- Very heavy payload (up to 12,000 kg / 26,500 lbs)
-- All payload options are internal and has next to no effect on flight performance
-- Offers effective defensive 23 mm turrets that have very few dead zones
-- Gunners are located separately from the gun turret with the exception of the tail turret
-- Lots of ammo for defensive armaments
+* Very strong and fast climber once flight performance modifications have been purchased
+* Very heavy payload (up to 12,000 kg / 26,500 lbs)
+* All payload options are internal and has next to no effect on flight performance
+* Offers effective defensive 23 mm turrets that have very few dead zones
+* Gunners are located separately from the gun turret with the exception of the tail turret
+* Lots of ammo for defensive armaments
 
 '''Cons:'''
 
-- Does not offer any payload modification immediately, unlike the B-29
-- Prone to fires and wing damage
-- Will be ripped to shreds by cannons with a calibre of 20 mm and beyond, especially the [[MK 108 (30 mm)|30 mm MK 108]] and the [[ADEN (30 mm)|30 mm ADEN]]/[[DEFA 541 (30 mm)|30 mm DEFA 541]]
-- Matchmaking will make this aircraft face early jets
-- Unable to reliably defend itself from multiple opponents attacking at once from multiple directions
-- Huge aircraft, making it easy to spot from distance and making it close to impossible to miss
-- Has a low dive top speed
-- Takes a while to reach an optimal altitude
-- Having altitude doesn't do much because jets can reach you in a matter of minutes
-- Landing gear takes a long time to deploy and retract
-- Wings are considered weak spots, damaged wings will hinder the plane's control
-- Flaps are one piece, making it frequent for a wing to lose the whole piece at once. This can affect lift significantly.
-- Can be hard to handle during landing, especially on short runways.
-- Takes a while to reach the ground (in one piece)
-- Against missiles you are hopeless
+* Does not offer any payload modification immediately, unlike the B-29
+* Prone to fires and wing damage
+* Will be ripped to shreds by cannons with a calibre of 20 mm and beyond, especially the [[MK 108 (30 mm)|30 mm MK 108]] and the [[ADEN (30 mm)|30 mm ADEN]]/[[DEFA 541 (30 mm)|30 mm DEFA 541]]
+* Matchmaking will make this aircraft face early jets
+* Unable to reliably defend itself from multiple opponents attacking at once from multiple directions
+* Huge aircraft, making it easy to spot from distance and making it close to impossible to miss
+* Has a low dive top speed
+* Takes a while to reach an optimal altitude
+* Having altitude doesn't do much because jets can reach you in a matter of minutes
+* Landing gear takes a long time to deploy and retract
+* Wings are considered weak spots, damaged wings will hinder the plane's control
+* Flaps are one piece, making it frequent for a wing to lose the whole piece at once. This can affect lift significantly.
+* Can be hard to handle during landing, especially on short runways.
+* Takes a while to reach the ground (in one piece)
+* Against missiles you are hopeless
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The Soviet Tu-4 strategic bomber is a copy of the B-29 with more powerful engines and armament. The USSR did not possess strategic aviation capacity in 1945 while having a great requirement for it as the Cold War was about to begin. Several B-29s were forced to land in Soviet territory near Japan after suffering mechanical failures related to the engine cowl flaps, and the B-29s along with their crews were captured on landing. The B-29's that ended up in the hands of Soviet engineers seemed to be a technological miracle and a vast gap between the long-range bomber technologies of the US and the USSR was soon discovered. This lead to a hurried cloning effort while created the Tu-4, a Soviet copy of the American bomber with a few modifications. The Soviets copied the bomber so closely that some Tu-4s had bullet hole patches from the B-29 that weren't meant to be there.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=tu_4 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=tu_4 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|G-sMfeWsEq0|'''The Shooting Range #148''' - ''Pages of History'' section at 07:12 discusses the Tu-4.|gxIVvUZGptw|'''The Shooting Range #51''' - ''Special'' section at 00:29 discusses the B-29 & Tu-4.|RaxLXgQ61yo|'''Realistic: Tu-4 [8.0 BR change]''' - ''Jengar''}}
@@ -235,17 +222,16 @@ The Soviet Tu-4 strategic bomber is a copy of the B-29 with more powerful engine
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [http://warthunder.com/en/news/3756-development-b-29-superfortress-tu-4-the-new-face-of-the-giant-en/ [Devblog<nowiki>]</nowiki> B-29 Superfortress/Tu-4 – the new face of the giant]
-- [https://forum.warthunder.com/index.php?/topic/315758-tupolev-tu-4/ Official data sheet - more details about the performance]
+* [http://warthunder.com/en/news/3756-development-b-29-superfortress-tu-4-the-new-face-of-the-giant-en/ [Devblog<nowiki>]</nowiki> B-29 Superfortress/Tu-4 – the new face of the giant]
+* [https://forum.warthunder.com/index.php?/topic/315758-tupolev-tu-4/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Tupolev}}
 {{USSR bombers}}

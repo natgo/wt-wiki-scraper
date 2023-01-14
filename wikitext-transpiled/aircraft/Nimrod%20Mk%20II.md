@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British naval fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
 The Nimrod Mk II is a rank I plane for Britain. It is a biplane with 2 x 7.7 mm Vickers machine guns. The main difference between it and the Mk. I is the slightly swept wing and more powerful engine. Climb rate, turn rate, roll rate, and acrobatic ability are superb, mostly due to the Nimrod being a biplane.
@@ -27,9 +25,7 @@ Overall, the Nimrod provides a solid and reliable foundation experience for play
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The Nimrod Mk II is a extremely agile aircraft owing to its biplane design. The Nimrod will handily and readily match most if not all enemy aircraft it encounters in turn fighting. It can be noted that it has a rather steady rate of acceleration with nothing exceptional to note. It can readily climb at a respectable rate to allow it to keep pace and join the fray alongside its teammates without much issue either. All around, the Nimrod at its base level will perform what its pilot asks of it with little issue
 
 It typically tops out at around 255 km/h during level flight, during a dive this will rise to around 350 km/h on average with of course further attainable speed with harsher dives. It will still respond to sharp turns even at its diving speed and bleed back to around 255 km/h retaining most of this speed well during a turnfight if the pilot is careful to not stall by climbing. Should the player push the Nimrod to its upper limits of around 400 km/h in very steep dives they will find the control surfaces begin to lock up, meaning an immediate turn to engage a threat will be impossible and the Nimrod will sluggishly turn until it bleeds enough energy to regain its agility once more around the 350 km/h mark.
@@ -61,7 +57,7 @@ The Nimrod can handle as many Gs as it is able to generate at its speed and weig
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || X || X || X || ✓ <!-- ✓ -->
+| X || X || X || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -92,13 +88,12 @@ The Nimrod can handle as many Gs as it is able to generate at its speed and weig
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
 This aircraft is vulnerable, as there is no armour protection for any of the modules. All the modules are focused towards the front of the plane.
 
-- No armour protection
-- Self-sealing fuel tanks
+* No armour protection
+* Self-sealing fuel tanks
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -111,14 +106,12 @@ Further to this is simply enhancing the agility and mobility of the Nimrod Mk II
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Vickers E (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 7.7 mm Vickers E machine guns, nose-mounted (600 rpg = 1,200 total)
+* 2 x 7.7 mm Vickers E machine guns, nose-mounted (600 rpg = 1,200 total)
 
 These are the standard Vickers machine guns prevalent in the early British tree, they are high capacity and very fast-firing but owing to their lower calibre they do considerably less damage to an airframe than their contemporaries such as the 12.7 mm Breda-SAFAT machine guns found on Italian aircraft. However their high RoF allows them to be more forgiving for newer players, scoring hits and allowing one to get a feel for the lead on these guns comfortably.
 
@@ -127,9 +120,7 @@ Focusing vital spots if possible is essential, head on engagements are not encou
 The belts available are simply different mixtures of rounds already suitably available on the default belt. However it is advisable to take the 'universal' belt as it removes filler 'Ball' rounds and leaves only a mix of Tracer, AP, and IAI rounds.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 Piloting the Nimrod Mk II will be relatively the same regardless of the game mode (AB, RB or SB.) The Nimrod is a pure fighter craft and is not capable of carrying any strike armaments and its ability to provide CAS is limited to opportune gun runs on vehicles with open tops or no armour whatsoever.
 
 The Nimrod Mk II is very much a dogfighter, it is sturdy comparatively as biplanes go, and able to turn with the best of its peers and keep them on their toes. Players may find it more suitable to focus on anti-fighter and anti-strike craft gameplay as the Vickers machine guns will struggle to bring down full size bombers when encountered and one will most likely end up with a destroyed Nimrod at the hands of one of many turrets typically found upon bomber aircraft.
@@ -162,25 +153,23 @@ Opponents to keep a keen eye out for are:
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Fantastic turn rate
-- Good climb rate
-- Great roll rate
-- Good endurance
+* Fantastic turn rate
+* Good climb rate
+* Great roll rate
+* Good endurance
 
 '''Cons:'''
 
-- Low speed
-- Low service ceiling
-- Extremely weak armament
-- Weak durability
+* Low speed
+* Low service ceiling
+* Extremely weak armament
+* Weak durability
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -196,24 +185,23 @@ The Hawker Nimrod fighter was replaced in first-line units by the Gloster Sea Gl
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=nimrod_mk2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=nimrod_mk2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer Hawker}}
 {{Britain fighters}}

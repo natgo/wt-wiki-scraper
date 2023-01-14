@@ -11,17 +11,13 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-rating}}. It was introduced in [[Update 1.33]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 When using the Vampire, the first thing a pilot should know is that it is inferior in most aspects to its opposition, thus requiring constant vigilance and consciousness of weakness. The Vampire cannot reach the speeds a [[MiG-9 (l)]] or an [[F2H-2]] can, it cannot accelerate as well as many of its counterparts and it is appalling in a dive against most of its opponents. So, essentially, the "Vamp" cannot climb well, it can't catch many jets in a straight line and it can't out-accelerate much of its opposition. However, the Vampire has one impressive advantage against its jet-powered opponents: it can turn incredibly well. In fact, a good analogy to flying the Vampire is fighting jets in propeller aircraft.
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -49,7 +45,7 @@ When using the Vampire, the first thing a pilot should know is that it is inferi
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -115,12 +111,11 @@ When using the Vampire, the first thing a pilot should know is that it is inferi
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 38 mm Bulletproof glass - Armoured windscreen
-- 12.7 mm Steel - Armour plate behind the pilot's head
-- 3 mm Steel - Armour plate under the engine
+* 38 mm Bulletproof glass - Armoured windscreen
+* 12.7 mm Steel  - Armour plate behind the pilot's head
+* 3 mm Steel - Armour plate under the engine
 
 The Vampire provides adequate protection to the pilot, as well as some armour under the engine. As with most jets, damage to the wings or fuselage greatly hampers flight performance, decreasing top speed and manoeuvrability. There are quite a few fuel tanks located in this plane's wings, so fuel fires may be common, especially when taking a high fuel loadout.
 
@@ -131,32 +126,26 @@ The Vampire provides adequate protection to the pilot, as well as some armour un
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Hispano Mk.V (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 20 mm Hispano Mk.V cannons, chin-mounted (150 rpg = 600 total)
+* 4 x 20 mm Hispano Mk.V cannons, chin-mounted (150 rpg = 600 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|H.E. M.C. Mk.13 (1,000 lb)|RP-3}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 1,000 lb H.E. M.C. Mk.13 bombs (2,000 lb total)
-- 8 x RP-3 rockets
+* Without load
+* 2 x 1,000 lb H.E. M.C. Mk.13 bombs (2,000 lb total)
+* 8 x RP-3 rockets
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Vampire is well-known for its ability to turn on a dime, but its incredible manoeuvrability also means that it has poor manoeuvring energy retention. Climbing is important for this plane, as is careful airspeed maintenance. When in a battle situation, it is advisable to always stay above 400 km/h; any slower, and the Vampire will greatly struggle to evade enemy fire.
 
 If the Vampire is able to keep its energy, it becomes one of the best dogfighters at this rank. It can outturn nearly every other jet of its tier, and has a powerful engine to boot. Thanks to its great manoeuvrability, it is often quite easy to line up a shot against the enemy. One common tactic is to try luring the enemy into a turnfight. The Vampire will almost always come out on top. However, never commit to a dogfight if there are multiple enemies nearby. Turning will cause the Vampire's airspeed to fall dramatically, at which point enemies can easily swoop in and destroy it.
@@ -166,25 +155,23 @@ It is valuable to note that the Vampire has a low top speed for a jet, at only ~
 For attacking ground targets, the Vampire can be equipped with either bombs or rockets.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Powerful armament
-- Great manoeuvrability
-- Decent payload options
-- Good cockpit visibility
-- Good at gliding without engine power
+* Powerful armament
+* Great manoeuvrability
+* Decent payload options
+* Good cockpit visibility
+* Good at gliding without engine power
 
 '''Cons:'''
 
-- Low top speed and acceleration
-- Weapons create significant recoil
-- Poor dive rate
+* Low top speed and acceleration
+* Weapons create significant recoil
+* Poor dive rate
 
 == History ==
-
 <!--''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''-->
 
 {{break}}
@@ -198,12 +185,11 @@ Preliminary flight testing in September 1943 proved to be a success, with modifi
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=vampire_fb5 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=vampire_fb5 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|rpvKhy22Erc|'''The Shooting Range #85''' - ''Pages of History'' section at 08:59 discusses the Vampire FB 5.|ghlDnZShfzE|'''Dogfights: Me 262 vs Vampire FB 5''' - ''Azi''}}
@@ -211,16 +197,15 @@ Preliminary flight testing in September 1943 proved to be a success, with modifi
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!--''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.''-->
 
-- [https://forum.warthunder.com/index.php?/topic/262866-de-havilland-vampire-fb5/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/262866-de-havilland-vampire-fb5/ Official data sheet - more details about the performance]
 
 {{AirManufacturer deHavilland}}
 {{Britain jet aircraft}}

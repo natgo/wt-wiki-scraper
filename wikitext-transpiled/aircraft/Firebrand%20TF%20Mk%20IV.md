@@ -1,12 +1,10 @@
 {{Specs-Card
 |code=firebrand_tf4
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.51 "Cold Steel"]].
 
 The Firebrand can be considered as a British [[P-47]]. With extremely heavy armament as well as a respectable secondary load, the Firebrand is foremost a strike aircraft, then a fighter. Carrying 4 fast-firing and high-capacity Hispano Mk.V cannons, the Firebrand Mk IV can rip through all aircraft at its BR and all "soft" ground targets with ease. The torpedo options allow anti-ship capabilities, and conventional bombs effectively destroy ground targets.
@@ -14,9 +12,7 @@ The Firebrand can be considered as a British [[P-47]]. With extremely heavy arma
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 Originally designed as a naval fighter, the Firebrand in its attacker/torpedo bomber form still retains some characteristics of its roots. The plane has a surprisingly tight turn radius for such a heavy plane, though this is compromised by its extended wingspan intended to generate more lift while carrying payloads, which causes the plane to be less responsive and manoeuvrable compared to traditional fighters. Handling while banking and negative G manoeuvres can be described as "floaty" at best due to the extra lift that gets in the way of the plane. To counter excessive lift, the Firebrand's rugged and complex combat flaps can help to improve the plane's handling characteristics, especially below 420 km/h (the flap's rip speed).
 
 Since dogfighting is not the Firebrand's greatest strength, the plane can be used as a boom-and-zoom fighter to some extent. The plane is somewhat slow to accelerate in a dive, although this can be pushed to its structural limit of 720 km/h. However, the Firebrand's control surfaces will start to lock up at 550 km/h and can be lethal, thus a small airbrake is featured to help restore the plane's controllability. As with most of the naval fighters, the Firebrand performs best at lower altitudes (below 4,000 meters).
@@ -46,7 +42,7 @@ Since dogfighting is not the Firebrand's greatest strength, the plane can be use
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || ✓ || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -77,11 +73,10 @@ Since dogfighting is not the Firebrand's greatest strength, the plane can be use
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 12.7 mm Steel - Armour plate, upper seat back and headrest
-- 42.8 mm Bulletproof glass - Armoured windscreen
+* 12.7 mm Steel - Armour plate, upper seat back and headrest
+* 42.8 mm Bulletproof glass - Armoured windscreen
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -90,41 +85,35 @@ Since dogfighting is not the Firebrand's greatest strength, the plane can be use
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Hispano Mk.V (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 20 mm Hispano Mk.V cannons, wing-mounted (200 rpg = 800 total)
+* 4 x 20 mm Hispano Mk.V cannons, wing-mounted (200 rpg = 800 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|M.C. 1,000 lb Mk.I (1,000 lb)|G.P. Mk.I (1,000 lb)}}
 {{main|RP-3|Uncle Tom|18 inch Mark XV (450 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 1 x 18 inch Mark XV torpedo
-- 2 x 250 lb G.P. Mk.IV bombs (500 lb total)
-- 2 x 250 lb G.P. Mk.IV bombs + 8 x RP-3 rockets (500 lb total)
-- 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
-- 1 x 1,000 lb G.P. Mk.I bomb + 2 x 500 lb G.P. Mk.IV bombs (2,000 lb total)
-- 1 x 1,000 lb M.C. Mk.I bomb + 2 x 500 lb G.P. Mk.IV bombs (2,000 lb total)
-- 1 x 1,000 lb G.P. Mk.I bomb (1,000 lb total)
-- 1 x 1,000 lb M.C. Mk.I bomb (1,000 lb total)
-- 8 x RP-3 rockets
-- 2 x Uncle Tom rockets
+* Without load
+* 1 x 18 inch Mark XV torpedo
+* 2 x 250 lb G.P. Mk.IV bombs (500 lb total)
+* 2 x 250 lb G.P. Mk.IV bombs + 8 x RP-3 rockets (500 lb total)
+* 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
+* 1 x 1,000 lb G.P. Mk.I bomb + 2 x 500 lb G.P. Mk.IV bombs (2,000 lb total)
+* 1 x 1,000 lb M.C. Mk.I bomb + 2 x 500 lb G.P. Mk.IV bombs (2,000 lb total)
+* 1 x 1,000 lb G.P. Mk.I bomb (1,000 lb total)
+* 1 x 1,000 lb M.C. Mk.I bomb (1,000 lb total)
+* 8 x RP-3 rockets
+* 2 x Uncle Tom rockets
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 In Arcade battles, the Firebrand can actually excel. There are no speed limits or breakage and performance is exaggerated. Thus, the Firebrand can be used somewhat effectively as a fighter. Turning and handling are both still poor performers with this aircraft compared with Realistic battle while the climb rate is significantly increased.
 
 Boom & Zoom is a good tactic in Arcade battles. Due to terrible handling characteristics, simply diving and flying flat is a good defensive tactic.
@@ -173,34 +162,31 @@ In any case, the Firebrand can deliver great performance when it comes to ground
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Excellent armament compared to planes in the BR bracket, Hispano Mk.V variant fires very fast compared to standard Mk.II
-- Generous ammo capacity
-- Small turn radius
-- Effective combat flaps with above average rip speed
-- Good durability
-- Decent level speed
-- Variety of payload options, including a torpedo
+* Excellent armament compared to planes in the BR bracket, Hispano Mk.V variant fires very fast compared to standard Mk.II
+* Generous ammo capacity
+* Small turn radius
+* Effective combat flaps with above average rip speed
+* Good durability
+* Decent level speed
+* Variety of payload options, including a torpedo
 
 '''Cons:'''
 
-- Poor manoeuvrability and handling in general: roll rate, turn rate, etc. are very poor
-- Large target
-- Mediocre climb rate
-- Poor high-altitude performance
-- Controls unresponsive at speeds past 550 km/h (350 mph)
-- Mediocre energy retention
-- Lacks any bombload stock
-- The Hispano Mk.Vs' dispersion when firing can be frustrating
+* Poor manoeuvrability and handling in general: roll rate, turn rate, etc. are very poor
+* Large target
+* Mediocre climb rate
+* Poor high-altitude performance
+* Controls unresponsive at speeds past 550 km/h (350 mph)
+* Mediocre energy retention
+* Lacks any bombload stock
+* The Hispano Mk.Vs' dispersion when firing can be frustrating
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 {{main|Firebrand TF Mk IV/History|l1=History of the Firebrand TF Mk IV}}
 
 The Blackburn Firebrand was a British naval torpedo strike fighter, originally designed as a naval fighter aircraft. Due to circumstances, it was overtaken by events, and by the time it finally entered service it was no longer relevant - and too late to enter service in World War II.
@@ -214,27 +200,25 @@ Blackburn won the contract, however, the prototype fighter turned out to be too 
 Problems with the prototypes, several adjustments to the aircraft's requirements and inability to get necessary engines towards the end of the war belated the {{PAGENAME}}'s entry into service, missing World War II entirely. Though pressed into service, production ceased by March of 1947 and all were withdrawn from active duty by May 1953.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=firebrand_tf4 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=firebrand_tf4 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/devblog/current/790|[Devblog] Firebrand TF Mk IV]]
-- [https://forum.warthunder.com/index.php?/topic/250826-blackburn-firebrand-tf-mk-iv| Official data sheet - more details about the performance]
+* [[wt:en/devblog/current/790|[Devblog] Firebrand TF Mk IV]]
+* [https://forum.warthunder.com/index.php?/topic/250826-blackburn-firebrand-tf-mk-iv| Official data sheet - more details about the performance]
 
 {{AirManufacturer Blackburn}}
 {{Britain strike aircraft}}

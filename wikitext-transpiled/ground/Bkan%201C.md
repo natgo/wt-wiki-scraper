@@ -1,12 +1,10 @@
 {{Specs-Card
 |code=sw_bkan_1c
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish tank destroyer {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
 
 The Bkan 1C is an SPG based on a lengthened [[Strv 103 (Family)|S-tank]] chassis. It mounts a massive 155 mm cannon firing powerful HE and HE-VT shells. It has an extremely quick reload of 3.2s, but is otherwise extremely sluggish, having only -2 degrees of gun depression, thin armour, and only 14 rounds.
@@ -14,7 +12,6 @@ The Bkan 1C is an SPG based on a lengthened [[Strv 103 (Family)|S-tank]] chassis
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 The inside of this vehicle is effectively split into 5 areas: engine, left tower, right tower, the gun, and the autoloader. The side armour and overall survivability is negligible and enemies should only be engaged frontally if at all possible.
@@ -33,27 +30,25 @@ When the autoloader is completely empty, it can work as a shield for the Bkan 1C
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
+* Rolled homogeneous armour
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || **_ mm || _** mm ''Top'' <br> **_ mm ''Bottom'' || 15 mm || 10 - 15 mm
+| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || 15 mm || 10 - 15 mm
 |-
-| Turret || 20 mm ''Turret front'' <br> _** mm ''Gun mantlet'' || **_ - _** mm || 20 mm || 15 - 20 mm
+| Turret || 20 mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || 20 mm || 15 - 20 mm
 |-
-| Cupola || **_ mm || _** mm || **_ mm || _** mm
+| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
 |-
 |}
 
 '''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
-
 <!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=852|rbMinHp=531}}
@@ -69,9 +64,7 @@ The tank has neutral steering, but it's too slow to be relied on in the heat of 
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|kan m/60 (155 mm)}}
 
 The {{PAGENAME}} can be effectively classified as an artillery tank, as it can only use a HE shell. Its gun has an insane 3.2-second automatic autoloader, which allows it to casually miss a shot only for the enemy tank to roll out into yet another HE aimed straight at the weak spot. No other heavy weapon reloads this fast. This also means that the only crew members truly important for the SPG are the driver and the gunner, as the reload time will always stay the same.
@@ -161,10 +154,8 @@ The HE-VT shell has very limited uses due to the muzzle velocity and ammunition 
 |}
 
 ==== [[Ammo racks]] ====
-
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -176,7 +167,6 @@ The HE-VT shell has very limited uses due to the muzzle velocity and ammunition 
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 '''Arcade mode'''
@@ -193,9 +183,9 @@ The gun is bad when fighting over hills due to poor gun depression, unlike early
 
 While the gun can literally liquefy any tank by just randomly firing at it, try to retain patience and upon the first miss try to aim better while the gun reloads, if not for your own safety, then to conserve ammunition. Avoid fighting over cluttered streets or forests, unless firing straight from the capture point to waste less ammunition, as the {{PAGENAME}} does not have an MG to clean the shell flight path. Do not attack kinetic shell-armed tanks over a cluttered street if you aren't sure you can annihilate them within 2-3 shots, even if they do not see you. Even the densest tanker will notice that something explodes next to them when it happens for the 5th time.
 
-When fighting heavy tanks, you can try to pretend that you are weak and bait them into chasing you, then attack their bottom by attacking the tracks, as it's the easiest, and sometimes safest, way to destroy them. If that's impossible just attack their roof (by hitting the commander cupola, for example). Area denial also works well against ATGM light tanks, such as [[BMP-1]], because being attacked by an ATGM means almost certain death to the {{PAGENAME}} due to how its armour works.
+When fighting heavy tanks, you can try to pretend that you are weak and bait them into chasing you, then attack their bottom by attacking the tracks, as it's the easiest, and sometimes safest, way to destroy them. If that's impossible just attack their roof (by hitting the commander cupola, for example). Area denial also works well against ATGM light tanks, such as [[BMP-1]], because being attacked by an ATGM means almost certain death to the {{PAGENAME}} due to how its armour works. 
 
-When it is necessary to attack into ATGM tanks, consider relying on HE-VT and remember of its limitations - it might be okay to check on suspected ATGM carriers by baiting them from a kilometre away, then shooting down the missile, reloading and shelling the opponent into submission, but it is not okay to rush into an IFV nest at ranges below 300 m, as the shells will not be able to compensate for poor quick aim, and the scout tanks probably already know you are there, so you will not have the time to aim better.
+When it is necessary to attack into ATGM tanks, consider relying on HE-VT and remember of its limitations - it might be okay to check on suspected ATGM carriers by baiting them from a kilometre away, then shooting down the missile, reloading and shelling the opponent into submission, but it is not okay to rush into an IFV nest at ranges below 300 m, as the shells will not be able to compensate for poor quick aim, and the scout tanks probably already know you are there, so you will not have the time to aim better. 
 
 Do remember that a lot of German players on rank IV love to whip out their obsolete toys just to trash an opponent that bested them and SPGs like [[8,8 cm Flak 37 Sfl.]] or [[15cm sIG 33 B Sfl]] are insanely dangerous, both due to being nearly indestructible by normal means (leaving you to be the only one to be able to deal with them in one shot in an average team) and due to being able to fire lethal APHE or HE shots at angles at which the {{PAGENAME}} cannot fire back directly (due to the increased muzzle velocity of its HE). Use HE-VT to destroy them as soon as possible if you have one.
 
@@ -206,30 +196,28 @@ The [[Jagdpanther]] will sustain HE shells with its front glacis and it's very d
 Many American rank V medium/heavy tanks receive upgraded roof armour, which is often able to withstand HE shells unless hit straight into the commander cupola or inner sides of the tracks, and all American tanks have 12.7 mm HMG on top of them (and almost all US commanders use them immediately upon seeing any tank), which is effectively a death sentence if they can see the gunner tower. [[T32E1]] is a heavy tank with extra steps against HE shells; [[T29]] can survive a lot of roof-shot attempts despite being technically vulnerable; [[M48A1]] (which is also used by other nations and is often seen when playing against Germany) is only really vulnerable to cupola shots or from the sides.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- 3.2-second autoloader on a 155 mm weapon. There is no other big weapon reloading faster than this currently in the game
-- It is difficult to take this SPG out with a single shot with kinetic shells from the front unless the ammo rack is detonated
-  \*\* Crew is somewhat spread out, meaning single APDS and APFSDS shots are unlikely to hit all of them
-- HE shells have higher muzzle velocity than the ones of the competition, making them easier to aim
-- Can carry HE-VT shells, which, combined with the fire rate, make it extremely lethal at BR 8+ (rank VI for other nations), where the light tanks are abundant
+* 3.2-second autoloader on a 155 mm weapon. There is no other big weapon reloading faster than this currently in the game
+* It is difficult to take this SPG out with a single shot with kinetic shells from the front unless the ammo rack is detonated
+** Crew is somewhat spread out, meaning single APDS and APFSDS shots are unlikely to hit all of them
+* HE shells have higher muzzle velocity than the ones of the competition, making them easier to aim
+* Can carry HE-VT shells, which, combined with the fire rate, make it extremely lethal at BR 8+ (rank VI for other nations), where the light tanks are abundant
 
 '''Cons:'''
 
-- Only 14 rounds
-- Ammo rack is exposed and quite prominent even from the front
-- Gun recoil strong enough to stop manual repair and resupply on a capture point, unless suppressed
-- Very poor gun depression, limiting its use as a close-range support
-- Poor gunsight zoom of X4
-- Armour will not sustain autocannon fire, can be vulnerable to HMG at close to medium range, vulnerable to chemical rounds
-- No turret, which is a downside for a tank forced to fight at a close to medium range, and is very vulnerable when its tracks are destroyed
-- Many enemy tanks within natural BR range are built to survive HE attacks
+* Only 14 rounds
+* Ammo rack is exposed and quite prominent even from the front
+* Gun recoil strong enough to stop manual repair and resupply on a capture point, unless suppressed
+* Very poor gun depression, limiting its use as a close-range support
+* Poor gunsight zoom of X4
+* Armour will not sustain autocannon fire, can be vulnerable to HMG at close to medium range, vulnerable to chemical rounds
+* No turret, which is a downside for a tank forced to fight at a close to medium range, and is very vulnerable when its tracks are destroyed
+* Many enemy tanks within natural BR range are built to survive HE attacks
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 === [[wt:en/news/7462-development-bandkanon-1c-the-nordic-doomsday-weapon-en|Devblog]] ===
@@ -240,32 +228,29 @@ By 1963, serial production of the vehicle began with an initial order of 26 vehi
 The 26 Bandkanon 1s were commissioned into service with artillery divisions in Norrland and remained in service there up until 2003 before being retired from active service.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=sw_bkan_1c Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=sw_bkan_1c Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|W5H0nKBkniA|'''The Shooting Range #289''' - ''Metal Beasts'' section at 00:27 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[2S3M]]
-- [[Type 75 SPH]]
+* [[2S3M]]
+* [[Type 75 SPH]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/7462-development-bandkanon-1c-the-nordic-doomsday-weapon-en|[Devblog] Bandkanon 1C: The Nordic Doomsday Weapon]]
+* [[wt:en/news/7462-development-bandkanon-1c-the-nordic-doomsday-weapon-en|[Devblog] Bandkanon 1C: The Nordic Doomsday Weapon]]
 
 {{TankManufacturer AB Bofors}}
 {{Sweden tank destroyers}}

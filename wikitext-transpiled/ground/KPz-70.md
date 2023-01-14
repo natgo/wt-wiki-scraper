@@ -4,17 +4,13 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was introduced in [[Update 1.71 "New E.R.A."]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 Unlike the Soviet T-64A (its main rival), the KPz-70 does not utilize composite armour, but an air gap that forces munitions penetrating the initial layers to lose their mass by fragmenting apart before moving to the next layer of armour. This general design concept has been in use as far back as WW2 and is even used to this day on modern fighting vehicles.
 
 Spaced armour works wonderfully well against shaped charge munitions or any other munition with explosive filler provided it is of a stronger protection rating. Proceeding weapons and munitions development has seen this benefit decreased with either more powerful or tandem charge warheads and can be seen in-game against weapons that proceeded different designs of spaced armour. As such, the KPz-70 will find weapons that were designed to defeat spaced armour such as the HOT-K3S ATGM and BAE Swingfire system that will penetrate it. However, the spaced armour in the KPz-70 works exactly as it was designed to do against older anti-tank missiles, HEAT, HE, and HESH munitions.
@@ -29,9 +25,9 @@ Due to its low profile and effective array of camouflage options the KPz-70 scor
 
 '''Armour type:'''
 
-- Spaced armour (Hull front, Turret front)
-- Rolled homogeneous armour
-- Cast homogeneous armour
+* Spaced armour (Hull front, Turret front)
+* Rolled homogeneous armour
+* Cast homogeneous armour
 
 {| class="wikitable"
 |-
@@ -39,7 +35,7 @@ Due to its low profile and effective array of camouflage options the KPz-70 scor
 |-
 | Hull || 34* mm (60-61°) ''Front glacis'' <br> 76.2 mm (64°) ''Lower glacis'' || 23 mm (40°) ''Top'' <br> 23-35 mm ''Bottom'' || 30 mm (12°) ''Top'' <br> 13 mm (57°) ''Bottom'' <br> 8 mm (12°) ''Engine exhaust'' || 20 mm ''Front'' <br> 8-12.7 mm ''Engine deck''
 |-
-| Turret || 50-200 mm (0-75°) || 12.7-38* mm (29-34°) || 12.7\* mm (27-80°) || 20-50 mm ''Front'' <br> 12.7 mm ''Rear turret''
+| Turret || 50-200 mm (0-75°) || 12.7-38* mm (29-34°) || 12.7* mm (27-80°) || 20-50 mm ''Front'' <br> 12.7 mm ''Rear turret''
 |-
 | Cupola || 25 mm || 25 mm || 25 mm || 25 mm
 |-
@@ -55,13 +51,13 @@ Due to its low profile and effective array of camouflage options the KPz-70 scor
 |}
 '''Notes:'''
 
-- Suspension wheels are 20 mm thick and tracks are 30 mm thick.
-- Belly armour is 16 mm thick.
-- Gun mantlet ring around the gun barrel is 305 mm thick.
-- A 16 mm RHA plate separates the engine from the crew compartment
-- Hull spaced armour configuration is 34 mm RHA + 127 mm air + 46 mm RHA.
-- Turret spaced armour configuration is 38 mm RHA + 127 mm air + 130-33 mm RHA.
-- Turret rear spaced armour configuration is 13 mm RHA + 38 mm air + 19 mm RHA.
+* Suspension wheels are 20 mm thick and tracks are 30 mm thick.
+* Belly armour is 16 mm thick.
+* Gun mantlet ring around the gun barrel is 305 mm thick.
+* A 16 mm RHA plate separates the engine from the crew compartment
+* Hull spaced armour configuration is 34 mm RHA + 127 mm air + 46 mm RHA.
+* Turret spaced armour configuration is 38 mm RHA + 127 mm air + 130-33 mm RHA.
+* Turret rear spaced armour configuration is 13 mm RHA + 38 mm air + 19 mm RHA.
 
 The main weakness of the KPz-70 to take advantage of as an opposing player is the weak armour when compared to other tanks of its rank. If the KPz-70 can be baited to come towards a position, it becomes much easier to fight. Avoid springing a well-placed KPz-70 ambush if at all possible or try to sneak around him to flank and attack his weakest armour. A well-placed shot through the side of the turret is generally ensured destruction as all of the crew is located in the turret along with an ammunition store with rounds being located under the turret basket.
 
@@ -75,7 +71,6 @@ Do not try to out-shoot the KPz-70 as it has a very rapid reload that in most ca
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=2,325|rbMinHp=1,327}}
@@ -97,9 +92,7 @@ The recommended research order of modules is Parts, FPE, the XM578E1 APFSDS shel
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|XM150E5 (152 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -119,7 +112,7 @@ The recommended research order of modules is Parts, FPE, the XM578E1 APFSDS shel
 |}
 The most important feature that makes a tank is the cannon. In this department, the KPz-70 is no slouch. The 152 mm gun launcher system (the same one used on the [[M551|M551 Sheridan]]), but with a longer barrel and is capable of firing a variety of munition types including an experimental APFSDS round, a traditional HEAT round (with high penetration), an experimental smoke round, and lastly the very capable and proven MGM-51C Shillelagh. This wide range of munition choices gives the operator a variety of options in a pre-combat configuration which can greatly either hinder or enhance the tankers capability on the battlefield. The benefit of a longer barrel compared to its Sheridan counterpart ensures the KPz-70 is much more accurate at range and that the rounds leave the barrel at higher velocities thus increasing their overall damage-dealing capabilities. Additionally, the 152 mm gun launcher gets equipped with an autoloader, greatly reducing its time between follow-up shots on a target.
 
-For targeting, the option to equip an incredibly accurate laser range finder is available. Additionally, the 7.62 mm machine gun mounted in the turret can be used for range finding as well. Because of the elevated engine deck, gun depression is decreased significantly when firing or aiming the gun over the rear of the tank.
+For targeting, the option to equip an incredibly accurate laser range finder is available. Additionally, the 7.62 mm machine gun mounted in the turret can be used for range finding as well. Because of the elevated engine deck, gun depression is decreased significantly when firing or aiming the gun over the rear of the tank. 
 
 ==== Ammunition ====
 {| class="wikitable sortable" style="text-align:center" width="100%"
@@ -192,9 +185,7 @@ For targeting, the option to equip an incredibly accurate laser range finder is 
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -210,15 +201,13 @@ For targeting, the option to equip an incredibly accurate laser range finder is 
 |}
 '''Notes''':
 
-- 2nd rack empty: 33&nbsp;''(+15)'' shells.
-- The KPz-70 can only pack 6 missiles.
+* 2nd rack empty: 33&nbsp;''(+15)'' shells.
+* The KPz-70 can only pack 6 missiles.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|Rh202 (20 mm)|MG3A1 (7.62 mm)}}
 
 The Rheinmetall Rh 202 20 mm autocannon is highly effective at dealing with lightly armoured battlefield threats and on some tanks exposed sides or rears. In some situations, it may be more beneficial to utilize the 20 mm as it will allow the tank to deal damage rapidly while conserving the 152 mm main cannon ammunition. The cannon is also highly effective at shooting down low flying attackers. Note that if the commander is knocked out, the 20 mm will become unusable.
@@ -251,9 +240,7 @@ Do note, that this pintle-mounted weapon is not protected by anything - HE hit t
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The tank plays very much like the [[Leopard A1A1]]. Players familiar with the Leopard playstyle will easily adapt to the KPz-70. It has reasonable mobility, especially with full upgrades and aced crew, allowing it to manoeuvre into spots not typically accessible by less mobile tanks. Utilize this to an advantage to set up ambushes as this is how the KPz-70 will get the best of many opponents. It's important to recognize when engagement is not beneficial so that the tank may get a better position or escape from the threat.
 
 Despite the initial appearance of strong frontal armour, it's important to remember when compared to its counterparts at its rank, it is not nearly enough to defeat threats head-on such as the [[T-64A (1971)|T-64A]]. Even ATGM from missile vehicles such as the [[RakJPz 2 (HOT)|Raketenjagdpanzer 2 HOT]] will penetrate the turret and upper glacis plate. Even other Rank V tanks can and will penetrate from the front. Because of the rather condensed placement of crew and ammunition, the KPz-70 will most likely be destroyed. Because of this, it is critical that the KPz-70 gets the first shot off in engagement and ensure it is either eliminated or crippled to such a capacity they either cannot engage or will instinctively panic and try to run to repair or determine the engagement location.
@@ -278,33 +265,31 @@ If the KPz-70 does find itself a victim of an ambush, launch a smokescreen, esca
 The KPz-70 benefits greatly from squad play. A skilled lone KPz-70 is most certainly a threat on the battlefield but 2 or even 3 KPz-70's working in conjunction with each other in a squad is an extreme danger to the opposing team as the use of squad tactics in combination with the great strengths of the tank can almost completely control the momentum of the conflict.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great mobility, although out-stripped by some vehicles that utilize turbine engines
-- Extremely fast in both forwards and reverse
-- Fast reload at 6 seconds with autoloader
-- Great gun, with access to various types of ammunition, ATGMs included
-- 20 mm anti-aircraft autocannon on the top of the tank will shred apart any aircraft, especially helicopters
-- Low profile for visibility
-- Armor may be reliable against chemical shells
-- The missile has a very short propulsion phase (about 2 secs), after its engine shuts off it's almost impossible to spot until it is too close, as it leaves no smoke trail like a TOW, or a small red spot like Shturm. It looks like a slow cannon shell.
-- Has a hydropneumatic suspension system
-- The fuel tanks in the hull can absorb HEATFS shells
+* Great mobility, although out-stripped by some vehicles that utilize turbine engines
+* Extremely fast in both forwards and reverse
+* Fast reload at 6 seconds with autoloader
+* Great gun, with access to various types of ammunition, ATGMs included
+* 20 mm anti-aircraft autocannon on the top of the tank will shred apart any aircraft, especially helicopters
+* Low profile for visibility
+* Armor may be reliable against chemical shells
+* The missile has a very short propulsion phase (about 2 secs), after its engine shuts off it's almost impossible to spot until it is too close, as it leaves no smoke trail like a TOW, or a small red spot like Shturm. It looks like a slow cannon shell.
+* Has a hydropneumatic suspension system
+* The fuel tanks in the hull can absorb HEATFS shells
 
 '''Cons:'''
 
-- Unimpressive frontal plate armour, the turret ring is also exposed, allowing SPAA and light tanks to destroy it frontally
-- Vulnerable to the rear, if the hydropneumatic suspension is not used
-- Optics are vulnerable and can cause ATGMs and HE to explode downwards into the crew compartment
-- Very easy to one shot because of 3 crew cramped in the turret
-- Cannot aim backwards due to engine room
-- Giant engine room is very easy to get shot and destroyed
+* Unimpressive frontal plate armour, the turret ring is also exposed, allowing SPAA and light tanks to destroy it frontally
+* Vulnerable to the rear, if the hydropneumatic suspension is not used
+* Optics are vulnerable and can cause ATGMs and HE to explode downwards into the crew compartment
+* Very easy to one shot because of 3 crew cramped in the turret
+* Cannot aim backwards due to engine room
+* Giant engine room is very easy to get shot and destroyed
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 Being threatened by the Soviet T-64 tank, Germany and the United States joined together to develop a new main battle tank in the mid-1960s. This became the MBT/KPz-70 project. The new main battle tank would use advanced technology of the time, including hydropneumatic suspension, 152mm gun/launcher capable firing tank shell and ATGM, autoloading system, spaced armour, 1500 horsepower diesel engine and remote-controlled weapon station. Everything looks perfect on paper, but in reality, there were many problems. The autoloading system could load Shillelagh missile quite easily, but it would jam the tank shell. The housing of the driver in a rotating cupola inside the turret would cause an unanticipated problems to the driver. The caseless ammunition would also become unusable if the humidity is high.
@@ -312,32 +297,29 @@ Being threatened by the Soviet T-64 tank, Germany and the United States joined t
 With such design problems and over budget, MBT/KPz-70 project was officially cancelled in 1971. Though the MBT/KPz-70 never entered service, many of its design and technology had been passed on to its successor: M1 Abrams and Keiler, the latter of which became the Leopard 2.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_kpz_70 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_kpz_70 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|ly9JS6errQQ|'''Best secondary armaments''' discusses the {{PAGENAME}} at 6:03 - ''War Thunder Official Channel''|PosWOnOGkSo|'''Best experimental vehicles''' discusses the {{PAGENAME}} at 5:27 - ''War Thunder Official Channel''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[MBT-70]]
-- [[VT1-2]]
+* [[MBT-70]]
+* [[VT1-2]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/4923-gamescom-kpz-70-mbt-70-a-warrior-of-two-armies-en|[Devblog] KPz-70 & MBT-70 - A Warrior of Two Armies]]
+* [[wt:en/news/4923-gamescom-kpz-70-mbt-70-a-warrior-of-two-armies-en|[Devblog] KPz-70 & MBT-70 - A Warrior of Two Armies]]
 
 {{Template:TankManufacturer KMW}}
 {{Germany medium tanks}}

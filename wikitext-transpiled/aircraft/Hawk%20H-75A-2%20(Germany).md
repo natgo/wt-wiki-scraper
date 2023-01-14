@@ -10,9 +10,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German fighter {{Battle-rating}}. It was introduced in [[Update 1.89 "Imperial Navy"]] as a reward for the [[Season: Recon under fire|first public season of the World War Mode]]. It is currently rare vehicle and is obtainable through the [https://trade.gaijin.net/? Gaijin Marketplace]. This fighter is a U.S. built aircraft sold to the French, captured by the Germans during the French armistice and then provided to the Finnish Air Force for use against the Soviets.
 
 In the early 1930s, the Curtiss-Wright Corporation began a private venture to build a fighter aircraft which was a revolutionary departure from earlier cloth-covered biplanes of World War I. This project aircraft under development was named the Curtiss Hawk Model 75 (later it would be known by P-36 Hawk, Hawk-75 – or just H-75 and Mohawk.) The P-36 was an all-metal monoplane (although the control surfaces were fabric-covered) with a 900 hp radial engine, enclosed cockpit and retractable landing gear. Early fighter trials paired this fighter against the Seversky P-35A where it ultimately lost out.
@@ -26,7 +24,6 @@ The French H-75 aircraft continued to see combat throughout the war, both under 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 The {{PAGENAME}} is a relatively easy fighter aircraft to fly and requires only a relatively short space to both take-off and land. Due to the fantastically low wing loading rate of 23.9 lb/ft<sup>2</sup><ref name="JoeB" />, this fighter is an excellent turning aircraft and accompanied by a strong rudder can spiral climb easily, especially during WEP cycles. This aircraft has the advantage of being both a turn fighter and a Boom & Zoom fighter, depending on the situation, type of aircraft which are flying against and mission type. The {{PAGENAME}} will out-turn many fighters of its rank and can prove difficult to follow if attempting to shoot it down. Compared to the [[P-36G]], the {{PAGENAME}} utilise a weaker engine which makes it difficult for the German Hawk to comparably keep up. Still, the trade-off for more guns vs. slightly hampered flight model is well worth it.
@@ -56,7 +53,7 @@ The {{PAGENAME}} is a relatively easy fighter aircraft to fly and requires only 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -87,10 +84,9 @@ The {{PAGENAME}} is a relatively easy fighter aircraft to fly and requires only 
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 9.5 mm steel plate behind the pilot.
+* 9.5 mm steel plate behind the pilot.
 
 As with many early pre-war fighters, not much emphasis was put on the survivability of the aircraft. The best course of action was for the pilot to not let anyone get behind them. The {{PAGENAME}}'s only sources of protection for the pilot is the engine block and the 9.5 mm (angled at 24° for effective thickness of 13 mm), that being said, depending on the engine block to save the pilot may do so at the expense of the engine, thus requiring the pilot to glide back to base if possible or bailout. There are also two unprotected oil coolers if which are punctured, the aircraft will leak oil until depleted eventually causing the engine to seize up.
 
@@ -101,34 +97,29 @@ As with many early pre-war fighters, not much emphasis was put on the survivabil
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Fabrique Nationale Mle 38 (7.5 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 7.5 mm Fabrique Nationale Mle 38 machine guns, nose-mounted (600 rpg = 1,200 total)
-- 4 x 7.5 mm Fabrique Nationale Mle 38 machine guns, wing-mounted (500 rpg = 2,000 total)
+* 2 x 7.5 mm Fabrique Nationale Mle 38 machine guns, nose-mounted (600 rpg = 1,200 total)
+* 4 x 7.5 mm Fabrique Nationale Mle 38 machine guns, wing-mounted (500 rpg = 2,000 total)
 
 Armament weaknesses found in the early [[P-36A]] were addressed when outfitting the {{PAGENAME}} fighter as instead of installing a 12.7 mm machine gun and a 7.62 mm, six 7.5 mm Mle 38s were installed. Lacking the punch of the 12.7 mm, this fighter has to make do without the more powerful machine gun. While the engine cowling was already crowded and no more machine guns could be centrally mounted which required wing modifications to install two more 7.5 machine guns, one in each wing. For this aircraft, two machine guns are mounted in the engine cowl and fire through the propeller arc while the other two are mounted one in each wing. Due to the wing-mounted machine guns, convergence is a factor to deal with with the optimal range being 100 - 200 m, anything beyond this will still work, however, the bullets significantly start losing their punch. The increase in armament increased the damage output ability of the fighter, however, the next generation H-75, the [[Hawk H-75A-2 (Germany)|H-75A-2]] increased the deadliness of the fighter by adding two more wing-mounted machine guns for a total of six guns. Options in ammunition will allow the pilot to select the type best suited for their mission whether it be as an interceptor, ground target hunter or a stealthy pouncer.
 
 ;Option 1 Configuration (optimal 200 - 400 m convergence)
 
-\*7.5 mm x 6 = Universal rounds
-
-- Universal rounds for the French aircraft have the most armour-piercing rounds coupled with tracer bullets than any other belt. The tracer rounds are important because of the ability to walk in the shots with the tracers (especially helpful in realistic and simulator battles where the aiming helper is not available for use) to the enemy aircraft.
+*7.5 mm x 6 = Universal rounds
+* Universal rounds for the French aircraft have the most armour-piercing rounds coupled with tracer bullets than any other belt. The tracer rounds are important because of the ability to walk in the shots with the tracers (especially helpful in realistic and simulator battles where the aiming helper is not available for use) to the enemy aircraft.
 
 ==== 7.5 mm ammunition ====
-
-- '''Default:''' {{Annotation|T|Tracer}}{{-}}{{Annotation|Ball|Omni-purpose}}{{-}}{{Annotation|Ball|Omni-purpose}}{{-}}{{Annotation|Ball|Omni-purpose}}{{-}}{{Annotation|I|Incendiary}}{{-}}{{Annotation|AP|Armour-piercing}}
-- '''Universal:''' {{Annotation|T|Tracer}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|I|Incendiary}}{{-}}{{Annotation|I|Incendiary}}
-- '''Tracers:''' {{Annotation|IT|Incendiary tracer}}
-- '''Stealth:''' {{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|I|Incendiary}}
-  This aircraft does not have the option to select any additional suspended armaments nor does it have any defensive weapons to counter any attackers.
+* '''Default:''' {{Annotation|T|Tracer}}{{-}}{{Annotation|Ball|Omni-purpose}}{{-}}{{Annotation|Ball|Omni-purpose}}{{-}}{{Annotation|Ball|Omni-purpose}}{{-}}{{Annotation|I|Incendiary}}{{-}}{{Annotation|AP|Armour-piercing}}
+* '''Universal:''' {{Annotation|T|Tracer}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|I|Incendiary}}{{-}}{{Annotation|I|Incendiary}}
+* '''Tracers:''' {{Annotation|IT|Incendiary tracer}}
+* '''Stealth:''' {{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|I|Incendiary}}
+This aircraft does not have the option to select any additional suspended armaments nor does it have any defensive weapons to counter any attackers.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 Energy retention lends this fighter to be a great zoomer, dropping in for a shot and then speeding back up to regain the energy advantage. With this aircraft having such a low stall speed; it makes a great fighter to practice Rope-a-dope energy depletion manoeuvres. This requires the H-75 pilot to bait another fighter into following them in a climb, as the attacker attempts to get guns on, the H-75 pilot can start to spiral climb which will cause the attacking aircraft to pull a tighter circle haemorrhaging their energy. If done correctly, the attacking fighter will stall out and be completely helpless as they begin to fall back to the ground allowing the P-36 to roll over or Split-S and take out the stalled fighter below.
@@ -155,26 +146,24 @@ Even with all of its power and mobility, the {{PAGENAME}} is a relatively fragil
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- High climb rate, especially with war emergency power applied
-- Impressive roll and turn rate, highly efficient Immelmann and split-S manoeuvres
-- Strong rudder, excels in wing-over and hammerhead stall manoeuvres
-- Slow stall speed (around 90 km/h / 55 mph)
-- Six machine guns (comparable to [[P-36G]])
-- Large ammo reserve of 3,200 rounds
+* High climb rate, especially with war emergency power applied
+* Impressive roll and turn rate, highly efficient Immelmann and split-S manoeuvres
+* Strong rudder, excels in wing-over and hammerhead stall manoeuvres
+* Slow stall speed (around 90 km/h / 55 mph)
+* Six machine guns (comparable to [[P-36G]])
+* Large ammo reserve of 3,200 rounds
 
 '''Cons:'''
 
-- Hard to control at high speeds (control surface stiffening)
-- Armament is adequate against bombers and other aircraft with rear-facing gunners
-- Lack of adequate armour renders engine, fuel tanks, oil coolers and virtually defenceless
+* Hard to control at high speeds (control surface stiffening)
+* Armament is adequate against bombers and other aircraft with rear-facing gunners
+* Lack of adequate armour renders engine, fuel tanks, oil coolers and virtually defenceless
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The P-36 Hawk began its life at Curtiss Aeroplane Company as a design in the early 1930s. A private venture by Curtiss, the project was headed up by Donovan A. Berlin, a former Northrop aircraft company engineer who was the principal designer and incorporated design portions of early Northrop designs.<ref name="MilFac" /> The P-36, at this time known as the X-17Y, was a stretch from the biplane years by utilizing an all-metal low-wing monoplane with fabric-covered control surfaces. This aircraft also featured retractable landing gear, which utilized a design put forward by Boeing Aircraft Company and required royalties to be paid to Boeing for every aircraft in which this landing gear was installed.<ref name="JoeB" /><ref name="AviHis" /> Initial weapon load-outs included the standard 12.7 mm and 7.62 mm machine guns, both of which were mounted in the forward fuselage deck and fired through openings in the cowling, synchronized to fire through the propeller arc.<ref name="AviHis" />
@@ -200,44 +189,38 @@ German forces captured a unit of French Armée de l'Air Curtiss Hawk 75s and gav
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=h-75a-2_finland Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=h-75a-2_finland Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|urHG72ULEis|''War Thunder - Finnish H-75A-2 In Game'' - '''TheEuropeanCanadian'''|YeIReVvouOs|''WT - Finish Hawk H-75A-2 Season 1 WWM Reward'' - '''Napalmratte'''|_KAfR0hMMtE|''War Thunder: Finnish H-75A-2 In-game!'' - '''JiphoTheJuppis'''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 ;[[P-36 (Family)|Related Development]]
-
-- [[H-75A-1]]
-- [[H-75A-4]]
+* [[H-75A-1]]
+* [[H-75A-4]]
 
 ;Analogues of other nations
 
-- Polikarpov [[I-180S]]
-- Mitsubishi [[A6M (Family)|A6M]] Zero
-- Nakajima [[Ki-43 (Family)|Ki-43]]
-- Reggiane [[Re.2000 serie 1|Re.2000]]
+* Polikarpov [[I-180S]]
+* Mitsubishi [[A6M (Family)|A6M]] Zero
+* Nakajima [[Ki-43 (Family)|Ki-43]]
+* Reggiane [[Re.2000 serie 1|Re.2000]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/86594-p-36-h-75/ Official data sheet - more details about the performance]
-- Militaryfactory.com website [[https://www.militaryfactory.com/aircraft/detail.asp?aircraft_id=155 Curtiss P-36 Hawk (Hawk 75 / Mohawk)]]
-- Aviationhistory.com website [[http://www.aviation-history.com/curtiss/p36.htm The Curtiss P-36 Hawk]]
-- Joebaugher.com website [[http://www.joebaugher.com/usaf_fighters/p36_1.html Curtiss P-36A]]
+* [https://forum.warthunder.com/index.php?/topic/86594-p-36-h-75/ Official data sheet - more details about the performance]
+* Militaryfactory.com website [[https://www.militaryfactory.com/aircraft/detail.asp?aircraft_id=155 Curtiss P-36 Hawk (Hawk 75 / Mohawk)]]
+* Aviationhistory.com website [[http://www.aviation-history.com/curtiss/p36.htm The Curtiss P-36 Hawk]]
+* Joebaugher.com website [[http://www.joebaugher.com/usaf_fighters/p36_1.html Curtiss P-36A]]
 
 === References ===
 <references>

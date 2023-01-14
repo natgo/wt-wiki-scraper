@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=ussr_gaz_dshk
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' (a [[DShK (12.7 mm)|12.7 mm DShK gun]] mounted on a GAZ-AAA truck) is a rank {{Specs|rank}} Soviet SPAA {{Battle-rating}}. It was introduced in [[Update 1.63 "Desert Hunters"]].
 
 The big brother to the [[GAZ-AAA (4M)]], it presents a crude set-up of a [[DShK (12.7 mm)|12.7 mm DShK]] mount to a 6x4 GAZ-AAA truck chassis. This soviet improvisation continues with the Soviet SPAA trend of attaching anti-aircraft weaponry to trucks, [[ZiS-43|half-tracks]], and [[BTR-152A|cars]] in the game.
@@ -21,18 +19,16 @@ Although the {{Specs|name}} continues to use the same unarmoured but nimble plat
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 This vehicle lacks any form of armour. Any light machine gun can penetrate the vehicle and knock out the crew (the gunner is completely exposed). Artillery strikes, bombs and rockets can cause critical damage even if they land far away from the vehicle.
 
 The only benefit of being so light is that enemies using APHE rounds will often overpenetrate and not detonate. However, it is very easy to destroy this vehicle with high-explosive shells through the overpressure mechanic (and at this BR, many guns are equipped with such shells).
 
 '''Armour type:'''
 
-- Structural steel (truck chassis, driver's cabin, engine hood)
-- Wood (truck bed floor)
-- Wheel (tires)
+* Structural steel (truck chassis, driver's cabin, engine hood)
+* Wood (truck bed floor)
+* Wheel (tires)
 
 {| class="wikitable"
 |-
@@ -48,11 +44,10 @@ The only benefit of being so light is that enemies using APHE rounds will often 
 |}
 '''Notes:'''
 
-- The truck bed floor is 15 mm thick.
+* The truck bed floor is 15 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=71|rbMinHp=44}}
@@ -66,9 +61,7 @@ The mobility of the GAZ-AAA (DShK) is mediocre at best. Similar to the preceding
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|DShK (12.7 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -89,10 +82,10 @@ The mobility of the GAZ-AAA (DShK) is mediocre at best. Similar to the preceding
 
 ==== Ammunition ====
 
-- '''Default:''' {{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|T|Tracer}}{{-}}{{Annotation|IAI|Immediate-action incendiary}} - The belt consists of 3 different type of ammunition. {{Annotation|AP-I|Armour-piercing incendiary}} ammunition is useful to put enemy planes on fire. {{Annotation|T|Tracer}} helps lead your shots while the {{Annotation|IAI|Immediate-action incendiary}} can be useful against less armoured aircraft. The lack of {{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}} found on other belts, limits its effectiveness against ground targets, reducing it to mostly vehicles with exposed crew.
-- '''API:''' {{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}} - Unlike the default belt, the API belt consists of 2 types of bullets. {{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}} can penetrate most opponents frontally due to how unarmoured vehicles are at such Battle Rating. {{Annotation|API-T|Armour-piercing incendiary tracer}} on the other hand, sacrifices penetration in favor of having an incendiary and a tracer component. This can prove to be very useful when engaging enemy aircraft as it can easily set them on fire. The belt's composition of 50% {{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}} and 50% {{Annotation|API-T|Armour-piercing incendiary tracer}} allows the vehicle to engage air vehicles as effectively as ground ones.
-- '''AP:''' {{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}}{{-}}{{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}} - While the AP belt shares the same bullet types as the API and API-T belts, the bullet ratio of 2/3 {{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}} and 1/3 {{Annotation|API-T|Armour-piercing incendiary tracer}} is better suited to engage ground vehicles. That said the belt's {{Annotation|API-T|Armour-piercing incendiary tracer}} gives it enough flexibility to engage air targets.
-- '''API-T:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}} - The API-T belt on the other hand, while sharing the same bullet types as the API and AP belts, has an inverted bullet than that of AP: 2/3 {{Annotation|API-T|Armour-piercing incendiary tracer}} and 1/3 {{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}} - While such belt composition is better suited to engage air vehicles, the inclusion of {{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}} allows the player to easily defend themselves against enemy tanks.
+* '''Default:''' {{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|T|Tracer}}{{-}}{{Annotation|IAI|Immediate-action incendiary}} - The belt consists of 3 different type of ammunition. {{Annotation|AP-I|Armour-piercing incendiary}} ammunition is useful to put enemy planes on fire. {{Annotation|T|Tracer}} helps lead your shots while the {{Annotation|IAI|Immediate-action incendiary}} can be useful against less armoured aircraft. The lack of {{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}} found on other belts, limits its effectiveness against ground targets, reducing it to mostly vehicles with exposed crew.
+* '''API:''' {{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}} - Unlike the default belt, the API belt consists of 2 types of bullets. {{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}} can penetrate most opponents frontally due to how unarmoured vehicles are at such Battle Rating. {{Annotation|API-T|Armour-piercing incendiary tracer}} on the other hand, sacrifices penetration in favor of having an incendiary and a tracer component. This can prove to be very useful when engaging enemy aircraft as it can easily set them on fire. The belt's composition of 50% {{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}} and 50% {{Annotation|API-T|Armour-piercing incendiary tracer}} allows the vehicle to engage air vehicles as effectively as ground ones.
+* '''AP:''' {{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}}{{-}}{{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}} - While the AP belt shares the same bullet types as the API and API-T belts, the bullet ratio of 2/3 {{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}} and 1/3 {{Annotation|API-T|Armour-piercing incendiary tracer}} is better suited to engage ground vehicles. That said the belt's {{Annotation|API-T|Armour-piercing incendiary tracer}} gives it enough flexibility to engage air targets.
+* '''API-T:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}} - The API-T belt on the other hand, while sharing the same bullet types as the API and AP belts, has an inverted bullet than that of AP: 2/3 {{Annotation|API-T|Armour-piercing incendiary tracer}} and 1/3 {{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}} - While such belt composition is better suited to engage air vehicles, the inclusion of {{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}} allows the player to easily defend themselves against enemy tanks.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="7" | Penetration statistics
@@ -114,9 +107,7 @@ The mobility of the GAZ-AAA (DShK) is mediocre at best. Similar to the preceding
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -128,7 +119,6 @@ The mobility of the GAZ-AAA (DShK) is mediocre at best. Similar to the preceding
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 ;Combat tactics
@@ -141,32 +131,30 @@ For anti-tank duties, the key will be to stick to your team and take out the cre
 
 ;Enemies worth noting
 
-- [[Ju 87 B-2|Ju 87 B2]]: this early Stuka is able to carry some very threatening bombs of up to 500kg. With the bombs it can easily destroy a GAZ-AAA (DShK) even if the bomb lands far away, due to the very thin armour protection of the SPAA. Its 2 x 7.92 mm MG, although weak, are still more than enough to knock out the completely exposed and not protected gunner, making the GAZ defenceless. It is best to target the Stuka's nose, where the engine and cooling systems are located. With an overheating/damaged engine, a Stuka will experience significantly worse flight performance which makes it easy for you or a friendly plane to destroy it.
-- [[M13 MGMC]]: this SPAA can wipe out the GAZ within a second as it has a pair of fast-firing and heavy-punching .50 cals. Fortunately your DShK is also able to penetrate through its armour with ease. In an encounter with an M13, try your best to get your shots off first. Aim for its gun mount and disable its ability to fire, then go for the driver compartment to destroy it.
+* [[Ju 87 B-2|Ju 87 B2]]: this early Stuka is able to carry some very threatening bombs of up to 500kg. With the bombs it can easily destroy a GAZ-AAA (DShK) even if the bomb lands far away, due to the very thin armour protection of the SPAA. Its 2 x 7.92 mm MG, although weak, are still more than enough to knock out the completely exposed and not protected gunner, making the GAZ defenceless. It is best to target the Stuka's nose, where the engine and cooling systems are located. With an overheating/damaged engine, a Stuka will experience significantly worse flight performance which makes it easy for you or a friendly plane to destroy it.
+* [[M13 MGMC]]: this SPAA can wipe out the GAZ within a second as it has a pair of fast-firing and heavy-punching .50 cals. Fortunately your DShK is also able to penetrate through its armour with ease. In an encounter with an M13, try your best to get your shots off first. Aim for its gun mount and disable its ability to fire, then go for the driver compartment to destroy it.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Weapon has increased penetration and damage output compared to the preceding GAZ-AAA (4M)
-- Quite fast on hard roads, topping at ~45 km/h
-- Small profile from all angle, hard to get spotted
-- Thin armour will not trigger most fused shells, causing over-penetration and thus little damage
+* Weapon has increased penetration and damage output compared to the preceding GAZ-AAA (4M)
+* Quite fast on hard roads, topping at ~45 km/h
+* Small profile from all angle, hard to get spotted
+* Thin armour will not trigger most fused shells, causing over-penetration and thus little damage
 
 '''Cons:'''
 
-- Vehicle armament consists of only a single 600 RPM machine gun
-- Limited magazine of 50 rounds means the armament has to reload frequently
-- Gunner can't swivel around 360 degrees horizontally
-- Limited vertical traverse
-- Will struggle to eliminate passing aircraft due to a low volume of fire
-- No armour, can easily be destroyed even by .30 cal machine guns
-- Subject to overpressure damage from HE shells
+* Vehicle armament consists of only a single 600 RPM machine gun
+* Limited magazine of 50 rounds means the armament has to reload frequently
+* Gunner can't swivel around 360 degrees horizontally
+* Limited vertical traverse
+* Will struggle to eliminate passing aircraft due to a low volume of fire
+* No armour, can easily be destroyed even by .30 cal machine guns
+* Subject to overpressure damage from HE shells
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 Around the late 1920s, the Soviet Union was undergoing a mechanization revolution and realized that no purpose-built motor vehicles were available for them to help move cargo and materiel back and forth. The result was the GAZ-AAA truck, which was a truck based on the Ford Model AAA 6 x 4 truck. These trucks entered production in 1932 and were used in multiple roles in the civilian world and in the military.
@@ -178,12 +166,11 @@ Old and reliable .50 cal proved to be good at harassing low flying planes, infan
 DShK proved its worthiness on many occasions, but a new anti-aircraft system had to be devised for the role of a mobile anti-aircraft system. This led to the development of the [[GAZ-MM (72-K)]], which while still truck-mounted weaponry, had a noticeable increase in firepower with a 25 mm autocannon.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_gaz_dshk Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_gaz_dshk Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover" heights="150">
@@ -196,16 +183,15 @@ Image:DShK GAZ AAA in winter camo.jpg|<small>The {{PAGENAME}} in winter camoufla
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [http://wio.ru/galgrnd/flak/spflak.htm <nowiki>[War Is Over]</nowiki> Great Patriotic War: Soviet Anti-Aircraft Mobile Guns]
+* [http://wio.ru/galgrnd/flak/spflak.htm <nowiki>[War Is Over]</nowiki> Great Patriotic War: Soviet Anti-Aircraft Mobile Guns]
 
 === References ===
 <references />

@@ -4,17 +4,13 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -42,7 +38,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-r
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || X || X || ✓ || X || ✓ <!-- ✓ -->
+| X || X || X || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -90,7 +86,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-r
 ! 11m fuel || 20m fuel || 30m fuel || 37m fuel
 |-
 | 1,450 kg || colspan="2" | Afterburning axial-flow turbojet
-| 8,028 kg || 8,617 kg || 9,280 kg || 9,750 kg || \_,**_ kg
+| 8,028 kg || 8,617 kg || 9,280 kg || 9,750 kg || _,___ kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
 ! colspan="5" | Thrust to weight ratio @ 0 m (WEP)
@@ -99,18 +95,16 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-r
 ! 11m fuel || 20m fuel || 30m fuel || 37m fuel || MTOW
 |-
 | ''Stationary'' || 4,210 kgf || 6,110 kgf
-| 0.76 || 0.71 || 0.66 || 0.63 || _.**
+| 0.76 || 0.71 || 0.66 || 0.63 || _.__
 |-
 | ''Optimal'' || 5,389 kgf<br>(1,200 km/h) || 8,594 kgf<br>(1,200 km/h)
-| 1.07 || 1.00 || 0.93 || 0.88 || \_.\_\_
+| 1.07 || 1.00 || 0.93 || 0.88 || _.__
 |-
 |}
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 The Nesher has no armour and can be critically damaged with just one short burst of enemy fire. Even if the Nesher survives, it will be highly damaged and some major components like the elevator or aileron controls will likely be destroyed. The Nesher has self-sealing fuel tanks located in the rear, front part of the wings, and the forward fuselage.
 
 === Modifications and economy ===
@@ -120,39 +114,35 @@ The Nesher has no armour and can be critically damaged with just one short burst
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|DEFA 552A (30 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 30 mm DEFA 552A cannons, belly-mounted (140 rpg = 280 total)
+* 2 x 30 mm DEFA 552A cannons, belly-mounted (140 rpg = 280 total)
 
 The twin 30 mm are a great tool to use for intercepting close range enemy aircraft. The 30 mm are also mounted centrally, making it easier to aim without having to level out your wings to fire. The DEFA 30 mm will make short work of any aircraft attempting to dogfight, though their slow velocity and rate of fire can make it difficult to hit the target.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
 {{main|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|GAU-4 (20 mm)}}
 {{main|AIM-9D Sidewinder|AIM-9G Sidewinder|Shafrir 2}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x Shafrir 2 missiles
-- 2 x AIM-9D Sidewinder missiles
-- 2 x AIM-9G Sidewinder missiles
-- 11 x 500 lb LDGP Mk 82 bombs (5,500 lb total)
-- 6 x 1,000 lb LDGP Mk 83 bombs (6,000 lb total)
-- 6 x 750 lb M117 cone 45 bombs (4,500 lb total)
-- 2 x 2,000 lb LDGP Mk 84 bombs (4,000 lb total)
-- 2 x 20 mm GAU-4 cannons (1,200 rpg = 2,400 total)
-- 16 x Zuni Mk32 Mod 0 ATAP rockets
-- 76 x FFAR Mighty Mouse rockets
+* Without load
+* 2 x Shafrir 2 missiles
+* 2 x AIM-9D Sidewinder missiles
+* 2 x AIM-9G Sidewinder missiles
+* 11 x 500 lb LDGP Mk 82 bombs (5,500 lb total)
+* 6 x 1,000 lb LDGP Mk 83 bombs (6,000 lb total)
+* 6 x 750 lb M117 cone 45 bombs (4,500 lb total)
+* 2 x 2,000 lb LDGP Mk 84 bombs (4,000 lb total)
+* 2 x 20 mm GAU-4 cannons (1,200 rpg = 2,400 total)
+* 16 x Zuni Mk32 Mod 0 ATAP rockets
+* 76 x FFAR Mighty Mouse rockets
 
 '''Shafrir 2'''
 
@@ -205,31 +195,27 @@ Although it has less explosive mass than the AIM-9D, the upgraded seeker of the 
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Upgraded engine to other Mirage variants
-- Good turn rate making it very manoeuvrable
-- Decent variety of ground ordnance
-- Able to carry 2 x 20 mm M61 Vulcan gunpods
+* Upgraded engine to other Mirage variants
+* Good turn rate making it very manoeuvrable
+* Decent variety of ground ordnance
+* Able to carry 2 x 20 mm M61 Vulcan gunpods
 
 '''Cons:'''
 
-- No armour
-- No countermeasures or RWR
-- Bleeds a lot of speed in turn fighting, or high angles of attack
-- Can only 2 AAMs
+* No armour
+* No countermeasures or RWR
+* Bleeds a lot of speed in turn fighting, or high angles of attack
+* Can only 2 AAMs
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 During the first two decades of its existence, the State of Israel developed a close technological alliance with the Republic of France. The primary expression of this alliance was the large-scale export of military aircraft from France to Israel, including the [[M.D.450B Ouragan (Israel)|Ouragan]], [[Vautour IIA (Israel)|Vautour]] and [[Mystere IVA (Israel)|Mystere]]. By 1965, France had helped turn the Israeli Air Force (IAF) from an improvised World War II-era operation into one of the most formidable, high-tech, jet-equipped air forces in the world. This cooperation reached its zenith in the early 1960s with the adoption of the [[Mirage IIICJ|Mirage III]] as Israel's primary fighter jet.
@@ -247,34 +233,28 @@ The Nesher was slightly less manoeuvrable than the [[Mirage IIICJ]] it was meant
 Between 1971 and 1974, a total of 51 single-seat Neshers were built for combat operations, as well as 10 two-seat trainers. Production gradually stopped in 1974 as IAI factories switched over to the new Israeli Mirage variant - the [[Kfir C.7|Kfir]]. The Nesher was gradually retired from service starting in 1978. After a good lifetime serving the Israeli Air Force, many Neshers were refurbished and sold to Argentina's air force, where it was renamed the "Dagger". These aircraft retired from service as late as 2015.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=nesher Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=nesher Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer IAI}}
 {{Israel jet aircraft}}

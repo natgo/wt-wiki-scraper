@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=us_halftrack_m15
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} American Self-Propelled Anti-Aircraft (SPAA) gun {{Battle-rating}}. It was one of the first American tanks to be released with the American ground tree in [[Update 1.45 "Steel Generals"]].
 
 Comparing the M15 CGMC to the [[M16 MGMC|M16]] and [[M13 MGMC|M13]], they first appear similar. The same manoeuvrability and mobility are still passed on. All feature, [[M2HB (12.7 mm)|Browning]] heavy machine guns. But at this point, the similarities end. Both M13 and M16 have only one weapon system making long range shots easier to hit with all weapons. They also carry plenty of ammo (both 4800 rounds or 12 / 6 reloads) and will fire long after the M15 ran out of 37 mm and 12.7 mm rounds. Of course, the Combination Gun Motor Carriage has some advantages to the machine gun only armed versions: A nasty cannon and actual armour, the M15A1 is entrusted with the ability to engage at a longer distance down aircraft faster, and most importantly, survive much longer. However, the price paid is the inability for the armament to cover the vehicle's front and slower turret rotation. The latter can be addressed by driving backwards while in a combat zone.
@@ -25,12 +23,11 @@ The M15 CGMC is a '''s'''elf '''p'''ropelled '''a'''nti-'''a'''ir vehicle. This 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-\*Rolled homogeneous armour
+*Rolled homogeneous armour
 
 {| class="wikitable"
 |-
@@ -46,7 +43,6 @@ Open top, open rear and only 12 mm (0.5 inch) all around? [[SU-152|SU-152's]] an
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=210|rbMinHp=131}}
@@ -58,9 +54,7 @@ Open top, open rear and only 12 mm (0.5 inch) all around? [[SU-152|SU-152's]] an
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|M1A2 (37 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -81,9 +75,9 @@ Open top, open rear and only 12 mm (0.5 inch) all around? [[SU-152|SU-152's]] an
 
 ==== Ammunition ====
 
-- '''M59A1 shot (mixed):''' {{Annotation|APC|Armour-piercing capped}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}} - These work fine, a hit on an aircraft means certain destruction for it and still is able to damage lightly armoured vehicles.
-- '''M54 shell:''' {{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}} - These are best for against aircraft.
-- '''M59A1 shot:''' {{Annotation|APC|Armour-piercing capped}} - These are the worst belts against airplanes and even though they are able to damage lightly armoured vehicles, loading them in a RB match is usually a mistake.
+* '''M59A1 shot (mixed):''' {{Annotation|APC|Armour-piercing capped}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}} -  These work fine, a hit on an aircraft means certain destruction for it and still is able to damage lightly armoured vehicles.
+* '''M54 shell:''' {{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}} - These are best for against aircraft.
+* '''M59A1 shot:''' {{Annotation|APC|Armour-piercing capped}} - These are the worst belts against airplanes and even though they are able to damage lightly armoured vehicles, loading them in a RB match is usually a mistake.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="8" | Penetration statistics
@@ -120,9 +114,7 @@ Open top, open rear and only 12 mm (0.5 inch) all around? [[SU-152|SU-152's]] an
 |}
 
 ==== [[Ammo racks]] ====
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -148,9 +140,7 @@ Open top, open rear and only 12 mm (0.5 inch) all around? [[SU-152|SU-152's]] an
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|M2HB (12.7 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -167,10 +157,10 @@ Open top, open rear and only 12 mm (0.5 inch) all around? [[SU-152|SU-152's]] an
 
 ==== Ammunition ====
 
-- '''Common:''' {{Annotation|API-T|M20 armour-piercing incendiary tracer}}{{-}}{{Annotation|I|M1 incendiary}}{{-}}{{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|API-T|M20 armour-piercing incendiary tracer}} - These rounds work well until the others are researched.
-- '''API:''' {{Annotation|API-T|M20 armour-piercing incendiary tracer}}{{-}}{{Annotation|AP-I|M8 armour-piercing incendiary}}{{-}}{{Annotation|API-T|M20 armour-piercing incendiary tracer}} - These are absolutely devastating in the AA role with slightly less performance against enemy tanks than AP.
-- '''AP:''' {{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|API-T|M20 armour-piercing incendiary tracer}} - These are best against enemy tanks at close range and do good damage to planes.
-- '''APIT:''' {{Annotation|API-T|M20 armour-piercing incendiary tracer}} - Better than API in all regards but not as good against tanks as AP, this is the belt of choice in almost all situations. Since every bullet is a tracer, it makes destroying aircraft much easier and detectability is not greatly increased over AP-I, however is increased a bit over AP.
+* '''Common:''' {{Annotation|API-T|M20 armour-piercing incendiary tracer}}{{-}}{{Annotation|I|M1 incendiary}}{{-}}{{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|API-T|M20 armour-piercing incendiary tracer}} - These rounds work well until the others are researched.
+* '''API:''' {{Annotation|API-T|M20 armour-piercing incendiary tracer}}{{-}}{{Annotation|AP-I|M8 armour-piercing incendiary}}{{-}}{{Annotation|API-T|M20 armour-piercing incendiary tracer}} - These are absolutely devastating in the AA role with slightly less performance against enemy tanks than AP.
+* '''AP:''' {{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|API-T|M20 armour-piercing incendiary tracer}} - These are best against enemy tanks at close range and do good damage to planes.
+* '''APIT:''' {{Annotation|API-T|M20 armour-piercing incendiary tracer}} - Better than API in all regards but not as good against tanks as AP, this is the belt of choice in almost all situations. Since every bullet is a tracer, it makes destroying aircraft much easier and detectability is not greatly increased over AP-I, however is increased a bit over AP.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="7" | Penetration statistics
@@ -209,9 +199,7 @@ Open top, open rear and only 12 mm (0.5 inch) all around? [[SU-152|SU-152's]] an
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_M15A1_(12.7_mm).png|right|thumb|x250px|12.7 mm ammo racks]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -226,7 +214,6 @@ Open top, open rear and only 12 mm (0.5 inch) all around? [[SU-152|SU-152's]] an
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 Compared to certain other SPAAs ([[ZSU-37]], [[Wirbelwind]], [[M13 MGMC|M13]], etc.) the M15 cannot be used effectively in an anti-vehicle role. The average [[BR|battle-rating]] is too high and the penetration value of the AP shells to low. While it does have increased armour compared to earlier models, it is still not strong enough against the devastating tank HE shells. However, the armour performs well versus the average aircraft armament.
@@ -238,32 +225,30 @@ Unlike many other SPAA this vehicle can continue shooting once it is reloading t
 {{Clear}}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Decent armour, compared to its predecessors
-- Armour to an extent can soak up 12.7 mm rounds, something the previous vehicles could not do
-- Heavy armament setup
-- Guns are fired separately, allowing for shots between reloading guns or tricking the enemy into misidentifying the vehicle as an M13 MGMC
-- 37 mm can attack other tanks if necessary, though this is not recommended due to low penetration
+* Decent armour, compared to its predecessors
+* Armour to an extent can soak up 12.7 mm rounds, something the previous vehicles could not do
+* Heavy armament setup
+* Guns are fired separately, allowing for shots between reloading guns or tricking the enemy into misidentifying the vehicle as an M13 MGMC
+* 37 mm can attack other tanks if necessary, though this is not recommended due to low penetration
 
 '''Cons:'''
 
-- Low ammo count, will run out easily
-- Split armament causes different ballistics between them
-- Different velocities for the cannon and machine guns
-- Very slow fire rate for the 37mm gun for AA purposes.
-- Open top turret, so the Turret crew is exposed
-- Vulnerable against explosions
-- Very uneven centre of gravity, may tip over in tight turns
-- 37 mm ammunition is stored in the turret walls, it is easy to hit and is lethal to the crew and tank
-- Cannot cover the front of the vehicle
-- Lacks rapid reload on German and Russian counterparts
+* Low ammo count, will run out easily
+* Split armament causes different ballistics between them
+* Different velocities for the cannon and machine guns
+* Very slow fire rate for the 37mm gun for AA purposes.
+* Open top turret, so the Turret crew is exposed
+* Vulnerable against explosions
+* Very uneven centre of gravity, may tip over in tight turns
+* 37 mm ammunition is stored in the turret walls, it is easy to hit and is lethal to the crew and tank
+* Cannot cover the front of the vehicle
+* Lacks rapid reload on German and Russian counterparts
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 ===Development===
@@ -291,31 +276,28 @@ The M15 CGMC fought as part of the American army's AA divisions in the European 
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=us_halftrack_m15 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=us_halftrack_m15 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
 
-- [[Sd.Kfz. 6/2]]
-- [[ZiS-43]]
+* [[Sd.Kfz. 6/2]]
+* [[ZiS-43]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/3133/current/|[Vehicle Profile] M15 CGMC]]
+* [[wt:en/news/3133/current/|[Vehicle Profile] M15 CGMC]]
 
 {{TankManufacturer White Motor Company}}
 {{USA anti-aircraft vehicles}}

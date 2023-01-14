@@ -5,9 +5,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.59 "Flaming Arrows"]].
 
 The {{PAGENAME}} can carry great amounts of payload due to its distinctive feature, the turboprop powerplant. This engine enables it to exceed 600 kph in level flight.
@@ -17,7 +15,6 @@ The Wyvern is an aircraft that can carry a large payload so it can be used in th
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 The Wyvern S4, being a turboprop, is an exceptionally fast aircraft for its battle rating. Though a prop aircraft, the Wyvern functions very similar to jet aircraft in play style, due to the nature of its weight and engine. Though the Wyvern does have an above average climb rate due to its powerful engine, it functions best near sea level. At sea level, where the engine functions at maximum capacity, the Wyvern is almost uncatchable. Being able to maintain nearly 640 km/h in level flight without a payload, even enemies diving on the Wyvern will have trouble catching up, and will quickly fall behind as they lose energy.
@@ -51,7 +48,7 @@ This focus on simply flying straight is further amplified by the turboprop's abi
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || ✓ || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -82,11 +79,10 @@ This focus on simply flying straight is further amplified by the turboprop's abi
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 64 mm Bulletproof glass - Armoured windscreen
-- 12.7 mm Steel plate behind the pilot
+* 64 mm Bulletproof glass - Armoured windscreen
+* 12.7 mm Steel plate behind the pilot
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -95,38 +91,33 @@ This focus on simply flying straight is further amplified by the turboprop's abi
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Hispano Mk.V (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 20 mm Hispano Mk.V cannons, wing-mounted (300 rpg = 1,200 total)
+* 4 x 20 mm Hispano Mk.V cannons, wing-mounted (300 rpg = 1,200 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|G.P. Mk.IV (500 lb)|M.C. 1,000 lb Mk.I (1,000 lb)|AP Mk I|Red Angel|RP-3}}
 {{main|18 inch Mark XV (450 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 3 x 500 lb G.P. Mk.IV bombs (1,500 lb total)
-- 3 x 1,000 lb M.C. 1,000 lb Mk.I bombs (3,000 lb total)
-- 8 x AP Mk I rockets
-- 8 x RP-3 rockets
-- 16 x AP Mk I rockets
-- 16 x RP-3 rockets
-- 1 x 450 mm 18 inch Mark XV torpedo
-- 16 x RP-3 rockets + 1 x 450 mm 18 inch Mark XV torpedo
-- 2 x Red Angel rockets
+* Without load
+* 3 x 500 lb G.P. Mk.IV bombs (1,500 lb total)
+* 3 x 1,000 lb M.C. 1,000 lb Mk.I bombs (3,000 lb total)
+* 8 x AP Mk I rockets
+* 8 x RP-3 rockets
+* 16 x AP Mk I rockets
+* 16 x RP-3 rockets
+* 1 x 450 mm 18 inch Mark XV torpedo
+* 16 x RP-3 rockets + 1 x 450 mm 18 inch Mark XV torpedo
+* 2 x Red Angel rockets
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 Speed, climb rate, and armament are the Wyvern's only real method of taking out enemy aircraft. These are the strengths that any pilot of the Wyvern should always exploit, by employing Boom & Run tactics on enemies. With four Mk V Hispano cannons, and a staggeringly large ammo reserve, the Wyvern is more than equipped to quickly dispatch any aircraft that end up in front of it. The pilot should only take the plane up to a maximum of a couple thousand meters, unless bomber hunting, and use the Wyvern's excellent acceleration and top speed to quickly annihilate any enemies who end up on low altitude. The Wyvern can also use this speed to bait enemies, who see the Wyvern as an easy target, down to low altitudes. This will allow allied fighters to easily establish high altitude air superiority, which can often end up in victory by itself, without the Wyvern pilot actually putting himself in any great danger.
@@ -157,32 +148,30 @@ In Naval Battles, the Wyvern can be used as a fighter-bomber. The 3 x 1,000 lb b
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Exceptional low-altitude engine performance (550 km/h-640km/h with payload/no payload)
-- Powerful offensive armament, with large ammo reserves
-- Diverse selection of secondary armament
-- Above average manoeuvrability at high speeds
-- Excellent dive performance
-- Surprisingly high climb rate
-- Reasonably capable of Boom & Zoom, which will allow this premium plane to make even more money
+* Exceptional low-altitude engine performance (550 km/h-640km/h with payload/no payload)
+* Powerful offensive armament, with large ammo reserves
+* Diverse selection of secondary armament
+* Above average manoeuvrability at high speeds
+* Excellent dive performance
+* Surprisingly high climb rate
+* Reasonably capable of Boom & Zoom, which will allow this premium plane to make even more money
 
 '''Cons:'''
 
-- Exceedingly heavy (7 t unloaded, 9+ t with a payload)
-- Large fuel tanks located in front of the wings
-- Turboprop engine is more fragile than traditional piston-engines planes
-- Very bad roll rate
-- Below average high-altitude engine performance
-- Poor engine response to throttle adjustment
-- Distinctive engine sound, unlike any other aircraft
-- Extremely loud propulsion system allows for easy detection
+* Exceedingly heavy (7 t unloaded, 9+ t with a payload)
+* Large fuel tanks located in front of the wings
+* Turboprop engine is more fragile than traditional piston-engines planes
+* Very bad roll rate
+* Below average high-altitude engine performance
+* Poor engine response to throttle adjustment
+* Distinctive engine sound, unlike any other aircraft
+* Extremely loud propulsion system allows for easy detection
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The Wyvern was one of the few turboprop combat aircraft ever fully developed, and entered service long after World War II had ended. The design was a relic of an era past, with jet-powered aircraft now replacing propeller aircraft. It also suffered from a long development period, beginning in 1944 as the P.10. This lead to the Wyvern seeing very little combat use and being quickly retired. The Wyvern S.4 variant contained an Armstrong Siddeley Python 3 turboprop engine, able to output 3670 horsepower, and was the first and only variant of the Wyvern to enter service with the British Royal Navy.
@@ -192,12 +181,10 @@ The Wyvern S.4 only saw actual combat in late 1956 during the Suez Crisis, racki
 The type was plagued with various engine problems during its brief period in service, and was retired soon after in 1958.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=wyvern_s4 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=wyvern_s4 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover" heights="150">
@@ -209,18 +196,16 @@ Image:Westland Wyvern on the runway.jpg|<small>Westland Wyvern on the runway</sm
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/3735-development-westland-wyvern-the-turboprop-dragon-en|[Devblog] Westland Wyvern: The Turboprop Dragon]]
-- [https://forum.warthunder.com/index.php?/topic/315763-westland-wyvern-s4/ Official data sheet - more details about the performance]
+* [[wt:en/news/3735-development-westland-wyvern-the-turboprop-dragon-en|[Devblog] Westland Wyvern: The Turboprop Dragon]]
+* [https://forum.warthunder.com/index.php?/topic/315763-westland-wyvern-s4/ Official data sheet - more details about the performance]
 
 === References ===
 <references />

@@ -1,12 +1,10 @@
 {{Specs-Card
 |code=uk_concept3_ngac
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British light tank {{Battle-rating}}. It was introduced in [[Update "Red Skies"]].
 
 The Concept 3 is a direct ancestor in development to the well-known Rooikat family of vehicles. Though it lacks the level of agility those vehicles can attain, the Concept 3 is by no means a slouch. Offering a fast and punchy contender to follow up from the SARC vehicles players will have experienced prior, boasting the same firepower not seen until later British medium tanks but on a nimble albeit fragile chassis.
@@ -14,7 +12,6 @@ The Concept 3 is a direct ancestor in development to the well-known Rooikat fami
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 Like the American [[M18 GMC|M18 Hellcat]], the Concept 3 only has 12.7 mm (0.5 in) of armour in most areas, with some areas being only 6.5 mm. As a result, anything at this BR can penetrate this vehicle's armour. Compounding issues, the Concept 3 has ammunition scattered all throughout its body. In other words: while incoming fire from the sides is somewhat prone to overpenetration, this cannot be depended upon. Try to avoid being shot at in the first place.
@@ -23,8 +20,8 @@ However it is worth noting the geometry of the Concept 3 when presented from the
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (hull, turret, cupola)
-- Wheel (tires)
+* Rolled homogeneous armour (hull, turret, cupola)
+* Wheel (tires)
 
 {| class="wikitable"
 |-
@@ -40,14 +37,12 @@ However it is worth noting the geometry of the Concept 3 when presented from the
 
 '''Notes:'''
 
-- Wheels and torsion bars are 10 mm thick.
-- Belly armour is 6.35 mm thick.
+* Wheels and torsion bars are 10 mm thick.
+* Belly armour is 6.35 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-
 The Concept 3 represents the crystallization of the set of traits that define the South African tech line. It is able to comfortable reach 70+ km/h when stock on paved roads and a respectable 40-50 km/h across rough terrain with the common exceptions of boggy, sandy, or snow-covered ground. It will get the player where they wish to go swiftly; however, owing to its 8 wheel design, it does offer a much more sluggish turning radius than its predecessors in the SARC family, or its contemporary in the SPAA line, the Ystervark. Take care to begin turning earlier than than previous vehicles to avoid crashing into a street corner or odd boulder.
 
 The suspension is superb even stock, allowing the Concept 3 to maintain good speed across rough ground and steady the chassis swiftly upon halting; crucial to bringing its armament to bear upon its target or a surprise encounter.
@@ -65,9 +60,7 @@ Further on it is advised to acquire the Horizontal turret drive as stock the tra
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|OQF Mk.II (77 mm)}}
 
 Due to highly mobile playstyle, one might try to fight on the move or to attack by driving uphill to suddenly shoot enemies. Unfortunately, the gun is not stabilized and the gun elevation speed is extremely slow, which leads to significant uncontrollable "rocking" of the gun, inevitably pushing it down into the ground. This makes fighting on the move in RB/SB very difficult to the point of impossible. Thus, one should always wait until the gun has settled, or drive over completely flat terrain and slow down before firing to try one's luck.
@@ -141,9 +134,7 @@ While lacking the APDS rounds of the [[Comet I]], the Concept 3's rounds are pre
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.7.0.109''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -160,14 +151,12 @@ While lacking the APDS rounds of the [[Comet I]], the Concept 3's rounds are pre
 |}
 '''Notes''':
 
-- Shells are modeled individually and disappear after having been shot or loaded.
-- If you pack 21&nbsp;''(+39)'' shells, it will keep the turret empty of ammo.
+* Shells are modeled individually and disappear after having been shot or loaded.
+* If you pack 21&nbsp;''(+39)'' shells, it will keep the turret empty of ammo.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|Browning MG4 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -181,9 +170,7 @@ While lacking the APDS rounds of the [[Comet I]], the Concept 3's rounds are pre
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Concept 3 will be the first iteration of the iconic 8 wheeled light vehicles that return often along the South African tech line. This vehicle is extremely large for a scout vehicle, eclipsing the Panzer IV in height and length. Concealing the Concept 3 will prove to be a difficult challenge for the player, usually finding themselves relying heavily upon its mobility to compete.
 
 As with most if not all of the South African vehicles, the Concept 3 boasts an excellent level of mobility. A viable tactic for the Concept 3 can be to advance swiftly to a good position and provide scouting support, taking shots of opportunity when they present themselves. The player is advised to prioritize positions that allow an easy avenue of escape to ensure the potent mobility of the Concept 3 is not rendered useless, especially the superb reverse speed of this vehicle.
@@ -193,28 +180,26 @@ The Concept 3 has little in the way of armour to rely upon, only being able to r
 In conclusion, the Concept 3 can be reliably played the same way as the previous SARC vehicles albeit with a punchy gun and a little trickery in the armour department with ricochet.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Excellent gun for its tier, good penetration and decent reload
-- Fast with good acceleration when spaded
-- Reverse speed is as good as forward speed, allowing for quick getaways
-- Above average muzzle velocity
+* Excellent gun for its tier, good penetration and decent reload
+* Fast with good acceleration when spaded
+* Reverse speed is as good as forward speed, allowing for quick getaways
+* Above average muzzle velocity
 
 '''Cons:'''
 
-- Solid shot ammunition only, accurate fire is needed to disable vehicles
-- Suspension is quite bouncy and the gun elevation speed is slow, making shots difficult
-- Turning is slow when stock
-- Suffers in soft terrain, sometimes speed will drop massively upon the slightest obstacle
-- Negligible armour, vulnerable to artillery overpressure
-- Sub-par accuracy at range when stock
-- Lacks a smoke grenade launcher
+* Solid shot ammunition only, accurate fire is needed to disable vehicles
+* Suspension is quite bouncy and the gun elevation speed is slow, making shots difficult
+* Turning is slow when stock
+* Suffers in soft terrain, sometimes speed will drop massively upon the slightest obstacle
+* Negligible armour, vulnerable to artillery overpressure
+* Sub-par accuracy at range when stock
+* Lacks a smoke grenade launcher
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The Concept 3 was based on the British FV603 Alvis Saracen Armoured Personnel Carrier. It was designed to fulfil a new South African requirement for a "New Generation Armoured Car". The project started in 1976 and ended in 1979. 3 testbed vehicles were made, Concept 3 being one of them. The Concept 3 differed from the Alvis Saracen APCs - it had an 8-wheel configuration, giving it superior off-road characteristics and superior performance. The Concept 3 was fitted with a [[OQF Mk.II (77 mm)|77mm OQF Mk.II]], identical to the one found on the [[Comet I|A34 Comet I]] which, while underwhelming for the time was merely a placeholder and was later swapped for a [[Royal Ordnance L7A1 (105 mm)|105 mm Royal Ordnance L7]] which was a licence built version of the same gun found on the British [[Centurion Mk 10]]. The L7 variant was known as the "Bismarck". The vehicle was built by South African company Sandock-Austral (later merged into BAE Systems), the same company credited with creating and producing the Ratel family ([[Ratel 20]] / [[Ratel 90|90]]) and the [[Eland 90 Mk.7]]. Several tests were conducted over the years at Potchefstroom, South Africa. The Concept 3 series was nicknamed the "Cheetah" and the vehicle was officially designated "Concept 3, Class 2B" and was built to slightly different medium specifications, raising the original weight of the vehicle from a modest 17 tonnes to a rather considerable weight of up to 23 tonnes.
@@ -224,37 +209,33 @@ When all is said and done, the Concept series deviated from the original vision 
 However, the legacy of the Concept cannot be asserted enough: the basic design of the Concept and in particular its chassis would later become that of the Rooikat family ([[Rooikat 105]] / [[Rooikat MTTD|MTTD]] / [[Rooikat Mk.1D|Mk.1D]] / [[ZA-35]]) which are still used to this day. The Concept, while often forgotten, disregarded and dishonoured is perhaps one of the most - if not the most - influential military vehicle design in South African history.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_concept3_ngac Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_concept3_ngac Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|GSSJKUqU3WE|'''The Shooting Range #260''' - ''Metal Beasts'' section at 00:28 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related developement
 
-- [[Rooikat Mk.1D]]
-- [[Rooikat 105]]
+* [[Rooikat Mk.1D]]
+* [[Rooikat 105]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{Britain light tanks}}
 [[Category:Wheeled ground vehicles]]

@@ -1,12 +1,10 @@
 {{Specs-Card
 |code=kitsuka
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese jet fighter {{Battle-rating}}. It was introduced in [[Update 1.43]].
 
 The Kikka is a fast and versatile fighter-bomber. It starts out with a single 30 mm and you will have to research the 'otsu' mod before you can obtain the second 30 mm. It is important you utilize your speed to your advantage, as that is its biggest advantage against most aircraft it encounters. A good turner at high speed, but at low speed you may find it difficult to turn, as well as to regain your speed. Always maintain an energy advantage over your enemies, so you can quickly engage and disengage your targets. Never try to keep on them unless you know you have the advantage. The Kikka is a small aircraft which has great acceleration and climb, so it shines in vertical energy retention. It is recommended you do not 'head-on' other targets until you have acquired the ''Otsu'' mod. The Kikka is a very durable and well armoured aircraft, so it can take a multiple hits in a head-on.
@@ -16,7 +14,6 @@ Regarding its bombing capabilities, equipping a bomb (either 500kg or 800kg, bot
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -44,7 +41,7 @@ Regarding its bombing capabilities, equipping a bomb (either 500kg or 800kg, bot
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || X || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -138,51 +135,44 @@ Regarding its bombing capabilities, equipping a bomb (either 500kg or 800kg, bot
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 70 mm Bulletproof glass - Armoured windscreen
-- 12.7 mm Steel plates in front of front fuel tank
-- 12.7 mm Steel plate behind the pilot
-- 12.7 mm Steel plate behind the rear fuel tank
+* 70 mm Bulletproof glass - Armoured windscreen
+* 12.7 mm Steel plates in front of front fuel tank
+* 12.7 mm Steel plate behind the pilot
+* 12.7 mm Steel plate behind the rear fuel tank
 
 === Modifications and economy ===
 {{Specs-Economy}}
 
-- ''Otsu mod.'' allows the installation of a second 30 mm cannon
+* ''Otsu mod.'' allows the installation of a second 30 mm cannon
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Type 5 (30 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 1 x 30 mm Type 5 cannon, nose-mounted (50 rpg)
-  ** 2 x 30 mm Type 5 cannon, nose-mounted (50 rpg = 100 total)
+* A choice between two presets:
+** 1 x 30 mm Type 5 cannon, nose-mounted (50 rpg)
+** 2 x 30 mm Type 5 cannon, nose-mounted (50 rpg = 100 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|Navy Type Number 50 Model 2 (500 kg)|Navy Type Number 80 Model 1 (800 kg)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 1 x 500 kg Navy Type Number 50 Model 2 bomb (500 kg total)
-- 1 x 800 kg Navy Type Number 80 Model 1 bomb (800 kg total)
+* Without load
+* 1 x 500 kg Navy Type Number 50 Model 2 bomb (500 kg total)
+* 1 x 800 kg Navy Type Number 80 Model 1 bomb (800 kg total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Kikka has a good acceleration rate for its BR, as well as climb rate, and low top speed compared to later jets. The pilot is quite heavily protected from the front and rear by both armour, and the fuel tanks are self sealing. The (wing mounted) engines, on the other hand, take damage easily, and minor damage to them will further slow the plane to speeds that some props can match.
 
 Its 30 mm guns have a low rate of fire and low ammo count, but are very powerful and can down fighters with a few solid shots. The stock belt is lacking and it is recommended to research and use the tracer belt (HEF-T). There are no AP rounds, the closest thing being the "practice" shell, merely an unfilled HE shell. Strafing is discouraged as the guns simply arent a threat to anything but open-topped vehicles.
@@ -193,41 +183,38 @@ The Kikka should be played as a Boom & Zoomer. It has a great roll rate so it ca
 To attempt to gain the upper hand on a Kikka, propeller planes should dive from at least 2,000 m above the Kikka to be able to catch it. If the Kikka goes into a tight turn fight, it will generally bleed its energy, making it an easy target to be defeated by prop planes, which is usually the case when a jet attempt to engage a prop in a turnfight.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Early jet fighter that can frequently see prop aircraft
-- Can carry either a heavy 800 kg or a 500 kg bomb
-- Can use flaps at high speeds (roughly 550 km/h = 341 mph)
-- Good at diving as long as it has enough performance modules
-- 30 mm cannons are hard hitters
-- Good climb rate and vertical performance
-- Great energy retention
-- Good roll rate
-- Exceptional cockpit visibility to the sides/rear
+* Early jet fighter that can frequently see prop aircraft
+* Can carry either a heavy 800 kg or a 500 kg bomb
+* Can use flaps at high speeds (roughly 550 km/h = 341 mph)
+* Good at diving as long as it has enough performance modules
+* 30 mm cannons are hard hitters
+* Good climb rate and vertical performance
+* Great energy retention
+* Good roll rate
+* Exceptional cockpit visibility to the sides/rear
 
 '''Cons:'''
 
-- Limited ammo, only 50 shells per gun
-- Somewhat poor turn rate
-- Only one 30 mm gun when stock
-- Adding payload will hinder handling significantly due to the planes light weight and small size
-- Slow if compared to later jets
-- Prop planes will out turn you
-- Cockpit visibility to the front is noticeably obstructed, with an extremely crude sight in the form of a stick
+* Limited ammo, only 50 shells per gun
+* Somewhat poor turn rate
+* Only one 30 mm gun when stock
+* Adding payload will hinder handling significantly due to the planes light weight and small size
+* Slow if compared to later jets
+* Prop planes will out turn you
+* Cockpit visibility to the front is noticeably obstructed, with an extremely crude sight in the form of a stick
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 [[File:FighterImage_The second test flight of the Nakajima Kikka.jpg|thumbnail|right|The second test flight of the Kikka - 11th August 1945.]]
 The Nakajima Kikka was Japan's first entirely turbojet-powered aircraft, designed as a cheap and fast special attack plane for envisioned decisive battles in the defense of Japan. Whilst a general resemblance can be seen to the German [[Me 262 A-1a|Me 262 Schwalbe]], this is only due to superficial characteristics such as the under-wing engine nacelles and roughly triangular fuselage. In terms of detailed structural design, the two are not directly related.
 
 The Japanese were not able to receive all of the information that was provided through a negotiation on 1944 with the German high command over the licensing for the BMW 003 and Junkers Jumo 004 turbojet engines. Examples and plans were lost with the sinking of submarines that carried the important cargo, however all was not completely lost. A single BMW 003A diagram was saved as it was flown in to Japan separate from the submarine I-29. Upon further inspection of the BMW 003A diagram, the Japanese designers were able to garner enough information in compound with their previous developments to lay out the plans of more feasible turbojets.
 
-This plane is sometimes incorrectly identified in IJN designation as J9N or J9Y, but, like all other Japanese "special attack" (suicide) planes, it was only given the formal name of Kikka ("橘花"). It was formerly called "Kōkoku Nigō Heiki" (興国二号兵器, "Prospering Country Mk.2 Weapon")
+This plane is sometimes incorrectly identified in IJN designation as J9N or J9Y, but, like all other Japanese "special attack" (suicide) planes, it was only given the formal name of Kikka ("橘花"). It was formerly called  "Kōkoku Nigō Heiki" (興国二号兵器, "Prospering Country Mk.2 Weapon")
 
 [[File:FighterImage_Naval Technical Arsenal Ne-20, 1945.jpg|thumbnail|left|The Ne-20 engine that powered the Kikka]]
 
@@ -236,32 +223,29 @@ Work began on newer engine designs. Ultimately the Kūgishō Ne-20 engine was th
 A fighter variant for intercepting B-29s with improved Ne-20 Kai engines and two Type 5 30 mm cannons was under development during 1945, but the war ended before there was a prospect of completing it.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=kitsuka Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=kitsuka Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|rN1o7IIsrM8|'''Realistic: Kikka [Valuable Lessons]''' - ''Jengar''|hgi1k_ljFYw|'''The Shooting Range #14''' - ''Pages of History'' section at 06:16 discusses the Me 262 and the Kikka.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[Me 262 (Family)]]
+* [[Me 262 (Family)]]
 
 == External links ==
-
 <!--''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.''-->
 
-- [https://forum.warthunder.com/index.php?/topic/414733-nakajima-kikka/ Official data sheet - more details about the performance]
-- [https://airpages.ru/eng/jp/j8n.shtml <nowiki>[Aviation of Word War II]</nowiki> J8N Kitsuka]
+* [https://forum.warthunder.com/index.php?/topic/414733-nakajima-kikka/ Official data sheet - more details about the performance]
+* [https://airpages.ru/eng/jp/j8n.shtml <nowiki>[Aviation of Word War II]</nowiki> J8N Kitsuka]
 
 {{AirManufacturer Nakajima}}
 {{Japan jet aircraft}}

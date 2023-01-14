@@ -9,17 +9,13 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The Typhoon Mk Ia is a great fighter for the rank it is at. The first thing that a pilot will notice with the Typhoon Mk Ia is that it is insanely fast for its battle rating, so diving at a five to ten-degree angle, if the Typhoon is being attacked or if its attack failed, is a solid choice if the plane has the altitude. However, if playing in Arcade battles with this plane, the diving tactic may not work since the Arcade battle maps are quite small.
 
 Despite its thick wings, the Typhoon is surprisingly good at turning. It can reliably out-turn Fw 190s and other boom and zoom oriented fighters.
@@ -49,7 +45,7 @@ Despite its thick wings, the Typhoon is surprisingly good at turning. It can rel
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -102,13 +98,12 @@ Despite its thick wings, the Typhoon is surprisingly good at turning. It can rel
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 3 mm Steel - Armoured engine plate
-- 1 mm Steel - Fore cockpit plate
-- 12.7 mm Steel - Armour plate behind pilot's seat
-- 42.8 mm Bulletproof glass - Armoured windscreen
+* 3 mm Steel - Armoured engine plate
+* 1 mm Steel - Fore cockpit plate
+* 12.7 mm Steel - Armour plate behind pilot's seat
+* 42.8 mm Bulletproof glass - Armoured windscreen
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -119,14 +114,12 @@ Of the rank I upgrades, only ''Offensive 7 mm'' is of noticeable effect to allow
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Browning (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 12 x 7.7 mm Browning machine guns, wing-mounted (500 rpg outer x2 + 460 rpg center x2 + 500 rpg inner x2 = 5,840 total)
+* 12 x 7.7 mm Browning machine guns, wing-mounted (500 rpg outer x2 + 460 rpg center x2 + 500 rpg inner x2 = 5,840 total)
 
 The {{PAGENAME}} 's signature 12 x 0.303 calibre machine guns means quite a lot of gun for a plane, though the drawback to the gun amount is that they are all rifle-calibre and such the Typhoon's firepower is drawn from the mass amount of bullets that can be laid out. The large amounts of bullet fired works as with the right belt, the Typhoon has a large chance to set fires with the high amount of incendiary in the machine gun belts; for this reason, it is plausible to switch to tracer, as 100% of the tracer belt contains incendiary. Be warned: the tracer rounds are much less powerful than the regular ones, so keep that in mind.
 
@@ -136,19 +129,16 @@ Another plausible idea when flying the {{PAGENAME}} is to uninstall the New 7.7 
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 250 lb G.P. Mk.IV bombs (500 lb total)
-- 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
+* Without load
+* 2 x 250 lb G.P. Mk.IV bombs (500 lb total)
+* 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 '''Air Arcade Battles:'''
@@ -175,7 +165,7 @@ Against a skilled pilot, the A6M2 and A6M3 are non-issues; they simply do not ha
 
 '''Ground Realistic Battles:'''
 
-\*'''Tank realistic battle: "In fast, target blast, out fast."''' One of the unique capacities the Typhoon occupies is having the ability to carry two 500 lb bombs which provides ground strike capabilities.
+*'''Tank realistic battle: "In fast, target blast, out fast."''' One of the unique capacities the Typhoon occupies is having the ability to carry two 500 lb bombs which provides ground strike capabilities.
 
 It is important to learn how to use MEC (manual engine controls) as they are crucial for getting the most potential out of this aircraft, given the lack of auto propeller pitch control.
 
@@ -203,27 +193,25 @@ The biggest advantage to this method is the Typhoon can effectively enter the ai
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great speed, especially in a dive
-- Equipped with 12 x machine guns
-- At close distance (< 500 m), armament can be surprisingly effective
-- Powerful engine
-- Can carry bombs
-- Decent climb rate, similar to the [[Bf 109 E-3]]
-- A great fighter in AB and RB, and a good ground-pounder in mixed battles
+* Great speed, especially in a dive
+* Equipped with 12 x machine guns
+* At close distance (< 500 m), armament can be surprisingly effective
+* Powerful engine
+* Can carry bombs
+* Decent climb rate, similar to the [[Bf 109 E-3]]
+* A great fighter in AB and RB, and a good ground-pounder in mixed battles
 
 '''Cons:'''
 
-- Slow roll rate
-- 7 mm machine guns will not do much against anything with armour, and have difficulty destroying targets beyond 500 m in RB
-- Mediocre turn radius in RB
+* Slow roll rate
+* 7 mm machine guns will not do much against anything with armour, and have difficulty destroying targets beyond 500 m in RB
+* Mediocre turn radius in RB
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -249,28 +237,23 @@ The early service life of the Typhoon was less than impressive. With a relativel
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=typhoon_mk1a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=typhoon_mk1a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
-- [[Typhoon (Family)]]
+* [[Typhoon (Family)]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer Hawker}}
 {{Britain fighters}}

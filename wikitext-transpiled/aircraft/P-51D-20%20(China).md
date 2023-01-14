@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
 
 This P-51D-20 operated by the Republic of China Air Force is largely the same as the premium [[P-51D-20-NA]] available in the USA tech tree, the only difference being a slightly reduced ammunition count for the inner wing machine guns. Compared to the previous [[P-47D-30 (China)|P-47D-30]], the Mustang is a smaller and sleeker aircraft with lighter armament. It is still best used in a high-speed boom-and-zoom role. Experience gained with the P-51D-20 can be applied to the later [[P-51K (China)|P-51K]], which has significantly improved engine power and climb rate.
@@ -19,7 +17,6 @@ This P-51D-20 operated by the Republic of China Air Force is largely the same as
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -40,7 +37,7 @@ This P-51D-20 operated by the Republic of China Air Force is largely the same as
 |-
 |}
 
-The P-51D-20 is the first Mustang available in the Chinese tech tree. As expected, it has a sleek airframe and laminar-flow wings that give it good diving and high-speed characteristics. It picks up speed readily in shallow dives and maintains roll and elevator control at high IAS. In Realistic battles, the rudder may perform poorly at high speeds due to the behavior of the instructor, which is an issue with all -D series Mustangs. Low speed performance is substandard and both the turn and roll rates are below average at low to medium IAS.
+The P-51D-20 is the first Mustang available in the Chinese tech tree. As expected, it has a sleek airframe and laminar-flow wings that give it good diving and high-speed characteristics. It picks up speed readily in shallow dives and maintains roll and elevator control at high IAS. In Realistic battles, the rudder may perform poorly at high speeds due to the behavior of the instructor, which is an issue with all -D series Mustangs. Low speed performance is substandard and both the turn and roll rates are below average at low to medium IAS. 
 
 The P-51D-20's engine is not quite strong enough to compensate for the weight of the plane. A 31 minute minimum fuel load contributes to this issue. The climb rate is decent once spaded but not impressive. Vertical energy retention and horizontal acceleration are not great, so hard vertical manoeuvres should be done with caution and chasing after enemies a similar altitudes without the aid of residual dive speed can be difficult.
 
@@ -53,7 +50,7 @@ Like the P-47D-30, the engine performs well at medium to high altitudes. The lac
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -106,14 +103,13 @@ Like the P-47D-30, the engine performs well at medium to high altitudes. The lac
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 8 mm steel - in front of engine
-- 6.35 mm steel - behind engine
-- 38 mm bulletproof glass - windscreen
-- 8 mm steel - behind pilot
-- 11 mm steel - pilot headrest
+* 8 mm steel - in front of engine
+* 6.35 mm steel - behind engine
+* 38 mm bulletproof glass - windscreen
+* 8 mm steel - behind pilot
+* 11 mm steel - pilot headrest
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -122,14 +118,12 @@ Like the P-47D-30, the engine performs well at medium to high altitudes. The lac
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 6 x 12.7 mm M2 Browning machine guns, wing-mounted (270 rpg outer + 270 rpg mid + 400 rpg inner = 1,880 total)
+* 6 x 12.7 mm M2 Browning machine guns, wing-mounted (270 rpg outer + 270 rpg mid + 400 rpg inner = 1,880 total)
 
 The P-51D is armed with 6 x .50 cal M2 Browning machine guns with a total of 1,880 rounds of ammunition. For air battles the recommended ammunition belts are tracers or stealth. Tracers are recommended if the pilot wants to achieve the maximum damage output since the API-T rounds have a high chance of starting a fire, while stealth belts are recommended for skilled pilots who prefer the element of surprise over raw damage output; the stealth belts do retain incendiary rounds for starting fires but are much harder to aim due to not having any tracer rounds. For ground battles the previously recommended belts are still appropriate, but at the pilot's discretion ground target belts can be taken since they have a slightly higher penetration; these would be used if the pilot intends to ground pound and strafe ground targets. Ground targets belts can be effective in air battles as well if the pilot chooses to bring them, since armour-piercing shells can be effective against enemy aircraft.
 
@@ -137,17 +131,15 @@ Overall, the .50 cal machine guns are effective at taking out air targets, but d
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AN-M65A1 (1,000 lb)|HVAR|M8}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
-- 6 x HVAR rockets
-- 6 x M8 rockets
+* Without load
+* 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
+* 6 x HVAR rockets
+* 6 x M8 rockets
 
 The P-51D has access to one air-to-air loadout (of no suspended armament, for increased performance) and three loadouts for ground attack missions, composed of either unguided rockets or bombs. Rockets or bombs can be carried at the pilot's discretion. Rockets are better for precision attacks if the pilot has a good aim, while bombs allow less precision but with less opportunity for destuction.
 
@@ -155,10 +147,9 @@ The 6 x M8 rockets are largely ineffective. A direct hit is practically required
 
 The 6 x HVAR rockets are the recommended rocket loadout, as they are improved over the M8s in almost every regard. The higher velocity of 420 m/s can make the HVARs easier to aim at mid-to-long ranges. Not only that, but the higher penetration of 36 mm is able to punch through much thicker armour to do more reliable damage. The explosive mass of 3.4 kg of TNT is also much more devastating to both light targets and armoured targets, allowing damage to unarmoured targets even without a direct hit, and doing much more damage to enemy vehicles when directly hit as well. For a pilot who prefers rockets to bombs, HVARs will not disappoint and can result in several vehicle knockouts when aimed well.
 
-The 2 x 1,000 lb bomb loadout is very effective against armoured ground targets. The high explosive mass of 240.4 kg TNT equivalent allows up to 113 mm of armour penetration and a destruction radius of 12 m. This means that even if the bombs aren't dropped exactly on or near the target there is still a large chance of doing critical damage or knocking out the vehicle entirely. Against lightly armoured targets these bombs can hull break them even if not dropped right on them. The downside to the bomb loadout is that both bombs drop together, so only one bomb drop per flight is achievable; only one destruction can be scored unless multiple targets are grouped closely together.
+The 2 x 1,000 lb bomb loadout is very effective against armoured ground targets. The high explosive mass of 240.4 kg TNT equivalent allows up to 113 mm of armour penetration and a destruction radius of 12 m. This means that even if the bombs aren't dropped exactly on or near the target there is still a large chance of doing critical damage or knocking out the vehicle entirely. Against lightly armoured targets these bombs can hull break them even if not dropped right on them. The downside to the bomb loadout is that both bombs drop together, so only one bomb drop per flight is achievable; only one destruction can be scored unless multiple targets are grouped closely together. 
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 '''Offence'''
@@ -191,34 +182,32 @@ When an enemy is going head-on, he should be avoided. As already said, .50 cal c
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Outstanding Boom & Zoom capability
-- Great performance at altitude
-- Excellent .50 calibre machine guns with good damage and plenty of ammo
-- Very fast at all altitudes
-- Very agile at high speeds
-- Good turn radius at high speeds
-- Good all-round cockpit visibility in Simulator
-- Has a gyro gunsight, guiding the player's aim in Simulator which is nice for boosting burst accuracy
-- Decent over-the-nose visibility
-- Quite decent climb rate
-- Useful close-support capability (ground attack) thanks to its bombs/rockets
+* Outstanding Boom & Zoom capability
+* Great performance at altitude
+* Excellent .50 calibre machine guns with good damage and plenty of ammo
+* Very fast at all altitudes
+* Very agile at high speeds
+* Good turn radius at high speeds
+* Good all-round cockpit visibility in Simulator
+* Has a gyro gunsight, guiding the player's aim in Simulator which is nice for boosting burst accuracy
+* Decent over-the-nose visibility
+* Quite decent climb rate
+* Useful close-support capability (ground attack) thanks to its bombs/rockets
 
 '''Cons:'''
 
-- Can't sustain much damage
-- Catches fire easily
-- Sluggish at low speeds
-- High stall speed (166 km/h)
-- Minimum fuel load is rather big
-- Front canopy frames are somewhat obstructive in Simulator
+* Can't sustain much damage
+* Catches fire easily
+* Sluggish at low speeds
+* High stall speed (166 km/h)
+* Minimum fuel load is rather big
+* Front canopy frames are somewhat obstructive in Simulator
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 '''ROCAF Service'''
@@ -250,26 +239,23 @@ The squadron was renamed to Air Force 1st Independent Fighter Brigade (空军独
 Two PLAAF Mustangs survive to this date. One P-51K-10-NT, called "Red 3032", with serial number 44-12458 remains at the Chinese Aviation Museum (中国航空博物馆) in Datangshan, Beijing. The other is a P-51D-25-NA, called "Red 3", with serial number 44-73920 is located at the China People's Revolution Military Museum (中国人民革命军事博物馆) in the Haidian District of Beijing. It was one of the nine Mustangs that performed the flyover of the Tiananmen Square military parade.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=p-51d-20_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=p-51d-20_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/405630-p-51d/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/405630-p-51d/ Official data sheet - more details about the performance]
 
 {{AirManufacturer NAA}}
 {{China fighters}}

@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} French tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]]. As a rank III turreted tank destroyer, it performs very well in its role. With a very good gun and appreciable armour, this tank is deemed to be a long-range sniper on the battlefield. Its only downside lies with its mobility: it is slower than most tanks at this BR.
 
 The ARL-44 bears very distinctive characteristics, with a WWI-style track system (similar to the Churchill) which runs across the whole side of its chassis. This tank is a mix of different inspirations, mainly late war German tank technology such as the [[Panther D|Panther series]] or the [[Tiger II (H)|Tiger II]], from which it takes its sloped frontal armour and tall profile. As France was reviving from WW2, its engineers were hard at work to catch up with tank technology, the ARL-44 series was a training ground for them. This is why this tank has rather weird design choices, coming from both experience and experimentation. This final iteration of the series is comparable to the famous King Tiger in aesthetics and the Panther performance-wise, while not as good.
@@ -19,13 +17,12 @@ The ARL-44 bears very distinctive characteristics, with a WWI-style track system
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Cast homogeneous armour (Turret, cupola)
-- Rolled homogeneous armour (Hull)
+* Cast homogeneous armour (Turret, cupola)
+* Rolled homogeneous armour (Hull)
 
 {| class="wikitable"
 |-
@@ -39,19 +36,18 @@ The ARL-44 bears very distinctive characteristics, with a WWI-style track system
 |}
 '''Notes:'''
 
-- Suspension wheels are 15 mm thick while tracks are 20 mm thick and bogies are 10 mm thick.
-- An additional 25 mm RHA plate separates the engine from the crew compartment.
+* Suspension wheels are 15 mm thick while tracks are 20 mm thick and bogies are 10 mm thick.
+* An additional 25 mm RHA plate separates the engine from the crew compartment.
 
 In spite of its armour the {{PAGENAME}} still has weak spots easy to target. Avoid showing your sides and/or your back to enemy tanks and you should be mostly fine. Because of the large weak spots like the turret cheeks or the hull between the tracks, it is better to stay as far as possible from the frontline, using the very powerful gun to knock down enemies.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=852|rbMinHp=531}}
 
-While the {{PAGENAME}} suffers from poor traction and a low top speed for a tank destroyer, the powerful engine and good transmission allows the {{PAGENAME}} to accelerate quickly and turn effectively despite its immense size. The vehicle has decent mobility even in close quarters, however at these ranges your armour is ineffective and your gun impractical, so it is ill-advised to fight at close range, even if you have the mobility to support it.
+While the {{PAGENAME}} suffers from poor traction and a low top speed for a tank destroyer, the powerful engine and good transmission allows the  {{PAGENAME}} to accelerate quickly and turn effectively despite its immense size. The vehicle has decent mobility even in close quarters, however at these ranges your armour is ineffective and your gun impractical, so it is ill-advised to fight at close range, even if you have the mobility to support it.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -60,9 +56,7 @@ While the {{PAGENAME}} suffers from poor traction and a low top speed for a tank
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|SA45 (90 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -120,9 +114,7 @@ The gun is clearly the biggest quality of the {{PAGENAME}} as it can take down a
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.9.0.17''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -136,15 +128,13 @@ The gun is clearly the biggest quality of the {{PAGENAME}} as it can take down a
 |}
 '''Notes''':
 
-- Shells are modeled individually and disappear after having been shot or loaded.
-- The visual discrepancy concerns the crossed out shells: they are modeled but missing when in-game.
-- Turret empty: 25&nbsp;''(+12)'' shells.
+* Shells are modeled individually and disappear after having been shot or loaded.
+* The visual discrepancy concerns the crossed out shells: they are modeled but missing when in-game.
+* Turret empty: 25&nbsp;''(+12)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|MAC 31 (7.5 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -160,73 +150,69 @@ The gun is clearly the biggest quality of the {{PAGENAME}} as it can take down a
 The small calibre of the MAC 31 machine gun makes it largely ineffective against all armoured vehicles but the ones with an open compartment. It still can be used to ping targets as a rangefinding help or to mow down minor obstacles blocking your line of sight.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 ;Combat tactics
 
 The {{PAGENAME}} is a not a well enough armoured vehicle to play as a frontline or support tank and should be played as a sniper: take advantage of your very good gun to disable enemies with well placed shots while staying at a distance guaranteeing your survivability. Your frontal glacis is strong enough to resist most enemy guns beyond 800 m but there are obvious weak spots your opponents will prioritize: the turret cheeks, the MG port, the turret cupola and the lower glacis to a lesser extent. Staying far (between 800 m and 1,000 m) will make it difficult for enemy players to target your weak spots with accuracy and will give you time to react on incoming shots.
 
-Your gun has a very good penetration power allowing you to stay at a distance but the lack of explosive filler is detrimental to your performance as you'll need two to three shells to take down enemies. Your reload time is a bit longer than most opponents, so aim precisely and make every shot count. Make sure to target modules and crew positions to maximise the damage. Disabling the enemy gunner on your first shot will also be critical to win engagements as the enemy vehicle could return fire before your second shot. Use the "sight distance control" feature to increase your chances of successfully hitting enemy tanks from long distance.
+Your gun has a very good penetration power allowing you to stay at a distance but the lack of explosive filler is detrimental to your performance as you'll need two to three shells to take down enemies. Your reload time is a bit longer than most opponents, so aim precisely and make every shot count. Make sure to target modules and crew positions to maximise the damage.  Disabling the enemy gunner on your first shot will also be critical to win engagements as the enemy vehicle could return fire before your second shot. Use the "sight distance control" feature to increase your chances of successfully hitting enemy tanks from long distance.
 
 Refrain from fighting in close quarters: your sides are weak and your turret traverse speed is too slow to react to an unexpected encounter. Staying at a distance from the frontline will also prevent from being taken in a pincer move. Your mobility is rather poor, with a rigid suspension, outdated tracks, a long and cumbersome chassis and a poor traction. Terrain irregularities will make you slow down and hinder your progress. Position your hull carefully when getting to a shooting spot to avoid hull twitching that will impact your targeting process.
 
 ;Notable enemies
 
-- Tank destroyers with powerful guns that can penetrate you from afar: Sturer Emil, Panzer IV/70(V), Nashorn, Waffenträger, VFW, ISU-122, ISU-122S, Charioteer Mk VII or ISU-122 (China). The IS-2 and the IS-2 (China) can be added to the list as they sport as gun identical in performance to the ISU-122
-- Tanks firing HEAT/HEATFS shells that can defeat your frontal glacis: PT-76B, PT-76 (China) or Ikv 103.
-- Tanks firing APDS shots that can defeat your frontal glacis: Challenger, Comet I, Iron Duke IV, Centurion Mk 1, Sherman Vc (Italy), Pvkv m/43 (1963) or Strv 74.
-- Tanks whose cannon is powerful enough to penetrate your frontal glacis once closer to your vehicle (500 m distance): M36 GMC, Tiger H1, Tiger E, Panther D, Panther A, T-34-85, SU-85M, IS-1, KV-85, Chi-Ri II, M4A3 (76) W HVSS, T-34-85 (S-53) (China), T-34-85 Gai or M36 (China).
+* Tank destroyers with powerful guns that can penetrate you from afar: Sturer Emil, Panzer IV/70(V), Nashorn, Waffenträger, VFW, ISU-122, ISU-122S, Charioteer Mk VII or ISU-122 (China). The IS-2 and the IS-2 (China) can be added to the list as they sport as gun identical in performance to the ISU-122
+* Tanks firing HEAT/HEATFS shells that can defeat your frontal glacis: PT-76B, PT-76 (China) or Ikv 103.
+* Tanks firing APDS shots that can defeat your frontal glacis: Challenger, Comet I, Iron Duke IV, Centurion Mk 1, Sherman Vc (Italy), Pvkv m/43 (1963) or Strv 74.
+* Tanks whose cannon is powerful enough to penetrate your frontal glacis once closer to your vehicle (500 m distance): M36 GMC, Tiger H1, Tiger E, Panther D, Panther A, T-34-85, SU-85M, IS-1, KV-85, Chi-Ri II, M4A3 (76) W HVSS, T-34-85 (S-53) (China), T-34-85 Gai or M36 (China).
 
 ;How to defeat a {{PAGENAME}}
 
 [[File:ARL-44 weakspot.png|thumb|As seen in this picture, this weak spot only has less than 100 mm effective thickness, meaning that even 3.7 tanks can easily penetrate there, let alone 5.7 tanks with better penetration and more explosives]]
 
-- Behind the track and the front sprocket wheel, there is a thin, vertical armour plate of only 50 mm thick. Behind that is the 3rd ammo rack. Thus if an ARL-44 is facing you frontally, shoot at either of the two front sprocket wheels. An average gun with at least 110 mm penetration (at 0°) on a shell with explosive filler (e.g. an [[M10 (Family)|M10]] tank destroyer) will certainly punch through the track, wheel, the armour, then ultimately explode inside the hull. The spot is quite small from a distance.
-- Do not attack the {{PAGENAME}} frontally unless you have enough armour to afford it.
-- Sneak around it and target the turret from the back or the side. The {{PAGENAME}} has a slow turret traverse and flat side and rear armour, making it especially vulnerable to flanking.
-- If you have no other option than to attack it frontally, blind it with smoke before closing the gap. Target the turret cheeks or the cupola as they are weak spots.
+* Behind the track and the front sprocket wheel, there is a thin, vertical armour plate of only 50 mm thick. Behind that is the 3rd ammo rack. Thus if an ARL-44 is facing you frontally, shoot at either of the two front sprocket wheels. An average gun with at least 110 mm penetration (at 0°) on a shell with explosive filler (e.g. an [[M10 (Family)|M10]] tank destroyer) will certainly punch through the track, wheel, the armour, then ultimately explode inside the hull. The spot is quite small from a distance.
+* Do not attack the {{PAGENAME}} frontally unless you have enough armour to afford it.
+* Sneak around it and target the turret from the back or the side. The {{PAGENAME}} has a slow turret traverse and flat side and rear armour, making it especially vulnerable to flanking.
+* If you have no other option than to attack it frontally, blind it with smoke before closing the gap. Target the turret cheeks or the cupola as they are weak spots.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Mobility is good as long as you don't push it
-  ** Good acceleration at low speed
-  ** Good hull turning rate
-- Frontal armour is thick with 120 mm of sloped armour on the glacis.
-- Complex side armour negates occasional HEAT shells.
-- Potent gun
-  ** Very high penetration power
-  ** Good spalling
-  \*\* High muzzle velocity round: easy to aim at distances
-- Can be played a little like a heavy tank when facing weaker enemies.
+* Mobility is good as long as you don't push it
+** Good acceleration at low speed
+** Good hull turning rate
+* Frontal armour is thick with 120 mm of sloped armour on the glacis.
+* Complex side armour negates occasional HEAT shells.
+* Potent gun
+** Very high penetration power
+** Good spalling
+** High muzzle velocity round: easy to aim at distances
+* Can be played a little like a heavy tank when facing weaker enemies.
 
 '''Cons:'''
 
-- Large silhouette
-  \*\* Angling often doesn't help
-- Overall weak turret armour
-  ** Turret armour is underwhelming at 100-110 mm of flat armour. Most 75 mm guns can penetrate at range.
-  ** Weak gun mantlet is only 60 mm flat armour
-  \*\* Turret back is only 20 mm thick, vulnerable to HMG fire.
-- Hull armour has many weak spots
-  ** Extremely thin roof armour (10 mm on the turret and 5 mm on the engine deck). Strafing planes are deadly.
-  ** Side vulnerable to solid shots.
-  ** Weak lower plate is only 50 mm, a major shot trap.
-  ** A hit to a track from the front has a high chance of both knocking out the track and some crew members. High calibre guns may be able to one shot.
-- Moving can be unpleasant with the outdated suspension
-  ** Tracks have poor ground traction
-  ** Hill climbing is hard
-  \*\* Struggles reaching top speed
-- Wall of ammo behind the upper glacis plate, penetrating it can result in an ammo rack
+* Large silhouette
+** Angling often doesn't help
+* Overall weak turret armour
+** Turret armour is underwhelming at 100-110 mm of flat armour. Most 75 mm guns can penetrate at range.
+** Weak gun mantlet is only 60 mm flat armour
+** Turret back is only 20 mm thick, vulnerable to HMG fire.
+* Hull armour has many weak spots
+** Extremely thin roof armour (10 mm on the turret and 5 mm on the engine deck). Strafing planes are deadly.
+** Side vulnerable to solid shots.
+** Weak lower plate is only 50 mm, a major shot trap.
+** A hit to a track from the front has a high chance of both knocking out the track and some crew members. High calibre guns may be able to one shot.
+* Moving can be unpleasant with the outdated suspension
+** Tracks have poor ground traction
+** Hill climbing is hard
+** Struggles reaching top speed
+* Wall of ammo behind the upper glacis plate, penetrating it can result in an ammo rack
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 Development of the ARL-44 began shortly after the Liberation of France in 1944. The established provisional government was keen on restoring France's influence and power to what it used to be before the war. This involved, among other things, the revival of all French military branches. The situation was looking particularly desperate for the army, as most indigenous equipment and tanks were manufactured in the 1930s and the most advanced in use at the time was equipment left behind by the Germans. The French Ministry of War decided to remedy this issue by starting the production of a so called "transitional tank". This project was intended to bolster the number of indigenous tanks in use with the army, reuse existing tank parts and, most importantly, provide French engineers with a base on which they could "experiment" on to gain valuable experience for future tank development. Thus, in November 1944, the decision was made to design a heavy tank with relatively modest specifications. Staff from several design and manufacturing state companies were assigned to the project and work on what would become the ARL-44 began.
 
 Initially, the new tank was required, apart from using existing tank parts, to have a weight of 30 tonnes, a top armour thickness of 60 mm and a primary gun of the 75 mm calibre. As the engineers were limited to using existing parts for their new machine, it very quickly became apparent that the amount of innovation that was possible for the new machine was equally limited. Thus, the ARL-44 soon took on the resemblance of a Char B1, with the exception of the turret and gun. The end of the war in 1945 didn't stop development however, quite the opposite in fact. The design went through several changes, from increasing the armour thickness to the installation of a new engine and the new 90 mm French cannon, despite the fact that there was no longer a need for such a vehicle. At that point, the further development and subsequent limited production run of the ARL-44 was only used for "propaganda" purposes, with the aim of increasing the morale of the French people in the post-war period. In the end, only 60 ARL-44s were constructed and no sooner than they were introduced into service, they were also decommissioned due to, unsurprisingly, unsatisfactory performance, at the beginning of the 1950s. Despite this, the project did fulfill one of its major goals - generate experience for a new generation of French tank designers. Thanks to experiences gained from projects like the ARL-44, France would build its first true modern MBT only a decade later, serving as proof that the ARL-44 was not in vain after all.
@@ -234,34 +220,30 @@ Initially, the new tank was required, apart from using existing tank parts, to h
 ''- From [[wt:en/news/5205-development-arl-44-a-battleship-in-disguise-en|Devblog]]''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=fr_arl_44 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=fr_arl_44 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|CFmL0qG0bB4|'''The Shooting Range #231''' - ''Pages of History'' section at 03:35 discusses the {{PAGENAME}}.|kKzzN3pzLSI|'''The Shooting Range #86''' - ''War Machines'' section at 00:25 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
 
-- [[Panther A]]
+* [[Panther A]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/5205-development-arl-44-a-battleship-in-disguise-en|[Devblog] ARL-44 - A Battleship in Disguise]]
-- [[wikipedia:ARL_44|[Wikipedia] ARL 44]]
-- [https://tanks-encyclopedia.com/coldwar/France/ARL-44.php <nowiki>[Tanks Encyclopedia]</nowiki> ARL-44]
+* [[wt:en/news/5205-development-arl-44-a-battleship-in-disguise-en|[Devblog] ARL-44 - A Battleship in Disguise]]
+* [[wikipedia:ARL_44|[Wikipedia] ARL 44]]
+* [https://tanks-encyclopedia.com/coldwar/France/ARL-44.php <nowiki>[Tanks Encyclopedia]</nowiki> ARL-44]
 
 {{France tank destroyers}}

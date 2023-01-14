@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced in [[Update 1.55 "Royal Armour"]] along with the initial British Ground Forces tree. It is armed with the 17-pounder, with no secondary armament. It was based on a lengthened Cromwell hull from the [[Challenger|A30 Challenger]] from World War II.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 The Avenger is one of the most unexpected survivors on battlefields of War Thunder, both arcade and realistic mode.
@@ -32,7 +29,7 @@ Because of that, the windows instead give enemy APHE shells a high chance to bou
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
+* Rolled homogeneous armour
 
 {| class="wikitable"
 |-
@@ -44,12 +41,11 @@ Because of that, the windows instead give enemy APHE shells a high chance to bou
 |}
 '''Notes:'''
 
-- Suspension wheels and tracks are 20 mm thick.
-- Rack on top of the hull rear seems to be stacking 38.1 mm armour. No concrete evidence of their effectiveness as of yet.
+* Suspension wheels and tracks are 20 mm thick.
+* Rack on top of the hull rear seems to be stacking 38.1 mm armour. No concrete evidence of their effectiveness as of yet.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=930|rbMinHp=531}}
@@ -61,9 +57,7 @@ Because of that, the windows instead give enemy APHE shells a high chance to bou
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|QF 17-pounder (76 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -141,9 +135,7 @@ Because of that, the windows instead give enemy APHE shells a high chance to bou
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -162,7 +154,7 @@ Because of that, the windows instead give enemy APHE shells a high chance to bou
 |}
 '''Note''':
 
-- Turret empty: 49&nbsp;''(+6)'' shells.
+* Turret empty: 49&nbsp;''(+6)'' shells.
 
 ==== Optics ====
 {| class="wikitable" style="text-align:center" width="50%"
@@ -185,9 +177,7 @@ The Avenger is the first tank in the British tank destroyer line to have a X6 sc
 Compared to other tanks in rank III, this scope is slightly or moderately superior to most medium and heavy tanks, but do not expect to outsnipe German SPGs as they have same optics or even better.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Avenger plays like an upgunned and a bit more sluggish Cromwell. There are two main play styles possible with this vehicle.
 
 '''Close range flanker''': The Avenger's mobility allows it to sneak up to the enemy's flank without too much problems. With its awesome gun depression, it can pop over a hill and shoot before engaging a "turn fight" (running around the enemy's tank too fast so he can't aim at you). Such manoeuvre has a greater chance of success on isolated enemies since you need to get at least 2 shots to destroy any tank you might encounter. This kind of strategy is great early in the game, to counter-capture a point by , for example, an enemy Hellcat that rushed it. A small note there: make sure to pre-aim in the general direction of your enemy since the turret turning rate is not so great.
@@ -197,32 +187,29 @@ The Avenger plays like an upgunned and a bit more sluggish Cromwell. There are t
 What's great with this vehicle is it can change role pretty fast in the game. A great way to use this vehicle at its plains potential is on a map like Mozdok or El Alamein. A good example of tactics is being flanker early game, then sniper to clear the next capture point and then flanker again to go get it (provided you do not get shut down).
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Cromwell-esque controls with good acceleration and speed
-- Neutral steering allows for quick alignment of the hull
-- 17-pounder "Quickfire" cannon has high penetration and good accuracy
-- Good gun depression of -10° allows it to fight comfortably among hills
-- Very fast rate-of-fire
-- Great gunsight zoom allows for long-range sniping
-- Not as vulnerable to overpressure as Achilles or Concept 3
+* Cromwell-esque controls with good acceleration and speed
+* Neutral steering allows for quick alignment of the hull
+* 17-pounder "Quickfire" cannon has high penetration and good accuracy
+* Good gun depression of -10° allows it to fight comfortably among hills
+* Very fast rate-of-fire
+* Great gunsight zoom allows for long-range sniping
+* Not as vulnerable to overpressure as Achilles or Concept 3
 
 '''Cons:'''
 
-- No machine gun
-- AP shells don't have explosive filler, hard to one-shot larger tanks like [[Panzer V Panther (Family)|Panthers]]
-- Overall poor survivability due to thin & unsloped armour
-- Turning can be sluggish at times
-- Terrible reverse speed
-- Gun traverse speed is subpar
+* No machine gun
+* AP shells don't have explosive filler, hard to one-shot larger tanks like [[Panzer V Panther (Family)|Panthers]]
+* Overall poor survivability due to thin & unsloped armour
+* Turning can be sluggish at times
+* Terrible reverse speed
+* Gun traverse speed is subpar
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Basis===
 The [[Challenger|A30 Challenger]] tank was an improved variant of the [[Cromwell V|Cromwell]] tank made to improve the firepower of the armoured brigades in the British Army. While equipped with the 17-pounder, the Challenger ran into issues with production and mechanical issues, along with design deficiencies that was much criticized by the crew that manned the tank. The Challenger had thin armour, had a tendency for track throwing, and had a high profile. However, it was praised for its speed, agility, and firepower with the 17-pounder gun. The Challenger was ordered in February 1943 for 200 vehicles, but the development of the [[Sherman Firefly|Firefly]] from the [[M4|Sherman]] tank proved much easier and cheaper than the Challenger and was thus cancelled.
 
@@ -230,12 +217,10 @@ The [[Challenger|A30 Challenger]] tank was an improved variant of the [[Cromwell
 An attempt to improve on the Challenger was the [[Avenger|A30 SP Avenger]], which used a different open-topped turret to save weight on the tank design. However, due to priorities on the [[Comet I|Comet]] tank in the Vauxhall Motors plant, they were not being built until 1945 and weren't used until after the war in Europe is over. 250 units were built and formed part of the British Army of the Rhine stationed in Germany after the war. They did not see any combat action during their service life.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a30_sp_avenger Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a30_sp_avenger Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover" heights="150">
@@ -248,15 +233,14 @@ Image:Avengers heading for battle.jpg|<small>Avenger heading to the frontline in
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[Wikipedia:Cruiser_Mk_VIII_Challenger#Variants|[Wikipedia<nowiki>]</nowiki> Cruiser Mk VIII Challenger - Variants]]
+* [[Wikipedia:Cruiser_Mk_VIII_Challenger#Variants|[Wikipedia<nowiki>]</nowiki> Cruiser Mk VIII Challenger - Variants]]
 
 {{Britain medium tanks}}

@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet fighter {{Battle-rating}}. It was introduced in [[Update 1.37]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -45,7 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet fighter {{Battle-rating
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -76,13 +73,12 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet fighter {{Battle-rating
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 8.5 mm steel behind pilot
-- 55 mm bulletproof glass in front of pilot's head
-- 66 mm bulletproof glass behind pilot's head
-- Self-sealing fuel tanks, with neutral gas pressurization system (1 under pilot's feet, 2 in each wing)
+* 8.5 mm steel behind pilot
+* 55 mm bulletproof glass in front of pilot's head
+* 66 mm bulletproof glass behind pilot's head
+* Self-sealing fuel tanks, with neutral gas pressurization system (1 under pilot's feet, 2 in each wing)
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -92,17 +88,11 @@ The two most important modules that should be unlocked as soon as possible are t
 The recommended order of research is as follows:
 
 # Offensive 23 mm belts
-
 # Radiator
-
 # Compressor
-
 # Engine
-
 # Wings repair
-
 # Engine Injection
-
 # Everything else, based on personal preferences
 
 One other camouflage besides the default one is currently available – Unicolor Grey Camouflage, which requires 350 enemies destroyed while in the La-9 to be unlocked.
@@ -111,14 +101,12 @@ One other camouflage besides the default one is currently available – Unicolor
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|NS-23 (23 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 23 mm NS-23 cannons, nose-mounted (75 rpg = 300 total)
+* 4 x 23 mm NS-23 cannons, nose-mounted (75 rpg = 300 total)
 
 The La-9's main armament consists of four synchronized 23 mm Nudelman-Suranov NS-23 cannons located in the upper part of the nose with a total burst mass of 7,90 kg per second (with default belts). The total ammo capacity is only 300 rounds (75 rounds per gun), so make sure the hits count if flying in realistic or simulator battles. The muzzle velocity of the shells lies at 690 ±10 m/s.
 
@@ -129,9 +117,7 @@ The NS-23 gun possesses a high rate of fire of 10 rounds per second. With four g
 The ballistics of the cannons can be considered bad and usually require a lot of time getting used to before becoming proficient with them. The drop and spread of the shells are particularly noticeable when firing at large distances.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 '''Arcade Battles''': As all planes, the La-9 has a boosted Flight Model (FM) in the Arcade mode, which allows for better overall performance, from speed and climb rate to manoeuvrability. It performs best at an altitude of 3,400 m and below. The main reason for this is the absence of War Emergency Power (WEP) at altitudes above 4,000 m. To be able to use WEP at altitudes between 3,400 m – 4,000 m it is necessary to maintain a good speed.
 
 In terms of top speed, a fully upgraded La-9 is among the fastest planes at sea level in the game, allowing it to easily outrun most opponents. The acceleration is good even without WEP, but with it, becomes amazing, however, keep in mind not to overuse it and thus overheating the engine. Although it can be cooled off easily by lowering the throttle, thanks to the ASH-82FN being an air-cooled engine, once overheated both the top speed as well as acceleration take a noticeable loss in performance.
@@ -166,9 +152,7 @@ A separate characteristic of the fighter which only really comes into play in RB
 This last feature is currently only really useful for SB players. The La-9 is currently one of the planes for which the canopy of the cockpit can be opened to improve the visibility at the expense of some top speed.
 
 ====Specific enemies worth noting====
-
 <!--Some concerning vehicles to worry about if playing this plane. (i.e. Japanese fighters will out turn you)-->
-
 When fighting [[:Category:Germany aircraft|German aircraft]], the toughest opposition will be late [[Bf 109 K-4|Bf 109's]] and aircraft of the [[Fw 190 D-12|Fw 190 D series]] (together with their cousin, the [[Ta 152 H-1]]).
 
 The former are deadly opponents above 4,000 m that are well capable of outmanoeuvring the La-9 due to the Soviet fighter's absence of WEP at high altitudes, having also an advantage in regards to climb rate. This leaves the La-9 pilot with two options, either acting as bait - making the Bf 109 loose energy and become vulnerable - or diving down. At lower altitudes, the La-9 regains a fighting chance, but it is usually a tense battle where the deciding factor will be the pilot's individual skill. Don't forget to use combat flaps.
@@ -182,9 +166,7 @@ Late [[Spitfire (Family)|Spitfires]], such as the [[Spitfire F Mk XVIIIe|Mk. XVI
 The [[Tempest Mk II]] is of all piston-engine enemies, the La-9's most deadly adversary. Any opportunity to engage one in an advantageous situation should be seized - lest the Tempest is given the upper hand and the La-9 becomes prey. Unlike other piston-engine planes, the Tempest is among those few planes that can rival the La-9 in terms of top-speed at lower altitudes. Climb rate and turn rates are similar, but the British fighter has the edge. To defeat one, very skillful defensive flying is required. The best course of action is to set the Tempest up for an attack on a teammate. One factor that can prove to decide on both sides is knowing how to use Manual Engine Controls.
 
 ====Counter-tactics====
-
 <!--What to expect, if it would be in command of the enemy and how to counter it. (i.e. They will most likely BnZ, etc.)-->
-
 The best way to fight the La-9 is by exploiting its weaknesses – poor manoeuvrability in dogfights and poor high altitude performance. If flying a more manoeuvrable plane (F8F-1B, Spitfires, Ki-84, N1K2 or Yak-9UT), turn-intensive tactics are recommended. If the La-9 commits to it, it would be easy to destroy it, if not, one ought to climb and employ the tactics recommendable when flying less manoeuvrable fighters.
 
 A less nimble plane (Fw 190, Bf 109 K, F7F etc.) should, once above 4,000 m hold on to that altitude and get in position for Boom & Zoom runs. The only way to catch the La-9, if it is going at full speed at low altitude, is by diving on one, so an altitude advantage is a key to success.
@@ -207,31 +189,29 @@ A less nimble plane (Fw 190, Bf 109 K, F7F etc.) should, once above 4,000 m hold
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Excellent performance at low altitudes (<3,400 m)
-- Amazing top speed at low altitudes
-- Great energy retention
-- Powerful nose-mounted weaponry
-- Responsive control surfaces
-- Sturdy airframe
-- Very good acceleration (especially with WEP enabled)
-- High rate of fire
-- Ability to fire only half the guns (enabling better ammo conservation and recoil control)
+* Excellent performance at low altitudes (<3,400 m)
+* Amazing top speed at low altitudes
+* Great energy retention
+* Powerful nose-mounted weaponry
+* Responsive control surfaces
+* Sturdy airframe
+* Very good acceleration (especially with WEP enabled)
+* High rate of fire
+* Ability to fire only half the guns (enabling better ammo conservation and recoil control)
 
 '''Cons:'''
 
-- Manoeuvrability not good enough for dogfights with most opponents
-- Poor performance at higher altitudes (> 4,000 m)
-- Low ammo capacity
-- Powerful recoil
-- Poor cockpit visibility
+* Manoeuvrability not good enough for dogfights with most opponents
+* Poor performance at higher altitudes (> 4,000 m)
+* Low ammo capacity
+* Powerful recoil
+* Poor cockpit visibility
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -255,24 +235,20 @@ In addition to flying with the Soviet Air Force, La-9 fighters remained in servi
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=la-9 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=la-9 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|4v3fxupuZPA|'''Last piston fighters''' discusses the {{PAGENAME}} at 2:57 - ''War Thunder Official Channel''}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->

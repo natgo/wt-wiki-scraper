@@ -12,10 +12,8 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
-The '''{{Specs|pseudonym}}''' (of the '''1st Squadron, 4th Armored Regiment "Scorpion", 2nd Armored Brigade, 2nd "Warsaw" Armored Division''' of the Polish armed forces in the British army) is a premium rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced as a [[wt:en/news/3472--en|premium pack]] in [[Update 1.53 "Firestorm"]] and was one of the first British tanks introduced in the game. It was removed from the store after the [[wt:en/news/5608-shop-summer-sale-independence-day-en|2018 Summer Sale]], but was reintroduced for [[wt:en/news/5852-special-news-war-thunder-s-birthday-discounts-and-gifts-en|War Thunder's 6th Anniversary]] as a premium purchasable for Golden Eagles {{ge}}.
+The '''{{Specs|pseudonym}}''' (of the '''1st Squadron, 4th Armored Regiment "Scorpion", 2nd Armored Brigade, 2nd "Warsaw" Armored Division''' of the Polish armed forces in the British army) is a premium rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced as a [[wt:en/news/3472--en|premium pack]] in  [[Update 1.53 "Firestorm"]] and was one of the first British tanks introduced in the game. It was removed from the store after the [[wt:en/news/5608-shop-summer-sale-independence-day-en|2018 Summer Sale]], but was reintroduced for [[wt:en/news/5852-special-news-war-thunder-s-birthday-discounts-and-gifts-en|War Thunder's 6th Anniversary]] as a premium purchasable for Golden Eagles {{ge}}.
 
 Using the Sherman as the basis, the British added their famed [[QF 17-pounder (76 mm)|17-pounder anti-tank gun]] to the turret, making the tank a very potent weapon against heavily armoured tanks of its battle rating. This variant of the Firefly represents a version utilized by Polish armed forces operating within the British army.
 
@@ -24,13 +22,11 @@ The Sherman Firefly is easily distinguishable by its very long gun, even compare
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
-- Rolled homogeneous armour (Hull)
-- Cast homogeneous armour (Transmission area, Turret)
+* Rolled homogeneous armour (Hull)
+* Cast homogeneous armour (Transmission area, Turret)
 
 {| class="wikitable"
 |-
@@ -46,16 +42,15 @@ The Sherman Firefly is easily distinguishable by its very long gun, even compare
 |}
 '''Notes:'''
 
-- Suspension wheels are 15 mm thick, bogies are 10 mm thick, and tracks are 20 mm thick.
-- Access to the [[Add-on Armor|Add-on Armour]] modification will give the tank substantial coverings on the side hull, each track being 17 mm thick.
-- Belly armour is 12.7 mm thick.
-- The right side of the turret has extra armour that is 88.9 mm thick.
-- The bow machine gun area has been welded shut with armour, but is only 25.4 mm thick so may present a viable weakness to weaker enemies.
-- Unlike the armour on the American Rank III Shermans which saw itself upped from 50.8 mm to 63.5 mm, the British Firefly in Rank III retains the old 50.8 mm base armour thickness on the front hull, as well as the protruding driver and co-driver hatches in front. This makes the Firefly a much more vulnerable Sherman tank than even the American versions, a trade-off for its more powerful armament.
+* Suspension wheels are 15 mm thick, bogies are 10 mm thick, and tracks are 20 mm thick.
+* Access to the [[Add-on Armor|Add-on Armour]] modification will give the tank substantial coverings on the side hull, each track being 17 mm thick.
+* Belly armour is 12.7 mm thick.
+* The right side of the turret has extra armour that is 88.9 mm thick.
+* The bow machine gun area has been welded shut with armour, but is only 25.4 mm thick so may present a viable weakness to weaker enemies.
+* Unlike the armour on the American Rank III Shermans which saw itself upped from 50.8 mm to 63.5 mm, the British Firefly in Rank III retains the old 50.8 mm base armour thickness on the front hull, as well as the protruding driver and co-driver hatches in front. This makes the Firefly a much more vulnerable Sherman tank than even the American versions, a trade-off for its more powerful armament.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=620|rbMinHp=354|AoAweight=0.9}}
@@ -67,9 +62,7 @@ The Sherman Firefly is easily distinguishable by its very long gun, even compare
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|QF 17-pounder (76 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -89,11 +82,10 @@ The Sherman Firefly is easily distinguishable by its very long gun, even compare
 |}
 
 ==== Ammunition ====
-
-- '''Shot Mk.6:''' {{Annotation|AP|Armour-piercing}} - Standard penetrating round, use until better rounds are unlocked.
-- '''Shell Mk.1:''' {{Annotation|HE|High-explosive}} - It is ideal for destroying SPAA and lightly armoured tanks, but useless against anything else.
-- '''Shot Mk.4:''' {{Annotation|APC|Armour-piercing capped}} - Cap for better grip against sloped armour.
-- '''Shot Mk.8:''' {{Annotation|APCBC|Armour-piercing capped ballistic capped}} - Like Shot Mk.4 but with a ballistic cap for improved flight path, as well as better penetration and shrapnel damage.
+* '''Shot Mk.6:''' {{Annotation|AP|Armour-piercing}} - Standard penetrating round, use until better rounds are unlocked.
+* '''Shell Mk.1:''' {{Annotation|HE|High-explosive}} - It is ideal for destroying SPAA and lightly armoured tanks, but useless against anything else.
+* '''Shot Mk.4:''' {{Annotation|APC|Armour-piercing capped}} - Cap for better grip against sloped armour.
+* '''Shot Mk.8:''' {{Annotation|APCBC|Armour-piercing capped ballistic capped}} - Like Shot Mk.4 but with a ballistic cap for improved flight path, as well as better penetration and shrapnel damage.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="8" | Penetration statistics
@@ -153,9 +145,7 @@ The Sherman Firefly is easily distinguishable by its very long gun, even compare
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Sherman_Firefly.png|right|thumb|x250px|[[Ammo racks]] of the [[Sherman Firefly]] (identical)]]
-
 <!-- '''Last updated: 2.17.0.42''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -194,9 +184,7 @@ As of rank III, this scope is slightly or moderately superior to most medium and
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|M2HB (12.7 mm)|L3A1 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -219,9 +207,7 @@ As of rank III, this scope is slightly or moderately superior to most medium and
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 This tank should be the supporting line in both offensive and defensive actions, providing flanking fire, long-range fire, or fast and accurate fire to the target while the heavy tanks like the [[Churchill (Family)|Churchills]] take up the brunt of the defence. The tank is as mobile as the [[M4|M4 Sherman]], so picking up speed to get around the enemy is not hard. Those familiar with an M4 Sherman control will pick up on this tank very easily; however unlike most Sherman variants, the Firefly does not equip any kind of stabilisation. While this tank is also capable of being the frontal attack unit for an assault, it is strongly advised not to due to the thin armour of the tank, necessitating the users to always get the first shot off in an encounter, otherwise the enemy will be able to destroy the Firefly easily.
 
 The Sherman Firefly can dish out the punishment necessary for heavy tanks, but can't take it. Don't expose the tank towards enemy fire too long due to the thin armour on the Firefly in comparison to other tanks such as the Soviet [[T-34-85]]s and the German [[Panther D|Panthers]]. Take a shot, preferably from a flanking location, then retreat into cover regardless of the shot's effect on a target, because if the target could swing its gun towards the Firefly, or have friends that could hit it, consider writing off the Firefly very soon. This varies between different enemies, as going against something like the [[KV-2 (1939)|KV-2]] would be different than going against a [[Tiger H1|Tiger I]].
@@ -231,33 +217,30 @@ Shoot and scoot unless the enemy's tank gunner has been knocked out (black only)
 During this whole process, watch out for other enemy tanks and avoid being swarmed. With situational awareness combined with the correct usage of the map, the Firefly becomes a decent tank capable of effectively fighting every medium and heavy tank it faces.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Very fast turret traverse speed allows for active targets tracking in battle
-- 17-pounder provides massive damage against medium and heavy tanks; capable of penetrating the frontal armour of the [[Tiger H1]]
-- Fast reload even with an untrained crew
-- Considerably faster acceleration and steering due to 6 tons lighter compared to normal Firefly
-- Access to [[Add-on Armor|additional armour]] that covers most of the front and sides
-- Additional plates welded to the hull's side; unlike the regular Firefly
-- Has .50 cal AA machine gun that's unique among other vehicles as it can rotate for 360°
-- Adequate premium bonus to research and a back up to the regular Firefly
+* Very fast turret traverse speed allows for active targets tracking in battle
+* 17-pounder provides massive damage against medium and heavy tanks; capable of penetrating the frontal armour of the [[Tiger H1]]
+* Fast reload even with an untrained crew
+* Considerably faster acceleration and steering due to 6 tons lighter compared to normal Firefly
+* Access to [[Add-on Armor|additional armour]] that covers most of the front and sides
+* Additional plates welded to the hull's side; unlike the regular Firefly
+* Has .50 cal AA machine gun that's unique among other vehicles as it can rotate for 360°
+* Adequate premium bonus to research and a back up to the regular Firefly
 
 '''Cons:'''
 
-- Large profile and poor frontal armour of a regular [[M4|M4 Sherman]], very thin for a Rank III vehicle facing regular [[Tiger I (Family)|Tigers I]] and [[Panzer V Panther (Family)|Panthers]]
-- 4 crew members are easier to knock-out
-- Bad gun depression of only -5 degrees, difficult playstyle when accustomed to other British tanks with excellent depression
-- Smart enemies will shoot the spot where the radio operator gunner usually sat, as in the Firefly, that spot is replaced by ammo (unless carrying 54 ammo)
-- Additional armour tracks doesn't really help with flank attack, due to the thin and wide side armour
-- Gun bounces a lot when performing a sudden stop and lacks stabilization; sudden targets will be hard to hit
+* Large profile and poor frontal armour of a regular [[M4|M4 Sherman]], very thin for a Rank III vehicle facing regular [[Tiger I (Family)|Tigers I]]  and [[Panzer V Panther (Family)|Panthers]]
+* 4 crew members are easier to knock-out
+* Bad gun depression of only -5 degrees, difficult playstyle when accustomed to other British tanks with excellent depression
+* Smart enemies will shoot the spot where the radio operator gunner usually sat, as in the Firefly, that spot is replaced by ammo (unless carrying 54 ammo)
+* Additional armour tracks doesn't really help with flank attack, due to the thin and wide side armour
+* Gun bounces a lot when performing a sudden stop and lacks stabilization; sudden targets will be hard to hit
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 === Concept ===
 Around 1943 in World War II, the [[M4|M4 Sherman]] was one of the best tanks in use by the Allies. It superseded the German standard [[Pz.III J|Panzer IIIs]] and [[Pz.IV F1|Panzer IVs]] at the time. However, it was during the middle of 1943 that the Sherman design was beginning to wane in superiority with the reveal of newer German tanks in the front lines, namely the [[Tiger H1|Tiger I]] and the [[Panther D|Panther]] tanks.<ref name="ZalogaCh3Panther">Zaloga 2008, ''Chapter 3: The Panzer Nemesis: The Panther Threat''</ref> These tanks could not only take out the Sherman at a longer range than the Sherman can compete in, but also withstand the 75 mm rounds fired from the Sherman with their frontal armour. To improve the Sherman's firepower against these better German tanks, the Americans decided to up-gun their tanks with a better [[M1 (76 mm)|76 mm gun]]. The British, however, chose to up the ante with one of the Allies' most potent anti-tank guns at the time, the 17-pounder.
 
@@ -300,35 +283,29 @@ On the onset, the Americans were not enthusiastic about the Firefly because they
 The Firefly's reputation during and after the war is a product of hindsight. The British understood the trend that was happening in German armoured forces and acted accordingly with the 17-pounder. The 17-pounder's super round, the APDS, did not appear in Firefly stowage until August 1944,<ref name="FletcherAmmo">Fletcher 2008, ''Ammunition''</ref> and in combat was really inaccurate past 500 yards and the round fouled the barrel that it affected follow-up shots with APCBC rounds. As such, APCBC round would still be standard usage and though the 17-pounder was still slightly more powerful than the 76 mm, it traded crew comfort and design quality in the Firefly in comparison to the 76 mm gun in the larger T23 turret. What solidified the Firefly's place in history in comparison to the 76 mm Shermans was that on the very first day that the Allies invaded Normandy, the British actually brought the Fireflies while the Americans left their 76 mm guns in English depots.<ref name="Zaloga76mmFrance">Zaloga 2003, ''Initial Deployment Problems''</ref> Thus, the British can claim with great confidence that on the opening days of Operation Overlord, they had a tank that could kill the German cats.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_sherman_ic_firefly Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_sherman_ic_firefly Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|6sX_uwt8sfE|'''Spotlight: Sherman Firefly Ep.2''' - ''minoxen''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[M4 Sherman (Family)|Related development]]
-
-- [[Sherman Firefly]]
-- [[M4 Tipo IC]]
-- [[Sherman Vc (Italy)]]
+* [[Sherman Firefly]]
+* [[M4 Tipo IC]]
+* [[Sherman Vc (Italy)]]
 
 ;Other vehicles of similar configuration and role
-
-- [[M4A1 (76) W]]
-- [[M4A4 (SA50)]]
+* [[M4A1 (76) W]]
+* [[M4A4 (SA50)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
@@ -339,12 +316,12 @@ The Firefly's reputation during and after the war is a product of hindsight. The
 
 ;Bibliography
 
-- Fletcher, David. ''Sherman Firefly'' Great Britain: Osprey Publishing Ltd., 2008. ''Kindle Edition''
-- Hunnicutt, R.P. ''Sherman: A History of the American Medium Tank'' U.S.A.: Feist Publications, 1978
-- Morans, Nicholas. ''Inside the Chieftain's Hatch: Sherman VC "Firefly" part 2'' YouTube, 20 Mar. 2017. Web. 29 Mar. 2017.[https://www.youtube.com/watch?v=tYRFpe27SnA]
-- Zaloga, Steven. ''M4 (76mm) Sherman Medium Tank 1943-65'' Great Britain: Osprey Publishing Ltd., 2003. ''Kindle Edition''
-- Zaloga, Steven. ''Armored Thunderbolt: The U.S. Army Sherman in World War II'' U.S.A: Stackpole Books, 2008. ''Kindle Edition''
-- Zaloga, Steven. ''Armored Champion: The Top Tanks of World War II'' U.S.A: Stackpole Books, 2015. ''Kindle Edition''
+* Fletcher, David. ''Sherman Firefly'' Great Britain: Osprey Publishing Ltd., 2008. ''Kindle Edition''
+* Hunnicutt, R.P. ''Sherman: A History of the American Medium Tank'' U.S.A.: Feist Publications, 1978
+* Morans, Nicholas. ''Inside the Chieftain's Hatch: Sherman VC "Firefly" part 2'' YouTube, 20 Mar. 2017. Web. 29 Mar. 2017.[https://www.youtube.com/watch?v=tYRFpe27SnA]
+* Zaloga, Steven. ''M4 (76mm) Sherman Medium Tank 1943-65'' Great Britain: Osprey Publishing Ltd., 2003. ''Kindle Edition''
+* Zaloga, Steven. ''Armored Thunderbolt: The U.S. Army Sherman in World War II'' U.S.A: Stackpole Books, 2008. ''Kindle Edition''
+* Zaloga, Steven. ''Armored Champion: The Top Tanks of World War II'' U.S.A: Stackpole Books, 2015. ''Kindle Edition''
 
 {{TankManufacturer Department of Tank Design}}
 {{Britain medium tanks}}

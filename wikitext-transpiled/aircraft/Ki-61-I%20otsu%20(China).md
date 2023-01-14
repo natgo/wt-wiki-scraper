@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
 
 Unlike the more manoeuvrable and agile A6M, the Ki-61 is more of what one would call an "energy fighter". Compared to the "Zero" it is faster, has a higher climb rate, and handles better at higher speeds. Armed with four 12.7 mm Ho-103 machine guns and plenty of ammunition, the Ki-61-Ib is a more than capable fighter. It is faster, has a higher rate of climb, and features a better armament. Utilize these three aspects when facing enemy aircraft.
@@ -25,7 +23,6 @@ The Ki-61-I otsu utilised four 12.7 mm Ho-103 Japanese machine guns. Generally, 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -53,7 +50,7 @@ The Ki-61-I otsu utilised four 12.7 mm Ho-103 Japanese machine guns. Generally, 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -84,10 +81,9 @@ The Ki-61-I otsu utilised four 12.7 mm Ho-103 Japanese machine guns. Generally, 
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 13 mm Steel plate in pilot's seat
+* 13 mm Steel plate in pilot's seat
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -96,32 +92,27 @@ The Ki-61-I otsu utilised four 12.7 mm Ho-103 Japanese machine guns. Generally, 
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Ho-103 (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 12.7 mm Ho-103 machine guns, nose-mounted (400 rpg = 800 total)
-- 2 x 12.7 mm Ho-103 machine guns, wing-mounted (500 rpg = 1,000 total)
+* 2 x 12.7 mm Ho-103 machine guns, nose-mounted (400 rpg = 800 total)
+* 2 x 12.7 mm Ho-103 machine guns, wing-mounted (500 rpg = 1,000 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|Army Type 94 GPHE (50 kg)|Army Type 94 GPHE (100 kg)|Army Type 92 GPHE (250 kg)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 50 kg Army Type 94 GPHE bombs (100 kg total)
-- 2 x 100 kg Army Type 94 GPHE bombs (200 kg total)
-- 2 x 250 kg Army Type 92 GPHE bombs (500 kg total)
+* Without load
+* 2 x 50 kg Army Type 94 GPHE bombs (100 kg total)
+* 2 x 100 kg Army Type 94 GPHE bombs (200 kg total)
+* 2 x 250 kg Army Type 92 GPHE bombs (500 kg total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The Ki-61 is best utilised as a multi-purpose fighter. Although proficient at energy fighting, the Ki-61 is also generally good at standard manoeuvres. It may lose turn fights with some enemy aircraft like the [[A6M3]], but nonetheless it can still be used in multiple roles. The Ki-61 is your standard "jack of all trades". It's not incredibly good at anything it does but it is even across the board. This allows the Ki-61 pilot to choose what role they want to play in the battle. One could play the reserved, high flying energy fighter, or the aggressive low flying dogfighter. The Ki-61 allows these choices.
@@ -148,9 +139,9 @@ For ground pounding, the best loadout is the 2 x 250 kg bombs. With an extra 500
 
 '''Enemies worth noting:'''
 
-- [[Me 264]]: This giant is one of the few bombers who get air spawns in Sim, so it usually flies higher than you think. On top of this, the Me 264 is armed with large calibre MG and cannons all over it, therefore tailing a 264 is basically suicide unless all of their gunners are knocked out. You can treat the 264 almost like a B-29 or B-17 as they are very similar in both design and defensive capabilities. It is best to head-on the 264 if you can as you can easily knock out the pilots due to its glazed nose while also taking minimal damage. However the bomber lacks a ventral turret on its belly, making it easy to deal damage from below, but be wary of the downwards facing rear 20 mm cannon near the tail. The safest way to attack is from a higher altitude, dive at an oblique angle and focus fire on the wings and nose. Never engage if you have no altitude advantage.
-- [[B-25J-20|B-25]], [[Ju 88 A-4|Ju 88]], [[IL-2 (Family)|IL-2]], etc: These aircraft have either powerful defensive guns, for example the B-25, or wide gun coverage such as the Ju 88. The most threatening one, the B-25, is fairly easy to distinguish. It has a short and wide fuselage, twin radial engine hanging under the wings and a H-tail. Focus your fire on the engines and constantly swing sideways to avoid getting hit. A few hits from the M2 Browning is a guaranteed death. The Ju 88, on the other hand, has great underside gun coverage so attacking from below isn't a very good option. Try engaging from the sides and concentrate the fire on the front half of it, as that is where all the vital components are located. Again, never engage any of these if you have no altitude advantage. Pin them on the map and leave them to teammates with more powerful firepower.
-- [[A6M (Family)|A6M]], [[Spitfire (Family)|Spitfire]], etc: If you see them on your tail try outrunning them by diving at around -40 degrees. The Ki-61 still remains responsive handling at 600 km/h, but its speed retention is not the best, meaning it will start to lose speed quickly and the enemy might catch up. If you are near a friendly airfield, great. If not, then hope for the best and run towards the friendly side. Don't forget to pitch up and down a little to mess up their aim, the early Spitfires and A6M only have a 60-round drum per cannon which will run out fairly fast. The leftover 7.7 mm machine guns will not be as destructive.
+* [[Me 264]]: This giant is one of the few bombers who get air spawns in Sim, so it usually flies higher than you think. On top of this, the Me 264 is armed with large calibre MG and cannons all over it, therefore tailing a 264 is basically suicide unless all of their gunners are knocked out. You can treat the 264 almost like a B-29 or B-17 as they are very similar in both design and defensive capabilities. It is best to head-on the 264 if you can as you can easily knock out the pilots due to its glazed nose while also taking minimal damage. However the bomber lacks a ventral turret on its belly, making it easy to deal damage from below, but be wary of the downwards facing rear 20 mm cannon near the tail. The safest way to attack is from a higher altitude, dive at an oblique angle and focus fire on the wings and nose. Never engage if you have no altitude advantage.
+* [[B-25J-20|B-25]], [[Ju 88 A-4|Ju 88]], [[IL-2 (Family)|IL-2]], etc: These aircraft have either powerful defensive guns, for example the B-25, or wide gun coverage such as the Ju 88. The most threatening one, the B-25, is fairly easy to distinguish. It has a short and wide fuselage, twin radial engine hanging under the wings and a H-tail. Focus your fire on the engines and constantly swing sideways to avoid getting hit. A few hits from the M2 Browning is a guaranteed death. The Ju 88, on the other hand, has great underside gun coverage so attacking from below isn't a very good option. Try engaging from the sides and concentrate the fire on the front half of it, as that is where all the vital components are located. Again, never engage any of these if you have no altitude advantage. Pin them on the map and leave them to teammates with more powerful firepower.
+* [[A6M (Family)|A6M]], [[Spitfire (Family)|Spitfire]], etc: If you see them on your tail try outrunning them by diving at around -40 degrees. The Ki-61 still remains responsive handling at 600 km/h, but its speed retention is not the best, meaning it will start to lose speed quickly and the enemy might catch up. If you are near a friendly airfield, great. If not, then hope for the best and run towards the friendly side. Don't forget to pitch up and down a little to mess up their aim, the early Spitfires and A6M only have a 60-round drum per cannon which will run out fairly fast. The leftover 7.7 mm machine guns will not be as destructive.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -170,53 +161,46 @@ For ground pounding, the best loadout is the 2 x 250 kg bombs. With an extra 500
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Generally performs well in the most common tactics, both BnZ and turn-fighting, allowing flexible gameplay depending on the situation
-- Outstanding climb rate
-- Has decent dive speed, can easily out-dive slower opponents
-- Large amount of ammunition (400-500 rpg) is great for long battles or difficult targets
-- Some armour protection for the pilot means that it will not easily get pilot-sniped by small-calibre/low-penetrating guns from the back
-- Able to equip up to 2 x 250 kg bombs, meaning it is also useful in ground pounding/tank RB
-- Adequate over-the-nose visibility allows easier leading in Simulator
+* Generally performs well in the most common tactics, both BnZ and turn-fighting, allowing flexible gameplay depending on the situation
+* Outstanding climb rate
+* Has decent dive speed, can easily out-dive slower opponents
+* Large amount of ammunition (400-500 rpg) is great for long battles or difficult targets
+* Some armour protection for the pilot means that it will not easily get pilot-sniped by small-calibre/low-penetrating guns from the back
+* Able to equip up to 2 x 250 kg bombs, meaning it is also useful in ground pounding/tank RB
+* Adequate over-the-nose visibility allows easier leading in Simulator
 
 '''Cons:'''
 
-- Rather weak firepower due to the slow velocity and light bullet mass, cannot effectively damage well-protected targets like [[IL-2 (Family)|IL-2s]]
-- Locks up at high speeds
-- No frontal armour, can be fatal in a head-on
-- Average roll rate which worsens as speed increases, can easily get out-rolled by [[Fw 190 (Family)|Fw 190s]] and [[I-16 (Family)|I-16s]]
+* Rather weak firepower due to the slow velocity and light bullet mass, cannot effectively damage well-protected targets like [[IL-2 (Family)|IL-2s]]
+* Locks up at high speeds
+* No frontal armour, can be fatal in a head-on
+* Average roll rate which worsens as speed increases, can easily get out-rolled by [[Fw 190 (Family)|Fw 190s]] and [[I-16 (Family)|I-16s]]
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 Some Ki-61s were deployed in China as interceptors during US bombing raids over Japanese home islands, including against B-29 Superfortresses. They were operated by 59th Sentai, who also operated Ki-27s, Ki-43s, and Ki-100s in China and Manchuria. After the war, both {{Annotation|ROCAF|Republic of China Air Force}} and {{Annotation|PLAAF|People's Liberation Army Air Force}} operated captured Ki-61s, though documentation is scarce and only a few photos are extant.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ki_61_1a_otsu_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ki_61_1a_otsu_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/393120-ki-61-otsu/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/393120-ki-61-otsu/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Kawasaki}}
 {{China fighters}}

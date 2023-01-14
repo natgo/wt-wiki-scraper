@@ -4,22 +4,18 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rating}}. It was introduced in [[Update 1.65 "Way of the Samurai"]]. Combining a similar gun to the [[ASU-85]] on a turreted device and mobility from the [[PT-76B]], Object 906 is a perfect flanker.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
-- Alloy ABT-101 (Hull)
-- Rolled homogeneous armour (Turret)
-- Cast homogeneous armour (Gun mantlet)
+* Alloy ABT-101 (Hull)
+* Rolled homogeneous armour (Turret)
+* Cast homogeneous armour (Gun mantlet)
 
 {| class="wikitable"
 |-
@@ -32,12 +28,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rat
 |}
 '''Notes:'''
 
-- Suspension wheels are 10 mm thick while tracks are 15 mm thick.
-- Belly armour and hull underside above the tracks are 8 mm thick.
+* Suspension wheels are 10 mm thick while tracks are 15 mm thick.
+* Belly armour and hull underside above the tracks are 8 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=465|rbMinHp=265}}
@@ -49,9 +44,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rat
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|D-58 (85 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -111,9 +104,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rat
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:2.17.0.126''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -130,20 +121,18 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rat
 |}
 '''Notes:'''
 
-- Shells are modeled individually and disappear after having been shot or loaded.
-- Rack 6* (autoloader magazine) is a first stage ammo rack. It totals 15 shells.
-  ** This rack gets filled first when loading up the tank and is also emptied first.
-  ** As the {{PAGENAME}} is equipped with an autoloader, manual reloading of the gun is not possible.
-  ** Once the autoloader magazine has been depleted, you can't shoot until the loader has restocked the autoloader with at least 1 shell.
-  ** The restocking time is much longer than the normal reload time of the gun. Take this into account when playing.
-  \*\* Simply not firing when the gun is loaded will move ammo from racks 1 to 5 into rack 7* then 6\*. Firing will interrupt the restocking of the ready racks.
-- Pack 16&nbsp;''(+24)'' shells to keep the hull empty of ammo.
+* Shells are modeled individually and disappear after having been shot or loaded.
+* Rack 6* (autoloader magazine) is a first stage ammo rack. It totals 15 shells.
+** This rack gets filled first when loading up the tank and is also emptied first.
+** As the {{PAGENAME}} is equipped with an autoloader, manual reloading of the gun is not possible.
+** Once the autoloader magazine has been depleted, you can't shoot until the loader has restocked the autoloader with at least 1 shell.
+** The restocking time is much longer than the normal reload time of the gun. Take this into account when playing.
+** Simply not firing when the gun is loaded will move ammo from racks 1 to 5 into rack 7* then 6*. Firing will interrupt the restocking of the ready racks.
+* Pack 16&nbsp;''(+24)'' shells to keep the hull empty of ammo.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|SGMT (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -157,9 +146,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rat
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 As with every other light tank, this vehicle should be handled with caution on the battlefield since any enemy the 906 encounters can penetrate it. Use its awesome mobility and good, stabilized gun to provide a nasty surprise to the enemy from unexpected spots. Whether by river, lake, ocean, the 906 can navigate through all bodies of water within the limit of the battlefield. This tank is best used as a flanker, shooting on the move, reloading in the dark, popping up behind another hill to take another moving shot, this is a ninja tank.
 
 ;Combat tactics
@@ -199,41 +186,38 @@ With the [[Tortoise]], the same caution is advised but it is way easier to flank
 Be cautious while aiming at [[IS-3]], [[IS-4M]] and [[T-10M]] since their sides can bounce the 85 mm shots.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Tank has the fastest gun reload in the rank, tied with [[JaPz.K_A2]]
-- Has an autoloader, meaning that
-  ** A high "Weapon Reload" skill on its crew isn't needed
-  ** The gun will be reloaded while extinguishing a fire
-  \*\* Injured crew won't slow its reload rate
-- Very hard-hitting 85 mm, even for Rank V matches
-  ** Comes with an APHE as a standard shot - easily capable of knocking out tanks from the side
-  ** The unlockable HEATFS shell lets the 906 comfortably fight heavier tanks
-- Two-plane stabilized gun allows to fire on the move and while braking on almost any terrain
-- Amphibious capability lets you move around maps with bodies of water more easily - rivers can also be easily crossed
-- Very fast reverse speed, about -45 km/h, with fast acceleration towards -70 km/h
-- Has neutral steering
+* Tank has the fastest gun reload in the rank, tied with [[JaPz.K_A2]]
+* Has an autoloader, meaning that
+** A high "Weapon Reload" skill on its crew isn't needed
+** The gun will be reloaded while extinguishing a fire
+** Injured crew won't slow its reload rate
+* Very hard-hitting 85 mm, even for Rank V matches
+** Comes with an APHE as a standard shot - easily capable of knocking out tanks from the side
+** The unlockable HEATFS shell lets the 906 comfortably fight heavier tanks
+* Two-plane stabilized gun allows to fire on the move and while braking on almost any terrain
+* Amphibious capability lets you move around maps with bodies of water more easily - rivers can also be easily crossed
+* Very fast reverse speed, about -45 km/h, with fast acceleration towards -70 km/h 
+* Has neutral steering
 
 '''Cons:'''
 
-- Virtually no armour
-- Only 3 crewmen limits the survivability
-- Turret bustle is protected by only 8 mm, heavy machine guns can easily penetrate and detonate the ammunition in the autoloader
-- Overall, turret front is vulnerable to HMG at short distances
-- Prone to destruction by overpressure
-- Stock experience is horrible
-  \*\* Mobility and accuracy are bad until relevant upgrades are researched and bought
-- Awful gun depression of -5°
-- Two-plane stabilizer becomes ineffective at speeds above 35-40 km/ph, especially on rough terrain
-- When firing from the water, can accidentally sink itself
+* Virtually no armour
+* Only 3 crewmen limits the survivability
+* Turret bustle is protected by only 8 mm, heavy machine guns can easily penetrate and detonate the ammunition in the autoloader
+* Overall, turret front is vulnerable to HMG at short distances
+* Prone to destruction by overpressure
+* Stock experience is horrible
+** Mobility and accuracy are bad until relevant upgrades are researched and bought
+* Awful gun depression of -5°
+* Two-plane stabilizer becomes ineffective at speeds above 35-40 km/ph, especially on rough terrain
+* When firing from the water, can accidentally sink itself
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The success of the [[PT-76 (Family)|PT-76]] amphibious tank prompted the development of a successor with improved characteristics on the battlefield. The project was in development since 1960 by {{Annotation|VgTZ|Volgograd Tractor Plant}} under the leadership of I. V. Gavalov. The main purpose of this project was to create a floating tank with a more powerful main cannon than the PT-76B. The vehicle was given the project name '''Object 906''' with the lead designer being Yu. V. Sharin. In total, six prototypes were manufactured at VgTZ, two of which were tested at the {{Annotation|NIIBT|Research and Testing Institute of Armored Vehicles}} test site from January to August 1963. The tank was to receive the name PT-85 if it had been adopted for service, however it failed to do so.
 
 The tank had a classic layout scheme with a longitudinal engine located in the hull, a crew of three people and a stabilized {{Annotation|85mm D-58|85mm 2A22, D-58}} cannon with a loading mechanism which was paired with a {{Annotation|7.62 mm SGMT|7.62 mm 56-P-428MT, SGMT}}. The tank was equipped with a TVN-2B night vision device for the driver, a TKN-2 day-night viewing device alongside with two TNP viewports for the commander and two TNP-165 prismatic viewports for the gunner. The stabilizer used named Zvezda provided a horizontal rotation speed of 0.05 deg/s to 20 deg/s and a vertical rotation speed of 0.05 deg/s to 4.5 deg/s. For firing the main cannon during daytime, a TSh2B-8A telescopic sight was used, and for night-time, a TPN-1 sight was used alongside a L-2A1 infrared illuminator. The loading mechanism of the gun was designed for 15 shots and used a special control panel to operate, allowing the tank to reach a maximum rate of fire of 14 rounds/min and a minimum rate of fire of 9 rounds/min. The total ammunition stored was 40 rounds with an usual load of 8 armour-piercing and 32 high-explosive shells.
@@ -245,37 +229,33 @@ There were two engines used on this project, the first tank produced with an 8D-
 The variant on display in the Kubinka museum is the Object 906 with the 8D-6M engine.<ref>Отечественные Бронированные Машины 1945-1965 гг. - Часть 1 - Легкие, средние и тяжелые танки, М. В. Павлов, И. В. Павлов (<nowiki>ISBN 978-5-85905-623-1</nowiki>)</ref>
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_object_906 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_object_906 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|Fjh-tTr6TPs|'''Best Combo #2''' discusses the {{PAGENAME}} at 4:27 - ''War Thunder Official Channel''|SJoW-2_6J6o|'''Amphibious tanks''' discusses the {{PAGENAME}} at 4:38 - ''War Thunder Official Channel''|CNyryM-9g7g|'''Object 906 - Tank Review - Frantic Biting''' - ''Napalmratte''|UDvzWT2BSg4|'''The Shooting Range #28''' - ''Metal Beasts'' section at 00:44 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
 
-- [[PT-76 (Family)]]
+* [[PT-76 (Family)]]
 
 ;Other vehicles of similar configuration and role
 
-- [[Object 685]]
+* [[Object 685]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/4351-development-object-906-river-mosquito-en|[Devblog] Object 906: River Mosquito]]
+* [[wt:en/news/4351-development-object-906-river-mosquito-en|[Devblog] Object 906: River Mosquito]]
 
 === References ===
 <references />

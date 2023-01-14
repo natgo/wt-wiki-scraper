@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} American jet fighter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
 
 Development of fighter aircraft attempts to balance size, speed, armament and manoeuvrability to come up with the perfect fighter. Due to the difficulties and challenges of bundling all of these in one aircraft, many different varieties have been developed through the years which highlighted one or more aspects but rarely all in one. And sometimes the mould had to be broken and the motto "bigger IS better" came into play. Due to these such heavyweight fighters like the [[P-61C-1|P-61]], [[Me 410 (Family)|Me 410]], [[Beaufighter (Family)|Beaufighter]], [[J5N1]] and [[SM.91]] were developed to fly faster, remain manoeuvrable and carry heavier weapons and ordnance, sometimes much heavier than their lighter counterparts. The {{PAGENAME}} is no exception, originally developed as a souped-up F3H Demon, this fighter was modified into a larger, heavier, faster fighter-interceptor/bomber that the U.S. Navy didn't realize it needed and when it did, it went all in.<ref name="Hachette" />
@@ -27,7 +25,6 @@ The amazing F-4 Phantom II was state-of-the-art in its day and even 60 years lat
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 The {{PAGENAME}} is an incredibly stable aircraft, however from the way its wingtips and tailplanes look, one might think otherwise. Due to extensive wind tunnel testing, McDonnell engineers determined that by canting the tailplanes downward at a 23° anhedral (inclination) the stability and stall recovery characteristics of the aircraft dramatically improved and in the same fashion they didn't interfere with the engine's jet exhaust. The wings, on the other hand, were developed to be extremely strong to support large suspended armaments; however, they needed to be given a 5° upward inclination to prevent having to redesign the entire wing. So, the engineers elected to just raise the wingtips at a 12° dihedral which averaged the wing at the necessary 5°. The iconic shape of the {{PAGENAME}} was set.<ref name="Hachette" />
@@ -64,7 +61,7 @@ In game, however, the aircraft will not reach both its maximum altitude of 16,00
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || ✓ || ✓ || ✓ <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -130,9 +127,7 @@ In game, however, the aircraft will not reach both its maximum altitude of 16,00
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 [[File:F 4 phantom sgtroach.png|350px|thumb|right|Fox-2, Fox-2 - ROKAF F-4C Phantom II launching an [[AIM-9B]] Sidewinder missile]]
 Due to the sheer weight of the {{PAGENAME}} it is surprising to note that there is no armour plating nor any bulletproof canopies. Littered with eight fuel tanks, one in each wing and the other six in the fuselage right above the engines, there isn't much protection for the self-sealing tanks. The Phantom pilot will need to be cognizant of where enemy aircraft are behind them to ensure they prevent their aircraft from taking damage as speed and manoeuvrability are the keys to survival and if lost, there is not much hope for the fighter.
 
@@ -154,9 +149,7 @@ For those aircraft attacking the {{PAGENAME}}, when using machine guns and canno
 |}
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 [[File:F 4 phantom news001.jpg|350px|thumb|right|Three-quarter view of an {{PAGENAME}} displaying the variance of suspended armament]]
 {{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
 {{main|AGM-12B Bullpup|AGM-12C Bullpup|AIM-7D Sparrow|AIM-9B Sidewinder|AIM-9E Sidewinder}}
@@ -164,21 +157,21 @@ For those aircraft attacking the {{PAGENAME}}, when using machine guns and canno
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- 1 x 20 mm GAU-4 cannon (1,200 rpg)
-- 1 x 20 mm GAU-4 cannon + 2 x AIM-9B Sidewinder missiles
-- 3 x 20 mm GAU-4 cannons (1,200 rpg = 3,600 total)
-- 24 x 250 lb LDGP Mk 81 bombs (6,000 lb total)
-- 24 x 500 lb LDGP Mk 82 bombs (12,000 lb total)
-- 17 x 750 lb M117 cone 45 bombs (12,750 lb total)
-- 13 x 1,000 lb LDGP Mk 83 bombs (13,000 lb total)
-- 3 x 2,000 lb LDGP Mk 84 bombs (6,000 lb total)
-- 4 x BLU-27/B incendiary bombs
-- 1 x 20 mm GAU-4 cannon + 4 x AGM-12B Bullpup missiles
-- 1 x 20 mm GAU-4 cannon + 2 x AGM-12C Bullpup missiles
-- 285 x FFAR Mighty Mouse rockets
-- 60 x Zuni Mk32 Mod 0 ATAP rockets
-- 4 x AIM-7D Sparrow missiles
-- 4 x AIM-9E Sidewinder missiles
+* 1 x 20 mm GAU-4 cannon (1,200 rpg)
+* 1 x 20 mm GAU-4 cannon + 2 x AIM-9B Sidewinder missiles
+* 3 x 20 mm GAU-4 cannons (1,200 rpg = 3,600 total)
+* 24 x 250 lb LDGP Mk 81 bombs (6,000 lb total)
+* 24 x 500 lb LDGP Mk 82 bombs (12,000 lb total)
+* 17 x 750 lb M117 cone 45 bombs (12,750 lb total)
+* 13 x 1,000 lb LDGP Mk 83 bombs (13,000 lb total)
+* 3 x 2,000 lb LDGP Mk 84 bombs (6,000 lb total)
+* 4 x BLU-27/B incendiary bombs
+* 1 x 20 mm GAU-4 cannon + 4 x AGM-12B Bullpup missiles
+* 1 x 20 mm GAU-4 cannon + 2 x AGM-12C Bullpup missiles
+* 285 x FFAR Mighty Mouse rockets
+* 60 x Zuni Mk32 Mod 0 ATAP rockets
+* 4 x AIM-7D Sparrow missiles
+* 4 x AIM-9E Sidewinder missiles
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -230,13 +223,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |-
 | colspan="12" | Maximum permissible weight imbalance: 1,500 kg
 |-
-| colspan="13" | \* The AGM-12C Bullpup missile on hardpoints 2/10 cannot be carried in conjunction with air-to-air missiles on hardpoints 3/9 respectively.
+| colspan="13" | * The AGM-12C Bullpup missile on hardpoints 2/10 cannot be carried in conjunction with air-to-air missiles on hardpoints 3/9 respectively.
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 [[File:F 4 phantom markymark 001.jpg|350px|thumb|left|VF-96 Showtime-100 F-4C unloading bombs in Vietnam]]
 The {{PAGENAME}} is, frankly, not a dogfighter. That is because its ungainly manoeuvrability, large size, and lack of countermeasures leave it heavily disadvantaged and an easy target should one catch it in weapons range. The F-4C's best friend is its good speed and powerful armaments. As a result, F-4C pilots are forced to act as vultures, staying fast and using missiles or gunpods to pick off hapless targets of opportunity.
 
@@ -280,48 +271,44 @@ In Ground realistic battles, the most dangerous ground enemies are all SAM vehic
 The most common missiles to face are the SRAAM, AIM-9J, -9G, -9E, -9B, -7E, the R-3S, R-60 and Magics. In order to dodge an SRAAM, do not turn, as the SRAAM, unlike most other missiles, uses thrust vectoring instead of control surfaces. This gives the SRAAM extreme agility, but at the cost of range, meaning pilots that can outrun the missile are far more likely to survive as the SRAAM self-destructs once it runs out of fuel. At the other end of the spectrum, AIM-9Gs have incredibly long ranges, so even if one is launched at the F-4C from 4 km the plane must manoeuvre in order to lose it. An F-4C pilot can either attempt to outturn it (they have worse agility than an AIM-9J, Magic or R-60), or attempt to outspeed it. By waiting for it to run out of fuel (this only works at long ranges), the plane can do big barrel rolls and large turns (not too sharp as to lose speed), and since missiles are incredibly light and will not be able to propel itself once it runs out of fuel, it will lose speed and the F-4C will outrun it. For an AIM-9E, -9E, or R-3S, the F-4C can simply turn a bit to the side and it will quickly lose track. Against an R-60, AIM-9J or Magic however, it is a bit more complex: the most effective way to outmanoeuvre one without countermeasures is to roll 90 degrees so the F-4C's wings are perpendicular to the ground, turn, wait a bit, then begin rolling towards the ground while pulling. This will usually outmanoeuvre most missiles launched at the F-4C. However, an F-4C pilot should not turn to the sky as the plane will quickly drop speed and make it easier for a missile to hit.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 [[File:F 4 phantom commander drew.jpg|350px|thumb|right|Artistic rendition of a {{PAGENAME}} in a power climb]]
 
 '''Pros:'''
 
-- Impressive variety and maximum payload of ordnance, including: 20 mm cannon gunpods, bombs, rockets, and air-to-air and air-to-ground missiles
-  \*\* Can equip the AIM-7D Sparrow and AIM-9 Sidewinder air-to-air missiles at the same time (with a maximum of four each) in addition to five pylons for ground attack ordnance
-- Has BVR (Beyond Visual Range) engagement capability with the radar-guided AIM-7D Sparrow
-- Has a ballistic computer, which allows for accurate usage of unguided air-to-ground weapons and cannon(s)
-- Fantastic climb rate
-- Good top speed
-- Great acceleration
-- Good roll rate for a large aircraft
-- M61 Vulcan has excellent fire rate, ballistics and damage, as well as a generous ammo pool
+* Impressive variety and maximum payload of ordnance, including: 20 mm cannon gunpods, bombs, rockets, and air-to-air and air-to-ground missiles
+** Can equip the AIM-7D Sparrow and AIM-9 Sidewinder air-to-air missiles at the same time (with a maximum of four each) in addition to five pylons for ground attack ordnance
+* Has BVR (Beyond Visual Range) engagement capability with the radar-guided AIM-7D Sparrow
+* Has a ballistic computer, which allows for accurate usage of unguided air-to-ground weapons and cannon(s)
+* Fantastic climb rate
+* Good top speed
+* Great acceleration
+* Good roll rate for a large aircraft
+* M61 Vulcan has excellent fire rate, ballistics and damage, as well as a generous ammo pool
 
 '''Cons:'''
 
-- As it has no internal gun, some sort of weapon must be equipped on the pylons, meaning flight performance will always be lower than listed due to drag and/or G-limits
-- Large target profile compared to other fighters it flies against
-- Poor turning ability unless using minimum fuel
-- Manoeuvrability suffers greatly with fully loaded pylons
-- Using wing-mounted hardpoints will break wings at low altitudes while flying Mach 1.10+
-- Has a low negative G limit, meaning wings can snap easily
-- The gunpods are pointed slightly downwards (pilot must adjust aim to compensate)
-- No countermeasures
-  \*\* As a result has low battlefield endurance in ground RB battles, as SAM vehicles are quite prevalent at its BR
-- Radar has difficulty finding and locking aircraft, even in ideal conditions
-  \*\* Most enemies have an RWR at this BR, eliminating any surprise from semi-active radar guided missiles (such as the AIM-7D)
-- AIM-7D Sparrow missiles are unreliable and easily dodged
-  \*\* Unlike the Soviet R-3R or Matra R.530E, the AIM-7D has a 1 km warm up time where it flies completely straight, only after which it can begin tracking (but if the target is no longer within the missile's sights it will automatically self destruct, requiring the F-4C to lead the missile). This also makes it very unreliable in a short range engagement as the missile often cannot react in time
-- AIM-9B Sidewinder missiles are notoriously poor performing, while the AIM-9Es are below average at this BR
-- Has little utility in a full uptier, as it is heavily outclassed by nearly all other aircraft above 10.0
+* As it has no internal gun, some sort of weapon must be equipped on the pylons, meaning flight performance will always be lower than listed due to drag and/or G-limits
+* Large target profile compared to other fighters it flies against
+* Poor turning ability unless using minimum fuel
+* Manoeuvrability suffers greatly with fully loaded pylons
+* Using wing-mounted hardpoints will break wings at low altitudes while flying Mach 1.10+
+* Has a low negative G limit, meaning wings can snap easily
+* The gunpods are pointed slightly downwards (pilot must adjust aim to compensate)
+* No countermeasures
+** As a result has low battlefield endurance in ground RB battles, as SAM vehicles are quite prevalent at its BR
+* Radar has difficulty finding and locking aircraft, even in ideal conditions
+** Most enemies have an RWR at this BR, eliminating any surprise from semi-active radar guided missiles (such as the AIM-7D)
+* AIM-7D Sparrow missiles are unreliable and easily dodged
+** Unlike the Soviet R-3R or Matra R.530E, the AIM-7D has a 1 km warm up time where it flies completely straight, only after which it can begin tracking (but if the target is no longer within the missile's sights it will automatically self destruct, requiring the F-4C to lead the missile). This also makes it very unreliable in a short range engagement as the missile often cannot react in time
+* AIM-9B Sidewinder missiles are notoriously poor performing, while the AIM-9Es are below average at this BR
+* Has little utility in a full uptier, as it is heavily outclassed by nearly all other aircraft above 10.0
 
 <br>
 {{Notice|Fun Fact: The {{PAGENAME}}'s air-intake splitters each have 12,500 small holes drilled into them to reduce incoming turbulence and allow the maximum amount of ram air available into the air-intakes for the engines.}}
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 McDonnell Aircraft Corporation began operations in 1939, though it didn't produce any fighter aircraft for the second great war, it did make a name for itself manufacturing aircraft parts for other aircraft. Though the company worked on a prototype twin-engine, single-seat interceptor aircraft, the XP-67 "Bat" (also known as "Moonbat"), the destruction of the prototype due to an engine fire caused the project to be cancelled. However, starting in 1943, McDonnell began developing jet aircraft and successfully produced the FH-1 Phantom during the post-war era.<ref name="Hachette" /> The success of the Phantom prompted other McDonnell aircraft to have similar features such as the dual engines placed forward under the fuselage and exiting just behind the wings, unlike many single-engine jet fighters which ran the rear length of the aircraft and exited out the rear. Follow on aircraft which shared the engine style of the Phantom was the F2H Banshee, F3H Demon and the F-101 Voodoo.<ref name="Hachette" />
 
 Though McDonnell had initial success with the Phantom and Banshee, they started having problems with the Demon, though it was not because of the aircraft itself, however, it was because of the engines it was outfitted with. The aircraft was sound in its construction and aerodynamics. Later after the Westinghouse XJ40 turbojet was replaced with the Allison J71, the Demon saw greater success.<ref name="Hachette" /> The F-101 Voodoo was an excellent performing aircraft which fulfilled its multi-role capability as an interceptor, fighter/bomber and reconnaissance aircraft, however, when going up against Vought Aircraft Company for a contract with the Navy, McDonnell lost out with the F-8 Crusader being the winner<ref name="Joiner" />.
@@ -348,12 +335,11 @@ Some time after the Navy procured the F-4, other branches of the U.S. military a
 The F-4 Phantom II would become one of the most produced and widely used American combat aircraft of the second half of the 20th century. With over 5,100 machines being built, the F-4 Phantom II saw service with several operators around the globe and remained in service until the 1990s, while some still serve to this day. Phantom II is widely known as a symbol of the US campaign in Vietnam, in particular.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=f-4c Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f-4c Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="200">
@@ -372,26 +358,24 @@ File:F 4 phantom news006.jpg
 [[File:Robin_Olds_portrait.jpg|thumb|none|300px|link=User:U64962917#Olds,_Robin.|During the Vietnam war [[User:U64962917#Olds, Robin|Robin Olds]] flew the F-4C and F-4D fighters and failed to claim aircraft kills after #4 to prevent attaining ace status to remain flying in the war as long as possible]]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Aircraft of comparable role, configuration and era
 
-- Mikoyan-Gurevich [[MiG-21 (Family)]]
-- SAAB [[J35D]] Draken
-- Dassault [[Mirage IIIC]]
+* Mikoyan-Gurevich [[MiG-21 (Family)]]
+* SAAB [[J35D]] Draken
+* Dassault [[Mirage IIIC]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6352-development-f-4c-phantom-ii-the-record-breaker-en|[Development] F-4C Phantom II: The Record Breaker]]
-- [https://forum.warthunder.com/index.php?/topic/462647-f-4c-phantom-ii/ Official data sheet - more details about the performance]
-- [https://archive.org/details/t.o.1f4c1flightmanualf4cf4df4e01101970/mode/2up/ Technical Order 1F-4C-1 - Flight Manual for F-4C/F-4D/F-4E Aircraft]
+* [[wt:en/news/6352-development-f-4c-phantom-ii-the-record-breaker-en|[Development] F-4C Phantom II: The Record Breaker]]
+* [https://forum.warthunder.com/index.php?/topic/462647-f-4c-phantom-ii/ Official data sheet - more details about the performance]
+* [https://archive.org/details/t.o.1f4c1flightmanualf4cf4df4e01101970/mode/2up/ Technical Order 1F-4C-1 - Flight Manual for F-4C/F-4D/F-4E Aircraft]
 
 === References ===
 
@@ -404,9 +388,9 @@ File:F 4 phantom news006.jpg
 
 ;Bibliography
 
-- Hachette Partworks LTD. (2019). McDonnell F-4 Phantom II - The Greatest Warplane in the West. (5th ed.). London: Hachette Partworks LTD. ISSN:[https://portal.issn.org/resource/ISSN/2517-259X# 2517-259X]
-- Joiner, Stephen. [https://www.airspacemag.com/military-aviation/what-couldnt-f-4-phantom-do-180953944/ "What Couldn't the F-4 Phantom Do?"], ''Air & Space Magazine'', On-line, March 2015. Retrieved on 27 September 2019.
-- Roblin, Sebastien. [https://nationalinterest.org/blog/buzz/why-you-need-respect-mcdonnell-douglas-f-4-phantom-ii-fighter-52862 "Why You Need to Respect the McDonnell Douglas F-4 Phantom II Fighter"] ''Nationalinterest.org website'', On-line 17 April 2019. Retrieved on 27 September 2019.
+* Hachette Partworks LTD. (2019). McDonnell F-4 Phantom II - The Greatest Warplane in the West. (5th ed.). London: Hachette Partworks LTD. ISSN:[https://portal.issn.org/resource/ISSN/2517-259X# 2517-259X]
+* Joiner, Stephen. [https://www.airspacemag.com/military-aviation/what-couldnt-f-4-phantom-do-180953944/ "What Couldn't the F-4 Phantom Do?"], ''Air & Space Magazine'', On-line, March 2015. Retrieved on 27 September 2019.
+* Roblin, Sebastien. [https://nationalinterest.org/blog/buzz/why-you-need-respect-mcdonnell-douglas-f-4-phantom-ii-fighter-52862 "Why You Need to Respect the McDonnell Douglas F-4 Phantom II Fighter"] ''Nationalinterest.org website'', On-line 17 April 2019. Retrieved on 27 September 2019.
 
 {{AirManufacturer McDonnell}}
 {{USA jet aircraft}}

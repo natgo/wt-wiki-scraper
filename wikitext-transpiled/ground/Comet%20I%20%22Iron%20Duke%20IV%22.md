@@ -10,9 +10,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced during [[Update 1.57 "Battle March"]] as a reward for the [[wt:en/news/3681-special-event-series-chronicles-of-world-war-ii-day-28-faq-added-en|2016 WW2 Chronicles event]]. Armed with a [[Ordnance QF Mk.II (77 mm)|77 mm HV gun]], essentially a 17-pounder with a lower muzzle velocity, it has one of the more powerful guns available for a medium tank at the rating.
 
 The Comet is an excellent medium tank. It has great mobility and acceleration, able to reach 38 km/h very quickly and stay there in full throttle, but its reverse speed is pitiful like the [[Cromwell V|Cromwell's]]. Firepower is also a benefit of the vehicle, especially after the unlocking of the APDS shot, giving it the penetration needed to deal with any threat you might encounter. The drawback of the design is the sub-par armour that can be pretty easily penetrated at BR 5.3. One should take advantage of the Comet's low profile and mobility to hide and manoeuvre from the enemy to catch them at an advantageous angle. The Comet also has a benefit the previous tanks in its branch, the [[Sherman Firefly]], didn't have in the great gun depression. This allows the Comet to more easily fire over hills in an hull-down position to destroy the enemy with the most the best terrain benefit for protection.
@@ -22,13 +20,11 @@ Iron Duke IV was the tank of Lieutenant-Colonel Pat Hobart, commander of the 1st
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (Turret front, Gun mantlet)
+* Rolled homogeneous armour
+* Cast homogeneous armour (Turret front, Gun mantlet)
 
 {| class="wikitable"
 |-
@@ -43,13 +39,12 @@ Iron Duke IV was the tank of Lieutenant-Colonel Pat Hobart, commander of the 1st
 |}
 '''Notes:'''
 
-- Suspension wheels and the tracks are 20 mm thick.
-- There are tracks attached on the turret that provide an extra 20 mm armour where they are attached.
-- The bustle rack on the back of the turret gives an armour rating of 5 mm.
+* Suspension wheels and the tracks are 20 mm thick.
+* There are tracks attached on the turret that provide an extra 20 mm armour where they are attached.
+* The bustle rack on the back of the turret gives an armour rating of 5 mm.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=930|rbMinHp=531}}
@@ -61,9 +56,7 @@ Iron Duke IV was the tank of Lieutenant-Colonel Pat Hobart, commander of the 1st
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|OQF Mk.II (77 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -131,9 +124,7 @@ Iron Duke IV was the tank of Lieutenant-Colonel Pat Hobart, commander of the 1st
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Comet_I.png|right|thumb|x250px|[[Ammo racks]] of the Comet I (identical).]]
-
 <!-- '''Last updated: 2.3.0.85''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -157,8 +148,8 @@ Iron Duke IV was the tank of Lieutenant-Colonel Pat Hobart, commander of the 1st
 |}
 Notes:
 
-- As they are modeled by sets of 2, shells disappear from the rack only after you fire both shells in the set.
-- Right side empty: 25&nbsp;''(+36)'' shells
+* As they are modeled by sets of 2, shells disappear from the rack only after you fire both shells in the set.
+* Right side empty: 25&nbsp;''(+36)'' shells
 
 ==== [[Optics]] ====
 
@@ -185,9 +176,7 @@ With newfound APDS ammunition, you might want to take tank on a test drive to ge
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|BESA (7.92 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -201,9 +190,7 @@ With newfound APDS ammunition, you might want to take tank on a test drive to ge
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 Fighting a tank of the same weight classification is relatively easy, but difficult against the more armoured [[Panther A|Panther]] and [[T-34-85]] tanks. Until the APDS shot can be unlocked, more decisive shots will have to be made to take care of these tanks, the Mk.6 and Mk.8 shot are the preferred ammunition to use. The Panthers should be targeted on the gun mantlet in the front and should be aimed at the gunner to immobilize their firepower and cause crew damage. The T-34-85 is a bit of a hit-or-miss due to the more heavy sloping nature of the armour and the turret. Penetrating through the front hull armour when it is facing directly at you is the best course of action against the T-34-85. Heavy tanks get even more tricky, but easier once the APDS round is unlocked for use. A [[Tiger H1|Tiger I]] is admittedly an easy tank to deal with due to the vertical slope of the armour. Problems arise with the [[IS-2]] tank that may show up, due to their heavy armour and their tendency to absolutely destroy vehicles with their 122 mm gun. Distance is not your friend against this tank, the closer the better for your gun to penetrate the weak spots on its frontal armour. A tough situation, but a survivable one.
 
 For every Comet player that does not have the APDS shells, do not engage in long distance gun fights. You are almost certainly going to lose. So use it first as its intention is, a cruiser tank. Cap point and retreat. If you find yourself in a sticky situation, get as close to the enemy as possible and fire at its side. Conduct the battle in this manner until the APDS is unlocked
@@ -222,45 +209,40 @@ In arcade domination mode where the cap points are arranged perpendicular to the
 In realistic and simulator, the Comet can become sluggish and isn't as fast as in arcade. A suggestion would be to capture the closest cap point, cap it, and then go into hiding. When you go into hiding, take every well placed shot you can and immediately run away from an encounter. You will mainly be facing Tiger IIs, Tiger Is, and Panthers, T-34-85s, rarely Chi-Tos and Chi-Ris. If you encounter them on a one v. one, always be on the move. Move around the other tank and try to hit it from the side (Panthers, Tiger Is, Chi-Tos, and Chi-Ris). If you encounter a Tiger II, slap it across the cheek with a APDS shell and take shoot it through the side. T-34-85 would be easier. You can easily penetrate the frontal armour of the T-34-85. It is just a matter of reaction time.
 
 ===Specific enemies worth noting===
-
 <!--Some concerning vehicles to worry about if playing this tank and how to fight them in an encounter. (i.e. Tiger II - shoot the turret cheeks)-->
-
 All tanks when you do not have APDS shells yet. If you do, it a lot easier. As it has been mention before, when engaging a Tiger II, slap an APDS shell on the right turret cheek to knock out the gunner and finish it off from the side. The hardest tanks to counter are the following:
 
-- [[Tiger I (Family)|Tiger I]]
-- [[Panther (Disambiguation)|Panther]]
-- [[Tiger II (Family)|Tiger II]]
-- [[T-34-85]]
-- [[IS-1]]/[[IS-2]]
+* [[Tiger I (Family)|Tiger I]]
+* [[Panther (Disambiguation)|Panther]]
+* [[Tiger II (Family)|Tiger II]]
+* [[T-34-85]]
+* [[IS-1]]/[[IS-2]]
 
 Although your gun can counter anything within the Comets BR range, you should constantly be aware that one hit from pretty much any gun to the front of the hull will destroy you. In particular, the Soviet 85 mm and German 75/88 mm guns should be taken very seriously. They have plenty of explosive filler. The turret on the Comet has the chance to bounce even the mighty 88 mm gun found on the Tiger I, but only a chance. Your hull won't even protect you from the majority of rank 2 guns, so rank 3 and 4 guns will slice through the Comets armour like butter. Because of this, almost any enemy is dangerous. Even SPAA can be a frontal threat to you. In particular, the [[Wirbelwind]] or the [[Ostwind]] can cause serious damage at close to medium range. Be particularly cautious late in a match when SPAA are more common.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Excellent manoeuvrability and speed - second only by a little to the [[T-34-85 (D-5T)]] and [[Panther D]]
-- Good gun, precise and with good penetration values (vertical armour)
-- Access to APDS shot
-- Great turret armour
-- Low profile
-- Great gun depression
-- 5 crew members
+* Excellent manoeuvrability and speed - second only by a little to the [[T-34-85 (D-5T)]] and [[Panther D]]
+* Good gun, precise and with good penetration values (vertical armour)
+* Access to APDS shot
+* Great turret armour
+* Low profile
+* Great gun depression
+* 5 crew members
 
 '''Cons:'''
 
-- Bad penetration values against sloped armour without APDS
-- Bad gun damage (without APDS), you'll need to aim at the enemy gunner to have a fighting chance
-- The 17-pdr does not have as much penetration as other variants
-- Overall bad armour for its rank,only the turret front has some chance to bounce some hits
-- Awful reverse speed of only -3 km/h (-2 mph)
+* Bad penetration values against sloped armour without APDS
+* Bad gun damage (without APDS), you'll need to aim at the enemy gunner to have a fighting chance
+* The 17-pdr does not have as much penetration as other variants
+* Overall bad armour for its rank,only the turret front has some chance to bounce some hits
+* Awful reverse speed of only -3 km/h (-2 mph)
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 The British experience against the Germans during World War II showed that there were severe deficiencies with their cruiser tanks. The main cruiser tanks in the British inventory was the [[Crusader Mk II|Crusader]] tank, but suffered from a gradually inefficient armament and thin armour. A request was submitted in 1941 to the Nuffield Organization and Leyland Motors Ltd for a heavier cruiser tank that could take on the gradually stronger German tanks, the design was also to use components from the Crusader tanks for economic reasons. This became the A24 Cruiser Tank Mk VII Cavalier tank and the A27L Cruiser tank Mk VII Centaur tank, which are both superseded by the [[Cromwell V|A27M Cruiser Tank Mk VII Cromwell tank]]. The Cromwell ended up as a decent cruiser tank for the British Army, giving great mobility, reliability, and a decent OQF 75 mm gun (or a 6-pounder gun). However, it still had problems, such as being under-gunned against the more armoured German tanks and suspension problems.
 
@@ -274,12 +256,10 @@ The first units to receive the Comet I tank was the British 11th Armoured Divisi
 The Comet I saw service after World War II during the Korean War when it started, serving alongside its to-be successor [[Centurion Mk 3|Centurion tank]]. Though the Centurion was adopted in 1949, the Comet I continued to see service in the British Army until 1958, when it was then decommissioned and sold to foreign countries, which included South Africa, Finland, Ireland, Cuba, and Myanmar. Notable records with the Comet I sales was 41 tanks to Finland, which used them until 1970 and kept them in storage for much longer. In 1959, 4 were sent to Ireland in 1959 and another 4 the following year, the Irish kept them until 1973 before being withdrawn.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a_34_comet_iron_duke Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a_34_comet_iron_duke Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover" heights="200">
@@ -291,19 +271,17 @@ File:GarageImage Iron Duke IV Side.jpg|<small>The "Iron Duke IV" name is inscrib
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/devblog/current/852/|[Devblog] A34 Comet I and A30 Challenger]]
-- [[wikipedia:Comet_(tank)|[Wikipedia] Comet (tank)]]
-- [https://tanks-encyclopedia.com/ww2/gb/a34-cruiser-tank-comet-mark-i <nowiki>[Tanks Encyclopedia]</nowiki> Comet, Cruiser Tank, A34]
+* [[wt:en/devblog/current/852/|[Devblog] A34 Comet I and A30 Challenger]]
+* [[wikipedia:Comet_(tank)|[Wikipedia] Comet (tank)]]
+* [https://tanks-encyclopedia.com/ww2/gb/a34-cruiser-tank-comet-mark-i <nowiki>[Tanks Encyclopedia]</nowiki> Comet, Cruiser Tank, A34]
 
 {{TankManufacturer Leyland}}
 {{Britain medium tanks}}

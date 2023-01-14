@@ -4,22 +4,18 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at \_,**_ m)
+! colspan="2" | Max speed<br>(km/h at _,___ m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -28,10 +24,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-r
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| _** || **\_ || rowspan="2" | {{Specs|ceiling}} || **._ || \_\_._ || **.\_ || **.\_ || rowspan="2" | **_
+| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
 |-
 ! Upgraded
-| _** || **\_ || **._ || \_\_._ || **.\_ || **.\_
+| ___ || ___ || __._ || __._ || __._ || __._
 |-
 |}
 
@@ -42,7 +38,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-r
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || ✓ || ✓ || X <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || ✓ || X     <!-- ✓ -->
 |-
 |}
 
@@ -57,7 +53,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-r
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 1,555 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || N/A || 470 || 463 || ~** || ~**
+| 1,555 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || N/A || 470 || 463 || ~__ || ~__
 |-
 |}
 
@@ -67,7 +63,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-r
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < **_ || < _** || < \_\_\_ || N/A
+| < ___ || < ___ || < ___ || N/A
 |-
 |}
 
@@ -81,7 +77,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-r
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
 |-
 | colspan="2" | Pratt & Whitney F100-PW-220 || 1
-| colspan="2" | 7,690 kg || colspan="2" | \_\_\_ kg/m<sup>2</sup>
+| colspan="2" | 7,690 kg || colspan="2" | ___ kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="3" | Mass with internal fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
@@ -108,9 +104,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-r
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
 
 === Modifications and economy ===
@@ -129,36 +123,32 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-r
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M61A1 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 1 x 20 mm M61A1 cannon, wing root-mounted (512 rpg)
-  ** 1 x 20 mm M61A1 cannon + 60 x countermeasures
+* A choice between two presets:
+** 1 x 20 mm M61A1 cannon, wing root-mounted (512 rpg)
+** 1 x 20 mm M61A1 cannon + 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|LDGP Mk 82 (500 lb)|LDGP Mk 84 (2,000 lb)|BLU-27/B incendiary|FFAR Mighty Mouse}}
 {{main|AGM-65B|AIM-9L Sidewinder|AIM-9P Sidewinder}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- 1 x 300 gal drop tank
-- 2 x AIM-9P Sidewinder missiles
-- 6 x AIM-9P Sidewinder missiles
-- 6 x AIM-9L Sidewinder missiles
-- 19 x 500 lb LDGP Mk 82 bombs (9,500 lb total)
-- 4 x 2,000 lb LDGP Mk 84 bombs (8,000 lb total)
-- 4 x BLU-27/B incendiary bombs
-- 114 x FFAR Mighty Mouse rockets
-- 6 x AGM-65B missiles
+* 1 x 300 gal drop tank
+* 2 x AIM-9P Sidewinder missiles
+* 6 x AIM-9P Sidewinder missiles
+* 6 x AIM-9L Sidewinder missiles
+* 19 x 500 lb LDGP Mk 82 bombs (9,500 lb total)
+* 4 x 2,000 lb LDGP Mk 84 bombs (8,000 lb total)
+* 4 x BLU-27/B incendiary bombs
+* 114 x FFAR Mighty Mouse rockets
+* 6 x AGM-65B missiles
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -195,29 +185,21 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
-
--
+*
 
 '''Cons:'''
-
--
+*
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 By the end of the 1970s, Israel had established itself as the dominant air force in the Levant, having achieved technological superiority over the Soviet-equipped Syrian army - the only adjacent threat remaining after the signing of the peace deal with Egypt. This was mainly thanks to the purchase of F-15s into the Israeli Air Force (IAF) in 1976, which provided both a defensive and offensive umbrella that could not be challenged effectively by the Syrians. Nevertheless, the IAF still had two critical issues with the F-15: its prohibitive cost, and its relative unsuitability for low-altitude bombing, interdiction, and dogfighting. As the pressure mounted to replace the ageing [[F-4E_Phantom_II_(Israel)|F-4E Phantom II]], [[Nesher]] and [[Kfir C.7]], the IAF finally decided to purchase General Dynamics's new F-16 multi-role jet.
 
 Israel received its first four F-16s on July 2nd, 1980 - a mix of F-16A and F-16B fighters (single-seat and two-seat, respectively) - with a total of 75 arriving by the end of 1981. These planes, mostly F-16As from production Block 10, were originally sold to Iran's Shah regime, a US ally since the 1950s; however in 1979 the Islamic Revolution deposed the Shah, marking a significant change in the balance of power in the region and solidifying Israel's status as one of the only remaining trustworthy US allies in the Middle East. Since the planes could no longer be delivered to Iran, they were instead sold to Israel.
@@ -233,32 +215,24 @@ One ''Netz'' in particular - ''Netz #107'' codenamed "Sufa" (Storm) - distinguis
 Israel did at one point attempt to produce its own 4th-generation multi-role fighter to replace the F-16: the ''IAI Lavi''. However pressure from the United States forced the project to be scuttled before production could begin. In compensation for torpedoing the project, the US agreed to provide Israel with 75 F-16C/Ds (codenamed "Barak" in Israel), which were delivered in 1987. Nevertheless, F-16A/Bs remained in IAF service for many years afterwards. In 1994, the United States compensated Israel for staying out of the First Iraq War by supplying it with another 50 surplus F-16A/Bs, most of them from the US National Guard and Air Force Reserves. Most F-16A/Bs in the IAF were eventually upgraded to F-16C/D standards. All ''Netz'' F-16A/Bs were retired from IAF service by around 2015.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-
 ''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer General Dynamics}}
 {{Israel jet aircraft}}

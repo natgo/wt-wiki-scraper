@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese bomber {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]]. The Tupolev SB 20-103U is a mid 30's tactical bomber and is used as such in the game to strike bases or ground targets.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -45,7 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese bomber {{Battle-rating
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -76,9 +73,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese bomber {{Battle-rating
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 This aircraft is lightweight compared to its colleagues such as the [[B-34]] or the [[Martin 167-A3|Maryland]]. It only has 6 mm steel behind the pilot and a poor defensive armament. But the fact that it is lightweight allows the plane to be more fast and manoeuvrable than a lot of 2.3 medium bombers. To survive, you don't especially need to fly in formation, you'll just have to make a detour to get away from main combat. The fuel tanks are located in the wings. There are 2 in each wing, and are self-sealing.
 
 === Modifications and economy ===
@@ -88,39 +83,33 @@ This aircraft is lightweight compared to its colleagues such as the [[B-34]] or 
 {{Specs-Avia-Armaments}}
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|FAB-100sv (100 kg)|FAB-250sv (250 kg)|FAB-500sv (500 kg)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 6 x 100 kg FAB-100sv bombs (600 kg total)
-- 2 x 250 kg FAB-250sv bombs + 6 x 100 kg FAB-100sv bombs (1,100 kg total)
-- 2 x 250 kg FAB-250sv bombs (500 kg total)
-- 4 x 250 kg FAB-250sv bombs (1,000 kg total)
-- 2 x 500 kg FAB-500sv bombs + 2 x 250 kg FAB-250sv bombs (1,500 kg total)
-- 1 x 500 kg FAB-500sv bomb (500 kg total)
-- 3 x 500 kg FAB-500sv bombs (1,500 kg total)
-- 1 x 500 kg FAB-500sv bomb + 2 x 250 kg FAB-250sv bombs (1,000 kg total)
+* 6 x 100 kg FAB-100sv bombs (600 kg total)
+* 2 x 250 kg FAB-250sv bombs + 6 x 100 kg FAB-100sv bombs (1,100 kg total)
+* 2 x 250 kg FAB-250sv bombs (500 kg total)
+* 4 x 250 kg FAB-250sv bombs (1,000 kg total)
+* 2 x 500 kg FAB-500sv bombs + 2 x 250 kg FAB-250sv bombs (1,500 kg total)
+* 1 x 500 kg FAB-500sv bomb (500 kg total)
+* 3 x 500 kg FAB-500sv bombs (1,500 kg total)
+* 1 x 500 kg FAB-500sv bomb + 2 x 250 kg FAB-250sv bombs (1,000 kg total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|ShKAS (7.62 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 2 x 7.62 mm ShKAS machine gun, nose turret (960 rpg = 1,920 total)
-- 1 x 7.62 mm ShKAS machine gun, dorsal turret (1,920 rpg)
-- 1 x 7.62 mm ShKAS machine gun, ventral turret (500 rpg)
+* 2 x 7.62 mm ShKAS machine gun, nose turret (960 rpg = 1,920 total)
+* 1 x 7.62 mm ShKAS machine gun, dorsal turret (1,920 rpg)
+* 1 x 7.62 mm ShKAS machine gun, ventral turret (500 rpg)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 '''Arcade Battles:'''
 
 This bomber is quite fast for its BR so you should use this as an advantage. For example, you should climb directly at the beginning of the match to 5,000 m and destroy the enemy bases with setup 5 (2 x 250 kg + 2 x 500 kg) which is the heaviest payload you'll have with this plane.
@@ -165,58 +154,51 @@ If you are flying an interceptor/heavy fighter with great firepower and/or prote
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Adequate speed for a bomber, allowing it to get to targets quickly
-- Great turn rate allows it to change direction quickly, or to even dodge attacks
-- Nice payload allows it to finish off a base in one go, or destroy tanks / pillboxes easily
-- Great defensive firepower at the tail (2 x 7.62 mm MGs) with fast rate of fire, good trajectory and plenty of ammo allows it to deal with enemies on its six effectively
+* Adequate speed for a bomber, allowing it to get to targets quickly
+* Great turn rate allows it to change direction quickly, or to even dodge attacks
+* Nice payload allows it to finish off a base in one go, or destroy tanks / pillboxes easily
+* Great defensive firepower at the tail (2 x 7.62 mm MGs) with fast rate of fire, good trajectory and plenty of ammo allows it to deal with enemies on its six effectively
 
 '''Cons:'''
 
-- Defensive guns don't cover the belly and the sides well, and are quite light against fighters such as [[Bf 109 E-1]] or [[Ki-61 (Family)|Ki-61]]
-- Crew and important parts (e.g. fuel tank, engines, coolers) lack protection, increasing the chance of being pilot-sniped or critically damaged
-- In Simulator, it is extremely hard to control. No matter how precisely you trim, it will always automatically pitch up and down. Also when switching to gunner view, it will roll, causing a death spin.
+* Defensive guns don't cover the belly and the sides well, and are quite light against fighters such as [[Bf 109 E-1]] or [[Ki-61 (Family)|Ki-61]]
+* Crew and important parts (e.g. fuel tank, engines, coolers) lack protection, increasing the chance of being pilot-sniped or critically damaged
+* In Simulator, it is extremely hard to control. No matter how precisely you trim, it will always automatically pitch up and down. Also when switching to gunner view, it will roll, causing a death spin.
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 Although historically Sino-Russian relations (ROC and USSR at the time) were not good, right after the invasion of Japanese, on 21st August 1937, the Sino-Soviet Non-Aggression Pact (中蘇互不侵犯條約) was signed for supplies of weaponry from the Soviet Union; the Tupolev SB bombers were among the equipment received. The first batches of them were received in Lanzhou (蘭州, now the capital of Gansu Province) by the 1st Squadron, National Revolutionary Air Force (later ROCAF); these bombers were used in the first bombing operations against the Japanese in early 1938 along with Soviet Voluntary Air Force on Taipei's Songshan Airfield. There were also later deliveries to the NRAF in 1939 and 1940 which joined some of the major battles against Japanese forces. Spare parts for the SB also became the basis for the "XB-3" (轟研三式轟炸機) domestic design, but structural issues hindered further development.
 
 After the introduction of [[B-25J-30 (China)|B-25]] to NRAF in 1943, the SB bombers were soon phased.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=sb_2m_103u_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=sb_2m_103u_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Aircraft of comparable role, configuration and era
 
-- Martin [[B-10B]]
-- [[Martin 139WC]]
-- Fiat [[BR.20 DR]]
-- [[Martin 167-A3]] Maryland
-- Mitsubishi [[Ki-21-Ia]]
-- Heinkel [[He 111 H-3]]
+* Martin [[B-10B]]
+* [[Martin 139WC]]
+* Fiat [[BR.20 DR]]
+* [[Martin 167-A3]] Maryland
+* Mitsubishi [[Ki-21-Ia]]
+* Heinkel [[He 111 H-3]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer Tupolev}}
 {{China bombers}}

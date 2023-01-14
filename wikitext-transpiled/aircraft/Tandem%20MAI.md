@@ -4,15 +4,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.77 "Advancing Storm"]] during the [[wt:en/news/5453--en|2018 Chronicles of World War II]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 Tandem MAI is a tricky plane to learn at first; it has the speed to match most enemy fighters that it will face at the battle rating, but the manoeuvrability of the aircraft does not make it a great dogfighter. It can make small short turns to the side (a few degrees) but after a while it will have lost a lot of its speed, become heavy, and turning will be a slightly harder task to do which ruins its decent manoeuvrability fast. The climbing of the Tandem MAI is not the greatest but since it is given an attacker spawn so much climbing is not needed to be done for it. It can dive excellently and get out of dives easily.
@@ -42,7 +39,7 @@ Tandem MAI is a tricky plane to learn at first; it has the speed to match most e
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -57,7 +54,7 @@ Tandem MAI is a tricky plane to learn at first; it has the speed to match most e
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 448 || 419 || 270 || ~** || ~**
+| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 448 || 419 || 270 || ~__ || ~__
 |-
 |}
 
@@ -67,13 +64,12 @@ Tandem MAI is a tricky plane to learn at first; it has the speed to match most e
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 350 || < 340 || < 340 || > \_\_\_
+| < 350 || < 340 || < 340 || > ___
 |-
 |}
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
 Tandem MAI has an 8.5 mm steel plate on the backrest for the pilot and not anywhere else on the aircraft. This exposes the engine to be prone to getting shot out by enemy fire from the ground and air. It also leaves a lot of the internal structure exposed to damage, but even with the lack of armour plates and general armour, the Tandem MAI can take a heavy beating and still be fine to fly around with. One drawback with the Tandem's armour and survivability is the gunner is exposed to enemy fire from any angle. The gunner cupola and the area of plane where the gunner is placed not having any sort of protection makes the gunner survivability low. Its fuel tanks are self-sealing, and have a neutral gas pressurization system. Both fuel tanks are located in front of the pilot.
@@ -85,14 +81,12 @@ Tandem MAI has an 8.5 mm steel plate on the backrest for the pilot and not anywh
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|ShKAS (7.62 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 7.62 mm ShKAS machine guns, wing-mounted (600 rpg = 2,400 total)
+* 4 x 7.62 mm ShKAS machine guns, wing-mounted (600 rpg = 2,400 total)
 
 The Tandem MAI has four 7.62 mm ShKAS machine guns comparable to the I-16 and the I-153 in terms of firepower. The ShKAS have a high rate of fire and with four of them, they will make quick work of any enemy planes the Tandem MAI will face.
 
@@ -104,32 +98,27 @@ Stealth Belt are also a great recommendation, as a well-planned surprise attack 
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|FAB-50sv (50 kg)|FAB-100sv (100 kg)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 50 kg FAB-50sv bombs (100 kg total)
-- 2 x 100 kg FAB-100sv bombs (200 kg total)
+* Without load
+* 2 x 50 kg FAB-50sv bombs (100 kg total)
+* 2 x 100 kg FAB-100sv bombs (200 kg total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|ShKAS (7.62 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 1 x 7.62 mm ShKAS machine gun, tail turret (700 rpg)
+* 1 x 7.62 mm ShKAS machine gun, tail turret (700 rpg)
 
 Defensive armament on the Tandem MAI is a single [[ShKAS (7.62 mm)]] gun that is in a cupola on the furthest back on the plane with a exposed gunner which makes it important to have a relative good gunner crew for it with preferably high vitality, fire accuracy and fire precision. The ShKAS defensive turret get three sets of belt to pick from Default, Armoured Targets and Universal belt. It is recommended to use the Universal belt to easily down enemy planes.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 Tandem MAI is an excellent interceptor aircraft with an air spawn it can intercept most enemy fighters before they achieve the altitude to be out of its reach. Four 7.62 mm ShKAS to overpower the enemy slower rate of fire machine guns with its own high rate of fire makes it an excellent head on vehicle but comes with the high risk of getting its engine get shot out or damaged that will force you to return for a repair.
@@ -156,28 +145,26 @@ Ground attacking is not out of the picture for it but with a low capacity of bom
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Good manoeuvrability and decent acceleration over 250 km/h
-- Has a tail gunner to ward off enemy aircraft
-- Gunner has quite a big area of fire
-- Gunner can fire directly up
-- 4 x ShKAS machine guns can shred enemy aircraft of similar rank when equipped with tracers
-- Large amount of ammunition for offensive machine guns
-- Has a bombsight, despite being an attacker
-- Internal bomb bay means no drag is created by the bombs if carried
+* Good manoeuvrability and decent acceleration over 250 km/h
+* Has a tail gunner to ward off enemy aircraft
+* Gunner has quite a big area of fire
+* Gunner can fire directly up
+* 4 x ShKAS machine guns can shred enemy aircraft of similar rank when equipped with tracers
+* Large amount of ammunition for offensive machine guns
+* Has a bombsight, despite being an attacker
+* Internal bomb bay means no drag is created by the bombs if carried
 
 '''Cons:'''
 
-- The twin vertical stabilizers are two blind spots in rear gunner's field of fire
-- Bleeds decent amount of speed trying to manoeuvre
-- Poor payloads
+* The twin vertical stabilizers are two blind spots in rear gunner's field of fire
+* Bleeds decent amount of speed trying to manoeuvre
+* Poor payloads
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The '''{{PAGENAME}}''', also known as the MAI Sh-Tandem of Sh-MAI, was an experimental ground attack aircraft designed during the late-1930s by Pyotr Dmitrievich Grushin (1906-1993) at the Moscow Aviation Institute (MAI). An alternative way of thinking in the development of the ''Shturmovik'' or ground attack/light bomber plane, the Tandem MAI featured an unusual front- and back-wing configuration, with the stabilizers being nearly as large as the wings themselves, and providing 45% of the lift. This had the advantage of creating an aircraft with a center of gravity which was further aft than with conventional aircraft, allowing ordnance to be installed in the main fuselage. The aircraft unusually also had elevons: both the front- and rear wing were equipped with combined aileron/elevators.
@@ -191,27 +178,23 @@ The first prototype was built as a single-seat unarmed concept tester, which sho
 A third prototype was built with a number of improvements, such as a different installation of a structurally strengthened front wing to improve take-off performance. However, by this time interest in the Tandem MAI had waned, especially given its armament of four fixed and one trainable ShKAS machine guns and 200 kg of ordnance was seen as insufficient for future attack aircraft. Accordingly, all further development of the MAI Tandem was halted.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=tandem_mai Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=tandem_mai Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|INb9VjLxKf0|'''Most unusual aircraft''' discusses the {{PAGENAME}} at 6:43 - ''War Thunder Official Channel''|WA3jQgZLjAg|'''The Shooting Range #94''' - ''Pages of History'' section at 09:41 discusses the {{PAGENAME}}.}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer MAI}}
 {{USSR strike aircraft}}

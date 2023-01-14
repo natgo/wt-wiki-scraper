@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian fighter {{Battle-rating}}. It was introduced in [[Update 1.85 "Supersonic"]].
 
 The Re.2001 CB is a modification of the [[Re.2001 serie 1]] into a fighter-bomber. The changes consist of bomb racks and bulletproof glass, which introduce minor performance penalties but make the aircraft much more useful against ground vehicles. The CB is a good choice for mixed battles, where its 250 kg and 100 kg bombs can do considerable damage against low rank vehicles.
@@ -19,7 +17,6 @@ The Re.2001 CB is a modification of the [[Re.2001 serie 1]] into a fighter-bombe
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 The Re.2001 CB's performance is generally similar to the Re.2001 serie 1. The top speed and climb rate are slightly worse owing to the weight of the new features. But the general characteristics of the serie 1 still apply. It is a fairly well rounded aircraft with good turning capabilities and average to below-average speed. The climb rate, roll rate, and energy retention are all decent.
@@ -51,7 +48,7 @@ Despite using the same RC.41 engine as the [[C. 202]], the Re.2001 suffers from 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -96,7 +93,6 @@ Despite using the same RC.41 engine as the [[C. 202]], the Re.2001 suffers from 
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured. Describe the armour, if there is any, also mention the vulnerability of other critical aircraft systems.'' -->
 
 *8 mm Steel - Pilot's seat
@@ -115,15 +111,13 @@ The Re.2001 CB now has fairly thick bulletproof glass to protect the pilot from 
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Breda-SAFAT (12.7 mm)|Breda-SAFAT (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 12.7 mm Breda-SAFAT machine guns, nose-mounted (350 rpg = 700 total)
-- 2 x 7.7 mm Breda-SAFAT machine guns, wing-mounted (600 rpg = 1,200 total)
+* 2 x 12.7 mm Breda-SAFAT machine guns, nose-mounted (350 rpg = 700 total)
+* 2 x 7.7 mm Breda-SAFAT machine guns, wing-mounted (600 rpg = 1,200 total)
 
 The Re.2001 has typical armament for an early Italian fighter. The twin 12.7 mm heavy machine guns are underwhelming, generally considered the second worst heavy machine guns in the game. They have very poor ballistics and a mediocre rate of fire, being incapable of dealing serious damage outside of 300-400 m. Their one redeeming quality is the availability of AP-I rounds. For best results, use the Air Targets belt, engage targets at close range, and lead generously.
 
@@ -131,22 +125,19 @@ The 7.7 mm machine guns are nothing special and are unlikely to take any target 
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|GP 50 (50 kg)|GP 100T (100 kg)|GP 250 (250 kg)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 1 x 250 kg GP 250 bomb (250 kg total)
-- 1 x 250 kg GP 250 bomb + 2 x 50 kg GP 50 bombs (350 kg total)
-- 1 x 250 kg GP 250 bomb + 2 x 100 kg GP 100T bombs (450 kg total)
+* Without load
+* 1 x 250 kg GP 250 bomb (250 kg total)
+* 1 x 250 kg GP 250 bomb + 2 x 50 kg GP 50 bombs (350 kg total)
+* 1 x 250 kg GP 250 bomb + 2 x 100 kg GP 100T bombs (450 kg total)
 
 The Re.2001 CB was designed to carry bombs and it does a good job in this regard. It actually carries a heavier maximum bomb load than the contemporary [[F.C.20 Bis]] twin-engined attacker. The 250 kg bomb has good explosive effects and is sufficient for destroying at least a single tank in combined battles, perhaps more if they are lightly armoured and closely bunched together. The 100 kg bombs require some more precision but are still large enough to be useful, especially against soft targets. The 50 kg bombs should be avoided as they will require almost a direct hit to destroy armoured vehicles.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The Re.2001 CB can be used in air battles as a fighter since it does not differ greatly from the original Re.2001. In this role, it should be primarily used against other fighters as opposed to hunting bombers or heavy twin-engined fighters because of its lacklustre guns. It is best to drag opponents into extended engagements since it is unlikely that the Re.2001 will be able to destroy a target in one pass.
@@ -181,26 +172,24 @@ The Re.2001 CB is the most useful in Ground RB, where its good bombload can fina
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Nose-mounted 12.7 mm offensive guns
-- Decent climb rate
-- Has secondary loadouts, good for mixed battles
-- Decent armour protection
-- Good turn rate especially with flaps
+* Nose-mounted 12.7 mm offensive guns
+* Decent climb rate
+* Has secondary loadouts, good for mixed battles
+* Decent armour protection
+* Good turn rate especially with flaps
 
 '''Cons:'''
 
-- Subpar firepower
-- Outclassed by many of its opponents
-- Bad control stiffening at high speed (500+ km/h)
-- Engine overheats quickly
+* Subpar firepower
+* Outclassed by many of its opponents
+* Bad control stiffening at high speed (500+ km/h)
+* Engine overheats quickly
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The [[Re.2000 serie 1|Re.2000]] "Falco I" was the Reggiane company's first successful fighter design. Taking some design notes from the Seversky P-35, the Re.2000 was a very capable design compared to other early Italian fighters like the Macchi [[C. 200 serie 3|C. 200]]. It did have several issues: the wing mounted fuel tanks were not self sealing and the engine was unreliable. In light of this, the Regia Aeronautica declined to order the Re.2000 for mass production and it was largely produced for export.
@@ -217,33 +206,28 @@ The few Re.2001s that survived World War II were largely scrapped in the postwar
 A contemporary of the C.202 with the same engine and armament, the Re.2001 is not as famous in the present day as the Folgore. Much of this is due to its smaller production numbers and limited role in World War II. Only 237 Re.2001s were produced compared to over 1,000 C.202s and they were all deployed close to Italy. Its combat records show that it was still a formidable aircraft and a close match to the early Spitfires, especially in the hands of skilled pilots. Despite being a clean-sheet design, the Re.2005 "Sagittario" can be seen as the successor to the Re.2001 with similar aerodynamic features. Though the Sagittario was even harder to produce than the Re.2001, it had fantastic performance and could compete with the finest wartime Allied aircraft on equal terms.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=re_2001_cb Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=re_2001_cb Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|uCO0chq-xcw|'''The Shooting Range #186''' - ''Pages of History'' section at 04:10 discusses the Re.2001.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
-- [[Re.2001 (Family)]]
+* [[Re.2001 (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/436314-re-2001-cb/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/436314-re-2001-cb/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Reggiane}}
 {{Italy fighters}}

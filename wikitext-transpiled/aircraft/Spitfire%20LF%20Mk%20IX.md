@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British fighter {{Battle-rating}}. It was introduced in [[Update 1.35]].
 
 The Spitfire LF Mk IX is very much a short range, point interceptor fighter and the stand out fighter in the mid Spitfire line-up. It features an exceptional rate of climb, whilst still retaining the manoeuvrability of its early lineage. The LF Mk IX is considered by most to be the perfect Spitfire due to its balanced all round performance and impressive statistics. The last of the Merlin-engined Spitfires before progressing on to the Griffon powered variants, it has the perfect balance of turning performance (second only to its Japanese counterparts) as well as its "Boom and Zoom" capability that becomes more possible with later model Spitfires.
@@ -19,7 +17,6 @@ The Spitfire LF Mk IX is very much a short range, point interceptor fighter and 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -47,7 +44,7 @@ The Spitfire LF Mk IX is very much a short range, point interceptor fighter and 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || X || ✓ || X || X <!-- ✓ -->
+| X || X || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -93,14 +90,13 @@ The Spitfire LF Mk IX is very much a short range, point interceptor fighter and 
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 38 mm Bulletproof glass in the cockpit front.
-- 4 mm Steel plate in the pilot's seat.
-- 6-7 mm Steel plates behind the pilot.
-- 3 mm Steel plate on top of the fuel tanks.
-- 3 mm Steel boxes around the wing ammunition.
+* 38 mm Bulletproof glass in the cockpit front.
+* 4 mm Steel plate in the pilot's seat.
+* 6-7 mm Steel plates behind the pilot.
+* 3 mm Steel plate on top of the fuel tanks.
+* 3 mm Steel boxes around the wing ammunition.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -109,32 +105,26 @@ The Spitfire LF Mk IX is very much a short range, point interceptor fighter and 
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Hispano Mk.II (20 mm)|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 20 mm Hispano Mk.II cannons, wing-mounted (135 rpg = 270 total)
-- 2 x 12.7 mm M2 Browning machine guns, wing-mounted (260 rpg = 520 total)
+* 2 x 20 mm Hispano Mk.II cannons, wing-mounted (135 rpg = 270 total)
+* 2 x 12.7 mm M2 Browning machine guns, wing-mounted (260 rpg = 520 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AN-M57 (250 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 1 x 250 lb AN-M57 bomb (250 lb total)
+* Without load
+* 1 x 250 lb AN-M57 bomb (250 lb total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Spitfire LF Mk IX is a fighter aircraft that excels in dogfighting thanks to its high manoeuvrability. It is able to outturn nearly every other plane that it might face, except for a few Japanese fighters. However, engaging in extended turnfights usually should not be the pilot's first course of action when facing an opponent. Instead, the pilot should use the Spitfire's incredible rate of climb to gain an altitude advantage over the enemy. Then, it's easy to boom and zoom over lower-energy targets. This strategy works well thanks to the plane's good energy retention, although its lacklustre guns sometimes makes high-speed shooting unreliable.
 
 If an altitude advantage is not possible, then the aircraft's manoeuvrability can shine. If the enemy can be lured into a turnfight, then there is almost no chance that they can come out on top. In rolling scissors manoeuvres, the Spitfire is also quite capable, but its roll rate may be lacking against some opponents.
@@ -171,31 +161,29 @@ Radiator: as soon as you unlock the radiator module you can set this to 30% and 
 Supercharger: Switching this at 2,000 m (6,561 ft) will give you quite a boost in performance and it will retain its climbrate up until 4,500 m, after it will suffer miserably but still climb better than almost every plane. Therefore the supercharger gears should be switched at 2 km (6,561 ft) altitude
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Supreme rate of climb that will rival that of the later Griffon Spitfires and most late war props (46.7 m/s in AB, 31.8m/s in RB/SB when maxed out, beating the F8F-1B at altitudes below 7 km)
-- Excellent acceleration from a standing start due to the boost configuration
-- Exceptional manoeuvrability at all altitudes
-- Decent energy retention.
-- M2 Browning .50 cal machine guns are more powerful than the old .303 Brownings
-- Has access to 150 Octane Fuel will increase your engine power by a large margin
+* Supreme rate of climb that will rival that of the later Griffon Spitfires and most late war props (46.7 m/s in AB, 31.8m/s in RB/SB when maxed out, beating the F8F-1B at altitudes below 7 km)
+* Excellent acceleration from a standing start due to the boost configuration
+* Exceptional manoeuvrability at all altitudes
+* Decent energy retention.
+* M2 Browning .50 cal machine guns are more powerful than the old .303 Brownings
+* Has access to 150 Octane Fuel will increase your engine power by a large margin
 
 '''Cons:'''
 
-- Tendency to break wings its during high speed manoeuvres
-- Sub average roll rate can make the plane suffer in tight scissors
-- Limited dive rate, moderate parasitic drag
-- Limited ammo capacity
-- Due to high wing loading, even slight damage to the wings can impact performance negatively
-- Poor top speed due to high parasitic drag compared to engine power
-- Since it is an 'LF (low-altitude fighter)' Spitfire, this Spitfire's performance suffers at high altitude
-- Poor ground attack capatibility
+* Tendency to break wings its during high speed manoeuvres
+* Sub average roll rate can make the plane suffer in tight scissors
+* Limited dive rate, moderate parasitic drag
+* Limited ammo capacity
+* Due to high wing loading, even slight damage to the wings can impact performance negatively
+* Poor top speed due to high parasitic drag compared to engine power
+* Since it is an 'LF (low-altitude fighter)' Spitfire, this Spitfire's performance suffers at high altitude
+* Poor ground attack capatibility
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -207,35 +195,30 @@ A total of 5,665 Mk IX were produced and 262 more Mk Vs were converted to Mk IX.
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=spitfire_ix Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=spitfire_ix Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|MNacjyimuCQ|'''The Shooting Range #95''' - ''Metal Beasts'' section at 01:57 discusses the Spitfire LF Mk IX.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other late Merlin-engine LF variant Spitfires
-
-- [[Spitfire LF Mk IXc (USA)]]
-- [[Plagis' Spitfire LF Mk IXc]]
-- [[Spitfire LF Mk.IX Weizman's (Israel)]]
+* [[Spitfire LF Mk IXc (USA)]]
+* [[Plagis' Spitfire LF Mk IXc]]
+* [[Spitfire LF Mk.IX Weizman's (Israel)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/341985-supermarine-spitfire-lfmkixce/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/341985-supermarine-spitfire-lfmkixce/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Supermarine}}
 {{Britain fighters}}

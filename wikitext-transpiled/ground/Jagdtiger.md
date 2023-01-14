@@ -1,12 +1,10 @@
 {{Specs-Card
 |code=germ_panzerjager_tiger
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 186''') is a rank {{Specs|rank}} German tank destroyer {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41.
 
 The Jagdtiger is a heavy tank destroyer, designed to take out targets from a distance, this is shown as in-game the tank truly shines at long range combat where manoeuvrability and weak spots don't become as much as a threat, but the biggest benefit for long-range firing is the 128 mm PaK44 L/55 main cannon, this gun can pierce over 200 mm of non-sloped armour at 2,000 m with APCBC rounds. The PaK44 was the largest anti-tank weapon in service during World War II, nothing rivalled its penetrating capability nor its combat range, and it was easily capable of taking out any fielded allied tank in a single hit. As it was essentially a modification of a naval gun, the ammunition was still 2-part (shot and charge) and could be fired with less charge for close range high explosive shells.
@@ -16,9 +14,7 @@ At mid-long range is invincible versus APHE & the majority of HESH ammunition, o
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
 *Rolled homogeneous armour
@@ -35,13 +31,12 @@ At mid-long range is invincible versus APHE & the majority of HESH ammunition, o
 |}
 '''Notes:'''
 
-- The frontal armour of the tank is almost impossible to defeat, only the sides and rear are vulnerable.
-- The lower glacis is pretty vulnerable, but a hulldown position can circumvent it.
-- The superstructure side is covered with tracks, which provides another 30 mm extra armour to the sides.
+* The frontal armour of the tank is almost impossible to defeat, only the sides and rear are vulnerable.
+* The lower glacis is pretty vulnerable, but a hulldown position can circumvent it.
+* The superstructure side is covered with tracks, which provides another 30 mm extra armour to the sides.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=994|rbMinHp=619}}
@@ -53,9 +48,7 @@ At mid-long range is invincible versus APHE & the majority of HESH ammunition, o
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|PaK44 (128 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -115,9 +108,7 @@ At mid-long range is invincible versus APHE & the majority of HESH ammunition, o
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -134,13 +125,11 @@ At mid-long range is invincible versus APHE & the majority of HESH ammunition, o
 |}
 '''Note''':
 
-- The {{PAGENAME}} uses two-piece ammunition, composed of propellant bags (orange) and projectiles (yellow). Both have separate racks.
+* The {{PAGENAME}} uses two-piece ammunition, composed of propellant bags (orange) and projectiles (yellow). Both have separate racks.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|MG34 (7.92 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -154,7 +143,6 @@ At mid-long range is invincible versus APHE & the majority of HESH ammunition, o
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 Inherent as any other tank destroyer: limit the avenues of approach for your enemies with either obstacles or distance and try to pick off targets one-on-one and not several at the same time. Despite its heavy armour, the Jagdtiger should retreat after every shot, if the opposition possesses weapons with penetration defeating 180 mm of armour, or else the lower plate will provide a big target. Make sure to take each corner with plenty of momentum though, if an enemy destroys the tracks or transmission during a turn, the remaining momentum will carry the Jagdtiger into a firing position or to safety.
@@ -171,56 +159,54 @@ Due to the potency of the 128 mm APHE shell, specific modules must not be a targ
 
 '''RB/SB'''
 
-_[[IS-3]]: Shoot the pike, albeit it can be difficult to get through if it is angled straight forward. A trapshot is also quite possible, as long as you can richochet a shell of of the gun mantlet and into the turret.
-_[[IS-6]]: Shoot the right side of the turret beside the gun, where there are 2 "dots" and a relatively flat surface. You will be able to penetrate this area most of the time.
-_<span style="color:red">&#9760;[[SU-122-54]]</span>: Anywhere, except try to avoid the gun mantle. No noteworthy armour, but it has a dangerous gun.
-_[[T-44]]: The frontal chassis can be very trolly with its ricochets. Turret and lower glacis nearly guaranteed a penetration and knocking them out instantly.
-_T-54s & <span style="color:red">&#9760;[[T-54 (1951)]]</span>: All can be penetrated through the turret front (left and right of gun mantlet) from closer than 500 m. Except for the [[T-54 (1947)]] the Jagdtiger may also shoot the chassis' armour plate if it is pointed straight toward the Jagdtiger. Or just shoot the cupola and let the 700 grams of TNT equivalent do the rest
-_<span style="color:red">&#9760;[[M47]]</span>: Pretty much anywhere.
-_<span style="color:red">&#9760;</span>Any [[M48A1]]: Lot's of sloped armour. Frontally the commander's cupola can be picked, the turret ring, or gun mantlet.
-_<span style="color:red">&#9760;[[M60]]</span>: Basically just a better M48. Shoot it as if it is an M48, especially the commander's cupola
-_<span style="color:red">&#9760;[[T95]]</span>: Albeit a rare sight, the few specimens encountered are driven by madmen, or masochist. Either way, both tend to have a good understanding of enemy weak points. Inside 500 m the T95's stock AP shell can penetrate the upper and lower frontal plate and the APCR can pierce the superstructure, but not the chassis. Fortunately, the raw armour strength limits shrapnel power and penetrated shots will do minor area damage in the spacious crew compartment. Damage can be avoided entirely by staying at distances exceeding 500 m.<br>The T95's armour is in all due respect superior to the Jagdtiger, yet features two protruding weak spots: The two cupolas, hitting them is another issue though. Combat should be engaged in ranges less than 500 m, beyond that accuracy will not allow aiming for weak spots.
-_<span style="color:red">&#9760;[[M103]]</span>: So much sloped armour. Try to shoot into the turret trap (lower gun mantlet) or the turret ring.
-_[[Panzer V Panther (Family)|Panther]] / [[M26 (Family)|Pershing]] / [[M46]]: Entire front is penetrable.
-_[[Tiger II (H)]]: Right turret cheek to disable the turret for a safe reload. Alternatively, the lower glacis to get the transmission and a chance to knock out the entire crew.
-_[[Maus]]: Turret cheeks, multiple hits will be necessary. If possible a shot into either the fuel tanks or chassis ammo rack for the 12,8 cm cannon should destroy the behemoth with a single shot.
-_[[Jagdtiger]]: The lower plate is a good place to shoot. Make sure to hit at a good angle as the APBC can still bounce. Also, the flat parts of the superstructure when not angle work at close range. \*<span style="color:red">&#9760;[[Leopard I|Leopard]]</span>: Shoot it anywhere. Don't miss.
+*[[IS-3]]: Shoot the pike, albeit it can be difficult to get through if it is angled straight forward. A trapshot is also quite possible, as long as you can richochet a shell of of the gun mantlet and into the turret.
+*[[IS-6]]: Shoot the right side of the turret beside the gun, where there are 2 "dots" and a relatively flat surface. You will be able to penetrate this area most of the time.
+*<span style="color:red">&#9760;[[SU-122-54]]</span>: Anywhere, except try to avoid the gun mantle. No noteworthy armour, but it has a dangerous gun.
+*[[T-44]]: The frontal chassis can be very trolly with its ricochets. Turret and lower glacis nearly guaranteed a penetration and knocking them out instantly.
+*T-54s & <span style="color:red">&#9760;[[T-54 (1951)]]</span>: All can be penetrated through the turret front (left and right of gun mantlet) from closer than 500 m. Except for the [[T-54 (1947)]] the Jagdtiger may also shoot the chassis' armour plate if it is pointed straight toward the Jagdtiger. Or just shoot the cupola and let the 700 grams of TNT equivalent do the rest
+*<span style="color:red">&#9760;[[M47]]</span>: Pretty much anywhere.
+*<span style="color:red">&#9760;</span>Any [[M48A1]]: Lot's of sloped armour. Frontally the commander's cupola can be picked, the turret ring, or gun mantlet.
+*<span style="color:red">&#9760;[[M60]]</span>: Basically just a better M48. Shoot it as if it is an M48, especially the commander's cupola
+*<span style="color:red">&#9760;[[T95]]</span>: Albeit a rare sight, the few specimens encountered are driven by madmen, or masochist. Either way, both tend to have a good understanding of enemy weak points. Inside 500 m the T95's stock AP shell can penetrate the upper and lower frontal plate and the APCR can pierce the superstructure, but not the chassis. Fortunately, the raw armour strength limits shrapnel power and penetrated shots will do minor area damage in the spacious crew compartment. Damage can be avoided entirely by staying at distances exceeding 500 m.<br>The T95's armour is in all due respect superior to the Jagdtiger, yet features two protruding weak spots: The two cupolas, hitting them is another issue though. Combat should be engaged in ranges less than 500 m, beyond that accuracy will not allow aiming for weak spots.
+*<span style="color:red">&#9760;[[M103]]</span>: So much sloped armour. Try to shoot into the turret trap (lower gun mantlet) or the turret ring.
+*[[Panzer V Panther (Family)|Panther]] / [[M26 (Family)|Pershing]] / [[M46]]: Entire front is penetrable.
+*[[Tiger II (H)]]: Right turret cheek to disable the turret for a safe reload. Alternatively, the lower glacis to get the transmission and a chance to knock out the entire crew.
+*[[Maus]]: Turret cheeks, multiple hits will be necessary. If possible a shot into either the fuel tanks or chassis ammo rack for the 12,8 cm cannon should destroy the behemoth with a single shot.
+*[[Jagdtiger]]: The lower plate is a good place to shoot. Make sure to hit at a good angle as the APBC can still bounce. Also, the flat parts of the superstructure when not angle work at close range.
+*<span style="color:red">&#9760;[[Leopard I|Leopard]]</span>: Shoot it anywhere. Don't miss.
 
 '''Arcade'''
 
-_[[IS-4M]]: The drives hatch is hard to get through with the tiny hole behind the additional armour. More favourable is the lower plate, or the gun mantlet on his left side.
-_<span style="color:red">&#9760;[[T-10M]]</span>: Shoot the lower glacis when not angled, or shoot the cupolas with HE.
+*[[IS-4M]]: The drives hatch is hard to get through with the tiny hole behind the additional armour. More favourable is the lower plate, or the gun mantlet on his left side.
+*<span style="color:red">&#9760;[[T-10M]]</span>: Shoot the lower glacis when not angled, or shoot the cupolas with HE.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Shares the same hull as the Tiger II, so the upper glacis plate is still very tough
-- The front of the superstructure is very difficult to get through with anything less than APDS or HEAT
-- With its 6-man crew and thick armour, it's difficult to knock out this tank with a single shot
-- Totally and utterly impenetrable gun mantlet, even better than the T95's one
-- 128 mm PaK 44 cannon is an accurate cannon with a surprisingly short reload time. It takes 20 seconds to reload with a decent crew. That is not bad considering the size and weight of the projectile that this gun fires
-- PzGr 43 round has one of the highest penetrations of any APCBC round in the game
-- Both the stock PzGr and PzGr 43 shells have an equivalent TNT explosive mass of 786 g, ensuring devastating post-penetration damage
-- When hull down, the Jagdtiger is a true terror on the battlefield. Especially when there are few post-war tanks in the game
+* Shares the same hull as the Tiger II, so the upper glacis plate is still very tough
+* The front of the superstructure is very difficult to get through with anything less than APDS or HEAT
+* With its 6-man crew and thick armour, it's difficult to knock out this tank with a single shot
+* Totally and utterly impenetrable gun mantlet, even better than the T95's one
+* 128 mm PaK 44 cannon is an accurate cannon with a surprisingly short reload time. It takes 20 seconds to reload with a decent crew. That is not bad considering the size and weight of the projectile that this gun fires
+* PzGr 43 round has one of the highest penetrations of any APCBC round in the game
+* Both the stock PzGr and PzGr 43 shells have an equivalent TNT explosive mass of 786 g, ensuring devastating post-penetration damage
+* When hull down, the Jagdtiger is a true terror on the battlefield. Especially when there are few post-war tanks in the game
 
 '''Cons:'''
 
-- Big target with a lot of ammunition in its hull. Shells that penetrate through the side can prove fatal
-- Despite having a better engine than the Tiger II (H), the Jagdtiger weighs 7 more tons. This leaves a lot to be desired when it comes to manoeuvrability and acceleration
-- 20-second reload can be disastrous if the first shot missed
-- Like most other tank destroyers, the Jagdtiger doesn't have a traversable turret. This makes dealing with flanking enemies a nightmare
-- Just like all the other Tiger II's, the lower glacis is an easy target if not hull down
-- Matchmaking can up-tier the Jagdtiger
-- Corners of the superstructure are vulnerable to high penetration shells such as the M103's 120 mm AP shell, T-10's 122 mm APHE shell, British 183 mm and 120 mm shells, and Jagdtiger's own 128 mm APHE shell
-- Armour is incredibly good, but can be penetrated easily by tanks with HEATFS rounds
+* Big target with a lot of ammunition in its hull. Shells that penetrate through the side can prove fatal
+* Despite having a better engine than the Tiger II (H), the Jagdtiger weighs 7 more tons. This leaves a lot to be desired when it comes to manoeuvrability and acceleration
+* 20-second reload can be disastrous if the first shot missed
+* Like most other tank destroyers, the Jagdtiger doesn't have a traversable turret. This makes dealing with flanking enemies a nightmare
+* Just like all the other Tiger II's, the lower glacis is an easy target if not hull down
+* Matchmaking can up-tier the Jagdtiger
+* Corners of the superstructure are vulnerable to high penetration shells such as the M103's 120 mm AP shell, T-10's 122 mm APHE shell, British 183 mm and 120 mm shells, and Jagdtiger's own 128 mm APHE shell
+* Armour is incredibly good, but can be penetrated easily by tanks with HEATFS rounds
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 This monster of a tank destroyer was inspired by the successes of previous tank destroyers such as the [[StuG III F|StuG III]] and the [[Marder III H|Marder]] series. Their efficiency in a battle called for a request by Army General Staff to mount an enormous 128 mm gun on a self-propelled vehicle for infantry support in early 1942, but then Hitler changed it from its intended role to a tank destroyer. The 128 mm design was chosen as toolings already existed for the calibre, as it originated from a naval cannon design, which also was used the basis of an anti-aircraft gun. The 128 mm cannon also had a very high hit rate when compared to other formidable calibres like the 105 mm and 88 mm.
 
@@ -257,38 +243,35 @@ The Jagdtiger's disadvantages included its massive weight, which had a negative 
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_panzerjager_tiger Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_panzerjager_tiger Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|xv9QAXPJVSc|'''Tank Chats #77 - Jagdtiger''' - ''The Tank Museum''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
 
-- [[Tiger II (Family)]]
+* [[Tiger II (Family)]]
 
 ;Other vehicles of similar configuration and role
 
-- [[Tortoise]]
+* [[Tortoise]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/2655/current/|[Special] Jagdtiger "Hunting Tiger"]]
-- [[Wikipedia:Jagdtiger|[Wikipedia] Jagdtiger]]
-- [https://tanks-encyclopedia.com/ww2-germany-sd-kfz-186-jagdtiger/ <nowiki>[Tanks Encyclopedia]</nowiki> Sd.Kfz.186 Jagdtiger]
+* [[wt:en/news/2655/current/|[Special] Jagdtiger "Hunting Tiger"]]
+* [[Wikipedia:Jagdtiger|[Wikipedia] Jagdtiger]]
+* [https://tanks-encyclopedia.com/ww2-germany-sd-kfz-186-jagdtiger/ <nowiki>[Tanks Encyclopedia]</nowiki> Sd.Kfz.186 Jagdtiger]
 
 {{Germany tank destroyers}}

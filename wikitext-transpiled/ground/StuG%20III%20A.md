@@ -5,25 +5,21 @@
 }}
 {{Specs-Card
 |code=germ_stug_III_ausf_A
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
+The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|German armoury designation:]] '''Sd.Kfz. 142''') is a rank {{Specs|rank}} German tank destroyer {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41. 
 
-The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|German armoury designation:]] '''Sd.Kfz. 142''') is a rank {{Specs|rank}} German tank destroyer {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41.
-
-The StuG III A is the beginning of the StuG III line and the first enclosed tank destroyer for the German tree. It presents the same 75 mm gun as on the early Panzer IVs.
+The StuG III A is the beginning of the StuG III line and the first enclosed tank destroyer for the German tree. It presents the same 75 mm gun as on the early Panzer IVs. 
 
 This tank destroyer was originally built as an assault gun, designed to fling low-velocity high explosive shells in the assistance of attacking infantry. Against armoured vehicles, however, the StuG III A should be used for frontal assaults on objectives or ambushes, due to poor accuracy at range and the high shell arc. In both roles, its low profile and excellent short-range firepower provide a distinct advantage. You should get into cover when reloading. Due to the sloped armour on the top, shots will bounce more if you are on the same elevation as the tank you are fighting or if your gun is facing the tank at 0° elevation. If you are raising your gun to shoot at an enemy, they can pierce your armour easily below the gun.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
 *Rolled homogeneous armour
@@ -40,12 +36,11 @@ This tank destroyer was originally built as an assault gun, designed to fling lo
 |}
 '''Notes:'''
 
-- Suspension wheels are 15 mm thick.
-- Tracks are 20 mm thick.
+* Suspension wheels are 15 mm thick.
+* Tracks are 20 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=426|rbMinHp=265}}
@@ -56,22 +51,16 @@ This tank destroyer was originally built as an assault gun, designed to fling lo
 '''Recommended research path:'''
 
 # Parts and FPE (Fire Prevention Equipment, symbolised by the fire extinguisher)
-
 # Usual Adjustment of Fire
-
 # Both HEAT shells, to be able to deal with more heavily armoured threats, and then Elevation Mechanism
-
 # Upgrades that improve mobility: Engine, Transmission, Filters
-
 # Remaining upgrades
 
 == Armaments ==
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|StuK37 (75 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -149,9 +138,7 @@ This tank destroyer was originally built as an assault gun, designed to fling lo
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -165,12 +152,10 @@ This tank destroyer was originally built as an assault gun, designed to fling lo
 |}
 '''Note''':
 
-- Left side empty: 30&nbsp;''(+14)'' shells.
+* Left side empty: 30&nbsp;''(+14)'' shells.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The StuG's AP shell can deal with many opponents at its rank. It has devastating when used on the many light tanks at Rank I, whilst your frontal armour can hold a lot of their shells. The front of a StuG III A is not invulnerable however, so you must be cautious as to which enemies you expose yourself to.
 
 Do not use HE, it lacks the penetration of the HEAT and AP, and the explosive force of higher rank howitzers, such as the Sturmhaubitze and KV-2 have. The HEAT round is an excellent tool for sniping whilst even more important, cracking British heavy tanks, with both the Valentines and the Matilda not having enough armour to hold a HEAT projectile. Aim for their turrets, and you can easily destroy them in one shot, both being too slow and cumbersome to make use of your low-velocity cannon. HEAT rounds should be your main choice of ammo once you have researched it.
@@ -184,33 +169,30 @@ If you have a side shot on this vehicle, attempt to disable its tracks; this wil
 Overall, the StuG III A is an early devastating tank to face, with its pros outweigh its cons. The lack of turret is overlooked when the combination of HEAT rounds, fast mobility, quick reload, and decent armour comes into play.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Possesses a powerful gun against its opponents
-- Low profile due to casemate structure
-- HEAT options are very effective in dealing with heavily-armoured vehicles
-- Good handling and mobility, quick turning response
-- Fast loading speed
-- Good frontal armour of 50 mm
-- Difficult to penetrate from upper frontal armour due to the various sloping areas, where most inexperienced players will fire
+* Possesses a powerful gun against its opponents
+* Low profile due to casemate structure
+* HEAT options are very effective in dealing with heavily-armoured vehicles
+* Good handling and mobility, quick turning response
+* Fast loading speed
+* Good frontal armour of 50 mm
+* Difficult to penetrate from upper frontal armour due to the various sloping areas, where most inexperienced players will fire
 
 '''Cons:'''
 
-- Flat weak spots in the front superstructure, that crew and ammunition are right behind
-- Sides are extremely vulnerable as they are unsloped and thin
-- Due to your lack of a turret, you are defenceless once immobile and are easy to pick off if the enemy can target your side
-- 3-man crew can be knocked out with a well-placed shot through the driver's port
-- Stock APCBC ammo has low penetration, ~50 mm at close range
-- Limited fire arc due to the gun mount
-- High shell arc due to slow muzzle velocity
+* Flat weak spots in the front superstructure, that crew and ammunition are right behind
+* Sides are extremely vulnerable as they are unsloped and thin
+* Due to your lack of a turret, you are defenceless once immobile and are easy to pick off if the enemy can target your side
+* 3-man crew can be knocked out with a well-placed shot through the driver's port
+* Stock APCBC ammo has low penetration, ~50 mm at close range
+* Limited fire arc due to the gun mount
+* High shell arc due to slow muzzle velocity
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 The role of a self-propelled gun came from combat experiences in World War I. During the German offensives on the Allied front, infantry lacked artillery support against fortifications in places out-ranged by their heavy artillery behind the lines. A need for a mobile artillery piece was necessary to keep up with the German infantry and fight enemy fortifications with a direct-fire assault role. The father of this concept was German General Erich von Manstein and was coined as the ''Sturmartillerie'' (assault artillery), and these units were to be embedded in infantry divisions.
 
@@ -243,25 +225,22 @@ The vehicle's major drawback was its lack of a machine gun and the low muzzle ve
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_stug_III_ausf_A Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_stug_III_ausf_A Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/2842/current/|[Vehicle Profile] Sturmgeschütz III Ausf. A]]
+* [[wt:en/news/2842/current/|[Vehicle Profile] Sturmgeschütz III Ausf. A]]
 
 {{Germany tank destroyers}}

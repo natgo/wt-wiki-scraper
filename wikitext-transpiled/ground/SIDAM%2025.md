@@ -12,9 +12,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' (shortened to '''{{Specs|pseudonym}}''') is a rank {{Specs|rank}} Italian self-propelled anti-aircraft gun {{Battle-rating}}. It was introduced in [[Update 1.85 "Supersonic"]].
 
 The SIDAM 25 is an optronics-aimed SPAA equipped with 4 x 25 mm Oerlikon KBA cannons with the ability to fire HEI-T* and APDS rounds. Because of the high fire density, this SPAA is able to destroy planes within seconds and just needing a few rounds to hit their target. The M792 belt rounds (HEI-T*) contain a TNT equivalent of 54.4 grams in each projectile, and have a high muzzle velocity of 1,100 m/s, making target leading much easier. However, because of the lack of armour-penetrating rounds in the standard belts, your maximum penetration remains 3 mm until you get the M791 belt (APDS). Once the M791 belt is unlocked, defeating tanks will be much easier, given the 81 mm of penetration at 10 metres, and a muzzle velocity of 1,345 m/s. The potential is however severely limited by the maximum capacity of 660 rounds (165 per gun). Overall, be very careful with your ammunition considering the fire rate and the small ammunition capacity. 4 x 550 rpm and a maximum of 660 rounds means you have about 18 seconds of continuous fire available.
@@ -22,13 +20,11 @@ The SIDAM 25 is an optronics-aimed SPAA equipped with 4 x 25 mm Oerlikon KBA can
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
-- Aluminium Alloy 7039
-- Structural steel
+* Aluminium Alloy 7039
+* Structural steel
 
 {| class="wikitable"
 |-
@@ -41,11 +37,10 @@ The SIDAM 25 is an optronics-aimed SPAA equipped with 4 x 25 mm Oerlikon KBA can
 |}
 '''Notes:'''
 
-- Suspension wheels are 10 mm thick and tracks are 15 mm thick.
+* Suspension wheels are 10 mm thick and tracks are 15 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=301|rbMinHp=188}}
@@ -57,9 +52,7 @@ The SIDAM 25 is an optronics-aimed SPAA equipped with 4 x 25 mm Oerlikon KBA can
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|Oerlikon KBA (25 mm)}}
 
 With only 60 APDS rounds available to fire, it is recommended to use them sparingly and only against light tanks/SPAA.
@@ -117,9 +110,7 @@ With only 60 APDS rounds available to fire, it is recommended to use them sparin
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.5.1.138''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -150,7 +141,6 @@ The SIDAM 25 is equipped with a [[3JB10]] optronic tracking system, with no sear
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The SIDAM 25 can be quite deadly when used right, players who have unlocked this machine will get to experience for the first time in the tree, an anti-air vehicle with firepower that rivals or in some instances, is more effective than other nations counterparts. The best way to play with the SIDAM 25 is to play very defensively. Due to it being based on the widespread chassis known as the M113, the SIDAM sadly does not have the best performance on or off road, even a small incline will seriously impact your overall mobility when using the vehicle. It is best to stick to flat ground where your vehicle can be much easier to control. The M113 also does not have the best survivability, so in that the SIDAM also sadly suffers in that area, so it is best to stick with more protected teammates or to flat out stay away from any type of enemy ground vehicles. Artillery will also be able to pressure damage you so in that case you should try your best to move away and avoid getting hit by it in the first place.
@@ -160,31 +150,29 @@ In case any vehicles breach your defenses you do have access to a small amount o
 In the anti-air sector, the SIDAM 25 sadly does not have access to a radar, unlike other nations' counterparts at the battle rating. What you do have access to however is an optronic tracking system, which allows targets to be tracked, and provides one of the most most accurate lead indicators for any vehicle. This will allow you to predict flight paths of any enemy air vehicles you'll be facing. Another great thing about the optronic system, is that it cannot be detected by radar warning receivers on enemy aircraft, making it much easier for you to target them, and hopefully take them out with a quick barrage of you main gun. Speaking of which, the SIDAM's main armament consists of 4 x 25 mm guns, they have a combined firepower of 2200 rounds per minute; more than enough to deal with most of the aircraft you'll face. You also have access to a two-plane stabilizer, which will furthermore aid you in firefights against both ground and air vehicles.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Has an optronic tracking system allowing targets to be tracked and providing a lead indicator
-- Optronic system cannot be detected by RWR on enemy aircraft, making it much easier for you to target them
-- 550 RPM on the 25 mm guns, a combined 2200 RPM
-- Two-axis stabilizer which is very stable
-- Incredibly quick turret traverse and gun elevation
-- APDS can penetrate 81 mm, plenty to defend against enemy vehicles (once it is unlocked)
+* Has an optronic tracking system allowing targets to be tracked and providing a lead indicator
+* Optronic system cannot be detected by RWR on enemy aircraft, making it much easier for you to target them
+* 550 RPM on the 25 mm guns, a combined 2200 RPM
+* Two-axis stabilizer which is very stable
+* Incredibly quick turret traverse and gun elevation
+* APDS can penetrate 81 mm, plenty to defend against enemy vehicles (once it is unlocked)
 
 '''Cons:'''
 
-- Thin armour, very susceptible to overpressure
-- Relatively poor zoom/magnification, harder to spot small targets at range (especially scout helicopters)
-- APDS rounds are a tier 3 modification - until then, anti-armour work is not possible given the low penetration of the HE rounds
-- Can only carry 60 APDS rounds
-- Not very mobile compared to other tanks and SPAA at its rank, has a hard time scaling hills
-- No search radar - only optronic targeting, meaning you need to have a visible target to lock on, and a clear line-of-sight to track it
-- Can only lock-on to targets -20°/+20° in elevation
-- Not very mobile
+* Thin armour, very susceptible to overpressure
+* Relatively poor zoom/magnification, harder to spot small targets at range (especially scout helicopters)
+* APDS rounds are a tier 3 modification - until then, anti-armour work is not possible given the low penetration of the HE rounds
+* Can only carry 60 APDS rounds
+* Not very mobile compared to other tanks and SPAA at its rank, has a hard time scaling hills
+* No search radar - only optronic targeting, meaning you need to have a visible target to lock on, and a clear line-of-sight to track it
+* Can only lock-on to targets -20°/+20° in elevation
+* Not very mobile
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The SIDAM 25 was made during the Cold War (the SIDAM system started in about 1980 and first two prototypes were trialed in 1983), Italy wanted to find a suitable anti-air vehicle that would be on par with the Soviet Union's and Warsaw Pact, as well as NATO vehicles such as the German Gepard and the American M163 VADS. Its primary goal was to take out out low flying aircraft but it was provided a secondary capability against lightly armoured targets thanks to the types of ammunition it had access to, such as APDS, HEI and SAPHEI. There had been some contenders on what the next anti air vehicle would be, but the Italian Ministry of defense ended up supporting the SIDAM 25 and started to place orders for the vehicle.
@@ -194,24 +182,20 @@ The SIDAM 25 would be based on the American M113 chassis then built under licens
 Sadly the SIDAM 25 lived a short life, in total 276 of such systems were produced from 1985, they'd slowly be taken out of active service and put in storage. Most of them have been used for its main armament, and installed onto the Italian army 'Freccia IFV' which uses the same 25 mm the SIDAM once used. The SIDAM 25 would only ever be exported to a private military collector in Belgium, in an estimated 40 units. There was also plans on installing the SIDAM quad mount on another OTO-Melara project, the C-13, however due to political reasons that would not end up happening. In terms of SIDAM upgrades, modernization plans for the SIDAM 25 were drawn up in late 1994. The Italian engineers proposed the up-arming of the vehicle with Matra Mistral surface-to-air missiles in order to give it better long-range capabilities and improve its performance as a whole. Sadly, the Mistral program which aimed to upgrade the Italian SIDAMs would not be picked up.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=it_otobreda_sidam_25 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=it_otobreda_sidam_25 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{TankManufacturer OTO Melara}}
 {{Italy anti-aircraft vehicles}}

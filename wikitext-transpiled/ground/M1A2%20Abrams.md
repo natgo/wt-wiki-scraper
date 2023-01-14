@@ -8,19 +8,16 @@
 }}
 {{Specs-Card
 |code=us_m1a2_abrams
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' (shortened to '''{{Specs|pseudonym}}''') is a rank {{Specs|rank}} American medium tank {{Battle-rating}}. It was introduced in [[Update 1.93 "Shark Attack"]] as the top researchable vehicle in the US Ground Forces tech tree. The M1A2 introduces heavy depleted uranium armour and a commander's thermal sight.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 [[File:M1A2 armour scheme.png|thumbnail|The M1A2's frontal KE protection vs 3BM42 at 500 metres]]
@@ -30,7 +27,6 @@ The M1A2's armour is a massive improvement in comparison to its predecessor, the
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=2,058|rbMinHp=1,343}}
@@ -68,9 +64,7 @@ After reaching tier 4 there are likely still useful modifications throughout the
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|M256 (120 mm)}}
 
 The M1A2 is armed with the 120 mm M256 smoothbore gun, the same cannon found on the M1A1 and the M1A1 HC, and has access to the same APFSDS and HEATFS ammunition. Its ammo selection is identical to the M1A1 HC, with the exception of the more powerful M829A2 APFSDS.
@@ -155,9 +149,7 @@ The M1A2's gun handles very well, with a very efficient stabilizer that allows a
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -174,9 +166,7 @@ The M1A2's gun handles very well, with a very efficient stabilizer that allows a
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
 {{Specs-Tank-Weapon|4}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|M2HB (12.7 mm)|M240 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -201,9 +191,7 @@ The M1A2's gun handles very well, with a very efficient stabilizer that allows a
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The M1A2 Abrams excels as an all-around jack of all trades vehicle capable of any role presented to it. It has a great combination of protection, firepower, situational awareness and mobility to allow it to adapt to any task it may face, from close-quarters fighting in urban areas to long-range engagements on large open maps.
 
 ;Urban combat
@@ -216,41 +204,38 @@ On large open maps, the M1A2 is fully able to exploit its improved turret protec
 
 ;Notable enemies
 
-- [[Leopard 2A5]]/[[Leopard 2A6|2A6]]: These are the main counterparts of the M1A2. Though the M1A2 outperforms the Leopard 2A5 in firepower, the Leopard 2A6 has superior firepower. The DM53 APFSDS the Leopard 2A6 is equipped with is capable of penetrating the turret cheek of the M1A2 at closer ranges. Thus, the Leopard 2s should be a high-priority target to be dealt with carefully. When hull down, the Leopard 2s can only be effectively penetrated through the gun mantlet or a lucky shot into the turret ring, so aim for the gun area, as this usually results in at least the disablement of the cannon or breech. If the Leopard 2 presents its hull, aim for the left side as the lined-up crew members usually result in all of them being knocked out at the same time, resulting in a one shot if done correctly.
+* [[Leopard 2A5]]/[[Leopard 2A6|2A6]]: These are the main counterparts of the M1A2. Though the M1A2 outperforms the Leopard 2A5 in firepower, the Leopard 2A6 has superior firepower. The DM53 APFSDS the Leopard 2A6 is equipped with is capable of penetrating the turret cheek of the M1A2 at closer ranges. Thus, the Leopard 2s should be a high-priority target to be dealt with carefully. When hull down, the Leopard 2s can only be effectively penetrated through the gun mantlet or a lucky shot into the turret ring, so aim for the gun area, as this usually results in at least the disablement of the cannon or breech. If the Leopard 2 presents its hull, aim for the left side as the lined-up crew members usually result in all of them being knocked out at the same time, resulting in a one shot if done correctly.
 
-- [[T-80U]]: The T-80U can be a fearsome enemy if you are unaware of its significant disadvantages and weaknesses. The tank's frontal protection is very strong, though the area around the gun and the driver's hatch are weak spots that should be targeted. The T-80U, like many other T-series vehicles, are prone to being destroyed by a single shot due to the tightly-packed interior that has the turret crew sitting on top of all the ammunition. Furthermore, the T-80U is very vulnerable to any form of angling in the hull as its side protection is very weak in comparison to the frontal armour. A single penetration at all but the most oblique angles usually results in the detonation of the hull-ammo carousel to easily destroy the T-80U.
+* [[T-80U]]: The T-80U can be a fearsome enemy if you are unaware of its significant disadvantages and weaknesses. The tank's frontal protection is very strong, though the area around the gun and the driver's hatch are weak spots that should be targeted. The T-80U, like many other T-series vehicles, are prone to being destroyed by a single shot due to the tightly-packed interior that has the turret crew sitting on top of all the ammunition. Furthermore, the T-80U is very vulnerable to any form of angling in the hull as its side protection is very weak in comparison to the frontal armour. A single penetration at all but the most oblique angles usually results in the detonation of the hull-ammo carousel to easily destroy the T-80U.
 
-- [[Leclerc]]: The Leclerc's good mobility, firepower and protection make it a formidable foe to engage. However the tank's armour scheme is inconsistent and presents three main weak spots frontally; the massive and extremely weak mantlet, the UFP and LFP. These are quite easy to hit and present a good chance of dealing serious damage or knocking out the vehicle entirely.
+* [[Leclerc]]: The Leclerc's good mobility, firepower and protection make it a formidable foe to engage. However the tank's armour scheme is inconsistent and presents three main weak spots frontally; the massive and extremely weak mantlet, the UFP and LFP. These are quite easy to hit and present a good chance of dealing serious damage or knocking out the vehicle entirely.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- New depleted uranium composite armour layout makes the frontal turret extremely difficult to penetrate to all munitions in the game, other than the Leopard 2A6's DM53, at short range
-- Can effectively destroy aircraft or helicopters with new HEATFS shell through proximity detonation
-- Thermal sight for both the commander and gunner
-- Good crew survivability like the rest of the Abrams line
-- M829 APFSDS modification unlocked at tier I
-- Powerful M829A2 APFSDS shell with excellent ballistics and penetration properties
+* New depleted uranium composite armour layout makes the frontal turret extremely difficult to penetrate to all munitions in the game, other than the Leopard 2A6's DM53, at short range
+* Can effectively destroy aircraft or helicopters with new HEATFS shell through proximity detonation
+* Thermal sight for both the commander and gunner
+* Good crew survivability like the rest of the Abrams line
+* M829 APFSDS modification unlocked at tier I
+* Powerful M829A2 APFSDS shell with excellent ballistics and penetration properties
 
 '''Cons:'''
 
-- Very easy to penetrate, even by low rank 5 tanks, hits on the UFP can auto bounce into the turret, often incapacitating the gunner and commander, as well as detonating the ammo
-- The turret ring is a massive weak spot, any tank in the game can penetrate it, a hit to the highly angled upper front plate will likely cause the incoming shell to ricochet into the turret ring, destroying critical components and knocking out crew members
-- The LFP is huge and has very poor protection
-- Has the same weak spots as its preceding variants
-- The gun mantlet weak spot on the turret, though this is common with all MBTs.
-- The Leopard 2A6's DM53 has a good chance of penetrating the turret cheeks if they're hit at a right angle
-- The mobility is hampered by its weight of 61.7 tonnes
-- The stock HEATFS shell is very difficult to use at top tier due to every tank you face having more than 600mm of chemical protection or being coated in ERA frontally. Flank shots are the only reliable way to get kills
-- Like with most Abrams series tanks, the engine deck is slightly raised, meaning that you will not be able to depress the gun over the rear of the tank.
+* Very easy to penetrate, even by low rank 5 tanks, hits on the UFP can auto bounce into the turret, often incapacitating the gunner and commander, as well as detonating the ammo
+* The turret ring is a massive weak spot, any tank in the game can penetrate it, a hit to the highly angled upper front plate will likely cause the incoming shell to ricochet into the turret ring, destroying critical components and knocking out crew members
+* The LFP is huge and has very poor protection
+* Has the same weak spots as its preceding variants
+* The gun mantlet weak spot on the turret, though this is common with all MBTs.
+* The Leopard 2A6's DM53 has a good chance of penetrating the turret cheeks if they're hit at a right angle
+* The mobility is hampered by its weight of 61.7 tonnes
+* The stock HEATFS shell is very difficult to use at top tier due to every tank you face having more than 600mm of chemical protection or being coated in ERA frontally. Flank shots are the only reliable way to get kills
+* Like with most Abrams series tanks, the engine deck is slightly raised, meaning that you will not be able to depress the gun over the rear of the tank.
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 [[File:U.S. Army M1A2 Abrams Iraq 2005.jpg|x240px|right|none|thumb|Two US Army M1A2s in Iraq.]]
 
 In the second half of the 1980s, a development project was launched to increase the combat effectiveness of the Abrams MBT. The result of this undertaking became the M1A2 version of the Abrams.
@@ -262,12 +247,11 @@ The M1A2 and its sub-variants are the most advanced modifications of the Abrams 
 ''- From [[wt:en/news/6451-development-m1a2-abrams-higher-and-higher-en|Devblog]]''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=us_m1a2_abrams Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=us_m1a2_abrams Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover" heights="200">
@@ -280,20 +264,18 @@ File:M1A2 Allied Spirit VIII camouflage.jpg|<small>Unlockable Allied Spirit VIII
 {{Youtube-gallery|k-TAP29inb8|'''Should You Grind The M1A2 Abrams?''' - ''Sako Sniper''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[M1A2 SEP]]
+* [[M1A2 SEP]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6451-development-m1a2-abrams-higher-and-higher-en|[Development] M1A2 Abrams - Higher and Higher]]
+* [[wt:en/news/6451-development-m1a2-abrams-higher-and-higher-en|[Development] M1A2 Abrams - Higher and Higher]]
 
 {{TankManufacturer GDLS}}
 {{USA medium tanks}}

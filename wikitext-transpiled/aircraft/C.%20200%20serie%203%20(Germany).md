@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} German fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27 in the German aviation tree. In [[Update 1.69 "Regia Aeronautica"]], the C.200 as well as the other Italian planes in the German tree were moved to the new Italian tree, although it still exists in the German tree for those who unlocked it prior to Update 1.69.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -45,7 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German fighter {{Battle-rating
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -85,19 +82,15 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German fighter {{Battle-rating
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Breda-SAFAT (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 12.7 mm Breda-SAFAT machine guns, nose-mounted (370 rpg = 740 total)
+* 2 x 12.7 mm Breda-SAFAT machine guns, nose-mounted (370 rpg = 740 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The M.C 200 is a fairly typical pre-war Italian design, moderate speed combined with good rates of turning, and high-speed tolerance while maintaining good controls at all speeds. Furthermore, the MC 200 is a capable climber, easily matching a lot of planes that it will regularly meet in its BR range. Further, it's fairly tough, capable of taking hits and returning to the airfield for repairs. However, it does have its issues as well, most notably the poor engine power which results in poor acceleration and, much like all Italian designs, it suffers from poor armament as well, although given the lower BR than the Folgore, this is less of an issue. Furthermore, as of 1.55, its payload is not modelled, so it doesn't carry bombs, meaning it's a poor ground attacker, being only able to harm soft Ground targets.
 
 For the guns, the same applies to all other Italian aircraft. Generally, you want to use Tracers, Anti-air or Stealth since they are the belts that deal the most damage. They suffer above 300 m, so fire only at or below that range for best effects. Furthermore, much like the other Italian fighters, the armament is woefully inadequate to deal with bombers, hence it is best to avoid them entirely, or focus on taking out the engines. The only exceptions are the very early biplane bombers, such as [[Swordfish Mk I|Swordfish]], [[Po-2]] and the likes.
@@ -122,31 +115,28 @@ In general, it's recommended to climb as much as you can before engaging, a good
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Good rate of turn
-- Good rate of climb
-- Decent energy retention
-- Sturdy platform
-- It has very good cockpit view, lack of canopy means superb view to the sides and above, while the slim headrest ensures a good view to the rear as well
-- Good controls at most speeds
-- Can dive well
+* Good rate of turn
+* Good rate of climb
+* Decent energy retention
+* Sturdy platform
+* It has very good cockpit view, lack of canopy means superb view to the sides and above, while the slim headrest ensures a good view to the rear as well
+* Good controls at most speeds
+* Can dive well
 
 '''Cons:'''
 
-- Acceleration leaves something to be desired
-- The machine guns are not exceptional with a low rate of fire and ineffective beyond 300 m
-- Engine is prone to overheating
-- Its speed in level flight is nothing exceptional
-- Open cockpit, no pilot protection
+* Acceleration leaves something to be desired
+* The machine guns are not exceptional with a low rate of fire and ineffective beyond 300 m
+* Engine is prone to overheating
+* Its speed in level flight is nothing exceptional
+* Open cockpit, no pilot protection
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The M.C.200 is a Pre-war Italian monoplane manufactured by the Macchi aircraft company, its Name derives from its chief designer, Castoldi, designer of the famous M.C.72 racing plane.
 
 The M.C 200 was a design put forward for the Regia Aeronautica's Series 0 tender set in 1934, a specification for a modern monowing interceptor. Of the Italian aeronautical industry, three firms submitted a prototype, the G.50 by Fiat, the Re 2000 by Reggiane and the M.C 200 by Macchi. Of the three designs, the M.C 200 won the tender, being the fastest and the best aircraft, although it did have issues that needed fixing before it could enter service, most notably its issues with autorotation and sudden, violent stalls. For this reason, the Fiat G.50, while inferior to the M.C 200, was chosen for production as well, as it would be able to enter service on short notice, the G.50 went on and served in the Spanish civil war, and for a time, alongside the M.C.200.
@@ -164,24 +154,20 @@ Modifications of the M.C.200 had no major changes in equipment. The M.C.200 seri
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=mc200_serie3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=mc200_serie3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer Macchi}}
 {{Germany fighters}}

@@ -10,9 +10,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian fighter {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]] along with the initial Italian aviation tree.
 
 The C. 205 serie 3 is a refinement of the C. 205 serie 1, which was a development of the C. 202. The serie 3 addresses the main issue of the serie 1, which is its highly underwhelming firepower. The wings now each hold a 20 mm MG151/20 cannon which accompany what used to be the primary armament, 2 x 12.7 mm machine guns mounted above the engine cowling. The extra weight on the Daimler-Benz 605 engine marginally reduces flight performance and its faces more formidable foes due to its higher battle rating, but the serie 3 remains competitive with its peers as a versatile fighter comfortable with boom-and-zoom, energy fighting, and turning engagements as the situation requires. Anyone caught on the receiving end of its twin cannons will seriously rethink their choices as their plane is ripped to shreds.
@@ -20,7 +18,6 @@ The C. 205 serie 3 is a refinement of the C. 205 serie 1, which was a developmen
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 The aircraft has a very good roll rate and generally good acceleration both in level flight and when diving. Overall handling is good and energy retention in level flight and in the vertical is very good. Control lock up starts with the rudder past 500 - 550 km/h with the test of the control surfaces steadily locking up past 600 - 650 km/h. Players should make sure to leave enough altitude to pull out of a steep dive. The control lockup prevents the wings from tearing due to excessive G-force. The engine maintains a lot of power even past 5,000 metres and takes a while to overheat.
@@ -52,7 +49,7 @@ For full real control pilots, the left wing is slightly longer than the right to
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -83,12 +80,11 @@ For full real control pilots, the left wing is slightly longer than the right to
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 50 mm Bulletproof glass - Windscreen
-- 8 mm Steel - Behind pilot
-- Decent build quality, can take some punishment
+* 50 mm Bulletproof glass - Windscreen
+* 8 mm Steel - Behind pilot
+* Decent build quality, can take some punishment
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -97,18 +93,15 @@ For full real control pilots, the left wing is slightly longer than the right to
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|MG 151 (20 mm)|Breda-SAFAT (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 20 mm MG 151 cannons, wing-mounted (250 rpg = 500 total)
-- 2 x 12.7 mm Breda-SAFAT machine guns, nose-mounted (400 rpg = 800 total)
+* 2 x 20 mm MG 151 cannons, wing-mounted (250 rpg = 500 total)
+* 2 x 12.7 mm Breda-SAFAT machine guns, nose-mounted (400 rpg = 800 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The C. 205 Serie 3 is not just a mere upgrade from [[C. 205 serie 1]], now it features a pair of 20 mm MG 151 cannons which mean that executing Boom-and-Zoom and bomber intercepting is now very possible with greater chance of success. The flight performance still remains competitive for its BR thanks to the powerful DB-605A engine.
@@ -137,31 +130,29 @@ While the 12.7 mm Breda-SAFAT still remain on this aircraft, the most prominent 
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Good for boom-and-zoom attacks
-- Good performance above 4,000 m (13,000 ft)
-- Very solid armament, twin 20 mm MG 151 cannons offer practically twice the internal firepower of contemporary Bf 109s like the [[Bf 109 G-2/trop|G-2/trop]]
-- Great ammunition pool
-- Can be used as interceptor against bombers
-- Relatively tough
+* Good for boom-and-zoom attacks
+* Good performance above 4,000 m (13,000 ft)
+* Very solid armament, twin 20 mm MG 151 cannons offer practically twice the internal firepower of contemporary Bf 109s like the [[Bf 109 G-2/trop|G-2/trop]]
+* Great ammunition pool
+* Can be used as interceptor against bombers
+* Relatively tough
 
 '''Cons:'''
 
-- Average climb rate means it can find itself below or at equal altitude to the enemy at times
-- Very sluggish at low speed
-- When stock, the cannons are surprisingly inaccurate and tend to "shotgun" a bit
-- Breda-SAFAT machine guns have a low muzzle velocity and don't hit very hard
-- No suspended ordnance, limited utility against ground targets
+* Average climb rate means it can find itself below or at equal altitude to the enemy at times
+* Very sluggish at low speed
+* When stock, the cannons are surprisingly inaccurate and tend to "shotgun" a bit
+* Breda-SAFAT machine guns have a low muzzle velocity and don't hit very hard
+* No suspended ordnance, limited utility against ground targets
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
-The Macchi C. 205 was a development of the famous [[C. 202]] "Folgore". The Folgore was the most modern and effective domestic fighter available to the Regia Aeronautica when it was introduced in 1941, proving itself well against Allied Spitfires, Hurricanes, and P-40s. It did still have a number of flaws, including the weak armament of only two heavy machine guns and two rifle-calibre machine guns. This was insufficient for attacking heavily protected American bombers. The design still had further developmental potential and the improved C. 205, initially designated the C. 202''bis'', mainly differed by the installation of a German DB605 engine (used by the German Bf 109G series) instead of the license produced DB601 used by the C. 202. The DB605 was heavier and more powerful but had very similar dimensions, easing the transition. The resulting aircraft had much improved performance over the C. 202, comparable to the other Italian "''Serie 5''" aircraft powered by the DB605: the [[G.55 (Family)|Fiat G.55]] and the [[Re.2005 serie 0|Reggiane Re.2005]]. The C. 205 had the worst handling at high altitudes due to its relatively small wings and high wing loading. Its strengths were in speed and diving abilities at low and medium altitudes. Its similarity to the existing C. 202 was a significant advantage, especially compared to the high performing but very complex Re.2005, and it was chosen for mass production along with the G.55.
+The Macchi C. 205 was a development of the famous [[C. 202]] "Folgore". The Folgore was the most modern and effective domestic fighter available to the Regia Aeronautica when it was introduced in 1941, proving itself well against Allied Spitfires, Hurricanes, and P-40s. It did still have a number of flaws, including the weak armament of only two heavy machine guns and two rifle-calibre machine guns. This was insufficient for attacking heavily protected American bombers. The design still had further developmental potential and the improved C. 205, initially designated the C. 202''bis'', mainly differed by the installation of a German DB605 engine (used by the German Bf 109G series) instead of the license produced DB601 used by the C. 202.  The DB605 was heavier and more powerful but had very similar dimensions, easing the transition. The resulting aircraft had much improved performance over the C. 202, comparable to the other Italian "''Serie 5''" aircraft powered by the DB605: the [[G.55 (Family)|Fiat G.55]] and the [[Re.2005 serie 0|Reggiane Re.2005]]. The C. 205 had the worst handling at high altitudes due to its relatively small wings and high wing loading. Its strengths were in speed and diving abilities at low and medium altitudes. Its similarity to the existing C. 202 was a significant advantage, especially compared to the high performing but very complex Re.2005, and it was chosen for mass production along with the G.55.
 
 The early "Veltro" ("Greyhound") models of the C. 205 were outwardly similar to the C. 202, having only minor revisions to the airframe. After the initial [[C. 205 serie 1|C. 205 ''serie 1'']], which retained the Folgore's inadequate armament, the '''C. 205 ''serie 3''''' replaced the wing-mounted Breda-SAFAT 7.7 mm machine guns with German 20 mm MG151/20 cannons. This gave the ''serie 3'' a potent punch. No further Veltro marks were produced, as development turned to the [[C. 205N2|C. 205N "Orione"]] with more radical changes to the aerodynamics and firepower. Interestingly, the ''serie 2'' was supposed to be produced by Fiat, but the factory tasked with it was destroyed by bombing and no such aircraft were made.
 
@@ -176,33 +167,28 @@ Besides Egypt, the C. 205 had a few other foreign users. The Luftwaffe briefly e
 The three ''serie 5'' fighters were each considered some of the best Italian aircraft of World War II by their pilots and opponents. The C. 205 was perhaps the least glamorous of the trio, having the worst general handling and high altitude performance, but its heavy heritage from the proven C. 202 was a considerable strength. And like the racing dog it was named after, it was fast.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=mc-205_serie3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=mc-205_serie3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|DwbexTKZA-A|'''The Shooting Range #49''' - ''Pages of History'' section at 07:02 discusses the C. 205.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
-- [[C. 205 (Family)]]
+* [[C. 205 (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/365071-macchi-c205-serie-3/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/365071-macchi-c205-serie-3/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Macchi}}
 {{Italy fighters}}

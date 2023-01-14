@@ -11,9 +11,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet biplane fighter {{Battle-rating}}. It was introduced in [[Update 1.31]].
 
 The plane is painted after the camouflage scheme of Soviet pilot Sergey Y. Zhukovsky in the 127th Fighter Aviation Regiment of the Soviet Air Forces.
@@ -21,7 +19,6 @@ The plane is painted after the camouflage scheme of Soviet pilot Sergey Y. Zhuko
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 The I-153-M62 handles like a dream, outperforming most fighters at its BR. It accelerates fast and has a good max speed. The Chaika possesses a good turn radius, good climb rate and good acceleration at low altitudes. To fly this plane, you should climb to medium altitudes after taking off (2,000 - 3,000 m) then accelerate to prepare for hot pursuit against enemy fighters and bombers. The plane's massive flaws are its low top speed for its BR and weak airframe.
@@ -51,7 +48,7 @@ The I-153-M62 handles like a dream, outperforming most fighters at its BR. It ac
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || X || X || X || X <!-- ✓ -->
+| X || X || X || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -82,12 +79,11 @@ The I-153-M62 handles like a dream, outperforming most fighters at its BR. It ac
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 8 mm Steel plate behind the pilot.
-- No armour glazing, open cockpit
-- Critical components located at front of aircraft (fuel, pilot, engine, controls)
+* 8 mm Steel plate behind the pilot.
+* No armour glazing, open cockpit
+* Critical components located at front of aircraft (fuel, pilot, engine, controls)
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -96,33 +92,27 @@ The I-153-M62 handles like a dream, outperforming most fighters at its BR. It ac
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|ShKAS (7.62 mm)}}
 
 '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 7.62 mm ShKAS machine gun, nose mounted (750 + 520 + 500 + 700 (clockwise from top-right) = 2,470 total)
+* 4 x 7.62 mm ShKAS machine gun, nose mounted (750 + 520 + 500 + 700 (clockwise from top-right) = 2,470 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|FAB-50sv (50 kg)|RS-82|RBS-82}}
 
 '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 4 x 50 kg FAB-50sv bombs (200 kg total)
-- 8 x RS-82 rockets
-- 8 x RBS-82 rockets
+* Without load
+* 4 x 50 kg FAB-50sv bombs (200 kg total)
+* 8 x RS-82 rockets
+* 8 x RBS-82 rockets
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 As described earlier, climbing at an aggressive rate during the beginning of the game is extremely beneficial. Once at bomber altitude, building up speed is a must as the biplane bleeds speed in high altitude turns. However, once this is achieved, the plane has free reign overruling the sky. Play mainly as an interceptor and air-defence fighter and watch as the enemy plummets towards the ground.
 
 Anything with .50 cals will usually knock your engine out almost immediately. Also, tracer belts easily light this on fire, and the burning is usually fatal. As a result, turn-fighting to keep yourself out of enemy guns is advisable.
@@ -175,29 +165,27 @@ Ground pounding ability is average as there is only light bombs and rockets. The
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Excellent flight performance
-  ** Incredible turn radius
-  ** Great climb rate
-  \*\* Incredibly responsive controls, roll rate is very good
-- Fast for a biplane
-- Great offensive capabilities
-  ** 4 x rapid-firing ShKAS machine guns with large ammo reserves and deadly incendiary tracer belts
-  ** Can carry rockets to deal with ground target
+* Excellent flight performance
+** Incredible turn radius
+** Great climb rate
+** Incredibly responsive controls, roll rate is very good
+* Fast for a biplane
+* Great offensive capabilities
+** 4 x rapid-firing ShKAS machine guns with large ammo reserves and deadly incendiary tracer belts
+** Can carry rockets to deal with ground target
 
 '''Cons:'''
 
-- Low top speed
-- Little protection, especially from the front
-  \*\* A single machine gun round to the engine is capable of knocking it out
-- ShKAS machine guns prone to overheating
+* Low top speed
+* Little protection, especially from the front
+** A single machine gun round to the engine is capable of knocking it out
+* ShKAS machine guns prone to overheating
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -213,33 +201,28 @@ Sergey Yakovlevich Zhukovsky was awarded with the Order of Lenin, six Orders of 
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=i-153_m62_zhukovskiy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=i-153_m62_zhukovskiy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|7d-Kop_sGt8|'''The Shooting Range #162''' - ''Pages of History'' section at 04:44 discusses the I-153.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[I-15 (Family)|Related development]]
-
-- [[I-153 M-62]]
-- [[I-153 M-62 (China)]]
-- [[I-153P]]
+* [[I-153 M-62]]
+* [[I-153 M-62 (China)]]
+* [[I-153P]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer Polikarpov}}
 {{USSR fighters}}

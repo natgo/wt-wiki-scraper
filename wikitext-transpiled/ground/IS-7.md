@@ -1,13 +1,11 @@
 {{Specs-Card
 |code=ussr_is_7
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |market=IS-7
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a gift Rank {{Specs|rank}} Soviet heavy tank {{Battle-rating}}. This tank was introduced in [[Update 1.79 "Project X"]] as the main reward of the 2018 [[Operation S.U.M.M.E.R.]] event.
 
 The IS-7 is the culmination of decades of heavy tank development by the USSR, combining distinctive features of previous iterations of the IS series with more modern technology like an assisted loader. The IS-7 is the ultimate "super-heavy tank", rivalling the Maus and E-100 in pure survivability, with a massive 130 mm naval gun. Nigh impenetrable from the front, even with all but the highest penetration HEAT rounds and ATGMs, this behemoth is more than capable of standing its ground at its BR when played correctly.
@@ -23,7 +21,6 @@ The IS-7 should be played as a breakthrough tank, pushing forward to enable team
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 The IS-7's armour is some of the best conventional armour on any vehicle available in War Thunder. However, due to its BR it often faces vehicles that possess weaponry that the thick, conventional steel armour has no hope of stopping: HEAT-FS, ATGMs and APFSDS. While some sections of the vehicle might be resistant to even these, for the most part, these rounds won't struggle to penetrate.
@@ -36,8 +33,8 @@ To put it simply: Despite the IS-7's status as a 'heavy tank', it shouldn't be p
 
 '''Armour type:'''
 
-- Cast homogeneous armour (Turret)
-- Rolled homogeneous armour (Hull)
+* Cast homogeneous armour (Turret)
+* Rolled homogeneous armour (Hull)
 
 {| class="wikitable"
 |-
@@ -52,11 +49,10 @@ To put it simply: Despite the IS-7's status as a 'heavy tank', it shouldn't be p
 |}
 '''Notes:'''
 
-- Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick.
+* Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp= 1356|rbMinHp= 929}}
@@ -70,9 +66,7 @@ The {{PAGENAME}} sports excellent mobility characteristics, despite its weight; 
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|C-70 (130 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -101,8 +95,8 @@ Your recoil is important but not powerful enough to throw your gun off target af
 ==== Ammunition ====
 The ammunition choice is limited but effective:
 
-- '''BR-482B''': APCBC; a capped armour-piercing shell with a ballistic cap that has a high penetration power and an explosive filler. It will destroy any armoured target it penetrates.
-- '''OF-482M''': HE; useful for destroying open and lightly armoured vehicles.
+* '''BR-482B''': APCBC; a capped armour-piercing shell with a ballistic cap that has a high penetration power and an explosive filler. It will destroy any armoured target it penetrates.
+* '''OF-482M''': HE; useful for destroying open and lightly armoured vehicles.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="8" | Penetration statistics
@@ -115,8 +109,8 @@ The ammunition choice is limited but effective:
 |-
 | BR-482B || APCBC || 313 || 309 || 294 || 276 || 260 || 244
 |-
-| OF-482M || HE || 37 || 37 || 37 || 37 || 37 || 37
-|-
+| OF-482M || HE || 37 || 37 || 37 || 37 || 37 || 37 
+|- 
 |}
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="10" | Shell details
@@ -135,13 +129,11 @@ The ammunition choice is limited but effective:
 | BR-482B || APCBC || 900 || 33.4 || 1.2 || 19 || 192.5 || 48° || 63° || 71°
 |-
 | OF-482M || HE || 900 || 33.4 || N/A || 0.1 || 3,640 || 79° || 80° || 81°
-|-
+|- 
 |}
 
 ==== [[Ammo racks]] ====
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -164,20 +156,18 @@ The ammunition choice is limited but effective:
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
 '''Notes''':
 
-- The {{PAGENAME}} uses two-piece ammunition, composed of projectiles (yellow) and propellant bags (orange). Both have separate racks.
-- Racks 5 (projectiles) and 10 (propellants) are ready racks and take priority in being filled as well as depleted. They amount to 6 shots.
-- Full reload speed will be realized as long as ammo exists in the ready rack. If a ready racks is empty, a penalty to reload speed will occur.
-- Simply not firing when the main gun is loaded will load ammo from other racks into the ready rack. Firing the main gun will interrupt the loading of the ready rack.
-- To go into battle with the flanks depleted of propellant bags (racks 1 to 5), pack 16&nbsp;''(+14)'' shells.
+* The {{PAGENAME}} uses two-piece ammunition, composed of projectiles (yellow) and propellant bags (orange). Both have separate racks.
+* Racks 5 (projectiles) and 10 (propellants) are ready racks and take priority in being filled as well as depleted. They amount to 6 shots.
+* Full reload speed will be realized as long as ammo exists in the ready rack. If a ready racks is empty, a penalty to reload speed will occur.
+* Simply not firing when the main gun is loaded will load ammo from other racks into the ready rack. Firing the main gun will interrupt the loading of the ready rack.
+* To go into battle with the flanks depleted of propellant bags (racks 1 to 5), pack 16&nbsp;''(+14)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
 {{Specs-Tank-Weapon|4}}
 {{Specs-Tank-Weapon|5}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|KPVT (14.5 mm)|RP-46 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -216,9 +206,7 @@ The pintle-mounted 14.5 mm KPVT heavy machine gun can act as both an offensive a
 The small calibre of the RP-46 machine guns makes them largely ineffective against all armoured vehicles but the ones with an open compartment. It still can be used to ping targets as a rangefinding help. While you have 6 of them, they're not very helpful in battle against enemy vehicles.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The IS-7, similarly to the rest of the IS line, should be played as a breakthrough tank, taking advantage of its extreme durability, and avoiding long-range engagements where its shells simply lose effectiveness. With upwards of 450 mm of effective armour in places, there's no need to shy away from taking on almost any opponent.
 
 The IS-7 is capable of destroying almost any machine on the battlefield and should have no qualms about combatting anything on the right terms. However, it's best to be wary of tanks with ATGMs, high-penetration HEAT, large-calibre HESH and anything with APFSDS, as they are able to disable you, often through your frontal plate. Also be wary of any tanks with two plane stabilisers, as the IS-7s main armament is not stabilised in any way and must be stopped before it can fire accurately.
@@ -242,41 +230,38 @@ IS-7 can easily destroy your entire team with little to no effort, so if you see
 ''Combat SPAA'': This may sound absurd, but IS-7 can easily be doomed by SPAA. SPAA can easily use some cover to attack its exposed track with cannons, making moving IS-7 topple over, then destroy second track, to immobilize it. Even if IS-7 fires back at it, APHE is going to over-penetrate, if its armour is less than 15 mm. After that, someone can be called in to make a clean side shot (about 170 mm penetration required for sides). In case if SPAA is combat-capable and has APDS shells with 110 mm of penetration, it can try to get behind the turret, while breaking every MG with autocannons, to execute it personally. If IS-7 is aware of your intentions and keeps tracking SPAA with the turret, just set the vehicle on fire by damaging the engine, the foe will have to extinguish the fire eventually or face consequences.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- 130 mm BR-482B APCBC round capable of dealing a lot of internal damage - very few tanks will survive a successful penetration
-- One of the few Soviet heavy tanks to have a 5-man crew, increasing its survivability
-- Has an assisted loader (which loads a shell every 10 seconds)
-- Decent turret rotation (16.47° per second with a stock crew, 23.53° per second with a fully upgraded aced crew)
-- A lot of machine guns; total of two 14.5 mm KPVTs and six 7.62 mm RP-46's that are deadly against open-top vehicles/ lightly armoured vehicles
-- Anti-aircraft 14.5 mm HMG that can rip apart any thin-skinned vehicles (45 mm of penetration at 10 m)
-- Impressive armour display with a heavily sloped turret, piked front hull, thick gun mantlet, spaced and sloped side armour
-- Can be very difficult to destroy for players who are inexperienced in fighting it
-- Good reverse speed and can accelerate backwards rather quickly
-- Good acceleration and decent top speed for its weight
-- 14.5mm KPVs can heavily damage or destroy gun barrels at close range
+* 130 mm BR-482B APCBC round capable of dealing a lot of internal damage - very few tanks will survive a successful penetration
+* One of the few Soviet heavy tanks to have a 5-man crew, increasing its survivability
+* Has an assisted loader (which loads a shell every 10 seconds)
+* Decent turret rotation (16.47° per second with a stock crew, 23.53° per second with a fully upgraded aced crew)
+* A lot of machine guns; total of two 14.5 mm KPVTs and six 7.62 mm RP-46's that are deadly against open-top vehicles/ lightly armoured vehicles
+* Anti-aircraft 14.5 mm HMG that can rip apart any thin-skinned vehicles (45 mm of penetration at 10 m)
+* Impressive armour display with a heavily sloped turret, piked front hull, thick gun mantlet, spaced and sloped side armour
+* Can be very difficult to destroy for players who are inexperienced in fighting it
+* Good reverse speed and can accelerate backwards rather quickly
+* Good acceleration and decent top speed for its weight
+* 14.5mm KPVs can heavily damage or destroy gun barrels at close range
 
 '''Cons:'''
 
-- Limited maximum ammunition load of 30 rounds
-- Terrible gun depression and elevation (only -3° depression and 15° elevation)
-- Shots to the back of the turret will set off the ammo rack located there, this is the first rack of shells which are loaded into the cannon
-- Often faces 8.7 tanks with stabilisers and APFSDS that can easily penetrate it
-- The front turret optic is a reasonably easy spot to penetrate from the front, needing ~170 mm penetration
-- Vulnerable, as with all late heavy tanks, to chemical rounds, ATGMs and late kinetic rounds
-- 20 mm of armour over the engine deck and only 5 mm of armour plating over the engine ventilation, meaning planes can often cause engine damage and fires
-- It takes a rather long time to replenish shells in the assisted loader, and having an assisted loader means it must reload a shell into the mechanism first before reloading the gun
-- Not a lot of ammo for the machine guns, some of the machine guns cannot even reload once they've expended their first ammo belt
-- The assisted loader will not complete reloads if the loader is knocked out or replaced by another crew member partway through a reload
-- High repair cost
+* Limited maximum ammunition load of 30 rounds
+* Terrible gun depression and elevation (only -3° depression and 15° elevation)
+* Shots to the back of the turret will set off the ammo rack located there, this is the first rack of shells which are loaded into the cannon
+* Often faces 8.7 tanks with stabilisers and APFSDS that can easily penetrate it
+* The front turret optic is a reasonably easy spot to penetrate from the front, needing ~170 mm penetration
+* Vulnerable, as with all late heavy tanks, to chemical rounds, ATGMs and late kinetic rounds
+* 20 mm of armour over the engine deck and only 5 mm of armour plating over the engine ventilation, meaning planes can often cause engine damage and fires
+* It takes a rather long time to replenish shells in the assisted loader, and having an assisted loader means it must reload a shell into the mechanism first before reloading the gun
+* Not a lot of ammo for the machine guns, some of the machine guns cannot even reload once they've expended their first ammo belt
+* The assisted loader will not complete reloads if the loader is knocked out or replaced by another crew member partway through a reload
+* High repair cost
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The development of this advanced Soviet heavy tank began in early 1945. Several outstanding scientific groups got involved with the work at once, and the new vehicle was supposed to combine all the latest developments and a great deal of military experience in the design of heavy tanks. After creating several prototypes and experimenting with the engine, armament, and suspension, a steel giant was born and christened Object 260, with the letter designation IS-7 (Iosif Stalin - 7). Weighing 68 tons, the heavy tank was equipped with a naval diesel engine that took the monster up to a fantastic 60 km/h. The tank was armed with a powerful 130 mm (first with a S-26 and after with a S-70 L54 naval cannon) rifled cannon with mechanized first-order ammo racks and an amazing eight machine guns: two high-calibre 14.5 mm KPVs (one twinned with the cannon and the other an anti-air gun) and six 7.62 mm RP-46 machine guns. The armour of the IS-7 is its main feature with high protection value, along with a range of advanced technological solutions, some of which were successfully used on more modern tanks.
 
 Unfortunately, the tank turned out to be very expensive for a country that was recovering after World War II. Mass production would involve a range of technological problems. In addition, transporting the giant IS-7 was very complex, it required special railroad platforms and the tank's weight exceeded the maximum load for the majority of Soviet bridges of that time. After the construction of several prototypes and a limited experimental series, the project was closed.
@@ -284,36 +269,32 @@ Unfortunately, the tank turned out to be very expensive for a country that was r
 ''- From [[wt:en/news/5657-development-is-7-an-old-school-heavy-tank-en|Devblog]]''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_is_7 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_is_7 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|bTNLb4WT_g4|'''The Shooting Range #312''' - ''Pages of History'' section at 04:04 discusses the {{PAGENAME}}.|dlcbxWasJUg|'''{{PAGENAME}}''' - ''War Thunder Official Channel''|PosWOnOGkSo|'''Best experimental vehicles''' discusses the {{PAGENAME}} at 1:10 - ''War Thunder Official Channel''|ly9JS6errQQ|'''Best secondary armaments''' discusses the {{PAGENAME}} at 1:30 - ''War Thunder Official Channel''|B2woWvJK4ew|'''Top 7 most armoured vehicles''' discusses the {{PAGENAME}} at 5:13 - ''War Thunder Official Channel''|8SBhuUXyCC0|'''How to destroy the {{PAGENAME}}''' - ''War Thunder Official Channel''|ElWz1Tl6BwY|'''The Shooting Range #109''' - ''Metal Beasts'' section at 00:32 discusses the {{PAGENAME}}.|IOUtLGEisi0|'''IS-7 Tank Review''' - ''Napalmratte''|31ZOmtzI_2g|'''The Shooting Range #107''' - ''Pages of History'' section at 05:51 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
 
-- [[T-10M]]
-- [[Object 279]]
+* [[T-10M]]
+* [[Object 279]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/5657-development-is-7-an-old-school-heavy-tank-en|[Devblog] IS-7, an old school heavy tank]]
-- [[wikipedia:IS-7|[Wikipedia] IS-7]]
-- [https://tanks-encyclopedia.com/coldwar/USSR/is-7-object-260 <nowiki>[Tanks Encyclopedia]</nowiki> IS-7 (Object 260)]
+* [[wt:en/news/5657-development-is-7-an-old-school-heavy-tank-en|[Devblog] IS-7, an old school heavy tank]]
+* [[wikipedia:IS-7|[Wikipedia] IS-7]]
+* [https://tanks-encyclopedia.com/coldwar/USSR/is-7-object-260 <nowiki>[Tanks Encyclopedia]</nowiki> IS-7 (Object 260)]
 
 {{TankManufacturer Kirov}}
 {{USSR heavy tanks}}

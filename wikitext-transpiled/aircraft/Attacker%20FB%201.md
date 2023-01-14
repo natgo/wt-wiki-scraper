@@ -9,11 +9,9 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-rating}}. It was introduced in [[Update 1.49 "Weapons of Victory"]].
-[[File:HMS Eagle (R05) flight deck at Gibraltar c1953.jpg|thumbnail|right|Attackers on-board HMS Eagle]]
+[[File:HMS Eagle (R05) flight deck at Gibraltar c1953.jpg|thumbnail|right|Attackers on-board HMS Eagle ]]
 
 Following the Sea Fury in the Fleet Air Arm branch is the first operational carrier-based jet in the Royal Navy's arsenal, the Supermarine Attacker. The Attacker was Britain's first naval jet and offers good all-around performance for a first-generation jet design, as well as a varied ground attack and fighter-bomber capabilities. Available to research after the Sea Fury, the Attacker is a different approach to jet fighter aircraft by comparison to the Meteors, Vampire or Venom.
 
@@ -26,7 +24,6 @@ The unusual undercarriage is also very forgiving during landings, both on airfie
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -54,7 +51,7 @@ The unusual undercarriage is also very forgiving during landings, both on airfie
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || ✓ || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || X     <!-- ✓ -->
 |-
 |}
 
@@ -92,7 +89,7 @@ The unusual undercarriage is also very forgiving during landings, both on airfie
 ! colspan="2" | Engine name || Number
 ! colspan="2" | Empty mass || colspan="2" | Wing loading (full fuel)
 |-
-| colspan="2" | Rolls-Royce Nene-3 || 1
+| colspan="2" | Rolls-Royce Nene-3 ||  1
 | colspan="2" | 4,400 kg || colspan="2" | 261 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
@@ -120,11 +117,10 @@ The unusual undercarriage is also very forgiving during landings, both on airfie
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 38 mm Bulletproof glass - Armoured windscreen
-- 12.7 mm Steel - Armour plate behind the pilot's seat
+* 38 mm Bulletproof glass - Armoured windscreen
+* 12.7 mm Steel - Armour plate behind the pilot's seat
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -133,34 +129,28 @@ The unusual undercarriage is also very forgiving during landings, both on airfie
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 [[File:FighterImage_Shot 2015 07 28 13 04 55.jpg|thumbnail|right|X-Ray View of the Attacker FB.Mk 1]]
 {{main|Hispano Mk.V (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 20 mm Hispano Mk.V cannon, wing-mounted (167 rpg inner, 145 outer = 624 total)
+* 4 x 20 mm Hispano Mk.V cannon, wing-mounted (167 rpg inner, 145 outer = 624 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|H.E. M.C. Mk.II (500 lb)|M.C. Mk.I (1,000 lb)|RP-3}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 500 lb H.E. M.C. Mk.II bombs (1,000 lb total)
-- 2 x 1,000 lb M.C. Mk.I bombs (2,000 lb total)
-- 12 x RP-3 rockets
+* Without load
+* 2 x 500 lb H.E. M.C. Mk.II bombs (1,000 lb total)
+* 2 x 1,000 lb M.C. Mk.I bombs (2,000 lb total)
+* 12 x RP-3 rockets
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Attacker FB 1 is a versatile platform for multiple tasks both in ground and air battles, featuring a competitive armament in air battles and tremendous firepower in ground battles. The main weaponry of the Attacker is the 4 Hispanos Mk. V 20 mm cannons, capable of doing significant damage to ground and air targets.
 
 '''When in air battles'''
@@ -192,27 +182,25 @@ When it comes to just the 20 mm cannons, it should be noted than most of the veh
 [[File:FighterImage_Supermarine 510 landing on HMS Illustrious (R87) 1950.jpg|thumbnail|right|The Supermarine 510 swept-wing development of the Attacker would ultimately lead to the Swift]]
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Powerful armament consisting of 4 x 20 mm Hispano Mk V cannons
-- Wide track undercarriage for easier, stable landings
-- Ability to land on carriers
-- Clear visibility cockpit with good all-round vision
-- Good ground strike payloads for multi-role capabilities
-- Air brakes
-- Good rate of climb
+* Powerful armament consisting of 4 x 20 mm Hispano Mk V cannons
+* Wide track undercarriage for easier, stable landings
+* Ability to land on carriers
+* Clear visibility cockpit with good all-round vision
+* Good ground strike payloads for multi-role capabilities
+* Air brakes
+* Good rate of climb
 
 '''Cons:'''
 
-- Poor acceleration
-- Wing-mounted cannons prove to be lacking when compared to the nose-mounted armament of other jets
-- The taildragger gear configuration makes for difficult carrier take-off's and landings, particularly in simulator battles
+* Poor acceleration
+* Wing-mounted cannons prove to be lacking when compared to the nose-mounted armament of other jets
+* The taildragger gear configuration makes for difficult carrier take-off's and landings, particularly in simulator battles
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 [[File:FighterImage_Supermarine Attacker TS413 on the ground 1947.jpg|thumbnail|left|Supermarine Type 398]]
@@ -243,30 +231,26 @@ It continued in second-line service with the Royal Naval Volunteer Reserve until
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=attaker_fb1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=attaker_fb1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[Ar 234 C-3]] - A common enemy of the Attacker, the Ar 234 C-3 has comparable ground-attack capabilities.
+* [[Ar 234 C-3]] - A common enemy of the Attacker, the Ar 234 C-3 has comparable ground-attack capabilities.
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/devblog/current/772|[Devblog] Attacker FB.1 and M10 & M36 Slugger]]
-- [https://forum.warthunder.com/index.php?/topic/262859-supermarine-attacker-fb-1/ Official data sheet - more details about the performance]
-- [[wt:en/news/3233-vehicle-profile-supermarine-attacker-en|[Vehicle Profile] Supermarine Attacker]]
+* [[wt:en/devblog/current/772|[Devblog] Attacker FB.1 and M10 & M36 Slugger]]
+* [https://forum.warthunder.com/index.php?/topic/262859-supermarine-attacker-fb-1/ Official data sheet - more details about the performance]
+* [[wt:en/news/3233-vehicle-profile-supermarine-attacker-en|[Vehicle Profile] Supermarine Attacker]]
 
 {{AirManufacturer Supermarine}}
 {{Britain jet aircraft}}

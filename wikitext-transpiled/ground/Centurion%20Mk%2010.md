@@ -5,21 +5,17 @@
 }}
 {{Specs-Card
 |code=uk_centurion_mk_10
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was released along with the entire British tree line in [[Update 1.55 "Royal Armour"]]. An upgrade over the previous [[Centurion Mk 3]], the Mk 10 boasts slightly better frontal armour and a more powerful [[L7A1 (105 mm)|105 mm L7A1 gun]], but remains a vulnerable target in the Rank V battles.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 The {{PAGENAME}} has an additional upper front glacis plate compared to the preceding Mk 3. This reliably protects the glacis from penetration by commonly encountered full-bore AP rounds such as those fired by the [[KwK43 (88 mm)|8.8 cm KwK43 L/71]] or the [[D-10T (100 mm)|100 mm D-10]]. However, it will not protect against most APDS or HEAT rounds that may be encountered in up-tiers. The Mk 10's turret is identical to that on the Mk 3 except for the thicker gun mantlet; the mantlet can protect against carelessly aimed shots, but the flat turret face is vulnerable.
 
 There are many rounds of ammunition scattered throughout the Centurion's hull, and a large ammo rack is also situated next to the driver, on the left side of the tank. This means that any round that successfully penetrates the Centurion's hull will likely cause an ammunition explosion. On the other hand, there is no ammunition stored above the turret ring; turret penetrations are unlikely to cause an ammunition explosion unless the shells have explosive fillers.
@@ -27,8 +23,8 @@ There are many rounds of ammunition scattered throughout the Centurion's hull, a
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (turret)
+* Rolled homogeneous armour
+* Cast homogeneous armour (turret)
 
 {| class="wikitable"
 |-
@@ -45,13 +41,12 @@ There are many rounds of ammunition scattered throughout the Centurion's hull, a
 
 '''Notes:'''
 
-- Tracks and suspension wheels are both 20 mm thick.
-- The steel boxes around the turret give 4 mm while hull steel boxes give 6 mm of additional protection, though these seem to be a negligible addition.
-- Spaced armour plates are placed on the side of the Centurion, giving an additional 6 mm of side armour.
+* Tracks and suspension wheels are both 20 mm thick.
+* The steel boxes around the turret give 4 mm while hull steel boxes give 6 mm of additional protection, though these seem to be a negligible addition.
+* Spaced armour plates are placed on the side of the Centurion, giving an additional 6 mm of side armour.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=1,007|rbMinHp=575}}
@@ -66,9 +61,7 @@ The {{PAGENAME}} has decent cross country mobility, but suffers from a low top s
 [[File:Centurion 10 Screenshot 1.jpg|thumb|A Centurion Mk 10 fires its main gun]]
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|Royal Ordnance L7A1 (105 mm)}}
 
 The Centurion Mk 10 is the first British tank to be equipped with the ubiquitous 105 mm L7 rifled gun. However, unlike other countries, the L7 was not issued with HEATFS ammunition in British service, and thus the only rounds available are APDS and HESH. Both are generally less reliably lethal than HEATFS, and require good knowledge of opposing tanks' weak spots and critical modules for best effect, making them harder to use.
@@ -128,9 +121,7 @@ On the plus side, the gun is fully stabilised and the Centurion Mk 10 can reliab
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x400px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.11.0.71''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -147,12 +138,12 @@ On the plus side, the gun is fully stabilised and the Centurion Mk 10 can reliab
 |}
 '''Notes''':
 
-- Shells are modelled individually and disappear after having been shot or loaded.
-- Rack 6 is a first stage ammo rack. It totals 14 shells and gets filled first when loading up the tank.
-- This rack is also emptied early: the rack depletion order at full capacity is: 6 - 1 - 2 - etc. until 5.
-- Full reload speed will be realized as long as shells are available in the ready rack 6. If the ready rack is empty, a penalty to reload speed will occur.
-- Simply not firing when the gun is loaded will move ammo from racks 1-5 into rack 6. Firing will interrupt the restocking of the ready rack.
-- If you pack 15&nbsp;''(+55)'' shells, it will keep most of the hull empty of ammo.
+* Shells are modelled individually and disappear after having been shot or loaded.
+* Rack 6 is a first stage ammo rack. It totals 14 shells and gets filled first when loading up the tank.
+* This rack is also emptied early: the rack depletion order at full capacity is: 6 - 1 - 2 - etc. until 5.
+* Full reload speed will be realized as long as shells are available in the ready rack 6. If the ready rack is empty, a penalty to reload speed will occur.
+* Simply not firing when the gun is loaded will move ammo from racks 1-5 into rack 6. Firing will interrupt the restocking of the ready rack.
+* If you pack 15&nbsp;''(+55)'' shells, it will keep most of the hull empty of ammo.
 
 ==== [[Optics]] ====
 {| class="wikitable" style="text-align:center"
@@ -173,9 +164,7 @@ Note: The optics are mounted on top of the tank instead of coaxially.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|L3A1 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -189,40 +178,35 @@ Note: The optics are mounted on top of the tank instead of coaxially.
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 [[File:Centurion 10 Screenshot 2.jpg|thumb|Centurion Mk 10 drives into battle]]
 The Centurion Mk 10 should feel familiar to players coming from the Centurion Mk 3. The 105 mm L7A1 features high penetration and precision at long range, especially with the high-velocity APDS ammunition, capable of penetrating the upper glacis of a Tiger II. The increased hull armour and thicker gun mantlet make it more resilient against poorly aimed shots, while the tank also retains its great mobility, though it still suffers from having a low top speed.
 
 These traits make the Centurion Mk 10 an excellent sniper and fire support vehicle, able to hold back and pick off enemy vehicles at range. Playing the Centurion too aggressively may result in being quickly outmanoeuvred early game, particularly by high-rank armoured cars such as the [[AUBL/74]] and highly mobile German tanks like the [[Leopard I]] and [[Ru 251]]. The Centurion rewards a player who has patience and a good awareness of their surroundings.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- High-penetrating gun with immediate access to APDS and HESH shots as the default rounds
-- Good gun depression and elevation angles
-- Upper glacis is rather strong against solid shot and APHE
-- Good mobility options with neutral steering and reverse speed
-- Reasonably fast reload speed
+* High-penetrating gun with immediate access to APDS and HESH shots as the default rounds
+* Good gun depression and elevation angles
+* Upper glacis is rather strong against solid shot and APHE
+* Good mobility options with neutral steering and reverse speed
+* Reasonably fast reload speed
 
 '''Cons:'''
 
-- Lower glacis is still a prominent weak spot
-- Turret armour is flat in some places and struggles to stop even Soviet APHE shells
-- Mediocre top speed and acceleration
-- No access to HEATFS, unlike other nations' L7 guns
-- Engine armour is weak from the top, can be damaged aircraft guns
-- Small internal compartment (only 4 crew members) with ammunition scattered all over
-- Very slow vertical targeting speed
+* Lower glacis is still a prominent weak spot
+* Turret armour is flat in some places and struggles to stop even Soviet APHE shells
+* Mediocre top speed and acceleration
+* No access to HEATFS, unlike other nations' L7 guns
+* Engine armour is weak from the top, can be damaged aircraft guns
+* Small internal compartment (only 4 crew members) with ammunition scattered all over
+* Very slow vertical targeting speed
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 The tank's concept was made in 1943 when the Directorate of Tank Design, under Sir Claude Gibb, was asked to produce a new heavy cruiser tank for the General Staff under the designation ''A41'', which was to become the standard of a British "Universal Tank" to replace the separated "infantry" and "cruiser" tanks currently used. As World War II progressed and the Germans unveiled their heavier tanks with an 88 mm cannon like the [[Tiger H1|Tiger]], War Office made a revision to their design requirements to counter this threat. The requirements now include increased durability and reliability, with the ability to protect itself against the 88 mm gun and mines, agility similar to the [[Comet I|Comet tank]], and good reverse speed, all while staying under a 40-ton weight.
 
@@ -245,34 +229,29 @@ Sweden and South Africa also used the Centurions, buying them from Britain after
 The Centurion was also well known for being used in a nuclear test in 1953. A [[Centurion Mk 3]] built by Royal Ordnance Factory as number 39/190 is supplied to Australia in 1952 and kept under army registration number 169041. Placed less than 500 yards from a 9.1kt nuclear explosion, it withstood the explosive force of the explosion. The engine was still functional and the ammunition were intact. The only effect the explosion did onto the tank was moved it back five feet, removing all antennas, sandblasting vision slots, incinerating the cloth mantlet cover, and blow off the armour side skirts. The tank was simply driven off-site after the test, but it is believed that if a crew was in the tank at the time of the explosion, they would've been killed. The tank, nicknamed the ''Atomic Tank'' was then used in the Vietnam War after being restored for action. The Centurion was hit by an RPG round in May 1969 that injured the entire turret crew. While one crew member had to evacuate from his battle wounds, the rest stayed in the still battle-worthy tank. Today, the tank resides at the Robertson Barracks in Palmerston, Northern Territory. Centurion 169041 is distinguished from other nuclear-tested tanks by having a 23-year service after the nuclear test, with 15 months in a hostile environment.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_centurion_mk_10 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_centurion_mk_10 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|lbZxQtGb2Dc|'''Centurion Mk 10 - Tank Review - Between Overpowered And Frustrating''' - ''Napalmratte''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
-
-- [[Centurion (Family)]]
+* [[Centurion (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wikipedia:Centurion (tank)|[Wikipedia] Centurion]]
-- [https://tanks-encyclopedia.com/coldwar/UK/FV-4200_Centurion <nowiki>[Tanks Encyclopedia]</nowiki> FV4007 Centurion]
+* [[wikipedia:Centurion (tank)|[Wikipedia] Centurion]]
+* [https://tanks-encyclopedia.com/coldwar/UK/FV-4200_Centurion <nowiki>[Tanks Encyclopedia]</nowiki> FV4007 Centurion]
 
 {{TankManufacturer Department of Tank Design}}
 {{Britain medium tanks}}

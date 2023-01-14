@@ -10,15 +10,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27. It was a reward vehicle for the [[wt:en/news/3489--en|2016 "Winter Holiday"]] event.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -46,7 +43,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet fighter {{
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -77,18 +74,16 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet fighter {{
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 [[File:P-63C-5 USSR.png|thumb|Armour layout of the P-63C-5 (USSR)]]
 
-- 12.7 mm Steel plate - behind the propeller
-- 15.87 mm Steel plates - in front of the pilot's feet
-- 19.05 mm Steel plate - behind the instrument panel
-- 19.05 mm (63°) Steel plate - between the instrument panel and the windshield
-- 38 mm (61°) Bulletproof glass - Windshield in front of pilot
-- 12.7 mm Steel plate - behind the pilot
-- 12.7 mm Steel plate - behind the engine
+* 12.7 mm Steel plate - behind the propeller
+* 15.87 mm Steel plates - in front of the pilot's feet
+* 19.05 mm Steel plate - behind the instrument panel
+* 19.05 mm (63°) Steel plate - between the instrument panel and the windshield
+* 38 mm (61°) Bulletproof glass - Windshield in front of pilot
+* 12.7 mm Steel plate - behind the pilot
+* 12.7 mm Steel plate - behind the engine
 
 The pilot is protected from the front, having 3 armour plates covering the front of the plane. Because of the engine being in the back, it is more protected compared to more conventional engine setups.
 
@@ -99,28 +94,24 @@ The pilot is protected from the front, having 3 armour plates covering the front
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M10 (37 mm)|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 1 x 37 mm M10 cannon, nose-mounted (58 rpg)
-- 2 x 12.7 mm M2 Browning machine guns, nose-mounted (250 rpg = 500 total)
-- 2 x 12.7 mm M2 Browning machine guns, wing-mounted (200 rpg = 400 total)
+* 1 x 37 mm M10 cannon, nose-mounted (58 rpg)
+* 2 x 12.7 mm M2 Browning machine guns, nose-mounted (250 rpg = 500 total)
+* 2 x 12.7 mm M2 Browning machine guns, wing-mounted (200 rpg = 400 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|FAB-250sv (250 kg)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 3 x 250 kg FAB-250sv bombs (750 kg total)
+* Without load
+* 3 x 250 kg FAB-250sv bombs (750 kg total)
 
 == Usage in battles ==
 ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
@@ -147,14 +138,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 '''Pros:'''
 
--
+*
 
 '''Cons:'''
 
--
+*
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -178,26 +168,24 @@ In all, 3,303 P-63 aircraft were produced, including all modifications. After th
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=p-63c-5_ussr Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=p-63c-5_ussr Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/340956-p-63c-5/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/340956-p-63c-5/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Bell}}
 {{USSR fighters}}

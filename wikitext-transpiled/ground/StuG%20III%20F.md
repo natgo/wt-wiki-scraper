@@ -5,24 +5,21 @@
 }}
 {{Specs-Card
 |code=germ_stug_III_ausf_F
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
-The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|German armoury designation:]] '''Sd.Kfz. 142/1''') is a rank {{Specs|rank}} German tank destroyer {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41.
+The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|German armoury designation:]] '''Sd.Kfz. 142/1''') is a rank {{Specs|rank}} German tank destroyer {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41. 
 
 An improvement over the [[StuG III A]] with the installation of the longer [[StuK 40 (75 mm)|75 mm StuK 40 L/43]] gun allowing it to be used as very deadly tank destroyer instead of support gun.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
-With a maximum of only 50 mm of armour on the superstructure, the StuG III Ausf. F is vulnerable to most guns that it faces, and even to lower rank vehicles if they get close enough. It must instead rely on its low profile in order to stay hidden and avoid incoming fire.
+With a maximum of only 50 mm of armour on the superstructure, the StuG III Ausf. F is vulnerable to most guns that it faces, and even to lower rank vehicles if they get close enough.  It must instead rely on its low profile in order to stay hidden and avoid incoming fire.
 
 The driver, commander, and gunner are seated in a row on the left side of the tank, and a single shot that penetrates that side of the superstructure will usually result in all three of them being disabled, rendering the StuG III completely helpless. On the left side is the loader as well as a generous ammunition rack, and shots to that side of the tank usually result in a much quicker return to the hangar.
 
@@ -30,7 +27,7 @@ It should also be noted that the thin roof armour can be vulnerable to aircraft 
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
+* Rolled homogeneous armour
 
 {| class="wikitable"
 |-
@@ -43,11 +40,10 @@ It should also be noted that the thin roof armour can be vulnerable to aircraft 
 |}
 '''Notes:'''
 
-- Suspension wheels are 15 mm thick while tracks are 20 mm thick.
+* Suspension wheels are 15 mm thick while tracks are 20 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=426|rbMinHp=265}}
@@ -61,9 +57,7 @@ The mobility of the {{PAGENAME}} is very similar to that of the [[Panzer III]] m
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|StuK40 (75 mm)}}
 
 The 7,5 cm StuK 40 L/43 is almost identical to the 7,5 cm KwK40 L/43 on the Pz.IV F2. It is one of the best guns in the game for its rank, combining excellent penetration, lethal APHE shells, high velocity, average rate of fire, and high accuracy, complementing the StuG's playstyle as a medium/long range tank destroyer. Unfortunately, the StuG III does not have the gun depression of the PzKpfw IV F2, and thus is not so good at taking advantage of terrain.
@@ -145,9 +139,7 @@ The StuK 40 also has access to an APCR round with excellent penetration, but its
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 1.79.1.10''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -161,12 +153,10 @@ The StuK 40 also has access to an APCR round with excellent penetration, but its
 |}
 '''Note''':
 
-- Front right empty: 22&nbsp;''(+22)'' shells.
+* Front right empty: 22&nbsp;''(+22)'' shells.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 StuGs, with their thin side and top armour, should be careful of their position. If operating alone, StuGs should either move to the flanks in order to catch the enemy unaware, or operate behind friendly lines. Staying behind cover is preferable, although many rock formations will block the gun trajectory (whilst other tanks can simply shoot over them). Do always keep at least one flank covered, if the enemy is within range.
 
 A particularly useful indicator is the [[Marder III]]. It features a similar gun, but are taller, and has a largely exposed crew. As a result of the latter, Marders are very fragile. If a Marder survives in a certain position, then the StuG is likely to do too.
@@ -181,33 +171,30 @@ A StuG's best call in close combat should be constantly moving to keep the front
 
 '''Enemies worth noting:'''
 
-- [[ZSD63]]: this SPAA has access to a full AP belt with 60+mm of penetration which makes it able to penetrate the StuG from any angle (even frontally) up close, and its quick rate of fire can finish all your crews with a short burst. Do not shoot at the hull below the turret as there is absolutely nothing inside, shoot the turret or the front hull. Multiple shots might be needed as its armour is so thin your shells will not detonate. Slightly angle your tank when reloading to avoid it penetrating your thin vertical armour. It has a rather boxy and tall hull with a geometric turret sitting at the back, slightly similar to a Wirbelwind's. You can also tell by looking at how it fires: the sound and green tracers are very rapid, much like a buzzsaw, but then it will remain silent for half a minute reloading. Note that an experienced ZSD player will hold its fire or shoot in single salvoes with long halts between, making it look like that it's reloading.
+* [[ZSD63]]: this SPAA has access to a full AP belt with 60+mm of penetration which makes it able to penetrate the StuG from any angle (even frontally) up close, and its quick rate of fire can finish all your crews with a short burst. Do not shoot at the hull below the turret as there is absolutely nothing inside, shoot the turret or the front hull. Multiple shots might be needed as its armour is so thin your shells will not detonate. Slightly angle your tank when reloading to avoid it penetrating your thin vertical armour. It has a rather boxy and tall hull with a geometric turret sitting at the back, slightly similar to a Wirbelwind's. You can also tell by looking at how it fires: the sound and green tracers are very rapid, much like a buzzsaw, but then it will remain silent for half a minute reloading. Note that an experienced ZSD player will hold its fire or shoot in single salvoes with long halts between, making it look like that it's reloading.
 
-- [[Sherman]]: Any type of M4 Sherman, with its stabilized main gun and high-calibre machine guns, has the capability to shoot out your tracks and transmission and destroy you easily. Thankfully, you can knock out most Shermans frontally with a single shot, but the Sherman will normally have the first shot off which requires you to defend until you are able to fire back. Angling your StuG like said above should be a common practice in any fight, and making your barrel and tracks hard to destroy should be the most important thing in the event of a one-on-one fight with a Sherman. Many competent Sherman players will normally avoid any frontal fight with a StuG and instead flank and hit the sides before the StuG is aware. Spatial awareness and keeping your surroundings in check is very key to being a good StuG player.
+* [[Sherman]]: Any type of M4 Sherman, with its stabilized main gun and high-calibre machine guns, has the capability to shoot out your tracks and transmission and destroy you easily. Thankfully, you can knock out most Shermans frontally with a single shot, but the Sherman will normally have the first shot off which requires you to defend until you are able to fire back. Angling your StuG like said above should be a common practice in any fight, and making your barrel and tracks hard to destroy should be the most important thing in the event of a one-on-one fight with a Sherman. Many competent Sherman players will normally avoid any frontal fight with a StuG and instead flank and hit the sides before the StuG is aware. Spatial awareness and keeping your surroundings in check is very key to being a good StuG player.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Powerful 75 mm cannon with decent penetration, great accuracy and velocity, and a piercing APCR shell: even with the stock AP it can frontally knock out most opponents with a single shot
-- Good mobility for relocating quickly
-- Large gun mantlet and sections of highly sloped armour often deflect poorly aimed shots
-- Low silhouette makes the StuG easy to conceal in RB and SB
-- Completely enclosed vehicle means it resists strafing aircraft and artillery better than other SPGs
+* Powerful 75 mm cannon with decent penetration, great accuracy and velocity, and a piercing APCR shell: even with the stock AP it can frontally knock out most opponents with a single shot
+* Good mobility for relocating quickly
+* Large gun mantlet and sections of highly sloped armour often deflect poorly aimed shots
+* Low silhouette makes the StuG easy to conceal in RB and SB
+* Completely enclosed vehicle means it resists strafing aircraft and artillery better than other SPGs
 
 '''Cons:'''
 
-- Poor survivability: weak, unsloped frontal armour of only 50 mm easily gets penetrated by common tanks like the [[T-34 (Family)|T-34]], 75 mm [[M4]] or even [[M3 Stuart (Family)|M3 Stuarts]], and once penetrated 3 crew are lined up for the shot, destroying the StuG
-- Rather limited gun depression limits its capacity in hills
-- Lack of a turret makes reacting to flanking enemies harder, especially against common opponents such as the [[M24 (Family)|M24]], [[M22]] and [[GAZ-MM (72-K)|GAZ]] trucks
-- Obstacles on the ground (e.g. stone walls) can easily block the low-profile StuG's view and gun
+* Poor survivability: weak, unsloped frontal armour of only 50 mm easily gets penetrated by common tanks like the [[T-34 (Family)|T-34]], 75 mm [[M4]] or even [[M3 Stuart (Family)|M3 Stuarts]], and once penetrated 3 crew are lined up for the shot, destroying the StuG
+* Rather limited gun depression limits its capacity in hills
+* Lack of a turret makes reacting to flanking enemies harder, especially against common opponents such as the [[M24 (Family)|M24]], [[M22]] and [[GAZ-MM (72-K)|GAZ]] trucks
+* Obstacles on the ground (e.g. stone walls) can easily block the low-profile StuG's view and gun
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 The role of a self-propelled gun came from combat experiences in World War I. During the German offensives on the Allied front, infantry lacked artillery support against fortifications in places out-ranged by their heavy artillery behind the lines. A need for a mobile artillery piece was necessary to keep up with the German infantry and fight enemy fortifications with a direct-fire assault role. The father of this concept was German General Erich von Manstein and was coined as the Sturmartillerie (assault artillery), and these units were to be embedded in infantry divisions.
 
@@ -243,23 +230,21 @@ An important advantage of all of this SPG variants was its minimal profile, grea
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_stug_III_ausf_F Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_stug_III_ausf_F Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{Germany tank destroyers}}

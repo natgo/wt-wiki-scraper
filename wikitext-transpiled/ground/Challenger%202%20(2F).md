@@ -5,21 +5,17 @@
 }}
 {{Specs-Card
 |code=uk_challenger_2_dorchester
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage*{{PAGENAME}}.png|ArtImage2*{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 The Challenger 2 (2F) was created to give increased protection against shaped charges and as much is evident when evaluating the armour. While the internal composite armour remains the same from the previous variant, a large amount of external composite and ERA has been added to the hull front and sides as well as the turret sides. Additional slat armour has also been mounted to the sides and rear of the hull and turret.
 
 With the only real change being the additional external armour, the same structural weak spots that exist on the Challenger 2 remain on the 2F. The large driver's port is an obvious target for enemy armour, which can penetrate it at almost any angle due to only RHA protection. Kinetic rounds aimed through the driver's port from the direct or near-direct front will often go straight through the tank, often taking several crew members, the cannon breech or the engine, occasionally resulting in a knocked out crew. Chemical rounds are less effective but fragments may set off the charges stored next to the driver, especially when fired at from above.
@@ -41,9 +37,9 @@ As with the last variant and many other MBTs, the sides have no real kinetic pro
 |}
 '''Notes:'''
 
-- ''Upper Frontal Plate'' has additional 10 mm external plate.
-- ''Lower Frontal Plate'' has 25.4 mm external steel and ROMOR-A ERA. This is upgraded to a composite with NERA plate when mounting the Dorchester 2F upgrade, as detailed in the table above.
-- Parts of the side and rear hull have mounted Slat Armour (50 mm Chemical Protection).
+* ''Upper Frontal Plate'' has additional 10 mm external plate.
+* ''Lower Frontal Plate'' has 25.4 mm external steel and ROMOR-A ERA. This is upgraded to a composite with NERA plate when mounting the Dorchester 2F upgrade, as detailed in the table above.
+* Parts of the side and rear hull have mounted Slat Armour (50 mm Chemical Protection).
 
 {| class="wikitable"
 |-
@@ -59,7 +55,6 @@ As with the last variant and many other MBTs, the sides have no real kinetic pro
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=1,886|rbMinHp=1,076|AoAweight=5|weight=69}}
@@ -71,9 +66,7 @@ As with the last variant and many other MBTs, the sides have no real kinetic pro
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|L30A1 (120 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -150,9 +143,7 @@ As with the last variant and many other MBTs, the sides have no real kinetic pro
 |}
 
 ==== [[Ammo racks]] ====
-
 <!-- '''Last updated: 2.19.0.76''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -184,15 +175,13 @@ As with the last variant and many other MBTs, the sides have no real kinetic pro
 |}
 [[File:Ammoracks_Challenger_2.png|right|thumb|x450px|[[Ammo racks]] of the Challenger 2]]
 
-- Projectile racks 8 and 9, and propellant rack 7, are first-stage ammo racks
-- Hull front empty: 39 ''(+11)''
+* Projectile racks 8 and 9, and propellant rack 7, are first-stage ammo racks
+* Hull front empty: 39 ''(+11)''
 
 === Machine guns ===
 {{Specs-Tank-Weapon|3}}
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|L37A2 (7.62 mm)|L94A1 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -215,17 +204,15 @@ As with the last variant and many other MBTs, the sides have no real kinetic pro
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 In many ways, the Challenger (2F) plays the same as the precursor [[Challenger 2]]. This is because the original armour from the base Challenger 2 chassis remains unchanged, the same occurs with the powerplant. However, it distinguishes with an increase in the ability to brawl, mainly because of the optional Dorchester armour package. The 2F can more confidently find itself brawling alongside its teammates. Though players should be wary of the adversaries they are facing to decide which way of engagement is safer, depending on the map or the circumstances of the battle.
 
 ==== Protecting the Challenger ====
 Ideally, Challenger 2 needs distance to operate to its full potential as a support tank sniping from very afar. This is beneficial for 3 main reasons:
 
-- Obscure major weak spots on frontal armour (Driver position and gun mantlet)
-- Protect the side armour from faster tanks capable of flanking
-- Increase the effectiveness of the armour against enemy rounds
+* Obscure major weak spots on frontal armour (Driver position and gun mantlet)
+* Protect the side armour from faster tanks capable of flanking
+* Increase the effectiveness of the armour against enemy rounds
 
 As expected, the tank excels at sniping as it has access to its Depleted Uranium round, the L27A1. It will be enough to knock out most enemy tanks, even at large distances. The combined use of the laser range finder and this round will be very effective during sniping. Smoke rounds are readily available for more supporting roles. Some moments will be more appropriate to use the smoke shells, as when capturing a point, interrupting an enemy sniper, or covering allied tanks while they advance; perfect for those who desire a more teamplayer gameplay.
 [[File:Challenger 2F hulldown.png|thumb|Challenger's gun elevation angles should be used to increase the armour effectiveness whenever possible.]]
@@ -243,31 +230,28 @@ Anticipation, ambushing and camping tactics are important while in urban areas (
 During the early module research, the urban engagements can be done with some level of success, once the laser rangefinder, 2F armour pack and the L27A1 round has been researched, the full sniping potential of the Challenger 2 will be unleashed.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Effective side-ERA against air-to-ground missiles
-- Fast reload, particularly for a 120 mm (5 seconds aced)
-- Sights with high zoom, 2nd generation thermals and a wide FOV
-- High reverse of -40 km/h
-- The L30A1 120 mm gun is incredibly accurate, even at long range
-- Turret cheeks are invulnerable to all HEAT-FS and APFSDS, including the dreaded DM53 shell
+* Effective side-ERA against air-to-ground missiles
+* Fast reload, particularly for a 120 mm (5 seconds aced)
+* Sights with high zoom, 2nd generation thermals and a wide FOV
+* High reverse of -40 km/h
+* The L30A1 120 mm gun is incredibly accurate, even at long range
+* Turret cheeks are invulnerable to all HEAT-FS and APFSDS, including the dreaded DM53 shell
 
 '''Cons:'''
 
-- Vulnerable commander's hatch and cannon breech
-- Accessible weak spots, especially the gun mantlet
-- Dorchester 2F only marginally increases LFP armour against APFSDS
-- Dorchester 2F adds 1,100 kg of weight to an already sluggish tank
-- No CITV (Commander Independent Thermal Viewer)
-- L27A1 has low penetration compared to other top rank NATO ammunition
+* Vulnerable commander's hatch and cannon breech
+* Accessible weak spots, especially the gun mantlet
+* Dorchester 2F only marginally increases LFP armour against APFSDS
+* Dorchester 2F adds 1,100 kg of weight to an already sluggish tank
+* No CITV (Commander Independent Thermal Viewer)
+* L27A1 has low penetration compared to other top rank NATO ammunition
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The Challenger 2 (2F) is an upgraded version of the Challenger 2, featuring the Theatre Entry Standard (TES) kit. Rather than being a single modification, the TES is updated as new threats and/or technologies emerge. The TES aims to increase the protection levels against the operational threats of the British Army such as Improvised Explosive Devices (IEDs), hollow charges, or tandem charges - common threats during suburban deployments.
 
 '''MCS'''
@@ -289,39 +273,35 @@ As an offensive upgrade, the TES kit includes a new remote-controlled weapons sy
 The CR2 (2F) also received IED jammers near the left and right front fenders and ECM countermeasures antennas capable of detecting nearby IEDs.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_challenger_2_dorchester Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_challenger_2_dorchester Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|Gj2pAfJ5cxo|'''Should You Grind The Challenger 2 (2F)?''' - ''Sako Sniper''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Analogues in other nations
 
-- [[Leopard 2A6]]
-- [[Ariete PSO]]
-- [[Leclerc S2]]
-- [[M1A2 Abrams]]
-- [[T-72B3]]
+* [[Leopard 2A6]]
+* [[Ariete PSO]]
+* [[Leclerc S2]]
+* [[M1A2 Abrams]]
+* [[T-72B3]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{Britain medium tanks}}

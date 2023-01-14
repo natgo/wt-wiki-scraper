@@ -4,7 +4,6 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 
 The '''{{Specs|name}}''' (shortened '''{{Specs|pseudonym}}''') is a rank {{Specs|rank}} Swedish SPAA {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]] as the Swedish rank I self-propelled anti-air vehicle.
@@ -14,23 +13,21 @@ Historically the {{Specs|name}} was a Swedish attempt at creating a self propell
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 The {{PAGENAME}} is a fairly weak vehicle in terms of survivability, at least in Realistic and Simulator modes where it will be knocked out after losing one crew member. It features no meaningful protection from any angle, with only 10 mm of armour protecting the front of the hull and 16 mm of effective armour protecting the gunner. This armour is superficial really, as even heavy machine guns will have no trouble getting through the armour of the vehicle, and seeing as it's only manned by two crew, a shot through the flat armour of the drivers port will easily knock the vehicle out of action. Additionally as it's open-topped, it's very vulnerable from the air, and the gun can't angle directly upwards, meaning the gun shield can't be used to protect against enemy aircraft. This vehicle may survive a poorly placed shot, but most of the time the armour is not in any way reliable.
 
 In Arcade, it is far better. The light armour and spaced out crew means shots are unlikely to kill both crew at once, while the gun shield and enclosed driver provides average protection for a Rank I SPAA. While crew replenishing, the gun also works despite the gunner being knocked out, meaning the vehicle can defend itself even after some penetrating hits.
 
-'''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (gun mantlet)
+'''Armour type:'''
+* Rolled homogeneous armour
+* Cast homogeneous armour (gun mantlet)
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 10 mm (18-28°) ''Upper plate'' <br> 6 mm (73°) ''Upper glacis'' <br> 8 mm (46-50°) ''Lower glacis'' || 8 mm (34°) ''Top'' <br> 13 mm ''Front'' <br> 8 mm (24°) ''Bottom'' || 8 mm (21°) ''Upper plate'' <br> 8 mm (26°) ''Lower plate'' || 6 mm (17°) ''Front glacis'' <br> 5 mm ''Crew compartment'' <br> 5 mm (9°) ''Engine compartment''
+| Hull || 10 mm (18-28°) ''Upper plate'' <br> 6 mm (73°) ''Upper glacis'' <br> 8 mm (46-50°) ''Lower glacis'' || 8 mm (34°) ''Top'' <br> 13 mm ''Front'' <br> 8 mm (24°) ''Bottom''  || 8 mm (21°) ''Upper plate'' <br> 8 mm (26°) ''Lower plate'' || 6 mm (17°) ''Front glacis'' <br> 5 mm ''Crew compartment'' <br> 5 mm (9°) ''Engine compartment''
 |-
 | Gun shield || 13 mm (28°)
 !
@@ -40,12 +37,11 @@ In Arcade, it is far better. The light armour and spaced out crew means shots ar
 |}
 '''Notes:'''
 
-- Suspension wheels and torsion bars are 10 mm thick, while tracks are 15 mm thick.
-- Belly armour is 5 mm thick.
+* Suspension wheels and torsion bars are 10 mm thick, while tracks are 15 mm thick.
+* Belly armour is 5 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=121|rbMinHp=75}}
@@ -60,9 +56,7 @@ The mobility and speed of the {{PAGENAME}} is fairly effective, it won't outpace
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|lvakan m/40B (20 mm)}}
 
 The Pvlvv fm/42 is equipped with the m/40B 20 mm cannon, which sports effective performance against tanks and aircraft if the rounds hit, and especially regarding aircraft - that's not an easy task. The cannon can only elevate to 45 degrees, which commonly isn't enough to get an attack angle on most aircraft as they will be flying too high up, making this quite a tedious anti-air vehicle to use in its intended role.
@@ -85,9 +79,9 @@ The Pvlvv fm/42 is equipped with the m/40B 20 mm cannon, which sports effective 
 
 ==== Ammunition ====
 
-- '''Default:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}} - A 2-to-1 mix of HE and AP rounds, an effective, versatile belt.
-- '''slsgr m/42:''' {{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}} - Ineffective against ground vehicles but adequate for aircraft.
-- '''slpgr m/42:''' {{Annotation|AP-T|Armour-piercing tracer}} - Very effective against ground vehicles while still being able to damage aircraft.
+* '''Default:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}} - A 2-to-1 mix of HE and AP rounds, an effective, versatile belt.
+* '''slsgr m/42:''' {{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}} - Ineffective against ground vehicles but adequate for aircraft.
+* '''slpgr m/42:''' {{Annotation|AP-T|Armour-piercing tracer}} - Very effective against ground vehicles while still being able to damage aircraft.
 
 A further drawback of this vehicle's armament is the total ammo count at only 108 rounds with the possibility of taking 3 belts. This hugely limits its performance, especially against aircraft as acquiring the lead will usually take a fair few shots. By the time a critical shot is landed, most of the ammo will likely be gone. For this reason, it's not recommended to take a magazine of the full HE belt, as this will take up a third of the {{PAGENAME}}'s total potential ammo, meaning a third of the shots will have no effect against enemy ground targets, and given that attacking ground vehicles is a more adept method of play for this vehicle, it is best to maximise the {{PAGENAME}}'s anti-tank ability. The AP belt can cut through a max of 42 mm of flat armour, so at close range the vehicle will have no trouble knocking out the majority of enemy vehicles.
 
@@ -130,9 +124,7 @@ Once unlocked, it's recommended to take either three belts of AP rounds, or two 
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Pvlvv fm-42.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -147,9 +139,7 @@ Once unlocked, it's recommended to take either three belts of AP rounds, or two 
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 [[File:Fm42 3.jpg|thumb|400px|The Pvlvv fm/42 engaging a BT-7]]
 
 '''Anti air:'''
@@ -173,31 +163,28 @@ Luckily, as this vehicle is quite small, it's fairly easy to slip around the map
 [[File:Fm42 1.jpg|thumb|400px|Pvlvv fm/42 in winter livery]]
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Decent mobility
-- Extremely fast reload allows the Pvlvv fm/42 to nearly seamlessly fire off two magazines before the gun finally overheats and jams
-- Single magazine rearm on a capture point takes about 4 seconds, which allows SPAA to completely resupply while fighting back
-- Effective anti-tank performance, particularly in flanking manoeuvres
-- Reasonably high rate of fire
-- Large drum capacity of 36 rounds
-- Great gunsight zoom
-- Less noticeable than truck SPAAs of other nations (irrelevant in AB)
+* Decent mobility
+* Extremely fast reload allows the Pvlvv fm/42 to nearly seamlessly fire off two magazines before the gun finally overheats and jams
+* Single magazine rearm on a capture point takes about 4 seconds, which allows SPAA to completely resupply while fighting back
+* Effective anti-tank performance, particularly in flanking manoeuvres
+* Reasonably high rate of fire
+* Large drum capacity of 36 rounds
+* Great gunsight zoom
+* Less noticeable than truck SPAAs of other nations (irrelevant in AB)
 
 '''Cons:'''
 
-- Overall low ammo count
-- Rate of fire is high enough to overwhelm light vehicles, but isn't high enough to just obliterate tanks or to crash down planes by firing randomly, steady aim is required
-- Poor survivability due to low crew count and vulnerability to rifle-calibre machine guns from the sides and the back
-- Insufficient elevation for the cannon, often unable to fire at planes which are attacking from above
+* Overall low ammo count
+* Rate of fire is high enough to overwhelm light vehicles, but isn't high enough to just obliterate tanks or to crash down planes by firing randomly, steady aim is required
+* Poor survivability due to low crew count and vulnerability to rifle-calibre machine guns from the sides and the back
+* Insufficient elevation for the cannon, often unable to fire at planes which are attacking from above
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 Not much is known about this tank since only one was ever built and never put into active service. The project went under the generic name ''20 mm pansarvärnsluftvärnsbandlavettage'' (20 mm anti-tank, anti-air, tracked-mount), which can be abbreviated to ''20 mm pvlvblav'' using the Swedish abbreviation system, which was a project to trial the concept of a self-propelled anti-air gun. The Swedish army had briefly trialled the Landsverk L/62 Anti I in the late '30s but no orders were made. However, with the start of WWII, it became clear that the Swedish tank units needed self-propelled anti-air support. Initially it was unknown what type of weapon was needed. On one side there was the quick firing 20 mm Bofors L/70 gun which was effective at short range engagements, and on the other side was the slower firing 40 mm Bofors L/60 gun which was effective at medium range engagements. In the end it was decided to trial both systems on self-propelled platforms.
 
 As the end-goal was to produce an anti-air vehicle for the Swedish tank units, it was preferred if the trial vehicles were armoured and had the same mobility as the tanks. However to save money it was decided to use existing chassis for the trial vehicles instead of building new dedicated designs. The size of the 40 mm Bofors L/60 meant that it was too big for any existing tank chassis available, and had to be mounted on a terrain truck for trials. A few vehicles were built and one of these vehicles became the [[Lvtdgb m/40]]. The 20 mm Bofors L/70 however was small enough to be fitted to an existing tank chassis. As to not use up an in service tank chassis it was decided to use the chassis of the failed Landsverk L-120 tankette prototype, which had competed against the Czech CKD AH-IV tankette to become the strv m/37 and lost due to time constraint and cost.
@@ -209,12 +196,10 @@ The final trial vehicle was trialled sometime around 1942 but not much informati
 What happened to the "Pvlvv fm/42" trial vehicle is not known but it was probably used as a target on a target range like so many other vehicles of its type.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=sw_pvlvv_fm42 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=sw_pvlvv_fm42 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="nolines" widths="240" heights="240">
@@ -224,20 +209,18 @@ File:Fm42 5.jpg|Pvlvv fm/42 engaging an LVT
 </gallery>
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[Flakpanzer I]]
-- [[AS 42]]
-- [[Type 94]]
+* [[Flakpanzer I]]
+* [[AS 42]]
+* [[Type 94]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{TankManufacturer AB Landsverk}}
 {{Sweden anti-aircraft vehicles}}

@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=uk_17_pdr_m10_achilles
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|GarageImage*{{PAGENAME}}\_AddArmour.jpg|ArtImage*{{PAGENAME}}.png|ArtImage2\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|GarageImage_{{PAGENAME}}_AddArmour.jpg|ArtImage_{{PAGENAME}}.png|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' (nickname '''{{specs|pseudonym}}''') is a rank {{Specs|rank}} British tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.55 "Royal Armour"]] along with the rest of the initial British Ground Forces Tree.
 
 The Achilles is based on the American [[M10 GMC|M10]], but carries [[Ordnance QF 17-pounder (76 mm)|17-pounder]] as the main armament, making it an effective tank destroyer. Thanks to a well assigned BR, the Achilles won't feel in the wrong game even when facing higher rank tanks. At its BR, the Achilles plenty of firepower, especially once the Mk.8 APCBC shot modules is unlocked, which is more effective against the [[T-34 (1942)|T-34]] sloped armour. The 17-pdr cuts through the enemy [[Pz.III M|Panzer III]] and [[Pz.IV H|IV]] (the shots enter the front and exit from the rear) so try to aim vital points to cause the maximum damage (first shot to the turret to disable enemy firepower). The T-34 is a bigger problem due to its sloped armour. When facing Russians, the first shot should always be to the gunner. The Mk.8 APCBC is quite able to penetrate the T-34 glacis even from a distance but keep in mind that the damage the 17-pdr will cause is unreliable (sometimes 2 or more shots are required to destroy a T-34, sometimes one shot is enough). The M10 mobility is not outstanding, but the Achilles is pretty capable of carrying the player, gun, and event team where it needs to go.
@@ -21,14 +19,12 @@ Protection is not good. The sloped armour and the track links added to the front
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (Gun mantlet, Transmission area)
-- Structural steel (Counterweight)
+* Rolled homogeneous armour
+* Cast homogeneous armour (Gun mantlet, Transmission area)
+* Structural steel (Counterweight)
 
 {| class="wikitable"
 |-
@@ -41,14 +37,13 @@ Protection is not good. The sloped armour and the track links added to the front
 |}
 '''Notes:'''
 
-- Suspension wheels and tracks are 20 mm thick while the bogies are 10 mm thick.
-- Belly armour is 12.7 mm thick.
-- Hull rear sides are protected by attached grousers that give 20 mm of extra armour.
-- Tracks placed on the front transmission area provide 30 mm extra armour.
+* Suspension wheels and tracks are 20 mm thick while the bogies are 10 mm thick.
+* Belly armour is 12.7 mm thick.
+* Hull rear sides are protected by attached grousers that give 20 mm of extra armour.
+* Tracks placed on the front transmission area provide 30 mm extra armour.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=582|rbMinHp=363|AoAweight=0.32}}
@@ -60,9 +55,7 @@ Protection is not good. The sloped armour and the track links added to the front
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|QF 17-pounder (76 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -175,9 +168,7 @@ Turret empty: 45&nbsp;''(+5)''
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|M2HB (12.7 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -191,9 +182,7 @@ Turret empty: 45&nbsp;''(+5)''
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Achilles is best used for sniping and shoot and scoot tactics. Find a good spot where to shoot at enemies, aim carefully (RB need a good use of mils range estimation) and enjoy the fireworks!
 
 Keep in mind the low fire rate (compared to other 17-pdr AFVs). Once the Achilles have destroyed (or damaged) the enemy, the best thing to do is to relocate. Don't stay in the same spot for too long: the Achilles has weak armour and an open top. Artillery barrages will cripple the tank destroyer and the crew.
@@ -211,38 +200,35 @@ Also, remember to use the .50 cal. It can disorientate enemy tanks and potential
 [[8,8 cm Flak 37 Sfl.]]: also known as the "flak truck", it is rather hard to knock out due to the fact that its armour is so thin that almost every shell will over-penetrate, dealing almost no critical damage. Plus this vehicle mostly face their side to the targets, making it even harder to kill them as the crew are all far apart. So it can usually take quite some hits and take out the shooters one by one. As the shooter, aim for the left side of its turret first to disable its gunner first, then knock out the rest of its crew (right turret & driving compartment). Do not hope that the M2 HB can kill the crews, the flak truck's armour is too thick for any MG to penetrate.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Good gun (17-pounder!)
-- High level of penetration. Will often pass through the front of lighter vehicles and leave through the back
-- Good speed
-- 5 crew members
-- .50 cal Heavy machine gun on top to fight lightly armoured tanks and aircraft
-- Sloped armour makes incoming rounds more likely to ricochet
-- Spare tracks that provided some limited protection on the front and the rear section of the side armour
-- Good gun depression
+* Good gun (17-pounder!)
+* High level of penetration. Will often pass through the front of lighter vehicles and leave through the back
+* Good speed
+* 5 crew members
+* .50 cal Heavy machine gun on top to fight lightly armoured tanks and aircraft
+* Sloped armour makes incoming rounds more likely to ricochet
+* Spare tracks that provided some limited protection on the front and the rear section of the side armour
+* Good gun depression
 
 '''Cons:'''
 
-- Hull armour is rather thin
-- Gun mantlet is weak, T-34s with stock ammo can penetrate at 500 m
-- Big ammo racks
-- Open top turret makes it vulnerable to artillery and strafing planes
-- Very slow turret traverse
-- Will have trouble penetrating some sloped armour before the Shot Mk.8 is purchased
-- Lack of explosive filler for AP shells
-- Handling is poor on some rough terrain before mobility modifications are researched
-- Reverse speed is bad
-- Low ammo reserve for Commander's machine gun (300 rds total)
-- Add-on armour upgrade is less useful than the one on the M10 GMC with less tracks on the side armour
+* Hull armour is rather thin
+* Gun mantlet is weak, T-34s with stock ammo can penetrate at 500 m
+* Big ammo racks
+* Open top turret makes it vulnerable to artillery and strafing planes
+* Very slow turret traverse
+* Will have trouble penetrating some sloped armour before the Shot Mk.8 is purchased
+* Lack of explosive filler for AP shells
+* Handling is poor on some rough terrain before mobility modifications are researched
+* Reverse speed is bad
+* Low ammo reserve for Commander's machine gun (300 rds total)
+* Add-on armour upgrade is less useful than the one on the M10 GMC with less tracks on the side armour
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 The [[M10 GMC|M10 tank destroyer]] was developed in 1942 to fulfil the anti-tank doctrine established by the US military. The doctrine, creating the tank destroyer force, was established with the objective to stop German blitzkrieg tactics by attacking the tanks. Unlike the other armoured fighting vehicles in the theatre, the tank destroyers were made to be placed in reserves to counter any breach in the front lines by taking out the enemy with ambushes. This role led to the desire for a fast vehicle with a powerful gun; armour was not a concern due to the emphasis in speed. The design ended up taking a turret design developed from the [[M6A1|M6A1 Heavy Tank]] and the body from the [[M4A2|M4A2 Sherman]], this with the 3-inch 1918 gun, provided the backbone of the American tank destroyer force in much of World War II. In total, 6,706 M10s and its variants were produced between September of 1942 to 1943 of the same month.
 
@@ -257,32 +243,28 @@ The British doctrine with the Achilles differed from the Americans who saw it as
 The Achilles were deployed on D-Day onward in artillery forces in anti-tank regiments in armoured divisions. A typical anti-tank regiment would have four batteries, two with towed 17-pounders, one equipped with 17-pounder Achilles, and another with regular M10s with the 3-inch gun (though replaced with another Achilles unit once more were available). A notable event with the Achilles was during Operation Charnwood, where Achilles in the 62nd Anti-Tank Regiment fought off a German counterattack comprising of [[Pz.IV H|Panzer IVs]] and Panthers from the 12th Panzer Regiment were routed by the Achilles 17-pounder fires, destroying about 13 German tanks with the loss of four Achilles knocked out and four more damaged.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_17_pdr_m10_achilles Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_17_pdr_m10_achilles Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|sd29LKNd0ro|'''Achilles - She's British, She's Great''' - ''Krebs''|icR4UKOLr5A|'''Tank Chats #137 - Achilles - The Tank Museum''' - ''The Tank Museum''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[Achilles (65 Rg.)]] - Gift version, representing the 65th Anti-Tank Regiment
-- [[M10 GMC]] - Original American configuration of the M10 platform.
+* [[Achilles (65 Rg.)]] - Gift version, representing the 65th Anti-Tank Regiment
+* [[M10 GMC]] - Original American configuration of the M10 platform.
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[Wikipedia:17pdr_SP_Achilles|[Wikipedia] 17pdr SP Achilles]]
+* [[Wikipedia:17pdr_SP_Achilles|[Wikipedia] 17pdr SP Achilles]]
 
 {{TankManufacturer Department of Tank Design}}
 {{Britain tank destroyers}}

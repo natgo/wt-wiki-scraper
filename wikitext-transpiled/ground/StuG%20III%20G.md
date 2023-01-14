@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=germ_stug_III_ausf_G
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|GarageImage*{{PAGENAME}}\_AddArmour.jpg|ArtImage*{{PAGENAME}}.png|ArtImage2\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|GarageImage_{{PAGENAME}}_AddArmour.jpg|ArtImage_{{PAGENAME}}.png|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|German armoury designation:]] Sd.Kfz. 142/1) is a rank {{Specs|rank}} German tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.43]].
 
 Compared with previous models, the G variant of the StuG III tank destroyer comes with thicker armour of up to 80 mm on the front glacis and a 75 mm StuK 40 L/48 gun that gives the vehicle characteristics on par with a Panzer IV. With this cannon on a low-profile construction due to its casemate design, the StuG III G can prove to be a formidable vehicle in the ambush role.
@@ -19,12 +17,11 @@ Compared with previous models, the G variant of the StuG III tank destroyer come
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (hull, superstructure)
+* Rolled homogeneous armour (hull, superstructure)
 
 {| class="wikitable"
 |-
@@ -40,23 +37,22 @@ Compared with previous models, the G variant of the StuG III tank destroyer come
 
 '''Notes:'''
 
-- Suspension wheels and torsion bars are 15 mm thick while tracks are 20 mm thick.
-- The side skirts protect against HEAT and HE rounds by detonating the fuses before they penetrate the vehicle..
-- The [[Add-on Armor|Add-on Armour]] module unlockable at tier IV adds extra tracks (20 mm thick) on several weak spots.
-- The belly of the {{PAGENAME}} is 30 mm thick.
+* Suspension wheels and torsion bars are 15 mm thick while tracks are 20 mm thick.
+* The side skirts protect against HEAT and HE rounds by detonating the fuses before they penetrate the vehicle..
+* The [[Add-on Armor|Add-on Armour]] module unlockable at tier IV  adds extra tracks (20 mm thick) on several weak spots.
+* The belly of the {{PAGENAME}} is 30 mm thick.
 
 While comparatively well armoured to other tank destroyers of its battle rating, it is not well protected enough to allow it to be a frontline assault tank. It is not recommended to attempt angling the vehicle more than 30 degrees to the enemy, as the sides are thin and will easily be penetrated if you attempt to angle the front. One slight advantage this tank has over the previous models of StuGs is the side skirts, which may prevent damage from incoming HE and HEAT shells; they do not provide a large protection bonus for incoming AP rounds, however. A penetration through the driver port can knock out the driver, gunner, and commander as they sit in a line.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=426|rbMinHp=265|AoAweight=0.45}}
 
 While based on the chassis of a Panzer III, the {{PAGENAME}} is uparmoured and thus heavier than a regular Pz.III medium tank. It still benefits from the same all-round mobility but lacks acceleration and top speed. The tank still accelerates decently and is able to reach a maximum speed of 43 km/h in around 12 seconds. The reverse speed is average: it will not get you out of a dangerous situation quickly but isn't a handicap either. The lack of neutral steering makes turning on the spot slow (2 km/h): make sure to build a little speed before turning and you'll be able to turn faster (6 km/h).
 
-If enemies are approaching you to flank, try to shake your hull around to make it harder for them to shoot your tracks and transmission. Defensively, since the StuG III G is a casemate vehicle, the key to survival is putting distance between you and the enemy. When enemies start to close the distance, keep your gun pointed in their direction and hit the reverse gear. When you have to turn toward enemies, it is recommended to use the reverse gear so you don't push out further than you need to.
+If enemies are approaching you to flank, try to shake your hull around to make it harder for them to shoot your tracks and transmission. Defensively, since the StuG III G is a casemate vehicle,  the key to survival is putting distance between you and the enemy. When enemies start to close the distance, keep your gun pointed in their direction and hit the reverse gear. When you have to turn toward enemies, it is recommended to use the reverse gear so you don't push out further than you need to.
 
 If the enemy has destroyed one of your tracks, you are still able to turn in a circle and fight. Even when being fired upon, try to sit still for as long as possible to repair the track, as that is your lifeline. If your transmission or engine is taken out, you must call upon friendly forces to defend you, or help you to repair, and/or drag you back into cover.
 
@@ -71,9 +67,7 @@ Light obstacles such as fences and bushes are not a problem but medium to large 
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|StuK40 (75 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -101,11 +95,11 @@ Your reload time is similar to vehicles at the same BR, if not a little shorter 
 ==== Ammunition ====
 The ammunition available to the {{PAGENAME}} allows for engaging all types of targets:
 
-- '''PzGr 39''': APCBC; a capped armour-piercing shell with a ballistic cap that has a high penetration power and decent explosive filler. It will destroy any armoured target it penetrates.
-- '''Hl.Gr 38B''': HEAT; a shaped charge shell with good penetration power and post-penetration damage. Due to the nature of HEAT rounds, there is no penetration loss over distance: The shaped charge will penetrate the same amount of armour whether the target is 10 m away or 1,000 m away. It is a slow shell, however, and penetrates flat surfaces only. It is effective against lightly armoured and open-topped vehicles.
-- '''PzGr 40''': APCR; a composite round with a very high penetration power but no explosive filler, resulting in very poor post-penetration damage. It penetrates only flat vertical surfaces and will easily ricochet on sloped armour. It is recommended to use these only on targets that you cannot penetrate with PzGr 39.
-- '''Sprgr. 34''': HE; a high explosive round useful for destroying open-topped and lightly armoured vehicles. It is recommended to take a few of these as you don't have a coaxial weapon for use against lightly armoured targets.
-- '''K.Gr.Rot Nb.''': Smoke; an obscuring shell useful for blinding enemy vehicles that are too remote for you to disable so that you can progress towards objectives. They can also be used defensively, fired in front of you to hide behind or fired ahead of friendly forces to cover their manoeuvres. While the shell is able to kill crew members directly and damage aircraft, it is not recommended to use these to try to kill enemy vehicles.
+* '''PzGr 39''': APCBC; a capped armour-piercing shell with a ballistic cap that has a high penetration power and decent explosive filler. It will destroy any armoured target it penetrates.
+* '''Hl.Gr 38B''': HEAT; a shaped charge shell with good penetration power and post-penetration damage. Due to the nature of HEAT rounds, there is no penetration loss over distance: The shaped charge will penetrate the same amount of armour whether the target is 10 m away or 1,000 m away. It is a slow shell, however, and penetrates flat surfaces only. It is effective against lightly armoured and open-topped vehicles.
+* '''PzGr 40''': APCR; a composite round with a very high penetration power but no explosive filler, resulting in very poor post-penetration damage. It penetrates only flat vertical surfaces and will easily ricochet on sloped armour. It is recommended to use these only on targets that you cannot penetrate with PzGr 39.
+* '''Sprgr. 34''': HE; a high explosive round useful for destroying open-topped and lightly armoured vehicles. It is recommended to take a few of these as you don't have a coaxial weapon for use against lightly armoured targets.
+* '''K.Gr.Rot Nb.''': Smoke; an obscuring shell useful for blinding enemy vehicles that are too remote for you to disable so that you can progress towards objectives. They can also be used defensively, fired in front of you to hide behind or fired ahead of friendly forces to cover their manoeuvres. While the shell is able to kill crew members directly and damage aircraft, it is not recommended to use these to try to kill enemy vehicles.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="8" | Penetration statistics
@@ -165,9 +159,7 @@ The ammunition available to the {{PAGENAME}} allows for engaging all types of ta
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.5.1.106''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -181,11 +173,10 @@ The ammunition available to the {{PAGENAME}} allows for engaging all types of ta
 |}
 '''Notes:'''
 
-- Racks disappear after you've used all shells in the rack.
-- Pack 17&nbsp;''(+37)'' shells into battle to deplete your right flank of ammo (racks 1 & 2 emptied).
+* Racks disappear after you've used all shells in the rack.
+* Pack 17&nbsp;''(+37)'' shells into battle to deplete your right flank of ammo (racks 1 & 2 emptied).
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 This tank destroyer is best played as a support vehicle. Unlike its predecessors, it has excellent armour and can be nearly invincible from long ranges. However, if playing the StuG close to the front lines, (for example, capturing points) this armour will not be adequate against the close-range power of most vehicles. Any shot which penetrates the armour will most likely destroy the vehicle due to the tight interior layout. The sides are a weak point from any ranges, so try not to show it to the enemy. It is recommended to support teammates from the flanks, attack from long ranges, and refrain from closing the distance even for objectives unless necessary. If properly concealed, the enemy will not know where they are being attacked from as they concentrate their assault forwards.
@@ -194,38 +185,36 @@ Once in a game, it is recommended to choose the spawn point patiently to pick th
 
 Notable enemies:
 
-- American Tanks - [[M4 Sherman (Family)|M4 Shermans]] are easy targets, but their 75 mm guns can penetrate the StuG's frontal armour if unangled. 76 mm-armed Shermans are more dangerous. [[M4A3E2|M4A3E2 Jumbos]] can lead to stalemates, but getting too close can allow the Jumbo to aim for weak spots. The best way to defeat the Jumbo is to flank and hit them at the side, preferably the lower area at the suspension where it is only 38.1 mm thick.
-- Soviet tanks - [[T-34 (Family)|T-34s]] are also easy targets, but 57 mm-armed [[T-34-57|T-34-57s]] and 85 mm-armed [[T-34-85|T-34-85s]] can destroy the StuG in one or two shots. It is easy to penetrate the T-34's hull, as the hull goes nearly unchanged across all variants so they should be detected and destroyed quickly. From long ranges, angling the StuG slightly might enhance the front armour against the T-34's shells, but angling too much will allow the T-34 to punch through the vulnerable side armour. [[KV-1 (Family)|KV-1s]] can be shot through the side and the front gun mantlet, but their tough armour will often be able to bounce or eat shells. Try to destroy their mobility or weapons before they do the same to you. Autocannon-armed trucks like the [[ZiS-12 (94-KM)]] are a diminutive but real danger to the StuG. An HE or HEAT shell should be used to destroy them before they quickly flank and punch through your thin side armour.
-- British tanks - British tanks have some low calibre guns, but their high muzzle velocity and fast reload rate will penetrate and destroy the StuG easily. The Cruiser tanks and armoured cars like the [[Cromwell (Family)|Cromwell]] and [[SARC MkVI (6pdr)|SARC Mk VI]] will be difficult targets, as they are mobile and can flank quickly. Try to be the first to detect the tank and fire at them while they are trying to position themselves, as their armour can be easily pierced by the StuK40 gun. If faced with a [[Churchill Mk VII]] from the front, it is recommended to withdraw and call on teammates and aircraft for support. If the Churchill is distracted, reposition to take aim at the side armour and try to destroy the interior with a couple of APHE rounds. Other Churchills ([[Churchill I|Mk I]] or [[Churchill III|Mk III]]) can be penetrated frontally, as long as they are not angled. [[Sherman Firefly|Sherman Fireflies]] and the [[Archer]] are equipped with the excellent 17-pounder gun, which can punch through the StuG in one shot. Try to prioritize destroying these vehicles first.
-- Japanese tanks - Japanese tanks are generally overlooked and under-prioritized, but don't underestimate them and never let them flank. Even the Japanese 37 mm guns can penetrate the StuG from the side. [[M24 (Japan)|JSDF M24s]], [[Na-To|Na-Tos]], [[Chi-Nu II|Chi-Nu IIs]], and [[Chi-To|Chi-Tos]] are particularly dangerous. M24s can close the distance fast and manoeuvre faster than the StuG can blink, literally driving circles around it and blowing it up. Na-Tos, Chi-Nu IIs and Chi-Tos have good guns with great post-penetration damage. Allowing one to hit you will result in destruction.
-- Italian tanks - Italian vehicles armed with the 90 mm 90/53, like the [[Breda 501]], will be able to destroy the StuG frontally in one shot. Interestingly, the Italians also have the [[StuG III G (Italy)|StuG III G]] which, having identical capabilities to the German version, can instigate long, stalemate sniping matches between it and you. The fact that both of you have identical vehicles also means that you both have extensive understanding of both of your vehicles. Try to shoot first. The similarly configured [[75/46 M43]] is slightly more dangerous, as penetration of its upper front plate can be unreliable and its 75 mm cannon is more potent. The [[R3 T20 FA-HS]] is potent for obvious reasons.
-- Chinese tanks - When facing Chinese ground forces, they will most likely be using the tanks mentioned in the American and Soviet sections. The same concerns apply.
-- French tanks - A lot of mid-tier French vehicles like the [[M4A4 (SA50)]] have great cannons which can practically ignore the StuG's armour. Though the [[AMX-13 (FL11)]] is not one of those, its high mobility allows it to motor around the StuG and flank. The [[AMX-13 DCA 40]] can wear down the StuG's modules and crew quickly due to its quick-firing 40 mm cannon.
-- '''Swedish tanks:''' Though Swedish tanks are generally slow and carry little armour, some Swedish vehicles like the [[Pvkv II]] can be dangerous. APDS can penetrate the StuG's armour but will do little damage post-penetration. Swedish HEAT rounds at the tier can be blocked by the side skirts.
+* American Tanks - [[M4 Sherman (Family)|M4 Shermans]] are easy targets, but their 75 mm guns can penetrate the StuG's frontal armour if unangled. 76 mm-armed Shermans are more dangerous. [[M4A3E2|M4A3E2 Jumbos]] can lead to stalemates, but getting too close can allow the Jumbo to aim for weak spots. The best way to defeat the Jumbo is to flank and hit them at the side, preferably the lower area at the suspension where it is only 38.1 mm thick.
+* Soviet tanks - [[T-34 (Family)|T-34s]] are also easy targets, but 57 mm-armed [[T-34-57|T-34-57s]] and 85 mm-armed [[T-34-85|T-34-85s]] can destroy the StuG in one or two shots. It is easy to penetrate the T-34's hull, as the hull goes nearly unchanged across all variants so they should be detected and destroyed quickly. From long ranges, angling the StuG slightly might enhance the front armour against the T-34's shells, but angling too much will allow the T-34 to punch through the vulnerable side armour. [[KV-1 (Family)|KV-1s]] can be shot through the side and the front gun mantlet, but their tough armour will often be able to bounce or eat shells. Try to destroy their mobility or weapons before they do the same to you. Autocannon-armed trucks like the [[ZiS-12 (94-KM)]] are a diminutive but real danger to the StuG. An HE or HEAT shell should be used to destroy them before they quickly flank and punch through your thin side armour.
+* British tanks - British tanks have some low calibre guns, but their high muzzle velocity and fast reload rate will penetrate and destroy the StuG easily. The Cruiser tanks and armoured cars like the [[Cromwell (Family)|Cromwell]] and [[SARC MkVI (6pdr)|SARC Mk VI]] will be difficult targets, as they are mobile and can flank quickly. Try to be the first to detect the tank and fire at them while they are trying to position themselves, as their armour can be easily pierced by the StuK40 gun. If faced with a [[Churchill Mk VII]] from the front, it is recommended to withdraw and call on teammates and aircraft for support. If the Churchill is distracted, reposition to take aim at the side armour and try to destroy the interior with a couple of APHE rounds. Other Churchills ([[Churchill I|Mk I]] or [[Churchill III|Mk III]]) can be penetrated frontally, as long as they are not angled. [[Sherman Firefly|Sherman Fireflies]] and the [[Archer]] are equipped with the excellent 17-pounder gun, which can punch through the StuG in one shot. Try to prioritize destroying these vehicles first.
+* Japanese tanks - Japanese tanks are generally overlooked and under-prioritized, but don't underestimate them and never let them flank. Even the Japanese 37 mm guns can penetrate the StuG from the side. [[M24 (Japan)|JSDF M24s]], [[Na-To|Na-Tos]], [[Chi-Nu II|Chi-Nu IIs]], and [[Chi-To|Chi-Tos]] are particularly dangerous. M24s can close the distance fast and manoeuvre faster than the StuG can blink, literally driving circles around it and blowing it up. Na-Tos, Chi-Nu IIs and Chi-Tos have good guns with great post-penetration damage. Allowing one to hit you will result in destruction.
+* Italian tanks - Italian vehicles armed with the 90 mm 90/53, like the [[Breda 501]], will be able to destroy the StuG frontally in one shot. Interestingly, the Italians also have the [[StuG III G (Italy)|StuG III G]] which, having identical capabilities to the German version, can instigate long, stalemate sniping matches between it and you. The fact that both of you have identical vehicles also means that you both have extensive understanding of both of your vehicles. Try to shoot first. The similarly configured [[75/46 M43]] is slightly more dangerous, as penetration of its upper front plate can be unreliable and its 75 mm cannon is more potent. The [[R3 T20 FA-HS]] is potent for obvious reasons.
+* Chinese tanks - When facing Chinese ground forces, they will most likely be using the tanks mentioned in the American and Soviet sections. The same concerns apply.
+* French tanks - A lot of mid-tier French vehicles like the [[M4A4 (SA50)]] have great cannons which can practically ignore the StuG's armour. Though the [[AMX-13 (FL11)]] is not one of those, its high mobility allows it to motor around the StuG and flank. The [[AMX-13 DCA 40]] can wear down the StuG's modules and crew quickly due to its quick-firing 40 mm cannon.
+* '''Swedish tanks:''' Though Swedish tanks are generally slow and carry little armour, some Swedish vehicles like the [[Pvkv II]] can be dangerous. APDS can penetrate the StuG's armour but will do little damage post-penetration. Swedish HEAT rounds at the tier can be blocked by the side skirts.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Powerful 75 mm cannon with decent penetration, great accuracy, good velocity, and a piercing APCR: even with the stock APCBC it can frontally one-shot most opponents like the [[M4]], [[T-34 (Family)|T-34]], [[Cromwell (Family)|Cromwell]] or even the [[KV-1 (Family)|KV-1]]
-- Great frontal angled armour of 80 mm plus 20 mm add-on tracks (100 mm total, same as the [[Tiger H1]]) makes it immune to low-penetrating rounds
-- Competent reverse gear and mobility
-- Low silhouette makes the StuG easy to conceal in RB and SB
-- Large side skirts can more or less provide some additional protection against HE and HEAT rounds
-- Multi-role potential: can be effective in city combat and close quarters, or long-range sniping
+* Powerful 75 mm cannon with decent penetration, great accuracy, good velocity, and a piercing APCR: even with the stock APCBC it can frontally one-shot most opponents like the [[M4]], [[T-34 (Family)|T-34]], [[Cromwell (Family)|Cromwell]] or even the [[KV-1 (Family)|KV-1]]
+* Great frontal angled armour of 80 mm plus 20 mm add-on tracks (100 mm total, same as the [[Tiger H1]]) makes it immune to low-penetrating rounds
+* Competent reverse gear and mobility
+* Low silhouette makes the StuG easy to conceal in RB and SB
+* Large side skirts can more or less provide some additional protection against HE and HEAT rounds
+* Multi-role potential: can be effective in city combat and close quarters, or long-range sniping
 
 '''Cons:'''
 
-- Vertical parts of frontal armour can be penetrated relatively easily; a penetration through the driver port can knock out the driver, gunner, and commander, resulting in instant knock-out for the StuG
-- Fixed casemate superstructure restricts gun traverse, especially in horizontal and vertical angles
-- No neutral steering, so it can't turn on the spot
-- No coaxial weapons for use against lightly armoured targets or aircraft
-- A HE shell onto the machine gun shield can send the shrapnel down through the hull roof down into the crew compartment, particularly from large calibre cannons such as the [[M-10T (152 mm)|152 mm M-10T]]
+* Vertical parts of frontal armour can be penetrated relatively easily; a penetration through the driver port can knock out the driver, gunner, and commander, resulting in instant knock-out for the StuG
+* Fixed casemate superstructure restricts gun traverse, especially in horizontal and vertical angles
+* No neutral steering, so it can't turn on the spot
+* No coaxial weapons for use against lightly armoured targets or aircraft
+* A HE shell onto the machine gun shield can send the shrapnel down through the hull roof down into the crew compartment, particularly from large calibre cannons such as the [[M-10T (152 mm)|152 mm M-10T]]
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 ===Development===
@@ -261,38 +250,32 @@ The overall quality of the armament and armour of this assault gun made it a fre
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_stug_III_ausf_G Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_stug_III_ausf_G Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
-- [[StuG III (Family)]]
+* [[StuG III (Family)]]
 
 ;Other vehicles of similar configuration and role
-
-- [[SU-85]]
-- [[75/46 M43]]
-- [[Pvkv m/43 (1946)]]
+* [[SU-85]]
+* [[75/46 M43]]
+* [[Pvkv m/43 (1946)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/3380/current|[National Forces] German Sturmgeschütz Units]]
-- [[wikipedia:Sturmgesch%C3%BCtz_III|[Wikipedia] Sturmgeschütz III]]
-- [https://tanks-encyclopedia.com/ww2/nazi_germany/Sturmgeschutz-III.php <nowiki>[Tanks Encyclopedia]</nowiki> Sturmgeschütz III]
-- [https://www.militaryfactory.com/armor/detail.asp?armor_id=257 <nowiki>[Military Factory]</nowiki> SdKfz 142 StuG III (Sturmgeschütz III)]
+* [[wt:en/news/3380/current|[National Forces] German Sturmgeschütz Units]]
+* [[wikipedia:Sturmgesch%C3%BCtz_III|[Wikipedia] Sturmgeschütz III]]
+* [https://tanks-encyclopedia.com/ww2/nazi_germany/Sturmgeschutz-III.php <nowiki>[Tanks Encyclopedia]</nowiki> Sturmgeschütz III]
+* [https://www.militaryfactory.com/armor/detail.asp?armor_id=257 <nowiki>[Military Factory]</nowiki> SdKfz 142 StuG III (Sturmgeschütz III)]
 
 {{Germany tank destroyers}}

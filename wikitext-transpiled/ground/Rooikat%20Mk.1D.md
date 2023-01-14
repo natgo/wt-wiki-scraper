@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British light tank {{Battle-rating}}. It was introduced in [[Update 1.95 "Northern Wind"]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 Armour on the Rooikat chassis is light, but reasonably good. It will be safe from heavy machine guns from almost all the angles. While theoretically the 12.7 mm rounds can penetrate flat sides from up to 500 m and damage them from some angles when closer than 100 m, that almost never happens. 20 mm autocannons and above will be able to penetrate almost anywhere, and so SPAA and cannon-armed aircraft will be a significant threat.
@@ -34,14 +31,14 @@ The {{PAGENAME}} also comes stock with a desert yellow camouflage, which can be 
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (hull, turret, cupola)
-- Wheel (tires, torsion bars)
+* Rolled homogeneous armour (hull, turret, cupola)
+* Wheel (tires, torsion bars)
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 25 mm (77°) ''Upper glacis - Centre'' <br> 10 mm (75°) ''Upper glacis - Sides'' <br> 30 mm (23°) ''Lower glacis - Centre'' <br> 15 mm (23°) ''Lower glacis - Sides'' || 20 mm (25°) ''Top'' <br> 25 mm (0-9°) ''Bottom'' || 20 mm ''Upper plate'' <br> 20 mm (29°) ''Lower plate'' || 25 mm (13°) ''Front glacis - Centre'' <br> 10 mm (15°) ''Front glacis - Sides'' <br> 20 mm (0-13°) ''Driver compartment'' <br> 10 mm (0-17°) ''Crew compartment'' <br> 5 mm ''Radiator vents''
+| Hull || 25 mm (77°) ''Upper glacis - Centre'' <br> 10 mm (75°) ''Upper glacis - Sides'' <br> 30 mm (23°) ''Lower glacis - Centre'' <br> 15 mm (23°) ''Lower glacis - Sides'' ||  20 mm (25°) ''Top'' <br> 25 mm (0-9°) ''Bottom'' || 20 mm ''Upper plate'' <br> 20 mm (29°) ''Lower plate'' || 25 mm (13°) ''Front glacis - Centre'' <br> 10 mm (15°) ''Front glacis - Sides'' <br> 20 mm (0-13°) ''Driver compartment'' <br> 10 mm (0-17°) ''Crew compartment'' <br> 5 mm ''Radiator vents''
 |-
 | Turret || 25 mm (26-28°) ''Turret front'' <br> 25 mm ''Gun mantlet - external'' <br> 30 mm (cylindrical) ''Gun mantlet - internal'' || 25 mm (12-16°) || 15 mm (15°) || 15 mm (10°) ''Front'' <br> 10 mm (0-11°) ''Rear''
 |-
@@ -51,13 +48,12 @@ The {{PAGENAME}} also comes stock with a desert yellow camouflage, which can be 
 
 '''Notes:'''
 
-- Tires and torsion bars are 10 mm thick.
-- The storage box behind the turret is 5 mm thick.
-- The internal part of the gun mantlet overlaps with parts of the turret front.
+* Tires and torsion bars are 10 mm thick.
+* The storage box behind the turret is 5 mm thick.
+* The internal part of the gun mantlet overlaps with parts of the turret front.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=879|rbMinHp=501}}
@@ -75,9 +71,7 @@ Areas with mud (very specific places on maps like the hill entrances on [[White 
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|GT-4 (76 mm)}}
 
 The {{PAGENAME}} is armed with the Denel 76 mm GT-4 cannon. As far as game-play goes, it is essentially a hand-loaded version of the OTO-Melara 76 mm/62 gun found on the OTOMATIC. It fires the same APFSDS and has HE with similar performance to the shell found on the OTOMATIC, albeit not VT-fused and thus far less useful. Its APFSDS has the ability to frontally penetrate any opponent in its battle-rating bracket, although the odd [[Maus]] may be troublesome, particularly if it is angled.
@@ -137,9 +131,7 @@ It has a base 8.7 second reload, which can be reduced to 6.7s through a fully tr
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.1.0.94''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -156,19 +148,17 @@ It has a base 8.7 second reload, which can be reduced to 6.7s through a fully tr
 |}
 Notes:
 
-- Shells are modeled individually and disappear after having been shot or loaded.
-- Rack 6 is a first stage ammo rack. It totals 10 shells and gets filled first when loading up the tank.
-  ** This rack is also emptied early: the rack depletion order at full capacity is: 6 - 1 - 2 - etc. until 5.
-  ** Simply not firing when the gun is loaded will move ammo from racks 1-5 into rack 6. Firing will interrupt the restocking of the ready racks.
-- The visual discrepancy concerns the total number of shells as well as the number of shells per rack:
-  ** 49 shells are modeled but you can pack only 48 shells.
-  ** Rack 1 is modeled as 4 shells but contains only 3 shells.
+* Shells are modeled individually and disappear after having been shot or loaded.
+* Rack 6 is a first stage ammo rack. It totals 10 shells and gets filled first when loading up the tank.
+** This rack is also emptied early: the rack depletion order at full capacity is: 6 - 1 - 2 - etc. until 5.
+** Simply not firing when the gun is loaded will move ammo from racks 1-5 into rack 6. Firing will interrupt the restocking of the ready racks.
+* The visual discrepancy concerns the total number of shells as well as the number of shells per rack:
+** 49 shells are modeled but you can pack only 48 shells.
+** Rack 1 is modeled as 4 shells but contains only 3 shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|Browning MG4 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -182,7 +172,6 @@ Notes:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The Rooikat Mk.1D should be played either as long range support (with the help of the scouting mechanic) or in quick flanking manoeuvres.
@@ -196,31 +185,29 @@ While it's not very recommended, the {{PAGENAME}} can quickly rush down enemy sn
 It is important to not bully ATGM tanks unless the kill is guaranteed, because they will vaporize any light tanks that are a nuisance to them immediately and the small APFSDS of the {{PAGENAME}} can, against all odds, shatter upon hitting some ATGM tanks or disable only one of the crew members, ultimately failing to stop them from retaliating.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- One of the fastest ground vehicles in-game (120 km/h in RB), even with stock modules it can often drive off-road as fast as an upgraded [[BMP-2]]
-- Access to APFSDS rounds
-- Sides and front can stop .50 cals at slight angle or at 100+ metres
-- Laser Rangefinder helps with aiming at any range
-- Very good reverse speed at -43 km/h
-- Has good zoom variety for a light tank, having X8-12 zoom compared to usual X7-8 of light tanks at the rank
-- Incredible stock grind experience thanks to stock APFSDS and good gun handling & excellent speed on the appropriate terrain
+* One of the fastest ground vehicles in-game (120 km/h in RB), even with stock modules it can often drive off-road as fast as an upgraded [[BMP-2]]
+* Access to APFSDS rounds
+* Sides and front can stop .50 cals at slight angle or at 100+ metres
+* Laser Rangefinder helps with aiming at any range
+* Very good reverse speed at -43 km/h
+* Has good zoom variety for a light tank, having X8-12 zoom compared to usual X7-8 of light tanks at the rank
+* Incredible stock grind experience thanks to stock APFSDS and good gun handling & excellent speed on the appropriate terrain
 
 '''Cons:'''
 
-- Despite the indicated top speed, the vehicle will rarely get to 100+ km/h and there aren't many maps that allow to use it in a meaningful way either
-- Not as good at reversing as other British light tanks or the [[Object 906]]
-- Weak armour overall, it will succumb to any autocannon fire instantly
-- Vehicle will not be able to stabilise the gun at speeds of 75+ km/h (46.6+ mph)
-- The 76/62 APFSDS has very punctual post-pen damage. It's not uncommon to take 3+ rounds to finish a target off
-- Reload rate is rather average - mediocre when taking into account the lackluster sabot damage
-- Has a rather large turning circle, so turning around in confined areas may require 3-point turns.
+* Despite the indicated top speed, the vehicle will rarely get to 100+ km/h and there aren't many maps that allow to use it in a meaningful way either
+* Not as good at reversing as other British light tanks or the [[Object 906]]
+* Weak armour overall, it will succumb to any autocannon fire instantly
+* Vehicle will not be able to stabilise the gun at speeds of 75+ km/h (46.6+ mph)
+* The 76/62 APFSDS has very punctual post-pen damage. It's not uncommon to take 3+ rounds to finish a target off
+* Reload rate is rather average - mediocre when taking into account the lackluster sabot damage
+* Has a rather large turning circle, so turning around in confined areas may require 3-point turns.
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 === [[wt:en/news/6496-development-rooikat-76-mk-1d-desert-cat-en|Devblog]] ===
@@ -233,12 +220,11 @@ In the early 1980s, having sought knowledge and expertise from German engineers,
 In the early 2000s, the Rooikat 76 Mk.1D was developed under a modernisation program, becoming the most modern modification of the vehicle. The upgrade introduced several smaller improvements, such as improved commander optics and number of smoke launchers as well as others. Over 170 Rooikat 76 Mk.1Ds serve with the South African army today.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_rooikat_76 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_rooikat_76 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="150">
@@ -254,24 +240,22 @@ File:Rooikat Mk1D WTWallpaper 06.jpg|
 {{Youtube-gallery|rDQ8R95LQJM|'''Should You Buy The Rooikat Mk. 1D''' - ''Sako Sniper''|qoprhFB5S7I|'''The Shooting Range #179''' - ''Metal Beasts'' section at 00:30 discusses the Rooikat Mk.1D.|RJjVRagzYPU|'''Rooikat Mk.1D - Speeding Up British 8.3 Lineup''' - ''Napalmratte''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
 
-- [[AUBL/74 HVG]]
-- [[Centauro]]
-- [[AMX-10RC]]
+* [[AUBL/74 HVG]]
+* [[Centauro]]
+* [[AMX-10RC]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6496-development-rooikat-76-mk-1d-desert-cat-en|[Devblog] Rooikat 76 Mk.1D: Desert Cat]]
+* [[wt:en/news/6496-development-rooikat-76-mk-1d-desert-cat-en|[Devblog] Rooikat 76 Mk.1D: Desert Cat]]
 
 {{Britain light tanks}}
 [[Category:Wheeled ground vehicles]]

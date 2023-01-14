@@ -10,9 +10,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet fighter {{Battle-rating}}. It was introduced in [[Update_1.41#19.06.2014_-_1.41.27.12|Update 1.41.27]] through the [[wt:en/news/668--en|LaGG-3-34 starter pack]]. From 2014 to 2019, it was purchasable in the store as part of several premium packs but was removed at the beginning of 2019. It was also made available in parallel in the [[Warbonds]] shop as a random prize of the Vehicle battle trophy from [[wt:en/news/5738-news-how-can-you-get-premium-vehicles-warbonds-en|September 2018]] to March 2019 and from [[wt:en/news/6605-news-premium-vehicles-for-warbonds-until-the-31st-of-march-en|March 2020]] to October 2020.
 
 The LaGG-3-34 is a modification of the LaGG-3 with a nose-mounted 37 mm NS-37 autocannon that can be equipped with a variety of belts, including AP. As such, it can fight late biplanes and early fighters but will suffer in low altitude engagements due to its weight. However, if used as a heavy fighter (maintaining energy, using altitude and avoiding furballs), the LaGG-3-34 is extraordinarily effective in dealing with planes and tanks.
@@ -20,7 +18,6 @@ The LaGG-3-34 is a modification of the LaGG-3 with a nose-mounted 37 mm NS-37 au
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -48,7 +45,7 @@ The LaGG-3-34 is a modification of the LaGG-3 with a nose-mounted 37 mm NS-37 au
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -88,18 +85,15 @@ The LaGG-3-34 is a modification of the LaGG-3 with a nose-mounted 37 mm NS-37 au
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|NS-37 (37 mm)|Berezin UB (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 1 x 37 mm NS-37 cannon, nose-mounted (36 rpg)
-- 1 x 12.7 mm Berezin UB machine gun, nose-mounted (200 rpg)
+* 1 x 37 mm NS-37 cannon, nose-mounted (36 rpg)
+* 1 x 12.7 mm Berezin UB machine gun, nose-mounted (200 rpg)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 ;Combat tactics
@@ -133,31 +127,28 @@ Many people will head-on this aircraft if you use it as a fighter instead of an 
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Very large and powerful nose-mounted gun for rank II
-- NS-37 gets HEFI-T\* rounds which can take out enemy planes with a single hit
-- Good manoeuvrability at its typical speeds
-- Has access to 36 shells for the 37 mm gun (6 more than the [[Yak-9T]])
-- Semi-rare variation of LaGG-3 to see in the battles, a nasty surprise to the enemy
-- Heavy weight allows for excellent speed gain in dives, be careful with lock up
+* Very large and powerful nose-mounted gun for rank II
+* NS-37 gets HEFI-T* rounds which can take out enemy planes with a single hit
+* Good manoeuvrability at its typical speeds
+* Has access to 36 shells for the 37 mm gun (6 more than the [[Yak-9T]])
+* Semi-rare variation of LaGG-3 to see in the battles, a nasty surprise to the enemy
+* Heavy weight allows for excellent speed gain in dives, be careful with lock up
 
 '''Cons:'''
 
-- NS-37 isn't very accurate when firing long bursts
-- Low ammo count for the Berezin UB 12.7 mm heavy machine gun
-- Poor cockpit rear view, a recurring problem with LaGG-3s
-- Easily outmanoeuvred by British and Japanese fighters of same rank
-- Poor manoeuvrability at low speeds and suffers some locking up at high speeds
-- Due to the weight it has some issues with energy retention
+* NS-37 isn't very accurate when firing long bursts
+* Low ammo count for the Berezin UB 12.7 mm heavy machine gun
+* Poor cockpit rear view, a recurring problem with LaGG-3s
+* Easily outmanoeuvred by British and Japanese fighters of same rank
+* Poor manoeuvrability at low speeds and suffers some locking up at high speeds
+* Due to the weight it has some issues with energy retention
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 These planes were used during the battle of Stalingrad with great success against enemy bombers. However, recoil and centre of gravity issues plagued the plane, and the extra weight caused them to suffer from worse performance than other LaGG-3s, which were already somewhat underpowered. The fact that the Il-2s were considered just as effective against ground targets, and the test flight of the Yak-9T which proved a much better platform for the NS-37 gun, spelt the end to this variant of the LaGG-3 with only 40 being produced.
 
 {{break}}
@@ -179,31 +170,27 @@ But the 37 mm NS-37 cannon significantly increased the plane's weight and affect
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=lagg-3-34 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=lagg-3-34 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|PJfDg4zfiyw|'''The Lagg-3-34''' - ''TheEuropeanCanadian''|O_12HQIrs7Q|'''Ace Game LaGG-3-34 [Rare Plane Gameplay]''' - ''BaconGaming''}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/179340-lavochkin-gorbunov-gudkov-lagg-3-series-34/ Official data sheet - more details about the performance]
-- [http://web.archive.org/web/20161217121809/http://mig3.sovietwarplanes.com/lagg3/lagg3-37/lagg3-37.htm <nowiki>[Soviet Warplanes]</nowiki> LaGG-3s with 37 mm guns]
-- [http://wio.ru/tacftr/lag.htm <nowiki>[War Is Over]</nowiki> Lavochkin piston fighters]
+* [https://forum.warthunder.com/index.php?/topic/179340-lavochkin-gorbunov-gudkov-lagg-3-series-34/ Official data sheet - more details about the performance]
+* [http://web.archive.org/web/20161217121809/http://mig3.sovietwarplanes.com/lagg3/lagg3-37/lagg3-37.htm <nowiki>[Soviet Warplanes]</nowiki> LaGG-3s with 37 mm guns]
+* [http://wio.ru/tacftr/lag.htm <nowiki>[War Is Over]</nowiki> Lavochkin piston fighters]
 
 {{AirManufacturer Lavochkin}}
 {{USSR fighters}}

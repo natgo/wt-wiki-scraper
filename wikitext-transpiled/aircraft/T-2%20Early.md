@@ -5,14 +5,12 @@
 }}
 {{Specs-Card
 |code=t2_early
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage\_{{PAGENAME}}\_003.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage_{{PAGENAME}}_003.jpg}}
 |store=11591
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Japanese jet fighter {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]].
 
 The T-2 Early is a prototype model of the tech-tree [[T-2]] supersonic fighter trainer, and is identical to it in all performance aspects.
@@ -20,9 +18,7 @@ The T-2 Early is a prototype model of the tech-tree [[T-2]] supersonic fighter t
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 [[File:T-2 duckmcmallardson 001.png|250px|thumb|right|T-2 on coastal patrol.]]
 The {{PAGENAME}} was designed and built for one main purpose, and that was to train pilots in flight at around Mach 1.4 in preparation for flying faster Mach 2+ fighters such as the F-4EJ, F-104, and the Mitsubishi F-1. With a long narrow body, short main wings without fuel tanks and an all-moving tailplane, this aircraft was built streamlined like the F-104 to get you from point A to point B in the shortest amount of time possible and not spend too much time manoeuvring. While excelling as an interceptor, this fighter will still hold its own in a manoeuvring fight, granted as long as under-wing armaments are limited to the Sidewinder missiles and not the heavy bombs.
 
@@ -59,7 +55,7 @@ Damage to the aircraft, especially to the wings, will typically result in the de
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || ✓ || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -101,7 +97,7 @@ Damage to the aircraft, especially to the wings, will typically result in the de
 | colspan="3" | 6,584 kg || colspan="3" | 452 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="5" | Mass with fuel (no weapons load) || rowspan="2" | | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
+! colspan="5" | Mass with fuel (no weapons load) || rowspan="2" |  | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
 ! 17m fuel || 20m fuel || 30m fuel || 45m fuel || 56m fuel
@@ -125,10 +121,9 @@ Damage to the aircraft, especially to the wings, will typically result in the de
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 38 mm bulletproof glass - situated between the fore and aft cockpits
+* 38 mm bulletproof glass - situated between the fore and aft cockpits
 
 The {{PAGENAME}} fighter, like many more modern aircraft, have shed most of its armour instead of more speed and agility. The only armour outfitted on this aircraft is the 38 mm bulletproof glass situated between the fore and aft cockpit, giving the rear pilot a pretty good chance of surviving an impact or bullet strike which might take out the front pilot. Beyond that, the aircraft's survivability is a mix of engineering and the pilot's skill. Damage sustained to the wings will not affect fuel loss as no tanks are mounted here; they are only mounted within the aircraft's fuselage. While many aircraft can absorb a huge amount of ammunition rounds in the fuselage before losing something important when it comes to the {{PAGENAME}} fuselage hits typically result in a hit to the engines, oil coolers, fuel, pilots or the radar. This is where pilot skill and manoeuvring come into play to make it very difficult for an enemy pilot to get a firing solution. High-G manoeuvres within this aircraft may hurt the speed and manoeuvrability; however, it may save the pilot's lives by causing many missiles such as the AIM Sidewinders to miss due to their lower g-turn threshold.
 
@@ -139,14 +134,12 @@ The {{PAGENAME}} fighter, like many more modern aircraft, have shed most of its 
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|JM61A1 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 1 x 20 mm JM61A1 cannon, chin-mounted (750 rpg)
+* 1 x 20 mm JM61A1 cannon, chin-mounted (750 rpg)
 
 [[File:T-2 der thunderer 001.jpg|250px|thumb|right|[[T-2]] sporting a user-created skin.]]
 The JM61A1 20 mm Vulcan cannon is a monster and, at the same time, a headache for new pilots not used to it. Unlike most other machine guns and cannons in the game (or in real life, for that matter), trigger depression here does not immediately produce flying bullets. Due to the characteristics of the JM61A1 cannon, it requires an initial spool-up time or spin of the cannon barrels before ammunition can be fired. The high rate of fire can easily melt the barrel, however with the rotating barrels, each barrel can cool off enough before it is its turn again to prevent damage. To initiate this, trigger depression will result in a .25 second delay before the ammunition begins to fire to allow for the barrels to get to proper rotating speed. Once it gets going, 750 rounds of ammunition do not last very long.
@@ -157,25 +150,23 @@ Trigger discipline is necessary when using this cannon as due to its rate of fir
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 [[File:T-2 takemoto 001.png|250px|thumb|right|T-2 outfitted with FFAR Mighty Mouse rockets, Sidewinders and the obligatory 20 mm Vulcan cannon.]]
 {{main|LDGP Mk 82 (500 lb)|JM117 cone 45 (750 lb)}}
 {{main|AIM-9B Sidewinder|AIM-9E Sidewinder|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x AIM-9E Sidewinder missiles
-- 5 x 500 lb LDGP Mk 82 bombs (2,500 lb total)
-- 5 x 750 lb JM117 cone 45 bombs (3,750 lb total)
-- 76 x FFAR Mighty Mouse rockets
-- 16 x Zuni Mk32 Mod 0 ATAP rockets
-- 2 x AIM-9E Sidewinder missiles + 5 x 500 lb LDGP Mk 82 bombs (2,500 lb total)
-- 2 x AIM-9E Sidewinder missiles + 5 x 750 lb JM117 cone 45 bombs (3,750 lb total)
-- 2 x AIM-9E Sidewinder missiles + 76 x FFAR Mighty Mouse rockets
-- 2 x AIM-9E Sidewinder missiles + 16 x Zuni Mk32 Mod 0 ATAP rockets
+* Without load
+* 2 x AIM-9E Sidewinder missiles
+* 5 x 500 lb LDGP Mk 82 bombs (2,500 lb total)
+* 5 x 750 lb JM117 cone 45 bombs (3,750 lb total)
+* 76 x FFAR Mighty Mouse rockets
+* 16 x Zuni Mk32 Mod 0 ATAP rockets
+* 2 x AIM-9E Sidewinder missiles + 5 x 500 lb LDGP Mk 82 bombs (2,500 lb total)
+* 2 x AIM-9E Sidewinder missiles + 5 x 750 lb JM117 cone 45 bombs (3,750 lb total)
+* 2 x AIM-9E Sidewinder missiles + 76 x FFAR Mighty Mouse rockets
+* 2 x AIM-9E Sidewinder missiles + 16 x Zuni Mk32 Mod 0 ATAP rockets
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -207,55 +198,47 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 [[File:T-2 jonigustavo 001.png|250px|thumb|right|The dart-shaped T-2 hugging the terrain in attempt to catch enemy fighters unaware.]]
 
 '''Pros:'''
 
-- Faster and better acceleration than many jets at its BR
-- High climb rate
-- 2 pilots (not as vulnerable to pilot snipes)
-- Devastating JM61A1 rotary cannon
-- Variety of air-to-ground and multirole payloads
+* Faster and better acceleration than many jets at its BR
+* High climb rate
+* 2 pilots (not as vulnerable to pilot snipes)
+* Devastating JM61A1 rotary cannon
+* Variety of air-to-ground and multirole payloads
 
 '''Cons:'''
 
-- A lack of any [[:Category:Countermeasures|Countermeasures]] make it an easy kill in its BR, where [[air-to-air missiles]] are common
-- Poor energy retention, low-speed manoeuvrability and large turning radius make avoiding missiles and dogfighting extremely challenging if often impossible
-- A lack of [[Ballistic Computer]] limits the use of the air-to-ground munitions
-- The JM61A1 rotary cannon may take getting used to as it doesn't fire immediately but has a short spool up time before it starts firing, and it has a very limited amount of ammunition
-- Burns through fuel at an astronomical rate
+* A lack of any [[:Category:Countermeasures|Countermeasures]] make it an easy kill in its BR, where [[air-to-air missiles]] are common
+* Poor energy retention, low-speed manoeuvrability and large turning radius make avoiding missiles and dogfighting extremely challenging if often impossible
+* A lack of [[Ballistic Computer]] limits the use of the air-to-ground munitions
+* The JM61A1 rotary cannon may take getting used to as it doesn't fire immediately but has a short spool up time before it starts firing, and it has a very limited amount of ammunition
+* Burns through fuel at an astronomical rate
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-
 ''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[T-2]]
-- [[F-1]]
+* [[T-2]]
+* [[F-1]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/7912-development-pre-order-t-2-early-pack-en|[Devblog] Pre-order: T-2 Early Pack]]
+* [[wt:en/news/7912-development-pre-order-t-2-early-pack-en|[Devblog] Pre-order: T-2 Early Pack]]
 
 {{Manufacturer MHI}}
 {{Japan jet aircraft}}

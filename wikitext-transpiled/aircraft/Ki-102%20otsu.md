@@ -1,12 +1,10 @@
 {{Specs-Card
 |code=ki_102_otsu
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' (Designated: Type 4 Assault Aircraft) is a rank {{Specs|rank}} Japanese twin-engine fighter {{Battle-rating}}. It was introduced in [[Update 1.35]]. The Allied reporting name for this aircraft was "Randy".
 
 The {{PAGENAME}} was a ground attacker version of the Ki-102 which in itself was a variant of the [[Ki-45 (Family)|Ki-45]].
@@ -14,7 +12,6 @@ The {{PAGENAME}} was a ground attacker version of the Ki-102 which in itself was
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 The {{PAGENAME}} has a decent speed advantage over most enemy planes in a straight line or dive and very good climb rate. The climb rate is typically better than almost every aircraft it will come up against. As with most Japanese heavy fighters, it is a very fast aircraft. The aircraft is as manoeuvrable as you would expect from a heavy fighter, though quite sluggish in a turn compared to a single engine aircraft. The {{PAGENAME}} has good acceleration in a dive due to its two powerful engines and increased weight and decent acceleration when travelling in a straight line.
@@ -44,7 +41,7 @@ The {{PAGENAME}} has a decent speed advantage over most enemy planes in a straig
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -75,46 +72,42 @@ The {{PAGENAME}} has a decent speed advantage over most enemy planes in a straig
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 The Ki-102b is decently survivable as a twin-engine heavy fighter, but still isn't protected from too much sustained fire; manoeuvre the plane out of gun-fire and get the enemy off your tail using the 12.7 mm in the back which, when loaded with HE, can make short work of your chaser.
 
 The Ki-102 also comes with self-sealing fuel tanks providing additional survivability if the fuel tanks were to get hit, by extinguishing fires and preventing them from running empty, allowing you to make it safely back to the airfield.
 
-- 8 mm steel behind 57 mm cannon
-- 8 mm steel on both sides of pilot
-- 8 mm steel behind pilot's head
-- 8 mm steel on both sides of gunner
-- 12 mm steel around 57 mm gun barrel
-- 12 mm steel behind pilot
-- 12 mm steel in front of fuselage-mounted fuel tank
-- 12 mm steel behind fuselage-mounted fuel tank
-- 12 mm steel in front of gunner\*
-- Self-sealing fuel tanks (1 in central fuselage, 3 in each wing)
+* 8 mm steel behind 57 mm cannon
+* 8 mm steel on both sides of pilot
+* 8 mm steel behind pilot's head
+* 8 mm steel on both sides of gunner
+* 12 mm steel around 57 mm gun barrel
+* 12 mm steel behind pilot
+* 12 mm steel in front of fuselage-mounted fuel tank
+* 12 mm steel behind fuselage-mounted fuel tank
+* 12 mm steel in front of gunner*
+* Self-sealing fuel tanks (1 in central fuselage, 3 in each wing)
 
-<nowiki>\*</nowiki>Note that the gunner is rear-facing
+<nowiki>*</nowiki>Note that the gunner is rear-facing
 
 === Modifications and economy ===
 {{Specs-Economy}}
 
-- First, as with most planes, getting ammo belts should provide more control and better firepower over the guns
-- Second important matter to upgrading the Ki-102 should be a focus on flight performance, allowing you to hunt bombers or light vehicle columns sooner
-- Afterwards, increasing gun accuracy a great plus
+* First, as with most planes, getting ammo belts should provide more control and better firepower over the guns
+* Second important matter to upgrading the Ki-102 should be a focus on flight performance, allowing you to hunt bombers or light vehicle columns sooner
+* Afterwards, increasing gun accuracy a great plus
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Ho-401 (57 mm)|Ho-5 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 1 x 57 mm Ho-401 cannon, nose-mounted (16 rpg)
-- 2 x 20 mm Ho-5 cannons, chin-mounted (200 rpg = 400 total)
+* 1 x 57 mm Ho-401 cannon, nose-mounted (16 rpg)
+* 2 x 20 mm Ho-5 cannons, chin-mounted (200 rpg = 400 total)
 
 As a ground attacker, the {{PAGENAME}} comes equipped with a 57 mm drum-loaded cannon to engage ground targets with but lacks shell choice and comes only with HE. The gun itself was based on the [[Ho-203 (37 mm)]] but increased in size. It lacks velocity and requires the pilot to be rather close to the target to hit anything at all which will make this plane very vulnerable when an attack is initiated.
 
@@ -124,19 +117,16 @@ It is greatly advised to fire the guns separated.
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|Ho-104 (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 1 x 12.7 mm Ho-104 machine gun, dorsal turret (500 rpg)
+* 1 x 12.7 mm Ho-104 machine gun, dorsal turret (500 rpg)
 
 The {{PAGENAME}} has a 12.7 mm Ho-104 in the back, which shouldn't be underestimated as it can leave the pursuer burning down to the ground, but the belts for it aren't very favourable as most of them are filled with AP. Universal offers the best single bullet but is only fired every 4 rounds and Default offers a better universality.
 
 == Usage in battles ==
-
 <!--''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''-->
 
 There's 2 gameplay loops that the Ki-102{{Annotation|b|Otsu}} can provide: either play it in its specific role as a ground attacker or use it as a heavy-duty bomber hunter that will make short work of large planes with few to only a single hit.
@@ -169,26 +159,24 @@ While the 57 mm has a rather decent fire-rate for a large calibre aerial cannon,
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Powerful 57 mm cannon with surprisingly fast fire-rate
-- Decent combined firepower at its BR
-- Self-sealing fuel tanks and decent survivability, unlike many Japanese aircraft
+* Powerful 57 mm cannon with surprisingly fast fire-rate
+* Decent combined firepower at its BR
+* Self-sealing fuel tanks and decent survivability, unlike many Japanese aircraft
 
 '''Cons:'''
 
-- 57 mm has poor accuracy/dispersion after 2 shots in full-auto
-- Lacks suspended armament and 57 mm AP/HEAT
-- Rather slow for its BR
+* 57 mm has poor accuracy/dispersion after 2 shots in full-auto
+* Lacks suspended armament and 57 mm AP/HEAT
+* Rather slow for its BR
 
 == History ==
-
 <!--''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''-->
 
-By 1943, the Japanese Army decided the '''Ki-102''' was to be developed as a further advancement on the [[Ki-96]], which in turn was a high-altitude prototype advancement of the [[Ki-45 (Family)]]. The initial 2 planned roles for the Ki-102 were to be the Ki-102a (Ko) as a high-altitude heavy fighter and the latter as a ground-attack variant under the designation Ki-102b (Otsu).
+By 1943, the Japanese Army decided the '''Ki-102''' was to be developed as a further advancement on the [[Ki-96]], which in turn was a high-altitude prototype advancement of the [[Ki-45 (Family)]]. The initial 2 planned roles for the Ki-102 were to be the Ki-102a (Ko) as a high-altitude heavy fighter and the latter as a ground-attack variant under the designation Ki-102b (Otsu). 
 
 By January 1944, Kawasaki finished the design of the Ki-102b, with the first plane being completed later in March. The Ki-102a started development just after the Ki-102b in January, with the Ko's design being finalized in April of that same year. The first 3 prototype planes were originally all supposed to be Otsu models, but to hasten the development of the Ko model, were reviewed as such.
 
@@ -197,32 +185,28 @@ The Ki-102b was approved for mass production, designated (by personnel) as the '
 At the request of high command, the deployed Ki-102s was only supposed to be used for the defense of the mainland in case of an Allied invasion. But very few would see service against bombing raids as additional firepower, others were painted jet-black and utilized as night fighters. By the end of the war, 215 Otsu-types had been produced, excluding prototypes and additional prototypes, including those modified into Ki-102a (Ko) and [[Ki-108]].
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ki_102_otsu Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ki_102_otsu Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related Development
-
-- [[Ki-45 (Family)|Ki-45]]
-- [[Ki-96]]
-- [[Ki-108 Kai]]
+* [[Ki-45 (Family)|Ki-45]]
+* [[Ki-96]]
+* [[Ki-108 Kai]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/303477-kawasaki-ki-102-otsu/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/303477-kawasaki-ki-102-otsu/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Kawasaki}}
 {{Japan twin-engine fighters and strike aircraft}}

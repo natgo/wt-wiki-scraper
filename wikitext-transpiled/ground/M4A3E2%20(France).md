@@ -12,9 +12,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} French heavy tank {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]]. This is a Jumbo provided to the Free French Forces by Americans.
 
 The M4A3E2 looks like a standard Sherman medium tank, but it is still a weighty tank and is used as a breakthrough tank to attack fortified enemy positions. It is certainly not a medium tank like normal Shermans. It is a great tank when fighting Tigers as the 88 mm cannons cannot penetrate the armour of the M4A3E2 from its sides when angled efficiently. As such, it allows players to get close to Tigers and attack them from the sides, or force them to retreat. When fighting Panthers, the M4A3E2 is less effective as the 75 mm cannon on the Panther can penetrate the armour of the Jumbo Sherman from the front even when angled more than 30 degrees at 500 m. Only at close range can high-velocity guns, such as Soviet 85 mm or German 88 mm guns, penetrate the frontal glacis. However, larger calibres such as the Soviet 122 mm gun will slice right through the armour.
@@ -28,13 +26,12 @@ However, the rear does not have any extra armour and is much thinner. The roof o
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (hull, turret roof, cupola roof)
-- Cast homogeneous armour (turret, cupola, gun mantlet, transmission housing, MG port)
+* Rolled homogeneous armour (hull, turret roof, cupola roof)
+* Cast homogeneous armour (turret, cupola, gun mantlet, transmission housing, MG port)
 
 {| class="wikitable"
 |-
@@ -49,9 +46,9 @@ However, the rear does not have any extra armour and is much thinner. The roof o
 |}
 '''Notes:'''
 
-- Suspension wheels are 15 mm thick, while bogies are 10 mm thick and tracks are 20 mm thick.
-- Belly armour is 25.4 mm thick.
-- Hull underside right above the tracks are 9.5 mm thick.
+* Suspension wheels are 15 mm thick, while bogies are 10 mm thick and tracks are 20 mm thick.
+* Belly armour is 25.4 mm thick.
+* Hull underside right above the tracks are 9.5 mm thick.
 
 The M4A3E2 Jumbo presents very little frontal weak spots in an engagement. It is best to try and force the Jumbo to try and angle his vehicle towards the player or his allies. An angle more than 30 degrees can expose the much weaker lower side hull armour in the suspension that is only 38.1 mm thick. With a powerful enough gun, a round can penetrate this area and damage the crew, or even set off the ammunition all cluttered up on the bottom of the tank.
 
@@ -59,7 +56,6 @@ If a frontal engagement is unavoidable and are unfortunately armed with guns una
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=646|rbMinHp=442}}
@@ -75,9 +71,7 @@ Then in Tier III, ''Crew Replenishment'' should be obtained for crew survival im
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|M3 (75 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -98,11 +92,11 @@ Then in Tier III, ''Crew Replenishment'' should be obtained for crew survival im
 
 ==== Ammunition ====
 
-- M72 shot - {{Annotation|AP|Armour-Piercing}} - Solid shot, stock shell. An armour-piercing shell with acceptable penetration but poor post-penetration damage.
-- M48 shell - {{Annotation|HE|High-Explosive fragmentation shell}} - A low-velocity shell useful against soft targets, in particular when hitting an open-topped vehicle. Harmless against any enclosed vehicle with more than 10 mm of armour.
-- M61 shot - {{Annotation|APCBC|Armour-Piercing Capped Ballistic Capped}} - A capped armour-piercing shell with a better penetration than the M72 thanks to its ballistic cap and a good post-penetration damage thanks to its explosive filler.
-- T45 shot - {{Annotation|APCR|Armour-Piercing Composite Round}} - Subcalibre round with high penetration but only on flat surfaces, with a high muzzle velocity but a poor post-penetration damage potential.
-- M89 - Smoke shell - A very low-velocity shell deploying a smoke screen on impact, useful to blind enemy vehicles that are too remote for you to disable so that you can progress towards objectives.
+* M72 shot - {{Annotation|AP|Armour-Piercing}} - Solid shot, stock shell. An armour-piercing shell with acceptable penetration but poor post-penetration damage.
+* M48 shell - {{Annotation|HE|High-Explosive fragmentation shell}} - A low-velocity shell useful against soft targets, in particular when hitting an open-topped vehicle. Harmless against any enclosed vehicle with more than 10 mm of armour.
+* M61 shot - {{Annotation|APCBC|Armour-Piercing Capped Ballistic Capped}} - A capped armour-piercing shell with a better penetration than the M72 thanks to its ballistic cap and a good post-penetration damage thanks to its explosive filler.
+* T45 shot - {{Annotation|APCR|Armour-Piercing Composite Round}} - Subcalibre round with high penetration but only on flat surfaces, with a high muzzle velocity but a poor post-penetration damage potential.
+* M89 - Smoke shell - A very low-velocity shell deploying a smoke screen on impact, useful to blind enemy vehicles that are too remote for you to disable so that you can progress towards objectives.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="8" | Penetration statistics
@@ -162,9 +156,7 @@ Then in Tier III, ''Crew Replenishment'' should be obtained for crew survival im
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_M4A3E2.png|right|thumb|x250px|[[Ammo racks]] of the M4A3E2 (identical).]]
-
 <!-- '''Last updated: 2.1.0.113''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -178,15 +170,13 @@ Then in Tier III, ''Crew Replenishment'' should be obtained for crew survival im
 |}
 '''Notes''':
 
-- As they are modeled by sets of 2, shells disappear from the rack only after you fire both shells in the set.
-- Turret empty: 100&nbsp;''(+4)'' shells.
+* As they are modeled by sets of 2, shells disappear from the rack only after you fire both shells in the set.
+* Turret empty: 100&nbsp;''(+4)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|M2HB (12.7 mm)|M1919A4 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -212,9 +202,7 @@ The roof-mounted M2HB .50 cal heavy machine gun is very good at knocking out tra
 The small calibre of the M1919A4 machine gun makes it largely ineffective against all armoured vehicles but the ones with an open compartment. It still can be used to ping targets as a rangefinding help or to mow down minor obstacles blocking your line of sight.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The M4A3E2 is best in assaulting enemy positions with allies. Its great mobility for a heavy tank, especially with its armour, makes it a vehicle able to charge into battle and take anything head-on with confidence. It can act as a bullet magnet against enemy tanks more worried about the M4A3E2, diverting fire that would've gone to more vulnerable teammates. Though the 75 mm gun's AP performance is not suited to the type of enemies expected at the BR, it can still harass enemies and the gun is lethal enough that enemies will be forced to show their front armour towards the Jumbo else a 75 mm penetrates their side armour. Their focus on the Jumbo can allow allies to move around and eliminate them. During all this, take care not to overangle and show the lower side armour too much as this will allow vehicles to penetrate through down there and damage modules, even the ammunition storage if they are lucky.
 
 Another role the M4A3E2 is good in is as a flanker. Due to its great mobility as a heavy tank, the M4A3E2 Jumbo can manoeuvre like a medium tank around the battlefield. This is also beneficial to the 75 mm gun as it would permit the M4A3E2 a chance to attack the weaker side armours of enemy vehicles. Once flanking around and finding a prime position in a fire angle right into an enemy chokepoint, minimize exposure to anything but the front armour and the M4A3E2 can remain a formidable obstacle to all opponents. Take care not to be outflanked by enemy players aware of the M4A3E2 position.
@@ -226,43 +214,41 @@ Due to the M4A3E2 Jumbo having a slightly higher battle-rating than the other M4
 The Soviet 85 mm can be a threat, so caution is advised when going up against tanks armed with the 85 mm, such as the [[T-34-85]], [[SU-85]], and [[IS-1]]. The [[Jagdpanzer 38(t)|Jagdpanzer 38(t)]] and [[Jagdpanzer IV]] can be tricky when facing off against them. Their frontal armour are too thick and sloped for the 75 mm M3 gun to have any effect on it. For these two targets, it is advised to target their tracks and transmission and then flank for a side shot, where the armour is much weaker. Also, the [[Dicker Max]] wields a 105 mm that can penetrate the front plate of the M4A3E2 Jumbo, so caution is advised against those as well. Finally, there is one common opponent from the Soviet/Chinese tree: IS-2. Its 122 mm gun can easily penetrate the Jumbo, regardless of angle and distance. To destroy it, shoot at it when it's reloading or is unaware of your presence. For the 1943 model, aim at the cupola or the curved part of its hull armour that blends into the side. It has only 4 crew so killing all the turret crew (3, which is easy) will destroy it. For the 1944 model, only aim at the turret or the cupola as its hull is very strong.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Decent 75 mm gun with APCR rounds
-- High rate of fire for main gun
-- Excellent gun depression
-- Very strong turret armour from all sides, very good at hull down position
-- Very good at leading a spearhead towards a capture point where it can provide cover to weaker allied tanks with more powerful guns
-- Excellent frontal armour, about 101 mm thick
-- Excellent all around turret armour, average 152 mm thick
-- Can absorb a lot of damage
-- Better mobility than the Russian KV-1 and the British Churchill
-- Equipped with gun stabilizer, making it more accurate at moving and when preparing a shot after moving
-- Good acceleration
-- Incredibly tough when angled
-- Wide tracks enable it to have a decent off road mobility, unlike other previous Sherman models
-- Learning curve from previous Sherman variant will help a lot at mastering this tank
+* Decent 75 mm gun with APCR rounds
+* High rate of fire for main gun
+* Excellent gun depression
+* Very strong turret armour from all sides, very good at hull down position
+* Very good at leading a spearhead towards a capture point where it can provide cover to weaker allied tanks with more powerful guns
+* Excellent frontal armour, about 101 mm thick
+* Excellent all around turret armour, average 152 mm thick
+* Can absorb a lot of damage
+* Better mobility than the Russian KV-1 and the British Churchill
+* Equipped with gun stabilizer, making it more accurate at moving and when preparing a shot after moving
+* Good acceleration
+* Incredibly tough when angled
+* Wide tracks enable it to have a decent off road mobility, unlike other previous Sherman models
+* Learning curve from previous Sherman variant will help a lot at mastering this tank
 
 '''Cons:'''
 
-- [[M3 (75 mm)|75 mm gun]] lacks penetration against [[:Category:Heavy tanks|heavy tanks]]
-- It needs allies support to be effective in battle as it cannot deal serious damage on its own
-- Armour weak spot above the gun mantlet (63.5 mm @ 60°)
-- Small bottom corners on M4A3E2 gun mantlet can serve as shot traps
-- Side armour better than normal, but still weak (76.2 mm), but the lower side hull armour is even worse (38.1 mm)
-- Very thin rear armour
-- Inability to compound angle greatly due to very weak lower side hull armour that would be penetrated
-- Tall profile makes it a bigger target
-- Bad off-road manoeuvrability
-- Low top speed of 35 km/h
-- Reverse speed is bad
-- Hull MG is a weak spot
+* [[M3 (75 mm)|75 mm gun]] lacks penetration against [[:Category:Heavy tanks|heavy tanks]]
+* It needs allies support to be effective in battle as it cannot deal serious damage on its own
+* Armour weak spot above the gun mantlet (63.5 mm @ 60°)
+* Small bottom corners on M4A3E2 gun mantlet can serve as shot traps
+* Side armour better than normal, but still weak (76.2 mm), but the lower side hull armour is even worse (38.1 mm)
+* Very thin rear armour
+* Inability to compound angle greatly due to very weak lower side hull armour that would be penetrated
+* Tall profile makes it a bigger target
+* Bad off-road manoeuvrability
+* Low top speed of 35 km/h
+* Reverse speed is bad
+* Hull MG is a weak spot
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{main|M4A3E2#History|l1=History of the M4A3E2}}
@@ -273,36 +259,31 @@ Due to the low numbers of M4A3E2 issued to the ETO, most went towards the US Arm
 The French did obtain a number of M4A3E2 surplus for use in the post-war period.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=fr_m4a3e2_sherman_jumbo Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=fr_m4a3e2_sherman_jumbo Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|l31USzTa5EQ|'''How to destroy the Jumbo''' - ''War Thunder Official Channel''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other M4A3E2 vehicles in the game
-
-- [[M4A3E2]]
-- [[Cobra King]]
-- [[M4A3E2 (76) W]]
+* [[M4A3E2]]
+* [[Cobra King]]
+* [[M4A3E2 (76) W]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wikipedia:M4_Sherman#M4A3E2|[Wikipedia] M4 Sherman - M4A3E2]]
-- [https://tanks-encyclopedia.com/ww2/US/m4a3e2-jumbo-assault-tank <nowiki>[Tanks Encyclopedia]</nowiki> Assault Tank M4A3E2 Jumbo]
+* [[wikipedia:M4_Sherman#M4A3E2|[Wikipedia] M4 Sherman - M4A3E2]]
+* [https://tanks-encyclopedia.com/ww2/US/m4a3e2-jumbo-assault-tank <nowiki>[Tanks Encyclopedia]</nowiki> Assault Tank M4A3E2 Jumbo]
 
 {{TankManufacturer Ordnance Department}}
 {{France heavy tanks}}

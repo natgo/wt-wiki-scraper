@@ -10,9 +10,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
 The Mosquito FB Mk VI is a heavy-hitting fighter-bomber that can cover many roles in War Thunder as it could in real life. With the ability to equip bombs and rockets, it can play a part in both the ground and air war. Use its speed and firepower to show the enemies who really rules the battlefield. With the instructions below, an aspiring pilot can make full use of the Mosquito and even squad up because as in the war, a team can never have enough wooden wonders. The Mosquito then goes on to the excellent Tsetse ([[Mosquito FB Mk XVIII|Mk XVIII]]) with the 57 mm cannon for an even better ground attacker.
@@ -20,9 +18,7 @@ The Mosquito FB Mk VI is a heavy-hitting fighter-bomber that can cover many role
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The Mosquito is famed for its outstanding agility in the war, pilots often remarked it as being on par with fighters and nothing like what they had flown before. This was thanks to its light yet strong balsa and plywood frame while housing a pair of Rolls-Royce Merlin engines.
 
 In War Thunder, the manoeuvrability can seem far from the legend that surrounds it. When stock, it is a heavy and somewhat cumbersome fighter that relies on slow-moving enemies to target. However, as the upgrades are unlocked and installed it slowly comes out of its shell to start being the plane so many grew up wanting to fly. The roll rate of the Mosquito is quite underwhelming as sometimes expected from such a large aircraft, being best at around 380 km/h (240 mph). The upside is that in the roll, the Mosquito has only a small wobble and so will allow for some well-aimed shots. The horizontal turn on the Mosquito is again not that impressive as one might expect but it is not just a brick with wings either. It has a mediocre turn radius in the flat and can turn with and inside other heavy fighters excluding the Japanese ones. It will undoubtedly not be able to out-turn all its single-engine opponents though with the Fw 190 being the exception in a sustained turn. Finally, the vertical manoeuvrability is decent and the Mosquito will only lose a small bit of altitude in a loop with combat flaps deployed. However, there is one upside. In Simulator battles, the Mosquito is not under the control of the instructor and there is an improvement in its performance. This allows it to be better in the fighter role than in RB if it were in the same matchup.
@@ -53,7 +49,7 @@ There is some controversy over the Mosquito though. Many players argue that the 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -100,12 +96,11 @@ It is a good idea to set the compressor to the 2nd position while not using WEP 
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 64 mm Bulletproof glass - Armoured windscreen
-- 9.5 mm Steel plate in pilot seats
-- 9.5 mm Steel plate in the nose
+* 64 mm Bulletproof glass - Armoured windscreen
+* 9.5 mm Steel plate in pilot seats
+* 9.5 mm Steel plate in the nose
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -126,15 +121,13 @@ Offensive 20 mm -> Radiator -> SBC mk.II (250 lb) -> Compressor -> MBC mk.II (50
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Hispano Mk.II (20 mm)|Browning (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 20 mm Hispano Mk.II cannons, chin-mounted (150 rpg = 600 total)
-- 4 x 7.7 mm Browning machine guns, nose-mounted (500 rpg = 2,000 total)
+* 4 x 20 mm Hispano Mk.II cannons, chin-mounted (150 rpg = 600 total)
+* 4 x 7.7 mm Browning machine guns, nose-mounted (500 rpg = 2,000 total)
 
 The Mosquito VI has a fixed forward-mounted armament of four 7.7 mm Browning machine guns and four 20 mm Hispano Mk.II both with a variety of belts. For the machine guns, the Universal belt is highly recommended as it suits both ground attack and air combat although only for the use of tracers in the latter. Use the machine guns for ranging and attacking light targets, don't waste the cannons on those. The cannons are specific to their role, so a pilot may want to think about what role the Mosquito will be flown as before spawning. In the ground attack role, the "Ground targets" belt is the obvious choice for the cannons as 60% of the ammo is armour-piercing. This ammo can destroy targets up to light tanks (attack from behind) and light pillboxes (through windows and doors). For anti-air, the belt of choice is "Air targets". This ammo makes light work of any aircraft. "Stealth" can also be used as it does not contain any Tracer component, sometimes allowing the Mosquito to sneak attack unsuspecting opponents. This is also why the "Universal" belt in the machine guns are useful as it allows the Mosquito to adjust its aim while using "Stealth" belts.
 
@@ -142,25 +135,21 @@ The cannons are mounted under the nose and so will need more lead than wing-moun
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|RP-3|Uncle Tom}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 250 lb G.P. Mk.IV bombs (500 lb total)
-- 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
-- 8 x RP-3 rockets
-- 4 x Uncle Tom rockets
+* Without load
+* 2 x 250 lb G.P. Mk.IV bombs (500 lb total)
+* 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
+* 8 x RP-3 rockets
+* 4 x Uncle Tom rockets
 
 The 250 lb bombs are only useful in the hands of a skilled dive-bomber pilot as most targets need a direct hit or both 250 lb bombs to destroy them. The 500 lb is a better choice as it gives some leeway if the target is only slightly missed; they can also sink destroyers in one direct hit. To attack with bombs, line up with the target >1 km out and change to the virtual cockpit. Dive on the target at 30 degrees or more with the steeper the dive the better. Release the bomb at around 300 m above the target, this should give the Mosquito enough time to pull out of the dive and not blow itself up. Bombs are recommended for pillboxes and stationary targets above all else. Rockets can be used both for anti-bomber as well as anti-ground. The rockets can also be used against destroyers and pillboxes, although the Mosquito will need four rockets to hit to destroy them, allowing a player to attack two such targets with each loadout. Note when attacking ships come at their broadside at around -30 degrees, this will allow the gun sights to aim at the largest target.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Mosquito is one the best multi-role planes in the game due to its many redeeming aspects even at its high BR. The Mk VI is at home as both a ground attack aircraft and a heavy fighter with the ability to easily switch roles in battle. Firstly, the plane packs a devastating punch with the quad 20 mm and can snipe pretty well due to its nose-mounted guns. This makes it a brilliant anti-bomber aircraft, especially with rockets. It is also decent against other heavy fighters, but never expect an easy fight (although the same could be said for the enemy). It can outrun a [[Bf 109 G-6]] at low altitude, although this doesn't mean a pilot should always avoid using it as a fighter. With its rockets or 500 lb bombs, it can deal with 2 pillboxes while the cannons with ground ammunition can destroy light pillboxes and medium tanks from behind, and the MGs can then tear up soft targets making it an awesome ground attack aircraft. The only real major downside is that the flight model and weapons profile match that of the series 1 Mk VI Mosquito. This means that the engines and the payload are both worse (less powerful Merlin 21 engines instead of the 25, and no external bomb storage) than what they would be if this was the series, two models, instead.
 
 '''Arcade Battles'''
@@ -196,19 +185,19 @@ As mentioned above, the Mosquito has a rather high stall speed, making it easy t
 
 20 mm Hispano belts
 
-- '''Default:''' {{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|P|Practice}}{{-}}{{Annotation|T|Tracer}} - As stated, the default belt is very average and due to no Armour-Piercing shells it cannot penetrate armoured targets.
-- '''Universal:''' {{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEF-SAPI|High-explosive fragmentation (semi-armour-piercing incendiary)}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|T|Tracer}} - An all-round belt that is reliable for air targets but with only one Armour-Piercing shot every 4th shell it is not a reliable anti-armour belt.
-- '''Ground targets:''' {{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|T|Tracer}} - A belt to destroy armoured targets, it has 60% Armour-Piercing and so is reliable in its role. It can double up as an anti-air if needed but the AP shots will do little damage so aim for the engines or cockpit.
-- '''Air targets:''' {{Annotation|T|Tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEF-SAPI|High-explosive fragmentation (semi-armour-piercing incendiary)}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEF-SAPI|High-explosive fragmentation (semi-armour-piercing incendiary)}} - The best anti-air belt but won't be able to penetrate armoured targets.
-- '''Tracers:''' {{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|T|Tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}} - Another all-round belt, but for those that are not confident with their aiming. These tracers can help with practice so that pilots can know how to adjust their shots with other belts. It can destroy armoured and air targets, but is by no means the best for either (Bad for stealth attack).
-- '''Stealth:''' {{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEF-SAPI|High-explosive fragmentation (semi-armour-piercing incendiary)}}{{-}}{{Annotation|AP|Armour-piercing}} - Much like the Air targets belt but without the Tracer bullet for a completely invisible belt. Good if the pilot is confident in their aim for the occasional small advantage of surprise.
+* '''Default:''' {{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|P|Practice}}{{-}}{{Annotation|T|Tracer}} - As stated, the default belt is very average and due to no Armour-Piercing shells it cannot penetrate armoured targets.
+* '''Universal:''' {{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEF-SAPI|High-explosive fragmentation (semi-armour-piercing incendiary)}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|T|Tracer}} - An all-round belt that is reliable for air targets but with only one Armour-Piercing shot every 4th shell it is not a reliable anti-armour belt.
+* '''Ground targets:''' {{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|T|Tracer}} - A belt to destroy armoured targets, it has 60% Armour-Piercing and so is reliable in its role. It can double up as an anti-air if needed but the AP shots will do little damage so aim for the engines or cockpit.
+* '''Air targets:''' {{Annotation|T|Tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEF-SAPI|High-explosive fragmentation (semi-armour-piercing incendiary)}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEF-SAPI|High-explosive fragmentation (semi-armour-piercing incendiary)}} - The best anti-air belt but won't be able to penetrate armoured targets.
+* '''Tracers:''' {{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|T|Tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}} - Another all-round belt, but for those that are not confident with their aiming. These tracers can help with practice so that pilots can know how to adjust their shots with other belts. It can destroy armoured and air targets, but is by no means the best for either (Bad for stealth attack).
+* '''Stealth:''' {{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEF-SAPI|High-explosive fragmentation (semi-armour-piercing incendiary)}}{{-}}{{Annotation|AP|Armour-piercing}} - Much like the Air targets belt but without the Tracer bullet for a completely invisible belt. Good if the pilot is confident in their aim for the occasional small advantage of surprise.
 
-  7.7 mm Browning .303 belts
+7.7 mm Browning .303 belts
 
-- '''Default:''' {{Annotation|T|Tracer}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|Ball|Omni-purpose}}{{-}}{{Annotation|Ball|Omni-purpose}}{{-}}{{Annotation|I|Incendiary}} - Average belt, can score a criticals semi-regularly.
-- '''Universal:''' {{Annotation|T|Tracer}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|I|Incendiary}} - Same as the Default belt but removal of the useless ball round and is the best for ground attack.
-- '''Tracers:''' {{Annotation|IT|Incendiary tracer}}{{-}}{{Annotation|AP-I|Armour-piercing incendiary}} - Best anti-air belt and most likely 7.7 mm belt to cause a fire.
-- '''Stealth:''' {{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|I|Incendiary}} - Technically the best belt for soft targets but Universal is more useful as it has tracers allowing the pilot to adjust the fire.
+* '''Default:''' {{Annotation|T|Tracer}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|Ball|Omni-purpose}}{{-}}{{Annotation|Ball|Omni-purpose}}{{-}}{{Annotation|I|Incendiary}} - Average belt, can score a criticals semi-regularly.
+* '''Universal:''' {{Annotation|T|Tracer}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|I|Incendiary}} - Same as the Default belt but removal of the useless ball round and is the best for ground attack.
+* '''Tracers:''' {{Annotation|IT|Incendiary tracer}}{{-}}{{Annotation|AP-I|Armour-piercing incendiary}} - Best anti-air belt and most likely 7.7 mm belt to cause a fire.
+* '''Stealth:''' {{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|I|Incendiary}} - Technically the best belt for soft targets but Universal is more useful as it has tracers allowing the pilot to adjust the fire.
 
 '''Recommended Payloads in Realistic and Simulator battles'''
 
@@ -216,27 +205,27 @@ AI Ground Targets the Mossie can destroy (with minimum weapon needed)
 
 7.7 mm Browning .303
 
-- AAA/ Artillery
-- Armoured car/ Mobile AAA/ vehicle
-- Landing craft
+* AAA/ Artillery
+* Armoured car/ Mobile AAA/ vehicle
+* Landing craft
 
 20 mm Hispano
 
-- Patrol boats
-- Light tanks - 20 mm
-- Light pillbox - 20 mm (Aim for the [http://i.imgur.com/wOFFdBd.webm front window])
+* Patrol boats
+* Light tanks - 20 mm
+* Light pillbox - 20 mm (Aim for the [http://i.imgur.com/wOFFdBd.webm front window])
 
 250 lb bomb / 1 rocket
 
-- Bridge
-- Cargo ships
-- Medium tanks (very hard to do with the 20 mm)
+* Bridge
+* Cargo ships
+* Medium tanks (very hard to do with the 20 mm)
 
 500 lb bomb/ 4 rockets
 
-- Destroyer
-- Pillbox
-- Heavy tank (not rockets)
+* Destroyer
+* Pillbox
+* Heavy tank (not rockets)
 
 =====Attack methods=====
 '''How to dive bomb in the Mosquito'''
@@ -256,9 +245,7 @@ The second way is the more common attack. Come in low to the ground and level ou
 {{Youtube-gallery|8mQIP06Iflg|Example of dive-bomb attack|i_bN6r0tIvQ|Example of rocket attack}}
 
 ====Counter-tactics====
-
 <!--What to expect, if it would be in command of the enemy and how to counter it. (i.e. They will most likely BnZ, etc.)-->
-
 A Mosquito can be very deadly if dealt with wrong, but just remember a few simple things about it and it can be attacked with little problems. Note that this is mostly for RB/SB
 
 Firstly what not to do.
@@ -289,32 +276,29 @@ As the Mosquito was made from wood, it can take some beating before going down. 
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Agile and responsive
-- Four nose-mounted cannons
-- Good amount of ammunition
-- Stable gun platform
-- Usable payload
-- Cockpit has good visibility
-- The four Browning machine guns allow the plane to stay in combat after the cannon ammo is expended
+* Agile and responsive
+* Four nose-mounted cannons
+* Good amount of ammunition
+* Stable gun platform
+* Usable payload
+* Cockpit has good visibility
+* The four Browning machine guns allow the plane to stay in combat after the cannon ammo is expended
 
 '''Cons:'''
 
-- Large default fuel load
-- Large engines are prone to damage
-- Wooden airframe can't take as much damage as other all-metal fighters
-- Copilot/navigator appears to not count in damage model, so losing the front pilot will mean a plane loss
-- Flaps appear to tear at lower speeds than that of most other aircraft
-- Cannons overheat easily
+* Large default fuel load
+* Large engines are prone to damage
+* Wooden airframe can't take as much damage as other all-metal fighters
+* Copilot/navigator appears to not count in damage model, so losing the front pilot will mean a plane loss
+* Flaps appear to tear at lower speeds than that of most other aircraft
+* Cannons overheat easily
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 === Development ===
 The Mosquito began life in a more than a shaky start. In 1936 the Ministry issued Specification P.13/36 that stated a twin-engine bomber that could carry a payload of 3,000 lb for 3,000 miles while having a maximum speed of 275 mph. It was also stated that it should also carry 8,000 lb at shorter ranges. Geoffrey de Havilland sent a letter to an Air ministry council member Air Marshal Wilfrid Freeman stating that a high-speed bomber could be made out of wood and powered by RR Merlin engines as there would be a shortage of strategic metals in a war. However, Freeman replied that it would fall short of the specification by either bomb load or speed both of which were important.
 
@@ -355,32 +339,28 @@ The FB Mk VI was the most widely produced of all Mosquito variants during the wa
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=mosquito_fb_mk6 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=mosquito_fb_mk6 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|4Rw863XFGd8|'''The Shooting Range #13''' - ''Metal Beasts'' section at 00:42 discusses the De Havilland Mosquito.|6IrALigbnlg|'''Side Chat Podcast - "The Mossie" Ep. 37''' - ''Bo Time Gaming''|qmY99snA_po|'''DeHavilland Mosquito & gun camera film''' - ''spottydog4477''|tlvoWIa_nW4|'''Mosquito FRB''' - ''Zespher''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[Mosquito (Family)]]
+* [[Mosquito (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/114476-de-havilland-mosquito-fb-mk-vi/ Official data sheet - more details about the performance]
-- Text of this page was written for the [https://forum.warthunder.com/index.php?/topic/232511-competition-wt-wiki-combat-training-closed/ Wiki competition "Combat training"] by [http://forum.warthunder.com/index.php?/user/368540-zesphr/ Zesphr]. [http://forum.warthunder.com/index.php?/topic/233043-wikicontest-mosquito-fb-mkvi/ Link to original contest entry article.]
+* [https://forum.warthunder.com/index.php?/topic/114476-de-havilland-mosquito-fb-mk-vi/ Official data sheet - more details about the performance]
+* Text of this page was written for the [https://forum.warthunder.com/index.php?/topic/232511-competition-wt-wiki-combat-training-closed/ Wiki competition "Combat training"] by [http://forum.warthunder.com/index.php?/user/368540-zesphr/ Zesphr]. [http://forum.warthunder.com/index.php?/topic/233043-wikicontest-mosquito-fb-mkvi/ Link to original contest entry article.]
 
 {{AirManufacturer deHavilland}}
 {{Britain strike aircraft}}

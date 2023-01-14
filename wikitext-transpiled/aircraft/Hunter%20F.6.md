@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-rating}}. It was introduced in [[Update 1.89 "Imperial Navy"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 As with many early jet aircraft, the Hunter is slow and ungainly on takeoff and landing and is quite lethargic while flying at slow speeds. However, once this fighter begins to accelerate, it can hit speeds exceeding 800 km/h and similar to the early French Mystère fighters, can only achieve supersonic speeds during a dive. While a clumsy aircraft at low speeds, it is a rather good turning aircraft at higher speeds, though still surpassed by some sub and supersonic aircraft. It can hold a 9-10 G turn without risking breaking its wings, however, anything above this and you risk shearing off a wing. This fighter has extremely good energy retention, far above any supersonic and above many subsonic aircraft, which can be used to its advantage to maintain a controlling position on the battlefield.
@@ -47,7 +44,7 @@ As with many early jet aircraft, the Hunter is slow and ungainly on takeoff and 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -113,11 +110,10 @@ As with many early jet aircraft, the Hunter is slow and ungainly on takeoff and 
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 64 mm Bulletproof glass - Armoured windscreen
-- 12.7 mm Steel - Armour plate behind the pilot
+* 64 mm Bulletproof glass - Armoured windscreen
+* 12.7 mm Steel - Armour plate behind the pilot
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -126,41 +122,35 @@ As with many early jet aircraft, the Hunter is slow and ungainly on takeoff and 
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|ADEN (30 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 30 mm ADEN cannons, chin-mounted (150 rpg = 600 total)
+* 4 x 30 mm ADEN cannons, chin-mounted (150 rpg = 600 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|H.E. M.C. Mk.II (500 lb)|M.C. Mk.I (1,000 lb)|SNEB type 23|SRAAM}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x SRAAM missiles
-- 2 x 500 lb H.E. M.C. Mk.II bombs (1,000 lb total)
-- 4 x 500 lb H.E. M.C. Mk.II bombs (2,000 lb total)
-- 2 x 1,000 lb M.C. Mk.I bombs (2,000 lb total)
-- 4 x 1,000 lb M.C. Mk.I bombs (4,000 lb total)
-- 2 x 1,000 lb M.C. Mk.I bombs + 2 x 500 lb H.E. M.C. Mk.II bombs (3,000 lb total)
-- 4 x SRAAM missiles
-- 36 x SNEB type 23 rockets + 2 x 500 lb H.E. M.C. Mk.II bombs (1,000 lb total)
-- 36 x SNEB type 23 rockets + 2 x 1,000 lb M.C. Mk.I bombs (2,000 lb total)
-- 36 x SNEB type 23 rockets
-- 36 x SNEB type 23 rockets + 4 x SRAAM missiles
+* Without load
+* 2 x SRAAM missiles
+* 2 x 500 lb H.E. M.C. Mk.II bombs (1,000 lb total)
+* 4 x 500 lb H.E. M.C. Mk.II bombs (2,000 lb total)
+* 2 x 1,000 lb M.C. Mk.I bombs (2,000 lb total)
+* 4 x 1,000 lb M.C. Mk.I bombs (4,000 lb total)
+* 2 x 1,000 lb M.C. Mk.I bombs + 2 x 500 lb H.E. M.C. Mk.II bombs (3,000 lb total)
+* 4 x SRAAM missiles
+* 36 x SNEB type 23 rockets + 2 x 500 lb H.E. M.C. Mk.II bombs (1,000 lb total)
+* 36 x SNEB type 23 rockets + 2 x 1,000 lb M.C. Mk.I bombs (2,000 lb total)
+* 36 x SNEB type 23 rockets
+* 36 x SNEB type 23 rockets + 4 x SRAAM missiles
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Hunter F.6 is a transonic aircraft in level flight but can reach supersonic in a dive. That means that it is faster than other subsonic aircraft it will face but slower than supersonic aircraft like the [[F-100D]] and the [[MiG-19PT]]. Make sure to maintain speed, as it is most manoeuvrable at higher speeds, and very slow to turn when slow. The energy retention is almost an order of magnitude higher than supersonic aircraft, which bleed speed in sharp turns, this can be both a blessing and a curse, when in a prolonged turning engagement, your energy retention advantage will allow you to pull away from a supersonic at the end of a turn; however, a plane such as the [[F-100D]] can use it's worse energy retention to stay on your tail. In many situations, when you have a supersonic on your tail, making them overshoot is very difficult, but if you can, the SRAAMS will make short work of them. When facing subsonic aircraft, simply outrun them with your superior speed, try not to engage in a turn-fight with subsonic aircraft, as they are often able to best you in a dogfight, especially at low speeds, where the Hunter really shows its weaknesses. The plane, under most circumstances, does not rip it's wings, even under extended, high G turns; although if you combine a 9-10 G turn and roll or yaw, the plane can rip. Unlike some other planes, you have almost no chance of making it back to the airfield with a broken wing.
 
 The SRAAMs (short range air-to-air missiles) have a unique playstyle. They are much shorter range than other missiles, but extremely manoeuvrable, able to turn inside most aircraft. Anytime that you are within around 1 km of the target and the speed difference is not too great, they are very unlikely to miss. If you are out of around 1.2 km or greater, the missile will run out of fuel before reaching its target. An important note is that the missile cannot manoeuvre after the rocket motor burns out, and self-destructs. The best use case is to fire them while in a turn with another aircraft, as the missile is manoeuvrable enough to cut them off.
@@ -173,9 +163,7 @@ This aircraft is an extremely potent aircraft at its tier, but it has its weakne
 If you have one on your tail, and if you are in a supersonic, you should try to out-accelerate them, if they launch an SRAAM within 1km, you will not be able to dodge. If you are in an subsonic, do not attempt to extend, rather bring the Hunter to your teammates to get rid of them. If they launch a missile, there is very little you can do, but a hard roll while fully pitching up may allow you to dodge an SRAAM. In a subsonic, the Hunter can outrun you, so the best play would be to stay out of range of the Hunter, with teammate cover. In a supersonic, you are faster than the Hunter, so stay out of its range, while looping around and making passes at it, remember to never venture in front of it.
 
 ===Radars===
-
 <!--{{main|AN/APG-30}}-->
-
 The Hunter F.6 is equipped with an AN/APG-30 rangefinding radar, located in the nose of the aircraft.
 It will automatically detect other planes within the scanning area and display the range to the closest target. It is linked with a gyro gunsight and can help with aiming at close range.
 
@@ -192,31 +180,28 @@ It will automatically detect other planes within the scanning area and display t
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Highly agile short-range air-to-air missiles
-- Deadly nose-mounted 30 mm ADEN cannons
-- Enhanced handling at high speeds
-- Good payload options
-- Excellent energy retention
+* Highly agile short-range air-to-air missiles
+* Deadly nose-mounted 30 mm ADEN cannons
+* Enhanced handling at high speeds
+* Good payload options
+* Excellent energy retention
 
 '''Cons:'''
 
-- Subsonic
-- No RWR
-- Heavily dependent on the missiles to perform well
-- No afterburner
-- No drag chute - landing can be difficult on short runways
-- As with most jets, not very manoeuvrable at low speeds
-- Can rip wings when pitch+roll is combined with New Boosters equipped
+* Subsonic
+* No RWR
+* Heavily dependent on the missiles to perform well
+* No afterburner
+* No drag chute - landing can be difficult on short runways
+* As with most jets, not very manoeuvrable at low speeds
+* Can rip wings when pitch+roll is combined with New Boosters equipped
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 When the Avon-engined Hawker Hunter F.1 and the Sapphire-engined Hawker Hunter F.2 entered service in 1954, it soon became apparent that the initial variants suffered a number of issues, the most important of which was its general lack of range. Flying on internal fuel supplies only, the aircraft's endurance was limited to about an hour, an issue which became painfully apparent on February 8th 1956 when a flight of 8 Hunters of the ''Central Fighter Establishment'', a Royal Air Force training unit, were unable to land at their assigned base or divert to any suitable other base due to deteriorating weather conditions, with 6 aircraft being lost and one pilot killed in the ensuing confusion. Another important issue with the type was its nose-mounted armament which caused two distinct issues: at higher altitudes - and oddly enough, only on the Avon-engined F.1 variant - the gun exhaust gasses could be ingested by the wingroot air intakes, causing a compressor stall; on both versions, the cannon ammo links, which were ejected from the aircraft, had a tendency to strike the fuselage undersides, causing damage to the surfaces. The original concept of using the flaps as a split airbrake would in turn cause sudden pitch trim changes when deployed. While the latter issue was resolved relatively easily by adding a simple one-piece airbrake underneath the rear fuselage, the flight range and gun firing issues were much more serious, effectively rendering these early variants of the Hunter useless as fighter aircraft.
 
 The issues with the design were identified relatively early on, leading to a crash program to rectify them. To improve the range of the Hunter, new bag-type fuel tanks were added inside the wing leading edge, as well as the ability to carry external fuel tanks underneath the wings, outboard of the landing gear. This increased the aircraft's endurance from just under an hour to about an hour and twenty-five minutes. Oddly, despite the comparatively short range of the type, the Hunter would never be given an in-flight refuelling capacity, simply because no funds were allocated for such a project in 1950s austerity Britain. The issues with the armament were in turn solved by the addition of baffles to the gun barrels, which diverted the gun exhaust gasses; and by adding large blisters underneath the nose to collect the spent ammo links. The resulting improved designs, the Avon-engined F.4 and Sapphire-engined F.5, first flew on October 19th and 20th 1954 respectively, entering squadron service in the spring of 1955 (the F.4 doing so with 54 Squadron in March of 1955; the F.5 with 263 Squadron in February of 1955). Despite the Sapphire variants suffering less issues than the Avon ones, production of them was cut short as they had only been intended as a 'fall-back' design in case the more advanced Avon had proved to be a failure. As a result, just 45 Sapphire-engined F.2s and 105 F.5s were built, compared to 139 Avon 100-engined F.1s and 349 F.4s. Additionally, 96 F.4s were built under license by Fokker for the Royal Netherlands Air Force, and 112 by Fairey Aviation for the Belgian Air Force. Another 120 F.50s - a nation-specific export version of the F.4 - were built by Hawker for the Royal Swedish Air Force, and 30 F.51s for the Royal Danish Air Force.
@@ -245,12 +230,11 @@ In the late 1970s, the Hunter F.6 was used as a testbed for a new type of air-to
 As the name suggests, the SRAAM was designed for shorter range deployments during dogfights, in situations where pilots would find it difficult to achieve a reliable lock-on with existing missiles. As such, the SRAAM possessed extremely good agility and didn't cost as much to produce, but was severely limited in range. Despite this however, the weapon didn't see active use, but was instead further developed into a more advanced version which eventually did get adopted and is still in use today.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=hunter_f6 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=hunter_f6 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" caption="Hunter F.6 Devblog Images" heights="150">
@@ -266,31 +250,29 @@ File:HunterF6 WTWallpaper 005.jpg|
 {{Youtube-gallery|qWTDsJ9xbfg|'''Hunter F6 complete guide - How to always win dogfights - Hunter F6 vs Mig21MF - Energy trap''' - ''CaSama''|cHakCK96pjA|'''The Shooting Range #155''' - ''Metal Beasts'' section at 00:32 discusses the Hunter F.6.|kxWhI8VTd14|'''How to use the SRAAMS in Warthunder''' - ''hachersk_Anon'' ([https://forum.warthunder.com/index.php?/topic/454482-wiki-war-thunder-wiki-short-guides-competition/ Short Guides Competition] Winner)|Z7IMi56S0Z0|'''Is The Hunter F.6 Worth Your Time?''' - ''DEFYN''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
 
-- Hawker [[Sea_Hawk_FGA.6|Sea Hawk]]
-- Hawker [[Hunter F 1]]
+* Hawker [[Sea_Hawk_FGA.6|Sea Hawk]]
+* Hawker [[Hunter F 1]]
 
 ;Aircraft of comparable role, configuration and era
 
-- Dassault [[Super Mystere B2|Super Mystère]]
-- Mikoyan [[MiG-17 (Family)|MiG-17]]
-- North American [[F-100D|F-100]] Super Sabre
-- North American [[FJ-4B]] Fury
+* Dassault [[Super Mystere B2|Super Mystère]]
+* Mikoyan [[MiG-17 (Family)|MiG-17]]
+* North American [[F-100D|F-100]] Super Sabre
+* North American [[FJ-4B]] Fury
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6206-development-hunter-f-6-winged-comfort-en|[Devblog] Hunter F.6: Winged Comfort]]
-- [https://forum.warthunder.com/index.php?/topic/453523-hawker-hunter-f6/ Official data sheet - more details about the performance]
+* [[wt:en/news/6206-development-hunter-f-6-winged-comfort-en|[Devblog] Hunter F.6: Winged Comfort]]
+* [https://forum.warthunder.com/index.php?/topic/453523-hawker-hunter-f6/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Hawker}}
 {{Britain jet aircraft}}

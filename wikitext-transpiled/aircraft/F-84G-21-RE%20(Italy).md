@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]].
 
 Republic Aircraft Company's jump into the jet fighter market was not as smooth as they would have liked. They experienced severe growing pains as they developed and produced the F-84 series aircraft, especially the B, C, D and E variants. Important upgrades and modifications included a more powerful turbine engine, strengthened wings, aerodynamically secure wing-tip fuel tanks and a strengthened structure. The resultant of these upgrades was the much improved F-84G fighter, which boasted new innovations such as improved avionics, radar, the capability of in-flight refuelling and ability to carry a Mark 7 nuclear bomb. Though the operationally longest lasting of the series with the United States (into the mid-1960s), several other nations continued to use it including France and Taiwan (Republic of China), however, Greece continued flying their fighters until 1991.<ref name="Burrows" />
@@ -25,7 +23,6 @@ While dealing with mixed reviews over its positive and negative aspects, the F-8
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 The F-84G is a streamline all-metal jet fighter which was designed to house the upgraded Allison J35-A-29 turbine jet engine. Though an upgraded engine compared to the F-84B, typically this fighter was laden with more ordnance thus still requiring a significant roll-out time of 1,500 m (~5,000 ft) before lift-off. Don't be dismayed as other fighters are taking to the sky while you are still building up speed as once in the air you can climb to bomber altitude or set up for a ground attack run that few others can rival.
@@ -59,7 +56,7 @@ If ever in danger of risking going faster than maximum rip speed, it is importan
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -125,13 +122,12 @@ If ever in danger of risking going faster than maximum rip speed, it is importan
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 38 mm Bulletproof glass in cockpit front.
-- 6.35 mm Steel plate in front of pilot.
-- 12.7 mm Steel plate in pilot's headrest.
-- 8 mm Steel plate behind the pilot.
+* 38 mm Bulletproof glass in cockpit front.
+* 6.35 mm Steel plate in front of pilot.
+* 12.7 mm Steel plate in pilot's headrest.
+* 8 mm Steel plate behind the pilot.
 
 Like many early jet fighters, the armour was placed around the pilot while not much thought was given to the other critical components of the aircraft mostly due to the weight imposed on the early and weak turbojet engines placed into service. From behind, the pilot is protected by an 8 mm steel plate behind the seat with a 12.7 mm steel plate as a headrest. In front of the pilot, a 38 mm bulletproof windscreen adds protection from head-on's or from defensive bomber weapons. Another 6.35 mm steel plate is placed in front of the pilot and instrument panel for further protection of bullets entering the open-ended air-intake.
 
@@ -146,15 +142,13 @@ When attacking an F-84G, aim for the centre of the aircraft where you have a goo
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M3 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 12.7 mm M3 Browning machine guns, nose-mounted (300 rpg = 1,200 total)
-- 2 x 12.7 mm M3 Browning machine guns, wing-mounted (300 rpg = 600 total)
+* 4 x 12.7 mm M3 Browning machine guns, nose-mounted (300 rpg = 1,200 total)
+* 2 x 12.7 mm M3 Browning machine guns, wing-mounted (300 rpg = 600 total)
 
 Early fighters had many different configurations of machine guns and cannons mounted in the fuselage and in the wings, sometimes needing to be synced with the propeller to prevent its destruction. With the jet age developing, many factors of the past needed to be reconsidered with gun placement. With jet fighters flying faster and chasing faster targets, trying to find the sweet spot with gun convergence was extremely difficult, jet fighter pilots needed a little extra help with this. Besides implementing newer gun sights and early radar, jet fighter guns tended to be fuselage-mounted, thus eliminating the need to set the convergence and at any point between 0 m and 800 m the ammunition rounds would fly true without a convergence point.
 
@@ -162,36 +156,32 @@ For the F-84G, four of the 12.7 mm M3 Browning machine guns were mounted in the 
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 [[File:F-84G_IT_News_01.jpg|425px|thumb|right|]]
 {{main|AN-M30A1 (100 lb)|AN-M57 (250 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)}}
 {{main|HVAR|Tiny Tim}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 100 lb AN-M30A1 bombs (200 lb total)
-- 2 x 250 lb AN-M57 bombs (500 lb total)
-- 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
-- 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
-- 24 x HVAR rockets
-- 32 x HVAR rockets
-- 24 x HVAR rockets + 2 x 100 lb AN-M30A1 bombs (200 lb total)
-- 24 x HVAR rockets + 2 x 250 lb AN-M57 bombs (500 lb total)
-- 24 x HVAR rockets + 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
-- 24 x HVAR rockets + 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
-- 24 x HVAR rockets + 2 x Tiny Tim rockets
+* Without load
+* 2 x 100 lb AN-M30A1 bombs (200 lb total)
+* 2 x 250 lb AN-M57 bombs (500 lb total)
+* 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
+* 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
+* 24 x HVAR rockets
+* 32 x HVAR rockets
+* 24 x HVAR rockets + 2 x 100 lb AN-M30A1 bombs (200 lb total)
+* 24 x HVAR rockets + 2 x 250 lb AN-M57 bombs (500 lb total)
+* 24 x HVAR rockets + 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
+* 24 x HVAR rockets + 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
+* 24 x HVAR rockets + 2 x Tiny Tim rockets
 
 The F-84G offers many different suspended armament options ranging from bombs and rockets depending on the target needing to be destroyed. Due to the more effective engine utilised in the F-84G, it could sport a larger number of suspended armaments compared to its older brother the [[F-84B-26|F-84B]], turning into a truly ground attack workhorse. In comparison, a fully-loaded single-seat {{PAGENAME}} had approximately the same loadout capability as an early 7 crew [[B-25J-1|B-25J]] bomber. The smaller bombs such as the AN-M30A1, AN-M57 and HVAR rockets are useful against soft targets like anti-aircraft batteries, unarmoured vehicles, ships and some light tanks. The heavier hitters like the AN-M61A1, AN-M65A1 and Tiny Tim rockets are effective (more like overkill) for the softer targets, but also work well with bunkers, heavier armoured tanks, larger ships and can also be utilised against bases.
 
 Sometimes the suspended weapons you start out with doesn't work well later on in the match, therefore you can return to your base and exit the aircraft (default key = 'j') and select a different load-out unless you would like to fly strictly as a fighter where you can select "without load" and rely just on the six Browning M3 machine guns. The wide variety of ordnance options available for this aircraft make it an excellent clean-up ground attacker which can attack just about anything on the map with the right setup.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The F-84G is a versatile multi-role fighter and can be configured to be used in various types of aerial warfare, namely bomber interceptor, ground attack and fighter-interceptor.
 
 ;Bomber Interceptor
@@ -221,9 +211,7 @@ While definitely not the fastest nor the most manoeuvrable fighter on the field,
 Boom & Zoom tactics will enable the F-84G to have the speed to manoeuvre and set up their shots and keep them active in the fight. Many enemy fighters may mistake the F-84G as a weak and slow aircraft, however, the machine is not 100% of the solution and many pilots can take lesser aircraft and best faster, more agile and better-gunned aircraft by using their training, skills and the F-84B. The only time to count out the F-84G is when you see the pilot bail out, otherwise, always consider it a threat.
 
 ===Radars===
-
 <!--{{main|AN/APG-30}}-->
-
 The F-84G is equipped with an AN/APG-30 rangefinding radar, located in the nose of the aircraft.
 It will automatically detect other planes within the scanning area and display the range to the closest target. It is linked with a gyro gunsight and can help with aiming at close range.
 
@@ -240,28 +228,26 @@ It will automatically detect other planes within the scanning area and display t
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Very high top speed for an early jet
-- Air spawn, good for rushing
-- Can carry large amounts of payloads
-- Wide variety of secondary armament (bombs, rockets)
-- 6 x 12.7 mm M3 machine guns
-- Very good acceleration for an early jet, even stock
-- The best climber from 7.0 - 8.0
+* Very high top speed for an early jet
+* Air spawn, good for rushing
+* Can carry large amounts of payloads
+* Wide variety of secondary armament (bombs, rockets)
+* 6 x 12.7 mm M3 machine guns
+* Very good acceleration for an early jet, even stock
+* The best climber from 7.0 - 8.0
 
 '''Cons:'''
 
-- Not good at turning
-- May rip if pulled hard enough
-- Roll rate is average without "New Boosters" modification
-- Engines overheating
+* Not good at turning
+* May rip if pulled hard enough
+* Roll rate is average without "New Boosters" modification
+* Engines overheating
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 In early 1944, Alexander Kartveli, the chief designer for the Republic Aviation Aircraft Company set out to work on a replacement for the piston-powered P-47 Thunderbolt which instead would be powered by a turbojet.<ref name="Burrows" /> All attempts at trying to use the P-47 frame to accommodate a turbojet failed and Kartveli resorted to designing a brand new aircraft around an axial compressor turbojet engine. Due to the nature of the engine taking up a large majority of the fuselage, fuel tanks were designed to be in the wings of the aircraft, however, the body was streamlined to make the smallest profile possible and retain all necessary critical components.
@@ -280,12 +266,10 @@ The final variant of F-84 introduced was the G variant which began service in 19
 At least 13 other countries bought into the F-84 program, including Italy. Italy received, starting from May 1952, as many as 254 "Thunderjets", which soon became the symbol for the Italian Air Force after the successful adhesion of the country into NATO. The entry into line of the F-84Gs coincides with a crucial phase of the reconstruction of the Air Force which, in the face of the new operational needs arising from the NATO commitments, was committed not only to acquire new aircraft, but also to adapt the education and training sector, tactics and employment procedures, as well as to transform, often radically, infrastructure. It was also the first aircraft of the Italian Air Force capable of carrying a tactical nuclear device, which at the time really gave Italy a strategic advantage that many countries could never have. The F-84G was mainly used as a conventional and strike fighter-bomber. The first department of the Italian airforce to use the F-84 were the 5th Wing, stationed at the base of Villafranca (Verona), the 51st Wing of Aviano (Pordenone), and the 6th Wing of Ghedi (Brescia). Within a short time, the 5th and 51st Stormo, which in the meantime had become the 51st Aerobrigata, moved to new offices in Rimini and Istrana (TV). The "Thunderjet" was therefore also attached to the Aerial Photography Section of the 3rd Wing which, for reconnaissance tasks, used some F-84Gs equipped with cameras, housed in the left wing tank. With four F-84Gs each, two acrobatic patrols were also formed named the "''Getti Tonanti''" of the 5th Wing (1953) and the "White Tigers" of the 51st Wing (1956). They'd never see active combat, and as the Cold War progressed, the Italian F-84s would be replaced by the Republic F-84F "Thunderstreak" and, in the role of reconnaissance, by the Republic RF-84F "Thunderflash". The F-84Gs were phased out starting in 1956 and subsequently scrapped. There is currently only a few original existing airframes in the form of static displays.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=f-84g_italy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f-84g_italy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="150px">
@@ -299,34 +283,32 @@ File:F-84G_IT_News_06.jpg
 {{Youtube-gallery|qV4K1XPLWtk|'''War Thunder Realistic: F-84G-21-RE [Italian Thunder]''' - Jengar|H-nKR8P_j5c|'''War Thunder SIM - Italian F.84G - (Oberst)''' - Cpt Toastman}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other versions of the F-84
 
-- [[F-84B-26|F-84B-26 ''Thunderjet'']]
-- [[F-84G-21-RE|F-84G-21-RE]]
-- [[F-84G-21-RE (Italy)]]
-- [[F-84G-26-RE (France)]]
+* [[F-84B-26|F-84B-26 ''Thunderjet'']]
+* [[F-84G-21-RE|F-84G-21-RE]]
+* [[F-84G-21-RE (Italy)]]
+* [[F-84G-26-RE (France)]]
 
 ;Contemporary aircraft
 
-- de Havilland [[Venom_FB.4|Venom]]
-- Gloster [[Meteor (Family)|Meteor]]
-- Dassault [[M.D.450B_Ouragan|M.D.450B Ouragan]]
-- Grumman [[F9F-2|F9F]] Panther (USAF)
-- Grumman [[F9F-8|F9F]] Cougar (US Navy)
+* de Havilland [[Venom_FB.4|Venom]]
+* Gloster [[Meteor (Family)|Meteor]]
+* Dassault [[M.D.450B_Ouragan|M.D.450B Ouragan]]
+* Grumman [[F9F-2|F9F]] Panther (USAF)
+* Grumman [[F9F-8|F9F]] Cougar (US Navy)
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/4831-vehicle-profile-f-84g-thunderjet-blazing-rocketeer-en|[Vehicle Profile] F-84G Thunderjet: Blazing Rocketeer]]
-- [https://forum.warthunder.com/index.php?/topic/364979-republic-f-84g-thunderjet/ Official data sheet - more details about the performance]
+* [[wt:en/news/4831-vehicle-profile-f-84g-thunderjet-blazing-rocketeer-en|[Vehicle Profile] F-84G Thunderjet: Blazing Rocketeer]]
+* [https://forum.warthunder.com/index.php?/topic/364979-republic-f-84g-thunderjet/ Official data sheet - more details about the performance]
 
 === References ===
 <references>

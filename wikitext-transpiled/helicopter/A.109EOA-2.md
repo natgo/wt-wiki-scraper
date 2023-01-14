@@ -4,15 +4,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian utility helicopter {{Battle-rating}}. It was introduced in [[Update "Hot Tracks"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Heli-Flight}}
-
 <!-- ''Describe how the helicopter behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 Outfitting the A.109 with general payload options (TOW ATGMs, rockets, gunpods) does not make the helicopter any slower than its adversaries, in fact at times you'll easily be one of the fastest helicopters on the battlefield. The A.109 is at times able to do manoeuvres other helicopters can only dream about, even with full payload options. In Ground RB matches however, there should not be many times you'll have to move too much to avoid enemies. You are able to get to good positions thanks to your speed and at times you will be able to dodge incoming missiles from ground anti-air or enemy jet aircraft.
@@ -35,7 +32,6 @@ Outfitting the A.109 with general payload options (TOW ATGMs, rockets, gunpods) 
 
 === Survivability and armour ===
 {{Specs-Heli-Armour}}
-
 <!-- ''Examine the survivability of the helicopter. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical systems.'' -->
 
 The A.109 is not very survivable. Like many helicopters above and below its battle rating, it is prone to exploding into many pieces after a hit from an anti-air missile or a barage of anti-air fire. It does not have any armor. If your enemy is not very accurate and manages to damage you without hitting key components of the helicopter, you might luck out and be able to make it back to the base to repair. It is advised that you stay away from machine gun fire too, generally just stay away from everything that poses a threat, this is the only way to truly maximize your survivability.
@@ -47,25 +43,22 @@ The A.109 is not very survivable. Like many helicopters above and below its batt
 {{Specs-Heli-Armaments}}
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
-
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|BGM-71C Improved TOW|FFAR Mighty Mouse|FN M3P (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 28 x FFAR Mighty Mouse rockets
-- 2 x 12.7 mm FN M3P machine guns (400 rpg = 800 total)
-- 2 x 12.7 mm FN M3P machine guns (250 rpg = 500 total) + 6 x FFAR Mighty Mouse rockets
-- 2 x 12.7 mm FN M3P machine guns (250 rpg = 500 total) + 14 x FFAR Mighty Mouse rockets
-- 2 x 12.7 mm FN M3P machine guns (250 rpg = 500 total) + 20 x FFAR Mighty Mouse rockets
-- 4 x BGM-71C Improved TOW missiles
-- 4 x BGM-71C Improved TOW missiles + 14 x FFAR Mighty Mouse rockets
-- 4 x BGM-71C Improved TOW missiles + 2 x 12.7 mm FN M3P machine guns (400 rpg = 800 total)
-- 4 x BGM-71C Improved TOW missiles + 2 x 12.7 mm FN M3P machine guns (250 rpg = 500 total) + 6 x FFAR Mighty Mouse rockets
+* 28 x FFAR Mighty Mouse rockets
+* 2 x 12.7 mm FN M3P machine guns (400 rpg = 800 total)
+* 2 x 12.7 mm FN M3P machine guns (250 rpg = 500 total) + 6 x FFAR Mighty Mouse rockets
+* 2 x 12.7 mm FN M3P machine guns (250 rpg = 500 total) + 14 x FFAR Mighty Mouse rockets
+* 2 x 12.7 mm FN M3P machine guns (250 rpg = 500 total) + 20 x FFAR Mighty Mouse rockets
+* 4 x BGM-71C Improved TOW missiles
+* 4 x BGM-71C Improved TOW missiles + 14 x FFAR Mighty Mouse rockets
+* 4 x BGM-71C Improved TOW missiles + 2 x 12.7 mm FN M3P machine guns (400 rpg = 800 total)
+* 4 x BGM-71C Improved TOW missiles + 2 x 12.7 mm FN M3P machine guns (250 rpg = 500 total) + 6 x FFAR Mighty Mouse rockets
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The A.109 is a great helicopter for its battle rating, there are great line-up options to pair the helicopter up with, and if you manage to get down-tiered you just might be able to easily dominate the game.
@@ -85,23 +78,21 @@ In '''Arcade Assault''', you won't have to worry about going back to base to rel
 When playing helicopter battles, your best shot at staying alive and being effective is to bring a load-out of gunpods and rockets. The gunpods you have access to are usually able to deal with most helicopters you'll be facing, due to many of them not being very armoured. With rockets, you'll be able to take out ground AI targets. Usually, they will take 1 or 2 shots at minimum to destroy. Rockets are also quite effective in close range as a last ditch effort to come out on top when fighting a 1-vs-1. Try stay away from any helicopters with air-to-air missiles as you'll more than likely get destroyed, best way to maximize your efforts in this game mode is by trying and flanking the enemy side of the map and getting rid of ground targets undisturbed.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Can be equipped with 4 x TOW anti-tank missile launchers
-- Considerably faster than its counterparts
-- Very responsive, usually able to manoeuvre with ease
+* Can be equipped with 4 x TOW anti-tank missile launchers
+* Considerably faster than its counterparts
+* Very responsive, usually able to manoeuvre with ease
 
 '''Cons:'''
 
-- Lacks any form of countermeasures
-- Only has access to night vision devices, no thermal imaging.
-- Not very survivable
+* Lacks any form of countermeasures
+* Only has access to night vision devices, no thermal imaging.
+* Not very survivable
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 During the 1960s, Agusta was looking to break into the export market by designing the A109. Mainly intended for commercial use and a civilian market, it would be also later be tailored during development to the military market. It was redesigned in 1969 as there was a need for twin engines to actually compete with other contenders: this lead to the A109 to be fitted with 2 Allison 250-C14 turboshaft engines. From December 1968 until September 1969, at least 10 separate possible configurations were worked out. This lead to construction of the first three of the prototypes to carry out flight tests. In 1971, the A109 made its first maiden flight which yielded great results for the machine. The test flight was encouraging both in regards the reduction of vibration and handling qualities, and the overall advantage achieved by adopting an articulated four-blade rotor. Noise abatement was also promising, with an especially designed markedly tapered leading edge of the blade tip section. Testing was halted following a minor accident but quickly resumed in 1972 with to the demand and interest of many countries.
@@ -114,12 +105,11 @@ Once Agusta's helicopter was ready, many civilian versions of this aircraft star
 In the early 70s, the Italian aircraft manufacturer Agusta began testing a new multi-purpose helicopter, the A.109, which was originally created for the civilian market, but immediately drew the attention of the military authorities. A.109 EOA-2 is a reconnaissance version, designed to destroy various targets including enemy armoured vehicles. In addition to machine-gun pods and rockets, the helicopter can be equipped with four TOW anti-tank missile launchers.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=a_109_eoa2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=a_109_eoa2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover" heights="150">
@@ -134,23 +124,20 @@ File:A.109 EOA-2 WTWallpaper 003.jpg|
 {{Youtube-gallery|7J6c4D5MVRg|'''The Shooting Range #235''' - ''Pages of History'' section at 04:44 discusses the A.109.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the helicopter;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the helicopter;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the helicopter;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6989-development-italian-helicopters-en|[Devblog] Italian Helicopters]]
+* [[wt:en/news/6989-development-italian-helicopters-en|[Devblog] Italian Helicopters]]
 
 {{AirManufacturer Agusta}}
 {{Italy helicopters}}

@@ -9,14 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} French attack helicopter {{Battle-rating}}. It was introduced in [[Update 1.87 "Locked On"]].
 
 The Sikorsky H-34 was manufactured as a piston-engined military helicopter originally intended for anti-submarine warfare, however, it also has seen service as a medium transport helicopter and as a combat helicopter. This tail dragging helicopter has the radial reciprocating engine mounted in the nose of the aircraft, with the driveshaft traversing through the cockpit.
 
-The initial flight of this helicopter took place in March 1954 and the first to enter service with the U.S. Navy took place only six months later. The U.S. Army and Marine Corps also placed orders for this helicopter in 1955 and 1957. Other designations of this helicopter include SH-34, UH-34 and CH-34. For transport purposes, this helicopter can be configured to carry between 12 and 16 troops or, if utilized in the role of MedEvac, up to eight stretchers.
+The initial flight of this helicopter took place in March 1954 and the first to enter service with the U.S. Navy took place only six months later.  The U.S. Army and Marine Corps also placed orders for this helicopter in 1955 and 1957.  Other designations of this helicopter include SH-34, UH-34 and CH-34.  For transport purposes, this helicopter can be configured to carry between 12 and 16 troops or, if utilized in the role of MedEvac, up to eight stretchers.
 
 French aviation company Sud-Aviation assembled a total of 135 H-34's built in the U.S. along with a total of 166 H-34s produced by Sud-Aviation under licence from Sikorsky for use in the French Air Force, Navy, and Army Aviation (ALAT).
 
@@ -27,7 +25,6 @@ Production of the H-34 terminated in 1968 by Sikorsky after building a total of 
 == General info ==
 === Flight performance ===
 {{Specs-Heli-Flight}}
-
 <!-- ''Describe how the helicopter behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center"
@@ -57,16 +54,15 @@ Production of the H-34 terminated in 1968 by Sikorsky after building a total of 
 {{Specs-Heli-Armaments}}
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
-
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|Type 61C (50 kg)|AS.11|HVAR|Browning (7.62 mm)}}
 
 The helicopter's machine guns are mounted towards the nose of the helicopter, in front of the landing gear struts. These machine guns can be loaded with one of four different ammo belts (Default, Universal, Tracers, and Stealth). However, owing to their small calibre, they are only effective for attacking very lightly armoured targets (< 10 mm maximum armour thickness), they have limited effectiveness against aircraft and are ultimately useless against armoured targets. Their relatively low rate of fire offers better aim controllability at the expense of total damage output.
 
+
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 4 x 7.62 mm Browning machine guns (250 rpg = 1,000 total) + 2 x AS.11 missiles + 6 x HVAR rockets
+* 4 x 7.62 mm Browning machine guns (250 rpg = 1,000 total) + 2 x AS.11 missiles + 6 x HVAR rockets
 
 In this configuration, the H-34 is equipped with two AS.11 ATGM pylons mounted alongside the nose of the aircraft, along with six HVAR unguided rockets mounted on a vertical rail on the left side of the helicopter.
 
@@ -74,7 +70,7 @@ The helicopter's six HVAR rockets with their 36 mm of high-explosive armour pene
 
 A far more effective weapon versus armoured targets, the helicopter's two AS.11 ATGM's with their 600 mm of armour penetration can easily damage and destroy enemy tanks and other armoured targets with a well-placed hit. However, this helicopter can only carry two of these missiles at a time, the smallest ATGM loadout of any helicopter in the game, which severely limits the helicopter's combat potential.
 
-- 4 x 7.62 mm Browning machine guns (250 rpg = 1,000 total) + 10 x 50 kg Type 61C bombs (500 kg total)
+* 4 x 7.62 mm Browning machine guns (250 rpg = 1,000 total) + 10 x 50 kg Type 61C bombs (500 kg total)
 
 In this configuration, the H-34 is equipped with ten 50 kg Type-61C bombs, with six bombs loaded onto external pylons on the sides of the helicopter, and four bombs mounted on rails below the fuselage. These bombs can destroy enemy armoured vehicles when dropped within 2 meters of the target. Their small explosive mass requires particularly careful aim in order to effectively strike at ground targets. However, care must still be taken in order to remain out of the 67 m fragmentation radius of these bombs in order to avoid splash damage to the helicopter itself.
 
@@ -82,26 +78,23 @@ In this configuration, the H-34 is equipped with ten 50 kg Type-61C bombs, with 
 ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Surprisingly fast, able to maintain speeds in excess of 322 km/h (200 mph) in level flight
-- Decent structural durability, though this isn't saying much
+* Surprisingly fast, able to maintain speeds in excess of 322 km/h (200 mph) in level flight
+* Decent structural durability, though this isn't saying much
 
 '''Cons:'''
 
-- Large size makes it a large target
-- Sluggish handling characteristics
-- Weak engine and rotor transmission durability - a few hits from light-caliber rounds can quickly destroy them
-- Awkward HVAR rocket placement makes accurate aim tricky
-- Bomb loadout is inadequate against heavily armoured targets
+* Large size makes it a large target
+* Sluggish handling characteristics
+* Weak engine and rotor transmission durability - a few hits from light-caliber rounds can quickly destroy them
+* Awkward HVAR rocket placement makes accurate aim tricky
+* Bomb loadout is inadequate against heavily armoured targets
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The H-34 was developed in the early 1950s as the successor to the H-19 Chickasaw. The new helicopter was enlarged and was overall more powerful than its predecessor, yet still retained some core design elements, such as the nose-mounted radial engine under the cockpit.
 
 The H-34 performed its maiden flight in March 1954 and was adopted into service shortly afterwards, first with the U.S. Navy in 1955 and then U.S. Army in 1956.
@@ -113,12 +106,11 @@ Of course, the H-34 Choctaw saw service with many more countries around the worl
 ''- From [[wt:en/news/6083-development-h-34-choctaw-a-worthy-start-en|Devblog]]''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=h_34_france Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=h_34_france Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="150">
@@ -134,26 +126,24 @@ File:H-34 France WTWallpaper 006.jpg
 {{Youtube-gallery|jjanlLrycGo|'''The Shooting Range #156''' - ''Pages of History'' section at 05:13 discusses the H-34.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the helicopter;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related aircraft
 
-- Sikorsky [[H-34]] (USA)
+* Sikorsky [[H-34]] (USA)
 
 ;Aircraft of comparable role, configuration and era
 
-- Mil [[Mi-4AV|Mi-4]] Hound
+* Mil [[Mi-4AV|Mi-4]] Hound
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6083-development-h-34-choctaw-a-worthy-start-en|[Devblog] H-34 Choctaw: A Worthy Start]]
+* [[wt:en/news/6083-development-h-34-choctaw-a-worthy-start-en|[Devblog] H-34 Choctaw: A Worthy Start]]
 
 {{AirManufacturer Sikorsky}}
 {{France helicopters}}

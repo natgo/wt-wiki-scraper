@@ -1,12 +1,10 @@
 {{Specs-Card
 |code=f_14a_early
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.jpg}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} American jet fighter {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]]. One of the most iconic US naval fighter jets of the Cold War era, the F-14A was developed as the US Navy's fleet-defense fighter jet to protect their carrier groups over a vast swath of ocean. First deployed in the 1970s, the F-14A wields the advanced AN/AWG-9 radar and up to eight missiles, including the iconic [[AIM-54A Phoenix|Phoenix missile,]] to locate and target bandits at long range.
 
 In the game, these characteristics allow the F-14A to engage enemy air targets at far greater distances than most enemy aircraft can, allowing the F-14A to take the initiative and achieve air superiority by firing first. At long range, Phoenix missiles force enemy fighters to actively monitor the sky even when they cannot yet see or detect the F-14A. While Phoenix missiles may prove too sluggish to target enemy fighters at high-speed merges, its [[AIM-7F Sparrow|Sparrows]] can engage manoeuvring targets at short and medium ranges before engaging at closer ranges with [[AIM-9H Sidewinder|Sidewinders]] and M61 cannon fire.
@@ -14,9 +12,7 @@ In the game, these characteristics allow the F-14A to engage enemy air targets a
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The F-14A might be seen underpowered compared to other aircraft, primarily the F-4J Phantom II and other Phantom variants such as the Phantom FG.1. While it is true that the engines are not as powerful, the F-14A is far superior in terms of top speed and energy management. However, insufficient power can be noticed when zoom climbing or when turning at low speed, and regaining the speed back can take a while. The engines also consume tremendous amounts of fuel: while the F-14A can stay in the air for at least one hour with full fuel tanks, at full afterburner (WEP) the jet can fly for only 7 minutes at sea level.
 
 The F-14A is more of a two-circle dogfighter since it keeps speed very well in hard turns, but might not have as much nose authority as other planes to win one-circle fights (such as scissors and anything similar when you turn into the opponent's nose). Although it can still beat planes like the MiG-23MLD in the instantaneous turn-rate performance, delta-wing fighters like the J35 or MiG-21 could have the advantage during the first seconds of the fight. Like other planes with variable wing geometry, the F-14A reaches its most efficient turn rate performance when wings are swept fully forward (set to 0%) and that can be achieved only by using the manual wing sweep controls. Since it is semi-automatic, the wing will automatically change its position after reaching around ~800 km/h IAS.
@@ -54,7 +50,7 @@ While using the manual SAS mode, it is can be easy to stall out the plane when f
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || ✓ || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || X     <!-- ✓ -->
 |-
 |}
 
@@ -123,12 +119,10 @@ While using the manual SAS mode, it is can be easy to stall out the plane when f
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
+The F-14A holds 60 countermeasures, which is a decent number of chaff and flares that can let the Tomcat survive multiple missiles. Due to its massive engines, the IR signature of the aircraft is not an easy thing to conceal when fighting heat-seeking missiles. As with other jets around its battle rating, flares alone are not enough. To defeat an IR-guided missile (heat-seeker), turn off afterburner and reduce throttle to at least 80-85% while dumping flares and turning away from the missile. This is to ensure that an IR-guided missile will track the flares and not the engines.  Due to the massive size compared to other aircraft, the chances of a successful hit from enemies, both missile and cannon, are higher compared to other aircraft, such as the AV-8 or F-5. This should be taken into consideration as proximity fuses will trigger with more ease as the wingspan of the Tomcat is considerably larger than most jets seen in game. 
 
-The F-14A holds 60 countermeasures, which is a decent number of chaff and flares that can let the Tomcat survive multiple missiles. Due to its massive engines, the IR signature of the aircraft is not an easy thing to conceal when fighting heat-seeking missiles. As with other jets around its battle rating, flares alone are not enough. To defeat an IR-guided missile (heat-seeker), turn off afterburner and reduce throttle to at least 80-85% while dumping flares and turning away from the missile. This is to ensure that an IR-guided missile will track the flares and not the engines. Due to the massive size compared to other aircraft, the chances of a successful hit from enemies, both missile and cannon, are higher compared to other aircraft, such as the AV-8 or F-5. This should be taken into consideration as proximity fuses will trigger with more ease as the wingspan of the Tomcat is considerably larger than most jets seen in game.
-
-Fuel tanks are housed flatly in both the fuselage and wings. The F-14A will easily catch fire from enemy rounds from above and below the plane. Thankfully, the fuel tanks are well-separated compared to other fighters like the F-4 family, so damage to one part of the plane may not necessarily compromise the whole plane. However, fires will rapidly destroy traction of control surfaces, so they must be immediately extinguished. As long as some control surfaces are usable, the F-14A can survive critical damage (such as losing a wing) and return to base. Its multiple fuel tanks help isolate fuel fires especially on the wings, and the plane can fly on one engine.
+Fuel tanks are housed flatly in both the fuselage and wings. The F-14A will easily catch fire from enemy rounds from above and below the plane. Thankfully, the fuel tanks are well-separated compared to other fighters like the F-4 family, so damage to one part of the plane may not necessarily compromise the whole plane. However, fires will rapidly destroy traction of control surfaces, so they must be immediately extinguished. As long as some control surfaces are usable, the F-14A can survive critical damage (such as losing a wing) and return to base. Its multiple fuel tanks help isolate fuel fires especially on the wings, and the plane can fly on one engine. 
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -146,41 +140,37 @@ Fuel tanks are housed flatly in both the fuselage and wings. The F-14A will easi
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M61A1 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 1 x 20 mm M61A1 cannon, cheek-mounted (676 rpg)
-  ** 1 x 20 mm M61A1 cannon + 60 x countermeasures
+* A choice between two presets:
+** 1 x 20 mm M61A1 cannon, cheek-mounted (676 rpg)
+** 1 x 20 mm M61A1 cannon + 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)|Zuni Mk32 Mod 0 ATAP}}
 {{main|AIM-7E-2 Sparrow|AIM-7F Sparrow|AIM-54A Phoenix}}
 {{main|AIM-9D Sidewinder|AIM-9G Sidewinder|AIM-9H Sidewinder}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x AIM-9D Sidewinder missiles
-- 4 x AIM-9D Sidewinder missiles
-- 4 x AIM-9G Sidewinder missiles
-- 4 x AIM-9H Sidewinder missiles
-- 5 x AIM-7E-2 Sparrow missiles
-- 6 x AIM-7F Sparrow missiles
-- 6 x AIM-54A Phoenix missiles
-- 14 x 250 lb LDGP Mk 81 bombs (3,500 lb total)
-- 14 x 500 lb LDGP Mk 82 bombs (7,000 lb total)
-- 4 x 1,000 lb LDGP Mk 83 bombs (4,000 lb total)
-- 4 x 2,000 lb LDGP Mk 84 bombs (8,000 lb total)
-- 16 x Zuni Mk32 Mod 0 ATAP rockets
+* Without load
+* 2 x AIM-9D Sidewinder missiles
+* 4 x AIM-9D Sidewinder missiles
+* 4 x AIM-9G Sidewinder missiles
+* 4 x AIM-9H Sidewinder missiles
+* 5 x AIM-7E-2 Sparrow missiles
+* 6 x AIM-7F Sparrow missiles
+* 6 x AIM-54A Phoenix missiles
+* 14 x 250 lb LDGP Mk 81 bombs (3,500 lb total)
+* 14 x 500 lb LDGP Mk 82 bombs (7,000 lb total)
+* 4 x 1,000 lb LDGP Mk 83 bombs (4,000 lb total)
+* 4 x 2,000 lb LDGP Mk 84 bombs (8,000 lb total)
+* 16 x Zuni Mk32 Mod 0 ATAP rockets
 
 The F-14A is the first aircraft in game to have access to Active Radar Homing missiles with internal navigation. While it is mostly used for air defense and anti-air duties, it holds decent ground pounding abilities that are nothing new to American pilots. The F-14A has access to a wide variety of weapon selections due to having 'Custom Loadouts' feature. Depending on the needs of the pilot, one can carry different loadouts for different needs. Some may prefer the use of the AIM-7F over the AIM-54 due to the fast acceleration and good performance in short-medium ranges. A recommended loadout to carry is the following: x4 AIM-54A, x2 AIM-7F, x2 AIM-9 (on preference). It holds the power to fight at all ranges, being able to launch AIM-54A at unaware targets and then engage other with Sparrows, later to dogfight at close ranges with Sidewinders.
 
@@ -235,13 +225,11 @@ Each of these missiles has its strengths and weaknesses. A mix between long-rang
 ! AIM-54A Phoenix missiles
 | || 1 || 2* || 2<sup>†</sup> || 1 ||
 |-
-| colspan="9" | \* Use of dual Sparrow missiles on hardpoint 4 prevents use of the marked options on hardpoint 3 <br> <sup>†</sup> The AIM-54A Phoenix missiles on hardpoint 4 cannot be carried in conjunction with 2,000 lb LDGP Mk 84 bombs on hardpoint 3
+| colspan="9" | * Use of dual Sparrow missiles on hardpoint 4 prevents use of the marked options on hardpoint 3 <br> <sup>†</sup> The AIM-54A Phoenix missiles on hardpoint 4 cannot be carried in conjunction with 2,000 lb LDGP Mk 84 bombs on hardpoint 3
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 Boasting a high top speed, excellent turning characteristics, a large number of excellent missiles, and a powerful radar, the F-14A (Early) Tomcat is a potent air superiority fighter and should be used as such.
 
 '''Flying the F-14A'''
@@ -264,15 +252,15 @@ Something to be aware of when playing the F-14A is the insane heat of its engine
 
 The AN/AWG-9 radar set carried by the F-14A is an extremely potent radar, especially for long-range missile combat. It has great range (a maximum of 185 km tracking and 370 km detecting). For most normal air RB maps, a 37km display range should suffice, while 93 km should be enough for most enduring confrontation air RB maps. A radar lock is necessary to guide Sparrows, while either radar lock or soft lock (selecting targets in TWS) will suffice for a Phoenix launch. The radar has four different modes which have different purposes, capabilities and usages:
 
-- '''SRC PD HDN''' (Surveillance Radar Computer, Pulse-Doppler, Head-On): Users of the F-14 are likely at least somewhat aware of what a pulse-Doppler radar is from usage of the previous F-4J. This is a pulse-Doppler mode, meaning it measures an aircraft's Doppler shift (difference in velocity compared to surroundings) in order to "see" targets. Due to the nature of the detection method, this pulse-Doppler mode is most ideal for targets close to the ground, as well as in head-on situations (as the name suggests). However, this pulse-Doppler mode has a weakness: it can be [[Airborne_radars#Notching_a_Pulse-Doppler_radar|notched]]; pulse-Doppler measures the target aircraft's velocity change compared to surroundings, so if a target flies perpendicular to the radar (not moving closer or further compared to the surroundings), the radar will not observe a change in velocity and therefore cannot see the aircraft. F-14A pilots must be aware of how the notch works; if an enemy radar is locking you at low altitude, they are likely using a pulse-Doppler mode, and thus notching becomes a defensive option to break radar lock. Provided the target is not at very low altitudes, an enemy notching your pulse-Doppler radar can be countered by switching the radar mode to SRC. Another weakness to be aware of is that pulse-Doppler modes generally have trouble detecting and locking targets travelling away from the radar. In conclusion, the pulse-Doppler mode is good for tracking targets at very low altitudes, but is vulnerable to notching and has difficulty finding targets moving away.
-- '''SRC''' (Surveillance Radar Computer): This is the standard radar mode. It is not a pulse-Doppler mode and therefore does not have its weaknesses; it cannot be notched like pulse-Doppler can, and has an easier time tracking targets moving away. Therefore, if an enemy is attempting to notch your pulse-Doppler mode, you can switch the radar lock from a pulse-Doppler one to standard SRC. However, due to the radar return from ground clutter, it has great trouble locking targets at very low altitude, though it can still lock higher targets. It's worth noting that the SRC mode on the AN/AWG-9 is more resistant to ground clutter than previous radars; while you still cannot detect or lock a target very close to the ground, it can sometimes detect targets as little as 1 km from the ground. In conclusion, SRC is generally more reliable at finding and tracking targets than pulse-Doppler mode, but cannot see targets at very low altitudes like pulse-Doppler can.
-- '''TWS HDN''' (Track While Scan, Head-On): This mode allows targets to be detected and "tracked" simultaneously. By hovering your radar cursor over detected targets, you can "soft lock" them; their position is marked in third-person view, and their general speed, heading, and height are displayed. With a soft lock, the radar return is not strong enough to trigger the RWR, so enemies will not know you are soft locking them. AIM-54A Phoenixes can be launched via a soft lock, and after launching a Phoenix, you can hover over another enemy to launch another Phoenix. Using onboard electronics, the Phoenixes will guide themselves to the target after this. In addition, AIM-9G/H Sidewinders can be slaved to the soft lock. However, for a Sparrow launch, you will need to "hard lock" the target. This can be done simply by locking the target the cursor is hovering over (as with other radar modes). In addition, track while scan uses pulse-Doppler, so it can detect targets close to the ground as well. Unfortunately, this also means it has the same weaknesses as pulse-Doppler mode (vulnerable to notching or targets flying away). The capabilities of the track while scan mode are potent and allows pilots great situational awareness, and therefore should generally be your go-to radar mode, only switching to SRC to overcome pulse-Doppler's weaknesses.
-- '''SRC PDV HDN''' (Surveillance Radar Computer, Pulse-Doppler Velocity, Head-On): This radar mode is very similar to pulse-Doppler, but instead displays the velocity of the aircraft on the radar screen rather than the range. This is the only radar mode on the AN/AWG-9 which does not utilize IFF (Identification Friend or Foe), so in simulator mode, be careful.
-- The AN/AWG-9 has two acquisition modes, ACM PD HDN and ACQ, and two track modes, TRK PD HDN and TRK.
-  ** SRC PD HDN, TWS HDN and SRC PDV HDN radar modes all use '''ACM PD HDN''' (Air Combat Maneuvering, Pulse-Doppler, Head-On) as the acquisition mode, and '''TRK PD HDN''' (Track, Pulse-Doppler, Head-On) as the lock mode. These are pulse-Doppler search and lock methods, and as such have the same strengths and weaknesses.
-  ** SRC uses '''ACQ''' and '''TRK''' as acquisition and lock modes, respectively, which are the non pulse-Doppler counterparts to ACM PD HDN and TRK PD HDN.
-  ** When in these acquisition modes, you can press your keybind for “Change Radar/IRST Search Mode” to change the scope of the acquisition search area. Clicking it once changes it from a square to a vertically long rectangle, clicking it twice moves this rectangle to an upper position (to lock enemies above you), and clicking it a third time changes it back to a square.
-  ** A nice feature of the F-14's radar is that, if you have a target radar locked, you can switch between pulse-Doppler and normal SRC tracking without breaking lock (most other radars will require the lock to be broken before switching radar mode to reattempt a lock). This allows you to quickly and easily switch to TRK (SRC) if the target is notching, or switch to TRK PD HDN (Pulse-Doppler) if the target is going close to the ground.
+* '''SRC PD HDN''' (Surveillance Radar Computer, Pulse-Doppler, Head-On): Users of the F-14 are likely at least somewhat aware of what a pulse-Doppler radar is from usage of the previous F-4J. This is a pulse-Doppler mode, meaning it measures an aircraft's Doppler shift (difference in velocity compared to surroundings) in order to "see" targets. Due to the nature of the detection method, this pulse-Doppler mode is most ideal for targets close to the ground, as well as in head-on situations (as the name suggests). However, this pulse-Doppler mode has a weakness: it can be [[Airborne_radars#Notching_a_Pulse-Doppler_radar|notched]]; pulse-Doppler measures the target aircraft's velocity change compared to surroundings, so if a target flies perpendicular to the radar (not moving closer or further compared to the surroundings), the radar will not observe a change in velocity and therefore cannot see the aircraft. F-14A pilots must be aware of how the notch works; if an enemy radar is locking you at low altitude, they are likely using a pulse-Doppler mode, and thus notching becomes a defensive option to break radar lock. Provided the target is not at very low altitudes, an enemy notching your pulse-Doppler radar can be countered by switching the radar mode to SRC. Another weakness to be aware of is that pulse-Doppler modes generally have trouble detecting and locking targets travelling away from the radar. In conclusion, the pulse-Doppler mode is good for tracking targets at very low altitudes, but is vulnerable to notching and has difficulty finding targets moving away.
+* '''SRC''' (Surveillance Radar Computer): This is the standard radar mode. It is not a pulse-Doppler mode and therefore does not have its weaknesses; it cannot be notched like pulse-Doppler can, and has an easier time tracking targets moving away. Therefore, if an enemy is attempting to notch your pulse-Doppler mode, you can switch the radar lock from a pulse-Doppler one to standard SRC. However, due to the radar return from ground clutter, it has great trouble locking targets at very low altitude, though it can still lock higher targets. It's worth noting that the SRC mode on the AN/AWG-9 is more resistant to ground clutter than previous radars; while you still cannot detect or lock a target very close to the ground, it can sometimes detect targets as little as 1 km from the ground. In conclusion, SRC is generally more reliable at finding and tracking targets than pulse-Doppler mode, but cannot see targets at very low altitudes like pulse-Doppler can.
+* '''TWS HDN''' (Track While Scan, Head-On): This mode allows targets to be detected and "tracked" simultaneously. By hovering your radar cursor over detected targets, you can "soft lock" them; their position is marked in third-person view, and their general speed, heading, and height are displayed. With a soft lock, the radar return is not strong enough to trigger the RWR, so enemies will not know you are soft locking them. AIM-54A Phoenixes can be launched via a soft lock, and after launching a Phoenix, you can hover over another enemy to launch another Phoenix. Using onboard electronics, the Phoenixes will guide themselves to the target after this. In addition, AIM-9G/H Sidewinders can be slaved to the soft lock. However, for a Sparrow launch, you will need to "hard lock" the target. This can be done simply by locking the target the cursor is hovering over (as with other radar modes). In addition, track while scan uses pulse-Doppler, so it can detect targets close to the ground as well. Unfortunately, this also means it has the same weaknesses as pulse-Doppler mode (vulnerable to notching or targets flying away). The capabilities of the track while scan mode are potent and allows pilots great situational awareness, and therefore should generally be your go-to radar mode, only switching to SRC to overcome pulse-Doppler's weaknesses.
+* '''SRC PDV HDN''' (Surveillance Radar Computer, Pulse-Doppler Velocity, Head-On): This radar mode is very similar to pulse-Doppler, but instead displays the velocity of the aircraft on the radar screen rather than the range. This is the only radar mode on the AN/AWG-9 which does not utilize IFF (Identification Friend or Foe), so in simulator mode, be careful.
+* The AN/AWG-9 has two acquisition modes, ACM PD HDN and ACQ, and two track modes, TRK PD HDN and TRK. 
+** SRC PD HDN, TWS HDN and SRC PDV HDN radar modes all use '''ACM PD HDN''' (Air Combat Maneuvering, Pulse-Doppler, Head-On) as the acquisition mode, and '''TRK PD HDN''' (Track, Pulse-Doppler, Head-On) as the lock mode. These are pulse-Doppler search and lock methods, and as such have the same strengths and weaknesses.
+** SRC uses '''ACQ''' and '''TRK''' as acquisition and lock modes, respectively, which are the non pulse-Doppler counterparts to ACM PD HDN and TRK PD HDN.
+** When in these acquisition modes, you can press your keybind for “Change Radar/IRST Search Mode” to change the scope of the acquisition search area. Clicking it once changes it from a square to a vertically long rectangle, clicking it twice moves this rectangle to an upper position (to lock enemies above you), and clicking it a third time changes it back to a square. 
+** A nice feature of the F-14's radar is that, if you have a target radar locked, you can switch between pulse-Doppler and normal SRC tracking without breaking lock (most other radars will require the lock to be broken before switching radar mode to reattempt a lock). This allows you to quickly and easily switch to TRK (SRC) if the target is notching, or switch to TRK PD HDN (Pulse-Doppler) if the target is going close to the ground.
 
 '''Realistic Battles'''
 
@@ -280,14 +268,14 @@ In realistic battles, the F-14A is a powerful air superiority fighter. With a ma
 
 In ground realistic battles, the F-14A can use its long-range missiles to clear the sky of enemy strike aircraft. With its excellent Sparrow and Phoenix missiles, the F-14A will be especially potent at destroying enemy strike aircraft at high altitudes who are using guided munitions to attack your team outside of SAM range. While the F-14A gets access to some variety of air-to-ground bombs and rockets, these are all unguided and thus are very risky to use in the presence of SAMs. Therefore, unless a ground strike is absolutely necessary, a Tomcat is much better off in the air-to-air role guarding the skies.
 
-'''Enemies Worth Noting'''
+'''Enemies Worth Noting''' 
 
-- '''F-16A:''' These planes have excellent acceleration and decent top speed. In addition, they have AIM-9Ls, which can sometimes be difficult to flare with the F-14’s two very hot engines, as well as AIM-7Ms (except the “normal” US F-16A and Israeli Netz”), which can give competition to the F-14’s AIM-7Fs. In a dogfight, the F-16 can and will compete with the F-14 with it’s excellent maneuverability, but a weakness is it’s G-limiter which effectively bricks the F-16 at high speeds. This can be exploited in a merge with an F-16, where pulling hard into the F-16 will let you park yourself on his tail. The F-16’s excellent acceleration in contrast with the F-14’s poor acceleration makes it ill-advised to engage in a vertical dogfight with the F-16.
-- '''MiG-29''': The MiG-29 has excellent acceleration and top speed. Though it’s R-60Ms are a far cry from the F-16’s AIM-9Ls, it does possess the extremely dangerous R-27ER long range SARH missile. These missiles are faster accelerating and more maneuverable than the F-14’s AIM-7Fs while having the same listed maximum range of 100km. However, the MiG-29 can only carry two of them. They can be outranged by your AIM-54s, but at closer ranges, even a single missile can mean death for you so you will have to use missile jousting strategies to beat the R-27ER with your AIM-7Fs. In a dogfight, it’s mostly the same story as with the F-16: the MiG-29 has excellent maneuverability, and while the F-14 can certainly keep up, vertical dogfights should be avoided due to the stark difference in acceleration between the MiG-29 and F-14A.
-- '''Mirage 2000C:''' Mirage 2000s have excellent acceleration and top speed, as well as powerful missiles. Like AIM-9Ls, the Magic 2 can be difficult to flare, and the Super 530D is comparable to the AIM-7F. In a dogfight, the Mirage 2000 has excellent instantaneous turn rate, but due to it’s delta wing design bleeds speed quickly; in this case the F-14A’s excellent rate speed should be used to drain the Mirage 2000 of energy and outrate it.
-- '''F-4J, F-4EJ Kai:''' These Phantoms can very easily be beaten in a dogfight by the F-14A, but beware of powerful AIM-7Fs, and in the case of the EJ Kai, AIM-9Ls.
-- '''MiG-23ML/MLA/MLD:''' These MiG-23s boast good R-24s which can compete with the AIM-7F, as well as dangerous R-24Ts which can lock on to the F-14’s hot heat signature and stealthily destroy it. Good situational awareness is key to defeating these missiles. In a dogfight, MiG-23s have a very good rate speed which can keep up with the F-14. However, their instantaneous turn rate is poor, so a one circle or scissors can be used with the F-14A to easily gain an advantage over MiG-23s.
-- '''F-5E:''' F-5s have a surprisingly excellent turn rate that can rival even the F-14A. However, it has slow acceleration, it’s guns are mediocre and it has very limited missiles. Therefore, the vertical can be used on the F-5 to stall them out and gain the advantage.
+* '''F-16A:''' These planes have excellent acceleration and decent top speed. In addition, they have AIM-9Ls, which can sometimes be difficult to flare with the F-14’s two very hot engines, as well as AIM-7Ms (except the “normal” US F-16A and Israeli Netz”), which can give competition to the F-14’s AIM-7Fs. In a dogfight, the F-16 can and will compete with the F-14 with it’s excellent maneuverability, but a weakness is it’s G-limiter which effectively bricks the F-16 at high speeds. This can be exploited in a merge with an F-16, where pulling hard into the F-16 will let you park yourself on his tail. The F-16’s excellent acceleration in contrast with the F-14’s poor acceleration makes it ill-advised to engage in a vertical dogfight with the F-16. 
+* '''MiG-29''': The MiG-29 has excellent acceleration and top speed. Though it’s R-60Ms are a far cry from the F-16’s AIM-9Ls, it does possess the extremely dangerous R-27ER long range SARH missile. These missiles are faster accelerating and more maneuverable than the F-14’s AIM-7Fs while having the same listed maximum range of 100km. However, the MiG-29 can only carry two of them. They can be outranged by your AIM-54s, but at closer ranges, even a single missile can mean death for you so you will have to use missile jousting strategies to beat the R-27ER with your AIM-7Fs. In a dogfight, it’s mostly the same story as with the F-16: the MiG-29 has excellent maneuverability, and while the F-14 can certainly keep up, vertical dogfights should be avoided due to the stark difference in acceleration between the MiG-29 and F-14A. 
+* '''Mirage 2000C:''' Mirage 2000s have excellent acceleration and top speed, as well as powerful missiles. Like AIM-9Ls, the Magic 2 can be difficult to flare, and the Super 530D is comparable to the AIM-7F. In a dogfight, the Mirage 2000 has excellent instantaneous turn rate, but due to it’s delta wing design bleeds speed quickly; in this case the F-14A’s excellent rate speed should be used to drain the Mirage 2000 of energy and outrate it. 
+* '''F-4J, F-4EJ Kai:''' These Phantoms can very easily be beaten in a dogfight by the F-14A, but beware of powerful AIM-7Fs, and in the case of the EJ Kai, AIM-9Ls. 
+* '''MiG-23ML/MLA/MLD:''' These MiG-23s boast good R-24s which can compete with the AIM-7F, as well as dangerous R-24Ts which can lock on to the F-14’s hot heat signature and stealthily destroy it. Good situational awareness is key to defeating these missiles. In a dogfight, MiG-23s have a very good rate speed which can keep up with the F-14. However, their instantaneous turn rate is poor, so a one circle or scissors can be used with the F-14A to easily gain an advantage over MiG-23s.
+* '''F-5E:''' F-5s have a surprisingly excellent turn rate that can rival even the F-14A. However, it has slow acceleration, it’s guns are mediocre and it has very limited missiles. Therefore, the vertical can be used on the F-5 to stall them out and gain the advantage. 
 
 '''Simulator Battles - Enduring Confrontation'''
 
@@ -297,9 +285,9 @@ There are also two options for radar-guided missiles. The AIM-7F works very well
 
 A few loadout recommendations:
 
-- 4x AIM-9H + 4x AIM-7F - Works very well in almost any scenario, and does not affect the flight performance that much.
-- 4x AIM-9H + 4x AIM-54A or 2x AIM-9H + 6x AIM-54A - Makes the plane turn a lot worse, in most cases will not work against fighters which know how to deal with radar-guided missiles, this loadout is useful mainly against planes that attack the bombing bases or airfields only, so for example Su-7s loaded with bombs etc. (farmers). It is not recommended to use it in normal EC battles.
-- 4x AIM-9H + 2x AIM-54A + 2x AIM-7F
+* 4x AIM-9H + 4x AIM-7F - Works very well in almost any scenario, and does not affect the flight performance that much.
+* 4x AIM-9H + 4x AIM-54A or 2x AIM-9H + 6x AIM-54A - Makes the plane turn a lot worse, in most cases will not work against fighters which know how to deal with radar-guided missiles, this loadout is useful mainly against planes that attack the bombing bases or airfields only, so for example Su-7s loaded with bombs etc. (farmers). It is not recommended to use it in normal EC battles.
+* 4x AIM-9H + 2x AIM-54A + 2x AIM-7F
 
 To make full use of the F-14A's manoeuvrability it is best to buy the expert crew and the ace crew if it is possible, since the plane pulls around 8G at 750 km/h IAS in a sustained turn and that increases even further when the player decided to pull it even more, though you need to keep in mind that the G limit is ~11G.
 
@@ -316,37 +304,34 @@ The last thing is using the combat flaps, but overusing them and doing it in the
 '''Basic mistakes''' - Ignoring the IFF and teamkilling are the biggest mistakes happening in SB, it is always important to check if the target is a friendly plane or not (one line - unknown/enemy, two lines - friendly). Also, launching the AIM-54 into a direction with a few friendly planes can end really badly, just like launching any kind of missile into furballs. Ignoring the IFF readouts will lead to being kicked from the session and the team performing worse because they will also need to worry about dodging friendly missiles.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Very effective dogfighter at any speed with its variable wing sweep which gives it great energy retention
-- Variable swept wings can help plane accelerate fast when swept back and turn better when the wing is less swept
-- High top speed (can cap out at 1500 km/h IAS at sea level)
-- Lethal M61 Vulcan cannon which has an extremely fast fire rate, great velocity, and great damage
-- Can carry up to 8 missiles maximum, with options of AIM-7s, AIM-9s, and [[AIM-54A Phoenix|AIM-54]]<nowiki/>s for versatile use
-- The AIM-54 has insane range (100 km max), its rocket booster lasts for a very long time, and it's an Active Radar Homing missile (at closer ranges can automatically guide itself towards enemies using its own radar)
-- Multi-mode radar makes it effective in any situation (the TWS mode allows launching AIM-54s at multiple aircraft at once and provides amazing situational awareness)
-- The new [[AIM-9H Sidewinder|AIM-9H]] has much better flare resistance than previous AIM-9s (such as the [[AIM-9G Sidewinder|G]] or [[AIM-9J Sidewinder|J]] variants)
+* Very effective dogfighter at any speed with its variable wing sweep which gives it great energy retention
+* Variable swept wings can help plane accelerate fast when swept back and turn better when the wing is less swept
+* High top speed (can cap out at 1500 km/h IAS at sea level)
+* Lethal M61 Vulcan cannon which has an extremely fast fire rate, great velocity, and great damage
+* Can carry up to 8 missiles maximum, with options of AIM-7s, AIM-9s, and [[AIM-54A Phoenix|AIM-54]]<nowiki/>s for versatile use
+* The AIM-54 has insane range (100 km max), its rocket booster lasts for a very long time, and it's an Active Radar Homing missile (at closer ranges can automatically guide itself towards enemies using its own radar)
+* Multi-mode radar makes it effective in any situation (the TWS mode allows launching AIM-54s at multiple aircraft at once and provides amazing situational awareness)
+* The new [[AIM-9H Sidewinder|AIM-9H]] has much better flare resistance than previous AIM-9s (such as the [[AIM-9G Sidewinder|G]] or [[AIM-9J Sidewinder|J]] variants)
 
 '''Cons:'''
 
-- Big plane and thus an easy target to hit
-- The afterburner's fuel consumption is otherworldly fast; constant usage of it requires carrying a lot of fuel that can hamper the plane's performance and manoeuvrability
-- Massive wing and fuselage fuel tanks make it especially prone to catching fire
-- Cannot pull sustained Gs when above 1,000 km/h IAS (11-13 G) in RB or the wings will rip
-- At high throttle and afterburner, the engine emits an unparalleled amount of heat, requiring throttling down (and therefore significantly bleeding speed) to reliably flare missiles off
-- 60 countermeasures may be a bit lacking considering the extremely high engine temperature
-- The AIM-54A only has 16G overload and thus is rather easy to dodge
-- The AIM-54A's rocket motor lasts for a very long time, giving plenty of time for enemies to spot and evade it
-- Requires lots of work and control binds related to the radar and variable wing sweep angle to make the most of the aircraft
-- The Damping SAS mode limits the AoA so much that it cannot be used in one-circle fights (scissors etc.) thus forcing the player to use the much harder to use the Manual SAS mode (SB with full-real controls)
+* Big plane and thus an easy target to hit
+* The afterburner's fuel consumption is otherworldly fast; constant usage of it requires carrying a lot of fuel that can hamper the plane's performance and manoeuvrability
+* Massive wing and fuselage fuel tanks make it especially prone to catching fire
+* Cannot pull sustained Gs when above 1,000 km/h IAS (11-13 G) in RB or the wings will rip
+* At high throttle and afterburner, the engine emits an unparalleled amount of heat, requiring throttling down (and therefore significantly bleeding speed) to reliably flare missiles off
+* 60 countermeasures may be a bit lacking considering the extremely high engine temperature
+* The AIM-54A only has 16G overload and thus is rather easy to dodge
+* The AIM-54A's rocket motor lasts for a very long time, giving plenty of time for enemies to spot and evade it
+* Requires lots of work and control binds related to the radar and variable wing sweep angle to make the most of the aircraft
+* The Damping SAS mode limits the AoA so much that it cannot be used in one-circle fights (scissors etc.) thus forcing the player to use the much harder to use the Manual SAS mode (SB with full-real controls)
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 === Early Development ===
 In 1967, the U.S. Navy wanted a long-range fleet defence fighter to boost their naval plane capabilities with the "VFX" program. The USN first started with a redesigned F-111 Aardvark named the F-111B (basically an F-111 designed around the TF30 engine and AIM-54 Phoenix missiles), they soon found out that the F-111 was too big for practical reasons so the F-111B plan never came to fruition. Fast forward to 1969, the USN gave the contract to Grumman to build the new fleet defence fighter named the F-14 Tomcat, its first variants were built around the TF30 engines found on the F-111B and to use the AN/AWG-9 radar set and the airframe was specifically built to carry the AIM-54 Phoenix missile.
 
@@ -354,12 +339,11 @@ In 1967, the U.S. Navy wanted a long-range fleet defence fighter to boost their 
 In 1968, five aircraft building companies entered the Pentagon's competition for a new carrier-based interceptor fighter. The commission's preference was given to Grumman's design, a twin-engine jet fighter with a variable-swept wing. Work on the F-14A fighter began in February 1969, and in December of the next year, the new aircraft took her maiden flight. The main weapon of the F-14A was the AIM-54 Phoenix long-range missiles controlled by the newest to date weapon control system. Instead of building prototypes, Grumman immediately switched to the production of an experimental series, and already on December 31, 1972, the first batch of jet fighters were put into service with the VF-124 Fleet Replacement Squadron . Pilot training took place on the deck of the USS Enterprise aircraft carrier, and during the withdrawal of US troops from Vietnam, combat sorties were also made from the deck. In total 557 F-14A fighters were delivered to the US Navy until 1987, and another 80 aircraft were built for Iran. Tomcats were used in all military conflicts where US aircraft took part until the very decommissioning. Iranian F-14s took an active part in the Iran-Iraq war, scoring dozens of air kills.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=f_14a_early Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f_14a_early Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="150">
@@ -376,24 +360,22 @@ File:F-14A Early Wallpaper 7.jpg|
 {{Youtube-gallery|Wdnef_6_6oM|'''The Shooting Range #307''' - ''Metal Beasts'' section at 00:26 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other jet planes with variable sweep wings
 
-- [[MiG-23 (Family)]]
-- [[Su-17/22 (Family)]]
+* [[MiG-23 (Family)]]
+* [[Su-17/22 (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/7705-development-f-14a-tomcat-into-the-danger-zone-en|[Devblog] F-14A Tomcat: Into the Danger Zone!]]
-- [https://forum.warthunder.com/index.php?/topic/557191-f-14a-early/ Official data sheet - more details about the performance]
+* [[wt:en/news/7705-development-f-14a-tomcat-into-the-danger-zone-en|[Devblog] F-14A Tomcat: Into the Danger Zone!]]
+* [https://forum.warthunder.com/index.php?/topic/557191-f-14a-early/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Grumman}}
 {{USA jet aircraft}}

@@ -13,9 +13,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} American strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.79 "Project X"]].
 
 In the early 1950s, the US Navy realized during the Korean War that their straight-wing fighters were vastly inferior to the swept-wing [[MiG-15 (Family)|MiG-15s]] they flew against. Though the F7U and F9F fighters were under development, they were not ready for deployment requiring the Navy to look elsewhere for a usable swept-wing fighter. They looked to the Air Force's [[F-86 (Family)|F-86]] Sabre as a stop-gap measure. Modifications were needed to make it aircraft carrier ready to include a stronger nose-wheel strut, all-moving flying tail without dihedral, outer wing panels folded upward and the windscreen was modified to aid the pilot's visibility on approach for landing on the carrier. This version of the aircraft was designated as the FJ-2 Fury (completely different aircraft from the original North American FJ-1). Even with modifications, the aircraft was unfit for carrier duty and was passed onto the US Marines for land-based duty.
@@ -29,9 +27,7 @@ The {{PAGENAME}} found in War Thunder is a solid multi-role aircraft which can f
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The FJ-4B's flight performance is a bit sluggish. Due to the weight of the airframe, it has poor acceleration compared to other aircraft at 9.0. The FJ-4B is not a very fast aircraft, at most you will see 880 km/h at sea level. It is not recommended to climb vertically in this aircraft, what is recommended is to build up speed at sea level then zoom climb up to your desired altitude.
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -59,7 +55,7 @@ The FJ-4B's flight performance is a bit sluggish. Due to the weight of the airfr
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || ✓ || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || X     <!-- ✓ -->
 |-
 |}
 
@@ -125,11 +121,10 @@ The FJ-4B's flight performance is a bit sluggish. Due to the weight of the airfr
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 60 mm Bulletproof glass in front of the pilot.
-- 12.7 mm Steel plate behind the pilot.
+* 60 mm Bulletproof glass in front of the pilot.
+* 12.7 mm Steel plate behind the pilot.
 
 The {{PAGENAME}} fighter has minimal armour to save weight, which allowed for more fuel tanks to be installed. The armour on the aircraft is limited to a 12.7 mm steel plate behind the pilot's seat and a 60 mm bulletproof glass in the windscreen of the aircraft. This armour protection at best will help the pilot survive a pilot snipe, however, it will not do anything to protect the fuel tanks and jet engine which are all vulnerable to gun, rocket and missile fire.
 
@@ -140,14 +135,12 @@ The {{PAGENAME}} fighter has minimal armour to save weight, which allowed for mo
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Browning-Colt Mk12 Mod 3 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 20 mm Browning-Colt Mk12 Mod 3 cannons, nose-mounted (144 rpg = 576 total)
+* 4 x 20 mm Browning-Colt Mk12 Mod 3 cannons, nose-mounted (144 rpg = 576 total)
 
 Like many of the contemporary fighters of the time, the {{PAGENAME}} was considered a ''gunslinger'' fighter. Fighter aircraft were flying much faster than aircraft a few years earlier and needed to have more manoeuvrability than ever before, one way to do this was to remove the guns from the wings and mount them in the fuselage. For the F4-J, wing-mounted guns would not work due to the fuel tanks already outfitted there. All four 20 mm Browning-Colt Mk12 cannons were mounted in the nose of the aircraft around the air intake for the engine. The benefits for mounting them here are huge, not only does it keep the centre of gravity tight, but it also relieves the pilot of having to set any convergence for them.
 
@@ -155,30 +148,27 @@ For the pilot in the heat of battle, the less they have to remember and do allow
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
 {{main|AIM-9B Sidewinder|FFAR Mighty Mouse}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x AIM-9B Sidewinder missiles
-- 6 x 250 lb LDGP Mk 81 bombs (1,500 lb total)
-- 6 x 500 lb LDGP Mk 82 bombs (3,000 lb total)
-- 2 x 1,000 lb LDGP Mk 83 bombs (2,000 lb total)
-- 2 x 1,000 lb LDGP Mk 83 bombs + 4 x 500 lb LDGP Mk 82 bombs (4,000 lb total)
-- 2 x 2,000 lb LDGP Mk 84 bombs (4,000 lb total)
-- 114 x FFAR Mighty Mouse rockets
-- 4 x AIM-9B Sidewinder missiles
-- 2 x AIM-9B Sidewinder missiles + 76 x FFAR Mighty Mouse rockets
-- 2 x AIM-9B Sidewinder missiles + 4 x 250 lb LDGP Mk 81 bombs (1,000 lb total)
-- 2 x AIM-9B Sidewinder missiles + 4 x 500 lb LDGP Mk 82 bombs (2,000 lb total)
-- 2 x AIM-9B Sidewinder missiles + 2 x 1,000 lb LDGP Mk 83 bombs + 2 x 500 lb LDGP Mk 82 bombs (3,000 lb total)
+* Without load
+* 2 x AIM-9B Sidewinder missiles
+* 6 x 250 lb LDGP Mk 81 bombs (1,500 lb total)
+* 6 x 500 lb LDGP Mk 82 bombs (3,000 lb total)
+* 2 x 1,000 lb LDGP Mk 83 bombs (2,000 lb total)
+* 2 x 1,000 lb LDGP Mk 83 bombs + 4 x 500 lb LDGP Mk 82 bombs (4,000 lb total)
+* 2 x 2,000 lb LDGP Mk 84 bombs (4,000 lb total)
+* 114 x FFAR Mighty Mouse rockets
+* 4 x AIM-9B Sidewinder missiles
+* 2 x AIM-9B Sidewinder missiles + 76 x FFAR Mighty Mouse rockets
+* 2 x AIM-9B Sidewinder missiles + 4 x 250 lb LDGP Mk 81 bombs (1,000 lb total)
+* 2 x AIM-9B Sidewinder missiles + 4 x 500 lb LDGP Mk 82 bombs (2,000 lb total)
+* 2 x AIM-9B Sidewinder missiles + 2 x 1,000 lb LDGP Mk 83 bombs + 2 x 500 lb LDGP Mk 82 bombs (3,000 lb total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 In battle, you are a support aircraft or a ground attack aircraft. When being a support aircraft, your job is to bait the enemy into getting low and slow, which makes it easier for your allies to come and clean up the enemy. Since you don't retain energy very well and you have poor acceleration, try to always manoeuvre with the enemy and if possible, shoot down enemy aircraft. When using it as a ground attack aircraft you have many options. The recommended loadout is either is 114 FFAR Mighty Mouse Rockets, or the 76 FFAR Mighty Mouse Rockets and two AIM-9B sidewinders. It is recommended that you attack primary ground targets like pillboxes and artillery positions. It is not recommended to carry bombs on this aircraft as you do not have the bomb load to take out an enemy base. Try to fly as low as possible to avoid being detected by the enemy. If attacked by enemy aircraft, turn into your opponent as this will not give them a firing solution. In Ground RB, you are one of the most heavily armed ground attackers for its tier, although in this game mode enemy tanks will require more than one rocket in order to be knocked out.
@@ -202,9 +192,7 @@ For direct air-to-air combat, the {{PAGENAME}} has the option to outfit the cove
 In regards to some maps, it is not always clear what the targets will be or if the match will end up fighter or bomber heavy. For this, there are several suspended armament load-outs which will cater to both bombing and aerial attack to include rockets/missiles, bombs/missiles and lots of bombs and missiles. Since the 20 mm autocannons are part of the offensive armament package, all loadout versions will include these weapons.
 
 ===Radars===
-
 <!--{{main|AN/APG-30}}-->
-
 The FJ-4B is equipped with an AN/APG-30 rangefinding radar, located in the nose of the aircraft.
 It will automatically detect other planes within the scanning area and display the range to the closest target. It is linked with a gyro gunsight and can help with aiming at close range.
 
@@ -221,29 +209,26 @@ It will automatically detect other planes within the scanning area and display t
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Equipped with a tailhook, allowing for carrier landings if necessary
-- High top speed (can reach up to 1,100 km/h)
-- Effective air brakes
-- Capable of carrying a vast array of ordnance including 2 x 2,000 lb bombs and up to 114 Mighty Mouse unguided rockets
-- Can equip 4 AIM-9B air-to-air missiles
+* Equipped with a tailhook, allowing for carrier landings if necessary
+* High top speed (can reach up to 1,100 km/h)
+* Effective air brakes
+* Capable of carrying a vast array of ordnance including 2 x 2,000 lb bombs and up to 114 Mighty Mouse unguided rockets
+* Can equip 4 AIM-9B  air-to-air missiles
 
 '''Cons:'''
 
-- Hydra rockets relatively ineffective in high-rank battles except on soft targets
-- Low acceleration, easily run-down by competing aircraft
-- Below-average manoeuvrability
-- Quite sluggish, especially when carrying ordnance
-- Guns suffer from very bad dispersion when not upgraded
+* Hydra rockets relatively ineffective in high-rank battles except on soft targets
+* Low acceleration, easily run-down by competing aircraft 
+* Below-average manoeuvrability 
+* Quite sluggish, especially when carrying ordnance
+* Guns suffer from very bad dispersion when not upgraded
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The FJ-4 was the fourth modification of the Fury - the naval version of the F-86 Sabre, serving primarily with the USMC. Being initially conceived as an all-weather interceptor, the FJ-4 Fury had to incorporate several design changes compared to the previous fighter version in order to fulfill this new role. The most notable change was the increase in range and the installation of new, thinner wings with an increased surface area. To achieve the range increase, the aircraft underwent several structural changes which reduced its weight and allowed for additional fuel tanks to be installed. Additionally, a more powerful Wright J65-W-16A engine, producing 7,700 lbf of thrust, was installed on the production versions. Following successful test flights, production of the FJ-4 commenced in 1955 with first units entering service with the Navy in 1956. Over 150 FJ-4 Fury interceptors were built.
 
 Wishing to increase the strike capabilities of the new FJ-4, engineers of the North American company went back to the drawing board and once more applied several changes to the design, creating the FJ-4B. The FJ-4B version most notably featured a strengthened wing, offering an increased payload by adding two additional hardpoints to each wing, bringing the total up from two to six. Furthermore, the aircraft received air brakes under the aft of the fuselage, making dive bombing and landing easier. Of the original order for 221 FJ-4 Fury interceptors, the last 71 were modified into the FJ-4B fighter-bomber version. An additional order for 151 FJ-4B Furies followed in April 1956, bringing the total of produced FJ-4Bs up to 222. Both the interceptor and fighter-bomber version of the FJ-4 served with the Navy and USMC until the early 1960s, before being phased out of active service and moved to the Naval Air Reserve. The FJ-4 was the last modification of the Fury and among the last mass-produced variants of the Sabre lineage.
@@ -251,12 +236,10 @@ Wishing to increase the strike capabilities of the new FJ-4, engineers of the No
 ''- From [[wt:en/news/5555-development-fj-4b-fury-last-of-its-kind-en|Devblog]]''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=fj_4b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=fj_4b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover" heights="200">
@@ -265,37 +248,35 @@ File:GarageImage FJ-4B VMF-232.jpg|Event FJ-4B sporting the camouflage of the VM
 </gallery>
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
 
-- Canadair [[F-86 (Family)|Sabre]] (those Sabres manufactured with the designator "CL")
-- North American [[F-86 (Family)|F-86A/F]]
-- North American [[F-86K (France)|F-86D]] Sabre
-- North American [[F-100D|F-100]] Super Sabre
-- North American [[FJ-4B|FJ-4]] Fury
+* Canadair [[F-86 (Family)|Sabre]] (those Sabres manufactured with the designator "CL")
+* North American [[F-86 (Family)|F-86A/F]]
+* North American [[F-86K (France)|F-86D]] Sabre
+* North American [[F-100D|F-100]] Super Sabre
+* North American [[FJ-4B|FJ-4]] Fury
 
 ;Aircraft of comparable role, configuration and era
 
-- Dassault [[Super Mystere B2|Super Mystère]]
-- Grumman [[F9F-8|F-9]] Cougar
-- Hawker [[Hunter F.1|Hunter]]
-- Lavochkin [[La-15]]
-- Mikoyan-Gurevich [[MiG-15]]
-- Mikoyan-Gurevich [[MiG-17]]
-- Saab [[J29D|J29]] Tunnan
+* Dassault [[Super Mystere B2|Super Mystère]]
+* Grumman [[F9F-8|F-9]] Cougar
+* Hawker [[Hunter F.1|Hunter]]
+* Lavochkin [[La-15]]
+* Mikoyan-Gurevich [[MiG-15]]
+* Mikoyan-Gurevich [[MiG-17]]
+* Saab [[J29D|J29]] Tunnan
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/5555-development-fj-4b-fury-last-of-its-kind-en|[Devblog] FJ-4B Fury: Last of its Kind]]
-- [https://forum.warthunder.com/index.php?/topic/414735-fj-4b-fury/ Official data sheet - more details about the performance]
+* [[wt:en/news/5555-development-fj-4b-fury-last-of-its-kind-en|[Devblog] FJ-4B Fury: Last of its Kind]]
+* [https://forum.warthunder.com/index.php?/topic/414735-fj-4b-fury/ Official data sheet - more details about the performance]
 
 {{AirManufacturer NAA}}
 {{USA jet aircraft}}

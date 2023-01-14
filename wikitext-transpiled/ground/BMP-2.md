@@ -5,23 +5,18 @@
 }}
 {{Specs-Card
 |code=ussr_bmp_2
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rating}}. It was introduced in [[Update 1.81 "The Valkyries"]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
-
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
 
@@ -38,11 +33,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rat
 |}
 '''Notes:'''
 
-- 6 mm side skirts added with BMP-2D
-- 6 mm armour layer added to the turret side
-- 6 mm armour added to hull top sides
-- The amphibious ability is lost after the armour modifications are installed
-- Tracks and wheels are 10 mm thick
+* 6 mm side skirts added with BMP-2D
+* 6 mm armour layer added to the turret side
+* 6 mm armour added to hull top sides
+* The amphibious ability is lost after the armour modifications are installed
+* Tracks and wheels are 10 mm thick
 
 '''BMP-2:'''
 
@@ -54,7 +49,6 @@ The BMP-2 has optional add-on armour which improves its resistance to heavy mach
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=465|rbMinHp=265|AoAweight=0.8}}
@@ -70,9 +64,7 @@ The {{PAGENAME}} can swim at 7 km/h.
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|2A42 (30 mm)}}
 
 The Shipunov 2A42 30 mm autocannon is a very versatile weapon - it is possible to change its fire rate based on the situation and it has vertical guidance of +74 degrees, which makes it effective not only against tanks but for planes and helicopters as well.
@@ -81,7 +73,7 @@ The main concern with this powerful main weapon is the ammo capacity. The gun ha
 
 Its reload rate for the belts is quite fast at 1.15 seconds and it gets a choice of HEF-T, AP-T, and HVAP in belts. Every belt is universal and has at least 1 AP and 1 HE in them, HE belt carrying 2 of HEF-T for 1 AP-T per cycle.
 
-The HVAP belts have enough penetration to obliterate lighter tanks such as [[Leopard A1A1|Leopard A1A1s]], [[AMX-30B2 BRENUS]] and [[Warrior]] frontally, however, when engaging other larger targets it's only possible to completely defeat them from the side, though you can still cripple enemy tanks frontally by shooting cannon barrels and tracks.
+The HVAP belts have enough penetration to obliterate lighter tanks such as [[Leopard A1A1|Leopard A1A1s]], [[AMX-30B2 BRENUS]]  and [[Warrior]] frontally, however, when engaging other larger targets it's only possible to completely defeat them from the side, though you can still cripple enemy tanks frontally by shooting cannon barrels and tracks.
 
 The main difference of the HVAP compared to the APDS of other autocannon-equipped vehicles is that it is '''very''' bad against angled tanks and when attacking tanks on high ground (Refer to the table, to see how bad it can get). Because of that, targets usually easily dealt with such as the [[Striker]] may deflect fire from your main gun when heavily angled. When facing something the main gun cannot deal with, you'll need to use the secondary weapon:
 
@@ -102,11 +94,10 @@ The main difference of the HVAP compared to the APDS of other autocannon-equippe
 |}
 
 ==== Ammunition ====
-
-- '''Default:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}
-- '''30 mm HE:''' {{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}{{-}}{{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}
-- '''30 mm APT:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}
-- '''30 mm APDS:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}
+* '''Default:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}
+* '''30 mm HE:''' {{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}{{-}}{{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}
+* '''30 mm APT:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}
+* '''30 mm APDS:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="7" | Penetration statistics
@@ -128,9 +119,7 @@ The main difference of the HVAP compared to the APDS of other autocannon-equippe
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x350px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -143,9 +132,7 @@ The main difference of the HVAP compared to the APDS of other autocannon-equippe
 
 === Additional armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Some tanks are armed with several guns in one or more turrets. Evaluate the additional weaponry and give advice on its use. Describe the ammunition available for additional weaponry. Give advice on about how to use them and how to fill the ammunition storage. If there is no additional weaponry remove this subsection.'' -->
-
 {{main|9M113 Konkurs}}
 
 BMP-2 also has an ATGM launcher. Its guidance system is semi-automatic, so it's easier to use in RB. It is a default modification on the vehicle, unlike the BMP-1, so doesn't need to be researched.
@@ -202,9 +189,7 @@ The ATGM is able to penetrate most tanks BMP-2 will face at its BR and often abo
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x350px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -220,9 +205,7 @@ The ATGM is able to penetrate most tanks BMP-2 will face at its BR and often abo
 
 === Machine guns ===
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|PKT (7.62 mm)}}
 
 7.62 mm PKT is only useful for destroying light obstacles to avoid losing momentum. Alternatively, it can be used to mark the enemy in Realistic battle. Using it for anything else is pointless, as your 30mm is far more effective otherwise, and the 7.62mm won't cause damage to anything but early aircraft or open-top vehicles with exposed crew.
@@ -238,9 +221,7 @@ The ATGM is able to penetrate most tanks BMP-2 will face at its BR and often abo
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 '''The BMP-2 is best played as a light support vehicle''', avoiding being a primary target in the front of the battle.
 
 Where possible, scout opposing vehicles for teammates while staying near heavier friendly vehicles, helping repair and support them as necessary. By staying mostly in cover and near more threatening targets, you'll avoid being a target yourself. The BMP isn't particularly fast for a light tank, but if you can move into a position that enemy tanks will be passing, you'll be able to make quick work of them with the 30 mm gun.
@@ -270,30 +251,27 @@ The BMP-2 is not only capable of fiercely defending itself but is also '''capabl
 A single BMP-2 can find a suitable covered position on a hill or a ditch deep enough (like on the [[Kursk (Ground Forces)|Kursk]] map) and proceed to scout any enemy in the binoculars sight. It doesn't matter if the BMP does not have a gun solution, the purpose is to relay the enemy's position to the team while remaining in secret. This not only helps the teammates on anticipating any threats, but once the airstrike modification has been researched, it also enables the player to jump into any suited aircraft and continue supporting the team.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Can easily destroy other light vehicles with both its main gun and its ATGM launcher
-- At times is surprisingly survivable, the vehicle's internals are largely non-critical components
-- Can ford rivers/canals to get to locations that are normally difficult or sometimes impossible to reach
-- Somewhat effective as an AA with fast-firing 30 mm
-- ATGMs will comfortably destroy almost any vehicle with a well placed missile
-- 30 mm HVAP can quickly disable tracks/gun barrel on any target
+* Can easily destroy other light vehicles with both its main gun and its ATGM launcher
+* At times is surprisingly survivable, the vehicle's internals are largely non-critical components
+* Can ford rivers/canals to get to locations that are normally difficult or sometimes impossible to reach
+* Somewhat effective as an AA with fast-firing 30 mm
+* ATGMs will comfortably destroy almost any vehicle with a well placed missile
+* 30 mm HVAP can quickly disable tracks/gun barrel on any target
 
 '''Cons:'''
 
-- The 30 mm HVAP is not as powerful as APDS on other AFVs and has extremely bad angled performance
-- Small maximum ammo load, can only take a single APDS belt, exactly 160 shells (Changing to low rate of fire is recommended)
-- Vulnerable to HMGs and light cannons at close ranges, particularly without add-on armour
-- Vulnerable to overpressure (HE shells, bombs, rockets, ATGMs and artillery strikes).
-- Konkurs ATGM is highly ineffective against vehicles with ERA like the [[Sho't Kal Dalet (Great Britain)]] or the [[M60A1 RISE (P)]]
+* The 30 mm HVAP is not as powerful as APDS on other AFVs and has extremely bad angled performance
+* Small maximum ammo load, can only take a single APDS belt, exactly 160 shells (Changing to low rate of fire is recommended)
+* Vulnerable to HMGs and light cannons at close ranges, particularly without add-on armour
+* Vulnerable to overpressure (HE shells, bombs, rockets, ATGMs and artillery strikes).
+* Konkurs ATGM is highly ineffective against vehicles with ERA like the [[Sho't Kal Dalet (Great Britain)]] or the [[M60A1 RISE (P)]]
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 '''Development'''
 
 After the Yom Kippur War, it became clear that the armament of the BMP-1 was proven to be insufficient, as well as the protection. Egyptian and Syrian BMP-1's had been knocked out by 12.7 mm (.50 in) machine gun fire through the sides and rear. The BMP-1P was developed in order solve some of the problems with the BMP-1, but a new model was needed. Work began on creating an improved version of the BMP-1, called the BMP-2.
@@ -315,38 +293,34 @@ The BMP-2D was an upgrade package that could be installed on a regular BMP-2. It
 The arrival of the BMP-1 infantry combat vehicle in the Soviet Army greatly increased the firepower and mobility of infantry formations on the battlefield. However, there were also significant shortcomings, mainly in the armament department. The 73 mm Grom gun, which was installed on the BMP-1 wasn't particularly efficient against infantry units, tanks and low flying air targets. In addition to this, the flight of the trajectory became impossible to predict if even a small crosswind was present. To account for these issues, a decision was made to create a new vehicle based on the BMP-1 with the automatic rifled gun. Among the several projects carried out, the vehicle designed by Kurganmashzavod engineers was acknowledged to be superior to the rest. The BMP-2, which was put into service in 1977, had a similar design to the BMP-1 in terms of the layout and general configuration. However, the turret underwent significant changes. It now had space for two crew members – the gunner and the commander, and the automatic 30 mm 2A42 gun became its primary armament. Just like its predecessor, the BMP-2 was fitted with a launcher capable of firing either the Konkurs or Fagot anti-tank guided missiles, which the vehicle could deploy when engaging tank units. The vehicle was regarded as fairly successful, and over the years of its service, the BMP-2 underwent a series of modernizations and modifications directed at improving the vehicle's defences and increasing its destructive capability. The BMP-2 remains in service till now and is in great demand abroad.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_bmp_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
-
-;Videos
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_bmp_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|25_5geR39Zw|'''BMP Family''' discusses the {{PAGENAME}} at 04:14 - ''War Thunder Official Channel''|SJoW-2_6J6o|'''Amphibious tanks''' discusses the {{PAGENAME}} at 5:15 - ''War Thunder Official Channel''|2h5kFyznXKU|'''Best IFVs''' discusses the {{PAGENAME}} at 3:00 - ''War Thunder Official Channel''}}
+
+;Videos
+{{Youtube-gallery|25_5geR39Zw|'''BMP Family''' discusses the {{PAGENAME}} at 04:14 - ''War Thunder Official Channel''|SJoW-2_6J6o|'''Amphibious tanks'''  discusses the {{PAGENAME}} at 5:15  - ''War Thunder Official Channel''|2h5kFyznXKU|'''Best IFVs''' discusses the {{PAGENAME}} at 3:00 - ''War Thunder Official Channel''}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/5750-development-bmp-2-experienced-support-en|[Devblog] BMP-2: Experienced Support]]
+* [[wt:en/news/5750-development-bmp-2-experienced-support-en|[Devblog] BMP-2: Experienced Support]]
 
 === References ===
 
 ;Bibliography
-
-- David B. (2016, December 12). BMP-2. Tank Encyclopedia. https://tanks-encyclopedia.com/coldwar/USSR/BMP-2.php
-- BMP-2. (2020, April 27). In ''Wikipedia''. https://en.wikipedia.org/w/index.php?title=BMP-2&oldid=953499108
+* David B. (2016, December 12). BMP-2. Tank Encyclopedia. https://tanks-encyclopedia.com/coldwar/USSR/BMP-2.php
+* BMP-2. (2020, April 27). In ''Wikipedia''. https://en.wikipedia.org/w/index.php?title=BMP-2&oldid=953499108
 
 {{USSR light tanks}}
 [[Category:ATGM vehicles]]

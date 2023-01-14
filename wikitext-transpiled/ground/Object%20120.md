@@ -5,21 +5,17 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet tank destroyer {{Battle-rating}}. It was introduced late in [[Update 1.71 "New E.R.A."]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
-- Rolled homogeneous armour (hull, turret bustle)
-- Cast homogeneous armour (turret front, gun mantlet)
+* Rolled homogeneous armour (hull, turret bustle)
+* Cast homogeneous armour (turret front, gun mantlet)
 
 {| class="wikitable"
 |-
@@ -33,14 +29,13 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet tank destr
 |}
 '''Notes:'''
 
-- Suspension wheels are 20 mm thick while tracks are 15 mm thick.
-- Belly armour is 10 mm thick.
-- Barrel ring around the gun is 100 mm thick.
-- Structural steel boxes on hull sides provide 4 mm of protection.
+* Suspension wheels are 20 mm thick while tracks are 15 mm thick.
+* Belly armour is 10 mm thick.
+* Barrel ring around the gun is 100 mm thick.
+* Structural steel boxes on hull sides provide 4 mm of protection.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=682|rbMinHp=425}}
@@ -52,9 +47,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet tank destr
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|M-69 (152 mm)}}
 
 The Object 120 performs best in all game modes as a sniper/support. This means finding a good spot overlooking the battle with some cover, and taking out enemies from long range. The Object 120's long 152 mm gun and its powerful shells are well suited for this purpose.
@@ -120,9 +113,7 @@ The Object 120 is armed with three types of shells. The first is an APFSDS round
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.7.0.122''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -137,13 +128,12 @@ The Object 120 is armed with three types of shells. The first is an APFSDS round
 |}
 '''Notes''':
 
-- The {{PAGENAME}} uses two-piece ammunition, composed of projectiles (yellow) and propellant bags (orange). Both have separate racks.
-- The visual discrepancy concerns the projectile rack: only 16 shells are modeled but it contains 22 shells.
-- Shells are modeled individually and disappear after having been shot or loaded.
-- It's best to carry the maximum number of rounds, since you will quickly be out of munition otherwise.
+* The {{PAGENAME}} uses two-piece ammunition, composed of projectiles (yellow) and propellant bags (orange). Both have separate racks.
+* The visual discrepancy concerns the projectile rack: only 16 shells are modeled but it contains 22 shells.
+* Shells are modeled individually and disappear after having been shot or loaded.
+* It's best to carry the maximum number of rounds, since you will quickly be out of munition otherwise.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The Object 120 is armed with a 152 mm M-69 and an autoloader with a 10-second reload time. It is capable of penetrating any tank thanks to its APFSDS it has access to very early at this BR. This tank shines in long range combat, where other tanks might need some time, trial and error to land a good shot. The Object 120 can be described as "point and shoot".
@@ -166,41 +156,37 @@ Aim for ammunition racks and the enemy crew positions as your APFSDS does not ha
 
 '''Enemies worth noting:'''
 
-- [[Maus]] and [[E-100]]: Both these tanks are heavily-armoured and carry a very thick armour against kinetic projectiles. When angled, they are capable of withstanding your APFSDS and even your HEATFS rounds, going up against multiple of them at once can be very challenging when in their proximity. When these tanks are spotted and not angled, it's best to instantly shoot at the right side of the turret and take down the gunner, to ensure it can't shoot back, or by any chance make ammunition explode the tank. As a second shot, shoot at the middle of the frontal angled hull to take care of its driver so it can't escape. Most of the time, this will result in the tank being eliminated because of crew depletion. If not, shoot your third shot again at the right side of the turret to take care of the ammunition or the replaced gunner/loader. When it is angling, do not attempt to shoot at it, it can simply ricochet or shatter your shell. Instead, shoot at its guns to take them down, they are perfectly aligned next to each other so you can take care of both guns when the turret is angled. Follow up with a shot to the tracks to ensure it can't run away or angle. And lastly get into a position to shoot at its sides or front and easily take care of the tank that is now both immobile and unarmed. Never shoot at its gun mantlet, the shell will never penetrate it nor take care of the gun breech.
+* [[Maus]] and [[E-100]]: Both these tanks are heavily-armoured and carry a very thick armour against kinetic projectiles. When angled, they are capable of withstanding your APFSDS and even your HEATFS rounds, going up against multiple of them at once can be very challenging when in their proximity. When these tanks are spotted and not angled, it's best to instantly shoot at the right side of the turret and take down the gunner, to ensure it can't shoot back, or by any chance make ammunition explode the tank. As a second shot, shoot at the middle of the frontal angled hull to take care of its driver so it can't escape. Most of the time, this will result in the tank being eliminated because of crew depletion. If not, shoot your third shot again at the right side of the turret to take care of the ammunition or the replaced gunner/loader. When it is angling, do not attempt to shoot at it, it can simply ricochet or shatter your shell. Instead, shoot at its guns to take them down, they are perfectly aligned next to each other so you can take care of both guns when the turret is angled. Follow up with a shot to the tracks to ensure it can't run away or angle. And lastly get into a position to shoot at its sides or front and easily take care of the tank that is now both immobile and unarmed. Never shoot at its gun mantlet, the shell will never penetrate it nor take care of the gun breech.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Very high velocity APFSDS round means "point and shoot" at typical War Thunder combat ranges, no need to account for projectile drop at range
-- Outstanding armour penetration by HEAT-FS and APFSDS rounds
-- Very good spalling effect from the kinetic energy spread and explosive mass from HEAT-FS round
-- Good mobility for the size of gun
-- Has neutral steering
+* Very high velocity APFSDS round means "point and shoot" at typical War Thunder combat ranges, no need to account for projectile drop at range
+* Outstanding armour penetration by HEAT-FS and APFSDS rounds
+* Very good spalling effect from the kinetic energy spread and explosive mass from HEAT-FS round
+* Good mobility for the size of gun
+* Has neutral steering
 
 '''Cons:'''
 
-- Weak armour: vulnerable to anything bigger than a heavy machine gun, and even those from some angles at short range
-- Poor depression for main armament
-- Low ammunition load
-- Poor optics for a tank destroyer with only 5x zoom
-- All projectiles carried in rear of turret behind thin armour makes ammunition explosions very likely from turret hits
+* Weak armour: vulnerable to anything bigger than a heavy machine gun, and even those from some angles at short range
+* Poor depression for main armament
+* Low ammunition load
+* Poor optics for a tank destroyer with only 5x zoom
+* All projectiles carried in rear of turret behind thin armour makes ammunition explosions very likely from turret hits
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The Object 120 "Taran" was a tank destroyer developed after the USSR's conclusion that AP rounds from the T-10 and T-55 could not pierce the newest American tank the M60. The Object 120 (also noted as being the SU-152 "Taran") surpassed foreign tank destroyers with firepower and mobility at the time. The name Taran comes from its cannon which became the reason it wasn't adopted. The 125 smoothbore and anti tank missiles are the reason why the Object 120 was not put into production.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_object_120 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_object_120 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="150">
@@ -217,24 +203,22 @@ File:Object 120 WTWallpaper 07.jpg|
 {{Youtube-gallery|_xCgMBOiA8U|'''High-explosive power''' discusses the {{PAGENAME}} at 3:30 - ''War Thunder Official Channel''|xU4pGejnNyo|'''Object 120 "Taran" - What if everything sacrificed for ONE thing? [tank review]''' - ''HowToPlay1337''|FO3RK2n4IaQ|'''Premium Vehicles: {{PAGENAME}} "Taran"''' - ''War Thunder Wiki''|fdi2rVvgIYI|'''Object 120 - Tank Review''' - ''Napalmratte''|7-bdhpFsonU|'''The Shooting Range #62''' - ''Metal Beasts'' section at 00:32 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
 
-- [[SU-100P]]
-- [[ZSU-37-2]]
+* [[SU-100P]]
+* [[ZSU-37-2]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/4986-development-object-120-taran-the-hammer-of-tanks-pre-order-now-en|[Devblog] Object 120 "Taran": The Hammer of Tanks]]
-- [[wikipedia:SU-152_"Taran"|[Wikipedia] SU-152 "Taran"]]
+* [[wt:en/news/4986-development-object-120-taran-the-hammer-of-tanks-pre-order-now-en|[Devblog] Object 120 "Taran": The Hammer of Tanks]]
+* [[wikipedia:SU-152_"Taran"|[Wikipedia] SU-152 "Taran"]]
 
 {{USSR tank destroyers}}
 {{USSR premium ground vehicles}}

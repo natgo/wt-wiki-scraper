@@ -12,15 +12,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British dive bomber {{Battle-rating}}. It was introduced in [[Update 1.39]] as the Avenger Mk.I before it was renamed in [[Update 1.65 "Way of the Samurai"]]. The Avenger Mk II is a British variant of the American Grumman TBF-1 Avenger licensed to General Motors to build as a TBM-1.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -48,7 +45,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British dive bomber {{
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || X || ✓ || X || ✓ <!-- ✓ -->
+| X || X || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -79,30 +76,29 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British dive bomber {{
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
 ;Armour plates
 
-- Pilot:
-  ** 6.35 mm Steel plate in the nose.
-  ** 12.7 mm Steel plate behind the pilot.
-- Dorsal gunner:
-  ** 12.7 mm Steel plate in dorsal gunner's seat.
-  ** 12.7 mm Steel plate in front of dorsal gunner (rear-facing).
-  \*\* 40 mm Bulletproof glass in front of dorsal gunner (rear-facing).
-- Ventral gunner:
-  ** 12.7 mm Steel plate in front of ventral gunner (rear-facing).
-  ** 6.35 mm Steel plate under the ventral gunner.
+* Pilot:
+** 6.35 mm Steel plate in the nose.
+** 12.7 mm Steel plate behind the pilot.
+* Dorsal gunner:
+** 12.7 mm Steel plate in dorsal gunner's seat.
+** 12.7 mm Steel plate in front of dorsal gunner (rear-facing).
+** 40 mm Bulletproof glass in front of dorsal gunner (rear-facing).
+* Ventral gunner:
+** 12.7 mm Steel plate in front of ventral gunner (rear-facing).
+** 6.35 mm Steel plate under the ventral gunner.
 
 ;Critical components
 
-- Critical components located at the front of aircraft (engine, cooling systems)
-- One fuel tank is located under the pilot's seat
-- Two fuel tanks located at the wings' roots.
-- All three fuel tanks are self-sealing.
-- The only critical modules in the wings are the 12.7 mm MGs.
-- Traction cables of control surfaces are in the left part of the tail section.
+* Critical components located at the front of aircraft (engine, cooling systems)
+* One fuel tank is located under the pilot's seat
+* Two fuel tanks located at the wings' roots.
+* All three fuel tanks are self-sealing.
+* The only critical modules in the wings are the 12.7 mm MGs.
+* Traction cables of control surfaces are in the left part of the tail section.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -111,43 +107,36 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British dive bomber {{
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 12.7 mm M2 Browning machine guns, wing-mounted (310 rpg = 620 total)
+* 2 x 12.7 mm M2 Browning machine guns, wing-mounted (310 rpg = 620 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AN-M64A1 (500 lb)|Uncle Tom|Mk.13-6 (2,216 lb)|Mk.13-6 Case (2,216 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 4 x 500 lb AN-M64A1 bombs (2,000 lb total)
-- 1 x 2,216 lb Mk.13-6 torpedo
-- 1 x 2,216 lb Mk.13-6 Case torpedo
-- 2 x Uncle Tom rockets
+* 4 x 500 lb AN-M64A1 bombs (2,000 lb total)
+* 1 x 2,216 lb Mk.13-6 torpedo
+* 1 x 2,216 lb Mk.13-6 Case torpedo
+* 2 x Uncle Tom rockets
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|M2 Browning (12.7 mm)|Browning (7.62 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 1 x 12.7 mm M2 Browning machine gun, dorsal turret (400 rpg)
-- 1 x 7.62 mm Browning machine gun, ventral turret (500 rpg)
+* 1 x 12.7 mm M2 Browning machine gun, dorsal turret (400 rpg)
+* 1 x 7.62 mm Browning machine gun, ventral turret (500 rpg)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 ;Arcade battles
@@ -173,24 +162,22 @@ The Avenger is also a very durable aircraft, it can soak up a lot of damage and 
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Good manoeuvrability for a bomber
-- Robust construction
-- Adaptive secondary ordnance for different maps e.g. naval and ground-based operations
-- Very good visibility in the cockpit
+* Good manoeuvrability for a bomber
+* Robust construction
+* Adaptive secondary ordnance for different maps e.g. naval and ground-based operations
+* Very good visibility in the cockpit
 
 '''Cons:'''
 
-- Limited bomb selection for a bomber
-- Heavy and fairly slow: big target at low altitude
-- Hard to land for inexperienced pilots
+* Limited bomb selection for a bomber
+* Heavy and fairly slow: big target at low altitude
+* Hard to land for inexperienced pilots
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The Avenger Mk II is a British variant of the American Grumman TBF-1 Avenger. Only 402 were given to British, under the lend-lease program. It was internally designated by Grumman as the TBF-1B. The British once they received them, initially designated it the Tarpon TR.Mk 1. Then, later on, it was re-designated as the Avenger. The Avenger is a single engine monoplane. It consists of, a three-man crew. Its primary role, was a torpedo bomber. However, could also be used as an ordinary bomber.
@@ -212,30 +199,25 @@ By the end of 1943, eight Avenger squadrons were active in the Fleet Air Arm, th
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=avenger_mk1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=avenger_mk1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Aircraft of comparable role, configuration and era
-
-- [[SBD-3]]
+* [[SBD-3]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/3149--en|[Vehicle Profile] TBF-1c / Avenger Mk 1]]
+* [[wt:en/news/3149--en|[Vehicle Profile] TBF-1c / Avenger Mk 1]]
 
 {{AirManufacturer Grumman}}
 {{Britain bombers}}

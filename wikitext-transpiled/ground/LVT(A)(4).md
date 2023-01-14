@@ -5,27 +5,24 @@
 }}
 {{Specs-Card
 |code=us_lvt_a_4
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American light tank {{Battle-rating}}. It was introduced during [[Update 1.97 "Viking Fury"]] as a reward for the [[wt:en/news/6703-event-winner-vehicles-for-the-victory-anniversary-en|Victory Day]] event.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 Like its [[LVT(A)(1)|reserve rank brother]], the LVT(A)(4) is a big tank with lots of space between modules and crew. This allows some surprising survivability when facing tanks that have low-calibre single shot guns, and even some automatic cannons such as the ones equipped on the Panzer II's. The LVT(A)(4)'s biggest adversary is HE or HEAT ammunition, such as the kind fired from the Chi Ha's 57 mm and Panzer IV's 75 mm. The LVT(A)(4)'s hull armour is very thin, and is only effective against rifle-calibre machine guns. The turret armour is a different story. With decent angles and relatively good thickness the turret can cause a fair amount of shots to ricochet or bounce. The turret is open-topped however, and is vulnerable to artillery and air attacks.
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (gun mantlet)
+* Rolled homogeneous armour
+* Cast homogeneous armour (gun mantlet)
 
 {| class="wikitable"
 |-
@@ -42,15 +39,15 @@ Like its [[LVT(A)(1)|reserve rank brother]], the LVT(A)(4) is a big tank with lo
 |}
 '''Notes:'''
 
-- The gun barrel (10 mm) is wrapped in 12.7 mm of armour
-- The turret for the most part is open-topped, but at the very rear there are 9.5 mm of armour
-- Tracks and Suspension - 15 mm
-- Turret Ring - 12.7 mm + 6.35 mm Turret Ring Guard (Hull)
-- Fenders - 6.35 mm
+* The gun barrel (10 mm) is wrapped in 12.7 mm of armour
+* The turret for the most part is open-topped, but at the very rear there are 9.5 mm of armour
+* Tracks and Suspension - 15 mm
+* Turret Ring - 12.7 mm + 6.35 mm Turret Ring Guard (Hull)
+* Fenders - 6.35 mm
+
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=387|rbMinHp=221}}
@@ -66,9 +63,7 @@ Due to its big and tall tracks, the LVT can drive over some obstacles that are t
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|M2 Howitzer (75 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -138,9 +133,7 @@ Due to its big and tall tracks, the LVT can drive over some obstacles that are t
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -156,9 +149,7 @@ Due to its big and tall tracks, the LVT can drive over some obstacles that are t
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|M2HB (12.7 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -172,44 +163,40 @@ Due to its big and tall tracks, the LVT can drive over some obstacles that are t
 |}
 
 == Usage in battles ==
-
 <!--''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''-->
-
-The LVT(A)(4) is a fantastic fighting vehicle, it has a powerful 75 mm cannon attached to an LVT chassis is a great platform to fire on and giving its high profile, it is well built to fire over walls and other impediments. It is easy to hide the hull on some maps, like Abandoned Factory or Poland. One of the biggest issues, however, is that the vehicle is very easy to destroy with overpressure, so be very wary of vehicles firing powerful HE or HEAT shells such as the [[Spj fm/43-44]] or the [[Sturmpanzer II]], because if they get a shot off on your tank it will be destroyed. However, with the .50 cal machine gun, if enemies miss or do not destroy your vehicle, you can fire off a few bursts and destroy their vehicles.
+The LVT(A)(4) is a fantastic fighting vehicle, it has a powerful 75 mm cannon attached to an LVT chassis is a great platform to fire on and giving its high profile, it is well built to fire over walls and other impediments. It is easy to hide the hull on some maps, like Abandoned Factory or Poland. One of the biggest issues, however, is that the vehicle is very easy to destroy with overpressure, so be very wary of vehicles firing powerful HE or HEAT shells such as the [[Spj fm/43-44]] or the [[Sturmpanzer II]], because if they get a shot off on your tank it will be destroyed. However, with the .50 cal machine gun, if enemies miss or do not destroy your vehicle, you can fire off a few bursts and destroy their vehicles. 
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Good speed and manoeuvrability
-- Five crew members with huge space between them increases survivability, especially when most guns it faces have small calibre and little explosive filler (e.g. the [[M3 Stuart (Family)|Stuart's]] 37 mm)
-- Amphibious, meaning it can launch surprise attacks using rivers
-- Amazing -20° gun depression allows excellent mountain combat ability
-- Short reload time
-- High penetration HEAT projectile
-- High explosive filler will overpressure open-topped vehicles
-- Heavy MG can effectively damage light vehicles and low-flying planes
+* Good speed and manoeuvrability
+* Five crew members with huge space between them increases survivability, especially when most guns it faces have small calibre and little explosive filler (e.g. the [[M3 Stuart (Family)|Stuart's]] 37 mm)
+* Amphibious, meaning it can launch surprise attacks using rivers
+* Amazing -20° gun depression allows excellent mountain combat ability
+* Short reload time
+* High penetration HEAT projectile
+* High explosive filler will overpressure open-topped vehicles
+* Heavy MG can effectively damage light vehicles and low-flying planes
 
 '''Cons:'''
 
-- Huge and tall hull makes it easy to be seen/shot at
-- Very thin armour, can be penetrated by any cannon/heavy MG
-- Easily destroyed with overpressure by large-calibre HE or HEAT shells, artillery strikes or air-dropped bombs
-- Shells have low velocity which is a disadvantage in long range combat
-- The crew in the open topped turret are very close together, meaning they can be taken out in a single shot or by aircraft
-- Bad turret rotation, meaning it cannot respond to flankers in time
-- Very slow reverse speed can prevent it from retreating back to cover in time
+* Huge and tall hull makes it easy to be seen/shot at
+* Very thin armour, can be penetrated by any cannon/heavy MG
+* Easily destroyed with overpressure by large-calibre HE or HEAT shells, artillery strikes or air-dropped bombs
+* Shells have low velocity which is a disadvantage in long range combat
+* The crew in the open topped turret are very close together, meaning they can be taken out in a single shot or by aircraft
+* Bad turret rotation, meaning it cannot respond to flankers in time
+* Very slow reverse speed can prevent it from retreating back to cover in time
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 === Development and Design ===
 The vehicle's origins is from a swamp-access vehicle called the ''Alligator'' made for civilians. Donald Roebling, its developer, built an improved version of his vehicle with better speed in water. The United States Marine Corps became interested in this amphibious design as they began drawing up their amphibious warfare doctrine. They requested a more sea-worthy version of the vehicle for use in their military operations. Though Roebling and the Navy were reclusive on that idea (the Navy believes they have the current vehicle in store already), the idea brought fruit when World War II broke out in Europe and Roebling created a military version. After a few trials with improvements like a stronger engine, the Bureau of Ships placed a contract for 100 of these vehicles with all-steel armour. The first ones arrive in July 1941, with 200 more ordered before the initial contract was finished. The vehicle design was adopted and designated the '''LVT''', with many different variants of the vehicle being produced throughout the war.
 
-The first version of the LVT, the ''LVT-1'', could carry 18 men or 4,500 pounds of equipment. The Marines first used the LVT-1 in Guadalcanal with 128 available to 1st Marine Division. Usage in the field revealed that the LVT was too thinly armoured for a rapid deployment back and forth the ships and landing site, but the Marines saw the vehicle's potential as an assault vehicle. So in June 1941, the Marines push forward with a Roebling design of the LVT armed with a gun turret. In order for this to be possible, the LVT underwent a redesign into the ''LVT-2 "Buffalo"'', which had a new powertrain and suspension to allow better performances on land and able to carry up to 6,950 pounds in equipment.
+The first version of the LVT, the ''LVT-1'', could carry 18 men or 4,500 pounds of equipment. The Marines first used the LVT-1 in Guadalcanal with 128 available to 1st Marine Division. Usage in the field revealed that the LVT was too thinly armoured for a rapid deployment back and forth the ships and landing site, but the Marines saw the vehicle's potential as an assault vehicle. So in June 1941, the Marines push forward with a Roebling design of the LVT armed with a gun turret. In order for this to be possible, the LVT underwent a redesign into the ''LVT-2 "Buffalo"'', which had a new powertrain and suspension to allow better performances on land and able to carry up to 6,950 pounds in equipment. 
 
 Early on it became clear that the LVTs that were in production - which were usually armed with only machine guns - did not have the firepower necessary to support the infantry, especially when facing enemy pillboxes, bunkers, and other entrenched positions used by the Japanese Army. In order to solve this problem, a fire support vehicle based on the LVT-2 was designed. It had a turret that was very similar to the turret of the M3 Stuart light tank. Before the introduction of the better armed LVT(A)-4 in 1944, 510 LVT(A)-1 were built by the Food Machinery Corporation.
 
@@ -227,12 +214,10 @@ Outside the Pacific, the LVT also saw use in the European Theater of Operations.
 After World War II, the LVTs continued to see action in the multiple conflicts in the world. A number were given to the Chinese Nationalists in the Chinese Civil War by America. Many of these were captured by the Chinese PLA, with some converted to use a 75 mm howitzer or a ''[[ZiS-2 (57 mm)|ZIS-2]]'' anti-tank gun. The Americans used a number of LVT vehicles in the Korean War, notably the landing at Inchon and the attack on Seoul. The French also used American-supplied LVTs during the Indochina War and the Suez Crisis.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=us_lvt_a_4 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=us_lvt_a_4 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover"  heights="200">
@@ -244,18 +229,16 @@ Image:LVT(A)(4) crossing tropical river.jpg
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6703-event-winner-vehicles-for-the-victory-anniversary-en|[Event] Winner vehicles for the Victory anniversary]]
-- [http://www.wardrawings.be/WW2/Files/1-Vehicles/Allies/1-USA/06-LVT/File/LVT(A)-4.htm <nowiki>[War Drawings]</nowiki> LVT(A)-4]
+* [[wt:en/news/6703-event-winner-vehicles-for-the-victory-anniversary-en|[Event] Winner vehicles for the Victory anniversary]]
+* [http://www.wardrawings.be/WW2/Files/1-Vehicles/Allies/1-USA/06-LVT/File/LVT(A)-4.htm <nowiki>[War Drawings]</nowiki> LVT(A)-4]
 
 {{TankManufacturer Food Machinery Corporation (FMC)}}
 {{USA light tanks}}

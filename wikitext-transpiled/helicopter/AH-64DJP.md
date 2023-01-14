@@ -5,21 +5,17 @@
 }}
 {{Specs-Card
 |code=ah_64d_japan
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese attack helicopter {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Heli-Flight}}
-
 <!-- ''Describe how the helicopter behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The AH-64DJP sports a great manoeuvrability, an incredible acceleration and overall provides a great speed of up to 320 km/h in arcade and 295 km/h in realistic and simulator game modes. As fast as the [[AH-64D|United States Army, AH-64D Longbow]] and slower than the [[AH_Mk.1|British Army, AH Mk.1]] variants of the Apache, the AH-64DJP is still able to perform manoeuvres other helicopters can only dream about, from barrel rolls, flips to loops which allow it to evade enemy missiles with ease.
 
 {| class="wikitable" style="text-align:center"
@@ -40,13 +36,11 @@ The AH-64DJP sports a great manoeuvrability, an incredible acceleration and over
 
 === Survivability and armour ===
 {{Specs-Heli-Armour}}
-
 <!-- ''Examine the survivability of the helicopter. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical systems.'' -->
-
 The AH-64D Apache longbow, has only limited armour protection installed with bullet proof glass only being installed on the pilot windscreen. The helicopter uses Kevlar boron carbide, composite martial which is limited only to instrument, floor and side panels around the cockpit. It does not provide the same level of protection as seen on other helicopters such as the [[Mi-28N]].
 
-- Bullet proof glass installed only for the pilot - 22 mm thick.
-- Installation of Kevlar boron carbide, composite martial only on the: Seats, cockpit side panels, Gunner floor panels and pilot instrument panel - 20 mm thick.
+* Bullet proof glass installed only for the pilot - 22 mm thick.
+* Installation of Kevlar boron carbide, composite martial only on the: Seats, cockpit side panels, Gunner floor panels and pilot instrument panel - 20 mm thick.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -64,32 +58,28 @@ The AH-64D Apache longbow, has only limited armour protection installed with bul
 |}
 === Offensive armament ===
 {{Specs-Heli-Offensive}}
-
 <!-- ''Describe the offensive armament of the helicopter, if any. Describe how effective the cannons and machine guns are in battle, also what ammunition belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M230E-1 (30 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 1 x 30 mm M230E-1 cannon (1,200 rpg)
-  ** 1 x 30 mm M230E-1 cannon + 30 x countermeasures
+* A choice between two presets:
+** 1 x 30 mm M230E-1 cannon (1,200 rpg)
+** 1 x 30 mm M230E-1 cannon + 30 x countermeasures
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
-
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AGM-114K Hellfire II|ATAS (AIM-92)|Hydra-70 M247}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 8 x ATAS (AIM-92) missiles
-- 76 x Hydra-70 M247 rockets
-- 4 x AGM-114K Hellfire II missiles
-- 8 x AGM-114K Hellfire II missiles
-- 16 x AGM-114K Hellfire II missiles
+* Without load
+* 8 x ATAS (AIM-92) missiles
+* 76 x Hydra-70 M247 rockets
+* 4 x AGM-114K Hellfire II missiles
+* 8 x AGM-114K Hellfire II missiles
+* 16 x AGM-114K Hellfire II missiles
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -109,20 +99,17 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 === Defensive systems ===
-
 <!--''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.''-->
-
 The '''''{{PAGENAME}}''''' only has the following Defensive systems installed:
 
-- '''Flares/Chaff''' - Up to 30 countermeasures can be installed.
-- '''AIM-92 Stinger''' - AIM-92 Stingers and Infrared Counter Measures.
+* '''Flares/Chaff''' - Up to 30 countermeasures can be installed.
+* '''AIM-92 Stinger''' - AIM-92 Stingers and Infrared Counter Measures.
 
 When unlocked, countermeasures are not installed - this requires the Flares/Chaff module (tier I) to be researched and installed, this provides up to 30 countermeasures. The last module called AIM-92 (tier III) allows for the installation of a maximum of four AIM-92 Stinger missiles, which two are mounted on each wing tip, 30 countermeasures & IRCM module.
 
 Important note: unlike the American and British brothers, the AH-64DJP lacks a MAW (missile approach warning) system. This means that the AH-64JDP player should keep an extra eye on SPAAs and incoming SAMs by himself, as without MAW missiles must be spotted and countermeasures deployed manually.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 '''Overview:'''
@@ -167,40 +154,38 @@ Combatting enemy anti-aircraft vehicles can be a challenge. Always remain in cov
 {{Clear}}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Attack capabilities:
-  ** Rockets
-  ** Long-range Hellfire II ATGMs
-  **_ Timer to show you when they will hit the target, giving you the exact time to return to cover
-  _** Range of approximately 9 km
-  **\* Can launch and guide several ATGMs at the same time
-  ** Flexible 30 mm cannon
-  \*\*\* Has 51 mm pen tops in a mono-type belt
-- Anti-air capabilities:
-  ** 4 AIM-92 Stinger AAMs
-  ** Flexible 30 mm cannon
-  \*\*\* Rounds in mono-type belt are {{Annotation|HEDP|High Explosive Dual Purpose}}
-- Spotting capabilities:
-  ** Longbow radar, both air and ground units
-  ** Thermal sights
-- Amazing speed, acceleration, climb and roll - very manoeuvrable helicopter
-- Very survivable (Compared to other helis) with 2 crew members, and a beefy air frame
+* Attack capabilities:
+** Rockets
+** Long-range Hellfire II ATGMs
+*** Timer to show you when they will hit the target, giving you the exact time to return to cover
+*** Range of approximately 9 km
+*** Can launch and guide several ATGMs at the same time
+** Flexible 30 mm cannon
+*** Has 51 mm pen tops in a mono-type belt
+* Anti-air capabilities:
+** 4 AIM-92 Stinger AAMs
+** Flexible 30 mm cannon
+*** Rounds in mono-type belt are {{Annotation|HEDP|High Explosive Dual Purpose}}
+* Spotting capabilities:
+** Longbow radar, both air and ground units
+** Thermal sights
+* Amazing speed, acceleration, climb and roll - very manoeuvrable helicopter
+* Very survivable (Compared to other helis) with 2 crew members, and a beefy air frame
 
 '''Cons:'''
 
-- Long-range Hellfire II ATGMs
-  ** Slow, utilizing their long range is hard due to very long flight times
-  ** While they can in theory hit air targets, they're too slow to reliably hit air targets
-- Lacks {{Annotation|MAW|Missile Approach Warning}} which is a very important system for top helicopters
-- Has only 30 flares
-- 30 mm cannon has high dispersion at longer range, making it inaccurate beyond 500 m
+* Long-range Hellfire II ATGMs
+** Slow, utilizing their long range is hard due to very long flight times
+** While they can in theory hit air targets, they're too slow to reliably hit air targets
+* Lacks {{Annotation|MAW|Missile Approach Warning}} which is a very important system for top helicopters
+* Has only 30 flares
+* 30 mm cannon has high dispersion at longer range, making it inaccurate beyond 500 m
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The AH-64D was selected by the Japanese Ground Self-Defense Force (JGSDF) in 2001, with a requirement for about 50 helicopters. 50 were ordered, and they were built by the Japanese Fuji Heavy Industries as the '''AH-64DJP''' (JP standing for Japan). The first AH-64DJP was delivered in 2006, but the order was cancelled after the delivery of only 13 helicopters. The AH-64DJP has the possibility of equipping AIM-92 Stinger air-to-air missiles (AAMs).
@@ -210,35 +195,32 @@ In 2017, it was announced that the AH-64DJP helicopters were to have their targe
 As of 2017, the JGSDF operated one squadron of ten AH-64DJP helicopters, with the other three acting as training helicopters. One AH-64DJP was destroyed in a crash in February 2018, resulting in the deaths of both crew members; this left a total of 12 AH-64DJP helicopters.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ah_64d_japan Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
-  {{Skin-gallery |market|ugcitem_1000607|AH-64DJP JG-4557.png|Camo "AH-64DJP, Bicolor winter"}}
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ah_64d_japan Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+{{Skin-gallery |market|ugcitem_1000607|AH-64DJP JG-4557.png|Camo "AH-64DJP, Bicolor winter"}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the helicopter;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Rotorcraft of comparable role, configuration and era
 
-- [[Mi-35M]]
-- [[Ka-50]]
-- [[EC-665 Tiger HAP]]
+* [[Mi-35M]]
+* [[Ka-50]]
+* [[EC-665 Tiger HAP]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wikipedia:Boeing_AH-64_Apache|[Wikipedia] Boeing AH-64]]
-- [https://www.helis.com/database/model/AH-64DJP-Apache/ <nowiki>[Helis.com]</nowiki> Fuji AH-64DJP Apache]
-- [https://www.milavia.net/news/2006/first-ah-64djp-delivered-to-the-jgsdf.html <nowiki>[MILAVIA]</nowiki> First AH-64DJP Delivered to the JGSDF]
+* [[wikipedia:Boeing_AH-64_Apache|[Wikipedia] Boeing AH-64]]
+* [https://www.helis.com/database/model/AH-64DJP-Apache/ <nowiki>[Helis.com]</nowiki> Fuji AH-64DJP Apache]
+* [https://www.milavia.net/news/2006/first-ah-64djp-delivered-to-the-jgsdf.html <nowiki>[MILAVIA]</nowiki> First AH-64DJP Delivered to the JGSDF]
 
 {{AirManufacturer Fuji}}
 {{Japan helicopters}}

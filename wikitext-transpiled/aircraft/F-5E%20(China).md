@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese jet fighter {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]].
 
 A licensed CKD built of Northrop's F-5E series by the AIDC (aka 漢翔) as the alternative for ROCAF's perished dream of a fleet of F-4Es and strengthening their military force: this variant of F-5E has the same capabilities of the original US built-ones, with hard hitting AAMs/AGMs as well as varieties of payload from rocket pods up to 2,000 lb bombs, making F-5E the saviour of the ground forces as a retaliation against both ground and aerial targets who pose a threat to the team. Although it is not as dominant in air combat as the PLAAF [[J-7E]], the F-5E's ability to carry four AGM-65 Maverick missiles makes it a uniquely valuable aircraft in the Chinese tech tree for precision standoff CAS.
@@ -19,9 +17,7 @@ A licensed CKD built of Northrop's F-5E series by the AIDC (aka 漢翔) as the a
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 Since AIDC received different batches of F-5E/Fs through the two decades of assembling, their airframe naming can be confusing (K, Ba, C, Pseudo-C); but in this case, this is the C structure which is totally identical to its [[F-5E|American counterpart]]. With a pair of GE J85-G-21A and a light yet surprisingly sturdy airframe, although the overall acceleration is nowhere comparable to jets at its tier, but the revised airframe did help F-5E making manoeuvres easier thanks to its above-average manoeuvrability. Those who are stalling or used up their energy will meet their miserable end very quickly.
 
 While some players take it as a deliciated jet fighter against aerial targets, as a multi-role lightweight fighter, the overall payload is surprisingly high thanks to the composite materials used on its wing; bringing either lightweight bombs or devastating heavy bombs are among its options; do keep in mind that this turns F-5E into a slow bomb truck which can be shot down with relatively ease, so avoid enemies before delivering the payloads.
@@ -51,7 +47,7 @@ While some players take it as a deliciated jet fighter against aerial targets, a
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || ✓ || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -117,9 +113,7 @@ While some players take it as a deliciated jet fighter against aerial targets, a
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 A common misconception of lightweight aircraft is its protection. While F-5E is known to be tough in top rank battles that sometimes it takes 2 missiles to send it back to hanger, the whole jet has no extra protection, meaning that any projectiles that shoot through the thin skin of the airframe is more than enough to take the pilot out with ease.
 
 === Modifications and economy ===
@@ -129,38 +123,34 @@ A common misconception of lightweight aircraft is its protection. While F-5E is 
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M39A3 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 2 x 20 mm M39A3 cannons, nose-mounted (280 rpg = 560 total)
-  ** 2 x 20 mm M39A3 cannons + 45 x countermeasures
+* A choice between two presets:
+** 2 x 20 mm M39A3 cannons, nose-mounted (280 rpg = 560 total)
+** 2 x 20 mm M39A3 cannons + 45 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)|BLU-1 incendiary}}
 {{main|AGM-65B|AIM-9P Sidewinder|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|GAU-13/A (30 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x AIM-9P Sidewinder missiles
-- 1 x 30 mm GAU-13/A cannon (353 rpg)
-- 76 x FFAR Mighty Mouse rockets
-- 8 x Zuni Mk32 Mod 0 ATAP rockets
-- 5 x 500 lb LDGP Mk 82 bombs (2,500 lb total)
-- 5 x 750 lb M117 cone 45 bombs (3,750 lb total)
-- 5 x BLU-1 incendiary bombs
-- 3 x 1,000 lb LDGP Mk 83 bombs (3,000 lb total)
-- 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
-- 4 x AGM-65B missiles
+* Without load
+* 2 x AIM-9P Sidewinder missiles
+* 1 x 30 mm GAU-13/A cannon (353 rpg)
+* 76 x FFAR Mighty Mouse rockets
+* 8 x Zuni Mk32 Mod 0 ATAP rockets
+* 5 x 500 lb LDGP Mk 82 bombs (2,500 lb total)
+* 5 x 750 lb M117 cone 45 bombs (3,750 lb total)
+* 5 x BLU-1 incendiary bombs
+* 3 x 1,000 lb LDGP Mk 83 bombs (3,000 lb total)
+* 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
+* 4 x AGM-65B missiles
 
 ==== Custom loadout options ====
 {| class="wikitable" width="100%" style="text-align:center"
@@ -201,37 +191,32 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
-Like its tech tree predecessor and its American counterpart, F-5E was designed to be a lightweight and inexpensive option for countries with tight budgets. This version of ROCAF's F-5E is identical to US ones with new avionics and engines to retain its combat capability against possible enemies. While this might sound good at first glance, players have to consider for a major problem- the waves of SARH/ARH capable jets at 11.0; you will either face waves of [[AIM-7E-2 Sparrow|Sparrows]] or even worse, waves of [[AIM-54A Phoenix|Phoenixes]] from [[F-14A Early|F-14A]]; for lightweight jets exactly like F-5E, facing such missiles alongside their carriers will be the ultimate nightmare to deal with. Players have to survive the first wave of head-on attacks at the first place in order to take revenge on enemy targets. Although only a pair of AIM-9P and M39A2 cannons are available for air-to-air missions, if used at the right moment ie. a careless or slow enemy, 2 missiles are more than enough to score some hits. If it has to join a dogfight, the high ammo count at its tier can give trigger-happy players more opportunity to shoot down enemy aircraft, even multiple targets if aimed properly. But do note that a pair J85-GE-21A still aren't something with high thrust, any severe energy loss gives players very little chance to even regain the speed, making it easier to be shot at.
+Like its tech tree predecessor and its American counterpart, F-5E was designed to be a lightweight and inexpensive option for countries with tight budgets. This version of ROCAF's F-5E is identical to US ones with new avionics and engines to retain its combat capability against possible enemies. While this might sound good at first glance, players have to consider for a major problem- the waves of SARH/ARH capable jets at 11.0; you will either face waves of [[AIM-7E-2 Sparrow|Sparrows]] or even worse, waves of [[AIM-54A Phoenix|Phoenixes]] from [[F-14A Early|F-14A]]; for lightweight jets exactly like F-5E,  facing such missiles alongside their carriers will be the ultimate nightmare to deal with. Players have to survive the first wave of head-on attacks at the first place in order to take revenge on enemy targets. Although only a pair of AIM-9P and M39A2 cannons are available for air-to-air missions, if used at the right moment ie. a careless or slow enemy, 2 missiles are more than enough to score some hits. If it has to join a dogfight, the high ammo count at its tier can give trigger-happy players more opportunity to shoot down enemy aircraft, even multiple targets if aimed properly. But do note that a pair J85-GE-21A still aren't something with high thrust, any severe energy loss gives players very little chance to even regain the speed, making it easier to be shot at.
 
 If CAS is your cup of tea, F-5E has a great variety of ordnance ranging from napalm bombs, general purpose bombs, Zuni rockets, as well as 2 pairs of AGM-65B. It can be said that F-5E is the long-awaited CAS aircraft for the Chinese tech tree ''<small>(note: PLAAF only had AGMs in service after the introduction of Su-30MKK Flanker-H in early 2000s)</small>'' . For a less risky approach, use the Mavericks to take out MBTs or menacing SPAAGs, its explosive content and penetration is more than enough to take out any unnoticed ground targets. Since Mavericks used IR/TV tracker in this case, some players sought it as a surprise way to shoot down hovering helicopters from safe distance and altitude. While bombs and rocket pods are available as well, due to the lack of equipment, F-5E still doesn't have any form of ballistic computer. Players should enter the battlefield below 600 m and at around 700 km/h then dive upon the target at 30°, then drop the payloads and pullup for a run; while rockets requires higher altitude for the dive, so use them with extreme caution and practice the trajectory for precise hits. Napalm can also be useful in some way for the nature that it could burn plants and open-top vehicles, but its aesthetic use is much greater than its practical use, i.e. blinding TVD modules on vehicles or equipment with its extreme heat.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Retains similar, if not better flight performance to its predecessor
-- Small size, making it difficult for enemies to land shots onto the F-5E
-- Variety of payloads ranging from bombs up to TV guided AGMs
-- Finally comes with a radar which was lacking on previous models
-- Surprisingly sturdy airframe for such a lightweight aircraft
-- M39 cannons has generous ammo count and damage against aerial targets; sometimes even ground targets with AP belts
+* Retains similar, if not better flight performance to its predecessor
+* Small size, making it difficult for enemies to land shots onto the F-5E
+* Variety of payloads ranging from bombs up to TV guided AGMs
+* Finally comes with a radar which was lacking on previous models
+* Surprisingly sturdy airframe for such a lightweight aircraft
+* M39 cannons has generous ammo count and damage against aerial targets; sometimes even ground targets with AP belts
 
 '''Cons:'''
 
-- No ballistic computer of any form
-- Low top speed at its rank
-- The only A2A option is the pair of guns and two AIM-9Ps at most
-- Small countermeasures capacity, less than the F-5A
+* No ballistic computer of any form
+* Low top speed at its rank
+* The only A2A option is the pair of guns and two AIM-9Ps at most
+* Small countermeasures capacity, less than the F-5A
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 Earlier in 1968, the Nationalist Government had proposed an agreement to Northrop to produce their latest F-5E/F Tiger II domestically in Taiwan. While the batches of earlier [[F-5A (China)|F-5A]] Freedom Fighters joined ROCAF in 1965 as the replacement for the already obsolete fleet of F-86s, those 48 F-5A series were then handed over to the RVAF in 1972 while some batches of USAF's F-4 Phantoms II were transferred from US Pacific Air Force and stationed in Taiwan; the aforementioned agreement with Northrop was signed in February 1973 where AIDC received the license for building 100 F-5E/F series under "Project Tiger Peace 虎安計劃".
 [[File:F-5E 5283 displayed in Taichung.jpg|thumb|293x293px|F-5E 5283 at 823 Park in Taichung]]
 
@@ -240,31 +225,26 @@ The overall production program could be divided into 6 separated batches and the
 Since the heat of the first Strait Crisis has passed, the "Tigers" didn't have the chance to be involved into combat actions; but two of these jets defected to Mainland China throughout the 1980s and they were among the very last cross-strait defects. These jets were also involved in 50 crashes with 52 deaths; after the three consecutive crashes within half-a year from October 2020 (5261; engine flameout; pilot DOA) to March 2021 (5286 and 5287; mid-air collision), ROCAF decided to decommission their fleet of remaining F-5s in Taitung by 2025 , replacing them with the new [[wikipedia:AIDC_T-5_Brave_Eagle|T-BE5A Brave Eagle]].<ref>https://www.ainonline.com/aviation-news/defense/2022-02-11/taiwans-brave-eagle-leaves-nest</ref>
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=f-5e_aidc Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f-5e_aidc Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-
-- [https://archive.org/details/T.O.1F5E11984OCR/mode/2up/ Technical Order 1F-5E-1 - Flight Manual for F-5E/F-5F Aircraft]
+* [https://archive.org/details/T.O.1F5E11984OCR/mode/2up/ Technical Order 1F-5E-1 - Flight Manual for F-5E/F-5F Aircraft]
 
 === References ===
 <references />

@@ -4,22 +4,18 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' (Hotchkiss light tank model 1935) is a rank {{Specs|rank}} French light tank {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]]. The H.35 was removed from its reserve status and hidden from the main tech tree during [[Update 1.85 "Supersonic"]] after the ammo update, though it is still unlockable after reaching rank II French ground vehicles. During its session in the main tree, it was arguably the ''worst reserve vehicle in War Thunder''.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 The armour is decent and it ''will'' protect you from incoming long-range shots... but nothing more than that. At close ranges, anything bigger than HMG fire can shred your tank very easily. If you're lucky enough to survive a shot, retreat and ask your allies for help.
 
 '''Armour type:'''
 
-- Cast homogeneous armour (hull, turret, cupola)
+* Cast homogeneous armour (hull, turret, cupola)
 
 {| class="wikitable"
 |-
@@ -33,13 +29,12 @@ The armour is decent and it ''will'' protect you from incoming long-range shots.
 |}
 '''Notes:'''
 
-- Suspension wheels, bogies, and tracks are all 15 mm thick.
-- Belly is 8 mm thick.
-- Gun barrel is 10 mm thick.
+* Suspension wheels, bogies, and tracks are all 15 mm thick.
+* Belly is 8 mm thick.
+* Gun barrel is 10 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp= 81|rbMinHp= 66}}
@@ -53,9 +48,7 @@ With its low speed, don't even dream of bold flanking manoeuvres, you must rely 
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|SA18 L/21 (37 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -109,9 +102,7 @@ With only 36 mm of penetration, poor post-penetration damage and a long reload t
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.1.0.91''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -129,17 +120,15 @@ With only 36 mm of penetration, poor post-penetration damage and a long reload t
 |}
 '''Notes''':
 
-- The visual discrepancy concerns the total number of shells as well as the number of shells per rack:
-  ** 100 shells are modeled but you can only pack 76 shells, meaning some racks always empty (crossed out in the picture).
-  ** Rack 1 is modeled as 6 shells but contains only 2 shells.
-- As they are modeled by sets of 6 or 7, shells disappear from racks 2 to 6 only after you fire all shells in the set.
-- Rack 7 disappears after you've fired all shells in the rack.
+* The visual discrepancy concerns the total number of shells as well as the number of shells per rack:
+** 100 shells are modeled but you can only pack 76 shells, meaning some racks always empty (crossed out in the picture).
+** Rack 1 is modeled as 6 shells but contains only 2 shells.
+* As they are modeled by sets of 6 or 7, shells disappear from racks 2 to 6 only after you fire all shells in the set.
+* Rack 7 disappears after you've fired all shells in the rack.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|MAC 31 (7.5 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -154,15 +143,11 @@ With only 36 mm of penetration, poor post-penetration damage and a long reload t
 The small calibre of the MAC 31 machine gun makes it largely ineffective against all armoured vehicles but the ones with an open compartment. It still can be used to ping targets as a rangefinding help or to mow down minor obstacles blocking your line of sight.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 Playing the H.35 is a hard task. Having such a bad gun, it cannot reliably engage a fight without getting the first shot off; hence, one must stick with its teammates in order to survive an encounter. Never drag attention on yourself since anything bigger than HMG fire will shred you at normal combat ranges (~500 m).
 
 ====Tactics====
-
 <!--Specific methods of play in different situations, label the methods with pros and cons (if possible) based on vehicle's performances (i.e. Using the M22 Locust and getting close to target so gun depression cannot reach it.)-->
-
 '''Hull down:'''
 
 Since your turret armour is decent, a good way to use this tank can be to hide the hull behind a rock, a hill or any shell-proof prop and wait for the enemy to fall in your sights. This way, you will either be able to shoot at their weak side or have enough time to aim before they can react to your presence. Ensure yourself to pick a spot near a choke-point such as a capture point or a popular main road.
@@ -176,29 +161,26 @@ In urban maps, narrow streets and crossroad allow for many flanking and close-qu
 Turn your back to the enemy and use your engine deck as a shield for the crew. Use this tactic anytime you are left alone and go find yourself another teammate. Don't use your reverse speed since it's too low: turn back and flee, your armour is as thick as on the front of your tank. Never stop to try a shot since your pursuers have a way better gun than yours.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 '''Pros:'''
 
-- Strong armour for its battle rating
-- Good depression angle of -13°
-- Thick and sloped turret makes a good hull-down position
-- Good coaxial MAC 31 MG
+* Strong armour for its battle rating
+* Good depression angle of -13°
+* Thick and sloped turret makes a good hull-down position
+* Good coaxial MAC 31 MG
 
 '''Cons:'''
 
-- Among the worst rank I ground vehicles: very frustrating to play
-- It has the worst APCR-shot in the entire game
-- APCR deals only punctual damage: unable to destroy enemy tanks with a single shot
-- Reload speed is a little on the slow side for the calibre
-- Extremely poor mobility:
-  ** Slow top speed
-  ** Narrow tracks offering poor cross-country capability
-- Having only two crew members severely limits survivability, even with crew replenishment
+* Among the worst rank I ground vehicles: very frustrating to play
+* It has the worst APCR-shot in the entire game
+* APCR deals only punctual damage: unable to destroy enemy tanks with a single shot
+* Reload speed is a little on the slow side for the calibre
+* Extremely poor mobility:
+** Slow top speed
+** Narrow tracks offering poor cross-country capability
+* Having only two crew members severely limits survivability, even with crew replenishment
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 Officially known as the Char Leger mle 1935 Hotchkiss (Hotchkiss Light Tank model 1935), this was a competitor with Renault's R.35 to replace the WWI-era FT-17 as France's infantry tank. While the infantry went with the R.35, the French cavalry adopted the H.35 to serve alongside the S.35 Somua. The R.35 and H.35 were very similar in construction and visual appearance, with the same turret and the SA 18 37mm main gun, a tank gun conversion of a 1916 infantry gun. Both tanks also used a cast hull, a novel idea in 1935. As with all French tanks, none were equipped with radios. The H.35, as a cavalry tank was heavier but also somewhat faster than the R.35.
@@ -210,38 +192,32 @@ Another 900 R.35s, using the same turret, the SA 18 gun and a very similar hull,
 The SA 18-armed R.35 also continued in service with Vichy France until 1942 and were used in fighting in Syria and North Africa. Another 124 SA 18-armed R.35s were turned over by the Germans to Italy, where they fought and were lost in the invasion of Sicily in 1942. The Germans converted another 174 R.35s to tank destroyers (PanzerJager), generally armed with 47mm guns in the place of turrets and used primarily in France and secondary theatres. 110 of these were still in service at the start of 1944. Syria would employ these tanks in the 1947-1949 Palestine War, however they were vastly outdated and were employed more for more of a fear factor than tactical use. They would also later be refit with a QF 2 pounder gun and used in the 1958 Lebanon Crisis and would be the last recorded use of the vehicle.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=fr_hotchkiss_h35 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=fr_hotchkiss_h35 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|-KhcG7ajFSw|'''The Shooting Range #80''' - ''Pages of History'' section at 06:41 discusses the {{PAGENAME}}.|COV8xPialEI|'''Hotchkiss Model 1935 H, French, Tier-1, Light Tank''' - ''Angry Nerd Gaming''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
-
-- [[H.39]] / [[H.39 "Cambronne"]]
+* [[H.39]] / [[H.39 "Cambronne"]]
 
 ;Other vehicles of similar configuration and role
-
-- [[R.35 (SA38)]]
+* [[R.35 (SA38)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wikipedia:Hotchkiss_H35|[Wikipedia] Hotchkiss H35]]
-- [https://tanks-encyclopedia.com/ww2/france/Hotchkiss_H35_39.php <nowiki>[Tanks Encyclopedia]</nowiki> Hotchkiss H35/39]
+* [[wikipedia:Hotchkiss_H35|[Wikipedia] Hotchkiss H35]]
+* [https://tanks-encyclopedia.com/ww2/france/Hotchkiss_H35_39.php <nowiki>[Tanks Encyclopedia]</nowiki> Hotchkiss H35/39]
 
 {{TankManufacturer Hotchkiss}}
 {{France light tanks}}

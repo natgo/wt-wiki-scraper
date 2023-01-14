@@ -1,18 +1,15 @@
 {{Specs-Card
 |code=uk_a39_tortoise
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.55 "Royal Armour"]] along with the initial British ground tree. A huge casemate structure made as an assault vehicle akin to the American's [[T95]], the Tortoise presents thick raw sloped armour with a unique heavy punching 94 mm cannon.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 The Tortoise, as its name suggests, sacrifices speed to survivability.. With its cast 152 mm sloped armour, the Tortoise can survive most head on encounters. The area around the gun mantlet is 215 mm thick with a flat surface under the gunner's optics. It has a 55 mm plate (75°) under the gun and a 170 mm semi-rounded LFP. Sides are 152 mm thick. The engine deck's side armour is 101.6 mm thick with an asymmetry on the left. Rear armour is 100-110 mm thick flat plates. At this BR, there are not many tanks that can penetrate such thick material from the front. If used correctly, this vehicle should only get out of battles with a few 75, 88 and 122 mm scratches.
@@ -21,8 +18,8 @@ If, by any chance, an enemy gets through this massive steel casing, there is no 
 
 '''Armour type:'''
 
-- Cast homogeneous armour
-- Rolled homogeneous armour (Side hull, Rear hull, Hull roof, Superstructure roof)
+* Cast homogeneous armour
+* Rolled homogeneous armour (Side hull, Rear hull, Hull roof, Superstructure roof)
 
 {| class="wikitable" style="text-align:center"
 |-
@@ -37,15 +34,13 @@ If, by any chance, an enemy gets through this massive steel casing, there is no 
 |}
 '''Notes:'''
 
-- Suspension wheels and bogies are 20 mm thick while tracks are 30 mm thick.
-- Tracks on the side of the Tortoise give an additional 30 mm of armour.
-- The steel boxes on the side of the rear of the Tortoise grant only an extra 5 mm of armour.
+* Suspension wheels and bogies are 20 mm thick while tracks are 30 mm thick.
+* Tracks on the side of the Tortoise give an additional 30 mm of armour.
+* The steel boxes on the side of the rear of the Tortoise grant only an extra 5 mm of armour.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-
 {{tankMobility|abMinHp= 923|rbMinHp= 575}}
 
 Such a great armour plays heavily on mobility. With a max speed of 20 km/h in both directions, neutral steering and wide tracks, this tank has good enough mobility to get into position and fire on the enemy. It is not advised to travel up to the frontlines since it will only expose weak spots, make flanking easier, and take a really long time due to poor max speed.
@@ -57,9 +52,7 @@ Such a great armour plays heavily on mobility. With a max speed of 20 km/h in bo
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|32pdr OQF (94 mm)}}
 Unlike other British Rank IV tanks, the Tortoise does not have access to APDS or HESH ammunition, it relies on pure AP solid shots. Fortunately, these large calibre rounds are roughly similar to the [[20pdr OQF Mk.I (84 mm)|20-pounder cannon's]] APDS rounds, meaning the learning curve from the [[Charioteer Mk VII]] is not too steep. Plus, these 94 mm shells are stock rounds in the Tortoise.
 
@@ -120,9 +113,7 @@ Due to the stable gun platform provided by an incredibly heavy chassis, as well 
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.7.0.176''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -139,13 +130,11 @@ Due to the stable gun platform provided by an incredibly heavy chassis, as well 
 |}
 '''Note''':
 
-- As they are modeled by sets of 2, shells disappear from the rack only after you fire both shells in the set.
+* As they are modeled by sets of 2, shells disappear from the rack only after you fire both shells in the set.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|BESA (7.92 mm)}}
 
 The secondary armament on this tank is a MG turret with twin-mounted [[BESA (7.92 mm)|BESA]] machine guns, good for dealing with low-flying planes and even some bombers, although these MGs lack the power of cannons for aircraft encountered in mixed battles at this BR. Since this turret is the main weak spot on this tank's frontal armour, it is often disabled in the first few shots.
@@ -165,12 +154,10 @@ Six of the vehicle's smoke grenades are located on the machine gun turret, and e
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The A39 Tortoise was created with the intention of serving as a "heavy assault tank" to break through the Siegfried Line. It plays more as a tank destroyer that's best used at long range. Therefore, to maximize the potential of the Tortoise, one must stay at long distances and snipe enemies with the very accurate [[Ordnance QF 32-pounder (94 mm)|32 pdr OQF]] cannon, while making sure to choose good cover, so as to not allow the enemy to target the Tortoise's weak spots: the MG turret and gunner's cupola, the flat areas of the mantlet armour, and the lower front plate (LFP) if it is left exposed. With its slow speed and reload rate, this is not a frontline tank; it will easily be outflanked if used in shorter range engagements. In summary, the Tortoise is best used in a defensive capacity - either to defend capture points, or important strategic areas on the map (i.e. areas where enemies love to camp).
 
-The Tortoise is a true sniper tank destroyer: the farther, the better. Its biggest vulnerability is that it moves extremely slowly, so it's not recommended for frontline combat. It plays much better as an entrenched shooter that can change a game by picking cover with a good field of fire, and then denying enemy entry or egress of an area. The cannon lacks an AP shell with HE filler, making general knowledge of tank internals a must. With good gun depression, it can be near-invincible when taking a good hull-down position, and can retreat back into cover easily enough due to its good reverse speed.
+The Tortoise is a true sniper tank destroyer: the farther, the better. Its biggest vulnerability is that it moves extremely slowly, so it's not recommended for frontline combat. It plays much better as an entrenched shooter that can change a game by picking cover with a good field of fire, and then denying enemy entry or egress of an area. The cannon lacks an AP shell  with HE filler, making general knowledge of tank internals a must. With good gun depression, it can be near-invincible when taking a good hull-down position, and can retreat back into cover easily enough due to its good reverse speed.
 
 Some tips for specific combat environments:
 
@@ -191,32 +178,29 @@ Rural maps are a mix of the two former: a small urban map surrounded by plains. 
 These maps feature high terrain deformation with steep hills and even walls. Maps such as [[Ash River]], [[Karelia]] and [[Frozen Pass]] falls under this designation. Use the same tactics as with plains while being extra careful since flanking is easier on these kind of maps. Stick to the rear of allied armour or play as a bullet magnet, leaving light tanks a way to flank the enemy without getting too much attention. Make sure to hide weak spots behind props such as rocks or walls, leaving only the gun mantlet exposed.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Good frontal armour and adequately thick side armour
-- Angling the tank at near-45 degrees increases protection
-- 94 mm 32-pdr OQF cannon offers both high penetration power and post-penetration spalling damage
-- Highest penetrating round (Shot Mk. 1 APCBC) has a forgiving and predictable trajectory
-- 7-man crew means that it will usually take several HEAT or APDS rounds to knock out the Tortoise (even penetrating APHE shells likely will not destroy the tank in a single hit)
-- Goes as fast in reverse as it does when travelling forward
+* Good frontal armour and adequately thick side armour 
+* Angling the tank at near-45 degrees increases protection
+* 94 mm 32-pdr OQF cannon offers both high penetration power and post-penetration spalling damage
+* Highest penetrating round (Shot Mk. 1 APCBC) has a forgiving and predictable trajectory
+* 7-man crew means that it will usually take several HEAT or APDS rounds to knock out the Tortoise (even penetrating APHE shells likely will not destroy the tank in a single hit)
+* Goes as fast in reverse as it does when travelling forward
 
 '''Cons:'''
 
-- Given its enormous size, the tank is nearly impossible to fully conceal.
-- Lack of speed and manoeuvrability: it is extremely slow given its enormous weight. You will not be able to run away from threats.
-- The Tortoise lacks AP shells with any explosive filler. However, unlike most other British tanks at this battle rating, no APDS shells are available for the 32-pounder.
-- Obvious weak spot: The MG turret on top of the tank is massive and is weakly armoured, which players will readily take advantage of: if an APHE round were to penetrate, it would likely kill the loader (and possibly the driver).
-- The top left corner of the tank is big and flat; APHE rounds with high penetration can punch right through, killing the commander and gunner.
-- Due to the casemate design, cover and fields of fire must be chosen carefully to minimize exposition of the Tortoise's weaknesses.
-- The lower front plate (LFP) is somewhat flat and presents a possible weak spot for enemies to shoot at if exposed.
+* Given its enormous size, the tank is nearly impossible to fully conceal.
+* Lack of speed and manoeuvrability: it is extremely slow given its enormous weight. You will not be able to run away from threats.
+* The Tortoise lacks AP shells with any explosive filler. However, unlike most other British tanks at this battle rating, no APDS shells are available for the 32-pounder.
+* Obvious weak spot: The MG turret on top of the tank is massive and is weakly armoured, which players will readily take advantage of: if an APHE round were to penetrate, it would likely kill the loader (and possibly the driver).
+* The top left corner of the tank is big and flat; APHE rounds with high penetration can punch right through, killing the commander and gunner.
+* Due to the casemate design, cover and fields of fire must be chosen carefully to minimize exposition of the Tortoise's weaknesses.
+* The lower front plate (LFP) is somewhat flat and presents a possible weak spot for enemies to shoot at if exposed.
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 Years before the invasion of Normandy, there were men among the Allied planners worrying about the heavily-defended fortification lines such as the Siegfried Line blocking the path from France to Germany. One of the proposed methods was to develop extremely heavily armoured vehicles capable of destroying any fortification it comes across and any resistance the German had. Britain and America both worked on this project in order to develop these super-heavy tanks.
 
@@ -231,29 +215,27 @@ By the time the few prototypes of the vehicles were made, World War II in Europe
 In the end, the super heavy tanks designs made by the Americans ([[T28]]) and the British (Tortoise) only proved that such needs for tanks were unnecessary. The Siegfried Line and other such fortifications were taken out by use of the standard issued medium tanks such as the [[M4|M4 Shermans]], proving that affordable, mass-produced vehicles could dominate the modern battlefield. The only positive note that these heavy tanks provided was that it showed the true extent of American and British industrial capabilities, being able to produce these massive monsters.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a39_tortoise Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a39_tortoise Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|-WGV2ECr-TA|'''The Shooting Range #252''' - ''Metal Beasts'' section at 00:25 discusses the {{PAGENAME}}.|B2woWvJK4ew|'''Top 7 most armoured vehicles''' discusses the {{PAGENAME}} at 0:18 - ''War Thunder Official Channel''|FafvSJDEfwA|'''Tank Chats #15 Tortoise''' - ''The Tank Museum''}}
+{{Youtube-gallery|-WGV2ECr-TA|'''The Shooting Range #252''' - ''Metal Beasts'' section at 00:25 discusses the {{PAGENAME}}.|B2woWvJK4ew|'''Top 7 most armoured vehicles'''  discusses the {{PAGENAME}} at 0:18  - ''War Thunder Official Channel''|FafvSJDEfwA|'''Tank Chats #15 Tortoise''' - ''The Tank Museum''}}
 
 == See also ==
-
 <!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''-->
 
-- [[T28]] / [[T95]]
+* [[T28]] / [[T95]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{TankManufacturer Nuffield}}
 {{Britain tank destroyers}}

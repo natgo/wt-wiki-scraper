@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian fighter {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]], though a variant existed in the [[C. 202 (Germany)|German tech tree]] prior to the update.
 
 The {{PAGENAME}} ''"Folgore"'' (''Lightning'') is an Italian fighter which is best suited to attacking other fighters and unsuited to use as a fighter bomber due to not being able to carry bombs or rockets.
@@ -25,9 +23,7 @@ A major issue the {{PAGENAME}} has is that its damage output is low: it needs ex
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 In essence very similar to the [[Bf 109 F-4]]: Great climb rate and acceleration and with good top speed and turn rate. Dive performance is great, yet the control surfaces lock up hard above 600 km/h IAS. So leave plenty of space to pull out of a dive, it reaches said speeds rather quickly! Even so the locked controls prevent G-force failure of wings. A blessing in disguise for many new inexperienced RB/SB pilots. Energy retention in Zooms is good, too. This however, is mostly due to the aforementioned climb rate which is engine enabled. A damaged engine guts and severely hinders most flight characteristics.
 
 Like its German brother at heart, the Folgore also features several downsides: the engine torque is significant and will roll the aircraft to the side when performing any kind of manoeuvre. Note the slightly longer left wing to at least neuter this effect in level flight, unlike the Bf 109 pilots who will have to permanently trim their ailerons on the runway. Further aiming and aligning yourself to the target can thusly be rather difficult, as the craft will twitch and shift significantly. As usual lead in deflection shots are the easiest approach. The control lock up was already mentioned and must always be considered.
@@ -57,7 +53,7 @@ Like its German brother at heart, the Folgore also features several downsides: t
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -90,15 +86,13 @@ Like its German brother at heart, the Folgore also features several downsides: t
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 Quite vulnerable to all weapons fire. The engine and water coolers lack any protection and are often the first to go under fire. The pilot is not much better. While the windscreen is quite thick it is also very small and the 8 mm of steel will only stop a sneeze. Any calibre past 7 mm will kiss your pilot's cheek.
 
 Ace Tip #1 applies: ''Don't get shot at!''
 
-- 8 mm Steel - Armoured headrest
-- 50 mm Bulletproof glass - Armoured windscreen
+* 8 mm Steel - Armoured headrest
+* 50 mm Bulletproof glass - Armoured windscreen
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -109,22 +103,18 @@ The Folgore's focus on energy fighting should be reflected in the desired grind 
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Breda-SAFAT (12.7 mm)|Breda-SAFAT (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 12.7 mm Breda-SAFAT machine guns, nose-mounted (400 rpg = 800 total)
-- 2 x 7.7 mm Breda-SAFAT machine guns, wing-mounted (500 rpg = 1,000 total)
+* 2 x 12.7 mm Breda-SAFAT machine guns, nose-mounted (400 rpg = 800 total)
+* 2 x 7.7 mm Breda-SAFAT machine guns, wing-mounted (500 rpg = 1,000 total)
 
 It is unfortunate that such a fast fighter is paired up with relatively weak armament of the 12.7 and 7.7 mm machine guns, however, all is not lost with this setup. Since the setup locates the two 12.7 mm machine guns in the nose and a single 7.7 mm machine gun in each wing, convergence is a must to be considered to make the shots count when the fighter engages. The punch of the machine gun ammunition starts to significantly drop beyond 400 m, therefore setting convergence between 150 and 300 m should help to concentrate all the ammunition into one area resulting maximum damage possible. The pilot must remember though, with convergence set this close, he will need to manoeuvre his fighter in close before opening up and then it is important to concentrate on critical components as just shooting into the fuselage will not do a whole lot of damage. Trying to shoot any aircraft down outside of the 400 m range may result in a "lucky" shot, but those will be few and far between.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The most important things the {{PAGENAME}} needs are speed and altitude. It is generally a good idea to climb to at least 4-5,000 meters before levelling out and gaining speed. From there on, it's Boom & Zoom, working your way from top to bottom. Priority should be given to [[P-39N-0|P-39 Airacobra's]], [[F6F-5|Hellcats]] and [[Spitfire (Family)|Spitfires]], as these are difficult opponents if they are allowed to engage on their terms. The Hellcat is a considerable problem for the {{PAGENAME}}, due to the fact it is considerably faster and climbs fairly well. The best way of dealing with them is to fight them at speeds above 400 km/h, where the Hellcat begins to stiffen up, but you retain your very good roll rate, which you can use to spoil his gun solution by constantly changing direction.
 
 While diving on your chosen target, be mindful of your speed. The {{PAGENAME}}'s rate of roll becomes considerably worse when you hit 600 km/h. However, the elevator remains functional up until around 700 km/h, and the rip speed is passed at 800 km/h. When trying to lead an enemy plane that is making a hard break turn, try to avoid making high G turns or turns that burn a lot of speed, as this rapidly bleeds speed, forcing you to engage in a dogfight where your mediocre low-speed manoeuvrability can offer an advantage to the enemy. While dogfighting is very much possible against some planes, it is advisable to run by going into a shallow dive. Climbing is a possible alternate strategy, the rate of climb is one of the best at its BR, meaning that if you have a small speed advantage you can get some separation and climb away.
@@ -153,32 +143,28 @@ The weak guns make the {{PAGENAME}} unsuited to effectively engaging bombers, es
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 [[File:C202_and_Bf_109_001.jpg|400px|thumb|right|A '''{{PAGENAME}}''' tailed by an enemy [[Bf 109 (Family)|Bf 109]].]]
 
 '''Pros:'''
 
-- One of the fastest fighters compared to comparable fighters, rip speed is above 800 kph
-- Good roll rate under 600 kph
-- One of the best rates of climb compared to its contemporaries
-- Decent performance on all altitudes
-- Decent cockpit visibility, especially to the rear
-- Decent energy retention in horizontal turns
+* One of the fastest fighters compared to comparable fighters, rip speed is above 800 kph
+* Good roll rate under 600 kph
+* One of the best rates of climb compared to its contemporaries
+* Decent performance on all altitudes
+* Decent cockpit visibility, especially to the rear
+* Decent energy retention in horizontal turns
 
 '''Cons:'''
 
-- Larger turn radius than the [[C.200 serie 3|C.200]], the C. 202 is not as agile as its predecessor
-- Dual 12.7s are inadequate compared to 20mm cannons or great amounts of 12.7s which are found on fighters from other nations
-- Thick canopy framing can make spotting hard from the cockpit view
-- Armament has poor ballistics thus requiring the pilot to close in on enemy aircraft
-- Extreme instability when using rudder turns and at low speeds in SB due to asymmetrical wings
+* Larger turn radius than the [[C.200 serie 3|C.200]], the C. 202 is not as agile as its predecessor
+* Dual 12.7s are inadequate compared to 20mm cannons or great amounts of 12.7s which are found on fighters from other nations
+* Thick canopy framing can make spotting hard from the cockpit view
+* Armament has poor ballistics thus requiring the pilot to close in on enemy aircraft
+* Extreme instability when using rudder turns and at low speeds in SB due to asymmetrical wings
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 [[File:FighterImage_Mc202folgore01.jpg|thumbnail|right|Folgore in an olive grove]]
 The famed Italian ace Maggiore Adriano Visconti flew the Folgore, including the predecessor Macchi C.200 Saetta and the successor Macchi C.205 Veltro.
 
@@ -189,28 +175,25 @@ Visconti served in Greece before being promoted to Capitano and taking command o
 Visconti remains a controversial figure due to his political alignment with Mussolini's Italian Social Republic.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=mc-202_italy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=mc-202_italy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/291927-profile-ace-of-the-month-january-maggiore-adriano-visconti/ [Profile<nowiki>]</nowiki> Ace of the Month - January - Maggiore Adriano Visconti] from the War Thunder official forum.
-- [[wt:en/news/4774-vehicle-profile-c-202-as-fast-as-lightning-en|[Devblog] C.202: As Fast As Lightning]]
-- [https://forum.warthunder.com/index.php?/topic/365069-macchi-mc202-serie-ix/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/291927-profile-ace-of-the-month-january-maggiore-adriano-visconti/ [Profile<nowiki>]</nowiki> Ace of the Month - January - Maggiore Adriano Visconti] from the War Thunder official forum.
+* [[wt:en/news/4774-vehicle-profile-c-202-as-fast-as-lightning-en|[Devblog] C.202: As Fast As Lightning]]
+* [https://forum.warthunder.com/index.php?/topic/365069-macchi-mc202-serie-ix/ Official data sheet - more details about the performance]
 
 === References ===
 <references />

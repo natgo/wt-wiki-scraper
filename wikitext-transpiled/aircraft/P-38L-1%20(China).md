@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese twin-engine fighter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -45,7 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese twin-engine fighter {{
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || ✓ || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X     <!-- ✓ -->
 |-
 |}
 
@@ -76,13 +73,12 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese twin-engine fighter {{
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 6.5 mm steel - in front of pilot
-- 38 mm bulletproof glass - windscreen
-- 6.5 mm steel - behind and below pilot
-- 9.5 mm steel - behind pilot
+* 6.5 mm steel - in front of pilot
+* 38 mm bulletproof glass - windscreen
+* 6.5 mm steel - behind and below pilot
+* 9.5 mm steel - behind pilot
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -91,32 +87,27 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese twin-engine fighter {{
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|AN/M2 (20 mm)|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 1 x 20 mm AN/M2 cannon, nose-mounted (150 rpg)
-- 4 x 12.7 mm M2 Browning machine guns, nose-mounted (500 rpg = 2,000 total)
+* 1 x 20 mm AN/M2 cannon, nose-mounted (150 rpg)
+* 4 x 12.7 mm M2 Browning machine guns, nose-mounted (500 rpg = 2,000 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AN-M64A1 (500 lb)|HVAR|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
-- 10 x HVAR rockets
-- 4 x 12.7 mm M2 Browning machine guns, wing-mounted (gunpods) (340 rpg = 1,360 total)
+* Without load
+* 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
+* 10 x HVAR rockets
+* 4 x 12.7 mm M2 Browning machine guns, wing-mounted (gunpods) (340 rpg = 1,360 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 There are a few tactics to take into consideration when using the P-38L Lightning. All of them are viable, but some of them require more attention to detail, or else you can guarantee yourself a one-way ticket back to your hangar.
@@ -178,34 +169,32 @@ Heads-up for German, Soviet and Italian players. While you may have strong nose-
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Excellent speed
-- Incredible energy retention lets you have multiple approaches on a helpless target
-- Excellent acceleration
-- Excellent climb rate
-- Very powerful armament, great for bomber hunting
-- Nose-mounted armament allows it to have fearsome head-on capability
-- Multiple armament presets; allows it to function as a ground attack and/or air superiority fighter
-- Good roll and turn time
-- Good overall visibility, especially over the nose, in Simulator battles
-- Counter-rotating propellers eliminates torque, making it easy to takeoff with in Simulator battles
-- Tricycle landing gears allows it to brake continuously until full stop, without having to worry about flipping over
-- Two sets of vertical stabiliser increases handling when damaged
+* Excellent speed
+* Incredible energy retention lets you have multiple approaches on a helpless target
+* Excellent acceleration
+* Excellent climb rate
+* Very powerful armament, great for bomber hunting
+* Nose-mounted armament allows it to have fearsome head-on capability
+* Multiple armament presets; allows it to function as a ground attack and/or air superiority fighter
+* Good roll and turn time
+* Good overall visibility, especially over the nose, in Simulator battles
+* Counter-rotating propellers eliminates torque, making it easy to takeoff with in Simulator battles
+* Tricycle landing gears allows it to brake continuously until full stop, without having to worry about flipping over
+* Two sets of vertical stabiliser increases handling when damaged
 
 '''Cons:'''
 
-- Fuel tanks catch on fire easily
-- Low initial roll rate
-- Unable to dive to put fires out without breaking wings
-- Easy to black-out if your crew's G-tolerance and Stamina are low
-- Low cannon ammunition amount compared to other planes at the rank
+* Fuel tanks catch on fire easily
+* Low initial roll rate
+* Unable to dive to put fires out without breaking wings
+* Easy to black-out if your crew's G-tolerance and Stamina are low
+* Low cannon ammunition amount compared to other planes at the rank
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 === The Twin-Body Fighter at CBI and Pacific Theatre ===
@@ -214,37 +203,32 @@ The P-38 Lightning was already a rather successful fighter used by USAAF. After 
 Thanks to the extended range of P-38, they could reach over the skies of the Korean Peninsula and even the outskirts of Japan at Kyushu, some records even suggest that these F-5Es, operated by 21st Photographic Reconnaissance Squadron, helped USAAF on delivering nukes to Hiroshima and Nagasaki.<ref>"21st Photographic Reconnaissance Squadron, U.S.A.A.F." Historical Photographs of China. University of Bristol. Accessed February 12, 2022. https://www.hpcbristol.net/photographer/21st-photographic-reconnaissance-squadron-usaaf.</ref>
 
 === Myth of P-38 Series in ROCAF ===
-Due to the lack of information on the usage of P-38 interceptors by the ROCAF, there isn't too much information on whether they fought with the Japanese or later PLAAF during the Civil War; but the recon variant, F-5E, was used rather extensively by ROCAF before the end of WWII and some 43 of them were delivered to ROCAF after the war.<ref>jpfu0313(平心鏡氣軒主人). "國軍使用過 P-38? 答案可能是這樣." 隨意窩 Xuite 日誌. Xuite, May 27, 2017. https://blog.xuite.net/jpfu0313/blog/509109195.</ref>
+Due to the lack of information on the usage of P-38 interceptors by the ROCAF, there isn't too much information on whether they fought with the Japanese or later PLAAF during the Civil War; but the recon variant, F-5E, was used rather extensively by ROCAF before the end of WWII and some 43 of them were delivered to ROCAF after the war.<ref>jpfu0313(平心鏡氣軒主人). "國軍使用過P-38? 答案可能是這樣." 隨意窩 Xuite日誌. Xuite, May 27, 2017. https://blog.xuite.net/jpfu0313/blog/509109195.</ref>
 
-Current historic research with the built number and accounting records from the USAAF shows that there isn't any direct evidence of P-38L interceptors being delivered to ROCAF, but instead P-38 based reconnaissance aircraft designated F-4 and F-5E. The only known loss of an F-5E over PLAAF (albeit piloted by Soviet pilots) was by '''Keleynikov Yuriy Yakovlevich (Келейников Юрий Яковлевич)''' of 29th GIAP, 106th IAD.<ref>Gkjlai. "蘇聯 MiG-15 擊落國軍 P-38/F-5E 偵察機" gkjlai 的部落格, March 3, 2015. https://gkjlai.pixnet.net/blog/post/360266459.</ref><ref>"Келейников Юрий Яковлевич." Accessed February 12, 2022. http://soviet-aces-1936-53.ru/abc/k/keleinikov.htm.</ref> While F-5Es successfully hinted at the existence of PLAAF jet fighters from recon photos during a flight to Shanghai, forcing ROCA to retreat from Zhejiang costal islands, in just a few years (1953) at the advent of the jet age, F-5Es were first replaced by F-6s (F-51D or K Mustangs reconfigured for reconnaissance), then newer jets like RF-84F or RB-57D.<ref>rexkuang326. "洛克希德 F-5E-4 閃電式照相偵察機(1945.5.14-1953)," May 2, 2021. https://rexkuang326.pixnet.net/blog/post/65496076.</ref>
+Current historic research with the built number and accounting records from the USAAF shows that there isn't any direct evidence of P-38L interceptors being delivered to ROCAF, but instead P-38 based reconnaissance aircraft designated F-4 and F-5E. The only known loss of an F-5E over PLAAF (albeit piloted by Soviet pilots) was by '''Keleynikov Yuriy Yakovlevich (Келейников Юрий Яковлевич)''' of 29th GIAP, 106th IAD.<ref>Gkjlai. "蘇聯MiG-15擊落國軍P-38/F-5E偵察機" gkjlai的部落格, March 3, 2015. https://gkjlai.pixnet.net/blog/post/360266459.</ref><ref>"Келейников Юрий Яковлевич." Accessed February 12, 2022. http://soviet-aces-1936-53.ru/abc/k/keleinikov.htm.</ref> While F-5Es successfully hinted at the existence of PLAAF jet fighters from recon photos during a flight to Shanghai, forcing ROCA to retreat from Zhejiang costal islands, in just a few years (1953) at the advent of the jet age, F-5Es were first replaced by F-6s (F-51D or K Mustangs reconfigured for reconnaissance), then newer jets like RF-84F or RB-57D.<ref>rexkuang326. "洛克希德 F-5E-4 閃電式照相偵察機(1945.5.14-1953)," May 2, 2021. https://rexkuang326.pixnet.net/blog/post/65496076.</ref>
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=p-38l_1_china_rocaf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=p-38l_1_china_rocaf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Aircraft of comparable role, configuration and era
-
-- Northrop [[P-61C-1|P-61]] Black Widow
-- Savoia-Marchetti [[SM.92]]
+* Northrop [[P-61C-1|P-61]] Black Widow
+* Savoia-Marchetti [[SM.92]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/272429-lockheed-p-38l-5-lo/ Official data sheet - more details about the performance]
-- [https://archive.org/details/PilotTrainingManualP38/page/n1/mode/2up/ AAF Manual 51-127-1 - Pilot Training Manual for the Lightning P-38]
+* [https://forum.warthunder.com/index.php?/topic/272429-lockheed-p-38l-5-lo/ Official data sheet - more details about the performance]
+* [https://archive.org/details/PilotTrainingManualP38/page/n1/mode/2up/ AAF Manual 51-127-1 - Pilot Training Manual for the Lightning P-38]
 
 === References ===
 <references />

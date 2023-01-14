@@ -4,9 +4,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese SPAA {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
 
 The ZSD63 is the second vehicle in the Chinese SPAA line and offers greatly improved anti-air capabilities to Chinese tankers. Though it looks rather like a jury-rigged technical from the Middle East, having a turret with twin autocannons grafted on an APC chassis, it packs some serious firepower for its rank. A slight brush from the ZSD63's rapid-fire cannons will tear aircraft and lightly armoured ground vehicles to shreds. Even medium tanks will be wary of the onslaught of AP rounds, which can cut through them like a buzzsaw. While it has excellent firepower, the defensive capabilities are lacking; the large size, paper-thin armour, and high profile make it an attractive target to anything on the battlefield. The pair of PG87 cannons have a 600 rpm fire rate that will empty its dual 40 round magazine (80 total) in just over 4 seconds, then to face a truly abysmal reload speed of 30 plus seconds! The vehicle also only carries enough ammo for 5 reloads which will vanish like magic. Its saving grace is the high velocity ammo that makes aiming easy; the succeeding Chinese SPAAs have a much lower rate of fire and lower velocity, thus harder to use against aerial targets until the [[WZ305]] and its proximity-fused shells are researched. Despite these challenges, the ZSD63 can be a very fun vehicle to play and will serve well as an anti-air vehicle even beyond its low rank.
@@ -14,7 +12,6 @@ The ZSD63 is the second vehicle in the Chinese SPAA line and offers greatly impr
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 {| class="wikitable"
@@ -35,7 +32,6 @@ Being an open topped AA with very weak armour makes it extremely susceptible to 
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=369|rbMinHp=230}}
@@ -49,9 +45,7 @@ Mobility is good, though somewhat underwhelming compared to what the statistics 
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|PG87 (25 mm)}}
 
 The {{PAGENAME}} is arguably the most lethal autocannon system at its rank in-game. Each cannon fires a staggering 10 rounds per second (600 rpm) with extremely high velocity and precision. The excellent turret traverse speed makes tracking targets very easy. Aircraft are instant confetti under its FI-T rounds. Although the AP-T penetration at 100 m is only 60 mm, declining to 47 mm at 500 m, the high fire rate and high velocity allow multiple hits at weak points until a kill shot is made. Light tanks, tank destroyers, and other SPAAs are generally easy targets. Medium units should not be too difficult to eliminate either, and even heavy tanks can be disabled by the cannons when aimed at vulnerable locations. The weaknesses are the limited belt capacity and the extremely long reload time, so be highly conservative with your fire control. This monster will be just as effective in Rank VII as in Rank II.
@@ -78,9 +72,9 @@ Avoid trying to switch belts in the middle of combat as might be done for other 
 
 ==== Ammunition ====
 
-- '''Default:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|FI-T*|Fragmentation incendiary tracer (self-destroying)}}
-- '''Type 87 HE:''' {{Annotation|FI-T*|Fragmentation incendiary tracer (self-destroying)}}
-- '''Type 87 AP:''' {{Annotation|AP-T|Armour-piercing tracer}}
+* '''Default:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|FI-T*|Fragmentation incendiary tracer (self-destroying)}}
+* '''Type 87 HE:''' {{Annotation|FI-T*|Fragmentation incendiary tracer (self-destroying)}}
+* '''Type 87 AP:''' {{Annotation|AP-T|Armour-piercing tracer}}
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="7" | Penetration statistics
@@ -111,7 +105,7 @@ Avoid trying to switch belts in the middle of combat as might be done for other 
 |-
 ! 0% !! 50% !! 100%
 |-
-| Type 87 HE || FI-T\* || 1,050 || 0.25 || 0 || 0.1 || 19 || 47° || 56° || 65°
+| Type 87 HE || FI-T* || 1,050 || 0.25 || 0 || 0.1 || 19 || 47° || 56° || 65°
 |-
 | Type 87 AP || AP-T || 1,050 || 0.25 || N/A || N/A || N/A || 47° || 60° || 65°
 |-
@@ -119,9 +113,7 @@ Avoid trying to switch belts in the middle of combat as might be done for other 
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_ZSD63-PG87.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -138,11 +130,10 @@ Avoid trying to switch belts in the middle of combat as might be done for other 
 |}
 Notes:
 
-- A box of ammunition contains 40 projectiles.
-- A rack consists of 2 boxes.
+* A box of ammunition contains 40 projectiles.
+* A rack consists of 2 boxes.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The main job for this vehicle is providing effective defence for your team against enemy aircraft. Avoid continuous firing, 1 to 2 second bursts are critical for success. The cannons have noticeable recoil and the limited ammunition capacity does not allow for much "Spray and Pray". Before any planes spawn, it is recommended to locate yourself between the points and the spawn, and find some hard cover. This way you can get close to most of your teammates and target incoming planes easier, you don't need to worry about getting shot by enemy tanks, and you can use the covers to dodge strafing planes. Then, as soon as an enemy plane spawns, slowly shoot single salvoes towards it to draw its attention. Most planes will dive in for an easy SPAA kill, knowing that all SPAA have weak armour and not-lethal-enough firepower. If it is a bomber, position your hull sideways for quick retreat from bombs. Planes diving straight towards the ZSD63 are very threatening, but at the same time they present easy no-deflection targets; use your great gunsight magnification to work out the plane's flying path, and spray a 1-sec burst of 25 mm rounds in their flight path. 1-3 hits will shred most planes apart. With this method a 40-round clip can take out 1-2 planes. Fire conservatively if the target is not flying directly towards or away from the ZSD63.
@@ -167,36 +158,34 @@ Expect to go to allied cap zones more than most vehicles to replenish ammo and p
 
 '''Enemies worth noting:'''
 
-- [[R3 T20 FA-HS]]: This popular Italian vehicle should be a player's priority target to hunt, if playing in an anti tank mode. It is extremely fast on road and bears a very deadly 20 mm rapid-firing autocannon. With the high fire rate and great speed, it can appear at unexpected positions and easily finish the {{PAGENAME}} with a 2-second burst. To deal with it, the full AP belt is very handy. Aim at the front half of its hull and tap to fire single salvos, and the {{PAGENAME}} can knock out all of its crews quickly.
-- [[Wirbelwind]]: this is another big threat. It has two types of AP belts, and both of them can penetrate the {{PAGENAME}}'s armour. Plus the good rate of fire and four barrels it can be equally deadly as the R3 T20. It also has better survivability in terms of hull armour and crew number: 80 mm of frontal armour means that the {{PAGENAME}}'s guns cannot penetrate it in a frontal encounter, while the rather spread out crew makes it harder to knock it out in time. Aim at its turret and wipe out all the turret crew to disarm it. Of course, aim at the hull side/rear if it's not facing the {{PAGENAME}} frontally.
-- [[Ju 87 (Family)|Ju 87]], [[Bf 110 (Family)|Bf 110]], etc: utmost care should be taken when facing against bomb-equipped planes since even if they are considered destroyed, they can still drop their bombs around the {{PAGENAME}} which, given its weak armour, will likely result in the vehicle getting destroyed by the bombs. Common examples include the Ju 87 and Bf 110 series as they can carry bombs of up to 1,000 kg which is a huge threat. As mentioned above, find hard cover and point the hull sideways so the {{PAGENAME}} can quickly get away from the bombs.
+* [[R3 T20 FA-HS]]: This popular Italian vehicle should be a player's priority target to hunt, if playing in an anti tank mode. It is extremely fast on road and bears a very deadly 20 mm rapid-firing autocannon. With the high fire rate and great speed, it can appear at unexpected positions and easily finish the {{PAGENAME}} with a 2-second burst. To deal with it, the full AP belt is very handy. Aim at the front half of its hull and tap to fire single salvos, and the {{PAGENAME}} can knock out all of its crews quickly.
+* [[Wirbelwind]]: this is another big threat. It has two types of AP belts, and both of them can penetrate the {{PAGENAME}}'s armour. Plus the good rate of fire and four barrels it can be equally deadly as the R3 T20. It also has better survivability in terms of hull armour and crew number: 80 mm of frontal armour means that the {{PAGENAME}}'s guns cannot penetrate it in a frontal encounter, while the rather spread out crew makes it harder to knock it out in time. Aim at its turret and wipe out all the turret crew to disarm it. Of course, aim at the hull side/rear if it's not facing the {{PAGENAME}} frontally.
+* [[Ju 87 (Family)|Ju 87]], [[Bf 110 (Family)|Bf 110]], etc: utmost care should be taken when facing against bomb-equipped planes since even if they are considered destroyed, they can still drop their bombs around the {{PAGENAME}} which, given its weak armour, will likely result in the vehicle getting destroyed by the bombs. Common examples include the Ju 87 and Bf 110 series as they can carry bombs of up to 1,000 kg which is a huge threat. As mentioned above, find hard cover and point the hull sideways so the {{PAGENAME}} can quickly get away from the bombs.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Excellent firepower against planes and light & medium tanks
-- Extremely high rate of fire, making it deadly against any and all aircraft
-- Great -10 degrees gun depression allows engagements in hilly terrain
-- High top speed allows it to get to positions in time
-- Thin armour can lead to some shells over-penetrating without detonation (e.g. 122 mm)
-- Huge gap behind the driving compartment and below the turret can absorb shells
-- Great gun sight magnification allows easy snipes from long range
+* Excellent firepower against planes and light & medium tanks
+* Extremely high rate of fire, making it deadly against any and all aircraft
+* Great -10 degrees gun depression allows engagements in hilly terrain
+* High top speed allows it to get to positions in time
+* Thin armour can lead to some shells over-penetrating without detonation (e.g. 122 mm)
+* Huge gap behind the driving compartment and below the turret can absorb shells
+* Great gun sight magnification allows easy snipes from long range
 
 '''Cons:'''
 
-- A rather long reload of at least 13 seconds
-- High rate of fire can empty the magazine in 4 seconds
-- Low magazine capacity (2 x 40 rounds) as well as low total ammunition capacity (only 480 rounds)
-- Very poor survivability due to its light armour and open-topped turret with exposed crew
-- Fuel tanks are easily set on fire
-- High profile makes it easier to get spotted and shot at
-- AP round is not powerful enough to penetrate heavy tanks even at point blank range
+* A rather long reload of at least 13 seconds
+* High rate of fire can empty the magazine in 4 seconds
+* Low magazine capacity (2 x 40 rounds) as well as low total ammunition capacity (only 480 rounds)
+* Very poor survivability due to its light armour and open-topped turret with exposed crew
+* Fuel tanks are easily set on fire
+* High profile makes it easier to get spotted and shot at
+* AP round is not powerful enough to penetrate heavy tanks even at point blank range
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The 装甲输送车 (Zhuangjia Shusong Che, Armoured Personnel Carrier) ZSD63 was China's first domestic armoured vehicle design. China initiated the work in 1958 with a prototype finished in 1960. It is also sometimes called the "Type 63", both a name system used to refer to Julian year of production start. The basic steel box design is simple and functional, designed for small arms protection and have all terrain operation with amphibious capabilities. Although it is a domestic Chinese design, the Soviet design influence is strongly visible. Thousands have been produced with hundreds sold to other countries making it one of the most successful military vehicles built.
@@ -211,12 +200,11 @@ Around the same time, the Chinese military was in dire need of a new mobile SPAA
 The result of this undertaking was an SPAA variant of the Type 63 APC, which entered service with the Chinese military some time in the late 1980's and early 1990's. It's unknown exactly how many APC's were converted onto the SPAAG standard nor if the vehicle is still in active service today.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=cn_zsd63_pg87 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=cn_zsd63_pg87 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 '''Images'''<gallery mode="packed" caption="Devblog Images" heights="150">
 File:ZSD-63 WTWallpaper 01.jpg|
@@ -231,24 +219,22 @@ File:ZSD-63 WTWallpaper 06.jpg|
 {{Youtube-gallery|QAM5QTzjZLg|'''Spade Review: {{PAGENAME}}. A Powerful but limited AA''' - ''Joseph 2000''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
 
-- [[Wirbelwind]]
-- [[Crusader AA Mk II]]
+* [[Wirbelwind]]
+* [[Crusader AA Mk II]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6702-development-zsd-63-twin-barrel-mower-en|[Devblog] ZSD63: twin-barrel mower]]
-- [[wikipedia:Type_63_(armoured_personnel_carrier)|[Wikipedia] Type 63 (armoured personnel carrier)]]
+* [[wt:en/news/6702-development-zsd-63-twin-barrel-mower-en|[Devblog] ZSD63: twin-barrel mower]]
+* [[wikipedia:Type_63_(armoured_personnel_carrier)|[Wikipedia] Type 63 (armoured personnel carrier)]]
 
 {{TankManufacturer Norinco}}
 {{China anti-aircraft vehicles}}

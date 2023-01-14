@@ -4,34 +4,31 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish medium tank {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]]. This T-34 is a 1941 model, captured by the Finnish army during the Continuation War. It is almost completely identical to the Soviet [[T-34 (1941)]], except that it lacks the ability to equip add-on armour.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (Hull, Turret)
-- Cast homogeneous armour (Driver's hatch, Machine gun mount)
+* Rolled homogeneous armour (Hull, Turret)
+* Cast homogeneous armour (Driver's hatch, Machine gun mount)
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 45 mm (60°) ''Front glacis'' <br> 40 mm (1-73°) ''Machine gun ball mount'' <br> 45 mm (60°) ''Driver's hatch'' <br> 100 mm (5-35°) ''Welded glacis joint'' <br> 45 mm (60°) ''Lower glacis'' || 40 mm (40°) ''Top'' <br> 45 mm ''Bottom'' || 40 mm (49°) ''Top'' <br> 40 mm (47°) ''Bottom'' || 20 mm
+| Hull || 45 mm (60°) ''Front glacis'' <br> 40 mm (1-73°) ''Machine gun ball mount'' <br> 45 mm (60°) ''Driver's hatch'' <br> 100 mm (5-35°) ''Welded glacis joint'' <br> 45 mm (60°) ''Lower glacis'' || 40 mm (40°) ''Top'' <br> 45 mm ''Bottom'' || 40 mm (49°) ''Top''  <br>  40 mm (47°) ''Bottom'' || 20 mm
 |-
 | Turret || 45 mm (3-75°) ''Turret front'' <br> 45 mm (2-78°) ''Gun mantlet'' || 45 mm (30°) || 45 mm (30°) || 15 mm
 |-
 |}
 '''Notes:'''
 
-- Suspension wheels and tracks are 20 mm thick.
+* Suspension wheels and tracks are 20 mm thick.
 
 The T-34's armour, even though only 45 mm thick on the front, is angled at 60°, which increases its effective thickness and the ability to ricochet or bounce enemy shells. Never let your enemies see your sides, as they are thinner, less angled and your enemies can easily penetrate it. The turret is still 45 mm thick, but much less angled. If your enemy penetrates your turret with APHE shells, you're a goner. Always angle your armour.
 
@@ -39,9 +36,7 @@ The T-34 has a crew of 4 men packed tightly together, and one shot could incapac
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-
 The tank's mobility is impressive due to the very generous hp/ton ratio the engine provides to the medium tank. The wide tracks also help with traction across softer ground, so the T-34 (1941) is less likely to be bogged down in more wet terrain like in the map [[Jungle]].
 
 Exploit the T-34 (1941)'s mobility with its highly-angled hull armour to wreck havoc in the enemy lines by breaking through and marauding their controlled zones.
@@ -55,9 +50,7 @@ Exploit the T-34 (1941)'s mobility with its highly-angled hull armour to wreck h
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|F-34 (76 mm)}}
 
 The T-34 (1941)'s 76 mm F-34 is overall better gun compared to the preceding L-11 gun, with much better armour-piercing characteristics, shell muzzle velocity, and faster reload time. The F-34 gun essentially makes the 76 mm-armed T-34 a menace in lower rank battles by being able to penetrate even heavy tanks with a well-placed hit.
@@ -73,10 +66,10 @@ Of the three armour-piercing shells available, the two most recommended shells t
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 77 || rowspan="2" | -5°/+30° || rowspan="2" | ±180° || rowspan="2" | N/A || **.\_ || **._ || \_\_._ || **.\_ || **._ || rowspan="2" | _.** || rowspan="2" | \_.** || rowspan="2" | _.\_\_ || rowspan="2" | _.**
+| rowspan="2" | 77 || rowspan="2" | -5°/+30° || rowspan="2" | ±180° || rowspan="2" | N/A || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
 |-
 ! ''Realistic''
-| **._ || \_\_._ || **.\_ || **._ || \_\_._
+| __._ || __._ || __._ || __._ || __._
 |-
 |}
 
@@ -142,10 +135,8 @@ Of the three armour-piercing shells available, the two most recommended shells t
 |}
 
 ==== [[Ammo racks]] ====
-
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -157,18 +148,16 @@ Of the three armour-piercing shells available, the two most recommended shells t
 ! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''77''' || **&nbsp;''(+**)'' || **&nbsp;''(+**)'' || **&nbsp;''(+**)'' || **&nbsp;''(+**)'' || **&nbsp;''(+**)'' || **&nbsp;''(+**)'' || \_\_
+| '''77''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
 |-
 |}
 
-- To go into battle with the flanks empty of shells, pack 69 ''(+8) shells'' (racks 1 & 2 depleted).
-- As they are modeled by sets of 2, shells disappear from the rack only after you fire both shells in the set.
+* To go into battle with the flanks empty of shells, pack 69 ''(+8) shells'' (racks 1 & 2 depleted).
+* As they are modeled by sets of 2, shells disappear from the rack only after you fire both shells in the set.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|DT (7.62 mm)}}
 
 ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.''
@@ -179,13 +168,12 @@ Of the three armour-piercing shells available, the two most recommended shells t
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || **_ (_**) || **\_ || **° || \_\_°
+| || ___ (___) || ___ || __° || __°
 |-
 |}
 A standard coaxial machine gun. The only major difference the DT has compared to other nation's machine gun armament is the magazine-fed system. While this means the firing time between reloading is shorter, reload time is also shorter to get the weapon back into action.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The T-34 (1941) is one of the most well-rounded medium battle tanks at its rank, along with the German [[Pz.IV F2]] and United States [[M4|M4 Sherman]] tanks. The sloped armour, great acceleration with good speed and 76.2 mm cannon make it a force to be reckoned with especially against inexperienced players, meanwhile when facing experienced players, however, it can become scrap metal pretty fast. Compared to the [[T-34 (1940)|1940 version]], the 1941 gets a better 76.2 mm cannon which greatly improves the penetration power but still keeps the 1940 model turret. At distance, the sloped armour is efficient at blocking shells from enemy tanks with relatively short and small-calibre cannons even some long barrel and high calibre guns can also have trouble penetrating on the sloped armour if used well. Even with its sloped armour advantages, a T-34 is a relatively easy tank to knock out specifically with a well-placed shot. With the crew operating in a compact space around the turret, which is located in the centre of the tank where it is a very limited space to operate in makes it an easy tank to knock out the crew with a single blow from a shell with a good amount of high explosive filling. Also, be mindful of the T-34's turret. It is a weak spot and can be easily penetrated by an enemy shell and will with ease knock out the tank and its crew.
@@ -200,64 +188,56 @@ Open fields are not the optimal combat situation for the T-34 1941 with its crew
 
 '''Common opponents''':
 
-- [[M4]], [[M4A2]] - The T-34's 76 mm gun cannot penetrate the welded hull M4/M4A2 reliably from the front, while the 75 mm gun on the M4/M4A2 can penetrate the T-34's turret and disable or cripple it. They do have very weak lower side hull armour (only 38 mm) that can be overmatched by the 76 mm APHEBC round if exposed, and the flat areas on the turret can also be penetrated fairly reliably if they can be hit. Generally avoid head-on engagements, especially if the M4 is hull-down.
-- [[M4A1]], [[Sherman II]] - Similar to the M4/M4A2, except that the cast hull is weaker than the welded hull on the M4/M4A2, and can be penetrated frontally. Otherwise, the same advice applies.
-- [[Pz.IV F2]], [[Pz.IV G|G]], [[Pz.IV H|H]], [[Pz.IV J|J]] - The Ausf. F2 variant is the first Panzer IV to mount a long-barreled 75 mm gun. This gun is one of the most lethal mounted on any tank within the T-34's BR range, and it is easily capable of penetrating the T-34 at most ranges. The Ausf. F2 has very weak armour, however, and is something of a glass cannon. The Ausf. G, H, and J have up-armoured hulls that are quite difficult to penetrate, but their turrets are as weak as the one on the F2. The Ausf. J, in particular, has manual turret traverse and is very vulnerable to being flanked. Avoid long-range duels with them.
-- [[Chi-Nu II]] - Essentially the Japanese counterpart to the German Panzer IV Ausf. F2.
-- [[Churchill III]], [[Pz.Kpfw. Churchill (Germany)]] - The 6-pounder gun on the Churchill will be hard-pressed to penetrate the sloped T-34 hull, but it can easily penetrate the turret and disable the turret crew. It is difficult to penetrate the frontal armour of the Churchill at long ranges. However, it is a slow, cumbersome heavy tank, and is easy to outflank and dispatch with shots to the side armour.
+* [[M4]], [[M4A2]] - The T-34's 76 mm gun cannot penetrate the welded hull M4/M4A2 reliably from the front, while the 75 mm gun on the M4/M4A2 can penetrate the T-34's turret and disable or cripple it. They do have very weak lower side hull armour (only 38 mm) that can be overmatched by the 76 mm APHEBC round if exposed, and the flat areas on the turret can also be penetrated fairly reliably if they can be hit. Generally avoid head-on engagements, especially if the M4 is hull-down.
+* [[M4A1]], [[Sherman II]] - Similar to the M4/M4A2, except that the cast hull is weaker than the welded hull on the M4/M4A2, and can be penetrated frontally. Otherwise, the same advice applies.
+* [[Pz.IV F2]], [[Pz.IV G|G]], [[Pz.IV H|H]], [[Pz.IV J|J]] - The Ausf. F2 variant is the first Panzer IV to mount a long-barreled 75 mm gun. This gun is one of the most lethal mounted on any tank within the T-34's BR range, and it is easily capable of penetrating the T-34 at most ranges. The Ausf. F2 has very weak armour, however, and is something of a glass cannon. The Ausf. G, H, and J have up-armoured hulls that are quite difficult to penetrate, but their turrets are as weak as the one on the F2. The Ausf. J, in particular, has manual turret traverse and is very vulnerable to being flanked. Avoid long-range duels with them.
+* [[Chi-Nu II]] - Essentially the Japanese counterpart to the German Panzer IV Ausf. F2.
+* [[Churchill III]], [[Pz.Kpfw. Churchill (Germany)]] - The 6-pounder gun on the Churchill will be hard-pressed to penetrate the sloped T-34 hull, but it can easily penetrate the turret and disable the turret crew. It is difficult to penetrate the frontal armour of the Churchill at long ranges. However, it is a slow, cumbersome heavy tank, and is easy to outflank and dispatch with shots to the side armour.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Sloped 40-45 mm hull armour is effective at deflecting small/medium calibre shells
-- Wide tracks and powerful engine brings great mobility, can keep up with light vehicles like [[M24 (Family)|M24]]
-- 76 mm cannon's great damage can one-shot most common foes like [[M4]], [[T-34 (Family)|T-34]]
-- Relatively fast turret traverse allows it to deal with multiple targets or flanker confidentally
-- Small profile, harder to get spotted & shot at
-- Large fuel tanks next to the engine can protect it by absorbing some shells
+* Sloped 40-45 mm hull armour is effective at deflecting small/medium calibre shells
+* Wide tracks and powerful engine brings great mobility, can keep up with light vehicles like [[M24 (Family)|M24]]
+* 76 mm cannon's great damage can one-shot most common foes like [[M4]], [[T-34 (Family)|T-34]]
+* Relatively fast turret traverse allows it to deal with multiple targets or flanker confidentally
+* Small profile, harder to get spotted & shot at
+* Large fuel tanks next to the engine can protect it by absorbing some shells
 
 '''Cons:'''
 
-- -7 km/h reverse is slow, can put the player in a fatal situation
-- -5° gun depression doesn't allow it to perform well in mountainous terrain
-- Lacklusture penetration (99 mm max) makes well-armoured targets ([[KV-1 (Family)|KV-1]], [[Churchill I]], [[T14]], etc) hard to kill
-- Cramped crew locations, very easy to get one-shot by tanks using shells with explosive filler (eg. [[M24]], [[T-34 (Family)|T-34]])
-- Max 3.5x gunsight zoom makes distant engagement challenging
+* -7 km/h reverse is slow, can put the player in a fatal situation
+* -5° gun depression doesn't allow it to perform well in mountainous terrain
+* Lacklusture penetration (99 mm max) makes well-armoured targets ([[KV-1 (Family)|KV-1]], [[Churchill I]], [[T14]], etc) hard to kill
+* Cramped crew locations, very easy to get one-shot by tanks using shells with explosive filler (eg. [[M24]], [[T-34 (Family)|T-34]])
+* Max 3.5x gunsight zoom makes distant engagement challenging
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-
 ''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ; Related development
 
-- [[T-34 (Family)]]
+* [[T-34 (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{Sweden medium tanks}}

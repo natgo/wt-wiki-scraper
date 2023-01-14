@@ -5,20 +5,17 @@
 }}
 {{Specs-Card
 |code=f-5a
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |market=id50153_f_5a_usa
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American jet fighter {{Battle-rating}}. It was introduced during [[Update "Direct Hit"]] as a reward for the [[wt:en/news/7350-event-export-order-en|2021 Export Order]] event.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -46,7 +43,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American jet fighter {{Ba
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || X || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -112,9 +109,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American jet fighter {{Ba
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 The F-5A has neither armour plates nor bulletproof glass and the fuel tanks are self-sealing.
 
 === Modifications and economy ===
@@ -124,38 +119,34 @@ The F-5A has neither armour plates nor bulletproof glass and the fuel tanks are 
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M39A2 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 2 x 20 mm M39A2 cannons, nose-mounted (280 rpg = 560 total)
-  ** 2 x 20 mm M39A2 cannons (280 rpg = 560 total) + 60 x countermeasures
+* A choice between two presets:
+** 2 x 20 mm M39A2 cannons, nose-mounted (280 rpg = 560 total)
+** 2 x 20 mm M39A2 cannons (280 rpg = 560 total) + 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
 {{main|AGM-12B Bullpup|AIM-9E Sidewinder|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|BLU-1 incendiary}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x AIM-9E Sidewinder missiles
-- 18 x 250 lb LDGP Mk 81 bombs (4,500 lb total)
-- 5 x 500 lb LDGP Mk 82 bombs (2,500 lb total)
-- 5 x 750 lb M117 cone 45 bombs (3,750 lb total)
-- 3 x 1,000 lb LDGP Mk 83 bombs (3,000 lb total)
-- 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
-- 8 x Zuni Mk32 Mod 0 ATAP rockets
-- 76 x FFAR Mighty Mouse rockets
-- 4 x AGM-12B Bullpup missiles
-- 5 x BLU-1 incendiary bombs
+* Without load
+* 2 x AIM-9E Sidewinder missiles
+* 18 x 250 lb LDGP Mk 81 bombs (4,500 lb total)
+* 5 x 500 lb LDGP Mk 82 bombs (2,500 lb total)
+* 5 x 750 lb M117 cone 45 bombs (3,750 lb total)
+* 3 x 1,000 lb LDGP Mk 83 bombs (3,000 lb total)
+* 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
+* 8 x Zuni Mk32 Mod 0 ATAP rockets
+* 76 x FFAR Mighty Mouse rockets
+* 4 x AGM-12B Bullpup missiles
+* 5 x BLU-1 incendiary bombs
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -196,29 +187,24 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 As the F-5A does not have any radar-guided missiles (AIM-7s or equivalent), and it's not particularly fast, it is recommended to stay low and try to avoid the first clash between teams by flying to the side. When flying into the aforementioned engagement zone, pick out single fights or distracted enemies. The AIM-9E is not a reliable weapon and is easy to dodge, so try not to take missile shots from the sides or at a heavily manoeuvring opponent. When the opportunity to dogfight arises, take it only when you're sure other enemies are either distanced or far enough away from your position to not interrupt your fight and pick you off. When in a dogfight, you are almost always superior in manoeuvrability when compared to your opponent. MiG-21s or the J35s will be better in the first turn, but they bleed a lot of speed due to their delta wing design. Avoid their guns in the first turn, and use yours to take them out. While you have only 2 guns, they have a high muzzle velocity, making them easy to aim. The only downside with the cannons is their damage potential: you need to put several rounds on a target to destroy it.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Excellent manoeuvrability
-- Great amount of Countermeasures
+* Excellent manoeuvrability
+* Great amount of Countermeasures
 
 '''Cons:'''
 
-- Relatively low top speed
-- No radar-guided missiles
+* Relatively low top speed
+* No radar-guided missiles
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The F-5A Freedom Fighter is a light fighter designed by Northrop in the 1950s. Designed as a private export venture, the aircraft was designed in both fighter and trainer variants (N-156F and N-156T). The F-5A entered service in the 1960s and was widely exported under the US's Military Assistance Program to developing countries. The F-5A would later be developed into the more advanced F-5E, and later on, serve as the basis of the YF-17 / F/A-18.
 
 === Design and development ===
@@ -235,35 +221,31 @@ Being designed for export, a total of 624 F-5As were produced by Northrop, inclu
 Later on, the F-5A would lead to more advanced variants. In 1970, Northrop won a competition for a new light export fighter, with a much larger focus on air-to-air combat to counter the threat from late-generation MiG-21s. This aircraft was the [[F-5E]]/F, advanced versions of the earlier F-5A/Bs now renamed "Tiger II". The F-5E was similarly widely-exported and modified versions are still in service with export customers, and several aircraft served with NAS Miramar (the so-called TOPGUN) as adversary aircraft, mimicking the MiG-21. Finally, the F-5A's airframe served as the basis of several design studies which culminated in the YF-17 "Cobra", a light fighter that lost the USAF LightWeight Fighter (LWF) competition to the F-16 Fighting Falcon. The YF-17 would later be enlarged into the F/A-18 Hornet, which is operated by the US Navy as a multirole combat aircraft.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=f-5a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f-5a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/7346-development-export-order-f-5a-usa-en|[Devblog] "Export Order": F-5A (USA)]]
+* [[wt:en/news/7346-development-export-order-f-5a-usa-en|[Devblog] "Export Order": F-5A (USA)]]
 
 === References ===
 
-- Sherman, R. (1999, December 27). F-5 Freedom Fighter / Tiger. FAS Military Analysis Network. Retrieved December 22, 2021, from <nowiki>https://man.fas.org/dod-101/sys/ac/f-5.htm</nowiki>
-- Yarrish, G. (2020, February 26). Northrop F-5 Freedom Fighter. Flight Journal. Retrieved December 22, 2021, from <nowiki>https://www.flightjournal.com/northrop-f-5-freedom-fighter/</nowiki>
+* Sherman, R. (1999, December 27). F-5 Freedom Fighter / Tiger. FAS Military Analysis Network. Retrieved December 22, 2021, from <nowiki>https://man.fas.org/dod-101/sys/ac/f-5.htm</nowiki>
+* Yarrish, G. (2020, February 26). Northrop F-5 Freedom Fighter. Flight Journal. Retrieved December 22, 2021, from <nowiki>https://www.flightjournal.com/northrop-f-5-freedom-fighter/</nowiki>
 
 {{USA jet aircraft}}

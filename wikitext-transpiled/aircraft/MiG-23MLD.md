@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet jet fighter {{Battle-rating}}. It was introduced in [[Update "Ground Breaking"]].
 
 The MiG-23MLD is the ultimate production fighter variant of the "Flogger" family. Though it still looks quite similar to the [[MiG-23M]], there are a great number of improvements: the airframe is lighter, aerodynamic refinements like vortex generators and a revised vertical stabilizer have been installed, the engine is much more powerful, and a new avionics suite allows it to use the R-24 series of medium-range missiles instead of the MiG-23M's R-23s, among other changes. The MLD fixes many of the MiG-23M's shortcomings and continues to improve on its strengths. The end result is well-rounded fighter with excellent performance and potent armament, a worthy opponent to other top-tier jets like the [[JA37C|JA37C Viggen]] and [[F-4EJ Kai Phantom II|F-4EJ Kai Phantom]].
@@ -19,7 +17,6 @@ The MiG-23MLD is the ultimate production fighter variant of the "Flogger" family
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 The MiG-23MLD's performance leaves little to be desired. The MiG-23M boasted a high top speed but was somewhat underpowered; this is very much fixed on the MLD because its engine is 20% more powerful, and as a result its thrust-to-weight ratio practically matches the [[F-104S]] and [[MiG-21bis]]. It has an excellent climb rate exceeding 200 m/s at sea level and fantastic acceleration, particularly at transonic or supersonic speeds when the wings can be swept back. Thus, the MLD will have few issues rushing to the front lines, climbing for an altitude advantage, or chasing down a fleeing opponent.
@@ -53,7 +50,7 @@ There are a few quirks to watch out for. First, the MiG-23MLD's excellent engine
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || ✓ || X || ✓ <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -122,9 +119,7 @@ There are a few quirks to watch out for. First, the MiG-23MLD's excellent engine
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
 
 === Modifications and economy ===
@@ -143,16 +138,14 @@ There are a few quirks to watch out for. First, the MiG-23MLD's excellent engine
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|GSh-23L (23 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 1 x 23 mm GSh-23L cannon, belly-mounted (200 rpg)
-  ** 1 x 23 mm GSh-23L cannon + 72 x large calibre countermeasures
+* A choice between two presets:
+** 1 x 23 mm GSh-23L cannon, belly-mounted (200 rpg)
+** 1 x 23 mm GSh-23L cannon + 72 x large calibre countermeasures
 
 The MiG-23MLD still retains the 23 mm GSh-23L cannon with 200 rounds from the MiG-23M. It has an excellent rate of fire and will likely do significant damage if it hits a target, but the muzzle velocity is unimpressive and it can be a challenge to aim it properly in high speed engagements. It's generally best to reserve the gun for extended dogfights where the MLD can use its manoeuvrability to pull lead on a slower target. The limited ammunition supply means that the average pilot can only expect a kill or two with the gun before needing to go back to base.
 
@@ -160,9 +153,7 @@ The MLD has a far healthier supply of countermeasures than the MiG-23M. It retai
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|OFAB-100 (100 kg)|FAB-250M-62 (250 kg)|FAB-500M-62 (500 kg)|ZB-500 incendiary}}
 {{main|S-5K|S-8KO|S-24B|GSh-23L (23 mm)}}
 {{main|R-23R|R-23T|R-24R|R-24T}}
@@ -170,24 +161,24 @@ The MLD has a far healthier supply of countermeasures than the MiG-23M. It retai
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x R-13M1 missiles
-- 4 x R-13M1 missiles
-- 6 x R-60M missiles
-- 2 x R-23R missiles
-- 2 x R-23T missiles
-- 2 x R-24R missiles
-- 2 x R-24T missiles
-- 64 x S-5K rockets
-- 64 x S-5K rockets
-- 40 x S-8KO rockets
-- 4 x S-24B rockets
-- 2 x Kh-23M missiles
-- 16 x 100 kg OFAB-100 bombs (1,600 kg total)
-- 4 x 250 kg FAB-250M-62 bombs (1,000 kg total)
-- 2 x 500 kg FAB-500M-62 bombs (1,000 kg total)
-- 2 x ZB-500 incendiary bombs
-- 2 x 23 mm GSh-23L cannons (250 rpg = 500 total)
+* Without load
+* 2 x R-13M1 missiles
+* 4 x R-13M1 missiles
+* 6 x R-60M missiles
+* 2 x R-23R missiles
+* 2 x R-23T missiles
+* 2 x R-24R missiles
+* 2 x R-24T missiles
+* 64 x S-5K rockets
+* 64 x S-5K rockets
+* 40 x S-8KO rockets
+* 4 x S-24B rockets
+* 2 x Kh-23M missiles
+* 16 x 100 kg OFAB-100 bombs (1,600 kg total)
+* 4 x 250 kg FAB-250M-62 bombs (1,000 kg total)
+* 2 x 500 kg FAB-500M-62 bombs (1,000 kg total)
+* 2 x ZB-500 incendiary bombs
+* 2 x 23 mm GSh-23L cannons (250 rpg = 500 total)
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -252,7 +243,6 @@ The MiG-23MLD has similar loadouts to the MiG-23M. The main difference is that i
 For ground attack, the MLD can use various unguided bombs and rockets. The only guided air-to-ground option is the Kh-23M MCLOS missile. It does have a ballistic computer but it can only provide CCIP guidance for the guns/gun pods and rockets. As dedicated attackers, the related [[MiG-27M]] and [[MiG-27K]] are much better options.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The MiG-23MLD is a fairly forgiving fighter that can be used for many approaches. Players who want to beeline straight into battle and jump in dogfights will be satisfied by its great acceleration and dogfight performance. Those who prefer to hang back can use its climb rate to build up altitude and energy while observing the battle below. From this point, fans of long range combat can sling the R-24R radar-guided missiles to snipe targets at long range or low altitude, and opportunistic pilots can sneak in from the sidelines and use the IRST in conjunction with the R-24T IR missiles to eliminate distracted targets. The MiG-23MLD does not reign supreme in the pure beyond-visual-range role because it can only carry two R-24Rs compared to the four AIM-7E-2s or Skyflashes carried by the [[F-4EJ Kai Phantom II]] and [[Phantom FGR.2]] for example, so one should plan on getting close and dogfighting at some point to not let the MLD's full capabilities go to waste.
@@ -272,9 +262,7 @@ Firstly, a {{PAGENAME}} pilot should be familiar with how to defeat certain rada
 Once a F-14 has been identified, three different threat envelopes need to be recognized.
 
 # AIM-54 Phoenix: Perhaps the aircraft's most famous armament, the F-14's Phoenix missiles are unique in their extremely long firing range of tens of kilometers away. However, do not be discouraged! There are many limitations with missile that can be exploited to reduce the chance of a hit. First is that if fired at a long-range, the Phoenix missile can be identified by its long smoke trail from the F-14 aircraft. This allows not only a {{PAGENAME}} pilot to recognize a F-14 is present, but also perform evasive maneuvers. The second is that from a long-range firing, the Phoenix are not utilizing its "active-radar homing" (ARH) abilities and is instead utilizing inertial navigation at its launch. This means the missile is not actively tracking the aircraft, but simply homing towards the general direction of the {{PAGENAME}}'s vector and once within range, will activate its radar for the active homing towards the final target. This means that until the active radar homing is on, the {{PAGENAME}} can evade and escape where the missile will think the {{PAGENAME}} will be. If successful and once the Phoenix turns on its radar, it will not be able to locate the {{PAGENAME}} and therefore not be able to home in. If the Phoenix does end up targeting right at the {{PAGENAME}}, a copious amount of chaff and maneuverability should be sufficient to perform an evasion against the missile's final run.
-
 # AIM-7F Sparrow: A familiar missile that {{PAGENAME}} will know fighting against F-4Js, the AIM-7F is more lethal with the F-14 as the aircraft can carry more and has a more capable radar. In fact, it can be argued the Sparrow is a comparatively underrated weapon in the pylons of a F-14 due to the aircraft's capabilities enhancing the missile's own. By the time the F-14 is within optimum range to use the Sparrow, there is often very little time for the {{PAGENAME}} to perform the right action to evade the missile, especially during a head-on. A F-14 using a Sparrow less than 10 km away will be more dangerous than a F-14 using a Phoenix from 40 km away. Take extreme caution against F-14 pilots that bring Sparrows over the Phoenixes.
-
 # AIM-9 Sidewinders: A very familiar missile all close-range dogfighters are familiar with. The F-14 has access to a wide variety of Sidewinder missiles, but its most lethal is the AIM-9H. Once again, though the missile's capability is not too dramatically different from past Sidewinders like the AIM-9G from the F-4J, the F-14's capabilities especially in slow maneuverability makes the Sidewinder a concerning weapon against even a unswept wing {{PAGENAME}}. While flares should be sufficient in interfering with a Sidewinder lock, maneuverability and engine management needs to be accounted so the Sidewinder still does not see the after-burning engine as a more enticing target than the flares.
 
 So now that the F-14's capabilities are familiarized with, how should a {{PAGENAME}} pilot attack a F-14?
@@ -286,65 +274,58 @@ Utilize the {{PAGENAME}}'s IRST function instead of the standard radar in order 
 If the F-14 notices the {{PAGENAME}} and its missile, the situation will quickly get out of hand as the F-14 has decent countermeasures to throw off the {{PAGENAME}}'s IR missiles. Once a F-14 is aware of the {{PAGENAME}} position at its sides or rear, additional missiles may prove fruitless as the enemy pilot would have their countermeasures primed and ready. The {{PAGENAME}} pilot can now only hope that the F-14 is too pre-occupied at the tailing {{PAGENAME}} that allies can approach and take out the distracted F-14 pilot. If alone, the situation can go two ways:
 
 # The F-14A will utilize its better engines and accelerate away from the {{PAGENAME}} while utilizing countermeasures to ensure missiles cannot reach it. While it may be hoped the F-14's evasive maneuvers would slow it down enough for the {{PAGENAME}} to catch up, this is unlikely and the F-14A may speed away and decide to re-engage the {{PAGENAME}} on its own terms or return to the airfield.
-
 # The situation may devolve into a close-range dogfight with IR missiles and gun, with energy management of the planes dependent on pilot's abilities between F-14 and MiG-23. However, this is a relatively disadvantageous situation for the {{PAGENAME}} pilot to get itself in as chances are if it is tangling with one F-14, there is another coming in from another angle ready to stick a Sidewinder up the {{PAGENAME}}'s engine exhaust.
 
 However the engagement carries out, the {{PAGENAME}} pilot needs to be aware that the F-14A is a formidable plane and should be prioritized appropriately with allies. Most importantly, recognize that fighting a team of F-14As is not a one-pilot deal; utilize allies to help break off tailing F-14s or take down distracted F-14s to whittle away their numbers to annihilate the enemy team.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Very high acceleration and top speed
-- Agile in dogfights
-- Good countermeasure supply
-- Access to powerful R-24 missiles for distant targets
-- Has an IRST for stealthy target acquisition
-- Radar has ACM mode
-- Extraordinarily fast, it will overspeed at any altitude, including at altitude 13 km at Mach 2.4
+* Very high acceleration and top speed
+* Agile in dogfights
+* Good countermeasure supply
+* Access to powerful R-24 missiles for distant targets
+* Has an IRST for stealthy target acquisition
+* Radar has ACM mode
+* Extraordinarily fast, it will overspeed at any altitude, including at altitude 13 km at Mach 2.4
 
 '''Cons:'''
 
-- Limited missile capacity
-- Gun is finicky to use and has limited ammunition
-- Limited ground attack ordnance and ballistic computer functionality, not very suited for ground attack
+* Limited missile capacity
+* Gun is finicky to use and has limited ammunition
+* Limited ground attack ordnance and ballistic computer functionality, not very suited for ground attack
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=mig_23mld Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=mig_23mld Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|cvpr1GYfwQc|'''Mig-23MLD : A Basic Review''' - ''Tims Variety''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
 
-- [[MiG-23 (Family)]]
+* [[MiG-23 (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/538753-mig-23mld/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/538753-mig-23mld/ Official data sheet - more details about the performance]
 
 {{AirManufacturer MiG}}
 {{USSR jet aircraft}}

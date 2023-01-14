@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -45,7 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-ratin
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || X || X || X || X <!-- ✓ -->
+| X || X || X || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -90,10 +87,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-ratin
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 8 mm steel: behind pilot
+* 8 mm steel: behind pilot
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -102,31 +98,26 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-ratin
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|PV-1 (7.62 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 7.62 mm PV-1 machine guns, nose-mounted (1,100 rpg upper + 425 rpg lower = 3,050 total)
+* 4 x 7.62 mm PV-1 machine guns, nose-mounted (1,100 rpg upper + 425 rpg lower = 3,050 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|FAB-50sv (50 kg)|RBS-82|RS-82}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 50 kg FAB-50sv bombs (100 kg total)
-- 6 x RS-82 rockets
-- 6 x RBS-82 rockets
+* Without load
+* 2 x 50 kg FAB-50sv bombs (100 kg total)
+* 6 x RS-82 rockets
+* 6 x RBS-82 rockets
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The I-15 can be used in turnfighting, bomber intercepting and ground pounding. It is excellent in turning tightly and continuously, and it has lovely low-speed handling and low stall speeds (unlike its successor I-16), making it a great starter plane for sim. However it does have its drawbacks: the rather big nose blocks the visibility a lot, offering very poor over-the-nose visibility which is a disadvantage in a turn fight, because when leading a shot the enemy will always get obstructed by the engine, making the player guess the shot. Also its upper wings will get in the way when you look aside. Plus, it has an awful telescope-like gunsight, so when zoomed in the I-15's nimbleness is magnified, making the aim super wobbly. You cannot see anything around which greatly reduces your situational awareness.
@@ -165,37 +156,35 @@ Ground pounding ability is average as there are only few bombs and rockets. The 
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Extreme turning abilities: one of the best turn-fighters in-game, able to turn tightly and continuously with other biplanes
-- Firepower is rich with 4 x 7.62 mm MG, moderate damage and plenty of ammo
-- Good rate of climb
-- Small silhouette meaning you are harder to hit
-- 2 x 50 kg bombs allow you to have some ground-pounding abilities in ground battles
-- Fixed gear is convenient for quick landings and takeoffs
-- Very short take off distance
-- Low stall speed, beginner friendly to land and manoeuvre
-- Open cockpit allows you to easily hear nearby aircraft in Simulator
-- Nose-mounted MGs means no need to worry about convergence distances
+* Extreme turning abilities: one of the best turn-fighters in-game, able to turn tightly and continuously with other biplanes
+* Firepower is rich with 4 x 7.62 mm MG, moderate damage and plenty of ammo
+* Good rate of climb
+* Small silhouette meaning you are harder to hit
+* 2 x 50 kg bombs allow you to have some ground-pounding abilities in ground battles
+* Fixed gear is convenient for quick landings and takeoffs
+* Very short take off distance
+* Low stall speed, beginner friendly to land and manoeuvre
+* Open cockpit allows you to easily hear nearby aircraft in Simulator
+* Nose-mounted MGs means no need to worry about convergence distances
 
 '''Cons:'''
 
-- Very slow speed: cannot keep up with early monoplane fighters (eg [[He 112 (Family)|He 112]]) or even some bombers such as [[Do 17 E-1]]
-- Will quickly lose speed gathered in a dive
-- Average roll rate
-- Open cockpit can usually get the pilot sniped
-- Small 50 kg bombs require very accurate aiming
-- Telescopic gunsight offers very limiting field of view in Simulator
-- Big engine blocks the visibility over the nose, a disadvantage in a turnfight in Simulator
-- Side views are obstructed by the upper wings and supporting structures
-- Very wobbly with Simulator controls, making it hard to aim precisely
-- Vulnerable to heavy machine gun fire (e.g. [[Browning M2 (12.7 mm)|.50 cal M2 Browning]], [[Breda-SAFAT (12.7 mm)|12.7 mm Breda-SAFAT]])
+* Very slow speed: cannot keep up with early monoplane fighters (eg [[He 112 (Family)|He 112]]) or even some bombers such as [[Do 17 E-1]]
+* Will quickly lose speed gathered in a dive
+* Average roll rate
+* Open cockpit can usually get the pilot sniped
+* Small 50 kg bombs require very accurate aiming
+* Telescopic gunsight offers very limiting field of view in Simulator
+* Big engine blocks the visibility over the nose, a disadvantage in a turnfight in Simulator
+* Side views are obstructed by the upper wings and supporting structures
+* Very wobbly with Simulator controls, making it hard to aim precisely
+* Vulnerable to heavy machine gun fire (e.g. [[Browning M2 (12.7 mm)|.50 cal M2 Browning]], [[Breda-SAFAT (12.7 mm)|12.7 mm Breda-SAFAT]])
 
 == History ==
-
 <!--''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''-->
 
 On the 7th July 1937, fighting broke out between Chinese and Japanese forces, starting the Second Sino-Japanese War. When the war began the Chinese air force was using many obsolete aircraft, such as the [[Hawk III]], which were no match for the Japanese A5M fighters.<ref name="PolikarpovAces">Maslov and Postlethwaite 2013</ref> China rapidly signed the Sino-Soviet Non-Aggression Pact with the USSR, and as part of the agreement the Soviets began Operation Zet to secretly supply China with aircraft and pilots.
@@ -205,41 +194,36 @@ Between October 1937 and September 1939 the USSR delivered 885 aircraft (rising 
 A number Chinese aces flew the I-15bis; among them Liu Chi-Sheng who achieved 6 of his 10 kills while flying the I-15bis.<ref name="ChinaAces">Cheung and Davey 2015</ref>
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=i-15bis_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=i-15bis_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|rpp-GqXiaKg|'''The Shooting Range #214''' - ''Air Triathlon'' section at 09:59 discusses the {{PAGENAME}}.}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!--''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.''-->
 
-- [https://forum.warthunder.com/index.php?/topic/272053-polikarpov-i-15bis/ Official data sheet - more details about the performance]
-- [[Wikipedia:Polikarpov_I-15|[Wikipedia] Polikarpov I-15]]
-- [http://surfcity.kund.dalnet.se/china_chi-sheng.htm Biplane fighter aces China - Major General Liu Chi-Sheng]
-- [http://www.century-of-flight.freeola.com/Aviation%20history/WW2/aces/Liu%20Chi-Sheng.htm Aviation during World War 2 - Major General Liu Chi-Sheng]
+* [https://forum.warthunder.com/index.php?/topic/272053-polikarpov-i-15bis/ Official data sheet - more details about the performance]
+* [[Wikipedia:Polikarpov_I-15|[Wikipedia] Polikarpov I-15]]
+* [http://surfcity.kund.dalnet.se/china_chi-sheng.htm Biplane fighter aces China - Major General Liu Chi-Sheng]
+* [http://www.century-of-flight.freeola.com/Aviation%20history/WW2/aces/Liu%20Chi-Sheng.htm Aviation during World War 2 - Major General Liu Chi-Sheng]
 
 === References ===
 ;Citations
 <references />
 
 ;Bibliography
-
-- Cheung, R., & Davey, C. (2015). Aces of the Republic of China Air Force. United Kingdom: Bloomsbury Publishing.
-- Maslov, M., & Postlethwaite, M. (2013). Polikarpov I-15, I-16 and I-153 Aces. United Kingdom: Bloomsbury Publishing.
+* Cheung, R., & Davey, C. (2015). Aces of the Republic of China Air Force. United Kingdom: Bloomsbury Publishing.
+* Maslov, M., & Postlethwaite, M. (2013). Polikarpov I-15, I-16 and I-153 Aces. United Kingdom: Bloomsbury Publishing.
 
 {{AirManufacturer Polikarpov}}
 {{China fighters}}

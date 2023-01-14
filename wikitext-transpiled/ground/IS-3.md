@@ -1,12 +1,10 @@
 {{Specs-Card
 |code=ussr_is_3
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet heavy tank {{Battle-rating}}. It was introduced during the closed beta testing for Ground Forces before [[Update 1.41]]. The IS-3 keeps the same [[D-25T (122 mm)|D-25T]] gun as its predecessor while ''drastically'' upgrading its armour without hindering mobility too much.
 
 Anyone familiar with the [[IS-2]] and [[IS-2 (1944)]] will sit comfortably behind the driver's controls of this behemoth.
@@ -24,13 +22,11 @@ The IS-3 is the definition of a 'breakthrough' tank, which excels at close-range
 
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
-- Rolled homogeneous armour (Hull, Turret roof)
-- Cast homogeneous armour (Turret)
+* Rolled homogeneous armour (Hull, Turret roof)
+* Cast homogeneous armour (Turret)
 
 {| class="wikitable"
 |-
@@ -43,18 +39,17 @@ The IS-3 is the definition of a 'breakthrough' tank, which excels at close-range
 |}
 '''Notes:'''
 
-- Suspension wheels are 20 mm thick while tracks are 30 mm thick.
-- The thickest armour of the tank is at the front – the "beak" at the front of the hull raises the effective thickness of the armour from 110 to around 180 – 200 mm, depending on the exact spot.
-- The turret front of the IS-3 is an also fairly well armoured, with 250 mm of heavily sloped armour equating to around 400 mm effective thickness.
-- Turret side armour is not equal throughout its length. In the side middle, it is 130 mm, then bordering the rear armour is 150 mm thick.
-- Gun mantlet side and bottom are boosted by the 250 mm of the turret front, whereas the top of gun mantlet has no armour behind it.
-- Side armour of the hull has an additional 5 mm of sheet metal on above the suspension area.
-- Turret ring is 200 mm thick with a 20 mm "collar" covering the front and sides.
-- Upper half of the side armour is at a very steep angle, meaning conventional rounds will simply bounce
+* Suspension wheels are 20 mm thick while tracks are 30 mm thick.
+* The thickest armour of the tank is at the front – the "beak" at the front of the hull raises the effective thickness of the armour from 110 to around 180 – 200 mm, depending on the exact spot.
+* The turret front of the IS-3 is an also fairly well armoured, with 250 mm of heavily sloped armour equating to around 400 mm effective thickness.
+* Turret side armour is not equal throughout its length. In the side middle, it is 130 mm, then bordering the rear armour is 150 mm thick.
+* Gun mantlet side and bottom are boosted by the 250 mm of the turret front, whereas the top of gun mantlet has no armour behind it.
+* Side armour of the hull has an additional 5 mm of sheet metal on above the suspension area.
+* Turret ring is 200 mm thick with a 20 mm "collar" covering the front and sides.
+* Upper half of the side armour is at a very steep angle, meaning conventional rounds will simply bounce
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp= 671|rbMinHp= 460}}
@@ -70,9 +65,7 @@ The mobility and speed of the IS-3 is decent, and is somewhere between other hea
 
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|D-25T (122 mm)}}
 
 The IS-3 carries a heavy 122 mm D-25T cannon, the same weapon mounted on the IS-2 and IS-4M, as well as other variants of the IS-3. This cannon, based on a heavy howitzer, is a highly-effective weapon capable of hitting extremely hard. However, it has an extremely slow reload speed, and rather poor gun depression.
@@ -140,9 +133,7 @@ The D-25T cannon fires large 122 mm shells, which are relatively effective again
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -160,17 +151,15 @@ The D-25T cannon fires large 122 mm shells, which are relatively effective again
 
 The D-25T cannon fires two-piece ammunition that are stored all around the crew compartment. The majority of the projectiles are found lining the sides and rear of the turret while the majority of the propellant found in the hull, with two large piles flanking the driver and a few kept on the hull floor and rear. Next to the cannon breech on the loader's side is a small ready rack containing 5 propellant charges, with the 5 accompanying projectiles found to the loader's right against the turret side. The time it takes the loader to load one round into the ready rack from the stowage racks is about 21 seconds.
 
-- Recommended ammo load is 12, which empty all of the racks but racks 1 and 6.
-- Ammo Rack 1 is a ready rack, and takes priority in being filled at the beginning of the battle, then fills racks 6 through 2.
-- Full reload speed will be realized as long as ammo exists in the ready racks. If all three ready racks are empty, a penalty to reload speed will occur.
-- Simply not firing when the gun is loaded will load ammo from racks 2-6 into rack 1, as long as there is ammo in racks 2-6. Firing will interrupt the loading of the ready racks.
+* Recommended ammo load is 12, which empty all of the racks but racks 1 and 6.
+* Ammo Rack 1 is a ready rack, and takes priority in being filled at the beginning of the battle, then fills racks 6 through 2.
+* Full reload speed will be realized as long as ammo exists in the ready racks. If all three ready racks are empty, a penalty to reload speed will occur.
+* Simply not firing when the gun is loaded will load ammo from racks 2-6 into rack 1, as long as there is ammo in racks 2-6. Firing will interrupt the loading of the ready racks.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|DShK (12.7 mm)|DT (7.62 mm)}}
 
 The IS-3 carries two secondary machine guns, being a 12.7 mm DShK machine gun on the turret roof as well as a coaxial 7.62 mm DT machine gun. The DT machine gun is relatively ineffective, as its small calibre prevents it from doing any sort of real damage against targets with any armour. As well, the coaxial mounting prevents the DT from firing at air targets effectively. The DShK, on the other hand, can be a more potent weapon when used against lightly-armoured vehicles or aircraft. The gun can penetrate the sides/back of some IFVs/SPAAs/light-armoured vehicles, and also has good firing angles allowing it to engage enemy aircraft and helicopters.
@@ -195,12 +184,11 @@ The IS-3 carries two secondary machine guns, being a 12.7 mm DShK machine gun on
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The IS-3, continuing the tradition of the Soviet IS line of heavy tanks, sports a powerful 122 mm cannon, strong frontal armour and reasonable mobility for its class. As with its predecessors, it excels at dispatching anything it can penetrate with its explosive-filled rounds, and relies heavily on its excellent reverse speed and sharply angled armour to keep itself out of trouble. However, an IS-3 commander will increasingly encounter HEAT, HESH and ATGMs which pose a serious threat to the vehicle. The IS-3 also has a rather exposed and exploitable trap-shot directly under the gun barrel when the turret is facing directly forward, which even conventional rounds can use. It is also recommended to make sure that the enemy tank has around the same height advantage as you, as the armour plate on top of the gun breech can be penetrated by enemy shells shot from above, damaging the gun breech and possibly killing your tank.
 
-One important thing to note is that the stock grind of this vehicle is rather bad. When stock, the vehicle is sluggish, and has a shell that really struggles to penetrate some of the well armoured tanks of its BR bracket, which you will regularly face. This will lead to you being more of a support tank when stock, but as you research more modifications the IS-3 becomes better.
+One important thing to note is that the stock grind of this vehicle is rather bad. When stock, the vehicle is  sluggish, and has a shell that really struggles to penetrate some of the well armoured tanks of its BR bracket, which you will regularly face. This will lead to you being more of a support tank when stock, but as you research more modifications the IS-3 becomes better.
 
 [[File:IS-3 Screenshot 3.jpg|thumb|The IS-3 on [[Berlin (Ground Forces)|Berlin]]]]
 
@@ -225,54 +213,52 @@ Against ATGMs, it's a good idea to use your machine guns to shoot at the ground 
 
 The IS-3 is relatively versatile, but excels in close-range combat against conventional rounds - it is very good at taking on other heavy tanks such as the [[T32]] and [[Caernarvon]].
 
-- It has a reasonably decent top speed, and on solid ground, acceptable acceleration, allowing it to reach cap points and combat areas fairly promptly and set up in positions to allow it to make the most of the frontal armour.
-- When down tiered, the IS-3 performs excellently, able to push forward and play its 'breakthrough' role with impunity.
-- Good climbing capabilities allow the IS-3 to reach some surprising positions for sniping or supporting teammates pushing points. Despite the gun's effectiveness being reduced at the range, the armour of the vehicle becomes much more effective as weak spots become significantly harder to hit.
-- Since the IS-3 can keep up with most medium tanks like the Centurions, Panthers or T-44s, it can be played as early-game heavy support for those lighter, more vulnerable hulls to assist in taking objectives.
-- In up tiered games (7.7-8.3), the IS-3 can come across a lot of chemical rounds and must be played significantly more carefully, as its armour simply cannot compete with the high penetration of these rounds.
+* It has a reasonably decent top speed, and on solid ground, acceptable acceleration, allowing it to reach cap points and combat areas fairly promptly and set up in positions to allow it to make the most of the frontal armour.
+* When down tiered, the IS-3 performs excellently, able to push forward and play its 'breakthrough' role with impunity.
+* Good climbing capabilities allow the IS-3 to reach some surprising positions for sniping or supporting teammates pushing points. Despite the gun's effectiveness being reduced at the range, the armour of the vehicle becomes much more effective as weak spots become significantly harder to hit.
+* Since the IS-3 can keep up with most medium tanks like the Centurions, Panthers or T-44s, it can be played as early-game heavy support for those lighter, more vulnerable hulls to assist in taking objectives.
+* In up tiered games (7.7-8.3), the IS-3 can come across a lot of chemical rounds and must be played significantly more carefully, as its armour simply cannot compete with the high penetration of these rounds.
 
 Play this tank almost any way that is favourable. A few tips to increase this vehicle's performance:
 
-- Always face towards the enemies directly, avoid exposing the weak hull sides.
-- Cover the frontal weak spots if necessary with the gun's large barrel by pointing it downwards. It's better to have the gun barrel destroyed than it is to lose crew members and be potentially unable to reverse out of bad situations.
-- Stop only to fire. Movement makes the weak spots harder to target. Even when there is no destination to move to, go back and forth a few meters just so that the IS-3 hull wobbles a bit on start and stop.
-- Plan aggressive pushes and movements around enemy locations. The gun has negligible depression and very bad horizontal traverse, making reacting to enemies slow and risky, and impossible if they're on lower ground.
-- Avoid engaging vehicles over hills by climbing the hill as it will be hard to aim with only -3° depression and the lower plate will be vulnerable due to the angling.
-- Avoid fighting tanks with HEAT/HESH/APFSDS.
-- Be careful when brawling at extremely close ranges, as the top of the turret is quite vulnerable due to the vehicle's low profile.
-- Avoid facing elevated opponents, as this decreases LOS thickness for hull and exposes turret top.
-- Carrying less ammo helps increase survivability from penetrating shots to the turret (ammunition is spread around the edges of the turret).
+* Always face towards the enemies directly, avoid exposing the weak hull sides.
+* Cover the frontal weak spots if necessary with the gun's large barrel by pointing it downwards. It's better to have the gun barrel destroyed than it is to lose crew members and be potentially unable to reverse out of bad situations.
+* Stop only to fire. Movement makes the weak spots harder to target. Even when there is no destination to move to, go back and forth a few meters just so that the IS-3 hull wobbles a bit on start and stop.
+* Plan aggressive pushes and movements around enemy locations. The gun has negligible depression and very bad horizontal traverse, making reacting to enemies slow and risky, and impossible if they're on lower ground.
+* Avoid engaging vehicles over hills by climbing the hill as it will be hard to aim with only -3° depression and the lower plate will be vulnerable due to the angling.
+* Avoid fighting tanks with HEAT/HESH/APFSDS.
+* Be careful when brawling at extremely close ranges, as the top of the turret is quite vulnerable due to the vehicle's low profile.
+* Avoid facing elevated opponents, as this decreases LOS thickness for hull and exposes turret top.
+* Carrying less ammo helps increase survivability from penetrating shots to the turret (ammunition is spread around the edges of the turret).
 
 === The Stock Grind ===
 This vehicle can be a pain to play when stock, because enemies will try to kill you in any way, often by setting you on fire 3 times in a row. Your tracks and gun barrel are frequent targets as well, and without Parts or FPE gameplay is going to be painful. Due to this, you must '''research Parts and FPE first''', this is extremely important. Generally, you would want to be behind your teammates, to let them get shot more instead of you, when reloaded you can poke out and shoot your shot, right before going back into the cover or behind teammates. Sniping is an option, but it's not the most viable since there's quite a lot of bullet drop and missing your shots will cause the very long reload.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Very good frontal armour. Upper and lower plates are basically immune to all conventional shells
-- First Soviet heavy tank that comes with the V-shaped hull and ridiculously strong spaced armour lining the sides
-- Really strong turret. Even the sides of the turret are heavily armoured and angled
-- Very powerful 122 mm gun; top APHE shell has high penetration and very good damage potential
-- Good top speed and manoeuvrability
+* Very good frontal armour. Upper and lower plates are basically immune to all conventional shells
+* First Soviet heavy tank that comes with the V-shaped hull and ridiculously strong spaced armour lining the sides
+* Really strong turret. Even the sides of the turret are heavily armoured and angled
+* Very powerful 122 mm gun; top APHE shell has high penetration and very good damage potential
+* Good top speed and manoeuvrability
 
 '''Cons:'''
 
-- Horrifying reload speed; despite the armour, fighting two tanks at once is ill-advised
-- Armour is still no match for APDS and HEAT
-- Terrible gun depression; finding a good hull-down location to use the gun is difficult
-- Despite the good turret, the left side of the gun mantlet can be penetrated by conventional rounds with good penetration (Like the 88 mm shell found on the Tiger II)
-- Bottom of the gun mantlet is an infamous shot trap
-- While a small target, the entirety of the turret ring is exposed
-- Ammo is strewn throughout the entire crew compartment
-- Roof-mounted 12.7 mm machine gun only has a 50 box magazine before needing to reload
-- Only four crew members in a small crew compartment; any APHE shell that penetrates will likely knock out the entire crew
-- 122 mm gun is the same as the IS-2 with the exception of the new BR-471D shell and will struggle to knock out hull down American mediums and heavies like the M48 Patton and T32
+* Horrifying reload speed; despite the armour, fighting two tanks at once is ill-advised
+* Armour is still no match for APDS and HEAT
+* Terrible gun depression; finding a good hull-down location to use the gun is difficult
+* Despite the good turret, the left side of the gun mantlet can be penetrated by conventional rounds with good penetration (Like the 88 mm shell found on the Tiger II)
+* Bottom of the gun mantlet is an infamous shot trap
+* While a small target, the entirety of the turret ring is exposed
+* Ammo is strewn throughout the entire crew compartment
+* Roof-mounted 12.7 mm machine gun only has a 50 box magazine before needing to reload
+* Only four crew members in a small crew compartment; any APHE shell that penetrates will likely knock out the entire crew
+* 122 mm gun is the same as the IS-2 with the exception of the new BR-471D shell and will struggle to knock out hull down American mediums and heavies like the M48 Patton and T32
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 ===Development===
@@ -306,29 +292,25 @@ They were not deployed in combat in the Great Patriotic War. There are some indi
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_is_3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_is_3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|_-YJo8JRBEM|'''Shooting Range #190''' -  ''Metal Beasts'' section at 1:00 discusses the IS-3.}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!--Paste links to sources and external resources, such as:
 * ''topic on the official game forum;''
 * ''other literature.''-->
 
-- [[wt:en/news/2948--en|[Vehicle Profile] IS-3]]
+* [[wt:en/news/2948--en|[Vehicle Profile] IS-3]]
 
 === References ===
 <references />

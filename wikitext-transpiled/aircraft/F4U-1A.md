@@ -10,9 +10,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} American naval fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
 This is the first plane available in the [[F4U (Family)|F4U Corsair family]] of the naval aircraft line and it will give a pilot a good idea of the flight characteristics pertinent to this family of aircraft. Sporting a very distinctive silhouette due to its inverted gull wings, it's never hard to pick a Corsair out of a crowd. However, the inverted gull wings are a "double-edged sword", as it enables the Corsair to turn well at high speeds and have a good roll rate, but makes it turn mediocrely at low speeds. While not as powerful as its later siblings, the Pratt & Whitney R-2800-8W 18-cylinder radial can still propel the Corsair to a respectable 646 km/h at around 6,800 m. The Corsair also has a weak airframe that is very susceptible to incendiary rounds, so make sure to use the plane's roll rate and good high-speed performance in order to survive.
@@ -20,9 +18,7 @@ This is the first plane available in the [[F4U (Family)|F4U Corsair family]] of 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The Corsair should be used as a medium-to-high altitude Boom & Zoomer as flying at these altitudes is where the R-2800-8W radial makes the most power. It is very important to keep the plane's speed up as the Corsair haemorrhages energy at lower speeds.
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -50,7 +46,7 @@ The Corsair should be used as a medium-to-high altitude Boom & Zoomer as flying 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -99,13 +95,12 @@ The Corsair should be used as a medium-to-high altitude Boom & Zoomer as flying 
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 3 mm steel - above the front fuel tank
-- 8 mm steel - behind pilot's body
-- 12.7 mm steel - behind pilot's head
-- 38 mm bulletproof glass - armoured windscreen
+* 3 mm steel - above the front fuel tank
+* 8 mm steel - behind pilot's body
+* 12.7 mm steel - behind pilot's head
+* 38 mm bulletproof glass - armoured windscreen
 
 Critical components, namely the pilot and large fuel tanks, as well as the oil cooling system and wing spar roots, are clustered very close together in the centerline. One fire set in any given section in this area will usually result in the other sections also being set on fire.
 
@@ -120,8 +115,8 @@ Starting from tier 2, all performance unlocks become necessary and useful. As a 
 
 Payloads unlocked by modules are:
 
-- BMBC mk.1: One 500 lb AN-M64A1 bomb
-- BLBC mk.1: One 1,000 lb AN-M65A1 bomb
+* BMBC mk.1: One 500 lb AN-M64A1 bomb
+* BLBC mk.1: One 1,000 lb AN-M65A1 bomb
 
 While having these might be useful for Ground RB, its actual utility in Air RB combat is quite limited since it can only drop one bomb, rather than two, meaning that it only has one chance when dropping ordnance on ground targets. Novice pilots may find it difficult when trying to destroy pillboxes and the like.
 
@@ -129,32 +124,27 @@ While having these might be useful for Ground RB, its actual utility in Air RB c
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 6 x 12.7 mm M2 Browning machine guns, wing-mounted (391 rpg = 2,350 total)
+* 6 x 12.7 mm M2 Browning machine guns, wing-mounted (391 rpg = 2,350 total)
 
 The F4U-1A is the first aircraft in the US Tech Tree armed with M2 Brownings that possess Armour-Piercing Incendiary rounds. These potent rounds are able to set fire to enemy aircraft as well as causing fatal pilot snipes and engine damage. However, they are not explosive rounds and rely on luck and/or good aim on the part of the pilot to cause damage to critical modules and cause enough damage to destroy the plane or knock out the pilot.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 1 x 500 lb AN-M64A1 bomb (500 lb total)
-- 1 x 1,000 lb AN-M65A1 bomb (1,000 lb total)
+* Without load
+* 1 x 500 lb AN-M64A1 bomb (500 lb total)
+* 1 x 1,000 lb AN-M65A1 bomb (1,000 lb total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 When flying an F4U, use Boom-n-Zoom tactics to excel with the aircraft's performance. This means that the {{PAGENAME}} should climb immediately and then dive on lower flying aircraft, then use its speed and momentum from the dive to climb. The Corsair does turn well but loses energy and speed rapidly, so avoid turn fights or flat manoeuvres. However, this aircraft only has eight minutes of WEP time, so pilots should limit its use to only when needing an extra boost of power while in a fight or while running away.
@@ -185,7 +175,6 @@ The F4U-1A, like many other American aircraft, is a sitting duck when travelling
 The primary tactics of someone who aims to counter this aircraft should be tactics that will bleed energy from the F4U-1A, making it slow, low or a combination of both. This can be accomplished in many ways, but the two main methods are:
 
 # Turning: In an aircraft that turns better, bait the F4U-1A into a turning fight. Gradually eat away at its speed while out-turning it in order to acquire a shot. However, smart pilots will usually break off the turn and start climbing. Should this happen, either try to follow it in the climb (Spitfires and zeroes should be able to do this) or stay low to bait the F4U-1A down again and repeat the process.
-
 # Energy-Fighting: In planes such as the Bf 109 F-1, which are not as nimble as the Corsair, turning against the Corsair is not a viable option. In planes such as this, one should try to cause a stall by using manoeuvres that cause the Corsair to lose energy faster than the other plane. One method of doing this by simply being above it, and to the front quarter. Pretend to engage in a head-on pass with it. Corsair pilots will usually engage a target in a head-on and attempt to follow through to destroy its enemy. Once around 2.5 km/1.5 miles away from the Corsair, gradually begin making the dive shallower by aiming above the Corsair (if using mouse-aim) or by pulling up on the elevator slightly. Gradually intensify it, until once at 1 km away from the Corsair, it is aiming upwards at a steep angle. Once this happens, break into a chandelle (An Immelmann turn done while banking the plane slightly), using the energy that has been built up in the dive, and dive back down onto the Corsair. The enemy pilot, should he have continued to try to track its target through the entire process, should have lost energy and entered a low-energy state. This means that he/she is a sitting duck. Bring guns to bear and destroy them.
 
 When attempting deflection shots, try to aim at the centre-section so shots will hit the pilot and the fairly large forward fuel tanks. While the tanks are self-sealing, it takes some time to seal up if punctured. This means that when set on fire, the fire will usually spread to other critical modules like the engine and the wing fuel tanks before it gets put out, even if the aircraft is put into a steep dive. Other weak spots include the oil cooling system tanks located in the front of the wings, which may be set on fire. One of the biggest weaknesses, however, is in its construction. The large gull wings that give the Corsair its manoeuvrability are also highly vulnerable to well-aimed cannon-fire, meaning that even a few hits can end up completely destroying the wing, or at the very least, critically damage the spars so that other players can finish off the job. In addition to this, there are fuel tanks in the wings placed close to where the wing spars and wing control cables are in the middle of the wing. If set on fire, they will result in the wing spar damage, as well as the loss of control to the wing, thus either destroying or at least crippling enemy aircraft.
@@ -210,36 +199,33 @@ Even slight damage to the engine will result in the Corsair's performance being 
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great top speed for its rank
-- Good high-speed manoeuvrability
-- Powerful armament with high ammo count
-- Can mount bombs for use against ground targets
-- M2 guns can penetrate pillboxes with AP bullets
-- Decently strong; can take a few hits
-- Great diving characteristics
-- Good speed, acceleration and energy retention
-- Gears can withstand 730 km/h, useful as a makeshift airbrake
-- Relatively lethal armament against planes
+* Great top speed for its rank
+* Good high-speed manoeuvrability
+* Powerful armament with high ammo count
+* Can mount bombs for use against ground targets
+* M2 guns can penetrate pillboxes with AP bullets
+* Decently strong; can take a few hits
+* Great diving characteristics
+* Good speed, acceleration and energy retention
+* Gears can withstand 730 km/h, useful as a makeshift airbrake
+* Relatively lethal armament against planes
 
 '''Cons:'''
 
-- Turn time isn't very good; try to avoid turning fights
-- View to the rear is somewhat obstructed; be wary of this in SB
-- Very vulnerable to incendiary rounds
-- Inverted gull wings are easy to knock off
-- Big target, easy to hit
-- Climb rate is a huge downgrade from the F4F-3 and F4F-4 when stock
-- Can be easily taken out by other players from behind
+* Turn time isn't very good; try to avoid turning fights
+* View to the rear is somewhat obstructed; be wary of this in SB
+* Very vulnerable to incendiary rounds
+* Inverted gull wings are easy to knock off
+* Big target, easy to hit
+* Climb rate is a huge downgrade from the F4F-3 and F4F-4 when stock
+* Can be easily taken out by other players from behind
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The F4U Corsair was designed by Chance Vought as a response to a request by the U.S. Navy Bureau of Aeronautics in February 1938 for twin and single-engined fighters. The single-engined fighters would need to reach the maximum obtainable speed, have a stall speed of no more than 70 mph and a range of 1,000 miles. The fighter also had to carry 4 guns, or 3 with increased ammo capacity and had to be able to carry bombs.
 
 In June of the same year, the U.S navy signed a contract with Vought for a prototype, designated "XF4U-1" and after a mock-up inspection, the prototype was to be powered by an extremely powerful Twin-row, 18 cylinder engine created by Pratt & Whitney designated as the "Double Wasp". Reports from Europe indicated that two .30 cal machine guns and two .50 cal HMGs proved inefficient, and as a result, the U.S. Navy issued a new production proposal requesting heavier armament. Vought responded to this request by added 3 Browning .50 cal AN/M2 machine guns with 400 rounds per gun in each wing.
@@ -259,12 +245,11 @@ The Chance Vought factory produced a total of 2,126 F4U-1As.
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=f4u-1a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f4u-1a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover" heights="200">
@@ -275,26 +260,24 @@ File:F4U-1A Rework Model.jpg|<small>Reworked model of the F4U-1A</small>
 {{Youtube-gallery|g4R3iiCmiBQ|'''The Shooting Range #1''' - ''Pages of History'' section at 04:26 discusses the F4U Corsair.|4hSjkacg4CQ|'''The Shooting Range #98''' - ''Metal Beasts'' section at 00:32 discusses the F4U-1a.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 '''Aircraft of comparable role, configuration and era:'''
 
-- Messerschmitt [[Bf 109 E-3]]
-- Hawker [[Typhoon Mk Ia]]
-- Macchi [[C.202|C.202 Folgore]]
-- Reggiane [[Re.2001 (Family)|Re.2001]] Falco II
-- Kawasaki [[Ki-61-I ko|Ki-61-I ko Hien]]
+* Messerschmitt [[Bf 109 E-3]]
+* Hawker [[Typhoon Mk Ia]]
+* Macchi [[C.202|C.202 Folgore]]
+* Reggiane [[Re.2001 (Family)|Re.2001]] Falco II
+* Kawasaki [[Ki-61-I ko|Ki-61-I ko Hien]]
 
 == External links ==
-
 <!--''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.''-->
 
-- [https://forum.warthunder.com/index.php?/topic/325083-f4u-1ausmccd/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/325083-f4u-1ausmccd/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Vought}}
 {{USA fighters}}

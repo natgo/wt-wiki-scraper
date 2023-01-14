@@ -10,9 +10,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} American dive bomber {{Battle-rating}}. It was introduced in [[Update 1.53 "Firestorm"]].
 
 The SB2C-4 is an upgrade from the earlier [[SB2C-1c]] dive bomber at Rank II, having a more powerful engine and the ability to mount more payloads, including HVAR rockets. However, this version faces tougher and more deadly aircraft due to a higher ''Battle Rating''.
@@ -20,7 +18,6 @@ The SB2C-4 is an upgrade from the earlier [[SB2C-1c]] dive bomber at Rank II, ha
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -48,7 +45,7 @@ The SB2C-4 is an upgrade from the earlier [[SB2C-1c]] dive bomber at Rank II, ha
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || ✓ || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -79,14 +76,13 @@ The SB2C-4 is an upgrade from the earlier [[SB2C-1c]] dive bomber at Rank II, ha
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 8.5 mm Steel - Armour plate, the underside of the engine cowling
-- 6.35 mm Steel - Cockpit/Instrument panel protection plate
-- 11.11 mm Steel - Behind pilot's seat
-- 6.35 mm Steel - Dorsal gunner protection plate
-- 38 mm Bulletproof glass - Front windscreen
+* 8.5 mm Steel - Armour plate, the underside of the engine cowling
+* 6.35 mm Steel - Cockpit/Instrument panel protection plate
+* 11.11 mm Steel - Behind pilot's seat
+* 6.35 mm Steel - Dorsal gunner protection plate
+* 38 mm Bulletproof glass - Front windscreen
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -95,49 +91,42 @@ The SB2C-4 is an upgrade from the earlier [[SB2C-1c]] dive bomber at Rank II, ha
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|AN/M2 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 20 mm AN/M2 cannons, wing-mounted (200 rpg = 400 total)
+* 2 x 20 mm AN/M2 cannons, wing-mounted (200 rpg = 400 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AN-M57 (250 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|HVAR|M2 Browning (12.7 mm)}}
 {{main|Mk.13-6 (2,216 lb)|Mk.13-6 Case (2,216 lb)|Type A Mark I mine}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 2 x 250 lb AN-M57 bombs (500 lb total)
-- 1 x 2,216 lb Mk.13-6 torpedo
-- 1 x 2,216 lb Mk.13-6 Case torpedo
-- 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
-- 4 x 500 lb AN-M64A1 bombs (2,000 lb total)
-- 1 x 1,000 lb AN-M65A1 bomb (1,000 lb total)
-- 1 x Type A Mark I mine
-- 1 x 1,000 lb AN-M65A1 bomb + 2 x 500 lb AN-M64A1 bombs (2,000 lb total)
-- 8 x HVAR rockets
-- 4 x 12.7 mm M2 Browning machine guns (340 rpg = 1,360 total)
+* 2 x 250 lb AN-M57 bombs (500 lb total)
+* 1 x 2,216 lb Mk.13-6 torpedo
+* 1 x 2,216 lb Mk.13-6 Case torpedo
+* 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
+* 4 x 500 lb AN-M64A1 bombs (2,000 lb total)
+* 1 x 1,000 lb AN-M65A1 bomb (1,000 lb total)
+* 1 x Type A Mark I mine
+* 1 x 1,000 lb AN-M65A1 bomb + 2 x 500 lb AN-M64A1 bombs (2,000 lb total)
+* 8 x HVAR rockets
+* 4 x 12.7 mm M2 Browning machine guns (340 rpg = 1,360 total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|Browning (7.62 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 2 x 7.62 mm Browning machine guns, dorsal turret (1,000 rpg = 2,000 total)
+* 2 x 7.62 mm Browning machine guns, dorsal turret (1,000 rpg = 2,000 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 ;Arcade Battles
@@ -170,34 +159,32 @@ If you come across a {{PAGENAME}}, attack from its unprotected bottom which is e
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Very effective cannon armament
-- Very agile for a dive bomber
-- Good ground attack payload options
-- Has air brakes
-- Gets a bomber spawn
-- Can attach gun pods; enemies will not expect you have that much firepower
-- Great for bomber hunting
-- Good at head-on attacks
+* Very effective cannon armament
+* Very agile for a dive bomber
+* Good ground attack payload options
+* Has air brakes
+* Gets a bomber spawn
+* Can attach gun pods; enemies will not expect you have that much firepower
+* Great for bomber hunting
+* Good at head-on attacks
 
 '''Cons:'''
 
-- No belly gunner
-- Catches fire relatively easily
-- Poor climb rate
-- Fairly slow
-- Tail gunner is ineffective at long range
-- Any asymmetrical wing damage makes it very difficult to turn
-- Extreme negatively static longitudinal stability for joystick at low speeds (e.g. the aircraft doesn't want to take off, but a slight bump makes the aircraft want to stall and harsh nose-down is required)
-- 20 mm shells can almost instantly down your plane
-- Elevators may jam in a dive
+* No belly gunner
+* Catches fire relatively easily
+* Poor climb rate
+* Fairly slow
+* Tail gunner is ineffective at long range
+* Any asymmetrical wing damage makes it very difficult to turn
+* Extreme negatively static longitudinal stability for joystick at low speeds (e.g. the aircraft doesn't want to take off, but a slight bump makes the aircraft want to stall and harsh nose-down is required)
+* 20 mm shells can almost instantly down your plane
+* Elevators may jam in a dive
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The SB2C-4 Helldiver was an improved model of the SB2C-3, which was in turn based on the [[SB2C-1c]].
@@ -211,12 +198,10 @@ In 1945, Helldivers were used in attacks on the Ryukyu Islands and the Japanese 
 After the war, the SB2C remained in active-duty service with the US Navy until 1947, and with the Naval Reserve until 1950.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=sb2c_4 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=sb2c_4 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|uJziizNMYj8|'''The Shooting Range #164''' - ''Pages of History'' section at 04:12 discusses the SB2C Helldiver.}}
@@ -224,16 +209,15 @@ After the war, the SB2C remained in active-duty service with the US Navy until 1
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/272430-curtiss-sb2c-4/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/272430-curtiss-sb2c-4/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Curtiss}}
 {{USA bombers}}

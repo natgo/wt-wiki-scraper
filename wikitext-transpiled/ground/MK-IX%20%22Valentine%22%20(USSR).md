@@ -5,19 +5,16 @@
 }}
 {{Specs-Card
 |code=ussr_valentine_mk_9
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet medium tank {{Battle-rating}}. It was introduced during [[Update 1.95 "Northern Wind"]] as a special Valentine's Day vehicle. This is a Lend-Lease Valentine, shipped to the USSR by the British. The tank was made available to purchase in-game with Golden Eagles ({{GE}}) for specific mini-events like the [[wt:en/news/6583-special-valentine-s-day-en|2020]], [[wt:en/news/7042-special-lunar-new-year-and-valentine-s-day-en|2021]], and [[wt:en/news/7555-special-happy-valentine-s-day-en|2022]] Valentine's Day events.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 The armour on the MK-IX "Valentine" is quite mediocre head on, but slightly above par when angled. The maximum base armour thickness of the hull is 60 mm and is laid out flat on the designs, while the sloping portions are of thinner 30 mm armour plates. This gives an average thickness of ~60 mm of armour when facing the MK-IX "Valentine" flat from the front. However if angled, the armour has an effective thickness of 80mm, as such this is heavily advised. The turret is more well protected than the hull, with its front armoured with 65 mm armour plates and sloped with its circular shape, but the cast construction of the gun mantlet can lead to some enemies attacking the gun breech to disable the Valentine's firepower, if they do not aim for the hull directly.
@@ -28,8 +25,8 @@ The Valentines biggest advantage when it comes to survival is its small size. Be
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (Hull, Turret)
-- Cast homogeneous armour (Gun mantlet)
+* Rolled homogeneous armour (Hull, Turret)
+* Cast homogeneous armour (Gun mantlet)
 
 {| class="wikitable"
 |-
@@ -43,12 +40,11 @@ The Valentines biggest advantage when it comes to survival is its small size. Be
 
 '''Notes:'''
 
-- Belly armour is 20 mm thick.
-- Suspension wheels, bogies, and tracks are all 20 mm thick.
+* Belly armour is 20 mm thick.
+* Suspension wheels, bogies, and tracks are all 20 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=256|rbMinHp=146}}
@@ -60,9 +56,7 @@ The Valentines biggest advantage when it comes to survival is its small size. Be
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|6pdr OQF Mk.III (57 mm)}}
 
 The [[6pdr OQF Mk.III (57 mm)|57 mm 6pdr OQF Mk.III]] is a potent gun at its rank. Although it lacks explosive filler, due to the high penetration of its rounds and the quick reload (especially compared to other Russian tanks), the Valentine will be able to penetrate most enemy tanks from the front. It is advised to bring more ammo than expected as it will take a few shots to completely destroy an enemy. Since the ammo is largely stored in the same place, the exact number of shells brought into battle doesn't matter.
@@ -132,9 +126,7 @@ The [[6pdr OQF Mk.III (57 mm)|57 mm 6pdr OQF Mk.III]] is a potent gun at its ran
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Valentine_Mk_IX.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -166,9 +158,7 @@ The [[6pdr OQF Mk.III (57 mm)|57 mm 6pdr OQF Mk.III]] is a potent gun at its ran
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The MK-IX Valentine fits in a niche battle rating in the Soviet line-up with its own unique traits. Its armour is a considerable improvement from preceding medium tanks like the [[T-28]]. The firepower with the 57 mm gun gives penetration values similar to the tank destroyers like the [[ZiS-30]], along with a faster reloading rate, superior gun depression and an enclosed turret with good armour. However, its mobility is a downgrade compared to anything available to the Soviets, even the ~30 ton heavier [[KV-1]] can move faster than the Valentine on the battlefield. As such, finding a place for the Valentine in the Soviet line-up can be tricky.
 
 The Valentine's excelling role is in a methodical march towards its objective, as its mobility precludes any attempt to make a speedy flanking manoeuvre. Teammates are more than likely to reach and capture the point before the Valentine will, but this does not mean the Valentine should not participate in the effort.
@@ -178,29 +168,27 @@ One must use the Valentine wisely to not expose it too long in the open when tra
 Once a position is taken however, the Valentine can plant itself securely at the location at suitable firing positions and make use of the fast-firing and potent 57 mm gun to take out any enemy assault units. The green paint on the Valentine can assist in concealment on foliage-rich environment for a good ambush position. Whether from behind cover or a hull-down position, the Valentine can end up victorious in an engagement if it hits with the first shot. However, due to the poor mobility, the Valentine's movement is restricted. This means it is important to make sure the enemy's ability to fire back and/or move is knocked out in the first shot so it is not required to retreat back into cover during the brief reloading period, then out again to fire, especially since that whole manoeuvre can take more time than simply reloading in place while exposing the tank to return fire. The poor mobility also means the Valentine needs to be aware of any flanking vehicles coming up, as the Valentine would not be able to react fast enough to the new threat.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- The 57 mm gun has good stock shells to do significant damages upon penetrating
-- Heavily sloped upper glacis can bounce a few shots
-- Around 80 mm of effective armour on hull when angled at ~35 degrees
-- Low profile allows it to hide behind more obstacles in the battlefield
-- Turret is angled and has a complex construction, allowing it to bounce some shots
-- Fast reload speed
+* The 57 mm gun has good stock shells to do significant damages upon penetrating
+* Heavily sloped upper glacis can bounce a few shots
+* Around 80 mm of effective armour on hull when angled at ~35 degrees
+* Low profile allows it to hide behind more obstacles in the battlefield
+* Turret is angled and has a complex construction, allowing it to bounce some shots
+* Fast reload speed
 
 '''Cons:'''
 
-- No machine gun
-- Side armour is very weak
-- Slow top speed (22 km/h)
-- No explosive filler in shells
-- Only three tightly sitting crew members (crew can be knocked out very easily)
-- Thin top armour makes it vulnerable to air attacks
+* No machine gun
+* Side armour is very weak
+* Slow top speed (22 km/h)
+* No explosive filler in shells
+* Only three tightly sitting crew members (crew can be knocked out very easily)
+* Thin top armour makes it vulnerable to air attacks
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{main|Valentine_IX#History|l1=History of the Valentine IX}}
@@ -211,7 +199,7 @@ As part of the Lend-Lease program, the Soviet Union requested tanks and other mi
 
 The first British tanks Lend-Lease shipment, carrying 20 Valentine tanks, arrived to the Soviet Union on October 11, 1941 at the port of Arkhangelsky as part of the Arctic convoys. A training program for the Valentines were created at the Kazan Courses of Armoured Force Improvement (KUKS) by October 15th, while the tanks themselves arrive to the location on October 28th. Alongside the second tank shipment of 120 Valentine tanks were 22 British men to help the Soviets organize repair workshops and other knowledge transfers about the tanks, which was concluded in November 11th. Training was expedited to a 15-day course, but 120 crew members were trained by the middle of November.<ref name="Zaloga_LL(1)"/><ref name="Pasholok_TankArchives_Valentine"/> By the end of 1941, 259 Valentine tanks have been sent to the Soviet Union, with 216 of them issued to combat formations.<ref name="Bruce_Valentine">Newsome 2016, Soviet Use</ref>
 
-The Valentines first saw use in late November 1941 among the 136th, 137th, 138th, and 139th Independent Tank Battalions with a total of 97 Valentines, mostly in the defense of Moscow around what was considered second-rate enemies.<ref name="Bruce_Valentine"/> In Soviet designations, the Valentines were referred to as "English tank MK-III\*". Problems with the Valentine design became apparent, especially in cold weather where the ventilation system design made the interiors too cold, a cooling system that overcooled the engine, and tracks that lost traction in deep snow.<ref name="Pasholok_TankArchives_Valentine"/> Another complaint was the Valentine II's armament, the [[QF 2-pounder (40 mm)|2-pdr gun]], for its lack of high-explosive shell availability. The Soviets attempted to remedy the issue by replacing the 2-pdr gun with a [[20-K (45 mm)|45 mm 20-K gun]] at the Grabin design bureau at Factory #92. While the redesign proved feasible, the shortage of 45 mm guns and lack of significant improvements in anti-tank performance led to the project's cancellation in January 1942.<ref name="Pasholok_TankArchives_ValentineMod">Pasholok 2016</ref> Overall, while the Soviets have criticism on the Valentine's design, they judged the performance to be more useful than the Matilda, even in the winter, and equivalent or better to their domestic light tanks, with Soviets classifying the Valentines as light tanks during the Battle of Moscow. Due to this, on December 03, 1941, Stalin requested to the British Minister of Supply, Lord Beaverbrook, to prioritize the shipment of Valentine tanks over the Matilda tanks.<ref name="Zaloga_LL(2)">Zaloga 2017, 11-14</ref>
+The Valentines first saw use in late November 1941 among the 136th, 137th, 138th, and 139th Independent Tank Battalions with a total of 97 Valentines, mostly in the defense of Moscow around what was considered second-rate enemies.<ref name="Bruce_Valentine"/> In Soviet designations, the Valentines were referred to as "English tank MK-III*". Problems with the Valentine design became apparent, especially in cold weather where the ventilation system design made the interiors too cold, a cooling system that overcooled the engine, and tracks that lost traction in deep snow.<ref name="Pasholok_TankArchives_Valentine"/> Another complaint was the Valentine II's armament, the [[QF 2-pounder (40 mm)|2-pdr gun]], for its lack of high-explosive shell availability. The Soviets attempted to remedy the issue by replacing the 2-pdr gun with a [[20-K (45 mm)|45 mm 20-K gun]] at the Grabin design bureau at Factory #92. While the redesign proved feasible, the shortage of 45 mm guns and lack of significant improvements in anti-tank performance led to the project's cancellation in January 1942.<ref name="Pasholok_TankArchives_ValentineMod">Pasholok 2016</ref> Overall, while the Soviets have criticism on the Valentine's design, they judged the performance to be more useful than the Matilda, even in the winter, and equivalent or better to their domestic light tanks, with Soviets classifying the Valentines as light tanks during the Battle of Moscow. Due to this, on December 03, 1941, Stalin requested to the British Minister of Supply, Lord Beaverbrook, to prioritize the shipment of Valentine tanks over the Matilda tanks.<ref name="Zaloga_LL(2)">Zaloga 2017, 11-14</ref>
 
 ===Canadian Production===
 [[File:Valentine tanks en route by rail to the Soviet Union.jpg|x275px|right|thumb|none|Canadian-produced Valentines from CPR company being loaded onto flat cars to be shipped to the Soviet Union.]]
@@ -232,48 +220,44 @@ The Valentine tanks of all variants would continue to see use in the Red Army, s
 Of the 7,260 Valentine tank models that would be produced by Britain and Canada (5,840 British, 1,420 Canada), 3,665 of the Valentine tanks would be shipped to the Soviet Union, alongside 25 Valentine bridgelayer variants for a total of 3,690. The British and Canadian shipped a large variety of Valentine tank models towards the Soviet Union, With Britain encompassing Valentine II, III, IV, V, IX and X while Canada provided the Valentine VII.<ref name="Bruce_ValentineP">Newsome 2016, Production</ref> Of the 3,665 turreted tanks sent to the Soviet Union (Mk II: 161, Mk III: 346, Mk IV: 520, Mk V: 340, Mk VII: 1,388, Mk IX: 836, Mk X: 74), 415 would be lost at sea during the transit, and so the Soviets received a total of 3,250 Valentine tanks at their ports (Mk II: 136, Mk III: 346, Mk IV: 449, Mk V: 227, Mk VII: 1,208, Mk IX: 818, Mk X: 66).<ref name="Bruce_ValentineN">Newsome 2016, New Zealand Use<!--despite the name, the table with this data is in this section--></ref>
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_valentine_mk_9 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_valentine_mk_9 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|yIUl_8XgPCU|'''Should You Buy: {{PAGENAME}}''' - ''ConeOfArc''|xIrVVhdC9ac|'''Tank Chats #11 Valentine''' - ''The Tank Museum''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other British lend-lease vehicles
 
-- {{Specs-Link|ussr_a_12_mk_2_matilda_2A_F96}}
+* {{Specs-Link|ussr_a_12_mk_2_matilda_2A_F96}}
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wikipedia:Valentine_tank|[Wikipedia] Valentine tank]]
-- [https://tanks-encyclopedia.com/ww2/gb/Tank_Infantry_MkIII_Valentine.php <nowiki>[Tanks Encyclopedia]</nowiki> Valentine, Infantry Tank Mk.III]
+* [[wikipedia:Valentine_tank|[Wikipedia] Valentine tank]]
+* [https://tanks-encyclopedia.com/ww2/gb/Tank_Infantry_MkIII_Valentine.php <nowiki>[Tanks Encyclopedia]</nowiki> Valentine, Infantry Tank Mk.III]
 
 ===References===
 ;Citations:
 <references />
 
 ;Bibliography:
-
-- Axe, David. 2020. "To Russia With Love: The British Valentine tank in the Red Army." Medium. Last modified March 20, 2020. [https://medium.com/angry-planet/to-russia-with-love-76a2e4ca6c46 Website] ([https://web.archive.org/web/20220904171001/https://medium.com/angry-planet/to-russia-with-love-76a2e4ca6c46 Archive])
-- Law, Clive M. 2001. ''Making Tracks: Tank Production in Canada''. Ottawa, Ontario: Service Publications.
-- Newsome, Bruce Oliver. 2016. ''Valentine Infantry Tank 1938-45''. Great Britain: Osprey Publishing. Kindle.
-- Pasholok, Yuri. 2016. "Valentine Mods in the USSR." Tank Archives. Translated by Peter Samsonov. Last modified March 13, 2016. [http://www.tankarchives.ca/2016/03/valentine-mods-in-ussr.html Website] ([https://web.archive.org/web/20220904171015/http://www.tankarchives.ca/2016/03/valentine-mods-in-ussr.html Archive])
-- Pasholok, Yuri. 2017. "British Tank for Soviet Infantry." Tank Archives. Translated by Peter Samsonov. Last modified November 04, 2017. [http://www.tankarchives.ca/2017/11/british-tank-for-soviet-infantry.html Website] ([https://web.archive.org/web/20220904171025/http://www.tankarchives.ca/2017/11/british-tank-for-soviet-infantry.html Archive])
-- Pasholok, Yuri. 2019. "Valentine With a Long Gun." Tank Archives. Translated by Peter Samsonov. Last modified January 26, 2019. [http://www.tankarchives.ca/2019/01/valentine-with-long-gun.html Website] ([https://web.archive.org/web/20220904171034/http://www.tankarchives.ca/2019/01/valentine-with-long-gun.html Archive])
-- Zaloga, Steven J. 2017. ''Soviet Lend-Lease Tanks of World War II''. Great Britain: Osprey Publishing. Kindle.
+* Axe, David. 2020. "To Russia With Love: The British Valentine tank in the Red Army." Medium. Last modified March 20, 2020. [https://medium.com/angry-planet/to-russia-with-love-76a2e4ca6c46 Website] ([https://web.archive.org/web/20220904171001/https://medium.com/angry-planet/to-russia-with-love-76a2e4ca6c46 Archive])
+* Law, Clive M. 2001. ''Making Tracks: Tank Production in Canada''. Ottawa, Ontario: Service Publications.
+* Newsome, Bruce Oliver. 2016. ''Valentine Infantry Tank 1938-45''. Great Britain: Osprey Publishing. Kindle.
+* Pasholok, Yuri. 2016. "Valentine Mods in the USSR." Tank Archives. Translated by Peter Samsonov. Last modified March 13, 2016. [http://www.tankarchives.ca/2016/03/valentine-mods-in-ussr.html Website] ([https://web.archive.org/web/20220904171015/http://www.tankarchives.ca/2016/03/valentine-mods-in-ussr.html Archive])
+* Pasholok, Yuri. 2017. "British Tank for Soviet Infantry." Tank Archives. Translated by Peter Samsonov. Last modified November 04, 2017. [http://www.tankarchives.ca/2017/11/british-tank-for-soviet-infantry.html Website] ([https://web.archive.org/web/20220904171025/http://www.tankarchives.ca/2017/11/british-tank-for-soviet-infantry.html Archive])
+* Pasholok, Yuri. 2019. "Valentine With a Long Gun." Tank Archives. Translated by Peter Samsonov. Last modified January 26, 2019. [http://www.tankarchives.ca/2019/01/valentine-with-long-gun.html Website] ([https://web.archive.org/web/20220904171034/http://www.tankarchives.ca/2019/01/valentine-with-long-gun.html Archive])
+* Zaloga, Steven J. 2017. ''Soviet Lend-Lease Tanks of World War II''. Great Britain: Osprey Publishing. Kindle.
 
 {{Manufacturer Vickers-Armstrongs}}
 {{USSR medium tanks}}

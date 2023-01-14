@@ -1,42 +1,37 @@
 {{Specs-Card
 |code=jp_type_98_ke_ni
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' ({{Annotation|九八式軽戦車「ケニ」|Kyūhachi-Shiki Kei-Sensha [Ke-Ni]}}) is a reserve rank {{Specs|rank}} Japanese light tank {{Battle-rating}}. It was introduced along with the initial Japanese Ground Forces tree in [[Update 1.65 "Way of the Samurai"]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
-With around 12 mm of armour all around, this tank is barely bulletproof. German and British machine guns can even knock you down at point-blank range. Your crew is cramped and not numerous, which makes surviving a shot extremely unlikely. This is definitely not the tank to expose to any kind of shots. With its small turret and impressive gun depression, hull-down positions improve this vehicle's survivability and should be sought whenever possible.
+With around 12 mm of armour all around, this tank is barely bulletproof. German and British machine guns can even knock you down at point-blank range. Your crew is cramped and not numerous, which makes surviving a shot extremely unlikely. This is definitely not the tank to expose to any kind of shots. With its small turret and impressive gun depression, hull-down positions improve this vehicle's survivability and should be sought whenever possible. 
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
+* Rolled homogeneous armour
 
 {| class="wikitable"
 |-
 ! Armour !! Front !! Sides !! Rear !! Roof
 |-
-| Hull || 12 + 10 mm (20-27°) ''Front plate'' <br> 12 mm (71°) ''Front glacis'' <br> 12 mm (2-58°) ''Lower glacis'' || 12 mm (29-34°) ''Top'' <br> 12 mm ''Bottom'' || 10 mm (52°) ''Top'' <br> 10 mm (12-52°) ''Bottom'' || 10 mm
+| Hull || 12 + 10 mm (20-27°) ''Front plate'' <br> 12 mm (71°) ''Front glacis'' <br>  12 mm (2-58°) ''Lower glacis''  || 12 mm (29-34°) ''Top'' <br> 12 mm ''Bottom'' || 10 mm (52°) ''Top'' <br> 10 mm (12-52°) ''Bottom'' || 10 mm
 |-
 | Turret || 12 mm (0-81°) ''Turret front'' <br> 16 mm ''Gun mantlet'' || 12 mm (25°) || 12 mm (25°) <br> 10 mm (24-25°) ''Rear door'' || 9 mm
 |-
 |}
 '''Notes:'''
 
-- Suspension wheels and tracks are both 15 mm thick.
+* Suspension wheels and tracks are both 15 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=141|rbMinHp=115}}
@@ -50,9 +45,7 @@ This tank is quite fast and can achieve surprising feats of mobility. Coupled wi
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|Type 100 (37 mm)}}
 
 Offering an improved gun and ammunition selection compared to the [[Ha-Go]], this tank offers a good learning curve from its predecessor. Though this cannon does not have the best penetration at rank I, the trademark Japanese APHE has a good amount of HE filler and ensures that each penetrating shot deals damage. The gun only has one type of ammunition.
@@ -106,9 +99,7 @@ Offering an improved gun and ammunition selection compared to the [[Ha-Go]], thi
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 1.101.0.44''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -127,9 +118,7 @@ Only left side: 81&nbsp;''(+29)''
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|Type 97 (7.7 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -143,38 +132,34 @@ Only left side: 81&nbsp;''(+29)''
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 Being a light tank, the Ke-Ni cannot engage enemies head-on. To succeed in an assault, you need to be sneaky. Flanking, avoiding the enemy and going behind them is your best option. The 37 mm gun can penetrate most Rank I tanks if you hit their weak spots, though it may take a few shots to destroy an enemy. Your first shot should be to take out the enemy gunner so they can't retaliate. After that, take out their driver so they can't retreat. Never linger in an open field since anything can kill you with ease. Use your good gun depression to keep a hull-down position behind hills and just pop out to shoot. Hide in bushes or behind buildings or rocks. You are quite small, so use this to your advantage.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Low profile
-- Slightly improved 37 mm cannon able to penetrate the majority of rank 1 tanks it faces
-- Coaxial machine gun (rare for a early Japanese tank)
-- Large ammo load
-- Short reload time
-- Small engine, which is hard to hit from the front
-- Good turret traverse
-- -15° of depression
-- Has shoulder lock, which is a primitive form of the vertical stabiliser
-- Good reverse speed (-7 km/h)
+* Low profile 
+* Slightly improved 37 mm cannon able to penetrate the majority of rank 1 tanks it faces
+* Coaxial machine gun (rare for a early Japanese tank)
+* Large ammo load
+* Short reload time
+* Small engine, which is hard to hit from the front
+* Good turret traverse
+* -15° of depression
+* Has shoulder lock, which is a primitive form of the vertical stabiliser
+* Good reverse speed (-7 km/h)
 
 '''Cons:'''
 
-- Relatively little armour, can be penetrated by 12.7 mm machine guns
-- Hard to angle due to the shape of the armour
-- Only 3 crew members
-- Crew is cramped
-- Only one ammunition choice, can have difficulty dealing with heavily armoured tanks
+* Relatively little armour, can be penetrated by 12.7 mm machine guns
+* Hard to angle due to the shape of the armour
+* Only 3 crew members
+* Crew is cramped
+* Only one ammunition choice, can have difficulty dealing with heavily armoured tanks
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 === Development ===
@@ -196,24 +181,21 @@ The driver was located in a central position of the chassis and received a stand
 In contrast to the one-man turret of [[Ha-Go|Type 95 Ha-Go]], the Type 98 had a two-man turret, which featured additional room for a loader next to the gunner/commander. The gun was a [[Type 100 (37 mm)|Type 100 37 mm tank gun]] with vertical elevations of -15 to +20 degrees in the turret, a muzzle velocity of 760 m/s, and also a coaxial [[Type 97 (7.7 mm)|Type 97 (7.7 mm) machine gun]] instead of in the back of the turret.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_98_ke_ni Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_98_ke_ni Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{TankManufacturer Hino}}
 {{Japan light tanks}}

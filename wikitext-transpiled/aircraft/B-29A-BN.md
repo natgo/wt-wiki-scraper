@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=b-29
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} American bomber {{Battle-rating}}. It was introduced in [[Update 1.47 "Big Guns"]]. The B-29 follows the [[B-24D-25-CO|B-24 Liberator]] in the U.S. bomber branch and is currently the last American propeller-powered bomber in the US Tech Tree. At the top of its game, the B-29A-BN is a powerful and heavily armed bomber, though it suffers from having to face early jets.
 
 In the few years leading up to World War II, the United States Army Air Corps (USAAC) realized that its current primary heavy bomber, the [[B-17 (Family)|B-17]] would not have the range nor the payload which would be needed to efficiently transit what would end up becoming the Pacific Theater. To compensate for this Boeing began to develop a prototype which would incorporate a pressurized cabin to allow for higher altitude flying, which would help to protect the bomber from Japanese fighters which struggled to get to the higher altitudes.
@@ -25,14 +23,12 @@ The B-29A-BN is an aerial beast which can drop a beastly amount of explosive ord
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 [[File:B-29 jonigustavo 001.png|300px|thumb|right]]
 
 The B-29A-BN, much like its contemporaries the Messerschmitt [[Me 264]], Blohm & Voss [[BV 238]] and Tupolev [[Tu-4]] was built for the sole purpose of flying high and dropping large amounts of bombs. To account for these characteristics, others such as manoeuvrability, climb rate and acceleration were compromised. The B-29 is a heavy aircraft which when adding 10,000 – 20,000 lbs of ordnance will only make the plane that much more difficult to get to altitude, but once there this aircraft does have a decent cruising speed. To help speed up gameplay for this aircraft, it is given an air-start at the beginning of matches and also after landing to reload and repair due to its sheer size and difficulty climbing to its bombing altitude.
 
-The typical method of utilising this bomber is to fly the aircraft to a higher altitude. Depending on the enemy fighters, attackers and interceptors which appear in the match, you may be able to stay lower around 6,000 m (20,000 ft) or you may need to increase closer to 9,150 m (30,000 ft) to make it extremely difficult for the fighters to follow you up and many if they do get that high, their engines are struggling to keep the plane above stall speed which provides you with the opportunity to leave them behind or to easily pick them off with your gunners.
+The typical method of utilising this bomber is to fly the aircraft to a higher altitude. Depending on the enemy fighters, attackers and interceptors which appear in the match, you may be able to stay lower around 6,000 m (20,000 ft) or you may need to increase closer to 9,150 m (30,000 ft) to make it extremely difficult for the fighters to follow you up and many if they do get that high, their engines are struggling to keep the plane  above stall speed which provides you with the opportunity to leave them behind or to easily pick them off with your gunners.
 
 One downside to flying at the higher altitudes in arcade battles is that if you bomb a base but don't completely destroy it, it is difficult to circle back around and bomb again when the bombs have reloaded. A wide circle is necessary to accomplish this and it may be better and more efficient instead to fly towards another base, bomb it and turn around and finish off the first base. Another option too is to leave the partially bombed bases for the smaller and slower bombers on your team to finish off or just catch the partially bombed bases on a return pass.
 
@@ -61,7 +57,7 @@ One downside to flying at the higher altitudes in arcade battles is that if you 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -126,17 +122,16 @@ One downside to flying at the higher altitudes in arcade battles is that if you 
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 60 mm Bulletproof glass in front of the pilots.
-- 6.5 mm Steel plates in front of the pilots.
-- 6.5 mm Steel plates behind the pilots.
-- 6.5 mm Steel plates in front of tail control tractions.
-- 6.5 mm Steel plates boxing around rear dorsal gunner and beam gunners.
-- 6.5 mm Steel plate behind the rear ventral gunner.
-- 60 mm Bulletproof glass in front of tail gunner.
-- 6.5 mm Steel plate in front of tail gunner.
+* 60 mm Bulletproof glass in front of the pilots.
+* 6.5 mm Steel plates in front of the pilots.
+* 6.5 mm Steel plates behind the pilots.
+* 6.5 mm Steel plates in front of tail control tractions.
+* 6.5 mm Steel plates boxing around rear dorsal gunner and beam gunners.
+* 6.5 mm Steel plate behind the rear ventral gunner.
+* 60 mm Bulletproof glass in front of tail gunner.
+* 6.5 mm Steel plate in front of tail gunner.
 
 The B-29A-BN had to be judicious when it came to providing protecting armour for the aircrew at the sacrifice of additional fuel or ordnance. In fact, later models removed many of their defensive turrets in order to allow for more fuel and ordnance to be loaded. It is obvious that an aircraft this size will be a huge target for enemy fighters to attack with the nose section (cockpit) and the tail turret being the two most likely targets (head-on attack and tail approach attack) and thus both areas were outfitted with 60 mm bulletproof glass which helps against lower calibre weapons, however 20 mm and above make short work of the bulletproof glass. 6.5 mm steel plates are scattered around the aircraft to provide protection for both the crew members and some of the control surface linkages. Though not a stop-all invincible shield for the crew, it many instances it provided enough protection to allow crew members to survive and fight another day.
 
@@ -147,20 +142,18 @@ The B-29A-BN had to be judicious when it came to providing protecting armour for
 {{Specs-Avia-Armaments}}
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 [[File:B-29 meanswing 001.png|450px|thumb|right]]
 {{main|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|AN-M66A2 (2,000 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 20 x 500 lb AN-M64A1 bombs (10,000 lb total)
-- 18 x 1,000 lb AN-M65A1 bombs (18,000 lb total)
-- 40 x 500 lb AN-M64A1 bombs (20,000 lb total)
-- 8 x 2,000 lb AN-M66A2 bombs (16,000 lb total)
+* 20 x 500 lb AN-M64A1 bombs (10,000 lb total)
+* 18 x 1,000 lb AN-M65A1 bombs (18,000 lb total)
+* 40 x 500 lb AN-M64A1 bombs (20,000 lb total)
+* 8 x 2,000 lb AN-M66A2 bombs (16,000 lb total)
 
-<nowiki>\*</nowiki> Note: A nuclear payload becomes available for the B-29 in Ground Arcade battles of BR 6.0 and higher. It consists of 1 nuclear bomb and is attainable after reaching 15 kills in the match.
+<nowiki>*</nowiki> Note: A nuclear payload becomes available for the B-29 in Ground Arcade battles of BR 6.0 and higher. It consists of 1 nuclear bomb and is attainable after reaching 15 kills in the match.
 
 One might say the B-29A-BN is effectively a dump truck which can dump a ton of explosives, no make that upwards of 10 tons of explosives upon enemy targets. Utilising speed at higher altitudes, it is the purpose of the Superfortress to race to an enemy base or ground targets and just rain down TNT. With three choices of bomb weights to choose from and four different configurations, there is no shortage of ways to destroy ground targets. The 1,000 lb and 2,000 lb bombs come in most handy for base bombing as they do the most amount of damage for the least amount of effort in a concentrated area. Area of denial is the speciality of the 500 lb bombs when used in carpet bombing operations. Carpet bombing is effectively laying down many of the 500 lb bombs at one time over an area where vehicles such as trucks, tanks and anti-aircraft vehicles or hardened structures such as pillboxes or anti-aircraft artillery may be located at. Since vehicles are on the move, dropping multiple bombs at a time making it more difficult for them to move out of the way and avoid the inbound ordnance.
 
@@ -168,19 +161,17 @@ With the B-29A-BN, there is no real overkill with the bombs, which can make the 
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 [[File:B-29 your jacket 001.jpg|350px|thumb|right|A Bf 109 attempts to take on a B-29A-BN.]]
 {{main|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 4 x 12.7 mm M2 Browning machine guns, front dorsal turret (1,000 rpg = 4,000 total)
-- 2 x 12.7 mm M2 Browning machine guns, front ventral turret (1,000 rpg = 2,000 total)
-- 2 x 12.7 mm M2 Browning machine guns, rear dorsal turret (1,000 rpg = 2,000 total)
-- 2 x 12.7 mm M2 Browning machine guns, rear ventral turret (1,000 rpg = 2,000 total)
-- 2 x 12.7 mm M2 Browning machine guns, tail turret (1,000 rpg = 2,000 total)
+* 4 x 12.7 mm M2 Browning machine guns, front dorsal turret (1,000 rpg = 4,000 total)
+* 2 x 12.7 mm M2 Browning machine guns, front ventral turret (1,000 rpg = 2,000 total)
+* 2 x 12.7 mm M2 Browning machine guns, rear dorsal turret (1,000 rpg = 2,000 total)
+* 2 x 12.7 mm M2 Browning machine guns, rear ventral turret (1,000 rpg = 2,000 total)
+* 2 x 12.7 mm M2 Browning machine guns, tail turret (1,000 rpg = 2,000 total)
 
 The B-29A-BN is defended by an impressive 12 x .50 calibre Browning machine guns rivalled only by the Blohm & Voss [[BV 238]], Tupolev [[Tu-4]], Consolidated [[PB4Y-2]] and [[B-24D-25-CO|B-24]] and the Boeing [[B-17 (Family)|B-17]]. Typically when bombers add more guns, they had to add more crew to operate them which increased the overall weight of the aircraft, though ensuring more protection, it also reduced the amount of fuel or bombs which could be carried.
 
@@ -189,7 +180,6 @@ As a historical note, the advent of early analogue computers which were outfitte
 The computer-aided turrets allowed for more accuracy when firing and can train the guns in just about any direction needed to combat incoming fighters. The tail gunner position is especially deadly as a fighter perched on the tail will be flying into the oncoming bullets from the tail gun position, thereby taking more damage when hit and more likely to take on a critical hit or disabling blow. Though not totally invulnerable to the crafty fighter pilot, the B-29 in its own right is a porcupine with sharp quills pointing in all directions which will make it as difficult as possible for anyone to get past the defences.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The ultimate strategic bomber for the [[:Category:USA_aircraft|USAF]]. Loaded up with eight metric tonnes of bombs and twelve good ol' Browning heavy machine guns, this is the Superfortress. A wonderful advertising name, but don't be fooled, it is bigger than a barn and thus impossible to miss. Keep a safe distance from any hot combat zones. Your defensive turrets will not keep you safe, they will shred any foe getting close, but the B-29's enemies do not need to. So concentrate on what this plane is good at; delivering payload, and lots of it.
@@ -226,39 +216,36 @@ Due to this tactic hinging only on the success of slipping through the enemies u
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 [[File:B-29 kohler 001.png|350px|thumb|right|B-29A-BN's cockpit crew during a turn]]
 
 '''Pros:'''
 
-- Very heavy payload
-- Stock bomb load is able to destroy bases with one payload in arcade and up to two bases in realistic/simulator battles
-- Can be difficult for fighters to reach same cruising altitude, even for jets
-- Effective defensive turrets which virtually have no blind spots
-- Fast for its size
-- Virtually immune to small arms machine gunfire
-- Receives air start after repairing/rearming in an airfield
-- All payload options are internal and have next to no effect on flight performance
-- Gunners are located separately from the gun turret (remote-controlled turrets) with the exception of the tail turret
-- Can easily win a match if allowed to reach optimal bombing altitude
+* Very heavy payload
+* Stock bomb load is able to destroy bases with one payload in arcade and up to two bases in realistic/simulator battles
+* Can be difficult for fighters to reach same cruising altitude, even for jets
+* Effective defensive turrets which virtually have no blind spots
+* Fast for its size
+* Virtually immune to small arms machine gunfire
+* Receives air start after repairing/rearming in an airfield
+* All payload options are internal and have next to no effect on flight performance
+* Gunners are located separately from the gun turret (remote-controlled turrets) with the exception of the tail turret
+* Can easily win a match if allowed to reach optimal bombing altitude
 
 '''Cons:'''
 
-- Easily susceptible to damage from autocannons larger than 20 mm especially the [[MK 108 (30 mm)|30 mm MK 108]]
-- Unable to reliably defend itself from multiple opponents attacking at once from multiple directions
-- Big size, can easily be spotted from long distances, especially with skilled crews
-- Has a low dive top-speed
-- As with all heavy bombers, it lacks the ability to manoeuvre well
-- Takes a while to reach an optimal altitude
-- Landing gear takes a long time to deploy and retract
-- Wings are considered weak spots
-- Will face jets most of the time
-- Low flap deployment max speed
+* Easily susceptible to damage from autocannons larger than 20 mm especially the [[MK 108 (30 mm)|30 mm MK 108]]
+* Unable to reliably defend itself from multiple opponents attacking at once from multiple directions
+* Big size, can easily be spotted from long distances, especially with skilled crews
+* Has a low dive top-speed
+* As with all heavy bombers, it lacks the ability to manoeuvre well
+* Takes a while to reach an optimal altitude
+* Landing gear takes a long time to deploy and retract
+* Wings are considered weak spots
+* Will face jets most of the time
+* Low flap deployment max speed
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The B-29 was one of the largest aircraft used during World War II. It was exclusively used in the Pacific Theatre during the war and participated in bombing raids on multiple islands in the Pacific war. The B-29 became the world's first and only nuclear-capable bomber to deliver weapons during wartime when on August 6th, 1945 the B-29 Enola Gay dropped the atomic bomb known as "Little Boy" on Hiroshima, Japan. Three days later, the B-29 Bockscar dropped the second atomic bomb "Fat Man" on Nagasaki, Japan.
@@ -299,12 +286,11 @@ A total of 3,947 B-29s were manufactured, including all variants. The plane was 
 [[File:B-29 tay777 001.png|600px|thumb|center|]]
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=b-29 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=b-29 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover" heights="150">
@@ -318,27 +304,25 @@ File:B-29A-BN releasing Mark 6 nuclear bomb.png
 {{Youtube-gallery|8Yewf7LXfUU|'''WT - B-29 - Punished for not Scumbagging''' - ''NapalmRatte''|gxIVvUZGptw|'''The Shooting Range #51''' - ''Special'' section at 00:29 discusses the B-29 & Tu-4.|3Ut75XHCWgk|'''Realistic: B-29A-BN Superfortress [Grace]''' - ''Jengar''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Aircraft of comparable role, configuration and era
 
-- Heinkel [[He 177 A-5]]
-- Tupolev [[Tu-4]]
-- Nakajima [[G8N1]]
+* Heinkel [[He 177 A-5]]
+* Tupolev [[Tu-4]]
+* Nakajima [[G8N1]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/3507--en|[Profile] B-29 Superfortress]]
-- [[Wikipedia:Boeing_B-29_Superfortress|[Wikipedia] B-29 Superfortress]]
-- [https://www.boeing.com/history/products/b-29-superfortress.page <nowiki>[Boeing.com]</nowiki> B-29 Superfortress History Page]
-- [https://www.militaryfactory.com/aircraft/detail.asp?aircraft_id=82 <nowiki>[Militaryfactory.com]</nowiki> Boeing B-29 Superfortress - Strategic High-Altitude Long-Range Heavy Bomber Aircraft]
+* [[wt:en/news/3507--en|[Profile] B-29 Superfortress]]
+* [[Wikipedia:Boeing_B-29_Superfortress|[Wikipedia] B-29 Superfortress]]
+* [https://www.boeing.com/history/products/b-29-superfortress.page <nowiki>[Boeing.com]</nowiki> B-29 Superfortress History Page]
+* [https://www.militaryfactory.com/aircraft/detail.asp?aircraft_id=82 <nowiki>[Militaryfactory.com]</nowiki> Boeing B-29 Superfortress - Strategic High-Altitude Long-Range Heavy Bomber Aircraft]
 
 === References ===
 <references />

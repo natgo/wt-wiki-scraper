@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 This aircraft is typical of Japanese fighter design: light armour and tight manoeuvrability. This aircraft can out-turn most other fighters of rank 1-2. It dances away from the line of fire with extreme agility, and can strike from high angles with ease.
@@ -47,7 +44,7 @@ This aircraft is typical of Japanese fighter design: light armour and tight mano
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || X || ✓ || X || X <!-- ✓ -->
+| X || X || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -92,7 +89,6 @@ This aircraft is typical of Japanese fighter design: light armour and tight mano
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!--Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.-->
 
 Typical of low-rank Japanese fighter design, this aircraft has no armour. Due to this, most calibres found in ranks 1 and 2 will make quick work of this plane. Don't let this sway you away from this plane, it makes up for its lack of armour with extreme manoeuvrability. The fuel tanks are not self-sealing. There are 2 in each wing, and a 5th one located close to the oil cooling system.
@@ -104,21 +100,17 @@ Typical of low-rank Japanese fighter design, this aircraft has no armour. Due to
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Type 89 army (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 7.7 mm Type 89 army machine guns, nose-mounted (500 rpg = 1,000 total)
+* 2 x 7.7 mm Type 89 army machine guns, nose-mounted (500 rpg = 1,000 total)
 
 The two Type 89 machine guns are, unfortunately, pretty underwhelming for the fixed-wing fighter. The Ki-27 otsu will rarely meet aircraft that can be easily handled with just these two machine guns. Players will need the rely on the Ki-27's manoeuvrability to keep the opponent within the machine gun's reach to lay down sustained fire on critical components to cripple the enemy plane and get it to crash, or snipe the enemy pilot.
 
 == Usage in battles ==
-
 <!-- Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB). -->
-
 A superior dogfighter for turn-fighting, the Ki-27 is the first plane to begin showing the features typical of the Japanese [[A6M2|"Zero"]] but with none of the bite. Its speed and manoeuvrability are plagued by engine problems, with no armour and a standard armament.
 
 In battle, no Allied fighter can out-turn you, except for biplanes, but most will outgun you (and even most biplanes match the Ki-27 in armament).
@@ -149,28 +141,25 @@ From America, you will face the [[P-26 (Family)|P-26]]. They are quite good dive
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great manoeuvrability, on par with biplanes
-- Good stability in turns
-- Good speed, for its tier
-- Excellent climb, can reach above 20 m/s
+* Great manoeuvrability, on par with biplanes
+* Good stability in turns
+* Good speed, for its tier
+* Excellent climb, can reach above 20 m/s
 
 '''Cons:'''
 
-- Limited firepower
-- Engine overheats rapidly on hot maps
-- Engine chokes in negative-G dives
-- No armour
-- Mostly faces Japan in RB (facing equally or more manoeuvrable planes)
+* Limited firepower
+* Engine overheats rapidly on hot maps
+* Engine chokes in negative-G dives
+* No armour
+* Mostly faces Japan in RB (facing equally or more manoeuvrable planes)
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 {{main|Ki-27 otsu#History|l1=History of the Ki-27 otsu}}
 === Service in Mainland China ===
 The Ki-27 was used rather extensively on the Chinese soil by the IJAAF, since 1938 (Imperial year 2558), this type of aircraft has been deployed in different airfields in Mainland China. Where they were being used as frontline fighters, the puppet regime of Manchukuo also used Ki-27 as their fighters after the Japanese retired them from frontline use after severe loss in Khalkhin Gol.
@@ -178,26 +167,22 @@ The Ki-27 was used rather extensively on the Chinese soil by the IJAAF, since 19
 The remaining Ki-27 that survived the war were captured by both KMT and PLA forces, but due to the already outdated performance in regards to the latest fighters and lack of spare parts for repair, these aircraft and its trainer variant (Manshu Ki-79) were mostly used as a trainer for training new pilots, especially for the Chinese Red Army in Northeastern China, where those pilots were becoming the foundation of the new PLAAF.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ki-27_otsu_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ki-27_otsu_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/202077-nakajima-ki-27-otsu/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/202077-nakajima-ki-27-otsu/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Nakajima}}
 {{China fighters}}

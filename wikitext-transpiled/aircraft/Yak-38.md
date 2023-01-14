@@ -10,9 +10,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet strike aircraft {{Battle-rating}}. It was introduced as a premium pack in [[Update "New Power"]] but was removed from the store after the [[wt:en/news/7748-sale-summer-sale-en|2022 Summer sale]].
 
 As a VTOL aircraft (Vertical Take-Off and Landing) it can perform stationary flight, offering new gameplay possibilities compared to conventional jet aircraft.
@@ -20,7 +18,6 @@ As a VTOL aircraft (Vertical Take-Off and Landing) it can perform stationary fli
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -48,7 +45,7 @@ As a VTOL aircraft (Vertical Take-Off and Landing) it can perform stationary fli
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || X || X || ✓ <!-- ✓ -->
+| X || ✓ || ✓ || X || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -124,9 +121,7 @@ As a VTOL aircraft (Vertical Take-Off and Landing) it can perform stationary fli
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 The Yak-38 has no armour. It is a fairly large target with the entire fuselage being taken up with engines and fuel tanks.
 
 === Modifications and economy ===
@@ -145,40 +140,36 @@ The Yak-38 has no armour. It is a fairly large target with the entire fuselage b
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|GSh-23L (23 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** Without offensive armament
-  ** 1 x 23 mm VSPU-36 ventral gun pod containing a GSh-23L cannon (160 rpg)
+* A choice between two presets:
+** Without offensive armament
+** 1 x 23 mm VSPU-36 ventral gun pod containing a GSh-23L cannon (160 rpg)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|OFAB-100 (100 kg)|OFAB-250sv (250 kg)|FAB-500M-54 (500 kg)|Kh-23M|R-60}}
 {{main|ZB-500 incendiary|S-5KP|S-8KO|S-24B|GSh-23L (23 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- 2 x 23 mm GSh-23L cannons (250 rpg = 500 total)
-- 2 x R-60 missiles
-- 4 x R-60 missiles
-- 64 x S-5KP rockets
-- 64 x S-5KP rockets
-- 40 x S-8KO rockets
-- 4 x S-24B rockets
-- 2 x Kh-23M missiles
-- 10 x 100 kg OFAB-100 bombs (1,000 kg total)
-- 4 x 250 kg OFAB-250sv bombs (1,000 kg total)
-- 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
-- 2 x ZB-500 incendiary bombs
-- 4 x 23 mm GSh-23L cannons (250 rpg = 1,000 total)
+* 2 x 23 mm GSh-23L cannons (250 rpg = 500 total)
+* 2 x R-60 missiles
+* 4 x R-60 missiles
+* 64 x S-5KP rockets
+* 64 x S-5KP rockets
+* 40 x S-8KO rockets
+* 4 x S-24B rockets
+* 2 x Kh-23M missiles
+* 10 x 100 kg OFAB-100 bombs (1,000 kg total)
+* 4 x 250 kg OFAB-250sv bombs (1,000 kg total)
+* 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
+* 2 x ZB-500 incendiary bombs
+* 4 x 23 mm GSh-23L cannons (250 rpg = 1,000 total)
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -225,9 +216,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Yak-38 is one of the most versatile aircraft in the Soviet tech tree as it has sufficient armament for all sorts of engagements: air-to-air, air-to-ground, air-to-sea. Thanks to its VTOL capabilities, it is able to achieve a "helicopter" playstyle if needed.
 
 '''When in air battles'''
@@ -263,32 +252,29 @@ Approach the airport and get rid of your speed. When you have reached the conven
 This is the place where the Yak-38 shines, thanks to an unusual suspended ordnance, the manually-guided Kh-23M air-to-ground missile. The Kh-23M missile is controlled by the player via keyboard input like like other manually-guided missiles such as the Nord and Bullpup missile. Despite only being able to carry 2 missiles, each one can be a knock-out if used correctly. Use them in a top attack preferably at an azimuth greater than 35° from the target so that the missile has clear line of sight with zero obstructions (fences, trees, buildings, etc) and is able to penetrate the roof as it has a really low armour penetration. The missile is able to be fired at a 10 km range from the target although it is not recommended to do so unless the pilot is very skilled in terms of controlling manually guided missiles. Besides the Kh-23M, the Yak-38 has access to bombs and rockets which can be used with the ballistic computer to make pinpoint accuracy attacks on enemy targets. It is up to pilot's discretion to decide the suspended ordnance carried.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- VTOL capability
-- Fast acceleration - one of the fastest subsonic jets, can quickly hit Mach 0.98 in level flight!
-- Plenty of payload options (20 setups)
-- Has access to the very efficient S-24B rockets and Kh-23M AGMs, as well as R-60 AAMs
-- CCIP for its guns and rockets mean you can easily target enemy ground units - S-24B rockets are especially effective
+* VTOL capability
+* Fast acceleration - one of the fastest subsonic jets, can quickly hit Mach 0.98 in level flight!
+* Plenty of payload options (20 setups)
+* Has access to the very efficient S-24B rockets and Kh-23M AGMs, as well as R-60 AAMs
+* CCIP for its guns and rockets mean you can easily target enemy ground units - S-24B rockets are especially effective
 
 '''Cons:'''
 
-- Subsonic
-- Very small elevators with poor high-speed performance means slow turns
-- Massive energy loss during high speed turns
-- Cannot use thrust vectoring in cruise flight or combat, unlike the Harriers - nozzles and lift engines automatically disengage at cruise speed
-- No airbrakes, can be difficult to bleed enough speed for a regular landing, though it can use its VTOL engines as an airbrake once slower than 500 km/h
-- Vertical landings require careful consideration of your velocity bleed.
-- Somewhat fragile gear means careless landings can cause the plane to smash into the strip or carrier deck
-- Very high RPM combined with low RPG count means you have to be very careful when using the gun(s)
+* Subsonic
+* Very small elevators with poor high-speed performance means slow turns
+* Massive energy loss during high speed turns
+* Cannot use thrust vectoring in cruise flight or combat, unlike the Harriers - nozzles and lift engines automatically disengage at cruise speed
+* No airbrakes, can be difficult to bleed enough speed for a regular landing, though it can use its VTOL engines as an airbrake once slower than 500 km/h
+* Vertical landings require careful consideration of your velocity bleed.
+* Somewhat fragile gear means careless landings can cause the plane to smash into the strip or carrier deck
+* Very high RPM combined with low RPG count means you have to be very careful when using the gun(s)
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 === [[wt:en/news/6942-development-yak-38-yak-38m-hover-jet-en|Devblog]] ===
 Although Soviet engineers were experimenting with VTOL fixed wing aircraft design since the early 1960s, it wasn't until December 1967 before a formal order to develop a light VTOL strike aircraft as well as a corresponding trainer version was issued. As a result, engineers at the Yakovlev design bureau began work on the new aircraft in the late 1960s, basing their design on experience gained from developing the preceding Yak-36 - an early VTOL demonstration design.
 
@@ -299,12 +285,11 @@ Not too long after work on the project began, the first prototype saw completion
 After some further testing and crew training, the aircraft officially entered service with the Soviet Navy in August 1977, receiving the designation Yak-38. By 1982, over 140 Yak-38s were built, all of which served aboard the then new Kiev-class aircraft carriers. In the mid 1980s, the modernized Yak-38M version came into service, most prominently featuring more powerful engines as well as other improvements. About 50 Yak-38M were built before the type was ultimately decommissioned in 1991.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=yak-38 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=yak-38 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" caption="Yak-38 Devblog Images" heights="200">
@@ -319,21 +304,19 @@ File:Yak-38 WTWallpaper 005.jpg|
 {{Youtube-gallery|eRBzLn1se_Y|'''The Shooting Range #239''' - ''Pages of History'' section at 04:06 discusses the Yak-38.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[Yak-38M]]
+* [[Yak-38M]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6942-development-yak-38-yak-38m-hover-jet-en|[Development] Yak-38 & Yak-38M: Hover Jet]]
-- [https://forum.warthunder.com/index.php?/topic/504151-yak-38/ Official data sheet - more details about the performance]
+* [[wt:en/news/6942-development-yak-38-yak-38m-hover-jet-en|[Development] Yak-38 & Yak-38M: Hover Jet]]
+* [https://forum.warthunder.com/index.php?/topic/504151-yak-38/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Yakovlev}}
 {{USSR jet aircraft}}

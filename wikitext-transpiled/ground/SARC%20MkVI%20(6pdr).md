@@ -1,12 +1,10 @@
 {{Specs-Card
 |code=uk_marmon_herrington_mk_6_6pdr
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British light tank {{Battle-rating}}. It was introduced in [[Update "Ixwa Strike"]].
 
 With an improvement in firepower and yet very fast, this latter SARC variant covers most of the cons of the earlier 2-pounder version, almost without new disadvantages; perfect for admirers of fast or scouting vehicles such as the [[Cromwell I]] and [[Crusader III]].
@@ -18,13 +16,11 @@ The less advantageous aspect remains the sacrifices in the armour of the SARC ch
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 While it can survive some MG fire from the front, HMGs will penetrate the sides even from a distance, quickly destroying the SARC. Autocannons are even more dangerous as they will shred through the armour regardless of the distance or angle. Armour-piercing shots fired by tanks will sometimes just pass through the vehicle's armour without detonating but knocking out a crew member or more. The SARC is not a vehicle that should be exposed to enemy fire while expecting it to resist or shrug it.
 
 '''Armour type:'''<!-- The types of armour present on the vehicle and their general locations -->
-
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
 
@@ -32,21 +28,19 @@ While it can survive some MG fire from the front, HMGs will penetrate the sides 
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || **_ mm || _** mm ''Top'' <br> **_ mm ''Bottom'' || _** mm || **_ - _** mm
+| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
 |-
-| Turret || **_ - _** mm ''Turret front'' <br> **_ mm ''Gun mantlet'' || _** - **_ mm || _** - **_ mm || _** - **_ mm
+| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
 |-
-| Cupola || _** mm || **_ mm || _** mm || \_\_\_ mm
+| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
 |-
 |}
 
 '''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
-
 <!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=294|rbMinHp=168}}
@@ -60,9 +54,7 @@ The SARC has a good power to weight ratio of 17 hp/ton, allowing it to reach a r
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 The {{PAGENAME}} is equipped with the 6-pounder gun, a common feature of British tanks at this rank. The gun has a very fast reload (provided the 10-round ready rack is not depleted) and has relatively good penetration at this battle rating. However, as is typical with most British vehicles, it only fires solid shot ammunition with no explosive filler. Due to the relatively small calibre, the spalling of the solid shot upon penetration is not particularly extensive, and it will often require multiple penetrations at different parts of the target in order to guarantee the destruction of the enemy vehicle.
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -130,9 +122,7 @@ The {{PAGENAME}} is equipped with the 6-pounder gun, a common feature of British
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.5.1.99''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -150,19 +140,17 @@ The {{PAGENAME}} is equipped with the 6-pounder gun, a common feature of British
 |}
 '''Notes:'''
 
-- The visual discrepancy concerns rack 4 that displays 1 shell in the rack even when empty.
-- Shells are modeled individually and disappear after having been shot or loaded.
-- Racks 6 and 7 are first stage ammo racks. They total 10 shells and get filled first when loading up the tank.
-- These racks are also emptied early: the rack depletion order at full capacity is: 6 - 7 - 1 - 2 - until 5.
-- Simply not firing when the gun is loaded will move ammo from racks 1-5 into rack 7 then 6. Firing will interrupt the restocking of the ready racks.
-- The {{PAGENAME}} is the only vehicle below Rank IV to get a first order ammo rack. Once the rack is depleted, the reload is significantly slower.
+* The visual discrepancy concerns rack 4 that displays 1 shell in the rack even when empty.
+* Shells are modeled individually and disappear after having been shot or loaded.
+* Racks 6 and 7 are first stage ammo racks. They total 10 shells and get filled first when loading up the tank.
+* These racks are also emptied early: the rack depletion order at full capacity is: 6 - 7 - 1 - 2 - until 5.
+* Simply not firing when the gun is loaded will move ammo from racks 1-5 into rack 7 then 6. Firing will interrupt the restocking of the ready racks.
+* The {{PAGENAME}} is the only vehicle below Rank IV to get a first order ammo rack. Once the rack is depleted, the reload is significantly slower.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 The {{PAGENAME}} is one of the few British ground vehicles (other than Lend-Lease vehicles such as the [[Sherman II]]) to be armed with a pintle-mounted .50 cal Browning heavy machine gun. This machine gun gives considerable added firepower to the {{PAGENAME}}. It provides some measure of defence against aircraft and is also effective against lightly armoured targets such as most contemporary SPAA, against which the poor HE round of the 6-pdr main gun might struggle or the solid shot will do little to no damage without hitting the ammunition.
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -185,36 +173,32 @@ The {{PAGENAME}} is one of the few British ground vehicles (other than Lend-Leas
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 In battle, the {{PAGENAME}} should be used similar to the [[Sd.Kfz.234/2|Puma armoured cars]], focus on using its speed for quick flanking attacks and scouting targets. Be wary on the terrain the {{PAGENAME}} travels in as the vehicle is quite top heavy. In a scenario where you cannot flank, try to do quick strikes at the enemy. Avoid sniping and frontline combat as, like the Pumas, it has little armour and cannot take cannon fire.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Effective firepower with the 6-pdr gun and 12.7 mm heavy machine gun.
-- High speed on optimal hard terrain (roads, fields, and cities).
-- Frontal turret armour can withstand heavy machine gun fire at range.
-- Useful amount of smoke grenades (26).
-- Fast reload (when the ready rack is filled).
+* Effective firepower with the 6-pdr gun and 12.7 mm heavy machine gun.
+* High speed on optimal hard terrain (roads, fields, and cities).
+* Frontal turret armour can withstand heavy machine gun fire at range.
+* Useful amount of smoke grenades (26).
+* Fast reload (when the ready rack is filled).
 
 '''Cons:'''
 
-- Poor survivability (weak flank armour and open top, with only 3 crew members).
-- Unreliable, relatively small calibre solid shot ammunition.
-- Tall profile and pintle-mounted heavy machine gun can give away tank's location.
-- Limited off-road mobility on snow, mud, and sand.
-- Recoil of the 6-pdr can hinder target acquisition; more notable when firing from the sides.
-- Once the ready rack is emtpy, the reload slows down noticeably.
+* Poor survivability (weak flank armour and open top, with only 3 crew members).
+* Unreliable, relatively small calibre solid shot ammunition.
+* Tall profile and pintle-mounted heavy machine gun can give away tank's location.
+* Limited off-road mobility on snow, mud, and sand.
+* Recoil of the 6-pdr can hinder target acquisition; more notable when firing from the sides.
+* Once the ready rack is emtpy, the reload slows down noticeably.
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 '''Development'''
 
 The Marmon-Herrington Mk V (a.k.a. South African Reconnaissance Car/SARC Mk V) was an eight wheeled armored car prototype produced by the Marmon-Herrington Corporation for South Africa. It was much too heavy at 16 tonnes so a project for a lighter armored car was created, designated as the Mk VI. Questions were raised as to the armament of the vehicle so two prototypes were developed with different turrets mounting the 2pdr and 6pdr guns respectively.<ref name=":0">http://aviarmor.net/tww2/armored_cars/uac/marmon_mk6.htm</ref>
@@ -239,12 +223,11 @@ At the height of WWII, in 1942 - 1943, the engineers behind the SARC sought to i
 Only two prototypes of the SARC Mk.VI were built, one being armed by a 2 pdr and the other with a 6 pdr gun. While the former was sent to the UK for testing, the latter remained in South Africa. Despite favorable test results, the increased availability of more suitable American armoured cars in the later stages of the war made the Mark VI somewhat redundant and further development was cancelled.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_marmon_herrington_mk_6_6pdr Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_marmon_herrington_mk_6_6pdr Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="150">
@@ -257,22 +240,20 @@ File:SARC Mk VI 6-pdr WTWallpaper 06.jpg|
 </gallery>
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
 
-- [[SARC MkVI (2pdr)]]
+* [[SARC MkVI (2pdr)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/7075-development-sarc-mk-vi-elephant-in-the-bushes-en|[Devblog] SARC Mk.VI: Elephant in the Bushes]]
+* [[wt:en/news/7075-development-sarc-mk-vi-elephant-in-the-bushes-en|[Devblog] SARC Mk.VI: Elephant in the Bushes]]
 
 === References ===
 <references />

@@ -12,33 +12,28 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} American heavy tank {{Battle-rating}}. It was one of the first American tanks to be released with the American ground tree in [[Update 1.45 "Steel Generals"]]. A premium version of the [[M4A3E2|M4A3E2 Jumbo]]. As a side note, the nickname "Jumbo" was likely never used during WWII, as there is no record of it. However, its use both on the Wiki and in-game is still prevalent.
 
 The "Cobra King" is in many aspects the same vehicle as the regular M4A3E2. There are however a few notable cosmetic differences:
-
-- a shade of green on the vehicle's stock livery different from the standard US olive-drab green, with a more pronounced green colour than the subdued mix with brown,
-- the large white marking "First in Bastogne" present on the hull's left side, boasting about the tank's actual achievement in the US Third Army in World War II, and a bit lower on the hull sides will a decal with the name "Cobra King",
-- and finally, the presence on the rear of the vehicle of kit, canvas, gear, tracks, and fuel tanks, which are absent on the regular M4A3E2.
+* a shade of green on the vehicle's stock livery different from the standard US olive-drab green, with a more pronounced green colour than the subdued mix with brown,
+* the large white marking "First in Bastogne" present on the hull's left side, boasting about the tank's actual achievement in the US Third Army in World War II, and a bit lower on the hull sides will a decal with the name "Cobra King",
+* and finally, the presence on the rear of the vehicle of kit, canvas, gear, tracks, and fuel tanks, which are absent on the regular M4A3E2.
 
 The Jumbo's armour is nothing to underestimate. It can bounce most shells at point blank range when angled more than 30 degrees. And the turret is well armoured from all sides, too. This tank is used as a breakthrough tank to attack fortified enemy positions due to its thick armour. As such it allows players to get close to most enemy tanks and attack them from the sides, or force them to retreat. On the downside, the gun is wimpy without M61 shot and even then it still bounces more often than not. Best to take a bit more ammo than normal to compensate for all the shots that will bounce.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 The "Cobra King" still features the double layered front armour giving the vehicle its distinctive 101.6 mm total front armour. The transmission housing is also considerably beefier too from the addition of armour at the area as well. The front of the T23-style turret is also distinctive with the very blocky gun mantlet and circular barrel shroud around the rather underwhelming 75 mm gun barrel.
 
 The sides and suspension look like the usual game with the M4 Sherman series, but with minor differences. The flat side armour of the hull, instead of 38.1 mm thick is now 76.2 mm thick for much stronger side protection. However, the lower side hull around the bogie suspension area is still only 38.1 mm thick, vulnerable to most regular anti-tank weapons. Another minor difference is the tracks, the T48 rubber chevron tracks are equipped with extended end connectors in an effort to improve ground pressure performance for the additional weight of the armour.
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (Front, Side, Rear, Roof)
-- Cast homogeneous armour (Turret, Transmission area)
+* Rolled homogeneous armour (Front, Side, Rear, Roof)
+* Cast homogeneous armour (Turret, Transmission area)
 
 {| class="wikitable"
 |-
@@ -53,10 +48,10 @@ The sides and suspension look like the usual game with the M4 Sherman series, bu
 |}
 '''Notes:'''
 
-- Suspension wheels are 15 mm thick, the bogies are 10 mm thick, and tracks are 17 mm thick.
-- Belly armour is 25.4 mm thick.
-- Hull underside right above the tracks are 9.5 mm thick.
-- Gun breech is 300 mm thick in structural steel.
+* Suspension wheels are 15 mm thick, the bogies are 10 mm thick, and tracks are 17 mm thick.
+* Belly armour is 25.4 mm thick.
+* Hull underside right above the tracks are 9.5 mm thick.
+* Gun breech is 300 mm thick in structural steel.
 
 The M4A3E2 Jumbo presents very little frontal weak spots in an engagement. It is best to try and force the Jumbo to try and angle his vehicle towards the player or his allies. An angle more than 30 degrees can expose the much weaker lower side hull armour in the suspension that is only 38.1 mm thick. With a powerful enough gun, a round can penetrate this area and damage the crew, or even set off the ammunition all cluttered up on the bottom of the tank.
 
@@ -64,7 +59,6 @@ If a frontal engagement is unavoidable and is unfortunately armed with guns unab
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=646|rbMinHp=442}}
@@ -76,9 +70,7 @@ If a frontal engagement is unavoidable and is unfortunately armed with guns unab
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|M3 (75 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -156,9 +148,7 @@ If a frontal engagement is unavoidable and is unfortunately armed with guns unab
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_M4A3E2.png|right|thumb|x250px|[[Ammo racks]] of the M4A3E2 (identical).]]
-
 <!-- '''Last updated: 2.3.0.83''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -172,15 +162,13 @@ If a frontal engagement is unavoidable and is unfortunately armed with guns unab
 |}
 '''Notes''':
 
-- As they are modeled by sets of 2, shells disappear from the rack only after you fire both shells in the set.
-- Turret empty: 100&nbsp;''(+4)'' shells.
+* As they are modeled by sets of 2, shells disappear from the rack only after you fire both shells in the set.
+* Turret empty: 100&nbsp;''(+4)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|M2HB (12.7 mm)|M1919A4 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -203,7 +191,6 @@ If a frontal engagement is unavoidable and is unfortunately armed with guns unab
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The Cobra King is best in assaulting enemy positions with allies. Its great mobility for a heavy tank, especially with its armour, makes it a vehicle able to charge into battle with confidence. It can act as a bullet magnet against enemy tanks more worried about the Cobra King, diverting fire that would have been directed more vulnerable teammates. Though the 75 mm gun's AP performance is not suited to the type of enemies expected at the BR, it can still harass enemies and the gun is lethal enough that enemies will be forced to show their front armour towards the Jumbo else a 75 mm penetrates their side armour. Their focus on the Jumbo can allow allies to move around and eliminate them. During all this, take care not to over-angle and show the lower side armour too much as this will allow vehicles to penetrate through down there and damage modules, even the ammunition storage if they are lucky.
@@ -215,31 +202,29 @@ As the Cobra King has a slightly higher battle rating than the other M4 Shermans
 The Soviet 85 mm can be a threat, so caution is advised when going up against tanks armed with the 85 mm, such as the [[T-34-85]], [[SU-85]], and [[IS-1]]. The [[Jagdpanzer 38(t)]] and [[Jagdpanzer IV]] can be tricky when facing off against them. Their frontal armour is too thick and sloped for the 75 mm M3 gun to have any effect on it. For these two targets, it is advised to target their tracks and transmission and then flank for a side shot, where the armour is much weaker. Finally, the Sturer Emil wields a 128 mm that can penetrate the front plate of the Cobra King, so caution is advised against those as well.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Excellent frontal armour
-- Very strong turret armour from all sides, very good at hull down position
-- Good mobility for a heavy tank
-- Good acceleration
-- APCR shot has a high penetration power
-- High rate of fire for the 75 mm gun
-- Excellent gun depression
-- Equipped with gun stabilizer, making it more accurate at moving and when preparing a shot after moving
+* Excellent frontal armour
+* Very strong turret armour from all sides, very good at hull down position
+* Good mobility for a heavy tank
+* Good acceleration
+* APCR shot has a high penetration power
+* High rate of fire for the 75 mm gun
+* Excellent gun depression
+* Equipped with gun stabilizer, making it more accurate at moving and when preparing a shot after moving
 
 '''Cons:'''
 
-- 75 mm M3 gun lacks penetration against most tanks frontally
-- APCR shot has poor post-penetration damage
-- The frontal armour still presents several weak spots enemies can easily exploit
-- Side and rear armour are pretty weak and limit angling tactics
-- Low top speed
-- Reverse speed is poor
+* 75 mm M3 gun lacks penetration against most tanks frontally
+* APCR shot has poor post-penetration damage
+* The frontal armour still presents several weak spots enemies can easily exploit
+* Side and rear armour are pretty weak and limit angling tactics
+* Low top speed
+* Reverse speed is poor
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 ===Development===
@@ -269,12 +254,10 @@ The tanks were very popular as column leads, given the fact that German antitank
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=us_m4a3e2_sherman_jumbo_cobra_king Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=us_m4a3e2_sherman_jumbo_cobra_king Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover" heights="200">
@@ -286,28 +269,24 @@ Image:Cobra King Bastogne.jpg|<small>Historical photo of the "Cobra King" at the
 {{Youtube-gallery|l31USzTa5EQ|'''How to destroy the Jumbo''' - ''War Thunder Official Channel''|ouIrQ7umnsM|'''Cobra King - First Tank Into Bastogne 1944''' - ''Mark Felton Productions''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other M4A3E2 vehicles in the game
-
-- [[M4A3E2]] / [[M4A3E2 (France)]]
-- [[M4A3E2 (76) W]]
+* [[M4A3E2]] / [[M4A3E2 (France)]]
+* [[M4A3E2 (76) W]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
 '''News article about the tank'''
-
-- [http://www.stripes.com/news/vilseck-tank-confirmed-as-cobra-king-1.86612 <nowiki>[Stars and Stripes]</nowiki> Vilseck Tank confirmed as 'Cobra King']
-- [http://www.americainwwii.com/articles/cobra-king-today/ <nowiki>[American WWII]</nowiki> Cobra King: where is she today?]
-- [http://www.army.mil/article/17393/ <nowiki>[US Army]</nowiki> 'Cobra King' led 4th Armored Division column that relieved Bastogne during Battle of the Bulge]
-- [https://www.washingtonpost.com/news/retropolis/wp/2017/08/03/a-battered-world-war-ii-hero-of-bastogne-gets-a-new-home-and-museum-built-around-it/ <nowiki>[Washington Post]</nowiki> A battered World War II hero of Bastogne gets a new home, and a museum built around it]
+* [http://www.stripes.com/news/vilseck-tank-confirmed-as-cobra-king-1.86612 <nowiki>[Stars and Stripes]</nowiki> Vilseck Tank confirmed as 'Cobra King']
+* [http://www.americainwwii.com/articles/cobra-king-today/ <nowiki>[American WWII]</nowiki> Cobra King: where is she today?]
+* [http://www.army.mil/article/17393/ <nowiki>[US Army]</nowiki> 'Cobra King' led 4th Armored Division column that relieved Bastogne during Battle of the Bulge]
+* [https://www.washingtonpost.com/news/retropolis/wp/2017/08/03/a-battered-world-war-ii-hero-of-bastogne-gets-a-new-home-and-museum-built-around-it/ <nowiki>[Washington Post]</nowiki> A battered World War II hero of Bastogne gets a new home, and a museum built around it]
 
 === References ===
 <references/>

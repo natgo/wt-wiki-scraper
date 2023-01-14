@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
 
 A modernization of the Israeli fleet of Centurion tanks using NATO equipment, including a new 105 mm cannon, Continental engine, and ERA packs: the Sho't Kal Gimel shares similar capabilities to previous Sho't Kal series tanks with better chemical protection.
@@ -21,15 +19,13 @@ The name "Sho't Kal Gimel" can be roughly translated as Centurion tank with Cont
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 The overall appearance of the Sho't Kal Gimel is very similar to its predecessor, the Alef; but in view of the intensity of the Middle Eastern Wars, the Gimel installed the Blazer ERA covering its front and some parts of its sides, as well as an extra layer of armour plate welded on the UFP, increasing its odds to survive a hit. The IDF also installed additional machine guns, so players can tell it's a Sho't Kal Gimel right away. Although the installation of ERA helped improved its odds against HEAT shells, but later missiles or kinetic shells will easily penetrate the obsolete base armour all-around.
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (Hull, turret roof)
-- Cast homogeneous armour (Turret, gun mantlet)
+* Rolled homogeneous armour (Hull, turret roof)
+* Cast homogeneous armour (Turret, gun mantlet)
 
 {| class="wikitable"
 |-
@@ -39,18 +35,17 @@ The overall appearance of the Sho't Kal Gimel is very similar to its predecessor
 |-
 | Turret || 89 mm (cylindrical) ''Turret front'' <br> 100 - 230 mm ''Gun mantlet'' || 89 mm (8°) || 89 mm || 50.8 mm (23-33°) ''Outer edge'' <br> 29 mm ''Centre''
 |-
-| Cupola || 152 mm || 152 mm (cylindrical) ''Front half'' <br> 90 mm (cylindrical) ''Rear half'' || 90 mm (cylindrical) || 29 mm
+| Cupola || 152 mm || 152 mm (cylindrical) ''Front half'' <br> 90 mm (cylindrical) ''Rear half''  || 90 mm (cylindrical) || 29 mm
 |-
 |}
 '''Notes:'''
 
-- Suspension wheels, tracks, and torsion bars are 60 mm thick.
-- Side skirts are 6 mm thick
-- Blazer ERA bricks cover the upper front glacis, the gun mantlet and the turret front.
+* Suspension wheels, tracks, and torsion bars are 60 mm thick.
+* Side skirts are 6 mm thick
+* Blazer ERA bricks cover the upper front glacis, the gun mantlet and the turret front.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=1,162|rbMinHp=663}}
@@ -64,9 +59,7 @@ The overall mobility, thanks to the new Continental AVDS-1790-2A diesel engine a
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|Sharir (105 mm)}}
 
 The main gun "Sharir" (lit. "Strong") is identical to NATO's L7 105 mm guns in many aspects. In particular, the Gimel has access to APFSDS round that further enhance its odds to penetrate enemies.
@@ -150,9 +143,7 @@ M111 APFSDS, aka DM23, is found on some other NATO vehicles and they perform ide
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Sho't_Kal_Dalet_(Great_Britain).png|right|thumb|x250px|[[Ammo racks]] of the [[Sho't Kal Dalet]] (identical)]]
-
 <!-- '''Last updated: 2.17.0.42''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -175,9 +166,7 @@ Since the Sho't Kal can carry more shells than the original [[Sho't]], this will
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
 {{Specs-Tank-Weapon|4}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|M2HB (12.7 mm)|L3A1 (7.62 mm)}}
 
 Although a M2HB is mounted onto the tank, it was mounted on the mantlet and only serves as one of the coaxial machine guns, this hinders its capabilities to fight back against oncoming aircraft or helicopters; but in case players do need a way to fight back, there are still 2 L3A1 (M1919A3) onboard as a last-ditch option.
@@ -206,69 +195,59 @@ Although a M2HB is mounted onto the tank, it was mounted on the mantlet and only
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 Players of the previous Sho't Kal Alef will quickly find themselves at home since the overall handling of Gimel is very similar, if not identical to the aforementioned. Gimel has an extra layer of armour on its UFP as well as Blazer ERA on some areas of the tank; while this can help it survive full-calibre and HEAT shells, it will not survive any late Cold War-era missiles or most APFSDS. The cramped interior also means any penetrating shots will cause extensive damage to the crew and compartment. Thus, it is best to stay away from heated battlefields and never rush in Sho't Kal Gimel (its inferior speed also helps to limit this).
 
 However, this tank does still have some advantages: it has access to APFSDS, although not having the highest penetration at its rank, it is sufficient to tear through enemy armour from a distance. It might not have the best gun optics or handling due to the obsolete nature of Centurion chassis, but it can still serve its purpose if used with caution.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Extra protection on its UFP and access to ERA, enhancing some of its survivability
-- Access to APFSDS
-- Smoke shells to block enemies' sight and high smoke grenade counts
-- Sufficient rate of fire
+* Extra protection on its UFP and access to ERA, enhancing some of its survivability
+* Access to APFSDS
+* Smoke shells to block enemies' sight and high smoke grenade counts
+* Sufficient rate of fire
 
 '''Cons:'''
 
-- Relatively slow compared to its competitors
-- Slow gun traverse speed
-- Cramped crew and compartments
-- Rather bad gun optics
+* Relatively slow compared to its competitors
+* Slow gun traverse speed
+* Cramped crew and compartments
+* Rather bad gun optics
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 <!-- {{main|Sho't Kal Alef#History|l1=History of the Sho't Kal Alef}} -->
-
 After the earlier modification of Sho't (Centurion in Israel service) with NATO equipment by 1974, the Gimel (C) modification of Sho't Kal installed additional machine guns, new 10-shot smoke grenade launcher on its turret sides, as well as enhanced protection with a new welded armour plate on its UFP and new Blazer ERA packs on some areas of the tank.
 
 This variant was decommissioned alongside with its fellow Sho't Kal variants in 2007.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=il_centurion_shot_kal_gimel Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=il_centurion_shot_kal_gimel Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{TankManufacturer Israeli Ordnance Corps}}
 {{Israel medium tanks}}

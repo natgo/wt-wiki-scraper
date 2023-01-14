@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} American strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.41]].
 
 Design of the B-25 was the result of years of work and failed bids to win contracts with the United States Army Air Corps (USAAC). Initially designed to meet requirements for a payload of 1,200 lb (540 kg), a range of 1,200 mi (1,900 km) and flying at speeds faster than 200 mph (320 km/h), prototypes were built, tested and refined. Although the original XB-21 and NA-40 never materialized into a production aircraft, requirements from the USAAC came out in March of 1939 for a medium bomber carrying a payload of 2,400 lb (1,100 kg) over 1,200 mi (1,900 km) at speeds around 300 mph (480 km/h), North American modified their design of NA-40 and developed the NA-62 which went into prototype testing as the YB-25 and then ordered into production as the B-25.
@@ -25,7 +23,6 @@ The B-25 is a fantastic bomber, attacker or both and will suit many different pi
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -53,7 +50,7 @@ The B-25 is a fantastic bomber, attacker or both and will suit many different pi
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -84,19 +81,18 @@ The B-25 is a fantastic bomber, attacker or both and will suit many different pi
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 8 mm Steel - Lower nose armour plate
-- 8 mm Steel - Pilot and Co-pilot's seats
-- 9.5 mm Steel - Fore cockpit armour plate
-- 9.5 mm Steel - Side armour cockpit plates
-- 9.5 mm Steel - Cockpit rear plate
-- 9.5 mm Steel - Dorsal gunner aft plate
-- 6.35 mm Steel - Side gunners armour plate x 2
-- 9.5 mm Steel - Tail gunner protective armour plate
-- 12 mm Bulletproof glass - Dorsal gunner turret
-- 38 mm Bulletproof glass - Tail gunner canopy
+* 8 mm Steel - Lower nose armour plate
+* 8 mm Steel - Pilot and Co-pilot's seats
+* 9.5 mm Steel - Fore cockpit armour plate
+* 9.5 mm Steel - Side armour cockpit plates
+* 9.5 mm Steel - Cockpit rear plate
+* 9.5 mm Steel - Dorsal gunner aft plate
+* 6.35 mm Steel - Side gunners armour plate x 2
+* 9.5 mm Steel - Tail gunner protective armour plate
+* 12 mm Bulletproof glass - Dorsal gunner turret
+* 38 mm Bulletproof glass - Tail gunner canopy
 
 Rugged, sturdy, though, the PBJ-1J is all of those things. Featuring crew armour protection that outclasses the [[B-17G-60-VE|B-17 ''Flying Fortress'']] in a handier, smaller design, the PBJ-1 is a though nut to crack and even harder to devoid of crew. Calibres above 20 mm are a must for a quick kill, otherwise the PBJ-1J will repay in kind. For going all defence is good, but all offence, too? It is called overkill, of the pursuit fighter.
 
@@ -109,47 +105,39 @@ The two Wright R-2600 air-cooled radial engines are themself hard to destroy and
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 8 x 12.7 mm M2 Browning machine guns, nose-mounted (400 rpg = 3,200 total)
-- 4 x 12.7 mm M2 Browning machine guns, cheek-mounted (400 rpg = 1,600 total)
+* 8 x 12.7 mm M2 Browning machine guns, nose-mounted (400 rpg = 3,200 total)
+* 4 x 12.7 mm M2 Browning machine guns, cheek-mounted (400 rpg = 1,600 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AN-M30A1 (100 lb)|AN-M57 (250 lb)|AN-M64A1 (500 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 12 x 100 lb AN-M30A1 bombs (1,200 lb total)
-- 8 x 250 lb AN-M57 bombs (2,000 lb total)
-- 4 x 500 lb AN-M64A1 bombs (2,000 lb total)
+* Without load
+* 12 x 100 lb AN-M30A1 bombs (1,200 lb total)
+* 8 x 250 lb AN-M57 bombs (2,000 lb total)
+* 4 x 500 lb AN-M64A1 bombs (2,000 lb total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 2 x 12.7 mm M2 Browning machine guns, dorsal turret (400 rpg = 800 total)
-- 2 x 12.7 mm M2 Browning machine guns, tail turret (600 rpg = 1,200 total)
-- 1 x 12.7 mm M2 Browning machine gun, 2 x beam turret (250 rpg)
+* 2 x 12.7 mm M2 Browning machine guns, dorsal turret (400 rpg = 800 total)
+* 2 x 12.7 mm M2 Browning machine guns, tail turret (600 rpg = 1,200 total)
+* 1 x 12.7 mm M2 Browning machine gun, 2 x beam turret (250 rpg)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The '''PBJ-1J''' is the U.S. Navy version of the B-25J-1 ''Mitchell'', however, these aircraft were assigned to U.S. Marine Corps marine bomber squadrons (VMB) as land-based bombers or ground attackers. This aircraft is virtually identical to its cousin, the PBJ-1H ''Mitchell'', which is also just ground attack variant of the U.S. Army Air Corps/U.S. Air Force '''B-25 Mitchell''' bomber. The only notable difference between the 1H and 1J model aircraft is that the 1J removes the 75 mm cannon and replaces it with an additional 4 x 12.7 mm Browning machine guns in the nose. Otherwise the same strategy and tactic for the 1H apply to the 1J. Fly almost at treetop levels in order to demotivate high altitude fighters from diving on you, and attack enemy ground targets. Ensure to use ground targets belts in order to maximize the effectiveness against light and medium tanks. Keep in mind that medium tanks will require precise aiming at the rear armour or roof from optimal angles in order to be effective. Reserve bombs for targets the 1J's machine guns under any circumstance cannot deal with (like heavy tanks and pillboxes, this is especially critical in Realistic and simulator battles as it is necessary to land on an airfield in order to retrieve new bombs).
 
 While the PBJ can be effective at engaging other bombers, only engage enemy fighters if a good opportunity appears where an enemy is already engaged with another plane or is in low energy state (like stalling, taking off or landing). In these situations, the twelve 12.7 mm machine guns will make short work of virtually all single-engined fighter aircraft even at long range with ground target belts. That said, under no circumstances should the plane be used to actively pursue enemy fighters since any remotely competent pilot will be able to outmanoeuvre you once they become aware of your presence. Ideally, a PBJ-1J should operate in close proximity to friendly fighters who can support it if it is engaged.
@@ -172,32 +160,29 @@ While the PBJ can be effective at engaging other bombers, only engage enemy figh
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- AP ammo is able to destroy medium and light tanks, as well as light pillboxes
-- Excellent defensive firepower, utilizing most of the B-25 Mitchell's gun positions
-- Durable airframe which can withstand numerous hits before going down
-- Tricycle landing gear makes takeoff and landing easier
-- Large ammo capacity
-- A staggering 12 x 12.7 mm Browning machine guns all fuselage mounted, providing excellent firepower at any range against soft targets
+* AP ammo is able to destroy medium and light tanks, as well as light pillboxes
+* Excellent defensive firepower, utilizing most of the B-25 Mitchell's gun positions
+* Durable airframe which can withstand numerous hits before going down
+* Tricycle landing gear makes takeoff and landing easier
+* Large ammo capacity
+* A staggering 12 x 12.7 mm Browning machine guns all fuselage mounted, providing excellent firepower at any range against soft targets
 
 '''Cons:'''
 
-- Bombload is limited compared to B-25 Mitchell
-- Poor energy retention
-- Poor turn and climb rate
-- Slow top speed and acceleration both in level flight and in dives
-- Twin tails create blindspot for gunners, a trait carried by the B-25 family
-- The added four 12.7 mm machine guns hardly make up for the lack of a 75 mm cannon like on the 1H variant
-- Stock model M2 which lacks advanced ammo belt options, making it inadequate at virtually everything
+* Bombload is limited compared to B-25 Mitchell
+* Poor energy retention
+* Poor turn and climb rate
+* Slow top speed and acceleration both in level flight and in dives
+* Twin tails create blindspot for gunners, a trait carried by the B-25 family
+* The added four 12.7 mm machine guns hardly make up for the lack of a 75 mm cannon like on the 1H variant
+* Stock model M2 which lacks advanced ammo belt options, making it inadequate at virtually everything
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The name breakdown: PBJ-1J = '''P'''atrol '''B'''omber '''J''' (J is the designation for the builder North American), '''-1''' (1st variant), '''J''' model.
 
 {{break}}
@@ -227,37 +212,31 @@ A total of 706 PBJ-1 aircraft were built for naval aviation forces, including 25
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=pbj_1j Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=pbj_1j Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
-- [[B-25 (Family)]]
+* [[B-25 (Family)]]
 
 ;Aircraft of comparable role, configuration and era
-
-- de Havilland [[Mosquito (Family)|Mosquito]]
-- Douglas [[DB-7 (Family)|DB-7]]
-- Douglas [[A-26 (Family)|A-26 ''Invader'']]
-- Tupolev [[Tu-2 (Family)|Tu-2]]
+* de Havilland [[Mosquito (Family)|Mosquito]]
+* Douglas [[DB-7 (Family)|DB-7]]
+* Douglas [[A-26 (Family)|A-26 ''Invader'']]
+* Tupolev [[Tu-2 (Family)|Tu-2]]
 
 == External links ==
-
 <!--''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.''-->
 
-- [https://forum.warthunder.com/index.php?/topic/474942-pbj-1j/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/474942-pbj-1j/ Official data sheet - more details about the performance]
 
 {{AirManufacturer NAA}}
 {{USA strike aircraft}}

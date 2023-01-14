@@ -10,15 +10,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' (NATO Code: Fishbed-F) is a gift rank {{Specs|rank}} Soviet jet fighter {{Battle-rating}}. It was introduced during [[Update "Hot Tracks"]] as a reward for the [[wt:en/news/6981-special-operation-w-i-n-t-e-r-en|2020 Operation W.I.N.T.E.R.]] event.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 The MiG-21PFM has the same overall flight performance as other MiG-21s. It has strong acceleration and great climb rate at its BR allowing it to outclimb and outrun almost every aircraft it encounters. The aircraft has slightly upgraded performance over the prior MiG-21F-13 with a better climb rate. However, the aircraft has one major disadvantage: its turning ability. While it can certainly turn, the MiG-21PFM suffers from an absolutely terrible MER (Manoeuvring Energy Retention) that will make it bleed over half of its speed in turns. Thus, extended turn fights are not advised as the MiG-21 will be left slow and vulnerable to a follow-up missile attack.
@@ -50,7 +47,7 @@ The MiG-21 has a strong set of control surfaces including an all-moving tail, wh
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || ✓ || X || ✓ <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -116,9 +113,7 @@ The MiG-21 has a strong set of control surfaces including an all-moving tail, wh
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 The {{PAGENAME}} does not have more than the basics to ensure its survival.
 
 Armour is paltry for the pilot, with a 60 mm bulletproof glass in their direct front cockpit window, and a 10 mm steel plate behind the pilot's head. The rear armour plate is not in an ideal location either; shots aiming for penetrate that plate from the front will go through the pilot (knocking out the plane instantly). If shots to the plate come from the rear, the tail or fuel tanks are going to be hit first before the pilot, which can cripple the aircraft.
@@ -145,14 +140,12 @@ Damages to the engine are also not sustainable, as there will be significant los
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|GSh-23L (23 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 1 x 23 mm GSh-23L cannon, belly-mounted (200 rpg)
+* 1 x 23 mm GSh-23L cannon, belly-mounted (200 rpg)
 
 The 23 mm GSh-23L cannon is attached to the {{PAGENAME}} as a gunpod at the belly, similar to the [[M61 (20 mm)|20 mm M61]] cannon on the [[F-4C Phantom II|F-4C]]. Unlike the F-4C, however, there is no option to remove the gunpod to focus on suspended armaments.
 
@@ -160,22 +153,20 @@ Despite the odd configuration, the armament firepower is not any lacking compare
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|OFAB-250sv (250 kg)|FAB-500M-54 (500 kg)}}
 {{main|Kh-66|R-3S|S-5K|S-24}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x R-3S missiles
-- 32 x S-5K rockets
-- 64 x S-5K rockets
-- 2 x S-24 rockets
-- 2 x Kh-66 missiles
-- 2 x 250 kg OFAB-250sv bombs (500 kg total)
-- 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
+* Without load
+* 2 x R-3S missiles
+* 32 x S-5K rockets
+* 64 x S-5K rockets
+* 2 x S-24 rockets
+* 2 x Kh-66 missiles
+* 2 x 250 kg OFAB-250sv bombs (500 kg total)
+* 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
 
 ==== Custom loadout options ====
 {| class="wikitable" width="100%" style="text-align:center"
@@ -204,9 +195,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The MiG-21PFM was designed to be a fighter-interceptor, similar to the earlier F-13, and thus all of its design features shape it into virtually a missile with a cockpit. Thus, it is quite effective in air battles in the interceptor role. However, note that this MiG-21 gets access to the Kh-66 guided air-to-ground missiles making it a viable option for ground battles as well.
 
 In air battles, one good strategy is to utilise its excellent speed and rate of climb and gain altitude and begin to level off when you are either at bomber altitude or just above any enemy fighters flying around. It is here you can use the great [[Boom & Zoom]] qualities of the aircraft and select a target and begin to dive on it. It is during this phase when you can attempt to get a lock with the R-3S air-to-air missiles and launch it or you can strafe any unwary targets with the GSh-23L cannon. Extremely short bursts are a must in order to conserve ammunition as the guns have an absurdly high fire rate. Once shots have been taken, regardless if they hit or missed, engage the afterburner and return to higher altitudes and set up for another Boom & Zoom run. [[Boom & Run]] techniques also work in that you can use the phenomenal speed of the MiG-21PFM to outrun almost every aircraft at its BR.
@@ -216,9 +205,7 @@ The MiG-21PFM gets access to several ordnance options such as bombs and rockets,
 However, the MiG-21PFM gets access to one more trick up its sleeve - the Kh-66 guided air-to-ground missiles. Packing an impressive punch, these missiles are mouse-guided, meaning that you can simply point the nose of the aircraft at the tank, launch the missile, and watch it explode. The missile itself is capable of destroying most ground targets at its BR with a single hit. Note that you must keep the aircraft's nose pointed at the target until the missile hits, meaning that you cannot pull out of a dive or other attack run until the missile has reached its target.
 
 === Radars ===
-
 <!--{{main|AN/APS-19}}-->
-
 The MiG-21PFM is equipped with a Sapphire-21 search and tracking radar. The radar is mounted in the nose of the aircraft.
 
 {| class="wikitable" style="text-align:center"
@@ -243,32 +230,29 @@ The MiG-21PFM is equipped with a Sapphire-21 search and tracking radar. The rada
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Good ordnance options including guided air-to-air and air-to-ground weapons
-  \*\* Mouse-guided Kh-66 missiles allowing for long distance air-to-ground engagements
-- Very good acceleration, climb rate, and speed for its BR while still having decent manoeuvrability
-- Good manoeuvrability at high speeds
-- Has a ballistic computer for rockets
+* Good ordnance options including guided air-to-air and air-to-ground weapons
+** Mouse-guided Kh-66 missiles allowing for long distance air-to-ground engagements
+* Very good acceleration, climb rate, and speed for its BR while still having decent manoeuvrability
+* Good manoeuvrability at high speeds
+* Has a ballistic computer for rockets
 
 '''Cons:'''
 
-- Only 2 pylons for suspended weapons limit the total amount of ordnance
-- Air-to-air weapons are underwhelming
-  ** R-3Ss are short range and have low G-limits
-  ** GSh-23L is mounted beneath the plane and has a low muzzle velocity of 710 m/s.
-- Bleeds lots of energy in sharp turns due to its delta wing design
-- Low amount of ammunition
-- No flares or RWR
-- Poor cockpit visibility in Simulator battles
+* Only 2 pylons for suspended weapons limit the total amount of ordnance
+* Air-to-air weapons are underwhelming
+** R-3Ss are short range and have low G-limits
+** GSh-23L is mounted beneath the plane and has a low muzzle velocity of 710 m/s.
+* Bleeds lots of energy in sharp turns due to its delta wing design
+* Low amount of ammunition
+* No flares or RWR
+* Poor cockpit visibility in Simulator battles
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 Described as the "AK of airplanes", the MiG-21 is a robust, reliable, and easy to maintain jet fighter developed during the second generation of jet fighters that has since the 1950s earned a strong place in air forces of the Soviet Union as well as foreign operators such as North Korea, India, and Croatia. With many variants, the aircraft has had many life extensions over this 60+ year period of operation, with some aircraft in air forces having been in service for more than 30 years.
 
 The story begins in 1953, when the Soviet government issued a requirement for a lightweight aircraft capable of Mach 2 for its Frontal Air division of the Soviet Air Force. Having had experience in the field of swept-wing, fast jet fighters Mikoyan-Gurevich felt confidently about their ability to produce such an aircraft. An aircraft such as the MiG-21 was only able to come to fruition after multiple test models and research with various prototypes. Beginning with the Ye-1 the Mikulin AM-11 turbojet was fitted, which in turn created another model called the Ye-50. This second one-off prototype was essentially a Ye-1 with the addition of the AM-9Ye turbojet in place of the AM-11, as well as adding liquid-fuelled rocket boosters for added thrust. After the initial prototypes, the Ye-2 was designed with the idea of using the original AM-11 turbojet, but was left waiting and soon opted to use the AM-9B found on the existing MiG-19 "Farmer" series of aircraft also produced by Mikoyan-Gurevich. This third aircraft was leads ahead of the previous models, having had development so far along that on February 14th, 1955 it took to the skies for the first time. This aircraft had good results, but was also slow as well leaving much to be built upon. With this, a similar aircraft called the Ye-4 was built and flown on June 16th that same year. This aircraft had many design implementations found on the final MiG design, such as the small-area delta wings and conventional tailplane. However, this prototype wouldn't be much of an improvement over the previous prototypes, only proving marginally better in terms of performance. With the first flight of both the Ye-5 and Ye-501 prototypes occurring on January 9th, 1956, Mikoyan-Gurevich was confident production would begin soon and issued two company designations for each model. These being MiG-21 for the delta-wing modification as well as MiG-23 for the swept-wing design, the latter not to be confused with the swing-wing supersonic aircraft also built by MiG.
@@ -281,12 +265,11 @@ One notable example of the MiG-21, built off of the PFS airframe, was the PFM. T
 During the modernization of the second generation of MiG-21 fighters, the Soviet military authorities demanded the design team to modify the aircraft for takeoff and landing from unpaved airfields. As a solution, the engineers proposed equipping the aircraft with a system for blowing the boundary layer from the flaps, and the Tumansky and Metskhvarishvili design bureau began developing a version of the R11F-300 engine with an air stream from the compressor. The boundary layer blowing system significantly improved the take-off and landing characteristics of the aircraft, the takeoff and run lengths were reduced, and the landing speed drastically reduced. Along with other modifications and improvements, the serial modification of the MiG-21 with the boundary layer blowing system began to be produced under the MiG-21 PFS index, later upgraded to the MiG-21 PFM version. Aircraft of this modification were produced in fairly large numbers since 1964, both for domestic use and export. The MiG-21 PFM served in Vietnam and Afghanistan.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=mig-21_pfm Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=mig-21_pfm Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" caption="MiG-21 PFM Devblog Images" heights="200">
@@ -299,29 +282,27 @@ File:MiG-21 PFM WTWallpaper 003.jpg|
 {{Youtube-gallery|wZYxbo03Qis|'''Should You Grind the MiG-21PFM? - Review/Buyer's Guide''' - ''theScottishKoala''|23btLYsrhPQ|'''The Worst Jet In The Game: MiG 21 PFM Review''' - ''Sako Sniper''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ; Other members of MiG-21 series
 
-- [[MiG-21F-13]]
-- [[MiG-21SMT]]
-- [[MiG-21bis]]
-- [[J-7II]] - Chinese tech tree
-- [[MiG-21MF_(Germany)|▀MiG-21MF]] - German tech tree
+* [[MiG-21F-13]]
+* [[MiG-21SMT]]
+* [[MiG-21bis]]
+* [[J-7II]] - Chinese tech tree
+* [[MiG-21MF_(Germany)|▀MiG-21MF]] - German tech tree
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6999-development-mig-21-pfm-en|[Devblog] MiG-21 PFM]]
-- [https://forum.warthunder.com/index.php?/topic/509731-mig-21pfm/ Official data sheet - more details about the performance]
-- [https://www.militaryfactory.com/aircraft/detail.asp?aircraft_id=68 <nowiki>[Military Factory]</nowiki> Mikoyan-Gurevich MiG-21 "Fishbed"]
-- [https://www.historynet.com/the-iconic-mig-21-fishbed.htm <nowiki>[History Net]</nowiki> The Iconic MiG-21 "Fishbed"]
+* [[wt:en/news/6999-development-mig-21-pfm-en|[Devblog] MiG-21 PFM]]
+* [https://forum.warthunder.com/index.php?/topic/509731-mig-21pfm/ Official data sheet - more details about the performance]
+* [https://www.militaryfactory.com/aircraft/detail.asp?aircraft_id=68 <nowiki>[Military Factory]</nowiki> Mikoyan-Gurevich MiG-21 "Fishbed"]
+* [https://www.historynet.com/the-iconic-mig-21-fishbed.htm <nowiki>[History Net]</nowiki> The Iconic MiG-21 "Fishbed"]
 
 {{AirManufacturer MiG}}
 {{USSR jet aircraft}}

@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=germ_leopard_2a5
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was introduced in [[Update 1.87 "Locked On"]].
 
 The succeeding variant of the [[Leopard 2A4]], the {{PAGENAME}} is distinguished by an overall improved turret front armour, most notably with the add-on armour bulks in the turret front, giving a wedge-shape rather than the flat shapes that the 2A4 variant presented.
@@ -19,7 +17,6 @@ The succeeding variant of the [[Leopard 2A4]], the {{PAGENAME}} is distinguished
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 The {{PAGENAME}} has improved armour compared to its predecessor, the hull is much better protected and the already impenetrable turret cheeks have more protection on the side of the turret. Add-on armour boosts the ability to protect against HEAT-FS and early APFSDS rounds. The wedges on the front of the turret are able to be blown off if a round with enough energy hits it.The gunners optic is also moved into the roof to eliminate the weak spot which was easily penetrated by any tank.
@@ -50,13 +47,12 @@ Be aware of Soviet tanks though! Most of them will carry their HE rounds that ca
 |}
 '''Notes:'''
 
-- Upper hull and Lower rear hull overlap (10 + 20 mm thick)
-- Upper mantlet add-on and Mantlet armour overlap (30 + 400 mm thick)
-- Holes in the engine deck are covered by 8 mm of mesh
+* Upper hull and Lower rear hull overlap (10 + 20 mm thick)
+* Upper mantlet add-on and Mantlet armour overlap (30 + 400 mm thick)
+* Holes in the engine deck are covered by 8 mm of mesh
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=2,032|rbMinHp=1,327}}
@@ -73,9 +69,7 @@ The first modifications to research should be Parts and FPE. After those, aim fo
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|Rh120 L/44 (120 mm)}}
 
 The {{PAGENAME}} has access to DM53 APFSDS shells which make it a deadlier foe as few tanks can stand against it.
@@ -137,9 +131,7 @@ The {{PAGENAME}} has access to DM53 APFSDS shells which make it a deadlier foe a
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.1.0.46''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -152,14 +144,12 @@ The {{PAGENAME}} has access to DM53 APFSDS shells which make it a deadlier foe a
 |}
 Notes:
 
-- The 2nd rack serves as first-stage ammo stowage.
+* The 2nd rack serves as first-stage ammo stowage.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|MG3A1 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -175,51 +165,47 @@ Notes:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The {{PAGENAME}} is slower, but it has much better armour and access to the DM53 round. With these new changes, the playstyle changes a bit too:
 
-- ''Hull down'': In the 2A4, the gunners optic was easily penetrated so the hull-down was still vulnerable. However, in the 2A5, this weak spot is eliminated and the armour of the turret is much better, so a hull-down position can now leave the {{PAGENAME}} invulnerable, but try to keep your turret protected as well, so then the armour package could last longer throughout the battle.
-- ''Sniping'': With the DM53 APFSDS round, the {{PAGENAME}} can now make use of the great distance in combat to deal damage while tanking incoming shots. Try also make use of hull-down positions whilst sniping.
-- ''Flanking'': Due to the worse mobility compared to the 2A4, it is better to stick to more stationary tactics like ''hull-down'' and ''sniping''. However, with a little bit of caution, flanking can still be successful.
-- ''Staying with nearby teammates:'' Try and stick to nearby teammates as this can improve your lifespan throughout the game.
+* ''Hull down'': In the 2A4, the gunners optic was easily penetrated so the hull-down was still vulnerable. However, in the 2A5, this weak spot is eliminated and the armour of the turret is much better, so a hull-down position can now leave the {{PAGENAME}} invulnerable, but try to keep your turret protected as well, so then the armour package could last longer throughout the battle.
+* ''Sniping'': With the DM53 APFSDS round, the {{PAGENAME}} can now make use of the great distance in combat to deal damage while tanking incoming shots. Try also make use of hull-down positions whilst sniping.
+* ''Flanking'': Due to the worse mobility compared to the 2A4, it is better to stick to more stationary tactics like ''hull-down'' and ''sniping''. However, with a little bit of caution, flanking can still be successful.
+* ''Staying with nearby teammates:'' Try and stick to nearby teammates as this can improve your lifespan throughout the game.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Excellent 120 mm gun, DM53 APFSDS is capable of penetrating up to 623 mm maximum at point-blank range
-- Impenetrable turret cheeks, the add-on wedge armour makes the turret immune from every shell in the game (average of 850 mm against long rod APFSDS and 1,450 mm against HEAT)
-- Good armour on the UFP (430 mm against APFSDS), immune to older shells; though many top-tier tanks possess shells which can go straight through
-- Great gun handling: 40°/s turret rotation speed (with Ace crew) and -9°/+20° of vertical guidance
-- Side turret covered by add-on armour can bounce early APFSDS shells
-- Gunner optics are now mounted on top of the turret, removing the annoying weak spot present on the Leopard 2A4
-- Cannon barrel and cannon breech absorbs impact rounds which may otherwise penetrate the turret and injure crews
-- Gun breech and mantlet has a smaller profile than other western MBTs
-- Good thermal imaging quality (Generation 2 for Binoculars, 800 x 600, and Generation 1 for Gunner's view, 500 x 300)
-- Very good all round tank especially when played properly
+* Excellent 120 mm gun, DM53 APFSDS is capable of penetrating up to 623 mm maximum at point-blank range
+* Impenetrable turret cheeks, the add-on wedge armour makes the turret immune from every shell in the game (average of 850 mm against long rod APFSDS and 1,450 mm against HEAT)
+* Good armour on the UFP (430 mm against APFSDS), immune to older shells; though many top-tier tanks possess shells which can go straight through
+* Great gun handling: 40°/s turret rotation speed (with Ace crew) and -9°/+20° of vertical guidance
+* Side turret covered by add-on armour can bounce early APFSDS shells
+* Gunner optics are now mounted on top of the turret, removing the annoying weak spot present on the Leopard 2A4
+* Cannon barrel and cannon breech absorbs impact rounds which may otherwise penetrate the turret and injure crews
+* Gun breech and mantlet has a smaller profile than other western MBTs
+* Good thermal imaging quality (Generation 2 for Binoculars, 800 x 600, and Generation 1 for Gunner's view, 500 x 300)
+* Very good all round tank especially when played properly
 
 '''Cons:'''
 
-- Lower glacis can still be penetrated by most shells (but is expected for most MBTs)
-- 16 shells in the ready-rack may be insufficient when playing in Arcade Battles
-- If your turret ammo rack is shot, you might survive but then you lose all your unloaded ammo storage
-- Huge hull ammo-rack if more than 16 shells are carried consequently making the tank extremely vulnerable to HE shells
-- A penetrating shot on the left side of the hull will most likely knock out the driver, gunner and commander, thus destroying the tank
-- A penetrating shell on the right side of the hull will most likely hit the ammo-rack, destroying the tank
-- Just like all Leopard series, raised engine deck means less gun depression when the turret is facing the rear
-- The wedges can be shot off with several hits, though the turret cheeks alone provide 650 mm against KE
-- Tank's weight is 4 tons increased while the engine is still the same, making the {{PAGENAME}} slower compared to the 2A4
-- Despite all the added armour, the turret ring and driver's hatch are both easily penetrated, and the enemy will most likely aim at these two spots to disable or destroy the tank
-- Is outperformed by its successor, the Leopard 2A6, in terms of firepower. The longer L/55 cannon on the Leopard 2A6 increases the performance of both DM33 and DM53 shells.
+* Lower glacis can still be penetrated by most shells (but is expected for most MBTs)
+* 16 shells in the ready-rack may be insufficient when playing in Arcade Battles
+* If your turret ammo rack is shot, you might survive but then you lose all your unloaded ammo storage
+* Huge hull ammo-rack if more than 16 shells are carried consequently making the tank extremely vulnerable to HE shells
+* A penetrating shot on the left side of the hull will most likely knock out the driver, gunner and commander, thus destroying the tank
+* A penetrating shell on the right side of the hull will most likely hit the ammo-rack, destroying the tank
+* Just like all Leopard series, raised engine deck means less gun depression when the turret is facing the rear
+* The wedges can be shot off with several hits, though the turret cheeks alone provide 650 mm against KE
+* Tank's weight is 4 tons increased while the engine is still the same, making the {{PAGENAME}} slower compared to the 2A4
+* Despite all the added armour, the turret ring and driver's hatch are both easily penetrated, and the enemy will most likely aim at these two spots to disable or destroy the tank
+* Is outperformed by its successor, the Leopard 2A6, in terms of firepower. The longer L/55 cannon on the Leopard 2A6 increases the performance of both DM33 and DM53 shells.
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 In 1988, German engineers began work on modernizing the Leopard 2 main battle tank. Improvements were made to the tank's defensive capabilities, primarily the turret armour. Moreover, the 2A5 model was fitted with an electric stabiliser instead of the electro-hydraulic variant that the previous versions used.
 
 The gunner received improved and less vulnerable optics, and the tank commander – a panoramic periscope with thermal imaging. The build of the driver's hatch was also modified, along with several other minor improvements made to the general design.
@@ -229,38 +215,34 @@ Leading to the 2A5 modernization program being officially approved by the milita
 ''- From [[wt:en/news/6098-development-leopard-2a5-this-time-we-are-dead-serious-en|Devblog]]''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_leopard_2a5 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_leopard_2a5 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|5WHTEcO9zKo|'''German Efficiency Continued - Leopard 2A5''' - ''JustinPlaysYT''|xCV32NWy8Kc|'''Should You Grind The Leopard 2A5?''' - ''Sako Sniper''|Htx2jqp0aEA|'''German ground forces Tier VI/VII''' - ''Oxy'' (Leopard 2A5 at 27:52)|efyCTykFiO0|'''Leopard 2A5 - Much WoW, Such GooD''' - ''Napalmratte''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 [[File:GarageImage_Leopard_2A5_Cup.png|300px|thumb|right|␙Leopard 2A5, currently only owned by content creator Slickbee]]
 
 ;Related development
 
-- [[Leopard 2A4]] - <small>(Preceding vehicle)</small>
-- ␙Leopard 2A5 - <small>([[wt:en/news/6286-esport-war-thunder-youtube-cup-results-en|YouTube Cup 2019]] prize)</small>
-- [[Strv 122A]]
-- [[Strv 122B PLSS]]
+* [[Leopard 2A4]] - <small>(Preceding vehicle)</small>
+* ␙Leopard 2A5 - <small>([[wt:en/news/6286-esport-war-thunder-youtube-cup-results-en|YouTube Cup 2019]] prize)</small>
+* [[Strv 122A]]
+* [[Strv 122B PLSS]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6098-development-leopard-2a5-this-time-we-are-dead-serious-en|[Devblog] Leopard 2A5: This Time We Are Dead Serious]]
+* [[wt:en/news/6098-development-leopard-2a5-this-time-we-are-dead-serious-en|[Devblog] Leopard 2A5: This Time We Are Dead Serious]]
 
 {{TankManufacturer KMW}}
 {{Germany medium tanks}}

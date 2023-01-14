@@ -8,25 +8,22 @@
 }}
 {{Specs-Card
 |code=fr_m3a3_stuart
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} French light tank {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (hull, turret)
-- Cast homogeneous armour (gun mantlet, MG port, transmission carter)
+* Rolled homogeneous armour (hull, turret)
+* Cast homogeneous armour (gun mantlet, MG port, transmission carter)
 
 {| class="wikitable"
 |-
@@ -34,20 +31,19 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French light tank {{Battle-rat
 |-
 | Hull || 25.4 mm (40°) ''Upper Glacis - Cheeks'' <br> 25 mm (44-50°) ''Upper Glacis - Top'' <br> 20 mm (spherical) ''MG port'' <br> 50 mm (23-29°) ''Upper Glacis - joint plate'' <br> 50 mm (44-46°) ''Upper Glacis - Bottom'' <br> 44.4 mm (25-43°) ''Lower Glacis'' || 25.4 mm (20°) ''Top'' <br> 25.4 mm ''Bottom'' || 12.7 mm (40-59°) + 4 mm ''Upper glacis'' <br> 25.4 mm (cylindrical) + 4 mm ''Upper plate'' <br> 25.4 mm (8°) ''Upper plate - Cheeks'' <br> 25.4 mm (21°) ''Lower glacis'' || 25 mm (40°) ''Front glacis'' <br> 12.7 mm (16°) ''Centre and rear''
 |-
-| Turret || 38.1 mm (12-14°) ''Turret front'' <br> 50.8 mm (spherical) + 38.1 mm (12-14°) ''Gun mantlet'' || 31.75 mm <br> 15 mm ''Add-on tracks'' || 31.75 mm || 12.7 mm (16°) ''Front'' <br> 12.7 mm ''Centre'' <br> 12.7 mm (16°) ''Rear''
+| Turret || 38.1 mm (12-14°) ''Turret front'' <br> 50.8 mm (spherical) + 38.1 mm (12-14°) ''Gun mantlet'' || 31.75 mm <br> 15 mm ''Add-on tracks'' || 31.75 mm || 12.7 mm (16°) ''Front'' <br>  12.7 mm ''Centre'' <br> 12.7 mm (16°) ''Rear''
 |-
 |}
 
 '''Notes:'''
 
-- Suspension wheels, tracks and bogies are 15 mm thick.
-- Mudguards and the rear storage box are 4 mm thick.
+* Suspension wheels, tracks and bogies are 15 mm thick.
+* Mudguards and the rear storage box are 4 mm thick.
 
 The frontal armour on the {{Specs|pseudonym}} is pretty tough for a light tank with 25 mm on the front & sides of the hull, and a large, 50 mm thick gun mantlet covering up most of its frontal turret. When angled correctly it can bounce off quite a few shots. However it can still be easily penetrated by average guns at its battle rating. From the front, the 4 crew members are sitting pretty close together, making it highly possible to get all knocked out at once by a shell with explosive filler like the Soviet 45 mm AP or the German short 75 mm APHE. The transmission and the engine are all quite small and low, and the ammunition stowage racks are also small, reducing the chance of being immobile or suffering ammo rack detonation. There is also an empty area under the turret servants and in front of the driving compartment, which will absorb those shells with weak damage.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=406|rbMinHp=232}}
@@ -61,9 +57,7 @@ One of the best aspects of the {{Specs|pseudonym}} is its superior mobility. It 
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|M6 (37 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -121,9 +115,7 @@ The {{Specs|pseudonym}} is armed with an [[M6 (37 mm)|37 mm M6]] cannon as its m
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.1.0.94''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -138,21 +130,19 @@ The {{Specs|pseudonym}} is armed with an [[M6 (37 mm)|37 mm M6]] cannon as its m
 |}
 '''Notes''':
 
-- Racks disappear after you've fired all shells in the rack.
-- The visual discrepancy concerns the total number of shells as well as the number of shells per rack:
-  ** 144 shells are modeled but you can pack 174 shells.
-  ** Rack 1 is modeled as 3 shells but contains 43 shells.
-  ** Rack 2 is modeled as 52 shells but contains 44 shells.
-  ** Rack 3 is modeled as 24 shells but contains 43 shells.
-  \*\* Rack 4 is modeled as 55 shells but contains 44 shells.
-- To go into battle with the turret and the flanks empty of ammo, pack 44&nbsp;''(+130)'' shells (racks 1 to 3 emptied).
+* Racks disappear after you've fired all shells in the rack.
+* The visual discrepancy concerns the total number of shells as well as the number of shells per rack:
+** 144 shells are modeled but you can pack 174 shells.
+** Rack 1 is modeled as 3 shells but contains 43 shells.
+** Rack 2 is modeled as 52 shells but contains 44 shells.
+** Rack 3 is modeled as 24 shells but contains 43 shells.
+** Rack 4 is modeled as 55 shells but contains 44 shells.
+* To go into battle with the turret and the flanks empty of ammo, pack 44&nbsp;''(+130)'' shells (racks 1 to 3 emptied).
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|M1919A4 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -169,9 +159,7 @@ The {{Specs|pseudonym}} is armed with an [[M6 (37 mm)|37 mm M6]] cannon as its m
 The M3A3 has two M1919A4 machine guns, one being coaxial to the main gun and the other roof-mounted. The two machine guns can quickly incapacitate the exposed crews on some vehicles or do some serious damage to those low-flying aircraft. The machine gun will only destroy poorly protected vehicles such as AS 42, FlakPanzer I and GAZ-AAA. The penetration of around 10 mm is not enough to go through the frontal armour of those light armoured tank destroyers like SU-5-1, Panzerjager 1 or 15cm sIG 33 B Sfl.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The M3A3 Stuart is best used as a point-capper and a hit-n-run tank. Its extreme mobility gives the player uncountable ways to play with the enemy. At the start of a battle, it can quickly cap a nearby point first, but note that some wheeled vehicles, like the [[Sd.Kfz.234/2|Sd.Kfz.234]] series in a mixed battle can still outrun the M3A3 on-road, therefore posing a great threat. Or it can get to an ambush position near the point and wait until the prey comes. With its reliable gun, the M3A3 should be able to destroy the first wave of enemies easily and quickly.
 
 In the middle stages of a battle, the M3A3 can utilise its excellent mobility and get to wherever needs help while carefully looking around. If the M3A3 unexpectedly encounter an enemy in its path, don't panic! Circle around the enemy and try to force it to turn, this way it usually cannot aim at the M3A3 accurately, then reduce the M3A3's speed down under 10 km/h and keep moving. Now the M3A3's stabiliser will give the tank a great chance to hit while on the move as it stabilises the gun when the tank is under 10 km/h, making it easier time to put the gun on target while moving compared to the enemy.
@@ -189,65 +177,57 @@ For the Matilda III, shoot at the middle of the near-vertical frontal plate to k
 For the B1, either aim for the near-vertical frontal armour plate at the right side of the hull, or the turret ring to incapacitate the commander/gunner, or simply move to its side and knock out the crews one by one by hitting its flat side armour.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great firepower: cannon has good penetration, excellent rate of fire and gun depression of -10 degrees, allowing the M3 to manoeuvre to any terrain and adapt to it well
-- Excellent acceleration, top speed and turning ability on all terrains; easily outruns common opponents like the [[Pz.III (Disambiguation)|Pz.III]] and Crusader
-- Access to a vertical stabiliser which most tanks don't have, giving it an advantage in a sudden encounter
-- Respectable sloped armour that, if angled, might bounce some shells from a distance, such as the 37 mm M6 on other M3 Stuarts
-- Small turret profile makes it harder to get hit
+* Great firepower: cannon has good penetration, excellent rate of fire and gun depression of -10 degrees, allowing the M3 to manoeuvre to any terrain and adapt to it well
+* Excellent acceleration, top speed and turning ability on all terrains; easily outruns common opponents like the [[Pz.III (Disambiguation)|Pz.III]] and Crusader
+* Access to a vertical stabiliser which most tanks don't have, giving it an advantage in a sudden encounter
+* Respectable sloped armour that, if angled, might bounce some shells from a distance, such as the 37 mm M6 on other M3 Stuarts
+* Small turret profile makes it harder to get hit
 
 '''Cons:'''
 
-- Weak armour against high-penetration shells like the 76 mm F-34/ZIS-5
-- Its shells do not have explosive filler, severely limiting the post-penetration effect especially against spacious tanks like the [[LVT(A)(1)]]
-- Inefficient brakes when trying to stop the tank at full speed
-- Hull is fairly tall for a light tank and the crews are closely packed, reducing its survivability
-- While fast, it is still slower than the Sd.Kfz.234 series on the road
+* Weak armour against high-penetration shells like the 76 mm F-34/ZIS-5
+* Its shells do not have explosive filler, severely limiting the post-penetration effect especially against spacious tanks like the [[LVT(A)(1)]]
+* Inefficient brakes when trying to stop the tank at full speed
+* Hull is fairly tall for a light tank and the crews are closely packed, reducing its survivability
+* While fast, it is still slower than the Sd.Kfz.234 series on the road
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The US lend-leased a total of 651 light tanks to the Free French forces, including 273 M3A3s, delivered prior to D-Day. All the light tanks of 2nd French Armoured Div. were M3A3s during the 1944 fighting in France. 1st and 5th Divisions had a mix of M3A3 and M5A1. Three of the five armoured recon battalions integral to the Free French infantry divisions also had a mixed fleet, while the 2 non-divisional armoured recon battalions, the 1st and 2nd Spahis Algeriens, were entirely M3A3-equipped. They would continue in service from D-Day until the end of the war in Europe.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=fr_m3a3_stuart Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=fr_m3a3_stuart Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|mz1ZXHAN9D0|'''The M3A3 Stuart (France) Light Tank''' - ''Orangefan''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
-
-- [[M5 Stuart (Family)]]
-- [[M8 General Scott (Family)]]
+* [[M5 Stuart (Family)]]
+* [[M8 General Scott (Family)]]
 
 ;Other vehicles of similar configuration and role
-
-- [[A13 Mk II 1939]]
+* [[A13 Mk II 1939]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wikipedia:M3_Stuart|[Wikipedia] M3 Stuart]]
-- [https://tanks-encyclopedia.com/ww2/US/M3_stuart.php <nowiki>[Tanks Encyclopedia]</nowiki> Light Tank M3 Stuart]
+* [[wikipedia:M3_Stuart|[Wikipedia] M3 Stuart]]
+* [https://tanks-encyclopedia.com/ww2/US/M3_stuart.php <nowiki>[Tanks Encyclopedia]</nowiki> Light Tank M3 Stuart]
 
 {{TankManufacturer Ordnance Department}}
 {{France light tanks}}

@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British bomber {{Battle-rating}}. It was introduced in [[Update 1.55 "Royal Armour"]].
 
 The Stirling B Mk I plays as a standard long range bomber. Climbing to high altitudes and using alternative routes or flying at tree-top level to bomb targets to prevent engagement is recommended as the Stirling B Mk I likely won't survive any due to poor armour and strength. It is not well defended at all with low calibre machine guns, which are not very effective at its battle rating. It is extremely flammable and fragile when engaged with cannons, although it may survive some small-calibre machine gun fire.
@@ -19,9 +17,7 @@ The Stirling B Mk I plays as a standard long range bomber. Climbing to high alti
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The general flight performance of this aircraft is lacking. The Stirling has a very poor climb rate - especially when stock. The turn time is sluggish, as well as acceleration and top speed.
 
 Without performance upgrades, this aircraft will struggle to climb at all carrying a payload.
@@ -51,7 +47,7 @@ Without performance upgrades, this aircraft will struggle to climb at all carryi
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -82,11 +78,10 @@ Without performance upgrades, this aircraft will struggle to climb at all carryi
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 8 mm Steel plate in the left pilot's seat.
-- 9 mm Steel plate in front of engine cooling systems.
+* 8 mm Steel plate in the left pilot's seat.
+* 9 mm Steel plate in front of engine cooling systems.
 
 The survivability of the Stirling B Mk I is very poor. Any encounter with a fighter or bomber hunter will end badly. The entire structure is relatively weak, and it won't take many cannon rounds to tear off the tail or a wing. The fuel tanks are vulnerable and catch fire easily too. For armour, there is a 9 mm plate in front of the cooling systems of each engine, and an 8 mm plate protecting the pilot from rounds coming from the rear of the aircraft.
 
@@ -101,33 +96,28 @@ If a player does decide to sit on your rear, you do have six 7.7 mm machine guns
 {{Specs-Avia-Armaments}}
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|M.C. Mk.I (1,000 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 27 x 250 lb G.P. Mk.IV bombs (6,750 lb total)
-- 27 x 500 lb G.P. Mk.IV bombs (13,500 lb total)
-- 9 x 1,000 lb M.C. Mk.I bombs (9,000 lb total)
+* 27 x 250 lb G.P. Mk.IV bombs (6,750 lb total)
+* 27 x 500 lb G.P. Mk.IV bombs (13,500 lb total)
+* 9 x 1,000 lb M.C. Mk.I bombs (9,000 lb total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|Browning (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 2 x 7.7 mm Browning machine guns, nose turret (1,000 rpg = 2,000 total)
-- 2 x 7.7 mm Browning machine guns, dorsal turret (500 rpg = 1,000 total)
-- 1 x 7.7 mm Browning machine gun, ventral turret (1,000 rpg)
-- 4 x 7.7 mm Browning machine guns, tail turret (2,500 rpg = 10,000 total)
+* 2 x 7.7 mm Browning machine guns, nose turret (1,000 rpg = 2,000 total)
+* 2 x 7.7 mm Browning machine guns, dorsal turret (500 rpg = 1,000 total)
+* 1 x 7.7 mm Browning machine gun, ventral turret (1,000 rpg)
+* 4 x 7.7 mm Browning machine guns, tail turret (2,500 rpg = 10,000 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 ;Offence
@@ -172,30 +162,27 @@ Tactics are not required to down a Stirling B Mk I. However, to maximise efficie
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Rear gunner and top fuselage gunner can fire in unison (If the rear gunner gets knocked-out, The top gunner will still be able to defend)
-- Best payload at rank III, enough to destroy 3 bases
+* Rear gunner and top fuselage gunner can fire in unison (If the rear gunner gets knocked-out, The top gunner will still be able to defend)
+* Best payload at rank III, enough to destroy 3 bases
 
 '''Cons:'''
 
-- Very large target
-- Cannot take many hits
-- Flammable
-- Mediocre LMG defence
-- Almost no armour
-- Vulnerable fuel tanks
-- Very bad climb rate with full payload
-- Sways very heavily in RB when trying to climb
-- Huge glass cockpit means near-certain death from head-on attacks
+* Very large target
+* Cannot take many hits
+* Flammable
+* Mediocre LMG defence
+* Almost no armour
+* Vulnerable fuel tanks
+* Very bad climb rate with full payload
+* Sways very heavily in RB when trying to climb
+* Huge glass cockpit means near-certain death from head-on attacks
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 Designed in the late 1930s by the Short Brothers, the design of what would be the Stirling met the demands of the British Air Ministry, which in 1936 called for the need of a long range, high speed, four engine bomber as described by Specification B.12/36, which would go from design to manufacturing in a short period of time.
 
 A prototype, designated S31, was delivered by 1938 and on September 19, 1939 had its maiden flight. While the maiden flight was impressive, an accident during takeoff as the result of imposed modifications marked the end of the airframe, and was subsequently scrapped. An earlier built prototype, the S29, took its place and was therefor ordered into production as an "off the drawing board" design. This prototype had its maiden flight on May 14, 1939, and a second later prototype airframe was redesigned with adequate modifications and soon took its maiden flight on December 3, 1939. This aircraft, during its first sortie, lost an engine but was soon able to return to base safely.
@@ -205,30 +192,25 @@ With the Luftwaffe's strength as well as the risk of war growing, it prompted th
 On May 7, 1940, the first production Stirling had its first flight, but introduction into service was hindered by relentless Luftwaffe bombings, and pushed back to August that same year before No.7 Squadron based at RAF Leeming received their first aircraft. Although it had a rocky start, the Stirling had a great number of deployments by June of 1942, which by May 1943 the aircraft had flown hundreds of bombing missions over Europe. Including the invasion of Normandy, Operation Market Garden, and Operation Glimmer, the aircraft was used extensively and heavily throughout the war to hammer back Axis powers. By the end of the Stirling's service, the aircraft had flown a total of 14,500 sorties and dropped 27,000 lbs of ordnance, with 582 aircraft shot down and 119 further lost to simple write-offs.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=stirling_mk1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=stirling_mk1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/285032-short-stirling-mk-i/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/285032-short-stirling-mk-i/ Official data sheet - more details about the performance]
 
 === References ===
-
-- [https://www.warhistoryonline.com/instant-articles/the-short-stirling.html Underappreciated but Not Forgotten - The Short Stirling Bomber]
+* [https://www.warhistoryonline.com/instant-articles/the-short-stirling.html Underappreciated but Not Forgotten - The Short Stirling Bomber]
 
 {{AirManufacturer Short}}
 {{Britain bombers}}

@@ -5,25 +5,22 @@
 }}
 {{Specs-Card
 |code=uk_a_22f_mk_7_churchill_1944
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|GarageImage*{{PAGENAME}}\_AddArmour.jpg|ArtImage*{{PAGENAME}}.png|ArtImage2\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|GarageImage_{{PAGENAME}}_AddArmour.jpg|ArtImage_{{PAGENAME}}.png|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' (or just '''{{Specs|pseudonym}}''') is a rank {{Specs|rank}} British heavy tank {{Battle-rating}}. It was introduced in [[Update 1.55 "Royal Armour"]] along with the rest of the initial British Ground Forces Tree. A lumbering beast made of pure steel, the Churchill Mk VII is the epitome of a "walking giant" which you do not want to have staring down at you. With 152 mm of armour, it is one of the most heavily protected tanks in Rank III, even if its firepower seems pitiful for such a tank.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (Machine gun port, Driver's hatch, Turret)
+* Rolled homogeneous armour
+* Cast homogeneous armour (Machine gun port, Driver's hatch, Turret)
 
 {| class="wikitable"
 |-
@@ -37,7 +34,7 @@ The '''{{Specs|name}}''' (or just '''{{Specs|pseudonym}}''') is a rank {{Specs|r
 |}
 '''Notes:'''
 
-- Suspension wheels are 20 mm thick while tracks are 30 mm thick.
+* Suspension wheels are 20 mm thick while tracks are 30 mm thick.
 
 If you are using vehicle below 4.7 BR do not attempt to fire at the Churchill Mk VII at the front (unless you have a very high penetration shell for your cannon). There is no benefit of attempting to penetrate the Churchill Mk VII from its front without aiming for thinner sides or weak points, that 152 mm of armour will chew up shells like nothing. The saving grace is that the Churchill has a gun that belongs to Rank II and low top speed, so it is possible to outmanoeuvre it in the terrain. Flank the tank to get a good shot on its weak side armour. Eliminate the turret crew to immobilise their firepower, then move in for the easy points.
 
@@ -55,7 +52,6 @@ For all these reasons, Churchill VII must always drive at an angle and slightly 
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp= 452|rbMinHp= 310|AoAweight= 0.5}}
@@ -67,9 +63,7 @@ For all these reasons, Churchill VII must always drive at an angle and slightly 
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|OQF Mk.V (75 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -123,7 +117,7 @@ For all these reasons, Churchill VII must always drive at an angle and slightly 
 |-
 | M61 shot || APCBC || 618 || 6.53 || N/A || N/A || N/A || 48° || 63° || 71°
 |-
-| M48 shell || HE || 463 || 6.3 || 0 || 0.1 || 666 || 79° || 80° || 81°
+| M48 shell || HE || 463 || 6.3 || 0 || 0.1 || 666 || 79° || 80° ||  81°
 |-
 |}
 {| class="wikitable" style="text-align:center"
@@ -143,9 +137,7 @@ For all these reasons, Churchill VII must always drive at an angle and slightly 
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_ChurchillMkVII.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -161,7 +153,7 @@ For all these reasons, Churchill VII must always drive at an angle and slightly 
 |}
 '''Note''':
 
-- Turret empty: 68&nbsp;''(+16)'' shells
+* Turret empty: 68&nbsp;''(+16)'' shells
 
 ==== Optics ====
 
@@ -186,9 +178,7 @@ At rank III, this scope is slightly or moderately superior to most medium and he
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|BESA (7.92 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -202,9 +192,7 @@ At rank III, this scope is slightly or moderately superior to most medium and he
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Churchill Mk VII is a slow and manoeuvrable turtle, you're not going to break any speed records, but rest assured that if the frontal armour is facing toward the enemy, most of their shells are not able to penetrate the front of the hull and turret at your BR and below. In an uptier, you really should avoid enemy SPGs and to be careful with medium tanks, as they can destroy or fatally cripple the tank, even when you are angled.
 
 The 75 mm gun may not be able to easily take on some of the tanks you may encounter at the rank, but with the high degree of protection, you can leisurely take your time picking out the weaknesses of your enemy to deal precise blow as you hear their rounds bounce off of your frontal armour. With the best ammunition, you can defeat or annoy even other heavy tanks without having to drive close to them. If enemy team is using open topped SPGs like [[M36 GMC]], [[Pvkv m/43 (1946)]], [[8,8 cm Flak 37 Sfl.]], [[Pvkv II]] and such, start firing HE - the main gun can fire as often as each 5 seconds and HE can destroy any of them in one hit almost anywhere regardless of range via overpressure, while they do not expect you to deal any at all, meaning that ironically the weakest gun around can be the strongest if underestimated enough.
@@ -230,31 +218,29 @@ Special notes for the [[IS-2 (Family)|IS-2]]: it carries a very deadly cannon th
 As a whole, Japanese tanks are easier to deal with. Their armour is quite thin and usually quite easy to penetrate. Tanks to note are the Chi-To and Chi-Ri II. They can penetrate 155 mm of armour at 100 m, which is just enough to get through your frontal armour. The Na-To is also a threat with its APCR, which can penetrate you frontally under 500 m. Finally, the low-rank Ho-Ro is dangerous, with its powerful 150 mm howitzer, but not many people will be using it at this rank.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Amazing frontal armour (152 mm) makes it impervious to all kinetic shells at its BR
-- The 75 mm gun main gun is decent for close-range combat and also can be armed with utility shells
-- Able to smoke up the entire battlefield in a matter of seconds if necessary
-- Ability to pivot steer
-- Good weight dispersion leads to amazing hill-climbing capabilities
-- Great -12° gun depression
-- Gunsight zoom is high, so aiming for weak spots is easier
+* Amazing frontal armour (152 mm) makes it impervious to all kinetic shells at its BR
+* The 75 mm gun main gun is decent for close-range combat and also can be armed with utility shells
+* Able to smoke up the entire battlefield in a matter of seconds if necessary
+* Ability to pivot steer
+* Good weight dispersion leads to amazing hill-climbing capabilities
+* Great -12° gun depression
+* Gunsight zoom is high, so aiming for weak spots is easier
 
 '''Cons:'''
 
-- Terrible mobility: speed is capped at 20 km/h, slow acceleration, subpar -3 km/h reverse, and cannot scale obstacles properly
-- Is very long, harder to navigate through confined spaces (e.g. urban maps)
-- Weak firepower: 75 mm AP shells lack explosive filler, have slow velocity, curved trajectory, and low penetration
-- Still has frontal weak spots: machine gun port both on the hull and turret are only 50 mm thick
-- Turret side armour is weak
-- Extremely vulnerable to coordinated flanking, as penetrations to the sides typically cause catastrophic damage to ammo racks located below the turret
-- Requires good coordination with a team to enable full potential
+* Terrible mobility: speed is capped at 20 km/h, slow acceleration, subpar -3 km/h reverse, and cannot scale obstacles properly
+* Is very long, harder to navigate through confined spaces (e.g. urban maps)
+* Weak firepower: 75 mm AP shells lack explosive filler, have slow velocity, curved trajectory, and low penetration
+* Still has frontal weak spots: machine gun port both on the hull and turret are only 50 mm thick
+* Turret side armour is weak
+* Extremely vulnerable to coordinated flanking, as penetrations to the sides typically cause catastrophic damage to ammo racks located below the turret
+* Requires good coordination with a team to enable full potential
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 ===Development===
@@ -279,33 +265,30 @@ The Churchills were also given out to the Allies to help combat the Axis forces.
 After World War II, the Churchill stuck around in the British Army until the Korean War, where the British sent the Churchill Crocodile Squadron (C squadron of the 7th Royal Tank Regiment) to Korea to fight with the Allied coalition. They fought as gun tanks in battle such as the Third Battle of Seoul. The Churchills were instrumental in some victories and were widely praised by both British and American forces and historians. After the Korean war, the Churchills remains in combat service until 1952, with the specific bridge-layer variant staying until the 1970s. The Irish Army also received three Churchill tanks in 1948 and another in 1949 as rentals until 1954, where they were purchased after trials with the vehicles. Despite running out of spare parts for the Churchill, the Irish Army took them in and experimented with using different engines to keep them functional, though this ended with failure and by 1967, only one was still functional. All were retired in 1969, and one was preserved at the Curragh Camp.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a_22f_mk_7_churchill_1944 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a_22f_mk_7_churchill_1944 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|gR3JPNt0iPw|'''Heavyweight brits''' discusses the {{PAGENAME}} at 4:06 - ''War Thunder Official Channel''|gxIVvUZGptw|'''The Shooting Range #51''' - ''Pages of History'' section at 03:14 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
 
-- [[KV-1 (ZiS-5)]]
+* [[KV-1 (ZiS-5)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/devblog/current/845/|[Devblog] A22B Сhurchill Mk.III and A22 Churchill Mk.VII (with developers answers)]]
+* [[wt:en/devblog/current/845/|[Devblog] A22B Сhurchill Mk.III and A22 Churchill Mk.VII (with developers answers)]]
 
 {{TankManufacturer Vauxhall}}
 {{Britain heavy tanks}}

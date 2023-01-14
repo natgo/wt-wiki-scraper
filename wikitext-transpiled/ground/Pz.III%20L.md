@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=germ_pzkpfw_III_ausf_L
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 141/1''') is a rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41.
 
 The Ausf. L modification is intended to improve the protection of the [[Pz.III J1|J1 variant]] by mounting an additional 20 mm thick armour plates on the front of the hull and turret. While this certainly improve its resistance against HEAT and HE projectiles(which explode on impact, and damage only the first layer of armour), as well as classic AP, more than a single layer 70 mm would do, there are small "holes" in these armour plates - around the driver's viewport and machine gun port. Turret front armour itself also got increased from 50 to 57 mm.
@@ -21,14 +19,12 @@ There are also attached tracks to lower plate of the vehicle, adding extra prote
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (Cupola)
-- High hardness rolled armour (Appliqué armour)
+* Rolled homogeneous armour
+* Cast homogeneous armour (Cupola)
+* High hardness rolled armour (Appliqué armour)
 
 {| class="wikitable"
 |-
@@ -42,16 +38,15 @@ There are also attached tracks to lower plate of the vehicle, adding extra prote
 |}
 '''Notes:'''
 
-- It has 50 mm of armour at the front of the hull and 57 mm on the turret front, but there is an additional 20 mm plate on the upper hull and at the front of the turret, increasing the effective armour to 70 mm and 77 mm respectively. When the armour is angled, this tank becomes very strong frontally.
-- The strong turret armour makes this tank powerful when hull-down, as many enemies will only be able to penetrate your cupola, only knocking out the commander. However, don't allow anyone to freely fire there, as some unlucky shot fired there can still occasionally cause severe damage.
-- The side and rear armour of the tank are thin, but it is possible to bounce shots from the side armour if it is angled steeply while side-scraping.
-- Suspension wheels are 15 mm thick while tracks are 20 mm thick.
+* It has 50 mm of armour at the front of the hull and 57 mm on the turret front, but there is an additional 20 mm plate on the upper hull and at the front of the turret, increasing the effective armour to 70 mm and 77 mm respectively. When the armour is angled, this tank becomes very strong frontally.
+* The strong turret armour makes this tank powerful when hull-down, as many enemies will only be able to penetrate your cupola, only knocking out the commander. However, don't allow anyone to freely fire there, as some unlucky shot fired there can still occasionally cause severe damage.
+* The side and rear armour of the tank are thin, but it is possible to bounce shots from the side armour if it is angled steeply while side-scraping.
+* Suspension wheels are 15 mm thick while tracks are 20 mm thick.
 
 Panzer III L has pretty good frontal armour, but there are several weak spots - around the driver's viewport and machinegun port, and few small spots on the turret, where armour is only 50 mm thick and completely flat, aim there. Sides and rear are very thin, if you can target these areas (even under quite a high angle), they are penetrable very easily. If you have powerful enough gun, you can try to outgun it from afar, where its own 5 cm gun will struggle with penetration.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=465|rbMinHp=265}}
@@ -65,9 +60,7 @@ The Panzer III L is a relatively mobile tank compared to many of its opponents, 
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|KwK39 (50 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -88,10 +81,10 @@ The Panzer III L is a relatively mobile tank compared to many of its opponents, 
 
 ==== Ammunition ====
 
-- '''PzGr 39''' - Armour Piercing Capped shell - This is your main ammo type, use it whenever you think it has enough penetration to penetrate your target. It deals the most damage, because of its explosive filler. It also offers the best penetration at very long range (over 1500 m), combat at this range is however not recommended.
-- '''PzGr 40/1''' - Armour Piercing Composite Rigid shell - This type of ammo should be used if you are having trouble penetrating your opponent, or trying to hit a fast-moving tank at some distance. However, its damaging potential is much lower, because it has no explosive filler to further enhance damage after the penetration. It should be used only at close range, at medium range, PzGr 40 is better.
-- '''PzGr 40''' - Armour Piercing Composite Rigid shell - this variation of APCR is lighter, slightly faster and offers the best penetration. Use it against heavily armoured tanks like KV-1 (If you can't flank them). However, don't expect it to cause any real damage upon penetration, its even worse than that of PzGr 40/1. It basically only deals damage to modules/crew straight in its path. It is therefore almost useless to fire them at things like turret cupolas, as it will usually just fly right through them.
-- '''SprGr 38''' - High Explosive shell - You should carry only very few of these. They are completely useless against anything other than unarmoured AA vehicles, to which it is lethal. It can be useful as the vehicle lacks an AA machine gun on the turret roof, and the coaxial MG is not the most efficient.
+* '''PzGr 39''' - Armour Piercing Capped shell - This is your main ammo type, use it whenever you think it has enough penetration to penetrate your target. It deals the most damage, because of its explosive filler. It also offers the best penetration at very long range (over 1500 m), combat at this range is however not recommended.
+* '''PzGr 40/1''' - Armour Piercing Composite Rigid shell - This type of ammo should be used if you are having trouble penetrating your opponent, or trying to hit a fast-moving tank at some distance. However, its damaging potential is much lower, because it has no explosive filler to further enhance damage after the penetration. It should be used only at close range, at medium range, PzGr 40 is better.
+* '''PzGr 40''' - Armour Piercing Composite Rigid shell - this variation of APCR is lighter, slightly faster and offers the best penetration. Use it against heavily armoured tanks like KV-1 (If you can't flank them). However, don't expect it to cause any real damage upon penetration, its even worse than that of PzGr 40/1. It basically only deals damage to modules/crew straight in its path. It is therefore almost useless to fire them at things like turret cupolas, as it will usually just fly right through them.
+* '''SprGr 38''' - High Explosive shell - You should carry only very few of these. They are completely useless against anything other than unarmoured AA vehicles, to which it is lethal. It can be useful as the vehicle lacks an AA machine gun on the turret roof, and the coaxial MG is not the most efficient.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="8" | Penetration statistics
@@ -137,9 +130,7 @@ The Panzer III L is a relatively mobile tank compared to many of its opponents, 
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Pz.IIIJ1.png|right|thumbnail|[[Ammo racks|Ammo racks]] of the Panzer III J1 (identical).]]
-
 <!-- '''Last updated: 1.101.1.14''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -157,9 +148,7 @@ Turret empty: 62&nbsp;''(+22)''
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|MG34 (7.92 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -173,9 +162,7 @@ Turret empty: 62&nbsp;''(+22)''
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 This tank is very versatile as it can do head on engagements, it's good at flanking, and features a rapid-firing 50 mm gun with excellent penetration capability compared to the other nations' medium tanks at similar battle rating. When it comes to the tanks survivability, it's best to keep a reasonable distance to the enemy target to keep the enemies gun out of a solid penetration range. The additional 20 mm frontal plate on the Panzer III L version makes its survivability much higher at long range combat compared to the older J1 version.
 
 The box shaped armour with no angle makes it an easy target to penetrate so be advised to angle the frontal armour or go full throttle and try to flank the enemy. The Pz III L got a decent turret rotation in case it is forced into a close quarters battle with an enemy tank, but keep in mind that distance with the tank is preferable. Though it can take on most tanks in a head on battle and distance battles makes it a very versatile tank to use in most kinds of situations one will happen to get into when playing with it.
@@ -184,37 +171,34 @@ The Panzer III L's long 50 mm cannon is no laughing matter, with its high rate o
 
 With the speed of the Panzer III, it can outmanoeuvre heavier tanks with ease and flank around them for an easier killing shot if it experiences problems with the enemy frontal armour. It might not be as fast as a light tank, but a top speed of 53 km/h (33 mph) makes the second fastest medium tank at its battle rating. With speed as excellent on this fast medium tank, flanking will not be a problem for it to do.
 
-- US M4 Shermans have decent strong frontal armour but with angle increasing its survivability against the L/60 gun to be penetrated reliably, especially the HVSS versions are tricky opponents if not knowing how to aim. In close combat the Sherman has the advantage over the Panzer III with its 75 mm gun and angled armour.
-- All mentioned USSR tanks have tricky hull armour and can be impenetrable for the L/60, as well as being able to destroy the Panzer III with one well-aimed shot. Avoiding direct confrontation is logical against this kind of enemy. Leave them to your better-armed allies, try to flank them, or aim for weak spots. Use some range to increase the effectiveness of your own armour.
-- Pz.IVs and StuGs outgun you at all ranges, you can exchange fire with them or flank them, but they are at an advantage with their long 75 mm cannons. StuG III G can be harder to penetrate.
+* US M4 Shermans have decent strong frontal armour but with angle increasing its survivability against the L/60 gun to be penetrated reliably, especially the HVSS versions are tricky opponents if not knowing how to aim. In close combat the Sherman has the advantage over the Panzer III with its 75 mm gun and angled armour.
+* All mentioned USSR tanks have tricky hull armour and can be impenetrable for the L/60, as well as being able to destroy the Panzer III with one well-aimed shot. Avoiding direct confrontation is logical against this kind of enemy. Leave them to your better-armed allies, try to flank them, or aim for weak spots. Use some range to increase the effectiveness of your own armour.
+* Pz.IVs and StuGs outgun you at all ranges, you can exchange fire with them or flank them, but they are at an advantage with their long 75 mm cannons. StuG III G can be harder to penetrate.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Strong frontal armour thanks to the additional 20mm high hardness plates. Angling betters it
-- Fast for a medium tank
-- Rapid fire gun, good for shooting sides and rear
-- Shells travel fast, making it easier to aim and lead at long distance
-- Excellent -10° gun depression is suitable for hilly terrains
-- Small and well-located ammo racks - the tank is very rarely destroyed by being ammo racked, unlike Pz.IVs
-- Winterketten help with navigating rough terrain while retaining mobility
+* Strong frontal armour thanks to the additional 20mm high hardness plates. Angling betters it
+* Fast for a medium tank
+* Rapid fire gun, good for shooting sides and rear
+* Shells travel fast, making it easier to aim and lead at long distance
+* Excellent -10° gun depression is suitable for hilly terrains
+* Small and well-located ammo racks - the tank is very rarely destroyed by being ammo racked, unlike Pz.IVs
+* Winterketten help with navigating rough terrain while retaining mobility
 
 '''Cons:'''
 
-- Gun is unreliable when facing certain tanks frontally (T-34s, [[KV-1 (L-11)|KV-1]], M4s) unless one aims for weak spots or uses the PzGr 40 (APCR) shell
-- Gun is bad for long-range combat
-- APCR rounds have a poor post-penetration effect
-- Armour isn't 70 mm thick at the entire front - machine gun port and the driver viewport are weak spots
-- Turret ring is prone to get damaged, even by non-penetrating hits
-- Large and vulnerable commander cupola
+* Gun is unreliable when facing certain tanks frontally (T-34s, [[KV-1 (L-11)|KV-1]], M4s) unless one aims for weak spots or uses the PzGr 40 (APCR) shell
+* Gun is bad for long-range combat
+* APCR rounds have a poor post-penetration effect
+* Armour isn't 70 mm thick at the entire front - machine gun port and the driver viewport are weak spots
+* Turret ring is prone to get damaged, even by non-penetrating hits
+* Large and vulnerable commander cupola
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 The '''Panzerkampfwagen III''' medium tank or the '''Panzer III''' was developed in the 1930s. Starting in early 1934, Heinz Guderian set down some specifications for a new tank, which Army Weapons Department took up to design the tank to weigh no more than 24,000 kilograms with a top speed of 35 km per hour. This tank's role was to be the main tank of the German army and was expected to destroy opposing tanks, as opposed as a tank made to destroy anti-tank guns and opposing infantrymen, which the [[Pz.IV C|Panzer IV]] took up in.
 
@@ -243,27 +227,24 @@ These tanks were used to replace the losses which had been incurred by the army.
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_III_ausf_L Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_III_ausf_L Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
-
-- [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
+* [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{Germany medium tanks}}

@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=uk_a27m_cromwell_5
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' (or just '''{{Specs|pseudonym}}''') is a Rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was released along with the initial British ground tree in [[Update 1.55 "Royal Armour"]]. An adequately armoured cruiser tank that is armed with a rather inadequate [[Ordnance QF Mk.V (75 mm)|75 mm cannon]] due to poor post-penetration performance. However, the Cromwell V's speed makes it a very good flag runner akin to the [[M18 GMC|M18 Hellcat]].
 
 The Cromwell V, despite being a later and more modern version than the Mk I, has a slightly lower (3.0-3.3) BR than the [[Cromwell I|Mk.I]] and arrives first in the tech tree. This is due to its 75 mm gun, which offers less penetration than the [[Ordnance QF 6-pounder Mk.III (57 mm)|57 mm]] in the Mk. I, and thus makes many higher BR tanks effectively invulnerable to it. Those few points of BR make little the difference; in its match-ups the Cromwell V is an average opponent, but will easily outrun anything on the map to take up effective positions for the first shot, and then doling out some of the worst damage in the game at its BR from its 75 before running off to another location.
@@ -21,13 +19,11 @@ This tank is not a beginner-friendly vehicle. Though fast, the vehicle's gun doe
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (Gun mantlet)
+* Rolled homogeneous armour
+* Cast homogeneous armour (Gun mantlet)
 
 {| class="wikitable"
 |-
@@ -40,11 +36,10 @@ This tank is not a beginner-friendly vehicle. Though fast, the vehicle's gun doe
 |}
 '''Notes:'''
 
-- Suspension wheels and tracks are 20 mm thick.
+* Suspension wheels and tracks are 20 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=930|rbMinHp=531}}
@@ -56,9 +51,7 @@ This tank is not a beginner-friendly vehicle. Though fast, the vehicle's gun doe
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|OQF Mk.V (75 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -132,9 +125,7 @@ This tank is not a beginner-friendly vehicle. Though fast, the vehicle's gun doe
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.3.0.83''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -168,9 +159,7 @@ This tank is not a beginner-friendly vehicle. Though fast, the vehicle's gun doe
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|BESA (7.92 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -184,9 +173,7 @@ This tank is not a beginner-friendly vehicle. Though fast, the vehicle's gun doe
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Cromwell fighting prowess is due to its manoeuvrability and gun rotation. This is thanks to the combination of the Rover Meteor engine, essentially a Rolls-Royce Merlin of Spitfire fame with the supercharger removed, and its Merrit-Brown triple-differential transmission. This gives the Cromwell power even while it manoeuvres so it maintains speed much better than those tanks using traditional clutch-and-brake systems like practically everything in this BR. This not only allows it to spin in place and easily run around obstacles, but it can also out-climb almost every tank in the game, allowing it to go places the enemy might not expect to find you. But mostly this gives it unmatched speed, allowing you to reach the good sniping spots before anyone else in the match. But there is a down side to the Cromwell's amazing speed, going in reverse will only let you go up to 3 km/h, and rarely will you be able to damage a tank enough to get a similarly effective second shot; either the tanks was still drivable and retreated to cover, angled to best bounce your next shot, or 1 shot you in return with APHE.
 
 Once upgraded, the Cromwell's turret rotation is one of the best for the rank, only beaten by the [[T-34 (1940)|T-34]] that has a rotation speed of 29°/s (fully aced crew). This allows an upgraded Cromwell to quickly engage targets in different angles, important for close-quarter fighting. German tanks will come close to you but not be able to catch up with you in some situations, but this being said; '''do not''' go into the hell of battle thinking "My turret rotation is fast enough to beat all of youse!" because that will get the Cromwell destroyed by a tank who only needs to hit your turret from the front to disable you. And as said before your reverse speed isn't that fast so if you are in this situation all you can do is pray and hope that your team mates come up to help you out or in worst case scenario you get taken out straight away from a side on hit. But instead help out the team from a distance of around 0-550m or if you feel like sniping from a distance your max range is 850m.
@@ -194,50 +181,47 @@ Once upgraded, the Cromwell's turret rotation is one of the best for the rank, o
 The downside to this tank is its thin hull armour, especially on the sides. Everything on the map can penetrate the Cromwell hull, even from the front. This includes SPAAs, who will easily tear the Cromwell apart, especially the [[Wirbelwind]] that will do so at almost all ranges typically encountered and any angle. The Cromwell's turret is somewhat better off, with just over 60 mm on the front and sides, but the flat plates are easily penetrated by any type of shell. The closely packed interior means it's a one-hit-to-burn design for anything with a 75 mm, and at 3.3 BR these will be on almost all tanks you face. Keep moving! If you take a shot or get shot at, re-position, don't ever try to fight it out. You're so much faster and more manoeuvrable than anything you meet that you can almost always find a better location to go after any target. Just don't try to reverse; it's single reverse gear gets you 2 mph (3 km/h), meaning you're likely better off spinning in place and then driving away.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Excellent gun depression of -12°.
-- Very fast acceleration.
-- Very sensitive brakes enables Cromwell to land shots almost immediately after stopping.
-- Decent front turret armour of 64 mm.
-- Exceptional speed for a medium tank.
-- Acceptable reload for 75 mm gun that allows a steady rate of fire.
-- Solid shot produces cone of shrapnel in post-penetration line of fire.
-- Armour can be compounded angled to the sides for extra effectiveness.
-- Very good flanker and rushing caps at early game.
-- Has neutral steering.
-- Performs exceptionally well when working with other allied tanks with different role.
-- Excellent manoeuvrability.
-- Standard 5 crew members allow a margin of crew casualties before a decrease in combat performance.
-- Low profile.
-- Excellent climbing ability (both in reverse and forwards).
-- Still gains speed while climbing even the steepest of slopes.
-- Great turret rotation for a Rank 2 medium tank (beaten only by the T-34).
+* Excellent gun depression of -12°.
+* Very fast acceleration.
+* Very sensitive brakes enables Cromwell to land shots almost immediately after stopping.
+* Decent front turret armour of 64 mm.
+* Exceptional speed for a medium tank.
+* Acceptable reload for 75 mm gun that allows a steady rate of fire.
+* Solid shot produces cone of shrapnel in post-penetration line of fire.
+* Armour can be compounded angled to the sides for extra effectiveness.
+* Very good flanker and rushing caps at early game.
+* Has neutral steering.
+* Performs exceptionally well when working with other allied tanks with different role.
+* Excellent manoeuvrability.
+* Standard 5 crew members allow a margin of crew casualties before a decrease in combat performance.
+* Low profile.
+* Excellent climbing ability (both in reverse and forwards).
+* Still gains speed while climbing even the steepest of slopes.
+* Great turret rotation for a Rank 2 medium tank (beaten only by the T-34).
 
 '''Cons:'''
 
-- Solid shot post-penetration damage still mediocre, with emphasis in precise targeting of critical modules and crew on the first shot.
-- Only solid shot ammunition for armour-piercing shells
-- 75 mm gun only average in anti-tank capabilities.
-- The sensitive brakes can throw aim off in the instance, letting a prepared enemy fire first.
-- Armour is only supported by raw thickness due to its flat, boxy construction. Requires manual compound angling to improve effectiveness.
-- Using the Cromwell for frontal engagements is not advised, should use flanking tactics instead and let heavier allies like the Matildas and Churchills to take frontal assault.
-- Weak side armour.
-- Ammunition racks litter all around the hull center.
-- Prone to fishtailing or breaking out, A and D keys can be merely tapped, effectively uncontrollable at high speeds.
-- Very poor reverse speed, just 3 km/h (1.8 mph).
-- Unlockable M61 APCBC shell with acceptable ricochet characteristics loses extra penetration the stock M72 shell has.
-- Lacks any sort of gun stabilization.
-- Gun elevation speed is extremely poor.
-- Neutral steering only works on flat terrain.
+* Solid shot post-penetration damage still mediocre, with emphasis in precise targeting of critical modules and crew on the first shot.
+* Only solid shot ammunition for armour-piercing shells
+* 75 mm gun only average in anti-tank capabilities.
+* The sensitive brakes can throw aim off in the instance, letting a prepared enemy fire first.
+* Armour is only supported by raw thickness due to its flat, boxy construction. Requires manual compound angling to improve effectiveness.
+* Using the Cromwell for frontal engagements is not advised, should use flanking tactics instead and let heavier allies like the Matildas and Churchills to take frontal assault.
+* Weak side armour.
+* Ammunition racks litter all around the hull center.
+* Prone to fishtailing or breaking out, A and D keys can be merely tapped, effectively uncontrollable at high speeds.
+* Very poor reverse speed, just 3 km/h (1.8 mph).
+* Unlockable M61 APCBC shell with acceptable ricochet characteristics loses extra penetration the stock M72 shell has.
+* Lacks any sort of gun stabilization.
+* Gun elevation speed is extremely poor.
+* Neutral steering only works on flat terrain.
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 Development for the tank started back in 1940, just around the time the [[Crusader Mk II|Crusader cruiser tank]] was being put into service in the British Army. The development of a stronger cruiser tank was initiated due to the belief that that the Crusader would become obsolete in the face of more advanced German tanks as the time pass. The initial plans was for the tank to mount the OQF 6-pounder gun and was to be completed in 1942. The project was taken up by three companies who submitted their designs. Vauxhall developed the ''A23'', a scaled down [[Churchill Mk III|Churchill tank]] with 75 mm of armour and a 12-cylinder Bedford engine. Nuffield developed the ''A24'' based off the Crusader that was powered by the Liberty engine and had an advantage of being put into production quickly. Leyland and Birmingham Railway Carriage & Wagon developed a design that was similar to Nuffield's, but with different suspension and track designs. All these designs were examined in January 1941 and it was decided that Nuffield's A24 would become the vehicle of choice for the project. Six prototypes of the vehicle, now called ''Cromwell I'' were ordered for delivery in the Spring of 1942, but arrived four months late, with current events making the tank designs outdated. Despite that, the tank was put into production and experienced an unsatisfactory performance history as being an under-powered tank. The lack of available tanks led to the demands for more 6-pounders on the battlefield, which were used to be mounted on the older tank designs.
 
@@ -258,35 +242,29 @@ During the war, the Cromwell chassis was used in various specialized roles on th
 The Cromwells were also given out to Allied units such as the 1st Polish Armoured Division and the 1st Czechoslovak Armoured Brigade. These units served in the northern Europe with the Allies as they breakthrough deeper into Europe. After World War II, some Cromwell stayed in service and saw service in the Korean War with the 7th Royal Tank Regiment and the 8th King's Royal Irish Hussars. The Cromwells also were given to Greece, where it had the distinction of being the first tank put into service by the Greek Army. 52 Centaurs were given to Greece in 1946 to fight in the Greek Civil War, but these were stored due to lack of crews with adequate training. Formal training began in Greece began in 1947 with the return of trained officers from Britain. The Centaur saw limited service in the Greek Armoured Corps, fighting in the Greek mountains. These units kept the Centaurs up until 1963 where it was replaced by the American [[M47|M47 Pattons]].
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a27m_cromwell_5 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a27m_cromwell_5 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|HhXW8pe1Flk|'''Cromwell V - Tank Review''' - ''Napalmratte''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
-- [[Cromwell (Family)]]
+* [[Cromwell (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{Britain medium tanks}}

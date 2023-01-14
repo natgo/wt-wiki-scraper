@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a squadron rank {{Specs|rank}} British strike aircraft {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
 
 The Sea Harrier FRS.1 was a navalised variant of the Hawker-Siddeley Harrier. Entering service with the United Kingdom's Royal Navy in 1978, it went on to earn fame for its engagements during the Falklands conflict in 1982 against the Argentinian air forces.
@@ -23,9 +21,7 @@ All in all, the Sea Harrier can be a powerful opponent in the hands of a veteran
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The Sea Harrier possesses a flight performance very similar to the aircraft it is derived from, the Harrier GR.3, possessing the same Pegasus 103 engine. It is worth noting however that the Sea Harrier carries additional weight in the form of the radar equipment within its nose and an altered aerodynamic profile to accommodate this.
 
 Comparatively, the Sea Harrier turns more sluggishly than contemporary Harriers, but it still maintains the exceptional thrust and climb rate prevalent among its kind, able to climb up to lofty heights where it can maximise the range potential of its all-aspect AIM-9L Sidewinder missiles. It comes with the same thrust vectoring of other Harriers allowing the aircraft to pull tighter turns and make split second adjustments at the cost of speed and energy.
@@ -55,7 +51,7 @@ Comparatively, the Sea Harrier turns more sluggishly than contemporary Harriers,
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -121,7 +117,6 @@ Comparatively, the Sea Harrier turns more sluggishly than contemporary Harriers,
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
 The Sea Harrier FRS.1 possesses no armour. All of its internal modules are arrayed in close proximity within the fuselage centred around the engine.
@@ -152,39 +147,35 @@ Flares/Chaff -> 1000 LB bombs -> New Boosters -> AIM-9L -> Wings Repair -> Engin
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|ADEN Mk.4 (30 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 2 x 30 mm ADEN Mk.4 cannons, belly-mounted (130 rpg = 260 total)
-  ** 2 x 30 mm ADEN Mk.4 cannons + 60 x countermeasures
+* A choice between two presets:
+** 2 x 30 mm ADEN Mk.4 cannons, belly-mounted (130 rpg = 260 total)
+** 2 x 30 mm ADEN Mk.4 cannons + 60 x countermeasures
 
 The 30 mm ADEN cannons are identical to those found on the GR.1/3 and the AV-8A/C found in the USA tech tree. These are very hard-hitting guns that can bring down an enemy aircraft with even glancing blows. However on the Harrier family they are often located low on the belly in an awkward spot, possess low muzzle velocity, and often very limited ammunition. They can however be used to great effect on larger aircraft such as A-10s or Su-25s when a quick and snappy burst needs to do fatal damage.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|H.E. M.C. Mk.13 (1,000 lb)|AIM-9G Sidewinder|AIM-9L Sidewinder|RP}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x AIM-9G Sidewinder missiles
-- 2 x AIM-9L Sidewinder missiles
-- 4 x AIM-9L Sidewinder missiles
-- 72 x RP rockets
-- 3 x 1,000 lb H.E. M.C. Mk.13 bombs (3,000 lb total)
-- 4 x 1,000 lb H.E. M.C. Mk.13 bombs (4,000 lb total)
-- 5 x 1,000 lb H.E. M.C. Mk.13 bombs + 2 x AIM-9G Sidewinder missiles (5,000 lb total)
-- 5 x 1,000 lb H.E. M.C. Mk.13 bombs + 4 x AIM-9L Sidewinder missiles (5,000 lb total)
-- 2 x AIM-9G Sidewinder missiles + 72 x RP rockets
-- 4 x AIM-9L Sidewinder missiles + 72 x RP rockets
+* Without load
+* 2 x AIM-9G Sidewinder missiles
+* 2 x AIM-9L Sidewinder missiles
+* 4 x AIM-9L Sidewinder missiles
+* 72 x RP rockets
+* 3 x 1,000 lb H.E. M.C. Mk.13 bombs (3,000 lb total)
+* 4 x 1,000 lb H.E. M.C. Mk.13 bombs (4,000 lb total)
+* 5 x 1,000 lb H.E. M.C. Mk.13 bombs + 2 x AIM-9G Sidewinder missiles (5,000 lb total)
+* 5 x 1,000 lb H.E. M.C. Mk.13 bombs + 4 x AIM-9L Sidewinder missiles (5,000 lb total)
+* 2 x AIM-9G Sidewinder missiles + 72 x RP rockets
+* 4 x AIM-9L Sidewinder missiles + 72 x RP rockets
 
 '''AIM-9G Sidewinder missile:'''
 
@@ -223,57 +214,47 @@ The Harrier can carry up to 72 RP rockets, these rockets are simple and can be a
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Retains the great climb rate and thrust of earlier Harrier's
-- Addition of a search radar that can be used to slave the AAM's the Harrier can bring for off-angle shots
-- 4 powerful AIM-9L all-aspect missiles
+* Retains the great climb rate and thrust of earlier Harrier's
+* Addition of a search radar that can be used to slave the AAM's the Harrier can bring for off-angle shots
+* 4 powerful AIM-9L all-aspect missiles
 
 '''Cons:'''
 
-- Subsonic in a bracket mostly populated with supersonic aircraft
-- Sluggish in its turn radius
-- Engines will overheat if run for too long at 100% throttle, management is required
+* Subsonic in a bracket mostly populated with supersonic aircraft
+* Sluggish in its turn radius
+* Engines will overheat if run for too long at 100% throttle, management is required
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-
 ''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/8011-development-squadron-vehicles-sea-harrier-frs-1-en|[Devblog] Squadron vehicles: Sea Harrier FRS.1]]
+* [[wt:en/news/8011-development-squadron-vehicles-sea-harrier-frs-1-en|[Devblog] Squadron vehicles: Sea Harrier FRS.1]]
 
 {{AirManufacturer BAe}}
 {{Britain jet aircraft}}

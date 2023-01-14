@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=uk_vickers_mk7
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced in [[Update 1.93 "Shark Attack"]].
 
 The Vickers Mk.7 is a prototype tank design by Vickers during the 1980s. The tank featured a capable fire control system, an effective and tested L11 120 mm gun, similar to those on the [[Chieftain (Family)|Chieftains]] and as a novelty for the British tech tree, the turret is mounted on the chassis of a [[Leopard 2A4|Leopard 2]].
@@ -23,7 +21,6 @@ The tank is not only well balanced in the 3 main categories, but is also armed w
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 {| class="wikitable"
@@ -40,10 +37,10 @@ The tank is not only well balanced in the 3 main categories, but is also armed w
 
 '''Notes:'''
 
-- Suspension wheels, tracks and torsion bars are 20 mm thick.
-- A 20 mm plate reinforces the hull sides' top area.
-- A 8 mm plate separates the crew compartment from the engine compartment.
-- Additionally to the outer armour, composite armour is present:
+* Suspension wheels, tracks and torsion bars are 20 mm thick.
+* A 20 mm plate reinforces the hull sides' top area.
+* A 8 mm plate separates the crew compartment from the engine compartment.
+* Additionally to the outer armour, composite armour is present:
 
 {| class="wikitable"
 |-
@@ -61,7 +58,6 @@ The tank is not only well balanced in the 3 main categories, but is also armed w
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=2,032|rbMinHp=1,327}}
@@ -73,9 +69,7 @@ The tank is not only well balanced in the 3 main categories, but is also armed w
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|L11A5 (120 mm)}}
 
 The Mk.7 uses the same 120 mm L11A5 rifled gun as the [[Challenger Mk.3]]. Shell loadout is identical and works well for mid-Cold War era tanks such as the [[Type 90]], [[Leopard 2A4]], [[T-64B]]/[[T-72A]]/[[T-80B]], etc., but may struggle when fighting more modern vehicles such as the [[Leopard 2A5]], [[T-80U]], [[Leclerc]], etc.
@@ -151,9 +145,7 @@ The Mk.7 uses the same 120 mm L11A5 rifled gun as the [[Challenger Mk.3]]. Shell
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.19.0.76''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -172,13 +164,11 @@ The Mk.7 uses the same 120 mm L11A5 rifled gun as the [[Challenger Mk.3]]. Shell
 
 '''Notes:'''
 
-- In the case of projectile racks 4 and 5: the rack is shared but the outer half of the ammunition is used as the ready rack and the inner half is stored ammo and thus considered as rack 4 for the purposes of determining load order.
+* In the case of projectile racks 4 and 5: the rack is shared but the outer half of the ammunition is used as the ready rack and the inner half is stored ammo and thus considered as rack 4 for the purposes of determining load order.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|L8A2 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -192,9 +182,7 @@ The Mk.7 uses the same 120 mm L11A5 rifled gun as the [[Challenger Mk.3]]. Shell
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Vickers Mk.7 is a main battle tank, and thus a tank that should be on the frontlines being the first line of attack. It is considered one of the best armoured MBTs at its battle rating. This is due to its composition; a Leopard 2A4 hull which offers protection against all CE threats except [[9M133]] Kornet and is able to stop APFSDS rounds with <400 mm penetration, and a custom British turret similar to the [[Challenger 2]] which offers protection against all CE threats except 9M133 Kornet and APFSDS rounds with <405 mm penetration. Thanks to this, the Vickers Mk.7 can be used in a variety of engagements at both short and long ranges with high chances of survivability.
 
 '''In urban combat:'''
@@ -209,7 +197,7 @@ Vickers Mk.7 can be used as the tank who will push through the enemy line due to
 
 Due to the high survivability, the Vickers Mk.7 is able to hold defensive positions (cap points, strategic locations, etc) quite well, as well as repelling and counter-attacking any aggressor with ease. Due to its powerful engine and transmission, it is able to move forward, fire, and move backwards in quick succession.
 
-''\*Note: the Vickers Mk.7 most prominent weak spot in the turret is the mantlet, always be on the lookout to hide it as much as possible or by wobbling your turret a little so enemies have a smaller chance to hit the mantlet.''
+''*Note: the Vickers Mk.7 most prominent weak spot in the turret is the mantlet, always be on the lookout to hide it as much as possible or by wobbling your turret a little so enemies have a smaller chance to hit the mantlet.''
 
 '''In rural combat:'''
 
@@ -224,35 +212,32 @@ Thanks to the high velocity stock ammunition, the Vickers Mk.7 is able play as a
 As much as crazy it sounds, the Vickers Mk.7 has an impressive speed of 75 km/h even with all the armour. Thanks to this, the Vickers Mk.7 is able to move around and push behind enemy lines and retreat or move to wherever is needed. Thanks to the stabilizer, it is able to fire on the move if needed for a quick "Hit 'n' Run" tactic. It has a slow reload rate (7.8 seconds stock) which can cause issues when engaging targets in a fast manner. Use smoke if needed to retreat and relocate.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Accurate main gun with HESH and smoke as support rounds
-- Excellent mobility in all directions, also effective off-road mobility
-- Respectable turret armour compared to some tanks at the battle rating; fearful when in downtier
-- Decent stock APFSDS shell (394 mm at 100 m at 0°)
-- Powerful gun optics (4.0x - 12.0x FOV: 18-6), gun depression, TOGS and laser range finder: excellent tank hunting capabilities
-- Two-piece ammunition is stored separately; reduced risk of detonation
+* Accurate main gun with HESH and smoke as support rounds
+* Excellent mobility in all directions, also effective off-road mobility
+* Respectable turret armour compared to some tanks at the battle rating; fearful when in downtier
+* Decent stock APFSDS shell (394 mm at 100 m at 0°)
+* Powerful gun optics (4.0x - 12.0x FOV: 18-6), gun depression, TOGS and laser range finder: excellent tank hunting capabilities
+* Two-piece ammunition is stored separately; reduced risk of detonation
 
 '''Cons:'''
 
-- Large and tall profile; difficult to conceal from tanks, aircraft or helicopters
-- Difficulties when fighting sloped armour at long distances, chiefly Soviet [[T-72 (Family)]] or [[Leopard 2A6]]
-- Ammo rack behind the turret with no blowout panels
-- Armour protection nearly useless against high velocity FIN-shells (e.g., [[Leopard 2A4|DM13]], [[T-64B|3BM42]], [[PTZ89|DYW1]])
-- Weak spots in hull and turret: gun mantlet, driver position and armourless sides and weak LFP inherent from [[Leopard 2 (Family)]]
+* Large and tall profile; difficult to conceal from tanks, aircraft or helicopters
+* Difficulties when fighting sloped armour at long distances, chiefly Soviet [[T-72 (Family)]] or [[Leopard 2A6]]
+* Ammo rack behind the turret with no blowout panels
+* Armour protection nearly useless against high velocity FIN-shells (e.g., [[Leopard 2A4|DM13]], [[T-64B|3BM42]], [[PTZ89|DYW1]])
+* Weak spots in hull and turret: gun mantlet, driver position and armourless sides and weak LFP inherent from [[Leopard 2 (Family)]]
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 After quite a few private tank ventures, and the unsatisfactory development of the Vickers Mark 4, also known as Valiant. The Vickers company brought another design aimed to develop a capable MBT. Either as a replacement for the Challenger Mk.1 then currently in service, or as a valuable modern tank for the exportation. With the support of the Krauss-Maffei company, Vickers matched the up-rated turret of the previous Mark 4 Valiant MBT, with an identical [[Leopard 2A4]] chassis. Thus creating in June 1985, what it became known as Vickers MBT Mark 7.
 
 The Leopards' MTU 838 engine capabilities were well known, and the match with the improved Valiant's Mk 4 turret protected by the powerful Chobham Armour, resulted in an acceptable weight of over 54 tons, providing a top speed of 72 km/h. A speed which was unlikely from most British MBTs of the time - Specially from previous MBTs as the already out phased [[Chieftain (Family)|Chieftains]].
 
-Vickers' prototype got fitted with the L11 120 mm gun, the same gun as the contemporary Challenger 1. After these modifications, the Mark 7 went under trials in Egypt, September of the same year. In 1986, using some technologies of the defunct MBT-80 project, the Mark 7 received even greater upgrades: 2nd generation thermal sights with increased resolution, improved stabilization systems for the main gun, reduced thermal and electromagnetic signatures and a new telescopic laser sight. Effectively reworking on the IFCS (Improved Fire Control System) for the 120 mm L11A5 cannon. Equally formidable, the Leopard 2 chassis matched perfectly this gunnery refits; turning the Mark 7 in a very steady tank while firing on the move.
+Vickers' prototype got fitted with the L11 120 mm gun, the same gun as the contemporary Challenger 1. After these modifications, the Mark 7 went under trials in Egypt, September of the same year. In 1986, using some technologies of the defunct MBT-80 project,  the Mark 7 received even greater upgrades: 2nd generation thermal sights with increased resolution, improved stabilization systems for the main gun, reduced thermal and electromagnetic signatures and a new telescopic laser sight. Effectively reworking on the IFCS (Improved Fire Control System) for the 120 mm L11A5 cannon. Equally formidable, the Leopard 2 chassis matched perfectly this gunnery refits; turning the Mark 7 in a very steady tank while firing on the move.
 
 Bittersweet experiences on the CAT 87 (Canadian Army Trophy) with the Army's Challengers 1 pitted against [[Leopard (Family)|Leopards 2/1]] and [[M1 Abrams]], made some interest on the Vickers Mk.7 project. Therefore, in October 1987, a comparison test on the Lulworth Gunnery Ranges was performed between a Challenger 1 and a Vickers Mark 7. CHIP (Challenger/Chieftain Improvement Programme) was looking for projects and new technologies to integrate into the serving Challengers 1. At the firing range, Challenger 1 hit seven out of the 8 targets in an engagement time of approximately 21.7 seconds. While the Vickers Mark 7 achieved successful hits to all 8 targets in only 12.5 seconds. This is likely due to old Chieftain's cannon and gunnery systems being fitted into the newer Challenger 1, with only slightly major gunnery improvements aside from TOGS - unlike the modernized Vickers Universal turret.
 
@@ -263,33 +248,30 @@ Without the interest of the British Army, high productions costs, international 
 While the fate might seem short-lived, the Vickers Mk.7 proved to be an invaluable leap forward in the modernized MBT development. Not only regarding the CR2 but also because in 1986 the Universal Vickers turret was reproduced to be used by Engesa, on the Brazilian EE-T1 Osório Main Battle Tank
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_vickers_mk7 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_vickers_mk7 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|NHRUSJ79Re4|'''The Shooting Range #175''' - ''Metal Beasts'' section at 00:38 discusses the Vickers Mk.7.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 '''Related development'''
 
-- [[Leopard 2A4]]
+* [[Leopard 2A4]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6438-development-vickers-mk-7-the-steel-centaur-en|[Devblog] Vickers Mk.7: The Steel Centaur]]
+* [[wt:en/news/6438-development-vickers-mk-7-the-steel-centaur-en|[Devblog] Vickers Mk.7: The Steel Centaur]]
 
 {{Manufacturer Vickers-Armstrongs}}
 {{Britain medium tanks}}

@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese jet fighter {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 While the F-86F-40's acceleration and top speed are lacking compared to its contemporaries, the F-86F-40's slats allow the plane to have an outstanding manoeuvrability. That said, one must be aware of their speed as pulling high manoeuvres at high and max speed can put the plane under great stress which leads to the wings falling apart. The outstanding manoeuvrability comes at the cost of speed. Pulling hard turns will bleed your air speed.
@@ -47,7 +44,7 @@ While the F-86F-40's acceleration and top speed are lacking compared to its cont
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -113,13 +110,12 @@ While the F-86F-40's acceleration and top speed are lacking compared to its cont
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 6.35 mm - Fore-cockpit steel plates
-- 38 mm - Bulletproof windscreen
-- 12.7 mm - Steel plate behind pilot's seat
-- 20 mm - Steel plate in pilot's headrest
+* 6.35 mm - Fore-cockpit steel plates
+* 38 mm - Bulletproof windscreen
+* 12.7 mm - Steel plate behind pilot's seat
+* 20 mm - Steel plate in pilot's headrest
 
 The plane is equipped at the front with 2 steel plates, each 6.35 mm thick. The cockpit has a 38 mm bullet proof glass that protects the pilot's torso and head. The backseat is made of 12.7 mm of steel which protects the pilot's back while his head is further protected by another 20 mm steel plate. This protection will help against smaller calibre rounds, however, cannot sustain many direct hits with 20 mm rounds or higher.
 
@@ -130,35 +126,30 @@ The plane is equipped at the front with 2 steel plates, each 6.35 mm thick. The 
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M3 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 6 x 12.7 mm M3 Browning machine guns, nose-mounted (300 rpg = 1,800 total)
+* 6 x 12.7 mm M3 Browning machine guns, nose-mounted (300 rpg = 1,800 total)
 
 The F-86F-40 (China) offered the same offensive armament of many of its Sabre brethren, namely the 6 x M3 Browning 12.7 mm/.50 calibre machine guns. These machine guns are similar in performance to their predecessor, the M2 Browning; however, they excelled with a significantly higher rate of fire. The total ammunition count for this aircraft is 1,800 rounds, divided up with 300 rounds per gun. Ammunition belts for this aircraft are conventional 12.7 mm belts found on US aircraft, and typically the tracer belts permit for the quickest correction of aim. Other belts may be utilised as necessary and depending on playstyle such as the Stealth belts; however, these should be used by skilled pilots who already understand the firing aspects of the M3 Brownings and bullet performance. One challenge with the Stealth belts is the lack of tracers, making it much harder to correct aim when solely relying on visual clues.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AN-M65A1 Fin M129 (1,000 lb)|AIM-9B Sidewinder|HVAR}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 16 x HVAR rockets
-- 2 x 1,000 lb AN-M65A1 Fin M129 bombs (2,000 lb total)
-- 2 x AIM-9B Sidewinder missiles
+* Without load
+* 16 x HVAR rockets
+* 2 x 1,000 lb AN-M65A1 Fin M129 bombs (2,000 lb total)
+* 2 x AIM-9B Sidewinder missiles
 
 The unguided rockets out-fitted on this aircraft are the familiar American HVARs, which can be used against slow-moving bombers or ground target vehicles and anti-aircraft guns. Since the HVARs are a fire-and-forget rocket, they work best against either stationary targets or against slow-moving targets which may not be able to avoid inbound rockets. Another option for suspended ordnances includes bombs, namely the 1,000 lbs AN-M65A1 bombs. Two of these bombs is all that this aircraft can safely carry, but these bombs will do considerable damage against ground units, ships and bases. While performing bombing runs, always be on the lookout for enemy fighters attempting to swoop in and eliminate the F-86F-40 which may be flying slower and lower than typical. For air-to-air combat, using the Aim-9B missiles to complement the M3 Browning machine guns makes for a deadly combination. These missiles are best used in close quarters, anywhere from 600 - 800 m which minimizes the opportunity for the enemy pilot to evade or out-fly the missiles. It is quite possible for the enemy to avoid the in-bound missile; however, this provides the attacking aircraft with the opportunity to manoeuvre in and take out the fighter with its machine guns. Hopefully, the enemy fighter has bled any energy advantage it may have had presenting itself as an ideal target for the machine guns.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 Try to climb up before engaging the enemy to ensure you have enough energy to get out of a sticky situation. Hopefully, there will be a jets fighting underneath you where you would be able to pounce on low-energy fighters with your guns or the AIM-9B. One advantage the F-86 has over the jets of other nations is the large ammo count of its 6 x .50 cals (1,800) although it would be wise to hit most of your shoots. Try staying above 500 km/h as any slower and you would lose a significant amount of energy in a prolonged turn.
@@ -176,9 +167,7 @@ In air simulator battles, the F-86F-40 (China) is an excellent turn fighter. Whi
 In ground simulator battles, F-86F-40 can be a multirole fighter depending on the task to complete. In ground attack, the HVAR rockets will struggle with most targets at the top simulator bracket, but do offer better accuracy per 100 m when compared to the Bombs. The 1,000 lb bombs are very reliable against all levels of protection but take a higher approach for a accurate drop (lack of bomb sight). In an air superiority role, the Sabre will preform even better than it did in air simulator battles. The 6 x .50 cal MGs will make quick work of any enemy helicopter, even if they try to manoeuvre, the Sabre's roll rate should allow for last second adjustments. Turnfighting enemy fighter also got easier as the chances of them carrying bombs/rockets are up, thus limiting their performance. Tree-top level flying should be practiced to avoid SAMs. -->
 
 === Radars ===
-
 <!--{{main|AN/APG-30}}-->
-
 The F-86F-40 is equipped with an AN/APG-30 rangefinding radar, located in the nose of the aircraft.
 It will automatically detect other planes within the scanning area and display the range to the closest target. It is linked with a gyro gunsight and can help with aiming at close range. Note that this Radar will trigger RWR of enemy helicopters and jets and may lead to them using flares which will defeat the AIM-9B.
 
@@ -195,33 +184,30 @@ It will automatically detect other planes within the scanning area and display t
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Outstanding manoeuvrability
-- Can wield air-to-air missiles
-- Good guns: the 12.7 mm MGs have lots of ammo, straight bullet trajectory, and adequate velocity
-- Air-to-ground armament, such as bombs and missiles
-- Excellent roll rate
-- Great dive acceleration makes it a nice diver
-- Good energy retention in a climb
-- Stable shooting platform during high speeds
-- Air brakes and flaps allow for tight manoeuvres and enemy overshoots at the cost of reduced speed
+* Outstanding manoeuvrability
+* Can wield air-to-air missiles
+* Good guns: the 12.7 mm MGs have lots of ammo, straight bullet trajectory, and adequate velocity
+* Air-to-ground armament, such as bombs and missiles
+* Excellent roll rate
+* Great dive acceleration makes it a nice diver
+* Good energy retention in a climb
+* Stable shooting platform during high speeds
+* Air brakes and flaps allow for tight manoeuvres and enemy overshoots at the cost of reduced speed
 
 '''Cons:'''
 
-- Mediocre acceleration
-- Mediocre top speed
-- Weak one-second burst mass of the armament
-- High speed manoeuvres can lead to wings breaking apart
-- Slower turn rate than many contemporaries
+* Mediocre acceleration
+* Mediocre top speed
+* Weak one-second burst mass of the armament
+* High speed manoeuvres can lead to wings breaking apart
+* Slower turn rate than many contemporaries
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 In the 1950s, after the Korean War was over, the US government decided to send more modern military equipment to Taiwan to counter the increasing threat of the mainland Chinese Army, especially the PLAAF's MiG-15 Fagot fighter which was supplied by Soviet Union and saw action during the Korean War.
 
 At this time, the straight-wing design version of the F-84 Thunderjet fighters of the ROCAF could no longer effectively counter the MiG-15 fighter with the swept-wing design. As for the solution, the US government had officially decided to supply more than 500 F-86 Sabre fighters to Taiwan in early 1950s (some sources claim that this number is just an estimate, not the actual number of Sabre fighter fleet because many of them were delivered in the mid to late 1950s, and some sources also confirm that Taiwan received 415 F-86F fighters, 18 F-86D interceptors and 7 RF-86F reconnaissance aircraft in total). This Military Assistance Program (MAP) was named 4F343, and started in 1954, about 320 F-86F Sabre fighters and 7 RF-86 Sabre reconnaissance aircraft were delivered to ROCAF. Apart from that, ROCAF also received about 18 F-86D-36 Sabre Dog interceptors from US Air Force in 1960 too.
@@ -261,44 +247,38 @@ From the point of view of the PLAAF: At 8:47 am, twelve J-5/MiG-17s from the 46t
 The F-86F Sabre remained in ROCAF service until 1977, and was retired when its flight performance and endurance was considered outdated and unsuitable for active service. It was replaced by the more advanced F-100A Super Sabre and F-5A Freedom Fighter.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=f-86f-40_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f-86f-40_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
-- Canadair [[F-86 (Family)|Sabre]] (those Sabres manufactured with the designator "CL")
-- North American [[F-86K (France)|F-86D]] Sabre
-- North American [[F-100D|F-100]] Super Sabre
-- North American [[FJ-4B|FJ-4]] Fury
+* Canadair [[F-86 (Family)|Sabre]] (those Sabres manufactured with the designator "CL")
+* North American [[F-86K (France)|F-86D]] Sabre
+* North American [[F-100D|F-100]] Super Sabre
+* North American [[FJ-4B|FJ-4]] Fury
 
 ;Aircraft of comparable role, configuration and era
-
-- Grumman [[F9F-8|F9F]] Cougar
-- Lavochkin [[La-15]]
-- Mikoyan-Gurevich [[MiG-15]]
-- Mikoyan-Gurevich [[MiG-17]]
-- Hawker [[Hunter F.1|Hunter]]
-- Dassault [[Super Mystere B2|Super Mystère]]
-- Saab [[J29D|J29]] Tunnan
+* Grumman [[F9F-8|F9F]] Cougar
+* Lavochkin [[La-15]]
+* Mikoyan-Gurevich [[MiG-15]]
+* Mikoyan-Gurevich [[MiG-17]]
+* Hawker [[Hunter F.1|Hunter]]
+* Dassault [[Super Mystere B2|Super Mystère]]
+* Saab [[J29D|J29]] Tunnan
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/392644-north-american-f-86f-40-sabre/ Official data sheet - more details about the performance]
-- [http://www.joebaugher.com/usaf_fighters/p86_13.html <nowiki>[joebaugher.com]</nowiki> North American F-86F-40-NA]
+* [https://forum.warthunder.com/index.php?/topic/392644-north-american-f-86f-40-sabre/ Official data sheet - more details about the performance]
+* [http://www.joebaugher.com/usaf_fighters/p86_13.html <nowiki>[joebaugher.com]</nowiki> North American F-86F-40-NA]
 
 {{AirManufacturer NAA}}
 {{China jet aircraft}}

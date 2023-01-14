@@ -5,14 +5,12 @@
 }}
 {{Specs-Card
 |code=mig_23ml
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage\_{{PAGENAME}}\_003.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage_{{PAGENAME}}_003.jpg}}
 |store=11807
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet jet fighter {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
 
 The MiG-23ML is an upgraded variant of the MiG-23 which was introduced to correct the drawbacks of its earlier variants. The L stands for "lyogiky", (lightweight). As the name suggests, this variant of the aircraft introduced a redesigned airframe with less drag and weight, the strengthening of the wing folding mechanisms to permit a higher G-limit, among other assorted upgrades.
@@ -22,10 +20,8 @@ In War Thunder, the MiG-23ML is functionally identical to the [[MiG-23MLA (Germa
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
-The MiG-23ML has superior flight performance with its powerful engine and variable-geometry wing design which allows for faster turning on demand. With over 10,000 kgf of thrust, its thrust-to-weight ratio rivals that of even the F-104S. While the plane lacks the leading-edge slats of the MiG-23MLD, this gives it an energy retention advantage in sustained dogfights.
+The MiG-23ML has superior flight performance with its powerful engine and variable-geometry wing design which allows for faster turning on demand. With over 10,000 kgf of thrust, its thrust-to-weight ratio rivals that of even the F-104S. While the plane lacks the leading-edge slats of the MiG-23MLD, this gives it an energy retention advantage in sustained dogfights. 
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -52,7 +48,7 @@ The MiG-23ML has superior flight performance with its powerful engine and variab
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || ✓ || X || ✓ <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -67,7 +63,7 @@ The MiG-23ML has superior flight performance with its powerful engine and variab
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || **_ || _** || **\_ || ~** || ~\_\_
+| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || ___ || ___ || ___ || ~__ || ~__
 |-
 |}
 
@@ -77,7 +73,7 @@ The MiG-23ML has superior flight performance with its powerful engine and variab
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < **_ || < _** || < \_\_\_ || N/A
+| < ___ || < ___ || < ___ || N/A
 |-
 |}
 
@@ -91,36 +87,34 @@ The MiG-23ML has superior flight performance with its powerful engine and variab
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
 |-
 | colspan="2" | Tumansky R-35-300 || 1
-| colspan="2" | **,\_** kg || colspan="2" | **\_ kg/m<sup>2</sup>
+| colspan="2" | __,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
-! \_m fuel || **m fuel || **m fuel
+! _m fuel || __m fuel || __m fuel
 |-
 | 1,760 kg || colspan="2" | Afterburning axial-flow turbojet
-| _,_** kg || \_,**_ kg || _,\_** kg || \_,**_ kg
+| _,___ kg || _,___ kg || _,___ kg || _,___ kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
-! colspan="4" | Thrust to weight ratio @ 0 m (_**%/WEP)
+! colspan="4" | Thrust to weight ratio @ 0 m (___%/WEP)
 |-
-! Condition || 100% || **\_%/WEP
-! \_m fuel || **m fuel || **m fuel || MGW
+! Condition || 100% || ___%/WEP
+! _m fuel || __m fuel || __m fuel || MGW
 |-
-| ''Stationary'' || \_** kgf || **_ kgf
-| _.** || _.\_\_ || _.** || \_.**
+| ''Stationary'' || ___ kgf || ___ kgf
+| _.__ || _.__ || _.__ || _.__
 |-
-| ''Optimal'' || **_ kgf<br>(_ km/h) || \_** kgf<br>(_ km/h)
-| _.** || \_.** || _.\_\_ || _.\_\_
+| ''Optimal'' || ___ kgf<br>(_ km/h) || ___ kgf<br>(_ km/h)
+| _.__ || _.__ || _.__ || _.__
 |-
 |}
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 The MiG-23ML has no armour protection. It is a somewhat large plane, so it can survive low caliber bullets as well as a few higher caliber ones if lucky. The plane is equipped with 72 large-caliber countermeasures; with optimal flaring tactics, one can survive several missiles launched at them. As you have only one engine, your performance will be severely impaired if it is damaged. You will be out of the fight if the engine is destroyed. Fuel tanks are located on the wings, in the centre of the plane, and above the engine. All fuel tanks are self-sealing. While the engine is equipped with a fire suppression system, using it will disable the engine. Only use it if you have enough speed and distance to return to your airfield.
 
 === Modifications and economy ===
@@ -131,122 +125,106 @@ As a premium vehicle, the MiG-23ML comes with all modifications unlocked. All pr
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|GSh-23L (23 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 1 x 23 mm GSh-23L cannon, belly-mounted (200 rpg)
-  ** 1 x 23 mm GSh-23L cannon + 72 x large calibre countermeasures
+* A choice between two presets:
+** 1 x 23 mm GSh-23L cannon, belly-mounted (200 rpg)
+** 1 x 23 mm GSh-23L cannon + 72 x large calibre countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.' -->
-
 The MiG-23ML has a vast arsenal of suspended weaponry to choose from, including:
 
 '''Short-range missiles (up to 6):'''
 
-- R-13M1 (IR, 20G overload)
-- R-60M (IR, 30G overload)
+* R-13M1 (IR, 20G overload)
+* R-60M (IR, 30G overload)
 
 '''Medium-range missiles (up to 2)''':
 
-- R-23R (Radar-guided, 20G overload)
-- R-23T (IR, 20G overload)
-- R-24R (Radar-guided, 24G overload)
-- R-24T (IR, 24G overload)
+* R-23R (Radar-guided, 20G overload)
+* R-23T (IR, 20G overload)
+* R-24R (Radar-guided, 24G overload) 
+* R-24T (IR, 24G overload)
 
 The R-23T and R-24T may be used in conjunction with the IRST mode of the plane's radar. This is similar in function to a radar lock, but ignores chaff, may be countered by flares, and does not alert enemy radar warning receivers (RWR) that the plane is locked.
 
 '''Gunpods:'''
 
-- 2x 23 mm dual-barrel GSh-23L cannon gunpods (250 rpg)
+* 2x 23 mm dual-barrel GSh-23L cannon gunpods (250 rpg) 
 
 '''Bombs:'''
 
-- Up to 16 x OFAB-100 bombs (114 kg each)
-- Up to 4 x FAB-250M-62 bombs (227 kg each)
-- Up to 2 x FAB-500M-62 bombs (508 kg each)
+* Up to 16 x OFAB-100 bombs (114 kg each)
+* Up to 4 x FAB-250M-62 bombs (227 kg each)
+* Up to 2 x FAB-500M-62 bombs (508 kg each)
 
 '''Incendiary bombs:'''
 
-- Up to 2 x ZB-500 (374 kg each, 250 kg of CKC incendiary compound)
+* Up to 2 x ZB-500 (374 kg each, 250 kg of CKC incendiary compound)
 
 '''Unguided rockets:'''
 
-- Up to 64 x S-5K rockets (HEAT, 150 mm penetration)
-- Up to 40 x S-8KO rockets (HEAT, 420 mm penetration)
-- Up to 4 x S-24B rockets (235 kg rockets with a 25.5 kg HE warhead)
+* Up to 64 x S-5K rockets (HEAT, 150 mm penetration)
+* Up to 40 x S-8KO rockets (HEAT, 420 mm penetration)
+* Up to 4 x S-24B rockets (235 kg rockets with a 25.5 kg HE warhead)
 
 '''Guided rockets:'''
 
-- Up to 2 x Kh-23M rockets (Manual guidance, 10 km range, 289 kg rockets with a 96 kg HE warhead)
+* Up to 2 x Kh-23M rockets (Manual guidance, 10 km range, 289 kg rockets with a 96 kg HE warhead)
 
 Taking any amount of Kh-23M rockets requires mounting of the "Targeting Delta-NG" pod on one of the slots.
 
 Custom weapon loadouts are available for the MiG-23ML.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The MiG-23ML is very versatile and has usefulness in nearly every combat situation. In air battles, the MiG-23ML can carry six short-range air-to-air missiles, or four of them with two medium-range air-to-air missiles. The best air-to-air missiles for the plane are the R-60 and R-24. While the R-13 and R-23 can be useful, they are inferior to their counterparts in every way. One interesting trait of the MiG-23ML is that the IRST used with the R-23T or R-24T can wipe out unsuspecting enemies, especially towards the beginning of the match. The R-60s, while excellent at turning, have a shorter range than similar short-range missiles. The plane has very good energy retention and has some of the best flight performance out of any plane at its BR.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 '''Pros:'''
 
-- Excellent variety of armaments to choose from
-- Excellent flight performance and versatility
-- Adequate dogfighting ability with variable-geometry wings
-- A useful radar and an IRST mode
-- Large-calibre countermeasures
+* Excellent variety of armaments to choose from
+* Excellent flight performance and versatility
+* Adequate dogfighting ability with variable-geometry wings
+* A useful radar and an IRST mode
+* Large-calibre countermeasures
 
 '''Cons:'''
 
-- Limited internal cannon ammunition (~3.5 seconds of firing time before depletion)
-- Large engine limits survivability from successful hits
+* Limited internal cannon ammunition (~3.5 seconds of firing time before depletion)
+* Large engine limits survivability from successful hits 
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-
 ''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{USSR jet aircraft}}
 {{USSR premium aircraft}}

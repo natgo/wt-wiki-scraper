@@ -9,17 +9,13 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British strike aircraft {{Battle-rating}}. It was introduced in [[Update "New Power"]]. Like all members of the [[Harrier (Family)|Harrier family]], the Harrier GR.1 is a [[VTOL]] aircraft with thrust vectoring nozzles, which allow it to take off and land vertically.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The Harrier GR.1 has an impressive climb rate, though it is put down by Soviet jets that it may face, like the [[MiG-19PT]], [[Su-7B]], and [[Su-7BKL]]. The Harrier's climb rate also suffers the more armament it carries; even just 4 [[SRAAM]]s drops the climb rate from 80 m/s to 68.2 m/s. Equipping 4 x 1,000 lb bombs cuts the climb rate by more than half. Because the Pegasus engine loses thrust at higher altitudes, the climb rate decreases with it.
 
 The Pegasus engine has amazing low-altitude acceleration, but continues to suffer more at higher altitudes. In the early game, the [[Harrier (Family)]] planes will usually be seen pulling ahead of planes with afterburner (From the airfield, air spawns start the planes with a higher top speed at a higher start speed), but the subsonic status makes the planes with a higher speed catch up after a bit.
@@ -53,7 +49,7 @@ The turn rate of the GR.1 is mediocre compared to other planes it may face, espe
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -120,7 +116,6 @@ The turn rate of the GR.1 is mediocre compared to other planes it may face, espe
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
 The Harrier GR.1 has no armour. The engine and all fuel tanks are packed in a tight cluster in the centre of the fuselage. However, a Harrier with critical damage, even losing both wings, can often still make it back to the airfield. This has to be done at VTOL speeds, meaning under 300 km/h, making you a big target.
@@ -141,31 +136,27 @@ The Harrier GR.1 has no armour. The engine and all fuel tanks are packed in a ti
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|ADEN Mk.4 (30 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 30 mm ADEN Mk.4 cannons, belly-mounted (130 rpg = 260 total)
+* 2 x 30 mm ADEN Mk.4 cannons, belly-mounted (130 rpg = 260 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|H.E. M.C. Mk.II (500 lb)|H.E. M.C. Mk.13 (1,000 lb)|SRAAM|SNEB type 23}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 4 x SRAAM missiles
-- 108 x SNEB type 23 rockets
-- 5 x 500 lb H.E. M.C. Mk.II bombs (2,500 lb total)
-- 4 x 500 lb H.E. M.C. Mk.II bombs (2,000 lb total)
-- 3 x 1,000 lb H.E. M.C. Mk.13 bombs (3,000 lb total)
-- 4 x 1,000 lb H.E. M.C. Mk.13 bombs (4,000 lb total)
+* Without load
+* 4 x SRAAM missiles
+* 108 x SNEB type 23 rockets
+* 5 x 500 lb H.E. M.C. Mk.II bombs (2,500 lb total)
+* 4 x 500 lb H.E. M.C. Mk.II bombs (2,000 lb total)
+* 3 x 1,000 lb H.E. M.C. Mk.13 bombs (3,000 lb total)
+* 4 x 1,000 lb H.E. M.C. Mk.13 bombs (4,000 lb total)
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -188,7 +179,6 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 Despite having a weaker engine than other members of the [[Harrier (Family)|Harrier family]], the Harrier GR.1 still possesses exceptional acceleration and rate of climb. Coupled with a decent selection of load-outs (including the extremely powerful [[SRAAM]] missiles), and VTOL capability; this makes the Harrier GR.1 a very potent aircraft for both air-to-air combat and ground attack.
@@ -208,32 +198,28 @@ Where the Harrier's VTOL capability makes the aircraft unique is in the ability 
 In Ground RB, usually planes have to fly back to their airfield to rearm/repair. In the Harrier, the VTOL capability can be used to land on helicopter pads which are closer to the battlefield, saving precious time, but with the downside of exposing the aircraft to hostile CAS and helicopters.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 '''Pros:'''
 
-- Exceptional thrust to weight ratio; high altitude climb is achieved with ease
-- Extremely good acceleration
-- Thrust vectoring VTOL aircraft: in Ground RB, it can rearm on helicopter pads and nozzles can be deflected in-flight for improved manoeuvring
-- Four powerful [[SRAAM]] missiles; four confirmed frags if used correctly.
-- Has a Ballistic Computer for all types of armament available
-- Has a [[HUD#410SUM1|Head-Up Display]] in the cockpit which provides flight information and weapon aiming functionality
-- Able to spawn from aircraft carriers and land/take off from anywhere.
+* Exceptional thrust to weight ratio; high altitude climb is achieved with ease
+* Extremely good acceleration
+* Thrust vectoring VTOL aircraft: in Ground RB, it can rearm on helicopter pads and nozzles can be deflected in-flight for improved manoeuvring
+* Four powerful [[SRAAM]] missiles; four confirmed frags if used correctly.
+* Has a Ballistic Computer for all types of armament available
+* Has a [[HUD#410SUM1|Head-Up Display]] in the cockpit which provides flight information and weapon aiming functionality
+* Able to spawn from aircraft carriers and land/take off from anywhere.
 
 '''Cons:'''
 
-- Limited WEP duration of ~90 seconds because of rapid engine overheating
-- Although deflecting nozzles in flight can help with manoeuvrability, doing so bleeds a lot of speed
-- Weaker engine than other later [[Harrier (Family)|Harriers]]; engine performance declines as the altitude increases
-- Countering the [[SRAAM]] is possible with flares and by outrunning their ~1.5 km effective range.
-- Has no radar nor RWR; the player won't easily notice incoming planes and missiles
-- No countermeasures; evading IR and SARH missiles requires skills and anticipation
+* Limited WEP duration of ~90 seconds because of rapid engine overheating
+* Although deflecting nozzles in flight can help with manoeuvrability, doing so bleeds a lot of speed
+* Weaker engine than other later [[Harrier (Family)|Harriers]]; engine performance declines as the altitude increases
+* Countering the [[SRAAM]] is possible with flares and by outrunning their ~1.5 km effective range.
+* Has no radar nor RWR; the player won't easily notice incoming planes and missiles
+* No countermeasures; evading IR and SARH missiles requires skills and anticipation
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The Harrier GR.1 was the first operational version of the Harrier Jump Jet, an iconic family of vertical / short takeoff & landing (V/STOL) fighters developed by the UK in the 1960s. Developed from the P.1127, a prototype aircraft demonstrating vertical takeoff & landing capabilities, the Harrier was the first V/STOL aircraft to enter service in the world. The GR.1 was the initial production version of the Harrier, totalling sixty aircraft: the aircraft was highly successful, and heavily-modified variants of the Harrier remain in service today.
 
 === Initial development ===
@@ -269,12 +255,11 @@ The Harrier was initially deployed with British forces in West Germany in the ea
 Apart from British and American service, variants of the Harrier were also operated by Spain, Thailand and India. In total, around 270 Harriers were produced across all variants with the last being decommissioned from active service in the early 2000's. The original Harrier was subsequently succeeded by a further developed variant - the Harrier II - but more importantly, it had successfully proven the viability of V/STOL aircraft, thus generating a sustained interest in such designs which can still be seen today.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=harrier_gr1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=harrier_gr1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="200">
@@ -294,22 +279,21 @@ File:Harriers XV755 & XZ145.png|2 Harrier GR.1s of No.1 Sqn RAF (marketplace cam
 {{Youtube-gallery|-Z0ihOEb1tw|'''The Shooting Range #230''' - ''Metal Beasts'' section at 00:28 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-_[[Yak-38]]
-_[[Yak-38M]] \*[[Jaguar GR.1]]
+*[[Yak-38]]
+*[[Yak-38M]]
+*[[Jaguar GR.1]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6918-development-jump-jets-arrive-in-war-thunder-meet-the-harrier-en|[Devblog] Jump Jets arrive in War Thunder: Meet the Harrier]]
-- [https://forum.warthunder.com/index.php?/topic/504155-harrier-gr1/ Official data sheet - more details about the performance]
+* [[wt:en/news/6918-development-jump-jets-arrive-in-war-thunder-meet-the-harrier-en|[Devblog] Jump Jets arrive in War Thunder: Meet the Harrier]]
+* [https://forum.warthunder.com/index.php?/topic/504155-harrier-gr1/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Hawker}}
 {{Britain jet aircraft}}

@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet bomber {{Battle-rating}}. It was introduced before Update 1.17 and was obtained for free by players participating in the Closed Beta for Airplanes (2013 or before). The Tu-2 is currently unobtainable.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -45,7 +42,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet bomber {{Battle-ra
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || ✓ || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X     <!-- ✓ -->
 |-
 |}
 
@@ -85,45 +82,38 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet bomber {{Battle-ra
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|ShVAK (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 20 mm ShVAK cannons, wing-mounted (150 rpg = 300 total)
+* 2 x 20 mm ShVAK cannons, wing-mounted (150 rpg = 300 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|FAB-100sv (100 kg)|FAB-250sv (250 kg)|FAB-500sv (500 kg)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 9 x 100 kg FAB-100sv bombs (900 kg total)
-- 2 x 250 kg FAB-250sv bombs (500 kg total)
-- 2 x 500 kg FAB-500sv bombs (1,000 kg total)
-- 2 x 500 kg FAB-500sv bombs + 2 x 250 kg FAB-250sv bombs (1,500 kg total)
-- 4 x 500 kg FAB-500sv bombs (2,000 kg total)
+* 9 x 100 kg FAB-100sv bombs (900 kg total)
+* 2 x 250 kg FAB-250sv bombs (500 kg total)
+* 2 x 500 kg FAB-500sv bombs (1,000 kg total)
+* 2 x 500 kg FAB-500sv bombs + 2 x 250 kg FAB-250sv bombs (1,500 kg total)
+* 4 x 500 kg FAB-500sv bombs (2,000 kg total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|Berezin UB (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 1 x 12.7 mm Berezin UB machine gun, front dorsal turret (190 rpg)
-- 1 x 12.7 mm Berezin UB machine gun, rear dorsal turret (250 rpg)
-- 1 x 12.7 mm Berezin UB machine gun, ventral turret (350 rpg)
+* 1 x 12.7 mm Berezin UB machine gun, front dorsal turret (190 rpg)
+* 1 x 12.7 mm Berezin UB machine gun, rear dorsal turret (250 rpg)
+* 1 x 12.7 mm Berezin UB machine gun, ventral turret (350 rpg)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 Once spawned (~3,500 m), locate what ground targets to engage. It is suggested to engage the targets farthest from the enemy's airfield in order to avoid detection. Attack pillboxes (light or heavy, it doesn't matter with 500 kg bombs) as these don't move. Only engage the AI tanks if there are no pillboxes, and if engaging the tanks, judge the speed of the tank column, and release the bombs, making sure to lead where the tanks will be as the bombs fall, not where they are in that moment.
@@ -132,7 +122,7 @@ When bombing anything, note that the center of the reticle should be aimed below
 
 '''Specific enemies worth noting'''
 
-- Player-controlled SPAA ([[Kugelblitz]], [[Crusader AA Mk II]], etc.) - These are the bane of bombers (especially medium-sized ones such as the Tu-2). When the tracers fly, don't risk a dive. Circle around or find some unsuspecting flanker that is outside the cover of these AAA guns.
+* Player-controlled SPAA ([[Kugelblitz]], [[Crusader AA Mk II]], etc.) - These are the bane of bombers (especially medium-sized ones such as the Tu-2). When the tracers fly, don't risk a dive. Circle around or find some unsuspecting flanker that is outside the cover of these AAA guns.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -152,39 +142,37 @@ When bombing anything, note that the center of the reticle should be aimed below
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Fast, for a medium bomber
-- High wing rip speed (over 700 km/h)
-- Air spawn in RB.
-- Very easy to land and take-off
-- Decent payload, 500 kg bombs are very useful in tank RB
-- Forward-firing ShVAK cannons, can be useful in a head-on engagement
-- Twin tail design leaves little restriction on back gunners
-- Decently agile for its size
-- Guaranteed to put out fires on fuel tanks due to pressurized gas system
-- Very efficient in taking out individual ground targets
-- Individual bomb drops, very effective in tank battles
-- Engines can cool down even with a 100% throttle
-- Can pretty much WEP indefinitely
-- Great all-round visibility for a bomber/attacker, even has a downward window in the nose, allowing you to scan target area
+* Fast, for a medium bomber
+* High wing rip speed (over 700 km/h)
+* Air spawn in RB.
+* Very easy to land and take-off
+* Decent payload, 500 kg bombs are very useful in tank RB
+* Forward-firing ShVAK cannons, can be useful in a head-on engagement
+* Twin tail design leaves little restriction on back gunners
+* Decently agile for its size
+* Guaranteed to put out fires on fuel tanks due to pressurized gas system
+* Very efficient in taking out individual ground targets
+* Individual bomb drops, very effective in tank battles
+* Engines can cool down even with a 100% throttle
+* Can pretty much WEP indefinitely
+* Great all-round visibility for a bomber/attacker, even has a downward window in the nose, allowing you to scan target area
 
 '''Cons:'''
 
-- Can extinguish fires but sometimes it will just burn out before the fuel tanks seal in time
-- Relatively small defensive armament
-- Only one pilot and is not protected by armour from the front
-- High stall speed (175 km/h, more of a pain when taking off/landing)
-- Although it is fast, everything else is faster
-- Performance starts to degrade with altitude
-- Low amount of cannon ammo (150 rounds per gun)
-- While gunsight is well above the cockpit, it is still obstructed by the sight itself, limiting downward visibility in a lead
+* Can extinguish fires but sometimes it will just burn out before the fuel tanks seal in time
+* Relatively small defensive armament
+* Only one pilot and is not protected by armour from the front
+* High stall speed (175 km/h, more of a pain when taking off/landing)
+* Although it is fast, everything else is faster
+* Performance starts to degrade with altitude
+* Low amount of cannon ammo (150 rounds per gun)
+* While gunsight is well above the cockpit, it is still obstructed by the sight itself, limiting downward visibility in a lead
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -208,27 +196,25 @@ After its combat debut, the Tu-2 received high accolades. It was praised for thi
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=tu-2_early Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=tu-2_early Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|gxIVvUZGptw|'''The Shooting Range #51''' - ''Pages of History'' section at 07:12 discusses the {{PAGENAME}}.|Ze0dEvB77fE|'''Best Combo #3''' discusses the {{PAGENAME}} at 2:00 - ''War Thunder Official Channel''}}
+{{Youtube-gallery|gxIVvUZGptw|'''The Shooting Range #51''' - ''Pages of History'' section at 07:12 discusses the {{PAGENAME}}.|Ze0dEvB77fE|'''Best Combo #3'''  discusses the {{PAGENAME}} at 2:00  - ''War Thunder Official Channel''}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer Tupolev}}
 {{USSR bombers}}

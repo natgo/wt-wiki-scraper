@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese bomber {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
 The Ki-49's role is a low-altitude light bomber capable of destroying ground targets such as pillboxes and tanks. Although hindered by a low total bomb capacity, this aircraft is renowned for its impressive manoeuvrability. This being said, it is very easy for the Ki-49 to hover above an area and drop all of its payloads rather quickly. Heavy bombers such as the G8N1 Renzan have a harder time due to their sheer size and slow rate of turn. Make sure to select the 4 x 250 kg bomb loadouts if attacking targets like tanks, pillboxes, or smaller ships.
@@ -19,9 +17,7 @@ The Ki-49's role is a low-altitude light bomber capable of destroying ground tar
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 [[File:Ki-49-IIb L firing defensive Type 89.png|thumb|Ki-49-IIb/L firing the [[Type 89 (7.7 mm)|Type 89]] defensive turret.]]
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -49,7 +45,7 @@ The Ki-49's role is a low-altitude light bomber capable of destroying ground tar
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -80,15 +76,14 @@ The Ki-49's role is a low-altitude light bomber capable of destroying ground tar
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 68 mm Bulletproof glass in front of pilots
-- 16.5 mm Steel plate behind the pilots
-- 12.5 mm Steel plate behind nose gunner
-- 12.5 mm Steel plate on the fuselage top
-- 12.5 mm Steel plate surrounded by a dorsal gunner
-- 12.5 mm Steel plate in front of the tail gunner
+* 68 mm Bulletproof glass in front of pilots
+* 16.5 mm Steel plate behind the pilots
+* 12.5 mm Steel plate behind nose gunner
+* 12.5 mm Steel plate on the fuselage top
+* 12.5 mm Steel plate surrounded by a dorsal gunner
+* 12.5 mm Steel plate in front of the tail gunner
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -99,41 +94,35 @@ Being a bomber, speed is not necessarily an important attribute, however, payloa
 {{Specs-Avia-Armaments}}
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 [[File:Ki-49-IIb L firing nose turret.png|thumb|Unlike the [[G4M1]] and [[Ki-21-Ia]], the Ki-49-IIb/L can fire its frontal turret at a slightly upwards angle and not just downards.]]
 {{main|Army Type 94 GPHE (50 kg)|Army Type 92 GPHE (250 kg)|Army Type 92 GPHE (500 kg)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 12 x 50 kg Army Type 94 GPHE bombs (600 kg total)
-- 4 x 250 kg Army Type 92 GPHE bombs (1,000 kg total)
-- 1 x 500 kg Army Type 92 GPHE bomb (500 kg total)
+* 12 x 50 kg Army Type 94 GPHE bombs (600 kg total)
+* 4 x 250 kg Army Type 92 GPHE bombs (1,000 kg total)
+* 1 x 500 kg Army Type 92 GPHE bomb (500 kg total)
 
 The Ki-49-IIb/L shares the same somewhat lacking bombload options as all other members the [[Ki-49 (Family)|Ki-49 family]] , able to carry a maximum bomb load of 1,000 kg (in the form of 4 x 250 kg bombs). By comparison many bombers around this battle rating can carry double that. The best loadout is generally the 4 x 250 kg bombs as it is by far the largest total load; the 12 x 50 kg bombs are not much use on account of their small size and thus limited damage. Although a reduction in total bomb load the single 500 kg bomb can be useful if you want to kill a ground target, due to it's larger blast radius.
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|Ho-1 (20 mm)|Ho-104 (12.7 mm)|Type 89 (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 1 x 20 mm Ho-1 cannon, dorsal turret (180 rpg)
-- 1 x 12.7 mm Ho-104 machine gun, nose turret (250 rpg)
-- 1 x 12.7 mm Ho-104 machine gun, ventral turret (250 rpg)
-- 1 x 12.7 mm Ho-104 machine gun, tail turret (250 rpg)
-- 1 x 7.7 mm Type 89 machine gun, 2 x beam turrets (414 rpg)
+* 1 x 20 mm Ho-1 cannon, dorsal turret (180 rpg)
+* 1 x 12.7 mm Ho-104 machine gun, nose turret (250 rpg)
+* 1 x 12.7 mm Ho-104 machine gun, ventral turret (250 rpg)
+* 1 x 12.7 mm Ho-104 machine gun, tail turret (250 rpg)
+* 1 x 7.7 mm Type 89 machine gun, 2 x beam turrets (414 rpg)
 
 The defensive armament of the Ki-49-IIb/L is identical to the preceding [[Ki-49-IIb]] , and similar to all other members of the [[Ki-49 (Family)|Ki-49 family]]. While the 20 mm cannon is certainly nice to have, its effectiveness is somewhat limited by being blocked from shooting directly rearwards by the aircraft's tail; it also cannot shoot downwards thanks to its location on the top of the aircraft. The rest of the defensive armament is un-remarkable consisting of single 12.7 and 7.7 mm machine guns.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 [[File:Ki-49-IIb L firing nose turret close-up.png|thumb|The front gunner will be an important asset in RB. Once you have expended the bomb payload, this gunner can take out soft ground targets.]]
 This aircraft has the ability to hold up to 1,000 kg of bombs in several different variations. 12 x 50 kg bombs, 4 x 250 kg bombs, 1 x 500 kg bomb. Use the 12 x 50 kg bombs to attack light tanks and light pillboxes. They are not viable against bigger targets since direct hits are needed to destroy. This payload is particularly useful on maps like Zhengzhou where there is an abundance on non-moving targets (light pillboxes). Use the 4 x 250 kg bomb versions to destroy heavier targets such as medium tanks, pillboxes, destroyers, and cargo ships. Use the 500 kg bomb to destroy targets like carriers or mini-bases.
 
@@ -165,30 +154,26 @@ In realistic battles, your gunners might deter the stray fighter, but won't dete
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 [[File:Ki-49-IIb L tail turret.png|thumb|The back gunner on the Ki-49-IIb/L is well protected, addressing issues with the [[G4M1]] and [[Ki-21-Ia]].]]
 
 '''Pros:'''
 
-- Very good manoeuvrability and turn time for a bomber
-- Variety of payload options
-- Multiple gunners for protection in almost all directions
-- Some armour protection around pilots and gunners
+* Very good manoeuvrability and turn time for a bomber
+* Variety of payload options
+* Multiple gunners for protection in almost all directions
+* Some armour protection around pilots and gunners
 
 '''Cons:'''
 
-- Prone to engine and fuel fires
-- Relatively slow
-- Low total bomb capacity (1,000 kg)
-- Generally poor defensive armament
-- Low rate of climb
+* Prone to engine and fuel fires
+* Relatively slow
+* Low total bomb capacity (1,000 kg)
+* Generally poor defensive armament
+* Low rate of climb
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 [[File:Ki-49-IIb L gunner compartment.png|thumb|Ki-49-IIb/L's gunner compartment, which houses the [[Type 89 (7.7 mm)|Type 89]] gunners as well as the lower [[Ho-103 (12.7 mm)|Ho-103]] gunner.]]
 
 ;Nakajima Ki-49-II Donryu Army Bomber, type 100 model 2 (code name "''Helen''")
@@ -199,11 +184,11 @@ Quickly it was determined that the defensive machine guns were proven to be inef
 
 The first unit to receive Donryus was the 61st Sentai in China. An unknown amount of Ki-49s was involved in the Battle of Okinawa in 1945.
 
-- 95th Sentai, Papua New Guinea 1943
-- 61st Sentai, French Indochina 1944
-- 7th Sentai, 2nd Chutai 1944-45
-- 24th Sentai, 2nd Chutai Philippines 1944-45
-- 62nd Sentai 3rd Chutai Burma 1944
+* 95th Sentai, Papua New Guinea 1943
+* 61st Sentai, French Indochina 1944
+* 7th Sentai, 2nd Chutai 1944-45
+* 24th Sentai, 2nd Chutai Philippines 1944-45
+* 62nd Sentai 3rd Chutai Burma 1944
 
 {{break}}
 {{Navigation-Start|{{Annotation|Archive of the in-game description|An archive of the historical description of the vehicle that was presented in-game prior to Update 1.55 'Royal Armour'}}}}
@@ -226,12 +211,10 @@ Production of the Ki-49 ceased in December of 1944. In all, 819 Ki-49s were cons
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ki-49_2b_late Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ki-49_2b_late Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover" heights="200">
@@ -239,25 +222,23 @@ File:Ki-49-IIb L in flight.png|<small>Ki-49-IIb/L in flight</small>
 </gallery>
 
 == See also ==
-
 <!-- Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:
 
 reference to the series of the aircraft;
 links to approximate analogues of other nations and research trees. -->
 
-- [[Ki-49-I]]
-- [[Ki-49-IIa]]
-- [[Ki-49-IIb]]
+* [[Ki-49-I]]
+* [[Ki-49-IIa]]
+* [[Ki-49-IIb]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [http://www.militaryfactory.com/aircraft/detail.asp?aircraft_id=559 [Military Factory<nowiki>]</nowiki> Nakajima Ki-49 Donryu (Helen)]
-- [http://www.pilotfriend.com/photo_albums/timeline/ww2/Nakajima%20Ki%2049%20Helen.htm [Pilot Friend<nowiki>]</nowiki> Nakajima Ki 49 Helen]
-- [http://wp.scn.ru/en/ww2/b/1033/65 [Wings Palette<nowiki>]</nowiki> Nakajima Ki-49 Donryu/Helen]
+* [http://www.militaryfactory.com/aircraft/detail.asp?aircraft_id=559 [Military Factory<nowiki>]</nowiki> Nakajima Ki-49 Donryu (Helen)]
+* [http://www.pilotfriend.com/photo_albums/timeline/ww2/Nakajima%20Ki%2049%20Helen.htm [Pilot Friend<nowiki>]</nowiki> Nakajima Ki 49 Helen]
+* [http://wp.scn.ru/en/ww2/b/1033/65 [Wings Palette<nowiki>]</nowiki> Nakajima Ki-49 Donryu/Helen]
 
 {{AirManufacturer Nakajima}}
 {{Japan bombers}}

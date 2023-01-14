@@ -8,20 +8,17 @@
 }}
 {{Specs-Card
 |code=f4u-1a_japan
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |cockpit=cockpit_f4u-1a_japan.jpg
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Japanese fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -49,7 +46,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Japanese fighter {{Bat
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -80,14 +77,13 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Japanese fighter {{Bat
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 3 mm steel covering central fuel tank
-- 8 mm steel behind pilot
-- 12.7 mm steel behind pilot's head
-- 38 mm bulletproof glass
-- Self-sealing fuel tanks (1 in each wing, 1 in front of pilot)
+* 3 mm steel covering central fuel tank
+* 8 mm steel behind pilot
+* 12.7 mm steel behind pilot's head
+* 38 mm bulletproof glass
+* Self-sealing fuel tanks (1 in each wing, 1 in front of pilot)
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -96,17 +92,14 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Japanese fighter {{Bat
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 6 x 12.7 mm M2 Browning machine guns, wing-mounted (400 rpg inner + centre + 375 rpg outer = 2,350 total)
+* 6 x 12.7 mm M2 Browning machine guns, wing-mounted (400 rpg inner + centre + 375 rpg outer = 2,350 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 Players should side climb in this plane and once at altitude, begin to dive down on enemies below. Due to the weight and aerodynamics of this aircraft, it is a fantastic Boom & Zoomer for the battle rating. With enough energy, no other comparable aircraft can catch it in a dive. When you have speed at your disposal, you can easily energy fight against higher-rank aircraft. Be aware that over speeds of approximately 550km/h the rudder is almost useless and if the target evades you it will be almost impossible to hit them. Using the aircraft's great flaps and energy retention allow the fighter to hang in the vertical much longer than other planes; it's here you can corner enemies into an energy trap. However, those who wish to take on the {{Specs|name}} in combat must make sure they go into the engagement with a significant energy advantage over your opponent or you may find yourself on the receiving end of a lead shower.
@@ -129,22 +122,20 @@ Players should side climb in this plane and once at altitude, begin to dive down
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Heavy armament of 6 x 12.7 mm machine guns
-- Fantastic energy retention
-- Extremely fast dive speed
+* Heavy armament of 6 x 12.7 mm machine guns
+* Fantastic energy retention
+* Extremely fast dive speed
 
 '''Cons:'''
 
-- Poor manoeuvrability for a fighter (heavy aircraft)
-- No payload options
+* Poor manoeuvrability for a fighter (heavy aircraft)
+* No payload options
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -170,26 +161,23 @@ The Japanese successfully repaired one machine, using the second F4U as a source
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=f4u-1a_japan Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f4u-1a_japan Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/325083-f4u-1ausmccd/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/325083-f4u-1ausmccd/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Vought}}
 {{Japan fighters}}

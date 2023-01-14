@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} French light tank {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]]. The AMX-13's chassis is the mainstay of France's light tank technology for the post-war period and this one is its most iconic iteration as it is mounted with the FL10 turret. This vehicle is one of the best light tanks at its battle rating, capable of fulfilling many roles on the battlefield.
 
 The AMX-13 series has one of the most distinctive looks of all armoured warfare's history as it combines many unusual design choices. First, this tank does not feature a "classical" layout: engine deck is next to the driver and the turret ring is at the rear of the tank's hull. Speaking of turrets, this tank has an oscillating one, which means that both gun and turret armour are welded together and that the whole assembly has to rotate to elevate the gun. This way of mounting allows the placement of an autoloader mechanism in the ''long'' turret bulge. As for its size, it is very small.
@@ -19,15 +17,14 @@ The AMX-13 series has one of the most distinctive looks of all armoured warfare'
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 Even though this tank has unimpressive armour values, its sloped profile will protect it from autocannon fire (with some distance, even the [[Bofors (40 mm)|Bofors]] can't go through this tank). Any dedicated antitank gun/missile/contraption will go right through this tank's armour. While this may sound a bit bad "getting easily pierced" also has its advantages: some APHE rounds will not detonate upon impact, which will minimise the damage done. If you happen to get shot at, the best way to survive is by showing your right front corner towards the enemy, this way, the engine deck may catch some shells. Don't ever rely on this tank's armour, take every shot you survive as a second chance.
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (hull, turret roof, side and rear)
-- Cast homogeneous armour (turret base, turret front, gun mantlet, cupola)
+* Rolled homogeneous armour (hull, turret roof, side and rear)
+* Cast homogeneous armour (turret base, turret front, gun mantlet, cupola)
 
 {| class="wikitable"
 |-
@@ -42,13 +39,12 @@ Even though this tank has unimpressive armour values, its sloped profile will pr
 |}
 '''Notes:'''
 
-- Suspension wheels and tracks are 15 mm thick.
-- Belly armour is 10 mm thick.
-- Storage boxes and mudguards are 4 mm thick.
+* Suspension wheels and tracks are 15 mm thick.
+* Belly armour is 10 mm thick.
+* Storage boxes and mudguards are 4 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp= 418|rbMinHp= 239}}
@@ -62,9 +58,7 @@ The {{PAGENAME}} can carry you wherever you want as its engine allows for fast a
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|SA50 L/57 (75 mm)}}
 
 Well-positioned, this gun can make your enemies cry: with the quick-firing rate it is "one-two, goodbye" for any foe caught from the sides/rear. In usual one-on-one engagements, foes usually exchange shots but, with the AMX-13, this is a lie: it can fire ''twice'' before its foe can reload, this can hurt very much. This high rate of fire makes it very efficient at long-distance sniping: it can adjust fire faster than its foes.
@@ -128,9 +122,7 @@ High gun placement and good gun depression angles make this tank very efficient 
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.15.1.55''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -148,18 +140,17 @@ High gun placement and good gun depression angles make this tank very efficient 
 |}
 '''Notes''':
 
-- Shells are modeled individually and disappear after having been shot or loaded.
-- Racks 6* and 7* (autoloader magazines) are first stage ammo racks. They total 12 shells.
-  ** These racks get filled first when loading up the tank and are also emptied first.
-  ** As the {{PAGENAME}} is equipped with an autoloader, manual reloading of the gun is not possible.
-  ** Once the autoloader magazines have been depleted, you can't shoot until the loader has restocked the autoloader with at least 1 shell.
-  ** The restocking time is longer than the normal reload time of the gun (about 15 seconds). Take this into account when playing. \*_ Simply not firing when the gun is loaded will move ammo from racks 1 to 5 into rack 7_ then 6\*. Firing will interrupt the restocking of the ready racks.
+* Shells are modeled individually and disappear after having been shot or loaded.
+* Racks 6* and 7* (autoloader magazines) are first stage ammo racks. They total 12 shells.
+** These racks get filled first when loading up the tank and are also emptied first.
+** As the {{PAGENAME}} is equipped with an autoloader, manual reloading of the gun is not possible.
+** Once the autoloader magazines have been depleted, you can't shoot until the loader has restocked the autoloader with at least 1 shell.
+** The restocking time is longer than the normal reload time of the gun (about 15 seconds). Take this into account when playing.
+** Simply not firing when the gun is loaded will move ammo from racks 1 to 5 into rack 7* then 6*. Firing will interrupt the restocking of the ready racks.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|MAC 31 (7.5 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -174,51 +165,47 @@ High gun placement and good gun depression angles make this tank very efficient 
 The small calibre of the MAC 31 machine gun makes it largely ineffective against all armoured vehicles but the ones with an open compartment. It still can be used to ping targets as a rangefinding help or to mow down minor obstacles blocking your line of sight.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The AMX-13 is a very competitive tank as it can reach tricky positions quite fast on the battlefield. Its low profile allows it to hide behind many obstacles, serving as armour for this light vehicle. Keeping hull-down, behind a hill on the border of the map is the best way to use this tank: frontal engagements are a no-go with such little armour. AMX-13 commanders will be surprised to be able to shoot ''1 round every 5 seconds'' with such accuracy and power at this BR.
 
 ;Long range sniper/flanker:
 
-- Stay low and scout targets for your team. When spotting a vulnerable enemy, shoot its engine/transmission/driver, '''don't get back into cover''' and finish it off 5 seconds later, only then, fade back into the shadows. Do not get out of cover too often as enemies too much aware of your position may destroy you easily. If spotted, stay ''as far as possible'' from enemy fire: this tank's small size can avoid a lot of shots since it takes some serious gunnery skills to hit such a fast ''and'' small target from a distance (1000+ m).
+* Stay low and scout targets for your team. When spotting a vulnerable enemy, shoot its engine/transmission/driver, '''don't get back into cover''' and finish it off 5 seconds later, only then, fade back into the shadows. Do not get out of cover too often as enemies too much aware of your position may destroy you easily. If spotted, stay ''as far as possible'' from enemy fire: this tank's small size can avoid a lot of shots since it takes some serious gunnery skills to hit such a fast ''and'' small target from a distance (1000+ m).
 
 ;Brawler:
 
-- Even though this is not recommended usage, this can tank actually be taken in close-quarter combat. In this role, it behaves much like any SPAA in the same context: flanking and surprising its foes from the sides with a hailstorm of bullets. Use smoke launchers in order to secure roads and advance concealed towards unsuspecting foes.
+* Even though this is not recommended usage, this can tank actually be taken in close-quarter combat. In this role, it behaves much like any SPAA in the same context: flanking and surprising its foes from the sides with a hailstorm of bullets. Use smoke launchers in order to secure roads and advance concealed towards unsuspecting foes.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Low profile.
-- Thin armour will often not detonate APHE ammo.
-- Frontally resistant to some SPAA fire ([[Ostwind]] and [[M19]]).
-- Has smoke launchers (high arc of fire).
-- Can reach its top speed quite fast.
-- Gun performance is comparable to the British [[Ordnance QF 17-pounder (76 mm)|QF 17-pounder]]'s.
-- Good gun depression: high gun placement make hull-down positions very efficient.
-- Fast turret rotation.
-- Stock shell is quite good, although the upgraded shell is a strict improvement.
-- Short reload time thanks to the 12-round autoloader: 1 shot every 5 seconds, comparable to reload times at low ranks.
-- Has scouting ability.
+* Low profile.
+* Thin armour will often not detonate APHE ammo.
+* Frontally resistant to some SPAA fire ([[Ostwind]] and [[M19]]).
+* Has smoke launchers (high arc of fire).
+* Can reach its top speed quite fast.
+* Gun performance is comparable to the British [[Ordnance QF 17-pounder (76 mm)|QF 17-pounder]]'s.
+* Good gun depression: high gun placement make hull-down positions very efficient.
+* Fast turret rotation.
+* Stock shell is quite good, although the upgraded shell is a strict improvement.
+* Short reload time thanks to the 12-round autoloader: 1 shot every 5 seconds, comparable to reload times at low ranks.
+* Has scouting ability.
 
 '''Cons:'''
 
-- Thin top armour: vulnerable to strafing planes (can be penetrated by .50 cals with ground target belts at typical strafing ranges).
-- Thin sides will get shredded by SPAAs and HMGs.
-- Only 3 crew members
-- Extremely bouncy suspension: bad at stop-and-shoot due to oscillating turret design.
-- Bad reverse speed for a light tank.
-- Bug-like antennas are extremely tall and give away your position when hiding.
-- Gun penetration subpar in up-tiers: relies heavily on flanking manoeuvres.
-- Restocking the autoloader is very slow once it has been depleted and it limits severely your combat performance.
-- Lacks defensive armament against aircraft.
+* Thin top armour: vulnerable to strafing planes (can be penetrated by .50 cals with ground target belts at typical strafing ranges).
+* Thin sides will get shredded by SPAAs and HMGs.
+* Only 3 crew members
+* Extremely bouncy suspension: bad at stop-and-shoot due to oscillating turret design.
+* Bad reverse speed for a light tank.
+* Bug-like antennas are extremely tall and give away your position when hiding.
+* Gun penetration subpar in up-tiers: relies heavily on flanking manoeuvres.
+* Restocking the autoloader is very slow once it has been depleted and it limits severely your combat performance.
+* Lacks defensive armament against aircraft.
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 '''Development'''
@@ -246,39 +233,33 @@ The French Army received most of the original 75 mm-armed version, with about 3,
 In the 1960's, the AMX-30 entered service. AMX-13s were used during the decolonization war in Algeria (1954-1962), although they saw little combat due to the lack of opposition and the terrain. After the French AMX-13s were up-gunned with the 90 mm gun, they often saw service in foreign theatres of operation due to their relative inexpensiveness. The AMX-13s were decommissioned and put into reserve starting in 1985.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=fr_amx_13_75 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=fr_amx_13_75 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|G-sMfeWsEq0|'''The Shooting Range #148''' - ''Metal Beasts'' section at 02:58 discusses the {{PAGENAME}}.|uhgodizubC4|'''The Shooting Range #77''' - ''Pages of History'' section at 05:19 discusses the {{PAGENAME}}.|WQspy3qMkgk|'''Testing New Scouting System with French AMX-13 - RB Gameplay''' - ''Jim Chamberlin''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
-
-- [[AMX-13 (Family)]]
+* [[AMX-13 (Family)]]
 
 ;Other vehicles of similar configuration and role
-
-- [[Strv 74]]
+* [[Strv 74]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wikipedia:AMX-13|[Wikipedia] AMX-13]]
-- [https://tanks-encyclopedia.com/coldwar/France/AMX-13.php <nowiki>[Tanks Encyclopedia]</nowiki> AMX-13]
-- [https://www.militaryfactory.com/armor/detail.asp?armor_id=175 <nowiki>[Military Factory]</nowiki> AMX-13]
+* [[wikipedia:AMX-13|[Wikipedia] AMX-13]]
+* [https://tanks-encyclopedia.com/coldwar/France/AMX-13.php <nowiki>[Tanks Encyclopedia]</nowiki> AMX-13]
+* [https://www.militaryfactory.com/armor/detail.asp?armor_id=175 <nowiki>[Military Factory]</nowiki> AMX-13]
 
 {{TankManufacturer AMX}}
 {{France light tanks}}

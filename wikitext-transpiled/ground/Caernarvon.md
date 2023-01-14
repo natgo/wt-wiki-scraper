@@ -4,22 +4,19 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British heavy tank {{Battle-rating}}. It was introduced along with the initial British tree line in [[Update_1.55_"Royal_Armour"|Update 1.55 "Royal Armour"]]. Featuring heavy armour on the hull with a [[Centurion Mk 3]] turret, the Caernarvon provides adequate armour, mobility with the bite of a 20-pounder. The variant featured in the game is the ''Mark II'', the experimental series with the 20-pounder whereas the ''Mark I'' was the initial prototype with a 17-pounder instead.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (hull, turret roof, cupola roof)
-- Cast homogeneous armour (turret, cupola)
-- Structural steel (side skirts, mudguards, storage boxes)
+* Rolled homogeneous armour (hull, turret roof, cupola roof)
+* Cast homogeneous armour (turret, cupola)
+* Structural steel (side skirts, mudguards, storage boxes)
 
 {| class="wikitable"
 |-
@@ -34,12 +31,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British heavy tank {{Battle-ra
 |}
 '''Notes:'''
 
-- Suspension wheels and bogies are 20 mm thick while tracks are 30 mm thick.
-- Steel boxes and side skirts located on the hull and turret sides add 4 mm of armour.
+* Suspension wheels and bogies are 20 mm thick while tracks are 30 mm thick.
+* Steel boxes and side skirts located on the hull and turret sides add 4 mm of armour.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp= 1046|rbMinHp= 716}}
@@ -51,9 +47,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British heavy tank {{Battle-ra
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|20pdr OQF Mk.I (84 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -129,9 +123,7 @@ The AP round is good to knock out crew members at it creates spalling. The solid
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.19.0.76''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -156,14 +148,12 @@ The AP round is good to knock out crew members at it creates spalling. The solid
 |}
 '''Notes''':
 
-- Shells are modelled individually and disappear from the rack after having been loaded in the breech.
-- Racks 8 and 9 are first stage ammo racks. They total 8 shells and get filled first when loading up the tank.
+* Shells are modelled individually and disappear from the rack after having been loaded in the breech.
+* Racks 8 and 9 are first stage ammo racks. They total 8 shells and get filled first when loading up the tank.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|BESA (7.92 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -178,7 +168,6 @@ The AP round is good to knock out crew members at it creates spalling. The solid
 The small calibre of the BESA machine gun makes it largely ineffective against all armoured vehicles but the ones with an open compartment. It still can be used to ping targets as a rangefinding help or to mow down minor obstacles blocking your line of sight.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 ;Arcade Battles
@@ -198,38 +187,34 @@ When playing the Caernarvon in Realistic Battles, try to play a supportive role.
 To succeed in Realistic, you must use cover and let your teammates take the shots. Usually, you will be able to return fire to avenge a teammate, and most of the time you get the kill, due to easy gun handling.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 '''Pros:'''
 
-- The Caernarvon is like a beefed up Centurion Mk 3
-  ** Same armament as the Centurion Mk 3, has a very good stock round and access to APDS, no learning curve
-  ** Upper front plate is extremely strong - it has 127 mm thickness at a 60° angle
-  \*\* Hull roof and most of the turret roof is 51 mm thick, so it will sustain heavy tank HE
-- Gun reloads a bit faster than enemies with the same calibre
-- Fast turret and hull traverse
-- Good acceleration
-- Brake system is very responsive
-- Access to gun stabilizer
-- Extremely strong gun mantlet
-- Armour profile on the turret face is inconsistent - enemies think twice before firing
+* The Caernarvon is like a beefed up Centurion Mk 3 
+** Same armament as the Centurion Mk 3, has a very good stock round and access to APDS, no learning curve
+** Upper front plate is extremely strong - it has 127 mm thickness at a 60° angle
+** Hull roof and most of the turret roof is 51 mm thick, so it will sustain heavy tank HE
+* Gun reloads a bit faster than enemies with the same calibre
+* Fast turret and hull traverse
+* Good acceleration
+* Brake system is very responsive
+* Access to gun stabilizer
+* Extremely strong gun mantlet
+* Armour profile on the turret face is inconsistent - enemies think twice before firing
 
 '''Cons:'''
 
-- Although it is designated as a heavy tank, the Centurion turret sabotages its armour and it will be destroyed almost on autopilot by anyone familiar with the Centurion weakspots (almost everybody at this point)
-- Lower glacis is still a weak spot, roof still can be breached by artillery tanks
-- Large ammo rack behind LFP (can be removed by bringing less than 34 shells)
-- APDS shot has little post-penetrative spalling
-- No explosive filler in any regular shells
-- Weak side armour, should not be exposed in any way when engaging an enemy
-- Top armour covering the engine is still only 8 mm
-- HEATFS shells can often easily penetrate the armour, even from the front
+* Although it is designated as a heavy tank, the Centurion turret sabotages its armour and it will be destroyed almost on autopilot by anyone familiar with the Centurion weakspots (almost everybody at this point)
+* Lower glacis is still a weak spot, roof still can be breached by artillery tanks
+* Large ammo rack behind LFP (can be removed by bringing less than 34 shells)
+* APDS shot has little post-penetrative spalling
+* No explosive filler in any regular shells
+* Weak side armour, should not be exposed in any way when engaging an enemy
+* Top armour covering the engine is still only 8 mm
+* HEATFS shells can often easily penetrate the armour, even from the front
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 In 1944, General Staff started a project called ''A45 Infantry Support Tank'', which started around the same time as the development of the [[Centurion Mk 3|A41 Centurion]] cruiser tank. This project, after the war, was redesignated from a typical "Infantry Tank" and instead focused on a new role of a "Universal Tank" design in the form of the FV 200 series. The "Universal Tank" concept was to design a vehicle that would have a mobility comparable to that of cruiser tanks, but with the armour and firepower of heavy tanks. The FV 200 series designation was adopted and was to serve as a line of vehicles that used the same hull and chassis in different roles like armour recovery vehicles and self-propelled guns. The first tank of this series was to be the FV 201, which would be 55 tons and had the 20-pounder gun.
 
@@ -239,37 +224,31 @@ In 1949, a new requirement for the project called for the use of a 120 mm gun, p
 The Caernarvon, powerful as it was at the time period, was intended to fulfill the role of the new "Main Battle Tank" concept in the FV 200 series. However, the success of the lighter Centurion cruiser tank made it apparent that the Centurion was more capable in that role than the heavier and less mobile Caernarvon. Thus, this role was not given to the Caernarvon and its design was used instead for further chassis development for future tank development. In 1955, the basis of the Caernarvon was built into the first [[Conqueror|Conqueror]] tank. Several Caernarvon Mk.II's were rebuilt into Conqueror Mk. 2 standards in between 1958 and 1959.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_fv221_caernarvon Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_fv221_caernarvon Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|gR3JPNt0iPw|'''Heavyweight Brits''' discusses the {{PAGENAME}} at 5:02 - ''War Thunder Official Channel''|9ayZTC2A6Ks|'''T34 vs Caernarvon''' - ''War Thunder Official Channel''|Fjh-tTr6TPs|'''Best Combo #2''' discusses the {{PAGENAME}} at 2:00 - ''War Thunder Official Channel''|fvOxbA46lZc|'''Caernarvon - How To Master It - Tank Review''' - ''Napalmratte''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
-
-- [[Conqueror]]
+* [[Conqueror]]
 
 ;Other vehicles of similar configuration and role
-
-- [[T34]]
+* [[T34]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wikipedia:Conqueror_(tank)|[Wikipedia] Conqueror (tank)]]
-- [https://tanks-encyclopedia.com/coldwar-uk-tank-medium-gun-fv221-caernarvon/ <nowiki>[Tanks Encyclopedia]</nowiki> Tank, Medium Gun, FV221 Caernarvon]
+* [[wikipedia:Conqueror_(tank)|[Wikipedia] Conqueror (tank)]]
+* [https://tanks-encyclopedia.com/coldwar-uk-tank-medium-gun-fv221-caernarvon/ <nowiki>[Tanks Encyclopedia]</nowiki> Tank, Medium Gun, FV221 Caernarvon]
 
 {{Britain heavy tanks}}

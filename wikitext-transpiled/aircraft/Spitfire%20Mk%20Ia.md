@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
 The Spitfire Mk Ia is one of the first monoplane fighter designs in the British tree, alongside the [[Hurricane (Family)|Hurricanes]]. The Spitfire is distinctive with its sleek and thin elliptical wing design, a characteristic seen in most future Spitfire variants. The wing on the Spitfire is a Type A, which contained four .303 machine guns per wing for a total of eight machine guns.
@@ -21,9 +19,7 @@ Its default paint coat consists of a green and tan two-tone colouring, with a wh
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle. -->
-
 The Spitfire Mk Ia has an excellent climb rate and a high top speed of 460 km/h when flying in a straight line. The plane has a decently high wing-rip speed, which should not come into play in controlled dives.
 
 It also possesses a very quick turning ability, although in some situations this can mean that manoeuvring energy retention is worse than one might expect. Roll rate is good at low speeds, but suffers about ~300 km/h.
@@ -54,7 +50,7 @@ In general, the Spitfire performs best at low and medium altitudes: below 4,500 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || X || ✓ || X || X <!-- ✓ -->
+| X || X || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -99,12 +95,11 @@ In general, the Spitfire performs best at low and medium altitudes: below 4,500 
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 38 mm Bulletproof glass - Armoured windscreen
-- 4 mm Steel - Armour plate in pilot's seat
-- 6-7 mm Steel -Armour plate behind the pilot
+* 38 mm Bulletproof glass - Armoured windscreen
+* 4 mm Steel - Armour plate in pilot's seat
+* 6-7 mm Steel -Armour plate behind the pilot
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -113,26 +108,23 @@ In general, the Spitfire performs best at low and medium altitudes: below 4,500 
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Browning (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 8 x 7.7 mm Browning machine guns, wing-mounted (350 rpg = 2,800 total)
+* 8 x 7.7 mm Browning machine guns, wing-mounted (350 rpg = 2,800 total)
 
 '''Notes:'''
 
-- 153 rounds per second total output (1150 rpm x 8 / 60).
-- Muzzle velocity 810 m/s (2,660 feet/second). <ref>[http://www.aviation-history.com/guns/303.htm <nowiki>[The Aviation History Online Museum]</nowiki> Browning .303 Mark II Machine Gun]</ref>
-- The .303 was a rifle round, accurate but fairly ineffective in air combat unless in skilled hands. The calibre was chosen over the .50 as it was lighter, had a higher rate of fire and was less susceptible to jamming. However, it required an average 4,500 rounds to disable an enemy aircraft <ref>Flying Guns: World War II by Anthony G Williams, Emmanuel Gustin (2003), p95</ref>, of which 250 rounds needed to hit (i.e. a full 2-second burst). The accurate placing of the shot was essential, as it lacked sufficient energy to cause structural damage.
-- The design used an open bolt mechanism to allow air to flow through the barrel and prevent overheating. This worked well at lower altitudes but caused icing at high altitude. The red canvas wing-port covering kept the gun clean and warm; later marks also ducted hot air from the engine to regulate the gun's breech temperature. <ref>[[wikipedia:Supermarine_Spitfire#Armament|[Wikipedia] Supermarine Spitfire - Armament]]</ref>
-- RAF recommended convergence in 1939 was 365 m (400 yards) in contrast to the Luftwaffe, with experience from the Spanish Civil War, using 200 m (which the RAF adopted by mid-1940). Although many high scoring pilots reduced this, close to 137 m (150 yards) or less for an accurate kill, others ignored convergence altogether or went to a box-shot where paired guns were set to different convergences.
-- Choice of ammunition is essential as AP and ball rounds rely on kinetic energy to cause damage, which is lost quickly in small calibre rounds. The API round will also transfer chemical energy into the target and so will be more effective on lightly armoured targets, particularly if they hit something flammable. Pure tracer rounds help to target, especially in combat manoeuvres where lead varies, but have little penetration on contact.
+* 153 rounds per second total output (1150 rpm x 8 / 60).
+* Muzzle velocity 810 m/s (2,660 feet/second). <ref>[http://www.aviation-history.com/guns/303.htm <nowiki>[The Aviation History Online Museum]</nowiki> Browning .303 Mark II Machine Gun]</ref>
+* The .303 was a rifle round, accurate but fairly ineffective in air combat unless in skilled hands. The calibre was chosen over the .50 as it was lighter, had a higher rate of fire and was less susceptible to jamming. However, it required an average 4,500 rounds to disable an enemy aircraft <ref>Flying Guns: World War II by Anthony G Williams, Emmanuel Gustin (2003), p95</ref>, of which 250 rounds needed to hit (i.e. a full 2-second burst). The accurate placing of the shot was essential, as it lacked sufficient energy to cause structural damage.
+* The design used an open bolt mechanism to allow air to flow through the barrel and prevent overheating. This worked well at lower altitudes but caused icing at high altitude. The red canvas wing-port covering kept the gun clean and warm; later marks also ducted hot air from the engine to regulate the gun's breech temperature. <ref>[[wikipedia:Supermarine_Spitfire#Armament|[Wikipedia] Supermarine Spitfire - Armament]]</ref>
+* RAF recommended convergence in 1939 was 365 m (400 yards) in contrast to the Luftwaffe, with experience from the Spanish Civil War, using 200 m (which the RAF adopted by mid-1940). Although many high scoring pilots reduced this, close to 137 m (150 yards) or less for an accurate kill, others ignored convergence altogether or went to a box-shot where paired guns were set to different convergences.
+* Choice of ammunition is essential as AP and ball rounds rely on kinetic energy to cause damage, which is lost quickly in small calibre rounds. The API round will also transfer chemical energy into the target and so will be more effective on lightly armoured targets, particularly if they hit something flammable. Pure tracer rounds help to target, especially in combat manoeuvres where lead varies, but have little penetration on contact.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 ;Climbing
@@ -154,14 +146,13 @@ When in a fight with an enemy plane which is not Japanese, it is recommended to 
 The Spitfire Mk Ia is a plane known for its manoeuvrability. It is faster than Japanese planes, so if attacked by one, a Rolling Scissors technique or straight dash can be used to evade them. If in a good position, Boom & Zoom can be used: repeatedly strafing and then proceeding to either climb high and energy trap it, or extending away maintaining as much energy as possible.
 
 ====Specific enemies worth noting====
-
 <!--Some concerning vehicles to worry about if playing this plane. (i.e. Japanese fighters will out turn you)-->
 
-- The [[Bf 109 (Family)|Bf 109 Friedrich (F) series]] are planes players should watch out for. They can do tremendous amounts of damage to a Spitfire if they get on your tail. They also can have very good turning performance, given the pilot flying the 109 knows what he's doing, which could catch you by surprise. The energy performance of the Bf 109 also greatly exceeds the Spitfire's.
-- [[:Category:Japan aircraft|Japanese aircraft]] - Fighter planes like the [[Ki-43 (Family)|Ki-43]] and [[A6M (Family)|A6M]] will turn all over the Spitfire. As such, the Spitfire's famous turning ability is actually considered wide and sluggish against a Japanese opponent. Instead, the Merlin engine power on the Spitfire can be used to try and outrun the Japanese plane. When attacking a Japanese plane, Boom & Zoom tactics are recommended, rather than turning, to keep an energy advantage over the opponent.
-- Biplanes - Biplanes like the [[Ki-10 (Family)|Ki-10]], [[I-15 (Family)|I-15]], and [[CR.32 (Family)|CR.32]] may be slow, but they are among some of the most manoeuvrable aircraft in War Thunder. It is highly recommended not to turn-fight them and to use Boom & Zoom tactics instead. Luckily, most biplanes are fragile and your eight machine guns will tear them apart.
-- [[:Category:Bombers|Large bombers]] - Although you have eight machine guns, they are only 7.7 mm calibre. With larger aircraft, you may find yourself expending all of your ammunition and not even coming away with a kill. The Spitfire is also quite fragile, so you should be careful of defensive turrets. Even light machine guns can take out your engine, kill your pilot and destroy important combat surfaces.
-- The [[I-180S]] premium Soviet fighter is extremely manoeuvrable and has great energy retention which can sometimes even out-turn Spitfires at higher speeds, thus it is recommended to be very careful when engaging these planes, making sure you have an energy advantage, or it will be a difficult battle.
+* The [[Bf 109 (Family)|Bf 109 Friedrich (F) series]] are planes players should watch out for. They can do tremendous amounts of damage to a Spitfire if they get on your tail. They also can have very good turning performance, given the pilot flying the 109 knows what he's doing, which could catch you by surprise. The energy performance of the Bf 109 also greatly exceeds the Spitfire's.
+* [[:Category:Japan aircraft|Japanese aircraft]] - Fighter planes like the [[Ki-43 (Family)|Ki-43]] and [[A6M (Family)|A6M]] will turn all over the Spitfire. As such, the Spitfire's famous turning ability is actually considered wide and sluggish against a Japanese opponent. Instead, the Merlin engine power on the Spitfire can be used to try and outrun the Japanese plane. When attacking a Japanese plane, Boom & Zoom tactics are recommended, rather than turning, to keep an energy advantage over the opponent.
+* Biplanes - Biplanes like the [[Ki-10 (Family)|Ki-10]], [[I-15 (Family)|I-15]], and [[CR.32 (Family)|CR.32]] may be slow, but they are among some of the most manoeuvrable aircraft in War Thunder. It is highly recommended not to turn-fight them and to use Boom & Zoom tactics instead. Luckily, most biplanes are fragile and your eight machine guns will tear them apart.
+* [[:Category:Bombers|Large bombers]] - Although you have eight machine guns, they are only 7.7 mm calibre. With larger aircraft, you may find yourself expending all of your ammunition and not even coming away with a kill. The Spitfire is also quite fragile, so you should be careful of defensive turrets. Even light machine guns can take out your engine, kill your pilot and destroy important combat surfaces.
+* The [[I-180S]] premium Soviet fighter is extremely manoeuvrable and has great energy retention which can sometimes even out-turn Spitfires at higher speeds, thus it is recommended to be very careful when engaging these planes, making sure you have an energy advantage, or it will be a difficult battle.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -181,36 +172,33 @@ The Spitfire Mk Ia is a plane known for its manoeuvrability. It is faster than J
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 [[File:Radar chart Spitfire Mk Ia.png|thumb|Fighter abilities of the Spitfire Mk.Ia]]
 
 '''Pros:'''
 
-- Outstanding turn radius, very good at turnfighting
-- Adequate roll rate at low speed
-- Good performance at altitudes below 4.5 km
-- Excellent climb rate
-- Decent armour: frontal 38 mm glass and rear 4-7 mm steel plates
-- "100 octane fuel" modification provides roughly 15% increase in engine power
-- Good anti-fighter armament of eight machine guns
+* Outstanding turn radius, very good at turnfighting
+* Adequate roll rate at low speed
+* Good performance at altitudes below 4.5 km
+* Excellent climb rate
+* Decent armour: frontal 38 mm glass and rear 4-7 mm steel plates
+* "100 octane fuel" modification provides roughly 15% increase in engine power
+* Good anti-fighter armament of eight machine guns
 
 '''Cons:'''
 
-- Poor high-altitude performance
-- Roll rate stiffens dramatically at ~300 km/h
-- Below average energy retention: momentum is lost after pulling a few sharp turns
-- Fragile construction: damage to the airframe, control surfaces, or engine can cripple the plane
-- Negative Gs and inverted flight causes the Float Carburettor to fail, momentarily cutting the engine
-- Engine prone to overheating
-- Machine guns are effective only if the target is hit repeatedly at close ranges
-- No suspended armaments or heavy guns for ground attack
-- Pulling back hard on the joystick can cause dangerous flat-spins in Simulator mode
-- Poor simulator cockpit visibility
+* Poor high-altitude performance
+* Roll rate stiffens dramatically at ~300 km/h
+* Below average energy retention: momentum is lost after pulling a few sharp turns
+* Fragile construction: damage to the airframe, control surfaces, or engine can cripple the plane
+* Negative Gs and inverted flight causes the Float Carburettor to fail, momentarily cutting the engine
+* Engine prone to overheating
+* Machine guns are effective only if the target is hit repeatedly at close ranges
+* No suspended armaments or heavy guns for ground attack
+* Pulling back hard on the joystick can cause dangerous flat-spins in Simulator mode
+* Poor simulator cockpit visibility
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -251,12 +239,11 @@ The Spitfire Mk.1A was the iconic British aircraft of the Battle of Britain. Lea
 </ul></div>
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=spitfire_mk1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=spitfire_mk1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|9_txEPailKc|'''The Shooting Range #92''' - ''Metal Beasts'' section at 01:54 discusses the Spitfire Mk Ia.}}
@@ -264,16 +251,15 @@ The Spitfire Mk.1A was the iconic British aircraft of the Battle of Britain. Lea
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/275318-supermarine-spitfire-mk-ia/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/275318-supermarine-spitfire-mk-ia/ Official data sheet - more details about the performance]
 
 === References ===
 <references />

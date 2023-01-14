@@ -10,17 +10,13 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American jet fighter {{Battle-rating}}. It was introduced in [[Update "Red Skies"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The F-5C is generally an all-round good fighter. It's not the fastest plane and not the most manoeuvrable, but the combination of its decent speed, acceleration, and manoeuvrability make it a joy to fly and fight in.
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -48,7 +44,7 @@ The F-5C is generally an all-round good fighter. It's not the fastest plane and 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || X || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -114,10 +110,9 @@ The F-5C is generally an all-round good fighter. It's not the fastest plane and 
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- Self-sealing fuel tanks (2 in fuselage - centreline)
+* Self-sealing fuel tanks (2 in fuselage - centreline)
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -126,38 +121,34 @@ The F-5C is generally an all-round good fighter. It's not the fastest plane and 
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M39A2 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 2 x 20 mm M39A2 cannons, nose-mounted (280 rpg = 560 total)
-  ** 2 x 20 mm M39A2 cannons + 60 x countermeasures
+* A choice between two presets:
+** 2 x 20 mm M39A2 cannons, nose-mounted (280 rpg = 560 total)
+** 2 x 20 mm M39A2 cannons + 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
 {{main|AGM-12B Bullpup|AIM-9E Sidewinder|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|BLU-1 incendiary}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x AIM-9E Sidewinder missiles
-- 18 x 250 lb LDGP Mk 81 bombs (4,500 lb total)
-- 5 x 500 lb LDGP Mk 82 bombs (2,500 lb total)
-- 5 x 750 lb M117 cone 45 bombs (3,750 lb total)
-- 3 x 1,000 lb LDGP Mk 83 bombs (3,000 lb total)
-- 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
-- 76 x FFAR Mighty Mouse rockets
-- 8 x Zuni Mk32 Mod 0 ATAP rockets
-- 4 x AGM-12B Bullpup missiles
-- 5 x BLU-1 incendiary bombs
+* Without load
+* 2 x AIM-9E Sidewinder missiles
+* 18 x 250 lb LDGP Mk 81 bombs (4,500 lb total)
+* 5 x 500 lb LDGP Mk 82 bombs (2,500 lb total)
+* 5 x 750 lb M117 cone 45 bombs (3,750 lb total)
+* 3 x 1,000 lb LDGP Mk 83 bombs (3,000 lb total)
+* 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
+* 76 x FFAR Mighty Mouse rockets
+* 8 x Zuni Mk32 Mod 0 ATAP rockets
+* 4 x AGM-12B Bullpup missiles
+* 5 x BLU-1 incendiary bombs
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -198,37 +189,33 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 In air RB, the F-5C can be played as both a support and offensive plane. In medium range engagements, it plays well as a support fighter, either baiting enemies to use up missiles with the large amount of flares/chaff or launching missiles at enemies who are chasing friendly aircraft to give a chance to let your teammate get in a better position. In close range engagements, with some effort you can stay on the tail of the enemy, if possible making the enemy pull as many manoeuvres as possible to slow them down so you can get a short burst from the respectable 20 mm cannons mounted in the nose. Due to the plane's characteristics, overshooting an enemy won't be the end of a dogfight, the F-5C is able bleed enough speed in a quick turn to get right back on the enemy if they don't take advantage of the overshoot or if they are going too slow to be able to make any quick counterattack.
 
-In mixed ground battles (RB), the F-5C is able to function as a light strike aircraft, while also being able to maintain air supremacy. The F-5C's versatile loadout of air-to-ground ordnance allows the player to choose what range they want to do air support, for example the 4 x AGM-12B loadout is great for medium range engagements against enemy ground units.
+In mixed ground  battles (RB), the F-5C is able to function as a light strike aircraft, while also being able to maintain air supremacy. The F-5C's versatile loadout of air-to-ground ordnance allows the player to choose what range they want to do air support, for example the 4 x AGM-12B loadout is great for medium range engagements against enemy ground units.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Small size makes for a harder target to hit
-- Has countermeasures
-- Guns are effective
-- Good turn rate
-- Wide variety of weapon loadouts
-- Engine does not tend to overheat even in afterburners
+* Small size makes for a harder target to hit
+* Has countermeasures
+* Guns are effective
+* Good turn rate
+* Wide variety of weapon loadouts
+* Engine does not tend to overheat even in afterburners
 
 '''Cons:'''
 
-- Only two fairly weak AIM-9Es air-to-air missiles
-- No radar
-- Below average top speed
-- No CCIP or CCRP for guns, rockets, or bombs, limiting its ground attack potential
+* Only two fairly weak AIM-9Es air-to-air missiles
+* No radar
+* Below average top speed
+* No CCIP or CCRP for guns, rockets, or bombs, limiting its ground attack potential
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 In 1965, after the outbreak of the Vietnam War, the US government decided to send troops to South Vietnam to counter the threat of North Vietnamese forces. At that time, many tactical wings of USAF were sent to Thailand and South Vietnam for Operation Rolling Thunder, as well as to support the South Vietnam Army in countering the Viet Cong forces in the South Vietnam. In the meantime, many countries were reluctant to purchase the F-5, as it hadn't yet been adopted by the USAF. Thus, the USAF decided to let Colonel Frank Emory lead a special provisional squadron named 4503rd Tactical Fighter Squadron to take the new F-5 fighters into the Vietnam War, an excellent chance to prove that F-5 could do its job well in regional conflicts: this combat evaluation project was named "Skoshi Tiger".
 
 [[File:Skoshi Tiger welcome banner AFHRA.png|left|thumb|343x343px|The welcome banner of F-5C Skoshi Tiger in Bien Hoa AFB, Vietnam.]]
@@ -258,27 +245,25 @@ Like their American ally, the Republic of Vietnam Air Force also used their F-5 
 As the Vietnam War was finally ended in 1975, the new Vietnam government decided to transfer some American military equipment, such as F-5 fighters, A-37 attackers, and UH-1 helicopters, to the Soviet Union and China in exchange for more support. In China, the captured F-5A Freedom Fighter sent by the Vietnam government was tested with their own J-6 fighter, and it was found that the air combat performance of F-5A fighter not only could completely match their own J-6 fighter, but it also had much better ground attack capability, apart from that, the manufacturing process, aerodynamic design, airborne equipment and other parts of the F-5A fighter also had left a deep impression on Chinese aircraft engineers.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=f-5c Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f-5c Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/7166-development-top-gun-day-premium-f-5c-in-red-menace-camo-for-pre-order-en|[Devblog] Top Gun Day: Premium F-5C in Red Menace camo for pre-order!]]
-- [https://forum.warthunder.com/index.php?/topic/519024-f-5a/ Official data sheet - more details about the performance]
+* [[wt:en/news/7166-development-top-gun-day-premium-f-5c-in-red-menace-camo-for-pre-order-en|[Devblog] Top Gun Day: Premium F-5C in Red Menace camo for pre-order!]]
+* [https://forum.warthunder.com/index.php?/topic/519024-f-5a/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Northrop}}
 {{USA jet aircraft}}

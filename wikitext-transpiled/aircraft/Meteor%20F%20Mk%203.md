@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -45,7 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-r
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -113,13 +110,12 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-r
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 38 mm Bulletproof glass in cockpit front.
-- 12.7 mm Steel plate behind the pilot.
-- 12.7 mm Steel plate in the nose.
-- Critical components located at the front and in the wings of the aircraft (fuel, pilot, engine, controls)
+* 38 mm Bulletproof glass in cockpit front.
+* 12.7 mm Steel plate behind the pilot.
+* 12.7 mm Steel plate in the nose.
+* Critical components located at the front and in the wings of the aircraft (fuel, pilot, engine, controls)
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -128,19 +124,15 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-r
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Hispano Mk.V (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 20 mm Hispano Mk.V cannons, nose-mounted (200 rpg top + 190 rpg bottom = 780 total)
+* 4 x 20 mm Hispano Mk.V cannons, nose-mounted (200 rpg top + 190 rpg bottom = 780 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 [[File:Meteor III Screenshot 2.jpg|thumb]]
 
 The toughest enemies to fight in the Meteor F Mk 3 are perhaps the [[Ki-200]], [[Me 163 B|Me 163]], and [[Ho 229 V3|Ho 229]]. These aircraft are faster and have better acceleration.
@@ -149,36 +141,33 @@ To combat a Ho 229: the flying wing has a worse roll rate than the Meteor so sci
 
 The Me 163B and the Ki-200 are in theory easier to fight since the main priority is to simply survive long enough that they run out of fuel. The Mark 3 has a higher wing lift to mass ratio. Thus, it can barely out-turn the rocket planes (even with their rocket engines enabled), but this is very dangerous and only the better-skilled pilot will come out of a turn fight alive.
 
-If the enemy is smart enough to dive and gather a little more speed for extra manoeuvrability, go up instead and roll over the enemy. If the enemy goes up, go up with it but be prepared for a hammerhead attack. If one does come, roll yourself over to provide the minimum surface area that he can attack and pitch down to the earth (to gather a little more speed for extra manoeuvrability). Continue doing this until the rocket plane gives up or runs out of fuel.
+If the enemy is smart enough to dive and gather a little more speed for extra manoeuvrability, go up instead and roll over the enemy. If the enemy goes up, go up with it but be prepared for a hammerhead attack.  If one does come, roll yourself over to provide the minimum surface area that he can attack and pitch down to the earth (to gather a little more speed for extra manoeuvrability). Continue doing this until the rocket plane gives up or runs out of fuel.
 
 Do not chase the rocket plane directly if it decides to flee, but climb slightly faster than the best rate of climb (approximately 190 knots / 350 km/h / 220 mph) and if he flies directly overhead for the strike, simply perform a shallow dive and pull a horizontal turn to ruin their approach. Continue doing this until they run out of fuel.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Good turn rate
-- Decent climb rate and energy retention
-- Decent manoeuvrability at low speeds
-- Good acceleration for an early jet
-- Useful airbrakes, hard to rip the wings if you use them correctly
-- Can limp back to the airfield on one engine
-- The 4 x 20 mm cannons are accurate
-- Effective air targets ammo belt
+* Good turn rate
+* Decent climb rate and energy retention
+* Decent manoeuvrability at low speeds
+* Good acceleration for an early jet
+* Useful airbrakes, hard to rip the wings if you use them correctly
+* Can limp back to the airfield on one engine
+* The 4 x 20 mm cannons are accurate
+* Effective air targets ammo belt
 
 '''Cons:'''
 
-- Low top speed
-- Easily rips wings (500 mph+)
-- Below average roll rate
-- Poor rear cockpit visibility in Sim battles (hurts when performing scissors)
+* Low top speed
+* Easily rips wings (500 mph+)
+* Below average roll rate
+* Poor rear cockpit visibility in Sim battles (hurts when performing scissors)
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 [[File:Meteor III Screenshot 1.jpg|thumb|Cockpit of the Meteor Mk 3]]
 
 The Gloster Meteor F Mk 3 was the first version of the Meteor to be produced in large numbers, the Mk 3 was significantly heavier than the previous versions of the Meteor, however, it also improved the performance dramatically, the first prototype for the Mk 3 specification (DG209) first flew on the 18th April 1944 and immediately demonstrated its performance improvement by reaching 465 mph (748 km/h) at 16,000 ft, this demonstrated a clear performance improvement over the Meteor Mk 1. The initial 15 aircraft of Mk 3 production were fitted with earlier Rolls Royce W.2B/23c Welland powerplant which was carried over from the Meteor Mk 1, these first 15 airframes of course had reduced performance due to these earlier powerplants being used, shortly after production started the Rolls-Royce Derwent I powerplant became available, this engine increased the power to 2,000 lb of thrust per engine, this was the most common powerplant for the Mk 3, although later in the production run examples were fitted with the later Derwent IV engine which increased thrust to 2,400 lb per engine, giving yet another performance improvement. The final 15 production models were fitted with extended engine nacelles in common with those developed for the later Meteor Mk 4, these increased the performance of the aircraft yet again, this would mark the final major modification to the Mk 3 design before the Meteor Mk 4 would begin production.
@@ -207,31 +196,29 @@ The total number of F.Mk.III Gloster Meteors built was 210, but service after th
 
 === Notable pilots ===
 <gallery mode="packed" heights="300">
-File:John*Plagis_portrait.jpg|link=User:U64962917#Plagis,\_Ioannis*"John"_A.|Top scoring Southern Rhodesian ace pilot [[User:U64962917#Plagis,\_Ioannis_"John"\_A.|John Plagis]] and highest scoring pilot of Greek origin of WW II. Plagis flew the Meteor for several years after the end of WW II.
-File:Robin_Olds_portrait.jpg|link=User:U64962917#Olds,\_Robin.|In 1948, [[User:U64962917#Olds, Robin|Robin Olds]] transferred to England under the USAF/RAF exchange program where he flew the Gloster Meteor jet fighter and commanded the No. 1 Squadron at R.A.F. Tangmere.
+File:John_Plagis_portrait.jpg|link=User:U64962917#Plagis,_Ioannis_"John"_A.|Top scoring Southern Rhodesian ace pilot [[User:U64962917#Plagis,_Ioannis_"John"_A.|John Plagis]] and highest scoring pilot of Greek origin of WW II. Plagis flew the Meteor for several years after the end of WW II.
+File:Robin_Olds_portrait.jpg|link=User:U64962917#Olds,_Robin.|In 1948, [[User:U64962917#Olds, Robin|Robin Olds]] transferred to England under the USAF/RAF exchange program where he flew the Gloster Meteor jet fighter and commanded the No. 1 Squadron at R.A.F. Tangmere.
 </gallery>
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=meteor_fmk3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=meteor_fmk3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/264989-gloster-meteor-f-mk3/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/264989-gloster-meteor-f-mk3/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Gloster}}
 {{Britain jet aircraft}}

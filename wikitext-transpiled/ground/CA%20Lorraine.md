@@ -4,9 +4,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' (100 mm Lorraine assault gun), or abbreviated '''{{specs|pseudonym}}''', is a rank {{Specs|rank}} French tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]]. It presents a very classic TD design: Casemate gun platform and powerful armament. While lacking in terms of armour, it compensates with both excellent mobility and a very strong gun.
 
 The CA Lorraine is an intermediate between a [[SU-85]] and a lowered [[Jagdpanther]]. It is distinguishable for having rubber road wheels instead of metal ones, two huge fans atop the engine deck (much like the German Jagdpanther), a very pointy gun mantlet pointing outwards from the casemate and quite a large, rounded commander's cupola. In some ways, it is quite similar to the fearsome [[AMX-50 Foch|AMX 50 ''Foch'']], and this can scare away some cowardly foes.
@@ -14,14 +12,13 @@ The CA Lorraine is an intermediate between a [[SU-85]] and a lowered [[Jagdpanth
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (casemate, cupola)
-- Cast homogeneous armour (gun mantlet)
-- Wheel (tires)
+* Rolled homogeneous armour (casemate, cupola)
+* Cast homogeneous armour (gun mantlet)
+* Wheel (tires)
 
 {| class="wikitable"
 |-
@@ -34,13 +31,12 @@ The CA Lorraine is an intermediate between a [[SU-85]] and a lowered [[Jagdpanth
 |}
 '''Notes:'''
 
-- Suspension wheels, tracks and torsion bars are 20 mm thick.
+* Suspension wheels, tracks and torsion bars are 20 mm thick.
 
 Its sloped, medium thickness frontal armour will not protect you from anything bigger than SPAA shots (some may even get through in close quarters) but it is certainly sufficient for what it is designed to do: protecting from stray bullets in long range engagements. Side and top armour are also quite weak, so don't expect to survive any kind of surprise coming from side or top. Still, this tank has 5 crew members, which can often save it from a quick destruction.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=973|rbMinHp=606}}
@@ -54,9 +50,7 @@ If anyone thought the [[Lorraine 40t]] was a sprinter, this is even better. The 
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|SA47 L/58 (100 mm)}}
 
 This gun platform uses the usual French rank IV 100 mm SA47 L/58 cannon with a twist: it has no autoloader mechanism, hence making reload time twice as long. However, at its battle rating, the gun packs an awesome 300 mm of penetration that ensures it can punch well above its own rank. The large shell calibre also means it can create quite a lot of fragments inside a tank, making the lack of explosive filler not so bad, as long as you land a good hit.
@@ -116,9 +110,7 @@ Keep that in mind as your foes get closer and closer to you: these precious 11 s
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.3.0.27''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -133,12 +125,10 @@ Keep that in mind as your foes get closer and closer to you: these precious 11 s
 |}
 '''Note''':
 
-- Shells are modeled individually and disappear after having been shot or loaded.
+* Shells are modeled individually and disappear after having been shot or loaded.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The CA Lorraine can be used in different ways, but in all cases it will be relying on its speed. The CA Lorraine is one of the most agile tanks at its battle rating in terms of max speed, cross country speed, turn time, neutral steering and reverse. The CA Lorraine should not be used as an assault tank (often confused with the [[AMX-50 Foch]]). Use your speed as your main advantage.
 
 '''When in urban combat:'''
@@ -150,33 +140,31 @@ The Lorraine has a big disadvantage when it comes to urban combat, it is turretl
 The Lorraine is a pretty decent sniper at its BR but this is by far one of the best combat roles the Lorraine can have. The 6x sight and the high muzzle velocity will make sniping easier than with other tanks at its BR. It should be noted that the CA Lorraine will not be able to withstand many frontal attacks even at range (PzGr 39 fired from KwK36, 42, 43 and 48 will penetrate the upper frontal plate with ease). Always stay on the move when possible. Fire and move. This is to make each attack unpredictable as people are prompt of revenge killing you with a tank or with an aircraft, always stay aware of your surroundings and stay away from suspicious locations enemies can look forward to detect and engage you.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Good firepower, uses the same gun as [[AMX-50|AMX-50-100]] and [[Lorraine 40t]]
-- Very good penetration, definitely usable in uptiered games
-- Exceptionally fast reverse speed
-- Fairly low profile
-- Capable of neutral steering
-- Strong gun mantlet may bounce shots
-- Fast with very good manoeuvrability
+* Good firepower, uses the same gun as [[AMX-50|AMX-50-100]] and [[Lorraine 40t]]
+* Very good penetration, definitely usable in uptiered games
+* Exceptionally fast reverse speed
+* Fairly low profile
+* Capable of neutral steering
+* Strong gun mantlet may bounce shots
+* Fast with very good manoeuvrability
 
 '''Cons:'''
 
-- Weak armour all around
-- Engines and fuel tanks only have 8mm armour, very vulnerable from above
-- Reload rate is not impressive
-- Poor gun depression (-6)
-- No HE filler in AP shots means precision is necessary
-- No coaxial MG
-- Low gun placement
-- Somewhat weak optic zoom
-- Large ammo racks on both sides of the hull
+* Weak armour all around
+* Engines and fuel tanks only have 8mm armour, very vulnerable from above
+* Reload rate is not impressive
+* Poor gun depression (-6)
+* No HE filler in AP shots means precision is necessary
+* No coaxial MG
+* Low gun placement
+* Somewhat weak optic zoom
+* Large ammo racks on both sides of the hull
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 ===Design===
@@ -189,39 +177,33 @@ A 100 mm SA 47 L/58 gun was chosen to equip on the tank and the armour was kept 
 The CA Lorraine never saw either service or combat action with the French Army. Its chassis and many other parts were later reused in the development of the Lorraine 40t as well as in other projects.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=fr_lorraine_100 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=fr_lorraine_100 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|wSIXMQ0Gln4|'''The CA Lorraine, French, Tier-4, Tank Destroyer''' - ''Angry Nerd Gaming''|Gv-Fm4s2iwM|'''CA Lorraine - Fun, Fast 'n Furious''' - ''Napalmratte''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
-
-- [[Lorraine 155 Mle.50]]
+* [[Lorraine 155 Mle.50]]
 
 ;Other vehicles of similar configuration and role
-
-- [[Jagdpanther]] / [[Bfw. Jagdpanther]]
-- [[SU-100]]
+* [[Jagdpanther]] / [[Bfw. Jagdpanther]]
+* [[SU-100]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wikipedia:Canon_D%27Assaut_Lorraine|[Wikipedia] Canon D'Assaut Lorraine]]
-- [https://tanks-encyclopedia.com/coldwar/France/lorraine-40t <nowiki>[Tanks Encyclopedia]</nowiki> Lorraine 40t]
+* [[wikipedia:Canon_D%27Assaut_Lorraine|[Wikipedia] Canon D'Assaut Lorraine]]
+* [https://tanks-encyclopedia.com/coldwar/France/lorraine-40t <nowiki>[Tanks Encyclopedia]</nowiki> Lorraine 40t]
 
 {{TankManufacturer Lorraine}}
 {{France tank destroyers}}

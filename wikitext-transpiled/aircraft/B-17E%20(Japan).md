@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=b-17e_japan
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Japanese bomber {{Battle-rating}}. It was introduced in [[Update 1.43]].
 
 The B-17E Flying Fortress, as the name suggests, is intended to be used as a high-altitude level bomber, designed to target enemy airfields, military bases, factories, and other infrastructure crucial to winning the war. Despite its large bomb-load, it is not recommended to target moving ground targets, such as tank formations, unless they are the only targets. This is because of the inaccuracy of the bombs at such high altitude, and since columns will simply disperse when they sight bombs falling. When using the B-17E, it is always best to group up with others in a wedge-like formation for optimal defense against air targets and climb to an altitude of, at least, 4,000 m. A few fighter escorts, would ensure the survival of friendly bombers, only if they adopt fighter-sweep tactics to hunt down enemy fighters converging on the formation.
@@ -21,7 +19,6 @@ A group of B-17s were captured, repaired, and tested by Japan during WWII.
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -49,7 +46,7 @@ A group of B-17s were captured, repaired, and tested by Japan during WWII.
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -80,15 +77,14 @@ A group of B-17s were captured, repaired, and tested by Japan during WWII.
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 6.35 mm Steel plate behind nose gunner
-- 6.35 mm Steel plates behind pilots
-- 6.35 mm Steel plates behind dorsal gunners
-- 6.35 mm Steel plates in front of beam gunners
-- 6.35 mm Steel plates in front of tail gunner
-- 38 mm Bulletproof glass in front of tail gunner
+* 6.35 mm Steel plate behind nose gunner
+* 6.35 mm Steel plates behind pilots
+* 6.35 mm Steel plates behind dorsal gunners
+* 6.35 mm Steel plates in front of beam gunners
+* 6.35 mm Steel plates in front of tail gunner
+* 38 mm Bulletproof glass in front of tail gunner
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -97,37 +93,31 @@ A group of B-17s were captured, repaired, and tested by Japan during WWII.
 {{Specs-Avia-Armaments}}
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 8 x 500 lb AN-M64A1 bombs (4,000 lb total)
-- 12 x 500 lb AN-M64A1 bombs (6,000 lb total)
-- 6 x 1,000 lb AN-M65A1 bombs (6,000 lb total)
+* 8 x 500 lb AN-M64A1 bombs (4,000 lb total)
+* 12 x 500 lb AN-M64A1 bombs (6,000 lb total)
+* 6 x 1,000 lb AN-M65A1 bombs (6,000 lb total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|M2 Browning (12.7 mm)|Browning (7.62 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 2 x 12.7 mm M2 Browning machine guns, front dorsal turret (500 rpg = 1,000 total)
-- 2 x 12.7 mm M2 Browning machine guns, ventral turret (500 rpg = 1,000 total)
-- 2 x 12.7 mm M2 Browning machine guns, tail turret (500 rpg = 1,000 total)
-- 1 x 12.7 mm M2 Browning machine gun, rear dorsal turret (500 rpg)
-- 1 x 12.7 mm M2 Browning machine gun, 2 x beam turrets (400 rpg)
-- 1 x 7.62 mm Browning machine gun, nose turret (500 rpg)
+* 2 x 12.7 mm M2 Browning machine guns, front dorsal turret (500 rpg = 1,000 total)
+* 2 x 12.7 mm M2 Browning machine guns, ventral turret (500 rpg = 1,000 total)
+* 2 x 12.7 mm M2 Browning machine guns, tail turret (500 rpg = 1,000 total)
+* 1 x 12.7 mm M2 Browning machine gun, rear dorsal turret (500 rpg)
+* 1 x 12.7 mm M2 Browning machine gun, 2 x beam turrets (400 rpg)
+* 1 x 7.62 mm Browning machine gun, nose turret (500 rpg)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 Generally, the plane's role should not diverge from this norm, as it is ineffective and costly as a low altitude bomber. Survival is an utmost importance to be remembered when using this plane. While one target may be missed, there will always be another opportunity to make another pass once reloaded and repaired. The few M2 machine guns in the nose cannot protect the most vulnerable part of any B-17 - the nose. Protected only by a layer of Plexiglas and almost no armour (excluding the frontal bulkhead, which only covers the pilot/co-pilot's torso), most of the crew critical in the success of the mission, including the pilot, co-pilot, bombardier and navigator would be knocked-out instantly. If targeted by German cannons, most notably, the [[MK_108 (30 mm)|Mk 108]]. Just a burst of 30 mm MK 108 placed anywhere on the aircraft , would compromise the crew's survival and even the aircraft's structural integrity.
 
 When facing German fighters and interceptors in realistic battles', it is best to use Omni-purpose or Armour-piercing/Ground Targets ammunition belts for the Browning M2 .50 cal turret machine guns, which is likely to punch through their noses when tailing the B-17E. These ammunition belts are effective at tearing through the engine block of a [[Fw_190_D-9|Focke-Wulf Fw 190D]] or [[Bf_109_G-6|Messerschmitt Bf 109G]], hopefully resulting in an internal engine fire, a pilot snipe, or an inoperable engine for the opponent.
@@ -152,37 +142,34 @@ In Simulator mode, the Japanese B-17E offers the same playstyle as the American 
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Large payload
-- Powerful air defense capabilities
-- Multiple engines, can fly on one if necessary (But with a great loss in altitude and speed)
-- Rugged design allows for soaking up damage
-- Mostly unaffected by light machine gun fire, and to an extent, heavy machine guns
-- Good speed for a bomber of its peers
-- Multiple turrets covering almost all angles
-- Can quite often return to base with extensive damage
-- Pilot and co-pilot, if one of them is knocked out, the B-17E can keep flying
-- May be ignored by enemy Allied aircraft and SPAA in Sim
+* Large payload
+* Powerful air defense capabilities
+* Multiple engines, can fly on one if necessary (But with a great loss in altitude and speed)
+* Rugged design allows for soaking up damage
+* Mostly unaffected by light machine gun fire, and to an extent, heavy machine guns
+* Good speed for a bomber of its peers
+* Multiple turrets covering almost all angles
+* Can quite often return to base with extensive damage
+* Pilot and co-pilot, if one of them is knocked out, the B-17E can keep flying
+* May be ignored by enemy Allied aircraft and SPAA in Sim
 
 '''Cons:'''
 
-- Big target
-- Fairly Slow
-- Nose is extremely vulnerable, the only armour on the front is the front bulkhead, covering only the pilot and copilot's torso
-- Vulnerable to German "Minengeschoß" and > 20 mm gunfire
-- Engine fires are common
-- Wings are big and thus commonly torn off by gunfire
-- Nose protection is extremely limited, try to avoid frontal attacks as much as possible
-- May attract friendly fire from friendly aircraft and SPAA in Sim
+* Big target
+* Fairly Slow
+* Nose is extremely vulnerable, the only armour on the front is the front bulkhead, covering only the pilot and copilot's torso
+* Vulnerable to German "Minengeschoß" and > 20 mm gunfire
+* Engine fires are common
+* Wings are big and thus commonly torn off by gunfire
+* Nose protection is extremely limited, try to avoid frontal attacks as much as possible
+* May attract friendly fire from friendly aircraft and SPAA in Sim
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 [[File:Japanese captured B-17D.jpg|alt=Japanese captured B-17D in the air on its way to the home islands. Picture taken from the ground looking up as it passes overhead.|thumb|250px|Captured B-17D on its way to the Japanese home islands]]
 After the successful invasion of the Philippines, a team of Japanese engineers from the IJAAF "Koku Gijutsu Kenkyujo" (Army Aviation Technical Research Institute) discovered multiple B-17 wrecks at Clark Field. Salvaging parts from the various wrecks, the engineers managed to piece together a working B-17D, which was flown back to the Japanese home islands in early 1942 for evaluation.
 
@@ -203,33 +190,30 @@ During takeoff for a flight from Fussa in early 1944, one of the B-17Es was caug
 The postwar records of military vehicles discovered during the Allied Occupation of Japan do not mention finding captured B-17s, nor do they have any existing photographs of them from that period. Where the aircraft ended up after the war's end is a mystery.<ref>Mikesh, R., 2010. ''The Suprising Story of Japan's B-17 Fleet''. [online] HistoryNet. Available at: https://www.historynet.com/japans-fleet-flying-forts.htm [Accessed 7 July 2021].</ref>
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=b-17e_japan Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=b-17e_japan Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|JR-Yx4DojKg|'''Japanese B-17 Squadron''' - ''Mark Felton Productions''}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/devblog/current/666|[Devblog] Boeing B-17E]]
-- [https://www.historynet.com/japans-fleet-flying-forts.htm <nowiki>[Historynet]</nowiki> The Suprising Story of Japan's B-17 Fleet]
+* [[wt:en/devblog/current/666|[Devblog] Boeing B-17E]]
+* [https://www.historynet.com/japans-fleet-flying-forts.htm <nowiki>[Historynet]</nowiki> The Suprising Story of Japan's B-17 Fleet]
 
 === References ===
 <references/>
+
 
 {{AirManufacturer Boeing}}
 {{Japan bombers}}

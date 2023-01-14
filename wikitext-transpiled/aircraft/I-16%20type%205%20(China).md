@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -45,7 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-ratin
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -76,11 +73,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-ratin
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- No armour
-- Self-sealing fuel tanks (1 in front of pilot)
+* No armour
+* Self-sealing fuel tanks (1 in front of pilot)
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -89,19 +85,16 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-ratin
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|ShKAS (7.62 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 7.62 mm ShKAS machine guns, wing-mounted (900 rpg = 1,800 total)
+* 2 x 7.62 mm ShKAS machine guns, wing-mounted (900 rpg = 1,800 total)
 
 Like the [[I-16 Chung 28]], the I-16 type 5 only has two 7.62 mm machine guns, although they are of the improved ShKAS type. While it is not uncommon to see only two machine guns at this rank, it is still fairly weak compared to other aircraft, many of which have four 7.62 mm (or similar) machine guns, or even 12.7 mm MGs in some cases. Like the I-16 Chung 28, the type 5 has 900 rounds per gun for its two machine guns, however the ShKAS guns have over twice the fire rate of the old guns so you will get through it far faster. The guns are wing-mounted so convergence is a concern.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 ;Simulator:
@@ -120,9 +113,9 @@ Just like the SB 2M, the I-16 can still fly when it's extremely slow, causing it
 
 ;Enemies worth noting:
 
-- [[Ki-27 otsu|Ki-27]], [[N1K1]], [[He 51 (Family)|He 51]], [[Gladiator (Family)|Gladiator]], etc. - Those commonly seen planes are equally good at turnfights and will be a hard target to down since they are very small and agile. To deal with them you need to practice leading and deflection shots, plus manoeuvres like barrel rolls and scissors. They still need plenty of bullets to get damaged, so these kind of targets are the hardest to kill and requires great skills from the player.
+* [[Ki-27 otsu|Ki-27]], [[N1K1]], [[He 51 (Family)|He 51]], [[Gladiator (Family)|Gladiator]], etc. - Those commonly seen planes are equally good at turnfights and will be a hard target to down since they are very small and agile. To deal with them you need to practice leading and deflection shots, plus manoeuvres like barrel rolls and scissors. They still need plenty of bullets to get damaged, so these kind of targets are the hardest to kill and requires great skills from the player.
 
-- [[Sunderland Mk IIIa]] - This flying boat's huge fuselage is very spacious and can absorb lots of bullets and shells. It also has lethal defensive firepower: two 7.7 mm in the nose, four forward-facing, two on the top and four at the tail, so attacking from behind, in front or above aren't the best options. If you must attack it, dive under it and suddenly pull up to shoot its defenseless underpart. Aim at the large wings and engines, avoid shooting the fuselage. What will generally happen is that your bullets sprinkle sparks all over it bu they barely do anything.
+* [[Sunderland Mk IIIa]] - This flying boat's huge fuselage is very spacious and can absorb lots of bullets and shells. It also has lethal defensive firepower: two 7.7 mm in the nose, four forward-facing, two on the top and four at the tail, so attacking from behind, in front or above aren't the best options. If you must attack it, dive under it and suddenly pull up to shoot its defenseless underpart. Aim at the large wings and engines, avoid shooting the fuselage. What will generally happen is that your bullets sprinkle sparks all over it bu they barely do anything.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -142,30 +135,28 @@ Just like the SB 2M, the I-16 can still fly when it's extremely slow, causing it
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Excellent turning ability: with combat flaps deployed it can outturn [[He 112 (Family)|He 112]], [[He 100 D-1|He 100]], and even turn-fighters like the early [[Spitfire (Family)|Spitfire]]
-- Extreme roll rate allows it to do offensive / defensive scissors easily, which is an advantage over the He 112 / 100 as their roll rates aren't as good
-- 2 x ShKAS machine guns have good rate of fire, adequate velocity and accuracy, and plenty of ammo (900 rpg) allows for longer fights
-- Suspended armament provides rockets and bombs which, to an extent, allows some ground attack ability
-- It is a very short and small plane, offering the enemy a harder target to hit
-- Good climb rate
+* Excellent turning ability: with combat flaps deployed it can outturn [[He 112 (Family)|He 112]], [[He 100 D-1|He 100]], and even turn-fighters like the early [[Spitfire (Family)|Spitfire]]
+* Extreme roll rate allows it to do offensive / defensive scissors easily, which is an advantage over the He 112 / 100 as their roll rates aren't as good
+* 2 x ShKAS machine guns have good rate of fire, adequate velocity and accuracy, and plenty of ammo (900 rpg) allows for longer fights
+* Suspended armament provides rockets and bombs which, to an extent, allows some ground attack ability
+* It is a very short and small plane, offering the enemy a harder target to hit
+* Good climb rate
 
 '''Cons:'''
 
-- Extremely poor level speed, dive acceleration and energy retention- will get outran, out-climbed and out-dived easily by [[Bf 109 E-1|Bf 109 E]], [[He 100 D-1|He 100]]. It even struggles to keep up with bombers like [[He 111 (Family)|He 111]]
-- Weak MG is useless against most aircraft like [[Sunderland Mk IIIa|Sunderland]] and [[Do 17 Z-2|Do 17 Z]], or even early [[Bf 109 (Family)|Bf 109]].
-- Engine tends to overheat when diving at more than 500 km/h
-- Control surfaces are unresponsive over 450 km/h
-- No manual trim controls in simulator which makes it hard to handle
-- Although manoeuvrable, it can still get out-turned by the [[Ki-10 (Family)|Ki-10]] or biplanes like [[He 51 (Family)|He-51]]
-- Hard to fly in SB: very unstable in pitch, poor over-the-nose visibility and is prone to enter flat spins
+* Extremely poor level speed, dive acceleration and energy retention- will get outran, out-climbed and out-dived easily by [[Bf 109 E-1|Bf 109 E]], [[He 100 D-1|He 100]]. It even struggles to keep up with bombers like [[He 111 (Family)|He 111]]
+* Weak MG is useless against most aircraft like [[Sunderland Mk IIIa|Sunderland]] and [[Do 17 Z-2|Do 17 Z]], or even early [[Bf 109 (Family)|Bf 109]].
+* Engine tends to overheat when diving at more than 500 km/h
+* Control surfaces are unresponsive over 450 km/h
+* No manual trim controls in simulator which makes it hard to handle
+* Although manoeuvrable, it can still get out-turned by the [[Ki-10 (Family)|Ki-10]] or biplanes like [[He 51 (Family)|He-51]]
+* Hard to fly in SB: very unstable in pitch, poor over-the-nose visibility and is prone to enter flat spins
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 On the 7th July 1937, fighting broke out between Chinese and Japanese forces, starting the Second Sino-Japanese War. When the war began, the Chinese air force was using many obsolete aircraft, such as the [[Hawk III]], which were no match for the Japanese A5M fighters.<ref name="PolikarpovAces">Maslov and Postlethwaite 2013</ref> China rapidly signed the Sino-Soviet Non-Aggression Pact with the USSR, and as part of the agreement the Soviets began Operation Zet to secretly supply China with aircraft and pilots.
@@ -176,39 +167,34 @@ Between October 1937 and September 1939 the USSR delivered 885 aircraft (rising 
 A number Chinese aces flew the I-16; among them Lo Ying-Teh who in 1938 shot down Japanese unit leader Lt Ryohei Ushioda's A5M2 in his I-16 Type 5. Another ace to fly the I-16 was Liu Chi-Sheng who achieved 3 of his 10 kills while flying the I-16 Type 5, along with another shared kill.<ref name="ChinaAces">Cheung and Davey 2015</ref>
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=i-16_type5_1935_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=i-16_type5_1935_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/520551-i-16-type-5/ Official data sheet - more details about the performance]
-- [[Wikipedia:Polikarpov_I-16|[Wikipedia<nowiki>]</nowiki> Polikarpov I-16]]
-- [http://surfcity.kund.dalnet.se/china_ying-teh.htm Biplane fighter aces China - General Lo Ying-Teh]
-- [http://surfcity.kund.dalnet.se/china_chi-sheng.htm Biplane fighter aces China - Major General Liu Chi-Sheng]
-- [http://www.century-of-flight.freeola.com/Aviation%20history/WW2/aces/Liu%20Chi-Sheng.htm Aviation during World War 2 - Major General Liu Chi-Sheng]
+* [https://forum.warthunder.com/index.php?/topic/520551-i-16-type-5/ Official data sheet - more details about the performance]
+* [[Wikipedia:Polikarpov_I-16|[Wikipedia<nowiki>]</nowiki> Polikarpov I-16]]
+* [http://surfcity.kund.dalnet.se/china_ying-teh.htm Biplane fighter aces China - General Lo Ying-Teh]
+* [http://surfcity.kund.dalnet.se/china_chi-sheng.htm Biplane fighter aces China - Major General Liu Chi-Sheng]
+* [http://www.century-of-flight.freeola.com/Aviation%20history/WW2/aces/Liu%20Chi-Sheng.htm Aviation during World War 2 - Major General Liu Chi-Sheng]
 
 === References ===
 ;Citations
 <references/>
 
 ;Bibliography
-
-- Cheung, R., & Davey, C. (2015). Aces of the Republic of China Air Force. United Kingdom: Bloomsbury Publishing.
-- Maslov, M., & Postlethwaite, M. (2013). Polikarpov I-15, I-16 and I-153 Aces. United Kingdom: Bloomsbury Publishing.
+* Cheung, R., & Davey, C. (2015). Aces of the Republic of China Air Force. United Kingdom: Bloomsbury Publishing.
+* Maslov, M., & Postlethwaite, M. (2013). Polikarpov I-15, I-16 and I-153 Aces. United Kingdom: Bloomsbury Publishing.
 
 {{AirManufacturer Polikarpov}}
 {{China fighters}}

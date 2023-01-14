@@ -1,18 +1,15 @@
 {{Specs-Card
 |code=jp_type_75
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 The armour of Type 75 SPH resists 7.62 mm machine gun fire from any side and can sustain 12.7 mm rounds when angled from any side, however, the hull is made out of aluminium, so it's actual effective armour is around 15 mm. Because of that, the tank can be knocked out by large-calibre HE shells.
@@ -25,7 +22,7 @@ The right front side of the hull houses the driver. They are sealed away from tu
 
 '''Armour type:'''
 
-- Aluminium alloy 7039 (hull, turret)
+* Aluminium alloy 7039 (hull, turret)
 
 {| class="wikitable"
 |-
@@ -33,19 +30,18 @@ The right front side of the hull houses the driver. They are sealed away from tu
 |-
 | Hull || 30 mm (13°) ''Front glacis'' <br> 30 mm (52°) ''Lower glacis'' || 30 mm ''Top'' <br> 30 mm ''Bottom'' || 30 mm (1°) || 25 mm <br> 5 mm ''Radiators''
 |-
-| Turret || 30 mm (13-16°) ''Turret front'' <br> 30 mm ''Gun mantlet'' <br> 20 mm ''Barrel shroud'' || 30 mm (13-47°) || 30 mm (1°) || 25 mm <br> 30 mm ''Gun mantlet''
+| Turret || 30 mm (13-16°) ''Turret front'' <br> 30 mm ''Gun mantlet'' <br> 20 mm  ''Barrel shroud'' || 30 mm (13-47°) || 30 mm (1°) || 25 mm <br> 30 mm ''Gun mantlet''
 |-
 |}
 '''Notes:'''
 
-- Suspension wheels and tracks are 20 mm thick.
-- Belly armour is 25 mm thick.
-- Belly armour above tracks is 35 mm thick.
-- One 8 mm structural steel plate separates the engine compartment from the crew compartments.
+* Suspension wheels and tracks are 20 mm thick.
+* Belly armour is 25 mm thick.
+* Belly armour above tracks is 35 mm thick.
+* One 8 mm structural steel plate separates the engine compartment from the crew compartments.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp= 639|rbMinHp= 398}}
@@ -61,9 +57,7 @@ The problems start when the terrain is less than perfectly flat, as {{PAGENAME}}
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|NSJ L/30 (155 mm)}}
 
 [[File:Type 75 SPH firing over cover long range AB.jpg|thumb|x250px|right|In arcade mode, Type 75 SPH can act even as artillery - find a target about 1,200 meters away, go to sniper seat, aim at them, adjust the gun distance to their position and fire. There is nothing they can do about it because you can fire like this even over mountains. This trick is unlikely to work in RB due to inferior rangefinding capability.]]
@@ -92,7 +86,7 @@ When compared to the clearly similar artillery tanks, the {{PAGENAME}}'s weapon 
 ==== Ammunition ====
 '''M107''': Your stock HE shell. It can essentially destroy almost any tank that doesn't have ERA shielding in one hit. As with other HE tanks, like the [[Ho-Ro]], it can't penetrate armour directly on many tanks, so one has to aim for cupolas, machine guns, chassis and other weak spots. For example the [[M103]] have great frontal armour, but it can be simply shot at the turret base, and the shockwave will breach hull roof armour and hit the ammo rack located just below the turret in the hull, resulting in instant destruction.
 
-'''M107 (PF)''': Also an HE shell like the M107, but with a 3 m proximity fuse, so it does not explode upon impact but earlier instead, when the radio fuse (inside the shell) detects an obstacle nearby. Notice that this is a proximity fuse, and not a radio fuse. This means that the fuse will not detect the aircraft unless in immediate proximity (3 m radius).
+'''M107 (PF)''': Also an HE shell like the M107, but with a 3 m proximity fuse, so it does not explode upon impact but earlier instead, when the radio fuse (inside the shell) detects an obstacle nearby. Notice that this is a proximity fuse, and not a radio fuse. This means that the fuse will not detect the aircraft unless in immediate proximity (3 m radius). 
 
 '''Type 75''': This HE shell doesn't have a proximity fuse, but its muzzle velocity is faster, which make it more reliable at over 1 km range and allows for significantly easier and faster aim in RB. It was achieved by reducing its penetration power.
 
@@ -169,9 +163,7 @@ When compared to the clearly similar artillery tanks, the {{PAGENAME}}'s weapon 
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.1.0.85''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -181,24 +173,24 @@ When compared to the clearly similar artillery tanks, the {{PAGENAME}}'s weapon 
 ! 3rd<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''28''' || ''Projectiles'' <br> ''Propellants'' || 19&nbsp;''(+9)'' <br> 19&nbsp;''(+9)'' || 10&nbsp;''(+18)'' <br> 1&nbsp;''(+27)'' || 1&nbsp;''(+27)'' <br> N/A || No
+| '''28''' || ''Projectiles'' <br> ''Propellants'' || 19&nbsp;''(+9)'' <br> 19&nbsp;''(+9)''  || 10&nbsp;''(+18)'' <br> 1&nbsp;''(+27)''  || 1&nbsp;''(+27)'' <br> N/A || No
 |-
 |}
 '''Notes''':
 
-- Projectiles and propellant bags are modeled individually and disappear after having been shot or loaded.
-  Projectiles:
-- Racks 2 and 3 (autoloader magazines) are first stage ammo racks. They total 18 shells.
-- These racks get filled first when loading up the tank and are also emptied first.
-- As it is equipped with an autoloader, manual reloading of the gun is not possible.
-- Once the autoloader magazines have been depleted, you can't shoot until the loader has restocked the autoloader. The restocking time is longer than the normal reload time of the gun. Take this into account when playing.
-- Simply not firing when the gun is loaded will move ammo from rack 1 into racks 2 and 3. Firing will interrupt the restocking of the ready racks.
-- The depletion order at full capacity is: 2 - 3 - 1.
-  Propellants:
-- Rack 2 contains 18 propellant bags (14 from the forward rack + 4 from the rear rack)
-- Rack 1 contains only 10 bags on the rear rack.
-- Simply not firing when the gun is loaded will move ammo from rack 1 into rack 2. Firing will interrupt the restocking of the ready racks.
-- The depletion order at full capacity is: 2 - 1.
+* Projectiles and propellant bags are modeled individually and disappear after having been shot or loaded.
+Projectiles:
+* Racks 2 and 3 (autoloader magazines) are first stage ammo racks. They total 18 shells.
+* These racks get filled first when loading up the tank and are also emptied first.
+* As it is equipped with an autoloader, manual reloading of the gun is not possible.
+* Once the autoloader magazines have been depleted, you can't shoot until the loader has restocked the autoloader. The restocking time is longer than the normal reload time of the gun. Take this into account when playing.
+* Simply not firing when the gun is loaded will move ammo from rack 1 into racks 2 and 3. Firing will interrupt the restocking of the ready racks.
+* The depletion order at full capacity is: 2 - 3 - 1.
+Propellants:
+* Rack 2 contains 18 propellant bags (14 from the forward rack + 4 from the rear rack)
+* Rack 1 contains only 10 bags on the rear rack.
+* Simply not firing when the gun is loaded will move ammo from rack 1 into rack 2. Firing will interrupt the restocking of the ready racks.
+* The depletion order at full capacity is: 2 - 1.
 
 ==== Optics and night vision ====
 {| class="wikitable" style="text-align:center"
@@ -223,11 +215,11 @@ When compared to the clearly similar artillery tanks, the {{PAGENAME}}'s weapon 
 | X6 || N/A || N/A || N/A || Not Fitted ||
 |-
 ! Driver's View
-| X1 / 3PV || 800X600 || \_\_\_ || high || Not Fitted || Only useable with an upgrade
+| X1 / 3PV || 800X600 || ___ || high || Not Fitted || Only useable with an upgrade
 |-
 |}
 
-- Zoom level specified in X-ray. Type 75 SPH has optics similar to [[ST-A1]] and they are same as the German sniper scopes of the rank.
+* Zoom level specified in X-ray. Type 75 SPH has optics similar to [[ST-A1]] and they are same as the German sniper scopes of the rank.
 
 While optics are very powerful on this tank, they may be inconvenient to use in RB until the type 75 shell is researched due to low velocity of the standard shell. In arcade mode, unless you are trying to launch the top shell at a distance over 1,000 m it rarely matters.
 
@@ -237,9 +229,7 @@ Use Rangefinder and zero-in the gun distance manually wherever necessary to make
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|M2HB (12.7 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -252,10 +242,9 @@ Use Rangefinder and zero-in the gun distance manually wherever necessary to make
 |-
 |}
 
-- The roof mounted 12.7 mm M2HB machine gun can be used to repel hostile light tanks and low flying aircraft.
+* The roof mounted 12.7 mm M2HB machine gun can be used to repel hostile light tanks and low flying aircraft.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 This vehicle is very powerful with its high explosive and fuze shells, however it comes at a cost. The Type 75 is the very definition of a glass cannon: this vehicle is incredible at close range engagements, but can not snipe long distances as it is an artillery howitzer. It is recommended that you watch your surroundings as this vehicle has so little armour that machines guns alone can penetrate your armour. Used right, this vehicle can dominate the battlefield as its proximity fuze shell can easily take out an enemy behind cover.
@@ -274,29 +263,26 @@ It will also react to the ground surface, so try to overshoot your opponent so t
 Not every tank should be attacked with a proximity shell, as it's not always beneficial. For example, Soviet medium and heavy tanks do not have any glaring weak spots, which can be potentially hit by an airburst shockwave, so they should only be attacked by normal HE ammo. On contrary, their SPAA and light tanks are as vulnerable as they are dangerous, and so it is reasonable to try and spend some proximity shells to weed them out, instead of leaving your cover and risking being annihilated by suppressing fire.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Unlike almost all other heavy demolition tanks, like the [[FV4005]] and the [[2S3M]], the Type 75 has a fully automatic autoloader and will always reload about as fast as a medium tank
-- The low velocity of the stock shell makes it possible to fire from behind some hills while keeping most of the Type 75 hidden
-- Has the privilege of the proximity fuse shell, which allows tank destroyers to take out enemies behind cover and exploit their normally untouchable weaknesses
-- 8X to 16X zoom can be used to locate and annihilate hostile tanks, however, rangefinding and manual gun scope adjustments are necessary for comfortable use
-- Angled turret can sustain a point-blank fire of 12.7 mm and some damage can be taken without instantly exploding the tank or reducing reload speed down to 1.5 minutes like in the case of [[FV4005]], although an enemy should be kept on the left side to have a chance of survival
+* Unlike almost all other heavy demolition tanks, like the [[FV4005]] and the [[2S3M]], the Type 75 has a fully automatic autoloader and will always reload about as fast as a medium tank
+* The low velocity of the stock shell makes it possible to fire from behind some hills while keeping most of the Type 75 hidden
+* Has the privilege of the proximity fuse shell, which allows tank destroyers to take out enemies behind cover and exploit their normally untouchable weaknesses
+* 8X to 16X zoom can be used to locate and annihilate hostile tanks, however, rangefinding and manual gun scope adjustments are necessary for comfortable use
+* Angled turret can sustain a point-blank fire of 12.7 mm and some damage can be taken without instantly exploding the tank or reducing reload speed down to 1.5 minutes like in the case of [[FV4005]], although an enemy should be kept on the left side to have a chance of survival
 
 '''Cons:'''
 
-- Can be destroyed easily by large-calibre explosive shells or ATGM hitting the turret or the back of the tank, the operator can't be oblivious of their surroundings
-- Most of critical components and crew are located in the turret, meaning it can be destroyed or incapacitated in one good hit to the turret
-- Turret is rather slow, though movements are mostly smooth
-- 12.7 mm rounds have no problem penetrating the front of the turret
-- Noticeably bouncy when braking
+* Can be destroyed easily by large-calibre explosive shells or ATGM hitting the turret or the back of the tank, the operator can't be oblivious of their surroundings
+* Most of critical components and crew are located in the turret, meaning it can be destroyed or incapacitated in one good hit to the turret
+* Turret is rather slow, though movements are mostly smooth
+* 12.7 mm rounds have no problem penetrating the front of the turret
+* Noticeably bouncy when braking
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 Development of the Type 75 self-propelled howitzer began in the late 1960s, when Japan sought to procure a mobile self-propelled artillery unit alongside a smaller caliber SPG. This resulted in the creation of the Type 75 and Type 74, respectively.
 
 The Type 75's design was largely based on that of the existing Type 74 SPG and Type 73 APCs, sharing many components and even assembly lines, all in an effort to reduce costs and save resources. Development was split between two Japanese companies, with Mitsubishi Heavy Industries developing the chassis, while Japan Steel Works developed the turret and cannon.
@@ -310,32 +296,29 @@ The Type 75 has not yet participated in any combat operations during its service
 ''- From [[wt:en/news/6361-development-type-75-the-pulverizer-en/|Devblog]]''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_75 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_75 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|ux3UJ8qg8Go|'''The Shooting Range #268''' - ''Round Study'' section at 06:45 compares the rounds of the {{PAGENAME}}.|e2VsOCEhzy4|'''The Shooting Range #170''' - ''Metal Beasts'' section at 00:32 discusses the Type 75 SPH.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[2S3M]]
-- [[Bkan 1C]]
+* [[2S3M]]
+* [[Bkan 1C]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6361-development-type-75-the-pulverizer-en/|[Development] Type 75: The Pulverizer]]
+* [[wt:en/news/6361-development-type-75-the-pulverizer-en/|[Development] Type 75: The Pulverizer]]
 
 {{Manufacturer MHI}}
 {{Japan tank destroyers}}

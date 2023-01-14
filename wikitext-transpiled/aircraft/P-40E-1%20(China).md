@@ -12,9 +12,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]]. Other than the lovely emerald green camouflage, this P-40E-1 is identical to the [[P-40E-1|original US version]].
 
 Succeeding the [[P-66]] in the Chinese air tree, the P-40E-1 is not dissimilar, having good firepower and protection but rather average flying characteristics. Its six M2 Browning heavy machine guns, a typical armament for US fighters, pack a hefty punch and can rip targets apart despite being limited to early-war belts. It can also carry bombs for ground attack. While it is often outperformed by contemporary aircraft, the Warhawk is still a formidable opponent when flown carefully.
@@ -22,7 +20,6 @@ Succeeding the [[P-66]] in the Chinese air tree, the P-40E-1 is not dissimilar, 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 The P-40E-1 has a decent top speed for its rank, capable of outrunning most early monoplane fighters like the [[F2A (Family)|F2A Buffalo]], [[Ki-43-I]], [[He 112 (Family)|He 112]], and [[I-16 (Family)|I-16]]. However, the Bf 109Es can match or exceed its speed and certain planes like the [[C.202]], [[F4U-1A]], [[Ki-44-II hei]], and [[He 100 D-1]] will catch the P-40 easily. Turning ability is quite good at medium speeds, but it compresses above 600 km/h IAS and struggles to manoeuvre at low speeds, though the combat flaps help a lot. Roll is decent. Horizontal energy retention is quite good and vertical energy retention is mediocre. The main weaknesses of the P-40E-1 are related to its engine, which is rather underpowered for the weight of the plane. It does not climb well, the high altitude performance is lacklustre, and the engine like to run hot.
@@ -54,7 +51,7 @@ Like the P-66, the P-40E-1 has no particular strengths in its performance and is
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -85,9 +82,7 @@ Like the P-66, the P-40E-1 has no particular strengths in its performance and is
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 The P-40 E-1 has the same armour as its American counterpart, [[P-40E-1]]. 6.35 mm steel in front of the pilot, 8 mm steel behind the pilot, and 38 mm bulletproof glass in front of the pilot. The fuel tanks are self-sealing, with one being located under the pilot, and one in front of the previous fuel tank.
 
 === Modifications and economy ===
@@ -97,14 +92,12 @@ The P-40 E-1 has the same armour as its American counterpart, [[P-40E-1]]. 6.35 
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 6 x 12.7 mm M2 Browning machine guns, wing-mounted (312 rpg outer + 291 rpg mid + 240 rpg inner = 1,686 total)
+* 6 x 12.7 mm M2 Browning machine guns, wing-mounted (312 rpg outer + 291 rpg mid + 240 rpg inner = 1,686 total)
 
 The M2 Brownings have quite generous ammunition loads and will shred fighters, attackers, and bombers alike - only especially hardy aircraft like the [[IL-2 (Family)|IL-2]]s can reliably withstand more than a brief burst of accurate fire. Their accuracy when stock leaves some to be desired and unlocking the new machine guns upgrade makes them much more consistent. Compared to the P-66's twin M2 Brownings, these offer three times the burst mass but are limited to early-war belts. The loss of the M8 AP-I rounds leads to more difficulty in starting fires. The best belts to use against aircraft are Universal and Stealth since they contain M1 Incendiary rounds. The latter is the most lethal option since a third of its content consists of said rounds. For those who still want tracers to aim with, the Universal belt does the trick, though it only has 20% incendiary content.
 
@@ -112,22 +105,19 @@ Convergence is mostly up to personal preference, but the high velocity and good 
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AN-M30A1 (100 lb)|AN-M64A1 (500 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 100 lb AN-M30A1 bombs (200 lb total)
-- 1 x 500 lb AN-M64A1 bomb (500 lb total)
-- 1 x 500 lb AN-M64A1 bomb + 2 x 100 lb AN-M30A1 bombs (700 lb total)
+* Without load
+* 2 x 100 lb AN-M30A1 bombs (200 lb total)
+* 1 x 500 lb AN-M64A1 bomb (500 lb total)
+* 1 x 500 lb AN-M64A1 bomb + 2 x 100 lb AN-M30A1 bombs (700 lb total)
 
 The twin 100 lb bombs are very difficult to use. Against armoured vehicles they will need to land practically right on top of their target to cause damage. Unarmoured vehicles like SPAA trucks will suffer more, but at that point it is probably easier and safer to hose them down with the P-40's machine guns. The 500 lb bomb is of a more usable size and its centreline mounting makes it easy to deliver accurately.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 At the start of the match, climb to the side somewhat and gain some altitude. If using MEC, turn up the propeller pitch to 80-90% and open the radiators fully. When using WEP, the engine will overheat even with fully open radiators if the prop pitch is increased, but it can run hot for a while without taking damage. If the situation is safe and the engine needs to be cooled, ensure that the radiators are open and dial down the prop pitch and throttle. The P-40E-1's poor climb rate can be frustrating, but considering its poor high altitude performance, climbing to around 3,000 m or slightly higher should be enough.
@@ -158,10 +148,10 @@ For ground pounding, the P-40 can carry a bomb payload of 2 x 100 lb or 1 x 500 
 
 '''Enemies worth noting:'''
 
-- [[Bf 110 (Family)|Bf 110]], [[Ki-45 (Family)|Ki-45]], [[A-26 (Family)|A-26]]: These twin-engine aircraft are a big threat since their lack of manoeuvrability compared to single engine fighters is minimised in Sim. They are usually armed with heavy guns & cannons in the nose, so an accurate burst will tear any plane apart, including the P-40. Engage them with either altitude or speed advantage to avoid being targeted. If they are not manoeuvring aggressively, aim for their wings or engines. If the fight is intense and you cannot smooth the aim, just burst anywhere as long as you hit them, the 12.7 mm bullets will damage their flight models quite a bit.
-- [[H6K4]]: This bomber is a very spacious flying boat. It has a fairly deadly 20 mm defensive cannon facing backwards, so avoid tailing it from its six unless its gunner is unconscious. Engage from its sides or high six and aim for its wings. Your 6 x 12.7 mm MG will destroy its wing structures easily or set it aflame.
-- [[B18 (Family)|B18A/B]]: These planes are wolves in sheep's clothing. Their powerful 13.2 mm MG will easily snap the P-40's wing off with a short burst so avoid attacking them from behind. Utilise deflection shooting against them, to give their gunners little chance of targeting you.
-- [[A6M2|A6M]]: Never, ever, ever turn fight a Zero. Zeros are the natural and historical nemeses of Allied aircraft, they can manoeuvre much better than the P-40s and those 2 x 20 mm cannons can rip them to shreds. Instead, Boom & Zoom them - dive on the target and engage. Due to its lack of armour and large fuel tanks, the A6M is easy to destroy. Outrunning the A6M is not hard as it isn't a really high-speed plane, the P-40 can outrun it flat-out easily, so turn around after the Zero becomes a tiny black dot and try to head-on or start climbing then. The A6M might start to climb to try and gain energy- if you keep running from it, you will put enough space between you and your opponent to climb to an acceptable altitude, or re-group with allies or go to a nearby friendly airfield.
+* [[Bf 110 (Family)|Bf 110]], [[Ki-45 (Family)|Ki-45]], [[A-26 (Family)|A-26]]: These twin-engine aircraft are a big threat since their lack of manoeuvrability compared to single engine fighters is minimised in Sim. They are usually armed with heavy guns & cannons in the nose, so an accurate burst will tear any plane apart, including the P-40. Engage them with either altitude or speed advantage to avoid being targeted. If they are not manoeuvring aggressively, aim for their wings or engines. If the fight is intense and you cannot smooth the aim, just burst anywhere as long as you hit them, the 12.7 mm bullets will damage their flight models quite a bit.
+* [[H6K4]]: This bomber is a very spacious flying boat. It has a fairly deadly 20 mm defensive cannon facing backwards, so avoid tailing it from its six unless its gunner is unconscious. Engage from its sides or high six and aim for its wings. Your 6 x 12.7 mm MG will destroy its wing structures easily or set it aflame.
+* [[B18 (Family)|B18A/B]]: These planes are wolves in sheep's clothing. Their powerful 13.2 mm MG will easily snap the P-40's wing off with a short burst so avoid attacking them from behind. Utilise deflection shooting against them, to give their gunners little chance of targeting you.
+* [[A6M2|A6M]]: Never, ever, ever turn fight a Zero. Zeros are the natural and historical nemeses of Allied aircraft, they can manoeuvre much better than the P-40s and those 2 x 20 mm cannons can rip them to shreds. Instead, Boom & Zoom them - dive on the target and engage. Due to its lack of armour and large fuel tanks, the A6M is easy to destroy. Outrunning the A6M is not hard as it isn't a really high-speed plane, the P-40 can outrun it flat-out easily, so turn around after the Zero becomes a tiny black dot and try to head-on or start climbing then. The A6M might start to climb to try and gain energy- if you keep running from it, you will put enough space between you and your opponent to climb to an acceptable altitude, or re-group with allies or go to a nearby friendly airfield.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -181,28 +171,26 @@ For ground pounding, the P-40 can carry a bomb payload of 2 x 100 lb or 1 x 500 
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Heavy firepower against any opponent, even tank roof armour
-- Decent speed, especially at low altitudes
-- Good manoeuvrability at medium to high speeds
-- Rugged construction, pilot is well protected
-- Can carry up to 700 lbs of bombs (1 x 500 lb + 2 x 100 lb), quite useful in tank RB
+* Heavy firepower against any opponent, even tank roof armour
+* Decent speed, especially at low altitudes
+* Good manoeuvrability at medium to high speeds
+* Rugged construction, pilot is well protected
+* Can carry up to 700 lbs of bombs (1 x 500 lb + 2 x 100 lb), quite useful in tank RB
 
 '''Cons:'''
 
-- Underpowered and heavy, struggles to climb or regain energy
-- Engine runs hot
-- Poor high altitude performance
-- Outperformed by many contemporaries
-- Rather unstable in pitch axis in SB
-- Extremely bad visibility over the nose in SB
+* Underpowered and heavy, struggles to climb or regain energy
+* Engine runs hot
+* Poor high altitude performance
+* Outperformed by many contemporaries
+* Rather unstable in pitch axis in SB
+* Extremely bad visibility over the nose in SB
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The '''Curtiss P-40 Warhawk''' was a US monoplane fighter designed in the late 1930s. A derivative of the [[P-36 (Family)|P-36 Hawk]] series of fighters, the P-40 featured an inline engine and a fairly streamlined construction. While it suffered from poor high altitude performance, it proved to be a rugged platform with good high speed manoeuvrability. Maintenance and manufacturing were easy as well. Despite having a reputation as a substandard fighter, historical records suggest that the P-40 was quite effective overall, and it gave many Allied nations a fighting chance until newer and more advanced designs were available.
@@ -212,39 +200,35 @@ The P-40 was famous for its use by the American Volunteer Group (the "Flying Tig
 Little information exists about the fate of the Chinese P-40s after the conclusion of World War II. While it seems unlikely that the entire fleet would have been scrapped afterwards, the ROCAF received quantities of modern US aircraft such as the [[P-51D-20 (China)|P-51 Mustang]] and [[P-47D-28 (China)|P-47 Thunderbolt]] by the time the Chinese Civil War resumed. It does not appear that any P-40s were captured or operated by the Communists. In the present day, no Chinese-operated P-40s are known to exist.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=p-40e_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=p-40e_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
 
-- Curtiss [[P-36 (Family)|P-36]] Hawk
-- Curtiss [[P-40 (Family)]]
+* Curtiss [[P-36 (Family)|P-36]] Hawk
+* Curtiss [[P-40 (Family)]]
 
 ;Aircraft of comparable role, configuration and era
 
-- Grumman [[F4F (Family)|F4F]] Wildcat
-- Messerschmitt [[Bf 109 (Family)|Bf 109]]
-- Lavochkin-Gorbunov-Gudkov [[LaGG-3 (Family)|LaGG-3]]
-- Hawker [[Hurricane (Family)|Hurricane]]
-- Kawasaki [[Ki-61 (Family)|Ki-61]]
+* Grumman [[F4F (Family)|F4F]] Wildcat
+* Messerschmitt [[Bf 109 (Family)|Bf 109]]
+* Lavochkin-Gorbunov-Gudkov [[LaGG-3 (Family)|LaGG-3]]
+* Hawker [[Hurricane (Family)|Hurricane]]
+* Kawasaki [[Ki-61 (Family)|Ki-61]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.ru/index.php?/topic/206120-p-40e/ Official data sheet - more details about the performance (Russian Forum)]
+* [https://forum.warthunder.ru/index.php?/topic/206120-p-40e/ Official data sheet - more details about the performance (Russian Forum)]
 
 {{AirManufacturer Curtiss}}
 {{China fighters}}

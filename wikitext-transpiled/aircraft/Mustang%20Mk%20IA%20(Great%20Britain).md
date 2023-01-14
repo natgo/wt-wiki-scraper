@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
 The Mustang Mk IA is equipped in the same manner as the American [[P-51|original P-51]] with four 20 mm cannons in the wing and Allison engine. The Mustang Mk IA takes on a two-tone desert camouflage as default with a light blue underbelly, making it quite distinguishable in the airspace. Distinguishable identifications towards the Royal Air Force are seen with roundels on the wings and rear fuselage, with a red, white, blue fin flash.
@@ -19,7 +17,6 @@ The Mustang Mk IA is equipped in the same manner as the American [[P-51|original
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -47,7 +44,7 @@ The Mustang Mk IA is equipped in the same manner as the American [[P-51|original
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -78,13 +75,12 @@ The Mustang Mk IA is equipped in the same manner as the American [[P-51|original
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 38 mm Bulletproof glass - Armoured windscreen
-- 6.35 mm Steel plate in front of the engine
-- 6.35 mm Steel plate between the engine and pilot
-- 11.11 mm Steel plate behind the pilot
+* 38 mm Bulletproof glass - Armoured windscreen
+* 6.35 mm Steel plate in front of the engine
+* 6.35 mm Steel plate between the engine and pilot
+* 11.11 mm Steel plate behind the pilot
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -93,19 +89,15 @@ The Mustang Mk IA is equipped in the same manner as the American [[P-51|original
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Hispano Mk.II (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 20 mm Hispano Mk.II cannons, wing-mounted (125 rpg = 500 total)
+* 4 x 20 mm Hispano Mk.II cannons, wing-mounted (125 rpg = 500 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Mustang Mk-1A is similar to its bigger brother (or in some ways smaller) in the fact that it carries many good and bad traits. Interestingly, it inherits much of the advantages of the P-51D while adding some of its own good characteristics. High altitude performance is miserable, but it won't get there any time soon with the sluggish climb rate. Top speed is very good, yet achieving it can take some time due to the slow acceleration. Low-altitude manoeuvrability is decent.
 
 The Mk-1A is equipped with four Hispano 20 mm cannons, making it a formidable firing platform. However, these cannon will run out of ammo, due to the sparse 125 rpg. They will jam quickly too. Take advantage of the cannon though, because when compared to other nation's counterparts the MK-1A can make rapid kills of any plane. Air targets belts are recommended for experienced players; they possess the most HE shells out of any belt, but lack tracers. Unlike in the [[Typhoon_Mk_Ib/L|Typhoon]] series, the guns on the Mustang are mounted in close proximity, dealing a deadly double punch when hitting. Very similar to the [[Spitfire Mk Vc|Spitfire Mk.Vc]] which has 5 rounds per gun less than the Mustang.
@@ -132,30 +124,28 @@ A Mustang with altitude is a dangerous Mustang. Try to take out a Mustang, you m
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Punishing armament of four Hispano Mk.II
-- Amazing acceleration at low altitude
-- Good top speed
-- Good manoeuvrability (roll+pitch) at high speed (max @ 600 km/h)
-- High energy retention in level flight
-- Decent climb rate, until 3,000 m
-- Great RP and reward bonus due to premium status
+* Punishing armament of four Hispano Mk.II
+* Amazing acceleration at low altitude
+* Good top speed
+* Good manoeuvrability (roll+pitch) at high speed (max @ 600 km/h)
+* High energy retention in level flight
+* Decent climb rate, until 3,000 m
+* Great RP and reward bonus due to premium status
 
 '''Cons:'''
 
-- Rather low ammo, with 125 RPG
-- Loses a lot of energy in sustained turns
-- Poor engine performance at alt > 4,000 m
-- Engine overheats rather quickly
-- Poor backward visibility in simulator mode due to cockpit design
-- No G-Suit, can black out easily in high-speed manoeuvres
+* Rather low ammo, with 125 RPG
+* Loses a lot of energy in sustained turns
+* Poor engine performance at alt > 4,000 m
+* Engine overheats rather quickly
+* Poor backward visibility in simulator mode due to cockpit design
+* No G-Suit, can black out easily in high-speed manoeuvres
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -171,26 +161,24 @@ Generally regarded as the greatest American fighter of the Second World War, Mus
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=p-51b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=p-51b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.ru/index.php?/topic/277120-mustang-mk-ia/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.ru/index.php?/topic/277120-mustang-mk-ia/ Official data sheet - more details about the performance]
 
 {{AirManufacturer NAA}}
 {{Britain fighters}}

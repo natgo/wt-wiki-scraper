@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet fighter {{Battle-rating}}. It was introduced in [[Update 1.51 "Cold Steel"]].
 
 A modified Lend-Lease Hurricane, this Soviet take on the famous British fighter boasts enhanced firepower. Twin 20 mm ShVAK cannons and 12.7 mm Berezin UB machine guns give this machine a potent bite and the Hurricane's good turning capabilities make it a powerful opponent in frantic dogfights. However the Hurricane chassis has not quite kept up with its contemporaries and getting into a position to use its strengths can be tricky. Still, for those who want a rugged turnfighter with great firepower, the Hurricane does the job.
@@ -19,7 +17,6 @@ A modified Lend-Lease Hurricane, this Soviet take on the famous British fighter 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -51,7 +48,7 @@ What the Hurricane does well is sustained turning. The horizontal manoeuvring en
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -104,14 +101,13 @@ What the Hurricane does well is sustained turning. The horizontal manoeuvring en
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 38 mm Bulletproof glass in the cockpit front
-- 12.7 mm Steel plate in the pilot's rear
-- 6.35 mm Steel plate between the top fuel tank and oil cooling system
-- Critical components located at the front of aircraft (fuel, pilot, engine, controls)
-- More fuel tanks located in wings near the fuselage
+* 38 mm Bulletproof glass in the cockpit front
+* 12.7 mm Steel plate in the pilot's rear
+* 6.35 mm Steel plate between the top fuel tank and oil cooling system
+* Critical components located at the front of aircraft (fuel, pilot, engine, controls)
+* More fuel tanks located in wings near the fuselage
 
 The Hurricane has fairly good protection for the pilot, who is unlikely to be knocked out by rifle-calibre machine guns. The rest of the airplane is sturdy due to its steel tube construction and can soak up a surprising amount of damage provided that the fuel tanks are not set on fire. The inline engine is quite vulnerable to damage however, so be careful in head-ons.
 
@@ -122,15 +118,13 @@ The Hurricane has fairly good protection for the pilot, who is unlikely to be kn
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|ShVAK (20 mm)|Berezin UB (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 20 mm ShVAK cannons, wing-mounted (120 rpg = 240 total)
-- 2 x 12.7 mm Berezin UB machine guns, wing-mounted (120 rpg = 240 total)
+* 2 x 20 mm ShVAK cannons, wing-mounted (120 rpg = 240 total)
+* 2 x 12.7 mm Berezin UB machine guns, wing-mounted (120 rpg = 240 total)
 
 The ShVAK cannons are not synchronized as on the [[La-5]] and are not limited to early belts as on the [[I-16 type 27]]. With some careful aim they will do good work against contemporary fighters. The best belts to use are Default and Armoured Targets. Avoid belts containing HE rounds, as they have less explosive content than the FI-T rounds and deal little damage.
 
@@ -140,21 +134,18 @@ The main issue with the Hurricane's armament is the limited ammunition supply, e
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|RS-82|RBS-82}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 6 x RS-82 rockets
-- 6 x RBS-82 rockets
+* Without load
+* 6 x RS-82 rockets
+* 6 x RBS-82 rockets
 
 The Soviet Hurricane uses Soviet RS/RBS-82 rockets instead of the traditional British RP-3. The RS-82 rockets do not have as much explosive as the RP-3 and their utility against ground or air targets is limited. The RBS-82 rockets can pierce armour and a successful penetration will usually annihilate any ground target. They require some practice to use due to their wing placement, questionable ballistics, and the necessity of scoring a direct hit.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 Although a highly successful and popular fighter, by 1940 the Hurricane Mk I was already showing itself to be inferior to enemy fighters such as the Messerschmitt 109. Experience from the Battle of Britain had also proved that the Hurricane's rifle-calibre 0.303 machine guns were inferior to larger calibre weapons being operated by enemy aircraft.
@@ -163,7 +154,7 @@ The Hurricane II was developed by adding the 1,280 HP Rolls Royce Merlin XX engi
 
 The aircraft arrived via Lend-lease in Russia during the early stages of the Great Patriotic War (1941-1942). Before putting the Hurricane into service, the Soviets replaced the 7.7 mm Brownings with their indigenous 2 x 12.7 mm Berezin-UB MGs and 2 x 20 mm ShVAK cannons. This armament proved to be much more powerful, even surpassing its contemporary rivals, such as the Bf 109 F, in weight of fire. The Soviet Hurricane had far more weight of fire than its Commonwealth counterpart and this is why it resides at its rank position, much like the [[Sea_Hurricane_Mk_IС|Sea Hurricane Mk IC]] and its four Hispano 20 mm cannons.
 
-In battle, the Hurricane does not have sufficient performance to beat such formidable enemies as the Bf 109 F-4 or P-63C-5 in a 1 vs 1 duel, particularly when in an up-tier situation. The pilot should climb at an angle between 250-270 kph IAS, while slightly side climbing. This will almost always prevent you from being the first person engaged and leave you above the ball of dogfighters mixing it up at the lower altitudes. From here pick on targets of opportunity, those low on energy or wounded. Here you can benefit your team by using your heavy armament (double that of a typical Soviet fighter at this rank) to quickly dispatch these targets before escaping. Bear in mind your low ammo count; only 120 RPG on the machine guns, half of most fighters. While the Hurricane can outturn many other fighters if forced into a 1 vs 1, against both Allied (Spitfire) and Axis (A6M, Ki-44, Ki-43) there will almost always be another plane which can outturn it. Here you want to pick your battles while turning with some and with others extending away to reclaim an energy advantage and try again.
+In battle, the Hurricane does not have sufficient performance to beat such formidable enemies as the Bf 109 F-4 or P-63C-5 in a 1 vs 1 duel, particularly when in an up-tier situation.  The pilot should climb at an angle between 250-270 kph IAS, while slightly side climbing.  This will almost always prevent you from being the first person engaged and leave you above the ball of dogfighters mixing it up at the lower altitudes.  From here pick on targets of opportunity, those low on energy or wounded.  Here you can benefit your team by using your heavy armament (double that of a typical Soviet fighter at this rank) to quickly dispatch these targets before escaping.  Bear in mind your low ammo count; only 120 RPG on the machine guns, half of most fighters.  While the Hurricane can outturn many other fighters if forced into a 1 vs 1, against both Allied (Spitfire) and Axis (A6M, Ki-44, Ki-43) there will almost always be another plane which can outturn it. Here you want to pick your battles while turning with some and with others extending away to reclaim an energy advantage and try again.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -183,27 +174,25 @@ In battle, the Hurricane does not have sufficient performance to beat such formi
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Strong armament compared to contemporaries
-- Small turn radius at low speeds
-- Can carry rockets for ground attack
-- Excellent over-the-nose visibility ensures easy tracking and leading in cockpit view
-- Very smooth handling in simulator
+* Strong armament compared to contemporaries
+* Small turn radius at low speeds
+* Can carry rockets for ground attack
+* Excellent over-the-nose visibility ensures easy tracking and leading in cockpit view
+* Very smooth handling in simulator
 
 '''Cons:'''
 
-- Low top speed
-- Bad roll rate
-- Bad acceleration and dive characteristics
-- Vulnerable to Boom & Zoom aircraft such as the P-47
-- Limited ammunition
+* Low top speed
+* Bad roll rate
+* Bad acceleration and dive characteristics
+* Vulnerable to Boom & Zoom aircraft such as the P-47
+* Limited ammunition
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 Right after Hitler invaded the Soviet Union in June 1941, Britain offered immediate assistance and send a wing with two Hurricane equipped squadrons to Murmansk in September. The Brits were happily welcomed near the front-line by their Soviet Hosts. Flt Lt. Jack Ross, who recently gained ace status, wrote in his memoirs: "The whole wing passed out completely after drinking vodka. I was so bad I completely missed the concert given in our honour."<ref name="'hurri1">[https://ospreypublishing.com/hurricane-aces-1941-45], Thomas, ''Hurricane Aces 1941–45'', (2003), Aircraft of the Aces Series No.57, Osprey Publishing Ltd.</ref> During the deployment, No. 151 Wing got quite some action, before defensive patrols and training duty became predominant. Many Soviet pilots were trained by the Brits, before the Hurricanes were handed over to the Soviets on 18 October. The Wing has scored 15 kills for the loss of one aircraft.
@@ -221,30 +210,26 @@ Another reason for the negative attitude towards the Hurricane was that Soviet f
 To sum up this analysis of the Hurricane, it was a fighter whose combat, and flying characteristics enabled it to stand above its contemporaries in the Red Army Air Force inventory during the first half of 1942. Thanks to these traits, most combat reports from Soviet fighter regiments of the period highlighted the aircraft's positive combat characteristics. The Hurricane can, therefore, be described as a fighter that fully met the demands of the air war being fought in the complex circumstances of the Soviet-German front in 1942. It was simple to fly, did not require special training and was able to operate from airstrips in the field. Pilots with little training not only became rapidly familiar with the aircraft but could also fly it confidently, and were able, with the improved Soviet armament installed in the Hurricane IIB, to shoot down enemy bombers. They could also successfully engage any hostile aircraft.<ref name="'hurri2" />
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=hurricanemkii_ussr Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=hurricanemkii_ussr Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|6X5b8gQFLBo|'''Premium Series, Russian Hurricane Mk II. Splitting guns is vital!''' - ''Joseph 2000''|e1e7dEJigJQ|'''The Shooting Range #74''' - ''Pages of History'' section at 08:08 recounts the destruction of a large Ju 87 formation by a few Hurritons in 1942.|2JpeO4QgcWY|'''Pages of History: Hawker Chariton''' - ''War Thunder Official Channel''|jxEnC_O1qAI|'''Arcade: Hurricane Mk IIB Premium Review''' - ''Jengar''}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/3361--en|[Vehicle Profile] Soviet Hurricane Mk. IIB]]
-- [[wt:en/devblog/current/798|[Devblog] Hurricane Mk. IV and Mk. IIB]]
+* [[wt:en/news/3361--en|[Vehicle Profile] Soviet Hurricane Mk. IIB]]
+* [[wt:en/devblog/current/798|[Devblog] Hurricane Mk. IV and Mk. IIB]]
 
 === References ===
 <references />

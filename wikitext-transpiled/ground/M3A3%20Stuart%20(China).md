@@ -12,15 +12,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese light tank {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 {| class="wikitable"
@@ -35,14 +32,13 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese light tank {{Battle-ra
 
 '''Notes:'''
 
-- Suspension wheels, tracks and bogies are 15 mm thick.
-- Mudguards and rear storage box are 4 mm thick
+* Suspension wheels, tracks and bogies are 15 mm thick.
+* Mudguards and rear storage box are 4 mm thick
 
 The frontal armour on the {{Specs|pseudonym}} is pretty tough for a light tank with 25 mm on the front & sides of the hull, and a large, 50 mm thick gun mantlet covering up most of its frontal turret. When angled correctly it can bounce off quite a few shots. However it can still be easily penetrated by average guns on its BR. From the front the 4 crews are sitting pretty close together, thus making it highly possible to get knocked out by shells with explosives like the Soviet 45 mm AP or the German short 75 mm APHE. The transmission and the engine are all quite small and low, and the ammoracks are also small, reducing the chance of being immobile or ammoracked. There is also an empty area under the turret crews and in front of the driving compartment, which will absorb those shells with weak damage.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=406|rbMinHp=232}}
@@ -64,9 +60,7 @@ Light and medium obstacles (fences, posts, bushes and small trees) are not a pro
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|M6 (37 mm)}}
 
 The {{Specs|pseudonym}} is armed with a 37 mm cannon as its main armament, the same gun as the preceding [[M8 LAC (China)|M8]]. While being at a BR 1.3 higher, the gun still packs a fierce punch if aiming at the correct area and firing at the correct distance. It is a small calibre fast-firing gun with a maximum penetration of 84 mm at 100 m (M51B1 shell), being able to penetrate most of the opponents it will face. The penetration power and gun accuracy drop a lot beyond 500 m and become unreliable past 700 m. The gun is equipped with a vertical stabiliser, giving the {{Specs|pseudonym}} a huge advantage in some cases as you can fire precisely while moving, but keep in mind that it activates only when the tank is driving under 10 km/h.
@@ -92,8 +86,8 @@ While it lacks the post-penetration damage to disable most enemies in one shot, 
 ==== Ammunition ====
 The {{PAGENAME}} has a limited choice of ammunition, focused on dealing with armoured vehicles:
 
-- '''M74B1''': AP; a solid shot with good penetration but no explosive filler.
-- '''M51B1''': APCBC; a solid shot with an even better penetration thanks to the ballistic cap but no explosive filler.
+* '''M74B1''': AP; a solid shot with good penetration but no explosive filler.
+* '''M51B1''': APCBC; a solid shot with an even better penetration thanks to the ballistic cap but no explosive filler.
 
 Knowledge of enemy vehicle layouts is essential with ammunition lacking post-penetration explosive damage. Make sure to target modules and crew positions to maximise the damage. Disabling the enemy gunner on your first shot will be critical to win engagements as you'll most likely need several shots to destroy an enemy vehicle.
 
@@ -133,9 +127,7 @@ Knowledge of enemy vehicle layouts is essential with ammunition lacking post-pen
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -151,19 +143,17 @@ Knowledge of enemy vehicle layouts is essential with ammunition lacking post-pen
 
 Notes:
 
-- Only 144 shells are modeled in the racks 1 to 4.
-- The 1st rack contains 13 shells but empties after having fired 43 shells.
-- The 2nd rack contains 52 shells but empties after having fired 44 shells.
-- The 3rd rack contains 24 shells but empties after having fired 43 shells.
-- The 4th rack contains 55 shells but empties after having fired 44 shells.
-- To go into battle with the turret and the flanks empty of ammo, pack 44&nbsp;''(+130)'' shells (racks 1 to 3 emptied).
+* Only 144 shells are modeled in the racks 1 to 4.
+* The 1st rack contains 13 shells but empties after having fired 43 shells.
+* The 2nd rack contains 52 shells but empties after having fired 44 shells.
+* The 3rd rack contains 24 shells but empties after having fired 43 shells.
+* The 4th rack contains 55 shells but empties after having fired 44 shells.
+* To go into battle with the turret and the flanks empty of ammo, pack 44&nbsp;''(+130)'' shells (racks 1 to 3 emptied).
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|M1919A4 (7.62 mm)}}
 
 The {{Specs|pseudonym}} has two 7.62 mm M1919A4 machine guns, one being coaxial to the main gun and the other roof mounted on the right side of the turret. The two machine guns can quickly incapacitate the exposed crews on some vehicles or do some serious damage to those low-passing planes. However it lacks the ability to effectively damage even lightly armoured vehicles due to its low penetration of only 10 mm.
@@ -181,7 +171,6 @@ The {{Specs|pseudonym}} has two 7.62 mm M1919A4 machine guns, one being coaxial 
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The {{Specs|pseudonym}} is best used as a point-capper and a hit-n-run tank. Its extreme mobility gives the player uncountable ways to play with the enemy. At the start of a battle, it can quickly cap a nearby point first, but note that some wheeled vehicles, like the [[Sd.Kfz.234/2|Sd.Kfz.234]] series, can still outrun the M3 on-road, therefore posing a great threat. Or it can get to an ambush position near the point and wait until the prey comes. With its reliable gun, the M3 should be able to destroy the first wave of enemies easily and quickly.
@@ -201,72 +190,65 @@ For the Matilda III, shoot at the middle of the near-vertical frontal plate to k
 For the B1, either aim for the near-vertical frontal armour plate at the right side of the hull, or the turret ring to incapacitate the commander/gunner, or simply move to its side and knock out the crews one by one by hitting its flat side armour.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great cannon with good penetration, excellent rate of fire and gun depression; it can effectively penetrate common opponents like the [[Pz.II (Family)|Pz.II]] and [[Chi-Ha (Family)|Chi-Ha]], as well as heavy targets like the [[B1 bis]] or [[Matilda III]]
-- Excellent acceleration, top speed and turning ability on all terrains; easily outruns slower opponents like the [[Pz.III (Disambiguation)|Pz.III]]
-- Access to a vertical stabiliser which most tanks don't have, it is an advantage in close quarter encounters
-- Respectable frontal armour that, if angled, might bounce some shells from a distance (e.g. Japanese 37 mm/German 20 mm)
-- Small turret profile makes it harder to get hit when hull-down
-- Empty space below the turret crew can absorb poorly aimed shots, they tend to not do much damage
-- Access to smoke grenades
+* Great cannon with good penetration, excellent rate of fire and gun depression; it can effectively penetrate common opponents like the [[Pz.II (Family)|Pz.II]] and [[Chi-Ha (Family)|Chi-Ha]], as well as heavy targets like the [[B1 bis]] or [[Matilda III]]
+* Excellent acceleration, top speed and turning ability on all terrains; easily outruns slower opponents like the [[Pz.III (Disambiguation)|Pz.III]]
+* Access to a vertical stabiliser which most tanks don't have, it is an advantage in close quarter encounters
+* Respectable frontal armour that, if angled, might bounce some shells from a distance (e.g. Japanese 37 mm/German 20 mm)
+* Small turret profile makes it harder to get hit when hull-down
+* Empty space below the turret crew can absorb poorly aimed shots, they tend to not do much damage
+* Access to smoke grenades
 
 '''Cons:'''
 
-- Weak armour against high-penetration shells like 50 mm KwK39 or 76 mm F-34
-- Its shells do not have explosive filler, severely limiting the post-penetration effect especially against spacious tanks like the [[LVT(A)(1)]]
-- Inefficient brakes when trying to stop the tank at full speed
-- Hull is fairly tall for a light tank and the crews are closely packed, reducing its survivability
+* Weak armour against high-penetration shells like 50 mm KwK39 or 76 mm F-34
+* Its shells do not have explosive filler, severely limiting the post-penetration effect especially against spacious tanks like the [[LVT(A)(1)]]
+* Inefficient brakes when trying to stop the tank at full speed
+* Hull is fairly tall for a light tank and the crews are closely packed, reducing its survivability
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The M3A3 Stuart was a substantially exported tank from the United States. Due to its proven capabilities in all theatres of the Second World War, it found itself on the battlefields of Eastern Asia. The Republic of China were supplied with over one thousand M3A3 Stuarts, making them a prolific user of the Stuart.<ref name=":0">http://www.tankarchives.ca/2017/05/light-tank-m3a3-american-emigrant.html</ref> Some tanks during the late war use were retrofitted with light up-armour packages to further protect the front and sides of the tank thus extending its service life.<ref name=":0" /> By 1946, the Kuomintang Armoured Corps were still operating at least 116 Stuart light tanks.<ref>https://tanks-encyclopedia.com/ww2/china/chinese-tanks-1925-1950/</ref>
 
 The use of this tank would continue post-war into the Chinese civil war. M3A3 Stuarts served with both Kuomintang and Communist Party forces until at least 1949 when the Civil war concluded in Communist Party victory. The Kuomintang were able to transport tanks over the East China Sea as they escaped to Taiwan.<ref name=":0" /> Some of these tanks remain today in museums in both China and Taiwan.
 
-In the South Shandong campaign in January 1947, the Shandong and Central China Field Army wiped out the 26th Division and the First Fast Column of the Kuomintang equipped with U.S. armaments, and captured one M3A3 light tank<ref>http://eng.jb.mil.cn/Collections/Cultural_1/Liberation/202005/t20200513_45144.html</ref>. The tank was later put into the East China Field Army tank unit and participated in the Jinan Campaign and the Huaihai Campaign. In the battle of Yonggumen in the Jinan Campaign, crew Shen Xu drove this tank and completed his combat mission successfully. After the war, this tank was awarded the title of "Memorial Tank" and Shen Xu was known as the "Iron Man Hero."<ref>http://www.jb.mil.cn/zgww/201710/t20171016_37067.html</ref> In 1959, this M3A3 was transferred from the First Tank School to The Military Museum of The Chinese People's Revolution, where it is still on display today.
+In the South Shandong campaign in January 1947, the Shandong and Central China Field Army wiped out the 26th Division and the First Fast Column of the Kuomintang equipped with U.S. armaments, and captured one M3A3 light tank<ref>http://eng.jb.mil.cn/Collections/Cultural_1/Liberation/202005/t20200513_45144.html</ref>. The tank was later put into the East China Field Army tank unit and participated in the Jinan Campaign and the Huaihai Campaign. In the battle of Yonggumen in the Jinan Campaign, crew Shen Xu drove this tank and completed his combat mission successfully. After the war, this tank was awarded the title of "Memorial Tank" and Shen Xu was known as the "Iron Man Hero."<ref>http://www.jb.mil.cn/zgww/201710/t20171016_37067.html</ref>  In 1959, this M3A3 was transferred from the First Tank School to The Military Museum of The Chinese People's Revolution, where it is still on display today.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=cn_m3a3_stuart Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=cn_m3a3_stuart Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|1yg1DAEbG8A|'''The Stuart Family''' discusses the {{PAGENAME}} at 3:43 - ''War Thunder Official Channel''|UeWtClTh1ew|'''Spade Review, {{PAGENAME}}. An amazingly fun tank!''' - ''Joseph 2000''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
-
-- [[M5 Stuart (Family)]]
-- [[M8 General Scott (Family)]]
+* [[M5 Stuart (Family)]]
+* [[M8 General Scott (Family)]]
 
 ;Other vehicles of similar configuration and role
-
-- [[A13 Mk II 1939]]
+* [[A13 Mk II 1939]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wikipedia:M3_Stuart|[Wikipedia] M3 Stuart]]
-- [https://tanks-encyclopedia.com/ww2/US/M3_stuart.php <nowiki>[Tanks Encyclopedia]</nowiki> Light Tank M3 Stuart]
-- [http://eng.jb.mil.cn/Collections/Cultural_1/Liberation/202005/t20200513_45144.html "M3A3 Light Tank Seized by East China Field Army in the Battle of Southern Shandong." ''Military Museum of Chinese People's Revolution'']
-- [http://www.jb.mil.cn/zgww/201710/t20171016_37067.html ''功勋坦克/Meritorious Tank''. www.jb.mil.cn/zgww/201710/t20171016_37067.html.]
+* [[wikipedia:M3_Stuart|[Wikipedia] M3 Stuart]]
+* [https://tanks-encyclopedia.com/ww2/US/M3_stuart.php <nowiki>[Tanks Encyclopedia]</nowiki> Light Tank M3 Stuart]
+* [http://eng.jb.mil.cn/Collections/Cultural_1/Liberation/202005/t20200513_45144.html "M3A3 Light Tank Seized by East China Field Army in the Battle of Southern Shandong." ''Military Museum of Chinese People's Revolution'']
+* [http://www.jb.mil.cn/zgww/201710/t20171016_37067.html ''功勋坦克/Meritorious Tank''. www.jb.mil.cn/zgww/201710/t20171016_37067.html.]
 
 === References ===
 <references />

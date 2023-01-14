@@ -8,13 +8,11 @@
 }}
 {{Specs-Card
 |code=germ_pzkpfw_V_ausf_a_panther
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' ('''{{Specs|pseudonym}}''') ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 171''') is a rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41.
 
 Like any Panther, the Panther A features a broad, sloping upper glacis, and the curved gun mantle. Its main distinguishing factors from the [[Panther D]] or the [[Panther G]] are; A new cupola (compared to the Ausf. D), and the normal, rounded gun mantle (compared to the chinned one on the Ausf. G).
@@ -22,17 +20,15 @@ Like any Panther, the Panther A features a broad, sloping upper glacis, and the 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 Due to its weak side armour (20 mm autocannons can penetrate it), flanking is the best option to deal with any Panther. However, should the Panther be forced to face it frontally, shoot the right turret cheek to take out the gunner. This is one of the weakest places frontally, only ("only") 100 mm thick. Heavier guns such as the 17-pdr can penetrate the lower glacis at short ranges, and any large calibre (100 mm and up) can penetrate the upper glacis.
 
 Any British tank that fires APDS can penetrate the upper glacis. The 17-pounder can sometimes go through the lower glacis at shorter ranges too. Any standard AP or APHE shell of a calibre above the 80-90 mm range (aka 100 mm and above) will penetrate the Panther anywhere frontally.
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (Gun mantlet, Cupola)
+* Rolled homogeneous armour
+* Cast homogeneous armour (Gun mantlet, Cupola)
 
 {| class="wikitable"
 |-
@@ -47,12 +43,11 @@ Any British tank that fires APDS can penetrate the upper glacis. The 17-pounder 
 |}
 '''Notes:'''
 
-- Tracks and lower side of the hull are covered by 5 mm thick armour plate, protecting them from HEAT and HE shells.
-- Rear parts of the upper side hull armour have tracks attached to it, adding additional 20 mm of armour.
+* Tracks and lower side of the hull are covered by 5 mm thick armour plate, protecting them from HEAT and HE shells.
+* Rear parts of the upper side hull armour have tracks attached to it, adding additional 20 mm of armour.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=930|rbMinHp=531|AoAweight=0.45}}
@@ -64,9 +59,7 @@ Any British tank that fires APDS can penetrate the upper glacis. The 17-pounder 
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|KwK42 (75 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -126,9 +119,7 @@ Any British tank that fires APDS can penetrate the upper glacis. The 17-pounder 
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -152,14 +143,12 @@ Any British tank that fires APDS can penetrate the upper glacis. The 17-pounder 
 |}
 '''Note''':
 
-- Turret and large sides empty: 31&nbsp;''(+48)'' shells.
+* Turret and large sides empty: 31&nbsp;''(+48)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|MG34 (7.92 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -175,9 +164,7 @@ Any British tank that fires APDS can penetrate the upper glacis. The 17-pounder 
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 As with all other Panther-series medium tanks, it is best played in a supporting role or as a front-line offensive tank due to its agility. The cannon mounted is more than forgiving and powerful enough to destroy any potential target, so use it to an advantage; long-range shooting is effective as the muzzle velocity is extremely high, owing to the long-barreled 75 mm, the penetration values are more than capable of punching through any opposing armour, and the shell weight will, if the shell penetrates, consistently deal decent amounts of crew and module damage, if not immediately make the target on combat ineffective.
 
 This tank, however, owing to its "mailbox" gun mantlet design, is not good combatant frontally, especially at its BR; many enemy tanks will find the gun mantlet a juicy target. Never engage in extended frontal skirmishes with enemy tanks; instead, use the high mobility as much as possible. Don't stay in one place as much as possible, shoot and scoot before the enemy can react shoot through the mantlet.
@@ -191,36 +178,33 @@ This tank, however, owing to its "mailbox" gun mantlet design, is not good comba
 '''Heavy tank/tank destroyer''': an enemy Panther A can be a very tough target to wipe out if the friendly team consists mostly of light/medium vehicles, so heavy tanks or tank destroyers who can frontally penetrate a Panther become very significant. Vehicles with powerful cannons, such as the [[IS-2 (Family)|IS-2]] and [[Ikv 103]] can all punch through the upper front plate of a Panther easily. It is better to target the UFP if the Panther is not angling, since the turret is smaller thus harder to hit.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Excellent cannon has a range of ammo for any type of enemy: great stock AP for common targets (eg. [[T-34-85]], [[M4 Sherman (Family)|M4 Sherman]] or even the [[M4A3E2]]), piercing APCR for early cold war tanks (e.g. [[M26 (Family)|M26]], [[T-44]], early [[Centurion (Family)|Centurions]]) and HE for light vehicles. Great accuracy and velocity allows easy long-range sniping. Plenty of ammo capacity allows flexible ammo setups
-- Heavily armoured frontal hull is immune to most guns at 5.7 like the 85 mm D-5T and 76 mm M1
-- Almost 300% faster turret rotation than the previous D model. Is more responsive to flankers
-- Fast top speed, good hull traverse. Can get to positions in time
-- Engine has 50 more horsepower compared to the D variant, acceleration is noticeably faster and is on par, if not slightly faster, than T-34s
-- Adequate gun depression of -8° adapts most terrains well
-- Reasonably cheap repair cost
-- Has a wide range of good-looking camouflage to unlock. Suitable for almost every terrain
+* Excellent cannon has a range of ammo for any type of enemy: great stock AP for common targets (eg. [[T-34-85]], [[M4 Sherman (Family)|M4 Sherman]] or even the [[M4A3E2]]), piercing APCR for early cold war tanks (e.g. [[M26 (Family)|M26]], [[T-44]], early [[Centurion (Family)|Centurions]]) and HE for light vehicles. Great accuracy and velocity allows easy long-range sniping. Plenty of ammo capacity allows flexible ammo setups
+* Heavily armoured frontal hull is immune to most guns at 5.7 like the 85 mm D-5T and 76 mm M1
+* Almost 300% faster turret rotation than the previous D model. Is more responsive to flankers
+* Fast top speed, good hull traverse. Can get to positions in time
+* Engine has 50 more horsepower compared to the D variant, acceleration is noticeably faster and is on par, if not slightly faster, than T-34s
+* Adequate gun depression of -8° adapts most terrains well
+* Reasonably cheap repair cost
+* Has a wide range of good-looking camouflage to unlock. Suitable for almost every terrain
 
 '''Cons:'''
 
-- Gun mantlet is only 100 mm thick, a huge and well-known weak spot to shoot at
-- Side ammo racks are prone to detonation when hit
-- Terrible reverse speed of only -4 km/h, can get the player killed
-- Weak side armour gets penetrated easily by Soviet APHEBC. Cannot angle too much
-- Lower glacis often catches fire or breaks transmission when penetrated, leaving the tank immobile and vulnerable
-- High profile for a medium tank makes it harder to hide
-- Roof armour of 16 mm is vulnerable to [[M2 Browning (12.7 mm)|M2 Brownings]] which are widely seen on American planes
-- Although heavily armoured, it can still get frontally penetrated easily by a rather common heavy tank: [[IS-2 (Family)|IS-2]]
-- Gun mantlet traps shots (shells may deflect into the hull roof weak armour)
+* Gun mantlet is only 100 mm thick, a huge and well-known weak spot to shoot at
+* Side ammo racks are prone to detonation when hit
+* Terrible reverse speed of only -4 km/h, can get the player killed
+* Weak side armour gets penetrated easily by Soviet APHEBC. Cannot angle too much
+* Lower glacis often catches fire or breaks transmission when penetrated, leaving the tank immobile and vulnerable
+* High profile for a medium tank makes it harder to hide
+* Roof armour of 16 mm is vulnerable to [[M2 Browning (12.7 mm)|M2 Brownings]] which are widely seen on American planes
+* Although heavily armoured, it can still get frontally penetrated easily by a rather common heavy tank: [[IS-2 (Family)|IS-2]]
+* Gun mantlet traps shots (shells may deflect into the hull roof weak armour)
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 The '''Panther''' development started as far back as 1938 as a replacement to the [[Pz.III F|Panzer IIIs]] and [[Pz.IV E|Panzer IVs]]. The program was called VK 20 and it called for a 20 ton tracked vehicle design by Krupp, Daimler-Benz, and MAN. Krupp dropped out when the requirements changed to 30 tones in 1941 when the German encounters the Soviet [[T-34 (1941)|T-34]] and [[KV-1 (L-11)|KV-1]] tanks where the Panzer III and Panzer IV's performance have little effect due to its superior armour, mobility, and armament. The VK 20 was abandoned for the VK 30.02 in April 1942. Daimler-Benz design for this project looks similar to the T-34 with the turret far forward in the hull, plus the use of a diesel engine and external leaf spring suspension. MAN's design had a twin torsion bar, the interleaved suspension system (like the [[Tiger H1|Tiger I]]) with the turret situated in the middle of the hull, plus had a petrol Maybach engine. Hitler was reported to believe that the DB design was superior to the MAN design, and in a review between January to March 1942, Fritz Todt and Albert Speer also recommended the DB design. Then MAN revised their design, and a special commission by Hitler decided on the MAN design in May 1942, to which Hitler approved after reviewing it. One of the reasons the MAN was approved was that its turret was already in production while the DB used a completely new design. However, despite being built for a 30-ton design, Hitler decided to increase the armour on the MAN design and the weight went from 30 tons to 45 tons.
 
@@ -255,31 +239,26 @@ Beginning in 1943, the Red Army captured a small number of Panther tanks (of sev
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_V_ausf_a_panther Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_V_ausf_a_panther Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
-
-- [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
+* [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 ;Videos
 {{Youtube-gallery|y1S7jHyFxdA|'''The Shooting Range #34''' - ''Pages of History'' section at 02:36 discusses the Panther I.|Bf1YWYfD_qk|'''The Shooting Range #135''' - ''Metal Beasts'' section at 01:12 discusses the {{PAGENAME}}.|oa26g25qqP4|'''Best medium tanks''' discusses the {{PAGENAME}} at 0:34 - ''War Thunder Official Channel''|9rUocSj2dHc|'''Tank Chats #16 Panther''' - ''The Tank Museum''}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{TankManufacturer MAN AG}}
 {{Germany medium tanks}}

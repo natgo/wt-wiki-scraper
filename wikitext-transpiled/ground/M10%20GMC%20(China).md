@@ -12,9 +12,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
 
 This Chinese vehicle is identical to the US [[M10 GMC]], however it does not have access to the Add-on Armor modification.
@@ -22,7 +20,6 @@ This Chinese vehicle is identical to the US [[M10 GMC]], however it does not hav
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 Although the armour on the M10 is rather thin, it is actually quite effective as it is sloped. The gun mantlet area is quite strong, and since you'll most likely be fighting at range, it can easily bounce shells. The 38 mm hull front is also at a good angle, so the effective thickness is actually closer to 60 mm. The least armoured parts of the M10 are the sides and the back of either the hull or the turret. They will be easily penetrated by just about any gun at your battle rating. However, the turret's back has a 50 mm thick angled counterweight that adds protection.
@@ -31,7 +28,7 @@ Although the armour on the M10 is rather thin, it is actually quite effective as
 
 *Rolled homogeneous armour
 *Cast homogeneous armour (Gun mantlet, Transmission area)
-\*Structural steel (Counterweight)
+*Structural steel (Counterweight)
 
 {| class="wikitable"
 |-
@@ -44,9 +41,9 @@ Although the armour on the M10 is rather thin, it is actually quite effective as
 |}
 '''Notes:'''
 
-- Suspensions wheels are 20 mm thick, bogies are 10 mm thick, and tracks are 20 mm thick.
-- Belly armour is 12.7 mm thick.
-- Hull rear sides are protected by attached grousers that give 20 mm of extra armour.
+* Suspensions wheels are 20 mm thick, bogies are 10 mm thick, and tracks are 20 mm thick.
+* Belly armour is 12.7 mm thick.
+* Hull rear sides are protected by attached grousers that give 20 mm of extra armour.
 
 The armour of the M10 is quite decent for the rank and can make shells ricochet when angled properly, but nonetheless, the armour is not thick enough to resist the stronger tank weapons of Rank II. The thickest part of the front hull is the 51 mm lower plate and the upper plate is 38 mm, though both are sloping at 55 degrees from vertical. The sides and back are only 19 mm slightly angled and thus can be penetrated by most weapons stronger than a 12.7 mm machine gun. This fact is made worse by the positioning of ammo racks on the sides, making it easy to knock the M10 GMC out with a side penetration. The turret has slightly better armour with the gun mantlet having 57 mm angled at 45 degrees on the front, but it is still very weak on the sides and back. The front of the turret can often eat shells as the shell will fragment on the initial armour, and the massive breech of the 76 mm cannon will often absorb most if not all of the spalling, leaving the turret crew untouched. This will take the M10 out of combat, but when backed up by team-mates it is possible to reverse away to repair. The turrets top is exposed and because of that artillery barrages and HE shells are much more lethal to the crew. One should avoid angling the armour a great degree as it may expose the weaker side armour at a more perpendicular angle.
 
@@ -58,7 +55,6 @@ There is not a whole lot of places to shoot at the back of the M10, though a sho
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=582|rbMinHp=363}}
@@ -72,9 +68,7 @@ First off, get both protection modifications: Parts and FPE. After that, it is r
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|M7 (76 mm)}}
 
 The 3-inch (76 mm) cannon is a wonderful and very powerful gun. APCBC ammo can penetrate and knock out most tanks on the battlefield even from long range. The M10 also has an AP round with no explosive filler that has higher penetration but does less post-penetration damage. Because the APCBC shell has enough penetration, the AP shot is less useful, although carrying a few of these shells could prove useful in certain situations. It is not a bad idea to carry HE ammo as well to fight lightly-armoured and open top tanks like the [[M16 MGMC]].
@@ -140,9 +134,7 @@ Take warning that the gun's excellent penetration is too much for lower rank tan
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_M10_GMC.png|right|thumb|x250px|[[Ammo racks]] of the M10 GMC (identical).]]
-
 <!-- '''Last updated: 2.1.0.94''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -158,13 +150,11 @@ Take warning that the gun's excellent penetration is too much for lower rank tan
 |}
 Note:
 
-- As they are modelled by sets of 2, shells disappear from the rack only after you fire both shells in the set.
+* As they are modelled by sets of 2, shells disappear from the rack only after you fire both shells in the set.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|M2HB (12.7 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -178,15 +168,14 @@ Note:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The M10 is a support vehicle. Find a good sniping position and lay behind the team taking out enemy tanks from a distance. Try to stay away from enemy tanks to avoid getting destroyed quickly. To make full use of its decent sniping capacity, find a spot that:
 
-- Overlooks the battlefield, streets or some passage
-- Is Away from the frontline
-- Offer slopes or cover and bushes
-- Is easily accessible
+* Overlooks the battlefield, streets or some passage
+* Is Away from the frontline
+* Offer slopes or cover and bushes
+* Is easily accessible
 
 With a location like that, the M10 can utilise its -10° gun depression and use hull down. Its turret front and mantlet can consistently cause ricochets especially in a downtier. Looming behind bushes, an M10's well aimed shots should be able to knock out most enemy tanks at the battle rating range from long range. Even if you get spotted, any slope or hard covers will provide protection for you.
 
@@ -201,37 +190,34 @@ The M10 has a very slow turret rotation speed, but the M10 can traverse faster t
 [[8,8 cm Flak 37 Sfl.]]: also known as the "flak truck", it is rather hard to knock out due to the fact that its armour is so thin that almost every shell will over-penetrate, dealing almost no critical damage. Plus this vehicle mostly face their side to the targets, making it even harder to kill them as the crew are all far apart. So it can usually take quite some hits and take out the shooters one by one. As the shooter, aim for the left side of its turret first to disable its gunner first, then knock out the rest of its crew (right turret & driving compartment). Do not hope that the M2 HB can kill all the the crew members; the "flak truck" 's armour is also angled enough for any MG to penetrate.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Powerful gun, APCBC shell can penetrate virtually any opponent it encounters, even the [[Tiger H1]]
-- Good top speed for a SPG; allows it to get to positions timely
-- The huge, V-shaped gun mantlet and gun breech can often bounce / absorb shells (e.g. 75 mm M3 and 76 mm F-34 / ZIS-5)
-- Good gun depression of -10° adapts almost all terrains
-- Powerful roof-mounted [[M2HB (12.7 mm)|M2 Browning]] can effectively damage light vehicles or low flying aircraft
+* Powerful gun, APCBC shell can penetrate virtually any opponent it encounters, even the [[Tiger H1]]
+* Good top speed for a SPG; allows it to get to positions timely
+* The huge, V-shaped gun mantlet and gun breech can often bounce / absorb shells (e.g. 75 mm M3 and 76 mm F-34 / ZIS-5)
+* Good gun depression of -10° adapts almost all terrains
+* Powerful roof-mounted [[M2HB (12.7 mm)|M2 Browning]] can effectively damage light vehicles or low flying aircraft
 
 '''Cons:'''
 
-- Very poor turret traverse speed and sluggish hull traverse; not adequate results in close distance engagements
-- Base armour is quite thin, easily penetrated by common opponents like the [[Pz.IV F2]] or the US [[M10 Wolverine (Family)|M10]]
-- Open topped, vulnerable to aircraft strafing
-- Only x3.5 gunsight zoom making it hard to shoot distant targets
-- Poor reverse speed; affects the ability to retreat quickly
-- Does not have access to Add-on Armor, more vulnerable to enemy fire as a result
+* Very poor turret traverse speed and sluggish hull traverse; not adequate results in close distance engagements
+* Base armour is quite thin, easily penetrated by common opponents like the [[Pz.IV F2]] or the US [[M10 Wolverine (Family)|M10]]
+* Open topped, vulnerable to aircraft strafing
+* Only x3.5 gunsight zoom making it hard to shoot distant targets
+* Poor reverse speed; affects the ability to retreat quickly
+* Does not have access to Add-on Armor, more vulnerable to enemy fire as a result
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 Some years after the Second World War, in 1948. The Republic of China's party, Kuomintang, ordered the Armoured Forces Command to establish special groups of personnel dedicated to locating and acquiring surplus equipment or abandoned materials of war. These groups travelled to several places, including the Pacific theatre.
 
 The groups managed to collect several M10 tank destroyers used by the Americans during battles in the Pacific. Other vehicles like the M5 Stuart and the amphibious LVT-2 also were collected. Most of these vehicles were only lightly damaged by combat. But the majority of their original 76 mm guns were either destroyed or not reliable for service.
 
 By the end of 1948, another 34 '''M10 tank destroyers''' were purchased from the United States. These findings and acquisitions were then shipped to Shanghai Longhua Tank Plant in mainland China for restorations and modifications.
 
-Around this time, the Chinese Civil War was still ongoing. The numerous battles were frequently won by the Communist Party of China's armoured forces; and their rising superiority in tank numbers. This lead to their eventual total control of mainland China and the retreat of the Kuomintang to Taiwan.
+Around this time, the Chinese Civil War was still ongoing. The numerous battles were frequently won by the Communist Party of China's  armoured forces; and their rising superiority in tank numbers. This lead to their eventual total control of mainland China and the retreat of the Kuomintang to Taiwan.
 
 '''M10's modifications'''
 
@@ -246,34 +232,30 @@ It is uncertain if they took part in any battle before this, since the Chinese C
 M10s in ROC's service ultimately got decommissioned by the arrival of the US's M7 Priest through 1955-1957. Most of the M10 were scrapped or their modifications disassembled.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=cn_m10 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=cn_m10 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
-
-- [[M10 (Family)]]
-- [[M36 Jackson (Family)]]
+* [[M10 (Family)]]
+* [[M36 Jackson (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wikipedia:M10_tank_destroyer|[Wikipedia] M10 tank destroyer]]
-- [https://tanks-encyclopedia.com/ww2/US/M10_Wolverine.php <nowiki>[Tanks Encyclopedia]</nowiki> 3in GMC M10 Wolverine]
-- [https://archive.is/20120719005633/http://hi.baidu.com/%D5%BD%B3%B5%C1%F9%BC%B6%B3%A7/blog/item/af4f46563196e4143b293522.html#selection-677.65-677.121 ROC's M10 Pictures]
-- [https://forum.warthunder.com/index.php?/topic/357296-roctaiwanese-m10-w-type-91-105-mm-howitzer/ WT Forum's suggestion for the Taiwanese M10 modification]
+* [[wikipedia:M10_tank_destroyer|[Wikipedia] M10 tank destroyer]]
+* [https://tanks-encyclopedia.com/ww2/US/M10_Wolverine.php <nowiki>[Tanks Encyclopedia]</nowiki> 3in GMC M10 Wolverine]
+* [https://archive.is/20120719005633/http://hi.baidu.com/%D5%BD%B3%B5%C1%F9%BC%B6%B3%A7/blog/item/af4f46563196e4143b293522.html#selection-677.65-677.121 ROC's M10 Pictures]
+* [https://forum.warthunder.com/index.php?/topic/357296-roctaiwanese-m10-w-type-91-105-mm-howitzer/ WT Forum's suggestion for the Taiwanese M10 modification]
 
 {{TankManufacturer Ordnance Department}}
 {{China tank destroyers}}

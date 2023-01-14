@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet medium tank {{Battle-rating}}. It was available only for [[wt:en/news/356--en|pre-order]] during the Closed Beta Test of Ground Forces before [[Update 1.41]], then discontinued after the update's release. 500 units were also for sale during the [[wt:en/news/5079-special-hurry-up-and-get-rare-packs-en|5th Anniversary event]], which sold out within 12 hours.
 
 The prototype of the T-34, known as the A-34, was the end result of almost five years of development that would eventually become the mass produced [[T-34_(1940)|T-34]]. The T-34 prototype plays like any other T-34, with its high top speed, an adequate 76 mm L-11 gun, and heavily sloped 45 mm armour. These traits make the T-34 prototype a great vehicle for flanking vehicle and as a brawler. While there are vulnerable points on the front that could be penetrated by its contemporaries and lower, a quick and aggressive fighting style could reduce the amount of time the enemy has to aim for these spots to disable the T-34 prototype.
@@ -25,13 +23,11 @@ Several noticeable weak points on the T-34 prototype are the turret cheeks, whic
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (Gun mantlet, Driver's hatch, Machine gun port)
+* Rolled homogeneous armour
+* Cast homogeneous armour (Gun mantlet, Driver's hatch, Machine gun port)
 
 {| class="wikitable"
 |-
@@ -44,10 +40,10 @@ Several noticeable weak points on the T-34 prototype are the turret cheeks, whic
 |}
 '''Notes:'''
 
-- Suspensions wheels and tracks are 20 mm thick.
-- Hull roof has hatches on the rear engine deck that adds 10 mm.
-- Belly armour is 13 mm thick.
-- Hull underside over tracks is 13 mm thick.
+* Suspensions wheels and tracks are 20 mm thick.
+* Hull roof has hatches on the rear engine deck that adds 10 mm.
+* Belly armour is 13 mm thick.
+* Hull underside over tracks is 13 mm thick.
 
 Given that the T-34 prototype nowadays is a rare tank, it is an unlikely opponent to be found on the current War Thunder battlefield. In the case it is found, defeat it in the same manner as any other T-34 tanks. The T-34 prototype has a higher power rating compared to other T-34/76 tanks so the T-34 prototype may move faster than the usual, which would affect the correct lead in aiming at a moving target. Though getting to the side may seem like an easy manoeuvre, the sloped side hull gives the T-34 a good chance to bounce shots. To counter this, aim for the flat hull sides near the suspension wheel areas (careful not to hit the track or wheels), or just hit the turret sides to knock out the loader or gunner, both of which would deteriorate the T-34 prototype's combat performance.
 
@@ -55,7 +51,6 @@ The T-34 prototype can encounter Germany's longer [[KwK40 L43 (75 mm)|75 mm KwK4
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=775|rbMinHp=442}}
@@ -67,9 +62,7 @@ The T-34 prototype can encounter Germany's longer [[KwK40 L43 (75 mm)|75 mm KwK4
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|L-11 (76 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -147,13 +140,11 @@ The T-34 prototype can encounter Germany's longer [[KwK40 L43 (75 mm)|75 mm KwK4
 |}
 '''Note''':
 
-- Turret empty: 69&nbsp;''(+8)'' shells.
+* Turret empty: 69&nbsp;''(+8)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|DT (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -167,9 +158,7 @@ The T-34 prototype can encounter Germany's longer [[KwK40 L43 (75 mm)|75 mm KwK4
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The T-34 prototype, due to its weaker 76 mm L-11 gun, does better in closer encounters against thinner armour than long-range. This type of conflict encourages flanking manoeuvres and brawling tactics.
 
 ;Flanking
@@ -185,35 +174,32 @@ The T-34's large sloped armour on the turret and hull, barring the weak points, 
 The downside with this tactic is the relatively longer reload time on the T-34 of ~8 seconds. When encountering enemies with rapid-firing guns, even the 50 mm guns on the Panzer III can penetrate the weak points and deal a mortal blow to the T-34. Thus, it is important to make sure the T-34 is always fully reloaded and that the first penetrating hit cripples the enemy tanks. It is also important to try and deal with individual enemies instead of multiples as the T-34 prototype is poor in dealing with multiple enemies trying to flank and hit weak points.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great sloping front hull armour
-- Turret gun mantlet bounces shots frequently
-- Sloped side armour top also bounces shots
-- 76 mm APHEBC round inflicts large post-penetration damage
-- Strong engine and high top speed for excellent mobility
-- Versatile fighting style due to great all-around capabilities
-- Handling is superb, especially so with a trained driver
-- Reverse speed quite quick for a withdrawal
+* Great sloping front hull armour
+* Turret gun mantlet bounces shots frequently
+* Sloped side armour top also bounces shots
+* 76 mm APHEBC round inflicts large post-penetration damage
+* Strong engine and high top speed for excellent mobility
+* Versatile fighting style due to great all-around capabilities
+* Handling is superb, especially so with a trained driver
+* Reverse speed quite quick for a withdrawal
 
 '''Cons:'''
 
-- Only subpar penetration for the calibre, can lead to the inability to destroy enemy heavy tanks
-- Relatively long reload for the usual >75 mm calibre
-- Lots of frontal weak points able to be penetrated by even 37 mm calibre, most noticeable are the turret cheeks
-- 13 mm belly armour vulnerable to most high-calibre HE shells
-- Poor gun depression of -5°
-- Loss of crew members hamper tank's combat efficiency drastically
-- Large centre ammo rack always filled, right between two fuel tanks
-- Cramped crew next to fuel and ammo, detonating APHE shells would often destroy the entire vehicle
+* Only subpar penetration for the calibre, can lead to the inability to destroy enemy heavy tanks
+* Relatively long reload for the usual >75 mm calibre
+* Lots of frontal weak points able to be penetrated by even 37 mm calibre, most noticeable are the turret cheeks
+* 13 mm belly armour vulnerable to most high-calibre HE shells
+* Poor gun depression of -5°
+* Loss of crew members hamper tank's combat efficiency drastically
+* Large centre ammo rack always filled, right between two fuel tanks
+* Cramped crew next to fuel and ammo, detonating APHE shells would often destroy the entire vehicle
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 By 1939, the most numerous tank models in the Red Army were the [[T-26|T-26]] and the [[BT-7|BT-series]] light tanks. Though adequate on the days they were introduced, they are now outdated by this time due to the changing technology in anti-tank warfare. Back in 1937, a new tank project was already taking place under engineer Mikhail Koshkin, who was assigned to lead a design team at the Kharkiv Locomotive Factory (KhPZ) for a replacement for the BT light tanks as a new "cavalry tank" to engage in manoeuvre warfare. The first prototype was designated the ''A-20'' with 20 mm of armour, a 45 mm gun, and a diesel engine in a V-12 configuration. The Christie suspension is taken from the BT, even the conversion to drive track-less on roads. But gradually, the new track designs available made this conversion redundant and was excluded in further models. The A-20 also showed the effective research done into sloping armour on previous prototype designs, utilizing an all-around sloping armour on the design.
 
@@ -240,26 +226,22 @@ Tests of the vehicle in its first tactical deployment exposed a range of flaws, 
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_t_34_1940_l_11 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_t_34_1940_l_11 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [http://www.tanks-encyclopedia.com/ww2/soviet/soviet_a32_t32.php [Tanks-Encyclopedia<nowiki>]</nowiki> T-34 Prototypes: A-20 & A-32]
+* [http://www.tanks-encyclopedia.com/ww2/soviet/soviet_a32_t32.php [Tanks-Encyclopedia<nowiki>]</nowiki> T-34 Prototypes: A-20 & A-32]
 
 {{TankManufacturer Morozov}}
 {{USSR medium tanks}}

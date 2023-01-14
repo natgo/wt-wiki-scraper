@@ -1642,6 +1642,15 @@ export type ShopGroup = {
   [key: string]: ShopItem;
 };
 
+// aces/config/gui
+export interface GUI {
+  bundles: Bundles;
+}
+
+export interface Bundles {
+  guid: { [key: string]: string };
+}
+
 //custom
 export interface savedparse {
   title: string;
@@ -1696,6 +1705,7 @@ export interface FinalProps {
   cost_gold?: number;
   hidden?: boolean;
   marketplace?: string;
+  store?: string;
 }
 
 export interface AircraftProps extends FinalProps {
@@ -1968,4 +1978,5 @@ export interface namevehicle {
   intname: string;
   wikiname?: string;
   marketplace?: string;
+  store?: string;
 }

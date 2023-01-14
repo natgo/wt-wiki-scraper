@@ -1,13 +1,11 @@
 {{Specs-Card
 |code=ussr_object_279
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |market=Object 279 (USSR)
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet heavy tank {{Battle-rating}}. It was introduced during [[Update 1.97 "Viking Fury"]] as a reward for the [[wt:en/news/6669-special-space-race-en|"Space Race" event]].
 
 The Object 279's unique look comes with its design as being more capable of cross-country travelling in a possible nuclear warfare scenario. This produces its unique hull shape, four-track designs, and a large 130 mm cannon to deal with threats.
@@ -17,7 +15,6 @@ Upon release, Object 279 was nicknamed "Moon Rover" by the War Thunder Community
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well-protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 This tank is the peak of steel armour design, having its armour only consist of homogeneous steel armour. It is also arguably the most well-armoured heavy tank in the game. Getting the exact armour thickness of this tank is quite tricky due to the cast nature of its outer shell. But that won't affect the way one may view its survivability, at the very least the armour thickness of the hull may reach up to 300 mm when faced frontally (excluding the driver's hatch, which is 30 mm flat). The middle of the hull (area below the driver's hatch) is the least angled part of the tank besides the tank's rear, and thus is usually the first spot that is shot at, whereas the sides surrounding this area (left and right parts of the hull when faced front) can reach absurd amounts of thickness, even reaching up to 1000 mm due to extreme angles. However, this will not stop any APFSDS rounds, which are abundant at its BR. Most, if not all tanks at your BR can penetrate you from the front.
@@ -32,7 +29,6 @@ All around, this tank is a very hard nut to crack but one should not rely on its
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=1,291|rbMinHp=884}}
@@ -46,9 +42,7 @@ The mobility is good for a vehicle of its size and weight, with a -18 km/h rever
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|M-65 (130 mm)}}
 
 The main armament is a powerful 130 mm gun. It has decent ballistics and, coupled with the rangefinder, HE filler, and penetration comparable to some APFSDS shells, it is an extremely effective main armament.
@@ -106,9 +100,7 @@ The main armament is a powerful 130 mm gun. It has decent ballistics and, couple
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x200px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.1.0.85''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -126,16 +118,14 @@ The main armament is a powerful 130 mm gun. It has decent ballistics and, couple
 |}
 '''Notes''':
 
-- Projectiles and propellant bags are modeled individually and disappear after having been shot or loaded.
-- Both racks 6 are first stage ammo racks for projectiles and propellant bags. They represent 13 shots and get filled first when loading up the tank.
-- They are also emptied early: the rack depletion order at full capacity is: 6 - 1 - 2 until 5.
-- Simply not firing when the gun is loaded will move ammo from racks 1-5 into racks 6. Firing will interrupt the restocking of the ready racks.
+* Projectiles and propellant bags are modeled individually and disappear after having been shot or loaded.
+* Both racks 6 are first stage ammo racks for projectiles and propellant bags. They represent 13 shots and get filled first when loading up the tank.
+* They are also emptied early: the rack depletion order at full capacity is: 6 - 1 - 2 until 5.
+* Simply not firing when the gun is loaded will move ammo from racks 1-5 into racks 6. Firing will interrupt the restocking of the ready racks.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|KPVT (14.5 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -150,44 +140,39 @@ The main armament is a powerful 130 mm gun. It has decent ballistics and, couple
 The KPVT is an very effective machine gun, on par with certain autocannons in terms of penetration, and can easily shred lightly armoured vehicles or even the sides of certain MBTs thanks it its 45 mm of penetration. The muzzle velocity of the KPVT is almost the same as the main gun, meaning it can be used as an ranging machine gun.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Object 279 is in a position where its main gun can penetrate most things it faces, and the large HE filler guarantees a one shot. However, the hull is weak, unless you are in a full downtier, it should definitely not be relied on. The turret, on the other hand, is incredibly strong. The Object 279 plays quite well like a tank destroyer, using your 1,000 m/s APHE shell and strong turret armour to quickly peek and take pot-shots at enemy positions. This strategy is effective in uptiers. In a full downtier you can use it like a heavy tank, rushing caps and storming enemy positions, but HEATFS is abundant even at 7.7 and will end you fast.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great 130 mm gun; able to one-shot majority of the enemy tanks
-- Main gun has a two-plane stabilizer
-- Good overall mobility for its weight
-- Access to rangefinder and NVD
-- Coaxial 14.5 mm machine gun is great for dealing with light vehicles and aircraft
-- Fuel tanks are self-sealing and will extinguish by themselves without incurring damage
-- Extremely angled and thick cast armour
-- Quick reloading speed for the size of the gun, first stage ammo consists of a 13 shell auto loader
-- Can survive multiple hits from an ATGM frontally
-- Turret is extraordinary though, even against modern sabot rounds
-- Good reverse speed
-- Secondary machine gun can act as a ranging MG
+* Great 130 mm gun; able to one-shot majority of the enemy tanks
+* Main gun has a two-plane stabilizer
+* Good overall mobility for its weight
+* Access to rangefinder and NVD
+* Coaxial 14.5 mm machine gun is great for dealing with light vehicles and aircraft
+* Fuel tanks are self-sealing and will extinguish by themselves without incurring damage
+* Extremely angled and thick cast armour
+* Quick reloading speed for the size of the gun, first stage ammo consists of a 13 shell auto loader
+* Can survive multiple hits from an ATGM frontally
+* Turret is extraordinary though, even against modern sabot rounds
+* Good reverse speed
+* Secondary machine gun can act as a ranging MG
 
 '''Cons:'''
 
-- Inadequate turret traverse speed
-- Inadequate depression angle, a feature shared by all Soviet tanks
-- Vulnerable to high calibre HE; pylons connecting tank to tracks make for very appealing targets for such shells
-- Most tanks at your BR can penetrate you from the front
-- Very long main gun barrel can be a liability, allowing observant enemies to spot the tank hiding around corners
-- Low muzzle velocity compared to APFSDS and APDS shells commonly found at this BR
-- No laser rangefinder
+* Inadequate turret traverse speed
+* Inadequate depression angle, a feature shared by all Soviet tanks
+* Vulnerable to high calibre HE; pylons connecting tank to tracks make for very appealing targets for such shells
+* Most tanks at your BR can penetrate you from the front
+* Very long main gun barrel can be a liability, allowing observant enemies to spot the tank hiding around corners
+* Low muzzle velocity compared to APFSDS and APDS shells commonly found at this BR
+* No laser rangefinder
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 {{main|Object_279/History|l1=History of the Object 279}}
 [[File:Object 279 in the Kubinka Tank Museum.jpg|right|400px|thumb|Object 279 in the Kubinka Tank Museum]]
 
@@ -198,12 +183,11 @@ By March 1956, the preliminary design was prepared and the technical project by 
 At the direction of {{Annotation|GBTU|Main Automotive-Armored Tank Directorate}} alongside the government, the project was terminated in January 1961 with the first and third prototype being sent to the NIIBT landfill, and the second prototype left in storage at VNII-100.<ref name=":0" />
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_object_279 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_object_279 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="200">
@@ -217,16 +201,15 @@ File:Object 279 WTWallpaper 001.jpg
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wikipedia:Object_279|[Wikipedia] Object 279]]
+* [[wikipedia:Object_279|[Wikipedia] Object 279]]
 
 === References ===
 <references />

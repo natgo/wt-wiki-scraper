@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet bomber {{Battle-rating}}. It was introduced in [[Update 1.45 "Steel Generals"]].
 
 The Canberra B (I) Mk 6 is an interdiction model of the famous bomber, thus it is more suited for aggressive ground attack/interdiction roles by comparison to the B Mk.2 or B-57A models. Much like the B-57B, it retains its bomb carrying capabilities, but also features and impressive battery of armament consisting of 4 x 20 mm Hispano Mk V cannons. Not only this, but the B (I) Mk 6 has a 2,000-round capacity for these cannons, making it a truly formidable attack aircraft and also allowing for air-to-air combat with other aircraft. Unlike the previous B Mk.2 model, due to the inclusion of a gun pack to house the cannon armament, the B (I) Mk 6 features wing mounted pylons to carry similar ordnance options to the previous model of Canberra. This makes the B (I) one of the most effective and versatile attack aircraft in game due to its ability to switch from conventional bombing, to ground attack and also interception.
@@ -19,7 +17,6 @@ The Canberra B (I) Mk 6 is an interdiction model of the famous bomber, thus it i
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -47,7 +44,7 @@ The Canberra B (I) Mk 6 is an interdiction model of the famous bomber, thus it i
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -85,8 +82,8 @@ The Canberra B (I) Mk 6 is an interdiction model of the famous bomber, thus it i
 ! colspan="2" | Engine name || Number
 ! colspan="3" | Empty mass || colspan="3" | Wing loading (full fuel)
 |-
-| colspan="2" | Rolls-Royce Avon Mk.109 || 2
-| colspan="3" | 10,300 kg || colspan="3" | 194 kg/m<sup>2</sup>
+| colspan="2" | Rolls-Royce Avon Mk.109 ||  2
+| colspan="3" | 10,300 kg || colspan="3" |  194 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="5" | Mass with fuel (no weapons load) || rowspan="2" | Max Takeoff<br />Weight
@@ -113,13 +110,12 @@ The Canberra B (I) Mk 6 is an interdiction model of the famous bomber, thus it i
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- No armour plating
-- No armour glazing
-- Critical components located in the fuselage of the aircraft (fuel, pilot, controls)
-- Engines in wings
+* No armour plating
+* No armour glazing
+* Critical components located in the fuselage of the aircraft (fuel, pilot, controls)
+* Engines in wings
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -128,55 +124,47 @@ The Canberra B (I) Mk 6 is an interdiction model of the famous bomber, thus it i
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Hispano Mk.V (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 20 mm Hispano Mk.V cannons, belly-mounted (500 rpg = 2,000 total)
+* 4 x 20 mm Hispano Mk.V cannons, belly-mounted (500 rpg = 2,000 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|G.P. Mk.IV (500 lb)|H.E. M.C. Mk.13 (1,000 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 3 x 1,000 lb H.E. M.C. Mk.13 bombs + 2 x 500 lb G.P. Mk.IV bombs (4,000 lb total)
-- 2 x 1,000 lb H.E. M.C. Mk.13 bombs + 3 x 500 lb G.P. Mk.IV bombs (3,500 lb total)
-- 5 x 1,000 lb H.E. M.C. Mk.13 bombs (5,000 lb total)
-- 5 x 500 lb G.P. Mk.IV bombs (2,500 lb total)
+* 3 x 1,000 lb H.E. M.C. Mk.13 bombs + 2 x 500 lb G.P. Mk.IV bombs (4,000 lb total)
+* 2 x 1,000 lb H.E. M.C. Mk.13 bombs + 3 x 500 lb G.P. Mk.IV bombs (3,500 lb total)
+* 5 x 1,000 lb H.E. M.C. Mk.13 bombs (5,000 lb total)
+* 5 x 500 lb G.P. Mk.IV bombs (2,500 lb total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Canberra B (I) Mk 6 can be played a few different ways. You can bomb the bombing targets as a bomber, but then you can use the plane to its full potential as a heavy fighter. The Canberra rolls decently when slow, but when you start to turn, the elevator will pull and the plane has a decent turning circle for its size. The 4 x Hispano Mk.V cannons are decently easy to aim as they are mounted on the underbelly of the aircraft. You have 2,000 rounds of ammunition which can easily deal with multiple targets with plenty of ammo to spare. The best way to play this aircraft is Boom and Zooming, where you dive on a target and have a gun run on them and after the run is over pulling off and going back up using your speed for altitude. The aircraft gets a bomber spawn which will spawn you at a high altitude and decent speed at the start of the match.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- High-speed attack aircraft
-- High cannon ammo capacity
-- Large bomb-carrying capabilities
-- Good agility
+* High-speed attack aircraft
+* High cannon ammo capacity
+* Large bomb-carrying capabilities
+* Good agility
 
 '''Cons:'''
 
-- No defensive armament
-- Large surface area
-- High speed makes it hard to bomb smaller targets such as tanks
-- Loss of one 1,000 lb bomb compared to previous model [[Canberra B Mk 2]]
+* No defensive armament
+* Large surface area
+* High speed makes it hard to bomb smaller targets such as tanks
+* Loss of one 1,000 lb bomb compared to previous model [[Canberra B Mk 2]]
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -194,24 +182,20 @@ Whilst the Canberra was phased out of service as an RAF front line bomber in the
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=canberra_bimk6 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=canberra_bimk6 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer EEC}}
 {{Britain jet aircraft}}

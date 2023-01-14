@@ -1,12 +1,10 @@
 {{Specs-Card
 |code=uk_a17_mk_1_tetrarch
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' (or just '''Tetrarch''') is a rank {{Specs|rank}} British light tank {{Battle-rating}}. It was introduced in [[Update 1.55 "Royal Armour"]] along with the initial British ground tree. A light tank with a [[Ordnance QF 2-pounder (40 mm)|2-pounder]], it fits the British light line of a fast tank with a powerful gun but weak armour.
 
 The Tetrarch plays like any other Rank I vehicle in the game. Zip around with high speed to the destination and get a first shot off on the enemy tank (preferably the gunner). The 2-pounder can penetrate most enemy tanks at close range and the 40 mm shells can cause a decent amount of shrapnel that can damage most of the internals at the area of the penetration. The mobility is great with the adequate horsepower to propel the 7 ton tank around. The armour is barely adequate for Rank I, with its flat surfaces encouraging penetration with the cramped interiors making one-hit destruction a worrying situation for the Tetrarch.
@@ -14,9 +12,7 @@ The Tetrarch plays like any other Rank I vehicle in the game. Zip around with hi
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 The armour of the Tetrarch I is of a typical light tank style. Topping at 16 mm on the front of the hull and turret, its frontal armour is insufficient to stop heavy MG bullets. It can only resist rifle-calibre MG bullets or shrapnel, which significantly decreases its protection in any engagements. The side and rear armour is worse, at 14 and 10 mm respectively. This means that even rifle-calibre MG have a chance of penetrating it when close enough. Thus you should avoid absolutely every vehicle, including the seemingly harmless ones like [[GAZ-AAA (4M)]]. The roof thickness of 4 to 7 mm is also not enough to stop aircraft bullets from above. Overall the armour values of the Tetrarch I is very poor and should never be relied upon.
 
 Given the thin armour, any penetrating rounds will easily damage the interior. The 3 crew members of the Tetrarch are very closely packed, and can be knocked out easily by a frontal penetration, regardless of whether the round has explosive fillers. The thin armour also means that the crew is vulnerable to overpressure damage. Vehicles like the Ho-Ro or even the M8 HMC can trigger a devastating overpressure easily.
@@ -25,8 +21,8 @@ The Tetrarch I does get 2 smoke grenades which can be used to create chances for
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (Gun mantlet)
+* Rolled homogeneous armour
+* Cast homogeneous armour (Gun mantlet)
 
 {| class="wikitable"
 |-
@@ -38,14 +34,12 @@ The Tetrarch I does get 2 smoke grenades which can be used to create chances for
 |}
 '''Notes:'''
 
-- Suspension wheels and tracks are 15 mm thick.
-- A little glimpse of the 4 mm roof can be seen from the front. A well placed HE round will penetrate and result in a knock-out.
+* Suspension wheels and tracks are 15 mm thick.
+* A little glimpse of the 4 mm roof can be seen from the front. A well placed HE round will penetrate and result in a knock-out.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-
 The Tetrarch I makes up for its lack of protection with a wonderful mobility. It is quite a light tank and has a 165 hp engine powering it, giving it a rather high power-to-weight ratio, meaning great acceleration across all types of terrains. It can reach its top speed of ~65 km/h quite quickly on hard surfaces like concrete road or grass plain. The off-road speed is also not disappointing, being around ~40 km/h on mountainous terrains. The brakes are effective too and can stop the vehicle properly at high speed. With this speed, the Tetrarch can get to crucial locations very quickly at the start of the match alongisde other fast vehicles from both teams, which is beneficial to cap a point and/or set up ambushes on a chokepoint.
 
 However, just like most of the WW2 tanks, the Tetrarch suffers from a slow reverse speed of only -7 km/h, which will not be able to reverse you out of danger in time. Its hull traverse also feels "sticky", both turning on the move and when stationary will be quite slow when comparing to light tanks like the BT-5. This and the slow reverse prevent the Tetrarch I from manoeuvring freely in confined environments like urban maps, limiting its mobility.
@@ -54,19 +48,16 @@ However, just like most of the WW2 tanks, the Tetrarch suffers from a slow rever
 
 === Modifications and economy ===
 {{Specs-Economy}}
-
-- The "Parts" and "FPE" modifications are important, even if this tank has poor survivability.
-- Since the turret traverse is dangerously slow for a light tank, one might want to research the "Horizontal Drive" first to get that extra few degrees of rotation.
-- Then, unlocking "Tracks" can give you a little bit smoother hull traverse.
-- The rest depends on your choice: if you want a gorilla warfare playstyle and need to constantly be moving, then research the mobility modifications first; if you hate the solid round, research the APHE and maybe the rest of the firepower modifications too. A few good matches should get you enough XP to unlock all modifications.
+* The "Parts" and "FPE" modifications are important, even if this tank has poor survivability.
+* Since the turret traverse is dangerously slow for a light tank, one might want to research the "Horizontal Drive" first to get that extra few degrees of rotation.
+* Then, unlocking "Tracks" can give you a little bit smoother hull traverse.
+* The rest depends on your choice: if you want a gorilla warfare playstyle and need to constantly be moving, then research the mobility modifications first; if you hate the solid round, research the APHE and maybe the rest of the firepower modifications too. A few good matches should get you enough XP to unlock all modifications.
 
 == Armaments ==
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|QF 2-pounder (40 mm)}}
 The Tetrarch is armed with a 40 mm QF 2pdr cannon. The cannon has a fast reload rate of ~3 seconds thanks to its small calibre, allowing it to quickly fire off follow-up shots to finish an enemy. The vertical gun traverse is excellent: -15° gun depression and +25° elevation, meaning it can fit almost any hilly terrain with ease.
 
@@ -93,11 +84,10 @@ The biggest drawback of the Tetrarch I's firepower is the painful turret travers
 |}
 
 ==== Ammunition ====
-
-- The default round is the Shot Mk.1 AP/T. This shell has a maximum penetration of 72 mm which is generally enough to frontally penetrate most if not all tanks at this BR. The trajectory is average. Its post-penetration effect is mediocre since it is a solid round, and it might only knock out tanks that are very cramped with a single shot, like the BT series, the M22, etc. For large targets like the LVT, this shot will struggle a lot. You might even have to target the crew members one by one.
-- The researchable Shot Mk.IXB APCBC/T has the highest penetration, at a maximum of 89 mm. This makes it useful against heavy opponents like the B1 if you take the Tetrarch to a higher BR. The shell can only penetrate effectively with minimum or no angling from the target armour plate, any slopes tend to result in non-penetrations or ricochets.
-- The researchable Shell Mk.1 AP/T is perhaps the best choice, since it has an explosive filler. Its maximum penetration of 66 mm is adequate to frontally penetrate all light and medium vehicle within common combat range (0-600 m), and the explosive filler can do a great job at knocking out most if not all crew within the enemy vehicle. However against better armoured tanks (e.g. [[Ka-Chi]]) or large tanks (e.g. [[LVT(A)(1)|LVT(A)]]) the shell will start losing effectiveness and will not be able to take them out with a single shot or even effectively penetrate them.
-- The Shot Mk.1 APHV/T is an average ammunition, with alright penetration. Its only advantage is the faster velocity, at 853 m/s. This makes it a little better at shooting moving targets.
+* The default round is the Shot Mk.1 AP/T. This shell has a maximum penetration of 72 mm which is generally enough to frontally penetrate most if not all tanks at this BR. The trajectory is average. Its post-penetration effect is mediocre since it is a solid round, and it might only knock out tanks that are very cramped with a single shot, like the BT series, the M22, etc. For large targets like the LVT, this shot will struggle a lot. You might even have to target the crew members  one by one.
+* The researchable Shot Mk.IXB APCBC/T has the highest penetration, at a maximum of 89 mm. This makes it useful against heavy opponents like the B1 if you take the Tetrarch to a higher BR. The shell can only penetrate effectively with minimum or no angling from the target armour plate, any slopes tend to result in non-penetrations or ricochets.
+* The researchable Shell Mk.1 AP/T is perhaps the best choice, since it has an explosive filler. Its maximum penetration of 66 mm is adequate to frontally penetrate all light and medium vehicle within common combat range (0-600 m), and the explosive filler can do a great job at knocking out most if not all crew within the enemy vehicle. However against better armoured tanks (e.g. [[Ka-Chi]]) or large tanks (e.g. [[LVT(A)(1)|LVT(A)]]) the shell will start losing effectiveness and will not be able to take them out with a single shot or even effectively penetrate them.
+* The Shot Mk.1 APHV/T is an average ammunition, with alright penetration. Its only advantage is the faster velocity, at 853 m/s. This makes it a little better at shooting moving targets.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="8" | Penetration statistics
@@ -143,9 +133,7 @@ The biggest drawback of the Tetrarch I's firepower is the painful turret travers
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.15.1.70''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -177,9 +165,7 @@ The biggest drawback of the Tetrarch I's firepower is the painful turret travers
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|BESA (7.92 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -193,9 +179,7 @@ The biggest drawback of the Tetrarch I's firepower is the painful turret travers
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 This tank is all about mobility: it can nearly go anywhere fast, surprising the enemy. Being one of the smallest vehicles in game, the Tetrarch will be able to roll through the thinnest passages at high speed. Its short hull enables it to cross hilly woods and rocky ground without ditching. On gear 1, it can climb any hill, as long as it sticks to the ground, thus reaching advantageous spots from where it can snipe using its good gun depression, showing only its tiny turret. Although, it is recommended to change position often since anyone knowing where the Tetrarch is can pin it down easily (remember that the Tetrarch only have 3 crew members and thin armour). Consider flanking with this vehicle since it has such a good speed but beware the Tetrarch's slow turret slewing rate, so pre-aim the cannon in the expected direction of the enemy.
 
 Target isolated enemies since the 2-pounder gun does not have significant post-penetration damage. Shoot the gunner first to disable it from returning fire, then, stop it from moving by shooting the driver, engine or transmission. Et voilà ! then, disable every crewmen one by one. Make sure to shoot at the gunner's and driver's position every 3-4 shots since it takes roughly 15 seconds to replace them.
@@ -206,37 +190,33 @@ Otherwise, anyone playing the Tetrarch should get back behind friendly lines if 
 
 === Enemies worth noting: ===
 As with any tank equipped with the [[Ordnance QF 2-pounder (40 mm)|QF 2-pounder]], little post-penetration damage makes large and crowded tanks a nightmare, thus, [[LVT(A)(1)]], [[T-28]] and the less common [[T-35]] should be avoided, although the Tetrarch's APHE shell can be rather quite effective against these vehicles. The fast rate of fire is also helpful to pinpoint their crew members one by one.
-
-- [[M3 Stuart (Family)|M3]]/[[M5 Stuart (Family)|M5]]: the Stuart series light tank have equally fast top speed both on road and off road, meaning they can rush a cap point or relocate just as swiftly as you can. They also have way faster turret traverse, allowing them to deal with close quarter combat much more efficiently, making them deadlier. Although their gun calibre is smaller at 37 mm, they can still cripple or knock you out with a single shot due to your cramped crew. They have a bouncy upper hull glacis and a sturdy gun mantlet, so avoid shooting there. Your APHE shell can frontally penetrate and cripple or knock them out in return. Try using your stabiliser to shoot first.
-- [[AS 42]]: this is a small and fast Italian SPAA car armed with a 20 mm autocannon. The gun has no problem piercing your thin armour from any angle, and the fast rate of fire means that it can quickly wipe out all your crew. Since it is small and fast, it can be challenging to target it given the Tetrarch I's extremely poor turret rotation. Rotate the hull to aim faster, and spray MG bullets towards it between reloads.
-- [[Ka-Chi]]: this amphibious Japanese tank can be quite strong. It has 50 mm frontal armour which can defeat most of the Tetrarch I's rounds when at a distance and/or angling. It also has spaced armour on the hull sides, and most noticeably the additional floaters at the hull front and back. The floaters will act as very effective spaced armour, absorbing HEAT, HE and even kinetic rounds. The Ka-Chi has 7 crew spread out inside, meaning it is pretty impossible to one-shot it using APHE. It is not advised to engage it from a distance, since the hull is quite thick especially with the floaters. To avoid the large hull and target the weaker turret it is best to get close, preferably within 400 m. The Tetrarch I's APHE can easily take out the Ka-Chi's turret crew. Only shoot when it is distracted or reloading though, as its 47 mm APHE can undoubtedly penetrate and knock out all 3 crew members in the Tetrarch at any range and angle.
+* [[M3 Stuart (Family)|M3]]/[[M5 Stuart (Family)|M5]]: the Stuart series light tank have equally fast top speed both on road and off road, meaning they can rush a cap point or relocate just as swiftly as you can. They also have way faster turret traverse, allowing them to deal with close quarter combat much more efficiently, making them deadlier. Although their gun calibre is smaller at 37 mm, they can still cripple or knock you out with a single shot due to your cramped crew. They have a bouncy upper hull glacis and a sturdy gun mantlet, so avoid shooting there. Your APHE shell can frontally penetrate and cripple or knock them out in return. Try using your stabiliser to shoot first.
+* [[AS 42]]: this is a small and fast Italian SPAA car armed with a 20 mm autocannon. The gun has no problem piercing your thin armour from any angle, and the fast rate of fire means that it can quickly wipe out all your crew. Since it is small and fast, it can be challenging to target it given the Tetrarch I's extremely poor turret rotation. Rotate the hull to aim faster, and spray MG bullets towards it between reloads.
+* [[Ka-Chi]]: this amphibious Japanese tank can be quite strong. It has 50 mm frontal armour which can defeat most of the Tetrarch I's rounds when at a distance and/or angling. It also has spaced armour on the hull sides, and most noticeably the additional floaters at the hull front and back. The floaters will act as very effective spaced armour, absorbing HEAT, HE and even kinetic rounds. The Ka-Chi has 7 crew spread out inside, meaning it is pretty impossible to one-shot it using APHE. It is not advised to engage it from a distance, since the hull is quite thick especially with the floaters. To avoid the large hull and target the weaker turret it is best to get close, preferably within 400 m. The Tetrarch I's APHE can easily take out the Ka-Chi's turret crew. Only shoot when it is distracted or reloading though, as its 47 mm APHE can undoubtedly penetrate and knock out all 3 crew members in the Tetrarch at any range and angle.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Powerful gun with piercing shells and fast reload
-- Awesome mobility: high top speed, great acceleration, and good climbing ability
-- Vertical [[Gun stabilizer|stabilizer]] available for the 2-pounder, an advantage in CQC
-- Small profile, is harder to get spotted and hit
-- Large gun depression of -15 degrees
+* Powerful gun with piercing shells and fast reload
+* Awesome mobility: high top speed, great acceleration, and good climbing ability
+* Vertical [[Gun stabilizer|stabilizer]] available for the 2-pounder, an advantage in CQC
+* Small profile, is harder to get spotted and hit
+* Large gun depression of -15 degrees
 
 '''Cons:'''
 
-- Rather slow turret traverse
-- High speed often makes the vehicle hard to control
-- Low survivability: incredibly thin armour, low crew count, and is vulnerable to overpressure or even ramming damage
-- Only reaches max speed when going down a slope
-- Does not have good post-penetration damage, often requiring follow-up shots to finish off the enemy
-- High shell dispersion at longer ranges
-- Short hull, has difficulty crossing ditches/trenches
+* Rather slow turret traverse
+* High speed often makes the vehicle hard to control
+* Low survivability: incredibly thin armour, low crew count, and is vulnerable to overpressure or even ramming damage
+* Only reaches max speed when going down a slope
+* Does not have good post-penetration damage, often requiring follow-up shots to finish off the enemy
+* High shell dispersion at longer ranges
+* Short hull, has difficulty crossing ditches/trenches
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 Development for this tank started in 1937 by Vickers-Armstrongs privately as the '''Light Tank Mk VII''' and nicknamed the ''Purdah''.<ref name="ImagesOfWarBritishWW2Tanks">Pat Ware. ''Images Of War: British Tank: The Second World War'' Great Britain: Pen & Sword Military, 2011</ref>. The intention was for the tank to be sold to either the British Army or foreign countries as the latest light tank of the company. Its predecessor, the ''Mk VIB Light Tank'', was considered insufficient in firepower, armed with only machine guns. The new design would use the new 2-pounder gun along with a coaxial machine gun. The Mk VII design was finished around 1938, and the British War Office (government administrating the British Army) took up the design for trials in May 1938 that lasted until June. The trials tested the Mk VII's ability to act as a "light cruiser", but this failed as the [[A13 Mk I|A13 cruiser]] was much better at the task. Thus, it was suggested that the Mk VII be tested as a light tank instead and production to be started for the trials. During the trials, the War Office gave the Mk VII the specification number '''A17''' for identification and was put into limited production in November 1938 with a few design changes. It was initially known as the "Purdah" from its standardization date, but in September 22, 1941, the Mk VII Light Tank also received the name '''Tetrarch''' as part of an order to distinguish tanks by chosen names.
 
@@ -261,33 +241,30 @@ The next British operation using the Tetrarch was Operation Tonga, which was an 
 Operation Tonga was the last World War II conflict involving the Tetrarch, and it was replaced by the [[M22|M22 Locust]] in October 1944. Though declared obsolete in January 1946, the Tetrarchs stayed with a few units like the 3rd Hussars until 1949.<ref name="ImagesOfWarBritishWW2Tanks" /> The Tetrarch in every military branch, even in training exercises, were formally removed from service by 1950.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a17_mk_1_tetrarch Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a17_mk_1_tetrarch Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|YuBjyMQLRy0|'''Airmobile tanks''' discusses the {{PAGENAME}} at 0:31 - ''War Thunder Official Channel''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
 
-- [[M22]]
+* [[M22]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/devblog/current/847/|[Devblog] Tetrarch Mk I]]
+* [[wt:en/devblog/current/847/|[Devblog] Tetrarch Mk I]]
 
 ===References===
 <references />

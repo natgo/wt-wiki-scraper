@@ -8,25 +8,22 @@
 }}
 {{Specs-Card
 |code=us_m3_lee
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} American medium tank {{Battle-rating}}. This tank was one of the first tanks to be released with the American ground tree in [[Update 1.45 "Steel Generals"]]. The M3 Lee is most well-recognised for its tall profile and two cannons, giving the player a substantial upgrade in firepower and armour compared to the [[M2|M2 Medium]] and [[M2A4|M2 Light]] tanks with a combination of 37 mm and 75 mm cannons on the tank. Its two-gun layout makes this tank awkward and hard to control for a new player but will give an edge when its handling and operation are mastered properly.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (Hull, turret roof)
-- Cast homogeneous armour (Turret, MG cupola, transmission area, view ports)
+* Rolled homogeneous armour (Hull, turret roof)
+* Cast homogeneous armour (Turret, MG cupola, transmission area, view ports)
 
 {| class="wikitable"
 |-
@@ -41,14 +38,14 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} American medium tank {{Battle-
 |}
 '''Notes:'''
 
-- Suspension wheels are 15 mm thick, bogies are 10 mm thick, and tracks are 17 mm thick.
-- Hull doors and vision ports are 38.1 mm thick.
+* Suspension wheels are 15 mm thick, bogies are 10 mm thick, and tracks are 17 mm thick.
+* Hull doors and vision ports are 38.1 mm thick.
 
 The front glacis is separated in two plates with different angles and thicknesses, increasing the chance to bounce a shell off. The crew sits tightly in a limited compartment so any penetrating shot will likely knock out several crew members. The high crew count (6) compensates this aspect.
 
+
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp= 620|rbMinHp= 354}}
@@ -62,9 +59,7 @@ The suspension inherited from the [[M2]] gives it the Lee good all-terrain perfo
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|M5 (37 mm)}}
 
 The 37 mm gun is located in the rotating turret, mounted with a leftward offset, and has a small MG cupola on top which can rotate independently.
@@ -122,9 +117,7 @@ The 37 mm gun is located in the rotating turret, mounted with a leftward offset,
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|400px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.15.1.70''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -153,9 +146,7 @@ The 37 mm gun is located in the rotating turret, mounted with a leftward offset,
 
 === Additional armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Some tanks are armed with several guns in one or more turrets. Evaluate the additional weaponry and give advice on its use. Describe the ammunition available for additional weaponry. Give advice on about how to use them and how to fill the ammunition storage. If there is no additional weaponry remove this subsection.'' -->
-
 {{main|M2 (75 mm)}}
 
 The large sponson on the starboard side of the tank carries the 75 mm gun. While it is the secondary armament, take note that with only 2 crew members left, it will be the operational gun.
@@ -232,9 +223,7 @@ The 75 is fired through the "secondary armament" setting: Controls > Ground Vehi
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|400px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.15.1.70''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -249,9 +238,7 @@ The 75 is fired through the "secondary armament" setting: Controls > Ground Vehi
 === Machine guns ===
 {{Specs-Tank-Weapon|3}}
 {{Specs-Tank-Weapon|4}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|M1919A4 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -269,7 +256,6 @@ The 75 is fired through the "secondary armament" setting: Controls > Ground Vehi
 The small calibre of the M1919A4 machine gun makes them largely ineffective against all armoured vehicles but the ones with an open compartment. They still can be used to ping targets as a rangefinding help.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The multiple cannons allow for different combinations of attack. The 37 mm gun on the full 360° traverse turret allows for a diverse role on the M3, with its high-velocity and effective round for long-range fighting, but with a fast reload for close-quarter encounters. The 75 mm on the sponson mount has the same penetration level as the 37 mm, but with a very high post-penetration damage with the right ammo at the cost of lower velocity, and thus a shorter battle range. The limited traverse on the 75 mm mount also means it is not as flexible as the turreted 37 mm. With these two cannon, the M3 Lee can focus on close-range combat with the two cannons fighting a single tank or engage two separate tanks at a longer range. Closer range combat is supported by the M3's adequate sloped frontal armour, able to withstand most enemy fire at its battle rating. It is recommended to set the keys to allow separate firing of the cannons for maximum effectiveness.
@@ -281,34 +267,32 @@ At its BR, the M3 Lee has a possibility of facing long-barrelled [[Pz.III L|Pz.K
 When combating the M3 Lee, avoid its 75 mm gun by flanking the vehicle, then get in close and hug the sides or rear of the vehicle to prevent them from turning and going under the 37 mm's depression range. Aim for the large superstructure, a solid penetration will knock out all 6 crew members or make the ammunition combust. Note that firing through the side hatch will usually destroy the tank in a single shot, owing to the lack of sloping and ammunition storage.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Has two guns: a 37 mm and a 75 mm
-- 75 mm gun is powerful, sporting good penetration and post-penetration explosive damage
-- Side mounted 75 mm gives the ability for some unique tactics, such as only exposing the right side of the tank to fire
-- Above average frontal armour
-- Despite the tall profile, the "wedding cake" design of the turret has thick sloped armour, providing extra protection to make up for its height
-- 6 crew members means it typically can take multiple shots before it is fully destroyed
-- Very effective when using weapon selection as the two different turrets can cover each other while reloading
+* Has two guns: a 37 mm and a 75 mm
+* 75 mm gun is powerful, sporting good penetration and post-penetration explosive damage
+* Side mounted 75 mm gives the ability for some unique tactics, such as only exposing the right side of the tank to fire
+* Above average frontal armour
+* Despite the tall profile, the "wedding cake" design of the turret has thick sloped armour, providing extra protection to make up for its height
+* 6 crew members means it typically can take multiple shots before it is fully destroyed
+* Very effective when using weapon selection as the two different turrets can cover each other while reloading
 
 '''Cons:'''
 
-- Tall profile and a big target
-- Losing crew members means losing functionality of one of the turrets
-- Very awkward to use for new players, especially if the controls for the separate turrets are not properly set
-- 75 mm sponson, though powerful, is situational due to its awkward position
-  ** Cannot be used for hull-down combat
-  ** Only accurate when completely stationary
-- Tall position of turret restricts gun depression
-- Slow traverse speeds make it easy for fast tank to sneak around the sides
-- Weak side armour
-- Driver's vision port is a weak spot
+* Tall profile and a big target
+* Losing crew members means losing functionality of one of the turrets
+* Very awkward to use for new players, especially if the controls for the separate turrets are not properly set
+* 75 mm sponson, though powerful, is situational due to its awkward position
+** Cannot be used for hull-down combat
+** Only accurate when completely stationary
+* Tall position of turret restricts gun depression
+* Slow traverse speeds make it easy for fast tank to sneak around the sides
+* Weak side armour
+* Driver's vision port is a weak spot
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 ===Development===
@@ -351,30 +335,28 @@ The M3 Lee launched its combat career in North Africa in 1942. Deliveries were a
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=us_m3_lee Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=us_m3_lee Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|ly9JS6errQQ|'''Best secondary armaments''' discusses the {{PAGENAME}} at 5:41 - ''War Thunder Official Channel''|RyA5KcS2hAw|'''Multi-turreted Tanks''' discusses the {{PAGENAME}} at 2:31 - ''War Thunder Official Channel''|tiyrrgXGIc4|'''You said tank? it's more like a mobile fortress - M3 Lee''' - ''HowToPlay1337''|oy_Bs1tbsQ4|'''M3 Lee, American Tier-1 / Rank-1, Medium Tank''' - ''Angry Nerd Gaming''}}
+{{Youtube-gallery|ly9JS6errQQ|'''Best secondary armaments''' discusses the {{PAGENAME}} at 5:41 - ''War Thunder Official Channel''|RyA5KcS2hAw|'''Multi-turreted Tanks'''  discusses the {{PAGENAME}} at 2:31  - ''War Thunder Official Channel''|tiyrrgXGIc4|'''You said tank? it's more like a mobile fortress - M3 Lee''' - ''HowToPlay1337''|oy_Bs1tbsQ4|'''M3 Lee, American Tier-1 / Rank-1, Medium Tank''' - ''Angry Nerd Gaming''}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/2658/current/|[Historical] Steel Generals: M3 Lee]]
-- [[wt:en/devblog/current/712/|[Devblog] Developers about M3 Lee]]
+* [[wt:en/news/2658/current/|[Historical] Steel Generals: M3 Lee]]
+* [[wt:en/devblog/current/712/|[Devblog] Developers about M3 Lee]]
 
 === References ===
 <references />

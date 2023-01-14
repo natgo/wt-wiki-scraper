@@ -5,19 +5,16 @@
 }}
 {{Specs-Card
 |code=so_4050_vautour_2b
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.jpg}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet bomber {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -46,7 +43,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet bomber {{Battle-rat
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || X || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -113,15 +110,14 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet bomber {{Battle-rat
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 50 mm Bulletproof glass in front of the pilot.
-- 13.5 mm Steel plate behind the pilot's head.
-- 6 + 13.5 mm Steel plate in nose.
-- 3 mm Steel shell surrounding the cockpit in the fuselage.
-- 2 mm Steel plate behind the fuel cells.
-- 2 mm Steel plate in the tail.
+* 50 mm Bulletproof glass in front of the pilot.
+* 13.5 mm Steel plate behind the pilot's head.
+* 6 + 13.5 mm Steel plate in nose.
+* 3 mm Steel shell surrounding the cockpit in the fuselage.
+* 2 mm Steel plate behind the fuel cells.
+* 2 mm Steel plate in the tail.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -130,17 +126,15 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet bomber {{Battle-rat
 {{Specs-Avia-Armaments}}
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AN-M57 (250 lb)|AN-M64A1 (500 lb)|M117 cone 45 (750 lb)|AN-M65A1 Fin M129 (1,000 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- 10 x 250 lb AN-M57 bombs (2,500 lb total)
-- 10 x 500 lb AN-M64A1 bombs (5,000 lb total)
-- 10 x 750 lb M117 cone 45 bombs (7,500 lb total)
-- 6 x 1,000 lb AN-M65A1 Fin M129 bombs (6,000 lb total)
+* 10 x 250 lb AN-M57 bombs (2,500 lb total)
+* 10 x 500 lb AN-M64A1 bombs (5,000 lb total)
+* 10 x 750 lb M117 cone 45 bombs (7,500 lb total)
+* 6 x 1,000 lb AN-M65A1 Fin M129 bombs (6,000 lb total)
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -165,7 +159,6 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 There are two ways you can go about using the Vautour IIb, either dive or keep your altitude from your air spawn.
@@ -179,33 +172,31 @@ One way of playing the Vautour IIb is diving, rushing into a base bombing point 
 The other way of using the Vautour IIb is by keeping your altitude and climbing and then using your bombsight to bomb a base. Staying at a high altitude can prove safer as it can cause the Vautour to stay atop of many enemy fighters. However, bombing can be harder due to many more variables to keep account for when using the bomb sight. Getting up to altitude at standard speed can also make reaching the base harder, and so it would take a longer time to complete a bombing run. In some cases, more well-performing fighters like the F-100s can make this tactic moot as their speed will ensure they catch up and destroy the Vautour before it has a chance to drop its payload.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Insane acceleration
-- Climbs exceptionally well without ordnance
-- Energy retention is great
-- Airbrakes, you will need them to avoid compressing in a dive
-- Possesses a bombsight
-- Bomber airspawn (often above 3,000 m)
+* Insane acceleration
+* Climbs exceptionally well without ordnance
+* Energy retention is great
+* Airbrakes, you will need them to avoid compressing in a dive
+* Possesses a bombsight
+* Bomber airspawn (often above 3,000 m)
 
 '''Cons:'''
 
-- Lacks the rocket payload options of the Vautour IIA
-- Compresses at high speed
-- Massive penalties in-flight performance when carrying full payloads
-- Turns like a brick
-- Roll rate is also unimpressive
-- Fragile engines; a hit to an engine will make you easy prey for enemy fighters
-- Relies heavily on team support even more than the Vautour IIA does
-- Massive target
-- No offensive armament
-- 110% will easily overheat your engines after short use
+* Lacks the rocket payload options of the Vautour IIA
+* Compresses at high speed
+* Massive penalties in-flight performance when carrying full payloads
+* Turns like a brick
+* Roll rate is also unimpressive
+* Fragile engines; a hit to an engine will make you easy prey for enemy fighters
+* Relies heavily on team support even more than the Vautour IIA does
+* Massive target
+* No offensive armament
+* 110% will easily overheat your engines after short use
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The S.O.4050 Vautour IIB was developed by Sud Aviation after World War Two to meet the demand for the French Armée de l'Air. This was a challenging task, after the German occupation in France. Many aircraft design teams have scattered. France was also new to the new jet propulsion area. The requirements issued by the French government called for a jet-powered multi-role attack aircraft that can perform as a bomber, low-level attack aircraft, and an all-weather interceptor. SNCASO met those requirements with a modified version of the S.O 4000. The new plane was designated the S.O.4050 Vautour and was manufactured in three different variants. The plane would serve in the AdA for several decades before replaced the newer Dassault Mirage. The Vautour was also one of the stop-gap measures used by the AdA as a nuclear deterrent. The Vautour would later be exported to Israel and serve with the IAF to counter Egypt's IL-28 twin-engine bomber.
@@ -213,12 +204,11 @@ The S.O.4050 Vautour IIB was developed by Sud Aviation after World War Two to me
 The IIB, which differed from the previous IIA by adding a second crew member in a transparent nose, was a dedicated bomber variant. Its prototype first flew in December 1954. In total 40 of the IIB would be built. All were sold along with all of France's Vautour IIAs to Israel in 1960.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=so_4050_vautour_2b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=so_4050_vautour_2b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover">
@@ -229,22 +219,20 @@ Image:Damage Vautour IIb.png|<small>Damaged Vautour IIb</small>
 {{Youtube-gallery|5ybEEheCSXA|'''The S.O.4050 Vautour IIB Bomber''' - ''Orangefan''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[Yak-28B]]
+* [[Yak-28B]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wikipedia:Sud_Aviation_Vautour|[Wikipedia] Sud Aviation Vautour]]
-- [http://www.airvectors.net/avmir4.html <nowiki>[Air Vectors]</nowiki> The Sud Ouest Vautour II & Dassault Mirage IV]
-- [https://forum.warthunder.com/index.php?/topic/385708-sud-aviation-so4050-vautour-iib/ Official data sheet - more details about the performance]
+* [[wikipedia:Sud_Aviation_Vautour|[Wikipedia] Sud Aviation Vautour]]
+* [http://www.airvectors.net/avmir4.html <nowiki>[Air Vectors]</nowiki> The Sud Ouest Vautour II & Dassault Mirage IV]
+* [https://forum.warthunder.com/index.php?/topic/385708-sud-aviation-so4050-vautour-iib/ Official data sheet - more details about the performance]
 
 {{AirManufacturer SNCA SO}}
 {{France jet aircraft}}

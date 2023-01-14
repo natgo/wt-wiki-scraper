@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
 The Spitfire F Mk XVI is a very unique plane with an awkwardly unique role and design. Virtually identical to the [[Spitfire LF Mk IX]], aside from the clipped wings and bubble cockpit, the Mk XVI combines the low-altitude capabilities of the aforementioned fighter with the fantastic roll, dive, and speed capabilities of the German [[Fw 190 (Family)|Focke-Wulfe 190 series]].
@@ -27,7 +25,6 @@ Thus, the Spitfire F Mk XVI is not a suitable Boom & Zoom nor high-altitude figh
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -55,7 +52,7 @@ Thus, the Spitfire F Mk XVI is not a suitable Boom & Zoom nor high-altitude figh
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || X || ✓ || X || X <!-- ✓ -->
+| X || X || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -108,15 +105,14 @@ Thus, the Spitfire F Mk XVI is not a suitable Boom & Zoom nor high-altitude figh
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 38 mm Bulletproof glass - Armoured windscreen
-- 4 mm Steel plate in pilot's seat
-- 3-7 mm Steel plate behind the pilot
-- 6 mm Steel plate in front of liquid cooling system
-- 1 mm Steel plate in front of fuel tanks
-- 3 mm Steel boxes around wing ammunition
+* 38 mm Bulletproof glass - Armoured windscreen
+* 4 mm Steel plate in pilot's seat
+* 3-7 mm Steel plate behind the pilot
+* 6 mm Steel plate in front of liquid cooling system
+* 1 mm Steel plate in front of fuel tanks
+* 3 mm Steel boxes around wing ammunition
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -125,32 +121,26 @@ Thus, the Spitfire F Mk XVI is not a suitable Boom & Zoom nor high-altitude figh
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Hispano Mk.II (20 mm)|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 20 mm Hispano Mk.II cannons, wing-mounted (135 rpg = 270 total)
-- 2 x 12.7 mm M2 Browning machine guns, wing-mounted (260 rpg = 520 total)
+* 2 x 20 mm Hispano Mk.II cannons, wing-mounted (135 rpg = 270 total)
+* 2 x 12.7 mm M2 Browning machine guns, wing-mounted (260 rpg = 520 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|G.P. Mk.IV (250 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 250 lb G.P. Mk.IV bombs (500 lb total)
+* Without load
+* 2 x 250 lb G.P. Mk.IV bombs (500 lb total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 [[File:Spitfire F Mk XVI tailing.jpg|thumb|400px|A concerned [[Fw 190 (Family)|Fw 190]] pilot watching the {{PAGENAME}} tailing him.]]
 
 The Spitfire F Mk XVI is quite unique with its clipped wings. These give this version of the Spitfire a distinct advantage in roll rate, dive performance, and level top speed. However, they reduce the plane's ability to turn, and unlike other Merlin Spitfires this one is only average in its turning ability. Thankfully, it retains a good climb rate, even if it is not as high as that of the unclipped Spitfire variants. In addition, the clipped wings reduce lift at high altitudes, so performance is best when closer to sea level.
@@ -183,32 +173,30 @@ The Spitfire F Mk XVI can rightly be considered a jack of all trades. It has som
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Good climb rate, albeit lower than non-clipped wing variants
-- Great roll rate
-- Great dive acceleration
-- Better dive speed than other Merlin Spitfires
-- Better turning ability that most of its German and American counterparts
-- New M2 HMGs are far more effective than the Browning .303s
-- Good 20 mm cannons
-- Ability to mount bombs for a ground attack option
-- Slightly better simulator visibility due to its bubble cockpit
-- Stock parts are not as bad as some other rank IV or V planes, such as the P-51D-5, Ki-84 and Late Bf 109s
+* Good climb rate, albeit lower than non-clipped wing variants
+* Great roll rate
+* Great dive acceleration
+* Better dive speed than other Merlin Spitfires
+* Better turning ability that most of its German and American counterparts
+* New M2 HMGs are far more effective than the Browning .303s
+* Good 20 mm cannons
+* Ability to mount bombs for a ground attack option
+* Slightly better simulator visibility due to its bubble cockpit
+* Stock parts are not as bad as some other rank IV or V planes, such as the P-51D-5, Ki-84 and Late Bf 109s
 
 '''Cons:'''
 
-- Worse turning ability than all other Merlin Spitfires
-- Worse dive speed than its German and American counterparts
-- Poor performance at high altitude
-- Relatively low rip speed (650 km/h)
-- Low wing lift efficiency when at high altitudes or speeds under 320 km/h (200 mph)
+* Worse turning ability than all other Merlin Spitfires
+* Worse dive speed than its German and American counterparts
+* Poor performance at high altitude
+* Relatively low rip speed (650 km/h)
+* Low wing lift efficiency when at high altitudes or speeds under 320 km/h (200 mph)
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -220,12 +208,10 @@ The Mk XVI variant was very similar to the Mk IX; however, it was powered by a U
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=spitfire_xvi Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=spitfire_xvi Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|MNacjyimuCQ|'''The Shooting Range #95''' - ''Metal Beasts'' section at 00:57 discusses the Spitfire F Mk XVI.}}
@@ -233,16 +219,15 @@ The Mk XVI variant was very similar to the Mk IX; however, it was powered by a U
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!--''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.''-->
 
-- [https://forum.warthunder.com/index.php?/topic/341986-supermarine-spitfire-lfmkxvie/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/341986-supermarine-spitfire-lfmkxvie/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Supermarine}}
 {{Britain fighters}}

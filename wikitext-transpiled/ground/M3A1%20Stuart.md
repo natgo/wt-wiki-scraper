@@ -8,49 +8,44 @@
 }}
 {{Specs-Card
 |code=us_m3a1_stuart
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} American light tank {{Battle-rating}}. It was one of the first American tanks to be released with the American ground tree in [[Update 1.45 "Steel Generals"]]. Compared to its predecessor, the [[M3 Stuart|M3]], it has a more streamlined turret shape that presents a smaller target, the M3A1 is in a folder with its predecessor.
 
 == General info ==
 [[File:M3A1 screenshot 3.jpg|thumb|M3A1 takes hits while engaging enemy vehicles.]]
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 Being a light tank the M3A1 has fairly thin armour, it can generally protect against most machine guns and some smaller (20 mm) cannons, but will usually not stand up against the main weapons of most enemy tanks at its BR. There is a fair amount of empty space inside the tank, this means that some poorly placed shots can go through your tank without causing much damage.
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (gun mantlet, transmission housing)
+* Rolled homogeneous armour
+* Cast homogeneous armour (gun mantlet, transmission housing)
 
 {| class="wikitable"
 |-
 ! Armour !! Front !! Sides !! Rear !! Roof
 |-
-| Hull || 38.1 mm (18°) ''Upper plate'' <br> 25.4 mm ''Crew compartment sides'' <br> 15.8 mm (70°) ''Lower glacis'' <br> 44.4 mm (cylindrical) ''Transmission housing'' || 25.4 mm || 12.7 mm ''Upper plate'' <br> 25.4 mm (20°) ''Lower plate'' || 15.8 mm (20°) ''Front glacis'' <br> 12.7 mm
+| Hull || 38.1 mm (18°) ''Upper plate'' <br> 25.4 mm ''Crew compartment sides'' <br> 15.8 mm (70°) ''Lower glacis'' <br> 44.4 mm (cylindrical) ''Transmission housing''  || 25.4 mm || 12.7 mm ''Upper plate'' <br> 25.4 mm (20°) ''Lower plate'' || 15.8 mm (20°) ''Front glacis'' <br> 12.7 mm
 |-
-| Turret || 38.1 mm (6°) ''Turret front'' <br> 50.8 mm (spherical) ''Gun mantlet'' || colspan="2" | 31.75 mm (cylindrical) || 12.7 mm (15°) ''Front'' <br> 12.7 mm ''Rear''
+| Turret || 38.1 mm (6°) ''Turret front'' <br> 50.8 mm (spherical) ''Gun mantlet''  || colspan="2" | 31.75 mm (cylindrical) || 12.7 mm (15°) ''Front'' <br> 12.7 mm ''Rear''
 |-
 |}
 '''Notes:'''
 
-- Suspension wheels, tracks, and torsion bars are 15 mm thick.
-- Belly armour is 12.7 mm thick.
-- Mudguards and storage boxes are 4 mm thick.
+* Suspension wheels, tracks, and torsion bars are 15 mm thick.
+* Belly armour is 12.7 mm thick.
+* Mudguards and storage boxes are 4 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-
 [[File:M3A1 Turning Demo.gif|thumb|400px|Demonstration of the slow and fast turning of the M3A1]]
 
 The M3A1 has competitive mobility with a ratio of 20.8 hp per ton. At lower speeds (5-10 km/h) the turning can feel rather sluggish, but once a bit of forward movement is applied and the speed is increased the turning will feel much smoother and faster. The forward drive of the M3A1 can max out at 47 km/h off-road and 58 km/h on-road which will usually allow you to reach capture points or desirable camping spots quickly. The 6 km/h reverse speed of the M3A1 is certainly usable in most situations.
@@ -64,9 +59,7 @@ The M3A1 has competitive mobility with a ratio of 20.8 hp per ton. At lower spee
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|M6 (37 mm)}}
 
 Main weapon on the M3A1 is a 37 mm M6 cannon featuring two rounds, AP & APCBC. This is a fairly standard gun for early American tanks as it is also featured on the [[M5A1]], [[M22]] & [[LVT(A)(1)]] although some of these vehicles also include a HE round that the M3A1 lacks. This gun packs a fierce punch if aiming at the correct area and firing at the correct distance. It is a small calibre fast-firing gun with a maximum penetration of 84 mm at 100 m (M51B1 shell), being able to penetrate most of the opponents it will face. The penetration power and gun accuracy drop a lot beyond 500 m and become unreliable past 700 m. The gun is equipped with a vertical stabiliser, giving the M3A1 Stuart a huge advantage in some cases as you can fire precisely while moving, but keep in mind that it activates only when the tank is driving under 10 km/h.
@@ -126,9 +119,7 @@ While it lacks the post-penetration damage to disable most enemies in one shot, 
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.jpg|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -137,14 +128,13 @@ While it lacks the post-penetration damage to disable most enemies in one shot, 
 ! 3rd<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''106''' || 71&nbsp;''(+35)'' || 36&nbsp;''(+70)'' || 1&nbsp;''(+105)'' || No
+| '''106''' || 71&nbsp;''(+35)'' || 36&nbsp;''(+70)'' || 1&nbsp;''(+105)'' ||  No
 |-
 |}
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 
 The M3A1 employs a turret top MG and a coaxial MG, both of which are the same 7.62 mm M1919A4 type, these guns are limited to a single AP & T belt type with up too 10 mm of penetration.
@@ -162,9 +152,7 @@ The M3A1 employs a turret top MG and a coaxial MG, both of which are the same 7.
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 [[File:M3A1 Screenshot 1.jpg|thumb|M3A1 attacking a StuG III]]
 Due to its light armour it is advisable not to use the M3A1 frontally at closer ranges, especially not against higher ranked enemy vehicles that will go through your strongest frontal armour (50.8 mm) without issue. The ideal tactic to use is to employ your competitive speed to flank the enemy and find a position that will allow you to attack them with little resistance. Even in a match against higher ranked enemy vehicles your rounds will have no issue going through the side armour of said enemy vehicles, common maps such as [[Eastern Europe (Ground Forces)|Eastern Europe]] and [[Cargo Port]] offer clear opportunities to flank the enemy vehicles with good amounts of cover. This is especially clear on [[Eastern Europe (Ground Forces)|Eastern Europe]] where you can flank on the other side of the river that runs through the map, this puts you at close range to the side of enemy vehicles, allowing you to prevent them reaching capture points such as the central B point.
 
@@ -182,27 +170,25 @@ For the B1, either aim for the near-vertical frontal armour plate at the right s
 [[File:M3A1 Screenshot 2.jpg|thumb|M3A1 flanking on Eastern Europe]]
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great cannon with good penetration, excellent rate of fire and gun depression; it can effectively penetrate common opponents like the [[Pz.II (Disambiguation)|Pz.II]] and [[Chi-Ha (Family)|Chi-Ha]], as well as heavy targets like the [[B1 bis]] or [[Matilda III]]
-- Excellent acceleration, top speed and turning ability on all terrains; easily outruns slower opponents like the [[Pz.III (Disambiguation)|Pz.III]]
-- Access to a vertical stabiliser which most tanks don't have, it is an advantage in close quarter encounters
-- Respectable frontal armour that, if angled, might bounce some shells from a distance (eg. Japanese 37 mm/German 20 mm)
-- Small turret profile makes it harder to get hit when hull-down
-- Empty space below the turret crew can absorb poorly aimed shots, they tend to not do much damage
+* Great cannon with good penetration, excellent rate of fire and gun depression; it can effectively penetrate common opponents like the [[Pz.II (Disambiguation)|Pz.II]] and [[Chi-Ha (Family)|Chi-Ha]], as well as heavy targets like the [[B1 bis]] or [[Matilda III]]
+* Excellent acceleration, top speed and turning ability on all terrains; easily outruns slower opponents like the [[Pz.III (Disambiguation)|Pz.III]]
+* Access to a vertical stabiliser which most tanks don't have, it is an advantage in close quarter encounters
+* Respectable frontal armour that, if angled, might bounce some shells from a distance (eg. Japanese 37 mm/German 20 mm)
+* Small turret profile makes it harder to get hit when hull-down
+* Empty space below the turret crew can absorb poorly aimed shots, they tend to not do much damage
 
 '''Cons:'''
 
-- Weak armour against high-penetration shells like 50 mm Kwk 39 or 76 mm F-34
-- Its shells do not have explosive filler, severely limiting the post-penetration effect especially against spacious tanks like the [[LVT(A)(1)]]
-- Inefficient brakes when trying to stop the tank at full speed
-- Hull is fairly tall for a light tank and the crews are closely packed, reducing its survivability
+* Weak armour against high-penetration shells like 50 mm Kwk 39 or 76 mm F-34
+* Its shells do not have explosive filler, severely limiting the post-penetration effect especially against spacious tanks like the [[LVT(A)(1)]]
+* Inefficient brakes when trying to stop the tank at full speed
+* Hull is fairly tall for a light tank and the crews are closely packed, reducing its survivability
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 ===Development===
@@ -232,34 +218,29 @@ From April to August of 1942 the M3A1 was produced alongside the M3. Changes wer
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=us_m3a1_stuart Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=us_m3a1_stuart Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|1yg1DAEbG8A|'''The Stuart Family''' discusses the {{PAGENAME}} at 2:14 - ''War Thunder Official Channel''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
-
-- [[M2A2]]{{-}}[[M2A4 (1st Arm.Div.)]]
+* [[M2A2]]{{-}}[[M2A4 (1st Arm.Div.)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wikipedia:M3_Stuart|[Wikipedia] M3 Stuart]]
-- [https://tanks-encyclopedia.com/ww2/us/m3_stuart.php <nowiki>[Tanks Encyclopedia]</nowiki> Light Tank M3 Stuart]
+* [[wikipedia:M3_Stuart|[Wikipedia] M3 Stuart]]
+* [https://tanks-encyclopedia.com/ww2/us/m3_stuart.php <nowiki>[Tanks Encyclopedia]</nowiki> Light Tank M3 Stuart]
 
 {{TankManufacturer Ordnance Department}}
 {{USA light tanks}}

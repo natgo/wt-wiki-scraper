@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
 
 The {{PAGENAME}} was the last variant in the line of Swift fighters produced by Supermarine Aviation Works. This fighter was one of Britain's fighters to come out of the early 1950s. Post-war England saw new leadership which made the faulty assumption that for the next ten years or so, no new major conflict would happen and therefore defence spending, research and development on new aircraft was reduced to a trickle, mostly experimental prototypes made for research purposes.
@@ -24,9 +22,7 @@ Though never seeing combat during its short career, the {{PAGENAME}} has an oppo
 [[File:Swift F7 mcchungusbites 001.png|450px|thumb|right|The sleek {{PAGENAME}} searching for targets.]]
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The {{PAGENAME}} is a good fighter which excels in playing the interceptor role, however like the three bears from Goldilocks' story; this jet has a sweet spot in speed where it does well. Like many jets, this one does not do so well when slow and it becomes an easy target for others to attack. On the other hand, flying too fast causes the controls to lock up, preventing any real manoeuvring at all and, if playing in realistic or simulator battles, ripping off the wing-tips is a very real problem when moving too fast.
 
 The sweet spot or "just right" speed zone for the {{PAGENAME}} is between 700 km/h and 810 km/h. Here the jet will have sufficient speed to properly manoeuvre. Diving either to shoot down another aircraft or to get away from someone on your tail can be a challenge as doing so can result in the aircraft superseding the 810 km/h threshold (easily going into the mid 900s) and end up a sitting duck unable to manoeuvre or if close enough to the ground turning into a lawn dart because it could not pull up due to the control surfaces locking up.
@@ -58,7 +54,7 @@ Speed management is key to survival - the afterburner can aid with increasing th
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || X || X || X <!-- ✓ -->
+| X || ✓ || ✓ || X || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -124,13 +120,12 @@ Speed management is key to survival - the afterburner can aid with increasing th
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
 ;Armour
 
-- 12.7 mm steel plate behind pilot's seat
-- 50 mm bulletproof glass in canopy windscreen
+* 12.7 mm steel plate behind pilot's seat
+* 50 mm bulletproof glass in canopy windscreen
 
 The simple armour setup on this fighter affords protection to the pilot, via the front windscreen having 50 mm bulletproof glass to help protect against head-on attacks. Behind the pilot's seat is a 12.7 mm steel plate which is in place to provide protection for the pilot if their aircraft is shot from behind. The fuel tanks and the engine should take most of the brunt of an attack from behind, but in the event, something gets through the steel plate is meant to be the last line of protection.
 
@@ -142,28 +137,24 @@ The simple armour setup on this fighter affords protection to the pilot, via the
 [[File:Swift F7 elitefe24 002.jpg |450px|thumb|right|]]
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|ADEN (30 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 30 mm ADEN cannons, belly-mounted at right side (135 + 185 = 320 total)
+* 2 x 30 mm ADEN cannons, belly-mounted at right side (135 + 185 = 320 total)
 
 This aircraft has been outfitted with two 30 mm ADEN autocannons. Though they are mounted on the fuselage resulting in not having to configure for convergence the pilot will need to account for both autocannons being mounted on the right side of the aircraft fuselage near the right air intake. Pilots which are used to having balanced machine guns or autocannons (equal amounts on both left and right side) will need to slightly adjust their aim to ensure the bullets don't miss just to the side of where they would normally aim. The ADEN cannons when they do hit their mark usually result in a critical hit or a destroyed aircraft with wings flying in one direction and tail sections going in another.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|Fireflash}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x Fireflash missiles
+* Without load
+* 2 x Fireflash missiles
 
 The Fireflash missile was the first air-to-air guided missile put into service with the United Kingdom's Royal Air Force. Built by Fairey Aviation, the same company who built the [[Swordfish Mk I|Swordfish]], this missile utilised radar beam riding guidance to get the missile onto a target. The odd-looking missile consists of a central dart attached to two boosters. The boosters spin-stabilize the missile in flight and propel the missile to speeds upwards of Mach 2. 1.5 seconds after launch, with fuel spent, the boosters separate and the missile would coast the rest of the way to the target, still receiving guidance from the controlling aircraft.
 
@@ -172,9 +163,7 @@ This missile has an effective range of about 4 km (2.4 mi) before it no longer h
 {{Notice|Unlike heat-seeking missiles, beam riding missiles will not trigger a missile launch warning for the enemy player.}}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 [[File:Swift F7 elitefe24 003.jpg|450px|thumb|right|]]
 The Swift F.7 is played similar to the [[Hunter F.1|Hunter]] as more of a Boom and Zoom aircraft, though it retains dogfighting capability, especially when making use of take-off flaps. The aircraft has a sweet spot for its manoeuvrability around 600-800 km/h. Above those speeds, sustaining a hard turn (or alternatively turning and rolling simultaneously) can result in a ripped wing. It is generally advised to keep some altitude with the aircraft. The missiles are SACLOS-guided and can be useful in head-on. The vehicle has an afterburner which results in higher acceleration than most jets that you will face, though opponents such as the [[Shenyang F-5]] and [[AV-8A]] Harrier are capable of accelerating faster. It is recommended to use either 20 minutes of fuel or full tank as 7 minutes does not allow for prolonged use of the afterburner, nor does it allow for loitering.
 
@@ -185,9 +174,7 @@ Alternatively the Swift F.7 can be played more aggressively, making use of its e
 When in a compromised position against a more manoeuvrable aircraft the priority should be to gain separation with the enemy. This can be done against most opponents by accelerating to high speeds using the afterburner, as you can maintain a higher speed in level flight than most aircraft you will face - the Swift F.7 is capable of reaching 1,100 km/h in level flight at sea level while making use of the afterburner. Once separation has been achieved you can make use of your higher energy state and speed to gain some altitude and re-engage on your terms.
 
 ===Radars===
-
 <!--{{main|AN/APG-30}}-->
-
 The Swift F.7 is equipped with an AN/APG-30 rangefinding radar, located in the nose of the aircraft.
 It will automatically detect other planes within the scanning area and display the range to the closest target. It is linked with a gyro gunsight and can help with aiming at close range.
 
@@ -204,31 +191,28 @@ It will automatically detect other planes within the scanning area and display t
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Superb flight performance thanks to the afterburner; retains energy very well in turns
-- Access to excellent [[Fireflash]] short-range beam-guided air-to-air missiles, that also work against light tanks and helicopters in Ground Realistic Battles
-- Equipped with two powerful 30 mm ADEN autocannons
-- Fireflash can be considered as all-aspect missiles; unfazed by flares and equipped with a proximity fuse
-- Flaps and wings have a very high rip speed limit
-- Can withstand some damage from 7.62 mm and .50 cal rounds
-- Afterburner takes about 8-15 minutes of continuous use to cause engine overheating
+* Superb flight performance thanks to the afterburner; retains energy very well in turns
+* Access to excellent [[Fireflash]] short-range beam-guided air-to-air missiles, that also work against light tanks and helicopters in Ground Realistic Battles
+* Equipped with two powerful 30 mm ADEN autocannons
+* Fireflash can be considered as all-aspect missiles; unfazed by flares and equipped with a proximity fuse
+* Flaps and wings have a very high rip speed limit
+* Can withstand some damage from 7.62 mm and .50 cal rounds
+* Afterburner takes about 8-15 minutes of continuous use to cause engine overheating
 
 '''Cons:'''
 
-- No dedicated airbrake, must use take-off flaps as an airbrake at high speeds
-- Both autocannons are on the right side of the aircraft fuselage, requires slight adjustment when aiming
-- Fireflash missiles have to be manually guided; 2 Gs overload limits the performance
-- Poor manoeuvrability at high speeds (> 950 km/h) and high risk of ripping wings while pulling Gs
-- Less ammunition for 30 mm ADEN than the F.1 variant; requires trigger discipline
+* No dedicated airbrake, must use take-off flaps as an airbrake at high speeds
+* Both autocannons are on the right side of the aircraft fuselage, requires slight adjustment when aiming
+* Fireflash missiles have to be manually guided; 2 Gs overload limits the performance
+* Poor manoeuvrability at high speeds (> 950 km/h) and high risk of ripping wings while pulling Gs 
+* Less ammunition for 30 mm ADEN than the F.1 variant; requires trigger discipline
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 In the years following the end of WW2, Great Britain focused their efforts on rebuilding their nation from the devastation caused by the war as the British government didn't consider a new war possible in the following ten years. Under these circumstances, developing new military technology wasn't considered a priority in most cases.
 
 As a result, Great Britain found itself lagging behind in military aviation at the start of the 1950s by the outbreak of the Korean War. This prompted the RAF to hastily look for a new fighter aircraft to put into service, even if it meant taking into consideration an interim design.
@@ -244,12 +228,10 @@ Newer modifications were developed, which addressed most of the known issues. Ho
 ''- From [[wt:en/news/6342-development-supermarine-swift-banking-on-success-en|Devblog]]''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=swift_f7 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=swift_f7 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover" heights="150">
@@ -261,34 +243,31 @@ Image:Swift F7 WTWallpaper 002.jpg|
 {{Youtube-gallery|bBeNjjWfoyQ|'''The Fireflashes Are The Most Fun You'll Have With Missiles''' - ''Spit_flyer''|kLUvhT1l14w|'''Is The Supermarine Swift F.7 Worth your time?''' - ''DEFYN''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
-- Supermarine [[Attacker FB 1]]
-- Supermarine [[Attacker FB.2]]
+* Supermarine [[Attacker FB 1]]
+* Supermarine [[Attacker FB.2]]
 
 ;Aircraft of comparable role, configuration and era
 
-- North American [[F-86 (Family)|F-86]] Sabre
-- Dassault [[M.D.450B Ouragan]]
-- de Havilland [[Venom FB.4|Venom]]
-- Grumman [[F9F (Family)|F9F Cougar]]
-- Hawker [[Hunter (Family)|Hunter]]
-- Mikoyan-Gurevich [[MiG-17 (Family)|MiG-17]]
-- Saab [[J29D]] Tunnan
+* North American [[F-86 (Family)|F-86]] Sabre
+* Dassault [[M.D.450B Ouragan]]
+* de Havilland [[Venom FB.4|Venom]]
+* Grumman [[F9F (Family)|F9F Cougar]]
+* Hawker [[Hunter (Family)|Hunter]]
+* Mikoyan-Gurevich [[MiG-17 (Family)|MiG-17]]
+* Saab [[J29D]] Tunnan
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6342-development-supermarine-swift-banking-on-success-en|[Development<nowiki>]</nowiki> Supermarine Swift: Banking on Success]]
-- [https://forum.warthunder.com/index.php?/topic/463997-swift-f7/ Official data sheet - more details about the performance]
+* [[wt:en/news/6342-development-supermarine-swift-banking-on-success-en|[Development<nowiki>]</nowiki> Supermarine Swift: Banking on Success]]
+* [https://forum.warthunder.com/index.php?/topic/463997-swift-f7/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Supermarine}}
 {{Britain jet aircraft}}

@@ -1,20 +1,16 @@
 {{Specs-Card
 |code=br_693_ab2
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.93 "Shark Attack"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The Br.693AB2 has impressive flight characteristics for a plane of its class. The aircraft has a great top speed of almost 500 km/h at higher altitudes when spaded, making it almost as fast as many monoplane fighters of its rank. However, be aware that the aircraft doesn't usually get that high, and is effectively limited to a max speed of 375 km/h in level flight at lower altitudes. The climb rate of this plane is also rather lacklustre, though the plane doesn't typically need to climb for any reason. The aircraft's engines are quite reliable, but will overheat if WEP is applied for too long.
 
 However, the main advantage of this aircraft are its handling characteristics. The Br.693AB2 has a great set of control surfaces that allow it to be very snappy and responsive for a twin-engined aircraft. The plane has a decent roll rate, and moreover, a great turn rate. This means that it may be able to outturn fighters such as the Bf 109 in a turnfight. That said, the plane's energy retention characteristics are mediocre meaning that extended turning engagements are not recommended.
@@ -44,7 +40,7 @@ However, the main advantage of this aircraft are its handling characteristics. T
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -89,12 +85,11 @@ However, the main advantage of this aircraft are its handling characteristics. T
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 10 mm steel seat for pilot
-- 10 mm steel in front of gunner
-- Self-sealing fuel tanks (3 in each wing)
+* 10 mm steel seat for pilot
+* 10 mm steel in front of gunner
+* Self-sealing fuel tanks (3 in each wing)
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -103,46 +98,38 @@ However, the main advantage of this aircraft are its handling characteristics. T
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Hispano 404 (20 mm)|MAC 1934 (7.5 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 1 x 20 mm Hispano 404 cannon, nose-mounted (90 rpg)
-- 2 x 7.5 mm MAC 1934 machine guns, nose-mounted (500 rpg = 1,000 total)
+* 1 x 20 mm Hispano 404 cannon, nose-mounted (90 rpg)
+* 2 x 7.5 mm MAC 1934 machine guns, nose-mounted (500 rpg = 1,000 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|G.A. MMN. 50 (50 kg)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 8 x 50 kg G.A. MMN. 50 bombs (400 kg total)
+* Without load
+* 8 x 50 kg G.A. MMN. 50 bombs (400 kg total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|MAC 1934T (7.5 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 1 x 7.5 mm MAC 1934T machine gun, dorsal turret (500 rpg)
-- 1 x 7.5 mm MAC 1934T machine gun, ventral turret (500 rpg)
+* 1 x 7.5 mm MAC 1934T machine gun, dorsal turret (500 rpg)
+* 1 x 7.5 mm MAC 1934T machine gun, ventral turret (500 rpg)
 
 Note: Both turrets are operated by the same gunner, so both turrets become disabled if the single gunner is knocked out. As well, the ventral turret cannot rotate at all meaning that it is essentially useless in rear defence.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Br.693AB2 is an excellent starting attacker with forgiving flight characteristics. It can be used for a variety of missions depending on the pilot's needs. The aircraft can be employed as a traditional attacker, destroying softer ground targets. It can also be used as a bomber-hunter or air-defence fighter, making use of its great handling and heavy frontal armament. However, take note that the frontal armament is angled slightly downwards making it slightly harder to aim against air targets. In general, there are two main playstyles / approaches for this aircraft, highlighted below:
 
 '''Ground attack / CAS:'''
@@ -175,27 +162,25 @@ When flying this aircraft in an anti-air role, make sure to fly defensively. Wat
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Offensive guns are nose-mounted meaning that convergence isn't an issue
-  \*\* Take note that the guns are tilted slightly downwards, which can take some getting used to in air combat, but makes shooting ground targets easier.
-- Has surprisingly responsive controls and good manoeuvrability for a twin-engined fighter
-- Main armament is relatively hard-hitting and can also carry some bombs for ground-attack
-- Has a dorsal defensive turret with strong firing angles, and a fixed ventral machine gun
-- Gets an Airspawn in Realistic battles
+* Offensive guns are nose-mounted meaning that convergence isn't an issue
+** Take note that the guns are tilted slightly downwards, which can take some getting used to in air combat, but makes shooting ground targets easier.
+* Has surprisingly responsive controls and good manoeuvrability for a twin-engined fighter
+* Main armament is relatively hard-hitting and can also carry some bombs for ground-attack
+* Has a dorsal defensive turret with strong firing angles, and a fixed ventral machine gun
+* Gets an Airspawn in Realistic battles
 
 '''Cons'''
 
-- Doesn't carry heavy weapons meaning that it is much more difficult to destroy harder targets
-  \*\* Cannot carry rockets or bombs over 50 kg
-- Lacking climb rate prevents it from getting to bomber altitude in a timely manner
-- Ventral machine gun is fixed-firing meaning that the bottom quadrant is virtually unprotected
+* Doesn't carry heavy weapons meaning that it is much more difficult to destroy harder targets
+** Cannot carry rockets or bombs over 50 kg
+* Lacking climb rate prevents it from getting to bomber altitude in a timely manner
+* Ventral machine gun is fixed-firing meaning that the bottom quadrant is virtually unprotected
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 Originally designed in response to a 1934 requirement for a three-seat heavy fighter, the Bréguet Bre.690C.3 (C.3 signifying it was a fighter manned by a 3-man crew) was rejected in favour of the Potez 630C.3 as Bréguet had chosen to ignore weight specifications that it found impossible to meet, instead proposing it to the French military as a multi-purpose aircraft. Following this rejection, Bréguet then revised it as a two-seat attack aircraft, with the navigator's position deleted and replaced by a bomb bay capable of holding 460 kg of bombs, and a revised armament of one fixed forward-firing 20 mm cannon supplemented by 2 forward firing 7.5 mm machine guns, one fixed rearward-firing 7.5 mm machine gun in a ventral position, and one flexible 7.5 mm machine gun manned by the rear gunner.
@@ -213,12 +198,10 @@ When defeat became inevitable, the French military started evacuating numerous a
 Other users of the Bre.690 series were the Italian Regia Aeronautica, which received a small number of Bre.693s as trainers in 1943, and Belgium, which had ordered 32 Bre.694s, and of which the first completed aircraft was undergoing trials in France at the time of the Battle of France. Sweden had placed an order for 12 Bre.694s, to be completed as S10 reconnaissance aircraft, but France fell before any could be built and the order was cancelled as a result.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=br_693_ab2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=br_693_ab2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="150px">
@@ -232,16 +215,15 @@ File:Bréguet 693 WTWallpaper 005.jpg
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6430-development-br%C3%A9guet-693a-b2-french-flavoured-ground-attack-en|[Development] Bréguet 693A-B2: French Flavoured Ground Attack]]
+* [[wt:en/news/6430-development-br%C3%A9guet-693a-b2-french-flavoured-ground-attack-en|[Development] Bréguet 693A-B2: French Flavoured Ground Attack]]
 
 {{AirManufacturer Breguet}}
 {{France twin-engine fighters and attackers}}

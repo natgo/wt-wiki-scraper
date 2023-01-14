@@ -1,23 +1,20 @@
 {{Specs-Card
 |code=germ_nbfz_VI
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was introduced in [[Update 1.51 "Cold Steel"]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (hull, main turret, MG turrets, cupola)
+* Rolled homogeneous armour (hull, main turret, MG turrets, cupola)
 
 {| class="wikitable"
 |-
@@ -35,14 +32,13 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} German medium tank {{B
 
 '''Notes:'''
 
-- Suspension wheels and tracks are 15 mm thick, while torsion bars are 10 mm thick.
-- Mudguards are 13 mm thick.
+* Suspension wheels and tracks are 15 mm thick, while torsion bars are 10 mm thick.
+* Mudguards are 13 mm thick.
 
 The {{PAGENAME}} has an even higher survivability than Panzer III/IV tanks at similar battle ratings because of its larger crew count and vehicle size. The armour thickness is actually rather thin, despite a very imposing look and a complex internal layout. It has six crew members: a driver, two machine gunners in small independent turrets, a gunner, a loader, and a commander in the main turret where both main guns are located. The front armour thickness ranges from just 13 mm to 20 mm, making it possible to immobilize it with heavy machine gun fire frontally.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=449|rbMinHp=256}}
@@ -56,7 +52,6 @@ The top speed of the {{PAGENAME}} is 28.5 km/h, which is slow for low-tier ranks
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 
 The Neubaufahrzeug's main armament is the KwK37 cannon, which shoots APHE, penetrating up to 52 mm of armour, 80 mm penetration HEAT, and smoke rounds. Problem is, due to the current limitations of the game, it is impossible to take more than four different kinds of shells, and for multi-gun tanks, each gun can just pick two shells in its repertoire. So the practical combinations would be either APHE+HEAT, APHE+smoke, or HEAT+smoke.
@@ -132,9 +127,7 @@ The Neubaufahrzeug's main armament is the KwK37 cannon, which shoots APHE, penet
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 1.101.0.44''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -151,12 +144,11 @@ The Neubaufahrzeug's main armament is the KwK37 cannon, which shoots APHE, penet
 |}
 '''Notes''':
 
-- Racks disappear after all shells in the rack have been shot or loaded.
-- Packing 25 (+55) shells (racks 1 to 4 emptied) is a good compromise between doing well in combat and minimizing ammo presence on board.
+* Racks disappear after all shells in the rack have been shot or loaded.
+* Packing 25 (+55) shells (racks 1 to 4 emptied) is a good compromise between doing well in combat and minimizing ammo presence on board.
 
 === Additional armament ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Some tanks are armed with several guns in one or more turrets. Evaluate the additional weaponry and give advice on its use. Describe the ammunition available for additional weaponry. Give advice on about how to use them and how to fill the ammunition storage. If there is no additional weaponry remove this subsection.'' -->
 
 The Neubaufahrzeug also has an additional second anti-tank gun in the main turret: a 37 mm KwK36, located to the left of the 75 mm cannon. This shoots either 47 mm penetration APHE or 86 mm penetration APCR rounds. It is the same decent gun as the Pz.III B and Pz.III E, but is best used as a backup to the 75 mm between reloads. It shoots at far higher muzzle velocity, so it is more suited to long-range engagements.
@@ -209,9 +201,7 @@ The Neubaufahrzeug also has an additional second anti-tank gun in the main turre
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 1.101.0.44''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -227,15 +217,13 @@ The Neubaufahrzeug also has an additional second anti-tank gun in the main turre
 |}
 '''Notes''':
 
-- Racks disappear after all shells in the rack have been shot or loaded.
-- Packing 21 (+29) shells (racks 1 to 3 emptied) is a good compromise between doing well in combat and minimizing ammo presence on board.
+* Racks disappear after all shells in the rack have been shot or loaded.
+* Packing 21 (+29) shells (racks 1 to 3 emptied) is a good compromise between doing well in combat and minimizing ammo presence on board.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|3}}
 {{Specs-Tank-Weapon|4}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|MG13 Dreyse (7.92 mm)}}
 
 The Neubaufahrzeug also holds three small-calibre MG13 Dreyse machine guns, which are similar to the MG34 and use the same belts. At best, they're good for strafing flak trucks, but in practicality, they're almost useless since the two MG turrets have very poor turret traverse.
@@ -255,15 +243,13 @@ The Neubaufahrzeug also holds three small-calibre MG13 Dreyse machine guns, whic
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 '''Ammo choices:'''
 
 Consider the following amunition for battles:
 
-- 75 mm gun: Bring ~20 shots of K.Gr.rot Pz. APCBC to deal with light and medium tanks, ~8 shots of Hl.Gr 38B HEAT for heavy tanks.
-- 37 mm gun: Bring ~20 rounds of PzGr APHE for lightly armoured targets, and ~20 shots of PzGr 40 APCR for medium and heavy targets.
+* 75 mm gun: Bring ~20 shots of K.Gr.rot Pz. APCBC to deal with light and medium tanks, ~8 shots of Hl.Gr 38B HEAT for heavy tanks.
+* 37 mm gun: Bring ~20 rounds of PzGr APHE for lightly armoured targets, and ~20 shots of PzGr 40 APCR for medium and heavy targets.
 
 '''In general:'''
 
@@ -287,38 +273,36 @@ The {{PAGENAME}}'s dual cannon design brings another interesting tactic: in a st
 
 === Enemies worth noting: ===
 
-- [[B1 bis|B1]]: The HEAT shell for the 75 mm can generally be adequate against the B1 bis. If the B1 bis is angling, target its turret ring or copula to disable its 47 mm gunner, make sure to use 75 mm HEAT and 37 mm APCR. Use the same ammo if you get to shoot the B1 bis's side or rear. Against a B1 ter, target the copula with APHE/APCBC so the shrapnel can travel downwards and knock out the 47 mm gunner. Unfortunately the 75 mm HEAT and 37 mm APCR will be largely ineffective when shooting its hull side, so target its hull rear or turret sides and rear.
-- [[Valentine I|Valentine Mk I]]: The Valentine I is a bit easier to penetrate as its armour is 60 mm compared to the B1's ~70 mm, but it has a much stronger 40 mm gun which you should avoid at all costs. Ammo from both of your cannons don't perform that much better against it, since experienced Valentine commanders will angle. Still you can target its turret front with HEAT/APCR. Knocking out the 2 crew inside its turret will destroy it as that's 2/3 of its crew. Concisely, as an early war tank, just avoid these heavy vehicles where possible and call for stronger teammates to help.
-- SPAAG: Fast vehicles with autocannons, mostly self-propelled anti-aircraft guns, are also a concern as the autocannon can easily chew up the {{PAGENAME}} once they begin firing on it. Some examples are [[AS 42]] and [[Flakpanzer 38]]. Although the {{PAGENAME}} has a typically faster turret traverse speed than the other contemporary German medium tanks, its not a big enough improvement to track a flanking vehicle should it catch the {{PAGENAME}} off guard.
+* [[B1 bis|B1]]: The HEAT shell for the 75 mm can generally be adequate against the B1 bis. If the B1 bis is angling, target its turret ring or copula to disable its 47 mm gunner, make sure to use 75 mm HEAT and 37 mm APCR. Use the same ammo if you get to shoot the B1 bis's side or rear. Against a B1 ter, target the copula with APHE/APCBC so the shrapnel can travel downwards and knock out the 47 mm gunner. Unfortunately the 75 mm HEAT and 37 mm APCR will be largely ineffective when shooting its hull side, so target its hull rear or turret sides and rear.
+* [[Valentine I|Valentine Mk I]]: The Valentine I is a bit easier to penetrate as its armour is 60 mm compared to the B1's ~70 mm, but it has a much stronger 40 mm gun which you should avoid at all costs. Ammo from both of your cannons don't perform that much better against it, since experienced Valentine commanders will angle. Still you can target its turret front with HEAT/APCR. Knocking out the 2 crew inside its turret will destroy it as that's 2/3 of its crew. Concisely, as an early war tank, just avoid these heavy vehicles where possible and call for stronger teammates to help.
+* SPAAG: Fast vehicles with autocannons, mostly self-propelled anti-aircraft guns, are also a concern as the autocannon can easily chew up the {{PAGENAME}} once they begin firing on it. Some examples are [[AS 42]] and [[Flakpanzer 38]]. Although the {{PAGENAME}} has a typically faster turret traverse speed than the other contemporary German medium tanks, its not a big enough improvement to track a flanking vehicle should it catch the {{PAGENAME}} off guard.
 
 === Against the Nb.Fz: ===
 
-- '''Light tanks & SPAAs''': Light vehicles like [[M2A4]], [[A13 (Family)|A13]], [[BT-5]], etc should use their superior speed and manoeuvrability to their advantage, and flank the Nb.Fz. The Nb.Fz. has slow hull traverse, substandard turret rotation for all turrets, and sluggish acceleration, meaning it cannot deal with your surprise attack quickly and is certain to take damage. In a flank, destroy its driver or engine first so it cannot move, then wipe out its turret crew. No need to worry about it returning fire as its turret will never complete a 90° turn before you load your second shell/clip. However, if it happens to face you, shoot the right side of its main turret to knock out its gunner, then go for the rest of the crew. Never get hit by it though, as its cannons can fire explosive APHE/APHEBC or piercing APCR/HEAT which are all fatal for your light vehicle.
-- '''Medium tanks & tank destroyers''': Medium tanks loses the advantage of fast speed meaning they cannot flank as effectively, while tank destroyers are usually turretless, armed with medium-tank-level cannons, and have similar mobility as medium tanks. Now, since flanking happens less and direct engagement rate increases, you should aim for the right side of its main turret to disarm it. Only peek out and fire when the Nb.Fz. is distracted. If it misses a shot, do not go out immediately since it probably has another cannon loaded, waiting for you to take the bait. Thus, it is better to act defensively and wait for the Nb.Fz. to make mistakes first, such as shifting its focus to another teammate. For open-top tank destroyers, relocate immediately if the Nb.Fz. drops an artillery strike on you.
-- '''Heavy tanks''': Well-protected tanks (e.g. [[Valentine I]], [[B1 bis]]) can only face the Nb.Fz. in a full downtier. Thanks to the thick armour on these tanks you can comfortably take its blows. However you still need to angle or swing your turret randomly to increase your effective thickness as well as to throw off the Nb.Fz.'s aim. It has a maximum penetration of 80 mm which might go through your weak spot, but can be easily surpassed by angling constantly.
+* '''Light tanks & SPAAs''': Light vehicles like [[M2A4]], [[A13 (Family)|A13]], [[BT-5]], etc should use their superior speed and manoeuvrability to their advantage, and flank the Nb.Fz. The Nb.Fz. has slow hull traverse, substandard turret rotation for all turrets, and sluggish acceleration, meaning it cannot deal with your surprise attack quickly and is certain to take damage. In a flank, destroy its driver or engine first so it cannot move, then wipe out its turret crew. No need to worry about it returning fire as its turret will never complete a 90° turn before you load your second shell/clip. However, if it happens to face you, shoot the right side of its main turret to knock out its gunner, then go for the rest of the crew. Never get hit by it though, as its cannons can fire explosive APHE/APHEBC or piercing APCR/HEAT which are all fatal for your light vehicle.
+* '''Medium tanks & tank destroyers''': Medium tanks loses the advantage of fast speed meaning they cannot flank as effectively, while tank destroyers are usually turretless, armed with medium-tank-level cannons, and have similar mobility as medium tanks. Now, since flanking happens less and direct engagement rate increases, you should aim for the right side of its main turret to disarm it. Only peek out and fire when the Nb.Fz. is distracted. If it misses a shot, do not go out immediately since it probably has another cannon loaded, waiting for you to take the bait. Thus, it is better to act defensively and wait for the Nb.Fz. to make mistakes first, such as shifting its focus to another teammate. For open-top tank destroyers, relocate immediately if the Nb.Fz. drops an artillery strike on you.
+* '''Heavy tanks''': Well-protected tanks (e.g. [[Valentine I]], [[B1 bis]]) can only face the Nb.Fz. in a full downtier. Thanks to the thick armour on these tanks you can comfortably take its blows. However you still need to angle or swing your turret randomly to increase your effective thickness as well as to throw off the Nb.Fz.'s aim. It has a maximum penetration of 80 mm which might go through your weak spot, but can be easily surpassed by angling constantly.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Can chain the two guns between reloads of each
-- Both guns reload in similarly fast speeds
-- High survivability due to numerous and well-spaced out crew
-- More mobile than one would expect for such a large tank
-- Good zoom on the guns
+* Can chain the two guns between reloads of each
+* Both guns reload in similarly fast speeds
+* High survivability due to numerous and well-spaced out crew
+* More mobile than one would expect for such a large tank
+* Good zoom on the guns
 
 '''Cons:'''
 
-- Armour is deceptively thin for such a large tank
-- Top speed is nothing to write home about in this rank
-- Would find its options limited when against the [[B1 bis]], [[B1 ter]], and [[Valentine I]]
-- Awful turret traverse on all three turrets makes it hard to react well to multiple enemies, let alone flak trucks
-- Large target
+* Armour is deceptively thin for such a large tank
+* Top speed is nothing to write home about in this rank
+* Would find its options limited when against the [[B1 bis]], [[B1 ter]], and [[Valentine I]]
+* Awful turret traverse on all three turrets makes it hard to react well to multiple enemies, let alone flak trucks
+* Large target
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The Neubaufahrzeug was a prototype of what was to come with German heavy tanks. Historically, they were slow, heavy, and complicated. Not thought of as successful, only 5 were actually built. 3 of these tanks were sent to Norway at the start of the war, but only 1 of the 3 saw action. They were mostly used for propaganda.
@@ -336,37 +320,33 @@ The official name of this subdivision in battalion documentation was Zug "Plutos
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_nbfz_VI Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_nbfz_VI Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|ZnopLjce42E|'''The Shooting Range #225''' - ''Pages of History'' section at 03:43 discusses the {{PAGENAME}}.|RyA5KcS2hAw|'''Multi-turreted Tanks''' discusses the {{PAGENAME}} at 1:21 - ''War Thunder Official Channel''|Kzq_Nm2MgvA|"The Premium Neubaufahrzeug "Nb.Fz.", German Tier-1, Medium Tank" - "Angry Nerd Gaming"}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
 
-- [[T-35]]
-- [[Independent]]
-- [[Ro-Go]]
+* [[T-35]]
+* [[Independent]]
+* [[Ro-Go]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/devblog/current/787|[Development] Neubaufahrzeug VI]]
-- [[wikipedia:Neubaufahrzeug|[Wikipedia] Neubaufahrzeug]]
-- [https://tanks-encyclopedia.com/ww2/nazi_germany/neubaufahrzeug.php <nowiki>[Tanks Encyclopedia]</nowiki> Neubaufahrzeug]
+* [[wt:en/devblog/current/787|[Development] Neubaufahrzeug VI]]
+* [[wikipedia:Neubaufahrzeug|[Wikipedia] Neubaufahrzeug]]
+* [https://tanks-encyclopedia.com/ww2/nazi_germany/neubaufahrzeug.php <nowiki>[Tanks Encyclopedia]</nowiki> Neubaufahrzeug]
 
 {{Germany medium tanks}}
 {{Germany premium ground vehicles}}

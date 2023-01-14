@@ -9,17 +9,13 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Battle-rating}}. It was introduced in [[Update "Hot Tracks"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 Despite being the heaviest, longest and biggest jet attacker in the game, the Buccaneer has an impressive cruise speed, manoeuvrability and climb rate even when fully loaded. It should be noted that it is nowhere near on being the fastest plane at its battle rating but can become a forceful opponent when being hunted down, especially if the Buccaneer has a speed advantage. Despite having a max speed of 1,084 km/h, the aircraft is able to reach that speed even when fully loaded flying at level flight. It is able to surpass the max speed at level flight up to 1,112 km/h but any sudden turn will tear apart the wings. Overall agility of the Buccaneer is impressive for a plane of its size capable of doing hard turns with relative ease even with payload.
 
 '''When on take-off:'''
@@ -57,7 +53,7 @@ The Buccaneer is one of only a few aircraft in the game to have a blown flaps sy
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || ✓ || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || X     <!-- ✓ -->
 |-
 |}
 
@@ -123,9 +119,7 @@ The Buccaneer is one of only a few aircraft in the game to have a blown flaps sy
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 The Buccaneer is a large target with no armour. The fuel tanks are all mounted in the upper fuselage (above the bomb bay) and although a relatively small target the engines are exposed (mounted not far back from the air intakes). This means that enemy fire will often damage the fuel tanks, the engines, or both. The Buccaneer can fly ok with damage, but is prone to enter a flat spin if one engine is lost during low speed flight (i.e. when landing).
 
 The Buccaneer uses drooping ailerons (the ailerons deflect downwards with the flaps); this increases the lift produced when flaps are deployed. However it means that if you go too fast and rip your flaps off the ailerons are likely to be ripped off as well (as the ailerons also act as flaps), this makes the aircraft very hard to control. If the tail is destroyed, the plane will also lose its elevator as both are connected. The Buccaneer has access to Radar Warning Receiver, meaning the pilot will realize when there is a radar who has a detected the plane (there will be a beeping sound) and a ping will be displayed on display which will activate on the HUD when there is a radar signal and when there is a radar lock there will be a continuous alert sound. This is useful when there is an aircraft with radar guided missiles and ground based radar anti air.
@@ -146,24 +140,22 @@ The Buccaneer uses drooping ailerons (the ailerons deflect downwards with the fl
 |}
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|Mk.M2 (540 lb)|H.E. M.C. Mk.II (500 lb)|L.D H.E. M.C. Mk.1 (1,000 lb)|H.E. M.C. Mk.13 (1,000 lb)}}
 {{main|AGM-12B Bullpup|AIM-9B Sidewinder|RP|RP-3}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- 24 x 500 lb H.E. M.C. Mk.II bombs (12,000 lb total)
-- 28 x 500 lb H.E. M.C. Mk.II bombs (14,000 lb total)
-- 28 x 540 lb Mk.M2 bombs (15,120 lb total)
-- 12 x 1,000 lb H.E. M.C. Mk.13 bombs (12,000 lb total)
-- 4 x 1,000 lb H.E. M.C. Mk.13 bombs + 8 x 1,000 lb L.D H.E. M.C. Mk.1 bombs (12,000 lb total)
-- 2 x AIM-9B Sidewinder missiles
-- 16 x RP-3 rockets
-- 144 x RP rockets
-- 4 x AGM-12B Bullpup missiles
-- 104 x large calibre countermeasures
+* 24 x 500 lb H.E. M.C. Mk.II bombs (12,000 lb total)
+* 28 x 500 lb H.E. M.C. Mk.II bombs (14,000 lb total)
+* 28 x 540 lb Mk.M2 bombs (15,120 lb total)
+* 12 x 1,000 lb H.E. M.C. Mk.13 bombs (12,000 lb total)
+* 4 x 1,000 lb H.E. M.C. Mk.13 bombs + 8 x 1,000 lb L.D H.E. M.C. Mk.1 bombs (12,000 lb total)
+* 2 x AIM-9B Sidewinder missiles
+* 16 x RP-3 rockets
+* 144 x RP rockets
+* 4 x AGM-12B Bullpup missiles
+* 104 x large calibre countermeasures
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -203,9 +195,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Buccaneer is a fully air-to-ground plane with very limited defensive capabilities against aircraft. It should never be used to attack enemy aircraft despite having the AIM-9B. These missiles are meant to be used in defence if there is a chance to get behind the enemy who is engaging the aircraft or against helicopters in combined battles. Using the Buccaneer as a fighter will quickly lead to death.
 [[File:Buccaneer Formation Attack.png|thumb|399x399px|Buccaneer Formation Dive Bombing]]
 The role of the Buccaneer is pretty straight forward when it comes to air battles: base bombing or ground/naval units bombing. It is recommended to utilize the different bomb payloads combined with flares or with the AIM-9B if the pilot wants. It is not recommended to take Bullpup AGMs as bombs are more useful in the air battles environment, including in Enduring Confrontation Simulator battles. Rockets are not recommended to be taken as they are inaccurate and useless even with ballistics computer against lightly armoured vehicles. Bullpups can be an sort of effective guided weapon when engaging enemy vessels. They are not recommended to be used against destroyers, cruisers, or battleships in any sort of match. Instead, use them for pinpoint hits on enemy carriers. A well-placed Bullpup is enough to make a carrier sink, it won't be as fast as with bombs but it will use a considerably less amount of ordnance.
@@ -215,12 +205,12 @@ The Buccaneer has a wide variety of bomb payloads for all types of players, for 
 === The use of AIM-9B in the Buccaneer ===
 The AIM-9B are far from being the best anti-air missiles in the game due to their speed and G-limit. They are not to be used against turning targets nor to chase supersonic targets, the use of AIM-9B is really limited but can be the main offensive line against an unaware enemy plane, specially since at that battle rating almost no aircraft has access to Missile Alert Warning. This makes the AIM-9B a reliable anti-air weapon and relatively long distances considering there is no other AA ordnance. This is specially reliable in Enduring Confrontation/Simulator battles as in other type of gamemodes, knowing the presence of the launcher and when the missile has been fired by eye contact is the main reason why AIM-9B are so easily evaded and countered. If the Buccaneer is to be used as a heavy missile fighter, this is the recommended attack flight path:
 
-- The method of engagement is a fairly standard low-risk hit-and-run pass. Approach the enemy, shoot, and break off. There's nothing too special about it, and it relies more on the speed to get into the target area, fire a single missile or a salvo if needed, and then get out of the danger zone as soon as possible lest you become the target of unwanted attention. It requires little in the way of skill and little in the way of performance upgrades, as the Buccaneer already has considerable engine power. However, it does not allow for sustained time on target and gives you only a small window of opportunity to make the shot.
+* The method of engagement is a fairly standard low-risk hit-and-run pass. Approach the enemy, shoot, and break off. There's nothing too special about it, and it relies more on the speed to get into the target area, fire a single missile or a salvo if needed, and then get out of the danger zone as soon as possible lest you become the target of unwanted attention. It requires little in the way of skill and little in the way of performance upgrades, as the Buccaneer already has considerable engine power. However, it does not allow for sustained time on target and gives you only a small window of opportunity to make the shot.
 
 '''''Reliable targets for the AIM-9B:'''''
 
-- All sorts of enemy AI attackers and bombers can be easily killed with a missile as they do not dump flares or do evasive manoeuvres like players
-- Helicopters (both AI and player controlled) as long as they are not the most modern attack choppers (Ka-50/52, AH-64, EC-665 HAD/HAP/UHT, etc)
+* All sorts of enemy AI attackers and bombers can be easily killed with a missile as they do not dump flares or do evasive manoeuvres like players
+* Helicopters (both AI and player controlled) as long as they are not the most modern attack choppers (Ka-50/52, AH-64, EC-665 HAD/HAP/UHT, etc)
 
 === Flight paths and engagement paths ===
 [[File:Buccaneer IRCM.png|left|thumb|413x413px|Buccaneer use of flares while doing a combat turn]]
@@ -264,31 +254,29 @@ R-60s are a different story as they are the opposite of AIM-7s and AIM-9s. They 
 This event is highly unlike to happen due to the SRAAM being a British missile while the Buccaneer is a British aircraft, but in case this happens, the aircraft must do a similar procedure as with the R-60s but with much more carefulness and responsiveness. The SRAAM is a vectoring thrust missile, meaning the missile can start turning without the need of much speed as the vectoring thrust changes the direction of the thrust, making it much more agile. It can be easily countered with speed (effective range is less than 1.2 km) and with the use of flares.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Massive bomb load of up to 16,000 lb with various payload options and combinations
-- Reasonably good flight performance
-- Very low stall/landing speed thanks to blown flaps
-- Can land on aircraft carriers
-- Has countermeasures and RWR
-- Can carry two [[AIM-9B Sidewinder]] missiles for limited air defence roles
-- Has a [[Ballistic Computer|ballistics computer]] with CCIP for bombs and rockets, as well as CCRP. The CCIP works in level flight, unlike on most other aircraft.
-- Has a [[HUD#Buccaneer HUD|Head-Up Display]] in the cockpit which provides flight information and weapon aiming functionality.
+* Massive bomb load of up to 16,000 lb with various payload options and combinations
+* Reasonably good flight performance
+* Very low stall/landing speed thanks to blown flaps
+* Can land on aircraft carriers
+* Has countermeasures and RWR
+* Can carry two [[AIM-9B Sidewinder]] missiles for limited air defence roles
+* Has a [[Ballistic Computer|ballistics computer]] with CCIP for bombs and rockets, as well as CCRP. The CCIP works in level flight, unlike on most other aircraft.
+* Has a [[HUD#Buccaneer HUD|Head-Up Display]] in the cockpit which provides flight information and weapon aiming functionality.
 
 '''Cons:'''
 
-- No guns; the only effective way to fight enemy aircraft are the two [[AIM-9B]] missiles
-- Big target; often will be targeted by enemy aircraft
-- Flares are carried in pods suspended from the outboard pylons; must sacrifice ordnance to carry them
-- The flare position and deployment pattern (out to the sides) severely limits their effectiveness
-- If flaps rips off the ailerons will be ripped off as well, making the aircraft very hard to control
-- Heavily loaded wings can rip in turns if not careful
+* No guns; the only effective way to fight enemy aircraft are the two [[AIM-9B]] missiles
+* Big target; often will be targeted by enemy aircraft
+* Flares are carried in pods suspended from the outboard pylons; must sacrifice ordnance to carry them
+* The flare position and deployment pattern (out to the sides) severely limits their effectiveness
+* If flaps rips off the ailerons will be ripped off as well, making the aircraft very hard to control
+* Heavily loaded wings can rip in turns if not careful
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The Blackburn Buccaneer was a response to the threatening expansion the Soviet Navy was having at the time. This expansion was the main menace to ships in the Atlantic, especially merchant ships. Thus, the British MoD opted to utilize their already existing naval weaponry and not make a new fleet to counter this expansion. In 1952, the preliminary requirements were set out: a carrier based two-seat jet with maximum speed of 550 knots and combat range of 400 nautical miles, able to carry 8,000 lb of both conventional weaponry and special weaponry such as the Red Beard free-fall nuclear bomb and the Green Cheese anti-ship missile. First responses were made in 1953 and the first prototyping of the Buccaneer was made. It was codenamed BNA (Blackburn Naval Aircraft) or BANA (Blackburn Advanced Naval Aircraft) which lead to the nickname "Banana jet". The first flight of the prototype was made in 1958. This turned into a successful aircraft and was produced under the name of Buccaneer S.1 and served with the FAA in 1963. It was powered by a pair of de Havilland Gyron Junior turbojets. Despite the success of the aircraft, the thrust generated by these engines was lacklustre and failed to achieve the required lift in order to carry the aircraft with full armament and fuel load. This could be resolved by taking the required amount of fuel needed to rendezvous with an aerial refuelling aircraft. While being a solution, it was inefficient as the low thrust generated by both engines while depending on lift blow marked a serious danger.
@@ -309,17 +297,16 @@ The first production version of the Buccaneer, the S.1, entered service with the
 However, after the British fleet carriers began being decommissioned in the late 1970's as part of a foreign policy agenda change, the Buccaneer S.2's were also being phased out of active service along with them. The roughly 80 produced Buccaneer S.2's largely participated in exercises and training missions under FAA service, but saw more extensive use with the RAF, after being retired by the Navy.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=buccaneer_s2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
-  {{Skin-gallery
-  |market|ugcitem_1001023|XW544 Fulda.png|Buccaneer S.2 XW544
-  |live|993918|XX894 Normandy.png|Blackburn Buccaneer S.2 XX894 - TBAG, Cotswold Airport
-  |live|986242|XX894 Sinai.png|Blackburn Buccaneer S.2 XX894 - RAF Operation Granby, 1991
-  }}
+* [https://live.warthunder.com/feed/camouflages/?vehicle=buccaneer_s2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+{{Skin-gallery
+|market|ugcitem_1001023|XW544 Fulda.png|Buccaneer S.2 XW544
+|live|993918|XX894 Normandy.png|Blackburn Buccaneer S.2 XX894 - TBAG, Cotswold Airport
+|live|986242|XX894 Sinai.png|Blackburn Buccaneer S.2 XX894 - RAF Operation Granby, 1991
+}}
 
 ;Images
 <gallery mode="packed" caption="Buccaneer S.2 Devblog Images" heights="200">
@@ -335,24 +322,22 @@ File:Buccaneer S.2 WTWallpaper 006.jpg|
 {{Youtube-gallery|TY-M41AUM48|'''The Shooting Range #237''' - ''Metal Beasts'' section at 00:28 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[B-57A]]
-- [[Canberra B Mk 2]]
-- [[S.O.4050 Vautour IIB]]
-- [[Vautour IIA IDF/AF]]
+* [[B-57A]]
+* [[Canberra B Mk 2]]
+* [[S.O.4050 Vautour IIB]]
+* [[Vautour IIA IDF/AF]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6975-development-blackburn-buccaneer-s-2-banana-jet-en|[Devblog] Blackburn Buccaneer S.2: Banana Jet]]
-- [https://forum.warthunder.com/index.php?/topic/510283-buccaneer-s2/ Official data sheet - more details about the performance]
+* [[wt:en/news/6975-development-blackburn-buccaneer-s-2-banana-jet-en|[Devblog] Blackburn Buccaneer S.2: Banana Jet]]
+* [https://forum.warthunder.com/index.php?/topic/510283-buccaneer-s2/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Blackburn}}
 {{Britain jet aircraft}}

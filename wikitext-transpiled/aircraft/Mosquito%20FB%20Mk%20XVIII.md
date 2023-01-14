@@ -9,17 +9,14 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.39]].
 
-The Mk.XVIII, also known as the "Tsetse", was a converted Mk.VI "FB". In this aircraft, all four Hispanos are replaced with a single Molins 6-pounder Class M cannon (57 mm). The cannon itself was a modified QF 6-pounder anti-tank gun, fitted with an auto-loader to allow for both semi- and full automatic fire.
+The Mk.XVIII, also known as the "Tsetse", was a converted Mk.VI "FB". In this aircraft, all four Hispanos are replaced with a single Molins 6-pounder Class M cannon (57 mm). The cannon itself was a modified QF 6-pounder anti-tank gun, fitted with an auto-loader to allow for both semi- and full automatic fire. 
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -47,7 +44,7 @@ The Mk.XVIII, also known as the "Tsetse", was a converted Mk.VI "FB". In this ai
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -100,13 +97,12 @@ The Mk.XVIII, also known as the "Tsetse", was a converted Mk.VI "FB". In this ai
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 9.5 mm steel - Around nose and behind pilot/navigator seats
-- 64 mm bulletproof glass - Armoured windscreen
-- Critical components located in the front and wings of aircraft (fuel, pilot, engine, controls)
-- Large amount of fuel tanks in the wings
+* 9.5 mm steel - Around nose and behind pilot/navigator seats
+* 64 mm bulletproof glass - Armoured windscreen
+* Critical components located in the front and wings of aircraft (fuel, pilot, engine, controls)
+* Large amount of fuel tanks in the wings
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -116,23 +112,19 @@ The Mosquito relies on its speed to survive. Engine and streamlining upgrades ta
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Molins Class M (57 mm)|Browning (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 1 x 57 mm Molins Class M cannon, chin-mounted (25 rpg)
-- 4 x 7.7 mm Browning machine guns, nose-mounted (500 rpg = 2,000 total)
+* 1 x 57 mm Molins Class M cannon, chin-mounted (25 rpg)
+* 4 x 7.7 mm Browning machine guns, nose-mounted (500 rpg = 2,000 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 When used in Arcade Battles (AB), it is often best to find lone targets away from the main activity due to it's more specialized armament. Like the Mk.VI before it, the Mk.XVIII has no defensive armament; even a well-flown bomber may take you out. The 6-pdr can take out all three kinds of tanks (light, medium and heavy) as well as light pillboxes, the latter being the easiest as they are stationary. Line up your gun sights, aim centre and fire. The distance you fire from is up to personal preference, but a good starting point is 600 m. Light tanks can be taken care of from any angle and medium tanks can be dealt with from the sides and rear, but aiming at their front may cause bounces and is not a guaranteed kill. Heavy tanks are like medium, but a frontal attack is most certainly going to bounce this time. Don't forget that the tanks will be actively moving, which means that you will have to correct for horizontal accuracy as well. A good way to practice this is to jump into a custom game and practice on people driving tanks, as they can be harder to hit then a AI controlled vehicle.
 
-In mixed ground battles, the aircraft can be used for CAS purposes as the 57 mm gun is effective against armoured targets if used correctly. Should a player want to use the aircraft in GBR (ground realistic battle) they should either dive on targets and exploit weak roof armour or if the pilot is capable they should try and hit low side armour (this involves flying very low to hit weak points).
+In mixed ground battles, the aircraft can be used for CAS purposes as the 57 mm gun is effective against armoured targets if used correctly.  Should a player want to use the aircraft in GBR (ground realistic battle) they should either dive on targets and exploit weak roof armour or if the pilot is capable they should try and hit low side armour (this involves flying very low to hit weak points).
 
 In Realistic Battles (RB), as with AB, you want to try and find some targets away from the main action. This process can be easier in RB and Simulator Battles (SB) as there are usually fewer people and the spotting distance of player-controlled aircraft is reduced. Stick down low and use the terrain to your advantage. Learn to fly low and fast, weaving up and down hills and valleys.
 
@@ -162,31 +154,29 @@ As mentioned above, the Mosquito has a rather high stall speed, making it easy t
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Stable gun platform, moves only a little even when firing the 57 mm Molins Class M cannon
-- Centralized guns, allows destroying targets at ranges up to 2 km with some practice
-- Very good in its role as an attacker
-- Good acceleration due to its light weight
-- Large cockpit with good visibility for SB
-- Has two pilots
-- 57 mm Molins Class M cannon has high penetration
-- Massive fuel load
+* Stable gun platform, moves only a little even when firing the 57 mm Molins Class M cannon
+* Centralized guns, allows destroying targets at ranges up to 2 km with some practice
+* Very good in its role as an attacker
+* Good acceleration due to its light weight
+* Large cockpit with good visibility for SB
+* Has two pilots
+* 57 mm Molins Class M cannon has high penetration
+* Massive fuel load
 
 '''Cons:'''
 
-- No defensive armament
-- Not the most nimble of aircraft, at times it can feel very heavy and clunky, especially with the added weight from the gun and armour
-- Massive fuel load (minimum is 1 hr & 18 min, which adds a lot of weight)
-- Mediocre rate of climb
-- Inflexible with roles, can only be used effectively as an attacker and not much else
-- Single ammunition for 57 mm cannon lacks explosive filler: AP-T
+* No defensive armament
+* Not the most nimble of aircraft, at times it can feel very heavy and clunky, especially with the added weight from the gun and armour
+* Massive fuel load (minimum is 1 hr & 18 min, which adds a lot of weight)
+* Mediocre rate of climb
+* Inflexible with roles, can only be used effectively as an attacker and not much else
+* Single ammunition for 57 mm cannon lacks explosive filler: AP-T
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The main role of the "Tsetse" was that of anti-shipping and anti-submarine, attacking Axis ships upon orders or while on patrols. When performing an attack run, the "Tsetse" would dive at 30º from 5,000 ft (1,500 m), however, the auto-loading system was prone to jamming if the plane moved during the attack run. Carrying 25 solid AP rounds, it could fire them at a rate of 55 a minute, running dry in just under 30 seconds. As a result, pilots would fire a burst of 3 to 4 shells before circling around for the next target, also because they risked the ships returning AA fire. Fortunately, the "Tsetse" was fitted with 900 lbs (410 kg) of additional armour to the engine cowlings, belly and under the cockpit for added protection.
@@ -206,34 +196,31 @@ Isolated examples do exist of the Molins gun being used in the air-to-air role, 
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=mosquito_fb_mk18 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=mosquito_fb_mk18 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|4Rw863XFGd8|'''The Shooting Range #13''' - ''Metal Beasts'' section at 00:42 discusses the De Havilland Mosquito.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Similar aircraft fitted with a 57 mm gun
 
-- [[Ki-102 otsu]]
-- [[T18B-2]]
+* [[Ki-102 otsu]]
+* [[T18B-2]]
 
 == External links ==
-
 <!--''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.''-->
 
-- [https://forum.warthunder.com/index.php?/topic/330723-de-havilland-mosquito-fb-mkxviii/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/330723-de-havilland-mosquito-fb-mkxviii/ Official data sheet - more details about the performance]
 
 {{AirManufacturer deHavilland}}
 {{Britain strike aircraft}}

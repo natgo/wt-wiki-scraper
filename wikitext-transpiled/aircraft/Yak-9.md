@@ -9,24 +9,21 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet fighter {{Battle-rating}}. It was introduced in [[Update 1.43]].
 
 Since the Yak-1B, the Yak-9 is the next notable "Upgrade". While retaining the same great 20 mm cannon, as well as the 12.7 mm MG, the Yak-9 gained a number of minor upgrades such as:
 
-- Rebalanced wing and cockpit placement by a slight amount.
-- Slightly improved rearward visibility compared to previous models.
-- New metal alloy used to construct the fuselage, meaning a lighter plane = better flight characteristics.
-- Reworked fuel tanks, engine parts, and other internals.
+* Rebalanced wing and cockpit placement by a slight amount.
+* Slightly improved rearward visibility compared to previous models.
+* New metal alloy used to construct the fuselage, meaning a lighter plane = better flight characteristics.
+* Reworked fuel tanks, engine parts, and other internals.
 
 All of this translates in-game to an even better version of the excellent Yak-1 series. The Yak-9 is the first of a number of modifications (the B, K, M, P, T, and U variants are also in-game). While tactics and methods deviate little from the previous Yaks, this plane is like being used to flying a Bf 109 E and then suddenly being given a Bf 109 F... not much, but experienced Yak pilots can feel the difference!
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -54,7 +51,7 @@ All of this translates in-game to an even better version of the excellent Yak-1 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || X || ✓ || X || X <!-- ✓ -->
+| X || X || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -156,11 +153,10 @@ All of this translates in-game to an even better version of the excellent Yak-1 
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 64 mm Bulletproof glass in cockpit front and rear.
-- 8 mm Steel plate behind the pilot.
+* 64 mm Bulletproof glass in cockpit front and rear.
+* 8 mm Steel plate behind the pilot.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -171,20 +167,16 @@ Focus on cooling and engine modifications first! Once the coolant systems and en
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|ShVAK (20 mm)|Berezin UB (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 1 x 20 mm ShVAK cannon, nose-mounted (120 rpg)
-- 1 x 12.7 mm Berezin UB machine gun, nose-mounted (200 rpg)
+* 1 x 20 mm ShVAK cannon, nose-mounted (120 rpg)
+* 1 x 12.7 mm Berezin UB machine gun, nose-mounted (200 rpg)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 Both "Universal" and "Stealth" ammo belts for the cannon are effective against all planes, and the "Ground Targets" belt gives the most HE rounds for most targets. The cannon's "Ground Targets" belt is also capable of penetrating light tanks if the player hits them in the rear. Low gun ammo along with no other ordnance of any kind (no rockets and bombs of any kind) make this plane weak against even soft unarmoured ground targets.
 
 ===Arcade battles===
@@ -206,8 +198,8 @@ Very accurate center-mounted guns are easy to master for the player compared to 
 ===Specific enemies worth noting===
 The Yak-9 has some vehicles it needs to consider when engaging.
 
-- Japanese turn fighters - Japanese fighters like their Zeroes and Ki-43 can possess a threat as these planes can turn faster than the Yak could ever dream, so don't get suckered into turning against a Zero. Not to mention, Japanese planes are typically slower than most of its contemporaries, so a Yak trying to get a bead on one after passing through will often try to turn constantly around for another pass at these slow aircraft. Continued turns and passes will cause the Yak to lose energy and sacrifice aerial performance. This can lead other enemy aircraft or the very same Japanese aircraft the Yak was trying to strafe to coming around the slow Yak and shoot it out of the air. It is best to simply pass by a Japanese aircraft with a Boom-&-Zoom and then just climbing away to altitude away from the fighter so it couldn't try to attack. Once in a sufficient altitude, dive back down again to regain the energy during the next pass.
-- Biplanes - Sure, if able to destroy them in the first pass, the biplane is not really the biggest threat out there. However, it is the indicator of an easy, slow target that are biplanes like the Swordfish that can cost the Yak pilot the plane. If missed, there may be an urge to quickly turn back for another quick pass against the biplane for another chance, while the biplane continues evasive manoeuvres. If this continues on as the Yak keeps turning for an "easy" kill, it would sacrifice much of its energy against a rather nonthreatening target. As emphasized previously, a slow Yak is an easier target to enemies and even if the biplane won't be able to dent the Yak, another enemy may swoop down an annihilate the Yak with ease. Don't waste energy trying to manoeuvre against a biplane, simply attack in a Boom-&-Zoom fashion.
+* Japanese turn fighters - Japanese fighters like their Zeroes and Ki-43 can possess a threat as these planes can turn faster than the Yak could ever dream, so don't get suckered into turning against a Zero. Not to mention, Japanese planes are typically slower than most of its contemporaries, so a Yak trying to get a bead on one after passing through will often try to turn constantly around for another pass at these slow aircraft. Continued turns and passes will cause the Yak to lose energy and sacrifice aerial performance. This can lead other enemy aircraft or the very same Japanese aircraft the Yak was trying to strafe to coming around the slow Yak and shoot it out of the air. It is best to simply pass by a Japanese aircraft with a Boom-&-Zoom and then just climbing away to altitude away from the fighter so it couldn't try to attack. Once in a sufficient altitude, dive back down again to regain the energy during the next pass.
+* Biplanes - Sure, if able to destroy them in the first pass, the biplane is not really the biggest threat out there. However, it is the indicator of an easy, slow target that are biplanes like the Swordfish that can cost the Yak pilot the plane. If missed, there may be an urge to quickly turn back for another quick pass against the biplane for another chance, while the biplane continues evasive manoeuvres. If this continues on as the Yak keeps turning for an "easy" kill, it would sacrifice much of its energy against a rather nonthreatening target. As emphasized previously, a slow Yak is an easier target to enemies and even if the biplane won't be able to dent the Yak, another enemy may swoop down an annihilate the Yak with ease. Don't waste energy trying to manoeuvre against a biplane, simply attack in a Boom-&-Zoom fashion.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -227,30 +219,28 @@ The Yak-9 has some vehicles it needs to consider when engaging.
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Centre-mounted armament that is very accurate even at longer distances.
-- 20 mm supplemented with a 12.7 mm can do decent damage against enemy planes.
-- Relatively small aircraft profile makes it a small target.
-- Fast and agile at altitudes up to 3 km.
-- Great turning ability when in high energy.
-- Experience with the Yak-1 and Yak-1B carry over to this plane.
-- Slightly better engine than predecessors.
+* Centre-mounted armament that is very accurate even at longer distances.
+* 20 mm supplemented with a 12.7 mm can do decent damage against enemy planes.
+* Relatively small aircraft profile makes it a small target.
+* Fast and agile at altitudes up to 3 km.
+* Great turning ability when in high energy.
+* Experience with the Yak-1 and Yak-1B carry over to this plane.
+* Slightly better engine than predecessors.
 
 '''Cons:'''
 
-- Armaments have limited ammunition, stresses on firing accuracy and discipline to make the most out of a belt.
-- Low maximum dive speed.
-- Very bad high alt performance.
-- Once speed and energy is lost, the Yak-9 performance drops significantly.
-- Engine overheats sometimes in RB/SB.
-- No WEP in RB/SB.
+* Armaments have limited ammunition, stresses on firing accuracy and discipline to make the most out of a belt.
+* Low maximum dive speed.
+* Very bad high alt performance.
+* Once speed and energy is lost, the Yak-9 performance drops significantly.
+* Engine overheats sometimes in RB/SB.
+* No WEP in RB/SB.
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -262,29 +252,25 @@ The Yak-9 was a further modification of the Yak-1 and Yak-7. In its core design,
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=yak-9 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=yak-9 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|fANStBZqcOo|'''Yak-9 Stalin's UFO''' - ''TheDon''|9b43GpJcrEk|'''Just Another Yak - Yak-9''' - ''Aether_Tartarus''}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/179343-yakovlev-yak-9/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/179343-yakovlev-yak-9/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Yakovlev}}
 {{USSR fighters}}

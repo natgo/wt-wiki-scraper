@@ -5,21 +5,18 @@
 }}
 {{Specs-Card
 |code=germ_pzkpfw_IV_ausf_F2
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage*{{PAGENAME}}.png|ArtImage2*{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
-The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 161/1''') is a rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41.
+The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 161/1''') is a rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41. 
 
 It is essentially the earlier [[Pz.IV F1|Panzer IV Ausf. F1]] rearmed with a long-barreled 75 mm gun for much greater anti-tank capabilities.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 The armour of the Panzer IV Ausf. F2 is virtually identical to that of the Ausf. F1. With a maximum thickness of only 50 mm, it is quite thin compared to that of its arch-rivals, the [[T-34 (Family)|T-34]] and [[Sherman|M4]] medium tanks, and can be easily penetrated by most medium calibre guns and is also mostly unangled. The side and rear armour is even thinner and is highly vulnerable to even autocannons commonly used by anti-aircraft vehicles at medium and close ranges.
@@ -46,11 +43,10 @@ The crew compartment is relatively compact and has a lot of ammunition scattered
 |}
 '''Notes:'''
 
-- Suspension wheels are 15 mm thick, while the tracks are 20 mm thick.
+* Suspension wheels are 15 mm thick, while the tracks are 20 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=465|rbMinHp=265|AoAweight=0.35}}
@@ -66,9 +62,7 @@ Its adequate speed and cross-country capability (with Ostketten equipped) grant 
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|KwK40 L43 (75 mm)}}
 
 The biggest difference between the Ausf. F2 and the Ausf. F1 is the new long-barreled 7,5 cm KwK40 L/43 gun. As easily the best gun available to any medium tank at the Ausf. F2's BR, the KwK40 has absolutely no problems dealing with all but the heaviest tanks at this BR, even from the front. It is even quite capable against higher tiered tanks, with only a few exceptions. The turret also provides the gun with an excellent amount of gun depression, allowing the effective use of hull-down tactics.
@@ -152,9 +146,7 @@ Smoke and HE shells are also available, although their use is rather situational
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Pz.IV_H.png|right|thumb|x250px|[[Ammo racks]] of the Pz.IV H (identical).]]
-
 <!-- '''Last updated: 2.5.1.106''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -181,15 +173,13 @@ Smoke and HE shells are also available, although their use is rather situational
 |}
 '''Notes:'''
 
-- Racks are modeled by sets of 2 and disappear after both shells in the set having been shot or loaded.
-- Sides empty: 30&nbsp;''(+57)'' shells
-- The tank can carry up to 87 rounds, which is more than sufficient for most battles. It is recommended to carry fewer rounds, as this will reduce the likelihood of ammunition detonation if the turret is penetrated.
+* Racks are modeled by sets of 2 and disappear after both shells in the set having been shot or loaded.
+* Sides empty: 30&nbsp;''(+57)'' shells
+* The tank can carry up to 87 rounds, which is more than sufficient for most battles. It is recommended to carry fewer rounds, as this will reduce the likelihood of ammunition detonation if the turret is penetrated.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|MG34 (7.92 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -203,7 +193,6 @@ Smoke and HE shells are also available, although their use is rather situational
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 A veritable glass cannon, the Ausf. F2 has one of the best guns of its battle-rating, balanced by its poor armour. This makes it rather more oriented towards long and medium-range combat, where the thin armour is less of an issue and its powerful gun gives it a big advantage in firepower over its peers. Like the American [[Sherman|M4s]], the Ausf. F2 has a good amount of gun depression, which allows the player to hide the tank's entire hull behind terrain and only expose its turret while shooting. Unlike the M4, however, the F2's turret is unable to deflect almost anything that hits it, and it will wither quickly under concentrated fire. Unlike the [[T-34 (Family)|T-34]], the Ausf. F2 cannot hope to bounce anything but the weakest guns from the front, and should thus be played a lot more cautiously.
@@ -212,32 +201,29 @@ The 75 mm gun will frontally penetrate all but the most heavily armoured tanks e
 
 '''Enemies worth noting:'''
 
-- [[ZSD63]]: This SPAA has access to a full AP belt with 60+ mm of penetration ,which makes it able to penetrate the Pz.IV F2 from any angle up close, and its quick fire rate can knock out the entire crew with a short burst. If the add-on track armour is installed, it might actually save the {{PAGENAME}} in a frontal encounter, as it would make the frontal hull thick enough (at 50+20=70mm thick) to resist the autocannon. Do not shoot at the hull below the turret as there is absolutely nothing inside, shoot the turret or the front hull instead. Multiple shots might be needed as its armour is so thin the 75 mm shells will not detonate. When reloading, slightly angle the {{PAGENAME}} turret to avoid the return fire from penetrating the thin turret cheeks. When hunting down a ZSD63, it has a rather body and tall hull with a geometric turret sitting at the back, slightly similar to a Wirbelwind's. The firing signature is also rather distinctive: the sound and green tracers are very rapid, much like a buzzsaw, but then it will remain silent for half a minute reloading. Note that an experienced ZSD player will hold its fire or shoot in single salvos with long halts between, making it look like that it's reloading so be careful when exposing the {{PAGENAME}} for an attack.
+* [[ZSD63]]: This SPAA has access to a full AP belt with 60+ mm of penetration ,which makes it able to penetrate the Pz.IV F2 from any angle up close, and its quick fire rate can knock out the entire crew with a short burst. If the add-on track armour is installed, it might actually save the {{PAGENAME}} in a frontal encounter, as it would make the frontal hull thick enough (at 50+20=70mm thick) to resist the autocannon. Do not shoot at the hull below the turret as there is absolutely nothing inside, shoot the turret or the front hull instead. Multiple shots might be needed as its armour is so thin the 75 mm shells will not detonate. When reloading, slightly angle the {{PAGENAME}} turret to avoid the return fire from penetrating the thin turret cheeks. When hunting down a ZSD63, it has a rather body and tall hull with a geometric turret sitting at the back, slightly similar to a Wirbelwind's. The firing signature is also rather distinctive: the sound and green tracers are very rapid, much like a buzzsaw, but then it will remain silent for half a minute reloading. Note that an experienced ZSD player will hold its fire or shoot in single salvos with long halts between, making it look like that it's reloading so be careful when exposing the {{PAGENAME}} for an attack.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Outstanding penetration and lethality with the stock APCBC shell; easily knocks out common targets with a single shot
-- High-penetration APCR shot can effectively deal with up-tier heavy tanks, e.g. [[Churchill Mk VII]]
-- Excellent gun depression of -10° provides great mountain warfare capacity.
-- Great mobility and top speed compared to later Panzer IV variants. Hull traverse is better than the [[M4 Sherman (Family)|M4 Sherman]]s
-- Space between the driving and fighting compartment can absorb some solid shells, might be helpful when facing British tanks like the [[Cromwell (Family)|Cromwell]]
-- Reasonably small profile, can hide behind some large objects
-- Add-on armour increases survivability against certain vehicles, for example the ZSD63.
+* Outstanding penetration and lethality with the stock APCBC shell; easily knocks out common targets with a single shot
+* High-penetration APCR shot can effectively deal with up-tier heavy tanks, e.g. [[Churchill Mk VII]]
+* Excellent gun depression of -10° provides great mountain warfare capacity.
+* Great mobility and top speed compared to later Panzer IV variants. Hull traverse is better than the [[M4 Sherman (Family)|M4 Sherman]]s
+* Space between the driving and fighting compartment can absorb some solid shells, might be helpful when facing British tanks like the [[Cromwell (Family)|Cromwell]]
+* Reasonably small profile, can hide behind some large objects
+* Add-on armour increases survivability against certain vehicles, for example the ZSD63.
 
 '''Cons:'''
 
-- Thin armour overall, can be knocked out with a single shot by common targets like the [[T-34 (Family)|T-34]] and [[M4]], or even low tier tanks like the [[M3 Stuart (Family)|M3 Stuart]]. The add-on armour generally doesn't help much against tank cannons
-- Rather cramped crew compartment with ammunition scattered all over
-- Large and weak commander's cupola. When penetrated by an explosive shell, all crew inside the turret, including the gunner, are likely to get knocked out
+* Thin armour overall, can be knocked out with a single shot by common targets like the [[T-34 (Family)|T-34]] and [[M4]], or even low tier tanks like the [[M3 Stuart (Family)|M3 Stuart]]. The add-on armour generally doesn't help much against tank cannons
+* Rather cramped crew compartment with ammunition scattered all over
+* Large and weak commander's cupola. When penetrated by an explosive shell, all crew inside the turret, including the gunner, are likely to get knocked out
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 The '''Pz.Kpfw. IV's''' creation, like its predecessor the [[Pz.III E|Pz.Kpfw. III]], was devised by Heinz Guderian. He envisioned a support tank to be used to handle anti-tank guns and fortifications. The Panzer IV was to work alongside the more numerable Panzer III in Panzer Divisions (three company of IIIs and one of IVs) to engage the enemy, giving the role of fighting enemy armoured forces to the Panzer IIIs. As a support tank, the tank was to have the short 75 mm howitzer as its main armament and have a weight limit of 24 tons. MAN, Krupp, and Rheinmetall-Borsig worked on the development of the tanks, but the Krupp's model was selected for further testing.
 
@@ -269,16 +255,13 @@ Pz.Kpfw. IV Ausf. F2 tanks in use in 1942 and 1943 sported a huge variety of col
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_IV_ausf_F2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_IV_ausf_F2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
-
-- [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
+* [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 ;Images
 <gallery mode="packed-hover" heights="200">
@@ -290,14 +273,12 @@ File:PZ-4 F2 alongside 15 cm Pz.W.42.jpg|<small>Panzer IV with winter camo along
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{Germany medium tanks}}

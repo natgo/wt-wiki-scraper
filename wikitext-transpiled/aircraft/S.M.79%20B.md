@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian bomber {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]] along with the initial Italian aircraft tree.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!--''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''-->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -45,7 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian bomber {{Battle-rating
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -76,9 +73,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian bomber {{Battle-rating
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 The plane has no armour and the pilot has no protection at all, making the pilot easily to knock out in head-on attacks. The fuel tanks are self-sealing and they are located close to the central airframe so you can take some shots on the wings and won't get on fire. There is no frontal gunner, leaving the bomber exposed to frontal attacks.
 
 === Modifications and economy ===
@@ -88,35 +83,29 @@ The plane has no armour and the pilot has no protection at all, making the pilot
 {{Specs-Avia-Armaments}}
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|GP 50 (50 kg)|GP 100 (100 kg)|GP 250 (250 kg)|GP 500 (500 kg)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 12 x 50 kg GP 50 bombs (600 kg total)
-- 12 x 100 kg GP 100 bombs (1,200 kg total)
-- 5 x 250 kg GP 250 bombs (1,250 kg total)
-- 2 x 500 kg GP 500 bombs (1,000 kg total)
+* 12 x 50 kg GP 50 bombs (600 kg total)
+* 12 x 100 kg GP 100 bombs (1,200 kg total)
+* 5 x 250 kg GP 250 bombs (1,250 kg total)
+* 2 x 500 kg GP 500 bombs (1,000 kg total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|Breda-SAFAT (12.7 mm)|Lewis (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 1 x 12.7 mm Breda-SAFAT machine gun, dorsal turret (500 rpg)
-- 1 x 12.7 mm Breda-SAFAT machine gun, ventral turret (500 rpg)
-- 1 x 7.7 mm Lewis machine gun, 2 x beam turrets (500 rpg)
+* 1 x 12.7 mm Breda-SAFAT machine gun, dorsal turret (500 rpg)
+* 1 x 12.7 mm Breda-SAFAT machine gun, ventral turret (500 rpg)
+* 1 x 7.7 mm Lewis machine gun, 2 x beam turrets (500 rpg)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 It is a bomber with a decent climb rate for the BR, allowing you to easily get above fighters. In most scenarios, you will eventually be intercepted at the end of the battle. Try outrunning climbing enemy fighters at high altitude, since most fighters at the BR will see their performance drastically reduced at high altitude. If you face a interceptor like the MiG-3 or the P-38, it is better to turn back to base or seek allied cover.
 
 === Manual Engine Control ===
@@ -137,18 +126,16 @@ It is a bomber with a decent climb rate for the BR, allowing you to easily get a
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+'''Pros:''' 
 
-'''Pros:'''
-
-- Great bomb load making you capable of taking down 2 bases
-- Decent speed for the BR and makes you capable to outrun an enemy climbing towards you
+* Great bomb load making you capable of taking down 2 bases
+* Decent speed for the BR and makes you capable to outrun an enemy climbing towards you
 
 '''Cons:'''
 
-- Really poor defensive armament
-- Crew is easily knocked out
+* Really poor defensive armament
+* Crew is easily knocked out
 
 == History ==
 Alessandro Marchettí was famous for creating record breaking and Schneider Trophy winning racing seaplanes, and was the Savoia (aka SIAI, Società Idrovolanti Alta Italia). In 1922 Marchettí joined Savoia to form one of the great aircraft companies in history, until merged in 1983. After the conclusion of the Schneider Trophy race (won by UK), the firm used its experience to build fast aircraft for civilian and military use.
@@ -168,27 +155,24 @@ From the high of the Spanish Civil War to the end of WW2, the Sparviero was the 
 Romania wanted a 2-engine Gnome-Rhone version, which S.M. provided. The entire forward cockpit was rearranged, pilots in tandem, and a large glass nose for the bombardier, the original ventral location replaced with a streamlined front. The weight savings from one less engine and all its wires, tubes controls, and extra fuel tank offset most of the performance loss of one engine, however it was more vulnerable to damage and engine issues. Unsatisfied with the poor performing Gnome-Rhone engines, Romania had a number built with the Jumo 211 engine.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=sm_79_iar_italy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=sm_79_iar_italy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!--''Paste links to sources and external resources, such as:''
 
 * ''topic on the official game forum;''
 * ''other literature.''-->
 
-- [https://forum.warthunder.com/index.php?/topic/428092-sm79b-romania/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/428092-sm79b-romania/ Official data sheet - more details about the performance]
 
 {{AirManufacturer SM}}
 {{Italy bombers}}

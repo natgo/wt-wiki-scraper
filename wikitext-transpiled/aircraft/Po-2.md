@@ -8,14 +8,12 @@
 }}
 {{Specs-Card
 |code=po-2
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.jpg}}
 |cockpit=cockpit_po-2.jpg
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet bomber {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27. One of the more infamous planes in War Thunder, the Po-2 has a rather affectionate palindrome nickname of "2-OP" from the community for its history in the game. This plane is no longer obtainable unless it is given out during events (during every Halloween event since 2013).
 
 The Po-2 is a very slow aircraft, earning a reputation of affection thanks to its poor characteristics. The Po-2 is about nine times as slow as the jets, and its maximum speed is one-third of a good amount of its opponents at BR 1.0. Being so, it is flown mostly for sheer fun with no intent of competitiveness. It does not come without its strengths, though - the Po-2 can carry a very effective bombload, and it can be very evasive against enemy aircraft, thanks to its slow speed and impressive manoeuvrability. The rear gunner is also decent, being in charge of a very effective machine gun. Unfortunately for the Po-2's enthusiasts, this is also the only armament it has, and the aircraft is so fragile that even a fast-firing gun does not often suffice to rid the Po-2 of a sad fate. Whenever confrontation with fighters is avoidable, one should avoid it and stay safe.
@@ -25,7 +23,6 @@ When the Po-2 was added, it was originally unlockable by research as a non-premi
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -53,7 +50,7 @@ When the Po-2 was added, it was originally unlockable by research as a non-premi
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || X || X || X || X <!-- ✓ -->
+| X || X || X || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -133,14 +130,13 @@ When the Po-2 was added, it was originally unlockable by research as a non-premi
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
 The Po-2 lacks any form of armour plating or bulletproof glass. In Air RB, the Po-2's airframe is surprisingly reliable and is perfectly controllable even with serious damage, however, past a certain amount of damage (yellow all over and worse) you will not have enough power to keep airborne for much longer. At this point, you can make an emergency landing and act as an anti-aircraft gun for the rest of the match.
 
 It also has a small, self-sealing fuel tank, as well as a tiny oil tank in from of it, both just behind the engine. This leads to a low chance of catching on fire, however, if you are set on fire you have very little chance of putting it out due to your slow speed.
 
-- Small, single, self-sealing fuel tank.
+* Small, single, self-sealing fuel tank.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -149,19 +145,17 @@ It also has a small, self-sealing fuel tank, as well as a tiny oil tank in from 
 {{Specs-Avia-Armaments}}
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|FAB-50sv (50 kg)|FAB-100sv (100 kg)|RBS-82|ROS-82|ROS-132}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- 6 x 50 kg FAB-50sv bombs (300 kg total)
-- 2 x 100 kg FAB-100sv bombs (200 kg total)
-- 2 x 100 kg FAB-100sv bombs + 2 x 50 kg FAB-50sv bombs (300 kg total)
-- 8 x ROS-82 rockets
-- 8 x RBS-82 rockets
-- 8 x ROS-132 rockets
+* 6 x 50 kg FAB-50sv bombs (300 kg total)
+* 2 x 100 kg FAB-100sv bombs (200 kg total)
+* 2 x 100 kg FAB-100sv bombs + 2 x 50 kg FAB-50sv bombs (300 kg total)
+* 8 x ROS-82 rockets
+* 8 x RBS-82 rockets
+* 8 x ROS-132 rockets
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -190,19 +184,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|ShKAS (7.62 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 1 x 7.62 mm ShKAS machine gun, dorsal turret (200 rpg)
+* 1 x 7.62 mm ShKAS machine gun, dorsal turret (200 rpg)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Po-2 does at times shine in Ground Realistic Battles, being potentially useful at any battle rating. Its slow speed makes it very easy to dive-bomb accurately with, and its 100 kg bombs are sufficient to put any tank out of order. A Po-2 pilot can even cause great humiliation to [[Maus]] commanders. However, tanks' light machine guns are no small threat for the small biplane, and even tanks' main guns can give it a very bad day, let alone dedicated AA platforms. To avoid this, Po-2 pilots should fly low and try their best to not fly in a straight line, and plan their attacks ahead, looking at the map to see where enemies were marked and inferring the enemies' locations from cap points.
 
 In Air RB, your best bet is probably to spawn at bomber altitude as opposed to the airfield which, while presenting the risk of wing ripping, is better than struggling for speed at the altitude which most of the fighting at this rank takes place (that is, low altitude). Furthermore, you should take the 6 x 50 kg bombs as, despite being smaller, they mean you have the chance to destroy 3 higher value targets instead of 2. You should choose a group of ground targets to attack, stationary tanks are good to bomb as any bomb can destroy them and they yield a decent reward. Moving targets are horrible and not worth it as short fuses lead to you being hit by your own bombs and long fuses lead to a very low hit probability since your bombs are small and must detonate very close to the target to have any effect, which is incredibly difficult to guarantee with a fuse.
@@ -233,34 +223,32 @@ Thanks to its short landing distance, you can land at a helipad in mixed ground 
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Very manoeuvrable
-- Very capable rudder, useful for quick evasive manoeuvres
-- Difficult to tail due to low speed
-- Very low stall speed
-- Has bombsight
-- Decent bomb load
-- Slow speed helps with accurate bombing
-- Rear gunner is armed with a machine gun with a good rate of fire
-- Very short landing distance
+* Very manoeuvrable
+* Very capable rudder, useful for quick evasive manoeuvres
+* Difficult to tail due to low speed
+* Very low stall speed
+* Has bombsight
+* Decent bomb load
+* Slow speed helps with accurate bombing
+* Rear gunner is armed with a machine gun with a good rate of fire
+* Very short landing distance
 
 '''Cons:'''
 
-- No forward-firing armament
-- Fragile (wood and fabric)
-- Horribly slow
-- Very hard to gain altitude
-- Low service ceiling
-- No armour or bulletproof glass protection for the pilot or the gunner
-- Can not exceed ~200 km/h without over-revving engine and ~190 km/h for structural integrity
-- Low amount of ammunition for rear gun
+* No forward-firing armament
+* Fragile (wood and fabric)
+* Horribly slow
+* Very hard to gain altitude
+* Low service ceiling
+* No armour or bulletproof glass protection for the pilot or the gunner
+* Can not exceed ~200 km/h without over-revving engine and ~190 km/h for structural integrity
+* Low amount of ammunition for rear gun
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The Po-2 was the primary aircraft of the infamous 588th Night Bomber Regiment of the Soviet Armed Forces. The Regiment, commonly nicknamed "Night Witches" was the only regiment in the world to entirely consist of women. The regiment was often looked down upon by their male counterparts, but as the Second World War raged, they earned the undying respect of the Soviet Army. Their nickname "Night Witches" comes from the characteristic sound of their Po-2's, that was all that could be heard during their nightly raids as their engines were set to idle and they would glide through to Night to their victims, completely silent. This sound, or lack thereof, brought their enemy's thoughts to the broomsticks of Witches and thus called them "Nachthexen". Meaning Night Witches in English.
@@ -281,44 +269,40 @@ By 1932, a new military trainer variant, U-2VS was designed. It could carry six 
 
 === Notable pilots ===
 <gallery mode="packed" heights="400">
-File:Ivan_Kozhedub_2.jpg|link=User:U64962917#Kozhedub,\_Ivan_N.|[[User:U64962917#Kozhedub,_Ivan_N.|Kozhedub's]] first flying experience was as a teenager when he learned to fly the Polikarpov U-2 (trainer versions of the Po-2).
+File:Ivan_Kozhedub_2.jpg|link=User:U64962917#Kozhedub,_Ivan_N.|[[User:U64962917#Kozhedub,_Ivan_N.|Kozhedub's]] first flying experience was as a teenager when he learned to fly the Polikarpov U-2 (trainer versions of the Po-2).
 File:Lydia_Litvyak_profile.jpg|link=User:U64962917#Litvyak, Lydia V.|[[User:U64962917#Litvyak, Lydia V.|Litvyak]] first soloed in a Polikarpov Po-2 at the age of 15 and would later pilot Yak-1 and Yak-1B fighters in the Great Patriotic War.
 </gallery>
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=po-2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=po-2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|tEytRULfHfw|'''Spade Review. {{PAGENAME}}. A strange learning experience.''' - ''Joseph 2000''|8q0PXrB632g|'''The Polikarpov {{PAGENAME}}''' - ''SirKittalot''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Aircraft of comparable role, configuration and era
 
-- [[OS2U-1]] / [[OS2U-3]]
-- [[Swordfish Mk I]] / [[Swordfish Mk II]]
+* [[OS2U-1]] / [[OS2U-3]]
+* [[Swordfish Mk I]] / [[Swordfish Mk II]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/888/current|[Ugly Ducklings] Polikarpov U-2/Po-2]]
-- [https://forum.warthunder.com/index.php?/topic/275626-polikarpov-po-2vs/ Official data sheet - more details about the performance]
-- [[wikipedia:Polikarpov_Po-2|[Wikipedia] Polikarpov Po-2]]
+* [[wt:en/news/888/current|[Ugly Ducklings] Polikarpov U-2/Po-2]]
+* [https://forum.warthunder.com/index.php?/topic/275626-polikarpov-po-2vs/ Official data sheet - more details about the performance]
+* [[wikipedia:Polikarpov_Po-2|[Wikipedia] Polikarpov Po-2]]
 
 {{Sp-begin|Obtainable events}}
-
 <div align="left">
 * [[wt:en/news/7939-event-halloween-in-war-thunder-en|Halloween 2022]]
 * [[wt:en/news/7397-event-halloween-in-war-thunder-en|Halloween 2021]]

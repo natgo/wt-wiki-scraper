@@ -1,12 +1,10 @@
 {{Specs-Card
 |code=germ_flakpanzer_V_Coelian
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''', also known as '''Flakpanzer V Coelian''', is a gift rank {{Specs|rank}} German SPAA {{Battle-rating}}. This vehicle was originally introduced as a main tree vehicle in [[Update 1.43]] but was shifted to a gift vehicle in [[Update 1.91 "Night Vision"]], making it only available to players who previously owned it.
 
 The Coelian was designed to be made on the chassis of the Panther. It was supposed to be made with a fully enclosed turret with two 37 mm autocannons. In the end though, the only "model" of the vehicle ever made was a wooden mock-up turret on a Panther chassis.
@@ -14,13 +12,12 @@ The Coelian was designed to be made on the chassis of the Panther. It was suppos
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (Hull, turret)
-- Structural steel (Side skirts, mudguards, storage boxes)
+* Rolled homogeneous armour (Hull, turret)
+* Structural steel (Side skirts, mudguards, storage boxes)
 
 {| class="wikitable"
 |-
@@ -34,9 +31,9 @@ The Coelian was designed to be made on the chassis of the Panther. It was suppos
 [[File:Crew positions Flakpanzer 341.png|thumb|346x346px|{{PAGENAME}}'s crew positions. As clearly seen here, the Driver, Gunner and Commander are all lined up if it shows its front, which means that the best place to shoot is the right side of the upper glacis]]
 '''Notes:'''
 
-- Suspension wheels, tracks and torsion bars are 20 mm thick.
-- Add-on 20 mm tracks cover the sides of the engine compartment.
-- Mudguards and storage boxes on the hull are 4 mm thick.
+* Suspension wheels, tracks and torsion bars are 20 mm thick.
+* Add-on 20 mm tracks cover the sides of the engine compartment.
+* Mudguards and storage boxes on the hull are 4 mm thick.
 
 The {{PAGENAME}} is in practice an anti-aircraft turret put on top of a [[Panther G]] chassis. The frontal glacis can deflect some hasty shots, but most enemies will aim at the turret, which is poorly armoured. As with the other [[Panther tank (Family)|Panthers]], side armour is practically nonexistent, while the rear armour is weak. The rest of the turret, sides and rear, is only lightly armoured.
 
@@ -44,7 +41,6 @@ The tank won't suffer much of ammo rack detonation, even when filled to the brim
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp= 852|rbMinHp= 531|<!--AoAweight=(optional) -->}}
@@ -58,9 +54,7 @@ As the tank is built on a [[Panther G]] chassis, it retains most of the mobility
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|FlaK44 (37 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -83,10 +77,10 @@ The {{PAGENAME}} is armed with 2 [[FlaK44 (37 mm)|37mm FlaK 44]] cannons side by
 
 ==== Ammunition ====
 
-- '''Default:''' {{Annotation|APHE|Armour-piercing high-explosive}}{{-}}{{Annotation|FI-T|Fragmentation incendiary tracer}}
-- '''Sprgr. 18:''' {{Annotation|FI-T|Fragmentation incendiary tracer}}
-- '''PzGr:''' {{Annotation|APHE|Armour-piercing high-explosive}}
-- '''M.Gr.18:''' {{Annotation|FI-T|Fragmentation incendiary tracer}}
+* '''Default:''' {{Annotation|APHE|Armour-piercing high-explosive}}{{-}}{{Annotation|FI-T|Fragmentation incendiary tracer}}
+* '''Sprgr. 18:''' {{Annotation|FI-T|Fragmentation incendiary tracer}}
+* '''PzGr:''' {{Annotation|APHE|Armour-piercing high-explosive}}
+* '''M.Gr.18:''' {{Annotation|FI-T|Fragmentation incendiary tracer}}
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="7" | Penetration statistics
@@ -128,9 +122,7 @@ The {{PAGENAME}} is armed with 2 [[FlaK44 (37 mm)|37mm FlaK 44]] cannons side by
 |}
 
 ==== [[Ammo racks]] ====
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -152,47 +144,44 @@ The {{PAGENAME}} is armed with 2 [[FlaK44 (37 mm)|37mm FlaK 44]] cannons side by
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
 Notes:
 
-- Racks disappear only after you've fired all clips in the rack.
-- As your ammo is subdivided in 188 clips of 4 shells, you can pack a mix of FI-T and APHE shells to deal with both aircraft and lightly armoured ground vehicles.
+* Racks disappear only after you've fired all clips in the rack.
+* As your ammo is subdivided in 188 clips of 4 shells, you can pack a mix of FI-T and APHE shells to deal with both aircraft and lightly armoured ground vehicles.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The {{PAGENAME}} should be used as a vehicle of its class. It has the armament and fire rate to take out aircraft but lacks the penetration rates to effectively combat heavier tanks. Remember that the lead on the {{PAGENAME}} is less than on the Bofors due to its higher velocity (914m/s vs 874m/s) while having better damage. The {{PAGENAME}} can also go hunt light tanks, which rarely have the armour to stand up against the 49 mm penetration, but make sure that the {{PAGENAME}}'s firepower destroy them before they get a chance to shoot the {{PAGENAME}}. Here is a list of some of the vehicles the {{PAGENAME}} can take on:
 
-- [[AMX-13 (Family)|AMX-13 series]]: Shoot at the side armour. If that is not present, shoot their tracks to bits and then their barrel. For the SS.11 version, just fire the 37 mm autocannons directly at the front missile rack.
-- [[M56]] and [[M50|M50 Ontos]]: Anywhere, preferably with AP to maximise damage as the Flakpanzer 341's 37 mm has explosive filler.
-- [[T92]]: Shoot it until it stops, then shoot the mini turrets.
-- [[M42|M42 Duster]]: Anywhere. Preferably the tracks so that it stops, then the turret crew.
-- [[BMP-1]]: Turret or side armour, as the autocannon won't get through the front.
-- [[SU-100P|SU-100P]]: Due to the thin armour, shooting anywhere should cause sufficient damage.
-- [[FV4005|Fv4005]]: Just fire at its turrets with as many armour-piercing shells as possible, and the problem should sort itself out.
-- [[R3 T106 FA]], [[FIAT 6614|Fiat 6614]] and [[R3 T20 FA-HS]]: Shooting these vehicles anywhere will be sufficient, as long as they are hit before they get a shot off (except the T20 FA-HS, as its 20 mm armament)
+* [[AMX-13 (Family)|AMX-13 series]]: Shoot at the side armour. If that is not present, shoot their tracks to bits and then their barrel. For the SS.11 version, just fire the 37 mm autocannons directly at the front missile rack.
+* [[M56]] and [[M50|M50 Ontos]]: Anywhere, preferably with AP to maximise damage as the Flakpanzer 341's 37 mm has explosive filler.
+* [[T92]]: Shoot it until it stops, then shoot the mini turrets.
+* [[M42|M42 Duster]]: Anywhere. Preferably the tracks so that it stops, then the turret crew.
+* [[BMP-1]]: Turret or side armour, as the autocannon won't get through the front.
+* [[SU-100P|SU-100P]]: Due to the thin armour, shooting anywhere should cause sufficient damage.
+* [[FV4005|Fv4005]]: Just fire at its turrets with as many armour-piercing shells as possible, and the problem should sort itself out.
+* [[R3 T106 FA]], [[FIAT 6614|Fiat 6614]] and [[R3 T20 FA-HS]]: Shooting these vehicles anywhere will be sufficient, as long as they are hit before they get a shot off (except the T20 FA-HS, as its 20 mm armament)
 
 But remember, aircraft will still be the {{PAGENAME}}'s primary targets as an SPAA.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Good hull armour for an anti-aircraft vehicle
-- Is fully enclosed, saving the turret crew from small-caliber aircraft bullets
-- Incredible turret traverse speed to track down fast-flying aircraft
-- 3.7 cm guns are devastating to enemy aircraft
-- Has smoke grenades (6 in total)
+* Good hull armour for an anti-aircraft vehicle
+* Is fully enclosed, saving the turret crew from small-caliber aircraft bullets
+* Incredible turret traverse speed to track down fast-flying aircraft
+* 3.7 cm guns are devastating to enemy aircraft
+* Has smoke grenades (6 in total)
 
 '''Cons:'''
 
-- Slow reverse speed
-- Low penetration power on AP shell
-- Smoke grenades are fired one at a time and take a while to hit the ground
-- The Panther's hull is big and tall, easy to get spotted and shot at
+* Slow reverse speed
+* Low penetration power on AP shell
+* Smoke grenades are fired one at a time and take a while to hit the ground
+* The Panther's hull is big and tall, easy to get spotted and shot at
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The 3,7 cm Flakzwilling auf Panther Fahrgestell, Flakpanzer 341, also known as the ''Flakpanzer V Coelian'', was a concept for a Flakpanzer first proposed in early 1944. Reacting to the increased threat posed by fighter-bombers and low altitude attackers, a proposal was made for a Flakpanzer based on the hull of a Panzer V Panther. This would have a fully enclosed turret to protect the crews from enemy fire, unlike the turrets of vehicles that were already in use such as the [[Flakpanzer 38]] or the [https://en.wikipedia.org/wiki/M%C3%B6belwagen Flakpanzer IV Möbelwagen]. In response to this tender, Rheinmetall developed the "Coelian", originally envisaging a number of the turret and armament variants such as the ''2cm Flak-Vierling 151'' armed with four 20 mm MG 151/20 guns. However, the German Army High Command's requirements kept on changing, demanding for ever-heavier armaments and armour, and eventually, two different designs were settled upon in May of 1944, one armed with a twinned 3.7 cm Flakzwilling 44, and one with a newly designed 5.5 cm Flak gun.
@@ -208,36 +197,32 @@ In December, 1943 a wooden mock-up of the turret was built and installed on the 
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_flakpanzer_V_Coelian Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_flakpanzer_V_Coelian Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
 
-- [[Panzer V Panther (Family)]]
+* [[Panzer V Panther (Family)]]
 
 ;Other vehicles of similar configuration and role
 
-- [[Kugelblitz]]
+* [[Kugelblitz]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/devblog/current/637|[Devblog] Flakpanzer V "Coelian"]]
-- [[wikipedia:Flakpanzer_Coelian|[Wikipedia] Flakpanzer Coelian]]
-- [https://tanks-encyclopedia.com/3-7-cm-flakzwilling-auf-panther-fahrgestell-341/ <nowiki>[Tanks Encyclopedia]</nowiki> 3.7 cm Flakzwilling auf Panther Fahrgestell "341"]
+* [[wt:en/devblog/current/637|[Devblog] Flakpanzer V "Coelian"]]
+* [[wikipedia:Flakpanzer_Coelian|[Wikipedia] Flakpanzer Coelian]]
+* [https://tanks-encyclopedia.com/3-7-cm-flakzwilling-auf-panther-fahrgestell-341/ <nowiki>[Tanks Encyclopedia]</nowiki> 3.7 cm Flakzwilling auf Panther Fahrgestell "341"]
 
 {{Germany anti-aircraft vehicles}}
 [[Category:Hidden vehicles]]

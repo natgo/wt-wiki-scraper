@@ -1,12 +1,10 @@
 {{Specs-Card
 |code=germ_flakpanzer_I_ausf_A
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} German self-propelled anti-aircraft vehicle {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before [[Update 1.41]].
 
 The {{PAGENAME}} is the first SPAA available to the Germans. It is equipped with a rapid-firing 20 mm autocannon on a Panzer I chassis. While the armament is adequate against the expected enemy planes, the vehicle's armour is very poor and can be knocked out by an enemy machine-gunning the gunner.
@@ -14,9 +12,7 @@ The {{PAGENAME}} is the first SPAA available to the Germans. It is equipped with
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 [[File:Armor_{{PAGENAME}}.jpg|thumb|left|Note the exposed gunner position]]
 The Flakpanzer I has exceptionally poor survivability. Even frontally, where the protection is at its best, it can be destroyed with a machine gun. The 7 mm gun shield can be penetrated even by 6.5 mm tracer rounds, while anything with 6 mm of penetration can penetrate the driver's optics. If that isn't enough, the Flakpanzer is also hull-breakable, so early-rank vehicles firing HEAT or HE rounds are able to one-shot you. Furthermore - artillery strikes should be avoided at all cost, as they have a very wide shrapnel radius, which combined with a very exposed gunner means certain loss even if the shell explodes metres away.
 
@@ -34,9 +30,7 @@ As far as crew skills go, the exposed gunner the plays a role of the gunner, com
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-
 [[File:Flakpanzer I hillclimb.jpg|thumb|right|Flakpanzer I can access locations impossible to reach with wheeled AA]]
 {{tankMobility|abMinHp=81|rbMinHp=50}}
 
@@ -51,9 +45,7 @@ After researching ''Parts'' and ''FPE'', one should prioritize reaching the ''Pz
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|FlaK38 (20 mm)}}
 
 The {{PAGENAME}} is armed with the 20 mm FlaK38 cannon, which turns out to be fantastic for a cannon of this rank. It boasts a high fire rate, 20-round magazines, useful HE rounds to shred low-flying planes, 37 mm penetration AP-I, and 48 mm pen APCR. The gun will destroy most enemies it can encounter with the APCR belt, and can easily be used even if uptiered. The gun offers excellent handling, being able to quickly guide on targets and has just enough ammunition to either cripple or outright destroy most hostile tanks. It's not as great against aircraft, but using shorter, controlled bursts one can achieve much better results than by spray-and-pray
@@ -75,11 +67,10 @@ The {{PAGENAME}} is armed with the 20 mm FlaK38 cannon, which turns out to be fa
 |}
 
 ==== Ammunition ====
-
-- '''Default:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}
-- '''Sprgr.:''' {{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}
-- '''PzGr:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}
-- '''PzGr 40:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}
+* '''Default:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}
+* '''Sprgr.:''' {{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}
+* '''PzGr:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}
+* '''PzGr 40:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="7" | Penetration statistics
@@ -112,7 +103,7 @@ The {{PAGENAME}} is armed with the 20 mm FlaK38 cannon, which turns out to be fa
 |-
 ! 0% !! 50% !! 100%
 |-
-| Sprgr. || HEFI-T\* || 900 || 0.12 || 0 || 0.1 || 10.2 || 79° || 80° || 81°
+| Sprgr. || HEFI-T* || 900 || 0.12 || 0 || 0.1 || 10.2 || 79° || 80° || 81°
 |-
 | PzGr || API-T || 800 || 0.15 || N/A || N/A || N/A || 47° || 60° || 65°
 |-
@@ -135,9 +126,7 @@ The {{PAGENAME}} is armed with the 20 mm FlaK38 cannon, which turns out to be fa
 The way ammo racks work on the {{PAGENAME}} is very unusual. There are no ammo racks for individual cartridges of ammunition. Instead, there's a permanent ammo rack until the final cartridge is loaded into the gun, at which point all ammo racks disappear, including the one visible to be loaded into the gun, while there's still 20 bullets ready to be fired.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 [[File:Flakpanzer I AntiTank.jpg|thumb|right|Flakpanzer I is perfectly capable of dealing with enemy tanks, with PzGr 40 being able to penetrate tanks through frontal armour]]
 The Flakpanzer I is an extremely versatile and potent vehicle, working largely as a glass cannon on the battlefield. It's best used as a flanker and tank-destroyer with situational use against unaware patrolling aircraft. The chassis is not particularly stable, making it more tricky to shoot on the move and easy to roll over. Turret traverse is very fast, allowing it to react to new threats and often fire the crippling shots before the enemy fully emerges from cover. While it can essentially spray 20 mm rounds at targets, it is advisable to maintain trigger control and conserve ammunition, firing only when needed because reload time between ammunition magazines is punishing, often being longer than hostile vehicles', giving them a better chance to take a second shot if the first one missed.
 
@@ -154,25 +143,23 @@ For the B1, either aim for the near-vertical frontal armour plate at the right s
 [[File:Flakpanzer I AAduty.jpg|thumb|right|Flakpanzer I was designed as an anti-aircraft gun]]
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great firepower: wonderful combination of rapid rate of fire, adequate velocity, 20 round mag and various belt types- Sprgr. belt is destructive against low tier aircraft, while PzGr 40 is very deadly against armoured targets (e.g. [[M3A3 (Italy)|M3A3]], [[T-60]] or even the [[B1 bis]])
-- Fast turret traverse allows it to keep up with close/fast targets easily, while the great gun elevation and depression means it can fight in any terrain
-- Small profile allows it to hide behind cover or bushes easily, which mitigates for its lack of protection
-- Thin turret armour can make some shells over-penetrate, dealing little damage
-- Responsive handling
+* Great firepower: wonderful combination of rapid rate of fire, adequate velocity, 20 round mag and various belt types- Sprgr. belt is destructive against low tier aircraft, while PzGr 40 is very deadly against armoured targets (e.g. [[M3A3 (Italy)|M3A3]], [[T-60]] or even the [[B1 bis]])
+* Fast turret traverse allows it to keep up with close/fast targets easily, while the great gun elevation and depression means it can fight in any terrain
+* Small profile allows it to hide behind cover or bushes easily, which mitigates for its lack of protection
+* Thin turret armour can make some shells over-penetrate, dealing little damage
+* Responsive handling
 
 '''Cons:'''
 
-- Extremely poor survivability: only two crew protected by hull-breakable thin armour makes it easily to get destroyed- common threats include artillery strike, nearby bombs, strafing planes, MGs (e.g. [[M13 MGMC|M13]], [[GAZ-AAA (DShK)|GAZ-AAA]]) and HEAT (e.g. [[M8 General Scott (Family)|M8]], [[Chi-Ha (China)|Chi-Ha]])
-- Top speed of only 30 km/h makes it the slowest among counterparts and limits its ability to get to certain spots
-- Slow reverse speed of only 5 km/h can get the player killed due to not being able to retreat from danger quickly
+* Extremely poor survivability: only two crew protected by hull-breakable thin armour makes it easily to get destroyed- common threats include artillery strike, nearby bombs, strafing planes, MGs (e.g. [[M13 MGMC|M13]], [[GAZ-AAA (DShK)|GAZ-AAA]]) and HEAT (e.g. [[M8 General Scott (Family)|M8]], [[Chi-Ha (China)|Chi-Ha]])
+* Top speed of only 30 km/h makes it the slowest among counterparts and limits its ability to get to certain spots
+* Slow reverse speed of only 5 km/h can get the player killed due to not being able to retreat from danger quickly
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -192,34 +179,29 @@ The vehicle's biggest advantage was that the 20 mm anti-aircraft guns could be d
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_flakpanzer_I_ausf_A Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_flakpanzer_I_ausf_A Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|naeDoEwZ5Pg|'''German SPAAs''' discusses the {{PAGENAME}} at 0:46 - ''War Thunder Official Channel''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles of comparable role, configuration and era
-
-- [[Flakpanzer 38]]
-- [[Ta-Se]]
+* [[Flakpanzer 38]]
+* [[Ta-Se]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wikipedia:Flakpanzer_I|[Wikipedia] Flakpanzer I]]
-- [https://tanks-encyclopedia.com/ww2/nazi_germany/Flakpanzer-I.php <nowiki>[Tanks Encyclopedia] Flakpanzer I</nowiki>]
+* [[wikipedia:Flakpanzer_I|[Wikipedia] Flakpanzer I]]
+* [https://tanks-encyclopedia.com/ww2/nazi_germany/Flakpanzer-I.php <nowiki>[Tanks Encyclopedia] Flakpanzer I</nowiki>]
 
 {{Germany anti-aircraft vehicles}}

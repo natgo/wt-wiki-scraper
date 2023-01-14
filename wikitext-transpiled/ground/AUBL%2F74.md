@@ -4,9 +4,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian light tank {{Battle-rating}}. It was introduced in [[Update 1.85 "Supersonic"]].
 
 Following comparable mobility from the [[FIAT 6614]], the AUBL/74 offers extra flexibility in the offensive gameplay; with the addition of a new turret featuring good traverse and a low-pressure 90 mm Cockerill Mk.III gun.
@@ -16,14 +14,12 @@ As inherent to most light tanks, the lack of reliable armour is one of the most 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour Type:'''
 
-- Rolled homogeneous armour (hull, turret)
-- Cast homogeneous armour (gun mantlet)
-- Wheel (tires)
+* Rolled homogeneous armour (hull, turret)
+* Cast homogeneous armour (gun mantlet)
+* Wheel (tires)
 
 {| class="wikitable"
 |-
@@ -38,14 +34,13 @@ As inherent to most light tanks, the lack of reliable armour is one of the most 
 |}
 '''Notes:'''
 
-- The tires are 10 mm thick and the suspension rods are 1 mm thick.
-- The side engine grilles are only 5 mm thick, so make sure to protect those weak points.
-- There is an engine grille on the roof which is also only 5 mm thick. A weak point planes might look to take advantage of.
-- A tightly spaced crew of three makes it easily taken out by machine guns and autocannons.
+* The tires are 10 mm thick and the suspension rods are 1 mm thick.
+* The side engine grilles are only 5 mm thick, so make sure to protect those weak points.
+* There is an engine grille on the roof which is also only 5 mm thick. A weak point planes might look to take advantage of.
+* A tightly spaced crew of three makes it easily taken out by machine guns and autocannons.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=248|rbMinHp=142}}
@@ -57,9 +52,7 @@ As inherent to most light tanks, the lack of reliable armour is one of the most 
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|Cockerill Mk.3 (90 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -129,9 +122,7 @@ As inherent to most light tanks, the lack of reliable armour is one of the most 
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks AUBL-74.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 1.101.2.60''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -144,10 +135,10 @@ As inherent to most light tanks, the lack of reliable armour is one of the most 
 |}
 '''Notes''':
 
-- Shells are modelled individually and disappear after having been shot or loaded.
-- Rack 2 is a first stage ammo rack. It totals 12 shells and gets filled first when loading up the tank.
-- This rack is also emptied early: the rack depletion order at full capacity is: 2 - 1.
-- Simply not firing when the gun is loaded will move ammo from racks 1 into rack 2. Firing will interrupt the restocking of the ready racks.
+* Shells are modelled individually and disappear after having been shot or loaded.
+* Rack 2 is a first stage ammo rack. It totals 12 shells and gets filled first when loading up the tank.
+* This rack is also emptied early: the rack depletion order at full capacity is: 2 - 1.
+* Simply not firing when the gun is loaded will move ammo from racks 1 into rack 2. Firing will interrupt the restocking of the ready racks.
 
 <!--==== Optics ====
 {| class="wikitable" style="text-align:center"
@@ -167,9 +158,7 @@ As inherent to most light tanks, the lack of reliable armour is one of the most 
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|Beretta MG42/59 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -183,7 +172,6 @@ As inherent to most light tanks, the lack of reliable armour is one of the most 
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The AUBL/74 is most effective in a scout-support role from cover or when flanking. The extremely weak armour of the AUBL will not be enough to resist any frontal engagements. The HEAT shell can penetrate most enemies at the rank, but the post-penetration damage is unreliable: most shots should be aimed at crew members like the gunner. With the AUBL's slower than average reload speed, an enemy with high crew agility and expert qualification can get their gunner back and shoot before the AUBL reloaded, so the turret or ammo racks are often the best areas to target in order to eliminate enemy tanks. Peaking and firing in shoot and scoot is also suggested, as the small numbers of crew members on the AUBL won't usually resist a shell impact to the turret - firing before being seen is the best way to engage threats.
@@ -210,31 +198,28 @@ Overall the whole vehicle performance in Realistic battles is hugely affected by
 In AB, the usage is less complicated. The speed impediment is less present on maps and the brawling style can be forgivingly applied. However, the aircraft machine gun and cannon fire remain a concern, as well as the loss of the element of surprise when attacking other tanks that most of the time will be stronger in either armour or crew size. Playing along with teammates and moving in and out of combat is key to AUBL/74's survival.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- 90 mm HEATFS comes stock - HESH and smoke shells are unlockable later
-- Rather good traverse and elevation rates allowing for quick reaction to incoming enemies
-- Fast on-road mobility with a decent reverse speed
-- Recoil is not too strong, making aiming the follow-up shot much easier than other light tanks
-- Multi-purpose tank: scouting, ambushing, flanking and can repair friendly units
-- Smoke shells and night vision optics increase survivability
-- Amphibious vehicle
+* 90 mm HEATFS comes stock - HESH and smoke shells are unlockable later
+* Rather good traverse and elevation rates allowing for quick reaction to incoming enemies
+* Fast on-road mobility with a decent reverse speed
+* Recoil is not too strong, making aiming the follow-up shot much easier than other light tanks
+* Multi-purpose tank: scouting, ambushing, flanking and can repair friendly units
+* Smoke shells and night vision optics increase survivability
+* Amphibious vehicle
 
 '''Cons:'''
 
-- Light armour is vulnerable to .50 calibre and aircraft cannons from most angles
-- HEAT damage is unreliable, notable when engaging highly sloped armour, as on the Soviet [[IS-3]] or [[IS-6]]
-- Bad off-road speed can barely break 25 km/h; wheeled configuration struggles on soft terrain like mud, sand and snow
-- Lightweight and tall profile: prone to ramming and explosion shock waves (a bomb going off nearby can flip the vehicle entirely)
-- No stabilization; it must hard stop to fire accurately while some up-tiered enemies as the British [[Centurion Mk 3]] does not
+* Light armour is vulnerable to .50 calibre and aircraft cannons from most angles
+* HEAT damage is unreliable, notable when engaging highly sloped armour, as on the Soviet [[IS-3]] or [[IS-6]]
+* Bad off-road speed can barely break 25 km/h; wheeled configuration struggles on soft terrain like mud, sand and snow
+* Lightweight and tall profile: prone to ramming and explosion shock waves (a bomb going off nearby can flip the vehicle entirely)
+* No stabilization; it must hard stop to fire accurately while some up-tiered enemies as the British [[Centurion Mk 3]] does not
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The AUBL/74 (Autoblinda 1974) prototypes were built upon the FIAT 6616 chassis which then got modified with a 90 mm Cockerill Mk. III gun or a 60 mm HVG gun. These modifications intended to meet the Italian army requirements for a combat-capable light reconnaissance vehicle and troop transport of the military branches, but perhaps, more importantly, it aimed to evolve as a distinguished yet economic defence solution for the exportation to any developing country amidst the tensions of the Cold war.
 
 Other countries as United States and France, also sought to fulfil this wheeled armoured car role in the warfare business with the similarly configured Cadillac Gage and the Panhard AML 90.
@@ -246,36 +231,34 @@ Unfortunately, there were no interested exportation customers for the AUBL/74 va
 Other more successful variants were armed with a 20 mm cannon and an optional 9M14 Malyutka ATGM.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=it_fiat_6616_cockerill Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=it_fiat_6616_cockerill Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|R3rRcKLqiLg|'''Do you know what skill is required to play this tank? It's Luck! (Good luck with that) AUBL/74''' - ''HowToPlay1337''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
 
-- [[AUBL/74 HVG]]
-- [[FIAT 6614]]
+* [[AUBL/74 HVG]]
+* [[FIAT 6614]]
 
 ;Similar configuration and role
 
-- [[AML-90]]
+* [[AML-90]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{Italy light tanks}}
 [[Category:Wheeled ground vehicles]]

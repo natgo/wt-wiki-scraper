@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=jp_type_4_chi_to_late
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' ({{Annotation|四式中戦車 「チト」量産型|Yon-Shiki Chū-Sensha [Chi-To] Ryōsan-gata}}) is a rank {{Specs|rank}} Japanese medium tank {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]]. It is an improvement over the original [[Chi-To]] with a more sloped hull for better protection.
 
 Similar to the Chi-To, the tank's mobility is only average with average armour and a decent gun. Like most Japanese tanks in Rank III, it is most effective as a sniper due to its thin armour, low turret traverse, and good gun depression. Sticking to the rear and letting heavier units advance is most ideal, however, this is not always possible and you will need to push with your team on the front at times. At times like this, play cautiously and stick to cover, as your thin side armour, poor hull traverse, and poor turret traverse can result in you easily being flanked. The lack of APC rounds like all Japanese guns gives the tank poor performance when fighting heavily sloped armour like the [[T-34-57|T-34's]] or [[IS-1|IS's]], and ricochets will be a common occurrence. It is best to aim for flat spots of armour where you will easily penetrate and let the HE filler do the rest.
@@ -23,15 +21,13 @@ In terms of raw thickness, the armour is the same. However the Chi-To Late's hul
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 Armour is as good as Japanese medium tanks will get. It can bounce most guns of Rank III and below if you angle your armour well enough (~35-45º), but long-barrelled guns (such as those mentioned above) will have no trouble getting through you.
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (Gun mantlet)
+* Rolled homogeneous armour
+* Cast homogeneous armour (Gun mantlet)
 
 {| class="wikitable"
 |-
@@ -47,13 +43,12 @@ Armour is as good as Japanese medium tanks will get. It can bounce most guns of 
 |}
 '''Notes:'''
 
-- Suspension wheels are 15 mm thick while tracks are 20 mm thick.
-- Belly armour is 20 mm thick.
-- Small bars of RHA exist around the lower side hull, giving an extra 10 mm at their locations.
+* Suspension wheels are 15 mm thick while tracks are 20 mm thick.
+* Belly armour is 20 mm thick.
+* Small bars of RHA exist around the lower side hull, giving an extra 10 mm at their locations.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=620|rbMinHp=354}}
@@ -67,9 +62,7 @@ The mobility of the {{PAGENAME}} is decent. It will get you to where you need re
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|Type II Model II (75 mm)}}
 
 The 7.5 cm Tank Gun Type II Model II performs very well at 4.7, and there are seldom any targets that can bounce the Type 4 Kou APHE shell from the front of their armour. It also has decent reloading and great explosive filler, meaning that shots that penetrate will either inflict heavy damage or result in a one-shot.
@@ -131,9 +124,7 @@ The 7.5 cm Tank Gun Type II Model II performs very well at 4.7, and there are se
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 1.101.0.53''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -150,14 +141,12 @@ The 7.5 cm Tank Gun Type II Model II performs very well at 4.7, and there are se
 |}
 '''Note''':
 
-- Turret and sides empty: 23&nbsp;''(+32)'' shells.
+* Turret and sides empty: 23&nbsp;''(+32)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|Type 97 (7.7 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -173,9 +162,7 @@ The 7.5 cm Tank Gun Type II Model II performs very well at 4.7, and there are se
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 As previously stated, the Chi-To Late best performs in the role of sniper, engaging hulldown at medium to long range against opposing medium tanks. The good gun depression, average mobility, and good reverse speed allow you to make it to good positions at an average pace and allow you to reverse back into cover when reloading.
 
 Against most heavies such as the [[IS-1]]/[[IS-2|2]], [[Tiger H1|Tiger]], or [[Panther D|Panther]], it is only worthwhile to engage if you are already entrenched in a solid defensive position. Your gun's lack of APCBC gives you poor performance against slopes and rounded armour on the IS, Panther, and angled Tigers, making any ranged engagement near useless. Against tanks such as the [[M4A3E2|Jumbo 75]] or [[M4A3E2 (76) W|76]], it is best to disengage and flank them or have teammates flank them. Against all other medium tanks, shots to the hull will suffice at most range.
@@ -188,41 +175,38 @@ You may encounter the German "Big Cat" tanks (Tiger H1, Tiger E, Panther D, Pant
 
 As for some other enemies:
 
-- [[Churchill VII]]: do not engage from the front at all. Sneak around to the side and shoot there.
-- [[ARL-44]]: shoot the sides. It's not worth facing this tank head on, it's too much of a risk.
-- [[ARL-44 (ACL-1)]]: aim for the turret if you face this tank from the front, then finish it from the sides. Be careful not to get shot.
-- [[M6A1]]: the frontal armour on this thing can be a bit fiddly. Aim for a spot that doesn't seem to have more than one armour plate layered on it.
+* [[Churchill VII]]: do not engage from the front at all. Sneak around to the side and shoot there.
+* [[ARL-44]]: shoot the sides. It's not worth facing this tank head on, it's too much of a risk.
+* [[ARL-44 (ACL-1)]]: aim for the turret if you face this tank from the front, then finish it from the sides. Be careful not to get shot.
+* [[M6A1]]: the frontal armour on this thing can be a bit fiddly. Aim for a spot that doesn't seem to have more than one armour plate layered on it.
 
 Most tanks you face can penetrate you frontally if they shoot your frontal plate when it is not angled. It is recommended to get the first shot off and then retreat, and make a second surprise attack. Most of the time, a penetration results in a one-shot with this tank. You can penetrate pretty much any medium or light tank frontally by shooting the upper front plate, so use that to your advantage.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Sloped hull armour, a first in Japan tank designs, roughly equivalent to the hull of a KV-1 frontally and can withstand several lower-rank guns.
-- 75 mm Tank Gun Type 5 has good muzzle velocity, penetration, and filler.
-- Good gun depression.
-- Smaller turret than the Chi-To.
-- Good reverse speed.
-- Thickest side armour of all Japanese tanks tied with the Chi-Ri II at 35mm. Resistant to .50 cals.
-- Symmetrical turret placement and gun placement in the turret, no odd angles of fire like the Chi-To.
-- Great penetration and explosive filler, a successful penetration usually results in a one-shot.
-- 42 km/h top speed is quite respectable.
+* Sloped hull armour, a first in Japan tank designs, roughly equivalent to the hull of a KV-1 frontally and can withstand several lower-rank guns.
+* 75 mm Tank Gun Type 5 has good muzzle velocity, penetration, and filler.
+* Good gun depression.
+* Smaller turret than the Chi-To.
+* Good reverse speed.
+* Thickest side armour of all Japanese tanks tied with the Chi-Ri II at 35mm. Resistant to .50 cals.
+* Symmetrical turret placement and gun placement in the turret, no odd angles of fire like the Chi-To.
+* Great penetration and explosive filler, a successful penetration usually results in a one-shot.
+* 42 km/h top speed is quite respectable.
 
 '''Cons:'''
 
-- Poor turret traverse.
-- Average acceleration and mobility, easily beat by Pz.IVs, Shermans, and T-34s.
-- Hull cheeks make angling difficult.
-- Turret armour is no different from Chi-To, still easily penetrated by any gun it can see.
-- Lack of APCBC round gives poor performance versus sloped armour. Expect ricochets against Russians and Americans.
+* Poor turret traverse.
+* Average acceleration and mobility, easily beat by Pz.IVs, Shermans, and T-34s.
+* Hull cheeks make angling difficult.
+* Turret armour is no different from Chi-To, still easily penetrated by any gun it can see.
+* Lack of APCBC round gives poor performance versus sloped armour. Expect ricochets against Russians and Americans.
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 The lacklustre performance of Japanese tanks in World War II called for the development of newer medium tanks in the Imperial Japanese Army. The standard tank of the time was the [[Chi-Ha|Type 97 Chi-Ha]], which has its chassis used in many expedient models to provide a bigger gun for the Japanese inventory such as the [[Chi-Ha Kai|Chi-Ha Kai]], [[Chi-He|Type 1 Chi-He]], [[Ho-I|Type 2 Ho-I]], and [[Chi-Nu|Type 3 Chi-Nu]]. By the time of Chi-Nu, however, the Chi-Ha chassis was becoming outdated and so a new tank design using an improved chassis was needed for future development.<ref name="ZalogaJapaneseTank">Zaloga 2007</ref>
 
@@ -232,24 +216,20 @@ In 1943, development started of the '''Chi-To''' tank, which features a new chas
 Despite its potential, the Type 4 Chi-To was never made in large numbers. At the war's end, only six chassis were made, with only two of those made into tanks. The completed tanks were dumped into Lake Hamana in Shizuoka Prefecture to avoid capture by Allied forces. One tank would be recovered by the U.S. occupation forces following Japan's surrender in World War II. The tank was then transported to Aberdeen Proving Grounds for tests and would eventually be scrapped in October 1952.<ref name="MaiScrapping">Sun 2017</ref> The second tank still has yet to be located.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_4_chi_to_late Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_4_chi_to_late Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|U2fm2lpHvWI|'''Way Of The Gun - Chi-to Late''' - ''8Bit Dane''}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
@@ -260,8 +240,8 @@ Despite its potential, the Type 4 Chi-To was never made in large numbers. At the
 
 '''Bibliography'''
 
-- Zaloga Steven. ''Japanese Tanks 1939-1945'' Great Britain: Osprey Publishing Ltd., 2007
-- Sun, Eun Ae. ''Chi-Ri & Chi-To: Aberdeen Tank Scrapping.'' YouTube, YouTube, 7 Aug. 2017, [https://www.youtube.com/watch?v=4mkS8EodQbA Video]
+* Zaloga Steven. ''Japanese Tanks 1939-1945'' Great Britain: Osprey Publishing Ltd., 2007
+* Sun, Eun Ae. ''Chi-Ri & Chi-To: Aberdeen Tank Scrapping.'' YouTube, YouTube, 7 Aug. 2017, [https://www.youtube.com/watch?v=4mkS8EodQbA Video]
 
 {{TankManufacturer Mitsubishi}}
 {{Japan medium tanks}}

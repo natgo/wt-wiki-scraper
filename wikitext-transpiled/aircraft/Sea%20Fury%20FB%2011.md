@@ -4,9 +4,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British fighter {{Battle-rating}}. It was introduced in [[Update 1.49 "Weapons of Victory"]].
 
 Situated at the end of Rank IV, the aircraft sports a powerful engine, high speeds, good rate of climb, surprising agility as well as a wide track undercarriage for easier carrier recovery by comparison to its Seafire predecessors. Pilots who are familiar with the Hawker Tempest series within the British tree will be able to quickly master the Sea Fury. Indeed it inherits the excellent Bristol Centaurus radial engine as well as the sleek wing shape sporting a hard-hitting cannon arrangement from the Hawker Tempest II. The Sea Fury has 4 x 20 mm Hispano Mk V cannons with a total 580 maximum ammunition capacity. This extremely generous cannon load is further complemented by invested research into the "Offensive 20 mm belts" that offers the "Air Targets" configuration. This is a highly efficient and effective choice for air-to-air engagements and ensures the maximum potential out of your ammunition supply in dogfights. As well as this, the Sea Fury also has a range of external stores available after unlocking the appropriate modifications 250 lb or 500 lb bombs as well as RP-3 rockets which can be mounted on hardpoints under the wing, allowing the aircraft to remain flexible in a variety of situations and fulfil its role as a fighter-bomber.
@@ -17,7 +15,6 @@ Much like its other Hawker brethren, the Sea Fury is very dependent on energy, b
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -45,7 +42,7 @@ Much like its other Hawker brethren, the Sea Fury is very dependent on energy, b
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -98,11 +95,10 @@ Much like its other Hawker brethren, the Sea Fury is very dependent on energy, b
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 44.45 mm Bulletproof glass - Armoured windscreen
-- 16.9 mm Steel - Armoured plates behind the pilot (seatback and headrest)
+* 44.45 mm Bulletproof glass - Armoured windscreen
+* 16.9 mm Steel - Armoured plates behind the pilot (seatback and headrest)
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -111,32 +107,27 @@ Much like its other Hawker brethren, the Sea Fury is very dependent on energy, b
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Hispano Mk.V (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 20 mm Hispano Mk.V cannons, wing-mounted (145 rpg = 580 total)
+* 4 x 20 mm Hispano Mk.V cannons, wing-mounted (145 rpg = 580 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|RP-3|Triplex R.P.}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 250 lb G.P. Mk.IV bombs (500 lb total)
-- 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
-- 12 x RP-3 rockets
-- 4 x Triplex R.P. rockets
+* Without load
+* 2 x 250 lb G.P. Mk.IV bombs (500 lb total)
+* 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
+* 12 x RP-3 rockets
+* 4 x Triplex R.P. rockets
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 In Realistic battles, the Sea Fury is a decent plane. It will struggle a little in the early parts of the battle, as its climb rate is only slightly above average. It will not be able to outclimb other fighters like the [[Bf 109 (Family)|Bf 109]], [[G.56]] or many Japanese interceptors, so climbing straight towards the map centre is not recommended.
@@ -169,36 +160,32 @@ Its offensive armaments, four Hispano Mk V cannons, do not have enough penetrati
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 [[File:Wallpaper Sea Fury FB 11.jpeg|thumbnail|right|Sea Fury on deck and ready for deployment]]
 
 '''Pros:'''
 
-- Powerful armament of four x 20 mm Hispano Mk V cannons
-- Excellent dive capability
-- One of the fastest propeller-driven aircraft in the game
-- Good rate of climb
-- Incredible energy retention
-- Excellent roll rate and rolling characteristics
-- Wide track undercarriage for easier and more stable landings
-- Carrier arrestor hook for extra versatility on RB and SB naval maps
-- Clear visibility cockpit with good all-round vision
-- Control surfaces remain responsive even as the plane approaches the never-exceed speed
+* Powerful armament of four x 20 mm Hispano Mk V cannons
+* Excellent dive capability
+* One of the fastest propeller-driven aircraft in the game
+* Good rate of climb
+* Incredible energy retention
+* Excellent roll rate and rolling characteristics
+* Wide track undercarriage for easier and more stable landings
+* Carrier arrestor hook for extra versatility on RB and SB naval maps
+* Clear visibility cockpit with good all-round vision
+* Control surfaces remain responsive even as the plane approaches the never-exceed speed
 
 '''Cons:'''
 
-- Large engine can hider visibility on taking off and landings for SB pilots
-- Post-war aircraft that can see rank V games
-- Can sometimes be outmanoeuvred in situations against certain American, Russian Japanese aircraft of equal rank
-- Horrible turn rate at most speeds that dogfights take place at; even Fw 190s can out-turn the Sea Fury at most speeds
+* Large engine can hider visibility on taking off and landings for SB pilots
+* Post-war aircraft that can see rank V games
+* Can sometimes be outmanoeuvred in situations against certain American, Russian Japanese aircraft of equal rank
+* Horrible turn rate at most speeds that dogfights take place at; even Fw 190s can out-turn the Sea Fury at most speeds
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
-[[File:FighterImage_SeaFury launch.jpg|thumbnail|left|A Sea Fury loaded with rockets gets airborne of the deck of HMS Glory]]
+[[File:FighterImage_SeaFury launch.jpg|thumbnail|left|A Sea Fury loaded with rockets gets airborne of the deck of HMS Glory ]]
 
 The Sea Fury was the result of Hawkers development of the original Fury biplane fighter, through to the Hurricane, Typhoon and Tempest finally culminating in the second design to be known as the "Fury". Experience with the Tempest and also through research of the Fw 190 lead to a lightweight version of the already successful Tempest II fighter. However, in an age when the skies were quickly being filled with Jet powered aircraft, the Royal Air Force turned down the Hawker Fury as they already have surplus Tempests and were beginning to receive their first jet aircraft. The Royal Navy's Fleet Air Arm, however, was much more welcoming of a carrier-borne version of the Fury due to the foreseen complications of operating early jet aircraft from Aircraft Carriers. With some Modification to meet Royal Navy specifications, the last and most powerful in the line of British piston engine aircraft was born.
 [[File:FighterImage_Hawker Sea Fury T20 'VX281 - VL-120' (G-RNHF) (14130541842).jpg|thumbnail|right|Hawker Sea Fury T20 from the Royal Navy Historic Flight]]
@@ -209,7 +196,7 @@ Other nations to operate the Sea Fury include Canada, Pakistan, Cuba, Netherland
 
 '''Trivia'''
 
-- The Hawker Sea Fury FB 11 in game wears the code WJ232, which is the same Sea Fury that Peter Carmichael flew on the 9th August 1952 during the historic engagement with the MiG-15.
+* The Hawker Sea Fury FB 11 in game wears the code WJ232, which is the same Sea Fury that Peter Carmichael flew on the 9th August 1952 during the historic engagement with the MiG-15.
 
 {{break}}
 {{Navigation-Start|{{Annotation|Archive of the in-game description|An archive of the historical description of the vehicle that was presented in-game prior to Update 1.55 'Royal Armour'}}}}
@@ -226,12 +213,10 @@ The Sea Fury also served with the militaries of Canada, Australia, Burma, Pakist
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=sea_fury_fb11 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=sea_fury_fb11 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="150px">
@@ -244,20 +229,18 @@ File:FighterImage_Carmichael's Hawker Sea Fury.jpg|Peter "Hoagy" Carmichael's Ha
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [http://forum.warthunder.com/index.php?/topic/126981-aircraft-%E2%80%93-work-in-progress/ First WiP article on the Sea Fury on official WT forum: "Aircraft – work in progress"]
-- [https://forum.warthunder.com/index.php?/topic/262861-hawker-sea-fury-fb-11/ Official data sheet - more details about the performance]
-- [[wt:en/devblog/current/770/|[Devblog] Seafire FR.47 & Sea Fury FB 11]]
-- [[wt:en/news/3176/current/|[Vehicle Profile] Hawker Sea Fury]]
+* [http://forum.warthunder.com/index.php?/topic/126981-aircraft-%E2%80%93-work-in-progress/ First WiP article on the Sea Fury on official WT forum: "Aircraft – work in progress"]
+* [https://forum.warthunder.com/index.php?/topic/262861-hawker-sea-fury-fb-11/ Official data sheet - more details about the performance]
+* [[wt:en/devblog/current/770/|[Devblog] Seafire FR.47 & Sea Fury FB 11]]
+* [[wt:en/news/3176/current/|[Vehicle Profile] Hawker Sea Fury]]
 
 {{AirManufacturer Hawker}}
 {{Britain fighters}}

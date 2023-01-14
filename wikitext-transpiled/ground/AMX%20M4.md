@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} French medium tank {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]]. It uses the same 90 mm SA45 cannon as the [[ARL-44]] but has a 7-round autoloader and a better armour pattern while being more mobile. It is clearly better than any rank III French tanks, offering new battle opportunities.
 
 This is the sturdiest representative of French rank IV vehicles, from which it shares some common features: good mobility, an oscillating turret (fitted with an autoloader), sloped armour in front and back, high hull, high gun placement, good gun depression, 4 crew member, a coaxial MAC 31 machine gun and large tracks. What distinguishes the AMX M4 is its [[Panther D|Panther]]-like hull, its efficient 90 mm SA45 gun inherited from the [[ARL-44]] and the thickest armour pattern of all French ground forces with 80 mm sloped at ~55° in the frontal area.
@@ -19,13 +17,12 @@ This is the sturdiest representative of French rank IV vehicles, from which it s
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (hull, turret rear)
-- Cast homogeneous armour (turret, cupola)
+* Rolled homogeneous armour (hull, turret rear)
+* Cast homogeneous armour (turret, cupola)
 
 {| class="wikitable"
 |-
@@ -40,10 +37,10 @@ This is the sturdiest representative of French rank IV vehicles, from which it s
 
 '''Notes:'''
 
-- Suspension wheels and tracks are 20 mm thick. Suspension wheels are interleaved and thus overlap in some areas.
-- The turret and the base overlap in some areas, leading to cumulative armour.
-- The internal armour plate separating the crew compartment and the engine bay is 5 mm thick.
-- Floor armour is 20 mm thick, with the underside of the sponsons also being 20 mm thick.
+* Suspension wheels and tracks are 20 mm thick. Suspension wheels are interleaved and thus overlap in some areas.
+* The turret and the base overlap in some areas, leading to cumulative armour.
+* The internal armour plate separating the crew compartment and the engine bay is 5 mm thick.
+* Floor armour is 20 mm thick, with the underside of the sponsons also being 20 mm thick.
 
 As said above, this tank's armour is very similar to that of the famous German tanks, its hull even shares the same general patterns and dimensions, the distinctive features being...weak spots: an almost flat portion between UFP and LFP and two 60 mm "corners" above the tracks. As for the frontal turret part, it is sufficiently thick to endure many nasty hits, as long as you do not leave your foe enough time to aim: the turret ring area, while still being 80 mm thick, is flat. As for side armour, it is a good reason to keep away from front line duty: 35 mm flat armour does not protect from anything bigger than HMG fire. the hull's back is sloped, which may deviate some shots and prevent long-range "back flanking". The most exposed part of this tank is the turret's back, with only 20 mm of armour between the bulge and the turret ring.
 
@@ -61,7 +58,6 @@ As for flanking onto a single AMX M4, it must be dealt with quick: its fast turr
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=1,550|rbMinHp=884}}
@@ -75,9 +71,7 @@ Post-war French designs are all very good at moving around: they have good engin
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|SA45 (90 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -137,9 +131,7 @@ The oscillating turret design also allows an high gun placement, this means you 
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.3.0.27''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -159,19 +151,17 @@ The oscillating turret design also allows an high gun placement, this means you 
 |}
 Notes:
 
-- Shells are modeled individually and disappear after having been shot or loaded.
-- Rack 9 (autoloader magazine) is a first stage ammo rack. It totals 7 shells.
-  ** This racks gets filled first when loading up the tank and is also emptied first.
-  ** As the {{PAGENAME}} is equipped with an autoloader, manual reloading of the gun is not possible.
-  ** Once the autoloader magazine has been depleted, you can't shoot until the loader has restocked the autoloader. The restocking time is longer than the normal reload time of the gun (about 15 seconds). Take this into account when playing.
-  ** Simply not firing when the gun is loaded will move ammo from racks 1 to 5 into rack 7* then 6*. Firing will interrupt the restocking of the ready racks.
-  \*\* The depletion order at full capacity is: 9 - 1 - 2 up to 8.
+* Shells are modeled individually and disappear after having been shot or loaded.
+* Rack 9 (autoloader magazine) is a first stage ammo rack. It totals 7 shells.
+** This racks gets filled first when loading up the tank and is also emptied first.
+** As the {{PAGENAME}} is equipped with an autoloader, manual reloading of the gun is not possible.
+** Once the autoloader magazine has been depleted, you can't shoot until the loader has restocked the autoloader. The restocking time is longer than the normal reload time of the gun (about 15 seconds). Take this into account when playing.
+** Simply not firing when the gun is loaded will move ammo from racks 1 to 5 into rack 7* then 6*. Firing will interrupt the restocking of the ready racks.
+** The depletion order at full capacity is: 9 - 1 - 2 up to 8.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|MAC 31 (7.5 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -187,9 +177,7 @@ Notes:
 The small calibre of the MAC 31 machine gun makes it largely ineffective against all armoured vehicles but the ones with an open compartment. It still can be used to ping targets as a rangefinding help or to mow down minor obstacles blocking your line of sight.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 At its BR, 80 mm of sloped frontal armour is more than sufficient to endure close range fights (as long as it is facing the enemy with its frontal armour). But what this tank is really good at is, as any other French rank IV, ''sniping'': a very good gun, great depression and fire rate make it very deadly, even more so that it ''can'' take a few hits. The AMX M4 offers the best survivability of all French rank IV tanks since its BR is low and armour, thick. It is a true "medium tank" capable of all roles, given the good context.
 
 This tank can be used in almost all roles on the battlefield, as long as the context is on its side. Here are some roles this tank is the most efficient at:
@@ -213,32 +201,30 @@ The AMX M4 is not fit for brawling due to the relatively light armour it has. Ho
 The AMX M4 wields this role well, as it has good manoeuvrability, good acceleration, and a quick-firing cannon. It is however, a tall tank, so be wary of seeking cover behind any low-profile heavy tank and it has a below average reverse speed.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Fast and good manoeuvrability
-- Decent reverse speed
-- Front glacis is 80 mm and is heavily sloped for a high chance of ricochets, similar to the [[Panther D|Panther]]'s
-- Potent 90 mm gun (same as [[ARL-44]] or [[Char 25t]]: easy learning curve)
-- Good gun depression
-- Good turret rotation
-- Very good reload rate between 7 shots due to the autoloader
+* Fast and good manoeuvrability
+* Decent reverse speed
+* Front glacis is 80 mm and is heavily sloped for a high chance of ricochets, similar to the [[Panther D|Panther]]'s
+* Potent 90 mm gun (same as [[ARL-44]] or [[Char 25t]]: easy learning curve)
+* Good gun depression
+* Good turret rotation
+* Very good reload rate between 7 shots due to the autoloader
 
 '''Cons:'''
 
-- Overall armour is quite thin against expected opponents
-  ** Thin side armour
-  ** Thin UFP "corners" makes angling ineffective
-  \*\* Vulnerable to planes (thin top armour)
-- Bad elevation angles
-- Long reload time after 7 shots due to autoloader
-- Only two ammo choice between APC and HE rounds
-- Ammo always held in reload mechanism makes it easy ammo rack targets
+* Overall armour is quite thin against expected opponents
+** Thin side armour
+** Thin UFP "corners" makes angling ineffective
+** Vulnerable to planes (thin top armour)
+* Bad elevation angles
+* Long reload time after 7 shots due to autoloader
+* Only two ammo choice between APC and HE rounds
+* Ammo always held in reload mechanism makes it easy ammo rack targets
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 ===Design===
@@ -251,38 +237,34 @@ In order to save weight from the Tiger II's initial weight of 70 tons, the first
 The AMX M4 was the first prototype of what would be the AMX-50 and never saw either service or combat action with the French Army.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=fr_amx_m4 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=fr_amx_m4 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|3aCHooDoyCI|'''AMX M4, French, Tier-4, Medium Tank''' - ''Angry Nerd Gaming''|zUDt1Fhrjpk|'''AMX M4 - Last Man Running - Don't Be This Guy!''' - ''Napalmratte''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
 
-- [[AMX-50 (Family)]]
+* [[AMX-50 (Family)]]
 
 ;Other vehicles of similar configuration and role
 
-- [[Panther II]]
+* [[Panther II]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/5265-vehicle-amx-m4-en|[News] AMX M4]]
-- [[wikipedia:AMX-50|[Wikipedia] AMX-50]]
+* [[wt:en/news/5265-vehicle-amx-m4-en|[News] AMX M4]]
+* [[wikipedia:AMX-50|[Wikipedia] AMX-50]]
 
 {{TankManufacturer AMX}}
 {{France medium tanks}}

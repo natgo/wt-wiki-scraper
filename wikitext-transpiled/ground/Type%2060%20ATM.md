@@ -1,12 +1,10 @@
 {{Specs-Card
 |code=jp_type_60_atm
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.67 "Assault"]].
 
 Alongside its tank-destroying role, the {{PAGENAME}} can also function as a "light tank" being able to scout enemies and assist in repairing teammates, just like [[Type 60 SPRG (C)]].
@@ -14,7 +12,6 @@ Alongside its tank-destroying role, the {{PAGENAME}} can also function as a "lig
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 While the armour of the {{PAGENAME}}'s hull is immune small-calibre MG fire, heavy machine gun fire will penetrate from up close (under 500 m).Its roof armour is nonexistent: with only 8 mm thickness, every fighter in the game will succeed to strafe the {{PAGENAME}} and it's not unheard of to suffer overpressure from HEAT shells.
@@ -33,8 +30,8 @@ If hull must be exposed due to poor cover, only expose the left side, as it has 
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (Machine gun port, Cupola)
+* Rolled homogeneous armour
+* Cast homogeneous armour (Machine gun port, Cupola)
 
 {| class="wikitable"
 |-
@@ -49,12 +46,11 @@ If hull must be exposed due to poor cover, only expose the left side, as it has 
 |}
 '''Notes:'''
 
-- Suspension wheels and tracks are both 15 mm thick, while torsion bar chassis is 12 mm thick.
-- Belly armour is 10 mm thick.
+* Suspension wheels and tracks are both 15 mm thick, while torsion bar chassis is 12 mm thick.
+* Belly armour is 10 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp= 312|rbMinHp= 195}}
@@ -74,9 +70,7 @@ Getting stuck on rocks is very bad for this tank, similar to [[Type 60 SPRG (C)]
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|Type 64 MAT}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -129,14 +123,12 @@ When firing from third person view in AB, keep in mind that the ATGM will only t
 |}
 '''Notes:'''
 
-- While stat card states the max range is 1,800 m, in reality, it is less due to the missile losing fuel making course corrections. The resulting effective range is closer to 1,600 m.
-- In AB, rearming takes about 40 seconds once the launcher is empty and no partial rearming can be done on the capture point. Rearm only happens for one launcher at once, which means fully restocking will take you 80 seconds. Launcher still reloads during rearming, so you can fire away immediately after it's done.
+* While stat card states the max range is 1,800 m, in reality, it is less due to the missile losing fuel making course corrections. The resulting effective range is closer to 1,600 m.
+* In AB, rearming takes about 40 seconds once the launcher is empty and no partial rearming can be done on the capture point. Rearm only happens for one launcher at once, which means fully restocking will take you 80 seconds. Launcher still reloads during rearming, so you can fire away immediately after it's done.
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.1.0.60''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -147,14 +139,12 @@ When firing from third person view in AB, keep in mind that the ATGM will only t
 |}
 Notes:
 
-- It is not possible to select how many missiles to bring into battle.
+* It is not possible to select how many missiles to bring into battle.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|M2HB (12.7 mm)|M1919A4 (7.62 mm)}}
 
 The Type 60 ATM comes equipped with a 12.7 mm M2HB Browning machine gun and a smaller 7.62 mm Browning machine gun.
@@ -183,7 +173,6 @@ Both types of MGs are only able to fire at planes that try to strafe the vehicle
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 ;Firing procedure
@@ -214,7 +203,7 @@ If it is necessary to use some hill to avoid being destroyed via countersnipe an
 
 Long range sniping isn't much different from RB, you just have to aim at the enemy with your mouse instead of manually curving missile. You also can move while guiding it, though it is very hard to do on a move without aim assist (by default, right mouse button) due to a lack of stabiliser.
 
-Semi-auto mode disallows the {{PAGENAME}} to attack tanks that are outside of sniper scope aim in AB, especially if they are way outside of horizontal launch zone at long ranges. But, if enemy tank is further than than 300 m and is about 30 degrees to your left or right, you can launch missile high-forward and turn the APC while dragging it to that side, then point at the enemy tank for a likely hit. Be aware that in AB the missile heavily dislikes being treated like a slingshot and will constantly drop downwards, which is why you should launch it higher than usual - do not let it hit the ground.
+Semi-auto mode disallows the {{PAGENAME}} to attack tanks that are outside of sniper scope aim in AB, especially if they are way outside of horizontal launch zone at long ranges. But, if enemy tank is further than than 300 m and is about 30 degrees to your left or right, you can launch missile high-forward and turn the APC while dragging it to that side, then point at the enemy tank for a likely hit. Be aware that in AB the missile heavily dislikes being treated like a slingshot and will constantly drop downwards, which is why you should launch it higher than usual - do not let it hit the ground. 
 
 ;Combat tactics
 
@@ -258,7 +247,7 @@ The biggest threat from this tank comes in form of its abilities to hide behind 
 
 For example, the Type 60's ATGM is very loud, so unless it was fired from 1.5 km away (almost maximum range for this tank), the sound of the missile launch will likely be audible. '''Do not ignore them''', check if there is a missile coming for you, and if not - remember where the noise came from.
 
-The only comfortable way to destroy hull-down Type 60 ATM relies on using chemical shells, preferably HE or HESH. If using HEAT, whenever a Type 60 ATM is spotted standing behind low cover, try to not focus on its launchers and instead try to spot machine gun shield on its right (left for an opposing player) and fire explosives at the lower part of the shield itself. It is much more likely then that the shock-wave will hit poor roof armour and annihilate tank crew.
+The only comfortable way to destroy hull-down Type 60 ATM relies on using chemical shells, preferably HE or HESH. If using HEAT, whenever a Type 60 ATM is spotted standing behind low cover, try to not focus on its launchers and instead try to spot machine gun shield on its right (left for an opposing player) and fire explosives at the lower part of the shield itself. It is much more likely then that the shock-wave will hit poor roof armour and annihilate tank crew. 
 
 Do note, that Type 60 ATM has '''two''' missiles at once and is rarely truly alone due to "scouting" ability, as it can manipulate its allies into helping it. Scouting also allows it to track tanks, even behind smoke screens and walls, for better missile accuracy.
 
@@ -277,49 +266,48 @@ If missiles were already launched, there are a few ways to protect the tank:
 :'''C)''' Sacrifice cannon barrel or pull the engine forward to block missile. This will greatly reduce overall damage taken by tank and likely prevent the loss of entire crew in single hit. If lightly armoured tank takes ATGM hit into heavily armoured part, there is a chance it wont take overpressure damage. Avoid pulling fuel tanks forward, as type 64 MAT can cause entire tank to explode by destroying all of them in one hit.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- <u>Type 60 APC Hull</u>:
-  ** Has scouting and can repair any allied tank faster as a support vehicle
-  ** Spaded version can reach maximum speed almost instantly in some cases, can compete with average medium tanks in terms of forward speed and hill climbing
-  \*\* With its very weak side armour, it fails to detonate APHE shells
-- <u>Type 64 MAT Missile</u>:
-  ** Good missile manoeuvrability - can compete with superior [[BAe Swingfire]]
-  ** Provides exceptional firepower compared to HEAT shells, due to increased payload and heavily reduced reliance on angle of impact
-  \*\* Upwards facing launchers can allow the vehicle to fire at enemy behind cover, although the setup is required
-- There are 2 launchers mounted on the Type 60 APC, allowing for a follow-up shot being made as the previous missile hits
+* <u>Type 60 APC Hull</u>:
+** Has scouting and can repair any allied tank faster as a support vehicle
+** Spaded version can reach maximum speed almost instantly in some cases, can compete with average medium tanks in terms of forward speed and hill climbing
+** With its very weak side armour, it fails to detonate APHE shells
+* <u>Type 64 MAT Missile</u>:
+** Good missile manoeuvrability - can compete with superior [[BAe Swingfire]]
+** Provides exceptional firepower compared to HEAT shells, due to increased payload and heavily reduced reliance on angle of impact
+** Upwards facing launchers can allow the vehicle to fire at enemy behind cover, although the setup is required
+* There are 2 launchers mounted on the Type 60 APC, allowing for a follow-up shot being made as the previous missile hits
 
 '''Cons:'''
 
-- <u>Type 60 APC Hull</u>:
-  ** Highly visible with a very distinct profile, topped off by obvious launchers
-  ** Little to no armour, most shells immediately destroy this vehicle, although its engine can allow for some unexpected survival and retaliation, not taking this tank seriously can sometimes backfire
-  **\* Even though its side armour is too thin to detonate APHE shells, the compact APC will almost always lose critical components such as:
-  \*\*** Front: gunner, commander, driver \***\* Middle: engine
-  \*\*** Back: two loaders and/or ammo rack
-  **\* Front and back armour are thick enough to detonate APHE rounds even though it will only withhold machine gun fire
-  ** Larger opponents may attempt to use their weight to crush this tank against a wall and drive over it, resulting in destruction
-  \*\* Limited turning ability, which sometimes forces it to expose itself to sniper fire
-- <u>Type 64 MAT Missile</u>:
-  ** Slow missile speed, to a point they can be easily shot mid-air or sidestepped by many tanks
-  ** Need a certain range for effective hit (maximum 1,600 m for long range, at least 160 m or a negative slope at close range, at least 210 m for a guidance system to start)
-  \*\* Need a visual target for an accurate hit, otherwise it heavily relies on operator skill to hit anything at all
-- Very limited main ammunition (6 missiles)
-  \*\* Reload per launcher is {{Annotation|13s|13s Stock, 11.5s Full, 10.6s Expert, 10s Ace}} which can mean a long downtime if both missiles are spent after quick succession
+* <u>Type 60 APC Hull</u>:
+** Highly visible with a very distinct profile, topped off by obvious launchers
+** Little to no armour, most shells immediately destroy this vehicle, although its engine can allow for some unexpected survival and retaliation, not taking this tank seriously can sometimes backfire
+*** Even though its side armour is too thin to detonate APHE shells, the compact APC will almost always lose critical components such as:
+**** Front: gunner, commander, driver
+**** Middle: engine
+**** Back: two loaders and/or ammo rack
+*** Front and back armour are thick enough to detonate APHE rounds even though it will only withhold machine gun fire
+** Larger opponents may attempt to use their weight to crush this tank against a wall and drive over it, resulting in destruction
+** Limited turning ability, which sometimes forces it to expose itself to sniper fire
+* <u>Type 64 MAT Missile</u>:
+** Slow missile speed, to a point they can be easily shot mid-air or sidestepped by many tanks
+** Need a certain range for effective hit (maximum 1,600 m for long range, at least 160 m or a negative slope at close range, at least 210 m for a guidance system to start)
+** Need a visual target for an accurate hit, otherwise it heavily relies on operator skill to hit anything at all
+* Very limited main ammunition (6 missiles)
+** Reload per launcher is {{Annotation|13s|13s Stock, 11.5s Full, 10.6s Expert, 10s Ace}} which can mean a long downtime if both missiles are spent after quick succession
 
-- <u>AB related</u>:
-  ** Cannot be partially rearmed on capture point, forcing it to completely empty the ammunition, making it incapable of sustaining massive sieges on its own, even though it is difficult to force it out of cover
-  ** In all of suitable cover, vulnerable to tanks with chemical shells due to the exposed MG shield, particularly to the ones armed with HE/HESH
-  \*\* Missile can only be guided with sniper crosshairs, significantly inferior even to its own RB counterpart
-- <u>RB related</u>:
-  ** Can't move while the missile flies to the target because of manual input
-  ** It can be difficult to hit tanks if they move in circles around type 60 ATM
+* <u>AB related</u>:
+** Cannot be partially rearmed on capture point, forcing it to completely empty the ammunition, making it incapable of sustaining massive sieges on its own, even though it is difficult to force it out of cover
+** In all of suitable cover, vulnerable to tanks with chemical shells due to the exposed MG shield, particularly to the ones armed with HE/HESH
+** Missile can only be guided with sniper crosshairs, significantly inferior even to its own RB counterpart
+* <u>RB related</u>:
+** Can't move while the missile flies to the target because of manual input
+** It can be difficult to hit tanks if they move in circles around type 60 ATM
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The Type 60 ATM was a Japanese Type 60 APC personnel carrier equipped with guided anti-tank Type 64 MAT missiles. The Type APC itself was developed by the Mitsubishi company in 1959 and officially put into service in 1960, becoming the first APC developed by Japan after the war. The Type 64 MAT (Anti-tank Missile) first-generation missiles, also known as KAM-3, were developed by the Kawasaki company and put into service in 1964.
@@ -331,12 +319,10 @@ Containers of these missiles were used as portable weapons, and were also instal
 - From [[wt:en/news/4585-development-type-60-atm-death-on-a-wire-en|Devblog]]
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_60_atm Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_60_atm Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover" heights="200px">
@@ -347,24 +333,22 @@ Type 60 APC.png|{{PAGENAME}} without launcher. (Almost Type 60 APC)
 {{Youtube-gallery|hoKUjLz4To0|'''Type 60 ATM - The Wörst''' - ''Napalmratte''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
 
-- [[Swingfire]]
-- [[RakJPz 2]]
-- [[Zachlam Tager]]
+* [[Swingfire]]
+* [[RakJPz 2]]
+* [[Zachlam Tager]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/4585-development-type-60-atm-death-on-a-wire-en|[Devblog] Type 60 ATM: Death on a Wire]]
+* [[wt:en/news/4585-development-type-60-atm-death-on-a-wire-en|[Devblog] Type 60 ATM: Death on a Wire]]
 
 {{Manufacturer MHI}}
 {{Japan tank destroyers}}

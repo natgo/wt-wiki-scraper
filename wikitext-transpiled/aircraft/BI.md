@@ -5,15 +5,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet jet fighter {{Battle-rating}}, nicknamed "The devil's broomstick". It was introduced during [[Update "Raining Fire"]] as a reward for the [[wt:en/news/6878-event-wargame-strategist-en|2020 Wargame "Strategist" event]], and is currently available for sale on the Marketplace.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -43,7 +40,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet jet fighter {{Batt
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || X || ✓ || X || X || X <!-- ✓ -->
+| X || X || ✓ || X || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -109,15 +106,14 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet jet fighter {{Batt
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 5.5 mm steel behind the pilot.
-- 5.5 mm steel plate installed in the nose.
-- 64 mm bulletproof glass in front of pilot
-- Self-sealing fuel tanks\* (7 under the cannon barrels, 8 behind pilot, 3 in rear fuselage)
+* 5.5 mm steel behind the pilot.
+* 5.5 mm steel plate installed in the nose.
+* 64 mm bulletproof glass in front of pilot
+* Self-sealing fuel tanks* (7 under the cannon barrels, 8 behind pilot, 3 in rear fuselage)
 
-<nowiki>\*</nowiki>The fuel tanks are cylinder-shaped, not rectangular, like most planes' fuel tanks, allowing for more fuel tanks.
+<nowiki>*</nowiki>The fuel tanks are cylinder-shaped, not rectangular, like most planes' fuel tanks, allowing for more fuel tanks.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -128,23 +124,19 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet jet fighter {{Batt
 
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|ShVAK (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 20 mm ShVAK cannons, nose-mounted (45 rpg = 90 total)
+* 2 x 20 mm ShVAK cannons, nose-mounted (45 rpg = 90 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 ====Fuel management ====
 Managing your fuel will allow your endurance to increase from 1 minute 57 seconds to over 13 minutes, only use the fuel you need to use.
 
-To get the longest endurance out of its limited fuel amount, climb from the airfield at an angle of 70-80 degrees, at full throttle and as you hit 3,000 m, change the angle of the attack and throttle back to 30%. Adjust your climb angle to make sure speed is still increasing whilst the height increases too. This will allow you to travel to 5,000 plus without burning much of your precious rocket fuel. This fuel, you will need for later in the battle. Once you have hit 5,000 m, throttle back to 14% and continue to climb and adjust your climb angle again to roughly 16 degrees. You can continue to climb at this angle until you see it fit not to do so.
+To get the longest endurance out of its limited fuel amount, climb from the airfield at an angle of 70-80 degrees, at full throttle and as you hit 3,000 m, change the angle of the attack and throttle back to 30%. Adjust your climb angle to make sure speed is still increasing whilst the height increases too. This will allow you to travel to 5,000 plus  without burning much of your precious rocket fuel. This fuel, you will need for later in the battle. Once you have hit 5,000 m, throttle back to 14% and continue to climb and adjust your climb angle again to roughly 16 degrees. You can continue to climb at this angle until you see it fit not to do so.
 
 When you hit the altitude you like, you can throttle back to 0% and just glide, with only minor adjustments to the throttle to keep in you level flight.
 
@@ -156,11 +148,11 @@ Due to the BI being able to go over 900 km/h with ease and locks up at Mach 0.76
 
 A high angle of attack for a descent is around -70 degrees, even using the ruder and shifting the BI to the left and right will not be enough.
 
-A good angle of attack to descend is around -30 to -60, the steeper the angle faster you will go. When you descend keep your throttles at 0%, only when you are pulling out of the dive at the very end, after losing speed, they should be opened carefully.
+A good angle of attack to descend is around -30 to -60, the steeper the angle faster you will go.  When you descend keep your throttles at 0%, only when you are pulling out of the dive at the very end, after losing speed, they should be opened carefully.
 
 ==== Engaging in combat ====
 [[File:BI Wiki Image 4.jpg|thumb|Cockpit of the BI.]]
-The BI is similar to the '''''[[He_162_A-2|He 162 A-2]]''''' - small amounts of fuel and ammo (low flight endurance) but has astonishing performance, being able to climb 80 degrees vertically. As such it excels in the interceptor role, climbing at a extremely high rate of up to 116.4 m/s in AB and 100.0 m/s in RB. Able to shoot down bombers and fighter bombers before exhausting the fuel supply and landing again. Don't be rused by its acceleration into thinking it has a high top speed - the wings and elevators will lock up at Mach speed: 0.76 Thus making any manoeuvres and climbs impossible. Flying full throttle at 8,000 m, will see you rip your wings off in level flight.
+The BI is similar to the  '''''[[He_162_A-2|He 162 A-2]]''''' - small amounts of fuel and ammo (low flight endurance) but has astonishing performance, being able to climb 80 degrees vertically. As such it excels in the interceptor role, climbing at a extremely  high rate of up to 116.4 m/s in AB and 100.0 m/s in RB. Able to shoot down bombers and fighter bombers before exhausting the fuel supply and landing again. Don't be rused by its acceleration into thinking it has a high top speed - the wings and elevators will lock up at Mach speed: 0.76 Thus making any manoeuvres and climbs impossible. Flying full throttle at 8,000 m, will see you rip your wings off in level flight.
 
 Do not try to outrun enemies, in turn fights but instead use your manoeuvrability and acceleration to fight them, your speed & small size will be your only zenith. The BI only has 90 rounds of ammo, 45 rounds per gun. This is not a lot of ammo, you can get up to two kills, without having to reload with well placed shots.
 =====Engaging fighters=====
@@ -183,30 +175,27 @@ Landing on short runways, should be avoided or risk crashing at the end, the rea
 [[File:BI Wiki Image 2.jpg|thumb|BI attacking an enemy jet bomber.]]
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Amazing acceleration
-- Great roll rate
-- Excellent manoeuvrability
-- Incredible climb rate; can climb at a whopping 70° when spaded
-- Very small size makes successfully hitting it troublesome
+* Amazing acceleration
+* Great roll rate
+* Excellent manoeuvrability
+* Incredible climb rate; can climb at a whopping 70° when spaded
+* Very small size makes successfully hitting it troublesome
 
 '''Cons:'''
 
-- Not very well armoured
-- Only has landing flaps
-- Can reach rip speed (Mach 0.81) while travelling in a straight line
-- Very hard to pull out of a dive due to its great speed
-- Maximum fuel load is only 1 minute and 57 seconds
-- Very limited armament, only two ShVAK cannons with 45 rounds each
+* Not very well armoured
+* Only has landing flaps
+* Can reach rip speed (Mach 0.81) while travelling in a straight line
+* Very hard to pull out of a dive due to its great speed
+* Maximum fuel load is only 1 minute and 57 seconds
+* Very limited armament, only two ShVAK cannons with 45 rounds each
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 Test Flight Log:
 
 {| class="wikitable"
@@ -242,12 +231,11 @@ In the early 1940's, the OKB-293 aircraft design bureau began working on a new r
 Development of the aircraft continued, with several prototypes being made and test flown. However, rapid advancements in aviation technology, especially the appearance of the jet engine, during the war outpaced the development of the BI. Therefore, the aircraft never left the prototype stage and didn't take part in active combat. Instead the aircraft's development served more as a testbed for Soviet rocket propulsion research, with the insights gained being later used for other projects during the Cold War.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=bi Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=bi Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" caption="BI Devblog Images" heights="200">
@@ -263,23 +251,20 @@ File:BI WTWallpaper 006.jpg|
 {{Youtube-gallery|2NgpHefq0hc|'''Rocket Planes''' discusses the {{PAGENAME}} at 00:40 - ''War Thunder Official Channel''|INb9VjLxKf0|'''Most unusual aircraft''' discusses the {{PAGENAME}} at 3:44 - ''War Thunder Official Channel''|WP9ouDTV81Q|'''A {{PAGENAME}}... to fly''' - ''Napalmratte''|llVOukVt1A4|'''The Shooting Range #218''' - ''Metal Beasts'' section at 00:28 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6873-development-crafting-event-strategist-bereznyak-isayev-en|[Devblog] Crafting Event "Strategist": Bereznyak-Isayev]]
-- [[wikipedia:Bereznyak-Isayev_BI-1|[Wikipedia] Bereznyak-Isayev BI-1]]
+* [[wt:en/news/6873-development-crafting-event-strategist-bereznyak-isayev-en|[Devblog] Crafting Event "Strategist": Bereznyak-Isayev]]
+* [[wikipedia:Bereznyak-Isayev_BI-1|[Wikipedia] Bereznyak-Isayev BI-1]]
 
 {{USSR jet aircraft}}

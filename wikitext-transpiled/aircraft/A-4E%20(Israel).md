@@ -5,22 +5,18 @@
 }}
 {{Specs-Card
 |code=a_4e_late_iaf
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage\_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage_{{PAGENAME}}.jpg}}
 |store=10591
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Israeli strike aircraft {{Battle-rating}}. It was introduced as a [[wt:en/news/7383-development-israel-a-new-gaming-nation-coming-to-war-thunder-en|premium pack]] in [[Update "Ground Breaking"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The A-4E has a really decent speed for its BR but loses a great amount of energy at every turn. It accelerates modestly well and is able to reach up to Mach 1.14 in a dive without breaking the wings. Flaps are automatically deployed, so if you set the flaps to landing, it won't deploy them until is safe to do so. This only works if the flaps are not already deployed, if so, it won't retract flaps and you will break them if over speeds of 400+ km/h. The aircraft is capable of maintaining 8 Gs in a turn, but it will overload if a higher turn is made. It is very easy to break the wings pulling hard turns, either negative or positive Gs. With a full load of fuel and a heavy bomb loadout wings become way weaker: any slight turn in negative Gs will overload and break the wings.
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -48,7 +44,7 @@ The A-4E has a really decent speed for its BR but loses a great amount of energy
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || ✓ || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -114,9 +110,7 @@ The A-4E has a really decent speed for its BR but loses a great amount of energy
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
 
 === Modifications and economy ===
@@ -135,41 +129,37 @@ The A-4E has a really decent speed for its BR but loses a great amount of energy
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|DEFA 553 (30 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 2 x 30 mm DEFA 553 cannons, belly-mounted (150 rpg = 300 total)
-  ** 2 x 30 mm DEFA 553 cannons + 60 x countermeasures
+* A choice between two presets:
+** 2 x 30 mm DEFA 553 cannons, belly-mounted (150 rpg = 300 total)
+** 2 x 30 mm DEFA 553 cannons + 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
 {{main|AGM-62A Walleye I ER (510 kg)|GBU-8 (2,000 lb)|AIM-9B Sidewinder}}
 {{main|MK 77 Mod 4 incendiary|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|Mk 11 mod 5 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x AIM-9B Sidewinder missiles
-- 171 x FFAR Mighty Mouse rockets
-- 36 x Zuni Mk32 Mod 0 ATAP rockets
-- 20 x 250 lb LDGP Mk 81 bombs (5,000 lb total)
-- 14 x 500 lb LDGP Mk 82 bombs (7,000 lb total)
-- 3 x 750 lb M117 cone 45 bombs (2,250 lb total)
-- 5 x 1,000 lb LDGP Mk 83 bombs (5,000 lb total)
-- 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
-- 9 x MK 77 mod 4 incendiary bombs
-- 2 x 510 kg AGM-62A Walleye I ER bombs (1,020 kg total)
-- 1 x 2,000 lb GBU-8 bomb (2,000 lb total)
-- 3 x 20 mm Mk 11 mod 5 cannons (750 rpg = 2,250 total)
+* Without load
+* 2 x AIM-9B Sidewinder missiles
+* 171 x FFAR Mighty Mouse rockets
+* 36 x Zuni Mk32 Mod 0 ATAP rockets
+* 20 x 250 lb LDGP Mk 81 bombs (5,000 lb total)
+* 14 x 500 lb LDGP Mk 82 bombs (7,000 lb total)
+* 3 x 750 lb M117 cone 45 bombs (2,250 lb total)
+* 5 x 1,000 lb LDGP Mk 83 bombs (5,000 lb total)
+* 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
+* 9 x MK 77 mod 4 incendiary bombs
+* 2 x 510 kg AGM-62A Walleye I ER bombs (1,020 kg total)
+* 1 x 2,000 lb GBU-8 bomb (2,000 lb total)
+* 3 x 20 mm Mk 11 mod 5 cannons (750 rpg = 2,250 total)
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -218,7 +208,6 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 ;Simulator battles
@@ -234,34 +223,31 @@ Trim-wise the A-4E is all over the place: it does not like to settle. You will f
 The goal in this plane is to attack ground and keep the 15-minute timer constantly going. You can do this by taking 2 Walleyes with you and destroying 2 tanks or pillboxes. You can also do this by loading 7,000 lbs of bombs and bombing a base, or by strapping on 171 mighty mouse rockets and strafing a ship. All these methods will net the same profit as in SB, more money is earned from passive income than from useful actions.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Payload is extremely high and well balanced allowing you to tailor your gameplay and loadout to the situation at hand
-- AGM-62A guide bomb allows a knowledgeable pilot to strike a target while miles away
-- RWR, flares and chaff increase your survivability
-- 30 mm DEFA have high accuracy, stopping power, and ammo count
-- Carrying 2 x AIM-9B air-to-air allows for some offensive behaviour
-- The plane carries enough payload to take out a full base or convoy in a single pass
-- Good roll rate
-- Fair acceleration (especially good at low speeds)
-- Very low stall speed
+* Payload is extremely high and well balanced allowing you to tailor your gameplay and loadout to the situation at hand
+* AGM-62A guide bomb allows a knowledgeable pilot to strike a target while miles away
+* RWR, flares and chaff increase your survivability
+* 30 mm DEFA have high accuracy, stopping power, and ammo count
+* Carrying 2 x AIM-9B air-to-air allows for some offensive behaviour
+* The plane carries enough payload to take out a full base or convoy in a single pass
+* Good roll rate
+* Fair acceleration (especially good at low speeds)
+* Very low stall speed
 
 '''Cons:'''
 
-- In SB, the seating position is very low. without manual adjustment it will feel like you are sitting in a bath tub
-- In SB, the rear visibility is not great
-- In SB, a pilot will have to constantly be at the controls due to the wild changes in pitch and lift the plane experiences
-- Turning requires a high angle of attack which bleeds airspeed extremely quickly
-- The plane performs worse in a sustained Rate Fight compared to its main adversaries
-- The plane has a tendency to rip its wings if forced to withstand 10 Gs or more for extended periods of time
+* In SB, the seating position is very low. without manual adjustment it will feel like you are sitting in a bath tub
+* In SB, the rear visibility is not great
+* In SB, a pilot will have to constantly be at the controls due to the wild changes in pitch and lift the plane experiences
+* Turning requires a high angle of attack which bleeds airspeed extremely quickly
+* The plane performs worse in a sustained Rate Fight compared to its main adversaries
+* The plane has a tendency to rip its wings if forced to withstand 10 Gs or more for extended periods of time
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 Israel had been interested in purchasing American combat planes ever since its inception in 1948, but rocky relations with the US resulted in the Americans refusing the vast majority of proposals over several decades. 1965 saw the first approval of a major deal for American combat jets, in which Israel would (initially) receive 48 A-4H Skyhawks. Due to lingering American reluctance to sell high-end military equipment to Israel at the time, the A-4H was actually a stripped-down variant of the A-4F (itself an improvement of the [[A-4E Early|A-4E]]), removing several key abilities from the aircraft: It had no ability to fire AAMs, had a downgraded bombing sight, and could only carry a limited variety of air-to-ground weaponry.
 
 The Israeli Air Force named the aircraft ''Ayit'' (Eagle), and very quickly restored all of its missing functionalities - while also adding several new features that had never been present in any of the American models. It regained the ability to fire AAMs, and was now capable of firing heat-seeking AAMs - previously unavailable to any A-4 model. Israel also installed improved avionics, a French DEFA 30 mm twin autocannon (to replace the American Colt 20 mm), equipment for the launching of precision-guided munitions, and an extended jet pipe that decreased the aircraft's vulnerability to heat-seeking SAMs.
@@ -271,30 +257,25 @@ The A-4H Skyhawks quickly replaced the [[Mystere (Family)|Dassault Mystère]] to
 The impressive performance of the A-4H eventually led Israel to purchase a large number of them, including several dozen "classic" A-4Es that had previously served in the US Navy. These A-4Es quickly received upgrades to match the A-4Hs in performance. In total, Israel purchased over 250 Skyhawks, becoming the world's leading importer of the aircraft. A-4H Skyhawks continued on to serve in the 1973 Yom Kippur War, the 1982 Lebanon War, and in many later Israeli operations. During the 1970s they were gradually replaced by the [[F-4 Phantom II (Family)|F-4 Phantom II]] and later the F-16. While most of the A-4H Skyhawks were eventually sold to Indonesia, many others remained in service as training aircraft until 2015.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=a_4e_late_iaf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=a_4e_late_iaf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
-- [[A-4 (Family)]]
+* [[A-4 (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/7383-development-israel-a-new-gaming-nation-coming-to-war-thunder-en|[Devblog] Israel, a new gaming nation coming to War Thunder!]]
+* [[wt:en/news/7383-development-israel-a-new-gaming-nation-coming-to-war-thunder-en|[Devblog] Israel, a new gaming nation coming to War Thunder!]]
 
 {{AirManufacturer Douglas}}
 {{Israel jet aircraft}}

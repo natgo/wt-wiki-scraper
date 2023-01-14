@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet fighter {{Battle-rating}}. It was introduced in [[Update 1.31]].
 
 The sleek and shining silver Yak-9P has the appearance of a Soviet counterpart to the US [[P-51 (Family)|P-51D Mustang]]. This refined postwar variant of the Yak-9 boasts an all-metal airframe, additional fuel tanks, and customizable armament. The flight performance is generally similar or in some cases somewhat worse than the previous [[Yak-9U]] due to its increased weight, but it still retains a good combination of speed and manoeuvrability. When flown by a cautious pilot, its balanced performance and hefty firepower make it a formidable opponent.
@@ -19,7 +17,6 @@ The sleek and shining silver Yak-9P has the appearance of a Soviet counterpart t
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 The {{PAGENAME}}'s performance can be compared to the Yak-9U. The M-107A engine is the same model as as the 9U's, but it generates slightly less horsepower on the 9P for reliability reasons. The weight of the aircraft has also increased in large part due to the expanded fuel capacity. The minimum fuel load of 23 minutes is larger than the 9U's 16 minutes, for example. These factors negatively affect the 9P's climb rate and power-to-weight ratio, but these factors still remain quite decent. As is the case for members of the Yak fighter family, the Yak-9P has crisp controls, good manoeuvring energy retention, and a good turn rate at medium speeds, making it a good dogfighter. Control stiffening in the roll rate starts early at around 500 km/h IAS. The control surfaces start to compress significantly at 650-700 km/h. The handling at extremely low speeds is not exceptional, in these cases consider using the takeoff flaps.
@@ -55,7 +52,7 @@ Engine performance and flight characteristics are good up to 4 km of altitude an
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || X || ✓ || X || X <!-- ✓ -->
+| X || X || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -86,12 +83,11 @@ Engine performance and flight characteristics are good up to 4 km of altitude an
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 8 mm Steel - Plate behind pilot's seat
-- 64 mm Bulletproof glass - Pilot's head rest
-- 64 mm Bulletproof glass - Front canopy window
+* 8 mm Steel - Plate behind pilot's seat
+* 64 mm Bulletproof glass - Pilot's head rest
+* 64 mm Bulletproof glass - Front canopy window
 
 The Yak-9P's all metal construction contributes to somewhat more survivability than the previous Yaks, but it is still not an exceptionally durable plane. The pilot has enough protection from the rear to survive stray machine gun shots. The frontal bulletproof glass is nice and thick and can resist machine guns and weaker cannons. The main issues in terms of durability are the numerous fuel tanks in the wing roots and the vulnerable liquid-cooled engine in the front. Use the Yak-9P's manoeuvrability to dodge fire as much as possible, the temperamental M-107A engine and large fuel capacity make engine damage and fires hard to deal with.
 
@@ -106,18 +102,16 @@ Note that equipping the "NS-23 cannon" or "N-37 cannon" modifications by themsel
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|B-20M (20 mm)|B-20S (20 mm)|NS-23 (23 mm)|N-37 (37 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between three different cannons, the 20 mm B-20M, 23 mm NS-23, or the 37 mm N-37:
-  ** 1 x 20 mm B-20M cannon, nose-mounted (115 rpg)
-  ** 1 x 23 mm NS-23 cannon, nose-mounted (75 rpg)
-  \*\* 1 x 37 mm N-37 cannon, nose-mounted (28 rpg)
-- 2 x 20 mm B-20S cannon, nose-mounted (120 rpg = 240 total)
+* A choice between three different cannons, the 20 mm B-20M, 23 mm NS-23, or the 37 mm N-37:
+** 1 x 20 mm B-20M cannon, nose-mounted (115 rpg)
+** 1 x 23 mm NS-23 cannon, nose-mounted (75 rpg)
+** 1 x 37 mm N-37 cannon, nose-mounted (28 rpg)
+* 2 x 20 mm B-20S cannon, nose-mounted (120 rpg = 240 total)
 
 The Yak-9P is the first Soviet single-engine fighter with a customizable armament in the form of the centreline cannon firing through the propeller hub. All cannon loadouts have two synchronized 20 mm B-20S cannons in the nose; these are effectively ShVAKs with a slightly higher rate of fire and retain the same belts. The Default belt is quite good as it has AP-I rounds for starting fires and FI-T rounds for ease of aiming and some mild explosive damage. Those confident in their aim can use Armoured Targets for higher AP-I content. Avoid belts containing HE-F rounds since they have less explosive content than the FI-T rounds and deal very little damage.
 
@@ -130,7 +124,6 @@ The 37 mm N-37 cannon with 28 rounds may remind pilots of the [[Yak-9T]]'s deadl
 During the Yak-9P's stock grind, players who want to focus on flight performance upgrades first should consider sticking with the triple B-20 setup, which can be easily brought to a usable standard by going straight for the New 20 mm Cannons upgrade. It is a convenient and reliable option that is sufficient against fighters and other smaller aircraft. The N-37 is a good option for bomber hunting but may be tricky to use against small targets due to the muzzle velocity and quirks of the HE rounds. The NS-23 is a good compromise of firepower and ease of use. All loadouts suffer from limited ammunition, so an average pilot may be able to score 1-2 kills before needing to rearm.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 Though the Yak-9P is similar to the Yak-9U in terms of design, handling, and performance, its places more emphasis on armament than performance. The Yak-9U could match or exceed most of its opponents in climb and speed and easily engage in energy fights. The Yak-9P faces tougher opposition and it is difficult to argue that the performance has improved, so it is important to pick your battles carefully and make good use of the powerful guns to destroy opponents quickly.
@@ -159,29 +152,27 @@ Keep an eye on the engine temperature. MEC helps greatly for managing the radiat
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Very fast when flying below 4,000 m (13,000 ft)
-- Powerful armament
-- Good energy retention, vertical & horizontal
-- Decent rate of climb and turn
-- Nose-mounted cannons are very accurate
+* Very fast when flying below 4,000 m (13,000 ft)
+* Powerful armament
+* Good energy retention, vertical & horizontal
+* Decent rate of climb and turn
+* Nose-mounted cannons are very accurate
 
 '''Cons:'''
 
-- Slower acceleration as an all-metal aircraft compared to lighter Yaks also utilizing the Klimov M-107 engine
-- Cannot reach speeds higher like other aircraft during dives, such as Fw 190, P-51 and F4U variants
-- Not very nimble at speeds slower than 300 km/h (186 mph)
-- Control stiffening when flying above 500 km/h (310 mph) and the roll rate is significantly decreased
-- Engine power suffers when flying above 4,000 m
-- Engine overheats easily
-- Low ammo capacity
+* Slower acceleration as an all-metal aircraft compared to lighter Yaks also utilizing the Klimov M-107 engine
+* Cannot reach speeds higher like other aircraft during dives, such as Fw 190, P-51 and F4U variants
+* Not very nimble at speeds slower than 300 km/h (186 mph)
+* Control stiffening when flying above 500 km/h (310 mph) and the roll rate is significantly decreased
+* Engine power suffers when flying above 4,000 m
+* Engine overheats easily
+* Low ammo capacity
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -201,40 +192,34 @@ The Yak-9P fighter was in service not only with the Soviet Union, but also with 
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=yak-9p Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=yak-9p Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|nrC6G4kSLBg|'''{{PAGENAME}} Spade Review. A Balanced Bird!''' - ''Joseph 2000''|6YhVb4afCtk|'''Arcade: {{PAGENAME}} [Squad Gameplay]"''' - ''Jengar''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
-- [[Yak-9 (Family)]]
+* [[Yak-9 (Family)]]
 
 ;Aircraft of comparable role, configuration and era
-
-- [[Yak-3P]]
+* [[Yak-3P]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/3426--en|[Profile] USSR's most produced: The Yak-9]]
-- [https://forum.warthunder.com/index.php?/topic/312316-yakovlev-yak-9p/ Official data sheet - more details about the performance]
-- [[wikipedia:Yakovlev_Yak-9|[Wikipedia] Yakovlev Yak-9]]
-- [http://www.airvectors.net/avyak1.html#m5 <nowiki>[Air Vectors]</nowiki> Yak Piston Fighters - Yak-9]
+* [[wt:en/news/3426--en|[Profile] USSR's most produced: The Yak-9]]
+* [https://forum.warthunder.com/index.php?/topic/312316-yakovlev-yak-9p/ Official data sheet - more details about the performance]
+* [[wikipedia:Yakovlev_Yak-9|[Wikipedia] Yakovlev Yak-9]]
+* [http://www.airvectors.net/avyak1.html#m5 <nowiki>[Air Vectors]</nowiki> Yak Piston Fighters - Yak-9]
 
 {{AirManufacturer Yakovlev}}
 {{USSR fighters}}

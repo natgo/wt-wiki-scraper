@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' (coded WZ123) is a rank {{Specs|rank}} Chinese medium tank {{Battle-rating}}. It was introduced in [[Update "Hot Tracks"]].
 
 Also known as the '''Type 99''', the ZTZ99 is perhaps the most famous Chinese main battle tank. It looks similar to the [[ZTZ96A]] at a quick glance, with similar "arrowhead" ERA arrays on the front turret, but the dimensions are larger and the hull layout is more similar to the Soviet [[T-72 (Family)|T-72]]. The ZTZ99 boasts great firepower, good protection, excellent thermal sights, and improved engine power in addition to nifty features like a laser warning system and thermal sights for the commander. Notable weaknesses include substandard mobility, slow reload, and numerous weak spots.
@@ -21,9 +19,7 @@ Also known as the '''Type 99''', the ZTZ99 is perhaps the most famous Chinese ma
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 Like the [[T-80U]], the ZTZ99 uses both composite armour and advanced ERA with kinetic protection. Composite armour is present on the turret cheeks and on the upper glacis; it is unremarkable by itself, but the areas with full coverage of both composite armour and FY-4 ERA are even capable of resisting the [[Leopard 2A6]]'s DM53 APFSDS. Unfortunately, these areas are limited to the turret cheeks and lower portion of the upper glacis. Interestingly, the ERA is resistant to tandem charge warheads, which allows it to withstand ATGMs that other ERA-equipped vehicles cannot.
 
 Unfortunately, there are plenty of weak spots on the hull. First, the lower glacis has no composite armour or ERA whatsoever and can be penetrated by practically anything, and it also is proportionally larger than on Soviet MBTs. Penetrating shots there have a large chance of detonating the ammo in the autoloader and destroying the tank. The upper glacis composite armour is modeled with a large cutout for the driver's optics, as on the Soviet T-64/72 series, and even the FY-4 ERA there is not enough to save it from powerful APFSDS. Some small portions of the upper glacis are not covered by ERA either.
@@ -38,14 +34,14 @@ As a last note, the GL-7 laser dazzler is physically modeled on the left side of
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (hull, turret cheeks, turret roof, cupolas)
-- Cast homogeneous armour (turret, gun mantlet)
+* Rolled homogeneous armour (hull, turret cheeks, turret roof, cupolas)
+* Cast homogeneous armour (turret, gun mantlet)
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 20+80 mm (70°) ''Upper front'' <br> 80 mm (60°) ''Lower front'' || 80 mm (50°) ''Top'' <br> 20 mm ''Bottom'' || 45 mm || 20-30 mm
+| Hull || 20+80 mm (70°) ''Upper front'' <br> 80 mm (60°) ''Lower front'' || 80 mm (50°) ''Top'' <br> 20 mm ''Bottom'' || 45 mm || 20-30  mm
 |-
 | Turret || 220 mm ''Turret front'' <br> 310 mm ''Gun mantlet'' || 80 mm (volumetric) || 35 mm || 30-50 mm
 |-
@@ -71,12 +67,11 @@ As a last note, the GL-7 laser dazzler is physically modeled on the left side of
 |}
 '''Notes:'''
 
-- Suspension wheels, tracks, and torsion bars are 20 mm thick.
-- Side skirts are 8 mm thick.
+* Suspension wheels, tracks, and torsion bars are 20 mm thick.
+* Side skirts are 8 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=1860|rbMinHp=1061}}
@@ -89,24 +84,17 @@ The ZTZ99-II's mobility is average for a top-tier vehicle. It has a sizeable NOR
 Recommended research order:
 
 # Parts. The ZTZ99-II's gun mantlet is a major weak spot meaning the gun breech or barrel can get destroyed a lot. Being able to repair these critical components is crucial.
-
 # 125-I APFSDS. Stock HEAT rounds are a pain to use against modern MBTs, while the HE requires longer time to target the enemy's weak spot, putting the ZTZ99-II in danger. A filler APFSDS allows more weak spots to be an option.
-
 # Mobility modifications. They can improve the tank's speed and handling.
-
 # LWS/LR. The more important module here is the laser rangefinder as it allows the player to quickly target distant enemies. The laser warning receiver is a nice bonus.
-
 # DTC10-125 APFSDS. With 500+ mm penetration, this round renders even more areas as penetrable, greatly increasing the ZTZ99-II's capacities.
-
 # Others
 
 == Armaments ==
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|ZPT98 (125 mm)}}
 
 The ZPT98 cannon is a 125 mm smoothbore cannon with an autoloader, much like the 2A46 cannon used by the T-72 or the Type 88C cannon used by the ZTZ96, but it is 50 calibres long instead of 48. The reload speed of 7.1 seconds is the slowest of any top-rank vehicle, so destroying or crippling enemies in one shot is important; but thanks to the upgraded FCS, ZTZ99-II can be more versatile with 6x-11x gun optics, helping players to engage both close and long range targets with relative ease. The gun handling is the same as the ZTZ96 series, being slightly better than most Soviet MBTs barring the [[T-80U]] and comparable to certain Western bloc MBTs ([[Challenger 2]], [[Leclerc (Family)|Leclerc]], [[Type 10]] etc.).
@@ -194,9 +182,7 @@ DTB12-125 is also available as a tier 4 modification; this is one of the few HE-
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.7.0.141''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -215,16 +201,14 @@ DTB12-125 is also available as a tier 4 modification; this is one of the few HE-
 |}
 '''Notes'''
 
-- The 7th projectiles and propellants rack is the First-stage ammo stowage: it is a mechanized ammo rack with a fixed reload rate.
-- The mechanized ammo rack depletes clock-wise: the arrow in the image shows where the ammo depletion starts.
-- It is recommended to bring 23 rounds in the tank as to limit the chances of the tank being knocked out by ammo rack explosion.
+* The 7th projectiles and propellants rack is the First-stage ammo stowage: it is a mechanized ammo rack with a fixed reload rate.
+* The mechanized ammo rack depletes clock-wise: the arrow in the image shows where the ammo depletion starts.
+* It is recommended to bring 23 rounds in the tank as to limit the chances of the tank being knocked out by ammo rack explosion.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|QJC88A (12.7 mm)|Type 86 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -247,7 +231,6 @@ DTB12-125 is also available as a tier 4 modification; this is one of the few HE-
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 Thanks to the technological advancements of the early 2000s, the ZTZ99-II shares a similar FCS to its (tech tree) predecessor ZTZ96A with variable 6x-11x magnification for the gunner's optics, and up to 10.7x magnification for the CITV, both equipped with TVD. This helps with engaging targets over ridge lines- commander override is a viable choice in case of long-range engagement. Thanks to its powerful 12V150HB engine, the ZTZ99 can accelerate fast enough to follow the team or alternatively, go to mid-field sniping positions. The laser warning system and high-quality thermal sights for the commander give the ZTZ99 a large degree of situational awareness, allowing enemies to be spotted and engaged quickly.
@@ -265,50 +248,48 @@ In the early stages of an assault battle, there will be waves of light tanks/col
 As the match progresses, waves of modern main battle tanks will show up, some of which can still get destroyed by your HEAT (e.g. [[M1A2 Abrams|M1A2]]), but well protected ones will require HE to do the job (e.g. [[Leopard 2A5]], [[Challenger 2 (2F)]]). Scan the target and fire HE at where the crosshair turns green, the HE can usually detonate random ammo inside the AI tanks. The ZTZ99's reload of 7.5 seconds may feel slow when facing huge amount of AI waves, so do not forget to fire your MG at their tracks, gun barrels, etc. This will not necessarily deal any damage however will give you assists when the AI is destroyed by other teammates, which means more scores thus more research points. Before the next wave shows up, you can go to any nearby repair spots to instantly repair and rearm. However if you are immobilised and disarmed and do not have "Parts" researched, or set on fire without any FPE, bail out and spawn in a new ZTZ99 to avoid wasting time.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Powerful firepower:
-  ** Variety of shells ranging from high-penetration darts, devastating HE(-VT) shells and gun-launched ATGM
-  ** High resolution thermal sights for both commander and gunner give it some advantage in poor visibility conditions
-  ** Autoloader reloads the cannon even when putting out fires or replacing crew members
-  ** Roof-mounted heavy machine gun is useful against low-flying aircraft and light targets
-- Good armour:
-  ** Nice frontal protection: sturdy turret cheeks and upper front plate, can resist common shells
-  ** ERA is immune to tandem-charged warheads
-- Low profile
-- Has a laser warning receiver
-- Improved mobility over preceding ZTZ96A with faster acceleration and higher top speed
+* Powerful firepower:
+** Variety of shells ranging from high-penetration darts, devastating HE(-VT) shells and gun-launched ATGM
+** High resolution thermal sights for both commander and gunner give it some advantage in poor visibility conditions
+** Autoloader reloads the cannon even when putting out fires or replacing crew members
+** Roof-mounted heavy machine gun is useful against low-flying aircraft and light targets
+* Good armour:
+** Nice frontal protection: sturdy turret cheeks and upper front plate, can resist common shells
+** ERA is immune to tandem-charged warheads
+* Low profile
+* Has a laser warning receiver
+* Improved mobility over preceding ZTZ96A with faster acceleration and higher top speed
 
 '''Cons:'''
 
-- Inconsistent protection:
-  ** Has a huge driver's weak spot that can be penetrated by pretty much any gun
-  ** Weak gun mantlet, very easy to disable gun breech
-  ** The outer part of the mantlet are in fact armour sheets rather than ERA, lowering its thickness significantly
-  ** Lower plate is very weak, with penetrating shells incapacitating the crew or exploding ammo
-  \*\* The bulge part of the turret (cast armour) might sometimes be penetrated and causing gun damages
-- Poor mobility:
-  ** Ineffectual reverse speed of only -5 km/h, makes it difficult to reverse and repair or escape dangerous situations
-  ** Due to the long hull, hull traverse speed is slow especially when stock or on loose surfaces
-- Turret ERA offers low KE protection
-- Only 3 crew members
-- Poor gun depression of -5° limits its capacity in hilly environments
-- Relatively slow reload of 7.1 seconds compared to other MBTs
+* Inconsistent protection:
+** Has a huge driver's weak spot that can be penetrated by pretty much any gun
+** Weak gun mantlet, very easy to disable gun breech
+** The outer part of the mantlet are in fact armour sheets rather than ERA, lowering its thickness significantly
+** Lower plate is very weak, with penetrating shells incapacitating the crew or exploding ammo
+** The bulge part of the turret (cast armour) might sometimes be penetrated and causing gun damages
+* Poor mobility:
+** Ineffectual reverse speed of only -5 km/h, makes it difficult to reverse and repair or escape dangerous situations
+** Due to the long hull, hull traverse speed is slow especially when stock or on loose surfaces
+* Turret ERA offers low KE protection
+* Only 3 crew members
+* Poor gun depression of -5° limits its capacity in hilly environments
+* Relatively slow reload of 7.1 seconds compared to other MBTs
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 In the late 1960s, Mainland China had found that the PLAGF was lagging behind the mainstream of MBTs of the era; the menacing Soviet armoured brigades in the Far East were also a great concern as well, especially after Damansky (Zhenbao) Island Incident where they [[T-62 545 (China)|captured a T-62]]. During the mid-1970s, the '''Commission for Science, Technology and Industry for National Defense''' (COSTIND 国防科学技术工业委员会) made a few attempts to design new MBTs under the code '''WZ122''' with multiple prototypes; technological issues put an end to those prototypes in the mid-1970s.
 
 Soon after the Cultural Revolution, in April 1978, COSTIND and 5th Ministry of Machine Building (第五机械工业部, now NORINCO and CSGC) received the requirements from PLA for a modern MBT, known as '''Project 784'''. It was to weigh around 43 tons and be armed with a 120 mm gun, as well as sporting a 1,000 hp MTU MB 331 TC-41 engine (which only 10 of them were imported from West Germany), in view of '''competing with the latest West German [[Leopard 2 (Family)|Leopard 2]] MBTs''' with excellent firepower and mobility. This prototype tank, coded WZ1224 underwent intensive tests. Later in 1984, Chinese exchanged a T-72 Ural from Romania, naming it Type 64 and using it for evaluation.<ref>https://www.163.com/dy/article/FUN6N9FU0535NL0F.html</ref> Although it was a fantasy for Mainland China during the 1980s to build a top-notch MBT, WZ1224, along with its later prototypes, became the basis of a new MBT - what would become the WZ123.
 
-In the mid-1980s, after the Leopard 2-like design and Merkava-like design were ditched due to their overall inferior protection (Leopard 2 was too huge while a front-placed engine in fact decreased the overall protection against kinetic shells, as stated in research papers), COSTIND decided that WZ123 should have a low profile like a T-72 and '''Zhu Yusheng''' (祝榆生, Nov 1918 - 23 Oct 2014) of '''Institute 201''' (201 所，北方车辆研究所) would be the chief designer of WZ123. During the decade between 1980s and 1990s, the new MBT went through extensive tests, including choosing a suitable engine for the tank at 1,200 hp, aimed to be comparable to the top-notch western MTU MB 873 Ka-501. However, the Chinese could only manage to get the license for MB 396 (a marine engine, Type 212 submarines used a pair of them; the licensed MTU 396 engine became the backbone of PLAN's new DDGs), and reverse-engineering efforts on the previous MB 331 TC-41 became 8V165 (8 valve, 165 mm cylinder diameter) with major flaws, so the options were only limited to domestic X150 or 150HB (designated by the cylinder diameter in millimetres) engine from '''Institute 70''' (NORINCO China North Engine Research Institute; Datong, Shanxi) and the lineage to German technology ended. A requirement from COSTIND was that the tank was to be compact, so large size engines like MB 873 Ka-501 weren't a viable option for the new MBT. With only 946 hp and some flaws found during the fitting of new engines into WZ123, the more potent and viable option in terms of Mainland China's overall engine technology: 150HB engine designed by Zhang Baozhong (张保中) was chosen as WZ123's engine.<ref>https://www.xcar.com.cn/bbs/viewthread.php?tid=33475284</ref> Later in 1996, '''Factory 617''' (NORINCO Inner-Mongolia First Machinery Group Corporation) delivered the new 3rd generation MBT to PLAGF for tests. While all the tests showed that WZ123 had passed the requirements from PLAGF, it was very unlikely made the way into commission before the 50th Anniversary of the Establishment of PRC under the codename '''"Project 9910"'''; efforts were made so that Factory 617 could produce 18 of these tanks to be paraded in the anniversary as the C001 to C018 tanks of C-vehicle phalanx, it was then known as Type 98 by USDOD. The prototypes built for Project 9910, aka '''ZTZ99-I''' then served in 38th Army Corps and based on this design, in early 2000s, Factory 617 built 2 variants of them for theorizing the applique and ERA placement of WZ123; finally one of them passed state certification at around 2003 and became '''ZTZ99-II''' (or ZTZ99 Mod. 2003, 99 一期改, ZTZ99 "二类定型状态" in-game; erroneously known as 99G).
+In the mid-1980s, after the Leopard 2-like design and Merkava-like design were ditched due to their overall inferior protection (Leopard 2 was too huge while a front-placed engine in fact decreased the overall protection against kinetic shells, as stated in research papers), COSTIND decided that WZ123 should have a low profile like a T-72 and '''Zhu Yusheng''' (祝榆生, Nov 1918 - 23 Oct 2014) of '''Institute 201''' (201所，北方车辆研究所) would be the chief designer of WZ123. During the decade between 1980s and 1990s, the new MBT went through extensive tests, including choosing a suitable engine for the tank at 1,200 hp, aimed to be comparable to the top-notch western MTU MB 873 Ka-501. However, the Chinese could only manage to get the license for MB 396 (a marine engine, Type 212 submarines used a pair of them; the licensed MTU 396 engine became the backbone of PLAN's new DDGs), and reverse-engineering efforts on the previous MB 331 TC-41 became 8V165 (8 valve, 165 mm cylinder diameter) with major flaws, so the options were only limited to domestic X150 or 150HB (designated by the cylinder diameter in millimetres) engine from '''Institute 70''' (NORINCO China North Engine Research Institute; Datong, Shanxi) and the lineage to German technology ended. A requirement from COSTIND was that the tank was to be compact, so large size engines like MB 873 Ka-501 weren't a viable option for the new MBT. With only 946 hp and some flaws found during the fitting of new engines into WZ123, the more potent and viable option in terms of Mainland China's overall engine technology: 150HB engine designed by Zhang Baozhong (张保中) was chosen as WZ123's engine.<ref>https://www.xcar.com.cn/bbs/viewthread.php?tid=33475284</ref> Later in 1996, '''Factory 617''' (NORINCO Inner-Mongolia First Machinery Group Corporation) delivered the new 3rd generation MBT to PLAGF for tests. While all the tests showed that WZ123 had passed the requirements from PLAGF, it was very unlikely made the way into commission before the 50th Anniversary of the Establishment of PRC under the codename '''"Project 9910"'''; efforts were made so that Factory 617 could produce 18 of these tanks to be paraded in the anniversary as the C001 to C018 tanks of C-vehicle phalanx, it was then known as Type 98 by USDOD. The prototypes built for Project 9910, aka '''ZTZ99-I''' then served in 38th Army Corps and based on this design, in early 2000s, Factory 617 built 2 variants of them for theorizing the applique and ERA placement of WZ123; finally one of them passed state certification at around 2003 and became '''ZTZ99-II''' (or ZTZ99 Mod. 2003, 99一期改, ZTZ99 "二类定型状态" in-game; erroneously known as 99G).
 
-This design was then revised and finally in the 60th Anniversary of the Establishment of PRC, a new version named '''[[ZTZ99-III]]''' (or ZTZ99 Mod. 2004, 99 二期改, ZTZ99 "三类定型状态" in-game; erroneously known as 99A1) was first publicly shown with a revised turret and placement of FY-4 ERA on the UFP. During the first decade of the 21st century, NORINCO was also refining their revised design on ZTZ99, dubbed ZTZ99AY (Y for {{Annotation|验证|yànzhèng}}, proof of concept). A decade later, in the 70th Anniversary of Victory over Japan Day, a brand-new designed ZTZ99A (erroneously known as 99A2), designed by '''Mao Ming''' (毛明, Sept 1962-) was first shown to the public, which only nominally shared the ZTZ99 name, and had enhanced capabilities against any modern and future MBTs it might face, serving as the new spearhead of elite armoured brigades in northern China.
+This design was then revised and finally in the 60th Anniversary of the Establishment of PRC, a new version named '''[[ZTZ99-III]]''' (or ZTZ99 Mod. 2004, 99二期改, ZTZ99 "三类定型状态" in-game; erroneously known as 99A1) was first publicly shown with a revised turret and placement of FY-4 ERA on the UFP. During the first decade of the 21st century, NORINCO was also refining their revised design on ZTZ99, dubbed ZTZ99AY (Y for {{Annotation|验证|yànzhèng}}, proof of concept). A decade later, in the 70th Anniversary of Victory over Japan Day, a brand-new designed ZTZ99A (erroneously known as 99A2), designed by '''Mao Ming''' (毛明, Sept 1962-) was first shown to the public, which only nominally shared the ZTZ99 name, and had enhanced capabilities against any modern and future MBTs it might face, serving as the new spearhead of elite armoured brigades in northern China.
 
 === [[wt:en/news/7005-development-ztz99-pouncing-tiger-en|Devblog]] ===
 Development of the ZTZ99 began in the mid 1980s, with Chinese engineers starting work on a new advanced main battle tank to replace the existing vehicles in service at the time. After examining possible design proposals, the engineers decided to proceed with a design similar to that of the Soviet T-72 tank.
@@ -322,7 +303,6 @@ Several years after its first introduction to service, the ZTZ99 received an upg
 The ZTZ99 remained in production until the early 2010s, before production capacities were allocated to the more advanced ZTZ99A - a highly modernized variant of the ZTZ99.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
@@ -344,23 +324,20 @@ File:ZTZ-99 WTWallpaper 007.jpg|
 {{Youtube-gallery|Yssg5uKGS-A|'''The Shooting Range #236''' - ''Metal Beasts'' section at 00:28 discusses the {{PAGENAME}}.|uCbzVR2aDs4|'''ZTZ99 - Tank Review''' - ''Napalmratte''|BtuRjIvTtTQ|'''The BEAST from the East - ZTZ99''' - ''JustinPlaysYT''|}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/7005-development-ztz99-pouncing-tiger-en|[Devblog] ZTZ99: Pouncing Tiger]]
+* [[wt:en/news/7005-development-ztz99-pouncing-tiger-en|[Devblog] ZTZ99: Pouncing Tiger]]
 
 === References ===
 <references />

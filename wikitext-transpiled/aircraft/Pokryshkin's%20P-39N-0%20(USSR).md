@@ -13,9 +13,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet fighter {{Battle-rating}}. It was introduced in [[Update 1.31]] and has been made available yearly for Aleksandr Pokryshkin's birthday in the store and in-game for Golden Eagles {{ge}} since 2013.
 
 The plane is painted after the camouflage scheme of Soviet ace pilot Alexander Pokryshkin in the 16th Guards Fighter Regiment, who scored most of his aerial victories in a lend-lease P-39. It differs from the regular [[P-39N-0]] by the removal of all 4 wing-mounted .30 cal machine guns. This increases the overall performance of the plane, with almost no shortcomings.
@@ -27,7 +25,6 @@ Overall, the plane will prove to be reliable during mid-low altitude manoeuvres 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 This Soviet P-39N-0 is a low altitude fighter. Its Allison V-1710-85 engine can produce up to 1200 HP, however, it has only a single-stage, single-speed supercharger. Because of that, the plane performs optimally at low altitude (<4,000 m): at sea level, it can reach up to 575 km/h, with a maximum level speed of 644 km/h at 3,048 m. Thanks to that, it can outperform many other fighters like the early versions of Bf 109 or other American planes at that altitude range. The climb performance is decent, getting to 4,500 m should take about 4 minutes when flying with WEP enabled and full fuel tanks; below 1,000 m it can reach ~23 m/s. That puts it almost on par with some Bf 109 versions or the Yak-9, but only up to a certain altitude. Due to the engine limits, after flying for 5 minutes with WEP enabled it might start to overheat, especially with closed radiators. Reducing the propeller pitch to 90-95% and opening its radiators to 15-20% or more will significantly increase the length of time it can fly at full power.
@@ -67,7 +64,7 @@ The stalling characteristics can be violent and almost unrecoverable, it will re
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -98,24 +95,23 @@ The stalling characteristics can be violent and almost unrecoverable, it will re
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
 ;Armour plates
 
-- 15.87 mm (5°) Steel - Propeller hub
-- 15.87 mm (15°) - Plate in front of the cockpit
-- 7 mm (67°) Steel - Plate over instrument cluster
-- 6 mm (5-16°) Steel - Upper pilot's seat and headrest encasement
-- 6 mm (5°) Steel - Rear tail
-- 38 mm (71°) Bulletproof glass - Windscreen
-- 64 mm (5°) Bulletproof glass - Headrest of pilot's seat
+* 15.87 mm (5°) Steel - Propeller hub
+* 15.87 mm (15°) - Plate in front of the cockpit
+* 7 mm (67°) Steel - Plate over instrument cluster
+* 6 mm (5-16°) Steel - Upper pilot's seat and headrest encasement
+* 6 mm (5°) Steel - Rear tail
+* 38 mm (71°) Bulletproof glass - Windscreen
+* 64 mm (5°) Bulletproof glass - Headrest of pilot's seat
 
 ;Critical components
 
-- The engine is located behind the pilot
-- Cooling systems are under the engine and in the middle of the the tail section.
-- Self-sealing fuel tanks are located at the root of each wing.
+* The engine is located behind the pilot
+* Cooling systems are under the engine and in the middle of the the tail section.
+* Self-sealing fuel tanks are located at the root of each wing.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -124,18 +120,15 @@ The stalling characteristics can be violent and almost unrecoverable, it will re
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M4 (37 mm)|M2 Browning (12.7 mm)}}
 
 '''''{{PAGENAME}}''''' is armed with:
 
-- 1 x 37 mm M4 cannon, nose-mounted (30 rpg)
-- 2 x 12.7 mm M2 Browning machine guns, nose-mounted (200 rpg = 400 total)
+* 1 x 37 mm M4 cannon, nose-mounted (30 rpg)
+* 2 x 12.7 mm M2 Browning machine guns, nose-mounted (200 rpg = 400 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The Russian P-39N works basically like the American version, the only difference being lower mass due to removed machine guns and slightly improved roll and turn rate as a result. In Realistic battles it can take advantage of excellent low altitude performance, most low tier battles in which it will participate will take place there. Climbing in this plane is not an issue, it can get to 5,000 m in slightly over 4 minutes, so after reaching it will most likely encounter other fighters like the Bf 109 E/F, or the American counterparts at similar altitude.
@@ -172,27 +165,25 @@ In Simulator battles, its capabilities are limited by subpar visibility from its
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great acceleration and great top speed in dive
-- Good climb rate at low altitude
-- Great top speed up to 4,000 m
-- Decent roll rate
-- Decent vertical and horizontal manoeuvrability
-- 37 mm cannon does a lot of damage when hitting enemy aircraft
+* Great acceleration and great top speed in dive
+* Good climb rate at low altitude
+* Great top speed up to 4,000 m
+* Decent roll rate
+* Decent vertical and horizontal manoeuvrability
+* 37 mm cannon does a lot of damage when hitting enemy aircraft
 
 '''Cons:'''
 
-- Rudder stiffens at high speed
-- Mediocre armament, low cannon's rate of fire and only two machine guns
-- 37 mm cannon has slow velocity which makes it hard to lead
-- Poor high altitude performance
+* Rudder stiffens at high speed
+* Mediocre armament, low cannon's rate of fire and only two machine guns
+* 37 mm cannon has slow velocity which makes it hard to lead
+* Poor high altitude performance
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -209,43 +200,36 @@ As this variant, Bell produced 2,095 aircraft. Most of these were sent to the So
 [[File:Alexander_Pokryshkin_profile.jpg|thumb|none|200px|link=User:U64962917#Pokryshkin,_Alexander_I.|[[User:U64962917#Pokryshkin,_Alexander_I.|Alexander Pokryshkin]] changed to the '''P-39N''' aircraft after his P-39K was damaged by an Il-2 which inadvertently fired its guns during a rough landing.]]
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=p-39n_su Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=p-39n_su Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|lzVTOvAGEck|'''"Crushing Teams /// Pokryshkin's P-39N-0 1.93 Gameplay''' - ''DEFYN''|k0xWIrlYSr4|'''The Shooting Range #55''' - ''Pages of History'' section at 03:35 discusses the Soviet P-39.|oIvS2CmTedA|'''Premium Review: Pokryshkin's P-39N-0''' - ''Jengar''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Aircraft of comparable role, configuration and era
-
-- [[P-63 (Family)]]
-- [[Yak-9 (Family)]]
-- [[Yak-1 (Family)]]
+* [[P-63 (Family)]]
+* [[Yak-9 (Family)]]
+* [[Yak-1 (Family)]]
 
 ;Other US-supplied Soviet fighters
-
-- [[P-40E-1 (USSR)]]
-- [[P-47D-27 (USSR)]]
+* [[P-40E-1 (USSR)]]
+* [[P-47D-27 (USSR)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/314748-bell-p-39n-0-su/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/314748-bell-p-39n-0-su/ Official data sheet - more details about the performance]
 
 {{Sp-begin|Obtainable events}}
-
 <div align="left">
 * 2013 - [[wt:en/news/104--en|Ace of the Month: Alexander Pokryshkin]]
 * 2014 - [[wt:en/news/492--en|Aleksandr Pokryshkin - the air tactician]]

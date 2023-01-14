@@ -1,18 +1,15 @@
 {{Specs-Card
 |code=a-35b
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} French dive bomber {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -40,7 +37,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French dive bomber {{Battle-ra
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || ✓ || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X     <!-- ✓ -->
 |-
 |}
 
@@ -71,13 +68,12 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French dive bomber {{Battle-ra
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 38 mm Bulletproof glass in front of pilot.
-- 12.7 mm Steel plate behind the pilot.
-- 6.35 mm Steel plate behind oil cooling system.
-- 12.7 mm Steel plate in front of dorsal gunner.
+* 38 mm Bulletproof glass in front of pilot.
+* 12.7 mm Steel plate behind the pilot.
+* 6.35 mm Steel plate behind oil cooling system.
+* 12.7 mm Steel plate in front of dorsal gunner.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -86,45 +82,37 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French dive bomber {{Battle-ra
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 6 x 12.7 mm M2 Browning machine guns, wing-mounted (375 rpg = 2,250 total)
+* 6 x 12.7 mm M2 Browning machine guns, wing-mounted (375 rpg = 2,250 total)
 
 The six machine guns are arranged in bundles of two mounted in each wing. Each is armed with the same amount of ammunition, which means that all guns will fire together until empty.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AN-M57 (250 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 2 x 500 lb AN-M64A1 bombs + 2 x 250 lb AN-M57 bombs (1,500 lb total)
-- 4 x 500 lb AN-M64A1 bombs (2,000 lb total)
-- 1 x 1,000 lb AN-M65A1 bomb (1,000 lb total)
+* 2 x 500 lb AN-M64A1 bombs + 2 x 250 lb AN-M57 bombs (1,500 lb total)
+* 4 x 500 lb AN-M64A1 bombs (2,000 lb total)
+* 1 x 1,000 lb AN-M65A1 bomb (1,000 lb total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 1 x 12.7 mm M2 Browning machine gun, dorsal turret (400 rpg)
+* 1 x 12.7 mm M2 Browning machine gun, dorsal turret (400 rpg)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The A-35B is designed as a ground attack aircraft, and should be played as such. The aircraft is relatively slow, rather large, and not particularly manoeuvrable. Thus, play the aircraft like a ground attacker. However, it does have some perks which should be utilized to the maximum.
 
 '''Air Battles:'''
@@ -159,26 +147,23 @@ If being attacked by any fighters, the A-35 gets into a sticky position. Its man
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Gets an airspawn allowing it to reach the battlefield faster
-- Has dive brakes which are highly useful for dive-bombing
-- Has a decent payload for an aircraft of its size
-- Heavy forward armament of six 12.7 mm machine guns, as well as an additional 12.7 mm machine gun in the rear
+* Gets an airspawn allowing it to reach the battlefield faster
+* Has dive brakes which are highly useful for dive-bombing
+* Has a decent payload for an aircraft of its size
+* Heavy forward armament of six 12.7 mm machine guns, as well as an additional 12.7 mm machine gun in the rear
 
 '''Cons:'''
 
-- Large and slow - fighters will have no trouble catching up!
-- Payload is constrained to 500 lb bombs if carrying max bomb load, and no bombs over 1,000 lbs are available
-- Manoeuvrability, especially roll rate, is absolutely horrid compared to fighters and even some other attackers
+* Large and slow - fighters will have no trouble catching up!
+* Payload is constrained to 500 lb bombs if carrying max bomb load, and no bombs over 1,000 lbs are available
+* Manoeuvrability, especially roll rate, is absolutely horrid compared to fighters and even some other attackers
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 At the beginning of the 1930s, the American company Vultee was developing a concept for a strike aircraft capable of effectively hitting ground targets, light vehicles and enemy infantry from low altitudes. Effective actions by Germany's Ju-87 dive bombers in Europe served as a basis for the creation of a concept for the American A-31 Vengeance, a strike dive bomber with a machine gun battery in its wings. This new addition immediately caught the attention of the British delegation, which happened to be searching for a design like the Stuka to aid in the fight against Germany. In the course of modernization, the A-31 received a new 1,700 hp engine and strengthened armament of five, and then seven high-calibre Browning machine guns (six in the wings and one more for defense against attacks from the rear), and a bomb load of up to 2,000 pounds. Modernized version got new designation - Vultee A-35. In spite of a large export order, the Vengeance also served in the American air force and navy, and the reviews about it were contradictory. For the war in Europe, the bomber turned out to be ill-prepared. Its low speed, large silhouette and need to descend to drop its bombs made it very vulnerable to enemy flak cannons and fighters. However, in the Pacific Theater the vehicle performed well. The Japanese had far fewer anti-aircraft defenses, and the Vengeance served as an attack aircraft, a bomber and a submarine hunter.
 
 Nonetheless, the main operators of the A-35 were foreigners. Several squadrons in the British Air Force were equipped with these dive bombers. The aircraft was delivered to Australia and Brazil, and it served in the Free French Army in Africa.
@@ -186,12 +171,10 @@ Nonetheless, the main operators of the A-35 were foreigners. Several squadrons i
 ''- From [[wt:en/news/5123-development-a-35b-the-american-legionnaire-en|Devblog]]''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=a-35b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=a-35b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|d27p2Kg06MA|'''The Shooting Range #302''' - ''Metal Beasts'' section at 00:28 discusses the {{PAGENAME}}.|N-EazLEFaFg|'''The Shooting Range #71''' - ''Pages of History'' section at 03:13 discusses the A-35.}}
@@ -199,17 +182,16 @@ Nonetheless, the main operators of the A-35 were foreigners. Several squadrons i
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/5123-development-a-35b-the-american-legionnaire-en|[Devblog] A-35B: The American Legionnaire]]
-- [https://forum.warthunder.com/index.php?/topic/385964-vultee-a-35b/ Official data sheet - more details about the performance]
+* [[wt:en/news/5123-development-a-35b-the-american-legionnaire-en|[Devblog] A-35B: The American Legionnaire]]
+* [https://forum.warthunder.com/index.php?/topic/385964-vultee-a-35b/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Vultee}}
 {{France bombers}}

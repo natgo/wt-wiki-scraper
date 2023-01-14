@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese heavy bomber {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -45,7 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese heavy bomber {{Battle-
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -76,17 +73,16 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese heavy bomber {{Battle-
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 60 mm Bulletproof glass in front of the pilots.
-- 6.5 mm Steel plates in front of the pilots.
-- 6.5 mm Steel plates behind the pilots.
-- 6.5 mm Steel plates in front of tail control tractions.
-- 6.5 mm Steel plates boxing around rear dorsal gunner and beam gunners.
-- 6.5 mm Steel plate behind the rear ventral turret.
-- 60 mm Bulletproof glass in front of tail gunner.
-- 6.5 mm Steel plate in front of tail gunner.
+* 60 mm Bulletproof glass in front of the pilots.
+* 6.5 mm Steel plates in front of the pilots.
+* 6.5 mm Steel plates behind the pilots.
+* 6.5 mm Steel plates in front of tail control tractions.
+* 6.5 mm Steel plates boxing around rear dorsal gunner and beam gunners.
+* 6.5 mm Steel plate behind the rear ventral turret.
+* 60 mm Bulletproof glass in front of tail gunner.
+* 6.5 mm Steel plate in front of tail gunner.
 
 Do not be fooled even with its powerful defensive armament, it does have weak spots.
 
@@ -105,43 +101,38 @@ While flying the Sabres, try to aim for the fuel tanks in the wings. Most of the
 {{Specs-Avia-Armaments}}
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|FAB-100sv (100 kg)|FAB-250sv (250 kg)|FAB-500sv (500 kg)|FAB-1000 (1,000 kg)}}
 {{main|FAB-1500M-46 (1,500 kg)|FAB-3000M-46 (3,000 kg)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 40 x 100 kg FAB-100sv bombs (4,000 kg total)
-- 40 x 250 kg FAB-250sv bombs (10,000 kg total)
-- 12 x 500 kg FAB-500sv bombs (6,000 kg total)
-- 20 x 500 kg FAB-500sv bombs (10,000 kg total)
-- 8 x 1,000 kg FAB-1000 bombs (8,000 kg total)
-- 8 x 1,500 kg FAB-1500M-46 bombs (12,000 kg total)
-- 4 x 3,000 kg FAB-3000M-46 bombs (12,000 kg total)
+* 40 x 100 kg FAB-100sv bombs (4,000 kg total)
+* 40 x 250 kg FAB-250sv bombs (10,000 kg total)
+* 12 x 500 kg FAB-500sv bombs (6,000 kg total)
+* 20 x 500 kg FAB-500sv bombs (10,000 kg total)
+* 8 x 1,000 kg FAB-1000 bombs (8,000 kg total)
+* 8 x 1,500 kg FAB-1500M-46 bombs (12,000 kg total)
+* 4 x 3,000 kg FAB-3000M-46 bombs (12,000 kg total)
 
 The Chinese Tu-4 has the same bomb loadouts as its Soviet counterpart, giving it a very impressive maximum load of 12,000 kg, with a wide selection of different bomb sizes. If you are looking to destroy bases in air battles then the 8 x 1,500 kg option is best as it allows more drops than the 4 x 3,000 kg bombs while still being able to destroy bases. If you are looking to do damage to the main airfield then the 4 x 3,000 kg option will give you slightly more TNT equivalent, but offers less flexibility.
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|NR-23 (23 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 2 x 23 mm NR-23 cannons, front dorsal turret (275 rpg = 550 total)
-- 2 x 23 mm NR-23 cannons, rear dorsal turret (275 rpg = 550 total)
-- 2 x 23 mm NR-23 cannons, front ventral turret (250 rpg = 500 total)
-- 2 x 23 mm NR-23 cannons, rear ventral turret (500 rpg = 1,000 total)
-- 2 x 23 mm NR-23 cannons, tail turret (275 rpg = 550 total)
+* 2 x 23 mm NR-23 cannons, front dorsal turret (275 rpg = 550 total)
+* 2 x 23 mm NR-23 cannons, rear dorsal turret (275 rpg = 550 total)
+* 2 x 23 mm NR-23 cannons, front ventral turret (250 rpg = 500 total)
+* 2 x 23 mm NR-23 cannons, rear ventral turret (500 rpg = 1,000 total)
+* 2 x 23 mm NR-23 cannons, tail turret (275 rpg = 550 total)
 
 Like the bomb load, the defensive armament of the Chinese Tu-4 remains unchanged from the Soviet model, with a total of 10 [[NR-23 (23 mm)|23 mm NR-23 cannons]] providing all-round coverage. While the defensive armament is excellent, you need to engage targets manually as the AI gunners do not engage at sufficient range to take out threats. The utility of the turrets is also lessened when facing missile-armed jets, which can engage you from longer ranges. In these cases you want to throttle down or even turn off your engines to make it harder for them to get a missile lock, and so draw them into range of your guns.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The below tactics can be used in all games modes:
@@ -184,37 +175,35 @@ Do not consider any enemy bomber or attacker as a neutral or even friendly party
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- This aircraft currently has the highest payload in the game of up to 12,000 kg (26,455 lbs)
-- Very strong and fast climber once flight performance modifications have been purchased (compressor, engine, and engine injection)
-- Very effective defensive 23 mm turrets that have little dead zones, lots of ammo and great damage
-- All payload options are internal and does not create additional drag
-- Gunners are located separately from the gun turret with the exception of the tail turret, increasing their survivability
-- Tricycle landing gears, does not have to worry about propeller strike
+* This aircraft currently has the highest payload in the game of up to 12,000 kg (26,455 lbs)
+* Very strong and fast climber once flight performance modifications have been purchased (compressor, engine, and engine injection)
+* Very effective defensive 23 mm turrets that have little dead zones, lots of ammo and great damage
+* All payload options are internal and does not create additional drag
+* Gunners are located separately from the gun turret with the exception of the tail turret, increasing their survivability
+* Tricycle landing gears, does not have to worry about propeller strike
 
 '''Cons:'''
 
-- Prone to fires and wing damage, hindering the plane's control
-- Will be ripped to shreds by cannons with the calibre of >=20 mm, especially the [[MK 108 (30 mm)|MK 108]] and the [[ADEN (30 mm)|ADEN]]/[[DEFA 541 (30 mm)|DEFA 541]]
-- Can face top rank jets such as the [[F-86F-2|Sabre]], [[Hunter F 1|Hunter]] and the [[S.O.4050 Vautour IIA|Vautour]]
-- Unable to reliably defend itself from opponents attacking at once from multiple directions
-- Huge aircraft, making it easy to spot from distance and making it close to impossible to miss
-- Takes a while to reach an optimal altitude
-- Hard to handle/correct direction during landing, due to its low roll rate, slow-responding rudder and slow landing gear movement
+* Prone to fires and wing damage, hindering the plane's control
+* Will be ripped to shreds by cannons with the calibre of >=20 mm, especially the [[MK 108 (30 mm)|MK 108]] and the [[ADEN (30 mm)|ADEN]]/[[DEFA 541 (30 mm)|DEFA 541]]
+* Can face top rank jets such as the [[F-86F-2|Sabre]], [[Hunter F 1|Hunter]] and the [[S.O.4050 Vautour IIA|Vautour]]
+* Unable to reliably defend itself from opponents attacking at once from multiple directions
+* Huge aircraft, making it easy to spot from distance and making it close to impossible to miss
+* Takes a while to reach an optimal altitude
+* Hard to handle/correct direction during landing, due to its low roll rate, slow-responding rudder and slow landing gear movement
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 It's known that at least twelve Tu-4s were aided to People's Liberation Army Air Force (PLAAF) by USSR since 1953, making China the only Tu-4 operator outside of the USSR. Ten Tu-4s delivered by the end of 1953 were operated by the Fourth Independent Regiment of PLAAF and later, in 1960, two additional aircraft were aided and served as navigational training aircraft; Tu-4 were saw during the riot-suppression operations over the Tibetan Plateau as a gunship and the Sino-Indo Border War, and sometimes bombing the frozen Yellow River to reopen shipping routes.
 
 === Shadow Aircraft 影機 ===
 [[File:Flight Path of 1960-12-19 Operation.jpg|thumb|309x309px|The flight path "Black Bat's" 1960-12-19 Operation]]
-At late 1950s, in view of the harassment and reconnaissance missions from the '''34th "Black Bat" Squadron ''(第 34"黑蝙蝠"中隊)'' of ROCAF''', PLAAF had plans for modifying Tu-2 into night-time interceptors and had attempted to hunt down P2V-7U flown by the aforementioned squadron, but ROCAF managed to bait that Tu-2 into terrain thus giving a death sentence to this project. By the 1960s, a commander of PLAAF suggested a plan to modify a Tu-4 (aka Tu-4P in this case; No. 0049) into an anti-aircraft gunship as both Tu-4 and P2V shared similar service radius. The aircraft had installed a PSBN-M radar from IL-28 by the tail of the aircraft, the gunner sights were also upgraded into infrared sights and the bomb bay was also modified into a command station where it could serve as an airborne control plane for the jet interceptors. This Tu-4 was dubbed "'''the Shadow Aircraft ''影機'''''" by ROCAF.
+At late 1950s, in view of the harassment and reconnaissance missions from the '''34th "Black Bat" Squadron ''(第34"黑蝙蝠"中隊)'' of ROCAF''', PLAAF had plans for modifying Tu-2 into night-time interceptors and had attempted to hunt down P2V-7U flown by the aforementioned squadron, but ROCAF managed to bait that Tu-2 into terrain thus giving a death sentence to this project. By the 1960s, a commander of PLAAF suggested a plan to modify a Tu-4 (aka Tu-4P in this case; No. 0049) into an anti-aircraft gunship as both Tu-4 and P2V shared similar service radius. The aircraft had installed a PSBN-M radar from IL-28 by the tail of the aircraft, the gunner sights were also upgraded into infrared sights and the bomb bay was also modified into a command station where it could serve as an airborne control plane for the jet interceptors. This Tu-4 was dubbed "'''the Shadow Aircraft ''影機'''''" by ROCAF.
 
 A detailed information on the very first interception operations conducted by the "Shadow Aircraft" could be found in the Black Bat Squadron Memorial Hall in Hsinchu, their home base. The crew of this P2V flight took off from South Korea on 19 December, 1960 and survived the interception from J-5A, "the Shadow Aircraft" and ground AA; only to knew the existence of such aircraft a year later after multiple interception by this aircraft. While the records from PLAAF mentioned that the gunship was first flown in 1st March, the mission was only for tracking instead of a head-to-head interception.
 
@@ -231,26 +220,24 @@ At that time, the Tu-4 is the optimal heavy-weight long-range air platform opera
 During the Vietnam War, China captured serval wrecks of Ryan BQM-34 reconnaissance drones and one of them was fixed, becoming the sample of reverse-engineering. The resulting product, called Changhong-1 ("長虹一號", Skylight No.1) or WZ-5 ("無偵-5", Unmanned reconnaissance aircraft No.5) was built based on the BQM-34. A modified Tu-4 (series number 225008, Red 4134) with turboprop engines was converted into a drone carrier platform. The red 4131 drone platform is capable carry two Changhong-1s under the pylons mounted underwing. It can also carry two La-17K UAV.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=tu_4_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=tu_4_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/315758-tupolev-tu-4/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/315758-tupolev-tu-4/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Tupolev}}
 {{China bombers}}

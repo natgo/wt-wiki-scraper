@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British fighter {{Battle-rating}}. It has been in the game as a premium pack since the start of the Open Beta Test prior to Update 1.27 but was removed from the store after the [[wt:en/news/5232-shop-winter-sales-special-bundle-and-gift-certificates-en|2017 Winter Sale]]. It has since been made available for purchase with Golden Eagles {{ge}} for the [[wt:en/news/5438-raf-100-royal-air-force-centenary-en|2018 "Royal Air Force Centenary"]] and [[wt:en/news/6759-special-d-day-en|2020 D-Day]] mini-events. It also has been made available again in the store episodically for the [[wt:en/news/5232-shop-winter-sales-special-bundle-and-gift-certificates-en|2018 Winter Sale]], the [[wt:en/news/6866-special-80-year-anniversary-of-battle-of-britain-en|2020 "80<sup>th</sup> Anniversary of the Battle of Britain"]] event and as part of the [[wt:en/news/6759/current|2020]] and [[wt:en/news/7205-shop-d-day-bundles-en|2021]] D-Day Sales.
 
 While the {{Specs|name}} is slightly inferior compared to the Mk Ib/late in regards to flight performance and engine power, the main difference from the Mk Ia is the vastly upgraded armament options, including 4 x 20 mm Hispano Mk II cannons and larger bombs and rockets.
@@ -19,7 +17,6 @@ While the {{Specs|name}} is slightly inferior compared to the Mk Ib/late in rega
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!--''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''-->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -47,7 +44,7 @@ While the {{Specs|name}} is slightly inferior compared to the Mk Ib/late in rega
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -100,13 +97,11 @@ While the {{Specs|name}} is slightly inferior compared to the Mk Ib/late in rega
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
-- 42.8 mm Bulletproof glass in cockpit front.
-- 12.7 mm Steel plate behind the pilot.
-- 1 mm Steel plate in the fuselage.
-- 3 mm Steel plate behind the propeller.
+* 42.8 mm Bulletproof glass in cockpit front.
+* 12.7 mm Steel plate behind the pilot.
+* 1 mm Steel plate in the fuselage.
+* 3 mm Steel plate behind the propeller.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -115,34 +110,28 @@ While the {{Specs|name}} is slightly inferior compared to the Mk Ib/late in rega
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Hispano Mk.II (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 20 mm Hispano Mk.II cannons, wing-mounted (140 rpg = 560 total)
+* 4 x 20 mm Hispano Mk.II cannons, wing-mounted (140 rpg = 560 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|M.C. 1,000 lb Mk.I (1,000 lb)|RP-3}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 250 lb G.P. Mk.IV bombs (500 lb total)
-- 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
-- 2 x 1,000 lb M.C. 1,000 lb Mk.I bombs (2,000 lb total)
-- 8 x RP-3 rockets
+* Without load
+* 2 x 250 lb G.P. Mk.IV bombs (500 lb total)
+* 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
+* 2 x 1,000 lb M.C. 1,000 lb Mk.I bombs (2,000 lb total)
+* 8 x RP-3 rockets
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 As a fighter, it is mainly a BnZ aircraft with lethal armament, especially the stealthy Air targets belts. Roll rate is below average but turn performance is decent for such a large aircraft. Where the Typhoon shines, as in real life, is in ground attack roles with 2 x 1000lbs bombs or 8 x RP-3 rockets. Used in this role the Typhoon can strike very fast and accurately and use its speed to disengage. Climb early in the battle as performance is maintained even with 2 x 1000 bombs underneath, select the target and bomb in a shallow dive. Disengage with a shallow climb at great speed away from enemy fighters. Softer targets can be destroyed easily with the cannons. This aircraft can be a real lion farmer used in a mixed role of fighter bomber attacking unsuspecting slower enemy aircraft, or blasting through furballs at high speed. The Air Targets belts will reward the good shot. Performance is best below 6 km (20000 ft). When manoeuvring keeps the speed up, this is a heavy aircraft and will not easily regain energy lost by high loads, making it vulnerable.
 
 === Manual Engine Control ===
@@ -163,27 +152,23 @@ As a fighter, it is mainly a BnZ aircraft with lethal armament, especially the s
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
-
-- Good diving speed
-- Excellent armament
-- Above average armour
-- Can withstand tough loads
-- Good speed
-- Good climb rate
+* Good diving speed
+* Excellent armament
+* Above average armour
+* Can withstand tough loads
+* Good speed
+* Good climb rate
 
 '''Cons:'''
-
-- Water overheats if too much WEP applied
-- Low roll rate
-- Big target for a fighter
-- Limited cockpit visibility
+* Water overheats if too much WEP applied
+* Low roll rate
+* Big target for a fighter
+* Limited cockpit visibility
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The Typhoon Mk Ib was an evolution on the earlier Mk Ia on a quest for better overall performance. An upgraded engine that could take higher boost settings and aerodynamic improvements on the fuselage and wings increased speed and climb capability. The four cannons and the improved hardpoints under the wings made it ideal for the ground attack tactics employed by the RAF in 1943 over France. The Spitfires and Hurricanes were quickly replaced by the Typhoons in this very dangerous mission profile, flying close to the ground and exposed to AA. The Typhoon was also used in a defensive role as interceptor against fast German fighter bombers coming across the Channel.
@@ -211,24 +196,20 @@ Whilst the Typhoon had a disappointing high altitude performance, its low altitu
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=typhoon_mk1b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=typhoon_mk1b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer Hawker}}
 {{Britain fighters}}

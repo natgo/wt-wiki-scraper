@@ -5,19 +5,16 @@
 }}
 {{Specs-Card
 |code=it_m24_chaffee
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian light tank {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
@@ -38,16 +35,15 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian light tank {{Battle-ra
 |}
 '''Notes:'''
 
-- Suspension wheels and tracks are 15 mm thick.
-- Belly armour is 12.7 mm thick.
-- Gun barrel is 20 mm thick.
-- Gun breech is 300 mm thick in structural steel
+* Suspension wheels and tracks are 15 mm thick.
+* Belly armour is 12.7 mm thick.
+* Gun barrel is 20 mm thick.
+* Gun breech is 300 mm thick in structural steel
 
 The {{PAGENAME}} has thin armour on all sides, and can only effectively resist machine gun fire or very low-penetrating shells. Its crew members are also sitting very close to each other, increasing the chance of it getting destroyed by a single shot. The V-shaped gun mantlet might bounce some small calibre shells if you are lucky enough. However, don't rely on it as the rest of the tank is still poorly protected.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=459|rbMinHp=262}}
@@ -61,9 +57,7 @@ The M24 travels at an average of 40 km/h on/off-road which is the average light 
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|M6 (75 mm)}}
 
 The tank offers the 75 mm M6 gun, which only differs from the [[M4|M4]]/[[M4A1|M4A1]] Sherman's 75 mm M3 gun with its slower reloading rate due to the smaller confines of the M24 Chaffee. The shells come in handy for certain tanks; they generally penetrate armour very well. It is rare to experience a ricochet or be to unable to penetrate any armour.
@@ -139,9 +133,7 @@ The tank offers the 75 mm M6 gun, which only differs from the [[M4|M4]]/[[M4A1|M
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_M24.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 1.101.2.60''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -154,14 +146,12 @@ The tank offers the 75 mm M6 gun, which only differs from the [[M4|M4]]/[[M4A1|M
 |}
 '''Notes''':
 
-- As they are modeled by sets of 2, shells disappear from the rack only after you fire both shells in the set.
+* As they are modeled by sets of 2, shells disappear from the rack only after you fire both shells in the set.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|M2HB (12.7 mm)|M1919A4 (7.62 mm)}}
 
 The two machine guns on the M24 Chaffee are the good old [[M2HB (12.7 mm)|.50 cal M2HB]] and the [[M1919A4 (7.62 mm)|7.62 mm M1919A4]]. The roof-mounted .50 cal can traverse 360 degrees and has great depression & elevation, posting a big threat to any plane that is flying too close to the M24. It has an unbelievable penetration of 31 mm at 10 m, meaning it can easily penetrate plenty of lightly armoured vehicles and even the side of some low rank medium tanks. The 7.62 mm, on the other hand, can only efficiently damage exposed crews due to its low penetration.
@@ -186,9 +176,7 @@ The two machine guns on the M24 Chaffee are the good old [[M2HB (12.7 mm)|.50 ca
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The M24 Chaffee is a very good tank with a fairly interesting playstyle. Instead of being permanently stationed at a single point and continuously firing at an enemy, this tank offers impressive manoeuvrability and speed which allows it to perform impressive flanking manoeuvres. The M24 can travel at around 38 km/h forward and -25 km/h backwards. Its reverse speed is very good if a quick getaway by going backwards is needed. Thus, this tank excels at "peek-a-boo" tactics in which one hides behind a rock or other large piece of cover and repeatedly inches out to fire at an enemy.
 
 An extension of this "peek-a-boo" tactic is to also use the tank's mobility for "scoot-and-shoot" tactics by firing and then moving to another firing location so as to prevent enemy tanks and tank destroyers from accurately guessing range. This can be difficult, however, as you must be very versed in your own tank's ballistics to make shots as you will have to estimate range on the fly. Don't think this means firing on the move - if you are going faster than 16 km/h (10 mph), the stabilizer will not allow for accurate shots, and it is only a vertical stabilizer.
@@ -199,42 +187,38 @@ Another way to go around is to flank the enemy. If attacking with a more direct 
 
 '''Enemies worth noting''':
 
-- Sd.Kfz.234 series: The M24, although agile, is still not the fastest tank at its rank. When your opposite team has Germany, you might want to reconsider the option of capping a point straight away, since the German Sd.Kfz.234 series are very likely to be there first. The [[Sd.Kfz.234/2]] (also known as the Puma) is a turreted 8-wheel vehicle with a small profile, extremely high on-road speed and a powerful 50 mm gun. But it cannot turn in place, has a very slow turret traverse and only 8 mm of side hull armour, so a good tactic is to circle with it and utilise your stabiliser, fast turret and the piercing .50 cal. In an intense tank "dogfight", you might miss your shots. Don't worry, your reliable .50 cal got you! It can penetrate the sides, or even the front of the puma easily. The [[Sd.Kfz.234/3]] and [[Sd.Kfz.234/4]], although being equally deadly, are turretless. You can use some quick turns to avoid their guns or tear through the thin armour plate protecting their gunners with your .50 cal.
+* Sd.Kfz.234 series: The M24, although agile, is still not the fastest tank at its rank. When your opposite team has Germany, you might want to reconsider the option of capping a point straight away, since the German Sd.Kfz.234 series are very likely to be there first. The [[Sd.Kfz.234/2]] (also known as the Puma) is a turreted 8-wheel vehicle with a small profile, extremely high on-road speed and a powerful 50 mm gun. But it cannot turn in place, has a very slow turret traverse and only 8 mm of side hull armour, so a good tactic is to circle with it and utilise your stabiliser, fast turret and the piercing .50 cal. In an intense tank "dogfight", you might miss your shots. Don't worry, your reliable .50 cal got you! It can penetrate the sides, or even the front of the puma easily. The [[Sd.Kfz.234/3]] and [[Sd.Kfz.234/4]], although being equally deadly, are turretless. You can use some quick turns to avoid their guns or tear through the thin armour plate protecting their gunners with your .50 cal.
 
-- [[KV-1 (Family)]], [[KV-IB (Germany)|KV-IB]], [[KW I C 756 (r) (Germany)|KW I C 756 (r)]]: The famous KV series can cause a bit of troubles too. They are well know for their well-protected hull and turrets. The M24 can manoeuvre to point-blank range, line up your gun so it's pointing dead flat at the armour and fire. The 104 mm penetration of the M61 shell should punch a hole in the KV's armour with ease. If you are close enough but do not have the space to manoeuvre, shoot their gun barrel to prevent them from getting a shot off, then go for their turret ring or the vertical part on their gun mantlet, which is only 90 mm. For the KV-1B, do not try and fire at its turret from the front and side, as they are 105 mm thick and will never get penetrated. For the KV I C 756, aim for the cupola (50 m) or the gun mantlet (50 mm) to knock out the turret crew or the gun breech. Don't shoot at anywhere else, the shell won't penetrate.
+* [[KV-1 (Family)]], [[KV-IB (Germany)|KV-IB]], [[KW I C 756 (r) (Germany)|KW I C 756 (r)]]: The famous KV series can cause a bit of troubles too. They are well know for their well-protected hull and turrets. The M24 can manoeuvre to point-blank range, line up your gun so it's pointing dead flat at the armour and fire. The 104 mm penetration of the M61 shell should punch a hole in the KV's armour with ease. If you are close enough but do not have the space to manoeuvre, shoot their gun barrel to prevent them from getting a shot off, then go for their turret ring or the vertical part on their gun mantlet, which is only 90 mm. For the KV-1B, do not try and fire at its turret from the front and side, as they are 105 mm thick and will never get penetrated. For the KV I C 756, aim for the cupola (50 m) or the gun mantlet (50 mm) to knock out the turret crew or the gun breech. Don't shoot at anywhere else, the shell won't penetrate.
 
-- [[Churchill Mk I]], [[Churchill Mk III]], [[Pz.Kpfw. Churchill (Germany)|Pz.Kpfw. Churchill]]: The Churchills, with their complex hulls and sturdy turrets, can be quite hard to kill at range. Again, manoeuvre as close to them as possible, the idea distance being no more than 200 m. If they are angling their hull but facing their turret at you, only go for the turret. For the Mk I Churchills, aim at the near-vertical part of their rounded cheeks to ensure successful penetrations. For the Mk III and the German Churchill, also aim for their flat turret which is at most 89 mm. The shell should go in easily and knock out most, if not all of the crew. Only when you are facing their hull without any angles should you shoot the hull, otherwise shoot the turret only, as their big tracks can easily get in front of the frontal hull. The side hull have multiple layers of armour, some of which are weirdly angled and can absorb plenty of shells.
-- [[M4A2]] / [[M4A4 (1st PTG)|A4]]: these Sherman tanks are widely used by over 3 nations that spread across both the Allied and the Axis side, so no matter which nation you play they can be quite tough to destroy in the hands of a skilled tanker. Given the rather weak penetration of your short 75 mm gun, their hull can be almost impossible to penetrate when angled, hull down or 300 m away. For a M4A4, there are 2 apparent bulges on the upper front plate, a penetration through there is a guaranteed kill most of the times. But in case the opponent covers them up or when it's a M4A2, aim for the middle parts of the gun mantlet or the turret armour unprotected by the mantlet, you can at least make them defenseless.
+* [[Churchill Mk I]], [[Churchill Mk III]], [[Pz.Kpfw. Churchill (Germany)|Pz.Kpfw. Churchill]]: The Churchills, with their complex hulls and sturdy turrets, can be quite hard to kill at range. Again, manoeuvre as close to them as possible, the idea distance being no more than 200 m. If they are angling their hull but facing their turret at you, only go for the turret. For the Mk I Churchills, aim at the near-vertical part of their rounded cheeks to ensure successful penetrations. For the Mk III and the German Churchill, also aim for their flat turret which is at most 89 mm. The shell should go in easily and knock out most, if not all of the crew. Only when you are facing their hull without any angles should you shoot the hull, otherwise shoot the turret only, as their big tracks can easily get in front of the frontal hull. The side hull have multiple layers of armour, some of which are weirdly angled and can absorb plenty of shells. 
+* [[M4A2]] / [[M4A4 (1st PTG)|A4]]: these Sherman tanks are widely used by over 3 nations that spread across both the Allied and the Axis side, so no matter which nation you play they can be quite tough to destroy in the hands of a skilled tanker. Given the rather weak penetration of your short 75 mm gun, their hull can be almost impossible to penetrate when angled, hull down or 300 m away. For a M4A4, there are 2 apparent bulges on the upper front plate, a penetration through there is a guaranteed kill most of the times. But in case the opponent covers them up or when it's a M4A2, aim for the middle parts of the gun mantlet or the turret armour unprotected by the mantlet, you can at least make them defenseless. 
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 '''Pros:'''
 
-- Decent mobility: good top speed and great turning ability
-- Uses the same gun as the 75 mm Shermans: various shell types, great penetration & damage and excellent gun depression. M61 shell can one shot common tanks like the T-34 series, M4A1, Cromwell or even the KV-1
-- Fast turret traverse allows it to track agile targets easily
-- Low profile allows it to easily hide behind small bushes or rocks, increasing survivability
-- Equipped with a vertical plane stabilizer, allowing for more accurate shots on the move or shoot-n-scoot tactics
-- Pintle-mounted HMG allows for air defense and some anti tank ability (e.g. GAZ trucks, SU-76, [[ZSD63]])
-- 13 smoke grenades allow escaping from dangerous situation for many times
-- Effective even in uptiers if used for flanking shots or hunting soft targets
-- Very fast reverse allowing it to retreat from danger quickly
+* Decent mobility: good top speed and great turning ability
+* Uses the same gun as the 75 mm Shermans: various shell types, great penetration & damage and excellent gun depression. M61 shell can one shot common tanks like the T-34 series, M4A1, Cromwell or even the KV-1
+* Fast turret traverse allows it to track agile targets easily
+* Low profile allows it to easily hide behind small bushes or rocks, increasing survivability
+* Equipped with a vertical plane stabilizer, allowing for more accurate shots on the move or shoot-n-scoot tactics
+* Pintle-mounted HMG allows for air defense and some anti tank ability (e.g. GAZ trucks, SU-76, [[ZSD63]])
+* 13 smoke grenades allow escaping from dangerous situation for many times
+* Effective even in uptiers if used for flanking shots or hunting soft targets
+* Very fast reverse allowing it to retreat from danger quickly
 
 '''Cons:'''
 
-- Low survivability: all-round thin armour and closely packed crews. Can get knocked out with a single shot by guns like 75 mm M3, 76 mm F-34 and 75 mm KwK40
-- Acceleration is rather sluggish, especially on soft terrains
-- On-road top speed is still inferior to some wheeled vehicles like the [[Sd.Kfz.234/2]]
-- Shells drop dramatically at long distances, making distant / moving targets hard to shoot at
-- Reload time is pretty slow for a light tank
-- Low ammo count can be a problem in long games or RB/SB matches
+* Low survivability: all-round thin armour and closely packed crews. Can get knocked out with a single shot by guns like 75 mm M3, 76 mm F-34 and 75 mm KwK40
+* Acceleration is rather sluggish, especially on soft terrains
+* On-road top speed is still inferior to some wheeled vehicles like the [[Sd.Kfz.234/2]]
+* Shells drop dramatically at long distances, making distant / moving targets hard to shoot at
+* Reload time is pretty slow for a light tank
+* Low ammo count can be a problem in long games or RB/SB matches
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 As early as 1942, the light tanks [[M3 Stuart|M3]] and [[M5A1|M5]] Stuarts have been seen as severely lacking in the modernizing design of tanks and how they fight. The armour was seen as insufficient and the [[M3 (37 mm)|37 mm gun]] was also deemed useless against even the standard German tanks like the [[Pz.III J|Panzer III]] and [[Pz.IV F2|Panzer IV]]. The system needed an upgrade, specifically a light tank that mounts the [[M3 (75 mm)|75 mm gun]] seen on the [[M4]] Shermans. An attempt to mount a 75 mm gun on a Stuart was deemed inefficient as it reduced ammo stowage and left the armour too thin on the design.
 
@@ -253,31 +237,27 @@ The ''Chaffee'' had turned out to be one of the greatest light tanks the Allies 
 During the export of the M24 Chaffee, many nations were asking for it, including Italy. At the beginnings of 1950, Italy ordered the second biggest M24 order in history, consisting of 518 units bought when Italy accessed NATO.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=it_m24_chaffee Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=it_m24_chaffee Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|v0-hKVu3_Ws|'''Carro Leggero Italian M24 Chaffee - Gameplay''' - ''Bennyvee'' (Review starts at 2:36)}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
-
-- [[AMX-13 (FL11)]]
+* [[AMX-13 (FL11)]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{TankManufacturer Cadillac}}
 {{Italy light tanks}}

@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese jet fighter {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
 
 The F-104 Starfighter had a long career with the Republic of China Air Force. The multi-role F-104G model, originally developed for [[F-104G|export to Germany]], is a major leap compared to the previous [[F-104A (China)|ROCAF F-104A]] and enjoys a more powerful engine and much better suspended ordnance. This Taiwanese example differs from the original F-104G by having access to the AIM-9J Sidewinder air-to-air missile and the AGM-12B Bullpup air-to-ground missile, making it one of the most formidable Starfighters in War Thunder.
@@ -19,7 +17,6 @@ The F-104 Starfighter had a long career with the Republic of China Air Force. Th
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 The F-104G has about 8% more engine thrust than the F-104A in exchange for slightly increased weight. The general performance has been improved but the characteristics remain similar, so anyone used to flying the F-104A will find the transition easy. As with the other Starfighters, the F-104G has great speed, acceleration, and climb rate due to its streamlined aerodynamics and powerful engine. This is achieved at the cost of low-speed handling and turning capabilities. It only turns acceptably at transonic or supersonic speeds, anything below that being far below average for a jet fighter. The stubby wings with a low aspect ratio also contribute to poor manoeuvring energy retention, so extended turning will bleed energy quickly. The roll rate is good, which helps in defensive manoeuvres.
@@ -49,7 +46,7 @@ The F-104G has about 8% more engine thrust than the F-104A in exchange for sligh
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || ✓ || ✓ || ✓ <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -115,7 +112,6 @@ The F-104G has about 8% more engine thrust than the F-104A in exchange for sligh
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
 The F-104G is not equipped with any armour plating, and is therefore rather vulnerable to enemy fire, especially given the fact that most enemies at this rank sport high-calibre cannons. Since the plane's wings are so small, any damage to them at all drastically reduces stability and manoeuvrability, and may result in a crash. All of the vehicle's fuel tanks are centrally located, so fuel fires are unlikely to occur. However, the engine is very large, so it is very likely that it will sustain heavy damage if the vehicle is fired upon.
@@ -136,37 +132,33 @@ The F-104G is not equipped with any armour plating, and is therefore rather vuln
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M61A1 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 1 x 20 mm M61A1 cannon, nose-mounted (750 rpg)
+* 1 x 20 mm M61A1 cannon, nose-mounted (750 rpg)
 
 The M61 Vulcan is a powerful gatling cannon. A quick and accurate burst can send targets into flames and the incredible rate of fire allows for some spray-and-pray, which is especially helpful considering how difficult it can be to get guns on target in this aircraft. But it has several drawbacks: first, the gun needs to spool up momentarily before it will fire, and second, the ammunition supply of 750 rounds will be depleted in no time if fired continuously. The former makes tap firing the gun to conserve ammunition a difficult affair but the latter means that holding down the trigger is not optimal either—certainly an awkward situation! New pilots can be afford to be somewhat more trigger-happy as they get used to the gun.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|BLU-1 incendiary}}
 {{main|AGM-12B Bullpup|AIM-9B Sidewinder|AIM-9E Sidewinder|AIM-9J Sidewinder|Hydra-70 M247}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x AIM-9E Sidewinder missiles
-- 4 x AIM-9B Sidewinder missiles
-- 4 x AIM-9J Sidewinder missiles
-- 14 x Hydra-70 M247 rockets
-- 2 x AGM-12B Bullpup missiles
-- 3 x 500 lb LDGP Mk 82 bombs (1,500 lb total)
-- 3 x 750 lb M117 cone 45 bombs (2,250 lb total)
-- 3 x 1,000 lb LDGP Mk 83 bombs (3,000 lb total)
-- 3 x BLU-1 incendiary bombs
+* Without load
+* 2 x AIM-9E Sidewinder missiles
+* 4 x AIM-9B Sidewinder missiles
+* 4 x AIM-9J Sidewinder missiles
+* 14 x Hydra-70 M247 rockets
+* 2 x AGM-12B Bullpup missiles
+* 3 x 500 lb LDGP Mk 82 bombs (1,500 lb total)
+* 3 x 750 lb M117 cone 45 bombs (2,250 lb total)
+* 3 x 1,000 lb LDGP Mk 83 bombs (3,000 lb total)
+* 3 x BLU-1 incendiary bombs
 
 As a fighter bomber variant of the F-104, the F-104G has vastly improved ordnance compared to the F-104A's measly pair of AIM-9Bs. For air-to-air combat, the best loadout consists of four AIM-9J Sidewinder missiles. The AIM-9Js have good range, target acquisition, and manoeuvrability. They can be fired from a fairly safe distance and score kills reliably, which is definitely helpful since the F-104G does not fare well in close-quarters dogfights.
 
@@ -207,23 +199,20 @@ For ground attack, the F-104G can carry bombs, rockets, and missiles. The larges
 |-
 | colspan="8" | Maximum permissible weight imbalance: 500 kg
 |-
-| colspan="9" | \* Ordnance on hardpoint 4 cannot be carried in conjunction with missiles on hardpoints 3/5
+| colspan="9" | * Ordnance on hardpoint 4 cannot be carried in conjunction with missiles on hardpoints 3/5
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The F-104G does one thing extremely well: speed. This is the vehicle's greatest advantage, and can be used to great effect if the pilot is careful about choosing which engagements to pursue. It is recommended to keep up a high air-speed at all times, which will allow the F-104G to swoop in and out of the combat zone while evading enemies. Stick to boom-and-zoom attacks and avoid charging directly into combat. Keep a safe distance from enemy fighters, as it is easy for enemies to make the F-104G overshoot or otherwise reverse it. If an enemy gets on the F-104G's tail, there is not much one can do besides accelerating away or in emergencies using the roll rate to dodge fire and enter rolling scissors. If a safe distance is maintained, it is even possible to outrun enemy air-to-air missiles.
 
-The F-104G struggles with manoeuvrability. With such small wings, it simply can't produce the lift necessary to throw itself around the sky, and therefore has a very poor turning circle. This means that any turning engagement is most likely futile, and also re-emphasises the utility of a boom and zoom playstyle. Note that the use of flaps can significantly improve turning performance, even at high speeds, but any situation requiring hard turning is in all likelihood unfavourable to the F-104G to begin with.
+The F-104G struggles with manoeuvrability. With such small wings, it simply can't produce the lift necessary to throw itself around the sky, and therefore has a very poor turning circle. This means that any turning engagement is most likely futile, and also re-emphasises the utility of a boom and zoom playstyle.  Note that the use of flaps can significantly improve turning performance, even at high speeds, but any situation requiring hard turning is in all likelihood unfavourable to the F-104G to begin with.
 
-This vehicle is equipped with [[AIM-9J]] air-to-air missiles, which are some of the best in the game. With the ability to mount four of them, this vehicle has the potential to do great damage to enemy targets. The F-104G can also equip a wide variety of bombs and rockets, which allows it to fulfill a ground-attack role. It is inferior to the [[F-104S]] in total bombload and rocket selection and is still oriented towards air superiority overall. In combined battles, the Bullpup AGMs are effective for destroying tanks. But a few factors dampen the F-104G's utility here: its poor handling and high speed give only a small window of time to manually guide the Bullpups, it does not perform well in hectic low-altitude dogfights. It can be used in a lineup with the [[ZTZ99-II]] and [[ZTZ99-III]] MBTs. Tankers who wish to bring in Bullpups for close air support when playing with the [[ZTZ96A]] will be better served by the [[F-100A (China)|F-100A]].
+This vehicle is equipped with [[AIM-9J]] air-to-air missiles, which are some of the best in the game.  With the ability to mount four of them, this vehicle has the potential to do great damage to enemy targets.  The F-104G can also equip a wide variety of bombs and rockets, which allows it to fulfill a ground-attack role. It is inferior to the [[F-104S]] in total bombload and rocket selection and is still oriented towards air superiority overall. In combined battles, the Bullpup AGMs are effective for destroying tanks. But a few factors dampen the F-104G's utility here: its poor handling and high speed give only a small window of time to manually guide the Bullpups, it does not perform well in hectic low-altitude dogfights. It can be used in a lineup with the [[ZTZ99-II]] and [[ZTZ99-III]] MBTs. Tankers who wish to bring in Bullpups for close air support when playing with the [[ZTZ96A]] will be better served by the [[F-100A (China)|F-100A]].
 
 === Radars ===
-
 <!--{{main|AN/APS-19}}-->
-
 The F-104G is equipped with a PS-03 search and tracking radar. The radar is mounted in the nose of the aircraft.
 
 {| class="wikitable" style="text-align:center"
@@ -248,25 +237,22 @@ The F-104G is equipped with a PS-03 search and tracking radar. The radar is moun
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
-- Good top speed
-- Great rate of climb
-- Powerful M61 cannon with high fire rate, damage and velocity
-- Significantly wider variety of payload options than early F-104s, including the potent AGM-12B Bullpup air-to-ground missiles
-- Good roll rate
-- Can carry a total of four effective AIM-9J missiles
+* Good top speed
+* Great rate of climb
+* Powerful M61 cannon with high fire rate, damage and velocity
+* Significantly wider variety of payload options than early F-104s, including the potent AGM-12B Bullpup air-to-ground missiles
+* Good roll rate
+* Can carry a total of four effective AIM-9J missiles
 
 '''Cons:'''
 
-- Very poor overall manoeuvrability and terrible low-speed manoeuvrability
-- Bleeds off airspeed quickly in sustained turns
-- Only 750 rounds of cannon ammo, trigger discipline is a must
-- Lack of countermeasures is a major handicap as the IR missiles the F-104G commonly faces are extremely difficult for it to dodge without flares
+* Very poor overall manoeuvrability and terrible low-speed manoeuvrability
+* Bleeds off airspeed quickly in sustained turns
+* Only 750 rounds of cannon ammo, trigger discipline is a must
+* Lack of countermeasures is a major handicap as the IR missiles the F-104G commonly faces are extremely difficult for it to dodge without flares
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The Lockheed F-104 Starfighter was a supersonic jet fighter known for its distinctive appearance, described as a "missile with a man in it". At the time of its introduction in 1958 with the US Air Force as an interceptor, the F-104 set multiple performance records and was the first production fighter capable of flying at twice the speed of sound. Flaws of the design included engine troubles, limited range, and poor handling characteristics that led to a poor safety record, earning it several morbid nicknames like "Widowmaker".
@@ -277,18 +263,16 @@ The Republic of China Air Force received its first Starfighters starting in 1960
 
 In operational service, the Starfighters were used to patrol the Straits and was the ROCAF's most capable interceptor for much of the Cold War era. ROCAF F-104Gs engaged PLAAF [[J-6A|J-6]]s in the airspace of Kinmen in January 1967 and reportedly scored two kills, though one F-104 did not return to base and may have been lost. Their service was otherwise uneventful. The early Starfighter models were retired from combat roles in the 1980s and the late models continued to serve up to 1997 with upgrades to their weaponry.
 
-A large number of Starfighters are preserved and on display in Taiwan today. Single-seat F-104Gs can be found at Ching Chuang Kang Air Base, Kangshan Chinese Air Force Museum, Pingtung Air Base, and other locations. A full list can be found [https://www.i-f-s.nl/preserved-f-104s/preserved-in-taiwan/ here].
+A large number of Starfighters are preserved and on display in Taiwan today. Single-seat F-104Gs can be found at  Ching Chuang Kang Air Base, Kangshan Chinese Air Force Museum, Pingtung Air Base, and other locations. A full list can be found [https://www.i-f-s.nl/preserved-f-104s/preserved-in-taiwan/ here].
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=f-104g_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f-104g_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-
 <div><ul>
 <li style="display: inline-block;"> [[File:ROCAF-TF-104G-1.jpg|thumbnail|x150px|Retired ROCAF TF-104G at Keelung.]] </li>
 <li style="display: inline-block;"> [[File:ROCAF-TF-104G-2.jpg|thumbnail|x150px|Retired ROCAF TF-104G at Keelung.]]
@@ -296,26 +280,23 @@ A large number of Starfighters are preserved and on display in Taiwan today. Sin
 </ul></div>
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other F-104Gs
 
-- [[F-104G]]
-- [[F-104G (Italy)]]
+* [[F-104G]]
+* [[F-104G (Italy)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer Lockheed}}
 {{China jet aircraft}}

@@ -5,14 +5,12 @@
 }}
 {{Specs-Card
 |code=jp_type_1_chi_he_5th_regiment
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |store=9264
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' ({{Annotation|一式中戦車（戦車第五連隊仕様）「チへ」|Ichi-Shiki Chū-Sensha (Sensha Dai Go Rentai Shiyō) [Chi-He]}}) is a premium rank {{Specs|rank}} Japanese medium tank {{Battle-rating}}. It was introduced in [[Update "Regia Marina"]].
 
 It is a regular Chi-He in service by the 1st Tank Division, 2nd Armored Brigade, 5th Armored Regiment of the Imperial Japanese Army. It comes with a unique camouflage and 3 distinct decals on all available camouflages for the tank.
@@ -20,15 +18,13 @@ It is a regular Chi-He in service by the 1st Tank Division, 2nd Armored Brigade,
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 There is nothing impressive here in terms of armour, the Chi-He features 50 mm, poorly angled, frontal armour. This is not the kind of plate that can take any punishment at the battle rating, it will only bounce poorly aimed shots. The five-man crew inside makes the tank very survivable, leaving some room for mistakes. Side armour is vulnerable to heavy machine gun and autocannon fire, so beware flanking fast tanks.
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (Gun mantlet, Machine gun ports)
+* Rolled homogeneous armour
+* Cast homogeneous armour (Gun mantlet, Machine gun ports)
 
 {| class="wikitable"
 |-
@@ -44,13 +40,12 @@ There is nothing impressive here in terms of armour, the Chi-He features 50 mm, 
 
 '''Notes:'''
 
-- Suspension wheels both 15 mm thick
-- Tracks are 20 mm thick.
-- Front of turret has bolted on 25 mm armour to total up to 50 mm thick as the rest of the front.
+* Suspension wheels both 15 mm thick
+* Tracks are 20 mm thick.
+* Front of turret has bolted on 25 mm armour to total up to 50 mm thick as the rest of the front.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=372|rbMinHp=212}}
@@ -64,9 +59,7 @@ This is one of the main feature of the Chi-He, it enables it to do anything a co
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|Type 1 (47 mm)}}
 
 Comparatively to other light/medium tanks at this battle-rating, the 47 mm Type 1 gun is quite surprising with 77 mm of penetration at point-blank range and has a good reload speed. Plus, this fires APHE shells, which do great post-penetration damage. Comparatively, the [[20-K (45 mm)]] gun on Russian BR 1.0-2.7 tanks has only 62 mm of penetration in similar conditions. A top-mounted MG is really useful when dealing with unarmoured SPG and SPAA one might encounter at the battle-rating.
@@ -147,14 +140,12 @@ One thing to keep in mind compared to [[Chi-Ha Kai]] is that it still retains th
 [[File:Ammoracks_Chi-He.png|right|thumb|x250px|[[Ammo racks]] of the Chi-He.]]
 '''Notes''':
 
-- Turret empty: 73&nbsp;''(+47)'' shells.
+* Turret empty: 73&nbsp;''(+47)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|Type 97 (7.7 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -170,9 +161,7 @@ One thing to keep in mind compared to [[Chi-Ha Kai]] is that it still retains th
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 As the successor of the Chi-Ha, the Chi-He has a redesigned hull with thicker armour, a more powerful engine and an up-armoured turret from the Chi-Ha Kai, so the front is overall at 50 mm effective. This will result in a very similar playstyle as the Chi-Ha Kai with the added benefits of being an upgrade.
 
 Unlike the [[Chi-Ha Kai|Type 97 Chi-Ha Kai]], the Type 1 Chi-He has some more armour and a stronger engine to rely on and it is able to brawl on its own with the fast fire rate. But as previously mentioned on [[Chi-He#Main armament|Main armament]], the Chi-He retains the same hand-cranked turret with additional armour, slowing down the already mediocre turning time by a slight amount.
@@ -183,38 +172,35 @@ The best practice for the Chi-He (and other WWII-era Japanese tanks) is to alway
 
 '''Enemies worth noting:'''
 
-- B1 bis / ter: the B1 can easily destroy the Chi-Ha when using both of its guns, but when angling only the 47 mm gun is available, meaning that the Chi-Ha can take some more hits. It is very hard to destroy the Char B1 from a distance, so get as close as possible with the ideal range being no more than 300 m. Aim at their flat hull side, turret side, hull cannon mount or the driving compartment (the near-vertical frontal armour right below the turret). Upon penetrating, the Chi-Ha's 47 mm APHE can knock out several crews, and your quick reload allows you to finish the rest off in time. However if the B1 has folded armour plates on their hull sides then it is a B1 ter, avoid shooting at its sides.
-- [[M4A3 (105)]]: This low-rank Sherman posts a huge threat to every of its opponents due to its superior armour and destructive firepower. Its armour is overall quite tough to penetrate with your small 47 mm gun, but it can be solved by careful aiming. If the M4 is within 200 m, shoot at the vertical part of its gun mantlet or its side if exposed. One penetration might not kill all the crew, however two are generally enough. If it's up close and hull down, try shooting at its gun barrel to disarm it, but one shot is not guaranteed to destroy the barrel. When the M4 is further than 400 m away, all of your shells will perform poorly at penetrating its armour, so disengage or wait until it gets closer. Remember to not get hit by it, its HEAT is able to knock the Chi-He out with ease.
+* B1 bis / ter: the B1 can easily destroy the Chi-Ha when using both of its guns, but when angling only the 47 mm gun is available, meaning that the Chi-Ha can take some more hits. It is very hard to destroy the Char B1 from a distance, so get as close as possible with the ideal range being no more than 300 m. Aim at their flat hull side, turret side, hull cannon mount or the driving compartment (the near-vertical frontal armour right below the turret). Upon penetrating, the Chi-Ha's 47 mm APHE can knock out several crews, and your quick reload allows you to finish the rest off in time. However if the B1 has folded armour plates on their hull sides then it is a B1 ter, avoid shooting at its sides.
+* [[M4A3 (105)]]: This low-rank Sherman posts a huge threat to every of its opponents due to its superior armour and destructive firepower. Its armour is overall quite tough to penetrate with your small 47 mm gun, but it can be solved by careful aiming. If the M4 is within 200 m, shoot at the vertical part of its gun mantlet or its side if exposed. One penetration might not kill all the crew, however two are generally enough. If it's up close and hull down, try shooting at its gun barrel to disarm it, but one shot is not guaranteed to destroy the barrel. When the M4 is further than 400 m away, all of your shells will perform poorly at penetrating its armour, so disengage or wait until it gets closer. Remember to not get hit by it, its HEAT is able to knock the Chi-He out with ease.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- 47 mm cannon can do some decent damage
-- Small profile
-- Gunner supported stabilization, can take accurate shots at low speeds
-- Top-mounted MG
-- Fast reverse speed (2 reverse gears)
-- Fast in forward motion
-- Frontal transmission
-- Awesome gun depression of -15°
-- Fast reloading rate
+* 47 mm cannon can do some decent damage
+* Small profile
+* Gunner supported stabilization, can take accurate shots at low speeds
+* Top-mounted MG
+* Fast reverse speed (2 reverse gears)
+* Fast in forward motion
+* Frontal transmission
+* Awesome gun depression of -15°
+* Fast reloading rate
 
 '''Cons:'''
 
-- Thin side armour means angling front armour could expose weak armour
-- 47 mm is not accurate in long distance fights
-- Packed 5-men crew can lead to an easy knock out if penetrated
-- 50 mm front armour, poorly angled
-- Big ammo racks in the turret (carry only half-ammo load)
-- Long and narrow hull: hard to turn on the spot
+* Thin side armour means angling front armour could expose weak armour
+* 47 mm is not accurate in long distance fights
+* Packed 5-men crew can lead to an easy knock out if penetrated
+* 50 mm front armour, poorly angled
+* Big ammo racks in the turret (carry only half-ammo load)
+* Long and narrow hull: hard to turn on the spot
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 {{main|Chi-He (Family)|l1=History of the Type 1 Chi-He}}
 === Development ===
 The Imperial Japanese Army's main tank, the [[Chi-Ha|Type 97 Chi-Ha]], was becoming rather outdated by the turn of the decade in 1940. The 30 mm front plate armour was vulnerable to standard anti-tank weaponry and the riveted design post a hazard to the tank crew by spalling. In 1941, work began on modernizing the design up to new industrial standards.<ref name="ZalogaJapaneseTank">Zaloga Steven. ''Japanese Tanks 1939-1945'' Great Britain: Osprey Publishing Ltd., 2007</ref>
@@ -227,38 +213,32 @@ During the tank's preparation for mass-production, a request by the commander of
 Despite its relatively early production life over late-war Japanese tanks and its improved characteristics, the Type 1 Chi-He would see its combat life held in reserves in the Japanese home islands. They would never see use in the battlefield before Japan surrendered in August 1945.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_1_chi_he_5th_regiment Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_1_chi_he_5th_regiment Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|4_cJ1CpEatw|'''Best gun depression'''  discusses the {{PAGENAME}} at 1:33 - ''War Thunder Official Channel''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[Chi-He (Family)|Related Development]]
-
-- [[Chi-Ha (Family)]] - <small>(Predecessor)</small>
-  \*\* [[Chi-Ha Kai]]
-- [[Ho-I]] - <small>(Gun tank variant)</small>
-- [[Ka-Chi]] - <small>(Amphibious variant)</small>
+* [[Chi-Ha (Family)]] - <small>(Predecessor)</small>
+** [[Chi-Ha Kai]]
+* [[Ho-I]] - <small>(Gun tank variant)</small>
+* [[Ka-Chi]] - <small>(Amphibious variant)</small>
 
 ;Other vehicles of similar configuration and role
-
-- [[Panzer III (Family)]] - <small>(Early models)</small>
-- [[LT-38 (Family)]]
-- [[M15/42]]
-- [[Lago I]]
+* [[Panzer III (Family)]] - <small>(Early models)</small>
+* [[LT-38 (Family)]]
+* [[M15/42]]
+* [[Lago I]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->

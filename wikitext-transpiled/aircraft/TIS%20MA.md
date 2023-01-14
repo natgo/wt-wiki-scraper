@@ -5,9 +5,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet strike aircraft {{Battle-rating}}. It was introduced during [[Update 1.95 "Northern Wind"]] in the [[wt:en/news/6521-special-operation-f-r-o-s-t-en|Operation F.R.O.S.T.]] event.
 
 One of the last projects of the Polikarpov design bureau, the TIS MA is a unique and deadly aircraft. Its general configuration is similar to the famous [[Pe-2 (Family) |Pe-2]]/[[Pe-3 (Family)|3]] "Peshka", having two inline engines slung under the wings, a gunner in the back of the cockpit, and twin vertical stabilizers mounted at the ends of the horizontal stabilizers. However the TIS MA is a different animal compared to the Pe-3 heavy fighter. While the Pe-3 was a hastily adapted variant of the Pe-2 dive bomber, the TIS MA was a purpose designed heavy fighter. It is smaller and slimmer, leading to a less bulbous and more insectoid appearance. More importantly, its flight characteristics and firepower are much improved; pilots who struggled with the Peshkas's poor manoeuvrability and mediocre armament will be pleasantly surprised by the TIS MA's decent handling and burning hatred for any enemies foolish enough to find themselves in front of it.
@@ -15,7 +13,6 @@ One of the last projects of the Polikarpov design bureau, the TIS MA is a unique
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!--''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''-->
 
 The TIS MA's speed is not very impressive for its rank, but it is still faster than the [[Pe-3bis]] and is quite speedy at low altitudes, where its twin AM-38F engines (the same type used on the IL-2s) have impressive power output. The engines are essentially immune to overheating when undamaged and WEP can be sustained indefinitely, which aids in recovering speed after diving and hard manoeuvres. The TIS MA has a good roll and turn rate for a twin engine fighter. This is helpful when attacking ground targets since the former makes it easier to line up strafing or bombing runs and the latter allows the pilot to recover and not strike the ground. Getting into extended dogfights with single engined fighters is not advisable, but with good energy management, use of combat flaps, and some teammate support, it is still possible to get a firing solution.
@@ -49,7 +46,7 @@ Note that like the IL-2s it shares engines with, the TIS MA only has good perfor
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -80,10 +77,9 @@ Note that like the IL-2s it shares engines with, the TIS MA only has good perfor
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 8.5 mm steel pilot seat
+* 8.5 mm steel pilot seat
 
 Fuel tanks are self sealing and located in the wing roots and middle fuselage.
 
@@ -96,16 +92,14 @@ The TIS MA is a fragile plane. The pilot's seat is the only armour available and
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|NS-45 (45 mm)|NS-37 (37 mm)|ShVAK (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 2 x 37 mm NS-37 cannons, wing-mounted (75 rpg = 150 total) + 2 x 20 mm ShVAK cannons, nose-mounted (150 rpg = 300 total)
-  ** 2 x 45 mm NS-45 cannons, wing-mounted (50 rpg = 100 total) + 2 x 20 mm ShVAK cannons, nose-mounted (150 rpg = 300 total)
+* A choice between two presets:
+** 2 x 37 mm NS-37 cannons, wing-mounted (75 rpg = 150 total) + 2 x 20 mm ShVAK cannons, nose-mounted (150 rpg = 300 total)
+** 2 x 45 mm NS-45 cannons, wing-mounted (50 rpg = 100 total) + 2 x 20 mm ShVAK cannons, nose-mounted (150 rpg = 300 total)
 
 The twin ShVAK guns are mounted right next to each other in the nose, and their tight clustering ensures that their accuracy is high and convergence is not an issue. While the ShVAK is a fairly weak weapon by itself, having two of them compensates for its faults. They are also unsynchronized since there is no central propeller to fire through, leading to a slightly higher burst mass than on the [[La-5]] series. The best belts for the ShVAK are Default or Armoured Targets, though some players use Tracers. Avoid belts containing HE-I rounds, as those do little damage and often spark. Do not forget about the ShVAKs. While they are definitely not as powerful as the TIS MA's other cannons, their extreme accuracy means that in tail chase or head-on engagements where the convergence and bloom on the high calibre guns can be an issue, the ShVAKs can unload a laser beam of pain.
 
@@ -119,37 +113,32 @@ Another notable feature is the TIS MA's large ammunition capacity. The NS-37 can
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|FAB-100sv (100 kg)|FAB-250sv (250 kg)|FAB-500sv (500 kg)|RBS-132|RS-132}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 100 kg FAB-100sv bombs (200 kg total)
-- 2 x 250 kg FAB-250sv bombs (500 kg total)
-- 2 x 500 kg FAB-500sv bombs (1,000 kg total)
-- 8 x RS-132 rockets
-- 8 x RBS-132 rockets
+* Without load
+* 2 x 100 kg FAB-100sv bombs (200 kg total)
+* 2 x 250 kg FAB-250sv bombs (500 kg total)
+* 2 x 500 kg FAB-500sv bombs (1,000 kg total)
+* 8 x RS-132 rockets
+* 8 x RBS-132 rockets
 
 The TIS MA's firepower is not limited to its gun armament. Its bomb and rocket armaments are actually better than the IL-2s and Pe-3s; unlike the former, it has access to the powerful FAB-500 bombs, and unlike the latter it can carry 2 more RS/RBS-132 rockets. The bombs are mounted externally under the center wing and drop individually, while the rockets are mounted outboard of the engines and can be tricky to aim as a result. External ordnance will affect the flight performance noticeably, but as a heavy twin engine fighter, it will not become a complete brick.
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|Berezin UB (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 1 x 12.7 mm Berezin UB machine gun, dorsal turret (200 rpg)
+* 1 x 12.7 mm Berezin UB machine gun, dorsal turret (200 rpg)
 
 The rear gunner has useful armament and should not be disregarded. Enemies tailing the TIS MA may be surprised with an onslaught of heavy machine gun fire. The Berezin UB is a good weapon, and when equipped with the Universal belt it can ignite enemies quite nicely. Alternatively the Armoured Targets belt includes cermet cored rounds that can knock out engines and pilots more easily. Both are good options.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 A versatile plane, the TIS MA lends itself to several roles, mainly limited by its bad high altitude performance and the fact that it's still a twin-engined, heavy aircraft. Throwing oneself incautiously at lightweight planes with superior turning or climbing capabilities will often not end well.
@@ -196,30 +185,28 @@ Keep an eye on the sky. If there are enemy attackers in the area, consider going
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Powerful armament layouts with decent ammo capacities
-- Both the 37 mm cannons and 45 mm cannons have high muzzle velocity are quite accurate in short bursts
-- Reasonable manoeuvrability and acceleration for a twin-engined fighter
-- Decent speed, but lower than most fighters it will encounter
-- Tightly clustered armament
-- Can mount bombs and rockets for ground-pounding, including a pair of powerful 500 kg bombs
-- Very good engine cooling, will almost never overheat
-- Premium rewards
+* Powerful armament layouts with decent ammo capacities
+* Both the 37 mm cannons and 45 mm cannons have high muzzle velocity are quite accurate in short bursts
+* Reasonable manoeuvrability and acceleration for a twin-engined fighter
+* Decent speed, but lower than most fighters it will encounter
+* Tightly clustered armament
+* Can mount bombs and rockets for ground-pounding, including a pair of powerful 500 kg bombs
+* Very good engine cooling, will almost never overheat
+* Premium rewards
 
 '''Cons:'''
 
-- Slower than contemporary aircraft
-- Lack of bulletproof glass makes the pilot prone to snipes, also vulnerable to head-on attacks
-- Extremely prone to fires
-- Large target, easy for enemy fighters and SPAA to hit
-- Bad high altitude performance
+* Slower than contemporary aircraft
+* Lack of bulletproof glass makes the pilot prone to snipes, also vulnerable to head-on attacks
+* Extremely prone to fires
+* Large target, easy for enemy fighters and SPAA to hit
+* Bad high altitude performance
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The TIS A (and the improved MA) were designed to a 1938 specification for a heavy fighter - but work did not begin until 1940 due to resources being devoted to the I-180 and SPB projects.
@@ -233,26 +220,22 @@ This configuration was renamed the TIS-MA.
 Flight testing of the TIS-MA from June-September 1944 found it performed as expected with the new engines - being generally disappointing at altitude. Calculations showed much better performance if the desired AM-39s could be fitted. However fate intervened - Polikarpov died on 30 July of stomach cancer, and when the TIS-MA crashed on 15 September it spelled the end of the program - his design bureau was being shut down and none of the others could or would take it on.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=tis_ma Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=tis_ma Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|VHJN6ZWOmnY|'''The bane of tanks''' discusses the {{PAGENAME}} at 2:12 - ''War Thunder Official Channel''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[Pe-3 (Family)]]
+* [[Pe-3 (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->

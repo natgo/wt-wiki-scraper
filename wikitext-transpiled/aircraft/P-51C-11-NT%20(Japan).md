@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=p-51c-11-nt_japan
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Japanese fighter {{Battle-rating}}. It was introduced in [[Update "Red Skies"]].
 
 The plane was nicknamed "Evalina" after the girlfriend of its pilot 1st Lt. Oliver E. Strawbridge.
@@ -21,9 +19,7 @@ This plane got captured by the Japanese after an emergency landing on the 16th o
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 Unlike its Rank II predecessors, the [[P-51]] and [[A-36]], this plane performs well not only at low altitudes but also above 3,000 metres because of the new Merlin engine and two-stage supercharger instead of one-stage in the Allison powered models. Level speed is exceptionally good at all altitudes compared to the opposition at similar battle ratings. In Realistic Battles, it can reach 610 km/h at sea level and 705 km/h at 7,300 metres of altitude. Acceleration is also above average in level flight. The climb rate is good, especially when compared to the other American planes, and is noticeably better than the P-51D-5 and P-51D-20. At low altitude, it is slightly above 20 m/s and the plane can reach 6,000 m alt in about 7 minutes. Diving performance is great as usual, its elevator and other control surfaces do not lock up even at 700-800 km/h IAS and can pull 9G at that speed. Medium and high-speed manoeuvrability is good enough to keep up with the Bf 109 G and similar fighters for a while, and the sustained turn rate has been improved over previous Mustangs. Horizontal energy retention is very good, vertical energy retention is good, but manoeuvring energy retention is somewhat below average (but only in RB because of how the instructor controls the plane). Low speed manoeuvrability is still mediocre. The main issue is its rudder, which can lock up above 300 km/h IAS, albeit not to the extent of the P-51D models since the "razorback" fuselage provides better directional stability. The roll rate is not exceptional, veering into poor territory at low speeds.
 
 If using Manual Engine Controls, it is worth mentioning that the Meredith effect is modelled on Mustangs. The cooling system is designed to generate a slight thrust that partially compensates for the aerodynamic drag caused by the radiators. This means that opening up the radiators even to high percentages only causes small effects on energy retention and top speed while keeping the engine nice and cool on WEP settings.
@@ -55,7 +51,7 @@ When flying with full realistic controls, the plane requires some trimming, posi
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -86,16 +82,15 @@ When flying with full realistic controls, the plane requires some trimming, posi
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
 The survivability is similar to most other prop fighters. The engine is located in the nose, and the fuel tanks are located behind the pilot's seat and in the wing roots. There is significant armour protection for the pilot, but the pilot is still vulnerable from the top, bottom, and sides. The fuel tanks are also vulnerable, as is the cooling system.
 
-- 38 mm Bulletproof glass - Windshield
-- 11.11 mm Steel - Behind pilot's seat
-- 6.35 mm Steel - Behind engine, in front of oil cooling system and pilot
-- 6.35 mm Steel - In front of upper engine
-- Self-sealing fuel tanks
+* 38 mm Bulletproof glass - Windshield
+* 11.11 mm Steel - Behind pilot's seat
+* 6.35 mm Steel - Behind engine, in front of oil cooling system and pilot
+* 6.35 mm Steel - In front of upper engine
+* Self-sealing fuel tanks
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -104,21 +99,18 @@ The survivability is similar to most other prop fighters. The engine is located 
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 12.7 mm M2 Browning machine guns, wing-mounted (280 rpg outer + 350 rpg inner = 1,260 total)
+* 4 x 12.7 mm M2 Browning machine guns, wing-mounted (280 rpg outer + 350 rpg inner = 1,260 total)
 
 While the Evalina only has 4 x 12.7 mm MGs, she does get late-war belts for ammo choice, giving her relatively more consistency and firepower over the American [[P-51C-10]] with early war belts.
 
 Since the guns are mounted in the wings, gun convergence should be considered. Anywhere between 400-600 metres should work well, but note that more distant convergence settings will make close-range shooting more difficult, especially considering the low volume of fire.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The P-51C-11 has outstanding performance compared to other planes that can meet in the same bracket (Enduring Confrontation 3, BR 3.7-4.7), level speed is higher at all altitudes than anything that it can face, so it can easily escape from anything when it finds itself in a trouble, climb rate is also very good and allows it to quickly get to the 3,000-5,000 m alt. This plane like all other Mustangs does not overheat when the radiator is set to 90-100%, it also does not slow down the plane, so it can always cruise with enabled WEP which is not limited, always engage other planes with humongous speed advantage and make use of very good mid and high-speed manoeuvrability. Sustained climb rate is worse than that of the [[Bf 109 F-4]] or [[Bf 109 G-2|G-2]] by 2-4 m/s, escaping from them by climbing away should be avoided, but still allows the plane to get pretty quick to 3,000-5,000 m alt, also the zoom climb is very good.
@@ -147,31 +139,28 @@ Because of these points, the preferable tactics for this plane should be Boom an
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Outstanding Boom & Zoom capability
-- Great performance at altitude
-- Very fast at all altitudes, especially in a shallow dive
-- Very agile at high speeds due to laminar flow wings
-- Decent cockpit visibility
-- Large fuel capacity (1 hour 45 minutes maximum flight time)
-- Fantastic top speed and acceleration
-- Very good sustained climb rate
+* Outstanding Boom & Zoom capability
+* Great performance at altitude
+* Very fast at all altitudes, especially in a shallow dive
+* Very agile at high speeds due to laminar flow wings
+* Decent cockpit visibility
+* Large fuel capacity (1 hour 45 minutes maximum flight time)
+* Fantastic top speed and acceleration
+* Very good sustained climb rate
 
 '''Cons:'''
 
-- High stall speed and mediocre low speed manoeuvrability
-- No suspended ordnance
-- Not very durable
-- Roll rate, while not terrible, is not sufficient enough to shake enemy planes off or force overshoots
+* High stall speed and mediocre low speed manoeuvrability
+* No suspended ordnance
+* Not very durable
+* Roll rate, while not terrible, is not sufficient enough to shake enemy planes off or force overshoots
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 {{main|P-51 (Family)|l1=History of the P-51 "Mustang"}}
 ===Introduction===
 Starting early 1943, the Japanese had a new foe to fight in the skies, the P-51 Mustang. While Japan saw early successes, it still would prove that the P-51 is a very dangerous foe. The threat would become worse with the introduction of the Merlin-engined P-51B/C and P-51D.
@@ -239,31 +228,26 @@ One day in 1965 Maj.Gen. Kuroe went fishing off the Echizen coast, Fukui Prefect
 <!-- Main Source: [http://www.ghostgrey.gaetanmarie.com/articles/2010/Japanese%20Mustang/Evalina%20%20-%20The%20Japanese%20Mustang.htm] -->
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=p-51c-11-nt_japan Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=p-51c-11-nt_japan Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other Japanese-captured US planes
-
-- [[F4U-1A (Japan)]]
-- [[B-17E (Japan)]]
+* [[F4U-1A (Japan)]]
+* [[B-17E (Japan)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/497252-p-51-c10/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/497252-p-51-c10/ Official data sheet - more details about the performance]
 
 {{AirManufacturer NAA}}
 {{Japan fighters}}

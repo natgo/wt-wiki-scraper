@@ -9,17 +9,13 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 [[File:Hurricane Mk IIB-Trop firing.jpg|300px|thumbnail|left|Hawker Hurricane IIB in action in War Thunder]]
 The Hawker Hurricane IIB/Trop is very similar to the [[Hurricane Mk I/L]] in general flight characteristics, although the Hurricane Mk I/L performs a little better at everything except firepower and suspended armament. The Mk IIB/Trop is a little slower than the Mk I/L, and is fairly slow compared to the other fighters at the same BR. If you do get into a fight, use the Mk IIB's good manoeuvrability, and although it can take a fair amount of punishment, it is advisable not to just fly in in straight lines as you will present an easy target. If the aircraft becomes damaged try to hug the ground, using the terrain to your advantage to get back to your base to repair. However, if your engine is damaged (red or black), then do the exact opposite and gain as much altitude as you can, until your engine gives up and then work towards gliding to your base.
 
@@ -54,7 +50,7 @@ While it is agile against many other planes at its rank, it can easily be outcla
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -85,12 +81,11 @@ While it is agile against many other planes at its rank, it can easily be outcla
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 6.35 mm Steel - Behind the engine
-- 38 mm Bulletproof glass - Windscreen
-- 12.7 mm Steel - Pilot's seat
+* 6.35 mm Steel - Behind the engine
+* 38 mm Bulletproof glass - Windscreen
+* 12.7 mm Steel - Pilot's seat
 
 The Hurricane's advantages don't come without its disadvantages, the biggest concern is its rather fragile engine and airframe. Its soft skin and light protection mean the Mark IIB can't take too much damage before it takes on critical damage. Once the aircraft is damaged, the plane often loses controllability, making survival far harder, as manoeuvrability is key for the British aircraft.
 
@@ -101,36 +96,30 @@ The Hurricane's advantages don't come without its disadvantages, the biggest con
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Browning (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 12 x 7.7 mm Browning machine guns, wing-mounted (350 rpg = 4,200 total)
+* 12 x 7.7 mm Browning machine guns, wing-mounted (350 rpg = 4,200 total)
 
 With its twelve Browning machine guns, the Hurricane IIB is well suited for the fighter role as it packs a tremendous punch at this rank. The sheer number of guns compensates adequately for the lack of higher calibre armament. The number of guns comes at a price though: with 350 rounds per gun, ammunition can be expended rather quickly in RB and SB. Trigger discipline is key here and will benefit both ammunition conservation and fire accuracy. Nonetheless, the Hurricane is a very stable gun platform.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|G.P. Mk.IV (250 lb)|RP-3}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 250 lb G.P. Mk.IV bombs (500 lb total)
-- 6 x RP-3 rockets
+* Without load
+* 2 x 250 lb G.P. Mk.IV bombs (500 lb total)
+* 6 x RP-3 rockets
 
 The aircraft can fulfil two roles once its suspended armament is unlocked and purchased. It either can take the role of a fighter or the role of a Hurri-bomber (nickname given to fighter-bomber variants). The fact that it can be equipped with either bombs or rockets allows the plane to play the role of ground attack or attack interceptor without missing a beat. When attacking ground units, the two GP Mk.IV 250lb bombs can quickly destroy targets such as tanks, pillboxes and certain ships. When it is equipped with six RP-3 rockets, it can become a very deadly plane against ground targets, but also bombers, heavy attackers and - with a bit of luck - other fighters.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The twelve machine guns can be very deadly against planes at this rank, spewing what becomes a massive wall of lead toward enemy pilots, as long as the pilot gets into a fairly close range of their target (100 - 250 m is optimal) and firing at gun convergence. However, the twelve guns can burn through ammo fairly quickly, which can lead to constant reload in Arcade Battles and ammunition depletion in Realistic and Simulator Battles if the pilot doesn't manage his fire.
 [[File:Hurricane Mk IIb being re-armed.jpg|thumbnail|left|A No 402 Squadron RCAF Hurricane Mk IIb 'Hurribomber' being re-armed at Manston, 6 November 1941.]]
 
@@ -146,18 +135,17 @@ In the ground-attack fighter-bomber role, the aircraft packs a punch with both i
 As a fighter, the Hurricane Mk II stands its ground, though it is somewhat limited by its armament. It is not as nimble as its other relatives or the Spitfires. The latter has a turn-time of 15 seconds when fully upgraded, whereas the Mark IIB only manages a turn time of 23.7 seconds. This is something to keep in mind when fighting more manoeuvrable adversaries. The above mentioned limited amount of ammunition should also be considered when engaging as a fighter. The 350 rounds per gun can be spent in quick succession, so pay attention to the usage. Furthermore, the firepower of the guns is highest when engaging targets only in the gun convergence zone. Combining the two means that holding fire until finding a target at a suitable lead angle within the gun convergence zone results in a more accurate, more deadly and more conservative fire. Not combining the two means unnecessarily spending limited ammunition, losing accuracy and lacking lethal power.
 
 ====Specific enemies worth noting====
-
 <!--Some concerning vehicles to worry about if playing this plane. (i.e. Japanese fighters will out turn you)-->
 
 '''Fighters'''
 
-- [[Bf 109 (Family)|Bf 109s]] & [[Fw 190 (Family)|Fw 190s]] - Although the latter are not commonly encountered at its BR, both the 109 and the 190 pose a large threat due to the tremendous firepower and boom-and-zoom characteristics. Whilst German pilots that allow themselves to lured into turn-fighting can be quickly destroyed, the boom-and-zoom tactics are harder to counter. The Hurricane packs a punch but is easily defeated by cannon power in a head-on engagement. It's more advisable to evade a head-on attack and try to engage after a quick turn. The Mark IIB pilot should avoid boom and zoom attacks and try to lure the opponent into a turn to follow or a complete turn fight in order to get a gun solution on the target. The Hurricane IIB isn't fast enough nor has the high-altitude performance its German opponents have, so don't think about winning such a race in the long run.
+* [[Bf 109 (Family)|Bf 109s]] & [[Fw 190 (Family)|Fw 190s]] - Although the latter are not commonly encountered at its BR, both the 109 and the 190 pose a large threat due to the tremendous firepower and boom-and-zoom characteristics. Whilst German pilots that allow themselves to lured into turn-fighting can be quickly destroyed, the boom-and-zoom tactics are harder to counter. The Hurricane packs a punch but is easily defeated by cannon power in a head-on engagement. It's more advisable to evade a head-on attack and try to engage after a quick turn. The Mark IIB pilot should avoid boom and zoom attacks and try to lure the opponent into a turn to follow or a complete turn fight in order to get a gun solution on the target. The Hurricane IIB isn't fast enough nor has the high-altitude performance its German opponents have, so don't think about winning such a race in the long run.
 
-- [[Bf 110 C-7|Bf 110]] - Again, the most dangerous scenarios include head-on and boom-and-zoom attacks. The Bf 110 packs one of the biggest punches at its tier, so be prepared to aggressively evade its guns. It is rather slow in turning and is a big target though, so if you do get a lead angle within convergence range, the Bf 110 can be taken out quite easily.
+* [[Bf 110 C-7|Bf 110]] - Again, the most dangerous scenarios include head-on and boom-and-zoom attacks. The Bf 110 packs one of the biggest punches at its tier, so be prepared to aggressively evade its guns. It is rather slow in turning and is a big target though, so if you do get a lead angle within convergence range, the Bf 110 can be taken out quite easily.
 
-- [[I-153P|Chaikas]] & [[I-16 type 28|Ishaks]] - In general, the Russians have the advantage here. Being more manoeuvrable and having heavier firepower available, the I-153 and I-16 can be a tough nut to crack. Avoid turn fights with these aircraft. You have the advantage of speed, but only marginally so. Avoid getting too close, unless you are leading the target. Do not engage multiple Russian bogeys when lacking support by other teammates.
+* [[I-153P|Chaikas]] & [[I-16 type 28|Ishaks]] - In general, the Russians have the advantage here. Being more manoeuvrable and having heavier firepower available, the I-153 and I-16 can be a tough nut to crack. Avoid turn fights with these aircraft. You have the advantage of speed, but only marginally so. Avoid getting too close, unless you are leading the target. Do not engage multiple Russian bogeys when lacking support by other teammates.
 
-- [[:Category:USA aircraft|American fighters]] - US fighters at this tier turn faster than the Hurricane Mk IIB. These opponents also often surpass your aircraft's capabilities in terms of maximum speed and firepower. Turnfighting is key here, but avoid prolonged dogfights with your nimbler American opponents, as they will outturn you in the end.
+* [[:Category:USA aircraft|American fighters]] - US fighters at this tier turn faster than the Hurricane Mk IIB. These opponents also often surpass your aircraft's capabilities in terms of maximum speed and firepower. Turnfighting is key here, but avoid prolonged dogfights with your nimbler American opponents, as they will outturn you in the end.
 
 '''Bombers'''
 
@@ -189,34 +177,31 @@ Radiator: if set to 30-40% you can climb without burning overheating your engine
 Supercharger: this should be switched at 3.5km (11,482 feet) altitude for optimal performance.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Multirole: fighter and fighter-bomber roles can be fulfilled
-- Quite manoeuvrable: suitable for turn fighting
-- Decent vertical energy retention: suitable for limited Boom & Zoom tactics
-- "Heavy" armament for an early WW2 fighter: 12 x .303 Browning machine guns
-- Great ammo capacity
-- Excellent over-the-nose visibility ensures easy tracking and leading in cockpit view
-- Is a stable gun platform with very smooth handling with simulator controls
-- Great in Ground Battles; rockets can easily penetrate lower-tier tanks, and is manoeuvrable enough to evade other fighters and SPAAs
+* Multirole: fighter and fighter-bomber roles can be fulfilled
+* Quite manoeuvrable: suitable for turn fighting
+* Decent vertical energy retention: suitable for limited Boom & Zoom tactics
+* "Heavy" armament for an early WW2 fighter: 12 x .303 Browning machine guns
+* Great ammo capacity
+* Excellent over-the-nose visibility ensures easy tracking and leading in cockpit view
+* Is a stable gun platform with very smooth handling with simulator controls
+* Great in Ground Battles; rockets can easily penetrate lower-tier tanks, and is manoeuvrable enough to evade other fighters and SPAAs
 
 '''Cons:'''
 
-- Fragile: engine and frame (fabric coated tube frame) are prone to damage
-- High rate of fire: high ammo consumption if not cautious
-- Not as manoeuvrable or speedy as its siblings and the Spitfire
-- Additional armament is limited: reload time is slow in arcade battles
-- Convergence is key: additional guns are mounted further out on the wing, resulting in a high convergence and beyond or below the target - the distance may result in a lot of missed shots.
-- Due to the Hurricane having a carburettor, inverted manoeuvres will cause the engine to fail due to fuel starvation.
-- Ammo count may seem plentiful, but there are 12 guns that fire at the same time, so you technically only have 350 rounds; trigger discipline will be needed
+* Fragile: engine and frame (fabric coated tube frame) are prone to damage
+* High rate of fire: high ammo consumption if not cautious
+* Not as manoeuvrable or speedy as its siblings and the Spitfire
+* Additional armament is limited: reload time is slow in arcade battles
+* Convergence is key: additional guns are mounted further out on the wing, resulting in a high convergence and beyond or below the target - the distance may result in a lot of missed shots.
+* Due to the Hurricane having a carburettor, inverted manoeuvres will cause the engine to fail due to fuel starvation.
+* Ammo count may seem plentiful, but there are 12 guns that fire at the same time, so you technically only have 350 rounds; trigger discipline will be needed
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 [[File:Historical_Hurricane_ii_bomber.jpg|thumbnail|Hawker Hurricane IIB of No.402 Squadron, RCAF]]
 The plain one. The dumpy one. The unsexy sister of the glamorous Spitfire, its partner in the Battle of Britain. The plane that took, according to some sources, roughly 60 per cent of the accounted kills during that air campaign in World War II. The plane in which the only Victoria Cross for Fighter Command was won by Ft Lt. James Nicolson. The plane in which a foreigner, the Czech Sgt. Josef František gained the third most victories of all pilots during the Battle of Britain: he gained 17 victories. The history of the Hurricane is not only interesting as it tells us something about the plane, but it is also equally important as it tells us about the desperate struggle in which it took part.
 
@@ -245,12 +230,11 @@ The Hurricane Mk II would see further developments in the form of the Mk IIC, ar
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=hurricanemkii Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=hurricanemkii Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|FO43ggS6wSs|'''Community Choice, Hurricane Mk IIB Trop. From anger to Relaxation''' - ''Joseph 2000''|OPcuwro8xdc|'''3 reasons to take it to low BR tank battles - Hurricane Mk IIB Trop''' - ''HowToPlay1337''|Y1G0Lb1p5H0|'''Thunder Stories: Never in a Hurri''' - ''War Thunder Official Channel''|K0aQxOHUTYs|'''Hurricane Mk.IIB''' - ''MagzTV''|Hk93XdqceX8|'''Realistic: Hurricane Mk IIB/Trop [Devastating]''' - ''Jengar''}}
@@ -258,14 +242,14 @@ The Hurricane Mk II would see further developments in the form of the Mk IIC, ar
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer Hawker}}
 {{Britain fighters}}

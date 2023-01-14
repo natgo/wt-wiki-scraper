@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet jet fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
 The Mikoyan-Gurevich MiG-15bis is an upgraded variant of the [[MiG-15]] jet fighter. It utilises an improved version of the RD-45 (imported British Rolls–Royce Nene) turbojet engine, the Klimov VK-1, for increased performance. The MiG-15bis also has better ground attack capability with underwing hardpoints for bombs and rockets.
@@ -21,7 +19,6 @@ The Mikoyan-Gurevich MiG-15bis is an upgraded variant of the [[MiG-15]] jet figh
 
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 The MiG-15bis is an improved and definitive MiG-15 version, the main difference is the improved engine, the Klimov VK-1. Its level speed at sea level was increased by 26 km/h to 1,076 km/h, but it is still lower than many other jets like for example the F-86 series.
@@ -58,7 +55,7 @@ When flying with simulator controls, it is very pleasant to fly: trimming is alm
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -96,7 +93,7 @@ When flying with simulator controls, it is very pleasant to fly: trimming is alm
 ! colspan="2" | Engine name || Number
 ! colspan="2" | Empty mass || colspan="2" | Wing loading (full fuel)
 |-
-| colspan="2" | Klimov VK-1 || 1
+| colspan="2" | Klimov VK-1 ||  1
 | colspan="2" | 3,648 kg || colspan="2" | 233 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
@@ -124,14 +121,13 @@ When flying with simulator controls, it is very pleasant to fly: trimming is alm
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 10 mm steel armour plates in front of the cockpit and behind the pilot's head rest.
-- 6 mm steel armour under the pilot's seat.
-- 64 mm bulletproof front windshield.
-- Self-sealing fuel tanks behind the pilot and under the jet engine nozzle.
-- Jet engine located in the rear of the aircraft, pilot seated in front.
+* 10 mm steel armour plates in front of the cockpit and behind the pilot's head rest.
+* 6 mm steel armour under the pilot's seat.
+* 64 mm bulletproof front windshield.
+* Self-sealing fuel tanks behind the pilot and under the jet engine nozzle.
+* Jet engine located in the rear of the aircraft, pilot seated in front.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -142,15 +138,13 @@ It is recommended to obtain the modifications in the following order: Compressor
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|N-37D (37 mm)|NR-23 (23 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 1 x 37 mm N-37D cannon, chin-mounted (40 rpg)
-- 2 x 23 mm NR-23 cannons, chin-mounted (80 rpg = 160 total)
+* 1 x 37 mm N-37D cannon, chin-mounted (40 rpg)
+* 2 x 23 mm NR-23 cannons, chin-mounted (80 rpg = 160 total)
 
 In line with its originally designed role of bomber interception, the MiG-15bis is armed with three powerful nose-mounted autocannons. The 37 mm N-37D cannon is particularly noteworthy, as even a small number of hits are usually fatal to any aircraft unfortunate enough to be on the receiving end, with the twin 23 mm NR-23 cannons also being quite respectable in terms of lethality.
 
@@ -158,19 +152,17 @@ The trade-off is that these cannons do not have large ammunition reserves, espec
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|FAB-100M-43 (100 kg)|FAB-250M-46 (250 kg)|S-5K|S-5M|S-21}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 100 kg FAB-100M-43 bombs (200 kg total)
-- 2 x 250 kg FAB-250M-46 bombs (500 kg total)
-- 16 x S-5K rockets
-- 16 x S-5M rockets
-- 2 x S-21 rockets
+* Without load
+* 2 x 100 kg FAB-100M-43 bombs (200 kg total)
+* 2 x 250 kg FAB-250M-46 bombs (500 kg total)
+* 16 x S-5K rockets
+* 16 x S-5M rockets
+* 2 x S-21 rockets
 
 The MiG-15bis is capable of carrying up to 500 kg of bombs on underwing hardpoints. While this pales in comparison to the American or British fighter-bombers, it is enough for taking out isolated ground targets, if needed.
 
@@ -179,38 +171,34 @@ The S-5M HE rockets are most effective against light ground units, while the S-5
 The massive S-21 rocket has a considerable blast radius, and a single hit on a tank is usually fatal. The rocket may also be set with a distance fuse (up to 1,000 m), which can be very effective against large aircraft, such as bombers, or tightly bunched groups of smaller aircraft.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 In-game, the MiG-15bis fulfils the same role as the MiG-15, primarily serving as an air superiority fighter and bomber interceptor. Armament is substandard in comparison to other countries, relying on low velocity weapons that are highly inaccurate, and situated below the fuselage, aggravating targeting angles during dogfights. It excels in vertical combat manoeuvres, taking advantage of its high thrust-to-weight ratio. The MiG-15bis also has a limited ground attack capability.
 
 The MiG-15bis should be played like the MiG-15, using boom-and-zoom style attacks and keeping your energy high: speed is essential in jet battles. It wouldn't be a bad idea to try head-ons if you know your cannon's ballistics well. The 37 mm and 23 mm combo really help. The plane lacks in roll rate so you will have to watch out for other jets trying to reverse you.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Excellent climb rate and acceleration
-- Above average manoeuvrability
-- Good performance at altitude compared to most opponents
-- Powerful main armament, especially effective against bombers
-- Ability to carry massive S-21 rockets, unlike the earlier [[MiG-15]]
-- Amazing turn below 800 km/h (520 mph)
+* Excellent climb rate and acceleration
+* Above average manoeuvrability
+* Good performance at altitude compared to most opponents
+* Powerful main armament, especially effective against bombers
+* Ability to carry massive S-21 rockets, unlike the earlier [[MiG-15]]
+* Amazing turn below 800 km/h (520 mph)
 
 '''Cons:'''
 
-- Somewhat slow roll rate
-- Loss of manoeuvrability above Mach 0.9 due to compression
-- Cannons have very a low muzzle velocity, making aiming at fast targets very hard
-- Cannon main armament is mounted very low, and the different ballistics can make aiming even more difficult
-- Limited ammunition capacity
-- Stock guns have an important dispersion and stock belts tend to spark a lot
-- Poor forward visibility in simulator: it has a large canopy frame and the gunsight obstructs the top and bottom
+* Somewhat slow roll rate
+* Loss of manoeuvrability above Mach 0.9 due to compression
+* Cannons have very a low muzzle velocity, making aiming at fast targets very hard
+* Cannon main armament is mounted very low, and the different ballistics can make aiming even more difficult
+* Limited ammunition capacity
+* Stock guns have an important dispersion and stock belts tend to spark a lot
+* Poor forward visibility in simulator: it has a large canopy frame and the gunsight obstructs the top and bottom
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -228,33 +216,30 @@ The first production MiG-15s with RD-45F engines began to leave the factory floo
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=mig-15 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=mig-15 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Aircraft of comparable role, configuration and era
 
-- [[F-86 Sabre (Family)|F-86 Family]]
-- [[F9F (Family)|F9F Family]]
-- [[Hunter (Family)|Hunter Family]]
-- [[J29 (Family)|J29 Family]]
+* [[F-86 Sabre (Family)|F-86 Family]]
+* [[F9F (Family)|F9F Family]]
+* [[Hunter (Family)|Hunter Family]]
+* [[J29 (Family)|J29 Family]]
 
 == External links ==
-
 <!--''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.''-->
 
-- [https://forum.warthunder.com/index.php?/topic/195781-mikoyan-gurevich-mig-15bis/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/195781-mikoyan-gurevich-mig-15bis/ Official data sheet - more details about the performance]
 
 {{AirManufacturer MiG}}
 {{USSR jet aircraft}}

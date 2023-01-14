@@ -13,9 +13,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British fighter {{Battle-rating}}. It was introduced in [[Update 1.77 "Advancing Storm"]].
 
 The Spitfire fills the turn-fighter class in the British line. It can perform many fighting tactics, such as energy fighting as well as turn-fighting. It has an impressive climb rate and turn time.
@@ -23,9 +21,7 @@ The Spitfire fills the turn-fighter class in the British line. It can perform ma
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The Mk V variants of the Spitfire series do not have the upgraded Merlin 61 engine, but instead the Merlin 45 and thus may have poorer performance compared to the [[Spitfire F Mk IX]]. Its wings can sustain a lot of stress, keeping still at steep dives and tight turns. Its control surfaces are large which means it has considerable control even at higher speeds.
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -53,7 +49,7 @@ The Mk V variants of the Spitfire series do not have the upgraded Merlin 61 engi
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || X || ✓ || X || X <!-- ✓ -->
+| X || X || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -98,16 +94,15 @@ The Mk V variants of the Spitfire series do not have the upgraded Merlin 61 engi
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 3 mm Steel - Armour plating around ammunition cases (each wing)
-- 3 mm Steel - Armour plating propeller hub
-- 1 mm Steel - Fore cockpit armour plate
-- 4 mm Steel - Pilot's seat
-- 7 mm Steel - Armour plate behind the pilot
-- 6 mm Steel - Pilot's headrest
-- 38 mm Bulletproof glass - Armoured windscreen.
+* 3 mm Steel - Armour plating around ammunition cases (each wing)
+* 3 mm Steel - Armour plating propeller hub
+* 1 mm Steel - Fore cockpit armour plate
+* 4 mm Steel - Pilot's seat
+* 7 mm Steel - Armour plate behind the pilot
+* 6 mm Steel - Pilot's headrest
+* 38 mm Bulletproof glass - Armoured windscreen.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -118,18 +113,15 @@ The Mk V variants of the Spitfire series do not have the upgraded Merlin 61 engi
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Hispano Mk.II (20 mm)|Browning .303 (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 20 mm Hispano Mk.II cannons, wing-mounted (60 rpg = 120 total)
-- 4 x 7.7 mm Browning .303 machine guns, wing-mounted (350 rpg = 1,400 total)
+* 2 x 20 mm Hispano Mk.II cannons, wing-mounted (60 rpg = 120 total)
+* 4 x 7.7 mm Browning .303 machine guns, wing-mounted (350 rpg = 1,400 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in an aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The Spitfire Mk Vb fills the role of an aerial superiority fighter in the British tier III lineup. It cannot fulfil any ground attack duties due to its low ammunition count and the absence of any heavy machine guns which can penetrate a tank's thin roof armour. In addition, the aircraft cannot carry any bombs or other air-to-ground ordnance. Like most Spitfires, the Spitfire Mk Vb is meant to be used as a pure aerial superiority fighter, while fighter-bomber duties are relegated to other aircraft, such as the [[Beaufighter (Family)|Beaufighter]] series.
@@ -162,26 +154,24 @@ This Spitfire has a good turn time compared to its opposition and cannot be out-
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Excellent turn rate
-- Adequate climb rate
-- Structurally strong, will survive sharp turns
-- Engine temperature is easy to control with cooldown from red to white only taking 10-20 seconds
-- 20 mm cannons easily destroy enemy fighters
+* Excellent turn rate
+* Adequate climb rate
+* Structurally strong, will survive sharp turns
+* Engine temperature is easy to control with cooldown from red to white only taking 10-20 seconds
+* 20 mm cannons easily destroy enemy fighters
 
 '''Cons:'''
 
-- Low cannon ammunition count of 60 rounds per gun, requiring trigger discipline
-- Guns are wing-mounted, requiring setting an appropriate convergence
-- Water overheats extremely quickly when using WEP
-- In an up-tier, some Bf 109s will have a significantly better climb rate
+* Low cannon ammunition count of 60 rounds per gun, requiring trigger discipline
+* Guns are wing-mounted, requiring setting an appropriate convergence
+* Water overheats extremely quickly when using WEP
+* In an up-tier, some Bf 109s will have a significantly better climb rate
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -199,7 +189,6 @@ The Mk V formed the backbone of RAF Fighter Command across several theatres of o
 {{Navigation-End}}
 
 === Notable pilots ===
-
 <div><ul>
 <li style="display: inline-block;"> [[File:Douglas_Bader_profile.jpg|thumb|none|220px|User:U64962917#Bader,_Douglas_R.S.B.|'''[[User:U64962917#Bader,_Douglas_R.S.B.|Douglas Bader]]''' flew the '''Spitfire Mk Va''' which differed from the '''Mk Vb''' in that the Vb had two 20 mm cannons and the Va did not, instead two more .303 machine guns on each wing for eight total.]] </li><!--
 <li style="display: inline-block;"> [[File:X.jpg|thumb|none|200px|"Image Description"]] </li>
@@ -208,27 +197,25 @@ The Mk V formed the backbone of RAF Fighter Command across several theatres of o
 </ul></div>
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=spitfire_mk5b_notrop Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=spitfire_mk5b_notrop Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://warthunder.com/en/news/5371-development-spitfire-mk-v-model-update-and-new-modifications-en [Devblog<nowiki>]</nowiki> Spitfire Mk.V: model update and new modifications]
-- [https://forum.warthunder.com/index.php?/topic/402786-supermarine-spitfire-mk-vb/ Official data sheet - more details about the performance]
+* [https://warthunder.com/en/news/5371-development-spitfire-mk-v-model-update-and-new-modifications-en [Devblog<nowiki>]</nowiki> Spitfire Mk.V: model update and new modifications]
+* [https://forum.warthunder.com/index.php?/topic/402786-supermarine-spitfire-mk-vb/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Supermarine}}
 {{Britain fighters}}

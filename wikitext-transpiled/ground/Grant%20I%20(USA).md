@@ -12,9 +12,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} American medium tank {{Battle-rating}}. It was introduced along with the initial American ground tree in [[Update 1.45 "Steel Generals"]] as a bundle vehicle, but was later removed from the store. It was reintroduced for [[wt:en/news/5852-special-news-war-thunder-s-birthday-discounts-and-gifts-en|War Thunder's 6th Anniversary]] as a premium purchasable for Golden Eagles {{ge}} and was made available in the [[Warbonds]] shop during Seasons IV and IX of the [[Battle Pass]].
 
 It is a modified version of the [[M3 Lee|M3 Lee]] in the American medium tree line with a redesigned turret made for the British Army.
@@ -25,13 +23,11 @@ Due to the presence of two cannons, this tank is an excellent multi-role vehicle
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
-- Rolled homogeneous armour (Hull, Turret roof)
-- Cast homogeneous armour (Turret, Transmission area)
+* Rolled homogeneous armour (Hull, Turret roof)
+* Cast homogeneous armour (Turret, Transmission area)
 
 {| class="wikitable"
 |-
@@ -46,13 +42,12 @@ Due to the presence of two cannons, this tank is an excellent multi-role vehicle
 |}
 '''Notes:'''
 
-- Suspension wheels are 15 mm thick, bogies are 10 mm thick, and tracks are 20 mm thick.
-- Hull doors and vision ports are 38.1 mm thick.
-- Turret ring is 50.8 mm thick.
+* Suspension wheels are 15 mm thick, bogies are 10 mm thick, and tracks are 20 mm thick.
+* Hull doors and vision ports are 38.1 mm thick.
+* Turret ring is 50.8 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=620|rbMinHp=354}}
@@ -64,9 +59,7 @@ Due to the presence of two cannons, this tank is an excellent multi-role vehicle
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|M5 (37 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -121,9 +114,7 @@ Due to the presence of two cannons, this tank is an excellent multi-role vehicle
 |}
 
 ==== [[Ammo racks]] ====
-
 <!-- '''Last updated: 1.101.1.16''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -145,9 +136,7 @@ Due to the presence of two cannons, this tank is an excellent multi-role vehicle
 
 === Additional armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Some tanks are armed with several guns in one or more turrets. Evaluate the additional weaponry and give advice on its use. Describe the ammunition available for additional weaponry. Give advice on about how to use them and how to fill the ammunition storage. If there is no additional weaponry remove this subsection.'' -->
-
 {{main|M2 (75 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -221,9 +210,7 @@ Due to the presence of two cannons, this tank is an excellent multi-role vehicle
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x200px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 1.101.1.16''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -237,7 +224,6 @@ Due to the presence of two cannons, this tank is an excellent multi-role vehicle
 
 === Machine guns ===
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -251,9 +237,7 @@ Due to the presence of two cannons, this tank is an excellent multi-role vehicle
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The multiple cannons allow for different combinations of attack. The 75 mm gun possesses armour penetration on about the level of the 37 mm gun; however, the damage upon penetration is extremely high with the M61 APCBC shell due to the HE filler. On the other hand, the 37 mm gun allows for close quarters and longer-range fighting, where its high-velocity and effective shell make for good long range targeting while it is also the only cannon on the Grant that has a full 360-degree traverse.
 
 Different guns mean different styles of play. The Grant can be played as a tank destroyer, using its sponson gun to take shots at medium range and its 37 mm to cover the flanks and make longer range snipe shots. The Grant can also be used as an assault tank, quickly advancing on points while switching between the powerful 75 mm gun and the faster-firing 37 mm. In all game modes, the two gun profiles should be assigned to different keys, this will allow players to aim using the sights of the three guns separately, allowing the usage of the individual optics to actually hit things at range.
@@ -261,25 +245,23 @@ Different guns mean different styles of play. The Grant can be played as a tank 
 the Grant I has the possibility of facing long-barrelled [[Pz.III J1|Pz.Kpfw. III]], and [[Pz.IV F2|Pz.Kpfw. IV]], as well as [[T-34 (1941)|T-34]]s. The [[ZiS-30]] and [[Na-To]] are also very deadly. The 75 mm gun can reliable penetrate all of these tanks at short range (save the T-34), whereas the 37 mm will require some particular shot placement.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Ability to use two guns: a 37 mm and a 75 mm - which is very powerful at this rank
-- Fine frontal armour
-- Side mounted 75 mm gives the ability for some unique tactics
-- Despite the tall profile, the "wedding cake" design of the turret has thick sloped armour, providing extra protection to make up for its height
+* Ability to use two guns: a 37 mm and a 75 mm - which is very powerful at this rank
+* Fine frontal armour
+* Side mounted 75 mm gives the ability for some unique tactics
+* Despite the tall profile, the "wedding cake" design of the turret has thick sloped armour, providing extra protection to make up for its height
 
 '''Cons:'''
 
-- Tall profile, big target
-- Fixed 75 mm gun in the sponson makes it harder to use as a primary
-- Slow traverse speeds make it easy for a light or a particularly speedy medium tank to sneak around the sides
-- The 37 mm gun does not have a stabilizer unlike the regular M3 variant
+* Tall profile, big target
+* Fixed 75 mm gun in the sponson makes it harder to use as a primary
+* Slow traverse speeds make it easy for a light or a particularly speedy medium tank to sneak around the sides
+* The 37 mm gun does not have a stabilizer unlike the regular M3 variant
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 ===Development===
@@ -317,12 +299,11 @@ The British Grant Mk Is saw limited action in the 1943 invasion of Sicily.
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=us_mk1_grant Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=us_mk1_grant Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover" heights="200">
@@ -335,11 +316,10 @@ File:M3Lee + Grant.jpg|<small>The [[M3 Lee]] (right) and M3 Grant in the North A
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->

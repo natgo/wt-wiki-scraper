@@ -1,24 +1,21 @@
 {{Specs-Card
 |code=uk_charioteer_mk_7
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' (or just ''Charioteer'') is a rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced in [[Update 1.55 "Royal Armour"]] alongside the rest of the initial British Ground Forces Tree. The Charioteer takes the hull of a [[Cromwell V|Cromwell]] and replaces the turret with a larger one mounting the heavy-hitting [[Ordnance QF 20-pounder Mk.I (84 mm)|84 mm 20-pdr]] cannon, which can deal with the enemies it faces at Rank IV.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (hull, turret)
-- Cast homogeneous armour (gun mantlet, driver port joint, obturated MG port)
+* Rolled homogeneous armour (hull, turret)
+* Cast homogeneous armour (gun mantlet, driver port joint, obturated MG port)
 
 {| class="wikitable"
 |-
@@ -33,12 +30,11 @@ The '''{{Specs|name}}''' (or just ''Charioteer'') is a rank {{Specs|rank}} Briti
 
 *Suspension wheels and tracks are 20 mm thick.
 *The area where the machine gun port would be has an additional 63 mm of armour placed on it.
-
-- 3 internal structural plates of 5 mm thickness separate:
-  ** the driver compartment in two,
-  ** the driver compartment from the crew compartment,
-  \*\* the crew compartment from the engine bay.
-- These plates have large openings at some places, as visible in X-ray mode.
+* 3 internal structural plates of 5 mm thickness separate:
+**  the driver compartment in two,
+** the driver compartment from the crew compartment,
+** the crew compartment from the engine bay.
+* These plates have large openings at some places, as visible in X-ray mode.
 
 "Lacking" is the term that comes to mind when thinking about the Charioteer's armour. 63.5 mm of non slopped frontal armour is not enough and the turret armour is only 30 mm thick all around. The turret ring technically can be penetrated by 12.7 mm HMG fire, but not many people will go for that. However, it's best to not get flanked by autocannon-armed tanks (SPAA, late light tanks, etc.).
 
@@ -48,7 +44,6 @@ The few advantages of this vehicle are: internal shields (to ensure that at leas
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=930|rbMinHp=531}}
@@ -62,9 +57,7 @@ As said earlier, the {{PAGENAME}} share the hull of a typical Cromwell tank feat
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|20pdr OQF Mk.I (84 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -142,9 +135,7 @@ The tank commander has the ability to control the weapon if the gunner is knocke
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -158,13 +149,11 @@ The tank commander has the ability to control the weapon if the gunner is knocke
 |}
 '''Note''':
 
-- Shells are modeled individually and disappear after having been shot or loaded.
+* Shells are modeled individually and disappear after having been shot or loaded.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|L3A1 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -180,7 +169,6 @@ The tank commander has the ability to control the weapon if the gunner is knocke
 The small calibre of the L3A1 machine gun makes it largely ineffective against all armoured vehicles but the ones with an open compartment. It still can be used to ping targets as a rangefinding help or to mow down minor obstacles blocking your line of sight.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The Charioteer, as with most western tank destroyer, is fitted with a very powerful gun, has good mobility, but is very lightly armoured. As such, it is best to play with its mobility to evade the enemy until the opportune moment. As it uses the same hull as a Cromwell, the reverse speed is atrocious that can make any withdrawal very hard once discovered by the enemy. It is recommended that the Charioteer be used with the forward movement more often, and back up by rotating the entire vehicle before whistling away since the armour back and front is inadequate to deal with any of the tanks you face at its battle rating.
@@ -192,32 +180,30 @@ This is a classical sniper/flanker tank: fast, a good gun but no armour. One sho
 In urban maps, pre-aim before getting around corners since turret slewing rate is slow. One could also use its engine/transmission as an armour when ambushed: quick reaction shots will often "only" ignite the tank without damaging the crew too much, plus, if the shot is missed, you are already in a position to escape swiftly since frontwards speed is good. When zipping past an alley, blast a smoke screen to cover allies from enemy fire while shooting a hasty shot in the general direction of the enemy. Some enemies will turn their turret in order to protect themselves from flanking only to get shot by allied tanks. Your best weapons in close-range fights are both surprise and speed.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Good reload speed without an autoloader
-- 20-pdr has access to powerful rounds - AP which can destroy [[Panther D|Panther]] in a single hit and APDS with extreme muzzle velocity and even more penetration, can potentially be played in higher BR games
-- Has no ammo in the turret, and commander can use the gun instead of gunner, meaning that even if intercepted, the Charioteer still has an extremely high chance of taking down enemy tanks with itself (even more likely in AB)
-- Decent gun optics for the rank, but difficult to use with APDS
-- Very speedy tank due to Cromwell chassis, can fill a role of a medium support tank for rushing capture points
-- Arguably the best turreted tank destroyer at Rank IV, with benefits of a medium tank (can call artillery)
-- Good smoke screen system with a useful spreading angle; great for retreats
-- Very low risk of fire due to rear mounted transmission and no fuel tanks on the front of the tank.
+* Good reload speed without an autoloader
+* 20-pdr has access to powerful rounds - AP which can destroy [[Panther D|Panther]] in a single hit and APDS with extreme muzzle velocity and even more penetration, can potentially be played in higher BR games
+* Has no ammo in the turret, and commander can use the gun instead of gunner, meaning that even if intercepted, the Charioteer still has an extremely high chance of taking down enemy tanks with itself (even more likely in AB)
+* Decent gun optics for the rank, but difficult to use with APDS
+* Very speedy tank due to Cromwell chassis, can fill a role of a medium support tank for rushing capture points
+* Arguably the best turreted tank destroyer at Rank IV, with benefits of a medium tank (can call artillery)
+* Good smoke screen system with a useful spreading angle; great for retreats
+* Very low risk of fire due to rear mounted transmission and no fuel tanks on the front of the tank.
 
 '''Cons:'''
 
-- As with all Cromwell chassis, reverse speed is awful
-- Extremely vulnerable to APHE, even the angled roof top which is supposed to bounce shots will not stop it
-- Only 3 crew members, easy crew knock out in RB
-- Low post-penetration damage with APDS due to punctual damage
-- Poor gun depression and elevation (-5­° to 10°)
-- Unstable gun platform; must short-stop or slow down before firing precisely
-- Very poor ammo capacity; on the co-op Tank Assault mode, this forces to stay close to repair bonuses, which can eventually backfire
+* As with all Cromwell chassis, reverse speed is awful
+* Extremely vulnerable to APHE, even the angled roof top which is supposed to bounce shots will not stop it
+* Only 3 crew members, easy crew knock out in RB
+* Low post-penetration damage with APDS due to punctual damage
+* Poor gun depression and elevation (-5­° to 10°)
+* Unstable gun platform; must short-stop or slow down before firing precisely
+* Very poor ammo capacity; on the co-op Tank Assault mode, this forces to stay close to repair bonuses, which can eventually backfire
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 ===Development===
@@ -239,38 +225,34 @@ During its service life, the Charioteer saw many upgrades, such as one using an 
 About six Charioteers exist in intact condition in the world. One is in Austria in the Museum of Military History. Two are in Finland in outdoor display in the Parola tank museum and the Army Academy in Lappeenranta. One is in Israel in the Yad la-Shiryon Museum. Two more are in the United Kingdom, with one normal one in the Bovington Tank Museum and the 105 mm Charioteer variant at the East of England Tank Museum.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_charioteer_mk_7 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_charioteer_mk_7 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|o8cbjw-Izo4|'''I Shouldn't Have Ignored This Tank: Charioteer Mk VII Tank Destroyer''' - ''Virus''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
 
-- [[Cromwell (Family)]]
+* [[Cromwell (Family)]]
 
 ;Other vehicles of similar configuration and role
 
-- [[Avenger]]
-- [[Challenger]]
+* [[Avenger]]
+* [[Challenger]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wikipedia:Charioteer_(tank)|[Wikipedia] Charioteer (tank)]]
-- [https://tanks-encyclopedia.com/coldwar/UK/FV-4101_charioteer_tank_destroyer.php <nowiki>[Tanks Encyclopedia]</nowiki> Fv 401 Charioteer]
+* [[wikipedia:Charioteer_(tank)|[Wikipedia] Charioteer (tank)]]
+* [https://tanks-encyclopedia.com/coldwar/UK/FV-4101_charioteer_tank_destroyer.php <nowiki>[Tanks Encyclopedia]</nowiki> Fv 401 Charioteer]
 
 {{Britain medium tanks}}

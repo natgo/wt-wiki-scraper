@@ -1,6 +1,6 @@
 export function langcsvJSON(csv: string) {
   const lines = csv.split("\n");
-  const result = [];
+  const result: { ID: string; English: string }[] = [];
   const headers = lines[0].split(";");
 
   headers.forEach((element, i, array) => {

@@ -10,9 +10,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British fighter {{Battle-rating}}. It was introduced as a [[wt:en/news/3071--en|premium pack]] in [[Update 1.49 "Weapons of Victory"]] and was removed from the store after the [[wt:en/news/5608-shop-summer-sale-independence-day-en|2018 Independence Day Summer Sale]]. It has been made available again for the [[wt:en/news/5438-raf-100-royal-air-force-centenary-en|2018 "Royal Air Force Centenary"]], the [[wt:en/news/6866-special-80-year-anniversary-of-battle-of-britain-en|2020 "80<sup>th</sup> Anniversary of the Battle of Britain"]] events, and the [[wt:en/news/7154-shop-may-sale-in-the-gaijin-store-en|2021 May sale]]. It has also been available in-game for Golden Eagles {{GE}} for a limited time during the [[wt:en/news/7338-special-battle-of-britain-day-en|2021]] and [[wt:en/news/7871-special-battle-of-britain-day-en|2022]] "Battle of Britain Day" mini-events.
 
 The plane is painted after the camouflage scheme of the plane Canadian pilot James Prendergast used in the No.414 Squadron of the Royal Canadian Air Force, flying reconnaissance and ground attack missions over Europe before the Allied invasion of Normandy on D-Day.
@@ -25,7 +23,6 @@ The Spitfire FR Mk. XIVe was a purpose built low altitude Reconnaissance Airfram
 
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -53,7 +50,7 @@ The Spitfire FR Mk. XIVe was a purpose built low altitude Reconnaissance Airfram
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || X || ✓ || X || X <!-- ✓ -->
+| X || X || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -84,17 +81,15 @@ The Spitfire FR Mk. XIVe was a purpose built low altitude Reconnaissance Airfram
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 [[File:Spitfire FR Mk.XIVe (1).jpg|thumb]]
 
-- 38 mm Bulletproof glass - Armoured windscreen
-- 4 mm Steel plates in pilot's seat
-- 4-7 mm Steel plate behind the pilot
-- 12.7 mm Steel plate between the fuselage fuel tank and oil cooling system
-- 6 mm Steel plate in front of liquid cooling system
-- 3 mm Steel boxes around wing ammunition
+* 38 mm Bulletproof glass - Armoured windscreen
+* 4 mm Steel plates in pilot's seat
+* 4-7 mm Steel plate behind the pilot
+* 12.7 mm Steel plate between the fuselage fuel tank and oil cooling system
+* 6 mm Steel plate in front of liquid cooling system
+* 3 mm Steel boxes around wing ammunition
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -103,35 +98,29 @@ The Spitfire FR Mk. XIVe was a purpose built low altitude Reconnaissance Airfram
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 [[File:Spitfire FR Mk.XIVe (4).jpg|thumb]]
 {{main|Hispano Mk.II (20 mm)|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 20 mm Hispano Mk.II cannons, wing-mounted (135 rpg = 270 total)
-- 2 x 12.7 mm M2 Browning machine guns, wing-mounted (260 rpg = 520 total)
+* 2 x 20 mm Hispano Mk.II cannons, wing-mounted (135 rpg = 270 total)
+* 2 x 12.7 mm M2 Browning machine guns, wing-mounted (260 rpg = 520 total)
 
 The armament of 1 x Hispano Mk.II and 1 x 12.7 mm M2 Browning machine gun per wing is more than adequate for all but the heaviest of targets, cannon ammunition is low at only 120 RPG or 240 total. 20 mm ammo should be conserved as much as possible .50 calibre should be used vs. soft targets and on shots intended to force an enemy to manoeuvre. Neither can damage AI medium or heavy tanks but both can damage pillboxes when aimed properly.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|G.P. Mk.IV (500 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 1 x 500 lb G.P. Mk.IV bomb (500 lb total)
+* Without load
+* 1 x 500 lb G.P. Mk.IV bomb (500 lb total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 [[File:Spitfire FR Mk.XIVe (3).jpg|thumb]]
 Make sure to climb every match, better off having too much energy than too little.
 
@@ -161,30 +150,28 @@ Head-ons are possible but not recommended due to the fragile engine, a better ta
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Fast climber (best at roughly 300 km/h (185 mph) at 20 degrees)
-- Excellent vertical manoeuvrability
-- Good zoom climber
-- Fast acceleration
-- Fast roll rate
-- Cools well at 100% throttle
-- Dive speeds and handling is very good
+* Fast climber (best at roughly 300 km/h (185 mph) at 20 degrees)
+* Excellent vertical manoeuvrability
+* Good zoom climber
+* Fast acceleration
+* Fast roll rate
+* Cools well at 100% throttle
+* Dive speeds and handling is very good
 
 '''Cons:'''
 
-- Engine is water cooled and susceptible to damage
-- Requires slow landing speeds
-- Higher stall speed than unclipped Spitfires
-- Low ammo for cannons
-- Lacks Combat flaps
-- WEP has considerably higher fuel usage, take at least 30 minutes, preferably 45
+* Engine is water cooled and susceptible to damage
+* Requires slow landing speeds
+* Higher stall speed than unclipped Spitfires
+* Low ammo for cannons
+* Lacks Combat flaps
+* WEP has considerably higher fuel usage, take at least 30 minutes, preferably 45
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -198,12 +185,11 @@ The Spitfire Mk.XIV entered service with Nos. 91, 322 and 610 Squadrons in south
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=spitfire_fr_mk14e Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=spitfire_fr_mk14e Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|MNacjyimuCQ|'''The Shooting Range #95''' - ''Metal Beasts'' section at 03:42 discusses the Spitfire FR Mk XIVe.|YrotBJk-VYk|'''The Shooting Range #124''' - ''War Machines'' section at 00:28 discusses the Griffons.}}
@@ -211,16 +197,15 @@ The Spitfire Mk.XIV entered service with Nos. 91, 322 and 610 Squadrons in south
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/341989-supermarine-spitfire-frmkxive/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/341989-supermarine-spitfire-frmkxive/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Supermarine}}
 {{Britain fighters}}

@@ -5,14 +5,12 @@
 }}
 {{Specs-Card
 |code=germ_pzkpfw_VI_ausf_h1_tiger
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
-The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 181'''), is a rank {{Specs|rank}} German heavy tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41.
+The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 181'''), is a rank {{Specs|rank}} German heavy tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41. 
 
 The {{PAGENAME}} carries its reputation from real-life to its in-game performances, armed with the infamous 88 mm KwK36 gun that can easily destroy most tanks it meets. The armour of the {{PAGENAME}} is strong at 102 mm and can be easily increased by angling the tank approximately 30° to the side, with the side armour thick enough for glancing side fire as well. Mobility is also decent for a heavy tank due to its 650 hp engine and suspension, making the {{PAGENAME}} a near jack-of-all-trades at its level.
 
@@ -23,9 +21,7 @@ The Tiger H1 tank is most distinctive from its later production models is its dr
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 [[File:TigerIHTank Armour Angling.png|right|thumbnail|The ideal angling of hull armour on {{PAGENAME}} for maximum effective armour all-around|300px]]
 One may feel the need to charge head-on into battle, blaring that 88 mm gun as shells bounce off the front armour while the Schachtellaufwerk suspension system runs over the ground; this is a short-lived strategy.
 
@@ -37,8 +33,8 @@ The commander cupola is tall and weak: this can lead APHE shells to detonate ins
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (Gun mantlet, Cupola)
+* Rolled homogeneous armour
+* Cast homogeneous armour (Gun mantlet, Cupola)
 
 {| class="wikitable"
 |-
@@ -52,14 +48,13 @@ The commander cupola is tall and weak: this can lead APHE shells to detonate ins
 |}
 '''Notes:'''
 
-- Turret front covered by gun mantlet has variable thickness depending on exact place, ranging from 90 to 200 mm of armour.
-- Turret side (about 1/3) is covered by attached tracks, adding additional 30 mm of armour.
-- While the hull side of the tank is 82 mm, the side where the suspension is located is only 62 mm thick so be aware of this weak point.
-- On paper, the best angle is roughly 38.8° with armour all-round being from the front 130 mm.
+* Turret front covered by gun mantlet has variable thickness depending on exact place, ranging from 90 to 200 mm of armour.
+* Turret side (about 1/3) is covered by attached tracks, adding additional 30 mm of armour.
+* While the hull side of the tank is 82 mm, the side where the suspension is located is only 62 mm thick so be aware of this weak point.
+* On paper, the best angle is roughly 38.8° with armour all-round being from the front 130 mm.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp= 839|rbMinHp= 575}}
@@ -73,9 +68,7 @@ For Tier I modifications obtained the vital "Parts" and "Horizontal Drive" modif
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|KwK36 (88 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -96,10 +89,10 @@ For Tier I modifications obtained the vital "Parts" and "Horizontal Drive" modif
 
 ==== Ammunition ====
 
-- '''PzGr 39''': The go-to shell for all Tiger H1 drivers as this is arguably the best. It will do incredible damage to any tank shot by it, except SPAA, or any extremely thin armoured vehicles. Heavier tanks like the IS-1, IS-2, or American heavy tanks are able to resist the round at longer ranges, but well-placed shots from close range or sides will do the job. All other medium and light tanks will be history as soon as this shell make contact with them. This shell, however, will almost always over-penetrate all but the most armoured SPAA vehicles, so it is best to use HE or machine gun fire on thin-skinned vehicles.
-- '''PzGr ''': This shell is also very useful. It has very similar characteristics as PzGr 39, but sacrifices some penetration for about 150% more Explosive Filler, meaning even more damage than already powerful PzGr 39. It is recommended to carry some of these shells and use them regularly, as the penetration is still enough to deal with most targets (at least when being down-tiered), and switch to PzGr 39 when shooting targets far away, or those that are heavily armoured.
-- '''Sprgr. 39''': The HE shell is completely ineffective against all but SPAA or the AI artillery on the Kursk and Ash River maps, and the machine gun mounted on the Tiger has proven quite capable of dealing with these. Keep a small supply of this shell on hand if planning to flank the enemy and take out their SPAA or artillery, but avoid them for everything else.
-- '''Hl.Gr. 39''': On paper the HEAT rounds don't bring anything new to the table, however they can be used as a substitute for the HE shells due to the greater explosive mass and still gives a fighting chance if caught with pants down.
+* '''PzGr 39''': The go-to shell for all Tiger H1 drivers as this is arguably the best. It will do incredible damage to any tank shot by it, except SPAA, or any extremely thin armoured vehicles. Heavier tanks like the IS-1, IS-2, or American heavy tanks are able to resist the round at longer ranges, but well-placed shots from close range or sides will do the job. All other medium and light tanks will be history as soon as this shell make contact with them. This shell, however, will almost always over-penetrate all but the most armoured SPAA vehicles, so it is best to use HE or machine gun fire on thin-skinned vehicles.
+* '''PzGr ''': This shell is also very useful. It has very similar characteristics as PzGr 39, but sacrifices some penetration for about 150% more Explosive Filler, meaning even more damage than already powerful PzGr 39. It is recommended to carry some of these shells and use them regularly, as the penetration is still enough to deal with most targets (at least when being down-tiered), and switch to PzGr 39 when shooting targets far away, or those that are heavily armoured.
+* '''Sprgr. 39''': The HE shell is completely ineffective against all but SPAA or the AI artillery on the Kursk and Ash River maps, and the machine gun mounted on the Tiger has proven quite capable of dealing with these. Keep a small supply of this shell on hand if planning to flank the enemy and take out their SPAA or artillery, but avoid them for everything else.
+* '''Hl.Gr. 39''': On paper the HEAT rounds don't bring anything new to the table, however they can be used as a substitute for the HE shells due to the greater explosive mass and still gives a fighting chance if caught with pants down.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="8" | Penetration statistics
@@ -144,9 +137,7 @@ For Tier I modifications obtained the vital "Parts" and "Horizontal Drive" modif
 |}
 
 ==== [[Ammo racks]] ====
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -168,14 +159,12 @@ For Tier I modifications obtained the vital "Parts" and "Horizontal Drive" modif
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
 '''Notes''':
 
-- As they are modeled by sets of 2, shells disappear from the rack only after you fire both shells in the set
-- Large sides empty: 29&nbsp;''(+63)'' shells.
+* As they are modeled by sets of 2, shells disappear from the rack only after you fire both shells in the set
+* Large sides empty: 29&nbsp;''(+63)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|MG34 (7.92 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -189,9 +178,7 @@ For Tier I modifications obtained the vital "Parts" and "Horizontal Drive" modif
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The main role of the Tiger tank was to eliminate enemy tanks at a far range, similar to behaving like a sniping tank, or a Tank Destroyer. Nonetheless, the Tiger can excel at brawling with other tanks at medium, even possibly against two [[Panther D|Panther]] tanks to close range and escape undamaged. It's recommended to not stay in one place for too long or risk getting outflanked, spotted, or bombed.
 
 While guns like the Soviet [[D-5T (85 mm)|85 mm]] cannon can easily penetrate the Tiger at close range, the Tiger can stay nearly invulnerable at long range. The 88 can take out any tank on Rank 3 at any combat range but may have problems with the [[IS-1]]'s 120 mm front armour at some ranges. When having to close in a bit, it is generally advisable to angle the hull to the sides by about 30°, improving the armour rating enough that it can keep away 85 mm shells very well, even at closer ranges. The {{PAGENAME}} is still vulnerable to the [[SU-152|SU-152s]] howitzer and its HE shell at any range. So whenever encountering these heavy-calibre vehicles, it should be prioritized and eliminated first.
@@ -208,13 +195,13 @@ When driving the Tiger, plan ahead on where it will drive. Even with engine and 
 
 The {{PAGENAME}} is also best used on the flanks of the current maps, as these are usually more open and allow good use of its armour and excellent gun. The centre of the map would seem more logical as there are a lot of enemies, but as has already been established a Tiger taking fire from multiple directions won't last long. Going in a flank and taking down light and medium tanks is an easy task for this beast, and thus a flank can be easily secured if the {{PAGENAME}} is driven carefully. Then, work the {{PAGENAME}} into the enemy sides and rear of the main force in the centre, doing much more damage than if the Tiger faced the force head-on because a shot to the side and rear will set most enemies alight if not outright exploding the ammunition. Able to destroy vehicles in one hit, the Tiger can quickly jump from target to target and eliminate a good number of enemies in its lifespan.
 
-The Tiger H1 is very effective at long range, and should be used accordingly. Players should try to avoid point blank fights with other tanks, since this will often result in the vulnerable sides being exposed. As a sniper or flanker, the tank is wonderful and as long as its sides are not exposed, it will last a long time.
+The Tiger H1 is very effective at long range, and should be used accordingly.  Players should try to avoid point blank fights with other tanks, since this will often result in the vulnerable sides being exposed.  As a sniper or flanker, the tank is wonderful and as long as its sides are not exposed, it will last a long time.
 
 There will be many hard eggs to crack such as the IS- Series, T-34 Series, American Jumbos, and several other tanks that will give the {{PAGENAME}} trouble.
 
-- The Russians have many tanks at the BR able to handle the Tiger H1 easily. The main tank at this BR is the T-34-85's. While it may have very thin armour and is easy to penetrate it is easy to angle and the T-34 is a franking machine, it will drive circles around the Tiger so it needs to be destroyed quick. The IS- Heavy tanks are the second worst nightmare situation. Thick armour and a huge gun. If the IS tank is not destroyed first, it will definitely destroy the Tiger.
-- The American Jumbos are similar to the T-34. The 75 mm variant would have trouble to penetrate the Tiger's armour at long ranges, but caution needs to be exercised when they are armed with a 76 mm gun.
-- The Japanese tanks all have very thin armour that the 88 mm gun can easily penetrate through with no problem, but their guns at this BR all have enough penetration to deal with the {{PAGENAME}} if it gets a hit on.
+* The Russians have many tanks at the BR able to handle the Tiger H1 easily. The main tank at this BR is the T-34-85's. While it may have very thin armour and is easy to penetrate it is easy to angle and the T-34 is a franking machine, it will drive circles around the Tiger so it needs to be destroyed quick. The IS- Heavy tanks are the second worst nightmare situation. Thick armour and a huge gun. If the IS tank is not destroyed first, it will definitely destroy the Tiger.
+* The American Jumbos are similar to the T-34. The 75 mm variant would have trouble to penetrate the Tiger's armour at long ranges, but caution needs to be exercised when they are armed with a 76 mm gun.
+* The Japanese tanks all have very thin armour that the 88 mm gun can easily penetrate through with no problem, but their guns at this BR all have enough penetration to deal with the {{PAGENAME}} if it gets a hit on.
 
 '''Against the Tiger H1:'''
 
@@ -227,38 +214,35 @@ There will be many hard eggs to crack such as the IS- Series, T-34 Series, Ameri
 '''SPAA''': anti-aircraft guns at this BR cannot really penetrate the Tiger I's armour effectively, but thanks to their fast-firing autocannons SPAAs are great for breaking the Tiger's gun barrel and tracks, assisting your teammates in destroying it. If no supporting fire is near, drop an artillery strike after immobilising the Tiger. Some SPAAs (e.g. [[Phòng không T-34]], [[M42 Duster (Family)|M42]]) have access to AP shells, any shell with more than 60 mm penetration is adequate to penetrate the lower side of the hull. Other than this area, the minimum thickness is 80 mm which is hard for any SPAA. This is an advantage of the Tiger I, although its flat armour performs poorly against heavier cannons, its all-round armour protection is fairly effective against low-penetrating vehicles like SPAAs.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- The gun mantlet, MG port and driver's port are particularly hard to penetrate due to their complex, varying shape and thickness.
-- Decent cannon with adequate accuracy and a range of shells to choose. Stock shell has great penetration and damage, and can knock out common opponents easily with a single shot (e.g. [[T-34-85]], [[M4A2 (76) W]], [[IS-1]], [[M6A1]]). Has another AP that sacrifices a bit penetration for more TNT.
-- One of the fastest heavy tanks with its top speed of 45 km/h, meaning it can get to some positions quickly alongside friendly medium tanks.
-- The box-like hull shape gives the ability to angle. When angling the hull at around 40° and placing yourself far from the enemies (at least 500 m away) the Tiger H1 can resist common tanks like the 76 mm Shermans, T-34-85s and [[M36 Jackson (Family)|M36]].
-- Good reverse speed and hull traverse allows it to quickly angle for deflecting shells.
-- -8° gun depression works well in most hilly terrain.
-- The rear is surprisingly hard to penetrate, partially due to the slightly-angled armour and partly due to the large exhaust pipes which seem to deflect shells.
-- The strong gun makes it easy to destroy most opponents at the its battle rating with a single shot, even M4A3E2 Jumbo, as long as you carefully aim for the machine gun port.
-- The tank is equipped with smoke grenades, which can help escape an undesirable situation alive.
+* The gun mantlet, MG port and driver's port are particularly hard to penetrate due to their complex, varying shape and thickness.
+* Decent cannon with adequate accuracy and a range of shells to choose. Stock shell has great penetration and damage, and can knock out common opponents easily with a single shot (e.g. [[T-34-85]], [[M4A2 (76) W]], [[IS-1]], [[M6A1]]). Has another AP that sacrifices a bit penetration for more TNT.
+* One of the fastest heavy tanks with its top speed of 45 km/h, meaning it can get to some positions quickly alongside friendly medium tanks.
+* The box-like hull shape gives the ability to angle. When angling the hull at around 40° and placing yourself far from the enemies (at least 500 m away) the Tiger H1 can resist common tanks like the 76 mm Shermans, T-34-85s and [[M36 Jackson (Family)|M36]].
+* Good reverse speed and hull traverse allows it to quickly angle for deflecting shells.
+* -8° gun depression works well in most hilly terrain.
+* The rear is surprisingly hard to penetrate, partially due to the slightly-angled armour and partly due to the large exhaust pipes which seem to deflect shells.
+* The strong gun makes it easy to destroy most opponents at the its battle rating with a single shot, even M4A3E2 Jumbo, as long as you carefully aim for the machine gun port.
+* The tank is equipped with smoke grenades, which can help escape an undesirable situation alive.
 
 '''Cons:'''
 
-- Weak and vertical armour protection. If not angling the Tiger H1 can get destroyed easily by the T-34-85 or 76 mm Sherman. Even if the {{PAGENAME}} is angling, the [[IS-2 (Family)|IS-2]] can still knock it out with a single shot easily.
-- The upper front plate is extremely vulnerable if it is not angled. It will be penetrated by any vehicle at its BR.
-- Struggles to penetrate heavy targets frontally like the [[M4A3E2]], [[M26 (Family)|M26]] and [[IS-2 (1944)]].
-- Rather slow acceleration limits its short range manoeuvrability.
-- Slow turret traverse makes it hard to respond to flankers quickly. The [[M18 GMC]] is very common at this BR
-- Ammo storage at the hull sides are very easy to explode when hit.
-- Commander's cupola is tall and easy to penetrate
-- Is a big and tall target, easy to get spotted and shot at.
-- S-Mine dischargers on the hull limits gun depression in certain areas
-- Tracks are rather loud so enemies will most times hear you and will be alert, so surprise attacks will be difficult.
+* Weak and vertical armour protection. If not angling the Tiger H1 can get destroyed easily by the T-34-85 or 76 mm Sherman. Even if the {{PAGENAME}} is angling, the [[IS-2 (Family)|IS-2]] can still knock it out with a single shot easily.
+* The upper front plate is extremely vulnerable if it is not angled. It will be penetrated by any vehicle at its BR.
+* Struggles to penetrate heavy targets frontally like the [[M4A3E2]], [[M26 (Family)|M26]] and [[IS-2 (1944)]].
+* Rather slow acceleration limits its short range manoeuvrability.
+* Slow turret traverse makes it hard to respond to flankers quickly. The [[M18 GMC]] is very common at this BR
+* Ammo storage at the hull sides are very easy to explode when hit.
+* Commander's cupola is tall and easy to penetrate
+* Is a big and tall target, easy to get spotted and shot at.
+* S-Mine dischargers on the hull limits gun depression in certain areas
+* Tracks are rather loud so enemies will most times hear you and will be alert, so surprise attacks will be difficult.
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 The Tiger I heavy tank was arguably the most infamous tank of World War II. The design for this tank began as early as January 1937 when Henschel & Sohn worked on a large "breakthrough" called the "Durchbruchwagen" that weighed about 30 tons on request by the German military.<ref name="ImagesOfWarTiger">Anthony Tucker-Jones. Images Of War Special: Tiger I & Tiger II Great Britain: Pen & Sword Military, 2013</ref> The request was modified over time for more armour and better gun that increased the weight to 36 tons, but this project was dropped in 1938 in favour of the better prototypes VK 30.01(H) and VK 36.01(H). These new prototypes were the start of the usage of the Schachtellaufwerk wheel arrangements, but these also never passed prototype stages and were both cancelled in 1942.
 
@@ -305,16 +289,15 @@ The first tanks which arrived often broke, owing to the haste with which they we
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_VI_ausf_h1_tiger Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_VI_ausf_h1_tiger Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
 
-- [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
+* [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 ;Videos
 {{Youtube-gallery|ryx7Uxo_3X0|'''The Shooting Range #250''' - ''Pages of History'' section at 03:40 discusses the {{PAGENAME}}.|tcIeR_s6fp8|'''The Shooting Range #204''' - ''Pages of History'' section at 04:50 discusses the Tiger I and the VK 45.01 (P).|9_txEPailKc|'''The Shooting Range #92''' - ''Tactics & Strategy'' section at 10:50 discusses the Tiger I.|QEz1MgTjUAw|'''War Thunder: Pz.Kpfw. VI Tiger Ausf. H1''' - ''War Thunder Official Channel''|kFQd8TYt6Ew|'''Tank Chats #17 Tiger I''' - ''The Tank Museum''}}
@@ -322,20 +305,19 @@ The first tanks which arrived often broke, owing to the haste with which they we
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/4528-profile-pz-kpfw-vi-tiger-ausf-h1-en|[Vehicle Profile] Pz.Kpfw. VI Tiger Ausf. H1]]
-- [[wt:en/news/2641/current|[Vehicle Profile] Pzkpfw VI "Tiger" Ausf. H1]]
-- [[wikipedia:Tiger_I|[Wikipedia] Tiger I]]
-- [https://tanks-encyclopedia.com/ww2/nazi_germany/Panzer-VI_Tiger.php <nowiki>[Tanks Encyclopedia]</nowiki> Panzerkampfwagen VI Tiger Ausf.E (Sd.Kfz.181) Tiger I]
-- [https://www.militaryfactory.com/armor/detail.asp?armor_id=72 <nowiki>[Military Factory]</nowiki> SdKfz 181 Panzer VI / Tiger I]
+* [[wt:en/news/4528-profile-pz-kpfw-vi-tiger-ausf-h1-en|[Vehicle Profile] Pz.Kpfw. VI Tiger Ausf. H1]]
+* [[wt:en/news/2641/current|[Vehicle Profile] Pzkpfw VI "Tiger" Ausf. H1]]
+* [[wikipedia:Tiger_I|[Wikipedia] Tiger I]]
+* [https://tanks-encyclopedia.com/ww2/nazi_germany/Panzer-VI_Tiger.php <nowiki>[Tanks Encyclopedia]</nowiki> Panzerkampfwagen VI Tiger Ausf.E (Sd.Kfz.181) Tiger I]
+* [https://www.militaryfactory.com/armor/detail.asp?armor_id=72 <nowiki>[Military Factory]</nowiki> SdKfz 181 Panzer VI / Tiger I]
 
 === References ===
 <references />

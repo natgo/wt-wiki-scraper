@@ -11,9 +11,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27. Rasmussen's P-36A Hawk is a unique American low-tier aircraft in War Thunder. Although it does not appear in the American tech tree, it can be purchased in the Gaijin store.
 
 The plane is modelled after the one that Philip M. Rasmussen flew on the island of Oahu during the Japanese attack on December 7, 1941.
@@ -29,7 +27,6 @@ The P-36 was known as an outstanding turning aircraft due to its extremely low w
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 Rasmussen's P-36A is a relatively easy fighter aircraft to fly and requires only a relatively short space to both take-off and land. During World War II the P-36 was ferried over to Pearl Harbor aboard an aircraft carrier from which they took off and then landed at the Army Air Corps base.<ref name="MilFac" /> In the game, due to the very low stall speed, the P-36 can land on an aircraft carrier to a complete stop and take off again. Due to the fantastically low wing loading rate of 23.9 lb/ft<sup>2</sup><ref name="JoeB" />, this fighter is an excellent turning aircraft and accompanied by a strong rudder can spiral climb easily, especially during WEP cycles. This aircraft has the advantage of being both a turn fighter and a Boom & Zoom fighter, depending on the situation, type of aircraft which are flying against and mission type. The P-36 will out-turn many fighters of its rank and can prove difficult to follow if attempting to shoot it down.
@@ -59,7 +56,7 @@ Rasmussen's P-36A is a relatively easy fighter aircraft to fly and requires only
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -104,11 +101,10 @@ Rasmussen's P-36A is a relatively easy fighter aircraft to fly and requires only
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 9.5 mm steel - behind the pilot
-- All fuel tanks in the fuselage
+* 9.5 mm steel - behind the pilot
+* All fuel tanks in the fuselage
 
 As with many early pre-war fighters, not much emphasis was put on the survivability of the aircraft. The best course of action was for the pilot to not let anyone get behind them. The P-36A's only sources of protection for the pilot are the engine block and the 9.5 mm (angled at 24° for an effective thickness of 13 mm), that being said, depending on the engine block to save the pilot may do so at the expense of the engine, thus requiring the pilot to glide back to base if possible or bailout. The P-36 lacks self-sealing fuel tanks, so if any of the three are punctured (one directly behind the pilot and two below the pilot's feet) they will leak fuel and if accompanied by fire, will rapidly degrade the aircraft structure to failure and destruction.<ref name="JoeB" /> There are also two unprotected oil coolers if which are punctured, the aircraft will leak oil until depleted eventually causing the engine to seize up.
 
@@ -119,35 +115,30 @@ As with many early pre-war fighters, not much emphasis was put on the survivabil
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M2 Browning (12.7 mm)|Browning (7.62 mm)}}
 
 '''''{{PAGENAME}}''''' is armed with:
 
-- 1 x 12.7 mm M2 Browning machine gun, nose-mounted (200 rpg)
-- 1 x 7.62 mm Browning machine gun, nose-mounted (500 rpg)
+* 1 x 12.7 mm M2 Browning machine gun, nose-mounted (200 rpg)
+* 1 x 7.62 mm Browning machine gun, nose-mounted (500 rpg)
 
 For the P-36A, the armament of a single 12.7 mm and 7.62 mm machine gun is quite weak in comparison to the level of performance this aircraft is capable of. Later Hawks rectified this situation by adding two or four machines guns. For this aircraft, both machine guns are mounted in the engine cowl and fire through the propeller arc. The disadvantage to this is that the machine guns' rate of fire is limited by the fact they're synchronized with the rotating propeller. However, with these guns nose-mounted, there is little need to adjust for convergence. Options in ammunition will allow the pilot to select the type best suited for their mission whether it be as an interceptor, ground target hunter or a stealthy pouncer.
 
 ==== 12.7 mm ammunition ====
-
-- '''Default:''' {{Annotation|T|M1 tracer}}{{-}}{{Annotation|Ball|M2 Omni-purpose}}{{-}}{{Annotation|I|M1 incendiary}}{{-}}{{Annotation|AP|M2 armour-piercing}}
-- '''Universal:''' {{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|T|M1 tracer}}{{-}}{{Annotation|I|M1 incendiary}}
-- '''Ground targets:''' {{Annotation|T|M1 tracer}}{{-}}{{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|AP|M2 armour-piercing}}
-- '''Tracers:''' {{Annotation|T|M1 tracer}}{{-}}{{Annotation|T|M1 tracer}}{{-}}{{Annotation|T|M1 tracer}}{{-}}{{Annotation|AP|M2 armour-piercing}}
-- '''Stealth:''' {{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|I|M1 incendiary}}{{-}}{{Annotation|AP|M2 armour-piercing}}
+* '''Default:''' {{Annotation|T|M1 tracer}}{{-}}{{Annotation|Ball|M2 Omni-purpose}}{{-}}{{Annotation|I|M1 incendiary}}{{-}}{{Annotation|AP|M2 armour-piercing}}
+* '''Universal:''' {{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|T|M1 tracer}}{{-}}{{Annotation|I|M1 incendiary}}
+* '''Ground targets:''' {{Annotation|T|M1 tracer}}{{-}}{{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|AP|M2 armour-piercing}}
+* '''Tracers:''' {{Annotation|T|M1 tracer}}{{-}}{{Annotation|T|M1 tracer}}{{-}}{{Annotation|T|M1 tracer}}{{-}}{{Annotation|AP|M2 armour-piercing}}
+* '''Stealth:''' {{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|I|M1 incendiary}}{{-}}{{Annotation|AP|M2 armour-piercing}}
 
 ==== 7.62 mm ammunition ====
-
-- '''Default:''' {{Annotation|T|Tracer}}{{-}}{{Annotation|Ball|Omni-purpose}}{{-}}{{Annotation|Ball|Omni-purpose}}{{-}}{{Annotation|Ball|Omni-purpose}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|I|Incendiary}}
-- '''Universal:''' {{Annotation|T|Tracer}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|I|Incendiary}}
-- '''Tracers:''' {{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|T|Tracer}}{{-}}{{Annotation|T|Tracer}}{{-}}{{Annotation|T|Tracer}}{{-}}{{Annotation|T|Tracer}}
-- '''Stealth:''' {{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|I|Incendiary}}{{-}}{{Annotation|I|Incendiary}}
+* '''Default:''' {{Annotation|T|Tracer}}{{-}}{{Annotation|Ball|Omni-purpose}}{{-}}{{Annotation|Ball|Omni-purpose}}{{-}}{{Annotation|Ball|Omni-purpose}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|I|Incendiary}}
+* '''Universal:''' {{Annotation|T|Tracer}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|I|Incendiary}}
+* '''Tracers:''' {{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|T|Tracer}}{{-}}{{Annotation|T|Tracer}}{{-}}{{Annotation|T|Tracer}}{{-}}{{Annotation|T|Tracer}}
+* '''Stealth:''' {{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|I|Incendiary}}{{-}}{{Annotation|I|Incendiary}}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 Rasmussen's P-36A is essentially identical to the [[P-36A]], so, energy retention lends this fighter to be a great zoomer, dropping in for a shot and then speeding back up to regain the energy advantage. With this aircraft having such a low stall speed; it makes a great fighter to practice Rope-a-dope energy depletion manoeuvres. This requires the P-36 pilot to bait another fighter into following them in a climb, as the attacker attempts to get guns on, the P-36 pilot can start to spiral climb which will cause the attacking aircraft to pull a tighter circle haemorrhaging their energy. If done correctly, the attacking fighter will stall out and be completely helpless as they begin to fall back to the ground allowing the P-36 to roll over or Split-S and take out the stalled fighter below.
@@ -176,25 +167,23 @@ In mixed battles, use your machine guns to kill open-topped SPAAs. The MGs are w
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- High climb rate, especially with war emergency power applied
-- Impressive roll and turn rate, highly efficient Immelman and split-S manoeuvres
-- Strong rudder, excels in wing-over and hammerhead stall manoeuvres
-- Slow stall speed, around 89 km/h (55 mph)
+* High climb rate, especially with war emergency power applied
+* Impressive roll and turn rate, highly efficient Immelman and split-S manoeuvres
+* Strong rudder, excels in wing-over and hammerhead stall manoeuvres
+* Slow stall speed, around 89 km/h (55 mph)
 
 '''Cons:'''
 
-- Armament is inadequate against bombers and other aircraft with rear-facing gunners
-- Standard Army Air Corps armament for the time, same as the [[P-26A-34 M2]] Peashooter
-- Lack of adequate armour renders engine, fuel tanks, oil coolers and virtually defenceless
-- Huge blind spot behind the pilot's seat (critical for simulator players)
+* Armament is inadequate against bombers and other aircraft with rear-facing gunners
+* Standard Army Air Corps armament for the time, same as the [[P-26A-34 M2]] Peashooter
+* Lack of adequate armour renders engine, fuel tanks, oil coolers and virtually defenceless
+* Huge blind spot behind the pilot's seat (critical for simulator players)
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The P-36 Hawk began its life at Curtiss Aeroplane Company as a design in the early 1930s. A private venture by Curtiss, the project was headed up by Donovan A. Berlin, a former Northrop aircraft company engineer who was the principal designer and incorporated design portions of early Northrop designs.<ref name="MilFac" /> The P-36, at this time known as the X-17Y, was a stretch from the biplane years by utilizing an all-metal low-wing monoplane with fabric-covered control surfaces. This aircraft also featured retractable landing gear, which utilized a design put forward by Boeing Aircraft Company and required royalties to be paid to Boeing for every aircraft in which this landing gear was installed.<ref name="JoeB" /><ref name="AviHis" /> Initial weapon load-outs included the standard 12.7 mm and 7.62 mm machine guns, both of which were mounted in the forward fuselage deck and fired through openings in the cowling, synchronized to fire through the propeller arc.<ref name="AviHis" />
@@ -206,41 +195,36 @@ As the P-36 fighters began to roll off the assembly line, they were shipped to U
 This specific aircraft was piloted by Philip M. Rasmussen during the attack on Pearl Harbour. He and three other pilots amidst the burning wreckage of other fighter and bomber aircraft on the tarmac, raced into battle to engage Japanese fighters and bombers. Rasmussen is documented to have shot down an [[A6M (Family)|A6M]] Zero before being forced to land due to extensive damage by his aircraft suffered during the Pearl Harbour battle.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=p-36a_rasmussen Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=p-36a_rasmussen Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|91duRbIoCPM|'''The Shooting Range #91''' - ''Pages of History'' section at 04:02 discusses the P-36.|zYqpwof85qo|'''Best Low Tier Premium Plane to buy - Rasmussen's P-36A Hawk''' - ''Krebs''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Analogues of other nations
-
-- Polikarpov [[I-180S]]
-- Mitsubishi [[A6M (Family)|A6M]] Zero
-- Nakajima [[Ki-43 (Family)|Ki-43]]
-- Reggiane [[Re.2000 serie 1|Re.2000]]
+* Polikarpov [[I-180S]]
+* Mitsubishi [[A6M (Family)|A6M]] Zero
+* Nakajima [[Ki-43 (Family)|Ki-43]]
+* Reggiane [[Re.2000 serie 1|Re.2000]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/86594-p-36-h-75/ Official data sheet - more details about the performance]
-- [[wt:en/news/680--en|[News] Second Lieutenant Philip M. Rasmussen]]
-- [https://www.militaryfactory.com/aircraft/detail.asp?aircraft_id=155 <nowiki>[Military Factory]</nowiki> Curtiss P-36 Hawk (Hawk 75 / Mohawk)]
-- [http://www.aviation-history.com/curtiss/p36.htm <nowiki>[Aviation History]</nowiki> The Curtiss P-36 Hawk]
-- [http://www.joebaugher.com/usaf_fighters/p36_1.html <nowiki>[Joe Baugher]</nowiki> Curtiss P-36A]
-- [http://www.wwiiaircraftperformance.org/P-36/P-36_Operation_and_Flight_Instruction.pdf Technical Order 01-25CB-1 - Handbook of Operation and Flight Instructions for the Models P-26A and P-26C Pursuit Airplanes]
+* [https://forum.warthunder.com/index.php?/topic/86594-p-36-h-75/ Official data sheet - more details about the performance]
+* [[wt:en/news/680--en|[News] Second Lieutenant Philip M. Rasmussen]]
+* [https://www.militaryfactory.com/aircraft/detail.asp?aircraft_id=155 <nowiki>[Military Factory]</nowiki> Curtiss P-36 Hawk (Hawk 75 / Mohawk)]
+* [http://www.aviation-history.com/curtiss/p36.htm <nowiki>[Aviation History]</nowiki> The Curtiss P-36 Hawk]
+* [http://www.joebaugher.com/usaf_fighters/p36_1.html <nowiki>[Joe Baugher]</nowiki> Curtiss P-36A]
+* [http://www.wwiiaircraftperformance.org/P-36/P-36_Operation_and_Flight_Instruction.pdf Technical Order 01-25CB-1 - Handbook of Operation and Flight Instructions for the Models P-26A and P-26C Pursuit Airplanes]
 
 === References ===
 <references>

@@ -4,9 +4,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' (SOMUA's 1935 S cavalry tank) is a rank {{Specs|rank}} French medium tank {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]]. As it was considered to be the best tank at its time, being very mobile, easy to maintain while having good combat characteristics. As WW2 struck, these were on the frontlines, hence the nickname [[wt:en/news/5175-development-somua-s-35-shield-of-the-republic-en|"Shield of The Republic"]]. This tank will surely feel like a breath of fresh air over its underpowered predecessors.
 
 The S.35 has the same turret design as on the Char [[B1 bis]], meaning that the penetration, reload and turret rotation speed is the same (But there is no "mail slot" turret ring). The S.35 contains a 3 man crew (Gunner/Commander, Driver and Radio operator) so a well placed frontal shot from HEAT or from a high-calibre gun will in majority of cases destroy you on the spot. The S.35 is best used when showing only its strong turret, exposing only one crew member at a time brings extra survivability. The S.35 is a tall and cumbersome tank at its battle rating, though it is relatively mobile with a 40 km/h top speed.
@@ -14,19 +12,18 @@ The S.35 has the same turret design as on the Char [[B1 bis]], meaning that the 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (engine vents, side skirts)
-- Cast homogeneous armour (hull, turret. cupola)
+* Rolled homogeneous armour (engine vents, side skirts)
+* Cast homogeneous armour (hull, turret. cupola)
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 47 mm (24°) ''Upper plate'' <br> 35 mm (cylindrical) ''Upper glacis'' <br> 40 mm (cylindrical) ''Lower glacis'' || 40 mm (15-25°) ''Top'' <br> 38 mm (17-21°) ''Top - Access panels'' <br> 40 ''Bottom'' <br> 40 + 20 mm ''Bottom - Side skirts'' || 35 mm (31°) ''Top'' <br> 25 mm ''Centre'' <br> 25 mm (25-29°) ''Bottom'' || 35 mm (cylindrical) ''Front glacis'' <br> 25 mm (4-9°) ''Centre and rear'' <br> 8 mm (13°) ''Engine vents''
+| Hull || 47 mm (24°) ''Upper plate'' <br> 35 mm (cylindrical) ''Upper glacis'' <br> 40 mm (cylindrical) ''Lower glacis'' || 40 mm (15-25°) ''Top'' <br> 38 mm (17-21°) ''Top - Access panels'' <br> 40 ''Bottom'' <br> 40 + 20 mm ''Bottom - Side skirts''  || 35 mm (31°) ''Top'' <br> 25 mm ''Centre'' <br> 25 mm (25-29°) ''Bottom'' || 35 mm (cylindrical) ''Front glacis'' <br> 25 mm (4-9°) ''Centre and rear'' <br> 8 mm (13°) ''Engine vents''
 |-
 | Turret || 56 mm ''Turret front'' <br> 45 mm ''Gun mantlet'' <br> 45 + 56 mm ''Machine gun port'' <br> 40 mm ''Turret ring'' || colspan="2" style="text-align:center" | 45 mm (20°) || 30 mm (24°) ''Front part'' <br> 30 mm ''Rear part''
 |-
@@ -35,18 +32,17 @@ The S.35 has the same turret design as on the Char [[B1 bis]], meaning that the 
 |}
 '''Notes:'''
 
-- Suspension wheels are 15 mm thick while tracks are 20 mm thick.
-- Belly armour is 20 mm thick.
-- Hull underside above the tracks is 10 mm thick.
-- Gun barrel is 15 mm thick.
+* Suspension wheels are 15 mm thick while tracks are 20 mm thick.
+* Belly armour is 20 mm thick.
+* Hull underside above the tracks is 10 mm thick.
+* Gun barrel is 15 mm thick.
 
 Armour is the {{PAGENAME}}'s main attribute as it is thick and provides good protection for its 3-man crew. Still, do not completely rely on it as there are many foes that can easily penetrate it at any range. Take every bounced shot as a "lucky roll" and get back into cover as quick as possible as the next shot could be your last. Armour this thick makes this tank very resilient to SPAA shots from all sides. An effective way to angle this tank is by facing your enemy at 45°, showing them your right-hand track: this sides minimises shot traps (on the other side, a flat 40 mm plate is conveniently placed at the right angle to make this tactic as ineffective as possible). As for top armour, this tank is pretty much immune to strafing from anything ranging from rifle-calibre to HMG rounds, which are common aircraft armaments at this BR.
 
-If you see a {{PAGENAME}}, aim at the connection of the lower/middle plate with the upper plate which meets at 90 degrees, despite being curved, creating a weak spot that often knocks them out if penetrated. If not then aim at the driver's optics to knock out both driver and gunner. Flank if possible and make sure to be quite close to this tank's side as its armour is thick in this general area. The S.35 cannot fight more than one tank at a time, so if you can surround the {{PAGENAME}}, it will fall quickly due to poor reload rate and turret turning speed.
+If you see a {{PAGENAME}}, aim at the connection of the lower/middle plate with the upper plate which meets at 90 degrees, despite being curved, creating a weak spot that often knocks them out if penetrated. If not then aim at the driver's optics to knock out both driver and  gunner. Flank if possible and make sure to be quite close to this tank's side as its armour is thick in this general area. The S.35 cannot fight more than one tank at a time, so if you can surround the {{PAGENAME}}, it will fall quickly due to poor reload rate and turret turning speed.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp= 294|rbMinHp= 168}}
@@ -60,9 +56,7 @@ Forward motion of the {{PAGENAME}} is great, turning and reverse are awful. It h
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|SA35 L/32 (47 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -86,8 +80,8 @@ While being subpar to later pre-war tanks, this vehicle's main armament provides
 ==== Ammunition ====
 The {{PAGENAME}} has a limited choice of ammunition:
 
-- '''Mle1935''': APC; a solid shot with average penetration and no explosive filler. Make sure to target modules and crew positions to maximise the damage. Knowledge of enemy vehicle layouts is essential with this type of ammunition.
-- '''Mle1935 HE''': HE; useful for destroying open and very lightly armoured vehicles.
+* '''Mle1935''': APC; a solid shot with average penetration and no explosive filler. Make sure to target modules and crew positions to maximise the damage. Knowledge of enemy vehicle layouts is essential with this type of ammunition.
+* '''Mle1935 HE''': HE; useful for destroying open and very lightly armoured vehicles.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="8" | Penetration statistics
@@ -125,9 +119,7 @@ The {{PAGENAME}} has a limited choice of ammunition:
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -142,13 +134,11 @@ The {{PAGENAME}} has a limited choice of ammunition:
 |}
 '''Note''':
 
-- As they are modeled by sets of 3, shells disappear from the rack only after you fire all shells in the set.
+* As they are modeled by sets of 3, shells disappear from the rack only after you fire all shells in the set.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|MAC 31 (7.5 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -163,9 +153,7 @@ The {{PAGENAME}} has a limited choice of ammunition:
 The small calibre of the MAC 31 machine gun makes it largely ineffective against all armoured vehicles but the ones with an open compartment. It still can be used to ping targets as a rangefinding help or to mow down minor obstacles blocking your line of sight.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 Your best option is to play in a supportive role, stay behind a well armoured vehicle and land shots on the enemy from a medium distance. Do not try to rush in ahead of the team or go solo, as 7/10 times you will be destroyed by a counter-flanking player. The S.35 is able to hold its ground if you create a corridor for people to come at you. If you are able to flank without being seen, just remember to check behind you every now and then.
 
 All light tanks are to be feared as they can out-manoeuvre this cumbersome tank quite easily and most enemies with a bit of luck will eventually hit one of this tank's weak spots, the only thing to fear is facing a good bit of armour. With its low post-penetration damage, tank with many crew members are also hard to take down.
@@ -173,34 +161,31 @@ All light tanks are to be feared as they can out-manoeuvre this cumbersome tank 
 In a defensive role, it can be played in a hull down position on a hill. This lets you take full advantage of the gun's -18° of gun depression and means that only exceptionally well-placed shots will be able to harm you.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Over all thick armour for rank I
-  ** ~35-40 mm thick on all sides + a bit sloped gives it a chance to survive a hit or two
-  ** Capable of very noticeable angling due to thick sides
-  \*\* Turret is quite thick on all sides
-- One of the first French tanks to be able to fight on its own at close range
-- Shoulder stabilizer makes stop-and-shoot tactics very effective
-- Good acceleration in AB, with an acceptable turn speed when driving At max speed
-- Has 3 crew members, granting better survivability than other 2-man French vehicles
+* Over all thick armour for rank I
+** ~35-40 mm thick on all sides + a bit sloped gives it a chance to survive a hit or two
+** Capable of very noticeable angling due to thick sides
+** Turret is quite thick on all sides
+* One of the first French tanks to be able to fight on its own at close range
+* Shoulder stabilizer makes stop-and-shoot tactics very effective
+* Good acceleration in AB, with an acceptable turn speed when driving At max speed
+* Has 3 crew members, granting better survivability than other 2-man French vehicles
 
 '''Cons:'''
 
-- Big cupola is an obvious shot trap
-- Angling can be defeated by knowing its shot traps: even a well-angled S.35 shows flat armour
-- Gun has poor penetration power from long range
-- Limited ammunition choice
-- Mobility is an issue:
-  ** Long and narrow chassis makes for difficult turning
-  ** Reverse speed feels slow
+* Big cupola is an obvious shot trap
+* Angling can be defeated by knowing its shot traps: even a well-angled S.35 shows flat armour
+* Gun has poor penetration power from long range
+* Limited ammunition choice
+* Mobility is an issue:
+** Long and narrow chassis makes for difficult turning
+** Reverse speed feels slow
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The SOMUA S.35 was developed in 1934 in response to demand for a cavalry tank that could withstand direct hits from contemporary anti-tank weapons. SOMUA was the company assigned to the challenge, and by spring 1935 they completed construction of the first prototype, designated the AC3.
 
 Unfortunately, early testing revealed some flaws with the first prototype, which SOMUA subsequently fixed and released in a pre-production batch of four vehicles (called the AC4). This first batch demonstrated satisfactory performance. In 1936, the AC4 modification of the vehicle was adopted as the standard medium tank for the cavalry units of the French army. Shortly thereafter, it received the official designation of SOMUA S.35.
@@ -220,12 +205,10 @@ The S.35 was eventually decommissioned from active service at the end of hostili
 ''- From [[wt:en/news/5175-development-somua-s-35-shield-of-the-republic-en|Devblog]]''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=fr_somua_s35 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=fr_somua_s35 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|4_cJ1CpEatw|'''Best gun depression''' discusses the {{PAGENAME}} at 3:01 - ''War Thunder Official Channel''|vwE8wSgoDwY|'''SOMUA S.35, French, Tier-1, Medium Tank''' - ''Angry Nerd Gaming''|HreZgJwCMzM|'''The Shooting Range #79''' - ''Pages of History'' section at 05:05 discusses the {{PAGENAME}}.}}
@@ -233,18 +216,17 @@ The S.35 was eventually decommissioned from active service at the end of hostili
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/5175-development-somua-s-35-shield-of-the-republic-en|[Devblog] SOMUA S.35 - Shield of The Republic]]
-- [[wikipedia:SOMUA_S35|[Wikipedia] SOMUA S35]]
-- [https://tanks-encyclopedia.com/ww2/france/Somua_S35.php <nowiki>[Tanks Encyclopedia]</nowiki> SOMUA S35]
+* [[wt:en/news/5175-development-somua-s-35-shield-of-the-republic-en|[Devblog] SOMUA S.35 - Shield of The Republic]]
+* [[wikipedia:SOMUA_S35|[Wikipedia] SOMUA S35]]
+* [https://tanks-encyclopedia.com/ww2/france/Somua_S35.php <nowiki>[Tanks Encyclopedia]</nowiki> SOMUA S35]
 
 {{TankManufacturer SOMUA}}
 {{France medium tanks}}

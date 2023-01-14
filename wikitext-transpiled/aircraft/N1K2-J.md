@@ -5,21 +5,17 @@
 }}
 {{Specs-Card
 |code=n1k2_j
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.jpg}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 [[File:FighterImage_N1K2 cockpit.jpg|thumbnail|right|Cockpit features good all-round visibility. The quite high mounted gun-sight allows for good sight in deflection shots, if a bit of rudder and aileron are applied.]]
 The N1K2-J is a versatile plane that has its great acceleration and rate of climb as the main advantage. It lacks the impressive low-speed manoeuvrability of its preceding plane in the Japanese research tree, but it can still turn against most of its fighter opposition and win the engagement. The N1K2-J's battle rating presents the potential challenge of flying against fighter jets, against which N1K pilots will have to use their high sustained rate of climb, not to be left low and vulnerable against faster enemies, as well as to use their turning ability far superior to that of the average jet.
 
@@ -48,7 +44,7 @@ The N1K2-J is a versatile plane that has its great acceleration and rate of clim
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -79,12 +75,11 @@ The N1K2-J is a versatile plane that has its great acceleration and rate of clim
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 70 mm Bulletproof glass - Armoured windscreen
-- 12 mm Steel plate in pilot's seat
-- Engine fire system (EFS)
+* 70 mm Bulletproof glass - Armoured windscreen
+* 12 mm Steel plate in pilot's seat
+* Engine fire system (EFS)
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -95,41 +90,35 @@ Top speed and acceleration is an issue with the stock aircraft, so flight perfor
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Type 99 Model 2 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 20 mm Type 99 Model 2 cannons, wing-mounted (200 + 250 rpg each wing = 900 total)
+* 4 x 20 mm Type 99 Model 2 cannons, wing-mounted (200 + 250 rpg each wing = 900 total)
 
 The Type 99 Model 2 cannons are very middle-of-the-road weapons that the pilot should be quite accustomed to by the time they reach the ''Shiden-Kai''. They are not outstanding at anything but not bad at anything either, allowing it to fill most niches accordingly. However, the cannons on the ''Shiden-Kai'' are noteworthy for being armed with a ludicrous 900 rounds of ammunition, holding some of the most rounds of any cannon-armed single-engine fighter in the game, being only surpassed by Japan's own [[J6K1]].
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|Navy Type 97 Number 6 (60 kg)|Navy Type 98 Number 25 (250 kg)}}
 {{main|Type 3 No.1 Mod.28 Mk.1|Type 3 No.6 Mod.27 Mk.1|Type 5 No.1 Mod.9|Type 5 No.6 Mod.9}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 60 kg Navy Type 97 Number 6 bombs (120 kg total)
-- 2 x 250 kg Navy Type 98 Number 25 bombs (500 kg total)
-- 2 x Type 3 No.1 Mod.28 Mk.1 rockets
-- 2 x Type 5 No.1 Mod.9 rockets
-- 2 x Type 3 No.6 Mod.27 Mk.1 rockets
-- 2 x Type 5 No.6 Mod.9 rockets
+* Without load
+* 2 x 60 kg Navy Type 97 Number 6 bombs (120 kg total)
+* 2 x 250 kg Navy Type 98 Number 25 bombs (500 kg total)
+* 2 x Type 3 No.1 Mod.28 Mk.1 rockets
+* 2 x Type 5 No.1 Mod.9 rockets
+* 2 x Type 3 No.6 Mod.27 Mk.1 rockets
+* 2 x Type 5 No.6 Mod.9 rockets
 
 The N1K2-J can carry a number of additional loadouts under the wings. The rockets were designed for anti-air usage versus bombers, however they are quite inaccurate and only one salvo can be fired in RB/SB. Make sure to select a detonation range before spawning in. Feel free to experiment, 300-700 m are common values. The bigger 250 kg bombs are useful in long enduring games, where few players are left and victory is determined by the last ground units. Ignore the 60 kg, your cannons will do more damage in the long run.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The N1K2-J is a very tricky aircraft to use. It can face early jet fighters such as the [[F-80A-5]], [[Yak-15]]/[[Yak-17|17]], [[He 162 A-2|He 162]], [[J21RA|J]]/[[A21RB|A21R]], and in Arcade, the [[F-84B-26]]. These jet aircraft hold a hefty speed advantage over the ''Shiden-Kai'', but typically have very poor manoeuvrability, meaning the N1K pilot can abuse its excellent handling at medium speeds and shred the previously mentioned jets if their pilots are foolish enough to try and turn-fight. The one exception to this is the Yak-15, which retains the turning abilities of its airframe; the [[Yak-3]]. However, the Yak-15 suffers from a relatively low top speed and climb rate for a jet, along with sub-par vertical energy retention. Above all those, its ammunition pool is abysmal at only 120 rounds total, meaning the N1K2 pilot could potentially win an engagement just by remaining difficult to hit.
 
 Although it can fight admirably against jets, the N1K2-J will find itself coming up short against many of the other nation's top tier superprops. It cannot keep up with the [[P-51H-5-NA|P-51H]], [[F4U-4B]], [[F8F-1B|F8F]], [[I-225]], [[La-9]], [[Tempest (Family)|Tempests]], [[Spitfire (Family)|Griffon Spitfires]], [[G.56]], [[Bf 109 (Family)|late Bf 109s]], or [[Fw 190 (Family)|Fw 190 D's]] of its tier. Fortunately, most of the previously mentioned aircraft cannot turn with the N1K2, so the ''Shiden-Kai'' can use its superb mid-speed manoeuvrability to turn circles around its opponents. The main exception to this is the uncommon G.56, which is the closest thing the N1K2 has to a hard counter. It can turn with it, outspeed it, out-dive it, beat it in an energy fight and shred it with the triad of 20 mm MG 151s, so it is highly recommended to either avoid the G.56 or take it out while it's preoccupied with a teammate.
@@ -154,38 +143,35 @@ The N1K2-J can take on a relatively new role for Japanese fighters; a fighter/bo
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Flight Performance
-  ** Reasonable manoeuvrability at medium speeds (300~500 km/h)
-  ** Great energy retention
-  ** Solid acceleration once upgraded
-  ** Combat flaps are efficient while in dogfighting
-  ** Decent rate of climb
-  ** Relatively good diving characteristics for a Japanese aircraft
-- Armament
-  ** Large amount of ammunition (200~250 rpg with 900 rounds in total)
-  ** Cannons themselves are reasonable in all aspects, and take far longer to jam than their contemporaries
+* Flight Performance
+** Reasonable manoeuvrability at medium speeds (300~500 km/h)
+** Great energy retention
+** Solid acceleration once upgraded
+** Combat flaps are efficient while in dogfighting
+** Decent rate of climb
+** Relatively good diving characteristics for a Japanese aircraft
+* Armament
+** Large amount of ammunition (200~250 rpg with 900 rounds in total)
+** Cannons themselves are reasonable in all aspects, and take far longer to jam than their contemporaries
 
 '''Cons:'''
 
-- Flight Performance
-  ** Mediocre roll rate
-  ** Severely stiffens at higher speeds
-  ** Can be outmanoeuvred easily by the fighters at its tier if not used correctly
-  ** Unless approached correctly, completely outclassed by the Spitfire Mk. IX and F8Fs
-- Stock grind can be outright painful
-  \*\* Weak stock belts, which can only be unlocked at tier III
-- Can catch on fire easily, and often gets destroyed in the process
-- Often faces jets
+* Flight Performance
+** Mediocre roll rate
+** Severely stiffens at higher speeds
+** Can be outmanoeuvred easily by the fighters at its tier if not used correctly
+** Unless approached correctly, completely outclassed by the Spitfire Mk. IX and F8Fs
+* Stock grind can be outright painful
+** Weak stock belts, which can only be unlocked at tier III
+* Can catch on fire easily, and often gets destroyed in the process
+* Often faces jets
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 {{main|N1K (Family)|l1=History of the N1K}}
 
 {{break}}
@@ -215,33 +201,30 @@ Because its centre of gravity was towards the plane's rear, the N1K2-J was somew
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=n1k2_j Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=n1k2_j Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;;Related Development
 
-- [[N1K1]] - (Kyofu Model 11; Base hydroplane model)
-- [[N1K1-Ja]] - (Shiden Model 11A; N1K1-J with 7.7 mm MGs removed from the fuselage and 4 x 20 mm in the wings)
-- [[N1K2-J]] - (Shiden Kai Model 21; Redesigned wings and fuselage)
-- [[N1K2-Ja]] - (Shiden Kai Model 21A; More powerful engine, larger prop)
+* [[N1K1]] - (Kyofu Model 11; Base hydroplane model)
+* [[N1K1-Ja]] - (Shiden Model 11A; N1K1-J with 7.7 mm MGs removed from the fuselage and 4 x 20 mm in the wings)
+* [[N1K2-J]] - (Shiden Kai Model 21; Redesigned wings and fuselage)
+* [[N1K2-Ja]] - (Shiden Kai Model 21A; More powerful engine, larger prop)
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/285073-kawanishi-n1k2-j/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/285073-kawanishi-n1k2-j/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Kawanishi}}
 {{Japan fighters}}

@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} German strike aircraft {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]]. The Panavia 200 (PA-200) Tornado is a two-seat, twin-engine, swing-wing, multi-role combat aircraft built jointly by Germany, the United Kingdom and Italy. The version in game is the Tornado Interdiction/Strike or IDS and is intended as a low-flying fighter bomber armed with precision weapons.
 
 Its first combat missions were in the second Gulf War by the British, Italian and Saudi Arabian air forces. This was later followed by missions in the Yugoslavian and Kosovo wars, in which the Bundeswehr also participated for the first time. German Tornados also flew reconnaissance missions as part of the ISAF mission and in northern Iraq.
@@ -19,14 +17,12 @@ Its first combat missions were in the second Gulf War by the British, Italian an
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at \_,**_ m)
+! colspan="2" | Max speed<br>(km/h at _,___ m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -35,10 +31,10 @@ Its first combat missions were in the second Gulf War by the British, Italian an
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| _** || **\_ || rowspan="2" | {{Specs|ceiling}} || **._ || \_\_._ || **.\_ || **.\_ || rowspan="2" | **_
+| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
 |-
 ! Upgraded
-| _** || **\_ || **._ || \_\_._ || **.\_ || **.\_
+| ___ || ___ || __._ || __._ || __._ || __._
 |-
 |}
 
@@ -49,7 +45,7 @@ Its first combat missions were in the second Gulf War by the British, Italian an
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || ✓ || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || X     <!-- ✓ -->
 |-
 |}
 
@@ -64,10 +60,10 @@ Its first combat missions were in the second Gulf War by the British, Italian an
 ! Combat !! Take-off !! Landing !! + !! -
 |-
 ! Min sweep
-| 972 || rowspan="2" | 520 <!-- {{Specs|destruction|gear}} --> || 972 || 552 || 440 || ~** || ~**
+| 972 || rowspan="2" | 520 <!-- {{Specs|destruction|gear}} --> || 972 || 552 || 440 || ~__ || ~__
 |-
 ! Max sweep
-| 1,555 || N/A || N/A || N/A || ~** || ~**
+| 1,555 || N/A || N/A || N/A || ~__ || ~__
 |-
 |}
 
@@ -77,7 +73,7 @@ Its first combat missions were in the second Gulf War by the British, Italian an
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < **_ || < _** || < \_\_\_ || N/A
+| < ___ || < ___ || < ___ || N/A
 |-
 |}
 
@@ -102,13 +98,13 @@ Its first combat missions were in the second Gulf War by the British, Italian an
 !53m fuel
 !drop tanks add +24m fuel
 |-
-| 2,200 kg || colspan="2" | \_\_\_
-| 1,527kg
-16,027kg
-| 1,914kg
-16,414kg
-| 2,871kg
-17,371kg
+| 2,200 kg || colspan="2" | ___
+| 1,527kg 
+16,027kg 
+| 1,914kg 
+16,414kg 
+| 2,871kg 
+17,371kg 
 |4,307g
 18,807kg
 |5,090kg
@@ -119,19 +115,19 @@ Its first combat missions were in the second Gulf War by the British, Italian an
 ! colspan="7" | Thrust to weight ratio @ 0 m (WEP)
 |-
 ! Condition || 100% || WEP
-! 15m fuel || 20m fuel || 30m fuel
+! 15m fuel || 20m fuel || 30m fuel 
 !45m fuel
 !53m fuel
 !+24m fuel|| MGW
 |-
 | ''Stationary'' || 3,962 kgf || 7,588 kgf
-| 0.95 || 0.92 || 0.87
+| 0.95 || 0.92 || 0.87 
 |0.80
 |0.77
 |0.66||0.58
 |-
 | ''Optimal'' || 4,291 kgf<br>(1,190 km/h) || 8,478 kgf<br>(1390 km/h)
-| 1.06 || 1.03 || 0.98
+| 1.06 || 1.03 || 0.98 
 |0.90
 |0.87
 |0.77|| 0.65
@@ -140,9 +136,7 @@ Its first combat missions were in the second Gulf War by the British, Italian an
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 The Tornado has no armor to speak of and is relatively large, making it an easy target for enemy guns. Almost any hit to the center part of the Tornado will leave its speed crippled, while any hit to the wings and tail will most likely cripple flight performance, if not downright disabling the aircraft. Although it could in theory make its way back to base even with only one engine, any enemy attention during this timespan will most likely get you sent back to the hangar. It also has 2 pilots, which means that you can continue flying in the unlikely case of only 1 pilot losing consciousness. To sum it up: It has better surivabilty than many aircraft thanks to redundant systems, but it's by no means an Su-25.
 
 === Modifications and economy ===
@@ -161,31 +155,27 @@ The Tornado has no armor to speak of and is relatively large, making it an easy 
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Mauser BK27 (27 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 27 mm Mauser BK27 cannons, chin-mounted (180 rpg = 360 total)
+* 2 x 27 mm Mauser BK27 cannons, chin-mounted (180 rpg = 360 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|LDGP Mk 83 (1,000 lb)|GBU-16 Paveway II (1,092 lb)|GBU-24 Paveway III (2,000 lb)|AIM-9L Sidewinder}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- 2 x 1,500 l drop tanks
-- 56 x large calibre countermeasures
-- 2 x AIM-9L Sidewinder missiles
-- 7 x 1,000 lb LDGP Mk 83 bombs (7,000 lb total)
-- 12 x 1,000 lb LDGP Mk 83 bombs (12,000 lb total)
-- 4 x 1,092 lb GBU-16 Paveway II bombs (4,368 lb total)
-- 1 x 2,000 lb GBU-24 Paveway III bomb (2,000 lb total)
+* 2 x 1,500 l drop tanks
+* 56 x large calibre countermeasures
+* 2 x AIM-9L Sidewinder missiles
+* 7 x 1,000 lb LDGP Mk 83 bombs (7,000 lb total)
+* 12 x 1,000 lb LDGP Mk 83 bombs (12,000 lb total)
+* 4 x 1,092 lb GBU-16 Paveway II bombs (4,368 lb total)
+* 1 x 2,000 lb GBU-24 Paveway III bomb (2,000 lb total)
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -194,10 +184,10 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 | rowspan="8" width="25%" | <div class="ttx-image">[[File:Hardpoints_Tornado_GR.1.png]]</div>
 |-
 ! 1,000 lb LDGP Mk 83 bombs
-| || || 1, 2 || 1, 2<sup>‡</sup> || 1, 2<sup>‡</sup> _ || 1<sup>‡</sup> || 1, 2<sup>‡</sup> || 1, 2<sup>‡</sup> || 1, 2 || ||
+| || || 1, 2 || 1, 2<sup>‡</sup> || 1, 2<sup>‡</sup> * || 1<sup>‡</sup> || 1, 2<sup>‡</sup> || 1, 2<sup>‡</sup> || 1, 2 || ||
 |-
 ! 1,092 lb GBU-16 Paveway II bombs
-| || || 1<sup>†</sup> || 1_<sup>†</sup> || || 1<sup>†</sup><sup>‡</sup> || || || 1<sup>†</sup> || ||
+| || || 1<sup>†</sup> || 1*<sup>†</sup> || || 1<sup>†</sup><sup>‡</sup> || || || 1<sup>†</sup> || ||
 |-
 ! 2,000 lb GBU-24 Paveway III bombs
 | || || || 1*<sup>†</sup> || || || || || || ||
@@ -218,32 +208,26 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 There are multiple ways to use the Tornado in ARB, one tactic is to stick to the team and try and give support with your AIM-9Ls on your way to the enemy bases and/or ground targets. This gives you the advantage of team cover and a bit of safety, although you will undoubtably be in the midst of battle once enemy interceptors and fighters reach your team. The other tactic would be to go full throttle directly to the enemy bases while keeping extremely low to the ground to decrease your chances of being spotted by radar and line-of-sight. While this leaves you mostly alone and isolated from the possible support of your team, you will be able to take a more direct route to your main target, meaning you'll be able to evade any slower or unsuspecting enemies. Taking an active role in air-to-air combat is not advised, as the Tornado's flight performance is not suited to it and you'll most likely be shot down very quickly. In the case of 1-to-1 confrontation the best option is to simply hope you are faster and run away, against capable fighters like the MiG-23, F-16, MiG-29, Viggen, F-14 and Mirage2000 you don't stand a chance, unless the enemy pilot is extremely unexperienced.
 
-=== Pros and cons ===
-
+===  Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 '''Pros:'''
 
-- High acceleration
-- Laser-guided munitions give it a good ground attack capability
+* High acceleration
+* Laser-guided munitions give it a good ground attack capability 
 
 '''Cons:'''
 
-- Bombs severely limit its maximum speed to about Mach 1.05
-- Very sluggish and slow turning rate, is unable to effectively manoeuvre
-- Only has access to 2 x AIM-9L for air-to-air purposes
-- No search radar
-- Tracking radar is limited to 5°x6° and has 2 km effective range
+* Bombs severely limit its maximum speed to about Mach 1.05
+* Very sluggish and slow turning rate, is unable to effectively manoeuvre  
+* Only has access to 2 x AIM-9L for air-to-air purposes 
+* No search radar 
+* Tracking radar is limited to 5°x6° and has 2 km effective range 
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 In 1967, the Netherlands, Belgium, Canada, Italy and the Federal Republic of Germany joined together to form the F-104 Replacement Group to begin joint planning for a Multi-Role Aircraft 75 (MRA-75) as a successor to the Starfighter.
 
 In the UK, there was a need for a successor to the Canberra at the same time. Initially, work was done here on a national development, the BAC TSR.2. After this project was discontinued in 1965, development of a joint swing-wing fighter began with France under the Anglo-French Variable Geometry (AFVG) program. In addition, British forces were looking at introducing the General Dynamics F-111. However, France withdrew from the AFVG project in June 1967, and about six months later the British gave up their option to buy the F-111.
@@ -260,7 +244,7 @@ In 1969, the invitation to tender was issued for the development of the engine. 
 
 Development began on July 20, 1970, after the United Kingdom had prevailed with the concept of the two-seat twin-engine aircraft; based on experience with the F-104 and the Fiat G.91 and for cost reasons, Germany had originally called for only one pilot and only one engine. The envisaged number of aircraft declined from 1,500 (GB: 300, D: 550, I: 200, others: 600) in 1968, including the British fighter version, to 809 (GB: 385, D: 324, I: 100) in 1972. Overall, delivery figures over the entire production and service period totaled: GB: 402, D: 357, I: 100. Production of the assemblies proceeded according to a division of labor. The cockpit and tail sections as well as the vertical stabilizer were manufactured by BAC (later BAE Systems), MBB (later DASA and EADS) produced the center fuselage section and the air intakes, and Fiat (later Aeritalia and Alenia Aeronautica) produced the wings with the high-lift aids. Final assembly took place from 1973 at three sites in Warton (Lancashire, UK), Manching (Germany) and Turin (Italy).
 
-The maiden flight took place in Manching, Germany on August 14, 1974, and in 1976 the aircraft, until then designated MRCA, was given the name Tornado.
+The maiden flight took place in Manching, Germany on August 14, 1974, and in 1976 the aircraft, until then designated MRCA, was given the name Tornado. 
 
 Series production began in 1979. In 1980, the first Tornado was delivered to the Tri-National Tornado Training Establishment (TTTE) at Cottesmore for flying crew training. Equipment for operational units in the United Kingdom and Germany began in 1982, followed by Italy in 1984 and Saudi Arabia, the sole export customer, in 1986.
 
@@ -271,31 +255,26 @@ From 1990 to 1991, the German Electronic Combat and Reconnaissance (ECR) variant
 In 1995, 339 Tornado fighter aircraft were in service with the Bundeswehr (Air Force and German Navy). Production of the Tornados then ended in 1998, after a total of 992 had been produced.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-
 ''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[Tornado (Family)|Related development]]
 
-- [[Tornado GR.1]]
-- [[Tornado IDS (1995) (Italy)]]
+* [[Tornado GR.1]]
+* [[Tornado IDS (1995) (Italy)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{Germany jet aircraft}}

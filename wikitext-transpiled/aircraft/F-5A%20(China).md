@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese jet fighter {{Battle-rating}}. It was introduced in [[Update "Ixwa Strike"]].
 
 Designed from the N-156 prototype of Northrop Corporation (now Northrop Grumman), F-5A is the first-comer of the long-lasting family of F-5 series lightweight fighter; which is still widely used by various military powers throughout the planet with ROCAF (currently F-5E/F Tiger II) being the largest operator among them. In-game, the F-5A is a highly versatile aircraft courtesy of its many loadouts. In a relatively clean configuration with only a pair of AIM-9P Sidewinders, it serves as a wonderfully agile dogfighter that can hold its own against much larger and heavier opponents. It can also be loaded up with a deceptively large amount and variety of ordnance for ground attacking. Pilots valuing pleasant handling characteristics and lethal weaponry can enjoy the F-5A as worthy capstone for the ROCAF fighter line.
@@ -19,9 +17,7 @@ Designed from the N-156 prototype of Northrop Corporation (now Northrop Grumman)
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 Being a lightweight supersonic jet fighter, the F-5A is a really manoeuvrable aircraft: the aerodynamic design and the structure of this fighter can sustain high-G manoeuvres even around 1,000 km/h at around 11 G of overloading without losing much energy. Try to stay above 800 km/h, if you go below that your speed starts dropping rapidly. You don't really have to care about ripping your wings. At lower speeds, the F-5A stand amongst the best jets in terms of manoeuvrability. The angle of attack in a turn stays really low, as it does not have delta wings and is really light. However, the aircraft does not have a high top speed and the acceleration is subpar compared to same-tier jets due to the limitations on the J85 engines.
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -49,7 +45,7 @@ Being a lightweight supersonic jet fighter, the F-5A is a really manoeuvrable ai
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || X || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -115,9 +111,7 @@ Being a lightweight supersonic jet fighter, the F-5A is a really manoeuvrable ai
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 There is no armour at all on the F-5A. As such, all of the modules, control surfaces, and the pilot are exposed to any projectiles that connect.
 
 The F-5A has two self-sealing fuel tank located in the rear fuselage right besides the engine. While this minimizes fuel strikes to a small portion of the plane, the issue comes in that the fuel tanks are overlapping each other closely. A cannon round or two fired in a volley by an enemy can easily strike both fuel tanks at the same time, leading to both tanks leaking fuels, or worse case both tanks catching on fire which would severely hamper the F-5A's survival chances.
@@ -139,38 +133,35 @@ The research priority of the bombs is up to the user's preference and ability to
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 2 x 20 mm M39A2 cannons, nose-mounted (280 rpg = 560 total)
-  ** 2 x 20 mm M39A2 cannons + 60 x countermeasures
+* A choice between two presets:
+** 2 x 20 mm M39A2 cannons, nose-mounted (280 rpg = 560 total)
+** 2 x 20 mm M39A2 cannons + 60 x countermeasures
 
-The F-5 can make short work of enemy jet fighters thanks to its fairly accurate cannons, the generous amount of rounds and the directional controllability of the aircraft. The two nose-mounted autocannons are not as fast-firing as many of the top-rank vehicles like the [[M61 (20 mm)|M61 Vulcan]] on Phantoms or the [[GSh-23L_(23_mm)|GSh-23L]] on MiG-21s. However, the M39A2 cannon shells are of similar nature to the M61, so the same effect on enemy targets can be expected if the shots land onto target. One benefit of the lower rate of fire is the longer time of firing available to a F-5A pilot. So if the pilot aims carefully, the F-5A can deliver devastating effects with their 20 mm M39A2 for a longer period of time.
+The F-5 can make short work of enemy jet fighters thanks to its fairly accurate cannons, the generous amount of rounds and the directional controllability of the aircraft. The two nose-mounted autocannons  are not as fast-firing as many of the top-rank vehicles like the [[M61 (20 mm)|M61 Vulcan]] on Phantoms or the [[GSh-23L_(23_mm)|GSh-23L]] on MiG-21s. However, the M39A2 cannon shells are of similar nature to the M61, so the same effect on enemy targets can be expected if the shots land onto target. One benefit of the lower rate of fire is the longer time of firing available to a F-5A pilot. So if the pilot aims carefully, the F-5A can deliver devastating effects with their 20 mm M39A2 for a longer period of time.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
 {{main|AGM-12B Bullpup|AIM-9P Sidewinder|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|BLU-1 incendiary}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x AIM-9P Sidewinder missiles
-- 18 x 250 lb LDGP Mk 81 bombs (4,500 lb total)
-- 5 x 500 lb LDGP Mk 82 bombs (2,500 lb total)
-- 5 x 750 lb M117 cone 45 bombs (3,750 lb total)
-- 3 x 1,000 lb LDGP Mk 83 bombs (3,000 lb total)
-- 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
-- 76 x FFAR Mighty Mouse rockets
-- 8 x Zuni Mk32 Mod 0 ATAP rockets
-- 4 x AGM-12B Bullpup missiles
-- 5 x BLU-1 incendiary bombs
+* Without load
+* 2 x AIM-9P Sidewinder missiles
+* 18 x 250 lb LDGP Mk 81 bombs (4,500 lb total)
+* 5 x 500 lb LDGP Mk 82 bombs (2,500 lb total)
+* 5 x 750 lb M117 cone 45 bombs (3,750 lb total)
+* 3 x 1,000 lb LDGP Mk 83 bombs (3,000 lb total)
+* 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
+* 76 x FFAR Mighty Mouse rockets
+* 8 x Zuni Mk32 Mod 0 ATAP rockets
+* 4 x AGM-12B Bullpup missiles
+* 5 x BLU-1 incendiary bombs
 
 The F-5A has a bewildering array of loadouts, but the vast majority are dedicated to ground attack. Once AIM-9P missiles are unlocked, your attack capability is vastly increased and F-5A becomes an effective dogfighter provided it is not carrying too much ordnance.
 
@@ -215,12 +206,11 @@ For a pure air-to-air role, the 2x AIM-9P loadout is the best, as the F-5A canno
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 F-5A was designed to be a lightweight fighter at the first place, so one thing players may find is the better manoeuvrability over most jets at the same tier, also another traits of this aircraft is its directional controllability (that is, the nose points to whether your mouse pointed at without much corrections); but you will also suffer from a major drawback of it- the subpar thrust of the pair of J85 on the it, which provides lower-than-average acceleration to fighters of the same tier, unless necessary or 1-on-1 battles, DO NOT have the airspeed lower than 800kph which the speed drops even significantly.
 
-One way to cope with the lack of acceleration is to use the directional controllability to bait enemies during head-on, being one of the smallest size jet at 11.0, players can dodge devastating cannons with relatively ease and use that manoeuvrability to turn back on the enemy; or trick their shots then immediately point the nose back onto the enemy during head-on albeit risky. Another safer option is pick those fighters with lower energy and make quick and short work of them with those pair of M39A2 cannons; until players unlock AIM-9P with exceptional accuracy and long range; with missiles, try to keep the target at around 2km where the missiles can track with more accuracy but keep in mind that you only have 2 chances as F-5A has no underwing pylon for AAMs. Do remember to check six for any surprise attacks from the enemies, RWR and countermeasures certainly improved its survivability at top tier.
+One way to cope with the lack of acceleration is to use the directional controllability to bait enemies during head-on, being one of the smallest size jet at 11.0, players can dodge devastating cannons with relatively ease and use that manoeuvrability to turn back on the enemy; or trick their shots then immediately point the nose back onto the enemy during head-on albeit risky.  Another safer option is pick those fighters with lower energy and make quick and short work of them with those pair of M39A2 cannons; until players unlock AIM-9P with exceptional accuracy and long range; with missiles, try to keep the target at around 2km where the missiles can track with more accuracy but keep in mind that you only have 2 chances as F-5A has no underwing pylon for AAMs. Do remember to check six for any surprise attacks from the enemies, RWR and countermeasures certainly improved its survivability at top tier.
 
 For Ground (RB):
 
@@ -229,30 +219,27 @@ One thing that makes F-5A different from most ROCAF and PLAAF aircraft is the su
 The key to ground attack in a F-5A is keep on track of SPAAGs or other multirole fighter jets as they can be lethal to players, having RWR and countermeasures are good; but most of all, avoid being detected then strike the targets at the first place is the key to success.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Many payload options
-- AIM-9P missiles are quite effective
-- Highly manoeuvrable
-- Amazing energy retention, even in high-G manoeuvres
-- Hard to rip the wings
-- Can be used in many roles, such as fighter, attacker and base bomber
-- Competitive speed at sea level, on par with MiG-21s
-- Reasonable ammo pool for the cannons
+* Many payload options
+* AIM-9P missiles are quite effective
+* Highly manoeuvrable
+* Amazing energy retention, even in high-G manoeuvres
+* Hard to rip the wings
+* Can be used in many roles, such as fighter, attacker and base bomber
+* Competitive speed at sea level, on par with MiG-21s
+* Reasonable ammo pool for the cannons
 
 '''Cons:'''
 
-- No radar or rangefinder
-- No extra protection on the aircraft
-- Low top speed, acceleration, and climb rate compared to its counterparts
+* No radar or rangefinder
+* No extra protection on the aircraft
+* Low top speed, acceleration, and climb rate compared to its counterparts
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 As a supersonic fighter born in late 1950s, Northrop F-5 series fighters were a popular choice for many countries, as well as being a famous star in USAF's Exercise Red Flag, where it performed well even against 3rd generation fighters such as F-14 Tomcat. Although the US Air Force only used a limited number of F-5C "Skoshi Tiger" in the Vietnam War, both F-5A "Freedom Fighter" and F-5E "Tiger" were involved in many wars and conflicts around the world, such as the Iran-Iraq war in the 1980s, in which one of the Iranian F-5E fighter jets shot down a MiG-25 flown by an Iraqi ace pilot with the M39 autocannons!
 
 === "Freedom Fighters" and "Tigers" in Taiwan ===
@@ -281,19 +268,18 @@ At its peak in 1990, the ROC Air Force had a total of 5 Tactical Fighter Wings (
 After nearly 30 years of active service, the F-5A fighter was officially decommissioned from the Republic of China Air Force on June 30, 1987, while the F-5B fighter was decommissioned on June 30, 1996. In fact, before the last F-5A/B was ever decommissioned from service, most of these fighters had been converted into unmanned drones or disassembled to provide spare parts for the successor fighter jets.
 
 === [[wt:en/news/7060-development-f-5a-freedom-fighter-bring-em-hell-en|Devblog]] ===
-In the mid-50's, a group of specialists from the Northrop Corporation began developing a light multi-role short-range support fighter on their own initiative that could take off and land on short runways. The idea did not receive much appreciation from the military authorities, as the main stake was then placed on high-tech expensive fighters, for which the length of the runway did not play a decisive role. However, within Northrop Corporation, the project continued to develop. While research, construction and testing of prototypes were going on, the strengthening of the NATO and SEATO alliances required the United States to supply a cheap multi-role fighter to allies.
+In the mid-50's, a group of specialists from the Northrop Corporation began developing a light multi-role short-range support fighter  on their own initiative that could take off and land on short runways. The idea did not receive much appreciation from the military authorities, as the main stake was then placed on high-tech expensive fighters, for which the length of the runway did not play a decisive role. However, within Northrop Corporation, the project continued to develop. While research, construction and testing of prototypes were going on, the strengthening of the NATO and SEATO alliances required the United States to supply a cheap multi-role fighter to allies.
 
 This is where the work of the Northrop engineers came in handy. With minor modifications, the experimental aircraft went into production under the designation F-5A. Very easy to assemble and maintain, without modern navigation and guidance systems, the aircraft was able to carry a huge arsenal of suspended weaponry and effectively carry out missions to destroy various types of ground targets, as well as successfully participate in air battles, often against more expensive and advanced enemy aircraft.
 
 The F-5A Freedom Fighter was first put in service by the Norwegian Air Force in 1964, later she was supplied to a large number of US allies and was actively used in many conflicts around the world, including Vietnam, the Iran-Iraq conflict and the War of Ogaden.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=f-5a_china Skins and camouflages for the F-5A from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f-5a_china Skins and camouflages for the F-5A from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="150">
@@ -309,24 +295,21 @@ File:F-5A WTWallpaper 06.jpg|
 {{Youtube-gallery|pFRi6Bg08Ts|'''It's Finally Here! - F-5A Freedom Fighter''' - ''DEFYN''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/7060-development-f-5a-freedom-fighter-bring-em-hell-en|[Devblog] F-5A Freedom Fighter: Bring 'em Hell!]]
-- [https://forum.warthunder.com/index.php?/topic/519024-f-5a/ Official data sheet - more details about the performance]
+* [[wt:en/news/7060-development-f-5a-freedom-fighter-bring-em-hell-en|[Devblog] F-5A Freedom Fighter: Bring 'em Hell!]]
+* [https://forum.warthunder.com/index.php?/topic/519024-f-5a/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Northrop}}
 {{China jet aircraft}}

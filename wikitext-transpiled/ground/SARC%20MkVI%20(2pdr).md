@@ -1,12 +1,10 @@
 {{Specs-Card
 |code=uk_marmon_herrington_mk_6_2pdr
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British light tank {{Battle-rating}}. It was introduced in [[Update "Ixwa Strike"]].
 
 The SARC (''South African Reconnaissance Car'') also known as the Marmon-Herrington is an armoured car developed by South Africa during World War II, now present in the game as an entry vehicle on the South African ground forces sub-tree.
@@ -18,7 +16,6 @@ To recap, the balanced mix of firepower and speed brings to tankers of the Briti
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 Overall the vehicle is very lightly armoured, it does not have enough armour to stop anything above a small-calibre machine gun and it is vulnerable to overpressure. There are some places on the rear where even a 7.62 mm machine gun will find its way through. The most reliable armour is the frontal armour thanks to the angled plates and the gun mantlet.
@@ -31,9 +28,9 @@ But being tall is also an unfavourable trait for survivability since on plain ma
 
 '''Armour type:'''
 
-- Rolled Homogeneous armour (hull, turret)
-- Cast Homogeneous armour (gun mantlet)
-- Wheel (tires)
+* Rolled Homogeneous armour  (hull, turret)
+* Cast Homogeneous armour  (gun mantlet)
+* Wheel (tires)
 
 {| class="wikitable"
 |-
@@ -47,15 +44,13 @@ But being tall is also an unfavourable trait for survivability since on plain ma
 
 '''Notes:'''
 
-- Wheels are only 10mm thick
-- The transmission is 10mm of structural steel, which equates to about 5mm of actual protection
-- The gun mantlet is the thickest frontal armour (30 mm)
+* Wheels are only 10mm thick
+* The transmission is 10mm of structural steel, which equates to about 5mm of actual protection
+* The gun mantlet is the thickest frontal armour (30 mm)
 
 === Mobility ===
-{{Specs-Tank-Mobility}}
-
+{{Specs-Tank-Mobility}}	
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-
 The SARC can navigate its way through most environments speedily and get into an optimal position. However, it is worth noting that due to its tall profile, high centre of gravity and its 8-wheeled configuration that is does not turn as sharply or cleanly as the Daimler and is slower owing to its additional weight.
 
 Player should take care to learn the dangers of snowy, boggy or sandy ground early as to prevent leaving their vehicle bereft of its strong mobility at crucial moments. But where the ground does not give way, the excellent suspension of South African vehicles will introduce itself to the player front and centre when speeding over hills and rocky terrain.
@@ -72,9 +67,7 @@ Stock, the SARC MkVI (2pdr) boasts great mobility and turret adjustment speeds. 
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|QF 2-pounder (40 mm)}}
 
 Being a light vehicle with a tall profile, the centre of gravity on the {{PAGENAME}} is very high. Coupled with the recoil of the gun, this gives a wobbly effect when firing over the sides (not so much when firing forwards or backwards).
@@ -140,9 +133,7 @@ Being a light vehicle with a tall profile, the centre of gravity on the {{PAGENA
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.5.0.28''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -158,14 +149,12 @@ Being a light vehicle with a tall profile, the centre of gravity on the {{PAGENA
 |}
 '''Note''':
 
-- Shells are modeled individually and disappear from the rack after having been loaded in the breech.
+* Shells are modeled individually and disappear from the rack after having been loaded in the breech.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|BESA (7.92 mm)|M1919A4 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -189,11 +178,9 @@ Being a light vehicle with a tall profile, the centre of gravity on the {{PAGENA
 |-
 |}
 
-== Usage in battles ==
-
+== Usage in battles ==	
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
-The SARC MkVI (2pdr) represents a blend of advantages and challenges that can be approached by the player in mostly any way they see fit. While highly mobile, a tall profile and thin armour present significant factors that must be considered if this vehicle is to be played to any success.
+The SARC MkVI (2pdr) represents a blend of advantages and challenges that can be approached by the player in mostly any way they see fit. While highly mobile, a tall profile and thin armour present significant factors that must be considered if this vehicle is to be played to any success. 
 
 It is possible to flank with the SARC very readily if the terrain is advantageous to the top speed of the vehicle where it can position itself ahead of the team, spot enemies and provide harassing if not outright disabling fire with its 2pdr gun. However, it is worth noting that at its BR the 2pdr begins to show its age and the ability to flank with the SARC will be crucial in making sure it can remain effective with side-shots and exposing weaknesses in enemy armour. Once again, the explosive-filled Mk. 1 AP/T is highly recommended to make the most of any penetrating shots with its explosive filler.
 
@@ -201,36 +188,33 @@ While they suffer from a lack of vertical angle due to the nature of the mountin
 
 ;Enemies worth noting
 
-- [[:Category:Anti-aircraft vehicles|SPAAs]] - Up to its BR, all nations it will face will be sporting SPAAs with weapons of increasing calibre such as the 37 mm Flak 36 cannon from the German tech tree or the common sight of the various GMC vehicles from the USA. All will be encountered behind enemy lines typically and can easily destroy a SARC if able to return fire.
-- [[Sd.Kfz.234/2]] - A German contemporary of the SARC, with superior mobility and firepower it is very likely this vehicle will be encountered attempting the same tactics as the SARC and will be a deadly opponent if the SARC does not manage to disable, evade or destroy it first.
-- [[AB 43]] - Much like the Sd.Kfz.234/2 above the dangers are identical, faster and capable of delivering more punishment than the SARC it should be treated with the same respect and caution.
+* [[:Category:Anti-aircraft vehicles|SPAAs]] - Up to its BR, all nations it will face will be sporting SPAAs with weapons of increasing calibre such as the 37 mm Flak 36 cannon from the German tech tree or the common sight of the various GMC vehicles from the USA. All will be encountered behind enemy lines typically and can easily destroy a SARC if able to return fire.
+* [[Sd.Kfz.234/2]] - A German contemporary of the SARC, with superior mobility and firepower it is very likely this vehicle will be encountered attempting the same tactics as the SARC and will be a deadly opponent if the SARC does not manage to disable, evade or destroy it first.
+* [[AB 43]] - Much like the Sd.Kfz.234/2 above the dangers are identical, faster and capable of delivering more punishment than the SARC it should be treated with the same respect and caution.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Fast-firing 40 mm gun with adequate ballistics
-- High mobility of the SARC chassis; reverse speed also useful
-- Frontal armour can withstand heavy machine gun at some distances
-- Shoulder stabilizer is useful in some situations
-- Equipped with Scouting, anti-air capable machine guns and numerous quick-release smoke grenades
-- Quick turret traverse speed
+* Fast-firing 40 mm gun with adequate ballistics
+* High mobility of the SARC chassis; reverse speed also useful
+* Frontal armour can withstand heavy machine gun at some distances
+* Shoulder stabilizer is useful in some situations
+* Equipped with Scouting, anti-air capable machine guns and numerous quick-release smoke grenades
+* Quick turret traverse speed
 
 '''Cons:'''
 
-- Open-top turret with a crew member partially visible
-- Side and top armour is vulnerable to machine guns and autocannons
-- 40 mm gun struggles to penetrate sloped armour such as the [[T-34 (1940)]] or [[M4]]
-- Tall profile and prone to rollover while turning at high speeds
-- Limited off-road mobility on snow, mud and sand; typical of most wheeled cars
-- High centre of mass gives the gun a wobbly handling when firing to the sides
+* Open-top turret with a crew member partially visible
+* Side and top armour is vulnerable to machine guns and autocannons
+* 40 mm gun struggles to penetrate sloped armour such as the [[T-34 (1940)]] or [[M4]]
+* Tall profile and prone to rollover while turning at high speeds
+* Limited off-road mobility on snow, mud and sand; typical of most wheeled cars
+* High centre of mass gives the gun a wobbly handling when firing to the sides
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 '''Development'''
 
 The Marmon-Herrington Mk V (also known as South African Reconnaissance Car/SARC Mk V) was a prototype for an eight wheeled armored car produced for South Africa by the Marmon-Herrington Corporation. It ended up very heavy at sixteen tonnes, much too heavy to meet requirements. As such, a project was started to create a lighter eight wheeled armored car known as the Mk VI. During the development it was questioned whether the Mk VI should be armed with the 2-pounder or 6-pounder gun, so two prototypes were made (one with each gun). The prototypes were built in 1943.<ref name=":0">http://aviarmor.net/tww2/armored_cars/uac/marmon_mk6.htm</ref>
@@ -246,44 +230,39 @@ The first prototype mounted the 40 mm Ordnance QF 2-pounder gun in an open-toppe
 The two prototypes were completed in 1943. The first prototype with 2-pounder gun was sent to the UK while the second prototype with 6-pounder gun was kept in South Africa. The British Army expressed interest in the Mk VI and even ordered 250 of them but cancelled the order as they were no longer needed once American armored cars such as the M8 Greyhound became available for import in 1943. The first prototype can still be found at the Bovington Tank Museum in Britain.<ref name=":0" /><ref name=":1" />
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_marmon_herrington_mk_6_2pdr Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_marmon_herrington_mk_6_2pdr Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|yxaetXvzh7w|'''First 10: SARC Mk.VI 2Pdr''' - ''Orangefan''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 '''Succeeded by'''
 
-- [[SARC MkVI (6pdr)]]
+* [[SARC MkVI (6pdr)]]
 
 '''Similar configuration'''
 
-- [[BA-11]]
-- [[AB 43]]
-- [[Sd.Kfz.234/2]]
-- [[M8 Greyhound]]
-- [[AMD.35]]
+* [[BA-11]]
+* [[AB 43]]
+* [[Sd.Kfz.234/2]]
+* [[M8 Greyhound]]
+* [[AMD.35]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 === References ===
 <references />

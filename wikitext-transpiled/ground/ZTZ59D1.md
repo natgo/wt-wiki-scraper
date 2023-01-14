@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=cn_type_59d
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese medium tank {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
 
 The ZTZ59D1 is a comprehensive upgrade of the venerable [[Type 59]]. It includes a large number of modern features on a old chassis, rather like an AK-47 decked out with modern furniture and accessories. The most noticeable difference at a first glance are the ERA arrays on the hull and turret cheeks. The original 100 mm Type 59 cannon has been replaced with a licensed copy of the ubiquitous Royal Ordnance L7 105 mm cannon, and the installation of thermal sights and a laser rangefinder give the tank impressive firepower. Unfortunately it still suffers from many of the Type 59's weaknesses, namely subpar mobility and gun handling. While it is not very suited to the high-speed combat common at its rank, a skilled and careful tanker can still enjoy it as a formidable sniper.
@@ -21,13 +19,12 @@ The ZTZ59D1 is succeeded by the [[ZTZ96]], a significantly more modern design wi
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (Hull, Turret roof)
-- Cast homogeneous armour (Turret, Gun mantlet)
+* Rolled homogeneous armour (Hull, Turret roof)
+* Cast homogeneous armour (Turret, Gun mantlet)
 
 {| class="wikitable"
 |-
@@ -41,7 +38,7 @@ The ZTZ59D1 is succeeded by the [[ZTZ96]], a significantly more modern design wi
 
 '''Notes:'''
 
-- Suspension wheels and tracks are 20 mm thick
+* Suspension wheels and tracks are 20 mm thick
 
 The base armour of the ZTZ59D1 is exactly the same as the [[Type 59]]. The hull and turret armour are quite thick, but the original T-54 armour was designed to counter WWII-era German cannons, and at the ZTZ's rank it will not hold up against sabot or HEAT rounds. It is capable of stopping all autocannon fire from the front and resisting most autocannon fire from the sides, which is helpful. The ERA arrays on the turret use ERA comparable to the Soviet Kontakt-1 and have good protection against chemical rounds; unfortunately they do not have very good coverage, and the area around the gun mantlet is heavily exposed.
 
@@ -53,7 +50,6 @@ Sometimes, if you are lucky, you will survive a penetrating shot that knocked ou
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp= 806|rbMinHp= 460}}
@@ -67,9 +63,7 @@ Speed is definitely not a strength for the {{PAGENAME}}. The original [[Type 59]
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' The text within these arrows are not to be deleted -->
-
 {{main|Type 83 (105 mm)}}
 
 The Type 83 cannon is a Chinese produced version of the tried-and-true Royal Ordnance L7 gun used by numerous contemporary tanks. Unfortunately, since it's mounted in the cramped confines of the Type 59 chassis, the reload speed is about 2 seconds slower than average. The ZTZ59D1 also does not have an upgraded turret drive and the turret rotation speed of at most 10 degrees per second is exceptionally bad for the battle rating. It at least has a two-plane stabilizer, which is a step up from the Type 59's vertical stabilizer.
@@ -93,9 +87,9 @@ The -4° gun depression might look too poor, but due to the low height of the ve
 |}
 
 ==== Ammunition ====
-The ZTZ59D1's ammunition consists of the typical set for 105 mm guns. The stock Type 83-HEAT is a HEAT-FS round with 400 mm of penetration at any distance that struggles against enemies with ERA or composite armour but is adequate against steel or spaced armor. It is a slight improvement over the Type 1973 HEAT-FS used by the previous [[Type 69]] but still functions much the same. Use it as an interim round until APFSDS is unlocked. It is a good idea to still bring a few HEAT-FS afterwards since it can trigger overpressure damage against light tanks and SPAAs on occasion and has better ballistics than the HESH round.
+The ZTZ59D1's ammunition consists of the typical set for 105 mm guns. The stock Type 83-HEAT is a HEAT-FS round with 400 mm of penetration at any distance that struggles against enemies with ERA or composite armour but is adequate against steel or spaced armor. It is a slight improvement over the Type 1973 HEAT-FS used by the previous [[Type 69]] but still functions much the same. Use it as an interim round until APFSDS is unlocked. It is a good idea to still bring a few HEAT-FS afterwards since it can trigger overpressure damage against light tanks and SPAAs on occasion and has better ballistics than the HESH round. 
 
-The Type-83 HESH round causes a wide but shallow cone of damage and practically ignores slopes, but only works against thinner plates of conventional armour and has poor ballistics. It may be helpful once in a while to finish off targets that only have a slight portion of their tank exposed, such as splashing the turret roof of an enemy hiding behind cover, but for the most part it should be ignored.
+The Type-83 HESH round causes a wide but shallow cone of damage and practically ignores slopes, but only works against thinner plates of conventional armour and has poor ballistics. It may be helpful once in a while to finish off targets that only have a slight portion of their tank exposed, such as splashing the turret roof of an enemy hiding behind cover, but for the most part it should be ignored. 
 
 The Type-83 APDS is, despite its name, an APFSDS round with identical performance to the common 105 mm DM23 used by the [[Leopard A1A1]] for example. The flat penetration is nothing special but the angled penetration is good, which can be helpful for side-shots or penetrating certain tanks with composite armor. It is easy to aim due to its high muzzle velocity, has consistent post-penetration damage, and should be the round of choice once unlocked. Exercise some caution when fighting Soviet MBTs from the [[T-72A]] onwards because the APFSDS does not have enough angled penetration to casually penetrate the hull armor of a spaded T-72A. In a frontal engagement it is best to aim for the driver's viewport or lower glacis, which are weak spots on all Soviet T-64/72/80 series tanks. Other opponents worth noting are the British [[Chieftain Mk 10]] and [[Challenger Mk.2]]/[[Challenger Mk.3|Mk.3]] with strong turrets but weak hulls.
 
@@ -139,9 +133,7 @@ The Type-83 APDS is, despite its name, an APFSDS round with identical performanc
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.5.1.99''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -151,7 +143,7 @@ The Type-83 APDS is, despite its name, an APFSDS round with identical performanc
 ! 4th<br>rack empty
 ! 5th<br>rack empty
 ! 6th<br>rack empty
-! 7th\*<br>rack empty
+! 7th*<br>rack empty
 ! Visual<br>discrepancy
 |-
 | '''37''' || 36&nbsp;''(+1)'' || 31&nbsp;''(+6)'' || 30&nbsp;''(+7)'' || 26&nbsp;''(+11)'' || 23&nbsp;''(+14)'' || 21&nbsp;''(+16)'' || 1&nbsp;''(+36)'' || No
@@ -159,16 +151,13 @@ The Type-83 APDS is, despite its name, an APFSDS round with identical performanc
 |}
 
 Notes:
-
-- The 7th rack serves as first-stage ammo stowage.
-- It is recommended to carry at most 31&nbsp;''(+6)'' rounds as to empty the turret's ammo racks.
+* The 7th rack serves as first-stage ammo stowage.
+* It is recommended to carry at most 31&nbsp;''(+6)'' rounds as to empty the turret's ammo racks.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|DShK (12.7 mm)|SGMT (7.62 mm)}}
 
 The ZTZ59D1 features two MGs: one roof-mounted 12.7 mm heavy MG, and a 7.62 mm coaxial MG. The 12.7 mm MG, with its maximum penetration of around 30 mm, can do quite well against lightly armoured vehicles such as the [[R3 T20 FA-HS|R3 T20]] / [[R3 T106 FA|T106]] and the [[AUBL/74]]. It can also damage or even destroy the opponent's gun barrel or track with around 5 seconds of continuous fire. Against low-flying aircraft it can easily get you some critical hits with the correct lead. However its magazine empties very quickly and it does not carry enough ammo for prolonged MG fire comparing to the infamous M2HB.
@@ -195,7 +184,6 @@ The 7.62 mm, on the other hand, can only damage fully exposed crew which are not
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The ZTZ59D1 might have a lot of modern features, but there is really no disguising the fact that it is a Type 59 at heart. The Type 59 at 8.0 already struggled with its poor gun handling and the ZTZ59D1's upgraded two-plane stabilizer is not much of a consolation considering that it will almost entirely face enemies with two-plane stabilizers and superior mobility. The ZTZ59D1 is best used as a support tank or sniper to take advantage of its good firepower, low profile, and decent protection while minimizing the effects of its poor gun handling and mobility. Ideally one can stay behind the front lines, moving up when prudent, and allow other teammates to push forwards. Enemies that appear or reveal themselves can then be dispatched at a safe distance. However one must be on the lookout for flanking enemies, as the gun handling is not adequate for responding quickly to unexpected threats. For this reason close range brawling should also be avoided. The mobility is also quite poor for its rank and it pays to be vigilant when moving up to sniping positions - enemies may be already present.
@@ -207,32 +195,30 @@ The ZTZ59D1 has better protection than the average 8.7 MBT, but it is by no mean
 Helicopters are a major threat to the ZTZ59D1. ATGMs will typically go right through its ERA and even helicopters with unguided rockets, which typically need to fly closer to the battlefield, are difficult to destroy given the ZTZ59D1's bad gun handling. Stay out of sight if possible and take advantage of the smoke grenades if caught in the open. Lightly armoured helicopters can be harassed with the heavy machine gun at closer distances.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Powerful 105 mm gun with a solid APFSDS round is a major step up from the [[Type 69]]'s cannon
-- Equipped with ERA on the turret and upper glacis, resistant to chemical munitions
-- Hull ERA setup offers some kinetic protection
-- Has a two-plane stabilizer
-- Access to smoke grenades, thermal sights, and laser rangefinder
-- Top mounted DShK heavy machine gun is helpful against light targets and aircraft
-- Low profile
+* Powerful 105 mm gun with a solid APFSDS round is a major step up from the [[Type 69]]'s cannon
+* Equipped with ERA on the turret and upper glacis, resistant to chemical munitions
+* Hull ERA setup offers some kinetic protection
+* Has a two-plane stabilizer
+* Access to smoke grenades, thermal sights, and laser rangefinder
+* Top mounted DShK heavy machine gun is helpful against light targets and aircraft
+* Low profile
 
 '''Cons:'''
 
-- Mobility is slightly worse than the original [[Type 59]], quite inadequate at its match-making position
-- Turret traverse and base armour are the same as the Type 59, gun handling is painful in close quarters and APFSDS will go straight through much of the tank
-- ERA coverage is sparse, significant gaps around the gun and on the upper glacis
-- Turret ERA will get destroyed in large patches, not piece by piece, upon getting hit by chemical rounds
-- Not particularly mobile; reverse speed in particular is quite slow
-- Poor gun depression greatly limits its capacity in hilly terrain
-- Slow reload compared to Western MBTs
-- No wet ammo storage
+* Mobility is slightly worse than the original [[Type 59]], quite inadequate at its match-making position
+* Turret traverse and base armour are the same as the Type 59, gun handling is painful in close quarters and APFSDS will go straight through much of the tank
+* ERA coverage is sparse, significant gaps around the gun and on the upper glacis
+* Turret ERA will get destroyed in large patches, not piece by piece, upon getting hit by chemical rounds
+* Not particularly mobile; reverse speed in particular is quite slow
+* Poor gun depression greatly limits its capacity in hilly terrain
+* Slow reload compared to Western MBTs
+* No wet ammo storage
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The [[Type 59]] tank was the primary tank of the People's Liberation Army in the Cold War era. While reliable, easy to manufacture, and available in large numbers, the design began to show its age as time went on. Improved derivatives like the [[Type 69]] were not used extensively by the PLA. In the 1980s the large inventory of old Type 59s was in need of modernization, but defrosting relations with the Western world around that time allowed the purchase, use, and study of foreign technology, greatly aiding in the improvement of existing vehicles and development of future models. The first Type 59 model to benefit from these upgrades was the Type-59-II, which boasted a 105mm rifled gun based on the ubiquitous Royal Ordnance L7 and improved vision systems. The '''Type 59D1''' variant was a further development, adding on modern computerized fire-control systems, passive night vision devices, an improved gun with thermal sleeve, and explosive reactive armour. Other variants of note include the similar Type 59D, which has a longer gun and support for gun-launched ATGMs, the Type 59G, an export overhaul featuring a welded turret and 125mm gun similar to the modern [[ZTZ96|Type 96]], and the Jaguar, a joint Sino-American project with a heavily modified turret, hull, and powertrain.
@@ -242,26 +228,22 @@ Later Type 59 variants are still present in the inventory of the PLA at present,
 The designation/acronym "ZTZ" is used at times by the Chinese military for its main battle tanks. In Mandarin, the first Z stands for "armoured vehicle" or "armour", the T stands for "tank", and second Z stands for "main battle". This term is generally used to describe modern Chinese MBTs, but for the most part it can be interchanged freely with "Type".
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=cn_type_59d Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=cn_type_59d Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|B6ZsuPjSuNo|'''T-54/T-55 family''' discusses the {{PAGENAME}} at 6:24 - ''War Thunder Official Channel''}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{China medium tanks}}

@@ -9,25 +9,20 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced in [[Update "Ixwa Strike"]].
 
 The Olifant is an early South African modification of the legendary Centurion tank. The vehicle received an increase in firepower and mobility from the earlier British series, to match the needs of extended cruising capabilities and long-distance skirmishes within the dusty and heated African environment.
 
-Fitted with a GT-3 cannon, the Olifant should be as persuasive as most NATO counterparts, due to the GT-3 being a variant of the popular British-made Royal Ordnance L7 gun. On the weak side, the armour layout can be described as obsolete against HEAT and APFSDS, which are quite common at Olifant's rank. This lack of armour simultaneously with a somewhat slow turret traverse and below average top speed, commits the Olifant to use distance, uneven grounds and marksmanship skills to endure the battles.
+Fitted with a GT-3 cannon, the Olifant should be as persuasive as most NATO counterparts, due to the GT-3 being a variant of the popular British-made Royal Ordnance L7 gun.  On the weak side, the armour layout can be described as obsolete against HEAT and APFSDS, which are quite common at Olifant's rank. This lack of armour simultaneously with a somewhat slow turret traverse and below average top speed, commits the Olifant to use distance, uneven grounds and marksmanship skills to endure the battles.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
-
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
 
@@ -35,21 +30,19 @@ Fitted with a GT-3 cannon, the Olifant should be as persuasive as most NATO coun
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || **_ mm || _** mm ''Top'' <br> **_ mm ''Bottom'' || _** mm || **_ - _** mm
+| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
 |-
-| Turret || **_ - _** mm ''Turret front'' <br> **_ mm ''Gun mantlet'' || _** - **_ mm || _** - **_ mm || _** - **_ mm
+| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
 |-
-| Cupola || _** mm || **_ mm || _** mm || \_\_\_ mm
+| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
 |-
 |}
 
 '''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
-
 <!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=1,162|rbMinHp=663}}
@@ -61,9 +54,7 @@ Fitted with a GT-3 cannon, the Olifant should be as persuasive as most NATO coun
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|GT-3 (105 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -137,9 +128,7 @@ Fitted with a GT-3 cannon, the Olifant should be as persuasive as most NATO coun
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.9.0.56''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -158,17 +147,15 @@ Fitted with a GT-3 cannon, the Olifant should be as persuasive as most NATO coun
 |}
 '''Notes''':
 
-- Shells are modeled individually and disappear after having been shot or loaded.
-- Rack 8 is a first stage ammo rack. It totals 7 shells and gets filled first when loading up the tank.
-- This rack is also emptied early: the rack depletion order at full capacity is: 8 - 1 - 2 - etc. until 7.
-- Simply not firing when the gun is loaded will move ammo from racks 1 to 7 into rack 8. Firing will interrupt the restocking of the ready rack.
+* Shells are modeled individually and disappear after having been shot or loaded.
+* Rack 8 is a first stage ammo rack. It totals 7 shells and gets filled first when loading up the tank.
+* This rack is also emptied early: the rack depletion order at full capacity is: 8 - 1 - 2 - etc. until 7.
+* Simply not firing when the gun is loaded will move ammo from racks 1 to 7 into rack 8. Firing will interrupt the restocking of the ready rack.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|L3A1 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -184,36 +171,31 @@ Fitted with a GT-3 cannon, the Olifant should be as persuasive as most NATO coun
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Olifant Mk.1A is relegated to a support role as it lacks the armour to brawl or the mobility to flank. Players should get into a good position early in the game and use the powerful APFSDS shell of the Olifant to pick off hard targets.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Strong and accurate APFSDS and HEATFS; similar ballistics to guns found on [[Rooikat MTTD]] and the [[Rooikat 105]]
-- Laser rangefinder and NVD for long-range/night operations + bonus of smoke screen and smoke shells
-- Excellent gun elevation and depression angles
-- The machine gun area on the turret can bounce some carelessly aimed shells
-- Fuel tanks in the front and rear may protect the engine, crew and the ammo racks from HEAT shells
-- Acceleration is adequate once fully spaded; keeping similar instant mobility to the [[Centurion Mk 3]] or [[Centurion Mk.5/1]]
+* Strong and accurate APFSDS and HEATFS; similar ballistics to guns found on [[Rooikat MTTD]] and the [[Rooikat 105]]
+* Laser rangefinder and NVD for long-range/night operations + bonus of smoke screen and smoke shells
+* Excellent gun elevation and depression angles
+* The machine gun area on the turret can bounce some carelessly aimed shells
+* Fuel tanks in the front and rear may protect the engine, crew and the ammo racks from HEAT shells
+* Acceleration is adequate once fully spaded; keeping similar instant mobility to the [[Centurion Mk 3]] or [[Centurion Mk.5/1]]
 
 '''Cons:'''
 
-- Poor stock acceleration and top speed, compared to other MBTs at the BR; even inferior to the [[Chieftain Mk 5]] when spaded
-- APFSDS is a tier 4 modification: early module research must be done with the more unreliable HEAT shells
-- Obsolete armour for the rank: unreliable against most APFSDS or HEAT rounds even with small calibre guns
-- The ammo rack to the right of the driver is a major weak spot
-- The engine roof is a weak spot for aircraft with large-calibre cannons
+* Poor stock acceleration and top speed, compared to other MBTs at the BR; even inferior to the [[Chieftain Mk 5]] when spaded
+* APFSDS is a tier 4 modification: early module research must be done with the more unreliable HEAT shells
+* Obsolete armour for the rank: unreliable against most APFSDS or HEAT rounds even with small calibre guns
+* The ammo rack to the right of the driver is a major weak spot
+* The engine roof is a weak spot for aircraft  with large-calibre cannons
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 === Predecessor: Olifant Mk.1 ===
 The Olifant Mk.1 was a South African conversion of Centurion Mk.3s tanks to a modified standard<ref name=":0">https://tanks-encyclopedia.com/coldwar/south_africa/olifant_mk.i</ref>. Conversions began in 1979 and lasted until 1984; a total of 153 Olifant Mk.1s were converted from Centurion Mk.3 tanks. Not long after the Olifant Mk.1 entered production, T-55 tanks were obtained and tested which revealed flaws in the Olifant Mk.1 by comparison. Fortunately for the SADF, an upgrade of the Olifant Mk.1 was already under development.
 
@@ -274,12 +256,11 @@ Work on the project began in the mid '70s, with South African engineers taking i
 The Olifant Mk.1A remained in service with SANDF into the 1990s before being succeeded by the Olifant Mk.2. In total, over 150 Olifant Mk.1As were produced, some seeing action during the conflicts with Angola in the early 1980s.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_olifant_mk_1a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_olifant_mk_1a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="150">
@@ -292,38 +273,36 @@ File:Olifant Mk1A WTWallpaper 06.jpg|
 </gallery>
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles with similar chassis
 
-- [[Centurion (Family)]]
+* [[Centurion (Family)]]
 
 ;Related service history
 
-- [[Eland 90 Mk.7]]
-- [[Ratel 90]]
-- [[T-34-85]]
-- [[PT-76B]]
-- [[T-54/55 (Family)]]
-- [[Ratel 20]]
+* [[Eland 90 Mk.7]]
+* [[Ratel 90]]
+* [[T-34-85]]
+* [[PT-76B]]
+* [[T-54/55 (Family)]]
+* [[Ratel 20]]
 
 ;Similar playstyle
 
-- [[M60A1 (AOS)]]
-- [[M48A2 G A2]]
-- [[Chieftain (Family)]]
-- [[OF-40 (Family)]]
+* [[M60A1 (AOS)]]
+* [[M48A2 G A2]]
+* [[Chieftain (Family)]]
+* [[OF-40 (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/7052-development-olifant-mk1a-the-beast-of-desert-en|[Devblog] Olifant Mk1A: The Beast of Desert]]
+* [[wt:en/news/7052-development-olifant-mk1a-the-beast-of-desert-en|[Devblog] Olifant Mk1A: The Beast of Desert]]
 
 === References ===
 <references />

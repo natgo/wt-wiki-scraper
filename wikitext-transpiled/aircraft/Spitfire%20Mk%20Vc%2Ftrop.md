@@ -12,9 +12,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27, originally under the name ''Spitfire Mk Vc'', however this was changed in [[Update 1.77 "Advancing Storm"]] to the current name when [[Update 1.77 "Advancing Storm"#Britain 2|non-tropical versions of Spitfire]] were introduced.
 
 The Spitfire Vc/trop is a plane with two major advantages over its opposition: turn performance, engine performance below 3,000 m, and armament. The plane is blessed with a Merlin 45M engine that grants it phenomenal acceleration below that altitude compared to German opposition, as well as a hard-hitting armament of four Hispano Mark II cannons that gives it an exceptionally high burst mass of 5.17 kg/s- putting it on the same level as the [[Fw 190 A-5]].
@@ -28,9 +26,7 @@ While this aircraft faces tricky opposition, it is far from helpless as one migh
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The Spitfire Mk Vc/trop's engine performs best at low altitudes: between the 2,000 m and 3,500 m. At these low levels, the Spitfire has a competitive top speed, and a decent climb rate. Above this altitude, engine performance begins to suffer dramatically, as acceleration and climb rate decrease. The engine's power output can be maximized by using WEP, without which the plane lacks much of its performance. The Spitfire's acceleration in a dive is less than that of the Bf 109 and Fw 190.
 
 Like all Spitfires, the Vc/trop has above-average manoeuvrability, including a good turn rate and competitive roll rate. It also has decent energy retention both in flat turns and vertical manoeuvres. Watch out though, Fw 190s still have better energy retention and roll rate than the Spitfire, and A6Ms can out-roll it on low speeds.
@@ -60,7 +56,7 @@ Like all Spitfires, the Vc/trop has above-average manoeuvrability, including a g
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || X || ✓ || X || X <!-- ✓ -->
+| X || X || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -105,14 +101,13 @@ Like all Spitfires, the Vc/trop has above-average manoeuvrability, including a g
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 38 mm Bulletproof glass - Armoured windscreen
-- 4 mm Steel - Armoured plates behind pilot, coupled with another 6-7 mm Steel plate behind that
-- 3 mm Steel - Armoured plate in front of engine above propeller
-- 1 mm Steel - Armoured plate in front of front top fuel tank
-- 3 mm Steel - Armoured plates around ammunition
+* 38 mm Bulletproof glass - Armoured windscreen
+* 4 mm Steel - Armoured plates behind pilot, coupled with another 6-7 mm Steel plate behind that
+* 3 mm Steel - Armoured plate in front of engine above propeller
+* 1 mm Steel - Armoured plate in front of front top fuel tank
+* 3 mm Steel - Armoured plates around ammunition
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -122,46 +117,32 @@ Pilots should invest heavily in the '''Weapons Maintenance''' skill of their cre
 Priorities, in order, are:
 
 # Offensive 20 mm belts
-
 # Radiator
-
 # Compressor
-
 # New 20 mm cannons
-
 # Engine
-
 # Mk.II year 1942
-
 # Engine injection
-
 # Cover
-
 # Wings repair
-
 # Airframe
-
 # Fuselage repair
-
 # Mk. II year 1943
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Hispano Mk.II (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 20 mm Hispano Mk.II cannons, wing-mounted (120 rpg = 480 total)
+* 4 x 20 mm Hispano Mk.II cannons, wing-mounted (120 rpg = 480 total)
 
 The Spitfire Mk. Vc/trop is armed with four Hispano Mk.II cannons with 120 rounds per gun. While this is double the cannon capacity of earlier Spitfires, such as the [[Spitfire Mk Vb/trop]], it is still quite small, and unsuitable for firing long bursts at the enemy.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The Spitfire Mark Vc/trop, unlike the older [[Spitfire Mk IIb|Mk IIb]] variant, no longer has overwhelming edges in performance over its opposition. This aircraft is heavier than its predecessors, and has an engine that does better at an altitude range that is much lower than its predecessors. The Spitfire Mk Vc/trop flies best at altitudes between the 2,000 m and 3,500 m range and its engine starts to suffer above this altitude. This plane must be played radically differently in terms of when and where to pick fights. As usual, the 7 P's of Combat apply: ''Proper Perusal, Planning and Preparation Prevent Poor Performance.''
@@ -174,10 +155,10 @@ The ability of a pilot to fight using this plane is determined primarily by thei
 
 General guides for fighting against major nations:
 
-- Germany and Italy: fighters of both those nations are well armed and have decent survivability, have better max speed than Spit and similar or slightly lower rate of climb. If you are below them, better run away far enough to be unworthy of their attention. If enemy attacks you on high altitude, your best chance is to dive and try to outmaneouvre them but do not attempt to fly in a straight line.
-- Japan: you won't stand a chance both in dogfight and flight speed so you should avoid fight against this nation when you are alone but if it is impossible, your best chance is in head-on as just a single shell stands high chance of setting enemy ablaze.
-- USA: American fighters have decent guns that will shred your plane during a head-on and are durable enough to resist a few hits with 20 mm guns. Fortunately those planes are relatively heavy and lack climb rate so you should be able to gather more potential energy before the duel begins. Once into dogfight, it won't take you more than 2 circles to get a stable position on enemy tail but same as with German and Italian planes, you should not allow them to run away.
-- USSR: it is very risky to be in front of a Soviet fighter even for a single moment due to their armament which might consist on 37 or even 45 mm guns that are able to destroy your plane with a single hit but generally you should proceed similarly to fights with German planes .
+* Germany and Italy: fighters of both those nations are well armed and have decent survivability, have better max speed than Spit and similar or slightly lower rate of climb. If you are below them, better run away far enough to be unworthy of their attention. If enemy attacks you on high altitude, your best chance is to dive and try to outmaneouvre them but do not attempt to fly in a straight line.
+* Japan: you won't stand a chance both in dogfight and flight speed so you should avoid fight against this nation when you are alone but if it is impossible, your best chance is in head-on as just a single shell stands high chance of setting enemy ablaze.
+* USA: American fighters have decent guns that will shred your plane during a head-on and are durable enough to resist a few hits with 20 mm guns. Fortunately those planes are relatively heavy and lack climb rate so you should be able to gather more potential energy before the duel begins. Once into dogfight, it won't take you more than 2 circles to get a stable position on enemy tail but same as with German and Italian planes, you should not allow them to run away.
+* USSR: it is very risky to be in front of a Soviet fighter even for a single moment due to their armament which might consist on 37 or even 45 mm guns that are able to destroy your plane with a single hit but generally you should proceed similarly to fights with German planes .
 
 Let's just mention that fighting bombers might be a very bad idea unless you are trying to take them from their side and have much speed.
 
@@ -203,29 +184,27 @@ One important thing to note is that this aircraft, especially while stock, canno
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great forward armament in 4 x 20 mm Hispano cannons
-- Good manoeuvrability (better at turnfighting than every nation except for Japan)
-- Decent Energy Retention - can keep speed fairly well in flat turns and loops
-- Competitive roll rate that outperforms or is comparable to the majority of its opponents
-- Good engine performance and speed below 3,000 m
+* Great forward armament in 4 x 20 mm Hispano cannons 
+* Good manoeuvrability (better at turnfighting than every nation except for Japan)
+* Decent Energy Retention - can keep speed fairly well in flat turns and loops
+* Competitive roll rate that outperforms or is comparable to the majority of its opponents
+* Good engine performance and speed below 3,000 m
 
 '''Cons:'''
 
-- Low survivability
-- Low ammo capacity at only 120 rounds per gun (12 seconds of constant fire)
-- No suspended armament
-- Massively reduced engine performance at altitudes above 3,500 m
-- Poor maximum speed
-- Poor dive-acceleration
-- No combat nor take-off flaps
+* Low survivability 
+* Low ammo capacity at only 120 rounds per gun (12 seconds of constant fire)
+* No suspended armament
+* Massively reduced engine performance at altitudes above 3,500 m
+* Poor maximum speed 
+* Poor dive-acceleration
+* No combat nor take-off flaps 
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -243,34 +222,29 @@ The Spitfire VC fought in all theatres in which the RAF was active from 1941 to 
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=spitfire_mk5c Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=spitfire_mk5c Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|9_txEPailKc|'''The Shooting Range #92''' - ''Metal Beasts'' section at 04:21 discusses the Spitfire Mk Vc/trop.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
-- [[Spitfire (Family)]]
+* [[Spitfire (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/5371-development-spitfire-mk-v-model-update-and-new-modifications-en|[Devblog<nowiki>]</nowiki> Spitfire Mk.V: model update and new modifications]]
-- [https://forum.warthunder.com/index.php?/topic/287254-supermarine-spitfire-mk-vctrop/ Official data sheet - more details about the performance]
+* [[wt:en/news/5371-development-spitfire-mk-v-model-update-and-new-modifications-en|[Devblog<nowiki>]</nowiki> Spitfire Mk.V: model update and new modifications]]
+* [https://forum.warthunder.com/index.php?/topic/287254-supermarine-spitfire-mk-vctrop/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Supermarine}}
 {{Britain fighters}}

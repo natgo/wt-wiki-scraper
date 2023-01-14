@@ -10,10 +10,8 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British bomber {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to [[Update 1.27]]. It was available for a limited time for the 2014 anniversary of the [[wt:en/news/421--en|A-20 Havoc's first flight]], later it appeared in the [[Warbonds]] shop as part of the trophy chest in [[wt:en/news/5738-news-how-can-you-get-premium-vehicles-warbonds-en|September 2018]] and currently is only available though the [[Marketplace]].
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British bomber {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to [[Update 1.27]]. It was available  for a limited time for the 2014 anniversary of the [[wt:en/news/421--en|A-20 Havoc's first flight]], later it appeared in the [[Warbonds]] shop as part of the trophy chest in [[wt:en/news/5738-news-how-can-you-get-premium-vehicles-warbonds-en|September 2018]] and currently is only available though the [[Marketplace]].
 
 The Boston Mk.1 is a very fast aircraft for its rank, this means that in a decent matchup it can often outrun most if not all the aircraft it faces in level flight. The Boston has got four 7.7 mm guns in the nose and two 7.7 mm in the top and bottom lower and upper of the rear fuselage.
 
@@ -22,7 +20,6 @@ Although the defensive armament may seem rather underwhelming, if it faces lower
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -50,7 +47,7 @@ Although the defensive armament may seem rather underwhelming, if it faces lower
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -103,17 +100,16 @@ Although the defensive armament may seem rather underwhelming, if it faces lower
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 12.7 mm steel in front of the cockpit
-- 8 mm steel lower side of the cockpit
-- 9.5mm steel pilots seat
-- 12.7mm steel below, behind and in front of the rear gunner
-- No armour glazing
-- Critical components located in the front and wings of aircraft (fuel, pilot, engine, controls)
+* 12.7 mm steel in front of the cockpit
+* 8 mm steel lower side of the cockpit
+* 9.5mm steel pilots seat
+* 12.7mm steel below, behind and in front of the rear gunner
+* No armour glazing
+* Critical components located in the front and wings of aircraft (fuel, pilot, engine, controls)
 
-The Boston flies fairly well on one engine.
+The Boston flies fairly well on one engine. 
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -122,42 +118,34 @@ The Boston flies fairly well on one engine.
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Browning (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 7.7 mm Browning machine guns, chin-mounted (500 rpg = 2,000 total)
+* 4 x 7.7 mm Browning machine guns, chin-mounted (500 rpg = 2,000 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|G.P. Mk.IV (500 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 4 x 500 lb G.P. Mk.IV bombs (2,000 lb total)
+* 4 x 500 lb G.P. Mk.IV bombs (2,000 lb total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|Vickers K (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 1 x 7.7 mm Vickers K machine gun, dorsal turret (500 rpg)
-- 1 x 7.7 mm Vickers K machine gun, ventral turret (500 rpg)
+* 1 x 7.7 mm Vickers K machine gun, dorsal turret (500 rpg)
+* 1 x 7.7 mm Vickers K machine gun, ventral turret (500 rpg)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Boston is an incredibly fast bomber, being able to outrun everything it will face. The bomb load lacks a bit of punch as it carries the inferior British [[G.P. Mk.IV (500 lb)|500 pound bomb]] which has much less TNT. Decent defensive firepower means it can defend itself if it has to, but the best defense for the Boston is its cruising speed of 450 km/h to outrun any pursuers.
 
 The Boston excels as a ground strike aircraft, dropping its payload on pillboxes and armoured targets and using its quadruple forward facing 7.7 mms to destroy artillery, AA or vehicles. It can also be used as a strike aircraft very effectively, diving on enemy fighters with its high top speed and damaging them before using the energy to gain altitude again. The 7.7s are unlikely to destroy enemy aircraft outright but can damage vital components like the engine, oil or coolant - forcing the enemy to return to base.
@@ -182,25 +170,23 @@ The Boston can take a fair amount of punishment, but it won't last in an extende
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Very fast cruising and top speed
-- Decent offensive armament
-- Lots of ammunition
-- Fairly durable
-- Can fly with one engine
+* Very fast cruising and top speed
+* Decent offensive armament
+* Lots of ammunition
+* Fairly durable
+* Can fly with one engine
 
 '''Cons:'''
 
-- Defensive armament isn't great
-- Only one payload option
-- Big engines are big targets, they will almost always get damaged in a fight
+* Defensive armament isn't great
+* Only one payload option
+* Big engines are big targets, they will almost always get damaged in a fight
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -226,37 +212,34 @@ A total of 131 machines from the second batch of DB-7s ordered by France were tr
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=boston_mk_1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=boston_mk_1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
 
-- Douglas [[A-26 (Family)|A-26]] Invader
+* Douglas [[A-26 (Family)|A-26]] Invader
 
 ;Aircraft of comparable role, configuration and era
 
-- Bristol [[Beaufighter (Family)|Beaufighter]]
-- Messerschmitt [[Bf 110 (Family)|Bf 110]]
-- Northrop [[P-61C-1|P-61]] Black Widow
-- Petlyakov [[Pe-2 (Family)|Pe-2]]
+* Bristol [[Beaufighter (Family)|Beaufighter]]
+* Messerschmitt [[Bf 110 (Family)|Bf 110]]
+* Northrop [[P-61C-1|P-61]] Black Widow
+* Petlyakov [[Pe-2 (Family)|Pe-2]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/195736-douglas-boston-mk-i/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/195736-douglas-boston-mk-i/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Douglas}}
 {{Britain bombers}}

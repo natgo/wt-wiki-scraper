@@ -5,21 +5,17 @@
 }}
 {{Specs-Card
 |code=germ_pzkpfw_VI_ausf_b_tiger_IIh
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 182''') is a rank {{Specs|rank}} German heavy tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41. The Tiger II (H) remains one of the more potent foes a player could face in the Rank IV battles.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Difference between the Henschel (H) and the [[Tiger II (P)|Porsche (P)]] turrets''' - The "Henschel" turret is slightly more resistant since it has a flat but thick plate in the front and a more effective gun mantlet. The "Porsche" turret is less armoured, has an exposed turret ring and a shot trap that can and will deflect shells to the weaker upper plate of the chassis. Commander's cupola on the "Henschel" turret is also thicker (150 mm, opposed to 100 mm on "Porsche" turret). Other than that both tanks are identical, but for obvious reasons, the "Henschel" turret is more popular than the "Porsche" turret. The initial design is often misleadingly called the "Porsche" turret due to the belief that it was designed by Porsche for their prototype; in fact, it was the initial Krupp design for both prototypes.
 
 '''Armour type:'''
@@ -39,15 +35,14 @@ The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]
 |}
 '''Notes:'''
 
-- Suspension wheels are 20 mm thick while tracks are 30 mm thick.
-- Suspension wheels and interleaved and overlap.
-- Some part of the turret side have track links on them, which gives an additional 30 mm of protection.
-- A 30 mm turret ring plate is present.
-- Belly armour front part is 40 mm thick while the rest is 25 mm thick.
+* Suspension wheels are 20 mm thick while tracks are 30 mm thick.
+* Suspension wheels and interleaved and overlap.
+* Some part of the turret side have track links on them, which gives an additional 30 mm of protection.
+* A 30 mm turret ring plate is present.
+* Belly armour front part is 40 mm thick while the rest is 25 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=904|rbMinHp=619}}
@@ -55,27 +50,25 @@ The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]
 === Modifications and economy ===
 {{Specs-Economy}}
 
-Driving a recently unlocked tank is always difficult; the gun accuracy is terrible and the inability to repair in combat is extremely frustrating but nothing is worse than feeling powerless to stop your tank from burning to a crisp, even after defeating the enemy that caused the fire. In general, any vehicle will underperform when stock, so reserve your judgement until you unlock all modifications. All your research points should be prioritized into the Parts and FPE modifications. These two modifications are the number one priority.
+Driving a recently unlocked tank is always difficult; the gun accuracy is terrible and the inability to repair in combat is extremely frustrating  but nothing is worse than feeling powerless to stop your tank from burning to a crisp, even after defeating the enemy that caused the fire. In general, any vehicle will underperform when stock, so reserve your judgement until you unlock all modifications. All your research points should be prioritized into the Parts and FPE modifications. These two modifications are the number one priority.
 
 Stock tanks lack in all areas, however after Parts and FPE, there are a few upgrades that will noticeably upgrade how your vehicle handles:
 
-- "Adjustment of Fire" significantly increases the general accuracy of your main weapon. Particularly useful at long range.
-- "Tracks" increase notably the manoeuvrability of your vehicle. Particularly useful in close-range maps.
+* "Adjustment of Fire" significantly increases the general accuracy of your main weapon. Particularly useful at long range.
+* "Tracks" increase notably the manoeuvrability of your vehicle. Particularly useful in close-range maps.
 
 If you don't have unlocked the Parts modification yet, however, here are a few tips:
 
-- Stay close to your teammates.
-- You can repair at the capture points, make good use of it.
-- Light tanks can help you repair (provided they have unlocked the Parts modification).
-- Avoid exposing anything that might risk fire at all costs. If you are set alight, it's game over.
+* Stay close to your teammates.
+* You can repair at the capture points, make good use of it.
+* Light tanks can help you repair (provided they have unlocked the Parts modification).
+* Avoid exposing anything that might risk fire at all costs. If you are set alight, it's game over.
 
 == Armaments ==
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|KwK43 (88 mm)}}
 
 The Tiger II's cannon can maintain a very nice penetration even at long ranges (1,200 - 1,800 m) while American and Soviet cannons usually cannot keep such high penetration over distance, so they prefer 700 m or fewer engagements where their guns will most likely destroy you in the first hit, so get used to long range engagements. Being comfortable with kilometre long shots is a must in this tank. At 800 m you should still be within a safe distance (depending on what you are facing) but going under that is getting into the Allied guns' effective range.
@@ -141,9 +134,7 @@ The Tiger II's cannon can maintain a very nice penetration even at long ranges (
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.15.1.70''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -165,19 +156,17 @@ The Tiger II's cannon can maintain a very nice penetration even at long ranges (
 |}
 '''Notes''':
 
-- Recommended ammo load is 23&nbsp;''(+47)'' shells to keep the hull empty and both ready racks full.
-- Racks 7 and 8 are ready racks, and take priority in being filled at the beginning of the battle, then fill 6 through 1 in that order.
-- Full reload speed will be realized as long as ammo exists in either ready rack. If both ready racks are empty, a penalty to reload speed will occur.
-- Simply not firing the main gun when it is loaded will load ammo from racks 1-6 into 8 then 7, as long as there is ammo in racks 1-6. Firing the main gun will interrupt the loading of the ready racks.
+* Recommended ammo load is 23&nbsp;''(+47)'' shells to keep the hull empty and both ready racks full.
+* Racks 7 and 8 are ready racks, and take priority in being filled at the beginning of the battle, then fill 6 through 1 in that order.
+* Full reload speed will be realized as long as ammo exists in either ready rack. If both ready racks are empty, a penalty to reload speed will occur.
+* Simply not firing the main gun when it is loaded will load ammo from racks 1-6 into 8 then 7, as long as there is ammo in racks 1-6. Firing the main gun will interrupt the loading of the ready racks.
 
 Thanks to the ready rack feature found on this tank, the ammo racks found in the back of the turret will always be full of ammo, making it the prime target for enemy tankers who are looking to detonate your ammo rack. Even solid shots like APCR and APDS that commonly pierce your front turret can make their way to the rear of the turret, potentially hitting the ready racks and can cause a critical hit to become a deadly one.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|MG34 (7.92 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -193,13 +182,9 @@ Thanks to the ready rack feature found on this tank, the ammo racks found in the
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 ====General playstyle====
-
 <!--Explain the general role of the tank. (i.e. Archer should be held in rear waiting for enemy vs. M18 Hellcat should speed and reposition every shot)-->
-
 The Tiger II (H) is best used at mid to long ranges, where its small weak spots are hardest to hit. It can, however, be put to work on the front lines, protecting medium tanks and tank destroyers - just be aware of your limited mobility, and ensure you have options should you get advanced upon by multiple enemies.
 
 When used as a sniper, it is best that you find a position with a good overview of the battlefield. Keep your tank positioned directly towards the enemy and keep an eye out for any medium tanks trying to flank you (Tiger II has great frontal armour, do not be afraid to use it. However, keep in mind that the lower plate offers less protection and penetrations can easily cause fires due to the positioning of mechanical parts). It is best that you find cover behind a solid object and slightly rotate your vehicle about 10-15 degrees from the enemy (your turret too). Positioning, combined with distance, can easily give you effective armour greater than 300 mm. When sniping, it is best to wait for the enemy to expose their weak points, fire a steady, accurate shot and retreat to a safe position. Wait for your reload to be completed and slowly show your frontal plate (most of the players will engage even though the chances of penetration are low); once the enemy has fired, you can take your time and engage the tank while they reload.
@@ -231,7 +216,7 @@ Learning your enemies' reload rates, vital components and crew locations is also
 Take care of reading about your enemy's different ammo options, remember that just looking at the penetration values under the short description is not enough, since most tanks will have better options when it comes to ammunition. Learn under what conditions (angle, distance) your tank is safe from all the available ammo for these certain tanks, then take measures to protect yourself.
 
 ====== Positioning ======
-'''Hide your notable weak spots:''' - Ensuring sufficient cover is available is very important for the Tiger II; if you happen to find a position where a piece of rubble covers your lower frontal hull plate you have just made yourself much harder to knock out. You can also use some low profile friendly tank destroyers, providing there is suitable clearance to fire over them. Keep in mind, however, that tanks with solid shot can still shoot through tanks if they have enough penetration.
+'''Hide your notable weak spots:''' - Ensuring sufficient cover is available is very important for the Tiger II; if you happen to find a position where a piece of rubble covers your lower frontal hull plate you have just made yourself much harder to knock out. You can also use some low profile friendly tank destroyers, providing there is suitable clearance to fire over them. Keep in mind, however, that tanks with solid shot can still shoot through tanks if they have enough penetration. 
 
 If you try to move ahead in the face of an enemy you will end with a disabled transmission, a fire and possibly some knocked out crew members or just destroyed. Explore the map, find places where craters, depressions in the ground, soft hills, rubble, rocks or artificial obstacles (such as trenches) will cover you while letting you shoot over it; the Tiger II has very nice gun depression, use it to your advantage. Remember that destructible environmental objects (like brick walls, fences, and even trees) will protect you from a single HEAT, HE and possibly HESH shell hit, but nothing else, and you should not rely on it to cover your sides or as anything else than visual cover. Taking cover behind large rocks, hills, buildings or even ally heavy tanks while you perform repairs or reload can be very useful.
 
@@ -255,18 +240,16 @@ Attempt to set up ambushes where possible, using choke points and intersections 
 
 =====Performance in a 0 to 10 scale=====
 
-\*3.0/10 Rusher: Trying to get to the cap point before a T-44 or a Panther? Keep dreaming. This is a slow slumbering beast that will struggle to achieve 40 km/h even on a flat road, struggle to achieve 30 km/h on flat cross country, struggle to achieve 20 km/h on rough cross country and struggle to achieve 8km/h up a steep hill (that is, if you can climb it at all). Its engine was meant for a tank half its weight and size, so expect a slow tank.
+*3.0/10 Rusher: Trying to get to the cap point before a T-44 or a Panther? Keep dreaming. This is a slow slumbering beast that will struggle to achieve 40 km/h even on a flat road, struggle to achieve 30 km/h on flat cross country, struggle to achieve 20 km/h on rough cross country and struggle to achieve 8km/h up a steep hill (that is, if you can climb it at all). Its engine was meant for a tank half its weight and size, so expect a slow tank.
 
 *4.5/10 brawler: Its heavyweight, limited acceleration and high profile make it unsuitable for highly mobile close quarter battles, if the tank is on its own it will get easily flanked and destroyed by faster medium/light tanks better suited for these battles and most Allied tanks prefer close quarters while engaging the Tiger II, so it quickly becomes a turkey hunt. However, its great gun and heavy frontal armour add to its survivability and if the operator has medium tank support it can become a foothold for the team.
 *6.0/10 flanker: Again, its high profile and low acceleration don't make it the best tank to flank and a medium tank is better suited for this, but it has a fairly good top speed (even if it takes a long time and a flat road to achieve it), its comparatively fast for a heavy tank, its heavy armour gives it extra survivability in case of a counter attack and if it manages to position itself on the enemy's flank, it can quickly reduce them to pyrotechnics.
 *7.4/10 Adamant: Its heavy frontal armour will often serve as a shield to your lighter allies, you will be capable of taking heavy hits and shrug off impacts that most medium tanks cannot take, it has some flaws and weak spots in the frontal armour that the enemy will take advantage of, but with some angling and planning this can be mitigated. Its side armour is, however, very weak.
 *7.6/10 Sniper: Distance is this tank's friend, its gun has a very long effective range and its armour becomes impervious to most enemy weapons at long ranges, but not all of them and it is not by any means a tank destroyer which will have the upper hand over the Tiger II at very long ranges.
-\*9.0/10 Ambusher: Be it sitting still at the end of a street or waiting in the river while the enemy approaches the bridge, this tank will shoot 3 times or more before the enemy even realize what hit them, but you need to be accurate to be dangerous and having support and/or a place to fall back to or a hull-down position is essential for an ambush.
+*9.0/10 Ambusher: Be it sitting still at the end of a street or waiting in the river while the enemy approaches the bridge, this tank will shoot 3 times or more before the enemy even realize what hit them, but you need to be accurate to be dangerous and having support and/or a place to fall back to or a hull-down position is essential for an ambush.
 
 ====Specific enemies worth noting====
-
 <!--Some concerning vehicles to worry about if playing this tank and how to fight them in an encounter. (i.e. Tiger II - shoot the turret cheeks)-->
-
 ===== US Army vehicles =====
 The Tigers' common enemies are going to be the [[M26|M26 Pershing]], an agile American medium tank with a 90 mm gun that can pierce some holes in your frontal armour from a medium range and can get in your flank in no time, but however has relatively thin armour. Two of its variants are noteworthy: the [[T26E5]], an uparmoured version with the same 90 mm gun and the premium [[M26E1]], coming with a more powerful gun.
 
@@ -306,9 +289,7 @@ The only effective way to face a Tiger II with a Tiger II is to hit first and ma
 You will be engaging the Tiger II with your Tiger II in arcade games for the most part, but also in realistic/simulator squadron battles where it is a very popular tank. Remember to read "how to destroy a Tiger II" below, there are more tips available on this topic there.
 
 ====Counter-tactics====
-
 <!--What to expect, if it would be in command of the enemy and how to counter it. (i.e. Just flank)-->
-
 [[File:Tiger II Shooting Guide.jpg|400px|left|thumb|Colour-frames showing the viability of targets on the Königstiger.]]
 
 A Tiger II is a formidable enemy when it's used correctly by its operator, but it's by no means indestructible under any conditions (Even in a downtier, you can still face tanks carrying APDS rounds such as the [[Centurion Mk 1]].
@@ -324,38 +305,35 @@ The Tiger II is very vulnerable to "Circling attacks", that means, running aroun
 If you somehow manage to see an enemy Tiger II from the side, try to land a shot in the middle of the hull, near of the turret (not on the turret, the upper part of the hull), there's a good chance there will be ammo there, and if there isn't, you will either knock out the tank by taking out many crew members or cripple it heavily
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- With the turret face being up to 185 mm thick and some tracks lining the sides, the Tiger II (H) has a much better turret than its predecessor.
-- Like all other Tiger II's, the frontal hull armour is still extremely thick. Nearly impossible for anything but APDS and HEAT to punch through the upper glacis plate
-- As will all tanks bearing the name Tiger, side scraping is still a good tactic to use on the battlefield
-- 40 mm roof armour offers decent protection against lower-calibre air attacks and even artillery
-- Even if an enemy shell does go through the lower glacis plate, the Tiger II's transmission sometimes acts as a buffer. This can lead to a completely unharmed crew
-- Even at the Tiger II's BR, the 88 mm KwK43 cannon is still great. It scores high marks in penetration, accuracy, damage, and fire rate.
-- Decent gun depression of -8 degrees can have the tank utilize hull-down tactics to protect lower glacis
-- Stock PzGr 39/43 shells are still the go-to anti-tank round. Great accuracy, penetration, and damage potential
-- Fully upgraded, the Tiger II (H) has a high top speed and quick traversing turret. This will give you a fighting chance against medium and light tanks trying to flank
-- Good reverse speed to withdraw from disadvantageous situations
+* With the turret face being up to 185 mm thick and some tracks lining the sides, the Tiger II (H) has a much better turret than its predecessor.
+* Like all other Tiger II's, the frontal hull armour is still extremely thick. Nearly impossible for anything but APDS and HEAT to punch through the upper glacis plate
+* As will all tanks bearing the name Tiger, side scraping is still a good tactic to use on the battlefield
+* 40 mm roof armour offers decent protection against lower-calibre air attacks and even artillery
+* Even if an enemy shell does go through the lower glacis plate, the Tiger II's transmission sometimes acts as a buffer. This can lead to a completely unharmed crew
+* Even at the Tiger II's BR, the 88 mm KwK43 cannon is still great. It scores high marks in penetration, accuracy, damage, and fire rate.
+* Decent gun depression of -8 degrees can have the tank utilize hull-down tactics to protect lower glacis
+* Stock PzGr 39/43 shells are still the go-to anti-tank round. Great accuracy, penetration, and damage potential
+* Fully upgraded, the Tiger II (H) has a high top speed and quick traversing turret. This will give you a fighting chance against medium and light tanks trying to flank
+* Good reverse speed to withdraw from disadvantageous situations
 
 '''Cons:'''
 
-- Despite having a better turret than its predecessor, the overall turret armour of the Tiger II (H) is sub-par for the Rank. Nearly every tank the Tiger II can meet in battle can punch right through the turret sides and face
-- This is a really big tank. Difficult to miss, even at long range
-- Long and large gun barrel makes it easy to be spotted and damaged to prevent usage
-- The lower glacis plate is only 100 mm thick. Expect to lose the transmission, driver, and machine gunner every so often
-- With two large ready racks at the back of the turret, any shells penetrating it are extremely dangerous
-- Even when fully upgraded, the engine power is underwhelming for a tank that weighs 68 tons. This tank takes time to reach its top speed and struggles to climb hills
-- While fast in a straight line, the Tiger II's manoeuvrability at low speeds is poor. Enemy mediums can take advantage of this
-- The turret front has a weak spot of only 153 mm of armour
-- This tank can be matched with tanks that have access to APDS or HEAT shells, easily defeating the Tiger II's armour
+* Despite having a better turret than its predecessor, the overall turret armour of the Tiger II (H) is sub-par for the Rank. Nearly every tank the Tiger II can meet in battle can punch right through the turret sides and face
+* This is a really big tank. Difficult to miss, even at long range
+* Long and large gun barrel makes it easy to be spotted and damaged to prevent usage
+* The lower glacis plate is only 100 mm thick. Expect to lose the transmission, driver, and machine gunner every so often
+* With two large ready racks at the back of the turret, any shells penetrating it are extremely dangerous
+* Even when fully upgraded, the engine power is underwhelming for a tank that weighs 68 tons. This tank takes time to reach its top speed and struggles to climb hills
+* While fast in a straight line, the Tiger II's manoeuvrability at low speeds is poor. Enemy mediums can take advantage of this
+* The turret front has a weak spot of only 153 mm of armour
+* This tank can be matched with tanks that have access to APDS or HEAT shells, easily defeating the Tiger II's armour
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 Just before the [[Tiger H1|Tiger I]] entered service in 1942, work has already begun for its successor. In 1937, Henschel was ordered to develop a heavy tank design, with Porsche the following suit in 1939. Porsche developed their new heavy tank off of the failed [[VK 45.01 (P)]], churning out two models designated VK 4502 (P) named Type 180 and 181. Type 180 had its turret mounted centrally while 181 had the turret mounted on the rear with the engine in the centre (akin to the [[Ferdinand]] tank destroyer layout). Both designs used the same components of the VK 4501 (P) and both designs were visually similar except for the turret locations and some mechanical parts, but these two designs never passed wooden prototypes.
 
@@ -391,37 +369,32 @@ This combat vehicle had a number of serious shortcomings, such as low operationa
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_VI_ausf_b_tiger_IIh Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_VI_ausf_b_tiger_IIh Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
-
-- [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
+* [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 ;Videos
 {{Youtube-gallery|Jh8NVtN57Jg|'''Tiger II (H) - The Old King!''' - ''JustinPlaysYT''|QuDuBwAhRa4|'''Tank Chats #47 King Tiger''' - ''The Tank Museum''|yn2q0E5vxqk|'''Sound Recording: Tiger II''' - ''War Thunder Official Channel''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
 
-- [[IS-2 (Family)]]
+* [[IS-2 (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wikipedia:Tiger_II|[Wikipedia] Tiger II]]
-- [https://tanks-encyclopedia.com/ww2/nazi_germany/panzer-vi_konigstiger.php <nowiki>[Tanks Encyclopedia]</nowiki> Panzerkampfwagen Tiger Ausf.B (Sd.Kfz.182) Tiger II]
+* [[wikipedia:Tiger_II|[Wikipedia] Tiger II]]
+* [https://tanks-encyclopedia.com/ww2/nazi_germany/panzer-vi_konigstiger.php <nowiki>[Tanks Encyclopedia]</nowiki> Panzerkampfwagen Tiger Ausf.B (Sd.Kfz.182) Tiger II]
 
 {{Germany heavy tanks}}

@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=germ_marder_1a1
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} German light tank {{Battle-rating}}. It was introduced in [[Update "Red Skies"]].
 
 Being the first true German IFV in the tech tree, the Marder A1- offers some unique options to its operator with regards to dispatching its opponents, no matter if they come on the ground or in the air.
@@ -19,9 +17,7 @@ Being the first true German IFV in the tech tree, the Marder A1- offers some uni
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 Overall, armour on Marder A1- is to be expected from an IFV; thin armour that relies heavily on slopes for protection. However, the turret is unmanned and coupled with a great gun depression of -17°, allowing for a hull-down really well.
 
 From the frontal arc, the armour can shrug off most heavy machine guns and autocannons up to 23 mm calibre, like those found on [[ZSU-23-4|Shilkas]]. Be wary though as lucky shots can get through the turret ring or shatter on the driver's optics, sending shrapnel inside the fighting compartment.
@@ -34,7 +30,7 @@ The last thing to note about the armour is that the roof armour is only 11 mm, m
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
+* Rolled homogeneous armour
 
 {| class="wikitable"
 |-
@@ -52,13 +48,11 @@ The last thing to note about the armour is that the roof armour is only 11 mm, m
 
 '''Notes:'''
 
-- Suspension wheels and tracks are 20 mm thick
+* Suspension wheels and tracks are 20 mm thick
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-
 The mobility of Marder is really, really good, allowing it to rush favourable positions at the start of the battle or flank effectively. With a reverse gearbox, it can move backwards as fast as going forward, making disengaging from an enemy or retreating from unfavourable situations an easy task.
 
 {{tankMobility|abMinHp=930|rbMinHp=531}}
@@ -74,9 +68,7 @@ Since it can't engage enemies at longer ranges with the autocannon and MILANs ar
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|Rh202 (20 mm)}}
 
 The Marder A1- is armed with a dual-feed Rh202 20 mm autocannon. This gun can also be found as a secondary weapon on the [[KPz-70]] and [[Leopard 2K]]; the difference being it gets dedicated belts on Marder instead of being limited only to multipurpose stock belts.
@@ -107,9 +99,9 @@ Rh202 operates on 200 round belts, Marder can take 6 of them in total and you ca
 
 ==== Ammunition ====
 
-- '''Default:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}} - The stock belt consists of HVAP-T and HEFI-T rounds in a ratio of 1:1. It works but can have problems penetrating lighter vehicles due to the occasional chance that it won't hit a critical component with an HVAP-T round.
-- '''DM51A1 HEI-T:''' {{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}} - Stock belt that consists of HEFI-T and HVAP-T rounds in a ratio of 3:1, this belt would be of great use against infantry but have no use in vehicular combat.
-- '''DM43 API-T:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}} - Tier I modification, this belt consists of HVAP-T and HEFI-T rounds in a ratio of 3:1. This belt should be the primary type of ammo for Rh202, since it has the best available penetration.
+* '''Default:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}} - The stock belt consists of HVAP-T and HEFI-T rounds in a ratio of 1:1. It works but can have problems penetrating lighter vehicles due to the occasional chance that it won't hit a critical component with an HVAP-T round.
+* '''DM51A1 HEI-T:''' {{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}} - Stock belt that consists of HEFI-T and HVAP-T rounds in a ratio of 3:1, this belt would be of great use against infantry but have no use in vehicular combat.
+* '''DM43 API-T:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}} - Tier I modification, this belt consists of HVAP-T and HEFI-T rounds in a ratio of 3:1. This belt should be the primary type of ammo for Rh202, since it has the best available penetration.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="7" | Penetration statistics
@@ -129,9 +121,7 @@ Rh202 operates on 200 round belts, Marder can take 6 of them in total and you ca
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.7.0.109''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -145,15 +135,13 @@ Rh202 operates on 200 round belts, Marder can take 6 of them in total and you ca
 |}
 '''Notes''':
 
-- Ammunition is modeled as 6 belts of 200 rounds.
-- Racks disappear after you've fired all belts in the rack.
-- Due to the Marder's belt feed design, the third ammo rack is connected directly to the gun. For the third ammo rack to be emptied, the tank must run out of ammunition.
+* Ammunition is modeled as 6 belts of 200 rounds.
+* Racks disappear after you've fired all belts in the rack.
+* Due to the Marder's belt feed design, the third ammo rack is connected directly to the gun. For the third ammo rack to be emptied, the tank must run out of ammunition.
 
 === Additional armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Some tanks are armed with several guns in one or more turrets. Evaluate the additional weaponry and give advice on its use. Describe the ammunition available for additional weaponry. Give advice on about how to use them and how to fill the ammunition storage. If there is no additional weaponry remove this subsection.'' -->
-
 {{main|MILAN}}
 
 The Marder A1- is armed with a MILAN ATGM launcher with SACLOS guidance. It's an older missile, lacking a tandem warhead, but since composite and reactive armour is a rare sight at the battle rating, it works wonders. It is the main weapon of choice when engaging targets beyond 200 m and when engaging anything heavier than a light tank or SPAAG. The Marder only gets 4 of those, so firing them recklessly can leave it unable to dispatch heavier opponents. Frequent visits to capture points are a must in order to keep fighting.
@@ -175,7 +163,7 @@ As SACLOS missiles, they can be used with some success against ATGM helicopters 
 ! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Full !! Expert !! Aced
 |-
-| 4 || ±5° || N/A || N/A || _.\_\_ || _.** || \_.** || \_.\_\_
+| 4 || ±5° || N/A || N/A || _.__ || _.__ || _.__ || _.__
 |-
 |}
 
@@ -212,10 +200,8 @@ As SACLOS missiles, they can be used with some success against ATGM helicopters 
 |}
 
 ==== [[Ammo racks]] ====
-
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
 <!-- '''Last updated: 2.13.0.125''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -226,15 +212,13 @@ As SACLOS missiles, they can be used with some success against ATGM helicopters 
 |}
 '''Notes''':
 
-- Missiles are modeled individually and disappear after having been launched.
-- It is not possible to select how many missiles to bring into battle.
+* Missiles are modeled individually and disappear after having been launched.
+* It is not possible to select how many missiles to bring into battle.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|3}}
 {{Specs-Tank-Weapon|4}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|MG3A1 (7.62 mm)}}
 
 The Marder is armed with two MG3 machine guns. One is coaxial to the Rh202, second is in a small independent turret above the troop compartment.
@@ -258,9 +242,7 @@ By using the "Select machine gun" key, it is possible to scout enemies with snip
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 Marder A1- is a pretty decent IFV for its rank, but it is not designed to fight enemy tanks head on.
 
 Best strategy is to either rush favourable positions near capture points in order to spot and counter enemy light vehicles rushing them while occasionally firing your ATGM at high-value targets.
@@ -272,64 +254,57 @@ If forced to CQC or brawl, try to stick to your allies and support them. As soon
 If there are no allies in close proximity, then your speed and ability to fire on the move can be exploited in aggressive pushes, but narrow corridors and streets often present major disadvantages for your lightly armoured IFV; so sticking to ambush tactics might be preferable.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- 20 mm cannon is very effective at quickly destroying aircraft, SPAA, and lightly armoured vehicles
-  ** High rate of fire
-  ** Plenty of ammo
-  ** Very fast turret rotation
-  ** 17 degrees of gun depression, 69 degrees of gun elevation, with very fast vertical traverse speed
-- Effective MILAN missile
-- Very manoeuvrable, high top speed and high power-to-weight ratio
+* 20 mm cannon is very effective at quickly destroying aircraft, SPAA, and lightly armoured vehicles
+** High rate of fire
+** Plenty of ammo
+** Very fast turret rotation
+** 17 degrees of gun depression, 69 degrees of gun elevation, with very fast vertical traverse speed
+* Effective MILAN missile
+* Very manoeuvrable, high top speed and high power-to-weight ratio
 
 '''Cons:'''
 
-- 20 mm gun is largely ineffective against a large majority of ground vehicles you will face
-- Only 4 MILAN missiles
-- Thin armour
-- Rather tall profile
-- MILAN missiles have a rather slow velocity
-- Shots to the turret often lead to ammo rack detonation as it is connected to the turret
+* 20 mm gun is largely ineffective against a large majority of ground vehicles you will face
+* Only 4 MILAN missiles
+* Thin armour
+* Rather tall profile
+* MILAN missiles have a rather slow velocity
+* Shots to the turret often lead to ammo rack detonation as it is connected to the turret
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_marder_1a1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_marder_1a1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|wGrhRQ3yrFs|'''The Shooting Range #262''' - ''Metal Beasts'' section at 00:27 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/7164-development-marder-a1-the-first-ifv-of-the-west-en|[Devblog] Marder A1-: the First IFV of the West]]
-- [[wikipedia:Marder_(IFV)|[Wikipedia] Marder (IFV)]]
+* [[wt:en/news/7164-development-marder-a1-the-first-ifv-of-the-west-en|[Devblog] Marder A1-: the First IFV of the West]]
+* [[wikipedia:Marder_(IFV)|[Wikipedia] Marder (IFV)]]
 
 {{TankManufacturer Thyssen-Henschel}}
 {{Germany light tanks}}

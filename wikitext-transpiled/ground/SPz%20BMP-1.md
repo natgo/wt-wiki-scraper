@@ -8,19 +8,16 @@
 }}
 {{Specs-Card
 |code=germ_bmp_1_ddr
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage*{{PAGENAME}}.png|ArtImage2*{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} German light tank {{Battle-rating}}. It was introduced in [[Update 1.93 "Shark Attack"]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 The SPz BMP-1 has very little to speak of in the armour department. Minimal frontal and nearly non-existent side armour results in the vehicle being vulnerable to almost any incoming fire. As such, the vehicle's survivability stems entirely from its mobility and reasonably small profile. Where possible, utilise hills or other cover, only exposing as much of the vehicle as is necessary to engage an unaware target.
@@ -28,7 +25,6 @@ The SPz BMP-1 has very little to speak of in the armour department. Minimal fron
 Despite the lack of armour, however, the SPz BMP-1 will, on occasion, survive hits unexpectedly - the internals of the vehicle are largely non-critical and many rounds will over-penetrate.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
-
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
 
@@ -45,12 +41,11 @@ Despite the lack of armour, however, the SPz BMP-1 will, on occasion, survive hi
 |}
 '''Notes:'''
 
-- Suspension wheels and tracks are 10 mm thick.
-- Belly armour is 6 mm thick.
+* Suspension wheels and tracks are 10 mm thick.
+* Belly armour is 6 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=465|rbMinHp=265}}
@@ -62,9 +57,7 @@ Despite the lack of armour, however, the SPz BMP-1 will, on occasion, survive hi
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|2A28 (73 mm)}}
 
 The 2A28 main cannon, despite being the 'main' armament will more often than not act more as secondary armament, at least once the BMP-1P upgrade is researched, due to the 9M113 ATGM proving significantly more controllable and effective at all engagement ranges. Despite this, the PG-9 HEAT round proves valuable in a pinch, with well-placed shots able to disable critical components on most vehicles the {{PAGENAME}} will face. Keep in mind that the {{PAGENAME}} does not feature any sort of stabilisation at all, and due to its light weight the gun is near impossible to get on target at speed.
@@ -130,9 +123,7 @@ The HEAT round has 300 mm penetration and very good damage output, single-shot d
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_BMP-1.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -144,15 +135,13 @@ The HEAT round has 300 mm penetration and very good damage output, single-shot d
 |}
 '''Notes''':
 
-- Shells are modeled individually and disappear after having been shot or loaded.
-- The single ammunition rack consists of a shell barillet located around the turret basket.
+* Shells are modeled individually and disappear after having been shot or loaded.
+* The single ammunition rack consists of a shell barillet located around the turret basket.
 
 === Additional armament ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Some tanks are armed with several guns in one or more turrets. Evaluate the additional weaponry and give advice on its use. Describe the ammunition available for additional weaponry. Give advice on about how to use them and how to fill the ammunition storage. If there is no additional weaponry remove this subsection.'' -->
-
 {{main|9M14|9M113 Konkurs}}
 '''9M14'''
 
@@ -162,8 +151,8 @@ While stock, the {{PAGENAME}} is equipped with 9M14 missiles that penetrate 400 
 
 4 x 9M14 ATGM
 
-- Guidance type: MCLOS
-- Firing range: 3 km
+* Guidance type: MCLOS
+* Firing range: 3 km
 
 '''9M113'''
 
@@ -173,8 +162,8 @@ Once the BMP-1P upgrade is researched, the rail-mounted 9M14 ATGM is replaced wi
 
 4 x 9M113 ATGM (BMP-1P)
 
-- Guidance type: SACLOS
-- Firing range: 3 km
+* Guidance type: SACLOS
+* Firing range: 3 km
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -185,7 +174,7 @@ Once the BMP-1P upgrade is researched, the rail-mounted 9M14 ATGM is replaced wi
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 4 || rowspan="2" | -5°/+10° || rowspan="2" | -15°/+37° || rowspan="2" | N/A || 19.04 || 26.35 || 32.00 || 35.39 || 37.65 || rowspan="2" | _.\_\_ || rowspan="2" | _.** || rowspan="2" | \_.** || rowspan="2" | \_.\_\_
+| rowspan="2" | 4 || rowspan="2" | -5°/+10° || rowspan="2" | -15°/+37° || rowspan="2" | N/A || 19.04 || 26.35 || 32.00 || 35.39 || 37.65 || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
 |-
 ! ''Realistic''
 | 11.90 || 14.00 ||17.00 ||18.80 ||20.00
@@ -193,7 +182,7 @@ Once the BMP-1P upgrade is researched, the rail-mounted 9M14 ATGM is replaced wi
 |}
 '''Note''':
 
-- The vertical and horizontal traverse depend on the turret position and are only relevant to the 9M113 ATGM.
+* The vertical and horizontal traverse depend on the turret position and are only relevant to the 9M113 ATGM.
 
 ==== Ammunition ====
 {| class="wikitable sortable" style="text-align:center" width="100%"
@@ -232,9 +221,7 @@ Once the BMP-1P upgrade is researched, the rail-mounted 9M14 ATGM is replaced wi
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_BMP-1.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -247,13 +234,11 @@ Once the BMP-1P upgrade is researched, the rail-mounted 9M14 ATGM is replaced wi
 |}
 '''Note''':
 
-- The missiles are listed from M1 to M4. M2 is the 1st rack. M3-M4 constitutes the 2nd rack.
+* The missiles are listed from M1 to M4. M2 is the 1st rack. M3-M4 constitutes the 2nd rack.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|4}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|PKT (7.62 mm)}}
 
 The {{PAGENAME}} comes equipped with a coaxial 7.62 mm PKT machine gun. This is only useful for clearing small obstacles or exposed crew in open-topped vehicles. The {{PAGENAME}} is only equipped with one PKT machine gun with an ammo reserve of 1,000 rounds.
@@ -271,7 +256,6 @@ It's not useful and cannot aim at air targets due to the coaxial mount. As such,
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The BMP-1 is quite distinctive due to its oddly-shaped hull. The vehicle is crewed by only three (no commander), but is very spacious, so shots from the side occasionally cause minimal or even no damage. The BMP-1 is equipped with a short-barreled 73 mm gun (an odd calibre) firing exclusively anti-tank grenades. The projectile drop is extreme, albeit not the worst in-game, and it can be used to great effect against many of the vehicles the BMP will face due to the consistent 300 mm of penetration at range. The standard PG-9 ammunition has an explosive mass of about 1.25 kg. The trade-off, in this case, is the low velocity and relatively poor slope characteristics (the penetration drop in half if more than 60 degrees of slope). Finally, as standard, the BMP-1 is equipped with the 9M14 ATGM, capable of penetrating 400 mm and carrying an explosive mass of 2.6 kg. It is WASD guided, and therefore somewhat tricky to use at first (and ''especially'' difficult to use in high packet-loss or high ping matches). An optional modification for the BMP-1 allows it to use turret-mounted smoke grenades as well as a next-generation missile, the 9M113. The BMP-1 (as of 1.77.2.149) is the earliest vehicle in-game to be able to use a SACLOS (mouse-guided) system for an ATGM. Not only is the missile nearly twice as fast as the 9M14, but it carries a notably larger explosive payload, and can penetrate up to 600 mm at 90 degrees at any range. As of 1.91, the BMP-1 can research NVD, which can help during night battles to help with visibility. NVD is available in commander, gunner, driver and outside viewports. Once purchased, the NVD modification also allows the use of a Infrared Spotlight to help illuminate targets if they are hard to see. However, it is mounted to the commander's hatch on the hull; while this allows it to rotate as long as the commander is alive, it will be stuck in place if the commander is knocked out.
@@ -279,36 +263,33 @@ The BMP-1 is quite distinctive due to its oddly-shaped hull. The vehicle is crew
 Due to its nearly non-existent armour, the BMP-1 shouldn't be played like anything with actual armour. It is best used in a support or ambush role, using cover to ambush opponents, then taking them out with the combination of the autocannon and ATGM. The BMP-1 is quite effective when played this way. When in close-quarters combat, it is important to note that the missile launcher has slightly faster traverse than the turret. This can save it from being killed from the flanks. It can also be used to take out opponents from medium to long range with its missiles, although this strategy will prevent the BMP-1 from using its main gun. The small projectiles lose even more of their already small penetration at long ranges, but the missiles will not be affected by gravity or air resistance until very extreme ranges. Finally the missiles and sometimes the autocannon can be used to take out slow air targets such as the helicopters that you will start to meet at these BR's.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
-- Fairly mobile, both weapon systems are particularly effective against the lightly armoured vehicles it will encounter often such as the [[Leopard I]], [[OF-40]], etc.
-- One of the earliest ATGM vehicles available and the earliest to receive mouse-guided (SACLOS) ATGMs (with the BMP-1P modification)
-- Decent main gun HEAT round penetrating up to 300 mm of armour at any range, effective against last-gen heavy tanks like the [[Conqueror]], [[M103]], etc.
-- Amphibious ability which can allow it to reach positions that other vehicles struggle to
-- Functional even in uptiers, due to its piercing ATGM and HEAT
-- All ammunition types are default and as such have no cost
-- Night Vision allows effectiveness in night battles
+* Fairly mobile, both weapon systems are particularly effective against the lightly armoured vehicles it will encounter often such as the [[Leopard I]], [[OF-40]], etc.
+* One of the earliest ATGM vehicles available and the earliest to receive mouse-guided (SACLOS) ATGMs (with the BMP-1P modification)
+* Decent main gun HEAT round penetrating up to 300 mm of armour at any range, effective against last-gen heavy tanks like the [[Conqueror]], [[M103]], etc.
+* Amphibious ability which can allow it to reach positions that other vehicles struggle to
+* Functional even in uptiers, due to its piercing ATGM and HEAT
+* All ammunition types are default and as such have no cost
+* Night Vision allows effectiveness in night battles
 
 '''Cons:'''
 
-- Mediocre reverse speed, particularly for a light tank
-- Default missiles are manually guided, upgraded missiles must be unlocked with the BMP-1P research
-- Chemical ammunition only, may struggle to damage vehicles with ERA like the [[M60A1 RISE (P)]]
-- All available ammunition is hyper-sensitive and will detonate on hitting light obstacles such as fences or bushes
-- Somewhat large silhouette for a light tank. Will get seen and shot at easier
-- Minimal gun depression makes it struggle in hills
-- Has no stabiliser, accurate shots on the move or in water are often not possible
-- Only three crew members, two of whom sit extremely close together, reducing the vehicle's survivability
-- Vulnerable to heavy machine gun and light cannon fire, particularly from the sides or top. SPAA like the [[Gepard]] are a big threat
-- Very vulnerable to aircraft and helicopters
-- Bombs and artillery can deal significant damage, even when at a distance
-- Infrared Spotlight mounted to commander's hatch, won't rotate with turret when the commander is knocked out
+* Mediocre reverse speed, particularly for a light tank
+* Default missiles are manually guided, upgraded missiles must be unlocked with the BMP-1P research
+* Chemical ammunition only, may struggle to damage vehicles with ERA like the [[M60A1 RISE (P)]]
+* All available ammunition is hyper-sensitive and will detonate on hitting light obstacles such as fences or bushes
+* Somewhat large silhouette for a light tank. Will get seen and shot at easier
+* Minimal gun depression makes it struggle in hills
+* Has no stabiliser, accurate shots on the move or in water are often not possible
+* Only three crew members, two of whom sit extremely close together, reducing the vehicle's survivability
+* Vulnerable to heavy machine gun and light cannon fire, particularly from the sides or top. SPAA like the [[Gepard]] are a big threat
+* Very vulnerable to aircraft and helicopters
+* Bombs and artillery can deal significant damage, even when at a distance
+* Infrared Spotlight mounted to commander's hatch, won't rotate with turret when the commander is knocked out
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 '''Development'''
 
 In the 1950s, Soviet armoured personnel carrier (APC) tactics consisted of lightly armoured vehicles that would transport soldiers to combat zones, and then head back behind the lines to safety. During this time, the West German Bundeswehr was using the Schützenpanzer Lang and infantry fighting vehicle (IFV) tactics, where the vehicles would work with the infantry and tanks in order to support them, especially against lightly armoured targets. The BMP was a Soviet IFV design created in the late 1950's. Some of the requirements were the ability for all of the infantry carried to be able to fire from within the vehicle, which was unseen before in IFV designs. It was intended to support the infantry and combat enemy light vehicles. The design placed emphasis on speed and manoeuvrability, potent armament, and sufficient armament to protect against 23 mm autocannons over the frontal arc. There was a debate over how the vehicle should be wheeled or tracked, and a number of options were explored including hybrid designs with both. The design that was chosen was a tracked vehicle with the engine in the front and the crew compartment in the rear; it was designated the Object 764. A prototype was created in 1964, and the final design was chosen in 1965 - an improved model called the Object 765. In service the production model was called the BMP-1.
@@ -330,37 +311,34 @@ The BMP-1P was an upgrade to the ATGM systems of the BMP-1. It replaced the 9M14
 In 1974, East Germany ordered 1,133 BMP-1, and they were delivered between 1973 and 1989. Some of those BMP-1 were produced in Czechoslovakia. About 270 of the East German BMP-1's were of the BMP-1P type, with 950 being BMP-1SP2. The East German BMP-1P were known as the Schützenpanzer BMP-1P, or SPz BMP-1P. After the German reunification in 1990, the Bundeswehr modified 851 BMP-1 to NATO standards, and they entered service with the Bundeswehr as the BMP-1A1 Ost. Most of the vehicles upgraded were of the BMP-1P variant. In 1990, 110 unmodified BMP-1/BMP-1P were sold to Finland. 501 BMP-1A1 Ost. were sold to Greece between 1993 and 1994, and 350 were sold to Sweden in the early 1990's.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_bmp_1_ddr Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_bmp_1_ddr Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|SJoW-2_6J6o|'''Amphibious tanks'''  discusses the {{PAGENAME}} at 5:15 - ''War Thunder Official Channel''|2h5kFyznXKU|'''Best IFVs''' discusses the {{PAGENAME}} at 0:29 - ''War Thunder Official Channel''}}
+{{Youtube-gallery|SJoW-2_6J6o|'''Amphibious tanks'''  discusses the {{PAGENAME}} at 5:15  - ''War Thunder Official Channel''|2h5kFyznXKU|'''Best IFVs''' discusses the {{PAGENAME}} at 0:29 - ''War Thunder Official Channel''}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wikipedia:BMP-1#Variants_and_modernization|[Wikipedia] BMP-1 - Variants and modernization]]
-- [https://www.tanks-encyclopedia.com/coldwar/USSR/soviet_BMP-1.php <nowiki>[Tanks Encyclopedia]</nowiki> Soviet BMP-1 IFV (1965)]
+* [[wikipedia:BMP-1#Variants_and_modernization|[Wikipedia] BMP-1 - Variants and modernization]]
+* [https://www.tanks-encyclopedia.com/coldwar/USSR/soviet_BMP-1.php <nowiki>[Tanks Encyclopedia]</nowiki> Soviet BMP-1 IFV (1965)]
 
 === References ===
 
 ;Bibliography
-
-- David B. (2015, December 1). BMP-1. Tank Encyclopedia. https://tanks-encyclopedia.com/coldwar/USSR/soviet_BMP-1.php
-- BMP-1. (2020, March 25). In ''Wikipedia''. https://en.wikipedia.org/w/index.php?title=BMP-1&oldid=947316322
+* David B. (2015, December 1). BMP-1. Tank Encyclopedia. https://tanks-encyclopedia.com/coldwar/USSR/soviet_BMP-1.php
+* BMP-1. (2020, March 25). In ''Wikipedia''. https://en.wikipedia.org/w/index.php?title=BMP-1&oldid=947316322
 
 {{TankManufacturer ChTZ}}
 {{Germany light tanks}}

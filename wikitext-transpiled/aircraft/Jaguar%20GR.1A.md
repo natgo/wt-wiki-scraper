@@ -9,17 +9,13 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Battle-rating}}. It was introduced in [[Update "Ground Breaking"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The Jaguar GR.1A handles nearly the same as the previous [[Jaguar GR.1]]. However, due to having access to Rolls-Royce Turbomeca Limited Adour Mk.104 engines, the acceleration, cruise speed, and maximum speed are significantly increased. It generally maintains similar flight performance and use, with a slightly reduced turn-time at high speeds. It has the same loadout capacity as the previous Jaguar, performing nearly exactly the same with mounted ordnance. It is nowhere near being the fastest plane at its battle rating but can become a difficult opponent when being hunted down, especially if the Jaguar has a speed advantage.
 
 '''When on take-off:'''
@@ -55,7 +51,7 @@ Landings should be done below 500 km/h but depending on the situation, map and p
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || ✓ || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -121,9 +117,7 @@ Landings should be done below 500 km/h but depending on the situation, map and p
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 The aircraft gets no extra armoured protection, therefore it's extra weak against autocannons. The fuel tanks are self-sealing. This will help you a lot when getting shot at by enemy autocannons, but not air-to-air missiles, which are very common at this battle rating. As seen in the previous Jaguar, damage done to the engines will most likely result in making a non-recoverable manoeuvre and they are prompt to catch fire easily. Keep this in mind when fighting other aircraft and SPAA. The Jaguar has access to a Radar Warning Receiver, which can be useful to alert the pilot of incoming aircraft with radar-guided missiles, or ground based radar anti-air.
 
 The use of chaff and flares significantly improves the survivability of the aircraft in all game modes. Flares are a very useful tool to combat both IR-guided air-to-air missiles and ground vehicles such as the [[Ozelot]], [[Type 93]], and [[SIDAM 25 (Mistral)]]. However, chaff still remains useless against SPAA radars. The best countermeasure against them is to stay out of sight by flying too high or too low.
@@ -144,35 +138,31 @@ The use of chaff and flares significantly improves the survivability of the airc
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|ADEN Mk.4 (30 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 2 x 30 mm ADEN Mk.4 cannons, belly-mounted (150 rpg = 300 total)
-  ** 2 x 30 mm ADEN Mk.4 cannons + 60 x countermeasures
+* A choice between two presets:
+** 2 x 30 mm ADEN Mk.4 cannons, belly-mounted (150 rpg = 300 total)
+** 2 x 30 mm ADEN Mk.4 cannons + 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|Mk.M2 (540 lb)|H.E. M.C. Mk.13 (1,000 lb)|CRV7 M247|SNEB type 23}}
 {{main|Mk.13 (546 kg)|AIM-9G Sidewinder}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x AIM-9G Sidewinder missiles
-- 8 x 540 lb Mk.M2 bombs (4,320 lb total)
-- 8 x 1,000 lb H.E. M.C. Mk.13 bombs (8,000 lb total)
+* Without load
+* 2 x AIM-9G Sidewinder missiles
+* 8 x 540 lb Mk.M2 bombs (4,320 lb total)
+* 8 x 1,000 lb H.E. M.C. Mk.13 bombs (8,000 lb total)
 
-- 76 x CRV7 M247 rockets
-- 72 x SNEB type 23 rockets
-- 2 x 546 kg Mk.13 bombs (1,092 kg total)
+* 76 x CRV7 M247 rockets
+* 72 x SNEB type 23 rockets
+* 2 x 546 kg Mk.13 bombs (1,092 kg total)
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -206,9 +196,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Jaguar is mostly an air-to-ground plane with defensive capabilities against aircraft. The role of the Jaguar is pretty straightforward when it comes to air battles: base bombing or ground/naval units bombing. It is recommended to utilize the different bomb payloads combined with flares or with the AIM-9G if desired. Rockets are not recommended to be taken as they are inaccurate and useless against lightly armoured vehicles, even with the ballistic computer. GBUs are the main weapon against any vessel. They are recommended to be used against destroyers, cruisers, battleships, and even enemy carriers. A well-placed Mk.13 is enough to sink a carrier.
 
 The Jaguar has a wide variety of payloads for all types of players: for those who want to be fast and engage bases or ground targets as quickly as possible, and for those who want to carry out as much destruction as possible. The main advantage of the GR.1A over other strike aircraft is its ability to carry AIM-9G as well as significant ground ordnance due to the over-wing pylons. The recommended payload for a fair trade in speed, firepower and defensive capabilities is the 2 x AIM-9G + 6 x 1,000 lb bombs payload, which provides more than enough bombs to take 2 bases in maps where there are only 3 bases and airfield, or 1 of the 4 respawning bases which take double the payload. If the player wants to play a more aggressive full bomb payload, then the 8 x 1,000 lb bombs payload can be carried.
@@ -234,63 +222,57 @@ As soon as the bombs are released, they will instantly start to guide themselves
 A single GBU is needed per ground target, not only because the bomb has the equivalent to 288 kg of TNT, but the pinpoint accuracy will, most of the time, hit the enemy vehicle's roof, destroying it 99% of the time. Assault fuze is advised here, no need for a time fuze for multiple reasons: There is no risk of explosion self-damage as bombing can be easily done at stand-off distance, assault fuze will ensure the bomb explodes when it hits on target which, in case the target is not hit directly, reduces the escape window for the target.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Good speed
-- Excellent roll rate
-- Decent turning circle
-- Sufficient quantity of flares & chaff
-- Good nose-mounted autocannon
-- Wide variety of ordnance
-- Effective air-to-air missiles
-- Access to laser-guided bombs
-- Air-to-air missiles are mounted on over wing pylons so you do not have to sacrifice any air-to-ground ordnance to carry them (unlike on the [[Jaguar GR.1]] and [[Jaguar A]])
-- TIALD targeting pod has thermal imaging, unlike the ATLIS II targeting pod on the [[Jaguar A]]
+* Good speed
+* Excellent roll rate
+* Decent turning circle
+* Sufficient quantity of flares & chaff
+* Good nose-mounted autocannon
+* Wide variety of ordnance
+* Effective air-to-air missiles
+* Access to laser-guided bombs
+* Air-to-air missiles are mounted on over wing pylons so you do not have to sacrifice any air-to-ground ordnance to carry them (unlike on the [[Jaguar GR.1]] and [[Jaguar A]])
+* TIALD targeting pod has thermal imaging, unlike the ATLIS II targeting pod on the [[Jaguar A]]
 
 '''Cons:'''
 
-- Underwhelming stock performance
-- Limited air-to-air ordnance
-- Rather lacking ammunition for the 30 mm cannons
-- Poor energy retention means that you bleed speed very quickly in turns
-- Very high fuel consumption when using afterburner (more so than on other aircraft)
+* Underwhelming stock performance
+* Limited air-to-air ordnance
+* Rather lacking ammunition for the 30 mm cannons
+* Poor energy retention means that you bleed speed very quickly in turns
+* Very high fuel consumption when using afterburner (more so than on other aircraft)
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=jaguar_gr1a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=jaguar_gr1a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|DekpjJT2Yws|'''The Shooting Range #279''' - ''Metal Beasts'' section at 00:26 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[F-1]]
-- [[T-2]]
+* [[F-1]]
+* [[T-2]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/538757-jaguar-gr1a Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/538757-jaguar-gr1a Official data sheet - more details about the performance]
 
 {{AirManufacturer SEPECAT}}
 {{Britain jet aircraft}}

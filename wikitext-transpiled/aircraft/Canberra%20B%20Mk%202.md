@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet bomber {{Battle-rating}}. It was introduced in [[Update 1.43]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -45,7 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet bomber {{Battle-ra
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -111,13 +108,12 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet bomber {{Battle-ra
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- No armour plating
-- No armour glazing
-- Critical components located at the fuselage of the aircraft (fuel, pilot, controls)
-- Engines in wings
+* No armour plating
+* No armour glazing
+* Critical components located at the fuselage of the aircraft (fuel, pilot, controls)
+* Engines in wings
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -126,50 +122,43 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet bomber {{Battle-ra
 {{Specs-Avia-Armaments}}
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|H.E. M.C. Mk.II (500 lb)|H.E. M.C. Mk.13 (1,000 lb)|H.C. 4,000 lb Mk.II (4,000 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 9 x 500 lb H.E. M.C. Mk.II bombs (4,500 lb total)
-- 6 x 1,000 lb H.E. M.C. Mk.13 bombs (6,000 lb total)
-- 1 x H.C. 4,000 lb Mk.II bomb + 2 x 1,000 lb H.E. M.C. Mk.13 bombs (6,000 lb total)
+* 9 x 500 lb H.E. M.C. Mk.II bombs (4,500 lb total)
+* 6 x 1,000 lb H.E. M.C. Mk.13 bombs (6,000 lb total)
+* 1 x H.C. 4,000 lb Mk.II bomb + 2 x 1,000 lb H.E. M.C. Mk.13 bombs (6,000 lb total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 Climbing high to around 10 kilometres will save you from most predators and AA fire in both AB and RB as the Canberra has one of the best climb rates and high-alt performances in the game. Watch out for the [[Me 163 B|Me 163]] and [[Ki-200]], who can climb to you easily thanks to their Rocket Engines. A common strategy by Canberras (and B-57s, as they are the same airframe) is to head to one base, drop all payload on such base and then running for their lives. Using the 6 x 1,000 lb payload is recommended for usage on bases while 1 x 4,000 lb + 2 x 1,000 lb payload works best when used on airfields.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Good stock engine power
-- Good stock acceleration speed
-- Powerful airbrakes
-- Good top speed for such a large aircraft
-- Decent payload
-- High service ceiling(max. altitude)
-- Great climb rate
+* Good stock engine power
+* Good stock acceleration speed
+* Powerful airbrakes
+* Good top speed for such a large aircraft
+* Decent payload
+* High service ceiling(max. altitude)
+* Great climb rate
 
 '''Cons:'''
 
-- May rip wings by going straight for a while without intelligent use of air-brakes
-- Likely to be a big target for fighter aircraft with an air-spawn and be engaged first.
-- Slower than most fighters, which means you will be caught up by all jets that chase you
-- An easy target for anything with guns that can go over 800 km/h
-- First few fights will be running to a base, bombing the base and ending up dead by enemy jets.
+* May rip wings by going straight for a while without intelligent use of air-brakes
+* Likely to be a big target for fighter aircraft with an air-spawn and be engaged first.
+* Slower than most fighters, which means you will be caught up by all jets that chase you
+* An easy target for anything with guns that can go over 800 km/h
+* First few fights will be running to a base, bombing the base and ending up dead by enemy jets.
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
-The Canberra B Mk.2 was created in 1949 to replace the Mosquito fast bomber. It was designed to have outstanding high altitude performance and speed, being unparalleled for 10 years. Despite the RAF originally expecting the Canberra to be obsolete within a few years of entering service, so much so that work to develop a replacement (eventually leading to the TSR-2) was started before it had even entered service, it would go on to be one of the RAF's longest serving aircraft. The Canberra remained in front line service with the RAF until its retirement in 2006, some 55 years after it first entered service (although it spent a lot of that time in the photo-reconnaissance role, as opposed to its original purpose as a bomber). The Canberra was replaced in the strategic bomber role by the Valiant (and other V-bombers), and in the strike role by the Buccaneer (following the cancellation of the TSR-2 programme). It established a world's highest altitude record of 21,430 m in 1957 and was the first jet-powered aircraft to make a non-stop transatlantic flight.
+The Canberra B Mk.2 was created in 1949 to replace the Mosquito fast bomber. It was designed to have outstanding high altitude performance and speed, being unparalleled for 10 years. Despite the RAF originally  expecting the Canberra to be obsolete within a few years of entering service, so much so that work to develop a replacement (eventually leading to the TSR-2) was started before it had even entered service, it would go on to be one of the RAF's longest serving aircraft. The Canberra remained in front line service with the RAF until its retirement in 2006, some 55 years after it first entered service (although it spent a lot of that time in the photo-reconnaissance role, as opposed to its original purpose as a bomber). The Canberra was replaced in the strategic bomber role by the Valiant (and other V-bombers), and in the strike role by the Buccaneer (following the cancellation of the TSR-2 programme). It established a world's highest altitude record of 21,430 m in 1957 and was the first jet-powered aircraft to make a non-stop transatlantic flight.
 
 {{break}}
 {{Navigation-Start|{{Annotation|Archive of the in-game description|An archive of the historical description of the vehicle that was presented in-game prior to Update 1.55 'Royal Armour'}}}}
@@ -184,31 +173,28 @@ The Canberra was popular with its aircrew due to its performance, popular with g
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=canberra_bmk2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=canberra_bmk2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
 
-- [[Canberra (Family)]]
+* [[Canberra (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/devblog/current/648|[Devblog] Canberra Mk2]]
-- [[wikipedia:English_Electric_Canberra|[Wikipedia] English Electric Canberra]]
+* [[wt:en/devblog/current/648|[Devblog] Canberra Mk2]]
+* [[wikipedia:English_Electric_Canberra|[Wikipedia] English Electric Canberra]]
 
 {{AirManufacturer EEC}}
 {{Britain jet aircraft}}

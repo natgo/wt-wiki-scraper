@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British bomber {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -45,7 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British bomber {{Battle-rating
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -76,10 +73,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British bomber {{Battle-rating
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 9 mm Steel plate in the pilot's seat.
+* 9 mm Steel plate in the pilot's seat.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -88,37 +84,31 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British bomber {{Battle-rating
 {{Specs-Avia-Armaments}}
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|G.P. Mk.I (1,000 lb)|H.C. 4,000 lb Mk.II (4,000 lb)|18 inch Mark XII (450 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 10 x 250 lb G.P. Mk.IV bombs (2,500 lb total)
-- 18 x 250 lb G.P. Mk.IV bombs (4,500 lb total)
-- 9 x 500 lb G.P. Mk.IV bombs (4,500 lb total)
-- 2 x 1,000 lb G.P. Mk.I bombs + 6 x 250 lb G.P. Mk.IV bombs (3,500 lb total)
-- 2 x 18 inch Mark XII torpedoes
-- 1 x H.C. 4,000 lb Mk.II bomb (4,000 lb total)
+* 10 x 250 lb G.P. Mk.IV bombs (2,500 lb total)
+* 18 x 250 lb G.P. Mk.IV bombs (4,500 lb total)
+* 9 x 500 lb G.P. Mk.IV bombs (4,500 lb total)
+* 2 x 1,000 lb G.P. Mk.I bombs + 6 x 250 lb G.P. Mk.IV bombs (3,500 lb total)
+* 2 x 18 inch Mark XII torpedoes
+* 1 x H.C. 4,000 lb Mk.II bomb (4,000 lb total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|Browning (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 2 x 7.7 mm Browning machine guns, nose turret (1,000 rpg = 2,000 total)
-- 4 x 7.7 mm Browning machine guns, tail turret (2,500 rpg = 10,000 total)
-- 1 x 7.7 mm Browning machine gun, 2 x side turrets (600 rpg)
+* 2 x 7.7 mm Browning machine guns, nose turret (1,000 rpg = 2,000 total)
+* 4 x 7.7 mm Browning machine guns, tail turret (2,500 rpg = 10,000 total)
+* 1 x 7.7 mm Browning machine gun, 2 x side turrets (600 rpg)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 ====Air battles====
 In Air Battles, the winning tactic is to climb high and bomb your targets. If you don't want to climb the {{PAGENAME}}, is a great low flying bomber, offering great speed and manoeuvrability. However, it lacks any armour and only offers limited protection with turrets in the front, side and rear. It lacks armour plates, unlike other bombers of the other nations. A few well placed shots will see {{PAGENAME}}, getting torn apart to any aircraft which drop down to engage it from the top or belly. However, its rear gun turret offers four 7.7 mm machine guns which are able to shoot down the enemy aircraft with a few well placed shots.
 
@@ -133,8 +123,8 @@ All of the Wellington bombers are well suited for the naval warfare, The {{PAGEN
 
 Those are:
 
-- 2 х 18 inch Mark XII torpedoes
-- 1 x 4,000 lb H.C. 4,000 lb Mk.II bomb
+* 2 х 18 inch Mark XII torpedoes
+* 1 x 4,000 lb H.C. 4,000 lb Mk.II bomb
 
 With the torpedoes, the strategy goes in finding a good approach angle to successfully deliver both torpedoes to preferably gunboats and destroyers as they will have a tougher time evading them. Beware of anti-aircraft fire and swiftly turn back to safety while preparing the next drop.
 
@@ -162,29 +152,27 @@ Just be alert of enemy planes that will be eager to take you down, using the Arm
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Has twice as many tail guns as its predecessor
-- Can carry a reasonable maximum payload for a medium bomber
-- Engines seem to be indestructible and will remain operational even under heavy fire
-- Can survive belly landings if need be
-- Half-decent at operating in the gunship role
-- Engines are capable of using WEP
+* Has twice as many tail guns as its predecessor
+* Can carry a reasonable maximum payload for a medium bomber
+* Engines seem to be indestructible and will remain operational even under heavy fire
+* Can survive belly landings if need be
+* Half-decent at operating in the gunship role
+* Engines are capable of using WEP
 
 '''Cons:'''
 
-- Weaponry consists purely of 7.7 mm machine guns, making fighting against fighters a serious challenge at best
-- Low speed makes the lack of defensive guns painfully obvious
-- Anything with a cannon will be able to destroy the bomber without much effort
-- Gun turrets have no protective armour, leaving turret gunners vulnerable
-- Although you can carry torpedoes, they are some of the worst ones in the game due to the terrible drop requirements
-- Tail controls are easily knocked out from fighters or flak
+* Weaponry consists purely of 7.7 mm machine guns, making fighting against fighters a serious challenge at best
+* Low speed makes the lack of defensive guns painfully obvious
+* Anything with a cannon will be able to destroy the bomber without much effort
+* Gun turrets have no protective armour, leaving turret gunners vulnerable
+* Although you can carry torpedoes, they are some of the worst ones in the game due to the terrible drop requirements
+* Tail controls are easily knocked out from fighters or flak
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -204,12 +192,11 @@ The Wellington Mk.III was manufactured until the end of 1943, and a combined tot
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=wellington_mk3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=wellington_mk3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|RuBjkyZT6Yw|'''The Shooting Range #6''' - ''Pages of History'' section at 00:40 discusses the Vickers Wellington.}}
@@ -217,14 +204,14 @@ The Wellington Mk.III was manufactured until the end of 1943, and a combined tot
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer Vickers}}
 {{Britain bombers}}

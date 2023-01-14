@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' (sometimes referred to as '''Type 96''') is a rank {{Specs|rank}} Chinese medium tank {{Battle-rating}}. It was introduced in [[Update 1.93 "Shark Attack"]].
 
 The first Chinese MBT in the game not directly based on or modified from a foreign design, the ZTZ96 has a more distinctive appearance and introduces several features not seen in previous Chinese medium tanks. The general layout is reminiscent of the [[T-72A|Soviet T-72]], but upon inspection, major differences are apparent in the design of the turret and hull. The welded turret is flat and angular compared to the dome shape traditionally favoured by the Soviet Union and China. The hull is a departure from the traditional T-54 chassis, featuring smaller roadwheels, different angles, and larger overall dimensions. Composite armour is present in the turret cheeks and on the upper glacis.
@@ -21,9 +19,7 @@ Like the T-72, the ZTZ96 features a 125 mm smoothbore cannon with an autoloader.
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 The ZTZ96's armour is a significant improvement over previous Chinese tanks like the [[CM11]] and [[ZTZ59D1]] but is not especially competitive for its rank. It has a significant amount of chemical protection in the turret cheeks (~520-530 mm) and upper glacis (~460-480 mm). The turret can resist most HEAT-FS rounds fired by enemy tanks but the hull might be penetrated on occasion by 120 mm HEAT-FS as used by the [[Leopard 2K]] and [[Leopard A1A1 (L/44)]] for example. Contemporary ATGMs will usually go right through.
 
 Kinetic protection is decent but not spectacular, at about 390 mm for the turret cheeks and 360 mm for the hull depending on what round is used for testing. This is enough to stop early APFSDS rounds like the 105 mm DM23 fired by the [[Leopard A1A1]], but many enemies at its rank can punch through it with their top rounds like 105 mm DM33/Type 93. Due to having a battle rating, the ZTZ96 has some measure of isolation against top-tier guns. Contemporary US tanks like the [[MBT-70]] or [[XM-1 (GM)]] will struggle to penetrate its composite armour and surprisingly even the British Challenger 1 series will have some difficulties. Overall, though the ZTZ96 has similarities to the [[T-72A]], its armour protection is worse. The turret is weaker and the hull is comparable if the T-72's add-on armour upgrade is accounted for, slightly better otherwise.
@@ -36,9 +32,9 @@ While hull penetrations tend to be fatal, this is not necessarily the case for t
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (hull, turret)
-- Cast homogeneous armour (gun mantlet, commander cupola)
-- Rubber-fabric screens (side skirts)
+* Rolled homogeneous armour (hull, turret)
+* Cast homogeneous armour (gun mantlet, commander cupola)
+* Rubber-fabric screens (side skirts)
 
 {| class="wikitable"
 |-
@@ -61,14 +57,13 @@ While hull penetrations tend to be fatal, this is not necessarily the case for t
 |}
 '''Notes:'''
 
-- Suspension wheels, tracks, and torsion bars are 20 mm thick.
-- Belly armour is 20 mm thick.
-- Side skirts are 8 mm thick.
-- Mudguards and storage boxes are 4 mm thick.
+* Suspension wheels, tracks, and torsion bars are 20 mm thick.
+* Belly armour is 20 mm thick.
+* Side skirts are 8 mm thick.
+* Mudguards and storage boxes are 4 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=1,131|rbMinHp=646}}
@@ -82,9 +77,7 @@ The mobility of the {{PAGENAME}} is generally unimpressive, though still an impr
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|Type 88C (125 mm)}}
 
 The ZTZ96 makes up for its drawbacks in protection and mobility with a superb gun. The 125 mm Type 88C smoothbore gun is capable of firing APFSDS, HE and HEAT-FS ammunition. Although the ZTZ96 uses a similar autoloader system to the T-72s with 7.1 second reload rate, which is already on the long side for its rank. The turret rotation speed is noticeably improved over the T-72, topping out at 30 degrees/sec like the [[Type 90]].
@@ -152,9 +145,7 @@ The 125-I APFSDS shell is a Tier 3 modification and the ZTZ96's only choice of k
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.3.0.99''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -175,15 +166,13 @@ The 125-I APFSDS shell is a Tier 3 modification and the ZTZ96's only choice of k
 |}
 '''Notes''':
 
-- The 9th projectile rack and the 7th propellant rack are a mechanized first stage ammo rack. The mechanized nature indicates the tank has a fixed reload as it uses an autoloader to reload the main gun, as such the main gun cannot be reloaded when the ammo rack is empty.
-- It takes around 25s per shell to reload the first stage ammo rack. Additionally, there is a 10s interval between the gun is fully loaded and the crew starts to reload the first stage ammo rack.
+* The 9th projectile rack and the 7th propellant rack are a mechanized first stage ammo rack. The mechanized nature indicates the tank has a fixed reload as it uses an autoloader to reload the main gun, as such the main gun cannot be reloaded when the ammo rack is empty.
+* It takes around 25s per shell to reload the first stage ammo rack. Additionally, there is a 10s interval between the gun is fully loaded and the crew starts to reload the first stage ammo rack.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|QJC88A (12.7 mm)|Type 86 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -206,7 +195,6 @@ The 125-I APFSDS shell is a Tier 3 modification and the ZTZ96's only choice of k
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 Like preceding Chinese MBTs, the ZTZ96 is not suited for rapid assaults due to its substandard mobility and should be played conservatively. Let speedier teammates charge first into combat while you cover them and move to good overwatch positions. Situational awareness is key since faster opponents may arrive earlier and the tank lacks thermal sights. The gun handling is a bit better than contemporary Soviet MBTs but it still has a slow vertical traverse speed. The ZTZ96's composite armour is not amazing but still enough to shrug off some incoming fire, and staying close to cover is helpful. Try to hide the lower glacis since that is the ZTZ96's most dangerous weak spot. The ZTZ96's extra two degrees of gun depression compared to previous PRC tanks are helpful for peeking over small hills. Be on the lookout for flankers since the ZTZ96 has weaker side armour than Soviet tanks and 25-30 mm IFV autocannons can penetrate it.
@@ -221,40 +209,38 @@ For players grinding the APFSDS in assault mode, it is recommended to bring full
 
 '''Enemies worth noting:'''
 
-- [[Leopard 2A5|Leopard 2 A5]]: this is the most protected Leopard you will see in an assault, usually in Mozdok and Fulda. When facing it frontally or with slight angles, load HE and aim for its turret ring where the crosshair is green. It is very likely to destroy it instantly. When facing its side, load HEAT and aim for its central hull. Don't expect to block any of its shells as its APFSDS can easily go through the ZTZ96's frontal armour, or the AI can just target your weak spots.
-- [[M1A2 Abrams|M1A2]]: you will see it mostly in Fulda and Ardennes. When facing it frontally or with slight angles, load HEAT and aim for its turret ring where the crosshair is green. It is very likely to destroy it instantly. HE might not work here since it cannot effectively hurt the turret crew. But HE works great when aiming at the M1's turret roof. Items like the MG and the optics will all detonate the HE, causing the downward shrapnel to kill all the crew. When facing its side, load HEAT and aim for its central hull.
-- [[Challenger 2 (2F)|Challenger 2F]]: you will see it mostly in Sands of Sinai. It is one of the toughest AI to destroy, especially when there are waves of them. When facing it frontally or with slight angles, load HE and aim for the hull side above the tracks where the crosshair is green. It is very likely to detonate random ammo inside. When facing its side, still load HE and aim for its central hull for an ammo detonation. The Challenger 2F's sides are covered with ERA blocks thus HEAT will get absorbed.
-- [[Type 16]], [[Centauro ROMOR]], [[Radkampfwagen 90|Radkamfwagen 90]]: Despite being armed with 105 mm guns, these tanks get access to DM33 rounds that can penetrate your turret cheeks within 400 m. In addition, their high speed means that it is incredibly easy to get flanked by them, frequently resulting in side-shots. This is only made worse by the weakened side armour of the ZTZ96 compared to its soviet counterparts, resulting in light autocannon easily being able to penetrate the ZTZ 96's side armour from afar.
+* [[Leopard 2A5|Leopard 2 A5]]: this is the most protected Leopard you will see in an assault, usually in Mozdok and Fulda. When facing it frontally or with slight angles, load HE and aim for its turret ring where the crosshair is green. It is very likely to destroy it instantly. When facing its side, load HEAT and aim for its central hull. Don't expect to block any of its shells as its APFSDS can easily go through the ZTZ96's frontal armour, or the AI can just target your weak spots.
+* [[M1A2 Abrams|M1A2]]: you will see it mostly in Fulda and Ardennes. When facing it frontally or with slight angles, load HEAT and aim for its turret ring where the crosshair is green. It is very likely to destroy it instantly. HE might not work here since it cannot effectively hurt the turret crew. But HE works great when aiming at the M1's turret roof. Items like the MG and the optics will all detonate the HE, causing the downward shrapnel to kill all the crew. When facing its side, load HEAT and aim for its central hull.
+* [[Challenger 2 (2F)|Challenger 2F]]: you will see it mostly in Sands of Sinai. It is one of the toughest AI to destroy, especially when there are waves of them. When facing it frontally or with slight angles, load HE and aim for the hull side above the tracks where the crosshair is green. It is very likely to detonate random ammo inside. When facing its side, still load HE and aim for its central hull for an ammo detonation. The Challenger 2F's sides are covered with ERA blocks thus HEAT will get absorbed.
+* [[Type 16]], [[Centauro ROMOR]], [[Radkampfwagen 90|Radkamfwagen 90]]: Despite being armed with 105 mm guns, these tanks get access to DM33 rounds that can penetrate your turret cheeks within 400 m. In addition, their high speed means that it is incredibly easy to get flanked by them, frequently resulting in side-shots. This is only made worse by the weakened side armour of the ZTZ96 compared to its soviet counterparts, resulting in light autocannon easily being able to penetrate the ZTZ 96's side armour from afar.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Powerful gun with access to high-penetrating APFSDS
-- Autoloader reloads the cannon even when putting out fires or replacing crew members
-- HE shell is currently the most powerful of any MBT, can cripple or outright destroy enemies with a good shot
-- Low profile
-- First Chinese tank equipped with composite armour, resistant to early APFSDS rounds
-- Roof mounted heavy machine gun is useful against aircraft and light targets
-- Relatively-faster turret rotation speed, compared to contemporary Soviet tanks
-- Enjoys commander duplication of cannon which helps to fight back in heat of battle
+* Powerful gun with access to high-penetrating APFSDS
+* Autoloader reloads the cannon even when putting out fires or replacing crew members
+* HE shell is currently the most powerful of any MBT, can cripple or outright destroy enemies with a good shot
+* Low profile
+* First Chinese tank equipped with composite armour, resistant to early APFSDS rounds
+* Roof mounted heavy machine gun is useful against aircraft and light targets
+* Relatively-faster turret rotation speed, compared to contemporary Soviet tanks
+* Enjoys commander duplication of cannon which helps to fight back in heat of battle
 
 '''Cons:'''
 
-- Mobility is below average at its rank
-- Composite armour's kinetic protection leaves some to be desired
-- Sub-par armour compared to other tanks
-- Autoloader carousel is a giant ammo rack
-- No thermal sights, a disadvantage against other thermal-equipping tanks
-- Poor reverse speed
-- Below average gun depression (-6°)
-- Only 3 crew members makes it easily destroyed
-- No ATGM capability, unlike the T-64B and T-72B
+* Mobility is below average at its rank
+* Composite armour's kinetic protection leaves some to be desired
+* Sub-par armour compared to other tanks
+* Autoloader carousel is a giant ammo rack
+* No thermal sights, a disadvantage against other thermal-equipping tanks
+* Poor reverse speed
+* Below average gun depression (-6°)
+* Only 3 crew members makes it easily destroyed
+* No ATGM capability, unlike the T-64B and T-72B
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The People's Liberation Army relied on the [[Type 59]] as its primary main battle tank for most of the Cold War. While cheap, reliable, and quite upgradeable, its design began to shows its age over the decades. The [[Type 69]] series differed little from the Type 59 in terms of appearance and was not used in quantity by the PLA. After relations with the Western world improved at the start of the 1980s, foreign technology was purchased and used to [[ZTZ59D1|upgrade the PLA's stock of existing tanks]]. However, there was only so much that could be done to bring the Type 59 up to a competitive level and more efforts were devoted to domestic tank development.
@@ -273,12 +259,11 @@ Work on the ZTZ96 began in the early 1990s, as new Chinese MBT with larger 125mm
 Several years later, the decision was made to adopt the ZTZ85-IIAP for domestic use as a stopgap measure to equip the PLA with a capable combat vehicle. In 1996, the vehicles destined for PLA use were formally redesignated into ZTZ96 and production of the type began in 1998.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=cn_ztz_96 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=cn_ztz_96 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="150">
@@ -295,24 +280,22 @@ File:ZTZ-96 WTWallpaper 07.jpg|
 {{Youtube-gallery|Ftqpt1gijlA|'''Type96 "Not so Meta"''' - ''JustinPlaysYT''|D3MA3J4FGNQ|'''ZTZ96 - A High Explosive Match!''' - ''Napalmratte''|AKxlwtWIlSI|'''The Shooting Range #173''' - ''Metal Beasts'' section at 00:32 discusses the ZTZ96.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
 
-- [[ZTZ96A]]
+* [[ZTZ96A]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6445-development-ztz96-top-tier-chinese-en|[Development] ZTZ96: Top-Tier Chinese]]
-- [[wikipedia:Type_96_tank|[Wikipedia] Type 96 tank]]
-- [https://tanks-encyclopedia.com/modern/China/Type-96.php <nowiki>[Tanks Encyclopedia]</nowiki> Norinco Type 96 MBT]
+* [[wt:en/news/6445-development-ztz96-top-tier-chinese-en|[Development] ZTZ96: Top-Tier Chinese]]
+* [[wikipedia:Type_96_tank|[Wikipedia] Type 96 tank]]
+* [https://tanks-encyclopedia.com/modern/China/Type-96.php <nowiki>[Tanks Encyclopedia]</nowiki> Norinco Type 96 MBT]
 
 {{TankManufacturer Norinco}}
 {{China medium tanks}}

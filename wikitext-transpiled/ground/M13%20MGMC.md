@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=us_halftrack_m13
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} American Self-Propelled Anti-Aircraft (SPAA) vehicle {{Battle-rating}}. It was one of the first American tanks to be released with the American ground tree in [[Update 1.45 "Steel Generals"]].
 
 The M13 MGMC is an M3 half-track with a dual-mounted .50 calibre M2 Browning machine guns on the rear. The .50 calibre machine guns are mounted in a Maxson M33 Twin Mount. Each machine gun has 200 rounds each, giving it a total of 400 rounds before reloads. Due to this armament, the M13 is foremost an SPAA that relies on its mobility and fire rate to destroy aircraft, or very thinly-armoured tanks. However, when compared to other tanks of its rank, the M13 is a relatively weak vehicle. The MG-only armament gives the M13 exceptional AAA potential, but not much else.
@@ -19,7 +17,6 @@ The M13 MGMC is an M3 half-track with a dual-mounted .50 calibre M2 Browning mac
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
@@ -37,13 +34,12 @@ The M13 MGMC is an M3 half-track with a dual-mounted .50 calibre M2 Browning mac
 |}
 Notes:
 
-- Tracks are 7 mm thick.
-- Chassis are 10 mm thick, while the caterpillar wheels are 15 mm thick.
-- Wheels are 2 mm thick.
+* Tracks are 7 mm thick.
+* Chassis are 10 mm thick, while the caterpillar wheels are 15 mm thick.
+* Wheels are 2 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=210|rbMinHp=131}}
@@ -56,9 +52,7 @@ Notes:
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|M2HB (12.7 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -79,10 +73,10 @@ Notes:
 
 ==== Ammunition ====
 
-- '''Common:''' {{Annotation|API-T|M20 armour-piercing incendiary tracer}}{{-}}{{Annotation|I|M1 incendiary}}{{-}}{{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|API-T|M20 armour-piercing incendiary tracer}} - These rounds work well until the others are researched.
-- '''API:''' {{Annotation|API-T|M20 armour-piercing incendiary tracer}}{{-}}{{Annotation|AP-I|M8 armour-piercing incendiary}}{{-}}{{Annotation|API-T|M20 armour-piercing incendiary tracer}} - These are absolutely devastating in the AA role with slightly less performance against enemy tanks than AP.
-- '''AP:''' {{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|API-T|M20 armour-piercing incendiary tracer}} - These are best against enemy tanks at close range and do good damage to planes.
-- '''APIT:''' {{Annotation|API-T|M20 armour-piercing incendiary tracer}} - Better than API in all regards but not as good against tanks as AP, this is the belt of choice in almost all situations. Since every bullet is a tracer, it makes destroying aircraft much easier and detectability is not greatly increased over AP-I, however is increased a bit over AP.
+* '''Common:''' {{Annotation|API-T|M20 armour-piercing incendiary tracer}}{{-}}{{Annotation|I|M1 incendiary}}{{-}}{{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|API-T|M20 armour-piercing incendiary tracer}} - These rounds work well until the others are researched.
+* '''API:''' {{Annotation|API-T|M20 armour-piercing incendiary tracer}}{{-}}{{Annotation|AP-I|M8 armour-piercing incendiary}}{{-}}{{Annotation|API-T|M20 armour-piercing incendiary tracer}} - These are absolutely devastating in the AA role with slightly less performance against enemy tanks than AP.
+* '''AP:''' {{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|API-T|M20 armour-piercing incendiary tracer}} - These are best against enemy tanks at close range and do good damage to planes.
+* '''APIT:''' {{Annotation|API-T|M20 armour-piercing incendiary tracer}} - Better than API in all regards but not as good against tanks as AP, this is the belt of choice in almost all situations. Since every bullet is a tracer, it makes destroying aircraft much easier and detectability is not greatly increased over AP-I, however is increased a bit over AP.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="7" | Penetration statistics
@@ -136,7 +130,6 @@ Notes:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 With the M13, the armour is very thin, and the lack of sloping makes the M13 an extremely easy target. Therefore, rely on the exceptional maneuverability, handling, and speed to either stay in cover or flank weaker tanks. Always relocate when faced with an artillery barrage as the shells will tear the thinly-armoured vehicle apart.
@@ -146,33 +139,31 @@ Against planes, basic aiming rules apply. Fighters may target you due to the sol
 Against tanks, flanking and hit and run are a must. The high rate of fire, good handling/mobility, and turret traverse make the M13 a wonderful hit-and-run tank. Aim for crew hatches and weak points in armour. Many times the high fire rate and penetration can easily knock out a crew of sublime armour. However, against better-armoured tanks such as the T-26 or M3 Lee, always stay out of the line of fire and try to avoid tanks such as these altogether.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great rate of fire
-- Exceptional mobility and speed
-- M2 MGs are effective against thinly-armoured vehicles ([[BT-5]], [[Pz.II C]], etc.)
-- Maximum reverse speed is 16 km/h (10 MPH)
-- Can turn in place, as compared to the [[GAZ-AAA (4M)]]
-- Can penetrate the sides and rear of most contemporary vehicles
-- Respectable reload rate for a trained crew
-- Traverse rate is acceptable for its peers
-- Reload time is acceptable
-- AP-T rounds are the same as on the P-51 D models and are extremely effective against planes and thinly armoured vehicles alike
+* Great rate of fire
+* Exceptional mobility and speed
+* M2 MGs are effective against thinly-armoured vehicles ([[BT-5]], [[Pz.II C]], etc.)
+* Maximum reverse speed is 16 km/h (10 MPH)
+* Can turn in place, as compared to the [[GAZ-AAA (4M)]]
+* Can penetrate the sides and rear of most contemporary vehicles
+* Respectable reload rate for a trained crew
+* Traverse rate is acceptable for its peers
+* Reload time is acceptable
+* AP-T rounds are the same as on the P-51 D models and are extremely effective against planes and thinly armoured vehicles alike
 
 '''Cons:'''
 
-- Armour is extremely thin- coaxial guns attached to other tanks can easily knock out the crew
-- Crew exposed - easily taken out by tanks
-- Gun does very little damage to heavily armoured vehicles/tanks
-- Bullets are small and individually may do little or no damage even if they hit a module
-- Vulnerable to all cannon shells
-- Artillery strikes can easily destroy this vehicle
+* Armour is extremely thin- coaxial guns attached to other tanks can easily knock out the crew
+* Crew exposed - easily taken out by tanks
+* Gun does very little damage to heavily armoured vehicles/tanks
+* Bullets are small and individually may do little or no damage even if they hit a module
+* Vulnerable to all cannon shells
+* Artillery strikes can easily destroy this vehicle
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 ===Development===
@@ -194,36 +185,32 @@ The M13 MGMCs joined the US army's AA battalions. By the time the allies landed 
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=us_halftrack_m13 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=us_halftrack_m13 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
 
-- [[M16 MGMC]]
-- [[Sd.Kfz.251/21]]
-- [[BTR-152A]]
-- [[Staghound AA]]
+* [[M16 MGMC]]
+* [[Sd.Kfz.251/21]]
+* [[BTR-152A]]
+* [[Staghound AA]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/devblog/current/703/|[Devblog] Steel Generals: M13 MGMC]]
-- [[wt:en/devblog/current/713/|[Devblog] Developers about M13 MGC]]
-- [[wikipedia:M13_Multiple_Gun_Motor_Carriage|[Wikipedia] M13 Multiple Gun Motor Carriage]]
-- [https://tanks-encyclopedia.com/ww2/US/M3_Halftrack.php <nowiki>[Tanks Encyclopedia]</nowiki> Half Track Car M3]
+* [[wt:en/devblog/current/703/|[Devblog] Steel Generals: M13 MGMC]]
+* [[wt:en/devblog/current/713/|[Devblog] Developers about M13 MGC]]
+* [[wikipedia:M13_Multiple_Gun_Motor_Carriage|[Wikipedia] M13 Multiple Gun Motor Carriage]]
+* [https://tanks-encyclopedia.com/ww2/US/M3_Halftrack.php <nowiki>[Tanks Encyclopedia]</nowiki> Half Track Car M3]
 
 {{TankManufacturer White Motor Company}}
 {{USA anti-aircraft vehicles}}

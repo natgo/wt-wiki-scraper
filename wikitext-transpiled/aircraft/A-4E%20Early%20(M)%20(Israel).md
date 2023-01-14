@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli strike aircraft {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -45,7 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli strike aircraft {{Batt
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || ✓ || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -111,9 +108,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli strike aircraft {{Batt
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
 
 === Modifications and economy ===
@@ -132,41 +127,37 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli strike aircraft {{Batt
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|DEFA 552 (30 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 2 x 30 mm DEFA 552 cannons, belly-mounted (150 rpg = 300 total)
-  ** 2 x 30 mm DEFA 552 cannons + 60 x countermeasures
+* A choice between two presets:
+** 2 x 30 mm DEFA 552 cannons, belly-mounted (150 rpg = 300 total)
+** 2 x 30 mm DEFA 552 cannons + 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|SAMP Mk 81 (250 lb)|SAMP Mk 82 (500 lb)|SAMP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)|GBU-8 (2,000 lb)}}
 {{main|100/50 kg G.P. (100 kg)|250/50 kg G.P. (250 kg)|360/50 kg G.P. (360 kg)|500/50 kg G.P. (500 kg)|AGM-62A Walleye I (505 kg)}}
 {{main|AIM-9B Sidewinder|MK 77 mod 4 incendiary|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|Mk 11 mod 5 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x AIM-9B Sidewinder missiles
-- 171 x FFAR Mighty Mouse rockets
-- 36 x Zuni Mk32 Mod 0 ATAP rockets
-- 20 x 100/50 kg G.P. bombs (2,000 kg total)
-- 14 x 250/50 kg G.P. bombs (3,500 kg total)
-- 3 x 360/50 kg G.P. bombs (1,080 kg total)
-- 3 x 500/50 kg G.P. bombs (1,500 kg total)
-- 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
-- 2 x 505 kg AGM-62A Walleye I bombs (1,010 kg total)
-- 1 x 2,000 lb GBU-8 bomb (2,000 lb total)
-- 9 x MK 77 mod 4 incendiary bombs
-- 3 x 20 mm Mk 11 mod 5 cannons (750 rpg = 2,250 total)
+* Without load
+* 2 x AIM-9B Sidewinder missiles
+* 171 x FFAR Mighty Mouse rockets
+* 36 x Zuni Mk32 Mod 0 ATAP rockets
+* 20 x 100/50 kg G.P. bombs (2,000 kg total)
+* 14 x 250/50 kg G.P. bombs (3,500 kg total)
+* 3 x 360/50 kg G.P. bombs (1,080 kg total)
+* 3 x 500/50 kg G.P. bombs (1,500 kg total)
+* 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
+* 2 x 505 kg AGM-62A Walleye I bombs (1,010 kg total)
+* 1 x 2,000 lb GBU-8 bomb (2,000 lb total)
+* 9 x MK 77 mod 4 incendiary bombs
+* 3 x 20 mm Mk 11 mod 5 cannons (750 rpg = 2,250 total)
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -224,60 +215,50 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Large variety of ground attack ordnance, including TV-guided ground bombs
-- Good turn rate at low speeds
-- Carries countermeasures to deal with missiles
+* Large variety of ground attack ordnance, including TV-guided ground bombs
+* Good turn rate at low speeds
+* Carries countermeasures to deal with missiles
 
 '''Cons:'''
 
-- Wings can rip off at high speed or high negative G manoeuvres
-- Sluggish acceleration and underperforming engine for the aircraft
-- Bleeds air speed quickly in high G turn
-- Can stall out quickly in Sim Battles without SAS (Stability Augmentation System)
+* Wings can rip off at high speed or high negative G manoeuvres
+* Sluggish acceleration and underperforming engine for the aircraft
+* Bleeds air speed quickly in high G turn
+* Can stall out quickly in Sim Battles without SAS (Stability Augmentation System)
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=a_4e_early_iaf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=a_4e_early_iaf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
-- [[A-4 (Family)]]
+* [[A-4 (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/538311-douglas-a-4e/ Official data sheet - more details about the performance]
-- [http://www.alternatewars.com/SAC/A-4E_Skyhawk_SAC_-_1_July_1967.pdf Standard Aircraft Characteristics of the A-4E]
+* [https://forum.warthunder.com/index.php?/topic/538311-douglas-a-4e/ Official data sheet - more details about the performance]
+* [http://www.alternatewars.com/SAC/A-4E_Skyhawk_SAC_-_1_July_1967.pdf Standard Aircraft Characteristics of the A-4E]
 
 {{AirManufacturer Douglas}}
 {{Israel jet aircraft}}

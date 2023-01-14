@@ -4,17 +4,13 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet jet bomber {{Battle-rating}}. It was introduced in [[Update "Red Skies"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 This bomber is relatively fast, it can break the sound barrier above 4,000 metres. It also has a very high acceleration, high energy retention and a very good climb rate. However, it has a very poor turn rate and experiences moderate compression above 1,000 km/h.
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -42,7 +38,7 @@ This bomber is relatively fast, it can break the sound barrier above 4,000 metre
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || X || ✓ || X || X || ✓ <!-- ✓ -->
+| X || X || ✓ || X || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -108,9 +104,7 @@ This bomber is relatively fast, it can break the sound barrier above 4,000 metre
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
 
 === Modifications and economy ===
@@ -129,34 +123,29 @@ This bomber is relatively fast, it can break the sound barrier above 4,000 metre
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|NR-23 (23 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 1 x 23 mm NR-23 cannon, nose-mounted (50 rpg)
-  ** 1 x 23 mm NR-23 cannon (50 rpg) + 64 x countermeasures
+* A choice between two presets:
+** 1 x 23 mm NR-23 cannon, nose-mounted (50 rpg)
+** 1 x 23 mm NR-23 cannon (50 rpg) + 64 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|OFAB-100 (100 kg)|FAB-250M-46 (250 kg)|FAB-500M-46 (500 kg)|FAB-1500M-46 (1,500 kg)|FAB-3000M-46 (3,000 kg)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 8 x 100 kg OFAB-100 bombs (800 kg total)
-- 6 x 250 kg FAB-250M-46 bombs (1,500 kg total)
-- 2 x 500 kg FAB-500M-46 bombs (1,000 kg total)
-- 1 x 1,500 kg FAB-1500M-46 bomb (1,500 kg total)
-- 1 x 3,000 kg FAB-3000M-46 bomb (3,000 kg total)
+* 8 x 100 kg OFAB-100 bombs (800 kg total)
+* 6 x 250 kg FAB-250M-46 bombs (1,500 kg total)
+* 2 x 500 kg FAB-500M-46 bombs (1,000 kg total)
+* 1 x 1,500 kg FAB-1500M-46 bomb (1,500 kg total)
+* 1 x 3,000 kg FAB-3000M-46 bomb (3,000 kg total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 This plane is rather fast, has an immense acceleration, but turns also very poorly. This feature however gives it a good energy retention that allows it to juggle enemies if they get behind. The Yak-28B is also infamous for its very inaccurate bombsight in level flight, so to counter this con, you should consider diving at -20° or lower as it makes your bombs more likely to hit their target. The CCIP function is available, however, as it was installed in the bombardier nose, the function is only available in 3rd person view. Once your bombs are dropped, you can either bait enemies (if you have countermeasures) or quickly return to the airfield to get ready for another bomb run.
@@ -165,83 +154,76 @@ The Yak-28B can also find some success in the ground attack role in air battles.
 
 '''Enemies worth noting:'''
 
-- [[Harrier (Family)]]: Harriers are very common and can pose you a significant threat, especially the ones that are loaded with the AIM-9G (AV-8A, AV-8C, Harrier GR.3) that has a very long range and a good 18 G overload. Harriers can also very commonly be seen flying very high, so they're very likely to spot you and dive on you. But you have a higher speed and a slightly better climb rate, so when you see a Harrier, make sure you're the farthest away from him and try to keep that distance. But if it fires a missile less than 3 km away from you and you don't happen to have countermeasures, you're very likely to lose your aircraft.
+* [[Harrier (Family)]]: Harriers are very common and can pose you a significant threat, especially the ones that are loaded with the AIM-9G (AV-8A, AV-8C, Harrier GR.3) that has a very long range and a good 18 G overload. Harriers can also very commonly be seen flying very high, so they're very likely to spot you and dive on you. But you have a higher speed and a slightly better climb rate, so when you see a Harrier, make sure you're the farthest away from him and try to keep that distance. But if it fires a missile less than 3 km away from you and you don't happen to have countermeasures, you're very likely to lose your aircraft.
 
-- [[Lightning F.6]] / : another common enemy packed with some dangerous armement ([[Red Top]] missiles) and high performance that can easily sneak behind you. But you have an ace up your sleeve: Vertical manoeuvres. Since the Lightning has a high angle of attack, it will bleed a lot of speed when turning, and even more when manoeuvring vertically. So to avoid it, start a vertical manoeuvre and once the Lightning bled enough speed, dive back, and you'll easily leave him behind. Do remember however that having flares is recommended when attempting this kind of manoeuvre.
+* [[Lightning F.6]] / : another common enemy packed with some dangerous armement ([[Red Top]] missiles) and high performance that can easily sneak behind you. But you have an ace up your sleeve: Vertical manoeuvres. Since the Lightning has a high angle of attack, it will bleed a lot of speed when turning, and even more when manoeuvring vertically. So to avoid it, start a vertical manoeuvre and once the Lightning bled enough speed, dive back, and you'll easily leave him behind. Do remember however that having flares is recommended when attempting this kind of manoeuvre.
 
-- [[F8U-2]] / [[T-2]]: The same applies to the F8U-2 and the T-2, except the T-2 has less dangerous missiles and slightly more speed.
+* [[F8U-2]] / [[T-2]]: The same applies to the F8U-2 and the T-2, except the T-2 has less dangerous missiles and slightly more speed.
 
-- [[F-4C Phantom II|F-4C]]: Possibly your worst enemy. Although quite rare, this plane has access to the [[AIM-7D Sparrow]]. You can fool these with Chaff, but you don't have RWR so you can't know when the F-4C has you locked and when the Sparrow is coming. This plane also can outperform you in every possible way so if a F-4C is eager to chase you, get rid of it as fast as possible by requesting support from your team.
+* [[F-4C Phantom II|F-4C]]: Possibly your worst enemy. Although quite rare, this plane has access to the [[AIM-7D Sparrow]]. You can fool these with Chaff, but you don't have RWR so you can't know when the F-4C has you locked and when the Sparrow is coming. This plane also can outperform you in every possible way so if a F-4C is eager to chase you, get rid of it as fast as possible by requesting support from your team.
 
-- [[MiG-21 SPS-K (Germany)|MiG-21 SPS-K]]: Unlike other MiG-21s, there is a decent chance that the premium SPS-K model will be on the enemy team. The MiG-21 is a powerful interceptor, and can easily climb to altitudes that the Yak-28B might otherwise feel safe at. Armed with R-60 missiles and able to sneak up from behind, this MiG-21 poses a significant threat. Matches can and will end abruptly if an enemy SPS-K player spots you and is able to fire off a missile even up to 3 km behind you.
+* [[MiG-21 SPS-K (Germany)|MiG-21 SPS-K]]: Unlike other MiG-21s, there is a decent chance that the premium SPS-K model will be on the enemy team. The MiG-21 is a powerful interceptor, and can easily climb to altitudes that the Yak-28B might otherwise feel safe at. Armed with R-60 missiles and able to sneak up from behind, this MiG-21 poses a significant threat. Matches can and will end abruptly if an enemy SPS-K player spots you and is able to fire off a missile even up to 3 km behind you.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Immense acceleration
-- High top speed
-- Very good climb rate
-- Has access to flares and chaff for self-defense against missiles (64 units in total)
-- High energy retention
-- Above 1,000 km/h, your plane compresses very slightly. This allows you to pull hard in a turn without any significant overload
-- Very resistant flaps and gear that acts like an airbrake
-- Very easy stock grind (if you do not count the amount of RP needed)
-- The 3,000 kg bomb is very useful for bombing runs in ground RB (in air RB too, as it can destroy every kind of land targets)
-- Has a primary weapon that can help you destroy some light ground targets at the end of the match
+* Immense acceleration
+* High top speed
+* Very good climb rate
+* Has access to flares and chaff for self-defense against missiles (64 units in total)
+* High energy retention
+* Above 1,000 km/h, your plane compresses very slightly. This allows you to pull hard in a turn without any significant overload
+* Very resistant flaps and gear that acts like an airbrake
+* Very easy stock grind (if you do not count the amount of RP needed)
+* The 3,000 kg bomb is very useful for bombing runs in ground RB (in air RB too, as it can destroy every kind of land targets)
+* Has a primary weapon that can help you destroy some light ground targets at the end of the match
 
 '''Cons:'''
 
-- At the deck, this plane can redline and snap its wings even with no WEP (70% thrust allows you to stay outside the redline speed)
-- No airbrakes
-- Below 1,000 km/h, your plane will start to experience extreme overloads that can easily snap your wings within 4 seconds if you pull too hard
-- Fuel starvation happens in negative-G manoeuvres
-- Horrible turn rate that makes you vulnerable to even AIM-9Bs if you do not have countermeasures
-- Low roll rate
-- Extremely inaccurate bomb sight
-- The drogue chute opens at 280 km/h and drops at 200 km/h
-- Absolutely pitiful ammo capacity for NR-23 cannon renders it useless for nearly everything
+* At the deck, this plane can redline and snap its wings even with no WEP (70% thrust allows you to stay outside the redline speed)
+* No airbrakes
+* Below 1,000 km/h, your plane will start to experience extreme overloads that can easily snap your wings within 4 seconds if you pull too hard
+* Fuel starvation happens in negative-G manoeuvres
+* Horrible turn rate that makes you vulnerable to even AIM-9Bs if you do not have countermeasures
+* Low roll rate
+* Extremely inaccurate bomb sight
+* The drogue chute opens at 280 km/h and drops at 200 km/h
+* Absolutely pitiful ammo capacity for NR-23 cannon renders it useless for nearly everything
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The Yak-28 "Brewer" is a swept-wing turbojet bomber used by the Soviet Air Force in the 1960s. In the late 1950s, the Yakovlev design bureau began work on an improved version of the Yak-26, which underperformed and failed to enter production. The new aircraft was powered by two Tumansky R-11 afterburning turbojet engines producing 57 kn of thrust each, slung in underwing nacelles. Otherwise, the aircraft featured a conventional configuration, with a 45-degree swept wing and a mid-tail-mounted horizontal stabilizer. The aircraft was primarily subsonic at low altitude but capable of 1840 km/h at higher altitude.
 
 The first flight of the new aircraft occurred in March of 1958, and the western world first saw the aircraft at the Tushino Airshow in 1961. Initially, western analysts believed it to be a continuation of the Yak-25 fighter series, and was given the reporting name "Flashlight", but once its actual role was realized, it was redesignated "Brewer". The Yak-28 aircraft was ultimately quite successful in its role and several variants were created, including the Yak-28B tactical bomber, Yak-28P interceptor (armed with air-to-air missiles), the Yak-28R reconnaissance aircraft and the Yak-28U trainer. A total of 1180 Yak-28s of all variants were produced.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=yak-28b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=yak-28b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|3AXZaPoFojs|'''The Shooting Range #264''' - ''Pages of History'' section at 04:06 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/7184-development-yak-28b-the-bomb-express-en|[Devblog] Yak-28B: the Bomb Express]]
-- [https://forum.warthunder.com/index.php?/topic/526062-yakovlev-yak-28b/ Official data sheet - more details about the performance]
+* [[wt:en/news/7184-development-yak-28b-the-bomb-express-en|[Devblog] Yak-28B: the Bomb Express]]
+* [https://forum.warthunder.com/index.php?/topic/526062-yakovlev-yak-28b/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Yakovlev}}
 {{USSR jet aircraft}}

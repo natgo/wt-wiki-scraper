@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British naval fighter {{Battle-rating}}. It was introduced in [[Update 1.49 "Weapons of Victory"]].
 
 The Sea Gladiator Mk I is the last of the Fleet Air Arm biplane naval fighters and, as the name suggests, is a naval modification of the regular [[Gladiator Mk II|Gladiator]] seen in the RAF tech tree. As a result, its handling characteristics are very similar to said plane type.
@@ -19,7 +17,6 @@ The Sea Gladiator Mk I is the last of the Fleet Air Arm biplane naval fighters a
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 The Sea Gladiator Mk I has very similar performance to the [[Gladiator Mk II]]; they are effectively the same aircraft, only the Sea Gladiator has a tail hook, so is slightly heavier and slightly less aerodynamic. This means it has good speed an acceleration for a biplane, and like most other biplanes is far better at turning than the monoplanes it faces; it is also one of a limited number of biplanes with flaps, which are hard to break off and can be used to further improve turning performance.
@@ -49,7 +46,7 @@ The Sea Gladiator Mk I has very similar performance to the [[Gladiator Mk II]]; 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || ✓ || ✓ || X || ✓ <!-- ✓ -->
+| X || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -80,13 +77,12 @@ The Sea Gladiator Mk I has very similar performance to the [[Gladiator Mk II]]; 
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
 There is no armour protection on this aircraft, and all modules are focused at the front of the plane.
 
-- No armour protection
-- Self-sealing fuel tanks
+* No armour protection
+* Self-sealing fuel tanks
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -95,28 +91,24 @@ There is no armour protection on this aircraft, and all modules are focused at t
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Browning (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 7.7 mm Browning machine guns, fuselage-mounted (600 rpg = 1,200 total)
-- 2 x 7.7 mm Browning machine guns, wing-mounted (400 rpg = 800 total)
+* 2 x 7.7 mm Browning machine guns, fuselage-mounted (600 rpg = 1,200 total)
+* 2 x 7.7 mm Browning machine guns, wing-mounted (400 rpg = 800 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 At rank I {{Battle-rating}}, this plane will typically be one of the first fighters a new player will research. However, the Sea Gladiator, like its land-based cousin, may be difficult to seek success in, especially in Realistic Battles mode. Within RB, when up-tiering comes into play, it will have to deal with not only biplane adversaries such as the [[CR.42]], [[F3F-2|F3F]] and the very manoeuvrable [[Ki-10-I|Ki-10]], but also more advanced fighters such as the [[P-40E-1|P-40E]], [[Bf 109 E-1|Bf 109s]], [[I-16 type 10|I-16s]], and [[Ki-43-I|Ki-43s]]. All these plane types have several varying advantages against the Sea Gladiator, which can make early grinding a bit unbearable for some players.
 [[File:FighterImage_SeaGladiator 1.55.jpg|thumbnail|right|The Sea Gladiator in-flight (default camouflage)]]
 
 There are a couple of issues with the Gladiator, all of which can make it an easy target at times:
 
-- Its power plant configuration, which includes a three-blade fixed-pitch propeller, can make the Gladiator a slug in acceleration and climb. In flight testing the Gladiator can usually only sustain at most around 3,000 ft/min (roughly 15 m/s) in a climb at around 180-200 km/h (111-124 mph) indicated airspeed, and its top speed isn't great either (at sea level it can only manage around 335 km/h, and testing has yielded 396 km/h at 4,000 m altitude).
+* Its power plant configuration, which includes a three-blade fixed-pitch propeller, can make the Gladiator a slug in acceleration and climb. In flight testing the Gladiator can usually only sustain at most around 3,000 ft/min (roughly 15 m/s) in a climb at around 180-200 km/h (111-124 mph) indicated airspeed, and its top speed isn't great either (at sea level it can only manage around 335 km/h, and testing has yielded 396 km/h at 4,000 m altitude).
 
-- The Sea Gladiator manoeuvres well. However, it bleeds a lot of speed in sharp turns, and while its turn radius is good enough to shake off reserve planes, the loss of speed can make the plane a slower and henceforth more vulnerable target to any other enemy planes in the area. Using flaps does help a bit with decreasing the amount of speed lost in a turn, but it is not beneficial enough to allow for minimal loss of speed. And like most early British fighters, it hates high speeds in dives.
+* The Sea Gladiator manoeuvres well. However, it bleeds a lot of speed in sharp turns, and while its turn radius is good enough to shake off reserve planes, the loss of speed can make the plane a slower and henceforth more vulnerable target to any other enemy planes in the area. Using flaps does help a bit with decreasing the amount of speed lost in a turn, but it is not beneficial enough to allow for minimal loss of speed. And like most early British fighters, it hates high speeds in dives.
 
 However, the Sea Gladiator has four 7.7 mm (.303) Browning machine guns with a total of 2,000 rounds on hand. The Gladiator's four Browning armament can come in handy at times - when equipped with tracer belts, the plane is capable of taking down even the fiercest of opponents if you play your cards right. A good approach to combat is to attempt to side climb as much as you can on any given map, then use your altitude advantage and turn advantage wisely.
 
@@ -156,58 +148,51 @@ If you are not very experienced in Sim, you can also go for even bigger targets 
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Armament is equal to or better than other fighters in its BR class
-- Good manoeuvrability in a turn
-- Tracer belts, like all other planes fitted with Browning machine guns, can be deadly
-- Has flaps, unlike most other biplane fighters
+* Armament is equal to or better than other fighters in its BR class
+* Good manoeuvrability in a turn
+* Tracer belts, like all other planes fitted with Browning machine guns, can be deadly
+* Has flaps, unlike most other biplane fighters
 
 '''Cons:'''
 
-- Sluggish in acceleration and top speed (fixed-pitch propeller can emphasise this problem)
-- Performance deficiencies can make it an easy target for experienced or more difficult adversaries
-- Not the best climber
-- Bleeds speed in turns, even when using flaps
+* Sluggish in acceleration and top speed (fixed-pitch propeller can emphasise this problem)
+* Performance deficiencies can make it an easy target for experienced or more difficult adversaries
+* Not the best climber
+* Bleeds speed in turns, even when using flaps
 
 [[File:FighterImage SeaGladiator takeoff.jpg|thumbnail|right|The Sea Gladiator taking off from a carrier]]
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
-The Gloster Sea Gladiator was, as the name suggests, a naval modification of the Gladiator biplane fighter in use by the Royal Air Force (RAF). Ninety-eight Sea Gladiators were completed: 38 "interim" airframes modified from the existing [[Gladiator Mk II]] production line (serial numbers N2265 – N2302), and 60 purpose-built airframes (serial numbers N5500 – N5549 and N5565 – N5574); differences from the Gladiator Mk IIs in service with the RAF included the planes being fitted with catapult attachment points and a tail hook, the airframe being strengthened to withstand carrier landings, and a dinghy lifeboat being made mountable to the underbelly of the plane. As with the Gladiator Mk II it was based off, the Sea Gladiator was powered by a nine-cylinder Bristol Mercury VIIA radial engine rated at 840 hp and mated to a three-blade Fairey metal fixed pitch propeller, and armed with four 7.7 mm (.303) Browning machine guns. 54 Sea Gladiators were still in service with the Fleet Air Arm by the time Britain declared war on Germany in September 1939.
+The Gloster Sea Gladiator was, as the name suggests, a naval modification of the Gladiator biplane fighter in use by the Royal Air Force (RAF). Ninety-eight Sea Gladiators were completed: 38 "interim" airframes modified from the existing [[Gladiator Mk II]] production line (serial numbers  N2265 – N2302), and 60 purpose-built airframes (serial numbers N5500 – N5549 and N5565 – N5574); differences from the Gladiator Mk IIs in service with the RAF included the planes being fitted with catapult attachment points and a tail hook, the airframe being strengthened to withstand carrier landings, and a dinghy lifeboat being made mountable to the underbelly of the plane. As with the Gladiator Mk II it was based off, the Sea Gladiator was powered by a nine-cylinder Bristol Mercury VIIA radial engine rated at 840 hp and mated to a three-blade Fairey metal fixed pitch propeller, and armed with four 7.7 mm (.303) Browning machine guns. 54 Sea Gladiators were still in service with the Fleet Air Arm by the time Britain declared war on Germany in September 1939.
 
 Sea Gladiators saw service in the Atlantic aboard Royal Navy carriers, and in the Mediterranean theatre during the Siege of Malta.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=gladiator_mk2_navy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=gladiator_mk2_navy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|FLBJwKLjACU|'''Sea Gladiator Mk I - Great Britain - TERROR on the High Seas!''' - ''Jengar''|iE4wTuJbe2I|'''The Shooting Range #40''' - ''Pages of History'' section at 05:13 discusses the Gladiator.}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.ru/index.php?/topic/197035-gloster-gladiator-mk-ii-iis-iif-taka/ Official data sheet - more details about the performance (Russian Forum)]
-- [[wikipedia:Gloster_Gladiator|[Wikipedia] Gloster Gladiator]]
+* [https://forum.warthunder.ru/index.php?/topic/197035-gloster-gladiator-mk-ii-iis-iif-taka/ Official data sheet - more details about the performance (Russian Forum)]
+* [[wikipedia:Gloster_Gladiator|[Wikipedia] Gloster Gladiator]]
 
 {{AirManufacturer Gloster}}
 {{Britain fighters}}

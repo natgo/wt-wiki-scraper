@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese medium tank {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
 
 As with the previous [[M48A1 (China)|M48A1]], this M60A3 is a US medium tank operated by Taiwan. It boasts thermal sights, a two-plane stabilizer, good gun handling, and a wide selection of ammunition. It does suffer from a large profile, average mobility, and inadequate protection, but the M60A3 TTS is by and large a reliable tank that complements the contemporary [[ZTZ59D1]] quite well.
@@ -21,7 +19,6 @@ Succeeding the M60A3 is the [[CM11]], which uses the same hull but boasts better
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 The base armour layout of the M60A3 TTS is the same as the M60A1 RISE (P). Unlike the US version, it does not have ERA panels, making chemical munitions a large threat.
@@ -32,8 +29,8 @@ With only steel armour, the M60A3's protection should not be trusted. Considerin
 
 '''Armour type:'''
 
-- Cast homogeneous armour
-- Rolled homogeneous armour (Rear roof, Engine grille)
+* Cast homogeneous armour
+* Rolled homogeneous armour (Rear roof, Engine grille)
 
 {| class="wikitable"
 |-
@@ -49,13 +46,12 @@ With only steel armour, the M60A3's protection should not be trusted. Considerin
 |}
 '''Notes:'''
 
-- Tracks are 30 mm thick while suspension wheels are 20 mm thick.
-- Belly armour is 19 mm in the front, 13 mm in the rear.
-- 15 mm RHA plate between the engine and crew compartment.
+* Tracks are 30 mm thick while suspension wheels are 20 mm thick.
+* Belly armour is 19 mm in the front, 13 mm in the rear.
+* 15 mm RHA plate between the engine and crew compartment.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp= 1162|rbMinHp= 663}}
@@ -69,9 +65,7 @@ The M60A3 TTS's mobility is unimpressive. The power-to-weight and reverse speed 
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|M68 (105 mm)}}
 
 The M60A3 TTS is equipped with a 105 mm M68 rifled gun functionally identical to the ubiquitous Royal Ordnance L7. Although the gun itself is essentially the same as the ZTZ59D1's, the M60 platform offers a significantly faster reload, faster gun handling, and vastly improved gun depression. Fighting on hilly terrain is much easier and swinging the turret around during close range combat is not such a struggle.
@@ -85,10 +79,10 @@ The M60A3 TTS is equipped with a 105 mm M68 rifled gun functionally identical to
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 63 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 21.40 || 29.65 || 36.00 || 39.81 || 42.35 || rowspan="2" | 8.71 || rowspan="2" | 7.70 || rowspan="2" | 7.10 || rowspan="2" | 6.70
+| rowspan="2" | 63 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 21.40 || 29.65  || 36.00  || 39.81  || 42.35  || rowspan="2" | 8.71 || rowspan="2" | 7.70 || rowspan="2" | 7.10 || rowspan="2" | 6.70
 |-
 ! ''Realistic''
-| 13.40 || 15.75 || 19.13 || 21.15 || 22.50
+| 13.40 || 15.75  || 19.13  || 21.15  || 22.50
 |-
 |}
 
@@ -155,9 +149,7 @@ The M735 APFSDS round is the best all-purpose offering. It improves upon the APD
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_M60A3_TTS.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.9.0.33''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -194,9 +186,7 @@ Turret empty: 17&nbsp;''(+46)''
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|M85 (12.7 mm)|M240 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -219,7 +209,6 @@ Turret empty: 17&nbsp;''(+46)''
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The M60A3 TTS lacks the mobility to arrive first on the front lines or easily flank, but the unimpressive protection means that advancing steadily in the open is not a safe proposition either. It does not have ERA like its US counterpart and is even more vulnerable to enemy chemical munitions. Still, the turret can bounce incoming fire on occasion and it enjoys good gun handling relative to other tanks in the Chinese tech tree, so it is more suited to peeking over hills or brawling in urban combat than the [[ZTZ59D1]], which has less than half the gun depression and turret rotation speed.
@@ -233,34 +222,31 @@ Helicopters are common at the M60A3's battle rating. The M60A3 will be easily de
 Overall, the M60A3 TTS is a no-frills tank that can perform well in almost any situation. It does not have any special features or outstanding strengths, but the combination of decent APFSDS, thermal sights, and good gun handling at a battle rating of 8.7 is a nice and relaxing package. The ZTZ59D1 has a more powerful APFSDS round, a lower profile, and potentially better protection but will often be let down by its abysmal gun handling and slow reload. The two tanks work well for laid-back players who prefer to hang back instead of aggressively rushing.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Good quality thermal sight for the gunner
-- M735 APFSDS is powerful with its good penetration, velocity, and trajectory
-- Has a laser rangefinder
-- -10 degrees gun depression works great in hilly maps
-- Offers various other shell types other than APFSDS
-- Crew members are quite spread out, sometimes reducing the chance of being knocked out by a single APDS/APFSDS round
-- Has a 12.7 mm heavy MG for light vehicles/helicopters
-- Default camouflage is effective in dark urban maps like Berlin
-- Turret can occasionally bounce kinetic rounds
+* Good quality thermal sight for the gunner
+* M735 APFSDS is powerful with its good penetration, velocity, and trajectory
+* Has a laser rangefinder
+* -10 degrees gun depression works great in hilly maps
+* Offers various other shell types other than APFSDS
+* Crew members are quite spread out, sometimes reducing the chance of being knocked out by a single APDS/APFSDS round
+* Has a 12.7 mm heavy MG for light vehicles/helicopters
+* Default camouflage is effective in dark urban maps like Berlin
+* Turret can occasionally bounce kinetic rounds
 
 '''Cons:'''
 
-- Not very mobile
-- Is a large and tall target
-- Armour is virtually useless against APFSDS/HEATFS
-- Turret ring and cupola are all notable weak spots
-- Unlike US equivalents, lacks ERA against chemical warheads
-- Bad gun depression when aiming backwards
+* Not very mobile
+* Is a large and tall target
+* Armour is virtually useless against APFSDS/HEATFS
+* Turret ring and cupola are all notable weak spots
+* Unlike US equivalents, lacks ERA against chemical warheads
+* Bad gun depression when aiming backwards
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 {{main|M60A3 TTS#History|l1=History of the M60A3 TTS}}
 
 === Service in ROC armed forces ===
@@ -273,27 +259,23 @@ In view of the fact that the combat effectiveness of M60A3 main battle tanks is 
 (GDLS was awarded a $358 million contract for 150 M1A1 SA Abrams tanks while the upgrade package of Taiwanese M60A3 TTS costs 3 million dollars each, far more expensive than 2.4 million M1A1 SA Abrams.)
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=cn_m60a3_tts Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=cn_m60a3_tts Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|zoBPU0n65_A|'''The M60 family''' discusses the {{PAGENAME}} at 5:05 - ''War Thunder Official Channel''}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{TankManufacturer Chrysler Defense}}
 {{China medium tanks}}

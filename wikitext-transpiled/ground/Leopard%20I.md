@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=germ_leopard_I
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was introduced in [[Update 1.51 "Cold Steel"]].
 
 The main strengths of the Leopard I are its high mobility and the above-average rate of fire of the main cannon. In combination with a good gun depression of -9° (meaning, you can lower the gun quite extensively), an experienced Leopard I driver can exploit uneven terrain to effectively fight his enemies without showing much of his vehicle - or being in the inconvenient situation to leave his cover to return fire.
@@ -23,7 +21,6 @@ Considering everything, the Leopard 1 is not a bad vehicle in the right hands - 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 The Leopard's armour is not thick enough in the game to defend itself from most incoming fire, as many shell types at its battle rating are able to easily penetrate and destroy the tank. The Leopard 1 was originally built with a "perfect standard tank" idea, similar to the Main Battle Tank concept, as during its development, the armour has been considered an expendable quality and that superior speed and firepower is most important. Therefore the Leopard's armour design was only meant to withstand 20 mm calibres from the front. A big threat is the [[ZSU-57-2]], which gives any Leopard 1 a hard time with its high rate of fire of effective 57 mm AP rounds.
@@ -46,12 +43,11 @@ It is recommended to carry as little ammo as possible, about 20 rounds, as the m
 |}
 '''Notes:'''
 
-- Suspension wheels and tracks are 20 mm thick.
-- The turret mantlet has varying thicknesses ranging from 45 - 200 mm. It is thickest near the centre in contrast to the borders where it is the thinnest.
+* Suspension wheels and tracks are 20 mm thick.
+* The turret mantlet has varying thicknesses ranging from 45 - 200 mm. It is thickest near the centre in contrast to the borders where it is the thinnest.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=1,286|rbMinHp=734}}
@@ -66,9 +62,7 @@ The mobility is between the [[XM-1 (GM)]] and the [[T-55AM-1]]. Expect a speed o
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|L7A3 (105 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -134,9 +128,7 @@ The mobility is between the [[XM-1 (GM)]] and the [[T-55AM-1]]. Expect a speed o
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.17.0.126''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -154,9 +146,7 @@ The mobility is between the [[XM-1 (GM)]] and the [[T-55AM-1]]. Expect a speed o
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|MG3A1 (7.62 mm)}}
 
 The {{PAGENAME}} mounts one coaxial 7.62 mm machine gun and one pintle-mounted 7.62 mm machine gun. These both have particularly high rates of fire, and can be used as a deterrent for close air support as well as clearing light obstacles and crew in open-top vehicles.
@@ -174,9 +164,7 @@ The {{PAGENAME}} mounts one coaxial 7.62 mm machine gun and one pintle-mounted 7
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 Scan and use the terrain to your advantage. Take into consideration the moderate vehicle height, which allows you to go turret down in certain locations, allowing you to safely use your commander's binoculars to locate targets. Then, after you have located the enemy, fire a few rounds in quick succession and relocate when spotted, especially when the enemy shots come dangerously close. The Leopard is quite fast, so taking hits from a distance while on the move is a risk that you may consider worth taking.
 
 The Leopard is not designed to take hits from any guns, nor fight in stand-off situations against heavier enemy vehicles. Frontally, the angle of the hull can bounce shots once in a while, but you're better off not to rely on this. The turret front is also the same, it's best to attempt to only fire when you can avoid receiving a shot or relocating to a position if possible. The main goal is to make the opponent incapable of returning fire. The majority of Russian rank V tanks ([[IS-3]], [[IS-4M]], [[T-10M]], [[T-54 (1951)|T-54s]], [[SU-122-54]], [[T-62]] or [[ZSU-57-2]]) gunners are disabled by penetrating the right side of the turret or hull, if they are faced towards you. If you have the possibility to hit a Russian tank's hull, which is again faced towards you, prioritize it, because it is likely to take it out with one shot to the right side of the hull (3 out of 4 crew member are sitting in a row), this does not work with the stock APDS round due to the poor damage output. American top rank tanks like the [[M103]], [[M47]] or [[M60]] are harder to take out. It is advised to take out the gunner first, which is located in the left side of the turret and then take out the rest of the remaining crew members. Hitting the ammo rack of your opponent is often the fastest way to take out an enemy vehicle, keep in mind though there is a small chance the ammo will not blow up (Best ammo types to ammo rack: HEAT-FS > HESH > APDS).
@@ -194,41 +182,38 @@ The Leopard 1 is also very effective at sniping, due to its relatively small pro
 In a nutshell, use the superb mobility with the cannon's perfection to flank and spank enemies, wait and hunt for the perfect positions and pick off the enemy tanks one by one, while always maintaining a good situational awareness. Patience is the key to success.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Fast and very agile when fully upgraded
-- High-penetration APDS and HEAT rounds
-- HESH rounds extremely effective against light targets
-- Reasonably fast reload time, can be reduced to 6.7 seconds
-- Good gun elevation and depression
-- Reasonably good turret traverse rate
-- Access to smoke grenades
-- Relatively small, moderately low profile
-- Excellent reverse speed
-- A well coordinated squad of Leopards can effectively take over a match
-- Potential to be an extremely efficient vehicle in the right hands
-- Some parts of the turret (mainly the mantlet) can bounce rounds from the right angles
+* Fast and very agile when fully upgraded
+* High-penetration APDS and HEAT rounds
+* HESH rounds extremely effective against light targets
+* Reasonably fast reload time, can be reduced to 6.7 seconds
+* Good gun elevation and depression
+* Reasonably good turret traverse rate
+* Access to smoke grenades
+* Relatively small, moderately low profile
+* Excellent reverse speed
+* A well coordinated squad of Leopards can effectively take over a match
+* Potential to be an extremely efficient vehicle in the right hands
+* Some parts of the turret (mainly the mantlet) can bounce rounds from the right angles
 
 '''Cons:'''
 
-- Essentially non-existent armour that can't stop any more than 20 mm rounds reliably
-- No main gun stabiliser
-- Tankers unaccustomed to APDS may struggle with the stock vehicle
-- Stock accuracy is sub-par
-- Does not have the HESH round when stock
-- Like all MBTs, there is ammunition stored adjacent to the driver
-- 4-man crew complement, reasonably close-packed
-- Easy prey for high-calibre autocannons such as those found on the ZSU-57-2
-- HEATFS and APDS rounds have sub-par post-penetration effectiveness, often taking multiple rounds to destroy vehicles
-- HEATFS detonates when it hits a fence or bush
+* Essentially non-existent armour that can't stop any more than 20 mm rounds reliably
+* No main gun stabiliser
+* Tankers unaccustomed to APDS may struggle with the stock vehicle
+* Stock accuracy is sub-par
+* Does not have the HESH round when stock
+* Like all MBTs, there is ammunition stored adjacent to the driver
+* 4-man crew complement, reasonably close-packed
+* Easy prey for high-calibre autocannons such as those found on the ZSU-57-2
+* HEATFS and APDS rounds have sub-par post-penetration effectiveness, often taking multiple rounds to destroy vehicles
+* HEATFS detonates when it hits a fence or bush
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 The project for the Leopard started as far back as 1956 as an attempt to replace the American [[M41 (90 mm)|M47]] and [[M48A1|M48 Patton]] tanks in service at the time as they were becoming outdated to newer anti-tank technology. These American tanks did not fit the tactical concepts Germany had developed at great expense during the Second World War, so a new design was sought which would integrate this knowledge and also rebuild the German armaments industry.
 
@@ -284,42 +269,38 @@ The first production order of 1,500 tanks was placed in 1963, and in September, 
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_leopard_I Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_leopard_I Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|GgC8UNa8dok|'''Leopard I vs STB-1''' - ''War Thunder Official Channel''|qksBZwDbbvo|'''Leopard I - Really Changed After The Changes/Buffs?''' - ''Napalmratte''|SKeFUWKudoY|'''The Shooting Range #63''' - ''Pages of History'' section at 00:33 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
 
-- [[Leopard 1 (Family)]]
+* [[Leopard 1 (Family)]]
 
 ;Other vehicles of similar configuration and role
 
-- [[AMX-30 (1972)]]
-- [[AMX-30]]
+* [[AMX-30 (1972)]]
+* [[AMX-30]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/devblog/current/792|[Devblog] Leopard 1]]
-- [[wt:en/news/3325--en|[Vehicle Profile] Leopard 1]]
-- [[wikipedia:Leopard_1|[Wikipedia] Leopard 1]]
-- [https://www.tanks-encyclopedia.com/coldwar/West_Germany/leopard-i.php <nowiki>[Tanks Encyclopedia]</nowiki> Leopard I MBT (1965)]
-- [https://www.militaryfactory.com/armor/detail.asp?armor_id=58 <nowiki>[Military Factory]</nowiki> Leopard 1]
+* [[wt:en/devblog/current/792|[Devblog] Leopard 1]]
+* [[wt:en/news/3325--en|[Vehicle Profile] Leopard 1]]
+* [[wikipedia:Leopard_1|[Wikipedia] Leopard 1]]
+* [https://www.tanks-encyclopedia.com/coldwar/West_Germany/leopard-i.php <nowiki>[Tanks Encyclopedia]</nowiki> Leopard I MBT (1965)]
+* [https://www.militaryfactory.com/armor/detail.asp?armor_id=58 <nowiki>[Military Factory]</nowiki> Leopard 1]
 
 {{TankManufacturer KMW}}
 {{Germany medium tanks}}

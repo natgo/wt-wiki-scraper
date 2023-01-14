@@ -1,21 +1,17 @@
 {{Specs-Card
 |code=germ_th_800_bismark
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.jpg}}
 |market=items_Class 3 (P) (Germany)
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} German light tank {{Battle-rating}}. It was introduced during [[Update "Hot Tracks"]] as a reward for the [[wt:en/news/6981-special-operation-w-i-n-t-e-r-en|2020 Operation W.I.N.T.E.R.]] event.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 [[File:Class 3 inner spall shields.png|thumb|350x350px|As seen here, the frontal plate has double spall shields divided by a 200 mm air spacing.]]
 [[File:Class 3 inner turret spall shields.png|thumb|As seen here, the turret mantlet, front and sides all have double spall shields separated by an 80 mm air spacing]]
 Due to the massive size of the Class 3, it is able to withstand high calibre ammunition due to the poor armour as it will not create enough spalling when penetrated. The crew spacing as well as the interior spacing makes it one of the hardest wheeled vehicles to destroy in the game with only kinetic energy (KE) penetrators (APDS, APFSDS, etc etc). Centre of mass shots from the front with KE shells will often take the driver and set the engine on fire, but due to the turret crew being elevated, they are most likely to survive, meaning the turret is operational ready to engage any enemy threats. Chemical energy (CE) penetrators are a tricky topic when it comes to the frontal armour. Depending on the ammunition used on certain impact angles, the Class 3 might be able to withstand the impact. CE rounds are most likely to penetrate and be partially or fully stopped thanks to the inner spall shields at a perpendicular angle but will knock out the driver and disable or damage engine as well as igniting the ammo rack. This changes when ATGMs take a play in engagements, they will often create much more spalling than tank-fired HEAT rounds as the calibre is higher (meaning a greater explosive mass) and will cause destruction by overpressure if hit from the sides or if the ATGM spall goes all the way from the front to the back while penetrating the sides. For this same reason it is recommended to only carry ~24-26 rounds in the vehicle as it will empty most of the hull ammo racks but still keep the ready racks full in the turret. The armour is not to be relied on unless there are specific enemies (T-54's for example) as most of them will always penetrate your hull. The Class 3 is immune to autocannon fire from the front and hull upper half sides and turret sides due to the spaced armour. This is an advantage compared to the rest of wheeled light armoured vehicles in which 20 mm and 30 mm autocannons often penetrate and knock out crew and inner components.
@@ -32,8 +28,8 @@ When a round is fired at the centre of mass frontally, the double plate armour w
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- High hardness rolled armour
+* Rolled homogeneous armour
+* High hardness rolled armour
 
 {| class="wikitable"
 |-
@@ -49,9 +45,9 @@ When a round is fired at the centre of mass frontally, the double plate armour w
 
 '''Notes:'''
 
-- Suspension is 10 mm thick
-- Wheels are 10 mm thick
-- There are internal spall shields inside the vehicle:
+* Suspension is 10 mm thick
+* Wheels are 10 mm thick
+* There are internal spall shields inside the vehicle:
 
 {| class="wikitable"
 |-
@@ -59,15 +55,13 @@ When a round is fired at the centre of mass frontally, the double plate armour w
 |-
 | Hull || 200 mm air <br> 38 mm second lower frontal plate (20°) || 10 mm air <br> 30 mm upper half plate || 5 mm
 |-
-| Turret || 84 mm turret front first plate <br> 80 mm air 38 mm turret front second plate<br>80 mm ''Gun mantlet'' || 30 mm turret side first plate <br> 120 mm air 16 mm turret side second plate || N/A
+| Turret || 84 mm turret front first plate <br> 80 mm air  38 mm turret front second plate<br>80 mm ''Gun mantlet'' || 30 mm turret side first plate <br> 120 mm air 16 mm turret side second plate || N/A
 |-
 |}
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-
 Despite the tremendous size and mass, the Class 3 is almost as fast as the [[Radkampfwagen 90|Radkampfwagen]]. The 8 wheels give it an almost perfect cross-country capability with exception of mud, snow and deep sand. Acceleration wise, it takes time to make the Class 3 move if on a non urban environment or at an angle due to the mass. It has traction on the 8 wheels, meaning it is able to move even if only a pairs of wheels are touching the ground. As expected, due to the length, the turn radius is huge and it requires a big surface to be abe to make a 180° turn. Besides the length and height, the Class 3 is tremendously fast for a vehicle its size, specially if it is on urban environment. It is able to reach speeds of 80 km/h even on dirt. This not only makes the Class 3 a fearful tough to crack behemoth but also a flanking and "Hit N' Run" behemoth. Thanks to the stabilizer, the Class 3 is able to fire at enemy targets while on top speed, this requires practice but a handled commander will be able to achieve so.
 
 {{tankMobility|abMinHp=1,218|rbMinHp=695}}
@@ -79,9 +73,7 @@ Despite the tremendous size and mass, the Class 3 is almost as fast as the [[Rad
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|GT-3 (105 mm)}}
 
 The Class 3 has a GT-3 105 mm rifled bore main gun, it shares the same ballistics as the L7A3 the [[Leopard 1 (Family)|Leopard]] family share with the exact same ammunition. Thus, there should be no hard enough threat to kill, specially if DM33 is being used with its potent 408 mm of penetration.
@@ -147,9 +139,7 @@ The Class 3 has a GT-3 105 mm rifled bore main gun, it shares the same ballistic
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.3.0.130''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -160,22 +150,20 @@ The Class 3 has a GT-3 105 mm rifled bore main gun, it shares the same ballistic
 ! 5th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''54''' || 48&nbsp;''(+6)'' || 32&nbsp;''(+22)'' || 16&nbsp;''(+38)'' || 5&nbsp;''(+49)'' || 1&nbsp;''(+53)'' || No
+| '''54''' || 48&nbsp;''(+6)''  || 32&nbsp;''(+22)'' || 16&nbsp;''(+38)'' || 5&nbsp;''(+49)'' || 1&nbsp;''(+53)'' || No
 |-
 |}
 '''Notes''':
 
-- Shells are modeled individually and disappear after having been shot or loaded.
-- Racks 4 & 5 are first stage ammo racks. They total 15 shells and gets filled first when loading up the tank.
-- These racks are also emptied early: the rack depletion order at full capacity is: 4 - 5 - 1 - 2 - 3.
-- Simply not firing when the gun is loaded will move ammo from racks 1-38 into racks 5 then 4. Firing will interrupt the restocking of the ready racks.
+* Shells are modeled individually and disappear after having been shot or loaded.
+* Racks 4 & 5 are first stage ammo racks. They total 15 shells and gets filled first when loading up the tank.
+* These racks are also emptied early: the rack depletion order at full capacity is: 4 - 5 - 1 - 2 - 3.
+* Simply not firing when the gun is loaded will move ammo from racks 1-38 into racks 5 then 4. Firing will interrupt the restocking of the ready racks.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|Browning MG4 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -191,36 +179,31 @@ The Class 3 has a GT-3 105 mm rifled bore main gun, it shares the same ballistic
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Class 3 is considered like a bigger Radkampfwagen. Due to its speed, it may be used in a flanking manner, being able to go around the enemy and surprise them where they do not expect. When flanking, it is recommended to use roads if possible, as the Class 3 is a wheeled vehicle, and rough terrain will slow it down. However, even off-road, the vehicle is still capable of speeds that are much higher than many other contemporary MBTs.
 
 It may also be used in a playstyle of a fast MBT. While the hull of the Class 3 is weak and vulnerable to overpressure, the whole front of the vehicle has multiple well angled and very bouncy plates, both interior and exterior, which allows the turret and hull to sometimes take hits without damage, or even ricochet some shells. However, it is important to note that even though enemy shells have a chance of bouncing, it is best not to rely on this, and to use the vehicle's stabilizer and situational awareness to get the first shot off.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great top speed and good acceleration
-- Lots of empty space, difficult to one shot without ammo racking
-- Good gun, can deal with most enemies easily
-- Good hull armour for a light tank, can frontally withstand most SPAA cannons as well as the guns of M3 Bradley and the BMP-2
-- Turret is immune to every IFV and SPAA autocannon
-- The length of the vehicle can cause APFSDS shrapnel created at the front of the tank to dissipate before it is able to reach the rear
+* Great top speed and good acceleration
+* Lots of empty space, difficult to one shot without ammo racking
+* Good gun, can deal with most enemies easily
+* Good hull armour for a light tank, can frontally withstand most SPAA cannons as well as the guns of M3 Bradley and the BMP-2
+* Turret is immune to every IFV and SPAA autocannon
+* The length of the vehicle can cause APFSDS shrapnel created at the front of the tank to dissipate before it is able to reach the rear
 
 '''Cons:'''
 
-- Absolutely gigantic, size is on par with the Maus
-- Because of its size it may have difficult traversing certain areas of maps, especially urban maps with lots of tight corners
-- Mediocre gun depression of -8°
+* Absolutely gigantic, size is on par with the Maus
+* Because of its size it may have difficult traversing certain areas of maps, especially urban maps with lots of tight corners
+* Mediocre gun depression of -8°
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The Henschel Wehrtechnik TH200, TH600 and TH800 were a series of armoured vehicles developed in Germany in the early '80s as test vehicles that could undertake a wide variety of combat roles. These vehicles have a hull of welded steel armour that provides guaranteed protection to low and high calibre machinegun fire but lacks protection against anti-tank weaponry. A series of 3 versions were done: The TH200 4x4, the TH600 6x6 and TH800 8x8. Each one of the variants had their own combat roles.
 
 '''TH200'''
@@ -239,12 +222,11 @@ This version had a weight of 35,000 kg and could carry weapon systems with weigh
 Class 3 was the third and heaviest wheeled combat vehicle prototype to compete for the South African Army. When developing a heavy version of a wheeled tank, the designers were not limited by limits of weight or dimensions, therefore, in terms of weight, firepower and level of security, the Class 3 is a true wheeled tank. The competition commission opted for a lighter prototype, which later became the Rooikat 76 tank destroyer. The Class 3 prototype was exhibited at the Bloemfontein War Museum with a different turret.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_th_800_bismark Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_th_800_bismark Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="150">
@@ -261,20 +243,18 @@ File:Class 3 WTWallpaper 004.jpg
 {{Youtube-gallery|chjZ6Hra--c|'''Best wheeled tanks''' discusses the {{PAGENAME}} at 04:14 - ''War Thunder Official Channel''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[Rooikat 105]]
+* [[Rooikat 105]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/7001-development-class-3-en|[Devblog] Class 3]]
+* [[wt:en/news/7001-development-class-3-en|[Devblog] Class 3]]
 
 {{TankManufacturer Thyssen-Henschel}}
 {{Germany light tanks}}

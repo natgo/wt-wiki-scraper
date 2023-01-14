@@ -9,17 +9,13 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian attack helicopter {{Battle-rating}}. It was introduced in [[Update "Hot Tracks"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Heli-Flight}}
-
 <!-- ''Describe how the helicopter behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->[[File:A129CBT in flight.png|thumb|300x300px|A129CBT in flight]]
-
 Outfitting the A129CBT with general payload options (Hellfires, rockets, air-to-air missiles) does not make the helicopter any slower than its adversaries, in fact at times you'll easily be one of the fastest helicopters on the battlefield. The A129CBT is able to do manoeuvres other helicopters can only dream about, even with full payload options. In Ground RB matches however, there should not be many times you'll have to move too much to avoid enemies. You are able to get good positions thanks to your speed, and, if done right, you will be able to dodge incoming missiles from enemy SPAA or jet aircraft.
 
 {| class="wikitable" style="text-align:center"
@@ -40,9 +36,7 @@ Outfitting the A129CBT with general payload options (Hellfires, rockets, air-to-
 
 === Survivability and armour ===
 {{Specs-Heli-Armour}}
-
 <!-- ''Examine the survivability of the helicopter. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical systems.'' -->
-
 [[File:A129CBT armour.png|300px|thumb|A129CBT - Survivability]]
 The A129CBT is not very survivable. Like many helicopters at its battle rating, it is prone to exploding into many pieces after a hit from a missile. It does have some armour on the cockpit area, but in battles that won't really protect you from anything you'll face. The A129CBT uses Kevlar boron carbide, a composite material which is limited only to instrument, floor and side panels around the cockpit. It does not provide the same level of protection as seen on other helicopters.
 
@@ -62,42 +56,38 @@ The A129CBT is not very survivable. Like many helicopters at its battle rating, 
 |}
 === Offensive armament ===
 {{Specs-Heli-Offensive}}
-
 <!-- ''Describe the offensive armament of the helicopter, if any. Describe how effective the cannons and machine guns are in battle, also what ammunition belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|TM197B (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between three presets:
-  ** 1 x 20 mm TM197B cannon, nose-mounted ball turret (750 rpg)
-  ** 1 x 20 mm TM197B cannon + 90 x countermeasures
-  \*\* 1 x 20 mm TM197B cannon + 90 x countermeasures + IRCM
+* A choice between three presets:
+** 1 x 20 mm TM197B cannon, nose-mounted ball turret (750 rpg)
+** 1 x 20 mm TM197B cannon + 90 x countermeasures
+** 1 x 20 mm TM197B cannon + 90 x countermeasures + IRCM
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
-
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-
 [[File:Hellfire rack.png|thumb|300px|A129CBT missile rack fully loaded with AGM-114B Hellfire air-to-ground missiles]]
 {{main|AGM-114B Hellfire|ATAS (AIM-92)|BGM-71C Improved TOW|BGM-71D TOW-2|Mistral}}
 {{main|FFAR Mighty Mouse|Hydra-70 M247|FN M3P (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 28 x Hydra-70 M247 rockets
-- 76 x Hydra-70 M247 rockets
-- 2 x 12.7 mm FN M3P machine guns (400 rpg = 800 total)
-- 2 x 12.7 mm FN M3P machine guns + 6 x FFAR Mighty Mouse rockets
-- 4 x BGM-71C Improved TOW missiles
-- 4 x BGM-71D TOW-2 missiles
-- 8 x BGM-71C Improved TOW missiles
-- 8 x BGM-71D TOW-2 missiles
-- 4 x AGM-114B Hellfire missiles
-- 8 x AGM-114B Hellfire missiles
-- 8 x ATAS (AIM-92) missiles
-- 8 x Mistral missiles
+* Without load
+* 28 x Hydra-70 M247 rockets
+* 76 x Hydra-70 M247 rockets
+* 2 x 12.7 mm FN M3P machine guns (400 rpg = 800 total)
+* 2 x 12.7 mm FN M3P machine guns + 6 x FFAR Mighty Mouse rockets
+* 4 x BGM-71C Improved TOW missiles
+* 4 x BGM-71D TOW-2 missiles
+* 8 x BGM-71C Improved TOW missiles
+* 8 x BGM-71D TOW-2 missiles
+* 4 x AGM-114B Hellfire missiles
+* 8 x AGM-114B Hellfire missiles
+* 8 x ATAS (AIM-92) missiles
+* 8 x Mistral missiles
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -129,11 +119,10 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 ! Mistral missiles
 | 2 || 2 || 2 || 2
 |-
-| colspan="6" | \* FFAR rockets can only be carried concurrently with the FN M3P gunpods on the same hardpoint
+| colspan="6" | * FFAR rockets can only be carried concurrently with the FN M3P gunpods on the same hardpoint
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 '''Ground RB'''
@@ -163,7 +152,7 @@ When flying high, you are able to see the battlefield and identify priority targ
 The downsides are that you run the risk of being spotted by the entire enemy team. There is also no radar clutter for the enemy SPAAs and diving back down can result in crashing.
 [[File:A129CBT 4.png|thumb|300x300px|A129CBT firing the cannon]]
 
-On the other hand, flying low gives you the element of surprise and keeps you safe from potential SPAAs. You're also able to retreat faster as the helicopter is usually at maximum speed. However, crashing is more likely and entering the battlefield will have you subjected to a hail of bullets. If you bleed all of your speed in a turn, you will be a sitting duck and finding good targets is way harder while flying at 230 km/h just a few feet off the ground through a warzone.
+On the other hand,  flying low gives you the element of surprise and keeps you safe from potential SPAAs. You're also able to retreat faster as the helicopter is usually at maximum speed. However, crashing is more likely and entering the battlefield will have you subjected to a hail of bullets. If you bleed all of your speed in a turn, you will be a sitting duck and finding good targets is way harder while flying at 230 km/h just a few feet off the ground through a warzone.
 
 With enough practice (and rockets), you can even clear out groups of light tanks rushing the capture points early in the game at range. Sniping can be applied to soft targets as well. However, it is advised that you avoid sniping MBTs unless absolutely necessary as it is seen as a waste of rockets as they can take more hits than light targets. It is best to only fire rockets at immediate threats like SPAAs.
 
@@ -176,26 +165,24 @@ In Arcade Assault, you won't have to worry about going back to base to reload yo
 When playing helicopter battles, your best shot at staying alive and being effective is to bring a load-out of air-to-air missiles and rockets. The air-to-air missiles should be used against the more dangerous helicopters like the [[Ka-50]]. They can be easily taken down, and considering that you have 4 missiles at your disposal, that is a potential of 4 easy kills. With rockets, you'll be able to take out ground AI targets. Usually, they will take 1 or 2 shots at minimum to destroy. Rockets are also quite effective in close range as a last ditch effort to come out on top when fighting a 1-vs-1. Your main 20 mm cannon is an absolute monster in this mode. Here you'll be able to easily get kills with it. It does overheat however, so shoot with moderation and pick your targets whilst keeping any other nearby enemies in mind.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Very good and in most cases, unmatched manoeuvrability
-- Good speed
-- Deadly 20 mm autocannon
-- Can carry AIM-92 Stinger or Mistral air-to-air missiles
-- Very effective anti-tank capabilities
-- Has access to countermeasures and a ballistic computer
+* Very good and in most cases, unmatched manoeuvrability
+* Good speed
+* Deadly 20 mm autocannon
+* Can carry AIM-92 Stinger or Mistral air-to-air missiles
+* Very effective anti-tank capabilities
+* Has access to countermeasures and a ballistic computer
 
 '''Cons:'''
 
-- Fragile, cannot tank as many hits as its counterparts
-- Armament is lacklustre compared to other helicopters
-- Air-to-air missiles launch downwards
+* Fragile, cannot tank as many hits as its counterparts
+* Armament is lacklustre compared to other helicopters
+* Air-to-air missiles launch downwards
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The story of the A129 Mangusta "Combat", (also known as A129 ESS, A129 CBT and A129 Mangusta) began during the late stages of the Cold War. The helicopter began to be developed at the request of the Italian Army, whom saw the need to equip its air units with a dedicated attack helicopter with anti-tank capabilities. The A129 was the first dedicated attack helicopter fully designed and built in Western Europe. Its project began in 1978 and its final project was ready only in 1982. The A129 made its first official maiden flight on the 15th of September of 1983, at the Agusta company Cascina-Costa facilities. The flight lasted about 30 minutes. Agusta pilots were extremely happy with the results, and went on record and said that the helicopter had great handling. They had previously only performed shake down flights twice prior to the first official flight. It was given the name Mangusta by the Italian army and Agusta employees. This name was mainly chosen due to the fact that the A129 was a direct competitor of the Bell A-1 Cobra that at that time rivaled the Agusta project. (The mongoose is known for its ease in killing poisonous snakes).
@@ -210,12 +197,11 @@ No country had decided to pick up the A129 International, however in 1986, the g
 The modern A.129 attack helicopter is successfully used by the Italian armed forces, as well as by a number of foreign operators. The helicopter has excellent flight characteristics, outstanding speed and superb manoeuvrability. The CBT modification was created from combat experience in modern armed conflicts. The Mangusta is armed with a 20 mm autocannon and carries a good arsenal of unguided and guided weapons, including Stinger air-to-air missiles and Hellfire II ATGMs.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=a_129_cbt Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=a_129_cbt Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" caption="A129CBT Devblog Images" heights="200">
@@ -227,16 +213,15 @@ File:A.129 CBT WTWallpaper 003.jpg|
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the helicopter;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the helicopter;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6989-development-italian-helicopters-en|[Devblog] Italian Helicopters]]
+* [[wt:en/news/6989-development-italian-helicopters-en|[Devblog] Italian Helicopters]]
 
 {{AirManufacturer Agusta}}
 {{Italy helicopters}}

@@ -4,18 +4,15 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.59 "Flaming Arrows"]] and was one of the first ATGM-equipped vehicles to be in the game. The IT-1 is a niche modification of the T-62 chassis with a new, low profile turret designed to carry a 3M7 Drakon ATGM launcher, which is the vehicle's only weapon system and mounted above its turret.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
-The hull front is an angled armour similar to T-62, it will protect from "normal" rounds at medium range, but regular APDS will only be likely to be deflected at about 1.2 km, sniper APDS might still penetrate. HEAT will penetrate it regardless of impact point.
+The hull front is an angled armour similar to T-62, it will protect from "normal" rounds at medium range, but regular APDS will only be likely to be deflected at about 1.2 km, sniper APDS might still penetrate. HEAT will penetrate it regardless of impact point. 
 
 The fuel tank on the front is a sort of a shield, but since it is the only fuel tank, if it gets annihilated by APFSDS or sufficiently strong HEAT-based bomb, the tank simply explodes, so hull shots should only be taken if necessary. There are also ammo racks everywhere in the IT-1 hull, so the faster it spends its ammunition, the less vulnerable it will be.
 
@@ -39,8 +36,8 @@ IT-1 deep hulldown.jpg|Turret not exposed. Pay attention to your stance, as othe
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (Hull)
-- Cast homogeneous armour (Turret)
+* Rolled homogeneous armour (Hull)
+* Cast homogeneous armour (Turret)
 
 {| class="wikitable"
 |-
@@ -54,14 +51,13 @@ IT-1 deep hulldown.jpg|Turret not exposed. Pay attention to your stance, as othe
 |}
 '''Notes:'''
 
-- Suspension wheels are 20 mm thick, tracks are 18 mm thick
+* Suspension wheels are 20 mm thick, tracks are 18 mm thick
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
-In arcade mode, the IT-1 will generally move at 34 km/h and accelerate towards 54 km/h after a while. When climbing, it will lose most of its speed and go at about 10 km/h and it does not like rushing steep hills, very likely sliding off them at the last moment even with a head start. The reverse is very slow with stable -8 km/h.
+In arcade mode, the IT-1 will generally move at 34 km/h and accelerate towards 54 km/h after a while. When climbing, it will lose most of its speed and go at about 10 km/h and it does not like rushing steep hills, very likely sliding off them at the last moment even with a head start. The reverse is very slow with stable -8 km/h. 
 
 All in all it's like a Soviet medium tank, but on a bit slower side.
 
@@ -76,9 +72,7 @@ The IT-1 does not have neutral steering, but it usually turns fast enough to com
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|3M7}}
 
 The missile is a 3M7, unique to the IT-1, it does not turn very well in any plane and has penetration statistics of older first generation missiles. The missile can be launched on a move without restrictions, so the carrier can damage potential enemy cover or fight while moving towards its target or cover. Overpressure effect from HEAT will also obliterate tanks with less than 15 mm of RHA armour if the blast wave hits their weak spots, but usually the missile must hit them directly.
@@ -149,9 +143,7 @@ Repairs, damage and firefighting do not reset reload timers, so as long as the m
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.13.0.180''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -164,12 +156,11 @@ Repairs, damage and firefighting do not reset reload timers, so as long as the m
 |}
 '''Notes''':
 
-- Missiles are modeled individually and disappear once shot.
-- It is not possible to select how many missiles to bring into battle.
+* Missiles are modeled individually and disappear once shot.
+* It is not possible to select how many missiles to bring into battle.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 
 MG is usually used to check for/to remove mild obstacles like bushes or thin fences before firing ATGM as to avoid wasting a critical shot. It also can be used in AB against a hostile IT-1 to damage their missile rail.
@@ -187,7 +178,6 @@ MG is usually used to check for/to remove mild obstacles like bushes or thin fen
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 ;Gameplay summary:
@@ -209,45 +199,43 @@ The IT-1 performs best at medium to long ranges while behind cover. The ATGM wil
 
 Hills or mountains with a view onto a road that an enemy must use to advance are perfect for the IT-1, but sometimes a good sniping spot is vulnerable to a flank attack. If an enemy is pushing towards your cover and a retreat is needed, the ESS can come in handy (do note, that it does not block thermal sights and will not help against BR 9 tanks).
 
-Do note, that all maps have different settings for building destructibility, and, unfortunately, on some maps you have to deal with tanks camping behind an indestructible wall. The same goes for the enemy though, so you can hide behind such cover for as long as you'd like.
+Do note, that all maps have different settings for building destructibility, and, unfortunately, on some maps you have to deal with tanks camping behind an indestructible wall. The same goes for the enemy though, so you can hide behind such cover for as long as you'd like. 
 
 '''Notable enemies'''
 [[File:Unupgraded bmp1 kills it1 camp squad.jpg|thumb|right|IT-1 might appear invincible behind certain cover on some maps, but no cover will save you from vertical ATGM tanks.]]
 
-- Tanks with ability of indirect attack: These are the only tanks that can take out a hulldown IT-1 with relative ease. Generally, tanks of the same tier or below have to get close to attack the IT-1 (vertical ATGM tanks, such a stock [[BMP-1]], [[Striker]], [[Type 60 ATM]]) and often can be merely zoned out, while some tanks of the current or higher tier can outright blow the IT-1 up from wherever they'd like to (proximity ATGM carriers like [[CM25]], [[Dardo]], [[M3A3 Bradley]]). Either way, all of them can attack the IT-1 from complete safety and are very difficult to counter once they got into the firing range. Destroy them immediately and do not drive into their kill-zone.
+* Tanks with ability of indirect attack: These are the only tanks that can take out a hulldown IT-1 with relative ease. Generally, tanks of the same tier or below have to get close to attack the IT-1 (vertical ATGM tanks, such a stock [[BMP-1]], [[Striker]], [[Type 60 ATM]]) and often can be merely zoned out, while some tanks of the current or higher tier can outright blow the IT-1 up from wherever they'd like to (proximity ATGM carriers like [[CM25]], [[Dardo]], [[M3A3 Bradley]]). Either way, all of them can attack the IT-1 from complete safety and are very difficult to counter once they got into the firing range. Destroy them immediately and do not drive into their kill-zone.
 
-- HE tanks: Another type of difficult opponents is HE tanks, as they are very fragile, but can destroy the IT-1 by hitting the missile or the turret with HE and thus causing overpressure damage. While generally the IT-1 needs to only be wary of SPGs, it should also be wary of its own nation in general in AB. For example, [[BMP-3]] can relentlessly bombard IT-1 with HE every 4 seconds at angles which are impossible to block.
+* HE tanks: Another type of difficult opponents is HE tanks, as they are very fragile, but can destroy the IT-1 by hitting the missile or the turret with HE and thus causing overpressure damage. While generally the IT-1 needs to only be wary of SPGs, it should also be wary of its own nation in general in AB. For example, [[BMP-3]] can relentlessly bombard IT-1 with HE every 4 seconds at angles which are impossible to block.
 
-- Other IT-1s: It's not rare to fight your own copy in AB. Since the IT-1 is one of the hardest tanks to bait out of cover, some extreme measures must be taken. First of all, if another IT-1 is busy looking at something else, try to sneak a shot into their turret, they might just explode. If that's impossible, fire at their missile once it's reloaded. This is bound to get their full attention, and now they will focus on you, often becoming somewhat predictable. After this, if they try to retreat, advance on them, as this means they gave up repairing their weapon and are an easy target. While advancing, use MG on the missile rail to further increase their weapon repair time, then obliterate them. If they do not move and instead start looking at you, fire MG at them but DO NOT leave full cover until they fired, as there is no telling how good their crew is and you might just get suddenly obliterated (a lot of people at the BR stay there for a really long time and might actually ace the crew for their IT-1). In either situation do not forget to look around at all the times, as the IT-1 is rarely alone and there are often at least two of them, in such case focus on the undamaged one first.
+* Other IT-1s: It's not rare to fight your own copy in AB. Since the IT-1 is one of the hardest tanks to bait out of cover, some extreme measures must be taken. First of all, if another IT-1 is busy looking at something else, try to sneak a shot into their turret, they might just explode. If that's impossible, fire at their missile once it's reloaded. This is bound to get their full attention, and now they will focus on you, often becoming somewhat predictable. After this, if they try to retreat, advance on them, as this means they gave up repairing their weapon and are an easy target. While advancing, use MG on the missile rail to further increase their weapon repair time, then obliterate them. If they do not move and instead start looking at you, fire MG at them but DO NOT leave full cover until they fired, as there is no telling how good their crew is and you might just get suddenly obliterated (a lot of people at the BR stay there for a really long time and might actually ace the crew for their IT-1). In either situation do not forget to look around at all the times, as the IT-1 is rarely alone and there are often at least two of them, in such case focus on the undamaged one first.
 
-- Heavily-armed wheeled tanks: These are incredibly dangerous, as they can also be ATGM tanks with superior ammo or multiple launchers, but they are almost always vulnerable to ATGM overpressure wave and easy to destroy by hitting them anywhere. Paying attention to the general rush directions and roads can save you from a lot of headache when dealing with them. Make sure to dodge tandem ATGMs, as those can actually destroy you even if you go in full "siege mode" by hitting the missile on top of the turret.
+* Heavily-armed wheeled tanks: These are incredibly dangerous, as they can also be ATGM tanks with superior ammo or multiple launchers, but they are almost always vulnerable to ATGM overpressure wave and easy to destroy by hitting them anywhere. Paying attention to the general rush directions and roads can save you from a lot of headache when dealing with them. Make sure to dodge tandem ATGMs, as those can actually destroy you even if you go in full "siege mode" by hitting the missile on top of the turret.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Anti-tank missile 3M7 is slightly faster than ones found on early light tanks
-- Can fire on the move without restrictions
-- Good armour of a [[T-62]], will often survive attempts to simply use HE or even HESH on it, can brawl with a light tank or SPAA, unless they have APDS belts or know all of the weak spots
-- The turret has even lower profile than usual and is hard to punish for overextension and use of low cover due to its shape and armour value, unlike [[Swingfire]], [[BMP-1]], [[M60A2]] and other alternatives
-- Gun depression allows for shooting from ridges
-- In AB and RB, the gun scope is based on a missile itself, and in some hulldown spots just the missile is exposed, making the IT-1 basically untouchable for normal tanks
-- Layout of the hull makes kinetic hits from the front easier to survive
-- Relatively fast reload on any crew
+* Anti-tank missile 3M7 is slightly faster than ones found on early light tanks
+* Can fire on the move without restrictions
+* Good armour of a [[T-62]], will often survive attempts to simply use HE or even HESH on it, can brawl with a light tank or SPAA, unless they have APDS belts or know all of the weak spots
+* The turret has even lower profile than usual and is hard to punish for overextension and use of low cover due to its shape and armour value, unlike [[Swingfire]], [[BMP-1]], [[M60A2]] and other alternatives
+* Gun depression allows for shooting from ridges
+* In AB and RB, the gun scope is based on a missile itself, and in some hulldown spots just the missile is exposed, making the IT-1 basically untouchable for normal tanks
+* Layout of the hull makes kinetic hits from the front easier to survive 
+* Relatively fast reload on any crew
 
 '''Cons:'''
 
-- No backup weapons, only one type of missiles, low penetration power like early ATGMs, missiles reload slower than conventional tanks and tank can only use one per reload, which makes it overall less forgiving than other ATGM tanks in direct fight
-- Missile on the top of the turret can be damaged by enemy machine guns to prevent it from firing off or hit with HE/tandem ATGM to destroy the tank. Optics to the right of it, while hard to hit, can also be exploited to push explosives inside of the tank if operator does not move around, artillery can destroy the IT-1 as well, so the IT-1 is not entirely invincible even when in cover
-- Movement speed of this tank is less than average - it can't chase or run from many rank VI tanks and may be forced to fight light tanks for its sniping spots
-- Missile has very low manoeuvrability in flight, making it extremely difficult to hit moving targets, especially at longer ranges.
-- Missile is very big and has tendency to hit your own cover when in deep hulldown, or to get shot down by enemy MG
-- Like many Soviet tanks of the rank, the IT-1 has only one fuel tank in the front, and any strong enough chemical shell or APFSDS will detonate it on direct hit, resulting in instant tank destruction
+* No backup weapons, only one type of missiles, low penetration power like early ATGMs, missiles reload slower than conventional tanks and tank can only use one per reload, which makes it overall less forgiving than other ATGM tanks in direct fight
+* Missile on the top of the turret can be damaged by enemy machine guns to prevent it from firing off or hit with HE/tandem ATGM to destroy the tank. Optics to the right of it, while hard to hit, can also be exploited to push explosives inside of the tank if operator does not move around, artillery can destroy the IT-1 as well, so the IT-1 is not entirely invincible even when in cover
+* Movement speed of this tank is less than average - it can't chase or run from many rank VI tanks and may be forced to fight light tanks for its sniping spots
+* Missile has very low manoeuvrability in flight, making it extremely difficult to hit moving targets, especially at longer ranges.
+* Missile is very big and has tendency to hit your own cover when in deep hulldown, or to get shot down by enemy MG
+* Like many Soviet tanks of the rank, the IT-1 has only one fuel tank in the front, and any strong enough chemical shell or APFSDS will detonate it on direct hit, resulting in instant tank destruction
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 ===Development===
@@ -261,39 +249,35 @@ Object 150 finally entered production in 1968 with 220 units made between 1968 t
 Though the missile tanks concept failed, many more attempts were made to incorporate a missile system as a secondary armament onto Soviet tanks, succeeding with the usage of missiles in the 125 mm smoothbore guns on Soviet tanks past the T-64.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_it_1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_it_1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|VFEv4q3G5Us|'''Most unusual vehicles''' discusses the {{PAGENAME}} at 0:33 - ''War Thunder Official Channel''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
 
-- [[T-62 (Family)]]
+* [[T-62 (Family)]]
 
 ;Other vehicles of similar configuration and role
 
-- [[M901]]
-- [[RakJPz 2 (HOT)]]
+* [[M901]]
+* [[RakJPz 2 (HOT)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/3745-development-it-1-the-soviet-missile-tank-en/|[Development] IT-1, the Soviet Missile Tank]]
-- [[wikipedia:IT-1|[Wikipedia] IT-1]]
+* [[wt:en/news/3745-development-it-1-the-soviet-missile-tank-en/|[Development] IT-1, the Soviet Missile Tank]]
+* [[wikipedia:IT-1|[Wikipedia] IT-1]]
 
 === References ===
 <references />

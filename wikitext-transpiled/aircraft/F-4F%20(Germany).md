@@ -9,17 +9,13 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} German jet fighter {{Battle-rating}}. It was introduced in [[Update "Red Skies"]]. A dreaded sight for aircraft and ground vehicles alike, the F-4F Phantom II provides a strong air superiority fighter and supremely potent ground attacker to German pilots.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 Equipped with twin MTU Aero J79-MTU-17A engines (licensed copies of the [[F-4E]]'s engines), each providing 8010 kgf of thrust when spaded, F-4F provides solid performance at any altitude.
 
 While not as fast a climber as the [[F-104G]], it can still climb incredibly well. Its acceleration is above average thanks to its twin engines.
@@ -53,7 +49,7 @@ However, pilots should be aware, that while the newfound agility of this Phantom
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || ✓ || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -119,9 +115,7 @@ However, pilots should be aware, that while the newfound agility of this Phantom
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 In terms of armour, there is no armoured glass in the cockpit of the F-4F, nor any relevant armour protecting any crucial part of the plane. There is an 8.5 mm thick steel plate just below the forward fuel tank of the plane, but due to its size relative to the size of the plane, it might as well not be there at all.
 
 All fuel tanks are self-sealing, but this is pretty much standard at this battle rating. Pilots should note that right behind the cockpit, the middle and back section of the plane is littered with modules - fuel tanks, engines, and control surface controls are all tightly packed together and thus any hit to this part of the plane will cause critical damage to at least one component.
@@ -154,16 +148,14 @@ Countermeasures > AIM-9B FGW.2 > New boosters > AIM-9E > G-suit > Wings repair >
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M61A1 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 1 x 20 mm M61A1 cannon, chin-mounted (640 rpg)
-  ** 1 x 20 mm M61A1 cannon + 90 x countermeasures
+* A choice between two presets:
+** 1 x 20 mm M61A1 cannon, chin-mounted (640 rpg)
+** 1 x 20 mm M61A1 cannon + 90 x countermeasures
 
 The M61A1 is an excellent cannon at its rank, its only disadvantages being the spool-up time and somewhat limited ammo count relative to rate of fire.
 
@@ -175,29 +167,27 @@ With its extremely high rate of fire, trigger discipline is a must.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
 {{main|AGM-65B|AIM-9B FGW.2 Sidewinder|AIM-9E Sidewinder|AIM-9J Sidewinder}}
 {{main|BLU-27/B incendiary|M118 (3,000 lb)|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|GAU-4 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x 20 mm GAU-4 cannons (1,200 rpg = 2,400 total)
-- 2 x AIM-9E Sidewinder missiles
-- 4 x AIM-9B FGW.2 Sidewinder missiles
-- 4 x AIM-9E Sidewinder missiles
-- 4 x AIM-9J Sidewinder missiles
-- 24 x 500 lb LDGP Mk 82 bombs (12,000 lb total)
-- 17 x 750 lb M117 cone 45 bombs (12,750 lb total)
-- 13 x 1,000 lb LDGP Mk 83 bombs (13,000 lb total)
-- 3 x 2,000 lb LDGP Mk 84 bombs (6,000 lb total)
-- 1 x 3,000 lb M118 bomb (3,000 lb total)
-- 285 x FFAR Mighty Mouse rockets
-- 60 x Zuni Mk32 Mod 0 ATAP rockets
-- 2 x AGM-65B missiles
+* Without load
+* 2 x 20 mm GAU-4 cannons (1,200 rpg = 2,400 total)
+* 2 x AIM-9E Sidewinder missiles
+* 4 x AIM-9B FGW.2 Sidewinder missiles
+* 4 x AIM-9E Sidewinder missiles
+* 4 x AIM-9J Sidewinder missiles
+* 24 x 500 lb LDGP Mk 82 bombs (12,000 lb total)
+* 17 x 750 lb M117 cone 45 bombs (12,750 lb total)
+* 13 x 1,000 lb LDGP Mk 83 bombs (13,000 lb total)
+* 3 x 2,000 lb LDGP Mk 84 bombs (6,000 lb total)
+* 1 x 3,000 lb M118 bomb (3,000 lb total)
+* 285 x FFAR Mighty Mouse rockets
+* 60 x Zuni Mk32 Mod 0 ATAP rockets
+* 2 x AGM-65B missiles
 
 ==== Custom loadout options ====
 {| class="wikitable" width="100%" style="text-align:center"
@@ -276,9 +266,7 @@ As F-4F is equipped with a ballistic computer, coupled with its ability to equip
 F-4F is capable of carrying up to 24 x 500 lb bombs and these are dropped individually, allowing the player in theory to achieve a whopping 24 kills per payload, thus completely wiping the enemy team from existence (in practice however, there will be enemy AA units, and F-4F carrying all that ordnance practically becomes a rock with wings). All bombs carried by F-4F are viable, so it is up to the pilot's personal preferences.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 '''Ground battles'''
 
 Most air-to-air combat in ground battles happens inside cannon range; thus it is not recommended to take Sidewinders to ground battles, and focus purely on CAS.
@@ -309,69 +297,61 @@ If pilots need to counter ground based AA, the best tactic is to break line of s
 
 '''Specific enemies worth mentioning:'''
 
-- [[Mirage III (Family)|Mirage IIIs]], [[F-5C|F-5s]] and [[J35D|J-35s]]: While F-4F, thanks to its Agile Eagle upgrade, can get these planes in its crosshair, they are more than capable of out-turning F-4F in prolonged turns. On top of that, Mirage is armed with a dreaded [[Matra R550 Magic 1|Magic]] AAM that is capable of pulling 30 Gs.
+* [[Mirage III (Family)|Mirage IIIs]], [[F-5C|F-5s]] and [[J35D|J-35s]]: While F-4F, thanks to its Agile Eagle upgrade, can get these planes in its crosshair, they are more than capable of out-turning F-4F in prolonged turns. On top of that, Mirage is armed with a dreaded [[Matra R550 Magic 1|Magic]] AAM that is capable of pulling 30 Gs.
 
-- [[MiG-21 (Family)|MiG-21s]]s: Same case as above; Most of these planes are armed with [[R-60]] AAM, capable of pulling 30 Gs.
+* [[MiG-21 (Family)|MiG-21s]]s: Same case as above; Most of these planes are armed with [[R-60]] AAM, capable of pulling 30 Gs.
 
-- [[F-4E Phantom II|F-4E]], [[F-4EJ Phantom II|F-4EJ]], [[Phantom FG.1]] and [[Phantom FGR.2|FGR.2]]: While these planes offer similar flight performance, they are armed with [[AIM-7E Sparrow|SARH]] missiles, and thus have significant advantage while fighting at high altitudes.
+* [[F-4E Phantom II|F-4E]], [[F-4EJ Phantom II|F-4EJ]], [[Phantom FG.1]] and [[Phantom FGR.2|FGR.2]]: While these planes offer similar flight performance, they are armed with [[AIM-7E Sparrow|SARH]] missiles, and thus have significant advantage while fighting at high altitudes.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Good AIM-9J Sidewinder Air-to-Air missiles
-- Powerful internal M61 Vulcan rotary cannon with high velocity, fire rate and damage
-- Equipped with RWR and 90 Countermeasures
-- Variety of large air-to-ground payloads, including the potent AGM-65B Maverick fire and forget missiles
+* Good AIM-9J Sidewinder Air-to-Air missiles 
+* Powerful internal M61 Vulcan rotary cannon with high velocity, fire rate and damage
+* Equipped with RWR and 90 Countermeasures 
+* Variety of large air-to-ground payloads, including the potent AGM-65B Maverick fire and forget missiles
 
 '''Cons:'''
 
-- Heavy, bleeds a lot of speed in turns
-- Lacks SARH missiles that other Phantoms have
-- Pure CAS loadout reduces flight performance
-- Big size presents a giant target
-- Limited ammunition for its internal cannon
+* Heavy, bleeds a lot of speed in turns
+* Lacks SARH missiles that other Phantoms have 
+* Pure CAS loadout reduces flight performance
+* Big size presents a giant target
+* Limited ammunition for its internal cannon
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=f-4f_late Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f-4f_late Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|zuMxIkT1jLQ|'''Germany Suffers - Should You Grind The F-4F Phantom - Vehicle Review''' - ''Sako Sniper'' (Review starts at 0:53)}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer McDonnell}}
 {{Germany jet aircraft}}

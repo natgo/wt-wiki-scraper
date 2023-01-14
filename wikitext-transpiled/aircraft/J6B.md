@@ -5,9 +5,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish fighter {{Battle-rating}}. It was introduced in [[Update 1.95 "Northern Wind"]].
 
 Designed and manufactured in Sweden during the early 1930s, the {{PAGENAME}} biplane fighter was the last biplane fighter to be designed in Sweden and the last variant of its series to be built. It was manufactured by ASJA (AB Svenska Järnvägsverkstädernas Aeroplanavdelning) from 1933 to 1935, but the core-design was originally constructed by Svenska Aero AB (SA), which was purchased by ASJA in 1932.
@@ -23,7 +21,6 @@ The aircraft might not look impressive on paper, but any pilot with basic air co
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!--''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''-->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -51,7 +48,7 @@ The aircraft might not look impressive on paper, but any pilot with basic air co
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || X || X || X || X <!-- ✓ -->
+| X || X || X || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -82,12 +79,11 @@ The aircraft might not look impressive on paper, but any pilot with basic air co
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- No armour plating
-- No armour glazing
-- Critical components located in front of aircraft (fuel, pilot, engine, controls)
+* No armour plating
+* No armour glazing
+* Critical components located in front of aircraft (fuel, pilot, engine, controls)
 
 Like many aircraft just prior to the outbreak of World War II, the {{PAGENAME}} was not outfitted with any armour plating. The {{PAGENAME}} was designed during a time period when armour was not seen as viable, due to its added weight. The added weight of armour lowered climb-rate, speed, manoeuvrability, and range greatly due to the low power of most biplanes. Armour first started to appear during the later stages of the 1930s.
 
@@ -100,15 +96,13 @@ To maintain the centre of balance for this fighter, the pilot, fuel tank and eng
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Ksp m/22 Fh (8 mm)|Ksp m/22 Fv (8 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 1 x 8 mm Ksp m/22 Fh (fixed right) machine gun, nose-mounted (500 rpg)
-- 1 x 8 mm Ksp m/22 Fv (fixed left) machine gun, nose-mounted (500 rpg)
+* 1 x 8 mm Ksp m/22 Fh (fixed right) machine gun, nose-mounted (500 rpg)
+* 1 x 8 mm Ksp m/22 Fv (fixed left) machine gun, nose-mounted (500 rpg)
 
 The Swedish Air Force chose to outfit the {{PAGENAME}} with license-built copies of the FN Browning M1919 air cooled aircraft machine gun. These were designated kulspruta m/22 (originally flygplankulspruta m/22), or ksp m/22 for short, in Sweden and were originally chambered for the Swedish 6.5x55 m/94 cartridge. But as this cartridge was seen as too weak against aircraft by 1930, a more powerful 8x63 mm cartridge was introduced in 1932. This cartridge, which went under the designation 8 mm sk ptr m/32 (8 mm skarp patron m/32 - 8 mm live cartridge m/32), was extremely powerful compared to similar cartridges around the world.
 
@@ -125,15 +119,13 @@ The {{PAGENAME}} has access to 7 belt types. The default belt and ground target 
 
 There are 4 belts which are of use for the average player.
 
-- '''Tracers''': This belt is very effective against other biplanes, especially those that have fabric coverings and non-self-sealing fuel tanks. Tracer bullets, due to their phosphor tracer load, have a good chance of setting unprotected planes on fire. This is a good combination at rank I, as a lot of planes lack self-sealing fuel tanks.
-- '''Air targets/Universal''': These belts contain 1 tracer bullet, one armour-piercing bullet and 2 incendiary bullets. As noted previously the tracer bullets are good at setting biplanes on fire. The incendiary bullets are good at setting full-metal monoplanes on fire.
-- '''Stealth''': These belts lack a tracer bullet and only consist of armour-piercing and incendiary. Due to this they are ideal for attacking unsuspecting targets, as they cannot see the strings of bullets flying out from your machine guns. On the other hand, neither can you. The way to use stealth is to know the projectile paths by hart so you can calculate the trajectory without tracers. A lot of seasoned players uses stealth belts as they find tracers annoying and misleading.
-- '''Armoured targets''': This belt apparently uses tungsten bullets instead of steel. This gives it an impressive penetration of 18 mm at 500 m. This is enough to penetrate some light tanks from the side or from the top. Although, the bullets do minor damage at best. It is possible to engage light pillboxes and light tanks with this belt, unlike the rest.
+* '''Tracers''': This belt is very effective against other biplanes, especially those that have fabric coverings and non-self-sealing fuel tanks. Tracer bullets, due to their phosphor tracer load, have a good chance of setting unprotected planes on fire. This is a good combination at rank I, as a lot of planes lack self-sealing fuel tanks.
+* '''Air targets/Universal''': These belts contain 1 tracer bullet, one armour-piercing bullet and 2 incendiary bullets. As noted previously the tracer bullets are good at setting biplanes on fire. The incendiary bullets are good at setting full-metal monoplanes on fire.
+* '''Stealth''': These belts lack a tracer bullet and only consist of armour-piercing and incendiary. Due to this they are ideal for attacking unsuspecting targets, as they cannot see the strings of bullets flying out from your machine guns. On the other hand, neither can you. The way to use stealth is to know the projectile paths by hart so you can calculate the trajectory without tracers. A lot of seasoned players uses stealth belts as they find tracers annoying and misleading.
+* '''Armoured targets''': This belt apparently uses tungsten bullets instead of steel. This gives it an impressive penetration of 18 mm at 500 m. This is enough to penetrate some light tanks from the side or from the top. Although, the bullets do minor damage at best. It is possible to engage light pillboxes and light tanks with this belt, unlike the rest.
 
 == Usage in battles ==
-
 <!--''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''-->
-
 The J6B is one of Sweden's reserve aircraft, it is a great introduction to the Swedish aviation tree and it is able to compete with other planes. Like most other reserve aircraft, it lacks speed, armour protection and firepower.
 
 The J6B can be used like any other biplane, thanks to its good manoeuvrability. The J6B takes a while to get to the desired speed to be manoeuvrable enough to repel attackers. It might look like an easy prey, but the J6B's Ksps machine guns are powerful and can make even enemy aircraft at higher BRs regret their decision.
@@ -162,27 +154,25 @@ The J6B is effective in ground battles. The 8 mm [[Ksp m/22 (8 mm)|Ksp m/22]] pa
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great handling characteristics
-- Good climb rate
-- Nose mounted armament
-- High rate of fire for main guns
-- Large ammunition amount
-- Large choice of ammunition belts for main guns
-- Self-sealing fuel tanks
+* Great handling characteristics
+* Good climb rate
+* Nose mounted armament
+* High rate of fire for main guns
+* Large ammunition amount
+* Large choice of ammunition belts for main guns
+* Self-sealing fuel tanks
 
 '''Cons:'''
 
-- Below-average speed near the ground, slow level flight
-- Weak armament against full metal aircraft
-- Unprotected
+* Below-average speed near the ground, slow level flight
+* Weak armament against full metal aircraft
+* Unprotected
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The {{PAGENAME}} is a Swedish designed and manufactured biplane fighter from the early 1930s. It was the last biplane fighter to be designed in Sweden and the last version of its aircraft-model to be built. Its designer and manufacturer, AB Svenska Järnvägsverkstädernas Aeroplanavdelning (The Swedish iron-works aeroplane department Ltd)(ASJA for short), acquired the base-model when they bought the company Svenska Aero AB (Swedish Aero Ltd)(SA for short) in 1932. Svenska Aero AB had designed and manufactured 3 previous iterations of the {{PAGENAME}} during a 4-year period prior to their acquisition by ASJA in 1932.
@@ -233,12 +223,11 @@ In the summer of 1931, the Swedish Air Force approved the production of three mo
 The J6B appeared a little later, when the Swedish government ordered seven more aircraft. These in turn also underwent a lot of improvements. The new series was put into service in Sweden in 1935, and all the aircraft were retired by 1941.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=j6b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=j6b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="150">
@@ -251,26 +240,24 @@ File:J6B WTWallpaper 006.jpg|
 </gallery>
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Aircraft of comparable role, configuration and era
 
-- Hawker [[Nimrod Mk I|Nimrod]]
-- Heinkel [[He 51 (Family)|He 51]]
-- Kawasaki [[Ki-10 (Family)|Ki-10]]
-- Fiat [[CR.32 (Family)|CR.32]]
+* Hawker [[Nimrod Mk I|Nimrod]]
+* Heinkel [[He 51 (Family)|He 51]]
+* Kawasaki [[Ki-10 (Family)|Ki-10]]
+* Fiat [[CR.32 (Family)|CR.32]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6486-development-j6b-jaktfalken-ii-falcon-from-the-north-en|[Development] J6B Jaktfalken II - Falcon from the North]]
-- [https://forum.warthunder.com/index.php?/topic/474727-j6b/ Official data sheet - more details about the performance]
+* [[wt:en/news/6486-development-j6b-jaktfalken-ii-falcon-from-the-north-en|[Development] J6B Jaktfalken II - Falcon from the North]]
+* [https://forum.warthunder.com/index.php?/topic/474727-j6b/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Saab}}
 {{Sweden fighters}}

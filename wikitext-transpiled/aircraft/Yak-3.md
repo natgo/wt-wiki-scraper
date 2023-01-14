@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
 One of the finest Soviet fighters of World War II, the Yak-3 is a derivative of the [[Yak-1]] with a revised airframe. The oil cooler formerly located under the nose has been split into one intake per wing root to reduce drag, and the airframe has smaller dimensions overall. While it uses the same VK-105PF engine as the [[Yak-1B]], the Yak-3's lighter weight gives it an excellent power-to-weight ratio and wonderful handling. Weighing in at only 2.7 tons, it is actually lighter than the later models of the A6M Zero. Like previous Yaks, the Yak-3 is fast at low altitudes, can outturn the majority of its opponents, and can accelerate quickly. It is great fun to fly and will serve Soviet pilots well in anti-fighter duties. Those who enjoy the Yak-3 can try the foldered [[Yak-3P]], which has three cannons, and the succeeding [[Yak-9U]], which trades some agility for improved speed and medium altitude performance.
@@ -19,7 +17,6 @@ One of the finest Soviet fighters of World War II, the Yak-3 is a derivative of 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 As mentioned earlier, the Yak-3 retains the typical Yakovlev traits of great speed and climb at low altitude, good manoeuvrability, and poor high altitude performance. The sea level speed is about 550 km/h and is on par with the [[La-5FN]]. Few enemy fighters can match its speed below 2,000 m, even those with significantly higher top speeds. The turning ability is excellent and pretty close to the [[Spitfire Mk Vb]]. The roll rate is good at low to medium speeds. Vertical, horizontal, and manoeuvring energy retention are all good to very good. The high power-to-weight helps when performing spiral climbs or vertical loops. Overall, the Yak-3 likes to generate and retain energy, which means that continuous turnfights and vertical loops are easy for it to sustain and it can escape from engagements by holding onto dive speed if necessary.
@@ -51,7 +48,7 @@ The Yak-3 performs best in terms of speed and climb under 3,000 m and acceptably
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || X || ✓ || X || X <!-- ✓ -->
+| X || X || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -82,12 +79,11 @@ The Yak-3 performs best in terms of speed and climb under 3,000 m and acceptably
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 8.5 mm steel in pilot's seat
-- 64 mm bulletproof glass behind the pilot's head
-- 10 mm steel above the pilot's head
+* 8.5 mm steel in pilot's seat
+* 64 mm bulletproof glass behind the pilot's head
+* 10 mm steel above the pilot's head
 
 Unlike the [[Yak-1B]] or [[Yak-9T]], the Yak-3 does not have bulletproof glass on the windshield. The resulting one-piece windscreen does offer a nice and clear view though. Avoid engaging enemies in head-ons; even if the pilot survives, the in-line engine cannot take much punishment.
 
@@ -100,15 +96,13 @@ The overall durability of the plane is poor, as can be expected for such a light
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|ShVAK (20 mm)|Berezin UB (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 1 x 20 mm ShVAK cannon, nose-mounted (120 rpg)
-- 2 x 12.7 mm Berezin UB machine guns, nose-mounted (150 rpg = 300 total)
+* 1 x 20 mm ShVAK cannon, nose-mounted (120 rpg)
+* 2 x 12.7 mm Berezin UB machine guns, nose-mounted (150 rpg = 300 total)
 
 The Yak-3 retains the standard 120 round prop-mounted ShVAK cannon used by most Yak fighters. It is a rather weak weapon by itself due to the low explosive content of its rounds, and will acquit itself poorly against more heavily armoured opponents like the Fw 190 series. Its main advantages are a high rate of fire and accuracy. The best belts to use are Armoured Targets or Default, as the AP-I rounds deal more consistent damage despite not having HE filler. The FI-T rounds offer some explosive damage are useful against very fragile aircraft like most Japanese fighters. Belts containing HEF rounds should be avoided, as they have less explosive content than the FI-T rounds and will often spark without dealing damage.
 
@@ -119,9 +113,7 @@ The guns are best used at closer distances, where a concentrated burst can set y
 Gun convergence is not really a problem since all of these weapons are clustered tightly in the nose. Set it to a relatively high distance like 600 m or turn it off entirely.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 [[File:Cockpits Yak-3.jpg|thumbnail|right|The Yak-3's instrument panel.]]
 
 '''Air RB'''
@@ -166,29 +158,27 @@ Bring out the Yak-3 if enemy fighters are in the air or will be soon. Climb a bi
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Very manoeuvrable
-- Excellent roll rate
-- High acceleration and good top speed, especially at low altitudes
-- Excellent energy retention, good for energy fighting
-- Dual Berezin UB machine guns with upgraded belts are capable of doing good damage
-- Much faster than previous Yaks
+* Very manoeuvrable
+* Excellent roll rate
+* High acceleration and good top speed, especially at low altitudes
+* Excellent energy retention, good for energy fighting
+* Dual Berezin UB machine guns with upgraded belts are capable of doing good damage
+* Much faster than previous Yaks
 
 '''Cons:'''
 
-- Armament has low burst mass
-- Poor high-altitude performance
-- The engine still suffers from overheating if MEC is not used
-- Low wing rip speed
-- Flammable, and has a hard time putting fires out
-- Suffers from compression at high speed
+* Armament has low burst mass
+* Poor high-altitude performance
+* The engine still suffers from overheating if MEC is not used
+* Low wing rip speed
+* Flammable, and has a hard time putting fires out
+* Suffers from compression at high speed
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The idea to produce a new fighter for the Red Army Air Force went as far back as 1941. It was then that the Yakovlev Design Bureau presented the I-30 prototype, intended as an alternative to the earlier Yak-1 design. However, the German invasion of the USSR, as well as aluminium shortages, meant that the project had to be put on hold. Yakovlev resumed the development in 1943 while working on an upgraded version of the Yak-1 fighter. This time, it was decided that a new aircraft should be produced to completely replace the Yak-1 and Yak-7 models. The new machine was dubbed as the Yak-3 and entered service with the Red Army Air Force in 1944.
@@ -208,37 +198,34 @@ One of the most memorable air battles for the Yak-3 took place on 16th July 1944
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=yak-3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=yak-3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|Qpnprmc21D4|'''Yak-3 - Russian Eagle''' - ''Aether_Tartarus''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Aircraft of comparable role, configuration and era
 
-- [[Yak-9 (Family)]]
+* [[Yak-9 (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/2693--en|[Aircraft Profile] Yak-3]]
-- [https://forum.warthunder.com/index.php?/topic/78309-yakovlev-yak-3-1944/ Official data sheet - more details about the performance]
-- [[wt:en/news/141/current|[News] Wings of Victory: Yak-3]]
-- [[wikipedia:Yakovlev_Yak-3|[Wikipedia] Yakovlev Yak-3]]
-- [http://www.airvectors.net/avyak1.html#m3 <nowiki>[Air Vectors]</nowiki> Yak Piston Fighters - Yak-3]
+* [[wt:en/news/2693--en|[Aircraft Profile] Yak-3]]
+* [https://forum.warthunder.com/index.php?/topic/78309-yakovlev-yak-3-1944/ Official data sheet - more details about the performance]
+* [[wt:en/news/141/current|[News] Wings of Victory: Yak-3]]
+* [[wikipedia:Yakovlev_Yak-3|[Wikipedia] Yakovlev Yak-3]]
+* [http://www.airvectors.net/avyak1.html#m3 <nowiki>[Air Vectors]</nowiki> Yak Piston Fighters - Yak-3]
 
 === References ===
 <references />

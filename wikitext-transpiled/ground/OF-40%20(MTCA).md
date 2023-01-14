@@ -9,17 +9,13 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Italian medium tank {{Battle-rating}}. It was introduced in [[Update 1.89 "Imperial Navy"]] as a [[wt:en/news/6201-shop-of-40-mk-2-mtca-pre-order-en|premium pack]] in the Gaijin store. It was removed from sale after the [[wt:en/news/7674-shop-may-sale-en|2022 May sale]], and was reintroduced as a Golden Eagle {{ge}} premium in [[Update "Danger Zone"]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 The OF-40 (MTCA) has very little in the way of armour - effectively identical to both OF-40 models in the tech tree - with just enough to protect its crew from most frontal attacks from light autocannons - however even then the turret ring and some other small weak spots are reasonably vulnerable. Despite this, the OF-40's steep constructional angles may on occasion bounce even APFSDS rounds, while the (minimalist) spaced armour in the turret may absorb some less-powerful chemical rounds. Regardless, the safest approach is to avoid enemy fire whenever possible.
 
 The OF-40's survivability is comparable to the [[Leopard A1A1 (L/44)]], as most of the vehicle's ammunition is stored in the hull adjacent to the driver, with a small portion of the ammunition being placed in primary stowage below the loader. The unfortunate result is that almost any hull penetration in the front half of the vehicle is liable to destroy ammunition with a high chance of detonation. Additionally, the turret crew are very poorly spaced and a well-placed round can easily knock out the entire crew simultaneously.
@@ -28,9 +24,9 @@ The result of the lack of survivability and armour is that the OF-40 (MTCA) is n
 
 '''Armour type:'''
 
-- Rolled Homogeneous Armour - Hull and Turret
-- High Hardness Rolled Armour - Turret
-- Rubber-Fabric Screens - Sideskirts
+* Rolled Homogeneous Armour - Hull and Turret
+* High Hardness Rolled Armour - Turret
+* Rubber-Fabric Screens - Sideskirts
 
 {| class="wikitable"
 |-
@@ -43,14 +39,13 @@ The result of the lack of survivability and armour is that the OF-40 (MTCA) is n
 |}
 '''Notes:'''
 
-- The turret sides use spaced armour, and are therefore stronger than they appear in the armour viewer.
-- Beneath the angled outer portion of the gun mantlet is a curved 45 mm plate.
-- There are 10 mm rubber-fabric screens protecting the upper suspension.
-- The rear of the turret has 5 mm of structural steel in addition to the base armour.
+* The turret sides use spaced armour, and are therefore stronger than they appear in the armour viewer.
+* Beneath the angled outer portion of the gun mantlet is a curved 45 mm plate.
+* There are 10 mm rubber-fabric screens protecting the upper suspension.
+* The rear of the turret has 5 mm of structural steel in addition to the base armour.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=1,550|rbMinHp=884}}
@@ -64,9 +59,7 @@ The OF-40 (MTCA) has an improved engine over its tech tree predecessors, offerin
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|OTO Melara 105/52 (105 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -147,9 +140,7 @@ The OF-40 (MTCA) has an improved engine over its tech tree predecessors, offerin
 File:Ammoracks OF-40 Mk.2a (1).jpg|Ammoracks 1-9
 File:Ammoracks OF-40 Mk.2a (2).png|Ammoracks 10-12
 </gallery>
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -171,8 +162,7 @@ File:Ammoracks OF-40 Mk.2a (2).png|Ammoracks 10-12
 |}
 '''Notes:'''
 
-\*Racks 11 and 12 are first stage ammo racks, meaning they will deplete when shots are fired but will then replenish from the other racks in the order from 1-9. Rack 11 depletes before rack 12, which is the last rack to deplete.
-
+*Racks 11 and 12 are first stage ammo racks, meaning they will deplete when shots are fired but will then replenish from the other racks in the order from 1-9. Rack 11 depletes before rack 12, which is the last rack to deplete.
 <!--==== [[Optics]] ====
 {| class="wikitable" style="text-align:center"
 ! colspan="3" | {{PAGENAME}} Optics
@@ -192,9 +182,7 @@ File:Ammoracks OF-40 Mk.2a (2).png|Ammoracks 10-12
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|M2HB (12.7 mm)|FN MAG 60-40 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -217,7 +205,6 @@ File:Ammoracks OF-40 Mk.2a (2).png|Ammoracks 10-12
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 With an upgraded 1,000 hp engine, the OF-40 (MTCA) is more manoeuvrable, similarly to other third generation main battle tanks. The OF-40 (MTCA) will get you to a better position than the rest of the tanks if not in an uptier situation.
@@ -231,26 +218,24 @@ Although the OF-40 (MTCA) has night vision devices, it lacks thermal sights for 
 In summary, OF-40 MTCA is a mixture of the OF-40 Mk. 2 and the TAM: it is a great tank in mobility and fire power. However, lacking armour and thermal camera limits its usage on certain maps around open areas.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- One of the most mobile and speedy main battle tanks of its rank; notably more mobile than the Leopard A1A1 and L/44.
-- Great gun handling - vertical and horizontal turret/gun speeds are some of the best
-- Laser rangefinder and excellent optics permit easy sniping and long-range shots
-- Plentiful selection of ammo; APDS, APFSDS, HESH, HEATFS, and smoke shells, handy for marking enemies or blocking their line of sight
-- Spaced turret armour can save you from some autocannon fire, the front and sides are immune to HESH, and AP shot can bounce if angled
-- 12.7 mm (.50 cal) commander's roof gun with 1,080 round ammo count is great for disabling light vehicles and fending off harassing planes and helicopters
+* One of the most mobile and speedy main battle tanks of its rank; notably more mobile than the Leopard A1A1 and L/44.
+* Great gun handling - vertical and horizontal turret/gun speeds are some of the best
+* Laser rangefinder and excellent optics permit easy sniping and long-range shots
+* Plentiful selection of ammo; APDS, APFSDS, HESH, HEATFS, and smoke shells, handy for marking enemies or blocking their line of sight
+* Spaced turret armour can save you from some autocannon fire, the front and sides are immune to HESH, and AP shot can bounce if angled
+* 12.7 mm (.50 cal) commander's roof gun with 1,080 round ammo count is great for disabling light vehicles and fending off harassing planes and helicopters
 
 '''Cons:'''
 
-- Rather large profile; the turret is quite large while peeking over a hilltop or ridgeline
-- Low ready rack capacity; if carrying more than 20 shells, the spare rounds are placed next to the driver in the lightly-armoured hull
-- Not having thermals at its high BR limits its potential in night battles as most of the opposition has access to thermals
+* Rather large profile; the turret is quite large while peeking over a hilltop or ridgeline
+* Low ready rack capacity; if carrying more than 20 shells, the spare rounds are placed next to the driver in the lightly-armoured hull
+* Not having thermals at its high BR limits its potential in night battles as most of the opposition has access to thermals
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The history of the OTO Melara OF-40 began during the late stages of the Cold War. Italy had begun to develop a new MBT for the first time since the Second World War, known as the OTO Melara 'Leone'. This tank was being jointly co-developed by Italy and Germany, based on the Leopard but with some notable differences, such as the turret and armament being made by OTO Melara. The design didn't generate enough interest and ultimately the project wouldn't go further than a single prototype. However, this would kickstart OTO Melara to begin developing tanks and other armoured fighting vehicles once again. One of their earliest being the OF-40, O standing for OTO, F standing for Fiat and 40 standing for the approximate weight of the tank in tons.
@@ -266,33 +251,30 @@ A very rare and obscure variant would be the OF-40 MTCA. The OF-40 (Mk.2) MTCA w
 Other variants include the Palmaria and OTOMATIC, both based on a modified OF-40 hull. There was also the OF-40 Thetis, an OF-40 Mk.2 fitted with thermal imaging devices and extra armour, and lastly there was also the OF-40 Mk.3, an OF-40 which used the Palmaria hull with the Ariete preserie turret. Currently, all OF-40s in service with the UAE have been put into storage. One was converted to an HIFV by a company known as Sabiex. The UAE said that they wanted to donate these tanks to Kosovo but nothing materialized. Other OF-40 tanks and their variants currently reside in the 'Museo Della Melara' in La Speiza, Italy.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=it_of_40_mtca Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=it_of_40_mtca Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
 
-- [[Leopard 1 (Family)]]
+* [[Leopard 1 (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6201-shop-of-40-mk-2-mtca-pre-order-en|[Shop] OF-40 Mk.2 MTCA pre-order]]
-- https://forum.warthunder.com/index.php?/topic/391690-oto-melara-of-40-variants-and-derivatives/
-- https://forum.warthunder.com/index.php?/topic/474469-of-40-thetis-mirabilandia-of-40/
-- https://forum.warthunder.com/index.php?/topic/277682-of-40-or-leopard-a5-for-new-top-tier-position/
+* [[wt:en/news/6201-shop-of-40-mk-2-mtca-pre-order-en|[Shop] OF-40 Mk.2 MTCA pre-order]]
+* https://forum.warthunder.com/index.php?/topic/391690-oto-melara-of-40-variants-and-derivatives/
+* https://forum.warthunder.com/index.php?/topic/474469-of-40-thetis-mirabilandia-of-40/
+* https://forum.warthunder.com/index.php?/topic/277682-of-40-or-leopard-a5-for-new-top-tier-position/
 
 {{TankManufacturer OTO Melara}}
 {{Italy medium tanks}}

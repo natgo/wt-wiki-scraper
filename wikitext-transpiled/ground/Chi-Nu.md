@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=jp_type_3_chi_nu
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' ({{Annotation|三式中戦車 「チヌ」|San-Shiki Chū-Sensha [Chi-Nu]}}) is a rank {{Specs|rank}} Japanese medium tank {{Battle-rating}}. It was introduced in [[Update 1.65 "Way of the Samurai"]] along with the initial Japanese Ground Forces Tree.
 
 The Type 3 Chi-Nu is arguably Japan's first good medium tank with adequate protection, good firepower, and good mobility, all traits well known in the medium tank categories. The previous Japanese mediums suffer from underpowered guns or tiny calibre size, but the Chi-Nu's 75 mm gun is powerful enough to deal with its contemporaries. The playstyle of this tank can be like any medium tank, giving the Chi-Nu the flexibility to be part of an assault force or a flanking role to support the main assault.
@@ -21,13 +19,11 @@ The 75 mm gun on the Chi-Nu gives this tank a major firepower boost in compariso
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (Gun mantlet)
+* Rolled homogeneous armour
+* Cast homogeneous armour (Gun mantlet)
 
 {| class="wikitable"
 |-
@@ -42,11 +38,10 @@ The 75 mm gun on the Chi-Nu gives this tank a major firepower boost in compariso
 |}
 '''Notes:'''
 
-- Suspension wheels are 15 mm thick while tracks are 20 mm thick.
+* Suspension wheels are 15 mm thick while tracks are 20 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=372|rbMinHp=212}}
@@ -58,9 +53,7 @@ The 75 mm gun on the Chi-Nu gives this tank a major firepower boost in compariso
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|Type 3 (75 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -130,9 +123,7 @@ The 75 mm gun on the Chi-Nu gives this tank a major firepower boost in compariso
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 1.101.0.44''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -146,14 +137,12 @@ The 75 mm gun on the Chi-Nu gives this tank a major firepower boost in compariso
 |}
 '''Note''':
 
-- Turret empty: 20&nbsp;(+35)
+* Turret empty: 20&nbsp;(+35)
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|Type 97 (7.7 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -169,9 +158,7 @@ The 75 mm gun on the Chi-Nu gives this tank a major firepower boost in compariso
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 This tank can be played in a similar fashion to the [[Pz.IV F2]]. Using its good mobility and excellent gun, the Chi-Nu can hit enemies at medium/ long range from a position of cover, steadily advancing towards the enemy lines. The frontal armour is stronger than a Pz.IV F2 (same thickness, more slope), but is still weak and will not protect the Chi-Nu from most guns at BR 3.3. The side armour is particularly weak, so be careful of flank attacks.
 
 The 75 mm gun can be more closely compared to the F-34 gun used by the T-34 when using the BR-350B round. It has high post-penetration damage and just under 100 mm maximum penetration. However, no access to APCR or other high penetration rounds means the Chi-Nu is going to struggle fighting vehicles like the KV-1. These should be retreated from or flanked. Sherman tanks and T-34s may also present a problem from the front.
@@ -185,30 +172,27 @@ Tanks like the [[M4]] Sherman and [[M4A1]] Sherman can also be difficult to deal
 Most [[T-34 (Family)|T-34 series]] tanks can be dealt with quite easily, but for the most part it is recommended to shoot the turret instead of the frontal plate. This plate can be tricky to deal with for the Chi-Nu, so to cut the risk of a bounce altogether it's better to just shoot the turret and incapacitate the offensive capabilities of the tank, then move in for another shot.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- 75 mm gun is adequate and quite powerful
-- 75 mm shell slow drop-off, accurate in longer range
-- Good mobility
-- Low profile
-- Narrow chassis allows access through areas inaccessible by wider tanks
+* 75 mm gun is adequate and quite powerful
+* 75 mm shell slow drop-off, accurate in longer range
+* Good mobility
+* Low profile
+* Narrow chassis allows access through areas inaccessible by wider tanks
 
 '''Cons:'''
 
-- Max frontal armour is about 50 mm and not very sloped
-- Turret front is rather flat sloped
-- Machine gun armament is restricted to front
-- Turret traverse is rather slow, even when upgraded
-- Cupola on the turret top is rather prominent and can be shot
-- Removing all ammo from turret leaves little in reserves
+* Max frontal armour is about 50 mm and not very sloped
+* Turret front is rather flat sloped
+* Machine gun armament is restricted to front
+* Turret traverse is rather slow, even when upgraded
+* Cupola on the turret top is rather prominent and can be shot
+* Removing all ammo from turret leaves little in reserves
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 [[File:Chi-Nu production line.jpg|thumb|Chi-Nu production line]]
 By 1943, the tanks of the Imperial Japanese Army like the [[Ha-Go|Type 95 Ha-Go]] and [[Chi-Ha|Type 97 Chi-Ha]] plus its [[Chi-Ha Kai|improved variant]] were deemed to be falling behind in terms of modernizing tank designs of the American and European counterparts. This came to attention when their contact in Germany gave them information on the new Allied tanks like the American [[M4|M4 Sherman]]. A tank able to fight these newer machines was needed, but development takes time and resources that the IJA tank industry do not have a surplus of. Eventually, an expedient was ordered as a dedicated new design was developed.<ref name="ZalogaJapaneseTank" /><ref name="MaiChiNu" /> The expedient was to use a modified Type 90 75 mm field gun, a gun already proven to be effective against Allied tanks during the Philippines campaign, by adapting the gun into the [[Type 3 (75 mm)]] in models I and II<ref name="MaiChiNu" />. The model I went onto the [[Ho-Ni III|Type 1 Ho-Ni III]] and the model II went to the tank design.
@@ -222,12 +206,10 @@ Though the Type 3 Chi-Nu were one of the more powerful tanks churned out of Japa
 {{break}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_3_chi_nu Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_3_chi_nu Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover" heights="150px">
@@ -240,17 +222,15 @@ Chi-Nu WebsiteImage 1.jpg|
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/4335-development-type-3-chi-nu-last-line-of-defense-en|[Devblog] Type 3 Chi-Nu: Last Line of Defense]]
+* [[wt:en/news/4335-development-type-3-chi-nu-last-line-of-defense-en|[Devblog] Type 3 Chi-Nu: Last Line of Defense]]
 
 === References ===
 <references>

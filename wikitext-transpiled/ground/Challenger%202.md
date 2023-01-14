@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=uk_challenger_II
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage*{{PAGENAME}}.png|ArtImage2*{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''', FV4034 or '''CR2''', is a rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced in [[Update 1.87 "Locked On"]].
 
 The Challenger 2 MBT is the epitome of British tank design; a direct result of all the experience gained over the previous British MBTs as the Chieftain and the Challenger 1.
@@ -23,9 +21,7 @@ This vehicle design is dated back to 1986, therefore some technological aspects 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 [[File:Challenger 2 Density Visualisation.png|thumb|CR2 Frontal [[Protection Density Visualisation]]]]
 The Challenger 2 reinforces the strengths of the Challenger 1 Mk.2/Mk.3, with extremely well protected turret cheeks and better UFP protection, while suffering from similar weaknesses - a particularly weak lower front plate and negligible side protection.
 
@@ -42,7 +38,6 @@ During urban combat it is also important to remember, that Challenger 2 hull is 
 Keep yourself closer to walls and avoid narrow streets, if you ever need to be helped/towed.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
-
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
 
@@ -59,14 +54,13 @@ Keep yourself closer to walls and avoid narrow streets, if you ever need to be h
 |}
 {| class="wikitable"
 |-
-! Composite armour\* !! Front !! Sides
+! Composite armour* !! Front !! Sides
 |-
 | Hull || 200 mm NERA + 80 mm RHA + 50 mm RHA || 150 mm NERA, 70 mm screens ''Side skirts''
 |-
 | Turret || 400 mm NERA + 100 mm RHA + 170 mm RHA <br> 200 mm RHA ''Gun mantlet'' || 230 mm NERA + 20 mm RHA + 70 mm RHA
 |-
 |}
-
 <!--{| class="wikitable"
 |-
 ! Reactive Armour !! Front !! Sides
@@ -77,14 +71,13 @@ Keep yourself closer to walls and avoid narrow streets, if you ever need to be h
 
 '''Notes:'''
 
-- 50-200 mm RHA armoured ammo bins inside the crew compartment.
-- 25 mm RHA armour plates next the driver position.
-- Exterior fuel tanks separate the external side armour plate and the composite side armour plate.
-- The floor armour thickness is 16 mm.
+* 50-200 mm RHA armoured ammo bins inside the crew compartment.
+* 25 mm RHA armour plates next the driver position.
+* Exterior fuel tanks separate the external side armour plate and the composite side armour plate.
+* The floor armour thickness is 16 mm.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=1,886|rbMinHp=1,076|weight=63.6|AoAweight=1.1}}
@@ -98,9 +91,7 @@ The {{PAGENAME}} is fitted with a similar twin turbo V12 diesel engine to the Ch
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|L30A1 (120 mm)}}
 
 The Challenger 2's primary armament is the 120 mm L30A1 cannon. Unlike most modern MBT cannons, the L30A1 is rifled as opposed to smoothbore. This is primarily due to the British preference for HESH ammunition availability (High-Explosive Squash Head), the design of which requires a rifled cannon for accurate fire. The rifled design has some positive attributes: it's extremely accurate with both HESH and APFSDS rounds, including at long range; however the downside is a limited selection of ammunition: the CR2 only has the L23A1, L26 and L27A1 APFSDS rounds, the L31A7 HESH round and the L34 Smoke round available to it.
@@ -184,9 +175,7 @@ The characteristics of the CR2 in combination with the L30A1 weight the vehicle 
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x450px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.19.0.76''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -210,15 +199,13 @@ The characteristics of the CR2 in combination with the L30A1 weight the vehicle 
 |}
 '''Notes''':
 
-- Projectile racks 8 and 9, and propellant rack 7, are first-stage ammo racks.
-- Hull front empty: 39 ''(+11)'' shells.
+* Projectile racks 8 and 9, and propellant rack 7, are first-stage ammo racks.
+* Hull front empty: 39 ''(+11)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|3}}
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|L37A2 (7.62 mm)|L94A1 (7.62 mm)}}
 
 The Challenger 2 possesses one pintle-mounted 7.62 mm machine gun and one coaxial 7.62 mm machine gun. While these aren't particularly effective against tanks, they can be used as a aircraft deterrent, and lucky shots may result in critical damage or pilot snipes. Besides anti-aircraft fire, they're useful for clearing light obstacles and the crew of open-top vehicles.
@@ -243,9 +230,7 @@ The Challenger 2 possesses one pintle-mounted 7.62 mm machine gun and one coaxia
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 '''The Challenger 2 excels as a sniper or a support tank''', and should be played as such whenever possible; the farther the better. As such, it's important to try to find reasonable cover, regardless of the situation, with the ideal position being hull-down, preferably with some degree of angling available to maximise the bouncing capability of the frontal turret roof section. The Challenger 2 is the slowest of the top rank MBTs - a fact which is extremely important to keep in mind when using it - and as such should never be expected to rush points or used for quick flanks.
 
 '''Rural Combat'''
@@ -258,67 +243,61 @@ The Challenger 2 is less agreeable in urban situations, where proper cover is mo
 
 '''Notable enemies'''
 
-- [[Leopard 2A5]] - The 2A5 should be engaged with care: it has better overall protection than the Challenger 2, and in many situations can appear near-impossible to destroy at range. Aim for the gun mantlet with at least the intention of disabling the weapon; some rounds may make it past and knock crew out. If the frontal hull is presented, aim for the left side of the hull as usually the driver, gunner and commander are all lined up so they can be knocked out all at the same time, resulting in the Leopard's destruction.
+* [[Leopard 2A5]] - The 2A5 should be engaged with care: it has better overall protection than the Challenger 2, and in many situations can appear near-impossible to destroy at range. Aim for the gun mantlet with at least the intention of disabling the weapon; some rounds may make it past and knock crew out. If the frontal hull is presented, aim for the left side of the hull as usually the driver, gunner and commander are all lined up so they can be knocked out all at the same time, resulting in the Leopard's destruction.
 
-- [[Leclerc]] - The Leclerc is in possession of one of the few rounds capable of penetrating the Challenger 2 UFP reliably. When in combat with the Leclerc, it's important to expose as little of the CR2 as possible - if the Leclerc is able to destroy your weapon, it will often be able to use its high speed to get close enough to finish you off.
+* [[Leclerc]] - The Leclerc is in possession of one of the few rounds capable of penetrating the Challenger 2 UFP reliably. When in combat with the Leclerc, it's important to expose as little of the CR2 as possible - if the Leclerc is able to destroy your weapon, it will often be able to use its high speed to get close enough to finish you off.
 
-- [[Ariete|C1 Ariete]]/[[Ariete PSO]] - The C1 Ariete and Ariete PSO with the CL1343 shell can penetrate nearly anywhere on the Challenger 2, with the exception of the outer turret cheeks (and even then, at close ranges and particular angles, it can punch through those). As such, it's a potent sniper and should be handled with care. Fortunately, the Ariete MBTs have somewhat sub-par protection characteristics, and the Challenger 2 will often prove itself capable of quickly dispatching an Ariete at any range.
+* [[Ariete|C1 Ariete]]/[[Ariete PSO]] - The C1 Ariete and Ariete PSO with the CL1343 shell can penetrate nearly anywhere on the Challenger 2, with the exception of the outer turret cheeks (and even then, at close ranges and particular angles, it can punch through those). As such, it's a potent sniper and should be handled with care. Fortunately, the Ariete MBTs have somewhat sub-par protection characteristics, and the Challenger 2 will often prove itself capable of quickly dispatching an Ariete at any range.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Extremely accurate main cannon with a fast reload, particularly for a 120 mm; also good gunner optics
-- 10° of gun depression is highly useful and also increases the extremely good turret cheek protection
-- 36 km/h reverse speed, a far cry from the early poor reverse speed of other British MBTs
-- Has ESS, smoke shells and smoke grenades, a potential combat support tank
-- Excellent armour protection levels and can get upgraded chemical protection with Dorchester armour pack
-- Ammunition on the turret is inert; less vulnerable to overpenetrating shots by APFSDS, like on [[Ariete]]. (NATO tanks with "blowout panel" as [[IPM1]], get sniped through the turret)
+* Extremely accurate main cannon with a fast reload, particularly for a 120 mm; also good gunner optics
+* 10° of gun depression is highly useful and also increases the extremely good turret cheek protection
+* 36 km/h reverse speed, a far cry from the early poor reverse speed of other British MBTs
+* Has ESS, smoke shells and smoke grenades, a potential combat support tank
+* Excellent armour protection levels and can get upgraded chemical protection with Dorchester armour pack
+* Ammunition on the turret is inert; less vulnerable to overpenetrating shots by APFSDS, like on [[Ariete]]. (NATO tanks with "blowout panel" as [[IPM1]], get sniped through the turret)
 
 '''Cons:'''
 
-- A CR2 with an exposed hull is extremely vulnerable because of the negligible LFP armour
-- Cannon mantlet area has unreliable armour; this is the worst weak spot as is impossible to hide while firing
-- The frontal turret roof is somewhat vulnerable to chemical rounds when the optics or the machine gun is hit
-- Ammunition propellants are strewn inside the vehicle; hull or side penetrations often result in ammo detonation (Avoidable with only 16 shells loaded)
-- Sub-par acceleration and top speed relative to many other MBTs
-- Prior to mobility upgrades being researched, manual neutral gear selection is required for reasonable hull traverse
+* A CR2 with an exposed hull is extremely vulnerable because of the negligible LFP armour
+* Cannon mantlet area has unreliable armour; this is the worst weak spot as is impossible to hide while firing
+* The frontal turret roof is somewhat vulnerable to chemical rounds when the optics or the machine gun is hit
+* Ammunition propellants are strewn inside the vehicle; hull or side penetrations often result in ammo detonation (Avoidable with only 16 shells loaded)
+* Sub-par acceleration and top speed relative to many other MBTs
+* Prior to mobility upgrades being researched, manual neutral gear selection is required for reasonable hull traverse
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 Work on developing a successor to the Challenger 1 began only a short time after the vehicle entered service with the British armed forces. Already by the mid-1980s, the Vickers company had developed a new MBT as part of a private venture. After requirements for a next-generation MBT have been issued, Vickers immediately submitted their design on the new Challenger 2 to the Ministry of Defence. Having briefly considered the adoption of the M1 Abrams, the Ministry decided to proceed with the Vickers design by ordering the construction of a prototype Challenger 2 for testing and evaluation. The Challenger 2 passed the evaluation and met expectations even when put through comparative testing against contemporary MBTs of other nations, such as the American M1 Abrams and German Leopard 2. Satisfied with the test results, the Ministry of Defence adopted the Challenger 2 and placed the first production order in 1993, with the initial batch consisting of 127 tanks in addition to 13 trainer vehicles. The first Challenger 2 tanks were delivered to the tank regiments by 1994. The Challenger 2 participated in several operations during the '90s and into the 2000s, ranging from peacekeeping missions on the Balkans to military interventions in Iraq. A number of Challenger 2 MBTs have also been exported to Oman, with this nation being the only operator of the Challenger 2, besides the UK. Production of Challenger 2 tanks seized in 2002 after all pending production orders were fulfilled, with close to 440 vehicles being produced. Since 2008, Challenger 2 tanks have constantly been undergoing modernization work, with a number of upgrade packages being developed. Thanks to these upgrades, the Challenger 2 MBT is expected to serve with the British Army well into the future.
 
 ''- From [[wt:en/news/6035-development-challenger-2-and-rank-vii-armored-vehicles-en|Devblog]]''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_challenger_II Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_challenger_II Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|7YrtSp7ADe8|'''The Shooting Range #146''' - ''Metal Beasts'' section at 00:32 discusses the Challenger 2.|re-zMIOtSk0|'''Tank Chat #92 {{!}} Challenger 2: Full Length''' - ''The Tank Museum''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- ␙Challenger 2 - <small>([[wt:en/news/6286-esport-war-thunder-youtube-cup-results-en|YouTube Cup 2019]] prize)</small>
+* ␙Challenger 2 - <small>([[wt:en/news/6286-esport-war-thunder-youtube-cup-results-en|YouTube Cup 2019]] prize)</small>
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6035-development-challenger-2-and-rank-vii-armored-vehicles-en|[Devblog] Challenger 2 and rank VII armored vehicles]]
+* [[wt:en/news/6035-development-challenger-2-and-rank-vii-armored-vehicles-en|[Devblog] Challenger 2 and rank VII armored vehicles]]
 
 {{Britain medium tanks}}

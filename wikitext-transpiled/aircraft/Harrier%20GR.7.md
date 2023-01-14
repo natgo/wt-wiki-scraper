@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Battle-rating}}. It was introduced in [[Update "Drone Age"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -45,7 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Batt
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -84,7 +81,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Batt
 ! colspan="3" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
 | colspan="2" | Rolls-Royce Pegasus Mk.105 || 1
-| colspan="3" | 6,057 kg || colspan="3" | \_\_\_ kg/m<sup>2</sup>
+| colspan="3" | 6,057 kg || colspan="3" | ___ kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="5" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
@@ -111,9 +108,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Batt
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 The Harrier GR.7 has no armour plates. Additionally, all critical components such as the engine, fuel tanks and pilot are located along the longitudinal axis of the fuselage. A hit in this location will be incredibly damaging, potentially starting multiple fires.
 
 The fuel tanks are self-sealing, and the Harrier has access to an Engine Fire System (EFS) which can be used in the event of a fire to increase survivability.
@@ -137,37 +132,34 @@ Generally, it is best to try and gain access to additional countermeasures and a
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** Without offensive armament
-  ** 60 x countermeasures
+* A choice between two presets:
+** Without offensive armament
+** 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|Mk.M2 (540 lb)|H.E. M.C. Mk.13 (1,000 lb)|CRV7 M247|SNEB type 23|ADEN 25 (25 mm)}}
 {{main|Mk.13 (546 kg)|GBU-12 Paveway II (277 kg)|GBU-24 Paveway III (2,000 lb)|AGM-65D|AIM-9L Sidewinder}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- 2 x 25 mm ADEN 25 cannons (100 rpg = 200 total)
-- 2 x AIM-9L Sidewinder missiles
-- 4 x AIM-9L Sidewinder missiles
-- 4 x AIM-9L Sidewinder missiles + 640 x countermeasures
-- 108 x SNEB type 23 rockets
-- 114 x CRV7 M247 rockets
-- 2 x 540 lb Mk.M2 bombs (1,080 lb total)
-- 5 x 1,000 lb H.E. M.C. Mk.13 bombs (5,000 lb total)
-- 6 x 277 kg GBU-12 Paveway II bombs (1,662 kg total)
-- 4 x 546 kg Mk.13 bombs (2,184 kg total)
-- 2 x 2,000 lb GBU-24 Paveway III bombs (4,000 lb total)
-- 4 x AGM-65D missiles
+* 2 x 25 mm ADEN 25 cannons (100 rpg = 200 total)
+* 2 x AIM-9L Sidewinder missiles
+* 4 x AIM-9L Sidewinder missiles
+* 4 x AIM-9L Sidewinder missiles + 640 x countermeasures
+* 108 x SNEB type 23 rockets
+* 114 x CRV7 M247 rockets
+* 2 x 540 lb Mk.M2 bombs (1,080 lb total)
+* 5 x 1,000 lb H.E. M.C. Mk.13 bombs (5,000 lb total)
+* 6 x 277 kg GBU-12 Paveway II bombs (1,662 kg total)
+* 4 x 546 kg Mk.13 bombs (2,184 kg total)
+* 2 x 2,000 lb GBU-24 Paveway III bombs (4,000 lb total)
+* 4 x AGM-65D missiles
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -213,13 +205,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |-
 | colspan="12" | Maximum permissible wing load: 1,900 kg<br>Maximum permissible weight imbalance: 1,400 kg
 |-
-| colspan="13" | \* The TIALD targeting pod must be carried when equipping guided bombs <br> <sup>†</sup>AIM-9L Sidewinder missiles can be carried in conjunction with countermeasure pods on the same hardpoint
+| colspan="13" | * The TIALD targeting pod must be carried when equipping guided bombs <br> <sup>†</sup>AIM-9L Sidewinder missiles can be carried in conjunction with countermeasure pods on the same hardpoint
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 '''As a fighter:'''
 
 The Harrier is a subsonic fighter fighting against a mostly supersonic opposition. However, as a weapons platform, it has access to some features that make it able to compete:
@@ -257,38 +247,35 @@ The AGM-65D air-to-ground missile, when working in conjunction with the TIALD ta
 To successfully use this weapon in ground battles, you will first need to stay well away from the battlefield and begin climbing in order to bring yourself above the view of enemy SPAA radar. Once an altitude of 5,000 - 6,000 m is reached, begin heading towards the battlefield while maintaining a shallow climb. Once you have positioned yourself near or over the battlefield, you can use your TIALD targeting pod to search for enemy vehicles and watch for friendly scout markers. After acquiring a lock on an enemy position, point the nose of the aircraft roughly in the direction of the enemy vehicle and then press your "fire air-to-ground missile" key once to activate the missile seeker and once more to fire the missile. As the AGM-65D is a fire-and-forget weapon, you do not need to maintain lock for the duration of the missile's flight and can immediately begin searching for new targets. It is advised to try to target enemy SPAA first as even though they cannot see you on radar (provided you are still far above them), they can still manually look up and try to find you once they notice you eliminating their teammates in the battle log.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- It has a very large count of countermeasures (700 if all four BOL rails are equipped)
-- Even if only two BOL rails are equipped the amount of countermeasures is still very impressive at 380
-- Can carry up to four very effective [[AIM-9L Sidewinder]] missiles
-- Dedicated missile pylons ensure you can always carry at least two AIM-9Ls without sacrificing any ground attack ordnance
-- Has built-in target tracker and FLIR even without targeting pod
-- Has pilot night vision
-- ADEN 25 cannons have very high rate of fire and velocity
-- Access to a very diverse range of ground attack ordnance including 610 lb, 1,200 lb and 2,000 lb laser-guided bombs and [[AGM-65D|AGM-65D Mavericks]]
-- Can carry six laser-guided bombs at the same time
-- TIALD pod (which has far better zoom and resolution than the missile seeker) can be used to lock [[AGM-65D|AGM-65Ds]] onto targets.
-- It is very hard to rip the wings due to excessive speed or G overload, thanks to the very high G overload limit and the wing rip speed being above what the aircraft can typically achieve
-- CR7V M247 rockets are very effective at destroying SPAAs from range due to very high speed and explosive mass being much better than SNEB rockets
+* It has a very large count of countermeasures (700 if all four BOL rails are equipped)
+* Even if only two BOL rails are equipped the amount of countermeasures is still very impressive at 380
+* Can carry up to four very effective [[AIM-9L Sidewinder]] missiles
+* Dedicated missile pylons ensure you can always carry at least two AIM-9Ls without sacrificing any ground attack ordnance
+* Has built-in target tracker and FLIR even without targeting pod
+* Has pilot night vision
+* ADEN 25 cannons have very high rate of fire and velocity
+* Access to a very diverse range of ground attack ordnance including 610 lb, 1,200 lb and 2,000 lb laser-guided bombs and [[AGM-65D|AGM-65D Mavericks]]
+* Can carry six laser-guided bombs at the same time
+* TIALD pod (which has far better zoom and resolution than the missile seeker) can be used to lock [[AGM-65D|AGM-65Ds]] onto targets.
+* It is very hard to rip the wings due to excessive speed or G overload, thanks to the very high G overload limit and the wing rip speed being above what the aircraft can typically achieve
+* CR7V M247 rockets are very effective at destroying SPAAs from range due to very high speed and explosive mass being much better than SNEB rockets
 
 '''Cons:'''
 
-- The exceptional rate of fire and low ammo count of the gun pods gives you very limited trigger time before running out of ammo
-- 25 mm belts have no tracer rounds, making it hard to learn the unique ballistics of the ADEN cannon
-- No radar
-- Subsonic
-- Engine overheats if used at 100% or WEP - about 90-95% throttle is the most you can use for extended periods of time (depending on map temperature)
-- Limited WEP time
-- Lower top speed than first-generation Harriers
+* The exceptional rate of fire and low ammo count of the gun pods gives you very limited trigger time before running out of ammo
+* 25 mm belts have no tracer rounds, making it hard to learn the unique ballistics of the ADEN cannon
+* No radar
+* Subsonic
+* Engine overheats if used at 100% or WEP - about 90-95% throttle is the most you can use for extended periods of time (depending on map temperature)
+* Limited WEP time
+* Lower top speed than first-generation Harriers
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 {{main|Harrier_GR.1#History|l1=History of the Harrier GR.1}}
 
 The Hawker Siddeley Harrier was the first V/STOL fixed-wing jet aircraft to enter military service, and it was very successful not only domestically, but in the foreign market, with immense international interest in the project.
@@ -302,41 +289,38 @@ Originally designated "GR.5", later upgrades led to designations "'''GR.7'''" an
 McDonnell Douglas was later merged into Boeing, and British Aerospace was merged with Marconi Electronic Systems to form BAE Systems, who continued to manufacture the Harrier II until it was retired from service in 2011 due to budget constraints. It saw service in the Gulf War, Operation Deliberate Force, Operation Allied Force, the Iraq War (2003-2011) and the War in Afghanistan (2001-2020).
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=harrier_gr7 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=harrier_gr7 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|viGPHQQScKo|'''The Shooting Range #322''' - ''Metal Beasts'' section at 00:27 discusses the {{PAGENAME}}.|-9BZqM1MqpM|'''Harrier GR.7 : A Basic Review''' - ''Tims Variety''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[Harrier (Family)|Related development]]
 
-- [[Harrier GR.1]]
-- [[Harrier GR.3]]
-- [[AV-8A]]
-- [[AV-8C]]
+* [[Harrier GR.1]]
+* [[Harrier GR.3]]
+* [[AV-8A]]
+* [[AV-8C]]
 
 ;Similar aircraft
 
-- [[A-7D]]
-- [[A-7E]]
+* [[A-7D]]
+* [[A-7E]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/7865-development-harrier-gr-7-next-gen-jump-jet-en|[Devblog] Harrier GR.7: Next Gen Jump Jet]]
+* [[wt:en/news/7865-development-harrier-gr-7-next-gen-jump-jet-en|[Devblog] Harrier GR.7: Next Gen Jump Jet]]
 
 {{AirManufacturer BAe}}
 {{Britain jet aircraft}}

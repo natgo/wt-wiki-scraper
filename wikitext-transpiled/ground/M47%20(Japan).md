@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=jp_m47_patton_II
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese medium tank {{Battle-rating}}. It was introduced in [[Update "Red Skies"]].
 
 An M47 was sent by the US to Japan for trials to evaluate its potentials as the JGSDF was looking for a new medium tank design. The Japanese instead adopted the [[Type 61 (Family)|Type 61]], which took design inspiration from the Patton.
@@ -19,9 +17,7 @@ An M47 was sent by the US to Japan for trials to evaluate its potentials as the 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
 *Cast homogeneous armour (Front hull, turret, cupola)
@@ -40,16 +36,15 @@ An M47 was sent by the US to Japan for trials to evaluate its potentials as the 
 |}
 '''Notes:'''
 
-- Suspension wheels are 20 mm thick and tracks are 30 mm thick.
-- Belly armour is 25.4 mm thick.
-- Storage boxes and mudguards are 5 mm thick.
-- Turret bustle rack is 15 mm thick.
+* Suspension wheels are 20 mm thick and tracks are 30 mm thick.
+* Belly armour is 25.4 mm thick.
+* Storage boxes and mudguards are 5 mm thick.
+* Turret bustle rack is 15 mm thick.
 
 The M47 may not be able to survive direct hits from the 88, 100, and 122 mm calibre weapons often fielded by vehicles at Rank V. It is better to flank enemies to survive.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=1,255|rbMinHp=716}}
@@ -61,9 +56,7 @@ The M47 may not be able to survive direct hits from the 88, 100, and 122 mm cali
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|M36 (90 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -149,9 +142,7 @@ The M47 may not be able to survive direct hits from the 88, 100, and 122 mm cali
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_M47.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 1.101.2.60''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -167,18 +158,16 @@ The M47 may not be able to survive direct hits from the 88, 100, and 122 mm cali
 |}
 '''Notes:'''
 
-- As they are modeled by sets of 2, shells disappear from the rack only after you fire both shells in the set.
-- Shells are modeled by sets of 2 and disappear from the rack after both shells in the set having been shot or loaded.
-- Racks 3 to 5 are first stage ammo racks. They total 11 shells and gets filled first when loading up the tank.
-- These racks are also emptied early: the rack depletion order at full capacity is: 3 - 4 - 5 - 1 - 2.
-- Simply not firing when the gun is loaded will move ammo from racks 1-6 into racks 8 then 7. Firing will interrupt the restocking of the ready racks.
+* As they are modeled by sets of 2, shells disappear from the rack only after you fire both shells in the set.
+* Shells are modeled by sets of 2 and disappear from the rack after both shells in the set having been shot or loaded.
+* Racks 3 to 5 are first stage ammo racks. They total 11 shells and gets filled first when loading up the tank.
+* These racks are also emptied early: the rack depletion order at full capacity is: 3 - 4 - 5 - 1 - 2.
+* Simply not firing when the gun is loaded will move ammo from racks 1-6 into racks 8 then 7. Firing will interrupt the restocking of the ready racks.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|M2HB (12.7 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -195,7 +184,6 @@ The M47 may not be able to survive direct hits from the 88, 100, and 122 mm cali
 The {{PAGENAME}} comes with 2 M2HB .50 cal machine guns (1 coaxial and 1 roof-mounted) that can provide a concentrated stream of heavy machine-gun fire against low-flying aircraft or lightly armoured vehicles.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The M47 is often considered a "glass cannon". With a powerful gun but poor armour, it is recommended to play this vehicle carefully and conservatively. As such, it is often beneficial to use an ambush or flanking-based playstyle. Attacking enemies from soft or hard cover without being seen can maximize this tank's capabilities.
@@ -209,28 +197,25 @@ Once the HEATFS shell is unlocked, the M47 can be played more like a classic med
 The M47 has above-average mobility, and achieving flanking positions should not pose too much difficulty. However, the tank does have a high profile, which can allow it to be spotted more easily. Combined with the vehicle's poor armour, this makes it especially important to stay out of the enemy's sight.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Good mobility, same handling as the [[M46]]
-- Great turret traverse speed once upgraded
-- Decent frontal armour, thicker and more sloped than the [[ST-A3]]
-- The main gun can penetrate up to 320 mm of armour with HEATFS ammunition
-- Gun depression of -10° is usually sufficient to position behind short obstacles and hills
+* Good mobility, same handling as the [[M46]]
+* Great turret traverse speed once upgraded
+* Decent frontal armour, thicker and more sloped than the [[ST-A3]]
+* The main gun can penetrate up to 320 mm of armour with HEATFS ammunition
+* Gun depression of -10° is usually sufficient to position behind short obstacles and hills
 
 '''Cons:'''
 
-- Overall poor armour for the rank, especially in the turret
-- The gun is not very good with stock ammo APBC/APCR
-- HEATFS is unable to be unlocked until the rank is reached and all previous ammunition choices are researched
-- Mobility is limited until engine, filter and transmission modifications are researched
+* Overall poor armour for the rank, especially in the turret
+* The gun is not very good with stock ammo APBC/APCR
+* HEATFS is unable to be unlocked until the rank is reached and all previous ammunition choices are researched
+* Mobility is limited until engine, filter and transmission modifications are researched
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 {{Main|M47 (Family)|Type 61 (Family)}}
 
 [[File:M47 Japanese Inspection.png|thumb|A 'Japanese' M47 under inspection]]
@@ -243,30 +228,25 @@ Remarkably, however, it was purchased by a private collector and the tank was sa
 While it's likely that the other vehicles were also deactivated due to Japanese civilian weapon control laws, the M47 in Tokyo is known to have been modified in ways that prevent it from being able to move or fire. Some of the changes include the breech being cut, the transmission and engine being removed, and multiple 10 centimetre-wide holes being drilled into the floor.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=jp_m47_patton_II Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=jp_m47_patton_II Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
-- [[M47 (Family)]]
+* [[M47 (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://www.reddit.com/r/Warthunder/comments/eeue4y/the_japanese_m47/ Reddit post on M47]
+* [https://www.reddit.com/r/Warthunder/comments/eeue4y/the_japanese_m47/ Reddit post on M47]
 
 {{TankManufacturer Ordnance Department}}
 {{Japan medium tanks}}

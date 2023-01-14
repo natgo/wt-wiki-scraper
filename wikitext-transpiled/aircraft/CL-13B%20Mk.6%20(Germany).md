@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} German jet fighter {{Battle-rating}}. It was introduced in [[Update 1.87 "Locked On"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 The CL-13B Mk 6 is one of the best performing jet fighters from the Sabre family, its power plant is the Avro Canada Orenda 14 engine which is a huge improvement over the previous versions. The level speed at sea level was increased to 1122 km/h which is better than in every MiG-15 or MiG-17.
@@ -55,7 +52,7 @@ With full real controls the plane is very easy to control as well as quick to re
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -121,13 +118,12 @@ With full real controls the plane is very easy to control as well as quick to re
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 6.35 mm steel - in front of cockpit
-- 12.7 mm steel - pilot's seat
-- 20 mm steel - pilot's head rest
-- 38 mm bulletproof glass - armoured windscreen
+* 6.35 mm steel - in front of cockpit
+* 12.7 mm steel - pilot's seat
+* 20 mm steel - pilot's head rest
+* 38 mm bulletproof glass - armoured windscreen
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -138,31 +134,26 @@ It is recommended that the first-researched module be the Compressor, followed b
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M3 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 6 x 12.7 mm M3 Browning machine guns, nose-mounted (300 rpg = 1,800 total)
+* 6 x 12.7 mm M3 Browning machine guns, nose-mounted (300 rpg = 1,800 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AN-M65A1 Fin M129 (1,000 lb)|AIM-9B|HVAR}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 16 x HVAR rockets
-- 2 x 1,000 lb AN-M65A1 Fin M129 bombs (2,000 lb total)
-- 2 x AIM-9B missiles
+* Without load
+* 16 x HVAR rockets
+* 2 x 1,000 lb AN-M65A1 Fin M129 bombs (2,000 lb total)
+* 2 x AIM-9B missiles
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 This aircraft is similar to the [[F-86A-5]] in that it is equipped with leading-edge slats that improve turn rate and energy retention in a turn. However, the Mk.6 is equipped with a significantly more powerful engine. In fact, this improved engine means that unlike all other [[F-86 (Family)|F-86 Sabres]] in the game, the Mk.6 is able to out-perform the [[MiG-17 (Family)|MiG-17]] in a climb, and as such is able to utilise vertical manoeuvres that would be a death sentence for any other Sabre. With a powerful engine, this plane can effectively use spiral-climbing in order to energy-trap MiGs. In fact, the Mk.6 has better speed, acceleration, and turn rate than all other Sabres (except the [[F-86F-40 (Japan)|F-86F-40]], which has a better turn rate).
@@ -180,9 +171,7 @@ Like many jets at this battle rating, the CL-13B is equipped with early air-to-a
 The {{PAGENAME}} deals with a wide range of top-rank enemies due to its battle rating position currently, and more often than not faces enemy that outperforms the {{PAGENAME}} in some shape or form. However, the {{PAGENAME}} can still be a capable aircraft when its strengths are played against the opponent's weaknesses.
 
 === Radars ===
-
 <!--{{main|AN/APG-30}}-->
-
 The CL-13B Mk.6 is equipped with an AN/APG-30 rangefinding radar, located in the nose of the aircraft.
 It will automatically detect other planes within the scanning area and display the range to the closest target. It is linked with a gyro gunsight and can help with aiming at close range.
 
@@ -199,71 +188,67 @@ It will automatically detect other planes within the scanning area and display t
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Relatively low stall speed
-- High roll rate and great turn rate
-- Good energy retention
-- Good muzzle velocity
-- High ammo count
-- Armed with air-to-air missiles
+* Relatively low stall speed
+* High roll rate and great turn rate
+* Good energy retention
+* Good muzzle velocity
+* High ammo count
+* Armed with air-to-air missiles
 
 '''Cons:'''
 
-- Mediocre climb rate compared to competitors
-- Poor armament compared to competitors
-- Wing rips occur easily during high-G manoeuvres
-- Poor engine performance at high altitude
-- Limited fuel-carrying options
-- Available missiles have low G manoeuvring limits
+* Mediocre climb rate compared to competitors
+* Poor armament compared to competitors
+* Wing rips occur easily during high-G manoeuvres
+* Poor engine performance at high altitude
+* Limited fuel-carrying options
+* Available missiles have low G manoeuvring limits
 
 == History ==
 ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=f-86_cl_13b_mk6 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f-86_cl_13b_mk6 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|jfduRaPhMh0|'''The Fragile Missile Runner! CL-13B Mk.6''' - ''Jengar''|3RP6bdwa5H8|'''Why It's The Best - CL-13B Mk.6 Commentary''' - ''DEFYN''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
 
-- Canadair [[F-86 (Family)|Sabre]] (those Sabres manufactured with the designator "CL")
-- North American [[F-86K (France)|F-86D]] Sabre
-- North American [[F-100D|F-100]] Super Sabre
-- North American [[FJ-4B|FJ-4]] Fury
+* Canadair [[F-86 (Family)|Sabre]] (those Sabres manufactured with the designator "CL")
+* North American [[F-86K (France)|F-86D]] Sabre
+* North American [[F-100D|F-100]] Super Sabre
+* North American [[FJ-4B|FJ-4]] Fury
 
 ;Aircraft of comparable role, configuration and era
 
-- Grumman [[F9F-8|F9F]] Cougar
-- Lavochkin [[La-15]]
-- Mikoyan-Gurevich [[MiG-15]]
-- Mikoyan-Gurevich [[MiG-17]]
-- Hawker [[Hunter F.1|Hunter]]
-- Dassault [[Super Mystere B2|Super Mystère]]
-- Saab [[J29D|J29]] Tunnan
+* Grumman [[F9F-8|F9F]] Cougar
+* Lavochkin [[La-15]]
+* Mikoyan-Gurevich [[MiG-15]]
+* Mikoyan-Gurevich [[MiG-17]]
+* Hawker [[Hunter F.1|Hunter]]
+* Dassault [[Super Mystere B2|Super Mystère]]
+* Saab [[J29D|J29]] Tunnan
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/445804-canadair-sabre-f-86-cl-13b-mk6/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/445804-canadair-sabre-f-86-cl-13b-mk6/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Canadair}}
 {{Germany jet aircraft}}

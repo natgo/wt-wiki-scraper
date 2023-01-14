@@ -8,13 +8,11 @@
 }}
 {{Specs-Card
 |code=ussr_su_85m
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet tank destroyer {{Battle-rating}}. It was introduced in during the Closed Beta Test for Ground Forces before Update 1.41. The SU-85M is basically the beefed up version of the regular [[SU-85]] with an increased frontal armour thickness from 45 mm into 75 mm that can save it from shots that would've been lethal for the SU-85. It also has an APCR shell modification for increased lethality against enemy tanks.
 
 When taking the vehicle out the first time, two things will be instantly noticeable: The armour and slow movement of the gun. The former being welcome and the latter being very painful. With the right ammunition between APHE and the APCR, the SU-85M is a very good vehicle in the role of a sniper and ambusher. Weary tanks will pop out of corners, unhappy to see a SU-85M locked and loaded. The SU-85M can also be used as a long range sniper due to the 85 mm's good velocity and damage, which could destroy vehicles in just one shot. Range also comes at an advantage as the 75 mm of front sloped armour at a distance of more than 1,500 m is impervious to most tanks of its BR.
@@ -22,10 +20,8 @@ When taking the vehicle out the first time, two things will be instantly noticea
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
-The SU-85M sees a great improvement on the upper front plate than the preceding SU-85, from 45 mm to 75 mm. Thanks to this the SU-85M can now frontally resist medium-penetrating tanks such as the [[Jagdpanzer 38(t)]], [[M24 (Family)|M24]], and even the long 76 mm [[M4A2 (76) W|M4A2]] or [[M4A3 (76) W|M4A3]], significantly boosting its survivability. However larger cannons can still go through it easily, like the [[Sturer Emil]], the [[M36 GMC|M36]], the [[Tiger II (P)]], etc. Also, the SU-85M has several frontal weak spots that can be penetrated by most tanks, such as the driver optics and hatch, some parts of the gun mantlet, and of course, the commander's cupola which is only 45 mm thick, unsloped.
+The SU-85M sees a great improvement on the upper front plate than the preceding SU-85, from 45 mm to 75 mm. Thanks to this the SU-85M can now frontally resist medium-penetrating tanks such as the [[Jagdpanzer 38(t)]], [[M24 (Family)|M24]], and even the long 76 mm [[M4A2 (76) W|M4A2]] or [[M4A3 (76) W|M4A3]], significantly boosting its survivability. However larger cannons can still go through it easily, like the [[Sturer Emil]], the [[M36 GMC|M36]], the [[Tiger II (P)]], etc. Also, the SU-85M has several frontal weak spots that can be penetrated by most tanks, such as the driver optics and hatch, some parts of the gun mantlet, and of course, the commander's cupola which is only 45 mm thick, unsloped. 
 
 As before, the SU-85M can be angled to the left to increase chance of a bounce and give it a chance against shells of tanks like the [[Tiger H1]] or even ignore many tanks of lower BR at point blank range. Unfortunately, tall tanks like the [[Panther A]] have enough of an edge over the SU-85M to penetrate upper part of the hull regardless and even at extreme range and high ground there still is a possibility of being hit directly into commander cupola which has poor armour. Still, angling sometimes makes them flinch and fail the shot and may make them damage gun breech or take out the commander and/or the loader instead of the gunner and the driver, allowing SU-85M to fire back at them again, retreat or ram them to allow teammates to finish them off. For the same reason it is better to keep distance from intense firefights, as there is no telling when your luck will run out.
 
@@ -33,14 +29,14 @@ The post-penetration survivability is very poor due to the cramped interior, an 
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (Hull, superstructure)
-- Cast homogeneous armour (Gun mantlet, driver's hatch)
+* Rolled homogeneous armour (Hull, superstructure)
+* Cast homogeneous armour (Gun mantlet, driver's hatch)
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 75 mm (52°) ''Front glacis'' <br> 45 mm (60°) ''Lower glacis'' || 45 mm ''Bottom'' <br> 45 mm (41°) ''Engine compartment'' || 45 mm (49°) ''Upper glacis'' <br> 45 mm (49°) ''Lower glacis'' || 20 mm <br> 20 + 10 mm ''Engine vents''
+| Hull || 75 mm (52°) ''Front glacis'' <br> 45 mm (60°) ''Lower glacis'' || 45 mm ''Bottom'' <br> 45 mm (41°) ''Engine compartment'' ||  45 mm (49°) ''Upper glacis'' <br> 45 mm (49°) ''Lower glacis'' || 20 mm <br> 20 + 10 mm ''Engine vents''
 |-
 | Superstructure || 75 mm (52°) ''Front glacis'' <br> 70 mm (52°) ''Driver's hatch'' <br> 75 + 75 mm (spherical) ''Gun mantlet'' || 75 mm ''Gun mantlet'' <br> 45 mm (19°) <br> 45 mm (cylindrical) ''Cupola well'' || 45 mm <br> 20 mm ''Rear hatch'' || 20 mm
 |-
@@ -49,12 +45,11 @@ The post-penetration survivability is very poor due to the cramped interior, an 
 |}
 '''Notes:'''
 
-- Suspension wheels and tracks are 20 mm thick.
-- Mudguards and fuel barrels are not modeled as armour.
+* Suspension wheels and tracks are 20 mm thick.
+* Mudguards and fuel barrels are not modeled as armour.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=710|rbMinHp=442}}
@@ -68,9 +63,7 @@ Being based on a T-34 chassis, the mobility of the SU-85M also feels similar to 
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|D-5S (85 mm)}}
 
 The SU-85M is armed with the 85 mm D-5S cannon, similar to the one used by the famous T-34-85. Just like the T-34's cannon, the D-5S comes with a variety of shells for different scenarios, including APHE, APCR and HE. These shells are all very capable of penetrating common opponents (eg. Tiger H1, Chi-Ri, Pz.IV 70) at an appropriate distance, and the damage of the APHE shells are one of the best.
@@ -138,9 +131,7 @@ However, the SU-85M's firepower is greatly limited by the traverse angles. The i
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 1.101.2.60''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -155,13 +146,11 @@ However, the SU-85M's firepower is greatly limited by the traverse angles. The i
 |}
 '''Notes''':
 
-- Racks disappear after you've fired all shells in the rack.
-- Flanks and front hull empty: 13&nbsp;''(+47)'' shells.
+* Racks disappear after you've fired all shells in the rack.
+* Flanks and front hull empty: 13&nbsp;''(+47)'' shells.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 As a tank destroyer, the SU-85M's job is to hunt down and ambush tanks and destroy them. When aiming at a tank, prioritize the area the enemy gunner sits at as if the first shot does not completely destroy the enemy vehicle, the downed gunner forces the enemy to fallback as the SU-85M goes through the lengthy reload time.
 
 Do not attempt to brawl with this vehicle as it is unsuited for mobile, frontal assaults due to the fixed gun traverse and height differences. Keep calm and wait for the enemy to roll into the gun sights instead so while the enemy panics upon the sight of the tank destroyer, the SU-85M can use this time to aim for a good hit.
@@ -185,33 +174,30 @@ Heavy tanks and medium tanks should be engaged with caution due to their lethali
 [[M10 (Family)|M10]], [[M18 Hellcat (Family)|M18]] and [[M36 Jackson (Family)|M36]] - If you can, load HE before engaging them to obliterate them in one hit anywhere, as they a tendency to survive APHE shots and are way too dangerous to SU-85M to be left alive. If you have APHE loaded, aim for the turret or the middle of the tank.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Modest upper frontal plate protection can sustain shots from short tanks, even at closer ranges if angled
-- 85 mm gun is effective against most vehicles with its adequate penetration and destructive damage
-- Access to BR-365P APCR to penetrate tougher tanks
-- Upgraded APHE offers higher one-shot potential for only 10 mm of flat penetration at point blank, which is mostly irrelevant at the BR
-- Good speed of 40 km/h with great manoeuvrability on most angles and surfaces
-- Low silhouette
+* Modest upper frontal plate protection can sustain shots from short tanks, even at closer ranges if angled
+* 85 mm gun is effective against most vehicles with its adequate penetration and destructive damage
+* Access to BR-365P APCR to penetrate tougher tanks 
+* Upgraded APHE offers higher one-shot potential for only 10 mm of flat penetration at point blank, which is mostly irrelevant at the BR
+* Good speed of 40 km/h with great manoeuvrability on most angles and surfaces
+* Low silhouette
 
 '''Cons:'''
 
-- Vulnerable to tall tanks like the [[Panther A]] and needs high ground and long range or high user skill to beat them on equal elevation, as they often also can deflect its shells at random
-- Driver hatch and area around cupola are weak spots that often can be penetrated by German and Japanese tanks even when angling
-- Penetration on the left side is always fatal, very vulnerable to HEAT and other special shells for this reason
-- -3 degrees gun depression is painful, cannot aim down even on a gentle slope, the SPG will have to unangle and expose itself to attack downwards at close to medium range
-- Cannon turns slowly enough for an enemy to jump out from the opposite direction, aim and do a close range shot (from 250 m) before the SU-85M can return fire accurately
-- Comes without a turret, making it vulnerable in certain situations (but also less visible)
-- Very average reverse speed of -9 km/h
-- Reload can be too long for what the SU-85M must face, so fights should be picked carefully
+* Vulnerable to tall tanks like the [[Panther A]] and needs high ground and long range or high user skill to beat them on equal elevation, as they often also can deflect its shells at random
+* Driver hatch and area around cupola are weak spots that often can be penetrated by German and Japanese tanks even when angling
+* Penetration on the left side is always fatal, very vulnerable to HEAT and other special shells for this reason
+* -3 degrees gun depression is painful, cannot aim down even on a gentle slope, the SPG will have to unangle and expose itself to attack downwards at close to medium range
+* Cannon turns slowly enough for an enemy to jump out from the opposite direction, aim and do a close range shot (from 250 m) before the SU-85M can return fire accurately
+* Comes without a turret, making it vulnerable in certain situations (but also less visible)
+* Very average reverse speed of -9 km/h
+* Reload can be too long for what the SU-85M must face, so fights should be picked carefully
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 The development for this vehicle began in 1943 to supplement the firepower the [[T-34 (1942)|T-34]] and [[KV-1 (ZiS-5)|KV-1]] has. Before then, the T-34 and KV-1 tanks are more than adequate to deal with the German Panzer forces, but by the end of 1942, the appearance of the [[Tiger H1|Tiger I]] revealed that the German armoured forces were becoming more developed and more armoured. This reveal showed the Red Army that needed better guns in order to deal with the rising threat of these new German vehicles.
 
@@ -239,40 +225,36 @@ In spite of all the SPG's advantages, its firepower was insufficient to combat e
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_su_85m Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_su_85m Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|I-lKNF88H8k|'''Sub Request, SU-85M. Oh this is gonna hurt....''' - ''Joseph 2000''|soEbO1dEJUM|'''SU-85M - Surprisingly excellent!''' - ''Oxy''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
 
-- [[SU-122]]
-- [[SU-85]]
-- [[SU-100]]
-- [[SU-122P]]
+* [[SU-122]]
+* [[SU-85]]
+* [[SU-100]]
+* [[SU-122P]]
 
 ;Other vehicles of similar configuration and role
 
-- [[Panzer IV/70(V)]]
+* [[Panzer IV/70(V)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wikipedia:SU-85|[Wikipedia] SU-85]]
-- [https://tanks-encyclopedia.com/ww2/soviet/soviet_SU-85.php <nowiki>[Tanks Encyclopedia]</nowiki> SU-85]
+* [[wikipedia:SU-85|[Wikipedia] SU-85]]
+* [https://tanks-encyclopedia.com/ww2/soviet/soviet_SU-85.php <nowiki>[Tanks Encyclopedia]</nowiki> SU-85]
 
 {{USSR tank destroyers}}

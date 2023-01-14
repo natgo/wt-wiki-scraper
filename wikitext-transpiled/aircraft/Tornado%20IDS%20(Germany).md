@@ -1,19 +1,16 @@
 {{Specs-Card
 |code=tornado_ids_de_mfg
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
-|market=id50204\_%E2%97%84tornado_ids_germany
+|market=id50204_%E2%97%84tornado_ids_germany
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} German strike aircraft {{Battle-rating}}. It was introduced during [[Update "Apex Predators"]] as a reward for the [[wt:en/news/8021-event-winter-quest-en|2022 Winter Quest]] event.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -41,7 +38,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} German strike aircraft {{
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || ✓ || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || X     <!-- ✓ -->
 |-
 |}
 
@@ -83,36 +80,34 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} German strike aircraft {{
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
 |-
 | colspan="2" | Turbo-Union RB199-34R Mk.103 || 2
-| colspan="2" | \_,**_ kg || colspan="2" | _** kg/m<sup>2</sup>
+| colspan="2" | _,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
-! _m fuel || **m fuel || **m fuel
+! _m fuel || __m fuel || __m fuel
 |-
 | 2,200 kg || colspan="2" | Afterburning low-bypass turbofan
-| _,**_ kg || _,\_** kg || \_,**_ kg || _,\_** kg
+| _,___ kg || _,___ kg || _,___ kg || _,___ kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
-! colspan="4" | Thrust to weight ratio @ 0 m (**_%/WEP)
+! colspan="4" | Thrust to weight ratio @ 0 m (___%/WEP)
 |-
-! Condition || 100% || _**%/WEP
-! \_m fuel || **m fuel || **m fuel || MGW
+! Condition || 100% || ___%/WEP
+! _m fuel || __m fuel || __m fuel || MGW
 |-
-| ''Stationary'' || **_ kgf || _** kgf
-| _.\_\_ || _.** || \_.** || \_.**
+| ''Stationary'' || ___ kgf || ___ kgf
+| _.__ || _.__ || _.__ || _.__
 |-
-| ''Optimal'' || \_** kgf<br>(\_ km/h) || **_ kgf<br>(_ km/h)
-| \_.** || _.\_\_ || _.** || \_.**
+| ''Optimal'' || ___ kgf<br>(_ km/h) || ___ kgf<br>(_ km/h)
+| _.__ || _.__ || _.__ || _.__
 |-
 |}
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
 
 === Modifications and economy ===
@@ -131,30 +126,26 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} German strike aircraft {{
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Mauser BK27 (27 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 27 mm Mauser BK27 cannons, -mounted (180 rpg = 360 total)
+* 2 x 27 mm Mauser BK27 cannons, -mounted (180 rpg = 360 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|LDGP Mk 83 (1,000 lb)|AIM-9L Sidewinder|AS.34 Kormoran}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- 2 x 1,500 l drop tanks
-- 56 x large calibre countermeasures
-- 2 x AIM-9L Sidewinder missiles
-- 7 x 1,000 lb LDGP Mk 83 bombs (7,000 lb total)
-- 12 x 1,000 lb LDGP Mk 83 bombs (12,000 lb total)
-- 4 x AS.34 Kormoran missiles
+* 2 x 1,500 l drop tanks
+* 56 x large calibre countermeasures
+* 2 x AIM-9L Sidewinder missiles
+* 7 x 1,000 lb LDGP Mk 83 bombs (7,000 lb total)
+* 12 x 1,000 lb LDGP Mk 83 bombs (12,000 lb total)
+* 4 x AS.34 Kormoran missiles
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -181,39 +172,32 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 This Tornado sits at a lower BR than the other Tornados. In secluded 1-vs-1, energy trapping an opponent is a viable option. However, one needs to be aware of their surroundings so as not to be third-partied while at a lower speed.
 
 It is advisable to bomb enemy bases, since the Tornado is not very good in air combat. Since you will almost always be ahead of your team, it is advisable to throw flares when you are going to bomb a base. Once the bases are bombed there are two options:
 
 # Return to base, resupply and continue bombing
-
 # Try to support allies in air combat with missiles.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 '''Pros:'''
 
-- Good acceleration and excellent top speed
-- Mauser BK27 guns have decent hitting power and ammunition capacity
-- Impressive bombload and access to AS.34 Kormoran anti-ship missles
-- Access to two AIM-9L Sidewinder air-to-air missles stock
+* Good acceleration and excellent top speed
+* Mauser BK27 guns have decent hitting power and ammunition capacity
+* Impressive bombload and access to AS.34 Kormoran anti-ship missles
+* Access to two AIM-9L Sidewinder air-to-air missles stock
 
 '''Cons:'''
 
-- Bad maneuverability, makes air-to-air combat challenging
-- No access to guided bombs
-- AS.34 Kormoran missles are rather unreliable weapon, even against the ships
-- Negative G manoeuvres can rip your wings off
+* Bad maneuverability, makes air-to-air combat challenging
+* No access to guided bombs
+* AS.34 Kormoran missles are rather unreliable weapon, even against the ships
+* Negative G manoeuvres can rip your wings off
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 === Concept ===
 
 In 1967, the countries of Great Britain, Belgium, Canada, Italy, the Netherlands, and West Germany decided to jointly develop a multirole fighter aircraft to replace the F-104 Starfighter. In 1968, the Netherlands, Canada, and Belgium left the project and the remaining nations signed an initial agreement. The definition phase began in 1969, requirements were placed on the new aircraft. The aircraft should be able to perform conventional and nuclear attacks, as well as aerial reconnaissance and naval warfare. To perform these tasks, the aircraft should have high survivability and be able to fly at extreme low altitudes, with high weapon accuracy in all weather conditions.
@@ -239,24 +223,19 @@ Germany received 359 tornadoes from 1980 to 1991.
 The Bundeswehr Navy used the variants IDS, Recce, and ECR.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-
 ''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
@@ -264,6 +243,6 @@ The Bundeswehr Navy used the variants IDS, Recce, and ECR.
 === References ===
 ;Bibliography
 
-- MRCA Tornado PA200. https://marine-flieger.de/mrca-tornado-pa200.
+* MRCA Tornado PA200. https://marine-flieger.de/mrca-tornado-pa200. 
 
 {{Germany jet aircraft}}

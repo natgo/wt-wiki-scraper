@@ -10,9 +10,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} premium Swedish fighter {{Battle-rating}}. It was introduced in [[Update 1.95 "Northern Wind"]]. It was gifted to players during the [[wt:en/news/6536-new-year-in-war-thunder-en|2019 "New year holidays"]] mini-event.
 
 {{PAGENAME}}, or the original Gloster Gladiator Mk II, was developed in an awkward time, in that it was an advancement in biplane technology over what was already in production, however, its time was almost up even before it rolled out the door, as state-of-the-art monoplanes were beginning to take to the skies and outperform even the most advanced biplanes. Though a long future looked grim for the Gladiator, nevertheless it went into production and found a place in the Air Forces not only for the British, but other nations, such as the Swedish.
@@ -28,12 +26,11 @@ This unit, known as F19, who flew into combat on 12 January 1940, (the first Com
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!--''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''-->
 
 The J8A is an average biplane in terms of manoeuvrability, however, it is very stiff to the controls when attempting to roll the aircraft. Though an excellent flyer at lower altitudes and at lower speeds, keeping its speed up will increase its effectiveness when engaging in turn battles with other aircraft. The Bristol Mercury-IX engine allows this aircraft to reach top speeds of over 400 km/h (~250 mph) and can be a contender with other biplanes, however, it will start to struggle against early monoplanes, such as the Heinkel [[He 112 (Family)|He 112]], Messerschmitt [[Flegel's Bf 109 A|Bf 109A]], Polykarpov [[I-16 (Family)|I-16]] and the Brewster [[F2A-1|F2A]] fighters. Though not as fast, nor as armed as these, it does have a turning advantage they do not and can sometimes make a quick turn around or tail-chase a faster fighter long enough to put guns on target and eliminate an enemy.
 
-The J8A has a very low stall speed and with the throttle reduced to around 55%, this fighter can maintain level flight at a speed of about 80 km/h (50 mph) without nosing over. The vertical stabilizer is rather large for an aircraft of this type which lends itself to being an excellent aircraft for performing wing-over and hammerhead manoeuvres, especially when luring newer and unsuspecting enemy pilots into a rope-a-dope manoeuvre allowing for the J8A to immediately change direction and pursue the tailing enemy fighter which may have themselves stalled out and set themselves up to be the perfect target for an inbound J8A.
+The J8A has a very low stall speed and with the throttle reduced to around 55%, this fighter can maintain level flight at a speed of about 80 km/h (50 mph) without nosing over. The vertical stabilizer is rather large for an aircraft of this type which lends itself to being an excellent aircraft for performing wing-over and hammerhead manoeuvres, especially when luring newer and unsuspecting enemy pilots into a rope-a-dope manoeuvre allowing for the J8A to immediately change direction and pursue the tailing enemy fighter which may have themselves stalled out and set themselves up to be the perfect target for an inbound J8A.  
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -60,7 +57,7 @@ The J8A has a very low stall speed and with the throttle reduced to around 55%, 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || ✓ || ✓ || X || X <!-- ✓ -->
+| X || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -105,7 +102,6 @@ The J8A has a very low stall speed and with the throttle reduced to around 55%, 
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
 Like many aircraft just prior to the break out of World War II, the J8A was not outfitted with any armour plating. The J8A relied on its engine to get the aircraft where it needed to go and helped the aircraft get into a position where the guns could shoot down an enemy. Any attempts to install armour plating would have only slowed down the already relatively slow biplane, which would not have been worth the trade-off.
@@ -120,15 +116,13 @@ To maintain the centre of balance for this fighter, the pilot, fuel tank and eng
 
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Ksp m/22 (8 mm)}}
 
 '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 8 mm Ksp m/22 machine guns, side-mounted (600 rpg = 1,200 total)
-- 2 x 8 mm Ksp m/22 machine guns, wing-mounted (400 rpg = 800 total)
+* 2 x 8 mm Ksp m/22 machine guns, side-mounted (600 rpg = 1,200 total)
+* 2 x 8 mm Ksp m/22 machine guns, wing-mounted (400 rpg = 800 total)
 
 The Swedish Air Forces decided to not outfit their J8A fighters with the standard .303 machine guns the British typically used, instead, they opted to install four 8 mm Ksp m/22 machine guns, two mounted on each side of the pilot within arm's reach and the other two were mounted one under each side of the lower wing. It is important for pilots of this aircraft to determine at what distance they typically engage enemy aircraft at as convergence of the machine guns is a necessity to manage to effectively put as many bullets as possible into the enemy fighter. Typically in biplanes, a closer convergence setting of 100 to 250 m is best for close-in fighting, typically as one gets farther out from there, bullets lose some of their punch.
 
@@ -139,7 +133,6 @@ When possible, change out the default ammunition belts for either Air Targets be
 This aircraft's Armoured Targets bullets are potent enough to penetrate tanks at this battle-rating, since they can penetrate around 20 mm of armour at 500 m. This, however, is not advised, since the projectiles fired are bullets rather than shells.
 
 == Usage in battles ==
-
 <!--''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''-->
 
 On early maps which tend to favour biplanes and some early monoplanes, the J8A pilot has the option to decide which type of target they will go after and arm up the ammunition to do so. The J8A is a multirole aircraft which can pursue either air-to-air combat, ground attack or both. The J8A is a very effective turn fighter and can hold its own against many early biplanes, but due to its speed, it has the option to turn fight or attempt early Boom & Zoom runs. If flying at an altitude above the enemy aircraft, the J8A can selectively choose targets, swoop down on them and either zoom back up to altitude or zoom away out of range of slower aircraft before turning around.
@@ -180,31 +173,29 @@ Before engaging a fight, it is better to have an altitude advantage first. When 
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Can go up to 418 km/h
-- Its four 8 mm machine guns can quickly shred other low-rank planes
-- 2,000 rounds of ammunition total, can fire continuously about 750 rounds before guns jam
-- Very high max altitude for its rank
-- Fixed-pitch propeller reduces the need for manual engine control tweaking
-- Fantastic rudder control for stall manoeuvres
-- Three ammunition belt (Universal, Stealth, and Air targets) have belt composition with 2 incendiary rounds out of 4 rounds
-- Very low stall speed
+* Can go up to 418 km/h
+* Its four 8 mm machine guns can quickly shred other low-rank planes
+* 2,000 rounds of ammunition total, can fire continuously about 750 rounds before guns jam
+* Very high max altitude for its rank
+* Fixed-pitch propeller reduces the need for manual engine control tweaking
+* Fantastic rudder control for stall manoeuvres
+* Three ammunition belt (Universal, Stealth, and Air targets) have belt composition with 2 incendiary rounds out of 4 rounds
+* Very low stall speed
 
 '''Cons:'''
 
-- Climb rate is slower than most other planes that rival it
-- Poor roll rate
-- Higher than average required takeoff length for biplanes
-- No armour protection
-- During simulator battles, much of the front view is obscured by the upper wing and canopy framing
-- No option for bombs or rockets, strict aerial or ground attack with 8 mm machine guns only
+* Climb rate is slower than most other planes that rival it
+* Poor roll rate
+* Higher than average required takeoff length for biplanes
+* No armour protection
+* During simulator battles, much of the front view is obscured by the upper wing and canopy framing
+* No option for bombs or rockets, strict aerial or ground attack with 8 mm machine guns only
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 === J8 Gladiator ===
@@ -227,7 +218,7 @@ In 1940, F8 Barkarby was re-equipped with the J9 (Seversky EP-1), with the J8s t
 === Ian Iacobi ===
 '''Background'''
 
-Ian Iacobi was born on the 7th of May 1916. Iacobi was born and raised in Stockholm, and thus initially enlisted as a fighter pilot at F8 Barkarby, stationed just outside of town. The division operated Gloster Gladiators, and as the Finnish winter war began, Iacobi enlisted for the Swedish Volunteer Corps to aid the Finnish against the Soviet invasion.
+Ian Iacobi was born on the 7th of May 1916. Iacobi was born and raised in Stockholm, and thus initially enlisted as a fighter pilot at F8 Barkarby, stationed just outside of town. The division operated Gloster Gladiators, and as the Finnish winter war began, Iacobi enlisted for the Swedish Volunteer Corps to aid the Finnish against the Soviet invasion. 
 [[File:Ian Iacobi.jpg|alt=grayscale image of Ian Iacobi wearing his uniform, captured in 1940.|thumb|Ian Iacobi pictured in 1940]]
 '''Winter War Service'''
 
@@ -238,41 +229,38 @@ Iacobi was stationed at F19 fighter wing, an air division made up of volunteers,
 After the winter war, Iacobi continued his service in the air force, and in April 1941, Iacobi was promoted as a lieutenant at F10 Ängelholm, the southernmost airbase in Sweden. Iacobi would continue to climb ranks during the years and between 1962 and 1966, Ian Iacobi was the wing commander of F10. Ian Iacobi would pass away in 2008 aged 92. Although Iacobi never shot down more than a single plane, his importance during the Winter War, as well as his military service during the Swedish neutrality, makes him a remarkable aviator.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=gladiator_j8a_iacobi Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=gladiator_j8a_iacobi Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''-->
 
 ;Other variants in-game
 
-- [[Gladiator (Family)]]
+* [[Gladiator (Family)]]
 
 ;Aircraft of comparable role, configuration and era
 
-- Grumman [[F3F-2|F3F]]
-- Polikarpov [[I-15 (Family)|I-15]]
-- Polikarpov [[I-153 M-62|I-153]]
-- Fiat [[CR.32]]
-- Fiat [[CR.42]]
+* Grumman [[F3F-2|F3F]]
+* Polikarpov [[I-15 (Family)|I-15]]
+* Polikarpov [[I-153 M-62|I-153]]
+* Fiat [[CR.32]]
+* Fiat [[CR.42]]
 
 == External links ==
-
 <!--''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.''-->
 
-- [https://forum.warthunder.ru/index.php?/topic/197035-gloster-gladiator-mk-ii-iis-iif-taka/ Official data sheet - more details about the performance (Russian Forum)]
-- [[Wikipedia:Gloster_Gladiator|[Wikipedia] Gloster Gladiator]]
-- [http://surfcity.kund.dalnet.se/gladiator_sweden.htm <nowiki>[Håkans aviation page]</nowiki> J8 Gloster Gladiator in the Swedish Air Force]
-- [http://users.kymp.net/mode0522/planes/gladiator.html <nowiki>[Jari Juvonen's page]</nowiki> Gloster Gladiator Mk II ( J8A )]
+* [https://forum.warthunder.ru/index.php?/topic/197035-gloster-gladiator-mk-ii-iis-iif-taka/ Official data sheet - more details about the performance (Russian Forum)]
+* [[Wikipedia:Gloster_Gladiator|[Wikipedia] Gloster Gladiator]]
+* [http://surfcity.kund.dalnet.se/gladiator_sweden.htm <nowiki>[Håkans aviation page]</nowiki> J8 Gloster Gladiator in the Swedish Air Force]
+* [http://users.kymp.net/mode0522/planes/gladiator.html <nowiki>[Jari Juvonen's page]</nowiki> Gloster Gladiator Mk II ( J8A )]
 
 === References ===
 <references>

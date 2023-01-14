@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} American strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]].
 
 The {{PAGENAME}} is an excellent aircraft for pilots who like to perform multiple roles without having to switch up aircraft. Possessing options to carry up to 5,000 lbs in bombs, 133 unguided rockets or five 20 mm autocannons with a total of 2,350 rounds of ammunition in what is effectively a "hot rod" of the jet world allows pilots to maximize their playstyle.
@@ -25,7 +23,6 @@ This aircraft's nickname is "Scooter" for a reason, though not the fastest aircr
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 The A-4B is a carrier-based light attack aircraft. Its powerplant is the Wright J65-W-16A engine that can produce up to 3,200 kgf of thrust giving it good thrust to weight ratio. At sea level it can reach up to 1063 km/h, that puts it on par with the planes like a MiG-15 and M.D.452, while other planes like a G.91 or Swift F.1 are faster by up to 20 km/h. Its structural speed is over 100 km/h higher, however it does not remain controllable near that speed anymore.
@@ -64,7 +61,7 @@ The plane will need up 8% of positive pitch trimming to keep it in level flight 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || ✓ || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || X     <!-- ✓ -->
 |-
 |}
 
@@ -130,17 +127,16 @@ The plane will need up 8% of positive pitch trimming to keep it in level flight 
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
 The {{PAGENAME}}, designed to be a light-weight attack aircraft was half the weight of the Navy's design spec requirements. This initial weight savings meant that the plane did not have to skimp on pilot protection. Since the primary role of the aircraft is as an attacker, the pilot protection from the front and the underside is critical. From the front, the windshield portion of the canopy contains 50 mm bulletproof glass. Protective armour from the ground or naval based targets comes in the form of a 2.54 mm steel "tub" which the pilot's seat is situated in. The protective shield surrounds the pilot on all four sides (front, back, left and right) and makes up for most of the floor panelling, leaving room for the controls to go through. While the pilot is not invulnerable, the armour will provide a buffer for lighter calibre fire or shrapnel effects from missiles. The pilot does remain vulnerable to fighter aircraft approaching from above the cockpit.
 
 There are three fuel tanks in the aircraft of which the two in the wings are non-self-sealing and pose a fire hazard if they catch on fire, however, the fuel tank situation directly behind the pilot is self-sealing.
 
-- 50 mm bulletproof glass
-- 2.54 mm Steel-plated "tub"
-- Self-sealing fuel tank behind the pilot
-- Non-self-sealing fuel tanks in the wings
+* 50 mm bulletproof glass
+* 2.54 mm Steel-plated "tub"
+* Self-sealing fuel tank behind the pilot
+* Non-self-sealing fuel tanks in the wings
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -149,38 +145,34 @@ There are three fuel tanks in the aircraft of which the two in the wings are non
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Browning-Colt Mk12 Mod 0 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 20 mm Browning-Colt Mk12 Mod 0 cannons, wing-mounted (100 rpg = 200 total)
+* 2 x 20 mm Browning-Colt Mk12 Mod 0 cannons, wing-mounted (100 rpg = 200 total)
 
 [[File:A-4B an trn 26 007.png|400px|thumb|right|An '''{{PAGENAME}}''' set up for air-to-air combat with its suspended centerline gunpod and AIM-9B Sidewinders.]]
 [[File:A-4B an trn 26 003.png|400px|thumb|right|The 133 FFAR Mighty Mouse rockets effectively turns into a 70 mm autocannon which will not jam or overheat when fired as a salvo.]]
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)|MK 77 mod 4 incendiary}}
 {{main|AGM-12B Bullpup|AIM-9B Sidewinder|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|Mk 11 mod 5 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x AIM-9B Sidewinder missiles
-- 133 x FFAR Mighty Mouse rockets
-- 28 x Zuni Mk32 Mod 0 ATAP rockets
-- 3 x AGM-12B Bullpup missiles
-- 18 x 250 lb LDGP Mk 81 bombs (4,500 lb total)
-- 9 x 500 lb LDGP Mk 82 bombs (4,500 lb total)
-- 5 x 1,000 lb LDGP Mk 83 bombs (5,000 lb total)
-- 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
-- 7 x MK 77 mod 4 incendiary bombs
-- 3 x 20 mm Mk 11 mod 5 cannons (750 rpg = 2,250 total)
+* Without load
+* 2 x AIM-9B Sidewinder missiles
+* 133 x FFAR Mighty Mouse rockets
+* 28 x Zuni Mk32 Mod 0 ATAP rockets
+* 3 x AGM-12B Bullpup missiles
+* 18 x 250 lb LDGP Mk 81 bombs (4,500 lb total)
+* 9 x 500 lb LDGP Mk 82 bombs (4,500 lb total)
+* 5 x 1,000 lb LDGP Mk 83 bombs (5,000 lb total)
+* 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
+* 7 x MK 77 mod 4 incendiary bombs
+* 3 x 20 mm Mk 11 mod 5 cannons (750 rpg = 2,250 total)
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -223,7 +215,6 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The {{PAGENAME}} while designated by the U.S. Navy as an attacker can work as a multi-role aircraft. Though the variety of armament leans heavily to the attacker side, this aircraft also has a fighter side which can feel more like a hotrod compared to some of the other fighters out there such as the [[F-4C Phantom II|F-4]] coming in at 14-tonnes more massive.
@@ -242,30 +233,27 @@ Typically the {{PAGENAME}} was not used as a fighter; however, it carried armame
 Due to the diversity of weapons options afforded to the {{PAGENAME}} and their various configurations, pilots can customize their payloads to meet both their playstyle and missions. For those who want to unload the maximum damage against ground targets can choose solely to load up on bombs or rockets, while those opting for air-to-air can choose missiles and guns. Some pilots may want to take a smaller ground-attack load while affording some air-to-air protection with missiles. There is no right or wrong selection; it all depends on the fighting style of the pilot.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Small aircraft profile
-- Wide variety armament options for air-to-ground, air-to-air or a mix of both
-- Pilot protection with cockpit armour and bullet-proof windscreen
-- Very manoeuvrable with minimal suspended ordnance (or after ordnance has been expended)
-- 20 mm autocannons mounted in the wing roots, convergence adjustment may come into play for extreme distance shots
-- Can research Bullpup AGMs as a rank I modification.
+* Small aircraft profile
+* Wide variety armament options for air-to-ground, air-to-air or a mix of both
+* Pilot protection with cockpit armour and bullet-proof windscreen
+* Very manoeuvrable with minimal suspended ordnance (or after ordnance has been expended)
+* 20 mm autocannons mounted in the wing roots, convergence adjustment may come into play for extreme distance shots
+* Can research Bullpup AGMs as a rank I modification.
 
 '''Cons:'''
 
-- Air-to-ground ordnance mounted under the wings negatively affect roll rate
-- Fully loaded with ordnance makes it difficult to evade if necessary
-- Average speed, can reach Mach 1 in an extended dive
-- High stall speed
-- Limited ammo for wing-root mounted 20mm autocannons
+* Air-to-ground ordnance mounted under the wings negatively affect roll rate
+* Fully loaded with ordnance makes it difficult to evade if necessary
+* Average speed, can reach Mach 1 in an extended dive
+* High stall speed
+* Limited ammo for wing-root mounted 20mm autocannons
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 [[File:A-4B an trn 26 002.png|400px|thumb|right|]]
 At a time when military aircraft were becoming more substantial in size to hold larger engines, more weapons, essential fuel and new technology, Douglas Aircraft's concept of the A-4 Skyhawk seemed counter-intuitive. The A-1 Skyraider, while a potent aircraft was starting to age out of the service as faster jets began to supplant the propeller-driven attacker. In the early 1950s, the U.S. Navy began its search for the next generation attacker and put out a requirement for an attacker with a maximum cost of $1 million and a maximum empty weight of 20,000 lbs (9,071 kg) and could carry enough ammunition to at least compete with the older but beefy A-1.
 
@@ -289,12 +277,11 @@ Already by the time the first production units were being completed, Douglas fin
 In total, close to 3,000 A-4 Skyhawks were produced, participating in numerous conflicts, such as the Lebanese Crisis of 1958, the Vietnam War during the 1960s as well as in the Falklands War in 1982 under Argentine colors. The Skyhawks served for nearly five decades before being retired from U.S. service in the late 1990s and early 2000s, although the A-4 is still in limited use, being used as a mock aircraft, mimicking the MiG-17, for example.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=a_4b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=a_4b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="150">
@@ -314,23 +301,21 @@ File:A-4B an trn 26 005.png
 {{Youtube-gallery|lIgoj8bT0H4|'''The Shooting Range #196''' - ''Metal Beasts'' section at 00:33 discusses the A-4B.|2-a9gkeZNc0|'''Maximum Rush /// A-4B Skyhawk''' - ''DEFYN''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[A2D-1]]
-- [[FJ-4B]]
+* [[A2D-1]]
+* [[FJ-4B]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6597-development-douglas-a-4b-skyhawk-a-story-of-simplicity-en|[Devblog] Douglas A-4B Skyhawk: A Story of Simplicity]]
-- [https://forum.warthunder.com/index.php?/topic/479187-a-4b-a4d-2-skyhawk/ Official data sheet - more details about the performance]
-- [[wikipedia:Douglas_A-4_Skyhawk|[Wikipedia] Douglas A-4 Skyhawk]]
+* [[wt:en/news/6597-development-douglas-a-4b-skyhawk-a-story-of-simplicity-en|[Devblog] Douglas A-4B Skyhawk: A Story of Simplicity]]
+* [https://forum.warthunder.com/index.php?/topic/479187-a-4b-a4d-2-skyhawk/ Official data sheet - more details about the performance]
+* [[wikipedia:Douglas_A-4_Skyhawk|[Wikipedia] Douglas A-4 Skyhawk]]
 
 {{AirManufacturer Douglas}}
 {{USA jet aircraft}}

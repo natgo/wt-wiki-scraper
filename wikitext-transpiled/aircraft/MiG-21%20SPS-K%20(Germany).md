@@ -5,20 +5,17 @@
 }}
 {{Specs-Card
 |code=mig-21_sps_k
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage\_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage_{{PAGENAME}}.jpg}}
 |store=10592
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' (NATO Code: Fishbed-F) is a premium gift rank {{Specs|rank}} German jet fighter {{Battle-rating}}. It was introduced as a premium pack in [[Update "Ground Breaking"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -46,7 +43,7 @@ The '''{{Specs|name}}''' (NATO Code: Fishbed-F) is a premium gift rank {{Specs|r
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || ✓ || X || ✓ <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -112,9 +109,7 @@ The '''{{Specs|name}}''' (NATO Code: Fishbed-F) is a premium gift rank {{Specs|r
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 The aircraft gets 60 mm bulletproof glass in front of the pilot and 10 mm of steel behind the pilot. At top-tier, this will not save you from much damage. The plane gets self-sealing fuel tanks in the wings and over the engine.
 
 === Modifications and economy ===
@@ -133,24 +128,22 @@ The aircraft gets 60 mm bulletproof glass in front of the pilot and 10 mm of ste
 |}
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|OFAB-250sv (250 kg)|FAB-500M-54 (500 kg)|S-5K|S-24|GSh-23L (23 mm)}}
 {{main|R-3R|R-3S|R-13M1|R-60}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- 1 x 23 mm GSh-23L cannon (250 rpg)
-- 4 x R-3S missiles
-- 4 x R-3R missiles
-- 2 x R-3R missiles + 2 x R-3S missiles
-- 64 x countermeasures + 2 x R-13M1 missiles
-- 64 x countermeasures + 2 x R-60 missiles
-- 64 x S-5K rockets
-- 2 x S-24 rockets
-- 2 x 250 kg OFAB-250sv bombs (500 kg total)
-- 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
+* 1 x 23 mm GSh-23L cannon (250 rpg)
+* 4 x R-3S missiles
+* 4 x R-3R missiles
+* 2 x R-3R missiles + 2 x R-3S missiles
+* 64 x countermeasures + 2 x R-13M1 missiles
+* 64 x countermeasures + 2 x R-60 missiles
+* 64 x S-5K rockets
+* 2 x S-24 rockets
+* 2 x 250 kg OFAB-250sv bombs (500 kg total)
+* 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -188,74 +181,62 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 ! Countermeasures
 | || 64 ||
 |-
-| colspan="5" | \* Single R-3R missiles can only be equipped in conjunction with a single R-3S missile on the same hardpoint
+| colspan="5" | * Single R-3R missiles can only be equipped in conjunction with a single R-3S missile on the same hardpoint
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 '''Pros:'''
 
-- Has access to R-3R, R-3S, R-13M1, and R-60 anti-air missiles
-- Decent radar to slave R-60s
-- In a downtier, it can dominate hard with its gun and flight characteristics
-- Fast plane
-- Decent manoeuvrability at high speed
-- Ballistic computer for rockets
+* Has access to R-3R, R-3S, R-13M1, and R-60 anti-air missiles
+* Decent radar to slave R-60s
+* In a downtier, it can dominate hard with its gun and flight characteristics
+* Fast plane
+* Decent manoeuvrability at high speed
+* Ballistic computer for rockets
 
 '''Cons:'''
 
-- Bad energy retention
-- Poor acceleration
-- Has to give up the gun for flare/chaff pod
-- Suffers in uptiers
-- RWR is only working in the rear, not all around
+* Bad energy retention
+* Poor acceleration
+* Has to give up the gun for flare/chaff pod
+* Suffers in uptiers
+* RWR is only working in the rear, not all around
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The MiG-21 SPS (also MiG-21 PFS) was a subvariant of MiG-21 PF. The acronym SPS comes from "сдув пограничного слоя" ("sduv pogranichnogo sloya") which means "blown flaps". For this, the engine was modified and received a new name R-11F2S-300, this engine redirected some air from the compressor to the flaps. The military wanted it to be able to take off from unpaved airfields, and these modifications shortened the takeoff run to 480 m on average and reduced the landing speed to 240 km/h. Two SPRD-99 (СПРД-99) boosters could be installed to shorten the takeoff run even more. It was mass-produced from 1961 to 1965.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=mig-21_sps_k Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=mig-21_sps_k Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|QiTm32YVGWc|'''2 Premiums, One Playstyle: MiG-21 SPS-K & MiG-21S''' - ''Spit_flyer''|11i6nBt4rYY|'''The Little Plane That Couldn't - MiG-21-SPS-K''' - ''DEFYN''|YbLIfh0nbfg|'''Should You Buy The MiG-21 SPS-K? - Premium Review''' - ''Sako Sniper''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer MiG}}
 {{Germany jet aircraft}}

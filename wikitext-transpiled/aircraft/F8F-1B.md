@@ -12,17 +12,14 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} American naval fighter {{Battle-rating}}. It was introduced in [[Update 1.33]].
 
-The F8F-1B is truly a worthy aircraft to end the single engine fighter line of the USN branch. Nimble, fast, and with great acceleration, it is sight of fear for the foe's eye. Most of its enemies will be jets and they will shiver as the Bearcat faces them with a 2 km altitude and (sometimes with) speed advantage. With WEP running (War Emergency Power), includes ADI (Water-Methanol Injection) for the big and hungry 2,300 horsepower Pratt & Whitney R-2800 Double Wasp) and modules maximized, the climb rate is well over 35 m/s. However, its main weakness is the Bearcat's very power source: the hot-running R-2800 Double Wasp.
+The F8F-1B is truly a worthy aircraft to end the single engine fighter line of the USN branch. Nimble, fast, and with great acceleration, it is sight of fear for the foe's eye. Most of its enemies will be jets and they will shiver as the Bearcat faces them with a 2 km altitude  and (sometimes with) speed advantage. With WEP running (War Emergency Power), includes ADI (Water-Methanol Injection) for the big and hungry 2,300 horsepower Pratt & Whitney R-2800 Double Wasp) and modules maximized, the climb rate is well over 35 m/s. However, its main weakness is the Bearcat's very power source: the hot-running R-2800 Double Wasp.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -50,7 +47,7 @@ The F8F-1B is truly a worthy aircraft to end the single engine fighter line of t
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -81,13 +78,12 @@ The F8F-1B is truly a worthy aircraft to end the single engine fighter line of t
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 8.5 mm Steel - Under cowling engine armour plate
-- 8.5 mm Steel - Fore cockpit protection plate
-- 9.5 mm Steel - Pilots seat and headrest
-- 60 mm Bulletproof glass - Windshield
+* 8.5 mm Steel - Under cowling engine armour plate
+* 8.5 mm Steel - Fore cockpit protection plate
+* 9.5 mm Steel - Pilots seat and headrest
+* 60 mm Bulletproof glass - Windshield
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -98,37 +94,31 @@ The stock ammo belt for the M3 is great. So don't waste research here. Biggest p
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M3 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 20 mm M3 cannon, wing-mounted (188 rpg outer + 225 rpg inner each wing = 826 total)
+* 4 x 20 mm M3 cannon, wing-mounted (188 rpg outer + 225 rpg inner each wing = 826 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|HVAR|Tiny Tim|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 4 x 12.7 mm M2 Browning machine guns, wing-mounted (gunpods) (340 rpg = 1,360 total)
-- 2 x Tiny Tim rockets
-- 4 x HVAR rockets
-- 1 x 1,000 lb AN-M65A1 bomb + 4 x HVAR rockets (1,000 lb total)
-- 1 x 1,000 lb AN-M65A1 bomb (1,000 lb total)
-- 1 x 1,000 lb AN-M65A1 bomb + 2 x 500 lb AN-M64A1 bombs (2,000 lb total)
-- 3 x 1,000 lb AN-M65A1 bombs (3,000 lb total)
+* Without load
+* 4 x 12.7 mm M2 Browning machine guns, wing-mounted (gunpods) (340 rpg = 1,360 total)
+* 2 x Tiny Tim rockets
+* 4 x HVAR rockets
+* 1 x 1,000 lb AN-M65A1 bomb + 4 x HVAR rockets (1,000 lb total)
+* 1 x 1,000 lb AN-M65A1 bomb (1,000 lb total)
+* 1 x 1,000 lb AN-M65A1 bomb + 2 x 500 lb AN-M64A1 bombs (2,000 lb total)
+* 3 x 1,000 lb AN-M65A1 bombs (3,000 lb total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 In Arcade battles the F8F-1B can perform at its prime, which is, accordingly, remarkably. Due to the lack of damage due to overheating and such, the F8F-1B can easily outstrip any piston-engine fighter in a climb once upgraded.
 
 Prior to the "engine injection" upgrade, the 1B performs very well, but not as sublimely as it does with the modification. Thus, climbing and Boom & Zoom match perfectly with the F8F-1B in AB due to its astounding climb rate, speed, acceleration, and weaponry.
@@ -183,49 +173,45 @@ The Mitsubishi [[A7M2]] is much slower than any other aircraft mentioned but is 
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Excellent dive speed
-- Excellent manoeuvrability in moderate to high speeds
-- Fast acceleration
-- High rate of fire
-- High ammo count
-- Can support high G's in sharp turns and has a G-suit upgrade available
-- Combat Flaps can't break, the wings will break faster
-- Double the burst mass of the first [[F8F-1|F8F-1 Bearcat]] and in general powerful armament
-- Great roll rate compared to planes such as the BF-109
-- Respectable climb rate up to 5 km
-- Excellent bomb capacity
+* Excellent dive speed
+* Excellent manoeuvrability in moderate to high speeds
+* Fast acceleration
+* High rate of fire
+* High ammo count
+* Can support high G's in sharp turns and has a G-suit upgrade available
+* Combat Flaps can't break, the wings will break faster
+* Double the burst mass of the first [[F8F-1|F8F-1 Bearcat]] and in general powerful armament
+* Great roll rate compared to planes such as the BF-109
+* Respectable climb rate up to 5 km
+* Excellent bomb capacity
 
 '''Cons:'''
 
-- Engine overheats quickly
-- With the unbreakable combat flaps deployed, wings can rip in a high speed turn
-- M3 cannons jam in barely three seconds unless they are upgraded
-- Not the fastest plane, so lots of planes can catch up
-- Ground loops if landing with full brakes
-- Sluggish controls at speeds less than 300 km/h
-- Dumps velocity in high-G turns
-- Rudder compresses to the point of uselessness over 600 km/h
+* Engine overheats quickly
+* With the unbreakable combat flaps deployed, wings can rip in a high speed turn
+* M3 cannons jam in barely three seconds unless they are upgraded
+* Not the fastest plane, so lots of planes can catch up
+* Ground loops if landing with full brakes
+* Sluggish controls at speeds less than 300 km/h
+* Dumps velocity in high-G turns
+* Rudder compresses to the point of uselessness over 600 km/h
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The first idea for the creation of the Grumman [[F8F-1|F8F Bearcat]] was pitched after the Battle of Midway. Many pilots who took part in it remarked that one of the most important parts of naval air warfare was an aircraft's rate of climb. This of course meant that an increase in power was necessary. In 1943 the design work on the new aircraft began. The outline called for a fighter-interceptor, capable of operating even from small escort carriers. While the engine – the Pratt & Whitney R-2800 radial – was the same model used on the earlier [[F6F-5|F6F Hellcat]], the new fighter would be lighter which also meant an increase in speed and climb rate. The concession was limiting the range of the new aircraft. The F8F would also feature a bubble canopy for better all around visibility. The first prototype, the XF8F-1, first took to the skies on the 21st August 1944. Further tests proved the aircraft's reliability and ruggedness, and the F8F was accepted into mass production. The first serial models rolled off the assembly line in February 1945 and were delivered to VF-19 fighter squadron, which began operating flights with the Bearcats in May 1945.
 
 The new fighter, was, however, too late for any combat in World War II. After the war the situation of this propeller aircraft got even more complicated thanks to the introduction of naval jet aircraft. Even though the F8F was one of the fastest propeller-driven aircraft of its time, it was clear that the jet age was dawning. The F8F was replaced in US Navy and USMC service by the F9F Panther and the [[F2H-2|F2H Banshee]] jet aircraft. Some Bearcats saw combat service with the French in French Indochina in 1951, when they were used in the CAS role against the Viet Minh troops. Thailand also received a shipment of Bearcats which were then operated by the Thai Air Force. The F8F found a new life – thanks to its speed and acceleration - it was and still is widely used as a racing aircraft. One of the most famous racing Bearcats is the Rare Bear – a specially modified F8F, which holds many propeller aircraft speed and climb records.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=f8f1b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f8f1b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|eRBzLn1se_Y|'''The Shooting Range #239''' - ''Metal Beasts'' section at 00:28 discusses the {{PAGENAME}}.|4v3fxupuZPA|'''Last piston fighters''' discusses the {{PAGENAME}} at 5:28 - ''War Thunder Official Channel''|PNkoJ-MFERc|'''Best naval fighters''' discusses the {{PAGENAME}} at 2:24 - ''War Thunder Official Channel''}}
@@ -233,16 +219,15 @@ The new fighter, was, however, too late for any combat in World War II. After th
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [http://www.wwiiaircraftperformance.org/F8F/F8F-1_Standard_Aircraft_Characteristics.pdf Standard Aircraft Characteristics of the F8F-1]
+* [http://www.wwiiaircraftperformance.org/F8F/F8F-1_Standard_Aircraft_Characteristics.pdf Standard Aircraft Characteristics of the F8F-1]
 
 {{AirManufacturer Grumman}}
 {{USA fighters}}

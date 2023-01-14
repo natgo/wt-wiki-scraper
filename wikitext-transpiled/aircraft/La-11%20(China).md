@@ -9,17 +9,13 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 Owners of the [[La-11]] or [[La-9]] will soon find themselves home: the La-11 found in Chinese tech tree is identical to the Soviet one, which again is a long-range and heavier version of the La-9. So a noticeable difference between the two Lavochkins is the manoeuvrability. Due to the weight increase with higher capacity of fuel, at full load, La-11 performs nothing like a La-9. While bringing 30 minutes worth of fuel, or at lighter weight as stated in original flight tests conducted by test pilots, it starts to have similar handling to a La-9.
 
 Since both the Chinese and Soviet aircraft are identical, they share the same M-82FN air-cooled piston engine, which was specialized at below 4,000 m. This engine, at 1,650 hp when spaded, could push the La-11 up to 680 km/h at 6,800 m albeit with worse performance than liquid-cooled engines at such altitude. So keeping yourself below 4,000 m is suggested, which might become a problem when being suppressed by late WWII propellers at higher altitudes.
@@ -49,7 +45,7 @@ Since both the Chinese and Soviet aircraft are identical, they share the same M-
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -80,18 +76,16 @@ Since both the Chinese and Soviet aircraft are identical, they share the same M-
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 Equipment-wise, like the Soviet La-11, the aircraft retains the same nitrogen system in all fuel tanks, used to minimize the possibility of enemy hits setting the fuel ablaze.
 
 While the protection of La-11 is still nothing to be proud of; while two bulletproof glass plates and a steel plate behind the pilot can stop machine gun bullets, anything that is considered an autocannon can finish off the pilot with ease.
 
-- Steel plate
-  \*\* Rear of cockpit, behind the seat- 8.5 mm
-- Bulletproof glass
-  ** Windshield- 55 mm
-  ** Rear of cockpit, behind the headrest- 66 mm
+* Steel plate
+** Rear of cockpit, behind the seat- 8.5 mm
+* Bulletproof glass
+** Windshield- 55 mm
+** Rear of cockpit, behind the headrest- 66 mm
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -100,23 +94,19 @@ While the protection of La-11 is still nothing to be proud of; while two bulletp
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|NS-23 (23 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 3 x 23 mm NS-23 cannons, nose-mounted (75 rpg = 225 total)
+* 3 x 23 mm NS-23 cannons, nose-mounted (75 rpg = 225 total)
 
 La-11 was designed to be an interceptor, thus only three NS-23 cannons were mounted on the nose, which can do very little to armoured ground targets.
 
 For those familiar with the Yakovlev Yak-9 family or the Lavochkin duo of propeller aircraft which use NS-23 as their cannon of choice, players can get used to the La-11 fairly quickly; even new players can handle this cannon thanks to its devastating firepower and straight ballistics. A short burst with the Air targets belt can send even the heaviest of interceptors straight back to the hanger with ease. Although it has one less cannon than the La-9, some practice on conserving ammo can certainly enhance the odds to shoot enemies down with fewer rounds used.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 Since both La-11s are identical, their playstyle is the same; while in Chinese case, this plane would come before its predecessor, La-9 in the tech tree, so it would also become the trainer aircraft for the La-9 with similar performance.
 
 A common feature of Lavochkin aircraft is the air-cooled engine and the La-11 is no exception: the same M-82FN engine is retained from its predecessor so in terms of speed and acceleration; while having more fuel is a good thing, this costs La-11 quite something in terms of the overall manoeuvrability; therefore, in most cases, 30 minutes worth of fuel is more than enough to handle the battle while giving it the performance of a La-9.
@@ -145,31 +135,28 @@ Overall, La-11 provides Chinese aviators with an alternative to ROCAF's US-built
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- The nose-mounted guns are easy to aim, providing highly concentrated, deadly fire
-- The 23 mm cannons can be fired separately, allowing for good ammo conservation
-- High rate of fire and great 1-second burst mass make short bursts very lethal, suitable for deflection shots
-- Admirable low-altitude performance below 4,000 m
-- Light grey paint scheme is effective at hiding within clouds or close to a foggy ground
-- Fantastic rear view with minimal obstructions
-- Has a gyro gunsight
+* The nose-mounted guns are easy to aim, providing highly concentrated, deadly fire
+* The 23 mm cannons can be fired separately, allowing for good ammo conservation
+* High rate of fire and great 1-second burst mass make short bursts very lethal, suitable for deflection shots
+* Admirable low-altitude performance below 4,000 m
+* Light grey paint scheme is effective at hiding within clouds or close to a foggy ground
+* Fantastic rear view with minimal obstructions
+* Has a gyro gunsight
 
 '''Cons:'''
 
-- Low ammo count (75 rpg) requires strict trigger discipline and limits its fighting time
-- Performance worsens above 4,000 m, making it vulnerable to high-altitude fighters like the [[Bf 109 G-6]]
-- Extremely inadequate forward visibility due to the long nose and low gunsight mount, can lead to the player losing track of the target
-- No suspended weapons like bombs, limiting its roles to air superiority fighter only
-- Subpar control surface responsiveness at higher speed
+* Low ammo count (75 rpg) requires strict trigger discipline and limits its fighting time
+* Performance worsens above 4,000 m, making it vulnerable to high-altitude fighters like the [[Bf 109 G-6]]
+* Extremely inadequate forward visibility due to the long nose and low gunsight mount, can lead to the player losing track of the target
+* No suspended weapons like bombs, limiting its roles to air superiority fighter only
+* Subpar control surface responsiveness at higher speed
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 {{main|La-11#History}}
 Although the La-11 (NATO: Fang) was among the very last propeller fighters and it contributed very little to VVS, they were still an inexpensive supplement for Soviet allies including the newly born PLAAF who were in dire need to expand their fighter fleet with imported fighters.
 
@@ -193,33 +180,26 @@ The incident was controversial and punishments were issued to both PLAAF command
 The rise of jet fighters during Korean War also marked the end of propeller fighters. La-11s, along with its La-9 predecessors, were quickly withdrawn from the frontline and were only used as trainers or sometimes suppressing rebels in southwestern China. PLAAF stopped the repair of La-11s in 1956 and some of them served as spare parts for Tu-2 (which shared the same engine); when the newer jets eventually replace all the propeller fighters, the last 18 La-11s were decommissioned in 1968, putting a full-stop to the usage of propeller fighters in China.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=la-11_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=la-11_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
-- [[La-11]]
+* [[La-11]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer Lavochkin}}
 {{China fighters}}

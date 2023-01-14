@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=uk_a27m_cromwell_1
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' (or just '''{{Specs|pseudonym}}''') is a rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was released along with the initial British ground tree in [[Update 1.55 "Royal Armour"]].
 
 The Cromwell Mk I uses the 6-pdr, which provides higher penetration than the 75 mm on the [[Cromwell V|Mk V]]. It is also slightly faster and more manoeuvrable, thanks to the addition of an engine governor on the Mk. V that lowered its maximum output. However, these advantages are offset by the higher BR which means the Cromwell will be facing some tanks that are a good match for the Cromwell in terms of speed, like the [[T-34 (Family)|T-34]], and some tanks that are largely invulnerable, like the [[KV-2 (1939)|KV-2]].
@@ -21,13 +19,11 @@ The Cromwell I is one of the fastest tanks in the game, due to its Meteor engine
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (Gun mantlet, Driver's port, Side armour, Compartment hull roof)
+* Rolled homogeneous armour
+* Cast homogeneous armour (Gun mantlet, Driver's port, Side armour, Compartment hull roof)
 
 {| class="wikitable"
 |-
@@ -40,11 +36,10 @@ The Cromwell I is one of the fastest tanks in the game, due to its Meteor engine
 |}
 '''Notes:'''
 
-- Suspension wheels and tracks are 20 mm thick.
+* Suspension wheels and tracks are 20 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp= 930|rbMinHp= 531}}
@@ -56,9 +51,7 @@ The Cromwell I is one of the fastest tanks in the game, due to its Meteor engine
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|6pdr OQF Mk.III (57 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -125,9 +118,7 @@ The Cromwell I is one of the fastest tanks in the game, due to its Meteor engine
 |}
 
 ==== [[Ammo racks]] ====
-
 <!-- '''Last updated: 2.3.0.83''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -163,9 +154,7 @@ The Cromwell I is one of the fastest tanks in the game, due to its Meteor engine
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|BESA (7.92 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -179,7 +168,6 @@ The Cromwell I is one of the fastest tanks in the game, due to its Meteor engine
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 '''Overview:'''
@@ -197,35 +185,32 @@ In terms of armour, the Cromwell I is in a better situation than many players wo
 One somewhat unconventional tool that the Cromwell has access to is an abundance of smoke grenades. Commanders can use these grenades to shut down enemy firing angles and protect themselves from being shot in the side. However, be careful not to spam these too much as they may get in the way of your teammates as well.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Very fast for a medium tank
-- 57 mm is a good gun in dealing with many vehicles that it may face
-- Above 2 combined make it excellent for seizing zones and destroying the lighter tanks from other nations that are usually the first there
-- Great gun handling
-- With judicious use, the tank can often end up with the most formidable tank in a lower rank game
-- Can easily hide behind obstacles and surprise passing enemies with a flanking manoeuvre
-- If played correctly, it can outflank and destroy even higher ranking tanks
-- Has a speed of 64 km/h on flat terrain
+* Very fast for a medium tank
+* 57 mm is a good gun in dealing with many vehicles that it may face
+* Above 2 combined make it excellent for seizing zones and destroying the lighter tanks from other nations that are usually the first there
+* Great gun handling
+* With judicious use, the tank can often end up with the most formidable tank in a lower rank game
+* Can easily hide behind obstacles and surprise passing enemies with a flanking manoeuvre
+* If played correctly, it can outflank and destroy even higher ranking tanks
+* Has a speed of 64 km/h on flat terrain
 
 '''Cons:'''
 
-- Terrible reverse speed
-- Neutral turning does not like any terrain sloping
-- Poor at peeking shots
-- Not well armoured when up-tiered and the 57 mm gun is marginal
-- Sensitive steering in forward travelling gears
-- Boxy, vertical armour on hull and turret makes angling critical
-- 57 mm struggles to penetrate sloped or angled (or both) armour. T-34s and KV-1s are an issue at this rank as they are very difficult to penetrate at long range
-- Gunner is frequently knocked out from frontal shots
+* Terrible reverse speed
+* Neutral turning does not like any terrain sloping
+* Poor at peeking shots
+* Not well armoured when up-tiered and the 57 mm gun is marginal
+* Sensitive steering in forward travelling gears
+* Boxy, vertical armour on hull and turret makes angling critical
+* 57 mm struggles to penetrate sloped or angled (or both) armour. T-34s and KV-1s are an issue at this rank as they are very difficult to penetrate at long range
+* Gunner is frequently knocked out from frontal shots
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 Development for the tank started back in 1940, just around the time the [[Crusader Mk II|Crusader cruiser tank]] was being put into service in the British Army. The development of a stronger cruiser tank was initiated due to the belief that that the Crusader would become obsolete in the face of more advanced German tanks as the time pass. The initial plans was for the tank to mount the OQF 6-pounder gun and was to be completed in 1942. The project was taken up by three companies who submitted their designs. Vauxhall developed the A23, a scaled down [[Churchill Mk III|Churchill tank]] with 75 mm of armour and a 12-cylinder Bedford engine. Nuffield developed the A24 based off the Crusader that was powered by the Liberty engine and had an advantage of being put into production quickly. Leyland and Birmingham Railway Carriage & Wagon developed a design that was similar to Nuffield's, but with different suspension and track designs. All these designs were examined in January 1941 and it was decided that Nuffield's A24 would become the vehicle of choice for the project. Six prototypes of the vehicle, now called Cromwell I were ordered for delivery in the Spring of 1942, but arrived four months late, with current events making the tank designs outdated. Despite that, the tank was put into production and experienced an unsatisfactory performance history as being an under-powered tank. The lack of available tanks led to the demands for more 6-pounders on the battlefield, which were used to be mounted on the older tank designs.
 
@@ -246,12 +231,11 @@ During the war, the Cromwell chassis was used in various specialized roles on th
 The Cromwells were also given out to Allied units such as the 1st Polish Armoured Division and the 1st Czechoslovak Armoured Brigade. These units served in Northern Europe with the Allies as they breakthrough deeper into Europe. After World War II, some Cromwell stayed in service and saw service in the Korean War with the 7th Royal Tank Regiment and the 8th King's Royal Irish Hussars. The Cromwells also were given to Greece, where it had the distinction of being the first tank put into service by the Greek Army. 52 Centaurs were given to Greece in 1946 to fight in the Greek Civil War, but these were stored due to lack of crews with adequate training. Formal training began in Greece began in 1947 with the return of trained officers from Britain. The Centaur saw limited service in the Greek Armoured Corps, fighting in the Greek mountains. These units kept the Centaurs up until 1963 where it was replaced by the American [[M47|M47 Pattons]].
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a27m_cromwell_1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a27m_cromwell_1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover" heights="200">
@@ -262,21 +246,19 @@ File:Cromwell I desert charge.jpg|<small>Cromwell I in the desert.</small>
 {{Youtube-gallery|CHvo6EIIlKk|'''Pages of History: A27 Cromwell''' - ''War Thunder Official Channel''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[Cromwell V]]
-- [[Cromwell V (RP-3)]]
+* [[Cromwell V]]
+* [[Cromwell V (RP-3)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/devblog/current/846/|[Devblog] Cromwell I]]
-- [[wt:en/news/3549-profile-cromwell-mk-i-en|[Vehicle Profile] Cromwell Mk I]]
+* [[wt:en/devblog/current/846/|[Devblog] Cromwell I]]
+* [[wt:en/news/3549-profile-cromwell-mk-i-en|[Vehicle Profile] Cromwell Mk I]]
 
 {{Britain medium tanks}}

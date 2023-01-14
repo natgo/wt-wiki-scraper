@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
 
 The IAI Kfir is a Israeli development of the [[Nesher]], itself a variant of the French [[Mirage 5 (Family)|Mirage 5]]. The delta-winged Mirages are known for their low wing loading and sleek aerodynamics, but their engines tend to be underwhelming. The Kfir rectifies this with an American J79 engine as seen on the [[F-4 Phantom II (Family)|F-4 Phantom]] and [[F-104 (Family)|F-104 Starfighter]], which offers vastly more thrust, and fixed canard foreplanes mounted on the air intakes to compensate for the weight changes. The end result is an aircraft with incredible acceleration and high agility, a dangerous opponent in dogfights.
@@ -21,9 +19,7 @@ The Kfir's weapons leave something to be desired, reflecting its real-life usage
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The Kfir C.7 has an impressive acceleration, even higher than the [[MiG-23MLD]]'s. The plane can also turn quite well, but it is not recommended to turn while in combat as the delta wing configuration will bleed a lot of speed and a slow jet is an easy target. However, you can take the risk to bleed speed in some situations since you regain that speed rather quickly.
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -51,7 +47,7 @@ The Kfir C.7 has an impressive acceleration, even higher than the [[MiG-23MLD]]'
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || X || X || ✓ || X || ✓ <!-- ✓ -->
+| X || X || X || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -90,7 +86,7 @@ The Kfir C.7 has an impressive acceleration, even higher than the [[MiG-23MLD]]'
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
 |-
 | colspan="2" | General Electric J79-GE-J1E || 1
-| colspan="2" | 7,385 kg || colspan="2" | \_\_\_ kg/m<sup>2</sup>
+| colspan="2" | 7,385 kg || colspan="2" | ___ kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | Max Takeoff<br>Weight
@@ -117,9 +113,7 @@ The Kfir C.7 has an impressive acceleration, even higher than the [[MiG-23MLD]]'
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 The Kfir lacks any armour surrounding the pilots, making HE hits (missiles and cannons) able to penetrate and hit the pilot with ease.
 
 Survivability of the Kfir is far greater than any of its contemporaries even though it lacks armour. The Kfir can sustain black fuselage damage, and ripped wings can have more than enough control authority to return back home and repair.
@@ -140,42 +134,38 @@ Survivability of the Kfir is far greater than any of its contemporaries even tho
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|DEFA 552A (30 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 2 x 30 mm DEFA 552A cannons, belly-mounted (140 rpg = 280 total)
-  ** 2 x 30 mm DEFA 552A cannons + 36 x countermeasures
+* A choice between two presets:
+** 2 x 30 mm DEFA 552A cannons, belly-mounted (140 rpg = 280 total)
+** 2 x 30 mm DEFA 552A cannons + 36 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
 {{main|AIM-9D Sidewinder|AIM-9G Sidewinder|Shafrir 2}}
 {{main|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|GAU-4 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x AIM-9D Sidewinder missiles
-- 2 x Shafrir 2 missiles
-- 4 x Shafrir 2 missiles
-- 4 x AIM-9D Sidewinder missiles
-- 4 x AIM-9G Sidewinder missiles
-- 13 x 500 lb LDGP Mk 82 bombs (6,500 lb total)
-- 8 x 1,000 lb LDGP Mk 83 bombs (8,000 lb total)
-- 4 x 1,000 lb LDGP Mk 83 bombs + 11 x 500 lb LDGP Mk 82 bombs (9,500 lb total)
-- 8 x 750 lb M117 cone 45 bombs (6,000 lb total)
-- 2 x 2,000 lb LDGP Mk 84 bombs (4,000 lb total)
-- 2 x 20 mm GAU-4 cannons (1,200 rpg = 2,400 total)
-- 16 x Zuni Mk32 Mod 0 ATAP rockets
-- 76 x FFAR Mighty Mouse rockets
+* Without load
+* 2 x AIM-9D Sidewinder missiles
+* 2 x Shafrir 2 missiles
+* 4 x Shafrir 2 missiles
+* 4 x AIM-9D Sidewinder missiles
+* 4 x AIM-9G Sidewinder missiles
+* 13 x 500 lb LDGP Mk 82 bombs (6,500 lb total)
+* 8 x 1,000 lb LDGP Mk 83 bombs (8,000 lb total)
+* 4 x 1,000 lb LDGP Mk 83 bombs + 11 x 500 lb LDGP Mk 82 bombs (9,500 lb total)
+* 8 x 750 lb M117 cone 45 bombs (6,000 lb total)
+* 2 x 2,000 lb LDGP Mk 84 bombs (4,000 lb total)
+* 2 x 20 mm GAU-4 cannons (1,200 rpg = 2,400 total)
+* 16 x Zuni Mk32 Mod 0 ATAP rockets
+* 76 x FFAR Mighty Mouse rockets
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -218,7 +208,6 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 ;RB:
@@ -242,27 +231,25 @@ The Kfir will begin to wing rip at 750 knots IAS. This is displayed on the left 
 The AIM-9G locking is at the bottom of your HUD, this can be difficult to learn, but once you do, it is not a big issue.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great flight characteristics
-- Amazing control authority at any speed
-- Above average acceleration below Mach 1, and one of the fastest acceleration in the game above Mach 1
-- Extremely fast, especially at high altitudes
-- Has long range AIM-9Gs
+* Great flight characteristics
+* Amazing control authority at any speed
+* Above average acceleration below Mach 1, and one of the fastest acceleration in the game above Mach 1
+* Extremely fast, especially at high altitudes
+* Has long range AIM-9Gs
 
 '''Cons:'''
 
-- Limited gun ranging radar which does not track or lock enemies
-- Delta wing configuration bleeds airspeed quickly while in a high G turn
-- 36 x countermeasures can be quickly used up, especially if split 50/50 between chaff and flares
-- Missiles are pointed down requiring you to pull alpha or be above the target to get a lock
-- No radar or radar-guided armament
+* Limited gun ranging radar which does not track or lock enemies
+* Delta wing configuration bleeds airspeed quickly while in a high G turn
+* 36 x countermeasures can be quickly used up, especially if split 50/50 between chaff and flares
+* Missiles are pointed down requiring you to pull alpha or be above the target to get a lock
+* No radar or radar-guided armament
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 In the 1960s, French and Israeli engineers worked together to develop the [[Mirage 5F|Dassault Mirage 5]], successor to the [[Mirage IIICJ|Mirage III]], tailored specifically to the requirements of the Israeli Air Force (IAF). Israel funded a large part of the project by purchasing a total of 50 aircraft in advance of their production. The deal eventually fell through when France enacted an arms embargo on Israel following its preemptive strike at the start of the 1967 Six-Day War - an action that the French had explicitly warned Israel not to take. Though Israel was eventually reimbursed for its payments, the Mirage 5 was never supplied.
@@ -287,33 +274,30 @@ Entering serial production in 1975 and subsequently being commissioned into serv
 The Kfir C.7 is a later modification of the aircraft, resulting from continuous efforts of Israeli engineers to further develop the Kfir. The new version featured numerous improvements, including a more powerful afterburner, increased payload and weapon selection as well as new avionics and cockpit arrangement. The Kfir C.7 entered service in 1983 and would remain in active service until the early 1990s before being officially decommissioned by the Israeli Air Force. Subsequently, some units were sold on the export market to Columbia and Sri Lanka where they saw active combat during the Sri Lankan Civil War.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=kfir_c7 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=kfir_c7 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|ERLptF1Nsps|'''The Shooting Range #286''' - ''Metal Beasts'' section at 00:36 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
 
-- [[Mirage 5 (Family)]]
+* [[Mirage 5 (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/7466-development-kfir-c-7-the-sharp-clawed-lion-cub-en|[Devblog] Kfir C.7: The Sharp-Clawed Lion Cub]]
+* [[wt:en/news/7466-development-kfir-c-7-the-sharp-clawed-lion-cub-en|[Devblog] Kfir C.7: The Sharp-Clawed Lion Cub]]
 
 {{Manufacturer IAI}}
 {{Israel jet aircraft}}

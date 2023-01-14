@@ -10,9 +10,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]].
 
 The Lightning is a very distinctive aircraft, with its unique stacked engine design, highly swept wings, and large ventral fuel tank. It was designed as a high performance interceptor aircraft, to defend against Soviet bombers, sacrificing range and flexibility for raw performance. With most of the fuselage taken up by the two powerful Rolls-Royce Avon engines, fuel had to be put wherever it could fit inside the wings (including inside the flaps), and in a large ventral fuel tank fitted to the underside of the aircraft. Another factor adding to the Lightning's unique appearance is the fitment of two air-to-air missiles to the sides of the forward fuselage.
@@ -22,7 +20,6 @@ In-game, the Lightning has decent acceleration, climb rate, and top speed; and c
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 The Lightning F.6 possesses good acceleration and climb performance, although arguably not as good as late model MiG-21s, and some [[F-4 Phantom II (Family)|Phantoms]]. The Lightning's two powerful Avon 302 engines do however give it the unique capability of being able to supercruise (fly supersonic without afterburner) at all altitudes, something no other aircraft in the game can do. At sea level the Lightning can supercruise at Mach 1.03, with this generally increasing with altitude (for example at 5,000 m it can supercruise at Mach 1.07). The Lightning has a lower listed wing rip speed than other top tier jets such as MiG-21s and [[F-4 Phantom II (Family)|F-4 Phantoms]], however it due to its powerful engines it is capable of reaching (and exceeding) this speed in level flight, even with a full missile armament. This means that the Lightning is actually faster than many of its competitors in a low altitude chase situation, being able to reach Mach 1.08 safely at sea level and Mach 1.10 if you want to push it (structural failure tends to occur at this speed so be careful); Mach 1.14 can be safely reached at 1,000 m. Enemy aircraft can still catch you if they are coming out of a dive, but a surprising number will not be able to keep up in a prolonged chase with a Lightning. Supercruise can be used to give the Lightning longer endurance than other top tier jets, without having to sacrifice speed.
@@ -54,7 +51,7 @@ In real life the Lightning's optimal climb profile was to accelerate to 450 knot
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || ✓ || ✓ || ✓ <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -120,7 +117,6 @@ In real life the Lightning's optimal climb profile was to accelerate to 450 knot
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
 In line with its role as a high-performance interceptor aircraft the Lightning F.6 has no armoured plating or bulletproof glass, such additions would have increased the weight of the aircraft, while offering no real benefit for its intended role.
@@ -138,39 +134,34 @@ The Lightning is a difficult aircraft to use when stock. If you particularly dis
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|ADEN (30 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 30 mm ADEN cannons, mounted in belly tank (120 rpg = 240 total)
+* 2 x 30 mm ADEN cannons, mounted in belly tank (120 rpg = 240 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|Firestreak|Red Top}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x Firestreak missiles
-- 2 x Red Top missiles
+* Without load
+* 2 x Firestreak missiles
+* 2 x Red Top missiles
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 In combined battles, pilots of the {{PAGENAME}} may find themselves unable to deal much damage against ground vehicles, especially without the use of rockets, anti-tank missiles, or bombs. As such, this fighter is better suited to dealing with enemy air targets such as helicopters, which are plentiful at the Lightning's battle rating.
 
-Although it faces challenges there, air realistic battles are where the Lightning truly belongs. The F.6 is able to use its Red Top missiles to dispatch enemies from a distance. Best practice with the missiles is to fire when there is about a 1.5 km gap between the F.6 and the enemy aircraft. This gap gives the missile time to lock on its target and track the enemy. One downside to the Red Tops is that they are not particularly fast compared to other missiles at its tier and may have trouble manoeuvring to catch an enemy aircraft travelling at top speed.
+Although it faces challenges there, air realistic battles are where the Lightning truly belongs.  The F.6 is able to use its Red Top missiles to dispatch enemies from a distance.  Best practice with the missiles is to fire when there is about a 1.5 km gap between the F.6 and the enemy aircraft.  This gap gives the missile time to lock on its target and track the enemy.  One downside to the Red Tops is that they are not particularly fast compared to other missiles at its tier and may have trouble manoeuvring to catch an enemy aircraft travelling at top speed.
 
-The {{PAGENAME}} handles well at subsonic speeds, although dogfights at those speeds are not common at this battle rating. Flying slowly leaves the pilot vulnerable to nearby enemies. Among those enemies may be the [[MiG-21 F-13]], which the Lightning can often out-dogfight and the [[F-4 Phantom II (Family)|F-4C]], which the Lightning has an extremely difficult time trying to out-dogfight. The Lightning just doesn't have the energy retention that the Phantom does.
+The {{PAGENAME}} handles well at subsonic speeds, although dogfights at those speeds are not common at this battle rating.  Flying slowly leaves the pilot vulnerable to nearby enemies.  Among those enemies may be the [[MiG-21 F-13]], which the Lightning can often out-dogfight and the [[F-4 Phantom II (Family)|F-4C]], which the Lightning has an extremely difficult time trying to out-dogfight.  The Lightning just doesn't have the energy retention that the Phantom does.
 
-Keeping this in mind, it is advised that pilots use this plane as part of a team, rather than as an attempted solo carry. It is recommended that they climb to higher altitude early on in the match and by gaining as much energy as possible before dumping it in dogfight manoeuvres.
+Keeping this in mind, it is advised that pilots use this plane as part of a team, rather than as an attempted solo carry.  It is recommended that they climb to higher altitude early on in the match and by gaining as much energy as possible before dumping it in dogfight manoeuvres.
 
 Enemy planes that the Lightning F.6 is well-suited to take on in a fight are the [[Mitsubishi T-2]], the [[F-100D]], and the [[MiG-19 (Family)|Mig-19s]] of all variants.
 
@@ -199,29 +190,26 @@ The Lightning F.6 is equipped with an AI.23 search and tracking radar. The radar
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Good climb rate and acceleration.
-- Formidable angle-of-attack above low speeds.
-- Very powerful cannons, and good missiles.
-- Surprisingly good turn rate between 800 and 1,000 km/h IAS.
+* Good climb rate and acceleration.
+* Formidable angle-of-attack above low speeds.
+* Very powerful cannons, and good missiles.
+* Surprisingly good turn rate between 800 and 1,000 km/h IAS.
 
 '''Cons:'''
 
-- Quite poor energy retention.
-- Large target for enemy aircraft.
-- Awkward under-belly cannon placement.
-- Relatively low top speed (1,280 km/h IAS at sea level).
-- Poor low-speed manoeuvrability.
-- Limited armament selection.
+* Quite poor energy retention.
+* Large target for enemy aircraft.
+* Awkward under-belly cannon placement.
+* Relatively low top speed (1,280 km/h IAS at sea level).
+* Poor low-speed manoeuvrability.
+* Limited armament selection.
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Background===
 In February 1946 the British government cancelled the Miles M.52 programme, only a few months before the first prototype was due to fly. The M.52 was a supersonic research aircraft, designed to reach speeds in excess of 1,000 mph (1,600 km/h) and potentially become the first aircraft to achieve supersonic speeds in level flight.<ref name="LightningStrikesTwice">Bowman 2009</ref> The cancellation sent a message to the aviation industry that the British Government had little interest in the development of supersonic aircraft. This did not deter English Electric Company engineer W. E. W. Petter; from his work designing the Canberra bomber he could tell that current fighters would be incapable of intercepting such an aircraft, and so began sketching designs for a new supersonic fighter.<ref name="IconsLightningStory">Chorlton 2012</ref>
 
@@ -273,12 +261,11 @@ Following a successful test phase, the Lightning was ordered into production and
 With the advent of far more capable aircraft in the late stages of the Cold War, the over 330 Lightnings built were phased out of service in the late 1980s. Apart from its service with the UK, the Lightning also served with the armed forces of Kuwait and Saudi Arabia, the latter two being its only foreign operators.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=lightning_f6 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=lightning_f6 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover" caption="Lightning F.6 Devblog Images" heights="150px">
@@ -294,24 +281,22 @@ File:Lightning F.6 WTWallpaper 006.jpg|
 {{Youtube-gallery|TJNmzteLOk8|'''The Shooting Range #223''' - ''Metal Beasts'' section at 00:28 discusses the {{PAGENAME}}.|CDl68kOR9ig|'''The Shooting Range #191''' - ''Pages of History'' section at 04:56 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[Phantom FG. Mk1|Phantom FG.1]]
-- [[Phantom FGR.2]]
-- [[MiG-21MF (Germany)|MiG-21MF]]
-- [[MiG-21SMT]]
+* [[Phantom FG. Mk1|Phantom FG.1]]
+* [[Phantom FGR.2]]
+* [[MiG-21MF (Germany)|MiG-21MF]]
+* [[MiG-21SMT]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6615-development-lightning-f-6-saddled-to-a-skyrocket-en|[Devblog] Lightning F.6: Saddled to a Skyrocket!]]
-- [https://forum.warthunder.com/index.php?/topic/479190-lightning-f6/ [Forums<nowiki>]</nowiki> Aircraft Data Sheets: Lightning F.6]
+* [[wt:en/news/6615-development-lightning-f-6-saddled-to-a-skyrocket-en|[Devblog] Lightning F.6: Saddled to a Skyrocket!]]
+* [https://forum.warthunder.com/index.php?/topic/479190-lightning-f6/ [Forums<nowiki>]</nowiki> Aircraft Data Sheets: Lightning F.6]
 
 ===References===
 
@@ -320,19 +305,19 @@ File:Lightning F.6 WTWallpaper 006.jpg|
 
 ;Bibliography
 
-- Bowman, M. (2009). Lightning Strikes Twice: The Story of the English Electric Lightning. Stroud: Amberley Publishing.
-- Burke, D. (2016). English Electric Lightning. Retrieved from [https://www.thunder-and-lightnings.co.uk/lightning/history.php Thunder and Lightnings]
-- Chorlton, M. (2012). The Lightning story - from P.1 to F.6. Aeroplane Icons, pp. 6-16.
-- Darling, K. (2008). English Electric / British Aircraft Corporation Lightning Mks 1-6. Lulu.com.
-- Derry, M. (2016). English Electric Lightning. Barnsley: Pen and Sword Aviation.
-- Lightning F Mk 2A, Aircrew Manual. (1968). Warton Aerodrome, UK: English Electric Technical Services.
-- Lightning F Mk. 53, Pilots Notes. (1983). Warton Aerodrome, UK: British Aircraft Corporation Ltd.
-- Lightning F.Mk 6, Operating Data Manual. (1977). Warton Aerodrome, UK: English Electric Technical Services.
-- Lightning F.Mks 1,1A,2 &T.MK.4, Operating Data Manual. (1975). Warton Aerodrome, UK: English Electric Technical Services.
-- Pike, R. (2011). The Lightning Boys. London: Grub Street.
-- Pilot's Notes, Lightning F.Mk 1 & F.Mk 1A. (1962). Warton Aerodrome, UK: English Electric Technical Services.
-- Ransom, S., & Fairclough, R. (1987). English Electric Aircraft and their Predecessors. London: Putnam.
-- Roux, E. (2007). Turbofan and Turbojet Engines Database Handbook. Lulu.com.
+* Bowman, M. (2009). Lightning Strikes Twice: The Story of the English Electric Lightning. Stroud: Amberley Publishing.
+* Burke, D. (2016). English Electric Lightning. Retrieved from [https://www.thunder-and-lightnings.co.uk/lightning/history.php Thunder and Lightnings]
+* Chorlton, M. (2012). The Lightning story - from P.1 to F.6. Aeroplane Icons, pp. 6-16.
+* Darling, K. (2008). English Electric / British Aircraft Corporation Lightning Mks 1-6. Lulu.com.
+* Derry, M. (2016). English Electric Lightning. Barnsley: Pen and Sword Aviation.
+* Lightning F Mk 2A, Aircrew Manual. (1968). Warton Aerodrome, UK: English Electric Technical Services.
+* Lightning F Mk. 53, Pilots Notes. (1983). Warton Aerodrome, UK: British Aircraft Corporation Ltd.
+* Lightning F.Mk 6, Operating Data Manual. (1977). Warton Aerodrome, UK: English Electric Technical Services.
+* Lightning F.Mks 1,1A,2 &T.MK.4, Operating Data Manual. (1975). Warton Aerodrome, UK: English Electric Technical Services.
+* Pike, R. (2011). The Lightning Boys. London: Grub Street.
+* Pilot's Notes, Lightning F.Mk 1 & F.Mk 1A. (1962). Warton Aerodrome, UK: English Electric Technical Services.
+* Ransom, S., & Fairclough, R. (1987). English Electric Aircraft and their Predecessors. London: Putnam.
+* Roux, E. (2007). Turbofan and Turbojet Engines Database Handbook. Lulu.com.
 
 {{AirManufacturer EEC}}
 {{Britain jet aircraft}}

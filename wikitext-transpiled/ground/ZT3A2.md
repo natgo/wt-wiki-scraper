@@ -4,17 +4,13 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British tank destroyer {{Battle-rating}}. It was introduced in [[Update "Ixwa Strike"]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 [[File:ZT3A2 fragility example.jpg|thumb|right|Even a single lucky hit of a 35 mm KDA cannon can obliterate the ZT3A2, avoid fighting SPAA at any cost]]
 Armour of this vehicle is irrelevant as its launcher is barely protected. The launcher ammunition counts as an active ammo rack, so any ATGM or HE shell detonating next to it will detonate it as well, taking the vehicle out in process. Even hitting the missiles with any MG can cause them to detonate. Even worse, the ammo rack sometimes does not disappear after firing and definitely reappears in the middle of the reload, even though the vehicle cannot fire yet, so the operator must turn the launcher away when attacked. If the launcher is destroyed past that point, the ammo rack will not disappear but reload progress is still reset.
 
@@ -33,7 +29,6 @@ The {{PAGENAME}} has smoke grenades, but these are outdated old smoke grenades a
 Therefore, the smoke must be used long before the enemy reached your position, not when it is already too late, and should not be relied on in AB. Another way to use them is to launch them at the same time with the ATGM salvo - by the time the carrier runs out of ATGMs, the smoke grenades connect with the ground, concealing the vehicle.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
-
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
 
@@ -41,21 +36,19 @@ Therefore, the smoke must be used long before the enemy reached your position, n
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || **_ mm || _** mm ''Top'' <br> **_ mm ''Bottom'' || _** mm || **_ - _** mm
+| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
 |-
-| Turret || **_ - _** mm ''Turret front'' <br> **_ mm ''Gun mantlet'' || _** - **_ mm || _** - **_ mm || _** - **_ mm
+| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
 |-
-| Cupola || _** mm || **_ mm || _** mm || \_\_\_ mm
+| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
 |-
 |}
 
 '''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
-
 <!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 In arcade battles, the stock {{PAGENAME}} drives at 30-40 km/h offroad and 60-77 km/h on dirt roads. When using paved road, it will accelerate towards 100 km/h instead. An upgraded {{PAGENAME}} does not drive much faster due to the engine only working at 1,700-2,000 RPM almost all the time, but it will reach 40 km/h almost as fast as it reached 30 km/h before and will reach its top speed on paved roads far more reliably. The maximum speed limits do not really change at all.
@@ -75,9 +68,7 @@ Researching "Horizontal Drive" might make controlling missiles in RB slightly ea
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|ZT3}}
 
 There are two main missiles on the {{PAGENAME}}, The ZT3A1 and ZT3A2. Both missiles are laser-guided, which makes them immune to jamming by IRCM and allows the carrier to guide them all at once. Both missiles have reasonably strong vertical drive and rather sluggish horizontal drive, allowing operator to quickly shift them around, as long as they do not try to change their flight direction entirely. These missiles also can cause overpressure damage through more RHA than would be expected from a normal HEAT warhead, meaning they can destroy many medium tanks by hitting their turret's rooftop.
@@ -86,7 +77,7 @@ The missiles are loaded in magazines of 3 missiles with 4 magazines or 12 missil
 
 In AB/RB the guiding "camera" is located in the launcher, which means that it can fire and guide straight after exposing the launcher. In SB, missiles are guided by gunner's optics under the launcher, which means that the hull must also be exposed.
 
-The ZT3A1 can be treated like a [[MILAN 2]] with 40 more km/h speed on it. It often fails to break through light tanks and will only destroy ERA screens, but not break through them in most cases. Regardless, they are still very strong and there are 3 of them at once, so it is possible to destroy an entire tank squad if they are not paying attention to their surroundings. They can cause overpressure through 20 mm RHA, which means it can destroy [[Leopard_1_(Family)|Leopard]] by hitting the top of its roof.
+The ZT3A1 can be treated like a [[MILAN 2]] with 40 more km/h speed on it. It often fails to break through light tanks and will only destroy ERA screens, but not break through them in most cases. Regardless, they are still very strong and there are 3 of them at once, so it is possible to destroy an entire tank squad if they are not paying attention to their surroundings. They can cause overpressure through 20 mm RHA, which means it can destroy [[Leopard_1_(Family)|Leopard]] by hitting the top of its roof. 
 
 The ZT3A2 has a tandem warhead, which allows it to penetrate one obstacle (primarily, ERA of Soviet or French tanks) without wasting the HEAT payload, and it in general has more penetration than all of the rank VI ATGMs, easily breaching and obliterating any tanks they land on. Unfortunately, some light tanks like the [[TAM]] can still somehow survive a direct hit, so aiming at weak spots is still recommended. This missile can cause overpressure through 30 mm RHA, so even many Soviet tank roofs aren't safe from it, so even if they hide the hull they are still an easy target.
 
@@ -145,10 +136,8 @@ Both missiles are easier to aim by using sniper scope, even in arcade mode and a
 |}
 
 ==== [[Ammo racks]] ====
-
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -160,15 +149,13 @@ Both missiles are easier to aim by using sniper scope, even in arcade mode and a
 ! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''4''' || **&nbsp;''(+**)'' || **&nbsp;''(+**)'' || **&nbsp;''(+**)'' || **&nbsp;''(+**)'' || **&nbsp;''(+**)'' || **&nbsp;''(+**)'' || \_\_
+| '''4''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
 |-
 |}
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|Browning MG4 (7.62 mm)}}
 
 This MG fires way too slowly to be of any combat use, but if the {{PAGENAME}} is attacked by a hostile ATGM carrier, it should be fired at the incoming missiles with an about 5% chance of shooting them down mid-air.
@@ -184,7 +171,6 @@ This MG fires way too slowly to be of any combat use, but if the {{PAGENAME}} is
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 '''Arcade mode'''
@@ -203,45 +189,43 @@ Overall, in AB the {{PAGENAME}}'s efficiency depends on a lot of factors outside
 
 '''Notable enemies'''
 
-- Proximity missile carriers: avoid gaining attention of the [[M3A3 Bradley]], [[CM25]] and the [[Dardo]] since their missiles can explode in proximity of enemy tanks and the {{PAGENAME}}'s armour is too thin to survive overpressure damage. Locate and destroy them immediately, if you can, or run very far away, as simple cover of a hill or a wall won't save against them. If forced to fight them head-on (preferable in AB only): ensure that your launcher is fully loaded, position yourself as far away from them as possible and put the hull low behind cover to avoid being obliterated by a gun, but high enough to be visible. Natural reaction to this for most such light tanks is to start spamming ATGMs at you, this is where the 3-shot magazine of the ZT3A2 comes into play. Since proximity missiles have the tendency to react to anything they fly next to, your answer should be firing a missile of your own. Once they are out of ammo, drop the third shot straight into their turret or run.
+* Proximity missile carriers: avoid gaining attention of the [[M3A3 Bradley]], [[CM25]] and the [[Dardo]] since their missiles can explode in proximity of enemy tanks and the {{PAGENAME}}'s armour is too thin to survive overpressure damage. Locate and destroy them immediately, if you can, or run very far away, as simple cover of a hill or a wall won't save against them. If forced to fight them head-on (preferable in AB only): ensure that your launcher is fully loaded, position yourself as far away from them as possible and put the hull low behind cover to avoid being obliterated by a gun, but high enough to be visible. Natural reaction to this for most such light tanks is to start spamming ATGMs at you, this is where the 3-shot magazine of the ZT3A2 comes into play. Since proximity missiles have the tendency to react to anything they fly next to, your answer should be firing a missile of your own. Once they are out of ammo, drop the third shot straight into their turret or run.
 
-- Wheeled light tanks: the ZT3A2 is on average two times slower than light tanks on wheels at the same rank due to its negligible offroad speed, as it averages at a speed of a fast medium tank or slower light tanks even with the best player effort. It is too likely to meet a player, that can and will fire their guns while driving at a full 90+ km/h, but maybe you will be able to do an emergency stop and destroy them (or at least destroy eachother). It is even more likely to meet 4 of such tanks already standing next to a capture point that you were intending to attack, so don't be overconfident and be careful with rushing attacks into capture points with lots of low cover (which the ZT3A2 can't use as it's too tall). Do not act as if you are the only person who can rush, as otherwise the ZT3A2 will get gunned down before even doing anything, since it can't fire on the move.
+* Wheeled light tanks: the ZT3A2 is on average two times slower than light tanks on wheels at the same rank due to its negligible offroad speed, as it averages at a speed of a fast medium tank or slower light tanks even with the best player effort. It is too likely to meet a player, that can and will fire their guns while driving at a full 90+ km/h, but maybe you will be able to do an emergency stop and destroy them (or at least destroy eachother). It is even more likely to meet 4 of such tanks already standing next to a capture point that you were intending to attack, so don't be overconfident and be careful with rushing attacks into capture points with lots of low cover (which the ZT3A2 can't use as it's too tall). Do not act as if you are the only person who can rush, as otherwise the ZT3A2 will get gunned down before even doing anything, since it can't fire on the move.
 
-- [[XM-1 (GM)]]: this tank has NERA screen in the turret, and is as fast as a light tank. Try to hit it in the hull or at least angle the missile down before it lands on the turret, if you use the default missile. Tandem missile should be able to penetrate it regardless. Avoid engaging it directly, as it has way too many machine guns.
+* [[XM-1 (GM)]]: this tank has NERA screen in the turret, and is as fast as a light tank. Try to hit it in the hull or at least angle the missile down before it lands on the turret, if you use the default missile. Tandem missile should be able to penetrate it regardless. Avoid engaging it directly, as it has way too many machine guns.
 
-- [[IT-1]]: This tank is more dangerous than it seems, as it can fire on the move and is difficult to hit. Try to not park next to trees or walls when fighting it to avoid being overpressured. Fortunately, due to the insane overpressure damage of the ZT3A2, it is possible to destroy IT-1 by hitting its missile or the fake panel on the turret's front that allows it to reload, as it's only 25 mm thick. Therefore, it's best to attack when IT-1 is about to reload - since their missile rack does not explode from damage, they are often very arrogant and are unlikely to try and dodge your shot, instead they will move in to fire. Another opportunity to hit them is to fight them over a hill and abuse strong vertical drives of your missiles to hit them as they retreat, but it's less feasible in RB/SB.
+* [[IT-1]]: This tank is more dangerous than it seems, as it can fire on the move and is difficult to hit. Try to not park next to trees or walls when fighting it to avoid being overpressured. Fortunately, due to the insane overpressure damage of the ZT3A2, it is possible to destroy IT-1 by hitting its missile or the fake panel on the turret's front that allows it to reload, as it's only 25 mm thick. Therefore, it's best to attack when IT-1 is about to reload - since their missile rack does not explode from damage, they are often very arrogant and are unlikely to try and dodge your shot, instead they will move in to fire. Another opportunity to hit them is to fight them over a hill and abuse strong vertical drives of your missiles to hit them as they retreat, but it's less feasible in RB/SB.
 
-\*[[T-55AMD-1]]: this tank is annoying, as if it is looking in your direction, this means that it can shoot down your ATGM with its active protection system. There are at least 2 guns with 2 shots each covering each 20 degrees in front of the turret. Fortunately, the protection arc is quite narrow, its reaction time is not great, it seems to not understand if there are multiple missiles flying after one another, and there are blind spots on the lower half. Generally, the system shoots down missiles high in the sky, but fails to hit missiles that go along the ground, and it will fail to stop any missiles suddenly appearing from behind an obstacle (for example, if the tank doesn't fully expose the turret over a hill). To straight up obliterate it frontally, launch at least two missiles and guide them to a single side of the tank to overload APS (do not shake them horizontally or APS on both sides of the turret might fire) and crush the tank.
+*[[T-55AMD-1]]: this tank is annoying, as if it is looking in your direction, this means that it can shoot down your ATGM with its active protection system. There are at least 2 guns with 2 shots each covering each 20 degrees in front of the turret. Fortunately, the protection arc is quite narrow, its reaction time is not great, it seems to not understand if there are multiple missiles flying after one another, and there are blind spots on the lower half. Generally, the system shoots down missiles high in the sky, but fails to hit missiles that go along the ground, and it will fail to stop any missiles suddenly appearing from behind an obstacle (for example, if the tank doesn't fully expose the turret over a hill). To straight up obliterate it frontally, launch at least two missiles and guide them to a single side of the tank to overload APS (do not shake them horizontally or APS on both sides of the turret might fire) and crush the tank.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Is able to use tandem missiles, which penetrate ERA at almost any angle of attack and also have a chance of penetrating the [[IPM1]]'s turret frontally if user controls them well
-- Missiles can cause overpressure damage through more armour than normal HEAT ATGM, meaning it's possible to destroy tanks by hitting their cupolas, even if they try to avoid fighting you
-- Has a three-shot launcher, which is a step down from the [[Striker]], but it can guide all three missiles simultaniously
-- Missiles are immune to jammers
-- Can relocate fast on maps with a lot of paved roads after having researched mobility upgrades and often can get to the advantageous position in the beginning of the match before being sniped
-- Missiles have reasonable vertical mobility, though this is often irrelevant in RB due to mediocre camera depression
-- While clumsy, the {{PAGENAME}}'s chassis are able to climb at very sharp angles (60-70 degree inclination even when stock in AB) and it can get on top of certain objects the [[Striker]] or other ATGM tanks would not be able to climb
-- Tall profile allows it to fire directly over certain cover which other tanks normally see as a full cover or an indestructible wall, for example, destroyed building debris, cargo containers or a church, potentially surprising some enemies
+* Is able to use tandem missiles, which penetrate ERA at almost any angle of attack and also have a chance of penetrating the [[IPM1]]'s turret frontally if user controls them well
+* Missiles can cause overpressure damage through more armour than normal HEAT ATGM, meaning it's possible to destroy tanks by hitting their cupolas, even if they try to avoid fighting you 
+* Has a three-shot launcher, which is a step down from the [[Striker]], but it can guide all three missiles simultaniously
+* Missiles are immune to jammers
+* Can relocate fast on maps with a lot of paved roads after having researched mobility upgrades and often can get to the advantageous position in the beginning of the match before being sniped
+* Missiles have reasonable vertical mobility, though this is often irrelevant in RB due to mediocre camera depression
+* While clumsy, the {{PAGENAME}}'s chassis are able to climb at very sharp angles (60-70 degree inclination even when stock in AB) and it can get on top of certain objects the [[Striker]] or other ATGM tanks would not be able to climb
+* Tall profile allows it to fire directly over certain cover which other tanks normally see as a full cover or an indestructible wall, for example, destroyed building debris, cargo containers or a church, potentially surprising some enemies
 
 '''Cons:'''
 
-- Missiles do not turn well in horizontal plane and are especially unresponsive in RB
-- Vertical depression is not too great on the launcher, and missiles tend to crash into the carrier's own cover, which can limit launch options from high ground in RB or at point blank range in any mode (not as much of an issue in AB)
-- In SB, the hull must be exposed to make a direct shot and almost any responding shot to the top of the hull will destroy weapon, ammo rack, or enough crew to count as crew knockout, even a single glancing hit from [[ZSU-57-2]] may be enough. In AB/RB it still have to be careful, as any direct hit to the missiles will make them explode the carrier
-- Slow when drives offroad and in general drives more like a bus rather than a tank or a regular armoured car
-- Must make a complete stop to fire, which makes it incapable of fighting any kind of light tanks or SPAA directly
-- Missiles are only 20-40 m/s faster than MILAN and hostile ATGM tanks generally use missiles that are 2 to 5 times faster, SAM tanks can even make a very late response and still win the duel
-- Reloads only after spending all three shots (but reloads all three at once), does not automatically reload during rearm like the [[Striker]]
-- Has obsolete smoke grenades and only has one group of them
-- Too tall to drive under bridges on most maps (on some maps, cannot attack a capture point with others)
+* Missiles do not turn well in horizontal plane and are especially unresponsive in RB
+* Vertical depression is not too great on the launcher, and missiles tend to crash into the carrier's own cover, which can limit launch options from high ground in RB or at point blank range in any mode (not as much of an issue in AB)
+* In SB, the hull must be exposed to make a direct shot and almost any responding shot to the top of the hull will destroy weapon, ammo rack, or enough crew to count as crew knockout, even a single glancing hit from [[ZSU-57-2]] may be enough. In AB/RB it still have to be careful, as any direct hit to the missiles will make them explode the carrier
+* Slow when drives offroad and in general drives more like a bus rather than a tank or a regular armoured car
+* Must make a complete stop to fire, which makes it incapable of fighting any kind of light tanks or SPAA directly
+* Missiles are only 20-40 m/s faster than MILAN and hostile ATGM tanks generally use missiles that are 2 to 5 times faster, SAM tanks can even make a very late response and still win the duel
+* Reloads only after spending all three shots (but reloads all three at once), does not automatically reload during rearm like the [[Striker]]
+* Has obsolete smoke grenades and only has one group of them
+* Too tall to drive under bridges on most maps (on some maps, cannot attack a capture point with others)
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 === [[wt:en/news/7059-development-ratel-zt3-a2-the-sharpshooting-honey-badger-en|Devblog]] ===
@@ -249,17 +233,15 @@ In the early 1960s, the South African military already identified the need for a
 
 Being a wire-guided missile, the MILAN's control wire had a tendency to get caught up in the thick African bush and get severed, causing the missile to go off target and making engaging moving targets even more challenging. As a result, the decision was made to procure a laser-guided missile. However, as international arms embargoes were imposed on South Africa, simply acquiring an existing weapon off the export market wasn't possible. Therefore, South African engineers at the Kentron company went about designing their own laser-guided ATGM in the late 1970s.
 
-The result of this undertaking was the creation of the ZT3 missile system. By the time the ZT3 system had been ready for production in 1986, plans were being drawn up for a modified Ratel 20 housing the newly developed ZT3 missile launcher in a modified Ratel 60 turret. The modified Ratel with the ZT3 missile system was developed in order to supplement the Ratel 90s in anti-tank operations as the latter often struggled to engage heavy armour in direct combat.
+The result of this undertaking was the creation of the ZT3 missile system. By the time the ZT3 system had been ready for production in 1986, plans were being drawn up for a modified Ratel 20 housing the newly developed ZT3 missile launcher in a modified  Ratel 60 turret. The modified Ratel with the ZT3 missile system was developed in order to supplement the Ratel 90s in anti-tank operations as the latter often struggled to engage heavy armour in direct combat.
 
 The Ratel ZT3-A1 entered production in 1987 and around 90vehicles of the type had been built by 1993. The ZT3-A2 was introduced in 2008 and continues its successful operation with SANDF units till the present day.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_ratel_zt3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_ratel_zt3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="150">
@@ -273,20 +255,18 @@ File:Ratel ZT3-A2 WTWallpaper 07.jpg|
 </gallery>
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[Ratel (Family)]]
+* [[Ratel (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/7059-development-ratel-zt3-a2-the-sharpshooting-honey-badger-en|[Devblog] Ratel ZT3-A2 - The Sharpshooting Honey Badger]]
+* [[wt:en/news/7059-development-ratel-zt3-a2-the-sharpshooting-honey-badger-en|[Devblog] Ratel ZT3-A2 - The Sharpshooting Honey Badger]]
 
 {{TankManufacturer Sandock-Austral}}
 {{Britain tank destroyers}}

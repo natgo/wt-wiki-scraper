@@ -4,17 +4,13 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-rating}}. It was introduced in [[Update "Starfighters"]]. The last aircraft ever produced by the famous Supermarine company, the Scimitar is a heavy but very powerful carrier-borne fighter. Its two immensely powerful engines make it just about the fastest subsonic aircraft in the game, however its interesting handling characteristics can make it an interesting challenge to fly. As well as being a powerful fighter, the Scimitar has excellent ground attack capability, and is the first British aircraft (second being the Buccaneer} capable of carrying air-to-ground missiles.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 [[File:Rudder Demonstration .png|thumb|''Full left yaw at 1,000 km/h'']]
 The Scimitar F.1 is a relatively large and heavy aircraft, but it is still extremely capable because of its impressive engines. The Scimitar's two Rolls-Royce Avon 202 engines put out 4,650 kgf of thrust each, giving the Scimitar its fantastic climb rate of over 100 m/s. This outclasses similarly placed jets known for their climb rate (such as the [[MiG-15]]) by almost 2 times, and it's capable of gaining speed in a 45° climb. The impressive amount of power means that, assuming you aren't uptiered to 9.7, you will always be the first off the airfield and into combat. The Scimitar has a max speed of just over 1,160 km/h or mach 0.95 on the deck, enough to outrun anything at its BR, and even some missiles too.
 
@@ -47,7 +43,7 @@ However, we now come to the biggest con of the Scimitar: its rudder. The rudder 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || ✓ || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || X     <!-- ✓ -->
 |-
 |}
 
@@ -113,9 +109,7 @@ However, we now come to the biggest con of the Scimitar: its rudder. The rudder 
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 The Scimitar has one glass 50 mm plate in front of the pilot, and one 12.7 mm steel plate behind the pilot. It has very low survivability because any wing damage will lead to a flatspin, due to its lack of rudder control.
 
 === Modifications and economy ===
@@ -129,36 +123,31 @@ If you find unlocking modifications difficult due to the lack of rudder control 
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|ADEN (30 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 30 mm ADEN cannons, chin-mounted (160 rpg = 640 total)
+* 4 x 30 mm ADEN cannons, chin-mounted (160 rpg = 640 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|M.C. 1,000 lb Mk.I (1,000 lb)|AGM-12B Bullpup|AIM-9B Sidewinder|AP Mk II}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x AIM-9B Sidewinder missiles
-- 4 x 1,000 lb M.C. 1,000 lb Mk.I bombs (4,000 lb total)
-- 24 x AP Mk II rockets
-- 2 x 1,000 lb M.C. 1,000 lb Mk.I bombs + 12 x AP Mk II rockets (2,000 lb total)
-- 4 x AIM-9B Sidewinder missiles
-- 4 x AGM-12B Bullpup missiles
-- 2 x AGM-12B Bullpup missiles + 2 x AIM-9B Sidewinder missiles
-- 2 x 1,000 lb M.C. 1,000 lb Mk.I bombs + 2 x AIM-9B Sidewinder missiles (2,000 lb total)
+* Without load
+* 2 x AIM-9B Sidewinder missiles
+* 4 x 1,000 lb M.C. 1,000 lb Mk.I bombs (4,000 lb total)
+* 24 x AP Mk II rockets
+* 2 x 1,000 lb M.C. 1,000 lb Mk.I bombs + 12 x AP Mk II rockets (2,000 lb total)
+* 4 x AIM-9B Sidewinder missiles
+* 4 x AGM-12B Bullpup missiles
+* 2 x AGM-12B Bullpup missiles + 2 x AIM-9B Sidewinder missiles
+* 2 x 1,000 lb M.C. 1,000 lb Mk.I bombs + 2 x AIM-9B Sidewinder missiles (2,000 lb total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 Thanks to its very powerful engines (it has a higher total thrust output than many supersonic aircraft), the Scimitar possesses an exception rate of climb and top speed for its BR, being easily one of, if not the fastest subsonic aircraft in the game. You should use this to your advantage when playing the Scimitar. At the start of the game you can choose to either go high or go low.
@@ -170,9 +159,7 @@ Whichever playstyle you choose, the Scimitar will offer you a powerful armament 
 Despite these advantages the Scimitar does have some major drawbacks, mainly related to manoeuvrability. While it can turn better than you would expect for an aircraft of its weight, it is by no means a nimble aircraft and should not be treated like one; prolonged turning engagements should be a last resort. The key drawback of the Scimitar is its poor rudder response at high speed, this can make getting guns on target difficult, and leaves you relying more on your decidedly average [[AIM-9B]] missiles for kills. The Scimitar also does not pull negative Gs particularly well at high speed.
 
 ===Radars===
-
 <!--{{main|AN/APG-30}}-->
-
 The Scimitar F Mk.1 is equipped with an AN/APG-30 rangefinding radar, located in the nose of the aircraft.
 It will automatically detect other planes within the scanning area and display the range to the closest target. It is linked with a gyro gunsight and can help with aiming at close range.
 
@@ -189,31 +176,28 @@ It will automatically detect other planes within the scanning area and display t
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Possibly the fastest subsonic jet currently in the game at its battle rating, reaching 1,161 km/h (Mach 0.95) in level flight at sea level
-- Has very good acceleration
-- Has four ADEN cannons, which are some of the best guns in the game
-- Lots of cannon ammo
-- Has good ground attack capability thanks to its air-to-ground missiles
-- Can utilise four air-to-air missiles ([[AIM-9B]])
-- It is extremely difficult to break the wings by pulling positive Gs, generally wing breakage in the Scimitar only occurs when pulling negative Gs
-- Capable of landing on carriers
+* Possibly the fastest subsonic jet currently in the game at its battle rating, reaching 1,161 km/h (Mach 0.95) in level flight at sea level
+* Has very good acceleration
+* Has four ADEN cannons, which are some of the best guns in the game
+* Lots of cannon ammo
+* Has good ground attack capability thanks to its air-to-ground missiles
+* Can utilise four air-to-air missiles ([[AIM-9B]])
+* It is extremely difficult to break the wings by pulling positive Gs, generally wing breakage in the Scimitar only occurs when pulling negative Gs
+* Capable of landing on carriers
 
 '''Cons:'''
 
-- Cannot make good use of its speed in turns as the rudder severely locks up at even moderately high speeds
-- Combination of poor rudder control and gun placement can make getting guns on target extremely hard
-- Does not turn very well
-- Asymmetric wing damage is liable to cause a non-recoverable flat spin
+* Cannot make good use of its speed in turns as the rudder severely locks up at even moderately high speeds
+* Combination of poor rudder control and gun placement can make getting guns on target extremely hard
+* Does not turn very well
+* Asymmetric wing damage is liable to cause a non-recoverable flat spin
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 '''Development and Operation'''
 
 The Supermarine Scimitar was a naval strike aircraft with a limited production run for the Royal Navy's Fleet Air Arm. The Navy's specifications required the aircraft to be effective in a strike-fighter/attacker role which consisted of proficient manoeuvrability at low altitudes and plenty of ordnance options for ground attack operations. Issues with the desired handling became apparent quickly as it was the heaviest aircraft to see service for the Fleet Air Arm; weighing 34,200 lb even before being equipped with four 1,000 lb bombs or AGM-34 bullpup missile configurations. Nuclear capability was also planned for the aircraft through the use of a Red Beard nuclear bomb was uncertain and never fully realised.<ref name=":0">https://www.tangmere-museum.org.uk/aircraft-month/supermarine-scimitar</ref>
@@ -238,12 +222,11 @@ The Scimitar entered service with the Fleet Air Arm in 1957. However, the carrie
 As a result, the Supermarine Scimitar only had a relatively short service career with the FAA, which withdrew the Scimitar from active service in 1966. From that point, the Scimitar was relegated to training units and continued being used as a training aircraft until 1970 before being ultimately decommissioned from active service. In total, 76 Scimitars were built during their limited production run, of which 39 were lost on account of various accidents.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=scimitar_f1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=scimitar_f1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="150">
@@ -260,25 +243,23 @@ File:Scimitar F.1 WTWallpaper 07.jpg|
 {{Youtube-gallery|MPdcryL47sk|'''The Shooting Range #205''' - ''Metal Beasts'' section at 00:28 discusses the Scimitar F Mk.1.|Re9b5M2QFeE|'''The Shaky MONSTER! Scimitar F.1 - Great Britain - Review!''' - ''Jengar''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[Hunter (Family)]]
-- [[Swift F.7]]
-- [[F3H-2]]
-- [[F9F-8]]
-- [[FJ-4B]]/[[FJ-4B VMF-232]]
+* [[Hunter (Family)]]
+* [[Swift F.7]]
+* [[F3H-2]]
+* [[F9F-8]]
+* [[FJ-4B]]/[[FJ-4B VMF-232]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6730-development-scimitar-f-1-the-twin-engine-beast-en|[Devblog] Scimitar F.1: The Twin Engine Beast]]
-- [https://forum.warthunder.com/index.php?/topic/488374-scimitar-f1/ Official data sheet - more details about the performance]
+* [[wt:en/news/6730-development-scimitar-f-1-the-twin-engine-beast-en|[Devblog] Scimitar F.1: The Twin Engine Beast]]
+* [https://forum.warthunder.com/index.php?/topic/488374-scimitar-f1/ Official data sheet - more details about the performance]
 
 === References ===
 <references />

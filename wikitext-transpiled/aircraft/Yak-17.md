@@ -4,9 +4,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet jet fighter {{Battle-rating}}. It was introduced in [[Update 1.33]].
 
 Similar to its hybrid predecessors, the Yak-17 is arguably one of the most underestimated aircraft in the game. Although its stat card reveals what would be considered "sub-par" performance and armament, the Yak-17 is both a unique and deadly fighter. Unlike its propeller-driven counterparts, this first generation jet aircraft wields the ability to hold on to energy in a straight line, whereas prop aircraft will slowly lose speed. This, coupled with its good rate of turn, allows the Yak-17 to defend itself against both propeller and jet-powered aircraft, which is what it will normally face in all game modes.
@@ -16,7 +14,6 @@ The Yak-17's major faults include a low top speed, poor acceleration, little arm
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -44,7 +41,7 @@ The Yak-17's major faults include a low top speed, poor acceleration, little arm
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || X || ✓ || X || X || X <!-- ✓ -->
+| X || X || ✓ || X || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -110,11 +107,9 @@ The Yak-17's major faults include a low top speed, poor acceleration, little arm
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
-- 55 mm Bulletproof glass in cockpit front.
-- 8.5 mm Steel plate in pilot's seat.
+* 55 mm Bulletproof glass in cockpit front.
+* 8.5 mm Steel plate in pilot's seat.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -125,19 +120,15 @@ Obtaining the "Offensive 23 mm" modification is the best choice for your first m
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|NS-23 (23 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 23 mm NS-23 cannons, nose-mounted (60 rpg = 120 total)
+* 2 x 23 mm NS-23 cannons, nose-mounted (60 rpg = 120 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 === Arcade Battles ===
 In Arcade battles, the Yak-17 is capable of breaking up a "furball" due to its impressive turn time. This, coupled with its hard-hitting cannons, makes any Yak-17 pilot an indispensable asset to any arcade team.
 
@@ -154,52 +145,45 @@ To use the cannons most effectively, only fire when you are close to your target
 With some practice, it is possible to consistently get 3 fighter kills with one load of ammunition in realistic battles. Using the Air Targets belt is the most effective. However, attacking bombers is best left to other planes with more firepower, since the Yak-17 does not have the firepower or ammunition to reliably kill heavy bombers without sustaining heavy damage. Heavy fighters such as the [[F7F-1]] may also take longer to destroy than other fighters.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
-
-- Excellent turn time for a jet fighter
-- Good armament
-- Very good roll rate
-- Fairly responsive at higher speeds
+* Excellent turn time for a jet fighter
+* Good armament
+* Very good roll rate
+* Fairly responsive at higher speeds
 
 '''Cons:'''
-
-- Slow compared to other jet fighters in BR
-- Low ammunition count
-- Poor rate of climb
-- Poor acceleration
-- Minimal armour protection
-- Inability to carry a payload
+* Slow compared to other jet fighters in BR
+* Low ammunition count
+* Poor rate of climb
+* Poor acceleration
+* Minimal armour protection
+* Inability to carry a payload
 
 == History ==
 ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=yak-17 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=yak-17 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|zfACMogNw7w|War Thunder Realistic: Yak-17 [Extreme!]}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/320876-yakovlev-yak-17/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/320876-yakovlev-yak-17/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Yakovlev}}
 {{USSR jet aircraft}}

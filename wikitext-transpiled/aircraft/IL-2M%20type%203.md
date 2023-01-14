@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet strike aircraft {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
 The IL-2M type 3 is an improved version of the famous "Sturmovik" ground attack aircraft. It featured an "arrow wing" design, possessed leading edges that were swept back 15 degrees on the outer panels, giving it a better manoeuvrability and aerodynamic characteristics.
@@ -19,7 +17,6 @@ The IL-2M type 3 is an improved version of the famous "Sturmovik" ground attack 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -48,7 +45,7 @@ While the IL-2M type 3 is still very slow in straight line like the other IL-2s,
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -80,18 +77,18 @@ While the IL-2M type 3 is still very slow in straight line like the other IL-2s,
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 
-- 4 mm steel surrounding engine and frontal fuel tank
-- 4 mm steel above pilot
-- 5 mm steel underneath rear fuel tanks
-- 6 mm steel surrounding pilot
-- 6 mm steel underneath belly oil cooling system
-- 6 mm steel in front of gunner\*
-- 6 mm steel disc behind propeller spinner
-- 12 mm steel behind gunner\*
-- 64 mm bulletproof glass in front of pilot
-- Self-sealing fuel tanks, with neutral gas pressurization system (1 in front of pilot's feet, 1 under pilot, 1 behind gunner\*)
+* 4 mm steel surrounding engine and frontal fuel tank
+* 4 mm steel above pilot
+* 5 mm steel underneath rear fuel tanks
+* 6 mm steel surrounding pilot
+* 6 mm steel underneath belly oil cooling system
+* 6 mm steel in front of gunner*
+* 6 mm steel disc behind propeller spinner
+* 12 mm steel behind gunner*
+* 64 mm bulletproof glass in front of pilot
+* Self-sealing fuel tanks, with neutral gas pressurization system (1 in front of pilot's feet, 1 under pilot, 1 behind gunner*)
 
-<nowiki>\*</nowiki>Note that the gunner is rear-facing
+<nowiki>*</nowiki>Note that the gunner is rear-facing
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -100,61 +97,54 @@ While the IL-2M type 3 is still very slow in straight line like the other IL-2s,
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|VYa-23 (23 mm)|ShKAS (7.62 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 23 mm VYa-23 cannons, wing-mounted (150 rpg = 300 total)
-- 2 x 7.62 mm ShKAS machine guns, wing-mounted (750 rpg = 1,500 total)
+* 2 x 23 mm VYa-23 cannons, wing-mounted (150 rpg = 300 total)
+* 2 x 7.62 mm ShKAS machine guns, wing-mounted (750 rpg = 1,500 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AO-25M-1 (25 kg)|FAB-50 (50 kg)|FAB-100 (100 kg)|FAB-250M43 (250 kg)}}
 {{main|RS-82|RBS-82|RS-132|RBS-132}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 12 x 25 kg AO-25M-1 bombs (300 kg total)
-- 4 x 50 kg FAB-50 bombs (200 kg total)
-- 4 x 100 kg FAB-100 bombs (400 kg total)
-- 4 x RS-82 rockets
-- 4 x RBS-82 rockets
-- 12 x 25 kg AO-25M-1 bombs + 4 x RS-82 rockets (300 kg total)
-- 12 x 25 kg AO-25M-1 bombs + 4 x RBS-82 rockets (300 kg total)
-- 4 x 50 kg FAB-50 bombs + 4 x RS-82 rockets (200 kg total)
-- 4 x 50 kg FAB-50 bombs + 4 x RBS-82 rockets (200 kg total)
-- 4 x 100 kg FAB-100 bombs + 4 x RS-82 rockets (400 kg total)
-- 4 x 100 kg FAB-100 bombs + 4 x RBS-82 rockets (400 kg total)
-- 2 x 250 kg FAB-250M43 bombs (500 kg total)
-- 4 x RS-132 rockets
-- 4 x RBS-132 rockets
-- 12 x 25 kg AO-25M-1 bombs + 4 x RS-132 rockets (300 kg total)
-- 12 x 25 kg AO-25M-1 bombs + 4 x RBS-132 rockets (300 kg total)
-- 4 x 50 kg FAB-50 bombs + 4 x RS-132 rockets (200 kg total)
-- 4 x 50 kg FAB-50 bombs + 4 x RBS-132 rockets (200 kg total)
-- 4 x 100 kg FAB-100 bombs + 4 x RS-132 rockets (400 kg total)
-- 4 x 100 kg FAB-100 bombs + 4 x RBS-132 rockets (400 kg total)
+* Without load
+* 12 x 25 kg AO-25M-1 bombs (300 kg total)
+* 4 x 50 kg FAB-50 bombs (200 kg total)
+* 4 x 100 kg FAB-100 bombs (400 kg total)
+* 4 x RS-82 rockets
+* 4 x RBS-82 rockets
+* 12 x 25 kg AO-25M-1 bombs + 4 x RS-82 rockets (300 kg total)
+* 12 x 25 kg AO-25M-1 bombs + 4 x RBS-82 rockets (300 kg total)
+* 4 x 50 kg FAB-50 bombs + 4 x RS-82 rockets (200 kg total)
+* 4 x 50 kg FAB-50 bombs + 4 x RBS-82 rockets (200 kg total)
+* 4 x 100 kg FAB-100 bombs + 4 x RS-82 rockets (400 kg total)
+* 4 x 100 kg FAB-100 bombs + 4 x RBS-82 rockets (400 kg total)
+* 2 x 250 kg FAB-250M43 bombs (500 kg total)
+* 4 x RS-132 rockets
+* 4 x RBS-132 rockets
+* 12 x 25 kg AO-25M-1 bombs + 4 x RS-132 rockets (300 kg total)
+* 12 x 25 kg AO-25M-1 bombs + 4 x RBS-132 rockets (300 kg total)
+* 4 x 50 kg FAB-50 bombs + 4 x RS-132 rockets (200 kg total)
+* 4 x 50 kg FAB-50 bombs + 4 x RBS-132 rockets (200 kg total)
+* 4 x 100 kg FAB-100 bombs + 4 x RS-132 rockets (400 kg total)
+* 4 x 100 kg FAB-100 bombs + 4 x RBS-132 rockets (400 kg total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|Berezin UB (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 1 x 12.7 mm Berezin UB machine gun, dorsal turret (150 rpg)
+* 1 x 12.7 mm Berezin UB machine gun, dorsal turret (150 rpg)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The IL-2M type 3 is an attacker which excels at low altitude. You'll be flying close to the ground in order to hit your targets with your cannons and machine guns, so watch for obstacles and use the IL-2's phenomenal low-speed performance and tight turning circle to get out of harm's way, though beware of the mediocre roll rate and the weak acceleration. Give yourself time to build up a good amount of speed before going for another attack, otherwise, you'll struggle to climb away. Make note of what targets you can eliminate: light pillboxes can be destroyed by your cannons, and even extended MG fire from your 7.62 mm guns, but other pillboxes will be impossible to destroy with your guns, and bombs will need a direct hit. Likewise, light tanks and armoured cars can be destroyed with your guns, but medium tanks will need to be hit from the top or rear to penetrate the thicker armour, and heavy tanks are invulnerable unless you land a direct bomb or rocket hit.
@@ -179,25 +169,22 @@ The most interesting additions of the IL-2M type 3 is the wing redesign. An addi
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
-
-- Numerous payload arrangements (24) including bombs and rockets of varying size, flexible ground attack options
-- Sturdy airframe as with other versions of IL-2s
-- Strong protection surrounds the pilot and engine
-- Powerful 23 mm VYa cannons allows it to tackle any kinds of targets
-- Redesigned wings with combat flaps significantly improve its turn rate, especially at higher speeds
-- Rear gunner is equipped with a powerful 12.7 mm Berezin MG to ward off any chasers
+* Numerous payload arrangements (24) including bombs and rockets of varying size, flexible ground attack options
+* Sturdy airframe as with other versions of IL-2s
+* Strong protection surrounds the pilot and engine
+* Powerful 23 mm VYa cannons allows it to tackle any kinds of targets
+* Redesigned wings with combat flaps significantly improve its turn rate, especially at higher speeds
+* Rear gunner is equipped with a powerful 12.7 mm Berezin MG to ward off any chasers
 
 '''Cons:'''
-
-- Awfully slow top speed
-- Heavy plane; horrible climb rate and sluggish acceleration
-- Poor energy retention
-- Tail section blocked most of rear gunner's firing range
-- Rear gunner carries very limited ammunition
+* Awfully slow top speed
+* Heavy plane; horrible climb rate and sluggish acceleration
+* Poor energy retention
+* Tail section blocked most of rear gunner's firing range
+* Rear gunner carries very limited ammunition
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
@@ -210,26 +197,22 @@ Once the prototype was tested, all test pilots concluded that flight performance
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=il-2m Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=il-2m Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!--''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.''-->
 
-- [https://forum.warthunder.com/index.php?/topic/195739-ilyushin-il-2m-mstitel-34avenger34/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/195739-ilyushin-il-2m-mstitel-34avenger34/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Ilyushin}}
 {{USSR attackers}}

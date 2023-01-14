@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' (or just '''{{Specs|pseudonym}}''') is a premium rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced in [[Update 1.59 "Flaming Arrows"]]. Equipped with four 152 mm [[RP-3]] rockets with a relatively straight trajectory, the Cromwell RP-3 could be played with more precision than its other rocket-bearing contemporaries like the [[Calliope|T34 Calliope]].
 
 The Cromwell RP-3 is very similar to the [[Cromwell V]] in terms of armour, mobility, and armament. The 75 mm gun can help do damage to tanks of the same class like the [[Pz.IV F2|Panzer IV]], using its speed to get to an angle to hit the weaker points of the enemy tanks. However, the Cromwell RP-3 is equipped with four rockets on the turret. Unlike its contemporaries, which often has the rockets on racks above the turret, the rocket integrated on the turret allows for better aiming with the rockets in-game than the others. In the range of around 500 m, the rockets can be aimed by use of the gun's aiming sight. Though practice is needed to get the feel of the rocket's landing point, this is a lot better than simply lobbing rockets after rockets in hope that one will hit.
@@ -19,12 +17,10 @@ The Cromwell RP-3 is very similar to the [[Cromwell V]] in terms of armour, mobi
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
-\*Rolled homogeneous armour
+*Rolled homogeneous armour
 
 {| class="wikitable"
 |-
@@ -37,12 +33,11 @@ The Cromwell RP-3 is very similar to the [[Cromwell V]] in terms of armour, mobi
 |}
 '''Notes:'''
 
-- Suspension wheels and tracks are 20 mm thick.
-- Rocket racks on the turret are 25 mm thick gun steel.
+* Suspension wheels and tracks are 20 mm thick.
+* Rocket racks on the turret are 25 mm thick gun steel.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=930|rbMinHp=531}}
@@ -54,9 +49,7 @@ The Cromwell RP-3 is very similar to the [[Cromwell V]] in terms of armour, mobi
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|OQF Mk.V (75 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -130,9 +123,7 @@ The Cromwell RP-3 is very similar to the [[Cromwell V]] in terms of armour, mobi
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Cromwell_V.png|right|thumb|x250px|[[Ammo racks]] of the [[Cromwell V]]]]
-
 <!-- '''Last updated: 2.3.0.83''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -166,9 +157,7 @@ The Cromwell RP-3 is very similar to the [[Cromwell V]] in terms of armour, mobi
 
 === Additional armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Some tanks are armed with several guns in one or more turrets. Evaluate the additional weaponry and give advice on its use. Describe the ammunition available for additional weaponry. Give advice on about how to use them and how to fill the ammunition storage. If there is no additional weaponry remove this subsection.'' -->
-
 {{main|RP-3}}
 
 {| class="wikitable" style="text-align:center"
@@ -214,9 +203,7 @@ The Cromwell RP-3 is very similar to the [[Cromwell V]] in terms of armour, mobi
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}_Rockets.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 1.101.1.14''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -227,14 +214,12 @@ The Cromwell RP-3 is very similar to the [[Cromwell V]] in terms of armour, mobi
 |}
 '''Notes''':
 
-- The rockets are listed from R1 to R4.
-- It is not possible to select how many rockets to bring into battle.
+* The rockets are listed from R1 to R4.
+* It is not possible to select how many rockets to bring into battle.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|BESA (7.92 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -248,7 +233,6 @@ The Cromwell RP-3 is very similar to the [[Cromwell V]] in terms of armour, mobi
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The Cromwell RP-3 should not fight tanks in a head-on battle due to the relatively unsloped frontal armour. As such, the mobility of the Cromwell should be exploited to get to the blind spots of an enemy tank and fire at them from there with the 75 mm gun or the rockets.
@@ -260,37 +244,35 @@ Once upgraded, the Cromwell's turret rotation is one of the best for the rank, o
 The downside to this tank is its thin hull armour, especially on the sides. Everything on the map can penetrate the Cromwell hull, even from the front. This includes SPAAs, who will easily tear the Cromwell apart, especially the [[Wirbelwind]] that will do so at almost all ranges typically encountered and any angle. The Cromwell's turret is somewhat better off, with just over 60 mm on the front and sides, but the flat plates are easily penetrated by any type of shell. The closely packed interior means it's a one-hit-to-burn design for anything with a 75 mm, and at 3.3 BR these will be on almost all tanks you face. Keep moving! If you take a shot or get shot at, re-position, don't ever try to fight it out. You're so much faster and more manoeuvrable than anything you meet that you can almost always find a better location to go after any target. Just don't try to reverse; it's single reverse gear gets you 2 mph (3 km/h), meaning you're likely better off spinning in place and then driving away.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Very fast for a medium tank
-- Great overall mobility
-- 75 mm is a good gun in lower rank games
-- RP-3 rockets are able to destroy enemy tanks at long ranges
-- RP-3 rockets can be very accurate when learned how to use them effectively
-- Above 2 combined make it excellent for seizing zones and destroying the lighter tanks from other nations that are usually the first there
-- With judicious use you can often end up with the most formidable tank in a lower ranked game
-- Great armour if angled
-- Armour is able to withstand powerful rounds at long distances
-- Very good reload time, pending crew skill and experience
+* Very fast for a medium tank
+* Great overall mobility
+* 75 mm is a good gun in lower rank games
+* RP-3 rockets are able to destroy enemy tanks at long ranges
+* RP-3 rockets can be very accurate when learned how to use them effectively
+* Above 2 combined make it excellent for seizing zones and destroying the lighter tanks from other nations that are usually the first there
+* With judicious use you can often end up with the most formidable tank in a lower ranked game
+* Great armour if angled
+* Armour is able to withstand powerful rounds at long distances
+* Very good reload time, pending crew skill and experience
 
 '''Cons:'''
 
-- Very slow reverse speed
-- Lacks rounds with explosive filler
-- Sensitive steering in forward gears; very prone to fishtailing and spinning out
-- Boxy, vertical armour on hull and turret makes angling critical
-- Relatively thin armour on roof/sides that can be penetrated by autocannons or heavy machine guns
-- Has no anti-aircraft protection
-- Can take some time to learn how to use it effectively
-- Rockets can be hard to aim at first
-- Rocket racks cannot be adjusted by elevation
-- RP-3s can only damage heavily armoured targets with direct hits
+* Very slow reverse speed
+* Lacks rounds with explosive filler
+* Sensitive steering in forward gears; very prone to fishtailing and spinning out
+* Boxy, vertical armour on hull and turret makes angling critical
+* Relatively thin armour on roof/sides that can be penetrated by autocannons or heavy machine guns
+* Has no anti-aircraft protection
+* Can take some time to learn how to use it effectively
+* Rockets can be hard to aim at first
+* Rocket racks cannot be adjusted by elevation
+* RP-3s can only damage heavily armoured targets with direct hits
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 ===Development===
@@ -306,38 +288,32 @@ The Cromwell's frame used a riveted construction in its initial production model
 The '''A27M Cromwell V''' was Cromwell variant that used the 75 mm gun and a welded construction, no riveting was used in the frame.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a27m_cromwell_5_rp3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a27m_cromwell_5_rp3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|Km_kV6qIoIo|'''Cromwell V (RP-3) - 10 Kills For A First Impression''' - ''Napalmratte''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
-
-- [[Cromwell (Family)]]
+* [[Cromwell (Family)]]
 
 ;Other vehicles of similar configuration and role
-
-- [[RBT-5]]
-- [[M26 T99]]
+* [[RBT-5]]
+* [[M26 T99]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/3738-development-cromwell-v-rp3-en/|[Devblog] Cromwell V RP3]]
+* [[wt:en/news/3738-development-cromwell-v-rp3-en/|[Devblog] Cromwell V RP3]]
 
 {{Britain medium tanks}}
 {{Britain premium ground vehicles}}

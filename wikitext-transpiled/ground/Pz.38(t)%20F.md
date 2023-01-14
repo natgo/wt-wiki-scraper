@@ -5,27 +5,24 @@
 }}
 {{Specs-Card
 |code=germ_pzkpfw_38t_ausf_F
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!--In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.-->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} German light tank {{Battle-rating}}. It was introduced in [[Update 1.41]].
 
-The Pz.Kpfw. 38(t) Ausf.F variant is an up-armoured version of its predecessor: the Ausf. A. Notably, armour on all sides has been doubled from 25/15/15 mm to a decent 50/30/30 mm. However, the increased armour thickness brings additional weight, making this tank a bit slower than the Ausf. A variant. The cannon remains the same, a decent, quick-firing 3,7 cm KwK38(t) L/48. The vehicle can certainly hold its ground at this BR, although usage of APCR ammo is sometimes necessary, and the cannon's damage output is sometimes lacking compared to other vehicles at this rank.
+The Pz.Kpfw. 38(t) Ausf.F variant is an up-armoured version of its predecessor: the Ausf. A.  Notably, armour on all sides has been doubled from 25/15/15 mm to a decent 50/30/30 mm. However, the increased armour thickness brings additional weight, making this tank a bit slower than the Ausf. A variant. The cannon remains the same, a decent, quick-firing 3,7 cm KwK38(t) L/48. The vehicle can certainly hold its ground at this BR, although usage of APCR ammo is sometimes necessary, and the cannon's damage output is sometimes lacking compared to other vehicles at this rank.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (hull, turret, cupola)
-- Cast homogeneous armour (gun mantlet)
+* Rolled homogeneous armour (hull, turret, cupola)
+* Cast homogeneous armour (gun mantlet)
 
 {| class="wikitable"
 |-
@@ -41,16 +38,15 @@ The Pz.Kpfw. 38(t) Ausf.F variant is an up-armoured version of its predecessor: 
 
 '''Notes:'''
 
-- Suspension wheels, tracks and torsion bars are 15 mm thick.
-- The belly of the tank is 8 mm thick
-- Add-on tracks on the front hull are 15 mm thick.
-- Mudguards are 4 mm thick.
+* Suspension wheels, tracks and torsion bars are 15 mm thick.
+* The belly of the tank is 8 mm thick
+* Add-on tracks on the front hull are 15 mm thick.
+* Mudguards are 4 mm thick.
 
 The {{PAGENAME}} has similarly bad survivability as the [[Pz.35(t)]] and [[Pz.38(t) A]], but it boasts double the front hull and turret front armour. This makes it frontally immune to many reserve-tier guns, particularly Japanese, French, and Italian ones. But while it is harder to initially penetrate, its internal components are still weak and your battle rating is also higher. Angling your hull will increase your chances of surviving a hit.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp= 194|rbMinHp= 111}}
@@ -66,9 +62,7 @@ The {{PAGENAME}} has a good mobility like the [[Pz.38(t) A]], if not slightly mo
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|KwK38(t) (37 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -88,14 +82,14 @@ The {{PAGENAME}} has a good mobility like the [[Pz.38(t) A]], if not slightly mo
 |}
 
 The KwK38(t) gun offers a below-average penetration power at its battle rating. Its average muzzle velocity allows for a rather flat firing trajectory but the accuracy drop is noticeable from 700 m distance and becomes a handicap over 1,000 m. The rotation speed of the turret is slow but average compared to other tanks at the same rank or battle rating. Elevation and depression angles of the gun are important, allowing you to fire from unusual positions (behind a ridge, on a slope, etc.). The shoulder-stop stabilizer allows for a good targeting but at very slow speed (under 8 km/h). The reload time of the gun is short, in line with other tanks equipped with a 37 mm cannon at the same BR. Your recoil is non-existent: coupled with the short reload time, this allows you to make rain shells on a target.
-The average penetration power of the APC shot and the important loss of penetration of the APCR above 500 m are the biggest weaknesses of the {{PAGENAME}} regarding its armament. This will force you to get close to enemy tanks to have a chance at penetrating them, nullifying your increased armour advantage in the process.
+The average penetration power of the APC shot and the important loss of penetration of the APCR above 500 m are the biggest weaknesses of the {{PAGENAME}} regarding its armament. This will force you to get close to enemy tanks to have a chance at penetrating them, nullifying your increased armour advantage  in the process.
 
 ==== Ammunition ====
 The ammunition available to the {{PAGENAME}} allows for engaging all types of targets:
 
-- '''Pzgr. 34(t)''': APC; a shell with explosive filler but an average penetration power. It should be the main ammunition used in battle.
-- '''PzGr 40''': APCR; a composite round with the best penetration but no explosive filler and that will only penetrate flat vertical surfaces. Pack a few of these shells to use against heavily armoured foes that the '''Pzgr. 34(t)''' can't penetrate. This round however becomes fairly ineffective above 500 m distance.
-- '''Pzgr.(t) umg.''': APC; a shell offering a penetration power similar to the '''Pzgr. 34(t)''' while being a bit faster and slightly lighter.
+* '''Pzgr. 34(t)''': APC; a shell with explosive filler but an average penetration power. It should be the main ammunition used in battle.
+* '''PzGr 40''': APCR; a composite round with the best penetration but no explosive filler and that will only penetrate flat vertical surfaces. Pack a few of these shells to use against heavily armoured foes that the '''Pzgr. 34(t)''' can't penetrate. This round however becomes fairly ineffective above 500 m distance.
+* '''Pzgr.(t) umg.''': APC; a shell offering a penetration power similar to the '''Pzgr. 34(t)''' while being a bit faster and slightly lighter.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="8" | Penetration statistics
@@ -137,9 +131,7 @@ The ammunition available to the {{PAGENAME}} allows for engaging all types of ta
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 1.101.0.44''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -156,13 +148,12 @@ The ammunition available to the {{PAGENAME}} allows for engaging all types of ta
 |}
 '''Notes''':
 
-- The visual discrepancy concerns the number of shells per rack as well as the total number of sells (72 shells modeled for 90 available).
-- Rack 1 & 2 are modeled as 16 shells each, racks 3 & 5 as 14 shells each and racks 4 &6 as 6 shells each. However, each rack will disappear after you've fired 15 shells from it.
-- Turret empty: 61&nbsp;''(+29)'' shells.
+* The visual discrepancy concerns the number of shells per rack as well as the total number of sells (72 shells modeled for 90 available).
+* Rack 1 & 2 are modeled as 16 shells each, racks 3 & 5 as 14 shells each and racks 4 &6 as 6 shells each. However, each rack will disappear after you've fired 15 shells from it.
+* Turret empty: 61&nbsp;''(+29)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' The text within these arrows are not to be deleted -->
 
 {{main|MG37(t) (7.92 mm)}}
@@ -180,7 +171,6 @@ The ammunition available to the {{PAGENAME}} allows for engaging all types of ta
 The small calibre of the MG37(t) machine gun makes it largely ineffective against all armoured vehicles but the ones with an open compartment.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The Pz.38(t) F is used in much the same way as the [[Pz.38(t) A]]. It is heavier and better armoured than its predecessor, but it still can get to ambush positions quickly. The gun is the same, but the higher battle rating pits it against better armoured threats that it cannot deal with easily, even with its APCR shell.
@@ -203,30 +193,27 @@ You should use the Pzgr. 34(t) as your main round, as it can reliably penetrate 
 
 ;Enemies worth noting
 
-- Regardless of distance, the {{PAGENAME}} will have trouble penetrating heavily armoured enemies: the [[Valentine I]], the [[B1 bis]] or [[B1 ter|ter]], the [[Matilda III]], the [[Churchill I]] and the [[M4A3 (105)]].
+* Regardless of distance, the {{PAGENAME}} will have trouble penetrating heavily armoured enemies: the [[Valentine I]], the [[B1 bis]] or [[B1 ter|ter]], the [[Matilda III]], the [[Churchill I]] and the [[M4A3 (105)]].
 
 ;How to defeat a {{PAGENAME}}
 
 In a frontal encounter, shoot right in the front plate if the {{PAGENAME}} did not angle its hull. This will knock out the gunner and the commander at least as the crew is cramped in a very tight space. If the tank is angled, aim for the base of the turret. When flanking, the plate right under the turret or the turret itself are the weakest spots.
 
 === Pros and cons ===
-
 <!--Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".-->
-
 '''Pros:'''
 
-- Decently good gun with HE-filled rounds
-- Good armour
-- High-penetration APCR shells can penetrate almost all enemies
+* Decently good gun with HE-filled rounds
+* Good armour
+* High-penetration APCR shells can penetrate almost all enemies
 
 '''Cons:'''
 
-- Slower than many tanks
-- The small crew compartment provides low survivability
-- Inadequate gun when up-tiered
+* Slower than many tanks
+* The small crew compartment provides low survivability
+* Inadequate gun when up-tiered
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 ===Development===
@@ -254,12 +241,10 @@ A modified version of the Pz.38(t) light tank designed on the basis of combat ex
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_38t_ausf_F Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_38t_ausf_F Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="200">
@@ -272,29 +257,27 @@ File:Pz.38(t) F dark grey camo.png|{{PAGENAME}} dark grey camouflage marketplace
 {{Youtube-gallery|wENCOoEK5TU|'''Panzer 38 (t) Gameplay & Review''' - ''DigitalDigging''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
 
-- [[LT-38 (Family)]]
+* [[LT-38 (Family)]]
 
 ;Other vehicles of similar configuration and role
 
-- [[A13 (Family)]]
+* [[A13 (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/3279/current|[Vehicle Profile] Pz.Kpfw. 38(t) Ausf. A & F]]
-- [[wt:en/news/735/current|[Legends] Panzerkampfwagen 38(t)]]
-- [[wikipedia:Panzer_38(t)|[Wikipedia] Panzer 38(t)]]
-- [https://tanks-encyclopedia.com/ww2/nazi_germany/panzer-38t-php <nowiki>[Tanks Encyclopedia]</nowiki> Panzerkampfwagen 38(t)]
-- [https://www.militaryfactory.com/armor/detail.asp?armor_id=273 <nowiki>[Military Factory]</nowiki> LT vz. 38 / PzKpfW 38(t) (SdKfz 140)]
+* [[wt:en/news/3279/current|[Vehicle Profile] Pz.Kpfw. 38(t) Ausf. A & F]]
+* [[wt:en/news/735/current|[Legends] Panzerkampfwagen 38(t)]]
+* [[wikipedia:Panzer_38(t)|[Wikipedia] Panzer 38(t)]]
+* [https://tanks-encyclopedia.com/ww2/nazi_germany/panzer-38t-php <nowiki>[Tanks Encyclopedia]</nowiki> Panzerkampfwagen 38(t)]
+* [https://www.militaryfactory.com/armor/detail.asp?armor_id=273 <nowiki>[Military Factory]</nowiki> LT vz. 38 / PzKpfW 38(t) (SdKfz 140)]
 
 {{Germany light tanks}}

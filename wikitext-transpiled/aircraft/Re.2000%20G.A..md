@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian fighter {{Battle-rating}}. It was introduced in [[Update 1.79 "Project X"]].
 
 The Re.2000 G.A. is a modification of the [[Re.2000 serie 1]]. The external appearance has not changed much, but it has an extra fuel tank in the fuselage, armour for the pilot, and provisions for bomb racks. The G.A.'s performance is largely the same as the serie 1 and it can be used as a fighter or fighter-bomber as needed.
@@ -19,7 +17,6 @@ The Re.2000 G.A. is a modification of the [[Re.2000 serie 1]]. The external appe
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!--''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''-->
 
 The Re.2000 G.A. has a similar empty weight to the Re.2000 serie 1. The much larger fuel capacity (by about two times) increases the maximum takeoff weight and the climb performance does suffer if full fuel is taken, but at lower fuel loads the differences are minor. The top speed is lower by a few km/h at all altitudes.
@@ -51,7 +48,7 @@ As with the serie 1, the Re.2000 is a fairly balanced jack-of-all trades fighter
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -82,12 +79,10 @@ As with the serie 1, the Re.2000 is a fairly balanced jack-of-all trades fighter
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
-- 8 mm Steel - Pilot's seat
-- 8 mm Steel - Armoured pilot's headrest
-- Self sealing fuel tanks located underneath and behind the pilot
+* 8 mm Steel - Pilot's seat
+* 8 mm Steel - Armoured pilot's headrest
+* Self sealing fuel tanks located underneath and behind the pilot
 
 The Re.2000 G.A.'s armour protection is a welcome improvement over the unarmoured serie 1. The pilot protection should be sufficient to avoid pilot-snipes from behind, but keep in mind that there is still no bulletproof glass in the cockpit canopy. In head-ons, the pilot is only protected by the large radial engine, and even that does not stop a lucky bullet from hitting the pilot's head.
 
@@ -100,34 +95,27 @@ The fuel tank in the rear fuselage behind the pilot can be ignited by bullets fr
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Breda-SAFAT (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
-
-- 2 x 12.7 mm Breda-SAFAT machine guns, nose-mounted (300 rpg = 600 total)
+* 2 x 12.7 mm Breda-SAFAT machine guns, nose-mounted (300 rpg = 600 total)
 
 The Re.2000 G.A. has typical armament for an early Italian fighter. The twin 12.7 mm heavy machine guns are underwhelming, generally considered the second worst heavy machine guns in the game. They have very poor ballistics and a mediocre rate of fire, being incapable of dealing serious damage outside of 300-400 m. Their one redeeming quality is the availability of AP-I rounds for igniting unarmoured opponents. For best results, use the Air Targets belt, engage targets at close range, and lead generously.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|GP 50 (50 kg)|GP 100 (100 kg)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
-
-- Without load
-- 2 x 50 kg GP 50 bombs (100 kg total)
-- 2 x 100 kg GP 100 bombs (200 kg total)
+* Without load
+* 2 x 50 kg GP 50 bombs (100 kg total)
+* 2 x 100 kg GP 100 bombs (200 kg total)
 
 These bombs are a main selling point of the Re.2000 G.A. The twin 50 kg bombs are very small and limited in power; they require accurate placement to even damage unarmoured targets and armoured targets practically need direct hits. The 100 kg bombs are significantly more usable and their combined blast radius is enough to not require pinpoint accuracy against armoured targets.
 
 == Usage in battles ==
-
 <!--''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''-->
 
 The Re.2000 G.A. can be used in the same way as the Re.2000 serie 1 in the air superiority role. The bomb load is not large enough to be worthwhile against ground targets or base bombing, especially since the Re.2000 G.A. does not have an airspawn, so using it as an attacker or bomber is not recommended.
@@ -164,26 +152,22 @@ After the bombs have been expended, extend away, loop around, and start climbing
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
-
-- Decent speed
-- Good climb rate
-- Agile
-- Can carry bombs
-- Decent pilot protection from behind
+* Decent speed
+* Good climb rate
+* Agile
+* Can carry bombs
+* Decent pilot protection from behind
 
 '''Cons:'''
-
-- Underwhelming firepower
-- Poor high-speed performance
-- Poor pilot protection from the front
-- Flies somewhat worse than the Re.2000 serie 1
+* Underwhelming firepower
+* Poor high-speed performance
+* Poor pilot protection from the front
+* Flies somewhat worse than the Re.2000 serie 1
 
 == History ==
-
 <!--''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''-->
 
 The [[Re.2000 serie 1|Re.2000]] "Falco I" was the Reggiane company's first successful fighter design. Taking some design notes from the Seversky P-35, the Re.2000 was a very capable design compared to other early Italian fighters like the Macchi [[C. 200 serie 3|C. 200]]. It was an all-metal aircraft like the C. 200 but boasted unique elliptical wings and sleeker aerodynamics. Overall performance was better than the earlier Italian monoplanes and it could even compete with the German Bf 109 E. The Re.2000 did have several issues as a prototype: the wing mounted fuel tanks were not self sealing and the engine was unreliable. It also flew and become operational about two years later than the C. 200 and [[G.50 serie 2|G.50]]. In light of this, the Regia Aeronautica declined to order the Re.2000 for mass production and it was largely produced for export to countries like Hungary and [[J20|Sweden]]. The Re.2000 did provide a basis for more successful aircraft, its immediate successor being the [[Re.2001 serie 1|Re.2001]] with an inline engine. A special catapult-launched variant, the "Re.2000 Cat.", holds the distinction of being the perhaps only navalised fighter used in combat by the Italian Navy in World War II.
@@ -193,34 +177,29 @@ The Re.2000 G.A. was a subvariant of the third production series of the Re.2000,
 The Re.2000's service in Italian hands was limited. Only a small number were procured by the Italian Air Force and the aircraft often experienced issues with maintenance and reliability. It did feature a long range, which was put to use in 1941 when a special long-range escort and reconnaissance unit, the "Sezione Sperimentale Reggiane", was formed. It operated out of Italy but conducted missions into North Africa. The unit was credited with only destroying one Blenheim bomber and switched to other aircraft later that year.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=re_2000_ga Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=re_2000_ga Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|W72aq0lGW20|'''(Arcade): {{PAGENAME}} - Fueled for a Fight''' - ''tx141TX''|5Ffcj34B3d8|'''Realistic: {{PAGENAME}} [Spaghetti Pop Guns!]''' - ''Jengar''}}
+{{Youtube-gallery|W72aq0lGW20|'''(Arcade): {{PAGENAME}} - Fueled for a Fight''' - ''tx141TX''|5Ffcj34B3d8|'''Realistic: {{PAGENAME}} [Spaghetti Pop Guns!]'''  - ''Jengar''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
-- [[Re.2000 (Family)]]
+* [[Re.2000 (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/414725-re-2000-ga/ Official data sheet - more details about the performance]
-- [[wikipedia:Reggiane_Re.2000|[Wikipedia] Reggiane Re.2000]]
+* [https://forum.warthunder.com/index.php?/topic/414725-re-2000-ga/ Official data sheet - more details about the performance]
+* [[wikipedia:Reggiane_Re.2000|[Wikipedia] Reggiane Re.2000]]
 
 {{AirManufacturer Reggiane}}
 {{Italy fighters}}

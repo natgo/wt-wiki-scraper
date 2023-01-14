@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=ki_61_1a_hei
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
 The "Hei" modification of the Ki-61 still retains the above average manoeuvrability, common to the Japanese aviation tree. However, the Hei Hien has some faults - its top speed is only 20 km/h higher than that of the early "Zeroes". Its climb rate is enough for its role, and it retains energy fairly well. While its acceleration holds itself pretty well, Its top speeds are not on par with other aircraft making it similar to the German [[Bf 109 G-6]]. Its guns are also a hit and miss - it is equipped with the deadly MG 151 20 mm cannons, and it can also equip German belts with Minengeschoß shells. However, the Japanese 12.7s are lower velocity and a bit on the weak side. The Hien's ammo count is average, albeit not as much as American aircraft. One thing to be noted is that the landing flaps are very effective and will slow you down even if you use WEP. That said, use them when you are trying to make somebody on your six overshoot you.
@@ -22,7 +20,6 @@ The Hei Hien's armament is flexible, as it is able to equip multiple kinds of bo
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -50,7 +47,7 @@ The Hei Hien's armament is flexible, as it is able to equip multiple kinds of bo
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -81,10 +78,9 @@ The Hei Hien's armament is flexible, as it is able to equip multiple kinds of bo
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 13 mm Steel plate behind the pilot
+* 13 mm Steel plate behind the pilot
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -95,34 +91,28 @@ Unlocking the "Offensive 20 mm" module should be a Hien pilot's first concern. T
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|MG 151 (20 mm)|Ho-103 (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 20 mm MG 151 cannons, wing-mounted (150 rpg = 300 total)
-- 2 x 12.7 mm Ho-103 machine guns, nose-mounted (400 rpg = 800 total)
+* 2 x 20 mm MG 151 cannons, wing-mounted (150 rpg = 300 total)
+* 2 x 12.7 mm Ho-103 machine guns, nose-mounted (400 rpg = 800 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|Army Type 94 GPHE (50 kg)|Army Type 94 GPHE (100 kg)|Army Type 92 GPHE (250 kg)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 50 kg Army Type 94 GPHE bombs (100 kg total)
-- 2 x 100 kg Army Type 94 GPHE bombs (200 kg total)
-- 2 x 250 kg Army Type 92 GPHE bombs (500 kg total)
+* Without load
+* 2 x 50 kg Army Type 94 GPHE bombs (100 kg total)
+* 2 x 100 kg Army Type 94 GPHE bombs (200 kg total)
+* 2 x 250 kg Army Type 92 GPHE bombs (500 kg total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 '''Realistic battles'''
 
 Instead of simply turn fighting the Ki-61 is very good at energy fighting, or "boom and zoom". Once at a high altitude the Hien pilot may choose to dive lower to attack an enemy. If the enemy is not destroyed on the first pass, it is recommended to climb sharply and gain altitude. By doing this, the Hien sets itself up for another attack while not being in the range of the enemy's guns.
@@ -147,9 +137,9 @@ For ground pounding, the best loadout is the 2 x 250 kg bombs. With an extra 500
 
 '''Enemies worth noting:'''
 
-- [[Me 264]]: This giant is one of the few bombers who get air spawns in Sim, so it usually flies higher than you think. On top of this, the Me 264 is armed with large calibre MG and cannons all over it, therefore tailing a 264 is basically suicide unless all of their gunners are knocked out. You can treat the 264 almost like a B-29 or B-17 as they are very similar in both design and defensive capabilities. It is best to head-on the 264 if you can as you can easily knock out the pilots due to its glazed nose while also taking minimal damage. However the bomber lacks a ventral turret on its belly, making it easy to deal damage from below, but be wary of the downwards facing rear 20 mm cannon near the tail. The safest way to attack is from a higher altitude, dive at an oblique angle and focus fire on the wings and nose. Never engage if you have no altitude advantage.
-- [[B-25J-20|B-25]], [[Ju 88 A-4|Ju 88]], [[IL-2 (Family)|IL-2]], etc: These aircraft have either powerful defensive guns, for example the B-25, or wide gun coverage such as the Ju 88. The most threatening one, the B-25, is fairly easy to distinguish. It has a short and wide fuselage, twin radial engine hanging under the wings and a H-tail. Focus your fire on the engines and constantly swing sideways to avoid getting hit. A few hits from the M2 Browning is a guaranteed death. The Ju 88, on the other hand, has great underside gun coverage so attacking from below isn't a very good option. Try engaging from the sides and concentrate the fire on the front half of it, as that is where all the vital components are located. Again, never engage any of these if you have no altitude advantage. Pin them on the map and leave them to teammates with more powerful firepower.
-- [[A6M (Family)|A6M]], [[Spitfire (Family)|Spitfire]], etc: If you see them on your tail try outrunning them by diving at around -40 degrees. The Ki-61 still remains responsive handling at 600 km/h, but its speed retention is not the best, meaning it will start to lose speed quickly and the enemy might catch up. If you are near a friendly airfield, great. If not, then hope for the best and run towards the friendly side. Don't forget to pitch up and down a little to mess up their aim, the early Spitfires and A6M only have a 60-round drum per cannon which will run out fairly fast. The leftover 7.7 mm machine guns will not be as destructive.
+* [[Me 264]]: This giant is one of the few bombers who get air spawns in Sim, so it usually flies higher than you think. On top of this, the Me 264 is armed with large calibre MG and cannons all over it, therefore tailing a 264 is basically suicide unless all of their gunners are knocked out. You can treat the 264 almost like a B-29 or B-17 as they are very similar in both design and defensive capabilities. It is best to head-on the 264 if you can as you can easily knock out the pilots due to its glazed nose while also taking minimal damage. However the bomber lacks a ventral turret on its belly, making it easy to deal damage from below, but be wary of the downwards facing rear 20 mm cannon near the tail. The safest way to attack is from a higher altitude, dive at an oblique angle and focus fire on the wings and nose. Never engage if you have no altitude advantage.
+* [[B-25J-20|B-25]], [[Ju 88 A-4|Ju 88]], [[IL-2 (Family)|IL-2]], etc: These aircraft have either powerful defensive guns, for example the B-25, or wide gun coverage such as the Ju 88. The most threatening one, the B-25, is fairly easy to distinguish. It has a short and wide fuselage, twin radial engine hanging under the wings and a H-tail. Focus your fire on the engines and constantly swing sideways to avoid getting hit. A few hits from the M2 Browning is a guaranteed death. The Ju 88, on the other hand, has great underside gun coverage so attacking from below isn't a very good option. Try engaging from the sides and concentrate the fire on the front half of it, as that is where all the vital components are located. Again, never engage any of these if you have no altitude advantage. Pin them on the map and leave them to teammates with more powerful firepower.
+* [[A6M (Family)|A6M]], [[Spitfire (Family)|Spitfire]], etc: If you see them on your tail try outrunning them by diving at around -40 degrees. The Ki-61 still remains responsive handling at 600 km/h, but its speed retention is not the best, meaning it will start to lose speed quickly and the enemy might catch up. If you are near a friendly airfield, great. If not, then hope for the best and run towards the friendly side. Don't forget to pitch up and down a little to mess up their aim, the early Spitfires and A6M only have a 60-round drum per cannon which will run out fairly fast. The leftover 7.7 mm machine guns will not be as destructive.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -169,33 +159,30 @@ For ground pounding, the best loadout is the 2 x 250 kg bombs. With an extra 500
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Generally performs well in the most common tactics, both BnZ and turn-fighting, allowing flexible gameplay depending on the situation
-- Outstanding climb rate means good energy retention
-- Has decent dive speed, can easily out-dive slower opponents
-- Great firepower thanks to the pair of 20 mm MG 151 and the minengeschoss rounds
-- Large amount of ammunition for the 12.7 mm (400 rpg) is great for long battles
-- Some armour protection for the pilot means that it will not easily get pilot-sniped by small-calibre/low-penetrating guns from the back
-- Able to equip up to 2 x 250 kg bombs, meaning it is also useful in ground pounding/tank RB
-- Adequate over-the-nose visibility allows easier leading in Simulator
+* Generally performs well in the most common tactics, both BnZ and turn-fighting, allowing flexible gameplay depending on the situation
+* Outstanding climb rate means good energy retention
+* Has decent dive speed, can easily out-dive slower opponents
+* Great firepower thanks to the pair of 20 mm MG 151 and the minengeschoss rounds
+* Large amount of ammunition for the 12.7 mm (400 rpg) is great for long battles
+* Some armour protection for the pilot means that it will not easily get pilot-sniped by small-calibre/low-penetrating guns from the back
+* Able to equip up to 2 x 250 kg bombs, meaning it is also useful in ground pounding/tank RB
+* Adequate over-the-nose visibility allows easier leading in Simulator
 
 '''Cons:'''
 
-- Average backwards visibility can be lethal in simulator
-- Locks up at high speeds
-- The MG 151 has only 150 rpg which requires strict trigger control
-- No frontal armour, can be fatal in a head-on
-- Average roll rate which worsens as speed increases, can easily get out-rolled by [[Fw 190 (Family)|Fw 190s]] and [[I-16 (Family)|I-16s]]
-- Repair costs are very high (AB/SB)
+* Average backwards visibility can be lethal in simulator
+* Locks up at high speeds
+* The MG 151 has only 150 rpg which requires strict trigger control
+* No frontal armour, can be fatal in a head-on
+* Average roll rate which worsens as speed increases, can easily get out-rolled by [[Fw 190 (Family)|Fw 190s]] and [[I-16 (Family)|I-16s]]
+* Repair costs are very high (AB/SB)
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The Ki-61 was first put into service in with a special training unit, the 23rd Chutai, and entered combat for first time in early 1943, during the New Guinea campaign. The Hiens were sent into a difficult theatre where jungles and adverse weather conditions coupled with a lack of spare parts quickly made short work of the Japanese fighters. Nonetheless, the Hien proved to be a worthy adversary and it even outclassed the P-40. Towards the end of the war, Ki-61s were relied upon heavily to defend the Japanese mainland from B-29 attacks. Some pilots used ramming attacks to down the Superfortresses. Soon, entire "special attack squadrons" were formed for the sole purpose of ramming B-29s.
 
 The Ki-61-I hei model utilised imported German Mauser 20 mm MG 151 cannons, placed in the wings. 800 of these weapons along with ammunition were sent to Japan via submarine in August of 1943.
@@ -217,26 +204,23 @@ All in all, 3,078 Ki-61 fighters (of various types) were produced.
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ki_61_1a_hei Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ki_61_1a_hei Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/212461-kawasaki-ki-61-i-hei/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/212461-kawasaki-ki-61-i-hei/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Kawasaki}}
 {{Japan fighters}}

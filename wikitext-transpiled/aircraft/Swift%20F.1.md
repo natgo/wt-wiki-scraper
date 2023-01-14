@@ -10,15 +10,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -46,7 +43,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-r
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || X || X || X <!-- ✓ -->
+| X || ✓ || ✓ || X || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -112,12 +109,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-r
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 50 mm thick bulletproof glass in cockpit windshield.
-- 12.7 mm steel plate behind pilot.
-- Most of the critical components positioned inside the fuselage (Pilot, engine and fuel tanks)
+* 50 mm thick bulletproof glass in cockpit windshield.
+* 12.7 mm steel plate behind pilot.
+* Most of the critical components positioned inside the fuselage (Pilot, engine and fuel tanks)
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -126,32 +122,27 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-r
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|ADEN (30 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 30 mm ADEN cannons, nose-mounted (200 rpg = 400 total)
+* 2 x 30 mm ADEN cannons, nose-mounted (200 rpg = 400 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|G.P. Mk.IV (500 lb)|G.P. Mk.I (1,000 lb)|M.C. Mk.I (1,000 lb)|RP-3}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
-- 2 x 1,000 lb G.P. Mk.I bombs (2,000 lb total)
-- 2 x 1,000 lb M.C. Mk.I bombs (2,000 lb total)
-- 16 x RP-3 rockets
+* Without load
+* 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
+* 2 x 1,000 lb G.P. Mk.I bombs (2,000 lb total)
+* 2 x 1,000 lb M.C. Mk.I bombs (2,000 lb total)
+* 16 x RP-3 rockets
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The Swift is a British subsonic jet fighter. The aircraft is considered by some users to be a "Mini [[Hunter F.1|Hunter]]" as the Swift shares a lot of strengths and weaknesses with the beast.
@@ -165,9 +156,7 @@ Another minor weakness of the Swift is the fact that the two ADENs fire very qui
 To summarise, use the Swift as a 'Boom and Zoomer', avoid horizontal dogfights, watch your speed in dives, and make sure to keep an eye on your ammo count, do all this and you'll be sure to quickly get many kills under your belt.
 
 ===Radars===
-
 <!--{{main|AN/APG-30}}-->
-
 The Swift F.1 is equipped with an ARI.5857 rangefinding radar, located in the nose of the aircraft.
 It will automatically detect other planes within the scanning area and display the range to the closest target. It is linked with a gyro gunsight and can help with aiming at close range.
 
@@ -184,29 +173,26 @@ It will automatically detect other planes within the scanning area and display t
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great acceleration, climb rate and high top speed
-- Decent energy retention, but not the best at it (especially against MiG-15/17)
-- Fast firing 30 mm ADEN cannons
-- MC 1,000 lb bombs and RP-3 rockets available for light CAS roles
-- Very responsive airframe both on roll and instant turning
-- Take-off flaps have a high rip speed and can work as airbrakes when needed
+* Great acceleration, climb rate and high top speed
+* Decent energy retention, but not the best at it (especially against MiG-15/17)
+* Fast firing 30 mm ADEN cannons
+* MC 1,000 lb bombs and RP-3 rockets available for light CAS roles
+* Very responsive airframe both on roll and instant turning
+* Take-off flaps have a high rip speed and can work as airbrakes when needed
 
 '''Cons:'''
 
-- Low manoeuvrability compared to other fighters in its battle rating; better at boom and zoom than dogfights
-- Compression and wing rip risk at high speed (>925 km/h IAS)
-- Very poor flight performance when stock
-- Has no air brakes for landing; must use take-off flaps to reduce speed
+* Low manoeuvrability compared to other fighters in its battle rating; better at boom and zoom than dogfights
+* Compression and wing rip risk at high speed (>925 km/h IAS)
+* Very poor flight performance when stock
+* Has no air brakes for landing; must use take-off flaps to reduce speed
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 In the years following the end of WW2, Great Britain focused their efforts on rebuilding their nation from the devastation caused by the war as the British government didn't consider a new war possible in the following ten years. Under these circumstances, developing new military technology wasn't considered a priority in most cases.
 
 As a result, Great Britain found itself lagging behind in military aviation at the start of the 1950s by the outbreak of the Korean War. This prompted the RAF to hastily look for a new fighter aircraft to put into service, even if it meant taking into consideration an interim design.
@@ -222,15 +208,13 @@ Newer modifications were developed, which addressed most of the known issues. Ho
 ''- From [[wt:en/news/6342-development-supermarine-swift-banking-on-success-en|Devblog]]''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=swift_f1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=swift_f1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-
 <div><ul>
 <li style="display: inline-block;"> [[File:Swift F1 WTWallpaper 001.jpg|thumb|none|250px|]] </li>
 <li style="display: inline-block;"> [[File:Swift F1 WTWallpaper 002.jpg|thumb|none|250px|]] </li>
@@ -243,34 +227,32 @@ Newer modifications were developed, which addressed most of the known issues. Ho
 </ul></div>
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
 
-- Supermarine [[Attacker FB 1]]
-- Supermarine [[Attacker FB.2]]
+* Supermarine [[Attacker FB 1]]
+* Supermarine [[Attacker FB.2]]
 
 ;Aircraft of comparable role, configuration and era
 
-- North American [[F-86 (Family)| F-86]] Sabre
-- Dassault [[M.D.450B Ouragan]]
-- de Havilland [[Venom FB.4|Venom]]
-- Grumman [[F9F (Family)|F9F]] Cougar
-- Hawker [[Hunter (Family)|Hunter]]
-- Mikoyan-Gurevich [[MiG-17 (Family)|MiG-17]]
-- Saab [[J29D]] Tunnan
+* North American [[F-86 (Family)| F-86]] Sabre
+* Dassault [[M.D.450B Ouragan]]
+* de Havilland [[Venom FB.4|Venom]]
+* Grumman [[F9F (Family)|F9F]] Cougar
+* Hawker [[Hunter (Family)|Hunter]]
+* Mikoyan-Gurevich [[MiG-17 (Family)|MiG-17]]
+* Saab [[J29D]] Tunnan
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6342-development-supermarine-swift-banking-on-success-en|[Development] Supermarine Swift: Banking on Success]]
-- [https://forum.warthunder.com/index.php?/topic/463998-swift-f1/ Official data sheet - more details about the performance]
+* [[wt:en/news/6342-development-supermarine-swift-banking-on-success-en|[Development] Supermarine Swift: Banking on Success]]
+* [https://forum.warthunder.com/index.php?/topic/463998-swift-f1/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Supermarine}}
 {{Britain jet aircraft}}

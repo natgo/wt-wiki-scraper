@@ -4,17 +4,13 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-rating}}. It was introduced in [[Update 1.85 "Supersonic"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The Javelin's key advantage is its dual afterburning engines which give it good acceleration and very good climb rate. It can (at lower altitudes) accelerate past 600 km/h in a 20° climb without issue. The Javelin also has a rather low top speed compared to other vehicles of the rank, when spaded it redlines at around 1,000 km/h and will rip soon after. It can and will rip its wings without going into a dive, so caution should be exercised when traveling in straight lines.
 
 The Javelin also bleeds a tremendous amount of speed while turning, due to its massive wing area. This is somewhat offset by the powerful engines, which give the Javelin excellent acceleration and climb rate for the rank.
@@ -46,7 +42,7 @@ The Javelin does not compress heavily at higher speeds, but will rip if you try 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -112,9 +108,7 @@ The Javelin does not compress heavily at higher speeds, but will rip if you try 
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 The Javelin has no armour, and it is an extremely large aircraft. With the abundance of high calibre weapons at this rank, any hits will severely impact your ability to manoeuvre. Any damage to the wings or fuselage will severely hinder its ability to turn.
 
 The engines and fuel tanks are scattered in the fuselage and the leading edges of the wings. Any shots taken there will either set you ablaze or knock out or damage an engine. Any shots to the tail are extremely likely to cut tail controls or remove the tail entirely.
@@ -132,21 +126,17 @@ You are going to want to focus on getting flight performance modifications first
 {{Specs-Avia-Armaments}}
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|ADEN (30 mm)|Firestreak}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 4 x 30 mm ADEN cannons, wing-mounted (200 rpg = 800 total)
-- 4 x 30 mm ADEN cannons + 2 x Firestreak missiles
-- 2 x 30 mm ADEN cannons + 4 x Firestreak missiles
+* 4 x 30 mm ADEN cannons, wing-mounted (200 rpg = 800 total)
+* 4 x 30 mm ADEN cannons + 2 x Firestreak missiles
+* 2 x 30 mm ADEN cannons + 4 x Firestreak missiles
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 As an aircraft the Javelin has many flaws and has picked up a fairly poor reputation, but once you get used to its quirks you can work around them and the Javelin can become an effective aircraft, which you can do well in. The Javelin's key advantage is its dual afterburning engines which give it good acceleration and very good climb rate; it can (at lower altitudes) accelerate past 600 km/h in a 20° climb without issue. As the Javelin has a fairly poor top speed (at least compared to some of the vehicles you can face), you will want to make use of the powerful engines and climb to a reasonable attitude quickly at the start of the match. In terms of climb profile your options are to either throw the Javelin in to a 10 - 20° climb straight off the runway, or build your speed (up to around 700 km/h), then enter the same sort of angle climb; the first option will get you to altitude in less distance, but you likely will not have much speed when you get there, on maps with room for it building speed first will give you more options. Your target altitude will vary depending on the situation, but typically you will want to be at at least 4,000 m, sometimes closer to 6,000 m on larger maps. Ultimately if an enemy fighter is above you in the Javelin and decides to dive on you, you're in for a bad time, you will likely not have the speed to out-run them in this scenario, and the Javelin's large size and somewhat lacking flight characteristics can make evasion tricky (and lead to you losing lots of energy); by climbing to a suitable altitude (depending on what the other team are doing) you can minimise the risk of this situation occurring.
 
 Once at altitude you have two main options; you can either take up the role of bomber hunter, or set yourself up in a position to start diving down on enemy aircraft below you. The Javelin fits the role of bomber hunter fairly well, the search and tracking radars can be useful for finding bombers (although they suffer heavily from ground clutter) and the armament of four 30 mm cannons is more than capable of bringing down anything you face with one or two well aimed bursts. The Firestreak missiles also work well against bombers, which often do not have the manoeuvrability to evade them. A benefit of the radar, when coupled with missiles, is that if a target is locked then the locking cone for the missile will automatically follow the target, meaning you do not have to worry about pointing your plane straight at the target to get a missile lock. The Firestreaks can also be used against fighters, however they are not very manoeuvrable missiles so they can often be evaded by fighters fairly easily; they are best used a fairly short range, or if a target is flying in a straight line trying to outrun you.
@@ -161,9 +151,9 @@ One more thing to be aware of with the Javelin (particularly at higher altitudes
 
 ==== Specific enemies worth noting ====
 
-- [[MiG-15 (Family)|MiG-15 Family]]: able to catch you in a straight line, good climb, potent armament.
-- [[F-86 (Family)|F-86 Family]]: able to catch you in a straight line, potent armament.
-- [[G.91 (Family)|G.91 Family]]: able to catch you in a straight line, some with potent armament, good climb.
+* [[MiG-15 (Family)|MiG-15 Family]]: able to catch you in a straight line, good climb, potent armament.
+* [[F-86 (Family)|F-86 Family]]: able to catch you in a straight line, potent armament.
+* [[G.91 (Family)|G.91 Family]]: able to catch you in a straight line, some with potent armament, good climb.
 
 ===Radars===
 {{main|AN/APS-21|AN/APG-26}}
@@ -190,67 +180,62 @@ The Javelin F.(A.W.) Mk.9 is equipped with an [[AN/APS-21]] search radar, as wel
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- More manoeuvrable than some other jets and has very good roll rate
-- Good acceleration
-- Fast plane at higher altitudes
-- Is equipped with the [[AN/APS-21]] target detection radar, as well having an [[AN/APG-26]] tracking radar
-- Can use afterburner (WEP) for very long periods of time without overheating engines
-- Effective air-to-air missiles
+* More manoeuvrable than some other jets and has very good roll rate
+* Good acceleration
+* Fast plane at higher altitudes
+* Is equipped with the [[AN/APS-21]] target detection radar, as well having an [[AN/APG-26]] tracking radar
+* Can use afterburner (WEP) for very long periods of time without overheating engines
+* Effective air-to-air missiles
 
 '''Cons:'''
 
-- Relatively low top speed at low altitudes
-- Big target
-- Pulling negative G cuts out engines due to fuel starvation
-- Convergence is important (guns are far apart)
-- Extremely poor energy retention
-- Anything more than slight damage to wings causes massive loss in speed and lift
-- Can push past its wing break speed at sea level while at 100% throttle
+* Relatively low top speed at low altitudes
+* Big target
+* Pulling negative G cuts out engines due to fuel starvation
+* Convergence is important (guns are far apart)
+* Extremely poor energy retention
+* Anything more than slight damage to wings causes massive loss in speed and lift
+* Can push past its wing break speed at sea level while at 100% throttle
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 Gloster Javelin was the UK's first interceptor to use anti-air missiles<ref>[http://fguk.me/hangar/military-jets?start=20 <nowiki>[FGUK] Military Jets</nowiki>]</ref> and the first jet all-weather and night fighter specifically designed for that purpose.<ref>[http://www.airvectors.net/avjavlin.html <nowiki>[Air Vectors] The Gloster Javelin</nowiki>]</ref> It went through a very convoluted development history, with a number of versions introduced between 1954 and 1959,<ref name="thunderJavelin">[https://www.thunder-and-lightnings.co.uk/javelin/history.php <nowiki>[Thunder & Lightnings] Gloster Javelin - History</nowiki>]</ref> only to be replaced by the [[Lightning F.6|Electric Lightning]] from 1961 onwards.<ref>[[Wikipedia:English_Electric_Lightning#Variants|[Wikipedia] English Electric Lightning - Variants]]</ref><ref name="wikiJavelin">[[Wikipedia:Gloster_Javelin|[Wikipedia] Gloster Javelin]]</ref> To this day it's the western fighter with the largest wing area, featuring a massive 86.1 m² wing (comparing to 44.08 m² of the Lightning, 52.8 m² of the [[Ho 229 V3]] or 43 m² of the F-35).
 
 Gloster Javelin FAW Mk 9 was a conversion of the FAW 7, with airplanes delivered between December 1959 and December 1961. The primary goal of the modernization effort was to improve the flight characteristics, most notably through the upgrade to the powerplant. Changes included:<ref name="thunderJavelin" /><ref name="wikiJavelin" />
 
-- Engines with added afterburner for a maximum thrust of 12,300 lbf (11,000 lb without afterburner)
-- Modified wings and extended jet pipes
-- Increased maximum take-off weight (43,165 kg from 40,270 of the predecessor)
-- Lower maximum speed (610 knots at Sea Level vs 616 in FAW 7, Mach 0.93 vs 0.95)
+* Engines with added afterburner for a maximum thrust of 12,300 lbf (11,000 lb without afterburner)
+* Modified wings and extended jet pipes
+* Increased maximum take-off weight (43,165 kg from 40,270 of the predecessor)
+* Lower maximum speed (610 knots at Sea Level vs 616 in FAW 7, Mach 0.93 vs 0.95)
 
 In total 116 fighters were converted to the FAW 9 version, 44 of which were further modified into the flight refueling version (FAW 9F/R) which features an added refueling probe and other related subsystems.
 
 The first fighter squadron to receive deliveries of the Gloster Javelin in 1956 was the RAF Squadron No. 46 based in Hampshire, south England. The last one was the No. 60 Squadron, which was disbanded in 1968, where the FAW 9 and 9R fighters served at the Tengah Air Base in Singapore.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=javelin_fmk9 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=javelin_fmk9 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/440050-development-javelin-faw-mk-9-delta-defender/ [Development<nowiki>]</nowiki> Javelin F.A.W Mk 9 - Delta Defender (Forum)]
-- [https://forum.warthunder.com/index.php?/topic/436441-javelin-faw-mk9/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/440050-development-javelin-faw-mk-9-delta-defender/ [Development<nowiki>]</nowiki> Javelin F.A.W Mk 9 - Delta Defender (Forum)]
+* [https://forum.warthunder.com/index.php?/topic/436441-javelin-faw-mk9/ Official data sheet - more details about the performance]
 
 === References ===
 <references />

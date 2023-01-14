@@ -1,20 +1,16 @@
 {{Specs-Card
 |code=us_hstv_l
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.jpg}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} American light tank {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 The HSTV-L is a very lightly-armoured vehicle. Depending on where you get shot you might lose 1 crew member but you will still be alive. If you get shot on the left side of the vehicle from the front, the chances of your ammo rack detonating greatly increases. Best case scenario for this vehicle is to not get hit in the first place.
 
 {| class="wikitable"
@@ -36,12 +32,11 @@ The HSTV-L is a very lightly-armoured vehicle. Depending on where you get shot y
 
 '''Notes:'''
 
-- Lower glacis (both parts) is variable thickness armour.
-- Upper glacis and frontal sponson sides appliqué armour is variable thickness armour.
+* Lower glacis (both parts) is variable thickness armour.
+* Upper glacis and frontal sponson sides appliqué armour is variable thickness armour.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=1,007|rbMinHp=575}}
@@ -79,9 +74,7 @@ After tier 4 is unlocked and the priority modifications there are unlocked it is
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|XM274 (75 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -133,9 +126,7 @@ After tier 4 is unlocked and the priority modifications there are unlocked it is
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.jpg|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.1.0.82''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -148,14 +139,12 @@ After tier 4 is unlocked and the priority modifications there are unlocked it is
 |}
 '''Notes:'''
 
-- Rack 2 is a ready rack, so although shells deplete from that rack after firing, it will refill from rack 1.
+* Rack 2 is a ready rack, so although shells deplete from that rack after firing, it will refill from rack 1.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|M240 (7.62 mm)}}
 
 The HSTV-L has 2 M240 machine guns. One is fixed to the gun mantlet and the other is mounted on the Commander's cupola. These machine guns can be used to mark enemies for your allies and can also be used to shoot down some lighter aircraft, but be careful as shooting them will give away your location and can result in them strafing and destroying your vehicle.
@@ -173,9 +162,7 @@ The HSTV-L has 2 M240 machine guns. One is fixed to the gun mantlet and the othe
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The HSTV-L is a light tank with a quick ready-rack reload, making it adept at dealing with multiple enemies in ambush situations. It can achieve a very good top speed thanks to its light weight and has a similarly good turning ability. With this mobility (which is on par with that of top MBTs), the HSTV-L can achieve desirable early-game positions and move quickly around the map when necessary.
 
 Like most light tanks, this vehicle is lacking in the protection department. It has thin armour in all directions, which is not backed up by any spaced or composite protection, and is susceptible to overpressure damage. In some situations, the armour may be thin enough that kinetic rounds overpenetrate and pass straight through the vehicle without causing much damage. The highly-angled armour can also sometimes bounce shots. In most cases though, the HSTV-L cannot be counted on to sustain heavy fire.
@@ -185,34 +172,31 @@ This tank is fairly unique in that it is equipped with an autoloader that can fi
 The HSTV-L is better suited to firing at enemies without their noticing--from ambush positions, from the flanks, and from behind corners. The vehicle's great mobility will aid with this playstyle. Indeed, its mobility is what makes the HSTV-L great on urban maps. Furthermore, in ambush situations the tank is able to easily deal with multiple enemies thanks to its fast ready-rack reload. This tank has a 45 degree gun elevation and a 17 degree gun depression. This gun depression is extremely powerful, and makes the vehicle very effective at hill camping and at firing from behind ridgelines. A thermal sight in both gunner and commander/binocular views makes the HSTV-L a great scouting vehicle. It is recommended to use the vehicle's high mobility to aid in scouting enemies for teammates to locate and destroy.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Thanks to the autoloader, the cannon has a very high rate of fire
-- Due to its light armour some kinetic rounds may over penetrate, leaving it undamaged
-- Excellent in urban combat where side shots are much more effective
-- Internal 5 mm armour can help protect crew from spalling
-- Thermal sights for both the gunner and the commander make it a great scouting vehicle
-- Up to 45° elevation and -30° depression over the sides (-17° depression to the front, -6° depression when facing rear)
-- Very good gun handling
-- Turret has only one crew member, the commander, and the breech is small
-- Excellent mobility, allowing it to keep up with and even outpace MBTs
+* Thanks to the autoloader, the cannon has a very high rate of fire
+* Due to its light armour some kinetic rounds may over penetrate, leaving it undamaged
+* Excellent in urban combat where side shots are much more effective
+* Internal 5 mm armour can help protect crew from spalling
+* Thermal sights for both the gunner and the commander make it a great scouting vehicle
+* Up to 45° elevation and -30° depression over the sides (-17° depression to the front, -6° depression when facing rear)
+* Very good gun handling
+* Turret has only one crew member, the commander, and the breech is small
+* Excellent mobility, allowing it to keep up with and even outpace MBTs
 
 '''Cons:'''
 
-- Commander's cupola can be penetrated by heavy machine gun fire
-- Limited ammo selection and capacity
-- APFSDS round has low penetration and has problems penetrating frontal armour of some MBTs
-- The XM855 APFSDS dart causes minimal damage to modules or crew members after penetration due to its calibre (reduced spall)
-- Prone to overpressure
-- Does not have access to a heavy machine gun
+* Commander's cupola can be penetrated by heavy machine gun fire
+* Limited ammo selection and capacity
+* APFSDS round has low penetration and has problems penetrating frontal armour of some MBTs
+* The XM855 APFSDS dart causes minimal damage to modules or crew members after penetration due to its calibre (reduced spall)
+* Prone to overpressure
+* Does not have access to a heavy machine gun
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 '''<big>Development</big>'''
 
 The High Survivability Test Vehicle - Lightweight, shortened to HSTV-L, was a light tank project that was developed in the 1970s and 1980s. It was funded by the Defense Advanced Research Projects Agency (DARPA) and built by the AAI Corporation. The prototype was completed in September 1979 and began field trials soon after. After the field trials the HSTV-L was used for testing of the fire control system (FCS) with different stabilization algorithms tested as well as the hunter-killer sights. The HSTV-L was not chosen for production by the Army or the Marine Corps and was cancelled in 1981. It was later developed into the Rapid Deployment Force Light Tank (RDF/LT).
@@ -251,12 +235,11 @@ One of the later products of this experimental programme was the HSTV-L - a comp
 At the start of the 1980s, the 75 mm gun was considered inadequate to deal with the most recent Soviet MBTs by the Army, while the USMC questioned the vehicle's effectiveness in amphibious landing operations. This led to the ultimate discontinuation of the collaborative project in 1981.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=us_hstv_l Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=us_hstv_l Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="150">
@@ -270,29 +253,27 @@ File:HSTV-L WTWallpaper 07.jpg|
 </gallery>
 
 ;Videos
-{{Youtube-gallery|qsHfTef-Xvg|'''The Shooting Range #293''' - ''Metal Beasts'' section at 00:28 discusses the {{PAGENAME}}.|C5cw-\_dXhFE|'''The Shooting Range #203''' - ''Metal Beasts'' section at 00:30 discusses the {{PAGENAME}}.|6qzHOvgOWug|'''HSTV-L - Tank History and Review''' - ''Spookston''|PosWOnOGkSo|'''Best experimental vehicles''' discusses the {{PAGENAME}} at 4:00 - ''War Thunder Official Channel''}}
+{{Youtube-gallery|qsHfTef-Xvg|'''The Shooting Range #293''' - ''Metal Beasts'' section at 00:28 discusses the {{PAGENAME}}.|C5cw-_dXhFE|'''The Shooting Range #203''' - ''Metal Beasts'' section at 00:30 discusses the {{PAGENAME}}.|6qzHOvgOWug|'''HSTV-L - Tank History and Review''' - ''Spookston''|PosWOnOGkSo|'''Best experimental vehicles''' discusses the {{PAGENAME}} at 4:00 - ''War Thunder Official Channel''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Light tanks at similar positions in other tech trees:
 
-- [[TAM 2C]]
-- [[Object 685]]
-- [[VFM5]]
-- [[CV 90105 TML]]
+* [[TAM 2C]]
+* [[Object 685]]
+* [[VFM5]]
+* [[CV 90105 TML]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6711-development-hstv-l-view-of-tomorrow-en|[Devblog] HSTV-L: View of Tomorrow]]
-- [https://tanknutdave.com/the-american-hstvl-tank/ <nowiki>[TankNutDave.com]</nowiki> The American HSTV(L) Tank]
+* [[wt:en/news/6711-development-hstv-l-view-of-tomorrow-en|[Devblog] HSTV-L: View of Tomorrow]]
+* [https://tanknutdave.com/the-american-hstvl-tank/ <nowiki>[TankNutDave.com]</nowiki> The American HSTV(L) Tank]
 
 {{TankManufacturer AAI Corporation}}
 {{USA light tanks}}

@@ -4,9 +4,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese light tank {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
 
 The Type 63 can be considered a domestic Chinese counterpart to the Soviet-produced [[PT-76 (China)|PT-76]] amphibious light tank, its predecessor in the tech tree. It is far from a copy, however. It features a similar cast turret to the [[Type 62]] equipped with the same 85 mm gun, and the hull has larger dimensions and a different position for the driver. This 63-I variant has a more powerful engine as well. While the protection and gun handling are poor, the firepower and speed much improved from the PT-76. Few tanks at its battle rating can boast a HEAT-FS round with 300 mm of penetration, a nasty surprise for enemy heavy tanks. The Type 63 offers a taste of what's to come in the succeeding Type 62, which has similar firepower while improving in practically every aspect aside from the ability to swim.
@@ -14,19 +12,18 @@ The Type 63 can be considered a domestic Chinese counterpart to the Soviet-produ
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (Turret front/sides, Gun mantlet)
+* Rolled homogeneous armour
+* Cast homogeneous armour (Turret front/sides, Gun mantlet)
 
 {| class="wikitable"
 |-
 ! Armour !! Front !! Sides !! Rear !! Roof
 |-
-| Hull || 11 mm (82°) ''Upper glacis'' <br /> 14 mm (42°) ''Lower glacis'' || 13 mm ''Top'' <br /> 10 mm ''Bottom'' || 10 mm (1°) ''Top'' <br> 10 mm (62°) ''Bottom'' || 10 mm
+| Hull || 11 mm (82°) ''Upper glacis'' <br /> 14 mm (42°) ''Lower glacis'' || 13 mm ''Top'' <br /> 10 mm ''Bottom'' || 10 mm (1°)  ''Top'' <br> 10 mm (62°) ''Bottom'' || 10 mm
 |-
 | Turret || 11 mm (15-58°) ''Turret front'' <br> 15 mm (10-69°) ''Gun mantlet'' || 11 mm (17-58°) || 11 mm (10-48°) || 10 mm
 |-
@@ -35,8 +32,8 @@ The Type 63 can be considered a domestic Chinese counterpart to the Soviet-produ
 |}
 '''Notes:'''
 
-- Suspension wheels are 10 mm thick.
-- Tracks are 15 mm thick.
+* Suspension wheels are 10 mm thick.
+* Tracks are 15 mm thick.
 
 The Type 63-I's armour is no better than the PT-76 and should not be relied upon against any incoming fire. Even heavy machine guns and autocannons pose a serious threat to this vehicle; the turret has only 11 mm of cast steel for example and can be penetrated by the M2 Browning commonly mounted on US tanks. SPAAs and aircraft will rip the tank to shreds. In general, avoid being spotted and stay close to cover. Placing bushes on the front and top of the tank to delay recognition by enemies, even for a second or two, can help considerably.
 
@@ -46,7 +43,6 @@ The crew of 4 is better than the 3 in the PT-76, but the additional crew member 
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=620|rbMinHp=354}}
@@ -64,9 +60,7 @@ The Type 63-I's stock grind is less painful than the PT-76 since it has a decent
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|Type-62-85-TC (85 mm)}}
 
 The Type-62-85-TC cannon is also used by the Type 62, but the reload is about two seconds longer on the Type 63 for some reason. This means that it has the same sluggish reload as the PT-76 despite having a dedicated loader. The gun handling is poor all-round, with the gun rotation, elevation, and depression speeds all being lower than the PT-76. This can be a pain when using the Type 63-I aggressively; it is unfortunate that the gun handling cannot keep up with the good mobility.
@@ -144,9 +138,7 @@ The stock O-365K HE shell is very weak and should be avoided, because the HEAT-F
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -165,15 +157,13 @@ The stock O-365K HE shell is very weak and should be avoided, because the HEAT-F
 |}
 '''Note''':
 
-- Ammo rack #1 is in the back of the turret basket and will rotate with the turret.
+* Ammo rack #1 is in the back of the turret basket and will rotate with the turret.
 
 The poor protection of the Type 63-I means that taking less ammunition will not improve post-penetration survivability by much. Taking 30 rounds or less will empty the ammo racks in the back of the fighting compartment and turret basket, so solid projectiles entering the front right of the vehicle might pass through and hit only the loader. This is mildly helpful against British tanks and M41s. In the event that 30 rounds is not enough, a rare occurrence, it's fine to take more.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|SGMT (7.62 mm)}}
 
 The Type 63-I has a coaxial 7.62 SGMT machine gun. It is useful for spotting targets on the map but little else. The SGMT does enjoy a much larger magazine and better rate of fire than the typical WWII-era DT machine gun, which helps to clear fences and bushes that might prematurely detonate the HEAT-FS round. The lack of a pintle mounted heavy machine gun makes it difficult to ward off aircraft or gun down light vehicles like armoured cars.
@@ -189,7 +179,6 @@ The Type 63-I has a coaxial 7.62 SGMT machine gun. It is useful for spotting tar
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The Type 63-I is best used in a way that avoids direct exposure to enemy fire and gives you time to set up shots and ambushes. Running straight into battle or rushing cap points may not end well. Flanking is definitely a recommended method as this gives you the time you desperately need due to slow turret rotation and reload. It also gives you chances to shoot at enemy side armour, which is the only way to penetrate heavier enemies if you use the conventional shells. When flanking, avoid driving in the open if possible and keep an eye out for other light vehicles. Some of them, like armoured cars and Hellcats, can be overpressured by the HEAT-FS round on occasion, while others like the [[M41A1|M41 Walker Bulldog]] used by several nations cannot and are best dispatched with the APHE rounds. Once a good position is reached, stay close to cover and be sure to hide when reloading.
@@ -205,31 +194,29 @@ Besides flanking, another tactic is to use the HEAT-FS shells for long range sni
 Remember to constantly mark enemies with scouting. Besides helping your team and gaining assists for yourself, it allows teammates to mop up targets that you have crippled but are unwilling or unable to finish off. The reduction in aircraft spawn cost is also valuable due to the Type 63-I's fragility. If a good early-game run with the tank is terminated, it should be easy to pull out a suitable CAS aircraft like the [[Tu-2S-44 (China)|Tu-2]] or counter-CAS aircraft like the [[La-9 (China)|La-9]] to exact revenge while leaving points in reserve for later spawns.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Same 85 mm gun as the [[Type 62]], more powerful and much less frustrating to use than the preceding [[PT-76 (China)|PT-76]]
-- HEAT-FS penetrates up to 300 mm of armour, excellent for the battle rating
-- 4 crew members
-- Improved mobility from the PT-76
-- Can scout and assist with repairs
-- Amphibious
+* Same 85 mm gun as the [[Type 62]], more powerful and much less frustrating to use than the preceding [[PT-76 (China)|PT-76]]
+* HEAT-FS penetrates up to 300 mm of armour, excellent for the battle rating
+* 4 crew members
+* Improved mobility from the PT-76
+* Can scout and assist with repairs
+* Amphibious
 
 '''Cons:'''
 
-- No stabilizer, firing on the move or on water is difficult
-- Very thin armour, vulnerable to overpressure damage
-- Poor gun handling
-- Slow turret traverse
-- Slow reload, especially for a light tank
-- No night vision devices
-- No sources of smoke
-- Larger profile than the PT-76
+* No stabilizer, firing on the move or on water is difficult
+* Very thin armour, vulnerable to overpressure damage
+* Poor gun handling
+* Slow turret traverse
+* Slow reload, especially for a light tank
+* No night vision devices
+* No sources of smoke
+* Larger profile than the PT-76
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The Soviet Union delivered [[PT-76 (China) |PT-76]] tanks to the People's Republic of China in the 1950s. Their lightweight and amphibious capability were appreciated by the PLA, and in 1958 an order was placed for the development of an indigenous vehicle in the same vein. Initially a copy of the PT-76 called the Type 60 was made, but unsatisfactory performance and reliability issues prompted a redesign. The new design was finalized in 1963 and entered service as the Type 63 light tank, not to be confused with the Type 63 armoured personnel carrier that served as a basis for the [[ZSD63]]. While resembling the PT-76, the Type 63 tanks featured notable differences, such as a new engine, a relocated driver's station, and a new turret with an 85 mm gun. Overall dimensions were slightly enlarged for extra flotation. The Type 63 was intended for use in the wet and muddy terrain of southern China and also for seaborne assaults - many were stationed in the southern coast, across the strait from Taiwan.
@@ -239,27 +226,23 @@ The improved '''Type 63-I''' variant replaced the original 240 hp V6 engine deri
 The Type 63 was exported to several countries, including Myanmar, Albania, and Vietnam. It remains in use with several of them today. The Type 63A, which is a modification of the Type 63 with 105mm gun and improved armour, still serves with the PLA today, however it is being gradually replaced by the larger and more advanced ZTD-05 amphibious assault vehicle.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=cn_type_63_I Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=cn_type_63_I Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[PT-76B]]
-- [[PT-76 (China)]]
+* [[PT-76B]]
+* [[PT-76 (China)]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{TankManufacturer Norinco}}
 {{China light tanks}}

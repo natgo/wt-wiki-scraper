@@ -8,27 +8,23 @@
 }}
 {{Specs-Card
 |code=us_halftrack_m3_75mm_gmc
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' ('''{{Specs|pseudonym}}''') is a rank {{Specs|rank}} American tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.49 "Weapons of Victory"]]. An M3 half-track with a 75 mm gun on its rear, the M3 GMC packs a punch against its rivals.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 Just about any enemy is deadly to the 75 mm GMC M3, as the armour will only stop small-calibre machine gun rounds. Every tank cannon will penetrate the armour. Vehicles with autocannons or heavy machines guns are often the deadliest for the crew, especially strafing aircraft. The vehicle can also be easily destroyed by overpressure: HE shells and artillery strikes are thus very dangerous.
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Structural steel (back side)
+* Rolled homogeneous armour
+* Structural steel (back side)
 
 {| class="wikitable"
 |-
@@ -41,13 +37,12 @@ Just about any enemy is deadly to the 75 mm GMC M3, as the armour will only stop
 |}
 '''Notes:'''
 
-- Tracks are 7 mm thick.
-- Road wheels are 2 mm of rubber.
-- Structural chassis thickness is 15 mm throughout.
+* Tracks are 7 mm thick.
+* Road wheels are 2 mm of rubber.
+* Structural chassis thickness is 15 mm throughout.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=210|rbMinHp=131}}
@@ -61,9 +56,7 @@ As with all tanks, Parts and FPE should be your first priority. After that you m
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|M1897A4 (75 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -137,9 +130,7 @@ As with all tanks, Parts and FPE should be your first priority. After that you m
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -152,7 +143,6 @@ As with all tanks, Parts and FPE should be your first priority. After that you m
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The 75 mm GMC M3 cannot go toe-to-toe with other tanks due to the lack of protection for the crew and insufficient armour layout. The armour can only stop rifle-calibre rounds from machine guns, and could possibly deflect 12.7 mm rounds off the frontal arc, but this vehicle was never designed to fight other tanks head-to-head. Its playstyle may generally confuse new or inexperienced players, as they would bring the vehicle up close to the front.
@@ -162,34 +152,31 @@ The vehicle was mainly purposed for destroying tanks at a distance, hence the am
 The low fire rate can be a fatal downfall for many newer players; always stay in cover while reloading. Many players will stay out in the open while they wait for the gun to reload; this is a deadly mistake.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Powerful cannon for its rank
-- Good mobility
-- Post-penetration damage of the M61 shot is deadly
-- Exceptional reverse speed
-- Acceleration is best when compared to other tank destroyers of its rank
-- Two spare crew members before efficiency is compromised
+* Powerful cannon for its rank
+* Good mobility
+* Post-penetration damage of the M61 shot is deadly
+* Exceptional reverse speed
+* Acceleration is best when compared to other tank destroyers of its rank
+* Two spare crew members before efficiency is compromised
 
 '''Cons:'''
 
-- New players may find the large turn radius of this vehicle very hard to use
-- Lightly armoured, will only withstand 7.92 mm rounds effectively
-- Any cannon round will penetrate this vehicle anywhere
-- Vulnerable to strafing aircraft
-- Entire crew is exposed, can be incapacitated by overpressure (HE shells, artillery strikes)
-- Commander and loader are in-line with each other when viewing from the front, and same for the driver and gunner
-- Poor reload time, slower than most other cannons at the rank
-- Stock AP shell has poor post-penetration damage
-- Limited traverse and slow traverse speed for the cannon
+* New players may find the large turn radius of this vehicle very hard to use
+* Lightly armoured, will only withstand 7.92 mm rounds effectively
+* Any cannon round will penetrate this vehicle anywhere
+* Vulnerable to strafing aircraft
+* Entire crew is exposed, can be incapacitated by overpressure (HE shells, artillery strikes)
+* Commander and loader are in-line with each other when viewing from the front, and same for the driver and gunner
+* Poor reload time, slower than most other cannons at the rank
+* Stock AP shell has poor post-penetration damage
+* Limited traverse and slow traverse speed for the cannon
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 In the opening stages of World War II, the American military leaders realize they did not have any adequate anti-tank weaponry to repel a German tank assault. An urgent request for one developed into something akin of an improvised weapon.
 [[File:75mm_M3_GMC.jpg|x200px|left|thumb|none|A 75 mm GMC M3.]]
@@ -211,37 +198,34 @@ This self-propelled artillery installation was built in 1941 on the base of the 
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=us_halftrack_m3_75mm_gmc Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=us_halftrack_m3_75mm_gmc Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|jB988Jwdfws|'''Talisman Series (Tanks) M3 GMC. I get lucky!''' - ''Joseph 2000''|6uI2emtskdU|'''M3 75 mm GMC, American, Tier-1 Tank Destroyer''' - ''Angry Nerd Gaming''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
 
-- [[Sd.Kfz.251/10]]
-- [[Sd.Kfz.251/22]]
-- [[SU-57]]
+* [[Sd.Kfz.251/10]]
+* [[Sd.Kfz.251/22]]
+* [[SU-57]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/devblog/current/764/|[Devblog] M3 75 mm GMC and Ki-21-1ko]]
-- [[wikipedia:M3_Gun_Motor_Carriage|[Wikipedia] M3 Gun Motor Carriage]]
-- [https://tanks-encyclopedia.com/ww2/US/M3_Halftrack.php <nowiki>[Tanks Encyclopedia]</nowiki> Half Track Car M3]
+* [[wt:en/devblog/current/764/|[Devblog] M3 75 mm GMC and Ki-21-1ko]]
+* [[wikipedia:M3_Gun_Motor_Carriage|[Wikipedia] M3 Gun Motor Carriage]]
+* [https://tanks-encyclopedia.com/ww2/US/M3_Halftrack.php <nowiki>[Tanks Encyclopedia]</nowiki> Half Track Car M3]
 
 {{USA tank destroyers}}
 [[Category:Half-tracks]]

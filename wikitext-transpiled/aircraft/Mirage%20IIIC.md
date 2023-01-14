@@ -5,22 +5,18 @@
 }}
 {{Specs-Card
 |code=mirage_3c
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.jpg}}
 |cockpit=cockpit_mirage_3c.jpg
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The Mirage IIIC has one of the best joystick handling characteristics of any aircraft in War Thunder, with the capability to perform a Kulbit, which is essentially a backflip in forward flight. Unlike the [[J35D|J35]] "Draken" it retains superb handling characteristics in a deep stall, allowing rapid-reaction vector-thrust-like manoeuvrability albeit the yaw control being commanded by the inverse roll control axis. It also does not suddenly transition from lack of elevator authority to excessive pitch-up authority like the [[J35D|J35]] but joystick pilots will still need to monitor their airspeed so sudden manoeuvring does not result in an Over-G wing stress or an unwanted cobra. The Mirage III also as a result of its low stall speed (100 knots, 185 km/h) is capable of tight turns only beaten by the [[J35D|J35]] however it has superb manoeuvring energy retention whilst on joystick, with the capacity to bleed speed at will, resulting in what is potentially, an irreversible supersonic fighter in the hands of a veteran pilot.
 
 New pilots may find assistance utilising the Stability Augmentation System (SAS) mode set to dampening to prevent unwanted stalls. Additionally, setting pitch-axis multiplier down to less than 0.95 will also aid with unwanted Over-G wing stress situations.
@@ -52,7 +48,7 @@ It should be noted that the Mirage IIIE has differing flight characteristics to 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || X || X || ✓ || X || ✓ <!-- ✓ -->
+| X || X || X || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -118,9 +114,7 @@ It should be noted that the Mirage IIIE has differing flight characteristics to 
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 The Mirage IIIC has no armour and is very susceptible to damage. Hits that do not outright destroy the aircraft will severely hamper manoeuvrability and performance. A damaged engine will require immediate landing, since the aircraft loses a lot of energy while turning, the loss of power will be very noticeable. Wing or tail/rudder damage will result in flatspins if the aircraft is taken to low speeds or if too many G's are pulled.
 
 Overall, if damaged, a pilot should seek to land as soon as possible while attempting to make as few manoeuvres as possible.
@@ -132,26 +126,24 @@ Overall, if damaged, a pilot should seek to land as soon as possible while attem
 {{Specs-Avia-Armaments}}
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|SAMP Type 25 (250 kg)|SAMP Type 21 (400 kg)|SNEB type 23|AS-30 Nord|DEFA 552A (30 mm)}}
 {{main|AIM-9B Sidewinder|Matra R511|Matra R530|Matra R530E|Matra R550 Magic 1}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- 1 x 30 mm DEFA 552A cannon (250 rpg)
+* 1 x 30 mm DEFA 552A cannon (250 rpg)
 
-- 2 x AIM-9B Sidewinder missiles
-- 2 x Matra R550 Magic 1 missiles
-- 1 x Matra R530 missile
-- 1 x Matra R511 missile
-- 1 x Matra R530E missile
-- 2 x 250 kg SAMP Type 25 bombs (500 kg total)
-- 2 x 400 kg SAMP Type 21 bombs (800 kg total)
-- 14 x FZ49 rockets
-- 36 x SNEB type 23 rockets
-- 1 x AS-30 Nord missile
+* 2 x AIM-9B Sidewinder missiles
+* 2 x Matra R550 Magic 1 missiles
+* 1 x Matra R530 missile
+* 1 x Matra R511 missile
+* 1 x Matra R530E missile
+* 2 x 250 kg SAMP Type 25 bombs (500 kg total)
+* 2 x 400 kg SAMP Type 21 bombs (800 kg total)
+* 14 x FZ49 rockets
+* 36 x SNEB type 23 rockets
+* 1 x AS-30 Nord missile
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -198,13 +190,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 ! SEPR 841 tank
 | || || || || 1* || ||
 |-
-| colspan="10" | \* The SEPR 841 oxidiser tank must be carried when equipping the SEPR 841 rocket booster
+| colspan="10" | * The SEPR 841 oxidiser tank must be carried when equipping the SEPR 841 rocket booster
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Mirage IIIC is a multirole strike fighter which can be used in a wide variety of roles from air-to-air and a really limited role in air-to-ground.
 
 '''When in air battles:'''
@@ -236,27 +226,24 @@ Take the required payload upon discretion.
 The Mirage has a decent payload when in GRB. Although limited, the Mirage can do competitive CAS runs with the SNEB rocket pods, bombs, and Nord AGMs. With the help of the ballistic computer, the Mirage is capable of enhancing the accuracy of this armament in addition to its 30 mm gun pods. It should be noted that the amount of ordnance is really small (only 36 x SNEB rockets, 2 x 400 kg bombs, 2 x 250 kg bombs, or 1 x AS-30 Nord AGM) but can be deadly in a good pilot's hands.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great air-to-air missiles
-  ** Magic missiles have very good maneuverability
-  ** Long range Matra R530E missile allows you to catch pilots by surprise
-- Very manoeuvrable
-- Vast array of suspended armament
+* Great air-to-air missiles
+** Magic missiles have very good maneuverability
+** Long range Matra R530E missile allows you to catch pilots by surprise
+* Very manoeuvrable
+* Vast array of suspended armament
 
 '''Cons:'''
 
-- Bleeds energy quickly at high angles of attack
-- Below average acceleration
-- No countermeasures of any kind (no flares or RWR)
+* Bleeds energy quickly at high angles of attack
+* Below average acceleration
+* No countermeasures of any kind (no flares or RWR)
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 === Post-war French aviation ===
 After the Second World War, the French aviation industry was still in ruins. While research had continued during the war, the destruction of factories and breakup of research teams had caused French designs to lag behind. The first design built by France after the Second World War was the famous VB.10 fighter, which completed its first flight mission in 1947, though the original design work was started in 1940 and interrupted by the German invasion. Even though the French designers were eager to get back to designing aircraft for their nation, the government still couldn't provide enough money and resources to help them achieve their objective, so the French Air Force was still equipped with American F-84 Thunderjets and British Vampires at the beginning of the Cold War. The SNCASE company also chose to buy the production license for the de Havilland Vampire fighter, naming it "Mistral".
 
@@ -271,7 +258,7 @@ In response to the challenge of the Soviet Union's new Mach 2 MiG-21 which would
 
 In 1956, after the first design changes, the Mystère-Delta prototype was renamed the Mirage I. The aircraft only had one air-to-air missile as its primary weapon, and only achieved Mach 1.6 during the flight test, even after it utilised the built-in rocket motor. To achieve the goal of reaching Mach 2 speed in level flight, Dassault changed the main design again, including a change in fixed air intake design to a variable air intake design and the introduction of the area rule design. The Mirage I design was eventually abandoned, and the Mirage II fighter was designed to use Turboméca Gabizo afterburning turbojets along with a pair of the SEPR rocket motors, but it was cancelled and never built.
 
-The final design which entered into service in 1961 was called the Mirage III, and the first truly mass production version was called Mirage IIIC with the A version only used for research propose, and the B being built as a training version. The basic weapon used on the Mirage IIIC fighter was the DEFA 552 30 mm canno, two of which were mounted on the aircraft and could carry 250 rounds in total. Dassault also introduced the Matra R.530 radar or infrared-guided medium-range air-to-air missile to the aircraft, which had a maximum firing range of 18 km and maximum manoeuvring overload of 12G. The Mirage IIIC fighter also carried two AIM-9B Sidewinder infrared-guided short-range air-to-air missile for WVR combat in the 1960s. In 1975, the famous Matra R.550 Magic 1 infrared-guided short-range air-to-air missile with a maximum manoeuvring overload of 35G entered into service, with both the Mirage III fighter and Mirage F.1 fighters being upgraded with the capability to launch the missile.
+The final design which entered into service in 1961 was called the Mirage III, and the first truly mass production version was called Mirage IIIC with the A version only used for research propose, and the B being built as a training version. The basic weapon used on the Mirage IIIC fighter was the DEFA 552 30 mm canno, two of which were mounted on the aircraft and  could carry 250 rounds in total. Dassault also introduced the Matra R.530 radar or infrared-guided medium-range air-to-air missile to the aircraft, which had a maximum firing range of 18 km and maximum manoeuvring overload of 12G. The Mirage IIIC fighter also carried two AIM-9B Sidewinder infrared-guided short-range air-to-air missile for WVR combat in the 1960s. In 1975, the famous Matra R.550 Magic 1 infrared-guided short-range air-to-air missile with a maximum manoeuvring overload of 35G entered into service, with both the Mirage III fighter and Mirage F.1 fighters being upgraded with the capability to launch the missile.
 
 For the ground attack role, the Mirage IIIC fighter can use unguided bombs and SNEB 68 mm rockets, with the Nord AS.20 and AS.30 radio-guided air-to-ground missiles also being good choices for the pilot. However, only one of the Nord missiles can be equipped at a time under the fuselage.
 
@@ -293,12 +280,11 @@ Following positive experiences with the pre-production machines, the military pl
 Apart from French service, the Mirage IIIC also saw extensive use with the Israeli Air Force during the Six Day War as well as the Yom Kippur War of the late 1960s and early 1970s. Some of the Israeli Mirages were later on sold to Argentina, which in turn used its Mirages in the Falklands War of the 1980s.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=mirage_3c Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=mirage_3c Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 '''Images'''<gallery mode="packed" heights="150">
 File:Mirage IIIC WTWallpaper 01.jpg|
@@ -313,24 +299,22 @@ File:Mirage IIIC WTWallpaper 06.jpg|
 {{Youtube-gallery|QAA4S31Hbhw|'''The Shooting Range #202''' - ''Pages of History'' section at 04:40 discusses the Mirage III.|rpp-GqXiaKg|'''The Shooting Range #214''' - ''Metal Beasts'' section at 00:27 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other delta-wing jet fighters
 
-- [[Javelin F.(A.W.) Mk.9]]
-- [[J35D]]
+* [[Javelin F.(A.W.) Mk.9]]
+* [[J35D]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6728-development-mirage-iiic-an-illusive-figure-en|[Devblog] Mirage IIIC: An Illusive Figure]]
-- [https://www.dassault-aviation.com/en/passion/aircraft/military-dassault-aircraft/mirage-iii/ <nowiki>[Dassault Aviation]</nowiki> Mirage III]
+* [[wt:en/news/6728-development-mirage-iiic-an-illusive-figure-en|[Devblog] Mirage IIIC: An Illusive Figure]]
+* [https://www.dassault-aviation.com/en/passion/aircraft/military-dassault-aircraft/mirage-iii/ <nowiki>[Dassault Aviation]</nowiki> Mirage III]
 
 {{AirManufacturer Dassault}}
 {{France jet aircraft}}

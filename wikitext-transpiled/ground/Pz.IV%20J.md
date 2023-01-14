@@ -5,14 +5,12 @@
 }}
 {{Specs-Card
 |code=germ_pzkpfw_IV_ausf_J
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage*{{PAGENAME}}.png|ArtImage2*{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
-The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 161/2''') is a rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was introduced in [[Update 1.43]].
+The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 161/2''') is a rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was introduced in [[Update 1.43]]. 
 
 The biggest difference to the Panzer IV Ausf. J compared to the others is the lack of a powered turret traverse, part of the retrograde program with the tank for simpler and cheaper production. This causes the turret slew rate to be significantly reduced in the Panzer IV J compared to the others, with a stock traverse rate of only 5.9°/s compared to the other's 8.3°/s
 
@@ -23,9 +21,7 @@ The mobility of this tank is another flaw (being the heaviest of the entire Panz
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
 *Rolled homogeneous armour
@@ -43,11 +39,11 @@ The mobility of this tank is another flaw (being the heaviest of the entire Panz
 |}
 '''Notes:'''
 
-- Suspension wheels are 15 mm thick while tracks are 20 mm thick.
-- The turret sides are protected by an extra 5 mm thick plate to provide protection against HEAT and HE rounds.
-- Barrel shroud around gun barrel is 20 mm thick.
-- [[Add-on Armor|Add-on Armour]] gives an additional 20 mm of armour can be added to the front facing surfaces.
-- Belly armour is 10 mm thick.
+* Suspension wheels are 15 mm thick while tracks are 20 mm thick.
+* The turret sides are protected by an extra 5 mm thick plate to provide protection against HEAT and HE rounds.
+* Barrel shroud around gun barrel is 20 mm thick.
+* [[Add-on Armor|Add-on Armour]] gives an additional 20 mm of armour can be added to the front facing surfaces.
+* Belly armour is 10 mm thick.
 
 The Panzer IV Ausf. J is vulnerable to most front shot engagement, especially so if no serious attempt is made in compound angling. The front plate in its unsloped format is an enticing target, but beware to not hit the front sloping glacis right in front of it as that area has a tendency to bounce everything. Also avoid hitting straight into the ball machine gun and driver's port in the front as these also have a tendency to nullify an armour-piercing shot. When using APHE rounds, simply hit center mass of the front plate and let the post-penetration effect do the rest.
 
@@ -59,7 +55,6 @@ In every case scenario, it is to the benefit of the surviving player to fire the
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=465|rbMinHp=265|AoAweight=0.4}}
@@ -73,9 +68,7 @@ As with most tanks make sure to research Parts and FPE. Then focus on researchin
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|KwK40 L48 (75 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -96,12 +89,11 @@ As with most tanks make sure to research Parts and FPE. Then focus on researchin
 
 ==== Ammunition ====
 
-_'''PzGr 39''' - {{Annotation|APCBC|Armour Piercing Ballistic Cap}} shell - This is the main ammo type, always use this if confident it can penetrate enemy armour. It deals the most damage because of its explosive filler.
-_'''Hl.Gr 38B''' - {{Annotation|HEAT|High Explosive Anti-Tank}} shell - it is recommended to completely avoid this kind of shell as its performance is vastly inferior in all aspects compared to APCBC or APCR ammo used by this tank.
-_'''PzGr 40''' - {{Annotation|APCR|Armour Piercing Composite Rigid}} shell - This type of ammo should be used only if there is trouble penetrating the opponent, or trying to hit a fast moving tank at some distance. However, its damaging potential is much lower because it has no explosive filler to further enhance damage after the penetration.
-_'''Sprgr. 34''' - {{Annotation|HE|High Explosive}} shell - Carry only very few of these. They are useless against anything other than unarmoured AA vehicles, to which it is lethal.
-
-- '''K.Gr.Rot Nb.''' - Smoke shells are useful to blind enemy vehicles that block your advance while being being too remote for you to disable.
+*'''PzGr 39''' - {{Annotation|APCBC|Armour Piercing Ballistic Cap}} shell - This is the main ammo type, always use this if confident it can penetrate enemy armour. It deals the most damage because of its explosive filler.
+*'''Hl.Gr 38B''' - {{Annotation|HEAT|High Explosive Anti-Tank}} shell - it is recommended to completely avoid this kind of shell as its performance is vastly inferior in all aspects compared to APCBC or APCR ammo used by this tank.
+*'''PzGr 40''' - {{Annotation|APCR|Armour Piercing Composite Rigid}} shell - This type of ammo should be used only if there is trouble penetrating the opponent, or trying to hit a fast moving tank at some distance. However, its damaging potential is much lower because it has no explosive filler to further enhance damage after the penetration.
+*'''Sprgr. 34''' - {{Annotation|HE|High Explosive}} shell - Carry only very few of these. They are useless against anything other than unarmoured AA vehicles, to which it is lethal.
+* '''K.Gr.Rot Nb.''' - Smoke shells are useful to blind enemy vehicles that block your advance while being being too remote for you to disable.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="8" | Penetration statistics
@@ -161,9 +153,7 @@ _'''Sprgr. 34''' - {{Annotation|HE|High Explosive}} shell - Carry only very few 
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Pz.IV_H.png|right|thumb|x250px|[[Ammo racks]] of the Pz.IV H (identical).]]
-
 <!-- '''Last updated: 2.5.1.106''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -190,15 +180,13 @@ _'''Sprgr. 34''' - {{Annotation|HE|High Explosive}} shell - Carry only very few 
 |}
 '''Notes:'''
 
-- Racks are modeled by sets of 2 and disappear after both shells in the set having been shot or loaded.
-- Sides empty: 30&nbsp;''(+57)'' shells.
+* Racks are modeled by sets of 2 and disappear after both shells in the set having been shot or loaded.
+* Sides empty: 30&nbsp;''(+57)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|MG34 (7.92 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -214,9 +202,7 @@ _'''Sprgr. 34''' - {{Annotation|HE|High Explosive}} shell - Carry only very few 
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Panzer IV J suffers compared to its other variants due to its slow, manual turret traverse rate. This causes the Panzer IV J to lose flexibility in reacting to close encounters without turning the entire hull around. As such, it is recommended not to use the Panzer IV J as a front-line assaulter in combat.
 
 Tactics-wise, the Panzer IV J is perfect for sniping and ambushes, where the slower turret traverse rate affects its combat performance less. Attack from a distance, especially while that enemy is focused on other allies in the team. Ambushes can also work in close-range events when watching corners, street intersections, and choke points, but be wary of any enemies trying to outmanoeuvre the Panzer IV J as it would require drastic action with the slow turret rate. Try not to engage the enemy in a straight-up front confrontation as most enemies would be able to easily cleave through the front armour and end the vehicle.
@@ -226,30 +212,27 @@ Although any tank of Rank III can destroy the Panzer IV J pretty quickly, the ta
 Most of the [[:Category:Heavy tanks|heavy tanks]] that it will face include Tigers, the last of [[KV-85|KV series]], [[IS-1]]s, and even some [[IS-2]]s. Particularly IS-2s will be the toughest opponent, and can take out the Panzer IV with one hit. Avoid frontal confrontation at all cost. Instead try to be sneaky and attack them from the sides where they become vulnerable.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- The KwK40 L/48 cannon can penetrate most enemies at the BR at long range with above average muzzle velocity, making aiming a bit easier.
-- PzGr 40 (APCR) offers great penetration in case PzGr 39 (APCBC) fails against heavily armoured targets.
-- The transmission provides good acceleration.
-- Satisfactory off-road and on-road mobility.
-- Turrets have Schürzen (side skirts), which can offer some protection from HEAT or HE rounds.
-- 2 crew members in the hull often saves the vehicle from destruction when the turret is penetrated and everyone up there dies.
+* The KwK40 L/48 cannon can penetrate most enemies at the BR at long range with above average muzzle velocity, making aiming a bit easier.
+* PzGr 40 (APCR) offers great penetration in case PzGr 39 (APCBC) fails against heavily armoured targets.
+* The transmission provides good acceleration.
+* Satisfactory off-road and on-road mobility.
+* Turrets have Schürzen (side skirts), which can offer some protection from HEAT or HE rounds.
+* 2 crew members in the hull often saves the vehicle from destruction when the turret is penetrated and everyone up there dies.
 
 '''Cons:'''
 
-- Turret traverse is slow compared to medium tanks at this BR.
-- Side skirts (Schürzen) only protect the turret.
-- Lacks a gun mantlet.
-- Armour protection is poor, able to be penetrated by all the tanks it encounters even frontally and vulnerable to overpressure.
-- Unable to traverse fast in rough terrains.
+* Turret traverse is slow compared to medium tanks at this BR.
+* Side skirts (Schürzen) only protect the turret.
+* Lacks a gun mantlet.
+* Armour protection is poor, able to be penetrated by all the tanks it encounters even frontally and vulnerable to overpressure.
+* Unable to traverse fast in rough terrains.
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 === Development ===
 The '''Pz.Kpfw. IV''' was designed and approved for production in 1936. Envisioned as a support tank, it was equipped with a 75 mm howitzer at its initial stages. MAN, Krupp, and Rheinmetall-Borsig worked on the development of the Panzer IV, with Krupp's model finalized as the basis of the Panzer IV, using a leaf-spring double-bogie system for its suspension. The main armament was the KwK 37 L/24 75 mm howitzer. The vehicle held a crew of five, the commander, gunner, loader, radio operator (and hull machine gunner), and driver. Though it looked symmetrical, the Panzer IV turret was actually offset to the left of the chassis center line a bit while the engine was also offset to the right, this was to allow the torque shaft to turn the turret. The offset also meant that more of the ammo is held on the right side of the tank in storage areas. Nevertheless, the Panzer IV, with about 8,553 units made from 1936 to the end of World War II in 1945, it remained as one of Germany's main battle tank of the war, despite newer replacements such as the [[Panther G|Panther]] tank.
 
@@ -271,30 +254,25 @@ The tank was produced between June, 1944 and March, 1945. 1,700 tanks were relea
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_IV_ausf_J Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_IV_ausf_J Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
-
-- [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
+* [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 ;Videos
 {{Youtube-gallery|8zX4mPAxGfg|'''Lookback: Pz.IV J''' - ''Orangefan''}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{Germany medium tanks}}

@@ -1,12 +1,10 @@
 {{Specs-Card
 |code=cn_ptl_02
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.jpg}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' (Simplified Chinese: PTL02 轮式突击炮; lit. wheeled assault gun) is a rank {{Specs|rank}} Chinese light tank {{Battle-rating}}. It was introduced in [[Update "Ixwa Strike"]].
 
 Based on the WZ551 6x6 chassis developed in early 1990s shared with the ZSL-92 armoured personnel carrier, this vehicle is also the very first wheeled assault gun of the Chinese tech tree. Having subpar speed compared to contemporary wheeled vehicles (at 85 km/h on road) and paperthin protection, it might not be a first rate flanker like the [[Centauro (Family)|Centauro]] or [[Rooikat Mk.1D]]. It is still significantly faster than all other PLAGF/ROCA vehicles for now. Armed with a high velocity 100 mm smoothbore anti-tank gun, its stock APFSDS can penetrate 220 mm of flat RHA at point-blank range and its unlockable DYW PT-86-100 APFSDS boasts up to 381 mm of penetration. This vehicle has thermal sights with acceptable resolution in addition to a laser rangefinder, which can be precious at its BR since they significantly speed up the seek and destroy process. The PTL02 is less forgiving than other wheeled light tanks, but despite its shortcomings in armour, it still offers valuable scouting and flanking abilities that complement other Chinese vehicles well.
@@ -14,7 +12,6 @@ Based on the WZ551 6x6 chassis developed in early 1990s shared with the ZSL-92 a
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 One of the major drawbacks of this vehicle is the poor protection against any calibre bigger than 12.7 mm since only the turret has more than 20 mm of armour to stop heavy machine gun rounds from some range. Other than that, it's 5 to 10 mm of armour all around. Avoid anything with a HMG or any autocannon vehicles (including aircraft) at all costs, because it is very likely you will not have a second chance to return fire and knock the enemy out.
@@ -25,14 +22,14 @@ There is a large empty area below the turret ring which may absorb quite some sh
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour
+* Rolled homogeneous armour
+* Cast homogeneous armour
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 10 mm (33°) ''Driver viewport glacis'' <br> 10 mm (78°) ''Upper Glacis'' <br> 10 mm (40°) ''Lower Glacis'' || 8 mm (25°) ''Top'' <br> 10 mm (6°) ''Bottom'' <br> 8 mm (27°)''Wheelwells'' || 6 mm (4°) ''Upper plate'' <br> 6 mm (48°) ''Lower glacis'' || 10 mm (12°) ''Front glacis'' <br> 6 mm ''Driver hatch'' <br> 6 mm'' Centre''
+| Hull || 10 mm (33°) ''Driver viewport glacis'' <br> 10 mm (78°) ''Upper Glacis'' <br> 10 mm (40°)  ''Lower Glacis'' || 8 mm (25°) ''Top'' <br> 10 mm (6°) ''Bottom'' <br> 8 mm (27°)''Wheelwells'' || 6 mm (4°) ''Upper plate'' <br> 6 mm (48°) ''Lower glacis'' || 10 mm (12°) ''Front glacis'' <br> 6 mm ''Driver hatch'' <br> 6 mm'' Centre''
 |-
 | Turret || 30 mm (31°) ''Turret front'' <br> 20 mm (29°) ''Turret Cheeks'' <br> 30 mm (0°) ''Gun mantlet'' || 20 mm (23°) ''Frontal'' <br> 20 mm (9°) ''Rear'' || 15 mm (14°) || 10 mm (12°) <br> 10 mm (13°) ''Centre''
 |-
@@ -41,13 +38,12 @@ There is a large empty area below the turret ring which may absorb quite some sh
 |}
 '''Notes:'''
 
-- 5 mm structural steel storage boxes covering the turret rear
-- Gun mantlet consists of cast homogeneous armour
-- Wheels are 10 mm thick
+* 5 mm structural steel storage boxes covering the turret rear
+* Gun mantlet consists of cast homogeneous armour
+* Wheels are 10 mm thick
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=496|rbMinHp=283}}
@@ -63,9 +59,7 @@ To make the most out of the good top speed, it will need to navigate on hard ter
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|PTP86 (100 mm)}}
 
 The 100 mm PTP-86 smoothbore gun found on this vehicle was a improvement on the earlier Soviet based PTP-73 (Type 73) AT gun with the same calibre with NATO alloy technologies (which came from L7A3 then domesticated as ZPT-79). The PTP-86 has similar performance as the [[Type 69]]'s gun and players can get used to it fairly quickly. Bear in mind the poor gun depression. It has a significantly faster turret rotation than the Type 69, which is a plus.
@@ -139,9 +133,7 @@ The DYW PT86-100 APFSDS round, introduced in [[Update "Red Skies"]], is the best
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.17.0.126''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -162,9 +154,7 @@ The DYW PT86-100 APFSDS round, introduced in [[Update "Red Skies"]], is the best
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|QJC88A (12.7 mm)|Type 86 (7.62 mm)}}
 
 The turret-mounted 12.7 mm QJC88A HMG has already become the standardized HMG for most PLAGF vehicles after the 1990s. The main usage of the HMG is to deal with lightly protected vehicles and low-flying aircraft including helicopters. It can also effectively damage gun barrels, tracks, optics, MG, and ERA to assist teammates in destroying enemies, though this may require a lot of fire. Players who dealt with the paltry 50-round belt capacity of the 12.7 mm DShK machine guns of previous PLA vehicles will be happy to know that the QJC88A has a much more generous 150-round belt capacity.
@@ -191,9 +181,7 @@ The 7.62 mm MG, on the other hand, is only useful in clearing obstacles such as 
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 Being a wheeled vehicle and the very first wheeled assault gun of the Chinese tech tree, the PTL02's main advantages lie in its mobility and gun sight.
 
 With its 85 km/h speed, flanking is the key to avoid any direct fire from pretty much any vehicle armed with at least a heavy machine gun. Because of the negligible protection found on this vehicle, take all precautions and avoid rushing into direct fire at all costs, you will not have the luxury of having the second chance to return fire. Being one of the slowest wheeled assault guns in the game, taking vantage points might not be possible considering the inferior top speed that only gets worse in off-road situations. The thin armour and poor reverse speed punish poor positioning, so think carefully about what spots allow the PTL02 to spot and engage enemies without being overly exposed to incoming fire. Complicated terrains are problematic for this vehicle and it tends to do better in urban combat. Any aircraft is a lethal threat, with either guns or rockets, so keep away from their sight. Use smoke grenades to mask your position if there are no buildings or other forms of large cover to hide behind. Helicopters in particular will have an easy time spotting and destroying the PTL02, so do not attract their attention and only make use of the heavy machine gun if they get very close.
@@ -212,48 +200,45 @@ Although being sluggish when stock, the PTL02 can still drive faster than some o
 
 ;Enemies worth noting
 
-- [[Rooikat Mk.1D]], [[Centauro (Family)|Centauro]], [[M1128]]: these wheeled vehicles perform a similar flanking role on the battlefield. Therefore you will often encounter them while flanking or on your way to flank. These vehicles are generally faster, both forwards and backwards, have better gun depression or better optics/ammo, so they may already be at a cap point before you. If this is the case, ambush around their location and passively hunt them down, as the PTL02's rather slow acceleration and bad reverse prevents it from being offensive in terms of mobility. The Rooikat lacks thermal sights, making it easier to spot and destroy preemptively. The Centauro has stronger armour and a more spaced out crew layout. The M1128 can only be encountered in a full uptier and has an unmanned turret, good thermal sights for all crew members, and slat armour that occasionally interferes with HEATFS rounds.
+* [[Rooikat Mk.1D]], [[Centauro (Family)|Centauro]], [[M1128]]: these wheeled vehicles perform a similar flanking role on the battlefield. Therefore you will often encounter them while flanking or on your way to flank. These vehicles are generally faster, both forwards and backwards, have better gun depression or better optics/ammo, so they may already be at a cap point before you. If this is the case, ambush around their location and passively hunt them down, as the PTL02's rather slow acceleration and bad reverse prevents it from being offensive in terms of mobility. The Rooikat lacks thermal sights, making it easier to spot and destroy preemptively. The Centauro has stronger armour and a more spaced out crew layout. The M1128 can only be encountered in a full uptier and has an unmanned turret, good thermal sights for all crew members, and slat armour that occasionally interferes with HEATFS rounds.
 
-- [[AMX-10RC]]: a contemporary French 6x6 wheeled light tank armed with a 105 mm gun, APFSDS rounds, and thermal sights for the gunner. The AMX-10RC has a rather low profile compared to other wheeled tanks and can be a dangerous sniper. Unlike the other wheeled vehicles mentioned previously, the AMX-10RC does not have any sort of gun stabilizer. Try to attack it when it is on the move and cannot shoot accurately.
+* [[AMX-10RC]]: a contemporary French 6x6 wheeled light tank armed with a 105 mm gun, APFSDS rounds, and thermal sights for the gunner. The AMX-10RC has a rather low profile compared to other wheeled tanks and can be a dangerous sniper. Unlike the other wheeled vehicles mentioned previously, the AMX-10RC does not have any sort of gun stabilizer. Try to attack it when it is on the move and cannot shoot accurately.
 
-- [[M60A1 RISE (P)]], [[Centurion Mk.5 AVRE]], [[Sho't Kal Dalet]]: these three medium tanks have good frontal armour and are equipped with ERA, so the HEATFS and stock 1-72-85 APFSDS will have some difficulty in direct engagements. All three have hull side armour of at most 50 mm, so the best option is usually to get a slight flank and overmatch their side armour using the APFSDS. In a last resort frontal engagement, all of them can be targeted in the turret ring area, though that is a difficult shot. The Sho't Kal can be ammo-racked through the lower glacis and the AVRE has some ERA gaps around the gun mantlet. Shooting the AVRE in the lower glacis is possible but somewhat annoying due to the obscuring plow attachment, and it is also hard to hit the ammo racks below the turret basket. These problems disappear once the top APFSDS is unlocked, as it has more than enough power to penetrate the three tanks anywhere and at any distance.
+* [[M60A1 RISE (P)]], [[Centurion Mk.5 AVRE]], [[Sho't Kal Dalet]]: these three medium tanks have good frontal armour and are equipped with ERA, so the HEATFS and stock 1-72-85 APFSDS will have some difficulty in direct engagements. All three have hull side armour of at most 50 mm, so the best option is usually to get a slight flank and overmatch their side armour using the APFSDS. In a last resort frontal engagement, all of them can be targeted in the turret ring area, though that is a difficult shot. The Sho't Kal can be ammo-racked through the lower glacis and the AVRE has some ERA gaps around the gun mantlet. Shooting the AVRE in the lower glacis is possible but somewhat annoying due to the obscuring plow attachment, and it is also hard to hit the ammo racks below the turret basket. These problems disappear once the top APFSDS is unlocked, as it has more than enough power to penetrate the three tanks anywhere and at any distance.
 
-- [[Gepard]], [[Type 87]], [[M3 Bradley]], [[BMP-2]], etc.: these vehicles are fast and armed with fully-stabilized autocannons that will very easily rip through the PTL02. Keep a safe distance and try to ambush them.
+* [[Gepard]], [[Type 87]], [[M3 Bradley]], [[BMP-2]], etc.: these vehicles are fast and armed with fully-stabilized autocannons that will very easily rip through the PTL02. Keep a safe distance and try to ambush them.
 
 Overall, the PTL02 can be put to good use by players who are skilled with using APFSDS and HEATFS rounds, perhaps from prior experience on the [[Type 69]], and are willing to trade any semblance of armour for increased scouting abilities, better mobility, and a very powerful top APFSDS round. The combination of thermals, a stabilized gun, and HEATFS + both APFSDS can prove useful in many situations and is good training for the fast-paced combat seen at higher ranks.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- High speed and agility on hard and even terrain
-- Hard-hitting 100 mm cannon capable of firing powerful rounds
-- Powerful DYW PT-86-100 APFSDS shell with 381 mm penetration which is very effective at its BR, still highly potent in uptiers
-- Gunner thermal optics significantly boost its fighting capability, especially at night
-- Fast turret traverse
-- Laser rangefinder with automatic ballistic solution
-- Two-plane stabiliser allows better targeting
-- Roof-mounted 12.7 mm HMG is lethal against helicopters and light vehicles
+* High speed and agility on hard and even terrain
+* Hard-hitting 100 mm cannon capable of firing powerful rounds
+* Powerful DYW PT-86-100 APFSDS shell with 381 mm penetration which is very effective at its BR, still highly potent in uptiers
+* Gunner thermal optics significantly boost its fighting capability, especially at night
+* Fast turret traverse
+* Laser rangefinder with automatic ballistic solution
+* Two-plane stabiliser allows better targeting
+* Roof-mounted 12.7 mm HMG is lethal against helicopters and light vehicles
 
 '''Cons:'''
 
-- Very thin armour, can be mowed down by common .50 cal MG frontally as well as knocked out by HE shells through overpressure
-- Tall profile with prominent antenna
-- Extremely slow reverse speed for a wheeled vehicle
-- Suspension is soft and bouncy, hull wobbles severely when breaking to a stop
-- As with other wheeled vehicles, poor mobility on soft or uneven terrain
-- Poor gun depression (-4 degrees) renders it useless in hilly battlefields
-- No thermal sight for commander
-- Stock shell will struggle to penetrate many enemies
-- Top APFSDS round is a tier IV modification
-- Rear-mounted turret restricts overextending tactic
+* Very thin armour, can be mowed down by common .50 cal MG frontally as well as knocked out by HE shells through overpressure
+* Tall profile with prominent antenna
+* Extremely slow reverse speed for a wheeled vehicle
+* Suspension is soft and bouncy, hull wobbles severely when breaking to a stop
+* As with other wheeled vehicles, poor mobility on soft or uneven terrain
+* Poor gun depression (-4 degrees) renders it useless in hilly battlefields
+* No thermal sight for commander
+* Stock shell will struggle to penetrate many enemies
+* Top APFSDS round is a tier IV modification
+* Rear-mounted turret restricts overextending tactic
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 In the early 1980s, Factory 256 (now known as NORINCO Chongqing Tiema Industrial Cooperation) started their version of a domestic wheeled APC program coded WZ551. The factory decided to build the APC based on the Mercedes-Benz 2026 off-road truck which has just been introduced into Mainland China, the program didn't go well as they decided later on to make major changes to the propulsion system and therefore the WZ551 was delayed. This delay caused the withdrawal of funding from the 7th 5-year project and Factory 256 needed to export this APC in order to recoup their investment. However, in 1986, the prototype of the WZ551 was approved by the PLAGF and was selected as their future wheeled APC. The WZ551's appearance resembled the French VAB APC, which may have influenced the former's design. It was approved for production in 1988 and designated as ZSL90 and later ZSL92 with improved propulsion. The WZ551A chassis was then designed to mount different weaponry ranging from riot-suppression equipment, mortar, IFV turret and anti-tank weaponry.
 
 Just a few years prior to the official introduction of WZ551 and its variant, PLAGF kept their eyes on the development of wheeled assault guns from NATO countries, and Factory 256 was also among one of the factories that was asked to design a new domestic wheeled assault gun; they then opted for Type 86 100 mm AT gun as the main gun of their prototype Type 87 wheeled assault gun. While it didn't make it through state certifications, the PLAGF did saw how the extensive use of wheeled assault guns during the Gulf War helped the Coalition as a light, mobile gun platform while remaining less expensive to operate than conventional MBTs. Later, when the tension between Mainland China and the Taiwanese Government got more intense (the 2nd Taiwan Strait Crisis), PLAGF also found the potential of using a wheeled assault gun with the extensive and well-developed road network of Taiwan in view of the possible landing operations; thus WZ551A got a second chance. After some rapid development, PTL97 with 100 mm AT gun passed field tests, it was then further upgraded with a new image-stabilized FCS and some redesign of the main gun. The newly designed PTL02 finally passed state certification in October 2001 and was first publicly shown in the 50th Anniversary of the Establishment of PRC parade, as the 12th phalanx of the vehicle column in the parade. It serves as a quick response mobile gun platform for the artillery troops.
@@ -266,12 +251,11 @@ The army authorities returned to the project in the early 90s, when, in the cour
 Mass production of the PTL02 has been going on since 2004, the SPG is widely used by the Chinese army and is produced for [[WMA301|export in a version with a 105 mm gun]], unified for the use of Western-style ammunition.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=cn_ptl_02 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=cn_ptl_02 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" heights="150">
@@ -287,29 +271,27 @@ File:PTL02 WTWallpaper 06.jpg|
 {{Youtube-gallery|chjZ6Hra--c|'''Best wheeled tanks''' discusses the {{PAGENAME}} at 01:47 - ''War Thunder Official Channel''|MMCxWP5N75Q|'''A Simple Video On A Respectable Chinese Tank Destroyer''' - ''PhlyDaily''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
 
-- [[WMA301]]- export version on the same chassis with NATO 105 mm gun and revised turret.
-- [[AFT09]]- ATGM carrier based on the 4x4 WZ550 chassis
+* [[WMA301]]- export version on the same chassis with NATO 105 mm gun and revised turret.
+* [[AFT09]]- ATGM carrier based on the 4x4 WZ550 chassis
 
 ;Other vehicles of similar configuration and role
 
-- [[Rooikat Mk.1D]]
-- [[Centauro I 105]]
-- [[AMX-10RC]]
+* [[Rooikat Mk.1D]]
+* [[Centauro I 105]]
+* [[AMX-10RC]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/7047-development-ptl02-chinese-wheels-en|[Devblog] PTL02: Chinese Wheels]]
+* [[wt:en/news/7047-development-ptl02-chinese-wheels-en|[Devblog] PTL02: Chinese Wheels]]
 
 {{TankManufacturer Norinco}}
 {{China light tanks}}

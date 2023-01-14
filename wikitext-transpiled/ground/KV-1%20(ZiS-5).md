@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet heavy tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before [[Update 1.41]]. This KV-1 introduces a new armament, the ZiS-5, that has a much stronger punch than the L-11 from its predecessor while retaining the same armour.
 
 This tank is very similar to its predecessors, but mounts the same gun of the [[T-34 (1942)]] sharing its ability to fire APCR shells. The player should feel at home once going through the [[KV-1 (L-11)]], and while not as fast as the [[KV-1S]], it maintains more armour all-around. The gun may be lacking on penetration unless using APCR shells, its velocity is poor (makes it harder to aim in Realistic Battles), but will do plenty of damage once penetrated and reloads quite quickly. The armour is outstanding when angled. With extra 25 mm spaced armour at the front of the hull results in a total of over 100 mm of armour. The tank can take a lot of damage from lower ranks and still survive the battle. The turret remains vulnerable, however, but the turret ring is reinforced, which means that it's harder to jam the turret.
@@ -19,13 +17,11 @@ This tank is very similar to its predecessors, but mounts the same gun of the [[
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (Gun mantlet)
+* Rolled homogeneous armour
+* Cast homogeneous armour (Gun mantlet)
 
 {| class="wikitable"
 |-
@@ -39,10 +35,10 @@ This tank is very similar to its predecessors, but mounts the same gun of the [[
 [[File:KV-1 ZiS-5 Screenshot 1.jpg|thumb|KV-1 ZiS-5 on [[Kursk (Ground Forces)|Kursk]] ]]
 '''Notes:'''
 
-- Suspension wheels are 20 mm thick and tracks are 30 mm thick.
-- Lower glacis applique armour do not cover the entire plate.
-- The turret ring is protected by applique armour that are 25 mm thick, the front hull also has the benefit of having top part of the applique armour on the front plate also covering the path to the turret ring.
-- The gun mantlet is extra protected with additional 90 mm plates added on, resulting in a very thick front turret armour. This is added with 45 mm plates on the very top and bottom of the gun shield. The side cheeks of the front armour are still vulnerable due to their small slope angles.
+* Suspension wheels are 20 mm thick and tracks are 30 mm thick.
+* Lower glacis applique armour do not cover the entire plate.
+* The turret ring is protected by applique armour that are 25 mm thick, the front hull also has the benefit of having top part of the applique armour on the front plate also covering the path to the turret ring.
+* The gun mantlet is extra protected with additional 90 mm plates added on, resulting in a very thick front turret armour. This is added with 45 mm plates on the very top and bottom of the gun shield. The side cheeks of the front armour are still vulnerable due to their small slope angles.
 
 The KV-1 ZiS-5 armour is still relatively strong at the hull, taking the base armour of the original KV-1 L-11 with extra armour added on. While the mobility is subpar and firepower is the same compared to the more ubiquitous Soviet T-34 medium tank, they can still be a threat if ignored.
 
@@ -50,9 +46,7 @@ If facing an un-angled KV-1 face-on, the front hull plate is still a popular pla
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-
 [[File:KV-1 ZiS-5 Screenshot 2.jpg|thumb|KV-1 ZiS-5 on [[Kursk (Ground Forces)|Kursk]]]]
 
 {{tankMobility|abMinHp=775|rbMinHp=531}}
@@ -64,9 +58,7 @@ If facing an un-angled KV-1 face-on, the front hull plate is still a popular pla
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|ZIS-5 (76 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -152,9 +144,7 @@ If facing an un-angled KV-1 face-on, the front hull plate is still a popular pla
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 1.101.0.61''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -168,15 +158,12 @@ If facing an un-angled KV-1 face-on, the front hull plate is still a popular pla
 |-
 |}
 '''Notes''':
-
-- Racks are modeled by sets of 2, 3 or 4 shells and sets disappear from the rack once all shells in the set have been loaded/fired.
-- Turret empty: 106&nbsp;''(+10)'' shells.
+* Racks are modeled by sets of 2, 3 or 4 shells and sets disappear from the rack once all shells in the set have been loaded/fired.
+* Turret empty: 106&nbsp;''(+10)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|DT (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -192,9 +179,7 @@ If facing an un-angled KV-1 face-on, the front hull plate is still a popular pla
 The small calibre of the DT machine gun makes it largely ineffective against all armoured vehicles but the ones with an open compartment. It still can be used to ping targets as a rangefinding help. The clip capacity of the machine gun is quite poor, as it relies on a magazine of 63 bullets instead of a belt like similar machine guns from other nations.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 [[File:KV-1 ZiS-5 Screenshot 3.jpg|thumb|KV-1 ZiS-5 on [[Kursk (Ground Forces)|Kursk]]]]
 The KV-1 ZiS-5 plays like a standard heavy tank, with heavy armour able to soak up shells while angled and a decent 76 mm gun to fire back. While mobility is not the greatest, it is sufficient to get up to the front lines in time for the battle. Compared to its predecessors, the KV-1 ZiS-5 serves as a continuation rather than a big improvement, with the ZiS-5 gun the [[KV-1S]] had while sacrificing mobility for more armour.
 
@@ -217,38 +202,35 @@ High battle rating vehicles like the [[Tiger H1|Tiger I]] heavy tank have guns a
 [[File:KV-1 ZiS-5 screenshot 4.jpg|thumb|KV-1 ZiS-5 on [[Kursk (Ground Forces)|Kursk]]]]
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Good penetration value, especially with APCR shells
-- Good rate of fire
-- Additional armour plates give this tank very effective hull armour up to 100 mm thick
-- One of the few Soviet tanks with a full 5 man crew
-- Eliminates the turret ring weakness from the previous KV-1 model with additional plates
-- Decently fast for a heavy tank
-- Very hard to knock out in 1 hit
-- Turret shape tends to bounce rounds off
-- Rear mounted transmission prevents front hits from immobilizing via components
-- Able to resist the up-gunned Panzer IVs at ranges >500 m
-- Invulnerable at all angles to 20 and 37 mm autocannons
+* Good penetration value, especially with APCR shells
+* Good rate of fire
+* Additional armour plates give this tank very effective hull armour up to 100 mm thick
+* One of the few Soviet tanks with a full 5 man crew
+* Eliminates the turret ring weakness from the previous KV-1 model with additional plates
+* Decently fast for a heavy tank
+* Very hard to knock out in 1 hit
+* Turret shape tends to bounce rounds off
+* Rear mounted transmission prevents front hits from immobilizing via components
+* Able to resist the up-gunned Panzer IVs at ranges >500 m
+* Invulnerable at all angles to 20 and 37 mm autocannons
 
 '''Cons:'''
 
-- Manoeuvrability and HP ratio are below average, making you vulnerable during displacements
-- Turning will bleed off speed very quickly
-- Reverse speed is inadequate
-- Driver's port is not covered by the additional armour
-- Turret can easily be penetrated from the front with most weapons
-- Relatively cramped interior can cause one penetration to devastate many modules
-- May be unable to compete with standard ammo in up-tiers
-- Sides are weak points with large fuel tanks and ammo stowage, a penetrating round has a high chance of striking one of these
+* Manoeuvrability and HP ratio are below average, making you vulnerable during displacements
+* Turning will bleed off speed very quickly
+* Reverse speed is inadequate
+* Driver's port is not covered by the additional armour
+* Turret can easily be penetrated from the front with most weapons
+* Relatively cramped interior can cause one penetration to devastate many modules
+* May be unable to compete with standard ammo in up-tiers
+* Sides are weak points with large fuel tanks and ammo stowage, a penetrating round has a high chance of striking one of these
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 The start of the KV-1 heavy tanks began after the heavy tank [[T-35]] flaws came to light. Designers were ordered to draw up new designs to become the basis of a breakthrough heavy tank needed for the Soviet doctrine. This made for a tank that was heavily armoured, but not very mobile as it was to be for siege warfare. The designs offered all had heavy armour, wide tracks, and used the torsion-bar suspension. The designs were the [[SMK]], T-100, and what would be the '''KV tank''', which was named after the then Soviet Defense Commissar '''K'''liment '''V'''oroshilov.
 
@@ -280,40 +262,34 @@ In 1941-1943, KV tanks served in the main battalions of mixed tank brigades and 
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_kv_1_zis_5 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_kv_1_zis_5 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|ashPT0NiIN0|'''My New (Invincible) Money Printer: KV-1 (ZiS-5)''' - ''Virus''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
-
-- [[KV-1 (Family)]]
+* [[KV-1 (Family)]]
 
 ;Other vehicles of similar configuration and role
-
-- [[Churchill III]]
-- [[Churchill VII]]
+* [[Churchill III]]
+* [[Churchill VII]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/792--en|[Historical] Zinovy Kolobanov's feat of arms]]
-- [[wikipedia:Kliment_Voroshilov_tank|[Wikipedia] Kliment Voroshilov tank]]
-- [https://tanks-encyclopedia.com/ww2/soviet/soviet_KV-1.php <nowiki>[Tanks Encyclopedia]</nowiki> KV-1]
+* [[wt:en/news/792--en|[Historical] Zinovy Kolobanov's feat of arms]]
+* [[wikipedia:Kliment_Voroshilov_tank|[Wikipedia] Kliment Voroshilov tank]]
+* [https://tanks-encyclopedia.com/ww2/soviet/soviet_KV-1.php <nowiki>[Tanks Encyclopedia]</nowiki> KV-1]
 
 {{TankManufacturer Kirov}}
 {{USSR heavy tanks}}

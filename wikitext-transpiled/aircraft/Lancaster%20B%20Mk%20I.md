@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British bomber {{Battle-rating}}. It was introduced in [[Update 1.43]].
 
 Developed from the troublesome Avro Manchester, the Avro Lancaster is a long-range heavy bomber optimised for delivering huge payload over long distances. Compared to its contemporary like the American [[B-17 (Family)|B-17]] or the German [[Fw 200 C-1|Fw 200]], the Lancaster carries twice the payload while being generally easier to handle. Because of this, the "Lanc" is an ideal bomber for destroying bases and airfields with bombs from high altitude.
@@ -21,9 +19,7 @@ Because of the optimization for large payload and good manoverability, the early
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 Unlike the other heavy bombers, the Lancaster is surprisingly responsive and easy to handle. While it is not going to win any dogfights, the plane can steer and bank around well enough to adjust the bomb sight for accurate drop. The plane can also maintain its admittedly slow speed quite well, owning to four powerful Merlin engines. This allows the Lancaster to do a shallow descent and reach the base just in time before enemy fighter arrives.
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -50,7 +46,7 @@ Unlike the other heavy bombers, the Lancaster is surprisingly responsive and eas
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -81,11 +77,10 @@ Unlike the other heavy bombers, the Lancaster is surprisingly responsive and eas
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 8 mm Steel plate on each pilot's headrest.
-- 6.35 mm Steel plate behind each engine.
+* 8 mm Steel plate on each pilot's headrest.
+* 6.35 mm Steel plate behind each engine.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -94,39 +89,33 @@ Unlike the other heavy bombers, the Lancaster is surprisingly responsive and eas
 {{Specs-Avia-Armaments}}
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|M.C. 1,000 lb Mk.I (1,000 lb)|G.P. Mk.I (1,000 lb)|H.C. 4,000 lb Mk.II (4,000 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 14 x 250 lb G.P. Mk.IV bombs (3,500 lb total)
-- 6 x 500 lb G.P. Mk.IV bombs + 8 x 250 lb G.P. Mk.IV bombs (5,000 lb total)
-- 14 x 500 lb G.P. Mk.IV bombs (7,000 lb total)
-- 1 x 1,000 lb G.P. Mk.I bomb + 6 x 500 lb G.P. Mk.IV bombs + 2 x 250 lb G.P. Mk.IV bombs (4,500 lb total)
-- 6 x 1,000 lb G.P. Mk.I bombs + 3 x 250 lb G.P. Mk.IV bombs (6,750 lb total)
-- 14 x M.C. 1,000 lb Mk.I bombs (14,000 lb total)
-- 1 x H.C. 4,000 lb Mk.II bomb + 6 x M.C. 1,000 lb Mk.I bombs + 2 x 250 lb G.P. Mk.IV bombs (10,500 lb total)
-- 2 x H.C. 4,000 lb Mk.II bombs (8,000 lb total)
+* 14 x 250 lb G.P. Mk.IV bombs (3,500 lb total)
+* 6 x 500 lb G.P. Mk.IV bombs + 8 x 250 lb G.P. Mk.IV bombs (5,000 lb total)
+* 14 x 500 lb G.P. Mk.IV bombs (7,000 lb total)
+* 1 x 1,000 lb G.P. Mk.I bomb + 6 x 500 lb G.P. Mk.IV bombs + 2 x 250 lb G.P. Mk.IV bombs (4,500 lb total)
+* 6 x 1,000 lb G.P. Mk.I bombs + 3 x 250 lb G.P. Mk.IV bombs (6,750 lb total)
+* 14 x M.C. 1,000 lb Mk.I bombs (14,000 lb total)
+* 1 x H.C. 4,000 lb Mk.II bomb + 6 x M.C. 1,000 lb Mk.I bombs + 2 x 250 lb G.P. Mk.IV bombs (10,500 lb total)
+* 2 x H.C. 4,000 lb Mk.II bombs (8,000 lb total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|Browning (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 2 x 7.7 mm Browning machine guns, nose turret (1,000 rpg = 2,000 total)
-- 2 x 7.7 mm Browning machine guns, dorsal turret (1,000 rpg = 2,000 total)
-- 4 x 7.7 mm Browning machine guns, tail turret (2,500 rpg = 10,000 total)
+* 2 x 7.7 mm Browning machine guns, nose turret (1,000 rpg = 2,000 total)
+* 2 x 7.7 mm Browning machine guns, dorsal turret (1,000 rpg = 2,000 total)
+* 4 x 7.7 mm Browning machine guns, tail turret (2,500 rpg = 10,000 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Lancaster carries the heaviest bomb load of any bomber before the American [[B-29A-BN|Boeing B-29 Superfortress]], at a fantastic 14,000 lb (6,363 kg), and the heaviest of any British bomber in the game. It can quickly end games if left to go about its business. The Lancaster also has relatively good performance and agility for a four-engined heavy bomber, significantly better than both the American B-17 and B-24 bombers.
 
 Unfortunately, the Lancaster is extremely vulnerable if intercepted by enemy fighters. Its defensive armament consists only of .303 in Browning machine guns; while they have a high rate-of-fire, they are not very lethal to enemy fighters outside of a lucky fire set by the incendiary bullets. In addition, the Lancaster has no ventral turret covering attacks from below due to H2S radar unit (a useless feature in the game). The aircraft itself is not very durable as well and is extremely vulnerable to cannons of 20 mm calibre and larger.
@@ -151,29 +140,27 @@ The safest way to use this bomber is to attack bases from around the map. Do a b
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Massive bombload of up to 6 tons
-- Powerful Merlin engines providing good performance
-- Excellent handling and manoeuvrability
-- Has a total of 4 x 7.7 mm MG facing upper rear area which can be lethal to some targets with careful aiming
-- 4 engines means that it can maintain flying ability despite damage to some engines
-- H-tail means that if one rudder is shot off, the other one still works
+* Massive bombload of up to 6 tons
+* Powerful Merlin engines providing good performance
+* Excellent handling and manoeuvrability
+* Has a total of 4 x 7.7 mm MG facing upper rear area which can be lethal to some targets with careful aiming
+* 4 engines means that it can maintain flying ability despite damage to some engines
+* H-tail means that if one rudder is shot off, the other one still works
 
 '''Cons:'''
 
-- Very low durability
-- Is a big and slow target
-- No armour plates protecting gunners
-- Pathetic defensive armament due to their small calibre and bad damage. Cannot effectively hurt heavily armoured interceptors such as Me 410.
-- No turret coverage for the belly
-- Easily damaged elevators and tail controls
+* Very low durability
+* Is a big and slow target
+* No armour plates protecting gunners
+* Pathetic defensive armament due to their small calibre and bad damage. Cannot effectively hurt heavily armoured interceptors such as Me 410.
+* No turret coverage for the belly
+* Easily damaged elevators and tail controls
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The Avro Lancasters is a long-range heavy bomber built and designed by A.V. Roe and Company (or Avro). It was developed as an "upgrade" from the Avro Manchester which was disliked by crews for its difficulty to fly and underpowered engines.
@@ -197,29 +184,25 @@ Over 3,400 Lancaster B.Is were manufactured between November 1941 and March 1946
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=lancaster_mk1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=lancaster_mk1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- Video on "Grand Slam" bomb (History section) https://www.youtube.com/watch?v=R-Mm-zFW_nA&feature=relmfu
-- Lancaster "Data Card" (History section) [http://www.wwiiaircraftperformance.org/Lancaster/Lancaster_I_III_ADS-b.jpg click here]
-- Heavy Bombs (History Section) https://www.iwm.org.uk/collections/item/object/205210816
-- General Information (History Section) https://books.google.co.uk/books?id=0SkDAAAAMBAJ&pg=PA48-IA3&redir_esc=y#v=onepage&q&f=false
+* Video on "Grand Slam" bomb (History section) https://www.youtube.com/watch?v=R-Mm-zFW_nA&feature=relmfu
+* Lancaster "Data Card" (History section) [http://www.wwiiaircraftperformance.org/Lancaster/Lancaster_I_III_ADS-b.jpg click here]
+* Heavy Bombs (History Section) https://www.iwm.org.uk/collections/item/object/205210816
+* General Information (History Section) https://books.google.co.uk/books?id=0SkDAAAAMBAJ&pg=PA48-IA3&redir_esc=y#v=onepage&q&f=false
 
 {{AirManufacturer Avro}}
 {{Britain bombers}}

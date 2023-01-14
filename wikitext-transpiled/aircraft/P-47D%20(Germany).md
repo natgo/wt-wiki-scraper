@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27. It was removed from sale with [[Update "New Power"]], replaced by the [[P-47D-16 RE (Germany)]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -45,7 +42,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German fighter {{
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -76,13 +73,12 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German fighter {{
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 9.5 mm steel behind pilot
-- 9.5 mm steel underneath the windshield
-- 38 mm bulletproof glass in front of pilot
-- 2 self-sealing fuel tanks (1 below pilot, 1 in front of pilot)
+* 9.5 mm steel behind pilot
+* 9.5 mm steel underneath the windshield
+* 38 mm bulletproof glass in front of pilot
+* 2 self-sealing fuel tanks (1 below pilot, 1 in front of pilot)
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -91,19 +87,15 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German fighter {{
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 8 x 12.7 mm M2 Browning machine guns, wing-mounted (425 rpg = 3,400 total)
+* 8 x 12.7 mm M2 Browning machine guns, wing-mounted (425 rpg = 3,400 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 As with the other P-47s in-game, this aircraft should be primarily played using Boom and Zoom tactics. You may need to side climb in order to get into a viable position, given that allied aircraft will be at a higher altitude than you a good amount of the time. It is highly recommended to not try and turn with the aircraft you are trailing, as this is how you will quickly lose energy and become easy pickings. Instead, after your first pass, initiate a relatively steep climb. This will allow you to once again take the altitude advantage on the enemy, which will further give more opportunities for BnZing. When climbing back up, however, pay attention to what aircraft may be around. You are essentially a free kill for anyone in the vicinity if you are not aware of what is around.
 
 This variant of the P-47 does not offer any payload options, so using it in a CAS (Close Air Support) role may not be as effective versus the other P-47 variants.
@@ -120,9 +112,9 @@ For ground pounding, dive at a shallow angle to approach the target, try to get 
 
 '''Enemies worth noting:'''
 
-- [[Me 264]] (mixed battle): This giant is one of the few bombers who get air spawns in Sim, so it usually flies higher than you think. On top of this, the Me 264 is armed with large calibre machine guns and cannons all over it, therefore tailing a 264 is basically suicide unless all of their gunners are knocked out. You can treat the 264 almost like a B-29 or B-17 as they are very similar in both design and defensive capabilities. It is best to head-on the 264 if you can as you can easily knock out the pilots due to its glazed nose while also taking minimal damage. However the bomber lacks a ventral turret on its belly, making it easy to deal damage from below, but be wary of the downwards facing rear 20 mm cannon near the tail. The safest way to attack is from a higher altitude, dive at an oblique angle and focus fire on the wings and nose. Never engage if you have no altitude advantage.
+* [[Me 264]] (mixed battle): This giant is one of the few bombers who get air spawns in Sim, so it usually flies higher than you think. On top of this, the Me 264 is armed with large calibre machine guns and cannons all over it, therefore tailing a 264 is basically suicide unless all of their gunners are knocked out. You can treat the 264 almost like a B-29 or B-17 as they are very similar in both design and defensive capabilities. It is best to head-on the 264 if you can as you can easily knock out the pilots due to its glazed nose while also taking minimal damage. However the bomber lacks a ventral turret on its belly, making it easy to deal damage from below, but be wary of the downwards facing rear 20 mm cannon near the tail. The safest way to attack is from a higher altitude, dive at an oblique angle and focus fire on the wings and nose. Never engage if you have no altitude advantage.
 
-- [[Bf 110 (Family)|Bf 110]], [[Ki-45 (Family)|Ki-45]], [[A-26 (Family)|A-26]]: As mentioned before, those twin engine aircraft are a big threat since their lack of manoeuvrability comparing to single engine fighters are minimised in Sim. They are usually armed with heavy guns & cannons in the nose, so an accurate burst will tear any plane apart, including the P-47. The P-47 manoeuvres rather sluggishly and you might get out-turned from even those heavy fighters, so engage them with either altitude or speed advantage to avoid being targeted. If they are not manoeuvring aggressively, aim for their wings or engines. If the fight is intense and you cannot smooth the aim, just burst anywhere as long as you hit them, the 12.7 mm bullets will damage their flight models quite a bit.
+* [[Bf 110 (Family)|Bf 110]], [[Ki-45 (Family)|Ki-45]], [[A-26 (Family)|A-26]]: As mentioned before, those twin engine aircraft are a big threat since their lack of manoeuvrability comparing to single engine fighters are minimised in Sim. They are usually armed with heavy guns & cannons in the nose, so an accurate burst will tear any plane apart, including the P-47. The P-47 manoeuvres rather sluggishly and you might get out-turned from even those heavy fighters, so engage them with either altitude or speed advantage to avoid being targeted. If they are not manoeuvring aggressively, aim for their wings or engines. If the fight is intense and you cannot smooth the aim, just burst anywhere as long as you hit them, the 12.7 mm bullets will damage their flight models quite a bit.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -142,27 +134,25 @@ For ground pounding, dive at a shallow angle to approach the target, try to get 
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great at diving and Boom & Zoom
-- Impressive speed, great engine performance above 6,000 m
-- Very rugged construction can keep the plane flying despite damages
-- Impressive firepower of 8 x 12.7 mm M2 Browning machine guns with also impressive ammunition pool
-- Very fast for its rank
+* Great at diving and Boom & Zoom
+* Impressive speed, great engine performance above 6,000 m
+* Very rugged construction can keep the plane flying despite damages
+* Impressive firepower of 8 x 12.7 mm M2 Browning machine guns with also impressive ammunition pool
+* Very fast for its rank
 
 '''Cons:'''
 
-- Terrible turning time (overall manoeuvrability) at low altitude/low speed
-- Mediocre climb performance (side climbing recommended)
-- Big target, larger than average fighters
-- Very limited capability to ground pound targets, limited to softer targets which 12 mm guns can penetrate
-- No suspended armament
+* Terrible turning time (overall manoeuvrability) at low altitude/low speed
+* Mediocre climb performance (side climbing recommended)
+* Big target, larger than average fighters
+* Very limited capability to ground pound targets, limited to softer targets which 12 mm guns can penetrate
+* No suspended armament
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -174,24 +164,20 @@ The official designation of the P-47, like that of many other Republic aircraft,
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=p-47d_luftwaffe Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=p-47d_luftwaffe Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer Republic}}
 {{Germany fighters}}

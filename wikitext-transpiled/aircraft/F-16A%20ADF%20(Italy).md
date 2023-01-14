@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian jet fighter {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
 
 A representation of rented [[F-16A ADF]]s from the USAF for the Italian Air Force; aside from the roundel on the aircraft, the jet performs exactly like its American counterpart, ensuring the air-combat capability of Italy with some of the most advanced missiles in game, as well as advanced avionics and manoeuvrability.
@@ -19,14 +17,12 @@ A representation of rented [[F-16A ADF]]s from the USAF for the Italian Air Forc
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at \_,**_ m)
+! colspan="2" | Max speed<br>(km/h at _,___ m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -35,10 +31,10 @@ A representation of rented [[F-16A ADF]]s from the USAF for the Italian Air Forc
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| _** || **\_ || rowspan="2" | {{Specs|ceiling}} || **._ || \_\_._ || **.\_ || **.\_ || rowspan="2" | **_
+| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
 |-
 ! Upgraded
-| _** || **\_ || **._ || \_\_._ || **.\_ || **.\_
+| ___ || ___ || __._ || __._ || __._ || __._
 |-
 |}
 
@@ -49,7 +45,7 @@ A representation of rented [[F-16A ADF]]s from the USAF for the Italian Air Forc
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || ✓ || ✓ || X <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || ✓ || X     <!-- ✓ -->
 |-
 |}
 
@@ -64,7 +60,7 @@ A representation of rented [[F-16A ADF]]s from the USAF for the Italian Air Forc
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 1,555 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || N/A || 470 || 463 || ~** || ~**
+| 1,555 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || N/A || 470 || 463 || ~__ || ~__
 |-
 |}
 
@@ -74,7 +70,7 @@ A representation of rented [[F-16A ADF]]s from the USAF for the Italian Air Forc
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < **_ || < _** || < \_\_\_ || N/A
+| < ___ || < ___ || < ___ || N/A
 |-
 |}
 
@@ -88,7 +84,7 @@ A representation of rented [[F-16A ADF]]s from the USAF for the Italian Air Forc
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
 |-
 | colspan="2" | Pratt & Whitney F100-PW-220 || 1
-| colspan="2" | 7,970 kg || colspan="2" | \_\_\_ kg/m<sup>2</sup>
+| colspan="2" | 7,970 kg || colspan="2" | ___ kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="3" | Mass with internal fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
@@ -115,9 +111,7 @@ A representation of rented [[F-16A ADF]]s from the USAF for the Italian Air Forc
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
 
 === Modifications and economy ===
@@ -136,30 +130,26 @@ A representation of rented [[F-16A ADF]]s from the USAF for the Italian Air Forc
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M61A1 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 1 x 20 mm M61A1 cannon, wing root-mounted (512 rpg)
-  ** 1 x 20 mm M61A1 cannon + 60 x countermeasures
+* A choice between two presets:
+** 1 x 20 mm M61A1 cannon, wing root-mounted (512 rpg)
+** 1 x 20 mm M61A1 cannon + 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AIM-7M Sparrow|AIM-9L Sidewinder}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- 1 x 300 gal drop tank
-- 2 x AIM-9L Sidewinder missiles
-- 6 x AIM-9L Sidewinder missiles
-- 2 x AIM-7M Sparrow missiles
+* 1 x 300 gal drop tank
+* 2 x AIM-9L Sidewinder missiles
+* 6 x AIM-9L Sidewinder missiles
+* 2 x AIM-7M Sparrow missiles
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -179,32 +169,27 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- High power-to-weight ratio gives it an incredible acceleration
-- Highly manoeuvrable at lower speeds
-- Able to carry a drop tank to extend flight time
-- Access to 6 x AIM-9L Sidewinder missiles
+* High power-to-weight ratio gives it an incredible acceleration
+* Highly manoeuvrable at lower speeds
+* Able to carry a drop tank to extend flight time
+* Access to 6 x AIM-9L Sidewinder missiles
 
 '''Cons:'''
 
-- Consumes fuel quickly
-- G limit
-- No air-to-ground armament
+* Consumes fuel quickly
+* G limit
+* No air-to-ground armament
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The history of the F-16 ADF began during the mid 1980s, America had phased out their USAF Air Defense Command which meant the duty to protect the American skies would completely fall to the Air National Guard. Their main task was to intercept bombers from the Soviet Union during a theoretical invasion. This meant that they would need an agile aircraft which would not only be fast enough to intercept the high altitude bombers, but also be properly equipped to shoot enemy aircraft down. General Dynamics initially would convert up to 270 F-16A/F-16B airframes into ADF standard. The modification would retain the ability to mount air-to-ground missiles, rockets and bombs however it introduced the AN/APG-66 radar which greatly improved target acquisition of small targets, IFF for distinguishing friendlies and foes (AN/APX-109), and a 150,000-candlepower night spotlight for identification. The ADF would be in service for many years, but ultimately due to the Cold War dying down after the dissolution of the USSR, the need for all the surplus F-16s would dwindle down. Some of the ADFs would be converted back into regular F-16As or Bs, whilst others were either put in storage or exported to other nations.
 
 In Italy's case, during the end of the Cold War the F-104s were still Italy's primary defence against enemy bombers and fighter jets, and although it did have some upsides as it was still extremely fast meaning it could react to threats quicker, it was not fit for dogfighting. Italy joined in the Eurofighter program, which also included Spain, Germany and the UK, this would allow them to have a common modern multi-role fighter that would go into service and remain in service for decades to come. The issue however was development of this new fighter required time and money, something which after the Soviet Union collapsed was not readily available, especially due to all western/NATO countries deciding to downsize their armed forces. Italy would be put in a very tough situation, the F-104s were still in service but they could not risk them being shot down in case they were forced to enter a dogfight.
@@ -216,33 +201,27 @@ Before delivery to the Italian Air Force, the aircraft would be brought out of s
 Italian F-16s in service would not be equipped with rockets, bombs or air to ground munitions, however they did still retain the ability to do so. Italian F-16 armament consisted of AIM-120, AIM-9L, and also AIM-9E and M anti-air missiles. The 20 mm Vulcan was also kept. Italian F-16s would be a main component of the Italian Air Force. One of their first deployments would be in Libyan airspace, as part of NATO's Operation Unified Protector which established a no-fly zone over Libya. They'd also be used as escorts for Italian SEAD packages. As the first decade went by relatively peacefully and the eventual commission of Eurofighters for Italy, Italian F-16s belonging to the 5° Stormo would be retired at Cervia air base in 2010 with each F-16 being painted in a special colour. On the 23rd of May 2012, a disbanding ceremony would held at Trapani-Birgi air force base to mark the disbandment of the 18° Gruppo, which at that point was the sole surviving F-16 squadron within the Italian Air Force. Not all Italian F-16s were returned to America, some were stored in Italy whilst some made their way to museums; for example, at the Vigna di Valle museum, there is an F-16 which belonged to 23° Gruppo of the 5° Stormo, MM7251.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-
 ''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 The F-16 family
 
-- [[F-16A]] and [[F-16A Netz (Israel)|F-16A Netz]]: Block 10 variants with ground attack capabilities
-- [[F-16A ADF]]: Block 15 of US ANG (Air National Guard) before they were leased to Italy
-- [[F-16A MLU (China)|F-16A MLU]]: so-called Block 20 dedicated to ROCAF with both aerial combat and ground attack capabilities
+* [[F-16A]] and [[F-16A Netz (Israel)|F-16A Netz]]: Block 10 variants with ground attack capabilities
+* [[F-16A ADF]]: Block 15 of US ANG (Air National Guard) before they were leased to Italy
+* [[F-16A MLU (China)|F-16A MLU]]: so-called Block 20 dedicated to ROCAF with both aerial combat and ground attack capabilities
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{Italy jet aircraft}}
 <references />

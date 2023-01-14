@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=uk_crusader_aa_mk_1
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British self-propelled anti-aircraft gun {{Battle-rating}}. It was released along with the initial British tree line in [[Update 1.55 "Royal Armour"]]. Compared to the [[Crusader AA Mk II|Mk II variant]], the Mk I features a single 40 mm Bofors auto-cannon as its main armament. While it means a reduced rate of fire compared to the faster firing 20 mm Oerlikon auto-cannons, the 40 mm can cause devastating damage if it hits an aircraft.
 
 In comparison to its predecessor and other 40 mm contemporaries like the American [[M19]], the Crusader AA Mk I unfortunately has some disadvantages. The single 40 mm cannon means that it cannot fire as fast as the 20 mm auto-cannons on the predecessor or have the fire density of the dual-cannons on the M19. Thus, accuracy is important to conserve what little ammo the SPAA can hold and to make sure that airplane gets hit.
@@ -21,12 +19,10 @@ The Crusader AA Mk I is meant to be a SPAA, meaning it must stay away from the f
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
-- Rolled homogeneous armour
+* Rolled homogeneous armour
 
 {| class="wikitable"
 |-
@@ -39,11 +35,10 @@ The Crusader AA Mk I is meant to be a SPAA, meaning it must stay away from the f
 |}
 '''Notes:'''
 
-- Suspension wheels and tracks are 15 mm thick.
+* Suspension wheels and tracks are 15 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=483|rbMinHp=301}}
@@ -55,9 +50,7 @@ The Crusader AA Mk I is meant to be a SPAA, meaning it must stay away from the f
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|Bofors L/60 (40 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -78,9 +71,9 @@ The Crusader AA Mk I is meant to be a SPAA, meaning it must stay away from the f
 
 ==== Ammunition ====
 
-- '''Default:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|FI-T*|Fragmentation incendiary tracer (self-destroying)}} - These work fine, a hit on an aircraft means certain death for it and still is able to hurt ground vehicles, especially if it is side into the side of a enemy tank. These seem like a good I don't know what i will run into belt.
-- '''Mk.II:''' {{Annotation|FI-T*|Fragmentation incendiary tracer (self-destroying)}} - These mean certain death for aircraft, what should be used for AA work.
-- '''M81A1:''' {{Annotation|AP-T|Armour-piercing tracer}} - These are the worst belts against airplanes. however, they are able to hurt ground vehicles especially if it is side into the side of a enemy tank. If you plan on killing tanks load this and flank, since side shots are almost a necessity.
+* '''Default:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|FI-T*|Fragmentation incendiary tracer (self-destroying)}} - These work fine, a hit on an aircraft means certain death for it and still is able to hurt ground vehicles, especially if it is side into the side of a enemy tank. These seem like a good I don't know what i will run into belt.
+* '''Mk.II:''' {{Annotation|FI-T*|Fragmentation incendiary tracer (self-destroying)}} - These mean certain death for aircraft, what should be used for AA work.
+* '''M81A1:''' {{Annotation|AP-T|Armour-piercing tracer}} - These are the worst belts against airplanes. however, they are able to hurt ground vehicles especially if it is side into the side of a enemy tank. If you plan on killing tanks load this and flank, since side shots are almost a necessity.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="7" | Penetration statistics
@@ -111,7 +104,7 @@ The Crusader AA Mk I is meant to be a SPAA, meaning it must stay away from the f
 |-
 ! 0% !! 50% !! 100%
 |-
-| Mk.II || FI-T\* || 874 || 0.83 || 0 || 0.1 || 63 || 79° || 80° || 81°
+| Mk.II || FI-T* || 874 || 0.83 || 0 || 0.1 || 63 || 79° || 80° || 81°
 |-
 | M81A1 || AP-T || 875 || 0.88 || N/A || N/A || N/A || 47° || 60° || 65°
 |-
@@ -119,9 +112,7 @@ The Crusader AA Mk I is meant to be a SPAA, meaning it must stay away from the f
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.9.0.38''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -138,12 +129,11 @@ The Crusader AA Mk I is meant to be a SPAA, meaning it must stay away from the f
 |}
 '''Notes''':
 
-- Ammunition is organised in clips of 8 rounds.
-- The visual discrepancy concerns racks and clips: racks 1 to 4 are modeled as 9 clips containing 4 rounds while rack 5 is a clip of 4 rounds. In-game, racks 1 to 4 contain 5 clips of 8 rounds and rack 5 contains a clip of 8 rounds.
-- Racks disappear after you've fired all shells in the rack.
+* Ammunition is organised in clips of 8 rounds.
+* The visual discrepancy concerns racks and clips: racks 1 to 4 are modeled as 9 clips containing 4 rounds while rack 5 is a clip of 4 rounds. In-game, racks 1 to 4 contain 5 clips of 8 rounds and rack 5 contains a clip of 8 rounds.
+* Racks disappear after you've fired all shells in the rack.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 Despite being an SPAA vehicle, the Crusader struggles in an AA role. The gun is slow firing and fires at quite a low velocity, meaning that you will struggle to target fast moving enemy aircraft. Granted, a single hit will often spell doom for an enemy aircraft. Therefore, it is important to hide and wait for an opportune moment to open fire on an enemy aircraft. A low flying aircraft within 1km, flying at low speed, should be easier to hit. However, higher ranked and faster planes will can be a much harder target to his with the slow turret traverse for tracking and the slow fire rate of the gun.
@@ -151,27 +141,25 @@ Despite being an SPAA vehicle, the Crusader struggles in an AA role. The gun is 
 The Crusader AA Mk I can also serve in an anti tank role. With armour piercing rounds, the Crusader performs better than most SPAA in this role. With 76 mm of penetration, you can penetrate the frontal armour of light and some medium tanks and the side or rear armour of some heavy tanks. Poor post penetration damage means that you will need to target various sections of an enemy tank in order to destroy it. Some tanks will be almost invulnerable to your rounds, and while tanks KV-1 ZiS-5 can be dealt at point-blank range on the side or rear, there are many other heavy tanks that the 40 mm cannon will not penetrate.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Good mobility and top speed of the Crusader chassis
-- 40 mm Bofors autocannon can heavily damage aircraft if the Mk.II shell contacts
-- Tall turret offers good protection to the gunnery crew from machine guns up to 20 mm cannons
-- AP shells have enough power to penetrate some tank armour
+* Good mobility and top speed of the Crusader chassis
+* 40 mm Bofors autocannon can heavily damage aircraft if the Mk.II shell contacts
+* Tall turret offers good protection to the gunnery crew from machine guns up to 20 mm cannons
+* AP shells have enough power to penetrate some tank armour
 
 '''Cons:'''
 
-- Very little armour, especially the AA turret
-- Cannon slot in front turret armour allows machine gun bullets to go through and injure/kill the crew
-- Against attacker and bombers, 40 mm cannon is not a one-hit kill and repeated hits are necessary
-- Exposed top leave crew vulnerable
-- Slow rate of fire and muzzle velocity
-- Limited ammo, which could be a problem since the gun requires leading of shots
+* Very little armour, especially the AA turret
+* Cannon slot in front turret armour allows machine gun bullets to go through and injure/kill the crew
+* Against attacker and bombers, 40 mm cannon is not a one-hit kill and repeated hits are necessary
+* Exposed top leave crew vulnerable
+* Slow rate of fire and muzzle velocity
+* Limited ammo, which could be a problem since the gun requires leading of shots
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 ===Development===
@@ -195,12 +183,10 @@ The AA Tank Mk 1 was issued to artillery light anti-aircraft regiments starting 
 About 21 Crusaders still exist intact in various parts of the world. The most notable places with the Crusaders are South Africa with 8 known survivors, a running [[Crusader Mk III]] at Bovington Tank Museum at England, and an anti-aircraft version at Musée des Blindés in France.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_crusader_aa_mk_1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_crusader_aa_mk_1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover" heights="150">
@@ -208,24 +194,22 @@ File:Crusader AA Mk I in Normandy.jpg|<small>Crusader AA Mk I in [[Normandy (Gro
 </gallery>
 
 == See also ==
-
 <!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''-->
 
-- [[Ostwind]]
-- [[ZSU-37]]
-- [[AMX-13 DCA 40]]
-- [[Lvkv 42]]
+* [[Ostwind]]
+* [[ZSU-37]]
+* [[AMX-13 DCA 40]]
+* [[Lvkv 42]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/devblog/current/855/|[Devblog] Crusader AA Mk.I and Crusader AA Mk.II]]
-- [https://tanks-encyclopedia.com/ww2/gb/Cruiser-MkVI_Crusader.php <nowiki>[Tanks-Encyclopedia]</nowiki> Cruiser Mk.VI Crusader] ([https://web.archive.org/web/20210511224314/https://tanks-encyclopedia.com/ww2/gb/Cruiser-MkVI_Crusader.php Web Archive])
+* [[wt:en/devblog/current/855/|[Devblog] Crusader AA Mk.I and Crusader AA Mk.II]]
+* [https://tanks-encyclopedia.com/ww2/gb/Cruiser-MkVI_Crusader.php <nowiki>[Tanks-Encyclopedia]</nowiki> Cruiser Mk.VI Crusader] ([https://web.archive.org/web/20210511224314/https://tanks-encyclopedia.com/ww2/gb/Cruiser-MkVI_Crusader.php Web Archive])
 
 {{TankManufacturer Nuffield}}
 {{Britain anti-aircraft vehicles}}

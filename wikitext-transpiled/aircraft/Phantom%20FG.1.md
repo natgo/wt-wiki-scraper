@@ -9,15 +9,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''', otherwise known as the '''F-4K''', is a rank {{Specs|rank}} British jet fighter {{Battle-rating}}. It was introduced in [[Update "Starfighters"]]. Like the other British Spey Phantom, the [[Phantom FGR.2]], this Phantom comes with AIM-9Ds, stock RHAW, and two turbofan engines that differentiate it from other [[F-4 Phantom II (Family)|Phantoms]] in the game. This Phantom is the naval variant of the British Phantom FGR.2, and as such has several adaptations for use on the smaller flight decks of British Carriers, including a longer nose wheel, slotted elevators like on the [[F-4E]], larger leading-edge flaps, a tougher undercarriage, Spey 203s with a quicker Afterburner activation time, and a slew of other upgrades that are not modeled in War Thunder, such as a folding nose radome, drooping ailerons to aid in lift, and a different radar to the FGR.2 (AN/AWG-11 as opposed to the AN/AWG-12 in the FGR, and the AN/AWG-10 in the base F-4J model). The FG.1 takes off a good deal faster than the FGR.2 thanks to the more rapid gain of afterburner thrust, higher angle of attack possible due to the extended nose wheel, and the larger flaps.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -45,7 +42,7 @@ The '''{{Specs|name}}''', otherwise known as the '''F-4K''', is a rank {{Specs|r
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || ✓ || ✓ || ✓ <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -112,13 +109,12 @@ The radiator can be manually controlled for increased time with afterburner with
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
 The Phantom FG.1 has no armour protection, the fuel tanks are self-sealing. The crew members are located towards the front of the fuselage, and all the important modules (engines, fuel tanks) are located in the rear of the fuselage. There are also fuel tanks in the wings. These factors make the pilots well protected from the rear, but vulnerable to the front, whereas all important modules are extremely vulnerable from the rear.
 
-- No armour protection
-- Self-sealing fuel tanks
+* No armour protection
+* Self-sealing fuel tanks
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -138,34 +134,31 @@ Flares should be one of your top priorities, as well as the 1000 LB bomb upgrade
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** Without offensive armament
-  ** 90 x countermeasures
+* A choice between two presets:
+** Without offensive armament
+** 90 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|Mk.M2 (540 lb)|H.E. M.C. Mk.13 (1,000 lb)|SNEB type 23|GAU-4 (20 mm)}}
 {{main|AIM-7E Sparrow|AIM-9D Sidewinder|AIM-9G Sidewinder|Skyflash}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- 1 x 20 mm GAU-4 cannon (1,200 rpg)
-- 2 x AIM-9D Sidewinder missiles
-- 4 x AIM-9D Sidewinder missiles
-- 4 x AIM-9G Sidewinder missiles
-- 4 x AIM-7E Sparrow missiles
-- 4 x Skyflash missiles
-- 234 x SNEB type 23 rockets
-- 11 x 1,000 lb H.E. M.C. Mk.13 bombs (11,000 lb total)
-- 13 x 540 lb Mk.M2 bombs (7,020 lb total)
+* 1 x 20 mm GAU-4 cannon (1,200 rpg)
+* 2 x AIM-9D Sidewinder missiles
+* 4 x AIM-9D Sidewinder missiles
+* 4 x AIM-9G Sidewinder missiles
+* 4 x AIM-7E Sparrow missiles
+* 4 x Skyflash missiles
+* 234 x SNEB type 23 rockets
+* 11 x 1,000 lb H.E. M.C. Mk.13 bombs (11,000 lb total)
+* 13 x 540 lb Mk.M2 bombs (7,020 lb total)
 
 ==== Custom loadout options ====
 {| class="wikitable" width="100%" style="text-align:center"
@@ -203,9 +196,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 == Usage in battles ==
 [[File:PHANTOM FG 1 COOL.png|thumb|A Phantom FG.1 of 111 Squadron, or "Treble One", patrolling over the North Atlantic.]]
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 [[File:PHANTOM FG 1 COOL 5.png|thumb|533x533px|An [[F-4M|F-4M/FGR.2]] (front) and F-4K/FG.1 (back), both in the post-1983 RAF Medium Sea Grey camouflage scheme, flying above a Norwegian Fjord. While outwardly similar, the two Spey Phantoms perform slightly differently.]]
 The F-4K/Phantom FG.1 is the ultimate energy fighter- its advantages over other aircraft are sheer power, roll rate, its ability to climb to high altitudes, and its nearly unparalleled speed and thrust-to-weight ratio down low are only rivaled by the MiG-21SMT. The twin Rolls-Royce Spey 203 engines produce just over 9,000 kgf thrust when you are stationary- that is to say, on the runway- and over 10,000 kgf when you're travelling at near-supersonic speeds.
 
@@ -221,61 +212,57 @@ Any British Phantom should not be taken close to the beginning furball. All ment
 
 This, however, does not mean that the Phantom FG.1 cannot handle itself in a dogfight. The FG.1 is more than capable of engaging aircraft up close (between 0-1.5 km away), with a powerful M61 Vulcan. You can easily kill aircraft in a head-on, but that doesn't mean that you should commit and stay there! Always break off if you see enemy tracer, or at the very least when the enemy aircraft is 1 km away, lest you would like your own example of the World's Best Distributor of MiG Parts spread all over the sky. When using the Vulcan, one has two options on how to engage, one of which is more risky than the other, and depends on your aircraft being spaded.
 
-- The first method of engagement is a fairly standard low-risk hit-and-run pass. Approach the enemy, shoot, and break off. There's nothing too special about it, and it relies more on the Phantom's blinding speed to get into the target area, the Vulcan's overwhelming Burst Mass to put at least a few rounds on the target, and then get out of the danger zone as soon as possible lest you become the target of unwanted attention. It requires little in the way of skill and little in the way of performance upgrades, as the FG.1 already has considerable engine power. However, it does not allow for sustained time on target and gives you only a small window of opportunity to make the shot.[[File:PHANTOM FG 1 COOL 2.png|thumb|Phantom FG.1 above the North Atlantic.]]
-- The second method of engagement is much more risky, more rewarding, and requires a fair amount of pilot skill and a fully upgraded plane. In addition, this method is specific to British Phantoms, if not the FG.1 in general, as the FG.1 is the only Phantom which has this type of afterburner performance. Pilots are not recommended to try this in the [[F-4C]], [[F-4E]] or [[F-4EJ]]. Conversely, this tactic works very effectively against turning non-Spey phantoms. This method should not be used above 5,000 m under any circumstances. This method works best while in cloud and with an ACM lock on the enemy. The Phantom has its best roll performance at 700-950 km/h (380-515 kts) and can use its takeoff flaps below 700 km/h without risking them ripping off. You can use the airbrakes to slow the aircraft to the required speed, and then by tapping the flaps from raised to takeoff position, you can turn a little tighter than usual, and then use your outstanding afterburner performance to rapidly regain speed. You can out-accelerate any phantom in-game below 5,000 m, and even from a slower start you can rapidly close the gap. This manoeuvre can also be attempted at an angle to the horizontal, although speed can become a much greater concern (both flap rip speed and stall speeds). While this tactic may at first seem illogical- speed, after all, is the lifeblood of jet battles- the fast afterburner acceleration of the Spey Phantom can often ensure that you do not end up stalling. This tactic is, however, highly situational and requires a fair bit of situational awareness and pilot skill to pull off. Phantom neophytes shouldn't attempt this until they have at least spaded it and grown comfortable with it.
+* The first method of engagement is a fairly standard low-risk hit-and-run pass. Approach the enemy, shoot, and break off. There's nothing too special about it, and it relies more on the Phantom's blinding speed to get into the target area, the Vulcan's overwhelming Burst Mass to put at least a few rounds on the target, and then get out of the danger zone as soon as possible lest you become the target of unwanted attention. It requires little in the way of skill and little in the way of performance upgrades, as the FG.1 already has considerable engine power. However, it does not allow for sustained time on target and gives you only a small window of opportunity to make the shot.[[File:PHANTOM FG 1 COOL 2.png|thumb|Phantom FG.1 above the North Atlantic.]]
+* The second method of engagement is much more risky, more rewarding, and requires a fair amount of pilot skill and a fully upgraded plane. In addition, this method is specific to British Phantoms, if not the FG.1 in general, as the FG.1 is the only Phantom which has this type of afterburner performance. Pilots are not recommended to try this in the [[F-4C]], [[F-4E]] or [[F-4EJ]]. Conversely, this tactic works very effectively against turning non-Spey phantoms. This method should not be used above 5,000 m under any circumstances. This method works best while in cloud and with an ACM lock on the enemy. The Phantom has its best roll performance at 700-950 km/h (380-515 kts) and can use its takeoff flaps below 700 km/h without risking them ripping off. You can use the airbrakes to slow the aircraft to the required speed, and then by tapping the flaps from raised to takeoff position, you can turn a little tighter than usual, and then use your outstanding afterburner performance to rapidly regain speed. You can out-accelerate any phantom in-game below 5,000 m, and even from a slower start you can rapidly close the gap. This manoeuvre can also be attempted at an angle to the horizontal, although speed can become a much greater concern (both flap rip speed and stall speeds). While this tactic may at first seem illogical- speed, after all, is the lifeblood of jet battles- the fast afterburner acceleration of the Spey Phantom can often ensure that you do not end up stalling. This tactic is, however, highly situational and requires a fair bit of situational awareness and pilot skill to pull off. Phantom neophytes shouldn't attempt this until they have at least spaded it and grown comfortable with it.
 
 The Astute reader may have noticed that the engagement ranges described leave a "dead zone" between 1.5-2.4 km away from the aircraft. This is correct. Unless the enemy is low, slow, or simply unaware of their surroundings, they can easily dodge the AIM-9D/Gs at this range, and they are too far away for a reliable guns kill. Pilots have two options should they come to this impasse. They can either break off the engagement, extend a little to a more comfortable range (hopefully 3 km) and fire a missile, or head straight at the enemy, casting all pretenses of subtlety to the wind to go for a guns kill with the Vulcan. The choice is up to the pilot to decide.[[File:PHANTOM FG 1 COOL 6.png|thumb|A Phantom FG.1 breaking away to the left while an [[Phantom FGR.2|FGR.2]] presses onwards.|left]]
 
 ===Dodging Missiles: The Do's and Don'ts===
 The Phantom FG.1 is slightly more manoeuvrable than the FGR.2 due to aerodynamic modifications to allow it to perform better at speeds. This means it has a slightly easier time dodging missiles. However, the easiest to avoid missiles is to not let the enemy get the opportunity to launch them at all. Keep your tail pointed away from enemy radars and the front of enemies. Utilize oblique angles and the Phantom's blinding speed and unrivalled acceleration to get out of missile lock range, and use head-on passes to avoid IRM locks on targets you wish to get gun kills on, before extending out quickly with full afterburner. Do not stay still for prolonged periods of time without checking behind you for tell-tale white streaks or the missile markers. In addition, don't let MiG-21s get close to you. Fly at an oblique angle to them (but keep your tailplane out of clear sight!) until you reach 2.5 km. The R60s, while having a lock range of 3.5 km, have an effective range of around 2.5 km, making them almost useless at longer ranges (unlike the AIM-9D/Gs, which are most effective when at long range, and manoeuvres when seen from a distance mean smaller course corrections). Matra Magics are harder to evade using distance, but a similar rule applies, where having at least 3-5 km between you and the enemy and travelling at an angle that obscures your engines from enemy aircraft helps massively in avoiding missile launches. Manoeuvring and flares should be an absolute last resort. Pre-emptive manoeuvring to deprive the enemy of chances to lock is the first and foremost way to avoid getting blown out of the sky.
 
-If you need to manoeuvre, though, remember to turn off the afterburner. The Afterburner provides a large beacon-like heat signature that any IRM can track with a modicum of ease. Break into a missile while popping flares. Press your flare button at least three times to release a sufficient amount to decoy off the enemy missile.
+If you need to manoeuvre, though, remember to turn off the afterburner. The Afterburner provides a large beacon-like heat signature that any IRM can track with a modicum of ease. Break  into a missile while popping flares. Press your flare button at least three times to release a sufficient amount to decoy off the enemy missile.
 [[File:Missile Inboard annotated.png|thumb|350px|Breaking into a missile.]]
 
 ==== Breaking into a missile ====
 This situation assumes that you are in a Phantom FG.1, and have been locked on and launched at by an enemy aircraft from around 1.5-2.4 km with a missile.
 
 # A missile is launched from the left of the Phantom, which is turning to the left. The Phantom pilot sees this, and switches off the afterburner in order to reduce heat signature.
-
 # The missile is closing rapidly and is around 1 km away. The Phantom turns inwards towards the missile to increase the amount of Gs which the missile must pull, while popping flares (6-8) in an attempt to decoy off the missile.
-
 # The missile cannot pull the necessary Gs, and it misses. The Phantom escapes.
 
 If dodging SAMs at low altitude during Ground Battles matches, try to put terrain features such as trees, buildings and cliffs between you and the missile to force the radar to break a lock, and break towards the missile in order to increase the G-force it needs to pull. While you can do this to some extent in Air RB, there aren't often many terrain features to begin with, and missiles are usually IRMs, which means that they don't require the launcher to continuously maintain line-of-sight with the target they launched at. Another method to dodge missiles is a barrel roll while popping flares, executed at the last possible moment, while the missile is below 1 km away. This method, while risky, is sometimes the only way you can evade close-range missiles such as the [[Hunter F.6]]'s [[SRAAM]]s, the [[MiG-21MF (Germany)|MiG-21MF]] and [[MiG-21SMT]]'s [[R-60]]s and the [[Mirage IIIC]]'s [[Matra R550 Magic 1|R550 Magics]], as well as helicopter-mounted IRMs such as the [[9M39 Igla]] on Russian helicopters, the [[AIM-92 Stinger]] on US helicopters, the British [[Starstreak]], and the [[Mistral]] on French, German, and Italian helicopters.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great top speed, one of the fastest aircraft in the game
-- Decent instantaneous manoeuvrability for a plane of its size
-- Excellent engine performance at low altitude
-- Excellent rate of climb
-- Excellent energy retention
-- Adequate selection of secondary ordnance
-- Powerful M61 Vulcan with sufficient ammo can wreak havoc against enemy aircraft
-- Access to pulse doppler radar and 4 Skyflash missiles, making it the second best high-altitude heavy fighter (the best being the F-4EJ KAI)
-- Access to AIM-9Gs, great when engaging at about 3 km.
+* Great top speed, one of the fastest aircraft in the game
+* Decent instantaneous manoeuvrability for a plane of its size
+* Excellent engine performance at low altitude
+* Excellent rate of climb
+* Excellent energy retention
+* Adequate selection of secondary ordnance
+* Powerful M61 Vulcan with sufficient ammo can wreak havoc against enemy aircraft
+* Access to pulse doppler radar and 4 Skyflash missiles, making it the second best high-altitude heavy fighter (the best being the F-4EJ KAI)
+* Access to AIM-9Gs, great when engaging at about 3 km.
 
 '''Cons:'''
 
-- As with most jets, tends to bleed off energy in sustained turns- less so than the other top tiers but still significant enough to be worth mentioning
-- Worst sustain turning performance out of any top tier jet
-- Large target for cannons
-- Limited payload options compared to American Phantoms
-- Engines lose their edge at higher altitudes compared to US turbojets
-- Control authority suffers drastically above ~8,000 m
-- Possibility of ripping its wings in turns above 1,000 km/h
-- The gunpod produces a noticeable amount of drag
+* As with most jets, tends to bleed off energy in sustained turns- less so than the other top tiers but still significant enough to be worth mentioning
+* Worst sustain turning performance out of any top tier jet
+* Large target for cannons
+* Limited payload options compared to American Phantoms
+* Engines lose their edge at higher altitudes compared to US turbojets
+* Control authority suffers drastically above ~8,000 m
+* Possibility of ripping its wings in turns above 1,000 km/h
+* The gunpod produces a noticeable amount of drag
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 ===Background===
-From the late 1950s onwards the British Government began looking to replace a number of its early second-generation jet aircraft. The RAF was looking to replace the [[Canberra_(Family)|English Electric Canberra]] in the long-range interdictor role, and the [[Hunter_(Family)|Hawker Hunter]] in the close air support role; meanwhile the Royal Navy was looking to replace their de Havilland Sea Vixens in the fleet air defence role<ref name="WikipediaPhantomUK">Wikipedia: McDonnell Douglas Phantom in UK service</ref>. Two aircraft programs were started to produce suitable replacements; the BAC TSR-2 was to be a highly advanced strike and reconnaissance aircraft to replace the Canberra. Meanwhile the Hunter and the Sea Vixen would be replaced by different versions of the P.1154; a Mach 2 capable VTOL aircraft developed from the P.1127 (the predecessor of famous Harrier Jump Jet). The Navy were not entirely happy with the idea of the navalised P.1154, believing that it did not suit their needs; and in 1964 they dropped out of the programme, deciding to purchase the F-4 Phantom from America instead. In the same year a new government was elected and in 1965 cancelled both the TSR-2 and P.1154 programmes on cost grounds, leaving the RAF without its much needed Canberra and Hunter replacements. The Government announced a plan to purchase the F-111K from America to replace the TSR-2 program (the F-111K would also eventually be cancelled on grounds of cost), while the Hunter would be replaced by F-4 Phantoms from America<ref name="BurkePhantom">Burke 2016</ref>.
+From the late 1950s onwards the British Government began looking to replace a number of its early second-generation jet aircraft. The RAF was looking to replace the [[Canberra_(Family)|English Electric Canberra]] in the  long-range interdictor role, and the [[Hunter_(Family)|Hawker Hunter]] in the close air support role; meanwhile the Royal Navy was looking to replace their de Havilland Sea Vixens in the fleet air defence role<ref name="WikipediaPhantomUK">Wikipedia: McDonnell Douglas Phantom in UK service</ref>. Two aircraft programs were started to produce suitable replacements; the BAC TSR-2 was to be a highly advanced strike and reconnaissance aircraft to replace the Canberra. Meanwhile the Hunter and the Sea Vixen would be replaced by different versions of the P.1154; a Mach 2 capable VTOL aircraft developed from the P.1127 (the predecessor of famous Harrier Jump Jet). The Navy were not entirely happy with the idea of the navalised P.1154, believing that it did not suit their needs; and in 1964 they dropped out of the programme, deciding to purchase the F-4 Phantom from America instead. In the same year a new government was elected and in 1965 cancelled both the TSR-2 and P.1154 programmes on cost grounds, leaving the RAF without its much needed Canberra and Hunter replacements. The Government announced a plan to purchase the F-111K from America to replace the TSR-2 program (the F-111K would also eventually be cancelled on grounds of cost), while the Hunter would be replaced by F-4 Phantoms from America<ref name="BurkePhantom">Burke 2016</ref>.
 
 ===Development===
 Both the Royal Navy and RAF were now set to purchase the F-4 Phantom. The RAF could have operated standard F-4 Phantoms (and to some extent would have preferred to)<ref name="BurkePhantom" />, however the aircraft was going to need modifications in order to be able to operate off of the UK's aircraft carriers, which were smaller than the ones Phantoms usually operated from. In a bid to help the British aviation industry (which had been hurt by a number of cancelled programmes), and make the aircraft suitable for use by the Royal Navy it was agreed that all UK Phantoms would be significantly modified, by British companies, from their US counterparts. The most notable change would be the replacement of the American J79 turbojet engines with larger and more powerful Rolls-Royce Spey turbofans; a modified rear fuselage to accommodate the new engines would also be built by BAC, and the aircraft's radar system would be built under license by Ferranti<ref name="WikipediaPhantomUK" />.
@@ -300,48 +287,45 @@ Prior to the Phantom's retirement from RAF service there had been a plan to retr
 The Rolls-Royce Spey engines gave British Phantoms notably different performance to their American counterparts. At low altitude British Phantoms accelerated faster than standard F-4Js and had a higher top speed; it was estimated that they had a 30% shorter take-off distance and a 20% faster climb to altitude<ref name="WikipediaPhantomUK" />. The Spey turbofan engines were also more fuel efficient than the J-79 turbojets, giving British Phantoms a 10 - 15 % increase in range compared to American aircraft<ref name="GledhillPhantom" />. The main drawback of the British design was that the reshaped fuselage produced more drag than the original design, meaning that at high altitude British Phantoms were slower and performed worse than their American counterparts (British Phantoms topped out at about Mach 1.9 at altitude, while American Phantoms could reach Mach 2.1)<ref name="BurkePhantom" />.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=f-4k Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f-4k Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|YTV8OmfpR0Y|'''Phantom FG Mk1 Review So Far''' - ''TWM12''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Aircraft of comparable role, configuration and era
 
-- Mikoyan-Gurevich [[MiG-21 (Family)|MiG-21]]
-- SAAB [[J35D]] ''Draken''
-- Dassault [[Mirage IIIC]]
+* Mikoyan-Gurevich [[MiG-21 (Family)|MiG-21]]
+* SAAB [[J35D]] ''Draken''
+* Dassault [[Mirage IIIC]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[Wikipedia:McDonnell_Douglas_Phantom_in_UK_service|[Wikipedia] McDonnell Douglas Phantom in UK service]]
-- [https://www.thunder-and-lightnings.co.uk/phantom/history.php <nowiki>[Thunder and Lightnings]</nowiki> McDonnell-Douglas/BAC F-4K/M Phantom II]
+* [[Wikipedia:McDonnell_Douglas_Phantom_in_UK_service|[Wikipedia] McDonnell Douglas Phantom in UK service]]
+* [https://www.thunder-and-lightnings.co.uk/phantom/history.php <nowiki>[Thunder and Lightnings]</nowiki> McDonnell-Douglas/BAC F-4K/M Phantom II]
 
 ===Citations===
 <references />
 
 ===Bibliography===
 
-- Bourne, Nigel. (1997). Development of the Rolls-Royce Military Spey Mk202 Engine. Retrieved from [http://www.thrustssc.com/ ThrustSSC]
-- Burke, Damien. (2016). McDonnell-Douglas/BAC F-4K/M Phantom II. Retrieved from [https://www.thunder-and-lightnings.co.uk/phantom/history.php Thunder and Lightnings]
-- Gledhill, David. (2017). Phantom in the Cold War: RAF Wildenrath 1977 - 1992. Barnsley: Pen & Sword Aviation.
-- Searles, Dick. (n.d.). HMS Eagle Deck Trials 1969. Retrieved from [https://www.phantomf4k.org/video-library/hms-eagle-deck-trials-1969 Phantom F4K - Fleet Air Arm Royal Navy]
-- SSC Programme Ltd. (1997). The Story of the Rolls-Royce Spey. Retrieved from [http://thrustssc.com/ ThrustSSC]
-- Wikipedia. (n.d.). McDonnell Douglas Phantom in UK service. Retrieved from [https://en.wikipedia.org/wiki/McDonnell_Douglas_Phantom_in_UK_service Wikipedia]
+* Bourne, Nigel. (1997). Development of the Rolls-Royce Military Spey Mk202 Engine. Retrieved from [http://www.thrustssc.com/ ThrustSSC]
+* Burke, Damien. (2016). McDonnell-Douglas/BAC F-4K/M Phantom II. Retrieved from [https://www.thunder-and-lightnings.co.uk/phantom/history.php Thunder and Lightnings]
+* Gledhill, David. (2017). Phantom in the Cold War: RAF Wildenrath 1977 - 1992. Barnsley: Pen & Sword Aviation.
+* Searles, Dick. (n.d.). HMS Eagle Deck Trials 1969. Retrieved from [https://www.phantomf4k.org/video-library/hms-eagle-deck-trials-1969 Phantom F4K - Fleet Air Arm Royal Navy]
+* SSC Programme Ltd. (1997). The Story of the Rolls-Royce Spey. Retrieved from [http://thrustssc.com/ ThrustSSC]
+* Wikipedia. (n.d.). McDonnell Douglas Phantom in UK service. Retrieved from [https://en.wikipedia.org/wiki/McDonnell_Douglas_Phantom_in_UK_service Wikipedia]
 
 {{AirManufacturer McDonnell}}
 {{Britain jet aircraft}}

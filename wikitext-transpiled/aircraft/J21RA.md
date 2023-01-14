@@ -10,9 +10,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish jet fighter {{Battle-rating}}. It was introduced in [[Update 1.95 "Northern Wind"]].
 
 The {{PAGENAME}} is a jet-powered version of the prior [[J21A-2]], giving it higher speeds and new guns.
@@ -25,9 +23,7 @@ The plane is an overall great introduction for anyone looking to learn to fly je
 
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The {{PAGENAME}} is distinctly different in looks and performance from all other planes found at the same BR-range. Along with the Yak-15, the Saab 21R is one of the two propeller-driven planes successfully converted into jet propulsion. Just like its Soviet counterpart, the solution comes at the cost of speed. Although a lot more powerful than the [[J21A-2]], it still has the same airframe limitations, resulting in good turn-rate. The climb-rate is also significantly improved due to the weight of the vehicle, resulting in good vertical energy with the ability to stall out slower opponents. Getting back down can prove difficult however, as the {{PAGENAME}} has a rip speed of just 800 km/h, which it can accidentally reach if not careful. To avoid this, the plane features a small set of air-brakes, which aids in maintaining a safe speed. Experienced pilots can find a good use for them, along with the powerful flaps, to force overshoots, or to out-turn propeller-driven opponents. Be careful with the engine however! The propulsion of the {{PAGENAME}} is very primitive, and suffers from fuel starvation during extreme manoeuvres, especially in negative G-loads. This can be fatal when fighting vertically, as the engine drops all power almost immediately, and has to spool back up again before reaching the same efficiency as before.
 
 The flight performance is identical to that of the [[A21RB]], but with slightly less engine power, as the RM1 engine generates some 130 kgf less.
@@ -57,7 +53,7 @@ The flight performance is identical to that of the [[A21RB]], but with slightly 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -124,14 +120,13 @@ The flight performance is identical to that of the [[A21RB]], but with slightly 
 === Survivability and armour ===
 [[File:J21 Armour Plating.png|450px|thumb|right|Protective components found in the '''{{PAGENAME}}'''.]]
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 10 mm steel - Firewall armour plate
-- 10 mm steel - Firewall cover armour plate
-- 10 mm steel - Pilot's back armour plate
-- 60 mm bulletproof glass
-- Engine fire system (EFS)
+* 10 mm steel - Firewall armour plate
+* 10 mm steel - Firewall cover armour plate
+* 10 mm steel - Pilot's back armour plate
+* 60 mm bulletproof glass
+* Engine fire system (EFS)
 
 In terms of protection, the pilot is well protected by metal plates and bulletproof glass. But the pilot's safety isn't the primary concern for the {{PAGENAME}}, as the tail section is incredibly vulnerable. This is due to the twin-boom design, making a tailstrike twice as likely. And since the tail connects to the wing-section, the plane tends to lose tail-control when struck by wing damage. The engine is very large in comparison to the rest of the plane, making it a common target. The {{PAGENAME}} should avoid all possible damage, as surviving large amounts of fire is highly unlikely. Pulling away from head-on engagements increases the survivability immensely. Avoiding the enemy airfield is also important, as the {{PAGENAME}} lacks the speed to keep it safe from flak fire.
 
@@ -142,30 +137,27 @@ In terms of protection, the pilot is well protected by metal plates and bulletpr
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Akan m/45 (20 mm)|Akan m/39A (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 1 x 20 mm Akan m/45 cannon, nose-mounted (140 rpg)
-- 2 x 12.7 mm Akan m/39A machine guns, nose-mounted (350 rpg = 700 total)
-- 2 x 12.7 mm Akan m/39A machine guns, wing-mounted (325 rpg = 650 total)
+* 1 x 20 mm Akan m/45 cannon, nose-mounted (140 rpg)
+* 2 x 12.7 mm Akan m/39A machine guns, nose-mounted (350 rpg = 700 total)
+* 2 x 12.7 mm Akan m/39A machine guns, wing-mounted (325 rpg = 650 total)
 
 The {{PAGENAME}} shares the same 20 mm cannon found on the previous [[J21A-2]]. This cannon is near identical to the [[Hispano Mk.V (20 mm)|Hispano Mk.V]], only with a 30 rpm lower fire-rate. The shells perform the same as on all the other 20 mm-armed jets, making it highly devastating against all types of aircraft. The Armoured targets belt performs favourably with this cannon, as the Air targets belt can cause some mishaps during short bursts. The cannon runs out of ammunition quite quickly compared to the machine-guns, so saving it by only making use of the small calibre guns first can be ideal for spraying.
 
 The {{PAGENAME}} features .50 cal machine guns, being identical to the later American ones. Although a direct downgrade from the Swedish 13 mm previously found on the plane, the {{PAGENAME}} makes good use of these cannons, as they allow for distanced engagements, along with additional firepower to back up the 20 mm cannon. Their ammo count is quite high as well, making them great for strafing, and finishing off heavy bombers.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-- Climb to altitude
-- Energy-fight opponents by lowering their speed
-- Boom & Zoom people below you
-- Dogfight slow targets when necessary
-- Fire machine guns and cannons separately to save ammo
+* Climb to altitude
+* Energy-fight opponents by lowering their speed
+* Boom & Zoom people below you
+* Dogfight slow targets when necessary
+* Fire machine guns and cannons separately to save ammo
 
 [[File:J21RA formation.png|thumb|331x331px|Two {{PAGENAME}} flying in formation.]]
 Despite being jet-powered, the {{PAGENAME}} still performs best when played like a propeller driven aircraft. The airplane struggles to reach high speeds, and drops it fairly quickly when manoeuvring. So the best use of the new engine is to gain altitude. Although weak in performance compared to earlier jets, the {{PAGENAME}} is decent at climbing to altitude, and can very efficiently deal with targets thanks to the high agility offered at lower speeds. Although the flaps are designed for much lower speeds (similar to the J21A-2), the plane still performs similar to the propeller variant when turning, making them less desired than on other jets.
@@ -175,29 +167,26 @@ The best way to start a match is to immediately gain altitude. A height advantag
 The {{PAGENAME}} can be used in combined battles (Ground RB & Ground SB), but is overall less efficient compared to the [[A21RB]], as it lacks suspended armaments.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Highly manoeuvrable, competes with propeller driven aircraft
-- Familiar layout for seasoned Swedish pilots, same gun placement as previous Saab 21s
-- Useful airbrakes, good at avoiding higher speeds
-- No wing-tanks compared to the [[A21RB]]: Less likely to be set on fire
-- Access to modern 12.7 mm rounds, highly efficient at dealing damage
+* Highly manoeuvrable, competes with propeller driven aircraft
+* Familiar layout for seasoned Swedish pilots, same gun placement as previous Saab 21s
+* Useful airbrakes, good at avoiding higher speeds
+* No wing-tanks compared to the [[A21RB]]: Less likely to be set on fire
+* Access to modern 12.7 mm rounds, highly efficient at dealing damage
 
 '''Cons:'''
 
-- Low top speed, can't reach 800 km/h without tearing off its wings
-- Downgraded armament: 12.7 mm machine guns instead of the old 13 mm
-- Small fuel tank with limited fuel choice: either 21 or 6 minutes of fuel
-- Engine prone to fuel starvation: negative G manoeuvres turn the engine off
-- Weaker engine compared to the A21RB
+* Low top speed, can't reach 800 km/h without tearing off its wings
+* Downgraded armament: 12.7 mm machine guns instead of the old 13 mm
+* Small fuel tank with limited fuel choice: either 21 or 6 minutes of fuel
+* Engine prone to fuel starvation: negative G manoeuvres turn the engine off
+* Weaker engine compared to the A21RB
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The J21RA is a variant of the Saab 21R, a unique early jet fighter developed from the previous Saab 21. The aircraft was one of two semi-successful conversions of propeller fighters into jet fighters, the other being the Soviet Yak-15 (which was converted from the Yak 1/3/7/9 series). The aircraft served as one of the first jet-engined aircraft in Swedish service and was also the first jet-engined-aircraft produced by Saab. The Saab 21Rs were retired in the 1950s with the introduction of more advanced Swedish aircraft.
 
 During WWII, the Saab aircraft production company produced the Saab 21, a fighter aircraft with an unorthodox twin-boom configuration along with a German DB 605B engine. The first such aircraft flew in July of 1943 and entered service soon thereafter. During this time, the Saab firm explored various options for upgrading their Saab 21s, including a variant powered by a Rolls-Royce Griffon engine producing 2000 hp. However, at the same time, the Saab firm was also investigating the possibility of a jet-engined fighter; this led the Saab firm to pursue a jet-engined variant of the Saab 21 for use with the Swedish air force.
@@ -207,40 +196,37 @@ In 1947, Saab received the first older J21 airframes for conversion into a jet f
 Initially, a production run of 124 aircraft was planned; however, this was cut to 64 aircraft when the more-advanced J29 Tunnan became available in 1948. The J21RA was the designation given to the first 34 of these aircraft, powered by the Goblin 2 engine, while the J21RB was powered by an indigenously-built Goblin 3 engine. The J21 was retired in the mid-1950s with the introduction of more advanced aircraft such as the Saab 32 Lansen; no original aircraft were preserved but an old Saab 21 airframe was converted to resemble the Saab 21R; this aircraft is displayed at the Swedish Air Force Museum.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=saab_j21ra Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=saab_j21ra Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|JZcfQqbYWQk|'''Slap a Jet Engine on a Prop? J21RA''' - ''Jengar''|7vSoGWcb5zs|'''The Swedish Jet No Ones Talking About''' - ''WhooptieDo''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 '''Similar Swedish aircraft'''
 
-- [[J28B]]
-- [[SK60B]]
+* [[J28B]]
+* [[SK60B]]
 
 '''Comparable Aircraft'''
 
-- [[F-80A-5]]
-- [[He 162 (Family)]]
-- [[Yak-15]]
+* [[F-80A-5]]
+* [[He 162 (Family)]]
+* [[Yak-15]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/480524-j21ra/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/480524-j21ra/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Saab}}
 {{Sweden jet aircraft}}

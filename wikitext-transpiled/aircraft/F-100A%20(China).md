@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese jet fighter {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]].
 
 The first supersonic jet available in the ROCAF fighter line of the China tree, the F-100A is an early variant of the famous "Super Sabre", though in Taiwanese service it received a number of upgrades to bring it up to par with later models. Compared to the fighter-bomber [[F-100D]], it has a smaller wing with a straight trailing edge, fewer hardpoints, and no flaps. It also has an early J57P7 engine that produces less thrust than the D model's J57P21. The speed and acceleration remain comparable since the F-100A weighs less.
@@ -21,10 +19,11 @@ The F-100A's handling generally feels lighter than the F-100D and it enjoys a be
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 As mentioned earlier, the F-100A handles like a lighter version of the F-100D. The acceleration is decent for an early supersonic jet but falls behind some contemporary 9.7 jets such as the [[J-6A]] and [[Q-5A]], not to mention the [[J-7II]] (9.3 in RB). The top speed is about the same as the [[Q-5 early]] and lower than the F-100D. Turning performance is generally similar or improved compared to the F-100D. It can pull harder, which is helpful for snapshots, but there is also a risk of snapping the wings off in hard turns at high speed. The roll rate is improved. Controls stiffen at supersonic speeds. The low speed handling is poor and there are no flaps to help out. Turning energy retention is quite good at high subsonic speeds and not great elsewhere.
+
+
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -51,7 +50,7 @@ As mentioned earlier, the F-100A handles like a lighter version of the F-100D. T
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || X || X || ✓ || X || ✓ <!-- ✓ -->
+| X || X || X || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -117,11 +116,10 @@ As mentioned earlier, the F-100A handles like a lighter version of the F-100D. T
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 64 mm bulletproof glass: windscreen
-- 12.7 mm steel: behind pilot
+* 64 mm bulletproof glass: windscreen
+* 12.7 mm steel: behind pilot
 
 For post-war fighter jets wanted to take advantage of the newer jet technology and maximize both speed and ordnance carried. To keep up speed and maximize ordnance, something had to give and that came with pilot survivability. The idea is to be faster than the enemy which would make it really difficult for them to get a targeting solution on you. Though the F-100A does have protection for the pilot, it isn't much and leaves the rest of the critical components virtually unprotected with armour. For the pilot, the back of the seat and headrest maintains a continuous piece of steel at 12.7 mm thick and the windscreen is rated at 64 mm bulletproof windscreen. Typically this type of protection is meant more for protection from defensive turret attacks from bombers rather than gun attacks from other aircraft.
 
@@ -134,14 +132,12 @@ The F-100A is a relatively sturdy aircraft and can take a beating before critica
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M39A1 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 20 mm M39A1 cannons, chin-mounted (200 rpg = 800 total)
+* 4 x 20 mm M39A1 cannons, chin-mounted (200 rpg = 800 total)
 
 The M39A1 cannons are one of the F-100A's main selling points. They are revolver cannons with a rapid rate of fire, high muzzle velocity, and good stopping power. The four of them together provide a burst mass that approaches the [[M61 (20 mm)|M61 Vulcan]] without any spool-up delay and the ammo supply of 200 rounds per gun is quite generous.
 
@@ -149,28 +145,24 @@ The Ground Targets belt is a good all-round choice. Its AP-I rounds deal heavy k
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|M117 cone 45 (750 lb)|AN-M65A1 Fin M129 (1,000 lb)|AGM-12B Bullpup|AIM-9B Sidewinder}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x AIM-9B Sidewinder missiles
-- 2 x 750 lb M117 cone 45 bombs (1,500 lb total)
-- 2 x 1,000 lb AN-M65A1 Fin M129 bombs (2,000 lb total)
-- 2 x AGM-12B Bullpup missiles
-- 4 x AIM-9B Sidewinder missiles
+* Without load
+* 2 x AIM-9B Sidewinder missiles
+* 2 x 750 lb M117 cone 45 bombs (1,500 lb total)
+* 2 x 1,000 lb AN-M65A1 Fin M129 bombs (2,000 lb total)
+* 2 x AGM-12B Bullpup missiles
+* 4 x AIM-9B Sidewinder missiles
 
 The F-100A's only air-to-air ordnance is the humble AIM-9B Sidewinder missile. It has poor tracking and manoeuvrability, so an attentive opponent can dodge them with a single well-timed turn. Still, they are helpful on occasion and give the F-100A more flexibility. Up to 4 can be carried, which is a capacity advantage over the J-6A and J-7II.
 
-The F-100A does not have many options for ground attack, which reflects its status as a dedicated fighter model retrofitted with new ordnance as opposed to the F-100D, which was designed from the outset to lug around literal tons of bombs and rockets. The two hardpoints can carry two bombs or two AGM-12B air-to-ground missiles. In the bomb department, neither the 750 lb nor 1000 lb bombs are adequate for serious base-bombing in Air RB, but the latter can do some decent work against ground vehicles. The Bullpups are keyboard-guided MCLOS missiles that are a common sight on US jet aircraft. They take some practice to use, but once mastered they allow the F-100A to engage enemy tanks and ground vehicles from several kilometers away for precise and safe kills. Many of the later ROCAF aircraft such as the [[F-104G (China)|F-104G]] also feature Bullpups, so the F-100A offers a good platform to get familiar with them.
+The F-100A does not have many options for ground attack, which reflects its status as a dedicated fighter model retrofitted with new ordnance as opposed to the F-100D, which was designed from the outset to lug around literal tons of bombs and rockets. The two hardpoints can carry two bombs or two AGM-12B air-to-ground missiles. In the bomb department, neither the 750 lb nor 1000 lb bombs are adequate for serious base-bombing in Air RB, but the latter can do some decent work against ground vehicles. The Bullpups are keyboard-guided MCLOS missiles that are a common sight on US jet aircraft. They take some practice to use, but once mastered they allow the F-100A to engage enemy tanks and ground vehicles from several kilometers away for precise and safe kills. Many of the later ROCAF aircraft such as the [[F-104G (China)|F-104G]] also feature Bullpups, so the F-100A offers a good platform to get familiar with them. 
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 ==='''Air Battles'''===
 The F-100A is an early supersonic jet. Its speed, acceleration, and high speed handling are not the greatest for its battle rating, where it often faces much more advanced aircraft, but it does have lethal weapons and enough good qualities to get by. It is important to know the strengths and weaknesses of its opponents.
 
@@ -185,9 +177,7 @@ The F-100A is a handy accompaniment to ground lineups as well. It is the first a
 Be on the lookout for SAM vehicles because they may be able to engage the F-100A even from long distances, and the F-100A cannot drop chaff to disrupt radar locks or spoof IR missiles. If you spot a missile launch, perform evasive manoeuvres and try to keep a low profile while the vehicle is still around.
 
 ===Radars===
-
 <!--{{main|AN/APG-30}}-->
-
 The F-100A is equipped with an AN/APG-30 rangefinding radar, located in the nose of the aircraft.
 It will automatically detect other planes within the scanning area and display the range to the closest target. It is linked with a gyro gunsight and can help with aiming at close range.
 
@@ -204,26 +194,24 @@ It will automatically detect other planes within the scanning area and display t
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Excellent guns that have both high muzzle velocity, rate of fire, plenty of ammo (200 rpg), and pack a good punch with high-explosive and armour-piercing shells
-- Can carry up to four AIM-9B missiles
-- Access to AGM-12B Bullpup missiles for ground attack
-- Fast and out-accelerates both MiG-15s and MiG-17s
-- Good manoeuvrability for a large supersonic jet
+* Excellent guns that have both high muzzle velocity, rate of fire, plenty of ammo (200 rpg), and pack a good punch with high-explosive and armour-piercing shells
+* Can carry up to four AIM-9B missiles
+* Access to AGM-12B Bullpup missiles for ground attack
+* Fast and out-accelerates both MiG-15s and MiG-17s
+* Good manoeuvrability for a large supersonic jet
 
 '''Cons:'''
 
-- Sluggish at slow speeds, no flaps
-- Acceleration is not very fast in its class
-- Suffers from severe lock-up past Mach 1
-- Loses a lot of energy when trying to turn around at high speed
+* Sluggish at slow speeds, no flaps
+* Acceleration is not very fast in its class
+* Suffers from severe lock-up past Mach 1
+* Loses a lot of energy when trying to turn around at high speed
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 In the early Cold War era, the Republic of China Air Force was equipped with US jet aircraft like the [[F-86F-30 (China) | F-86 Sabre]] and [[F-84G-21-RE_(China) | F-84 Thunderjet]], which were used in clashes with the People's Republic of China over the Taiwan Straits. Amid growing conflict in 1958, a number of assorted F-100 Super Sabres were delivered to Taiwan, including the F-100A, the two-seat F-100F, and the reconnaissance RF-100A. The former were upgraded with a number of features from the latest F-100D, such as a taller vertical tail fin and wiring for Sidewinder missiles. Another batch of F-100s was delivered in the 1970s and the type remained in service until the 1980s.
@@ -231,26 +219,22 @@ In the early Cold War era, the Republic of China Air Force was equipped with US 
 The F-100 was not an easy aircraft to handle and several were lost in accidents. The details of their combat experiences are unclear. They may have fought with PLAAF jets but it is unknown if any kills or losses were scored. The RF-100As in particular were only used for about two years before being returned to the United States due to unsatisfactory capabilities and maintenance issues. The ROCAF was the only foreign user of the F-100A.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=f-100a_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f-100a_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/479186-f-100a-super-sabre/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/479186-f-100a-super-sabre/ Official data sheet - more details about the performance]
 
 {{AirManufacturer NAA}}
 {{China jet aircraft}}

@@ -4,9 +4,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} American jet fighter {{Battle-rating}}. It was introduced in [[Update "Direct Hit"]].
 
 The F-8E is a later model of the Crusader. Compared to the preceding [[F8U-2]], it has largely the same flight performance but improved ordnance options. The infrared-guided AIM-9D Sidewinder returns as a good option for dogfights and sneak attacks, but it can now utilize the radar-guided AIM-9C, which may be useful during head-on engagements. The ground attack options are vastly superior because of the addition of wing pylons; while the F8U-2 was limited to cheek-mounted Zuni rockets and its internal FFAR rocket tray, the F-8E can carry a decent bombload and AGM-12 Bullpup air-to-ground missiles, making it more capable as a multirole fighter.
@@ -16,7 +14,6 @@ The F-8E can really be considered "The Last Gunfighter" in War Thunder, because 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 The F-8E, as a development of the previous [[F8U-2]], will feel very similar to the pilot in command. The Crusader is a highly agile aircraft, capable of dogfighting most enemy aircraft at its rank, blending initial pull with surprising energy retention. This allows the F-8E to pull inside enemy aircraft without bleeding massive amounts of speed like the delta wing aircraft at this rank are prone to doing. The wings have been strengthened to allow for this, so pilots should feel free to perform harsher manoeuvres than while flying the previous F8U-2, albeit the F-8E will still rip in some extreme turns. The engine has been upgraded as well, the extra 560 kgf making up for the slight additional weight of the wings and increasing the climb rate and speed of the aircraft. The F-8E is particularly strong at lower speeds, where the extra engine thrust allows it to sustain turns and accelerate quicker, and it also inherits the unique landing flaps of the Crusader: the wing detaching from the fuselage and angling upwards. This gives large amounts of extra lift, giving the F-8E a sharp advantage at very low speeds, although the plane will "wallow" in the air from the extra lift, and has a difficult time dropping the nose in this flap configuration.
@@ -48,7 +45,7 @@ That manoeuvrability and energy retention comes at a cost though, and that is sp
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || X || ✓ || ✓ || ✓ || X <!-- ✓ -->
+| ✓ || X || ✓ || ✓ || ✓ || X     <!-- ✓ -->
 |-
 |}
 
@@ -114,9 +111,7 @@ That manoeuvrability and energy retention comes at a cost though, and that is sp
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 Like the earlier [[F8U-2]] (F-8C), the only armour on the F-8E is 25 mm of bulletproof glass on the front windscreen. Most of the central fuselage and wing is filled with large fuel tanks which makes gunfire from above or behind likely to cause fuel leaks and fires. Near enough the entire rear fuselage is taken up by the engine, making engine damage likely from rear attacks. Despite these drawbacks, the F-8E is still more durable than some jets and can often make it back to base with light to moderate damage.
 
 === Modifications and economy ===
@@ -128,49 +123,45 @@ As with most high tier jets, the first modification you want to pick up will be 
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Browning-Colt Mk12 Mod 3 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 4 x 20 mm Browning-Colt Mk12 Mod 3 cannons, nose-mounted (144 rpg = 576 total)
-  ** 4 x 20 mm Browning-Colt Mk12 Mod 3 cannons + 60 x countermeasures
+* A choice between two presets:
+** 4 x 20 mm Browning-Colt Mk12 Mod 3 cannons, nose-mounted (144 rpg = 576 total)
+** 4 x 20 mm Browning-Colt Mk12 Mod 3 cannons + 60 x countermeasures
 
 The offensive armament of the F-8E consists of 4 x 20 mm Browning-Colt Mk12 Mod 3 autocannons, grouped into 2 selectable groups. The guns replaced the 20 mm M3 commonly used from the end of WW2 until the Korean war, and has a quick fire rate of 1,000 rpm, outputting 7.30 kg of shells per second towards the enemy. With 144 rounds per gun, this gives pilots of the F-8E 8.64 seconds of trigger time. If ammo capacity is a concern, pilots can select one group of 20 mm to fire at a time, doubling their trigger time. The guns do reliable damage and have a good velocity of 1012 m/s, only slightly less than the [[M61 (20 mm)|20 mm M61]] found on later jets. This makes getting reliable gun kills easy for pilots.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)|MK 77 Mod 4 incendiary}}
 {{main|AGM-12B Bullpup|AIM-9B Sidewinder|AIM-9C Sidewinder|AIM-9D Sidewinder}}
 {{main|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x AIM-9B Sidewinder missiles
-- 2 x AIM-9C Sidewinder missiles
-- 2 x AIM-9D Sidewinder missiles
-- 4 x AIM-9B Sidewinder missiles
-- 4 x AIM-9C Sidewinder missiles
-- 4 x AIM-9D Sidewinder missiles
-- 76 x FFAR Mighty Mouse rockets
-- 24 x Zuni Mk32 Mod 0 ATAP rockets
-- 4 x Zuni Mk32 Mod 0 ATAP rockets
-- 4 x Zuni Mk32 Mod 0 ATAP rockets + 2 x AIM-9B Sidewinder missiles
-- 4 x Zuni Mk32 Mod 0 ATAP rockets + 2 x AIM-9C Sidewinder missiles
-- 4 x Zuni Mk32 Mod 0 ATAP rockets + 2 x AIM-9D Sidewinder missiles
-- 2 x AGM-12B Bullpup missiles
-- 12 x 250 lb LDGP Mk 81 bombs (3,000 lb total)
-- 8 x 500 lb LDGP Mk 82 bombs (4,000 lb total)
-- 4 x 1,000 lb LDGP Mk 83 bombs (4,000 lb total)
-- 2 x 2,000 lb LDGP Mk 84 bombs (4,000 lb total)
-- 2 x MK 77 Mod 4 incendiary bombs
+* Without load
+* 2 x AIM-9B Sidewinder missiles
+* 2 x AIM-9C Sidewinder missiles
+* 2 x AIM-9D Sidewinder missiles
+* 4 x AIM-9B Sidewinder missiles
+* 4 x AIM-9C Sidewinder missiles
+* 4 x AIM-9D Sidewinder missiles
+* 76 x FFAR Mighty Mouse rockets
+* 24 x Zuni Mk32 Mod 0 ATAP rockets
+* 4 x Zuni Mk32 Mod 0 ATAP rockets
+* 4 x Zuni Mk32 Mod 0 ATAP rockets + 2 x AIM-9B Sidewinder missiles
+* 4 x Zuni Mk32 Mod 0 ATAP rockets + 2 x AIM-9C Sidewinder missiles
+* 4 x Zuni Mk32 Mod 0 ATAP rockets + 2 x AIM-9D Sidewinder missiles
+* 2 x AGM-12B Bullpup missiles
+* 12 x 250 lb LDGP Mk 81 bombs (3,000 lb total)
+* 8 x 500 lb LDGP Mk 82 bombs (4,000 lb total)
+* 4 x 1,000 lb LDGP Mk 83 bombs (4,000 lb total)
+* 2 x 2,000 lb LDGP Mk 84 bombs (4,000 lb total)
+* 2 x MK 77 Mod 4 incendiary bombs
 
 The F-8E has a much more extensive selection of multirole weaponry when compared to the preceding [[F8U-2]], although it is still intended for use mainly as an air supremacy aircraft.
 
@@ -227,13 +218,11 @@ The final missile the F-8E gains access to is the AIM-9D. A later evolution of t
 ! AIM-9D Sidewinder missiles
 | || 1*, 2 || 1*, 2 ||
 |-
-| colspan="6" | \* Single missiles can be carried concurrently with dual Zuni rockets on the same hardpoint
+| colspan="6" | * Single missiles can be carried concurrently with dual Zuni rockets on the same hardpoint
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The way you start a battle in the F-8E will depend on what you think the likely composition of the enemy team is. If the battle rating of the match and the countries you are up against lead you to believe that the enemy team will have few (if any) SARH missile-equipped jets then a good start would be to climb to high altitude (around 5,000 m). Once at altitude, you can use your AIM-9C missiles to engage any other high altitude enemies you find head-on; as the AIM-9C is a rare weapon (only used on the F-8E), most people are not aware of its capabilities and are not expecting to receive a front-aspect missile. This allows you to pick up a couple of easy kills from safely outside the range of enemy cannon fire. If there are no more enemy aircraft to engage at high altitude, you can use your speed and altitude to dive down upon lower altitude enemy aircraft for gun/missile attacks. After completing your attack you can either use your energy to go back to high altitude and prepare for another attack or use the F-8E's great manoeuvrability to stay at lower altitudes to engage in dogfights with enemy aircraft.
 
 If you judge the enemy team to likely have SARH-equipped jets then your lack of an RWR makes going to high altitude very risky; in this case it is better to fly at a lower altitude, probably no more than 2,000 m. This gives you a little bit of altitude to play with and puts you in a position where you can potentially use your AIM-9C missiles against targets above you, while being somewhat protected against enemy SARH missiles (aircraft with pulse-Doppler radars will still be able to hit you though, so stay vigilant and be prepared to dodge). At low altitude you can use the F-8Es great manoeuvrability and powerful armament to win out against many enemies in a dogfight, though you must always keep an eye out for enemy missiles.
@@ -241,63 +230,56 @@ If you judge the enemy team to likely have SARH-equipped jets then your lack of 
 The flight performance of the {{PAGENAME}} is similar enough to the preceding [[F8U-2]] that similar tactics should apply in a dogfight. The F-8E's instantaneous turn isn't the best, but it has great energy retention and sustained turn rate. Avoid scissors or any turn radius fight as the {{PAGENAME}}'s energy retention ability in this case will put the plane at a disadvantage because in a scissors, you will bleed less speed than the enemy and will end up in front of their guns. The plane's low-speed maneouvrability also isn't a strong point, so avoid using the air brakes to bleed speed. Rate fighting makes the most of the {{PAGENAME}}'s ability as in these extended, longer-lasting dogfights, the F-8E's superior energy retention will see that it has kept more speed than an enemy aircraft. In this case, even if the enemy has a better initial turn rate, they will lose significantly more speed until they won't be able to keep up in a sustained turn. The {{PAGENAME}} will start gaining on them, and they will either be forced to pitch down to gain speed and try to gain on you, or they will run away. In these cases, you can simply pitch down too and stay on their tail. Eventually, the dogfight will move to a very low altitude, where there is no longer anywhere for the enemy to pitch down, and you will outrate them and get guns on them. If you haven't noticed yet, a rate dogfight like this will last a while depending on your position, so it is recommended not to engage in one when there are other enemies in the area.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Can carry four useful air-to-air missiles
-  ** AIM-9C air-to-air missiles are radar guided and can be launched in head-ons to surprise opponents
-  ** AIM-9D air-to-air missiles have above average range (around 3 km)
-- Landing flaps activate its variable-incidence wings, which provides a lot of lift
-- Very good sustained turn rate
-- Good acceleration and climb rate
-- Has an Infrared Search and Track (IRST) sensor which assists in locating targets by finding their heat signatures
-- Has a variety of suspended air-to-ground ordnance
+* Can carry four useful air-to-air missiles
+** AIM-9C air-to-air missiles are radar guided and can be launched in head-ons to surprise opponents
+** AIM-9D air-to-air missiles have above average range (around 3 km)
+* Landing flaps activate its variable-incidence wings, which provides a lot of lift
+* Very good sustained turn rate
+* Good acceleration and climb rate
+* Has an Infrared Search and Track (IRST) sensor which assists in locating targets by finding their heat signatures
+* Has a variety of suspended air-to-ground ordnance
 
 '''Cons:'''
 
-- Fragile wings which can easily rip at high speeds and in high-G turns
-- Very likely to set on fire because of the fuel tank placement
-- Below average low level top speed compared to other supersonic competitors; can barely break Mach 1 at low altitude
-- Lacks RWR, which is a major disadvantage as it frequently encounters opponents equipped with SARH missiles
-- Lacks a ballistic computer, which greatly limits its ground attack potential
+* Fragile wings which can easily rip at high speeds and in high-G turns
+* Very likely to set on fire because of the fuel tank placement
+* Below average low level top speed compared to other supersonic competitors; can barely break Mach 1 at low altitude
+* Lacks RWR, which is a major disadvantage as it frequently encounters opponents equipped with SARH missiles
+* Lacks a ballistic computer, which greatly limits its ground attack potential
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=f-8e Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f-8e Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|tQhEl042QE8|'''The Shooting Range #275''' - ''Metal Beasts'' section at 00:28 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://www.avialogs.com/aircraft-v/vought/item/5195-f-8e-crusader-standard-aircraft-characteristics-1-july-1967 Standard Aircraft Characteristics of the F-8E]
+* [https://www.avialogs.com/aircraft-v/vought/item/5195-f-8e-crusader-standard-aircraft-characteristics-1-july-1967 Standard Aircraft Characteristics of the F-8E]
 
 {{AirManufacturer Vought}}
 {{USA jet aircraft}}

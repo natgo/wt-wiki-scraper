@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese heavy tank {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
 
 It is almost identical to the Soviet IS-2 (1944) except for the lack of spaced armour on the turret.
@@ -19,17 +17,15 @@ It is almost identical to the Soviet IS-2 (1944) except for the lack of spaced a
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 The armour of the {{PAGENAME}} is fitting for a heavy tank, with enough thickness to ward off most incoming shots. However, there are lots of weak points present that enemy guns can readily penetrate, namely the lower glacis and the turret front, the latter which presents only 100 mm of armour if the incoming shell hits at a 0 degree impact angle. The side armour is thick enough to utilize side-scraping techniques with the {{PAGENAME}}, but don't expect much if the enemy is able to attack at a small impact angle.
 
 The vehicle overall however is well protected against aircraft armaments strafing the {{PAGENAME}}, but keep an eye out for large-calibre aircraft cannons as well as the usual aircraft ordnance such as bombs and rockets.
 
 '''Armour type:'''
 
-- Cast homogeneous armour
-- Rolled homogeneous armour (Hull sides and roof, Turret roof)
+* Cast homogeneous armour
+* Rolled homogeneous armour (Hull sides and roof, Turret roof)
 
 {| class="wikitable"
 |-
@@ -45,14 +41,13 @@ The vehicle overall however is well protected against aircraft armaments strafin
 
 '''Notes:'''
 
-- <nowiki>\*</nowiki> - Indicates armour section is modeled as volumetric armour, plate thickness estimated from 0° impact angle.
-- Suspension wheels are 20 mm thick while tracks are 30 mm thick.
-- The side hull is stronger towards the front of the tank, with armour ranging 115 mm to 130 mm, while towards the rear is only 90 mm thick.
-- A 200 mm thick ring surrounds round the cannon barrel on the gun mantlet.
+* <nowiki>*</nowiki> - Indicates armour section is modeled as volumetric armour, plate thickness estimated from 0° impact angle.
+* Suspension wheels are 20 mm thick while tracks are 30 mm thick.
+* The side hull is stronger towards the front of the tank, with armour ranging 115 mm to 130 mm, while towards the rear is only 90 mm thick.
+* A 200 mm thick ring surrounds round the cannon barrel on the gun mantlet.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp= 671|rbMinHp= 460}}
@@ -68,9 +63,7 @@ The slow mobility and handling does translate to a less rocky ride, and so the g
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|D-25T (122 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -130,9 +123,7 @@ The slow mobility and handling does translate to a less rocky ride, and so the g
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_IS-2.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.5.1.85''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -150,16 +141,14 @@ The slow mobility and handling does translate to a less rocky ride, and so the g
 |}
 '''Notes:'''
 
-- The {{PAGENAME}} uses two-piece ammunition, composed of projectiles (yellow) and propellant bags (orange). Both have separate racks.
-- Shells are modeled individually and disappear after having been shot or loaded.
-- Centre floor rack emptied: 11&nbsp;''(+17)'' shells.
+* The {{PAGENAME}} uses two-piece ammunition, composed of projectiles (yellow) and propellant bags (orange). Both have separate racks.
+* Shells are modeled individually and disappear after having been shot or loaded.
+* Centre floor rack emptied: 11&nbsp;''(+17)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|DShK (12.7 mm)|DT (7.62 mm)}}
 
 The machine gun armament of the {{PAGENAME}} is vastly improved from the [[IS-2|previous iteration]] due to the presence of a 12.7 mm DShK machine gun on a pintle-mount. This allows not only a better ability to defend against aircraft, but as an alternative offensive capability to the slow-firing 122 mm gun. Penetrating more than 20 mm of armour from at maximum 500 m, the DShK is great to attack lightly armoured vehicles. The coaxial gun in this case has little use aside from an harassing tool against an armoured enemy or foliage clearing device against fences that may be in the way. Still, these two machine guns should not be neglected from the arsenal of the {{PAGENAME}}.
@@ -184,7 +173,6 @@ The machine gun armament of the {{PAGENAME}} is vastly improved from the [[IS-2|
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The IS-2 '44 is a definite improvement on its predecessor, the [[IS-2]]. Most notably the frontal armour now features a slope, which can bounce or outright block some rounds. This iteration of the IS-2 also features a roof-mounted machine gun that can be used to attack aircraft without moving your turret (by using weapon selection keys set in the controls). Otherwise, the IS-2 '44 is identical to the IS-2.
@@ -222,80 +210,76 @@ An important note when engaging tanks, especially Tiger Is, is that, with the im
 ==== Specific Enemies Worth Noting ====
 These are common vehicles you will see in this tank.
 
-- ☠ T32 - You have to go for the MG port in the lower left of the UFP, otherwise you can only penetrate the side armour or the rear.
-- ☠ T28 - You can only penetrate the cupolas on top of the tank. If they're hidden or you are unsure about the shot, you can try hitting the cannon barrel and running away.
-- ☠ Ferdinand - Go for the angled armour at the sides of the lower front plate (below the casemate, but above the lowest plates), this will disable Ferdinand's engine and/or driver, so you can flank and finish it off.
-- ☠ Jagdtiger - You cannot reliably penetrate or damage this tank frontally. You can try disabling the cannon barrel, and then flanking is your best option (or running away).
-- ☠ Conqueror - Shoot the hull, don't shoot the turret.
-- ☠ Ho-Ri Production - You cannot reliably penetrate or damage this tank frontally. You can try disabling the cannon barrel and then flanking is your best option (or running).
-- ☠ AMX-50 Foch - You cannot reliably penetrate or damage this tank frontally. You can try disabling the cannon barrel and then flanking is your best option (or running).
-- T34 / T29 - Turret cheeks can work, although it's best to go for the LFP because the ammo storage is very low in the tank. If you don't see the LFP, try going just below the turret ring, where the driver sits.
-- Tiger II (H) / Panther II - You can easily penetrate the turret cheeks with BR-471B.
-- Panther D, A, F, G - You can penetrate the UFP.
-- Tortoise - Shoot to the right of the gun of the Tortoise. When you see it head-on, shoot on the left plate there is a chance to knock it out with a single shot.
-- AMX-50 Surbaissé - Go for the LFP.
+* ☠ T32 - You have to go for the MG port in the lower left of the UFP, otherwise you can only penetrate the side armour or the rear.
+* ☠ T28 - You can only penetrate the cupolas on top of the tank. If they're hidden or you are unsure about the shot, you can try hitting the cannon barrel and running away.
+* ☠ Ferdinand - Go for the angled armour at the sides of the lower front plate (below the casemate, but above the lowest plates), this will disable Ferdinand's engine and/or driver, so you can flank and finish it off.
+* ☠ Jagdtiger - You cannot reliably penetrate or damage this tank frontally. You can try disabling the cannon barrel, and then flanking is your best option (or running away).
+* ☠ Conqueror - Shoot the hull, don't shoot the turret.
+* ☠ Ho-Ri Production - You cannot reliably penetrate or damage this tank frontally. You can try disabling the cannon barrel and then flanking is your best option (or running).
+* ☠ AMX-50 Foch - You cannot reliably penetrate or damage this tank frontally. You can try disabling the cannon barrel and then flanking is your best option (or running).
+* T34 / T29 - Turret cheeks can work, although it's best to go for the LFP because the ammo storage is very low in the tank. If you don't see the LFP, try going just below the turret ring, where the driver sits.
+* Tiger II (H) / Panther II - You can easily penetrate the turret cheeks with BR-471B.
+* Panther D, A, F, G - You can penetrate the UFP.
+* Tortoise - Shoot to the right of the gun of the Tortoise. When you see it head-on, shoot on the left plate there is a chance to knock it out with a single shot.
+* AMX-50 Surbaissé - Go for the LFP.
 
 === The Stock Grind ===
 When grinding the first modifications, Arcade Battles might be more fun, because of faster-paced gameplay and the ability to see all threats. Now, it's a priority to research Parts and FPE (you may want to activate 3-5 universal vehicle back-ups to be able to respawn twice in one match if you really wish to upgrade this vehicle quickly).
 
 General stock grind advice:
 
-- Don't show your rear to any enemies, because a single fire will be your death.
-- Your gun is still very effective, so don't be afraid to attack enemies frontally, just make sure to aim for weak-spots if possible.
-  \*\* Shooting at planes in Arcade with your machine gun (or main gun) and scoring some hits can often award you a kill if the plane crashes, which grants points.
-- Play as a support tank - push with your team and let them take fire, then poke out and take your shots, then retreat back into cover.
-  \*\* Try to push into objectives with your team to gain those points as well.
+* Don't show your rear to any enemies, because a single fire will be your death.
+* Your gun is still very effective, so don't be afraid to attack enemies frontally, just make sure to aim for weak-spots if possible.
+** Shooting at planes in Arcade with your machine gun (or main gun) and scoring some hits can often award you a kill if the plane crashes, which grants points.
+* Play as a support tank - push with your team and let them take fire, then poke out and take your shots, then retreat back into cover.
+** Try to push into objectives with your team to gain those points as well.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Extremely powerful 122 mm gun. Can easily knock out any tank with a single shot
-- The top 122 mm APHE shell has good overmatching mechanics, can go through the upper plate of the Panther past 500 m fairly easily
-- Upper plate is basically impenetrable, as tough as the Tiger II's upper plate
-- Has good mobility and a high top speed for a heavy
-- Has a roof mounted 12.7 mm machine gun, so dealing with lightly armoured vehicles/ defending its self from planes is possible
-- Is a good flanker and ambushing tank thanks to its good top speed, armour, and massive gun
+* Extremely powerful 122 mm gun. Can easily knock out any tank with a single shot
+* The top 122 mm APHE shell has good overmatching mechanics, can go through the upper plate of the Panther past 500 m fairly easily
+* Upper plate is basically impenetrable, as tough as the Tiger II's upper plate
+* Has good mobility and a high top speed for a heavy
+* Has a roof mounted 12.7 mm machine gun, so dealing with lightly armoured vehicles/ defending its self from planes is possible
+* Is a good flanker and ambushing tank thanks to its good top speed, armour, and massive gun
 
 '''Cons:'''
 
-- Terrible reload speed. Getting into brawls with contemporary heavies like the Tiger II is ill advised
-- Despite the good overall armour, has some serious weak spots on the turret
-- Horrible gun depression - hill fighting is nearly impossible without exposing the entire tank
-- Has a massive and unsloped lower front plate - virtually all tanks at its BR can cut right through it and knock out the IS-2 with a single shot through the LFP
-- Very small crew compartment, any APHE shell that pens it will likely kill everyone in the tank
-- Worse optics than its predecessor
-- Not as good at side scraping as the Tiger IIs due to its hull cheeks
-- Ammo capacity for the MG on top is low, only 250 rounds
+* Terrible reload speed. Getting into brawls with contemporary heavies like the Tiger II is ill advised
+* Despite the good overall armour, has some serious weak spots on the turret
+* Horrible gun depression - hill fighting is nearly impossible without exposing the entire tank
+* Has a massive and unsloped lower front plate - virtually all tanks at its BR can cut right through it and knock out the IS-2 with a single shot through the LFP
+* Very small crew compartment, any APHE shell that pens it will likely kill everyone in the tank
+* Worse optics than its predecessor
+* Not as good at side scraping as the Tiger IIs due to its hull cheeks
+* Ammo capacity for the MG on top is low, only 250 rounds
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 === People's Liberation Army (PLA) ===
 The People's Republic of China (PRC) received a total of 60 IS-2 heavy tanks from the Soviet Union in 1950 and another 22 in 1954, for a total of 82. The Chinese IS-2 heavy tanks saw service in the Korean War from 1950 to 1951, equipping four or more tank companies with 5 IS-2s each according to American intelligence. The IS-2 was removed from active service with the PLA by the end of the 1950s.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=cn_is_2_1944 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=cn_is_2_1944 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{TankManufacturer ChTZ}}
 {{China heavy tanks}}

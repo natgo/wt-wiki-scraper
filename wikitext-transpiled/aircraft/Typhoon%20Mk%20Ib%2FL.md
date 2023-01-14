@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
 The Typhoon is a heavily armed, fast fighter bomber which excels in Boom and Zoom tactics. It is armed with four deadly Hispano cannons, which can obliterate enemy fighters with the air targets belt. With all modules purchased, the Typhoon is one of the fastest planes in its tier, reaching speeds of almost 700 km/h in level flight. You also have an excellent climb rate and great manoeuvrability, enabling you to dogfight quite effectively against some targets.
@@ -21,7 +19,6 @@ You also get some decent payload options. A choice of 2 x 250, 500 or 1,000 lb b
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -49,7 +46,7 @@ You also get some decent payload options. A choice of 2 x 250, 500 or 1,000 lb b
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -102,13 +99,12 @@ You also get some decent payload options. A choice of 2 x 250, 500 or 1,000 lb b
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 42.8 mm Bulletproof glass in cockpit front
-- 12.7 mm Steel plate behind the pilot
-- 3 mm Steel plate in front of the engine
-- 1 mm Steel plate behind the engine
+* 42.8 mm Bulletproof glass in cockpit front
+* 12.7 mm Steel plate behind the pilot
+* 3 mm Steel plate in front of the engine
+* 1 mm Steel plate behind the engine
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -117,43 +113,37 @@ You also get some decent payload options. A choice of 2 x 250, 500 or 1,000 lb b
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Hispano Mk.II (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 20 mm Hispano Mk.II cannons, wing-mounted (140 rpg = 560 total)
+* 4 x 20 mm Hispano Mk.II cannons, wing-mounted (140 rpg = 560 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|M.C. 1,000 lb Mk.I (1,000 lb)|RP-3}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 250 lb G.P. Mk.IV bombs (500 lb total)
-- 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
-- 2 x 1,000 lb M.C. 1,000 lb Mk.I bombs (2,000 lb total)
-- 8 x RP-3 rockets
+* Without load
+* 2 x 250 lb G.P. Mk.IV bombs (500 lb total)
+* 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
+* 2 x 1,000 lb M.C. 1,000 lb Mk.I bombs (2,000 lb total)
+* 8 x RP-3 rockets
 
 == Usage in battles ==
-
 <!--''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''-->
-
 The Typhoon Mk Ib/L, like the other Typhoons, is a superb altitude fighter, able to dive down on unaware enemies and strike; then take off with the speed it gained from diving to gain a high altitude for the purpose of either doing a second pass on an enemy or to engage a new enemy target. It has a great speed for a 4.3/4.7(RB/AB) but its insufficient climbing speed makes it possible for enemy threats to outclimb it.
 
-Major threats to the Typhoon Mk Ib/L are aircraft like [[Yak-3]], [[Bf 109 (Family)|Bf 109's]], [[A7M (Family)|A7M]] and [[P-38L-5-LO]] which are able to outclimb, turn faster, and keep up or outrun the Typhoon, making them deadly enemies for it to face. However, the strong structure of the Typhoon's wings make it able to outdive most of them to get away.
+Major threats to the Typhoon Mk Ib/L are aircraft like [[Yak-3]], [[Bf 109 (Family)|Bf 109's]], [[A7M (Family)|A7M]] and [[P-38L-5-LO]] which are able to outclimb, turn faster, and keep up or outrun the Typhoon, making them deadly enemies for it to face. However, the strong structure of the Typhoon's wings make it able to outdive most of them to get away. 
 
 In Arcade battles, the 4 x 20 mm are effective against most aircraft and with boost of speed and climb rate, it is able to climb high and it will be easier to do "hit and run" tactics where it will shine most. Engaging enemies in dogfights are not the strong suit of the Typhoon and it is ill advised to do so in any battle mode.
 
 In Realistic battles, it is an excellent Boom and Zoomer, able to get high altitude and dive on unsuspecting pilots. The climbing speed is sufficient to make it outclimb and do well as a Hit and Run aircraft in lower rating battles, but in higher rating battles it will have fierce competition in the sky.
 
-The Typhoon is also an excellent option to take into Ground Battles, being able to carry 2 x 1,000 lbs, 2 x 500 lbs, 2 x 250 lbs or 8 x [[RP-3]] rockets into battle, making it capable to assist and support ground units in battle, Also 4 x 20 mm with ground target ammunition can strafe at right angles to immobilize or do critical damage to most enemy tanks from above, buying time and protecting allied ground units from potential threats.
+The Typhoon is also an excellent option to take into Ground Battles, being able to carry 2 x 1,000 lbs, 2 x 500 lbs, 2 x 250 lbs or 8 x [[RP-3]] rockets into battle, making it capable to assist and support ground units in battle, Also 4 x 20 mm with ground target ammunition can strafe at right angles to immobilize or do critical damage to most enemy tanks from above, buying time and protecting allied ground units from potential threats.  
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -173,31 +163,29 @@ The Typhoon is also an excellent option to take into Ground Battles, being able 
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Retains energy well: great Boom & Zoom aircraft
-- Can also turnfight [[Bf 109 (Family)|Bf 109s]] when between 350 and 450 km/h IAS
-- Armed with 4 x 20 mm Hispano cannons
-- Bubble canopy allows for a great visibility, especially in SB
-- Excellent climb rate
-- Structural strentgh of wings helps the Typhoon survive high-speed dives
-- Versatile set of belts, great for ground RB.
-- Has four suspended ordnance options (three varieties of bombs and RP-3 rockets)
+* Retains energy well: great Boom & Zoom aircraft
+* Can also turnfight [[Bf 109 (Family)|Bf 109s]] when between 350 and 450 km/h IAS
+* Armed with 4 x 20 mm Hispano cannons
+* Bubble canopy allows for a great visibility, especially in SB
+* Excellent climb rate
+* Structural strentgh of wings helps the Typhoon survive high-speed dives 
+* Versatile set of belts, great for ground RB.
+* Has four suspended ordnance options (three varieties of bombs and RP-3 rockets)
 
 '''Cons:'''
 
-- Terrible roll rate
-- Cannon recoil can cause aircraft to lose speed and the Hispanos easily jam
-- Plane controls start to lock when beyond 537 km/h
-- Bombs negate your turn rate advantage
-- Plane can be difficult to play when stock
-- Engine can overheat easily and will suffer at high altitude
+* Terrible roll rate
+* Cannon recoil can cause aircraft to lose speed and the Hispanos easily jam
+* Plane controls start to lock when beyond 537 km/h
+* Bombs negate your turn rate advantage
+* Plane can be difficult to play when stock
+* Engine can overheat easily and will suffer at high altitude
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -217,31 +205,26 @@ After many early teething problems, critical failures and threats to be withdraw
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=typhoon_mk1b_late Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=typhoon_mk1b_late Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|SwVkOjFkbGo|'''Decision Making /// Typhoon Mk IB / L 8 Kill''' - ''DEFYN''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
-- [[Typhoon (Family)]]
+* [[Typhoon (Family)]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{AirManufacturer Hawker}}
 {{Britain fighters}}

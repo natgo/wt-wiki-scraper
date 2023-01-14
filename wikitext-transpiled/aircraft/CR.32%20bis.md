@@ -5,22 +5,18 @@
 }}
 {{Specs-Card
 |code=cr_32_bis
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.jpg}}
 |market=CR.32 bis
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Italian fighter {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]], along with the Italian aviation tree as a pre-order [[wt:en/news/4671-italian-aircraft-in-war-thunder-update-1-69-regia-aeronautica-en|premium pack]] prior to the update that also allowed access into the Italian Closed Beta Test. It was removed after the [[wt:en/news/5079-special-hurry-up-and-get-rare-packs-en|5th Anniversary sale]] but came back in the [[Warbonds]] shop as part of the first trophy chest in [[wt:en/news/5432-news-how-can-you-get-premium-vehicles-warbonds-en|April 2018]] until the end of [[Battle Pass: Season IV, "Fearless Voltigeur"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 Being essentially an upgunned reserve plane, the CR.32 bis' flight performance leaves much to be desired. While it can outturn most monoplane fighters, the CR.32 bis will occasionally struggle to dogfight against most of biplanes (especially the [[I-15 (Family)|I-15]] series). Its slow top speed and very poor energy retention also restricting its dogfight capabilities.
 
 On the plus side, the CR.32 bis retain its great diving speed of its reserve counterparts, coupled with increased performance at higher speed, this makes it very excel at boom-and-zoom tactics, capable of strafing enemy from above before retreating.
@@ -50,7 +46,7 @@ On the plus side, the CR.32 bis retain its great diving speed of its reserve cou
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || X || X || X || X <!-- ✓ -->
+| X || X || X || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -95,11 +91,10 @@ On the plus side, the CR.32 bis retain its great diving speed of its reserve cou
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- No armour plates or bulletproof glass
-- Self-sealing fuel tanks located between engine and pilot
+* No armour plates or bulletproof glass
+* Self-sealing fuel tanks located between engine and pilot
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -108,22 +103,18 @@ On the plus side, the CR.32 bis retain its great diving speed of its reserve cou
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Breda-SAFAT (12.7 mm)|Breda-SAFAT (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 12.7 mm Breda-SAFAT machine guns, nose-mounted (350 rpg = 700 total)
-- 2 x 7.7 mm Breda-SAFAT machine guns, wing-mounted (500 rpg = 1,000 total)
+* 2 x 12.7 mm Breda-SAFAT machine guns, nose-mounted (350 rpg = 700 total)
+* 2 x 7.7 mm Breda-SAFAT machine guns, wing-mounted (500 rpg = 1,000 total)
 
 The main (and only) difference between the CR.32 bis and its reserve counterparts is the addition of two 7.7 mm Breda-SAFAT machine guns mounted on the wings. These guns provided extra firepower at close range, thought you might need to set convergence due to wing-mounted setup.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The CR.32 bis is virtually similar to its reserve counterpart, the [[CR.32]] with the exception of 2 additional 7.7 mm machine guns.Equipped with air targets belt, it can easily set other planes on fire. The only downsides of the plane are the lack of protection and speed. While these machine guns provided extra kick to the opponents, the CR.32 bis will have to face much faster and stronger opponents: monoplane fighers and bombers. The best way to use the CR.32 BIS is by playing as a support. As a biplane, you can easily outturn most opponents. The recommended tactic is to always have an altitude advantage over your enemies. Do not turn too much and fire your machine gun in bursts as you have limited ammo, this means you have to be more careful when engaging targets. With a top level speed of only 380 km/h, the CR.32 will be usually outrun by most opponents it faces. Instead, climb to much higher altitude, then use its surprisingly fast dive speed to execute boom-and-zoom attack to kill an unsuspecting opponents. While it can dogfight against monoplanes to some extent, the CR.32 bis' poor energy retention will eventually catch up and slow down the plane significantly, be decisive and strike at enemy weak points (engines, pilot, etc.) to finish them off as fast as possible.
 
 === Manual Engine Control ===
@@ -144,33 +135,32 @@ The CR.32 bis is virtually similar to its reserve counterpart, the [[CR.32]] wit
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Good offensive capabilities
-  ** 12.7 mm MGs are great for knocking out pilots and penetrating enemy armour plates
-  ** 7.7 mm MGs provided extra firepower at close range and can be used to strafe soft targets
-- Excellent dive speed
-  \*\* Excellent high-speed performance
-- Surprisingly good turning against monoplane fighters
-- Fixed gear makes it easy to land
-- Durable airframe for a biplane
-  \*\* Effective self-sealing fuel tanks
-- In Simulator it almost never spins, allowing some really tight manoeuvres to be performed without danger
+* Good offensive capabilities
+** 12.7 mm MGs are great for knocking out pilots and penetrating enemy armour plates
+** 7.7 mm MGs provided extra firepower at close range and can be used to strafe soft targets
+* Excellent dive speed
+** Excellent high-speed performance
+* Surprisingly good turning against monoplane fighters
+* Fixed gear makes it easy to land
+* Durable airframe for a biplane
+** Effective self-sealing fuel tanks
+* In Simulator it almost never spins, allowing some really tight manoeuvres to be performed without danger
 
 '''Cons:'''
 
-- Overall mediocre flight performance
-  ** Sluggish top speed
-  ** Turns worse than some biplanes it faces
-  ** Poor roll rate for a biplane
-  ** Terrible energy retention, will lose a lot of energy while turning
-  \*\* Fixed gear increases drag
-- No protection for the pilot
-- Uses a telescopic gunsight which is extremely hard to use in Simulator
-- Upper wing greatly obstructs the upward-forward view, a disadvantage in a Simulator dogfight
+* Overall mediocre flight performance
+** Sluggish top speed
+** Turns worse than some biplanes it faces
+** Poor roll rate for a biplane
+** Terrible energy retention, will lose a lot of energy while turning
+** Fixed gear increases drag
+* No protection for the pilot
+* Uses a telescopic gunsight which is extremely hard to use in Simulator
+* Upper wing greatly obstructs the upward-forward view, a disadvantage in a Simulator dogfight
 
 == History ==
  <!--''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).-->''
@@ -181,36 +171,33 @@ The CR.32 bis is virtually similar to what many people know as the [[CR.32]], th
 
 The CR.32 had its baptism of fire in the Spanish skies, the first twelve machines arrived by steamer at Melilla, Morocco, on 14 August 1936 and, together with the nine SIAI SM.81 arrived on 28 July, were incorporated into l'Aviacion de el Tercio. At the end of August, after further batches of CR.32s had arrived, the "Cucaracha" squadron was established at Cacéres, late to became the XVI Gruppo Caccia. In April 1937, the XVI Gruppo were joined by XXIII Gruppo "Asso di Bastoni" and VI Gruppo "Gamba di Ferro", after CR.32 was used by X Gruppo Caccia "Baleari" and the Squadron "Frecce". Thanks to the CR.32, the Legion's fighters quickly established supremacy over the red air forces, but in November a new fighter, the Polikarpov I-15, appeared and the battles with CR.32 were harder to win. After came the I-16, much faster than the CR.32, and the pilots of CR.32 were unable to fully exploit all the capabilities of their mounts and to follow the dog-fighting manoeuvres imposed by the nimbler FIAT biplane.
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=cr_32_bis Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=cr_32_bis Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|iQs0VuHMaFA|'''The Shooting Range #45''' - ''Pages of History'' section at 04:08 discusses the CR.32.}}
 
 == See also ==
-
 <!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''-->
 
 ;Other CR.32s:
 
-- [[CR.32]]
-- [[CR.32 quater]]
+* [[CR.32]]
+* [[CR.32 quater]]
 
 == External links ==
-
 <!--''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.''-->
 
-- [https://ww2db.com/aircraft_spec.php?aircraft_model_id=344 [<nowiki>World War 2 Database]</nowiki> CR.32] ([https://web.archive.org/web/20211023164145/https://ww2db.com/aircraft_spec.php?aircraft_model_id=344 Archive])
-- [https://comandosupremo.com/fiat-cr32/ [<nowiki>Comando Supremo]</nowiki> Fiat CR.32 Biplane Fighter] ([https://web.archive.org/web/20211023164250/https://comandosupremo.com/fiat-cr32/ Archive])
-- [http://www.historyofwar.org/articles/weapons_fiat_cr32.html [<nowiki>History of War]</nowiki> Fiat CR.32] ([https://web.archive.org/web/20211023164425/http://www.historyofwar.org/articles/weapons_fiat_cr32.html Archive])
+* [https://ww2db.com/aircraft_spec.php?aircraft_model_id=344 [<nowiki>World War 2 Database]</nowiki> CR.32] ([https://web.archive.org/web/20211023164145/https://ww2db.com/aircraft_spec.php?aircraft_model_id=344 Archive])
+* [https://comandosupremo.com/fiat-cr32/ [<nowiki>Comando Supremo]</nowiki> Fiat CR.32 Biplane Fighter] ([https://web.archive.org/web/20211023164250/https://comandosupremo.com/fiat-cr32/ Archive])
+* [http://www.historyofwar.org/articles/weapons_fiat_cr32.html [<nowiki>History of War]</nowiki> Fiat CR.32] ([https://web.archive.org/web/20211023164425/http://www.historyofwar.org/articles/weapons_fiat_cr32.html Archive])
 
 {{AirManufacturer Fiat}}
 {{Italy fighters}}

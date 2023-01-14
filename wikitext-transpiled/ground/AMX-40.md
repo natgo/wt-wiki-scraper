@@ -4,9 +4,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} French medium tank {{Battle-rating}}. It was introduced in [[Update 1.79 "Project X"]].
 
 The AMX-40 represents a massive shift in the French tank tree, with the addition of a stabilizer, whereas all other vehicles, with the exception of the American vehicles (Sherman M4A1, Jumbo.) have no actual stabilizer. Many players might find themselves hesitating to fire a shot as soon as a target is seen because there is usually time to think before the gun is stabilized, but at this rank, French players might find themselves having a hard time shooting before their enemy.
@@ -14,7 +12,6 @@ The AMX-40 represents a massive shift in the French tank tree, with the addition
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 The frontal armour of the AMX-40 consists mainly of a composite armour section at the front of the hull with a 35 mm thick (Rolled Homogeneous Armour) upper glacis plate and spaced turret armour. Despite the presence of both spaced and composite armour throughout the front of the vehicle, the vehicle struggles to resist the ammunition fired at it from its BR contemporaries save for the occasional bounce from the steep armour angles present on the upper glacis plate and the roof of the turret. The AMX-40 contains 4 crew members where half are seated on the left half of the vehicle and the other two are situated on the right half. This provides a moderate level of survivability since shots that connect too far left or right of the centre of the tank will likely only knock out two of the four crew, potentially granting the driver another opportunity. The vehicle's cannon breech is also quite large which grants it more survivability in its ability to absorb shrapnel. In addition to this, the AMX-40 features a blow-out panel for the rear turret ammunition, which is capable of storing up to 19 rounds. This grants the tank increased survivability, as side shots that explode the blow-out ammunition generally do not destroy the vehicle upon detonation.
@@ -22,10 +19,9 @@ The frontal armour of the AMX-40 consists mainly of a composite armour section a
 Overall the armour of the AMX-40 is for the most part, sufficient at protecting it from autocannon and SPAAG fire. Besides that, drivers of the AMX-40 will quickly find that its armour is inadequate at protecting it from its contemporaries and it is suggested that drivers instead make use of the above average mobility of the vehicle to ensure a degree of survivability.
 
 '''Armour type:'''
-
-- Rolled homogeneous armour (hull, turret, cupola) - abbreviated as RHA
-- High hardness rolled armour (front glacis - composite armour)
-- NERA (front glacis - composite armour)
+* Rolled homogeneous armour (hull, turret, cupola) - abbreviated as RHA
+* High hardness rolled armour (front glacis - composite armour)
+* NERA (front glacis - composite armour)
 
 {| class="wikitable"
 |-
@@ -33,39 +29,37 @@ Overall the armour of the AMX-40 is for the most part, sufficient at protecting 
 |-
 | Hull || 35 mm (80°) ''Upper glacis'' <br> 50 mm (80°) ''Driver hatch'' <br> 50+102 mm (8°) + 20 mm (5°) ''Lower glacis - Top'' <br> 50 mm (46°) + 20 mm (45°) ''Lower glacis - Bottom''|| 30 mm ''Top'' <br> 30 + 25 mm ''Bottom - Front'' <br> 30 + 6 mm ''Bottom - Rear'' <br> 15 mm (64-66°) ''Belly'' || 15 mm ''Radiator vents'' <br> 30 mm ''Lower plate'' <br> 15 mm (53-58°) ''Lower glacis'' || 35 mm (10°) ''Front glacis'' <br> 15 mm ''Rear'' <br> 5 mm ''Radiator vents''
 |-
-| Turret || 35+38 mm (cylindrical) ''Turret front'' <br> 15 mm + 38 mm (cylindrical) ''Optics port - gunner side'' <br> 50+35+35 mm ''Gun mantlet'' <br> 50+25 mm ''Gun mantlet - MG port'' <br> 50 mm (cylindrical) ''Turret ring'' || 15-35 mm (12-22°) ''Gun mantlet - Gunner side'' <br> 25+35 mm (4°) ''Gun mantlet - Right side'' <br> 38+84 mm (3-23°) ''Turret - Front'' <br> 16+29 mm (18-23°) ''Turret - Centre & rear'' <br> 50 mm (cylindrical) ''Turret ring'' || 16 mm || 35 mm (20°) ''Gun mantlet'' <br> 38 mm (8°) ''Front'' <br> 20 mm ''Centre'' <br> 15 mm (8°) ''Rear''
+| Turret || 35+38 mm (cylindrical) ''Turret front''  <br> 15 mm + 38 mm (cylindrical) ''Optics port - gunner side'' <br> 50+35+35 mm ''Gun mantlet''  <br> 50+25 mm ''Gun mantlet - MG port'' <br> 50 mm (cylindrical) ''Turret ring'' || 15-35 mm (12-22°) ''Gun mantlet - Gunner side'' <br> 25+35 mm (4°) ''Gun mantlet - Right side'' <br> 38+84 mm (3-23°) ''Turret - Front'' <br> 16+29 mm (18-23°) ''Turret - Centre & rear'' <br> 50 mm (cylindrical) ''Turret ring'' || 16 mm || 35 mm (20°) ''Gun mantlet'' <br> 38 mm (8°) ''Front'' <br> 20 mm ''Centre'' <br> 15 mm (8°) ''Rear''
 |-
 | Cupola || colspan="3" style="text-align:center" | 35 mm (cylindrical) || 35 mm ''Outer ring'' <br> 20 mm ''Centre''
 |-
 |}
 '''Notes:'''
-
-- Suspension wheels, tracks and torsion bars are 20 mm thick.
-- Belly armour is 15 mm thick.
-- A first internal wall of 8 mm RHA separates the crew compartment from the engine compartment.
-- A second internal wall of 35 mm RHA separates the turret from the bustle ammo rack.
-- Composite armour is located on the front lower glacis:
-  {| class="wikitable"
-  |-
-  ! Composite armour !! Front (Slope angle)
-  |-
-  | Hull || '''Lower glacis:''' <br> 50 mm (8°) ''High hardness rolled armour'' <br> 300 mm ''NERA'' <br> 102 mm (8°) ''RHA''
-  |-
-  |}
-- Spaced armour is located on the turret front and sides:
-  {| class="wikitable"
-  |-
-  ! Spaced armour !! Front (Slope angle) !! Sides
-  |-
-  | Turret || '''Gun mantlet:''' <br> 35 mm ''RHA'' <br> 140 mm ''Air'' <br> 35 mm ''RHA'' <br> '''Turret front:''' ' <br> 38 mm (cylindrical) ''RHA'' <br> 140 mm ''Air'' <br> 84 mm (22°) ''RHA'' || '''Gun mantlet - Right side:''' <br> 25 mm (4°) ''RHA'' <br> 50 mm ''Air'' <br> 35 mm (4°) ''RHA'' <br> '''Turret front:''' <br> 38 mm (23°) ''RHA'' <br> 140 mm ''Air'' <br> 84 mm (23°) ''RHA'' <br> '''Turret centre & rear:''' <br> 16 mm (18-23°) ''RHA'' <br> 140 mm ''Air'' <br> 29 mm (18-23°) ''RHA''
-  |-
-  |}
-- The values in the table above are not to be added to the armour values present in the first table as they only describe the layout of spaced armour.
-- The spaced armour does not cover the MG port.
+* Suspension wheels, tracks and torsion bars are 20 mm thick.
+* Belly armour is 15 mm thick.
+* A first internal wall of 8 mm RHA separates the crew compartment from the engine compartment.
+* A second internal wall of 35 mm RHA separates the turret from the bustle ammo rack.
+* Composite armour is located on the front lower glacis:
+{| class="wikitable"
+|-
+! Composite armour !! Front (Slope angle)
+|-
+| Hull || '''Lower glacis:''' <br> 50 mm (8°) ''High hardness rolled armour'' <br> 300 mm ''NERA'' <br> 102 mm (8°) ''RHA''
+|-
+|}
+* Spaced armour is located on the turret front and sides:
+{| class="wikitable"
+|-
+! Spaced armour !! Front (Slope angle) !! Sides
+|-
+| Turret || '''Gun mantlet:''' <br> 35 mm ''RHA'' <br> 140 mm ''Air'' <br> 35 mm ''RHA'' <br> '''Turret front:''' ' <br> 38 mm (cylindrical) ''RHA'' <br> 140 mm ''Air'' <br> 84 mm (22°) ''RHA'' || '''Gun mantlet - Right side:''' <br> 25 mm (4°) ''RHA'' <br> 50 mm ''Air'' <br> 35 mm (4°) ''RHA'' <br> '''Turret front:''' <br>  38 mm (23°) ''RHA'' <br> 140 mm ''Air'' <br> 84 mm (23°) ''RHA'' <br> '''Turret centre & rear:''' <br>  16 mm (18-23°) ''RHA'' <br> 140 mm ''Air'' <br> 29 mm (18-23°) ''RHA''
+|-
+|}
+* The values in the table above are not to be added to the armour values present in the first table as they only describe the layout of spaced armour.
+* The spaced armour does not cover the MG port.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=2,015|rbMinHp=1,150}}
@@ -79,9 +73,7 @@ This tank has very good speed, both forward and reverse with all options.
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|GIAT CN120-25 G1 (120 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -137,9 +129,7 @@ This tank has very good speed, both forward and reverse with all options.
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x200px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 1.101.2.60''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -156,8 +146,8 @@ This tank has very good speed, both forward and reverse with all options.
 |}
 Notes:
 
-- Shells are modeled individually and disappear after having been shot or loaded.
-- Racks 3 to 6 are first stage ammo racks. They total 19 shells and get filled first when loading up the tank.
+* Shells are modeled individually and disappear after having been shot or loaded.
+* Racks 3 to 6 are first stage ammo racks. They total 19 shells and get filled first when loading up the tank.
 
 <!---==== Optics and night vision ====
 
@@ -190,9 +180,7 @@ Notes:
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|20F2 (20 mm)|A-A-F1N (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -218,7 +206,6 @@ The 20 mm 20F2 coaxial autocannon is not just an anti-aircraft gun: with 57 mm p
 The small calibre of the A-A-F1N machine gun makes it largely ineffective against all armoured vehicles but the ones with an open compartment. It still can be used to ping targets as a rangefinding help or to mow down minor obstacles blocking your line of sight.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 AMX-40 should be used as a better AMX-30. It should be used almost the same way since the lack of armour but high speed makes it almost the same.
@@ -238,24 +225,22 @@ The OFL 120 G1 has penetration of a 105 mm APFSDS, it is only able to penetrate 
 '''Sniping''' - The AMX-40 has pretty decent optics and thermal sight, with addition of OFL 120 G1 APFSDS, which make the AMX-40 suitable for sniping. Use your speed to your advantage and move once you destroy a target or two to keep you safe from potential revenge attacks with CAS, use smoke grenades to cover your escape or when you have been hit.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Decent frontal armour
-- Composite armour allows for a more balanced survivability
-- Good mobility: about the same as on the AMX-30, with great forward and reverse acceleration and speed
-- The GIAT 120 mm gun is a big improvement over the AMX-30's 105 mm gun
-- Sports a 20 mm coaxial cannon for use against lightly armoured targets
+* Decent frontal armour
+* Composite armour allows for a more balanced survivability
+* Good mobility: about the same as on the AMX-30, with great forward and reverse acceleration and speed
+* The GIAT 120 mm gun is a big improvement over the AMX-30's 105 mm gun
+* Sports a 20 mm coaxial cannon for use against lightly armoured targets
 
 '''Cons:'''
 
-- Overall armour can still be penetrated by the majority of the guns at its rank
-- Turret turn speed is slower than most of the top rank VI tanks, close combat can turn deadly quickly for the AMX-40
+* Overall armour can still be penetrated by the majority of the guns at its rank
+* Turret turn speed is slower than most of the top rank VI tanks, close combat can turn deadly quickly for the AMX-40
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 Development of the AMX-40 began as a private venture of the French GIAT company in the early 1980s, with the aim to create a new export vehicle, in anticipation of increased demand for military equipment from middle eastern countries. GIAT engineers decided to base the new vehicle off the AMX-32, which itself was an improved export version of the successful AMX-30 main battle tank. However, compared to his predecessors, the AMX-40 was to feature vastly improved firepower, mobility and protection. As a true first in the French postwar tank development history, the AMX-40 would receive a two-plane stabilizer for its 120 mm smoothbore cannon. Although the tank's turret and cannon were mostly adopted from the AMX-32, increases in weight from new components led to the fact that the hull of the vehicle had to be redesigned from scratch.
@@ -267,34 +252,29 @@ In the late 1980s, the vehicle's development stagnated as active development was
 ''- From [[wt:en/news/5563-development-amx-40-fire-and-forget-en|Devblog]]''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=fr_amx_40 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=fr_amx_40 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|wJkQW4kSJjM|'''French MBTs''' discusses the {{PAGENAME}} at 5:02 - ''War Thunder Official Channel''|0aEL9-nkAg4|'''AMX-40 - The Original Baguette''' - ''JustinPlaysYT''|6ZPe4_MfB_I|'''AMX-40 - The Min/Max high tier tank''' - ''Napalmratte''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
-
-- [[Leopard 2K]]
+* [[Leopard 2K]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/5563-development-amx-40-fire-and-forget-en|[Devblog] AMX-40: Fire and Forget]]
-- [[wikipedia:AMX-40|[Wikipedia] AMX-40]]
+* [[wt:en/news/5563-development-amx-40-fire-and-forget-en|[Devblog] AMX-40: Fire and Forget]]
+* [[wikipedia:AMX-40|[Wikipedia] AMX-40]]
 
 {{TankManufacturer AMX}}
 {{France medium tanks}}

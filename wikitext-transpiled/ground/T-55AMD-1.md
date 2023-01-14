@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet medium tank {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
 
 The T-55AMD-1 is a modification of the premium [[T-55AM-1]] at the same battle rating. It has the same upgrades to the firepower, fire control system, engine, and hull armour compared to the original [[T-55A]]. However, what sets it apart is the "Drozd" hard-kill active protection system, a first for Soviet tanks. It replaces the add-on "brow" composite armour and intercepts incoming ATGMs with explosive charges. Because the turret is no longer capable of resisting contemporary tank guns, the T-55AMD-1 effectively trades turret armour for vastly improved protection against ATGMs, making it easier to counter IFVs and helicopters.
@@ -19,13 +17,12 @@ The T-55AMD-1 is a modification of the premium [[T-55AM-1]] at the same battle r
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (Hull)
-- Cast homogeneous armour (Turret)
+* Rolled homogeneous armour (Hull)
+* Cast homogeneous armour (Turret)
 
 {| class="wikitable"
 |-
@@ -49,7 +46,7 @@ The T-55AMD-1 is a modification of the premium [[T-55AM-1]] at the same battle r
 
 '''Notes:'''
 
-- Tracks and suspension wheels are 20 mm thick
+* Tracks and suspension wheels are 20 mm thick
 
 The armour is not legendary, it will rarely block a serious shot. However, it is very thorough, with no real weak spots. The T-55AMD-1 can take a frontal beating from larger autocannons without losing anything important.
 
@@ -67,7 +64,6 @@ Drozd can be used while on the move (although the turret must be facing the targ
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=1069|rbMinHp=610}}
@@ -79,9 +75,7 @@ Drozd can be used while on the move (although the turret must be facing the targ
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|D-10T2S (100 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -167,9 +161,7 @@ Drozd can be used while on the move (although the turret must be facing the targ
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_T-55AM-1.png|right|thumb|x200px|[[Ammo racks]] of the T-55AM-1 (identical)]]
-
 <!-- '''Last updated: 2.15.1.30''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -186,18 +178,16 @@ Drozd can be used while on the move (although the turret must be facing the targ
 |}
 '''Notes''':
 
-- Shells are modeled individually and disappear after having been shot or loaded.
-- If you pack 19&nbsp;''(+24)'' shells, it will fill only the frontal wet stowage ready rack.
-- Rack 6 is a first stage ammo rack. It totals 18 shells and gets filled first when loading up the tank.
-  ** This rack is also emptied early: the depletion order at full capacity is: 6 - 1 - 2 - etc. until 5.
-  ** Simply not firing when the gun is loaded will move ammo from racks 1-5 into rack 6. Firing will interrupt the restocking of the ready rack.
+* Shells are modeled individually and disappear after having been shot or loaded.
+* If you pack 19&nbsp;''(+24)'' shells, it will fill only the frontal wet stowage ready rack.
+* Rack 6 is a first stage ammo rack. It totals 18 shells and gets filled first when loading up the tank.
+** This rack is also emptied early: the depletion order at full capacity is: 6 - 1 - 2 - etc. until 5.
+** Simply not firing when the gun is loaded will move ammo from racks 1-5 into rack 6. Firing will interrupt the restocking of the ready rack.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|DShK (12.7 mm)|PKT (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -220,42 +210,37 @@ Drozd can be used while on the move (although the turret must be facing the targ
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 Do not be afraid to trust your armour, particularly when hull-down or against autocannons. However, avoid straying from your allies, as your reload can mean that a missed or poor shot is fatal. Do not count on knocking out crew to cripple opponents as your reload is long enough for knocked out members to be replaced. If you are reloading while under fire, remember to keep your gun moving to evade shots at it. The combination of APS and reliable armour means that IFVs such as the Begleitpanzer, Bradley, and Marder can do little to you without catching you off guard or getting a luck shot on your gun.
 
 '''Notable opponents'''
 
-- [[PUMA]] - This enemy is nearly harmless as it lacks missiles and cannot reliably penetrate your UFP and turret, but it is very difficult to knock out with one shot, frequently requiring two or three. When facing it frontally or angled, aim for the driver on the right side, as he has another crew member sitting behind him. APFSDS will penetrate the engine if necessary. When side-on, always shoot in front of the turret base, as the area under and behind it is an infantry seating area and will do no damage. If your main cannon is knocked out, it is possible to detonate the turret ammo with the roof mounted machine gun which will at least set a fire. It is dangerous sheerly due to the amount of time that it takes to knock out. If it gets your gun, or delays you until its friends arrive, you will probably be the one knocked out instead.
+* [[PUMA]] - This enemy is nearly harmless as it lacks missiles and cannot reliably penetrate your UFP and turret, but it is very difficult to knock out with one shot, frequently requiring two or three. When facing it frontally or angled, aim for the driver on the right side, as he has another crew member sitting behind him. APFSDS will penetrate the engine if necessary. When side-on, always shoot in front of the turret base, as the area under and behind it is an infantry seating area and will do no damage. If your main cannon is knocked out, it is possible to detonate the turret ammo with the roof mounted machine gun which will at least set a fire. It is dangerous sheerly due to the amount of time that it takes to knock out. If it gets your gun, or delays you until its friends arrive, you will probably be the one knocked out instead.
 
-- [[TAM]] - Be careful with this enemy. It will rarely fail to penetrate your armour and will show up in unexpected places on account of its mobility. Do not rush shots at it and do not shoot at its hull frontally. You will usually destroy the engine but leave it otherwise unharmed. The turret front can also be difficult to penetrate effectively, so aim for the turret ring or barrel. If you must shoot the hull, aim for the right side which houses the driver and an ammo rack behind.
+* [[TAM]] - Be careful with this enemy. It will rarely fail to penetrate your armour and will show up in unexpected places on account of its mobility. Do not rush shots at it and do not shoot at its hull frontally. You will usually destroy the engine but leave it otherwise unharmed. The turret front can also be difficult to penetrate effectively, so aim for the turret ring or barrel. If you must shoot the hull, aim for the right side which houses the driver and an ammo rack behind.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Consistent armour
-- Very resistant to autocannons
-- Drozd APS to block missiles
-- APS has plenty of charges
-- Adequate penetration on APDS and APFSDS rounds
-- Decent mobility
+* Consistent armour
+* Very resistant to autocannons
+* Drozd APS to block missiles
+* APS has plenty of charges
+* Adequate penetration on APDS and APFSDS rounds
+* Decent mobility
 
 '''Cons:'''
 
-- Painfully long reload
-- Low post-penetration damage
-- Slow gun and turret traverse
-- Disappointing gun depression
-- APS only protects 40 degrees to each side of the gun.
+* Painfully long reload
+* Low post-penetration damage
+* Slow gun and turret traverse
+* Disappointing gun depression
+* APS only protects 40 degrees to each side of the gun.
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 As one of the top-secret projects of the Soviet Army, the Kompleks 1030M-01 "Drozd" was the very first operational active protection system (APS), developed by Vasily Ivanovich Bakalov of the KPB Design Bureau as a counter to the abundance of RPGs and ATGMs. This project was first started by the Army but was dropped due to budget constraints; the Marines later completed the project as a cheaper alternative to ERA or new T-72 tanks to replace their T-55As. Around 250 of their T-55As were then converted to the AD standard by 1983. The version of T-55AMD-1 in-game was based on the enhanced T-55AM-1 with better engine (V-46-5M at 691hp), and new radio and fire control systems.
 
 According to combat records during the Soviet-Afghan War, the system's interception rate was at around 80%; but the system itself also has some drawbacks such as being lethal to unarmoured friendlies in its frontal firing arc (later models installed a warning buzzer), and a very long reload time at around 15 minutes.
@@ -263,34 +248,28 @@ According to combat records during the Soviet-Afghan War, the system's intercept
 After the dissolution of the Soviet Union, some of these T-55ADs were in the hands of Ukraine and the system was reinstalled onto other tanks, while the remaining ones in Russia were stored elsewhere as reserve forces.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_t_55_amd_1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_t_55_amd_1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{USSR medium tanks}}
 [[Category:ATGM vehicles]]

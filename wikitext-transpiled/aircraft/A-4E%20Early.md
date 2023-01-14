@@ -9,17 +9,13 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a squadron rank {{Specs|rank}} American strike aircraft {{Battle-rating}}. It was introduced during [[Update "New Power"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The A-4E behaves like the A-4B, with excellent manoeuvrability at speed, aided by the automatic wing slats. However, the aircraft's poor energy retention during turns is profound, and airspeed will drop down to about 320 km/h (200 mph) after more than a 90 degree turn. Overall, it can turn with [[G.91 (Family)|G.91s]] and MiG-15s without issue, however extended dogfights should be avoided. If uptiered, flight performance leaves much to be desired, it can be outmanoeuvred even by the [[Yak-38 (Family)|Yak-38]] or [[F-104 (Family)|F-104]] in a dogfight.
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -47,7 +43,7 @@ The A-4E behaves like the A-4B, with excellent manoeuvrability at speed, aided b
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || ✓ || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || X     <!-- ✓ -->
 |-
 |}
 
@@ -114,11 +110,10 @@ These wings are well-known to be fragile and to easily snap at relatively normal
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 2.54 mm steel surrounding bottom half of the pilot
-- 50 mm bulletproof glass in front of the cockpit
+* 2.54 mm steel surrounding bottom half of the pilot
+* 50 mm bulletproof glass in front of the cockpit
 
 The front half of the plane holds the pilot and a self-sealing fuel tank. The wings hold non self-sealing fuel tanks, and the back half of the plane holds the engine.
 
@@ -140,42 +135,38 @@ One single well-placed round from an [[ADEN (30 mm)|ADEN]] cannon can completely
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Browning-Colt Mk12 Mod 0 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 2 x 20 mm Browning-Colt Mk12 Mod 0 cannons, wing-mounted (100 rpg = 200 total)
-  ** 2 x 20 mm Browning-Colt Mk12 Mod 0 cannons + 60 x countermeasures
+* A choice between two presets:
+** 2 x 20 mm Browning-Colt Mk12 Mod 0 cannons, wing-mounted (100 rpg = 200 total)
+** 2 x 20 mm Browning-Colt Mk12 Mod 0 cannons + 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
 {{main|AGM-62A Walleye I (505 kg)|AGM-12B Bullpup|AGM-12C Bullpup|AIM-9B Sidewinder}}
 {{main|MK 77 Mod 4 incendiary|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|Mk 11 mod 5 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x AIM-9B Sidewinder missiles
-- 171 x FFAR Mighty Mouse rockets
-- 36 x Zuni Mk32 Mod 0 ATAP rockets
-- 5 x AGM-12B Bullpup missiles
-- 2 x AGM-12C Bullpup missiles
-- 20 x 250 lb LDGP Mk 81 bombs (5,000 lb total)
-- 14 x 500 lb LDGP Mk 82 bombs (7,000 lb total)
-- 3 x 750 lb M117 cone 45 bombs (2,250 lb total)
-- 5 x 1,000 lb LDGP Mk 83 bombs (5,000 lb total)
-- 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
-- 9 x MK 77 mod 4 incendiary bombs
-- 2 x 505 kg AGM-62A Walleye I bombs (1,010 kg total)
-- 3 x 20 mm Mk 11 mod 5 cannons (750 rpg = 2,250 total)
+* Without load
+* 2 x AIM-9B Sidewinder missiles
+* 171 x FFAR Mighty Mouse rockets
+* 36 x Zuni Mk32 Mod 0 ATAP rockets
+* 5 x AGM-12B Bullpup missiles
+* 2 x AGM-12C Bullpup missiles
+* 20 x 250 lb LDGP Mk 81 bombs (5,000 lb total)
+* 14 x 500 lb LDGP Mk 82 bombs (7,000 lb total)
+* 3 x 750 lb M117 cone 45 bombs (2,250 lb total)
+* 5 x 1,000 lb LDGP Mk 83 bombs (5,000 lb total)
+* 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
+* 9 x MK 77 mod 4 incendiary bombs
+* 2 x 505 kg AGM-62A Walleye I bombs (1,010 kg total)
+* 3 x 20 mm Mk 11 mod 5 cannons (750 rpg = 2,250 total)
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -227,9 +218,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 In Air Realistic battles, one can use this plane in a wide array of roles due to the wide array of armament.
 
 The one role the A-4E can serve is as an air-to-air fighter. The A-4E can equip either the 2 x [[AIM-9B Sidewinder]]s, the 2 x [[AIM-9B Sidewinder|AIM-9Bs]] and the 20 mm gunpod, or triple gunpods for this role. The A-4E's standard 20 mm cannons can easily shred any plane in the sky with a handful of well-placed rounds, however it only comes with 200 bullets, so short controlled bursts must be used, and only should be fired sparingly. The missiles can easily supplement the cannon, however these early missiles have a narrow tracking cone, and can easily miss targets that fly erratically, so they too must be used sparingly. If one prefers to be a gun fighter, a single gunpod (or three) can be attached to spray down targets, however they drag down the plane's climb and turn performance (especially the triple gunpods, which eliminate this plane's climbing ability in a fight).
@@ -240,38 +229,35 @@ Your best defense is to not engage in fights where you are clearly outnumbered. 
 
 If using this place as a ground attacker, equip either [[FFAR Mighty Mouse|FFAR]] or [[Zuni Mk32 Mod 0 ATAP|Zuni]] rocket pods or [[AGM-12B Bullpup|AGM-12]] Bullpups, and attack ground targets. Another option is to use the wide array of bombs, preferably the 14 x 500 lb loadout, and destroy enemy bases (typically you can only destroy one, sometimes two) with them. Then, when you return to base, you could rearm with bombs, or rearm with [[AIM-9B Sidewinder|AIM-9's]] and fly as a late-game fighter to finish off remaining players.
 
-In Ground RB, the preferable secondary armaments are the [[FFAR Mighty Mouse|FFAR]] or [[Zuni Mk32 Mod 0 ATAP|Zuni]] rocket pods, or the 5 x [[AGM-12B Bullpup|AGM-12B]] missiles. These missiles, with enough practice, function like a precision 250 lb bomb that is guided to the target, most of the time destroying it. The 2 x AGM-62A Walleye bombs can also be used very effectively with practice, however with only two bombs, it is better to use the five [[AGM-12B Bullpup|AGM-12B]] missiles instead. The A-4E can be well paired with the [[XM-803]], [[MBT-70]], or the [[XM-1 (GM)|XM-1]] to form a good lineup.
+In Ground RB, the preferable secondary armaments are the [[FFAR Mighty Mouse|FFAR]] or [[Zuni Mk32 Mod 0 ATAP|Zuni]] rocket pods, or the 5 x [[AGM-12B Bullpup|AGM-12B]] missiles. These missiles, with enough practice, function like a  precision 250 lb bomb that is guided to the target, most of the time destroying it. The 2 x AGM-62A Walleye bombs can also be used very effectively with practice, however with only two bombs, it is better to use the five [[AGM-12B Bullpup|AGM-12B]] missiles instead. The A-4E can be well paired with the [[XM-803]], [[MBT-70]], or the [[XM-1 (GM)|XM-1]] to form a good lineup.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Access to countermeasures
-- Excellent roll rate
-- Can utilize [[Ballistic Computer#CCRP Usage|CCRP]] to assist in bomb dropping
-- Excellent ordnance options
-  ** Has strong air-to-air support capability with access to [[AIM-9B Sidewinder]] missiles, powerful quick-firing 20mm Mk11 Mod 5 gun pods, or a combination of both
-  ** Can carry three gun pods at once for a devastating one-second burst mass
-  \*\* Has powerful ground-attack capability, sporting a variety of unguided bombs and rockets, as well as guided AGM-12B Bullpup guided missiles and AGM-62A Walleye guided bombs
-- Decent acceleration
+* Access to countermeasures
+* Excellent roll rate
+* Can utilize [[Ballistic Computer#CCRP Usage|CCRP]] to assist in bomb dropping
+* Excellent ordnance options
+** Has strong air-to-air support capability with access to [[AIM-9B Sidewinder]] missiles, powerful quick-firing 20mm Mk11 Mod 5 gun pods, or a combination of both
+** Can carry three gun pods at once for a devastating one-second burst mass
+** Has powerful ground-attack capability, sporting a variety of unguided bombs and rockets, as well as guided AGM-12B Bullpup guided missiles and AGM-62A Walleye guided bombs
+* Decent acceleration
 
 '''Cons:'''
 
-- 2x 20mm cannons have low ammo (only 100 rounds each) and aren't particularly powerful
-  \*\* Inaccurate when stock; since they are your only weapon when stock, this makes for a painful stock grind
-- High speed manoeuvres can easily cause wings to rip
-- Atrocious energy retention
-- Mediocre top speed
-- Mediocre climb rate compared to planes it can face
-- Carrying any kind of ordnance diminishes the plane's flight performance significantly
-- Using the Walleye TV-guided bombs requires you to fly straight toward enemies and expose your aircraft to retaliatory fire (SAMs)
+* 2x 20mm cannons have low ammo (only 100 rounds each) and aren't particularly powerful
+** Inaccurate when stock; since they are your only weapon when stock, this makes for a painful stock grind
+* High speed manoeuvres can easily cause wings to rip
+* Atrocious energy retention
+* Mediocre top speed
+* Mediocre climb rate compared to planes it can face
+* Carrying any kind of ordnance diminishes the plane's flight performance significantly
+* Using the Walleye TV-guided bombs requires you to fly straight toward enemies and expose your aircraft to retaliatory fire (SAMs)
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The A4D-5 Skyhawk was an improved model of the A4D-2N (designated A-4C in 1962). The main improvement came in the form of the more powerful Pratt & Whitney J52-P-6A engine, producing 8,400 pounds of thrust. In addition to the new powerplant, the A4D-5 also received two more wing-mounted stores pylons, for a total of five. The avionics were also improved, including a new TACAN system and a toss-bombing computer. Later in their service life, many A-4E Skyhawks were upgraded with the fuselage avionics pod J52-P-8 engine (with 9,300 pounds of thrust) from the A-4F.
 
 The A4D-5 first flew in July 1961, and was renamed to A-4E in 1962 after the Tri-Service Aircraft Designation System came into effect. The A-4E entered production in December of 1962; a total of 499 A-4E Skyhawks would be delivered to the US Navy and Marine Corps starting in January 1963.
@@ -294,12 +280,11 @@ The projected aircraft was a fairly compact, lightweight jet fighter-attacker wi
 Thus, the Skyhawk had become a truly universal carrier-based aircraft, capable of solving the entire spectrum of tasks for US Naval Aviation. A rather noticeable drawback of the attack aircraft was still the limited range of action, also army types always wanted to increase the weapon load. In 1961, Douglas presented an improved version of the aircraft with five pylons for armament and a new engine, which compensated for a heavier combat load, and also increased the range of the attack aircraft. It was the A-4E that became one of the most massive Skyhawk modifications and formed the image of a modern carrier-based attack aircraft. The "E" version was actively involved in the Vietnam War, and later, up till the end of the 80's, was used to simulate enemy aircraft in training dogfights.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=a_4e_early Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=a_4e_early Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" caption="A-4E Early Devblog Images" heights="200">
@@ -317,26 +302,25 @@ File:A-4E Early WTWallpaper 006.jpg|
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6963-development-a-4e-skyhawk-heinemann-s-hot-rod-grows-up-en|[Devblog] A-4E Skyhawk: Heinemann's Hot-Rod grows up]]
-- [https://forum.warthunder.com/index.php?/topic/538311-douglas-a-4e/ Official data sheet - more details about the performance]
-- [http://www.alternatewars.com/SAC/A-4E_Skyhawk_SAC_-_1_July_1967.pdf Standard Aircraft Characteristics of the A-4E]
+* [[wt:en/news/6963-development-a-4e-skyhawk-heinemann-s-hot-rod-grows-up-en|[Devblog] A-4E Skyhawk: Heinemann's Hot-Rod grows up]]
+* [https://forum.warthunder.com/index.php?/topic/538311-douglas-a-4e/ Official data sheet - more details about the performance]
+* [http://www.alternatewars.com/SAC/A-4E_Skyhawk_SAC_-_1_July_1967.pdf Standard Aircraft Characteristics of the A-4E]
 
 === References ===
 
 ;Bibliography
 
-- A-4E Skyhawk: Pacific Coast Air Museum: Navy Attack Plane. (2019, December 17). Retrieved December 12, 2020, from https://pacificcoastairmuseum.org/aircraft/a-4e-skyhawk/
-- A-4 Skyhawk Production. (n.d.). Retrieved December 12, 2020, from http://skyhawk.org/content/douglas-4-skyhawk-production-history
-- Standard Aircraft Characteristics Navy Model A-4E Aircraft. (n.d.). Retrieved from http://www.alternatewars.com/SAC/A-4E_Skyhawk_SAC_-_1_July_1967.pdf
+* A-4E Skyhawk: Pacific Coast Air Museum: Navy Attack Plane. (2019, December 17). Retrieved December 12, 2020, from https://pacificcoastairmuseum.org/aircraft/a-4e-skyhawk/
+* A-4 Skyhawk Production. (n.d.). Retrieved December 12, 2020, from http://skyhawk.org/content/douglas-4-skyhawk-production-history
+* Standard Aircraft Characteristics Navy Model A-4E Aircraft. (n.d.). Retrieved from http://www.alternatewars.com/SAC/A-4E_Skyhawk_SAC_-_1_July_1967.pdf
 
 {{AirManufacturer Douglas}}
 {{USA jet aircraft}}

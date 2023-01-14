@@ -10,15 +10,12 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British fighter {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -46,7 +43,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British fighter {{Batt
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || X || ✓ || X || X <!-- ✓ -->
+| X || X || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -89,12 +86,11 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British fighter {{Batt
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 38 mm Bulletproof glass in cockpit front.
-- 4 mm Steel plate in pilot's seat.
-- 6-7 mm Steel plate behind the pilot.
+* 38 mm Bulletproof glass in cockpit front.
+* 4 mm Steel plate in pilot's seat.
+* 6-7 mm Steel plate behind the pilot.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -103,18 +99,15 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British fighter {{Batt
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Browning (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 8 x 7.7 mm Browning machine guns, wing-mounted (350 rpg = 2,800 total)
-  The Spitfire has a relatively good ammo count but the 4-digit ammo can be deceiving, since there are 8 guns on the aircraft. These should be primarily used against aircraft but can also be used as last resort to attack light or non-armoured ground targets, usually with stealth or universal belts. The job should be left to dedicated gun platforms like the Hurricanes and the Hellcats.
+* 8 x 7.7 mm Browning machine guns, wing-mounted (350 rpg = 2,800 total)
+The Spitfire has a relatively good ammo count but the 4-digit ammo can be deceiving, since there are 8 guns on the aircraft. These should be primarily used against aircraft but can also be used as last resort to attack light or non-armoured ground targets, usually with stealth or universal belts. The job should be left to dedicated gun platforms like the Hurricanes and the Hellcats.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 ;Combat tactics
@@ -125,10 +118,9 @@ Defensively, it's most susceptible to experienced Bf 109 pilots who know not to 
 Landing the Spitfire Mk.IIa Venture I is easy, the plane doesn't like to give up speed easily, so roll 90 degrees left and right banking low and hard to reduce speed. Once around 200 km/h (125 mph), deploy your landing gear to perform a fast landing. Flaps are unnecessary unless making an emergency landing.
 
 ;Enemies worth noting
-
-- Zeroes: They can outmanoeuvre the Spitfire in a turnfight.
-- Bf 109: They can inflict tremendous damage if you don't watch out. They have quite good turning performance and their energy retention exceeds that of the Spitfire.
-- Heavy Bombers: Although the Spitfire Mk IIa is armed with 8 guns, they are only 7.7 mm in calibre. So, it can be difficult to destroy heavy fighters, attackers, and especially bombers. It is likely that long bursts will be necessary to destroy such targets, and that gives time for enemy turret gunners to shoot back. Luckily, most bombers at this tier are not defended by turrets from all angles. Try to plan attack runs so that you don't fly in the enemy's line of fire.
+* Zeroes: They can outmanoeuvre the Spitfire in a turnfight.
+* Bf 109: They can inflict tremendous damage if you don't watch out. They have quite good turning performance and their energy retention exceeds that of the Spitfire.
+* Heavy Bombers: Although the Spitfire Mk IIa is armed with 8 guns, they are only 7.7 mm in calibre. So, it can be difficult to destroy heavy fighters, attackers, and especially bombers. It is likely that long bursts will be necessary to destroy such targets, and that gives time for enemy turret gunners to shoot back. Luckily, most bombers at this tier are not defended by turrets from all angles. Try to plan attack runs so that you don't fly in the enemy's line of fire.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -148,32 +140,30 @@ Landing the Spitfire Mk.IIa Venture I is easy, the plane doesn't like to give up
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Eight 7.7 mm machine guns provide great anti-fighter power
-- Great turn rate
-- Good roll rate at low speed
-- Better-than-average top speed
-- Great rate of climb
-- Better engine power than [[Spitfire Mk Ia]]
-- Decent amount of armour, a front 38 mm glass and rear 4-7 mm steel plates
+* Eight 7.7 mm machine guns provide great anti-fighter power
+* Great turn rate
+* Good roll rate at low speed
+* Better-than-average top speed
+* Great rate of climb
+* Better engine power than [[Spitfire Mk Ia]]
+* Decent amount of armour, a front 38 mm glass and rear 4-7 mm steel plates
 
 '''Cons:'''
 
-- Machine guns only effective if the target is hit in continuous bursts
-- Machine gun armament lacks the long range hitting power of cannons
-- Ammo can run out quickly in prolonged, uncontrolled bursts
-- Quick kills against large bombers without a pilot snipe is difficult, prolonged engagements expose the Spitfire to the defensive gunners
-- Machine guns cannot penetrate heavily armoured targets
-- Bad high altitude performance
-- Roll rate stiffens dramatically at ~350 km/h
-- Pulling negative G's and rolling the plane ([[Realistic Battles|Realistic]]/[[Simulator Battles|simulator]] only) can cause the carburettor (engine) to fail
+* Machine guns only effective if the target is hit in continuous bursts
+* Machine gun armament lacks the long range hitting power of cannons
+* Ammo can run out quickly in prolonged, uncontrolled bursts
+* Quick kills against large bombers without a pilot snipe is difficult, prolonged engagements expose the Spitfire to the defensive gunners
+* Machine guns cannot penetrate heavily armoured targets
+* Bad high altitude performance
+* Roll rate stiffens dramatically at ~350 km/h
+* Pulling negative G's and rolling the plane ([[Realistic Battles|Realistic]]/[[Simulator Battles|simulator]] only) can cause the carburettor (engine) to fail
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -187,33 +177,28 @@ In the summer of 1939, an early Spitfire Mk I was fitted with the new Rolls Royc
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=spitfiremkiia_ep Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=spitfiremkiia_ep Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|MxnIrWny-XU|'''Should You Buy The Spitfire Mk2A Venture?''' - ''Sako Sniper''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
-- [[Spitfire (Family)]]
+* [[Spitfire (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/287255-supermarine-spitfire-mk-iia/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/287255-supermarine-spitfire-mk-iia/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Supermarine}}
 {{Britain fighters}}

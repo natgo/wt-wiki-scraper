@@ -8,13 +8,11 @@
 }}
 {{Specs-Card
 |code=jp_type_95_ha_go_commander
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage*{{PAGENAME}}.png|ArtImage2*{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' ({{Annotation|九五式軽戦車 指揮車型「ハ号」|Kyūgo-Shiki Kei-Sensha Shiki-Shagata [Ha-Gō]}}) is a premium rank {{Specs|rank}} Japanese light tank {{Battle-rating}}. It was introduced in [[Update 1.65 "Way of the Samurai"]] along with the initial set of the Japanese Ground Forces Tree and was the prize in the [[wt:en/news/4418-special-collect-a-premium-type-95-ha-go-commander-for-christmas-en|2016 "Christmas gift"]] giveaway.
 
 The command version (not variant) of the [[Ha-Go]] comes with an additional 4 smoke grenades.
@@ -22,13 +20,11 @@ The command version (not variant) of the [[Ha-Go]] comes with an additional 4 sm
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 [[File:Ha-Go first prototype under public domain .jpg|right|300px|thumb|3/4 front view and 3/4 rear view of the '''Ha-Go Prototype'''.]]
 '''Armour type:'''
 
-- Rolled homogeneous armour
+* Rolled homogeneous armour
 
 {| class="wikitable"
 |-
@@ -44,11 +40,10 @@ The command version (not variant) of the [[Ha-Go]] comes with an additional 4 sm
 |}
 '''Notes:'''
 
-- Suspension wheels and tracks are both 15 mm thick.
+* Suspension wheels and tracks are both 15 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=130|rbMinHp=106}}
@@ -60,9 +55,7 @@ The command version (not variant) of the [[Ha-Go]] comes with an additional 4 sm
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|Type 94 (37 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -114,9 +107,7 @@ The command version (not variant) of the [[Ha-Go]] comes with an additional 4 sm
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Ha-Go.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.15.1.70''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -137,9 +128,7 @@ Turret & Left empty: 89&nbsp;''(+30)''
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|Type 97 (7.7 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -153,36 +142,32 @@ Turret & Left empty: 89&nbsp;''(+30)''
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 As a light tank in a Rank I battle, the best overall tactic is to get the first jump on an enemy since the Ha-Go's gun is able to penetrate most tank's armour, yet everyone else's can also penetrate the Ha-Go. In an offensive, try to attack the enemy from a direction not covered to catch them by surprise, then exploit it by using the Ha-Go's mobility to keep moving around the enemy once it gets close so the enemy could not get an accurate bead on it. In a defensive, hold back and try to cover a single area of contact so the Ha-Go could dispel its fire on any enemy approaching.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- 37 mm cannon has good penetration power
-- APHE shell has good post-penetration damage
-- Excellent gun depression and elevation
-- Good mobility and top speed
-- Small profile, easy to hide behind cover
+* 37 mm cannon has good penetration power
+* APHE shell has good post-penetration damage
+* Excellent gun depression and elevation
+* Good mobility and top speed
+* Small profile, easy to hide behind cover
 
 '''Cons:'''
 
-- Weak armour (12.7 mm machine guns are able to knock the tank out with ease)
-- Reverse speed is -5 km/h on any sloped ground
-- Three-man crew which means that the Ha-Go can be destroyed by a single shot, maybe two if lucky
-- Turns are sluggish at any speed
-- 37 mm gun quickly becomes outdated and ineffective against tougher foes
-- Smoke grenade launchers fire to the left side of the turret instead of the front, so you have to turn the turret to the right to cover your front
+* Weak armour (12.7 mm machine guns are able to knock the tank out with ease)
+* Reverse speed is -5 km/h on any sloped ground
+* Three-man crew which means that the Ha-Go can be destroyed by a single shot, maybe two if lucky
+* Turns are sluggish at any speed
+* 37 mm gun quickly becomes outdated and ineffective against tougher foes
+* Smoke grenade launchers fire to the left side of the turret instead of the front, so you have to turn the turret to the right to cover your front
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 The deployment of the first Japanese domestic tank design, the [[I-Go Ko|Type 89 I-Go]], gave the Japanese good insight on the improvement of their armoured force. One of the pressing issues of the Type 89 was that the tank was too slow to keep up with motorized infantry, restricting the operational range or advance of a combined-arm unit to only 40 kilometers. Another tank design being fielded by the Type 89, the Type 92 cavalry tank, had the speed that fixes this problem, but its armour was too thin and only had a heavy machine gun armament. Thus, development started in July 1933 on a tank able to fix these problem, with the specifications that the tank should weigh only 7.7 tons and armed with a 37 mm gun. With the same engine as the Type 89, but half of its weight, the new tank would have a faster road speed.<ref name="ZalogaJapaneseTank">Zaloga Steven. ''Japanese Tanks 1939-1945'' Great Britain: Osprey Publishing Ltd., 2007</ref>
 
@@ -206,26 +191,24 @@ The Japanese continued using their Ha-Go in the Pacific Theater all the way unti
 After the war, the remnants of the Japanese Army left behind a huge number of Type 95 Ha-Go in their depot at the occupied territory. This led to a massive amount of tanks being captured and used by the opposing sides of the Chinese Civil War. Another curious user of the captured Japanese tanks were the French, which captured them from Japanese-occupied area in French Indochina. The French used the Japanese tanks alongside French tanks to hastily make units called 'Commando Blindé du Cambodge' to fight in the First Indochina War.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_95_ha_go_commander Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_95_ha_go_commander Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/4418-special-collect-a-premium-type-95-ha-go-commander-for-christmas-en Collect a premium|[Special] Type-95 Ha-Go Commander for Christmas!]]
+* [[wt:en/news/4418-special-collect-a-premium-type-95-ha-go-commander-for-christmas-en Collect a premium|[Special] Type-95 Ha-Go Commander for Christmas!]]
 
 === References ===
 <references />

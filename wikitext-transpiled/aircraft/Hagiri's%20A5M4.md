@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=a5m4_hagiri
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Japanese fighter {{Battle-rating}}. It was introduced in [[Update 1.31]]. The plane is painted after the camouflage scheme of Japanese pilot Matsuo Hagiri, who used the A5M4 during his time in the fighter squadron on the Sōryū aircraft carrier.
 
 The Allied reporting name for this aircraft was "Claude".
@@ -19,7 +17,6 @@ The Allied reporting name for this aircraft was "Claude".
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -48,7 +45,7 @@ The Allied reporting name for this aircraft was "Claude".
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -129,13 +126,12 @@ The Allied reporting name for this aircraft was "Claude".
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- No armour
-- Non-self-sealing fuel tanks (2 in each wing)
-- Oil cooling systems located in prone position (in each inner top part of the wing)
-- Open cockpit
+* No armour
+* Non-self-sealing fuel tanks (2 in each wing)
+* Oil cooling systems located in prone position (in each inner top part of the wing)
+* Open cockpit
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -144,17 +140,14 @@ The Allied reporting name for this aircraft was "Claude".
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Type 89 (7.7 mm)}}
 
 '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 7.7 mm Type 89 machine guns, nose-mounted (500 rpg = 1,000 total)
+* 2 x 7.7 mm Type 89 machine guns, nose-mounted (500 rpg = 1,000 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The {{PAGENAME}} is to be used in a fighter role, staying low and using the extremely quick turn times to get on the tail on the enemy is essential. Keep an eye on ammo levels and well as your surroundings, this is an extremely weak aircraft in terms of armour. It is relatively fast in a straight line, but not as quick as much of the opposition it will be facing in the game. It is recommended to use speed against [[:Category:Biplanes|biplanes]] as their turn times are nearly matched if not better than this monoplane.
@@ -185,39 +178,38 @@ Hands-off carrier take-off (Auto engine control): Ignite engine, flaps: raised, 
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- '''A'''5M for Carrier-based fighter:
-  ** Arrestor hook
-  ** Strictly air-to-air role
-  ** Extremely manoeuvrable \*** Excellent turn rate
-  \*\* Very short takeoff distance
-- Common Navy plane construction:
-  ** Excellent manoeuvrability
-  ** Nose mounted armament
-- '''A5M''' specific:
-  ** Good visibility (In cockpit view)
-  ** Low stall speed
-  \*\* Fixed landing gear makes landings easier
+* '''A'''5M for Carrier-based fighter:
+** Arrestor hook
+** Strictly air-to-air role
+** Extremely manoeuvrable
+*** Excellent turn rate
+** Very short takeoff distance
+* Common Navy plane construction:
+** Excellent manoeuvrability
+** Nose mounted armament
+* '''A5M''' specific:
+** Good visibility (In cockpit view)
+** Low stall speed
+** Fixed landing gear makes landings easier
 
 '''Cons:'''
 
-- '''A'''5M for Carrier-based fighter:
-  ** Slow
-  ** Low dive speed, and easily compressed in a dive
-- Common Navy plane construction:
-  ** Poor offensive armament: [[Type 89 (7.7 mm)|7.7 mm Type 89 MG]]
-  ** Fragile, little armour, and no self-sealing fuel tanks
-- '''A5M''' specific:
-  ** Exposed pilot
-  ** Fixed landing gear creates more drag
-  \*\* Suffers from fuel starvation problems (RB/SB)
+* '''A'''5M for Carrier-based fighter:
+** Slow
+** Low dive speed, and easily compressed in a dive
+* Common Navy plane construction:
+** Poor offensive armament: [[Type 89 (7.7 mm)|7.7 mm Type 89 MG]]
+** Fragile, little armour, and no self-sealing fuel tanks
+* '''A5M''' specific:
+** Exposed pilot
+** Fixed landing gear creates more drag
+** Suffers from fuel starvation problems (RB/SB)
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 === Matsuo Hagiri ===
@@ -244,12 +236,10 @@ It was piloted by Matsuo Hagiri, a Japanese ace and test pilot who shot down 13 
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=a5m4_hagiri Skins and camouflages for {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=a5m4_hagiri Skins and camouflages for {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover"  heights="200">
@@ -261,17 +251,15 @@ Matsuo Hagiri A5M4.jpg||Japanese aviators pose in front of Matsuo Hagiri's A5M4,
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/495--en|[News] Lieutenant Matsuo Hagiri]]
+* [[wt:en/news/495--en|[News] Lieutenant Matsuo Hagiri]]
 
 {{AirManufacturer Mitsubishi}}
 {{Japan fighters}}

@@ -5,26 +5,22 @@
 }}
 {{Specs-Card
 |code=ussr_su_76m_1943
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet tank destroyer {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41. It is based on the modified chassis of the obsolescent [[T-70|T-70M]] light tank, designed primarily as an infantry support weapon with a secondary anti-tank role.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 The SU-76M shares a similar hull armour profile with the T-70 light tank on which it is based. The hull, with a large, well-angled 25 mm upper front plate, might bounce some shells when the hull is angled, but high-penetrating guns such as 5 cm KwK39 can still penetrate it easily. Once penetrated the driver will get knocked out, or the transmission/engine will be broken, immobilising the tank. On the back of the hull, the SU-76M has a lightly armoured open-topped superstructure to accommodate the 76 mm gun. With a maximum thickness of only 25 mm and poor angling, the superstructure will not stop much more than heavy machine gun fire. Common tanks such as Pz.II, M3A3, AB 41, etc are all able to penetrate the front of the fighting compartment with ease, and knock out any crew in the shell path. The crews are quite cramped together too, further decreasing the survivability against explosive-filled rounds. It is only able to resist rifle-calibre rounds or heavy machine gun fire from far away. The open-topped design also makes the SU-76M very vulnerable to aircraft strafing runs.
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
+* Rolled homogeneous armour
 
 {| class="wikitable"
 |-
@@ -36,14 +32,13 @@ The SU-76M shares a similar hull armour profile with the T-70 light tank on whic
 |}
 '''Notes:'''
 
-- Suspension wheels are 10 mm thick while tracks are 15 mm thick.
-- Belly armour is 7 mm thick.
-- The rear superstructure does not cover the entire crew compartment.
-- A 25 mm plate of armour separates the driver's and engine compartment to the rear fighting compartment.
+* Suspension wheels are 10 mm thick while tracks are 15 mm thick.
+* Belly armour is 7 mm thick.
+* The rear superstructure does not cover the entire crew compartment.
+* A 25 mm plate of armour separates the driver's and engine compartment to the rear fighting compartment.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=199|rbMinHp=124}}
@@ -57,9 +52,7 @@ The SU-76M has a very low top speed of only about 30 km/h, considering how light
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|ZIS-3 (76 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -153,9 +146,7 @@ The stock '''BR-350A''' APHEBC shell is adequate enough for most purposes, altho
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -170,7 +161,6 @@ The stock '''BR-350A''' APHEBC shell is adequate enough for most purposes, altho
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The SU-76M offers an interesting alternative to the [[ZiS-30]]. While the ZiS-30 is more mobile and has substantially higher penetration with its powerful 57 mm gun, the SU-76M trades some mobility and penetration for a much more lethal gun and somewhat better survivability for the crew.
@@ -196,31 +186,27 @@ The gun in itself is what makes the SU-76M a good vehicle, all its other charact
 [[M4A3 (105)]]: This low-rank Sherman posts a huge threat to every of its opponents due to its superior armour and destructive firepower. Its armour is overall quite tough to penetrate with your short 76 mm gun, but it can be solved by careful aiming. If the M4 is within 200 m, use default APHE to shoot at the vertical part of its gun mantlet or its side if exposed. If it's hull down within 100 m, only target the gun mantlet with either APHE or APCR to disarm it. When the M4 is further than 400 m away, all of your shells will perform poorly at penetrating its armour, so disengage or wait until it gets closer. Remember to not get hit by it, its HE or HEAT is likely to knock the SU-76 out with ease.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 '''Pros:'''
 
-- Decent horizontal gun traverse of 30 degrees
-- Great cannon, its deadly APHEBC packs a heavy blow for common opponents like the Pz.IIIs, Crusaders and Stuarts
-- Offers a wide range of ammo to deal with various opponents: APHEBC for normal targets, HE/shrapnel for soft targets and APCR for the hard ones
-- Small profile makes it easy to hide and set up ambushes
-- Adequate acceleration and hull traverse
-- Carries up to 60 rounds of ammo which is plenty even for a long battle
+* Decent horizontal gun traverse of 30 degrees
+* Great cannon, its deadly APHEBC packs a heavy blow for common opponents like the Pz.IIIs, Crusaders and Stuarts
+* Offers a wide range of ammo to deal with various opponents: APHEBC for normal targets, HE/shrapnel for soft targets and APCR for the hard ones
+* Small profile makes it easy to hide and set up ambushes
+* Adequate acceleration and hull traverse
+* Carries up to 60 rounds of ammo which is plenty even for a long battle
 
 '''Cons:'''
 
-- Open-topped, very vulnerable to strafing aircraft.
-- Thin armour struggles to protect the crew from even .50 cal
-- -5 degrees of gun depression isn't enough for hill combat, and this flaw is sometimes fatal
-- Lacks a machine gun, making it rather ineffective against vehicles with light armour/exposed crew, for example SPAAs
-- Poor reverse speed of only 5 km/h might get the player killed
-- Cannon penetrates poorly at more than 700 m. Will struggle to penetrate hard targets like the Matildas, Churchill Mk I or even the early Shermans
+* Open-topped, very vulnerable to strafing aircraft.
+* Thin armour struggles to protect the crew from even .50 cal
+* -5 degrees of gun depression isn't enough for hill combat, and this flaw is sometimes fatal
+* Lacks a machine gun, making it rather ineffective against vehicles with light armour/exposed crew, for example SPAAs
+* Poor reverse speed of only 5 km/h might get the player killed
+* Cannon penetrates poorly at more than 700 m. Will struggle to penetrate hard targets like the Matildas, Churchill Mk I or even the early Shermans
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 During the interwar years, the development of self-propelled artillery was practically nonexistent in the Soviet Union. Those few projects, based on the chassis of [[T-26|T-26 light tank]], such as SU-1, AT-1 or SU-26, were eventually cancelled, and the Red Army entered the Second World War entirely without a dedicated self-propelled gun.
 
@@ -253,36 +239,31 @@ After the war, the vehicles served in the Soviet Army until the beginning of the
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_su_76m_1943 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_su_76m_1943 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|wZar3Fv4drE|'''SU-76M: Soviet Artillery Spam''' - ''Military History Visualized''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
-
-- [[Ikv 72]]
+* [[Ikv 72]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/3291/current|[Vehicle Profile] SU-76]]
-- [[wikipedia:SU-76|[Wikipedia] SU-76]]
-- [https://www.tanks-encyclopedia.com/ww2/soviet/soviet_SU-76.php <nowiki>[Tanks Encyclopedia]</nowiki> SU-76]
-- [https://www.militaryfactory.com/armor/detail.asp?armor_id=284 <nowiki>[Military Factory]</nowiki> Su-76 (Suchka)]
+* [[wt:en/news/3291/current|[Vehicle Profile] SU-76]]
+* [[wikipedia:SU-76|[Wikipedia] SU-76]]
+* [https://www.tanks-encyclopedia.com/ww2/soviet/soviet_SU-76.php <nowiki>[Tanks Encyclopedia]</nowiki> SU-76]
+* [https://www.militaryfactory.com/armor/detail.asp?armor_id=284 <nowiki>[Military Factory]</nowiki> Su-76 (Suchka)]
 
 {{TankManufacturer GAZ}}
 {{USSR tank destroyers}}

@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=uk_centurion_shot_kal_d
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage*{{PAGENAME}}\_001.jpg|StoreImage*{{PAGENAME}}_003.jpg|StoreImage_{{PAGENAME}}_004.jpg|StoreImage_{{PAGENAME}}\_005.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage_{{PAGENAME}}_001.jpg|StoreImage_{{PAGENAME}}_003.jpg|StoreImage_{{PAGENAME}}_004.jpg|StoreImage_{{PAGENAME}}_005.jpg}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced as a [[wt:en/news/5912-development-sho-t-kal-dalet-conquering-the-desert-en|premium pack]] in [[Update 1.85 "Supersonic"]]. It was removed from the store at the start of the Israeli [[wt:en/news/7573-development-zachlam-m3-tager-half-track-abroad-en|ground forces CBT]].
 
 While based on the Centurion tank, it differs from it by its new gun stabilizer, new fire control system, additional ERA armour and a new Continental diesel engine (whose integration brought modifications to the rear part of the hull).
@@ -19,7 +17,6 @@ While based on the Centurion tank, it differs from it by its new gun stabilizer,
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 The base survivability towards various forms of APDS and APHE/APCBC is virtually the same as that of the [[Centurion Mk 10]] in the regular tech tree, but now you will encounter less of these munitions, with HEAT and APFSDS rounds being your primary threat now. The upper front plate and the turret "forehead" will easily bounce APDS and APCBC/APHE rounds from various 100 mm and 105 mm guns at beyond 500 m range. APFSDS rounds, however, will penetrate through your tank at any angle and at any range.
@@ -34,8 +31,8 @@ The commander in Sho't Kal Dalet sits in a pretty exposed position on the turret
 
 '''Armour type:'''
 
-- Rolled homogeneous armour (Hull, Roof, Turret roof, Cupola roof, Side skirts, Smoke launchers)
-- Cast homogeneous armour (Turret, Gun mantlet, Cupola sides)
+* Rolled homogeneous armour (Hull, Roof, Turret roof, Cupola roof, Side skirts, Smoke launchers)
+* Cast homogeneous armour (Turret, Gun mantlet, Cupola sides)
 
 {| class="wikitable"
 |-
@@ -51,16 +48,15 @@ The commander in Sho't Kal Dalet sits in a pretty exposed position on the turret
 
 '''Notes:'''
 
-- Tracks and suspension wheels are both 20 mm thick.
-- The steel boxes around the turret and the hull give a 4 mm additional protection, though this seems to be a negligible addition.
-- Skirting are placed on the sides of the Centurion, giving an additional 6 mm of side protection and can act as spaced armour.
-- An internal structural plate of 17 mm thickness separates the forward ammo rack from the driver as seen in X-ray mode.
-- Another internal 17 mm structural plate with large openings separates the driving compartment from the fighting compartment.
-- Each block Blazer ERA provides 260 mm worth of Chemical Energy protection
+* Tracks and suspension wheels are both 20 mm thick.
+* The steel boxes around the turret and the hull give a 4 mm additional protection, though this seems to be a negligible addition.
+* Skirting are placed on the sides of the Centurion, giving an additional 6 mm of side protection and can act as spaced armour.
+* An internal structural plate of 17 mm thickness separates the forward ammo rack from the driver as seen in X-ray mode.
+* Another internal 17 mm structural plate with large openings separates the driving compartment from the fighting compartment.
+* Each block Blazer ERA provides 260 mm worth of Chemical Energy protection
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 When it comes to mobility, the {{PAGENAME}} has an edge over every other British MBT at a similar BR thanks to its decent 750 hp Continental diesel engine with 2,400 RPM. It can reverse itself at a decent -12 km/h (2 gears) and hit speeds up to 48 km/h (5 gears) in RB. While it's not the best as compared to [[Leopard A1A1]] and [[Centauro]], it is more than enough to get you into a good firing position early in the match or switch firing positions after scoring a few kills.
@@ -74,9 +70,7 @@ When it comes to mobility, the {{PAGENAME}} has an edge over every other British
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|Sharir (105 mm)}}
 
 The main gun of the Sho't Kal is the Israeli modification of the legendary Royal Ordnance L7 cannon, dubbed as [[Sharir (105 mm)]]. It can fire an assortment of APFSDS, HEATFS, HESH and Smoke rounds, effectively making you an effective hunter for virtually every tank at your BR. The gun is devastatingly accurate and quick firing, taking only 6.7 seconds for each shot at 8.3 BR.
@@ -170,9 +164,7 @@ All in all, the Sho't by virtue of the M111 and a quick firing Sharir cannon, ha
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.17.0.42''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -190,17 +182,15 @@ All in all, the Sho't by virtue of the M111 and a quick firing Sharir cannon, ha
 |}
 '''Notes''':
 
-- Racks 6 and 7 are first stage ammo racks. They total 11 shells and get filled first when loading up the tank.
-- These racks are also emptied early: the rack depletion order at full capacity is: 6 - 7 - 1 - 2 - 3 - 4 - 5
-- To go into battle with the frontal ammo rack empty, pack 33&nbsp;''(+39)'' shells.
+* Racks 6 and 7 are first stage ammo racks. They total 11 shells and get filled first when loading up the tank.
+* These racks are also emptied early: the rack depletion order at full capacity is: 6 - 7 - 1 - 2 - 3 - 4 - 5
+* To go into battle with the frontal ammo rack empty, pack 33&nbsp;''(+39)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
 {{Specs-Tank-Weapon|4}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|M2HB (12.7 mm)|FN MAG 60-40 (7.62 mm)}}
 
 The Sho't comes with 2 coaxial machine guns and 2 roof-mounted machine guns, providing an extremely concentrated stream of small arms and heavy machine-gun fire to target harassing aircraft and helicopters. Although not as effective as the 20 mm autocannons on some other tanks, it's still quite useful.
@@ -229,9 +219,7 @@ The Sho't comes with 2 coaxial machine guns and 2 roof-mounted machine guns, pro
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Sho't Kal Dalet should be played in a reserved role, taking advantage of its reliable long-ranged Sharir cannon and exceptional protection against shaped charges. Its frontal armour is suited to withstand most HEAT warheads commonly found around its BR.
 
 The Sho't Kal Dalet's main armament is perfectly capable of disposing of '''all''' threats it encounters thanks to its M111 APFSDS round. Well placed centre of mass attacks will take out even the mighty IS-7 from the front. At long ranges, up to 2,200 m, the Sho't Kal Dalet's rangefinder provides accurate target information (with rangefinding crew skills) to engage even the heaviest targets accurately.
@@ -252,24 +240,21 @@ Otherwise, the slow turret and hull traverse can leave its vulnerable side expos
 But the Sho't Kal Dalet does not have the mobility to evade faster opponents like the Leopard family.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great fully stabilized 105 mm L7 cannon
-- E.R.A. grants improved protection against HEAT warheads
-- Four machine guns in total; good for warding off pesky low-flying planes and helicopters
-- Decent mobility compared to other British MBTs at the same BR
+* Great fully stabilized 105 mm L7 cannon
+* E.R.A. grants improved protection against HEAT warheads
+* Four machine guns in total; good for warding off pesky low-flying planes and helicopters
+* Decent mobility compared to other British MBTs at the same BR
 
 '''Cons:'''
 
-- Somewhat slow in comparison to other medium tanks at its rank
+* Somewhat slow in comparison to other medium tanks at its rank
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 {{main|Centurion_Mk_10#History|l1=History of the Centurion Mk 10}}
 
 In the late 1950s, Israel struck a deal with Great Britain to purchase a number of Centurion Mk.5 tanks as a response to Egypt's own rearmament efforts at the time. Deliveries continued well into the 1960s, with Israel fielding more than 300 Centurion tanks prior to the Six-Day War in 1967.
@@ -287,40 +272,37 @@ The Sho't Kal Dalet was the last mass-produced modification of the Israeli Centu
 ''- From [[wt:en/news/5912-development-sho-t-kal-dalet-conquering-the-desert-en|Devblog]]''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=uk_centurion_shot_kal_d Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_centurion_shot_kal_d Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|YzUXH6GmH2E|'''The Shooting Range #130''' - ''Metal Beasts'' section at 01:05 discusses the {{Specs|name}}.|738ayWyFsEs|'''{{Specs|name}} Tank Review''' - ''Napalmratte''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
 
-- [[Centurion (Family)]]
+* [[Centurion (Family)]]
 
 ;Other vehicles of similar configuration and role
 
-- [[M60A1 RISE (P)]]
-- [[AMX-30B2 BRENUS]]
+* [[M60A1 RISE (P)]]
+* [[AMX-30B2 BRENUS]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/5912-development-sho-t-kal-dalet-conquering-the-desert-en|[Devblog] Sho't Kal Dalet: Conquering the Desert]]
-- [[wikipedia:Sho't#Sho't_Kal_Alef/Bet/Gimel/Dalet|[Wikipedia] Sho't Kal Dalet]]
-- [https://tanks-encyclopedia.com/modern/Israel/Shot-MBT.php <nowiki>[Tanks Encyclopedia]</nowiki> Sho't MBT]
+* [[wt:en/news/5912-development-sho-t-kal-dalet-conquering-the-desert-en|[Devblog] Sho't Kal Dalet: Conquering the Desert]]
+* [[wikipedia:Sho't#Sho't_Kal_Alef/Bet/Gimel/Dalet|[Wikipedia] Sho't Kal Dalet]]
+* [https://tanks-encyclopedia.com/modern/Israel/Shot-MBT.php <nowiki>[Tanks Encyclopedia]</nowiki> Sho't MBT]
 
 {{TankManufacturer Israeli Ordnance Corps}}
 {{Britain medium tanks}}

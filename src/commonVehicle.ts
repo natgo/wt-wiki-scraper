@@ -125,6 +125,7 @@ export function commonVehicle(
     reqRP: vehicleEconomy.reqExp,
     prem_type: prem,
     marketplace: element.marketplace,
+    store: element.store,
     event: vehicleEconomy.event ? vehicleEconomy.event : undefined,
     cost_gold: vehicleEconomy.costGold,
     hidden: vehicleEconomy.showOnlyWhenBought ? true : undefined,

@@ -5,13 +5,11 @@
 }}
 {{Specs-Card
 |code=ussr_is_2_1943
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet heavy tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before [[Update 1.41]]. The IS-2 introduces the heavy-hitting 122 mm D-25T gun as a tank armament, presenting massive firepower with a devastating post-damage effect. Its effect on the battlefield should not be underestimated.
 
 Operational and visual characteristics of the IS-2, as its design and name suggest, is visually similar to its previous sister-tank, the [[IS-1]] but with operational characteristics of a Tank Destroyer at its BR. Players experienced in operating previous models of the KV series tanks, in particular, the [[KV-2 (1939)|KV-2]] and SU-line of Tank Destroyers should have little to no difficulty in adjusting to this vehicle.
@@ -19,16 +17,14 @@ Operational and visual characteristics of the IS-2, as its design and name sugge
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 [[File:IS-2 scheme of armour.jpg|right|thumbnail|300px|The historical armour layout of the IS-2 for the 1943 and 44 models]]
 The IS-2 has sufficient armour, but will not protect from the guns of its rank. The frontal plate has 120 mm of armour plating, which will not stop anything the IS-2 faces, making slight angle adjustments paramount survivability essential. However, due to a tendency for the driver's view port to literally absorb the round, most players will not aim here. The LFP has a value of 100 mm angled at 27 degrees, and will not bounce any shots. Since behind the LFP is the driver and the 2 main fuel tanks, a penetrating round will have catastrophic results for the {{PAGENAME}}. The side armour is 90 mm, and observing the front of the tank, it has a noticeable curvature to it. When viewed from the front, the 90 mm of armour will deflect or absorb a high number of shots contrary to the 120 mm plate. Angling with large adjustments will cause the {{PAGENAME}} to render this part useless and make the tank extremely vulnerable. The frontal turret armour is 100 mm with a distinctive "cheek" construction. As with any "cheek" construction, the lower part may act as a shot trap and the middle may absorb shots, but it is more than likely to fail against high-penetration guns.
 
 '''Armour type:'''
 
-- Cast homogeneous armour (Hull front and side, turret)
-- Rolled homogeneous armour (hull roof, engine compartment side & rear, turret and cupola roof, gun mantlet)
+* Cast homogeneous armour (Hull front and side, turret)
+* Rolled homogeneous armour (hull roof, engine compartment side & rear, turret and cupola roof, gun mantlet)
 
 {| class="wikitable"
 |-
@@ -43,11 +39,10 @@ The IS-2 has sufficient armour, but will not protect from the guns of its rank. 
 |}
 '''Notes:'''
 
-- Suspension wheels and bogies are 20 mm thick while tracks are 30 mm thick.
+* Suspension wheels and bogies are 20 mm thick while tracks are 30 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp= 671|rbMinHp= 460}}
@@ -59,9 +54,7 @@ The IS-2 has sufficient armour, but will not protect from the guns of its rank. 
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|D-25T (122 mm)}}
 
 Many players find it hard to get used to similar Soviet cannons mainly due to their absurdly long reload. This can be caused by inaccurate aiming, resulting in the shell missing or not penetrating, so the player have to wait for half a minute to reload, which is of course frustrating. Players can overcome this by practising shooting and getting used to the ballistics, to make most if not every shell count. Once one is able to consistently knock out opponents with a single shot, the reload will not seem as long, since it generally takes quite a few minutes before the next target shows up.
@@ -127,9 +120,7 @@ The last aspect to overcome is the painful gun depression. Make sure to fight on
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.5.1.85''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -147,15 +138,13 @@ The last aspect to overcome is the painful gun depression. Make sure to fight on
 |}
 '''Notes''':
 
-- The {{PAGENAME}} uses two-piece ammunition, composed of projectiles (yellow) and propellant bags (orange). Both have separate racks.
-- Shells are modeled individually and disappear after having been shot or loaded.
-- Centre floor rack emptied: 11&nbsp;''(+17)'' shells.
+* The {{PAGENAME}} uses two-piece ammunition, composed of projectiles (yellow) and propellant bags (orange). Both have separate racks.
+* Shells are modeled individually and disappear after having been shot or loaded.
+* Centre floor rack emptied: 11&nbsp;''(+17)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|DT (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -169,9 +158,7 @@ The last aspect to overcome is the painful gun depression. Make sure to fight on
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 As the tank's design purpose suggests, the IS-2 is a heavy tank built with an emphasis on engaging hostile armoured vehicles as well as a breakthrough tank. The tanks heavy armour retains the similar properties of its [[IS-1]] and previous KV line of battle-tanks but introduces some sloped armour on the front plate and turret mantlet. Differing from its IS-1 predecessor, the IS-2 comes equipped with the large 122 mm D-25T gun and a slightly more armoured but elongated turret. Although powerful, the D-25T main cannon of the IS-2 is encumbered by a slow reload time, mimicking that of the Soviet Tank-Destroyer line of vehicles at around the mid-20 seconds. Nevertheless, this vehicle with its powerful cannon and shell will commonly destroy almost all but the most heavily armoured vehicles with a single shot, behaving similarly to the older KV-2 predecessor, albeit with half the time required for reloading. In the tank's BR and rank, the armour of the IS-2 no longer stands up to much punishment with the advent of opponents with more powerful weaponry, and caution should be taken. Close-quarters combat and brawling against more than one target at a time is highly discouraged due to the long reload speed unless the tank operator is trapped and situation requires this as an absolute necessity. Alternatively, if escorted and accompanied by other friendly tanks, the IS-2 can be supplemented and perform better in dire close-quarters situations.
 
 If you are to apply bushes onto the IS-2, consider putting most of them on upper frontal hull and the curved sides next to it. This is because that quite some opponents will automatically target the curved armour, knowing that area is a common weak spot when the IS is angling. By covering up the hull front and the curves, the IS's frontal hull will now look flatter, somewhat resembling the hull of an IS-2 1944. This will cause some confusion and delay the enemy's reaction & aiming time, as they now cannot directly see where your curved armour is, gifting you a few precious seconds before they open fire. For any leftover bushes, the turret front and the lower front plate are also good spots to put them on.
@@ -193,9 +180,7 @@ Due to generally increased map size in Realistic, you will have to get comfortab
 A more reliable strategy for the IS-2 is to camp nearby an objective and pick off any enemies who pose a threat. Just make sure to find a flat spot with cover, because your poor gun depression and long reload will be your death in hilly or open areas. It's also a good idea to target heavy enemies, because they are easier to hit, and also will likely pose a larger threat to your general team (e.g the [[Ferdinand]], the [[Ho-Ri Production|Ho-Ri]] or the [[Tiger II (H)]]).
 
 ====General Tactics====
-
 <!--Specific methods of play in different situations, label the methods with pros and cons (if possible) based on vehicle's performances (i.e. Using the M22 Locust and getting close to the target so gun depression cannot reach it.)-->
-
 Although classified as a heavy tank and an upgraded improved design over the KV predecessor, the IS-2's armour will no longer hold up to its more common and heavier opponents of its BR and rank. Compared with other vehicles such as the new German Tiger II, American heavy T-series tanks; most of which can easily deflect even the most powerful shots of the IS-2 unless targeted specifically and known weak spots. Because of this, it is recommended to always travel and fight in groups of two or more vehicles. The slow and difficult in the manoeuvring of the vehicle (especially in confined spaces) will more than once place the IS-2 in significant danger. It is recommended to field the IS-2 into a fire-support role, peeking over the shoulder of friendly, more heavier vehicles and firing a shot against the opposition in tandem.
 
 Another significant note of this vehicle is the IS-2's considerably fast reverse rate, the highest at its BR for the nation's faction inherited from its IS-1 predecessor, topping at 17 km/h. During situations where engagement is expected, an unorthodox strategy can be utilized where the operator of the IS-2 tank re-positions the vehicle 90 degrees and drive in reverse with the rear-facing towards the enemy. By driving in reverse this way, the engine blocks make a crude yet somewhat effective shield to protect the more delicate crew members. As the fuel tanks are mostly stored at the front on the left and right side of the driver's station, the risk of fire and fuel-tank explosion is reduced significantly (but not completely eliminated) and thus, the tank is able to resist even the most powerful of shots. Be aware that more experienced players may attempt to instead fire at the more exposed turret of the IS tank and instantly knocking out the crew with a common APHE penetrating shell in this way.
@@ -214,9 +199,7 @@ In regards to shells, the D-25T cannon is also equipped with powerful High-explo
 '''Tank destroyer''': for tank destroyers around the IS-2's BR, its weak spots remain overall the same, and you should still be careful when hunting down an IS-2. But for late-war tank destroyers with absurd armour and huge cannons, like [[T28]], [[Jagdtiger]], [[Ho-Ri Production|Ho-Ri]], the player can be more confident. Sit in front of the IS-2 at a comfortable distance and it will simply not penetrate your armour. If you gunsight magnification is high enough it is better to force the IS-2 into a long range battle. Its gunsight zoom is really poor and the gun is not beginner friendly, meaning that most IS-2 players will miss their shots. Still, its strong points are there to bounce/absorb the most powerful kinetic shells so aim carefully away from the front glacis, gun mantlet and the turret ring.
 
 ====Specific enemies worth noting====
-
 <!--Some concerning vehicles to worry about if playing this tank and how to fight them in an encounter. (i.e. Tiger II - shoot the turret cheeks)-->
-
 German Tiger IIs, Panthers will be common encounters at the IS-2's BR, combined with the more threatening and heavier American T-Series tanks such as the T34 and M26. At this Battle Rating and Rank, more powerful British Tanks such as the Centurions will be encountered. As previously specified above, The IS-2 no longer retains its armour advantage at this BR unlike its IS-1 predecessor and thus, it is important to identify and fire on targets first before they do. In this rank, Tanks such as the Panthers, Tiger II and similar vehicles will be present with sloped armour, strong enough to even withstand the might of the 122 mm Shells of the D-25T gun. A common design flaw, however, is the turret of said vehicles, commonly being mostly blunt and flat and easy to penetrate. A patient and well placed aim and shot against these surfaces will destroy the target with no more than a single shot. Be aware that most opposition vehicles at this rank have the lower calibre and puncturing power than the D-25T of the IS-2, but come with an improved reload speed, a reload speed commonly faster than the IS-2. Japanese line of tanks at the same rank as the IS-2 is of little concern; their poor armour and armaments at the same rank will render them relatively easy to destroy.
 [[File:Wsp volumetric shell diagram.png|thumb|Differences between non-volumetric shells and volumetric shells hitting a Tiger I]]
 An important note when engaging tanks, especially Tiger I's, is that, with the implementation of volumetric shells, you can no longer expect your shells to pierce through small openings or right past an obstacle. The large 122 mm calibre of your shells will result in it catching on an armour plate's edge very often, losing all of its penetration. For example, a Tiger I has some edges that can absorb your shell unexpectedly, despite having flat armour. Thus you must always make sure that where you are aiming at is absolutely free of obstruction, or it may result in a non-penetration or a ricochet. This can be seen in the diagram to the right.
@@ -228,45 +211,41 @@ When grinding the first modifications, Arcade Battles might be more fun, because
 
 General stock grind advice:
 
-- Don't show your rear to any enemies, because a single fire will be your death.
-- Your gun is still very effective, so don't be afraid to attack enemies frontally, just make sure to aim for weak spots if possible.
-  \*\* Shooting at planes in Arcade with your machine gun (or main gun) and scoring some hits can often award you a kill if the plane crashes, which grants points.
-- Play as a support tank - push with your team and let them take fire, then poke out and take your shots, then retreat back into cover.
-  \*\* Try to push into objectives with your team to gain those points as well.
+* Don't show your rear to any enemies, because a single fire will be your death.
+* Your gun is still very effective, so don't be afraid to attack enemies frontally, just make sure to aim for weak spots if possible.
+** Shooting at planes in Arcade with your machine gun (or main gun) and scoring some hits can often award you a kill if the plane crashes, which grants points.
+* Play as a support tank - push with your team and let them take fire, then poke out and take your shots, then retreat back into cover.
+** Try to push into objectives with your team to gain those points as well.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 '''Pros:'''
 
-- Excellent firepower with nearly unmatched potential for single-shot knock-outs
-- Considerably good speed for a heavy tank: around 40 km/h on road
-- Very fast reverse speed at -15 km/h
-- Repositioning of fuel tanks reduces chances of fires
-- Players proficient with the KV-2 and Soviet heavy tank destroyers will feel comfortable with the IS-2
-- Has quite a low profile for a heavy tank
+* Excellent firepower with nearly unmatched potential for single-shot knock-outs
+* Considerably good speed for a heavy tank: around 40 km/h on road
+* Very fast reverse speed at -15 km/h
+* Repositioning of fuel tanks reduces chances of fires
+* Players proficient with the KV-2 and Soviet heavy tank destroyers will feel comfortable with the IS-2
+* Has quite a low profile for a heavy tank
 
 ''' Cons:'''
 
-- Sub-par armour for a heavy tank, inherited from the IS-1
-- Big weak spots that directly lead to the driver or an ammo rack
-- Very cramped interior, causing it to be easily knocked out with a single shot
-- Poor manoeuvrability, very bad hull traverse speed, often needing forward acceleration before turning
-- Extremely poor gun depression
-- Very low rate of fire demanding every shot to count
-- Slow turret traverse speed
+* Sub-par armour for a heavy tank, inherited from the IS-1
+* Big weak spots that directly lead to the driver or an ammo rack
+* Very cramped interior, causing it to be easily knocked out with a single shot
+* Poor manoeuvrability, very bad hull traverse speed, often needing forward acceleration before turning
+* Extremely poor gun depression
+* Very low rate of fire demanding every shot to count
+* Slow turret traverse speed
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 The effort began on another heavy tank after the [[IS-1]]'s 85 mm gun no longer had a firepower advantage after the standard [[T-34 (1942)|T-34]] medium tank was upgraded with the same gun into the [[T-34-85]]. Due to that, the IS-1 was discontinued in January 1944 with about 107 units produced.<ref name="ISZaloga">Zaloga, Steven J. ''IS-2 Heavy Tank 1944-73'' Great Britain: Osprey Publishing Ltd., 1994</ref> Those in storage still awaited upgrade to become a more powerful heavy tank.
 
 In late 1943, the upgrade of the IS tank began and the choices available were rounded down to two weapons, the 122 mm A-19 gun and the 100 mm D-10 gun. Both guns had their advantages and disadvantages in their specifications, the 100 mm D-10 had a much better armour penetration capabilities and uses a single-piece ammunition, the 122 mm A-19 has a better high-explosive round and used a two-piece ammunition In the end, the 122 mm A-19 (adopted as the D-25T) gun was chosen as the gun of the new IS tank due to larger supply of the gun available for use (the D-10 was a newly produced gun) and the better high-explosive round available. The better high-explosive round is due to the heavy tank's specification as a "breakthrough" tank than an anti-tank role, so it was meant to fight fortifications more than against armour. Nevertheless, against armour, the 122 mm gun proved a very lethal cannon against armour, having the capacity to knock out any German tanks fielded in the war, even the [[Tiger II (H)|Tiger II]], though the ease of knocking them out vary from their armour protection.
 
-The 122 mm gun's two-piece ammunition was perhaps the gun's worst drawback, this along with the heavy shells and charges that it uses causes reloading speed to only be one and a half rounds per minute maximum. Even after some modernization to the gun including a semi-automatic breech, the rate of fire only increased to two to three rounds per minute. Another drawback of the gun was the size of the ammunition that the 122 mm gun uses, the IS tank interior could only hold 28 of such ammunition, which restricts the time the IS could last in battle before requiring a resupply. In battle, the usual distribution of the shells is 20 high-explosive and 8 armour-piercing rounds.
+The 122 mm gun's two-piece ammunition was perhaps the gun's worst drawback, this along with the heavy shells and charges that it uses causes reloading speed to only be one and a half rounds per minute maximum. Even after some modernization to the gun including a semi-automatic breech, the  rate of fire only increased to two to three rounds per minute. Another drawback of the gun was the size of the ammunition that the 122 mm gun uses, the IS tank interior could only hold 28 of such ammunition, which restricts the time the IS could last in battle before requiring a resupply. In battle, the usual distribution of the shells is 20 high-explosive and 8 armour-piercing rounds.
 
 The finished IS tank with the 122 mm gun, first called the ''IS-122'', was finally approved and renamed the '''IS-2''' heavy tank, some were rearmed IS-1s from the factory with the 122 mm gun. The IS-2 tank, like the IS-1, was superior to the previous [[KV-1 (ZiS-5)|KV-1]] tanks used in the Red Army. Production of the IS-2 started in October or November 1943 and by the end of World War II when production ended, a total of 3,854 units were produced.
 
@@ -301,36 +280,32 @@ The new heavy tanks were provided to Czechoslovakian units and the Polish Army, 
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_is_2_1943 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_is_2_1943 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|bVoBUcq25gg|'''The Shooting Range #305''' - ''Metal Beasts'' section at 00:26 discusses the {{PAGENAME}}.|z3pEoHfHxlw|'''Famous, Feared and very Soviet! IS-2''' - ''HowToPlay1337''|wDxhzDnCnHY|'''The Shooting Range #111''' - ''Pages of History'' section at 09:49 discusses Alexandra Boiko, IS-2 tank commander.|MhjI_h5FhG4|'''IS-2 vs Tiger E''' - ''War Thunder Official Channel''|eqLe-I0FRwQ|'''The Shooting Range #72''' - ''Pages of History'' section at 03:43 discusses the {{PAGENAME}}.|0tRz1s5AL2M|'''IS-2: When 85mm is not enough''' - ''Military History Visualized''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
 
-- [[IS-2 (Family)]]
+* [[IS-2 (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/2673--en|[Vehicle Profile] Iosif Stalin 2]]
-- [[wikipedia:IS-2|[Wikipedia] IS-2]]
-- [https://tanks-encyclopedia.com/ww2/soviet/soviet_IS-II.php <nowiki>[Tanks Encyclopedia]</nowiki> IS-2]
-- [https://www.militaryfactory.com/armor/detail.asp?armor_id=357 <nowiki>[Military Factory]</nowiki> IS-2 / JS-2 (Josef Stalin)]
+* [[wt:en/news/2673--en|[Vehicle Profile] Iosif Stalin 2]]
+* [[wikipedia:IS-2|[Wikipedia] IS-2]]
+* [https://tanks-encyclopedia.com/ww2/soviet/soviet_IS-II.php <nowiki>[Tanks Encyclopedia]</nowiki> IS-2]
+* [https://www.militaryfactory.com/armor/detail.asp?armor_id=357 <nowiki>[Military Factory]</nowiki> IS-2 / JS-2 (Josef Stalin)]
 
 === References ===
 <references />

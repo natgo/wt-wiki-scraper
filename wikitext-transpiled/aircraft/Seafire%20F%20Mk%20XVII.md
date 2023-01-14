@@ -12,9 +12,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British naval fighter {{Battle-rating}}. It was introduced in [[Update 1.49 "Weapons of Victory"]].
 
 The first thing to know is that the XVII is a low altitude fighter, unlike the next Seafire - the [[Seafire FR 47|FR 47]] which is a high altitude fighter. Climb rate is fantastic until 2,500 m, where it can still perform quite well until 3,500 m but going over is not recommended as the engine will fail to provide enough power. It is recommended to climb at the beginning of the game until 2,000 m, targeting enemy Attacker aircraft, retreating, climbing up to 3,500 m, baiting down enemy fighters and finishing them on your own turf (under 2,000 m).
@@ -30,7 +28,6 @@ Unfortunately the plane is lacking rockets for ground attacks like its elder bro
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -58,7 +55,7 @@ Unfortunately the plane is lacking rockets for ground attacks like its elder bro
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || X || ✓ || X || ✓ <!-- ✓ -->
+| X || X || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -111,14 +108,13 @@ Unfortunately the plane is lacking rockets for ground attacks like its elder bro
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 38 mm Bulletproof glass - Armoured windscreen
-- 4 mm Steel - Armoured plates in the pilot seat
-- 6-7 mm Steel - Armoured plates behind pilot's seat
-- 1 mm Steel - Armoured plate between fuel tanks
-- 3 mm Steel - Armoured boxes around wing ammunition
+* 38 mm Bulletproof glass - Armoured windscreen
+* 4 mm Steel - Armoured plates in the pilot seat
+* 6-7 mm Steel - Armoured plates behind pilot's seat
+* 1 mm Steel - Armoured plate between fuel tanks
+* 3 mm Steel - Armoured boxes around wing ammunition
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -127,41 +123,35 @@ Unfortunately the plane is lacking rockets for ground attacks like its elder bro
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Hispano Mk.V (20 mm)|Browning (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 20 mm Hispano Mk.V cannons, wing-mounted (120 rpg = 240 total)
-- 4 x 7.7 mm Browning machine guns, wing-mounted (350 rpg = 1,400 total)
+* 2 x 20 mm Hispano Mk.V cannons, wing-mounted (120 rpg = 240 total)
+* 4 x 7.7 mm Browning machine guns, wing-mounted (350 rpg = 1,400 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 2 x 250 lb G.P. Mk.IV bombs (500 lb total)
-- 3 x 250 lb G.P. Mk.IV bombs (750 lb total)
-- 1 x 500 lb G.P. Mk.IV bomb + 2 x 250 lb G.P. Mk.IV bombs (1,000 lb total)
+* Without load
+* 2 x 250 lb G.P. Mk.IV bombs (500 lb total)
+* 3 x 250 lb G.P. Mk.IV bombs (750 lb total)
+* 1 x 500 lb G.P. Mk.IV bomb + 2 x 250 lb G.P. Mk.IV bombs (1,000 lb total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Seafire F Mk XVII is a fighter that does best at low altitudes. Here, below 2,500 m, it climbs exceptionally well, and its engine has a great power output, but as soon as the plane passes that altitude, engine power begins to fall significantly. The best performance is had below 2,000 m of altitude, and above 3,500 m, engine performance is very much inadequate. Because of this, it is wise to pick and choose which engagements to commit to. It is often unwise to attack heavy bombers, both because the Seafire's armament can be lacking against such large enemies and because heavy bombers are usually found at high altitudes, where the Seafire's performance is greatly hampered. Instead, low-altitude dogfights are where the Seafire shines. It can also be used to defend ground units against enemy ground-attackers.
 
 This vehicle has excellent manoeuvrability like so many other British fighters. With such control, the pilot will have no trouble keeping on an enemy's tail. And, the plane can certainly handle itself in a one on one dogfight.
 
 The Seafire is armed with 2 x 20 mm cannons and 4 x 7.7 mm machine guns. The 20 mm cannons can pull their weight, but are limited by a rather small ammo count. So, trigger discipline is necessary and spraying at enemies is not recommended. Instead, it's often better to get close and aim precisely, firing in short bursts to conserve ammo. The 7.7 mm machine guns have more ammunition than the cannons, and can last quite a bit longer. Alone, they won't do much damage against enemy planes, but they can destroy unarmoured ground targets. Also, the 7.7 mm machine guns can be fired independently of the cannons, and looking at the path of the rounds can help the pilot to lead and aim the more powerful 20 mm cannons. This is especially useful if the enemy is farther away and flying in a relatively straight line.
 
-The Seafire is able to carry up to 1,000 lbs of bombs, which can be used in either Air Realistic battles to destroy armoured ground targets, or in Ground Realistic battles, where they can be used for ground-attack to great effect. And once the bombs have been dropped, the Seafire can act as a great air superiority fighter in mixed battles. Additionally, it can use its 7.7 mm machine guns to spot ground targets for teammates on the ground to destroy.
+The Seafire is able to carry up to 1,000 lbs of bombs, which can be used in either Air Realistic battles to destroy armoured ground targets, or in Ground Realistic battles, where they can be used for ground-attack to great effect. And once the bombs have been dropped, the Seafire can act as a great air superiority fighter in mixed battles.  Additionally, it can use its 7.7 mm machine guns to spot ground targets for teammates on the ground to destroy.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -181,25 +171,22 @@ The Seafire is able to carry up to 1,000 lbs of bombs, which can be used in eith
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 [[File:Seafire at night.jpg|thumbnail|right|Seafire XVII on a night sortie]]
 
 '''Pros:'''
 
-- Very manoeuvrable
-- Good bomb load for a Spitfire: up to 2 x 250 lb + 500 lb bombs
-- Good climb rate at low altitudes
+* Very manoeuvrable
+* Good bomb load for a Spitfire: up to 2 x 250 lb + 500 lb bombs
+* Good climb rate at low altitudes
 
 '''Cons:'''
 
-- Poor high-altitude performance
-- .303 calibre machine guns do little damage
-- Low cannon ammunition count
+* Poor high-altitude performance
+* .303 calibre machine guns do little damage
+* Low cannon ammunition count
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -217,26 +204,23 @@ The same Rolls-Royce Griffon VI that powered the previous Seafire Mk.XV was also
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=seafire_mk17 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=seafire_mk17 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!--''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.''-->
 
-- [https://forum.warthunder.com/index.php?/topic/235719-supermarine-seafire-f-mk-xvii/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/235719-supermarine-seafire-f-mk-xvii/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Supermarine}}
 {{Britain fighters}}

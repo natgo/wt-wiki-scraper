@@ -4,20 +4,16 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.89 "Imperial Navy"]]. This particular ATGM carrier relies purely on stealth, unlike the [[IT-1]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
-- Rolled homogeneous armour
+* Rolled homogeneous armour
 
 {| class="wikitable"
 ! Armour !! Front !! Sides !! Rear !! Roof
@@ -29,9 +25,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet tank destroyer {{Battle
 |}
 '''Notes:'''
 
-- Suspension wheels are 10 mm thick while tracks are 15 mm thick.
-  [[File:Shturm-S obliterated by IT-1 missing shot from 20 m.jpg|thumb|right|The side armour of the carrier might as well not exist. It should always fight while using cover or distraction of some sort.]]
-  Pretty much every enemy tank in the game will be able to destroy the Shturm-S including rank I anti-air.
+* Suspension wheels are 10 mm thick while tracks are 15 mm thick.
+[[File:Shturm-S obliterated by IT-1 missing shot from 20 m.jpg|thumb|right|The side armour of the carrier might as well not exist. It should always fight while using cover or distraction of some sort.]]
+Pretty much every enemy tank in the game will be able to destroy the Shturm-S including rank I anti-air.
 
 From the side or the roof, within 200 m the crew compartment can be penetrated by 7.62 mm. It also can be penetrated by HEAT overpressure, which is terrible. Artillery is also dangerous, as way too many close misses might ignite the ammo rack or knock out the crew.
 
@@ -49,7 +45,6 @@ The ESS can be unlocked and used in conjunction with thermal scope to fight or r
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp= 341|rbMinHp= 212}}
@@ -69,9 +64,7 @@ The carrier can swim like most of the other Soviet light tanks.
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|9M114 Shturm}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -110,13 +103,13 @@ Missiles are vulnerable to jamming, so when fighting tanks with IRCM, it is nece
 
 The list of available ATGM in order of acquisition:
 
-- HEAT - Default ATGM, which has about 550 mm penetration. Launched at atleast 230 m/s with high acceleration. Can deal with anything at the BR, but does only punctual damage like HEATFS. Tanks with heavy NERA or ERA amount will resist it and suffer less than fatal damage or no damage.
+* HEAT - Default ATGM, which has about 550 mm penetration. Launched at atleast 230 m/s with high acceleration. Can deal with anything at the BR, but does only punctual damage like HEATFS. Tanks with heavy NERA or ERA amount will resist it and suffer less than fatal damage or no damage.
 
-- Tandem HEAT - ATGM with a double payload. Launched at atleast 230 m/s with high acceleration. Extremely high post-penetration damage. Designed to annihilate ERA and other countermeasures and then destroy the tank in one hit. Each payload can penetrate about 800 mm of composite armour at a flat angle. Tandem warhead ignores ERA and penetration should be calculated as if it was not present, unless you hit the target at an extreme angle, launching the actual projectile into yet another ERA layer.
+* Tandem HEAT - ATGM with a double payload. Launched at atleast 230 m/s with high acceleration. Extremely high post-penetration damage. Designed to annihilate ERA and other countermeasures and then destroy the tank in one hit. Each payload can penetrate about 800 mm of composite armour at a flat angle. Tandem warhead ignores ERA and penetration should be calculated as if it was not present, unless you hit the target at an extreme angle, launching the actual projectile into yet another ERA layer.
 
-- HE - A guided missile with a HE payload. Launched at about 130 m/s with poor acceleration. Can penetrate about 55 mm of armour, making it on par with the second strongest HE shells in terms of pure damage. Can be used to cause overpressure damage by hitting tracks or tank's roof, similarly to HE shells, but has negligible area of effect and is weak against ERA plating. Due to its low launch speed it is suitable for close range combat, particularly in AB. Outside of the tank's own BR, it can be used as a utility ammo to destroy NERA tanks, which the tandem HEAT might not be able to even scratch. This missile has enough explosive mass to damage ground, but it has no practical application outside of AB, since damage is very low.
+* HE - A guided missile with a HE payload. Launched at about 130 m/s with poor acceleration. Can penetrate about 55 mm of armour, making it on par with the second strongest HE shells in terms of pure damage. Can be used to cause overpressure damage by hitting tracks or tank's roof, similarly to HE shells, but has negligible area of effect and is weak against ERA plating. Due to its low launch speed it is suitable for close range combat, particularly in AB. Outside of the tank's own BR, it can be used as a utility ammo to destroy NERA tanks, which the tandem HEAT might not be able to even scratch. This missile has enough explosive mass to damage ground, but it has no practical application outside of AB, since damage is very low.
 
-- Proximity HE - A guided missile specifically redesigned to destroy planes and helicopters. Launched at about 130 m/s with poor acceleration. In terms of damage, it differs from HE by having a slightly higher area of effect (enough to occasionally destroy light tanks standing right next to the target) but slightly weaker penetration (enough to sometimes fail to destroy targets on direct hit) and practically no damage to the ground. It has enough fuel to fly for about 7 km away. In reality, it is mostly equal to normal HE missile. This missile also has a proximity detonator, which activates after missile flies about 300 m away from the carrier and the ground, which helps with hitting aircraft despite not having radar or any other targeting devices. While detonator is set to explode next to the aircraft (about 5 m away) if possible, certain support helicopters can survive the explosion. The proximity detonator will not react to the tanks or the ground even if brought back down to ground level and does not seem to react to rockets and other missiles, unless it is fired straight into them (they often react to it first).
+* Proximity HE - A guided missile specifically redesigned to destroy planes and helicopters. Launched at about 130 m/s with poor acceleration. In terms of damage, it differs from HE by having a slightly higher area of effect (enough to occasionally destroy light tanks standing right next to the target) but slightly weaker penetration (enough to sometimes fail to destroy targets on direct hit) and practically no damage to the ground. It has enough fuel to fly for about 7 km away. In reality, it is mostly equal to normal HE missile. This missile also has a proximity detonator, which activates after missile flies about 300 m away from the carrier and the ground, which helps with hitting aircraft despite not having radar or any other targeting devices. While detonator is set to explode next to the aircraft (about 5 m away) if possible, certain support helicopters can survive the explosion. The proximity detonator will not react to the tanks or the ground even if brought back down to ground level and does not seem to react to rockets and other missiles, unless it is fired straight into them (they often react to it first).
 
 ==== Ammunition ====
 {| class="wikitable sortable" style="text-align:center" width="100%"
@@ -181,9 +174,7 @@ The list of available ATGM in order of acquisition:
 |}
 
 ==== [[Ammo racks]] ====
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -201,14 +192,13 @@ The list of available ATGM in order of acquisition:
 ! 12th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''12''' || 12&nbsp;''(+0)'' || 11&nbsp;''(+1)'' || 10&nbsp;''(+2)'' || 9&nbsp;''(+3)'' || 8&nbsp;''(+4)'' || 7&nbsp;''(+5)'' || 6&nbsp;''(+6)'' || 5&nbsp;''(+7)'' || 4&nbsp;''(+8)'' || 3&nbsp;''(+9)'' || 2&nbsp;''(+10)'' || 1&nbsp;''(+11)'' || no
+| '''12''' || 12&nbsp;''(+0)'' || 11&nbsp;''(+1)'' || 10&nbsp;''(+2)'' || 9&nbsp;''(+3)'' || 8&nbsp;''(+4)'' || 7&nbsp;''(+5)'' || 6&nbsp;''(+6)'' ||   5&nbsp;''(+7)'' || 4&nbsp;''(+8)'' || 3&nbsp;''(+9)'' || 2&nbsp;''(+10)'' || 1&nbsp;''(+11)'' ||   no
 |-
 |}
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
 Mechanized Ammo Rack capable of automatic loading.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 '''Overview'''
@@ -304,58 +294,51 @@ Vehicles with substantial composite armour: Most vehicles at and below the tier 
 Sniper medium tanks (mostly in AB): Other snipers are also a serious threat, since they compete for a complete domination over map with you, and they are exceptionally allergic to ATGM tanks with high missile speed, such as Shturm-S, so they will never stop trying to snipe you, until they finally do. They are the main reason for the AB rule "Make it physically impossible to snipe you from the side".
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Access to "Shturm" and "Ataka" ATGMs with a total of four different variants of missiles - HEAT, tandem HEAT, HE-frag, and proximity-fused HE-frag
-- Fast-flying, relatively easy to control missiles are great for long ranges and tricky shots alike
-- Very low profile - combined with good positioning, the vehicle can be invisible with only the launcher peeking over a hilltop or wall
-- Capable of travelling across water, although relatively slowly and with poor control
-- Can double as a SAM tank in AB, to a point it can single handedly dominate the sky and even protect the bombers from interceptors if fires immediately
+* Access to "Shturm" and "Ataka" ATGMs with a total of four different variants of missiles - HEAT, tandem HEAT, HE-frag, and proximity-fused HE-frag
+* Fast-flying, relatively easy to control missiles are great for long ranges and tricky shots alike
+* Very low profile - combined with good positioning, the vehicle can be invisible with only the launcher peeking over a hilltop or wall
+* Capable of travelling across water, although relatively slowly and with poor control
+* Can double as a SAM tank in AB, to a point it can single handedly dominate the sky and even protect the bombers from interceptors if fires immediately
 
 '''Cons:'''
 
-- Poor defence - the armour stops absolutely nothing but 7.62 mm MGs and may protect against 12.7 mm from a further range
-- Very vulnerable from the top, making it easy prey from the air - unless equipped with proximity HE ATGM (the last one available for unlock) for self-defence against air targets
-- Cannot change missile type mid-reload, nor after one is reloaded
-- Rearming is rather slow, and leaves you vulnerable
-- Relatively limited arc of fire; while the launcher can rotate quite a bit, either way, the guidance module sits at the front of the vehicle, and after firing at a target located to the sides of the vehicle, the missile will require some distance before flying straight - self-defence for close-range combat is difficult
-- Have to follow an extensive set of rules to be useful in AB
-- Missiles can be jammed, so although they are very useful even in rank VII, some enemies cannot be attacked directly
+* Poor defence - the armour stops absolutely nothing but 7.62 mm MGs and may protect against 12.7 mm from a further range
+* Very vulnerable from the top, making it easy prey from the air - unless equipped with proximity HE ATGM (the last one available for unlock) for self-defence against air targets
+* Cannot change missile type mid-reload, nor after one is reloaded
+* Rearming is rather slow, and leaves you vulnerable
+* Relatively limited arc of fire; while the launcher can rotate quite a bit, either way, the guidance module sits at the front of the vehicle, and after firing at a target located to the sides of the vehicle, the missile will require some distance before flying straight - self-defence for close-range combat is difficult
+* Have to follow an extensive set of rules to be useful in AB
+* Missiles can be jammed, so although they are very useful even in rank VII, some enemies cannot be attacked directly
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The MT-LB, also known as "Mnogotselevoy Tyagach Legky Bronirovanny" in Russian (which stands for "Multi-Purpose Towing Vehicle Light Armoured"), has been mass-produced since 1966. The vehicle was primarily used as an artillery tractor that acted as a means of transport of the gun crew and ammunition complements. However, as it happens with every well-designed platform, the carrier ultimately became a base for all kinds of armament sets. In the early 70s, the USSR began development of an anti-tank hypersonic missile system with a strike range of up to 5,000 metres for armoured targets. The system received the designation "Shturm" and was intended to be equipped on both air and ground units. In the end, it was the MT-LB that was chosen as the base for the former role. In 1979, the new ground combat vehicle was put into service under the designation 9P149 "Shturm-S".
 
 ''- From [[wt:en/news/6175-development-9p149-shturm-s-the-invisible-hunter-en|Devblog]]''
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_9p149 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_9p149 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|mF0d3bos75I|'''The Shooting Range #281''' - ''Round Study'' section at 08:34 compares the missiles of the {{PAGENAME}}.|kF1OmW7f1c8|'''The Shooting Range #154''' - ''Metal Beasts'' section at 00:39 discusses the Shturm-S.}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6175-development-9p149-shturm-s-the-invisible-hunter-en|[Devblog] 9P149 "Shturm-S": The Invisible Hunter]]
+* [[wt:en/news/6175-development-9p149-shturm-s-the-invisible-hunter-en|[Devblog] 9P149 "Shturm-S": The Invisible Hunter]]
 
 {{USSR tank destroyers}}

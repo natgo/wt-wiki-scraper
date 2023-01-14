@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian fighter {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]], but a variant existed in the [[C.200 serie 7 (Germany)|German tech tree]] prior to the update.
 
 [[File:FighterImage_MC200s7vsP36C.jpg|thumbnail|right|C. 200 vs [[P-36C|P-36C ''Hawk'']] over industrial zone in Ruhr.]]
@@ -20,7 +18,6 @@ The Macchi 200 is a standard fighter of the Italian air tree. It is moderately a
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -48,7 +45,7 @@ The Macchi 200 is a standard fighter of the Italian air tree. It is moderately a
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -79,11 +76,10 @@ The Macchi 200 is a standard fighter of the Italian air tree. It is moderately a
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- No armour
-- Self-sealing fuel tanks (1 underneath the machine guns, 1 underneath pilot and 1 behind pilot)
+* No armour
+* Self-sealing fuel tanks (1 underneath the machine guns, 1 underneath pilot and 1 behind pilot)
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -92,19 +88,15 @@ The Macchi 200 is a standard fighter of the Italian air tree. It is moderately a
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Breda-SAFAT (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 12.7 mm Breda-SAFAT machine guns, nose-mounted (370 rpg = 740 total)
+* 2 x 12.7 mm Breda-SAFAT machine guns, nose-mounted (370 rpg = 740 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 In general it is recommended to climb as much as you can before engaging, a good 3,000-4,000 m is important, for it can be used to get some extra speed once needed. For Combat, it can engage in a wide array of moves, the decent energy retention and high speeds it can attain, about 800 km/h, before it begins to red-line, means it can be used for Boom & Zoom, or to get away. Furthermore its a good turn-fighter, it out-turns a lot of planes it faces, exception being biplanes and Japanese aircraft. However take care, the engine is not the most powerful, and accelerating is problematic. So it is important to watch the speed carefully in combat. This becomes especially important as the engine is also quite prone to [[Thermodynamics|overheat]] when WEP is engaged, though it cools fairly quickly on 100%.
 
 For the armament, the same applies to all other Italian aircraft; generally you want to use "Omni-Purpose Belts", they have that kinetic energy that you deserve to kill enemy planes and the " I- Incendiary" shell that works better than the IAI in terms of setting enemy on fire due to the fact that IAI aren't well modelled in-game. Shell velocity is low, hence they suffer above 300 m, so only fire at or below that range for best effects. Furthermore, much like the other Italian fighters the armament is woefully inadequate to deal with bombers, hence it is best to avoid them entirely, or focus on taking out the engines. Only exception are the very early biplane bombers, such as [[Swordfish Mk I|Swordfish]], [[Po-2]] and the likes.
@@ -127,22 +119,20 @@ For the armament, the same applies to all other Italian aircraft; generally you 
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Very nimble
-- Can turn on-par/better than other monoplanes
-- Great visibility from cockpit
+* Very nimble
+* Can turn on-par/better than other monoplanes
+* Great visibility from cockpit
 
 '''Cons:'''
 
-- Sub-par weapons
-- Low top-speed
+* Sub-par weapons
+* Low top-speed
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -158,34 +148,28 @@ Modifications of the M.C.200 had no major changes in equipment. The M.C.200 seri
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=mc200_serie7_italy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=mc200_serie7_italy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
-- [[C.200 (Family)]]
+* [[C.200 (Family)]]
 
 ;Aircraft of comparable role, configuration and era
-
-- [[G.50 (Family)]]
+* [[G.50 (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wikipedia:Macchi_C.200|[Wikipedia] Macchi C.200]]
+* [[wikipedia:Macchi_C.200|[Wikipedia] Macchi C.200]]
 
 {{AirManufacturer Macchi}}
 {{Italy fighters}}

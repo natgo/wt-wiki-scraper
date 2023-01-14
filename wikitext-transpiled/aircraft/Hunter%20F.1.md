@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-rating}}. It was introduced in [[Update 1.53 "Firestorm"]].
 
 The Hawker Hunter is the iconic 1950s British swept-wing fighter. Produced from a requirement for a jet interceptor dating back to 1946 it fulfilled its role with outstanding success. Able to deliver a punishing blow with its four 30 mm ADEN cannons and manoeuvrability at high speed, it is a very capable jet. The F.1 follows the Vampire FB.1 and Venom FB.4 in the tree, providing an initial steep learning curve. Its calling card is sheer speed, with the Hunter able to go supersonic in dives once spaded.
@@ -19,7 +17,6 @@ The Hawker Hunter is the iconic 1950s British swept-wing fighter. Produced from 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 The Hawker Hunter is a transonic jet fighter, powered by the Rolls-Royce Avon Mk.113 engine. It is able to reach 1,109 km/h at sea level and 1,013 km/h at 9,000 m, very similar to the [[F-86 (Family)|F-86F]] series. It can reach 1.0 Mach in dive and be able to recover from it.
@@ -58,7 +55,7 @@ Reaching the maximum angle of attack will not make it start spinning immediately
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -124,11 +121,10 @@ Reaching the maximum angle of attack will not make it start spinning immediately
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 64 mm Bulletproof glass - Armoured windscreen
-- 12.7 mm Steel - Armour plate behind the pilot
+* 64 mm Bulletproof glass - Armoured windscreen
+* 12.7 mm Steel - Armour plate behind the pilot
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -137,19 +133,15 @@ Reaching the maximum angle of attack will not make it start spinning immediately
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|ADEN (30 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 30 mm ADEN cannons, chin-mounted (150 rpg = 600 total)
+* 4 x 30 mm ADEN cannons, chin-mounted (150 rpg = 600 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Hunter's main strengths are high top speed and good guns, making it a good Boom & Zoomer.
 
 The Hunter is less manoeuvrable than the F-86 and MiG-15 while being the second fastest with a good thrust-to-weight ratio. However, the rate of climb is significantly worse than the other jets and so it requires some side climbing. Stay fast at all times and never drop beneath 850 TAS (~800 km/h in air).
@@ -159,9 +151,7 @@ The 30 mm ADEN cannon is an extremely powerful cannon. Being a revolver cannon, 
 The armour-piercing rounds of the Hunter enable it to do some ground attack against light tanks, medium tanks, and pillboxes.
 
 ===Radars===
-
 <!--{{main|AN/APG-30}}-->
-
 The Hunter F.1 is equipped with an ARI.5820 rangefinding radar, located in the nose of the aircraft.
 It will automatically detect other planes within the scanning area and display the range to the closest target. It is linked with a gyro gunsight and can help with aiming at close range.
 
@@ -178,48 +168,44 @@ It will automatically detect other planes within the scanning area and display t
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Decent acceleration above 900 km/h
-- Large and effective air brake
-- Insanely good armament; four rapid-firing 30 mm ADEN cannons shred everything in a short burst
-- Very good energy retention; does not lock easily
-- Can out zoom climb [[MiG-17]]s and [[MiG-15bis]]
-- Can outrun most contemporary jets on your six if put into a 10° climb
-- Armament is capable of destroying tanks and light pillboxes
-- New boosters modification allows it to make deflection shots at high speeds
-- Very stable, makes aiming at any speed easy
+* Decent acceleration above 900 km/h
+* Large and effective air brake
+* Insanely good armament; four rapid-firing 30 mm ADEN cannons shred everything in a short burst
+* Very good energy retention; does not lock easily
+* Can out zoom climb [[MiG-17]]s and [[MiG-15bis]]
+* Can outrun most contemporary jets on your six if put into a 10° climb
+* Armament is capable of destroying tanks and light pillboxes
+* New boosters modification allows it to make deflection shots at high speeds
+* Very stable, makes aiming at any speed easy
 
 '''Cons:'''
 
-- Most jets in uptiers can out-speed, use afterburner, out-turn the Hunter, or rely on their air-to-air missiles
-- AAMs (even AIM-9Bs and R-3Ss) nullify your speed advantage and force the Hunter to bleed speed to avoid them
-- Nearly all supersonic jets will be very hard to face
-- Doesn't have air-to-air missiles
-- Worst jet in terms of 1 vs 1 due to the bad manoeuvrability; it will be left in desperation when the rest of the team is gone
-- Poor performance in horizontal turning; must rely on the speed advantage
-- Very large target, especially when turning
+* Most jets in uptiers can out-speed, use afterburner, out-turn the Hunter, or rely on their air-to-air missiles
+* AAMs (even AIM-9Bs and R-3Ss) nullify your speed advantage and force the Hunter to bleed speed to avoid them
+* Nearly all supersonic jets will be very hard to face
+* Doesn't have air-to-air missiles
+* Worst jet in terms of 1 vs 1 due to the bad manoeuvrability; it will be left in desperation when the rest of the team is gone
+* Poor performance in horizontal turning; must rely on the speed advantage
+* Very large target, especially when turning
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 In the aftermath of the second world war the Air Ministry issued Specification E.38/46 for a swept wing research aircraft that was fulfilled by a modified Hawker Sea Hawk (P.1052). The experimental aircraft showed an jump in high speed performance and as a result Hawker went forward to modify the second P.1052 into the P.1081. With a swept tail plane and the engine exhaust now located at the rear of the fuselage instead of the split exhaust further improving performance, it attracted the RAAF. The P.1081 gave Hawker useful information for the development of the Hunter.
 
 In 1946 the Air Ministry issued Specification F.43/46 that was later added to in 1948 by Specification F.3/48. This demanded a speed of 629 mph at 45,000 ft and a high rate of climb (as F.43/46 was for a jet powered interceptor), while carrying an armament of four 20 mm or two 30 mm cannons. Using what they had learnt from the P.1052 and P.1081 they produced the Prototype P.1067. The new prototype first flew with the Avon 103 engine in 1951 with a second powered by the Avon 107 in 1952.The Air Ministry ordered the Hunter into production in 1950 with the Avon 113 power plant. Thus the iconic Hawker Hunter was born.
 
-The first production or pre-production F.1s entered service in 1953. The first was WT556 that entered service with A&AEE on the 16th of July 1953 and a further 15 delivered the same year. The Early F.1's featured boosted control surfaces but not the under belly air brake. The armament consisted of four 30 mm ADEN cannons with 150 rpg at 1200 rpm located under the nose.
+The first production or pre-production F.1s entered service in 1953. The first was WT556 that entered service with  A&AEE on the 16th of July 1953 and a further 15 delivered the same year. The Early F.1's featured boosted control surfaces but not the under belly air brake. The armament consisted of four 30 mm ADEN cannons with 150 rpg at 1200 rpm located under the nose.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=hunter_f1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=hunter_f1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" caption="Hunter F.1 Devblog Images" heights="150">
@@ -236,31 +222,29 @@ File:FighterImage_HunterDev7.jpeg|
 {{Youtube-gallery|d5k2T9FP0bQ|'''Avoid them in frontal attack!''' discusses the {{PAGENAME}} at 3:35 - ''War Thunder Official Channel''|ifSt7zyLw8o|'''The Shooting Range #47''' - ''Pages of History'' section at 06:52 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
 
-- Hawker [[Sea_Hawk_FGA.6|Sea Hawk]]
+* Hawker [[Sea_Hawk_FGA.6|Sea Hawk]]
 
 ;Aircraft of comparable role, configuration and era
 
-- Dassault [[Super Mystere B2|Super Mystère]]
-- Mikoyan [[MiG-17]]
-- North American [[F-100D|F-100]] Super Sabre
-- North American [[FJ-4B]] Fury
+* Dassault [[Super Mystere B2|Super Mystère]]
+* Mikoyan [[MiG-17]]
+* North American [[F-100D|F-100]] Super Sabre
+* North American [[FJ-4B]] Fury
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/devblog/current/817|[Devblog] Yak-9B and Hawker Hunter F.1]]
-- [https://forum.warthunder.com/index.php?/topic/270176-hawker-hunter-f1/ Official data sheet - more details about the performance]
-- [http://forum.warthunder.com/index.php?/topic/144613-hawker-hunter-early-f1-discussion-thread/ Hawker Hunter F.1 forum thread]
+* [[wt:en/devblog/current/817|[Devblog] Yak-9B and Hawker Hunter F.1]]
+* [https://forum.warthunder.com/index.php?/topic/270176-hawker-hunter-f1/ Official data sheet - more details about the performance]
+* [http://forum.warthunder.com/index.php?/topic/144613-hawker-hunter-early-f1-discussion-thread/ Hawker Hunter F.1 forum thread]
 
 {{AirManufacturer Hawker}}
 {{Britain jet aircraft}}

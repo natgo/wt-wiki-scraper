@@ -13,9 +13,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
 The P-40E Kittyhawk is mainly used as a fighter, but can also be converted to a fighter-bomber with the option of adding bombs. The 6 x 12.7 mm Brownings make excellent air-to-ground combat weapons, with an excellent ammo count, but this can leave the Kittyhawk weak if doing constant manoeuvres for a firing position. The aircraft is designed as an all-round fighter, but any RB Kittyhawk flyer will tell you it is best at medium and lower altitudes (3,000 m is normally that middle altitude). This is because the engine's performance is poor at higher altitudes, unlike its successor, the [[P-51D-5|P-51]] and overall, the engine isn't the best at its tier: the aircraft's main asset is straight-line speed- it will easily outrun [[Bf 109 E-3|E-3s]] (though not outclimb) and the [[A6M2|A6M2 Zero]]. Head-ons are somewhat advisable against lightly/unarmoured targets, such as the Zero, but otherwise, the best attack plan is to use the straight speed to catch, then energy-save-climb a few hundred metres and then dive onto the opponent before running again.
@@ -25,7 +23,6 @@ Although it can be used as a fighter-bomber, it is recommended to not use bombs 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -53,7 +50,7 @@ Although it can be used as a fighter-bomber, it is recommended to not use bombs 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -84,13 +81,12 @@ Although it can be used as a fighter-bomber, it is recommended to not use bombs 
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 38 mm Bulletproof glass to the front
-- 9.5 mm Steel plate in front
-- 8 mm Steel plate in the pilot's back
-- 6.35 mm Steel plate flaps attached to the rear
+* 38 mm Bulletproof glass to the front
+* 9.5 mm Steel plate in front
+* 8 mm Steel plate in the pilot's back
+* 6.35 mm Steel plate flaps attached to the rear
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -99,32 +95,26 @@ Although it can be used as a fighter-bomber, it is recommended to not use bombs 
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 6 x 12.7 mm M2 Browning machine guns, wing-mounted (312 rpg outer + 291 rpg middle + 240 rpg inner = 1,686 total)
+* 6 x 12.7 mm M2 Browning machine guns, wing-mounted (312 rpg outer + 291 rpg middle + 240 rpg inner = 1,686 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|FAB-100sv (100 kg)|FAB-250sv (250 kg)|FAB-500sv (500 kg)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 1 x 500 kg FAB-500sv bomb (500 kg total)
-- 1 x 250 kg FAB-250sv bomb + 2 x 100 kg FAB-100sv bombs (450 kg total)
+* Without load
+* 1 x 500 kg FAB-500sv bomb (500 kg total)
+* 1 x 250 kg FAB-250sv bomb + 2 x 100 kg FAB-100sv bombs (450 kg total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 '''Air RB'''
 
 The P-40 is good at low altitude and turn-fights. Compared to planes like Bf 109s that it faces, e.g. the [[Bf 109 E-3|E-3s]], [[Bf 109 F-4|F-4s]] and [[Bf 109 G-2|G-2s]], these aircraft can't keep up in a turn but are overall faster. The speed of this aircraft, 560 km/h makes it pretty fast for its tier and battle rating, however, this is only applied at lower altitudes. An important point to remember is that this aircraft cannot perform above 5,000 m. While it can eventually reach 9,555 m, it is all but useless at this altitude, since any aircraft it would typically meet at that height would have superior engines that work best at these altitudes.
@@ -158,19 +148,17 @@ Using the test-flight arena is a great way to hone your bombing and .50 cal aimi
 Note that in SB, the P-40 will wobble a lot (sideways mainly) so you must get used to smoothing the plane down in order to hit ground targets.
 
 ====Specific enemies worth noting====
-
 <!--Some concerning vehicles to worry about if playing this plane. (i.e. Japanese fighters will out turn you)-->
-
 Some concerning fighters the P-40E-1 has to watch out for are the:
 
-- Bf 109s: [[Bf 109 E-3|Emil]], [[Bf 109 F-4|Friedrich]]
-- [[A6M2]]
-- [[Yak-1B]]/[[Yak-7B]]
-- [[Spitfire Mk IIb]], [[Spitfire Mk Vb/trop|Mk Vb]]
+* Bf 109s: [[Bf 109 E-3|Emil]], [[Bf 109 F-4|Friedrich]]
+* [[A6M2]]
+* [[Yak-1B]]/[[Yak-7B]]
+* [[Spitfire Mk IIb]], [[Spitfire Mk Vb/trop|Mk Vb]]
 
 '''Against the Bf 109:'''
 
-\*Turn-fighting, since the Bf 109s beyond F models can't turn so well, especially at higher speed- if your opponent does lose their energy advantage, you can then catch and destroy them in a turn-fight.
+*Turn-fighting, since the Bf 109s beyond F models can't turn so well, especially at higher speed- if your opponent does lose their energy advantage, you can then catch and destroy them in a turn-fight.
 
 '''Against the A6M:'''
 
@@ -179,15 +167,15 @@ Some concerning fighters the P-40E-1 has to watch out for are the:
 
 '''Against the Yak-1/7:'''
 
-\*Turn-fighting is recommended as a last resort, especially with the Yak-1B's superior handling and turn-radius. You will not be able to outrun a Yak and head-ons are not advised due to the Yak's nose weapons. Try and get a friend to assist you, without losing speed- avoid engaging and losing speed, otherwise, the Yak will catch you. If you are in a squad, stick together and use the scissor-baiting method, until an opponent locks onto one of you, then you can destroy it. Boom and zoom should be used, but the circumstances often don't arise.
+*Turn-fighting is recommended as a last resort, especially with the Yak-1B's superior handling and turn-radius. You will not be able to outrun a Yak and head-ons are not advised due to the Yak's nose weapons. Try and get a friend to assist you, without losing speed- avoid engaging and losing speed, otherwise, the Yak will catch you. If you are in a squad, stick together and use the scissor-baiting method, until an opponent locks onto one of you, then you can destroy it. Boom and zoom should be used, but the circumstances often don't arise.
 
 '''Against Spitfires:'''
 
-\*Try to Boom and Zoom, if given the position to do so. In a straight line ,the P-40 will outrun a Spitfire at lower altitudes, but not outclimb it. The performance of the Spitfire makes it a difficult enemy, only turnfight with it at high speed. Wingmen or more teammates is the optimal solution, strength in numbers.
+*Try to Boom and Zoom, if given the position to do so. In a straight line ,the P-40 will outrun a Spitfire at lower altitudes, but not outclimb it. The performance of the Spitfire makes it a difficult enemy, only turnfight with it at high speed. Wingmen or more teammates is the optimal solution, strength in numbers.
 
 '''Against the [[H6K4]]/[[B18A]]'''
 
-- These bombers all have fairly deadly defensive guns. The H6K has a powerful 20 mm cannon facing backwards, so avoid tailing it from its six unless its gunner is unconscious. Engage from its sides or high six and aim for its wings. Your 6 x 12.7 mm MG will destroy its wing structures easily or set it aflame. For the B18, their 13.2 mm MG will easily snap the P-40's wing off with a short burst so avoid attacking them from behind. Utilise deflection shooting against them, to give their gunners little chance of targeting you.
+* These bombers all have fairly deadly defensive guns. The H6K has a powerful 20 mm cannon facing backwards, so avoid tailing it from its six unless its gunner is unconscious. Engage from its sides or high six and aim for its wings. Your 6 x 12.7 mm MG will destroy its wing structures easily or set it aflame. For the B18, their 13.2 mm MG will easily snap the P-40's wing off with a short burst so avoid attacking them from behind. Utilise deflection shooting against them, to give their gunners little chance of targeting you.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -207,31 +195,28 @@ Some concerning fighters the P-40E-1 has to watch out for are the:
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Decent roll rate
-- Good armament
-- Good flat out speed
-- Very good dive speed (throttle to 0% or face control surface compression)
-- Overall good plane
-- Can take substantial damage
+* Decent roll rate
+* Good armament
+* Good flat out speed
+* Very good dive speed (throttle to 0% or face control surface compression)
+* Overall good plane
+* Can take substantial damage
 
 '''Cons:'''
 
-- Poor climb rate
-- Relatively poor turn time
-- Due to lack of two-stage supercharger high altitude performance suffers
-- Overall slow for its rank
-- Rather unstable in pitch axis in SB
-- Extremely bad visibility over the nose in SB
+* Poor climb rate
+* Relatively poor turn time
+* Due to lack of two-stage supercharger high altitude performance suffers
+* Overall slow for its rank
+* Rather unstable in pitch axis in SB
+* Extremely bad visibility over the nose in SB
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The P-40 was born in 1938 when Curtiss realized the need for a replacement to the P-36. The P-36 was a formidable aircraft, but top speeds of newer fighter designs were quickly passing it. Donovan Berlin a former Northrop engineer who was employed by Curtiss went to work on the redesign of the Hawk. The radial engine was replaced with a turbo-supercharged version of the Allison V-1710 inline engine. The cockpit was moved to offset the weight of the new engine. This delivered a performance boost and higher top speeds when tested. The Army ordered thirteen versions of this prototype built for additional testing. Unfortunately, the experimental turbo-supercharged engine was unreliable and poor visibility from the cockpit forced the project to be abandoned.
 
 The next attempt at design was a simpler one. Berlin recognized the U.S. Army believed they only needed a fighter effective to only 15,000 ft. The aircraft's engine was replaced with a simpler super charged Allison engine and was designated XP-40. The new prototype first flew on October 14, 1938. The aircraft flew and looked good but various adjustments were quickly made. These included moving the radiator and a more powerful version of the Allison V-1710. The XP-40 was quickly recognized for its good handling and dive speeds.
@@ -269,39 +254,35 @@ Deliveries of P-40s to the USSR ceased in December 1944. A combined total of 1,8
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=p-40e_ussr Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=p-40e_ussr Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
 
-- Curtiss [[P-36 (Family)|P-36]] Hawk
-- Curtiss [[P-40 (Family)]]
+* Curtiss [[P-36 (Family)|P-36]] Hawk
+* Curtiss [[P-40 (Family)]]
 
 ;Aircraft of comparable role, configuration and era
 
-- Bell [[P-39 (Family)|P-39]] Airacobra
-- Grumman [[F4F (Family)|F4F]] Wildcat
-- Hawker [[Hurricane (Family)|Hurricane]]
+* Bell [[P-39 (Family)|P-39]] Airacobra
+* Grumman [[F4F (Family)|F4F]] Wildcat
+* Hawker [[Hurricane (Family)|Hurricane]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.ru/index.php?/topic/206120-p-40e/ Official data sheet - more details about the performance (Russian Forum)]
-- [[wikipedia:Curtiss_P-40_Warhawk|[Wikipedia] Curtiss P-40 Warhawk]]
-- http://ww2db.com/aircraft_spec.php?aircraft_model_id=36
+* [https://forum.warthunder.ru/index.php?/topic/206120-p-40e/ Official data sheet - more details about the performance (Russian Forum)]
+* [[wikipedia:Curtiss_P-40_Warhawk|[Wikipedia] Curtiss P-40 Warhawk]]
+* http://ww2db.com/aircraft_spec.php?aircraft_model_id=36
 
 {{AirManufacturer Curtiss}}
 {{USSR fighters}}

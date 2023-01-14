@@ -8,14 +8,12 @@
 }}
 {{Specs-Card
 |code=sb2u-3
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |cockpit=cockpit_sb2u-3.jpg
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} American dive bomber {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]].
 
 The SB2U was developed in the early 1930s and although considered obsolete at the outbreak of World War II, it still remained in service through the Battle of Midway, however in 1943 it was withdrawn into training units and replaced by more advanced aircraft. This aircraft featured a constant-speed propeller which was intended to be utilized as a dive brake while performing dive bombing attack manoeuvres. There were three hard points for bombs to be attached, one 250 lb bomb under each wing and a single 500 or 1,000 lb bomb mounted onto a pylon under the fuselage. The larger bomb was also attached to what was called a "trapeze", a device which would when the bomb was released, swing the bomb clear of the propeller arc.
@@ -23,7 +21,6 @@ The SB2U was developed in the early 1930s and although considered obsolete at th
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -51,7 +48,7 @@ The SB2U was developed in the early 1930s and although considered obsolete at th
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || X || ✓ || X || ✓ <!-- ✓ -->
+| X || X || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -96,13 +93,12 @@ The SB2U was developed in the early 1930s and although considered obsolete at th
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 3 mm Steel boxes behind the gunner
-- No armour glazing
-- Critical components located at front of aircraft (fuel, pilot, engine, controls)
-- Self-sealing fuel tanks (1 behind pilot)
+* 3 mm Steel boxes behind the gunner
+* No armour glazing
+* Critical components located at front of aircraft (fuel, pilot, engine, controls)
+* Self-sealing fuel tanks (1 behind pilot)
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -111,44 +107,36 @@ The SB2U was developed in the early 1930s and although considered obsolete at th
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 4 x 12.7 mm M2 Browning machine guns, wing-mounted (400 rpg = 1,600 total)
+* 4 x 12.7 mm M2 Browning machine guns, wing-mounted (400 rpg = 1,600 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|AN-M30A1 (100 lb)|AN-M57 (250 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|Type A Mark I mine}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 1 x 500 lb AN-M64A1 bomb + 2 x 100 lb AN-M30A1 bombs (700 lb total)
-- 1 x 500 lb AN-M64A1 bomb + 2 x 250 lb AN-M57 bombs (1,000 lb total)
-- 1 x 1,000 lb AN-M65A1 bomb (1,000 lb total)
-- 1 x Type A Mark I mine
+* 1 x 500 lb AN-M64A1 bomb + 2 x 100 lb AN-M30A1 bombs (700 lb total)
+* 1 x 500 lb AN-M64A1 bomb + 2 x 250 lb AN-M57 bombs (1,000 lb total)
+* 1 x 1,000 lb AN-M65A1 bomb (1,000 lb total)
+* 1 x Type A Mark I mine
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
-
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-
 {{main|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-- 1 x 12.7 mm M2 Browning machine gun, dorsal turret (315 rpg)
+* 1 x 12.7 mm M2 Browning machine gun, dorsal turret (315 rpg)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The SB2U-3 is a carrier based dive bomber. This aircraft is a fairly slow aircraft, but sturdy. Built as a dive-bomber, it excels at diving down above a target to release its bombs. The SB2U is one of the only early aircraft in War Thunder which features dive flaps (h) to aid in retarding the build up of speed during a dive, helping prevent ripping off of wings in RB and SB. Wing mounted machine guns allow for this aircraft to strafe softer ground or water targets while waiting for bombs to reload (AB). Rear facing dorsal gunner helps to ward off enemy attackers, however it is not a game changer for this aircraft.
 
 The SB2U is a slow aircraft which leads it to having two options, first is to hug the terrain. While flying to your target of choice (AAA sites, AA Vehicles or bases), fly along the terrain, utilize what hills and valleys there are to fly through. Time on target may be limited before the enemy gets there so line up your bombing run and drop bombs. This aircraft can manoeuvre fairly well, utilizing elevator and rudder controls, you can quickly flip this aircraft around and return to ground attacking targets you just flew over.
@@ -179,25 +167,23 @@ The SB2U is a slow aircraft, however it is manoeuvrable. Due to the large surfac
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Manoeuvrable
-- Dual role dive bomber/attacker
-- Good diver
-- Armament of four .50 cal machine guns give it good frontal firepower
+* Manoeuvrable
+* Dual role dive bomber/attacker
+* Good diver
+* Armament of four .50 cal machine guns give it good frontal firepower
 
 '''Cons:'''
 
-- Large target
-- Slow speed
-- Weak defensive weapons
-- Small payload
+* Large target
+* Slow speed
+* Weak defensive weapons
+* Small payload
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The mid-1930s was an exciting time of military aircraft development. As is with technological changes, designers, developers and engineers look for ways to eke out as much power, speed or even damage infliction as possible. Aircraft which imbue the best of these qualities are typically the ones which get contracts with the military.
@@ -211,12 +197,11 @@ In 1938, the U.S. Navy submitted an order to add to their growing collection of 
 Later in 1939, the United States Marine Corps placed an order for SB2U-3 aircraft. Their needs were a little different than the Navy's needs, so their aircraft required upgrades. Intended to be a long-range scout bomber, this version of the aircraft was outfitted with integral wing fuel tanks to allow for farther range and had the aircraft's tail increased in size to increase aircraft manoeuvrability when using the rudder. A total of 57 SB2U-3 Vindicators were built, and many saw combat in the Battle of Midway.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=sb2u-3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=sb2u-3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|Ze0dEvB77fE|'''Best Combo #3''' discusses the {{PAGENAME}} at 0:38 - ''War Thunder Official Channel''}}
@@ -224,16 +209,15 @@ Later in 1939, the United States Marine Corps placed an order for SB2U-3 aircraf
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the aircraft;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-
 <!--''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.''-->
 
-- [https://forum.warthunder.com/index.php?/topic/392578-sb2u-v-156/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/392578-sb2u-v-156/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Vought}}
 {{USA bombers}}

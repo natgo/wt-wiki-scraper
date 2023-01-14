@@ -5,19 +5,16 @@
 }}
 {{Specs-Card
 |code=ki-27_otsu_ep
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Japanese fighter {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -45,7 +42,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Japanese fighter {{Bat
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || X || ✓ || X || X <!-- ✓ -->
+| X || X || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -76,9 +73,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Japanese fighter {{Bat
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 The Ki-27 does not have any armour or self-sealing fuel tanks. There is one fuel tank located above and behind the oil cooling system, and the rest in the wings (2 in each wing).
 
 === Modifications and economy ===
@@ -88,19 +83,15 @@ The Ki-27 does not have any armour or self-sealing fuel tanks. There is one fuel
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Type 89 (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 7.7 mm Type 89 machine guns, nose-mounted (500 rpg = 1,000 total)
+* 2 x 7.7 mm Type 89 machine guns, nose-mounted (500 rpg = 1,000 total)
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 A superior dogfighter for turn-fighting, the Ki-27 is the first plane to begin showing the features typical of the Japanese [[A6M (Family)|"Zero"]] but with none of the bite. Its speed and manoeuvrability are plagued by engine problems, with no armour and a standard armament.
 
 In battle, no Allied fighter can out-turn you, except for biplanes, but most will outgun you (and even most biplanes match the Ki-27 in armament).
@@ -131,27 +122,24 @@ From America, you will face the [[P-26 (Family)|P-26]]. They are quite good dive
 |}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Great manoeuvrability, on par with biplanes
-- Good stability in turns
-- Good speed, for its tier
-- Excellent climb, can reach above 20 m/s
+* Great manoeuvrability, on par with biplanes
+* Good stability in turns
+* Good speed, for its tier
+* Excellent climb, can reach above 20 m/s
 
 '''Cons:'''
 
-- Limited firepower
-- Engine overheats rapidly on hot maps
-- Engine chokes in negative g dives
-- No armour
+* Limited firepower
+* Engine overheats rapidly on hot maps
+* Engine chokes in negative g dives
+* No armour
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 The Nakajima Ki-27 otsu began as the Ki-11, a competitor for the [[Ki-10-I|Kawasaki Ki-10]] biplane. While faster and more modern than the Ki-10 biplane, the Ki-11 wasn't adopted because the Imperial Japanese Army valued manoeuvrability over speed. Nakajima continued development of the design before finalising the Ki-12, a modern monoplane with a liquid-cooled engine and retractable landing gear, but the Army denied it outright as too maintenance heavy for forward airbases in Manchuria and China. The redesigned plane instead featured a radial air-cooled engine, fixed landing gear and fully enclosed cockpit and received the designation Ki-27.
 
@@ -183,31 +171,26 @@ The Museum has a restored Ki-27 on display, which crashed in 1945 into the bay o
 Next to the Ki-27, there's another plane on display outside the Museum, a T-33 training jet derived from the [[F-80A-5|Lockheed F-80]]
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ki-27_otsu_ep Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
-- Skins and camouflages for the [[Ki-27 otsu#Media|Ki-27 otsu]] can also be used for the {{PAGENAME}}.
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ki-27_otsu_ep Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* Skins and camouflages for the [[Ki-27 otsu#Media|Ki-27 otsu]] can also be used for the {{PAGENAME}}.
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
-- [[Ki-27 (Family)]]
+* [[Ki-27 (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [https://forum.warthunder.com/index.php?/topic/202077-nakajima-ki-27-otsu/ Official data sheet - more details about the performance]
+* [https://forum.warthunder.com/index.php?/topic/202077-nakajima-ki-27-otsu/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Nakajima}}
 {{Japan fighters}}

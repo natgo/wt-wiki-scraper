@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' (NATO: Fantan) is a rank {{Specs|rank}} Chinese strike aircraft {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]].
 
 One of the latest revisions of the Q-5 series in the PLAAF, the Q-5L will prove deadly to ground targets with its sufficient payload and updates to its avionics and new sensors for ground attacks, as well as new precision bombs.
@@ -19,9 +17,7 @@ One of the latest revisions of the Q-5 series in the PLAAF, the Q-5L will prove 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 For players who have flown the Q-5 series, Q-5L still retains the same flight performance - although sharing many parts with the [[J-6A]], due to the lack of weight-reduction measures, Q-5s are in fact structurally overweight; while it has better sustained turn to heavier jets such as Phantoms thanks to its engines, do note that the weight issue still haunts the jet. Beware of any targets that have higher manoeuvrability, although your higher speed might save you from subsonic jets, any supersonic jets will have no problem chasing a Q-5L. Another note is that the Q-5L still retains the same control surface lock-up at transonic speeds (>850 km/h and before hitting Mach 1.0), use the airbrakes according to the situation for both regaining control or "snap-shots" on enemy targets.
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -49,7 +45,7 @@ For players who have flown the Q-5 series, Q-5L still retains the same flight pe
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || ✓ || X || ✓ <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -115,15 +111,14 @@ For players who have flown the Q-5 series, Q-5L still retains the same flight pe
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-- 10 mm steel plate behind nose cone
-- 4.5 + 8 mm bulletproof glass in front of the cockpit
-- 8 mm steel plate underneath cockpit
-- 16 mm steel armoured pilot's seat
-- 10 + 25 mm steel armoured pilot's headrest
-- Self-sealing fuel tanks behind cockpit and underneath engines in rear fuselage
+* 10 mm steel plate behind nose cone
+* 4.5 + 8 mm bulletproof glass in front of the cockpit
+* 8 mm steel plate underneath cockpit
+* 16 mm steel armoured pilot's seat
+* 10 + 25 mm steel armoured pilot's headrest
+* Self-sealing fuel tanks behind cockpit and underneath engines in rear fuselage
 
 The Q-5L shares the same protection as its predecessors. Due to the need for ground attack and some protection for the pilot, the cockpit is enclosed by steel plates and comes with bulletproof glass. While this might not be sufficient against any autocannons at the rank, it could at least make sure the pilot will not be knocked out right away by incoming shots or shrapnel. The engines are still unprotected, but the installation of fire suppression systems allows the Q-5L to have greater odds to survive a fire onboard.
 
@@ -143,32 +138,28 @@ The Q-5L shares the same protection as its predecessors. Due to the need for gro
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|Type 23-2K (23 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 2 x 23 mm Type 23-2K cannons, wing-mounted (120 rpg = 240 total)
+* 2 x 23 mm Type 23-2K cannons, wing-mounted (120 rpg = 240 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|250-3 (250 kg)|500-3 (500 kg)|TS250 (260 kg)|LS-500J (570 kg)}}
 {{main|Type 90-1|Type 130-2}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 28 x Type 90-1 rockets
-- 16 x Type 130-2 rockets
-- 2 x 260 kg TS250 bombs (520 kg total)
-- 2 x 570 kg LS-500J bombs (1,140 kg total)
-- 8 x 250 kg 250-3 bombs (2,000 kg total)
-- 2 x 500 kg 500-3 bombs (1,000 kg total)
+* Without load
+* 28 x Type 90-1 rockets
+* 16 x Type 130-2 rockets
+* 2 x 260 kg TS250 bombs (520 kg total)
+* 2 x 570 kg LS-500J bombs (1,140 kg total)
+* 8 x 250 kg 250-3 bombs (2,000 kg total)
+* 2 x 500 kg 500-3 bombs (1,000 kg total)
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -207,9 +198,7 @@ Thanks to the technological advances of the early 2000s, the Q-5L also receives 
 For players that feel that bombs are not their cup of tea, there are still options for 90 mm and 130 mm rockets at their disposal; while both of them can be guided by ballistic computer as well, do note that they don't have as many salvoes as their NATO/Warsaw Pact counterparts, so aim carefully before firing upon light targets or careless MBTs, taking them out using the high penetration HEAT warheads of the 90-1 or the explosive mass of the 130-2 rockets.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Q-5L shares many similar features to previous Fantans: the same bulky MiG-19/J-6-based airframe with high acceleration. While there are some changes to the avionics and weapons, in most scenarios Q-5L flies like all the other Fantans.
 
 ==== Not-so Fighter ====
@@ -223,30 +212,27 @@ While players might not have a good time in aerial combat, the Q-5L brings in a 
 However, even before any LGBs have been researched, the Q-5L still has a range of unguided ordnance including GP bombs and rocket pods; the ballistic computer onboard can make sure the ordnance lands as close as possible to the designated target. Leave the bombs for (groups of) tanks, and use the rockets against light vehicles or enemy SPAA who aren't aware of your existence.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- New HUD with ballistic computer
-- Built-in TVD camera for target acquisition; alternatively equipped with an advanced targeting pod
-- Access to 250/500 kg laser-guided bombs
-- Sufficient manoeuvrability at around 700 km/h
-- Great acceleration thanks to the WP-6-IIIA engines
-- Access to RWR
+* New HUD with ballistic computer
+* Built-in TVD camera for target acquisition; alternatively equipped with an advanced targeting pod
+* Access to 250/500 kg laser-guided bombs
+* Sufficient manoeuvrability at around 700 km/h
+* Great acceleration thanks to the WP-6-IIIA engines
+* Access to RWR
 
 '''Cons:'''
 
-- Same bulky airframe as all its predecessors and still locks up at transonic speeds
-- The built-in camera only has 1.5x magnification and limited rotation range
-- Lacks any type of AAM and countermeasures, unlike its technological predecessor [[A-5C]]
-- Type 23-2K cannons needs extra practice against aerial targets
-- Subpar payload to its NATO/Warsaw Pact counterparts
+* Same bulky airframe as all its predecessors and still locks up at transonic speeds
+* The built-in camera only has 1.5x magnification and limited rotation range
+* Lacks any type of AAM and countermeasures, unlike its technological predecessor [[A-5C]]
+* Type 23-2K cannons needs extra practice against aerial targets
+* Subpar payload to its NATO/Warsaw Pact counterparts
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The Q-5L variant of the Q-5 family traces back to two other variants, the Q-5E/F, in the late 1990s.
 
 As part of the efforts to develop domestic precision munitions against enemies' infrastructure inspired by the USAF's AGM-62 and GBU-12 bombs in the Vietnam War and Gulf War, the PLAAF accelerated the development of LGBs in December 1996 with a plan for the precision munitions where either a single jet would carry both the targeting pod and the bombs for an attack run, or it would be guided by another Q-5/ground-based designators; both Factory 612 and 613 in Shaanxi started their respective development on an LGB and the targeting pod. A few brand-new Q-5Ds were then modified into Q-5E and Q-5F as the carrier and designator respectively, where Q-5F would guide the bombs dropped from Q-5E onto the target. Although both jets passed for certification in the early 2000s, it was deemed that 2 separated jets for a run wasn't viable and the project was ditched.
@@ -254,26 +240,23 @@ As part of the efforts to develop domestic precision munitions against enemies' 
 In the mid-1990s, after the previous projects of A-5M and A-5K were canceled by the 1989 Crackdown, the PLAAF requested for a domestic digital upgrade for later batches of Q-5III and Q-5D with new HUD and sensors for precision assaults, as well as as the placeholder before the XAC JH-7 Feibao (NATO: Flounder) entered mass-production. Those jets which were modified from the Q-5III were designated Q-5L with new antennas and stabilized opto-electronic camera in the nose for target acquisition, as well as the capability of carrying the targeting pod on its own for attack runs. With the older avionics replaced with more advanced ones, the new jet entered service in 2005 alongside Q-5Ns that were modified from the Q-5D and served as the economical alternatives to new jets before they were eventually replaced by fighters with multirole features such as J-10A, Feibao, and Flankers in 2017. <ref>PP.77-82, ''The Rising East Wind- The Biography of Q-5 Attacker'' by Lao Bi and Liu Ming, NAAS & Inertial Technology, ISSN 1009-5497, 2014</ref>
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Videos
 {{Youtube-gallery|Gy87KuguGJA|'''The Shooting Range #329''' - ''Metal Beasts'' section at 00:26 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[Q-5 (Family)|Q-5 (NATO: Fantan) Family]]
 
-- [[Q-5 early]]- LRIP of Q-5
-- [[Q-5A]]- Base model of Q-5s
-- [[A-5C]]- Export model of Q-5 and the technological predecessor of Q-5L
+* [[Q-5 early]]- LRIP of Q-5
+* [[Q-5A]]- Base model of Q-5s
+* [[A-5C]]- Export model of Q-5 and the technological predecessor of Q-5L
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->

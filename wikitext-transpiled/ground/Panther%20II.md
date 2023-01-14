@@ -8,13 +8,11 @@
 }}
 {{Specs-Card
 |code=germ_panther_II
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 172''') is a rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before [[Update 1.41]] as a main tree vehicle, however, in [[Update 1.91 "Night Vision"]] it was shifted to become a gift vehicle for players who previously owned it.
 
 The Panther II comes with the "Fahrgerät" FG1250 IR night vision equipment, which had seen limited service. The driver of the tank also gets an IR vision.
@@ -22,13 +20,12 @@ The Panther II comes with the "Fahrgerät" FG1250 IR night vision equipment, whi
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
 
-- Rolled homogeneous armour
-- Cast homogeneous armour (Gun mantlet, Cupola)
+* Rolled homogeneous armour
+* Cast homogeneous armour (Gun mantlet, Cupola)
 
 {| class="wikitable"
 |-
@@ -43,15 +40,14 @@ The Panther II comes with the "Fahrgerät" FG1250 IR night vision equipment, whi
 |}
 '''Notes:'''
 
-- Suspension wheels, tracks and torsion bars are 20 mm thick.
-- Side skirts are 5 mm thick and act as additional protection against explosive warhead
-- Part of the hull is covered by tracks, adding additional 20 mm of armour
+* Suspension wheels, tracks and torsion bars are 20 mm thick.
+* Side skirts are 5 mm thick and act as additional protection against explosive warhead
+* Part of the hull is covered by tracks, adding additional 20 mm of armour
 
 The armour on this variant has better frontal and side armour than the [[Panther F]], which will protect you against the weaker guns at this BR but it won't hold up when facing higher calibre guns such as the [[M3 (90 mm)]], [[D-25T (122 mm)]] and [[20pdr OQF Mk.I (84 mm)]] that you will likely meet at this rank. The best tactic to survive is to not get hit by an enemy attacker, as the crew is quite cramped and will typically be disabled with one well-placed shot. Also, the Panther II can angle its hull slightly more, unlike the other Panthers, which can provide greater protection.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=1,395|rbMinHp=796}}
@@ -65,9 +61,7 @@ As with all Panthers, this tank has excellent mobility both on and off road. One
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|KwK43 (88 mm)}}
 
 The Panther II boasts the excellent 88 mm KwK43 with its notably punchy PzGr 39/43 shell, with a reload speed comparable to that of the [[Tiger II (P)|Tiger II]]. Thus, it represents a threat for every tank on the battlefield, even at long ranges. Its rather poor gun handling, however (7.1°/s turret rotation on a stock tank with a level 1 crew) means close-quarters engagements and particularly urban combat should be avoided if possible. This can be somewhat remedied by its ability to neutral steer to acquire a firing solution faster. The optimal ammo loadout is 15 rounds, since it eliminates the ammo racks at the sides of the hull, while still providing a decent quantity of ammunition. It is not recommended to load anything other than PzGr 39/43 shells since it can readily knock out most opponents and it provides consistent ballistic characteristics, while still maintaining a fairly good penetration against sloped armour.
@@ -133,9 +127,7 @@ The Panther II boasts the excellent 88 mm KwK43 with its notably punchy PzGr 39/
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 2.23.0.42''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -153,17 +145,15 @@ The Panther II boasts the excellent 88 mm KwK43 with its notably punchy PzGr 39/
 |}
 '''Notes''':
 
-- Shells are modelled individually.
-- Racks 6 and 7 are first stage ammo racks. They total 10 shells and get filled first when loading up the tank.
-- These racks are also emptied early: the rack depletion order at full capacity is: 6 - 7 - 1 until 5.
-- Simply not firing when the gun is loaded will move ammo from racks 1-5 into racks 7 then 6. Firing will interrupt the restocking of the ready racks.
-- Packing 19&nbsp;''(+31)'' shells will keep the sides of the hull empty.
+* Shells are modelled individually.
+* Racks 6 and 7 are first stage ammo racks. They total 10 shells and get filled first when loading up the tank.
+* These racks are also emptied early: the rack depletion order at full capacity is: 6 - 7 - 1 until 5.
+* Simply not firing when the gun is loaded will move ammo from racks 1-5 into racks 7 then 6. Firing will interrupt the restocking of the ready racks.
+* Packing 19&nbsp;''(+31)'' shells will keep the sides of the hull empty.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|MG34 (7.92 mm)}}
 
 The Panther II's coaxial 7.92 mm MG 34 is rather anaemic, and thus, not very versatile. It won't pose much of a threat to any vehicle that doesn't have exposed crew members, and it won't do much damage to aircraft. It can, however, be used to highlight enemy vehicles to friendlies, but it comes with the risk of alerting enemies of an enemy vehicle.
@@ -179,9 +169,7 @@ The Panther II's coaxial 7.92 mm MG 34 is rather anaemic, and thus, not very ver
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The Panther II is a medium tank that performs in many roles. With its powerful gun, it can very effectively take out opponents at its battle rating at both close and long ranges. The turret traverse is slow, which makes close-quarters engagements and urban combat difficult. But, this can be made up for by careful positioning and the use of the tank's neutral steering. The gun has a fairly standard gun depression and a good reload. All in all, the Panther II's armament is decent.
 
 The Panther II is also armed with a 7.92 mm machine gun. This won't do much damage to any enemies except those with exposed crew members. And, it won't do much damage to enemy aircraft. However, it is still useful for spotting enemies and notifying teammates of their presence.
@@ -193,35 +181,32 @@ As for armour, the Panther II's protection is the same as that of the [[Panther 
 The Panther II is a classic medium tank. While it doesn't excel in any one role, it performs well in many. It can snipe, brawl, or do practically anything in between. When the tank's weaknesses are understood, it can be used to great effect to destroy the enemy.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Armed with the impressive KwK43 gun that's great for the BR thanks to the very high accuracy, velocity and rate of fire
-- The default APCBC shell has fantastic penetration, and damage potential at all ranges
-- The gunner has a really nice set of optics that provides 2.5x-6x of magnification. Great for quick target acquisition at close range, while still being great for long range sniping
-- The Panther II's speed and manoeuvrability is almost as good as the Leopard 1's
-- Much better frontal armour than the other Panthers. When properly angled, the upper plate is basically immune to anything that isn't packing 250 mm of penetration
-- Unlike the other Panthers, this tank actually has a really nice reverse speed
-- The gun mantlet is not that large, but it is very tough
-- One of the few tanks at this BR that can use night vision
+* Armed with the impressive KwK43 gun that's great for the BR thanks to the very high accuracy, velocity and rate of fire
+* The default APCBC shell has fantastic penetration, and damage potential at all ranges
+* The gunner has a really nice set of optics that provides 2.5x-6x of magnification. Great for quick target acquisition at close range, while still being great for long range sniping
+* The Panther II's speed and manoeuvrability is almost as good as the Leopard 1's
+* Much better frontal armour than the other Panthers. When properly angled, the upper plate is basically immune to anything that isn't packing 250 mm of penetration
+* Unlike the other Panthers, this tank actually has a really nice reverse speed
+* The gun mantlet is not that large, but it is very tough
+* One of the few tanks at this BR that can use night vision
 
 '''Cons:'''
 
-- The night vision gear on the commander's cupola makes it very easy to spot the tank
-- Same turret as the Panther F, but at a much higher BR. Taking a straight shot from any contemporary tank is almost guaranteed to end in disaster
-- Bad turret traverse. Reacting to flanking enemy's isn't that easy
-- The sides of the hull is lined with a lot of ammo. Enemy shells that enter the sides will likely destroy the tank
-- Transmission is mounted in the front, meaning that the tank can be immobilized from both front and the rear
-- There is some night vision gear on the drivers side of the upper hull. So the gun will have less gun depression than normal over this area of the tank
+* The night vision gear on the commander's cupola makes it very easy to spot the tank
+* Same turret as the Panther F, but at a much higher BR. Taking a straight shot from any contemporary tank is almost guaranteed to end in disaster
+* Bad turret traverse. Reacting to flanking enemy's isn't that easy
+* The sides of the hull is lined with a lot of ammo. Enemy shells that enter the sides will likely destroy the tank
+* Transmission is mounted in the front, meaning that the tank can be immobilized from both front and the rear
+* There is some night vision gear on the drivers side of the upper hull. So the gun will have less gun depression than normal over this area of the tank
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 === Development ===
-In late 1942, German designers started the development of a more powerful and slightly larger version of [[Panther D|Panther]] mounted on a newly designed chassis. In January of 1943, Adolf Hitler agreed on the development of Panther with increased armour protection especially for the needs of the Eastern Front. This project was designated '''Panther II''' and its design was planned along with the development of [[Tiger II (H)|Tiger II]]. In February of 1943, it was decided that Panther II, in its design would resemble Tiger II and would have many common components such as tracks, transmission, suspension and road wheels. Both designs had common components in an attempt to standardize the production. Overall dimensions were very similar to those of [[Panther G]] hull's design was very similar to that of the late model Panther G but with many modernizations such as the arrangement of observation equipment and new engine deck. Its armour protection was significantly increased if compared to any other Panther variant produced. Side armour protection was 60 mm thick while frontal armour protection was 100 mm thick. It was planned to arm Panther II with the latest 75 mm KwK42 L/100 or even 88 mm KwK43 L/71 (without a muzzle brake) gun mounted in a newly designed narrow turret – Turm Panther 2 (Schmale Blendenausführung) (Turret Panther 2 (narrow mantlet variant)) - an early version of the Schmalturm. The Schmalturm itself was not designed until after the Panther 2 had been cancelled - designed by Rheinmetall in 1944 and to be produced by Daimler-Benz.
+In late 1942, German designers started the development of a more powerful and slightly larger version of [[Panther D|Panther]] mounted on a newly designed chassis. In January of 1943, Adolf Hitler agreed on the development of Panther with increased armour protection especially for the needs of the Eastern Front. This project was designated '''Panther II''' and its design was planned along with the development of [[Tiger II (H)|Tiger II]]. In February of 1943, it was decided that Panther II, in its design would resemble Tiger II and would have many common components such as tracks, transmission, suspension and road wheels. Both designs had common components in an attempt to standardize the production. Overall dimensions were very similar to those of [[Panther G]] hull's design was very similar to that of the late model Panther G but with many modernizations such as the arrangement of observation equipment and new engine deck. Its armour protection was significantly increased if compared to any other Panther variant produced. Side armour protection was 60 mm thick while frontal armour protection was 100 mm thick. It was planned to arm Panther II with the latest 75 mm KwK42 L/100 or even 88 mm KwK43 L/71 (without a muzzle brake) gun mounted in a newly designed narrow turret – Turm Panther 2 (Schmale Blendenausführung) (Turret Panther 2 (narrow mantlet variant)) - an early version of the Schmalturm.  The Schmalturm itself was not designed until after the Panther 2 had been cancelled - designed by Rheinmetall in 1944 and to be produced by Daimler-Benz.
 
 The Panther II in the game with the Schmalturm and 8,8 cm KwK43 therefore represents a configuration that never made it out of the suggestion phase.
 
@@ -248,36 +233,32 @@ It is likely that two Panther II prototypes were built which may have participat
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_panther_II Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_panther_II Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|hbNzrbSgGag|'''Panther II - The "Forgotten" Panther''' - ''JustinPlaysYT''|PUw2CQ8e0lE|'''Best Combo #1''' discusses the {{PAGENAME}} at 5:30 - ''War Thunder Official Channel''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
 
-- [[AMX-50 (Family)]]
+* [[AMX-50 (Family)]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6317-development-changes-and-optimization-in-the-german-tech-tree-en|[Devblog] Changes and optimization in the German tech-tree]]
-- [[wikipedia:Panther_II_tank|[Wikipedia] Panther II tank]]
-- [https://tanks-encyclopedia.com/ww2-germany-panther-ii-mit-88cm-kwk-43-l71/ <nowiki>[Tanks Encyclopedia]</nowiki> Panther II mit 8.8 cm Kw.K. 43 L/71]
-- [https://tanks-encyclopedia.com/ww2/germany/panther-ausf-f.php <nowiki>[Tanks Encyclopedia]</nowiki>Panzerkampfwagen Panther Ausf.F (Sd.Kfz.171)]
+* [[wt:en/news/6317-development-changes-and-optimization-in-the-german-tech-tree-en|[Devblog] Changes and optimization in the German tech-tree]]
+* [[wikipedia:Panther_II_tank|[Wikipedia] Panther II tank]]
+* [https://tanks-encyclopedia.com/ww2-germany-panther-ii-mit-88cm-kwk-43-l71/ <nowiki>[Tanks Encyclopedia]</nowiki> Panther II mit 8.8 cm Kw.K. 43 L/71]
+* [https://tanks-encyclopedia.com/ww2/germany/panther-ausf-f.php <nowiki>[Tanks Encyclopedia]</nowiki>Panzerkampfwagen Panther Ausf.F (Sd.Kfz.171)]
 
 === References ===
 <references />

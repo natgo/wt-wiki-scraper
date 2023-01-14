@@ -8,21 +8,17 @@
 }}
 {{Specs-Card
 |code=germ_leopard_I_a1
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' (also known as the '''1A1A1''') is a rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was introduced in [[Update 1.63 "Desert Hunters"]]. The Leopard A1A1 represents a significant improvement over the original [[Leopard I]] design, most notably the inclusion of a two-plane stabiliser system and the availability of the DM23 APFSDS round.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 [[File:Leo A1A1 Armour Heatmap.png|thumb|Leopard A1A1 armour heatmap]]
 The Leopard A1A1's armour, much like its predecessor, is relatively negligible: designed with the intention of mobility and firepower over survivability, the Leopard will survive hits from little more than 20 mm cannons frontally, and full-calibre rounds will have no trouble penetrating it. As such, the Leopard's armour shouldn't be relied on, even when combating light vehicles such as the [[M3 Bradley]] or [[Warrior]] IFVs. Notably, the Leopard A1A1's light armour often results in kinetic rounds penetrating the vehicle without significant damage being caused, allowing it surprising survivability against rounds such as APFSDS. It is, however, particularly vulnerable to chemical or HE-filled rounds. The A1A1 does utilise some add-on armour in locations (noticeable on the UFP and the gun mantlet) which slightly increases its survivability against some autocannons.
 
@@ -42,15 +38,14 @@ The Leopard A1A1's armour, much like its predecessor, is relatively negligible: 
 |}
 '''Notes:'''
 
-- Suspension wheels and tracks are 20 mm thick.
-- The turret mantlet has a varying thickness of 45 - 200 mm thick. It is thickest near the center.
-- 20 mm of track armour added onto front hull glacis
-- Additional spaced armour is added to the turret, 35 mm on the front and 20 to 10 mm on the sides and rear
-- Hull roof is rated to be 54 mm effective against HE.
+* Suspension wheels and tracks are 20 mm thick.
+* The turret mantlet has a varying thickness of 45 - 200 mm thick. It is thickest near the center.
+* 20 mm of track armour added onto front hull glacis
+* Additional spaced armour is added to the turret, 35 mm on the front and 20 to 10 mm on the sides and rear
+* Hull roof is rated to be 54 mm effective against HE.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=1,286|rbMinHp=734}}
@@ -66,9 +61,7 @@ After the Parts and FPE modules are researched, the NVD modification and the DM2
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|L7A3 (105 mm)}}
 
 The Leopard A1A1 mounts a late-generation L7 cannon. With the addition of a two-plane stabilizer, this gun can be easily used on the move, it also negates the gun 'bounce' when stopping. The A1A1 also has the optional DM23 APFSDS available as a tier 4 upgrade, with improved penetration values and ballistics. These combined make the Leopard a tank to be reckoned with.
@@ -91,13 +84,13 @@ The Leopard A1A1 mounts a late-generation L7 cannon. With the addition of a two-
 
 ==== Ammunition ====
 
-- '''DM13; APDS''' - (Armour-Piercing Discarding Sabot) is capable of penetrating the majority of the foes it meets, but these rounds do require finesse as to their placing. Because the shell lacks an explosive filler, your best bet is to try and either knock out the majority of the enemy tank's crew or to destroy the enemy by ammo or fuel detonation through hitting their respective storage capacities. Keep in mind though that ammo and fuel detonations always occur with a random chance, taking out crew members is more reliable to destroy your enemies. This, of course, requires knowledge about the vehicles you may face - so be sure to use the X-Ray view in the hangar and analyse your potential foes for their weak spots! Also, keep in mind that with increased armour thickness the amount of shrapnel shrinks.
+* '''DM13; APDS''' - (Armour-Piercing Discarding Sabot) is capable of penetrating the majority of the foes it meets, but these rounds do require finesse as to their placing. Because the shell lacks an explosive filler, your best bet is to try and either knock out the majority of the enemy tank's crew or to destroy the enemy by ammo or fuel detonation through hitting their respective storage capacities. Keep in mind though that ammo and fuel detonations always occur with a random chance, taking out crew members is more reliable to destroy your enemies. This, of course, requires knowledge about the vehicles you may face - so be sure to use the X-Ray view in the hangar and analyse your potential foes for their weak spots! Also, keep in mind that with increased armour thickness the amount of shrapnel shrinks.
 
-- '''DM512; HESH''' - (High-Explosive Squash-Head) works very differently to other shell types. It ignores any angle, except for ricochet, and deals damage by metal-flakes which are blown off inside the armour by the exterior explosion. To create this deadly shrapnel inside the tank, make sure to only hit armour plates which are a direct part of the interior crew compartment of the tank. Hitting exterior parts of a tank like spaced armour, the suspension, tracks etc. will not harm crew members/modules at all. Currently, only true armour thickness (as opposed to the line of sight thickness) will provide sufficient means of protection, benefitting the USSR turret designs and in general German tanks. Like all high-explosive shells, the fuse is very sensitive and can be set-off by most objects e.g. fences, trees, pillars. The slow muzzle velocity of this shell can make it quite hard to hit targets at longer distances, but at the same time it can be handy because its arc trajectory, allows it to land hits on enemies hiding behind shallow hills.
+* '''DM512; HESH''' - (High-Explosive Squash-Head) works very differently to other shell types. It ignores any angle, except for ricochet, and deals damage by metal-flakes which are blown off inside the armour by the exterior explosion. To create this deadly shrapnel inside the tank, make sure to only hit armour plates which are a direct part of the interior crew compartment of the tank. Hitting exterior parts of a tank like spaced armour, the suspension, tracks etc. will not harm crew members/modules at all. Currently, only true armour thickness (as opposed to the line of sight thickness) will provide sufficient means of protection, benefitting the USSR turret designs and in general German tanks. Like all high-explosive shells, the fuse is very sensitive and can be set-off by most objects e.g. fences, trees, pillars. The slow muzzle velocity of this shell can make it quite hard to hit targets at longer distances, but at the same time it can be handy because its arc trajectory, allows it to land hits on enemies hiding behind shallow hills.
 
-- '''DM12; HEATFS''' - (High-Explosive Anti Tank Fin Stabilized): Knowledge of potential opponents vehicle layouts will be very handy to use - as you now have a round at your disposal that can penetrate any vehicle's armour frontally. Like the APDS shot, increased armour thickness results in reduced amount of spalling (shrapnel) after penetration. You are able to take out enemies on any distance, since the HEAT round does not lose penetration with distance travelled - very handy on large maps like Kursk. Unlike APDS it has one downside: given that it is a chemical round, its fuse is highly sensitive in regards to its practical application in battle. As a result, virtually anything, such as trees or even a fence, will set it off prematurely, so you cannot fire through obstructions with this kind of round.
+* '''DM12; HEATFS''' - (High-Explosive Anti Tank Fin Stabilized): Knowledge of potential opponents vehicle layouts will be very handy to use - as you now have a round at your disposal that can penetrate any vehicle's armour frontally. Like the APDS shot, increased armour thickness results in reduced amount of spalling (shrapnel) after penetration. You are able to take out enemies on any distance, since the HEAT round does not lose penetration with distance travelled - very handy on large maps like Kursk. Unlike APDS it has one downside: given that it is a chemical round, its fuse is highly sensitive in regards to its practical application in battle. As a result, virtually anything, such as trees or even a fence, will set it off prematurely, so you cannot fire through obstructions with this kind of round.
 
-- '''DM 23; APFSDS''' - (Armour-Piercing Fin-Stabilized Discarding Sabot) is the best ammunition choice for the battle rating. It has great muzzle velocity and can penetrate almost every opponent frontally with ease, with the [[T-64B]] and [[IS-7]] being the exceptions.
+* '''DM 23; APFSDS''' - (Armour-Piercing Fin-Stabilized Discarding Sabot) is the best ammunition choice for the battle rating. It has great muzzle velocity and can penetrate almost every opponent frontally with ease, with the [[T-64B]] and [[IS-7]] being the exceptions.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="8" | Penetration statistics
@@ -143,9 +136,7 @@ The Leopard A1A1 mounts a late-generation L7 cannon. With the addition of a two-
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Leopard_I.png|right|thumb|x250px|[[Ammo racks]] of the [[Leopard I]] (identical)]]
-
 <!-- '''Last updated: 2.17.0.126''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -163,9 +154,7 @@ The Leopard A1A1 mounts a late-generation L7 cannon. With the addition of a two-
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|MG3A1 (7.62 mm)}}
 
 The {{PAGENAME}} mounts one coaxial 7.62 mm machine gun and one pintle-mounted 7.62 mm machine gun. These both have particularly high rates of fire, and can be used as a deterrent for close air support as well as clearing light obstacles and crew in open-top vehicles.
@@ -183,9 +172,7 @@ The {{PAGENAME}} mounts one coaxial 7.62 mm machine gun and one pintle-mounted 7
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The recommended usage is the Hit and Run tactic. Try to avoid detection.
 
 Scan and use the terrain to your advantage. Take into consideration the moderate vehicle height, which allows you to go turret down in certain locations, allowing you to safely use your commander's binoculars to locate targets! Then, after you have located the enemy, fire a few rounds in quick succession and relocate when spotted, especially when the enemy shots come dangerously close. The Leopard is quite fast, so taking hits from a distance while on the move is a risk that you may consider worth taking.
@@ -197,31 +184,29 @@ Sometimes moving is not an option, but remember, directly behind your hull front
 ''In a nutshell:'' Use the superb mobility with the cannon's perfection to flank and spank enemies, wait and hunt for the perfect positions and kill the enemy tanks one by one, while always maintaining a good situational awareness. Patience is the key to success. That is the Leopard 1, a perfect tactical MBT!
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Fast, agile, and a relatively good acceleration
-- Very efficient and flat-shooting DM23 APFSDS shell
-- Good optics providing a nice zoom for longer distances
-- Wide gun depression and elevation, good slew and elevation rates
-- Better fire on the move accuracy due to its good stabilizer
-- Side skirts provide additional spaced armour, which protects against HESH shells as well as some heavier MG/autocannon fire, and can help bounce bigger shells
+* Fast, agile, and a relatively good acceleration
+* Very efficient and flat-shooting DM23 APFSDS shell
+* Good optics providing a nice zoom for longer distances
+* Wide gun depression and elevation, good slew and elevation rates
+* Better fire on the move accuracy due to its good stabilizer
+* Side skirts provide additional spaced armour, which protects against HESH shells as well as some heavier MG/autocannon fire, and can help bounce bigger shells
 
 '''Cons:'''
 
-- Extra armour increases weight - slightly reducing mobility
-- Insufficient armour (basically a glass cannon) for protection
-- APFSDS is tier 4 modification - there is a long grind with APDS and HEATFS before it is unlocked
-- Ammo rack in the front - a very easy target, and if more ammo than minimum is carried, the tank will blow up once the ammo is struck
-- No available heavy machine gun, often helpless against helicopter attacks
-- Small internal compartment (only 4 crew members) - a penetrating hit, which happens more often than a nonpenetrating one, can easily disable the tank by killing three crew members
-- Stock APDS is rather lacklustre, especially against angled Soviet armour
-- Bad gun elevation speed
+* Extra armour increases weight - slightly reducing mobility
+* Insufficient armour (basically a glass cannon) for protection
+* APFSDS is tier 4 modification - there is a long grind with APDS and HEATFS before it is unlocked
+* Ammo rack in the front - a very easy target, and if more ammo than minimum is carried, the tank will blow up once the ammo is struck
+* No available heavy machine gun, often helpless against helicopter attacks
+* Small internal compartment (only 4 crew members) - a penetrating hit, which happens more often than a nonpenetrating one, can easily disable the tank by killing three crew members
+* Stock APDS is rather lacklustre, especially against angled Soviet armour
+* Bad gun elevation speed
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 ===Development===
@@ -239,12 +224,10 @@ The versatility of the Leopard 1 design and its rather cheap cost in comparison 
 The Leopard 1 versatility and widespread use compared to other tanks in the NATO service made it a very useful weapon system for armies that couldn't afford the new American Pattons or Abrams tanks or the British Challengers and [[Chieftain Mk 3|Chieftains]]. The Leopard 1 in German service was eventually replaced by the Leopard 2 design, which entered into service in 1979 as the main battle tank with better armour and better gun compared to the Leopard 1, fully replacing it in 2003. Other countries followed suit by upgrading their tanks to either the Leopard 2, the American M1 Abrams, or their own domestic tank designs. The vehicle in its various modernized forms are still operated by third parties such as Canada, Brazil, Turkey, and Greece. Some are kept in reserve in Chile and Ecuador due to their light frames and ease of use in soft soils like in the jungles in their countries.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_leopard_I_a1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_leopard_I_a1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover"  heights="150">
@@ -255,23 +238,20 @@ File:LeopardA1A1 BundeswehrNATOcamo.jpg|<small>The Leopard A1A1 with NATO woodla
 {{Youtube-gallery|be_H5-0xhiM|A Leopard A1A1 at Militracks on the move}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[Leopard 1 (Family)|Related development]]
-
-- [[Leopard A1A1 (L/44)]] - premium version of the vehicle
+* [[Leopard A1A1 (L/44)]] - premium version of the vehicle
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/4233-development-leopard-a1a1-modernized-blitzkrieg-en/|[Devblog] Leopard A1A1 - Modernized Blitzkrieg]]
-- [http://www.army-guide.com/eng/product152.html [Army-Guide.com<nowiki>]</nowiki> Leopard 1 overview page]
+* [[wt:en/news/4233-development-leopard-a1a1-modernized-blitzkrieg-en/|[Devblog] Leopard A1A1 - Modernized Blitzkrieg]]
+* [http://www.army-guide.com/eng/product152.html [Army-Guide.com<nowiki>]</nowiki> Leopard 1 overview page]
 
 {{TankManufacturer KMW}}
 {{Germany medium tanks}}

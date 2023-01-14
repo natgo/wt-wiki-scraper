@@ -1,25 +1,20 @@
 {{Specs-Card
 |code=germ_pzkpfw_II_ausf_H
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German light tank {{Battle-rating}}. It was introduced as a [[wt:en/news/901--en|premium pack]] in [[Update 1.43]] as the ''Pz.Kpfw. II Ausf. H'' (shortened to ''Pz.II H''). In [[Update_1.89_"Imperial_Navy"#Ground_vehicles_2|Update 1.89]], the vehicle was renamed to the current designation. It was purchasable from the store until the [[wt:en/news/7154-shop-may-sale-in-the-gaijin-store-en|2021 May sale]] after which it was removed from sale. It has since been made available for purchase in-game with Golden Eagles {{GE}} temporarily for the [[wt:en/news/7894-special-german-unity-day-en|2022 "German Unity Day"]] mini-event.
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German light tank {{Battle-rating}}. It was introduced as a [[wt:en/news/901--en|premium pack]] in [[Update 1.43]] as the ''Pz.Kpfw. II Ausf. H'' (shortened to ''Pz.II H'').  In [[Update_1.89_"Imperial_Navy"#Ground_vehicles_2|Update 1.89]], the vehicle was renamed to the current designation. It was purchasable from the store until the [[wt:en/news/7154-shop-may-sale-in-the-gaijin-store-en|2021 May sale]] after which it was removed from sale. It has since been made available for purchase in-game with Golden Eagles {{GE}} temporarily for the [[wt:en/news/7894-special-german-unity-day-en|2022 "German Unity Day"]] mini-event.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 Having 30 mm of frontal armour, this tank isn't made for the frontline. The three crew members mean that single-shot destruction is a common possibility. Worse still, this tank has no roof protection with the cloth covering being only cosmetic. Unfortunately, this also means that you are very vulnerable to aircraft attacks too. Your demure silhouette will let you easily hide in the small nooks and crannies of maps and lets you cover your entire tank with bushes for extra concealment.
 
 '''Armour type:'''
-
-- Rolled homogeneous armour
+* Rolled homogeneous armour
 
 {| class="wikitable"
 |-
@@ -34,15 +29,13 @@ Having 30 mm of frontal armour, this tank isn't made for the frontline. The thre
 |}
 
 '''Notes:'''
-
-- Suspension wheels and torsion bars are 10 mm thick while tracks are 15 mm thick.
-- Belly armour is 5 mm thick.
-- A 5 mm thick plate separates the crew compartment from the engine compartment.
-- Mudguards are 4 mm thick.
+* Suspension wheels and torsion bars are 10 mm thick while tracks are 15 mm thick.
+* Belly armour is 5 mm thick.
+* A 5 mm thick plate separates the crew compartment from the engine compartment.
+* Mudguards are 4 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=310|rbMinHp=177}}
@@ -56,9 +49,7 @@ The {{PAGENAME}} has a power-to-weight ratio of nearly 20 hp/ton which translate
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|PaK38 (50 mm)}}
 
 The 50 mm PaK38 is probably the best gun you can find at this battle rating. The shells have decent penetration, good post pen damage and an incredible APCR round makes this tank able to punch way above its weight. Don't be afraid to take this tank into higher rank battles. Beware, though, it will struggle against the upper front plate of T-34s and Shermans, so remember their frontal weak spots. Not that you should be engaging those tanks frontally anyway. Always bring high explosive rounds, as the lack of any secondary armament makes lighter vehicles harder to fight effectively.
@@ -124,9 +115,7 @@ The 50 mm PaK38 is probably the best gun you can find at this battle rating. The
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated: 1.101.1.16''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -140,15 +129,13 @@ The 50 mm PaK38 is probably the best gun you can find at this battle rating. The
 |}
 Notes:
 
-- Racks disappear after all shells in the rack have been shot or loaded.
-- The visual discrepancy concerns the number of shells per rack:
-  ** For rack 1, 20 shells are modeled for 14 available.
-  ** For racks 2 & 3, 11 shells are modeled for 13 available.
+* Racks disappear after all shells in the rack have been shot or loaded.
+* The visual discrepancy concerns the number of shells per rack:
+** For rack 1, 20 shells are modeled for 14 available.
+** For racks 2 & 3, 11 shells are modeled for 13 available.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 In battles, it performs well as a scout vehicle with its high mobility in all game modes. It can also function well as a tank destroyer with its high penetration power. It has very little gun depression, which means you won't be able to reliably shoot over hills. It also lacks a machine gun to combat planes and open-topped vehicles, which can be a burden.
 
 It's advised that you keep on the move while using the Pz.Sfl.Ic as any aircraft with guns can take out your turret crew which will knock your vehicle out. Most SPAAs at your BR will also be able to penetrate your hull even frontally, so try to stay out of sight. You are generally safe from .50 cal HMGs although from the rear and non-angled sides they can still penetrate.
@@ -156,30 +143,28 @@ It's advised that you keep on the move while using the Pz.Sfl.Ic as any aircraft
 In the Pz.Sfl.Ic, you should avoid well-protected tanks like the [[KV-1 (L-11)]], the [[T-34 (1940)]] or the [[M4A3 (105)]] as their armour will make it difficult for your 50 mm cannon to penetrate in an uptier. Your cannon still can go through any of their weak spots. Generally, you should stay on the move and make sure you're not spotted, try to stay off the frontline, but don't be afraid to use your gun if you have to since it's very potent at its BR except against the most armoured targets.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Has a gun which will reliably penetrate pretty much any of its expected enemies
-- Is very, very fast (Max speed off-road of around 56 km/h)
-- Has a decent reload speed
-- Has the scouting ability, can earn you some extra silver lions and valuable intel for your team
-- Because of lack of armour, some shells will pass right through you
-- Can change positions very quickly if needed
-- Can get to the cap points and good positions early in the match
+* Has a gun which will reliably penetrate pretty much any of its expected enemies
+* Is very, very fast (Max speed off-road of around 56 km/h)
+* Has a decent reload speed
+* Has the scouting ability, can earn you some extra silver lions and valuable intel for your team
+* Because of lack of armour, some shells will pass right through you
+* Can change positions very quickly if needed
+* Can get to the cap points and good positions early in the match
 
 '''Cons:'''
 
-- Weak armour - trade-off of speed for less weight
-- Open top, planes can destroy the vehicle with machine guns when strafing very easily
-- No stabiliser, which means that the gun will take a moment to settle after stopping the tank
-- Has very bad depression angles
-- Can get slowed down in difficult terrain
-- If your tracks or engine are knocked out, you are a basically a sitting duck
+* Weak armour - trade-off of speed for less weight
+* Open top, planes can destroy the vehicle with machine guns when strafing very easily
+* No stabiliser, which means that the gun will take a moment to settle after stopping the tank
+* Has very bad depression angles
+* Can get slowed down in difficult terrain
+* If your tracks or engine are knocked out, you are a basically a sitting duck
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
@@ -193,12 +178,11 @@ An open-top rotating hexagonal turret with no rear wall was installed. Its prima
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_II_ausf_H Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_II_ausf_H Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|h8ItFYwulAs|'''The Shooting Range #15''' - ''Metal Beasts'' section at 00:43 discusses the Pz.Sfl.Ic.}}
@@ -206,14 +190,14 @@ An open-top rotating hexagonal turret with no rear wall was installed. Its prima
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-- ''reference to the series of the vehicles;''
-- ''links to approximate analogues of other nations and research trees.''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
 
-- ''topic on the official game forum;''
-- ''other literature.''
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{Germany light tanks}}
 {{Germany premium ground vehicles}}

@@ -1,24 +1,20 @@
 {{Specs-Card
 |code=ussr_is_4m
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet heavy tank {{Battle-rating}}. It was introduced during the closed beta testing for Ground Forces before Update 1.41.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-
 '''Armour type:'''
 
-- Rolled homogeneous armour (Hull, Turret roof, Hatch roof)
-- Cast homogeneous armour (Turret)
+* Rolled homogeneous armour (Hull, Turret roof, Hatch roof)
+* Cast homogeneous armour (Turret)
 
 {| class="wikitable"
 |-
@@ -26,16 +22,15 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet heavy tank {{Battle-rat
 |-
 | Hull || 140 mm (62°) ''Front glacis'' <br> 160 mm (40°) ''Lower glacis'' <br> 160 mm (34-77°) ''Driver's port'' <br> 40 mm (44-87°) ''Top of Driver's port''|| 160 mm (30-53°) ''Top'' <br> 160 mm ''Middle'' <br> 30 mm (61°) ''Bottom'' || 100 mm (37°) ''Top'' <br> 30 mm (80°) ''Middle'' <br> 100 mm (31-39°) ''Bottom'' || 30 mm
 |-
-| Turret || 200-250 mm (2-89°) ''Turret front'' <br> 200 mm (0-65°) , 170 + 250 mm (2-61°) ''Gun mantlet'' || 200 mm (3-40°) || 150 (62-72°) ''Top'' <br> 170 mm (21-49°) ''Bottom'' || 30 mm ''Front, Hatch roof, Ventilators'' <br> 50 mm ''Front sides'' <br> 170 mm ''Center''
+| Turret || 200-250 mm (2-89°) ''Turret front'' <br> 200 mm (0-65°) , 170 + 250 mm (2-61°) ''Gun mantlet''  || 200 mm (3-40°) || 150 (62-72°) ''Top'' <br>  170 mm (21-49°) ''Bottom'' || 30 mm ''Front, Hatch roof, Ventilators'' <br> 50 mm ''Front sides'' <br> 170 mm ''Center''
 |-
 |}
 '''Notes:'''
 
-- Suspension wheels are 20 mm thick, torsion bars are 10 mm thick, and tracks are 30 mm thick.
+* Suspension wheels are 20 mm thick, torsion bars are 10 mm thick, and tracks are 30 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=968|rbMinHp=663}}
@@ -47,9 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet heavy tank {{Battle-rat
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-
 {{main|D-25T (122 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -113,9 +106,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet heavy tank {{Battle-rat
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-
 <!-- '''Last updated:''' -->
-
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -135,9 +126,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet heavy tank {{Battle-rat
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
-
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
 {{main|DShK (12.7 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -153,9 +142,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet heavy tank {{Battle-rat
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 The IS-4M is a direct successor to the [[IS-3]], and it features even more armour, so much armour that some APDS and APFSDS cannot penetrate its UFP and most of the turret, needless to say this tank is practically invulnerable to conventional rounds from the front. Unfortunately the gun remains the same 122 mm D-25T that is featured on all IS-series tanks from the [[IS-2]], and at its BR it isn't enough sometimes, while other times a weird bounce can still lead to some good hits. Overall, though, this tank feels much better at its BR than the [[IS-3]], which has a huge shot trap.
 
 === General Gameplay ===
@@ -183,31 +170,28 @@ All in all, you should play the IS-4M as if it is a slow medium tank with sub-pa
 The IS-4M is less painful to play when stock because at times you can get very lucky matches where no-one seems to penetrate you and you get tons of research points for withstanding a lot of shots. Nonetheless, the experience is very much similar to the IS-3 - slow tank, slow reload, gun and engine are often out of commission. Due to this, you must research Parts and FPE first, this is extremely important. Generally, you would want to be behind your teammates, to let them direct shots away from you, when reloaded you can poke out and shoot your shot, right before going back into the cover or behind teammates. Sniping is an option, but it's not the most viable since there's quite a lot of bullet drop and missing your shots will cause the very long reload.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Very good frontal armour; can bounce 128 mm shells from the Maus and even point blank shots from some British tanks using APDS (like [[Vickers MBT]]) will often be deflected, unless hit in a weak spot
-- Armour on the back of the turret is very tough and due to its angle is arguably as strong as the front, causing confusion and/or shock for enemies expecting the rear to be weaker
-- Retains the powerful 122 mm gun and ammunition of the previous IS-3
-- Strong combination of armour and armament
-- Good reverse speed for a heavy tank
-- Can easily knock out most tanks with a single shot
+* Very good frontal armour; can bounce 128 mm shells from the Maus and even point blank shots from some British tanks using APDS (like [[Vickers MBT]]) will often be deflected, unless hit in a weak spot
+* Armour on the back of the turret is very tough and due to its angle is arguably as strong as the front, causing confusion and/or shock for enemies expecting the rear to be weaker
+* Retains the powerful 122 mm gun and ammunition of the previous IS-3
+* Strong combination of armour and armament
+* Good reverse speed for a heavy tank
+* Can easily knock out most tanks with a single shot
 
 '''Cons:'''
 
-- Priority target for the enemy team due to its fearsome reputation
-- Long reload of 25 seconds
-- Frontal armour has small but noticeable weak spot below the gun barrel, where the turret meets the hull, and shots coming through it often one-shot IS-4M
-- Ammo rack in the back of the turret; if a shell penetrates, the ammo could detonate
-- Can be vulnerable to tanks equipped with HEAT and APFSDS, although early HEAT shells are often used by short light tanks and tend to land at a very high angle and may fail to penetrate, unlike late HEAT-FS
-- Armour penetration for the shells can be lacking at the rank
+* Priority target for the enemy team due to its fearsome reputation
+* Long reload of 25 seconds
+* Frontal armour has small but noticeable weak spot below the gun barrel, where the turret meets the hull, and shots coming through it often one-shot IS-4M
+* Ammo rack in the back of the turret; if a shell penetrates, the ammo could detonate
+* Can be vulnerable to tanks equipped with HEAT and APFSDS, although early HEAT shells are often used by short light tanks and tend to land at a very high angle and may fail to penetrate, unlike late HEAT-FS
+* Armour penetration for the shells can be lacking at the rank
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 ===Development===
 During the development of the [[IS-3]] in 1944 under General Nikolai Dukhov, a separate project was underway by a design team led by L.S. Troyanov to improve the [[IS-2 (1944)|IS-2]] design. This separate project commenced under the designation ''Object 701''. The project produced three proposed design. The ''Object 701-2'' with a S-34 100 mm gun, ''701-5'' with a different armour configuration, and the ''701-6'' with the 122 mm D-25 gun. The ''701-6'' was accepted for further development, to which was modified with thicker armour, longer hull, and a more powerful engine. There was some implementation of German designs into the prototype; the engine has a cooling system that uses a pair of circular fans on the engine deck, a feature also is seen on the [[Panther A|Panther tank]].<ref name="ZalogaIS">Zaloga Steven. ''IS-2 Heavy Tank 1944-73'' Great Britain: Osprey Publishing Ltd., 1994</ref>
 
@@ -230,29 +214,26 @@ It became clear during its deployment that the tank's mass exceeded the carrying
 {{Navigation-End}}
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_is_4m Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_is_4m Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|B2woWvJK4ew|'''Top 7 most armoured vehicles'''  discusses the {{PAGENAME}} at 3:49 - ''War Thunder Official Channel''|MNacjyimuCQ|'''The Shooting Range #95''' - ''Pages of History'' section at 07:03 discusses the {{PAGENAME}}.}}
+{{Youtube-gallery|B2woWvJK4ew|'''Top 7 most armoured vehicles'''  discusses the {{PAGENAME}} at 3:49  - ''War Thunder Official Channel''|MNacjyimuCQ|'''The Shooting Range #95''' - ''Pages of History'' section at 07:03 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
 
-- [[M103]]
-- [[Conqueror]]
+* [[M103]]
+* [[Conqueror]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->

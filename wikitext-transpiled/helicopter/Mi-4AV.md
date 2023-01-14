@@ -4,9 +4,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet attack helicopter {{Battle-rating}}. It was introduced in [[Update 1.81 "The Valkyries"]].
 
 The Mi-4 is one of the earliest Soviet helicopters to enter service. It served in many different roles in the Soviet Union and many countries around the world. In the game, the Mi-4 is represented by the armed assault transport Mi-4AV ("V" stands for "Vooruzhennyy" — "armed") variant.
@@ -14,9 +12,7 @@ The Mi-4 is one of the earliest Soviet helicopters to enter service. It served i
 == General info ==
 === Flight performance ===
 {{Specs-Heli-Flight}}
-
 <!-- ''Describe how the helicopter behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 As a first generation transport helicopter, the {{PAGENAME}} is very slow, it is rare for it to reach 200 km/h. Additionally, the {{PAGENAME}} has a poor roll rate. When fully loaded, the performance deteriorates even more, making the helicopter an easy target. Pilots should keep this in mind when choosing the payload.
 
 The newest pilots should not attempt to roll the helicopter more than 35°, since the {{PAGENAME}} is underpowered and cannot handle such manoeuvres. The weight will force the helicopter down (worse when fully loaded) and the main rotor will be unable to sustain the helicopter in this awkward position, making recovery impossible. The risk of stalling is significant, and it is recommended to set the the collective pitch to 80% for cruising, and 100% only when climbing is needed.
@@ -41,9 +37,7 @@ It should be noted that even in hover mode, the underpowered engine will start o
 
 === Survivability and armour ===
 {{Specs-Heli-Armour}}
-
 <!-- ''Examine the survivability of the helicopter. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical systems.'' -->
-
 Unlike the later helicopters in the Soviet/Russian helicopter tree, the {{PAGENAME}} is essentially a transport helicopter with weapons strapped to it, and it carries no armour plating whatsoever.
 
 The {{PAGENAME}} is also very vulnerable to engine damage because the engine is located in front of the pilot, in the nose of the helicopter. This means that it will often take the majority of the hits from ground fire. Once the already underpowered engine is hit, this will deteriorate the performance even more, to the point where the helicopter may no longer be able to stay in the air. Getting the pilot knocked out is also not an uncommon experience, which will end a game in the Mi-4 very quickly.
@@ -64,14 +58,12 @@ What the {{PAGENAME}} lacks in performance and durability, it makes up for in ar
 
 === Offensive armament ===
 {{Specs-Heli-Offensive}}
-
 <!-- ''Describe the offensive armament of the helicopter, if any. Describe how effective the cannons and machine guns are in battle, also what ammunition belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|A-12.7 (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- 1 x 12.7 mm A-12.7 machine gun, nose turret (900 rpg)
+* 1 x 12.7 mm A-12.7 machine gun, nose turret (900 rpg)
 
 The {{PAGENAME}} is armed with a single flexible Afanasev A-12.7 machine gun. This gun has a limited arc of only +- 30° horizontally, -55° and 8° vertically. The gun possesses a decent amount of ammunition (900) and a high rate of fire (1,100 rounds per minute). This machine gun is mostly effective against soft vehicles and ground targets, such as artillery emplacements, armoured cars, trucks, and light vehicles. It lacks the penetration to damage anything heavier than some light tanks' roof armour.
 
@@ -81,21 +73,19 @@ Due to the limited arc and the relatively low calibre, air-to-air engagements re
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
-
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|FAB-100sv (100 kg)|FAB-250M-46 (250 kg)|9M17M Falanga|S-5K}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- Without load
-- 96 x S-5K rockets
-- 96 x S-5K rockets + 2 x 9M17M Falanga missiles
-- 6 x 100 kg FAB-100sv bombs (600 kg total)
-- 4 x 250 kg FAB-250M-46 bombs (1,000 kg total)
-- 4 x 9M17M Falanga missiles + 96 x S-5K rockets
-- 4 x 9M17M Falanga missiles + 6 x 100 kg FAB-100sv bombs (600 kg total)
-- 4 x 9M17M Falanga missiles + 4 x 250 kg FAB-250M-46 bombs (1,000 kg total)
+* Without load
+* 96 x S-5K rockets
+* 96 x S-5K rockets + 2 x 9M17M Falanga missiles
+* 6 x 100 kg FAB-100sv bombs (600 kg total)
+* 4 x 250 kg FAB-250M-46 bombs (1,000 kg total)
+* 4 x 9M17M Falanga missiles + 96 x S-5K rockets
+* 4 x 9M17M Falanga missiles + 6 x 100 kg FAB-100sv bombs (600 kg total)
+* 4 x 9M17M Falanga missiles + 4 x 250 kg FAB-250M-46 bombs (1,000 kg total)
 
 The S-5 unguided rockets are available without research. They are not accurate and do not have a large explosive payload. Since it uses a shaped-charge warhead, a direct hit is required in order to damage most enclosed armoured vehicles, and aiming is complicated by the fact that the {{PAGENAME}} does not have a ballistic computer.
 
@@ -104,9 +94,7 @@ The 9M17M Falanga should be considered the main weapon of the {{PAGENAME}}. Thes
 The {{PAGENAME}} is also capable of carrying bombs up to 250 kg in weight. Their use is quite situational because they require the helicopter to fly over the target, which is quite risky in a helicopter as slow and fragile as the {{PAGENAME}}. In Realistic and Simulator battles, a time delay (2–3.5 s) should be set so the {{PAGENAME}} does not damage itself with its bombs.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 Pilots should be aware this helicopter is not made for dedicated CAS (Close air Support), mainly because of some traits such as low top speed, big size, low manoeuvrability and zero countermeasures. Instead consider using it as tactical anti-tank support with mobile capacities around the allied half of the map, where it is far enough from enemy radars and anti-air vehicles.
 
 The pilots must be alert of their surroundings, as they do not want to bring undue notice upon themselves. Ending being downed by a plane is a common situation. Strategy plays key in this helicopters ability to sneak into position, let loose a volley of rockets or zero-in an anti-tank guided missile onto an unsuspecting target. Use structures and terrain to act as shields when possible.
@@ -124,18 +112,18 @@ Night battles, is possibly a decent moment to spawn with the Mi-4. Thanks to the
 
 Just like it was historically considered, the NATO's tank represent the greater threat to the Soviet helicopter pilots.
 
-- [[Gepard]] and [[Chieftain Marksman]]: The Marksman anti-air system available on these anti-aircraft is really dangerous on medium-long distances. With powerful radar, high turret rotation speed, and lethal cannons. They can open fire even before soviet pilots cross the horizon of the landscape thanks to their radar fire predictor. This is completely antagonistic for Mi-4's low speed and big size. The best odds is to make them a priority target and let loose a rapid rocket salvo. Their turrets are huge and with low armour, Mi-4's rockets will be capable of a precise dispatch.
+* [[Gepard]] and [[Chieftain Marksman]]: The Marksman anti-air system available on these anti-aircraft is really dangerous on medium-long distances. With powerful radar, high turret rotation speed, and lethal cannons. They can open fire even before soviet pilots cross the horizon of the landscape thanks to their radar fire predictor. This is completely antagonistic for Mi-4's low speed and big size. The best odds is to make them a priority target and let loose a rapid rocket salvo. Their turrets are huge and with low armour, Mi-4's rockets will be capable of a precise dispatch.
 
-- [[SIDAM 25]]: This Italian anti-aircraft's 4 cannons are extremely dangerous for your close attacks. They especially deadly on close-medium distances. The small size of this tank compared to other NATO's AAs make it harder to spot and once you get hit, it's unlikely you survive. As with most of the anti-aircraft vehicles, they have poor armour. Use an unguided rockets salvo to make them run for cover or take advantage of the long-range of your Falanga missiles.
+* [[SIDAM 25]]: This Italian anti-aircraft's 4 cannons are extremely dangerous for your close attacks. They especially deadly on close-medium distances. The small size of this tank compared to other NATO's AAs make it harder to spot and once you get hit, it's unlikely you survive. As with most of the anti-aircraft vehicles, they have poor armour. Use an unguided rockets salvo to make them run for cover or take advantage of the long-range of your Falanga missiles.
 
-- [[M3 Bradley|Bradley]], [[Warrior]] and [[Begleitpanzer 57|Begleitpanzer]]: These American, British, and German IFVs are not only threatening to ground vehicles, but also for low flying aircraft. They are well-armed, they equip a modern system of thermal optics and they are highly mobile. This means they will find helicopters comfortably anywhere on the map during the day or night and attempt to bring them down very hastily with their auto-cannons, ATGMs or time fuzed shells. The stealth and distance element is your best advantage versus them, avoid hurrying into the battle from obvious helicopter spawn points, instead opt for a short flank then get just barely altitude to engage them. Using things like trees and mountains as your reliable cover.
+* [[M3 Bradley|Bradley]], [[Warrior]] and [[Begleitpanzer 57|Begleitpanzer]]: These American, British, and German IFVs are not only threatening to ground vehicles, but also for low flying aircraft. They are well-armed, they equip a modern system of thermal optics and they are highly mobile. This means they will find helicopters comfortably anywhere on the map during the day or night and attempt to bring them down very hastily with their auto-cannons, ATGMs or time fuzed shells. The stealth and distance element is your best advantage versus them, avoid hurrying into the battle from obvious helicopter spawn points, instead opt for a short flank then get just barely altitude to engage them. Using things like trees and mountains as your reliable cover.
 
 === Role in the team ===
 Once the Soviet Mi-4 pilots choose to spawn, there are several points they need to prioritize to actively boost their team during the battle.
 
-- Where on the map are the enemy forces?
-- Where on the map our forces need air support? (attempting to capture a zone for example)
-- Is one of our capture points in need for defense? (quite often the enemy will even seize allied spawn point)
+* Where on the map are the enemy forces?
+* Where on the map our forces need air support? (attempting to capture a zone for example)
+* Is one of our capture points in need for defense? (quite often the enemy will even seize allied spawn point)
 
 This will now let pilots ponder about how to engage, race slowly in, or stay far and use the Falanga ATGMs. The prudent tactic is usually to stay far but this may differ on different maps. Their role in the team can go about the ability to spot the threats from a greater and higher angle than the ground forces teammates. Effecting things such as opening a rocket salvo on a quick enemy flanker will enable the team to notice and destroy the threat. If the Mi-4 hasn't yet. The 4 Falanga can be put to good use on skilled hands, defeating 4 enemies with them will surely setback the enemy's spawn points. Mi-4's S-5K can be used to suppress the enemy groups pushing, on urban maps for example. If the battlefield is safe or uncared enough, the helicopter is fully able to capture a distant point by landing inside it. Possibly, coordinate with the allied fixed-wing aviation for a multi-directional attack on the opponent's anti-aircraft locations.
 
@@ -143,37 +131,33 @@ Spawning, closing in, sighting, and engaging targets then retreating to then rep
 
 Also remember that;
 
-- Despite the natural difficulties of the mode, Simulator mode is greatly rewarding due to the stealth element. Situationally allows to execute a more offensive close approach.
-- The pilots should promote the habit of checking for enemy planes up before spawning. This will avoid imminent annihilation by enemy planes already on air.
-- A group of Mi-4 is more like to survive than a single Mi-4. Don't be irresolute to call for backups or communicate with your teammates for a coordinated attack.
+* Despite the natural difficulties of the mode, Simulator mode is greatly rewarding due to the stealth element. Situationally allows to execute a more offensive close approach.
+* The pilots should promote the habit of checking for enemy planes up before spawning. This will avoid imminent annihilation by enemy planes already on air.
+* A group of Mi-4 is more like to survive than a single Mi-4. Don't be irresolute to call for backups or communicate with your teammates for a coordinated attack.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 [[File:Radar_chart_Mi-4AV.png|thumb|Mi-4AV's attack helicopter capacities]]
 '''Pros:'''
 
-- Excellent payload options compared to other Rank V helicopters.
-- Falanga missiles can outrange cannon-based SPAA.
-- 12.7 mm turret machine gun can be fired in the ATGM shooter view.
-- Relatively durable airframe.
+* Excellent payload options compared to other Rank V helicopters.
+* Falanga missiles can outrange cannon-based SPAA.
+* 12.7 mm turret machine gun can be fired in the ATGM shooter view.
+* Relatively durable airframe.
 
 '''Cons:'''
 
-- No armour or bullet-proof glass.
+* No armour or bullet-proof glass.
 
 Huge, slow and not very manoeuvrable.
 
-- Missile tracking field-of-view is quite narrow.
-- Critical components (cockpit, engine, motor, and oil cooler) located close together
-- No sight gyro-stabilization system for simulator modes.
-- No ballistic computer.
+* Missile tracking field-of-view is quite narrow.
+* Critical components (cockpit, engine, motor, and oil cooler) located close together
+* No sight gyro-stabilization system for simulator modes.
+* No ballistic computer.
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The Soviet Army Aviation owes its emergence mostly to the transport landing helicopter Mi-4. The Mi-4 paved the way for helicopter usage in the Soviet national armed forces.
 
 The Korean War was the main impetus in which provided the need for a Mi-4 helicopter which started its official development in the early 1950s. At the time, the American military was widely using helicopters as a force multiplier which enabled troops to advance and reinforce areas much quicker than when travelling by vehicle or more to a pinpoint location without needing finding or building an airfield. Through the use of helicopters, rapid and large scale operations became a possibility that had yet to be exploited to its fullest. At this time, the Americans were using different types of helicopters to do various tasks, depending on what payload was needed. Light helicopters were used for duties such as taking wounded back to hospitals, means of communication and spotters for artillery units. More massive helicopters were utilised for delivering troops, vehicles, supplies and artillery directly to the battlefield. The Korean War demonstrated the increased need for a role which rotor vehicles could fulfil within the Armed Forces.
@@ -191,12 +175,11 @@ Seven months after receiving their assignment to develop and build a helicopter,
 In many ways the Mi-4 surpassed the US helicopter H-19's capabilities as the rear of the Mi-4 could open up and through the use of a ramp, men, vehicles and artillery could quickly be loaded and unloaded. Also installed under the nose of the helicopter was a gunner position with a 12.7 mm machine gun. The Soviet military found many uses for the new helicopter beyond just transporting people and equipment, and as more equipment was outfitted, the helicopter also took on roles such as ground attack and submarine hunter. More than 3,000 Mi-4 helicopters were produced during its years in service and proved to be an essential force multiplier on the battlefield for the Soviet Armed Forces.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=mi_4av Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=mi_4av Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 
@@ -215,23 +198,21 @@ File:Mi-4AV WTWallpaper 007.jpg|
 {{Youtube-gallery|lTR8bhL4BUc|'''The Mi-24 Family''' discusses the {{PAGENAME}} at 0:47 - ''War Thunder Official Channel''|h_Gng-eiEXE|'''The Shooting Range #113''' - ''Pages of History'' section at 06:00 discusses the Mi-4AV.|Ndj0AenHKN8|'''Mil Mi-4 Transport Helicopter Making Of - MADE in the USSR''' - ''Epic Soviet Documentaries''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the helicopter;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Aircraft of comparable role, configuration and era
 
-- [[H-34]] - Sikorsky Choctaw
-- [[H-34 (France)]] - French variant of the Choctaw
+* [[H-34]] - Sikorsky Choctaw
+* [[H-34 (France)]] - French variant of the Choctaw
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/5708-development-uh-1-and-mi-4-early-birds-en|[Devblog] UH-1 and Mi-4: Early Birds]]
+* [[wt:en/news/5708-development-uh-1-and-mi-4-early-birds-en|[Devblog] UH-1 and Mi-4: Early Birds]]
 
 {{AirManufacturer Mil}}
 {{USSR helicopters}}

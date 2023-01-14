@@ -5,21 +5,17 @@
 }}
 {{Specs-Card
 |code=jaguar_a
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage\_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.jpg}}
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battle-rating}}. It was introduced in [[Update "Raining Fire"]]. It is a twin-engine ground assault aircraft, designed with the transport and operation of heavy ordnance in mind. It also comes equipped with air-to-air missiles, in the form of the dreaded [[Matra R550 Magic 1]]. Overall a bomb truck, it is very unwieldy while fully loaded, but is exceptionally nimble once its bomb/rocket load is expended.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
 The SEPECAT Jaguar is a relatively small aircraft, with a relatively small wing surface area, yet it boasts two jet engines, each yielding nearly two tons of wet thrust. These characteristics give the Jaguar exceptional agility and responsiveness, being able to engage turnfights if necessary. On the other hand, this small frame makes the Jaguar turn into a brick when loaded with bombs, even becoming so heavy it becomes very hard to take-off. The wings are of a swept design, and the Jaguar loses energy while turning only moderately, not being a BnZ fighter, but not being as bad as a [[Mirage IIIC]] or a [[J35D]] Draken. Overall it is a quite average fighter, while not loaded.
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -47,7 +43,7 @@ The SEPECAT Jaguar is a relatively small aircraft, with a relatively small wing 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || ✓ || ✓ <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -113,9 +109,7 @@ The SEPECAT Jaguar is a relatively small aircraft, with a relatively small wing 
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-
 The Jaguar A has no armour plating or armoured glass. The entire wings of the Jaguar A are made up of fuel tanks, along with most of the upper fuselage, with flight controls being exposed in the "spine" of the aircraft. The two engines take up a small amount of room in the very rear of the fuselage.
 
 === Modifications and economy ===
@@ -134,38 +128,34 @@ The Jaguar A has no armour plating or armoured glass. The entire wings of the Ja
 |}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
-
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-
 {{main|DEFA 553 (30 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-- A choice between two presets:
-  ** 2 x 30 mm DEFA 553 cannons, belly-mounted (150 rpg = 300 total)
-  ** 2 x 30 mm DEFA 553 cannons + 252 x countermeasures
+* A choice between two presets:
+** 2 x 30 mm DEFA 553 cannons, belly-mounted (150 rpg = 300 total)
+** 2 x 30 mm DEFA 553 cannons + 252 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|SAMP Type 25 (250 kg)|SAMP Type 21 (400 kg)|BGL-400 (400 kg)|BGL-1000 (970 kg)|AS-30L Nord}}
 {{main|Matra R550 Magic 1|SNEB type 23|TBA ECC|TBA Multi-Dart 100 AB}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-- Without load
-- 2 x Matra R550 Magic 1 missiles
-- 11 x 250 kg SAMP Type 25 bombs (2,750 kg total)
-- 8 x 400 kg SAMP Type 21 bombs (3,200 kg total)
-- 2 x 400 kg BGL-400 bombs (800 kg total)
-- 2 x 970 kg BGL-1000 bombs (1,940 kg total)
-- 2 x AS-30L Nord missiles
-- 16 x TBA ECC rockets
-- 16 x TBA Multi-Dart 100 AB rockets
-- 108 x SNEB type 23 rockets
-- 144 x SNEB type 23 rockets
+* Without load
+* 2 x Matra R550 Magic 1 missiles
+* 11 x 250 kg SAMP Type 25 bombs (2,750 kg total)
+* 8 x 400 kg SAMP Type 21 bombs (3,200 kg total)
+* 2 x 400 kg BGL-400 bombs (800 kg total)
+* 2 x 970 kg BGL-1000 bombs (1,940 kg total)
+* 2 x AS-30L Nord missiles
+* 16 x TBA ECC rockets
+* 16 x TBA Multi-Dart 100 AB rockets
+* 108 x SNEB type 23 rockets
+* 144 x SNEB type 23 rockets
 
 The sets of bombs are the heaviest ordnances for the aircraft, but ensure a good supply of CAS support capability, even though bomb runs in combined battles are extremely dangerous at such BRs.
 
@@ -211,7 +201,6 @@ The most exotic loadout proposed by the Jaguar A is the TBA Multi-Dart 100 AB ro
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 The Jaguar A's only air-to-air missiles are locked as a rank 4 modification. The entirety of its opposition will be carrying both IR and semi-active radar missiles. Once these missiles are researched, the Jaguar becomes a force to be reckoned with, and it can be expected that a few kills can be made on unsuspecting enemies. The bomb/rocket load of the Jaguar A is decent, and bombing bases and key targets is definitely a good way to acquire experience. Carrying a hybrid air-to-air and air-to-ground load is a good compromise, retaining adequate ground pounding capabilities while acquiring self-defence capabilities.
@@ -221,32 +210,29 @@ It is a good tactic to let pure fighters go in front, and remain at low altitude
 In Combined battles, many CAS options are available. Be it the SAMP bombs, SNEB rockets, or Multi-Dart rockets, with the latter being its cutting edge weapon against ground forces. Remaining at a safe distance and avoiding incoming missiles while selecting a target, then pointing it swiftly for a top attack with one or more Multi-Dart rockets seems to be an adequate usage of these weapons. It can be decided to abandon the air-to-air missiles to carry more ordnance, that is a choice of attack paradigm each player must make.
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Small frame, hard to hit with guns
-- Nimble and agile while not loaded
-- Carries two extremely efficient [[Matra R550 Magic 1]] missiles
-- Carries an exotic weapon for CAS, which players are not used to face
-- Can be played as a bomb truck
-- Has a [[HUD#410SUM1|Head-Up Display]] in the cockpit which provides flight information and weapon aiming functionality
-- Very effective [[TBA Multi-Dart 100 AB]] rockets containing an array of six sub-calibre darts, each a small kinetic penetrator capable of piercing 80 mm of armour
-- Has a very large number of countermeasures, giving it very good and extended defensive capabilities
+* Small frame, hard to hit with guns
+* Nimble and agile while not loaded
+* Carries two extremely efficient [[Matra R550 Magic 1]] missiles
+* Carries an exotic weapon for CAS, which players are not used to face
+* Can be played as a bomb truck
+* Has a [[HUD#410SUM1|Head-Up Display]] in the cockpit which provides flight information and weapon aiming functionality
+* Very effective [[TBA Multi-Dart 100 AB]] rockets containing an array of six sub-calibre darts, each a small kinetic penetrator capable of piercing 80 mm of armour
+* Has a very large number of countermeasures, giving it very good and extended defensive capabilities
 
 '''Cons:'''
 
-- Mediocre speed performance
-- Researching the modifications are a hassle
-- Basically a barely flying anvil when fully loaded with bombs
-- No protection
-- No radar (and thus no radar guided missiles)
+* Mediocre speed performance
+* Researching the modifications are a hassle
+* Basically a barely flying anvil when fully loaded with bombs
+* No protection
+* No radar (and thus no radar guided missiles)
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 The Jaguar A was the French variant of the SEPECAT Jaguar, developed jointly by France and the United Kingdom. The first prototype flew in late 1968, fitted with the Adour engine. The aircraft later flew at the Paris Air Show in 1969, and the further developed Jaguar A prototype, improved and designed for French service, flew in March of that year. After the commencement of production, the French Air Service accepted the first Jaguar A in December 1973, one of an eventual 160 Jaguar A aircraft that would serve with the Air Service. As well, the Air Ministry procured 40 additional Jaguar E trainers, to help train pilots for the Jaguar A.
 [[File:Jaguar_A_French_Air_Force_Gulf_Colours.jpg|thumb|A French Jaguar A in the camouflage it wore during the Gulf War.]]
 The aircraft was able to carry an AN-52 nuclear bomb; however, the aircraft never served with the French strategic nuclear force, as the role had been taken by the Mirage IV. The aircraft was immediately pressed into service defending national interests in Africa, a mission sometimes referred to as "Jaguar Diplomacy". Thus, Jaguars had their combat debut fighting rebels in Mauritania. The aircraft also flew in the Chad-Libya conflict and in the Central African Republic. During its time in African-theatre service, the Jaguar gained a reputation for being a highly effective ground attacker; Libyan forces frequently tried to sabotage the Jaguars stationed in Chad due to their effectiveness against ground targets.
@@ -263,12 +249,11 @@ The first of eight prototypes of the Jaguar successfully conducted its maiden fl
 The Jaguar primarily served with France and Great Britain, most notably distinguishing itself in action during the Gulf War of the 1990s. However, Ecuador, Nigeria and Oman also operated modifications of the Jaguar, while India still operates the Jaguar to this day. In total over 540 SEPECAT Jaguars were built.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=jaguar_a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=jaguar_a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" caption="Jaguar A Devblog Images" heights="150">
@@ -282,21 +267,19 @@ File:Jaguar A WTWallpaper 004.jpg|
 {{Youtube-gallery|xNA65Ms4gwY|'''The Shooting Range #221''' - ''Metal Beasts'' section at 00:28 discusses the {{PAGENAME}}.}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-- [[F-1]]
-- [[T-2]]
+* [[F-1]]
+* [[T-2]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6841-development-sepecat-jaguar-raining-fire-en|[Devblog] SEPECAT Jaguar: Raining Fire]]
+* [[wt:en/news/6841-development-sepecat-jaguar-raining-fire-en|[Devblog] SEPECAT Jaguar: Raining Fire]]
 
 {{AirManufacturer SEPECAT}}
 {{France jet aircraft}}

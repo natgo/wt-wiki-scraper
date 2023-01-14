@@ -9,9 +9,7 @@
 }}
 
 == Description ==
-
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish strike aircraft {{Battle-rating}}. It was introduced in [[Update "New Power"]].
 
 The {{PAGENAME}}, better known as the Saab 105, is a light training vehicle designed for the Swedish army. The vehicle is incredibly light and nimble, and served as ground attacker, thanks to its versatile arsenal of suspended armaments.
@@ -21,7 +19,6 @@ The {{PAGENAME}} is one of the more unique planes the Swedish tech-tree offers, 
 
 === Flight performance ===
 {{Specs-Avia-Flight}}
-
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 Being a trainer aircraft by nature, the {{PAGENAME}} is very forgiving in aerodynamics. The plane performs ideally at most speeds, and has a stall speed below 200 km/h, allowing for advanced manoeuvring without risking the pilot's life. The rudder and elevators respond quickly, and deflect even at speeds the airframe itself can't sustain. The ailerons are also powerful, allowing the {{PAGENAME}} to smoothly roll in engagements, which along with the other control surfaces, makes it superior in dogfights.
@@ -53,7 +50,7 @@ The flight performance isn't perfect, as the {{PAGENAME}} has obvious downsides 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || ✓ || X || X <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -119,7 +116,6 @@ The flight performance isn't perfect, as the {{PAGENAME}} has obvious downsides 
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
 The {{PAGENAME}} is lightweight, and thus forgoes any sort of armour protection to save weight. This decision is logical, as the {{PAGENAME}} was originally designed with only training purposes in mind. This can be experienced in-game, especially in the lack of cockpit protection, as the pilot and navigator will take turns getting killed in frontal attacks. It is thus never recommended to fully commit in a head-on engagement, as even if a pilot survives, the {{PAGENAME}} will become critically damaged, most likely causing it to crash. Even if the {{PAGENAME}} survives, the flight performance is heavily crippled, making the plane even slower than it already was.
@@ -133,43 +129,39 @@ Although weak, the {{PAGENAME}} has a few design tricks making its survivability
 {{Specs-Avia-Armaments}}
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-
 {{main|Rb05A|m/56D|psrak m/49/56|Akan m/55 (30 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-- 2 x 30 mm Akan m/55 cannons (150 rpg = 300 total)
+* 2 x 30 mm Akan m/55 cannons (150 rpg = 300 total)
 
 The standard armament found on the {{PAGENAME}} are two powerful Akan m/55 gunpods. These cannons are identical to platforms like the [[J35D]], giving the {{PAGENAME}} a formidable burst-mass of 12.15 kg/s! These guns are incredibly reliable and fast in velocity, as they're replicas of the [[ADEN (30 mm)|ADEN]] platform. This is one of the main advantages of the {{PAGENAME}} outside of manoeuvrability. Since the {{PAGENAME}} isn't particularly swift, having armament capable of reaching most opponents is a welcome addition. This can catch many people off-guard, and thus it's recommended to practice aiming these guns, along with finding a comfortable convergence setting for maximum efficiency.
 
 These gunpods are also good against ground-based targets, especially in Air Realistic battles, where light pillboxes are common. The Akan m/55 is capable of destroying these in a short burst, allowing for some effective ticket bleed when there are no enemy fighters around. They can also be used in Ground Realistic to a certain extent, as they disintegrate any open-top vehicle. They also aid in air-support, as most fighters at this BR are propeller powered, unable to defend themselves against high-velocity 30 mm revolver cannons.
 
-- 2 x Rb05A missiles
+* 2 x Rb05A missiles
 
 [[File:SK60B using Rb05A's by D33F.png|thumb|345x345px|The {{PAGENAME}} carrying the Rb05A AGM during a roll.]]
 The {{PAGENAME}} features a lot of unique armament compared to most other Swedish vehicles. One of the most unique of which are two Rb05A Air-to-Ground missiles. Similar to the American [[AGM-12B Bullpup]] in design and explosive mass, the {{PAGENAME}} goes one step further by featuring a proximity-fuse inside the missile. This makes the Rb05 incredibly unique for its class, as it is the only missile, outside of helicopters, capable of effectively dealing with both aerial and grounded opponents. Since the missile is intended for distanced ground-attacks, the Rb05 features a range of over 8 km, making it useful against long-range bombers such as the [[B-29/Tu-4 (Family)|B-29]]. In Ground battles the missile is even more useful, as the explosive mass of 48 kg allows for reliable kills against ground units without putting the {{PAGENAME}} in front of radar SPAA. And since the Rb05 can be used against aerial opponents, the {{PAGENAME}} can easily deal with helicopters without going back to base.
 
-- 6 x psrak m/49/56 rockets
-- 12 x m/56D rockets
+* 6 x psrak m/49/56 rockets
+* 12 x m/56D rockets
 
 For players more interested in unguided air-support, the {{PAGENAME}} doesn't disappoint! The {{PAGENAME}} features 12 m/56D rockets also found on the J35D. Thanks to the superior aerodynamics of the {{PAGENAME}}, along with a lower battle-rating, the m/56 rockets get a lot more use than on the Draken. The velocity is immense, reaching 650 m/s, allowing for accurate and distanced engagements. The m/56D carriers less explosives than the earlier m/49A, but compensates for this by still featuring the same penetration values. This makes the m/56 overall better than the earlier m/49A, as the higher velocity makes engagements a lot easier.
 
 It is important to remember that the {{PAGENAME}} is incredibly vulnerable to SPAA when using the m/56D, as they require the {{PAGENAME}} to position itself close to the battlefield. And since the {{PAGENAME}} is one of the slowest jet-powered aircraft in the game, even machine-gun fire can prove lethal if the plane is flown carelessly. Sticking low to the ground and carefully observing opponents is a must if a pilot wants to make every rocket count.
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
 '''Air Realistic Battles'''
 
-- Climb to 3,500-5,000 m (11,500-16,500 ft)
-- Boom & Zoom opponents
-- Conserve ammunition at longer ranges
-- Force faster opponents to turnfight
-- Prioritize bombers if possible
-- Ground strike after dealing with enemy players
+* Climb to 3,500-5,000 m (11,500-16,500 ft)
+* Boom & Zoom opponents
+* Conserve ammunition at longer ranges
+* Force faster opponents to turnfight
+* Prioritize bombers if possible
+* Ground strike after dealing with enemy players
 
 The {{PAGENAME}} gets the luxury of spawning at around 1,000 metres from the start, as the plane is classified as an attacker. Just like the [[A-4B|A-4B Skyhawk]], the {{PAGENAME}} can use this advantage to gain the upper hand during the first few minutes of the game. Although many players are purely playing the {{PAGENAME}} for ground battles, diving to the deck will overall limit the {{PAGENAME}}'s success, as the plane has no opportunity to gain speed back at low altitudes. At altitude however, the {{PAGENAME}} can be played more like a piston-engine fighter, using Boom & Zoom tactics to eliminate opponents. This is useful considering the {{PAGENAME}} performs incredibly well at altitude, having a maximum altitude of over 10,000 metres. The {{PAGENAME}} should still try to remain fairly fast, however, as many opponents, such as the [[F-89B]] or [[F-84 (Family)|F-84G]], can easily reach the Saab's altitude by zooming towards it. Keeping the {{PAGENAME}} at a 10° will result in airspeeds around 400 km/h, giving it some room to manoeuvre in case an opponent wants to take care of it. This speed can be maintained for a long time, but keeping the {{PAGENAME}} at an altitude below 5,000 m will result in the most efficiency, as most opponents will stay below that threshold. After diving on opponents several times over, the {{PAGENAME}} can afford to be aggressive if the opportunity arises. The {{PAGENAME}} can force most opponents into dogfights, where they have no chance of defeating its superior turn-rate.
 
@@ -177,14 +169,14 @@ If the {{PAGENAME}} gets to face off against the US in a down-tier, it can be re
 
 '''Ground Realistic Battles'''
 
-- Stay close to the ground - This counters SPAA
-- Stay high and snipe SPAA with Rb05A's 8km range and proximity fuse
+* Stay close to the ground - This counters SPAA
+* Stay high and snipe SPAA with Rb05A's 8km range and proximity fuse
 
-- Engage ground-units by shooting their compact areas at low altitude (m/56D, m/49/5)
-- Attack heavier opponents by gaining altitude before the attack and then swiftly returning to low altitude after the engagement (Rb05A)
-- Prioritize helicopters and enemy fighters (Rb05A, Akan m/55)
-- Avoid enemy fighters (m/56D, m/49/56)
-- Return to base immediately if needed
+* Engage ground-units by shooting their compact areas at low altitude (m/56D, m/49/5)
+* Attack heavier opponents by gaining altitude before the attack and then swiftly returning to low altitude after the engagement (Rb05A)
+* Prioritize helicopters and enemy fighters (Rb05A, Akan m/55)
+* Avoid enemy fighters (m/56D, m/49/56)
+* Return to base immediately if needed
 
 The most popular use of the {{PAGENAME}} is its intended purpose, known as Close Air Support. The {{PAGENAME}} performs somewhat favourably in this role, being incredibly lethal against tanks since the ordnance options are quite modern for its BR. The {{PAGENAME}} is the earliest example of AGM missiles of any plane in the game, being more than a whole BR below planes like the Fiat [[G.91 R/3 (Germany)|G.91 R/3]], and [[FJ-4B VMF-232]]. Although the Rb05A might look like the obvious option when selecting ground ordnance, the {{PAGENAME}} can easily rack up more kills using the m/56D rockets instead, as they can take out opponents in a single hit, without wasting more than one rocket at a time. This makes the m/56D six times as effective as the Rb05A if practised by an experienced pilot. They are also less dangerous to use, as the unguided rockets don't require any altitude to safely deploy.
 
@@ -197,32 +189,29 @@ Because the SK60B has reverse thrusters it makes it possible to land and capture
 }}
 
 === Pros and cons ===
-
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-- Incredible manoeuvrability - Responds quickly to inputs and turns better than most opponents
-- Devastating firepower - Access to ADEN gunpods and AGM missiles at a low battle-rating
-- Access to attacker spawn
-- Long endurance - High fuel and ammo count makes returning to base less frequent
-- Decent survivability - It has 2 pilots, can fly without a wing, or without one of the engines
-- Easy to land - Low stall speed and strong landing gear aids in critical touchdowns
-- Has reverse thrusters - Allows very short landings and can taxi in reverse
+* Incredible manoeuvrability - Responds quickly to inputs and turns better than most opponents
+* Devastating firepower - Access to ADEN gunpods and AGM missiles at a low battle-rating
+* Access to attacker spawn
+* Long endurance - High fuel and ammo count makes returning to base less frequent
+* Decent survivability - It has 2 pilots, can fly without a wing, or without one of the engines
+* Easy to land - Low stall speed and strong landing gear aids in critical touchdowns
+* Has reverse thrusters - Allows very short landings and can taxi in reverse
 
 '''Cons:'''
 
-- Slow top-speed - Unable to catch most opponents it faces
-- Weak engines - Loses speed in vertical manoeuvres
-- Lack of cockpit protection: pilot knock-out is incredibly common in head-on engagements
-- Slow acceleration
-- No integral offensive armament, requiring gun pods
-- No tracers in any belt - It can be tricky to lead the guns at first
+* Slow top-speed - Unable to catch most opponents it faces
+* Weak engines - Loses speed in vertical manoeuvres
+* Lack of cockpit protection: pilot knock-out is incredibly common in head-on engagements
+* Slow acceleration
+* No integral offensive armament, requiring gun pods
+* No tracers in any belt - It can be tricky to lead the guns at first
 
 == History ==
-
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
 '''Background'''
 
 Unlike most aircraft orders from the Swedish Air-Force, the Sk60 has an unusual background compared to its peers. The aircraft initially started as a commercial project under the name 220, led by none other than Eric Bratt, one of the main engineers behind the J35D. The aircraft was supposed to serve as a private airliner, sporting two engines, and a delta-wing design. But in the autumn of 1958, the Swedish Air-Force was looking for a successor to replace the ageing Sk28C Vampire. This led Bratt and his team to rework the design of project 220, switching the delta-wing design for a conventional straight-wing one. When the Air-Force later specified that this trainer had to carry external ordnance in the form of gun pods, rockets, and bombs, the wing was moved to an upper position. A result of this radical change forced a complete reconstruction of the elevator, mounting it higher than before. Along with some tweaking of the cockpit design, the project received the official name Saab 105.
@@ -252,12 +241,11 @@ During production, the Swedish Air Force drew conclusions from the experiences m
 Apart from the Swedish Air Force, Austria also ordered a modified multirole version of the Saab 105 for its air force. Both air forces still employ the Saab 105 to the present day and around 190 units of the type were built in total.
 
 == Media ==
-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
 
-- [https://live.warthunder.com/feed/camouflages/?vehicle=saab_sk60b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=saab_sk60b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed" caption="SK60B Devblog Images" heights="150">
@@ -274,32 +262,30 @@ File:SK60B WTWallpaper 007.jpg|
 {{Youtube-gallery|0aM7hS-ciYY|'''The Shooting Range #233''' - ''Metal Beasts'' section at 01:00 discusses the {{PAGENAME}}.|a6OMuCFCTvo|'''JUST AWESOME! SK60B! - Sweden''' - ''Jengar''}}
 
 == See also ==
-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Similar aircraft in terms of performance and BR
 
-- [[A2D-1]]
-- [[F-84G-21-RE|F-84G]]
-- [[Sea Hawk FGA.6]]
-- [[G.91 R/3 (Germany)|G.91 R/3]]
+* [[A2D-1]]
+* [[F-84G-21-RE|F-84G]]
+* [[Sea Hawk FGA.6]]
+* [[G.91 R/3 (Germany)|G.91 R/3]]
 
 ;Similar Swedish Aircraft
 
-- [[J35D]]
-- [[A21RB]]
-- [[T18B-1]]
-- [[J21RA]]
+* [[J35D]]
+* [[A21RB]]
+* [[T18B-1]]
+* [[J21RA]]
 
 == External links ==
-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-- [[wt:en/news/6912-development-saab-sk-60b-instructed-to-destroy-en|[Devblog] Saab Sk 60B: Instructed to Destroy]]
+* [[wt:en/news/6912-development-saab-sk-60b-instructed-to-destroy-en|[Devblog] Saab Sk 60B: Instructed to Destroy]]
 
 {{AirManufacturer Saab}}
 {{Sweden jet aircraft}}
