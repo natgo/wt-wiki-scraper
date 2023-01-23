@@ -81,8 +81,12 @@ export interface Spare {
   costGold: number;
 }
 
-export interface GroundVehicle {
+export interface BaseVehicle {
   model: string;
+  type: string;
+}
+
+export interface GroundVehicle extends BaseVehicle {
   hasExpl: boolean;
   hasDmg2: boolean;
   hasQualityModels: boolean;
@@ -117,16 +121,15 @@ export interface GroundVehicle {
   fireFx: string;
   destroysRendInstances: boolean;
   destroysTrees: boolean;
-  type: string;
   rearmSmokeTimeOnField: number;
   canReloadNonGuns: boolean;
   VehiclePhys: VehiclePhys;
   sound: Sound;
+  cockpit: GroundCockpit;
+  modifications: Record<string, GroundMod>;
   gunConvergence: GunConvergence;
-  cockpit: Cockpit;
   commanderView?: CommanderView;
   DamageParts: DamageParts;
-  modifications: Record<string, Mod>;
   commonWeapons: CommonGroundWeapons;
 }
 
@@ -237,7 +240,7 @@ export interface Turret {
   horDriveDm?: string;
 }
 
-export interface Mod {
+export interface GroundMod {
   maxToRespawn?: number;
   effects?: {
     nightVision?: {
@@ -641,7 +644,7 @@ export interface GunConvergence {
   horizontal: boolean;
 }
 
-export interface Cockpit {
+export interface GroundCockpit {
   zoomOutFov: number;
   zoomInFov: number;
   sightFov: number;
@@ -652,12 +655,10 @@ export interface Cockpit {
   bone_turret: string;
 }
 
-export interface AirVehicle {
-  model: string;
+export interface AirVehicle extends BaseVehicle {
   fmFile: string;
   MetaPartsBlk: string;
   exhaustEffectsBlk: string;
-  type: string;
   paratrooper: string;
   flapsIsAirbrakes: boolean;
   overheatBlk: string;
@@ -676,11 +677,13 @@ export interface AirVehicle {
   haveCCIPForBombs?: boolean;
   haveCCIPForGun?: boolean;
   haveCCRPForBombs?: boolean;
+  cockpit: Cockpit;
+  modifications: Record<string, AirMod>;
+  sensors?: Sensors;
   ikPilot: IkPilot;
   attach: Attach;
   Sound: Sound;
   Params: Params;
-  cockpit: Cockpit;
   propellers: Propellers;
   commonWeapons: CommonWeapons;
   weapon_presets: WeaponPresets;
@@ -691,6 +694,49 @@ export interface AirVehicle {
   wiki: Wiki;
   balanceData: BalanceData;
   user_skin: UserSkin;
+}
+
+export interface AirMod {
+  effects?: {
+    nightVision?: {
+      sightThermal?: {
+        resolution: [1024, 768];
+        noiseFactor: 0.5;
+      };
+      pilotIr?: {
+        resolution: number[];
+        lightMult: number;
+        ghosting: number;
+        noiseFactor: number;
+      };
+      gunnerIr?: {
+        resolution: number[];
+        lightMult: number;
+        ghosting: number;
+        noiseFactor: number;
+      };
+    };
+  };
+}
+
+export interface Sensors {
+  sensor: VehicleSensor | VehicleSensor[];
+}
+
+export interface VehicleSensor {
+  blk: string;
+  dmPart?: string;
+  node?: string;
+}
+
+// Sensors
+export interface Sensor {
+  type: string;
+  name: string;
+  range: number;
+  band0: boolean;
+  band1: boolean;
+  band2: boolean;
 }
 
 export interface WeaponSlots {
@@ -1096,6 +1142,8 @@ export interface BalanceData {
 }
 
 export interface Cockpit {
+  sightOutFov?: number;
+  sightInFov?: number;
   headPos: number[];
   headPosOnShooting: number[];
   lightPos: number[];
@@ -1651,6 +1699,479 @@ export interface Bundles {
   guid: { [key: string]: string };
 }
 
+// char/rank
+
+export interface Rank {
+  xpMultiplier: number;
+  goldPlaneExpMul: number;
+  expForVictoryVersus: number;
+  expForPlayingVersus: number;
+  expForVictoryVersusPerSec: number;
+  expForPlayingVersusPerSec: number;
+  expBaseVersusPerSec: number;
+  modsTierExpToAircraftCoef: number;
+  prevAirExpMulMode0: number;
+  prevAirExpMulMode1: number;
+  prevAirExpMulMode2: number;
+  prevAirExpMulMode3: number;
+  prevAirExpMulMode4: number;
+  prevAirExpMulMode5: number;
+  prevAirExpMulMode6: number;
+  prevAirExpMulMode7: number;
+  prevAirExpMulMode8: number;
+  expMulWithTierDiff0: number;
+  expMulWithTierDiff1: number;
+  expMulWithTierDiff2: number;
+  expMulWithTierDiff3: number;
+  expMulWithTierDiff4: number;
+  expMulWithTierDiff5: number;
+  expMulWithTierDiff6: number;
+  expMulWithTierDiff7: number;
+  expMulWithTierDiffMinus0: number;
+  expMulWithTierDiffMinus1: number;
+  expMulWithTierDiffMinus2: number;
+  expMulWithTierDiffMinus3: number;
+  expMulWithTierDiffMinus4: number;
+  expMulWithTierDiffMinus5: number;
+  expMulWithTierDiffMinus6: number;
+  expMulWithTierDiffMinus7: number;
+  crew_exp_mul: number;
+  crew_exp_mul_arcade: number;
+  crew_exp_mul_historical: number;
+  crew_exp_mul_simulation: number;
+  maxXPLimit: number;
+  expForHitTimeout: number;
+  expForIneffectiveTankHitTimeout: number;
+  expForShipHitTimeout: number;
+  ineffectiveHitMinCount: number;
+  ineffectiveHitMinPart: number;
+  expForAssistTime: number;
+  expForAssistDmg: number;
+  expForAssistTimeShip: number;
+  expForAssistDmgShip: number;
+  denominateFreeExp: number;
+  units: { [key: string]: number };
+  crew_slots: { [key: string]: CrewSlot };
+  country: Country;
+  needBuyToOpenNextInEra: NeedBuyToOpenNextInEra;
+  exp_for_playerRank: { [key: string]: number };
+  prestige_by_rank: PrestigeByRank;
+  ww_settings: WwSettings;
+  crew_parameters: CrewParameters;
+}
+
+export interface Country {
+  c: string[];
+}
+
+export interface CrewParameters {
+  mechanicHangarRepairSpeedLow: number;
+  mechanicHangarRepairSpeedHigh: number;
+  mechanicAirieldRepairDurationLow: number;
+  mechanicAirieldRepairDurationHigh: number;
+  weaponsmithGunReloadSpeedLow: number;
+  weaponsmithGunReloadSpeedHigh: number;
+  weaponsmithCannonReloadSpeedLow: number;
+  weaponsmithCannonReloadSpeedHigh: number;
+  weaponsmithBombsReloadSpeedLow: number;
+  weaponsmithBombsReloadSpeedHigh: number;
+  weaponsmithRocketsReloadSpeedLow: number;
+  weaponsmithRocketsReloadSpeedHigh: number;
+  weaponsmithTorpedoesReloadSpeedLow: number;
+  weaponsmithTorpedoesReloadSpeedHigh: number;
+  weaponsmithGunnersReloadSpeedLow: number;
+  weaponsmithGunnersReloadSpeedHigh: number;
+  gForceAdaptationKLow: number;
+  gForceAdaptationKHigh: number;
+  gForceArcadeMul: number;
+  gForcePercievedViscosity: number;
+  gForceMinusPercievedViscosity: number;
+  gForceReleasePercievedViscosity: number;
+  gForceActingViscosity: number;
+  gForceMinusActingViscosity: number;
+  gForceReleaseActingViscosity: number;
+  gForceAdoptedViscosity: number;
+  gForceAdoptedMin: number;
+  gForceAdoptedMinMaxAdaptation: number;
+  gForceAdoptedMax: number;
+  gForceAdoptedMaxMaxAdaptation: number;
+  gForceUnadoptedViscosity: number;
+  gForceBlackoutStart: number;
+  gForceBlackoutStartMaxAdaptation: number;
+  gForceBlackoutEnd: number;
+  gForceBlackoutEndMaxAdaptation: number;
+  gForceRedoutStart: number;
+  gForceRedoutStartMaxAdaptation: number;
+  gForceRedoutEnd: number;
+  gForceRedoutEndMaxAdaptation: number;
+  gForceRedoutPosteffectViscosity: number;
+  gForceBlackoutPosteffectViscosity: number;
+  gForceSwitchPosteffectViscosity: number;
+  gunnerAccuracyLow: number;
+  gunnerAccuracyHigh: number;
+  gunnerAccuracyLowNoStamina: number;
+  gunnerAccuracyHighNoStamina: number;
+  gunnerDensityLow: number;
+  gunnerDensityHigh: number;
+  gunnerDensityLowNoStamina: number;
+  gunnerDensityHighNoStamina: number;
+  pilotDamageMultiplierLow: number;
+  pilotDamageMultiplierHigh: number;
+  pilotDeathChanceMultiplierLow: number;
+  pilotDeathChanceMultiplierHigh: number;
+  gunnerDamageMultiplierLow: number;
+  gunnerDamageMultiplierHigh: number;
+  gunnerDeathChanceMultiplierLow: number;
+  gunnerDeathChanceMultiplierHigh: number;
+  pilotVisionSpottingDistanceLow: number;
+  pilotVisionSpottingDistanceHigh: number;
+  pilotVisionInstantSpottingDistanceLow: number;
+  pilotVisionInstantSpottingDistanceHigh: number;
+  pilotHearingSpottingDistanceLow: number;
+  pilotHearingSpottingDistanceHigh: number;
+  pilotHearingInstantSpottingDistanceLow: number;
+  pilotHearingInstantSpottingDistanceHigh: number;
+  gunnerVisionSpottingDistanceLow: number;
+  gunnerVisionSpottingDistanceHigh: number;
+  gunnerVisionInstantSpottingDistanceLow: number;
+  gunnerVisionInstantSpottingDistanceHigh: number;
+  gunnerHearingSpottingDistanceLow: number;
+  gunnerHearingSpottingDistanceHigh: number;
+  gunnerHearingInstantSpottingDistanceLow: number;
+  gunnerHearingInstantSpottingDistanceHigh: number;
+  staminaRestorationSpeedLow: number;
+  staminaRestorationSpeedHigh: number;
+  staminaPositiveGMin: number;
+  staminaPositiveUsageSpeed: number;
+  staminaNegativeGMin: number;
+  staminaNegativeUsageSpeed: number;
+  staminaAdoptableNegativeGPart: number;
+  staminaAdoptablePositiveGPart: number;
+  pilotMouseAimSmoothnessKLow: number;
+  pilotMouseAimSmoothnessKHigh: number;
+  pilotMouseAimNoiseKLow: number;
+  pilotMouseAimNoiseKHigh: number;
+  mechanic: Mechanic;
+  weaponsmith: Weaponsmith;
+  gForce: GForce;
+  gunner: Gunner;
+  pilot: Pilot;
+  stamina: StaminaClass;
+  tank_crew: TankCrew;
+  ship_crew: ShipCrew;
+}
+
+export interface GForce {
+  adaptationK: number[];
+  arcadeMul: number;
+  percievedViscosity: Viscosity;
+  actingViscosity: Viscosity;
+  adopted: Adopted;
+  unadopted: Unadopted;
+  blackout: Out;
+  redout: Out;
+  posteffectViscosity: PosteffectViscosity;
+}
+
+export interface Viscosity {
+  positive: number;
+  negative: number;
+  release: number;
+}
+
+export interface Adopted {
+  min: number[];
+  max: number[];
+  viscosity: number;
+}
+
+export interface Out {
+  start: number[];
+  end: number[];
+}
+
+export interface PosteffectViscosity {
+  blackout: number;
+  redout: number;
+  switch: number;
+}
+
+export interface Unadopted {
+  viscosity: number;
+}
+
+export interface Gunner {
+  shootingRealistic: Shooting;
+  shooting: Shooting;
+  takingDamage: TakingDamage;
+  detection: Detection;
+}
+
+export interface Detection {
+  helicopter: Helicopter;
+  vision: Vision;
+  hearing: Hearing;
+}
+
+export interface Hearing {
+  spottingDistance: number[];
+  instantSpottingDistance: number[];
+}
+
+export interface Helicopter {
+  vision: Vision;
+  hearing: Hearing;
+}
+
+export interface Vision {
+  spottingDistance: number[];
+  instantSpottingDistance: number[];
+  rocketSpottingDistance: number[];
+  rocketSpottingTime?: number[];
+}
+
+export interface Shooting {
+  fullStamina: Stamina;
+  noStamina: Stamina;
+  rotationSpeed: BulletDeviation;
+  bulletDeviation: BulletDeviation;
+  burstMinDurationSeconds: BulletDeviation;
+  burstMaxDurationSeconds: BulletDeviation;
+  trackingMinDuration: BulletDeviation;
+  trackingMaxDuration: BulletDeviation;
+  sleepMinDuration: BulletDeviation;
+  sleepMaxDuration: BulletDeviation;
+  openFireDistance: BulletDeviation;
+  startTrackingDistance: BulletDeviation;
+  switchTargetMinDistance: BulletDeviation;
+  openFireWhileTrackingProbability: BulletDeviation;
+  sleepAfterBurstProbability: BulletDeviation;
+  switchTargetWhileTrackingProbability: BulletDeviation;
+  predictionDisplacementMultiplier: BulletDeviation;
+}
+
+export interface BulletDeviation {
+  accuracyMultiplier: number[];
+  densityMultiplier: number[];
+  redBlackoutMultiplier: number[];
+  positiveOverload: NegativeOverload;
+  negativeOverload: NegativeOverload;
+  tangage: NegativeOverload;
+  roll: NegativeOverload;
+}
+
+export interface NegativeOverload {
+  value: number[];
+  multiplier: number[];
+}
+
+export interface Stamina {
+  accuracy: number[];
+  density: number[];
+}
+
+export interface TakingDamage {
+  damageMultiplier: number[];
+  deathChanceMultiplier: number[];
+}
+
+export interface Mechanic {
+  hangarRepairSpeed: number[];
+  airfieldRepairDuration: number[];
+  airfieldReloadDuration: number[];
+}
+
+export interface Pilot {
+  takingDamage: TakingDamage;
+  detection: Detection;
+  mouseAim: MouseAim;
+}
+
+export interface MouseAim {
+  smoothnessK: number[];
+  noiseK: number[];
+}
+
+export interface ShipCrew {
+  crewShipToAircraftViewCamSpottingDistance: number;
+  crewShipHearingDistance: number;
+  crewShipHearingSpottingDistance: number;
+  crewShipVisionDistance: number;
+  crewShipVisionSpottingDistance: number;
+  crewShipToTorpedoViewCamSpottingDistance: number;
+  crewShipToMineViewCamSpottingDistance: number;
+  visionSpottingDistanceMultiplier: number[];
+  ship_commander: ShipCommander;
+  ship_engine_room: ShipEngineRoom;
+  ship_artillery: ShipArtillery;
+  ship_damage_control: ShipDamageControl;
+  ship_dock_service: ShipDockService;
+}
+
+export interface ShipArtillery {
+  mainCaliberReloadMult: number[];
+  auxCaliberReloadMult: number[];
+  antiairCaliberReloadMult: number[];
+  antiairGunnerMaxAngle: number[];
+  auxGunnerMaxAngle: number[];
+  distFuseAccuracy: number[];
+}
+
+export interface ShipCommander {
+  interchangeAbilityMult: number[];
+  leadership: number[];
+  radioDistanceMult: number[];
+}
+
+export interface ShipDamageControl {
+  unwatering: number[];
+  extinguisherTimeMult: number[];
+  fireDamageMult: number[];
+  repairTimeMult: number[];
+  surviveEffortMult: number[];
+}
+
+export interface ShipDockService {
+  torpedoGunSpreadMult: number[];
+  rocketGunSpreadMult: number[];
+  machineGunCoolDownMult: number[];
+}
+
+export interface ShipEngineRoom {
+  operationTime: number[];
+  floodCriticalWork: number[];
+  antiFireSkill: number[];
+}
+
+export interface StaminaClass {
+  restorationSpeed: number[];
+  staminaAttenuationK: number[];
+  staminaUsageThreshold: number;
+  positiveOverload: TiveOverload;
+  negativeOverload: TiveOverload;
+}
+
+export interface TiveOverload {
+  usageSpeed: number[];
+  adoptableGMultiplier: number[];
+}
+
+export interface TankCrew {
+  crewTankHearingDistance: number;
+  crewTankHearingSpottingDistance: number;
+  crewTankVisionDistance: number;
+  crewTankVisionSpottingDistance: number;
+  crewTankViewCamVisionDistance: number;
+  crewTankViewCamVisionSpottingDistance: number;
+  crewTankToAircraftViewCamSpottingDistance: number;
+  crewTankVisionAngle: number;
+  crewTankVisionSpottingAngle: number;
+  driver: Driver;
+  tank_gunner: { [key: string]: number[] };
+  commander: Commander;
+  loader: Loader;
+  radio_gunner: RadioGunner;
+}
+
+export interface Commander {
+  visionSpottingDistanceMultiplier: number[];
+  fieldRepairSpeedMultiplier: number[];
+  damageMultiplier: number[];
+  changeTimeMultiplier: number[];
+  leadership: number[];
+  machineGunError: number[];
+}
+
+export interface Driver {
+  visionSpottingDistanceMultiplier: number[];
+  fieldRepairSpeedMultiplier: number[];
+  damageMultiplier: number[];
+  changeTimeMultiplier: number[];
+  brakesTau: number[];
+  gearChangeTime: number[];
+  maxForwardSpeed: number[];
+  maxBackSpeed: number[];
+  driverSpeedThreshold: number;
+}
+
+export interface Loader {
+  visionSpottingDistanceMultiplier: number[];
+  fieldRepairSpeedMultiplier: number[];
+  damageMultiplier: number[];
+  changeTimeMultiplier: number[];
+  loadingTimeMult: number[];
+}
+
+export interface RadioGunner {
+  visionSpottingDistanceMultiplier: number[];
+  fieldRepairSpeedMultiplier: number[];
+  damageMultiplier: number[];
+  changeTimeMultiplier: number[];
+  artilleryDispersionMult: number[];
+  artilleryAdjustmentDispersionMult: number[];
+  artilleryTimeToFirstShotMult: number[];
+  artilleryTimeBetweenShotsMult: number[];
+  artilleryTimeBetweenAdjustmentsShots: number[];
+  radioDistanceMult: number[];
+}
+
+export interface Weaponsmith {
+  reloadSpeed: ReloadSpeed;
+  weaponCare: WeaponCare;
+}
+
+export interface ReloadSpeed {
+  gun: number[];
+  cannon: number[];
+  schraegeMusik: number[];
+  bombs: number[];
+  rockets: number[];
+  torpedoes: number[];
+  gunners: number[];
+}
+
+export interface WeaponCare {
+  bombScatterMultiplier: number[];
+  torpedoScatterMultiplier: number[];
+  rocketScatterMultiplier: number[];
+  jamProbabilityMultiplier: number[];
+}
+
+export interface CrewSlot {
+  cost: number;
+  costGold: number;
+}
+
+export interface NeedBuyToOpenNextInEra {
+  country_ussr: { [key: string]: number };
+  country_usa: { [key: string]: number };
+  country_germany: { [key: string]: number };
+  country_britain: { [key: string]: number };
+  country_japan: { [key: string]: number };
+  country_italy: { [key: string]: number };
+  country_france: { [key: string]: number };
+  country_china: { [key: string]: number };
+  country_sweden: { [key: string]: number };
+  country_israel: { [key: string]: number };
+}
+
+export interface PrestigeByRank {
+  prestige0: number;
+  prestige1: number;
+  prestige2: number;
+  prestige3: number;
+  prestige4: number;
+  prestige5: number;
+  prestige6: number;
+  prestige7: number;
+  prestige8: number;
+}
+
+export interface WwSettings {
+  checkUnitAvailability: string;
+  minCraftRank: number;
+}
+
 //custom
 export interface savedparse {
   title: string;
@@ -1930,6 +2451,36 @@ export interface HelicopterProps extends FinalProps {
   type: "helicopter";
   ballistic_computer?: BallisticComputer;
   secondary_weapon_preset?: SecondaryWeaponPreset;
+  has_maw?: boolean;
+  has_lws?: boolean;
+  has_rwr?: boolean;
+  has_ircm?: boolean;
+  has_hirss?: boolean;
+  optics?: HelicopterOptics;
+}
+
+export interface HelicopterOptics {
+  pilot?: HeliSight;
+  gunner?: HeliSight;
+  sight?: HeliGunnerSight;
+}
+
+export interface HeliSight {
+  ir?: {
+    resolution: number[];
+    lightMult: number;
+    ghosting: number;
+    noiseFactor: number;
+  };
+}
+
+export interface HeliGunnerSight extends HeliSight {
+  zoomInFov: number; //74
+  zoomOutFov: number;
+  thermal?: {
+    resolution: [1024, 768];
+    noiseFactor: 0.5;
+  };
 }
 
 //Final Shop

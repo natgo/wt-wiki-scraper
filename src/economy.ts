@@ -4,11 +4,13 @@ import { format } from "prettier";
 import { commonVehicle } from "./commonVehicle";
 import { CWToCannon } from "./commonWeaponToCannon";
 import { langcsvJSON } from "./csvJSON";
+import { sensors } from "./sensors";
 import {
   AirVehicle,
   Economy,
   Final,
   GroundVehicle,
+  HelicopterOptics,
   NightVision,
   Shop,
   Sights,
@@ -288,9 +290,49 @@ async function main(dev: boolean) {
       return lang.ID === element.intname + "_shop";
     });
 
+    const sight =
+      vehicleData.cockpit.sightInFov && vehicleData.cockpit.sightOutFov
+        ? { zoomInFov: vehicleData.cockpit.sightInFov, zoomOutFov: vehicleData.cockpit.sightOutFov }
+        : undefined;
+
+    let optics: HelicopterOptics | undefined = {
+      sight: sight ? { ...sight } : undefined,
+    };
+    Object.values(vehicleData.modifications).forEach((value) => {
+      if (value.effects?.nightVision) {
+        if (sight) {
+          optics = {
+            pilot: {
+              ir: value.effects.nightVision.pilotIr,
+            },
+            gunner: {
+              ir: value.effects.nightVision.gunnerIr,
+            },
+            sight: {
+              ...sight,
+              thermal: value.effects.nightVision.sightThermal,
+            },
+          };
+        } else {
+          optics = {
+            pilot: {
+              ir: value.effects.nightVision.pilotIr,
+            },
+            gunner: {
+              ir: value.effects.nightVision.gunnerIr,
+            },
+          };
+        }
+      }
+    });
+
+    console.log(element.intname);
+
     final.helicopter.push({
       ...commonVehicle(element, vehicleLang, vehicleEconomy, vehicleUnit, shopData, "helicopters"),
       type: "helicopter",
+      ...sensors(vehicleData, dev),
+      optics: optics,
       ballistic_computer: vehicleBallistic(vehicleData),
       secondary_weapon_preset: vehiclePreset(vehicleData, weaponry_lang, dev),
     });
