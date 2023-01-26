@@ -92,7 +92,7 @@ The main gun of the Sho't Kal is the Israeli modification of the legendary Royal
 |}
 
 ==== Ammunition ====
-{{:Sharir (105 mm)/Ammunition|M152|M156|M111|M416}}
+{{:Sharir (105 mm)/Ammunition|M152, M156, M111, M416}}
 
 Your main round for most of the situations is the M111 "Hetz" APFSDS. It can penetrate 195mm RHAe at 60 degrees at point blank range and 177mm RHAe at 60 degrees at 2,000 m, and comes with a muzzle velocity of 1,455 m/s, making the M111 one of the strongest penetrating kinetic rounds at 8.3 BR against sloped surfaces. You'll use this round 9/10 times in your engagements. It'll chew up Leopards, T-54s, T-55s, OF-40, Centauros, IS-3s, AMX-30s, STBs and Type 74s at all ranges.
 

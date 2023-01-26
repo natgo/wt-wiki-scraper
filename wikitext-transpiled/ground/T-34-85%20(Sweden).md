@@ -1,3 +1,8 @@
+{{About
+| about = medium tank '''{{PAGENAME}}'''
+| usage = other versions
+| link = T-34 (Family)
+}}
 {{Specs-Card
 |code=sw_t_34_85_zis_53
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -180,16 +185,22 @@ The gun depression is like on many other Soviet vehicles quite poor, with only 5
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=sw_t_34_85_zis_53 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+;Other T-34-85 variants
+* [[T-34-85 (D-5T)]]
+* [[T-34-85]]
+* [[T-34-85 No.215]]
+* [[T-34-85E]]
+* [[Т-34-85 (S-53) (China)]]
+* [[Т-34-85 Gai]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

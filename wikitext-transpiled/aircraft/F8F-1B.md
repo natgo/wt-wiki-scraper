@@ -7,7 +7,7 @@
 }}
 {{Specs-Card
 |code=f8f1b
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |cockpit=cockpit_f8f1b.jpg
 }}
 

@@ -70,7 +70,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 |}
 
 ==== Ammunition ====
-{{:Sharir (105 mm)/Ammunition|M152|M156|M111|M416}}
+{{:Sharir (105 mm)/Ammunition|M152, M156, M111, M416}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Merkava_Mk.1_(USA).jpg|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -90,10 +90,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
+{{Specs-Tank-Weapon|4}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|M2HB (12.7 mm)|FN MAG 60-40 (7.62 mm)}}
-
-''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.''
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -101,7 +100,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Coaxial || 1,000 (200) || 577 || N/A || N/A
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -110,11 +109,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Pintle (loader) || 1,800 (200) || 600 || -10°/+50° || ±120°
 |-
-| || ___ (___) || ___ || __° || __°
+| Pintle (commander) || 1,800 (200) || 600 || -10°/+50° || ±120°
 |-
-| || ___ (___) || ___ || __° || __°
+| Coaxial || 6,000 (200) || 600 || N/A || N/A
 |-
 |}
 

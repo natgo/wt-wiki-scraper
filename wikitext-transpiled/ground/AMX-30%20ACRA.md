@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} French medium tank {{Battle-rating}}. It was introduced in [[Update 1.93 "Shark Attack"]].
 
-In the 1960s, a proposal was made to mount a 142 mm gun system firing the ACRA (Anti-Char Rapide Autopropulsé), English: Anti-Tank Rapid Self-guided Missile. A single prototype was finished in 1967 with a unique cast turret built around the gun, but due to the unreasonably high cost of the missiles, the project was scrapped. However, in War Thunder, it is a formidable tank to play with play styles similar to the [[M60A2]].
+In the 1960s, a proposal was made to mount a 142 mm gun system firing the ACRA (Anti-Char Rapide Autopropulsé), English: Anti-Tank Rapid Self-guided Missile. A single prototype was finished in 1967 with a unique cast turret built around the gun, but due to the unreasonably high cost of the missiles, the project was scrapped. However, in War Thunder, it is a formidable tank to play with playstyles similar to the [[M60A2]].
 
 == General info ==
 === Survivability and armour ===
@@ -79,39 +79,7 @@ Another good point with the gun is that you don't need to stop the tank to fire.
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| MP ACRA || ATGM || 700 || 700 || 700 || 700 || 700 || 700
-|-
-| MUC || HE || 36 || 36 || 36 || 36 || 36 || 36
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| MP ACRA || ATGM || 500 || 25 || 0.05 || 0.1 || 3,280 || 80° || 82° || 90°
-|-
-| MUC || HE || 700 || 23 || 0 || 0.1 || 3,580 || 79° || 80° || 81°
-|-
-|}
+{{:ACRA (142 mm)/Ammunition|MP ACRA, MUC}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->

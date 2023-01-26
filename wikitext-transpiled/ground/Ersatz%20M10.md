@@ -75,39 +75,7 @@ The Ersatz "M10" turret is also a good indicator in distinguishing the M10 from 
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| PzGr 39/42 || APCBC || 192 || 188 || 173 || 156 || 140 || 126
-|-
-| Sprgr. 42 || HE || 11 || 11 || 11 || 11 || 11 || 11
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| PzGr 39/42 || APCBC || 935 || 6.8 || 1.2 || 14 || 28.9 || 48° || 63° || 71°
-|-
-| Sprgr. 42 || HE || 700 || 5.74 || 0 || 0.1 || 725 || 79° || 80° || 81°
-|-
-|}
+{{:KwK42 (75 mm)/Ammunition|PzGr 39/42, Sprgr. 42}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Panther_G.png|right|thumb|x250px|[[Ammo racks]] of the Panther G (identical).]]

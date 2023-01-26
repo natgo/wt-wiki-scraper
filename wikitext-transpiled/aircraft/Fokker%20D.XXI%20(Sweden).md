@@ -1,3 +1,8 @@
+{{About
+| about = premium fighter '''{{PAGENAME}}'''
+| usage = the regular version
+| link = Fokker D.XXI-3 (Sweden)
+}}
 {{Specs-Card
 |code=fokker_d21_mod20
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}

@@ -73,57 +73,7 @@ The 90 mm cannon on the M36 is great at its BR. The stock AP has good penetratio
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M77 shot || AP || 162 || 160 || 148 || 135 || 123 || 113
-|-
-| M82 shot || APCBC || 173 || 170 || 159 || 145 || 133 || 121
-|-
-| M71 shell || HE || 13 || 13 || 13 || 13 || 13 || 13
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M77 shot || AP || 822 || 10.61 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| M82 shot || APCBC || 813 || 10.94 || 1.2 || 14 || 137.2 || 48° || 63° || 71°
-|-
-| M71 shell || HE || 823 || 10.55 || 0 || 0.1 || 925 || 79° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| M313 || 821 || 10.7 || 13 || 5 || 20 || 50
-|-
-|}
+{{:M3 (90 mm)/Ammunition|M77 shot, M82 shot (T25), M71 shell, M313}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_M36_GMC.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -206,7 +156,7 @@ One thing to note: if there is an enemy plane in the vicinity, getting to cover 
 === ROCA Service ===
 Under known documentations, the PLA nor ROCA received the M36 GMC <small>(but PLA did captured one during the Korean War as PVA [People's Voluntary Army] in 1951, now displayed in Beijing)</small>, however the ROCA have received the [[M36B2_(France)|M36B2]] variant from France.
 
-As part of the retreat from Vietnam due to the total loss of French Indo-China, 8 of the M36B2 of the French Army were returned to USA and then handed to ROCA in 1955 to the '''3rd Armored Artillery Company, 600th Field Artillery Group''' of '''Kinmen Defense Command''' as a part of the emergency military aid against the ongoing artillery war between ROCA and PLA at costal Xiamen/Kinmen. They were positioned into fortified position with a slope for better trajectory against PLA targets on the other side of the Xiamen Bay. A memoir from a ROCA veteran claimed that one of these M36B2 took down a PLA broadcast station while records from ROCA have recorded losses of two M36B2 during the war.<ref>https://a2928796.pixnet.net/blog/post/289486502-%E9%87%91%E9%96%80%E7%9A%84m36</ref> The remaining of these M36s were likely decommissioned in 2000 as some photo suggests that two of them were still in commission as late as 2001.
+As part of the retreat from Vietnam due to the total loss of French Indo-China, 8 of the M36B2 of the French Army were returned to USA and then handed to ROCA in 1955 to the '''3rd Armored Artillery Company, 600th Field Artillery Group''' of '''Kinmen Defense Command''' as a part of the emergency military aid against the ongoing artillery war between ROCA and PLA at costal Xiamen/Kinmen. They were positioned into fortified position with a slope for better trajectory against PLA targets on the other side of the Xiamen Bay. A memoir from a ROCA veteran claimed that one of these M36B2 took down a PLA broadcast station while records from ROCA have recorded losses of two M36B2 during the war.<ref>https://a2928796.pixnet.net/blog/post/289486502-%E9%87%91%E9%96%80%E7%9A%84m36</ref> The remaining of these M36s were likely decommissioned in 2000 as some photo suggests that two of them were still in commission as late as 2001.
 
 All the remaining 6 tanks are currently in Taichung (at Chenggongling Training Facility), Hsinchu (in ROCA Armor Training Command at Hukou Township; a theme park at Xinfeng Township respectively), Kaohsiung (ROCMC School at Zuoying) and 3 on Kinmen (2 are still in their combat fortifications while the remaining known one is at the Rushan Fort [乳山故壘] tank walkway<ref>https://blog.xuite.net/b0917581040191/twblog/176510695</ref>)
 

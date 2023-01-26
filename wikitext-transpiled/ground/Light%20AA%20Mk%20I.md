@@ -71,47 +71,7 @@ The four BESA machine guns the {{PAGENAME}} is armed with can be devastating to 
 * '''API-T:''' {{Annotation|IT|Incendiary tracer}}{{-}}{{Annotation|IT|Incendiary tracer}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|T|Tracer}} - Contains a lot of incendiary tracer rounds, which have a higher chance of starting fires in aircraft. Once a fire is started, it is likely to destroy the plane, making this belt very effective.
 * '''AP-T:''' {{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|IT|Incendiary tracer}}{{-}}{{Annotation|T|Tracer}} - AP rounds are still ineffective against armour, despite the name, but deal more damage to aircraft components. With good aim, this belt can tear wings off and destroy engines.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 5 || 4 || 3 || 3 || 3 || 3
-|-
-| Universal || 13 || 12 || 7 || 3 || 3 || 3
-|-
-| API-T || 13 || 12 || 7 || 3 || 3 || 3
-|-
-| AP-T || 13 || 12 || 7 || 3 || 3 || 3
-|-
-|}
-
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 7 mm T || T ||847 || 0.01 || N/A || N/A || N/A || 47° || 56° || 65°
-|-
-| 7 mm Ball || Ball || 847 || 0.01 || N/A || N/A || N/A || 47° || 56° || 65°
-|-
-| 7 mm IT || IT || 771 || 0.01 || 0 || 3 || N/A || 47° || 56° || 65°
-|-
-| 7 mm AP || AP || 783 || 0.01 || N/A || N/A || N/A || 47° || 56° || 65°
-|-
-|}
+{{:BESA (7.92 mm)/Ammunition|T, Ball, IT, AP}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

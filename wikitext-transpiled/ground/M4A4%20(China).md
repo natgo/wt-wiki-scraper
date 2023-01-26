@@ -84,57 +84,7 @@ The M4A4's 75 mm gun is average for its rank, but it will still be able to knock
 ==== Ammunition ====
 The main shell you should use is the M61 APCBC, which can punch through the most armour and has decent post-penetration damage. Around 20-25 of these rounds should be carried. You should also carry at least one HE shell, as you don't have a M2 heavy machine gun like other Shermans, so unarmoured vehicles like SPAAs will be hard to kill with just your paltry 7.62 mm machine gun. 2 or 3 smoke shells should also be carried in case you can't destroy an enemy and will have to settle for confusing it with smoke. In a pinch, these can also be used to hide from enemies. A couple AP rounds can also be carried, but the APCBC shot is better in all aspects.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | '''Penetration @ 0° Angle of Attack (mm)'''
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M72 shot || AP || 91 || 88 || 78 || 67 || 57 || 49
-|-
-| M48 shell || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-| M61 shot || APCBC || 104 || 101 || 90 || 78 || 68 || 59
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M72 shot || AP || 619 || 6.3 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| M48 shell || HE || 463 || 6.3 || 0 || 0.1 || 666 || 79° || 80° || 81°
-|-
-| M61 shot || APCBC || 618 || 6.79 || 1.2 || 14 || 63.7 || 48° || 63° || 71°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| M89 || 259 || 3 || 13 || 5 || 20 || 50
-|-
-|}
+{{:M3 (75 mm)/Ammunition|M72 shot, M48 shell, M61 shot, M89}}
 
 ==== [[Ammo racks]] ====
 <!-- '''Last updated:''' -->

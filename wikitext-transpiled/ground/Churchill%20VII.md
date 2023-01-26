@@ -83,61 +83,11 @@ For all these reasons, Churchill VII must always drive at an angle and slightly 
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M72 shot || AP || 91 || 88 || 78 || 67 || 57 || 49
-|-
-| M61 shot || APCBC || 103 || 100 || 89 || 77 || 66 || 57
-|-
-| M48 shell || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M72 shot || AP || 619 || 6.3 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| M61 shot || APCBC || 618 || 6.53 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| M48 shell || HE || 463 || 6.3 || 0 || 0.1 || 666 || 79° || 80° ||  81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| M89 || 259 || 3 || 13 || 5 || 20 || 50
-|-
-|}
+{{:OQF Mk.V (75 mm)/Ammunition|M72 shot, M61 shot, M48 shell, M89}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks_ChurchillMkVII.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated:''' -->
+[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.23.0.51''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -148,12 +98,13 @@ For all these reasons, Churchill VII must always drive at an angle and slightly 
 ! 5th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''84''' || 68&nbsp;''(+16)'' || 51&nbsp;''(+33)'' || 34&nbsp;''(+50)'' || 17&nbsp;''(+67)'' || 1&nbsp;''(+83)'' || style="text-align:center" | Yes
+| '''84''' || 71&nbsp;''(+13)'' || 51&nbsp;''(+33)'' || 31&nbsp;''(+53)'' || 16&nbsp;''(+68)'' || 1&nbsp;''(+83)'' || No
 |-
 |}
-'''Note''':
+'''Notes''':
 
-* Turret empty: 68&nbsp;''(+16)'' shells
+* Racks disappear after you've fired all shells in the rack.
+* Pack 16&nbsp;''(+68)'' shells to keep most of the hull empty.
 
 ==== Optics ====
 
@@ -195,7 +146,7 @@ At rank III, this scope is slightly or moderately superior to most medium and he
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 The Churchill Mk VII is a slow and manoeuvrable turtle, you're not going to break any speed records, but rest assured that if the frontal armour is facing toward the enemy, most of their shells are not able to penetrate the front of the hull and turret at your BR and below. In an uptier, you really should avoid enemy SPGs and to be careful with medium tanks, as they can destroy or fatally cripple the tank, even when you are angled.
 
-The 75 mm gun may not be able to easily take on some of the tanks you may encounter at the rank, but with the high degree of protection, you can leisurely take your time picking out the weaknesses of your enemy to deal precise blow as you hear their rounds bounce off of your frontal armour. With the best ammunition, you can defeat or annoy even other heavy tanks without having to drive close to them. If enemy team is using open topped SPGs like [[M36 GMC]], [[Pvkv m/43 (1946)]], [[8,8 cm Flak 37 Sfl.]], [[Pvkv II]] and such, start firing HE - the main gun can fire as often as each 5 seconds and HE can destroy any of them in one hit almost anywhere regardless of range via overpressure, while they do not expect you to deal any at all, meaning that ironically the weakest gun around can be the strongest if underestimated enough.
+The 75 mm gun may not be able to easily take on some of the tanks you may encounter at the rank, but with the high degree of protection, you can leisurely take your time picking out the weaknesses of your enemy to deal precise blow as you hear their rounds bounce off of your frontal armour. With the best ammunition, you can defeat or annoy even other heavy tanks without having to drive close to them. If the enemy team is using open topped SPGs like [[M36 GMC]], [[Pvkv m/43 (1946)]], [[8,8 cm Flak 37 Sfl.]], [[Pvkv II]] and such, start firing HE - the main gun can fire as often as each 5 seconds and HE can destroy any of them in one hit almost anywhere regardless of range via overpressure, while they do not expect you to deal any at all, meaning that ironically the weakest gun around can be the strongest if underestimated enough.
 
 If nothing else, the Churchill VII can take a lot of smoke shells and make its opponent's life much worse, by driving up to capture points and smoking down snipers and passages, then proceed to blind fire at those unfortunate enough to be close to it. No matter what, do not let the enemy land a straight shot at you. In downtier, they may struggle with you for a long time even if you got surrounded.
 
@@ -222,23 +173,23 @@ As a whole, Japanese tanks are easier to deal with. Their armour is quite thin a
 
 '''Pros:'''
 
-* Amazing frontal armour (152 mm) makes it impervious to all kinetic shells at its BR
-* The 75 mm gun main gun is decent for close-range combat and also can be armed with utility shells
+* Thick frontal armour (152 mm) makes it impervious to all kinetic shells at its BR
+* The 75 mm gun is effective at close-range combat and can be armed with utility shells
 * Able to smoke up the entire battlefield in a matter of seconds if necessary
 * Ability to pivot steer
-* Good weight dispersion leads to amazing hill-climbing capabilities
-* Great -12° gun depression
+* Balanced weight dispersion leads to amazing hill-climbing capabilities
+* Great gun depression allows for firing over hills from relative safety
 * Gunsight zoom is high, so aiming for weak spots is easier
 
 '''Cons:'''
 
-* Terrible mobility: speed is capped at 20 km/h, slow acceleration, subpar -3 km/h reverse, and cannot scale obstacles properly
+* Poor mobility: speed is capped at 20 km/h, slow acceleration, subpar -3 km/h reverse, and cannot scale obstacles properly
 * Is very long, harder to navigate through confined spaces (e.g. urban maps)
-* Weak firepower: 75 mm AP shells lack explosive filler, have slow velocity, curved trajectory, and low penetration
+* Inadequate firepower: 75 mm AP shells lack explosive filler, have slow velocity, curved trajectory, and low penetration
 * Still has frontal weak spots: machine gun port both on the hull and turret are only 50 mm thick
 * Turret side armour is weak
 * Extremely vulnerable to coordinated flanking, as penetrations to the sides typically cause catastrophic damage to ammo racks located below the turret
-* Requires good coordination with a team to enable full potential
+* Requires good coordination with a team to unlock full potential
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

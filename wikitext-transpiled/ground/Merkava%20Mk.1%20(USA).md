@@ -100,7 +100,7 @@ The gun can be loaded with:
 * '''M111''': APFSDS; a kinetic rod with high penetration power but without explosive. It is capable of easily penetrating the majority of the foes it meets, but these rounds do require finesse as to their placing. Because the projectile lacks an explosive filler, the best bet is to try and either knock out the majority of the enemy tank's crew or to destroy the enemy by ammo or fuel detonation through hitting their respective storage capacities. This, of course, requires knowledge about the vehicles the {{PAGENAME}} may face - so be sure to use the game's X-Ray view in the hangar and analyse the potential foes for their weak spots! Also, keep in mind that with increased armour thickness the amount of shrapnel shrinks.
 * '''M416''': Smoke; useful to blind enemy vehicles that are too remote for you to disable so that you can progress towards objectives.
 
-{{:Sharir (105 mm)/Ammunition|M152|M156|M111|M416}}
+{{:Sharir (105 mm)/Ammunition|M152, M156, M111, M416}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.jpg|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

@@ -1,9 +1,7 @@
 {{About
 | about = British jet fighter '''{{PAGENAME}}'''
-| and
 | usage = other versions
-| link-1 = Vampire FB 52A
-| link-2 = J28B
+| link = Vampire (Family)
 }}
 {{Specs-Card
 |code=vampire_fb5

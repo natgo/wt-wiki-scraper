@@ -223,8 +223,9 @@ The MiG-29 has an unique flight character, it's engines consume much fuel thus t
 
 '''Pros:'''
 
-* Good maneuverability and high speed
+* Good manoeuvrability and high speed
 * Effective gun and radar system
+* Good radar-guided missiles
 
 '''Cons:'''
 
@@ -239,6 +240,9 @@ Compared to its Sukhoi rival, the MiG-29 traded the advanced flight control syst
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=mig_29_9_13 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|EEdjVf5IDOM|'''The Shooting Range #336''' - ''Metal Beasts'' section at 00:27 discusses the {{PAGENAME}}.}}

@@ -8,7 +8,7 @@
 }}
 {{Specs-Card
 |code=fj_4b
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |cockpit=cockpit_fj_4b.jpg
 }}
 

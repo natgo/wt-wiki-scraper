@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=xf5f
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |cockpit=cockpit_xf5f.jpg
 |market=XF5F Skyrocket
 }}

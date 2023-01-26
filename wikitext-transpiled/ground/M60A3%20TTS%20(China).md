@@ -87,65 +87,11 @@ The M60A3 TTS is equipped with a 105 mm M68 rifled gun functionally identical to
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M728 || APDS || 260 || 258 || 250 || 240 || 231 || 222
-|-
-| M393A2 || HESH || 127 || 127 || 127 || 127 || 127 || 127
-|-
-| M456 || HEATFS || 400 || 400 || 400 || 400 || 400 || 400
-|-
-| M735 || APFSDS || 353 || 350 || 342 || 333 || 322 || 312
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M728 || APDS || 1,426 || 4.65 || N/A || N/A || N/A || 75° || 78° || 80°
-|-
-| M393A2 || HESH || 732 || 11.2 || 0.1 || 4 || 4,310 || 73° || 77° || 80°
-|-
-| M456 || HEATFS || 1,174 || 10.5 || 0.05 || 0.1 || 1,270 || 65° || 72° || 77°
-|-
-| M735 || APFSDS || 1,501 || 3.7 || N/A || N/A || N/A || 76° || 77° || 80°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive mass<br>(TNT equivalent) (g)
-|-
-| M416 || 732 || 11.6 || 20 || 5 || 25 || 50
-|-
-|}
+{{:M68 (105 mm)/Ammunition|M728, M393A2, M456, M416, M735}}
 
-The stock M728 APDS has unimpressive flat penetration but good angled penetration, actually beating out a few APFSDS rounds. It works decently against most opponents but might struggle to finish off vehicles with large volumes or extremely thin armour due to the concentrated post-penetration damage. Players used to the [[Type 59]] or [[Type 69]] will be happy to know that M728 can consistently penetrate the upper glacis of the [[M60A1 (AOS)]] and [[M60A1 RISE (P)]]. The M456 HEATFS penetrates 400 mm of RHA at any distance and will have no issue enemies with steel armour. Unfortunately, it will often detonate upon impact with bushes or fences and the post-penetration damage can be inconsistent. Enemy tanks equipped with ERA like the [[M60A1 RISE (P)]] are almost frontally immune to it. The M393A2 HESH round generates a wide but shallow spray of spalling upon impact and might be useful on occasion against lightly armoured vehicles, but it has poor ballistics and is generally not worth it in normal combat.
+The stock '''M728 APDS''' has unimpressive flat penetration but good angled penetration, actually beating out a few APFSDS rounds. It works decently against most opponents but might struggle to finish off vehicles with large volumes or extremely thin armour due to the concentrated post-penetration damage. Players used to the [[Type 59]] or [[Type 69]] will be happy to know that M728 can consistently penetrate the upper glacis of the [[M60A1 (AOS)]] and [[M60A1 RISE (P)]]. The '''M456 HEATFS''' penetrates 400 mm of RHA at any distance and will have no issue enemies with steel armour. Unfortunately, it will often detonate upon impact with bushes or fences and the post-penetration damage can be inconsistent. Enemy tanks equipped with ERA like the [[M60A1 RISE (P)]] are almost frontally immune to it. The '''M393A2 HESH''' round generates a wide but shallow spray of spalling upon impact and might be useful on occasion against lightly armoured vehicles, but it has poor ballistics and is generally not worth it in normal combat.
 
-The M735 APFSDS round is the best all-purpose offering. It improves upon the APDS round in all aspects and there are few enemies at the M60A3 TTS's rank that can resist it. The angled penetration tops out at about 160 mm at 60 degrees, which is less than the ~190 mm at 60 degrees offered by the ZTZ59D1's APFSDS, but this will typically not be a problem unless uptiered against Soviet MBTs.
+The '''M735 APFSDS''' round is the best all-purpose offering. It improves upon the APDS round in all aspects and there are few enemies at the M60A3 TTS's rank that can resist it. The angled penetration tops out at about 160 mm at 60 degrees, which is less than the ~190 mm at 60 degrees offered by the ZTZ59D1's APFSDS, but this will typically not be a problem unless uptiered against Soviet MBTs.
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_M60A3_TTS.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

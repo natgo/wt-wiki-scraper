@@ -81,23 +81,7 @@ The {{PAGENAME}} is based off the M15/42 hull, with an opened top turret surroun
 * '''Perforante mod.35:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}} - This belt is adapted to destroy lightly armoured targets.
 * '''PzGr 40:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}} - This is the most powerful belt that can help you even take on armoured targets, although you lose almost all your penetrating power above 500 m so use it in CQC.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 38 || 36 || 27 || 19 || 14 || 10
-|-
-| Granata mod.35 || 38 || 36 || 27 || 19 || 14 || 10
-|-
-| Perforante mod.35 || 38 || 36 || 27 || 19 || 14 || 10
-|-
-| PzGr 40 || 48 || 45 || 31 || 20 || 14 || 10
-|-
-|}
+{{:Scotti-IF 20/70 mod.41 (20 mm)/Ammunition|HEFI-T*, API-T, HVAP-T}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

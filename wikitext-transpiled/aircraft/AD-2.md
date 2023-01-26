@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=douglas_ad_2
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |cockpit=cockpit_douglas_ad_2.jpg
 }}
 

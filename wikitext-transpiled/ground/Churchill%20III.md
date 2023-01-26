@@ -39,7 +39,7 @@ The Churchill III is one of the best protected tanks at its battle rating. The t
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-The tank is not very fast and does turn quite slowly. The reverse is not as great.
+The Churchill III won't get anywhere fast. It turns slowly and the reverse is also poor, making it difficult to peek hills or corner. If the terrain is rough, the Churchill's performance will suffer, as the suspension is not suited for rough terrain. Additionally, climbing hills is an excruciating experience due to the heavy armour, so you should choose a route with the shallowest incline possible.
 
 {{tankMobility|abMinHp=452|rbMinHp=310}}
 
@@ -53,7 +53,7 @@ The tank is not very fast and does turn quite slowly. The reverse is not as grea
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|6pdr OQF Mk.V (57 mm)}}
 
-The gun on the Churchill is also excellent, as it has very high penetration and deals also very good damage for such a small calibre. A good trait of British guns is their high rate of fire, allowing the Churchill III to destroy several tanks quickly.
+The gun on the Churchill is also excellent, as it has very high penetration and deals also very good damage for such a small calibre. A good trait of British guns is their high rate of fire, and the Churchill's 57 mm is no exception. This allows the Churchill III to engage and/or destroy several tanks relatively quickly.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -72,47 +72,7 @@ The gun on the Churchill is also excellent, as it has very high penetration and 
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Shot Mk.8 || APC || 116 || 111 || 94 || 76 || 62 || 50
-|-
-| Shot Mk.5 HV || AP || 115 || 111 || 93 || 75 || 60 || 49
-|-
-| Shot Mk.9 || APCBC || 132 || 127 || 110 || 91 || 75 || 63
-|-
-| Shell Mk.10 || HE || 9 || 9 || 9 || 9 || 9 || 9
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Shot Mk.8 || APC || 883 || 2.87 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| Shot Mk.5 HV || AP || 891 || 2.8 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| Shot Mk.9 || APCBC || 847 || 3.23 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| Shell Mk.10 || HE || 655 || 2.72 || 0 || 0.1 || 590 || 79° || 80° || 81°
-|-
-|}
+{{:6pdr OQF Mk.V (57 mm)/Ammunition|Shot Mk.8, Shot Mk.5 HV, Shot Mk.9, Shell Mk.10}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -169,15 +129,15 @@ The gun on the Churchill is also excellent, as it has very high penetration and 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-This tank can be effectively be played in a brawling style, going into the front lines. This tank, due to its excellent armour and gun, can even hold off an entire enemy flank with minimal backup.
+The Churchill III can be effectively be played in a brawling style, going into the front lines. It can even hold off an entire enemy flank with minimal backup, due to the thick armour and excellent gun.
 
-In city maps, be careful not to expose the side armour as it is quite weak and the engine might get damaged. With its good gun, it can be as a support tank as well, in the second line destroying tanks. Angle the hull armour to maximize its effectiveness. When frontally angled, even the sides will be tough to penetrate.
+In city maps, you should be careful not to expose the side armour, as it is quite weak and the engine might get damaged. With its good gun, it can be used as a support tank as well, in the second line destroying tanks. Angle the hull armour to maximize its effectiveness. When frontally angled, even the sides will be tough to penetrate.
 
-There are some tanks that the Churchill III doesn't even need to worry about them penetrating the Churchill from the front, such as the Panzer III. Angling the armour will make the tank tough even against the high-penetration tanks like the Panzer IV F2, though these are still a big concern. When encountering these tanks with high-velocity cannons, it is advised to take cover, angle, or destroy them first. Shermans are not much threat since they won't really penetrate the Churchill armour, but sometimes they do.
+There are some tanks that the Churchill III doesn't even need to worry about them penetrating the Churchill from the front, the most prominent of these being the Panzer III. Angling the armour will make the tank tough against even high-penetration tanks like the Panzer IV F2, though don't rely on that armour only as the F2 has a high-velocity cannon. Against those cannons, it is advised to take cover, angle, or destroy them first. Shermans are not much concern since they won't really penetrate the Churchill armour unless flanking or hitting one of the few weak points.
 
 Most enemy tanks are easy to deal with the 57 mm gun that can punch straight through. Despite the small calibre, it can create enough post-penetration damage to one-shot medium tanks if aimed properly.
 
-Overall, the Churchill III is a very powerful Rank III vehicle that is capable of holding off an entire flank, while destroying tanks easily in quick succession. If the Churchill III is not in an up-tiered situation, it can effectively enter a battle and absorb all the enemy rounds which could've been fired at weaker teammates and either engage the enemy with the 57 mm cannon or let teammates return fire. Companion vehicles such as the [[Pz.IV F2|Panzer IV F2]], the [[8,8 cm Flak 37 Sfl.]] and other German vehicles possess superior firepower compared to the other country vehicles in rank III (Except for other special TDs, such as the American [[M10 GMC|M10]] and British [[Achilles]]) and can in most cases hold their own.
+Overall, the Churchill III is a very powerful Rank III vehicle that is capable of holding off an entire flank, while destroying tanks easily in quick succession. If the Churchill III is not in an up-tiered situation, it can effectively enter a battle and act as a shell magnet for enemy rounds which could've been fired at weaker teammates, and then either engage the enemy with the 57 mm cannon or let teammates return fire. Companion vehicles such as the [[Pz.IV F2|Panzer IV F2]], the [[8,8 cm Flak 37 Sfl.]] and other German vehicles possess superior firepower compared to the other country vehicles in rank III (Except for other special TDs, such as the American [[M10 GMC|M10]] and British [[Achilles]]) and can in most cases hold their own.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -198,7 +158,7 @@ Overall, the Churchill III is a very powerful Rank III vehicle that is capable o
 * Slow speed and mobility - Will take a while to reach combat and can lose a lot of speed when making a sharp turn in motion
 * Armour and gun are not sufficient against other heavy tanks or enemy tanks with high-velocity guns
 * Armour consists of lots of flat sides and has a frontal weak point in the machine gun port, also roof armour is quite thin
-* Has trouble scaling obstacles
+* Has trouble scaling obstacles or hills
 * Ammo racks just below the turret, smart player will shoot there and will be lethal most of the time
 * Priority target by planes due to size and bad reverse speed
 
@@ -229,6 +189,7 @@ After World War II, the Churchill stuck around in the British Army until the Kor
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a_22b_mk_3_churchill_1942 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -239,6 +200,7 @@ After World War II, the Churchill stuck around in the British Army until the Kor
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

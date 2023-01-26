@@ -70,7 +70,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American strike a
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+The A-1H only has 2 15 mm steel plates on the side and 40 mm of bulletproof glass. The side armour can easily be penetrated with 20 mm rounds. 
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -166,11 +166,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
-In Air RB mode, the {{PAGENAME}} usage is similar of the use of [[AM-1]], [[AD-2]], and [[AD-4]].
-
-Utilize the {{PAGENAME}}'s wide variety of ordnance to destroy ground targets.
-
+The A-1H can perform well in battles at its BR, either in a CAS role with 30 x 250 lb bomb capacity, 228 x FFAR rockets and 11 x MK 77 mod 2 incendiary bombs. Once the ordnance is expended, it can also perform decently as a fighter since it has flares, which allows for it to be used in higher tier battles. 
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -199,12 +195,16 @@ Utilize the {{PAGENAME}}'s wide variety of ordnance to destroy ground targets.
 * Can mount up to 8 miniguns with plenty of ammunition, capable of destroying any planes with a short burst
 * Access to countermeasures, making it an ideal CAS in ground battles
 * Four 20 mm cannons are good for ground targets and plane
+* Sturdy and armoured enough to tank on machine gun and cannon rounds
 
 '''Cons:'''
 
 * Mediocre manoeuvrability that worsens with a payload you carry
 * 20 mm cannons and miniguns have different ballistic properties, can make lining up shot somewhat tricky
 * Can face jet aircraft that can easily hunt down and destroy the plane
+* Mighty Mouse Rockets are ineffective, requiring a direct hit even against SPAA
+* Anti-air like the AMX-13 DCA 40, Ostwind, Kugelblitz, BTR-ZD, and Lvkv II can punish this aircraft if too close
+* Toilet bomb has very low explosive mass, only effective on GAZ trucks and open-top AA
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -212,6 +212,9 @@ Utilize the {{PAGENAME}}'s wide variety of ordnance to destroy ground targets.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=douglas_a_1h Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|NxhYLDgeMOE|'''Battle Pass: Smell of Victory''' discusses the {{PAGENAME}} at 02:23 - ''War Thunder Official Channel''|cIV-3ekwmq8|'''The Shooting Range #327''' - ''Metal Beasts'' section at 00:27 discusses the {{PAGENAME}}.}}

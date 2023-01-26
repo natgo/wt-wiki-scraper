@@ -51,7 +51,7 @@ In the case of a vehicle with a gun simply unable to penetrate this front plate,
 
 Alternatively, aim at the Panzer IV from its long vulnerable sides in cases where its slow turret traverse cannot keep up with a flanking manoeuvre or catching it in an ambush. The interior is fully stocked with ammo racks even when the user is taking a minimum load. Moreover, the fuel tank resides at the very bottom of the center of the tank, so a penetrating shot with APHE will either detonate the ammunition, set the tank on fire, or knock out a good portion of the crew, if not fully destroy the tank with all three effect.
 
-In every case scenario, it is to the benefit of the surviving player to fire the first shot against the Panzer IV Ausf. G above all else, as it would deny the Panzer IV G even a chance to use its high-penetrating 75 mm gun.
+In every case scenario, it is to the benefit of the surviving player to fire the first shot against the Panzer IV Ausf. J above all else, as it would deny the Panzer IV J even a chance to use its high-penetrating 75 mm gun.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -257,9 +257,11 @@ The tank was produced between June, 1944 and March, 1945. 1,700 tanks were relea
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_IV_ausf_J Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
+
 * [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 ;Videos
@@ -267,11 +269,13 @@ The tank was produced between June, 1944 and March, 1945. 1,700 tanks were relea
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

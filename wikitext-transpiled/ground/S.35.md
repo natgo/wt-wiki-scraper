@@ -81,41 +81,9 @@ While being subpar to later pre-war tanks, this vehicle's main armament provides
 The {{PAGENAME}} has a limited choice of ammunition:
 
 * '''Mle1935''': APC; a solid shot with average penetration and no explosive filler. Make sure to target modules and crew positions to maximise the damage. Knowledge of enemy vehicle layouts is essential with this type of ammunition.
-* '''Mle1935 HE''': HE; useful for destroying open and very lightly armoured vehicles.
+* '''Mle1935 HE''': HE; useful for destroying open-topped and very lightly-armoured vehicles.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Mle1935 || APC || 62 || 59 || 47 || 36 || 27 || 20
-|-
-| Mle1935 HE || HE || 4 || 4 || 4 || 4 || 4 || 4
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Mle1935 || APC || 660 || 1.62 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| Mle1935 HE || HE || 590 || 1.41 || 0 || 0.1 || 143 || 79° || 80° || 81°
-|-
-|}
+{{:SA35 L/32 (47 mm)/Ammunition|Mle1935, Mle1935 HE}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -154,9 +122,9 @@ The small calibre of the MAC 31 machine gun makes it largely ineffective against
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-Your best option is to play in a supportive role, stay behind a well armoured vehicle and land shots on the enemy from a medium distance. Do not try to rush in ahead of the team or go solo, as 7/10 times you will be destroyed by a counter-flanking player. The S.35 is able to hold its ground if you create a corridor for people to come at you. If you are able to flank without being seen, just remember to check behind you every now and then.
+Your best option is to play in a supportive role, staying behind a well armoured vehicle and landing shots on the enemy from a medium distance. Do not try to rush in ahead of the team or go solo, as 7/10 times you will be destroyed by a counter-flanking player. The S.35 is able to hold its ground if you create a corridor for people to come at you. If you are able to flank without being seen, just remember to check behind you every now and then.
 
-All light tanks are to be feared as they can out-manoeuvre this cumbersome tank quite easily and most enemies with a bit of luck will eventually hit one of this tank's weak spots, the only thing to fear is facing a good bit of armour. With its low post-penetration damage, tank with many crew members are also hard to take down.
+All light tanks are to be feared as they can out-manoeuvre this cumbersome tank quite easily and most enemies with a bit of luck will eventually hit one of this tank's weak spots. Another challenge for this tank is facing a good bit of armour at ranges, where the SA35's penetration drops off. With its low post-penetration damage some tanks with many crew members (like the T-28) are also hard to take down.
 
 In a defensive role, it can be played in a hull down position on a hill. This lets you take full advantage of the gun's -18° of gun depression and means that only exceptionally well-placed shots will be able to harm you.
 
@@ -166,21 +134,21 @@ In a defensive role, it can be played in a hull down position on a hill. This le
 '''Pros:'''
 
 * Over all thick armour for rank I
-** ~35-40 mm thick on all sides + a bit sloped gives it a chance to survive a hit or two
-** Capable of very noticeable angling due to thick sides
+** ~35-40 mm thick on all sides with a slight slope gives it a chance to survive a hit or two
+** Capable of successfully angling due to thick sides
 ** Turret is quite thick on all sides
-* One of the first French tanks to be able to fight on its own at close range
+* One of the first French tanks which can brawl at closer ranges without support
 * Shoulder stabilizer makes stop-and-shoot tactics very effective
-* Good acceleration in AB, with an acceptable turn speed when driving At max speed
-* Has 3 crew members, granting better survivability than other 2-man French vehicles
+* Good acceleration in AB, with an acceptable turn speed when driving at max speed
+* 3 crew member configuration grants better survivability than other 2-man French tanks
 
 '''Cons:'''
 
 * Big cupola is an obvious shot trap
 * Angling can be defeated by knowing its shot traps: even a well-angled S.35 shows flat armour
-* Gun has poor penetration power from long range
+* Gun has poor penetration power on longer ranges
 * Limited ammunition choice
-* Mobility is an issue:
+* Mobility is limited:
 ** Long and narrow chassis makes for difficult turning
 ** Reverse speed feels slow
 
@@ -208,6 +176,7 @@ The S.35 was eventually decommissioned from active service at the end of hostili
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_somua_s35 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

@@ -78,43 +78,7 @@ The reload time is short, 6.7 seconds between shots (even with a knocked out loa
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| T33 shot || APBC || 198 || 194 || 181 || 165 || 151 || 138
-|-
-| M71A1 shell || HE || 13 || 13 || 13 || 13 || 13 || 13
-|-
-| M82 shot || APCBC || 210 || 207 || 193 || 178 || 163 || 150
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| T33 shot || APBC || 930 || 10.91 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| M71A1 shell || HE || 800 || 10.55 || 0 || 0.1 || 925 || 79° || 80° || 81°
-|-
-| M82 shot || APCBC || 930 || 10.94 || 1.2 || 14 || 137.2 || 48° || 63° || 71°
-|-
-|}
+{{:D.911 APX (90 mm)/Ammunition|T33 shot, M71A1 shell, M82 shot}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.jpg|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

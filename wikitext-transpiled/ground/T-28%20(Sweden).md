@@ -1,3 +1,8 @@
+{{About
+| about = medium tank '''{{PAGENAME}}'''
+| usage = other versions
+| link = T-28 (Family)
+}}
 {{Specs-Card
 |code=sw_t_28
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -114,7 +119,7 @@ The main armament of the T-28 is the 76 mm L-10 cannon, a rifled gun that can fi
 |}
 
 ==== [[Ammo racks]] ====
-<!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
+[[File:Ammoracks_T-28_(1938).png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
 <!-- '''Last updated:''' -->
 {| class="wikitable" style="text-align:center"
 |-
@@ -125,11 +130,30 @@ The main armament of the T-28 is the 76 mm L-10 cannon, a rifled gun that can fi
 ! 4th<br>rack empty
 ! 5th<br>rack empty
 ! 6th<br>rack empty
-! Visual<br>discrepancy
+! 7th<br>rack empty
+! 8th<br>rack empty
 |-
-| '''69''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''69''' || 62&nbsp;''(+7)'' || 56&nbsp;''(+13)'' || 50&nbsp;''(+19)'' || 47&nbsp;''(+22)'' || 44&nbsp;''(+25)'' || 41&nbsp;''(+28)'' || 39&nbsp;''(+30)'' || 36&nbsp;''(+33)''
+|-
+! 9th<br>rack empty
+! 10th<br>rack empty
+! 11th<br>rack empty
+! 12th<br>rack empty
+! 13th<br>rack empty
+! 14th<br>rack empty
+! 15th<br>rack empty
+! Visual<br>discrepancy
+!
+|-
+| 33&nbsp;''(+36)'' || 30&nbsp;''(+39)'' || 20&nbsp;''(+49)'' || 17&nbsp;''(+52)'' || 14&nbsp;''(+55)'' || 4&nbsp;''(+65)'' || 1&nbsp;''(+68)'' || No
+!
 |-
 |}
+'''Notes''':
+
+* Shells are modeled individually and disappear after having been shot or loaded.
+* If you pack 50&nbsp;''(+19)'' shells, it will keep the turret empty of ammo.
+* If you pack 33&nbsp;''(+36)'' shells, it will keep the turret and the top hull empty of ammo.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
@@ -189,7 +213,9 @@ The T-28 was the first medium tank the Soviets ever manufactured, it was intende
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=sw_t_28 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

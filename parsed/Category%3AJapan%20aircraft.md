@@ -329,6 +329,6 @@
 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
-{{Youtube-gallery|mF2Umflo4Uk|'''Mitsubishi Aircraft''' - ''War Thunder Official Channel''|oR8GNZF9qj4|'''Japanese Air Forces Rank I - Tutorial and Guide''' - ''Jengar''|qiq8SUqodU8|'''Climbing the ranks with Japanese aircraft'''  - ''War Thunder Official Channel''}}
+{{Youtube-gallery|Sos5DXQWorU|'''Japanese Jets of WW2''' - ''War Thunder Official Channel''|mF2Umflo4Uk|'''Mitsubishi Aircraft''' - ''War Thunder Official Channel''|oR8GNZF9qj4|'''Japanese Air Forces Rank I - Tutorial and Guide''' - ''Jengar''|qiq8SUqodU8|'''Climbing the ranks with Japanese aircraft''' - ''War Thunder Official Channel''}}
 
 [[Category:Aircraft by country]]

@@ -61,7 +61,7 @@ For Merkava it's even more important to research Parts and FPE, as the principle
 |}
 
 ==== Ammunition ====
-{{:Sharir (105 mm)/Ammunition|M152|M156|M111|M416}}
+{{:Sharir (105 mm)/Ammunition|M152, M156, M111, M416}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.jpg|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

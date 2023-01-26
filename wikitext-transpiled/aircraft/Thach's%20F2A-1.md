@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=f2a-1_thach
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |cockpit=cockpit_f2a-1_thach.jpg
 }}
 

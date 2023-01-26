@@ -92,44 +92,7 @@ The ammunition includes 4 belts, the Default belt, composed of one APDS and 2 HE
 * '''M791:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}
 * '''PMB 090:''' {{Annotation|APFSDS|Armour-piercing fin-stabilized discarding sabot}}
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 80 || 79 || 73 || 67 || 61 || 55
-|-
-| M792 || 3 || 3 || 3 || 3 || 3 || 3
-|-
-| M791 || 80 || 79 || 73 || 67 || 61 || 55
-|-
-| PMB 090 || 92 || 90 || 83 || 75 || 62 || 58
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Belt details
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M792 || HEI-T* || 1,100 || 0.19 || 0 || 0.1 || 54.4 || 79° || 80° || 81°
-|-
-| M791 || APDS || 1,335 || 0.13 || N/A || N/A || N/A || 75° || 78° || 80°
-|-
-| PMB 090 || APFSDS || 1,385 || 0.1 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
+{{:Oerlikon KBA B02 (25 mm)/Ammunition|APDS, HEI-T*, APFSDS}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|Ammo rack of 25 mm KBA of the VCC Dardo.]]
@@ -169,42 +132,7 @@ The TOW-2B is a researchable modification. Unlike the TOW-2, the 2B has the abil
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| TOW-2 || ATGM || 800 || 800 || 800 || 800 || 800 || 800
-|-
-| TOW-2B || ATGM&nbsp;(OTA) || 100 || 100 || 100 || 100 || 100 || 100
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="13" | Missile details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Arming distance<br>(m)
-! rowspan="2" | Trigger radius<br>(m)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| TOW-2 || ATGM || 329 || 3,750 || 21.45 || 0.05 || 0.1 || N/A || N/A || 4,410 || 80° || 82° || 90°
-|-
-| TOW-2B || ATGM&nbsp;(OTA) || 309 || 3,750 || 22.59 || 0.05 || 0.1 || 30 || 3 || 3,380 || 80° || 82° || 90°
-|-
-|}
+{{:BGM-71 TOW/Ammunition|TOW-2, TOW-2B}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks {{PAGENAME}} ATGM.jpg|right|thumb|x250px|Ammo rack of ATGMs in the VCC Dardo.]]

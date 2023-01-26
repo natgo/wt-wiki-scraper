@@ -69,57 +69,7 @@ The Cromwell RP-3 is very similar to the [[Cromwell V]] in terms of armour, mobi
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M72 shot || AP || 91 || 88 || 78 || 67 || 57 || 49
-|-
-| M61 shot || APCBC || 103 || 100 || 89 || 77 || 66 || 57
-|-
-| M48 shell || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M72 shot || AP || 619 || 6.3 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| M61 shot || APCBC || 618 || 6.53 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| M48 shell || HE || 463 || 6.3 || 0 || 0.1 || 666 || 79° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| M89 || 259 || 3 || 13 || 5 || 20 || 50
-|-
-|}
+{{:OQF Mk.V (75 mm)/Ammunition|M72 shot, M61 shot, M48 shell, M89}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Cromwell_V.png|right|thumb|x250px|[[Ammo racks]] of the [[Cromwell V]]]]
@@ -171,35 +121,7 @@ The Cromwell RP-3 is very similar to the [[Cromwell V]] in terms of armour, mobi
 |}
 
 ==== Ammunition ====
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| RP-3 || Rocket || 44 || 44 || 44 || 44 || 44 || 44
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| RP-3 || Rocket || 260 || 43.1 || 1 || 10 || 5,440 || 79° || 80° || 81°
-|-
-|}
+{{:RP-3/Ammunition|RP-3}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}_Rockets.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

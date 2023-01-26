@@ -429,8 +429,6 @@
 {{Tree-Arrow}}
 {{Tree-Unit|mig_23m}}
 {{Tree-Arrow}}
-{{Tree-Unit|mig_23mld}}
-{{Tree-Arrow}}
 |
 {{Tree-Unit|su_17m2}}
 {{Tree-Arrow}}
@@ -438,8 +436,7 @@
 |
 |
 {{Tree-Unit|mig_27m}}
-{{Tree-Arrow}}
-{{Tree-Unit|mig_27k}}
+{{Tree-Arrow|1}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|su_22m3}}
 {{Tree-Skip}}
@@ -450,6 +447,8 @@
 |
 {{Tree-Skip}}
 |
+{{Tree-Unit|mig_23mld}}
+{{Tree-Arrow}}
 {{Tree-Unit|mig_29_9_13}}
 {{Tree-Skip}}
 |
@@ -457,6 +456,7 @@
 |
 {{Tree-Skip}}
 |
+{{Tree-Unit|mig_27k}}
 {{Tree-Skip}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Skip}}

@@ -72,60 +72,7 @@ The OTOMATIC has access to both anti-air and anti-tank ammunition capable of dea
 
 '''HE-MOM''' - The High Explosive Variable Time fuse proximity shell has a full anti-air role with zero anti-tank role. Thanks to the high calibre, the HE is able to carry a proximity fuse with a lethal explosive mass, making it capable of destroying all aerial threats with one or two hits. Trigger discipline is recommended as, due to the fast fire rate, the OTOMATIC can spend the whole ammunition reserve really fast. Thanks to being a big shell, most enemy helicopters and aircraft will not redirect course when being fired at until it's too late compared to the continuous fire smaller calibre SPAA have (25, 30, 35, 40 mm, etc). They do not trigger Missile Alert Warning systems, making them the ultimate helicopter killer.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 76/62 SAPOM || SAPHEI || 60 || 59 || 54 || 48 || 43 || 39
-|-
-| 76/62 APFSDS || APFSDS || 311 || 308 || 301 || 291 || 281 || 271
-|-
-| 76/62 HE-MOM || HE-VT* || 15 || 15 || 15 || 15 || 15 || 15
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 76/62 SAPOM || SAPHEI || 910 || 6.35 || 1.2 || 14 || 662.4 || 79° || 80° || 81°
-|-
-| 76/62 APFSDS || APFSDS || 1,580 || 2.18 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="12" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! rowspan="2" | Arming distance<br>(m)
-! rowspan="2" | Trigger radius<br>(m)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 76/62 HE-MOM || HE-VT* || 910 || 6.3 || 0 || 0.1 || 1,070 || 500 || 8 || 79° || 80° || 81°
-|-
-|}
+{{:OTO Breda Cannone da 76/62 (76 mm)/Ammunition|76/62 SAPOM, 76/62 APFSDS, 76/62 HE-MOM}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|[[Ammo racks]] of the {{PAGENAME}}]]

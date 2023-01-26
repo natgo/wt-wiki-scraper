@@ -343,9 +343,8 @@
 |
 {{Tree-Unit|jaguar_gr1a}}
 {{Tree-Arrow}}
-{{Tree-Unit|harrier_gr7}}
 |
-{{Tree-Arrow-Full|2}}
+{{Tree-Arrow-Full|1}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|f-4jk}}
 |
@@ -359,6 +358,7 @@
 |
 {{Tree-Skip}}
 |
+{{Tree-Unit|harrier_gr7}}
 {{Tree-Skip}}
 |
 {{Tree-Unit|tornado_gr1}}

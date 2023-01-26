@@ -70,35 +70,7 @@ With its low speed, don't even dream of bold flanking manoeuvres, you must rely 
 With only 36 mm of penetration, poor post-penetration damage and a long reload time, this tank's main gun is the main failing of the H.35. With -13° of depression, it is actually a very depressing gun to shoot in a figurative and literal sense.
 
 ==== Ammunition ====
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Mle1937 || APCR || 36 || 33 || 24 || 16 || 8 || 5
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Mle1937 || APCR || 600 || 0.5 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-|}
+{{:SA18 L/21 (37 mm)/Ammunition|Mle1937}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -183,13 +155,13 @@ Turn your back to the enemy and use your engine deck as a shield for the crew. U
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
-Officially known as the Char Leger mle 1935 Hotchkiss (Hotchkiss Light Tank model 1935), this was a competitor with Renault's R.35 to replace the WWI-era FT-17 as France's infantry tank. While the infantry went with the R.35, the French cavalry adopted the H.35 to serve alongside the S.35 Somua. The R.35 and H.35 were very similar in construction and visual appearance, with the same turret and the SA 18 37mm main gun, a tank gun conversion of a 1916 infantry gun. Both tanks also used a cast hull, a novel idea in 1935. As with all French tanks, none were equipped with radios. The H.35, as a cavalry tank was heavier but also somewhat faster than the R.35.
+Officially known as the Char Léger Mle 1935 Hotchkiss (Hotchkiss Light Tank model 1935), this was a competitor with Renault's R.35 to replace the WWI-era FT-17 as France's infantry tank. While the infantry went with the R.35, the French cavalry adopted the H.35 to serve alongside the S.35 Somua. The R.35 and the H.35 were very similar in construction and visual appearance, with the same turret and the 37 mm SA18 main gun, a tank gun conversion of a 1916 infantry gun. Both tanks also used a cast hull, a novel idea in 1935. As with all French tanks, none were equipped with radios. The H.35, as a cavalry tank was heavier but also somewhat faster than the R.35.
 
-In total 400 of the Hotchkiss model would be built, 300 for the cavalry and another 100 for the 13th and 38th independent tank battalions. Cavalry units equipped with the H.35 during the fall of France included the 4th Cuirassiers, the 11th (Motorized), 13th, 18th and 29th Dragoons, the 1st, 2nd, 3rd and 4th Armored Car Regiments, and the 5th Divisional Reconnaissance Group, in total comprising 16 squadrons of 16-20 tanks each. Another three H.35s were on trials with the Polish Army at the onset of war in September 1939. They, along with 4 stray R.35s, fought in an ad hoc unit on the Ukrainian front until the fall of Poland.
+In total 400 of the Hotchkiss model would be built, 300 for the cavalry and another 100 for the 13th and 38th independent tank battalions. Cavalry units equipped with the H.35 during the fall of France included the 4th Cuirassiers, the 11th (Motorized), 13th, 18th and 29th Dragoons, the 1st, 2nd, 3rd and 4th Armoured Car Regiments, and the 5th Divisional Reconnaissance Group, in total comprising 16 squadrons of 16-20 tanks each. Another three H.35s were on trials with the Polish Army at the onset of war in September 1939. They, along with 4 stray R.35s, fought in an ad hoc unit on the Ukrainian front until the fall of Poland.
 
-Another 900 R.35s, using the same turret, the SA 18 gun and a very similar hull, were in service in 1940, in 20 tank battalions, making it the most common tank in French service during the war. In total, somewhere between 1400 and 2000 of the Renault model would be built. Another 190 of the R.35s were exported pre-war, to Poland (50), Yugoslavia (50), Turkey (50), and Romania (40). Most of those in Polish service was with the 21st Light Tank Battalion, which escaped to Romania without seeing combat; it is unclear how many of the Yugoslav-purchased tanks were even delivered before France fell, but those that arrived served with that country's 2nd Tank Battalion, which saw limited or no action during the 1941 invasion; after that country fell those R.35s would have been turned over to the Romanians as well. The Romanians would upgrade their R.35s with captured Russian 45 mm tank guns and continue to use them through to 1944.
+Another 900 R.35s, using the same turret, the SA18 gun and a very similar hull, were in service in 1940, in 20 tank battalions, making it the most common tank in French service during the war. In total, somewhere between 1,400 and 2,000 of the Renault model would be built. Another 190 of the R.35s were exported pre-war, to Poland (50), Yugoslavia (50), Turkey (50), and Romania (40). Most of those in Polish service was with the 21st Light Tank Battalion, which escaped to Romania without seeing combat; it is unclear how many of the Yugoslav-purchased tanks were even delivered before France fell, but those that arrived served with that country's 2nd Tank Battalion, which saw limited or no action during the 1941 invasion; after that country fell those R.35s would have been turned over to the Romanians as well. The Romanians would upgrade their R.35s with captured Russian 45 mm tank guns and continue to use them through to 1944.
 
-The SA 18-armed R.35 also continued in service with Vichy France until 1942 and were used in fighting in Syria and North Africa. Another 124 SA 18-armed R.35s were turned over by the Germans to Italy, where they fought and were lost in the invasion of Sicily in 1942. The Germans converted another 174 R.35s to tank destroyers (PanzerJager), generally armed with 47mm guns in the place of turrets and used primarily in France and secondary theatres. 110 of these were still in service at the start of 1944. Syria would employ these tanks in the 1947-1949 Palestine War, however they were vastly outdated and were employed more for more of a fear factor than tactical use. They would also later be refit with a QF 2 pounder gun and used in the 1958 Lebanon Crisis and would be the last recorded use of the vehicle.
+The SA18-armed R.35 also continued in service with Vichy France until 1942 and were used in fighting in Syria and North Africa. Another 124 SA18-armed R.35s were turned over by the Germans to Italy, where they fought and were lost in the invasion of Sicily in 1942. The Germans converted another 174 R.35s to tank destroyers (PanzerJäger), generally armed with 47 mm guns in the place of turrets and used primarily in France and secondary theatres. 110 of these were still in service at the start of 1944. Syria would employ these tanks in the 1947-1949 Palestine War, however they were vastly outdated and were employed more for more of a fear factor than tactical use. They would also later be refit with a QF 2-pounder gun and used in the 1958 Lebanon Crisis and would be the last recorded use of the vehicle.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

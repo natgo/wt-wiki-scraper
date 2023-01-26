@@ -81,61 +81,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British medium tank {{Battle-r
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Shot L23A1 || APFSDS || 396 || 394 || 387 || 376 || 367 || 357
-|-
-| Shell L31A7 || HESH || 152 || 152 || 152 || 152 || 152 || 152
-|-
-| L26 || APFSDS || 493 || 491 || 487 || 481 || 474 || 468
-|-
-| L27A1 || APFSDS || 564 || 562 || 557 || 551 || 545 || 538
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Shot L23A1 || APFSDS || 1,535 || 3.89 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-| Shell L31A7 || HESH || 670 || 17.34 || 0.1 || 4 || 6,530 || 73° || 77° || 80°
-|-
-| L26 || APFSDS || 1,650 || 4.3 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-| L27A1 || APFSDS || 1,650 || 4.3 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive mass<br>(TNT equivalent) (g)
-|-
-| L34 || 670 || 17.1 || 20 || 5 || 25 || 50
-|-
-|}
+{{:L30A1 (120 mm)/Ammunition|Shot L23A1, L34, Shell L31A7, L26, L27A1}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Challenger_2.png|right|thumb|x350px|[[Ammo racks]] of the Challenger 2]]
@@ -222,7 +168,9 @@ Rheinmetall's proposal was revealed in January 2019, featuring the Rh 120 mm L/5
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_challenger_2_bn Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

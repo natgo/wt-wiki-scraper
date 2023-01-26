@@ -37,7 +37,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} American attack helicopter {{B
 {{Specs-Heli-Armour}}
 <!-- ''Examine the survivability of the helicopter. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical systems.'' -->
 
-The AH-64A Apache is fitted with armour consisting only of bulletproof glass in the pilot's windscreen and Kevlar boron carbide in the crew seats and cockpit. This armour provides only limited protection, mostly just against low caliber weapons and fragmentation. It does not offer much protection against direct hits from guns larger than machine guns or against close detonations from fuzed anti-aircraft rounds.
+The AH-64A Apache is fitted with armour consisting only of bulletproof glass in the pilot's windscreen and Kevlar boron carbide in the crew seats and cockpit. This armour provides only limited protection, mostly just against low-calibre weapons and fragmentation. It does not offer much protection against direct hits from guns larger than machine guns or against close detonations from fused anti-aircraft rounds.
 
 * 22 mm bulletproof glass - pilot's windscreen
 * 20 mm Kevlar boron carbide - pilot & gunner seats, cockpit floor and side panels
@@ -158,7 +158,7 @@ Combatting enemy anti-aircraft vehicles can be a challenge. Always remain in cov
 '''Pros:'''
 
 * Excellent ground attack armaments like the unique Hellfire missile and accurate 30 mm cannon
-* Adequate air to air capability with the Stinger or AIM-9L missiles
+* Adequate air-to-air capability with the Stinger or AIM-9L missiles
 * Adequate speed and manoeuvrability
 * Adequate countermeasure ability with Radar Warning Receiver and flares
 * Good overall durability with two pilots
@@ -187,13 +187,13 @@ The Apache was later fielded in the Middle East as well as in Bosnia, where it e
 In the 1990s, the AH-64D Apache Longbow began to enter service. It was designed as an advanced version of the Apache, carrying a prolific over-the-rotor fire control radar and the ability to mount fire-and-forget Hellfire Longbow missiles. As a result, almost all Apache-operating nations have converted their existing AH-64 helicopters to the AH-64D standard. The United States started converting their AH-64A Apaches starting from 1998, and all conversions were completed by 2008.<ref name=":1" /> As a result, the AH-64A variant is now in limited service with foreign nations, and has been superseded by the more advanced AH-64D variant.<ref name=":0" />
 
 === [[wt:en/news/6638-development-ah-64-apache-the-rotary-chieftain-en|Devblog]] ===
-In the early 1970's, the US Army was keen to adopt a more powerful attack helicopter, with improved anti-tank capabilities and performance over the existing AH-1 Cobra in service at the time. As a result, the Army initiated the 'Advanced Attack Helicopter' (AAH) program in November of 1972, requesting design proposals from a number of prominent American helicopter manufacturers.
+In the early 1970s, the US Army was keen to adopt a more powerful attack helicopter, with improved anti-tank capabilities and performance over the existing AH-1 Cobra in service at the time. As a result, the Army initiated the 'Advanced Attack Helicopter' (AAH) program in November of 1972, requesting design proposals from a number of prominent American helicopter manufacturers.
 
 Subsequently, various designs were proposed by Bell, Boeing, Hughes, Lockheed and Sikorsky. Of all the proposals, the Army picked two designs for further development - the Hughes' Model 77 (YAH-64) and Bell's Model 409 (YAH-63).
 
 After conducting their maiden flights on the 30th of September and the 1st of October, 1975, respectively, further testing of the two prototypes showed deficiencies in the fields of survivability and undercarriage stability on Bell's Model 409. As a result, Bell's design was excluded from the competition, while Hughes' design was declared as the winner of the AAH program in 1976.
 
-Following this, work on refining the YAH-64's design continued throughout the late 1970's. As part of this further development, the YAH-64 was optimized for the use of the newly developed AGM-114 Hellfire missile, which was in development since 1974. By the end of the '70's and going into the early '80's, the AH-64 was considered ready for full scale production. In 1981, the first pre-production machines were built, while the first production models began rolling off the assembly lines in 1983. Since then, the Apache has been produced in a huge numbers, participating in virtually every scale military operation of the US Army: Panama, Iraq, Bosnia, Kosovo, etc. Israel became the first foreign operator of the Apache named AH-64 Peten, where this helicopter saw intense combat in Lebanon and Gaza strip.
+Following this, work on refining the YAH-64's design continued throughout the late 1970s. As part of this further development, the YAH-64 was optimized for the use of the newly developed AGM-114 Hellfire missile, which was in development since 1974. By the end of the '70s and going into the early '80s, the AH-64 was considered ready for full scale production. In 1981, the first pre-production machines were built, while the first production models began rolling off the assembly lines in 1983. Since then, the Apache has been produced in a huge numbers, participating in virtually every scale military operation of the US Army: Panama, Iraq, Bosnia, Kosovo, etc. Israel became the first foreign operator of the Apache named AH-64 Peten, where this helicopter saw intense combat in Lebanon and Gaza strip.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -202,10 +202,12 @@ Following this, work on refining the YAH-64's design continued throughout the la
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ah_64a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the helicopter;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;Related development
+* [[AH-64 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
@@ -215,9 +217,10 @@ Following this, work on refining the YAH-64's design continued throughout the la
 * [[wt:en/news/6638-development-ah-64-apache-the-rotary-chieftain-en|[Devblog] AH-64 Apache: The Rotary Chieftain]]
 
 === References ===
-<references />
-=== Works Cited ===
+;Citations
+<references/>
 
+;Bibliography
 * Editors of Vertipedia. (2020). Vertipedia - Boeing AH-64A Apache. Retrieved November 20, 2020, from <nowiki>https://vertipedia.vtol.org/aircraft/getAircraft/aircraftID/31</nowiki>
 * Pike, J. (2000, May 29). AH-64 Apache. Retrieved November 20, 2020, from <nowiki>https://fas.org/man/dod-101/sys/ac/ah-64.htm</nowiki>
 

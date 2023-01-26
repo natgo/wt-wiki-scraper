@@ -64,43 +64,7 @@ The Leclerc Serie 1 mounts a 120 mm GIAT CN120-26/52 smoothbore cannon, fitted w
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | '''Penetration @ 0° Angle of Attack (mm)'''
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| OCC 120 G1 || HEATFS || 480 || 480 || 480 || 480 || 480 || 480
-|-
-| OFL 120 G1 || APFSDS || 425 || 423 || 417 || 410 || 404 || 396
-|-
-| OFL 120 F1 || APFSDS || 575 || 573 || 565 || 557 || 547 || 537
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| OCC 120 G1 || HEATFS || 1,100 || 14.4 || 0.05 || 0.1 || 2,150 || 65° || 72° || 77°
-|-
-| OFL 120 G1 || APFSDS || 1,780 || 3.8 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-| OFL 120 F1 || APFSDS || 1,790 || 3.8 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
+{{:GIAT CN120-26 F1 (120 mm)/Ammunition|OCC 120 G1, OFL 120 G1, OFL 120 F1}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Leclerc_S2.png|right|thumb|x200px|[[Ammo racks]] of the {{PAGENAME}}. Bustle ammo rack is behind blast doors. Hull ammo rack is inside fuel tank.]]

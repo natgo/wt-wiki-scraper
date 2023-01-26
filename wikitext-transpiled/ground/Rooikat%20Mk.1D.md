@@ -95,39 +95,7 @@ It has a base 8.7 second reload, which can be reduced to 6.7s through a fully tr
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 76/62 APFSDS || APFSDS || 311 || 308 || 301 || 291 || 281 || 271
-|-
-| 76/62 HE || HE || 14 || 14 || 14 || 14 || 14 || 14
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 76/62 APFSDS || APFSDS || 1,615 || 2.18 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-| 76/62 HE || HE || 915 || 6.3 || 0 || 0.1 || 969.12 || 79° || 80° || 81°
-|-
-|}
+{{:GT-4 (76 mm)/Ammunition|76/62 APFSDS, 76/62 HE}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

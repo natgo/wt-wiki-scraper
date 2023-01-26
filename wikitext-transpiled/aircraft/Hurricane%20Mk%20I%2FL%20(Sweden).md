@@ -1,3 +1,8 @@
+{{About
+| about = fighter '''{{PAGENAME}}'''
+| usage = other versions
+| link = Hurricane (Family)
+}}
 {{Specs-Card
 |code=hurricane_mk1_late_finland
 |images={{Specs-Card-Image|GarageImage_Hurricane_Mk_IL_(Sweden).jpg}}
@@ -112,16 +117,17 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=hurricane_mk1_late_finland Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[Hurricane (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

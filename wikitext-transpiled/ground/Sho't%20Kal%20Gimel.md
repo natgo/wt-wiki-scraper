@@ -89,7 +89,7 @@ M156 shell, aka L35, is identical to other 105 mm HESH rounds, having high explo
 
 M111 APFSDS, aka DM23, is found on some other NATO vehicles and they perform identically. Being a long-rod dart, this shell can safely penetrate most tanks it might face at the rank. This will be the go-to round for the tank.
 
-{{:Sharir (105 mm)/Ammunition|M152|M156|M111|M416}}
+{{:Sharir (105 mm)/Ammunition|M152, M156, M111, M416}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Sho't_Kal_Dalet_(Great_Britain).png|right|thumb|x250px|[[Ammo racks]] of the [[Sho't Kal Dalet]] (identical)]]

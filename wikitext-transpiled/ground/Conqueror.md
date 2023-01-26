@@ -89,39 +89,7 @@ Despite this, the Conqueror performs admirably as a sniper, covering capture poi
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Shot L1G || APDS || 362 || 361 || 359 || 354 || 339 || 321
-|-
-| Shell L1TK || HESH || 152 || 152 || 152 || 152 || 152 || 152
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Shot L1G || APDS || 1,493 || 7.6 || N/A || N/A || N/A || 75° || 78° || 80°
-|-
-| Shell L1TK || HESH || 792 || 15.87 || 0.1 || 4 || 3,970 || 73° || 77° || 80°
-|-
-|}
+{{:Ordnance QF Tk. L1A2 (120 mm)/Ammunition|Shot L1G, Shell L1TK}}
 
 ==== [[Ammo racks]] ====
 <!-- '''Last updated: 2.19.0.76''' -->

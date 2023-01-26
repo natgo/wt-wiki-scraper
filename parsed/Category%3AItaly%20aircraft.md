@@ -189,9 +189,7 @@
 {{Tree-Unit|f-86k_late_italy}}
 {{Tree-Arrow}}
 {{Tree-Unit|f-104g_italy}}
-{{Tree-Arrow}}
-{{Tree-Unit|f-104s}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|sagittario_2}}
 {{Tree-Arrow}}
@@ -208,11 +206,13 @@
 
 {{Tree-Line|VII Rank}}
 |
+{{Tree-Unit|f-104s}}
+{{Tree-Arrow}}
 {{Tree-Unit|f-104s_asa}}
 {{Tree-Arrow}}
 |
 |
-{{Tree-Arrow-Full|1}}
+{{Tree-Arrow-Full|2}}
 |
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|f-104s_cb}}

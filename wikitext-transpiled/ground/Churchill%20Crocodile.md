@@ -41,7 +41,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British heavy tan
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
+The Churchill Crocodile retains the same slow mobility as the [[Churchill Mk. VII]]. It has a low top speed and difficulty to turn and climb slopes. It won't be the first to the frontline, but that means it will be ideal for a support role.
 
 {{tankMobility}}
 
@@ -55,7 +55,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British heavy tan
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|OQF Mk.V (75 mm)}}
 
-''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.''
+The 75mm OQF Mk. V is an underwhelming gun for its BR. Its best shell can only go through 103 mm of armour. In an uptier, your gun will barely damage enemy vehicles. The most you can do is disable external components like barrels and tracks. 
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -66,69 +66,19 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British heavy tan
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 84 || rowspan="2" | -12°/+20° || rowspan="2" | ±180° || rowspan="2" | N/A || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 84 || rowspan="2" | -12°/+20° || rowspan="2" | ±180° || rowspan="2" | N/A || 19.42 || 26.88 || 32.64 || 36.10 || 38.40 || rowspan="2" | 6.50 || rowspan="2" | 5.75 || rowspan="2" | 5.30 || rowspan="2" | 5.00
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 14.28 || 16.80 || 20.40 || 22.56 || 24.00
 |-
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M72 shot || AP || 91 || 88 || 78 || 67 || 57 || 49
-|-
-| M61 shot || APCBC || 103 || 100 || 89 || 77 || 66 || 57
-|-
-| M48 shell || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M72 shot || AP || 619 || 6.3 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| M61 shot || APCBC || 618 || 6.53 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| M48 shell || HE || 463 || 6.3 || 0 || 0.1 || 666 || 79° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive mass<br>(TNT equivalent) (g)
-|-
-| M89 || 259 || 3 || 13 || 5 || 20 || 50
-|-
-|}
+{{:OQF Mk.V (75 mm)/Ammunition|M72 shot, M61 shot, M48 shell, M89}}
 
 ==== [[Ammo racks]] ====
-<!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
-<!-- '''Last updated:''' -->
+[[File:Ammoracks_Churchill_VII.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.23.0.51''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -137,12 +87,16 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British heavy tan
 ! 3rd<br>rack empty
 ! 4th<br>rack empty
 ! 5th<br>rack empty
-! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''84''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''84''' || 71&nbsp;''(+13)'' || 51&nbsp;''(+33)'' || 31&nbsp;''(+53)'' || 16&nbsp;''(+68)'' || 1&nbsp;''(+83)'' || No
 |-
 |}
+'''Notes''':
+
+* Racks disappear after you've fired all shells in the rack.
+* Pack 16&nbsp;''(+68)'' shells to keep most of the hull empty.
+{{Clear}}
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
@@ -214,6 +168,9 @@ Crocodiles would go on to serve in the Korean War alongside other Churchill tank
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a_22f_mk_7_churchill_crocodile Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|NxhYLDgeMOE|'''Battle Pass: Smell of Victory''' discusses the {{PAGENAME}} at 01:33 - ''War Thunder Official Channel''}}

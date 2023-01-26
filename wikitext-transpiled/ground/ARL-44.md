@@ -78,39 +78,7 @@ While the {{PAGENAME}} suffers from poor traction and a low top speed for a tank
 The gun is clearly the biggest quality of the {{PAGENAME}} as it can take down anything at this battle rating from a good distance. Keep in mind that your reload rate is rather slow. The shells have no explosive filler but every penetrating shot carries a very large amount of shrapnel. Destroying enemies with one shot is thus a frequent occurrence, even if this tanks only has solid shots.
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 90 mm Obus de rupture || APC || 215 || 212 || 201 || 188 || 175 || 164
-|-
-| 90 mm Obus explosif || HE || 13 || 13 || 13 || 13 || 13 || 13
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 90 mm Obus de rupture || APC || 1,000 || 10.6 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| 90 mm Obus explosif || HE || 700 || 11.3 || 0 || 0.1 || 945 || 79° || 80° || 81°
-|-
-|}
+{{:SA45 (90 mm)/Ammunition|90 mm Obus de rupture, 90 mm Obus explosif}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

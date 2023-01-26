@@ -81,39 +81,7 @@ The {{PAGENAME}} is armed with an 37 mm M6 cannon as its main armament. This is 
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M74B1 || AP || 79 || 76 || 65 || 54 || 45 || 37
-|-
-| M51B1 || APCBC || 87 || 84 || 73 || 60 || 50 || 41
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M74B1 || AP || 883 || 0.87 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| M51B1 || APCBC || 883 || 0.87 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-|}
+{{:M6 (37 mm)/Ammunition|M74B1, M51B1}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -184,7 +152,7 @@ The driver is at the foremost part of the hull. Behind him, there is absolutely 
 '''Pros:'''
 
 * The M51 shell has enough power to penetrate common opponents like the [[Pz.II (Family)|Pz.II]], [[Pz.III B]] or [[Ha-Go (Family)|Ha-Go]], and the fast reload helps to precisely knock out the crew one by one
-* Pintle-mounted heavy machine gun is very lethal against other similarly armoured vehicles (eg. [[AS 42]], [[L3/33 CC]]) and slow biplanes
+* Pintle-mounted heavy machine gun is very lethal against other similarly armoured vehicles (e.g. [[AS 42]], [[L3/33 CC]]) and slow biplanes
 * One of the fastest vehicles on road with a max speed of 90 km/h allows it to get to positions quickly
 * Reverse speed allows it to retreat from danger quickly
 * Small profile makes ambushing/hiding easy

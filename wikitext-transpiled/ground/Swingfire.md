@@ -95,36 +95,7 @@ Each launcher has 7 missiles, that reload separately. In AB, if you spent entire
 The Swingfire can be a complicated vehicle to master due to the very different playstyle from what is presented in the early British ground forces tree. One of the most complicated issues to master for some British tank commanders are the aiming and effective use of the Swingfire ATGM at close distances. Fortunately, things like the custom made sights can drastically improve the player's performance in combat.
 
 ==== Ammunition ====
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| BAe Swingfire || ATGM || 535 || 535 || 535 || 535 || 535 || 535
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="11" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| BAe Swingfire || ATGM || 185 || 4,000 || 27 || 0.05 || 0.1 || 4,550 || 80° || 82° || 90°
-|-
-|}
+{{:BAe Swingfire/Ammunition|BAe Swingfire}}
 
 * BAe Swingfire missiles are specifically designed for cover-busting and attacking out of unexpected places, so it's initially slower than most ATGMs out there, and its max speed isn't very impressive.
 * Missile tends to fall down after flying about 150 m forward, so if you aren't attacking someone in their cover, but need to fire relatively close (about 250 m) you might need to aim higher, to avoid dropping it on the ground.

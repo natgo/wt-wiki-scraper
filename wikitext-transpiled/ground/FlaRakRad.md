@@ -64,40 +64,7 @@ As the FlaRakRad is the largest ground vehicle in game, and an SPAA, it is not h
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Roland 3 || SAM || 54 || 54 || 54 || 54 || 54 || 54
-|-
-| VT1 || SAM || 59 || 59 || 59 || 59 || 59 || 59
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="11" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Roland 3 || SAM || 575 || 8,000 || 77 || 0 || 0.1 || 6,810 || 79° || 80° || 81°
-|-
-| VT1 || SAM || 1,250 || 12,000 || 73 || 0 || 0 || 7,860 || 79° || 80° || 81°
-|-
-|}
+{{:Roland/Ammunition|Roland 3, VT1}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->

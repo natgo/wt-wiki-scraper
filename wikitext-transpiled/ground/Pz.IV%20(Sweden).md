@@ -14,6 +14,8 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish medium tank {{Battle-r
 
 While its KwK40 L48 main gun is quite powerful for its BR, it has obvious weaknesses in its armour and should not be used as a main line tank or you will quickly be back to the hangar screen. Staying with allies to assist in finishing a tank off or staying behind to act as a sniper is this tank preferred job description.
 
+This Panzer IV is a Ausf. J variant. The biggest difference with the German [[Pz.IV J]] is the lack of a pintle-mounted MG over the turret, the lack of Ostketten for a better mobility in the snow, and the lack of add-on armour. 
+
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
@@ -42,7 +44,7 @@ While its KwK40 L48 main gun is quite powerful for its BR, it has obvious weakne
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
+The mobility of this tank is another flaw (being the heaviest of the entire Panzer 4 series). Although it can achieve a decent speed, it will take time for it to accelerate to top speed. Engine is under powered and the tracks are narrow, which results in poorer cross-country performance than many heavier tanks.
 
 {{tankMobility}}
 
@@ -55,6 +57,7 @@ While its KwK40 L48 main gun is quite powerful for its BR, it has obvious weakne
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|KwK40 L48 (75 mm)}}
+The turret traverse speed is slow since it is rotated manually.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -220,7 +223,9 @@ Although any tank of Rank III can destroy the Panzer IV pretty quickly, the tank
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=sw_pzkpfw_IV_ausf_J Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

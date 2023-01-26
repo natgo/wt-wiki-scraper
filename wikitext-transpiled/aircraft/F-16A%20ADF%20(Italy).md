@@ -1,6 +1,6 @@
 {{About
-| about = Italian jet fighter '''F-16 ADF'''
-| usage = other uses
+| about = jet fighter '''{{PAGENAME}}'''
+| usage = other versions
 | link = F-16 (Family)
 }}
 {{Specs-Card
@@ -202,26 +202,24 @@ Italian F-16s in service would not be equipped with rockets, bombs or air to gro
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f_16a_block_15_adf_italy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-The F-16 family
 
-* [[F-16A]] and [[F-16A Netz (Israel)|F-16A Netz]]: Block 10 variants with ground attack capabilities
-* [[F-16A ADF]]: Block 15 of US ANG (Air National Guard) before they were leased to Italy
-* [[F-16A MLU (China)|F-16A MLU]]: so-called Block 20 dedicated to ROCAF with both aerial combat and ground attack capabilities
+;Related development
+* [[F-16 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+=== References ===
+<references />
 
 {{Italy jet aircraft}}
-<references />

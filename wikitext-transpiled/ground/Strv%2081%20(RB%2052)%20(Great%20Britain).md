@@ -77,57 +77,7 @@ A Swedish import of the British [[Centurion Mk 3]], it features an add-on of thr
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| slpprj || APCBC || 232 || 229 || 216 || 201 || 187 || 173
-|-
-| slpprj m/54 || APDS || 285 || 283 || 262 || 239 || 218 || 198
-|-
-| slsgr m/53 || HE || 15 || 15 || 15 || 15 || 15 || 15
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| slpprj || APCBC || 1,000 || 9.1 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| slpprj m/54 || APDS || 1,430 || 3.2 || N/A || N/A || N/A || 75° || 78° || 80°
-|-
-| slsgr m/53 || HE || 600 || 7.5 || 0 || 0.1 || 1,130 || 79° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive mass<br>(TNT equivalent) (g)
-|-
-| rökgr m/53 || 250 || 9.3 || 13 || 5 || 20 || 50
-|-
-|}
+{{:kan Strv 81 (84 mm)/Ammunition|slpprj, slpprj m/54, slsgr m/53, rökgr m/53}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Strv_81_(RB 52).png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -164,36 +114,7 @@ A Swedish import of the British [[Centurion Mk 3]], it features an add-on of thr
 |}
 
 ==== Ammunition ====
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| RB 52 A || ATGM || 600 || 600 || 600 || 600 || 600 || 600
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="11" | Missile details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| RB 52 A || ATGM || 190 || 3,500 || 29.99 || 0.05 || 0.1 || 2,000 || 80° || 82° || 90°
-|-
-|}
+{{:Robot 52 (SS.11)/Ammunition|RB 52 A}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Strv_81_(RB_52).png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

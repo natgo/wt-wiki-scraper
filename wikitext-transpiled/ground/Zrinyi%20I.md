@@ -81,43 +81,7 @@ However, the gun is still reliable enough for most situations and often destroys
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 43.M pancelgranat || APCBC || 145 || 143 || 130 || 116 || 104 || 93
-|-
-| 43.M repeszgranat || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-| 43.M pancelrobbantogranat || HEAT || 80 || 80 || 80 || 80 || 80 || 80
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 43.M pancelgranat || APCBC || 770 || 6.8 || 1.2 || 14 || 28.9 || 48° || 63° || 71°
-|-
-| 43.M repeszgranat || HE || 550 || 5.74 || 0 || 0.1 || 686 || 79° || 80° || 81°
-|-
-| 43.M pancelrobbantogranat || HEAT || 550 || 4.4 || 0.05 || 0.1 || 872.1 || 62° || 69° || 73°
-|-
-|}
+{{:43.M (75 mm)/Ammunition|43.M pancelgranat, 43.M repeszgranat, 43.M pancelrobbantogranat}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -159,35 +123,7 @@ The rockets deal enough overpressure damage to destroy cannon barrels, annihilat
 |}
 
 ==== Ammunition ====
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Wgr.41 Spr || Rocket || 27 || 27 || 27 || 27 || 27 || 27
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Wgr.41 Spr || Rocket || 340 || 34.15 || 0 || 0.1 || 2,150 || 79° || 80° || 81°
-|-
-|}
+{{:Wgr.41 Spr/Ammunition|Wgr.41 Spr}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->

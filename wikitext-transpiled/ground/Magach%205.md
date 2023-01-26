@@ -70,7 +70,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 |}
 
 ==== Ammunition ====
-{{:Sharir (105 mm)/Ammunition|M152|M156|M111|M416}}
+{{:Sharir (105 mm)/Ammunition|M152, M156, M111, M416}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Magach_3_(ERA)_(USA).png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -102,7 +102,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Loader's hatch || 2,000 (200) || 600 || -__°/+__° || ±__°
+| Loader's hatch || 2,000 (200) || 600 || -5°/+50° || -120°/+60°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -120,7 +120,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Commander's hatch || 2,000 (250) || 500 || -__°/+__° || ±__°
+| Commander's hatch || 2,000 (250) || 500 || -5°/+50° || -60°/+120°
 |-
 |}
 
@@ -144,15 +144,17 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=il_magach_5 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+
+;Related development
+* [[Magach (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

@@ -208,6 +208,9 @@ While the M1A2 SEP was still in production, experiences from the US Invasion of 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=us_m1a2_sep_abrams Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
 ;Videos
 {{Youtube-gallery|Qgsv6_VWzbc|'''The Shooting Range #326''' - ''Metal Beasts'' section at 00:26 discusses the {{PAGENAME}}.|dwruZG8-_os
 |'''Explosive Armor Upgrade for Abrams?!!! M1A2 SEP Review''' - ''SUSLIK GAMING''}}

@@ -75,39 +75,7 @@ The AMX-50 Foch can be considered as a hybrid between the [[CA Lorraine]] and th
 ==== Ammunition ====
 ''APBC:'' This is the first and only anti-tank ammunition the AMX-50 Foch. Despite having a "low" penetration (compared to other rounds seen at the battle rating) it should not be underestimated. It has the penetration to deal with all heavy tanks frontally (with exception of Maus and E-100) as well as enough spalling to destroy lightly armoured vehicles. This round is a 90% confirmed knock-out with a single shot due to its tremendous mass.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 120 mm Obus de rupture || APBC || 301 || 298 || 286 || 272 || 258 || 245
-|-
-| 120 mm Obus explosif || HE || 39 || 39 || 39 || 39 || 39 || 39
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 120 mm Obus de rupture || APBC || 1,067 || 23.1 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| 120 mm Obus explosif || HE || 762 || 22.84 || 0 || 0.1 || 4,650 || 79° || 80° || 81°
-|-
-|}
+{{:SA46 (120 mm)/Ammunition|120 mm Obus de rupture, 120 mm Obus explosif}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

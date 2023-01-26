@@ -47,7 +47,7 @@ With the same gun as most other rank 2 French tanks, the {{PAGENAME}} will never
 * Lower turret ring armour 40 mm thick, while upper turret ring armour is 25 + 40 mm thick.
 * Belly armour is 20 mm thick.
 
-The B1 ter has arguably the best armour at its BR. Being an up-armoured model of the previous B1 bis, the ter model features thicker hull armour, especially on the side. Now the hull will be completely immune to the PzGr.40 belt of [[Pz.II (Disambiguation)|Pz.II]] light tanks which is a common opponent. There are also improvements such as a smaller turret ring, refined frontal hull, a large mudguard, etc. While angling the hull at ~40°, the B1 ter can be extremely hard to destroy for vehicles at the same BR and can even resist uptier tanks like the [[Pz.IV F2]]. Due to the extremely heavy frontal armour, one should try to use mobility to flank the {{PAGENAME}}. However, if that isn't possible, you'll want to try and hit the turret ring. It may be a tricky shot, but there's only ~40 mm of armour there. When flanking, it is preferable to go for the right side of the tank as is is filled with ammo and fuel.
+The B1 ter has arguably the best armour at its BR. Being an up-armoured model of the previous B1 bis, the ter model features thicker hull armour, especially on the side. Now the hull will be completely immune to the PzGr.40 belt of [[Pz.II (Family)|Pz.II]] light tanks which is a common opponent. There are also improvements such as a smaller turret ring, refined frontal hull, a large mudguard, etc. While angling the hull at ~40°, the B1 ter can be extremely hard to destroy for vehicles at the same BR and can even resist uptier tanks like the [[Pz.IV F2]]. Due to the extremely heavy frontal armour, one should try to use mobility to flank the {{PAGENAME}}. However, if that isn't possible, you'll want to try and hit the turret ring. It may be a tricky shot, but there's only ~40 mm of armour there. When flanking, it is preferable to go for the right side of the tank as is is filled with ammo and fuel.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -87,39 +87,7 @@ The 47 mm cannon has a vertical stabiliser which can significantly increase its 
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Mle1935 || APC || 62 || 59 || 47 || 36 || 27 || 20
-|-
-| Mle1935 HE || HE || 4 || 4 || 4 || 4 || 4 || 4
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Mle1935 || APC || 660 || 1.62 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| Mle1935 HE || HE || 590 || 1.41 || 0 || 0.1 || 143 || 79° || 80° || 81°
-|-
-|}
+{{:SA35 L/32 (47 mm)/Ammunition|Mle1935, Mle1935 HE}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -165,39 +133,7 @@ Compared to the [[B1 bis|bis]] model, the 75 mm cannon inside the hull of the B1
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Mle1910M || APHE || 58 || 57 || 50 || 43 || 37 || 32
-|-
-| Mle1915 || HE || 11 || 11 || 11 || 11 || 11 || 11
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Mle1910M || APHE || 470 || 6.4 || 1.2 || 14 || 90 || 47° || 60° || 65°
-|-
-| Mle1915 || HE || 500 || 5.55 || 0 || 0.1 || 740 || 79° || 80° || 81°
-|-
-|}
+{{:SA35 L/17 (75 mm)/Ammunition|Mle1910M, Mle1915}}
 
 ==== [[Ammo racks]] ====
 <!-- '''Last updated: 2.1.0.94''' -->
@@ -265,7 +201,7 @@ It is not advised to position the B1 in an overly-opened location where the B1 c
 '''Enemies worth noting:'''
 
 * M3 / M5 Stuart: as previously mentioned, light tanks can be a dangerous threat to the clumsy B1. The Stuarts have good acceleration, great top speed regardless of the terrain, and fast hull traverse, allowing them to sneak up or charge at a B1 without getting hit. When they are close, their 37 mm cannons can easily penetrate your hull cannon mount, turret sides and driving compartment, and their fast reload can knock out your crews one by one. But with the additional side armour of the B1 ter, Stuarts might struggle to penetrate your hull sides. To counter them, angle your hull for about 45 degrees, this way their small calibre shells tend to ricochet and will have a hard time to penetrate you. If they circle you, turn your hull and reverse at the same time to avoid them flanking, and if possible gain some separation. Target their hull, as their frontal turret is mostly covered by a curved gun mantlet which can cause non-penetrations.
-* German tanks above its BR: their guns are usually more than enough to pierce the 70 mm front armour and if they do, most of the crew will be knocked out, likely resulting in an OHK.
+* German tanks above its BR: their guns are usually more than enough to pierce the 70 mm front armour and if they do, most of the crew will be knocked out, likely resulting in a knock-out.
 * [[M4A3 (105)]], [[Ho-Ro]], [[Spj fm/43-44]], etc: these vehicles all carry large-calibre howitzers which can critically damage if not straight up knock out the B1 ter with a frontal hit, through the B1's thick armour. If you see one, wait until they fire first or if they are distracted then poke out and shoot. For the 105 mm M4, the only effective way to destroy one is to get to its hull side and fire a salvo or two from both your guns. Its frontal hull armour or even the turret side can resist all of your rounds.
 * [[T-34 (1940)]], [[SU-122]]: the T-34 chassis is arguably very effective at deflecting small-calibre shells and low-penetrating large-calibre shells, both of which are used by the B1 ter. For the SU-122, target the vertical hull side armour between the road wheels and upper angled hull side. For the T-34, also target this area plus the vertical parts of its curved turret cheeks to disarm it. Try not to get hit by them, the T-34's cannon is more than enough to punch through the B1 ter's frontal armour, while the SU-122 can destroy the B1 with its powerful HE shells.
 * [[Churchill I]], [[Matilda III|Matilda]]: these tanks are protected with thick armour that the B1 cannot easily penetrate. The thickness of their frontal & side armour on the hull and turret are all well beyond the B1's maximum penetration at point-blank range, thus the only effective way to damage them is to shoot at their rear hull armour which is around 50 mm. This can set fire on their engine/fuel tank. Or you can utilise the fast reload of your 47 mm gun and disable their guns and tracks, and call for more powerful teammates to destroy them. Although their guns are of small calibres and tend to bounce off an angling B1 ter, your weak spots (turret ring, commander cupola, vertical driver's armour, etc) are still vulnerable.

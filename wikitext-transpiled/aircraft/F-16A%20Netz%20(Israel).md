@@ -1,6 +1,11 @@
+{{About
+| about = jet fighter '''{{PAGENAME}}'''
+| usage = other versions
+| link = F-16 (Family)
+}}
 {{Specs-Card
 |code=f_16a_block_10_iaf
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.jpg}}
 }}
 
 == Description ==
@@ -204,27 +209,29 @@ By the end of the 1970s, Israel had established itself as the dominant air force
 
 Israel received its first four F-16s on July 2nd, 1980 - a mix of F-16A and F-16B fighters (single-seat and two-seat, respectively) - with a total of 75 arriving by the end of 1981. These planes, mostly F-16As from production Block 10, were originally sold to Iran's Shah regime, a US ally since the 1950s; however in 1979 the Islamic Revolution deposed the Shah, marking a significant change in the balance of power in the region and solidifying Israel's status as one of the only remaining trustworthy US allies in the Middle East. Since the planes could no longer be delivered to Iran, they were instead sold to Israel.
 
-The IAF named the model ''"Netz"'' (Hawk), making no distinction between the F-16A and B. Due to its amazing capabilities as a low-altitude fighter-bomber, the ''Netz'' effectively replaced all other IAF combat jets except for the F-15. By the late 1980s, the F-15 and F-16 together comprised nearly the entirety of the IAF's active combat jet force.
+The IAF named the model "Netz" (Hawk), making no distinction between the F-16A and B. Due to its amazing capabilities as a low-altitude fighter-bomber, the Netz effectively replaced all other IAF combat jets except for the F-15. By the late 1980s, the F-15 and F-16 together comprised nearly the entirety of the IAF's active combat jet force.
 
-On April 28th, 1981, less than a year after its introduction into the IAF, ''Netz #126'' codenamed "Magen" (Shield) made the world's first aerial kill by an F-16 when it shot down a Syrian Mi-8 over the Bekaa Valley in Syria. Only a few months after that, on June 7th, 1981, eight ''Netz'' F-16A/Bs comprised the attacking element in Operation Opera - the Israeli surprise attack on the Osirak nuclear facility near Baghdad, Iraq - in which the reactor was completely destroyed. All attacking fighters returned to base unharmed. The fact that Israel had concealed its preparations from the United States caused President Reagan to withhold the transfer of the final two dozen F-16s to Israel, but this decision was rescinded after only a short while.
+On April 28th, 1981, less than a year after its introduction into the IAF, Netz #126 codenamed "Magen" (Shield) made the world's first aerial kill by an F-16 when it shot down a Syrian Mi-8 over the Bekaa Valley in Syria. Only a few months after that, on June 7th, 1981, eight Netz F-16A/Bs comprised the attacking element in Operation Opera - the Israeli surprise attack on the Osirak nuclear facility near Baghdad, Iraq - in which the reactor was completely destroyed. All attacking fighters returned to base unharmed. The fact that Israel had concealed its preparations from the United States caused President Reagan to withhold the transfer of the final two dozen F-16s to Israel, but this decision was rescinded after only a short while.
 
-One year later, on June 6th, 1982, Israel began "Operation Peace for the Galilee", later known as the First Lebanon War. A few days into the war, on June 9th through June 11th, Israel conducted "Operation Mole Cricket 19", a massive SEAD campaign that obliterated the entire Syrian air defense network along the Syrian border with Lebanon. Dozens of ''Netz'' F-16s participated in this attack as interceptors, fighting alongside F-15s to shoot down any Syrian jets scrambled against the wild weasels. By the end of the second day of this operation, Israel's ''Netz'' F-16s alone had shot down a total of 44 Syrian [[MiG-21 (Family)|MiG-21]]s, [[MiG-23 (Family)|MiG-23]]s and [[Su-17/22 (Family)|Su-22s]] - more than half the total number of enemy jets shot down during the battle - while suffering ''no losses'' in the process. This massive, one-sided air battle has become known as the "Bekaa Valley Turkey Shoot".
+One year later, on June 6th, 1982, Israel began "Operation Peace for the Galilee", later known as the First Lebanon War. A few days into the war, on June 9th through June 11th, Israel conducted "Operation Mole Cricket 19", a massive SEAD campaign that obliterated the entire Syrian air defense network along the Syrian border with Lebanon. Dozens of Netz F-16s participated in this attack as interceptors, fighting alongside F-15s to shoot down any Syrian jets scrambled against the wild weasels. By the end of the second day of this operation, Israel's Netz F-16s alone had shot down a total of 44 Syrian [[MiG-21 (Family)|MiG-21]]s, [[MiG-23 (Family)|MiG-23]]s and [[Su-17/22 (Family)|Su-22s]] - more than half the total number of enemy jets shot down during the battle - while suffering no losses in the process. This massive, one-sided air battle has become known as the "Bekaa Valley Turkey Shoot".
 
-One ''Netz'' in particular - ''Netz #107'' codenamed "Sufa" (Storm) - distinguished itself in world history by becoming the jet with the highest number of aerial kills to this day. This F-16A was the second to bomb the Osirak reactor in 1981, and later shot down a total of 6 enemy aircraft (plus one "kill assist"), most of them during the Bekaa Valley Turkey Shoot. Four of these kills were scored by Col. Eytan Stibbe during a single sortie on June 11th - the only F-16 pilot in the world to ever achieve this feat. Stibbe later became Israel's second-ever astronaut - the first Israeli to visit the International Space Station. Today, ''Netz #107'' is on display at the Israeli Air Force Museum. Israel's advanced F-16I model line is named ''Sufa'' in honour of this plane.
+One Netz in particular - Netz #107 codenamed "Sufa" (Storm) - distinguished itself in world history by becoming the jet with the highest number of aerial kills to this day. This F-16A was the second to bomb the Osirak reactor in 1981, and later shot down a total of 6 enemy aircraft (plus one "kill assist"), most of them during the Bekaa Valley Turkey Shoot. Four of these kills were scored by Col. Eytan Stibbe during a single sortie on June 11th - the only F-16 pilot in the world to ever achieve this feat. Stibbe later became Israel's second-ever astronaut - the first Israeli to visit the International Space Station. Today, Netz #107 is on display at the Israeli Air Force Museum. Israel's advanced F-16I model line is named Sufa in honour of this plane.
 
-Israel did at one point attempt to produce its own 4th-generation multi-role fighter to replace the F-16: the ''IAI Lavi''. However pressure from the United States forced the project to be scuttled before production could begin. In compensation for torpedoing the project, the US agreed to provide Israel with 75 F-16C/Ds (codenamed "Barak" in Israel), which were delivered in 1987. Nevertheless, F-16A/Bs remained in IAF service for many years afterwards. In 1994, the United States compensated Israel for staying out of the First Iraq War by supplying it with another 50 surplus F-16A/Bs, most of them from the US National Guard and Air Force Reserves. Most F-16A/Bs in the IAF were eventually upgraded to F-16C/D standards. All ''Netz'' F-16A/Bs were retired from IAF service by around 2015.
+Israel did at one point attempt to produce its own 4th-generation multi-role fighter to replace the F-16: the IAI Lavi. However pressure from the United States forced the project to be scuttled before production could begin. In compensation for torpedoing the project, the US agreed to provide Israel with 75 F-16C/Ds (codenamed "Barak" in Israel), which were delivered in 1987. Nevertheless, F-16A/Bs remained in IAF service for many years afterwards. In 1994, the United States compensated Israel for staying out of the First Iraq War by supplying it with another 50 surplus F-16A/Bs, most of them from the US National Guard and Air Force Reserves. Most F-16A/Bs in the IAF were eventually upgraded to F-16C/D standards. All Netz F-16A/Bs were retired from IAF service by around 2015.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f_16a_block_10_iaf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+
+;Related development
+* [[F-16 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

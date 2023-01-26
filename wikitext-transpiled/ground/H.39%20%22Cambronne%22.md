@@ -28,7 +28,7 @@ It is functionally identical to the standard H.39 in every way except it lacks t
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 40 mm (8-33°) ''Upper plate'' <br> 22 mm (74-79°)''Upper glacis'' <br> 40 mm (30°) ''Lower glacis'' || 40 mm (1-25°) ''Top'' <br>  40 mm ''Bottom'' || 40 mm (26-29°) ''Top'' <br> 40 mm (29-31°) ''Bottom'' || 22 mm (14-15°) ''Front glacis'' <br> 22 mm (0-4°) ''Centre & rear''
+| Hull || 40 mm (8-33°) ''Upper plate'' <br> 22 mm (74-79°)''Upper glacis'' <br> 40 mm (30°) ''Lower glacis'' || 40 mm (1-25°) ''Top'' <br> 40 mm ''Bottom'' || 40 mm (26-29°) ''Top'' <br> 40 mm (29-31°) ''Bottom'' || 22 mm (14-15°) ''Front glacis'' <br> 22 mm (0-4°) ''Centre & rear''
 |-
 | Turret || 45 mm (4-28°) ''Turret front'' <br> 45 mm (28-30°) ''Left side'' <br> 25 mm (10-11°) + 45 mm (4°) ''Gun mantlet'' || 40 mm (0-28°) || 40 mm (30°) || 25 mm (22°) Front <br> 25 mm ''Centre and rear''
 |-
@@ -86,37 +86,9 @@ The weak accuracy of the gun (due to its shortness) coupled with the absence of 
 
 ==== Ammunition ====
 The {{PAGENAME}} has a very limited choice of ammunition:
-* '''Mle1935''': APC; a solid shot with average penetration and no explosive filler. Make sure to target modules and crew positions to maximise the damage. Knowledge of enemy vehicle layouts is essential with this type of ammunition.
+* '''Mle1938''': APC; a solid shot with average penetration and no explosive filler. Make sure to target modules and crew positions to maximise the damage. Knowledge of enemy vehicle layouts is essential with this type of ammunition.
 
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Mle1938 || APC || 54 || 50 || 36 || 24 || 16 || 11
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Mle1938 || APC || 705 || 0.7 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-|}
+{{:SA38 L/33 (37 mm)/Ammunition|Mle1938}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -181,7 +153,7 @@ When engaging enemy tanks, angle your tank to maximize your armour. Your cannon 
 
 ;Defensive role
 In the event the spearhead tanks of your team get crushed by the enemy, you will then play a defensive role by containing enemy breakthrough attempts.
-Being at a (short) distance from the frontline will force enemy tanks to drive in the open to get to you. Play with a nearby obstacle you can use as cover if you get hit and need to repair. Have a planned escape plan as the enemy will try to use artillery or CAS to dislodge you from cover. Make good use of your gun depression and fire from the cover of a ridge. Aim precisely to immobilize enemy targets on your first shot. Get back into cover between reloads and pop out a few meters away from your last spot.
+Being at a (short) distance from the frontline will force enemy tanks to drive in the open to get to you. Play with a nearby obstacle you can use as cover if you get hit and need to repair. Have a planned escape plan as the enemy will try to use artillery or CAS to dislodge you from cover. Make good use of your gun depression and fire from the cover of a ridge. Aim precisely to immobilize enemy targets on your first shot. Get back into cover between reloads and pop out a few metres away from your last spot.
 
 ;Other roles
 If you try to use the {{PAGENAME}} in a different role on the battlefield, you will quickly reach its limits:

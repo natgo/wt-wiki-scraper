@@ -75,40 +75,7 @@ The Crusader AA Mk I is meant to be a SPAA, meaning it must stay away from the f
 * '''Mk.II:''' {{Annotation|FI-T*|Fragmentation incendiary tracer (self-destroying)}} - These mean certain death for aircraft, what should be used for AA work.
 * '''M81A1:''' {{Annotation|AP-T|Armour-piercing tracer}} - These are the worst belts against airplanes. however, they are able to hurt ground vehicles especially if it is side into the side of a enemy tank. If you plan on killing tanks load this and flank, since side shots are almost a necessity.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 72 || 69 || 58 || 46 || 37 || 29
-|-
-| Mk.II || 3 || 3 || 3 || 3 || 3 || 3
-|-
-| M81A1 || 72 || 69 || 58 || 46 || 37 || 29
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Belt details
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Mk.II || FI-T* || 874 || 0.83 || 0 || 0.1 || 63 || 79° || 80° || 81°
-|-
-| M81A1 || AP-T || 875 || 0.88 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-|}
+{{:Bofors L/60 (40 mm)/Ammunition|Mk.II, M81A1}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

@@ -123,7 +123,7 @@ Final note, if you fly with the afterburner while launching flares, missiles are
 === Modifications and economy ===
 {{Specs-Economy}}
 
-The F-104G's engine performance is sufficient when stock, so one should go for countermeasures first. Most enemies engage with IR missiles and the F-104G simply does not have enough manoeuvrability to outturn modern ones like [[R-60]] and [[AIM-9J Sidewinder]]. If playing in ground battles, work on unlocking the AIM-9J modification as soon as possible, as this will allow them to be carried in addition to ground ordnance. This means that the two AIM-9B modifications should be prioritised, as well as ordnance modifications to unlock the next modification tiers. Otherwise, the 2 x AIM-9J loadout is provided stock, so none of the modifications are truly vital beyond countermeasures.
+The F-104G's engine performance is sufficient when stock, so one should go for countermeasures first. Most enemies engage with IR missiles and the F-104G simply does not have enough manoeuvrability to outturn modern ones like [[R-60]] and [[AIM-9J Sidewinder]]. If playing in ground battles, work on unlocking the AIM-9J modification as soon as possible, as this will allow them to be carried in addition to ground ordnance. This means that the two AIM-9B modifications should be prioritised, as well as ordnance modifications to unlock the next modification tiers. Otherwise, the 2 x AIM-9E loadout is provided stock, so none of the modifications are truly vital beyond countermeasures.
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
@@ -308,6 +308,7 @@ The aircraft saw its best success as the F-104G, of which Germany had many. The 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f-104g Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -316,6 +317,7 @@ The aircraft saw its best success as the F-104G, of which Germany had many. The 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[F-104 (Family)]]
 
 == External links ==

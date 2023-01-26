@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' (Hotchkiss light tank model 1935 modified 1939) is a reserve rank {{Specs|rank}} French light tank {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]] and replaced the [[H.35]] as one of France's two reserve vehicles in [[Update 1.85 "Supersonic"]].
 
-Compared to its predecessor, the H.39 features a serviceable gun, thicker armour, and a significantly more powerful engine, which makes it, when fully upgraded, surprisingly speedy on flat ground for low level French tanks.  Nevertheless, this vehicle's gun and mobility are below average compared its peers from other nations. While it is mobile in a straight line, it manoeuvres slowly and its narrow tracks slow it down substantially cross-country. The H.39 should be played as a close support tank, best utilized in urban maps and following its teammates while waiting for a good shot opportunity.
+Compared to its predecessor, the H.39 features a serviceable gun, thicker armour, and a significantly more powerful engine, which makes it, when fully upgraded, surprisingly speedy on flat ground for low level French tanks. Nevertheless, this vehicle's gun and mobility are below average compared its peers from other nations. While it is mobile in a straight line, it manoeuvres slowly and its narrow tracks slow it down substantially cross-country. The H.39 should be played as a close support tank, best utilized in urban maps and following its teammates while waiting for a good shot opportunity.
 
 == General info ==
 === Survivability and armour ===
@@ -28,7 +28,7 @@ Compared to its predecessor, the H.39 features a serviceable gun, thicker armour
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 40 mm (8-33°) ''Upper plate'' <br> 22 mm (74-79°)''Upper glacis'' <br> 40 mm (30°) ''Lower glacis'' || 40 mm (1-25°) ''Top'' <br>  40 mm ''Bottom'' || 40 mm (26-29°) ''Top'' <br> 40 mm (29-31°) ''Bottom'' || 22 mm (14-15°) ''Front glacis'' <br> 22 mm (0-4°) ''Centre & rear''
+| Hull || 40 mm (8-33°) ''Upper plate'' <br> 22 mm (74-79°)''Upper glacis'' <br> 40 mm (30°) ''Lower glacis'' || 40 mm (1-25°) ''Top'' <br> 40 mm ''Bottom'' || 40 mm (26-29°) ''Top'' <br> 40 mm (29-31°) ''Bottom'' || 22 mm (14-15°) ''Front glacis'' <br> 22 mm (0-4°) ''Centre & rear''
 |-
 | Turret || 45 mm (4-28°) ''Turret front'' <br> 45 mm (28-30°) ''Left side'' <br> 25 mm (10-11°) + 45 mm (4°) ''Gun mantlet'' || 40 mm (0-28°) || 40 mm (30°) || 25 mm (22°) Front <br> 25 mm ''Centre and rear''
 |-
@@ -78,35 +78,7 @@ With a rather constant 45-50 mm effective thickness from all sides, this tank ca
 The 37 mm SA38 cannon has significantly better penetration and post-penetration damage than its predecessor, but has a longer reload rate than its peers. Know your enemies' insides well, target their gunners first or immobilize them by shooting at the engine, and take care to make every shot count. Avoid exchanging shots at long distances as your gun's penetration values decrease heavily.
 
 ==== Ammunition ====
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Mle1938 || APC || 54 || 50 || 36 || 24 || 16 || 11
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Mle1938 || APC || 705 || 0.7 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-|}
+{{:SA38 L/33 (37 mm)/Ammunition|Mle1938}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_H.35.png|right|thumb|x250px|[[Ammo racks]] of the H.35 (identical).]]
@@ -126,7 +98,7 @@ The 37 mm SA38 cannon has significantly better penetration and post-penetration 
 || '''76''' || 75&nbsp;''(+1)'' || 62&nbsp;''(+14)'' || 49&nbsp;''(+27)'' || 36&nbsp;''(+40)'' || 23&nbsp;''(+53)'' || 10&nbsp;''(+66)'' || 1&nbsp;''(+75)'' || Yes
 |-
 |}
-Notes:
+'''Notes''':
 
 * The visual discrepancy concerns the total number of shells as well as the number of shells per rack:
 ** 100 shells are modeled but you can only pack 76 shells, meaning some racks always empty (crossed out in the picture).
@@ -163,7 +135,7 @@ When engaging enemy tanks, angle your tank to maximize your armour. Your cannon 
 ;Defensive role
 
 In the event the spearhead tanks of your team get crushed by the enemy, you will then play a defensive role by containing enemy breakthrough attempts.
-Being at a (short) distance from the frontline will force enemy tanks to drive in the open to get to you. Play with a nearby obstacle you can use as cover if you get hit and need to repair. Have a planned escape plan as the enemy will try to use artillery or CAS to dislodge you from cover. Make good use of your gun depression and fire from the cover of a ridge. Aim precisely to immobilize enemy targets on your first shot. Get back into cover between reloads and pop out a few meters away from your last spot.
+Being at a (short) distance from the frontline will force enemy tanks to drive in the open to get to you. Play with a nearby obstacle you can use as cover if you get hit and need to repair. Have a planned escape plan as the enemy will try to use artillery or CAS to dislodge you from cover. Make good use of your gun depression and fire from the cover of a ridge. Aim precisely to immobilize enemy targets on your first shot. Get back into cover between reloads and pop out a few metres away from your last spot.
 
 ;Other roles
 
@@ -208,7 +180,7 @@ The {{PAGENAME}} has several weak spots:
 * Only 2 crew members
 * Only one choice of ammunition, which has no explosive filler
 * Sub-par penetration
-* Long reload for the caliber
+* Long reload for the calibre
 * Slow turret rotation 
 * Driver's hatch is almost completely vertical
 * Narrow tracks means poor ground flotation
@@ -220,7 +192,7 @@ The H.39 was an improved version of the H.35, with a modified suspension and mor
 
 The poor anti-tank performance of the First World War-era 37 mm infantry gun (on which the SA 18 tank gun was based) during the Spanish Civil War led to the redesigned SA 38. In total 358 SA 18-armed tanks, mostly H.39 and H.35, would be rearmed with the new gun before the invasion of France, with several hundred more being produced as France fell. Up-gunned H.35s and H.39s were employed by the French as section- and platoon-leader vehicles.
 
-After the fall of France, the Germans retrofitted some of their captured vehicles with the newer gun, and replaced the commander's cupola with their more customary split hatch for the tank commander. These vehicles, which the Germans called the 38H 735, fought in Finland in 1941, in the Balkans, and against the Allies in France. In December of 1944, 29 were still in German service. Another 24 were cut down to just the hull pan and nose armour and used as Geschutzwagen (assault guns), and armed with the PaK 40/L46 75mm gun, making them similar in appearance to the Marder I conversion from captured Lorraine Schlepper vehicles. These were actively employed against Allied forces in Normandy. Some recaptured H.39s served with Free French forces to the end of the war.
+After the fall of France, the Germans retrofitted some of their captured vehicles with the newer gun, and replaced the commander's cupola with their more customary split hatch for the tank commander. These vehicles, which the Germans called the 38H 735, fought in Finland in 1941, in the Balkans, and against the Allies in France. In December of 1944, 29 were still in German service. Another 24 were cut down to just the hull pan and nose armour and used as Geschützwagen (assault guns), and armed with the 75 mm PaK40 L46 gun, making them similar in appearance to the Marder I conversion from captured Lorraine Schlepper vehicles. These were actively employed against Allied forces in Normandy. Some recaptured H.39s served with Free French forces to the end of the war.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

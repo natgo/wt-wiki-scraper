@@ -69,43 +69,11 @@ The full designation of this tank stands as ''Fiat Carro Armato M Celere Saharia
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Granata mod.35 || HE || 5 || 5 || 5 || 5 || 5 || 5
-|-
-| Granata Perforante mod.39 || APBC || 69 || 67 || 59 || 51 || 43 || 37
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Granata mod.35 || HE || 364 || 2.37 || 0 || 0.1 || 150 || 79° || 80° || 81°
-|-
-| Granata Perforante mod.39 || APBC || 755 || 1.44 || 1.2 || 9 || 30 || 47° || 60° || 65°
-|-
-|}
+{{:47/40 mod.38 (47 mm)/Ammunition|Granata mod.35, Granata Perforante mod.39}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated: 2.1.0.81''' -->
+<!-- '''Last updated: 2.23.0.51''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -115,15 +83,13 @@ The full designation of this tank stands as ''Fiat Carro Armato M Celere Saharia
 ! 4th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''122''' || 107&nbsp;''(+15)'' || 91&nbsp;''(+31)'' || 46&nbsp;''(+76)'' || 1&nbsp;''(+121)'' || Yes
+| '''122''' || 114&nbsp;''(+8)'' || 105&nbsp;''(+17)'' || 53&nbsp;''(+69)'' || 1&nbsp;''(+121)'' || No
 |-
 |}
-Notes:
+'''Notes''':
 
-* The visual discrepancy concerns the number of shells per rack:
-** Rack 1 & 2 are modeled as 9 shells each but disappear after having fired 16 shells from each rack.
-** Racks 3 & 4 are modeled as 52 shells each but disappear after having fired 45 shells from each rack.
-* As they are modeled by sets of 2, 3 or 4, shells disappear from the rack only after you fire all shells in the set.
+* As shells are modeled by sets of 2, 3, or 4, they disappear from the rack after you've fired or loaded all shells in the set.
+{{Clear}}
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

@@ -38,7 +38,7 @@ Operational and visual characteristics of the IS-1 retain the visual and operati
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
-{{tankMobility|abMinHp=671|rbMinHp=460}}
+{{tankMobility|abMinHp=671|abMaxHp=827|rbMinHp=460}}
 
 === Modifications and economy ===
 {{Specs-Economy}}

@@ -98,51 +98,7 @@ Like the previous Valentine XI, the IX model does not have access to a gun stabi
 
 * Shell Mk.10: this HE has too little explosive filler to actually damage anything except non-armoured targets like [[GAZ-MM (72-K)|GAZ]] trucks. Even the thin armour of a [[Sd.Kfz.251 (Family)|Sd.Kfz 251]] has some chance to protect its crew against this HE shell. Thus it is not very recommended to bring this ammo into battles.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Shot Mk.5 || AP || 101 || 97 || 82 || 66 || 53 || 43
-|-
-| Shot Mk.5 HV || AP || 108 || 104 || 87 || 70 || 57 || 46
-|-
-| Shot Mk.8 || APC || 110 || 106 || 89 || 72 || 59 || 48
-|-
-| Shot Mk.9 || APCBC || 122 || 118 || 101 || 84 || 70 || 58
-|-
-| Shell Mk.10 || HE || 9 || 9 || 9 || 9 || 9 || 9
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Shot Mk.5 || AP || 815 || 2.8 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| Shot Mk.5 HV || AP || 853 || 2.8 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| Shot Mk.8 || APC || 853 || 2.87 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| Shot Mk.9 || APCBC || 801 || 3.23 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| Shell Mk.10 || HE || 655 || 2.72 || 0 || 0.1 || 590 || 79° || 80° || 81°
-|-
-|}
+{{:6pdr OQF Mk.III (57 mm)/Ammunition|Shot Mk.5, Shot Mk.5 HV, Shot Mk.8, Shot Mk.9, Shell Mk.10}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

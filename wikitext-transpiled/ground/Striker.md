@@ -47,7 +47,7 @@ Avoid letting enemy vehicles to get into ramming range, even more so in Arcade b
 
 '''Overpressure mechanics'''
 
-The {{PAGENAME}} is susceptible to the overpressure mechanics - if shockwaves made by a chemical shell of calibre 105 mm (Almost any NATO medium tank armed with HEAT-FS qualifies) hit the roof, cameras, or the side of this tank, the entirety of the crew is likely to be instantly knocked out. Since the commander optics count as a weak spot for HEAT overpressure damage, it is possible to destroy Striker in ATGM duel by hitting it anywhere.
+The {{PAGENAME}} is susceptible to the overpressure mechanics - if shockwaves made by a chemical shell of calibre 105 mm (Almost any NATO medium tank armed with HEATFS qualifies) hit the roof, cameras, or the side of this tank, the entirety of the crew is likely to be instantly knocked out. Since the commander optics count as a weak spot for HEAT overpressure damage, it is possible to destroy Striker in ATGM duel by hitting it anywhere.
 
 It is possible to take HEAT shots frontally with the launcher, but it can quickly backfire, should enemy shot land at a bad angle. HE shells in general instantly obliterate {{PAGENAME}}, unless hit the launcher from the back. HESH is less dangerous than HE, but it will likely destroy the crew even without overpressure damage, if explosion reaches the roof. Artillery strike may fail to destroy the tank if it landed somewhere in front of it, but any close side shot has a chance of instantly decimating the crew.
 
@@ -63,17 +63,15 @@ Missile launcher is also often rendered completely broken if hit by such shells.
 |-
 | Hull || 25 mm (69°) || 12.7 mm || 12.7 mm || 12.7 mm
 |-
-|Missile launcher|| 50 mm (55°) ||50 mm|| 50 mm (55°) || 0-10 mm
+| Missile launcher|| 50 mm (55°) || 50 mm || 50 mm (55°) || 0-10 mm
 |-
-! Armour !! Sides !! Roof
-|-
-| Cupola || 25 mm || 12.7 mm
+| Cupola || 25 mm || 25 mm || 25 mm || 12.7 mm
 |}
 
 '''Notes:'''
 
 * Suspension wheels and tracks are 15 mm thick
-* Belly and hull undersides over the tracks are 12.7mm thick
+* Belly and hull undersides over the tracks are 12.7 mm thick
 * Outdoor ammo rack is 50 mm thick everywhere, except hinges that are 10 mm thick.
 * It possible to fire HE inside of the launcher tubes, setting missile inside of it and Striker on fire, but the missile rack will not break.
 * A strafing plane can fire inside of the launcher or just fire at the ammo racks and crew inside of Striker instead.
@@ -94,7 +92,7 @@ One of weaknesses of {{PAGENAME}} is its suspension, because the tank will often
 
 It is important to have a high level of "driving" in crew skills. The non-aced driver will get confused if you try to drive forward or backwards and turn at the same time, especially at gear 1. Until your crew is fully trained, use neutral steering first, only then start moving, or get to gear 4-5 and then turn around. It's also worth noting that even if your driver is maxed out, at ~50 km/h you can only turn a little bit before you start losing your speed, so try to keep moving in a certain direction if trying to reach maximum speed.
 
-Even under ideal circumstances the {{PAGENAME}} is slower than most light tanks (speeds above 100 km per hour), so unless a group of fast allies are rushing a point with the {{PAGENAME}}, there's no expectation to cap points solo, or get there first.
+Even under ideal circumstances the {{PAGENAME}} is slower than most light tanks (speeds above 100 km per hour), so unless a group of fast allies are rushing a point with the {{PAGENAME}}, there's no expectation to capture points solo, or get there first.
 
 Improving acceleration with modifications and maintaining map awareness do play a part despite the inability to ''fire'' on move. Besides, the {{PAGENAME}} can still desperately fire a missile and begin moving again while guiding the missile towards an enemy. Using this last resort method allows missiles to be fired while maintaining the best possible 'combat mobility'.
 
@@ -176,40 +174,7 @@ In short: Learn to be careful with your missiles and be mindful of your surround
 * Reloading only happens for one tube at a time. If the weapon is broken, then reloading is stopped to prevent potential ignition on follow-up shots. If out of ammo, when fully rearmed all racks are also reloaded and ready to fire again.
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| BAe Swingfire || ATGM || 535 || 535 || 535 || 535 || 535 || 535
-|-
-| BAe Swingfire Mk.2 || ATGM || 700 || 700 || 700 || 700 || 700 || 700
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="11" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| BAe Swingfire || ATGM || 185 || 4,000 || 27 || 0 || 0.1 || 4,550 || 80° || 82° || 90°
-|-
-| BAe Swingfire Mk.2 || ATGM || 185 || 4,000 || 27 || 0 || 0.1 || 4,550 || 80° || 82° || 90°
-|-
-|}
+{{:BAe Swingfire/Ammunition|BAe Swingfire (Striker), BAe Swingfire Mk.2}}
 
 * Missiles are launched upwards with initial velocity of about 89 m/s
 * The Mk.1 and Mk.2 BAe Swingfire missiles are not different from each other in any way but penetration, which allows Mk.2 to penetrate heavy tanks at extreme angles and destroy ERA shields more efficiently. The price is, however, is that you can only have 30 of Mk.2 missiles per battle (though it's difficult to spend them all in RB).
@@ -277,7 +242,7 @@ It is possible to make fast emergency stop by crashing into obstacles or other t
 There are several examples of this Flanking/Ambushing tactic, for example:
 
 [[File:Striker Map VietnamRushC.JPG|x200px|thumb|right|Trade one for eight.]]
-As the right-side team on the "[[Vietnam Hills|Vietnam]]" map, the Striker cannot hope to take hold of the C capture point, as the left-side team has an indefensible advantage over that capture point. Even the idea of it is so unthinkable, that almost nobody checks the river near to town (and even if they do, using both smoke launchers can give enough breathing space to get past them), so the Striker can dash to the river entrance of C cap point, which is exactly the size of the Striker and is also heavily fortified from every direction, to destroy the entire enemy team right there, as it tries to leave C.
+As the right-side team on the "[[Vietnam Hills|Vietnam]]" map, the Striker cannot hope to take hold of the C capture point, as the left-side team has an indefensible advantage over that capture point. Even the idea of it is so unthinkable, that almost nobody checks the river near to town (and even if they do, using both smoke launchers can give enough breathing space to get past them), so the Striker can dash to the river entrance of C capture point, which is exactly the size of the Striker and is also heavily fortified from every direction, to destroy the entire enemy team right there, as it tries to leave C.
 
 Not only the chances of success are quite high, but the heavily aggravated enemy team will probably come straight at the Striker's position leaving them prey of Striker's teammates sniping in the back.
 
@@ -383,7 +348,7 @@ In case if you absolutely have to attack it directly, you can at least try to st
 
 It's best to attack from many directions at the same time, preferably from behind or the left. Even better if the operator didn't see it coming. Sniping and terrain-based flank are working better in arcade battle, since there they only have vision in front of their driver and in direction they point camera at, but at great range, while sneak attacks from any direction are more reliable in realistic battle, though they themselves are much harder to notice in time. Use of thermal scope is recommended in order to find it or its missiles. If you just have numbers on your side, and your team is more or less cooperative, even the Striker can be overwhelmed. A coordinated simultaneous push of 6 tanks can destroy it, albeit at a high cost. Do not attack it one by one - that is exactly what they want, as it gives them time to reload in between shots.
 
-If it only exposes its missile racks, fire at it, preferably with explosives (HE or ATGM might destroy it outright, HESH and HEAT might hit a weakspot and cause overpressure damage), APFSDS, or 30 mm autocannons with at least 80 mm of penetration. It's also possible to fire into the tubes with all kinds of weapons to damage the missiles directly. Usually, the tubes on your left (their right) fire first and are already empty, so initially aim for the right (their left) to set them on fire. After breaking the weapons, destroy the hull. Keep attacking missile launcher if unable to hit the hull or commander cupola to force it to retreat.
+If it only exposes its missile racks, fire at it, preferably with explosives (HE or ATGM might destroy it outright, HESH and HEAT might hit a weak spot and cause overpressure damage), APFSDS, or 30 mm autocannons with at least 80 mm of penetration. It's also possible to fire into the tubes with all kinds of weapons to damage the missiles directly. Usually, the tubes on your left (their right) fire first and are already empty, so initially aim for the right (their left) to set them on fire. After breaking the weapons, destroy the hull. Keep attacking missile launcher if unable to hit the hull or commander cupola to force it to retreat.
 
 The front of Striker may be surprisingly resistant to machine gun fire, however, if in possession of high calibre machine guns, move around Striker and penetrate its back or sides with them. If you have autocannons as a coaxial weapon (which are ~23 mm and insufficient to damage launchers), attempt to damage commander's cupola, which has much worse protection. 7.62 mm machine gun does nothing to it even point-blank, so do not use those on it. Fire it at its missiles instead.
 

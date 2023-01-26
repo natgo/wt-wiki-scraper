@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=os2u_3
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |cockpit=cockpit_os2u_3.jpg
 }}
 
@@ -159,7 +159,7 @@ For these reasons the Kingfisher is considered to overall be a bad plane, though
 === Modifications and economy ===
 {{Specs-Economy}}
 
-The first modification to research should be Mk.41, which allows installation of two 100 lb bombs. Next, focus on performance and survivability upgrades: fuselage repair, radiator, compressor, engine, wings repair, airframe and cover. Weapons upgrades can be left for last. These will allow the use of more effective ammo belts.
+Focus on performance and survivability upgrades: fuselage repair, radiator, compressor, engine, wings repair, airframe and cover. Weapons upgrades can be left for last. These will allow the use of more effective ammo belts.
 
 == Armaments ==
 {{Specs-Avia-Armaments}}

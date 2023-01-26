@@ -7,7 +7,7 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British SPAA {{Battle-rating}}. It was introduced in [[Update "Ground Breaking"]].
 
-The Ystervark, much like its namesake (a 'Cape Porcupine' for those curious), can be a very prickly foe for an enemy team to deal with. With its tiny and nimble frame, accurate and fast firing 20 mm cannon. It can pull any unwary aircraft crashing down from the sky within its reach, provided the player is attentive and clever with their positioning. 
+The Ystervark, much like its namesake (a 'Cape Porcupine' for those curious), can be a very prickly foe for an enemy team to deal with. With its tiny and nimble frame, accurate and fast firing 20 mm cannon. It can pull any unwary aircraft crashing down from the sky within its reach, provided the player is attentive and clever with their positioning.
 
 == General info ==
 === Survivability and armour ===
@@ -21,7 +21,7 @@ The survivability of this vehicle lies in its compact size and speed, the Ysterv
 '''Armour type:'''
 
 * Structural steel (chassis)
-* Rolled homogeneous armour (cabin, truckbed, hood) 
+* Rolled homogeneous armour (cabin, truckbed, hood)
 * Bulletproof glass (windshield)
 * Wheel (tires)
 
@@ -81,45 +81,11 @@ As with all wheeled vehicles, beware such terrain types as: Snow, muddy ground a
 |}
 
 ==== Ammunition ====
+* '''Default:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
+* '''M594:''' {{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}
+* '''M601:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
 
-* '''Default:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}
-* '''M594:''' {{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}
-* '''M601:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}
-
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 57 || 52 || 37 || 24 || 15 || 10
-|-
-| M594 || 57 || 52 || 37 || 24 || 15 || 10
-|-
-| M601 || 57 || 52 || 37 || 24 || 15 || 10
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 20 mm M601 || HVAP-T || 1,100 || 0.11 || N/A || N/A || N/A || 66° || 77° || 72°
-|-
-| 20 mm M594 || HEF-I || 1,054 || 0.12 || 0 || 0.1 || 27.2 || N/A || N/A || N/A
-|-
-|}
+{{:GAI C01 (20 mm)/Ammunition|HVAP-T, HEFI-T}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -133,7 +99,7 @@ As with all wheeled vehicles, beware such terrain types as: Snow, muddy ground a
 ! 3rd<br>rack empty
 ! 4th<br>rack empty
 |-
-| '''8''' <br> '''600''' || ''Magazines'' <br> ''Rounds'' || 7&nbsp;''(+1)'' <br> 525&nbsp;''(+75)'' || 6&nbsp;''(+2)'' <br> 450&nbsp;''(+150)'' || 5&nbsp;''(+3)'' <br> 375&nbsp;''(+225)'' || 4&nbsp;''(+4)'' <br> 300&nbsp;''(+300)'' 
+| '''8''' <br> '''600''' || ''Magazines'' <br> ''Rounds'' || 7&nbsp;''(+1)'' <br> 525&nbsp;''(+75)'' || 6&nbsp;''(+2)'' <br> 450&nbsp;''(+150)'' || 5&nbsp;''(+3)'' <br> 375&nbsp;''(+225)'' || 4&nbsp;''(+4)'' <br> 300&nbsp;''(+300)''
 |-
 ! 5th<br>rack empty
 ! 6th<br>rack empty
@@ -152,7 +118,7 @@ As with all wheeled vehicles, beware such terrain types as: Snow, muddy ground a
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Ystervark can be an exceptional ambush predator in the right hands. Whether your prey of choice is the flanks of unsuspecting tanks or aircraft buzzing overhead. 
+The Ystervark can be an exceptional ambush predator in the right hands. Whether your prey of choice is the flanks of unsuspecting tanks or aircraft buzzing overhead.
 
 Staying low and unseen with a patient mindset when driving the Ystervark can be greatly rewarding to the player, with a 75 round fast firing belt of 20 mm ammunition the player can use their small size to lurk where aircraft will complacently fly low and not traditionally avoid (Like the opposing team's spawn where most SPAA prefer to seat themselves.). With this in mind the gun has the speed and accuracy to seize on opportunities created by the stealthy approach, often snapshot bursts are enough to bring an aircraft down with enough practise.
 
@@ -186,7 +152,7 @@ Up until the early 1980s, the SADF anti-air regiments were reliant on towed equi
 
 Building on the basis of a previous mine-resistant vehicle project, the engineers came up with a light SPAAG design, built on top of the Bulldog APC chassis between 1983 and 1984. Entering service almost immediately, the Ystervark was used to accompany South African mechanized battalions and to protect strategic assets, such as air bases in the southwest African region. Ystervarks were first employed operationally during Operation Thunder Chariot in 1984 - a division -scale exercise in South Africa during which the Ystervarks were first tested.
 
-However, the Ystervarks didn’t have to wait long for their first combat deployment. Taking part in several operations in the ongoing South African Border War from 1986, Ystervarks were used to great success as deterrents to low-flying Angolan attack aircraft and helicopters, even downing several Angolan MiGs in 1986 and 1987.  After the conclusion of the Border War in 1989, the Ystervark was gradually being phased out of service in 1991 and replaced by the SAMIL 100 Kwêvoël mine-protected SPAAG armoured truck called the Bosvark. Officially, the Ystervark was withdrawn from active service in 1997 after more than 70 units were produced.
+However, the Ystervarks didn't have to wait long for their first combat deployment. Taking part in several operations in the ongoing South African Border War from 1986, Ystervarks were used to great success as deterrents to low-flying Angolan attack aircraft and helicopters, even downing several Angolan MiGs in 1986 and 1987.  After the conclusion of the Border War in 1989, the Ystervark was gradually being phased out of service in 1991 and replaced by the SAMIL 100 Kwêvoël mine-protected SPAAG armoured truck called the Bosvark. Officially, the Ystervark was withdrawn from active service in 1997 after more than 70 units were produced.
 
 ''- From [[wt:en/news/7390-development-ystervark-the-little-truck-that-could-en|Devblog]]''
 

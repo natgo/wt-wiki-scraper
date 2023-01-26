@@ -1,3 +1,8 @@
+{{About
+| about = jet fighter '''{{PAGENAME}}'''
+| usage = other versions
+| link = F-16 (Family)
+}}
 {{Specs-Card
 |code=f_16a_block_20_mlu
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -13,7 +18,7 @@ The hybrid version between the F-16A Block 15 MLU and the airframe of the F-16C 
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-Instead of Block 10 or Block 15 ADF, in ROCAF's case, their F-16A MLU (Block 20) has major differences in terms of thrust and appearance: to tell a Block 20 and others apart, there are two parts to differentiate- IFF antenna and the tail; while Block 10 has no antenna and ADF has the "bird-slicer" antenna, MLU received  AN/APX-113 IFF with a rounded antenna. The tail in this case also received a drogue chute for highway strip operations. Other than that, the MLU performs mostly identically to izs counterparts with slightly less military thrust. The F-16s are known to be one of the most manoeuvrable jets with their impressive engine thrust and design features for dogfights. In most cases, jets that are an era behind the F-16 will very likely having a hard time biting onto the tail of F-16, since their relatively light weight does help in dogfights and acceleration. The F-16 is also the first mass-produced fighter to use FBW (Fly-by-wire) and in this case, instead of the physical limits of the airframe itself, it also has software limits at 9G continuous overload, so players will have to take extra caution on the speed of the jet: any high speed turns over 750 km/h will very likely trigger this limits.
+Instead of [[F-16A|Block 10]] or [[F-16A ADF|Block 15 ADF]], in ROCAF's case, their F-16A MLU (Block 20) has major differences in terms of thrust and appearance: to tell a Block 20 and others apart, there are two parts to differentiate- IFF antenna and the tail; while Block 10 has no antenna and ADF has the "bird-slicer" antenna, MLU received  AN/APX-113 IFF with a rounded antenna. The tail in this case also received a drogue chute for highway strip operations. Other than that, the MLU performs mostly identically to its counterparts with slightly less military thrust. The F-16s are known to be one of the most manoeuvrable jets with their impressive engine thrust and design features for dogfights. In most cases, jets that are an era behind the F-16 will very likely having a hard time biting onto the tail of F-16, since their relatively light weight does help in dogfights and acceleration. The F-16 is also the first mass-produced fighter to use FBW (Fly-by-wire) and in this case, instead of the physical limits of the airframe itself, it also has software limits at 9G continuous overload, so players will have to take extra caution on the speed of the jet: any high speed turns over 750 km/h will very likely trigger this limits.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -182,7 +187,17 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+Thanks to its late introduction in 1998, the F-16A MLU has the strengths from both the baseline A series and ADF, where players could utilize the jet both for intensive air-defense operations and makeshift ground attacker.
+
+'''Air: The Falcon'''
+
+For players who were frustrated from the inferior radar performance of [[J-8B]] or [[J-7E]], the F-16A MLU brings new AN/APG-66 radar to the table. This also marks the introduction of the long awaited PD-capable radar and all-aspect IR AAMs for the Chinese tech tree. The later blocks of F-16A were upgraded with access with radar-guided missiles while the baseline models already has at most 6 IR AAMs for disposal; in terms of air-to-air operations, the jet itself performs exactly like ADFs with very similar engine thrust (albeit slightly lower in military thrust). But one major factor for the overall capability of F-16 is the limited FBW overload at only 9G, most jets in game can pull up to 13G at extreme occasions for snap-shots to enemy jets; MLU has to beware of such overload limits especially at high speeds, the jet itself is known for its excellent manoeuvrability at lower airspeed, most jets at its tier especially heavier jets such as [[F-14A Early|F-14A]] and [[MiG-23MLD]] will have some hard time handling F-16A. In terms of AAMs, as mentioned there are at most 6 of them in either full-IR AAM or 4 IR AAMs+ 2 SARH AAMs loadouts. If players want to gain situational awareness to enemy jets, the AN/APG-66 won't disappoint players with its long detection range and being a pulse-Doppler radar, jets even at lower altitude will be visible to the radar. Make sure to check the radar and RWR in regular basis for best efficiency, bringing AIM-7M for high-altitude targets at front aspect is always a good option for extra XP or at least forcing these targets to lower altitude; while full IR AAM loadout can make sure MLU has the chance to take down careless targets given the missile tracks onto the jet itself instead of their flares (both AIM-9P and 9L are susceptible to flares).
+
+While bringing some bombs for extra XP and credit is viable, only make sure to use them when the skies is mostly cleared out; if any enemies come into play, it's better jettison the bomb pylons for good, more bombs or payloads means lesser chance to win a dogfight.
+
+'''Ground: Jack-of-all-trades'''
+
+The introduction of the F-16A MLU means the Chinese tech tree finally has the upper-hand in terms of being a support fighter. While the F-16A has no radar-guided missiles at all and the F-16A ADF trades all its ground-attacking ordnance for better interception capability, the MLU has access to both types of weapons. If players found previous top-tier jets of PLAAF/ROCAF are less capable for either interception or ground attack missions, or if the SPAAs are less than desirable, this will be a great alternative to all these aforementioned flawed vehicles; while there are up to 12 bombs at disposal, for overall safety of the jet itself, options for 6 AGM-65Bs are also available as well where these missiles are still effective on taking out ground vehicles via its TV search camera. Using the custom loadouts can also means it can takes six 500 lbs, six AGM-65Bs for ground-attacking while leaving the 2 pairs of outer-board pylons for IR AAMs; after taking out high-value ground targets from altitude using the aforementioned air-to-ground ordnance, this leaves its capability to also send enemy attackers or rotorcraft straight back to their hanger, 4 x AIM-9L also can make sure careless attackers will have lesser chance to evade the missiles when they are too concentrated on ground-attacking, while the AIM-7M can be used to take out high-altitude targets or force them to quit attacking for their own survival. Do also beware either missiles SPAAs or enemy missiles from aircraft though, leave the battlefield if the tides have turned to get the best of the jet. 
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -214,7 +229,9 @@ The upgraded F-16AM/BMs (sometimes dubbed a ''Yellow-Skin Snake 黃皮蛇'' by e
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f_16a_block_20_mlu Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

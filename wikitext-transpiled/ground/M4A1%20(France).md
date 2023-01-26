@@ -82,62 +82,12 @@ The 75 mm M3 gun is mounted in the M34 gun mount with the periscopic, a skinny g
 ==== Ammunition ====
 When discussing the M4A1's shells, one always has to account for the fact that it's a medium tank. This means short to medium engagement range, so realistically it can benefit more from its short-range penetration figures than long-range sniping tanks would.
 
-* M72 shot - {{Annotation|AP|Armour-Piercing}} - Solid shot, stock shell. An armour-piercing shell with acceptable penetration but poor post-penetration damage.
-* M48 shell - {{Annotation|HE|High-Explosive fragmentation shell}} - A low-velocity shell useful against soft targets, in particular when hitting an open-topped vehicle. Harmless against any enclosed vehicle with more than 10 mm of armour.
-* M61 shot - {{Annotation|APCBC|Armour-Piercing Capped Ballistic Capped}} - A capped armour-piercing shell with a better penetration than the M72 thanks to its ballistic cap and a good post-penetration damage thanks to its explosive filler.
-* M89 smoke shell - A shell deploying a smoke screen on impact, useful to blind enemy vehicles that are too remote for you to disable so that you can progress towards objectives.
+* '''M72 shot; {{Annotation|AP|Armour-Piercing}}''' - Solid shot, stock shell. An armour-piercing shell with acceptable penetration but poor post-penetration damage.
+* '''M48 shell; {{Annotation|HE|High-Explosive fragmentation shell}}''' - A low-velocity shell useful against soft targets, in particular when hitting an open-topped vehicle. Harmless against any enclosed vehicle with more than 10 mm of armour.
+* '''M61 shot; {{Annotation|APCBC|Armour-Piercing Capped Ballistic Capped}}''' - A capped armour-piercing shell with a better penetration than the M72 thanks to its ballistic cap and a good post-penetration damage thanks to its explosive filler.
+* '''M89; smoke shell''' - A shell deploying a smoke screen on impact, useful to blind enemy vehicles that are too remote for you to disable so that you can progress towards objectives.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M72 shot || AP || 91 || 88 || 78 || 67 || 57 || 49
-|-
-| M48 shell || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-| M61 shot || APCBC || 104 || 101 || 90 || 78 || 68 || 59
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M72 shot || AP || 619 || 6.3 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| M48 shell || HE || 463 || 6.3 || 0 || 0.1 || 666 || 79° || 80° || 81°
-|-
-| M61 shot || APCBC || 618 || 6.79 || 1.2 || 14 || 63.7 || 48° || 63° || 71°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| M89 || 259 || 3 || 13 || 5 || 20 || 50
-|-
-|}
+{{:M3 (75 mm)/Ammunition|M72 shot, M48 shell, M61 shot, M89}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_M4A1.png|right|thumb|x250px|[[Ammo racks]] of the M4A1 (identical).]]

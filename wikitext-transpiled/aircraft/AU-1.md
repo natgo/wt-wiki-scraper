@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=f4u-6_au-1
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |market=AU-1 Corsair (USA)
 }}
 

@@ -20,11 +20,11 @@ The Churchill Mk I, despite being a heavy tank, is quite fast and can turn just 
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-The main attribute of the Churchill I is obviously its armour. the 89 to 178 mm of the front hull together with the 63.5 mm of side armour means that this tank performs very well when angled. However overangling can reveal the thinly armoured engine in the back. The very big tracks also aid in protection as they can soak up a lot of shells. Do not let the enemy get to your rear as all tanks at the Churchill I's BR can go through.
+The main attribute of the Churchill I is obviously its armour. the 89 to 178 mm of the front hull together with the 63.5 mm of side armour means that this tank performs very well when angled. However overangling can reveal the thinly armoured engine in the back. The very big tracks also aid in protection as they can soak up a lot of shells. However, this leaves you vulnerable to being detracked. Do not let the enemy get to your rear as all tanks at the Churchill I's BR can penetrate it.
 
 The turret of the Churchill I is very well armoured overall, it has 89 mm all around except 114 mm on the front. On the front, there is also a 50 mm thick mantlet plate below the main plate that when combined offers superb frontal protection. The turret front has a couple of small weak spots in the front where the turret MG and sight are placed: the armour is only 50 mm thick and can be penetrated by any opposing tank. Always keep the turret in motion when at close range.
 
-The roof armour of the turret and hull are both very thin and can be easily strafed by aircraft with a calibre of 20 mm or larger.
+The roof armour of the turret and hull are both very thin and can be easily strafed by aircraft with a calibre of 20 mm or larger. Little can be done, but sticking close to an SPAA vehicle or keeping under trees can help mitigate these risks.
 
 The 5 crew members of the Churchill allow for decent survivability, however, due to the packed crew in the turret, an APHE shell will knock the crew entirely if it goes through. If this happens you'll have to wait for the hull-gunner (presuming they're still alive) to take up the gunner's position.
 
@@ -55,7 +55,7 @@ The abundance of smoke munitions on the vehicle (roof-mounted smoke grenades as 
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
-As a heavy infantry support tank. the Churchill I  is slow and will not be the first to reach the frontline. It was a top speed of 28 km/h (30 km/h in AB) and will reach that top speed fairly quickly due to a good engine and transmission. The Churchill I has a very poor reverse speed (-3 km/h), so it should not be relied on for peaking a hill or corner. The Churchill I can neutral steer allowing for good positioning, however the neutral steering is very slow. Short brakes can be used to pivot the tank much faster (keybinds can be defined in-game in the Controls menu: Controls > Ground vehicles > Short brakes).
+As a heavy infantry support tank. the Churchill I  is slow and will not be the first to reach the frontline. It has a top speed of 28 km/h (30 km/h in AB) and will reach that top speed fairly quickly due to a good engine and transmission. The Churchill I has a very poor reverse speed (-3 km/h), so it should not be relied on for peaking a hill or corner. The Churchill I can neutral steer allowing for good positioning, however the neutral steering is very slow. Short brakes can be used to pivot the tank much faster (keybinds can be defined in-game in the Controls menu: Controls > Ground vehicles > Short brakes).
 
 {{tankMobility|abMinHp=452|rbMinHp=310}}
 
@@ -68,7 +68,8 @@ As a heavy infantry support tank. the Churchill I  is slow and will not be the f
 {{Specs-Tank-Weapon|2}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|QF 2-pounder (40 mm)}}
-The 40 mm QF 2-pounder has poor penetration even with its best round at its BR (89 mm point blank). You will still be able to penetrate most light or medium vehicles frontally at close range, but at ranges greater than 500 m the cannon becomes mostly ineffective due to both its lack of penetration and its inaccuracy. From the side, the round will usually go through, even at medium ranges. The 2-pounder's best attribute is its reload speed. Because of this you will in most cases be able to fire 2 rounds in the same times as the enemy can fire only one. It is advised to use the 2-pounder's reload speed to methodically take out key components within the enemy vehicle. This will also be necessary as the only round with explosive filler that he gun has, has terrible penetration. The 2-pounder is equipped with a shoulder stabilizer allowing for stable fire at slow speeds.
+
+The 40 mm QF 2-pounder has poor penetration even with its best round at its BR (89 mm point blank). You will still be able to penetrate most light or medium vehicles frontally at close range, but at ranges greater than 500 m the cannon becomes mostly ineffective due to both its lack of penetration and its inaccuracy. From the side, the round will usually go through, even at medium ranges. The 2-pounder's best attribute is its reload speed. Because of this you will in most cases be able to fire 2 rounds in the same times as the enemy can fire only one. It is advised to use the 2-pounder's reload speed to methodically take out key components within the enemy vehicle. This will also be necessary as the only round with explosive filler is the 76mm, and the HE round has terrible penetration. The 2-pounder is equipped with a shoulder stabilizer allowing for stable fire at slow speeds.
 
 The gun has excellent elevation and depression angles as well as a turret with decent traverse speeds, however in a lot of situations the hull may be in the way of the gun, keep this in mind when engaging on uneven or hilly terrain.
 
@@ -89,47 +90,7 @@ The gun has excellent elevation and depression angles as well as a turret with d
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Shot Mk.1 AP/T || AP || 72 || 68 || 52 || 37 || 27 || 19
-|-
-| Shot Mk.IXB APCBC/T || APCBC || 89 || 86 || 77 || 66 || 57 || 50
-|-
-| Shot Mk.1 APHV/T || AP || 80 || 75 || 58 || 41 || 30 || 21
-|-
-| Shell Mk.1 AP/T || APHE || 66 || 62 || 49 || 36 || 26 || 20
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Shot Mk.1 AP/T || AP || 792 || 1.08 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| Shot Mk.IXB APCBC/T || APCBC || 792 || 1.24 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| Shot Mk.1 APHV/T || AP || 853 || 1.08 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| Shell Mk.1 AP/T || APHE || 792 || 1.08 || 1.2 || 9 || 20.9 || 47° || 60° || 65°
-|-
-|}
+{{:QF 2-pounder (40 mm)/Ammunition|Shot Mk.1 AP/T, Shot Mk.IXB APCBC/T, Shot Mk.1 APHV/T, Shell Mk.1 AP/T}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -194,49 +155,7 @@ The hull-mounted 76 mm OQF 3-inch Howitzer Mk I has only 2 types of rounds avail
 |}
 
 ==== Ammunition ====
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 3-inch Mark II || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 3-inch Mark II || HE || 210 || 6.02 || 0 || 0.1 || 606 || 79° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| 3-inch Smoke || 210 || 3.18 || 13 || 5 || 20 || 8
-|-
-|}
+{{:OQF 3-inch Howitzer Mk I (76 mm)/Ammunition|3-inch Mark II, 3-inch Smoke}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -318,7 +237,7 @@ The Churchill has heavy armour, especially when it is angled, but this certainly
 * 40 mm gun is ineffective against anything with sloped armour
 * Shell Mk.1 AP/T with explosive mass has a low penetration of 66 mm
 * Will lose a lot of speed when making a sharp turn in motion
-* Has difficulties engaging other heavy tanks
+* Has difficulty engaging other heavy tanks
 * Up-gunned Panzer IVs ([[Pz.IV F2]], [[Pz.IV G]], etc.) will penetrate flat faces with ease
 * Poor mobility when compared to other heavy tanks from other nations
 * Terrible reverse speed
@@ -326,6 +245,7 @@ The Churchill has heavy armour, especially when it is angled, but this certainly
 * Frontal 50 mm weak spot (machine gun port)
 * Turret and hull roof armour is somewhat thin
 * Priority target by planes due to size and bad reverse speed
+* Exposed tracks leave you incredibly vulnerable to being immobilized
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

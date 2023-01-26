@@ -16,26 +16,31 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli light tank {{Battle-ra
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+The {{PAGENAME}} lacks protection against heavy machine gun fire and is susceptible to damage by light machine gun fire. The crew is located in a rather small compartment, making the armoured car prompt to being knocked out by a single shot from almost any direction. It is also vulnerable to overpressure, meaning chemical energy ammunition will take out your vehicle regardless of where they impact. A kinetic energy ammunition can damage your AML through the projectile itself or the spalling generated but the inflicted damages are lesser and has a higher chance to knock out the crew members or critical modules than to destroy the vehicle. It should be noted that the thin armour has a chance to not activate fused shells like APHE, APCBC, etc, although it will trigger HEAT, HEATFS, HE and ATGM.
 
-'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
-<!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
-* Cast homogeneous armour (Turret, Transmission area) -->
+'''Armour type:'''
+
+* Rolled homogeneous armour (hull, turret)
+* Structural steel (mudguards, storage boxes)
+* Wheel (tires)
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 10 mm (51°) ''Upper glacis'' <br> 10 mm (17°) ''Upper glacis'' || 10 mm (4°) ''Front half'' <br> 10 mm (6°) ''Rear half'' || 10 mm ''Upper plate'' <br> 10 mm (46°) ''Upper glacis'' <br> 10 mm (20°) ''Lower glacis'' || 10 mm (40°) ''Front glacis'' <br> 10 mm (44°) ''Rear glacis''
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+|Turret || 12 mm (30°) ''Turret front'' <br> 12 mm (8°) ''Gun mantlet'' || 10 mm (17-21°) <br> 10 mm ''Viewports'' || 10 mm (16°) || 10 mm (16°) ''Front part'' <br> 10 mm ''Rear part'' <br> 8 mm ''Gunner hatch''
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+|Cupola || colspan="4" style="text-align:center" | 8 mm (spherical)
 |-
 |}
+'''Notes:'''
 
-'''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
-<!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+* Wheels are 10 mm thick and a spare wheel covers the left side of the hull.
+* Storage boxes and mudguards are 5 mm thick.
+* The belly is 8 mm thick.
+* The gun barrel is 20 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -70,53 +75,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli light tank {{Battle-ra
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| OCC 60-62 || HEATFS || 320 || 320 || 320 || 320 || 320 || 320
-|-
-| OE 90 F1 || HE || 13 || 13 || 13 || 13 || 13 || 13
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| OCC 60-62 || HEATFS || 750 || 8.95 || 0.05 || 0.1 || 877.7 || 65° || 72° || 77°
-|-
-| OE 90 F1 || HE || 640 || 10.45 || 0 || 0.1 || 945 || 79° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| OFUM PH90-F2 || 640 || 10.2 || 13 || 5 || 20 || 50
-|-
-|}
+{{:DEFA F1 (90 mm)/Ammunition|OCC 60-62, OE 90 F1, OFUM PH90-F2}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_AML-90.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

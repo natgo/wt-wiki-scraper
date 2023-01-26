@@ -47,6 +47,7 @@ The Buccaneer is one of only a few aircraft in the game to have a blown flaps sy
 |}
 
 ==== Details ====
+[[File:Buccaneer S.2.2.jpg|thumb|Buccaneer flying near the ocean]]
 {| class="wikitable" style="text-align:center" width="50%"
 |-
 ! colspan="6" | Features
@@ -71,7 +72,7 @@ The Buccaneer is one of only a few aircraft in the game to have a blown flaps sy
 | {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 518 || 463 || 370 || ~8 || ~5
 |-
 |}
-
+[[File:Buccaneer S.2.1.jpg|thumb|Buccaneer Ready for taxi on a carrier.]]
 {| class="wikitable" style="text-align:center"
 |-
 ! colspan="4" | Optimal velocities (km/h)
@@ -138,12 +139,13 @@ The Buccaneer uses drooping ailerons (the ailerons deflect downwards with the fl
 | {{Cross}} || {{Tick}} || {{Tick}} || {{Tick}}
 |-
 |}
+
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
 {{main|Mk.M2 (540 lb)|H.E. M.C. Mk.II (500 lb)|L.D H.E. M.C. Mk.1 (1,000 lb)|H.E. M.C. Mk.13 (1,000 lb)}}
 {{main|AGM-12B Bullpup|AIM-9B Sidewinder|RP|RP-3}}
-
+[[File:Buccaneer S.2.3.jpg|thumb|Buccaneer dropping a series of 500 lb bombs]]
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 * 24 x 500 lb H.E. M.C. Mk.II bombs (12,000 lb total)
@@ -197,7 +199,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 The Buccaneer is a fully air-to-ground plane with very limited defensive capabilities against aircraft. It should never be used to attack enemy aircraft despite having the AIM-9B. These missiles are meant to be used in defence if there is a chance to get behind the enemy who is engaging the aircraft or against helicopters in combined battles. Using the Buccaneer as a fighter will quickly lead to death.
-[[File:Buccaneer Formation Attack.png|thumb|399x399px|Buccaneer Formation Dive Bombing]]
+[[File:Buccaneer Formation Attack.png|thumb|350px|Buccaneer Formation Dive Bombing]]
 The role of the Buccaneer is pretty straight forward when it comes to air battles: base bombing or ground/naval units bombing. It is recommended to utilize the different bomb payloads combined with flares or with the AIM-9B if the pilot wants. It is not recommended to take Bullpup AGMs as bombs are more useful in the air battles environment, including in Enduring Confrontation Simulator battles. Rockets are not recommended to be taken as they are inaccurate and useless even with ballistics computer against lightly armoured vehicles. Bullpups can be an sort of effective guided weapon when engaging enemy vessels. They are not recommended to be used against destroyers, cruisers, or battleships in any sort of match. Instead, use them for pinpoint hits on enemy carriers. A well-placed Bullpup is enough to make a carrier sink, it won't be as fast as with bombs but it will use a considerably less amount of ordnance.
 
 The Buccaneer has a wide variety of bomb payloads for all types of players, for those who want to be fast and engage bases or ground targets as quickly as possible and for those who want to carry out as much destruction as possible. The absurd amount of bomb payloads will fit all types of players and their needs. The only drawback is that the plane is not able to carry AIM-9B and flares at the same time. Flares also take up the two outer-most pylons of the plane. The recommended payload for a fair trade in speed, firepower and defensive capabilities is the "104 x Flares + 10 x 1,000 lb G.P. Mk.I bombs" payload. More than enough bombs to take 2 bases in maps where there are only 3 bases and airfield or 1 of the 4 respawning bases like on Ruhr which take double the payload. Only 3 x 1,000 lb G.P. Mk.I bombs are needed per base when there are 3 bases. When in Ruhr or similar maps, bases take the whole 10 bombs (in reality it takes ~8.5 bombs but due to the drop sequence, it is recommended to drop all 10 as you are unable to drop 9 bombs). If the player wants to play a more aggressive full bomb payload, then the "16 x 1,000 lb G.P. Mk.I bombs" payload should be carried. More than enough bombs to destroy the 3 bases in a 3 base map and still have enough payload for the airfield or a base and a half in maps like Ruhr. In enduring confrontation maps, any payload is recommended as EC is more forgiving payload wise as multiple strikes can be done to a base or an airfield.
@@ -213,7 +215,7 @@ The AIM-9B are far from being the best anti-air missiles in the game due to thei
 * Helicopters (both AI and player controlled) as long as they are not the most modern attack choppers (Ka-50/52, AH-64, EC-665 HAD/HAP/UHT, etc)
 
 === Flight paths and engagement paths ===
-[[File:Buccaneer IRCM.png|left|thumb|413x413px|Buccaneer use of flares while doing a combat turn]]
+[[File:Buccaneer IRCM.png|left|thumb|350px|Buccaneer use of flares while doing a combat turn]]
 There are multiple rules which should be followed when flying the Buccaneer in order to prevent and counter a wide variety of threats. The first and pretty straight forward rule is '''stay out of Line of Sight (LOS)'''. This is one of the most basic rules for any aircraft in the game, but specially due to the size of the Buccaneer, it is crucial as it is easier to spot a Buccaneer at distances than an F-84. The Buccaneer is far from being the easiest plane to conceal, but due to its camouflage, it can become invisible to eye sight if whoever is the threat falls in the trap. Do not rely on the camouflage to conceal you most of the time, it depends or the LOS azimuth, distance and enemy pilot's awareness. The blue colour is reliable on both sea and land environments although it is not recommended to rely on it in Realistic or Arcade battles as, once the aircraft is detected, a marker will appear on the Buccaneer revealing the position. Depending on the situation and gamemode, there are multiple environmental hiding places which can make the Buccaneer have a safe flight to target zone, this will be divided into Optical Hiding and Technological Hiding. Both of them are to be complimented by each other, the pilot must not focus on just one or the other. Both have to be done at the same time in order to achieve the best survivability in game.
 
 '''Optical Hiding:'''

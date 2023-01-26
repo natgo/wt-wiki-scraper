@@ -69,57 +69,7 @@ The AMX-10RC has a 105 mm/47 F2 BK MECA gun, similar to the 105 mm guns found on
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| OCC 105 F3 || HEATFS || 350 || 350 || 350 || 350 || 350 || 350
-|-
-| OE 105 F3 || HE || 25 || 25 || 25 || 25 || 25 || 25
-|-
-| OFL 105 F3 || APFSDS || 325 || 321 || 318 || 316 || 308 || 303
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| OCC 105 F3 || HEATFS || 1,120 || 5.65 || 0.05 || 0.1 || 1,020 || 65° || 72° || 77°
-|-
-| OE 105 F3 || HE || 800 || 7.1 || 0 || 0.1 || 2,000 || 79° || 80° || 81°
-|-
-| OFL 105 F3 || APFSDS || 1,400 || 3.8 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| O-FUM-PH-105 F3 || 800 || 7.1 || 20 || 5 || 25 || 50
-|-
-|}
+{{:Modele F2 (105 mm)/Ammunition|OCC 105 F3, OE 105 F3, O-FUM-PH-105 F3, OFL 105 F3}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

@@ -68,47 +68,7 @@ The tank can survive a shot, however shots to the turret have a higher chance, a
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M456A2 || HEATFS || 400 || 400 || 400 || 400 || 400 || 400
-|-
-| M393A2 || HESH || 127 || 127 || 127 || 127 || 127 || 127
-|-
-| C76A1 || APFSDS || 353 || 349 || 342 || 333 || 324 || 314
-|-
-| DM33 || APFSDS || 408 || 405 || 398 || 389 || 379 || 370
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M456A2 || HEATFS || 1,174 || 10.5 || 0.05 || 0.1 || 1,270 || 65° || 72° || 77°
-|-
-| M393A2 || HESH || 732 || 11.2 || 0.1 || 4 || 4,310 || 73° || 77° || 80°
-|-
-| C76A1 || APFSDS || 1,509 || 3.6 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-| DM33 || APFSDS || 1,455 || 3.79 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
+{{:LRF (105 mm)/Ammunition|M456A2, M393A2, C76A1, DM33}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

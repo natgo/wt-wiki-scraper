@@ -129,19 +129,7 @@ There is virtually no reason to use the stock belts on the warrior. The stock be
 * '''Default:''' {{Annotation|SAP-I|Semi-armour-piercing incendiary}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}} - This belt can be used against other light tanks and certain lightly armoured medium tanks. However, it also includes anti-air round (HEI-T), which does increase damage to air targets but is useless against tanks at rank 5. The low rate of fire of Warrior doesn't compliment this dual belt.
 * '''30x170 APDS-T:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}} - This belt can be used against sides of most medium tanks of rank 5 and 6, and even some heavy tanks can be damaged by it. Performance of this belt deteriorates much slower than of AP-I belt, but it does less damage the more armour it had to penetrate, resulting in an inability to set off enemy ammo racks in 1 hit if it was behind any good armour. If used against planes, it can damage or rip off wings, or snipe out the pilot.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 53 || 50 || 39 || 29 || 21 || 16
-|-
-| 30x170 APDS-T || 110 || 101 || 95 || 69 || 52 || 41
-|-
-|}
+{{:L21A1 (30 mm)/Ammunition|SAP-I, HEI-T*, HEI*, APDS}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -171,7 +159,7 @@ The MILAN launcher can be upgraded to the MILAN 2, which has 730 mm of RHA penet
 
 The missile is launched via commander's optics (the ones on top of the turret), if commander optics get destroyed, the Warrior cannot launch ATGM anymore. They can only be repaired via "manual repair".
 
-The missile can be guided either by the gunner scope (located inside cannon itself in AB/RB) or commander scope (by activating "commander fire control" via a hotkey) unlike with the Striker. Use of the commander scope is preferable, as it exposes much less of the tank and confuses some people which expect you to drive out completely, but this is only possible if the commander is still alive. 
+The missile can be guided either by the gunner scope (located inside cannon itself in AB/RB) or commander scope (by activating "commander fire control" via a hotkey) unlike with the Striker. Use of the commander scope is preferable, as it exposes much less of the tank and confuses some people which expect you to drive out completely, but this is only possible if the commander is still alive.
 
 If chosen scope cannot see the missile directly, the tank will lose control over it, so any indirect attacks should be aimed quickly after sending the missile as high as possible. Choosing the commander scope also allows to attack with missiles a bit like Swingfire - if binoculars are able to see the target on low ground, then it most likely can be hit by a curved missile, even if the scope cannot be directly aimed at it.
 
@@ -206,40 +194,8 @@ For targets far away, it is recommended to use the laser rangefinder before laun
 * Despite being launched at their max speed, they are still very manoeuvrable, so they still can be curved behind some hills at targets ~500 m away, and generally targets up to 800 m can't dodge it.
 
 ==== Ammunition ====
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| MILAN || ATGM || 530 || 530 || 530 || 530 || 530 || 530
-|-
-| MILAN 2 || ATGM || 730 || 730 || 730 || 730 || 730 || 730
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="11" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| MILAN || ATGM || 200 || 2,000 || 6.7 || 0.05 || 0.1 || 1,830 || 80° || 82° || 90°
-|-
-| MILAN 2 || ATGM || 185 || 2,000 || 7 || 0.05 || 0.1 || 2,360 || 80° || 82° || 90°
-|-
-|}
+{{:MILAN/Ammunition|MILAN}}
+{{:MILAN 2/Ammunition|MILAN 2}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -324,7 +280,7 @@ Never fire pure AP rounds to the back of this tank, since unless it hits one of 
 
 If the Warrior has the add-on armour package, do not underestimate it and use anything possible when engaging it, not just HMG. Warrior repairs and reloads fast enough to disable its adversaries, if it must, "just set it on fire" mindset is not going to stop it. Machine guns are nearly useless against hull from front, despite it having incomplete add-on armour protection, use them to disable ATGM controls or missiles themselves.
 
-In case Warrior destroyed your primary weapon, but doesn't have a composite screen and you still have 12.7 mm machine gun, you can fire at its side ventilation to destroy it. It is on the right side of the IFV (left for you, if facing it). The add-on armour greatly complicates this, as it will block any direct shots at it, leaving you with only its rear as an option. 
+In case Warrior destroyed your primary weapon, but doesn't have a composite screen and you still have 12.7 mm machine gun, you can fire at its side ventilation to destroy it. It is on the right side of the IFV (left for you, if facing it). The add-on armour greatly complicates this, as it will block any direct shots at it, leaving you with only its rear as an option.
 
 The Warrior can be destroyed by a fighter jet. However, do not just strafe it directly, as it actually can fire back and may have enough armour to block stray shots. It's best to attack it from the top.
 

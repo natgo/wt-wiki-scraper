@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=f-4e
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |cockpit=F-4E II Cockpit.jpg
 }}
 

@@ -75,43 +75,7 @@ The main drawback to remember is the sub-optimal reverse speed. The AMX-13 can o
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| POT-51A || APBC || 182 || 178 || 162 || 143 || 127 || 113
-|-
-| 75 mm HE || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-| PCOT-51P || APCBC || 202 || 198 || 180 || 159 || 141 || 125
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| POT-51A || APBC || 1,000 || 6.4 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| 75 mm HE || HE || 753 || 6.2 || 0 || 0.1 || 675 || 79° || 80° || 81°
-|-
-| PCOT-51P || APCBC || 1,000 || 6.4 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-|}
+{{:SA50 L/57 (75 mm)/Ammunition|POT-51A, OE Mle 1951, PCOT-51P}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_AMX-13.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

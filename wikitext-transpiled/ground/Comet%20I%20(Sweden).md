@@ -80,51 +80,7 @@ The turret is an unreliable area to target. Its armour is thicker and bouncy. A 
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Shot Mk.6 || AP || 137 || 134 || 123 || 111 || 100 || 91
-|-
-| Shell Mk.1 || HE || 9 || 9 || 9 || 9 || 9 || 9
-|-
-| Shot Mk.4 || APC || 137 || 134 || 123 || 111 || 100 || 91
-|-
-| Shot Mk.8 || APCBC || 152 || 149 || 137 || 124 || 112 || 101
-|-
-| Shot SV Mk.1 || APDS || 220 || 216 || 199 || 179 || 159 || 139
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Shot Mk.6 || AP || 754 || 7.71 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| Shell Mk.1 || HE || 754 || 6.98 || 0 || 0.1 || 580 || 79° || 80° || 81°
-|-
-| Shot Mk.4 || APC || 754 || 7.71 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| Shot Mk.8 || APCBC || 754 || 7.71 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| Shot SV Mk.1 || APDS || 1,035 || 2.48 || N/A || N/A || N/A || 75° || 78° || 80°
-|-
-|}
+{{:OQF Mk.II (77 mm)/Ammunition|Shot Mk.6, Shell Mk.1, Shot Mk.4, Shot Mk.8, Shot SV Mk.1}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Comet_I.png|right|thumb|x250px|[[Ammo racks]] of the Comet I]]
@@ -176,7 +132,7 @@ The coaxial BESA has a rather low fire rate, and due to its coaxial mounting is 
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 Fighting a tank of the same weight classification is relatively easy, but can be difficult against the more armoured [[Panther A]], [[IS-1|IS series]] and angled [[Tiger H1|Tiger]] tanks. Until the APDS shot has been unlocked, more decisive shots will have to be made to take care of these tanks, the Mk.6 and Mk.8 shot are the preferred ammunition to use. The Panthers should be targeted on the gun mantlet in the front and should be aimed at the gunner to immobilize their firepower and cause crew damage. The T-34-85 is a bit of a hit-or-miss due to the more heavy sloping nature of the armour and the turret. Penetrating through the front hull armour when it is facing directly at you is the best course of action against the T-34-85. Heavy tanks get even more tricky, but easier once the APDS round is unlocked for use. A [[Tiger H1|Tiger I]] is admittedly an easy tank to deal with due to the vertical slope of the armour unless angled. Flanking should be used in this case. Problems arise with the [[IS-1]] and [[IS-2]] tanks that may show up, due to their heavy armour and the IS-2's tendency to absolutely wreck vehicles with its 122 mm gun. Distance is not your friend against this tank, the closer the better for your gun to penetrate the weak spots on its frontal armour. A tough situation, but a survivable one.
 
-For every Comet player that does not have the APDS shells, do not engage in long distance gun fights. You are almost certainly going to lose. So use it first as its intention is, a cruiser tank. Cap point and retreat. If you find yourself in a sticky situation, get as close to the enemy as possible and fire at its side. Conduct the battle in this manner until the APDS is unlocked
+For every Comet player that does not have the APDS shells, do not engage in long distance gun fights. You are almost certainly going to lose. So use it first as its intention is, a cruiser tank. Capture the point and retreat. If you find yourself in a sticky situation, get as close to the enemy as possible and fire at its side. Conduct the battle in this manner until the APDS is unlocked
 
 The best tactic is flanking and "shoot and scoot". Your armour won't stand against most tanks you'll meet so don't pick a sniping position and keep firing - sooner or later you will be pinned down. You need to locate a good spot for attack, fire a few shots (the Comet has great fire rate: use it) and relocate. Don't mind the damage you made: keep moving! Angling your front armour at a severe angle when peeking a corner an enemy is behind to bait a shot can also work in a pinch.
 
@@ -185,10 +141,10 @@ Also, another "never" to do with this tank, never go in reverse. You are almost 
 Overall, you must dedicate quite a bit of time to master the tank in all. Even when you have the APDS shells.
 
 ====Arcade battles====
-In arcade domination mode where the cap points are arranged perpendicular to the cap points (ex. Poland, Ash River, Berlin, Korea, Karelia, Kuban, etc.), go for the flanks (A or C). If the cap points are diagonal (ex. Stalingrad), go for the closest cap point. And if the cap points are parallel to cap points (ex. Ardennes, Eastern Europe, etc.) go for the middle point as fast as you can. If you feel that you cant make it, help cap the point closest to spawn. You can also decide if you want to defend the point after capturing it. It is suggested to defend the cap point that has a lot of cover and an easy escape if overwhelmed (Suggested points to defend: A or C in Poland, C in Stalingrad, C in Ardennes).
+In arcade domination mode where the capture points are arranged perpendicular to the other capture points (ex. Poland, Ash River, Berlin, Korea, Karelia, Kuban, etc.), go for the flanks (A or C). If the capture points are diagonal (ex. Stalingrad), go for the closest point. And if the capture points are in line with the spawns (ex. Ardennes, Eastern Europe, etc.) go for the middle point as fast as you can. If you feel that you cant make it, help cap the point closest to spawn. You can also decide if you want to defend the point after capturing it. It is suggested to defend the capture point that has a lot of cover and an easy escape if overwhelmed (Suggested points to defend: A or C in Poland, C in Stalingrad, C in Ardennes).
 
 ====Realistic/Simulator battles====
-In realistic and simulator, the Comet can become sluggish and isn't as fast as in arcade. A suggestion would be to capture the closest cap point, cap it, and then go into hiding. When you go into hiding, take every well placed shot you can and immediately run away from an encounter. You will mainly be facing Tiger IIs, Tiger Is, and Panthers, T-34-85s, rarely Chi-Tos and Chi-Ris. If you encounter them on a one v. one, always be on the move. Move around the other tank and try to hit it from the side (Panthers, Tiger Is, Chi-Tos, and Chi-Ris). If you encounter a Tiger II, aim for its turret cheek with a APDS shell and take shoot it through the side. T-34-85 would be easier. You can quite easily penetrate the frontal armour of the T-34-85. It is just a matter of reaction time.
+In realistic and simulator, the Comet can become sluggish and isn't as fast as in arcade. A suggestion would be to capture the closest point, cap it, and then go into hiding. When you go into hiding, take every well placed shot you can and immediately run away from an encounter. You will mainly be facing Tiger IIs, Tiger Is, and Panthers, T-34-85s, rarely Chi-Tos and Chi-Ris. If you encounter them on a one v. one, always be on the move. Move around the other tank and try to hit it from the side (Panthers, Tiger Is, Chi-Tos, and Chi-Ris). If you encounter a Tiger II, aim for its turret cheek with a APDS shell and take shoot it through the side. T-34-85 would be easier. You can quite easily penetrate the frontal armour of the T-34-85. It is just a matter of reaction time.
 
 === Specific enemies worth noting ===
 Many heavy tanks will be an issue to deal with using stock AP shells, but with the APDS unlocked, it becomes a lot easier. As it has been mention before, when engaging a Tiger II, slap an APDS shell on the right turret cheek to knock out the gunner and finish it off from the side. The hardest tanks to counter are the following:
@@ -230,7 +186,9 @@ Also be very aware of lightly armoured tank destroyers - these vehicles will be 
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=sw_a_34_comet Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

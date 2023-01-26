@@ -70,43 +70,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M325 || HEATFS || 480 || 480 || 480 || 480 || 480 || 480
-|-
-| M339 || HE-TF || 65 || 65 || 60 || 58 || 53 || 50
-|-
-| M322 || APFSDS || 589 || 586 || 577 || 565 || 553 || 541
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M325 || HEATFS || 1,078 || 15.81 || 0.05 || 0.1 || 2,360 || 65° || 72° || 77°
-|-
-| M339 || HE-TF || 900 || 17 || 1.5 || 3 || 3,660 || 79° || 80° || 81°
-|-
-| M322 || APFSDS || 1,705 || 5.6 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
+{{:IMI MG251 (120 mm)/Ammunition|M325, M339, M322}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Merkava_Mk.3B.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -176,7 +140,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=il_merkava_mk_3c Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

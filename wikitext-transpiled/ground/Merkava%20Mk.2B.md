@@ -69,7 +69,7 @@ Since the engine, transmission, and fuel tank are all positioned right behind th
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 54 || rowspan="2" | -8°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 38.1 || 52.7 || 64.0 || 70.8 || 75.3 || rowspan="2" | 8.71 || rowspan="2" | 7.71 || rowspan="2" | 7.10 || rowspan="2" | 6.70
+| rowspan="2" | 54 || rowspan="2" | -8°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 38.1 || 52.7 || 64.0 || 70.8 || 75.3 || rowspan="2" | 8.71 || rowspan="2" | 7.70 || rowspan="2" | 7.10 || rowspan="2" | 6.70
 |-
 ! ''Realistic''
 | 23.8 || 28.0 || 34.0 || 37.6 || 40.0
@@ -77,7 +77,7 @@ Since the engine, transmission, and fuel tank are all positioned right behind th
 |}
 
 ==== Ammunition ====
-{{:Sharir (105 mm)/Ammunition|M152|M156|M111|M416}}
+{{:Sharir (105 mm)/Ammunition|M152, M156, M111, M416}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Merkava_Mk.2D.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -96,10 +96,9 @@ Since the engine, transmission, and fuel tank are all positioned right behind th
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
+{{Specs-Tank-Weapon|3}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|FN MAG 60-40 (7.62 mm)}}
-
-''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.''
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -107,11 +106,11 @@ Since the engine, transmission, and fuel tank are all positioned right behind th
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Pintle (loader) || 1,800 (200) || 600 || -10°/+50° || ±120°
 |-
-| || ___ (___) || ___ || __° || __°
+| Pintle (commander) || 1,800 (200) || 600 || -10°/+50° || ±120°
 |-
-| || ___ (___) || ___ || __° || __°
+| Coaxial || 6,000 (200) || 600 || N/A || N/A
 |-
 |}
 

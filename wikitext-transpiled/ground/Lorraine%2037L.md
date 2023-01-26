@@ -67,35 +67,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French tank destroyer {{Battle
 ==== Ammunition ====
 The armour-piercing capped round Mle 1936 has a high penetration power for the battle rating but lacks the post-penetration damage with the absence of an explosive filler. The lack of base tracer also makes it difficult to correct your targeting at long distance as you can't properly visualize the trajectory of your shell.
 
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Mle1936 || APCBC || 105 || 102 || 89 || 75 || 63 || 53
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Mle1936 || APCBC || 855 || 1.73 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-|}
+{{:SA37 (47 mm)/Ammunition|Mle1936}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

@@ -24,14 +24,11 @@ The armour protection of the vehicle is thin and ineffective against any tank ca
 
 {| class="wikitable"
 |-
-! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
+! Armour !! Front (Slope angle) !! Sides !! Rear
 |-
 | Hull || 14.5 mm (20°) Engine compartment <br> 14.5 mm  (30°) Driver Cabin  <br> 8 mm (41°) ''Lower glacis'' || 8 mm (41°) ''Top - Engine'' <br> 8 mm (35°) ''Top - Crew compartment'' <br> 8 mm (19°) ''Bottom - Engine'' <br> 8 mm (34°) ''Bottom - Crew compartment'' <br> 8 mm + 8 mm (34°) ''Storage bins'' <br> 8 mm ''Bottom - Undercarriage'' || 8 mm (31°)  <br> 5.5 mm (42°) ''Lower glacis''
-!
 |-
-| Gun shield || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet''
-!
-!
+| Gun shield || 14.5 mm (40°) + 14.5 mm (15°) ''Gun shield - centre'' <br> 14.5 mm (34°) ''Gun shield - sides'' <br> 14.5 mm (16°) + 14.5 mm (15°) ''Gun mantlet'' || 10 mm
 !
 |-
 |}
@@ -181,7 +178,9 @@ The available ammunition offers a wide range of shells to engage all types of ta
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_sdkfz_251_9 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

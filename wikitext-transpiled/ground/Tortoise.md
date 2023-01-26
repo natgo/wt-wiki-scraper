@@ -77,39 +77,7 @@ Due to the stable gun platform provided by an incredibly heavy chassis, as well 
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | '''Penetration @ 0° Angle of Attack (mm)'''
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Shell Mk.1 || HE || 13 || 13 || 13 || 13 || 13 || 13
-|-
-| Shot Mk.1 || APCBC || 256 || 253 || 241 || 226 || 212 || 199
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Shell Mk.1 || HE || 1,043 || 12.7 || 0.4 || 0.5 || 920 || 79° || 80° || 81°
-|-
-| Shot Mk.1 || APCBC || 929 || 14.5 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-|}
+{{:32pdr OQF (94 mm)/Ammunition|Shot Mk.1, Shell Mk.1}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

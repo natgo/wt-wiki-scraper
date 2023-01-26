@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=os2u_1
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |cockpit=cockpit_os2u_1.jpg
 }}
 

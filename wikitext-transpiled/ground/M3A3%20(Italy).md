@@ -32,7 +32,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian light tank {{Battle-ra
 * Suspension wheels, tracks and bogies are 15 mm thick.
 * Mudguards and rear storage box are 4 mm thick
 
-The frontal armour on the {{Specs|pseudonym}} is pretty tough for a light tank with 25 mm on the front & sides of the hull, and a large, 50 mm thick gun mantlet covering up most of its frontal turret. When angled correctly it can bounce off quite a few shots. However it can still be easily penetrated by average guns on its BR. From the front the 4 crews are sitting pretty close together, thus making it highly possible to get one-shot by shells with explosives like the Soviet 45 mm AP or the German short 75 mm APHE. The transmission and the engine are all quite small and low, and the ammoracks are also small, reducing the chance of being immobile or ammoracked. There is also an empty area under the turret crews and in front of the driving compartment, which will absorb those shells with weak damage.
+The frontal armour on the {{Specs|pseudonym}} is pretty tough for a light tank with 25 mm on the front & sides of the hull, and a large, 50 mm thick gun mantlet covering up most of its frontal turret. When angled correctly it can bounce off quite a few shots. However it can still be easily penetrated by average guns on its BR. From the front the 4 crews are sitting pretty close together, thus making it highly possible to get knocked out by shells with explosive fillers like the Soviet 45 mm AP or the German short 75 mm APHE. The transmission and the engine are all quite small and low, and the ammo racks are also small, reducing the chance of being immobile or ammoracked. There is also an empty area under the turret crews and in front of the driving compartment, which will absorb those shells with weak damage.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -73,39 +73,7 @@ While it lacks the post-penetration damage to disable most enemies in one shot, 
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M74B1 || AP || 79 || 76 || 65 || 54 || 45 || 37
-|-
-| M51B1 || APCBC || 87 || 84 || 73 || 60 || 50 || 41
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M74B1 || AP || 883 || 0.87 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| M51B1 || APCBC || 883 || 0.87 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-|}
+{{:M6 (37 mm)/Ammunition|M74B1, M51B1}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks M3A3 Stuart (China).png|right|thumb|x250px|[[Ammo racks]] of the ␗M3A3 Stuart (identical)]]
@@ -138,7 +106,7 @@ Notes:
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|M1919A4 (7.62 mm)}}
 
-The M3A3 has two [[M1919A4 (7.62 mm)|7.62 mm M1919A4]] machine guns, one being coaxial to the main gun and the other roof-mounted. The two machine guns can quickly incapacitate the exposed crews on some vehicles or do some serious damage to those low-passing planes. The machine gun is only enough to destroy poorly protected vehicles such as AS 42, FlakPz I and GAZ-AAA. The penetration of around 10 mm is not enough to go through the frontal armour of those not-so-weakly-armoured tanks like SU-5-1, Panzerjager 1 or 15cm sIG 33 B Sfl. If you are skilled the two machine gun can effectively damage low-flying biplanes.
+The M3A3 has two [[M1919A4 (7.62 mm)|7.62 mm M1919A4]] machine guns, one being coaxial to the main gun and the other roof-mounted. The two machine guns can quickly incapacitate the exposed crews on some vehicles or do some serious damage to low-passing planes. The machine gun is only enough to destroy poorly protected vehicles such as the AS 42, the FlakPz I and GAZ-AAAs. The penetration of around 10 mm is not enough to go through the frontal armour of lightly-armoured vehicles like SU-5-1, Panzerjäger 1 or 15cm sIG 33 B Sfl. They are still a vast improvement over the previous Breda machine guns. 
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -155,7 +123,7 @@ The M3A3 has two [[M1919A4 (7.62 mm)|7.62 mm M1919A4]] machine guns, one being c
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-The M3A3 Stuart is best used as a point-capper and a hit-n-run tank. Its extreme mobility gives the player uncountable ways to play with the enemy. At the start of a battle, it can quickly cap a nearby point first, but note that some wheeled vehicles, like the [[Sd.Kfz.234/2|Sd.Kfz.234]] series in a mixed battle can still outrun the M3A3 on-road, therefore posing a great threat. Or it can get to an ambush position near the point and wait until the prey comes. With its reliable gun, the M3A3 should be able to destroy the first wave of enemies easily and quickly.
+The M3A3 Stuart is best used as a point-capturer and a hit-n-run tank. Its extreme mobility gives the player uncountable ways to play with the enemy. At the start of a battle, it can quickly cap a nearby point first, but note that some wheeled vehicles, like the [[Sd.Kfz.234/2|Sd.Kfz.234]] series in a mixed battle can still outrun the M3A3 on-road, therefore posing a great threat. Or it can get to an ambush position near the point and wait until the prey comes. With its reliable gun, the M3A3 should be able to destroy the first wave of enemies easily and quickly.
 
 In the middle stages of a battle, the M3A3 can utilise its excellent mobility and get to wherever needs help while carefully looking around. If the M3A3 unexpectedly encounter an enemy in its path, don't panic! Circle around the enemy and try to force it to turn, this way it usually cannot aim at the M3A3 accurately, then reduce the M3A3's speed down under 10 km/h and keep moving. Now the M3A3's stabiliser will give the tank a great chance to hit while on the move as it stabilises the gun when the tank is under 10 km/h, making it easier time to put the gun on target while moving compared to the enemy.
 
@@ -163,7 +131,7 @@ The frontal armour of this tank is also quite good at a distance. Find a buildin
 
 '''Enemies worth noting:'''
 
-Specific enemy vehicles that bear mentioning are firstly any Germans with the [[KwK38 (20 mm)|20 mm KwK/FlaK38]] cannon, this gun might be small but can have up to 64 mm of penetration, which is enough to go through the M3A3 almost anywhere. These guns can also fire 10 rounds at 280 rounds/min before having to reload the clip, meaning that they will very easily take out your crew before you have a chance to respond. To counter, the best chance you have is to angle your frontal armour which can make it difficult for the PzGr 40 rounds to penetrate. The Russian [[T-50]] and [[T-126]] are vehicles you will also see commonly, these have fairly thick and angled frontal armour that will prevent you from easily getting through. These tanks can also carry an APHEBC round that will destroy you in one shot with little difficulty, to counter you should use your speed to attempt to get a side shot into either the turret or engine. If the T-50 cannot move you can outrun its turret and finish it without much difficulty.
+Specific enemy vehicles that bear mentioning are firstly any Germans with the 20 mm [[KwK38 (20 mm)|KwK38]] or [[FlaK38 (20 mm)|FlaK38]] cannons, these guns might be small in calibre but can have up to 48 mm of penetration, which is enough to go through the M3A3. Combined with a rate of fore of 280 rounds per minute, and a very short reload time, these guns will very easily take out your crew before you have a chance to respond. To counter these opponents, the best chance you have is to angle your frontal armour which can make it difficult for their PzGr 40 HVAP-T rounds to penetrate. The Russian [[T-50]] and [[T-126]] are vehicles you will also see commonly, these have fairly thick and angled frontal armour that will prevent you from easily getting through. These tanks can also carry an APHEBC round that will destroy you in one shot with little difficulty, to counter you should use your speed to attempt to get a side shot into either the turret or engine. If the T-50 cannot move you can outrun its turret and finish it without much difficulty.
 
 It is likely that the M3A3 will encounter some rough heavies, like the [[Matilda III]] and the [[B1 bis]]. The best tactic against these types of targets is to use the M3A3's fast speed, get within 200 m from them and attack, with shooting at point-blank range being the most effective way. Before conducting an attack, check the M3A3's and the enemy's surroundings to make sure no one will ambush the M3A3. While charging, use the M3A3's quick turns to suddenly change direction to avoid being shot if they are aiming and firing at the M3A3. Once the tank is at the ideal distance, manoeuvre so that the gun is perpendicular to their armour. Do not shoot if the enemy is angling! The small calibre 37 mm gun is very likely to bounce off or not penetrate against sloped armour.
 
@@ -177,7 +145,7 @@ For the B1, either aim for the near-vertical frontal armour plate at the right s
 '''Pros:'''
 
 * Great firepower: the 37 cannon mm has good penetration, excellent rate of fire and a gun depression of -10°, allowing the M3 to adapt to most kinds of rough terrain.
-* Excellent acceleration, top speed and turning ability on all terrains; easily outruns common opponents like the [[Pz.III (Disambiguation)|Pz.III]] and Crusader
+* Excellent acceleration, top speed and turning ability on all terrains; easily outruns common opponents like the [[Panzer III (Family)|Pz.III]] and Crusader
 * Access to a vertical stabiliser which most tanks don't have, giving it an advantage in a sudden encounter
 * Respectable sloped armour that, if angled, might bounce some shells from a distance, such as the 37 mm M6 on other M3 Stuarts
 * Small turret profile makes it harder to get hit
@@ -194,7 +162,7 @@ For the B1, either aim for the near-vertical frontal armour plate at the right s
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
-After World War II, Italy joined NATO. As part of the military aid program, the United States supplied Italy with a diverse set of vehicles, including the M3A3 Stuart, which was designated Carro Leggero M3A3 in Italian service. The Military Aid program which the Stuart would first appear in would be in the year of 1948, allied countries such as America proceeded to distribute several different types of surplus armoured fighting vehicles for Italy. Delivery of the inital batch of vehicles would continue up until February of 1949, the contents of this package also included various types of Sherman tanks, artillery pieces, trucks and munitions. The first units would enter service in Italy with the Armoured Calvary Squadron, and 2 other armoured battalions made from previous brigades which broke up during the last stages of the second world war. In Italy it was actually very good piece of kit to have access to, it was light, easily transportable and gave infantry and other security roles a vehicle with decent armour protection, at least when compared to what previously was being fielded. Some in Italy would be modified to fit the reconnaissance role, which would remove the inital turret and replace it with a mount for a 50 caliber machine gun. The standard variant would have a crew of 4, whilst the reconnaissance variant only needed a crew of 2. During its service, it didn't face any combat, but would recieve a potential upgrade program which replaced the american cannon with an Italian made one. This was likely to see if there was room for conversion to allow the tank to remain in service longer. Overall the M3A3's in Italian service would be operational up until the year of 1957, where the last units would officially be replaced by more modern vehicle more adapted for the Italian needs.
+After World War II, Italy joined NATO. As part of the military aid program, the United States supplied Italy with a diverse set of vehicles, including the M3A3 Stuart, which was designated Carro Leggero M3A3 in Italian service. The Military Aid program which the Stuart would first appear in would be in the year of 1948, allied countries such as America proceeded to distribute several different types of surplus armoured fighting vehicles for Italy. Delivery of the inital batch of vehicles would continue up until February of 1949, the contents of this package also included various types of Sherman tanks, artillery pieces, trucks and munitions. The first units would enter service in Italy with the Armoured Calvary Squadron, and 2 other armoured battalions made from previous brigades which broke up during the last stages of the second world war. In Italy it was actually very good piece of kit to have access to, it was light, easily transportable and gave infantry and other security roles a vehicle with decent armour protection, at least when compared to what previously was being fielded. Some in Italy would be modified to fit the reconnaissance role, which would remove the inital turret and replace it with a mount for a 50 caliber machine gun. The standard variant would have a crew of 4, whilst the reconnaissance variant only needed a crew of 2. During its service, it didn't face any combat, but would recieve a potential upgrade program which replaced the american cannon with an Italian made one. This was likely to see if there was room for conversion to allow the tank to remain in service longer. Overall the M3A3's in Italian service would be operational up until the year of 1957, where the last units would officially be replaced by more modern vehicles better adapted for Italian needs.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

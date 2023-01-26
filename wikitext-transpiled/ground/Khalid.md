@@ -78,54 +78,8 @@ To conclude, Khalid has rather obsolete firepower for its tier; but aiming caref
 
 '''L31A7; HESH'''- The other common round for British 120 mm up to this date, the shell itself has rather high penetration for a HESH shell and will very likely disintegrate any light vehicle that happen to run into Khalid. Alternatively, this also gives Khalid the chance to take down tanks with their hatches exposed as the shell "sticks" to the surface and cause extensive damage to the interior of enemy tanks, either from spalling or overpressure.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Shot L15A3 || APDS || 320 || 315 || 305 || 294 || 280 || 270
-|-
-| Shell L31A7 || HESH || 152 || 152 || 152 || 152 || 152 || 152
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Shot L15A3 || APDS || 1,372 || 7.48 || N/A || N/A || N/A || 75° || 78° || 80°
-|-
-| Shell L31A7 || HESH || 670 || 17.34 || 0.1 || 4 || 6,530 || 73° || 77° || 80°
-|-
-|}
+{{:Ordnance BL Tk. L11 (120 mm)/Ammunition|Shot L15A3, L34, Shell L31A7}}
 
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive mass<br>(TNT equivalent) (g)
-|-
-| L34 || 670 || 17.1 || 20 || 5 || 25 || 50
-|-
-|}
 Although smoke grenade launchers equip the Khalid to lay a protective smoke screen, there is still an option for gun-launched smoke shells to block enemy's eyesight and sometimes TVD cameras in case for a retreat or changing position.
 
 ==== [[Ammo racks]] ====
@@ -204,7 +158,9 @@ However, the Islamic Revolution put an end to the project, and the parts from th
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_khalid Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

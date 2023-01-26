@@ -48,7 +48,7 @@ Pilots familiar with delta-wing fighter designs will be at home in the Mirage 20
 | X || X || X || ✓ || X || ✓*     <!-- ✓ -->
 |-
 |}
-<nowiki>*</nowiki>Installing countermeasures block the deployment of the chute.
+<nowiki>*</nowiki>Installing countermeasures blocks the deployment of the chute.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-

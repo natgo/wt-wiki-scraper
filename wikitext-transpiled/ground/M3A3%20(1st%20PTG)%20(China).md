@@ -79,47 +79,15 @@ Like its tech tree counterpart, it was powered by a Cadillac Series 42 air-coole
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M74B1 || AP || 79 || 76 || 65 || 54 || 45 || 37
-|-
-| M51B1 || APCBC || 87 || 84 || 73 || 60 || 50 || 41
-|-
-|}
-Like its tech-tree counterpart (and its successor, M5A1), they shared the very same ammunition- M74B1 AP and M51 APCBC shells; since this is premium, M51 would be the go-to shell.
+The M3A3 (1st PTG) has access to 2 types of ammunition- M74B1 AP and M51 APCBC shells; since this is premium, M51 would be the go-to shell.
 
 The stock M74B1, while having sufficient penetration at its tier to cause damage to enemies' tanks, due to its nature of AP shells without any ballistic cap, this shell has high possibility to cause ricochet on targets if they have angled, leaving a very embarrassing situation for M3A3.
 
-The second round, M51B1 is APCBC, which has higher penetration while improved its aerodynamic and ballistic characteristics, this will be the go-to shell for M3A3; thanks to its sufficient penetration, flanking the sides of your enemies is viable and the likelihood of a confirmed penetration is higher.
+The second round, M51B1 is APCBC, which has higher penetration while improved its aerodynamic and ballistic characteristics, this will be the go-to shell for the M3A3 (1st PTG). Thanks to its sufficient penetration, targeting the sides of enemies you flanked is viable and the likelihood of a confirmed penetration is higher.
 
 But do keep in mind that both shells are non-filler shots, meaning no explosive filler is present; thus it is demanded to hit enemies' ammunition or gunner at all cost which gives higher possibility for a confirmed kill or assist kills.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M74B1 || AP || 883 || 0.87 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| M51B1 || APCBC || 883 || 0.87 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-|}
+{{:M6 (37 mm)/Ammunition|M74B1, M51B1}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_M3A3_Stuart_(China).png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

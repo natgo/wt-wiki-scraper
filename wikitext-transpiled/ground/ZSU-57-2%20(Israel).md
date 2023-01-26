@@ -94,42 +94,7 @@ The BR-281U belt does not offer any extra penetration and thus should not be use
 * '''OR-281U:''' {{Annotation|HE*|High-explosive fragmentation (self-destroying)}}
 * '''BR-281U:''' {{Annotation|APCBC|Armour-piercing capped ballistic capped}}{{-}}{{Annotation|HE*|High-explosive fragmentation (self-destroying)}}
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 151 || 147 || 132 || 114 || 100 || 87
-|-
-| BR-281 || 151 || 147 || 132 || 114 || 100 || 87
-|-
-| OR-281U || 5 || 5 || 5 || 5 || 5 || 5
-|-
-| BR-281U || 151 || 147 || 132 || 114 || 100 || 87
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Belt details
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| BR-281 || APCBC || 1,000 || 2.8 || 1.2 || 9 || 20.02 || 48° || 63° || 71°
-|-
-| OR-281U || HE* || 1,000 || 2.8 || 0 || 0.1 || 235.62 || 79° || 80° || 81°
-|-
-|}
+{{:S-68 (57 mm)/Ammunition|APCBC, HE*}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
@@ -186,7 +151,9 @@ After being captured by Israel from Egypt and Syria during the 1967 war, they we
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=il_zsu_57_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

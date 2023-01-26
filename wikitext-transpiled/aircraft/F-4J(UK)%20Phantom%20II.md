@@ -85,7 +85,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British jet fight
 ! colspan="2" | Engine name || Number
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
 |-
-| colspan="2" | _____ || _
+| colspan="2" | J-79-GE-10 || 2
 | colspan="2" | _,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
@@ -94,19 +94,19 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British jet fight
 ! Weight (each) || colspan="2" | Type
 ! _m fuel || __m fuel || __m fuel
 |-
-| ___ kg || colspan="2" | ___
+| 1,750 kg || colspan="2" | Afterburning axial-flow turbojet
 | _,___ kg || _,___ kg || _,___ kg || _,___ kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
 ! colspan="4" | Thrust to weight ratio @ 0 m (___%/WEP)
 |-
-! Condition || 100% || ___%/WEP
+! Condition || 100% || WEP
 ! _m fuel || __m fuel || __m fuel || MGW
 |-
-| ''Stationary'' || ___ kgf || ___ kgf
+| ''Stationary'' || 5,240 kgf || 8,090 kgf
 | _.__ || _.__ || _.__ || _.__
 |-
-| ''Optimal'' || ___ kgf<br>(_ km/h) || ___ kgf<br>(_ km/h)
+| ''Optimal'' || 5,240 kgf<br>(0 km/h) || 10,340 kgf<br>(1,400 km/h)
 | _.__ || _.__ || _.__ || _.__
 |-
 |}
@@ -195,17 +195,21 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-The F4J (UK) is a great aircraft but will feel out of place to new players. The main attraction to any Phantom is its missiles, however the Skyflash missiles do not complement the F4J(UK)'s gameplay. Being essentially an improved [[AIM-7E-2 Sparrow]], the Skyflash does not have the long range performance of the [[AIM-7F Sparrow]] or [[AIM-7M Sparrow]]. Not to mention you cannot roll out of the way of these high performance SARH missiles, forcing you to dump your lock and go 90° to attempt to force the missiles to overlead the other direction. In terms of raw G performance however, the Skyflash will absolutely pull all 25 Gs to hit a target (especially at short range) if you can maintain a radar lock.
+The F-4J (UK) is a great aircraft but will feel out of place to new players. The main attraction to any Phantom is its missiles, however [[Skyflash]] missiles do not complement the F-4J(UK)'s gameplay. Being essentially an improved [[AIM-7E-2 Sparrow]], the Skyflash does not have the long range performance of the [[AIM-7F Sparrow]] nor [[AIM-7M Sparrow]] (Skyflash with a 50 km launch range compared to AIM-7F's 100 km launch range). Not to mention you cannot roll out of the way of these high performance SARH missiles, forcing you to dump your lock and go 90° to attempt to force the missiles to overlead the other direction. In terms of raw G performance however, the Skyflash will absolutely pull all 25 Gs to hit a target (especially at short range) if you can maintain a radar lock. As a dogfight missile, the Skyflash starts pulling "off the rail", and will start pulling as soon as it clears the plane. Don't be afraid to fire at a non maneuvering target just within 2 kilometers (in a direct head on engagement).
 
-As with all F-4s, sharp turns will quickly deplete your energy and speed. The F4J(UK) is a heavy plane and will take an unacceptable (in terms of dodging missiles) amount of time to regain its speed in order to dodge another. Limit your time in open air and on the enemy's radar scopes if at all possible. Stay behind a teammate or behind the pack in general.
+As with all F-4s, sharp turns will quickly deplete your energy and speed. Made worse by the lack of a maneuvering speed, the F-4J(UK) will lose speed in nearly every turn at any speed. The F-4J(UK) is a heavy plane and will take an unacceptable (in terms of dodging missiles) amount of time to regain its speed in order to dodge another. Limit your time in open air and on the enemy's radar scopes if at all possible. Stay behind a teammate or behind the pack in general.
 
-The [[AN/APG-59]] radar on the F4J(UK) is a very average pulse-Doppler radar. Although you can theoretically get a radar lock on a target that is moving away from you at less that 540 km/h, the SARH missiles will have a difficult time getting a lock even if the radar is locked. Other than that the PD mode performs as you would expect, being especially potent in a head-on engagement.
+The [[AIM-9G Sidewinder]] is a good missile, but its relatively low G overload becomes a serious issue in dogfights. The AIM-9G will take a second to begin tracking and takes even longer to start pulling. A 3-4 km launch with a positive closure rate will usually be your best shot of hitting the target. The 18 G maximum overload is insufficient for anymore than a flat tail chase and the overload is only enough to allow the missile to maintain lock while leading a target. The AIM-9G will nearly always go for flares as there is nearly no flare resistance. Having a long burn time, the AIM-9G does have an exceptional range for an IR missile. The trade off is that it will burn nearly all the way to the target and have an exceptionally long boost/sustain phase, making the missile very easy to detect. Overall the AIM-9G is not a dogfight missile and will not fill in all the gaps left by the Skyflash. 
 
-If you are using this plane to grind out the UK tech tree, always bring at least 8 x 1,000 lb bombs. You will lose turn performance, however, your playstyle shouldn't change too much. the F4J(UK) already is not competitive with other planes at this BR (in terms of turning performance) so when entering the merge, try and pick out a target you know has poor/no decent radar missiles. Other than that just take a few seconds to hit a base before turning back to reengage.
+The [[AN/APG-59]] radar on the F-4J(UK) is a very average pulse-Doppler radar. Although you can theoretically get a radar lock on a target that is moving away from you at less that 540 km/h, the SARH missiles will have a difficult time getting a lock even if the radar is locked. Other than that the PD mode performs as you would expect, being especially potent in a head-on engagement.
 
-This combination of radar and missile leaves much to be desired and locks you into a less than optimal playstyle. The usual strategy is to go for head-on attacks to negate your lacklustre manoeuvrability and make the most out of your decent radar and missiles. But keep in mind you are almost always bringing a pistol to a long range sniper range. A competent opponent can easily roll out of the way of your missile and even then still might maintain a radar lock long enough to win the joust. The F4J(UK) doesn't manoeuvre well enough to make a reliable last minute dodge so it is advisable to think ahead two steps when you anticipate a SARH joust. One thing you might want to get used to is pushing your nose down when dodging all aspect IR missiles. As your countermeasure pods fire directly upwards. The F4J(UK) suffers from wing rip problems when pulling negative Gs so you will need to work out a techniques that works for you.
+If you are using this plane to grind out the UK tech tree, always bring at least 8 x 1,000 lb bombs. You will lose turn performance, however, your playstyle shouldn't change too much. the F-4J(UK) already is not competitive with other planes at this BR (in terms of turning performance) so when entering the merge, try and pick out a target you know has poor/no decent radar missiles. Other than that just take a few seconds to hit a base before turning back to reengage. Don't be afraid to Skyflash an enemy who is blocking your path to a base. 
 
-The best way to dodge long-mid range SARH shots and remain in position for the merge is to use hills and terrain features. The Phantom simply lacks the performance to pull multiple 90° turns and still be in a firing position for the merge. This is doubly important with any sort of bombload as you may find yourself struggling to notch within visual range distances (>20 km). If you miss the merge you will find yourself at the centre of a furball, attempting to outmanoeuvre significantly more agile and/or better-performing aircraft with much higher performance. Entering a fight at anything less than Mach 1 leaves you open to getting jumped by dedicated dogfighters without a clear way to escape.
+This combination of radar and missile leaves much to be desired and locks you into a less than optimal playstyle. The usual strategy is to go for head-on attacks to negate your lacklustre manoeuvrability and make the most out of your decent radar and missiles. But keep in mind you are almost always bringing a pistol to a long range sniper range. A competent opponent can easily roll out of the way of your missile and even then still might maintain a radar lock long enough to win the joust. The F-4J(UK) doesn't manoeuvre well enough to make a reliable last minute dodge so it is advisable to think ahead two steps when you anticipate a SARH joust. One thing you might want to get used to is pushing your nose down when dodging all aspect IR missiles. As your countermeasure pods fire directly upwards. The F-4J(UK) suffers from wing rip problems when pulling negative Gs so you will need to work out a techniques that works for you.
+
+The best way to dodge long-mid range SARH shots and remain in position for the merge is to use hills and terrain features. The Phantom simply lacks the performance to pull multiple 90° turns and still be in a firing position for the merge. This is doubly important with any sort of bombload as you may find yourself struggling to notch within visual range distances (>20 km). If you miss the merge you will find yourself at the centre of a furball, attempting to outmanoeuvre significantly more agile and/or better-performing aircraft with much higher performance. Entering a fight at anything less than Mach 1 leaves you open to getting jumped by dedicated dogfighters without a clear way to escape. 
+
+Flying at treetop level will disrupt a radar lock by making the radar believe you are slightly lower than where you are (mistakes the ground below as part of the aircraft). This provides a safety from top-down attacks while still allowing you to maintain course for your own down-up SARH shots into the open sky.  
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -213,15 +217,21 @@ The best way to dodge long-mid range SARH shots and remain in position for the m
 '''Pros:'''
 
 * Effective Skyflash missiles
-* Heavy and effective bomb load
+* Can take 8 missiles without sacrificing bomb load
+* Has access to a pulse doppler radar for "look-down, shoot-down" performance
+* Heavy and effective bomb load for bombing either bases or ground targets
+* Jack of all trades flight performance with no clear weakness 
+** will not lock up at high speed
+*Sturdy airframe: hard to overspeed and hard to rip wings in positive G turns
 
 '''Cons:'''
 
-* Doesn't turn well
-* Skyflash has short range and can be kinetically dodged
-** Skyflash missiles have a tendency to not detonate or lose track at last second
-* Gunpod hampers turning performance
+* Doesn't turn very well, worse so with suspended weaponry like gun pods
+* Skyflash has relatively short range and can be kinetically dodged
+** Skyflash missiles have a tendency to not detonate or lose track at the last second
 * Wings rip easily in negative G manoeuvres
+* Poor nose authority
+* AIM-9Gs are poor dogfight weapons and easy to counter with flares
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -237,7 +247,9 @@ Assigned to 74 Squadron at RAF Wattisham, they stood up in October 1984, 2 month
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f-4jk Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

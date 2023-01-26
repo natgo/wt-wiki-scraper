@@ -1,3 +1,8 @@
+{{About
+| about = medium tank '''{{PAGENAME}}'''
+| usage = other versions
+| link = T-34 (Family)
+}}
 {{Specs-Card
 |code=sw_t_34_1941
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -66,10 +71,10 @@ Of the three armour-piercing shells available, the two most recommended shells t
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 77 || rowspan="2" | -5°/+30° || rowspan="2" | ±180° || rowspan="2" | N/A || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 77 || rowspan="2" | -5°/+30° || rowspan="2" | ±180° || rowspan="2" | N/A || 23.8 || 32.9 || 40.0 || 44.2 || 47.1 || rowspan="2" | 8.97 || rowspan="2" | 7.94 || rowspan="2" | 7.31 || rowspan="2" | 6.90
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 14.9 || 17.5 || 21.2 || 23.5 || 25.0
 |-
 |}
 
@@ -135,8 +140,8 @@ Of the three armour-piercing shells available, the two most recommended shells t
 |}
 
 ==== [[Ammo racks]] ====
-<!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
-<!-- '''Last updated:''' -->
+[[File:Ammoracks_T-34_(1941).png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.23.0.67''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -148,19 +153,21 @@ Of the three armour-piercing shells available, the two most recommended shells t
 ! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''77''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''77''' || 75&nbsp;''(+2)'' || 69&nbsp;''(+8)'' || 53&nbsp;''(+24)'' || 37&nbsp;''(+40)'' || 19&nbsp;''(+58)'' || 1&nbsp;''(+76)'' || No
 |-
 |}
+'''Notes:'''
 
-* To go into battle with the flanks empty of shells, pack 69 ''(+8) shells'' (racks 1 & 2 depleted).
-* As they are modeled by sets of 2, shells disappear from the rack only after you fire both shells in the set.
+* Shells are modelled as sets of two and disappear when the last shell in the set is loaded.
+* Rack 2 is considered a single ammo rack for ease of understanding, due to it being 3 sets of shells shared between the two visible ammo racks.
+* Carrying 69 (+8) shells will keep the sides of the hull clear of ammo.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|DT (7.62 mm)}}
 
-''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.''
+A standard coaxial machine gun. The only major difference the DT has compared to other nation's machine gun armament is the magazine-fed system. While this means the firing time between reloading is shorter, reload time is also shorter to get the weapon back into action.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -168,10 +175,9 @@ Of the three armour-piercing shells available, the two most recommended shells t
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Coaxial || 2,898 (63) || 600 || N/A || N/A
 |-
 |}
-A standard coaxial machine gun. The only major difference the DT has compared to other nation's machine gun armament is the magazine-fed system. While this means the firing time between reloading is shorter, reload time is also shorter to get the weapon back into action.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -190,7 +196,7 @@ Open fields are not the optimal combat situation for the T-34 1941 with its crew
 
 * [[M4]], [[M4A2]] - The T-34's 76 mm gun cannot penetrate the welded hull M4/M4A2 reliably from the front, while the 75 mm gun on the M4/M4A2 can penetrate the T-34's turret and disable or cripple it. They do have very weak lower side hull armour (only 38 mm) that can be overmatched by the 76 mm APHEBC round if exposed, and the flat areas on the turret can also be penetrated fairly reliably if they can be hit. Generally avoid head-on engagements, especially if the M4 is hull-down.
 * [[M4A1]], [[Sherman II]] - Similar to the M4/M4A2, except that the cast hull is weaker than the welded hull on the M4/M4A2, and can be penetrated frontally. Otherwise, the same advice applies.
-* [[Pz.IV F2]], [[Pz.IV G|G]], [[Pz.IV H|H]], [[Pz.IV J|J]] - The Ausf. F2 variant is the first Panzer IV to mount a long-barreled 75 mm gun. This gun is one of the most lethal mounted on any tank within the T-34's BR range, and it is easily capable of penetrating the T-34 at most ranges. The Ausf. F2 has very weak armour, however, and is something of a glass cannon. The Ausf. G, H, and J have up-armoured hulls that are quite difficult to penetrate, but their turrets are as weak as the one on the F2. The Ausf. J, in particular, has manual turret traverse and is very vulnerable to being flanked. Avoid long-range duels with them.
+* [[Pz.IV F2]], [[Pz.IV G|G]], [[Pz.IV H|H]], [[Pz.IV J|J]] - The Ausf. F2 variant is the first Panzer IV to mount a long-barrelled 75 mm gun. This gun is one of the most lethal mounted on any tank within the T-34's BR range, and it is easily capable of penetrating the T-34 at most ranges. The Ausf. F2 has very weak armour, however, and is something of a glass cannon. The Ausf. G, H, and J have up-armoured hulls that are quite difficult to penetrate, but their turrets are as weak as the one on the F2. The Ausf. J, in particular, has manual turret traverse and is very vulnerable to being flanked. Avoid long-range duels with them.
 * [[Chi-Nu II]] - Essentially the Japanese counterpart to the German Panzer IV Ausf. F2.
 * [[Churchill III]], [[Pz.Kpfw. Churchill (Germany)]] - The 6-pounder gun on the Churchill will be hard-pressed to penetrate the sloped T-34 hull, but it can easily penetrate the turret and disable the turret crew. It is difficult to penetrate the frontal armour of the Churchill at long ranges. However, it is a slow, cumbersome heavy tank, and is easy to outflank and dispatch with shots to the side armour.
 
@@ -202,7 +208,7 @@ Open fields are not the optimal combat situation for the T-34 1941 with its crew
 * Sloped 40-45 mm hull armour is effective at deflecting small/medium calibre shells
 * Wide tracks and powerful engine brings great mobility, can keep up with light vehicles like [[M24 (Family)|M24]]
 * 76 mm cannon's great damage can one-shot most common foes like [[M4]], [[T-34 (Family)|T-34]]
-* Relatively fast turret traverse allows it to deal with multiple targets or flanker confidentally
+* Relatively fast turret traverse allows it to deal with multiple targets or flankers confidently
 * Small profile, harder to get spotted & shot at
 * Large fuel tanks next to the engine can protect it by absorbing some shells
 
@@ -210,7 +216,7 @@ Open fields are not the optimal combat situation for the T-34 1941 with its crew
 
 * -7 km/h reverse is slow, can put the player in a fatal situation
 * -5° gun depression doesn't allow it to perform well in mountainous terrain
-* Lacklusture penetration (99 mm max) makes well-armoured targets ([[KV-1 (Family)|KV-1]], [[Churchill I]], [[T14]], etc) hard to kill
+* Lacklustre penetration (99 mm max) makes well-armoured targets ([[KV-1 (Family)|KV-1]], [[Churchill I]], [[T14]], etc) hard to kill
 * Cramped crew locations, very easy to get one-shot by tanks using shells with explosive filler (eg. [[M24]], [[T-34 (Family)|T-34]])
 * Max 3.5x gunsight zoom makes distant engagement challenging
 
@@ -220,7 +226,9 @@ Open fields are not the optimal combat situation for the T-34 1941 with its crew
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=sw_t_34_1941 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

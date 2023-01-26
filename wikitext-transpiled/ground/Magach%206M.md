@@ -70,7 +70,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 |}
 
 ==== Ammunition ====
-{{:Sharir (105 mm)/Ammunition|M152|M156|M111|M416}}
+{{:Sharir (105 mm)/Ammunition|M152, M156, M111, M416}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Magach_3_(ERA)_(USA).png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -107,7 +107,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 |-
 | Coaxial || 6,000 (200) || 600 || N/A || N/A
 |-
-| Loader's hatch || 2,000 (200) || 600 || -__°/+__° || ±__°
+| Loader's hatch || 2,000 (200) || 600 || -5°/+50° || -60°/+120°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -116,7 +116,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Commander's hatch || 2,000 (250) || 500 || -__°/+__° || ±__°
+| Commander's hatch || 2,000 (250) || 500 || -120°/+60°
 |-
 |}
 

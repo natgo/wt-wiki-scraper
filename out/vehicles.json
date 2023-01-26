@@ -1172,6 +1172,7 @@
       "marketplace": "id50145_e_b_r__1963_france"
     },
     { "intname": "fr_somua_sm", "wikiname": "Somua SM", "store": "9313" },
+    { "intname": "fr_amx_50_1950" },
     {
       "intname": "fr_amx_50_surblinde",
       "wikiname": "AMX-50 Surblinde",
@@ -2452,6 +2453,7 @@
     },
     { "intname": "ro_57_quadriarma", "wikiname": "Ro.57 Quadriarma" },
     { "intname": "mc-202_d", "wikiname": "C. 202D" },
+    { "intname": "bf-109f-4_hungary" },
     { "intname": "d_371", "wikiname": "D.371" },
     { "intname": "d_373", "wikiname": "D.373" },
     { "intname": "caudron_cr714", "wikiname": "C.R.714" },

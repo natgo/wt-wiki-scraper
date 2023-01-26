@@ -49,7 +49,7 @@ But being tall is also an unfavourable trait for survivability since on plain ma
 * The gun mantlet is the thickest frontal armour (30 mm)
 
 === Mobility ===
-{{Specs-Tank-Mobility}}	
+{{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 The SARC can navigate its way through most environments speedily and get into an optimal position. However, it is worth noting that due to its tall profile, high centre of gravity and its 8-wheeled configuration that is does not turn as sharply or cleanly as the Daimler and is slower owing to its additional weight.
 
@@ -89,47 +89,7 @@ Being a light vehicle with a tall profile, the centre of gravity on the {{PAGENA
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Shot Mk.1 AP/T || AP || 72 || 68 || 52 || 37 || 27 || 19
-|-
-| Shot Mk.IXB APCBC/T || APCBC || 89 || 86 || 77 || 66 || 57 || 50
-|-
-| Shot Mk.1 APHV/T || AP || 80 || 75 || 58 || 41 || 30 || 21
-|-
-| Shell Mk.1 AP/T || APHE || 66 || 62 || 49 || 36 || 26 || 20
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Shot Mk.1 AP/T || AP || 792 || 1.08 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| Shot Mk.IXB APCBC/T || APCBC || 792 || 1.24 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| Shot Mk.1 APHV/T || AP || 853 || 1.08 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| Shell Mk.1 AP/T || APHE || 792 || 1.08 || 1.2 || 9 || 20.9 || 47° || 60° || 65°
-|-
-|}
+{{:QF 2-pounder (40 mm)/Ammunition|Shot Mk.1 AP/T, Shot Mk.IXB APCBC/T, Shot Mk.1 APHV/T, Shell Mk.1 AP/T}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -178,9 +138,9 @@ Being a light vehicle with a tall profile, the centre of gravity on the {{PAGENA
 |-
 |}
 
-== Usage in battles ==	
+== Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The SARC MkVI (2pdr) represents a blend of advantages and challenges that can be approached by the player in mostly any way they see fit. While highly mobile, a tall profile and thin armour present significant factors that must be considered if this vehicle is to be played to any success. 
+The SARC MkVI (2pdr) represents a blend of advantages and challenges that can be approached by the player in mostly any way they see fit. While highly mobile, a tall profile and thin armour present significant factors that must be considered if this vehicle is to be played to any success.
 
 It is possible to flank with the SARC very readily if the terrain is advantageous to the top speed of the vehicle where it can position itself ahead of the team, spot enemies and provide harassing if not outright disabling fire with its 2pdr gun. However, it is worth noting that at its BR the 2pdr begins to show its age and the ability to flank with the SARC will be crucial in making sure it can remain effective with side-shots and exposing weaknesses in enemy armour. Once again, the explosive-filled Mk. 1 AP/T is highly recommended to make the most of any penetrating shots with its explosive filler.
 

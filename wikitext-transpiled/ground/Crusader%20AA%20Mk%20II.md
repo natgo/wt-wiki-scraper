@@ -79,42 +79,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British self-propelled anti-ai
 * '''HET:''' {{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}} - This is the belt you want to research first, since they are the best against aircraft.
 * '''APT:''' {{Annotation|AP-T|Armour-piercing tracer}} - These are purely AP-T belts. They are not always useful with only 42 mm of penetration, but it is always a good idea to carry a round of them for self-defence; it can knockout lightly armoured vehicles.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 42 || 40 || 30 || 21 || 15 || 11
-|-
-| HET || 2 || 2 || 2 || 2 || 2 || 2
-|-
-| APT || 42 || 40 || 30 || 21 || 15 || 11
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 20 mm HEF-I || HEF-I || 838 || 0.12 || 0 || 0.1 || 6 || N/A || N/A || N/A
-|-
-| 20 mm AP-T || AP-T || 830 || 0.14 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| 20 mm HEFI-T || HEFI-T || 838 || 0.12 || 0 || 0.1 || 5 || 79° || 80° || 81°
-|-
-|}
+{{:Oerlikon Mk.II (20 mm)/Ammunition|HEF-I, AP-T, HEFI-T}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_AC_Mk_II_AA.png|right|thumb|x250px|[[Ammo racks]] of the AC Mk II AA (identical to {{PAGENAME}}).]]

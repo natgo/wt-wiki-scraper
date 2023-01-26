@@ -143,6 +143,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 ** 90 x countermeasures
 
 === Suspended armament ===
+[[File:FG.1.jpg|thumb|Phantom FG.1 pushing into the sound barrier while carrying a 1,000 lb bomb payload]]
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
 {{main|Mk.M2 (540 lb)|H.E. M.C. Mk.13 (1,000 lb)|SNEB type 23|GAU-4 (20 mm)}}

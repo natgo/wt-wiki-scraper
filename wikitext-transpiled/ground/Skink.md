@@ -78,42 +78,7 @@ The 20 mm Polsten cannons have a decent rate of fire, as well as a good muzzle v
 * '''HET:''' {{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}
 * '''APT:''' {{Annotation|AP-T|Armour-piercing tracer}}
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 42 || 38 || 26 || 16 || 10 || 6
-|-
-| HET || 2 || 2 || 2 || 2 || 2 || 2
-|-
-| APT || 42 || 38 || 26 || 16 || 10 || 6
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 20 mm AP-T || AP-T || 830 || 0.14 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| 20 mm HEFI-T || HEFI-T || 838 || 0.12 || 0 || 0.1 || 5 || 79° || 80° || 81°
-|-
-| 20 mm HEF-I || HEF-I || 838 || 0.12 || 0 || 0.1 || 6 || N/A || N/A || N/A
-|-
-|}
+{{:Polsten (20 mm)/Ammunition|HEF-I, AP-T, HEFI-T}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

@@ -11,11 +11,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battl
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
+! colspan="2" | Max speed<br>(km/h at 12,000 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -24,7 +23,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battl
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
+| 2,226 || 2,159 || rowspan="2" | {{Specs|ceiling}} || 26.7 || 27.0 || 155.1 || 144.4 || rowspan="2" | 750
 |-
 ! Upgraded
 | ___ || ___ || __._ || __._ || __._ || __._
@@ -38,9 +37,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battl
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| _ || _ || _ || _ || _ || _     <!-- ✓ -->
+| X || X || X || ✓ || X || ✓*     <!-- ✓ -->
 |-
 |}
+<nowiki>*</nowiki>Installing countermeasures blocks the deployment of the chute.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -53,7 +53,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battl
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || ___ || ___ || ___ || ~__ || ~__
+| 1,512<!--{{Specs|destruction|body}}--> || {{Specs|destruction|gear}} || N/A || N/A || N/A || ~13 || ~7
 |-
 |}
 
@@ -63,7 +63,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battl
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || N/A
+| < 910 || < 770 || < 650 || N/A
 |-
 |}
 
@@ -76,7 +76,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battl
 ! colspan="2" | Engine name || Number
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
 |-
-| colspan="2" | _____ || _
+| colspan="2" | SNECMA M53-P2 || 1
 | colspan="2" | _,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
@@ -85,7 +85,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battl
 ! Weight (each) || colspan="2" | Type
 ! _m fuel || __m fuel || __m fuel
 |-
-| ___ kg || colspan="2" | ___
+| 1,450 kg || colspan="2" | Afterburning Turbojet
 | _,___ kg || _,___ kg || _,___ kg || _,___ kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
@@ -222,7 +222,12 @@ The 2000D was involved with many different conflicts, primarily in Africa and th
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=mirage_2000d_r1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+;Videos
+{{Youtube-gallery|UtpM_1j4G0c|'''The Shooting Range #338''' - ''Metal Beasts'' section at 00:25 discusses the {{PAGENAME}}.}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

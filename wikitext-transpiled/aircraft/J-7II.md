@@ -256,10 +256,13 @@ File:J-7 mkII WTWallpaper 006.jpg
 {{Youtube-gallery|30XMgpkhDio|'''Chengdu J7 - Superior To The MiG-21 - A Guide''' - ''WhooptieDo''}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;Related development
+* [[J-7D]] - Upgraded version based on reverse engineered MiG-21MF (J-7C)
+* [[J-7E]] - Double-delta wing version with more advanced avionics
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

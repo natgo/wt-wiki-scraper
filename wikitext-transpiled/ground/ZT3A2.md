@@ -100,40 +100,7 @@ Both missiles are easier to aim by using sniper scope, even in arcade mode and a
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| ZT3A1 || ATGM || 650 || 650 || 650 || 650 || 650 || 650
-|-
-| ZT3A2 || ATGM (tandem) || 1,000 || 1,000 || 1,000 || 1,000 || 1,000 || 1,000
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="11" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| ZT3A1 || ATGM || 240 || 4,000 || 26 || 0 || 0.01 || 3,580 || 80° || 82° || 90°
-|-
-| ZT3A2 || ATGM (tandem) || 220 || 5,000 || 28.5 || 0.4 || 0.01 || 3,580 || 80° || 82° || 90°
-|-
-|}
+{{:ZT3/Ammunition|ZT3A1, ZT3A2}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->

@@ -72,39 +72,7 @@ The SIDAM 25 (Mistral) is armed with 4 x 25 mm cannons, with the main purpose of
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M792 || HEI-T* || 3 || 3 || 3 || 3 || 3 || 3
-|-
-| M791 || APDS || 81 || 80 || 76 || 70 || 66 || 61
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M792 || HEI-T* || 1,100 || 0.5 || 0 || 0.1 || 54.4 || 79° || 80° || 81°
-|-
-| M791 || APDS || 1,345 || 0.13 || N/A || N/A || N/A || 75° || 78° || 80°
-|-
-|}
+{{:Oerlikon KBA (25 mm)/Ammunition|M792, M791}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -137,24 +105,7 @@ The SIDAM also possesses 6 surface-to-air (SAM) launchers, for its Mistral missi
 |}
 
 ==== Ammunition ====
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="11" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Mistral SATCP || AAM || 1,000 || 4,000 (all-aspect) || 18.7 || 1 || 0.1 || 1,780 || 79° || 80° || 81°
-|-
-|}
+{{:Mistral SATCP/Ammunition|Mistral SATCP}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

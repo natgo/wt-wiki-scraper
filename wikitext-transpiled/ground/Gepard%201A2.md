@@ -197,7 +197,7 @@ The FIM-92E detonates on impact while the FIM-92K has a proximity fuse.
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 The Gepard performs best when stalking enemy aircraft, scanning the sky for a target and waiting until it gets in range of the radar, and only attacking when the radar can provide a lead estimation, thus preserving ammunition which is critical since the cannons will expend it quickly in combat situations. Helicopters will more than often chose to keep a reasonable distance, usually outside your radar's range but this can be countered by using the API-T rounds in short burst until the range of the enemy has been correctly guesssed, it only takes a few rounds to destroy an enemy aircraft.
 
-Engaging ground vehicles comes with the risk of being destroyed without doing any significant damage so weigh this option carefully, unsuspecting light tanks are fair game but most tanks will pose a threat even when attacking their side without the appropriate ammunition belts. The Gepard 1A2 shouldn't get into any firefight with vehicles  that aren't lightly-armoured since the MBT's protection is increased at this BR compared to the Gepard's BR.
+Engaging ground vehicles comes with the risk of being destroyed without doing any significant damage so weigh this option carefully, unsuspecting light tanks are fair game but most tanks will pose a threat even when attacking their side without the appropriate ammunition belts. The Gepard 1A2 shouldn't get into any firefight with vehicles that aren't lightly-armoured since the MBT's protection is increased at this BR compared to the Gepard's BR.
 
 Capturing points is also an option thanks to the good mobility of the vehicle, although you will have to make sure the capture point is clear and there is no risk of being attacked by an enemy tank.
 
@@ -223,7 +223,9 @@ Capturing points is also an option thanks to the good mobility of the vehicle, a
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_flakpz_1a2_Gepard Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

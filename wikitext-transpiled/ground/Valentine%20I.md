@@ -87,47 +87,7 @@ The player should be familiar with the ammunition choices, with the most used on
 * '''Shot Mk.IXB APCBC/T; APCBC''': this APCBC shell with 89 mm maximum penetration will be more useful, though it loses the ability to hurt/knock out crew that are not in its path. This prepares you for the classic British playstyle though, which is about knocking out crew one by one with high precision and penetration, rather than knocking out everyone with a single shot. 
 * '''Shot Mk.1 AP/T; AP''' and Shot '''Mk.1 APHV/T; AP''': the 2 remaining shells are not very useful as they don't offer anything better. Not recommended to bring any once you gain access to the previous 2 shells. 
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Shot Mk.1 AP/T || AP || 72 || 68 || 52 || 37 || 27 || 19
-|-
-| Shot Mk.IXB APCBC/T || APCBC || 89 || 86 || 77 || 66 || 57 || 50
-|-
-| Shot Mk.1 APHV/T || AP || 80 || 75 || 58 || 41 || 30 || 21
-|-
-| Shell Mk.1 AP/T || APHE || 66 || 62 || 49 || 36 || 26 || 20
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Shot Mk.1 AP/T || AP || 792 || 1.08 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| Shot Mk.IXB APCBC/T || APCBC || 792 || 1.24 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| Shot Mk.1 APHV/T || AP || 853 || 1.08 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| Shell Mk.1 AP/T || APHE || 792 || 1.08 || 1.2 || 9 || 20.9 || 47° || 60° || 65°
-|-
-|}
+{{:QF 2-pounder (40 mm)/Ammunition|Shot Mk.1 AP/T, Shot Mk.IXB APCBC/T, Shot Mk.1 APHV/T, Shell Mk.1 AP/T}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_ValentineMkI.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

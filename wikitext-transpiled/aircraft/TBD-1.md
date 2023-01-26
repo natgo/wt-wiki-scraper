@@ -163,7 +163,7 @@ It is important to note that the TBD suffers from extremely fragile flaps and ge
 
 '''Cons:'''
 
-* Prone to wing snapping when pulling 3 Gs flying at mid to high speeds
+* Prone to wing snapping when pulling 3 G flying at mid to high speeds
 * Poor overall armament with limited defensive coverage, with a single 12.7 mm in front and a 7.62 mm in the rear
 * Low sustainable "cruise" speed (200-250 km/h)
 * Very bad energy retention

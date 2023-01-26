@@ -197,6 +197,9 @@ The armour plating installed on tanks of the Ausf.H modification was a temporary
 ;Sights
 * [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
+;Videos
+{{Youtube-gallery|UtpM_1j4G0c|'''The Shooting Range #338''' - ''Pages of History'' section at 04:01 relates the Soviet assessment of the German Pz.III J.}}
+
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''

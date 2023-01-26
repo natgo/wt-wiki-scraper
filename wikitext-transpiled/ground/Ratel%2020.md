@@ -81,26 +81,11 @@ Aside from the alternative weaponry, the pros and cons of the Ratel chassis rema
 |}
 
 ==== Ammunition ====
+* '''Default:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
+* '''M594:''' {{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}
+* '''M601:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
 
-* '''Default:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}
-* '''M594:''' {{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}
-* '''M601:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}
-
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 57 || 52 || 37 || 24 || 15 || 10
-|-
-| M594 || 57 || 52 || 37 || 24 || 15 || 10
-|-
-| M601 || 57 || 52 || 37 || 24 || 15 || 10
-|-
-|}
+{{:GI-2 (20 mm)/Ammunition|HVAP-T, HEFI-T}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -143,36 +128,7 @@ Aside from the alternative weaponry, the pros and cons of the Ratel chassis rema
 |}
 
 ==== Ammunition ====
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| MILAN || ATGM || 530 || 530 || 530 || 530 || 530 || 530
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="11" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| MILAN || ATGM || 200 || 2,000 || 6.7 || 0.05 || 0.1 || 1,830 || 80° || 82° || 90°
-|-
-|}
+{{:MILAN/Ammunition|MILAN}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}_secondary.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

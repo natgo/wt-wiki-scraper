@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=p-51h-5_na
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |cockpit=cockpit_p-51h-5_na.jpg
 }}
 

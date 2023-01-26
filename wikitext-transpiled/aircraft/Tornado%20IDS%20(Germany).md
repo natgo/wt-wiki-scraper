@@ -1,3 +1,8 @@
+{{About
+| about = strike aircraft '''{{PAGENAME}}'''
+| usage = other versions
+| link = Tornado (Family)
+}}
 {{Specs-Card
 |code=tornado_ids_de_mfg
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -186,14 +191,14 @@ It is advisable to bomb enemy bases, since the Tornado is not very good in air c
 
 * Good acceleration and excellent top speed
 * Mauser BK27 guns have decent hitting power and ammunition capacity
-* Impressive bombload and access to AS.34 Kormoran anti-ship missles
-* Access to two AIM-9L Sidewinder air-to-air missles stock
+* Impressive bombload and access to AS.34 Kormoran anti-ship missiles
+* Access to two AIM-9L Sidewinder air-to-air missiles stock
 
 '''Cons:'''
 
-* Bad maneuverability, makes air-to-air combat challenging
+* Bad manoeuvrability, makes air-to-air combat challenging
 * No access to guided bombs
-* AS.34 Kormoran missles are rather unreliable weapon, even against the ships
+* AS.34 Kormoran missiles are rather unreliable weapon, even against the ships
 * Negative G manoeuvres can rip your wings off
 
 == History ==
@@ -224,16 +229,18 @@ The Bundeswehr Navy used the variants IDS, Recce, and ECR.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=tornado_ids_de_mfg Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+;[[Tornado (Family)|Related development]]
+* [[Tornado IDS ASSTA1 (Germany)]]
+* [[Tornado IDS (1995) (Italy)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
@@ -241,6 +248,7 @@ The Bundeswehr Navy used the variants IDS, Recce, and ECR.
 * ''other literature.'' -->
 
 === References ===
+
 ;Bibliography
 
 * MRCA Tornado PA200. https://marine-flieger.de/mrca-tornado-pa200. 

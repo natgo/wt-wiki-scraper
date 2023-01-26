@@ -116,7 +116,10 @@ The '''''{{PAGENAME}}''''' is defended by:
 * 1 x 7.62 mm ShKAS machine gun, dorsal turret (1,000 rpg)
 
 == Usage in battles ==
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+<!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
+The Su-2 TSS-1 is an interesting aircraft compared to its brethren. On one hand, you now have improved speed and agility (not to Chaika levels though, so don't go dogfighting). On the other hand, however, you now have half the machine gun firepower when strafing enemy aircraft or ground units. Additionnally, you still retain the exact same payload as other Su-2 series aircraft, so ground-pounding ordnance isn't affected. Whether or not such a gain and loss of attributes compared to the previous MV-5 model is worth it is up to you.
+
+Of special mention is the TSS turret, the most obvious change compared to the MB-5 turret. The TSS being a scarff ring mount means that it loses the ability to traverse directly to the starboard and port of the aircraft, but you now have increased traverse under the elevators which makes for improved overall defensive coverage of the rear ShKAS machine gun. The gunner is now fully exposed to rear shots, however, so an unfortunate spray of even rifle-calibre bullets can end your sole ability to return fire against pursuers, compared to the MB-5 which requires the rear turret to be destroyed before incoming bullets have a chance to reach the gunner without interference.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -173,6 +176,7 @@ The Red Army Air Force began to use the Su-2 in combat during the second half of
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=su-2_tss1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -180,11 +184,13 @@ The Red Army Air Force began to use the Su-2 in combat during the second half of
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

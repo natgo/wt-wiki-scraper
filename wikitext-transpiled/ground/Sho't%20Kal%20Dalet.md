@@ -81,7 +81,7 @@ The Sharir main gun is based on the [[L7A3 (105 mm)|Royal Ordnance L7 gun]] and 
 |}
 
 ==== Ammunition ====
-{{:Sharir (105 mm)/Ammunition|M152|M156|M111|M416}}
+{{:Sharir (105 mm)/Ammunition|M152, M156, M111, M416}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Sho't_Kal_Dalet_(Great_Britain).png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

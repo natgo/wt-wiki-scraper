@@ -95,7 +95,7 @@ When moving at high speed, the {{PAGENAME}}'s could have enough momentum to turn
 |}
 
 ==== Ammunition ====
-{{:Sharir (105 mm)/Ammunition|M152|M156|M416|M111|M413}}
+{{:Sharir (105 mm)/Ammunition|M152, M156, M416, M111, M413}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

@@ -1,9 +1,7 @@
 {{About
 | about = Italian jet fighter '''{{PAGENAME}}'''
-| and
 | usage = other versions
-| link-1 = Vampire FB 5
-| link-2 = J28B
+| link = Vampire (Family)
 }}
 {{Specs-Card
 |code=vampire_fb52a_italy

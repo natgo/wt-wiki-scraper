@@ -77,57 +77,7 @@ The Challenger bears the 120 mm L11A5, an updated but essentially identical vers
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Shot L23 || APFSDS || 410 || 408 || 405 || 400 || 390 || 380
-|-
-| Shell L31A7 || HESH || 152 || 152 || 152 || 152 || 152 || 152
-|-
-| Shot L23A1 || APFSDS || 396 || 394 || 387 || 376 || 367 || 357
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Shot L23 || APFSDS || 1,535 || 3.89 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-| Shell L31A7 || HESH || 670 || 17.34 || 0.1 || 4 || 6,530 || 73° || 77° || 80°
-|-
-| Shot L23A1 || APFSDS || 1,535 || 3.89 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive mass<br>(TNT equivalent) (g)
-|-
-| L34 || 670 || 17.1 || 20 || 5 || 25 || 50
-|-
-|}
+{{:L11A5 (120 mm)/Ammunition|Shot L23, Shell L31A7, Shot L23A1, L34}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
@@ -195,7 +145,7 @@ The Challenger bears the 120 mm L11A5, an updated but essentially identical vers
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-After the introduction of Challenger in 1983 as the new MBT for the British Army in different units, there were debates on its reliability due to its inferior overall performance in Canadian Army Trophy of 1987. As the Invasion of Kuwait by Iraq in 1990 and the subsequent Operation Sand Storm (Gulf War) began in 1991, the Challengers were given the chance to show their own worth.
+After the introduction of Challenger in 1983 as the new MBT for the British Army in different units, there were debates on its reliability due to its inferior overall performance in Canadian Army Trophy of 1987. As the Invasion of Kuwait by Iraq in 1990 and the subsequent Operation Sand Storm (Gulf War) began in 1991, the Challengers were given the chance to show their own worth.
 
 The British Army deployed the 1st Armoured Division to the Middle East alongside with 3 armoured brigades with Challenger tanks, some even with the latest Mk.3 series with new ERA packages installed in Saudi Arabia by late 1990. After the deadline for complete withdrawn of Iraqi forces passed, the coalition started the assault by 17th January, 1991 where the Challengers destroyed and captured hundreds of Iraqi tanks (ie. [[T-55A]], [[Type 69-IIa]]) while received no loss from enemy fire. Operation Desert Storm was where the Challenger held the world record of the longest tank-to-tank kill done by the callsign of 11B from the Royal Scots Dragoon Guards, achieving a destruction at around 5.1 km away on 26th February, 1991.
 

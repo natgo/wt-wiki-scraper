@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=f4u-1a
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |cockpit=cockpit_f4u-1a.jpg
 }}
 

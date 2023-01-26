@@ -5,7 +5,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]]. It is a copy of the [[Super Mystere B2|Super Mystère B2]] found in the French tree, Israel having purchased them in 1958. It was both the Israeli Air Force's first supersonic fighter and afterburning jet.
 
 == General info ==
 === Flight performance ===
@@ -104,10 +104,14 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-r
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+[[File:Sambad armour layout.PNG|thumb|300px|Armour layout of the Israeli Sambad]]
+The Sambad is protected by several layers of steel and bulletproof glass, both in front and behind the pilot. The front windshield is a 40 mm bulletproof glass pane, angled at 61°, this is enough to stop rifle-calibre rounds and massively reduce the velocity of heavy machine guns such as the [[M3 Browning (12.7 mm)|.50 cal M3 Browning]]. This will provide partial protection in head-on attacks, however pilots should not rely on this to protect the pilot as concentrated fire will overwhelm it. The pilot is also protected by three 14 mm sheets of armour, two behind and one slightly ahead of the windshield. The fuel tanks are all self-sealing, and take the space directly ahead of the engine and most of the wing between the spars.
+{{Clear}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
+
+As the Sambad is an Air Supremacy fighter, performance and air-to-air missiles should be the pilot's top priority. Compressor should be the first modification chosen, as the acceleration for a non-upgraded plane is subpar for the rank. It is also recommended to research the Matra Type 61 modification, as it is needed to gain access to the Shafrir air-to-air missile at tier IV. Next, it is recommended to research New boosters and the Matra Type 116 rocket modification. The Sambad feels slightly sluggish without boosters and compresses at high speed, boosters help to correct that. At tier III, Wings repair and Engine are next recommended; this will decrease the drag of the wings and increase the engine's thrust, greatly helping performance. Once these two modifications are unlocked, pilots can then research the Shafrir missile, allowing its use against faster or unaware aircraft. At this stage the pilot can then research Cover, G-suit, Airframe, and Fuselage repair. This will grant the full performance of the aircraft, and the pilot can then research the other modifications, namely Offensive 30 mm, New 30 mm cannons, and the 100, 250 and 500 kg bomb modifications.
 
 == Armaments ==
 {{Specs-Avia-Armaments}}

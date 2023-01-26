@@ -14,7 +14,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British light tank {{Battle-ra
 
 The low-profile Crusader is amongst the first light tanks on the British tech tree with the ability to perform scouting, which is a much relevant role amidst battles.
 
-Although classified as a light tank, the Crusader is only light because of the low armour. Neither the speed or the gun fit in this light category, since the 57 mm 6-pounder is very efficient and in many regards, better than the previous 40 mm 2-pounder found on the [[Crusader II]]. This translates into decent firepower capable of engaging most tanks by the front. Yet the same early, now underpowered, engine struggles with the new heavier cannon, bringing the total weight from 16 tons in the earlier Crusader Mk II now to over 20 tons. Thus the performance of fast attacks or quick flanking manoeuvres is somewhat impeded by this low-power to weight ratio. 
+Although classified as a light tank, the Crusader is only light because of the low armour. Neither the speed or the gun fit in this light category, since the 57 mm 6-pounder is very efficient and in many regards, better than the previous 40 mm 2-pounder found on the [[Crusader II]]. This translates into decent firepower capable of engaging most tanks by the front. Yet the same early, now underpowered, engine struggles with the new heavier cannon, bringing the total weight from 16 tons in the earlier Crusader Mk II now to over 20 tons. Thus the performance of fast attacks or quick flanking manoeuvres is somewhat impeded by this low-power to weight ratio. 
 
 Despite these shortcomings, the vehicle should be a more uncomplicated and easy to learn playstyle than similar ranked vehicles as the slow advancing [[Valentine IX|Valentine]] or [[Matilda III|Matildas]].
 
@@ -24,7 +24,7 @@ Despite these shortcomings, the vehicle should be a more uncomplicated and easy 
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 Like the previous Crusader II, the Crusader III's armour is just like other common light tanks. The hull front glacis is only 20 mm, which is not enough to stop pretty much any round unless angled at an extreme. The most noticeable difference is the absence of the MG turret next to the driver, which directly exposes the unsloped hull armour behind, reducing its sturdiness. The hull side is ~30 mm, which can deflect some low-penetrating rounds when angling, but generally it is still very weak. The turret front loses the huge rounded gun mantlet of the Crusader II. Although it now looks cleaner and uncluttered, the flat 30 mm armour becomes truly untrustworthy against any vehicle as it simply cannot bounce anything. The turret side is sloped but thin, at 14 mm it will not stop any shell unless the shell happens to hit a heavily angled part. Overall the Crusader III has poor armour protection and can only resist MG bullets and some autocannon shells. Even SPAAs (e.g. [[Wirbelwind]], [[M15 CGMC]], etc) can penetrate it frontally.
 
-The post-penetration survivability is a lot worse than the Crusader II. Because of the lack of MG turret, the MG gunner is also gone, leaving only 3 crew members, 2 of which are closely packed inside the turret. At this BR there will be a lot more vehicles using explosive-packed shells (e.g. [[M24]], [[Pz.IV F2]], [[Chi-Nu]], [[T-34 (1942)|T-34 1942]], etc) and they will easily penetrate the Crusader III and wipe out all the crew. Make use of your smoke grenades when needed to increase your low survivability. 
+The post-penetration survivability is a lot worse than the Crusader II. Because of the lack of MG turret, the MG gunner is also gone, leaving only 3 crew members, 2 of which are closely packed inside the turret. At this BR there will be a lot more vehicles using explosive-packed shells (e.g. [[M24]], [[Pz.IV F2]], [[Chi-Nu]], [[T-34 (1942)|T-34 1942]], etc) and they will easily penetrate the Crusader III and wipe out all the crew. Make use of your smoke grenades when needed to increase your low survivability. 
 
 '''Armour type:'''
 
@@ -67,7 +67,7 @@ The reverse is still bad, at -7 km/h. You must be extra aware about potential en
 {{main|6pdr OQF Mk.III (57 mm)}}
 The Crusader III is upgunned with a more powerful 57 mm QF 6pdr Mk.III cannon. Despite the increased calibre, the cannon still has an impressive short reload time of ~5 seconds. This makes up for its lack of explosive shells and allows the Crusader III to fire more rounds to finish an enemy. The gun depression is -12°, although it is 3° less than the Crusader II it is still excellent, meaning that the Crusader III can peek over most ridges in most maps, giving it more flexible engagement opportunities. A vertical shoulder stabiliser assists your aiming when the tank is slower than ~7 km/h, giving you a significant advantage over the non-stabilised opponents like the [[T-34 (Family)|T-34]], [[Pz.IV F2]], [[Chi-Nu]], etc. 
 
-Do watch out for any [[M4]] and [[M24]] as they have proper vertical stabiliser and can stabilise their guns at slightly higher speeds. The turret rotation is just as fast as the Crusader II, at ~24°/s the Crusader III will be able to respond to fast moving targets as well as engage targets at multiple directions easily. 
+Do watch out for any [[M4]] and [[M24]] as they have proper vertical stabiliser and can stabilise their guns at slightly higher speeds. The turret rotation is just as fast as the Crusader II, at ~24°/s the Crusader III will be able to respond to fast moving targets as well as engage targets at multiple directions easily. 
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -86,57 +86,13 @@ Do watch out for any [[M4]] and [[M24]] as they have proper vertical stabiliser 
 |}
 
 ==== Ammunition ====
-The default Shot Mk.5 ammo is just enough to destroy light and medium tanks within normal combat distance (0-600 m). With a well placed shot lining up crew compartments, the solid ammo can actually result in some one-shots especially when the target tank is compact (e.g. [[M24]], [[T-34 (Family)|T-34]]). 
+The default Shot Mk.5 ammo is just enough to destroy light and medium tanks within normal combat distance (0-600 m). With a well placed shot lining up crew compartments, the solid ammo can actually result in some one-shots especially when the target tank is compact (e.g. [[M24]], [[T-34 (Family)|T-34]]). 
 
-When dealing with heavier armoured targets, the researchable Shot Mk.9 with its maximum 122 mm penetration becomes useful. It can penetrate heavy tanks like a [[KV-1 (L-11)]] when they are not angling. Other targets include the [[Pz.IV H]] and the [[StuG III G]] which have 100 mm flat frontal hull armour. One drawback is that it is the slowest travelling AP shell the Crusader III has (~800 m/s), so more lead is needed when shooting moving targets. 
+When dealing with heavier armoured targets, the researchable Shot Mk.9 with its maximum 122 mm penetration becomes useful. It can penetrate heavy tanks like a [[KV-1 (L-11)]] when they are not angling. Other targets include the [[Pz.IV H]] and the [[StuG III G]] which have 100 mm flat frontal hull armour. One drawback is that it is the slowest travelling AP shell the Crusader III has (~800 m/s), so more lead is needed when shooting moving targets. 
 
-The other 3 unlockable ammo types - Shot Mk.5 HV, Shot Mk.8, and Shell Mk.10 - are not of much use. They do not offer better penetration than the Mk.9 APCBC, and the HE is useless given its small calibre and the fact that most of the times the player will not have time to switch ammo when engaging unarmoured targets like the [[GAZ-MM (72-K)]] and the [[Sd.Kfz. 6/2]]. 
+The other 3 unlockable ammo types - Shot Mk.5 HV, Shot Mk.8, and Shell Mk.10 - are not of much use. They do not offer better penetration than the Mk.9 APCBC, and the HE is useless given its small calibre and the fact that most of the times the player will not have time to switch ammo when engaging unarmoured targets like the [[GAZ-MM (72-K)]] and the [[Sd.Kfz. 6/2]]. 
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Shot Mk.5 || AP || 101 || 97 || 82 || 66 || 53 || 43
-|-
-| Shot Mk.5 HV || AP|| 108 || 104 || 87 || 70 || 57 || 46
-|-
-| Shot Mk.8 || APC || 110 || 106 || 89 || 72 || 59 || 48
-|-
-| Shot Mk.9 || APCBC || 122 || 118 || 101 || 84 || 70 || 58
-|-
-| Shell Mk.10 || HE || 9 || 9 || 9 || 9 || 9 || 9
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Shot Mk.5 || AP || 815 || 2.8 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| Shot Mk.5 HV || AP || 853 || 2.8 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| Shot Mk.8 || APC || 853 || 2.87 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| Shot Mk.9 || APCBC || 801 || 3.23 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| Shell Mk.10 || HE || 655 || 2.72 || 0 || 0.1 || 590 || 79° || 80° || 81°
-|-
-|}
+{{:6pdr OQF Mk.III (57 mm)/Ammunition|Shot Mk.5, Shot Mk.5 HV, Shot Mk.8, Shot Mk.9, Shell Mk.10}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -175,7 +131,7 @@ The other 3 unlockable ammo types - Shot Mk.5 HV, Shot Mk.8, and Shell Mk.10 - a
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|BESA (7.92 mm)}}
 
-The Crusader III loses the MG turret on the hull, leaving one coaxial 7.92 mm BESA MG. This MG is only good at knocking out completely exposed crew on open vehicles like the [[Sd.Kfz. 6/2]] and [[GAZ-AAA (DShK)]] trucks. Its fast rate of fire of 600 rounds/min makes it quite effective at this. It can also destroy map obstacles like wooden fences and barrels, and mark enemies out on the minimap. Apart from these, the BESA MG cannot possibly hurt even lightly-armoured vehicles like the [[BTR-152A]] and [[Marder III]] due to its low penetration. 
+The Crusader III loses the MG turret on the hull, leaving one coaxial 7.92 mm BESA MG. This MG is only good at knocking out completely exposed crew on open vehicles like the [[Sd.Kfz. 6/2]] and [[GAZ-AAA (DShK)]] trucks. Its fast rate of fire of 600 rounds/min makes it quite effective at this. It can also destroy map obstacles like wooden fences and barrels, and mark enemies out on the minimap. Apart from these, the BESA MG cannot possibly hurt even lightly-armoured vehicles like the [[BTR-152A]] and [[Marder III]] due to its low penetration. 
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -197,7 +153,7 @@ The tank's low profile is its main advantage. You can hide easily among vegetati
 
 Of course, you can't have everything. The tank has thin armour, so it isn't suitable as a front line tank unless in a supporting role. The armour is sloped on some areas, so you may bounce some smaller calibre shells. Explosive shells are your worst nightmare, so avoid getting hit by them. The 57 mm gun has great penetration, but the Crusader has very thin armour. There are still plenty of enemies that can give you some trouble.
 
-While the battle is about staying alive in the tank, do not forget about the allies. This Crusader is a great support tank, not just in firepower, but is also capable of scouting and repairing for the team. 
+While the battle is about staying alive in the tank, do not forget about the allies. This Crusader is a great support tank, not just in firepower, but is also capable of scouting and repairing for the team. 
 
 In recap, preferably play as a faster medium tank in a support role amidst the frontline during early module research, additionally players can act as flankers and either eliminate the threats themselves or scout the enemy tanks for allies in SPGs or Strike Aircraft. 
 
@@ -208,7 +164,7 @@ In recap, preferably play as a faster medium tank in a support role amidst the f
 * [[Pz.IV F2]] - You may have to face off against the dreaded Panzer IV F2. Its gun is accurate, high penetration and causes massive damage upon penetration. It will kill you easily at range. Fortunately, it has the same weak flat armour as the F1, so can be easily dealt with if you get off the first shot
 * [[KV-1 (L-11)]] - These heavy tanks are rare at your battle rating, but can still be faced. They have great, bouncy armour and a deadly gun. Try to hit the turret cheeks or the side/rear armour.
 * [[Pz.III L]] - This Panzer III has a great, high-velocity gun and excellent frontal armour. The extra 20 mm high hardness plates make a massive difference to the frontal armour, making it more bouncy and harder to penetrate. Fortunately, your gun can reliably penetrate the Panzer III L. If you are unsure, aim for the drivers port to kill the driver, gunner and commander.
-* [[StuG III G]]: the StuG III tank destroyers have powerful anti-tank guns and low silhouette, making them deadly hunters. The G model features 30 mm add-on armour at the front, plus the option to use 20 mm add-on tracks, increasing the total thickness to 100 mm. Though it is poorly angled, this thickness can still resist quite some shots at this BR especially when taking hits from far away. However its sides are very thin, only 30 mm plus 5 mm side skirts which can be easily penetrated by the Crusader III even when angling. The Crusader can frontally penetrate the StuG III G's non-sloped armour up close (<400 m). Shoot the right side to knock out the gunner and commander in one go. Avoid the sloped parts between the flat parts. Be careful as its 75 mm cannon can easily knock you out in return with a single shot, at any range. 
+* [[StuG III G]]: the StuG III tank destroyers have powerful anti-tank guns and low silhouette, making them deadly hunters. The G model features 30 mm add-on armour at the front, plus the option to use 20 mm add-on tracks, increasing the total thickness to 100 mm. Though it is poorly angled, this thickness can still resist quite some shots at this BR especially when taking hits from far away. However its sides are very thin, only 30 mm plus 5 mm side skirts which can be easily penetrated by the Crusader III even when angling. The Crusader can frontally penetrate the StuG III G's non-sloped armour up close (<400 m). Shoot the right side to knock out the gunner and commander in one go. Avoid the sloped parts between the flat parts. Be careful as its 75 mm cannon can easily knock you out in return with a single shot, at any range. 
 
 Almost every tank can kill you easily, even with Rank I guns. Stay mobile or hidden, take advantage of the tanks low profile and shoot only when you know you can penetrate. This can make you a formidable tank on the battlefield.
 

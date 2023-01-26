@@ -87,43 +87,7 @@ The 3-inch (76 mm) cannon is a wonderful and powerful gun. The APCBC round can p
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M79 shot || AP || 134 || 132 || 121 || 109 || 99 || 89
-|-
-| M42A1 shell || HE || 7 || 7 || 7 || 7 || 7 || 7
-|-
-| M62 shell || APCBC || 149 || 146 || 133 || 119 || 106 || 95
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M79 shot || AP || 792 || 6.8 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| M42A1 shell || HE || 853 || 5.84 || 0 || 0.1 || 390 || 79° || 80° || 81°
-|-
-| M62 shell || APCBC || 792 || 7 || 1.2 || 14 || 63.7 || 48° || 63° || 71°
-|-
-|}
+{{:M7 (76 mm)/Ammunition|M79 shot, M42A1 shell, M62 shell}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_M10_GMC.png|right|thumb|x250px|[[Ammo racks]] of the M10 GMC (identical).]]

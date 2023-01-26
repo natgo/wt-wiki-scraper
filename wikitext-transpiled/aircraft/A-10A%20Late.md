@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=a_10a_late
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.jpg}}
 |cockpit=cockpit_a_10a_late.jpg
 }}
 

@@ -82,39 +82,7 @@ At 47 tons, this is not a light tank, even more so that its tracks have bad grou
 When compared to other tanks at the same battle rating, it has the same characteristics as other medium tanks' gun, the weak points being its lack of explosive filler and the long reload time.
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 75 mm OR Mle.44 || APCBC || 125 || 122 || 108 || 93 || 80 || 69
-|-
-| 75 mm OE Mle.28 || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 75 mm OR Mle.44 || APCBC || 715 || 6.4 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| 75 mm OE Mle.28 || HE || 700 || 6.44 || 0 || 0.1 || 675 || 79° || 80° || 81°
-|-
-|}
+{{:SA44 (75 mm)/Ammunition|75 mm OR Mle.44, 75 mm OE Mle.28}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

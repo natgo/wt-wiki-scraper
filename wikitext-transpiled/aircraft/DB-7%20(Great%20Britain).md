@@ -132,15 +132,17 @@ The '''''{{PAGENAME}}''''' is defended by:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The DB-7 is a very fast aircraft for its rank, it can outrun most aircraft it faces in level flight. The DB-7 has four 7.5 mm light machine guns in the nose that are fixed and controlled by the pilot. Two additional guns are located in turrets facing the rear, one above and one below the fuselage. The upper turret has better coverage than the lower. Although the defensive armament may seem underwhelming, they are more than capable of dealing with planes of a lower BR. They can still be made to work against higher level planes if AP-T or AP belts are used. As always, one should aim for the pursuer's engine.
+The DB-7 is a very fast aircraft for its rank, as it can outrun most aircraft it faces in level flight. The DB-7 has four 7.5 mm light machine guns in the nose that are fixed and controlled by the pilot. Two additional guns are located in turrets facing the rear, one above and one below the fuselage. The upper turret has better coverage than the lower one. Although the defensive armament may seem underwhelming, they are more than capable of dealing with planes of a lower BR. They can still be made to work against higher BR planes if AP-T or AP belts are used. As always, one should aim for the pursuer's engine.
 
-The recommended belt for the offensive weaponry is the Tracers belt (IT). For the defensive weaponry, the AP-T belt (IT/AP) is the best choice
+The recommended belt for the offensive weaponry is the Tracers belt (IT). For the defensive weaponry, the AP-T belt (IT/AP) is the best choice.
 
-The good level speed allows for hit and run tactics, however, some dedicated fighter pilots may choose to hunt you down regardless. In such cases try to run for allied fighters and drag the enemy behind. Alternatively, the superior climb rate in comparison to other bombers allows climbing above one's allies which subsequently act as meat shield i.e. other bombers are easier targets. Although this can turn into a false sense of security. Stay vigilant.
+The good level speed allows for hit and run tactics, however, some dedicated fighter pilots may choose to hunt you down regardless. In such cases try to run for allied fighters and drag the enemy behind. Alternatively, the superior climb rate in comparison to other bombers allows climbing above one's allies which subsequently act as meat shield i.e. other bombers are easier targets. However, this can turn into a false sense of security. Stay vigilant.
 
-It is best to use the plane as a fast attacker. Keep your altitude and proceed to bomb points. Once your payload is delivered, you can engage enemy fighters which should still be climbing to reach your altitude while being careful not to become outnumbered or dive towards friendly forces in order to gain cover. Few are the planes which will be able to keep up with you if you choose the latter. If you are on a map with lots of vital soft targets, you can always engage those. One has to keep in mind that doing so will leave him exposed to enemy interceptors. If you decide to engage enemy fighters, you will find that the DB-7 is quite manoeuvrable for its size. Always keep an eye on your speed and avoid depleting too much of it in case you need to flee from the battle. The DB-7 can soak up a lot on LMG fire and return to base. The radial engines can also take a lot of punishment before going out. If the rest of its fuselage is not damaged, the aircraft can easily fly on one engine. HMGs and canons will quickly render the plane uncontrollable.
+It is best to use the plane as a fast attacker. Keep your altitude and proceed to bomb points. Once your payload is delivered, you can engage enemy fighters which should still be climbing to reach your altitude while being careful not to become outnumbered or dive towards friendly forces in order to gain cover. Few planes will be able to keep up with you if you choose the latter. If you are on a map with lots of vital soft targets, you can always engage those. One has to keep in mind that doing so will leave one exposed to enemy interceptors. If you decide to engage enemy fighters, you will find that the DB-7 is quite manoeuvrable for its size. Always keep an eye on your speed and avoid depleting too much of it in case you need to flee from the battle. The DB-7 can soak up a lot on LMG fire and return to base. The radial engines can also take a lot of punishment before going out. If the rest of its fuselage is not damaged, the aircraft can easily fly on one engine. HMGs and canons will quickly render the plane uncontrollable.
 
 While a lot of the above is true, it is much more important to stick with friendly forces since one can easily become outnumbered if on his own near the enemy's spawn point.
+
+In mixed ground battles, most SPAAs will not be able to land a deadly hit if the aircraft is going fast and conserving its energy well. After dropping its payload, the aircraft can be effectively used to destroy open-topped vehicles. The speed of the aircraft allows it to flank the map and fly over the battlefield from a direction the enemy didn't expect, which lets it take out SPAAs whilst flying in a straight line to shoot. However, due to the ease of spawning a fighter aircraft in Ground RB, you should always keep an eye out for fighters which will try to take you out whilst you're turning.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -164,17 +166,17 @@ While a lot of the above is true, it is much more important to stick with friend
 
 '''Pros:'''
 
-* Fast for its rank and role.
-* Decent bomb load (4 x 500 lb).
-* Has offensive armaments (4 x 7.5 mm machine guns).
-* Good amount of rounds for the offensive armament (2,000 rounds, 500 per gun).
-* Can soak up damage from and return to base with an engine out.
-* Can go up to 434 mph or 700 km/h IAS in a dive and maintain control.
+* Fast and manoeuvrable for its size and role
+* Decent bomb load (4 x 500 lb)
+* Has offensive armaments (4 x 7.5 mm machine guns)
+* Good amount of rounds for the offensive armament (2,000 rounds, 500 per gun)
+* Can soak up damage from and return to base with an engine out
+* Can go up to 700 km/h or 434 mph IAS in a dive and maintain control
 
 '''Cons:'''
 
-* Armament, both offensive and defensive, can become inadequate tougher enemies.
-* Prone to fires.
+* Armament, both offensive and defensive, can become inadequate against tougher enemies
+* Prone to fires
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -208,6 +210,7 @@ The American aircraft were designated DB-7B3 (B3 meaning "three-seat bomber") by
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=db_7 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -219,6 +222,7 @@ The American aircraft were designated DB-7B3 (B3 meaning "three-seat bomber") by
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[DB-7 (Family)]]
 * Douglas [[A-26 (Family)|A-26]] Invader
 

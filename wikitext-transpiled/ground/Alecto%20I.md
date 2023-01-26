@@ -18,7 +18,7 @@ Overall, a very uncomplicated vehicle with some obvious drawbacks yet a very dyn
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+The armour of the Alecto is quite poor. Rounds fired at you will penetrate, and the front is not even well sloped, so you can't bounce any shot. In addition, your ammo is stored entirely on the sides, so don't expect so do well if you get flanked. However, there is a benefit to poor armour: shots won't spall much (and often APHE won't detonate), so usually it will take multiple shots to take out your crew. But that does mean some rifle-calibre MG rounds can penetrate your armour frontally, so be careful of coaxial armament. Besides, don't forget though that you are open-topped, and are vulnerable to overpressure damage, besides being easy prey for enemy aviation.
 
 '''Armour type:'''
 
@@ -28,12 +28,12 @@ Overall, a very uncomplicated vehicle with some obvious drawbacks yet a very dyn
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 6 mm (36°) ''Front glacis'' <br> 10 mm (7°) ''Lower glacis'' || 5 mm ''Top - Front upper plate'' <br> 6 mm (57°) ''Top - Front centre glacis'' <br> 5 mm ''Top - Front lower plate'' <br> 6 mm (33°) ''Top - Rear glacis'' <br> 10 mm (37°) ''Bottom'' || 10 mm ''Upper plate'' <br> 6 mm (36°) ''Lower glacis'' || 4 mm ''Engine compartment''
+| Hull || 6 mm (36°) ''Front glacis'' <br> 10 mm (7°) ''Lower glacis'' || 5 mm ''Top - Front upper plate'' <br> 6 mm (57°) ''Top - Front centre glacis'' <br> 5 mm ''Top - Front lower plate'' <br> 6 mm (33°) ''Top - Rear glacis'' <br> 10 mm (37°) ''Bottom'' || 10 mm ''Upper plate'' <br> 6 mm (36°) ''Lower glacis'' || 4 mm ''Engine compartment''
 |-
 | Gun shield || 10 mm (cylindrical) ''Turret front'' <br> 10 mm ''Gun mantlet''
 !
 !
-! 
+!
 |-
 |}
 '''Notes:'''
@@ -77,53 +77,7 @@ Overall, a very uncomplicated vehicle with some obvious drawbacks yet a very dyn
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Shell H.E./A.T. || HEAT || 110 || 110 || 110 || 110 || 110 || 110
-|-
-| Shell Mk.Ia || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Shell H.E./A.T. || HEAT || 502 || 6.72 || 0 || 0.3 || 781.66 || 62° || 69° || 73°
-|-
-| Shell Mk.Ia || HE || 320 || 11.34 || 0 || 0.1 || 666 || 79° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| Shell SE Mk,I || 320 || 11.34 || 13 || 5 || 20 || 50
-|-
-|}
+{{:Howitzer, Tank No.1, Mk.I (95 mm)/Ammunition|Shell H.E./A.T., Shell Mk.Ia, Shell SE Mk.I}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -150,9 +104,9 @@ The decent ballistics of the gun and the capable HEAT shell can stand for some s
 
 The HE and HEAT rounds come with the valuable bonus of overpressure damage, something often difficult to achieve on the 40 mm 2-Pounder gun due to the poor or lacking HE filler. At the rank, many lightly-armoured or exposed vehicles such as [[Panzerjager I|Panzerjäger I]] or [[Flakpanzer 38]] can be found; these will often become easy targets for the Alecto.
 
-The fixed gun limits the close-range engagements since most tanks encountered will be agile enough to manoeuvre easily around the Alecto. Therefore the sniper role will favour this fixed gun design. The Alecto got nothing to envy in the mobility department, so the commanders could take advantage of the nimble chassis and find good sniping positions or be ready to relocate when necessary. 
+The fixed gun limits the close-range engagements since most tanks encountered will be agile enough to manoeuvre easily around the Alecto. Therefore the sniper role will favour this fixed gun design. The Alecto got nothing to envy in the mobility department, so the commanders could take advantage of the nimble chassis and find good sniping positions or be ready to relocate when necessary.
 
-Something important to note is the limited elevation of the howitzer. Often the most irregular terrains such as those on [[Tunisia]], [[Ash River]] or [[Frozen Pass (Ground Forces)|Frozen Pass]] will be challenging for the Alecto. Not only on gun traversing but in practical firing positioning. Here is when knowledge of the map terrain will help players get the most out of the flexibility of Alecto's mobility. 
+Something important to note is the limited elevation of the howitzer. Often the most irregular terrains such as those on [[Tunisia]], [[Ash River]] or [[Frozen Pass (Ground Forces)|Frozen Pass]] will be challenging for the Alecto. Not only on gun traversing but in practical firing positioning. Here is when knowledge of the map terrain will help players get the most out of the flexibility of Alecto's mobility.
 
 Since no tank design is perfect, the Alecto will be no exception. The thin protection and the lack of any roof armour mean the tank can suffer from the lightest of the guns, namely 12.7 mm Browning machine guns and small calibre autocannons as those on the Anti-aircraft vehicles. Smart tankers should seek to never stay in the same position for too long, as enemy aircraft or revengeful players could find their way to you. The smoke shells can help in this regard. Whenever in trouble, a few smoke shells can obscure the enemy's sight enough for a retreat or a brave standoff up close and personal. Players should never forget to load some smoke rounds for the most desperate needs.
 
@@ -174,11 +128,11 @@ Since no tank design is perfect, the Alecto will be no exception. The thin prote
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-The Alecto I is a British self propelled gun developed from the Tetrach light tank towards the end of the Second World War. Fitted with a newly developed 3.75 inch howitzer in an open top casemate configuration, the Alecto only completed trials after the war had ended, leading to it serving briefly with the British Army in Germany and the Middle East without seeing any combat. 
+The Alecto I is a British self propelled gun developed from the Tetrach light tank towards the end of the Second World War. Fitted with a newly developed 3.75 inch howitzer in an open top casemate configuration, the Alecto only completed trials after the war had ended, leading to it serving briefly with the British Army in Germany and the Middle East without seeing any combat.
 
 === [[wt:en/news/7636-development-battle-for-arachis-alecto-mk-i-spg-en|Devblog]] ===
 
-A further development of the Tetrarch light tank concept resulted in the Mk.VIII Harry Hopkins light cruiser tank, which Vickers-Armstrongs was creating to be an airborne tank. Since the mass of the vehicle by the beginning of the production exceeded the allowable for the project, and the design itself still required serious improvements, the company's engineering team decided to continue their work, turning the project into a light self-propelled unit with a 3.75”” howitzer Q.F. 95mm. The chassis engine compartment was completely unified with the Harry Hopkins, while the combat compartment and the gun were completely new for the series. The SPG is called Alecto I (or Alecto Mk. I) went to the testing in 1944 and, after implementing new changes (again with an increase in the mass of the machine), the self-propelled guns were built in a small batch by June 1945. The war had already ended by that time, and all units built were used mainly for training purposes and were decommissioned in 1955.
+A further development of the Tetrarch light tank concept resulted in the Mk.VIII Harry Hopkins light cruiser tank, which Vickers-Armstrongs was creating to be an airborne tank. Since the mass of the vehicle by the beginning of the production exceeded the allowable for the project, and the design itself still required serious improvements, the company's engineering team decided to continue their work, turning the project into a light self-propelled unit with a 3.75" howitzer Q.F. 95mm. The chassis engine compartment was completely unified with the Harry Hopkins, while the combat compartment and the gun were completely new for the series. The SPG is called Alecto I (or Alecto Mk. I) went to the testing in 1944 and, after implementing new changes (again with an increase in the mass of the machine), the self-propelled guns were built in a small batch by June 1945. The war had already ended by that time, and all units built were used mainly for training purposes and were decommissioned in 1955.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -209,7 +163,7 @@ File:Alecto I WTWallpaper006.jpg|
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-* [[wt:en/news/7636-development-battle-for-arachis-alecto-mk-i-spg-en|[Devblog] “Battle for Arachis”: Alecto Mk. I SPG]]
+* [[wt:en/news/7636-development-battle-for-arachis-alecto-mk-i-spg-en|[Devblog] "Battle for Arachis": Alecto Mk. I SPG]]
 
 {{Manufacturer Vickers-Armstrongs}}
 {{Britain tank destroyers}}

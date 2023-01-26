@@ -242,6 +242,9 @@ In the mid-1990s, after the previous projects of A-5M and A-5K were canceled by 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=q_5l Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
 ;Videos
 {{Youtube-gallery|Gy87KuguGJA|'''The Shooting Range #329''' - ''Metal Beasts'' section at 00:26 discusses the {{PAGENAME}}.}}
 

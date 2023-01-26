@@ -78,63 +78,13 @@ The Sho't Kal has an upgraded powerplant to the Continental AVDS-1790-2A diesel 
 |}
 
 ==== Ammunition ====
-The stock M728 APDS is more than enough to gun down late war tanks and early Cold War medium tanks. However, when facing late German or Soviet heavy tanks, the penetration of the M728 is in fact lower than British/German L28A1/DM13, so either hit the enemy from the sides or aim for weakspots to make sure they don't have the chance to send a shot at you.
+The stock '''M728 APDS''' is more than enough to gun down late war tanks and early Cold War medium tanks. However, when facing late German or Soviet heavy tanks, the penetration of the M728 is in fact lower than British/German L28A1/DM13, so either hit the enemy from the sides or aim for weak spots to make sure they don't have the chance to send a shot at you.
 
-M156 shell, aka L35, is identical to other 105 mm HESH rounds, having high explosive content to knock out vehicles right away with overpressure while the overall performance of the shell is mixed, not to mention its slow and high-arcing ballistics; so either take this shell for detonating lighter vehicles or sniping stationary targets that expose their vulnerable spots. A solid hit is very likely to send enemies straight back to the hanger.
+The '''M393A2 HESH''' is identical to other 105 mm HESH rounds, having high explosive content to knock out vehicles right away with overpressure while the overall performance of the shell is mixed, not to mention its slow and high-arcing ballistics; so either take this shell for detonating lighter vehicles or sniping stationary targets that expose their vulnerable spots. A solid hit is very likely to send enemies straight back to the hanger.
 
-M152 HEATFS, while mostly sufficient to penetrate even heavy tanks of the era with relative ease, will have a hard time penetrating tanks with composite armour like [[T-55AMD-1]] or ERA like [[T-69 II G]]. It is still sufficient to knock out lighter vehicles with overpressure damage.
+The '''M456 HEATFS''', while mostly sufficient to penetrate even heavy tanks of the era with relative ease, will have a hard time penetrating tanks with composite armour like [[T-55AMD-1]] or ERA like [[T-69 II G]]. It is still sufficient to knock out lighter vehicles with overpressure damage.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M728 || APDS || 260 || 258 || 250 || 240 || 231 || 222
-|-
-| M393A2 || HESH || 127 || 127 || 127 || 127 || 127 || 127
-|-
-| M456 || HEATFS || 400 || 400 || 400 || 400 || 400 || 400
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M728 || APDS || 1,426 || 4.65 || N/A || N/A || N/A || 75° || 78° || 80°
-|-
-| M393A2 || HESH || 732 || 11.2 || 0.1 || 4 || 4,310 || 73° || 77° || 80°
-|-
-| M456 || HEATFS || 1,174 || 10.5 || 0.05 || 0.1 || 1,270 || 65° || 72° || 77°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive mass<br>(TNT equivalent) (g)
-|-
-| M416 || 732 || 11.6 || 20 || 5 || 25 || 50
-|-
-|}
+{{:M68 (105 mm)/Ammunition|M728, M393A2, M456, M416}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Sho't_Kal_Dalet_(Great_Britain).png|right|thumb|x250px|[[Ammo racks]] of the [[Sho't Kal Dalet]] (identical)]]

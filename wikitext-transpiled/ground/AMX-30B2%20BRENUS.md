@@ -134,57 +134,7 @@ The AMX-30B2 BRENUS features the same gun the other AMX-30s have in-game, the 10
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| OCC 105 F1 || HEAT || 400 || 400 || 400 || 400 || 400 || 400
-|-
-| OE 105 F1 Mle.60 || HE || 25 || 25 || 25 || 25 || 25 || 25
-|-
-| OFL 105 F1 || APFSDS || 361 || 358 || 350 || 341 || 332 || 322
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| OCC 105 F1 || HEAT || 1,000 || 10.95 || 0.05 || 0.1 || 1,020 || 62° || 69° || 73°
-|-
-| OE 105 F1 Mle.60 || HE || 700 || 12.1 || 0 || 0.1 || 2,000 || 79° || 80° || 81°
-|-
-| OFL 105 F1 || APFSDS || 1,525 || 3.8 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| OFPH 105 F1 || 700 || 11.4 || 20 || 5 || 25 || 50
-|-
-|}
+{{:CN-105-F1 (105 mm)/Ammunition|OCC 105 F1, OE 105 F1 Mle.60, OFPH 105 F1, OFL 105 F1}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

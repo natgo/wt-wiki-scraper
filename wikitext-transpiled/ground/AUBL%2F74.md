@@ -72,53 +72,7 @@ As inherent to most light tanks, the lack of reliable armour is one of the most 
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M620A1 || HEATFS || 250 || 250 || 250 || 250 || 250 || 250
-|-
-| M625A1 || HESH || 102 || 102 || 102 || 102 || 102 || 102
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M620A1 || HEATFS || 890 || 4.1 || 0.05 || 0.1 || 890.4 || 65° || 72° || 77°
-|-
-| M625A1 || HESH || 800 || 4.5 || 0.1 || 4 || 1,730 || 73° || 77° || 80°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| M618A1 || 714 || 5.3 || 20 || 5 || 25 || 50
-|-
-|}
+{{:Cockerill Mk.3 (90 mm)/Ammunition|M620A1, M625A1, M618A1}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks AUBL-74.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

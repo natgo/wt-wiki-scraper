@@ -70,25 +70,9 @@ The armament consists of 2 x 30 mm HSS 831A cannons with 300 RPG with a quick, f
 * '''Default:''' {{Annotation|SAP-I|Semi-armour-piercing incendiary}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
 * '''30x170 HE-I-T:''' {{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI*|High-explosive incendiary (self-destroying)}}{{-}}{{Annotation|HEI*|High-explosive incendiary (self-destroying)}}{{-}}{{Annotation|SAP-I|Semi-armour-piercing incendiary}}
 * '''30x170 APHE-I:''' {{Annotation|SAP-I|Semi-armour-piercing incendiary}}{{-}}{{Annotation|SAP-I|Semi-armour-piercing incendiary}}{{-}}{{Annotation|SAP-I|Semi-armour-piercing incendiary}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
-* '''30x170 APDS-T:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|SAP-I|Semi-armour-piercing incendiary}}{{-}}{{Annotation|SAP-I|Semi-armour-piercing incendiary}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
+* '''30x170 APDS-T:''' {{Annotation|SAP-I|Semi-armour-piercing incendiary}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|SAP-I|Semi-armour-piercing incendiary}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 53 || 50 || 39 || 29 || 21 || 16
-|-
-| 30x170 HE-I-T || 53 || 50 || 39 || 29 || 21 || 16
-|-
-| 30x170 APHE-I || 53 || 50 || 39 || 29 || 21 || 16
-|-
-| 30x170 APDS-T || 110 || 101 || 95 || 69 || 52 || 41
-|-
-|}
+{{:HSS 831A (30 mm)/Ammunition|SAP-I, HEI-T*, HEI*, APDS}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

@@ -1,3 +1,8 @@
+{{About
+| about = American jet fighter '''{{PAGENAME}}'''
+| usage = other versions
+| link = F-16 (Family)
+}}
 {{Specs-Card
 |code=f_16a_block_15_adf
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -212,6 +217,9 @@ The first F-16 ADF was delivered to the Oregon Air National Guard in March 1989.
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f_16a_block_15_adf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
 ;Images
 <gallery mode="packed-hover" heights="150">
 File:IFF F-16 ADF.png|<small>4-blade "bird slicer" antenna on the nose of the F-16A ADF (AN/APX-109)</small>
@@ -221,10 +229,9 @@ File:IFF F-16 ADF.png|<small>4-blade "bird slicer" antenna on the nose of the F-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[F-16 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

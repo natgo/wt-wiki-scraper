@@ -18,7 +18,7 @@ The '''{{Specs|name}}''' (Battle tank B1 "repeated") is a rank {{Specs|rank}} Fr
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 In order to effectively use this tank's armour, there is a few things to consider. First of all, there are a lot of shot traps, the main ones being the turret ring and the hull gun mount, in order to minimize your enemies' chance to hit these weak spots, stay away from them. Second, even if your armour is very strong for the BR, do not completely rely on it by sitting around in an open field: you will eventually get hit where it hurts. The third thing to consider is your small and thick turret: hide that big clumsy hull behind a hill and pop out only your hard "head", take a shot, fall back, reload, repeat. If something goes wrong (i.e. getting shot in the turret ring), there is usually enough men left to take the job left by their dead "camarade". Do not bother getting spotted: it is your job to stay in the enemies' sights while your lighter teammates do what they ought to. In some situations, it can even be used as a breakthrough tank, rely on your own experience to guess when it is time to do so.
 
-This tank will get penetrated by some seemingly harmless vehicles, such as the [[M3 Stuart (Family)|Stuarts]] or even a [[Pz.II (Disambiguation)|Pz.II]]. Any tank with more than 55 mm penetration will be able to pierce your hull side at close range with minimal angle. Thus it is crucial to always angle the hull.
+This tank will get penetrated by some seemingly harmless vehicles, such as the [[M3 Stuart (Family)|Stuarts]] or even a [[Pz.II (Family)|Pz.II]]. Any tank with more than 55 mm penetration will be able to pierce your hull side at close range with minimal angle. Thus it is crucial to always angle the hull.
 
 When fighting the B1 bis, due to the extremely heavy frontal armour, one should try to use mobility to flank the B1. However, if that isn't possible, you'll want to try and hit the "mailslot" of the turret ring. It may be a tricky shot, but there's only ~40 mm of armour there.
 
@@ -62,7 +62,7 @@ This tank's mobility won't allow you to position fast enough. Taking time is the
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|SA35 L/32 (47 mm)}}
 
-With the same gun as most other Rank 2 French tanks, the B1 bis will never be recognized for having a fearsome armament: penetration rates are even lower than most reserve tanks. Although this turreted armament is only good at firing light targets such as SPGs (eg. [[SU-76M]], [[Marder III]]) and light tanks (eg. [[M5A1]], [[T-50]]), heavier targets (eg. [[Pz.IV F2]], [[Cromwell (Family)|Cromwell]]) can still be penetrated with careful aiming and thorough knowledge on weak spots. The AP shell does a good job at breaking gun barrels and tracks, allowing the B1 bis to disarm/immobile an opponent prior to a flanking kill. The reload rate is average for its calibre but rather fast at this BR. Elevation and depression angles are very good but turret slewing rate is a bit slow: this tank has been designed to be hull-down.
+With the same gun as most other Rank 2 French tanks, the B1 bis will never be recognized for having a fearsome armament: penetration rates are even lower than most reserve tanks. Although this turreted armament is only good at firing light targets such as SPGs (e.g. [[SU-76M]], [[Marder III]]) and light tanks (e.g. [[M5A1]], [[T-50]]), heavier targets (e.g. [[Pz.IV F2]], [[Cromwell (Family)|Cromwell]]) can still be penetrated with careful aiming and thorough knowledge on weak spots. The AP shell does a good job at breaking gun barrels and tracks, allowing the B1 bis to disarm/immobile an opponent prior to a flanking kill. The reload rate is average for its calibre but rather fast at this BR. Elevation and depression angles are very good but turret slewing rate is a bit slow: this tank has been designed to be hull-down.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -81,39 +81,7 @@ With the same gun as most other Rank 2 French tanks, the B1 bis will never be re
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Mle1935 || APC || 62 || 59 || 47 || 36 || 27 || 20
-|-
-| Mle1935 HE || HE || 4 || 4 || 4 || 4 || 4 || 4
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Mle1935 || APC || 660 || 1.62 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| Mle1935 HE || HE || 590 || 1.41 || 0 || 0.1 || 143 || 79° || 80° || 81°
-|-
-|}
+{{:SA35 L/32 (47 mm)/Ammunition|Mle1935, Mle1935 HE}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x200px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -162,39 +130,7 @@ The hull-mounted 75 mm gun may be useless for most of the time, since to maximis
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Mle1910M || APHE || 58 || 57 || 50 || 43 || 37 || 32
-|-
-| Mle1915 || HE || 11 || 11 || 11 || 11 || 11 || 11
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Mle1910M || APHE || 470 || 6.4 || 1.2 || 14 || 90 || 47° || 60° || 65°
-|-
-| Mle1915 || HE || 500 || 5.55 || 0 || 0.1 || 740 || 79° || 80° || 81°
-|-
-|}
+{{:SA35 L/17 (75 mm)/Ammunition|Mle1910M, Mle1915}}
 
 ==== [[Ammo racks]] ====
 <!-- '''Last updated: 2.1.0.94''' -->
@@ -257,13 +193,13 @@ The Char B1, upon playing it for the first time will be slow in both acceleratio
 
 '''Against the B1 bis:'''
 
-'''Light tank/SPAA''': this is usually the type of vehicle that the B1 "bully" the most as some of their low penetrations simply do not allow them to punch through the B1's armour from any angle. However, apart from some reserve tanks, light tanks and SPAA may have shells with over 65 mm penetration, and that is enough to deal with a B1. First of all you must use your good mobility and get as close as possible, preferably when the B1 is busy dealing with other teammates so you can take your time to place every shell accurately. When fighting the B1 frontally, aim for the curved hull cannon mount, it will knock out the hull gunner. Or go for the near-vertical driver's port below the turret, it will knock out the driver and commander who is also the turret gunner. For tanks with extremely low penetration (eg. early Japanese tanks) you cannot even penetrate the rear at point blank range. If this is the case, you can target the turret ring which is only ~40 mm thick. Just make sure that your shells impact the armour with as little angle as possible since popular small-calibre shells tend to ricochet on angled armour. Certain SPAA with access to high-penetration belts (eg. [[Flakpanzer 38]]) can also complete the above tasks.
+'''Light tank/SPAA''': this is usually the type of vehicle that the B1 "bully" the most as some of their low penetrations simply do not allow them to punch through the B1's armour from any angle. However, apart from some reserve tanks, light tanks and SPAA may have shells with over 65 mm penetration, and that is enough to deal with a B1. First of all you must use your good mobility and get as close as possible, preferably when the B1 is busy dealing with other teammates so you can take your time to place every shell accurately. When fighting the B1 frontally, aim for the curved hull cannon mount, it will knock out the hull gunner. Or go for the near-vertical driver's port below the turret, it will knock out the driver and commander who is also the turret gunner. For tanks with extremely low penetration (e.g. early Japanese tanks) you cannot even penetrate the rear at point blank range. If this is the case, you can target the turret ring which is only ~40 mm thick. Just make sure that your shells impact the armour with as little angle as possible since popular small-calibre shells tend to ricochet on angled armour. Certain SPAA with access to high-penetration belts (e.g. [[Flakpanzer 38]]) can also complete the above tasks.
 
 '''Medium tank''': medium vehicles may not be able to quickly sneak up next to a B1, but they usually come with a better cannon or better shells. Aim at the above areas, but watch out for the B1's guns, as you cannot move as fast a light tanks to get away. Angle your armour when needed, the B1's hull and turret gun will struggle against angled armour. If your penetration is over 55 mm you can try shooting at its side. Shoot anywhere and it will disable some crew or the engine. The tracks of the B1 bis are quite hard to break with a few shots since medium tanks' cannons at this tier are still of small calibres, so it is better to focus on scoring successful penetrations.
 
-'''Heavy tank''': if your heavy vehicle sees a B1 bis, then it usually suggests that the B1 is fighting in an uptier, as there are not many heavy tanks with lower BR. As such, a typical low-tier heavy vehicle like [[Matilda III|Matilda]], [[Churchill I]] or even the [[Gun Carrier (3-in)]] all have superior armour to a B1. You can confidently sit face to face with a B1 and no need to hurry to aim. Given that these early heavy tanks still have quite small cannons, the weakspots remain the same. Wiggle your hull while you reload, the B1 still has some chance to penetrate your weakspots in return.
+'''Heavy tank''': if your heavy vehicle sees a B1 bis, then it usually suggests that the B1 is fighting in an uptier, as there are not many heavy tanks with lower BR. As such, a typical low-tier heavy vehicle like [[Matilda III|Matilda]], [[Churchill I]] or even the [[Gun Carrier (3-in)]] all have superior armour to a B1. You can confidently sit face to face with a B1 and no need to hurry to aim. Given that these early heavy tanks still have quite small cannons, the weak spots remain the same. Wiggle your hull while you reload, the B1 still has some chance to penetrate your weak spots in return.
 
-'''Tank destroyer''': tank destroyers around the B1 bis's BR will already have destructive firepower, so they will be the main force to counter B1 bis. For example, the [[LVT(A)(4) (ZiS-2) (China)|LVT(A)(4) (ZiS-2)]] and [[ZiS-30]]'s 57 mm guns can frontally penetrate a B1 anywhere, even through the sloped upper front plate. Tank destroyers with weaker guns (eg. [[SU-76M]]) might scramble a bit, but their shorter cannons usually mean more explosives inside the shells, the B1's interior is not spacious so there is always a good chance to one-shot it. However do be very careful, only go out to fire when the B1 is distracted, as its 2 cannons will not struggle to destroy a weakly protected tank destroyer with a salvo.
+'''Tank destroyer''': tank destroyers around the B1 bis's BR will already have destructive firepower, so they will be the main force to counter B1 bis. For example, the [[LVT(A)(4) (ZiS-2) (China)|LVT(A)(4) (ZiS-2)]] and [[ZiS-30]]'s 57 mm guns can frontally penetrate a B1 anywhere, even through the sloped upper front plate. Tank destroyers with weaker guns (e.g. [[SU-76M]]) might scramble a bit, but their shorter cannons usually mean more explosives inside the shells, the B1's interior is not spacious so there is always a good chance to knock it out. However do be very careful, only go out to fire when the B1 is distracted, as its 2 cannons will not struggle to destroy a weakly protected tank destroyer with a salvo.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -297,7 +233,7 @@ The Char B1, upon playing it for the first time will be slow in both acceleratio
 * Guns feel lacking
 ** Lacking penetration from both of its guns
 ** Abysmal traverse on 75 mm gun (~1° left to right)
-** Slow reload on the 75mm
+** Slow reload on the 75 mm
 ** Only stock ammo choices
 ** APHE shell won't detonate when shooting at light targets (25 mm or less armour)
 ** Hull gun is hard to master (not beginner-friendly)

@@ -7,13 +7,13 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' (also known as the '''{{Specs|pseudonym}}''') is a rank {{Specs|rank}} French light tank {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]] as the R.39 and was subsequently renamed R.35 (SA38) in [[Update 1.89 "Imperial Navy"]].
 
-Although it is a light tank, the R.35 feels pretty cumbersome in every way: poor mobility, slow traverse speed and long reload time. It actually feels more like an heavy tank without the benefits of heavy armour. This tank's design is very similar to other French rank I light tanks. Hence, players should already be used to their shortcomings.
+The R.35 is in many ways similar to the other light tanks in the lower French tech tree; mobility is exchanged for thicker armour. It also has the other well-known features like a one-man turret and a decent gun with poor post-penetration damage. The reload time is longer than that of most tanks at its rank, but this is usually overcome by its low silhouette and thick side armour. It shares many of its shortcomings with other French tanks of rank I, so players should already be used to the playstyle. It is overall a decent vehicle, with very potent armour and a sluggish top speed. 
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-With good armour thickness and surprising hull angles, this tank can take some beating at a distance, provided you do not get a lucky shot in the turret ring or that you face a heavy-hitting gun. This should get you into effective combat ranges (500 - m) in relative safety. The most obvious weakspot is its turret flat left side, which is only 45 mm thick and badly angled, this makes hull-down position ineffective.
+With good armour thickness and surprising hull angles, this tank can take some beating at a distance, provided you do not get a lucky shot in the turret ring or that you face a heavy-hitting gun. This should get you into effective combat ranges (500- m) in relative safety. The most obvious weak spot is its turret flat left side, which is only 45 mm thick and badly angled, this makes hull-down position ineffective.
 
 With its heavy side armour, one should use angles at its advantages and angle it at about 35° while facing opponents. Such an angling gives about 60 mm of effective thickness for 80% of the exposed area.
 
@@ -78,35 +78,7 @@ The mobility is the {{PAGENAME}}'s biggest weakness: while it does not like long
 The 37 mm SA38 cannon has significantly better penetration and post-penetration damage than its predecessor, but has a longer reload rate than its peers. Know the layout of enemy vehicles well, target their gunners first or immobilize them by shooting at the engine, and make every shot count. Avoid exchanging shots at long distances as your gun's penetration values decrease heavily beyond 500 m. The turret traverse speed is also an issue since you'll not be able to react in time to flanking opponents.
 
 ==== Ammunition ====
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Mle1938 || APC || 54 || 50 || 36 || 24 || 16 || 11
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Mle1938 || APC || 705 || 0.7 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-|}
+{{:SA38 L/33 (37 mm)/Ammunition|Mle1938}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -145,19 +117,19 @@ The small calibre of the MAC 31 machine gun makes it largely ineffective against
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 '''Gameplay summary:'''
 
-The R.35 is a decent light tank for its battle rating, so long as it is played with the right tactics. The most important aspect of R.35 gameplay is armour angling. Being that the side armour is actually thicker than the front armour, angling at 45 degrees or more is ideal. The tank is not particularly quick, so flanking is generally difficult, so sticking with your team is the best strategy. Generally, medium range engagements are ideal.
+The R.35 is a decent light tank for its battle rating, so long as it is played with the right tactics. The most important aspect of R.35 gameplay is armour angling. Being that the side armour is actually thicker than the front armour, angling at 45 degrees or more is ideal. The tank is not particularly quick which means flanking is generally difficult. Sticking with your team is therefore the best strategy. Generally, medium range engagements are ideal, though it can hold its ground in other scenarios. Its low silhouette can also be used to hide behind obstacles, go hull-down and slip below an enemies' gun depression angle.
 
 '''Close Range Engagements:'''
 
-The R.35 is capable at close range, although the slow reload can cause issues. The armour if angled correctly may bounce enemy rounds even at point blank range, however the R.35 must disable the enemy tank with the first shot. Most enemies that the R.35 will face have a faster reload, and may be able to outmanoeuvre it, as the R.35 is somewhat slow. This means that getting too close to the enemy is a mistake, always maintain some distance with quick enemies.
+The R.35 is capable at close range, although the slow reload can cause issues. The armour if angled correctly may bounce enemy rounds even at point blank range, however the R.35 must disable the enemy tank with the first shot. Most enemies that the R.35 will face have a faster reload, and may be able to outmanoeuvre it, as the R.35 is somewhat slow. This means that getting too close to the enemy is a mistake, always maintain some distance with quick enemies. The tank however does turn surprisingly quick compared to its underwhelming turret traverse, so if you want to have your gun on target quicker in a brawl you can just turn your entire vehicle to line up your gun with the enemy's soft spots.
 
 '''Long Range Engagements:'''
 
-The R.35 will struggle to deal damage at long range, the cannon having mediocre penetration and reload. However staying at range can also be a good strategy, as enemies may struggle to penetrate the armour of the R.35 as well.
+The R.35 will struggle to deal damage at long range, the cannon having mediocre penetration and reload. However staying at range can also be a good strategy, as enemies may struggle to penetrate the armour of the R.35 as well. The gun doesn't outshine its common adversaries at range, but considering your enemy is very likely to possess armour inferior to the R.35's, you can still beat most vehicles at this rank (except tank destroyers).
 
 '''Notable Enemies:'''
 
-Some notable enemies include: any German vehicles that use 20 mm autocannons, these include [[Pz.II (Disambiguation)|Panzer II]] and [[Flakpanzer I|Flankpanzer]] tanks. Their autocannons will easily destroy the R.35 if the armour is not angled. Additionally, the R.35 struggles to penetrate Panzer II tanks.
+Some notable enemies include: any German vehicles that use 20 mm autocannons, these include [[Pz.II (Family)|Panzer II]] and [[Flakpanzer I|Flankpanzer]] tanks. Their autocannons will easily destroy the R.35 if the armour is not angled. Additionally, the R.35 struggles to penetrate Panzer II tanks.
 
 Additionally, the R.35 will be easily penetrated by enemy vehicles equipped with the American [[M3 (37 mm)|37 mm M3]] cannon, the British [[QF 2-pounder (40 mm)|QF 2-pounder]] gun, or the Swedish [[Kan m/38 (37 mm)|37 mm kan m/38]] gun.
 
@@ -193,6 +165,7 @@ Concurrently, in 1939, AMX had developed a new type of track and suspension for 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_renault_r39 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -204,6 +177,7 @@ Concurrently, in 1939, AMX had developed a new type of track and suspension for 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
+
 * [[H.39]]
 * [[H.39 "Cambronne"]]
 

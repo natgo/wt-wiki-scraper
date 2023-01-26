@@ -89,59 +89,9 @@ More prominently throughout the Magach 3 are mountings for the Blazer ERA on the
 
 * '''M156 HESH''' (High-Explosive Squash-Head) works very differently than other shell-types. It ignores any angle, except for ricochet and deals damage by metal-flakes which are blown off inside the armour by the exterior explosion. Basically the fighting compartment is showered in metal rain. Currently only true armour thickness (opposed to line of sight thickness) will provide sufficient means of protection, benefitting the USSR turret designs and in general German tanks. Like all high-explosive shells the fuse is very sensitive and can be set-off by most objects e.g. fences, trees, pillars.
 
-* '''M152 HEATFS''' (High-Explosive Anti Tank Fin Stabilised): The knowledge of enemy vehicle layouts gained from the stock shell (M392A2), will be handy to use for the Magach's fullest potential - as the M152 is a round that can penetrate most vehicle's armour frontally. Like the APDS shot, increased armour thickness results in reduced amount of shrapnels after penetration. Unlike APDS it has one downside: Given that it is a chemical energy round, its fuse is highly sensitive in regards to its practical application in battle. As a result, virtually anything, such as trees or even a fence, will set it off prematurely, so the HEATFS round cannot fire through obstructions with this kind.
+* '''M152 HEATFS''' (High-Explosive Anti-Tank Fin-Stabilised): The knowledge of enemy vehicle layouts gained from the stock shell (M392A2), will be handy to use for the Magach's fullest potential - as the M152 is a round that can penetrate most vehicle's armour frontally. Like the APDS shot, increased armour thickness results in reduced amount of shrapnels after penetration. Unlike APDS it has one downside: Given that it is a chemical energy round, its fuse is highly sensitive in regards to its practical application in battle. As a result, virtually anything, such as trees or even a fence, will set it off prematurely, so the HEATFS round cannot fire through obstructions with this kind.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M392A2 || APDS || 303 || 302 || 296 || 277 || 257 || 252
-|-
-| M156 || HESH || 127 || 127 || 127 || 127 || 127 || 127
-|-
-| M152 || HEATFS || 400 || 400 || 400 || 400 || 400 || 400
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M392A2 || APDS || 1,478 || 4 || N/A || N/A || N/A || 75° || 78° || 80°
-|-
-| M156 || HESH || 731 || 11.4 || 0.1 || 4 || 3,170 || 73° || 77° || 80°
-|-
-| M152 || HEATFS || 1,174 || 10.5 || 0.05 || 0.1 || 1,270 || 65° || 72° || 77°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive mass<br>(TNT equivalent) (g)
-|-
-| M416 || 732 || 11.6 || 20 || 5 || 25 || 50
-|-
-|}
+{{:M68 (105 mm)/Ammunition|M392A2, M156, M152, M416}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

@@ -42,9 +42,8 @@ From Magach 6 (M60A1/3)  to the 7 series, aside from still based on M60s, the re
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
 
-{{tankMobility}}
+{{tankMobility|abMinHp=1,407|rbMinHp=803}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -67,10 +66,10 @@ After the introduction of the M68 gun by the US Army, Israel got the license for
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 57 || rowspan="2" | -9°/+19° || rowspan="2" | ±180° || rowspan="2" | Two-plane || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 57 || rowspan="2" | -9°/+19° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 22.8 || 31.6 || 38.4 || 42.5 || 45.2 || rowspan="2" | 8.71 || rowspan="2" | 7.70 || rowspan="2" | 7.10 || rowspan="2" | 6.70
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 14.3 || 16.8 || 20.4 || 22.6 || 24.0
 |-
 |}
 
@@ -85,7 +84,7 @@ The Magach 7C shares the same ammunition as its tech-tree predecessor Magach 6B 
 
 '''M426; APFSDS''' - The final round and the go-to round for the tank; the Israeli equivalent to 105 mm DM63, it is among the best 105 mm APFSDS available and having vastly improved penetration to M111. This also means it can now penetrates earlier Warsaw-Pact MBTs safely even at longer ranges, but MBTs such as T-64BV and ZTZ96A can still cause major problem for Magach 7C.
 
-{{:Sharir (105 mm)/Ammunition|M152|M156|M111|M416|M426}}
+{{:Sharir (105 mm)/Ammunition|M152, M156, M111, M416, M426}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
@@ -118,7 +117,7 @@ The Magach 7C shares the same ammunition as its tech-tree predecessor Magach 6B 
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Coaxial || 900 (200) || 577 || N/A || N/A
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -127,11 +126,11 @@ The Magach 7C shares the same ammunition as its tech-tree predecessor Magach 6B 
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Pintle (loader) || 1,800 (200) || 600 || -10°/+50° || ±120°
 |-
-| || ___ (___) || ___ || __° || __°
+| Pintle (commander) || 1,800 (200) || 600 || -10°/+60° || ±180°
 |-
-| || ___ (___) || ___ || __° || __°
+| Coaxial || 2,400 (200) || 600 || N/A || N/A
 |-
 |}
 
@@ -164,7 +163,9 @@ The Magach 7C shares the same ammunition as its tech-tree predecessor Magach 6B 
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=il_magach_7c Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

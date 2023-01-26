@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German strike aircraft {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]]. The Panavia 200 (PA-200) Tornado is a two-seat, twin-engine, swing-wing, multi-role combat aircraft built jointly by Germany, the United Kingdom and Italy. The version in game is the Tornado Interdiction/Strike or IDS and is intended as a low-flying fighter bomber armed with precision weapons.
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} German strike aircraft {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]]. The Panavia 200 (PA-200) Tornado is a two-seat, twin-engine, swing-wing, multi-role combat aircraft built jointly by Germany, the United Kingdom, and Italy. This version is the Tornado Interdiction/Strike or IDS, and was intended as a low-flying fighter bomber armed with precision weapons.
 
 Its first combat missions were in the second Gulf War by the British, Italian and Saudi Arabian air forces. This was later followed by missions in the Yugoslavian and Kosovo wars, in which the Bundeswehr also participated for the first time. German Tornados also flew reconnaissance missions as part of the ISAF mission and in northern Iraq.
 
@@ -81,63 +81,41 @@ Its first combat missions were in the second Gulf War by the British, Italian an
 {| class="wikitable" style="text-align:center"
 |-
 ! colspan="3" | Engine
-! colspan="7" | Aircraft mass
+! colspan="6" | Aircraft mass
 |-
 ! colspan="2" | Engine name || Number
-! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="5" | Wing loading (full fuel)
+! colspan="3" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
-| colspan="2" | Turbo-Union RB199-34R Mk.105 || 2
-| colspan="2" | 14,500kg || colspan="5" | 1023kg/m<sup>2</sup>
+| colspan="2" | Turbo-Union RB199-34R Mk.103 || 2
+| colspan="3" | 14,709 kg || colspan="3" | ___ kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="6" | Mass with fuel (no weapons load) (upper: fuel only, lower: empty+fuel combined) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
+! colspan="5" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
-! 15m fuel || 20m fuel || 30m fuel
-!45m fuel
-!53m fuel
-!drop tanks add +24m fuel
+! 16m fuel || 20m fuel || 30m fuel || 45m fuel || 56m fuel
 |-
-| 2,200 kg || colspan="2" | ___
-| 1,527kg 
-16,027kg 
-| 1,914kg 
-16,414kg 
-| 2,871kg 
-17,371kg 
-|4,307g
-18,807kg
-|5,090kg
-19,590kg
-| +2,340kg|| 26,021kg
+| 968 kg || colspan="2" | Afterburning low-bypass turbofan
+| 16,236 kg || 16,523 kg || 17,429 kg || 18,789 kg || 19,799 kg || 26,310 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
-! colspan="7" | Thrust to weight ratio @ 0 m (WEP)
+! colspan="6" | Thrust to weight ratio @ 0 m (WEP)
 |-
 ! Condition || 100% || WEP
-! 15m fuel || 20m fuel || 30m fuel 
-!45m fuel
-!53m fuel
-!+24m fuel|| MGW
+! 16m fuel || 20m fuel || 30m fuel || 45m fuel || 56m fuel || MGW
 |-
-| ''Stationary'' || 3,962 kgf || 7,588 kgf
-| 0.95 || 0.92 || 0.87 
-|0.80
-|0.77
-|0.66||0.58
+| ''Stationary'' || 3,777 kgf || 7,293 kgf
+| 0.90 || 0.88 || 0.84 || 0.78 || 0.74 || 0.55
 |-
-| ''Optimal'' || 4,291 kgf<br>(1,190 km/h) || 8,478 kgf<br>(1390 km/h)
-| 1.06 || 1.03 || 0.98 
-|0.90
-|0.87
-|0.77|| 0.65
+| ''Optimal'' || 4,192 kgf<br>(1,400 km/h) || 8,155 kgf<br>(1,400 km/h)
+| 1.00 || 0.99 || 0.94 || 0.87 || 0.82 || 0.62
 |-
 |}
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-The Tornado has no armor to speak of and is relatively large, making it an easy target for enemy guns. Almost any hit to the center part of the Tornado will leave its speed crippled, while any hit to the wings and tail will most likely cripple flight performance, if not downright disabling the aircraft. Although it could in theory make its way back to base even with only one engine, any enemy attention during this timespan will most likely get you sent back to the hangar. It also has 2 pilots, which means that you can continue flying in the unlikely case of only 1 pilot losing consciousness. To sum it up: It has better surivabilty than many aircraft thanks to redundant systems, but it's by no means an Su-25.
+The Tornado has no armour to speak of and is relatively large, making it an easy target for enemy guns. Almost any hit to the center part of the Tornado will leave its speed crippled, while any hit to the wings and tail will most likely cripple flight performance, if not disabling the aircraft outright. Although it could in theory make its way back to base even with only one engine, any enemy attention during this timespan will most likely get you sent back to the hangar. It also has 2 pilots, which means that you can continue flying in the unlikely case that only 1 pilot is knocked out.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -209,26 +187,26 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-There are multiple ways to use the Tornado in ARB, one tactic is to stick to the team and try and give support with your AIM-9Ls on your way to the enemy bases and/or ground targets. This gives you the advantage of team cover and a bit of safety, although you will undoubtably be in the midst of battle once enemy interceptors and fighters reach your team. The other tactic would be to go full throttle directly to the enemy bases while keeping extremely low to the ground to decrease your chances of being spotted by radar and line-of-sight. While this leaves you mostly alone and isolated from the possible support of your team, you will be able to take a more direct route to your main target, meaning you'll be able to evade any slower or unsuspecting enemies. Taking an active role in air-to-air combat is not advised, as the Tornado's flight performance is not suited to it and you'll most likely be shot down very quickly. In the case of 1-to-1 confrontation the best option is to simply hope you are faster and run away, against capable fighters like the MiG-23, F-16, MiG-29, Viggen, F-14 and Mirage2000 you don't stand a chance, unless the enemy pilot is extremely unexperienced.
+There are multiple ways to use the Tornado in ARB, one tactic is to stick to the team and try and give support with your AIM-9Ls on your way to the enemy bases and/or ground targets. This gives you the advantage of team cover and a bit of safety, although you will undoubtedly be in the midst of battle once enemy interceptors and fighters reach your team. The other tactic would be to go full throttle directly to the enemy bases while keeping extremely low to the ground to decrease your chances of being spotted visually or by radar. While this leaves you mostly alone and isolated from the possible support of your team, you will be able to take a more direct route to your main target, meaning you'll be able to evade any slower or unsuspecting enemies. Taking an active role in air-to-air combat is not advised, as the Tornado's flight performance is not suited to it and you'll most likely be shot down very quickly. In the case of 1-to-1 confrontation the best option is to simply hope you are faster and run away, against capable fighters like the MiG-23, F-16, MiG-29, Viggen, F-14, and Mirage 2000 you don't stand a chance, unless the enemy pilot is extremely inexperienced.
 
-===  Pros and cons ===
+=== Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 '''Pros:'''
 
 * High acceleration
-* Laser-guided munitions give it a good ground attack capability 
+* Laser-guided munitions give it a good ground attack capability
 
 '''Cons:'''
 
 * Bombs severely limit its maximum speed to about Mach 1.05
-* Very sluggish and slow turning rate, is unable to effectively manoeuvre  
-* Only has access to 2 x AIM-9L for air-to-air purposes 
-* No search radar 
-* Tracking radar is limited to 5°x6° and has 2 km effective range 
+* Very sluggish and slow turning rate, is unable to effectively manoeuvre
+* Only has access to 2 x AIM-9L for air-to-air purposes
+* No search radar
+* Tracking radar is limited to 5°x6° and has 2 km effective range
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-In 1967, the Netherlands, Belgium, Canada, Italy and the Federal Republic of Germany joined together to form the F-104 Replacement Group to begin joint planning for a Multi-Role Aircraft 75 (MRA-75) as a successor to the Starfighter.
+In 1967, the Netherlands, Belgium, Canada, Italy, and the Federal Republic of Germany joined together to form the F-104 Replacement Group to begin joint planning for a Multi-Role Aircraft 75 (MRA-75) as a successor to the Starfighter.
 
 In the UK, there was a need for a successor to the Canberra at the same time. Initially, work was done here on a national development, the BAC TSR.2. After this project was discontinued in 1965, development of a joint swing-wing fighter began with France under the Anglo-French Variable Geometry (AFVG) program. In addition, British forces were looking at introducing the General Dynamics F-111. However, France withdrew from the AFVG project in June 1967, and about six months later the British gave up their option to buy the F-111.
 
@@ -244,7 +222,7 @@ In 1969, the invitation to tender was issued for the development of the engine. 
 
 Development began on July 20, 1970, after the United Kingdom had prevailed with the concept of the two-seat twin-engine aircraft; based on experience with the F-104 and the Fiat G.91 and for cost reasons, Germany had originally called for only one pilot and only one engine. The envisaged number of aircraft declined from 1,500 (GB: 300, D: 550, I: 200, others: 600) in 1968, including the British fighter version, to 809 (GB: 385, D: 324, I: 100) in 1972. Overall, delivery figures over the entire production and service period totaled: GB: 402, D: 357, I: 100. Production of the assemblies proceeded according to a division of labor. The cockpit and tail sections as well as the vertical stabilizer were manufactured by BAC (later BAE Systems), MBB (later DASA and EADS) produced the center fuselage section and the air intakes, and Fiat (later Aeritalia and Alenia Aeronautica) produced the wings with the high-lift aids. Final assembly took place from 1973 at three sites in Warton (Lancashire, UK), Manching (Germany) and Turin (Italy).
 
-The maiden flight took place in Manching, Germany on August 14, 1974, and in 1976 the aircraft, until then designated MRCA, was given the name Tornado. 
+The maiden flight took place in Manching, Germany on August 14, 1974, and in 1976 the aircraft, until then designated MRCA, was given the name Tornado.
 
 Series production began in 1979. In 1980, the first Tornado was delivered to the Tri-National Tornado Training Establishment (TTTE) at Cottesmore for flying crew training. Equipment for operational units in the United Kingdom and Germany began in 1982, followed by Italy in 1984 and Saudi Arabia, the sole export customer, in 1986.
 
@@ -256,7 +234,9 @@ In 1995, 339 Tornado fighter aircraft were in service with the Bundeswehr (Air F
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=tornado_ids_de_assta1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
@@ -277,4 +257,5 @@ In 1995, 339 Tornado fighter aircraft were in service with the Bundeswehr (Air F
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{AirManufacturer Panavia}}
 {{Germany jet aircraft}}

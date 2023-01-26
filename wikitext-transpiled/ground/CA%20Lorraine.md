@@ -74,39 +74,7 @@ Keep that in mind as your foes get closer and closer to you: these precious 11 s
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 100 mm Obus de rupture || APCBC || 273 || 270 || 257 || 242 || 228 || 215
-|-
-| 100 mm Obus explosif || HE || 18 || 18 || 18 || 18 || 18 || 18
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 100 mm Obus de rupture || APCBC || 1,000 || 15 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| 100 mm Obus explosif || HE || 1,000 || 14.8 || 0 || 0.1 || 1,400 || 79° || 80° || 81°
-|-
-|}
+{{:SA47 L/58 (100 mm)/Ammunition|100 mm Obus de rupture, 100 mm Obus explosif}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

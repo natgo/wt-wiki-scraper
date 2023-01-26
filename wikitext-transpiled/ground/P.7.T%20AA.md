@@ -85,17 +85,7 @@ However, due to the P.7's low BR, they can be decent at destroying reserve and 1
 ==== Ammunition ====
 * '''AP-T:''' {{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}
 
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| AP-T || 28 || 25 || 16 || 10 || 6 || 3
-|-
-|}
+{{:Hotchkiss Mle 1930 (13.2 mm)/Ammunition|AP, AP-T}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

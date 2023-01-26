@@ -1,3 +1,8 @@
+{{About
+| about = SPAA '''{{PAGENAME}}'''
+| usage = the other version
+| link = ZSU-23-4
+}}
 {{Specs-Card
 |code=il_zsu_23_4
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -76,21 +81,7 @@ ZSU-23-4s were captured from Egypt and Syria by Israel during the Yom Kippur War
 * '''HEI-T:''' {{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}
 * '''API-T:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || __ || __ || __ || __ || __ || __
-|-
-| HEI-T || __ || __ || __ || __ || __ || __
-|-
-| API-T || __ || __ || __ || __ || __ || __
-|-
-|}
+{{:AZP-23 (23 mm)/Ammunition|API-T, HEF-I, HEFI-T}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
@@ -145,9 +136,9 @@ Missile-equipped aircraft are the greatest threat to your existence. They are ca
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-; Skins
 
-* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_zsu_23_4 Skins and camouflages for the ZSU-23-4 from live.warthunder.com.]
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=il_zsu_23_4 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

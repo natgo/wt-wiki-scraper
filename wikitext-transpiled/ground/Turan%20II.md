@@ -70,43 +70,7 @@ The Turán II is a Hungarian medium tank with a powerful rapid firing 75 mm howi
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 42/36.M || APCBC || 44 || 43 || 37 || 31 || 26 || 22
-|-
-| 42/38.M || HE || 7 || 7 || 7 || 7 || 7 || 7
-|-
-| 42.M || HEAT || 90 || 90 || 90 || 90 || 90 || 90
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 42/36.M || APCBC || 400 || 5.2 || 1.2 || 14 || 102.4 || 48° || 63° || 71°
-|-
-| 42/38.M || HE || 450 || 5.2 || 0 || 0.1 || 400 || 79° || 80° || 81°
-|-
-| 42.M || HEAT || 450 || 4.8 || 0.05 || 0.1 || 875.5 || 62° || 69° || 73°
-|-
-|}
+{{:41.M (75 mm)/Ammunition|42/36.M, 42/38.M, 42.M}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

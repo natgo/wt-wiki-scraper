@@ -87,57 +87,7 @@ The ammunition available to the {{PAGENAME}} offers a wide range of projectiles 
 * '''Shell Mk.1''': HE; a shell useful for destroying open and lightly-armoured vehicles but travelling at a low speed.
 * '''20pdr Shell SS Mk.1''': Smoke; useful to blind enemy vehicles that are too remote for you to disable so that you can progress towards objectives. However, it is a very slow shell.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Shot Mk.1 || APCBC || 232 || 229 || 216 || 201 || 187 || 173
-|-
-| Shot Mk.3 || APDS || 285 || 283 || 262 || 239 || 218 || 198
-|-
-| Shell Mk.1 || HE || 15 || 15 || 15 || 15 || 15 || 15
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Shot Mk.1 || APCBC || 1,000 || 9.1 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| Shot Mk.3 || APDS || 1,430 || 3.2 || N/A || N/A || N/A || 75° || 78° || 80°
-|-
-| Shell Mk.1 || HE || 600 || 7.5 || 0 || 0.1 || 1,130 || 79° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| 20pdr Shell SS Mk.1 || 250 || 9.3 || 13 || 5 || 20 || 50
-|-
-|}
+{{:20pdr OQF Mk.I (84 mm)/Ammunition|Shot Mk.1, Shot Mk.3, Shell Mk.1, 20pdr Shell SS Mk.1}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

@@ -9,7 +9,7 @@ The '''{{Specs|name}}''' (Light support tank FCM.36) is a rank {{Specs|rank}} Fr
 
 Generally speaking, what used to be the main reason you'd play the FCM.36 is so it can unlock better vehicles like the [[AMR.35 ZT3]] to have better firepower at the rank. Bearing the awful [[SA18 L/21 (37 mm)|37 mm SA18 L/21]] cannon as the main armament with 40 mm of armour all around and bad mobility, this tank resembles the [[H.35]] in many ways. However, the FCM.36 does have well-sloped armour for the rank to be a tad useful during long range engagements, but the underperforming gun makes the FCM.36 act more like a shield rather than a spear.
 
-Compared to the [[H.35]], the {{PAGENAME}} features a design with "better" armour and a more powerful engine, bringing the power ratio to a more manageable 12.4 HP/ton. With wider tracks than the H.35, this tank feels faster than other BR 1.0 French tanks. It turns quite smoothly and reaches its top speed fairly easily on road. 40 mm all around is enough to survive incoming rounds at long distances (~ 500+ m) but its bad angling makes it unreliable at close range, whereas your gun enters its actual combat ranges. Keeping the awful SA18 L/21 canon as the main armament, this gun is what makes an otherwise good tank so bad as it is. As the Devblog claims: "Wait Until You See The Whites of Their Eyes!", you will have to get up close and personal with this tank in order to penetrate another tank. With -17° of gun depression, this is actually a depressing gun.
+Compared to the [[H.35]], the {{PAGENAME}} features a design with "better" armour and a more powerful engine, bringing the power ratio to a more manageable 12.4 HP/ton. With wider tracks than the H.35, this tank feels faster than other BR 1.0 French tanks. It turns quite smoothly and reaches its top speed fairly easily on road. 40 mm all around is enough to survive incoming rounds at long distances (~ 500+ m) but its bad angling makes it unreliable at close range, whereas your gun enters its actual combat ranges. Keeping the awful SA18 L/21 cannon as the main armament, this gun is what makes an otherwise good tank so bad as it is. As the Devblog claims: "Wait Until You See The Whites of Their Eyes!", you will have to get up close and personal with this tank in order to penetrate another tank. With -17° of gun depression, this is actually a depressing gun.
 
 == General info ==
 === Survivability and armour ===
@@ -69,35 +69,7 @@ Compared to the [[H.35]], the {{PAGENAME}} features a design with "better" armou
 |}
 
 ==== Ammunition ====
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Mle1937 || APCR || 36 || 33 || 24 || 16 || 8 || 5
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Mle1937 || APCR || 600 || 0.5 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-|}
+{{:SA18 L/21 (37 mm)/Ammunition|Mle1937}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -137,19 +109,17 @@ The small calibre of the MAC 31 machine gun makes it largely ineffective against
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-'''Bullet magnet''':
+'''Bullet magnet'''
 
-Sit down in an open field, angle yourself and stay at a good distance (500+ m) from any threat. Watch enemy shells ricochet of your armour, spot enemies for the team. Whenever a potent gun comes your way, '''flee''' and hope not to get shot at. Blind such big guns with your good MAC 31 coaxial machine gun and attempt a few shots on the move (big guns generally means poor armour at this BR).
+Sit down in an open field, angle yourself and stay at a good distance (500+ m) from any threat. Watch enemy shells ricochet of your armour, spot enemies for the team. Whenever a potent gun comes your way, take cover and hope not to get shot at. Blind such big guns with your good MAC 31 coaxial machine gun and attempt a few shots on the move (big guns generally means poor armour at this BR).
 
-If you intend to play in RB or SB, use brush or other objects to obscure your vehicle's outline, so that the enemy doesn't entirely know what you are, and therefore have a chance of not taking shots at your weak points such as your gun mantle or driver port.
+If you intend to play in RB or SB, use bushes or other objects to obscure your vehicle's outline, so that the enemy doesn't entirely know what you are, and therefore have a chance of not taking shots at your weak points such as your gun mantlet or driver port.
 
 One notable recent change is that due to the new volumetric shells, it is nearly impossible to hit the FCM.36's vulnerable turret ring. In addition, it is much harder to actually damage anything from shooting through the weak spot on the mantlet; The commander's right side is protected by the large drum of the MAC 31, and hits to his left will now often hit the breech. This makes the FCM much more well protected. Shots that penetrate will usually be absorbed by various parts inside the turret.
 
-'''"Brawler":'''
+'''Brawler'''
 
-''Never'' engage an enemy upfront: assist your allies in flanking manœuvres and don't bother stealing a score since it's all you can get with such a poor cannon. Feel free to turn you back anytime and flee when allies are lacking, go find friends and act as a bullet magnet for them as they attempt to flank enemies.
-
-'''Not the size that matters its the technique'''
+Never engage an enemy upfront: assist your allies in flanking manoeuvres and don't bother stealing a score since it's all you can get with such a poor cannon. Feel free to fall back when allies are lacking, go find friends and act as a bullet magnet for them as they attempt to flank enemies.
 
 In the right hands, this tank can be used correctly to a degree. Practice with the gun along with knowledge of enemy armour, it can pen most enemy vehicles but anything above rank II tanks is nearly impossible to pen.
 
@@ -166,10 +136,7 @@ In the right hands, this tank can be used correctly to a degree. Practice with t
 '''Cons:'''
 
 * Very bad penetration power
-* Very poor mobility:
-** Weak engine
-** Slow top speed
-** Bad reverse speed : -3 km/h
+* Very poor mobility: weak engine, slow top speed, and bad reverse speed
 * Cannot angle properly without exposing a flat surface
 * Only 2 crew members, cramped and sitting in line
 

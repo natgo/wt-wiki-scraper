@@ -58,7 +58,7 @@ The mobility of the {{PAGENAME}} is very similar to that of the [[Panzer III]] m
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-{{main|StuK40 (75 mm)}}
+{{main|StuK40 L43 (75 mm)}}
 
 The 7,5 cm StuK 40 L/43 is almost identical to the 7,5 cm KwK40 L/43 on the Pz.IV F2. It is one of the best guns in the game for its rank, combining excellent penetration, lethal APHE shells, high velocity, average rate of fire, and high accuracy, complementing the StuG's playstyle as a medium/long range tank destroyer. Unfortunately, the StuG III does not have the gun depression of the PzKpfw IV F2, and thus is not so good at taking advantage of terrain.
 
@@ -66,7 +66,7 @@ The StuK 40 also has access to an APCR round with excellent penetration, but its
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[StuK40 (75 mm)|75 mm StuK40]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[StuK40 L43 (75 mm)|75 mm StuK40 L43]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced

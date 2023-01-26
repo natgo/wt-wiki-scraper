@@ -23,7 +23,7 @@ The {{PAGENAME}} has very little armour (although some are sloped enough to defl
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 16 mm (70°) ''Upper glacis - Top'' <br> 16 mm (60°) ''Upper glacis - Bottom'' <br> 16 mm (cylindrical) ''Transmission housing'' <br> 16 mm (73°) ''Lower glacis - Centre'' <br> 20 mm (31°) ''Lower glacis - Sides'' || 16 mm || 10 mm ''Upper plate'' <br> 10 mm (42°) ''Lower glacis'' ||  16 mm (20°) ''Front glacis'' <br> 10 mm ''Centre & Rear'' <br> 10+10 mm ''Radiator vent covers''
+| Hull || 16 mm (70°) ''Upper glacis - Top'' <br> 16 mm (60°) ''Upper glacis - Bottom'' <br> 16 mm (cylindrical) ''Transmission housing'' <br> 16 mm (73°) ''Lower glacis - Centre'' <br> 20 mm (31°) ''Lower glacis - Sides'' || 16 mm || 10 mm ''Upper plate'' <br> 10 mm (42°) ''Lower glacis'' || 16 mm (20°) ''Front glacis'' <br> 10 mm ''Centre & Rear'' <br> 10+10 mm ''Radiator vent covers''
 |-
 | Superstructure || 16 mm (21°) ''Front glacis'' <br> 10 mm (cylindrical) ''Gun shield'' || 16 mm (30°) <br> 16 mm (21-48°) ''Left ammo rack bulge'' || 10 mm ''Sides'' || 10 mm
 |-
@@ -70,52 +70,9 @@ The {{PAGENAME}} has very little armour (although some are sloped enough to defl
 |}
 
 ==== Ammunition ====
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M107 || HE || 54 || 54 || 54 || 54 || 54 || 54
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M107 || HE || 563 || 43.1 || 0 || 0.1 || 6,860 || 79° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| M110 || 563 || 40.8 || 25 || 5 || 30 || 50
-|-
-|}
+{{:L'Obusier de 155 Modèle 1950 (155 mm)/Ammunition|M107, M110}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks_{{PAGENAME}}.jpg|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
 <!-- '''Last updated: 2.1.0.113''' -->
 {| class="wikitable" style="text-align:center"
 |-
@@ -133,6 +90,7 @@ The {{PAGENAME}} has very little armour (although some are sloped enough to defl
 | '''30''' || 29&nbsp;''(+1)'' || 27&nbsp;''(+3)'' || 23&nbsp;''(+7)'' || 18&nbsp;''(+12)'' || 15&nbsp;''(+15)'' || 9&nbsp;''(+21)'' || 6&nbsp;''(+24)''|| 1&nbsp;''(+29)''|| Yes
 |-
 |}
+[[File:Ammoracks_{{PAGENAME}}.jpg|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
 '''Notes:'''
 
 * Projectiles and propellant charges are modeled individually and disappear after having been shot or loaded.
@@ -140,7 +98,7 @@ The {{PAGENAME}} has very little armour (although some are sloped enough to defl
 ** 28 shells are modeled but you can pack 30 shells.
 ** Rack 8 is modeled as 3 shells but contains 5 shells.
 * Recommended loadout: 9&nbsp;''(+21)'' shells. It keeps most ammunition in the floor and out of sponsons.
-
+{{Clear}}
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->

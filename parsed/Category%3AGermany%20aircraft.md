@@ -424,9 +424,8 @@
 {{Tree-Arrow}}
 {{Tree-Unit|mig-21_bis_sau}}
 {{Tree-Arrow}}
-{{Tree-Unit|mig_23mla}}
 |
-{{Tree-Arrow-Full|3}}
+{{Tree-Arrow-Full|2}}
 |
 {{Tree-Unit|su_22um3k}}
 |
@@ -442,6 +441,7 @@
 |
 {{Tree-Skip}}
 |
+{{Tree-Unit|mig_23mla}}
 {{Tree-Skip}}
 |
 {{Tree-Unit|tornado_ids_de_assta1}}

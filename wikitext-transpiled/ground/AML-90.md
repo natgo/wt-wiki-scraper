@@ -42,7 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French light tank {{Battle-rat
 * The belly is 8 mm thick.
 * The gun barrel is 20 mm thick.
 
-The {{PAGENAME}} lacks protection against heavy machine gun fire and is susceptible to damage by light machine gun fire. The crew is located in a rather small compartment, making the armoured car prompt to being knocked out by a single shot from almost any direction. It is also vulnerable to overpressure, meaning chemical energy ammunition will take out your vehicle regardless of where they impact. A kinetic energy ammunition can damage your AML through the projectile itself or the spalling generated but the inflicted damages are lesser and has a higher chance to knock out the crew members or critical modules than to destroy the vehicle. It should be noted that the thin armour has a chance to not activate fused shells like APHE, APCBC, etc, although it will trigger HEAT, HEATFS, HE and ATGM.
+The {{PAGENAME}} lacks protection against heavy machine gun fire and is susceptible to damage by light machine gun fire. The crew is located in a rather small compartment, making the armoured car prompt to being knocked out by a single shot from almost any direction. It is also vulnerable to overpressure, meaning chemical energy ammunition will take out your vehicle regardless of where they impact. A kinetic energy ammunition can damage your AML through the projectile itself or the spalling generated but the inflicted damages are lesser and has a higher chance to knock out the crew members or critical modules than to destroy the vehicle. The thin armour has a chance to not activate fused shells like APHE, APCBC, etc, although it will trigger HEAT, HEATFS, HE rounds, and ATGMs.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -79,53 +79,7 @@ The AML-90 uses a powerful 90 mm DEFA F1 low pressure cannon. The AML-90 comes w
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| OCC 60-62 || HEATFS || 320 || 320 || 320 || 320 || 320 || 320
-|-
-| OE 90 F1 || HE || 13 || 13 || 13 || 13 || 13 || 13
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| OCC 60-62 || HEATFS || 750 || 8.95 || 0.05 || 0.1 || 877.7 || 65° || 72° || 77°
-|-
-| OE 90 F1 || HE || 640 || 10.45 || 0 || 0.1 || 945 || 79° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| OFUM PH90-F2 || 640 || 10.2 || 13 || 5 || 20 || 50
-|-
-|}
+{{:DEFA F1 (90 mm)/Ammunition|OCC 60-62, OE 90 F1, OFUM PH90-F2}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -182,28 +136,28 @@ Due to the high speed and really powerful gun, the AML-90 can be used to hit any
 
 '''Sniping:'''
 
-Despite the optics not having a huge zoom, it is enough to be able to detect, target and engage enemy vehicles at all ranges thanks to the HEAT-FS round. Be aware of your ammo as it can only carry 20, so make all shots count. It also creates a relatively small smoke trail when firing compared to other cannons at the battle rating (105 mm, other 90 mm, 122 mm) thanks to the muzzle brake. Bushes can also be used to make this vehicle invisible due to its low profile. A big bunch of branches can cover almost 70% of the front of the AML-90, making it a moving and deadly bush. It also creates a small engine sound that will be, most of the time, masked up by other tanks, giving you a stealth capability which can be exploited in urban combat.
+Despite the optics not having a huge zoom, it is enough to be able to detect, target and engage enemy vehicles at all ranges thanks to the HEATFS round. Be aware of your ammo as it can only carry 20, so make all shots count. It also creates a relatively small smoke trail when firing compared to other cannons at the battle rating (105 mm, other 90 mm, 122 mm) thanks to the muzzle brake. Bushes can also be used to make this vehicle invisible due to its low profile. A big bunch of branches can cover almost 70% of the front of the AML-90, making it a moving and deadly bush. It also creates a small engine sound that will be, most of the time, masked up by other tanks, giving you a stealth capability which can be exploited in urban combat.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Its very small size makes it easy to get around and avoid shots.
-* 320 mm penetrating HEAT-FS ammo should be able to take care of any expected enemies.
-* Has access to smoke grenades and smoke shells that will allow it to move around unseen.
-* Has a roof mounted 7.62 mm that can be good to shoot planes and open-topped vehicles.
-* Armour is thin enough to not fuse some high calibre APHE shells, most notably from Soviet cannons.
+* Its very small size makes it easy to get around and avoid shots
+* 320 mm penetrating HEATFS ammo should be able to take care of any expected enemies
+* Has access to smoke grenades and smoke shells that will allow it to move around unseen
+* Has a roof mounted 7.62 mm that can be good to shoot planes and open-topped vehicles
+* Armour is thin enough to not fuse some high calibre APHE shells, most notably from Soviet cannons
 
 '''Cons:'''
 
-* Prone to overpressure damage.
-* Only has a crew of 3, a single shot will most likely knock the {{PAGENAME}} out.
-* Only 10 to 12 mm of frontal armour, can get penetrated by .50 cal HMG fire and other small-calibre weapons.
-* Very low ammo count of 20 shells.
-* Terrible brakes, it will take you 20 metres to stop.
-* Wheeled vehicle mobility: any obstacle makes you lose a lot of speed (walls, fences, potholes, hills).
-* Taking smoke shells means having to take less HEAT-FS on the already limited ammo storage.
+* Prone to overpressure damage
+* Only has a crew of 3, a single shot will most likely knock the {{PAGENAME}} out
+* Only 10 to 12 mm of frontal armour, can get penetrated by .50 cal HMG fire and other small-calibre weapons
+* Very low ammo count of 20 shells
+* Terrible brakes, it will take you 20 metres to stop
+* Wheeled vehicle mobility: any obstacle makes you lose a lot of speed (walls, fences, potholes, hills)
+* Taking smoke shells means having to take less HEATFS on the already limited ammo storage
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

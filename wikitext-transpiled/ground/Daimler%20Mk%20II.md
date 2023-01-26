@@ -85,47 +85,7 @@ The  '''Shot Mk.1 APHV/T''' (Armour piercing High velocity/ tracer) shell offers
 
 The '''Shell Mk.1 AP/T''' is one of the only shells with armour-piercing and explosive capacities available for the British tanks. It works well during close quarters, but the use at long distances (500+ m) is not advised.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Shot Mk.1 AP/T || AP || 72 || 68 || 52 || 37 || 27 || 19
-|-
-| Shot Mk.IXB APCBC/T || APCBC || 89 || 86 || 77 || 66 || 57 || 50
-|-
-| Shot Mk.1 APHV/T || AP || 80 || 75 || 58 || 41 || 30 || 21
-|-
-| Shell Mk.1 AP/T || APHE || 66 || 62 || 49 || 36 || 26 || 20
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Shot Mk.1 AP/T || AP || 792 || 1.08 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| Shot Mk.IXB APCBC/T || APCBC || 792 || 1.24 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| Shot Mk.1 APHV/T || AP || 853 || 1.08 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| Shell Mk.1 AP/T || APHE || 792 || 1.08 || 1.2 || 9 || 20.9 || 47° || 60° || 65°
-|-
-|}
+{{:QF 2-pounder (40 mm)/Ammunition|Shot Mk.1 AP/T, Shot Mk.IXB APCBC/T, Shot Mk.1 APHV/T, Shell Mk.1 AP/T}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -144,7 +104,7 @@ The '''Shell Mk.1 AP/T''' is one of the only shells with armour-piercing and exp
 |}
 '''Note''':
 
-* Shells are modeled individually and disappear after having been shot or loaded.
+* Shells are modelled individually and disappear after having been shot or loaded.
 
 ==== Optics ====
 {| class="wikitable" style="text-align:center" width="50%"

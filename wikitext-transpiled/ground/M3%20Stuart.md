@@ -62,11 +62,11 @@ The M3 Stuart can reach a speed of 49 km/h off-road and up to 50 km/h on road. I
 
 The main gun of the M3 Stuart is a 37 mm M5 cannon; this gun is also featured on the [[M2A4]] and [[M3 Lee]]. On the M3 Stuart the M5 can use 2 round types, either M74 (AP) or M51 (APCBC) with the latter being a Tier 1 modification.
 
-The overall firepower is decent. The main cannon has an adequate penetration of about 60 mm which is more than enough to go through most tanks below 2.0, for example, T-26, Pz.III and Pz.35(t). Although the available ammunition is all solid shells, they still make quite a bit of shrapnel when penetrating which is enough to one-shot compact tanks like T-26 and Pz.35(t). For larger tanks like the LVT(A), accurate shots pinpointing the crew are required which may be difficult for new players. The cannon has enough accuracy to precisely knock out the enemy's crew within 500 m. If one shot misses, the reload time of around 3.5 seconds allows quick following shots.
+The overall firepower is decent. The main cannon has an adequate penetration of about 60 mm which is more than enough to go through most tanks below 2.0, for example, T-26, Pz.III and Pz.35(t). Although the available ammunition is all solid shells, they still make quite a bit of shrapnel when penetrating which is enough to knock out compact tanks like T-26 and Pz.35(t). For larger tanks like the LVT(A), accurate shots pinpointing the crew are required which may be difficult for new players. The cannon has enough accuracy to precisely knock out the enemy's crew within 500 m. If one shot misses, the reload time of around 3.5 seconds allows quick following shots.
 
 There is a nice stabiliser for the cannon which is a big advantage when exchanging fire, as it allows you to move out of cover and fire (usually before the enemy) without having to wait for your tank to stop wobbling. The stabiliser should be utilised to maximise your chance of surviving and killing. Note that it only works below 10 km/h, so remember to slow down or it will not stabilise the gun.
 
-Targets like the 15cm sIG 33 B Sfl or M3 GMC (mixed battle) can be quite hard to destroy, as their armour is thin enough to create little shrapnel, but are also thick enough to stop MG bullets. Against them, you can only rely on you fire rate, accuracy and of course your knowledge of their crew position to knock out their crew one by one. Always go for the gunners or drivers first, if you failed then they can always fight back and one-shot you.
+Targets like the 15cm sIG 33 B Sfl or M3 GMC (mixed battle) can be quite hard to destroy, as their armour is thin enough to create little shrapnel, but are also thick enough to stop MG bullets. Against them, you can only rely on you fire rate, accuracy and of course your knowledge of their crew position to knock out their crew one by one. Always go for the gunners or drivers first, if you failed then they can always fight back and knock you out.
 
 The main cannon is only effective in close-quarter combat (usually within 200 m) or against weakly armoured targets since the penetration drops drastically as the range increases; in addition the small calibre makes the shells easy to ricochet. When encountering fairly well armoured tanks like the M13/40 or H.35, try and break their gun barrels first or track them. If they are too far away, pin them on the map and call teammates to help.
 
@@ -87,39 +87,7 @@ The main cannon is only effective in close-quarter combat (usually within 200 m)
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M74 shot || AP || 77 || 74 || 64 || 53 || 44 || 36
-|-
-| M51B1 || APCBC || 86 || 83 || 71 || 59 || 49 || 40
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M74 shot || AP || 870 || 0.87 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| M51B1 || APCBC || 870 || 0.87 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-|}
+{{:M5 (37 mm)/Ammunition|M74 shot, M51B1}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.jpg|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -165,13 +133,13 @@ The machine gun is only powerful enough to destroy poorly protected vehicles suc
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 When driving the M3 Stuart it is best to maintain some distance from enemy vehicles, this is advisable due to the somewhat thin armour and closely packed crew that you have to work with. If you are on a smaller map where keeping distance from enemy vehicles is not possible then it would be a good idea to use buildings and landscape features for cover and to keep your vehicle concealed.
 
-In the majority of cases, you will be able to go through the frontal armour of enemy tanks (best pen is 86 mm) although some vehicles with heavily angled front armour may be able to stop your round being effective, a consistently effective tactic is to flank an enemy vehicle and fire into the side of the crew compartment, aiming near the turret to disable their ability to fire is a good way to use your first shot. Thanks to the quick (at best 2.9s) reload of the M3 you can then put second and third shots into the enemy if needed to finish off their crew.
+In the majority of cases, you will be able to go through the frontal armour of enemy tanks (maximum penetration is 86 mm) although some vehicles with heavily angled front armour may be able to stop your round being effective, a consistently effective tactic is to flank an enemy vehicle and fire into the side of the crew compartment, aiming near the turret to disable their ability to fire is a good way to use your first shot. Thanks to the quick (at best 2.9s) reload of the M3 you can then put second and third shots into the enemy if needed to finish off their crew.
 
 Another aspect worth mentioning here is the mobility of the M3. While not the fastest vehicle at its BR it certainly still has competitive mobility that will allow it to reach capture points quickly or get to a good camping or flanking position before most enemy or friendly vehicles.
 
 '''Enemies worth noting:'''
 
-Specific enemy vehicles that bear mentioning are firstly any Germans with the [[KwK38 (20 mm)|20 mm KwK/FlaK38]] cannon. This gun might be small, but it can have up to 64 mm of pen which is enough to go through the M3 almost anywhere. These guns can also fire 10 rounds at 280 rounds/min before having to reload the clip, meaning that they will very easily take out your crew before you have a chance to respond. To counter, the best chance you have is to angle your frontal armour which can make it difficult for the PzGr 40 rounds to penetrate. The Russian [[T-50]] and [[T-126]] are vehicles you will also see commonly, these have fairly thick and angled frontal armour that will prevent you from easily getting through. These tanks can also carry an APHEBC round that will destroy you in one shot with little difficulty, to counter you should use your speed to attempt to get a side shot into either the turret or engine. If the T-50 cannot move you can outrun its turret and finish it without much difficulty.
+Specific enemy vehicles that bear mentioning are firstly any German vehicle with the 20 mm [[KwK38 (20 mm)|KwK38]] or [[FlaK38 (20 mm)|FlaK38]] cannons, these guns might be small in calibre but can have up to 48 mm of penetration, which is enough to go through the M3A3. Combined with a rate of fore of 280 rounds per minute, and a very short reload time, these guns will very easily take out your crew before you have a chance to respond. To counter these opponents, the best chance you have is to angle your frontal armour which can make it difficult for their PzGr 40 HVAP-T rounds to penetrate. The Russian [[T-50]] and [[T-126]] are vehicles you will also see commonly, these have fairly thick and angled frontal armour that will prevent you from easily getting through. These tanks can also carry an APHEBC round that will destroy you in one shot with little difficulty, to counter you should use your speed to attempt to get a side shot into either the turret or engine. If the T-50 cannot move you can outrun its turret and finish it without much difficulty.
 
 It is likely that the M3 will encounter some rough heavies, like the [[Matilda III]] and the [[B1 bis]]. The best tactic against these types of targets is to use the M3's fast speed, get within 200 m from them and attack, with shooting at point-blank range being the most effective way. Before conducting an attack, check the M3's and the enemy's surroundings to make sure no one will ambush the M3. While charging, use the M3's quick turns to suddenly change direction to avoid being shot if they are aiming and firing at the M3. Once the tank is at the ideal distance, manoeuvre so that the gun is perpendicular to their armour. Do not shoot if the enemy is angling! The small calibre 37 mm gun is very likely to bounce off or not penetrate against sloped armour.
 
@@ -186,16 +154,16 @@ For the B1, either aim for the near-vertical frontal armour plate at the right s
 
 '''Pros:'''
 
-* Great cannon with good penetration, excellent rate of fire and gun depression; it can effectively penetrate common opponents like the [[Pz.II (Disambiguation)|Pz.II]] and [[Chi-Ha (Family)|Chi-Ha]], as well as heavy targets like the [[B1 bis]] or [[Matilda III]]
-* Excellent acceleration, top speed and turning ability on all terrains; easily outruns slower opponents like the [[Pz.III (Disambiguation)|Pz.III]]
+* Great cannon with good penetration, excellent rate of fire and gun depression; it can effectively penetrate common opponents like the [[Pz.II (Family)|Pz.II]] and [[Chi-Ha (Family)|Chi-Ha]], as well as heavy targets like the [[B1 bis]] or [[Matilda III]]
+* Excellent acceleration, top speed and turning ability on all terrains; easily outruns slower opponents like the [[Panzer III (Family)|Pz.III]]
 * Access to a vertical stabiliser which most tanks don't have, it is an advantage in close-quarter encounters
-* Respectable frontal armour that, if angled, might bounce some shells from a distance (eg. Japanese 37 mm/German 20 mm)
+* Respectable frontal armour that, if angled, might bounce some shells from a distance (e.g. Japanese 37 mm/German 20 mm)
 * Small turret profile makes it harder to get hit when hull-down
 * Empty space below the turret crew can absorb poorly aimed shots, they tend to not do much damage
 
 '''Cons:'''
 
-* Weak armour against high-penetration shells like 50 mm Kwk 39 or 76 mm F-34
+* Weak armour against shells from high-penetrating cannons like the 50 mm KwK39 or the 76 mm F-34
 * Its shells do not have explosive filler, severely limiting the post-penetration effect especially against spacious tanks like the [[LVT(A)(1)]]
 * Inefficient brakes when trying to stop the tank at full speed
 * Hull is fairly tall for a light tank and the crews are closely packed, reducing its survivability

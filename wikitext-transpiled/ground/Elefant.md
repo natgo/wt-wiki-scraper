@@ -149,11 +149,17 @@ The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]
 
 '''Pros:'''
 
-*
+* Long 88 mm gun
+* Good frontal armour
+* Good forward and reverse speed
+* Defensive MG, great for taking out open-topped vehicles
 
 '''Cons:'''
 
-*
+* Casemate layout means, if the tracks are both disabled, or your driver is knocked out, or the engine is disabled, you're easily flanked and destroyed
+* Weak side armour
+* Defensive MG has a limited traverse: it can only target enemies in the front
+* Rifle-calibre MG is only useful for taking out open-topped vehicles or pinging targets
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

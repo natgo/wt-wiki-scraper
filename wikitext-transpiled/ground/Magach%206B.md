@@ -71,7 +71,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 |}
 
 ==== Ammunition ====
-{{:Sharir (105 mm)/Ammunition|M152|M156|M111|M416}}
+{{:Sharir (105 mm)/Ammunition|M152, M156, M111, M416}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Magach_6A.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -94,7 +94,6 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
 {{Specs-Tank-Weapon|4}}
-{{Specs-Tank-Weapon|5}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|M2HB (12.7 mm)|FN MAG 60-40 (7.62 mm)}}
 
@@ -115,9 +114,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 |-
 | Coaxial || 6,000 (200) || 600 || N/A || N/A
 |-
-| Pintle (loader) || 1,800 (200) || 600 || -5°/+50° || -120°/+60°
+| Pintle (loader) || 1,800 (200) || 600 || -10°/+50° || ±120°
 |-
-| Pintle (commander) || 1,800 (200) || 600 || -5°/+50° || -60°/+120°
+| Pintle (commander) || 1,800 (200) || 600 || -10°/+60° || ±180°
 |-
 |}
 

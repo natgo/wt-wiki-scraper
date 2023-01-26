@@ -90,51 +90,11 @@ Due to the low weight of the car, any enemy can ram the Concept 3 to prevent it 
 ==== Ammunition ====
 While lacking the APDS rounds of the [[Comet I]], the Concept 3's rounds are pretty impressive for its BR, capable of penetrating the thickest of armour, including the dreaded [[KV-1 (ZiS-5)]]. The post penetration damage won't be as good as an APHE round, but it is quite acceptable.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Shot Mk.6 || AP || 137 || 134 || 123 || 111 || 100 || 91
-|-
-| Shell Mk.1 || HE || 9 || 9 || 9 || 9 || 9 || 9
-|-
-| Shot Mk.4 || APC || 137 || 134 || 123 || 111 || 100 || 91
-|-
-| Shot Mk.8 || APCBC || 152 || 149 || 137 || 124 || 112 || 101
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Shot Mk.6 || AP || 754 || 7.71 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| Shell Mk.1 || HE || 754 || 6.98 || 0 || 0.1 || 580 || 79° || 80° || 81°
-|-
-| Shot Mk.4 || APC || 754 || 7.71 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| Shot Mk.8 || APCBC || 754 || 7.71 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-|}
+{{:OQF Mk.II (77 mm)/Ammunition|Shot Mk.6, Shell Mk.1, Shot Mk.4, Shot Mk.8}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated: 2.7.0.109''' -->
+<!-- '''Last updated: 2.23.0.58''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo

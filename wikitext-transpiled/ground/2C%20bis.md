@@ -75,35 +75,7 @@ The 2C bis has a 155 mm Schneider howitzer in its two man cast turret. Its veloc
 |}
 
 ==== Ammunition ====
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Mle1915 || HE || 58 || 58 || 58 || 58 || 58 || 58
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (kg)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Mle1915 || HE || 240 || 43.2 || 0 || 0.1 || 7.65 || 79° || 80° || 81°
-|-
-|}
+{{:Schneider 155 C (155 mm)/Ammunition|Mle1915}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
@@ -176,6 +148,9 @@ One 2C, No. 99 "Champagne", was given a new two-man cast turret with a 155 mm ho
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=fr_char_2c_bis Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|QmaE2bomv14|'''Giant Derp Land Battleship - 155mm 70 ton Monster''' - ''PhlyDaily''|vdHmTGTPa20|'''Trenchwarmer - Char 2C''' - ''Tank Encyclopedia''}}

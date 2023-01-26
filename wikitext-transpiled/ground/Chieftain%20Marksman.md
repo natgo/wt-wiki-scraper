@@ -99,32 +99,14 @@ The Marksman can take 460 shells for the main belts and 40 for secondary, which 
 
 Note that the DM23 APDS belt can only be a secondary belt. There is also a difference in effective range between normal belt and APDS belt. For some reason, AP-I shells can only fly up to 3km away and even radar will refuse to help aiming them past that range. This does not happen with APDS, allowing to snipe even as far as 5 km, at which range even radar itself is barely capable of keeping up the lock on.
 
-Rearming of the belts takes 20 seconds, but it can only do two belts at once (regardless of the belt type). The implication is, if any one cannon overheated and the belts are no longer homogenous, you can get both belt types for that one gun at once, but the tank will be stuck using just one cannon from then on.
+Rearming of the belts takes 20 seconds, but it can only do two belts at once (regardless of the belt type). The implication is, if any one cannon overheated and the belts are no longer homogeneous, you can get both belt types for that one gun at once, but the tank will be stuck using just one cannon from then on.
 
 * '''Default:''' {{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
 * '''DM11A1:''' {{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}{{-}}{{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}
 * '''DM13:''' {{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}{{-}}{{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}{{-}}{{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
 * '''DM23:''' {{Annotation|APDS|Armour-piercing discarding sabot}}
 
-'''Note''': Penetration statistics listed for the most powerful shell in the belt. HEI-T does no damage to armoured targets, but critically damages planes.
-
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 68 || 66 || 57 || 47 || 39 || 32
-|-
-| DM11A1 || 68 || 66 || 57 || 47 || 39 || 32
-|-
-| DM13 || 68 || 66 || 57 || 47 || 39 || 32
-|-
-| DM23 || 127 || 125 || 118 || 110 || 102 || 95
-|-
-|}
+{{:Oerlikon KDA (35 mm)/Ammunition|HEI-T*, API-T*, APDS}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

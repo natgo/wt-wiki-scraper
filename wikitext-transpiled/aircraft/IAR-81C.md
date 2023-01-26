@@ -184,7 +184,7 @@ Even prior to Romania's entry into WW2 in 1941, the government was keen on moder
 * [https://live.warthunder.com/feed/camouflages/?vehicle=iar_81c Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|b6qqrQqgUZw|'''The Shooting Range #99''' - ''Pages of History'' section at 05:27 discusses the IAR-80 & 81.|CUGEtGFN4qc|'''"Why it's currently the best plane in Italian tech tree? IAR-81C"''' by ''HowToPlay1337''|Vb8MTRtg5Cw|'''"IAR-81C - Thumbs Up From Me"''' by ''Napalmratte''|NgeaBXpaYd8|'''"Forgotten Aircraft: The I.A.R 80 and I.A.R 81"''' by ''Wartime History''}}
+{{Youtube-gallery|Q7WJfgt3LuY|'''The Shooting Range #337''' - ''Pages of History'' section at 03:40 relates an airfight between P-38s and IAR-81s.|b6qqrQqgUZw|'''The Shooting Range #99''' - ''Pages of History'' section at 05:27 discusses the IAR-80 & 81.|CUGEtGFN4qc|'''"Why it's currently the best plane in Italian tech tree? IAR-81C"''' by ''HowToPlay1337''|Vb8MTRtg5Cw|'''"IAR-81C - Thumbs Up From Me"''' by ''Napalmratte''|NgeaBXpaYd8|'''"Forgotten Aircraft: The I.A.R 80 and I.A.R 81"''' by ''Wartime History''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

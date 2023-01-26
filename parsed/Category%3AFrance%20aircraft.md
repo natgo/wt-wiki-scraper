@@ -220,7 +220,6 @@
 {{Tree-Arrow}}
 {{Tree-Unit|mirage_f1c}}
 {{Tree-Arrow}}
-{{Tree-Unit|mirage_2000c_s5}}
 |
 {{Tree-Unit|f-8e_fn}}
 |
@@ -228,13 +227,14 @@
 {{Tree-Unit|mirage_5f}}
 {{Tree-Arrow}}
 {{Tree-Unit|mirage_f1ct}}
-{{Tree-Arrow|2}}
+{{Tree-Arrow|1}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|mirage_f1c_200}}
 |
 
 {{Tree-Line|VIII Rank}}
 |
+{{Tree-Unit|mirage_2000c_s5}}
 {{Tree-Skip}}
 |
 {{Tree-Skip}}

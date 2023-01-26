@@ -101,57 +101,7 @@ The Challenger bears the 120 mm L11A5, an updated but essentially identical vers
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Shot L23 || APFSDS || 410 || 408 || 405 || 400 || 390 || 380
-|-
-| Shell L31A7 || HESH || 152 || 152 || 152 || 152 || 152 || 152
-|-
-| Shot L23A1 || APFSDS || 396 || 394 || 387 || 376 || 367 || 357
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Shot L23 || APFSDS || 1,535 || 3.89 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-| Shell L31A7 || HESH || 670 || 17.34 || 0.1 || 4 || 6,530 || 73° || 77° || 80°
-|-
-| Shot L23A1 || APFSDS || 1,535 || 3.89 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive mass<br>(TNT equivalent) (g)
-|-
-| L34 || 670 || 17.1 || 20 || 5 || 25 || 50
-|-
-|}
+{{:L11A5 (120 mm)/Ammunition|Shot L23, Shell L31A7, Shot L23A1, L34}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

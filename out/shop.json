@@ -4137,13 +4137,7 @@
           { "name": "cn_t_34_85_zis_53_no215", "rank": 4, "reqAir": "" },
           { "name": "cn_is_2_1943_no402", "rank": 4, "reqAir": "" },
           { "name": "cn_ztz_59a", "rank": 5, "reqAir": "" },
-          {
-            "name": "cn_type_69_2a",
-            "rank": 5,
-            "reqAir": "",
-            "gift": true,
-            "hidden": true
-          },
+          { "name": "cn_type_69_2a", "rank": 5, "reqAir": "", "gift": true },
           {
             "name": "cn_object_122tm",
             "rank": 6,
@@ -4151,13 +4145,7 @@
             "clanVehicle": true
           },
           { "name": "cn_wma_301", "rank": 6, "reqAir": "" },
-          {
-            "name": "cn_type_69_2g",
-            "rank": 6,
-            "reqAir": "",
-            "gift": true,
-            "hidden": true
-          },
+          { "name": "cn_type_69_2g", "rank": 6, "reqAir": "", "gift": true },
           { "name": "cn_ztz_96a_prot", "rank": 6, "reqAir": "", "gift": true }
         ],
         [
@@ -4168,13 +4156,7 @@
             "reqAir": "",
             "hidden": true
           },
-          {
-            "name": "cn_t_62",
-            "rank": 6,
-            "reqAir": "",
-            "gift": true,
-            "hidden": true
-          },
+          { "name": "cn_t_62", "rank": 6, "reqAir": "" },
           { "name": "cn_ztz_96a_race", "rank": 6, "reqAir": "", "hidden": true }
         ]
       ]
@@ -4665,6 +4647,14 @@
             "gift": true,
             "hidden": true,
             "event": "winter_2022"
+          },
+          {
+            "name": "bf-109f-4_hungary",
+            "rank": 3,
+            "reqAir": "",
+            "gift": true,
+            "hidden": true,
+            "event": "battlepass_season10"
           }
         ]
       ]
@@ -4790,6 +4780,14 @@
             "event": "battlepass_season4"
           },
           { "name": "fr_somua_sm", "rank": 4, "reqAir": "", "gift": true },
+          {
+            "name": "fr_amx_50_1950",
+            "rank": 4,
+            "reqAir": "",
+            "gift": true,
+            "hidden": true,
+            "event": "battlepass_season10"
+          },
           {
             "name": "fr_amx_50_surblinde",
             "rank": 5,
@@ -5139,7 +5137,7 @@
           { "name": "sw_strv_m39", "rank": 1, "reqAir": "" },
           { "name": "sw_vickers_mk_e_45", "rank": 1, "reqAir": "" },
           { "name": "sw_strv_m41_s1", "rank": 2, "reqAir": "" },
-          { "name": "sw_sav_fm48", "rank": 2, "reqAir": "" },
+          { "name": "sw_sav_fm48", "rank": 2, "reqAir": "", "hidden": true },
           { "name": "sw_strv_81_rb52", "rank": 4, "reqAir": "" },
           { "name": "sw_strv_103_0", "rank": 5, "reqAir": "" },
           { "name": "sw_leopard_1a5no", "rank": 6, "reqAir": "" },

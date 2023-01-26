@@ -185,7 +185,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The F-84F has the somewhat common base armament of 6 x M3 Browning machine guns. This combined with its large ammo capacity makes for an aircraft well-suited to dogfighting. Achieving air superiority should be the primary task for all F-84F pilots, the F-84F also excels in a support role, where most of enemies can't simply run away from it. In air battles, it has access to an air spawn, which means that you are able to engage enemies more quickly, giving the F-84F a very aggressive type of playstyle. It is recommended to bring minimal fuel to boost its acceleration and climb rate, do note that bringing a lot of payload will seriously affect your overall mobility, the more payload the heavier, and slower, the aircraft is. If you are inclined to bring a lot of payload, make sure you dispose of it before entering a dogfight, as more often than not you will be knocked out as your flight characteristics won't be on par with most enemies you'll face. When the first enemies engage with allies, go over them and find targets with low energy states and destroy them. Do not chase lone planes, as although the enemy might look like easy 1v1 victory, the F-84F's low top speed makes it very hard to catch somebody. Try not to engage in a prolonged dogfight, because the F-84F has rather poor energy retention and when caught slow even good acceleration won't save the plane. In a prolonged turn fight, one may find themselves losing even against jets like the MiG-15. Another thing is that you have an adequate amount of munitions, so in theory you could stay in combat for a long time if you time your shots and selectively engage enemies you have the edge over. Destroying bombers and attackers is also a feasible option thanks to the powerful armament.
+The F-84F has the somewhat common base armament of 6 x M3 Browning machine guns. This combined with its large ammo capacity makes for an aircraft well-suited to dogfighting. Achieving air superiority should be the primary task for all F-84F pilots, the F-84F also excels in a support role, where most of enemies can't simply run away from it. In air battles, it has access to an air spawn, which means that you are able to engage enemies more quickly, giving the F-84F a very aggressive type of playstyle. It is recommended to bring minimal fuel to boost its acceleration and climb rate, do note that bringing a lot of payload will seriously affect your overall mobility, the more payload the heavier, and slower, the aircraft is. If you are inclined to bring a lot of payload, make sure you dispose of it before entering a dogfight, as more often than not you will be knocked out as your flight characteristics won't be on par with most enemies you'll face. When the first enemies engage with allies, go over them and find targets with low energy states and destroy them. Do not chase lone planes, as although the enemy might look like an easy 1-vs-1 victory, the F-84F's low top speed makes it very hard to catch somebody. Try not to engage in a prolonged dogfight, because the F-84F has rather poor energy retention and when caught slow even good acceleration won't save the plane. In a prolonged turn fight, one may find themselves losing even against jets like the MiG-15. Another thing is that you have an adequate amount of munitions, so in theory you could stay in combat for a long time if you time your shots and selectively engage enemies you have the edge over. Destroying bombers and attackers is also a feasible option thanks to the powerful armament.
 
 The aircraft can also be employed in ground strike or destruction of enemy bases with its more than sufficient maximum bomb load of 4 x 1,000 lb Mk.83 bombs and somewhat less impressive selection of 24 HVAR rockets.
 
@@ -237,6 +237,7 @@ The F-84F was also widely exported to NATO members. Chiefly among them were Germ
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f-84f_italy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -245,6 +246,7 @@ The F-84F was also widely exported to NATO members. Chiefly among them were Germ
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[F-84 (Family)]]
 
 == External links ==

@@ -73,43 +73,7 @@ The Büssing NAG L8V/36TR is an engine capable of delivering 155 horsepower and 
 The main armament of the Toldi IIA is a 40 mm 37/42 cannon that can fire 3 different types of projectiles, HE, APHEBC, APBC. It is recommended to use the APBC 43M shell as it is the most powerful: at its battle rating is an excellent shell.
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 36M || APHEBC || 63 || 61 || 52 || 42 || 35 || 29
-|-
-| 39M || HE || 3 || 3 || 3 || 3 || 3 || 3
-|-
-| 43M || APBC || 72 || 69 || 60 || 50 || 42 || 35
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 36M || APHEBC || 800 || 0.97 || 1.2 || 9 || 15 || 48° || 63° || 71°
-|-
-| 39M || HE || 800 || 0.97 || 0 || 0.1 || 63 || 79° || 80° || 81°
-|-
-| 43M || APBC || 800 || 1.05 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-|}
+{{:37/42M (40 mm)/Ammunition|36M, 39M, 43M}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

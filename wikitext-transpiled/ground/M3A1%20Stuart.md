@@ -1,10 +1,10 @@
 {{About
 | about = American light tank '''{{PAGENAME}}'''
 |other
-|usage-1 = other uses
-|link-1 = M3 (Disambiguation)
-|usage-2 = other vehicles of the family
-|link-2 = M3 Stuart (Family)
+|usage-1 = other versions
+|link-1 = M3 Stuart (Family)
+|usage-2 = other uses
+|link-2 = M3 (Disambiguation)
 }}
 {{Specs-Card
 |code=us_m3a1_stuart
@@ -32,9 +32,9 @@ Being a light tank the M3A1 has fairly thin armour, it can generally protect aga
 |-
 ! Armour !! Front !! Sides !! Rear !! Roof
 |-
-| Hull || 38.1 mm (18°) ''Upper plate'' <br> 25.4 mm ''Crew compartment sides'' <br> 15.8 mm (70°) ''Lower glacis'' <br> 44.4 mm (cylindrical) ''Transmission housing''  || 25.4 mm || 12.7 mm ''Upper plate'' <br> 25.4 mm (20°) ''Lower plate'' || 15.8 mm (20°) ''Front glacis'' <br> 12.7 mm
+| Hull || 38.1 mm (18°) ''Upper plate'' <br> 25.4 mm ''Crew compartment sides'' <br> 15.8 mm (70°) ''Lower glacis'' <br> 44.4 mm (cylindrical) ''Transmission housing'' || 25.4 mm || 12.7 mm ''Upper plate'' <br> 25.4 mm (20°) ''Lower plate'' || 15.8 mm (20°) ''Front glacis'' <br> 12.7 mm
 |-
-| Turret || 38.1 mm (6°) ''Turret front'' <br> 50.8 mm (spherical) ''Gun mantlet''  || colspan="2" | 31.75 mm (cylindrical) || 12.7 mm (15°) ''Front'' <br> 12.7 mm ''Rear''
+| Turret || 38.1 mm (6°) ''Turret front'' <br> 50.8 mm (spherical) ''Gun mantlet'' || colspan="2" | 31.75 mm (cylindrical) || 12.7 mm (15°) ''Front'' <br> 12.7 mm ''Rear''
 |-
 |}
 '''Notes:'''
@@ -83,39 +83,7 @@ While it lacks the post-penetration damage to disable most enemies in one shot, 
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M74B1 || AP || 79 || 76 || 65 || 54 || 45 || 37
-|-
-| M51B1 || APCBC || 87 || 84 || 73 || 60 || 50 || 41
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M74B1 || AP || 883 || 0.87 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| M51B1 || APCBC || 883 || 0.87 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-|}
+{{:M6 (37 mm)/Ammunition|M74B1, M51B1}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.jpg|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -128,7 +96,7 @@ While it lacks the post-penetration damage to disable most enemies in one shot, 
 ! 3rd<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''106''' || 71&nbsp;''(+35)'' || 36&nbsp;''(+70)'' || 1&nbsp;''(+105)'' ||  No
+| '''106''' || 71&nbsp;''(+35)'' || 36&nbsp;''(+70)'' || 1&nbsp;''(+105)'' || No
 |-
 |}
 
@@ -160,7 +128,7 @@ To take down enemy vehicles it is advisable to destroy both their turret and eng
 
 '''Enemies worth noting:'''
 
-Specific enemy vehicles that bear mentioning are firstly any Germans with the [[KwK38 (20 mm)|20 mm KwK/FlaK38]] cannon, this gun might be small but can have up to 64 mm of pen, which is enough to go through the M3A1 almost anywhere. These guns can also fire 10 rounds at 280 rounds/min before having to reload the clip, meaning that they will very easily take out your crew before you have a chance to respond. To counter, the best chance you have is to angle your frontal armour which can make it difficult for the PzGr 40 rounds to penetrate. The Russian [[T-50]] and [[T-126]] are vehicles you will also see commonly, these have fairly thick and angled frontal armour that will prevent you from easily getting through. These tanks can also carry an APHEBC round that will destroy you in one shot with little difficulty, to counter you should use your speed to attempt to get a side shot into either the turret or engine. If the T-50 cannot move you can outrun its turret and finish it without much difficulty.
+Specific enemy vehicles that bear mentioning are firstly any Germans with the 20 mm [[KwK38 (20 mm)|KwK38]] or [[FlaK38 (20 mm)|FlaK38]] cannons, these guns might be small in calibre but can have up to 48 mm of penetration, which is enough to go through the M3A3. Combined with a rate of fore of 280 rounds per minute, and a very short reload time, these guns will very easily take out your crew before you have a chance to respond. To counter these opponents, the best chance you have is to angle your frontal armour which can make it difficult for their PzGr 40 HVAP-T rounds to penetrate. The Russian [[T-50]] and [[T-126]] are vehicles you will also see commonly, these have fairly thick and angled frontal armour that will prevent you from easily getting through. These tanks can also carry an APHEBC round that will destroy you in one shot with little difficulty, to counter you should use your speed to attempt to get a side shot into either the turret or engine. If the T-50 cannot move you can outrun its turret and finish it without much difficulty.
 
 It is likely that the M3A1 will encounter some rough heavies, like the [[Matilda III]] and the [[B1 bis]]. The best tactic against these types of targets is to use the M3A1's fast speed, get within 200 m from them and attack, with shooting at point-blank range being the most effective way. Before conducting an attack, check the M3A1's and the enemy's surroundings to make sure no one will ambush the M3A1. While charging, use the M3A1's quick turns to suddenly change direction to avoid being shot if they are aiming and firing at the M3A1. Once the tank is at the ideal distance, manoeuvre so that the gun is perpendicular to their armour. Do not shoot if the enemy is angling! The small calibre 37 mm gun is very likely to bounce off or not penetrate against sloped armour.
 
@@ -174,16 +142,16 @@ For the B1, either aim for the near-vertical frontal armour plate at the right s
 
 '''Pros:'''
 
-* Great cannon with good penetration, excellent rate of fire and gun depression; it can effectively penetrate common opponents like the [[Pz.II (Disambiguation)|Pz.II]] and [[Chi-Ha (Family)|Chi-Ha]], as well as heavy targets like the [[B1 bis]] or [[Matilda III]]
-* Excellent acceleration, top speed and turning ability on all terrains; easily outruns slower opponents like the [[Pz.III (Disambiguation)|Pz.III]]
+* Great cannon with good penetration, excellent rate of fire and gun depression; it can effectively penetrate common opponents like the [[Pz.II (Family)|Pz.II]] and [[Chi-Ha (Family)|Chi-Ha]], as well as heavy targets like the [[B1 bis]] or [[Matilda III]]
+* Excellent acceleration, top speed and turning ability on all terrains; easily outruns slower opponents like the [[Panzer III (Family)|Pz.III]]
 * Access to a vertical stabiliser which most tanks don't have, it is an advantage in close quarter encounters
-* Respectable frontal armour that, if angled, might bounce some shells from a distance (eg. Japanese 37 mm/German 20 mm)
+* Respectable frontal armour that, if angled, might bounce some shells from a distance (e.g. Japanese 37 mm/German 20 mm)
 * Small turret profile makes it harder to get hit when hull-down
 * Empty space below the turret crew can absorb poorly aimed shots, they tend to not do much damage
 
 '''Cons:'''
 
-* Weak armour against high-penetration shells like 50 mm Kwk 39 or 76 mm F-34
+* Weak armour against high-penetration shells like 50 mm KwK39 or 76 mm F-34
 * Its shells do not have explosive filler, severely limiting the post-penetration effect especially against spacious tanks like the [[LVT(A)(1)]]
 * Inefficient brakes when trying to stop the tank at full speed
 * Hull is fairly tall for a light tank and the crews are closely packed, reducing its survivability

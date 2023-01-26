@@ -78,39 +78,7 @@ When combating this tank, avoid its 75 mm gun by flanking the vehicle, then get 
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M74B1 || AP || 79 || 76 || 65 || 54 || 45 || 37
-|-
-| M51B1 || APCBC || 87 || 84 || 73 || 60 || 50 || 41
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M74B1 || AP || 883 || 0.87 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| M51B1 || APCBC || 883 || 0.87 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-|}
+{{:M5 (37 mm)/Ammunition|M74B1, M51B1_Lee}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_M3_Lee.png|right|thumb|400px|[[Ammo racks]] of the M3 Lee.]]
@@ -163,57 +131,7 @@ When combating this tank, avoid its 75 mm gun by flanking the vehicle, then get 
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M48 shell || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-| M72 shot || AP || 84 || 82 || 73 || 62 || 53 || 46
-|-
-| M61 shot || APCBC || 97 || 94 || 84 || 73 || 63 || 55
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M48 shell || HE || 448 || 6.3 || 0 || 0.1 || 666 || 79° || 80° || 81°
-|-
-| M72 shot || AP || 588 || 6.3 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| M61 shot || APCBC || 588 || 6.79 || 1.2 || 14 || 63.7 || 48° || 63° || 71°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive mass<br>(TNT equivalent) (g)
-|-
-| M89 || 259 || 3 || 13 || 5 || 20 || 50
-|-
-|}
+{{:M2 (75 mm)/Ammunition|M48 shell, M72 shot, M61 shot, M89}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_M3_Lee.png|right|thumb|400px|[[Ammo racks]] of the M3 Lee.]]
