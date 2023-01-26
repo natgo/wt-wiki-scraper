@@ -24,6 +24,7 @@
   "dependencies": {
     "axios": "1.2.2",
     "decomment": "0.9.5",
-    "linkedom": "0.14.21"
+    "linkedom": "0.14.21",
+    "zod": "^3.20.2"
   }
 }

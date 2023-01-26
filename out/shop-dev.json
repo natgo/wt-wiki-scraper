@@ -4,6 +4,7 @@
       "col_normal": 5,
       "min_rank": 1,
       "max_rank": 7,
+      "needVehicles": [6, 6, 6, 6, 5, 5],
       "range": [
         [
           { "name": "us_m2a4", "rank": 1 },
@@ -343,6 +344,7 @@
       "col_normal": 2,
       "min_rank": 5,
       "max_rank": 7,
+      "needVehicles": [0, 0, 0, 0, 1, 1],
       "range": [
         [
           { "name": "ah_1g", "rank": 5 },
@@ -392,6 +394,7 @@
       "col_normal": 5,
       "min_rank": 1,
       "max_rank": 8,
+      "needVehicles": [6, 6, 6, 6, 5, 5, 5],
       "range": [
         [
           { "name": "p-26a_34_m2", "rank": 1 },
@@ -909,6 +912,7 @@
       "col_normal": 5,
       "min_rank": 1,
       "max_rank": 7,
+      "needVehicles": [6, 6, 6, 6, 5, 5],
       "range": [
         [
           { "name": "germ_sdkfz_221_s_pz_b_41", "rank": 1 },
@@ -1355,6 +1359,7 @@
       "col_normal": 2,
       "min_rank": 5,
       "max_rank": 7,
+      "needVehicles": [0, 0, 0, 0, 1, 1],
       "range": [
         [
           { "name": "sa_313b", "rank": 5 },
@@ -1380,6 +1385,7 @@
       "col_normal": 5,
       "min_rank": 1,
       "max_rank": 7,
+      "needVehicles": [6, 6, 6, 6, 5, 5, 5],
       "range": [
         [
           { "name": "bf-109b_2", "rank": 1, "reqAir": "" },
@@ -1915,6 +1921,7 @@
       "col_normal": 5,
       "min_rank": 1,
       "max_rank": 7,
+      "needVehicles": [6, 6, 6, 6, 5, 5],
       "range": [
         [
           { "name": "ussr_bt_5", "rank": 1 },
@@ -2374,6 +2381,7 @@
       "col_normal": 2,
       "min_rank": 5,
       "max_rank": 7,
+      "needVehicles": [0, 0, 0, 0, 1, 1],
       "range": [
         [
           { "name": "mi_4av", "rank": 5 },
@@ -2404,6 +2412,7 @@
       "col_normal": 5,
       "min_rank": 1,
       "max_rank": 8,
+      "needVehicles": [6, 6, 6, 6, 5, 5, 5],
       "range": [
         [
           {
@@ -2956,6 +2965,7 @@
       "col_normal": 5,
       "min_rank": 1,
       "max_rank": 7,
+      "needVehicles": [6, 6, 6, 6, 5, 5],
       "range": [
         [
           { "name": "uk_a_13_mk1", "rank": 1 },
@@ -3230,6 +3240,7 @@
       "col_normal": 1,
       "min_rank": 5,
       "max_rank": 7,
+      "needVehicles": [0, 0, 0, 0, 1, 1],
       "range": [
         [
           { "name": "scout_ah_mk1", "rank": 5 },
@@ -3247,6 +3258,7 @@
       "col_normal": 5,
       "min_rank": 1,
       "max_rank": 8,
+      "needVehicles": [6, 6, 6, 6, 5, 5, 3],
       "range": [
         [
           {
@@ -3604,6 +3616,7 @@
       "col_normal": 4,
       "min_rank": 1,
       "max_rank": 7,
+      "needVehicles": [6, 6, 6, 6, 5, 4],
       "range": [
         [
           { "name": "jp_type_95_ha_go", "rank": 1 },
@@ -3717,6 +3730,7 @@
       "col_normal": 1,
       "min_rank": 5,
       "max_rank": 7,
+      "needVehicles": [0, 0, 0, 0, 1, 1],
       "range": [
         [
           { "name": "uh_1b_japan", "rank": 5 },
@@ -3731,6 +3745,7 @@
       "col_normal": 5,
       "min_rank": 1,
       "max_rank": 8,
+      "needVehicles": [6, 6, 6, 6, 5, 3, 1],
       "range": [
         [
           { "name": "a5m4", "rank": 1, "reqAir": "" },
@@ -4014,6 +4029,7 @@
       "col_normal": 4,
       "min_rank": 1,
       "max_rank": 7,
+      "needVehicles": [5, 6, 6, 6, 5, 5],
       "range": [
         [
           { "name": "cn_m8_greyhound", "rank": 1 },
@@ -4146,6 +4162,7 @@
       "col_normal": 2,
       "min_rank": 5,
       "max_rank": 7,
+      "needVehicles": [0, 0, 0, 0, 1, 1],
       "range": [
         [
           { "name": "z_11wa", "rank": 5 },
@@ -4162,6 +4179,7 @@
       "col_normal": 4,
       "min_rank": 1,
       "max_rank": 8,
+      "needVehicles": [6, 6, 6, 6, 5, 5, 5],
       "range": [
         [
           { "name": "gladiator_mk1_china", "rank": 1 },
@@ -4281,6 +4299,7 @@
       "col_normal": 4,
       "min_rank": 1,
       "max_rank": 7,
+      "needVehicles": [6, 6, 6, 4, 5, 5],
       "range": [
         [
           { "name": "it_ab_41", "rank": 1 },
@@ -4438,6 +4457,7 @@
       "col_normal": 1,
       "min_rank": 5,
       "max_rank": 7,
+      "needVehicles": [0, 0, 0, 0, 1, 1],
       "range": [
         [
           { "name": "ab_205a_1", "rank": 5 },
@@ -4460,6 +4480,7 @@
       "col_normal": 4,
       "min_rank": 1,
       "max_rank": 7,
+      "needVehicles": [6, 6, 6, 5, 5, 5, 1],
       "range": [
         [
           {
@@ -4629,6 +4650,7 @@
       "col_normal": 5,
       "min_rank": 1,
       "max_rank": 7,
+      "needVehicles": [6, 6, 6, 6, 4, 5],
       "range": [
         [
           { "name": "fr_amc_34", "rank": 1 },
@@ -4758,6 +4780,7 @@
       "col_normal": 2,
       "min_rank": 5,
       "max_rank": 7,
+      "needVehicles": [0, 0, 0, 0, 1, 1],
       "range": [
         [
           { "name": "h_34_france", "rank": 5 },
@@ -4783,6 +4806,7 @@
       "col_normal": 4,
       "min_rank": 1,
       "max_rank": 7,
+      "needVehicles": [6, 6, 6, 6, 5, 5, 5],
       "range": [
         [
           {
@@ -5008,6 +5032,7 @@
       "col_normal": 5,
       "min_rank": 1,
       "max_rank": 7,
+      "needVehicles": [6, 6, 5, 6, 5, 5],
       "range": [
         [
           { "name": "sw_strv_m31", "rank": 1, "reqAir": "" },
@@ -5129,6 +5154,7 @@
       "col_normal": 1,
       "min_rank": 5,
       "max_rank": 6,
+      "needVehicles": [0, 0, 0, 0, 1, 1],
       "range": [
         [
           { "name": "hkp3c", "rank": 5 },
@@ -5144,6 +5170,7 @@
       "col_normal": 4,
       "min_rank": 1,
       "max_rank": 8,
+      "needVehicles": [6, 4, 3, 5, 5, 3, 3],
       "range": [
         [
           { "name": "gladiator_j8a", "rank": 1, "reqAir": "" },
@@ -5236,6 +5263,7 @@
       "col_normal": 3,
       "min_rank": 4,
       "max_rank": 7,
+      "needVehicles": [0, 0, 0, 5, 5, 5],
       "range": [
         [
           { "name": "il_m_51", "rank": 4 },
@@ -5294,6 +5322,7 @@
       "col_normal": 2,
       "min_rank": 5,
       "max_rank": 7,
+      "needVehicles": [0, 0, 0, 0, 1, 1],
       "range": [
         [
           { "name": "ah_1g_iaf", "rank": 5 },
@@ -5310,6 +5339,7 @@
       "col_normal": 3,
       "min_rank": 4,
       "max_rank": 8,
+      "needVehicles": [0, 0, 0, 5, 5, 5, 3],
       "range": [
         [
           { "name": "spitfire_mk9c_iaf", "rank": 4, "reqAir": "" },

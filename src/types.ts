@@ -63,18 +63,8 @@ export interface Economy {
   spare: Spare;
 }
 
-export enum VehicleCountry {
-  country_usa = "country_usa",
-  country_germany = "country_germany",
-  country_ussr = "country_ussr",
-  country_britain = "country_britain",
-  country_japan = "country_japan",
-  country_china = "country_china",
-  country_italy = "country_italy",
-  country_france = "country_france",
-  country_sweden = "country_sweden",
-  country_israel = "country_israel",
-}
+export type VehicleCountry = "country_usa"| "country_germany"| "country_ussr"| "country_britain"| "country_japan"| "country_china"| "country_italy"| "country_france"| "country_sweden"| "country_israel";
+
 
 export interface Spare {
   value: number;
@@ -2497,6 +2487,7 @@ export interface FinalShopRange {
   col_normal: number;
   min_rank: number;
   max_rank: number;
+  needVehicles:number[];
   range: Array<FinalShopItem | FinalShopGroup>[];
 }
 
