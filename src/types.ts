@@ -670,6 +670,7 @@ export interface AirVehicle extends BaseVehicle {
   cockpit: Cockpit;
   modifications: Record<string, AirMod>;
   sensors?: Sensors;
+  counterMeasures?: counterMeasures;
   ikPilot: IkPilot;
   attach: Attach;
   Sound: Sound;
@@ -706,6 +707,8 @@ export interface AirMod {
         noiseFactor: number;
       };
     };
+    counterMeasures?: counterMeasures;
+    sensors?: Sensors;
   };
 }
 
@@ -717,6 +720,10 @@ export interface VehicleSensor {
   blk: string;
   dmPart?: string;
   node?: string;
+}
+
+export interface counterMeasures {
+  counterMeasure: VehicleSensor | VehicleSensor[];
 }
 
 // Sensors
@@ -2163,6 +2170,7 @@ export interface WwSettings {
 }
 
 //custom
+
 export interface savedparse {
   title: string;
   pageid: number;
@@ -2175,6 +2183,21 @@ export interface modernparse {
   title: string;
   pageid: number;
 }
+
+export interface namevehicles {
+  ground: namevehicle[];
+  aviation: namevehicle[];
+  helicopter: namevehicle[];
+}
+
+export interface namevehicle {
+  intname: string;
+  wikiname?: string;
+  marketplace?: string;
+  store?: string;
+}
+
+// Final
 
 export interface Final {
   version: string;
@@ -2509,16 +2532,3 @@ export type FinalShopGroup = {
   reqAir?: "" | string;
   vehicles: FinalShopItem[];
 };
-
-export interface namevehicles {
-  ground: namevehicle[];
-  aviation: namevehicle[];
-  helicopter: namevehicle[];
-}
-
-export interface namevehicle {
-  intname: string;
-  wikiname?: string;
-  marketplace?: string;
-  store?: string;
-}
