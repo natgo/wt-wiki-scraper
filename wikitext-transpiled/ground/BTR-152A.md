@@ -80,21 +80,7 @@ This is where this truck shines over its predecessor and followers: it has a hig
 * '''API-T:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|IAI|Immediate-action incendiary}} - Once unlocked, this is the best belt for dealing with both ground and air targets. 1/4 of its bullets can rip through some side armour (close range) at this BR. Another 1/4 of this belt is specifically purposed against planes. The last 1/2 is general-purpose API-T, ''okay'' but not ''good'' against either tanks and planes.
 * '''IAI:''' {{Annotation|IAI|Immediate-action incendiary}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}} - Specific belt for hunting planes, 1/2 of this belt is IAI ammo, which has no penetration but sets fires to planes quite easily. In emergency situations, can be used against tanks.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Universal || 39 || 37 || 27 || 18 || 13 || 9
-|-
-| API-T || 49 || 46 || 34 || 23 || 16 || 11
-|-
-| IAI || 38 || 35 || 25 || 17 || 11 || 7
-|-
-|}
+{{:KPVT (14.5 mm)/Ammunition|AP-I, API-T, IAI, AP-I(c)}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.jpg|right|thumb|x200px|[[Ammo racks]] of the {{PAGENAME}}]]

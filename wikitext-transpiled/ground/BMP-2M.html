@@ -2760,18 +2760,24 @@
   </h3>
   <div class="specs_info weapon">
     <div class="specs_name_weapon">
-      <a href="/AG-30_(30_mm)" title="AG-30 (30 mm)">30 mm automatic grenade launcher AG-30</a>
+      <a href="/2A42_(30_mm)" title="2A42 (30 mm)">30 mm 2A42 automatic cannon</a>
     </div>
-    <div class="specs_feature"></div>
+    <div class="specs_feature">
+      <div class="feature stabilizer">
+        <div class="feature_img"></div>
+        <div class="feature_name">Two-plane stabilizer</div>
+        <div class="feature_desc">Reduces the swing of the gun in two planes while moving</div>
+      </div>
+    </div>
     <div class="specs_char">
       <div class="specs_char_block">
         <div class="specs_char_line head">
-          <span class="name">Ammunition</span><span class="value">300 rounds</span>
+          <span class="name">Ammunition</span><span class="value">500 rounds</span>
         </div>
       </div>
       <div class="specs_char_block">
         <div class="specs_char_line head">
-          <span class="name">Belt capacity</span><span class="value">300 rounds</span>
+          <span class="name">Belt capacity</span><span class="value">250 rounds</span>
         </div>
       </div>
       <div class="specs_char_block">
@@ -2784,7 +2790,7 @@
       </div>
       <div class="specs_char_block">
         <div class="specs_char_line head">
-          <span class="name">Fire rate</span><span class="value">401 shots/min</span>
+          <span class="name">Fire rate</span><span class="value">550 shots/min</span>
         </div>
       </div>
       <div class="specs_char_block">
@@ -2972,12 +2978,13 @@
       >
     </li>
   </ul>
+  <p></p>
   <table class="wikitable sortable" style="text-align: center" width="100%">
     <tr>
-      <th colspan="7">Penetration statistics</th>
+      <th colspan="8">Penetration statistics</th>
     </tr>
     <tr>
-      <th rowspan="2" data-sort-type="text">Belt</th>
+      <th rowspan="2" data-sort-type="text">Ammunition</th>
       <th colspan="6">Penetration @ 0° Angle of Attack (mm)</th>
     </tr>
     <tr>
@@ -2989,7 +2996,16 @@
       <th>2,000 m</th>
     </tr>
     <tr>
-      <td>Default</td>
+      <td>HEF-I*</td>
+      <td>3</td>
+      <td>3</td>
+      <td>3</td>
+      <td>3</td>
+      <td>3</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>AP-T</td>
       <td>65</td>
       <td>63</td>
       <td>53</td>
@@ -2998,25 +3014,16 @@
       <td>29</td>
     </tr>
     <tr>
-      <td>30 mm HE</td>
-      <td>65</td>
-      <td>63</td>
-      <td>53</td>
-      <td>44</td>
-      <td>36</td>
-      <td>29</td>
+      <td>HEF-T*</td>
+      <td>2</td>
+      <td>2</td>
+      <td>2</td>
+      <td>2</td>
+      <td>2</td>
+      <td>2</td>
     </tr>
     <tr>
-      <td>30 mm APT</td>
-      <td>65</td>
-      <td>63</td>
-      <td>53</td>
-      <td>44</td>
-      <td>36</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>30 mm APDS</td>
+      <td>APDS</td>
       <td>82</td>
       <td>81</td>
       <td>79</td>
@@ -3025,13 +3032,87 @@
       <td>69</td>
     </tr>
     <tr>
-      <td>30 mm APDS-FS</td>
+      <td>APFSDS</td>
       <td>102</td>
       <td>99</td>
       <td>94</td>
       <td>88</td>
       <td>81</td>
       <td>75</td>
+    </tr>
+  </table>
+  <table class="wikitable sortable" style="text-align: center" width="100%">
+    <tr>
+      <th colspan="13">Shell details</th>
+    </tr>
+    <tr>
+      <th rowspan="2" data-sort-type="text">Ammunition</th>
+      <th rowspan="2">Velocity<br />(m/s)</th>
+      <th rowspan="2">Projectile<br />mass (kg)</th>
+      <th rowspan="2">Fuse delay<br />(m)</th>
+      <th rowspan="2">Fuse sensitivity<br />(mm)</th>
+      <th rowspan="2">Explosive mass<br />(TNT equivalent) (g)</th>
+      <th colspan="3">Ricochet</th>
+    </tr>
+    <tr>
+      <th>0%</th>
+      <th>50%</th>
+      <th>100%</th>
+    </tr>
+    <tr>
+      <td>HEF-I*</td>
+      <td>960</td>
+      <td>0.39</td>
+      <td>0</td>
+      <td>0.1</td>
+      <td>75.46</td>
+      <td>79°</td>
+      <td>80°</td>
+      <td>81°</td>
+    </tr>
+    <tr>
+      <td>AP-T</td>
+      <td>970</td>
+      <td>0.4</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>47°</td>
+      <td>60°</td>
+      <td>65°</td>
+    </tr>
+    <tr>
+      <td>HEF-T*</td>
+      <td>960</td>
+      <td>0.39</td>
+      <td>0</td>
+      <td>0.1</td>
+      <td>17.86</td>
+      <td>79°</td>
+      <td>80°</td>
+      <td>81°</td>
+    </tr>
+    <tr>
+      <td>APDS</td>
+      <td>1,120</td>
+      <td>0.3</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>75°</td>
+      <td>78°</td>
+      <td>80°</td>
+    </tr>
+    <tr>
+      <td>APFSDS</td>
+      <td>1,260</td>
+      <td>0.1</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>78°</td>
+      <td>80°</td>
+      <td>81°</td>
     </tr>
   </table>
   <h4>
@@ -3083,24 +3164,18 @@
   </h3>
   <div class="specs_info weapon">
     <div class="specs_name_weapon">
-      <a href="/2A42_(30_mm)" title="2A42 (30 mm)">30 mm 2A42 automatic cannon</a>
+      <a href="/AG-30_(30_mm)" title="AG-30 (30 mm)">30 mm automatic grenade launcher AG-30</a>
     </div>
-    <div class="specs_feature">
-      <div class="feature stabilizer">
-        <div class="feature_img"></div>
-        <div class="feature_name">Two-plane stabilizer</div>
-        <div class="feature_desc">Reduces the swing of the gun in two planes while moving</div>
-      </div>
-    </div>
+    <div class="specs_feature"></div>
     <div class="specs_char">
       <div class="specs_char_block">
         <div class="specs_char_line head">
-          <span class="name">Ammunition</span><span class="value">500 rounds</span>
+          <span class="name">Ammunition</span><span class="value">300 rounds</span>
         </div>
       </div>
       <div class="specs_char_block">
         <div class="specs_char_line head">
-          <span class="name">Belt capacity</span><span class="value">250 rounds</span>
+          <span class="name">Belt capacity</span><span class="value">300 rounds</span>
         </div>
       </div>
       <div class="specs_char_block">
@@ -3113,7 +3188,7 @@
       </div>
       <div class="specs_char_block">
         <div class="specs_char_line head">
-          <span class="name">Fire rate</span><span class="value">550 shots/min</span>
+          <span class="name">Fire rate</span><span class="value">401 shots/min</span>
         </div>
       </div>
       <div class="specs_char_block">
@@ -3194,6 +3269,7 @@
       ><span class="mw-editsection-bracket">]</span></span
     >
   </h4>
+  <p></p>
   <table class="wikitable" style="text-align: center" width="100%">
     <tr>
       <th colspan="8">Penetration statistics</th>
@@ -3224,16 +3300,16 @@
   </table>
   <table class="wikitable" style="text-align: center" width="100%">
     <tr>
-      <th colspan="10">Shell details</th>
+      <th colspan="13">Shell details</th>
     </tr>
     <tr>
       <th rowspan="2" data-sort-type="text">Ammunition</th>
       <th rowspan="2">Type of<br />warhead</th>
       <th rowspan="2">Velocity<br />(m/s)</th>
-      <th rowspan="2">Projectile<br />Mass (kg)</th>
+      <th rowspan="2">Projectile<br />mass (kg)</th>
       <th rowspan="2">Fuse delay<br />(m)</th>
       <th rowspan="2">Fuse sensitivity<br />(mm)</th>
-      <th rowspan="2">Explosive Mass<br />(TNT equivalent) (g)</th>
+      <th rowspan="2">Explosive mass<br />(TNT equivalent) (g)</th>
       <th colspan="3">Ricochet</th>
     </tr>
     <tr>
@@ -3248,7 +3324,7 @@
       <td>0.28</td>
       <td>0</td>
       <td>0.1</td>
-      <td>55.44</td>
+      <td>64.68</td>
       <td>79°</td>
       <td>80°</td>
       <td>81°</td>
@@ -3381,6 +3457,7 @@
       ><span class="mw-editsection-bracket">]</span></span
     >
   </h4>
+  <p></p>
   <table class="wikitable sortable" style="text-align: center" width="100%">
     <tr>
       <th colspan="8">Penetration statistics</th>
@@ -3421,17 +3498,19 @@
   </table>
   <table class="wikitable sortable" style="text-align: center" width="100%">
     <tr>
-      <th colspan="11">Shell details</th>
+      <th colspan="13">Missile details</th>
     </tr>
     <tr>
       <th rowspan="2" data-sort-type="text">Ammunition</th>
       <th rowspan="2">Type of<br />warhead</th>
       <th rowspan="2">Velocity<br />(m/s)</th>
       <th rowspan="2">Range<br />(m)</th>
-      <th rowspan="2">Projectile<br />Mass (kg)</th>
+      <th rowspan="2">Projectile<br />mass (kg)</th>
       <th rowspan="2">Fuse delay<br />(m)</th>
       <th rowspan="2">Fuse sensitivity<br />(mm)</th>
-      <th rowspan="2">Explosive Mass<br />(TNT equivalent) (g)</th>
+      <th rowspan="2">Arming<br />distance (m)</th>
+      <th rowspan="2">Trigger<br />radius (m)</th>
+      <th rowspan="2">Explosive mass<br />(TNT equivalent) (kg)</th>
       <th colspan="3">Ricochet</th>
     </tr>
     <tr>
@@ -3447,7 +3526,9 @@
       <td>26</td>
       <td>0.4</td>
       <td>0.01</td>
-      <td>6,160</td>
+      <td>-</td>
+      <td>-</td>
+      <td>6.16</td>
       <td>80°</td>
       <td>82°</td>
       <td>90°</td>
@@ -3460,7 +3541,9 @@
       <td>28</td>
       <td>0.2</td>
       <td>0.01</td>
-      <td>9,240</td>
+      <td>300</td>
+      <td>4</td>
+      <td>9.24</td>
       <td>79°</td>
       <td>80°</td>
       <td>81°</td>

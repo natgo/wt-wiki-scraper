@@ -72,40 +72,7 @@ As mentioned, the Ta-Se is built on the Type 98 [[Ke-Ni]] hull, which is a very 
 * '''Type 100 HE-T:''' {{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}} - These are best in the AA role but have no effect on enemy tanks except lightly armoured or open-topped vehicles.
 * '''Type 100 AP-T:''' {{Annotation|API-T|Armour-piercing incendiary tracer}} - These are best against enemy tanks at close range and do good damage to planes. Concentrate your fire on weak spots like the sides and the rear.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 48 || 45 || 35 || 26 || 19 || 14
-|-
-| Type 100 HE-T || 2 || 2 || 2 || 2 || 2 || 2
-|-
-| Type 100 AP-T || 48 || 45 || 35 || 26 || 19 || 14
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Belt details
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Type 100 HE-T || HEFI-T || 950 || 0.13 || 0 || 0.1 || 6 || 79° || 80° || 81°
-|-
-| Type 100 AP-T || API-T || 928 || 0.16 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-|}
+{{:Type 98 (20 mm)/Ammunition|HEFI-T, API-T}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

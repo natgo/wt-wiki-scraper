@@ -2527,11 +2527,12 @@
     The 71C is the first-unlocked guided munition of the Lynx. It boasts a maximum of 630 mm of
     armour penetration with an effective guidance range of 3.75 km which it travels at 296 m/s. The
     missile is SACLOS (Semi-Automatic Command to Line of Sight) meaning that it must be guided for
-    the entire duration of the flight, breaking the designation will cause the missile to lose
-    course most of the time. This style of missile can be defeated by soft-kill APS systems like
-    those found on the PUMA which will be a commonly encountered opponent. Each missile contains the
-    equivalent of 2.88 kg of TNT. The warhead is HEAT and can be defeated by ERA armour. This
-    missile will still reliably kill nearly anything encountered at the battle rating.
+    the entire duration of the flight, breaking the designation will cause the missile to simply fly
+    forward and occasionally self-destruct. This type of missile guidance can be defeated by
+    soft-kill APS systems like those found on the <a href="/PUMA" title="PUMA">PUMA</a> which will
+    be a commonly encountered opponent. Each missile contains the equivalent of 2.88 kg of TNT. The
+    warhead is HEAT and can be defeated by ERA armour. This missile will still destroy any tank
+    without composite armour encountered at the battle rating on direct hit.
   </p>
   <table style="margin-bottom: 10px; background-color: #bbdefb" cellspacing="0">
     <tr>
@@ -2546,40 +2547,74 @@
         />
       </td>
       <td style="padding: 5px 15px">
-        The regular ATGM control corridor for TOW is extremely small, unlike with the previous
-        SS.11, so it requires the helicopter to face the target for the entirety of the flight time.
-        But, if the pilot turns on laser guidance (generally done automatically with "lock onto
-        target" button) before launch, the TOW will remain controllable well outside its regular
-        operational area and allow the Lynx to fire AAMs at unwanted visitors or dodge while
-        attacking just like the Scout or the Wasp. Whether this is a bug or a feature is unknown.
-        The same behaviour persists with later missiles as well.
+        The little square on ATGM control area UI represents the TOW ATGM launch area and general
+        width of the ATGM control area. It is extremely small, compared even to some other
+        helicopters, which would normally imply that the helicopter would have to face the target or
+        pilot would have to sit in the gunner seat and carefully aim for the entirety of the ATGM
+        flight time. However, the Lynx ATGM camera actually turns by itself with the lock-on and
+        therefore can circumvent normal SACLOS limitations. If pilot turns on the lock (done
+        automatically with "lock onto target" button when pointing near the eligible target;
+        indicated with a square around the target), the sight will follow the target, therefore
+        properly launched TOW will naturally stay within control area of the sniper sight, as it
+        will follow the target as well. The implication is, even if the pilot does evasive
+        manoeuvres after aquiring the lock, it will be difficult to break the ATGM controls as long
+        as they are fired in the middle of the "launch zone". This allows the Lynx to almost
+        automatically destroy nearly anything (including other helicopters) even with SACLOS ATGM
+        while firing AAM at unwanted visitors or dodging in the middle of attacking just like the
+        Scout or the Wasp.
       </td>
     </tr>
   </table>
+  <p>
+    If the lock-on of the sight became glitchy due to a sheer number of targets (including dead tank
+    hulls) being close to each other, or the missile is following an aircraft in a sub-optimal way,
+    consider pressing the lock button again to offset the aim (the circle will appear next to the
+    lock-on square indicating where the missile is currently aimed relatively to the locked target)
+  </p>
   <p><b>BGM-71D TOW-2 missile:</b></p>
   <p>
-    The 71D is an upgrade to the above 71C, however it does not offer any improvement on range,
-    maintaining the 3.75 km maximum but with an increased travel speed of 329 m/s. The missile is
-    still SACLOS. Each missile contains 4.41 kg of TNT equivalent. The warhead is HEAT and can be
-    defeated by ERA armour, but the missile will reliably kill almost anything encountered at the
-    battle rating and has enough explosive filler to overpressure some lighter vehicles if a direct
-    hit is not achieved.
+    The 71D is an upgrade to the above 71C. It does not offer any improvement on range, maintaining
+    the 3.75 km maximum with a slightly increased travel speed of 329 m/s. The missile is still
+    SACLOS. However, each missile contains 4.41 kg of TNT equivalent. The warhead is HEAT and can be
+    defeated by ERA armour, but otherwise the missile will reliably destroy almost anything
+    encountered at the battle rating and has enough explosive filler to overpressure some lighter
+    vehicles even if critical hit is not achieved.
   </p>
   <p><b>AGM-114B Hellfire missile.</b></p>
   <p>
-    The Hellfire missile is the ultimate upgrade for the Lynx, the missile more than doubles the
-    range of the older TOW missiles with a maximum range of 8 km which it can travel at 475 m/s. The
-    missile is Laser + IOG (In-Ordnance Guidance) meaning that it relies on laser designation unlike
-    the older missiles and can continue to direct itself to the last known position of the laser if
-    the designation is lost, meaning the missile can deliver itself to static targets independent of
-    guidance by the launching aircraft and will not fly off course.
+    The Hellfire missile is arguably the ultimate upgrade for the Lynx, the missile more than
+    doubles the attack range of the older TOW missiles with a maximum range of 8 km which it can
+    travel at 475 m/s. The missile is Laser guided meaning that it relies on laser designation
+    unlike the older missiles and cannot be defeated by soft-kill APS systems like the TOW. The
+    laser also can guide multiple missiles at once, if necessary.
   </p>
   <p>
-    The missile cannot be defeated by soft-kill APS systems like the TOW, however it can still run
-    afoul of some stronger ERA armours. However, with an incredible 1,100 mm of armour penetration
-    this is very unlikely. This excellent penetration comes with explosives equivalent to 9.02 kg of
-    TNT which again is double that of its preceding TOW. Anything at the receiving end of a Hellfire
-    will certainly know about it, ending up crippled even if not outright destroyed.
+    However, the laser will trigger Laser Warning System (LWS) alerting some targets and prompting
+    them to use ESS or smoke grenades, which will break the lock-on. To circumvent that, missiles
+    have IOG (In-Ordnance Guidance), meaning that they can direct themselves semi-accurately even
+    without laser pointer. This feature can be used to leave after launching the missiles or to
+    launch missiles without laser designation at all while still being locked onto target (The user
+    should first disable the "enable laser designator before launch" in "air battle settings" to
+    avoid triggering LWS), the missiles will then fly into general direction of the target. This
+    allows the helicopter to turn the laser on at the last 1/3 or even 1/4 of the remaining missile
+    flight path, leaving even paranoid opponents with no time to react. This attack type is further
+    supported by a special timer next to the hellfire ammunition counter, which specifically tells
+    how long it will take for the last fired missile to arrive at the target.
+  </p>
+  <p>
+    Be aware that the missiles are not smart enough to actually guide themselves into targets
+    without laser and will occasionally crash themselves early when launched from too far away,
+    unless launched from the similar height with the intended target to reduce a chance of a
+    misfire. Should pilot forget about it, the sniper scope will show "ENABLE LASER NOW" message
+    when the missiles get into guaranteed kill range (not necessarily when the missiles are about to
+    crash due to a poor launch).
+  </p>
+  <p>
+    Missile also can run afoul of some stronger ERA or NERA armours, but with an incredible 1,100 mm
+    of armour penetration this is very unlikely. This excellent penetration also comes with
+    explosives equivalent to 9.02 kg of TNT which again is double that of its preceding TOW,
+    allowing to overpressure even many medium tanks. Anything at the receiving end of a Hellfire
+    rain will certainly feel it, ending up crippled even if not outright destroyed.
   </p>
   <h2>
     <span class="mw-headline" id="Usage_in_battles">Usage in battles</span

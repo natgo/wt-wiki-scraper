@@ -135,7 +135,7 @@ Refrain from fighting in close quarters: your sides are weak and your turret tra
 * Tanks firing APDS shots that can defeat your frontal glacis: Challenger, Comet I, Iron Duke IV, Centurion Mk 1, Sherman Vc (Italy), Pvkv m/43 (1963) or Strv 74.
 * Tanks whose cannon is powerful enough to penetrate your frontal glacis once closer to your vehicle (500 m distance): M36 GMC, Tiger H1, Tiger E, Panther D, Panther A, T-34-85, SU-85M, IS-1, KV-85, Chi-Ri II, M4A3 (76) W HVSS, T-34-85 (S-53) (China), T-34-85 Gai or M36 (China).
 
-;How to defeat a {{PAGENAME}}
+;How to defeat an {{PAGENAME}}
 
 [[File:ARL-44 weakspot.png|thumb|As seen in this picture, this weak spot only has less than 100 mm effective thickness, meaning that even 3.7 tanks can easily penetrate there, let alone 5.7 tanks with better penetration and more explosives]]
 
@@ -191,6 +191,7 @@ Initially, the new tank was required, apart from using existing tank parts, to h
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_arl_44 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

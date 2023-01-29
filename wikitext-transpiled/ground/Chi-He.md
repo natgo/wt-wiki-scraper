@@ -81,39 +81,7 @@ One thing to keep in mind compared to [[Chi-Ha Kai]] is that it still retains th
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | '''Penetration @ 0° Angle of Attack (mm)'''
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Type 1 APHE || APHE || 77 || 75 || 67 || 58 || 50 || 44
-|-
-| Type 1 HE || HE || 4 || 4 || 4 || 4 || 4 || 4
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Type 1 APHE || APHE || 808 || 1.49 || 1.2 || 9 || 22.4 || 47° || 60° || 65°
-|-
-| Type 1 HE || HE || 822 || 1.4 || 2 || 0.1 || 85.26 || 79° || 80° || 81°
-|-
-|}
+{{:Type 1 (47 mm)/Ammunition|Type 1 APHE, Type 1 HE}}
 
 ==== [[Ammo racks]] ====
 {| class="wikitable" style="text-align:center"

@@ -69,55 +69,7 @@ The mobility of the Ho-I is improved over the Chi-Ha, the more powerful engine g
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Type 95 APHE || 43 || 41 || 37 || 31 || 27 || 23
-|-
-| Type 94 HE || 12 || 12 || 12 || 12 || 12 || 12
-|-
-| Type 2 HEAT || 90 || 90 || 90 || 90 || 90 || 90
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="9" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Type 95 APHE || 450 || 6.21 || 1.2 || 14 || 460 || 47° || 60° || 65°
-|-
-| Type 94 HE || 522 || 6.02 || 0 || 0.1 || 810 || 79° || 80° || 81°
-|-
-| Type 2 HEAT || 350 || 3.56 || 0.05 || 0.1 || 640 || 62° || 69° || 73°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| Type 90 Smoke || 570 || 5.72 || 13 || 5 || 20 || 100
-|-
-|}
+{{:Type 99 (75 mm)/Ammunition|Type 95 APHE, Type 94 HE, Type 2 HEAT, Type 90 Smoke}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

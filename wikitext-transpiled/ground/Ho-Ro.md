@@ -65,38 +65,7 @@ Since its introduction into War Thunder, the Ho-Ro has gained a reputation for b
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Type 95 APHE || APHE || 38 || 37 || 35 || 33 || 31 || 31
-|-
-| Type 92 HE || HE || 55 || 55 || 55 || 55 || 55 || 55
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="9" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Type 95 APHE || 290 || 36.1 || 1.2 || 19 || 2,600 || 47° || 60° || 65°
-|-
-| Type 92 HE || 290 || 36 || 0 || 0.1 || 7,020 || 79° || 80° || 81°
-|-
-|}
+{{:Type 38 (150 mm)/Ammunition|Type 95 APHE, Type 92 HE}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|250px|[[Ammo racks]] of the {{PAGENAME}}]]

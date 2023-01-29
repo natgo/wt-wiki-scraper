@@ -77,43 +77,7 @@ Due to its big and tall tracks, the LVT can drive over some obstacles that are t
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | '''Penetration @ 0° Angle of Attack (mm)'''
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| BR-271 || APHEBC || 145 || 142 || 128 || 112 || 98 || 86
-|-
-| BR-271K || APHE || 145 || 140 || 118 || 95 || 77 || 63
-|-
-| O-271 || HE || 5 || 5 || 5 || 5 || 5 || 5
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| BR-271 || APHEBC || 990 || 3.14 || 1.2 || 9 || 21.56 || 48° || 63° || 71°
-|-
-| BR-271K || APHE || 990 || 3.14 || 1.2 || 9 || 27.72 || 47° || 60° || 65°
-|-
-| O-271 || HE || 700 || 3.72 || N/A || 0.1 || 220 || 79° || 80° || 81°
-|-
-|}
+{{:ZIS-2 (57 mm)/Ammunition|BR-271, BR-271K, O-271}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_LVT(A)(4)ZIS-2.png|right|thumb|x250px|[[Ammo racks]] of the LVT(A)(4) ZIS-2.]]

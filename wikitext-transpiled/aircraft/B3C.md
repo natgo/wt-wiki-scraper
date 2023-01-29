@@ -95,7 +95,7 @@ The {{PAGENAME}} was designed for mid- to high-altitude bombing, where it remain
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * 16 x 50 kg sb m/42 bombs (800 kg total)
-* 1 x 450 mm m/41 torpedo
+* 1 x 450 mm m/41 torpedo (853 kg total)
 * 4 x 250 kg mb m/40 bombs (1,000 kg total)
 
 === Defensive armament ===

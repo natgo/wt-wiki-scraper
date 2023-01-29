@@ -78,47 +78,7 @@ Go for parts and FPE (safety first) and then go for the AP and HEATFS shells so 
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| BR-354N || APCR || 152 || 148 || 129 || 109 || 92 || 78
-|-
-| 53-BR-354 || APHE || 100 || 99 || 90 || 81 || 73 || 66
-|-
-| BK-354M || HEATFS || 200 || 200 || 200 || 200 || 200 || 200
-|-
-| OF-350M || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| BR-354N || APCR || 950 || 3.3 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-| 53-BR-354 || APHE || 662 || 6.5 || 1.2 || 14 || 49.28 || 47° || 60° || 65°
-|-
-| BK-354M || HEATFS || 700 || 7 || 0.05 || 0.1 || 1,140 || 65° || 72° || 77°
-|-
-| OF-350M || HE || 680 || 6.2 || 0.05 || 0.1 || 621 || 79° || 80° || 81°
-|-
-|}
+{{:D-56T (76 mm)/Ammunition|BR-354N, 53-BR-354, BK-354M, OF-350M}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_PT-76B.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

@@ -79,40 +79,7 @@ The ZiS-43 is armed with a quick firing 37 mm which is more than capable to deal
 
 Since every bullet is a tracer, firing makes you easily detected by enemy airplanes and tanks.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 70 || 68 || 56 || 45 || 36 || 29
-|-
-| UO-167 || 3 || 3 || 3 || 3 || 3 || 3
-|-
-| BR-167 || 70 || 68 || 56 || 45 || 36 || 29
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Belt details
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| UO-167 || HEFI-T* || 866 || 0.73 || 0 || 0.1 || 56.98 || 79° || 80° || 81°
-|-
-| BR-167 || AP-T || 868 || 0.77 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-|}
+{{:61-K (37 mm)/Ammunition|HEFI-T*, AP-T}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

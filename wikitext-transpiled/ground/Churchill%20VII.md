@@ -185,7 +185,7 @@ As a whole, Japanese tanks are easier to deal with. Their armour is quite thin a
 
 * Poor mobility: speed is capped at 20 km/h, slow acceleration, subpar -3 km/h reverse, and cannot scale obstacles properly
 * Is very long, harder to navigate through confined spaces (e.g. urban maps)
-* Inadequate firepower: 75 mm AP shells lack explosive filler, have slow velocity, curved trajectory, and low penetration
+* Inadequate firepower: 75 mm AP shells lack explosive filler, have slow velocity, curved trajectory, weak spalling, and low penetration
 * Still has frontal weak spots: machine gun port both on the hull and turret are only 50 mm thick
 * Turret side armour is weak
 * Extremely vulnerable to coordinated flanking, as penetrations to the sides typically cause catastrophic damage to ammo racks located below the turret

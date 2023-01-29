@@ -99,23 +99,7 @@ The main difference of the HVAP compared to the APDS of other autocannon-equippe
 * '''30 mm APT:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}
 * '''30 mm APDS:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 65 || 63 || 53 || 44 || 36 || 29
-|-
-| 30 mm HE || 65 || 63 || 53 || 44 || 36 || 29
-|-
-| 30 mm APT || 65 || 63 || 53 || 44 || 36 || 29
-|-
-| 30 mm APDS || 82 || 81 || 79 || 75 || 72 || 69
-|-
-|}
+{{:2A42 (30 mm)/Ammunition|HEF-I*, AP-T, HEF-T*, APDS}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x350px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -156,36 +140,7 @@ The ATGM is able to penetrate most tanks BMP-2 will face at its BR and often abo
 |}
 
 ==== Ammunition ====
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 9M113 || ATGM || 500 || 500 || 500 || 500 || 500 || 500
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="11" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 9M113 || ATGM || 248 || 3,000 || 14.5 || 0.05 || 0.1 || 4,230 || 80° || 82° || 90°
-|-
-|}
+{{:9M113 Konkurs/Ammunition|9M113}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x350px|[[Ammo racks]] of the {{PAGENAME}}]]

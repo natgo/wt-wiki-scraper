@@ -168,7 +168,7 @@ Do not stay behind the enemy bomber, their gunners will hit your rocket fuel tan
 ==== Landing ====
 To land the BI, you need to keep about 5 to 10 seconds of fuel in case you need to go around due to a missed approach. When on approach, you will need to lose speed fast, which it can do. This is due to the BI not using the sleek low profile aerodynamic wings, as you find on other jets. However, to do this, you must reduce the speed down to under 420 km/h or your gear will be ripped off making the odds of crashing on landing very high.
 
-To land the BI, flip the plane on its side, use the rudder during the turns to help cause more fiction with the air, which will start reducing its speed. Due to the shape of the BI which features great guilder aerodynamics, it is able to fly at high speeds and keep the momentum even without any throttle being active. As soon as the BI touches the ground, apply the breaks and turn the rudder hard left and right to help slow it down.
+To land the BI, flip the plane on its side, use the rudder during the turns to help cause more fiction with the air, which will start reducing its speed. Due to the shape of the BI which features great glider aerodynamics, it is able to fly at high speeds and keep the momentum even without any throttle being active. As soon as the BI touches the ground, apply the breaks and turn the rudder hard left and right to help slow it down.
 
 Landing on short runways, should be avoided or risk crashing at the end, the reason for this if you come into fast or high the BI will bounce, it will bounce to 150 m or more. Ideally you should head back to the main airfield which has the long landing strip to land on.
 

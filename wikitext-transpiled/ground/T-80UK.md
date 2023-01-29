@@ -75,67 +75,7 @@ The hull armour on the T-80UK is a 5-layer armour, which is comprised of 50 mm h
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 3BK18M || HEATFS || 550 || 550 || 550 || 550 || 550 || 550
-|-
-| 3OF26 EDKV || HE-TF || 42 || 42 || 42 || 42 || 42 || 42
-|-
-| 3BM42 || APFSDS || 457 || 454 || 445 || 431 || 419 || 406
-|-
-| 9M119 || ATGM || 700 || 700 || 700 || 700 || 700 || 700
-|-
-| 3BM46 || APFSDS || 532 || 531 || 526 || 520 || 513 || 507
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 3BK18M || HEATFS || 905 || 19 || 0.05 || 0.1 || 2,790 || 65° || 72° || 77°
-|-
-| 3OF26 EDKV || HE-TF || 850 || 23 || 0 || 0.1 || 5,240 || 79° || 80° || 81°
-|-
-| 3BM42 || APFSDS || 1,700 || 4.85 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-| 3BM46 || APFSDS || 1,700 || 4.85 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="11" | Missile details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 9M119 || ATGM || 400 || 5,000 || 16.5 || 0.05 || 0.1 || 5,540 || 80° || 82° || 90°
-|-
-|}
+{{:2A46M-1 (125 mm)/Ammunition|3BK18M, 3OF26 EDKV, 3BM42, 9M119 (T-80), 3BM46}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->

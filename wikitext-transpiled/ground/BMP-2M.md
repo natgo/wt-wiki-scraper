@@ -58,7 +58,7 @@ For module research, the following order is recommended:
 == Armaments ==
 {{Specs-Tank-Armaments}}
 === Main armament ===
-{{Specs-Tank-Weapon|3}}
+{{Specs-Tank-Weapon|2}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|2A42 (30 mm)}}
 
@@ -90,25 +90,7 @@ It is not recommended to engage in long-term combat without ATGMs using only the
 * '''30 mm APDS:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}
 * '''30 mm APDS-FS:''' {{Annotation|APFSDS|Armour-piercing fin-stabilized discarding sabot}}{{-}}{{Annotation|APFSDS|Armour-piercing fin-stabilized discarding sabot}}{{-}}{{Annotation|APFSDS|Armour-piercing fin-stabilized discarding sabot}}
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 65 || 63 || 53 || 44 || 36 || 29
-|-
-| 30 mm HE || 65 || 63 || 53 || 44 || 36 || 29
-|-
-| 30 mm APT || 65 || 63 || 53 || 44 || 36 || 29
-|-
-| 30 mm APDS || 82 || 81 || 79 || 75 || 72 || 69
-|-
-| 30 mm APDS-FS || 102 || 99 || 94 || 88 || 81 || 75
-|-
-|}
+{{:2A42 (30 mm)/Ammunition|HEF-I*, AP-T, HEF-T*, APDS, APFSDS}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
@@ -124,7 +106,7 @@ It is not recommended to engage in long-term combat without ATGMs using only the
 |}
 
 === Additional armament ===
-{{Specs-Tank-Weapon|2}}
+{{Specs-Tank-Weapon|3}}
 <!-- ''Some tanks are armed with several guns in one or more turrets. Evaluate the additional weaponry and give advice on its use. Describe the ammunition available for additional weaponry. Give advice on about how to use them and how to fill the ammunition storage. If there is no additional weaponry remove this subsection.'' -->
 {{main|AG-30 (30 mm)}}
 
@@ -142,35 +124,7 @@ It is not recommended to engage in long-term combat without ATGMs using only the
 |}
 
 ==== Ammunition ====
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| VOG-30 || VOG* || 3 || 3 || 3 || 3 || 3 || 3
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| VOG-30 || VOG* || 185 || 0.28 || 0 || 0.1 || 55.44 || 79° || 80° || 81°
-|-
-|}
+{{:AG-30 (30 mm)/Ammunition|VOG-30}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
@@ -204,40 +158,7 @@ Unlike the BMP-2 which only has one ATGM launcher and takes some time to reload,
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 9M133 || ATGM (tandem) || 1,200 || 1,200 || 1,200 || 1,200 || 1,200 || 1,200
-|-
-| 9M133FM-3 || ATGM-VT || 61 || 61 || 61 || 61 || 61 || 61
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="11" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 9M133 || ATGM (tandem) || 300 || 5,500 || 26 || 0.4 || 0.01 || 6,160 || 80° || 82° || 90°
-|-
-| 9M133FM-3 || ATGM-VT || 320 || 10,000 || 28 || 0.2 || 0.01 || 9,240 || 79° || 80° || 81°
-|-
-|}
+{{:9M133/Ammunition|9M133, 9M133FM-3}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}_secondary.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

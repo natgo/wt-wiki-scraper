@@ -67,47 +67,7 @@ Operational and visual characteristics of the IS-1 retain the visual and operati
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| BR-365K || APHE || 148 || 143 || 126 || 106 || 90 || 77
-|-
-| BR-365A || APHEBC || 135 || 133 || 124 || 114 || 104 || 95
-|-
-| BR-365P || APCR || 195 || 187 || 154 || 122 || 96 || 76
-|-
-| O-365K || HE || 11 || 11 || 11 || 11 || 11 || 11
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| BR-365K || APHE || 792 || 9.2 || 1.2 || 14 || 73.92 || 47° || 60° || 65°
-|-
-| BR-365A || APHEBC || 792 || 9.2 || 1.2 || 14 || 164 || 48° || 63° || 71°
-|-
-| BR-365P || APCR || 1,050 || 4.99 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-| O-365K || HE || 793 || 9.54 || 0 || 0.1 || 741 || 79° || 80° || 81°
-|-
-|}
+{{:D-5T (85 mm)/Ammunition|BR-365K, BR-365A, BR-365P, O-365K}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

@@ -77,47 +77,7 @@ Like later T-72s, the T-72M2 has its engine upgraded to a Polish PZL Wola S12U d
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 3BK12M || HEATFS || 440 || 440 || 440 || 440 || 440 || 440
-|-
-| 3OF26 || HE || 42 || 42 || 42 || 42 || 42 || 42
-|-
-| 3BM22 || APFSDS || 425 || 420 || 415 || 405 || 393 || 380
-|-
-| TAPNA || APFSDS || 509 || 507 || 500 || 490 || 481 || 472
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 3BK12M || HEATFS || 905 || 19 || 0.05 || 0.1 || 2,530 || 65° || 72° || 77°
-|-
-| 3OF26 || HE || 850 || 23 || 0 || 0.1 || 5,240 || 79° || 80° || 81°
-|-
-| 3BM22 || APFSDS || 1,760 || 4.83 || N/A || N/A || N/A || 76° || 77° || 80°
-|-
-| TAPNA || APFSDS || 1,690 || 3.7 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
+{{:2A46MS (125 mm)/Ammunition|3BK12M, 3OF26, 3BM22, TAPNA}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_T-72A.png|right|thumb|x450px|[[Ammo racks]] of the [[T-72A]] (identical).]]
@@ -166,17 +126,7 @@ A very distinctive feature of the T-72M2 is the 2A42 30 mm autocannon mounted on
 
 * '''Default:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}
 
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 65 || 63 || 54 || 44 || 36 || 30
-|-
-|}
+{{:2A42 (30 mm)/Ammunition|HEF-I*, AP-T}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
@@ -224,7 +174,7 @@ This vehicle will feel very reminiscent of the [[T-72AV (TURMS-T)]] with its alm
 
 '''Pros:'''
 
-* DYNAS ERA provides up to 100 mm of kinetic protection 
+* DYNAS ERA provides up to 100 mm of kinetic protection
 * Has access 2nd generation thermals for both the gunner and commander, which are also only a Tier II modification
 * Powerful 30 mm autocannon tears through light vehicles and aircraft and is operated by the gunner
 * Has commander fire control

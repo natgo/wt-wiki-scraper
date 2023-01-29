@@ -171,7 +171,7 @@ At all progression stages it is important to remember that your engine deck bloc
 |}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+[[File:ST_A1_ammo.jpg|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -180,7 +180,7 @@ At all progression stages it is important to remember that your engine deck bloc
 ! 3rd<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''40''' || 39&nbsp;''(+1)'' || 30&nbsp;''(+10)'' || 1&nbsp;''(+39)'' || No
+| '''40''' || 12&nbsp;''(+28)'' || 3&nbsp;''(+37)'' || 1&nbsp;''(+39)'' || No
 |-
 |}
 
@@ -272,6 +272,7 @@ To fulfill the military's requirements, tank designers offered several promising
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_st_a1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -280,6 +281,7 @@ To fulfill the military's requirements, tank designers offered several promising
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Type 61 (Family)]]
 
 == External links ==

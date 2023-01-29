@@ -1,3 +1,8 @@
+{{About
+| about = medium tank '''{{PAGENAME}}'''
+| usage = the British version
+| link = Charioteer Mk VII
+}}
 {{Specs-Card
 |code=sw_charioteer_mk_7
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}

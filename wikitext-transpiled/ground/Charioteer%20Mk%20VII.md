@@ -1,3 +1,8 @@
+{{About
+| about = British medium tank '''{{PAGENAME}}'''
+| usage = the Swedish version
+| link = Charioteer Mk VII (Sweden)
+}}
 {{Specs-Card
 |code=uk_charioteer_mk_7
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}

@@ -80,21 +80,7 @@ The survivability of the BMP-3 is very low. It has only 3 crew members who are c
 * '''30 mm APT:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}
 * '''30 mm APDS:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 30 mm HE || 65 || 63 || 53 || 44 || 36 || 29
-|-
-| 30 mm APT || 65 || 63 || 53 || 44 || 36 || 29
-|-
-| 30 mm APDS || 82 || 81 || 79 || 75 || 72 || 69
-|-
-|}
+{{:2A72 (30 mm)/Ammunition|HEF-T*, AP-T, HEF-I*, APDS}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
@@ -131,47 +117,7 @@ The survivability of the BMP-3 is very low. It has only 3 crew members who are c
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 3OF32 || HE || 31 || 31 || 31 || 31 || 31 || 31
-|-
-| 3OF70 || HE || 36 || 36 || 36 || 36 || 36 || 36
-|-
-| 9M117 || ATGM || 600 || 600 || 600 || 600 || 600 || 600
-|-
-| 9M117M1 || ATGM (tandem) || 750 || 750 || 750 || 750 || 750 || 750
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 3OF32 || HE || 250 || 15.6 || 0 || 0.1 || 2,600 || 79° || 80° || 81°
-|-
-| 3OF70 || HE || 355 || 13.41 || 0 || 0.1 || 3,540 || 79° || 80° || 81°
-|-
-| 9M117 || ATGM || 370 || 18.8 || 0.05 || 0.1 || 4,620 || 80° || 82° || 90°
-|-
-| 9M117M1 || ATGM (tandem) || 370 || 18.8 || 0.4 || 0.1 || 4,620 || 80° || 82° || 90°
-|-
-|}
+{{:2A70 (100 mm)/Ammunition|3OF32, 3OF70, 9M117, 9M117M1}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->

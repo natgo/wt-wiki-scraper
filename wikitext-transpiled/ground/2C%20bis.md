@@ -67,10 +67,10 @@ The 2C bis has a 155 mm Schneider howitzer in its two man cast turret. Its veloc
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 24 || rowspan="2" | ±10° || rowspan="2" | ±100° || rowspan="2" | N/A || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 24 || rowspan="2" | ±10° || rowspan="2" | ±100° || rowspan="2" | N/A || 8.1 || 11.2 || 13.6 || 15.0 || 16.0 || rowspan="2" | 22.4 || rowspan="2" | 19.8 || rowspan="2" | 18.2 || rowspan="2" | 17.2
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 6.0 || 7.0 || 8.5 || 9.4 || 10.0
 |-
 |}
 
@@ -150,6 +150,7 @@ One 2C, No. 99 "Champagne", was given a new two-man cast turret with a 155 mm ho
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_char_2c_bis Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

@@ -76,73 +76,7 @@ The ZiS-3 field gun is a versatile artillery piece that is also capable of perfo
 ==== Ammunition ====
 The stock '''BR-350A''' APHEBC shell is adequate enough for most purposes, although it will struggle against heavy tanks like the [[Churchill (Family)|Churchill]] at long ranges. The '''BR-350B''' APHEBC shell is arguably the best all-round projectile available, combining decent penetration with excellent lethality. Against particularly heavy armour, the '''BR-354P''' APCR shot is available, though its poor lethality and performance against sloped armour will tend to disappoint. The BR-350SP APBC shot is a solid shot round with no filler, but it creates more spalling than the APCR and is somewhat more lethal. The '''BP-353A''' HEAT round is occasionally useful for long-range fighting since it does not lose penetration with distance, but the Soviet 76 mm guns generally do not perform very well at long range, and work better at medium to close range. It also has some utility for breaking the hulls of lightly armoured vehicles, while not being completely useless against heavier opposition like the HE round. The '''Sh-354T''' shrapnel round creates a lot of fragments when it penetrates, but is only effective against lighter vehicles.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| BR-350A (MD-5 fuze) || APHEBC || 87 || 85 || 77 || 69 || 62 || 55
-|-
-| BR-350SP || APBC || 99 || 96 || 87 || 76 || 66 || 58
-|-
-| BR-354P || APCR || 125 || 117 || 87 || 60 || 41 || 28
-|-
-| BP-353A || HEAT || 80 || 80 || 80 || 80 || 80 || 80
-|-
-| BR-350B (MD-8 fuze) || APHEBC || 96 || 94 || 84 || 74 || 64 || 56
-|-
-| OF-350M || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-| Sh-354T || Shrapnel || 35 || 34 || 30 || 26 || 22 || 19
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| BR-350A (MD-5 fuze) || APHEBC || 662 || 6.3 || 1.2 || 14 || 150 || 48° || 63° || 71°
-|-
-| BR-350SP || APBC || 655 || 6.5 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| BR-354P || APCR || 950 || 3.02 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-| BP-353A || HEAT || 355 || 3.94 || 0.05 || 0.1 || 739.2 || 62° || 69° || 73°
-|-
-| BR-350B (MD-8 fuze) || APHEBC || 655 || 6.5 || 0.9 || 14 || 100.1 || 48° || 63° || 71°
-|-
-| OF-350M || HE || 680 || 6.2 || 0.05 || 0.1 || 621 || 79° || 80° || 81°
-|-
-| Sh-354T || Shrapnel || 618 || 6.44 || 1.2 || 14 || 85 || 62° || 69° || 73°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive mass<br>(TNT equivalent) (g)
-|-
-| D-350A || 680 || 6.45 || 13 || 5 || 20 || 50
-|-
-|}
+{{:ZIS-3 (76 mm)/Ammunition|BR-350A (MD-5 fuze), BR-350SP, BR-354P, BP-353A, BR-350B (MD-8 fuze), OF-350M, Sh-354T, D-350A}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

@@ -75,44 +75,9 @@ The Ro-Go is an excellently protected vehicle for 1.3. Featuring armour thick en
 |}
 
 ==== Ammunition ====
-Only real choice here is the '''Type 3 HEAT''', it has the penetrating power to defeat any armour at this BR, and if it were to over penetrate as if it was an AP, it hull breaks its target due the fact it's a HEAT round. On the flip side, it has the lowest velocity of all the available shells and it's advised to learn to get accommodated to this round nonetheless.
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Type 95 APHE || APHE || 21 || 20 || 18 || 16 || 14 || 13
-|-
-| Type 92 HE || HE || 9 || 9 || 9 || 9 || 9 || 9
-|-
-| Type 3 HEAT || HEAT || 80 || 80 || 80 || 80 || 80 || 80
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Type 95 APHE || APHE || 300 || 4.45 || 1.2 || 14 || 170 || 47° || 60° || 65°
-|-
-| Type 92 HE || HE || 348 || 3.81 || 0 || 0.1 || 590 || 79° || 80° || 81°
-|-
-| Type 3 HEAT || HEAT || 200 || 3.35 || 0.05 || 0.1 || 601.6 || 62° || 69° || 73°
-|-
-|}
+The only real choice is the '''Type 3 HEAT''': it has the penetrating power to defeat any armour at this BR, and it can also inflict overpressure damage to lightly-armoured and open-topped vehicles. On the flip side, it has the lowest velocity of all the available shells and it's advised to learn to get accommodated to this round nonetheless.
+
+{{:Type 94 (70 mm)/Ammunition|Type 95 APHE, Type 92 HE, Type 3 HEAT}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -160,35 +125,7 @@ Only real choice here is the '''Type 3 HEAT''', it has the penetrating power to 
 |}
 
 ==== Ammunition ====
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Type 94 APHE || APHE || 34 || 33 || 27 || 22 || 17 || 14
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Type 94 APHE || APHE || 575 || 0.7 || 1.2 || 9 || 11 || 47° || 60° || 65°
-|-
-|}
+{{:Type 94 (37 mm)/Ammunition|Type 94 APHE}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}_secondary.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

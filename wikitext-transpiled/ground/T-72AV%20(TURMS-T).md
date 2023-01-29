@@ -90,47 +90,7 @@ The T-72AV is a modernized version of the Soviet-made main battle tank T-72A. Th
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 3BK12M || HEATFS || 440 || 440 || 440 || 440 || 440 || 440
-|-
-| 3OF26 || HE || 42 || 42 || 42 || 42 || 42 || 42
-|-
-| 3BM22 || APFSDS || 425 || 420 || 415 || 405 || 393 || 380
-|-
-| 3BM42 || APFSDS || 457 || 454 || 445 || 431 || 419 || 406
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 3BK12M || HEATFS || 905 || 19 || 0.05 || 0.1 || 2,530 || 65° || 72° || 77°
-|-
-| 3OF26 || HE || 850 || 23 || 0 || 0.1 || 5,240 || 79° || 80° || 81°
-|-
-| 3BM22 || APFSDS || 1,760 || 4.83 || N/A || N/A || N/A || 76° || 77° || 80°
-|-
-| 3BM42 || APFSDS || 1,700 || 4.85 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
+{{:2A46M (125 mm)/Ammunition|3BK12M, 3OF26, 3BM22, 3BM42}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_T-72A.png|right|thumb|x450px|[[Ammo racks]] of the [[T-72A]] (identical).]]

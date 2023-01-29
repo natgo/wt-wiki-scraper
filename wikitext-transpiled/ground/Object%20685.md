@@ -72,61 +72,7 @@ The Object 685 has the same ballistics as the [[D-10T2S (100 mm)|D-10T2S]] 100 m
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 3BK17M || HEATFS || 390 || 390 || 390 || 390 || 390 || 390
-|-
-| BR-412D || APCBC || 239 || 236 || 220 || 202 || 186 || 170
-|-
-| 3BM25 || APFSDS || 335 || 330 || 307 || 290 || 275 || 260
-|-
-| OF-412 || HE || 19 || 19 || 19 || 19 || 19 || 19
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 3BK17M || HEATFS || 1,085 || 9.96 || 0.05 || 0.1 || 1,440 || 65° || 72° || 77°
-|-
-| BR-412D || APCBC || 887 || 15.9 || 1.2 || 19 || 93.94 || 48° || 63° || 71°
-|-
-| 3BM25 || APFSDS || 1,430 || 3.4 || N/A || N/A || N/A || 76° || 77° || 80°
-|-
-| OF-412 || HE || 900 || 15.6 || 0 || 0.1 || 1,460 || 79° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| 3D3 || 880 || 15.6 || 20 || 5 || 25 || 50
-|-
-|}
+{{:2A48 (100 mm)/Ammunition|3BK17M, 3D3, BR-412D, 3BM25, OF-412}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

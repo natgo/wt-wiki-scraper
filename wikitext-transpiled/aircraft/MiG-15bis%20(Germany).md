@@ -60,7 +60,7 @@ The MiG-15bis has a great thrust to weight ratio, allowing for amazing accelerat
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || 598 || 450 || ~12 || ~7
+| 1,269 <!--{{Specs|destruction|body}}--> || {{Specs|destruction|gear}} || N/A || 598 || 450 || ~12 || ~7
 |-
 |}
 
@@ -201,6 +201,7 @@ The first production MiG-15s with RD-45F engines began to leave the factory floo
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mig-15bis_nr23_german Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -215,6 +216,7 @@ File:MIG-15 BIS In action.png|<small>The German MiG-15bis shooting down a rival 
 * ''links to approximate analogues of other nations and research trees.''-->
 
 ;Other MiG-15 vehicles
+
 * [[MiG-15]]
 * [[MiG-15bis]]
 * [[MiG-15bis ISH]]

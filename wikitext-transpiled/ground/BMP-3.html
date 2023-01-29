@@ -2942,12 +2942,13 @@
       >
     </li>
   </ul>
+  <p></p>
   <table class="wikitable sortable" style="text-align: center" width="100%">
     <tr>
-      <th colspan="7">Penetration statistics</th>
+      <th colspan="8">Penetration statistics</th>
     </tr>
     <tr>
-      <th rowspan="2" data-sort-type="text">Belt</th>
+      <th rowspan="2" data-sort-type="text">Ammunition</th>
       <th colspan="6">Penetration @ 0° Angle of Attack (mm)</th>
     </tr>
     <tr>
@@ -2959,7 +2960,16 @@
       <th>2,000 m</th>
     </tr>
     <tr>
-      <td>30 mm HE</td>
+      <td>HEF-T*</td>
+      <td>2</td>
+      <td>2</td>
+      <td>2</td>
+      <td>2</td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>AP-T</td>
       <td>65</td>
       <td>63</td>
       <td>53</td>
@@ -2968,22 +2978,85 @@
       <td>29</td>
     </tr>
     <tr>
-      <td>30 mm APT</td>
-      <td>65</td>
-      <td>63</td>
-      <td>53</td>
-      <td>44</td>
-      <td>36</td>
-      <td>29</td>
+      <td>HEF-I*</td>
+      <td>3</td>
+      <td>3</td>
+      <td>3</td>
+      <td>3</td>
+      <td>3</td>
+      <td>3</td>
     </tr>
     <tr>
-      <td>30 mm APDS</td>
+      <td>APDS</td>
       <td>82</td>
       <td>81</td>
       <td>79</td>
       <td>75</td>
       <td>72</td>
       <td>69</td>
+    </tr>
+  </table>
+  <table class="wikitable sortable" style="text-align: center" width="100%">
+    <tr>
+      <th colspan="13">Shell details</th>
+    </tr>
+    <tr>
+      <th rowspan="2" data-sort-type="text">Ammunition</th>
+      <th rowspan="2">Velocity<br />(m/s)</th>
+      <th rowspan="2">Projectile<br />mass (kg)</th>
+      <th rowspan="2">Fuse delay<br />(m)</th>
+      <th rowspan="2">Fuse sensitivity<br />(mm)</th>
+      <th rowspan="2">Explosive mass<br />(TNT equivalent) (g)</th>
+      <th colspan="3">Ricochet</th>
+    </tr>
+    <tr>
+      <th>0%</th>
+      <th>50%</th>
+      <th>100%</th>
+    </tr>
+    <tr>
+      <td>HEF-T*</td>
+      <td>960</td>
+      <td>0.39</td>
+      <td>0</td>
+      <td>0.1</td>
+      <td>17.86</td>
+      <td>79°</td>
+      <td>80°</td>
+      <td>81°</td>
+    </tr>
+    <tr>
+      <td>AP-T</td>
+      <td>970</td>
+      <td>0.4</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>47°</td>
+      <td>60°</td>
+      <td>65°</td>
+    </tr>
+    <tr>
+      <td>HEF-I*</td>
+      <td>960</td>
+      <td>0.39</td>
+      <td>0</td>
+      <td>0.1</td>
+      <td>75.46</td>
+      <td>79°</td>
+      <td>80°</td>
+      <td>81°</td>
+    </tr>
+    <tr>
+      <td>APDS</td>
+      <td>1,120</td>
+      <td>0.3</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>75°</td>
+      <td>78°</td>
+      <td>80°</td>
     </tr>
   </table>
   <h4>
@@ -3129,6 +3202,7 @@
       ><span class="mw-editsection-bracket">]</span></span
     >
   </h4>
+  <p></p>
   <table class="wikitable sortable" style="text-align: center" width="100%">
     <tr>
       <th colspan="8">Penetration statistics</th>
@@ -3189,16 +3263,16 @@
   </table>
   <table class="wikitable sortable" style="text-align: center" width="100%">
     <tr>
-      <th colspan="10">Shell details</th>
+      <th colspan="13">Shell details</th>
     </tr>
     <tr>
       <th rowspan="2" data-sort-type="text">Ammunition</th>
       <th rowspan="2">Type of<br />warhead</th>
       <th rowspan="2">Velocity<br />(m/s)</th>
-      <th rowspan="2">Projectile<br />Mass (kg)</th>
+      <th rowspan="2">Projectile<br />mass (kg)</th>
       <th rowspan="2">Fuse delay<br />(m)</th>
       <th rowspan="2">Fuse sensitivity<br />(mm)</th>
-      <th rowspan="2">Explosive Mass<br />(TNT equivalent) (g)</th>
+      <th rowspan="2">Explosive mass<br />(TNT equivalent) (kg)</th>
       <th colspan="3">Ricochet</th>
     </tr>
     <tr>
@@ -3213,7 +3287,7 @@
       <td>15.6</td>
       <td>0</td>
       <td>0.1</td>
-      <td>2,600</td>
+      <td>2.6</td>
       <td>79°</td>
       <td>80°</td>
       <td>81°</td>
@@ -3225,19 +3299,41 @@
       <td>13.41</td>
       <td>0</td>
       <td>0.1</td>
-      <td>3,540</td>
+      <td>3.54</td>
       <td>79°</td>
       <td>80°</td>
       <td>81°</td>
+    </tr>
+  </table>
+  <table class="wikitable sortable" style="text-align: center" width="100%">
+    <tr>
+      <th colspan="13">Missile details</th>
+    </tr>
+    <tr>
+      <th rowspan="2" data-sort-type="text">Ammunition</th>
+      <th rowspan="2">Type of<br />warhead</th>
+      <th rowspan="2">Velocity<br />(m/s)</th>
+      <th rowspan="2">Range<br />(m)</th>
+      <th rowspan="2">Projectile<br />mass (kg)</th>
+      <th rowspan="2">Fuse delay<br />(m)</th>
+      <th rowspan="2">Fuse sensitivity<br />(mm)</th>
+      <th rowspan="2">Explosive mass<br />(TNT equivalent) (kg)</th>
+      <th colspan="3">Ricochet</th>
+    </tr>
+    <tr>
+      <th>0%</th>
+      <th>50%</th>
+      <th>100%</th>
     </tr>
     <tr>
       <td>9M117</td>
       <td>ATGM</td>
       <td>370</td>
+      <td>4,000</td>
       <td>18.8</td>
       <td>0.05</td>
       <td>0.1</td>
-      <td>4,620</td>
+      <td>4.62</td>
       <td>80°</td>
       <td>82°</td>
       <td>90°</td>
@@ -3246,10 +3342,11 @@
       <td>9M117M1</td>
       <td>ATGM (tandem)</td>
       <td>370</td>
+      <td>5,500</td>
       <td>18.8</td>
       <td>0.4</td>
       <td>0.1</td>
-      <td>4,620</td>
+      <td>4.62</td>
       <td>80°</td>
       <td>82°</td>
       <td>90°</td>

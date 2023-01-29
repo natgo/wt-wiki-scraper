@@ -168,11 +168,11 @@ The F-100A is an early supersonic jet. Its speed, acceleration, and high speed h
 
 The general playstyle for the Super Sabres is to build up speed and try to maintain it, because once it is gone, the poor low-speed handling becomes a major issue and the subpar acceleration makes it hard to recover quickly. At the start of the match, it is generally a good idea to fly to the side and avoid entering battle directly. This gives the F-100A time to build speed, altitude, and energy without getting surprised by fast or airspawned opponents. Enter combat at high speed and look for vulnerable targets. Enemies that are flying in straight lines can be surprised with an AIM-9B. If they are manoeuvring and/or aware of your position, the guns might work better. The F-100A can turn well enough in the short term to credibly threaten most opponents and the excellent guns will seal the deal if you can outplay them, but remember to manage its speed as the situation requires: fly too quickly and there will be issues with control compression and wing overload, fly too slowly and the F-100A will be in trouble as stated before. Take advantage of the improved roll rate compared to the F-100D in rolling scissors manoeuvres.
 
-Air-to-air missiles are an issue because the F-100A has no countermeasures. Early missiles like the AIM-9B and R-3S are easy to dodge by turning, but doing so will force the F-100A to lose some speed and energy. The F-100A can outrun missiles if they are launched from some distance away, so this is another reason to maintain speed. Perform some light manoeuvres to drain the missile's energy as necessary. Some opponents like the [[AV-8A]] and [[MiG-21 SPS-K (Germany)|MiG-21 SPS-K]] have advanced missiles that are difficult to counter, so be extra cautious.
+Air-to-air missiles are an issue because the F-100A has no countermeasures. Early missiles like the AIM-9B and R-3S are easy to dodge by turning, but doing so will force the F-100A to lose some speed and energy. The F-100A can outrun missiles if they are launched from some distance away, so this is another reason to maintain speed. Perform some light manoeuvres to drain the missile's energy as necessary. Be wary of opponents with deadly missiles, such as the [[Su-25]]/[[Su-25K|K]] with all-aspect, highly agile R-60Ms, and avoid engaging them in head-ons.
 
 ==='''Ground Battles'''===
 
-The F-100A is a handy accompaniment to ground lineups as well. It is the first aircraft in the Chinese tech tree with access to air-to-ground missiles and its supersonic speed makes it easier to dodge gunfire and fly to and from the airfield in between sorties. The two Bullpups can destroy enemies from safe distances (2-3 km away) upon a direct hit or near miss. This does require some good eyesight or spotting assistance by friendly light tanks. The missile capacity is low, but the F-100A can stick around for gun runs if there are no SPAAs around or otherwise quickly return to base to restock. Despite not being an attacker aircraft, the F-100A is arguably more practical than the [[Q-5 early]] and [[Q-5A]] simply because of the utility that the Bullpups offer compared to unguided weapons.
+The F-100A is a handy accompaniment to ground lineups as well. It is the first aircraft in the Chinese tech tree with access to air-to-ground missiles and its supersonic speed makes it easier to dodge gunfire and fly to and from the airfield in between sorties. The two Bullpups can destroy enemies from safe distances (2-3 km away) upon a direct hit or near miss. This does require some good eyesight or spotting assistance by friendly light tanks. The missile capacity is low, but the F-100A can stick around for gun runs if there are no SPAAs around or otherwise quickly return to base to restock. Despite not being an attacker aircraft, the F-100A is more practical for CAS than the PLAAF [[Q-5 early]]. The [[Q-5A]] is somewhat superior with its ballistic computer, countermeasures, and larger payload, but the F-100A's Bullpups are still the best for precise and powerful long-range attacks.
 
 Be on the lookout for SAM vehicles because they may be able to engage the F-100A even from long distances, and the F-100A cannot drop chaff to disrupt radar locks or spoof IR missiles. If you spot a missile launch, perform evasive manoeuvres and try to keep a low profile while the vehicle is still around.
 
@@ -200,9 +200,10 @@ It will automatically detect other planes within the scanning area and display t
 
 * Excellent guns that have both high muzzle velocity, rate of fire, plenty of ammo (200 rpg), and pack a good punch with high-explosive and armour-piercing shells
 * Can carry up to four AIM-9B missiles
-* Access to AGM-12B Bullpup missiles for ground attack
+* Access to AGM-12B Bullpup missiles for standoff ground attack
 * Fast and out-accelerates both MiG-15s and MiG-17s
 * Good manoeuvrability for a large supersonic jet
+* Radar warning receiver improves situational awareness, especially in Ground RB
 
 '''Cons:'''
 
@@ -210,6 +211,7 @@ It will automatically detect other planes within the scanning area and display t
 * Acceleration is not very fast in its class
 * Suffers from severe lock-up past Mach 1
 * Loses a lot of energy when trying to turn around at high speed
+* No countermeasures
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

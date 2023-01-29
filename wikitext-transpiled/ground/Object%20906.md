@@ -64,43 +64,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rat
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| BR-372 || APCBC || 245 || 242 || 229 || 214 || 200 || 187
-|-
-| 3BK7 || HEATFS || 300 || 300 || 300 || 300 || 300 || 300
-|-
-| OF-372 || HE || 11 || 11 || 11 || 11 || 11 || 11
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| BR-372 || APCBC || 1,040 || 9.3 || 1.2 || 14 || 77 || 48° || 63° || 71°
-|-
-| 3BK7 || HEATFS || 925 || 7.22 || 0.05 || 0.1 || 1,440 || 65° || 72° || 77°
-|-
-| OF-372 || HE || 1,010 || 9.66 || 0 || 0.1 || 740 || 79° || 80° || 81°
-|-
-|}
+{{:D-58 (85 mm)/Ammunition|BR-372, 3BK7, OF-372}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

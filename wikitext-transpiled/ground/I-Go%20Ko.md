@@ -72,39 +72,7 @@ Much like the armour, the {{PAGENAME}} leaves something to be desired in the mob
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Type 92 APHE || APHE || 21 || 21 || 19 || 16 || 14 || 13
-|-
-| Type 3 HEAT || HEAT || 55 || 55 || 55 || 55 || 55 || 55
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Type 92 APHE || APHE || 349 || 2.58 || 1.2 || 9 || 103 || 47° || 60° || 65°
-|-
-| Type 3 HEAT || HEAT || 380 || 1.8 || 0.05 || 0.1 || 303.36 || 62° || 69° || 73°
-|-
-|}
+{{:Type 90 (57 mm)/Ammunition|Type 92 APHE, Type 3 HEAT}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
