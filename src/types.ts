@@ -1,3 +1,5 @@
+import { z } from "zod";
+
 export interface Economy {
   value: number;
   reqExp: number;
@@ -33,7 +35,7 @@ export interface Economy {
   economicRankArcade: number;
   economicRankHistorical: number;
   economicRankSimulation: number;
-  country: VehicleCountry;
+  country: CountryName;
   unitClass: string;
   spawnType: string;
   unitMoveType: string;
@@ -63,8 +65,19 @@ export interface Economy {
   spare: Spare;
 }
 
-export type VehicleCountry = "country_usa"| "country_germany"| "country_ussr"| "country_britain"| "country_japan"| "country_china"| "country_italy"| "country_france"| "country_sweden"| "country_israel";
-
+export const country = z.enum([
+  "country_usa",
+  "country_germany",
+  "country_ussr",
+  "country_britain",
+  "country_japan",
+  "country_china",
+  "country_italy",
+  "country_france",
+  "country_sweden",
+  "country_israel",
+]);
+export type CountryName = z.infer<typeof country>;
 
 export interface Spare {
   value: number;
@@ -2510,7 +2523,7 @@ export interface FinalShopRange {
   col_normal: number;
   min_rank: number;
   max_rank: number;
-  needVehicles:number[];
+  needVehicles: number[];
   range: Array<FinalShopItem | FinalShopGroup>[];
 }
 

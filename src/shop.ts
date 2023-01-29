@@ -1,9 +1,9 @@
 import fs from "fs";
 import { format } from "prettier";
-import { z } from "zod";
 
 import { langcsvJSON } from "./csvJSON";
 import {
+  CountryName,
   Final,
   FinalShop,
   FinalShopGroup,
@@ -15,12 +15,9 @@ import {
   ShopCountry,
   ShopGroup,
   ShopItem,
-  VehicleCountry,
   VehicleProps,
+  country,
 } from "./types";
-
-const country = z.enum(["country_usa", "country_germany", "country_ussr", "country_britain", "country_japan", "country_china", "country_italy", "country_france", "country_sweden", "country_israel"]);
-type Country = z.infer<typeof country>
 
 function shopRangeFE(
   range: Record<string, ShopItem | ShopGroup>[],
@@ -29,9 +26,9 @@ function shopRangeFE(
     English: string;
   }[],
   final: VehicleProps[],
-  rank:NeedBuyToOpenNextInEra,
-  country:VehicleCountry,
-  type:string,
+  rank: NeedBuyToOpenNextInEra,
+  country: CountryName,
+  type: string,
 ) {
   const army: FinalShopRange = {
     col_normal: 0,
@@ -42,8 +39,8 @@ function shopRangeFE(
   };
 
   let i = 1;
-  Object.entries(rank[country]).forEach(([key,value] )=> {
-    if (key ===`needBuyToOpenNextInEra${type}${i}`) {
+  Object.entries(rank[country]).forEach(([key, value]) => {
+    if (key === `needBuyToOpenNextInEra${type}${i}`) {
       army.needVehicles.push(value);
       i++;
     }
@@ -158,12 +155,31 @@ async function main(dev: boolean) {
   Object.entries(shopData).forEach(([key, value]) => {
     const value2 = value as ShopCountry;
 
-    country.parse(key);
-    
     result[key] = {
-      army: shopRangeFE(value2.army.range, units_lang, final.ground,rankData.needBuyToOpenNextInEra,key as Country,"Tank"),
-      helicopters: shopRangeFE(value2.helicopters.range, units_lang, final.helicopter,rankData.needBuyToOpenNextInEra,key as Country,"Helicopter"),
-      aviation: shopRangeFE(value2.aviation.range, units_lang, final.aircraft,rankData.needBuyToOpenNextInEra,key as Country,"Aircraft"),
+      army: shopRangeFE(
+        value2.army.range,
+        units_lang,
+        final.ground,
+        rankData.needBuyToOpenNextInEra,
+        country.parse(key),
+        "Tank",
+      ),
+      helicopters: shopRangeFE(
+        value2.helicopters.range,
+        units_lang,
+        final.helicopter,
+        rankData.needBuyToOpenNextInEra,
+        country.parse(key),
+        "Helicopter",
+      ),
+      aviation: shopRangeFE(
+        value2.aviation.range,
+        units_lang,
+        final.aircraft,
+        rankData.needBuyToOpenNextInEra,
+        country.parse(key),
+        "Aircraft",
+      ),
     };
   });
 

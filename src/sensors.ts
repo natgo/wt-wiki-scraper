@@ -1,28 +1,28 @@
 import fs from "fs";
 
-import { AirVehicle, counterMeasures, Sensor, Sensors, VehicleSensor } from "./types";
+import { AirVehicle, Sensor, Sensors, VehicleSensor, counterMeasures } from "./types";
 
 export function sensors(vehicleData: AirVehicle, dev: boolean) {
-  let data = parseVehicleSensors(vehicleData.sensors,vehicleData.counterMeasures,dev);
+  let data = parseVehicleSensors(vehicleData.sensors, vehicleData.counterMeasures, dev);
 
-  Object.values(vehicleData.modifications).forEach(element => {
+  Object.values(vehicleData.modifications).forEach((element) => {
     if (element.effects) {
       if (element.effects.counterMeasures) {
         if (Array.isArray(element.effects.counterMeasures.counterMeasure)) {
           element.effects.counterMeasures.counterMeasure.forEach((element) => {
-            data=sensorFE(data,element,dev);
+            data = sensorFE(data, element, dev);
           });
         } else if (element.effects.counterMeasures.counterMeasure) {
-          data=sensorFE(data,element.effects.counterMeasures.counterMeasure,dev);
+          data = sensorFE(data, element.effects.counterMeasures.counterMeasure, dev);
         }
       }
       if (element.effects.sensors) {
         if (Array.isArray(element.effects.sensors.sensor)) {
           element.effects.sensors.sensor.forEach((element) => {
-            data=sensorFE(data,element,dev);
+            data = sensorFE(data, element, dev);
           });
         } else if (element.effects.sensors.sensor) {
-          data=sensorFE(data,element.effects.sensors.sensor,dev);
+          data = sensorFE(data, element.effects.sensors.sensor, dev);
         }
       }
     }
@@ -51,7 +51,11 @@ export function sensors(vehicleData: AirVehicle, dev: boolean) {
   };
 }
 
-function parseVehicleSensors(sensors:Sensors|undefined,countermeasures:counterMeasures|undefined,dev:boolean) {
+function parseVehicleSensors(
+  sensors: Sensors | undefined,
+  countermeasures: counterMeasures | undefined,
+  dev: boolean,
+) {
   let data = {
     maw: false,
     lws: false,
@@ -59,27 +63,31 @@ function parseVehicleSensors(sensors:Sensors|undefined,countermeasures:counterMe
     ircm: false,
     hirss: false,
   };
-  
+
   if (Array.isArray(sensors?.sensor)) {
     sensors?.sensor.forEach((element) => {
-      data=sensorFE(data,element,dev);
+      data = sensorFE(data, element, dev);
     });
   } else if (sensors?.sensor) {
-    data=sensorFE(data,sensors.sensor,dev);
+    data = sensorFE(data, sensors.sensor, dev);
   }
 
   if (Array.isArray(countermeasures?.counterMeasure)) {
     countermeasures?.counterMeasure.forEach((element) => {
-      data=sensorFE(data,element,dev);
+      data = sensorFE(data, element, dev);
     });
   } else if (countermeasures?.counterMeasure) {
-    data=sensorFE(data,countermeasures?.counterMeasure,dev);
+    data = sensorFE(data, countermeasures?.counterMeasure, dev);
   }
 
   return data;
 }
 
-function sensorFE(data:{ maw: boolean; lws: boolean; rwr: boolean; ircm: boolean; hirss: boolean; },sensor:VehicleSensor,dev:boolean) {
+function sensorFE(
+  data: { maw: boolean; lws: boolean; rwr: boolean; ircm: boolean; hirss: boolean },
+  sensor: VehicleSensor,
+  dev: boolean,
+) {
   const blk: Sensor = JSON.parse(
     fs.readFileSync(
       `./${
@@ -105,6 +113,6 @@ function sensorFE(data:{ maw: boolean; lws: boolean; rwr: boolean; ircm: boolean
     }
     console.log(blk.type);
   }
-  
+
   return data;
 }
