@@ -1,6 +1,6 @@
 import fs from "fs";
 
-import { AirVehicle, Sensor, Sensors, VehicleSensor, counterMeasures } from "./types";
+import { AirVehicle, Sensor, Sensors, VehicleSensor, counterMeasures } from "../types";
 
 export function sensors(vehicleData: AirVehicle, dev: boolean) {
   let data = parseVehicleSensors(vehicleData.sensors, vehicleData.counterMeasures, dev);

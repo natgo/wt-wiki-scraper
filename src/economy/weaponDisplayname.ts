@@ -1,6 +1,6 @@
 import fs from "fs";
 
-import { Container, WeaponPreset } from "./types";
+import { Container, WeaponPreset } from "../types";
 
 export function weaponDisplayname(
   weaponPreset: WeaponPreset,

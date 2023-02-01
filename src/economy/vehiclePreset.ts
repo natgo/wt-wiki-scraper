@@ -1,5 +1,5 @@
 import { DeepShit, WeaponArray, typeSwitch } from "./secondaryPresets";
-import { AirVehicle, FinalWeapon, FinalWeapons, SecondaryWeaponPreset } from "./types";
+import { AirVehicle, FinalWeapon, FinalWeapons, SecondaryWeaponPreset } from "../types";
 import { weaponDisplayname } from "./weaponDisplayname";
 
 export function vehiclePreset(

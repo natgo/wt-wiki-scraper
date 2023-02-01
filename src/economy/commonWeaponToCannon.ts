@@ -1,7 +1,7 @@
 import fs from "fs";
 
 import { stabilizer } from "./stabilizer";
-import { Belt, Bullet, Shell, ShellBelt, TankCannon, Weapon, WeaponGround } from "./types";
+import { Belt, Bullet, Shell, ShellBelt, TankCannon, Weapon, WeaponGround } from "../types";
 
 export function CWToCannon(
   Weapon: WeaponGround,
@@ -98,7 +98,7 @@ export function CWToCannon(
       });
       belts.push(belt);
     } else {
-      const weaponelement: Bullet = weapon_data[element.name].bullet;
+      const weaponelement = weapon_data[element.name].bullet as Bullet;
       langdata.forEach((langelement) => {
         if (langelement.ID === weaponelement.bulletName && weaponelement.bulletName) {
           const shell: Shell = {

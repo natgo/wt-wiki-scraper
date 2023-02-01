@@ -8,7 +8,7 @@
   "scripts": {
     "build": "tsc",
     "pretty": "prettier -w src/ --plugin=./node_modules/@trivago/prettier-plugin-sort-imports/",
-    "start": "bash ./clean.sh && tsc ; node dist/wiki.js && node dist/vehicles.js && prettier -w wikitext-transpiled/*/*.html --plugin=./node_modules/@trivago/prettier-plugin-sort-imports/ ; node dist/economy.js && node dist/images.js && node dist/shop.js"
+    "start": "bash ./clean.sh && tsc ; node dist/wiki.js && node dist/vehicles.js && prettier -w wikitext-transpiled/*/*.html --plugin=./node_modules/@trivago/prettier-plugin-sort-imports/ ; node dist/economy/economy.js && node dist/images.js && node dist/shop.js"
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "4.0.0",

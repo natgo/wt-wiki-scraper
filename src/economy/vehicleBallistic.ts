@@ -1,4 +1,4 @@
-import { AirVehicle, BallisticComputer } from "./types";
+import { AirVehicle, BallisticComputer } from "../types";
 
 export function vehicleBallistic(vehicleData: AirVehicle): BallisticComputer | undefined {
   let ballistic: BallisticComputer | undefined = undefined;

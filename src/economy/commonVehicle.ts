@@ -1,4 +1,4 @@
-import { Economy, FinalProps, Shop, ShopItem, UnitData, namevehicle } from "./types";
+import { Economy, FinalProps, Shop, ShopItem, UnitData, namevehicle } from "../types";
 import { vehicleType } from "./vehicleType";
 
 const br = [

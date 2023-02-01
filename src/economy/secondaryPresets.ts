@@ -5,7 +5,7 @@ import {
   FinalWeapons,
   WeaponNamePreset,
   WeaponPreset,
-} from "./types";
+} from "../types";
 import { weaponDisplayname } from "./weaponDisplayname";
 
 export function DeepShit(

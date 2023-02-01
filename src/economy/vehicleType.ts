@@ -1,4 +1,4 @@
-import { UnitData } from "./types";
+import { UnitData } from "../types";
 
 export function vehicleType(vehicleUnit: UnitData) {
   let type = "";

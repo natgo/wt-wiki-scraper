@@ -3,7 +3,7 @@ import { format } from "prettier";
 
 import { commonVehicle } from "./commonVehicle";
 import { CWToCannon } from "./commonWeaponToCannon";
-import { langcsvJSON } from "./csvJSON";
+import { langcsvJSON } from "../csvJSON";
 import { sensors } from "./sensors";
 import {
   AirVehicle,
@@ -17,7 +17,7 @@ import {
   TankWeapons,
   UnitData,
   namevehicles,
-} from "./types";
+} from "../types";
 import { vehicleBallistic } from "./vehicleBallistic";
 import { vehiclePreset } from "./vehiclePreset";
 
