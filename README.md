@@ -64,6 +64,5 @@ the output will be in out/ directory
 - [x] Update the techtree directory
 - [ ] Complete the scrape module
 - [ ] Improve the file structure
-- [ ] Unify groud aircraft and helicopter
 - [x] Driver thermal
-- [ ] Add stabilizer and machineguns
+- [ ] Add machineguns
