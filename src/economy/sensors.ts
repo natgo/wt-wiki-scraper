@@ -14,41 +14,43 @@ export function sensors(
 } {
   let data = parseVehicleSensors(vehicleData.sensors, vehicleData.counterMeasures, dev);
 
-  Object.values(vehicleData.modifications).forEach((element) => {
-    if (element.effects) {
-      if (element.effects.counterMeasures) {
-        if (Array.isArray(element.effects.counterMeasures.counterMeasure)) {
-          element.effects.counterMeasures.counterMeasure.forEach((element) => {
-            data = sensorFE(data, element, dev);
-          });
-        } else if (element.effects.counterMeasures.counterMeasure) {
-          data = sensorFE(data, element.effects.counterMeasures.counterMeasure, dev);
+  if (vehicleData.modifications) {
+    Object.values(vehicleData.modifications).forEach((element) => {
+      if (element.effects) {
+        if (element.effects.counterMeasures) {
+          if (Array.isArray(element.effects.counterMeasures.counterMeasure)) {
+            element.effects.counterMeasures.counterMeasure.forEach((element) => {
+              data = sensorFE(data, element, dev);
+            });
+          } else if (element.effects.counterMeasures.counterMeasure) {
+            data = sensorFE(data, element.effects.counterMeasures.counterMeasure, dev);
+          }
+        }
+        if (element.effects.sensors) {
+          if (Array.isArray(element.effects.sensors.sensor)) {
+            element.effects.sensors.sensor.forEach((element) => {
+              data = sensorFE(data, element, dev);
+            });
+          } else if (element.effects.sensors.sensor) {
+            data = sensorFE(data, element.effects.sensors.sensor, dev);
+          }
         }
       }
-      if (element.effects.sensors) {
-        if (Array.isArray(element.effects.sensors.sensor)) {
-          element.effects.sensors.sensor.forEach((element) => {
-            data = sensorFE(data, element, dev);
-          });
-        } else if (element.effects.sensors.sensor) {
-          data = sensorFE(data, element.effects.sensors.sensor, dev);
-        }
-      }
+    });
+
+    if (
+      vehicleData.modifications.MAW_system_heli_false_thermal_targets ||
+      vehicleData.modifications.AMASE_heli_false_thermal_targets
+    ) {
+      data.maw = true;
     }
-  });
 
-  if (
-    vehicleData.modifications.MAW_system_heli_false_thermal_targets ||
-    vehicleData.modifications.AMASE_heli_false_thermal_targets
-  ) {
-    data.maw = true;
-  }
-
-  if (vehicleData.modifications.heli_counterMeasures) {
-    data.ircm = true;
-  }
-  if (vehicleData.modifications.heli_screen_exhaust_device) {
-    data.hirss = true;
+    if (vehicleData.modifications.heli_counterMeasures) {
+      data.ircm = true;
+    }
+    if (vehicleData.modifications.heli_screen_exhaust_device) {
+      data.hirss = true;
+    }
   }
 
   return {

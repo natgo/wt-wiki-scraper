@@ -243,7 +243,16 @@ export interface Turret {
   horDriveDm?: string;
 }
 
-export interface GroundMod {
+export interface GameBaseMod {
+  tier?: number;
+  prevModification?: string;
+  modClass?: string;
+  invertEnableLogic?: string;
+  deactivationIsAllowed?: boolean;
+  reqModification?: string;
+}
+
+export interface GroundMod extends GameBaseMod {
   maxToRespawn?: number;
   effects?: {
     nightVision?: {
@@ -681,7 +690,7 @@ export interface AirVehicle extends BaseVehicle {
   haveCCIPForGun?: boolean;
   haveCCRPForBombs?: boolean;
   cockpit: Cockpit;
-  modifications: Record<string, AirMod>;
+  modifications?: Record<string, AirMod>;
   sensors?: Sensors;
   counterMeasures?: counterMeasures;
   ikPilot: IkPilot;
@@ -700,7 +709,7 @@ export interface AirVehicle extends BaseVehicle {
   user_skin: UserSkin;
 }
 
-export interface AirMod {
+export interface AirMod extends GameBaseMod {
   effects?: {
     nightVision?: {
       sightThermal?: {
@@ -1709,6 +1718,207 @@ export interface Bundles {
   guid: { [key: string]: string };
 }
 
+// char/modifications
+
+export interface Mods {
+  modifications: { [key: string]: Modification };
+  templates: Templates;
+}
+
+export interface Modification {
+  image?: string;
+  valueMul?: number;
+  costGold?: boolean;
+  reqModification?: string;
+  group?: string;
+  effects?: Effects;
+  modClass?: GameModClass;
+  tier?: number;
+  caliber?: number;
+  deactivationIsAllowed?: boolean;
+  invertEnableLogic?: boolean;
+  modOverdriveType?: ModEType;
+  modUpgradeType?: ModEType;
+  isTurretBelt?: boolean;
+  requiresModelReload?: boolean;
+  autoMod?: boolean;
+  premAir?: boolean;
+  commonAir?: boolean;
+  minRank?: number;
+  maxRank?: number;
+  specialPrice?: boolean;
+  prevModification?: string;
+  dontDecreaseAirRCost?: boolean;
+  overdriveEffect?: { [key: string]: number };
+  upgradeEffect?: { [key: string]: number };
+  isReserve?: boolean;
+  turn_it_off?: boolean;
+  maxCount?: number;
+  isHidden?: boolean;
+}
+
+export interface Effects {
+  bulletMod?: string;
+  weaponMod?: string;
+  mulCdmin?: number;
+  mulOswEffNumber?: number;
+  mulCdminFusel?: number;
+  mulCdminTail?: number;
+  gForceTolerationMult?: number;
+  aileronBooster?: number;
+  rudderBooster?: number;
+  elevatorBooster?: number;
+  mulHorsePowers?: number;
+  mulCompressorMaxP?: number;
+  thrustMult?: number;
+  torqueMult?: number;
+  radiatorEffMul?: number;
+  extinguisherNum?: number;
+  afterburnerMult?: number;
+  wepOverspeedMult?: number;
+  throttleMult?: number;
+  damageReceivedMult?: number;
+  mulMass?: number;
+  cutProbabilityMult?: number;
+  additiveBulletMod?: string;
+  allowSupportPlane?: boolean;
+  mulMaxDeltaAngle?: number;
+  mulMaxDeltaAngleVertical?: number;
+  mulFrontalStaticFriction?: number;
+  mulFrontalSlidingFriction?: number;
+  mulSideRotMinSpd?: number;
+  mulSideRotMaxSpd?: number;
+  mulSideRotMinFric?: number;
+  mulSideRotMaxFric?: number;
+  tracks?: EffectsTracks;
+  hideNodes?: HideNodes;
+  damagePartsOverride?: DamagePartsOverride;
+  mulSuspensionDampeningMoment?: number;
+  mulSuspensionMinLimit?: number;
+  mulSuspensionMaxLimit?: number;
+  mulSuspensionResting?: number;
+  rcostMul?: number;
+  mulMaxBrakeForce?: number;
+  mulTransmissionEfficiency?: number;
+  fakeParam?: number;
+  smokeScreenCount?: number;
+  smokeScreenTime?: number;
+  smokeScreenCooldown?: number;
+  gunnerSpeedDeflection?: number;
+  mulSpeedYaw?: number;
+  mulSpeedPitch?: number;
+  rcostAddParam?: number;
+  supportUnitClass?: string;
+  supportUnitTag?: string;
+  extinguisherAutomatic?: boolean;
+  extinguisherActivationCount?: number;
+  extinguisherMinTime?: number;
+  extinguisherMaxTime?: number;
+  extinguisherCrewBusyTime?: number;
+  extinguisherCooldown?: number;
+  repairAvailable?: boolean;
+  healingCooldown?: number;
+  medicalkitCount?: number;
+  rangefinderMounted?: boolean;
+  distanceError?: number[];
+  distanceThresholdMin?: number[];
+  distanceThresholdMax?: number[];
+  distanceErrorRealistic?: number[];
+  distanceThresholdMinRealistic?: number[];
+  distanceThresholdMaxRealistic?: number[];
+  timeMeasurementRange?: number[];
+  sensors?: ModSensors;
+  isLaser?: boolean;
+  enableNightVision?: boolean;
+  diggingAvailable?: boolean;
+  diggingActivateTime?: number;
+  diggingLevel?: number;
+  digMaxSpeed?: number;
+  digMaxRevSpeed?: number;
+  killStreakExtraJoin?: boolean;
+  scoutingScoreMultiplier?: number;
+  improvedOpticsMult?: number;
+  mulMaxSpeed?: number;
+  mulMaxReverseSpeed?: number;
+  mulRudderArea?: number;
+  mulRudderDeflection?: number;
+  mulTimeToMaxSpeed?: number;
+  mulTimeToMaxReverseSpeed?: number;
+  speedBoosterMaxCount?: number;
+  speedBoosterRise?: number;
+  speedBoosterTimeOut?: number;
+  waterMassVelMult?: number;
+  aaSpeedYawK?: number;
+  aaSpeedPitchK?: number;
+  auxSpeedYawK?: number;
+  auxSpeedPitchK?: number;
+  mainSpeedYawK?: number;
+  mainSpeedPitchK?: number;
+  shipDistancePrecisionErrorMult?: number;
+  mulCdminMainRotor?: number;
+  mulOswEffNumberMainRotor?: number;
+  addThrustVecAzimuth?: number;
+  addThrustVecElevation?: number;
+  enginesInfraRedBrightnessMult?: number;
+}
+
+export interface DamagePartsOverride {
+  tracks: DamagePartsOverrideTracks;
+}
+
+export interface DamagePartsOverrideTracks {
+  hpMult: number;
+}
+
+export interface HideNodes {
+  node: string[];
+}
+
+export interface ModSensors {
+  sensor: SensorElement[] | SensorElement;
+}
+
+export interface SensorElement {
+  blk: string;
+}
+
+export interface EffectsTracks {
+  width: number;
+  trackMesh?: string;
+  nonSymmetricMesh?: boolean;
+}
+
+export type GameModClass =
+  | "weapon"
+  | "premium"
+  | "lth"
+  | "armor"
+  | "firepower"
+  | "mobility"
+  | "protection"
+  | "expendable"
+  | "seakeeping"
+  | "unsinkability";
+
+export type ModEType = "new_gun";
+
+export interface Templates {
+  new_gun: NewGun;
+}
+
+export interface NewGun {
+  copyWeaponMod: boolean;
+  overdriveEffect: OverdriveEffect;
+  upgradeEffect: OverdriveEffect;
+  overdriveEffect_inverted: OverdriveEffect;
+  upgradeEffect_inverted: OverdriveEffect;
+}
+
+export interface OverdriveEffect {
+  mulMaxDeltaAngleOverdrive: number;
+  overheatTimingMulOverdrive: number;
+}
+
 // char/rank
 
 export interface Rank {
@@ -2537,3 +2747,54 @@ export type FinalShopGroup = {
   reqAir?: "" | string;
   vehicles: FinalShopItem[];
 };
+
+// Modifications
+
+export interface Modifications {
+  ground: (VehicleMods | undefined)[];
+  aircraft: (VehicleMods | undefined)[];
+  helicopter: (VehicleMods | undefined)[];
+}
+
+export const modClassName = z.enum([
+  "lth",
+  "armor",
+  "weapon",
+  "mobility",
+  "protection",
+  "firepower",
+  "primaryWeapon",
+  "secondaryWeapon",
+  "premiumMods",
+  "expendables",
+  "seakeeping",
+  "unsinkability",
+]);
+export type ModClassName = z.infer<typeof modClassName>;
+
+export interface VehicleMods {
+  intname: string;
+  mods: ModClass;
+}
+
+export interface ModClass {
+  lth?: BaseMod[][];
+  armor?: BaseMod[][];
+  weapon?: BaseMod[][];
+  mobility?: BaseMod[][];
+  protection?: BaseMod[][];
+  firepower?: BaseMod[][];
+  primaryWeapon?: BaseMod[][];
+  secondaryWeapon?: BaseMod[][];
+  premiumMods?: BaseMod[][];
+  expendables?: BaseMod[][];
+  seakeeping?: BaseMod[][];
+  unsinkability?: BaseMod[][];
+}
+
+export interface BaseMod {
+  intname: string;
+  displayname?: string;
+  reqMod?: string;
+  image: string;
+}

@@ -2,6 +2,7 @@ import fs from "fs";
 import { format } from "prettier";
 
 import { langcsvJSON } from "../csvJSON";
+import { parseLang } from "../lang";
 import {
   AirVehicle,
   Economy,
@@ -84,9 +85,7 @@ async function main(dev: boolean) {
     );
     const vehicleEconomy = economy[element.intname];
     const vehicleUnit = unitData[element.intname];
-    const vehicleLang = units_lang.find((lang) => {
-      return lang.ID === element.intname + "_shop";
-    });
+    const vehicleLang = parseLang(units_lang, element.intname + "_shop");
 
     let night: NightVision = {};
     const bullets: { name: string; maxamount?: number }[] = [];
@@ -270,9 +269,7 @@ async function main(dev: boolean) {
     );
     const vehicleEconomy = economy[element.intname];
     const vehicleUnit = unitData[element.intname];
-    const vehicleLang = units_lang.find((lang) => {
-      return lang.ID === element.intname + "_shop";
-    });
+    const vehicleLang = parseLang(units_lang, element.intname + "_shop");
 
     final.aircraft.push({
       ...commonVehicle(element, vehicleLang, vehicleEconomy, vehicleUnit, shopData, "aviation"),
@@ -292,9 +289,7 @@ async function main(dev: boolean) {
     );
     const vehicleEconomy = economy[element.intname];
     const vehicleUnit = unitData[element.intname];
-    const vehicleLang = units_lang.find((lang) => {
-      return lang.ID === element.intname + "_shop";
-    });
+    const vehicleLang = parseLang(units_lang, element.intname + "_shop");
 
     const sight =
       vehicleData.cockpit.sightInFov && vehicleData.cockpit.sightOutFov
@@ -304,33 +299,35 @@ async function main(dev: boolean) {
     let optics: HelicopterOptics | undefined = {
       sight: sight ? { ...sight } : undefined,
     };
-    Object.values(vehicleData.modifications).forEach((value) => {
-      if (value.effects?.nightVision) {
-        if (sight) {
-          optics = {
-            pilot: {
-              ir: value.effects.nightVision.pilotIr,
-            },
-            gunner: {
-              ir: value.effects.nightVision.gunnerIr,
-            },
-            sight: {
-              ...sight,
-              thermal: value.effects.nightVision.sightThermal,
-            },
-          };
-        } else {
-          optics = {
-            pilot: {
-              ir: value.effects.nightVision.pilotIr,
-            },
-            gunner: {
-              ir: value.effects.nightVision.gunnerIr,
-            },
-          };
+    if (vehicleData.modifications) {
+      Object.values(vehicleData.modifications).forEach((value) => {
+        if (value.effects?.nightVision) {
+          if (sight) {
+            optics = {
+              pilot: {
+                ir: value.effects.nightVision.pilotIr,
+              },
+              gunner: {
+                ir: value.effects.nightVision.gunnerIr,
+              },
+              sight: {
+                ...sight,
+                thermal: value.effects.nightVision.sightThermal,
+              },
+            };
+          } else {
+            optics = {
+              pilot: {
+                ir: value.effects.nightVision.pilotIr,
+              },
+              gunner: {
+                ir: value.effects.nightVision.gunnerIr,
+              },
+            };
+          }
         }
-      }
-    });
+      });
+    }
 
     console.log(element.intname);
 

@@ -2,6 +2,7 @@ import fs from "fs";
 import { format } from "prettier";
 
 import { langcsvJSON } from "./csvJSON";
+import { parseLang } from "./lang";
 import {
   CountryName,
   Final,
@@ -53,9 +54,7 @@ function shopRangeFE(
     const range: Array<FinalShopItem | FinalShopGroup> = [];
     Object.entries(element).forEach(([key, value]) => {
       if ("image" in value) {
-        const groupLang = units_lang.find((lang) => {
-          return lang.ID === "shop/group/" + key;
-        });
+        const groupLang = parseLang(units_lang, "shop/group/" + key);
         if (!groupLang) {
           throw new Error(`no match in lang data to shop/group/${element.intname}`);
         }

@@ -1,5 +1,6 @@
 import fs from "fs";
 
+import { parseLang } from "../lang";
 import { GenericGun, LangData, Weapon, WeaponGround } from "../types";
 
 export function machineGun(
@@ -9,9 +10,7 @@ export function machineGun(
 ): GenericGun | undefined {
   const name = Weapon.blk.split("/")[Weapon.blk.split("/").length - 1].replace(/\.blk/g, "");
   let weapon_data: Weapon;
-  const enName = langdata.find((langelement) => {
-    return langelement.ID === "weapons/" + name;
-  })?.English;
+  const enName = parseLang(langdata, "weapons/" + name)?.English;
 
   if (name === "dummy_weapon") {
     return undefined;
@@ -28,7 +27,7 @@ export function machineGun(
 
   const cannon: GenericGun = {
     intname: name,
-    displayname: enName?enName:"",
+    displayname: enName ? enName : "",
     ammo: Weapon.bullets ? Weapon.bullets : 0,
     horizonalSpeed:
       Weapon.parkInDeadzone || Weapon.speedYaw === 0 || Weapon.speedPitch === 0

@@ -1,3 +1,4 @@
+import { parseLang } from "../lang";
 import {
   Cannon,
   FinalWeapon,
@@ -49,15 +50,13 @@ export function WeaponArray(element: Cannon[], weaponry_lang: LangData[]): Final
     if (type === null) {
       console.log(element, element.trigger, "deep");
     }
+    const blk = element.blk.split("/");
     weapons.push({
       type: type,
-      displayname: weaponry_lang.find((botelement) => {
-        const blk = element.blk.split("/");
-        return (
-          botelement.ID.toLowerCase() ===
-          `weapons/${blk[blk.length - 1].split(".")[0].toLowerCase()}/short`
-        );
-      })?.English,
+      displayname: parseLang(
+        weaponry_lang,
+        `weapons/${blk[blk.length - 1].split(".")[0].toLowerCase()}/short`,
+      )?.English,
       bullets: element.bullets,
     });
   });
