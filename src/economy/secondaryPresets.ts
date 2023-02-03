@@ -3,6 +3,7 @@ import {
   FinalWeapon,
   FinalWeaponArray,
   FinalWeapons,
+  LangData,
   WeaponNamePreset,
   WeaponPreset,
 } from "../types";
@@ -10,7 +11,7 @@ import { weaponDisplayname } from "./weaponDisplayname";
 
 export function DeepShit(
   element: WeaponPreset | WeaponNamePreset,
-  weaponry_lang: { ID: string; English: string }[],
+  weaponry_lang: LangData[],
   dev: boolean,
 ): FinalWeapon | FinalWeapons | { name: string } {
   if ("Weapon" in element) {
@@ -41,10 +42,7 @@ export function DeepShit(
   }
 }
 
-export function WeaponArray(
-  element: Cannon[],
-  weaponry_lang: { ID: string; English: string }[],
-): FinalWeaponArray[] {
+export function WeaponArray(element: Cannon[], weaponry_lang: LangData[]): FinalWeaponArray[] {
   const weapons: FinalWeaponArray[] = [];
   element.forEach((element) => {
     const type = typeSwitch(element.trigger);
@@ -66,7 +64,22 @@ export function WeaponArray(
   return weapons;
 }
 
-export function typeSwitch(trigger: string) {
+export function typeSwitch(
+  trigger: string,
+):
+  | "optics"
+  | "gun"
+  | "countermeasures"
+  | "aam"
+  | "agm"
+  | "bomb"
+  | "guided_bomb"
+  | "torpedo"
+  | "rocket"
+  | "fuel_tank"
+  | "targeting_pod"
+  | "booster"
+  | null {
   let type:
     | "aam"
     | "agm"

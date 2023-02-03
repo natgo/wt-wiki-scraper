@@ -1,6 +1,6 @@
 import { Stabilizer, WeaponGround } from "../types";
 
-export function stabilizer(Weapon: WeaponGround) {
+export function stabilizer(Weapon: WeaponGround): Stabilizer | undefined {
   let stabilizer: Stabilizer | undefined = undefined;
 
   if (Weapon.gunStabilizer) {

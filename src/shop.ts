@@ -9,6 +9,7 @@ import {
   FinalShopGroup,
   FinalShopItem,
   FinalShopRange,
+  LangData,
   NeedBuyToOpenNextInEra,
   Rank,
   Shop,
@@ -21,10 +22,7 @@ import {
 
 function shopRangeFE(
   range: Record<string, ShopItem | ShopGroup>[],
-  units_lang: {
-    ID: string;
-    English: string;
-  }[],
+  units_lang: LangData[],
   final: VehicleProps[],
   rank: NeedBuyToOpenNextInEra,
   country: CountryName,

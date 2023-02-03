@@ -2,7 +2,16 @@ import fs from "fs";
 
 import { AirVehicle, Sensor, Sensors, VehicleSensor, counterMeasures } from "../types";
 
-export function sensors(vehicleData: AirVehicle, dev: boolean) {
+export function sensors(
+  vehicleData: AirVehicle,
+  dev: boolean,
+): {
+  has_maw: true | undefined;
+  has_lws: true | undefined;
+  has_rwr: true | undefined;
+  has_ircm: true | undefined;
+  has_hirss: true | undefined;
+} {
   let data = parseVehicleSensors(vehicleData.sensors, vehicleData.counterMeasures, dev);
 
   Object.values(vehicleData.modifications).forEach((element) => {
@@ -55,7 +64,7 @@ function parseVehicleSensors(
   sensors: Sensors | undefined,
   countermeasures: counterMeasures | undefined,
   dev: boolean,
-) {
+): { maw: boolean; lws: boolean; rwr: boolean; ircm: boolean; hirss: boolean } {
   let data = {
     maw: false,
     lws: false,
@@ -87,7 +96,7 @@ function sensorFE(
   data: { maw: boolean; lws: boolean; rwr: boolean; ircm: boolean; hirss: boolean },
   sensor: VehicleSensor,
   dev: boolean,
-) {
+): { maw: boolean; lws: boolean; rwr: boolean; ircm: boolean; hirss: boolean } {
   const blk: Sensor = JSON.parse(
     fs.readFileSync(
       `./${

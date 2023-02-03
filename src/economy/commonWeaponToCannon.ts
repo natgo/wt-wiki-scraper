@@ -1,23 +1,28 @@
 import fs from "fs";
 
+import {
+  Belt,
+  Bullet,
+  LangData,
+  Shell,
+  ShellBelt,
+  TankCannon,
+  Weapon,
+  WeaponGround,
+} from "../types";
 import { stabilizer } from "./stabilizer";
-import { Belt, Bullet, Shell, ShellBelt, TankCannon, Weapon, WeaponGround } from "../types";
 
-export function CWToCannon(
+export function commonWeaponToCannon(
   Weapon: WeaponGround,
   bullets: { name: string; maxamount?: number }[],
-  langdata: { ID: string; English: string }[],
+  langdata: LangData[],
   dev: boolean,
-) {
+): TankCannon | undefined {
   const name = Weapon.blk.split("/")[Weapon.blk.split("/").length - 1].replace(/\.blk/g, "");
   let weapon_data: Weapon;
-  let enName = "";
-
-  langdata.forEach((langelement) => {
-    if (langelement.ID === "weapons/" + name) {
-      enName = langelement.English;
-    }
-  });
+  const enName = langdata.find((langelement) => {
+    return langelement.ID === "weapons/" + name;
+  })?.English;
 
   if (name === "dummy_weapon") {
     weapon_data = {};
@@ -75,8 +80,8 @@ export function CWToCannon(
           throw new Error(`nonexistent bullet: ${element} on weapon: ${name}`);
       }
     }
-
-    if (Array.isArray(weapon_data[element.name].bullet)) {
+    const bullet = weapon_data[element.name].bullet;
+    if (Array.isArray(bullet)) {
       const belt: ShellBelt = {
         modname: element.name,
         shells: [],
@@ -85,7 +90,7 @@ export function CWToCannon(
           ? weapon_data[element.name].bulletsCartridge
           : undefined,
       };
-      weapon_data[element.name].bullet.forEach((weaponelement: Bullet) => {
+      bullet.forEach((weaponelement: Bullet) => {
         langdata.forEach((langelement) => {
           if (langelement.ID === weaponelement.bulletName && weaponelement.bulletName) {
             const shell: Belt = {
@@ -98,7 +103,7 @@ export function CWToCannon(
       });
       belts.push(belt);
     } else {
-      const weaponelement = weapon_data[element.name].bullet as Bullet;
+      const weaponelement = bullet;
       langdata.forEach((langelement) => {
         if (langelement.ID === weaponelement.bulletName && weaponelement.bulletName) {
           const shell: Shell = {
@@ -116,21 +121,24 @@ export function CWToCannon(
     }
   });
 
+  const weaponbullet = weapon_data.bullet;
+
   // default shell
   if (
+    !Array.isArray(weaponbullet) &&
     shells.find((element) => {
-      return element.intname === weapon_data.bullet.bulletName;
+      return element.intname === weaponbullet.bulletName;
     })
   ) {
     //d
   } else {
     langdata.forEach((langelement) => {
-      if (weapon_data.bullet && !Array.isArray(weapon_data.bullet)) {
-        if (langelement.ID === weapon_data.bullet.bulletName && weapon_data.bullet.bulletName) {
+      if (weaponbullet && !Array.isArray(weaponbullet)) {
+        if (langelement.ID === weaponbullet.bulletName && weaponbullet.bulletName) {
           const shell: Shell = {
             modname: "default",
             name: langelement.English,
-            intname: weapon_data.bullet.bulletName,
+            intname: weaponbullet.bulletName,
           };
           shells.push(shell);
         }
@@ -164,7 +172,7 @@ export function CWToCannon(
 
   const cannon: TankCannon = {
     intname: name,
-    name: enName,
+    displayname: enName?enName:"",
     secondary: Weapon.triggerGroup === "secondary" ? true : undefined,
     ammo: Weapon.bullets ? Weapon.bullets : 0,
     shells: shells.length > 0 ? shells : undefined,

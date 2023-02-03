@@ -1,12 +1,12 @@
+import { AirVehicle, FinalWeapon, FinalWeapons, LangData, SecondaryWeaponPreset } from "../types";
 import { DeepShit, WeaponArray, typeSwitch } from "./secondaryPresets";
-import { AirVehicle, FinalWeapon, FinalWeapons, SecondaryWeaponPreset } from "../types";
 import { weaponDisplayname } from "./weaponDisplayname";
 
 export function vehiclePreset(
   vehicleData: AirVehicle,
-  weaponry_lang: { ID: string; English: string }[],
+  weaponry_lang: LangData[],
   dev: boolean,
-) {
+): SecondaryWeaponPreset | undefined {
   let weaponPreset: SecondaryWeaponPreset | undefined = undefined;
   if (vehicleData.WeaponSlots) {
     const slots: Array<{

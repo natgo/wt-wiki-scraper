@@ -1,10 +1,10 @@
 import fs from "fs";
 
-import { Container, WeaponPreset } from "../types";
+import { Container, LangData, WeaponPreset } from "../types";
 
 export function weaponDisplayname(
   weaponPreset: WeaponPreset,
-  langdata: { ID: string; English: string }[],
+  langdata: LangData[],
   dev: boolean,
 ): { displayname: string; bullets?: number } | undefined {
   if (weaponPreset && "Weapon" in weaponPreset && !Array.isArray(weaponPreset.Weapon)) {

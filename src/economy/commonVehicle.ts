@@ -1,4 +1,4 @@
-import { Economy, FinalProps, Shop, ShopItem, UnitData, namevehicle } from "../types";
+import { Economy, FinalProps, LangData, Shop, ShopItem, UnitData, namevehicle } from "../types";
 import { vehicleType } from "./vehicleType";
 
 const br = [
@@ -43,17 +43,12 @@ const br = [
 
 export function commonVehicle(
   element: namevehicle,
-  vehicleLang:
-    | {
-        ID: string;
-        English: string;
-      }
-    | undefined,
+  vehicleLang: LangData | undefined,
   vehicleEconomy: Economy,
   vehicleUnit: UnitData,
   shopData: Shop,
   shop: "army" | "aviation" | "helicopters",
-) {
+): FinalProps {
   let marketplace: number | undefined;
   shopData[vehicleEconomy.country][shop].range.forEach((notelement) => {
     Object.entries(notelement).forEach(([key, value]) => {
@@ -108,11 +103,27 @@ export function commonVehicle(
     country: vehicleEconomy.country,
     operator_country: vehicleUnit.operatorCountry,
     rank: vehicleEconomy.rank,
-    br: [br[vehicleEconomy.economicRankArcade],br[vehicleEconomy.economicRankHistorical],br[vehicleEconomy.economicRankSimulation]],
-    realbr: [vehicleEconomy.economicRankArcade,vehicleEconomy.economicRankHistorical,vehicleEconomy.economicRankSimulation],
-    base_repair: [vehicleEconomy.repairCostArcade,vehicleEconomy.repairCostHistorical,vehicleEconomy.repairCostSimulation],
+    br: [
+      br[vehicleEconomy.economicRankArcade],
+      br[vehicleEconomy.economicRankHistorical],
+      br[vehicleEconomy.economicRankSimulation],
+    ],
+    realbr: [
+      vehicleEconomy.economicRankArcade,
+      vehicleEconomy.economicRankHistorical,
+      vehicleEconomy.economicRankSimulation,
+    ],
+    base_repair: [
+      vehicleEconomy.repairCostArcade,
+      vehicleEconomy.repairCostHistorical,
+      vehicleEconomy.repairCostSimulation,
+    ],
     rp_multiplyer: vehicleEconomy.expMul,
-    sl_multiplyer: [vehicleEconomy.rewardMulArcade,vehicleEconomy.rewardMulHistorical,vehicleEconomy.rewardMulSimulation],
+    sl_multiplyer: [
+      vehicleEconomy.rewardMulArcade,
+      vehicleEconomy.rewardMulHistorical,
+      vehicleEconomy.rewardMulSimulation,
+    ],
     sl_price: vehicleEconomy.value,
     reqRP: vehicleEconomy.reqExp,
     prem_type: prem,

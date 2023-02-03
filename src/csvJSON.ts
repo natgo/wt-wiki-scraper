@@ -1,6 +1,8 @@
-export function langcsvJSON(csv: string) {
+import { LangData } from "./types";
+
+export function langcsvJSON(csv: string): LangData[] {
   const lines = csv.split("\n");
-  const result: { ID: string; English: string }[] = [];
+  const result: LangData[] = [];
   const headers = lines[0].split(";");
 
   headers.forEach((element, i, array) => {
@@ -22,7 +24,8 @@ export function langcsvJSON(csv: string) {
     });
 
     for (let j = 0; j < headers.length; j++) {
-      obj[headers[j]] = currentline[j];
+      obj.ID = currentline[0];
+      obj.English = currentline[1];
     }
     result.push(obj);
   }

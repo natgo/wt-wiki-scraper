@@ -2184,6 +2184,11 @@ export interface WwSettings {
 
 //custom
 
+export interface LangData {
+  ID: string;
+  English: string;
+}
+
 export interface savedparse {
   title: string;
   pageid: number;
@@ -2366,33 +2371,28 @@ export interface gunnerSight extends Sight {
 }
 
 export interface TankWeapons {
-  cannon?: TankCannon[];
-  machineGun?: MG[];
+  cannon?: (TankCannon | undefined)[];
+  machineGun?: (GenericGun | undefined)[];
   launcher?: TankCannon;
 }
 
-export interface MG {
-  ammo: number;
-  horizonalSpeed: number;
-  verticalSpeed: number;
-  horizonalLimit: number[];
-  verticalLimit: number[];
-}
-
-export interface TankCannon {
+export interface GenericGun {
   intname: string;
-  name: string;
-  secondary?: boolean;
+  displayname: string;
   ammo: number;
   shotFreq: number;
   caliber: number;
-  shells?: Shell[];
-  belts?: ShellBelt[];
-  autoloader?: boolean;
   horizonalSpeed: number | "primary";
   verticalSpeed: number | "primary";
   horizonalLimit: number[] | "primary";
   verticalLimit: number[] | "primary";
+}
+
+export interface TankCannon extends GenericGun {
+  secondary?: boolean;
+  shells?: Shell[];
+  belts?: ShellBelt[];
+  autoloader?: boolean;
   stabilizer?: Stabilizer;
   hullAiming?: HullAiming;
 }

@@ -1,10 +1,7 @@
 import fs from "fs";
 import { format } from "prettier";
 
-import { commonVehicle } from "./commonVehicle";
-import { CWToCannon } from "./commonWeaponToCannon";
 import { langcsvJSON } from "../csvJSON";
-import { sensors } from "./sensors";
 import {
   AirVehicle,
   Economy,
@@ -18,6 +15,10 @@ import {
   UnitData,
   namevehicles,
 } from "../types";
+import { commonVehicle } from "./commonVehicle";
+import { commonWeaponToCannon } from "./commonWeaponToCannon";
+import { machineGun } from "./machineGun";
+import { sensors } from "./sensors";
 import { vehicleBallistic } from "./vehicleBallistic";
 import { vehiclePreset } from "./vehiclePreset";
 
@@ -152,11 +153,16 @@ async function main(dev: boolean) {
         ) {
           if (element.dummy) {
             if (element.emitter === "bone_gun_01") {
-              weapons.cannon?.push(CWToCannon(element, bullets, weaponry_lang, dev));
+              const gun = commonWeaponToCannon(element, bullets, weaponry_lang, dev);
+              gun ? weapons.cannon?.push(gun) : null;
             }
           } else {
-            weapons.cannon?.push(CWToCannon(element, bullets, weaponry_lang, dev));
+            const gun = commonWeaponToCannon(element, bullets, weaponry_lang, dev);
+            gun ? weapons.cannon?.push(gun) : null;
           }
+        } else if (element.triggerGroup === "coaxial" || element.triggerGroup === "machinegun") {
+          const gun = machineGun(element, weaponry_lang, dev);
+          gun ? weapons.machineGun?.push(gun) : null;
         }
       });
     } else {
@@ -166,7 +172,7 @@ async function main(dev: boolean) {
         Weapon.triggerGroup === "primary" ||
         Weapon.triggerGroup === "secondary"
       ) {
-        weapons.cannon?.push(CWToCannon(Weapon, bullets, weaponry_lang, dev));
+        weapons.cannon?.push(commonWeaponToCannon(Weapon, bullets, weaponry_lang, dev));
       }
     }
 

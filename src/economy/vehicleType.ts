@@ -1,6 +1,9 @@
 import { UnitData } from "../types";
 
-export function vehicleType(vehicleUnit: UnitData) {
+export function vehicleType(vehicleUnit: UnitData): {
+  normal_type: string;
+  extended_type: string[] | undefined;
+} {
   let type = "";
   const ext_type: string[] = [];
 
