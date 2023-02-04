@@ -159,7 +159,7 @@ function modificationLoop(
         mod.reqMod = value.reqModification;
       }
       if (value.image) {
-        mod.image=value.image;
+        mod.image = value.image.split("#")[value.image.split("#").length - 1];
       }
 
       if (value.modClass) {
