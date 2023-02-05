@@ -68,7 +68,9 @@ async function main(dev: boolean) {
 
     console.log(element.intname);
 
-    modFinal.ground.push(modificationLoop(vehicleData, modifications, element, modification_lang));
+    modFinal.ground.push(
+      modificationLoop(element, vehicleData, modifications, element, modification_lang),
+    );
   });
   final.aircraft.forEach((element) => {
     const vehicleData: AirVehicle = JSON.parse(
@@ -84,7 +86,7 @@ async function main(dev: boolean) {
     console.log(element.intname);
 
     modFinal.aircraft.push(
-      modificationLoop(vehicleData, modifications, element, modification_lang),
+      modificationLoop(element, vehicleData, modifications, element, modification_lang),
     );
   });
   final.helicopter.forEach((element) => {
@@ -101,7 +103,7 @@ async function main(dev: boolean) {
     console.log(element.intname);
 
     modFinal.helicopter.push(
-      modificationLoop(vehicleData, modifications, element, modification_lang),
+      modificationLoop(element, vehicleData, modifications, element, modification_lang),
     );
   });
   fs.writeFileSync(
@@ -114,6 +116,7 @@ main(false);
 main(true);
 
 function modificationLoop(
+  vehicle: VehicleProps,
   vehicleData: GroundVehicle | AirVehicle,
   modifications: Mods,
   element: VehicleProps,
@@ -160,6 +163,30 @@ function modificationLoop(
       }
       if (value.image) {
         mod.image = value.image.split("#")[value.image.split("#").length - 1];
+      }
+
+      if (key.includes("_ammo_pack") && vehicle.type === "tank") {
+        const findMod = Object.entries(modifications.modifications).find(([findkey, value]) => {
+          return value.reqModification === key && !value.tier;
+        });
+
+        let displayname:string|undefined;
+
+        vehicle.weapons?.cannon?.forEach((element) => {
+          const findShell = element?.shells?.find((element) => {
+            return element.modname === findMod?.[1].effects?.additiveBulletMod;
+          })?.name;
+          const findBelt = element?.belts?.find((element) => {
+            return element.modname === findMod?.[1].effects?.additiveBulletMod;
+          })?.name;
+
+          if (findShell) {
+            displayname=findShell;
+          } else if (findBelt) {
+            displayname=findBelt;
+          }
+        });
+        mod.displayname = displayname;
       }
 
       if (value.modClass) {

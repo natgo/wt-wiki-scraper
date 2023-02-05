@@ -1545,7 +1545,7 @@ export type Weapon = {
 };
 
 export interface BulletContainer {
-  bulletsCartridge: number;
+  bulletsCartridge?: number;
   bullet: Bullet[] | Bullet;
 }
 
@@ -1565,7 +1565,7 @@ export interface Bullet {
   slopeEffectPreset: string;
   fresnel: number[];
   shellAnimation: string;
-  bulletName: string;
+  bulletName?: string;
   onHitChanceMultExplFuel: number;
   relativeVelHitShift: number[];
   relativeVelArmorShift: number[];
@@ -2618,6 +2618,7 @@ export interface Shell {
 
 export interface ShellBelt {
   modname: string;
+  name: string;
   maxamount?: number;
   modmaxamount?: number;
   shells: Belt[];
@@ -2625,7 +2626,8 @@ export interface ShellBelt {
 
 export interface Belt {
   intname: string;
-  name: string;
+  type: string;
+  name?: string;
 }
 
 export interface HullAiming {

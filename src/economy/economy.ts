@@ -15,6 +15,7 @@ import {
   TankWeapons,
   UnitData,
   namevehicles,
+  Mods,
 } from "../types";
 import { commonVehicle } from "./commonVehicle";
 import { commonWeaponToCannon } from "./commonWeaponToCannon";
@@ -57,9 +58,27 @@ async function main(dev: boolean) {
     ),
   );
 
+  const modification_lang = langcsvJSON(
+    fs.readFileSync(
+      `./${
+        dev ? "datamine-dev" : "War-Thunder-Datamine"
+      }/lang.vromfs.bin_u/lang/units_modifications.csv`,
+      "utf-8",
+    ),
+  );
+
   const shopData: Shop = JSON.parse(
     fs.readFileSync(
       `./${dev ? "datamine-dev" : "War-Thunder-Datamine"}/char.vromfs.bin_u/config/shop.blkx`,
+      "utf-8",
+    ),
+  );
+
+  const modifications: Mods = JSON.parse(
+    fs.readFileSync(
+      `./${
+        dev ? "datamine-dev" : "War-Thunder-Datamine"
+      }/char.vromfs.bin_u/config/modifications.blkx`,
       "utf-8",
     ),
   );
@@ -86,6 +105,7 @@ async function main(dev: boolean) {
     const vehicleEconomy = economy[element.intname];
     const vehicleUnit = unitData[element.intname];
     const vehicleLang = parseLang(units_lang, element.intname + "_shop");
+    console.log(element.intname);
 
     let night: NightVision = {};
     const bullets: { name: string; maxamount?: number }[] = [];
@@ -93,8 +113,15 @@ async function main(dev: boolean) {
       if (value.effects?.nightVision) {
         night = value.effects.nightVision;
       }
-      if (key.match(/^(\d{2}|\d{3})mm_.*(?<!ammo_pack)$/g)) {
-        bullets.push({ name: key, maxamount: value.maxToRespawn });
+      if (key.match(/^.+?mm_.*(?<!ammo_pack)$/g)) {
+        const mod = Object.entries(modifications.modifications).find(([findkey,value])=>{return findkey===key;});
+        if (!mod) {
+          throw new Error(`Modification: ${key} not found in modifications.blk`);
+        }
+        if (!mod[1].effects?.additiveBulletMod) {
+          throw new Error(`Modification ${mod[0]} doest not add a bullet`);
+        }
+        bullets.push({ name: mod[1].effects.additiveBulletMod, maxamount: value.maxToRespawn });
       }
     });
 
@@ -152,11 +179,23 @@ async function main(dev: boolean) {
         ) {
           if (element.dummy) {
             if (element.emitter === "bone_gun_01") {
-              const gun = commonWeaponToCannon(element, bullets, weaponry_lang, dev);
+              const gun = commonWeaponToCannon(
+                element,
+                bullets,
+                weaponry_lang,
+                modification_lang,
+                dev,
+              );
               gun ? weapons.cannon?.push(gun) : null;
             }
           } else {
-            const gun = commonWeaponToCannon(element, bullets, weaponry_lang, dev);
+            const gun = commonWeaponToCannon(
+              element,
+              bullets,
+              weaponry_lang,
+              modification_lang,
+              dev,
+            );
             gun ? weapons.cannon?.push(gun) : null;
           }
         } else if (element.triggerGroup === "coaxial" || element.triggerGroup === "machinegun") {
@@ -171,11 +210,11 @@ async function main(dev: boolean) {
         Weapon.triggerGroup === "primary" ||
         Weapon.triggerGroup === "secondary"
       ) {
-        weapons.cannon?.push(commonWeaponToCannon(Weapon, bullets, weaponry_lang, dev));
+        weapons.cannon?.push(
+          commonWeaponToCannon(Weapon, bullets, weaponry_lang, modification_lang, dev),
+        );
       }
     }
-
-    console.log(weapons);
 
     let range = false;
 
@@ -270,6 +309,7 @@ async function main(dev: boolean) {
     const vehicleEconomy = economy[element.intname];
     const vehicleUnit = unitData[element.intname];
     const vehicleLang = parseLang(units_lang, element.intname + "_shop");
+    console.log(element.intname);
 
     final.aircraft.push({
       ...commonVehicle(element, vehicleLang, vehicleEconomy, vehicleUnit, shopData, "aviation"),
@@ -290,6 +330,7 @@ async function main(dev: boolean) {
     const vehicleEconomy = economy[element.intname];
     const vehicleUnit = unitData[element.intname];
     const vehicleLang = parseLang(units_lang, element.intname + "_shop");
+    console.log(element.intname);
 
     const sight =
       vehicleData.cockpit.sightInFov && vehicleData.cockpit.sightOutFov
@@ -328,8 +369,6 @@ async function main(dev: boolean) {
         }
       });
     }
-
-    console.log(element.intname);
 
     final.helicopter.push({
       ...commonVehicle(element, vehicleLang, vehicleEconomy, vehicleUnit, shopData, "helicopters"),
