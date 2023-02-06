@@ -266,6 +266,9 @@ function weaponLang(
   modification_lang: LangData[],
   dev: boolean,
 ): string {
+  const langFindShort = weaponry_lang.find((langelement) => {
+    return langelement.ID === name + "/name/short";
+  });
   const langFind = weaponry_lang.find((langelement) => {
     return langelement.ID === name || langelement.ID === name + "/name";
   });
@@ -280,14 +283,15 @@ function weaponLang(
     return "";
   }
 
-  if (!langFind && !langFind2 && !modlangFind && !dev) {
+  if (!langFindShort && !langFind && !langFind2 && !modlangFind && !dev) {
     if (name.endsWith("_universal")) {
       return "Universal";
     }
     throw new Error(`no lang for ${name}`);
   }
-
-  if (langFind && langFind.English) {
+  if (langFindShort && langFindShort.English) {
+    return (name = langFindShort.English);
+  } else if (langFind && langFind.English) {
     return (name = langFind.English);
   } else if (modlangFind && modlangFind.English) {
     return (name = modlangFind.English);
