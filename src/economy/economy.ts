@@ -202,7 +202,7 @@ async function main(dev: boolean) {
             gun ? weapons.cannon?.push(gun) : null;
           }
         } else if (element.triggerGroup === "coaxial" || element.triggerGroup === "machinegun") {
-          const gun = machineGun(element, bullets, weaponry_lang, dev);
+          const gun = machineGun(element, bullets, weaponry_lang, modification_lang, dev);
           gun ? weapons.machineGun?.push(gun) : null;
         }
       });

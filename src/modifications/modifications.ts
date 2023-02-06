@@ -166,35 +166,67 @@ function modificationLoop(
       }
 
       if (key.includes("_ammo_pack") && vehicle.type === "tank") {
-        const findMod = Object.values(modifications.modifications).find((value) => {
+        const findMod = Object.values(modifications.modifications).filter((value) => {
           return value.reqModification === key && !value.tier;
         });
-        if (!findMod) {
+        if (findMod.length === 0) {
           throw new Error(`not found mod: ${key}`);
         }
 
         let displayname: string | undefined;
 
-        vehicle.weapons?.cannon?.find((element) => {
-          const findShell = element?.shells?.find((element) => {
-            return element.modname === findMod.effects?.additiveBulletMod;
-          })?.name;
-          const findBelt = element?.belts?.find((element) => {
-            return element.modname === findMod.effects?.additiveBulletMod;
-          })?.name;
+        vehicle.weapons?.cannon?.findIndex((element) => {
+          if (!element) {
+            return false;
+          }
+          const findShell = element.shells?.find((element) => {
+            return findMod.find((modElement) => {
+              return element.modname === modElement.effects?.additiveBulletMod;
+            });
+          });
+          const findBelt = element.belts?.find((element) => {
+            return findMod.find((modElement) => {
+              return element.modname === modElement.effects?.additiveBulletMod;
+            });
+          });
 
           if (findShell) {
-            displayname = findShell;
+            displayname = findShell.name;
             return true;
           } else if (findBelt) {
-            displayname = findBelt;
+            displayname = findBelt.name;
+            return true;
+          }
+          return false;
+        });
+
+        vehicle.weapons?.machineGun?.findIndex((element) => {
+          if (!element) {
+            return false;
+          }
+          const findShell = element.shells?.find((element) => {
+            return findMod.find((modElement) => {
+              return element.modname === modElement.effects?.additiveBulletMod;
+            });
+          });
+          const findBelt = element.belts?.find((element) => {
+            return findMod.find((modElement) => {
+              return element.modname === modElement.effects?.additiveBulletMod;
+            });
+          });
+
+          if (findShell) {
+            displayname = findShell.name;
+            return true;
+          } else if (findBelt) {
+            displayname = findBelt.name;
             return true;
           }
           return false;
         });
 
         if (!displayname) {
-          console.log(findMod.effects?.additiveBulletMod);
+          console.log(findMod);
           throw new Error(`no lang for: ${key}`);
         }
 

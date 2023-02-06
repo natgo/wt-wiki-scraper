@@ -46,7 +46,15 @@ export function commonWeaponToCannon(
     }
   });
 
-  const weapon = weaponbulletsLoop(weaponbullets,weapon_data,name,weaponry_lang,modification_lang,isCannon,dev);
+  const weapon = weaponbulletsLoop(
+    weaponbullets,
+    weapon_data,
+    name,
+    weaponry_lang,
+    modification_lang,
+    isCannon,
+    dev,
+  );
 
   const weaponbullet = weapon_data.bullet;
 
@@ -148,7 +156,7 @@ export function weaponbulletsLoop(
   modification_lang: LangData[],
   isCannon: boolean,
   dev: boolean,
-): { shells: Shell[]; belts: ShellBelt[]; } {
+): { shells: Shell[]; belts: ShellBelt[] } {
   const shells: Shell[] = [];
   const belts: ShellBelt[] = [];
 
@@ -248,7 +256,7 @@ export function weaponbulletsLoop(
     }
   });
 
-  return {shells,belts};
+  return { shells, belts };
 }
 
 function weaponLang(
@@ -267,6 +275,10 @@ function weaponLang(
   const modlangFind = modification_lang.find((langelement) => {
     return langelement.ID === name || langelement.ID === name + "/name";
   });
+
+  if (name === "152mm_football_jump") {
+    return "";
+  }
 
   if (!langFind && !langFind2 && !modlangFind && !dev) {
     if (name.endsWith("_universal")) {

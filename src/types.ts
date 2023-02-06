@@ -2591,6 +2591,8 @@ export interface GenericGun {
   intname: string;
   displayname: string;
   ammo: number;
+  shells?: Shell[];
+  belts?: ShellBelt[];
   shotFreq: number;
   caliber: number;
   horizonalSpeed: number | "primary";
@@ -2601,8 +2603,6 @@ export interface GenericGun {
 
 export interface TankCannon extends GenericGun {
   secondary?: boolean;
-  shells?: Shell[];
-  belts?: ShellBelt[];
   autoloader?: boolean;
   stabilizer?: Stabilizer;
   hullAiming?: HullAiming;
