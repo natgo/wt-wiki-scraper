@@ -1,10 +1,11 @@
 import fs from "fs";
 
 import { parseLang } from "../lang";
-import { GenericGun, LangData, Weapon, WeaponGround } from "../types";
+import { GenericGun, LangData, Shell, ShellBelt, Weapon, WeaponGround } from "../types";
 
 export function machineGun(
   Weapon: WeaponGround,
+  bullets: { name: string; maxamount?: number }[],
   langdata: LangData[],
   dev: boolean,
 ): GenericGun | undefined {
@@ -24,6 +25,24 @@ export function machineGun(
       ),
     );
   }
+
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  const shells: Shell[] = [];
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  const belts: ShellBelt[] = [];
+
+  const weaponbullets: { name: string; maxamount?: number }[] = [];
+  Object.entries(weapon_data).forEach(([key, value]) => {
+    if (value instanceof Object && !Array.isArray(value)) {
+      if (!(key === "overheat")) {
+        bullets.forEach((element) => {
+          if (element.name === key) {
+            weaponbullets.push(element);
+          }
+        });
+      }
+    }
+  });
 
   const cannon: GenericGun = {
     intname: name,

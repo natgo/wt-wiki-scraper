@@ -177,7 +177,8 @@ async function main(dev: boolean) {
         if (
           element.trigger === "gunner0" ||
           element.triggerGroup === "primary" ||
-          element.triggerGroup === "secondary"
+          element.triggerGroup === "secondary" ||
+          element.triggerGroup === "special"
         ) {
           if (element.dummy) {
             if (element.emitter === "bone_gun_01") {
@@ -201,7 +202,7 @@ async function main(dev: boolean) {
             gun ? weapons.cannon?.push(gun) : null;
           }
         } else if (element.triggerGroup === "coaxial" || element.triggerGroup === "machinegun") {
-          const gun = machineGun(element, weaponry_lang, dev);
+          const gun = machineGun(element, bullets, weaponry_lang, dev);
           gun ? weapons.machineGun?.push(gun) : null;
         }
       });
