@@ -1539,6 +1539,7 @@ export type Weapon = {
   fxMultipleSpawn: boolean;
   isBulletBelt: boolean;
   notUseDefaultBulletInGui: boolean;
+  bulletsCartridge?: number;
   bullet: Bullet[] | Bullet;
 } & {
   [key: string]: BulletContainer;
@@ -2610,8 +2611,8 @@ export interface TankCannon extends GenericGun {
 //store mby in a diffrent file for each weapon
 export interface Shell {
   modname: string;
-  intname: string;
-  name: string;
+  intname?: string;
+  name?: string;
   maxamount?: number;
   modmaxamount?: number;
 }

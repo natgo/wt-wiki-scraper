@@ -28,6 +28,11 @@ export function commonWeaponToCannon(
     );
   }
 
+  let isCannon = true;
+  if (weapon_data.cannon === false || weapon_data.maxDeltaAngleVertical === undefined) {
+    isCannon = false;
+  }
+
   const shells: Shell[] = [];
   const belts: ShellBelt[] = [];
 
@@ -52,12 +57,9 @@ export function commonWeaponToCannon(
 
     if (Array.isArray(bullet)) {
       const langFind = weaponry_lang.find((langelement) => {
-        return (
-          langelement.ID === element.name ||
-          langelement.ID === element.name + "/name"
-        );
+        return langelement.ID === element.name || langelement.ID === element.name + "/name";
       });
-      const langFind2 =weaponry_lang.find((langelement) => {
+      const langFind2 = weaponry_lang.find((langelement) => {
         return (
           langelement.ID === bullet[0].bulletName ||
           langelement.ID === bullet[0].bulletName + "/name"
@@ -67,12 +69,13 @@ export function commonWeaponToCannon(
         return langelement.ID === element.name || langelement.ID === element.name + "/name";
       });
       let name = "";
-      if (!langFind &&!langFind2&& !modlangFind) {
+      if (!langFind && !langFind2 && !modlangFind && !dev) {
         if (element.name.endsWith("_universal")) {
           name = "Universal";
-        }else {
+        } else {
           console.log(element.name, bullet[0].bulletName);
-          throw new Error(`no lang for ${element.name}`);}
+          throw new Error(`no lang for ${element.name}`);
+        }
       }
 
       const belt: ShellBelt = {
@@ -89,8 +92,8 @@ export function commonWeaponToCannon(
         belt.name = langFind.English;
       } else if (modlangFind && modlangFind.English) {
         belt.name = modlangFind.English;
-      } else if (langFind2&&langFind2.English){
-        belt.name=langFind2.English;
+      } else if (langFind2 && langFind2.English) {
+        belt.name = langFind2.English;
       }
 
       bullet.forEach((weaponelement) => {
@@ -109,21 +112,90 @@ export function commonWeaponToCannon(
       });
       belts.push(belt);
     } else {
-      const weaponelement = bullet;
-      weaponry_lang.forEach((langelement) => {
-        if (langelement.ID === weaponelement.bulletName) {
-          const shell: Shell = {
-            modname: element.name,
-            name: langelement.English,
-            intname: weaponelement.bulletName,
-            modmaxamount: element.maxamount,
-            maxamount: weapon_data[element.name].bulletsCartridge
-              ? weapon_data[element.name].bulletsCartridge
-              : undefined,
-          };
-          shells.push(shell);
+      if (isCannon) {
+        const langFind = weaponry_lang.find((langelement) => {
+          return langelement.ID === element.name || langelement.ID === element.name + "/name";
+        });
+        const langFind2 = weaponry_lang.find((langelement) => {
+          return (
+            langelement.ID === bullet.bulletName || langelement.ID === bullet.bulletName + "/name"
+          );
+        });
+        const modlangFind = modification_lang.find((langelement) => {
+          return langelement.ID === element.name || langelement.ID === element.name + "/name";
+        });
+        if (!langFind && !langFind2 && !modlangFind && !dev) {
+          console.log(element.name, bullet.bulletName);
+          throw new Error(`no lang for ${element.name}`);
         }
-      });
+
+        const shell: Shell = {
+          modname: element.name,
+          name: "",
+          intname: bullet.bulletName,
+          modmaxamount: element.maxamount,
+          maxamount: weapon_data[element.name].bulletsCartridge
+            ? weapon_data[element.name].bulletsCartridge
+            : undefined,
+        };
+
+        if (langFind2 && langFind2.English) {
+          shell.name = langFind2.English;
+        } else if (langFind && langFind.English) {
+          shell.name = langFind.English;
+        } else if (modlangFind && modlangFind.English) {
+          shell.name = modlangFind.English;
+        }
+
+        shells.push(shell);
+      } else {
+        const langFind = weaponry_lang.find((langelement) => {
+          return langelement.ID === element.name || langelement.ID === element.name + "/name";
+        });
+        const langFind2 = weaponry_lang.find((langelement) => {
+          return (
+            langelement.ID === bullet.bulletName || langelement.ID === bullet.bulletName + "/name"
+          );
+        });
+        const modlangFind = modification_lang.find((langelement) => {
+          return langelement.ID === element.name || langelement.ID === element.name + "/name";
+        });
+        if (!langFind && !langFind2 && !modlangFind && !dev) {
+          console.log(element.name);
+          throw new Error(`no lang for ${element.name}`);
+        }
+
+        const belt: ShellBelt = {
+          modname: element.name,
+          name: name,
+          shells: [],
+          modmaxamount: element.maxamount,
+          maxamount: weapon_data[element.name].bulletsCartridge
+            ? weapon_data[element.name].bulletsCartridge
+            : undefined,
+        };
+
+        if (langFind && langFind.English) {
+          belt.name = langFind.English;
+        } else if (modlangFind && modlangFind.English) {
+          belt.name = modlangFind.English;
+        } else if (langFind2 && langFind2.English) {
+          belt.name = langFind2.English;
+        }
+
+        const beltLangFind = weaponry_lang.find((langelement) => {
+          return (
+            langelement.ID === bullet.bulletName || langelement.ID === bullet.bulletName + "/name"
+          );
+        });
+        const shell: Belt = {
+          type: bullet.bulletType,
+          name: beltLangFind?.English,
+          intname: bullet.bulletName ? bullet.bulletName : element.name,
+        };
+        belt.shells.push(shell);
+        belts.push(belt);
+      }
     }
   });
 

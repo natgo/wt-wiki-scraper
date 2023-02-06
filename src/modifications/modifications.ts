@@ -166,26 +166,38 @@ function modificationLoop(
       }
 
       if (key.includes("_ammo_pack") && vehicle.type === "tank") {
-        const findMod = Object.entries(modifications.modifications).find(([findkey, value]) => {
+        const findMod = Object.values(modifications.modifications).find((value) => {
           return value.reqModification === key && !value.tier;
         });
+        if (!findMod) {
+          throw new Error(`not found mod: ${key}`);
+        }
 
-        let displayname:string|undefined;
+        let displayname: string | undefined;
 
-        vehicle.weapons?.cannon?.forEach((element) => {
+        vehicle.weapons?.cannon?.find((element) => {
           const findShell = element?.shells?.find((element) => {
-            return element.modname === findMod?.[1].effects?.additiveBulletMod;
+            return element.modname === findMod.effects?.additiveBulletMod;
           })?.name;
           const findBelt = element?.belts?.find((element) => {
-            return element.modname === findMod?.[1].effects?.additiveBulletMod;
+            return element.modname === findMod.effects?.additiveBulletMod;
           })?.name;
 
           if (findShell) {
-            displayname=findShell;
+            displayname = findShell;
+            return true;
           } else if (findBelt) {
-            displayname=findBelt;
+            displayname = findBelt;
+            return true;
           }
+          return false;
         });
+
+        if (!displayname) {
+          console.log(findMod.effects?.additiveBulletMod);
+          throw new Error(`no lang for: ${key}`);
+        }
+
         mod.displayname = displayname;
       }
 

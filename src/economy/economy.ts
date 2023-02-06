@@ -9,13 +9,13 @@ import {
   Final,
   GroundVehicle,
   HelicopterOptics,
+  Mods,
   NightVision,
   Shop,
   Sights,
   TankWeapons,
   UnitData,
   namevehicles,
-  Mods,
 } from "../types";
 import { commonVehicle } from "./commonVehicle";
 import { commonWeaponToCannon } from "./commonWeaponToCannon";
@@ -114,7 +114,9 @@ async function main(dev: boolean) {
         night = value.effects.nightVision;
       }
       if (key.match(/^.+?mm_.*(?<!ammo_pack)$/g)) {
-        const mod = Object.entries(modifications.modifications).find(([findkey,value])=>{return findkey===key;});
+        const mod = Object.entries(modifications.modifications).find(([findkey, value]) => {
+          return findkey === key;
+        });
         if (!mod) {
           throw new Error(`Modification: ${key} not found in modifications.blk`);
         }
