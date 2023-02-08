@@ -78,45 +78,11 @@ It's extremely difficult to hit aircraft with this gun, especially since the mag
 It is best used at medium-long range and firing your 5 rounds slower than it can allow you so you can re-aim back on target. Otherwise, if you are in close range (less than 50 m), just fire off the whole magazine and run, looking for cover while waiting for the gun to reload. Remaining out in the open while reloading puts a large bulls-eye on the tank for anyone to attack.
 
 ==== Ammunition ====
-
 * '''Default:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}} - These rounds work well for either use (anti-air or against armour) until the others are researched. The only drawback is the decreased rate of fire.
 * '''OFZ:''' {{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}} - These are absolutely devastating in the AA role with a good  performance against open combat compartment vehicles.
 * '''BT:''' {{Annotation|AP-T|Armour-piercing tracer}} - These are best against light tanks at close range and do good damage to planes. This round can punch through the side armour of a Panther I.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 71 || 68 || 57 || 46 || 37 || 30
-|-
-| OFZ || 3 || 3 || 3 || 3 || 3 || 3
-|-
-| BT || 71 || 68 || 57 || 46 || 37 || 30
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Belt details
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| OFZ || HEFI-T* || 900 || 0.74 || 0 || 0.1 || 34 || 79° || 80° || 81°
-|-
-| BT || AP-T || 880 || 0.76 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-|}
+{{:Sh-37 (37 mm)/Ammunition|HEFI-T*, AP-T}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

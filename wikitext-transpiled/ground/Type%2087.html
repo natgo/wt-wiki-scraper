@@ -13,6 +13,7 @@
     <div class="specs_card_mobile_info">
       <div class="general_info_name">Type 87</div>
       <div class="general_info_neighbors">
+        <div class="prev"><a href="/SUB-I-II" title="SUB-I-II">SUB-I-II</a></div>
         <div class="next"><a href="/Type_93" title="Type 93">Type 93</a></div>
       </div>
     </div>
@@ -56,6 +57,7 @@
     <div class="specs_card_main_info">
       <div class="general_info_name">Type 87</div>
       <div class="general_info_neighbors">
+        <div class="prev"><a href="/SUB-I-II" title="SUB-I-II">SUB-I-II</a></div>
         <div class="next"><a href="/Type_93" title="Type 93">Type 93</a></div>
       </div>
       <div class="general_info">
@@ -2563,16 +2565,14 @@
       tanks even at 2 km range. Cannot be chosen as the main belt.
     </li>
   </ul>
-  <p>
-    <b>Note</b>: HEI-T does no damage to armoured targets, but critically damages planes.
-    Penetration numbers are displayed for strongest shell in belt.
-  </p>
+  <p><b>Note</b>: HEI-T does no damage to armoured targets, but critically damages planes.</p>
+  <p></p>
   <table class="wikitable sortable" style="text-align: center" width="100%">
     <tr>
-      <th colspan="7">Penetration statistics</th>
+      <th colspan="8">Penetration statistics</th>
     </tr>
     <tr>
-      <th rowspan="2" data-sort-type="text">Belt</th>
+      <th rowspan="2" data-sort-type="text">Ammunition</th>
       <th colspan="6">Penetration @ 0° Angle of Attack (mm)</th>
     </tr>
     <tr>
@@ -2584,7 +2584,16 @@
       <th>2,000 m</th>
     </tr>
     <tr>
-      <td>Default</td>
+      <td>HEI-T*</td>
+      <td>5</td>
+      <td>5</td>
+      <td>5</td>
+      <td>5</td>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>API-T*</td>
       <td>68</td>
       <td>66</td>
       <td>57</td>
@@ -2593,31 +2602,65 @@
       <td>32</td>
     </tr>
     <tr>
-      <td>DM11A1</td>
-      <td>68</td>
-      <td>66</td>
-      <td>57</td>
-      <td>47</td>
-      <td>39</td>
-      <td>32</td>
-    </tr>
-    <tr>
-      <td>DM13</td>
-      <td>68</td>
-      <td>66</td>
-      <td>57</td>
-      <td>47</td>
-      <td>39</td>
-      <td>32</td>
-    </tr>
-    <tr>
-      <td>DM23</td>
+      <td>APDS</td>
       <td>127</td>
       <td>125</td>
       <td>118</td>
       <td>110</td>
       <td>102</td>
       <td>95</td>
+    </tr>
+  </table>
+  <table class="wikitable sortable" style="text-align: center" width="100%">
+    <tr>
+      <th colspan="13">Shell details</th>
+    </tr>
+    <tr>
+      <th rowspan="2" data-sort-type="text">Ammunition</th>
+      <th rowspan="2">Velocity<br />(m/s)</th>
+      <th rowspan="2">Projectile<br />mass (kg)</th>
+      <th rowspan="2">Fuse delay<br />(m)</th>
+      <th rowspan="2">Fuse sensitivity<br />(mm)</th>
+      <th rowspan="2">Explosive mass<br />(TNT equivalent) (g)</th>
+      <th colspan="3">Ricochet</th>
+    </tr>
+    <tr>
+      <th>0%</th>
+      <th>50%</th>
+      <th>100%</th>
+    </tr>
+    <tr>
+      <td>HEI-T*</td>
+      <td>1,175</td>
+      <td>0.55</td>
+      <td>0</td>
+      <td>0.1</td>
+      <td>204</td>
+      <td>79°</td>
+      <td>80°</td>
+      <td>81°</td>
+    </tr>
+    <tr>
+      <td>API-T*</td>
+      <td>1,175</td>
+      <td>0.55</td>
+      <td>1.2</td>
+      <td>9</td>
+      <td>37.4</td>
+      <td>47°</td>
+      <td>60°</td>
+      <td>65°</td>
+    </tr>
+    <tr>
+      <td>APDS</td>
+      <td>1,400</td>
+      <td>0.38</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>75°</td>
+      <td>78°</td>
+      <td>80°</td>
     </tr>
   </table>
   <h4>

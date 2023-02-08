@@ -81,47 +81,7 @@ The 100 mm PTP-86 smoothbore gun found on this vehicle was a improvement on the 
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 1-72-85 APDS-FS || APFSDS || 219 || 213 || 194 || 170 || 147 || 126
-|-
-| 1-71-74 HE || HE || 17 || 17 || 17 || 17 || 17 || 17
-|-
-| Type 1973 HEAT-FS || HEATFS || 390 || 390 || 390 || 390 || 390 || 390
-|-
-| DYW PT86-100 || APFSDS || 381 || 378 || 372 || 364 || 356 || 347
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 1-72-85 APDS-FS || APFSDS || 1,505 || 3.05 || N/A || N/A || N/A || 72° || 76° || 78°
-|-
-| 1-71-74 HE || HE || 900 || 15 || 0 || 0.1 || 1,300 || 79° || 80° || 81°
-|-
-| Type 1973 HEAT-FS || HEATFS || 1,000 || 10.05 || 0.05 || 0.1 || 1,180 || 65° || 72° || 77°
-|-
-| DYW PT86-100 || APFSDS || 1,610 || 3.3 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
+{{:PTP86 (100 mm)/Ammunition|1-72-85 APDS-FS, 1-71-74 HE, Type 1973 HEAT-FS, DYW PT86-100}}
 
 The PTL02 has a similar ammunition selection as the [[Type 69]], with the exception of the DYW PT86-100 APFSDS round. The stock 1-72-85 APFSDS with 220 mm of flat penetration at 10 m is worse than many AP/APHE rounds. The low penetration will not impact gameplay a lot if you are in a downtier or facing opponents of equal battle-rating. Common Cold War vehicles such as the [[Leopard 1 (Family)|Leopard 1]], [[OF-40 (Family)|OF-40]], [[Centauro (Family)|Centauro]], etc. are all weakly armoured and will easily get penetrated. However against heavy tanks like the [[Maus]], [[M103]], [[T-10A|T-10]], etc. this APFSDS will struggle even when hitting their weak spots. It also suffers noticeable drop-off at long distances. 1-72-85 does have a few good qualities: it has a good muzzle velocity of 1,505 m/s and the angled penetration is decent considering the flat penetration, topping out at 127 mm @ 60 degrees. For comparison, the [[T-55A]]'s 3BM25 APFSDS round has far superior flat penetration (up to 335 mm) but only has slightly higher angled penetration (up to 129 mm @ 60 degrees). 1-72-85 penetrates sloped armour more effectively than flat armour, rather like long rod APFSDS rounds. The post-penetration damage is nothing to write home about but still workable. Spalling is poor, but the round tends to stay intact after penetration and is quite good at detonating ammo racks and knocking out crew members if they are in the line of fire. Memorize the module layouts of enemy tanks to efficiently cripple and destroy them as the PTL02 cannot withstand return fire.
 

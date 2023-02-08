@@ -84,82 +84,12 @@ When compared to the clearly similar artillery tanks, the {{PAGENAME}}'s weapon 
 |}
 
 ==== Ammunition ====
-'''M107''': Your stock HE shell. It can essentially destroy almost any tank that doesn't have ERA shielding in one hit. As with other HE tanks, like the [[Ho-Ro]], it can't penetrate armour directly on many tanks, so one has to aim for cupolas, machine guns, chassis and other weak spots. For example the [[M103]] have great frontal armour, but it can be simply shot at the turret base, and the shockwave will breach hull roof armour and hit the ammo rack located just below the turret in the hull, resulting in instant destruction.
+* '''M107''': Your stock HE shell. It can essentially destroy almost any tank that doesn't have ERA shielding in one hit. As with other HE tanks, like the [[Ho-Ro]], it can't penetrate armour directly on many tanks, so one has to aim for cupolas, machine guns, chassis and other weak spots. For example the [[M103]] have great frontal armour, but it can be simply shot at the turret base, and the shockwave will breach hull roof armour and hit the ammo rack located just below the turret in the hull, resulting in instant destruction.
+* '''M107 (PF)''': Also an HE shell like the M107, but with a 3 m proximity fuse, so it does not explode upon impact but earlier instead, when the radio fuse (inside the shell) detects an obstacle nearby. Notice that this is a proximity fuse, and not a radio fuse. This means that the fuse will not detect the aircraft unless in immediate proximity (3 m radius). 
+* '''Type 75''': This HE shell doesn't have a proximity fuse, but its muzzle velocity is faster, which make it more reliable at over 1 km range and allows for significantly easier and faster aim in RB. It was achieved by reducing its penetration power.
+* '''M110''': It is also possible to fire a smoke shell to blind enemy snipers or to hide someone on your team.
 
-'''M107 (PF)''': Also an HE shell like the M107, but with a 3 m proximity fuse, so it does not explode upon impact but earlier instead, when the radio fuse (inside the shell) detects an obstacle nearby. Notice that this is a proximity fuse, and not a radio fuse. This means that the fuse will not detect the aircraft unless in immediate proximity (3 m radius). 
-
-'''Type 75''': This HE shell doesn't have a proximity fuse, but its muzzle velocity is faster, which make it more reliable at over 1 km range and allows for significantly easier and faster aim in RB. It was achieved by reducing its penetration power.
-
-'''M110''': It is also possible to fire a smoke shell to blind enemy snipers or to hide someone on your team.
-
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M107 || HE || 61 || 61 || 61 || 61 || 61 || 61
-|-
-| M107 (PF) || HE-VT || 61 || 61 || 61 || 61 || 61 || 61
-|-
-| Type 75 || HE || 54 || 54 || 54 || 54 || 54 || 54
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M107 || HE || 580 || 43.1 || 0 || 0.1 || 9,140 || 79° || 80° || 81°
-|-
-| Type 75 || HE || 720 || 43.6 || 0 || 0.1 || 6,800 || 79° || 80° || 81°
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="12" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! rowspan="2" | Arming distance<br>(m)
-! rowspan="2" | Trigger radius<br>(m)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M107 (PF) || HE-VT || 580 || 43.1 || 0 || 0 || 9,140 || 300 || 3 || 79° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| M110 || 563 || 40.8 || 25 || 5 || 30 || 50
-|-
-|}
+{{:NSJ L/30 (155 mm)/Ammunition|M107, M107 (PF), Type 75, M110}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

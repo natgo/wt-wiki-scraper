@@ -47,7 +47,7 @@ The MiG-21bis has a strong set of control surfaces including an all-moving tail,
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| _ || _ || _ || _ || _ || _     <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || X || ✓    <!-- ✓ -->
 |-
 |}
 
@@ -62,7 +62,7 @@ The MiG-21bis has a strong set of control surfaces including an all-moving tail,
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || ___ || ___ || ___ || ~__ || ~__
+| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || 500 || 450 || ~12 || ~6
 |-
 |}
 
@@ -72,7 +72,7 @@ The MiG-21bis has a strong set of control surfaces including an all-moving tail,
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || N/A
+| < 650 || < 600 || < 950 || N/A
 |-
 |}
 
@@ -114,6 +114,7 @@ The MiG-21bis has a strong set of control surfaces including an all-moving tail,
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
+
 * 60 mm bulletproof glass - armoured windscreen
 * 10 mm steel - bulkhead behind pilot
 * Engine and fuel tanks take up most of the fuselage area behind the cockpit
@@ -237,6 +238,7 @@ The first MiG-21bis was constructed in 1972 and was adopted into service in the 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mig_21_bis_finland Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

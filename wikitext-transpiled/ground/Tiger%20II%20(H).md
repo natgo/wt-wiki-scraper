@@ -90,47 +90,7 @@ The Tiger II's cannon can maintain a very nice penetration even at long ranges (
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| PzGr 39/43 || APCBC || 237 || 234 || 222 || 207 || 193 || 180
-|-
-| PzGr 40/43 || APCR || 279 || 273 || 252 || 227 || 205 || 185
-|-
-| Hl.Gr 39 || HEAT || 110 || 110 || 110 || 110 || 110 || 110
-|-
-| Sprgr.43 || HE || 14 || 14 || 14 || 14 || 14 || 14
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| PzGr 39/43 || APCBC || 1,000 || 10.16 || 1.2 || 14 || 108.8 || 48° || 63° || 71°
-|-
-| PzGr 40/43 || APCR || 1,130 || 7.3 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-| Hl.Gr 39 || HEAT || 600 || 7.64 || 0 || 0.3 || 1,100 || 62° || 69° || 73°
-|-
-| Sprgr.43 || HE || 820 || 9.4 || 0 || 0.1 || 1,000 || 79° || 80° || 81°
-|-
-|}
+{{:KwK43 (88 mm)/Ammunition|PzGr 39/43, PzGr 40/43, Hl.Gr 39, Sprgr.43}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

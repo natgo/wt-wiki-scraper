@@ -11,7 +11,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish SPAA {{Battle-rating}}
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-When one looks at the L-62 ANTI II, it's expected to have decent protection, when in reality it's armoured like the reserve tank [[Strv m/38]]. As such, its hull and the turret will only sustain rifle-calibre MG. 
+When one looks at the L-62 ANTI II, it's expected to have decent protection, when in reality it's armoured like the reserve tank [[Strv m/38]]. As such, its hull and the turret will only sustain rifle-calibre MG.
 
 The gun shield is expected to protect the crew in case of a brawl with a light tank, but it's only 8 mm thick and can be penetrated by anything at point blank range. It's also way too small to protect the SPAA from any aircraft.
 
@@ -82,21 +82,7 @@ The gun and the ammunition are the same as the [[Lvtdgb m/40]]. The only noticea
 * '''slsgr m/36C:''' {{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|APC|Armour-piercing capped}}
 * '''slhpgr m/43:''' {{Annotation|SAPHEI|Semi armour-piercing high-explosive incendiary}}{{-}}{{Annotation|SAPHEI|Semi armour-piercing high-explosive incendiary}}{{-}}{{Annotation|SAPHEI|Semi armour-piercing high-explosive incendiary}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 79 || 75 || 60 || 46 || 35 || 26
-|-
-| slsgr m/36C || 79 || 75 || 60 || 46 || 35 || 26
-|-
-| slhpgr m/43 || 66 || 62 || 48 || 34 || 25 || 18
-|-
-|}
+{{:lvakan m/36 (40 mm)/Ammunition|APC, HEFI-T, SAPHEI}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->

@@ -67,43 +67,7 @@ Developed soon after the [[Type 90 (Family)|Type 90]] to supplement and replace 
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| JM12A1 || HEATFS || 480 || 480 || 480 || 480 || 480 || 480
-|-
-| JM33 || APFSDS || 481 || 478 || 470 || 461 || 450 || 440
-|-
-| Type 10 || APFSDS || 615 || 613 || 604 || 592 || 582 || 571
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (kg)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| JM12A1 || HEATFS || 1,140 || 13.5 || 0.05 || 0.1 || 2.15 || 65° || 72° || 77°
-|-
-| JM33 || APFSDS || 1,640 || 4.3 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-| Type 10 || APFSDS || 1,780 || 4.2 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
+{{:TKG (120 mm)/Ammunition|JM12A1, JM33, Type 10}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

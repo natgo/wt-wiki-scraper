@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=uk_chieftain_mk_3
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|GarageImage_{{PAGENAME}}_Dozer.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==

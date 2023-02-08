@@ -80,57 +80,17 @@ Due to the lack of firepower for the original [[Type 69 (100 mm)|Type 69]] 100 m
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Type 1959 APDS || APDS || 299 || 298 || 291 || 272 || 253 || 249
-|-
-| Type 44 AP || APCBC || 239 || 236 || 220 || 202 || 186 || 170
-|-
-| Type 1973 HEAT-FS || HEATFS || 390 || 390 || 390 || 390 || 390 || 390
-|-
-| Type 44 HE || HE || 19 || 19 || 19 || 19 || 19 || 19
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Type 1959 APDS || APDS || 1,432 || 3.18 || N/A || N/A || N/A || 75° || 78° || 80°
-|-
-| Type 44 AP || APCBC || 887 || 15.9 || 1.2 || 19 || 93.94 || 48° || 63° || 71°
-|-
-| Type 1973 HEAT-FS || HEATFS || 1,000 || 10.05 || 0.05 || 0.1 || 1,180 || 65° || 72° || 77°
-|-
-| Type 44 HE || HE || 900 || 15.6 || 0 || 0.1 || 1,460 || 79° || 80° || 81°
-|-
-|}
+{{:Type 69-II (100 mm)/Ammunition|Type 1959 APDS, Type 44 AP, Type 1973 HEAT-FS, Type 44 HE}}
 
 The Type 69-IIa shares very similar shells to a [[Type 59]] with a rifled gun, but in the Type 69's case, it has slightly different types of shells. Since it is a premium tank, all the rounds onboard comes researched.
 
-One of the first stock shells, Type 1959 APDS, is identical to the Soviet 3BM3 with sufficient penetration to deal with medium tanks of its tier; although it might have some trouble against tanks with rounded hulls or well-armoured late-WWII/Cold War tanks such as the [[M48 Patton (Family)|Pattons]], [[M103]], and [[Maus]]. Do remember to place the shots on their weakspots. Since it is a premium tank, the Type 69-IIa comes with all shells unlocked, so this shell never needs to be used.
+One of the first stock shells, Type 1959 APDS, is identical to the Soviet 3BM3 with sufficient penetration to deal with medium tanks of its tier; although it might have some trouble against tanks with rounded hulls or well-armoured late-WWII/Cold War tanks such as the [[M48 Patton (Family)|Pattons]], [[M103]], and [[Maus]]. Do remember to place the shots on their weak spots. Since it is a premium tank, the Type 69-IIa comes with all shells unlocked, so this shell never needs to be used.
 
 The other stock shell, Type 44 HE (OF-412), is again found on many tanks with the [[D-10T (100 mm)|D-10T]] cannon; due to its lesser explosive content and penetration compared to other larger calibre shells, it is only good for taking out SPAAGs or light/open-top vehicles.
 
 The first researchable shell, Type 44 AP (BR-412D), is again a common shell for 100 mm rifled guns on both Warsaw-Pact/Chinese tanks; infamous for its explosive content and sufficiently high penetration, any penetrating shots on enemy tanks are very likely to inflict severe damage, if not knock them out right away. This will be the go-to shell for the Type 69-IIa.
 
-The second researchable shell, Type 1973 HEATFS, is identical to Soviet 3BK17M. Although it might not have the highest penetration among other HEATFS at its tier, it is still sufficient to take down well-armoured targets with its 390 mm penetration, while lighter vehicles will have to face the 10 kg of explosive contents that is more than enough to overpressure them right away. It is recommended to bring a few for use against both the most lightly and heavily armoured targets.
+The second researchable shell, Type 1973 HEAT-FS, is identical to Soviet 3BK17M. Although it might not have the highest penetration among other HEATFS at its tier, it is still sufficient to take down well-armoured targets with its 390 mm penetration, while lighter vehicles will have to face the 10 kg of explosive contents that is more than enough to overpressure them right away. It is recommended to bring a few for use against both the most lightly and heavily armoured targets.
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Type 69.png|right|thumb|x250px|[[Ammo racks]] of the Type 69]]

@@ -138,27 +138,27 @@ The HEATFS shell is powerful in terms of penetration, but the post-penetration d
 
 '''Pros:'''
 
-* Access to HEATFS shells with excellent penetration
+* Low profile makes it easier to hide behind cover
 * Decent acceleration and turning
 * Amphibious capabilities
+* Access to HEATFS shells with excellent penetration
 * Has a two-plane [[gun stabilizer]] (the lowest-ranked USSR tank with it!)
-* Good stabilizer works while travelling at full speed on land and shooting in water
-* Low profile
+* Good stabilizer works while driving at full speed on land and shooting in water
 * Decent turret rotation
 * Has night vision devices (NVD)
 
 '''Cons:'''
 
 * Very thin armour, even heavy machine guns can go through the front
-* Stock shell is APCR
-* Efficiency is greatly reduced when a crew member is lost
-* Shooting from the water will shake the entire vehicle, but not the aim
+* Extremely vulnerable to aircraft strafing
+* Only 3 crew members: efficiency is greatly reduced when a crew member is lost
 * Lightweight vehicle means it is heavily affected from collisions
-* Slow light tank compared to counterparts such as the [[M41A1]]
 * No neutral steering, makes it difficult to turn the PT-76B when not moving
 * Slow reverse speed both on land and in water
 * Driving in water is very slow, even when going forward
-* Extremely vulnerable to aircraft strafes
+* Shooting from the water will shake the entire vehicle, but not the aim
+* No armour-piercing shell with explosive filler
+* Stock shell is APCR
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -192,7 +192,7 @@ During the process of serial release various changes were made to the design of 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_pt_76b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|RkzTeKDqmnw|'''Long-serving tanks''' discusses the {{PAGENAME}} at 06:17 - ''War Thunder Official Channel''|SJoW-2_6J6o|'''Amphibious tanks'''  discusses the {{PAGENAME}} at 4:38  - ''War Thunder Official Channel''|8Zol0mmU-9s|'''Why this advanced tank is matched with WW2 Vehicles''' - ''HowToPlay1337''}}
+{{Youtube-gallery|RkzTeKDqmnw|'''Long-serving tanks''' discusses the {{PAGENAME}} at 06:17 - ''War Thunder Official Channel''|SJoW-2_6J6o|'''Amphibious tanks''' discusses the {{PAGENAME}} at 4:38 - ''War Thunder Official Channel''|8Zol0mmU-9s|'''Why this advanced tank is matched with WW2 Vehicles''' - ''HowToPlay1337''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

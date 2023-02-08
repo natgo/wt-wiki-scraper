@@ -72,53 +72,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese tank destroyer {{Battl
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M48 shell || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-| M66 || HEAT || 89 || 89 || 89 || 89 || 89 || 89
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M48 shell || HE || 381 || 6.3 || 0 || 0.1 || 666 || 79° || 80° || 81°
-|-
-| M66 || HEAT || 304 || 6.02 || 0.05 || 0.1 || 548.13 || 62° || 69° || 73°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| M64 || 381 || 6.9 || 13 || 5 || 20 || 50
-|-
-|}
+{{:M2 Howitzer (75 mm)/Ammunition|M48 shell, M66, M64}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_M8_Scott.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

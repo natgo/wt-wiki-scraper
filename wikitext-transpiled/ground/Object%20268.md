@@ -90,43 +90,7 @@ The BP-540 HEAT projectile can be used just like APHEBC, but it will not knock o
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| OF-540 || HE || 49 || 49 || 49 || 49 || 49 || 49
-|-
-| BR-540B || APHEBC || 233 || 230 || 219 || 205 || 192 || 180
-|-
-| BP-540 || HEAT || 250 || 250 || 250 || 250 || 250 || 250
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| OF-540 || HE || 750 || 43.56 || 0 || 0.1 || 5,900 || 79° || 80° || 81°
-|-
-| BR-540B || APHEBC || 760 || 48.96 || 1.2 || 19 || 1,020 || 48° || 63° || 71°
-|-
-| BP-540 || HEAT || 770 || 27.4 || 0.05 || 0.1 || 5,910 || 62° || 69° || 73°
-|-
-|}
+{{:M-64 (152 mm)/Ammunition|OF-540, BR-540B, BP-540}}
 
 ==== [[Ammo racks]] ====
 <!-- '''Last updated: 1.101.1.16''' -->

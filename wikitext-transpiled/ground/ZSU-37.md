@@ -1,7 +1,7 @@
 {{About
 | about = Soviet SPAA '''{{PAGENAME}}'''
-| usage = other uses
-| link = ZSU (Disambiguation)
+| usage = the twin-barrelled version
+| link = ZSU-37-2
 }}
 {{Specs-Card
 |code=ussr_zsu_37
@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet self-propelled anti-aircraft vehicle {{Battle-rating}}. It was introduced in [[Update 1.43]]. It is based on a SU-76M chassis with a special turret mounting the 37 mm 61-K mod. 1939 anti-aircraft cannon. Its fast-firing cannon will bring down any plane coming at range and thanks to its HVAP ammunition it also has the potential to destroy tanks with around 100 mm penetration.
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet self-propelled anti-aircraft vehicle {{Battle-rating}}. It was introduced in [[Update 1.43]]. It is based on a SU-76M chassis with a special turret mounting the 37 mm 61-K mod. 1939 anti-aircraft cannon. Its fast-firing cannon will bring down any plane coming at range and thanks to its HVAP ammunition it also has the potential to destroy tanks with a little less than 90 mm penetration.
 
 == General info ==
 === Survivability and armour ===
@@ -135,7 +135,7 @@ The ZSU-37 is best used as a second or third spawn, because aircraft will not sp
 {{Navigation-First-Simple-Line}}
 Since tank divisions were facing greater losses from attacks by enemy assault aircraft, the decision was made to create a self-propelled anti-air mount based on light tanks. Work on the creation of a self-propelled installation based on the T-70 tank began in 1942. Two experimental models were released. Serious design flaws were uncovered during the testing phase.
 
-In December, 1943 the ZSU-37 SPG was built at Factory #38 under the management of M.N. Shukin. It was armed with a 37mm KB M.N. Loginov 61-K AA cannon. The vehicle was based on the SU-76M SPG, but instead of a combat cockpit they installed an open, rotating turret. An experimental model of the vehicle successfully underwent state-run testing and was recommended for serial production. However, due to production difficulties, serial production was moved to Factory #40 in Mytishchi.
+In December, 1943 the ZSU-37 SPG was built at Factory #38 under the management of M.N. Shukin. It was armed with a 37 mm KB M.N. Loginov 61-K AA cannon. The vehicle was based on the SU-76M SPG, but instead of a combat cockpit they installed an open, rotating turret. An experimental model of the vehicle successfully underwent state-run testing and was recommended for serial production. However, due to production difficulties, serial production was moved to Factory #40 in Mytishchi.
 
 The vehicle's design was enhanced at the new factory, and, after undergoing testing in October-November 1944, the vehicle began to be released serially. The vehicle was released in a small series of 75 units from 1945-1946. It was never used in combat.
 {{Navigation-End}}

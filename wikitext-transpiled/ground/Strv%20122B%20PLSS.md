@@ -70,47 +70,7 @@ The Strv 122B carries on all the good armour from the previous 122A model, but g
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| DM23 || APFSDS || 410 || 408 || 401 || 393 || 384 || 376
-|-
-| DM33 || APFSDS || 481 || 478 || 470 || 461 || 450 || 440
-|-
-| slsgr m/95 || HE || 36 || 36 || 36 || 36 || 36 || 36
-|-
-| slpprj m/95 || APFSDS || 589 || 586 || 577 || 565 || 553 || 541
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| DM23 || APFSDS || 1,640 || 4.3 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-| DM33 || APFSDS || 1,640 || 4.3 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-| slsgr m/95 || HE || 736 || 17.5 || 0 || 0.1 || 3,540 || 79° || 80° || 81°
-|-
-| slpprj m/95 || APFSDS || 1,705 || 5.6 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
+{{:kan Strv 122 (120 mm)/Ammunition|DM23, DM33, slsgr m/95, slpprj m/95}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -167,7 +127,12 @@ The Strv 122B carries on all the good armour from the previous 122A model, but g
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+
+In 1994, the Swedish Army first purchased 150 [[Leopard 2A4]]s from Germany in stock (all the first five batches produced), which were delivered in 1994 and 1995, designated by the Swedish Army as [[Strv 121]], and later improved to the level of the [[Leopard 2A5]]. After that, the Swedish Army continued to evaluate the procurement of a second batch of more advanced main tanks, and in 1999 held tests with the modern NATO tanks of the 1990s: the American [[M1A2]], the German Leopard 2A5, the French [[Leclerc]] and the British [[Challenger 2]].
+
+During the trials, the Leopard 2A5 defeated various strong opponents (in order of test results: Leopard 2A5, M1A2, Leclerc, Challenger-2) and won orders from the Swedish Army. The Swedish Army ordered 120 Leopard 2A5s, which they also modified to their own specifications, and were given the designation [[Strv_122A|Strv 122]] (the Germans refer to this Swedish variant as the ''Leopard 2S'') The contract also includes related training simulators, parts, training and logistics support, and industrial reciprocity, in addition to Sweden's priority option to purchase an additional 90 vehicles.
+
+The chassis of the Strv 122 was built by KraussMaffei and Hgglunds of Sweden, the turret was produced by Mak in cooperation with Bofors in Sweden, and the firing control system was integrated by STN Atlas Elektronik and Celsius Tech Systems AB of Sweden. In addition, Bofors still produces 50% of the main gun components. The Strv 122 combines advanced technology from Bofors, Ericsson and Celsius, and has been enhanced with enhanced protection. The Strv 122 is considered one of the most sophisticated and protected version of the Leopard 2 series.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

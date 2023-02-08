@@ -77,23 +77,7 @@ Armour is practically nonexistent with this vehicle at only 14 mm maximum. Notab
 * '''Pzbrgr.:''' {{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
 * '''H-Pzgr.:''' {{Annotation|HVAP|High-velocity armour-piercing}}{{-}}{{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Pzgr. L'spur || 33 || 30 || 21 || 13 || 8 || 5
-|-
-| Brsprgr. L'spur || 34 || 30 || 17 || 8 || 4 || 2
-|-
-| Pzbrgr. || 34 || 30 || 17 || 8 || 4 || 2
-|-
-| H-Pzgr. || 51 || 46 || 30 || 18 || 11 || 6
-|-
-|}
+{{:MG151 (15 mm)/Ammunition|AP-T, HEF-T, HEFI-T, AP-I, HVAP}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks Sd.Kfz.251-21.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

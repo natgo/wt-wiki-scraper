@@ -154,7 +154,7 @@ One 2C, No. 99 "Champagne", was given a new two-man cast turret with a 155 mm ho
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_char_2c_bis Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|QmaE2bomv14|'''Giant Derp Land Battleship - 155mm 70 ton Monster''' - ''PhlyDaily''|vdHmTGTPa20|'''Trenchwarmer - Char 2C''' - ''Tank Encyclopedia''}}
+{{Youtube-gallery|3kVkp5-IeNQ|'''The Shooting Range #340''' - ''Pages of History'' section at 03:35 discusses the {{PAGENAME}}.|JzwvDeihMT8|'''The Shooting Range #339''' - ''Metal Beasts'' section at 00:24 discusses the {{PAGENAME}}.|QmaE2bomv14|'''Giant Derp Land Battleship - 155mm 70 ton Monster''' - ''PhlyDaily''|vdHmTGTPa20|'''Trenchwarmer - Char 2C''' - ''Tank Encyclopedia''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

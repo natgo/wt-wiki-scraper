@@ -75,44 +75,7 @@ However, this does not mean that the Ostwind is incredibly well-protected by any
 * '''PzGr:''' {{Annotation|APHE|Armour-piercing high-explosive}}
 * '''M.Gr.18:''' {{Annotation|FI-T|Fragmentation incendiary tracer}}
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | '''Penetration @ 0° Angle of Attack (mm)'''
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 49 || 46 || 33 || 22 || 14 || 10
-|-
-| Sprgr. 18 || 3 || 3 || 3 || 3 || 3 || 3
-|-
-| PzGr || 49 || 46 || 33 || 22 || 14 || 10
-|-
-| M.Gr.18 || 4 || 4 || 4 || 4 || 4 || 4
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Belt details
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Sprgr. 18 || FI-T || 820 || 0.62 || 0.3 || 0.1 || 49.3 || 79° || 80° || 81°
-|-
-| PzGr || APHE || 770 || 0.69 || 1.2 || 9.0 || 22.1 || 47° || 60° || 65°
-|-
-| M.Gr.18 || FI-T || 914 || 0.55 || N/A || 0.1 || 108 || 47° || 56° || 65°
-|-
-|}
+{{:FlaK43 (37 mm)/Ammunition|Sprgr. 18, PzGr, M.Gr.18}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

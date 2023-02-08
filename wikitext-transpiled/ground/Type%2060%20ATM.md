@@ -91,37 +91,7 @@ The missiles are always launched upwards at about 40 degree arc, so they will al
 When firing from third person view in AB, keep in mind that the ATGM will only turn as far as the sniper crosshair goes, which is often unclear as the binoculars do not physically move on screen. Check sniper view beforehand if necessary.
 
 ==== Ammunition ====
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Type 64 || ATGM || 500 || 500 || 500 || 500 || 500 || 500
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="11" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Type 64 || ATGM || 85 || 1,800 || 15.7 || 0 || 0.1 || 4,550 || 80° || 82° || 90°
-|-
-|}
-'''Notes:'''
+{{:Type 64 MAT/Ammunition|Type 64}}'''Notes:'''
 
 * While stat card states the max range is 1,800 m, in reality, it is less due to the missile losing fuel making course corrections. The resulting effective range is closer to 1,600 m.
 * In AB, rearming takes about 40 seconds once the launcher is empty and no partial rearming can be done on the capture point. Rearm only happens for one launcher at once, which means fully restocking will take you 80 seconds. Launcher still reloads during rearming, so you can fire away immediately after it's done.

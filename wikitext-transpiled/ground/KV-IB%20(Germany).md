@@ -95,47 +95,7 @@ The {{PAGENAME}} has the following ammunition available:
 * OF-350M: High-explosive shell. Though it should never be used for the purpose of penetrating an enemy tank, it can be useful for destroying lightly-armoured vehicles with overpressure, such as trucks and the like.
 * Sh-354T: Shrapnel shell. In ways, it is similar to the HE shell, except it has sufficient penetration value to deal with light tanks as well. Its explosion can also create shrapnel that can also be used against lightly armoured vehicles in a manner similar to HE shells.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| BR-350A (MD-5 fuze) || APHEBC || 78 || 76 || 70 || 62 || 56 || 50
-|-
-| BR-350B (MD-8 fuze) || APHEBC || 88 || 86 || 77 || 67 || 59 || 51
-|-
-| OF-350M || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-| Sh-354T || Shrapnel || 35 || 34 || 30 || 26 || 22 || 19
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| BR-350A (MD-5 fuze) || APHEBC || 615 || 6.3 || 1.2 || 14 || 150 || 48° || 63° || 71°
-|-
-| BR-350B (MD-8 fuze) || APHEBC || 615 || 6.5 || 0.9 || 14 || 100.1 || 48° || 63° || 71°
-|-
-| OF-350M || HE || 615 || 6.2 || 0.05 || 0.1 || 621 || 79° || 80° || 81°
-|-
-| Sh-354T || Shrapnel || 615 || 6.44 || 1.2 || 14 || 85 || 62° || 69° || 73°
-|-
-|}
+{{:F-32 (76 mm)/Ammunition|BR-350A (MD-5 fuze), BR-350B (MD-8 fuze), OF-350M, Sh-354T}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_KV-1_(L-11).png|right|thumb|x250px|[[Ammo racks]] of the [[KV-1 (L-11)]] (identical)]]

@@ -73,23 +73,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese SPAA {{Battle-rating}
 * '''DM43:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
 * '''DM63:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 57 || 52 || 37 || 24 || 15 || 10
-|-
-| DM51A1 || 57 || 52 || 37 || 24 || 15 || 10
-|-
-| DM43 || 57 || 52 || 37 || 24 || 15 || 10
-|-
-| DM63 || 66 || 61 || 45 || 31 || 21 || 14
-|-
-|}
+{{:Rh202 (20 mm)/Ammunition|HVAP-T, HEFI-T, APDS}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->

@@ -83,39 +83,7 @@ This gun shouldn't be confused with the one on the [[Chi-Ha Short Gun]], while s
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Ordinary, Mod.1 || HE || 25 || 25 || 25 || 25 || 25 || 25
-|-
-| C.P.(BF) || SAPCBC || 103 || 102 || 95 || 87 || 80 || 74
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Ordinary, Mod.1 || HE || 825 || 20.4 || 0 || 0.1 || 1,970 || 79° || 80° || 81°
-|-
-| C.P.(BF) || SAPCBC || 825 || 20.4 || 1.2 || 19 || 1,870 || 48° || 63° || 71°
-|-
-|}
+{{:10th Year Type (120 mm)/Ammunition|Ordinary Mod.1, C.P.(BF)}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

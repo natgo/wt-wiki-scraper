@@ -76,7 +76,7 @@ One of the best aspects of the {{Specs|pseudonym}} is its superior mobility. It 
 |-
 |}
 
-The {{Specs|pseudonym}} is armed with an [[M6 (37 mm)|37 mm M6]] cannon as its main armament, the gun still packs a fierce punch if aiming at the correct area and firing at the correct distance. It is a small calibre fast-firing gun with a maximum penetration of 84 mm at 100 m (M51B1 shell), being able to penetrate most of the opponents it will face. While it lacks the post-penetration damage to knock out most enemy tanks, it can quickly finish them off with its fast reload. The penetration and trajectory drops a lot beyond 500 m. Note that the gun has a vertical stabiliser, giving the player a huge advantage in some cases, but keep in mind that the stabiliser only works when the tank is slower than 10 km/h.
+The {{Specs|pseudonym}} is armed with an [[M6 (37 mm)|37 mm M6]] cannon as its main armament, the gun still packs a fierce punch if aiming at the correct area and firing at the correct distance. It is a small calibre fast-firing gun with a maximum penetration of 84 mm at 100 m (M51B1 shell), being able to penetrate most of the opponents it will face. While it lacks the post-penetration damage to knock out most enemy tanks, it can quickly finish them off with its fast reload. The penetration and trajectory drop significantly beyond 500 m. Note that the gun has a vertical stabiliser, giving the player a huge advantage in some cases, but keep in mind that the stabiliser only works when the tank is slower than 10 km/h.
 
 ==== Ammunition ====
 {{:M6 (37 mm)/Ammunition|M74B1, M51B1}}
@@ -172,6 +172,7 @@ The US lend-leased a total of 651 light tanks to the Free French forces, includi
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_m3a3_stuart Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -183,10 +184,12 @@ The US lend-leased a total of 651 light tanks to the Free French forces, includi
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[M5 Stuart (Family)]]
 * [[M8 General Scott (Family)]]
 
 ;Other vehicles of similar configuration and role
+
 * [[A13 Mk II 1939]]
 
 == External links ==

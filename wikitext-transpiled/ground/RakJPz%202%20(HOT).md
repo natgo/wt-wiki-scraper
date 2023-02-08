@@ -69,36 +69,7 @@ Due to its relatively low profile, the Raketenjagdpanzer 2 HOT is able to comple
 |}
 
 ==== Ammunition ====
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| HOT || ATGM || 700 || 700 || 700 || 700 || 700 || 700
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="11" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| HOT || ATGM || 250 || 4,000 || 23 || 0 || 0.1 || 3,800 || 80° || 82° || 90°
-|-
-|}
+{{:HOT-K3S/Ammunition|HOT}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.jpg|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

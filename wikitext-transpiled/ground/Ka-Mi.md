@@ -80,39 +80,7 @@ The 37 mm is a decent gun with a good reload time and good ammo count: don't bot
 ==== Ammunition ====
 It's highly preferable to use the Type 1 APHE ammunition over the stock one, due to its significantly better penetration and its explosive filler. While the Type 94 shell may only damage enemy crew or components with anything barring a perfectly-placed shot, the Type 1 shell will nearly always result in an effectively destructive hit, damaging modules and crew alike. Similarly, the penetration characteristics of the Type 1 shells make all the difference between a ricochet and a successful knock-out when dealing with other tanks at this BR.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | '''Penetration @ 0° Angle of Attack (mm)'''
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Type 94 APHE || APHE || 46 || 44 || 36 || 29 || 23 || 18
-|-
-| Type 1 APHE || APHE || 57 || 54 || 39 || 26 || 18 || 12
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Type 94 APHE || APHE || 700 || 0.7 || 1.2 || 9 || 11 || 47° || 60° || 65°
-|-
-| Type 1 APHE || APHE || 800 || 0.72 || 1.2 || 9 || 12.8 || 47° || 60° || 65°
-|-
-|}
+{{:Type 1 (37 mm)/Ammunition|Type 94 APHE, Type 1 APHE}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

@@ -53,11 +53,11 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} German light tank {{Battl
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-{{main|KwK39 (50 mm)}}
+{{main|KwK.39/1 (50 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[KwK39 (50 mm)|50 mm KwK39]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[KwK.39/1 (50 mm)|50 mm KwK.39/1]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
@@ -72,47 +72,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} German light tank {{Battl
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| PzGr 39 || APC || 106 || 101 || 83 || 65 || 50 || 39
-|-
-| PzGr 40/1 || APCR || 130 || 121 || 90 || 62 || 43 || 29
-|-
-| PzGr 40 || APCR || 137 || 126 || 88 || 56 || 36 || 23
-|-
-| Sprgr. 38 || HE || 5 || 5 || 5 || 5 || 5 || 5
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| PzGr 39 || APC || 835 || 2.05 || 1.2 || 9 || 28.9 || 48° || 63° || 71°
-|-
-| PzGr 40/1 || APCR || 1,130 || 1.07 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-| PzGr 40 || APCR || 1,180 || 0.9 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-| Sprgr. 38 || HE || 870 || 1.82 || 0 || 0.1 || 217.6 || 79° || 80° || 81°
-|-
-|}
+{{:KwK.39/1 (50 mm)/Ammunition|PzGr 39, PzGr 40/1, PzGr 40, Sprgr. 38}}
 
 ==== [[Ammo racks]] ====
 <!-- '''Last updated: 1.101.1.16''' -->

@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=us_lav_ad
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|GarageImage_{{PAGENAME}}_Hydra-70.jpg}}
 }}
 
 == Description ==

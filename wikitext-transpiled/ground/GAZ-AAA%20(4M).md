@@ -89,23 +89,7 @@ The recommended belts are APIT or API. APIT is great for new players to learn th
 * '''API:''' {{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}
 * '''APIT:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 13 || 12 || 7 || 3 || 3 || 3
-|-
-| Universal || 13 || 12 || 7 || 3 || 2 || 0
-|-
-| API || 13 || 12 || 7 || 3 || 2 || 0
-|-
-| APIT || 9 || 8 || 6 || 3 || 0 || 0
-|-
-|}
+{{:Maxim's (7.62 mm)/Ammunition|AP-I, T, AI, API-T}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

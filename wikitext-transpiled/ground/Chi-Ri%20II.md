@@ -67,43 +67,7 @@ The Chi-Ri II is quite a unique tank to use in the game, presenting its own set 
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Type 1 APHE || APHE || 149 || 146 || 133 || 118 || 105 || 93
-|-
-| Type 4 Kou || APHE || 151 || 148 || 137 || 124 || 112 || 101
-|-
-| Type 90 HE || HE || 8 || 8 || 8 || 8 || 8 || 8
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Type 1 APHE || APHE || 865 || 6.56 || 1.3 || 15 || 84.8 || 47° || 60° || 65°
-|-
-| Type 4 Kou || APHE || 865 || 6.75 || 1.2 || 14 || 80.64 || 47° || 60° || 65°
-|-
-| Type 90 HE || HE || 830 || 6.17 || 0 || 0.1 || 490 || 79° || 80° || 81°
-|-
-|}
+{{:Type II Model I (75 mm)/Ammunition|Type 1 APHE, Type 4 Kou, Type 90 HE}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -153,35 +117,7 @@ The Chi-Ri II is quite a unique tank to use in the game, presenting its own set 
 |}
 
 ==== Ammunition ====
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Type 94 APHE || APHE || 46 || 44 || 36 || 29 || 23 || 18
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Type 94 APHE || APHE || 700 || 0.7 || 1.2 || 9 || 11 || 47° || 60° || 65°
-|-
-|}
+{{:Type 1 (37 mm)/Ammunition|Type 94 APHE}}
 
 ==== [[Ammo racks]] ====
 <!-- '''Last updated: 1.101.0.44''' -->

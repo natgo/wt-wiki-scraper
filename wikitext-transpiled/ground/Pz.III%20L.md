@@ -86,47 +86,7 @@ The Panzer III L is a relatively mobile tank compared to many of its opponents, 
 * '''PzGr 40''' - Armour Piercing Composite Rigid shell - this variation of APCR is lighter, slightly faster and offers the best penetration. Use it against heavily armoured tanks like KV-1 (If you can't flank them). However, don't expect it to cause any real damage upon penetration, its even worse than that of PzGr 40/1. It basically only deals damage to modules/crew straight in its path. It is therefore almost useless to fire them at things like turret cupolas, as it will usually just fly right through them.
 * '''SprGr 38''' - High Explosive shell - You should carry only very few of these. They are completely useless against anything other than unarmoured AA vehicles, to which it is lethal. It can be useful as the vehicle lacks an AA machine gun on the turret roof, and the coaxial MG is not the most efficient.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| PzGr 39 || APC || 106 || 101 || 83 || 65 || 50 || 39
-|-
-| PzGr 40/1 || APCR || 130 || 121 || 90 || 62 || 43 || 29
-|-
-| PzGr 40 || APCR || 137 || 126 || 88 || 56 || 36 || 23
-|-
-| Sprgr. 38 || HE || 5 || 5 || 5 || 5 || 5 || 5
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| PzGr 39 || APC || 835 || 2.05 || 1.2 || 9 || 28.9 || 48° || 63° || 71°
-|-
-| PzGr 40/1 || APCR || 1,130 || 1.07 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-| PzGr 40 || APCR || 1,180 || 0.9 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-| Sprgr. 38 || HE || 870 || 1.82 || 0 || 0.1 || 217.6 || 79° || 80° || 81°
-|-
-|}
+{{:KwK39 (50 mm)/Ammunition|PzGr 39, PzGr 40/1, PzGr 40, Sprgr. 38}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Pz.IIIJ1.png|right|thumbnail|[[Ammo racks|Ammo racks]] of the Panzer III J1 (identical).]]

@@ -28,7 +28,7 @@ The post-penetration survivability is also unsatisfactory, given the cramped des
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 120 mm (27-34°) ''Driver viewport'' <br> 60 mm (77°) ''Upper glacis'' <br> 100 mm (28-36°) ''Lower glacis'' || 90 - 100 mm (9-25°) ''Top'' <br> 90 mm ''Bottom'' || 60 mm (49-50°) ''Top'' <br> 60 mm (38°) ''Bottom'' || 30 mm ''Hull'' <br> 10 mm ''Engine Compartment'' <br> 60 mm (77°) ''Front hull''
+| Hull || 120 mm (27-34°) ''Driver viewport'' <br> 60 mm (77°) ''Upper glacis'' <br> 100 mm (28-36°) ''Lower glacis'' || 90 - 100 mm (9-25°) ''Top'' <br> 90 mm ''Bottom'' || 60 mm (49-50°) ''Top'' <br> 60 mm (38°) ''Bottom'' || 30 mm ''Hull'' <br> 10 mm ''Engine Compartment'' <br> 60 mm (77°) ''Front hull''
 |-
 | Turret || 100 mm (7-72°) ''Turret front'' <br> 100 mm (4-80°) ''Gun mantlet'' || 100 mm (4-32°) || 100 mm (23-43°) || 30 mm <br> 30 mm ''Turret Hatches''
 |-
@@ -80,53 +80,7 @@ The main gun aside, other aspects of the Object 248 don't quite complement the f
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| BR-412B || APHEBC || 218 || 215 || 201 || 184 || 169 || 155
-|-
-| OF-412 || HE || 19 || 19 || 19 || 19 || 19 || 19
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| BR-412B || APHEBC || 895 || 15.9 || 1.2 || 19 || 100.1 || 48° || 63° || 71°
-|-
-| OF-412 || HE || 900 || 15.6 || 0 || 0.1 || 1,460 || 79° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive mass<br>(TNT equivalent) (g)
-|-
-| 3D3 || 880 || 15.6 || 20 || 5 || 25 || 50
-|-
-|}
+{{:S-34 (100 mm)/Ammunition|BR-412B, OF-412, 3D3}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->

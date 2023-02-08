@@ -66,39 +66,7 @@ The Vickers Mk.E has a cruise speed that allows it to keep up with most vehicles
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| psav Vj4 || AP || 62 || 58 || 42 || 29 || 20 || 14
-|-
-| pstkr 27-34 || APHE || 55 || 51 || 37 || 26 || 17 || 12
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| psav Vj4 || AP || 810 || 0.74 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| pstkr 27-34 || APHE || 800 || 0.74 || 1.2 || 9 || 15 || 47° || 60° || 65°
-|-
-|}
+{{:Psv.K/36 (37 mm)/Ammunition|psav Vj4, pstkr 27-34}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

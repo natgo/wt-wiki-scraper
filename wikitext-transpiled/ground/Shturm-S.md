@@ -112,66 +112,7 @@ The list of available ATGM in order of acquisition:
 * Proximity HE - A guided missile specifically redesigned to destroy planes and helicopters. Launched at about 130 m/s with poor acceleration. In terms of damage, it differs from HE by having a slightly higher area of effect (enough to occasionally destroy light tanks standing right next to the target) but slightly weaker penetration (enough to sometimes fail to destroy targets on direct hit) and practically no damage to the ground. It has enough fuel to fly for about 7 km away. In reality, it is mostly equal to normal HE missile. This missile also has a proximity detonator, which activates after missile flies about 300 m away from the carrier and the ground, which helps with hitting aircraft despite not having radar or any other targeting devices. While detonator is set to explode next to the aircraft (about 5 m away) if possible, certain support helicopters can survive the explosion. The proximity detonator will not react to the tanks or the ground even if brought back down to ground level and does not seem to react to rockets and other missiles, unless it is fired straight into them (they often react to it first).
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 9M114 || ATGM || 560 || 560 || 560 || 560 || 560 || 560
-|-
-| 9M120 || ATGM (tandem) || 800 || 800 || 800 || 800 || 800 || 800
-|-
-| 9M120F-1 || ATGM-HE || 55 || 55 || 55 || 55 || 55 || 55
-|-
-| 9M220O || ATGM-VT || 51 || 51 || 51 || 51 || 51 || 51
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="11" | Missile details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 9M114 || ATGM || 550 || 5,000 || 31.4 || 0 || 0.01 || 3,930 || 80° || 82° || 90°
-|-
-| 9M120 || ATGM (tandem) || 550 || 6,000 || 33.5 || 0.4 || 0.01 || 4,480 || 80° || 82° || 90°
-|-
-| 9M120F-1 || ATGM-HE || 550 || 6,000 || 33.5 || 0.4 || 0.01 || 6,930 || 79° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="13" | Proximity-fused missile details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Arming distance<br>(m)
-! rowspan="2" | Trigger radius<br>(m)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 9M220O || ATGM-VT || 550 || 7,000 || 33.5 || 0 || 0.01 || 300 || 4 || 6,160 || 79° || 80° || 81°
-|-
-|}
+{{:9M114 Shturm/Ammunition|9M114, 9M120, 9M120F-1, 9M220O}}
 
 ==== [[Ammo racks]] ====
 <!-- '''Last updated:''' -->

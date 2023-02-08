@@ -8,7 +8,7 @@
 }}
 {{Specs-Card
 |code=us_m8_scott
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_M8_HMC.png}}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_M8_HMC.png}}
 }}
 
 == Description ==
@@ -77,53 +77,7 @@ Thanks to its HEAT shell, the M8 Scott's firepower can handle everything with ea
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M48 shell || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-| M66 || HEAT || 89 || 89 || 89 || 89 || 89 || 89
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M48 shell || HE || 381 || 6.3 || 0 || 0.1 || 666 || 79° || 80° || 81°
-|-
-| M66 || HEAT || 304 || 6.02 || 0.05 || 0.1 || 548.13 || 62° || 69° || 73°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| M64 || 381 || 6.9 || 13 || 5 || 20 || 50
-|-
-|}
+{{:M2 Howitzer (75 mm)/Ammunition|M48 shell, M66, M64}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -144,6 +98,7 @@ Thanks to its HEAT shell, the M8 Scott's firepower can handle everything with ea
 {{Specs-Tank-Weapon|2}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|M2HB (12.7 mm)}}
+The 12.7 mm M2HB is an excellent machine gun at this tier. It not only has the capability to threaten low-tier fighters and ground attack aircraft, but can even threaten armoured vehicles. Generally, the M2 should be saved for emergency situations against ground targets, as generally an HE or HEAT round is objectively more effective.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -157,7 +112,7 @@ Thanks to its HEAT shell, the M8 Scott's firepower can handle everything with ea
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-In general, the M8 Scott plays like a beefed-up M5A1. The massive increase in gun calibre and destructive potential means that enemies the light tank previously have difficulty destroying are now more easily dealt with. Like the M3/M5 Stuart, playing this tank aggressively will almost always guarantee a place on the leaderboard. Push for the cap and then take it without hesitation. Should an enemy get there first, enter the cap and flank the target. Get behind their turret and go for a shot to the turret rear. Once the capture point is held, find a good hull down position and use the 75 mm HEAT to destroy any and all oncoming tanks.
+In general, the M8 Scott plays like a beefed-up M5A1. The massive increase in gun calibre and destructive potential gives it more flexibility when engaging heavier armoured targets. Like the M3/M5 Stuart, playing this tank aggressively will almost always guarantee a place on the leaderboard. Push for the cap and then take it without hesitation. Should an enemy get there first, enter the cap and flank the target. Get behind their turret and go for a shot to the turret rear. Once the capture point is held, find a good hull down position and use the 75 mm HEAT to destroy any and all oncoming tanks.
 
 Against heavier armour, the need to find a good hidden position is critical. On certain tanks, the addition of track armour can give the M8 difficulty in penetrating them. Hence a good hull down position on their flank can provide a good position to hit their side armour, with almost certain destruction coming from it.
 
@@ -179,7 +134,7 @@ Tanks like the [[Pz.IV F2|Panzer IV F2]] and it's line of tanks can be a serious
 
 * Open-top turret exposes crew to overpressure and aircraft strafing fire
 * Thin armour and tight crew makes it very vulnerable to tank destroyers that have APHE shells, like the SU-76
-* Bad steering at high speeds
+* Poor steering at high speeds
 * Extremely slow turret traverse
 * Shells have low muzzle velocity and huge drop, hard for shooting long-range or moving targets
 
@@ -195,6 +150,7 @@ These vehicles would go on to serve in the Italian Campaign, European Campaign, 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_m8_scott Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -214,6 +170,7 @@ File:M8 HMC pilot at Aberdeen Proving Ground.jpg|<small>An M8 Howitzer Motor Car
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

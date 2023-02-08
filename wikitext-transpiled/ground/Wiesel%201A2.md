@@ -71,62 +71,7 @@ The modification acquisition order for the Wiesel differs from other tanks sever
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| TOW-2 || ATGM || 800 || 800 || 800 || 800 || 800 || 800
-|-
-| TOW-2A || ATGM (tandem) || 800 || 800 || 800 || 800 || 800 || 800
-|-
-| TOW-2B || ATGM&nbsp;(OTA) || 100 || 100 || 100 || 100 || 100 || 100
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="11" | Missile details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| TOW-2 || ATGM || 329 || 3,750 || 21.45 || 0.05 || 0.1 || 4,410 || 80° || 82° || 90°
-|-
-| TOW-2A || ATGM (tandem) || 329 || 3,750 || 22.63 || 0.4 || 0.1 || 4,510 || 80° || 82° || 90°
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="13" | Proximity-fused missile details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Arming distance<br>(m)
-! rowspan="2" | Trigger radius<br>(m)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| TOW-2B || ATGM&nbsp;(OTA) || 309 || 3,750 || 22.59 || 0.05 || 0.1 || 30 || 3 || 3,380 || 80° || 82° || 90°
-|-
-|}
+{{:BGM-71 TOW/Ammunition|TOW-2, TOW-2A, TOW-2B}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

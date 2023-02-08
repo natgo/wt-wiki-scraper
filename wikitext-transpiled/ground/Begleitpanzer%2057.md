@@ -68,64 +68,7 @@ As a light tank, the Begleitpanzer 57 carries great firepower and high mobility.
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 57x438 AP-T || APCBC || 137 || 133 || 119 || 103 || 89 || 77
-|-
-| 57x438 SAP-T || SAPHEI || 47 || 46 || 41 || 35 || 31 || 26
-|-
-| 57x438 HE-T || HE* || 11 || 11 || 11 || 11 || 11 || 11
-|-
-| 57x438 HE-VT || HE-VT* || 11 || 11 || 11 || 11 || 11 || 11
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 57x438 AP-T || APCBC || 950 || 2.7 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| 57x438 SAP-T || SAPHEI || 950 || 2.7 || 1.2 || 9 || 510 || 79° || 80° || 81°
-|-
-| 57x438 HE-T || HE* || 1,020 || 2.4 || 0 || 0.1 || 765 || 79° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="12" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Arming distance<br>(m)
-! rowspan="2" | Trigger radius<br>(m)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 57x438 HE-VT || HE-VT* || 1,020 || 2.4 || 0 || 0.1 || 500 || 6 || 765 || 79° || 80° || 81°
-|-
-|}
+{{:Bofors L/70 Mk.1 (57 mm)/Ammunition|57x438 AP-T, 57x438 SAP-T, 57x438 HE-T, 57x438 HE-VT}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -168,40 +111,8 @@ As a light tank, the Begleitpanzer 57 carries great firepower and high mobility.
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| TOW || ATGM || 430 || 430 || 430 || 430 || 430 || 430
-|-
-| I-TOW || ATGM || 630 || 630 || 630 || 630 || 630 || 630
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="11" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| TOW || ATGM || 299 || 3,000 || 18.82 || 0.05 || 0.1 || 3,210 || 80° || 82° || 90°
-|-
-| I-TOW || ATGM || 296 || 3,750 || 19.05 || 0.05 || 0.1 || 2,720 || 80° || 82° || 90°
-|-
-|}
+{{:BGM-71B TOW/Ammunition|TOW}}
+{{:BGM-71C I-TOW/Ammunition|I-TOW}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}_secondary.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

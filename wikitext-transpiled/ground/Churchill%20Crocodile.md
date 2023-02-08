@@ -41,7 +41,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British heavy tan
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-The Churchill Crocodile retains the same slow mobility as the [[Churchill Mk. VII]]. It has a low top speed and difficulty to turn and climb slopes. It won't be the first to the frontline, but that means it will be ideal for a support role.
+The Churchill Crocodile retains the same slow mobility as the [[Churchill VII]]. It has a low top speed and difficulty to turn and climb slopes. It won't be the first to the frontline, but that means it will be ideal for a support role.
 
 {{tankMobility}}
 
@@ -135,9 +135,10 @@ It should be noted that since this weapon is very unique, enemies will know a Ch
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
+[[File:Crocodile-flaming-over-obstacle.jpg|thumb|right|The flamethrower can be used to kill open-topped targets behind cover, by just spraying it over an obstacle until at least some of the flames land on the enemy]]
 The Churchill Crocodile is not too different from the [[Churchill VII]], being a modified version with a flamethrower weapon in the bow gunner position.
 
-The flamethrower is useful against open-topped vehicle, but otherwise the Churchill Crocodile's offensive capabilities remain the same as the Churchill VII with the 75 mm gun. Due to the 75 mm's low penetration and situational use of the flamethrower, it is recommended to work and rely on teammates to help destroy the enemy.
+The flamethrower is useful against open-topped vehicles, but otherwise the Churchill Crocodile's offensive capabilities remain the same as the Churchill VII with the 75 mm gun. Due to the 75 mm's low penetration and situational use of the flamethrower, it is recommended to work and rely on teammates to help destroy the enemy.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

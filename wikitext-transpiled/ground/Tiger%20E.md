@@ -91,51 +91,7 @@ Firepower-wise, the Tiger E gains the access to the new PzGr 40 APCR ammunition,
 * '''Hl.Gr. 39''': On paper the HEAT rounds don't bring anything new to the table, however they can be used as a substitute for the HE shells due to the greater explosive mass and still gives you a fighting chance if you get caught with your pants down.
 * '''Sprgr. L/4.5''': The HE shell is completely ineffective against all but SPAA or the AI artillery on the Kursk and Ash River maps, and the machine gun mounted on the Tiger has proven quite capable of dealing with these. Keep a small supply of this shell on hand if you plan to flank the enemy and take out their SPAA or artillery, but avoid them for everything else.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| PzGr 39 || APCBC || 165 || 162 || 151 || 139 || 127 || 117
-|-
-| PzGr 40 || APCR || 211 || 207 || 191 || 172 || 155 || 140
-|-
-| Pzgr. || APCBC || 153 || 151 || 140 || 128 || 116 || 106
-|-
-| Hl.Gr 39 || HEAT || 110 || 110 || 110 || 110 || 110 || 110
-|-
-| Sprgr. L/4.5 || HE || 11 || 11 || 11 || 11 || 11 || 11
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| PzGr 39 || APCBC || 773 || 10.2 || 1.2 || 14 || 108.8 || 48° || 63° || 71°
-|-
-| PzGr 40 || APCR || 930 || 7.3 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-| Pzgr. || APCBC || 810 || 9.5 || 1.2 || 14 || 285.6 || 48° || 63° || 71°
-|-
-| Hl.Gr 39 || HEAT || 600 || 7.64 || 0 || 0.3 || 1,100 || 62° || 69° || 73°
-|-
-| Sprgr. L/4.5 || HE || 820 || 9 || 0 || 0.1 || 698 || 79° || 80° || 81°
-|-
-|}
+{{:KwK36 (88 mm)/Ammunition|PzGr 39, PzGr 40, Pzgr., Hl.Gr 39, Sprgr. L/4.5}}
 
 ==== [[Ammo racks]] ====
 <!-- '''Last updated:''' -->

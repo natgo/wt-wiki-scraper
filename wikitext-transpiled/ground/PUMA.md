@@ -138,44 +138,7 @@ The PUMA will generally cruise at about 56 km/h. The reverse speed is very good 
 * '''PMC308:''' {{Annotation|Ahead|Shrapnel with time fuse}}
 * '''PMC287:''' {{Annotation|APFSDS|Armour-piercing fin-stabilized discarding sabot}}
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 87 || 86 || 81 || 75 || 70 || 65
-|-
-| MK266 || 3 || 3 || 3 || 3 || 3 || 3
-|-
-| PMC308 || 47 || 44 || 36 || 28 || 22 || 17
-|-
-| PMC287 || 121 || 119 || 111 || 97 || 93 || 83
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Belt details
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| MK266 || HEI-T* || 1,080 || 0.36 || 0 || 0.1 || 54.4 || 79° || 80° || 81°
-|-
-| PMC308 || Ahead || 1,100 || 0.36 || 0.2 || 1.5 || 0.8 || 79° || 80° || 81°
-|-
-| PMC287 || APFSDS || 1,405 || 0.1 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
+{{:MK 30-2/ABM (30 mm)/Ammunition|APDS, HEI-T*, Ahead, APFSDS}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->

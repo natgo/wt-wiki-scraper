@@ -16,7 +16,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} American light tank {{Battle-r
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-The armour on the M3A3 is significantly upgraded compared to its predecessor, with additional armour plates all around the vehicle. These armour plates make the M3A3 almost impervious to heavy machineguns such as the M2HB and the DShK. However, any weapon that is about 14.5 mm in diameter or larger (i.e. SPAA, [[Leopard 2K]], ...) still poses a significant threat. As such, it is better to avoid taking hits when possible.
+The armour on the M3A3 is significantly upgraded compared to its predecessor, with additional armour plates all around the vehicle. These armour plates make the M3A3 almost impervious to heavy machine guns such as the M2HB and the DShK. However, any weapon that is about 14.5 mm in diameter or larger (i.e. SPAA, [[Leopard 2K]], etc.) still poses a significant threat. As such, it is better to avoid taking hits when possible.
 
 Ammo is stored in large amounts throughout the tank, with 25 mm ammo containers lining the left side of the interior and additional BGM-71 ATGMs stowed on the right side. The loaded ammunition is stored just behind the turret crew, with a linked belt leading upwards into the breech. Penetrating hits that strike any of these ammunition stores have a high chance of setting the ammo off.
 
@@ -102,6 +102,8 @@ After those two are unlocked, the commander can pick whatever other modification
 * '''Default:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
 * '''M791:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
 * '''M919:''' {{Annotation|APFSDS|Armour-piercing fin-stabilized discarding sabot}}
+
+The belt of 25 mm APFSDS shells excels against lightly-armoured vehicles and has a more consistent performance against the sides of armoured enemy MBTs than the M3 Bradley's mixed APDS/HEI-T belt.
 
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="7" | Penetration statistics
@@ -243,7 +245,7 @@ After those two are unlocked, the commander can pick whatever other modification
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The proper role of the M3A3 in battles is as a support vehicle. Because the secondary missile launcher deploys only when the vehicle is at a slow speed, the gameplay should be slower and farther away from the frontlines of the battlefield. The TOW-2B modification should be used to its best use, allowing for the player to easily compromise enemy sniper positions using their top down effect. The vehicle's scouting ability should also be used on hard to hit or far-away targets. A secondary use for the vehicle is in more close-quarters maps as a flanker, because the 25 mm cannon can easily penetrate the sides and rear of enemy tanks. Regarding survivability, even though the M3A3 has add-on armor compared to its predecessor, the M3 Bradley still doesn't have enough armor to defend against nearly all threats. The vehicle should be treated as if it can be killed from anywhere, from any round, in any place.
+The proper role of the M3A3 in battles is as a support vehicle. Because the secondary missile launcher deploys only when the vehicle is at a slow speed, the gameplay should be slower and farther away from the frontlines of the battlefield. The TOW-2B modification should be used to its best use, allowing for the player to easily compromise enemy sniper positions using their top down effect. The vehicle's scouting ability should also be used on hard to hit or far-away targets. A secondary use for the vehicle is in more close-quarters maps as a flanker, because the 25 mm cannon can easily penetrate the sides and rear of enemy tanks. Regarding survivability, even though the M3A3 has add-on armour compared to its predecessor, the M3 Bradley still doesn't have enough armour to defend against nearly all threats. The vehicle should be treated as if it can be killed from anywhere, from any round, in any place.
 
 '''Stock grind'''
 
@@ -254,29 +256,30 @@ In terms of gameplay, a stock M3A3 is actually not as different from a spaded on
 
 '''Pros:'''
 
-* Access to a full belt of 25 mm APFSDS shells - excels against light vehicles and lightly armoured MBTs and higher consistent performance against (the sides of) armored enemy MBTs than the M3 Bradley's mixed APDS/HEI-T belts
+* Access to a full belt of 25 mm APFSDS shells - excels against light vehicles and lightly-armoured MBTs
 * Access to the fast travelling TOW-2B top-attack missile - capable of penetrating the weak top armour of enemy tanks, and targeting vehicles that are hiding behind cover
-* Access to excellent 2nd generation thermals for the gunner, commander, and even the driver
+* 2nd generation thermals for the gunner, commander, and even the driver allow for excellent spotting and scouting of targets along with the scout UAV
 * Elevated independent commander sight which allows TOW missiles to be fired and accurately guided from behind cover
 * Good mobility and respectable reverse speed of -13 km/h
-* Access to scouting ability
-* Can engage enemy aerial vehicles with the main gun due to +59° of gun elevation
+* Can engage enemy aerial vehicles with the main gun due to +59° of gun elevation and IRST with roughly 8 km range
+** Does not trigger enemy RWRs when locked on
 * -9° gun depression and a small turret mean you can effectively use hull down tactics
-* Laser rangefinder for the main gun
-* Great zoom of 4.0x - 12.0x and a good sight FOV of 18-6
-* The TOW-2B missiles, scouting mechanic and excellent thermals make the M3A3 very effective even at top tier
-* More armour than the original M3 Bradley, can absorb up to 30 mm APDS (as fired by, for example, the BMP-2) in some places at range
-* Quick turret traverse
+* Laser rangefinder for the main gun unlike the preceding [[M3 Bradley]]
+* Great zoom of 4.0x - 12.0x and a good sight FOV of 18°-6°
+* Can absorb up to 30 mm APDS (as fired by, for example, the BMP-2) in some places at range
+* Quick gun handling like its predecessor
 
 '''Cons:'''
 
-* Slightly less mobile and less acceleration than the preceding M3 Bradley, due to the increase in weight
+* Slightly less mobile and less acceleration than the preceding [[M3 Bradley]], due to the increase in weight
 * Continuously firing the main gun increases dispersion, thereby reducing accuracy
-* Main gun has a low rate of fire for an autocannon and overheats quickly under sustained fire
+* Low fire rate for the main gun makes it difficult to land hits on fast moving aircraft
+* Cannot reliably engage distant air targets due to lack of range
 * Cannot fire missiles while moving at a speed greater than 15 km/h
-* Missile launcher take some time to deploy
-* Cannot reliably engage enemy MBTs from the front with 25 mm APFSDS
-* Despite the increase in armour over the regular M3, the armour is still thin and the vehicle only has 3 crew members: this means low survivability
+* Missile launcher takes some time to deploy
+* TOW-2Bs are very inconsistent in terms of damage and can be stopped by ERA
+* Cannot reliably engage enemy MBTs from the front with 25 mm APFSDS rounds
+* Retains the rather poor survivability of its predecessor despite the increase in armour
 * Missiles can be detonated when hit by enemy fire, even while still in the launcher
 * Tall profile
 

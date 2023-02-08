@@ -87,23 +87,7 @@ The mobility of the GAZ-AAA (DShK) is mediocre at best. Similar to the preceding
 * '''AP:''' {{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}}{{-}}{{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}} - While the AP belt shares the same bullet types as the API and API-T belts, the bullet ratio of 2/3 {{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}} and 1/3 {{Annotation|API-T|Armour-piercing incendiary tracer}} is better suited to engage ground vehicles. That said the belt's {{Annotation|API-T|Armour-piercing incendiary tracer}} gives it enough flexibility to engage air targets.
 * '''API-T:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}} - The API-T belt on the other hand, while sharing the same bullet types as the API and AP belts, has an inverted bullet than that of AP: 2/3 {{Annotation|API-T|Armour-piercing incendiary tracer}} and 1/3 {{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}} - While such belt composition is better suited to engage air vehicles, the inclusion of {{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}} allows the player to easily defend themselves against enemy tanks.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 29 || 27 || 20 || 14 || 9 || 6
-|-
-| API || 34 || 32 || 24 || 17 || 12 || 8
-|-
-| AP || 34 || 32 || 24 || 17 || 12 || 8
-|-
-| API-T || 34 || 32 || 24 || 17 || 12 || 8
-|-
-|}
+{{:DShK (12.7 mm)/Ammunition|AP-I, T, IAI, API-T, AP-I(c)}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

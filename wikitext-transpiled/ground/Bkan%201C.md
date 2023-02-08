@@ -102,56 +102,7 @@ The HE-VT shell has very limited uses due to the muzzle velocity and ammunition 
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| sgr m/60 || HE || 58 || 58 || 58 || 58 || 58 || 58
-|-
-| zonar m/65 || HE-VT || 58 || 58 || 58 || 58 || 58 || 58
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| sgr m/60 || HE || 850 || 48 || 0 || 0.1 || 7,500 || 79° || 80° || 81°
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="12" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! rowspan="2" | Arming distance<br>(m)
-! rowspan="2" | Trigger radius<br>(m)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| zonar m/65 || HE-VT || 850 || 48 || 0 || 0 || 7,500 || 300 || 3 || 79° || 80° || 81°
-|-
-|}
+{{:kan m/60 (155 mm)/Ammunition|sgr m/60, zonar m/65}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->

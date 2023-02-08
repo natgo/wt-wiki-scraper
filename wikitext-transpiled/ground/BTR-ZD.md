@@ -80,42 +80,7 @@ The ZU-23 is perhaps one of the most famous AA autocannon in service, due to the
 * '''HEI-T:''' {{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}
 * '''API-T:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 51 || 48 || 36 || 26 || 18 || 13
-|-
-| HEI-T || 51 || 48 || 36 || 26 || 18 || 13
-|-
-| API-T || 51 || 48 || 36 || 26 || 18 || 13
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 23 mm HEF-I || HEF-I || 980 || 0.18 || 0 || 0.1 || 28.49 || 79° || 80° || 81°
-|-
-| 23 mm API-T || API-T || 970 || 0.19 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| 23 mm HEFI-T || HEFI-T || 970 || 0.19 || 0 || 0.1 || 20.02 || 79° || 80° || 81°
-|-
-|}
+{{:ZU-23 (23 mm)/Ammunition|HEF-I, API-T, HEFI-T}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

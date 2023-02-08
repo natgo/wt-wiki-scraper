@@ -160,7 +160,7 @@ The best practice for the Chi-He (and other WWII-era Japanese tanks) is to alway
 '''Cons:'''
 
 * Thin side armour means angling front armour could expose weak armour
-* 47 mm is not accurate in long distance fights
+* 47 mm gun is so inaccurate, to the point where it can barely be used past 500 meters.
 * Packed 5-men crew can lead to an easy knock out if penetrated
 * 50 mm front armour, poorly angled
 * Big ammo racks in the turret (carry only half-ammo load)
@@ -183,19 +183,23 @@ Despite its relatively early production life over late-war Japanese tanks and it
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_1_chi_he Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|4_cJ1CpEatw|'''Best gun depression'''  discusses the {{PAGENAME}} at 1:33 - ''War Thunder Official Channel''}}
 
 == See also ==
+
 ;[[Chi-He (Family)|Related Development]]
+
 * [[Chi-Ha (Family)]] - <small>(Predecessor)</small>
 ** [[Chi-Ha Kai]]
 * [[Ho-I]] - <small>(Gun tank variant)</small>
 * [[Ka-Chi]] - <small>(Amphibious variant)</small>
 
 ;Other vehicles of similar configuration and role
+
 * [[Panzer III (Family)]] - <small>(Early models)</small>
 * [[LT-38 (Family)]]
 * [[M15/42]]

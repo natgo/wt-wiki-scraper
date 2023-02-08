@@ -29,10 +29,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} American jet fighter {{Battle-
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 2,093 || 2,063 || rowspan="2" | {{Specs|ceiling}} || 20.3 || 20.6 || 252.7 || 240.2 || rowspan="2" | ___
+| 2,093 || 2,063 || rowspan="2" | {{Specs|ceiling}} || 20.3 || 20.6 || 252.7 || 240.2 || rowspan="2" | 850
 |-
 ! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+| 2,198 || 2,146 || 19.3 || 19.8 || 340.8 || 295.0
 |-
 |}
 
@@ -200,8 +200,8 @@ The MiG-29 at high altitude can be dangerous if the opponent utilizes [[R-27ER]]
 
 * Lacks any air-to-ground suspended ordnance whatsoever
 * Internal M61 cannon has a small ammo pool
-* Very poor manoeuvrability at higher speeds (above around 850km/h) due to 9G G limiter
-** Staying at these higher speeds is ideal for general combat, but greatly limits manoeuvring and dogfighting ability
+* Very poor manoeuvrability at higher speeds (above around 850km/h) due to angle of attack (AOA) limiter
+** Staying at these higher speeds is ideal for general air combat, but greatly limits manoeuvring and dogfighting ability
 ** At these speeds, poor nose pointing ability makes it troublesome to lock Sidewinders, get an ACM radar lock, or aim the gun
 ** Only by going below these speeds (thus getting slow) does ''any'' semblance of dogfighting ability whatsoever begin to be gained
 ** Acceleration can be "too good": Poor high speed manoeuvrability combined with excellent acceleration and energy retention means heavy down-throttling and air braking is practically required to drop below these speeds to dogfight
@@ -218,6 +218,7 @@ The first F-16 ADF was delivered to the Oregon Air National Guard in March 1989.
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f_16a_block_15_adf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -231,6 +232,7 @@ File:IFF F-16 ADF.png|<small>4-blade "bird slicer" antenna on the nose of the F-
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[F-16 (Family)]]
 
 == External links ==

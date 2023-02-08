@@ -32,7 +32,7 @@ However, the Marder makes up for most of these drawbacks with its high velocity,
 |-
 | Hull || 50 mm (19°) ''Front plate'' <br> 12 mm (74°) ''Front glacis'' <br> 50 mm (13°) ''Lower glacis'' || 16 mm ''Upper'' <br> 15 mm ''Lower'' || 15 mm || 12 mm
 |-
-| Turret || 11 + 8 mm (31°) || 11 mm (8-9°) || N/A || N/A
+| Turret || 11 + 8 mm (31°) || 11 mm (8-9°) || - || -
 |-
 |}
 [[File:Marder III gun and MG traverse angles.png|right|thumbnail|Gun and MG horizontal displacement of the Marder III|200px]]
@@ -75,7 +75,7 @@ Which modules to unlock first:
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 30 || rowspan="2" | -6°/+18° || rowspan="2" | ±10° || rowspan="2" | N/A || 10.6 || 14.6 || 17.8 || 19.6 || 20.9 || rowspan="2" | 7.80 || rowspan="2" | 6.90 || rowspan="2" | 6.36 || rowspan="2" | 6.00
+| rowspan="2" | 30 || rowspan="2" | -6°/+18° || rowspan="2" | ±10° || rowspan="2" | - || 10.6 || 14.6 || 17.8 || 19.6 || 20.9 || rowspan="2" | 6.50 || rowspan="2" | 5.75 || rowspan="2" | 5.30 || rowspan="2" | 5.00
 |-
 ! ''Realistic''
 | 7.1 || 8.4 || 10.2 || 11.3 || 12.0
@@ -83,47 +83,7 @@ Which modules to unlock first:
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| PzGr 39 rot || APCBC || 138 || 135 || 124 || 112 || 101 || 91
-|-
-| Hl.Gr 38C || HEAT || 100 || 100 || 100 || 100 || 100 || 100
-|-
-| PzGr 40 || APCR || 182 || 178 || 160 || 140 || 122 || 107
-|-
-| Sprgr. 39 || HE || 9 || 9 || 9 || 9 || 9 || 9
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| PzGr 39 rot || APCBC || 710 || 7.6 || 1.2 || 14 || 34 || 48° || 63° || 71°
-|-
-| Hl.Gr 38C || HEAT || 450 || 5.05 || 0 || 0.1 || 875.5 || 62° || 69° || 73°
-|-
-| PzGr 40 || APCR || 990 || 4.15 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-| Sprgr. 39 || HE || 550 || 6.25 || 0 || 0.1 || 585 || 79° || 80° || 81°
-|-
-|}
+{{:PaK36 (r) (76 mm)/Ammunition|PzGr 39 rot, Hl.Gr 38C, PzGr 40, Sprgr. 39}}
 
 ==== [[Ammo racks]] ====
 <!-- '''Last updated:''' -->

@@ -125,6 +125,9 @@ As the Sambad is an Air Supremacy fighter, performance and air-to-air missiles s
 The '''''{{PAGENAME}}''''' is armed with:
 
 * 2 x 30 mm DEFA 552 cannons, chin-mounted (150 rpg = 300 total)
+[[File:Sambad guns.PNG|thumb|300px|Arrangement of 30 mm  DEFAs on Sambad]]
+
+The Sambad is equipped with 2 x DEFA 552 30 mm cannons mounted on the underside of the nose; 150 rounds per gun giving a trigger time of 7.5 seconds. The DEFAs will be familiar to Israeli pilots, as every rank 6 Israeli jet uses the 30 mm DEFA. The cannons have good fire rate, great damage but a relatively low muzzle velocity at 810 m/s. Pilots should expect to require plenty of lead, but the good damage and great ammo capacity for a cannon will serve well once well practiced.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}

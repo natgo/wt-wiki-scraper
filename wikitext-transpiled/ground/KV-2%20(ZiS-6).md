@@ -93,39 +93,7 @@ The ammunition choice is limited but sufficient:
 * '''B-420''': APHEBC - A capped armour-piercing shell with a ballistic cap that has relatively high penetration power and explosive filler. It will destroy any armoured target it penetrates.
 * '''OF-420''': HE; useful for destroying open and lightly armoured vehicles.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| B-420 || APHEBC || 163 || 161 || 150 || 138 || 127 || 117
-|-
-| OF-420 || HE || 27 || 27 || 27 || 27 || 27 || 27
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| B-420 || APHEBC || 830 || 16.6 || 1.2 || 19 || 440 || 48° || 63° || 71°
-|-
-| OF-420 || HE || 720 || 17.2 || 0 || 0.1 || 2,150 || 79° || 80° || 81°
-|-
-|}
+{{:ZIS-6 (107 mm)/Ammunition|B-420, OF-420}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

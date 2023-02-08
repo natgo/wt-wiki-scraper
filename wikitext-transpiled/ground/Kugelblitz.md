@@ -72,23 +72,7 @@ The Kugelblitz has a comparatively low gun traverse speed when not upgraded, so 
 * '''Pz.Gr.:''' {{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|HEI-T|High-explosive incendiary tracer (minengeschoß)}}
 * '''Pz.Gr. H:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEI-T|High-explosive incendiary tracer (minengeschoß)}}{{-}}{{Annotation|HEI-T|High-explosive incendiary tracer (minengeschoß)}}
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 58 || 55 || 44 || 33 || 25 || 19
-|-
-| M.Gr. || 58 || 55 || 44 || 33 || 25 || 19
-|-
-| Pz.Gr. || 58 || 55 || 44 || 33 || 25 || 19
-|-
-| Pz.Gr. H || 77 || 74 || 61 || 47 || 37 || 29
-|-
-|}
+{{:MK103/38 (30 mm)/Ammunition|HEI-T, AP-I, HVAP-T}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

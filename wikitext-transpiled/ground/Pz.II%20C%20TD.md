@@ -75,40 +75,7 @@ The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]
 * '''PzGr.:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}
 * '''PzGr.40:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 37 || 34 || 23 || 14 || 9 || 6
-|-
-| PzGr || 37 || 34 || 23 || 14 || 9 || 6
-|-
-| PzGr 40 || 48 || 45 || 31 || 20 || 13 || 8
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Belt details
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| PzGr || API-T || 800 || 0.15 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| PzGr 40 || HVAP-T || 1,050 || 0.1 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-|}
+{{:KwK30 (20 mm)/Ammunition|HEFI-T*, API-T, HVAP-T}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Pz.II_C.png|right|thumb|x250px|[[Ammo racks]] of the Pz.II C (identical).]]

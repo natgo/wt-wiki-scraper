@@ -52,8 +52,6 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German SPAA {{Battle-rating}}.
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|Oerlikon KDA (35 mm)}}
 
-''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.''
-
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! colspan="6" | [[Oerlikon KDA (35 mm)|35 mm Oerlikon KDA]] (x2) || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
@@ -77,44 +75,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German SPAA {{Battle-rating}}.
 * '''DM13:''' {{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}{{-}}{{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}{{-}}{{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
 * '''DM23:''' {{Annotation|APDS|Armour-piercing discarding sabot}}
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 68 || 66 || 57 || 47 || 39 || 32
-|-
-| DM11A1 || 68 || 66 || 57 || 47 || 39 || 32
-|-
-| DM13 || 68 || 66 || 57 || 47 || 39 || 32
-|-
-| DM23 || 127 || 125 || 118 || 110 || 102 || 95
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 35 mm HEI-T || HEI-T* || 1,175 || 0.55 || 0 || 0.1 || 204 || 79° || 80° || 81°
-|-
-| 35 mm API-T || API-T || 1,175 || 0.55 || 1.2 || 9 || 37.4 || 47° || 60° || 65°
-|-
-| 35 mm APDS || APDS || 1,400 || 0.38 || N/A || N/A || N/A || 75° || 78° || 80°
-|-
-|}
+{{:Oerlikon KDA (35 mm)/Ammunition|HEI-T*, API-T*, APDS}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Gepard.png|right|thumb|x250px|[[Ammo racks]] of the Gepard (identical)]]
@@ -152,28 +113,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German SPAA {{Battle-rating}}.
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="12" | Missile details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Trigger radius<br>(m)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| FIM-92E || SAM || 680 || 5,000 || 10.1 || 1 || 0.1 || N/A || 540 || 79° || 80° || 81°
-|-
-| FIM-92K || SAM || 680 || 5,000 || 10.1 || 1 || 0.1 || 1 || 540 || 79° || 80° || 81°
-|-
-|}
-The FIM-92E detonates on impact while the FIM-92K has a proximity fuse.
+{{:Fliegerfaust 2 Stinger/Ammunition|FIM-92E, FIM-92K}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
@@ -204,7 +144,7 @@ Capturing points is also an option thanks to the good mobility of the vehicle, a
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
-'''Pros:''' 
+'''Pros:'''
 
 * Has 4 IR-guided anti-air missiles mounted on the sides of the turret
 * Missiles can be fired on the move

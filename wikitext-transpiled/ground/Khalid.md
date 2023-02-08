@@ -74,11 +74,11 @@ To conclude, Khalid has rather obsolete firepower for its tier; but aiming caref
 |}
 
 ==== Ammunition ====
-'''L15A3; APDS'''- The most common round for British 120 mm for pre-Challenger tanks and the only kinetic shell option for Khalid. Although it is more than enough to take down most tanks which happen to run into Khalid, but at its current BR where T-64A and T-72A appear, the shell very likely does nothing to them without hitting the LFP or driver's hatch. So aim carefully for a single-shot knock-out as the APDS has lesser spalling.
+* '''L15A3; APDS''' - The most common round for British 120 mm for pre-Challenger tanks and the only kinetic shell option for Khalid. Although it is more than enough to take down most tanks which happen to run into Khalid, but at its current BR where T-64A and T-72A appear, the shell very likely does nothing to them without hitting the LFP or driver's hatch. So aim carefully for a single-shot knock-out as the APDS has lesser spalling.
+* '''L31A7; HESH''' - The other common round for British 120 mm up to this date, the shell itself has rather high penetration for a HESH shell and will very likely disintegrate any light vehicle that happen to run into Khalid. Alternatively, this also gives Khalid the chance to take down tanks with their hatches exposed as the shell "sticks" to the surface and cause extensive damage to the interior of enemy tanks, either from spalling or overpressure.
+* '''L23; APFSDS'''
 
-'''L31A7; HESH'''- The other common round for British 120 mm up to this date, the shell itself has rather high penetration for a HESH shell and will very likely disintegrate any light vehicle that happen to run into Khalid. Alternatively, this also gives Khalid the chance to take down tanks with their hatches exposed as the shell "sticks" to the surface and cause extensive damage to the interior of enemy tanks, either from spalling or overpressure.
-
-{{:Ordnance BL Tk. L11 (120 mm)/Ammunition|Shot L15A3, L34, Shell L31A7}}
+{{:Ordnance BL Tk. L11 (120 mm)/Ammunition|Shot L15A3, L34, Shell L31A7, Shot L23}}
 
 Although smoke grenade launchers equip the Khalid to lay a protective smoke screen, there is still an option for gun-launched smoke shells to block enemy's eyesight and sometimes TVD cameras in case for a retreat or changing position.
 
@@ -140,13 +140,13 @@ A common feature for British tanks are their lack of high-calibre machine guns, 
 * High gun depression for the main cannon
 * Access to a panoramic periscope for commander with override capabilities
 * The hull and cast turret's shape can sometimes bounce off incoming shots
+* Good APFSDS round with high penetration
 
 '''Cons:'''
 
 * Lacks any form of composite armour to negate HEAT shells
 * Relatively obsolete protection at its BR
 * Fixed 8x gunsight that could be a problem at long-range engagements
-* No APFSDS shot for its main cannon
 * Rather large size at its tier
 * Relatively slow gun traverse speed
 
@@ -160,6 +160,7 @@ However, the Islamic Revolution put an end to the project, and the parts from th
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_khalid Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -168,7 +169,6 @@ However, the Islamic Revolution put an end to the project, and the parts from th
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
 * [[Chieftain (Family)]]
 
 == External links ==
@@ -177,6 +177,9 @@ However, the Islamic Revolution put an end to the project, and the parts from th
 * ''other literature.'' -->
 
 * [[wt:en/news/8016-development-khalid-the-sword-from-the-desert-en|[Devblog] Khalid: The Sword from the Desert]]
+
+=== References ===
+<references />
 
 {{Britain medium tanks}}
 {{Britain premium ground vehicles}}

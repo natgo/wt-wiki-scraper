@@ -66,47 +66,11 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German medium tan
 
 ==== Ammunition ====
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| DM13 || APDS || 303 || 302 || 296 || 277 || 257 || 252
-|-
-| DM512 || HESH || 127 || 127 || 127 || 127 || 127 || 127
-|-
-| DM12 || HEATFS || 400 || 400 || 400 || 400 || 400 || 400
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| DM13 || APDS || 1,478 || 4 || N/A || N/A || N/A || 75° || 78° || 80°
-|-
-| DM512 || HESH || 732 || 11.2 || 0.1 || 4 || 4,310 || 73° || 77° || 80°
-|-
-| DM12 || HEATFS || 1,174 || 10.5 || 0.05 || 0.1 || 1,270 || 65° || 72° || 77°
-|-
-|}
-
 * '''DM13; APDS''' (Armour-Piercing Discarding Sabot) will comfortably penetrate the armour of most foes; be aware however that some vehicles such as the IS-4 or M103 are only vulnerable in specific weak spots. APDS rounds do require some finesse with their placement due to their lack of explosive filler. Unless you're confident you can destroy the enemy before they can respond, you should attempt to disable their weaponry first to ensure your own safety. Against targets with known ammunition storage, it's possible to try to detonate it with a well-placed shot. Keep in mind, however, that ammo detonations always occur with a random chance, so taking out crew members is a more reliable method to destroy your enemies. This, of course, requires knowledge about the vehicles you may face - so be sure to use the game's X-Ray view in the hangar and analyse your potential foes for their weak spots! Also, keep in mind that with increased armour thickness, the amount of shrapnel shrinks.
 * '''DM512; HESH''' (High-Explosive Squash-Head) works very differently than other shell types. It ignores any angle, except for ricochet and deals damage by metal-flakes which are blown off inside the armour by the exterior explosion. To create this deadly shrapnel inside the tank, make sure to only hit armour plates which are directly adjacent to the interior crew compartment of the tank. Hitting exterior parts of a tank like spaced armour, the suspension, tracks etc. will not harm crew members/modules at all. Unfortunately, HESH is particularly ineffective against particularly high true armour values (as opposed to high 'effective' armour values sourced from highly angled but thin armour - HESH loves angles!). Like all high-explosive shells, the fuse is very sensitive and can be set-off by most objects e.g. fences, trees, shrubbery. The low muzzle velocity of this shell can make it quite hard to hit targets at larger distances, although an experienced tanker may be able to use this to their advantage by lobbing a round over a small defilade or hill. It's also worth noting that HESH can be rather unreliable at times; it's best used as a fall-back ammo, or saved for particularly lightly armoured targets.
 * '''DM12; HEATFS''' (High-Explosive Anti Tank Fin-Stabilised): Knowledge of potential opponents vehicle layouts can be very handy - as you now have a round at your disposal that can penetrate essentially any vehicle's armour frontally. Like the APDS shot, increased armour thickness results in a reduced amount of shrapnel after penetration. You are able to take out enemies on any distance since the HEAT round does not lose penetration effectiveness with distance - very handy on big scaled maps like Kursk. There is, however, a significant downside to HEATFS. Given that it is a chemical energy round, its fuse is highly sensitive in regards to its practical application in battle. As a result, virtually anything, such as trees or even a fence, will set it off prematurely, so you cannot fire through obstructions with this kind of round. It's often a good idea to clear bushes and fences with your machine guns quickly before taking a shot. Finally, the HEATFS round is relatively expensive in terms of SL, so keep that in mind when loading up.
+
+{{:L7A3 (105 mm)/Ammunition|DM13, DM512, DM12}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
@@ -149,17 +113,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German medium tan
 
 * '''Default:''' {{Annotation|SAP-I|Semi-armour-piercing incendiary}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
 
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 53 || 50 || 39 || 29 || 21 || 16
-|-
-|}
+{{:HSS 831L (30 mm)/Ammunition|SAP-I, HEI-T*}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->

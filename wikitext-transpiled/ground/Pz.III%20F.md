@@ -80,39 +80,7 @@ In the game, Ausf. F modification differs from its predecessor - Pz.III E - most
 *'''PzGr 39''' - Armour Piercing Capped shell - This is the main ammo type, use it whenever it has enough penetration to penetrate the target. It deals the most damage, because of its explosive filler. On this tank, most of the time it is not necessary to use any other type of ammo.
 *'''PzGr 40''' - Armour Piercing Composite Rigid shell - This type of ammo should be used if the gun is having trouble penetrating the opponent, or trying to hit a fast-moving tank at some distance. However, its damaging potential is much lower, because it has no explosive filler to further enhance damage after the penetration. It is also much lighter than Gr 39, so it loses penetration faster over distance. It is also notable that it does not ricochet so easily from highly sloped armour.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| PzGr 39 || APC || 80 || 76 || 62 || 48 || 38 || 29
-|-
-| PzGr 40 || APCR || 116 || 107 || 74 || 47 || 30 || 19
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| PzGr 39 || APC || 685 || 2.05 || 1.2 || 9 || 28.9 || 48° || 63° || 71°
-|-
-| PzGr 40 || APCR || 1,050 || 0.9 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-|}
+{{:KwK L/42 (50 mm)/Ammunition|PzGr 39, PzGr 40}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Pz.IIIF.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

@@ -2209,7 +2209,7 @@
       hurt.
     </li>
     <li>
-      <b>BR-281:</b>
+      <b>BR-281SP:</b>
       <span
         title="Armour-piercing capped ballistic capped"
         style="border-bottom: 1px dotted; cursor: help; white-space: nowrap"
@@ -2217,9 +2217,7 @@
       >
       - For use against ground vehicles. With around 150 mm of penetration at point blank, this belt
       can go through side armour and take out lightly armoured targets. Actual MBTs can typically
-      resist it from the front. It does not contain much explosive filler per round, but since the
-      WZ305 has two cannons (each with a clip of 4 rounds) multiple penetrations have a high chance
-      of knocking out the target.
+      resist it from the front.
     </li>
     <li>
       <b>OR-281U:</b>
@@ -2237,33 +2235,32 @@
         title="Armour-piercing capped ballistic capped"
         style="border-bottom: 1px dotted; cursor: help; white-space: nowrap"
         >APCBC</span
-      ><span style="font-weight: bold">&#160;·</span>&#32;<span
-        title="High-explosive fragmentation (self-destroying)"
-        style="border-bottom: 1px dotted; cursor: help; white-space: nowrap"
-        >HE*</span
       >
-      - For use against ground vehicles. A solid shot projectile, it currently has the same
-      penetration as the ordinary BR-281 APCBC and there is thus no real reason to use it.
+      - For use against ground vehicles. While the shells have the same penetration values as the
+      BR-281SP belt, they also contain a small amount of explosive filler, making their use slightly
+      more efficient against ground vehicles.
     </li>
     <li>
       <b>DKY-1:</b>
       <span
-        title="High-explosive variable time fuze (self-destroying)"
+        title="High-explosive variable time fuse (self-destroying)"
         style="border-bottom: 1px dotted; cursor: help; white-space: nowrap"
         >HE-VT*</span
       >
       - For use against planes. The huge explosive mass will blow most aircraft out of the sky with
-      a fairly close hit, 15 m trigger radius means that one can be much more lenient with aiming.
-      However, the proximity fuse requires 500 m of arming distance and within this distance it acts
-      only like a powerful HE round.
+      a fairly close hit, while the 6 m trigger radius means that one can be much more lenient with
+      aiming. However, the proximity fuse requires 500 m of arming distance and within this distance
+      it acts only like a powerful HE round.
     </li>
   </ul>
+  <p></p>
   <table class="wikitable sortable" style="text-align: center" width="100%">
     <tr>
-      <th colspan="7">Penetration statistics</th>
+      <th colspan="8">Penetration statistics</th>
     </tr>
     <tr>
-      <th rowspan="2" data-sort-type="text">Belt</th>
+      <th rowspan="2" data-sort-type="text">Ammunition</th>
+      <th rowspan="2">Type of<br />warhead</th>
       <th colspan="6">Penetration @ 0° Angle of Attack (mm)</th>
     </tr>
     <tr>
@@ -2275,16 +2272,8 @@
       <th>2,000 m</th>
     </tr>
     <tr>
-      <td>Default</td>
-      <td>151</td>
-      <td>147</td>
-      <td>132</td>
-      <td>114</td>
-      <td>100</td>
-      <td>87</td>
-    </tr>
-    <tr>
-      <td>BR-281</td>
+      <td>BR-281SP</td>
+      <td>APCBC</td>
       <td>151</td>
       <td>147</td>
       <td>132</td>
@@ -2294,6 +2283,7 @@
     </tr>
     <tr>
       <td>OR-281U</td>
+      <td>HE*</td>
       <td>5</td>
       <td>5</td>
       <td>5</td>
@@ -2303,6 +2293,7 @@
     </tr>
     <tr>
       <td>BR-281U</td>
+      <td>APCBC</td>
       <td>151</td>
       <td>147</td>
       <td>132</td>
@@ -2312,6 +2303,7 @@
     </tr>
     <tr>
       <td>DKY-1</td>
+      <td>HE-VT*</td>
       <td>8</td>
       <td>8</td>
       <td>8</td>
@@ -2322,16 +2314,16 @@
   </table>
   <table class="wikitable sortable" style="text-align: center" width="100%">
     <tr>
-      <th colspan="10">Belt details</th>
+      <th colspan="13">Shell details</th>
     </tr>
     <tr>
-      <th rowspan="2" data-sort-type="text">Belt</th>
+      <th rowspan="2" data-sort-type="text">Ammunition</th>
       <th rowspan="2">Type of<br />warhead</th>
       <th rowspan="2">Velocity<br />(m/s)</th>
-      <th rowspan="2">Projectile<br />Mass (kg)</th>
+      <th rowspan="2">Projectile<br />mass (kg)</th>
       <th rowspan="2">Fuse delay<br />(m)</th>
       <th rowspan="2">Fuse sensitivity<br />(mm)</th>
-      <th rowspan="2">Explosive Mass<br />(TNT equivalent) (g)</th>
+      <th rowspan="2">Explosive mass<br />(TNT equivalent) (g)</th>
       <th colspan="3">Ricochet</th>
     </tr>
     <tr>
@@ -2340,13 +2332,13 @@
       <th>100%</th>
     </tr>
     <tr>
-      <td>BR-281</td>
+      <td>BR-281SP</td>
       <td>APCBC</td>
       <td>1,000</td>
       <td>2.8</td>
-      <td>1.2</td>
-      <td>9</td>
-      <td>20.02</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
       <td>48°</td>
       <td>63°</td>
       <td>71°</td>
@@ -2363,21 +2355,33 @@
       <td>80°</td>
       <td>81°</td>
     </tr>
-  </table>
-  <table class="wikitable sortable" style="text-align: center" width="100%">
     <tr>
-      <th colspan="12">Shell details</th>
+      <td>BR-281U</td>
+      <td>APCBC</td>
+      <td>1,000</td>
+      <td>2.8</td>
+      <td>1.2</td>
+      <td>9</td>
+      <td>20.02</td>
+      <td>48°</td>
+      <td>63°</td>
+      <td>71°</td>
+    </tr>
+  </table>
+  <table class="wikitable" style="text-align: center" width="100%">
+    <tr>
+      <th colspan="13">Proximity-fused shell details</th>
     </tr>
     <tr>
       <th rowspan="2" data-sort-type="text">Ammunition</th>
       <th rowspan="2">Type of<br />warhead</th>
       <th rowspan="2">Velocity<br />(m/s)</th>
-      <th rowspan="2">Projectile<br />Mass (kg)</th>
+      <th rowspan="2">Projectile<br />mass (kg)</th>
       <th rowspan="2">Fuse delay<br />(m)</th>
       <th rowspan="2">Fuse sensitivity<br />(mm)</th>
-      <th rowspan="2">Explosive Mass<br />(TNT equivalent) (g)</th>
-      <th rowspan="2">Arming distance<br />(m)</th>
-      <th rowspan="2">Trigger radius<br />(m)</th>
+      <th rowspan="2">Arming<br />distance (m)</th>
+      <th rowspan="2">Trigger<br />radius (m)</th>
+      <th rowspan="2">Explosive mass<br />(TNT equivalent) (g)</th>
       <th colspan="3">Ricochet</th>
     </tr>
     <tr>
@@ -2392,9 +2396,9 @@
       <td>2.8</td>
       <td>0</td>
       <td>0.1</td>
-      <td>446.6</td>
       <td>500</td>
       <td>6</td>
+      <td>446.6</td>
       <td>79°</td>
       <td>80°</td>
       <td>81°</td>

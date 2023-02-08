@@ -115,73 +115,7 @@ The most important feature that makes a tank is the cannon. In this department, 
 For targeting, the option to equip an incredibly accurate laser range finder is available. Additionally, the 7.62 mm machine gun mounted in the turret can be used for range finding as well. Because of the elevated engine deck, gun depression is decreased significantly when firing or aiming the gun over the rear of the tank. 
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| XM578E1 || APFSDS || 346 || 343 || 334 || 323 || 311 || 300
-|-
-| M409A1 || HEAT || 380 || 380 || 380 || 380 || 380 || 380
-|-
-| MGM-51C || ATGM || 431 || 431 || 431 || 431 || 431 || 431
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| XM578E1 || APFSDS || 1,478 || 3.7 || N/A || N/A || N/A || 76° || 77° || 80°
-|-
-| M409A1 || HEAT || 754 || 18.9 || 0.05 || 0.1 || 3,730 || 62° || 69° || 73°
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="11" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| MGM-51C || ATGM || 286 || 3,200 || 27.8 || 0 || 0.1 || 3,600 || 80° || 82° || 90°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| XM410E1 || 754 || 18.9 || 25 || 5 || 30 || 50
-|-
-|}
+{{:XM150E5 (152 mm)/Ammunition|XM578E1, M409A1, XM410E1, MGM-51C}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

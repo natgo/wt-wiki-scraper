@@ -79,43 +79,7 @@ The Sturer Emil platform also provides the gun with an excellent gun depression 
 ==== Ammunition ====
 With a fuse sensitivity of 19 mm, the APCBC shell may pass through very light opponents without detonating.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| PzGr || APC || 233 || 230 || 219 || 205 || 193 || 181
-|-
-| Sprgr. L/5 || HE || 37 || 37 || 37 || 37 || 37 || 37
-|-
-| PzGr 43 || APCBC || 248 || 245 || 234 || 220 || 207 || 195
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| PzGr || APC || 880 || 26.35 || 1.2 || 19 || 786.5 || 48° || 63° || 71°
-|-
-| Sprgr. L/5 || HE || 880 || 28 || 0 || 0.1 || 3,700 || 79° || 80° || 81°
-|-
-| PzGr 43 || APCBC || 880 || 28.3 || 1.2 || 19 || 786.5 || 48° || 63° || 71°
-|-
-|}
+{{:K.40 (128 mm)/Ammunition|PzGr, Sprgr. L/5, PzGr 43}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

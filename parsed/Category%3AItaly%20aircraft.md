@@ -104,6 +104,7 @@
 {{Tree-Unit|ro_57_quadriarma}}
 {{Tree-Skip}}
 {{Tree-Unit|mc-202_d}}
+{{Tree-Skip}}
 
 {{Tree-Line|III Rank}}
 |
@@ -138,6 +139,7 @@
 {{Tree-Unit|bf_110g_4_hungary}}
 {{Tree-Skip}}
 |
+{{Tree-Unit|bf-109f-4_hungary}}
 
 {{Tree-Line|IV Rank}}
 |

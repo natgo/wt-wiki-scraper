@@ -8,7 +8,7 @@
 }}
 {{Specs-Card
 |code=ussr_bmp_1
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|GarageImage_BMP-1P.jpg}}
 }}
 
 == Description ==
@@ -51,7 +51,6 @@ Where possible, BMP should utilise hills or other cover, only exposing as much o
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=465|rbMinHp=265}}
-[[File:GarageImage_BMP-1P.jpg|420px|thumb|right|The BMP-1P with the 9M113 missile equipped.]]
 
 The {{PAGENAME}}'s mobility in RB is reasonably good, although somewhat lacking relative to other IFVs. Despite that, once it gets moving it can travel at a decent pace.
 
@@ -96,39 +95,7 @@ At least some care should be taken when firing the HEAT round as it has relative
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| PG-9 || HEAT || 300 || 300 || 300 || 300 || 300 || 300
-|-
-| OG-9 || HE || 11 || 11 || 11 || 11 || 11 || 11
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| PG-9 || HEAT || 665 || 2.6 || 0 || 0.01 || 1,130 || 65° || 72° || 77°
-|-
-| OG-9 || HE || 290 || 3.7 || 0 || 0.1 || 735 || 79° || 80° || 81°
-|-
-|}
+{{:2A28 (73 mm)/Ammunition|PG-9, OG-9}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -198,39 +165,8 @@ Be aware, that the new missile launcher is put above the top of a turret and is 
 Note: The vertical and horizontal traverse depend on the turret position and are only relevant to the 9M113 ATGM.
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 9M14 || ATGM || 400 || 400 || 400 || 400 || 400 || 400
-|-
-| 9M113 || ATGM || 500 || 500 || 500 || 500 || 500 || 500
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 9M14 || ATGM || 140 || 10.9 || 0.05 || 0.1 || 4,000 || 80° || 82° || 90°
-|-
-| 9M113 || ATGM || 248 || 14.5 || 0.05 || 0.1 || 4,230 || 80° || 82° || 90°
-|-
-|}
+{{:9M14/Ammunition|9M14}}
+{{:9M113 Konkurs/Ammunition|9M113}}
 
 ==== [[Ammo racks]] ====
 {| class="wikitable" style="text-align:center"

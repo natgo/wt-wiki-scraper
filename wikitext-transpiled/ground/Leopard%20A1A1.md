@@ -90,49 +90,9 @@ The Leopard A1A1 mounts a late-generation L7 cannon. With the addition of a two-
 
 * '''DM12; HEATFS''' - (High-Explosive Anti Tank Fin Stabilized): Knowledge of potential opponents vehicle layouts will be very handy to use - as you now have a round at your disposal that can penetrate any vehicle's armour frontally. Like the APDS shot, increased armour thickness results in reduced amount of spalling (shrapnel) after penetration. You are able to take out enemies on any distance, since the HEAT round does not lose penetration with distance travelled - very handy on large maps like Kursk. Unlike APDS it has one downside: given that it is a chemical round, its fuse is highly sensitive in regards to its practical application in battle. As a result, virtually anything, such as trees or even a fence, will set it off prematurely, so you cannot fire through obstructions with this kind of round.
 
-* '''DM 23; APFSDS''' - (Armour-Piercing Fin-Stabilized Discarding Sabot) is the best ammunition choice for the battle rating. It has great muzzle velocity and can penetrate almost every opponent frontally with ease, with the [[T-64B]] and [[IS-7]] being the exceptions.
+* '''DM23; APFSDS''' - (Armour-Piercing Fin-Stabilized Discarding Sabot) is the best ammunition choice for the battle rating. It has great muzzle velocity and can penetrate almost every opponent frontally with ease, with the [[T-64B]] and [[IS-7]] being the exceptions.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| DM13 || APDS || 303 || 302 || 296 || 277 || 257 || 252
-|-
-| DM512 || HESH || 127 || 127 || 127 || 127 || 127 || 127
-|-
-| DM12 || HEATFS || 400 || 400 || 400 || 400 || 400 || 400
-|-
-| DM23 || APFSDS || 337 || 335 || 330 || 322 || 314 || 306
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| DM13 || APDS || 1,478 || 4 || N/A || N/A || N/A || 75° || 78° || 80°
-|-
-| DM512 || HESH || 732 || 11.2 || 0.1 || 4 || 4,310 || 73° || 77° || 80°
-|-
-| DM12 || HEATFS || 1,174 || 10.5 || 0.05 || 0.1 || 1,270 || 65° || 72° || 77°
-|-
-| DM23 || APFSDS || 1,455 || 4.2 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
+{{:L7A3 (105 mm)/Ammunition|DM13, DM512, DM12, DM23}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Leopard_I.png|right|thumb|x250px|[[Ammo racks]] of the [[Leopard I]] (identical)]]

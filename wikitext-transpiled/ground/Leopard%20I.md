@@ -88,43 +88,7 @@ The mobility is between the [[XM-1 (GM)]] and the [[T-55AM-1]]. Expect a speed o
 
 '''DM12; HEATFS''' (High-Explosive Anti Tank Fin-Stabilised): Knowledge of potential opponents vehicle layouts can be very handy - as you now have a round at your disposal that can penetrate essentially any vehicle's armour frontally. Like the APDS shot, increased armour thickness results in a reduced amount of shrapnel after penetration. You are able to take out enemies on any distance since the HEAT round does not lose penetration effectiveness with distance - very handy on big scaled maps like Kursk. There is, however, a significant downside to HEATFS: Given that it is a chemical energy round, its fuse is highly sensitive in regards to its practical application in battle. As a result, virtually anything, such as trees or even a fence, will set it off prematurely, so you cannot fire through obstructions with this kind of round. It's often a good idea to clear bushes and fences with your machine guns quickly before taking a shot. Finally, the HEATFS round is relatively expensive in terms of SL, so keep that in mind when loading up.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| DM13 || APDS || 303 || 302 || 296 || 277 || 257 || 252
-|-
-| DM512 || HESH || 127 || 127 || 127 || 127 || 127 || 127
-|-
-| DM12 || HEATFS || 400 || 400 || 400 || 400 || 400 || 400
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| DM13 || APDS || 1,478 || 4 || N/A || N/A || N/A || 75° || 78° || 80°
-|-
-| DM512 || HESH || 732 || 11.2 || 0.1 || 4 || 4,310 || 73° || 77° || 80°
-|-
-| DM12 || HEATFS || 1,174 || 10.5 || 0.05 || 0.1 || 1,270 || 65° || 72° || 77°
-|-
-|}
+{{:L7A3 (105 mm)/Ammunition|DM13, DM512, DM12}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

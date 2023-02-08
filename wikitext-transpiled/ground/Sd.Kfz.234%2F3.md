@@ -85,61 +85,7 @@ The available ammunition offers a wide range of shells to engage all types of ta
 * '''Sprgr. 34''': HE; useful for destroying open and lightly armoured vehicles.
 * '''K.Gr.Rot Nb.''': Smoke; useful to blind enemy vehicles that are too remote for you to disable so that you can progress towards objectives.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| K.Gr.rot Pz. || APCBC || 52 || 50 || 45 || 39 || 34 || 30
-|-
-| Hl.Gr 38B || HEAT || 80 || 80 || 80 || 80 || 80 || 80
-|-
-| Hl.Gr 38C || HEAT || 100 || 100 || 100 || 100 || 100 || 100
-|-
-| Sprgr. 34 || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| K.Gr.rot Pz. || APCBC || 385 || 6.78 || 1.2 || 14 || 102.4 || 48° || 63° || 71°
-|-
-| Hl.Gr 38B || HEAT || 450 || 4.57 || 0.05 || 0.1 || 872.1 || 62° || 69° || 73°
-|-
-| Hl.Gr 38C || HEAT || 450 || 4.8 || 0.05 || 0.1 || 875.5 || 62° || 69° || 73°
-|-
-| Sprgr. 34 || HE || 420 || 5.74 || 0 || 0.1 || 686 || 79° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive mass<br>(TNT equivalent) (g)
-|-
-| K.Gr.Rot Nb. || 423 || 6.2 || 13 || 5 || 20 || 50
-|-
-|}
+{{:K51 L/24 (75 mm)/Ammunition|K.Gr.rot Pz., Hl.Gr 38B, Hl.Gr 38C, Sprgr. 34, K.Gr.Rot Nb.}}
 
 ==== [[Ammo racks]] ====
 <!-- '''Last updated:''' -->

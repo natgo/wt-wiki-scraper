@@ -84,39 +84,7 @@ There is almost no reason to use the HE round. Its muzzle velocity is an abysmal
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| PG-9 || HEAT || 300 || 300 || 300 || 300 || 300 || 300
-|-
-| OG-9 || HE || 11 || 11 || 11 || 11 || 11 || 11
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| PG-9 || HEAT || 665 || 2.6 || 0 || 0.01 || 1,130 || 65° || 72° || 77°
-|-
-| OG-9 || HE || 290 || 3.7 || 0 || 0.1 || 735 || 79° || 80° || 81°
-|-
-|}
+{{:2A28 (73 mm)/Ammunition|PG-9, OG-9}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_BMP-1.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -159,39 +127,8 @@ Keep in mind that the ATGM can only be fired when stopped or at extremely low sp
 * Firing range: 3 km
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| HJ-73 || ATGM || 400 || 400 || 400 || 400 || 400 || 400
-|-
-| HJ-73E || ATGM (tandem) || 800 || 800 || 800 || 800 || 800 || 800
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| HJ-73 || ATGM || 140 || 10.9 || 0.05 || 0.1 || 4,000 || 80° || 82° || 90°
-|-
-| HJ-73E || ATGM (tandem) || 130 || 12.5 || 0.4 || 0.1 || 1,830 || 80° || 82° || 90°
-|-
-|}
+{{:HJ-73/Ammunition|HJ-73}}
+{{:HJ-73E/Ammunition|HJ-73E}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_BMP-1.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

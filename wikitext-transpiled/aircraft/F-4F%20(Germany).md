@@ -301,24 +301,27 @@ If pilots need to counter ground based AA, the best tactic is to break line of s
 
 * [[MiG-21 (Family)|MiG-21s]]s: Same case as above; Most of these planes are armed with [[R-60]] AAM, capable of pulling 30 Gs.
 
-* [[F-4E Phantom II|F-4E]], [[F-4EJ Phantom II|F-4EJ]], [[Phantom FG.1]] and [[Phantom FGR.2|FGR.2]]: While these planes offer similar flight performance, they are armed with [[AIM-7E Sparrow|SARH]] missiles, and thus have significant advantage while fighting at high altitudes.
+* [[F-4E Phantom II|F-4E]], [[F-4EJ Phantom II|F-4EJ]], [[Phantom FG.1]] and [[Phantom FGR.2|FGR.2]]: While these planes offer similar flight performance, they are armed with [[AIM-7E Sparrow|AIM-7 SARH]] missiles, and thus have significant advantage while fighting at high altitudes.
+
+* [[A-10A]] / [[A-10A Late]]: The A-10 presents itself as nuisance for the F-4F in a way that SARH-carrying F-4s do not have to worry about in the same way: the AIM-9J does not have the range to be able to hit A-10s out of visual range (i.e to prevent flaring) and in closer ranges the AIM-9J will be countered by the massive flare reserves available to A-10s. You will have to resort to CQC in the form of dogfighting; the F-4F's Agile Eagle package allows this to be done relatively easily, as the A-10 cannot ratefight or turnfight for a sustained amount of time (be wary about your first push onto one however, as they will still have enough energy to potentially launch an AIM-9L or get their lethal 30 mm autocannon onto you). It is strongly advised to not engage A-10s in groups, as they can effectively protect each other with their missiles and will rapidly drain you of energy and flares.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Good AIM-9J Sidewinder Air-to-Air missiles 
-* Powerful internal M61 Vulcan rotary cannon with high velocity, fire rate and damage
+* AIM-9J's are decently flare-resistant (especially compared to Russian counterparts such as the R-60)
+* Comes with internal 20 mm Vulcan cannon rather than having to equip it as an external pylon (unlike other Phantoms)
 * Equipped with RWR and 90 Countermeasures 
-* Variety of large air-to-ground payloads, including the potent AGM-65B Maverick fire and forget missiles
+* Variety of large air-to-ground payloads, including the potent AGM-65B Maverick fire and forget missiles.
 
 '''Cons:'''
 
 * Heavy, bleeds a lot of speed in turns
-* Lacks SARH missiles that other Phantoms have 
+* AIM-9J has very short range and is slower than other IR missiles that are comparable
+* Lack of SARH missiles requires different approach than with other Phantoms and presents fewer opportunities to shoot down enemies
 * Pure CAS loadout reduces flight performance
-* Big size presents a giant target
+* Large size of airframe makes head-on attacks extremely risky, even with the potency of the 20 mm Vulcan cannon
 * Limited ammunition for its internal cannon
 
 == History ==

@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=ussr_bmp_2
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|GarageImage_BMP-2D.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==

@@ -18,23 +18,24 @@ A representation of rented [[F-16A ADF]]s from the USAF for the Italian Air Forc
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
+
+The F-16 is very strong in a dogfight due to its excellent TWR and energy retention, its highly manoeuvrable and can easily reach its top speed even when climbing. Its so good that you will often experience the effects of the G-limit, so when making a sharp turn keep that in mind.
 
 {| class="wikitable" style="text-align:center" width="70%"
-! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
-! rowspan="2" | Max altitude<br>(metres)
-! colspan="2" | Turn time<br>(seconds)
-! colspan="2" | Rate of climb<br>(metres/second)
-! rowspan="2" | Take-off run<br>(metres)
+! rowspan="2" |Characteristics
+! colspan="2" |Max speed<br>(km/h at 10,973 m)
+! rowspan="2" |Max altitude<br>(metres)
+! colspan="2" |Turn time<br>(seconds)
+! colspan="2" |Rate of climb<br>(metres/second)
+! rowspan="2" |Take-off run<br>(metres)
 |-
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
+| 2,093 || 2,063 || rowspan="2" | {{Specs|ceiling}} || 20.3 || 20.6 || 252.7 || 240.2 || rowspan="2" | 850
 |-
-! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+ ! Upgraded
+| 2,198 || 2,146 || 19.3 || 19.8 || 340.8 || 295.0
 |-
 |}
 
@@ -60,7 +61,7 @@ A representation of rented [[F-16A ADF]]s from the USAF for the Italian Air Forc
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 1,555 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || N/A || 470 || 463 || ~__ || ~__
+| 1,555 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || N/A || 470 || 463 || ~10 || ~3
 |-
 |}
 
@@ -112,7 +113,8 @@ A representation of rented [[F-16A ADF]]s from the USAF for the Italian Air Forc
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+
+The F-16 ADF is not very armoured, so enemy aircraft can easily tear into your jet with some good timed shots. Its advised that you try to avoid being shot in the first place. The F-16 has access to flares however so in the event of an enemy missile coming your way you'll be able to defend yourself, if not you can be lucky and survive some hits if the missile doesn't damage any vital components that are critical for your flight.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -170,7 +172,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+
+The F-16A ADF can be a powerful fighter with multiple playstyles, rushing straight into battle or hanging high and utilizing the [[AIM-7M Sparrow]]. Players that plan to stay low and accelerate straight into action will be satisfied with the F-16's low-altitude performance and radar. Players that want to keep high and sling AIM-7Ms at targets will be more than pleased with the F-16's strong climb rate, range of the AIM-7M, and radar. A mixed countermeasure loadout (1 flare, 1 chaff) is recommended because it allows 30 countermeasure drops against radar or IR missiles. In order to be prepared for matches that may extend longer than usual, select the 20-minute fuel option in conjunction with the 300-gallon drop tank. The F-16 consumes a lot of fuel on afterburner, so it's essential to use it wisely unless the max fuel amount is selected. The AIM-7Ms must be used wisely since only 2 Sparrows can be carried simultaneously. For long-range, high-altitude fights, seek out targets closing in fast. Do not fire at targets already about to notch or beginning to notch. AIM-7Ms are excellent for these types of engagements due to their range and manoeuvrability. As for low-altitude engagements, look for targets closing in fast and at around 500 metres altitude or above. Do not fire at targets that are flying very close to the ground because the radar will track underneath the intended target, and the missile will miss. As for [[AIM-9L Sidewinder|AIM-9L Sidewinders]], players can be more generous with them since the ADF can carry up to 6 AIM-9Ls. If a player finds themselves above the fight, it will be effortless to fire off missiles at distracted enemies and score kills quickly. AIM-9Ls are very strong from the rear aspect and require hard defending from the opponent to evade successfully. The F-16 is very strong in a dogfight due to its excellent TWR and energy retention. Before entering a dogfight, however, it's critical to be at the correct speed. The F-16 has a very wide turning circle at high speeds, so make sure to stay around 800-850 km/h (497-528 mph) when entering a dogfight. Sadly unlike the American F-16A, the Italian F-16 ADF does not have access to any air to ground armaments, so taking the aircraft in ground battles will only mean the user will have to rely on either staying away from the battlefield and picking off enemy helicopters and jets, or trying to take out lightly armoured targets with the 20mm Vulcan the F-16 ADF has access to.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -179,8 +182,10 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 * High power-to-weight ratio gives it an incredible acceleration
 * Highly manoeuvrable at lower speeds
+* 20 mm Vulcan cannon has high velocity and rate of fire
 * Able to carry a drop tank to extend flight time
 * Access to 6 x AIM-9L Sidewinder missiles
+* Bubble canopy with excellent unobstructed 360° visibility gives great situational awareness in simulator mode
 
 '''Cons:'''
 
@@ -204,6 +209,7 @@ Italian F-16s in service would not be equipped with rockets, bombs or air to gro
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f_16a_block_15_adf_italy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -212,6 +218,7 @@ Italian F-16s in service would not be equipped with rockets, bombs or air to gro
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[F-16 (Family)]]
 
 == External links ==

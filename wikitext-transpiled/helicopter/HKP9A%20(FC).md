@@ -61,15 +61,23 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
-
 '''Pros:'''
 
-*
+* Great agility - one of the most maneuverable helicopters in the game
+* Small profile
+* Access to Thermal Imaging
+* Great stock performance - comes with full missile payload stock
+* Countermeasure-resistant missiles
+* Access to RWR
 
 '''Cons:'''
 
-*
+* Weak powerplant - slow climb and top speed
+* Small missile payload
+* Poor survivability
+* Lacklustre air-to-air protection - only has access to optional 12.7 mm machine guns
+* Missiles require manual guidance
+* Small firing window - helicopter must be pointed at the target to guide effectively
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

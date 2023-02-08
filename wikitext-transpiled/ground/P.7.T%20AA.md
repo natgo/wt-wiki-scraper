@@ -42,7 +42,7 @@ With its four HMGs, this SPAA is quite reminiscent of the [[GAZ-AAA (4M)]] while
 * A 3 mm plate separates the driver cabin fro the gun platform.
 * Mudguards are 3 mm thick.
 
-The {{PAGENAME}} has practically no armour. Every crew member sits exposed to enemy fire, so even a light machine gun can knock out the entire crew in a matter of seconds. This means that the {{PAGENAME}} should never be exposed to any enemy fire, including artillery barrages, enemy ground fire and more difficultly strafing attacks from aircraft. The only parts of the vehicle that might stop a rifle-calibre round are the engine block and the gun mount.
+The {{PAGENAME}} has practically no armour. Every crew member sits exposed to enemy fire, so even a light machine gun can knock out the entire crew in a matter of seconds. This means that the {{PAGENAME}} should never be exposed to any enemy fire, including artillery barrages, enemy ground fire and even strafing attacks from aircraft. The only parts of the vehicle that might stop a rifle-calibre round are the engine block and the gun mount.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -62,9 +62,9 @@ The mobility is above average and smooth overall, while no terrain poses a chall
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|Hotchkiss Mle 1930 (13.2 mm)}}
 
-The quad 13.2 mm Hotchkiss HMG's are fantastic at shredding planes and start fires very easily due to the belts containing pure AP rounds. With their above-average fire rate, high damage, good accuracy and decent reload speed, they are an AA jockey's dream. It is worth noting that they have a limited magazine capacity, only 30 rounds per gun, but this is more-or-less remedied by the fact that there are 4 guns, allowing for 120 rounds total.
+The quad 13.2 mm Hotchkiss HMGs have excellent performance against low-tier aircraft and start fires very easily since the belts contain pure AP rounds. With their above-average rate of fire, high damage, good accuracy and decent reload speed, they are an excellent choice for someone who enjoys AA gameplay. It is worth noting that they have a limited magazine capacity, only 30 rounds per gun, but this is more-or-less remedied by the fact that there are 4 guns, allowing for 120 rounds total.
 
-However, due to the P.7's low BR, they can be decent at destroying reserve and 1.3 tanks from the sides and rear. It is not recommended to use it in this fashion, as you leave yourself as an easy target for anything with guns.
+The P.7's low BR also means that the 13.2 mm MGs can be decent at destroying reserve and BR 1.3 tanks from the sides and rear. Generally speaking this is a terrible idea though, and should only be reserved as a last ditch effort.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -83,6 +83,7 @@ However, due to the P.7's low BR, they can be decent at destroying reserve and 1
 |}
 
 ==== Ammunition ====
+
 * '''AP-T:''' {{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}
 
 {{:Hotchkiss Mle 1930 (13.2 mm)/Ammunition|AP, AP-T}}
@@ -153,6 +154,7 @@ The first half-tracks were built by Frenchman Adolphe Kegresse for Russia in 191
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_citroen_kegresse_p4t Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -170,6 +172,7 @@ The first half-tracks were built by Frenchman Adolphe Kegresse for Russia in 191
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

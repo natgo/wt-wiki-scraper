@@ -80,47 +80,7 @@ Coaxial MG? That's for normal tanks (but it is there anyway). On the Maus, every
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | '''Penetration @ 0° Angle of Attack (mm)'''
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| PzGr || APC || 252 || 249 || 237 || 222 || 208 || 196
-|-
-| Sprgr. L/5 || HE || 37 || 37 || 37 || 37 || 37 || 37
-|-
-| PzGr 43 || APCBC || 272 || 269 || 257 || 242 || 228 || 215
-|-
-| 12,8/8,8 Pzgr.TS || APCBC || 312 || 307 || 288 || 266 || 245 || 226
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| PzGr || APC || 930 || 26.35 || 1.2 || 19 || 786.5 || 48° || 63° || 71°
-|-
-| Sprgr. L/5 || HE || 750 || 28 || 0.1 || 0.5 || 3,700 || 79° || 80° || 81°
-|-
-| PzGr 43 || APCBC || 940 || 28.3 || 1.2 || 19 || 786.5 || 48° || 63° || 71°
-|-
-| 12,8/8,8 Pzgr.TS || APCBC || 1,230 || 9.85 || 1.2 || 19 || 108.8 || 48° || 63° || 71°
-|-
-|}
+{{:KwK44 (128 mm)/Ammunition|Sprgr. L/5, PzGr, PzGr 43, 12.8/8.8 Pzgr.TS}}
 
 ==== [[Ammo racks]] ====
 <!-- '''Last updated:''' -->
@@ -165,57 +125,7 @@ Coaxial MG? That's for normal tanks (but it is there anyway). On the Maus, every
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | '''Penetration @ 0° Angle of Attack (mm)'''
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Sprgr. 34 || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-| Hl.Gr 38B || HEAT || 80 || 80 || 80 || 80 || 80 || 80
-|-
-| Hl.Gr 38C || HEAT || 100 || 100 || 100 || 100 || 100 || 100
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Sprgr. 34 || HE || 420 || 5.74 || 0.1 || 0.1 || 686 || 79° || 80° || 81°
-|-
-| Hl.Gr 38B || HEAT || 450 || 4.4 || 0 || 0.1 || 872.1 || 62° || 69° || 73°
-|-
-| Hl.Gr 38C || HEAT || 450 || 4.8 || 0 || 0.1 || 875.5 || 62° || 69° || 73°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| K.Gr.Rot Nb. || 423 || 6.2 || 13 || 5 || 20 || 50
-|-
-|}
+{{:KwK44 L/36.5 (75 mm)/Ammunition|Sprgr. 34, Hl.Gr 38B, K.Gr.Rot Nb., Hl.Gr 38C}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|center|framed|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -253,7 +163,7 @@ Coaxial MG? That's for normal tanks (but it is there anyway). On the Maus, every
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-Versus heavy tanks, the Maus has all the advantages. While slower it can make up for this in close combat thanks to the good turn rate of both tracks and turret. Just quickly angle the Maus (both turret and hull) and you will turn it nearly invincible (be advised that HEAT shells can still penetrate the angled turret). Try angling the front drive wheel at the enemy tank and turn the turret so that the armour is at ~45 degrees to the enemy fire. The tanks that pose a threat are the [[M103]], the [[M48 Patton (Family)|M48]], the [[T-62 545 (China)|Chinese T-62]], the BMPs, the [[Object 120]], and basically every tank that has HEATFS, ATGM, or APFSDS rounds that can penetrate more than 320 mm of armour. One good strategy is to capture the objective and just defend it. This can be really helpful to the team. 
+Versus heavy tanks, the Maus has all the advantages. While slower it can make up for this in close combat thanks to the good turn rate of both tracks and turret. Just quickly angle the Maus (both turret and hull) and you will turn it nearly invincible (be advised that HEAT shells can still penetrate the angled turret). Try angling the front drive wheel at the enemy tank and turn the turret so that the armour is at ~45 degrees to the enemy fire. The tanks that pose a threat are the [[M103]], the [[M48 Patton (Family)|M48]], the [[T-62 545 (China)|Chinese T-62]], the BMPs, the [[Object 120]], and basically every tank that has HEATFS, ATGM, or APFSDS rounds that can penetrate more than 320 mm of armour. One good strategy is to capture the objective and just defend it. This can be really helpful to the team.
 
 Versus medium tanks, the Panzerkampfwagen VIII can fight in {{Annotation|CQC|Close Quarter Combat}} with its decent turret rotation but at the cost of exposing its side armour and getting flanked. Doing so should be kept as one's last resort. Distance is the ally of the Maus, which should be easy to do considering that the top speed is 20 km/h.
 
@@ -274,6 +184,7 @@ While it is very strong frontally because of its excellent armour, the Maus shou
 * Very difficult to immobilize, due to extremely thick track skirts
 * Powerful 128 mm cannon and rounds
 * Secondary 75 mm coaxial cannon is surprisingly effective when using HEAT rounds
+* Has commander sights, useful for looking around without moving the turret
 
 '''Cons:'''
 
@@ -290,6 +201,7 @@ While it is very strong frontally because of its excellent armour, the Maus shou
 * Big target for ATGMs
 * No modern armour of any kind, relies completely on conventional armour plating
 * Secondary 75 mm is hard to aim
+* Commander sight does not allow for commander aiming
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -329,6 +241,7 @@ The Panzerkampfwagen Maus can currently be viewed on display at the tank museum 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_Maus Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images

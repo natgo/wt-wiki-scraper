@@ -71,47 +71,7 @@ The ASU-57 is armed with the 57 mm Ch-51M, a derivative of the 57 mm ZiS-2 anti-
 * '''BR-271N''': APCR; a composite round with a slightly increased penetration but no explosive filler and will only penetrate flat vertical surfaces. The small added penetration (a few mm) does not make a viable ammo choice to deal with heavily armoured targets.
 * '''O-271''': HE; a slow round with a high explosive mass useful for taking out the crew of open-topped vehicles. As it won't consistently kill SPAAGs due to the small calibre and low explosive mass, don't try to hunt these vehicles as they will kill you much faster than you will.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| BR-271SP || APBC || 142 || 139 || 125 || 109 || 96 || 84
-|-
-| BR-271M || APCBC || 155 || 151 || 135 || 118 || 102 || 89
-|-
-| O-271 || HE || 5 || 5 || 5 || 5 || 5 || 5
-|-
-| BR-271N || APCR || 159 || 155 || 140 || 123 || 108 || 94
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| BR-271SP || APBC || 975 || 3.14 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| BR-271M || APCBC || 1,020 || 2.8 || 1.2 || 9 || 20.02 || 48° || 63° || 71°
-|-
-| O-271 || HE || 695 || 3.72 || N/A || 0.1 || 220 || 79° || 80° || 81°
-|-
-| BR-271N || APCR || 1,125 || 2.4 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-|}
+{{:Ch-51M (57 mm)/Ammunition|BR-271SP, BR-271M, O-271, BR-271N}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

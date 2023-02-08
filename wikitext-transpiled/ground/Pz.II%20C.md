@@ -93,40 +93,7 @@ The biggest problem with the 20 mm autocannon is the 10 round magazines combined
 * '''PzGr:''' {{Annotation|API-T|Armour-piercing incendiary tracer}} - This belt offers a good transition from the Default to the PzGr 40 belt. The round offers decent damage against lightly armoured tanks, especially at close range. Due to lack of high-explosive filler, however, it is better to focus on the PzGr 40 belt to maximize penetration power.
 * '''PzGr 40:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}} - Probably the best belt with the best penetrating shell for the vehicle. While the damage effects post-penetration can be quite poor, the rapid fire from the autocannon can mitigate this problem by following up quickly with another penetrating shot. In close combat, these shells should be used against modules and crew member to make the most of each shell. Against angled armour, however, the HVAP ammo may not be very effective. Unlike the Flakpanzer 1 and Flakpanzer 38, this belt is still 100% HVAP.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 37 || 34 || 23 || 14 || 9 || 6
-|-
-| PzGr || 37 || 34 || 23 || 14 || 9 || 6
-|-
-| PzGr 40 || 48 || 45 || 31 || 20 || 13 || 8
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Belt details
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| PzGr || API-T || 800 || 0.15 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| PzGr 40 || HVAP-T || 1,050 || 0.1 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-|}
+{{:KwK30 (20 mm)/Ammunition|HEFI-T*, API-T, HVAP-T}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

@@ -77,61 +77,7 @@ Due to its weak armour nearly every tank is a serious threat to the ST-A3, as we
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M318A1 shot || APBC || 194 || 190 || 177 || 162 || 149 || 136
-|-
-| M82 shot || APCBC || 185 || 182 || 170 || 155 || 142 || 130
-|-
-| M431 shell || HEATFS || 320 || 320 || 320 || 320 || 320 || 320
-|-
-| M71 shell || HE || 13 || 13 || 13 || 13 || 13 || 13
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M318A1 shot || APBC || 914 || 10.98 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| M82 shot || APCBC || 853 || 10.94 || 1.2 || 14 || 137.2 || 48° || 63° || 71°
-|-
-| M431 shell || HEATFS || 1,216 || 5.8 || 0.05 || 0.1 || 712.64 || 65° || 72° || 77°
-|-
-| M71 shell || HE || 823 || 10.55 || 0 || 0.1 || 925 || 79° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| M313 || 821 || 10.7 || 13 || 5 || 20 || 50
-|-
-|}
+{{:Type 61 (90 mm)/Ammunition|M318A1 shot, M82 shot, M431 shell, M71 shell, M313}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

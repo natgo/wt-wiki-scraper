@@ -65,28 +65,7 @@ The armour is extremely thin and only serves to protect the vehicle from shell s
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="12" | Missile details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Trigger radius<br>(m)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| FIM-92E || SAM || 680 || 5,000 || 10.1 || 1 || 0.1 || N/A || 540 || 79° || 80° || 81°
-|-
-| FIM-92K || SAM || 680 || 5,000 || 10.1 || 1 || 0.1 || 1 || 540 || 79° || 80° || 81°
-|-
-|}
-The FIM-92E detonates on impact while the FIM-92K has a proximity fuse.
+{{:Fliegerfaust 2 Stinger/Ammunition|FIM-92E, FIM-92K}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->

@@ -79,48 +79,15 @@ The Pvlvv fm/42 is equipped with the m/40B 20 mm cannon, which sports effective 
 
 ==== Ammunition ====
 
-* '''Default:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}} - A 2-to-1 mix of HE and AP rounds, an effective, versatile belt.
-* '''slsgr m/42:''' {{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}} - Ineffective against ground vehicles but adequate for aircraft.
-* '''slpgr m/42:''' {{Annotation|AP-T|Armour-piercing tracer}} - Very effective against ground vehicles while still being able to damage aircraft.
-
 A further drawback of this vehicle's armament is the total ammo count at only 108 rounds with the possibility of taking 3 belts. This hugely limits its performance, especially against aircraft as acquiring the lead will usually take a fair few shots. By the time a critical shot is landed, most of the ammo will likely be gone. For this reason, it's not recommended to take a magazine of the full HE belt, as this will take up a third of the {{PAGENAME}}'s total potential ammo, meaning a third of the shots will have no effect against enemy ground targets, and given that attacking ground vehicles is a more adept method of play for this vehicle, it is best to maximise the {{PAGENAME}}'s anti-tank ability. The AP belt can cut through a max of 42 mm of flat armour, so at close range the vehicle will have no trouble knocking out the majority of enemy vehicles.
 
 Once unlocked, it's recommended to take either three belts of AP rounds, or two belts of AP rounds with one Default belt for engaging aircraft, as the belt is still effective against both types of targets. Players can switch between this belt easily as well as the reload for changing belts is only 1.3 seconds.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 42 || 40 || 30 || 22 || 16 || 11
-|-
-| slsgr m/42 || 2 || 2 || 2 || 2 || 2 || 2
-|-
-| slpgr m/42 || 42 || 40 || 30 || 21 || 15 || 10
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Belt details
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| slsgr m/42 || HEFI-T || 845 || 0.14 || 0 || 0.1 || 10.2 || 79° || 80° || 81°
-|-
-| slpgr m/42 || AP-T || 845 || 0.14 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-|}
+* '''Default:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}} - A 2-to-1 mix of HE and AP rounds, an effective, versatile belt.
+* '''slsgr m/42:''' {{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}} - Ineffective against ground vehicles but adequate for aircraft.
+* '''slpgr m/42:''' {{Annotation|AP-T|Armour-piercing tracer}} - Very effective against ground vehicles while still being able to damage aircraft.
+
+{{:lvakan m/40B (20 mm)/Ammunition|Default AP-T, slsgr m/42, slpgr m/42}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Pvlvv fm-42.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

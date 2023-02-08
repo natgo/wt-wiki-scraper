@@ -97,9 +97,11 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-In general it is recommended to climb as much as you can before engaging, a good 3,000-4,000 m is important, for it can be used to get some extra speed once needed. For Combat, it can engage in a wide array of moves, the decent energy retention and high speeds it can attain, about 800 km/h, before it begins to red-line, means it can be used for Boom & Zoom, or to get away. Furthermore its a good turn-fighter, it out-turns a lot of planes it faces, exception being biplanes and Japanese aircraft. However take care, the engine is not the most powerful, and accelerating is problematic. So it is important to watch the speed carefully in combat. This becomes especially important as the engine is also quite prone to [[Thermodynamics|overheat]] when WEP is engaged, though it cools fairly quickly on 100%.
+The Macchi 200 is a standard fighter of the Italian tree. It is moderately armed for its tier, consisting of two 12.7 mm Breda-SAFAT machine guns firing through the propeller arcs. The M.C 200 Serie 7 is a fairly typical pre-war Italian design, moderate speed combined with good rates of turning, and high-speed tolerance while maintaining good controls at all speeds. Furthermore, the MC 200  Serie 7 is a capable climber, easily matching a lot of planes that it will regularly meet in its BR range. It is fairly tough, capable of taking hits and returning to the airfield for repairs. However, it does have its issues as well, most notably the poor engine power which results in poor acceleration and, much like all Italian designs, it suffers from poor armament as well, although given the lower BR then the Folgore, this is less of an issue.
 
-For the armament, the same applies to all other Italian aircraft; generally you want to use "Omni-Purpose Belts", they have that kinetic energy that you deserve to kill enemy planes and the " I- Incendiary" shell that works better than the IAI in terms of setting enemy on fire due to the fact that IAI aren't well modelled in-game. Shell velocity is low, hence they suffer above 300 m, so only fire at or below that range for best effects. Furthermore, much like the other Italian fighters the armament is woefully inadequate to deal with bombers, hence it is best to avoid them entirely, or focus on taking out the engines. Only exception are the very early biplane bombers, such as [[Swordfish Mk I|Swordfish]], [[Po-2]] and the likes.
+In general, it is recommended to climb as much as you can before engaging, a good 3,000-4,000 m is important, as it can be used to get some extra speed once needed. In combat, it can engage in a wide array of moves. The decent energy retention and high speeds it can attain, about 800 km/h before it begins to redline, means it can be used for Boom and Zoom, or to get away. Furthermore, it's a good turn-fighter, it outturns a lot of planes it faces, the exception being biplanes and Japanese aircraft. However take care, the engine is not the most powerful, and accelerating is problematic, so it is important to watch the speed carefully in combat. This becomes especially important as the engine is also quite prone to overheating when WEP is engaged, though it cools fairly quickly on 100%.
+
+For the armament, the same applies to all other Italian aircraft; generally you want to use "Omni-Purpose Belts", they have that kinetic energy that you deserve to kill enemy planes and the " I- Incendiary" shell that works better than the IAI in terms of setting enemy on fire due to the fact that IAI isn't well modelled in-game. Shell velocity is low, hence they suffer above 300 m, so only fire at or below that range for best effects. Furthermore, much like the other Italian fighters, the armament is woefully inadequate to deal with bombers, hence it is best to avoid them entirely, or focus on taking out the engines. The only exceptions are the very early biplane bombers, such as the [[Swordfish Mk I]], [[Po-2]] and the likes.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -144,13 +146,14 @@ The M.C.200, soon nicknamed the Saetta ("Lightning"), was created in 1937 as an 
 
 In combat, the Saetta's most dangerous opponent was the Hurricane. The M.C.200 was inferior to the Hurricane in terms of maximum speed, but it had superior manoeuvrability, turning radius and rate of climb. The Saetta had a radial 14-cylinder A.74 RC38 engine (870 hp). Its armament consisted of two 12.7 mm SAFAT machine guns. Later, the fighter was fitted to carry eight 15 kg bombs.
 
-Modifications of the M.C.200 had no major changes in equipment. The M.C.200 series 3 could carry additional fuel tanks. From start to finish of its production, the aircraft's payload capacity was increased from 429 to 522 kg."
+Modifications of the M.C.200 had no major changes in equipment. The M.C.200 series 3 could carry additional fuel tanks. From start to finish of its production, the aircraft's payload capacity was increased from 429 to 522 kg."	
 {{Navigation-End}}
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mc200_serie7_italy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -159,9 +162,11 @@ Modifications of the M.C.200 had no major changes in equipment. The M.C.200 seri
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[C.200 (Family)]]
 
 ;Aircraft of comparable role, configuration and era
+
 * [[G.50 (Family)]]
 
 == External links ==

@@ -64,39 +64,7 @@ The main armament is a powerful 130 mm gun. It has decent ballistics and, couple
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | '''Penetration @ 0° Angle of Attack (mm)'''
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| BR-482B || APCBC || 364 || 360 || 342 || 321 || 302 || 284
-|-
-| OF-482M || HE || 37 || 37 || 37 || 37 || 37 || 37
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| BR-482B || APCBC || 1,000 || 33.4 || 1.2 || 19 || 192.5 || 48° || 63° || 71°
-|-
-| OF-482M || HE || 900 || 33.4 || N/A || 0.1 || 3,640 || 79° || 80° || 81°
-|-
-|}
+{{:M-65 (130 mm)/Ammunition|BR-482B, OF-482M}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x200px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -141,7 +109,7 @@ The KPVT is an very effective machine gun, on par with certain autocannons in te
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Object 279 is in a position where its main gun can penetrate most things it faces, and the large HE filler guarantees a one shot. However, the hull is weak, unless you are in a full downtier, it should definitely not be relied on. The turret, on the other hand, is incredibly strong. The Object 279 plays quite well like a tank destroyer, using your 1,000 m/s APHE shell and strong turret armour to quickly peek and take pot-shots at enemy positions. This strategy is effective in uptiers. In a full downtier you can use it like a heavy tank, rushing caps and storming enemy positions, but HEATFS is abundant even at 7.7 and will end you fast.
+The Object 279 is in a position where its main gun can penetrate most things it faces, and the large HE filler guarantees a knock-out. However, the hull is weak, unless you are in a full downtier, it should definitely not be relied on. The turret, on the other hand, is incredibly strong. The Object 279 plays quite well like a tank destroyer, using your 1,000 m/s APHE shell and strong turret armour to quickly peek and take pot-shots at enemy positions. This strategy is effective in uptiers. In a full downtier you can use it like a heavy tank, rushing caps and storming enemy positions, but HEATFS is abundant even at 7.7 and will end you fast.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -157,18 +125,20 @@ The Object 279 is in a position where its main gun can penetrate most things it 
 * Extremely angled and thick cast armour
 * Quick reloading speed for the size of the gun, first stage ammo consists of a 13 shell auto loader
 * Can survive multiple hits from an ATGM frontally
-* Turret is extraordinary though, even against modern sabot rounds
+* Turret armour is extraordinarily tough, even against APDS rounds
 * Good reverse speed
 * Secondary machine gun can act as a ranging MG
+* Has great armour penetration that rivals early APFSDS rounds and packs an explosive punch
 
 '''Cons:'''
 
 * Inadequate turret traverse speed
 * Inadequate depression angle, a feature shared by all Soviet tanks
-* Vulnerable to high calibre HE; pylons connecting tank to tracks make for very appealing targets for such shells
+* Vulnerable to high-calibre HE rounds; pylons connecting tank to tracks make for very appealing targets for such shells
 * Most tanks at your BR can penetrate you from the front
 * Very long main gun barrel can be a liability, allowing observant enemies to spot the tank hiding around corners
 * Low muzzle velocity compared to APFSDS and APDS shells commonly found at this BR
+* APFSDS will almost always knock you out because of your ammo rack
 * No laser rangefinder
 
 == History ==
@@ -178,9 +148,9 @@ The Object 279 is in a position where its main gun can penetrate most things it 
 
 The Object 279 heavy tank was a combat vehicle intended to break through prepared defenses of the enemy in difficult terrain such as swamps, deep snow and vertical obstacles like boulders, hedgehogs, etc. Such cross-country capability was achieved through four tracks. It was developed between 1954 and 1960 jointly by {{Annotation|OKBT LKZ|Leningrad Kirov Plant}} and {{Annotation|VNII-100|Institute No. 100}} in Leningrad under the leadership of {{Annotation|L. S. Troyanov|Lyev Syergyeyevich Troyanov}}. The presentation of the prototype for factory tests, as well as the hull and turret for firing tests, was planned for the last quarter of 1957 and the production of two machines by the second quarter of 1958.<ref name=":0">Отечественные Бронированные Машины 1945-1965 гг. - Часть 1 - Легкие, средние и тяжелые танки, М. В. Павлов, И. В. Павлов (<nowiki>ISBN 978-5-85905-623-1</nowiki>)</ref>
 
-By March 1956, the preliminary design was prepared and the technical project by December of the same year, having a 1:1 size wooden mockup by the 30th of December. In the summer of 1957, two sets of hulls and turrets were manufactured, and their armour was tested by shelling at the {{Annotation|NIIBT|38th Research and Testing Institute of Armored Vehicles}} polygon. The technical project was finalized by November-December of 1957, having further increased armour protection. The deadlines for the new experimental vehicles were adjusted due to the large backlog of components needed, ending up in the last quarter of 1959 for the factory tests sample and second quarter of 1960 for the last two samples. The factory prototype passed the factory tests and drove for 502 km (with the engine running for 86 hours). The second prototype was successfully completed but the third prototype did not finish assembly. <ref name=":0" />
+By March 1956, the preliminary design was prepared and the technical project by December of the same year, having a 1:1 size wooden mockup by the 30th of December. In the summer of 1957, two sets of hulls and turrets were manufactured, and their armour was tested by shelling at the {{Annotation|NIIBT|38th Research and Testing Institute of Armoured Vehicles}} polygon. The technical project was finalized by November-December of 1957, having further increased armour protection. The deadlines for the new experimental vehicles were adjusted due to the large backlog of components needed, ending up in the last quarter of 1959 for the factory tests sample and second quarter of 1960 for the last two samples. The factory prototype passed the factory tests and drove for 502 km (with the engine running for 86 hours). The second prototype was successfully completed but the third prototype did not finish assembly. <ref name=":0" />
 
-At the direction of {{Annotation|GBTU|Main Automotive-Armored Tank Directorate}} alongside the government, the project was terminated in January 1961 with the first and third prototype being sent to the NIIBT landfill, and the second prototype left in storage at VNII-100.<ref name=":0" />
+At the direction of {{Annotation|GBTU|Main Automotive-Armoured Tank Directorate}} alongside the government, the project was terminated in January 1961 with the first and third prototype being sent to the NIIBT landfill, and the second prototype left in storage at VNII-100.<ref name=":0" />
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -196,7 +166,7 @@ File:Object 279 WTWallpaper 001.jpg
 </gallery>
 
 ;Videos
-{{Youtube-gallery|PosWOnOGkSo|'''Best experimental vehicles''' discusses the {{PAGENAME}} at 1:53 - ''War Thunder Official Channel''|okTc-87-XvU|Object 279 testing footage}}
+{{Youtube-gallery|PosWOnOGkSo|'''Best experimental vehicles''' discusses the {{PAGENAME}} at 1:53 - ''War Thunder Official Channel''|hmkMTKZt9J4|'''Object 279 moving on its own after restoration work''' - ''Roman Alymov''|okTc-87-XvU|'''Object 279 - prototype heavy tank''' - ''01e9''}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

@@ -16,9 +16,19 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+The Merkava is not a small tank by any metric, being very wide and tall. This makes you a big target for enemies.
 
-'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
+The Merkava is strongly protected against HEAT with up to 800-1,200 mm of protection on the turret front, and the UFP having enough protection with its NERA and engine and transmission blocks to stop a Kornet in its tracks. 
+
+However, KE protection may be somewhat lacking with average KE protection on the turret front averaging about 450-550mm of KE protection on the turret front and about 350-450mm of protection on the UFP (engine and transmission protection included) which for top tier is not quite adequate.
+
+The Merkava also features a unique armour layout being the only tank aside from the Strv 122B PLSS to fit NERA not only on front and side of the turret, but also the front and side of the hull too. it is also the only tank to fit NERA on its roof which historically was to defend from roof fired RPGs.
+
+All in all, the Merkava's armour is somewhat lacking in some areas but can more then compensate in others.
+
+'''Armour type:''' 
+
+* Rolled homogeneous armour<!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
 
@@ -26,22 +36,32 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 50 mm (74°) ''Upper plate'' <br> 50 mm (39-58°) ''Lower glacis'' || 50 mm ''Top'' <br> 50 mm ''Bottom'' || 30 mm (1-45°) || 30 mm
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
-|-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Turret || 40-230 mm (9-62°) ''Turret front'' <br> 197 mm (1°) ''Gun mantlet'' || 38 mm (17°) || 20 mm (1°) || 25-45 mm
 |-
 |}
 
-'''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
+{| class="wikitable"
+|-
+! Composite armour !! Frontal effective protection !! Sides
+|-
+| Hull || '''Upper glacis:'''<br> 300-450 mm ''Kinetic'' / 1,050-1,300 mm ''Chemical'' (engine block included) <br> '''Lower glacis:'''<br> 180-330 mm ''Kinetic'' / 250-400 mm ''Chemical'' (engine block included) || '''Side:'''<br> 50-228 mm ''Kinetic'' / 320-475 mm ''Chemical''
+|-
+|Turret || '''Turret cheeks:'''<br> 380-620 mm ''Kinetic'' / 920-1,100 mm ''Chemical'' <br> '''Turret sides'''<br> 240-410 mm ''Kinetic'' / 600-1,120 mm ''Chemical''
+|
+|}
+'''Notes:'''
+<!-- Any additional notes which the user needs to be aware of -->
 <!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
-{{tankMobility|abMinHp=2,325|rbMinHp=1,327}}
+{{tankMobility|abMinHp=2,325|rbMinHp=1,327}}The mobility of the Merkava is about average for an MBT, easily keeping pass with other MBT's thanks to its improved engine over the Merkava Mk.3.
+
+The Merkava may feel quite snappy at low speeds due to its high torque and good gear ratios, it also has neutral steering which makes urban combat much easier.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -118,22 +138,29 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+The Merkava Merkava performs amazingly at range and can still hold its own in a brawl. It plays somewhat similarly to previous Merkavas requiring a more laid back approach in order to well. 
+
+The Merkava can perform somewhat well in urban combat thanks to its great reaction speed and decent mobility forwards and backwards. However, keep in mind other tanks such as the T-72B3 and T-80BVM will easily outclass you in a brawl so pick your targets wisely.
+
+The Merkava has arguably some of the best optics for an MBT in-game due to the commanders sight being very high up and with great zoom at 14x max, and great thermals. this will allow you to play as a sniper on long range maps, being able to acquire and pick off targets with ease as you can play ridges and hills to your advantage.
+
+Also make sure to keep close attention to your Laser Warning System (LWS) and the direction it is alerting you to. As this will alert you of drones, helicopters and tanks, therefore giving you time to throw smoke and take cover from an ATGM or find the direction of a tank lasing you so you can return fire. A good way to tell if its a either a tank or a helicopter/drone locking you is that helicopter and drone locks will always continuously lock you whereas a tank may only give a short 1-2 seconds alert.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
 
 * Has access to 2nd generation thermals for both the gunner and commander
 * Excellent mobility, even in reverse
 * Great and competitive ammo selection
+* LWS gives great protection against tanks, helicopters, and drones alike
 
 '''Cons:'''
 
 * Very vulnerable to most attacks due to a noticeable lack of composite armour or ERA
 * Slower reload speed than its NATO counterparts
+* Quite big and can be a more appealing target then other tanks
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -143,6 +170,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_merkava_mk_4b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -151,6 +179,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Merkava (Family)]]
 ** [[Merkava Mk.4M]]
 

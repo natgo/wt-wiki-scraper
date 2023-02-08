@@ -77,67 +77,13 @@ The turret traverse speed is slow since it is rotated manually.
 
 ==== Ammunition ====
 
-* '''PzGr 39'''; APCBC shell - This is the main ammo type, and can confidently penetrate enemy armour due to the explosive filler. This should be the main ammo that your crew carries even as you unlock the other two shell types.
-* '''Hl.Gr 38B'''; HEAT shell - it is recommended to completely avoid this kind of shell as its performance is vastly inferior in all aspects compared to APCBC or APCR ammo used by this tank.
-* '''PzGr 40'''; APCR shell - This type of ammo should be used only if there is trouble penetrating the opponent, or trying to hit a fast moving tank at some distance. However, its damaging potential is much lower because it has no explosive filler to further enhance damage after the penetration.
-* '''Sprgr. 34'''; HE shell - Carry only very few of these. They are useless against anything other than unarmoured AA vehicles, to which it is lethal.
-* '''K.Gr.Rot Nb.''' - Smoke shells are useful to blind enemy vehicles that block your advance while being being too remote for you to disable.
+* '''PzGr 39'''; APCBC shell - This is the main ammo type, and can confidently penetrate enemy armour due to the explosive filler. This should be the main ammo that your crew carries even as you unlock the other two shell types.
+* '''Hl.Gr 38B'''; HEAT shell - it is recommended to completely avoid this kind of shell as its performance is vastly inferior in all aspects compared to APCBC or APCR ammo used by this tank.
+* '''PzGr 40'''; APCR shell - This type of ammo should be used only if there is trouble penetrating the opponent, or trying to hit a fast moving tank at some distance. However, its damaging potential is much lower because it has no explosive filler to further enhance damage after the penetration.
+* '''Sprgr. 34'''; HE shell - Carry only very few of these. They are useless against anything other than unarmoured AA vehicles, to which it is lethal.
+* '''K.Gr.Rot Nb.''' - Smoke shells are useful to blind enemy vehicles that block your advance while being being too remote for you to disable.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| PzGr 39 || APCBC || 145 || 143 || 130 || 116 || 104 || 93
-|-
-| Hl.Gr 38B || HEAT || 80 || 80 || 80 || 80 || 80 || 80
-|-
-| PzGr 40 || APCR || 182 || 177 || 159 || 140 || 122 || 107
-|-
-| Sprgr. 34 || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| PzGr 39 || APCBC || 770 || 6.8 || 1.2 || 14 || 17 || 48° || 63° || 71°
-|-
-| Hl.Gr 38B || HEAT || 450 || 4.4 || 0.05 || 0.1 || 872.1 || 62° || 69° || 73°
-|-
-| PzGr 40 || APCR || 990 || 4.1 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-| Sprgr. 34 || HE || 550 || 5.74 || 0 || 0.1 || 686 || 79° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive mass<br>(TNT equivalent) (g)
-|-
-| K.Gr.Rot Nb. || 540 || 6.23 || 13 || 5 || 20 || 50
-|-
-|}
+{{:KwK40 L48 (75 mm)/Ammunition|PzGr 39, Hl.Gr 38B, PzGr 40, Sprgr. 34, K.Gr.Rot Nb.}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Pz.IV_H.png|right|thumb|x250px|[[Ammo racks]] of the Pz.IV H (identical)]]
@@ -195,7 +141,7 @@ The Pz.IV suffers from its slow, manual turret traverse rate. This causes the Pa
 
 Tactics-wise, the Panzer IV is perfect for sniping and ambushes, where the slower turret traverse rate affects its combat performance less. Attack from a distance, especially while that enemy is focused on other allies in the team. Ambushes can also work in close-range events when watching corners, street intersections, and choke points, but be wary of any enemies trying to outmanoeuvre the Panzer IV as it would require drastic action with the slow turret rate. Try not to engage the enemy in a straight-up front confrontation as most enemies would be able to easily cleave through the front armour and knock out your vehicle.
 
-Although any tank of Rank III can destroy the Panzer IV pretty quickly, the tanks that mostly need to avoided in open combat are [[IS-2 (Family)|IS-2]], [[KV-2 (Family)|KV-2]], [[SU-152]], [[Tiger H1]] and [[Panther D|Panther]] tanks. Most of the [[:Category:Heavy tanks|heavy tanks]] that it will face include Tigers, the last of [[KV-85|KV series]], [[IS-1|IS-1s]], and even some [[IS-2|IS-2s]]. Particularly, IS-2s will be the toughest opponent and can take out the Panzer IV with one hit. Avoid frontal confrontation at all cost. Instead try to be sneaky and attack them from the sides where they become vulnerable.
+Although any tank of Rank III can destroy the Panzer IV pretty quickly, the tanks that mostly need to avoided in open combat are [[IS-2 (Family)|IS-2]], [[KV-2 (Family)|KV-2]], [[SU-152]], [[Tiger H1]] and [[Panther D|Panther]] tanks. Most of the [[:Category:Heavy tanks|heavy tanks]] that it will face include Tigers, the last of [[KV-85|KV series]], [[IS-1|IS-1s]], and even some [[IS-2|IS-2s]]. Particularly, IS-2s will be the toughest opponent and can take out the Panzer IV with one hit. Avoid frontal confrontation at all cost. Instead try to be sneaky and attack them from the sides where they become vulnerable.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

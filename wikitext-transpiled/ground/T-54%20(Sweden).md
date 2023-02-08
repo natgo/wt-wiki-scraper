@@ -16,7 +16,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish medium tank {{Battle-r
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''The armour of the T-54 leaves nothing to be desired. It is one of the strongest frontal plates seen in an early MBT and is able to withstand full calibre solid shots from all nations (Obus de rupture for example, the French solid shot seen in most post war designs such as the [[Lorraine 40t]], [[AMX-50 (Family)|AMX-50]], etc). However, the armour is nonexistent for HEAT and ATGM which are the main ammunition used in 7.7 to 8.7. The tank is practically immune to low calibre autocannon fire with exception of APDS rounds to the sides (seen in [[Warrior]] and [[AMX-30 DCA]]).''
+The armour of the T-54 leaves nothing to be desired. It is one of the strongest frontal plates seen in an early MBT and is able to withstand full calibre solid shots from all nations (Obus de rupture for example, the French solid shot seen in most post war designs such as the [[Lorraine 40t]], [[AMX-50 (Family)|AMX-50]], etc). However, the armour is nonexistent for HEAT and ATGM which are the main ammunition used in 7.7 to 8.7. The tank is practically immune to low calibre autocannon fire with exception of APDS rounds to the sides (seen in [[Warrior]] and [[AMX-30 DCA]]).
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -26,8 +26,8 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish medium tank {{Battle-r
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 100 mm (60°) ''Front glacis''
-100 mm (54°) ''Lower glacis''
+| Hull || 100 mm (60°) ''Front glacis''
+100 mm (54°) ''Lower glacis''
 | ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
 |-
 | Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
@@ -42,7 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish medium tank {{Battle-r
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''As a relatively heavily armoured tank and part of the Soviet doctrine, the mobility of the T-54 leaves much to be desired. Not only is top speed the lacklustre, but turn rate is not great and reverse speed is mediocre. Overall, the mobility is not the best and should not be relied on to be used to play as a fast paced vehicle. However, the power-to-weight ratio on the T-54 is impressive and is able to climb and move through rough territory with ease as well as push and pull tanks.''
+As a relatively heavily armoured tank and part of the Soviet doctrine, the mobility of the T-54 leaves much to be desired. Not only is top speed the lacklustre, but turn rate is not great and reverse speed is mediocre. Overall, the mobility is not the best and should not be relied on to be used to play as a fast paced vehicle. However, the power-to-weight ratio on the T-54 is impressive and is able to climb and move through rough territory with ease as well as push and pull tanks.
 
 {{tankMobility}}
 
@@ -56,7 +56,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish medium tank {{Battle-r
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|D-10T (100 mm)}}
 
-''The T-54 has access to the powerful D-10T. As seen in prior vehicles and other vehicles in the tree, the 100 mm is a reliable calibre for all situations with amazing ammunition for all cases. The T-54 (1951) also has access to APDS and HEATFS ammunition for use against everything. Both are impressive ammunition which require little to no practice in terms of use but they do require more trigger discipline and accurate aiming as they make much less spalling that the BR-412D. Despite not having great penetration which will be sort of required when facing heavily armoured targets like the Tiger II, it is able to decimate every vehicle it sees from all angles due to the explosive power. At 7.7 and above, the threats that will be seen (especially Europeans) have little to no armour, able to be easily penetrated by even the BR-412. However, some of the frontal plates of said vehicles are meant to stop the ammunition at certain distances (AMX-30 can stop BR-412 at past 500 m). Using 3BM-8 and 3BK-5 makes frontal engagements easier and with greater results due to the increased armour penetration. But again, they barely cause spalling and will most likely take more than one shot to fully disable and destroy an enemy tank.''
+The T-54 has access to the powerful D-10T. As seen in prior vehicles and other vehicles in the tree, the 100 mm is a reliable calibre for all situations with amazing ammunition for all cases. The T-54 (1951) also has access to APDS and HEATFS ammunition for use against everything. Both are impressive ammunition which require little to no practice in terms of use but they do require more trigger discipline and accurate aiming as they make much less spalling that the BR-412D. Despite not having great penetration which will be sort of required when facing heavily armoured targets like the Tiger II, it is able to decimate every vehicle it sees from all angles due to the explosive power. At 7.7 and above, the threats that will be seen (especially Europeans) have little to no armour, able to be easily penetrated by even the BR-412. However, some of the frontal plates of said vehicles are meant to stop the ammunition at certain distances (AMX-30 can stop BR-412 at past 500 m). Using 3BM-8 and 3BK-5 makes frontal engagements easier and with greater results due to the increased armour penetration. But again, they barely cause spalling and will most likely take more than one shot to fully disable and destroy an enemy tank.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -75,73 +75,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish medium tank {{Battle-r
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| BR-412 || APHE || __ || __ || __ || __ || __ || __
-|-
-| BR-412B || APHEBC || __ || __ || __ || __ || __ || __
-|-
-| BR-412D || APCBC || __ || __ || __ || __ || __ || __
-|-
-| BR-412P || APCR || __ || __ || __ || __ || __ || __
-|-
-| 3BM-8 || APDS || __ || __ || __ || __ || __ || __
-|-
-| 3BK-5 || HEATFS || __ || __ || __ || __ || __ || __
-|-
-| OF-412 || HE || __ || __ || __ || __ || __ || __
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| BR-412 || APHE || ___ || _.__ || __ || _._ || ___ || __° || __° || __°
-|-
-| BR-412B || APHEBC || ___ || _.__ || __ || _._ || ___ || __° || __° || __°
-|-
-| BR-412D || APCBC || ___ || _.__ || __ || _._ || ___ || __° || __° || __°
-|-
-| BR-412P || APCR || ___ || _.__ || __ || _._ || ___ || __° || __° || __°
-|-
-| 3BM-8 || APDS || ___ || _.__ || __ || _._ || ___ || __° || __° || __°
-|-
-| 3BK-5 || HEATFS || ___ || _.__ || __ || _._ || ___ || __° || __° || __°
-|-
-| OF-412 || HE || ___ || _.__ || __ || _._ || ___ || __° || __° || __°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive mass<br>(TNT equivalent) (g)
-|-
-| 3D3 || ___ || ____ || __ || __ || __ || ___
-|-
-|}
+{{:D-10T (100 mm)/Ammunition|BR-412, BR-412B, BR-412D, BR-412P, 3BM-8, 3BK-5, OF-412, 3D3}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
@@ -194,12 +128,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish medium tank {{Battle-r
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-<!--''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective". -->''
 
 '''Pros:'''
 
 * Roof-mounted machine gun for anti-air defence
-* Armour provide full protection to autocannons frontally, the relatively thick side armour of 80mm can protect from many autocannons side on.
+* Armour provides full protection against autocannons frontally, the relatively thick side armour of 80 mm can protect from many autocannons side on.
 * Engine smoke system can aid survivability
 
 '''Cons:'''

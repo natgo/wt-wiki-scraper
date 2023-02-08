@@ -82,47 +82,7 @@ The T-34 prototype can encounter Germany's longer [[KwK40 L43 (75 mm)|75 mm KwK4
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| BR-350A (MD-5 fuze) || APHEBC || 78 || 76 || 70 || 62 || 56 || 50
-|-
-| BR-350SP || APBC || 90 || 88 || 79 || 69 || 60 || 53
-|-
-| OF-350M || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-| Sh-354T || Shrapnel || 35 || 34 || 30 || 26 || 22 || 19
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| BR-350A (MD-5 fuze) || APHEBC || 615 || 6.3 || 1.2 || 14 || 150 || 48° || 63° || 71°
-|-
-| BR-350SP || APBC || 615 || 6.5 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| OF-350M || HE || 615 || 6.2 || 0.05 || 0.1 || 621 || 79° || 80° || 81°
-|-
-| Sh-354T || Shrapnel || 615 || 6.44 || 1.2 || 14 || 85 || 62° || 69° || 73°
-|-
-|}
+{{:L-11 (76 mm)/Ammunition|BR-350A (MD-5 fuze), BR-350SP, OF-350M, Sh-354T}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_T-34_(1940).png|right|thumb|x250px|[[Ammo racks]] of the T-34 (1940) (identical to the {{PAGENAME}})]]

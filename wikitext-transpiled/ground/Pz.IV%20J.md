@@ -95,61 +95,7 @@ As with most tanks make sure to research Parts and FPE. Then focus on researchin
 *'''Sprgr. 34''' - {{Annotation|HE|High Explosive}} shell - Carry only very few of these. They are useless against anything other than unarmoured AA vehicles, to which it is lethal.
 * '''K.Gr.Rot Nb.''' - Smoke shells are useful to blind enemy vehicles that block your advance while being being too remote for you to disable.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| PzGr 39 || APCBC || 145 || 143 || 130 || 116 || 104 || 93
-|-
-| Hl.Gr 38B || HEAT || 80 || 80 || 80 || 80 || 80 || 80
-|-
-| PzGr 40 || APCR || 182 || 177 || 159 || 140 || 122 || 107
-|-
-| Sprgr. 34 || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| PzGr 39 || APCBC || 770 || 6.8 || 1.2 || 14 || 28.9 || 48° || 63° || 71°
-|-
-| Hl.Gr 38B || HEAT || 450 || 4.4 || 0.05 || 0.1 || 872.1 || 62° || 69° || 73°
-|-
-| PzGr 40 || APCR || 990 || 4.1 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-| Sprgr. 34 || HE || 550 || 5.74 || 0 || 0.1 || 686 || 79° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive mass<br>(TNT equivalent) (g)
-|-
-| K.Gr.Rot Nb. || 540 || 6.2 || 13 || 5 || 20 || 50
-|-
-|}
+{{:KwK40 L48 (75 mm)/Ammunition|PzGr 39, Hl.Gr 38B, PzGr 40, Sprgr. 34, K.Gr.Rot Nb.}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Pz.IV_H.png|right|thumb|x250px|[[Ammo racks]] of the Pz.IV H (identical).]]
@@ -216,20 +162,20 @@ Most of the [[:Category:Heavy tanks|heavy tanks]] that it will face include Tige
 
 '''Pros:'''
 
-* The KwK40 L/48 cannon can penetrate most enemies at the BR at long range with above average muzzle velocity, making aiming a bit easier.
-* PzGr 40 (APCR) offers great penetration in case PzGr 39 (APCBC) fails against heavily armoured targets.
-* The transmission provides good acceleration.
-* Satisfactory off-road and on-road mobility.
-* Turrets have Schürzen (side skirts), which can offer some protection from HEAT or HE rounds.
-* 2 crew members in the hull often saves the vehicle from destruction when the turret is penetrated and everyone up there dies.
+* The KwK40 L/48 cannon can penetrate most enemies at the BR at long range with above average muzzle velocity, making aiming a bit easier
+* PzGr 40 (APCR) offers great penetration in case PzGr 39 (APCBC) fails against heavily armoured targets
+* The transmission provides good acceleration
+* Satisfactory off-road and on-road mobility
+* Turrets have Schürzen (side skirts), which can offer some protection from HEAT or HE rounds
+* 2 crew members in the hull often saves the vehicle from destruction when the turret is penetrated and everyone up there dies
 
 '''Cons:'''
 
-* Turret traverse is slow compared to medium tanks at this BR.
-* Side skirts (Schürzen) only protect the turret.
-* Lacks a gun mantlet.
-* Armour protection is poor, able to be penetrated by all the tanks it encounters even frontally and vulnerable to overpressure.
-* Unable to traverse fast in rough terrains.
+* Turret traverse is slow compared to medium tanks at this BR
+* Side skirts (Schürzen) only protect the turret, no side side skirts on the hull
+* Lacks gun mantlet armour
+* Armour protection is poor, able to be penetrated by all the tanks it encounters even frontally and vulnerable to overpressure
+* Unable to traverse fast in rough terrains
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

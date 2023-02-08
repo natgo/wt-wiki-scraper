@@ -73,43 +73,7 @@ With a top speed of 33 km/h and a power-to-weight ratio of 11.43 hp/ton in Reali
 The {{PAGENAME}} is armed with the 37 mm KwK 34(t), which has an APC shell with 55 mm pen and a Tier I unlockable APC shell with 52 mm pen. It also possesses an 85 mm penetration APCR shell for more heavily armoured targets such as [[B1 bis]].
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | '''Penetration @ 0° Angle of Attack (mm)'''
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Pzgr. 34(t) || APC || 55 || 51 || 39 || 28 || 20 || 15
-|-
-| PzGr. 40 || APCR || 81 || 73 || 45 || 24 || 13 || 7
-|-
-| Pzgr.(t) umg. || APC || 53 || 50 || 37 || 26 || 19 || 13
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Pzgr. 34(t) || APC || 675 || 0.85 || 1.2 || 9.0 || 22.1 || 48° || 63° || 71°
-|-
-| PzGr. 40 || APCR || 980 || 0.37 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-| Pzgr.(t) umg. || APC || 675 || 0.81 || 1.2 || 9.0 || 22.1 || 48° || 63° || 71°
-|-
-|}
+{{:KwK34(t) (37 mm)/Ammunition|Pzgr. 34(t), PzGr. 40, Pzgr.(t) umg.}}
 
 '''Note:''' The PzGr. 34(t) round has no tracer.
 

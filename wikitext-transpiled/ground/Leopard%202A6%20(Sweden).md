@@ -20,7 +20,7 @@ The Leopard 2A6 has excellent armour, the hull is well protected and the turret 
 
 Be aware of high-explosive rounds and ATGMs though. If these land on your commander's cupola, the fragments can knock out 3/4 crew members inside the turret. A hit to the lower part of the V-shaped turret cheeks with an ATGM will most likely send fragments into your hull, penetrate and either detonate your ammo or incapacitate several crew members. Don't get hit by an ATGM.
 
-The frontal hull can be penetrated by all APFSDS rounds and ATGM warheads at its BR: if possible, hiding it by hulldowning properly is recommended. 
+The frontal hull can be penetrated by all APFSDS rounds and ATGM warheads at its BR: if possible, hiding it by hulldowning properly is recommended. 
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -76,43 +76,7 @@ The frontal hull can be penetrated by all APFSDS rounds and ATGM warheads at its
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| DM12A1 || HEATFS || 480 || 480 || 480 || 480 || 480 || 480
-|-
-| DM33 || APFSDS || 496 || 494 || 486 || 476 || 466 || 456
-|-
-| DM53 || APFSDS || 652 || 650 || 640 || 628 || 616 || 604
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (kg)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| DM12A1 || HEATFS || 1,190 || 13.5 || 0.05 || 0.1 || 2.15 || 65° || 72° || 77°
-|-
-| DM33 || APFSDS || 1,690 || 4.3 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-| DM53 || APFSDS || 1,750 || 5 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
+{{:Rh120 L/55 (120 mm)/Ammunition|DM12A1, DM33, DM53}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Leopard 2A6.png|right|thumb|x250px|[[Ammo racks]] of the Leopard 2A6]]
@@ -169,7 +133,7 @@ The Leopard 2A6's turret is one of the hardest in the game to penetrate. But, it
 
 === Close-Quarters Combat ===
 
-Use 3rd person view in close quarters, always. This gives you a much better situational awareness than 10 degrees of FoV in gunner's sight. Night battles are an exception, you can use commander's thermals at medium ranges, which have a better FoV than the gunner's sight. Rotate your camera around all the time. Have your headphones on and watch out for engine sounds. They can give you a heads up against an enemy coming close that you don't see yet. In close quarters, any vehicle at your BR can penetrate you and so can you. Don't rush around mindlessly and pay attention to your surroundings. Sticking around your teammates can improve your lifespan. Since you can get penetrated easily from the front, ou always have to shoot first to win. You need to be especially careful against Swedish Leopards and all Russian T-series tanks at your BR, since you have to aim for their weak spots more precisely than they need to aim at yours. If they manage to shoot you anywhere in the hull or the mantlet area, you have a problem. Meanwhile, you have to aim at the driver's hatch of T-series or the mantlet from the front and in the case of Strv 122s, only the mantlet is a reliable way of disabling them from the front. Never, ever peek around a corner if the enemy behind it is aiming at the corner. Your chances of shooting first are slim to none and you will most likely die. If uneven terrain such as a hill separates you and there is an enemy vehicle that is aware of you and aiming at you, you can peek first, provided you do it properly - don't use gunner's sight. Use 3rd person view and aim with the center of the outer crosshair circle directly at their mantlet area. Then, peek as fast as you can and as soon as you see the inner crosshair circle connect with what you are aiming at, take the shot immediately. When you learn to do this quickly enough, you will always win in this situation against any vehicle you face. If an enemy vehicle is rushing at you and going to peek around a corner, let them. You can easily shoot faster than they do.
+Use 3rd person view in close quarters, always. This gives you a much better situational awareness than 10 degrees of FoV in gunner's sight. Night battles are an exception, you can use commander's thermals at medium ranges, which have a better FoV than the gunner's sight. Rotate your camera around all the time. Have your headphones on and watch out for engine sounds. They can give you a heads up against an enemy coming close that you don't see yet. In close quarters, any vehicle at your BR can penetrate you and so can you. Don't rush around mindlessly and pay attention to your surroundings. Sticking around your teammates can improve your lifespan. Since you can get penetrated easily from the front, you always have to shoot first to win. You need to be especially careful against Swedish Leopards and all Russian T-series tanks at your BR, since you have to aim for their weak spots more precisely than they need to aim at yours. If they manage to shoot you anywhere in the hull or the mantlet area, you have a problem. Meanwhile, you have to aim at the driver's hatch of T-series or the mantlet from the front and in the case of Strv 122s, only the mantlet is a reliable way of disabling them from the front. Never, ever peek around a corner if the enemy behind it is aiming at the corner. Your chances of shooting first are slim to none and you will most likely die. If uneven terrain such as a hill separates you and there is an enemy vehicle that is aware of you and aiming at you, you can peek first, provided you do it properly - don't use gunner's sight. Use 3rd person view and aim with the center of the outer crosshair circle directly at their mantlet area. Then, peek as fast as you can and as soon as you see the inner crosshair circle connect with what you are aiming at, take the shot immediately. When you learn to do this quickly enough, you will always win in this situation against any vehicle you face. If an enemy vehicle is rushing at you and going to peek around a corner, let them. You can easily shoot faster than they do.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
@@ -189,7 +153,7 @@ Use 3rd person view in close quarters, always. This gives you a much better situ
 * 16 shells in the ready-rack may be insufficient when playing in Arcade Battles, you have to aim for weak points and be prepared to fall back and wait for a minute for the rack to replenish
 * Huge hull ammo-rack if more than 16 shells are carried consequently making the tank vulnerable to HE shells and presenting an annoying weak spot in the hull. You can carry 21 or 27 rounds, they will be stored only in the lower plate. More than that is not recommended for close-quarters. It is both dangerous and unnecessary (no way you can spend 27 rounds in a city engagement)
 * A penetrating shot on the left side of the hull will most likely knock out the driver, gunner and commander, thus destroying the tank
-* A penetrating shell on the right side of the hull will most likely hit the ammo-rack, destroying the tank (if you carry more than 16 rounds) 
+* A penetrating shell on the right side of the hull will most likely hit the ammo-rack, destroying the tank (if you carry more than 16 rounds) 
 * The wedges can be shot off with several hits, though the turret cheeks alone provide 710 mm against KE
 * Despite all the added armour, the turret ring and the mantlet are both easily penetrated, and the enemy will most likely aim at these two spots to disable or destroy the tank
 

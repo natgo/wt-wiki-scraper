@@ -88,13 +88,12 @@ The BR-281U belt does not offer any extra penetration and thus should not be use
 |}
 
 ==== Ammunition ====
-
 * '''Default:''' {{Annotation|HE*|High-explosive fragmentation (self-destroying)}}{{-}}{{Annotation|APCBC|Armour-piercing capped ballistic capped}}
-* '''BR-281:''' {{Annotation|APCBC|Armour-piercing capped ballistic capped}}
+* '''BR-281SP:''' {{Annotation|APCBC|Armour-piercing capped ballistic capped}}
 * '''OR-281U:''' {{Annotation|HE*|High-explosive fragmentation (self-destroying)}}
-* '''BR-281U:''' {{Annotation|APCBC|Armour-piercing capped ballistic capped}}{{-}}{{Annotation|HE*|High-explosive fragmentation (self-destroying)}}
+* '''BR-281U:''' {{Annotation|APCBC|Armour-piercing capped ballistic capped}}
 
-{{:S-68 (57 mm)/Ammunition|APCBC, HE*}}
+{{:S-68 (57 mm)/Ammunition|BR-281SP, OR-281U, BR-281U}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->

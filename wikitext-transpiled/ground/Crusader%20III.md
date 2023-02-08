@@ -52,7 +52,7 @@ The post-penetration survivability is a lot worse than the Crusader II. Because 
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 The Crusader III is about 4 tons heavier than the preceding Crusader II but has no engine upgrades, lowering its power-to-weight ratio. This is on par with most medium tanks but lower than most light tanks, resulting in a more sluggish acceleration especially on bad terrains like mud and snow. The maximum forward speed is unaffected, though the Crusader III now needs more time to pick up speed, limiting its tactical agility. The hull traverse remains satisfactory. 
 
-The reverse is still bad, at -7 km/h. You must be extra aware about potential enemies as the reverse and acceleration of the Crusader III will not let you escape very quickly. In general, the Crusader III somewhat feels a lot more like a fast medium tank (e.g. [[M4A4 (1st PTG)|M4A4]], [[Pz.IV G]]) rather than a light tank (e.g. [[M24]], [[Sd.Kfz.234/2]]) which may affect its playstyle.
+The reverse is still bad, at -7 km/h. You must be extra aware about potential enemies as the reverse and acceleration of the Crusader III will not let you escape very quickly. In general, the Crusader III somewhat feels a lot more like a fast medium tank (e.g. [[M4A4 (1st PTG)|M4A4]], [[Pz.IV G]]) rather than a light tank (e.g. [[M24]], [[Sd.Kfz.234/2]]) which may affect its playstyle. The poor turning speed can be particularly dangerous if flanked by a faster/more manoeuvrable tank, (e.g. [[M3A3 (Italy)]], [[M5A1]], [[M22]], or [[BT-7]]).
 
 {{tankMobility|abMinHp=527|rbMinHp=301}}
 
@@ -210,6 +210,7 @@ About 21 Crusaders still exist intact in various parts of the world. The most no
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_crusader_mk_3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

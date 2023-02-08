@@ -83,43 +83,7 @@ Note that the gun breech is rather large and takes up a lot of room in the turre
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | '''Penetration @ 0° Angle of Attack (mm)'''
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| slpprj m/41 || AP || 139 || 136 || 121 || 104 || 90 || 78
-|-
-| sgr m/38 || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-| slpgr m/43 || APCBC || 149 || 146 || 132 || 116 || 102 || 89
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| slpprj m/41 || AP || 815 || 6.63 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| sgr m/38 || HE || 840 || 6.43 || 0 || 0.1 || 690 || 79° || 80° || 81°
-|-
-| slpgr m/43 || APCBC || 890 || 6 || 1.2 || 14 || 110 || 48° || 63° || 71°
-|-
-|}
+{{:pvkan m/43 (75 mm)/Ammunition|slpprj m/41, sgr m/38, slpgr m/43}}
 
 The Strv m/42 DT starts with the rather underwhelming stock '''slpprj m/41''' uncapped AP shot, which has no explosive filler. However, at Rank IV the excellent '''slpgr m/43''' APCBC shell becomes available. Not only does it ricochet less than the stock AP, has a higher muzzle velocity, and has better penetration, it also has a lethal 110 g TNT filler that is devastating when it penetrates. 
 

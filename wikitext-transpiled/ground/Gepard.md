@@ -86,44 +86,7 @@ The armament consists of 2 x 35 mm Oerlikon KDA cannons with 340 RPG with a quic
 * '''DM13:''' {{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}{{-}}{{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}{{-}}{{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
 * '''DM23:''' {{Annotation|APDS|Armour-piercing discarding sabot}}
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 68 || 66 || 57 || 47 || 39 || 32
-|-
-| DM11A1 || 68 || 66 || 57 || 47 || 39 || 32
-|-
-| DM13 || 68 || 66 || 57 || 47 || 39 || 32
-|-
-| DM23 || 127 || 125 || 118 || 110 || 102 || 95
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 35 mm HEI-T || HEI-T* || 1,175 || 0.55 || 0 || 0.1 || 204 || 79° || 80° || 81°
-|-
-| 35 mm API-T || API-T || 1,175 || 0.55 || 1.2 || 9 || 37.4 || 47° || 60° || 65°
-|-
-| 35 mm APDS || APDS || 1,400 || 0.38 || N/A || N/A || N/A || 75° || 78° || 80°
-|-
-|}
+{{:Oerlikon KDA (35 mm)/Ammunition|HEI-T*, API-T*, APDS}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

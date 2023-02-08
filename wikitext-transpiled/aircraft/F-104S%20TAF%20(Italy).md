@@ -113,7 +113,7 @@ The vehicle itself is totally identical to its [[F-104S|tech-tree counterpart]] 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-Like its tech tree counterpart, the TAF F-104S also has no additional protection against oncoming shots. What makes the situation even mpre dire is that it also doesn't equip an EFS onboard: in case of an engine fire, players will have to pray that it burns out naturally before structural failure. In most cases, with the engine damaged by different means or other damage onboard, the F-104S will have an extremely hard time returning for a repair.
+Like its tech tree counterpart, the TAF F-104S also has no additional protection against oncoming shots. What makes the situation even more dire is that it also doesn't equip an EFS onboard: in case of an engine fire, players will have to pray that it burns out naturally before structural failure. In most cases, with the engine damaged by different means or other damage onboard, the F-104S will have an extremely hard time returning for a repair.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -248,6 +248,7 @@ This jet, numbered '''MM6900/75-6900''' of the Project Bora-II delivery was then
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f-104s_cb Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

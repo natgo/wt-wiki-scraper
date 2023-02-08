@@ -85,43 +85,7 @@ Mobility is that of a KV-1 powerplant, but with six more tons added. This causes
 * '''OF-530''' (HE)<br>The "High-explosive" shell requires careful aim as despite its infamous power, a solid hit on the front of an enemy tank would not necessarily defeat the enemy. One must preferably aim beneath tanks or below the gun mantlets to sneak into thinly armoured portions such as the roof or belly armour.
 * '''PB-35''' (APCBC)<br> The shell with the most penetration on all ranges and the one with the worst accuracy, given due its abysmal slow velocity of 436 m/s (975 mph). Thus it is not advised to be used, except in close range combat.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| G-530 || AC || 95 || 94 || 89 || 83 || 78 || 73
-|-
-| OF-530 || HE || 48 || 48 || 48 || 48 || 48 || 48
-|-
-| PB-35 || APCBC || 95 || 94 || 90 || 86 || 81 || 77
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| G-530 || AC || 530 || 40 || 1.2 || 19 || 5,100 || 47° || 60° || 65°
-|-
-| OF-530 || HE || 530 || 40 || 0 || 0.1 || 5,830 || 79° || 80° || 81°
-|-
-| PB-35 || APCBC || 436 || 51.06 || 1.2 || 19 || 4,850 || 48° || 63° || 71°
-|-
-|}
+{{:M-10T (152 mm)/Ammunition|G-530, OF-530, PB-35}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_KV-2_(1940).png|right|thumb|x250px|[[Ammo racks]] of the KV-2 (1940) (Identical).]]

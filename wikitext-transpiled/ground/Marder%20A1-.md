@@ -100,24 +100,10 @@ Rh202 operates on 200 round belts, Marder can take 6 of them in total and you ca
 ==== Ammunition ====
 
 * '''Default:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}} - The stock belt consists of HVAP-T and HEFI-T rounds in a ratio of 1:1. It works but can have problems penetrating lighter vehicles due to the occasional chance that it won't hit a critical component with an HVAP-T round.
-* '''DM51A1 HEI-T:''' {{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}} - Stock belt that consists of HEFI-T and HVAP-T rounds in a ratio of 3:1, this belt would be of great use against infantry but have no use in vehicular combat.
-* '''DM43 API-T:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}} - Tier I modification, this belt consists of HVAP-T and HEFI-T rounds in a ratio of 3:1. This belt should be the primary type of ammo for Rh202, since it has the best available penetration.
+* '''DM51A1:''' {{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}} - Stock belt that consists of HEFI-T and HVAP-T rounds in a ratio of 3:1, this belt would be of great use against infantry but have no use in vehicular combat.
+* '''DM43:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}} - Tier I modification, this belt consists of HVAP-T and HEFI-T rounds in a ratio of 3:1. This belt should be the primary type of ammo for Rh202, since it has the best available penetration.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 57 || 52 || 37 || 24 || 15 || 10
-|-
-| DM51A1 HEI-T || 57 || 52 || 37 || 24 || 15 || 10
-|-
-| DM43 API-T || 57 || 52 || 37 || 24 || 15 || 10
-|-
-|}
+{{:Rh202 (20 mm)/Ammunition|HVAP-T, HEFI-T}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -168,36 +154,7 @@ As SACLOS missiles, they can be used with some success against ATGM helicopters 
 |}
 
 ==== Ammunition ====
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| MILAN || ATGM || 530 || 530 || 530 || 530 || 530 || 530
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="11" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| MILAN || ATGM || 200 || 2,000 || 6.7 || 0.05 || 0.1 || 1,830 || 80° || 82° || 90°
-|-
-|}
+{{:MILAN/Ammunition|MILAN}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->

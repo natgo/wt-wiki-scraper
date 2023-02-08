@@ -67,47 +67,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet heavy tank {{Ba
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| BR-350SP || APBC || 90 || 88 || 79 || 69 || 60 || 53
-|-
-| OF-350M || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-| Sh-354T || Shrapnel || 35 || 34 || 30 || 26 || 22 || 19
-|-
-| BR-350A (MD-5 fuze) || APHEBC || 78 || 76 || 70 || 62 || 56 || 50
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| BR-350SP || APBC || 615 || 6.5 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| OF-350M || HE || 615 || 6.2 || 0.05 || 0.1 || 621 || 79° || 80° || 81°
-|-
-| Sh-354T || Shrapnel || 615 || 6.44 || 1.2 || 14 || 85 || 62° || 69° || 73°
-|-
-| BR-350A (MD-5 fuze) || APHEBC || 615 || 6.3 || 1.2 || 14 || 150 || 48° || 63° || 71°
-|-
-|}
+{{:L-11 (76 mm)/Ammunition|BR-350SP, OF-350M, Sh-354T, BR-350A (MD-5 fuze)}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -153,47 +113,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet heavy tank {{Ba
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| O-243 || HE || 4 || 4 || 4 || 4 || 4 || 4
-|-
-| BR-240SP || APBC || 73 || 70 || 60 || 50 || 41 || 34
-|-
-| BR-240P || APCR || 106 || 98 || 72 || 48 || 33 || 22
-|-
-| BR-240 || APHEBC || 70 || 67 || 58 || 47 || 39 || 32
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| O-243 || HE || 343 || 2.15 || 0.4 || 0.3 || 118 || 79° || 80° || 81°
-|-
-| BR-240SP || APBC || 757 || 1.43 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| BR-240P || APCR || 1,070 || 0.85 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-| BR-240 || APHEBC || 760 || 1.43 || 1.2 || 9 || 29.26 || 48° || 63° || 71°
-|-
-|}
+{{:20-K (45 mm)/Ammunition|O-243, BR-240SP, BR-240P, BR-240}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -230,9 +150,9 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet heavy tank {{Ba
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-Confidently stand against most enemy tanks especially if they are without support, use caution against engaging multiple targets from a distance however as a track hit will end any day on the battlefield, the SMK packs its biggest punch up close and cannot expect to survive against sniping units if caught in the open. Keep the tank moving as much as possible and slightly angled facing enemies directly. When engaging heavies it's best to not go toe to toe head on however by disabling a track or turret the SMK can hold itself up in close proximity to most heavy enemy tanks. HE and shrapnel shells are not this tanks forte, rather its APHE rounds usually due to the trick against most enemy units.
+Confidently stand against most enemy tanks especially if they are without support, use caution against engaging multiple targets from a distance however as a track hit will end any day on the battlefield, the SMK packs its biggest punch up close and cannot expect to survive against sniping units if caught in the open. Keep the tank moving as much as possible and slightly angled facing enemies directly. When engaging heavies it's best to not go toe to toe head on however by disabling a track or turret the SMK can hold itself up in close proximity to most heavy enemy tanks. HE and shrapnel shells are not this tanks forte, rather its APHE rounds usually due to the trick against most enemy units. The SMK can also fool enemies by shooting the 45 mm cannon, then letting the opponent peek out when they think that the cannon is reloading, and shoot them with the 76 mm cannon instead.
 
-Attack and break enemy lines, The SMK is very much a tank worthy of entitling "Not one step back"! A fast load rate and dual turret firing system allow this tank multiple scores even when surrounded or disabled, and the sizeable crew enables quick repair, which is great as its size makes the SMK a juicy target that is more than capable of withstanding incredible amounts of damage. Great at providing weaker units cover and protection from enemy fire, the one-two punch of its cannons reward players that love using more aggressive playing styles.
+Attack and break enemy lines, The SMK is very much a tank worthy of entitling "Not one step back"! A fast load rate and dual turret firing system allow this tank multiple scores even when surrounded or disabled, and the sizeable crew enables quick repair, which is great as its size makes the SMK a juicy target that is more than capable of withstanding incredible amounts of damage. Great at providing weaker units cover and protection from enemy fire, the one-two punch of its cannons reward players that love using more aggressive playing styles. 
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -276,6 +196,7 @@ The SMK heavy tank was designed and built at the Kirov Factory in Leningrad. In 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_smk Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -283,6 +204,7 @@ The SMK heavy tank was designed and built at the Kirov Factory in Leningrad. In 
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

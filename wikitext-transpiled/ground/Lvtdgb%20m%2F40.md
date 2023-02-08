@@ -79,21 +79,7 @@ The {{PAGENAME}}'s gun is a renamed Bofors 40 mm cannon, which is used on other 
 * '''slsgr m/36C:''' {{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|APC|Armour-piercing capped}} - Versus planes and open combat compartment vehicles. Most planes will only take a few shots before going down.
 * '''slhpgr m/43:''' {{Annotation|SAPHEI|Semi armour-piercing high-explosive incendiary}}{{-}}{{Annotation|SAPHEI|Semi armour-piercing high-explosive incendiary}}{{-}}{{Annotation|SAPHEI|Semi armour-piercing high-explosive incendiary}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}} - Best belt type to use against tanks. The SAPHEI shells have decent penetration and an explosive filler. It may be advisable to bring some default belts if the extra penetration is required.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 79 || 75 || 60 || 46 || 35 || 26
-|-
-| slsgr m/36C || 79 || 75 || 60 || 46 || 35 || 26
-|-
-| slhpgr m/43 || 66 || 62 || 48 || 34 || 25 || 18
-|-
-|}
+{{:lvakan m/36 (40 mm)/Ammunition|APC, HEFI-T, SAPHEI}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->

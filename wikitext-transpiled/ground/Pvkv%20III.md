@@ -80,43 +80,7 @@ With the 57 mm Pvkan m/43, the Pvkv III is a high threat to the enemy with the f
 * The slpgr m/43 (APHEBC) shell can penetrate up to 88 mm of armour at 10 m. It is effective at dealing with sloped armour with enough explosive filler capable of knocking out any vehicle in one hit.
 * The sgr m/43 is a HE shell and is most effective used on open-topped vehicles and low-flying planes.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| slpprj m/43 || AP || 101 || 97 || 81 || 65 || 52 || 42
-|-
-| sgr m/43 || HE || 8 || 8 || 8 || 8 || 8 || 8
-|-
-| slpgr m/43 || APHEBC || 88 || 86 || 78 || 69 || 61 || 53
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| slpprj m/43 || AP || 830 || 2.7 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| sgr m/43 || HE || 600 || 2.82 || 0 || 0.1 || 500 || 79° || 80° || 81°
-|-
-| slpgr m/43 || APHEBC || 850 || 2.51 || 1.2 || 9 || 60 || 48° || 63° || 71°
-|-
-|}
+{{:Pvkan m/43 (57 mm)/Ammunition|slpprj m/43, sgr m/43, slpgr m/43}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

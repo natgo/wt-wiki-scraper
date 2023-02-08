@@ -74,39 +74,7 @@ With only a vertical 50 mm armour plate at the front, even some rank I guns can 
 * '''PzGr 39''' - {{Annotation|APC|Armour-Piercing Capped}} - This is your main ammo type, use it whenever you think it has enough penetration to penetrate your target. It deals the most damage because of its explosive filler.
 * '''PzGr 40''' - {{Annotation|APCR|Armour-Piercing Composite Rigid}} - this variation of APCR is lighter, slightly faster and offers the best penetration (up to 132 mm). Use it against heavily armoured beasts. However, don't expect it to cause any real damage upon penetration. It only deals damage to modules/crew straight in its path, due to the fact that it has no explosive filler.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | '''Penetration @ 0° Angle of Attack (mm)'''
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| PzGr 39 || APC || 80 || 76 || 62 || 48 || 38 || 29
-|-
-| PzGr 40 || APCR || 116 || 107 || 74 || 47 || 30 || 19
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| PzGr 39 || APC || 685 || 2.05 || 1.2 || 9.0 || 28.9 || 48° || 63° || 71°
-|-
-| PzGr 40 || APCR || 1,050 || 0.9 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-|}
+{{:KwK L/42 (50 mm)/Ammunition|PzGr 39, PzGr 40}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks Pz.III J.png|right|thumb|x250px|[[Ammo racks]] of the Pz.III J (Identical to {{PAGENAME}}).]]

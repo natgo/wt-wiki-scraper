@@ -208,14 +208,15 @@ The ADATS is an excellent support vehicle, able to defend teammates from both en
 * High profile makes it hard to conceal, it is easily spotted
 * Can be destroyed if directly rammed by a plane
 * The three crew members are all situated within the hull, and can all be rendered unconscious if a shot penetrates the hull
-* The 25 mm autocannon can't reliably penetrate MBTs frontally
+* The 25 mm autocannon cannot reliably penetrate MBTs frontally
 * The missiles are essentially giant exposed ammo-racks
 * Lack of stabilizer makes firing on the move difficult and increases the time to aim the weapons when suddenly braking
 * Missiles cannot be fired on the move, only guided
-* Lacks turret stabilization
+* Lacks turret stabilization, also makes guiding missiles while on the move very difficult
 * No commander fire control
 * Vulnerable to the [[Damage mechanics#Overpressure|overpressure]] mechanic
 * ERA defeats the MIM146 ATGM
+* Requires the player to actually find and look at the intended aircraft to lock-on
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

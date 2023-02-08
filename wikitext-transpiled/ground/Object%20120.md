@@ -73,43 +73,7 @@ The Object 120 can be used at a close-range battle, but it will not be able to p
 ==== Ammunition ====
 The Object 120 is armed with three types of shells. The first is an APFSDS round that is capable of going through almost all the armour of most vehicles it can face. It also has an extremely low shell drop, giving almost flat ballistics, which makes it one of the best kinetic rounds at its battle rating. The second round is a HEATFS shell, which has a high penetration and holds a huge amount of explosive. It is slower and has a more standard shell drop. The HEATFS is a high-penetrating chemical round against thick conventional armour. The third is an HE shell with a huge amount of explosive. It is effective to destroy lightly armoured vehicles with overpressure.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 152 mm HEAT-FS || HEATFS || 480 || 480 || 480 || 480 || 480 || 480
-|-
-| 152 mm HE || HE || 49 || 49 || 49 || 49 || 49 || 49
-|-
-| 152 mm APDS-FS || APFSDS || 405 || 400 || 385 || 370 || 355 || 340
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 152 mm HEAT-FS || HEATFS || 1,000 || 35 || 0.05 || 0.1 || 5,850 || 65° || 72° || 77°
-|-
-| 152 mm HE || HE || 960 || 43.5 || 0 || 0.1 || 5,900 || 79° || 80° || 81°
-|-
-| 152 mm APDS-FS || APFSDS || 1,710 || 8 || N/A || N/A || N/A || 76° || 77° || 80°
-|-
-|}
+{{:M-69 (152 mm)/Ammunition|152 mm HEAT-FS, 152 mm HE, 152 mm APDS-FS}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

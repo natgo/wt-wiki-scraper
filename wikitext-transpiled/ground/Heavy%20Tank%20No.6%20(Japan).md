@@ -83,52 +83,12 @@ The Tiger I should be played more as a bulky medium tank rather than a heavy tan
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| PzGr 39 || APCBC || 165 || 162 || 151 || 138 || 127 || 117
-|-
-| Pzgr. || APCBC || 153 || 151 || 140 || 128 || 116 || 106
-|-
-| Hl.Gr 39 || HEAT || 110 || 110 || 110 || 110 || 110 || 110
-|-
-| Sprgr. L/4.5 || HE || 11 || 11 || 11 || 11 || 11 || 11
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| PzGr 39 || APCBC || 773 || 10.2 || 1.2 || 14 || 108.8 || 48° || 63° || 71°
-|-
-| Pzgr. || APCBC || 810 || 9.5 || 1.2 || 14 || 285.6 || 48° || 63° || 71°
-|-
-| Hl.Gr 39 || HEAT || 600 || 7.64 || 0 || 0.3 || 1,100 || 62° || 69° || 73°
-|-
-| Sprgr. L/4.5 || HE || 820 || 9 || 0 || 0.1 || 698 || 79° || 80° || 81°
-|-
-|}
+* '''PzGr 39''' - The go-to shell for all Tiger drivers as this is arguably the best. It will do incredible damage to any tank shot by it, except SPAA, or any extremely thin armoured vehicles. Heavier tanks like the IS-1, IS-2, or American heavy tanks are able to resist the round at longer ranges, but well placed shots from close range or sides will do the job. All other medium and light tanks will be history as soon as this shell make a contact with them. This shell, however, will almost always over-penetrate all but the most armoured SPAA vehicles, so it is best to use HE or machine gun fire on thin-skinned vehicles.
+* '''PzGr. ''' - This shell is also very useful. It has very similar characteristics as PzGr 39, but sacrifices some penetration for about 50% more Explosive Filler, meaning even more damage than already powerful PzGr 39. It is recommended to carry some of these shells and use them regularly, as the penetration is still enough to deal with most targets (at least when being downtiered), and switch to PzGr 39 when shooting targets far away, or those that are heavily armoured.
+* '''Sprgr. 39''' - The HE shell is completely ineffective against all but SPAA or the AI artillery on the Kursk and Ash River maps, and the machine gun mounted on the Tiger has proven quite capable of dealing with these. Keep a small supply of this shell on hand if planning to flank the enemy and take out their SPAA or artillery, but avoid them for everything else.
+* '''Hl.Gr. 39''' - On paper the HEAT rounds don't bring anything new to the table, however they can be used as a substitute for the HE shells due to the greater explosive mass and still gives you a fighting chance if you get caught with your pants down.
 
-* '''PzGr 39''' <br> The go-to shell for all Tiger drivers as this is arguably the best. It will do incredible damage to any tank shot by it, except SPAA, or any extremely thin armoured vehicles. Heavier tanks like the IS-1, IS-2, or American heavy tanks are able to resist the round at longer ranges, but well placed shots from close range or sides will do the job. All other medium and light tanks will be history as soon as this shell make a contact with them. This shell, however, will almost always over-penetrate all but the most armoured SPAA vehicles, so it is best to use HE or machine gun fire on thin-skinned vehicles.
-* '''PzGr ''' <br> This shell is also very useful. It has very similar characteristics as PzGr 39, but sacrifices some penetration for about 50% more Explosive Filler, meaning even more damage than already powerful PzGr 39. It is recommended to carry some of these shells and use them regularly, as the penetration is still enough to deal with most targets (at least when being downtiered), and switch to PzGr 39 when shooting targets far away, or those that are heavily armoured.
-* '''Sprgr. 39''' <br>The HE shell is completely ineffective against all but SPAA or the AI artillery on the Kursk and Ash River maps, and the machine gun mounted on the Tiger has proven quite capable of dealing with these. Keep a small supply of this shell on hand if planning to flank the enemy and take out their SPAA or artillery, but avoid them for everything else.
-* '''Hl.Gr. 39''' <br>On paper the HEAT rounds don't bring anything new to the table, however they can be used as a substitute for the HE shells due to the greater explosive mass and still gives you a fighting chance if you get caught with your pants down.
+{{:KwK36 (88 mm)/Ammunition|PzGr 39, Pzgr., Hl.Gr 39, Sprgr. L/4.5}}
 
 ==== [[Ammo racks]] ====
 <!-- '''Last updated:''' -->

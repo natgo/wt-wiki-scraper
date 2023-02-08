@@ -1172,7 +1172,7 @@
       "marketplace": "id50145_e_b_r__1963_france"
     },
     { "intname": "fr_somua_sm", "wikiname": "Somua SM", "store": "9313" },
-    { "intname": "fr_amx_50_1950" },
+    { "intname": "fr_amx_50_1950", "wikiname": "AMX-50 (TO90/930)" },
     {
       "intname": "fr_amx_50_surblinde",
       "wikiname": "AMX-50 Surblinde",
@@ -2453,7 +2453,7 @@
     },
     { "intname": "ro_57_quadriarma", "wikiname": "Ro.57 Quadriarma" },
     { "intname": "mc-202_d", "wikiname": "C. 202D" },
-    { "intname": "bf-109f-4_hungary" },
+    { "intname": "bf-109f-4_hungary", "wikiname": "Bf 109 F-4 (Italy)" },
     { "intname": "d_371", "wikiname": "D.371" },
     { "intname": "d_373", "wikiname": "D.373" },
     { "intname": "caudron_cr714", "wikiname": "C.R.714" },
@@ -2631,12 +2631,12 @@
       "wikiname": "Fokker D.XXI (Sweden)",
       "store": "9855"
     },
-    { "intname": "pyorremyrsky", "wikiname": "Pyörremyrsky" },
+    { "intname": "pyorremyrsky", "wikiname": "VL Pyörremyrsky" },
     { "intname": "bf-109g-6_finland", "wikiname": "Bf 109 G-6 (Sweden)" },
     { "intname": "saab_105oe", "wikiname": "SAAB-105OE" },
     { "intname": "saab_j29d", "wikiname": "J29D" },
     { "intname": "saab_j35a", "wikiname": "J35A", "store": "10409" },
-    { "intname": "saab_j35xs", "wikiname": "J35XS", "store": "11813" },
+    { "intname": "saab_j35xs", "wikiname": "Saab 35FS", "store": "11813" },
     { "intname": "vl_myrsky_2_late", "wikiname": "VL Myrsky II" },
     { "intname": "spitfire_mk9c_iaf", "wikiname": "Spitfire Mk IXc (Israel)" },
     {
@@ -2670,7 +2670,7 @@
     { "intname": "nesher", "wikiname": "Nesher" },
     {
       "intname": "spitfire_lf_mk9e_weisman",
-      "wikiname": "Spitfire LF Mk.IX Weizman's (Israel)",
+      "wikiname": "Spitfire LF Mk.IXe Weizman's (Israel)",
       "store": "10590"
     },
     { "intname": "f-84f_israel_iaf", "wikiname": "F-84F (Israel)" },

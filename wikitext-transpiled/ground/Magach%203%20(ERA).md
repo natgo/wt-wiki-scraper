@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=il_magach_3
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|GarageImage_{{PAGENAME}}_AddArmour.jpg}}
 }}
 
 == Description ==
@@ -18,26 +18,35 @@ First introduced in the [[Magach_3_(USA)|United States tech tree]], the Magach 3
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+'''Armour type:'''
 
-'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
-<!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
-* Cast homogeneous armour (Turret, Transmission area) -->
+*Cast homogeneous armour (Front hull, Turret)
+*Rolled homogeneous armour (Side, Rear, Roof)
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 85-200 mm (59-74°) ''Front glacis'' <br> 63-200 mm (13-60°) ''Lower glacis'' || 76 mm (0-44°) ''Front'' <br> 51 mm (0-44°) ''Rear'' || 30 mm (0-3°) ''Top'' <br> 25 mm (26-59°) ''Bottom'' || 57 mm ''Front'' <br> 20 mm ''Rear''
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+| Turret || 105-128 mm (6-71°) ''Turret front'' <br> 152 mm (3-28°) ''Gun mantlet'' || 66-97 mm (2-46°) || 45-50 mm (4-55°) <br> 25.4 mm (70-71°) ''Turret underside'' || 24-65 mm
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Cupola || 70 mm || 70 mm || 70 mm || 30 mm
 |-
 |}
+{| class="wikitable"
+|-
+! Special armour* !! Kinetic !! Chemical
+|-
+| ERA || 5 mm || 260 mm
+|-
+|}
+'''Notes:'''
 
-'''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
-<!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+* Suspension wheels and tracks are 20 mm thick.
+* Belly armour is 38 mm in the front and 25 mm in the rear.
+* Rangefinder device on the turret sides count as 127 mm cast armour.
+* ERA can be attached on turret and front hull via modification.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -143,6 +152,7 @@ Both machine guns are rifle caliber and are not much help against ground targets
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_magach_3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

@@ -89,43 +89,7 @@ The {{PAGENAME}} has access to the DM53 APFSDS, a high penetrating APFSDS shell.
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| DM12A1 || HEATFS || 480 || 480 || 480 || 480 || 480 || 480
-|-
-| DM33 || APFSDS || 496 || 494 || 486 || 476 || 466 || 456
-|-
-| DM53 || APFSDS || 652 || 650 || 640 || 628 || 616 || 604
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| DM12A1 || HEATFS || 1,190 || 13.5 || 0.05 || 0.1 || 2,150 || 65° || 72° || 77°
-|-
-| DM33 || APFSDS || 1,690 || 4.3 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-| DM53 || APFSDS || 1,750 || 5 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
+{{:Rh120 L/55 (120 mm)/Ammunition|DM12A1, DM33, DM53}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -183,7 +147,7 @@ The {{PAGENAME}} retains almost the same mobility and exactly the same armour as
 *Have your headphones on and watch out for engine sounds. They can give you a heads up against an enemy coming close that you don't see yet.
 *In close quarters, any vehicle at your BR can penetrate you and so can you. Don't rush around mindlessly and pay attention to your surroundings.
 *Sticking around your teammates can improve your lifespan.
-*Since you can get penetrated easily from the front, ou always have to shoot first to win. You need to be especially careful against Swedish Leopards and all Russian T-series tanks at your BR, since you have to aim for their weak spots more precisely than they need to aim at yours. If they manage to shoot you anywhere in the hull or the mantlet area, you have a problem. Meanwhile, you have to aim at the driver's hatch of T-series or the mantlet from the front and in the case of Strv 122s, only the mantlet is a reliable way of disabling them from the front.
+*Since you can get penetrated easily from the front, you always have to shoot first to win. You need to be especially careful against Swedish Leopards and all Russian T-series tanks at your BR, since you have to aim for their weak spots more precisely than they need to aim at yours. If they manage to shoot you anywhere in the hull or the mantlet area, you have a problem. Meanwhile, you have to aim at the driver's hatch of T-series or the mantlet from the front and in the case of Strv 122s, only the mantlet is a reliable way of disabling them from the front.
 *Never, ever peek around a corner if the enemy behind it is aiming at the corner. Your chances of shooting first are slim to none and you will most likely die.
 *If uneven terrain such as a hill separates you and there is an enemy vehicle that is aware of you and aiming at you, you can peek first, provided you do it properly - don't use gunner's sight. Use 3rd person view and aim with the center of the outer crosshair circle directly at their mantlet area. Then, peek as fast as you can and as soon as you see the inner crosshair circle connect with what you are aiming at, take the shot immediately. When you learn to do this quickly enough, you will always win in this situation against any vehicle you face.
 *If an enemy vehicle is rushing at you and going to peek around a corner, let them. You can easily shoot faster than they do.

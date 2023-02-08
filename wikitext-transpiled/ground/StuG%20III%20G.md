@@ -101,61 +101,7 @@ The ammunition available to the {{PAGENAME}} allows for engaging all types of ta
 * '''Sprgr. 34''': HE; a high explosive round useful for destroying open-topped and lightly armoured vehicles. It is recommended to take a few of these as you don't have a coaxial weapon for use against lightly armoured targets.
 * '''K.Gr.Rot Nb.''': Smoke; an obscuring shell useful for blinding enemy vehicles that are too remote for you to disable so that you can progress towards objectives. They can also be used defensively, fired in front of you to hide behind or fired ahead of friendly forces to cover their manoeuvres. While the shell is able to kill crew members directly and damage aircraft, it is not recommended to use these to try to kill enemy vehicles.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| PzGr 39 || APCBC || 145 || 143 || 130 || 116 || 104 || 93
-|-
-| Hl.Gr 38B || HEAT || 80 || 80 || 80 || 80 || 80 || 80
-|-
-| PzGr 40 || APCR || 182 || 177 || 159 || 140 || 122 || 107
-|-
-| Sprgr. 34 || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| PzGr 39 || APCBC || 770 || 6.8 || 1.2 || 14 || 28.9 || 48° || 63° || 71°
-|-
-| Hl.Gr 38B || HEAT || 450 || 4.4 || 0.05 || 0.1 || 872.1 || 62° || 69° || 73°
-|-
-| PzGr 40 || APCR || 990 || 4.1 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-| Sprgr. 34 || HE || 550 || 5.74 || 0 || 0.1 || 686 || 79° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive mass<br>(TNT equivalent) (g)
-|-
-| K.Gr.Rot Nb. || 540 || 6.2 || 13 || 5 || 20 || 50
-|-
-|}
+{{:StuK40 L48 (75 mm)/Ammunition|PzGr 39, Hl.Gr 38B, PzGr 40, Sprgr. 34, K.Gr.Rot Nb.}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

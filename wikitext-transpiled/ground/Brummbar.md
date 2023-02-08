@@ -90,39 +90,7 @@ The 150 mm howitzer offers 2 ammunition types, a HE shell and a HEAT shell.
 * '''I.Gr.38; HE:''' recommended primary shell choice. this HE packs 8.6 kg of explosives, one of the most explosive shell in game, which is extremely fatal against all tanks. It can knock out all light, medium tanks and SPAAs with a single shot, and most heavy tanks and tank destroyers, or even modern MBTs if hit properly. Its shrapnel can also cripple or destroy thinly armoured/unarmoured vehicles when exploding nearby. However, if there are no thin armour around the hit point, it will most likely cause zero damage.
 * '''I.Gr.39 HI/A; HEAT:''' secondary choice, recommended to only bring less than 5 rounds. It has an impressive 185 mm penetration, but the fact that most tanks the Brummbär faces have less than 100 mm of armour makes this shell an overkill. However if you plan to bring this tank to a higher BR, it might become handy. It will be able to penetrate tanks like M4A3E2, M6A1, Churchill VII easily. But the nature of HEAT gives it a small post-penetration damage, and only the things directly in its path will be affected. This requires you to accurately hit exactly what you want to disable. This HEAT also has a slightly less curved trajectory than the HE, as well as a slightly faster velocity.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| I.Gr.38 || HE || 61 || 61 || 61 || 61 || 61 || 61
-|-
-| I.Gr.39 HI/A || HEAT || 185 || 185 || 185 || 185 || 185 || 185
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| I.Gr.38 || HE || 240 || 38 || 0 || 0.1 || 8,600 || 79° || 80° || 81°
-|-
-| I.Gr.39 HI/A || HEAT || 280 || 24.58 || 0.05 || 0.1 || 5,320 || 62° || 69° || 73°
-|-
-|}
+{{:Stu.H 43 L/12 (150 mm)/Ammunition|I.Gr.38, I.Gr.39 HI/A}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

@@ -110,40 +110,7 @@ Missiles can fly up to 6 km before running out of fuel. It makes them useful aga
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 9M123 || ATGM (tandem) || 1,200 || 1,200 || 1,200 || 1,200 || 1,200 || 1,200
-|-
-| 9M123F || ATGM-HE || 61 || 61 || 61 || 61 || 61 || 61
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="11" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 9M123 || ATGM (tandem) || 550 || 6,000 || 46 || 0.4 || 0.01 || 6,160 || 80° || 82° || 90°
-|-
-| 9M123F || ATGM-HE || 550 || 6,000 || 46 || 0.2 || 0.01 || 9,240 || 79° || 80° || 81°
-|-
-|}
+{{:9M123/Ammunition|9M123, 9M123F}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

@@ -17,9 +17,9 @@ The N.C.223.3 is made distinctive with its push-pull engine configuration, stack
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 Despite having the appearance of a flying barn, the N.C.223.3 is a surprisingly smooth flyer. While the overall top speed is still low at only 400 km/h, in a level flight, the plane is capable of reaching a speed above 300 km/h relatively quickly and maintain its energy and climb rate quite well. Combined with its high-altitude heavy bomber spawn, this results in the plane being quite hard to catch by most planes it will have to face, even in uptiers, and allows you to travel far enough to drop your payload before the enemy reaches you.
 
-In case some enemy pilot manages to reach your altitude, however, the N.C.223.3 still has a trick up its sleeves; manoverability. Thanks to the redesigned wings and the addition of flaps, the plane has a better turn rate than the other heavy or even some medium bombers at its rank. This will allow you to face your powerful defensive armaments at the enemy and either deter them from pursuing further, or to get your guns on the target easier.
+In case some enemy pilot manages to reach your altitude, however, the N.C.223.3 still has a trick up its sleeves; manoeuvrability. Thanks to the redesigned wings and the addition of flaps, the plane has a better turn rate than the other heavy or even some medium bombers at its rank. This will allow you to face your powerful defensive armaments at the enemy and either deter them from pursuing further, or to get your guns on the target easier.
 
-It should be remembered that, while the plane is quite agile for its size, the N.C.223.3 is still a heavy bomber. This means the usual limitations such as poor manoverability at high speed, poor roll rate, and bad sustained energy retention still applies to the plane itself. Keep that in mind and you will be able to push this lumbering plane to its fullest.
+It should be remembered that, while the plane is quite agile for its size, the N.C.223.3 is still a heavy bomber. This means the usual limitations such as poor manoeuvrability at high speed, poor roll rate, and bad sustained energy retention still applies to the plane itself. Keep that in mind and you will be able to push this lumbering plane to its fullest.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -87,7 +87,7 @@ The N.C.223.3 retains its durability from its predecessor. The airframe can take
 === Modifications and economy ===
 {{Specs-Economy}}
 
-As the stock payload is highly effective, one may start at upgrading the plane's flight performance to improve the plane's manoverability and speed. Then unlock the ammo belt and turret upgrade for the Hispano cannons to increase their effectiveness. The extra bombload is optional but can be considered. Due to its poor firepower, upgrades for the frontal machine gun turret can be skipped.
+As the stock payload is highly effective, one may start at upgrading the plane's flight performance to improve the plane's manoeuvrability and speed. Then unlock the ammo belt and turret upgrade for the Hispano cannons to increase their effectiveness. The extra bombload is optional but can be considered. Due to its poor firepower, upgrades for the frontal machine gun turret can be skipped.
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
@@ -154,7 +154,7 @@ Like its predecessor, the [[F.222.2]], the N.C.223.3 is a heavy hitting bomber w
 '''Cons:'''
 * Huge size with lack of armour made the plane easy to spot and were prone to pilot snipes
 * Low overall top speed, manoeuvrability stiffens at high speeds
-* While the plane can do some sharp turns, in doing so will bleed a considerable amount of energy, especially with vertical manovers
+* While the plane can do some sharp turns, in doing so will bleed a considerable amount of energy, especially with vertical manoeuvres
 * Poor frontal defensive firepower, highly vulnerable in head-on engagements
 * Low ammunition count for the 20 mm turrets, with very long reload time
 * Several blind spots around the plane's defense, especially the tail and vertical positions

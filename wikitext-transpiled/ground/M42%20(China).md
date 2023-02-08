@@ -85,40 +85,7 @@ Since the reload speed is so fast, it is very easy to switch between belts even 
 * '''Mk.II:''' {{Annotation|FI-T*|Fragmentation incendiary tracer (self-destroying)}} - These mean bad news for aircraft, what should be used for AA work.
 * '''M81A1:''' {{Annotation|AP-T|Armour-piercing tracer}} - These are the worst belts against airplanes. However, they are able to hurt ground vehicles especially if shot into the side of an enemy tank. If you plan on penetrating tanks, load this and flank, since side shots are almost a necessity.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 72 || 69 || 58 || 46 || 37 || 29
-|-
-| Mk.II || 3 || 3 || 3 || 3 || 3 || 3
-|-
-| M81A1 || 72 || 69 || 58 || 46 || 37 || 29
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Belt details
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Mk.II || FI-T* || 874 || 0.83 || 0 || 0.1 || 63 || 79° || 80° || 81°
-|-
-| M81A1 || AP-T || 875 || 0.88 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-|}
+{{:Dual Automatic Gun M2 (40 mm)/Ammunition|Mk.II, M81A1}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_M42.png|right|thumb|x250px|[[Ammo racks]] of the M42 Duster.]]

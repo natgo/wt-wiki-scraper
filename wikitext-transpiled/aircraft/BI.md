@@ -248,7 +248,7 @@ File:BI WTWallpaper 006.jpg|
 </gallery>
 
 ;Videos
-{{Youtube-gallery|2NgpHefq0hc|'''Rocket Planes''' discusses the {{PAGENAME}} at 00:40 - ''War Thunder Official Channel''|INb9VjLxKf0|'''Most unusual aircraft''' discusses the {{PAGENAME}} at 3:44 - ''War Thunder Official Channel''|WP9ouDTV81Q|'''A {{PAGENAME}}... to fly''' - ''Napalmratte''|llVOukVt1A4|'''The Shooting Range #218''' - ''Metal Beasts'' section at 00:28 discusses the {{PAGENAME}}.}}
+{{Youtube-gallery|2NgpHefq0hc|'''Rocket Planes''' discusses the {{PAGENAME}} at 00:40 - ''War Thunder Official Channel''|INb9VjLxKf0|'''Most unusual aircraft''' discusses the {{PAGENAME}} at 3:44 - ''War Thunder Official Channel''|WP9ouDTV81Q|'''A {{PAGENAME}}... to fly''' - ''Napalmratte''|llVOukVt1A4|'''The Shooting Range #218''' - ''Metal Beasts'' section at 00:28 discusses the {{PAGENAME}}.|Xbo38TOUWy4|'''🅱️i video''' - ''Rulo6000''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

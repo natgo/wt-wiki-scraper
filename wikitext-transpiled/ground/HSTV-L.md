@@ -180,7 +180,8 @@ The HSTV-L is better suited to firing at enemies without their noticing--from am
 * Due to its light armour some kinetic rounds may over penetrate, leaving it undamaged
 * Excellent in urban combat where side shots are much more effective
 * Internal 5 mm armour can help protect crew from spalling
-* Thermal sights for both the gunner and the commander make it a great scouting vehicle
+* Thermal sights for both the gunner and the commander make it a great scouting vehicle especially with its scout UAV, also with thermals
+** Its scout UAV has better thermals than the HSTV-L itself
 * Up to 45° elevation and -30° depression over the sides (-17° depression to the front, -6° depression when facing rear)
 * Very good gun handling
 * Turret has only one crew member, the commander, and the breech is small

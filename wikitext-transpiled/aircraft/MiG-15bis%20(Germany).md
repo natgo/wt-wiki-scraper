@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=mig-15bis_nr23_german
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==

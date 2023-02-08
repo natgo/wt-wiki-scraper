@@ -71,47 +71,7 @@ The 50 mm PaK38 is probably the best gun you can find at this battle rating. The
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| PzGr 39 || APC || 106 || 101 || 83 || 65 || 50 || 39
-|-
-| PzGr 40/1 || APCR || 130 || 121 || 90 || 62 || 43 || 29
-|-
-| PzGr 40 || APCR || 137 || 126 || 88 || 56 || 36 || 23
-|-
-| Sprgr. 38 || HE || 5 || 5 || 5 || 5 || 5 || 5
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| PzGr 39 || APC || 835 || 2.05 || 1.2 || 9 || 28.9 || 48° || 63° || 71°
-|-
-| PzGr 40/1 || APCR || 1,130 || 1.07 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-| PzGr 40 || APCR || 1,180 || 0.9 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-| Sprgr. 38 || HE || 870 || 1.82 || 0 || 0.1 || 217.6 || 79° || 80° || 81°
-|-
-|}
+{{:PaK38 (50 mm)/Ammunition|PzGr 39, PzGr 40/1, PzGr 40, Sprgr. 38}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

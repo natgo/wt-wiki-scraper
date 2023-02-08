@@ -78,61 +78,7 @@ The best way to deal with this tank is to immobilize it while sitting outisde of
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| PzGr 39 || APCBC || 151 || 148 || 135 || 121 || 108 || 96
-|-
-| Hl.Gr 38B || HEAT || 80 || 80 || 80 || 80 || 80 || 80
-|-
-| PzGr 40 || APCR || 182 || 177 || 159 || 140 || 122 || 107
-|-
-| Sprgr. 34 || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| PzGr 39 || APCBC || 792 || 6.8 || 1.2 || 14 || 28.9 || 48° || 63° || 71°
-|-
-| Hl.Gr 38B || HEAT || 450 || 4.4 || 0.05 || 0.1 || 872.1 || 62° || 69° || 73°
-|-
-| PzGr 40 || APCR || 990 || 4.1 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-| Sprgr. 34 || HE || 550 || 5.74 || 0 || 0.1 || 686 || 79° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| K.Gr.Rot Nb. || 540 || 6.2 || 13 || 5 || 20 || 50
-|-
-|}
+{{:PaK40/3 L46 (75 mm)/Ammunition|PzGr 39, Hl.Gr 38B, PzGr 40, K.Gr.Rot Nb., Sprgr. 34}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Sd.Kfz.2344.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

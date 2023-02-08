@@ -8,7 +8,7 @@
 }}
 {{Specs-Card
 |code=germ_bmp_1_ddr
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png|ArtImage2_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|GarageImage_SPz_BMP-1P.jpg|ArtImage_{{PAGENAME}}.png|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -60,7 +60,7 @@ Despite the lack of armour, however, the SPz BMP-1 will, on occasion, survive hi
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|2A28 (73 mm)}}
 
-The 2A28 main cannon, despite being the 'main' armament will more often than not act more as secondary armament, at least once the BMP-1P upgrade is researched, due to the 9M113 ATGM proving significantly more controllable and effective at all engagement ranges. Despite this, the PG-9 HEAT round proves valuable in a pinch, with well-placed shots able to disable critical components on most vehicles the {{PAGENAME}} will face. Keep in mind that the {{PAGENAME}} does not feature any sort of stabilisation at all, and due to its light weight the gun is near impossible to get on target at speed.
+The 2A28 main cannon, despite being the 'main' armament will more often than not act more as secondary armament, at least once the BMP-1P upgrade is researched, due to the 9M113 ATGM proving significantly more controllable and effective at all engagement ranges. Despite this, the PG-9 HEAT round proves valuable in a pinch, with well-placed shots able to disable critical components on most vehicles the {{PAGENAME}} will face. Keep in mind that the {{PAGENAME}} does not feature any sort of stabilisation at all, and due to its light weight, the gun is near impossible to get on target at speed.
 
 The main cannon's primary drawback is its mediocre ballistic performance, with the HEAT round travelling at only 665 m/s and the HE round travelling at an abysmal 290 m/s.
 
@@ -83,43 +83,11 @@ The main cannon's primary drawback is its mediocre ballistic performance, with t
 ==== Ammunition ====
 When stock, all available ammunition for the weapon are unlocked - HEAT and HE.
 
-Between the two, HE should be avoided as it only has 11 mm of penetration and 290 m/sec muzzle velocity. While the HEAT round has only 670 m/sec velocity,with some training it can be shot at targets over 1 km reliably.
+Between the two, HE should be avoided as it only has 11 mm of penetration and 290 m/sec muzzle velocity. While the HEAT round has only 670 m/sec velocity, with some training it can be shot at targets over 1 km reliably.
 
 The HEAT round has 300 mm penetration and very good damage output, single-shot destruction can be achieved quite often when shooting center mass, although larger tanks might give you some headache as they sometimes survive multiple shots.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| PG-9 || HEAT || 300 || 300 || 300 || 300 || 300 || 300
-|-
-| OG-9 || HE || 11 || 11 || 11 || 11 || 11 || 11
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| PG-9 || HEAT || 665 || 2.6 || 0 || 0.01 || 1,130 || 65° || 72° || 77°
-|-
-| OG-9 || HE || 290 || 3.7 || 0 || 0.1 || 735 || 79° || 80° || 81°
-|-
-|}
+{{:2A28 (73 mm)/Ammunition|PG-9, OG-9}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_BMP-1.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -145,7 +113,7 @@ The HEAT round has 300 mm penetration and very good damage output, single-shot d
 {{main|9M14|9M113 Konkurs}}
 '''9M14'''
 
-The {{PAGENAME}} comes with a rail-mounted manually-guided ATGM as stock, initially aimed manually and with somewhat mediocre penetration and explosive mass values. While occasionally useful, generally the main gun is easier and more reliable to use.
+The {{PAGENAME}} comes with a rail-mounted manually guided ATGM as stock, initially aimed manually and with somewhat mediocre penetration and explosive mass values. While occasionally useful, generally the main gun is easier and more reliable to use.
 
 While stock, the {{PAGENAME}} is equipped with 9M14 missiles that penetrate 400 mm of armour. These missiles are first-generation, which means they cannot be aimed with the mouse pointer and are instead aimed with the WASD keys. However, the "BMP-1P" modification, when unlocked, will give the vehicle access to four more lethal 9M113 Konkurs missiles.
 
@@ -185,39 +153,8 @@ Once the BMP-1P upgrade is researched, the rail-mounted 9M14 ATGM is replaced wi
 * The vertical and horizontal traverse depend on the turret position and are only relevant to the 9M113 ATGM.
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 9M14 || ATGM || 400 || 400 || 400 || 400 || 400 || 400
-|-
-| 9M113 || ATGM || 500 || 500 || 500 || 500 || 500 || 500
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 9M14 || ATGM || 140 || 10.9 || 0.05 || 0.1 || 4,000 || 80° || 82° || 90°
-|-
-| 9M113 || ATGM || 248 || 14.5 || 0.05 || 0.1 || 4,230 || 80° || 82° || 90°
-|-
-|}
+{{:9M14/Ammunition|9M14}}
+{{:9M113 Konkurs/Ammunition|9M113}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_BMP-1.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -243,7 +180,7 @@ Once the BMP-1P upgrade is researched, the rail-mounted 9M14 ATGM is replaced wi
 
 The {{PAGENAME}} comes equipped with a coaxial 7.62 mm PKT machine gun. This is only useful for clearing small obstacles or exposed crew in open-topped vehicles. The {{PAGENAME}} is only equipped with one PKT machine gun with an ammo reserve of 1,000 rounds.
 
-It's not useful and cannot aim at air targets due to the coaxial mount. As such, it should only be used on vehicles with soft armour like trucks or at exposed crew members, or just annoy enemies with it. In RB and SB it can be used to throw up dirt in front of an enemy vehicle in order to blind them temporary.
+It's not useful and cannot aim at air targets due to the coaxial mount. As such, it should only be used on vehicles with soft armour like trucks or at exposed crew members, or just annoy enemies with it. In RB and SB, it can be used to throw up dirt in front of an enemy vehicle in order to blind them temporary.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -258,9 +195,9 @@ It's not useful and cannot aim at air targets due to the coaxial mount. As such,
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-The BMP-1 is quite distinctive due to its oddly-shaped hull. The vehicle is crewed by only three (no commander), but is very spacious, so shots from the side occasionally cause minimal or even no damage. The BMP-1 is equipped with a short-barreled 73 mm gun (an odd calibre) firing exclusively anti-tank grenades. The projectile drop is extreme, albeit not the worst in-game, and it can be used to great effect against many of the vehicles the BMP will face due to the consistent 300 mm of penetration at range. The standard PG-9 ammunition has an explosive mass of about 1.25 kg. The trade-off, in this case, is the low velocity and relatively poor slope characteristics (the penetration drop in half if more than 60 degrees of slope). Finally, as standard, the BMP-1 is equipped with the 9M14 ATGM, capable of penetrating 400 mm and carrying an explosive mass of 2.6 kg. It is WASD guided, and therefore somewhat tricky to use at first (and ''especially'' difficult to use in high packet-loss or high ping matches). An optional modification for the BMP-1 allows it to use turret-mounted smoke grenades as well as a next-generation missile, the 9M113. The BMP-1 (as of 1.77.2.149) is the earliest vehicle in-game to be able to use a SACLOS (mouse-guided) system for an ATGM. Not only is the missile nearly twice as fast as the 9M14, but it carries a notably larger explosive payload, and can penetrate up to 600 mm at 90 degrees at any range. As of 1.91, the BMP-1 can research NVD, which can help during night battles to help with visibility. NVD is available in commander, gunner, driver and outside viewports. Once purchased, the NVD modification also allows the use of a Infrared Spotlight to help illuminate targets if they are hard to see. However, it is mounted to the commander's hatch on the hull; while this allows it to rotate as long as the commander is alive, it will be stuck in place if the commander is knocked out.
+The BMP-1 is quite distinctive due to its oddly-shaped hull. The vehicle is crewed by only three (no commander), but is very spacious, so shots from the side occasionally cause minimal or even no damage. The BMP-1 is equipped with a short-barreled 73 mm gun (an odd calibre) firing exclusively anti-tank grenades. The projectile drop is extreme, albeit not the worst in-game, and it can be used to great effect against many of the vehicles the BMP will face due to the consistent 300 mm of penetration at range. The standard PG-9 ammunition has an explosive mass of about 1.25 kg. The trade-off, in this case, is the low velocity and relatively poor slope characteristics (the penetration drops in half if more than 60 degrees of slope). Finally, as standard, the BMP-1 is equipped with the 9M14 ATGM, capable of penetrating 400 mm and carrying an explosive mass of 2.6 kg. It is WASD guided, and therefore somewhat tricky to use at first (and ''especially'' difficult to use in high packet-loss or high ping matches). An optional modification for the BMP-1 allows it to use turret-mounted smoke grenades as well as a next-generation missile, the 9M113. The BMP-1 (as of 1.77.2.149) is the earliest vehicle in-game to be able to use a SACLOS (mouse-guided) system for an ATGM. Not only is the missile nearly twice as fast as the 9M14, but it carries a notably larger explosive payload, and can penetrate up to 600 mm at 90 degrees at any range. As of 1.91, the BMP-1 can research NVD, which can help during night battles to help with visibility. NVD is available in commander, gunner, driver and outside viewports. Once purchased, the NVD modification also allows the use of a Infrared Spotlight to help illuminate targets if they are hard to see. However, it is mounted to the commander's hatch on the hull; while this allows it to rotate as long as the commander is alive, it will be stuck in place if the commander is knocked out.
 
-Due to its nearly non-existent armour, the BMP-1 shouldn't be played like anything with actual armour. It is best used in a support or ambush role, using cover to ambush opponents, then taking them out with the combination of the autocannon and ATGM. The BMP-1 is quite effective when played this way. When in close-quarters combat, it is important to note that the missile launcher has slightly faster traverse than the turret. This can save it from being killed from the flanks. It can also be used to take out opponents from medium to long range with its missiles, although this strategy will prevent the BMP-1 from using its main gun. The small projectiles lose even more of their already small penetration at long ranges, but the missiles will not be affected by gravity or air resistance until very extreme ranges. Finally the missiles and sometimes the autocannon can be used to take out slow air targets such as the helicopters that you will start to meet at these BR's.
+Due to its nearly non-existent armour, the BMP-1 shouldn't be played like anything with actual armour. It is best used in a support or ambush role, using cover to ambush opponents, then taking them out with the combination of the autocannon and ATGM. The BMP-1 is quite effective when played this way. When in close-quarters combat, it is important to note that the missile launcher has slightly faster traverse than the turret. This can save it from being killed from the flanks. It can also be used to take out opponents from medium to long range with its missiles, although this strategy will prevent the BMP-1 from using its main gun. The small projectiles lose even more of their already small penetration at long ranges, but the missiles will not be affected by gravity or air resistance until very extreme ranges. Finally, the missiles and sometimes the autocannon can be used to take out slow air targets such as the helicopters that you will start to meet at these BR's.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -280,7 +217,7 @@ Due to its nearly non-existent armour, the BMP-1 shouldn't be played like anythi
 * Chemical ammunition only, may struggle to damage vehicles with ERA like the [[M60A1 RISE (P)]]
 * All available ammunition is hyper-sensitive and will detonate on hitting light obstacles such as fences or bushes
 * Somewhat large silhouette for a light tank. Will get seen and shot at easier
-* Minimal gun depression makes it struggle in hills
+* Minimal gun depression makes it struggle on hills
 * Has no stabiliser, accurate shots on the move or in water are often not possible
 * Only three crew members, two of whom sit extremely close together, reducing the vehicle's survivability
 * Vulnerable to heavy machine gun and light cannon fire, particularly from the sides or top. SPAA like the [[Gepard]] are a big threat
@@ -296,7 +233,7 @@ In the 1950s, Soviet armoured personnel carrier (APC) tactics consisted of light
 
 '''Design'''
 
-The BMP-1 features a fully tracked hull, with a sharply angled glacis at the front, a centrally mounted turret, and a crew compartment in the rear of the hull, with doors for the infantry to mount and dismount the vehicle. The hull layout is as follows: the engine was in the front right section of the hull. The driver sat to the front left of the vehicle, the commander sat right behind the driver, and the gunner sat in the right side of the turret. The troop compartment located at the rear of the vehicle could seat 8 infantry soldiers. The ability to fire from inside the vehicle was provided by four firing ports on each side of the hull and one in the left door. There are also four hatches in the roof. The infantry sit on two benches with padding, back to back, facing the outer sides of the vehicle. The armour of the frontal arc is enough to generally protect against 20 mm autocannon fire, the side armour generally protects against 12.7 mm machine gun fire, and the roof and rear armour protects against small arms fire and shell fragments. In addition, the sloped glacis on the front of the hull also increased the chances of shells bouncing, because of the extreme angles. The protection level depended somewhat on the version of the BMP-1 in question, as different nations had differing levels of armour quality. The main armament consisted of a 73 mm 2A28 Grom smoothbore semi-automatic cannon, along with a 9M14 Malyutka anti-tank guided missile (ATGM). Secondary armament consisted of a 7.62 mm PKT machine gun. The engine provides 300 hp, and is a six-cylinder four-stroke diesel engine. The suspension system used was a torsion bar suspension system. The BMP-1 is fully amphibious with little preparation. Before entering the water a trim vane has to be raised, which provides additional frontal armour when in the lowered position. It can achieve 65 km/h (40 mph) on road and 8 km/h (5 mph) in water.
+The BMP-1 features a fully tracked hull, with a sharply angled glacis at the front, a centrally mounted turret, and a crew compartment in the rear of the hull, with doors for the infantry to mount and dismount the vehicle. The hull layout is as follows: the engine was in the front right section of the hull. The driver sat to the front left of the vehicle, the commander sat right behind the driver, and the gunner sat in the right side of the turret. The troop compartment located at the rear of the vehicle could seat 8 infantry soldiers. The ability to fire from inside the vehicle was provided by four firing ports on each side of the hull and one in the left door. There are also four hatches in the roof. The infantry sit on two benches with padding, back-to-back, facing the outer sides of the vehicle. The armour of the frontal arc is enough to generally protect against 20 mm autocannon fire, the side armour generally protects against 12.7 mm machine gun fire, and the roof and rear armour protects against small arms fire and shell fragments. In addition, the sloped glacis on the front of the hull also increased the chances of shells bouncing, because of the extreme angles. The protection level depended somewhat on the version of the BMP-1 in question, as different nations had differing levels of armour quality. The main armament consisted of a 73 mm 2A28 Grom smoothbore semi-automatic cannon, along with a 9M14 Malyutka anti-tank guided missile (ATGM). Secondary armament consisted of a 7.62 mm PKT machine gun. The engine provides 300 hp and is a six-cylinder four-stroke diesel engine. The suspension system used was a torsion bar suspension system. The BMP-1 is fully amphibious with little preparation. Before entering the water, a trim vane has to be raised, which provides additional frontal armour when in the lowered position. It can achieve 65 km/h (40 mph) on road and 8 km/h (5 mph) in water.
 
 '''Production and Service'''
 
@@ -337,6 +274,7 @@ In 1974, East Germany ordered 1,133 BMP-1, and they were delivered between 1973 
 === References ===
 
 ;Bibliography
+
 * David B. (2015, December 1). BMP-1. Tank Encyclopedia. https://tanks-encyclopedia.com/coldwar/USSR/soviet_BMP-1.php
 * BMP-1. (2020, March 25). In ''Wikipedia''. https://en.wikipedia.org/w/index.php?title=BMP-1&oldid=947316322
 

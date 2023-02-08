@@ -2611,7 +2611,7 @@
       "wikiname": "Fokker D.XXI (Sweden)",
       "store": "9855"
     },
-    { "intname": "pyorremyrsky", "wikiname": "Pyörremyrsky" },
+    { "intname": "pyorremyrsky", "wikiname": "VL Pyörremyrsky" },
     { "intname": "bf-109g-6_finland", "wikiname": "Bf 109 G-6 (Sweden)" },
     { "intname": "saab_105oe", "wikiname": "SAAB-105OE" },
     { "intname": "saab_j29d", "wikiname": "J29D" },
@@ -2650,7 +2650,7 @@
     { "intname": "nesher", "wikiname": "Nesher" },
     {
       "intname": "spitfire_lf_mk9e_weisman",
-      "wikiname": "Spitfire LF Mk.IX Weizman's (Israel)",
+      "wikiname": "Spitfire LF Mk.IXe Weizman's (Israel)",
       "store": "10590"
     },
     { "intname": "f-84f_israel_iaf", "wikiname": "F-84F (Israel)" },

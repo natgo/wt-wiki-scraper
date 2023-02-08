@@ -79,51 +79,7 @@ The ZTZ59A has exactly the same mobility characteristics as the Type 59, with th
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| BR-412 || APHE || 218 || 212 || 190 || 164 || 143 || 124
-|-
-| BR-412D || APCBC || 239 || 236 || 220 || 202 || 186 || 170
-|-
-| Type 1959 APDS || APDS || 299 || 298 || 291 || 272 || 253 || 249
-|-
-| Type 1973 HEAT-FS || HEATFS || 390 || 390 || 390 || 390 || 390 || 390
-|-
-| OF-412 || HE || 19 || 19 || 19 || 19 || 19 || 19
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| BR-412 || APHE || 895 || 15.9 || 1.2 || 19 || 100.1 || 47° || 60° || 65°
-|-
-| BR-412D || APCBC || 887 || 15.9 || 1.2 || 19 || 93.94 || 48° || 63° || 71°
-|-
-| Type 1959 APDS || APDS || 1,432 || 3.18 || N/A || N/A || N/A || 75° || 78° || 80°
-|-
-| Type 1973 HEAT-FS || HEATFS || 1,000 || 10.05 || 0.05 || 0.1 || 1,180 || 65° || 72° || 77°
-|-
-| OF-412 || HE || 900 || 15.6 || 0 || 0.1 || 1,460 || 79° || 80° || 81°
-|-
-|}
+{{:Type 59 (100 mm)/Ammunition|BR-412, BR-412D, Type 1959 APDS, Type 1973 HEAT-FS, OF-412}}
 
 The ZTZ59A's ammo selection is mostly identical to the Type 59. As usual, the BR-412D APCBC round is highly effective against lightly armoured targets such as light tanks and Leopard 1s, successful penetrations usually resulting in instant knockouts. It also works very well for flanking shots. The Type 1959 APDS round has the highest muzzle velocity and enough penetration to handle most targets. The Type 1973 HEAT-FS round has the best penetration and can counter just about any vehicle with steel armour, but has a sensitive fuse and can be stopped by ERA or composite armour.
 

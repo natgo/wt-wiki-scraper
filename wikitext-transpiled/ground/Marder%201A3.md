@@ -82,23 +82,7 @@ The mobility is very good with a top speed of 84 km/h both forwards and backward
 * '''DM43:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
 * '''DM63:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 57 || 52 || 37 || 24 || 15 || 10
-|-
-| DM51A1 || 57 || 52 || 37 || 24 || 15 || 10
-|-
-| DM43 || 57 || 52 || 37 || 24 || 15 || 10
-|-
-| DM63 || 66 || 61 || 45 || 31 || 21 || 14
-|-
-|}
+{{:Rh202 (20 mm)/Ammunition|HVAP-T, HEFI-T, APDS}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -136,36 +120,7 @@ The mobility is very good with a top speed of 84 km/h both forwards and backward
 |}
 
 ==== Ammunition ====
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| MILAN || ATGM || 530 || 530 || 530 || 530 || 530 || 530
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="11" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| MILAN || ATGM || 200 || 2,000 || 6.7 || 0.05 || 0.1 || 1,830 || 80° || 82° || 90°
-|-
-|}
+{{:MILAN/Ammunition|MILAN}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->

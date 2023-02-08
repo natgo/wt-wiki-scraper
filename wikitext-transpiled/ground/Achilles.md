@@ -77,6 +77,8 @@ Protection is not good. The sloped armour and the track links added to the front
 ==== Ammunition ====
 {{:QF 17-pounder (76 mm)/Ammunition|Shot Mk.6, Shell Mk.1, Shot Mk.4, Shot Mk.8, 17pdr Shell SS Mk.1}}
 
+The ammo is mostly solid shot. The benefit is it provides greater penetration, but at a cost of less damage upon penetration. Knock-outs with a single shell are far more difficult to pull off compared to APHE shells. Knowledge of the internal layout of the target vehicle is essential to success. The Shot Mk.8 APCBC round should be your default round. The Shell Mk.1 HE round isn't worth taking, as most vehicles at this BR save for very few will be entirely immune to it, and the few that are are vulnerable enough to your M2HB machine gun that HE shells aren't needed. 
+
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
 {| class="wikitable" style="text-align:center"
@@ -192,6 +194,7 @@ The Achilles were deployed on D-Day onward in artillery forces in anti-tank regi
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_17_pdr_m10_achilles Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

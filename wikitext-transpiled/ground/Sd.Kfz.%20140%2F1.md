@@ -79,44 +79,7 @@ The 20 mm KwK38 autocannon is one of the most lethal low-rank guns.
 * '''PzGr:''' {{Annotation|API-T|Armour-piercing incendiary tracer}} - These are suited for the anti-tank role at close range and do good damage to planes.
 * '''PzGr 40:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}} -  The best belt for the anti-tank role with the best penetrating shell for this cannon. While the post-penetration damage can be quite poor, the rapid fire from the autocannon can mitigate this problem by following up quickly with another penetrating shot. In close combat, these shells should be used against modules and crew members to make the most of each shell. Against angled armour, however, the HVAP ammo may not be very effective. Unlike the Flakpanzer 1 and Flakpanzer 38, this belt is still 100% HVAP.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 37 || 34 || 23 || 14 || 9 || 6
-|-
-| Sprgr. || 2 || 2 || 2 || 2 || 2 || 2
-|-
-| PzGr || 37 || 34 || 23 || 14 || 9 || 6
-|-
-| PzGr 40 || 48 || 45 || 31 || 20 || 13 || 8
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Belt details
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Sprgr. || HEFI-T* || 900 || 0.12 || 0.0 || 0.1 || 10.2 || 79° || 80° || 81°
-|-
-| PzGr || API-T || 800 || 0.15 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| PzGr 40 || HVAP-T || 1,050 || 0.1 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-|}
+{{:KwK38 (20 mm)/Ammunition|HEFI-T*, API-T, HVAP-T}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Sd.Kfz._140-1.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

@@ -90,51 +90,7 @@ The Type 1956 HEAT-FS shell is the most powerful option available to the Type 63
 
 The stock O-365K HE shell is very weak and should be avoided, because the HEAT-FS is better in all aspects.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| BR-365A || APHEBC || 135 || 133 || 124 || 114 || 104 || 95
-|-
-| BR-367 || APCBC || 164 || 162 || 154 || 143 || 134 || 125
-|-
-| BR-367P || APCR || 208 || 201 || 176 || 148 || 125 || 106
-|-
-| Type 1956 || HEATFS || 300 || 300 || 300 || 300 || 300 || 300
-|-
-| O-365K || HE || 11 || 11 || 11 || 11 || 11 || 11
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| BR-365A || APHEBC || 792 || 9.2 || 1.2 || 14 || 164 || 48° || 63° || 71°
-|-
-| BR-367 || APCBC || 792 || 9.2 || 1.2 || 14 || 67.76 || 48° || 63° || 71°
-|-
-| BR-367P || APCR || 1,020 || 5.3 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-| Type 1956 || HEATFS || 845 || 7 || 0.05 || 0.1 || 822.8 || 65° || 72° || 77°
-|-
-| O-365K || HE || 793 || 9.54 || 0 || 0.1 || 741 || 79° || 80° || 81°
-|-
-|}
+{{:Type-62-85-TC (85 mm)/Ammunition|BR-365A, BR-367, BR-367P, Type 1956 HEAT-FS, O-365K}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=f-84f_germany
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.jpg}}
 }}
 
 == Description ==

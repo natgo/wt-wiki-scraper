@@ -84,47 +84,7 @@ The Leopard 1A5 mounts a late-generation fully stabilised L7 cannon, which is pr
 * '''DM23 APFSDS''' - Available as a tier I modification, this round allows player to engage modern tanks more reliably, since it performs better against composite and reactive armour. Penetration is relatively below average when compared to rounds available to the Leopard 1A5's contemporaries, it should be used as a stop gap solution until the next round becomes available.
 * '''DM33 APFSDS''' - Best round available to the Leopard 1A5 and third best NATO round available for 105 mm cannons. It allows player to engage most enemies at the Leopard 1A5's BR at any range reliably. With careful aiming, even higher BR vehicles are not safe. Player should be of note that this round can easily over penetrate light vehicles such as BMP-2 or SPAAGs, so aiming at vital components is preferred in order to create shrapnel necessary to destroy them.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| DM12 || HEATFS || 400 || 400 || 400 || 400 || 400 || 400
-|-
-| DM512 || HESH || 127 || 127 || 127 || 127 || 127 || 127
-|-
-| DM23 || APFSDS || 337 || 335 || 330 || 322 || 314 || 306
-|-
-| DM33 || APFSDS || 408 || 405 || 398 || 389 || 379 || 370
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| DM12 || HEATFS || 1,174 || 10.5 || 0.05 || 0.1 || 1,270 || 65° || 72° || 77°
-|-
-| DM512 || HESH || 732 || 11.2 || 0.1 || 4 || 4,310 || 73° || 77° || 80°
-|-
-| DM23 || APFSDS || 1,455 || 4.2 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-| DM33 || APFSDS || 1,455 || 3.79 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
+{{:L7A3 (105 mm)/Ammunition|DM12, DM512, DM23, DM33}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Leopard_I.png|right|thumb|x250px|[[Ammo racks]] of the [[Leopard I]] (identical)]]

@@ -154,27 +154,20 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 '''Pros:''' 
 
 * Decent speed
-* Effective high caliber flares/chaffs
+* Effective high calibre flares/chaffs
 * Great turn rate at low speeds
 * Extremely powerful in a downtier
 
 '''Cons:'''
 
 * Bleeds speed fast
-* Janky gun placement (Hard to aim)
-* Inadequate in high uptiers (11.7)
+* Janky gun placement makes it hard to aim
+* Inadequate performance in uptiers
 * Very limited count of flares/chaffs
 * Average turn speed above ~900 km/h
 
 == History ==
-Saab 35 is the main name for the "Draken"- series of airplanes produced/designed by the Swedish company SAAB. The J35 series had many different variants like the "J35D" or "J35A", both implemented into War Thunder. After some time SAAB wanted to produce export variants of the "Draken" and those variants were named "J35X" with X standing for "export version". There were 4 different main versions of the J35X exported. The Finnish J35XS is the only one currently in War Thunder and the full name for this Finnish export version is J35XS. ("XS" stands for "Export-Suomi") <ref>[https://en.wikipedia.org/wiki/Saab_35_Draken#Export_variants]Wikipedia Article</ref>
-
-All the official export versions of the "Draken" were just variants of the regularly used J35D and J35F models with the J35XS being a variant of the J35F one. Therefore it featured almost every feature that the F-variant had. Both the J35F and J35J had IRST which was a very useful function for the airplane as it didn't produce any radar waves that could be detectable by the enemy. With the J35XS being a variant of the J35F it of course featured an IRST-system.<ref>[https://modelingmadness.com/review/mod/sweden/plesfinj35.htm]</ref>  
-
-The most advanced "Draken" (The J35J) was reserved for Swedish use only and wasn't available for export countries. 
-
-In the early development of the premium aircraft J35XS, it was considered to have the fully Swedish J35J instead as the new premium rank VII aircraft. Both of them are very similar but the J35J is slightly more advanced. <ref>[https://www.reddit.com/r/Warthunder/comments/znphk8/apparently_theyre_changing_the_j35j_to_j35xs/]</ref>     <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
+<!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
 
 == Media ==
@@ -183,10 +176,12 @@ In the early development of the premium aircraft J35XS, it was considered to hav
 ;Skins
 ;[https://live.warthunder.com/feed/camouflages/?vehicle=saab_j35xs Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
-[[File:20230124235507 1.jpg|thumb|427x427px|J35XS flares, 6 x RB24Js]]
-[[File:20230124235909 1.jpg|thumb|J35XS afterburner off]]
-
-*[[File:20230124235905 1.jpg|thumb|J35XS afterburner on]]
+;Images
+<gallery mode="packed-hover" heights="200">
+File:J35FS Countermeasures.jpg|<small>J35FS flares, 6 x RB24Js</small>
+File:J35FS RM6C AB Off.jpg|<small>J35FS afterburner off</small>
+File:J35FS RM6C AB On.jpg|<small>J35FS afterburner on</small>
+</gallery>
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

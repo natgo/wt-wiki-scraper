@@ -77,61 +77,7 @@ This is a Panzer III, upgraded to carry a short 75 mm KwK37 cannon, which can al
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| K.Gr.rot Pz. || APCBC || 52 || 50 || 45 || 39 || 34 || 30
-|-
-| Hl.Gr 38B || HEAT || 80 || 80 || 80 || 80 || 80 || 80
-|-
-| Sprgr. 34 || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-| Hl.Gr 38C || HEAT || 100 || 100 || 100 || 100 || 100 || 100
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| K.Gr.rot Pz. || APCBC || 385 || 6.78 || 1.2 || 14 || 102.4 || 48° || 63° || 71°
-|-
-| Hl.Gr 38B || HEAT || 450 || 4.57 || 0.05 || 0.1 || 872.1 || 62° || 69° || 73°
-|-
-| Sprgr. 34 || HE || 420 || 5.74 || 0 || 0.1 || 686 || 79° || 80° || 81°
-|-
-| Hl.Gr 38C || HEAT || 450 || 4.8 || 0.05 || 0.1 || 875.5 || 62° || 69° || 73°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive mass<br>(TNT equivalent) (g)
-|-
-| K.Gr.Rot Nb. || 423 || 6.2 || 13 || 5 || 20 || 50
-|-
-|}
+{{:KwK37 (75 mm)/Ammunition|K.Gr.rot Pz., Hl.Gr 38B, Sprgr. 34, Hl.Gr 38C, K.Gr.Rot Nb.}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -182,15 +128,20 @@ This is a Panzer III, upgraded to carry a short 75 mm KwK37 cannon, which can al
 
 '''Pros:'''
 
-* Spaced armour covering lots of the tank
-* Fast-firing main gun
+* Spaced armour covering a lot of the tank
+* Frontal armour is great
+* Angling the hull increases your changes of bouncing a shell
 * Fast automotive characteristics, including acceleration and track traverse
-* Tracks cover much of the sides, meaning a little better staying power under artillery barrage
+* Fast-firing main gun
+* The HEAT shell has a great penetration regardless of shooting distance
+* Equipped with 2 machine guns, great for dealing with open-topped vehicles which are common at the BR
 
 '''Cons:'''
 
 * Armour is almost never enough under sustained fire
 * Enemy tanks with sloped armour easily bounce your shots if not carefully aimed
+* Slow muzzle velocity
+* HEAT shells detonate on obstacles
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -211,6 +162,7 @@ Some of the tanks was transferred to Romania, Slovakia, and Croatia. Tanks of th
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_III_ausf_N Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -219,10 +171,12 @@ Some of the tanks was transferred to Romania, Slovakia, and Croatia. Tanks of th
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[Panzer III (Family)|Related development]]
+
 * [[Pz.III N (Italy)]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

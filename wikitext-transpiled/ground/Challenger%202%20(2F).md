@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=uk_challenger_2_dorchester
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png|ArtImage2_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|GarageImage_{{PAGENAME}}_AddArmour.jpg|ArtImage_{{PAGENAME}}.png|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==

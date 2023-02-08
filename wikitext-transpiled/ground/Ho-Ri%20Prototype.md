@@ -71,39 +71,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Japanese tank destroye
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Type 2 APHE || APHE || 205 || 201 || 181 || 159 || 140 || 123
-|-
-| Experimental HE || HE || 30 || 30 || 30 || 30 || 30 || 30
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Type 2 APHE || APHE || 916 || 16 || 1.2 || 19 || 200 || 47° || 60° || 65°
-|-
-| Experimental HE || HE || 920 || 16 || 0 || 0.1 || 2,520 || 79° || 80° || 81°
-|-
-|}
+{{:Experimental High Velocity (105 mm)/Ammunition|Type 2 APHE, Experimental HE}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

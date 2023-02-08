@@ -71,43 +71,7 @@ The gunsight has maximum amount of magnification possible for a tank, making aim
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| slpprj m/41 || AP || 146 || 142 || 126 || 109 || 94 || 81
-|-
-| sgr m/38 || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-| slpgr m/43 || APCBC || 158 || 154 || 139 || 122 || 107 || 94
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| slpprj m/41 || AP || 840 || 6.63 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| sgr m/38 || HE || 840 || 6.43 || 0 || 0.1 || 690 || 79° || 80° || 81°
-|-
-| slpgr m/43 || APCBC || 925 || 6 || 1.2 || 14 || 110 || 48° || 63° || 71°
-|-
-|}
+{{:lvkan m/37 A (75 mm)/Ammunition|slpprj m/41, sgr m/38, slpgr m/43}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

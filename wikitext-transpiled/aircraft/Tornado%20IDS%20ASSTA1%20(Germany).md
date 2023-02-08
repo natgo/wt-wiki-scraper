@@ -238,6 +238,9 @@ In 1995, 339 Tornado fighter aircraft were in service with the Bundeswehr (Air F
 ;Skins
 * [https://live.warthunder.com/feed/camouflages/?vehicle=tornado_ids_de_assta1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
+;Videos
+{{Youtube-gallery|3kVkp5-IeNQ|'''The Shooting Range #340''' - ''Metal Beasts'' section at 00:24 discusses the {{PAGENAME}}.}}
+
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''

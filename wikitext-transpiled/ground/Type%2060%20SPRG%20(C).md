@@ -5,7 +5,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ('''{{Specs|pseudonym}}''') is a rank {{Specs|rank}} Japanese tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.65 "Way of the Samurai"]] along with the initial Japanese Ground Forces tree. The Type 60 is the first vehicle in War Thunder to implement a recoilless gun as the main armament of a vehicle.
+The '''{{Specs|name}}''' (shortened to '''{{Specs|pseudonym}}''') is a rank {{Specs|rank}} Japanese tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.65 "Way of the Samurai"]] along with the initial Japanese Ground Forces tree. The Type 60 is the first vehicle in War Thunder to implement a recoilless gun as the main armament of a vehicle.
 
 The principal role of the Type 60 SPRG is as a short-range ambushing "Tank destroyer" where it can make maximum use of its dual 106 mm M40 firepower to best effect, it is better suited to short range engagements and can find it difficult to make meaningful contributions to the team, on maps where the engagement range is far and distance.
 
@@ -108,39 +108,7 @@ It is worth noting, that hull-down is very difficult to accomplish with this veh
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M344A1 || HEAT || 433 || 433 || 433 || 433 || 433 || 433
-|-
-| M361A1 || HESH || 152 || 152 || 152 || 152 || 152 || 152
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M344A1 || HEAT || 503 || 7.96 || 0 || 0.01 || 1,650 || 65° || 72° || 77°
-|-
-| M361A1 || HESH || 498 || 7.95 || 0.1 || 4 || 5,040 || 73° || 77° || 80°
-|-
-|}
+{{:Type 60 (B) (106 mm)/Ammunition|M344A1, M361A1}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

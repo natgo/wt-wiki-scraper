@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=ussr_t_80bvm
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|GarageImage_{{PAGENAME}}_AddArmour.jpg}}
 }}
 
 == Description ==

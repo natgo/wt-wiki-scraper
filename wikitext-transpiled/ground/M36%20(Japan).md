@@ -79,69 +79,7 @@ The 10° gun depression gives the M36B2 the capability to shoot over hills. The 
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M318 shot || APBC || 175 || 173 || 161 || 147 || 135 || 123
-|-
-| M82 shot || APCBC || 185 || 182 || 170 || 155 || 142 || 130
-|-
-| M304 shot || APCR || 287 || 281 || 259 || 234 || 211 || 191
-|-
-| M332 shot || APCR || 291 || 286 || 264 || 240 || 217 || 197
-|-
-| M348 shell || HEATFS || 305 || 305 || 305 || 305 || 305 || 305
-|-
-| M71 shell || HE || 13 || 13 || 13 || 13 || 13 || 13
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M318 shot || APBC || 853 || 10.98 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| M82 shot || APCBC || 853 || 10.94 || 1.2 || 14 || 137.2 || 48° || 63° || 71°
-|-
-| M304 shot || APCR || 1,021 || 7.62 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-| M332 shot || APCR || 1,165 || 5.7 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-| M348 shell || HEATFS || 853 || 6.5 || 0.05 || 0.1 || 926.17 || 65° || 72° || 77°
-|-
-| M71 shell || HE || 823 || 10.55 || 0 || 0.1 || 925 || 79° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| M313 || 821 || 10.7 || 13 || 5 || 20 || 50
-|-
-|}
+{{:M3A1 (90 mm)/Ammunition|M318 shot, M82 shot, M304 shot, M332 shot, M348 shell, M71 shell, M313}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->

@@ -123,7 +123,7 @@ Any aggressive player will greatly enjoy taking this little brute into a close q
 * Turret crew members still vulnerable to air attacks and artillery strikes
 * Only 3 crew members, two of which are in the turret
 * Loader and commander are exposed from the turret.
-* Low firing rate and dispersion, make every shot count.
+* Low firing rate and dispersion, which can lead to poor performance against fast and tiny fighters
 * Very thin armour makes it vulnerable to almost every enemy
 
 == History ==

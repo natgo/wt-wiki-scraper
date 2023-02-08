@@ -79,40 +79,7 @@ The chief difference between the Panzer II F and its predecessor is the main gun
 * '''PzGr:''' {{Annotation|API-T|Armour-piercing incendiary tracer}} - Intermediate usage until the better PzGr 40 can be used. Decent enough versus light tanks and other vehicles from the rear. It inflicts underwhelming damage due to the lack of HE filler, yet still better than the PzGr 40.
 * '''PzGr 40:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}} - Best penetrating shell of this vehicle. However, the damage effects are very poor. In close combat, snipe for modules and crew members for increased survival rate. Nothing is more annoying than emptying a clip and then to get out-gamed during the reload because the enemy gunner survived. Against angled armour it is not very effective like any other ACPR shell, this is offset by the very high base penetration though.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 37 || 34 || 23 || 14 || 9 || 6
-|-
-| PzGr || 37 || 34 || 23 || 14 || 9 || 6
-|-
-| PzGr 40 || 48 || 45 || 31 || 20 || 13 || 8
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Belt details
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| PzGr || API-T || 800 || 0.15 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| PzGr 40 || HVAP-T || 1,050 || 0.10 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-|}
+{{:KwK38 (20 mm)/Ammunition|HEFI-T*, API-T, HVAP-T}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Pz.II_C.png|right|thumb|x250px|[[Ammo racks]] of the [[Pz.II C]] (identical).]]

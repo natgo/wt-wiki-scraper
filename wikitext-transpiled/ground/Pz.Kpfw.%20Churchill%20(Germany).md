@@ -58,47 +58,7 @@ There are very few enemies which can successfully penetrate the Churchill, the [
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Shot Mk.8 || APC || 116 || 111 || 94 || 76 || 62 || 50
-|-
-| Shot Mk.5 HV || AP || 115 || 111 || 93 || 75 || 60 || 49
-|-
-| Shot Mk.9 || APCBC || 132 || 127 || 110 || 91 || 75 || 63
-|-
-| Shell Mk.10 || HE || 9 || 9 || 9 || 9 || 9 || 9
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Shot Mk.8 || APC || 883 || 2.87 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| Shot Mk.5 HV || AP || 891 || 2.8 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-| Shot Mk.9 || APCBC || 847 || 3.23 || N/A || N/A || N/A || 48° || 63° || 71°
-|-
-| Shell Mk.10 || HE || 655 || 2.72 || 0 || 0.1 || 590 || 79° || 80° || 81°
-|-
-|}
+{{:6pdr OQF Mk.V (57 mm)/Ammunition|Shot Mk.8, Shot Mk.5 HV, Shot Mk.9, Shell Mk.10}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Churchill_III.png|right|thumb|x250px|[[Ammo racks]] of the Churchill III (identical)]]

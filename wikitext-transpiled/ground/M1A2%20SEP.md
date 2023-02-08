@@ -8,7 +8,7 @@
 }}
 {{Specs-Card
 |code=us_m1a2_sep_abrams
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|GarageImage_{{PAGENAME}}_TUSK.jpg}}
 }}
 
 == Description ==

@@ -65,39 +65,7 @@ Any enemies at this rank can pierce your armour. However, the biggest threats ar
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | '''Penetration @ 0° Angle of Attack (mm)'''
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Pzgr.36(t) || APC || 87 || 82 || 66 || 50 || 38 || 29
-|-
-| Pzgr.40 || APCR || 119 || 110 || 77 || 50 || 32 || 21
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Pzgr.36(t) || APC || 775 || 1.65 || 1.2 || 9.0 || 15 || 48° || 63° || 71°
-|-
-| Pzgr.40 || APCR || 1,080 || 0.83 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-|}
+{{:Pak.(t)(Sf.) (47 mm)/Ammunition|Pzgr.36(t), Pzgr.40}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

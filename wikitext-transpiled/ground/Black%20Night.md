@@ -154,7 +154,7 @@ Where playing at range is not an option, such as urban maps, care should be take
 
 '''Cons:'''
 
-* Only 2 x rifle-clibre machine guns
+* Only 2 x rifle-calibre machine guns
 * The engine is rather weak leading to poor acceleration and mobility
 * Large weak spots in armour and poor placement of ammo and charges in the tank limit the survivability
 
@@ -170,6 +170,7 @@ Rheinmetall's proposal was revealed in January 2019, featuring the Rh 120 mm L/5
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_challenger_2_bn Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

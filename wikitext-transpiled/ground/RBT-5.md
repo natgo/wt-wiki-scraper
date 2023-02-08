@@ -74,39 +74,7 @@ The RBT-5's two rockets are quite apart from each other, and that should be take
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | '''Penetration @ 0° Angle of Attack (mm)'''
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| BR-240 || APHEBC || 70 || 67 || 58 || 47 || 39 || 32
-|-
-| BR-240SP || APBC || 73 || 70 || 60 || 50 || 41 || 34
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| BR-240 || APHEBC || 760 || 1.43 || 1.2 || 9 || 29.26 || 48° || 63° || 71°
-|-
-| BR-240SP || APBC || 757 || 1.43 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-|}
+{{:20-K (45 mm)/Ammunition|BR-240, BR-240SP}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_BT-5.png|right|thumb|x250px|[[Ammo racks]] of the BT-5]]
@@ -145,36 +113,7 @@ The RBT-5's two rockets are quite apart from each other, and that should be take
 |}
 
 ==== Ammunition ====
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| TT-250 || Rocket || 83 || 83 || 83 || 83 || 83 || 83
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="11" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (kg)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| TT-250 || Rocket || 135 || 6,500 || 250 || 0 || 0.1 || 130 || 79° || 80° || 81°
-|-
-|}
+{{:TT-250/Ammunition|TT-250}}
 
 === Machine guns ===
 {{Specs-Tank-Weapon|3}}
@@ -204,7 +143,7 @@ The RBT-5 carries two tank torpedos that are powerful enough to destroy any vehi
 # Harrassing Capture Points: At a known distance from a spot like the capture point (or even the spawn!), you can use the RBT-5 to act as an impromptu artillery piece to lob the TT-250s at the enemy. Set the distance to the range that is displayed on the capture point and fire away. If there are enemies on the point, the landing rockets can sometimes destroy a vehicle or two, or at the very least take down the enemies tracks.
 # Close-range Fighting: There is a way to aim at targets closer than 350 meters, by driving the RBT-5 against a wall backwards. This will align the RBT-5 enough to gain the ability to shoot right in front of you. This can be especially useful if you try to destroy a enemy by surprise if they drive by, and it's especially handy in top-rank battles.
 
-It is suggested to stay near a captured point so you may resupply your Torpedo's for more usage, the resupply takes 15 seconds each.
+It is suggested to stay near a captured point so you may resupply your Torpedo's for more usage, the resupply takes 15 seconds each.
 
 '''Enemies worth noting:'''
 

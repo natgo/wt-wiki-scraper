@@ -77,43 +77,7 @@ The armour on this variant is the same as on the regular Tiger II (H). The upper
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| PzGr.Rot || APCBC || 251 || 248 || 234 || 219 || 205 || 191
-|-
-| Sprgr. L/4.4 || HE || 20 || 20 || 20 || 20 || 20 || 20
-|-
-| PzGr 40 || APCR || 304 || 298 || 274 || 248 || 223 || 201
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| PzGr.Rot || APCBC || 1,005 || 15.6 || 1.2 || 19 || 343.2 || 48° || 63° || 71°
-|-
-| Sprgr. L/4.4 || HE || 900 || 15.1 || 0 || 0.1 || 1,550 || 79° || 80° || 81°
-|-
-| PzGr 40 || APCR || 1,150 || 10.3 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-|}
+{{:KwK L/68 (105 mm)/Ammunition|PzGr.Rot, Sprgr. L/4.4, PzGr 40}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
