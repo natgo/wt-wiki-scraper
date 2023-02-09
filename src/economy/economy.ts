@@ -110,16 +110,17 @@ async function main(dev: boolean) {
     let night: NightVision = {};
     const bullets: { name: string; maxamount?: number }[] = [];
     Object.entries(vehicleData.modifications).forEach(([key, value]) => {
+      const mod = Object.entries(modifications.modifications).find(([findkey]) => {
+        return findkey === key;
+      });
+      if (!mod) {
+        throw new Error(`Modification: ${key} not found in modifications.blk`);
+      }
+
       if (value.effects?.nightVision) {
         night = value.effects.nightVision;
       }
       if (key.match(/^.+?mm_.*(?<!ammo_pack)$/g)) {
-        const mod = Object.entries(modifications.modifications).find(([findkey, value]) => {
-          return findkey === key;
-        });
-        if (!mod) {
-          throw new Error(`Modification: ${key} not found in modifications.blk`);
-        }
         if (!mod[1].effects?.additiveBulletMod) {
           throw new Error(`Modification ${mod[0]} doest not add a bullet`);
         }
