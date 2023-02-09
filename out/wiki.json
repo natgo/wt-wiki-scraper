@@ -1,0 +1,5358 @@
+{
+  "ground": [
+    {
+      "intname": "us_m18_hellcat_black_cat_race",
+      "ab_top_speed": [113, 37],
+      "rb_top_speed": [104, 34],
+      "visibility": 17.7
+    },
+    {
+      "intname": "it_semovente_m43_105",
+      "ab_top_speed": [42, 4],
+      "rb_top_speed": [39, 4],
+      "visibility": 61
+    },
+    {
+      "intname": "germ_panzerwerfer_42",
+      "ab_top_speed": [51, 9],
+      "rb_top_speed": [47, 9],
+      "visibility": 88
+    },
+    {
+      "intname": "germ_sturmpanzer_II",
+      "ab_top_speed": [49, 10],
+      "rb_top_speed": [46, 9],
+      "visibility": 69
+    },
+    {
+      "intname": "fr_char_2c_bis",
+      "ab_top_speed": [16, 16],
+      "rb_top_speed": [16, 16],
+      "visibility": 750
+    },
+    {
+      "intname": "ussr_2s25",
+      "ab_top_speed": [78, 78],
+      "rb_top_speed": [71, 71],
+      "visibility": 101
+    },
+    {
+      "intname": "ussr_2s25m",
+      "ab_top_speed": [78, 23],
+      "rb_top_speed": [71, 21],
+      "visibility": 101
+    },
+    {
+      "intname": "ussr_2s38",
+      "ab_top_speed": [78, 23],
+      "rb_top_speed": [71, 21],
+      "visibility": 79
+    },
+    {
+      "intname": "ussr_2s3m",
+      "ab_top_speed": [66, 16],
+      "rb_top_speed": [60, 14],
+      "visibility": 94
+    },
+    {
+      "intname": "ussr_zprk_2s6",
+      "ab_top_speed": [71, 71],
+      "rb_top_speed": [65, 65],
+      "visibility": 341
+    },
+    {
+      "intname": "germ_sturmmorser_sturmtiger",
+      "ab_top_speed": [44, 10],
+      "rb_top_speed": [41, 9],
+      "visibility": 111
+    },
+    {
+      "intname": "it_semovente_l40",
+      "ab_top_speed": [47, 8],
+      "rb_top_speed": [43, 8],
+      "visibility": 60
+    },
+    {
+      "intname": "it_semovente_m41_75_18",
+      "ab_top_speed": [37, 6],
+      "rb_top_speed": [34, 6],
+      "visibility": 61
+    },
+    {
+      "intname": "it_semovente_m41_75_32",
+      "ab_top_speed": [37, 6],
+      "rb_top_speed": [34, 6],
+      "visibility": 61
+    },
+    {
+      "intname": "it_semovente_m42_75_34",
+      "ab_top_speed": [42, 4],
+      "rb_top_speed": [39, 4],
+      "visibility": 64
+    },
+    {
+      "intname": "it_semovente_m43_75_34",
+      "ab_top_speed": [42, 4],
+      "rb_top_speed": [39, 4],
+      "visibility": 61
+    },
+    {
+      "intname": "it_semovente_m43_75_46",
+      "ab_top_speed": [42, 4],
+      "rb_top_speed": [39, 4],
+      "visibility": 61
+    },
+    {
+      "intname": "germ_sdkfz_9_flak37",
+      "ab_top_speed": [44, 11],
+      "rb_top_speed": [40, 10],
+      "visibility": 182
+    },
+    {
+      "intname": "it_semovente_m41m_90",
+      "ab_top_speed": [38, 6],
+      "rb_top_speed": [35, 6],
+      "visibility": 79
+    },
+    {
+      "intname": "uk_ac1_sentinel",
+      "ab_top_speed": [51, 8],
+      "rb_top_speed": [46, 7],
+      "visibility": 91
+    },
+    {
+      "intname": "uk_ac4_thunderbolt",
+      "ab_top_speed": [54, 11],
+      "rb_top_speed": [48, 10],
+      "visibility": 91
+    },
+    {
+      "intname": "uk_a_13_mk1_3rd_rtr",
+      "ab_top_speed": [54, 7],
+      "rb_top_speed": [48, 6],
+      "visibility": 93
+    },
+    {
+      "intname": "uk_a_13_mk1",
+      "ab_top_speed": [54, 7],
+      "rb_top_speed": [48, 6],
+      "visibility": 93
+    },
+    {
+      "intname": "uk_a_13_mk2_1939",
+      "ab_top_speed": [54, 7],
+      "rb_top_speed": [48, 6],
+      "visibility": 93
+    },
+    {
+      "intname": "uk_a_13_mk2",
+      "ab_top_speed": [54, 7],
+      "rb_top_speed": [48, 6],
+      "visibility": 93
+    },
+    {
+      "intname": "it_ab_41",
+      "ab_top_speed": [87, 43],
+      "rb_top_speed": [78, 39],
+      "visibility": 79
+    },
+    {
+      "intname": "it_ab_43",
+      "ab_top_speed": [91, 43],
+      "rb_top_speed": [82, 39],
+      "visibility": 75
+    },
+    {
+      "intname": "uk_adats_m113a3",
+      "ab_top_speed": [70, 17],
+      "rb_top_speed": [65, 15],
+      "visibility": 375
+    },
+    {
+      "intname": "us_adats_bradley",
+      "ab_top_speed": [72, 16],
+      "rb_top_speed": [66, 14],
+      "visibility": 375
+    },
+    {
+      "intname": "uk_armored_car_mk_2_aa",
+      "ab_top_speed": [73, 10],
+      "rb_top_speed": [67, 9],
+      "visibility": 90
+    },
+    {
+      "intname": "uk_armored_car_aec_mk_2",
+      "ab_top_speed": [76, 10],
+      "rb_top_speed": [68, 9],
+      "visibility": 90
+    },
+    {
+      "intname": "cn_hj_9",
+      "ab_top_speed": [104, 9],
+      "rb_top_speed": [96, 9],
+      "visibility": 142
+    },
+    {
+      "intname": "us_ags_teledyne",
+      "ab_top_speed": [81, 17],
+      "rb_top_speed": [73, 16],
+      "visibility": 90
+    },
+    {
+      "intname": "fr_amc_34",
+      "ab_top_speed": [45, 7],
+      "rb_top_speed": [41, 6],
+      "visibility": 88
+    },
+    {
+      "intname": "fr_amc_35",
+      "ab_top_speed": [47, 7],
+      "rb_top_speed": [42, 6],
+      "visibility": 88
+    },
+    {
+      "intname": "fr_amd_35",
+      "ab_top_speed": [80, 47],
+      "rb_top_speed": [72, 43],
+      "visibility": 77
+    },
+    {
+      "intname": "il_aml_90",
+      "ab_top_speed": [101, 20],
+      "rb_top_speed": [91, 18],
+      "visibility": 84
+    },
+    {
+      "intname": "fr_aml_90",
+      "ab_top_speed": [101, 20],
+      "rb_top_speed": [91, 18],
+      "visibility": 84
+    },
+    {
+      "intname": "fr_amr_35_zt3",
+      "ab_top_speed": [65, 8],
+      "rb_top_speed": [60, 7],
+      "visibility": 65
+    },
+    {
+      "intname": "fr_amx_m4",
+      "ab_top_speed": [58, 22],
+      "rb_top_speed": [52, 20],
+      "visibility": 120
+    },
+    {
+      "intname": "fr_amx_10rc",
+      "ab_top_speed": [95, 95],
+      "rb_top_speed": [85, 85],
+      "visibility": 94
+    },
+    {
+      "intname": "fr_amx_13_fl_11",
+      "ab_top_speed": [68, 8],
+      "rb_top_speed": [61, 7],
+      "visibility": 79
+    },
+    {
+      "intname": "fr_amx_13_hot",
+      "ab_top_speed": [68, 8],
+      "rb_top_speed": [61, 7],
+      "visibility": 79
+    },
+    {
+      "intname": "il_amx_13_75",
+      "ab_top_speed": [68, 8],
+      "rb_top_speed": [61, 7],
+      "visibility": 79
+    },
+    {
+      "intname": "fr_amx_13_75_ss11",
+      "ab_top_speed": [68, 8],
+      "rb_top_speed": [61, 7],
+      "visibility": 79
+    },
+    {
+      "intname": "fr_amx_13_dca_40",
+      "ab_top_speed": [66, 8],
+      "rb_top_speed": [61, 7],
+      "visibility": 79
+    },
+    {
+      "intname": "fr_amx_13_90",
+      "ab_top_speed": [68, 8],
+      "rb_top_speed": [61, 7],
+      "visibility": 79
+    },
+    {
+      "intname": "fr_amx_13_chaffee",
+      "ab_top_speed": [68, 8],
+      "rb_top_speed": [61, 7],
+      "visibility": 79
+    },
+    {
+      "intname": "fr_amx_13_75",
+      "ab_top_speed": [68, 8],
+      "rb_top_speed": [61, 7],
+      "visibility": 79
+    },
+    {
+      "intname": "fr_amx_30_1972",
+      "ab_top_speed": [73, 73],
+      "rb_top_speed": [66, 66],
+      "visibility": 88
+    },
+    {
+      "intname": "fr_amx_30_ACRA",
+      "ab_top_speed": [73, 73],
+      "rb_top_speed": [66, 66],
+      "visibility": 88
+    },
+    {
+      "intname": "fr_amx_30_dca",
+      "ab_top_speed": [71, 71],
+      "rb_top_speed": [66, 66],
+      "visibility": 455
+    },
+    {
+      "intname": "fr_amx_30_super",
+      "ab_top_speed": [72, 31],
+      "rb_top_speed": [65, 28],
+      "visibility": 88
+    },
+    {
+      "intname": "fr_amx_30",
+      "ab_top_speed": [73, 73],
+      "rb_top_speed": [66, 66],
+      "visibility": 88
+    },
+    {
+      "intname": "fr_amx_30_b2_brenus",
+      "ab_top_speed": [73, 73],
+      "rb_top_speed": [66, 66],
+      "visibility": 88
+    },
+    {
+      "intname": "fr_amx_30_b2",
+      "ab_top_speed": [73, 73],
+      "rb_top_speed": [66, 66],
+      "visibility": 88
+    },
+    {
+      "intname": "fr_amx_32_105",
+      "ab_top_speed": [73, 73],
+      "rb_top_speed": [66, 66],
+      "visibility": 121
+    },
+    {
+      "intname": "fr_amx_32",
+      "ab_top_speed": [73, 73],
+      "rb_top_speed": [66, 66],
+      "visibility": 121
+    },
+    {
+      "intname": "fr_amx_40",
+      "ab_top_speed": [78, 31],
+      "rb_top_speed": [71, 28],
+      "visibility": 108
+    },
+    {
+      "intname": "fr_amx_50_1950",
+      "ab_top_speed": [58, 22],
+      "rb_top_speed": [52, 20],
+      "visibility": 120
+    },
+    {
+      "intname": "fr_amx_50",
+      "ab_top_speed": [58, 22],
+      "rb_top_speed": [52, 20],
+      "visibility": 120
+    },
+    {
+      "intname": "fr_amx_50_foch",
+      "ab_top_speed": [56, 21],
+      "rb_top_speed": [52, 20],
+      "visibility": 81
+    },
+    {
+      "intname": "fr_amx_50_surbaisse",
+      "ab_top_speed": [55, 7],
+      "rb_top_speed": [52, 6],
+      "visibility": 167
+    },
+    {
+      "intname": "fr_amx_50_surblinde",
+      "ab_top_speed": [55, 7],
+      "rb_top_speed": [52, 6],
+      "visibility": 214
+    },
+    {
+      "intname": "fr_arl_44_acl1",
+      "ab_top_speed": [40, 9],
+      "rb_top_speed": [38, 8],
+      "visibility": 150
+    },
+    {
+      "intname": "fr_arl_44",
+      "ab_top_speed": [41, 9],
+      "rb_top_speed": [38, 8],
+      "visibility": 150
+    },
+    {
+      "intname": "it_as_42_47",
+      "ab_top_speed": [92, 24],
+      "rb_top_speed": [85, 22],
+      "visibility": 58
+    },
+    {
+      "intname": "it_as_42_metropolitana",
+      "ab_top_speed": [92, 24],
+      "rb_top_speed": [85, 22],
+      "visibility": 58
+    },
+    {
+      "intname": "sw_asrad_r",
+      "ab_top_speed": [70, 17],
+      "rb_top_speed": [65, 15],
+      "visibility": 117
+    },
+    {
+      "intname": "ussr_asu_57",
+      "ab_top_speed": [50, 6],
+      "rb_top_speed": [46, 6],
+      "visibility": 55
+    },
+    {
+      "intname": "ussr_asu_85",
+      "ab_top_speed": [49, 6],
+      "rb_top_speed": [45, 6],
+      "visibility": 70
+    },
+    {
+      "intname": "it_aubl_74_60_70m",
+      "ab_top_speed": [112, 22],
+      "rb_top_speed": [100, 20],
+      "visibility": 69
+    },
+    {
+      "intname": "it_fiat_6616_cockerill",
+      "ab_top_speed": [112, 22],
+      "rb_top_speed": [100, 20],
+      "visibility": 69
+    },
+    {
+      "intname": "uk_17_pdr_m10_achilles_norfolk_yeomanry",
+      "ab_top_speed": [45, 6],
+      "rb_top_speed": [42, 5],
+      "visibility": 87
+    },
+    {
+      "intname": "uk_17_pdr_m10_achilles",
+      "ab_top_speed": [45, 6],
+      "rb_top_speed": [42, 5],
+      "visibility": 87
+    },
+    {
+      "intname": "uk_alecto_mk_1",
+      "ab_top_speed": [53, 7],
+      "rb_top_speed": [49, 7],
+      "visibility": 104
+    },
+    {
+      "intname": "uk_sp_17_pdr_valentine",
+      "ab_top_speed": [36, 5],
+      "rb_top_speed": [33, 5],
+      "visibility": 77
+    },
+    {
+      "intname": "it_c1_ariete_preserie",
+      "ab_top_speed": [73, 52],
+      "rb_top_speed": [65, 47],
+      "visibility": 88
+    },
+    {
+      "intname": "it_c1_ariete_pso",
+      "ab_top_speed": [73, 52],
+      "rb_top_speed": [65, 47],
+      "visibility": 88
+    },
+    {
+      "intname": "it_c1_ariete",
+      "ab_top_speed": [73, 52],
+      "rb_top_speed": [65, 47],
+      "visibility": 88
+    },
+    {
+      "intname": "uk_a30_sp_avenger",
+      "ab_top_speed": [58, 4],
+      "rb_top_speed": [52, 4],
+      "visibility": 75
+    },
+    {
+      "intname": "fr_b1_bis",
+      "ab_top_speed": [30, 4],
+      "rb_top_speed": [28, 4],
+      "visibility": 106
+    },
+    {
+      "intname": "fr_b1_ter",
+      "ab_top_speed": [33, 5],
+      "rb_top_speed": [31, 4],
+      "visibility": 112
+    },
+    {
+      "intname": "ussr_ba_11",
+      "ab_top_speed": [72, 10],
+      "rb_top_speed": [65, 9],
+      "visibility": 84
+    },
+    {
+      "intname": "ussr_bm_13n",
+      "ab_top_speed": [79, 11],
+      "rb_top_speed": [73, 10],
+      "visibility": 75
+    },
+    {
+      "intname": "ussr_bm_8_24",
+      "ab_top_speed": [47, 7],
+      "rb_top_speed": [44, 6],
+      "visibility": 125
+    },
+    {
+      "intname": "ussr_bmd_4",
+      "ab_top_speed": [78, 79],
+      "rb_top_speed": [70, 71],
+      "visibility": 78
+    },
+    {
+      "intname": "ussr_bmp_1",
+      "ab_top_speed": [73, 13],
+      "rb_top_speed": [66, 12],
+      "visibility": 70
+    },
+    {
+      "intname": "ussr_bmp_2",
+      "ab_top_speed": [72, 12],
+      "rb_top_speed": [65, 11],
+      "visibility": 70
+    },
+    {
+      "intname": "ussr_bmp_2m",
+      "ab_top_speed": [72, 12],
+      "rb_top_speed": [65, 11],
+      "visibility": 70
+    },
+    {
+      "intname": "ussr_bmp_3",
+      "ab_top_speed": [78, 23],
+      "rb_top_speed": [71, 21],
+      "visibility": 79
+    },
+    {
+      "intname": "sw_bt_42",
+      "ab_top_speed": [59, 12],
+      "rb_top_speed": [54, 11],
+      "visibility": 84
+    },
+    {
+      "intname": "ussr_bt_5",
+      "ab_top_speed": [60, 12],
+      "rb_top_speed": [54, 11],
+      "visibility": 77
+    },
+    {
+      "intname": "ussr_bt_7_1937_td",
+      "ab_top_speed": [60, 12],
+      "rb_top_speed": [54, 11],
+      "visibility": 84
+    },
+    {
+      "intname": "ussr_bt_7_1937",
+      "ab_top_speed": [60, 12],
+      "rb_top_speed": [54, 11],
+      "visibility": 84
+    },
+    {
+      "intname": "ussr_bt_7a_f32",
+      "ab_top_speed": [60, 12],
+      "rb_top_speed": [54, 11],
+      "visibility": 84
+    },
+    {
+      "intname": "ussr_bt_7_m",
+      "ab_top_speed": [69, 12],
+      "rb_top_speed": [63, 11],
+      "visibility": 84
+    },
+    {
+      "intname": "ussr_btr_152a",
+      "ab_top_speed": [91, 12],
+      "rb_top_speed": [83, 11],
+      "visibility": 101
+    },
+    {
+      "intname": "ussr_btr_zd",
+      "ab_top_speed": [67, 7],
+      "rb_top_speed": [62, 7],
+      "visibility": 71
+    },
+    {
+      "intname": "germ_begleitpanzer_57",
+      "ab_top_speed": [79, 79],
+      "rb_top_speed": [71, 71],
+      "visibility": 89
+    },
+    {
+      "intname": "germ_panzerbefelhswagen_jagdpanther",
+      "ab_top_speed": [50, 4],
+      "rb_top_speed": [46, 4],
+      "visibility": 101
+    },
+    {
+      "intname": "sw_bkan_1c",
+      "ab_top_speed": [33, 33],
+      "rb_top_speed": [31, 31],
+      "visibility": 115
+    },
+    {
+      "intname": "uk_challenger_2_bn",
+      "ab_top_speed": [66, 42],
+      "rb_top_speed": [60, 38],
+      "visibility": 88
+    },
+    {
+      "intname": "uk_a_43_black_prince",
+      "ab_top_speed": [19, 3],
+      "rb_top_speed": [18, 3],
+      "visibility": 103
+    },
+    {
+      "intname": "uk_bosvark",
+      "ab_top_speed": [109, 9],
+      "rb_top_speed": [101, 9],
+      "visibility": 125
+    },
+    {
+      "intname": "it_semovente_breda_501",
+      "ab_top_speed": [66, 8],
+      "rb_top_speed": [61, 8],
+      "visibility": 97
+    },
+    {
+      "intname": "germ_sturmpanzer_IV_brummbar",
+      "ab_top_speed": [44, 8],
+      "rb_top_speed": [40, 7],
+      "visibility": 99
+    },
+    {
+      "intname": "it_c13_t90",
+      "ab_top_speed": [78, 16],
+      "rb_top_speed": [71, 15],
+      "visibility": 88
+    },
+    {
+      "intname": "germ_leopard_c2_mexas",
+      "ab_top_speed": [73, 28],
+      "rb_top_speed": [66, 26],
+      "visibility": 95
+    },
+    {
+      "intname": "fr_lorraine_100",
+      "ab_top_speed": [68, 18],
+      "rb_top_speed": [63, 17],
+      "visibility": 81
+    },
+    {
+      "intname": "cn_gmc_cckw_353_m45_quad",
+      "ab_top_speed": [70, 10],
+      "rb_top_speed": [65, 9],
+      "visibility": 80
+    },
+    {
+      "intname": "fr_cckw_353_bofors",
+      "ab_top_speed": [70, 10],
+      "rb_top_speed": [65, 9],
+      "visibility": 83
+    },
+    {
+      "intname": "us_ccvl",
+      "ab_top_speed": [77, 16],
+      "rb_top_speed": [69, 15],
+      "visibility": 108
+    },
+    {
+      "intname": "cn_cm11",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 115
+    },
+    {
+      "intname": "cn_cm_25",
+      "ab_top_speed": [70, 17],
+      "rb_top_speed": [65, 15],
+      "visibility": 68
+    },
+    {
+      "intname": "it_fiat_cm52",
+      "ab_top_speed": [64, 17],
+      "rb_top_speed": [59, 16],
+      "visibility": 125
+    },
+    {
+      "intname": "sw_cv_90105_tml",
+      "ab_top_speed": [78, 45],
+      "rb_top_speed": [71, 41],
+      "visibility": 115
+    },
+    {
+      "intname": "sw_cv_90120",
+      "ab_top_speed": [88, 57],
+      "rb_top_speed": [79, 51],
+      "visibility": 115
+    },
+    {
+      "intname": "uk_fv221_caernarvon",
+      "ab_top_speed": [37, 13],
+      "rb_top_speed": [34, 12],
+      "visibility": 139
+    },
+    {
+      "intname": "us_m4_sherman_calliope",
+      "ab_top_speed": [43, 6],
+      "rb_top_speed": [38, 5],
+      "visibility": 750
+    },
+    {
+      "intname": "it_sahariano",
+      "ab_top_speed": [67, 5],
+      "rb_top_speed": [61, 5],
+      "visibility": 67
+    },
+    {
+      "intname": "it_b1_centauro_romor",
+      "ab_top_speed": [123, 25],
+      "rb_top_speed": [110, 23],
+      "visibility": 84
+    },
+    {
+      "intname": "it_b1_centauro",
+      "ab_top_speed": [123, 25],
+      "rb_top_speed": [110, 23],
+      "visibility": 84
+    },
+    {
+      "intname": "it_centauro_mgs_120",
+      "ab_top_speed": [123, 25],
+      "rb_top_speed": [110, 23],
+      "visibility": 136
+    },
+    {
+      "intname": "uk_centurion_action_x",
+      "ab_top_speed": [39, 14],
+      "rb_top_speed": [35, 13],
+      "visibility": 119
+    },
+    {
+      "intname": "uk_centurion_mk_1",
+      "ab_top_speed": [42, 14],
+      "rb_top_speed": [38, 13],
+      "visibility": 119
+    },
+    {
+      "intname": "uk_centurion_mk_10",
+      "ab_top_speed": [39, 14],
+      "rb_top_speed": [35, 13],
+      "visibility": 119
+    },
+    {
+      "intname": "uk_centurion_mk_3",
+      "ab_top_speed": [39, 14],
+      "rb_top_speed": [35, 13],
+      "visibility": 119
+    },
+    {
+      "intname": "uk_centurion_mk_5_avre_era",
+      "ab_top_speed": [39, 14],
+      "rb_top_speed": [35, 13],
+      "visibility": 126
+    },
+    {
+      "intname": "uk_centurion_mk_5_raac",
+      "ab_top_speed": [39, 14],
+      "rb_top_speed": [35, 13],
+      "visibility": 119
+    },
+    {
+      "intname": "uk_challenger_2_dorchester",
+      "ab_top_speed": [66, 42],
+      "rb_top_speed": [60, 38],
+      "visibility": 88
+    },
+    {
+      "intname": "uk_challenger_2_tes",
+      "ab_top_speed": [66, 42],
+      "rb_top_speed": [60, 38],
+      "visibility": 88
+    },
+    {
+      "intname": "uk_challenger_II",
+      "ab_top_speed": [66, 42],
+      "rb_top_speed": [60, 38],
+      "visibility": 88
+    },
+    {
+      "intname": "uk_challenger_1_mk_3_gulf",
+      "ab_top_speed": [62, 41],
+      "rb_top_speed": [56, 37],
+      "visibility": 88
+    },
+    {
+      "intname": "uk_challenger_1",
+      "ab_top_speed": [62, 41],
+      "rb_top_speed": [56, 37],
+      "visibility": 88
+    },
+    {
+      "intname": "uk_challenger_mk_3",
+      "ab_top_speed": [62, 41],
+      "rb_top_speed": [56, 37],
+      "visibility": 88
+    },
+    {
+      "intname": "uk_a30_challenger",
+      "ab_top_speed": [58, 4],
+      "rb_top_speed": [52, 4],
+      "visibility": 105
+    },
+    {
+      "intname": "fr_bat_chat_25t",
+      "ab_top_speed": [73, 73],
+      "rb_top_speed": [65, 65],
+      "visibility": 82
+    },
+    {
+      "intname": "sw_charioteer_mk_7",
+      "ab_top_speed": [63, 4],
+      "rb_top_speed": [57, 4],
+      "visibility": 89
+    },
+    {
+      "intname": "uk_charioteer_mk_7",
+      "ab_top_speed": [63, 4],
+      "rb_top_speed": [57, 4],
+      "visibility": 89
+    },
+    {
+      "intname": "cn_type_97_chi_ha",
+      "ab_top_speed": [45, 7],
+      "rb_top_speed": [40, 6],
+      "visibility": 75
+    },
+    {
+      "intname": "cn_type_97_kai",
+      "ab_top_speed": [45, 7],
+      "rb_top_speed": [40, 6],
+      "visibility": 75
+    },
+    {
+      "intname": "jp_type_97_kai_td",
+      "ab_top_speed": [45, 7],
+      "rb_top_speed": [40, 6],
+      "visibility": 75
+    },
+    {
+      "intname": "jp_type_97_kai",
+      "ab_top_speed": [45, 7],
+      "rb_top_speed": [40, 6],
+      "visibility": 75
+    },
+    {
+      "intname": "jp_navy_120mm_spg",
+      "ab_top_speed": [44, 7],
+      "rb_top_speed": [40, 6],
+      "visibility": 107
+    },
+    {
+      "intname": "jp_type_97_chi_ha_12cm",
+      "ab_top_speed": [45, 7],
+      "rb_top_speed": [40, 6],
+      "visibility": 75
+    },
+    {
+      "intname": "jp_type_97_chi_ha",
+      "ab_top_speed": [45, 7],
+      "rb_top_speed": [40, 6],
+      "visibility": 75
+    },
+    {
+      "intname": "jp_type_1_chi_he_5th_regiment",
+      "ab_top_speed": [49, 10],
+      "rb_top_speed": [44, 9],
+      "visibility": 88
+    },
+    {
+      "intname": "jp_type_1_chi_he",
+      "ab_top_speed": [49, 10],
+      "rb_top_speed": [44, 9],
+      "visibility": 88
+    },
+    {
+      "intname": "jp_type_3_chi_nu_75cm_type_5",
+      "ab_top_speed": [44, 9],
+      "rb_top_speed": [39, 8],
+      "visibility": 88
+    },
+    {
+      "intname": "jp_type_3_chi_nu",
+      "ab_top_speed": [44, 9],
+      "rb_top_speed": [39, 8],
+      "visibility": 88
+    },
+    {
+      "intname": "jp_type_5_chi_ri",
+      "ab_top_speed": [51, 10],
+      "rb_top_speed": [46, 9],
+      "visibility": 130
+    },
+    {
+      "intname": "jp_type_4_chi_to_late",
+      "ab_top_speed": [50, 10],
+      "rb_top_speed": [45, 9],
+      "visibility": 88
+    },
+    {
+      "intname": "jp_type_4_chi_to",
+      "ab_top_speed": [50, 10],
+      "rb_top_speed": [45, 9],
+      "visibility": 88
+    },
+    {
+      "intname": "uk_chieftain_marksman",
+      "ab_top_speed": [53, 13],
+      "rb_top_speed": [49, 12],
+      "visibility": 89
+    },
+    {
+      "intname": "uk_chieftain_mk_10",
+      "ab_top_speed": [54, 13],
+      "rb_top_speed": [49, 12],
+      "visibility": 89
+    },
+    {
+      "intname": "uk_chieftain_mk_3",
+      "ab_top_speed": [46, 11],
+      "rb_top_speed": [41, 10],
+      "visibility": 89
+    },
+    {
+      "intname": "uk_chieftain_mk_5",
+      "ab_top_speed": [54, 13],
+      "rb_top_speed": [49, 12],
+      "visibility": 89
+    },
+    {
+      "intname": "uk_a_22f_mk_7_churchill_crocodile",
+      "ab_top_speed": [22, 3],
+      "rb_top_speed": [21, 3],
+      "visibility": 87
+    },
+    {
+      "intname": "uk_a_22_mk_1_churchill_1941",
+      "ab_top_speed": [30, 3],
+      "rb_top_speed": [28, 3],
+      "visibility": 87
+    },
+    {
+      "intname": "uk_a_22b_mk_3_churchill_1942",
+      "ab_top_speed": [30, 3],
+      "rb_top_speed": [28, 3],
+      "visibility": 87
+    },
+    {
+      "intname": "uk_a_22f_mk_7_churchill_1944",
+      "ab_top_speed": [22, 3],
+      "rb_top_speed": [21, 3],
+      "visibility": 87
+    },
+    {
+      "intname": "germ_th_800_bismark",
+      "ab_top_speed": [96, 39],
+      "rb_top_speed": [86, 35],
+      "visibility": 136
+    },
+    {
+      "intname": "us_m4a3e2_sherman_jumbo_cobra_king",
+      "ab_top_speed": [38, 5],
+      "rb_top_speed": [36, 5],
+      "visibility": 122
+    },
+    {
+      "intname": "uk_a_34_comet_iron_duke",
+      "ab_top_speed": [58, 4],
+      "rb_top_speed": [52, 4],
+      "visibility": 99
+    },
+    {
+      "intname": "sw_a_34_comet",
+      "ab_top_speed": [58, 4],
+      "rb_top_speed": [52, 4],
+      "visibility": 99
+    },
+    {
+      "intname": "uk_a_34_comet",
+      "ab_top_speed": [58, 4],
+      "rb_top_speed": [52, 4],
+      "visibility": 99
+    },
+    {
+      "intname": "uk_concept3_ngac",
+      "ab_top_speed": [92, 92],
+      "rb_top_speed": [83, 83],
+      "visibility": 96
+    },
+    {
+      "intname": "uk_conqueror_mk_2",
+      "ab_top_speed": [37, 13],
+      "rb_top_speed": [35, 12],
+      "visibility": 176
+    },
+    {
+      "intname": "uk_fv4004_conway",
+      "ab_top_speed": [41, 14],
+      "rb_top_speed": [38, 13],
+      "visibility": 150
+    },
+    {
+      "intname": "uk_a27m_cromwell_1",
+      "ab_top_speed": [72, 5],
+      "rb_top_speed": [65, 4],
+      "visibility": 85
+    },
+    {
+      "intname": "uk_a27m_cromwell_5_rp3",
+      "ab_top_speed": [58, 4],
+      "rb_top_speed": [52, 4],
+      "visibility": 85
+    },
+    {
+      "intname": "uk_a27m_cromwell_5",
+      "ab_top_speed": [58, 4],
+      "rb_top_speed": [52, 4],
+      "visibility": 85
+    },
+    {
+      "intname": "uk_crusader_mk_2_the_saint",
+      "ab_top_speed": [47, 8],
+      "rb_top_speed": [43, 7],
+      "visibility": 76
+    },
+    {
+      "intname": "uk_crusader_aa_mk_1",
+      "ab_top_speed": [48, 8],
+      "rb_top_speed": [44, 7],
+      "visibility": 100
+    },
+    {
+      "intname": "uk_crusader_aa_mk_2",
+      "ab_top_speed": [48, 8],
+      "rb_top_speed": [44, 7],
+      "visibility": 89
+    },
+    {
+      "intname": "uk_crusader_mk_2",
+      "ab_top_speed": [47, 8],
+      "rb_top_speed": [43, 7],
+      "visibility": 76
+    },
+    {
+      "intname": "uk_crusader_mk_3",
+      "ab_top_speed": [47, 8],
+      "rb_top_speed": [43, 7],
+      "visibility": 76
+    },
+    {
+      "intname": "fr_crusader_mk_2",
+      "ab_top_speed": [47, 8],
+      "rb_top_speed": [43, 7],
+      "visibility": 76
+    },
+    {
+      "intname": "fr_renault_d2",
+      "ab_top_speed": [26, 6],
+      "rb_top_speed": [23, 6],
+      "visibility": 99
+    },
+    {
+      "intname": "germ_marder_df_105",
+      "ab_top_speed": [79, 79],
+      "rb_top_speed": [71, 71],
+      "visibility": 89
+    },
+    {
+      "intname": "uk_daimler_mk_2",
+      "ab_top_speed": [89, 41],
+      "rb_top_speed": [80, 37],
+      "visibility": 76
+    },
+    {
+      "intname": "it_dardo_vcc",
+      "ab_top_speed": [78, 36],
+      "rb_top_speed": [70, 32],
+      "visibility": 88
+    },
+    {
+      "intname": "germ_pzsfl_IVa_dickermax",
+      "ab_top_speed": [31, 6],
+      "rb_top_speed": [28, 6],
+      "visibility": 90
+    },
+    {
+      "intname": "germ_pzkpfw_e_100",
+      "ab_top_speed": [32, 11],
+      "rb_top_speed": [31, 11],
+      "visibility": 182
+    },
+    {
+      "intname": "fr_panhard_ebr_1951",
+      "ab_top_speed": [117, 117],
+      "rb_top_speed": [105, 105],
+      "visibility": 93
+    },
+    {
+      "intname": "fr_panhard_ebr_1954",
+      "ab_top_speed": [117, 117],
+      "rb_top_speed": [105, 105],
+      "visibility": 93
+    },
+    {
+      "intname": "fr_panhard_ebr_1963",
+      "ab_top_speed": [117, 117],
+      "rb_top_speed": [105, 105],
+      "visibility": 93
+    },
+    {
+      "intname": "fr_amx_elc_bis",
+      "ab_top_speed": [88, 38],
+      "rb_top_speed": [81, 35],
+      "visibility": 64
+    },
+    {
+      "intname": "uk_eland_90_mk_7",
+      "ab_top_speed": [100, 20],
+      "rb_top_speed": [90, 18],
+      "visibility": 88
+    },
+    {
+      "intname": "germ_panzerjager_tiger_P_elefant",
+      "ab_top_speed": [33, 33],
+      "rb_top_speed": [31, 31],
+      "visibility": 120
+    },
+    {
+      "intname": "germ_pzkpfw_V_ersatz_m10",
+      "ab_top_speed": [51, 4],
+      "rb_top_speed": [46, 4],
+      "visibility": 125
+    },
+    {
+      "intname": "uk_a_33_excelsior",
+      "ab_top_speed": [42, 3],
+      "rb_top_speed": [39, 3],
+      "visibility": 85
+    },
+    {
+      "intname": "fr_fcm_36",
+      "ab_top_speed": [27, 4],
+      "rb_top_speed": [24, 4],
+      "visibility": 88
+    },
+    {
+      "intname": "it_fiat_6614_106sr",
+      "ab_top_speed": [112, 22],
+      "rb_top_speed": [100, 20],
+      "visibility": 62
+    },
+    {
+      "intname": "uk_fv4005",
+      "ab_top_speed": [31, 11],
+      "rb_top_speed": [28, 10],
+      "visibility": 273
+    },
+    {
+      "intname": "uk_fv4202",
+      "ab_top_speed": [35, 6],
+      "rb_top_speed": [32, 5],
+      "visibility": 101
+    },
+    {
+      "intname": "uk_falcon",
+      "ab_top_speed": [53, 9],
+      "rb_top_speed": [48, 8],
+      "visibility": 89
+    },
+    {
+      "intname": "germ_panzerjager_tiger_P_ferdinand",
+      "ab_top_speed": [33, 33],
+      "rb_top_speed": [31, 31],
+      "visibility": 120
+    },
+    {
+      "intname": "germ_flarakpz_1",
+      "ab_top_speed": [77, 77],
+      "rb_top_speed": [71, 71],
+      "visibility": -1154
+    },
+    {
+      "intname": "germ_flarakrad",
+      "ab_top_speed": [110, 39],
+      "rb_top_speed": [101, 36],
+      "visibility": 3000
+    },
+    {
+      "intname": "germ_flakpanzer_V_Coelian",
+      "ab_top_speed": [50, 4],
+      "rb_top_speed": [46, 4],
+      "visibility": 107
+    },
+    {
+      "intname": "germ_flakpanzer_38t_Gepard",
+      "ab_top_speed": [46, 7],
+      "rb_top_speed": [43, 7],
+      "visibility": 77
+    },
+    {
+      "intname": "germ_flakpanzer_I_ausf_A",
+      "ab_top_speed": [34, 7],
+      "rb_top_speed": [31, 6],
+      "visibility": 71
+    },
+    {
+      "intname": "uk_g6_spg",
+      "ab_top_speed": [93, 9],
+      "rb_top_speed": [86, 8],
+      "visibility": 136
+    },
+    {
+      "intname": "ussr_gaz_4m",
+      "ab_top_speed": [50, 7],
+      "rb_top_speed": [46, 6],
+      "visibility": 75
+    },
+    {
+      "intname": "ussr_gaz_dshk",
+      "ab_top_speed": [50, 7],
+      "rb_top_speed": [46, 6],
+      "visibility": 75
+    },
+    {
+      "intname": "ussr_gaz_mm_72k",
+      "ab_top_speed": [50, 7],
+      "rb_top_speed": [46, 6],
+      "visibility": 79
+    },
+    {
+      "intname": "il_magach_6b_gal_batash",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 142
+    },
+    {
+      "intname": "germ_flakpz_1a2_Gepard",
+      "ab_top_speed": [71, 28],
+      "rb_top_speed": [66, 26],
+      "visibility": 313
+    },
+    {
+      "intname": "germ_flakpz_I_Gepard",
+      "ab_top_speed": [71, 28],
+      "rb_top_speed": [66, 26],
+      "visibility": 313
+    },
+    {
+      "intname": "us_mk1_grant",
+      "ab_top_speed": [43, 6],
+      "rb_top_speed": [39, 6],
+      "visibility": 139
+    },
+    {
+      "intname": "uk_mk1_grant",
+      "ab_top_speed": [43, 6],
+      "rb_top_speed": [39, 6],
+      "visibility": 139
+    },
+    {
+      "intname": "uk_3_inch_gun_carrier",
+      "ab_top_speed": [28, 3],
+      "rb_top_speed": [26, 3],
+      "visibility": 104
+    },
+    {
+      "intname": "fr_hotchkiss_h35",
+      "ab_top_speed": [32, 6],
+      "rb_top_speed": [29, 6],
+      "visibility": 73
+    },
+    {
+      "intname": "fr_hotchkiss_h39_cambronne",
+      "ab_top_speed": [41, 8],
+      "rb_top_speed": [37, 7],
+      "visibility": 75
+    },
+    {
+      "intname": "fr_hotchkiss_h39",
+      "ab_top_speed": [41, 8],
+      "rb_top_speed": [37, 7],
+      "visibility": 75
+    },
+    {
+      "intname": "us_hstv_l",
+      "ab_top_speed": [93, 28],
+      "rb_top_speed": [84, 25],
+      "visibility": 88
+    },
+    {
+      "intname": "jp_type_95_ha_go_commander",
+      "ab_top_speed": [54, 6],
+      "rb_top_speed": [49, 6],
+      "visibility": 75
+    },
+    {
+      "intname": "jp_type_95_ha_go",
+      "ab_top_speed": [54, 6],
+      "rb_top_speed": [49, 6],
+      "visibility": 75
+    },
+    {
+      "intname": "jp_pzkpfw_VI_ausf_e_tiger",
+      "ab_top_speed": [48, 9],
+      "rb_top_speed": [45, 9],
+      "visibility": 112
+    },
+    {
+      "intname": "jp_type_2_ho_i",
+      "ab_top_speed": [49, 10],
+      "rb_top_speed": [44, 9],
+      "visibility": 88
+    },
+    {
+      "intname": "jp_type_3_ho_ni_I",
+      "ab_top_speed": [44, 7],
+      "rb_top_speed": [40, 6],
+      "visibility": 75
+    },
+    {
+      "intname": "jp_type_3_ho_ni_III",
+      "ab_top_speed": [44, 7],
+      "rb_top_speed": [40, 6],
+      "visibility": 75
+    },
+    {
+      "intname": "jp_type_5_ho_ri_production",
+      "ab_top_speed": [44, 10],
+      "rb_top_speed": [41, 9],
+      "visibility": 130
+    },
+    {
+      "intname": "jp_type_5_ho_ri_prototype",
+      "ab_top_speed": [44, 9],
+      "rb_top_speed": [41, 8],
+      "visibility": 130
+    },
+    {
+      "intname": "jp_type_4_ho_ro",
+      "ab_top_speed": [44, 7],
+      "rb_top_speed": [40, 6],
+      "visibility": 75
+    },
+    {
+      "intname": "il_m163_vulcan",
+      "ab_top_speed": [70, 17],
+      "rb_top_speed": [65, 15],
+      "visibility": 117
+    },
+    {
+      "intname": "jp_type_89b_i_go_otsu",
+      "ab_top_speed": [30, 5],
+      "rb_top_speed": [27, 4],
+      "visibility": 75
+    },
+    {
+      "intname": "us_m1_ip_abrams",
+      "ab_top_speed": [76, 43],
+      "rb_top_speed": [69, 39],
+      "visibility": 82
+    },
+    {
+      "intname": "ussr_is_1",
+      "ab_top_speed": [40, 16],
+      "rb_top_speed": [38, 15],
+      "visibility": 102
+    },
+    {
+      "intname": "ussr_is_2_1944_revenge",
+      "ab_top_speed": [40, 16],
+      "rb_top_speed": [38, 15],
+      "visibility": 102
+    },
+    {
+      "intname": "ussr_is_2_1944",
+      "ab_top_speed": [40, 16],
+      "rb_top_speed": [38, 15],
+      "visibility": 102
+    },
+    {
+      "intname": "cn_is_2_1943",
+      "ab_top_speed": [40, 16],
+      "rb_top_speed": [38, 15],
+      "visibility": 102
+    },
+    {
+      "intname": "ussr_is_2_1944_321",
+      "ab_top_speed": [40, 16],
+      "rb_top_speed": [38, 15],
+      "visibility": 102
+    },
+    {
+      "intname": "cn_is_2_1943_no402",
+      "ab_top_speed": [40, 16],
+      "rb_top_speed": [38, 15],
+      "visibility": 102
+    },
+    {
+      "intname": "cn_is_2_1944",
+      "ab_top_speed": [40, 16],
+      "rb_top_speed": [38, 15],
+      "visibility": 102
+    },
+    {
+      "intname": "ussr_is_2_1943",
+      "ab_top_speed": [40, 16],
+      "rb_top_speed": [38, 15],
+      "visibility": 102
+    },
+    {
+      "intname": "ussr_is_3",
+      "ab_top_speed": [43, 17],
+      "rb_top_speed": [41, 16],
+      "visibility": 86
+    },
+    {
+      "intname": "ussr_is_4m",
+      "ab_top_speed": [46, 12],
+      "rb_top_speed": [43, 11],
+      "visibility": 87
+    },
+    {
+      "intname": "ussr_is_6",
+      "ab_top_speed": [48, 19],
+      "rb_top_speed": [45, 18],
+      "visibility": 102
+    },
+    {
+      "intname": "ussr_is_7",
+      "ab_top_speed": [64, 25],
+      "rb_top_speed": [60, 23],
+      "visibility": 94
+    },
+    {
+      "intname": "cn_isu_122",
+      "ab_top_speed": [42, 16],
+      "rb_top_speed": [38, 15],
+      "visibility": 83
+    },
+    {
+      "intname": "ussr_isu_122",
+      "ab_top_speed": [42, 16],
+      "rb_top_speed": [38, 15],
+      "visibility": 83
+    },
+    {
+      "intname": "ussr_isu_122s",
+      "ab_top_speed": [42, 16],
+      "rb_top_speed": [38, 15],
+      "visibility": 83
+    },
+    {
+      "intname": "cn_isu_152",
+      "ab_top_speed": [42, 16],
+      "rb_top_speed": [38, 15],
+      "visibility": 83
+    },
+    {
+      "intname": "ussr_isu_152",
+      "ab_top_speed": [42, 16],
+      "rb_top_speed": [38, 15],
+      "visibility": 83
+    },
+    {
+      "intname": "ussr_it_1",
+      "ab_top_speed": [55, 9],
+      "rb_top_speed": [51, 8],
+      "visibility": 75
+    },
+    {
+      "intname": "sw_ikv_103",
+      "ab_top_speed": [58, 12],
+      "rb_top_speed": [53, 12],
+      "visibility": 58
+    },
+    {
+      "intname": "sw_ikv_72",
+      "ab_top_speed": [62, 14],
+      "rb_top_speed": [57, 13],
+      "visibility": 58
+    },
+    {
+      "intname": "sw_ikv_73",
+      "ab_top_speed": [47, 7],
+      "rb_top_speed": [42, 6],
+      "visibility": 82
+    },
+    {
+      "intname": "sw_ikv_91_105",
+      "ab_top_speed": [72, 13],
+      "rb_top_speed": [65, 12],
+      "visibility": 84
+    },
+    {
+      "intname": "sw_ikv_91",
+      "ab_top_speed": [72, 13],
+      "rb_top_speed": [65, 12],
+      "visibility": 84
+    },
+    {
+      "intname": "uk_a1e1_independent",
+      "ab_top_speed": [35, 5],
+      "rb_top_speed": [32, 4],
+      "visibility": 103
+    },
+    {
+      "intname": "fr_crotale_ng",
+      "ab_top_speed": [90, 16],
+      "rb_top_speed": [83, 15],
+      "visibility": -88
+    },
+    {
+      "intname": "sw_crotale_ng",
+      "ab_top_speed": [90, 16],
+      "rb_top_speed": [83, 15],
+      "visibility": -88
+    },
+    {
+      "intname": "germ_kanonenjagdpanzer",
+      "ab_top_speed": [77, 77],
+      "rb_top_speed": [71, 71],
+      "visibility": 71
+    },
+    {
+      "intname": "germ_sk105_a2",
+      "ab_top_speed": [66, 10],
+      "rb_top_speed": [59, 9],
+      "visibility": 88
+    },
+    {
+      "intname": "germ_panzerjager_panther",
+      "ab_top_speed": [50, 4],
+      "rb_top_speed": [46, 4],
+      "visibility": 101
+    },
+    {
+      "intname": "germ_jgdpz_38t",
+      "ab_top_speed": [46, 7],
+      "rb_top_speed": [43, 7],
+      "visibility": 71
+    },
+    {
+      "intname": "germ_jgdpz_IV_L48",
+      "ab_top_speed": [44, 9],
+      "rb_top_speed": [40, 8],
+      "visibility": 64
+    },
+    {
+      "intname": "germ_panzerjager_tiger",
+      "ab_top_speed": [46, 13],
+      "rb_top_speed": [42, 12],
+      "visibility": 120
+    },
+    {
+      "intname": "germ_kpz_70",
+      "ab_top_speed": [72, 72],
+      "rb_top_speed": [64, 64],
+      "visibility": 86
+    },
+    {
+      "intname": "ussr_kv_1_L_11",
+      "ab_top_speed": [37, 7],
+      "rb_top_speed": [35, 7],
+      "visibility": 101
+    },
+    {
+      "intname": "ussr_kv_1_zis_5",
+      "ab_top_speed": [37, 7],
+      "rb_top_speed": [35, 7],
+      "visibility": 101
+    },
+    {
+      "intname": "ussr_kv_122",
+      "ab_top_speed": [37, 14],
+      "rb_top_speed": [35, 14],
+      "visibility": 101
+    },
+    {
+      "intname": "ussr_kv_1e",
+      "ab_top_speed": [37, 7],
+      "rb_top_speed": [35, 7],
+      "visibility": 101
+    },
+    {
+      "intname": "ussr_kv_1s",
+      "ab_top_speed": [48, 19],
+      "rb_top_speed": [45, 18],
+      "visibility": 96
+    },
+    {
+      "intname": "ussr_kv_2_1939",
+      "ab_top_speed": [37, 7],
+      "rb_top_speed": [35, 7],
+      "visibility": 156
+    },
+    {
+      "intname": "ussr_kv_2_1940",
+      "ab_top_speed": [37, 7],
+      "rb_top_speed": [35, 7],
+      "visibility": 156
+    },
+    {
+      "intname": "ussr_kv_2_zis_6",
+      "ab_top_speed": [37, 7],
+      "rb_top_speed": [35, 7],
+      "visibility": 156
+    },
+    {
+      "intname": "ussr_kv_220",
+      "ab_top_speed": [37, 7],
+      "rb_top_speed": [35, 7],
+      "visibility": 101
+    },
+    {
+      "intname": "ussr_kv_85",
+      "ab_top_speed": [37, 14],
+      "rb_top_speed": [35, 14],
+      "visibility": 96
+    },
+    {
+      "intname": "germ_kv_1B_finland",
+      "ab_top_speed": [37, 7],
+      "rb_top_speed": [35, 7],
+      "visibility": 101
+    },
+    {
+      "intname": "germ_kv_1_kwk_40",
+      "ab_top_speed": [37, 7],
+      "rb_top_speed": [35, 7],
+      "visibility": 101
+    },
+    {
+      "intname": "germ_kv_2_754r",
+      "ab_top_speed": [37, 7],
+      "rb_top_speed": [35, 7],
+      "visibility": 156
+    },
+    {
+      "intname": "jp_type_3_ka_chi",
+      "ab_top_speed": [39, 11],
+      "rb_top_speed": [35, 10],
+      "visibility": 395
+    },
+    {
+      "intname": "jp_type_2_ka_mi",
+      "ab_top_speed": [45, 12],
+      "rb_top_speed": [40, 10],
+      "visibility": 75
+    },
+    {
+      "intname": "jp_type_98_ke_ni",
+      "ab_top_speed": [50, 8],
+      "rb_top_speed": [45, 7],
+      "visibility": 75
+    },
+    {
+      "intname": "uk_khalid",
+      "ab_top_speed": [62, 41],
+      "rb_top_speed": [56, 37],
+      "visibility": 89
+    },
+    {
+      "intname": "ussr_9p157",
+      "ab_top_speed": [77, 23],
+      "rb_top_speed": [71, 21],
+      "visibility": 71
+    },
+    {
+      "intname": "germ_flakpanzer_IV_Kugelblitz",
+      "ab_top_speed": [43, 8],
+      "rb_top_speed": [39, 8],
+      "visibility": 83
+    },
+    {
+      "intname": "sw_l_62_anti_II",
+      "ab_top_speed": [44, 5],
+      "rb_top_speed": [41, 5],
+      "visibility": 71
+    },
+    {
+      "intname": "it_l3_cc",
+      "ab_top_speed": [46, 7],
+      "rb_top_speed": [43, 7],
+      "visibility": 51
+    },
+    {
+      "intname": "it_l6_leone",
+      "ab_top_speed": [47, 8],
+      "rb_top_speed": [43, 7],
+      "visibility": 74
+    },
+    {
+      "intname": "it_l6",
+      "ab_top_speed": [47, 8],
+      "rb_top_speed": [43, 7],
+      "visibility": 74
+    },
+    {
+      "intname": "us_lav_ad",
+      "ab_top_speed": [109, 20],
+      "rb_top_speed": [100, 18],
+      "visibility": 136
+    },
+    {
+      "intname": "us_lvt_a_1",
+      "ab_top_speed": [45, 6],
+      "rb_top_speed": [40, 5],
+      "visibility": 133
+    },
+    {
+      "intname": "us_lvt_4_zis_2",
+      "ab_top_speed": [44, 6],
+      "rb_top_speed": [40, 5],
+      "visibility": 167
+    },
+    {
+      "intname": "cn_lvt_4_zis_2",
+      "ab_top_speed": [44, 6],
+      "rb_top_speed": [40, 5],
+      "visibility": 167
+    },
+    {
+      "intname": "us_lvt_a_4",
+      "ab_top_speed": [45, 6],
+      "rb_top_speed": [40, 5],
+      "visibility": 133
+    },
+    {
+      "intname": "fr_lvt_bofors",
+      "ab_top_speed": [45, 6],
+      "rb_top_speed": [40, 5],
+      "visibility": 133
+    },
+    {
+      "intname": "sw_lago_1",
+      "ab_top_speed": [51, 7],
+      "rb_top_speed": [46, 7],
+      "visibility": 84
+    },
+    {
+      "intname": "it_lancia3ro_100",
+      "ab_top_speed": [50, 13],
+      "rb_top_speed": [46, 12],
+      "visibility": 97
+    },
+    {
+      "intname": "germ_le_kpz_m41",
+      "ab_top_speed": [81, 21],
+      "rb_top_speed": [73, 19],
+      "visibility": 88
+    },
+    {
+      "intname": "fr_leclerc_s2",
+      "ab_top_speed": [79, 42],
+      "rb_top_speed": [72, 38],
+      "visibility": 90
+    },
+    {
+      "intname": "fr_leclerc_sxxi",
+      "ab_top_speed": [79, 42],
+      "rb_top_speed": [72, 38],
+      "visibility": 90
+    },
+    {
+      "intname": "fr_leclerc_s1",
+      "ab_top_speed": [79, 42],
+      "rb_top_speed": [72, 38],
+      "visibility": 90
+    },
+    {
+      "intname": "it_leopard_1a5",
+      "ab_top_speed": [73, 28],
+      "rb_top_speed": [66, 26],
+      "visibility": 95
+    },
+    {
+      "intname": "germ_leopard_1a5",
+      "ab_top_speed": [73, 28],
+      "rb_top_speed": [66, 26],
+      "visibility": 95
+    },
+    {
+      "intname": "sw_leopard_1a5no",
+      "ab_top_speed": [73, 28],
+      "rb_top_speed": [66, 26],
+      "visibility": 95
+    },
+    {
+      "intname": "germ_leopard_2a4_pzbtl_123",
+      "ab_top_speed": [76, 35],
+      "rb_top_speed": [69, 31],
+      "visibility": 95
+    },
+    {
+      "intname": "germ_leopard_2pl",
+      "ab_top_speed": [76, 35],
+      "rb_top_speed": [69, 31],
+      "visibility": 95
+    },
+    {
+      "intname": "sw_leopard_2a4_fin",
+      "ab_top_speed": [76, 35],
+      "rb_top_speed": [69, 31],
+      "visibility": 95
+    },
+    {
+      "intname": "germ_leopard_2a4",
+      "ab_top_speed": [76, 35],
+      "rb_top_speed": [69, 31],
+      "visibility": 95
+    },
+    {
+      "intname": "germ_leopard_2a5",
+      "ab_top_speed": [76, 35],
+      "rb_top_speed": [69, 31],
+      "visibility": 87
+    },
+    {
+      "intname": "sw_leopard_2a6nl",
+      "ab_top_speed": [76, 35],
+      "rb_top_speed": [69, 31],
+      "visibility": 87
+    },
+    {
+      "intname": "germ_leopard_2a6",
+      "ab_top_speed": [76, 35],
+      "rb_top_speed": [69, 31],
+      "visibility": 87
+    },
+    {
+      "intname": "germ_leopard_2av",
+      "ab_top_speed": [76, 35],
+      "rb_top_speed": [69, 31],
+      "visibility": 95
+    },
+    {
+      "intname": "germ_leopard_2k",
+      "ab_top_speed": [81, 81],
+      "rb_top_speed": [73, 73],
+      "visibility": 88
+    },
+    {
+      "intname": "germ_leopard_a1a1_120",
+      "ab_top_speed": [73, 28],
+      "rb_top_speed": [66, 26],
+      "visibility": 95
+    },
+    {
+      "intname": "germ_leopard_I_a1",
+      "ab_top_speed": [73, 28],
+      "rb_top_speed": [66, 26],
+      "visibility": 95
+    },
+    {
+      "intname": "germ_leopard_I",
+      "ab_top_speed": [73, 28],
+      "rb_top_speed": [66, 26],
+      "visibility": 96
+    },
+    {
+      "intname": "uk_vickers_mk_6_aa_mk_1",
+      "ab_top_speed": [55, 7],
+      "rb_top_speed": [51, 7],
+      "visibility": 108
+    },
+    {
+      "intname": "fr_lorraine_155",
+      "ab_top_speed": [60, 16],
+      "rb_top_speed": [55, 15],
+      "visibility": 133
+    },
+    {
+      "intname": "fr_lorraine_37l",
+      "ab_top_speed": [38, 8],
+      "rb_top_speed": [35, 7],
+      "visibility": 72
+    },
+    {
+      "intname": "fr_lorraine_40t",
+      "ab_top_speed": [67, 26],
+      "rb_top_speed": [60, 23],
+      "visibility": 109
+    },
+    {
+      "intname": "sw_lvkv_42",
+      "ab_top_speed": [66, 8],
+      "rb_top_speed": [61, 7],
+      "visibility": 71
+    },
+    {
+      "intname": "sw_lvkv_90c",
+      "ab_top_speed": [77, 50],
+      "rb_top_speed": [70, 46],
+      "visibility": 95
+    },
+    {
+      "intname": "sw_lvrbv_701",
+      "ab_top_speed": [42, 8],
+      "rb_top_speed": [39, 7],
+      "visibility": 93
+    },
+    {
+      "intname": "sw_tgdgb_m40_lv",
+      "ab_top_speed": [49, 7],
+      "rb_top_speed": [45, 7],
+      "visibility": 84
+    },
+    {
+      "intname": "il_m_51_w",
+      "ab_top_speed": [43, 6],
+      "rb_top_speed": [38, 5],
+      "visibility": 122
+    },
+    {
+      "intname": "il_m_51",
+      "ab_top_speed": [43, 6],
+      "rb_top_speed": [38, 5],
+      "visibility": 122
+    },
+    {
+      "intname": "us_m1_abrams",
+      "ab_top_speed": [80, 43],
+      "rb_top_speed": [72, 39],
+      "visibility": 82
+    },
+    {
+      "intname": "cn_m10",
+      "ab_top_speed": [53, 6],
+      "rb_top_speed": [49, 5],
+      "visibility": 87
+    },
+    {
+      "intname": "fr_m10",
+      "ab_top_speed": [53, 6],
+      "rb_top_speed": [49, 5],
+      "visibility": 87
+    },
+    {
+      "intname": "us_m10",
+      "ab_top_speed": [53, 6],
+      "rb_top_speed": [49, 5],
+      "visibility": 87
+    },
+    {
+      "intname": "us_m103",
+      "ab_top_speed": [36, 9],
+      "rb_top_speed": [34, 9],
+      "visibility": 214
+    },
+    {
+      "intname": "it_m11_39",
+      "ab_top_speed": [38, 6],
+      "rb_top_speed": [34, 5],
+      "visibility": 79
+    },
+    {
+      "intname": "us_m1128_wolfpack",
+      "ab_top_speed": [108, 14],
+      "rb_top_speed": [97, 13],
+      "visibility": 167
+    },
+    {
+      "intname": "us_m1128_mgs",
+      "ab_top_speed": [108, 14],
+      "rb_top_speed": [97, 13],
+      "visibility": 167
+    },
+    {
+      "intname": "cn_m113a1_tow",
+      "ab_top_speed": [70, 17],
+      "rb_top_speed": [65, 15],
+      "visibility": 68
+    },
+    {
+      "intname": "it_m113a1_tow",
+      "ab_top_speed": [70, 17],
+      "rb_top_speed": [65, 15],
+      "visibility": 68
+    },
+    {
+      "intname": "us_halftrack_m13",
+      "ab_top_speed": [80, 19],
+      "rb_top_speed": [73, 17],
+      "visibility": 75
+    },
+    {
+      "intname": "it_m13_40_serie_1",
+      "ab_top_speed": [36, 6],
+      "rb_top_speed": [32, 5],
+      "visibility": 82
+    },
+    {
+      "intname": "it_m13_40_serie_2",
+      "ab_top_speed": [36, 6],
+      "rb_top_speed": [32, 5],
+      "visibility": 82
+    },
+    {
+      "intname": "it_m13_40_serie_3",
+      "ab_top_speed": [36, 6],
+      "rb_top_speed": [32, 5],
+      "visibility": 82
+    },
+    {
+      "intname": "it_m14_41_47_40",
+      "ab_top_speed": [38, 6],
+      "rb_top_speed": [34, 6],
+      "visibility": 82
+    },
+    {
+      "intname": "it_m14_41",
+      "ab_top_speed": [38, 6],
+      "rb_top_speed": [34, 6],
+      "visibility": 82
+    },
+    {
+      "intname": "us_halftrack_m15",
+      "ab_top_speed": [80, 19],
+      "rb_top_speed": [73, 17],
+      "visibility": 82
+    },
+    {
+      "intname": "it_m15_42",
+      "ab_top_speed": [43, 4],
+      "rb_top_speed": [39, 4],
+      "visibility": 82
+    },
+    {
+      "intname": "jp_halftrack_m16",
+      "ab_top_speed": [80, 19],
+      "rb_top_speed": [73, 17],
+      "visibility": 80
+    },
+    {
+      "intname": "us_halftrack_m16",
+      "ab_top_speed": [80, 19],
+      "rb_top_speed": [73, 17],
+      "visibility": 80
+    },
+    {
+      "intname": "us_m163_vulcan",
+      "ab_top_speed": [70, 17],
+      "rb_top_speed": [65, 15],
+      "visibility": 117
+    },
+    {
+      "intname": "us_m18_hellcat_black_cat",
+      "ab_top_speed": [90, 29],
+      "rb_top_speed": [81, 26],
+      "visibility": 82
+    },
+    {
+      "intname": "it_m18_hellcat",
+      "ab_top_speed": [90, 29],
+      "rb_top_speed": [81, 26],
+      "visibility": 82
+    },
+    {
+      "intname": "cn_m18_hellcat",
+      "ab_top_speed": [90, 29],
+      "rb_top_speed": [81, 26],
+      "visibility": 82
+    },
+    {
+      "intname": "us_m18_hellcat",
+      "ab_top_speed": [90, 29],
+      "rb_top_speed": [81, 26],
+      "visibility": 82
+    },
+    {
+      "intname": "jp_m19",
+      "ab_top_speed": [62, 26],
+      "rb_top_speed": [57, 24],
+      "visibility": 123
+    },
+    {
+      "intname": "us_m19",
+      "ab_top_speed": [62, 26],
+      "rb_top_speed": [57, 24],
+      "visibility": 123
+    },
+    {
+      "intname": "us_m1a1_aim_abrams",
+      "ab_top_speed": [76, 43],
+      "rb_top_speed": [69, 39],
+      "visibility": 82
+    },
+    {
+      "intname": "us_m1a1_hc_abrams",
+      "ab_top_speed": [76, 43],
+      "rb_top_speed": [69, 39],
+      "visibility": 82
+    },
+    {
+      "intname": "us_m1a1_abrams",
+      "ab_top_speed": [76, 43],
+      "rb_top_speed": [69, 39],
+      "visibility": 82
+    },
+    {
+      "intname": "us_m1a2_abrams",
+      "ab_top_speed": [76, 43],
+      "rb_top_speed": [69, 39],
+      "visibility": 82
+    },
+    {
+      "intname": "us_m1a2_sep_abrams",
+      "ab_top_speed": [76, 43],
+      "rb_top_speed": [69, 39],
+      "visibility": 82
+    },
+    {
+      "intname": "us_m2_medium",
+      "ab_top_speed": [60, 8],
+      "rb_top_speed": [54, 8],
+      "visibility": 110
+    },
+    {
+      "intname": "us_m22_locust",
+      "ab_top_speed": [63, 12],
+      "rb_top_speed": [57, 11],
+      "visibility": 62
+    },
+    {
+      "intname": "cn_m24_chaffee",
+      "ab_top_speed": [63, 26],
+      "rb_top_speed": [57, 24],
+      "visibility": 97
+    },
+    {
+      "intname": "it_m24_chaffee",
+      "ab_top_speed": [63, 26],
+      "rb_top_speed": [57, 24],
+      "visibility": 97
+    },
+    {
+      "intname": "jp_m24_chaffee",
+      "ab_top_speed": [63, 26],
+      "rb_top_speed": [57, 24],
+      "visibility": 97
+    },
+    {
+      "intname": "us_m24_chaffee_tl",
+      "ab_top_speed": [63, 26],
+      "rb_top_speed": [57, 24],
+      "visibility": 97
+    },
+    {
+      "intname": "us_m24_chaffee",
+      "ab_top_speed": [63, 26],
+      "rb_top_speed": [57, 24],
+      "visibility": 97
+    },
+    {
+      "intname": "us_m247",
+      "ab_top_speed": [53, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 192
+    },
+    {
+      "intname": "it_m26_ariete",
+      "ab_top_speed": [54, 16],
+      "rb_top_speed": [49, 15],
+      "visibility": 105
+    },
+    {
+      "intname": "us_m26_t99",
+      "ab_top_speed": [54, 16],
+      "rb_top_speed": [49, 15],
+      "visibility": 105
+    },
+    {
+      "intname": "us_m26_pershing",
+      "ab_top_speed": [54, 16],
+      "rb_top_speed": [49, 15],
+      "visibility": 105
+    },
+    {
+      "intname": "it_m26a1_pershing",
+      "ab_top_speed": [54, 16],
+      "rb_top_speed": [49, 15],
+      "visibility": 105
+    },
+    {
+      "intname": "us_m26e1_pershing",
+      "ab_top_speed": [54, 16],
+      "rb_top_speed": [49, 15],
+      "visibility": 105
+    },
+    {
+      "intname": "us_m2a2",
+      "ab_top_speed": [81, 10],
+      "rb_top_speed": [73, 9],
+      "visibility": 79
+    },
+    {
+      "intname": "us_m2a4_1st_armor_div",
+      "ab_top_speed": [64, 8],
+      "rb_top_speed": [58, 7],
+      "visibility": 79
+    },
+    {
+      "intname": "us_m2a4",
+      "ab_top_speed": [64, 8],
+      "rb_top_speed": [58, 7],
+      "visibility": 79
+    },
+    {
+      "intname": "us_m3_bradley",
+      "ab_top_speed": [74, 16],
+      "rb_top_speed": [66, 14],
+      "visibility": 117
+    },
+    {
+      "intname": "us_halftrack_m3_75mm_gmc",
+      "ab_top_speed": [80, 19],
+      "rb_top_speed": [73, 17],
+      "visibility": 88
+    },
+    {
+      "intname": "us_m3_lee",
+      "ab_top_speed": [43, 6],
+      "rb_top_speed": [39, 6],
+      "visibility": 139
+    },
+    {
+      "intname": "ussr_m3c",
+      "ab_top_speed": [43, 6],
+      "rb_top_speed": [39, 6],
+      "visibility": 139
+    },
+    {
+      "intname": "us_m3_stuart",
+      "ab_top_speed": [56, 7],
+      "rb_top_speed": [51, 6],
+      "visibility": 89
+    },
+    {
+      "intname": "jp_m36b2_jgsdf",
+      "ab_top_speed": [44, 6],
+      "rb_top_speed": [41, 6],
+      "visibility": 101
+    },
+    {
+      "intname": "cn_m36",
+      "ab_top_speed": [46, 6],
+      "rb_top_speed": [42, 6],
+      "visibility": 101
+    },
+    {
+      "intname": "us_m36",
+      "ab_top_speed": [46, 6],
+      "rb_top_speed": [42, 6],
+      "visibility": 101
+    },
+    {
+      "intname": "it_m36b1",
+      "ab_top_speed": [45, 6],
+      "rb_top_speed": [42, 6],
+      "visibility": 122
+    },
+    {
+      "intname": "fr_m36b2_cefeo",
+      "ab_top_speed": [44, 6],
+      "rb_top_speed": [41, 6],
+      "visibility": 101
+    },
+    {
+      "intname": "us_m36b2",
+      "ab_top_speed": [44, 6],
+      "rb_top_speed": [41, 6],
+      "visibility": 101
+    },
+    {
+      "intname": "us_m3a1_stuart_usmc",
+      "ab_top_speed": [65, 8],
+      "rb_top_speed": [59, 7],
+      "visibility": 89
+    },
+    {
+      "intname": "us_m3a1_stuart",
+      "ab_top_speed": [65, 8],
+      "rb_top_speed": [59, 7],
+      "visibility": 89
+    },
+    {
+      "intname": "cn_m3a3_stuart_1st_ptg",
+      "ab_top_speed": [65, 8],
+      "rb_top_speed": [59, 7],
+      "visibility": 89
+    },
+    {
+      "intname": "it_m3a3_stuart",
+      "ab_top_speed": [65, 8],
+      "rb_top_speed": [59, 7],
+      "visibility": 89
+    },
+    {
+      "intname": "us_m3a3_bradley",
+      "ab_top_speed": [69, 16],
+      "rb_top_speed": [62, 14],
+      "visibility": 117
+    },
+    {
+      "intname": "cn_m3a3_stuart",
+      "ab_top_speed": [65, 8],
+      "rb_top_speed": [59, 7],
+      "visibility": 89
+    },
+    {
+      "intname": "fr_m3a3_stuart",
+      "ab_top_speed": [65, 8],
+      "rb_top_speed": [59, 7],
+      "visibility": 89
+    },
+    {
+      "intname": "us_m4a2_1944_germ",
+      "ab_top_speed": [53, 7],
+      "rb_top_speed": [48, 7],
+      "visibility": 103
+    },
+    {
+      "intname": "it_sherman_75_37",
+      "ab_top_speed": [43, 6],
+      "rb_top_speed": [38, 5],
+      "visibility": 108
+    },
+    {
+      "intname": "it_sherman_VII",
+      "ab_top_speed": [43, 6],
+      "rb_top_speed": [38, 5],
+      "visibility": 108
+    },
+    {
+      "intname": "us_m4_sherman",
+      "ab_top_speed": [43, 6],
+      "rb_top_speed": [38, 5],
+      "visibility": 103
+    },
+    {
+      "intname": "jp_m41_walker_bulldog",
+      "ab_top_speed": [81, 21],
+      "rb_top_speed": [73, 19],
+      "visibility": 88
+    },
+    {
+      "intname": "us_m41_walker_bulldog",
+      "ab_top_speed": [81, 21],
+      "rb_top_speed": [73, 19],
+      "visibility": 88
+    },
+    {
+      "intname": "cn_m_41d",
+      "ab_top_speed": [80, 21],
+      "rb_top_speed": [72, 19],
+      "visibility": 88
+    },
+    {
+      "intname": "cn_m42_duster",
+      "ab_top_speed": [79, 21],
+      "rb_top_speed": [73, 19],
+      "visibility": 109
+    },
+    {
+      "intname": "it_m15_42_contraereo",
+      "ab_top_speed": [42, 4],
+      "rb_top_speed": [39, 4],
+      "visibility": 91
+    },
+    {
+      "intname": "jp_m42_duster",
+      "ab_top_speed": [79, 21],
+      "rb_top_speed": [73, 19],
+      "visibility": 109
+    },
+    {
+      "intname": "us_m42_duster",
+      "ab_top_speed": [79, 21],
+      "rb_top_speed": [73, 19],
+      "visibility": 109
+    },
+    {
+      "intname": "it_semovente_m43_105_leoncello",
+      "ab_top_speed": [42, 4],
+      "rb_top_speed": [39, 4],
+      "visibility": 61
+    },
+    {
+      "intname": "us_m46_patton_73_armor_bat",
+      "ab_top_speed": [54, 22],
+      "rb_top_speed": [49, 20],
+      "visibility": 109
+    },
+    {
+      "intname": "us_m46_patton",
+      "ab_top_speed": [54, 22],
+      "rb_top_speed": [49, 20],
+      "visibility": 109
+    },
+    {
+      "intname": "it_m47_105",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 120
+    },
+    {
+      "intname": "jp_m47_patton_II",
+      "ab_top_speed": [54, 22],
+      "rb_top_speed": [49, 20],
+      "visibility": 120
+    },
+    {
+      "intname": "us_m47_patton_II",
+      "ab_top_speed": [54, 22],
+      "rb_top_speed": [49, 20],
+      "visibility": 120
+    },
+    {
+      "intname": "germ_mkpz_super_m48",
+      "ab_top_speed": [63, 27],
+      "rb_top_speed": [57, 25],
+      "visibility": 117
+    },
+    {
+      "intname": "cn_m48a1_patton_III",
+      "ab_top_speed": [50, 10],
+      "rb_top_speed": [45, 9],
+      "visibility": 117
+    },
+    {
+      "intname": "us_m48a1_patton_III",
+      "ab_top_speed": [50, 10],
+      "rb_top_speed": [45, 9],
+      "visibility": 117
+    },
+    {
+      "intname": "germ_mkpz_m48a2c",
+      "ab_top_speed": [54, 10],
+      "rb_top_speed": [49, 9],
+      "visibility": 117
+    },
+    {
+      "intname": "germ_mkpz_m48a2ga2",
+      "ab_top_speed": [54, 10],
+      "rb_top_speed": [49, 9],
+      "visibility": 117
+    },
+    {
+      "intname": "cn_m4a1_76w_sherman",
+      "ab_top_speed": [43, 6],
+      "rb_top_speed": [38, 5],
+      "visibility": 122
+    },
+    {
+      "intname": "us_m4a1_76w_sherman",
+      "ab_top_speed": [43, 6],
+      "rb_top_speed": [38, 5],
+      "visibility": 122
+    },
+    {
+      "intname": "fr_m4a1_sherman_fl_10",
+      "ab_top_speed": [43, 6],
+      "rb_top_speed": [38, 5],
+      "visibility": 122
+    },
+    {
+      "intname": "fr_m4a1_sherman",
+      "ab_top_speed": [43, 6],
+      "rb_top_speed": [38, 5],
+      "visibility": 103
+    },
+    {
+      "intname": "us_m4a1_1942_sherman",
+      "ab_top_speed": [43, 6],
+      "rb_top_speed": [38, 5],
+      "visibility": 103
+    },
+    {
+      "intname": "us_m4a2_76w_sherman",
+      "ab_top_speed": [52, 7],
+      "rb_top_speed": [46, 6],
+      "visibility": 122
+    },
+    {
+      "intname": "ussr_m4a2_76w_sherman",
+      "ab_top_speed": [52, 7],
+      "rb_top_speed": [46, 6],
+      "visibility": 122
+    },
+    {
+      "intname": "us_m4a2_sherman",
+      "ab_top_speed": [53, 7],
+      "rb_top_speed": [48, 7],
+      "visibility": 103
+    },
+    {
+      "intname": "fr_m4a3_105_sherman",
+      "ab_top_speed": [47, 7],
+      "rb_top_speed": [42, 6],
+      "visibility": 122
+    },
+    {
+      "intname": "us_m4a3_105_sherman",
+      "ab_top_speed": [47, 7],
+      "rb_top_speed": [42, 6],
+      "visibility": 122
+    },
+    {
+      "intname": "jp_m4a3e8_76w_sherman",
+      "ab_top_speed": [47, 7],
+      "rb_top_speed": [43, 6],
+      "visibility": 122
+    },
+    {
+      "intname": "us_m4a3e8_76w_sherman",
+      "ab_top_speed": [47, 7],
+      "rb_top_speed": [43, 6],
+      "visibility": 122
+    },
+    {
+      "intname": "us_m4a3e2_76w_sherman_jumbo",
+      "ab_top_speed": [38, 5],
+      "rb_top_speed": [36, 5],
+      "visibility": 122
+    },
+    {
+      "intname": "fr_m4a3e2_sherman_jumbo",
+      "ab_top_speed": [38, 5],
+      "rb_top_speed": [36, 5],
+      "visibility": 122
+    },
+    {
+      "intname": "us_m4a3e2_sherman_jumbo",
+      "ab_top_speed": [38, 5],
+      "rb_top_speed": [36, 5],
+      "visibility": 122
+    },
+    {
+      "intname": "cn_m4a4_sherman_1st_ptg",
+      "ab_top_speed": [45, 6],
+      "rb_top_speed": [41, 5],
+      "visibility": 103
+    },
+    {
+      "intname": "cn_m4a4_sherman",
+      "ab_top_speed": [45, 6],
+      "rb_top_speed": [41, 5],
+      "visibility": 103
+    },
+    {
+      "intname": "fr_m4a4_sherman",
+      "ab_top_speed": [45, 6],
+      "rb_top_speed": [41, 5],
+      "visibility": 103
+    },
+    {
+      "intname": "it_m4a4_sherman",
+      "ab_top_speed": [45, 6],
+      "rb_top_speed": [41, 5],
+      "visibility": 103
+    },
+    {
+      "intname": "fr_m4a4_cn_75_50",
+      "ab_top_speed": [45, 6],
+      "rb_top_speed": [41, 5],
+      "visibility": 122
+    },
+    {
+      "intname": "us_m4a5_ram_2",
+      "ab_top_speed": [45, 6],
+      "rb_top_speed": [40, 6],
+      "visibility": 139
+    },
+    {
+      "intname": "us_m50_ontos",
+      "ab_top_speed": [53, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 72
+    },
+    {
+      "intname": "us_m551",
+      "ab_top_speed": [77, 17],
+      "rb_top_speed": [70, 15],
+      "visibility": 88
+    },
+    {
+      "intname": "us_m56_scorpion",
+      "ab_top_speed": [49, 21],
+      "rb_top_speed": [45, 19],
+      "visibility": 68
+    },
+    {
+      "intname": "cn_m5a1_stuart",
+      "ab_top_speed": [65, 17],
+      "rb_top_speed": [58, 15],
+      "visibility": 79
+    },
+    {
+      "intname": "us_m5a1_stuart_td",
+      "ab_top_speed": [65, 17],
+      "rb_top_speed": [58, 15],
+      "visibility": 79
+    },
+    {
+      "intname": "us_m5a1_stuart",
+      "ab_top_speed": [65, 17],
+      "rb_top_speed": [58, 15],
+      "visibility": 79
+    },
+    {
+      "intname": "us_m60a3_slep",
+      "ab_top_speed": [65, 16],
+      "rb_top_speed": [58, 15],
+      "visibility": 142
+    },
+    {
+      "intname": "us_m60",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 142
+    },
+    {
+      "intname": "it_m60a1_ariete",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 142
+    },
+    {
+      "intname": "us_m60a1",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 142
+    },
+    {
+      "intname": "us_m60a1_rise_passive_era",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 142
+    },
+    {
+      "intname": "us_m60a2",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 170
+    },
+    {
+      "intname": "cn_m60a3_tts",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 142
+    },
+    {
+      "intname": "us_m60a3_tts",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 142
+    },
+    {
+      "intname": "cn_type_64",
+      "ab_top_speed": [81, 21],
+      "rb_top_speed": [73, 19],
+      "visibility": 88
+    },
+    {
+      "intname": "us_m6a1",
+      "ab_top_speed": [38, 5],
+      "rb_top_speed": [36, 5],
+      "visibility": 122
+    },
+    {
+      "intname": "us_m6a2e1",
+      "ab_top_speed": [31, 31],
+      "rb_top_speed": [29, 29],
+      "visibility": 214
+    },
+    {
+      "intname": "us_m728",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 142
+    },
+    {
+      "intname": "cn_m8_scott",
+      "ab_top_speed": [70, 19],
+      "rb_top_speed": [64, 17],
+      "visibility": 79
+    },
+    {
+      "intname": "cn_m8_greyhound",
+      "ab_top_speed": [101, 14],
+      "rb_top_speed": [91, 13],
+      "visibility": 80
+    },
+    {
+      "intname": "us_m8_greyhound",
+      "ab_top_speed": [101, 14],
+      "rb_top_speed": [91, 13],
+      "visibility": 80
+    },
+    {
+      "intname": "us_m8_scott",
+      "ab_top_speed": [70, 19],
+      "rb_top_speed": [64, 17],
+      "visibility": 79
+    },
+    {
+      "intname": "us_m8a1",
+      "ab_top_speed": [71, 19],
+      "rb_top_speed": [64, 17],
+      "visibility": 79
+    },
+    {
+      "intname": "us_m901_itv",
+      "ab_top_speed": [70, 17],
+      "rb_top_speed": [65, 15],
+      "visibility": 188
+    },
+    {
+      "intname": "fr_mars_15",
+      "ab_top_speed": [84, 28],
+      "rb_top_speed": [75, 25],
+      "visibility": 88
+    },
+    {
+      "intname": "us_mbt_70",
+      "ab_top_speed": [72, 72],
+      "rb_top_speed": [65, 65],
+      "visibility": 86
+    },
+    {
+      "intname": "fr_vcac_mephisto",
+      "ab_top_speed": [101, 15],
+      "rb_top_speed": [93, 14],
+      "visibility": 70
+    },
+    {
+      "intname": "ussr_a_12_mk_2_matilda_2A_F96",
+      "ab_top_speed": [26, 5],
+      "rb_top_speed": [24, 4],
+      "visibility": 84
+    },
+    {
+      "intname": "ussr_valentine_mk_9",
+      "ab_top_speed": [27, 4],
+      "rb_top_speed": [25, 3],
+      "visibility": 78
+    },
+    {
+      "intname": "germ_mkpz_m47",
+      "ab_top_speed": [54, 22],
+      "rb_top_speed": [49, 20],
+      "visibility": 120
+    },
+    {
+      "intname": "il_machbet",
+      "ab_top_speed": [70, 17],
+      "rb_top_speed": [65, 15],
+      "visibility": 117
+    },
+    {
+      "intname": "il_m48a1_patton_III",
+      "ab_top_speed": [50, 10],
+      "rb_top_speed": [45, 9],
+      "visibility": 117
+    },
+    {
+      "intname": "il_magach_2",
+      "ab_top_speed": [54, 10],
+      "rb_top_speed": [49, 9],
+      "visibility": 117
+    },
+    {
+      "intname": "us_magach_3",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 115
+    },
+    {
+      "intname": "il_magach_3",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 115
+    },
+    {
+      "intname": "il_magach_3_idf",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 115
+    },
+    {
+      "intname": "il_magach_5",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 117
+    },
+    {
+      "intname": "il_magach_6",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 122
+    },
+    {
+      "intname": "il_magach_6a",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 142
+    },
+    {
+      "intname": "il_magach_6b",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 142
+    },
+    {
+      "intname": "il_magach_6c",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 142
+    },
+    {
+      "intname": "il_magach_6m",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 122
+    },
+    {
+      "intname": "il_magach_6r",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 122
+    },
+    {
+      "intname": "il_magach_7c",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 142
+    },
+    {
+      "intname": "germ_marder_1a3",
+      "ab_top_speed": [84, 84],
+      "rb_top_speed": [76, 76],
+      "visibility": 86
+    },
+    {
+      "intname": "germ_marder_1a1",
+      "ab_top_speed": [84, 84],
+      "rb_top_speed": [76, 76],
+      "visibility": 86
+    },
+    {
+      "intname": "germ_pzkpfw_38t_Marder_III_ausf_H",
+      "ab_top_speed": [49, 7],
+      "rb_top_speed": [45, 7],
+      "visibility": 87
+    },
+    {
+      "intname": "germ_pzkpfw_38t_Marder_III",
+      "ab_top_speed": [47, 7],
+      "rb_top_speed": [43, 7],
+      "visibility": 88
+    },
+    {
+      "intname": "uk_matilda_hedgehog",
+      "ab_top_speed": [26, 5],
+      "rb_top_speed": [24, 4],
+      "visibility": 84
+    },
+    {
+      "intname": "uk_a_12_mk_2_matilda_2",
+      "ab_top_speed": [26, 5],
+      "rb_top_speed": [24, 4],
+      "visibility": 84
+    },
+    {
+      "intname": "germ_pzkpfw_Maus",
+      "ab_top_speed": [22, 22],
+      "rb_top_speed": [21, 21],
+      "visibility": 272
+    },
+    {
+      "intname": "us_merkava_mk_1",
+      "ab_top_speed": [52, 9],
+      "rb_top_speed": [46, 8],
+      "visibility": 152
+    },
+    {
+      "intname": "il_merkava_mk_1b",
+      "ab_top_speed": [61, 12],
+      "rb_top_speed": [55, 11],
+      "visibility": 103
+    },
+    {
+      "intname": "us_merkava_mk_2b_late",
+      "ab_top_speed": [60, 26],
+      "rb_top_speed": [54, 24],
+      "visibility": 103
+    },
+    {
+      "intname": "il_merkava_mk_2b_early",
+      "ab_top_speed": [60, 26],
+      "rb_top_speed": [54, 24],
+      "visibility": 103
+    },
+    {
+      "intname": "il_merkava_mk_2d",
+      "ab_top_speed": [60, 26],
+      "rb_top_speed": [54, 24],
+      "visibility": 103
+    },
+    {
+      "intname": "il_merkava_mk_3b",
+      "ab_top_speed": [67, 29],
+      "rb_top_speed": [60, 26],
+      "visibility": 107
+    },
+    {
+      "intname": "il_merkava_mk_3c",
+      "ab_top_speed": [67, 29],
+      "rb_top_speed": [60, 26],
+      "visibility": 107
+    },
+    {
+      "intname": "us_merkava_mk_3d",
+      "ab_top_speed": [67, 29],
+      "rb_top_speed": [60, 26],
+      "visibility": 107
+    },
+    {
+      "intname": "il_merkava_mk_4b",
+      "ab_top_speed": [72, 72],
+      "rb_top_speed": [65, 65],
+      "visibility": 103
+    },
+    {
+      "intname": "il_merkava_mk_4m",
+      "ab_top_speed": [72, 72],
+      "rb_top_speed": [65, 65],
+      "visibility": 103
+    },
+    {
+      "intname": "jp_type_5_na_to",
+      "ab_top_speed": [44, 9],
+      "rb_top_speed": [40, 9],
+      "visibility": 88
+    },
+    {
+      "intname": "germ_panzerjager_nashorn",
+      "ab_top_speed": [44, 9],
+      "rb_top_speed": [40, 8],
+      "visibility": 119
+    },
+    {
+      "intname": "germ_nbfz_VI",
+      "ab_top_speed": [34, 5],
+      "rb_top_speed": [31, 4],
+      "visibility": 115
+    },
+    {
+      "intname": "it_of_40_mtca",
+      "ab_top_speed": [73, 28],
+      "rb_top_speed": [66, 26],
+      "visibility": 86
+    },
+    {
+      "intname": "it_of_40_mk_2a",
+      "ab_top_speed": [73, 28],
+      "rb_top_speed": [66, 26],
+      "visibility": 86
+    },
+    {
+      "intname": "it_of_40_mk_1",
+      "ab_top_speed": [73, 28],
+      "rb_top_speed": [66, 26],
+      "visibility": 86
+    },
+    {
+      "intname": "it_otomatic",
+      "ab_top_speed": [71, 28],
+      "rb_top_speed": [66, 26],
+      "visibility": -207
+    },
+    {
+      "intname": "ussr_object_120",
+      "ab_top_speed": [70, 17],
+      "rb_top_speed": [64, 16],
+      "visibility": 109
+    },
+    {
+      "intname": "cn_object_122tm",
+      "ab_top_speed": [62, 9],
+      "rb_top_speed": [56, 8],
+      "visibility": 83
+    },
+    {
+      "intname": "ussr_object_248",
+      "ab_top_speed": [38, 15],
+      "rb_top_speed": [36, 14],
+      "visibility": 102
+    },
+    {
+      "intname": "ussr_object_268",
+      "ab_top_speed": [55, 11],
+      "rb_top_speed": [51, 10],
+      "visibility": 93
+    },
+    {
+      "intname": "ussr_object_279",
+      "ab_top_speed": [59, 20],
+      "rb_top_speed": [56, 18],
+      "visibility": 95
+    },
+    {
+      "intname": "ussr_object_685",
+      "ab_top_speed": [79, 23],
+      "rb_top_speed": [71, 21],
+      "visibility": 75
+    },
+    {
+      "intname": "ussr_object_906",
+      "ab_top_speed": [83, 83],
+      "rb_top_speed": [74, 74],
+      "visibility": 75
+    },
+    {
+      "intname": "uk_olifant_mk_1a",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 119
+    },
+    {
+      "intname": "uk_olifant_mk_2",
+      "ab_top_speed": [65, 24],
+      "rb_top_speed": [58, 22],
+      "visibility": 129
+    },
+    {
+      "intname": "germ_flakpanzer_IV_Ostwind_2",
+      "ab_top_speed": [43, 8],
+      "rb_top_speed": [39, 8],
+      "visibility": 121
+    },
+    {
+      "intname": "germ_flakpanzer_IV_Ostwind",
+      "ab_top_speed": [43, 8],
+      "rb_top_speed": [39, 8],
+      "visibility": 121
+    },
+    {
+      "intname": "germ_wiesel_2_adwc",
+      "ab_top_speed": [77, 32],
+      "rb_top_speed": [71, 30],
+      "visibility": 86
+    },
+    {
+      "intname": "fr_citroen_kegresse_p4t",
+      "ab_top_speed": [44, 8],
+      "rb_top_speed": [41, 8],
+      "visibility": 67
+    },
+    {
+      "intname": "it_p_26_40",
+      "ab_top_speed": [45, 5],
+      "rb_top_speed": [41, 5],
+      "visibility": 88
+    },
+    {
+      "intname": "it_p_40",
+      "ab_top_speed": [45, 5],
+      "rb_top_speed": [41, 5],
+      "visibility": 88
+    },
+    {
+      "intname": "cn_pgz_04a",
+      "ab_top_speed": [61, 19],
+      "rb_top_speed": [56, 18],
+      "visibility": 341
+    },
+    {
+      "intname": "cn_pgz_09",
+      "ab_top_speed": [71, 17],
+      "rb_top_speed": [66, 16],
+      "visibility": 500
+    },
+    {
+      "intname": "germ_leopard_2_pt14",
+      "ab_top_speed": [81, 81],
+      "rb_top_speed": [73, 73],
+      "visibility": 88
+    },
+    {
+      "intname": "cn_pt_76",
+      "ab_top_speed": [49, 8],
+      "rb_top_speed": [44, 7],
+      "visibility": 75
+    },
+    {
+      "intname": "sw_pt_76b",
+      "ab_top_speed": [49, 8],
+      "rb_top_speed": [44, 7],
+      "visibility": 75
+    },
+    {
+      "intname": "ussr_pt_76_57",
+      "ab_top_speed": [67, 20],
+      "rb_top_speed": [61, 18],
+      "visibility": 94
+    },
+    {
+      "intname": "ussr_pt_76b",
+      "ab_top_speed": [49, 8],
+      "rb_top_speed": [44, 7],
+      "visibility": 75
+    },
+    {
+      "intname": "cn_ptl_02",
+      "ab_top_speed": [94, 8],
+      "rb_top_speed": [84, 8],
+      "visibility": 136
+    },
+    {
+      "intname": "cn_ptz_89",
+      "ab_top_speed": [57, 9],
+      "rb_top_speed": [52, 8],
+      "visibility": 84
+    },
+    {
+      "intname": "germ_schutzenpanzer_puma",
+      "ab_top_speed": [78, 34],
+      "rb_top_speed": [71, 31],
+      "visibility": 86
+    },
+    {
+      "intname": "fr_pzkpfw_V_panther_dauphine",
+      "ab_top_speed": [51, 4],
+      "rb_top_speed": [46, 4],
+      "visibility": 125
+    },
+    {
+      "intname": "germ_pzkpfw_V_ausf_a_panther",
+      "ab_top_speed": [51, 4],
+      "rb_top_speed": [46, 4],
+      "visibility": 125
+    },
+    {
+      "intname": "germ_pzkpfw_V_ausf_d_panther",
+      "ab_top_speed": [62, 5],
+      "rb_top_speed": [55, 5],
+      "visibility": 125
+    },
+    {
+      "intname": "germ_pzkpfw_V_ausf_f_panther",
+      "ab_top_speed": [51, 4],
+      "rb_top_speed": [46, 4],
+      "visibility": 125
+    },
+    {
+      "intname": "germ_pzkpfw_V_ausf_g_panther",
+      "ab_top_speed": [51, 4],
+      "rb_top_speed": [46, 4],
+      "visibility": 125
+    },
+    {
+      "intname": "germ_panther_II",
+      "ab_top_speed": [60, 16],
+      "rb_top_speed": [54, 15],
+      "visibility": 116
+    },
+    {
+      "intname": "germ_pz_IV_L70_A",
+      "ab_top_speed": [44, 9],
+      "rb_top_speed": [40, 8],
+      "visibility": 81
+    },
+    {
+      "intname": "germ_pz_IV_L70",
+      "ab_top_speed": [38, 9],
+      "rb_top_speed": [35, 8],
+      "visibility": 64
+    },
+    {
+      "intname": "germ_panzerjager_1",
+      "ab_top_speed": [46, 5],
+      "rb_top_speed": [43, 5],
+      "visibility": 77
+    },
+    {
+      "intname": "sw_pbil_m40",
+      "ab_top_speed": [78, 78],
+      "rb_top_speed": [70, 70],
+      "visibility": 73
+    },
+    {
+      "intname": "sw_pbv_301",
+      "ab_top_speed": [50, 8],
+      "rb_top_speed": [46, 7],
+      "visibility": 88
+    },
+    {
+      "intname": "sw_pbv_302_bill",
+      "ab_top_speed": [72, 13],
+      "rb_top_speed": [66, 12],
+      "visibility": 112
+    },
+    {
+      "intname": "ussr_type_65_aa",
+      "ab_top_speed": [60, 10],
+      "rb_top_speed": [55, 9],
+      "visibility": 120
+    },
+    {
+      "intname": "cn_type_65_aa",
+      "ab_top_speed": [60, 10],
+      "rb_top_speed": [55, 9],
+      "visibility": 120
+    },
+    {
+      "intname": "sw_pvkv_II",
+      "ab_top_speed": [47, 6],
+      "rb_top_speed": [43, 6],
+      "visibility": 101
+    },
+    {
+      "intname": "sw_pvkv_III",
+      "ab_top_speed": [47, 6],
+      "rb_top_speed": [43, 6],
+      "visibility": 101
+    },
+    {
+      "intname": "sw_pvkv_m43_1946",
+      "ab_top_speed": [51, 6],
+      "rb_top_speed": [47, 6],
+      "visibility": 91
+    },
+    {
+      "intname": "sw_pvkv_m43_1963",
+      "ab_top_speed": [51, 6],
+      "rb_top_speed": [47, 6],
+      "visibility": 91
+    },
+    {
+      "intname": "sw_pvlvv_fm42",
+      "ab_top_speed": [55, 7],
+      "rb_top_speed": [50, 6],
+      "visibility": 69
+    },
+    {
+      "intname": "sw_pvrbv_551",
+      "ab_top_speed": [42, 8],
+      "rb_top_speed": [39, 7],
+      "visibility": 93
+    },
+    {
+      "intname": "germ_pzkpfw_35t",
+      "ab_top_speed": [38, 38],
+      "rb_top_speed": [34, 34],
+      "visibility": 75
+    },
+    {
+      "intname": "germ_pzkpfw_38t_ausf_A",
+      "ab_top_speed": [47, 7],
+      "rb_top_speed": [43, 7],
+      "visibility": 72
+    },
+    {
+      "intname": "germ_pzkpfw_38t_ausf_F",
+      "ab_top_speed": [47, 7],
+      "rb_top_speed": [43, 7],
+      "visibility": 72
+    },
+    {
+      "intname": "germ_panzerbefelhswagen_IV_ausf_J",
+      "ab_top_speed": [43, 9],
+      "rb_top_speed": [39, 8],
+      "visibility": 99
+    },
+    {
+      "intname": "germ_panzerbefelhswagen_VI_P",
+      "ab_top_speed": [34, 31],
+      "rb_top_speed": [32, 29],
+      "visibility": 107
+    },
+    {
+      "intname": "germ_pzkpfw_II_ausf_C_DAK",
+      "ab_top_speed": [49, 10],
+      "rb_top_speed": [44, 9],
+      "visibility": 69
+    },
+    {
+      "intname": "germ_pzkpfw_II_ausf_C_td",
+      "ab_top_speed": [49, 10],
+      "rb_top_speed": [44, 9],
+      "visibility": 69
+    },
+    {
+      "intname": "germ_pzkpfw_II_ausf_C",
+      "ab_top_speed": [49, 10],
+      "rb_top_speed": [44, 9],
+      "visibility": 69
+    },
+    {
+      "intname": "germ_pzkpfw_II_ausf_F",
+      "ab_top_speed": [49, 10],
+      "rb_top_speed": [44, 9],
+      "visibility": 73
+    },
+    {
+      "intname": "germ_pzkpfw_III_ausf_B",
+      "ab_top_speed": [40, 7],
+      "rb_top_speed": [36, 6],
+      "visibility": 86
+    },
+    {
+      "intname": "germ_pzkpfw_III_ausf_E",
+      "ab_top_speed": [79, 14],
+      "rb_top_speed": [71, 12],
+      "visibility": 88
+    },
+    {
+      "intname": "germ_pzkpfw_III_ausf_F",
+      "ab_top_speed": [79, 14],
+      "rb_top_speed": [71, 12],
+      "visibility": 88
+    },
+    {
+      "intname": "germ_pzkpfw_III_ausf_J_L42",
+      "ab_top_speed": [60, 12],
+      "rb_top_speed": [54, 10],
+      "visibility": 88
+    },
+    {
+      "intname": "germ_pzkpfw_III_ausf_J_td",
+      "ab_top_speed": [60, 12],
+      "rb_top_speed": [54, 10],
+      "visibility": 88
+    },
+    {
+      "intname": "germ_pzkpfw_III_ausf_J",
+      "ab_top_speed": [60, 12],
+      "rb_top_speed": [54, 10],
+      "visibility": 88
+    },
+    {
+      "intname": "germ_pzkpfw_III_ausf_L",
+      "ab_top_speed": [60, 12],
+      "rb_top_speed": [54, 10],
+      "visibility": 88
+    },
+    {
+      "intname": "germ_pzkpfw_III_ausf_M",
+      "ab_top_speed": [60, 12],
+      "rb_top_speed": [54, 10],
+      "visibility": 88
+    },
+    {
+      "intname": "it_pzkpfw_III_ausf_N",
+      "ab_top_speed": [60, 12],
+      "rb_top_speed": [54, 10],
+      "visibility": 88
+    },
+    {
+      "intname": "germ_pzkpfw_III_ausf_N",
+      "ab_top_speed": [60, 12],
+      "rb_top_speed": [54, 10],
+      "visibility": 88
+    },
+    {
+      "intname": "sw_pzkpfw_IV_ausf_J",
+      "ab_top_speed": [43, 9],
+      "rb_top_speed": [39, 8],
+      "visibility": 99
+    },
+    {
+      "intname": "germ_pzkpfw_IV_ausf_C",
+      "ab_top_speed": [40, 8],
+      "rb_top_speed": [36, 7],
+      "visibility": 99
+    },
+    {
+      "intname": "germ_pzkpfw_IV_ausf_E",
+      "ab_top_speed": [48, 9],
+      "rb_top_speed": [43, 8],
+      "visibility": 99
+    },
+    {
+      "intname": "germ_pzkpfw_IV_ausf_F",
+      "ab_top_speed": [48, 9],
+      "rb_top_speed": [43, 8],
+      "visibility": 99
+    },
+    {
+      "intname": "germ_pzkpfw_IV_ausf_F2",
+      "ab_top_speed": [48, 9],
+      "rb_top_speed": [43, 8],
+      "visibility": 99
+    },
+    {
+      "intname": "it_pzkpfw_IV_ausf_G",
+      "ab_top_speed": [45, 9],
+      "rb_top_speed": [40, 8],
+      "visibility": 99
+    },
+    {
+      "intname": "germ_pzkpfw_IV_ausf_G",
+      "ab_top_speed": [45, 9],
+      "rb_top_speed": [40, 8],
+      "visibility": 99
+    },
+    {
+      "intname": "germ_pzkpfw_IV_ausf_H",
+      "ab_top_speed": [43, 9],
+      "rb_top_speed": [39, 8],
+      "visibility": 99
+    },
+    {
+      "intname": "germ_pzkpfw_IV_ausf_J",
+      "ab_top_speed": [43, 9],
+      "rb_top_speed": [39, 8],
+      "visibility": 99
+    },
+    {
+      "intname": "germ_infanterie_kampfpanzer_churchill",
+      "ab_top_speed": [30, 3],
+      "rb_top_speed": [28, 3],
+      "visibility": 87
+    },
+    {
+      "intname": "germ_pzkpfw_II_ausf_H",
+      "ab_top_speed": [62, 12],
+      "rb_top_speed": [56, 11],
+      "visibility": 75
+    },
+    {
+      "intname": "uk_ram_90mm_aa",
+      "ab_top_speed": [44, 6],
+      "rb_top_speed": [40, 6],
+      "visibility": 90
+    },
+    {
+      "intname": "fr_renault_r39",
+      "ab_top_speed": [23, 4],
+      "rb_top_speed": [20, 3],
+      "visibility": 72
+    },
+    {
+      "intname": "it_oto_r3_106sr",
+      "ab_top_speed": [128, 33],
+      "rb_top_speed": [115, 29],
+      "visibility": 70
+    },
+    {
+      "intname": "it_oto_r3_t20_fa",
+      "ab_top_speed": [125, 32],
+      "rb_top_speed": [115, 29],
+      "visibility": 70
+    },
+    {
+      "intname": "ussr_rbt_5",
+      "ab_top_speed": [60, 12],
+      "rb_top_speed": [54, 11],
+      "visibility": 77
+    },
+    {
+      "intname": "germ_radpanzer_90",
+      "ab_top_speed": [112, 39],
+      "rb_top_speed": [101, 36],
+      "visibility": 136
+    },
+    {
+      "intname": "germ_raketenjagdpanzer_2_hot",
+      "ab_top_speed": [77, 77],
+      "rb_top_speed": [71, 71],
+      "visibility": 71
+    },
+    {
+      "intname": "germ_raketenjagdpanzer_2",
+      "ab_top_speed": [77, 77],
+      "rb_top_speed": [71, 71],
+      "visibility": 71
+    },
+    {
+      "intname": "uk_ratel_20",
+      "ab_top_speed": [117, 20],
+      "rb_top_speed": [106, 18],
+      "visibility": 84
+    },
+    {
+      "intname": "uk_ratel_90",
+      "ab_top_speed": [117, 20],
+      "rb_top_speed": [106, 18],
+      "visibility": 84
+    },
+    {
+      "intname": "jp_hiro_sha",
+      "ab_top_speed": [25, 8],
+      "rb_top_speed": [23, 7],
+      "visibility": 107
+    },
+    {
+      "intname": "jp_type_95_heavy",
+      "ab_top_speed": [25, 7],
+      "rb_top_speed": [23, 7],
+      "visibility": 115
+    },
+    {
+      "intname": "fr_amx_30_roland",
+      "ab_top_speed": [71, 71],
+      "rb_top_speed": [66, 66],
+      "visibility": -600
+    },
+    {
+      "intname": "uk_rooikat_105_td",
+      "ab_top_speed": [134, 41],
+      "rb_top_speed": [121, 37],
+      "visibility": 84
+    },
+    {
+      "intname": "uk_rooikat_mttd",
+      "ab_top_speed": [134, 41],
+      "rb_top_speed": [121, 37],
+      "visibility": 84
+    },
+    {
+      "intname": "uk_rooikat_76",
+      "ab_top_speed": [134, 41],
+      "rb_top_speed": [121, 37],
+      "visibility": 84
+    },
+    {
+      "intname": "germ_ru251",
+      "ab_top_speed": [90, 90],
+      "rb_top_speed": [81, 81],
+      "visibility": 88
+    },
+    {
+      "intname": "fr_somua_s35",
+      "ab_top_speed": [45, 6],
+      "rb_top_speed": [40, 6],
+      "visibility": 99
+    },
+    {
+      "intname": "fr_vab_santal",
+      "ab_top_speed": [101, 15],
+      "rb_top_speed": [93, 14],
+      "visibility": 70
+    },
+    {
+      "intname": "uk_marmon_herrington_mk_6_2pdr",
+      "ab_top_speed": [72, 21],
+      "rb_top_speed": [65, 19],
+      "visibility": 84
+    },
+    {
+      "intname": "uk_marmon_herrington_mk_6_6pdr",
+      "ab_top_speed": [72, 21],
+      "rb_top_speed": [65, 19],
+      "visibility": 88
+    },
+    {
+      "intname": "sw_sav_fm48",
+      "ab_top_speed": [53, 21],
+      "rb_top_speed": [49, 19],
+      "visibility": 69
+    },
+    {
+      "intname": "fr_somua_sau40",
+      "ab_top_speed": [41, 6],
+      "rb_top_speed": [37, 5],
+      "visibility": 99
+    },
+    {
+      "intname": "it_otobreda_sidam_25_mistral",
+      "ab_top_speed": [70, 17],
+      "rb_top_speed": [65, 15],
+      "visibility": 123
+    },
+    {
+      "intname": "it_otobreda_sidam_25",
+      "ab_top_speed": [70, 17],
+      "rb_top_speed": [65, 15],
+      "visibility": 123
+    },
+    {
+      "intname": "fr_sk105_a2",
+      "ab_top_speed": [66, 10],
+      "rb_top_speed": [59, 9],
+      "visibility": 88
+    },
+    {
+      "intname": "ussr_smk",
+      "ab_top_speed": [38, 5],
+      "rb_top_speed": [36, 5],
+      "visibility": 158
+    },
+    {
+      "intname": "germ_bmp_1_ddr",
+      "ab_top_speed": [73, 13],
+      "rb_top_speed": [66, 12],
+      "visibility": 70
+    },
+    {
+      "intname": "jp_st_a1",
+      "ab_top_speed": [50, 20],
+      "rb_top_speed": [45, 18],
+      "visibility": 96
+    },
+    {
+      "intname": "jp_st_a2",
+      "ab_top_speed": [50, 20],
+      "rb_top_speed": [45, 18],
+      "visibility": 96
+    },
+    {
+      "intname": "jp_st_a3",
+      "ab_top_speed": [51, 9],
+      "rb_top_speed": [46, 9],
+      "visibility": 96
+    },
+    {
+      "intname": "jp_st_b1",
+      "ab_top_speed": [59, 9],
+      "rb_top_speed": [54, 8],
+      "visibility": 96
+    },
+    {
+      "intname": "cn_su_100_1945",
+      "ab_top_speed": [55, 9],
+      "rb_top_speed": [50, 8],
+      "visibility": 77
+    },
+    {
+      "intname": "ussr_su_100_1945",
+      "ab_top_speed": [55, 9],
+      "rb_top_speed": [50, 8],
+      "visibility": 77
+    },
+    {
+      "intname": "ussr_su_100p",
+      "ab_top_speed": [71, 23],
+      "rb_top_speed": [65, 21],
+      "visibility": 81
+    },
+    {
+      "intname": "ussr_su_100Y",
+      "ab_top_speed": [36, 5],
+      "rb_top_speed": [33, 5],
+      "visibility": 36
+    },
+    {
+      "intname": "ussr_su_122_54",
+      "ab_top_speed": [55, 9],
+      "rb_top_speed": [51, 8],
+      "visibility": 70
+    },
+    {
+      "intname": "ussr_su_122",
+      "ab_top_speed": [60, 10],
+      "rb_top_speed": [55, 9],
+      "visibility": 76
+    },
+    {
+      "intname": "ussr_su_122P",
+      "ab_top_speed": [55, 9],
+      "rb_top_speed": [50, 8],
+      "visibility": 77
+    },
+    {
+      "intname": "ussr_su_152",
+      "ab_top_speed": [47, 18],
+      "rb_top_speed": [43, 17],
+      "visibility": 86
+    },
+    {
+      "intname": "ussr_su_5_1",
+      "ab_top_speed": [33, 4],
+      "rb_top_speed": [31, 4],
+      "visibility": 77
+    },
+    {
+      "intname": "ussr_su_57",
+      "ab_top_speed": [80, 19],
+      "rb_top_speed": [73, 17],
+      "visibility": 88
+    },
+    {
+      "intname": "ussr_su_57b",
+      "ab_top_speed": [44, 6],
+      "rb_top_speed": [40, 6],
+      "visibility": 70
+    },
+    {
+      "intname": "ussr_su_76d",
+      "ab_top_speed": [40, 6],
+      "rb_top_speed": [36, 5],
+      "visibility": 70
+    },
+    {
+      "intname": "ussr_su_76m_5st_kav_corps",
+      "ab_top_speed": [34, 6],
+      "rb_top_speed": [31, 6],
+      "visibility": 75
+    },
+    {
+      "intname": "cn_su_76m_1943",
+      "ab_top_speed": [34, 6],
+      "rb_top_speed": [31, 6],
+      "visibility": 75
+    },
+    {
+      "intname": "ussr_su_76m_1943",
+      "ab_top_speed": [34, 6],
+      "rb_top_speed": [31, 6],
+      "visibility": 75
+    },
+    {
+      "intname": "ussr_su_85_1943",
+      "ab_top_speed": [60, 10],
+      "rb_top_speed": [55, 9],
+      "visibility": 86
+    },
+    {
+      "intname": "ussr_su_85a",
+      "ab_top_speed": [44, 6],
+      "rb_top_speed": [41, 6],
+      "visibility": 75
+    },
+    {
+      "intname": "ussr_su_85m",
+      "ab_top_speed": [60, 10],
+      "rb_top_speed": [55, 9],
+      "visibility": 77
+    },
+    {
+      "intname": "jp_sub_i_ii_20mm",
+      "ab_top_speed": [55, 14],
+      "rb_top_speed": [51, 13],
+      "visibility": 88
+    },
+    {
+      "intname": "sw_sav_m43_1944",
+      "ab_top_speed": [47, 6],
+      "rb_top_speed": [43, 6],
+      "visibility": 79
+    },
+    {
+      "intname": "sw_sav_m43_1946",
+      "ab_top_speed": [47, 6],
+      "rb_top_speed": [43, 6],
+      "visibility": 73
+    },
+    {
+      "intname": "germ_pzkpfw_38t_Aufklarungspanzer",
+      "ab_top_speed": [65, 7],
+      "rb_top_speed": [59, 7],
+      "visibility": 74
+    },
+    {
+      "intname": "germ_sdkfz_6_2_flak36",
+      "ab_top_speed": [55, 10],
+      "rb_top_speed": [50, 9],
+      "visibility": 107
+    },
+    {
+      "intname": "germ_sdkfz_221_s_pz_b_41",
+      "ab_top_speed": [89, 17],
+      "rb_top_speed": [80, 16],
+      "visibility": 107
+    },
+    {
+      "intname": "germ_sdkfz_234_1",
+      "ab_top_speed": [100, 100],
+      "rb_top_speed": [90, 90],
+      "visibility": 84
+    },
+    {
+      "intname": "germ_sdkfz_234_2_td",
+      "ab_top_speed": [100, 100],
+      "rb_top_speed": [90, 90],
+      "visibility": 84
+    },
+    {
+      "intname": "germ_sdkfz_234_2",
+      "ab_top_speed": [100, 100],
+      "rb_top_speed": [90, 90],
+      "visibility": 84
+    },
+    {
+      "intname": "germ_sdkfz_234_3",
+      "ab_top_speed": [98, 98],
+      "rb_top_speed": [90, 90],
+      "visibility": 84
+    },
+    {
+      "intname": "germ_sdkfz_234_4",
+      "ab_top_speed": [98, 98],
+      "rb_top_speed": [90, 90],
+      "visibility": 84
+    },
+    {
+      "intname": "germ_sdkfz_251_10",
+      "ab_top_speed": [57, 12],
+      "rb_top_speed": [53, 11],
+      "visibility": 88
+    },
+    {
+      "intname": "germ_sdkfz_251_21",
+      "ab_top_speed": [57, 12],
+      "rb_top_speed": [53, 11],
+      "visibility": 88
+    },
+    {
+      "intname": "germ_sdkfz_251_22",
+      "ab_top_speed": [57, 12],
+      "rb_top_speed": [53, 11],
+      "visibility": 88
+    },
+    {
+      "intname": "germ_sdkfz_251_9",
+      "ab_top_speed": [57, 12],
+      "rb_top_speed": [53, 11],
+      "visibility": 88
+    },
+    {
+      "intname": "uk_sherman_vc_firefly",
+      "ab_top_speed": [40, 6],
+      "rb_top_speed": [36, 6],
+      "visibility": 108
+    },
+    {
+      "intname": "uk_sherman_ic_firefly",
+      "ab_top_speed": [43, 6],
+      "rb_top_speed": [38, 5],
+      "visibility": 108
+    },
+    {
+      "intname": "uk_sherman_II",
+      "ab_top_speed": [43, 6],
+      "rb_top_speed": [38, 5],
+      "visibility": 103
+    },
+    {
+      "intname": "it_sherman_vc_firefly",
+      "ab_top_speed": [40, 6],
+      "rb_top_speed": [36, 6],
+      "visibility": 108
+    },
+    {
+      "intname": "il_centurion_shot_kal_alef",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 119
+    },
+    {
+      "intname": "uk_centurion_shot_kal_d",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 119
+    },
+    {
+      "intname": "il_centurion_shot_kal_d",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 119
+    },
+    {
+      "intname": "il_centurion_shot_kal_gimel",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 119
+    },
+    {
+      "intname": "il_centurion_mk_5_shot",
+      "ab_top_speed": [39, 14],
+      "rb_top_speed": [35, 13],
+      "visibility": 119
+    },
+    {
+      "intname": "ussr_9p149",
+      "ab_top_speed": [67, 12],
+      "rb_top_speed": [62, 11],
+      "visibility": 65
+    },
+    {
+      "intname": "uk_skink_aa",
+      "ab_top_speed": [35, 5],
+      "rb_top_speed": [33, 5],
+      "visibility": 103
+    },
+    {
+      "intname": "jp_type_95_so_ki",
+      "ab_top_speed": [49, 8],
+      "rb_top_speed": [45, 7],
+      "visibility": 75
+    },
+    {
+      "intname": "fr_somua_sm",
+      "ab_top_speed": [43, 7],
+      "rb_top_speed": [41, 6],
+      "visibility": 120
+    },
+    {
+      "intname": "sw_stormpjas_fm43_44",
+      "ab_top_speed": [47, 6],
+      "rb_top_speed": [43, 6],
+      "visibility": 79
+    },
+    {
+      "intname": "uk_t17e2",
+      "ab_top_speed": [96, 16],
+      "rb_top_speed": [88, 15],
+      "visibility": 84
+    },
+    {
+      "intname": "uk_stormer_hvm",
+      "ab_top_speed": [87, 87],
+      "rb_top_speed": [80, 80],
+      "visibility": 188
+    },
+    {
+      "intname": "ussr_9a35_m2",
+      "ab_top_speed": [67, 12],
+      "rb_top_speed": [62, 11],
+      "visibility": 65
+    },
+    {
+      "intname": "sw_strf_9056",
+      "ab_top_speed": [78, 51],
+      "rb_top_speed": [70, 46],
+      "visibility": 101
+    },
+    {
+      "intname": "sw_strf_90b",
+      "ab_top_speed": [78, 51],
+      "rb_top_speed": [70, 46],
+      "visibility": 101
+    },
+    {
+      "intname": "sw_strf_90c",
+      "ab_top_speed": [78, 51],
+      "rb_top_speed": [70, 46],
+      "visibility": 101
+    },
+    {
+      "intname": "uk_fv102_striker",
+      "ab_top_speed": [88, 88],
+      "rb_top_speed": [81, 81],
+      "visibility": 100
+    },
+    {
+      "intname": "sw_strv_101",
+      "ab_top_speed": [39, 14],
+      "rb_top_speed": [35, 13],
+      "visibility": 119
+    },
+    {
+      "intname": "sw_strv_103_0",
+      "ab_top_speed": [56, 49],
+      "rb_top_speed": [50, 44],
+      "visibility": 73
+    },
+    {
+      "intname": "sw_strv_103a",
+      "ab_top_speed": [56, 49],
+      "rb_top_speed": [50, 44],
+      "visibility": 73
+    },
+    {
+      "intname": "sw_strv_103c",
+      "ab_top_speed": [55, 49],
+      "rb_top_speed": [50, 44],
+      "visibility": 73
+    },
+    {
+      "intname": "sw_strv_104",
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
+      "visibility": 119
+    },
+    {
+      "intname": "sw_strv_105",
+      "ab_top_speed": [56, 9],
+      "rb_top_speed": [50, 9],
+      "visibility": 119
+    },
+    {
+      "intname": "sw_strv_121",
+      "ab_top_speed": [76, 35],
+      "rb_top_speed": [69, 31],
+      "visibility": 95
+    },
+    {
+      "intname": "sw_strv_122",
+      "ab_top_speed": [76, 35],
+      "rb_top_speed": [69, 31],
+      "visibility": 87
+    },
+    {
+      "intname": "sw_strv_122b_plss",
+      "ab_top_speed": [76, 35],
+      "rb_top_speed": [69, 31],
+      "visibility": 87
+    },
+    {
+      "intname": "sw_strv_74",
+      "ab_top_speed": [50, 6],
+      "rb_top_speed": [45, 5],
+      "visibility": 125
+    },
+    {
+      "intname": "uk_centurion_mk_3_ss11",
+      "ab_top_speed": [39, 14],
+      "rb_top_speed": [35, 13],
+      "visibility": 119
+    },
+    {
+      "intname": "sw_strv_81_rb52",
+      "ab_top_speed": [39, 14],
+      "rb_top_speed": [35, 13],
+      "visibility": 119
+    },
+    {
+      "intname": "sw_strv_81",
+      "ab_top_speed": [39, 14],
+      "rb_top_speed": [35, 13],
+      "visibility": 119
+    },
+    {
+      "intname": "sw_strv_m31",
+      "ab_top_speed": [47, 21],
+      "rb_top_speed": [43, 19],
+      "visibility": 76
+    },
+    {
+      "intname": "sw_strv_m38",
+      "ab_top_speed": [52, 7],
+      "rb_top_speed": [47, 6],
+      "visibility": 70
+    },
+    {
+      "intname": "sw_strv_m39_td",
+      "ab_top_speed": [51, 6],
+      "rb_top_speed": [46, 6],
+      "visibility": 70
+    },
+    {
+      "intname": "sw_strv_m39",
+      "ab_top_speed": [51, 6],
+      "rb_top_speed": [46, 6],
+      "visibility": 70
+    },
+    {
+      "intname": "sw_strv_m40l",
+      "ab_top_speed": [51, 6],
+      "rb_top_speed": [46, 6],
+      "visibility": 70
+    },
+    {
+      "intname": "sw_strv_m41_s1",
+      "ab_top_speed": [48, 6],
+      "rb_top_speed": [43, 6],
+      "visibility": 81
+    },
+    {
+      "intname": "sw_strv_m41_s2",
+      "ab_top_speed": [48, 6],
+      "rb_top_speed": [43, 6],
+      "visibility": 81
+    },
+    {
+      "intname": "sw_strv_m42_delat_torn",
+      "ab_top_speed": [51, 7],
+      "rb_top_speed": [46, 7],
+      "visibility": 97
+    },
+    {
+      "intname": "sw_strv_m42_eh",
+      "ab_top_speed": [47, 7],
+      "rb_top_speed": [42, 6],
+      "visibility": 82
+    },
+    {
+      "intname": "germ_stug_III_ausf_A",
+      "ab_top_speed": [47, 11],
+      "rb_top_speed": [43, 10],
+      "visibility": 67
+    },
+    {
+      "intname": "germ_stug_III_ausf_F",
+      "ab_top_speed": [44, 9],
+      "rb_top_speed": [41, 8],
+      "visibility": 73
+    },
+    {
+      "intname": "it_stug_III_ausf_G",
+      "ab_top_speed": [44, 9],
+      "rb_top_speed": [41, 8],
+      "visibility": 74
+    },
+    {
+      "intname": "germ_stug_III_ausf_G",
+      "ab_top_speed": [44, 9],
+      "rb_top_speed": [41, 8],
+      "visibility": 74
+    },
+    {
+      "intname": "germ_stuh_III_ausf_G",
+      "ab_top_speed": [44, 9],
+      "rb_top_speed": [41, 8],
+      "visibility": 74
+    },
+    {
+      "intname": "uk_m3_stuart",
+      "ab_top_speed": [56, 7],
+      "rb_top_speed": [51, 6],
+      "visibility": 89
+    },
+    {
+      "intname": "uk_m3a1_stuart",
+      "ab_top_speed": [65, 8],
+      "rb_top_speed": [59, 7],
+      "visibility": 89
+    },
+    {
+      "intname": "us_m5a1_stuart_canadian_5st_arm",
+      "ab_top_speed": [65, 17],
+      "rb_top_speed": [58, 15],
+      "visibility": 79
+    },
+    {
+      "intname": "germ_pzsflk40_sturer_emil",
+      "ab_top_speed": [28, 6],
+      "rb_top_speed": [26, 5],
+      "visibility": 103
+    },
+    {
+      "intname": "us_m18_super_hellcat",
+      "ab_top_speed": [90, 29],
+      "rb_top_speed": [81, 26],
+      "visibility": 82
+    },
+    {
+      "intname": "uk_fv438_swingfire",
+      "ab_top_speed": [57, 10],
+      "rb_top_speed": [53, 9],
+      "visibility": 100
+    },
+    {
+      "intname": "germ_t_34_747",
+      "ab_top_speed": [55, 8],
+      "rb_top_speed": [49, 7],
+      "visibility": 83
+    },
+    {
+      "intname": "sw_t_80u",
+      "ab_top_speed": [78, 13],
+      "rb_top_speed": [70, 11],
+      "visibility": 79
+    },
+    {
+      "intname": "ussr_t_10a",
+      "ab_top_speed": [45, 9],
+      "rb_top_speed": [42, 8],
+      "visibility": 93
+    },
+    {
+      "intname": "ussr_t_10m",
+      "ab_top_speed": [54, 11],
+      "rb_top_speed": [51, 10],
+      "visibility": 93
+    },
+    {
+      "intname": "ussr_t_126sp",
+      "ab_top_speed": [40, 6],
+      "rb_top_speed": [36, 5],
+      "visibility": 80
+    },
+    {
+      "intname": "ussr_t_26_1940_1st_GvTBr",
+      "ab_top_speed": [34, 4],
+      "rb_top_speed": [31, 4],
+      "visibility": 75
+    },
+    {
+      "intname": "cn_t_26_1940",
+      "ab_top_speed": [34, 4],
+      "rb_top_speed": [31, 4],
+      "visibility": 75
+    },
+    {
+      "intname": "cn_t_26_no531",
+      "ab_top_speed": [34, 4],
+      "rb_top_speed": [31, 4],
+      "visibility": 75
+    },
+    {
+      "intname": "ussr_t_26_4",
+      "ab_top_speed": [34, 4],
+      "rb_top_speed": [31, 4],
+      "visibility": 75
+    },
+    {
+      "intname": "ussr_t_26_1940",
+      "ab_top_speed": [34, 4],
+      "rb_top_speed": [31, 4],
+      "visibility": 75
+    },
+    {
+      "intname": "sw_vickers_mk_e_45",
+      "ab_top_speed": [39, 4],
+      "rb_top_speed": [36, 4],
+      "visibility": 81
+    },
+    {
+      "intname": "ussr_t_26E",
+      "ab_top_speed": [34, 4],
+      "rb_top_speed": [31, 4],
+      "visibility": 75
+    },
+    {
+      "intname": "ussr_t_28_1938",
+      "ab_top_speed": [44, 7],
+      "rb_top_speed": [40, 6],
+      "visibility": 95
+    },
+    {
+      "intname": "sw_t_28",
+      "ab_top_speed": [44, 7],
+      "rb_top_speed": [40, 6],
+      "visibility": 95
+    },
+    {
+      "intname": "ussr_t_28",
+      "ab_top_speed": [44, 7],
+      "rb_top_speed": [40, 6],
+      "visibility": 95
+    },
+    {
+      "intname": "ussr_t_28E",
+      "ab_top_speed": [39, 6],
+      "rb_top_speed": [35, 6],
+      "visibility": 95
+    },
+    {
+      "intname": "ussr_t_34_1941_l_11",
+      "ab_top_speed": [55, 8],
+      "rb_top_speed": [49, 7],
+      "visibility": 83
+    },
+    {
+      "intname": "ussr_t_34_1941",
+      "ab_top_speed": [55, 8],
+      "rb_top_speed": [49, 7],
+      "visibility": 83
+    },
+    {
+      "intname": "ussr_t_34_1942",
+      "ab_top_speed": [55, 8],
+      "rb_top_speed": [49, 7],
+      "visibility": 83
+    },
+    {
+      "intname": "cn_t_34_1942",
+      "ab_top_speed": [55, 8],
+      "rb_top_speed": [49, 7],
+      "visibility": 83
+    },
+    {
+      "intname": "ussr_t_34_1941_cast_turret",
+      "ab_top_speed": [55, 8],
+      "rb_top_speed": [49, 7],
+      "visibility": 83
+    },
+    {
+      "intname": "ussr_t_34_1940_l_11",
+      "ab_top_speed": [60, 10],
+      "rb_top_speed": [54, 9],
+      "visibility": 83
+    },
+    {
+      "intname": "sw_t_34_1941",
+      "ab_top_speed": [55, 8],
+      "rb_top_speed": [49, 7],
+      "visibility": 83
+    },
+    {
+      "intname": "ussr_t_34_100",
+      "ab_top_speed": [62, 10],
+      "rb_top_speed": [55, 9],
+      "visibility": 100
+    },
+    {
+      "intname": "ussr_t_34_57_1943",
+      "ab_top_speed": [55, 8],
+      "rb_top_speed": [49, 7],
+      "visibility": 83
+    },
+    {
+      "intname": "ussr_t_34_1941_57",
+      "ab_top_speed": [55, 8],
+      "rb_top_speed": [49, 7],
+      "visibility": 83
+    },
+    {
+      "intname": "ussr_t_34_85_d_5t",
+      "ab_top_speed": [62, 10],
+      "rb_top_speed": [55, 9],
+      "visibility": 100
+    },
+    {
+      "intname": "cn_t_34_85_d_5t",
+      "ab_top_speed": [62, 10],
+      "rb_top_speed": [55, 9],
+      "visibility": 100
+    },
+    {
+      "intname": "sw_t_34_85_zis_53",
+      "ab_top_speed": [62, 10],
+      "rb_top_speed": [55, 9],
+      "visibility": 100
+    },
+    {
+      "intname": "cn_type_58",
+      "ab_top_speed": [62, 10],
+      "rb_top_speed": [55, 9],
+      "visibility": 100
+    },
+    {
+      "intname": "cn_t_34_85_zis_53_no215",
+      "ab_top_speed": [62, 10],
+      "rb_top_speed": [55, 9],
+      "visibility": 100
+    },
+    {
+      "intname": "ussr_t_34_85_zis_53",
+      "ab_top_speed": [62, 10],
+      "rb_top_speed": [55, 9],
+      "visibility": 100
+    },
+    {
+      "intname": "ussr_t_34_85E",
+      "ab_top_speed": [62, 10],
+      "rb_top_speed": [55, 9],
+      "visibility": 100
+    },
+    {
+      "intname": "ussr_t_34E_STZ",
+      "ab_top_speed": [63, 9],
+      "rb_top_speed": [57, 8],
+      "visibility": 83
+    },
+    {
+      "intname": "ussr_t_34E",
+      "ab_top_speed": [48, 7],
+      "rb_top_speed": [43, 7],
+      "visibility": 83
+    },
+    {
+      "intname": "ussr_t_35",
+      "ab_top_speed": [30, 5],
+      "rb_top_speed": [28, 4],
+      "visibility": 195
+    },
+    {
+      "intname": "ussr_t_44_100",
+      "ab_top_speed": [67, 11],
+      "rb_top_speed": [61, 10],
+      "visibility": 84
+    },
+    {
+      "intname": "ussr_t_44_122",
+      "ab_top_speed": [67, 11],
+      "rb_top_speed": [61, 10],
+      "visibility": 84
+    },
+    {
+      "intname": "ussr_t_44",
+      "ab_top_speed": [67, 11],
+      "rb_top_speed": [61, 10],
+      "visibility": 84
+    },
+    {
+      "intname": "ussr_t_50",
+      "ab_top_speed": [72, 10],
+      "rb_top_speed": [64, 9],
+      "visibility": 74
+    },
+    {
+      "intname": "ussr_t_54_1947",
+      "ab_top_speed": [56, 9],
+      "rb_top_speed": [51, 8],
+      "visibility": 83
+    },
+    {
+      "intname": "ussr_t_54_1949",
+      "ab_top_speed": [56, 9],
+      "rb_top_speed": [51, 8],
+      "visibility": 83
+    },
+    {
+      "intname": "ussr_t_54_1951",
+      "ab_top_speed": [56, 9],
+      "rb_top_speed": [51, 8],
+      "visibility": 83
+    },
+    {
+      "intname": "sw_t_54_1951",
+      "ab_top_speed": [56, 9],
+      "rb_top_speed": [51, 8],
+      "visibility": 83
+    },
+    {
+      "intname": "ussr_t_55a",
+      "ab_top_speed": [56, 9],
+      "rb_top_speed": [51, 8],
+      "visibility": 83
+    },
+    {
+      "intname": "ussr_t_55_am",
+      "ab_top_speed": [56, 9],
+      "rb_top_speed": [51, 8],
+      "visibility": 83
+    },
+    {
+      "intname": "ussr_t_55_amd_1",
+      "ab_top_speed": [56, 9],
+      "rb_top_speed": [51, 8],
+      "visibility": 83
+    },
+    {
+      "intname": "sw_t_55m",
+      "ab_top_speed": [56, 9],
+      "rb_top_speed": [51, 8],
+      "visibility": 83
+    },
+    {
+      "intname": "ussr_t_60_1941",
+      "ab_top_speed": [49, 7],
+      "rb_top_speed": [44, 6],
+      "visibility": 61
+    },
+    {
+      "intname": "cn_t_62",
+      "ab_top_speed": [56, 9],
+      "rb_top_speed": [51, 8],
+      "visibility": 75
+    },
+    {
+      "intname": "ussr_t_62",
+      "ab_top_speed": [56, 9],
+      "rb_top_speed": [51, 8],
+      "visibility": 75
+    },
+    {
+      "intname": "ussr_t_62m1",
+      "ab_top_speed": [61, 10],
+      "rb_top_speed": [55, 9],
+      "visibility": 75
+    },
+    {
+      "intname": "ussr_t_64a_1971",
+      "ab_top_speed": [68, 5],
+      "rb_top_speed": [61, 5],
+      "visibility": 74
+    },
+    {
+      "intname": "ussr_t_64_b_1984",
+      "ab_top_speed": [68, 5],
+      "rb_top_speed": [61, 5],
+      "visibility": 74
+    },
+    {
+      "intname": "cn_type_69_2g",
+      "ab_top_speed": [56, 9],
+      "rb_top_speed": [51, 8],
+      "visibility": 85
+    },
+    {
+      "intname": "ussr_t_70_1942",
+      "ab_top_speed": [51, 7],
+      "rb_top_speed": [46, 6],
+      "visibility": 70
+    },
+    {
+      "intname": "ussr_t_72a",
+      "ab_top_speed": [67, 5],
+      "rb_top_speed": [60, 5],
+      "visibility": 75
+    },
+    {
+      "intname": "ussr_t_72av_turms",
+      "ab_top_speed": [67, 5],
+      "rb_top_speed": [60, 5],
+      "visibility": 75
+    },
+    {
+      "intname": "ussr_t_72b_1989",
+      "ab_top_speed": [67, 5],
+      "rb_top_speed": [60, 5],
+      "visibility": 75
+    },
+    {
+      "intname": "ussr_t_72b",
+      "ab_top_speed": [67, 5],
+      "rb_top_speed": [60, 5],
+      "visibility": 75
+    },
+    {
+      "intname": "ussr_t_72b3_2011",
+      "ab_top_speed": [67, 5],
+      "rb_top_speed": [60, 5],
+      "visibility": 75
+    },
+    {
+      "intname": "sw_t_72m1",
+      "ab_top_speed": [67, 5],
+      "rb_top_speed": [60, 5],
+      "visibility": 75
+    },
+    {
+      "intname": "ussr_t_72m2_moderna",
+      "ab_top_speed": [67, 5],
+      "rb_top_speed": [60, 5],
+      "visibility": 75
+    },
+    {
+      "intname": "ussr_t_80",
+      "ab_top_speed": [47, 7],
+      "rb_top_speed": [43, 6],
+      "visibility": 74
+    },
+    {
+      "intname": "ussr_t_80b",
+      "ab_top_speed": [78, 13],
+      "rb_top_speed": [70, 11],
+      "visibility": 79
+    },
+    {
+      "intname": "ussr_t_80bvm",
+      "ab_top_speed": [78, 13],
+      "rb_top_speed": [70, 11],
+      "visibility": 79
+    },
+    {
+      "intname": "ussr_t_80u",
+      "ab_top_speed": [78, 13],
+      "rb_top_speed": [70, 11],
+      "visibility": 79
+    },
+    {
+      "intname": "ussr_t_80uk",
+      "ab_top_speed": [78, 13],
+      "rb_top_speed": [70, 11],
+      "visibility": 79
+    },
+    {
+      "intname": "ussr_t_80um2",
+      "ab_top_speed": [78, 13],
+      "rb_top_speed": [70, 11],
+      "visibility": 79
+    },
+    {
+      "intname": "ussr_t_90a",
+      "ab_top_speed": [67, 5],
+      "rb_top_speed": [60, 5],
+      "visibility": 75
+    },
+    {
+      "intname": "ussr_pzkpfw_III_ausf_J_L42",
+      "ab_top_speed": [60, 12],
+      "rb_top_speed": [54, 10],
+      "visibility": 88
+    },
+    {
+      "intname": "ussr_pzkpfw_V",
+      "ab_top_speed": [51, 4],
+      "rb_top_speed": [46, 4],
+      "visibility": 125
+    },
+    {
+      "intname": "us_t114",
+      "ab_top_speed": [64, 15],
+      "rb_top_speed": [58, 13],
+      "visibility": 69
+    },
+    {
+      "intname": "us_t14",
+      "ab_top_speed": [41, 6],
+      "rb_top_speed": [38, 5],
+      "visibility": 122
+    },
+    {
+      "intname": "us_t18_e2",
+      "ab_top_speed": [89, 37],
+      "rb_top_speed": [80, 33],
+      "visibility": 84
+    },
+    {
+      "intname": "us_t20",
+      "ab_top_speed": [63, 21],
+      "rb_top_speed": [56, 19],
+      "visibility": 85
+    },
+    {
+      "intname": "us_t25",
+      "ab_top_speed": [56, 56],
+      "rb_top_speed": [51, 51],
+      "visibility": 103
+    },
+    {
+      "intname": "us_t26e4_superpershing",
+      "ab_top_speed": [43, 13],
+      "rb_top_speed": [41, 12],
+      "visibility": 105
+    },
+    {
+      "intname": "us_t26e5",
+      "ab_top_speed": [43, 13],
+      "rb_top_speed": [41, 12],
+      "visibility": 105
+    },
+    {
+      "intname": "us_t28",
+      "ab_top_speed": [14, 5],
+      "rb_top_speed": [13, 5],
+      "visibility": 110
+    },
+    {
+      "intname": "us_t29",
+      "ab_top_speed": [38, 15],
+      "rb_top_speed": [36, 14],
+      "visibility": 108
+    },
+    {
+      "intname": "us_t30",
+      "ab_top_speed": [38, 15],
+      "rb_top_speed": [36, 14],
+      "visibility": 108
+    },
+    {
+      "intname": "us_t32",
+      "ab_top_speed": [38, 15],
+      "rb_top_speed": [36, 14],
+      "visibility": 108
+    },
+    {
+      "intname": "us_t32e1",
+      "ab_top_speed": [38, 15],
+      "rb_top_speed": [36, 14],
+      "visibility": 108
+    },
+    {
+      "intname": "us_t34",
+      "ab_top_speed": [38, 15],
+      "rb_top_speed": [36, 14],
+      "visibility": 108
+    },
+    {
+      "intname": "us_t54e1",
+      "ab_top_speed": [48, 13],
+      "rb_top_speed": [43, 12],
+      "visibility": 100
+    },
+    {
+      "intname": "us_t55e1",
+      "ab_top_speed": [87, 58],
+      "rb_top_speed": [80, 54],
+      "visibility": 84
+    },
+    {
+      "intname": "us_t92",
+      "ab_top_speed": [63, 9],
+      "rb_top_speed": [57, 9],
+      "visibility": 77
+    },
+    {
+      "intname": "us_t95",
+      "ab_top_speed": [14, 5],
+      "rb_top_speed": [13, 5],
+      "visibility": 110
+    },
+    {
+      "intname": "us_t95e1",
+      "ab_top_speed": [63, 14],
+      "rb_top_speed": [57, 13],
+      "visibility": 111
+    },
+    {
+      "intname": "germ_thyssen_henschel_tam_2c",
+      "ab_top_speed": [84, 84],
+      "rb_top_speed": [76, 76],
+      "visibility": 84
+    },
+    {
+      "intname": "germ_thyssen_henschel_tam_2ip",
+      "ab_top_speed": [84, 84],
+      "rb_top_speed": [76, 76],
+      "visibility": 84
+    },
+    {
+      "intname": "germ_thyssen_henschel_tam",
+      "ab_top_speed": [84, 84],
+      "rb_top_speed": [76, 76],
+      "visibility": 84
+    },
+    {
+      "intname": "il_tcm_20",
+      "ab_top_speed": [80, 19],
+      "rb_top_speed": [73, 17],
+      "visibility": 75
+    },
+    {
+      "intname": "jp_tkx_prot",
+      "ab_top_speed": [78, 78],
+      "rb_top_speed": [71, 71],
+      "visibility": 96
+    },
+    {
+      "intname": "uk_ttd",
+      "ab_top_speed": [80, 35],
+      "rb_top_speed": [72, 32],
+      "visibility": 115
+    },
+    {
+      "intname": "jp_type_98_ta_se",
+      "ab_top_speed": [49, 8],
+      "rb_top_speed": [45, 7],
+      "visibility": 75
+    },
+    {
+      "intname": "uk_a17_mk_1_tetrarch",
+      "ab_top_speed": [75, 7],
+      "rb_top_speed": [67, 7],
+      "visibility": 72
+    },
+    {
+      "intname": "germ_pzkpfw_VI_ausf_h1_tiger_animal_version",
+      "ab_top_speed": [48, 9],
+      "rb_top_speed": [45, 9],
+      "visibility": 112
+    },
+    {
+      "intname": "germ_pzkpfw_VI_ausf_e_tiger",
+      "ab_top_speed": [48, 9],
+      "rb_top_speed": [45, 9],
+      "visibility": 112
+    },
+    {
+      "intname": "germ_pzkpfw_VI_ausf_h1_tiger",
+      "ab_top_speed": [48, 9],
+      "rb_top_speed": [45, 9],
+      "visibility": 112
+    },
+    {
+      "intname": "germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46",
+      "ab_top_speed": [45, 12],
+      "rb_top_speed": [42, 12],
+      "visibility": 125
+    },
+    {
+      "intname": "germ_pzkpfw_VI_ausf_b_tiger_IIh_sla",
+      "ab_top_speed": [45, 12],
+      "rb_top_speed": [42, 12],
+      "visibility": 125
+    },
+    {
+      "intname": "germ_pzkpfw_VI_ausf_b_tiger_IIh",
+      "ab_top_speed": [45, 12],
+      "rb_top_speed": [42, 12],
+      "visibility": 125
+    },
+    {
+      "intname": "germ_pzkpfw_VI_ausf_b_tiger_IIp",
+      "ab_top_speed": [45, 12],
+      "rb_top_speed": [42, 12],
+      "visibility": 125
+    },
+    {
+      "intname": "il_tiran_4",
+      "ab_top_speed": [56, 9],
+      "rb_top_speed": [51, 8],
+      "visibility": 83
+    },
+    {
+      "intname": "il_tiran_4_sh",
+      "ab_top_speed": [56, 9],
+      "rb_top_speed": [51, 8],
+      "visibility": 83
+    },
+    {
+      "intname": "it_toldi_II_a",
+      "ab_top_speed": [52, 7],
+      "rb_top_speed": [47, 6],
+      "visibility": 68
+    },
+    {
+      "intname": "cn_tor_m1",
+      "ab_top_speed": [71, 71],
+      "rb_top_speed": [65, 65],
+      "visibility": -135
+    },
+    {
+      "intname": "uk_a39_tortoise",
+      "ab_top_speed": [21, 21],
+      "rb_top_speed": [20, 20],
+      "visibility": 129
+    },
+    {
+      "intname": "it_41m_turan_2",
+      "ab_top_speed": [48, 48],
+      "rb_top_speed": [44, 44],
+      "visibility": 72
+    },
+    {
+      "intname": "germ_erprobungstrager_3_achs_turm",
+      "ab_top_speed": [73, 29],
+      "rb_top_speed": [66, 26],
+      "visibility": 95
+    },
+    {
+      "intname": "jp_type_10",
+      "ab_top_speed": [78, 78],
+      "rb_top_speed": [71, 71],
+      "visibility": 96
+    },
+    {
+      "intname": "jp_type_16_mcv_prot",
+      "ab_top_speed": [111, 41],
+      "rb_top_speed": [100, 37],
+      "visibility": 113
+    },
+    {
+      "intname": "jp_type_16",
+      "ab_top_speed": [111, 41],
+      "rb_top_speed": [100, 37],
+      "visibility": 113
+    },
+    {
+      "intname": "cn_type_59",
+      "ab_top_speed": [56, 9],
+      "rb_top_speed": [51, 8],
+      "visibility": 83
+    },
+    {
+      "intname": "jp_type_60_atm",
+      "ab_top_speed": [50, 10],
+      "rb_top_speed": [46, 10],
+      "visibility": 71
+    },
+    {
+      "intname": "jp_type_60_sprg",
+      "ab_top_speed": [60, 26],
+      "rb_top_speed": [55, 24],
+      "visibility": 68
+    },
+    {
+      "intname": "jp_type_61",
+      "ab_top_speed": [51, 9],
+      "rb_top_speed": [46, 9],
+      "visibility": 88
+    },
+    {
+      "intname": "ussr_type_62",
+      "ab_top_speed": [67, 10],
+      "rb_top_speed": [60, 9],
+      "visibility": 83
+    },
+    {
+      "intname": "cn_type_62",
+      "ab_top_speed": [67, 10],
+      "rb_top_speed": [60, 9],
+      "visibility": 83
+    },
+    {
+      "intname": "cn_type_63_I",
+      "ab_top_speed": [72, 9],
+      "rb_top_speed": [64, 9],
+      "visibility": 75
+    },
+    {
+      "intname": "cn_type_69_2a",
+      "ab_top_speed": [56, 9],
+      "rb_top_speed": [51, 8],
+      "visibility": 83
+    },
+    {
+      "intname": "cn_type_69",
+      "ab_top_speed": [56, 9],
+      "rb_top_speed": [51, 8],
+      "visibility": 75
+    },
+    {
+      "intname": "jp_type_74_c",
+      "ab_top_speed": [59, 9],
+      "rb_top_speed": [54, 8],
+      "visibility": 96
+    },
+    {
+      "intname": "jp_type_74",
+      "ab_top_speed": [59, 9],
+      "rb_top_speed": [54, 8],
+      "visibility": 96
+    },
+    {
+      "intname": "jp_type_74_f",
+      "ab_top_speed": [59, 9],
+      "rb_top_speed": [54, 8],
+      "visibility": 96
+    },
+    {
+      "intname": "jp_type_74_mod_g_kai",
+      "ab_top_speed": [59, 19],
+      "rb_top_speed": [54, 17],
+      "visibility": 96
+    },
+    {
+      "intname": "jp_type_75_mlrs",
+      "ab_top_speed": [55, 14],
+      "rb_top_speed": [51, 13],
+      "visibility": 98
+    },
+    {
+      "intname": "jp_type_75",
+      "ab_top_speed": [52, 21],
+      "rb_top_speed": [48, 19],
+      "visibility": 96
+    },
+    {
+      "intname": "jp_type_87_rcv",
+      "ab_top_speed": [112, 13],
+      "rb_top_speed": [101, 12],
+      "visibility": 107
+    },
+    {
+      "intname": "jp_type_87",
+      "ab_top_speed": [58, 9],
+      "rb_top_speed": [54, 8],
+      "visibility": 313
+    },
+    {
+      "intname": "jp_type_89",
+      "ab_top_speed": [78, 48],
+      "rb_top_speed": [71, 43],
+      "visibility": 88
+    },
+    {
+      "intname": "jp_type_90b",
+      "ab_top_speed": [81, 38],
+      "rb_top_speed": [73, 34],
+      "visibility": 96
+    },
+    {
+      "intname": "jp_type_90",
+      "ab_top_speed": [81, 38],
+      "rb_top_speed": [73, 34],
+      "visibility": 96
+    },
+    {
+      "intname": "jp_type_93",
+      "ab_top_speed": [136, 41],
+      "rb_top_speed": [125, 38],
+      "visibility": 70
+    },
+    {
+      "intname": "jp_type_94",
+      "ab_top_speed": [65, 19],
+      "rb_top_speed": [60, 18],
+      "visibility": 75
+    },
+    {
+      "intname": "sw_landsverk_ush_405",
+      "ab_top_speed": [82, 11],
+      "rb_top_speed": [74, 10],
+      "visibility": 84
+    },
+    {
+      "intname": "sw_udes_33",
+      "ab_top_speed": [58, 14],
+      "rb_top_speed": [53, 12],
+      "visibility": 65
+    },
+    {
+      "intname": "it_vbc_pt2",
+      "ab_top_speed": [123, 25],
+      "rb_top_speed": [110, 23],
+      "visibility": 136
+    },
+    {
+      "intname": "it_vcc_80_hitfist_30",
+      "ab_top_speed": [78, 36],
+      "rb_top_speed": [70, 32],
+      "visibility": 88
+    },
+    {
+      "intname": "it_vcc_80_hitfist_60",
+      "ab_top_speed": [78, 36],
+      "rb_top_speed": [70, 32],
+      "visibility": 88
+    },
+    {
+      "intname": "sw_veak_40",
+      "ab_top_speed": [66, 21],
+      "rb_top_speed": [61, 19],
+      "visibility": 143
+    },
+    {
+      "intname": "uk_vfm_5",
+      "ab_top_speed": [78, 17],
+      "rb_top_speed": [70, 15],
+      "visibility": 81
+    },
+    {
+      "intname": "germ_vsw_flak_41",
+      "ab_top_speed": [66, 6],
+      "rb_top_speed": [60, 5],
+      "visibility": 101
+    },
+    {
+      "intname": "germ_vk_3002m",
+      "ab_top_speed": [62, 5],
+      "rb_top_speed": [55, 5],
+      "visibility": 125
+    },
+    {
+      "intname": "germ_pzkpfw_VI_tiger_P",
+      "ab_top_speed": [38, 35],
+      "rb_top_speed": [36, 33],
+      "visibility": 107
+    },
+    {
+      "intname": "it_vrcc_centauro",
+      "ab_top_speed": [123, 25],
+      "rb_top_speed": [110, 23],
+      "visibility": 84
+    },
+    {
+      "intname": "germ_vt_1_2",
+      "ab_top_speed": [77, 44],
+      "rb_top_speed": [71, 41],
+      "visibility": 73
+    },
+    {
+      "intname": "uk_valentine_mk_1",
+      "ab_top_speed": [27, 4],
+      "rb_top_speed": [25, 3],
+      "visibility": 78
+    },
+    {
+      "intname": "uk_valentine_mk_9",
+      "ab_top_speed": [27, 4],
+      "rb_top_speed": [25, 3],
+      "visibility": 78
+    },
+    {
+      "intname": "uk_valentine_mk_11",
+      "ab_top_speed": [27, 4],
+      "rb_top_speed": [25, 3],
+      "visibility": 78
+    },
+    {
+      "intname": "uk_vickers_mbt_mk_1",
+      "ab_top_speed": [54, 13],
+      "rb_top_speed": [49, 12],
+      "visibility": 108
+    },
+    {
+      "intname": "uk_vickers_mbt_mk_3",
+      "ab_top_speed": [56, 13],
+      "rb_top_speed": [50, 12],
+      "visibility": 88
+    },
+    {
+      "intname": "uk_vickers_mk7",
+      "ab_top_speed": [81, 37],
+      "rb_top_speed": [73, 33],
+      "visibility": 95
+    },
+    {
+      "intname": "sw_vickers_mk_e_37",
+      "ab_top_speed": [39, 4],
+      "rb_top_speed": [36, 4],
+      "visibility": 81
+    },
+    {
+      "intname": "cn_wma_301",
+      "ab_top_speed": [95, 8],
+      "rb_top_speed": [85, 8],
+      "visibility": 136
+    },
+    {
+      "intname": "cn_wz_1001",
+      "ab_top_speed": [84, 38],
+      "rb_top_speed": [76, 35],
+      "visibility": 75
+    },
+    {
+      "intname": "cn_wz_305",
+      "ab_top_speed": [55, 9],
+      "rb_top_speed": [51, 8],
+      "visibility": 107
+    },
+    {
+      "intname": "germ_waffentrager_krupp_steyr",
+      "ab_top_speed": [38, 8],
+      "rb_top_speed": [35, 7],
+      "visibility": 68
+    },
+    {
+      "intname": "uk_fv510_isv",
+      "ab_top_speed": [84, 84],
+      "rb_top_speed": [75, 75],
+      "visibility": 70
+    },
+    {
+      "intname": "germ_wiesel_1_tow",
+      "ab_top_speed": [87, 32],
+      "rb_top_speed": [81, 30],
+      "visibility": 62
+    },
+    {
+      "intname": "germ_wiesel_1_mk20",
+      "ab_top_speed": [87, 32],
+      "rb_top_speed": [81, 30],
+      "visibility": 62
+    },
+    {
+      "intname": "germ_flakpanzer_IV_Wirbelwind",
+      "ab_top_speed": [43, 8],
+      "rb_top_speed": [39, 8],
+      "visibility": 104
+    },
+    {
+      "intname": "us_xm1_chrysler",
+      "ab_top_speed": [84, 46],
+      "rb_top_speed": [76, 42],
+      "visibility": 108
+    },
+    {
+      "intname": "us_xm1_gm",
+      "ab_top_speed": [92, 47],
+      "rb_top_speed": [83, 43],
+      "visibility": 108
+    },
+    {
+      "intname": "us_xm_803",
+      "ab_top_speed": [72, 72],
+      "rb_top_speed": [64, 64],
+      "visibility": 86
+    },
+    {
+      "intname": "us_xm_8",
+      "ab_top_speed": [81, 17],
+      "rb_top_speed": [73, 15],
+      "visibility": 108
+    },
+    {
+      "intname": "us_xm_975_roland",
+      "ab_top_speed": [62, 13],
+      "rb_top_speed": [57, 12],
+      "visibility": -600
+    },
+    {
+      "intname": "ussr_zsu_29k",
+      "ab_top_speed": [48, 6],
+      "rb_top_speed": [45, 6],
+      "visibility": 71
+    },
+    {
+      "intname": "uk_ystervark_spaa",
+      "ab_top_speed": [98, 15],
+      "rb_top_speed": [90, 13],
+      "visibility": 107
+    },
+    {
+      "intname": "uk_rooikat_za_35",
+      "ab_top_speed": [131, 40],
+      "rb_top_speed": [121, 37],
+      "visibility": 84
+    },
+    {
+      "intname": "cn_type_86",
+      "ab_top_speed": [73, 13],
+      "rb_top_speed": [66, 12],
+      "visibility": 70
+    },
+    {
+      "intname": "cn_ztl_11",
+      "ab_top_speed": [112, 10],
+      "rb_top_speed": [101, 9],
+      "visibility": 136
+    },
+    {
+      "intname": "cn_zsd63_pg87",
+      "ab_top_speed": [66, 10],
+      "rb_top_speed": [61, 9],
+      "visibility": 313
+    },
+    {
+      "intname": "il_zsu_23_4",
+      "ab_top_speed": [55, 9],
+      "rb_top_speed": [50, 8],
+      "visibility": 341
+    },
+    {
+      "intname": "ussr_zsu_23_4",
+      "ab_top_speed": [55, 9],
+      "rb_top_speed": [50, 8],
+      "visibility": 341
+    },
+    {
+      "intname": "ussr_zsu_37_2",
+      "ab_top_speed": [70, 26],
+      "rb_top_speed": [65, 24],
+      "visibility": 88
+    },
+    {
+      "intname": "ussr_zsu_37",
+      "ab_top_speed": [46, 6],
+      "rb_top_speed": [43, 6],
+      "visibility": 71
+    },
+    {
+      "intname": "il_zsu_57_2",
+      "ab_top_speed": [55, 9],
+      "rb_top_speed": [51, 8],
+      "visibility": 103
+    },
+    {
+      "intname": "sw_zsu_57_2",
+      "ab_top_speed": [55, 9],
+      "rb_top_speed": [51, 8],
+      "visibility": 103
+    },
+    {
+      "intname": "ussr_zsu_57_2",
+      "ab_top_speed": [55, 9],
+      "rb_top_speed": [51, 8],
+      "visibility": 103
+    },
+    {
+      "intname": "uk_ratel_zt3",
+      "ab_top_speed": [115, 20],
+      "rb_top_speed": [106, 18],
+      "visibility": 84
+    },
+    {
+      "intname": "cn_ztz_59a",
+      "ab_top_speed": [56, 9],
+      "rb_top_speed": [51, 8],
+      "visibility": 83
+    },
+    {
+      "intname": "cn_type_59d",
+      "ab_top_speed": [56, 9],
+      "rb_top_speed": [51, 8],
+      "visibility": 83
+    },
+    {
+      "intname": "cn_ztz_88a",
+      "ab_top_speed": [64, 10],
+      "rb_top_speed": [58, 9],
+      "visibility": 75
+    },
+    {
+      "intname": "cn_ztz_96",
+      "ab_top_speed": [64, 10],
+      "rb_top_speed": [58, 9],
+      "visibility": 75
+    },
+    {
+      "intname": "cn_ztz_96a_prot",
+      "ab_top_speed": [66, 7],
+      "rb_top_speed": [60, 6],
+      "visibility": 75
+    },
+    {
+      "intname": "cn_ztz_96a",
+      "ab_top_speed": [66, 7],
+      "rb_top_speed": [60, 6],
+      "visibility": 75
+    },
+    {
+      "intname": "cn_ztz_99",
+      "ab_top_speed": [73, 6],
+      "rb_top_speed": [65, 5],
+      "visibility": 75
+    },
+    {
+      "intname": "cn_ztz_99_w",
+      "ab_top_speed": [73, 6],
+      "rb_top_speed": [65, 5],
+      "visibility": 75
+    },
+    {
+      "intname": "cn_ztz_99a",
+      "ab_top_speed": [84, 38],
+      "rb_top_speed": [76, 35],
+      "visibility": 75
+    },
+    {
+      "intname": "ussr_zut_37",
+      "ab_top_speed": [46, 6],
+      "rb_top_speed": [43, 6],
+      "visibility": 64
+    },
+    {
+      "intname": "il_ss_11_halftrack",
+      "ab_top_speed": [80, 19],
+      "rb_top_speed": [73, 17],
+      "visibility": 80
+    },
+    {
+      "intname": "ussr_zis_12_94KM_1945",
+      "ab_top_speed": [56, 8],
+      "rb_top_speed": [51, 7],
+      "visibility": 79
+    },
+    {
+      "intname": "ussr_zis_30",
+      "ab_top_speed": [47, 6],
+      "rb_top_speed": [43, 6],
+      "visibility": 76
+    },
+    {
+      "intname": "ussr_zis_43",
+      "ab_top_speed": [39, 9],
+      "rb_top_speed": [35, 9],
+      "visibility": 88
+    },
+    {
+      "intname": "it_44m_zrinyi_1",
+      "ab_top_speed": [44, 44],
+      "rb_top_speed": [41, 41],
+      "visibility": 74
+    }
+  ],
+  "aircraft": [],
+  "helicopter": []
+}
