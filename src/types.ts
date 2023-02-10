@@ -2806,6 +2806,7 @@ export interface BaseMod {
 // Scrape
 export const topSpeed = z.number().array().length(2);
 export type TopSpeed = z.infer<typeof topSpeed>;
+
 export const visibility = z.number().max(3000);
 export type Visibility = z.infer<typeof visibility>;
 
