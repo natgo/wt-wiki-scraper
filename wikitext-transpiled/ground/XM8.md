@@ -90,61 +90,7 @@ Now that tier 4 has been unlocked and priority modifications are purchased, all 
 ==== Ammunition ====
 The C76A1 APFSDS, while not having the best normal penetration, has better penetrating characteristics at an angle than the M735.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M456A2 || HEATFS || 400 || 400 || 400 || 400 || 400 || 400
-|-
-| M393A2 || HESH || 127 || 127 || 127 || 127 || 127 || 127
-|-
-| C76A1 || APFSDS || 353 || 349 || 342 || 333 || 324 || 314
-|-
-| M735 || APFSDS || 353 || 350 || 342 || 333 || 322 || 312
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M456A2 || HEATFS || 1,174 || 10.5 || 0.05 || 0.1 || 1,270 || 65° || 72° || 77°
-|-
-| M393A2 || HESH || 732 || 11.2 || 0.1 || 4 || 4,310 || 73° || 77° || 80°
-|-
-| C76A1 || APFSDS || 1,509 || 3.6 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-| M735 || APFSDS || 1,501 || 3.7 || N/A || N/A || N/A || 76° || 77° || 80°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive mass<br>(TNT equivalent) (g)
-|-
-| M416 || 732 || 11.6 || 20 || 5 || 25 || 50
-|-
-|}
+{{:XM35 (105 mm)/Ammunition|M456A2, M416, M393A2, C76A1, M735}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

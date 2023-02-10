@@ -77,23 +77,7 @@ As a variant of the Swiss Oerlikon GDF-002, the PG99-35-2 shares the same traits
 * '''DKP01A:''' {{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}{{-}}{{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}{{-}}{{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
 * '''DM23:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 68 || 66 || 57 || 47 || 39 || 32
-|-
-| DKG01A || 68 || 66 || 57 || 47 || 39 || 32
-|-
-| DKP01A || 68 || 66 || 57 || 47 || 39 || 32
-|-
-| DM23 || 127 || 125 || 118 || 110 || 102 || 95
-|-
-|}
+{{:PG99-35-2 (35 mm)/Ammunition|HEI-T*, API-T*, APDS}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

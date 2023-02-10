@@ -105,38 +105,7 @@ After those two are unlocked, the commander can pick whatever other modification
 
 The belt of 25 mm APFSDS shells excels against lightly-armoured vehicles and has a more consistent performance against the sides of armoured enemy MBTs than the M3 Bradley's mixed APDS/HEI-T belt.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 80 || 78 || 73 || 66 || 60 || 55
-|-
-| M791 || 80 || 78 || 73 || 66 || 60 || 55
-|-
-| M919 || 101 || 100 || 95 || 88 || 81 || 74
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="10" | Belt details
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M919 || APFSDS || 1,385 || 0.1 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
+{{:M242 (25 mm)/Ammunition|APDS, HEI-T*, APFSDS}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
@@ -173,42 +142,7 @@ The belt of 25 mm APFSDS shells excels against lightly-armoured vehicles and has
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| TOW-2 || ATGM || 800 || 800 || 800 || 800 || 800 || 800
-|-
-| TOW-2B || ATGM&nbsp;(OTA) || 100 || 100 || 100 || 100 || 100 || 100
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="13" | Missile details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Arming distance<br>(m)
-! rowspan="2" | Trigger radius<br>(m)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| TOW-2 || ATGM || 329 || 3,750 || 21.45 || 0.05 || 0.1 || N/A || N/A || 4,410 || 80° || 82° || 90°
-|-
-| TOW-2B || ATGM&nbsp;(OTA) || 309 || 3,750 || 22.59 || 0.05 || 0.1 || 30 || 3 || 3,380 || 80° || 82° || 90°
-|-
-|}
+{{:BGM-71 TOW/Ammunition|TOW-2, TOW-2B}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->

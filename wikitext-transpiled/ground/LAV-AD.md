@@ -73,39 +73,7 @@ The main armament of the LAV-AD is the 25 mm GAU-12U rotary autocannon. It funct
 * '''PGU-25/U:''' {{Annotation|HEI*|High-explosive incendiary (self-destroying)}}{{-}}{{Annotation|HEI*|High-explosive incendiary (self-destroying)}}{{-}}{{Annotation|HEI*|High-explosive incendiary (self-destroying)}}{{-}}{{Annotation|HVAP|High-velocity armour-piercing}}
 * '''PGU-20/U:''' {{Annotation|HVAP|High-velocity armour-piercing}}{{-}}{{Annotation|HVAP|High-velocity armour-piercing}}{{-}}{{Annotation|HVAP|High-velocity armour-piercing}}{{-}}{{Annotation|HEI*|High-explosive incendiary (self-destroying)}}
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 91 || 85 || 64 || 45 || 32 || 22
-|-
-| PGU-25/U || 91 || 85 || 64 || 45 || 32 || 22
-|-
-| PGU-20/U || 91 || 85 || 64 || 45 || 32 || 22
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="9" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| HVAP || 1,036 || 0.21 || N/A || N/A || N/A || 66° || 70° || 72°
-|-
-| HEI* || 1,085 || 0.19 || 0 || 0.1 || 54.4 || 79° || 80° || 81°
-|-
-|}
+{{:GAU-12U (25 mm)/Ammunition|HEI*, HVAP}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
@@ -143,34 +111,7 @@ The LAV-AD also has access to Hydra 70 M247 rockets with a researchable modifica
 |}
 
 ==== Ammunition ====
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M247 || 290 || 290 || 290 || 290 || 290 || 290
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="10" | Belt details
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M247 || HEAT || 739 || 10.16 || 0 || 0.01 || 1,190 || 65° || 72° || 77°
-|-
-|}
+{{:Hydra 70/Ammunition|M247}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
@@ -215,27 +156,8 @@ The LAV-AD also comes with [[FIM-92 Stinger]] missiles. The missiles are IR guid
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="12" | Missile details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Trigger radius<br>(m)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| FIM-92E || SAM || 680 || 5,000 || 10.1 || 1 || 0.1 || N/A || 540 || 79° || 80° || 81°
-|-
-| FIM-92K || SAM || 680 || 5,000 || 10.1 || 1 || 0.1 || 1 || 540 || 79° || 80° || 81°
-|-
-|}
+{{:FIM-92 Stinger/Ammunition|FIM-92E, FIM-92K}}
+
 The FIM-92E detonates on impact while the FIM-92K has a proximity fuse.
 
 ==== [[Ammo racks]] ====
@@ -257,7 +179,6 @@ The FIM-92E detonates on impact while the FIM-92K has a proximity fuse.
 |}
 
 == Usage in battles ==
-
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 In battles, the player can either use the LAV-AD as an AA or in an anti-tank role. By using the LAV's fast speed, the player can easily reach deep into enemy territory where enemies are less vigilant compared to when they're near the frontline. The player can use this advantage by either hiding and waiting for planes to be distracted on friendly tanks and shooting them down or used to attack unsuspecting SPAAs and IFVs/light tanks from mid range and then closing up close to killing MBTs, having the rocket pod unlocked makes quick work of enemy armour if you can get on their flanks additionally the LAV can be used a very good bait against the enemy to lure their concentration while you teammates may shoot the said tank.
 

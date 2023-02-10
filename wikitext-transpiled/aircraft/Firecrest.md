@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=b_48_firecrest
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |cockpit=cockpit_b_48_firecrest.jpg
 }}
 

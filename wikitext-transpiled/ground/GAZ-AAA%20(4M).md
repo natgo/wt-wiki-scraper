@@ -122,7 +122,7 @@ If a tank comes up to you, don't try to fight it as the tanks are built to be re
 
 * [[Pz.II]], [[M3 Stuart (Family)|M3 Stuart]], etc: these tanks, although designated as "light" tanks, are literally heavy tanks for the GAZ-AAA's weak guns, therefore impossible to get destroyed. They also have superior mobility and firepower, so if you see them it is best to leave them to your teammates. If it is safe enough you can shoot a few shots at their tracks, barrel, etc to show them on the minimap.
 
-* [[M13 MGMC]]: this is a commonly seen SPAA with armour enough to resist rifle-calibre bullets and firepower enough to vaporise poorly protected crews. Target its quad .50 cal mount to disable its gunner first, then you can just shoot at the gun mount as its elevation drive, guns, ammo, etc are all exposed. The armoured cabin can only be penetrated if you two are face to face, a distance of more than 200 m will render your bullets useless.
+* [[M13 MGMC]]: this is a commonly seen SPAA with armour enough to resist rifle-calibre bullets and firepower enough to vaporise poorly protected crews. Target its dual .50 cal mount to disable its gunner first, then you can just shoot at the gun mount as its elevation drive, guns, ammo, etc are all exposed. The armoured cabin can only be penetrated if you two are face to face, a distance of more than 200 m will render your bullets useless.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -175,10 +175,12 @@ This self-propelled anti-air mount based on the GAZ-AAA truck with four Maxim ma
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_gaz_4m Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

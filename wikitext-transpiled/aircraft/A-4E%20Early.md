@@ -16,7 +16,7 @@ The '''{{Specs|name}}''' is a squadron rank {{Specs|rank}} American strike aircr
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-The A-4E behaves like the A-4B, with excellent manoeuvrability at speed, aided by the automatic wing slats. However, the aircraft's poor energy retention during turns is profound, and airspeed will drop down to about 320 km/h (200 mph) after more than a 90 degree turn. Overall, it can turn with [[G.91 (Family)|G.91s]] and MiG-15s without issue, however extended dogfights should be avoided. If uptiered, flight performance leaves much to be desired, it can be outmanoeuvred even by the [[Yak-38 (Family)|Yak-38]] or [[F-104 (Family)|F-104]] in a dogfight.
+The A-4E behaves like the A-4B, with excellent manoeuvrability at speed, aided by the automatic wing slats. However, the aircraft's poor energy retention during turns is profound, and airspeed will drop down to about 320 km/h (200 mph) after more than a 90 degree turn. Overall, it can turn with [[G.91 (Family)|G.91s]] and [[MiG-15|MiG-15s]] without issue, however extended dogfights should be avoided. If uptiered, flight performance leaves much to be desired, it can be outmanoeuvred even by the [[Yak-38 (Family)|Yak-38]],  [[F-104 (Family)|F-104]] or [[MiG-21S (R-13-300)|MiG-21]] in a dogfight.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -61,7 +61,7 @@ The A-4E behaves like the A-4B, with excellent manoeuvrability at speed, aided b
 | {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 592 || 562 || 410 || ~8 || ~3
 |-
 |}
-These wings are well-known to be fragile and to easily snap at relatively normal speeds. To prevent this, always pitch positive relative to the wing. Pitching negative, or yawing too violently, are easy ways to tear one or both of your wingtips. Use the plane's high roll rate to your advantage, and make it a habit to preemptively bank into your turns.
+These wings are well-known to be fragile and to easily snap at relatively normal speeds. To prevent this, always pitch positive relative to the wing. Pitching negative, or yawing too violently, are easy ways to tear one or both of your wingtips. Use the plane's high roll rate to your advantage, and make it a habit to preemptively bank into your turns. Also avoid speeding up too fast in a dive, which can also tear off wings at high speeds, instead open up airbrakes or lower throttle to 50% before diving.
 
 {| class="wikitable" style="text-align:center"
 |-
@@ -117,7 +117,7 @@ These wings are well-known to be fragile and to easily snap at relatively normal
 
 The front half of the plane holds the pilot and a self-sealing fuel tank. The wings hold non self-sealing fuel tanks, and the back half of the plane holds the engine.
 
-One single well-placed round from an [[ADEN (30 mm)|ADEN]] cannon can completely cripple the plane by taking out the pilot or an engine. It is completely open to attack from the side and front although it can be armed with flares. Overall, survivability is quite poor, and players should minimize their chance of being hit.
+One single well-placed round from an [[ADEN (30 mm)|ADEN]] cannon can completely cripple the plane by taking out the pilot or the engine. It is completely open to attack from the side and front although it can be armed with flares and chaff. Overall, survivability is quite poor, and players should minimize their chance of being hit by constantly looking around and by staying high or fast.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -221,15 +221,17 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 In Air Realistic battles, one can use this plane in a wide array of roles due to the wide array of armament.
 
-The one role the A-4E can serve is as an air-to-air fighter. The A-4E can equip either the 2 x [[AIM-9B Sidewinder]]s, the 2 x [[AIM-9B Sidewinder|AIM-9Bs]] and the 20 mm gunpod, or triple gunpods for this role. The A-4E's standard 20 mm cannons can easily shred any plane in the sky with a handful of well-placed rounds, however it only comes with 200 bullets, so short controlled bursts must be used, and only should be fired sparingly. The missiles can easily supplement the cannon, however these early missiles have a narrow tracking cone, and can easily miss targets that fly erratically, so they too must be used sparingly. If one prefers to be a gun fighter, a single gunpod (or three) can be attached to spray down targets, however they drag down the plane's climb and turn performance (especially the triple gunpods, which eliminate this plane's climbing ability in a fight).
+One role the A-4E can serve is as an air-to-air fighter. The A-4E can equip either the 2 x [[AIM-9B Sidewinder]]s, the 2 x [[AIM-9B Sidewinder|AIM-9Bs]] and the 20 mm gunpod, or triple gunpods for this role. The A-4E's standard 20 mm cannons can easily shred any plane in the sky with a handful of well-placed rounds, however it only comes with 200 bullets, so short controlled bursts must be used, and only should be fired sparingly. The missiles can easily supplement the cannon, however these early missiles have a narrow tracking cone, and can easily miss targets that fly erratically, so they too must be used sparingly. If one prefers to be a gun fighter, a single gunpod (or three) can be attached to spray down targets, however they drag down the plane's climb and turn performance (especially the triple gunpods, which eliminate this plane's climbing ability in a fight).
 
 General tactics with the A-4E is to keep altitude until one finds a target to pounce on, preferably fighters trying to climb, low flying aircraft, or distracted aircraft. Always attempt to fight aircraft flying alone; attacking an aircraft within a group is risky, as your low energy retention will make it hard to escape if the attack goes unfavourably. It is also best to turn off if your target starts to evade; If you try to chase, you can quickly bleed energy. However, when uptiered, especially versus planes like the British [[Harrier GR.1]], fighting offensively may not work at all, as these planes can easily outclimb and outrun you, and they will bounce you. In cases like these, it is best to stay back and play as a supporting fighter to your team, or simply switch to ground attack roles.
 
-Your best defense is to not engage in fights where you are clearly outnumbered. However, if you are chased, there are little options for evasive manoeuvring. The plane's high roll rate will make it incredibly easy to dodge bullets, and the flares will help the plane dodge missiles. However, the low energy retention will make it extremely hard to escape the fight altogether, especially if perused by multiple aircraft. In such situations, your best bet is to have a friendly plane to pounce the chasing enemy fighters, which can give you a window to escape or fight back.
+Your best defense is to not engage in fights where you are clearly outnumbered. However, if you are chased, there are little options for evasive manoeuvring. The plane's high roll rate will make it incredibly easy to dodge bullets, and the flares will help the plane dodge missiles. However, the low energy retention will make it extremely hard to escape the fight altogether, especially if perused by multiple aircraft. In such situations, your best bet is to have a friendly plane to pounce the chasing enemy fighters, which can give you a window to escape or fight back or to hide behind any hills or terrain that might cover you lower towards the ground.
 
-If using this place as a ground attacker, equip either [[FFAR Mighty Mouse|FFAR]] or [[Zuni Mk32 Mod 0 ATAP|Zuni]] rocket pods or [[AGM-12B Bullpup|AGM-12]] Bullpups, and attack ground targets. Another option is to use the wide array of bombs, preferably the 14 x 500 lb loadout, and destroy enemy bases (typically you can only destroy one, sometimes two) with them. Then, when you return to base, you could rearm with bombs, or rearm with [[AIM-9B Sidewinder|AIM-9's]] and fly as a late-game fighter to finish off remaining players.
+If using this plane as a ground attacker, equip either [[FFAR Mighty Mouse|FFAR]] or [[Zuni Mk32 Mod 0 ATAP|Zuni]] rocket pods, [[AGM-12B Bullpup|AGM-12]] Bullpups, or the 20mm gunpod, and attack ground targets. 
 
-In Ground RB, the preferable secondary armaments are the [[FFAR Mighty Mouse|FFAR]] or [[Zuni Mk32 Mod 0 ATAP|Zuni]] rocket pods, or the 5 x [[AGM-12B Bullpup|AGM-12B]] missiles. These missiles, with enough practice, function like a  precision 250 lb bomb that is guided to the target, most of the time destroying it. The 2 x AGM-62A Walleye bombs can also be used very effectively with practice, however with only two bombs, it is better to use the five [[AGM-12B Bullpup|AGM-12B]] missiles instead. The A-4E can be well paired with the [[XM-803]], [[MBT-70]], or the [[XM-1 (GM)|XM-1]] to form a good lineup.
+Another option is to use the wide array of bombs, preferably the 14 x 500 lb loadout, and destroy enemy bases (typically you can only destroy one, sometimes two) with them. Do this by flying low and fast, to the base hitting one or two and then turn around away from the enemy fighters. When flying back to the base, if the jet has [[AIM-9B Sidewinder|AIM-9's]]  equipped, try to support the team by hitting or scarring off enemy fighters who may be attacking a helpless ally. Then, when you return to base, you could rearm with bombs, or rearm with [[AIM-9B Sidewinder|AIM-9's]] and fly as a late-game fighter to finish off remaining players.
+
+In Ground RB, the preferable secondary armaments are the [[FFAR Mighty Mouse|FFAR]] or [[Zuni Mk32 Mod 0 ATAP|Zuni]] rocket pods, or the 5 x [[AGM-12B Bullpup|AGM-12B]] missiles. These missiles, with enough practice, function like a precision 250 lb bomb that is guided to the target, most of the time destroying it. The 2 x AGM-62A Walleye bombs can also be used very effectively with practice, however with only two bombs, it is better to use the five [[AGM-12B Bullpup|AGM-12B]] missiles instead. When using the Walleyes, climb high and dive down onto enemy tanks to get a lock onto them, which takes away most cover they might be using. As well as strike Roll, the A-4E can use it's gun pods or it's AIM-9s to take down other strike Aircraft or Helicopters. The A-4E can be well paired with the [[XM-803]], [[MBT-70]], or the [[XM-1 (GM)|XM-1]] to form a good lineup.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -243,13 +245,17 @@ In Ground RB, the preferable secondary armaments are the [[FFAR Mighty Mouse|FFA
 ** Has strong air-to-air support capability with access to [[AIM-9B Sidewinder]] missiles, powerful quick-firing 20mm Mk11 Mod 5 gun pods, or a combination of both
 ** Can carry three gun pods at once for a devastating one-second burst mass
 ** Has powerful ground-attack capability, sporting a variety of unguided bombs and rockets, as well as guided AGM-12B Bullpup guided missiles and AGM-62A Walleye guided bombs
+** Can Obliterate bases in Air RB with 250kg bombs and Napalm Mk77s
 * Decent acceleration
+* Effective Radar Warning Receiver in up-tiers
 
 '''Cons:'''
 
 * 2x 20mm cannons have low ammo (only 100 rounds each) and aren't particularly powerful
 ** Inaccurate when stock; since they are your only weapon when stock, this makes for a painful stock grind
 * High speed manoeuvres can easily cause wings to rip
+* Is Fragile when hit in the tail or wing
+** potentially looses control even if the control surfaces are still intact
 * Atrocious energy retention
 * Mediocre top speed
 * Mediocre climb rate compared to planes it can face

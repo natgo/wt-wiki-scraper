@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=typhoon_mk1b_late
-|images={{Specs-Card-Image|GarageImage_Typhoon_Mk_Ib_L.jpg}}
+|images={{Specs-Card-Image|GarageImage_Typhoon_Mk_Ib_L.jpg|ArtImage Typhoon Mk Ib-L.png}}
 }}
 
 == Description ==

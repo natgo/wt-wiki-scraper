@@ -80,40 +80,7 @@ After unlocking parts and FPE, the best course of action is getting the API belt
 * '''AP:''' {{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|API-T|M20 armour-piercing incendiary tracer}} - These are best against enemy tanks at close range and do good damage to planes.
 * '''APIT:''' {{Annotation|API-T|M20 armour-piercing incendiary tracer}} - Better than API in all regards but not as good against tanks as AP, this is the belt of choice in almost all situations. Since every bullet is a tracer, it makes destroying aircraft much easier and detectability is not greatly increased over AP-I, however is increased a bit over AP.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Common || 31 || 29 || 21 || 14 || 9 || 6
-|-
-| API || 30 || 27 || 19 || 12 || 8 || 5
-|-
-| AP || 31 || 29 || 21 || 14 || 9 || 6
-|-
-| APIT || 29 || 27 || 19 || 12 || 7 || 5
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="10" | Belt details
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| APIT || API-T || 929 || 0.04 || N/A || N/A || N/A || 47° || 56° || 65°
-|-
-|}
+{{:M2HB (12.7 mm)/Ammunition|AP, I, API-T, AP-I}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.jpg|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

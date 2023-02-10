@@ -120,7 +120,7 @@ In a pinch, the Ostwind can be used to attack light and medium ground targets. T
 * A viewing port in the turret allows enemies to kill the gunner with machine gun fire
 * Open turret; susceptible to aerial gunfire or blast overpressure
 * Significantly hard to hit and kill an enemy aircraft with the 37 mm cannon
-* PzGr APHE belt with highest penetration values almost never penetrates armoured vehicles (aside fron light and open-topped vehicles)
+* PzGr APHE belt with highest penetration values almost never penetrates armoured vehicles (aside from light and open-topped vehicles)
 * Can get overwhelmed if there are several planes with its low rate of fire
 * Once the cannon has overheated, cooling takes time and hinders combat performance
 
@@ -155,11 +155,13 @@ A development of the Wirbelwind project. The goal of the Ostwind project was to 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Flakpanzer IV]]
 ** [[Ostwind II]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

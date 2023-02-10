@@ -64,64 +64,7 @@ As with the previous Abrams tanks, the M1A2 SEP's gun handles very well, with an
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M830 || HEATFS || 480 || 480 || 480 || 480 || 480 || 480
-|-
-| M830A1 || HEATFS || 350 || 350 || 350 || 350 || 350 || 350
-|-
-| M829 || APFSDS || 491 || 488 || 481 || 473 || 464 || 454
-|-
-| M829A2 || APFSDS || 629 || 627 || 619 || 610 || 601 || 590
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (kg)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M830 || HEATFS || 1,140 || 13.1 || 0.05 || 0.1 || 2.36 || 65° || 72° || 77°
-|-
-| M829 || APFSDS || 1,670 || 4.27 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-| M829A2 || APFSDS || 1,680 || 4.92 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="12" | Proximity-fused shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Arming distance<br>(m)
-! rowspan="2" | Trigger radius<br>(m)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (kg)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M830A1 || HEATFS || 1,410 || 11.4 || 0.05 || 0.1 || 400 || 10 || 1.39 || 65° || 72° || 77°
-|-
-|}
+{{:M256 (120 mm)/Ammunition|M830, M830A1, M829, M829A2}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_M1A2_Abrams.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -193,7 +136,7 @@ As with the previous Abrams tanks, the M1A2 SEP's gun handles very well, with an
 * The engine deck is slightly raised, meaning that the gun cannot be depressed over the rear of the tank
 * High penetration APFSDS shells such as the Leopard 2A6's DM53 can still penetrate the turret cheeks at short ranges and at the right angle
 * The M1A2 SEP is the least manoeuvrable Abrams in the game due to its weight of 62.2 tons, with an additional 3.25 tons of weight if the TUSK kit is equipped
-* The stock HEAT-FS shell is very difficult to use at top rank battles as nearly all tanks the M1A2 faces has high levels of chemical protection and/or is coated in ERA. This leaves flank shots as the only option to deal damage, which in itself isn’t the most reliable due to many tanks having high all-round chemical protection
+* The stock HEAT-FS shell is very difficult to use at top rank battles as nearly all tanks the M1A2 faces has high levels of chemical protection and/or is coated in ERA. This leaves flank shots as the only option to deal damage, which in itself isn't the most reliable due to many tanks having high all-round chemical protection
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

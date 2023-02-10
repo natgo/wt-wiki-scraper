@@ -64,7 +64,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American strike a
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || N/A
+| < ___ || < ___ || < 900~ || N/A
 |-
 |}
 
@@ -174,6 +174,7 @@ The '''''A-6E TRAM''''' can be outfitted with the following ordinance presets:
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=a_6e_tram Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

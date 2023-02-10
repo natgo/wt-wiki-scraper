@@ -62,21 +62,7 @@ The {{PAGENAME}} has a maximum speed forward of 66 km/h or 49 km/h in battlefiel
 * '''M792:''' {{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}
 * '''M791:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 80 || 78 || 73 || 66 || 60 || 55
-|-
-| M792 || 80 || 78 || 73 || 66 || 60 || 55
-|-
-| M791 || 80 || 78 || 73 || 66 || 60 || 55
-|-
-|}
+{{:M242 (25 mm)/Ammunition|APDS, HEI-T*}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}. Racks outlined in red are 25 mm clips.]]

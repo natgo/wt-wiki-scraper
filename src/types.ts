@@ -2612,6 +2612,7 @@ export interface TankCannon extends GenericGun {
 export interface Shell {
   modname: string;
   intname?: string;
+  type: string;
   name?: string;
   maxamount?: number;
   modmaxamount?: number;

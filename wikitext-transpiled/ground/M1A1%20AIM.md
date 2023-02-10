@@ -80,60 +80,7 @@ Since there were limits from the Non-Proliferation Treaty of nuclear-related wea
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M830 || HEATFS || 480 || 480 || 480 || 480 || 480 || 480
-|-
-| M830A1 || HEATFS || 350 || 350 || 350 || 350 || 350 || 350
-|-
-| KE-W || APFSDS || 583 || 579 || 569 || 556 || 542 || 528
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M830 || HEATFS || 1,140 || 13.1 || 0.05 || 0.1 || 2,360 || 65° || 72° || 77°
-|-
-| KE-W || APFSDS || 1,585 || 4 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="12" | Proximity-fused shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Arming distance<br>(m)
-! rowspan="2" | Trigger radius<br>(m)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M830A1 || HEATFS || 1,410 || 11.4 || 0.05 || 0.1 || 400 || 10 || 1,390 || 65° || 72° || 77°
-|-
-|}
+{{:M256 (120 mm)/Ammunition|M830, M830A1, KE-W}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_M1A1.png|right|thumb|x250px|[[Ammo racks]] of the [[M1A1]] (identical)]]

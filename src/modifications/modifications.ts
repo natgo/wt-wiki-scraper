@@ -65,12 +65,10 @@ async function main(dev: boolean) {
       ),
     );
     const vehicleEconomy = economy[element.intname];
-
-    console.log(element.intname);
-
-    modFinal.ground.push(
-      modificationLoop(element, vehicleData, modifications, element, modification_lang),
-    );
+    const mods = modificationLoop(element, vehicleData, modifications, element, modification_lang);
+    if (mods) {
+      modFinal.ground.push(mods);
+    }
   });
   final.aircraft.forEach((element) => {
     const vehicleData: AirVehicle = JSON.parse(
@@ -82,12 +80,10 @@ async function main(dev: boolean) {
       ),
     );
     const vehicleEconomy = economy[element.intname];
-
-    console.log(element.intname);
-
-    modFinal.aircraft.push(
-      modificationLoop(element, vehicleData, modifications, element, modification_lang),
-    );
+    const mods = modificationLoop(element, vehicleData, modifications, element, modification_lang);
+    if (mods) {
+      modFinal.aircraft.push(mods);
+    }
   });
   final.helicopter.forEach((element) => {
     const vehicleData: AirVehicle = JSON.parse(
@@ -99,12 +95,10 @@ async function main(dev: boolean) {
       ),
     );
     const vehicleEconomy = economy[element.intname];
-
-    console.log(element.intname);
-
-    modFinal.helicopter.push(
-      modificationLoop(element, vehicleData, modifications, element, modification_lang),
-    );
+    const mods = modificationLoop(element, vehicleData, modifications, element, modification_lang);
+    if (mods) {
+      modFinal.helicopter.push(mods);
+    }
   });
   fs.writeFileSync(
     `./out/${dev ? "modifications-dev" : "modifications"}.json`,
@@ -121,8 +115,9 @@ function modificationLoop(
   modifications: Mods,
   element: VehicleProps,
   langdata: LangData[],
-) {
+): VehicleMods | undefined {
   if (!vehicleData.modifications) {
+    console.log(`no mods on: ${vehicle.intname}`);
     return undefined;
   }
 
@@ -266,5 +261,7 @@ function modificationLoop(
   if (anyExisit) {
     return out;
   }
+
+  console.log(`modifications exsist but is empty on ${vehicle.intname}`);
   return undefined;
 }

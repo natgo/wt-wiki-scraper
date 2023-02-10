@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=hurricane_mk1
-|images={{Specs-Card-Image|GarageImage_Hurricane_Mk_I_L.jpg}}
+|images={{Specs-Card-Image|GarageImage_Hurricane_Mk_I_L.jpg|ArtImage Hurricane Mk I-L.png}}
 }}
 
 == Description ==

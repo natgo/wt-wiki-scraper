@@ -87,49 +87,13 @@ The -4° gun depression might look too poor, but due to the low height of the ve
 |}
 
 ==== Ammunition ====
-The ZTZ59D1's ammunition consists of the typical set for 105 mm guns. The stock Type 83-HEAT is a HEAT-FS round with 400 mm of penetration at any distance that struggles against enemies with ERA or composite armour but is adequate against steel or spaced armor. It is a slight improvement over the Type 1973 HEAT-FS used by the previous [[Type 69]] but still functions much the same. Use it as an interim round until APFSDS is unlocked. It is a good idea to still bring a few HEAT-FS afterwards since it can trigger overpressure damage against light tanks and SPAAs on occasion and has better ballistics than the HESH round. 
+The ZTZ59D1's ammunition consists of the typical set for 105 mm guns. The stock Type 83-HEAT is a HEATFS round with 400 mm of penetration at any distance that struggles against enemies with ERA or composite armour but is adequate against steel or spaced armor. It is a slight improvement over the Type 1973 HEAT-FS used by the previous [[Type 69]] but still functions much the same. Use it as an interim round until APFSDS is unlocked. It is a good idea to still bring a few HEATFS afterwards since it can trigger overpressure damage against light tanks and SPAAs on occasion and has better ballistics than the HESH round. 
 
 The Type-83 HESH round causes a wide but shallow cone of damage and practically ignores slopes, but only works against thinner plates of conventional armour and has poor ballistics. It may be helpful once in a while to finish off targets that only have a slight portion of their tank exposed, such as splashing the turret roof of an enemy hiding behind cover, but for the most part it should be ignored. 
 
 The Type-83 APDS is, despite its name, an APFSDS round with identical performance to the common 105 mm DM23 used by the [[Leopard A1A1]] for example. The flat penetration is nothing special but the angled penetration is good, which can be helpful for side-shots or penetrating certain tanks with composite armor. It is easy to aim due to its high muzzle velocity, has consistent post-penetration damage, and should be the round of choice once unlocked. Exercise some caution when fighting Soviet MBTs from the [[T-72A]] onwards because the APFSDS does not have enough angled penetration to casually penetrate the hull armor of a spaded T-72A. In a frontal engagement it is best to aim for the driver's viewport or lower glacis, which are weak spots on all Soviet T-64/72/80 series tanks. Other opponents worth noting are the British [[Chieftain Mk 10]] and [[Challenger Mk.2]]/[[Challenger Mk.3|Mk.3]] with strong turrets but weak hulls.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Type-83 HEAT || HEATFS || 400 || 400 || 400 || 400 || 400 || 400
-|-
-| Type-83 HESH || HESH || 127 || 127 || 127 || 127 || 127 || 127
-|-
-| Type-83 APDS || APFSDS || 337 || 335 || 330 || 322 || 314 || 306
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Type-83 HEAT || HEATFS || 1,174 || 11 || 0.05 || 0.1 || 1,270 || 65° || 72° || 77°
-|-
-| Type-83 HESH || HESH || 732 || 11.2 || 0.1 || 4 || 4,310 || 73° || 77° || 80°
-|-
-| Type-83 APDS || APFSDS || 1,455 || 4.2 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
+{{:Type 83 (105 mm)/Ammunition|Type-83 HEAT, Type-83 HESH, Type-83 APDS}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

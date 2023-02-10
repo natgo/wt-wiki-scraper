@@ -71,6 +71,7 @@ export function commonWeaponToCannon(
     if (langFind) {
       const shell: Shell = {
         modname: "default",
+        type: weaponbullet.bulletType,
         name: langFind.English,
         intname: weaponbullet.bulletName,
       };
@@ -231,6 +232,7 @@ export function weaponbulletsLoop(
 
         const shell: Shell = {
           modname: element.name,
+          type: bullet.bulletType,
           name: "",
           intname: bullet.bulletName,
           modmaxamount: element.maxamount,

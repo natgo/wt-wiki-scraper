@@ -31,7 +31,7 @@ Like its [[LVT(A)(1)|reserve rank brother]], the LVT(A)(4) is a big tank with lo
 | Hull || 6.35 mm (84°) ''Upper glacis'' <br> 12.7 mm (31°) ''Upper plate'' <br> 6.35 mm (40°-80°) ''Lower glacis''
 |6.35 mm ''Top'' <br> 6.35 + 6.35 mm ''Bottom'' || 6.35 mm || 6.35 mm
 |-
-| Turret || 38.1 mm ''Turret front'' <br> 12.7 mm ''Gun mantlet'' || 25.4-38.1 mm || 25.4 mm
+| Turret || 38.1 mm ''Turret front'' <br> 12.7 mm ''Gun mantlet'' || 25.4-38.1 mm || 25.4 mm
 !
 |-
 | Commander's MG Ring || colspan="4" | 25.4 + 11.75 mm
@@ -83,53 +83,7 @@ Due to its big and tall tracks, the LVT can drive over some obstacles that are t
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| M48 shell || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-| M66 || HEAT || 89 || 89 || 89 || 89 || 89 || 89
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| M48 shell || HE || 381 || 6.3 || 0 || 0.1 || 666 || 79° || 80° || 81°
-|-
-| M66 || HEAT || 304 || 6.02 || 0.05 || 0.1 || 548.13 || 62° || 69° || 73°
-|-
-|}
-{| class="wikitable" style="text-align:center"
-! colspan="7" | Smoke shell characteristics
-|-
-! Ammunition
-! Velocity<br>(m/s)
-! Projectile<br>Mass (kg)
-! Screen radius<br>(m)
-! Screen deploy time<br>(s)
-! Screen hold time<br>(s)
-! Explosive Mass<br>(TNT equivalent) (g)
-|-
-| M64 || 381 || 6.9 || 13 || 5 || 20 || 50
-|-
-|}
+{{:M2 Howitzer (75 mm)/Ammunition|M48 shell, M66, M64}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -194,9 +148,9 @@ The LVT(A)(4) is a fantastic fighting vehicle, it has a powerful 75 mm cannon at
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 === Development and Design ===
-The vehicle's origins is from a swamp-access vehicle called the ''Alligator'' made for civilians. Donald Roebling, its developer, built an improved version of his vehicle with better speed in water. The United States Marine Corps became interested in this amphibious design as they began drawing up their amphibious warfare doctrine. They requested a more sea-worthy version of the vehicle for use in their military operations. Though Roebling and the Navy were reclusive on that idea (the Navy believes they have the current vehicle in store already), the idea brought fruit when World War II broke out in Europe and Roebling created a military version. After a few trials with improvements like a stronger engine, the Bureau of Ships placed a contract for 100 of these vehicles with all-steel armour. The first ones arrive in July 1941, with 200 more ordered before the initial contract was finished. The vehicle design was adopted and designated the '''LVT''', with many different variants of the vehicle being produced throughout the war.
+The vehicle's origins is from a swamp-access vehicle called the ''Alligator'' made for civilians. Donald Roebling, its developer, built an improved version of his vehicle with better speed in water. The United States Marine Corps became interested in this amphibious design as they began drawing up their amphibious warfare doctrine. They requested a more sea-worthy version of the vehicle for use in their military operations. Though Roebling and the Navy were reclusive on that idea (the Navy believes they have the current vehicle in store already), the idea brought fruit when World War II broke out in Europe and Roebling created a military version. After a few trials with improvements like a stronger engine, the Bureau of Ships placed a contract for 100 of these vehicles with all-steel armour. The first ones arrive in July 1941, with 200 more ordered before the initial contract was finished. The vehicle design was adopted and designated the '''LVT''', with many different variants of the vehicle being produced throughout the war.
 
-The first version of the LVT, the ''LVT-1'', could carry 18 men or 4,500 pounds of equipment. The Marines first used the LVT-1 in Guadalcanal with 128 available to 1st Marine Division. Usage in the field revealed that the LVT was too thinly armoured for a rapid deployment back and forth the ships and landing site, but the Marines saw the vehicle's potential as an assault vehicle. So in June 1941, the Marines push forward with a Roebling design of the LVT armed with a gun turret. In order for this to be possible, the LVT underwent a redesign into the ''LVT-2 "Buffalo"'', which had a new powertrain and suspension to allow better performances on land and able to carry up to 6,950 pounds in equipment. 
+The first version of the LVT, the ''LVT-1'', could carry 18 men or 4,500 pounds of equipment. The Marines first used the LVT-1 in Guadalcanal with 128 available to 1st Marine Division. Usage in the field revealed that the LVT was too thinly armoured for a rapid deployment back and forth the ships and landing site, but the Marines saw the vehicle's potential as an assault vehicle. So in June 1941, the Marines push forward with a Roebling design of the LVT armed with a gun turret. In order for this to be possible, the LVT underwent a redesign into the ''LVT-2 "Buffalo"'', which had a new powertrain and suspension to allow better performances on land and able to carry up to 6,950 pounds in equipment. 
 
 Early on it became clear that the LVTs that were in production - which were usually armed with only machine guns - did not have the firepower necessary to support the infantry, especially when facing enemy pillboxes, bunkers, and other entrenched positions used by the Japanese Army. In order to solve this problem, a fire support vehicle based on the LVT-2 was designed. It had a turret that was very similar to the turret of the M3 Stuart light tank. Before the introduction of the better armed LVT(A)-4 in 1944, 510 LVT(A)-1 were built by the Food Machinery Corporation.
 
@@ -207,11 +161,11 @@ The LVT(A)-4 was essentially just an LVT(A)-1 but equipped with a different turr
 The LVT(A)-4 was itself the basis of an improved fire support version of the LVT, the LVT(A)-5. This was an improved model of the LVT(A)-4. It featured a gyro-stabilizer for the main gun, and a powered turret. In the late 1940s many LVT(A)-5 received additional armour plating. A total of 269 LVT(A)-5 were produced.
 
 === Service ===
-The first usage of the LVT family is as a cargo carrier in Guadalcanal, it was unarmoured at the time and only had machine guns as their main armaments. Their next usage was in Tarawa, which saw the first usage of the newly designed LVT-2. The vehicles in both cases carried ammunition, troops, and wounded back and forth the ships and the beach. After Tarawa, the LVT inventory increased by the battalion, as well as the appearance of the gun-armed ''LVT(A)-1'' and ''LVT(A)-4''. The LVT family continued to see service in Bougainville, the Marshall Islands, Saipan, Peleliu, Leyte (its largest usage in the war), Iwo Jima, and Okinawa. The LVTs also saw use in South East Asia in use by the British, but they never saw combat action.
+The first usage of the LVT family is as a cargo carrier in Guadalcanal, it was unarmoured at the time and only had machine guns as their main armaments. Their next usage was in Tarawa, which saw the first usage of the newly designed LVT-2. The vehicles in both cases carried ammunition, troops, and wounded back and forth the ships and the beach. After Tarawa, the LVT inventory increased by the battalion, as well as the appearance of the gun-armed ''LVT(A)-1'' and ''LVT(A)-4''. The LVT family continued to see service in Bougainville, the Marshall Islands, Saipan, Peleliu, Leyte (its largest usage in the war), Iwo Jima, and Okinawa. The LVTs also saw use in South East Asia in use by the British, but they never saw combat action.
 
 Outside the Pacific, the LVT also saw use in the European Theater of Operations. Their first usage was in North Africa in November 1942 during Operation Torch to land troops, where its best usage was to get stranded landing boats back into action. The LVTs were also given to the British as part of Lend-Lease. The LVTs were used in the Normandy landings and other operations in Europe such as crossing the Rhine River in Germany and Po River in Italy.
 
-After World War II, the LVTs continued to see action in the multiple conflicts in the world. A number were given to the Chinese Nationalists in the Chinese Civil War by America. Many of these were captured by the Chinese PLA, with some converted to use a 75 mm howitzer or a ''[[ZiS-2 (57 mm)|ZIS-2]]'' anti-tank gun. The Americans used a number of LVT vehicles in the Korean War, notably the landing at Inchon and the attack on Seoul. The French also used American-supplied LVTs during the Indochina War and the Suez Crisis.
+After World War II, the LVTs continued to see action in the multiple conflicts in the world. A number were given to the Chinese Nationalists in the Chinese Civil War by America. Many of these were captured by the Chinese PLA, with some converted to use a 75 mm howitzer or a ''[[ZiS-2 (57 mm)|ZIS-2]]'' anti-tank gun. The Americans used a number of LVT vehicles in the Korean War, notably the landing at Inchon and the attack on Seoul. The French also used American-supplied LVTs during the Indochina War and the Suez Crisis.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
