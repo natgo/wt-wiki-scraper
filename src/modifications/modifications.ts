@@ -131,7 +131,7 @@ function modificationLoop(
     primaryWeapon: [],
     secondaryWeapon: [],
     premiumMods: [],
-    expendables: [],
+    expendable: [],
     seakeeping: [],
     unsinkability: [],
   };
@@ -141,7 +141,7 @@ function modificationLoop(
 
   Object.entries(vehicleData.modifications).forEach(([key, value]) => {
     const gameMod = modifications.modifications[key];
-    if (gameMod.tier && gameMod.image && gameMod.turn_it_off !== true) {
+    if (gameMod.image && gameMod.turn_it_off !== true) {
       const mod: BaseMod = {
         intname: key,
         displayname: parseLang(langdata, "modification/" + key)?.English,
@@ -228,12 +228,10 @@ function modificationLoop(
         mod.displayname = displayname;
       }
 
-      if (value.modClass) {
+      if (value.modClass && rank) {
         baseModArr[modClassName.parse(value.modClass)][rank - 1].push(mod);
-      } else if (gameMod.modClass) {
+      } else if (gameMod.modClass && rank) {
         baseModArr[modClassName.parse(gameMod.modClass)][rank - 1].push(mod);
-      } else {
-        console.log("no modclass:", gameMod);
       }
     }
   });
@@ -262,6 +260,6 @@ function modificationLoop(
     return out;
   }
 
-  console.log(`modifications exsist but is empty on ${vehicle.intname}`);
+  console.log(`modifications exsist but its empty on: ${vehicle.intname}`);
   return undefined;
 }

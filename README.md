@@ -61,8 +61,7 @@ the output will be in out/ directory
 # Todo
 - [ ] Add lint-staged
 - [ ] Make a CI/CD pipeline to wt-app
-- [x] Update the techtree directory
-- [ ] Complete the scrape module
+- [x] Complete the scrape module
 - [ ] Improve the file structure
 - [x] Driver thermal
-- [ ] Add machineguns
+- [x] Add machineguns

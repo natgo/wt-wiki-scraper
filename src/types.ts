@@ -2770,7 +2770,7 @@ export const modClassName = z.enum([
   "primaryWeapon",
   "secondaryWeapon",
   "premiumMods",
-  "expendables",
+  "expendable",
   "seakeeping",
   "unsinkability",
 ]);
@@ -2791,7 +2791,7 @@ export interface ModClass {
   primaryWeapon?: BaseMod[][];
   secondaryWeapon?: BaseMod[][];
   premiumMods?: BaseMod[][];
-  expendables?: BaseMod[][];
+  expendable?: BaseMod[][];
   seakeeping?: BaseMod[][];
   unsinkability?: BaseMod[][];
 }
