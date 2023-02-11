@@ -280,7 +280,7 @@ async function main(dev: boolean) {
 
     final.ground.push({
       ...commonVehicle(element, vehicleLang, vehicleEconomy, vehicleUnit, shopData, "army"),
-      type: "tank",
+      type: "ground",
       mass: vehicleData.VehiclePhys.Mass.Empty + vehicleData.VehiclePhys.Mass.Fuel,
       horsepower: vehicleData.VehiclePhys.engine.horsePowers,
       gears_forward: gearsF,

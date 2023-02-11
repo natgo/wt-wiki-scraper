@@ -36,6 +36,15 @@ async function main(dev: boolean) {
     ),
   );
 
+  const weaponry_lang = langcsvJSON(
+    fs.readFileSync(
+      `./${
+        dev ? "datamine-dev" : "War-Thunder-Datamine"
+      }/lang.vromfs.bin_u/lang/units_weaponry.csv`,
+      "utf-8",
+    ),
+  );
+
   const final: Final = JSON.parse(
     fs.readFileSync(`./out/${dev ? "final-dev" : "final"}.json`, "utf-8"),
   );
@@ -65,7 +74,14 @@ async function main(dev: boolean) {
       ),
     );
     const vehicleEconomy = economy[element.intname];
-    const mods = modificationLoop(element, vehicleData, modifications, element, modification_lang);
+    const mods = modificationLoop(
+      element,
+      vehicleData,
+      modifications,
+      element,
+      modification_lang,
+      weaponry_lang,
+    );
     if (mods) {
       modFinal.ground.push(mods);
     }
@@ -80,7 +96,14 @@ async function main(dev: boolean) {
       ),
     );
     const vehicleEconomy = economy[element.intname];
-    const mods = modificationLoop(element, vehicleData, modifications, element, modification_lang);
+    const mods = modificationLoop(
+      element,
+      vehicleData,
+      modifications,
+      element,
+      modification_lang,
+      weaponry_lang,
+    );
     if (mods) {
       modFinal.aircraft.push(mods);
     }
@@ -95,7 +118,14 @@ async function main(dev: boolean) {
       ),
     );
     const vehicleEconomy = economy[element.intname];
-    const mods = modificationLoop(element, vehicleData, modifications, element, modification_lang);
+    const mods = modificationLoop(
+      element,
+      vehicleData,
+      modifications,
+      element,
+      modification_lang,
+      weaponry_lang,
+    );
     if (mods) {
       modFinal.helicopter.push(mods);
     }
@@ -114,7 +144,8 @@ function modificationLoop(
   vehicleData: GroundVehicle | AirVehicle,
   modifications: Mods,
   element: VehicleProps,
-  langdata: LangData[],
+  modification_lang: LangData[],
+  weaponry_lang: LangData[],
 ): VehicleMods | undefined {
   if (!vehicleData.modifications) {
     console.log(`no mods on: ${vehicle.intname}`);
@@ -144,7 +175,7 @@ function modificationLoop(
     if (gameMod.image && gameMod.turn_it_off !== true) {
       const mod: BaseMod = {
         intname: key,
-        displayname: parseLang(langdata, "modification/" + key)?.English,
+        displayname: parseLang(modification_lang, "modification/" + key)?.English,
         image: gameMod.image.split("#")[gameMod.image.split("#").length - 1],
         reqMod: gameMod.reqModification,
       };
@@ -160,7 +191,7 @@ function modificationLoop(
         mod.image = value.image.split("#")[value.image.split("#").length - 1];
       }
 
-      if (key.includes("_ammo_pack") && vehicle.type === "tank") {
+      if (key.includes("_ammo_pack") && vehicle.type === "ground") {
         const findMod = Object.values(modifications.modifications).filter((value) => {
           return value.reqModification === key && !value.tier;
         });
@@ -226,6 +257,42 @@ function modificationLoop(
         }
 
         mod.displayname = displayname;
+      }
+
+      if (key.endsWith("_belt_pack") && !mod.displayname) {
+        if (!gameMod.caliber) {
+          throw new Error(`${key} does not have caliber`);
+        }
+
+        if (key.endsWith("_turret_belt_pack")) {
+          mod.displayname = `Turret ${gameMod.caliber} mm`;
+        } else {
+          mod.displayname = `Offensive ${gameMod.caliber} mm`;
+        }
+      } else if (key.endsWith("_new_gun") && !mod.displayname) {
+        if (!gameMod.caliber) {
+          throw new Error(`${key} does not have caliber`);
+        }
+
+        if (key.endsWith("_turret_new_gun")) {
+          mod.displayname =
+            gameMod.caliber >= 15
+              ? `New ${gameMod.caliber} mm cannons (turret)`
+              : `New ${gameMod.caliber} mm MGs (turret)`;
+        } else {
+          mod.displayname =
+            gameMod.caliber >= 15
+              ? `New ${gameMod.caliber} mm cannons`
+              : `New ${gameMod.caliber} mm MGs`;
+        }
+      }
+
+      if (!mod.displayname) {
+        mod.displayname = parseLang(weaponry_lang, "modification/" + key)?.English;
+      }
+
+      if (!mod.displayname && rank) {
+        console.log("no displayname for:", key);
       }
 
       if (value.modClass && rank) {

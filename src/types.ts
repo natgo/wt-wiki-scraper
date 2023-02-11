@@ -2536,7 +2536,7 @@ export interface FinalWeapon {
 }
 
 export interface GroundProps extends FinalProps {
-  type: "tank";
+  type: "ground";
   mass: number;
   horsepower: number;
   gears_forward: number;
@@ -2809,6 +2809,12 @@ export type TopSpeed = z.infer<typeof topSpeed>;
 
 export const visibility = z.number().max(3000);
 export type Visibility = z.infer<typeof visibility>;
+
+export interface ScrapeFull {
+  ground: Scrape[];
+  aircraft: Scrape[];
+  helicopter: Scrape[];
+}
 
 export interface Scrape {
   intname: string;

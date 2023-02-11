@@ -2,7 +2,7 @@ import fs from "fs";
 import { parseHTML } from "linkedom";
 import { format } from "prettier";
 
-import { Final, Scrape, topSpeed, visibility } from "./types";
+import { Final, ScrapeFull, topSpeed, visibility } from "./types";
 
 async function main() {
   const final: Final = JSON.parse(fs.readFileSync("./out/final.json", "utf-8"));
@@ -17,11 +17,7 @@ async function main() {
     helicopter: [],
   };
 
-  const scrape: {
-    ground: Scrape[];
-    aircraft: Scrape[];
-    helicopter: Scrape[];
-  } = {
+  const scrape: ScrapeFull = {
     ground: [],
     aircraft: [],
     helicopter: [],
