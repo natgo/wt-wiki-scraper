@@ -3992,7 +3992,7 @@
           { "name": "aichi_e13a", "rank": 1, "reqAir": "", "hidden": true },
           { "name": "f4u-1a_japan", "rank": 2, "reqAir": "" },
           { "name": "bf-109e-3_japan", "rank": 2, "reqAir": "" },
-          { "name": "h8k3", "rank": 2, "reqAir": ["", ""] },
+          { "name": "h8k3", "rank": 2, "reqAir": "" },
           { "name": "p-51c-11-nt_japan", "rank": 3, "reqAir": "" },
           { "name": "fw-190a-5_japan", "rank": 3, "reqAir": "" },
           {

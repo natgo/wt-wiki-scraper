@@ -16,6 +16,7 @@ import {
   TankWeapons,
   UnitData,
   namevehicles,
+  opticIr,
 } from "../types";
 import { commonVehicle } from "./commonVehicle";
 import { commonWeaponToCannon } from "./commonWeaponToCannon";
@@ -263,19 +264,19 @@ async function main(dev: boolean) {
     if (night.gunnerThermal) {
       sights.gunner.thermal = night.gunnerThermal;
     } else if (night.gunnerIr) {
-      sights.gunner.ir = night.gunnerIr;
+      sights.gunner.ir = opticIr.parse(night.gunnerIr);
     }
 
     if (night.commanderViewThermal && sights.commander) {
       sights.commander.thermal = night.commanderViewThermal;
     } else if (night.commanderViewIr && sights.commander) {
-      sights.commander.ir = night.commanderViewIr;
+      sights.commander.ir = opticIr.parse(night.commanderViewIr);
     }
 
     if (night.driverThermal && sights.driver) {
       sights.driver.thermal = night.driverThermal;
     } else if (night.driverIr && sights.driver) {
-      sights.driver.ir = night.driverIr;
+      sights.driver.ir = opticIr.parse(night.driverIr);
     }
 
     final.ground.push({

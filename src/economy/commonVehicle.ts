@@ -1,4 +1,13 @@
-import { Economy, FinalProps, LangData, Shop, ShopItem, UnitData, namevehicle } from "../types";
+import {
+  Economy,
+  FinalProps,
+  LangData,
+  Shop,
+  ShopItem,
+  UnitData,
+  namevehicle,
+  premTypeSchema,
+} from "../types";
 import { vehicleType } from "./vehicleType";
 
 const br = [
@@ -126,7 +135,7 @@ export function commonVehicle(
     ],
     sl_price: vehicleEconomy.value,
     reqRP: vehicleEconomy.reqExp,
-    prem_type: prem,
+    prem_type: premTypeSchema.parse(prem),
     marketplace: element.marketplace,
     store: element.store,
     event: vehicleEconomy.event ? vehicleEconomy.event : undefined,

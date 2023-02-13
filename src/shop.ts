@@ -19,6 +19,7 @@ import {
   ShopItem,
   VehicleProps,
   country,
+  finalShopSchema,
 } from "./types";
 
 function shopRangeFE(
@@ -68,6 +69,9 @@ function shopRangeFE(
         };
         Object.entries(value).forEach(([key, value]) => {
           if (!(key === "image" || key === "reqAir") && typeof value !== "string") {
+            if (Array.isArray(value.reqAir)) {
+              value.reqAir = "";
+            }
             out.vehicles.push({
               name: key,
               rank: value.rank,
@@ -96,6 +100,10 @@ function shopRangeFE(
         if (find && find.rank > maxRank) {
           army.max_rank = find.rank;
           maxRank = find.rank;
+        }
+
+        if (Array.isArray(value.reqAir)) {
+          value.reqAir = "";
         }
 
         const out: FinalShopItem = {
@@ -182,7 +190,7 @@ async function main(dev: boolean) {
 
   fs.writeFileSync(
     `./out/${dev ? "shop-dev" : "shop"}.json`,
-    format(JSON.stringify(result), { parser: "json" }),
+    format(JSON.stringify(finalShopSchema.parse(result)), { parser: "json" }),
   );
 }
 
