@@ -20,6 +20,8 @@ import {
   VehicleProps,
   country,
   finalShopSchema,
+  FinalFinalShopRange,
+  FinalRange,
 } from "./types";
 
 function shopRangeFE(
@@ -29,7 +31,7 @@ function shopRangeFE(
   rank: NeedBuyToOpenNextInEra,
   country: CountryName,
   type: string,
-) {
+): FinalFinalShopRange {
   const army: FinalShopRange = {
     col_normal: 0,
     min_rank: 9,
@@ -50,6 +52,25 @@ function shopRangeFE(
 
   let maxRank = 0;
   let isPrem = false;
+
+  range.forEach((element) => {
+    Object.entries(element).forEach(([key, value]) => {
+      if (!("image" in value)) {
+        const find = final.find((vehicle) => {
+          return vehicle.intname === key;
+        });
+
+        if (find && find.rank < army.min_rank) {
+          army.min_rank = find.rank;
+        }
+
+        if (find && find.rank > maxRank) {
+          army.max_rank = find.rank;
+          maxRank = find.rank;
+        }
+      }
+    });
+  });
 
   range.forEach((element) => {
     const range: Array<FinalShopItem | FinalShopGroup> = [];
@@ -86,22 +107,14 @@ function shopRangeFE(
         });
         range.push(out);
       } else {
-        const find = final.find((element) => {
-          return element.intname === key;
+        const find = final.find((vehicle) => {
+          return vehicle.intname === key;
         });
         if (find && find.prem_type !== "false") {
           isPrem = true;
         }
 
-        if (find && find.rank < army.min_rank) {
-          army.min_rank = find.rank;
-        }
-
-        if (find && find.rank > maxRank) {
-          army.max_rank = find.rank;
-          maxRank = find.rank;
-        }
-
+        // h8k3
         if (Array.isArray(value.reqAir)) {
           value.reqAir = "";
         }
@@ -126,7 +139,57 @@ function shopRangeFE(
     army.range.push(range);
   });
 
-  return army;
+  // convert columns to rank columns
+  const ranked: { rank: number; range: FinalRange[] }[] = [];
+
+  for (let index = army.min_rank - 1; index < army.max_rank; index++) {
+    const rank: { rank: number; range: FinalRange[] } = {
+      rank: index + 1,
+      range: [],
+    };
+    army.range.forEach((element) => {
+      const range: FinalRange = [];
+      element.forEach((element) => {
+        if ("vehicles" in element) {
+          if (element.vehicles[0].rank === index + 1) {
+            range.push(element);
+          }
+        } else {
+          if (element.rank === index + 1) {
+            range.push(element);
+          }
+        }
+      });
+      rank.range.push(range);
+    });
+    ranked.push(rank);
+  }
+
+  // precomputed drawArrow
+  ranked.forEach((element, topindex, toparray) => {
+    element.range.forEach((element, index) => {
+      if (element.length === 0) {
+        if (
+          toparray[topindex - 1] &&
+          toparray[topindex + 1] &&
+          toparray[topindex + 1].range[index].length > 0
+        ) {
+          const next = toparray[topindex + 1].range[index][0];
+          if (typeof next === "object" && next.reqAir !== "") {
+            console.log(next.name);
+            toparray[topindex].range[index] = "drawArrow";
+            if (toparray[topindex - 1].range[index].length === 0) {
+              toparray[topindex - 1].range[index] = "drawArrow";
+            }
+          }
+        }
+      }
+    });
+  });
+
+  const output = { ...army, range: ranked };
+
+  return output;
 }
 
 async function main(dev: boolean) {

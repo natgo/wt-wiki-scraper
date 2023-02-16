@@ -2841,10 +2841,27 @@ export const finalShopRangeSchema = z.object({
 });
 export type FinalShopRange = z.infer<typeof finalShopRangeSchema>;
 
+export const finalRangeSchema = z.union([
+  z.array(z.union([finalShopItemSchema, finalShopGroupSchema])),
+  z.literal("drawArrow"),
+]);
+export type FinalRange = z.infer<typeof finalRangeSchema>;
+
+export const finalRangeObjectSchema = z.object({
+  rank: z.number(),
+  range: z.array(finalRangeSchema),
+});
+export type FinalObjectRange = z.infer<typeof finalRangeObjectSchema>;
+
+export const finalFinalShopRangeSchema = finalShopRangeSchema.extend({
+  range: z.array(finalRangeObjectSchema),
+});
+export type FinalFinalShopRange = z.infer<typeof finalFinalShopRangeSchema>;
+
 export const finalShopCountrySchema = z.object({
-  army: finalShopRangeSchema,
-  helicopters: finalShopRangeSchema,
-  aviation: finalShopRangeSchema,
+  army: finalFinalShopRangeSchema,
+  helicopters: finalFinalShopRangeSchema,
+  aviation: finalFinalShopRangeSchema,
 });
 
 export const finalShopSchema = z.record(finalShopCountrySchema);
