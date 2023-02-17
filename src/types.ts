@@ -2754,7 +2754,7 @@ export const groundPropsSchema = finalPropsSchema.extend({
   has_composite: z.boolean().optional(),
   has_laser_range: z.boolean().optional(),
   has_range: z.boolean().optional(),
-  optics: sightSchema,
+  optics: sightsSchema,
   weapons: tankWeaponsSchema.optional(),
 });
 export type GroundProps = z.infer<typeof groundPropsSchema>;
