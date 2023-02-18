@@ -99,47 +99,11 @@ The ZTZ96 makes up for its drawbacks in protection and mobility with a superb gu
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| DTP-125 || HEATFS || 480 || 480 || 480 || 480 || 480 || 480
-|-
-| DTB-125 || HE || 45 || 45 || 45 || 45 || 45 || 45
-|-
-| 125-I || APFSDS || 466 || 464 || 458 || 450 || 442 || 434
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| DTP-125 || HEATFS || 905 || 18 || 0.05 || 0.1 || 2,190 || 65° || 72° || 77°
-|-
-| DTB-125 || HE || 850 || 23 || 0 || 0.1 || 5,460 || 79° || 80° || 81°
-|-
-| 125-I || APFSDS || 1,730 || 4.02 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
+{{:Type 88C (125 mm)/Ammunition|DTP-125, DTB-125, 125-I}}
 
-The DTP-125 HEAT-FS round is nothing particularly special. It has the same penetration and similar TNT equivalent to the standard NATO 120 mm HEAT-FS (e.g. 120 mm DM12) and the same ballistics as the Soviet 3BK12M used by the [[T-72A]] or [[T-64A (1971)|T-64A]]. As a stock round, it is alright. It contains enough explosive mass to trigger pressure damage occasionally against light targets and can dispatch targets with steel or spaced armour, which are still somewhat common at the ZTZ96's battle rating. However it falls short against targets with ERA or composite armour. For example, the [[XM-1 (GM)]]'s turret front can resist DTP-125. Soviet tanks tend to be tough nuts to crack outside of the T-64A, as their turrets are immune and their hulls are at least quite resistant if not outright immune as well.
+The DTP-125 HEATFS round is nothing particularly special. It has the same penetration and similar TNT equivalent to the standard NATO 120 mm HEATFS (e.g. 120 mm DM12) and the same ballistics as the Soviet 3BK12M used by the [[T-72A]] or [[T-64A (1971)|T-64A]]. As a stock round, it is alright. It contains enough explosive mass to trigger pressure damage occasionally against light targets and can dispatch targets with steel or spaced armour, which are still somewhat common at the ZTZ96's battle rating. However it falls short against targets with ERA or composite armour. For example, the [[XM-1 (GM)]]'s turret front can resist DTP-125. Soviet tanks tend to be tough nuts to crack outside of the T-64A, as their turrets are immune and their hulls are at least quite resistant if not outright immune as well.
 
-The DTB-125 HE round is of the Soviet-style, packing a whopping 5.4 kg of TNT equivalent that can deal devastating damage if aimed correctly, either through detonating ammo racks or triggering overpressure damage. Light tanks can typically be shot anywhere and the resulting overpressure damage will wipe out their crew. Against MBTs, the best targets are typically the turret ring, hull roof, or turret roof. The [[Leopard 1 (Family)|Leopard I]], [[AMX-30 (Family)|AMX-30]], [[OF-40 (Family)|OF-40]], and [[Type 74 (Family)|Type 74]] have thin hull side armour and a HE round there is usually a guaranteed knockout if one takes care to avoid hitting the tracks or side skirts. The HE round has essentially the same unimpressive ballistics as the HEAT-FS round and is easiest to use at closer ranges, but practice and/or use of the laser rangefinder can make it viable at medium to long range, particularly against static enemies.
+The DTB-125 HE round is of the Soviet-style, packing a whopping 5.4 kg of TNT equivalent that can deal devastating damage if aimed correctly, either through detonating ammo racks or triggering overpressure damage. Light tanks can typically be shot anywhere and the resulting overpressure damage will wipe out their crew. Against MBTs, the best targets are typically the turret ring, hull roof, or turret roof. The [[Leopard 1 (Family)|Leopard I]], [[AMX-30 (Family)|AMX-30]], [[OF-40 (Family)|OF-40]], and [[Type 74 (Family)|Type 74]] have thin hull side armour and a HE round there is usually a guaranteed knockout if one takes care to avoid hitting the tracks or side skirts. The HE round has essentially the same unimpressive ballistics as the HEATFS round and is easiest to use at closer ranges, but practice and/or use of the laser rangefinder can make it viable at medium to long range, particularly against static enemies.
 
 The 125-I APFSDS shell is a Tier 3 modification and the ZTZ96's only choice of kinetic ammunition. For its battle rating, 125-I performs very well, offering 466 mm of flat penetration at point-blank and dropping only to 434 mm at 2 km. Its angled performance is exceptionally good at 269 mm at 60 degrees, outperforming the common Soviet 3BM42 APFSDS round, whose angled penetration is only 248 mm. For reference, the 125-I performs comparably to Western long-rod sabot rounds such as DM33. Almost all of the ZTZ96's enemies can be dispatched easily with a center mass shot to the hull. The high muzzle velocity makes it easy to use at long range even without using the laser rangefinder.
 

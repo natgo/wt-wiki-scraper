@@ -71,36 +71,7 @@ The Tor-M1 system has only one type of missile at its disposal - the eight 9M331
 |}
 
 ==== Ammunition ====
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 9M331 || SAM || 60 || 60 || 60 || 60 || 60 || 60
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="11" | Missile details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (kg)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 9M331 || SAM || 850 || 12,000 || 167 || 1 || 0.1 || 8.16 || 79° || 80° || 81°
-|-
-|}
+{{:9M331/Ammunition|9M331}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
@@ -117,7 +88,7 @@ The Tor-M1 system has only one type of missile at its disposal - the eight 9M331
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-As the long-awaited long-range SPAA for Chinese TT players, Tor-M1 also introduces some unique features from its counterparts in different countries- the most iconic feature is the unique cold-launch VLS cells onboard that ejects the missile vertically, which then turns and ignites its motor from a safe distance. While players can enjoy the aesthetic feature of the Tor-M1, this also means that it has a minimal firing range unlike its counterparts with "direct-fire" SAMs: a 1 km dead zone around the vehicle that can be embarrassing when aircraft show up in the radius at tree-top altitude on very rare occasions. Do remember that Tor is not an SPAAG with guns, so players used to the PGZ04A will need to make extra sure nothing comes too close to handle; teaming up with friendly SPAA armed with cannons or "direct-fire" missiles is also viable for better efficiency. Though the high elevation of the sight can make sure targets that are high overhead (anywhere before 75°) will face a miserable end thanks to the radar system. The other feature of the Tor-M1 is the capability of TWS with up to 2 tracked targets, if in any occasion when there are multiple targets in range, the system can acquire 2 targets at once ('''NOT''' engaging 2 targets at once due to the missile is being radio-guided); note that the targets must be within a 15°x15° scan zone of the radar and the other target should be locked via the "Select Radar/IRST target to lock on" button. Depending on the desired accuracy of acquisition, changing the scanning pattern of the radar may be necessary for targets at different altitudes.
+As the long-awaited long-range SPAA for Chinese TT players, Tor-M1 also introduces some unique features from its counterparts in different countries- the most iconic feature is the unique cold-launch VLS cells onboard that ejects the missile vertically, which then turns and ignites its motor from a safe distance. While players can enjoy the aesthetic feature of the Tor-M1, this also means that it has a minimal firing range unlike its counterparts with "direct-fire" SAMs: a 1 km dead zone around the vehicle that can be embarrassing when aircraft show up in the radius at tree-top altitude on very rare occasions. Do remember that Tor is not an SPAAG with guns, so players used to the PGZ04A will need to make extra sure nothing comes too close to handle; teaming up with friendly SPAA armed with cannons or "direct-fire" missiles is also viable for better efficiency. Though the high elevation of the sight can make sure targets that are high overhead (anywhere before 75°) will face a miserable end thanks to the radar system. The other feature of the Tor-M1 is the capability of TWS with up to 2 tracked targets. If there are multiple targets within a 15°x15° scan zone of the radar, locking the other target via the "Select Radar/IRST target to lock on" button after a missile has been launched will cause the missile to become guided by the radar towards the originally locked target, allowing the new target to be engaged simultaneously by manual guidance. Depending on the desired accuracy of acquisition, changing the scanning pattern of the radar may be necessary for targets at different altitudes.
 
 The speed of the GM-5955 chassis is very satisfactory for changing positions, while the extreme reverse speed can make sure the Tor-M1 can retreat to safety with ease. However, do remember that it is also a huge vehicle (one of the tallest even with radar mast folded, at 5.1 m), both ground vehicles or aircraft can see such a huge vehicle from a distance; so hide the vehicle at all costs and never move in plain open fields - the speed itself most likely won't save the vehicle, and hits from enemy explosives will very likely overpressure the crew.
 

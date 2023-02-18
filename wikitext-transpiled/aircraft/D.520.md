@@ -16,7 +16,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French fighter {{Battle-rating
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-Due to the D.520's mediocre handling, each scenario must be exploited to the best for the maximum efficiency from the plane. However, maintaining a high speed with the aircraft is essential to do well in common dog-fighting tactics such as Boom & Zoom and Turn & Burn.
+Due to the D.520's mediocre handling, each scenario must be exploited to the best for the maximum efficiency from the plane. However, maintaining a high speed with the aircraft is essential to do well in common dogfighting tactics such as Boom & Zoom and Turn & Burn.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -114,7 +114,7 @@ Enemies worth noting:
 * [[Spitfire (Family)|Spitfires]]: The D.520 is less likely to face them, but sometimes you need to fight with these excellent fighters. They are out-perform you almost all aspects. They have equal or better turn rate, comparable weaponry, better climb rate, and better speed. You have the least disadvantage in a turnfight, so bait the Spitfire into a low-altitude dogfight, and make him lose as much energy as possible. Now, you have a chance to get him from his six, and at this point you and your opponent both are "slow and low", so it's going to be an easy job for the friendly fighters to take him down, but you are good target for the enemy too, so be careful.
 
 * [[F4U (Family)|F4U]]: These are quite common to face. You can out-turn them, but don't try anything else, almost all American fighters can catch you, especially in dive.
-* [[P-38E]]: Same as the F4U; turn-fight them to bleed their speed, but don't try anything else, as the P-38 is faster, and has a deadly armament of 4 x 12.7 mms, and the feared AN/M2 20 mm.
+* [[P-38E]]: Same as the F4U; turn-fight them to bleed their speed, but don't try anything else, as the P-38 is faster, and has a deadly armament of 4 x 12.7 mm MGs, and the feared AN/M2 20 mm.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -154,10 +154,10 @@ Enemies worth noting:
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-Widely regarded as the the best fighter of French origin to emerge during World War 2, the Dewoitine D.520's combat carrier had two main phases. After the fall of France, large numbers of the type were sent to Africa and some took part in the 1941 Syrian campaign against the British and Free French forces. Fighting alongside the German Luftwaffe, the D.520's pilots were involved in the fight against the Allies during the Operation Torch landings in November, 1942. After the victory of the Allies, a large number of D.520 pilots decided to change sides and fight for the Allies. The type was extensively used by Luftwaffe fighter schools as trainers, this shows the desperation faced by that service late in the war. Accident rates among students were very high.
+Widely regarded as the best fighter of French origin to emerge during World War 2, the Dewoitine D.520's combat carrier had two main phases. After the fall of France, large numbers of the type were sent to Africa and some took part in the 1941 Syrian campaign against the British and Free French forces. Fighting alongside the German Luftwaffe, the D.520's pilots were involved in the fight against the Allies during the Operation Torch landings in November, 1942. After the victory of the Allies, a large number of D.520 pilots decided to change sides and fight for the Allies. The type was extensively used by Luftwaffe fighter schools as trainers, this shows the desperation faced by that service late in the war. Accident rates among students were very high.
 
 === Power-plant ===
-The D.520 was powered by either the Hispano-Suiza 12Y-45 or 12Y-49 engines, rated at 850 hp (634 kW) and 820 hp (612 kW) respectively. Each engine drove a different propeller. The D.520 underwent trials for the more powerfull 12Y-51 (D.523) and 12Z-89ter (D.524) engines although neither were accepted.
+The D.520 was powered by either the Hispano-Suiza 12Y-45 or 12Y-49 engines, rated at 850 hp (634 kW) and 820 hp (612 kW) respectively. Each engine drove a different propeller. The D.520 underwent trials for the more powerful 12Y-51 (D.523) and 12Z-89ter (D.524) engines although neither were accepted.
 
 === Armament ===
 Compared to other French fighters at the time, the Dewoitine D.520 was relatively well armed. Its armament consisted of one Hispano-Suiza HS404 20 mm cannon with 60 rounds, and four wing-mounted 7.5 mm MAC 1934 machine guns, each with 675 rounds of ammunition.

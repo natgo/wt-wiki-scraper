@@ -147,7 +147,7 @@ Production-standard armament consisted of a 20 mm HS.404, with an ammunition cap
 {{Navigation-First-Simple-Line}}
 The Dewoitine D.520 was a French single-seat, all-metal, monoplane fighter which first entered service in 1940. In 1936 the French Armée de l'Air stated a requirement for a cannon armed fighter capable of speeds of 500 km/h. Emile Dewoitine began work on a design to meet this criteria and a prototype D.520-01 conducted its first test flight on October 2nd 1938. After some initial teething problems, the first production run was started in October 1939. In April 1940 the first D.520s were declared operational in Groupe de Chasse 1/3, a Groupe which already included a good number of combat experienced pilots.
 
-The Dewoitine D.520 was powered by a liquid-cooled Hispano-Suiza HS12Y-45 engine, rated at 920 hp. Its armament comprised of one Hispano-Suiza HS404 20 mm cannon with 60 rounds and four belt-fed MAC 1934 M39 7.5mm machine guns in the wings with 675 rounds each.
+The Dewoitine D.520 was powered by a liquid-cooled Hispano-Suiza HS12Y-45 engine, rated at 920 hp. Its armament comprised of one Hispano-Suiza HS404 20 mm cannon with 60 rounds and four belt-fed MAC 1934 M39 7.5 mm machine guns in the wings with 675 rounds each.
 
 The outbreak of war had made any further refinement of the aircraft impossible, and as a result production commenced with minimal delays, leaving no time for proposed improvements to be implemented. Instead, upgrades would be made during production, as time allowed. The production model had a redesigned carburettor air intake and a modified cooling system for the engine. Later D.520s featured jet exhaust pipes. The production model was sometimes referred to as the D.520S ("serial") or the D.520C1 ("chausser 1" - single-seat fighter).
 
@@ -167,12 +167,14 @@ D.520 fighters were mass manufactured intermittently until June 1944 and in all 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=d_520 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|xfhULunUBns|'''Sub's Choice Ep 17: D.520''' - ''Jengar''|EzuojV4HqHg|'''Pages of History: D.520'''  - ''War Thunder Official Channel''}}
+{{Youtube-gallery|xfhULunUBns|'''Sub's Choice Ep 17: D.520''' - ''Jengar''|EzuojV4HqHg|'''Pages of History: D.520''' - ''War Thunder Official Channel''}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+* [[D.520]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet medium tank {{Battle-rating}}. It was introduced during [[Update 1.95 "Northern Wind"]] as a special Valentine's Day vehicle. This is a Lend-Lease Valentine, shipped to the USSR by the British. The tank was made available to purchase in-game with Golden Eagles ({{GE}}) for specific mini-events like the [[wt:en/news/6583-special-valentine-s-day-en|2020]], [[wt:en/news/7042-special-lunar-new-year-and-valentine-s-day-en|2021]], and [[wt:en/news/7555-special-happy-valentine-s-day-en|2022]] Valentine's Day events.
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet medium tank {{Battle-rating}}. It was introduced during [[Update 1.95 "Northern Wind"]] as a special Valentine's Day vehicle. This is a Lend-Lease Valentine, shipped to the USSR by the British. The tank was made available to purchase in-game with Golden Eagles ({{GE}}) for specific mini-events like the [[wt:en/news/6583-special-valentine-s-day-en|2020]], [[wt:en/news/7042-special-lunar-new-year-and-valentine-s-day-en|2021]] [[wt:en/news/7555-special-happy-valentine-s-day-en|2022]], and [[wt:en/news/8093-special-happy-valentine-s-day-en|2023]] Valentine's Day events.
 
 == General info ==
 === Survivability and armour ===

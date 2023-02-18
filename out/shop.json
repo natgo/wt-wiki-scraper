@@ -1761,15 +1761,7 @@
               { "name": "uh_1d", "rank": 5 }
             ],
             [],
-            [
-              {
-                "name": "bo_105cb2",
-                "rank": 5,
-                "reqAir": "",
-                "gift": true,
-                "hidden": true
-              }
-            ]
+            [{ "name": "bo_105cb2", "rank": 5, "reqAir": "" }]
           ]
         },
         {
@@ -2596,12 +2588,7 @@
                 "gift": true,
                 "marketplace": 50117
               },
-              {
-                "name": "ussr_valentine_mk_9",
-                "rank": 2,
-                "reqAir": "",
-                "hidden": true
-              },
+              { "name": "ussr_valentine_mk_9", "rank": 2, "reqAir": "" },
               {
                 "name": "ussr_t_34_1941_cast_turret",
                 "rank": 2,
@@ -4863,15 +4850,7 @@
             ],
             [{ "name": "jp_type_16_mcv_prot", "rank": 6 }],
             [{ "name": "jp_type_87", "rank": 6 }],
-            [
-              {
-                "name": "jp_type_74_mod_g_kai",
-                "rank": 6,
-                "reqAir": "",
-                "gift": true,
-                "hidden": true
-              }
-            ],
+            [{ "name": "jp_type_74_mod_g_kai", "rank": 6, "reqAir": "" }],
             []
           ]
         },
@@ -5202,7 +5181,7 @@
               { "name": "g8n1", "rank": 4 }
             ],
             [
-              { "name": "j2m4_kai", "rank": 4, "reqAir": "", "hidden": true },
+              { "name": "j2m4_kai", "rank": 4, "reqAir": "" },
               { "name": "j2m5_30mm", "rank": 4, "reqAir": "" },
               { "name": "b-17e_japan", "rank": 4, "reqAir": "" },
               { "name": "ki_87", "rank": 4, "reqAir": "" }

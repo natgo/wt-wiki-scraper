@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} German attack helicopter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
 
-Being the only Warsaw pact helicopter available to German pilots, ▀Mi-24P shows a radical shift of doctrine when compared to NATO helicopters. Big, heavily armoured yet fast, and armed with lethal payload when compared to its West German contemporaries, one can see why Hinds were nicknamed "Devil's Chariots" during their deployment in Afghanistan.
+Being the only Warsaw pact helicopter available to German pilots, ◄Mi-24P shows a radical shift of doctrine when compared to NATO helicopters. Big, heavily armoured yet fast, and armed with lethal payload when compared to its West German contemporaries, one can see why Hinds were nicknamed "Devil's Chariots" during their deployment in Afghanistan.
 
 This version differentiates from its [[Mi-24P (Germany)|tech tree counterpart]] only by premium bonuses and addition of livery belonging to Heeresfliegerstaffel 80 (Army Aviation Squadron 80) helicopter unit belonging to Unified Germany's Heer that continued to operate Soviet helicopters after reunification.
 
@@ -22,11 +22,11 @@ This version differentiates from its [[Mi-24P (Germany)|tech tree counterpart]] 
 <!-- ''Describe how the helicopter behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 With its large size and heavy armour for a helicopter, Hind can at times feel sluggish and slow to turn when compared to [[BO 105 (Family)|BO 105]] helicopters. That being said, it can also fly incredibly fast, being the fastest helicopter in the German tech tree.
 
-▀Mi-24P can achieve a whooping speed of 335 km/h when flying at 50 m altitude, without any problems. Be aware that at this speed, Hind behaves more like a plane rather than helicopter; sharp turns using only mouse control can take ages and helping yourself with keyboard controls can cause loss of lift, leading to crash.
+◄Mi-24P can achieve a whooping speed of 335 km/h when flying at 50 m altitude, without any problems. Be aware that at this speed, Hind behaves more like a plane rather than helicopter; sharp turns using only mouse control can take ages and helping yourself with keyboard controls can cause loss of lift, leading to crash.
 
-Be aware that while you can exceed ▀Mi-24P's listed maximal speed by as much as 30 km/h without problems, once you hit 370 km/h and above, your helicopter '''WILL''' flop to the right side. This is especially dangerous during low altitude flight as you won't have time to recover, even with experienced crew.
+Be aware that while you can exceed ◄Mi-24P's listed maximal speed by as much as 30 km/h without problems, once you hit 370 km/h and above, your helicopter '''WILL''' flop to the right side. This is especially dangerous during low altitude flight as you won't have time to recover, even with experienced crew.
 
-Also be aware that when hovering, ▀Mi-24P is prone to '''vortex ring state''', a dangerous condition leading to loss of lift and eventually, crash. It is of utmost importance to start moving in any direction, thus gaining lift, as soon as a warning pops up on your screen, otherwise you risk severely damaging if not losing your helicopter.
+Also be aware that when hovering, ◄Mi-24P is prone to '''vortex ring state''', a dangerous condition leading to loss of lift and eventually, crash. It is of utmost importance to start moving in any direction, thus gaining lift, as soon as a warning pops up on your screen, otherwise you risk severely damaging if not losing your helicopter.
 
 {| class="wikitable" style="text-align:center"
 |-
@@ -70,7 +70,7 @@ SAMs will almost always destroy most of your critical components in one hit, tho
 
 '''Avionics'''
 
-▀Mi-24P is equipped with a plethora of technologies which increase your survivability dramatically.
+◄Mi-24P is equipped with a plethora of technologies which increase your survivability dramatically.
 
 First, you have the option to install '''HIRSS''', Hover Infrared Suppressor System that allows your helicopter to reduce or almost eliminate all infrared radiation emitted by exhaust gases of its engines to the surroundings.
 
@@ -82,7 +82,7 @@ Lastly, you can equip a '''countermeasure launcher''' with a capacity of 192 of 
 
 There is not one downside to having all of the above mentioned countermeasures, so keep all of them equipped, always.
 
-Sadly, ▀Mi-24P is not equipped with MAW, missile approach warning, so you do not get alerted by missiles incoming in your direction.
+Sadly, ◄Mi-24P is not equipped with MAW, missile approach warning, so you do not get alerted by missiles incoming in your direction.
 
 '''Staying alive'''
 
@@ -93,7 +93,7 @@ Also, you need to be aware that HFS 80 livery with its bright unnatural colors c
 === Modifications and economy ===
 {{Specs-Economy}}
 
-Since '''▀Mi-24P HFS 80'''  is premium helicopter, it comes with all modifications unlocked. Just be sure to install all available countermeasures before heading into battle.
+Since ◄'''Mi-24P HFS 80'''  is premium helicopter, it comes with all modifications unlocked. Just be sure to install all available countermeasures before heading into battle.
 
 == Armaments ==
 {{Specs-Heli-Armaments}}
@@ -119,11 +119,11 @@ The '''''{{PAGENAME}}''''' is armed with:
 ** 1 x 30 mm GSh-30-2K cannons, cheek-mounted (250 rpg) + 192 x Flares
 ** 1 x 30 mm GSh-30-2K cannons, cheek-mounted (250 rpg) + 192 x Flares + IRCM
 
-▀Mi-24P is armed with a 30 mm GSh-30-2K cannon. It can shred any air target unfortunate enough to get in its range. With ground belts, it can make short work of any light vehicle or SPAAG, though main battle tanks will shrug your fire without any serious damage.
+◄Mi-24P is armed with a 30 mm GSh-30-2K cannon. It can shred any air target unfortunate enough to get in its range. With ground belts, it can make short work of any light vehicle or SPAAG, though main battle tanks will shrug your fire without any serious damage.
 
 Operator must be aware that the cannon has a high rate of fire and only 250 rounds available, so trigger discipline is a must.
 
-Last thing to note is that the cannon is fixed to the ▀Mi-24P's right side and thus can be only aimed by turning the entire helicopter. This can sometimes be a problem at close range due to Hind's sluggish controls, and helicopters with cannons that can turn independently will have an edge over you.
+Last thing to note is that the cannon is fixed to the ◄Mi-24P's right side and thus can be only aimed by turning the entire helicopter. This can sometimes be a problem at close range due to Hind's sluggish controls, and helicopters with cannons that can turn independently will have an edge over you.
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
@@ -176,11 +176,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |-
 |}
 
-Compared to NATO helicopters in the German tech tree, ▀Mi-24P has the ability to perfectly tailor its payload to any battlefield scenario it can encounter.
+Compared to NATO helicopters in the German tech tree, ◄Mi-24P has the ability to perfectly tailor its payload to any battlefield scenario it can encounter.
 
 '''GSh-23L cannon'''
 
-▀Mi-24P is also able to equip gun pods containing 23 mm GSh-23L cannons. It is the same cannon as the one mounted in [[MiG-21 (Family)|MiG-21s]]. ▀Mi-24P can equip up to 4 containers, each one containing 500 rounds of ammo. Sadly, you can't choose which belts to use.
+◄Mi-24P is also able to equip gun pods containing 23 mm GSh-23L cannons. It is the same cannon as the one mounted in [[MiG-21 (Family)|MiG-21s]]. ◄Mi-24P can equip up to 4 containers, each one containing 500 rounds of ammo. Sadly, you can't choose which belts to use.
 
 '''S-8KO rockets'''
 
@@ -196,11 +196,11 @@ Direct upgrade to R-60, these are almost identical to the base version, but with
 
 '''OFAB-250sv bombs'''
 
-Another weapon more commonly found on planes, ▀Mi-24P can equip up to 1,000 kg of OFAB-250 bombs. These are dropped individually, thus in theory allowing the pilot to score 4 kills at least. Sadly, reality is different - as your ballistic computer lacks computing power to understand the sheer madness of mounting bombs on a helicopter, it is thus unable to provide aiming reticle for your bombs (as modern planes do). Your only hope of precisely dropping these is to attack in a manner similar to [[Ju 87 B-2|Stuka]] planes. While the thought of ▀Mi-24P stuka bombing Abrams tanks certainly is funny, it is far from practical, given the setting in which helicopters operate.
+Another weapon more commonly found on planes, ◄Mi-24P can equip up to 1,000 kg of OFAB-250 bombs. These are dropped individually, thus in theory allowing the pilot to score 4 kills at least. Sadly, reality is different - as your ballistic computer lacks computing power to understand the sheer madness of mounting bombs on a helicopter, it is thus unable to provide aiming reticle for your bombs (as modern planes do). Your only hope of precisely dropping these is to attack in a manner similar to [[Ju 87 B-2|Stuka]] planes. While the thought of ◄Mi-24P stuka bombing Abrams tanks certainly is funny, it is far from practical, given the setting in which helicopters operate.
 
 '''FAB-500M-54 bomb'''
 
-Same story as above, except ▀Mi-24P can only equip two of them. On the other hand, their explosive mass is higher, thus you do not need to be as precise as when dropping 250 kg bombs.
+Same story as above, except ◄Mi-24P can only equip two of them. On the other hand, their explosive mass is higher, thus you do not need to be as precise as when dropping 250 kg bombs.
 
 '''9M114 Shturm missile'''
 
@@ -210,7 +210,7 @@ Your weapon of choice when engaging enemy armour. Precursor of the [[9M120 Ataka
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-▀Mi-24P (or any helicopter for that matter) usually adopts tactics of either helicopter rush or sniping with ATGMs.
+◄Mi-24P (or any helicopter for that matter) usually adopts tactics of either helicopter rush or sniping with ATGMs.
 
 The longer match goes on, the higher the chances of enemy AA appearing. This means your chance to successfully employ helicopter rush tactic gets lower as the match drags on, thus making helicopter rush viable only in the early game.
 
@@ -232,7 +232,7 @@ Since your rockets are launched in pairs, aim for the roof armour on the back of
 
 Let's get this out of the way first - helicopter rush tactic '''is a gamble''', since it can lead to either great success (destroying several tanks from the enemy team for the price of one helicopter) or catastrophic failure (getting slapped by [[ADATS]] halfway to the combat zone), depending on whenever the enemy team has active AA at the start of the match.
 
-Thankfully, ▀Mi-24P, thanks to its ballistic computer, speed, and armour can helicopter rush at the start of the round well. Be aware that it is more often than not a one way trip, since opponents will likely spawn dedicated AA after getting killed by rushing helicopter and '''will''' delete you from sky. Sometimes, you won't even get a chance to do that - some players anticipate helicopter rushes and start a game in AA vehicles, thus probably shutting down your helicopter even before it can do any damage.
+Thankfully, ◄Mi-24P, thanks to its ballistic computer, speed, and armour can helicopter rush at the start of the round well. Be aware that it is more often than not a one way trip, since opponents will likely spawn dedicated AA after getting killed by rushing helicopter and '''will''' delete you from sky. Sometimes, you won't even get a chance to do that - some players anticipate helicopter rushes and start a game in AA vehicles, thus probably shutting down your helicopter even before it can do any damage.
 
 That being said, when helicopter rushing at the start of the round, you need to approach the battlefield as low as possible, in order to avoid enemy radar and break line of sight by putting terrain, trees and structures between you and the enemy. Select heliport spawn closer to the battlefield, and start approaching either spawn or capture point; those have the highest chance of enemies being concentrated there.
 
@@ -270,7 +270,7 @@ Stay around an altitude of 25 m when not engaging enemy tanks. You won't get det
 
 Staying in one place not only helps the enemy team to locate you sooner, but some tanks with laser range finders might able to shoot you down with tank guns at a range of several kilometres, since you present almost static target.
 
-Shturms have mediocre penetration when compared to some high-end missiles and may find themselves unable to defeat modern composite or reactive armour, which are getting common at ▀Mi-24P BR. While destroying light tanks and SPAAGs and many older main battle tanks frontally is doable, your ATGMs simply don't have enough penetration to go through [[Challenger 2]]'s turret cheeks or [[T-72B3]]'s Relikt reactive armour for example.
+Shturms have mediocre penetration when compared to some high-end missiles and may find themselves unable to defeat modern composite or reactive armour, which are getting common at ◄Mi-24P BR. While destroying light tanks and SPAAGs and many older main battle tanks frontally is doable, your ATGMs simply don't have enough penetration to go through [[Challenger 2]]'s turret cheeks or [[T-72B3]]'s Relikt reactive armour for example.
 
 That being said, that does not mean you cannot destroy those enemies. You just need to be smart about deploying your Shturms.
 
@@ -317,11 +317,13 @@ Instead, exploit Hind's high speed to get on flanks and hit enemy tanks from the
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other Mi-24P variants
+
 * [[Mi-24P (Germany)]]
 * [[Mi-24P]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

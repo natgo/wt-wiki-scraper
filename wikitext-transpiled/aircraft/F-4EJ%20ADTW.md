@@ -235,16 +235,19 @@ In 1968 Japan made it public that they would update their JASDF with the F-4 pha
 
 McDonnell Douglas built the first 2, F-4EJ prototypes with Mitsubishi Heavy Industries building the remaining Phantoms. They did, however, import RF-4EJ from McDonnell Douglas over the 10-year span of production. Mitsubishi Heavy Industries would build the very last F-4 in the world, nicknamed "The Finale Phantom", on the 20th of May, 1981. It served with the 306th and 301st Tactical Fighter Squadrons. 127 EJ variant Phantoms were built.
 
-The first squadron equipped with the new F-4EJ would be the 301<sup>st</sup> Hikotai, in August 1<sup>st</sup> 1972. In October 1973, the 301<sup>st</sup> would be deemed operational with the Phantom, having 14 Phantoms in their squadron. On October 30<sup>th</sup> 1978, five years after the squadron was equipped and trained in the Phantom: the 301<sup>st</sup> was designated as JASDF Quick Ready Alert force. In 1979 they would be the first F-4EJ to intercept another aircraft when a Soviet T-95 was deemed a threat on February 21st of that year. Ironically the same day of the intercept is when Japan launched the Hakucho X-ray satellite & Corsa-B.
+The first squadron equipped with the new F-4EJ would be the 301<sup>st</sup> Hikotai, in August 1<sup>st</sup> 1972. In October 1973, the 301<sup>st</sup> would be deemed operational with the Phantom, having 14 Phantoms in their squadron. On October 30<sup>th</sup> 1978, five years after the squadron was equipped and trained in the Phantom: the 301<sup>st</sup> was designated as JASDF Quick Ready Alert force. In 1979 they would be the first F-4EJ to intercept another aircraft when a Soviet Tu-95 was deemed a threat on February 21st of that year. Ironically the same day of the intercept is when Japan launched the Hakucho X-ray satellite & Corsa-B.
 
 In July of 1984, after the post-war sanctions were dropped, Japan put together plans to upgrade its F-4EJ Phantoms. In 1989 their F-4EJ Phantoms were updated starting with the 306<sup>th</sup> Hikotai. The new Phantoms were equipped with APG-66J pulse-Doppler radar, which allowed the Phantoms to carry out air-to-ground and Air-to-Ship capabilities while being lighter, smaller, and more efficient than the old radar. A new computer and heads up display was added to Phantom, allowing them to bring the Phantom into the 21<sup>st</sup> century. Additional upgrades to the pylons allowed the new Phantoms to be equipped with the F-15 fuel tanks, which could sustain more G forces than the current fuel tanks being used. And with the adoption of the Westinghouse AN/ALQ-131 countermeasures, it allowed the pilot to adapt and counter any threats on the modern battlefield quickly. These upgrades were desperately needed for the JASDF as their Mitsubishi F-1 and F-2 did not have the range needed to adequately defend their countries territory if war ever arose. 96 Phantoms were upgraded and designated as F-4EJ Kai (Kai means "Modified" in Japanese).
 
 The F-4EJ Phantoms were equipped with 3 different colour schemes. Blue Camo, Green Camo, and Grey. 127 aircraft were built, with 8 squadrons adopting the plane. The F-4EJ was decommissioned in 2020 to adapt to the F-35A Lightning II.
 
+This F-4EJ sports the livery for the 60th Anniversary of the ADTW (Air Development and Test Wing 飛行開発実験団) as in 2015 for 47-8336 (Mitsubishi's 36th Phantom; M036), where it was the very last few F-4EJs to be written off from JASDF in March 2021.
+
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f-4ej_adtw Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -261,6 +264,7 @@ The F-4EJ Phantoms were equipped with 3 different colour schemes. Blue Camo, Gre
 ** [[F-4EJ Kai Phantom II]]
 
 ;Aircraft of comparable role, configuration and era
+
 * Mikoyan-Gurevich [[MiG-21 (Family)]]
 * SAAB [[J35D]] Draken
 * Dassault [[Mirage IIIC]]

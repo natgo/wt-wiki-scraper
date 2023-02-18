@@ -90,7 +90,7 @@ The tank commander has the ability to control the weapon if the gunner is knocke
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated:''' -->
+<!-- '''Last updated: 2.23.1.33''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -99,7 +99,7 @@ The tank commander has the ability to control the weapon if the gunner is knocke
 ! 3rd<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''25''' || 17&nbsp;''(+8)'' || 9&nbsp;''(+16)'' || 1&nbsp;''(+24)'' || No
+| '''25''' || 21&nbsp;''(+4)'' || 11&nbsp;''(+14)'' || 1&nbsp;''(+24)'' || No
 |-
 |}
 '''Note''':
@@ -183,6 +183,7 @@ About six Charioteers exist in intact condition in the world. One is in Austria 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_charioteer_mk_7 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

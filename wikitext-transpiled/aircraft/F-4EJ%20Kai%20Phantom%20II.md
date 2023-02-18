@@ -12,6 +12,8 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese jet fighter {{Battle-rating}}. It was introduced in [[Update "Direct Hit"]].
 
+The Japanese retrofit of F-4EJ in the early 1980s to enhance its combat capabilities, the EJ Kai introduces a pulse-Doppler radar and revised avionics, as well as boasting new varieties of air-to-air weaponry, making it a formidable interceptor to deal with.
+
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
@@ -219,12 +221,28 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 '''Cons:'''
 
 * Limited ammunition in the frontally-mounted cannon
+* Lacks guided ordnance, limiting ground attack ability
 * Terrible manoeuvrability along with mediocre acceleration and top speed, particularly compared to common opponents
 ** Doesn't have an Agile Eagle package like the F-4E and F-4F to increase manoeuvrability
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+Since the introduction of the Mitsubishi F-4EJ in 1968, it had been one of the cornerstones of the JASDF along with the F-104J and then later F-15J/DJ; but being a jet from the mid-1960s with inferior avionics and armaments to the latest Soviet jets also meant an extensive upgrade for the fleet of EJs was required. The plans for upgrading the 90 MHI-built F-4EJs which were still airworthy started in 1981 and the first retrofitted jet (07-8431) took to the skies in July 1984 and joined the JASDF in December. Upgrades included:
+
+* Installation of J/AYK-1 guidance system for AShM and unguided bombs
+* Replacing AN/APQ-120 with the latest AN/APG-66J with pulse-Doppler capabilities; J/AVQ-3 radar display and guidance system for SARH AAMs
+* New J/ASN-4 digital INS navigation system
+* New Kaiser Electronics HUD
+* J/APR-6 RWR, AN/APX-76A IFF, and AN/ALQ-131 countermeasures
+* HOTAS controls
+* Lightning rods by the radome
+* New fuel tanks
+
+These features passed for the budgets of FY1987 and the upgrades for these jets finished by 1990.
+
+By the time F-15J/DJs and F-2s joined the JASDF in larger quantities, F-4EJs (including the recon variant, RF-4EJ) were starting to retire. On 17 March, 2021, the very last 3 F-4EJ (Kai)s of the JASDF (17-8301[4038], [[F-4EJ ADTW|47-8336]][M036] and 07-8431[M131]) retired from the Air Development and Test Wing (ADTW) in Gifu Airbase, Nagoya, bidding farewell of Phantoms in JASDF service. <ref>https://theaviationist.com/2021/03/17/japans-last-three-f-4ej-phantoms-have-just-flown-for-the-last-time/</ref>
+
+{{notice|'''07-8431 (EJ Kai)''' and '''17-8301 (the very first JASDF EJ)''' were also used for the sampling of the in-game representation of this jet as the developers and DMM announced for a trip to Gifu before their ultimate decommission.<ref>https://warthunder.dmm.com/news/detail/8612</ref>}}
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -232,6 +250,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 ;Skins
 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f-4ej_kai Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
 {{Skin-gallery|market|ugcitem_1001078|F-4EJ_Kai_37-8315.jpg|Camo "''Go For It!''"|market|ugcitem_1001158|F-4EJ Kai 77-8399.png|Camo "''50th Anniversary JSDF''"|market|ugcitem_1001276|F-4EJ 37-8322.jpg|Camo "''Good Bye Okinawa''"}}
 
 == See also ==

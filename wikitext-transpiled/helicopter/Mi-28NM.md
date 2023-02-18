@@ -142,21 +142,21 @@ The Mi-28NM is a gunship and should be used as such. It holds a very capable arr
 '''Pros:'''
 
 * High max speed and decent vertical climb rate when loaded (10m/s) 
-* Arsenal of versatile weaponries against both ground and air targets
+* Arsenal of versatile weaponry against both ground and air targets
 * Has access to 3rd gen gunner thermals and N-025 search radar
 * Has access to Missile Approach Warning (MAW) systems
-* 2A42 30mm autocannon with APDS rounds that can penetrate MBTs.
-* Strong cockpit armor that can withstand 12.7mm AP rounds
-* Best IRCM system in game making it almost immune to all IR missiles
+* 30 mm 2A42 autocannon with APDS rounds that can penetrate MBTs
+* Strong cockpit armour that can withstand 12.7 mm AP rounds	
+* Unique DIRCM system making it almost immune to IR missiles
 * N-025 K-band radar does not trigger RWR, with MTI scan mode capable of identifying both air and ground targets 
 
 '''Cons:'''
 
 * Sluggish airframe and irresponsive pitch
-* Tendency to roll right due to imbalanced lift in rotor during high-speed turns (300km/h+)
+* Tendency to roll right due to imbalanced lift in rotor during high-speed turns (300+ km/h)
 * N-025 radar lacks the 360° scan mode like the AN/APG-78 on the Apaches
-* limited gunner pitch view angles compared to another helis with turrets
-* Autocannon dispersion is quite large at 1km+ range
+* limited gunner pitch view angles compared to another helicopters with turrets
+* Autocannon dispersion is quite large beyond 1km range
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

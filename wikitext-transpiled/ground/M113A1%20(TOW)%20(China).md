@@ -104,40 +104,8 @@ The launcher has a rather limited arc of fire - 45 degrees in either direction, 
 The gun depression, at 20 degrees, excels almost every other tank and allows the player to use many surprising positions to attack. Note that the depression is far less when the launch tube is above the MG.
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| TOW || ATGM || 430 || 430 || 430 || 430 || 430 || 430
-|-
-| I-TOW || ATGM || 630 || 630 || 630 || 630 || 630 || 630
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="11" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| TOW || ATGM || 299 || 3,000 || 18.82 || 0.05 || 0.1 || 3,210 || 80° || 82° || 90°
-|-
-| I-TOW || ATGM || 296 || 3,750 || 19.05 || 0.05 || 0.1 || 2,720 || 80° || 82° || 90°
-|-
-|}
+{{:BGM-71B TOW/Ammunition|TOW}}
+{{:BGM-71C I-TOW/Ammunition|I-TOW}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_M113A1_(TOW).png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

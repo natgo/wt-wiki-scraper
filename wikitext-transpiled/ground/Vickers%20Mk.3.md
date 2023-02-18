@@ -169,7 +169,7 @@ A mixture of APDS and HEATFS shells are good as the APDS can reliably damage an 
 
 '''Cons:'''
 
-* Even with the turret upgrade, the armour of the Vickers Mk.3 is poor
+* Poor and unreliable armour
 * 10x zoom can be impractical while aiming at close targets
 * The large ammo rack in the front is still present
 * Small-calibre machine guns don't offer much penetration and the [[L21A1 (12.7 mm)|rangefinding 12.7 mm MG]] fires only tracer bullets that have low penetration power

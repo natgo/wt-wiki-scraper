@@ -34,7 +34,7 @@ From the side or the roof, within 200 m the crew compartment can be penetrated b
 Airstrikes are especially lethal to this tank, so much, that the vehicle might as well be without armour. In the case of a cannon air raid, sides should be presented, as there is a chance the aircraft will focus on engine compartment first, in the case of a rocket raid, front should be presented, as otherwise overpressure damage will destroy the Shturm-S instantly. Since there is no way to know which plane carries what in RB mode, it is better to face enemy aircraft regardless.
 
 The front is more or less protected from .50 calibre, so, if necessary, it can be exposed towards an enemy who still has his HMG working, but it should not be relied on.
-[[File:Shturm-S low profile demonstration.jpg|thumb|right|Despite having poor armour, Shturm-S technically can snipe right next to opponents and not be seen or hit because of it's low profile.]]
+[[File:Shturm-S low profile demonstration.jpg|thumb|right|Despite having poor armour, Shturm-S technically can snipe right next to opponents and not be seen or hit because of its low profile.]]
 There are very few areas on this tank that can be hit by a cannon round and survive. The entire front is essentially an instant kill zone, as even a scratch by APFSDS will cause enough spalling to obliterate both crew members, and it is extremely rare to only lose one. Very rarely, a HEAT shell falling straight to the middle might fail to completely knock out crew members, but the chance is also very slim.
 
 The only place where Shturm-S can survive a side shot by a cannon is the engine room in the very middle. Thus it is very important to present the tank completely flat when flanked, as to make centre of mass shot seem more lucrative (for example, in AB, some people might not even bother aiming manually and just press "aim assist" and "fire", which results in a shot straight to the middle). After hitting the engine, enemies usually aim straight for the ammo rack, so it only works once.
@@ -91,7 +91,7 @@ The handle is put down if the vehicle speeds up too much (faster than 19 km/h), 
 
 DO NOT hold "fire" button while reloading or waiting for launcher to pull out, because launcher has a tendency to malfunction if you don't wait fot at least 0.2 sec after it finished. This "malfunction" causes the missile to simply disappear.
 
-Each missile type has great manoeuvreability, but the launch sequience is greatly complicated by the fact, that launcher (located in the very back of the tank) is offset from the actual guiding camera (located on the front-right of the tank), and missiles are launched at high speeds, causing them to often miss at close range. Since the launcher is pointing forward when pulled out, firing too early might also cause the missile to miss, depending on how much it needs to turn and compensate to get on course. Aim assist of arcade mode also has a tendency to aim lower than it should and often spontaneously breaks off because of this, so it should not be relied on for anything but AA duty.
+Each missile type has great manoeuvrability, but the launch sequence is greatly complicated by the fact, that launcher (located in the very back of the tank) is offset from the actual guiding camera (located on the front-right of the tank), and missiles are launched at high speeds, causing them to often miss at close range. Since the launcher is pointing forward when pulled out, firing too early might also cause the missile to miss, depending on how much it needs to turn and compensate to get on course. Aim assist of arcade mode also has a tendency to aim lower than it should and often spontaneously breaks off because of this, so it should not be relied on for anything but AA duty.
 
 The Shturm-S cannot properly fire or aim from medium tank hulldown spots, so it is inferior to [[IT-1]] in that regard. In arcade mode and, at some spots, RB, tank can fire over obstacles by using a stepping stone of some sort, but it cannot really guide shots that way.
 
@@ -103,9 +103,9 @@ Missiles are vulnerable to jamming, so when fighting tanks with IRCM, it is nece
 
 The list of available ATGM in order of acquisition:
 
-* HEAT - Default ATGM, which has about 550 mm penetration. Launched at atleast 230 m/s with high acceleration. Can deal with anything at the BR, but does only punctual damage like HEATFS. Tanks with heavy NERA or ERA amount will resist it and suffer less than fatal damage or no damage.
+* HEAT - Default ATGM, which has about 550 mm penetration. Launched at 230 m/s with high acceleration. Can deal with anything at the BR, but does only punctual damage like HEATFS. Tanks with heavy NERA or ERA amount will resist it and suffer less than fatal damage or no damage.
 
-* Tandem HEAT - ATGM with a double payload. Launched at atleast 230 m/s with high acceleration. Extremely high post-penetration damage. Designed to annihilate ERA and other countermeasures and then destroy the tank in one hit. Each payload can penetrate about 800 mm of composite armour at a flat angle. Tandem warhead ignores ERA and penetration should be calculated as if it was not present, unless you hit the target at an extreme angle, launching the actual projectile into yet another ERA layer.
+* Tandem HEAT - ATGM with a double payload. Launched at 230 m/s with high acceleration. Extremely high post-penetration damage. Designed to annihilate ERA and other countermeasures and then destroy the tank in one hit. Each payload can penetrate about 800 mm of composite armour at a flat angle. Tandem warhead ignores ERA and penetration should be calculated as if it was not present, unless you hit the target at an extreme angle, launching the actual projectile into yet another ERA layer.
 
 * HE - A guided missile with a HE payload. Launched at about 130 m/s with poor acceleration. Can penetrate about 55 mm of armour, making it on par with the second strongest HE shells in terms of pure damage. Can be used to cause overpressure damage by hitting tracks or tank's roof, similarly to HE shells, but has negligible area of effect and is weak against ERA plating. Due to its low launch speed it is suitable for close range combat, particularly in AB. Outside of the tank's own BR, it can be used as a utility ammo to destroy NERA tanks, which the tandem HEAT might not be able to even scratch. This missile has enough explosive mass to damage ground, but it has no practical application outside of AB, since damage is very low.
 
@@ -133,11 +133,11 @@ The list of available ATGM in order of acquisition:
 ! 12th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''12''' || 12&nbsp;''(+0)'' || 11&nbsp;''(+1)'' || 10&nbsp;''(+2)'' || 9&nbsp;''(+3)'' || 8&nbsp;''(+4)'' || 7&nbsp;''(+5)'' || 6&nbsp;''(+6)'' ||   5&nbsp;''(+7)'' || 4&nbsp;''(+8)'' || 3&nbsp;''(+9)'' || 2&nbsp;''(+10)'' || 1&nbsp;''(+11)'' ||   no
+| '''12''' || 12&nbsp;''(+0)'' || 11&nbsp;''(+1)'' || 10&nbsp;''(+2)'' || 9&nbsp;''(+3)'' || 8&nbsp;''(+4)'' || 7&nbsp;''(+5)'' || 6&nbsp;''(+6)'' || 5&nbsp;''(+7)'' || 4&nbsp;''(+8)'' || 3&nbsp;''(+9)'' || 2&nbsp;''(+10)'' || 1&nbsp;''(+11)'' || No
 |-
 |}
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-Mechanized Ammo Rack capable of automatic loading.
+The missiles are automatically loaded via a mechanized ammo rack.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -188,13 +188,13 @@ A textbook example of using this technique:
 
 <gallery mode="packed-hover" heights="200px">
 Shturm-S snipe stage 1.jpg|Step 1: Detecting an enemy, angling and pulling the camera out until the enemy is marked in bright red. Pay extra attention to surroundings during this.
-Shturm-S snipe stage 2.jpg|Step 2: Use binocular view to aim at an enemy tank and suggest it's weakspot, then hold "fire" to take aim at it.
+Shturm-S snipe stage 2.jpg|Step 2: Use binocular view to aim at an enemy tank and suggest its weak spot, then hold "fire" to take aim at it.
 Shturm-S snipe stage 3.jpg|Step 3: Exit binocular view and press "fire", then do not touch anything until missile hits the target.
 </gallery>
 
 As could be seen on the screenshots, no normal tank can destroy Shturm-S which is following the rules, even if they fire back. Do not forget to move down from the firing spot after firing, as otherwise you are just giving unseen opponents time to aim chemical shells or ATGM at you, which is not ideal. If you are being focused by artillery, you can retreat. Temporary retreat can be made even into a lake, since Shturm-S can swim.
 [[File:Shturm-S sniping off plateau.jpg|thumb|right|It's not impossible to snipe from a faraway high ground in AB, but a lot of care and precautions should be taken as well.]]
-Once you got tandem warheads, some bolder tactical moves can be taken, for example, you can camp in a semi-open spot, as long as you are out of a default aim assist range (1.5 km), as tandem HEAT can one-shot many tanks unlike default missiles. This, however, is still not recommended to do without ESS, as any player with a rangefinder or any significant game experience will adjust the sniper scope manually and snipe you. To make it more feasible, try to acquire high ground as well.
+Once you got tandem warheads, some bolder tactical moves can be taken, for example, you can camp in a semi-open spot, as long as you are out of a default aim assist range (1.5 km), as tandem HEAT can knock out many tanks unlike default missiles. This, however, is still not recommended to do without ESS, as any player with a rangefinder or any significant game experience will adjust the sniper scope manually and snipe you. To make it more feasible, try to acquire high ground as well.
 
 The HE missile makes AB sniping even easier, as it is slow and will generally manage to curve into enemy tank roof by itself from 100 m, likely causing overpressure and destroying the target. It is also much easier to manually use at point blank ranges. Unfortunately, it is extremely ineffective against "non standard" soviet tanks, which you will often meet, such as [[T-55AM-1]], [[Object 268]], [[IS-7]] and so on, and is bad against many American tanks, so at least 3 Tandem HEAT should always be carried and preloaded when moving around. HE-VT is similar to normal HE in that regard and can replace it completely. If not sure about ammunition balance, try to look at the enemy team tanks in score menu (tab), as it is generally possible to guess whether you can get away with simply loading full HE or almost full HEAT loadout will be necessary.
 
@@ -215,9 +215,9 @@ Smoke attack: Only feasible for a spaded tank, but can be used even in general m
 
 Proof of ESS combat trick feasibility, even in less than perfect situation:
 <gallery mode="packed-hover" heights="200px">
-Shturm-S ESS combat 1.jpg|Step 1: Fire off ESS and back off into it. Even if enemy tank fires back, it is likely to miss or less likely to one-shot the carrier. Ideally, you want to not get hit.
+Shturm-S ESS combat 1.jpg|Step 1: Fire off ESS and back off into it. Even if enemy tank fires back, it is likely to miss or less likely to knock the carrier out. Ideally, you want to not get hit.
 Shturm-S ESS combat 2.jpg|Step 2: Enter sniper mode and turn on thermal scope. As can be seen here, Shturm-S can see through its own engine exhaust and will easily snipe anything through it.
-Shturm-S ESS combat 3.jpg|Even players which use SPAA as a combat tank often forget that they have some 2000 RPM autocannons and may also enter smoke to fight you instead of just filling it with shells. Dodge them for as long as possible and destroy them once the weapon is reloaded. In AB, avoid letting an enemy to get as close as on the screenshot.
+Shturm-S ESS combat 3.jpg|Even players which use SPAA as a combat tank often forget that they have some 2,000 RPM autocannons and may also enter smoke to fight you instead of just filling it with shells. Dodge them for as long as possible and destroy them once the weapon is reloaded. In AB, avoid letting an enemy to get as close as on the screenshot.
 </gallery>
 
 '''Notable Enemies'''
@@ -243,7 +243,7 @@ Sniper medium tanks (mostly in AB): Other snipers are also a serious threat, sin
 * Fast-flying, relatively easy to control missiles are great for long ranges and tricky shots alike
 * Very low profile - combined with good positioning, the vehicle can be invisible with only the launcher peeking over a hilltop or wall
 * Capable of travelling across water, although relatively slowly and with poor control
-* Can double as a SAM tank in AB, to a point it can single handedly dominate the sky and even protect the bombers from interceptors if fires immediately
+* Can double as a SAM tank in AB, to a point it can single-handedly dominate the sky and even protect the bombers from interceptors if fires immediately
 
 '''Cons:'''
 

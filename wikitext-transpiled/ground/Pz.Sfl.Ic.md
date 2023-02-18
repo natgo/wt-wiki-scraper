@@ -5,7 +5,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German light tank {{Battle-rating}}. It was introduced as a [[wt:en/news/901--en|premium pack]] in [[Update 1.43]] as the ''Pz.Kpfw. II Ausf. H'' (shortened to ''Pz.II H'').  In [[Update_1.89_"Imperial_Navy"#Ground_vehicles_2|Update 1.89]], the vehicle was renamed to the current designation. It was purchasable from the store until the [[wt:en/news/7154-shop-may-sale-in-the-gaijin-store-en|2021 May sale]] after which it was removed from sale. It has since been made available for purchase in-game with Golden Eagles {{GE}} temporarily for the [[wt:en/news/7894-special-german-unity-day-en|2022 "German Unity Day"]] mini-event.
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German light tank {{Battle-rating}}. It was introduced as a [[wt:en/news/901--en|premium pack]] in [[Update 1.43]] as the ''Pz.Kpfw. II Ausf. H'' (shortened to ''Pz.II H''). In [[Update_1.89_"Imperial_Navy"#Ground_vehicles_2|Update 1.89]], the vehicle was renamed to the current designation. It was purchasable from the store until the [[wt:en/news/7154-shop-may-sale-in-the-gaijin-store-en|2021 May sale]] after which it was removed from sale. It has since been made available for purchase in-game with Golden Eagles {{GE}} temporarily for the [[wt:en/news/7358-special-german-unity-day-en|2021]] and [[wt:en/news/7894-special-german-unity-day-en|2022]] "German Unity Day" mini-events.
 
 == General info ==
 === Survivability and armour ===
@@ -14,6 +14,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German light tank
 Having 30 mm of frontal armour, this tank isn't made for the frontline. The three crew members mean that single-shot destruction is a common possibility. Worse still, this tank has no roof protection with the cloth covering being only cosmetic. Unfortunately, this also means that you are very vulnerable to aircraft attacks too. Your demure silhouette will let you easily hide in the small nooks and crannies of maps and lets you cover your entire tank with bushes for extra concealment.
 
 '''Armour type:'''
+
 * Rolled homogeneous armour
 
 {| class="wikitable"
@@ -29,6 +30,7 @@ Having 30 mm of frontal armour, this tank isn't made for the frontline. The thre
 |}
 
 '''Notes:'''
+
 * Suspension wheels and torsion bars are 10 mm thick while tracks are 15 mm thick.
 * Belly armour is 5 mm thick.
 * A 5 mm thick plate separates the crew compartment from the engine compartment.

@@ -223,14 +223,18 @@ The MiG-29 has an unique flight character, it's engines consume much fuel thus t
 
 '''Pros:'''
 
-* Good manoeuvrability and high speed
-* Effective gun and radar system
-* Good radar-guided missiles
+* High top speed, with enough engine power to reach that top speed even when near sea level
+* Good manoeuvrability at low to medium speed
+* Effective gun with suitable ammunition load and lethal effect on air targets
+* Good radar system able to use Pulse-Doppler and Track-While-Scan to search for targets
+* Good radar-guided missiles, particularly the R-27ER
+* Helmet-Mounted Display (HMD) sights allows more flexibility with both radar and IRST to target enemy planes off the MiG-29's nose
+* Has IRST to search and track enemies, as well as slave IR weaponry, without alerting their Radar Warning Receiver (RWR)
 
 '''Cons:'''
-
+* Manoeuvrability drops at higher speed due to pilot pulling more G's, which can make it difficult to turn quickly without G-LOCing the pilot, such as evading a radar missile fired at close range
 * Underperforming IR missiles
-* Hard to reach high Gs at high speeds making it hard to dodge radar missiles
+* Radar mechanics may have larger margin of error against very long-range (greater than 30 km) and very low altitude planes, even if enemy are within radar missile's weapon envelope.
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

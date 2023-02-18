@@ -119,55 +119,7 @@ Waiting as a tier 4 modification is the DTC10-125 APFSDS round, a high mass and 
 
 DTB12-125 is also available as a tier 4 modification; this is one of the few HE-VT shells available for a top-tier MBT. This shell turns ZTZ99-II into a 125 mm anti-aircraft gun thanks to its generous explosive filler, any aircraft that are within its 7 m trigger radius will not have a good day. Although it has lesser explosive content, the VT fuse is not triggered by ground vehicles so it can serve as an alternative to the stock HE-FS as well.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| DTP-125 || HEATFS || 480 || 480 || 480 || 480 || 480 || 480
-|-
-| DTB-125 || HE || 45 || 45 || 45 || 45 || 45 || 45
-|-
-| 125-I || APFSDS || 466 || 464 || 458 || 450 || 442 || 434
-|-
-| DTC10-125 || APFSDS || 577 || 575 || 566 || 555 || 544 || 533
-|-
-| GP125 || ATGM (tandem) || 850 || 850 || 850 || 850 || 850 || 850
-|-
-| DTB12-125 || HE-VT* || 43 || 43 || 43 || 43 || 43 || 43
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| DTP-125 || HEATFS || 905 || 18 || 0.05 || 0.1 || 2,190 || 65° || 72° || 77°
-|-
-| DTB-125 || HE || 850 || 23 || 0 || 0.1 || 5,460 || 79° || 80° || 81°
-|-
-| 125-I || APFSDS || 1,730 || 4.02 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-| DTC10-125 || APFSDS || 1,770 || 4.85 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-| DTB12-125 || HE-VT* || 850 || 23.2 || 0 || 0.1 || 5,300 || 79° || 80° || 81°
-|-
-| GP125 || ATGM (tandem) || 400 || 17.2 || 0.4 || 0.01 || 4,720 || 80° || 82° || 90°
-|-
-|}
+{{:ZPT98 (125 mm)/Ammunition|DTP-125, DTB-125, 125-I, DTC10-125, GP125, DTB12-125}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->

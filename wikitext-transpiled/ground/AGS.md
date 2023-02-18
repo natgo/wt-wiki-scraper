@@ -163,6 +163,7 @@ Use the AGS's excellent mobility to get to key points or flank the enemy and try
 ;Other vehicles with unmanned turret
 
 * [[M1128]]
+* [[M1128 Wolfpack]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

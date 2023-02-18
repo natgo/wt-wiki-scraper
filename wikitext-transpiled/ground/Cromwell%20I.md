@@ -31,12 +31,13 @@ The Cromwell I is one of the fastest tanks in the game, due to its Meteor engine
 |-
 | Hull || 63.5 mm ''Front plate'' <br> 25.4 mm (74°) ''Front glacis'' <br> 57 mm (13°) ''Joint plate'' <br> 25.4 mm (68°) ''Lower glacis'' ||44 mm ''Top front'' <br> 32 + 14 mm ''Bottom front'' <br> 38 (0°) + 32 mm (34°) ''Top rear'' <br> 25.4 + 14 mm ''Bottom rear'' || 32 mm (0-7°) ''Top'' <br> 20 mm (47°) ''Bottom'' || 20 mm ''Compartment'' <br> 14 mm ''Engine''
 |-
-| Turret || 64 mm ''Turret front'' <br> 63.5 mm ''Gun mantlet'' || 51 mm || 44 mm || 20 mm
+| Turret || 64 mm + 12.7 mm ''Turret front'' <br> 63.5 mm ''Gun mantlet'' || 51 mm + 12.7 mm || 44 mm + 12.7 mm || 20 mm
 |-
 |}
 '''Notes:'''
 
 * Suspension wheels and tracks are 20 mm thick.
+* 12.7mm Armour basket behind Turret front, sides and rear.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}

@@ -93,7 +93,7 @@ Since it is a heavy four-engine maritime bomber, the Privateer's manoeuvrability
 
 === Modifications and economy ===
 {{Specs-Economy}}
-
+The first priority for the Privateer pilots is to unlock its best payload; the naval mines, which can be unlocked early on by researching "Mk 13 Mod 0" modification at rank II. After this, you can either choose between flight performance or survivability upgrade. The other payload options is less effective compared to the mines and can be left until spaded.
 == Armaments ==
 {{Specs-Avia-Armaments}}
 === Suspended armament ===
@@ -139,11 +139,11 @@ There are two ways to play the Privateer. One of them is as a conventional heavy
 
 The other approach is to fly at very low altitude. This has two advantages: it makes it extremely difficult for enemies to attack from below, and the engines are optimized for this altitude. It will also tempt enemy fighters to dive on an "easy" target, which will, in turn, make them easy targets for your own fighters. Unfortunately, flying at low altitude will make the aircraft very vulnerable to anti-aircraft guns.
 
-Shallow diving:
+;Shallow diving:
 
 Diving is probably the most risky way of trying to bomb but it is the quickest if you do it right. Start by spawning in then dive at about -10 degrees. This will make sure you will not overspeed before reaching the bombing point. However enemy interceptors with air spawn can potentially catch you in a head on, which is an extremely dangerous situation.
 
-Steep diving:
+;Steep diving:
 
 Upon spawning, dive at an angle of about -40 degrees. The PB4Y will gradually pick up speed to around 500 km/h. Once you reach 580 km/h, cut throttle to avoid over speeding. If you are close to the bomb base, turn into shallow diving or level out and prepare for the bombing. Once bombs are out, bank towards your airfield while keep diving, you should fly at no more than 100 m above the ground.
 
@@ -151,7 +151,7 @@ During an encounter with enemy aircraft, if you have time to adjust your positio
 
 In general, when engaged by fighters, one should attempt to force them to attack from oblique angles from above. This will allow the largest amount of machine guns to engage the attacker. Only the rear turret can engage aircraft directly behind the Privateer; thus, one should turn the Privateer or use the rudder to "wag the tail" which will allow other gunner positions to engage tail-chasing fighters. Under no circumstances should the belly be exposed to enemy fire; it usually becomes quickly fatal for the bomber.
 
-'''Enemies worth noting:'''
+;Enemies worth noting:
 
 * [[Do 335 (Family)|Do 335]]: this interceptor posts a huge threat to the PB4Y due to its destructive firepower. An experienced Do 335 player might open fire from a far distance of 2.5 km away, at this range its MK108/MK103 shells still have adequate accuracy and damage to cripple the PB4Y, while the PB4Y's Browning M2 can barely do any damage. The PB4Y's tail is also prone to being blown off by a few HE cannon shells.
 
@@ -177,25 +177,17 @@ In general, when engaged by fighters, one should attempt to force them to attack
 
 '''Pros:'''
 
-* Best payload of any American bomber before the B-29
-* Side turrets can fire down giving 360° coverage in all directions, meaning full coverage of the bomber, with no blindspots whatsoever
-* Waist turrets can swivel nearly 180° vertically and horizontally
-* Nose and tail turrets have excellent fields of fire
-* Large amount of .50 cal machine guns, the same as the B-29
-* No fuel tanks in the fuselage and fuel tanks are self-sealing
-* All payload options are internal, barely affecting performance
-* Has two pilots who are protected by multiple layers of armour behind, meaning it is hard to pilot snipe it from behind
-* Tricycle landing gear allows continuous braking until full stop, without having to worry about flipping over
-* Critical parts such as gunners/cooling systems are quite spread out, which helps to soak up damage
+* Large payload (8 x naval mines) allows the plane to be used for area denial in ground and naval battles
+* Great defensive coverage except from below
+* Highly survivable, with critical modules spread out to help absorb the damage
+* Tricycle landing gear helps the plane to land without the risk of nosing over
 
 '''Cons:'''
 
-* Extremely slow, even for a heavy bomber
-* Near-useless stock payload
-* No ventral turrets
-* Very poor climb rate
-* Easily damaged, a large vertical stabilizer which blocks (gunner dead zone) the dorsal turrets from firing directly to the rear
+* Mediocre stock payload
+* Extremely slow and sluggish, even for a heavy bomber
 * Poor engine performance at high altitude (optimized for low altitude)
+* Huge vertical stabiliser can be easily damaged
 * Gear retraction and lowering is rather slow
 
 == History ==

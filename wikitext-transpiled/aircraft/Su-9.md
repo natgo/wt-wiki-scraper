@@ -146,7 +146,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 '''Air RB'''
 
-This plane has great firepower but always watch the ammo count so you won't run out of bullets. The plane has 90 mm of bulletproof glass in front of the pilot, so your pilot has a high chance of survival in head-ons. Once the plane gets up to speed, it becomes a great bomber hunter. Keep in mind that this plane has a slow acceleration. Use HE belt or air targets belt as it will shred enemy aircraft in pieces with just a few well-aimed shots.
+This plane has great firepower but always watch the ammo count so you won't run out of bullets. The plane has 90 mm of bulletproof glass in front of the pilot, so your pilot has a high chance of survival in head-ons. Once the plane gets up to speed, it becomes a great bomber hunter. Keep in mind that this plane has a slow acceleration. Use HE belt or air targets belt as it will shred enemy aircraft in pieces with just a few well-aimed shots. [[Boom & Run]] tactics are recommended against fighters, but make sure you have some speed before attacking.  
 
 '''Ground RB'''
 

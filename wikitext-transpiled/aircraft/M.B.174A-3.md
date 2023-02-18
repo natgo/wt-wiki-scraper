@@ -7,12 +7,15 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} French bomber {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]].
 
-Though classified as a bomber, the M.B.174 can feel more like a twin-engine strike aircraft; in this role it is a decent choice, being able to drop forgiving bombs with high accuracy in a ground attack role and using its speed to get away from any return fire. It however lacks purpose in air battles, as its single bomb only allows it to bomb one ground target and any air target is more maneuvreable than the poorly armed M.B.174.
+The M.B.174 is a fast bomber made for ground attack. Like a twin-engine strike aircraft, it is able to drop bombs with high accuracy in a ground attack role and use its speed to get away from any return fire.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!--''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''-->
+The M.B.174A-3 is rather manoeuvrable flying in a straight line since the aircraft can roll pretty well and has acceptable elevator motion. When in a combat situation, this changes considerably as the plane is difficult to handle in dives and turns. Trying to approach a bombing target in a diving turn, the M.B.174 is very slow to turn around and the bow keeps pointing way off the line of flight. Even using full rudder control, the bow of the plane just does not follow the turn, making it likely that the bombs will miss their target. In addition, the M.B.174 does not conserve energy well and trying to climb will reduce speed to under 200 km/h, in which case the pilot can expect to be an easy score for any enemy.
+
+But like all aircraft at this BR, the best solution for air combat is not getting caught in the first place. The M.B.174 however can run away better than its peers because it is blazing fast; it easily outruns all but the fastest fighters and any strike aircraft trying to intercept you bites the dust in a chase. The speed is definitely something which the M.B.174 has over other single-engined strike aircraft, as it has two 1,073 HP engines which easily outpower anything at the BR it is in. 
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -76,6 +79,7 @@ Though classified as a bomber, the M.B.174 can feel more like a twin-engine stri
 
 === Modifications and economy ===
 {{Specs-Economy}}
+The stock configuration gives you largely ineffective 50 kg bombs, so researching the 500 kg bomb is imperative to the plane's success.
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
@@ -88,7 +92,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 * 2 x 7.5 mm MAC 1934 machine guns, wing-mounted (500 rpg = 1,000 total)
 
-The two machine guns are arranged with one mounted in each wing. Each is armed with the same amount of ammunition, which means that all guns will fire with each other until empty.
+The two machine guns are arranged with one mounted in each wing. Each is armed with the same amount of ammunition, which means that all guns will fire with each other until empty. The problem with using your frontal armament is that you will have a hard time lining up on your target considering the sluggish turn time and the rapid energy bleeding which comes with moving your plane in ways it was never designed for: hitting anything with your two rifle-calibre MGs is also hard because the guns are mounted on the wings, very far away from the centre of the aircraft, making gun convergence a huge factor in aiming.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -110,16 +114,16 @@ The '''''{{PAGENAME}}''''' is defended by:
 * 2 x 7.5 mm MAC 1934 machine guns, dorsal turret (400 rpg = 800 total)
 * 3 x 7.5 mm MAC 1934 machine guns, ventral turret (500 rpg = 1,500 total)
 
+The defensive armament of two MGs on the back of the cockpit do not amount to much, although if you can move your plane into directly lining up with the enemy on your six you can unleash the three bottom-mounted MGs too which might suffice in taking down the pursuer.
+
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-The M.B.174 feels more like a twin-engine strike aircraft than a real bomber; with its heaviest (and most effective) bombload being a 500kg bomb held by bomb-locks the maneuvreable plane can dive-bomb as effectively as any of its single-engine brethren. The recommended strategy is basically to play as you would play a [[Ju 87 B-2]] or a [[TBF-1C|TBF 1-C]], divebombing your targets to secure a kill with a low number of high-weight bombs. The only asterisk to this is that you cannot drop bombs while making a diving turn due to your twin-engine configuration. However, considering those engines provide you with a near-unmatched speed it is a worthwhile tradeoff. The stock configuration gives you largely ineffective 50kg bombs, so researching the 500 kg bomb is imperative to the plane's success.
+With its heaviest and most effective bombload being a single 500 kg bomb held by bomb locks, the M.B.174 can effectively dive bomb. The recommended strategy is basically to dive on targets to secure a kill with a low number of high-weight bombs play like a [[Ju 87 B-2]] or a [[TBF-1C]]. The only limitation to this is that you cannot drop bombs while making a diving turn due to your twin-engine configuration. However, considering those engines provide you with a near-unmatched speed it is a worthwhile tradeoff. 
 
-You are also given two frontal MAC 1934 7.5 mm machine guns, which can be devastating on soft targets (like open-topped vehicles) if you use the Tracer belt. The problem with using your frontal armament is that you will have a hard time lining up on your target considering the sluggish turn time and the rapid energy bleeding which comes with moving your plane in ways it was never designed for: hitting anything with your two rifle-calibre MG's is also hard because the guns are mounted on the wings, very far away from the centre of the aircraft, making gun convergence a huge factor in aiming.
+Tactics should be focused on bombing ground targets with a straight line approach and a clear exit away from the enemy. The 50 kg bombs are not effective against any ground target. In attack mode, the 7.5 mm MG don't make much of a dent on enemies, and since ammo runs out quickly, any attack must be carefully planned. Attacking bombers at higher altitude is not advisable. Fighters busy in turn fights can be attacked if you have an altitude advantage and a line of exit. After bombing the target, by turning away from the enemy and descending at the same time you will probably be able either to outrun or keep up with most of the enemy fighters at this BR.
 
-The defensive armament of two MG's on the back of the cockpit do not amount to much, although if you can move your plane into directly lining up with the enemy on your six you can unleash the three bottom-mounted MG's too which might suffice in taking down the pursuer. But like all strike aircraft at this BR, the best solution for air combat is not getting caught in the first place. The M.B.174 however can run away better than its peers because it is blazing fast; it easily outruns all but the fastest fighters and any strike aircraft trying to intercept you bites the dust in a chase. The speed is definitely something which the M.B.174 has over other single-engined strike aircraft, as it has two 1,073 HP engines which easily outpower anything at the BR it is in. 
-
-In conclusion; the M.B.174 is a twin-engine strike aircraft disguised as a bomber, with a superb speed and reasonable maneuvreability. It however lacks sufficient defensive armament (though nothing at this BR really has anything worthwhile) and the frontal armament is only effective against unaware open-topped vehicles. The bomb load is comparable to other strike aircraft of the BR, though the stock loadout is largely ineffective. All things considered it is definitely a good plane to have in your ground RB lineup, considering it can drop the forgiving 500 kg bomb pretty precisely and evade any AA or pursuers after securing a kill. In air battles the plane is largely overshadowed in the bomber role by the [[N.C.223.3]] and in the twin-engine strike role by the [[Potez 631]], so it is recommended to only unlock all modifications in this game mode.
+In conclusion; the M.B.174 is a twin-engine strike aircraft disguised as a bomber, with a superb speed and reasonable manoeuvrability. It however lacks sufficient defensive armament and the frontal armament is only effective against unaware open-topped vehicles. The bomb load is comparable to other strike aircraft of the BR, though the stock loadout is largely ineffective. All things considered it is definitely a good plane to have in your ground RB lineup, considering it can drop the 500 kg bomb pretty precisely and evade any AA or pursuers after securing a kill. In air battles, the plane is largely overshadowed in the bomber role by the [[N.C.223.3]] and in the twin-engine strike role by the [[Potez 631]].
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"

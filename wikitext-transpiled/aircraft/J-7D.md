@@ -32,10 +32,10 @@ Taking a look at J-7D, other than its default grey-tone camo and the PLAAF round
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
+| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | 750
 |-
 ! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+| 2,488 || 2,419 || 25.4 || 26.0 || 199.3 || 170.0
 |-
 |}
 
@@ -46,7 +46,7 @@ Taking a look at J-7D, other than its default grey-tone camo and the PLAAF round
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| _ || _ || _ || _ || _ || _     <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -84,7 +84,7 @@ Taking a look at J-7D, other than its default grey-tone camo and the PLAAF round
 ! colspan="2" | Engine name || Number
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
 |-
-| colspan="2" | _____ || _
+| colspan="2" |Shenyang Liming WP-13FI||1
 | colspan="2" | _,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
@@ -93,7 +93,7 @@ Taking a look at J-7D, other than its default grey-tone camo and the PLAAF round
 ! Weight (each) || colspan="2" | Type
 ! _m fuel || __m fuel || __m fuel
 |-
-| ___ kg || colspan="2" | ___
+| 1,200 kg || colspan="2" | Afterburning axial-flow turbojet
 | _,___ kg || _,___ kg || _,___ kg || _,___ kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
@@ -235,10 +235,13 @@ The new J-7III started its development in March 1979 by CAC and after 5 years of
 
 Due to changes in combat doctrine, introduction of more advanced Su-27SK Flanker-B and J-7E, as well as J-8II series becoming combat-capable in 1990s and the successful development of Project No. 10 (J-10), the J-7D was deemed unnecessary and only 39 of them were built by 1999 as the placeholder for new jets; these jets made it into their first and only appearance in the National Day Parade of 1999, alongside with Flankers and air-refuel-capable J-8D.
 
+The default livery of the J-7D represents No.21002 of the PLAAF, while the pre-order livery represents the test livery of the first J-7IIIA (J-7D) numbered 0151, now repainted into a blue-themed camouflaged and displayed in a square in Dazhou, Sichuan.
+
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=j_7d Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

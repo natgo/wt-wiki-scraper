@@ -36,6 +36,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French tank destroyer {{Battle
 |}
 
 '''Notes:'''
+
 * Tracks are 20 mm thick, bogies are 10 mm thick while the wheels are 20 mm thick.
 * Small slivers of 5 mm armour hang off the top side hull armour, giving minuscule protections at those areas.
 * Track blocks on the side hull armour allows an extra 20 mm of armour at their locations.
@@ -75,11 +76,19 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French tank destroyer {{Battle
 |}
 
 ==== Ammunition ====
+* '''T33''': APBC; a solid shot with an average penetration power and no explosive filler.
+* '''M71''': HE; useful for destroying open-topped and lightly-armoured vehicles.
+* '''M304''': APCR; a composite round with a very high penetration power but no explosive filler and will only penetrate flat vertical surfaces.
+* '''M82''': APCBC; a capped armour-piercing shell with a ballistic cap that has a better but still average penetration power and an explosive filler. It will destroy any armoured target it penetrates.
+* '''M348''': HEATFS; a HEAT round with very high penetration.
+* '''M313''': Smoke; useful to blind enemy vehicles that are too remote for you to disable so that you can progress towards objectives.
+
 {{:M3 (90 mm)/Ammunition|T33 shot, M71 shell, M313, M304 shot, M82 shot (M36B2), M348 shell}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
 <!-- '''Last updated:''' -->
+
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -129,14 +138,19 @@ In the hull, the radio operator gunner has the ability to use a M1919A4 light ma
 ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
 === Pros and cons ===
+	
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
-
 '''Pros:'''
-*
+
+* Powerful HEATFS shell
+* Fast turret traverse speed 
+* Two mounted top machine-guns prevent effective protection against enemy aircraft
 
 '''Cons:'''
-*
+
+* Thin armour
+* Vulnerable to overpressure (chemical shells, artillery, rockets)
+* Turret roof armour does not protect against strafing aircraft
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -146,6 +160,7 @@ In the hull, the radio operator gunner has the ability to use a M1919A4 light ma
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_m36b2_cefeo Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -154,6 +169,7 @@ In the hull, the radio operator gunner has the ability to use a M1919A4 light ma
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[M36 Jackson (Family)|Related development]]
+
 * [[M36B2]]
 * [[M36B2 (Japan)]]
 
@@ -162,6 +178,7 @@ In the hull, the radio operator gunner has the ability to use a M1919A4 light ma
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

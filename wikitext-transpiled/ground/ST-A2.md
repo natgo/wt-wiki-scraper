@@ -20,6 +20,7 @@ It is a sidegrade to [[ST-A1]], which takes sniping duty as its main work while 
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
+
 * Rolled homogeneous armour (hull, turret hatches)
 * Cast homogeneous armour (turret, cupola, front roof section)
 
@@ -36,6 +37,7 @@ It is a sidegrade to [[ST-A1]], which takes sniping duty as its main work while 
 |}
 
 '''Notes:'''
+
 * Suspension wheels and tracks are 20 mm thick.
 
 Armour on the {{PAGENAME}} is about the same as ST-A1, but there are some differences to its weaknesses.
@@ -54,7 +56,7 @@ Ammo rack in back of the turret is now facing turret and is much narrower a targ
 
 {{tankMobility|abMinHp=775|rbMinHp=442}}
 
-The mobility of the {{PAGENAME}} is the same as predecessor, as well as their effective off-road and top speed - about (AB/RB) 40/33 km/h forward and -18/-15 km/h backwards off-road, with top speed being 50/45 forward and -20/-17 backwards .
+The mobility of the {{PAGENAME}} is the same as predecessor, as well as their effective off-road and top speed - about (AB/RB) 40/33 km/h forward and -18/-15 km/h backwards off-road, with top speed being 50/45 forward and -20/-17 backwards.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -136,9 +138,9 @@ ST-A2 optics are identical to ST-A1. As usual, the user should exploit the super
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|M1919A4 (7.62 mm)}}
 
-The 12.7 mm M2HB machine gun was removed, so ST-A2 only has [[M1919A4 (7.62 mm)|7.62 mm M1919A4]] in its turret. It still can be used to damage open-top SPG, but fighting light tanks with it is not possible. Planes are also harder to engage with it.
+The 12.7 mm M2HB machine gun was removed, so ST-A2 only has a coaxial [[M1919A4 (7.62 mm)|7.62 mm M1919A4]] in its turret. It still can be used to damage open-top SPGs, but fighting light tanks with it is not possible. Planes are also harder to engage with it.
 
-On other hand, its trajectory is similar to APHE shell up to 760 m, so you can use it to check your aim in RB, if necessary, which further confirms sniper specialization of ST-A2.
+On other hand, its trajectory is similar to its APHE and HEAT-FS shells up to 760 m, so you can use it to check your aim in RB, if necessary.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -204,6 +206,7 @@ Only two experimental prototypes of the ST-A2 were built. They underwent testing
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_st_a2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -215,10 +218,12 @@ Only two experimental prototypes of the ST-A2 were built. They underwent testing
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[ST-A1]]
 * [[Type 61]]
 
 ;Other vehicles of similar configuration and role
+
 * [[Type 62]] / [[Type 62 (USSR)]]
 
 == External links ==

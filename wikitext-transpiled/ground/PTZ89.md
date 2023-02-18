@@ -77,39 +77,7 @@ The PTZ89 uses a domestic 120 mm smoothbore cannon. The turret is equipped with 
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| DYW1 || APFSDS || 443 || 442 || 436 || 429 || 422 || 416
-|-
-| DYS120 || HE || 30 || 30 || 30 || 30 || 30 || 30
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| DYW1 || APFSDS || 1,740 || 4.45 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-| DYS120 || HE || 900 || 19.5 || 0 || 0.1 || 2,490 || 79° || 80° || 81°
-|-
-|}
+{{:PTZ89 (120 mm)/Ammunition|DYW1, DYS120}}
 
 The PTZ89 has two choices of ammunition. The stock DYW1 APFSDS should definitely be the round of choice: it has outstanding muzzle velocity and penetration, knocking all contemporary APFSDS rounds out of the park. The flat penetration of up to 443 mm is enough to penetrate the turret of the [[M1 Abrams]] and the angled penetration of up to 256 mm at 60 degrees is better than the top 3BM42 "Mango" APFSDS used by most top-tier Soviet tanks. It also has a good weight and produces more spalling than typical 105 mm APFSDS rounds, so one-shot kills are quite common when shooting at the center mass of enemy tanks. The only Western tanks the PTZ89 can meet that have some resistance to DYW1 are the British [[Chieftain Mk 10]] and [[Challenger Mk.2]]/[[Challenger Mk.3|Mk.3]]. The Chieftain has a very well armoured left turret cheek (right side from an attacker's perspective). The upper portion of the Challengers' turret cheeks and the sections immediately to the left and right of their gun barrels are impenetrable. These trolly turrets are only a complication if they are entirely hull-down since DYW1 will slice through their hull armour with ease. The various T-64s and T-72s have tough turrets as well, but they are typically not encountered often and a successful hull penetration will usually destroy them in one hit.
 

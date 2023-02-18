@@ -101,43 +101,7 @@ The ZTZ96A (P) inherited the same 125 mm ZPT88C cannon from ZTZ96, which is one 
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| DTP-125 || HEATFS || 480 || 480 || 480 || 480 || 480 || 480
-|-
-| DTB-125 || HE || 45 || 45 || 45 || 45 || 45 || 45
-|-
-| 125-I || APFSDS || 466 || 464 || 458 || 450 || 442 || 434
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| DTP-125 || HEATFS || 905 || 18 || 0.05 || 0.1 || 2,190 || 65° || 72° || 77°
-|-
-| DTB-125 || HE || 850 || 23 || 0 || 0.1 || 5,460 || 79° || 80° || 81°
-|-
-| 125-I || APFSDS || 1,730 || 4.02 || N/A || N/A || N/A || 78° || 80° || 81°
-|-
-|}
+{{:Type 88C (125 mm)/Ammunition|DTP-125, DTB-125, 125-I}}
 
 All three ZTZ96s in-game share the same shells so players from the main tech tree ones will soon find themselves home; since this is a premium tank, all the ammunition comes unlocked with the tank.
 

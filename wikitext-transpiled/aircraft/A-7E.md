@@ -213,9 +213,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
+'''Ground RB''' 
+
 Ground RB is where the A-7E truly shines. Its poor flight performance and manoeuvrability is less of an issue due to a lessened fighter presence. In Ground RB, the A-7E's most potent weapon is the AGM-62A Walleye I ER guided bombs. These bombs are fire-and-forget and can still reliably hit a target point from more than five kilometers away. However, it has trouble tracking moving targets, so don’t expect to reliably hit moving targets. 
 
-Additionally, a FLIR pod can optionally be carried in place of one Walleye guided bomb. This pod grants night vision and thermal imaging capabilities, allowing for significantly easier location of enemy vehicles. It is highly recommended to sacrifice a Walleye for the FLIR pod, as the Walleye's targeting sight uses very dark colors which at long distances make enemy tanks hard to distinguish from other common objects such as rocks. Even so, when using the FLIR pod, it can be easy to mistake dead tanks for alive tanks as they both give off generally similar thermal images. The best way to recognize an alive tank is the lack of particle effect (dead tanks are burning). 
+Additionally, an AN/AAR-45 Lana FLIR pod can optionally be carried in place of one Walleye guided bomb. This pod grants night vision and thermal imaging capabilities, allowing for significantly easier location of enemy vehicles. It is highly recommended to sacrifice a Walleye for the FLIR pod, as the Walleye's targeting sight uses very dark colors which at long distances make enemy tanks hard to distinguish from other common objects such as rocks. Even so, when using the FLIR pod, it can be easy to mistake dead tanks for alive tanks as they both give off generally similar thermal images. The best way to recognize an alive tank is the lack of particle effect (dead tanks are burning). 
 
 When you first spawn in with the Walleyes, you must first gain some altitude. As the A-7E is very slow, it is essential that if you you enter directly above the battlefield, it is at higher altitudes (at the very, very least 5 kilometers) to ensure safety from enemy SAMs. Be sure to take note of who your opponent is; if you are facing China, their Tor-M1s have a long range, so to stay safe try to climb to at least 6.5 kilometers. 
 
@@ -223,7 +225,9 @@ Once you are at this altitude, enter a shallow dive to point your sights down an
 
 With many strike aircraft, this is where you would pitch back up and regain your lost altitude quickly to get out of SAMs range. However, the A-7E is slow and accelerates poorly, so doing this repeatedly will make you quickly lose altitude, putting you into SAM range. Therefore, a good way to use the Walleyes is to drop most or all of them in one run, exploiting it’s fire-and-forget capability. Once at high altitude, pitch down and deploy your airbrake to give you more dive time to search for targets. Use your FLIR pod to quickly locate an enemy, and when one is found, drop a Walleye on them, and quickly rinse and repeat five more times. Once your bombs are expended, continue the dive and level out at very low altitude to avoid any SAMs. After this, you can reclimb to drop any remaining bombs, use your gun and AIM-9s for air defense, or to go back to base and rearm. 
 
-In Air RB, the A-7E is unfortunately extremely outclassed. Its potent ground attack capabilities offer minimal advantages in Air RB, and you are left only with its poor flight performance and bad manoeuvrability. Your best bet will be to attack ground targets in Air RB using your cannon. Don't try bombing bases as you are simply too slow; either other planes will get to the bases first, or the enemy will get to you first.
+'''Air RB'''  
+
+In Air RB, the A-7E is unfortunately extremely outclassed. Its potent ground attack capabilities offer minimal advantages in Air RB, and you are left only with its poor flight performance and bad manoeuvrability. Your best bet will be to attack ground targets in Air RB using your cannon. Don't try bombing bases as you are simply too slow; either other planes will get to the bases first, or the enemy will get to you first. 
 
 Air Combat in the A-7E is hazard fraught. Against other planes at a comparable BR, your advantages are slim-to-none, and easy to counter if your opponent is aware of you and mindful. 
 
@@ -250,18 +254,18 @@ To summarize, if you must use the A-7E as a fighter, be sneaky with the missiles
 '''Pros:'''
 
 * Wide variety of powerful air-to-ground payloads, including up to six AGM-62 Walleye fire-and-forget TV guided bombs 
-* Has thermal sights in the form of an optional AN/AAR-45 FLIR pod which significantly helps in locating ground targets in mixed battles
+* Has thermal sights in the form of an optional FLIR pod which greatly helps in locating ground targets in mixed battles
 * Comes with an internal 20 mm M61A1 Vulcan cannon, with the option to add either more 20 mm M61A1 Vulcans or the devastating 30 mm GAU-13/A cannons as gunpods
 * Large amount of countermeasures
 * Cockpit has a heads-up display and tactical map, both of which are useful in simulator battles
 
 '''Cons:'''
 
-* Poor manoeuvrability and loses lots of speed in turns
+* Below average manoeuvrability and loses lots of speed in turns
 * Has poor top speed and acceleration for its BR, which makes it very difficult to bomb bases without being intercepted 
 * Equipping suspended ordnance further worsens its sluggish flight performance
 * When using the thermal sight, it may be hard to distinguish alive enemy tanks from destroyed tanks and fires
-* Walleye guided bombs generally have trouble locking on to moving targets
+* Walleye guided bombs generally have trouble locking on to moving targets, especially from medium to long ranges (>5 km)
 * Long landing distance (airbrake cannot be extended with landing gear out, and no drogue chute)
 
 == History ==

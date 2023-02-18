@@ -78,40 +78,7 @@ With its above average velocity and high rate of fire, these 4 cannons combined 
 * '''Type 87 HE:''' {{Annotation|FI-T*|Fragmentation incendiary tracer (self-destroying)}}
 * '''Type 87 AP:''' {{Annotation|AP-T|Armour-piercing tracer}}
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| Default || 63 || 60 || 47 || 35 || 26 || 19
-|-
-| Type 87 HE || 2 || 2 || 2 || 2 || 2 || 2
-|-
-| Type 87 AP || 63 || 60 || 47 || 35 || 26 || 19
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Belt details
-|-
-! rowspan="2" data-sort-type="text" | Belt
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| Type 87 HE || FI-T* || 1,050 || 0.25 || 0 || 0.1 || 19 || 47° || 56° || 65°
-|-
-| Type 87 AP || AP-T || 1,050 || 0.25 || N/A || N/A || N/A || 47° || 60° || 65°
-|-
-|}
+{{:PG87 (25 mm)/Ammunition|FI-T*, AP-T}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
@@ -145,24 +112,7 @@ The HN-6 is a MANPADS that comes with a 6 km all-aspect locking range, which wil
 |}
 
 ==== Ammunition ====
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="11" | Ammunition details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Range<br>(m)
-! rowspan="2" | Projectile<br>Mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive Mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| HN-6 || SAM || 600 || 7,000&nbsp;(rear&nbsp;aspect) <br> 4,500&nbsp;(all&nbsp;aspect) || 10.7 || 1 || 10 || 770 || 79° || 80° || 81°
-|-
-|}
+{{:HN-6/Ammunition|HN-6}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

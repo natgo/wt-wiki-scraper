@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=germ_leopard_2a4
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png|ArtImage2_{{PAGENAME}}.png}}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -31,6 +31,7 @@ Ammunition is stored in the primary ammunition storage in the rear of the turret
 The Leopard 2A4's protection proves acceptable for long-range combat, although it's ill-advised to remain in one location for any extended period of time to avoid opposing vehicles being able to hone their shots onto your weak spots. The 2A4's protection should not be relied upon in urban or other close-range environments.
 
 '''Armour type:'''
+
 * Rolled homogeneous armour (hull sides, rear, and roof, turret sides, rear, and roof)
 * High hardness rolled armour (hull front, turret front, gun mantlet)
 * Cast homogeneous armour (gun mantlet frame)
@@ -186,7 +187,7 @@ Based on the testing results gathered from the various different [[Leopard 2K]] 
 
 In 1976, the Leopard 2AV was sent overseas to the United States to be comparatively tested against the new American state-of-the-art [[XM-1 (Chrysler)|XM1 Abrams]]. During testing, the Leopard 2AV proved itself as a good counterpart to the Abrams, outperforming its competitor in terms of fire accuracy, whilst demonstrating somewhat inferior protection and gun handling. Upon arriving back to its homeland with positive testing results, the decision was made to begin mass production of the Leopard 2 in 1977.
 
-The production version Leopard 2, however, differed from the AV prototype in receiving an increased level of protection before mass production began. Mass production of the Leopard 2 started in 1979 with the Leopard 2A0 forming the first batch that would enter service with the German Bundeswehr in late 1980.
+The production version Leopard 2, however, differed from the AV prototype in receiving an increased level of protection before mass production began. Mass production of the Leopard 2 started in 1979 with the Leopard 2A0 forming the first batch that would enter service with the German Bundeswehr in late 1979.
 
 Throughout the production period of the early Leopard 2 versions, modernization and upgrades were being applied on the assembly line in order to keep the newest Leopards up to the latest standards. These modernization efforts mostly involved the upgrading of internal modules such as the aiming and communications systems. As a result of this, all early Leopard 2s (A0-A4) were visually neigh identical to each other. The Leopard 2A4 was the final early Leopard 2 variant before the more advanced and heavily upgraded subsequent Leopard 2 versions made their appearance as part of a new wave of modernization efforts.
 
@@ -198,6 +199,7 @@ A total of 695 Leopard 2A4s were built out of the total of 2.125 early Leopard 2
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_leopard_2a4 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Photos

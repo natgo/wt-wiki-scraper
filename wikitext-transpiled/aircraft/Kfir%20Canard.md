@@ -155,7 +155,7 @@ However, the Kfir Canard can also be used as a support fighter, engaging unsuspe
 
 '''Pros:'''
 
-* Fantastic acceleration and top straight-line speed
+* Fantastic acceleration and top straight-line speed, can outrun most aircraft at it's BR on the deck.
 * Ability to pull insanely high angle-of-attack manoeuvres for brief periods
 * Decent and reliable cannons with good ammo count and options
 * Good/great climb rate
@@ -183,6 +183,7 @@ The default delivery in-game represents the No. 703 of the 109th "Valley" Squadr
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=kfir_canard Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -191,6 +192,7 @@ The default delivery in-game represents the No. 703 of the 109th "Valley" Squadr
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Mirage 5 (Family)]]
 
 == External links ==
@@ -204,3 +206,4 @@ The default delivery in-game represents the No. 703 of the 109th "Valley" Squadr
 
 {{Israel jet aircraft}}
 {{Israel premium aircraft}}
+<references />

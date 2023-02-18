@@ -132,6 +132,8 @@ The Avenger lacks much significant offensive armament, but in a pinch it can ser
 
 Fly low and fast, head towards your target, drop your ordnance and bug out. However, if there are no hostile fighters in the area, you can destroy some enemy ground installations, e.g. AA, light vehicles, landing crafts and anti-tank positions after this.
 
+An interesting feature of the Avenger is that, despite being a light bomber/torpedo bomber, it comes with a bombsight, just like the old TBD Dauntless, albeit without the telescopic sight in the pilot's cockpit. This makes precision bombing in Realistic battles possible, as even novice pilots will be able to drop the 500kg bombs with excellent accuracy. Once you spot a target, fly out about 1.5km horizontally from the target (remember to keep focus on said target and its general location while being aware of any obstacles in your way), then begin to slowly fly over said target. Open the bomb bay and switch to the bombsight view, then drop your ordnance.
+
 '''Simulator mode'''
 
 Hands-off carrier take-off (Auto engine control): Start engine, flaps: raised, elevator trim: 0%, aileron trim: 0%, rudder trim: 14% right, WEP throttle, hands off controls until you lift off the carrier.
@@ -219,6 +221,7 @@ The TBF was widely used during World War II by not only U.S. forces but also tho
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=tbf-1c Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

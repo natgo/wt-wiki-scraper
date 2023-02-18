@@ -64,7 +64,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American strike a
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < 900~ || N/A
+| < ___ || < ___ || <900 || N/A
 |-
 |}
 

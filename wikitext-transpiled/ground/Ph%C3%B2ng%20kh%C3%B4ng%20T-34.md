@@ -45,7 +45,7 @@ In-game it's easily recognized because of the box-shaped and open turret on a T-
 * Suspension wheels are 20 mm thick
 * Tracks are 20 mm thick
 
-The armour of Phòng không T-34 turret is an easy target to penetrate with it consisting of only 15 mm all-around armour it makes it easy to disable with most type of shells that it might face and machine guns are a danger for it too with the 12.7 mm calibre able to penetrate that thin armour even smaller machine guns can disable the turret. Mainly because the front of the turret got gaps for the gunner and commander where the bullets can easily find its way in and damage the crew. With is being an open-top SPAA makes it as many other open SPAA making it a tasty snack for aircraft machineguns and cannons. One of the drawbacks with the Phòng không T-34 is that 80% of its crew sits in the turret, 2 of them looking up from the turret making them extremely vulnerable to machinegun fire.
+The armour of Phòng không T-34 turret is an easy target to penetrate with it consisting of only 15 mm all-around armour it makes it easy to disable with most type of shells that it might face and machine guns are a danger for it too with the 12.7 mm calibre able to penetrate that thin armour even smaller machine guns can disable the turret. Mainly because the front of the turret got gaps for the gunner and commander where the bullets can easily find its way in and damage the crew. With is being an open-top SPAA makes it as many other open SPAA making it a tasty snack for aircraft machine guns and cannons. One of the drawbacks with the Phòng không T-34 is that 80% of its crew sits in the turret, 2 of them looking up from the turret making them extremely vulnerable to machine gun fire.
 
 The hull is better armoured like a T-34-85 and its strongest armour is the front hull armour, It's missing the hull-mounted machine gun that there is on the T-34-85 making it have an exposed hole on the front left hull when facing it, it's a trap shot location so it would be best to try angle the tank to remove the open machine gun port for easy access for enemy Shells.
 
@@ -67,7 +67,7 @@ The mobility of the Phòng không T-34 is good at its battle rating, easy to man
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|Type 65 (37 mm)}}
 
-The {{PAGENAME}} has a pair of decent 37 mm autocannons. The full AP belt is great at both anti-tank and anti-air roles. For AT duty, it is capable of penetrating almost all light tanks and SPAAs frontally, such as the [[M24|M24 Chaffee]], [[M41A1]], etc, most medium tanks from the side like the [[M4A1]]/[[M4A2|2]], [[Panther A]]/[[Panther D|D]], [[Comet I]], and some TDs from the side like the [[Panzer IV/70(V)]]. Upon penetration, the shells create quite a bit of shrapnel which makes wiping out crew very easy. It also works great against planes, especially when shooting those attacking you from head-on. The AP shell can easily go through the engine or armour plates and knock out the pilot. One shell is also enough to instantly snap off the wing spar, destroying the plane. Of course, the full HE belt is recommended for dedicated AA duty. Its large calibre plus the 34 g TNT makes the {{PAGENAME}} a lethal threat to almost all planes. Even if the shell hits an unimportant part (eg. wingtip), it can still blow off parts of the plane while the AP will over-penetrate without doing much damage.
+The {{PAGENAME}} has a pair of decent 37 mm autocannons. The full AP belt is great at both anti-tank and anti-air roles. For AT duty, it is capable of penetrating almost all light tanks and SPAAs frontally, such as the [[M24|M24 Chaffee]], [[M41A1]], etc, most medium tanks from the side like the [[M4A1]]/[[M4A2|2]], [[Panther A]]/[[Panther D|D]], [[Comet I]], and some TDs from the side like the [[Panzer IV/70(V)]]. Upon penetration, the shells create quite a bit of shrapnel which makes wiping out crew very easy. It also works great against planes, especially when shooting those attacking you from head-on. The AP shell can easily go through the engine or armour plates and knock out the pilot. One shell is also enough to instantly snap off the wing spar, destroying the plane. Of course, the full HE belt is recommended for dedicated AA duty. Its large calibre plus the 34 g TNT makes the {{PAGENAME}} a lethal threat to almost all planes. Even if the shell hits an unimportant part (e.g. wingtip), it can still blow off parts of the plane while the AP will over-penetrate without doing much damage.
 
 The HVAP belt can become handy when you are facing targets whose armour thickness is right between 70-87 mm, for example the Comet's hull, and the sides of the [[Tiger H1]] and [[M4A3E2]]. However, there is only 1 HVAP in a 3-shell clip thus careful aiming must be applied.
 
@@ -151,15 +151,15 @@ Some players might find this tank hard to hit aerial targets, since the Phòng k
 * Powerful engine/weight ratio gives it good manoeuvrability
 * Has a crew of 6, can replace unconscious ones multiple times which increases survivability.
 * Good gun elevation of 85°, crucial for an SPAA
-* Multiple belt types allows flexible gameplay: full HE belt for anti-air. Full AP belt can penetrate common tanks' side, eg. [[M4]], [[Panther A]]/[[Panther D|D]], [[Chi-Ri II|Chi-Ri]]. HVAP belt (mixed with HE) for side of heavy targets up close, like [[Tiger H1]]/[[Tiger E|E]], [[Ho-Ri Production|Ho-Ri]], [[Ferdinand]].
+* Multiple belt types allows flexible gameplay: full HE belt for anti-air. Full AP belt can penetrate common tanks' side, e.g. [[M4]], [[Panther A]]/[[Panther D|D]], [[Chi-Ri II|Chi-Ri]]. HVAP belt (mixed with HE) for side of heavy targets up close, like [[Tiger H1]]/[[Tiger E|E]], [[Ho-Ri Production|Ho-Ri]], [[Ferdinand]].
 
 '''Cons:'''
 
 * Open turret exposes 4 crew directly to enemy fire. Very vulnerable to top attacks.
 * High profile makes it easier to be seen & hit
 * Below-average gun depression of -5° combined with the high mount makes it useless in hilly terrains
-* Guns are super unstable during continuous fire. Can only fire short bursts to maintain accuracy. The [[Wirbelwind]] and [[Ostwind II]] (also twin 37mm), in comparison, are way more stable.
-* Thin turret armour of 15mm is prone to be penetrated by heavy MG/shrapnel. SPAA like [[Wirbelwind]] and [[M16 MGMC|M16]] can easily disable all turret crew
+* Guns are super unstable during continuous fire. Can only fire short bursts to maintain accuracy. The [[Wirbelwind]] and [[Ostwind II]] (also twin 37 mm), in comparison, are way more stable.
+* Thin turret armour of 15 mm is prone to be penetrated by heavy MG/shrapnel. SPAA like [[Wirbelwind]] and [[M16 MGMC|M16]] can easily disable all turret crew
 * Awkward to place bushes on upper front hull due to the obstruction of MG port and driver's optics
 
 == History ==
