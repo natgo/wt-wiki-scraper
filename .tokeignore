@@ -5,7 +5,8 @@ out
 techtree
 wikitext
 wikitext-transpiled
-War-Thunder-Datamine
+datamine
+datamine-dev
 parsed
 
 package.json

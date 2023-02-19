@@ -28,7 +28,7 @@ export function weaponDisplayname(
 
     const weaponData: Container = JSON.parse(
       fs.readFileSync(
-        `./${dev ? "datamine-dev" : "War-Thunder-Datamine"}/aces.vromfs.bin_u/gamedata/weapons/${blk
+        `./${dev ? "datamine-dev" : "datamine"}/aces.vromfs.bin_u/gamedata/weapons/${blk
           .slice(2)
           .join("/")
           .split(".")[0]
@@ -51,9 +51,7 @@ export function weaponDisplayname(
 
       const containerData: Container = JSON.parse(
         fs.readFileSync(
-          `./${
-            dev ? "datamine-dev" : "War-Thunder-Datamine"
-          }/aces.vromfs.bin_u/gamedata/weapons/${containerblk
+          `./${dev ? "datamine-dev" : "datamine"}/aces.vromfs.bin_u/gamedata/weapons/${containerblk
             .slice(2)
             .join("/")
             .split(".")[0]

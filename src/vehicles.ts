@@ -73,7 +73,7 @@ function shopLoop(country: ShopRange, wiki: Wiki[]) {
 async function main(dev: boolean) {
   const shopData: Shop = JSON.parse(
     fs.readFileSync(
-      `./${dev ? "datamine-dev" : "War-Thunder-Datamine"}/char.vromfs.bin_u/config/shop.blkx`,
+      `./${dev ? "datamine-dev" : "datamine"}/char.vromfs.bin_u/config/shop.blkx`,
       "utf-8",
     ),
   );

@@ -21,7 +21,7 @@ export function machineGun(
     weapon_data = JSON.parse(
       fs.readFileSync(
         `./${
-          dev ? "datamine-dev" : "War-Thunder-Datamine"
+          dev ? "datamine-dev" : "datamine"
         }/aces.vromfs.bin_u/gamedata/weapons/groundmodels_weapons/${name.toLowerCase()}.blkx`,
         "utf-8",
       ),

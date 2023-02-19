@@ -1,5 +1,5 @@
-[submodule "War-Thunder-Datamine"]
-	path = War-Thunder-Datamine
+[submodule "datamine"]
+	path = datamine
 	url = https://github.com/natgo/War-Thunder-Datamine.git
 [submodule "datamine-dev"]
 	path = datamine-dev

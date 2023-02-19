@@ -101,9 +101,7 @@ function sensorFE(
 ): { maw: boolean; lws: boolean; rwr: boolean; ircm: boolean; hirss: boolean } {
   const blk: Sensor = JSON.parse(
     fs.readFileSync(
-      `./${
-        dev ? "datamine-dev" : "War-Thunder-Datamine"
-      }/aces.vromfs.bin_u/${sensor.blk.toLowerCase()}x`,
+      `./${dev ? "datamine-dev" : "datamine"}/aces.vromfs.bin_u/${sensor.blk.toLowerCase()}x`,
       "utf-8",
     ),
   );

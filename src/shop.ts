@@ -6,6 +6,8 @@ import { parseLang } from "./lang";
 import {
   CountryName,
   Final,
+  FinalFinalShopRange,
+  FinalRange,
   FinalShop,
   FinalShopGroup,
   FinalShopItem,
@@ -20,8 +22,6 @@ import {
   VehicleProps,
   country,
   finalShopSchema,
-  FinalFinalShopRange,
-  FinalRange,
 } from "./types";
 
 function shopRangeFE(
@@ -199,21 +199,21 @@ async function main(dev: boolean) {
 
   const shopData: Shop = JSON.parse(
     fs.readFileSync(
-      `./${dev ? "datamine-dev" : "War-Thunder-Datamine"}/char.vromfs.bin_u/config/shop.blkx`,
+      `./${dev ? "datamine-dev" : "datamine"}/char.vromfs.bin_u/config/shop.blkx`,
       "utf-8",
     ),
   );
 
   const units_lang = langcsvJSON(
     fs.readFileSync(
-      `./${dev ? "datamine-dev" : "War-Thunder-Datamine"}/lang.vromfs.bin_u/lang/units.csv`,
+      `./${dev ? "datamine-dev" : "datamine"}/lang.vromfs.bin_u/lang/units.csv`,
       "utf-8",
     ),
   );
 
   const rankData: Rank = JSON.parse(
     fs.readFileSync(
-      `./${dev ? "datamine-dev" : "War-Thunder-Datamine"}/char.vromfs.bin_u/config/rank.blkx`,
+      `./${dev ? "datamine-dev" : "datamine"}/char.vromfs.bin_u/config/rank.blkx`,
       "utf-8",
     ),
   );
