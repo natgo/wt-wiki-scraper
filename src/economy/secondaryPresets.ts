@@ -57,7 +57,7 @@ export function WeaponArray(element: Cannon[], weaponry_lang: LangData[]): Final
         weaponry_lang,
         `weapons/${blk[blk.length - 1].split(".")[0].toLowerCase()}/short`,
       )?.English,
-      bullets: element.bullets,
+      bullets: Array.isArray(element.bullets) ? element.bullets[0] : element.bullets,
     });
   });
   return weapons;

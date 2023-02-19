@@ -15,6 +15,7 @@ import {
   Sights,
   TankWeapons,
   UnitData,
+  helicopterOpticsSchema,
   namevehicles,
   opticIr,
 } from "../types";
@@ -379,7 +380,7 @@ async function main(dev: boolean) {
       ...commonVehicle(element, vehicleLang, vehicleEconomy, vehicleUnit, shopData, "helicopters"),
       type: "helicopter",
       ...sensors(vehicleData, dev),
-      optics: optics,
+      optics: helicopterOpticsSchema.parse(optics),
       ballistic_computer: vehicleBallistic(vehicleData),
       secondary_weapon_preset: vehiclePreset(vehicleData, weaponry_lang, dev),
     });

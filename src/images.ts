@@ -2,7 +2,7 @@ import axios, { AxiosResponse } from "axios";
 import fs from "fs";
 import https from "https";
 
-import { Final, FinalProps } from "./types";
+import { Final, VehicleProps } from "./types";
 
 interface pageimages extends AxiosResponse {
   data: {
@@ -48,7 +48,7 @@ interface imageinfo {
   descriptionshorturl: string;
 }
 
-function imageLoop(vehicles: FinalProps[]) {
+function imageLoop(vehicles: VehicleProps[]) {
   const imquery =
     "https://wiki.warthunder.com/api.php?action=query&format=json&prop=images&imlimit=max";
   const iiquery =

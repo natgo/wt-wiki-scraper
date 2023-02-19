@@ -1,4 +1,11 @@
-import { AirVehicle, FinalWeapon, FinalWeapons, LangData, SecondaryWeaponPreset } from "../types";
+import {
+  AirVehicle,
+  FinalWeapon,
+  FinalWeapons,
+  LangData,
+  SecondaryWeaponPreset,
+  secondaryWeaponPresetSchema,
+} from "../types";
 import { DeepShit, WeaponArray, typeSwitch } from "./secondaryPresets";
 import { weaponDisplayname } from "./weaponDisplayname";
 
@@ -64,5 +71,5 @@ export function vehiclePreset(
       weaponSlots: slots,
     };
   }
-  return weaponPreset ? weaponPreset : undefined;
+  return weaponPreset ? secondaryWeaponPresetSchema.parse(weaponPreset) : undefined;
 }

@@ -714,7 +714,7 @@ export interface AirMod extends GameBaseMod {
     nightVision?: {
       sightThermal?: {
         resolution: [1024, 768];
-        noiseFactor: 0.5;
+        noiseFactor: 0.5 | 0.05;
       };
       pilotIr?: {
         resolution: number[];
@@ -782,7 +782,7 @@ export interface WeaponPreset {
   name: string;
   iconType: string;
   showInWeaponMenu?: boolean;
-  reqModification?: string;
+  reqModification?: string | string[];
   hasTargetingPod?: boolean;
   ShowNodes: {
     node: string[] | string;
@@ -841,7 +841,7 @@ export interface Cannon {
   flash: string;
   dm: string;
   shell: string;
-  bullets: number;
+  bullets: number | number[];
   spread: number;
   traceOffset: number;
   counterIndex: number;
@@ -2459,7 +2459,7 @@ export const finalPropsSchema = z.object({
   rank: vehiclRankSchema,
   crew: z.number(),
   sl_price: z.number(),
-  reqRP: z.number(),
+  reqRP: z.number().optional(),
   br: z.array(z.string()).length(3),
   realbr: z.array(z.number()).length(3),
   base_repair: z.array(z.number()).length(3),
@@ -2505,7 +2505,7 @@ export const finalWeaponArraySchema = z.object({
 });
 export type FinalWeaponArray = z.infer<typeof finalWeaponArraySchema>;
 
-export const finalWeaponSchema = z.object({
+export const weaponSchema = z.object({
   type: z
     .union([
       z.literal("aam"),
@@ -2525,42 +2525,63 @@ export const finalWeaponSchema = z.object({
   bullets: z.number().optional(),
   intname: z.string(),
   displayname: z.string().optional(),
+  reqModification: z.union([z.string(), z.array(z.string())]).optional(),
+});
+
+export const finalWeaponSchema = weaponSchema.extend({
   iconType: z.string(),
-  reqModification: z.string().optional(),
 });
 export type FinalWeapon = z.infer<typeof finalWeaponSchema>;
 
-export const finalWeaponsSchema = z.object({
+export const weaponsSchema = z.object({
   intname: z.string(),
-  iconType: z.string(),
-  reqModification: z.string().optional(),
+  reqModification: z.union([z.string(), z.array(z.string())]).optional(),
   weapons: z.array(finalWeaponArraySchema),
 });
+
+export const finalWeaponsSchema = weaponsSchema.extend({
+  iconType: z.string(),
+});
 export type FinalWeapons = z.infer<typeof finalWeaponsSchema>;
+
+export const finalWeaponSlot = z.union([
+  z.object({
+    hidden: z.boolean(),
+    slot: z.array(
+      z.union([
+        weaponsSchema,
+        weaponSchema,
+        z.object({
+          name: z.string(),
+        }),
+      ]),
+    ),
+  }),
+  z.object({
+    slot: z.array(
+      z.union([
+        finalWeaponsSchema,
+        finalWeaponSchema,
+        z.object({
+          name: z.string(),
+        }),
+      ]),
+    ),
+  }),
+]);
+export type FinalWeaponSlot = z.infer<typeof finalWeaponSlot>;
 
 export const secondaryWeaponPresetSchema = z.object({
   maxload: z.number(),
   maxloadLeft: z.number(),
   maxloadRight: z.number(),
   maxDisbalance: z.number(),
-  weaponSlots: z.array(
-    z.object({
-      hidden: z.boolean().optional(),
-      slot: z.array(
-        z.union([
-          finalWeaponsSchema,
-          finalWeaponSchema,
-          z.object({
-            name: z.string(),
-          }),
-        ]),
-      ),
-    }),
-  ),
+  weaponSlots: z.array(finalWeaponSlot),
 });
 export type SecondaryWeaponPreset = z.infer<typeof secondaryWeaponPresetSchema>;
 
 export const aircraftPropsSchema = finalPropsSchema.extend({
+  crew: z.number().optional(),
   type: z.literal("aircraft"),
   ballistic_computer: ballisticComputerSchema.optional(),
   secondary_weapon_preset: secondaryWeaponPresetSchema.optional(),
@@ -2776,7 +2797,7 @@ export const heliGunnerSightSchema = heliSightSchema.extend({
   thermal: z
     .object({
       resolution: z.tuple([z.literal(1024), z.literal(768)]),
-      noiseFactor: z.literal(0.5),
+      noiseFactor: z.union([z.literal(0.5), z.literal(0.05)]),
     })
     .optional(),
 });
