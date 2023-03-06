@@ -12,7 +12,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet fighter {{Battle-rating
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-The aircraft has a lightweight body and a good engine making it very capable of dealing with any kind of enemy. It has decent manoeuvrability for its battle rating, although not as good as the other Yaks. It is most efficient up to 4,000 m (13,123 ft). It's not recommended to use in a turn fight, but if necessary extending the flaps helps a lot. It can climb well making flying away not so difficult. The Yak 7B can withstand from 10 G to -8 G.
+The aircraft has a lightweight body and a good engine making it very capable of dealing with any kind of enemy. It has decent manoeuvrability for its battle rating, although not as good as the other Yaks. It is most efficient up to 4,000 m (13,123 ft). It's not recommended to use in a turn fight, but if necessary extending the flaps helps a lot. It can climb well making flying away not so difficult. The Yak-7B can withstand from 10 G to -8 G.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -72,7 +72,7 @@ The aircraft has a lightweight body and a good engine making it very capable of 
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-The aircraft can take a few hits in the engine and in the hull. It's not fantastic, like the [[P-400]], but is OK. It has 8 mm (0.31 in) of steel on the seat. You can avoid most of the enemy aircraft but stalling this fighter is a death wish. Any [[Bf 110 (Family)|Bf-110]] or the other Boom & Zoom type aircraft will kill you. It's effective to gradually reduce your speed and make circles clockwise to make enemies overshoot.
+The aircraft can take a few hits in the engine and in the hull. It has 8 mm (0.31 in) of steel on the seat. You can avoid most of the enemy aircraft but stalling this fighter is a death wish. Any [[Bf 110 (Family)|Bf 110]] or the other Boom & Zoom type aircraft will knock your plane out. It's effective to gradually reduce your speed and make circles clockwise to make enemies overshoot.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -104,11 +104,17 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-The Yak-7B is a versatile aircraft that can destroy both ground or air targets.
+The Yak-7B is a versatile aircraft that can destroy both air or ground targets.
 
-It is easiest to destroy anti-aircraft artillery or lightly armoured vehicles with your [[ShVAK (20 mm)|cannon,]] [[Berezin UB (12.7 mm)|MG-s]] or suspended armaments. If you can aim your rockets good enough you can even destroy a tank. The easiest tactic for pounding ground targets is flying low and fast.
+The Yak-7B is not as manoeuvrable as its cousins in the tech tree but is decently competitive. Having a wingman with you can work wonders while flying the Yak-7B given both of you create opportunities for each other. The Yak-7B is not an aircraft that does good away from allies so it's essential that you remain in close proximity with other high-flying aircraft. If targeted actively and being chased, try dragging the enemy to the deck near allies.  
 
-For destroying air targets you can get rockets and go head-on with light aircraft like: [[I-16 (Family)|I-16]], Japanese [[A6M2 mod. 11|zero-s]] and biplanes. If encountering heavily armoured airplanes fire rockets from a safe distance and turn away. There are Boom & Zoom options for bombers and ground attack vehicles that come near the ground. Your most common targets should be: [[Beaufighter (Family)|Beaufighters]], [[IL-2 (Family)|IL-2 s]], [[F4U-1A (USMC)|F-4U-s]], [[Bf 109 (Family)|Bf 109-s]] and [[Hurricane (Family)|Hurricanes]]. To deal with less manoeuvrable aircraft,  force them into a turn and take your time. You have a very limited ammo storage and you should fire precisely.
+The 20 mm ShVAK cannon and 12.7 mm Berezin UB MG combination is decent and will take down any aircraft with precise bursts. Ammunition count is on the lower side so trigger discipline is necessary. It is best to get close and fire when the Enemy aircraft is in middle of a turn or attempting a zoom climb, Targeting the wings or the cockpit.
+
+The Yak-7B is a decent climber, even without the WEP being available, it can easily climb to ~4,000-4,500 m quickly on 100% engine power without issues. The engine temperature turns yellow rather quickly, but it stays there and does not get any higher. Maintaining altitude is recommended which allows you to dive away if things get difficult mid fight. The turn rate is on the higher side but careful manoeuvring can turn tables easily. 
+
+Steep dives are discouraged because the wings rip very quickly. It is best to either dive doing a shallow spiral or to do split-S if one wants to reduce altitude or lose an enemy. But, even if the wings tend to rip, the Yak is a fair BnZ aircraft and careful speed monitoring can get you kills while diving. The Yak-7B has good response to control inputs and does not feel sluggish.
+
+Ground pounding is possible but is not recommended. The Yak can carry 2 x FAB-50 bombs that can destroy ground targets and rockets.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -132,15 +138,16 @@ For destroying air targets you can get rockets and go head-on with light aircraf
 
 '''Pros:'''
 
-* Armament is a big step up from Yak-1: Nose-mounted 1 x 20 mm ShVAK & 2 x 12.7 mm UBS machine gun proves a very effective combination
+* Powerful engine, even without WEP can climb at decent rate
+* Nose-mounted 1 x 20 mm ShVAK & 2 x 12.7 mm UBS machine gun proves a very effective combination
 * Capable of using rockets for both air and ground targets
 
 '''Cons:'''
 
-* No WEP, prone to overheating in realistic and simulator battles
-* Engine underperforms above 4,000 m; incapable of intercepting high-altitude bombers
-* Worse manoeuvrability compared to all other Yakovlev fighter series
-* The wooden airframe can't sustain high compression during dive in high speed, resulting in wing rips above 500 km/h
+* No WEP, engine temperature readings turn yellow quickly
+* Engine underperforms above 4,000 m, making the Yak-7B incapable of intercepting high-altitude bombers
+* Worse manoeuvrability compared to all other low-tier Yakovlev fighters
+* The wooden airframe can't sustain high compression during dive in high speed, resulting in wing rips above 650 km/h
 * Any kind of fire will quickly spread across the plane
 
 == History ==

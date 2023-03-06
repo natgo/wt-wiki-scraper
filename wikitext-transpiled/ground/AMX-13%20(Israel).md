@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=il_amx_13_75
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.jpg}}
 }}
 
 == Description ==

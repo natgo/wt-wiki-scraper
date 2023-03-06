@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=il_m48a1_patton_III
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.jpg}}
 }}
 
 == Description ==

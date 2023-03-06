@@ -15,10 +15,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Batt
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-<!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
-
-{| class="wikitable" style="text-align:center" width="70%"
+<!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->{| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
 ! colspan="2" | Max speed<br>(km/h at 10,972 m)
 ! rowspan="2" | Max altitude<br>(metres)
@@ -113,7 +110,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Batt
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+The Tornado has no armour to speak of and is relatively large, making it an easy target for enemy guns. Almost any hit to the center part of the Tornado will leave its speed crippled, while any hit to the wings and tail will most likely cripple flight performance, if not disabling the aircraft outright. Although it could in theory make its way back to base even with only one engine, any enemy attention during this timespan will most likely get you sent back to the hangar. It also has 2 pilots, which means that you can continue flying in the unlikely case that only 1 pilot is knocked out.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -194,13 +191,19 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
-
 '''Pros:'''
 
-*
+* Variable sweep wing
+* Large payload
+* Advanced weapons
+* Supersonic
 
 '''Cons:'''
+
+* Can struggle in air-to-air combat
+* High fuel consumption
+* Bombs severely limit its maximum speed to about Mach 1.05
+* No search radar
 
 *
 

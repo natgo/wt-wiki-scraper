@@ -31,7 +31,7 @@ Its first combat missions were in the second Gulf War by the British, Italian an
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
+|1,991||1,991 || rowspan="2" | {{Specs|ceiling}} ||31.4||31.5||155.1||152.8 || rowspan="2" | 800
 |-
 ! Upgraded
 | ___ || ___ || __._ || __._ || __._ || __._
@@ -73,7 +73,7 @@ Its first combat missions were in the second Gulf War by the British, Italian an
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || N/A
+|< 670||< 650||< 700||N/A
 |-
 |}
 
@@ -236,6 +236,7 @@ In 1995, 339 Tornado fighter aircraft were in service with the Bundeswehr (Air F
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=tornado_ids_de_assta1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

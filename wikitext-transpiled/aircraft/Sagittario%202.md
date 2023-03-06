@@ -5,7 +5,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian jet fighter {{Battle-rating}}. It was introduced in [[Update "Red Skies"]].
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian jet fighter {{Battle-rating}}. It was introduced in [[Update "Red Skies"]]. The Aerfer Sagittario 2 is one of the more nimble and dog-fight friendly jets that Italy has access to inside its tech tree. It has great handling and 2 fast firing cannons which destroy pretty much any aircraft that is unlucky enough to get hit by it. Sadly it does not have a lot of fuel for it to be able to stay in the air for too long, so players may not want to over extend when playing the aircraft. Aerfer Sagittario 2 is a prototype aircraft which was competing with other NATO designed aircraft during the cold war, with its aim to become the next standard NATO jet. Although the Fiat G.91 was the winner, Aerfer would go unto develop the Aerfer Ariete, which was based on the Sagittario but with an extra engine.
 
 == General info ==
 === Flight performance ===
@@ -191,6 +191,7 @@ While not getting past prototype stage, the Sagittario 2 would serve as a basis 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sagittario_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

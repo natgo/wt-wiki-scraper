@@ -12,6 +12,8 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Italian jet fighter {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]].
 
+The Aerfer Ariete is a further development of the Aerfer Sagittario 2. The aircraft is one of the more nimble and dog-fight friendly jets that Italy has access to inside its tech tree. Similarly to the Sagittario 2, it has great handling and 2 fast firing cannons which destroy pretty much any aircraft that is unlucky enough to get hit by it. In game it is even better than the Sagittario due to it having access to another engine known as the Rolls-Royce RSr.2 Soar. Again similarly to the Sagittario it does not have a lot of fuel for it to be able to stay in the air for too long, so players may not want to over extend when playing the aircraft. The Aerfer Ariete is a prototype aircraft which was primarily made for export after the previous design known as the Aerfer Sagittario lost the NATO competition to the G.91. Aerfer would further improve the design by giving it a new engine which would make it one of the most maneuverable aircraft of the time. Sadly it also wasn't picked, the Aerfer Ariete would no longer be offered for export as the Aerfer company would begin to work on its next aircraft known as the Aerfer Leone.
+
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
@@ -175,6 +177,7 @@ The prototype would be built at the Aerfer plant in Pomigliano d'Arco, near Napl
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ariete Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

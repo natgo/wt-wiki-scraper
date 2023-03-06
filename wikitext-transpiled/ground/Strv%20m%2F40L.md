@@ -125,11 +125,11 @@ The tank is also armed with two 8 mm ksp m/39B machine guns mounted alongside th
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 The Strv m/40L is a light tank with a large bite for its small calibre. Being armed with a 37 mm Bofors gun doesn't seem like a huge threat to most tanks that it faces, as its contemporaries will often equip similar or larger calibres. However, unlike other nations' tanks, the Strv m/40L is able to research potent APDS rounds.
 
-The Strv m/40L excels in hull-down combat where it can exploit its outstanding gun depression and relatively good rounded turret armour. The powerful APDS round allows it to easily penetrate and disable even the heaviest of tanks it can normally encounter, such as the [[B1 bis]] and [[Valentine Mk I|Valentine]]. However, it has relatively weak post-penetration effects, and will often require multiple shots to destroy larger tanks due to the larger crew compartments. The tank's mobility is quite respectable and allows it to keep up with other medium tanks and making it able to move around the battlefield with ease, not only fighting from hull down positions but also bringing the fight to the enemy side. The frontal armour is quite good, but quite thin elsewhere making the tank vulnerable to side shots and rear shots so it is best to always point the frontal armour towards the enemy.
+The Strv m/40L excels in hull-down combat where it can exploit its outstanding gun depression and relatively good rounded turret armour. The powerful APDS round allows it to easily penetrate and disable even the heaviest of tanks it can normally encounter, such as the [[B1 bis]] and [[Valentine Mk I|Valentine]]. However, it has relatively weak post-penetration effects, and will often require multiple shots to destroy larger tanks due to the larger crew compartments. The tank's mobility is quite respectable and allows it to keep up with other medium tanks and making it able to move around the battlefield with ease, not only fighting from hull down positions but also bringing the fight to the enemy side. The frontal armour is quite good, but thin elsewhere making the tank vulnerable to side and rear shots so it is best to always point the frontal armour towards the enemy.
 
-Strv m/40L might have a lot of positives to it but there are also negative sides. Until the APDS round is researched, it has to deal with using the Slpprj m/38 and Slpgr m/39 APBC rounds which have 59/55 mm penetration at 10 m forcing it to fight up close and personal. The APDS also does not hit accurately at longer distances, making it mostly useful at medium range to close range to be a fully effective round. Though forward mobility is good, Strv m/40L lacks the means to reverse away out of danger, making it better for it to turn around fast and drive back into cover. Though doing that exposes the Strv m/40L's weak side armour and possibly the rear armour which will be a good chance for the enemy to knock it out with ease.
+Strv m/40L might have a lot of positives to it but there are also negative sides. Until the APDS round is researched, it has to deal with using the Slpprj m/38 and Slpgr m/39 APBC rounds which have 59/55 mm penetration at 10 m forcing it to fight up close and personal. The APDS also does not hit accurately at longer distances, making it mostly useful at medium to close range to be a fully effective round. Though forward mobility is good, Strv m/40L lacks the means to reverse away out of danger, making it better for it to turn around fast and drive back into cover. Doing that exposes the Strv m/40L's weak side armour and possibly the rear armour which will be a good chance for the enemy to knock it out with ease.
 
-Enemies to be aware of include tanks like [[M4A3 (105)]], [[Pz.IV E]] and [[StuG III A]], which have HEAT rounds that will easily knock out the Strv m/40L. With the crew compartment being so compact they can easily take out the 3 man crew with one shot making a lot of these targets a priority enemy for the Strv m/40L. Targets with large crew compartments and higher numbers of crew like [[B1 ter]], [[LVT (Family)|LVT]] and [[T-28E]] can also be a threat to the Strv m/40L as having a lot of crew can make it hard for the Strv m/40L to knock them out fast, which forces it to try to knock out the enemy tank's gun and work down its crew one by one if necessary. But taking too long will expose it to being surrounded or outflanked by nearby enemies that will come to assist the target in need.
+Enemies to be aware of include tanks like [[M4A3 (105)]], [[Pz.IV E]] and [[StuG III A]], which have HEAT rounds easily knocking out the Strv m/40L. With the crew compartment being so compact they can easily take out the 3 man crew with one shot making a lot of these targets a priority enemy for the Strv m/40L. Targets with large crew compartments and higher numbers of crew like [[B1 ter]], [[LVT (Family)|LVT]] and [[T-28E]] can also be a threat to the Strv m/40L as having a lot of crew can make it hard for the Strv m/40L to knock them out fast, which forces it to try to knock out the enemy tank's gun and work down its crew one by one. Taking too long here will expose it to being surrounded or outflanked by nearby enemies that will come to assist the target in need.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -163,6 +163,7 @@ We recently told you about the Swedish "reserve": the Strv m/31 light tank. Land
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sw_strv_m40l Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -181,10 +182,12 @@ File:Strv m 40l WTWallpaper 06.jpg|
 * ''links to approximate analogues of other nations and research trees.''-->
 
 ;Related Development:
+
 * [[Strv m/38]]
 * [[Strv m/39]]
 
 ;Similar Role:
+
 * [[Pz.38(t) F]]
 * [[Strv m/41 S-II]]
 * [[M3A1 Stuart]]
@@ -198,7 +201,9 @@ File:Strv m 40l WTWallpaper 06.jpg|
 * [[wt:en/news/6592-development-strv-m-40l-en|[Devblog] Strv m/40L]]
 
 === References ===
+
 ;Bibliography
+
 * David B. (2014, December 1). Stridsvagn m/38, m/39 & m/40 L-60. Tank Encyclopedia. https://tanks-encyclopedia.com/ww2/sweden/L60_stridsvagn_M38-39-40.php
 * ''Stridsvagn m/40''. (2019, February 1). Military Today. Retrieved May 24, 2020, from https://www.militaryfactory.com/armor/detail.asp?armor_id=549
 

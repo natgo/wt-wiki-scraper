@@ -125,7 +125,7 @@ In Ground Strike battles, La-9 pilots have two choices:<br />
 
 '''Domination mode''' is arguably the best mode for the La-9 because most enemies are flying below 4,000 m and are thus always allowing the fighter to perform at its best. The approach to Domination battles is always simple yet effective. With the plane above contested airspace at around 2,500 m altitude, one should dive down on an enemy, shoot and extend towards teammates. Once safe, it is time to regain altitude and repeat the process. The La-9 is also capable of quickly capturing airfields since its powerful 23 mm cannons can be fired to use the recoil as a quasi-airbrake.
 
-In the '''Realistic''' and '''Simulator''' modes the FM of the La-9 is no longer boosted in any way. However, the plane is still at its best below 4,000 m, as the WEP is unavailable above 4,000 m just as in the arcade mode. The speeds required to apply WEP at altitudes from 3000 m to 4000 m vary slightly from those in AB, but the main idea remains the same – high speed is required.
+In the Realistic and Simulator modes the FM of the La-9 is no longer boosted in any way. However, the plane is still at its best below 4,000 m, as the WEP is unavailable above 4,000 m just as in the arcade mode. The speeds required to apply WEP at altitudes from 3,000 m to 4,000 m vary slightly from those in AB, but the main idea remains the same – high speed is required.
 
 In realistic and simulator battles start by climbing to an altitude of 2,500 m (if cloudy) or 3,000 m (if the weather is clear). Climbing higher than that is only advised if not alone as the La-9 will be outperformed at high altitude by most enemies. The key to success in the La-9 is teamwork, so consider squading up with a friend. Since it is a bad idea to dogfight, try to get an enemies attention by acting as bait and lure him down to sea level instead. Once the enemy loses his altitude advantage, it is time for the squadmate to attack. Once low, the pursuer won't be able to either catch the bait nor escape your ally – presenting themselves as an easy target. Be also sure to target any enemies that are flying low, if the La-9 has an altitude advantage use Boom & Zoom tactics, if the plane is on the same low altitude as the enemy, perform high-speed fly-bys.
 
@@ -142,9 +142,9 @@ This last feature is currently only really useful for SB players. The La-9 is cu
 
 ====Specific enemies worth noting====
 <!--Some concerning vehicles to worry about if playing this plane. (i.e. Japanese fighters will out turn you)-->
-When fighting [[:Category:Germany aircraft|German aircraft]], the toughest opposition will be late [[Bf 109 K-4|Bf 109's]] and aircraft of the [[Fw 190 D-12|Fw 190 D series]] (together with their cousin, the [[Ta 152 H-1]]).
+When fighting [[:Category:Germany aircraft|German aircraft]], the toughest opposition will be late [[Bf 109 K-4|Bf 109s]] and aircraft of the [[Fw 190 D-12|Fw 190 D series]] (together with their cousin, the [[Ta 152 H-1]]).
 
-The former are deadly opponents above 4,000 m that are well capable of outmanoeuvring the La-9 due to the Soviet fighter's absence of WEP at high altitudes, having also an advantage in regards to climb rate. This leaves the La-9 pilot with two options, either acting as bait - making the Bf 109 loose energy and become vulnerable - or diving down. At lower altitudes, the La-9 regains a fighting chance, but it is usually a tense battle where the deciding factor will be the pilot's individual skill. Don't forget to use combat flaps.
+The former are deadly opponents above 4,000 m that are well capable of outmanoeuvring the La-9 due to the Soviet fighter's absence of WEP at high altitudes, having also an advantage in regards to climb rate. This leaves the La-9 pilot with two options, either acting as bait - making the Bf 109 lose energy and become vulnerable - or diving down. At lower altitudes, the La-9 regains a fighting chance, but it is usually a tense battle where the deciding factor will be the pilot's individual skill. Don't forget to use combat flaps.
 
 Fw 190 D series/Ta-152 – similar to the Bf 109, these German aircraft possess a climb and also a speed advantage above 4,000 m. However, they will be out-turned by the La-9 in the horizontal, though it may take a while. At lower altitudes, these planes are easy targets as they hold no significant advantages, except for roll rate and considerable firepower. It is unwise to perform head-on attacks against them.
 
@@ -176,6 +176,7 @@ A less nimble plane (Fw 190, Bf 109 K, F7F, etc.) should, once above 4,000 m hol
 | Not controllable || Controllable<br>Not auto controlled || Controllable<br>Not auto controlled || Controllable<br>Not auto controlled || Separate || Controllable<br>2 gears || Not controllable
 |-
 |}
+When using MEC, switching to the 2nd Supercharger gear at around 3,000 m altitude is recommended. WEP does not work when in this gear above 3 km, it is simply the greyed out WEP. 
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -217,6 +218,7 @@ A total of 129 La-9s were delivered to the PLAAF, and they were soon replaced by
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=la-9_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

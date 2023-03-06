@@ -155,7 +155,7 @@ However, the Kfir Canard can also be used as a support fighter, engaging unsuspe
 
 '''Pros:'''
 
-* Fantastic acceleration and top straight-line speed, can outrun most aircraft at it's BR on the deck.
+* Fantastic acceleration and top straight-line speed, can outrun most aircraft at its BR on the deck
 * Ability to pull insanely high angle-of-attack manoeuvres for brief periods
 * Decent and reliable cannons with good ammo count and options
 * Good/great climb rate
@@ -199,11 +199,9 @@ The default delivery in-game represents the No. 703 of the 109th "Valley" Squadr
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+=== References ===
+<references />
 
 {{Israel jet aircraft}}
 {{Israel premium aircraft}}
-<references />

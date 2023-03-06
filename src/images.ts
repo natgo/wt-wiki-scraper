@@ -65,7 +65,9 @@ function imageLoop(vehicles: VehicleProps[]) {
     Object.entries(response.data.query.pages).forEach(async (element) => {
       const images: { ns: number; title: string }[] = element[1].images;
       const match = images.find((value) => {
-        return value.title.match(new RegExp("File:GarageImage.*.jpg|File:GarageImage.*.png", "gi"));
+        return value.title.match(
+          new RegExp("File:GarageImage.*(?<!Blazer).jpg|File:GarageImage.*.png", "gi"),
+        );
       });
       if (!match) {
         console.log(`no match for ${element[1].title}`);
