@@ -217,11 +217,10 @@ Combining its ability to pull high angle-of-attack on demand, excellent accelera
 
 '''Enemies worth noting'''
 
-* [[F-4E]]/[[F-4EJ|EJ]] - Most common enemy, their potent missile armament is something to be feared but the SMT will beat it in a dogfight. [[F-4C]]s, [[Phantom FGR.2|FGR.2s]], and [[Phantom FG.1|FG.1s]] are effectively the same plane with different missiles.
-
-* [[Mirage IIIC]] - High priority targets, their missiles are nearly undodgeable. The SMT can win a dogfight, but it is a 50/50 chance and depends on pilot skill and crew.
-
-* [[J35D]] - Effectively the only plane that can outmanoeuvre an SMT, it is best to target them when they are distracted.
+* [[F-8E]] - A common enemy, while it turns worse, it retains energy significantly better. It is capable of carrying AIM-9C SARH guided AAMs, which can be very dangerous at higher altitude if chaff is not carried. 
+* [[F-5C]] - One of if not your most common enemy. it retains energy better but struggles regaining speed when at low speed due to poor engine power. 
+* [[MiG-21MF (Germany)|MiG-21MF]] - The MiG-21MF is very similar to the MiG-21SMT, it carries R-60 missiles which are very hard to evade by manoeuvring alone, however it can be fooled by flares very easily.
+* [[Mirage IIIE]] - Carries the Matra Magic I AAM that are nearly impossible to dodge without flares. However, when in a dogfight, the Mirage IIIE is inferior in almost every aspect.
 
 === Radars ===
 <!--{{main|Sapphire-21}}-->
@@ -257,7 +256,6 @@ The MiG-21SMT is equipped with a Sapphire-21 search and tracking radar. The rada
 * High top speed
 * Excellent acceleration from 1,000 - 1,200 km/h
 * Excellent rate of climb, can maintain mach 1+ at 30 degrees
-* R-60 missile is tied as the highest G loading missile in-game (can lock on in most side aspect scenarios)
 * One of the many MiG-21 variants capable of using a radar missile, being the [[R-3R]]
 * Maintains speed and energy in turns better than the [[MiG-21 F-13|MiG-21F-13]]
 * Its RP-22SM radar has high tracking range
@@ -281,6 +279,7 @@ The MiG-21 was a supersonic interceptor aircraft designed by the Mikoyan-Gurevic
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mig-21_smt Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -292,6 +291,7 @@ The MiG-21 was a supersonic interceptor aircraft designed by the Mikoyan-Gurevic
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[MiG-21 (Family)|Related development]]
+
 * {{Specs-Link|mig-21_mf}}
 * {{Specs-Link|mig-21_f13}}
 * [[MiG-21bis]]

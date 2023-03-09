@@ -164,19 +164,45 @@ For the F-84G, four of the 12.7 mm M3 Browning machine guns were mounted in the 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * Without load
+* 12 x HVAR rockets
+* 32 x HVAR rockets
+* 2 x Tiny Tim rockets
 * 2 x 100 lb AN-M30A1 bombs (200 lb total)
 * 2 x 250 lb AN-M57 bombs (500 lb total)
 * 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
+* 2 x 500 lb AN-M64A1 bombs + 24 x HVAR rockets (1,000 lb total)
 * 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
-* 24 x HVAR rockets
-* 32 x HVAR rockets
-* 24 x HVAR rockets + 2 x 100 lb AN-M30A1 bombs (200 lb total)
-* 24 x HVAR rockets + 2 x 250 lb AN-M57 bombs (500 lb total)
-* 24 x HVAR rockets + 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
-* 24 x HVAR rockets + 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
-* 24 x HVAR rockets + 2 x Tiny Tim rockets
 
-The F-84G is one of a small handful of aircraft in War Thunder which offers many different suspended armament options ranging from bombs and rockets depending on the target needing to be destroyed. Due to the more effective engine utilised in the F-84G, it could sport a larger number of suspended armaments compared to its older brother the [[F-84B-26|F-84B]], turning into a truly ground attack workhorse. In comparison, a fully-loaded single-seat {{PAGENAME}} had approximately the same loadout capability as an early 7 crew [[B-25J-1|B-25J]] bomber. The smaller bombs such as the AN-M30A1 and AN-M57 and HVAR rockets are useful against soft targets like anti-aircraft batteries, unarmoured vehicles, ships and some light tanks. The heavier hitters like the AN-M61A1, AN-M65A1 and Tiny Tim rockets are effective (more like overkill) for the softer targets, but also work well with bunkers, heavier armoured tanks, larger ships and can also be utilised against bases.
+==== Custom loadout options ====
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8
+| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-84G-21-RE (Italy).png]]</div>
+|-
+! 100 lb AN-M30A1 bombs
+| || || || 1 || 1 || || ||
+|-
+! 250 lb AN-M57 bombs
+| || || || 1 || 1 || || ||
+|-
+! 500 lb AN-M64A1 bombs
+| || || || 1 || 1 || || ||
+|-
+! 1,000 lb AN-M65A1 bombs
+| || || || 1 || 1 || || ||
+|-
+! HVAR rockets
+| 6* || 3 || 3 || 4 || 4 || 3 || 3 || 6*
+|-
+! Tiny Tim rockets
+| || || || 1 || 1 || || ||
+|-
+| colspan="9" | Maximum permissible weight imbalance: 900 kg
+|-
+| colspan="10" | * HVAR rockets on hardpoints 1/8 may only be equipped simultaneously
+|}
+
+The F-84G offers a range of bombs and rockets for destroying surface targets. Due to the more effective engine utilised in the F-84G, it could sport a larger number of suspended armaments compared to its older brother the [[F-84B-26|F-84B]], turning into a truly ground attack workhorse. In comparison, a fully-loaded single-seat {{PAGENAME}} had approximately the same loadout capability as an early 7 crew [[B-25J-1|B-25J]] bomber. The smaller bombs such as the AN-M30A1 and AN-M57 and HVAR rockets are useful against soft targets like anti-aircraft batteries, unarmoured vehicles, ships and some light tanks. The heavier hitters like the AN-M61A1, AN-M65A1 and Tiny Tim rockets are effective (more like overkill) for the softer targets, but also work well with bunkers, heavier armoured tanks, larger ships and can also be utilised against bases.
 
 Sometimes the suspended weapons you start out with doesn't work well later on in the match, therefore you can return to your base and exit the aircraft (default key = 'j') and select a different load-out unless you would like to fly strictly as a fighter where you can select "without load" and rely just on the six Browning M3 machine guns. The wide variety of ordnance options available for this aircraft make it an excellent clean-up ground attacker which can attack just about anything on the map with the right setup.
 

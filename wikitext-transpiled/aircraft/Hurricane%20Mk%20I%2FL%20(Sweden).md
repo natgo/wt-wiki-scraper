@@ -12,6 +12,8 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish fighter {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]].
 
+It is an imported version of the British [[Hurricane Mk I/L]] flown by the Finnish Air Force.
+
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
@@ -57,7 +59,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish fighter {{Battle-ratin
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || ___ || ___ || ___ || ~__ || ~__
+| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 268 || 246 || 202 || ~12 || ~6
 |-
 |}
 
@@ -67,7 +69,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish fighter {{Battle-ratin
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || > ___
+| < 370 || < 250 || < 380 || > 410
 |-
 |}
 
@@ -119,6 +121,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=hurricane_mk1_late_finland Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -127,6 +130,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Hurricane (Family)]]
 
 == External links ==

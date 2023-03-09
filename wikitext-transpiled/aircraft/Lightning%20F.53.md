@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British jet fighter {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]].
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British jet fighter {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]] as a [[wt:en/news/7741-development-new-premium-jets-lightning-f-53-and-ariete-en|premium pack]] but was removed from the Gaijin store after the [[wt:en/news/8046-shop-war-thunder-winter-sale-en|2022 "Winter sale"]].
 
 The Lightning F.53 is an export variant of the [[Lightning F.6]] which was used by the Royal Saudi Air Force (RSAF) and the Kuwait Air Force (with the in-game vehicle representing a RSAF Lightning). The main difference between the Lightning F.53 and the standard F.6 version is that the F.53 can carry a selection of ground attack ordnance (bombs and rockets). The Lightning F.53 retains the stacked engines and side-mounted missiles, while adding to the list of unusual design choices with the unique ability to carry ordnance on top of the wings; something very few other aircraft were designed to do (the [[Jaguar GR.1A]] being a notable one).
 
@@ -207,6 +207,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=lightning_f53 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

@@ -219,3 +219,4 @@ Due to unknown reasons, this design failed the bid for PLAGF and the later ZTZ96
 {{TankManufacturer Norinco}}
 {{China medium tanks}}
 {{China premium ground vehicles}}
+[[Category:Ground vehicles with active protection system]]

@@ -142,7 +142,9 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|BLU-1 incendiary|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)|AIM-7E Sparrow|AIM-9B Sidewinder|AIM-9P Sidewinder|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|M61A1 (20 mm)}}
+{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
+{{main|BLU-1 incendiary|M117 cone 45 (750 lb)|M61A1 (20 mm)}}
+{{main|AIM-7E Sparrow|AIM-9B Sidewinder|AIM-9P Sidewinder|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
@@ -268,5 +270,6 @@ This jet, numbered '''MM6900/75-6900''' of the Project Bora-II delivery was then
 === References ===
 <references />
 
+{{AirManufacturer Fiat}}
 {{Italy jet aircraft}}
 {{Italy premium aircraft}}

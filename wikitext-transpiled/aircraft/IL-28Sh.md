@@ -60,7 +60,7 @@ The 'Beagle' has relatively mediocre flight characteristics given its size and w
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 577 || 548 || 400 || ~7 || ~4
+| 810 <!--{{Specs|destruction|body}}--> || {{Specs|destruction|gear}} || 577 || 548 || 400 || ~7 || ~4
 |-
 |}
 
@@ -180,7 +180,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 {{main|FAB-100M-43 (100 kg)|FAB-250M-46 (250 kg)|FAB-500M-46 (500 kg)|FAB-1500M-46 (1,500 kg)|FAB-3000M-46 (3,000 kg)}}
 {{main|ZB-500 incendiary|S-5K|S-24|GSh-23L (23 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 * 12 x 100 kg FAB-100M-43 bombs (1,200 kg total)
 * 8 x 250 kg FAB-250M-46 bombs (2,000 kg total)
@@ -192,6 +192,43 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 6 x S-24 rockets
 * 192 x S-5K rockets
 * 4 x ZB-500 incendiary bombs
+
+==== Custom loadout options ====
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="3.5%" | 1 !! width="3.5%" | 2 !! width="3.5%" | 3 !! width="3.5%" | 4 !! width="3.5%" | 5 !! width="3.5%" | 6 !! width="3.5%" | 7 !! width="3.5%" | 8 !! width="3.5%" | 9 !! width="3.5%" | 10 !! width="3.5%" | 11 !! width="3.5%" | 12 !! width="3.5%" | 13
+| rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! 23 mm GSh-23L cannons (250 rpg)
+| || || || || || 1 || || 1 || || || || ||
+|-
+! 100 kg FAB-100M-43 bombs
+| || || || || || || 12 || || || || || ||
+|-
+! 250 kg FAB-250M-46 bombs
+| || 1 || 1 || 1 || 1 || 1 || 8 || 1 || 1 || 1 || 1 || 1 ||
+|-
+! 500 kg FAB-500M-46 bombs
+| || || || || || || 4 || || || || || ||
+|-
+! 1,500 kg FAB-1500M-46 bombs
+| || || || || || || 1 || || || || || ||
+|-
+! 3,000 kg FAB-3000M-46 bombs
+| || || || || || || 1 || || || || || ||
+|-
+! ZB-500 incendiary bombs
+| || || || || 1 || 1 || || 1 || 1 || || || ||
+|-
+! S-5K rockets
+| 16 || 16 || 16 || 16 || 16 || 16 || || 16 || 16 || 16 || 16 || 16 || 16
+|-
+! S-24 rockets
+| || || || 1 || 1 || 1 || || 1 || 1 || 1 || || ||
+|-
+| colspan="14" | Maximum permissible loadout weight: 3,010 kg<br>Maximum permissible weight imbalance: 1,250 kg
+|-
+|}
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
@@ -242,6 +279,7 @@ Testing of the modified machine began in autumn 1967, showing positive results. 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_28sh Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -253,6 +291,7 @@ Testing of the modified machine began in autumn 1967, showing positive results. 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Aircraft of a similar role, configuration or era
+
 * [[Canberra (Family)]]
 * [[Tu-14T]]
 

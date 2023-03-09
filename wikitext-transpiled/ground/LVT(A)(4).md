@@ -171,10 +171,11 @@ After World War II, the LVTs continued to see action in the multiple conflicts i
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_lvt_a_4 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-<gallery mode="packed-hover"  heights="200">
+<gallery mode="packed-hover" heights="200">
 Image:LVT(A)(4) crossing tropical river.jpg
 </gallery>
 
@@ -183,6 +184,7 @@ Image:LVT(A)(4) crossing tropical river.jpg
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

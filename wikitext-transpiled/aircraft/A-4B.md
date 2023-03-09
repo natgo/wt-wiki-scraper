@@ -157,7 +157,8 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)|MK 77 mod 4 incendiary}}
+{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
+{{main|Mk 77 mod 4 incendiary|Mk 79 Mod 1 incendiary}}
 {{main|AGM-12B Bullpup|AIM-9B Sidewinder|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|Mk 11 mod 5 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
@@ -171,7 +172,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 9 x 500 lb LDGP Mk 82 bombs (4,500 lb total)
 * 5 x 1,000 lb LDGP Mk 83 bombs (5,000 lb total)
 * 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
-* 7 x MK 77 mod 4 incendiary bombs
+* 7 x Mk 77 mod 4 incendiary bombs
+* 3 x Mk 79 Mod 1 incendiary bombs
 * 3 x 20 mm Mk 11 mod 5 cannons (750 rpg = 2,250 total)
 
 ==== Custom loadout options ====
@@ -195,8 +197,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 ! 2,000 lb LDGP Mk 84 bombs
 | || 1 ||
 |-
-! MK 77 mod 4 incendiary bombs
+! Mk 77 mod 4 incendiary bombs
 | 2 || 3 || 2
+|-
+! Mk 79 Mod 1 incendiary bombs
+| 1 || 1 || 1
 |-
 ! FFAR Mighty Mouse rockets
 | 38 || 57 || 38

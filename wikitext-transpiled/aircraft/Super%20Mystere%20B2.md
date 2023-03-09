@@ -157,7 +157,7 @@ The {{PAGENAME}} like many of the fighters of the time got away from machine gun
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M64A1 (500 lb)|AN-M65A1 Fin M129 (1,000 lb)}}
+{{main|AN-M64A1 (500 lb)|AN-M65A1 Fin M129 (1,000 lb)|SECAN 63 incendiary}}
 {{main|T10 151|SNEB type 23|AA-20 Nord|AIM-9B Sidewinder}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
@@ -165,14 +165,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * Without load
 * 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
 * 2 x 1,000 lb AN-M65A1 Fin M129 bombs (2,000 lb total)
+* 2 x SECAN 63 incendiary bombs
 * 12 x T10 151 rockets
 * 38 x SNEB type 23 rockets
 * 35 x SNEB type 23 rockets
 * 2 x AA-20 Nord missiles
-* 2 x AA-20 Nord missiles
+* 2 x AS-20 Nord missiles
 * 2 x AIM-9B Sidewinder missiles
 * 35 x SNEB type 23 rockets + 2 x AA-20 Nord missiles
-* 35 x SNEB type 23 rockets + 2 x AA-20 Nord missiles
+* 35 x SNEB type 23 rockets + 2 x AS-20 Nord missiles
 * 35 x SNEB type 23 rockets + 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
 * 35 x SNEB type 23 rockets + 2 x 1,000 lb AN-M65A1 Fin M129 bombs (2,000 lb total)
 * 35 x SNEB type 23 rockets + 12 x T10 151 rockets

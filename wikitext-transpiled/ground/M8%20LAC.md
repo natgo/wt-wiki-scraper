@@ -102,6 +102,7 @@ The {{PAGENAME}} is armed with an 37 mm M6 cannon as its main armament. This is 
 
 * As they are modeled by rows of 4, shells disappear from the rack only after you've fired all shells in the row.
 * Turret empty of shells (racks 1 & 2 emptied): 65&nbsp;''(+15)'' shells.
+* Right side empty: 33&nbsp;''(+47)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
@@ -174,6 +175,7 @@ The M8 replaced the M3A1 Scout Car and M2 Halftrack as the main armoured vehicle
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_m8_greyhound Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -185,6 +187,7 @@ The M8 replaced the M3A1 Scout Car and M2 Halftrack as the main armoured vehicle
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
+
 * [[Daimler Mk II]]
 * [[AB 41]]
 * [[AMD.35]]
@@ -196,6 +199,7 @@ The M8 replaced the M3A1 Scout Car and M2 Halftrack as the main armoured vehicle
 
 * [[wt:en/news/5058-special-m8-light-armoured-car-long-legged-canine-en|[Development] M8 Light Armoured Car: Long Legged Canine]]
 * [[wikipedia:M8_Greyhound|[Wikipedia] M8 Greyhound]]
+* [https://www.militaryfactory.com/armor/detail.php?armor_id=65 <nowiki>[Military Factory] M8 Greyhound (Light Armored Car M8)</nowiki>]
 
 {{TankManufacturer Ford}}
 {{USA light tanks}}

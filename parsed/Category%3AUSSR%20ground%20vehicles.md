@@ -219,7 +219,9 @@
 {{Tree-Arrow|3}}
 |
 {{Tree-Unit|ussr_btr_zd}}
-{{Tree-Arrow|5}}
+{{Tree-Arrow}}
+{{Tree-Unit|ussr_m53_59}}
+{{Tree-Arrow|4}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|ussr_t_34_85E}}
 {{Tree-Skip}}
@@ -365,6 +367,8 @@
 {{Tree-Skip}}
 |
 {{Tree-Unit|ussr_zprk_2s6}}
+{{Tree-Arrow}}
+{{Tree-Unit|ussr_pantsyr_s1}}
 {{Tree-Skip}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|ussr_t_80um2}}

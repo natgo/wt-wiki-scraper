@@ -14,7 +14,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British fighter {{Batt
 
 The Hellcat Mk II is nearly identical to the American non-premium [[F6F-5|F6F-5 Hellcat]], both can carry a wide array of weaponry for ground attack, but the British one has a good premium boost for Silver Lions {{sl}} and Golden Eagles {{ge}}, making it an effective researcher for many British Rank 4 aircraft. Just like the American Hellcat, it is easy to get to grips with and can be very fun to play.
 
-The stock [[F6F-5|F6F-5 Hellcat]] is equipped with six 12.7 mm Browning machine guns. The Hellcat can also be upgraded to carry either 6 x 127 mm rockets, 2 x 298 mm rockets, 2 x 1,000 lb bombs, or 6 x 127 mm rockets and two 1,000 lb bombs. The Hellcat can also be upgraded to use the "New 12 mm MGs" which are more accurate and and less likely to jam.
+The stock [[F6F-5|F6F-5 Hellcat]] is equipped with six 12.7 mm Browning machine guns. The Hellcat can also be upgraded to carry either 6 x 127 mm rockets, 2 x 298 mm rockets, 2 x 1,000 lb bombs, or 6 x 127 mm rockets and two 1,000 lb bombs.
 
 == General info ==
 === Flight performance ===
@@ -87,6 +87,7 @@ The stock [[F6F-5|F6F-5 Hellcat]] is equipped with six 12.7 mm Browning machine 
 
 === Modifications and economy ===
 {{Specs-Economy}}
+Research the "New 12 mm MGs" to get machine guns that are more accurate and and less likely to jam.
 
 == Armaments ==
 {{Specs-Avia-Armaments}}

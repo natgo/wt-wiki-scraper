@@ -6,9 +6,13 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Swedish fighter {{Battle-rating}}. It was introduced as a [[wt:en/news/6450-development-pyörremyrsky-the-nordic-whirlwind-en|premium pack]] in [[Update 1.93 "Shark Attack"]]. It was removed from the Gaijin store after the [[wt:en/news/7674-shop-may-sale-en|2022 May sale]].
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Swedish fighter {{Battle-rating}}. It was introduced in [[Update 1.93 "Shark Attack"]] as a [[wt:en/news/6450-development-pyörremyrsky-the-nordic-whirlwind-en|premium pack]], and was removed from the Gaijin store after the [[wt:en/news/7674-shop-may-sale-en|2022 May sale]].
 
 Though the Pyörremyrsky shares some design traits with the [[Bf 109 (Family)|Bf 109 series]] of German fighters, it is in fact a completely domestic Finnish design and has significantly different flight characteristics.
+
+From 1942, the superiority of the Red Army Air Force over the Finnish was becoming increasingly obvious. While 160 modern Messerschmitt Bf 109 G-2, G-6 and other versions were transferred to the Finnish Air Force by Germany between 1942 to 1944, the situation began to deteriorate among the Axis countries, and due to the increasing successes (especially from the second half of 1943) of the countries of the Allies, it became obvious that further deliveries of new Bf 109s as well as spare parts for them would become more and more problematic.
+
+In this situation, the command of the Finnish Air Force ordered LV to develop a fighter that was to be made of domestic materials (mainly wood and steel) and which was to have characteristics comparable to the Bf 109 G-6. Engineers T. R. Verkola, Arvo Ilinen, and Edward Vigelius proposed an aerodynamically clean low-wing aircraft equipped with a German twelve-cylinder double-row inverted gear motor Daimler-Benz DB 605AC, developing 1,475 hp (1,085 kW) and rotating the German three-bladed VDM propeller. In the project, the fairing of the propeller sleeve and the engine hood were borrowed from the German fighter, which made the new Finnish aircraft, designated Pyórremyrsky (hurricane), very similar in front to the Bf 109 G.
 
 == General info ==
 === Flight performance ===
@@ -117,7 +121,7 @@ The Pyörremyrsky is not the fastest plane in here. Therefore players need to co
 
 '''Air Superiority role'''
 
-In this role the Pyörremyrsky will take no bombs and instead climb over the battlefield, diving down and taking attacks of opportunity against enemy aircraft. The aircraft excels in this role as it preserves energy well and even if lured into a low level dogfight, will still be in home turf if in the hands of a skilled pilot. 
+In this role the Pyörremyrsky will take no bombs and instead climb over the battlefield, diving down and taking attacks of opportunity against enemy aircraft. The aircraft excels in this role as it preserves energy well and even if lured into a low level dogfight, will still be in home turf if in the hands of a skilled pilot.
 
 Generally, the target planes are attackers with low top speed or fighters with bombs, so the Pyörremyrsky should have no trouble downing them with a surprise advantage.
 

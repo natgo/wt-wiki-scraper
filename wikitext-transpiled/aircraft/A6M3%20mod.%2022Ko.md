@@ -92,8 +92,8 @@ This variant of the [[A6M]] series is a small-scale variant over the [[A6M3 mod.
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-* No Armor Protection
-* Not Self-Sealing Fuel Tanks
+* No armour Protection
+* No self-sealing fuel tanks
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -172,7 +172,7 @@ To defend yourself from the rear, perform a split S, which consists of rolling a
 
 * '''A'''6M for Carrier-based fighter:
 ** Strictly air-to-air role
-*** Gets 2x [[Navy Type 97 Number 6 (60 kg)|Type 97 No.6 Land Bomb (60kg)]], but strongly ill-advised for air-battles
+*** Gets 2 x [[Navy Type 97 Number 6 (60 kg)|Type 97 No.6 Land Bomb (60 kg)]]
 ** Decent cannon armament
 ** Extremely manoeuvrable
 *** Excellent turn rate
@@ -184,7 +184,7 @@ To defend yourself from the rear, perform a split S, which consists of rolling a
 *** ''Ground Targets'': Great for Ground battles
 <div class="mw-collapsible mw-collapsed">
 :::* AP-I:
-::::* Shreds soft targets, and can weaken / destroy weak top armored tanks, especially engine decks
+::::* Shreds soft targets, and can weaken / destroy weak top armoured tanks, especially engine decks
 ::::* Easily sets fire to air targets
 :::* HEF(T):
 ::::* Tracer can help you aim on target
@@ -200,7 +200,7 @@ To defend yourself from the rear, perform a split S, which consists of rolling a
 ::::* Easily sets fire to air targets
 </div>
 :* Excellent manoeuvrability
-:* Nose mounted armament
+:* Nose-mounted armament
 :* Small radiator drag
 
 '''Cons:'''

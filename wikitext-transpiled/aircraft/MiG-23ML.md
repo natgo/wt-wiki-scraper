@@ -137,45 +137,31 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.' -->
-The MiG-23ML has a vast arsenal of suspended weaponry to choose from, including:
+{{main|OFAB-100 (100 kg)|FAB-250M-62 (250 kg)|FAB-500M-62 (500 kg)|ZB-500 incendiary}}
+{{main|S-5K|S-8KO|S-24B|GSh-23L (23 mm)}}
+{{main|R-23R|R-23T|R-24R|R-24T}}
+{{main|Kh-23M|R-13M1|R-60M}}
 
-'''Short-range missiles (up to 6):'''
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-* R-13M1 (IR, 20G overload)
-* R-60M (IR, 30G overload)
-
-'''Medium-range missiles (up to 2)''':
-
-* R-23R (Radar-guided, 20G overload)
-* R-23T (IR, 20G overload)
-* R-24R (Radar-guided, 24G overload) 
-* R-24T (IR, 24G overload)
-
-The R-23T and R-24T may be used in conjunction with the IRST mode of the plane's radar. This is similar in function to a radar lock, but ignores chaff, may be countered by flares, and does not alert enemy radar warning receivers (RWR) that the plane is locked.
-
-'''Gunpods:'''
-
-* 2x 23 mm dual-barrel GSh-23L cannon gunpods (250 rpg) 
-
-'''Bombs:'''
-
-* Up to 16 x OFAB-100 bombs (114 kg each)
-* Up to 4 x FAB-250M-62 bombs (227 kg each)
-* Up to 2 x FAB-500M-62 bombs (508 kg each)
-
-'''Incendiary bombs:'''
-
-* Up to 2 x ZB-500 (374 kg each, 250 kg of CKC incendiary compound)
-
-'''Unguided rockets:'''
-
-* Up to 64 x S-5K rockets (HEAT, 150 mm penetration)
-* Up to 40 x S-8KO rockets (HEAT, 420 mm penetration)
-* Up to 4 x S-24B rockets (235 kg rockets with a 25.5 kg HE warhead)
-
-'''Guided rockets:'''
-
-* Up to 2 x Kh-23M rockets (Manual guidance, 10 km range, 289 kg rockets with a 96 kg HE warhead)
+* Without load
+* 2 x R-13M1 missiles
+* 4 x R-13M1 missiles
+* 6 x R-60M missiles
+* 2 x R-23R missiles
+* 2 x R-23T missiles
+* 2 x R-24R missiles
+* 2 x R-24T missiles
+* 64 x S-5K rockets
+* 64 x S-5K rockets
+* 40 x S-8KO rockets
+* 4 x S-24B rockets
+* 2 x Kh-23M missiles
+* 16 x 100 kg OFAB-100 bombs (1,600 kg total)
+* 4 x 250 kg FAB-250M-62 bombs (1,000 kg total)
+* 2 x 500 kg FAB-500M-62 bombs (1,000 kg total)
+* 2 x ZB-500 incendiary bombs
+* 2 x 23 mm GSh-23L cannons (250 rpg = 500 total)
 
 Taking any amount of Kh-23M rockets requires mounting of the "Targeting Delta-NG" pod on one of the slots.
 
@@ -228,5 +214,6 @@ The MiG-23ML is very versatile and has usefulness in nearly every combat situati
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{AirManufacturer MiG}}
 {{USSR jet aircraft}}
 {{USSR premium aircraft}}

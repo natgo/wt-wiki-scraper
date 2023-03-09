@@ -63,7 +63,7 @@ The MiG-17AS is powered by the Klimov VK-1 jet engine, the same as the engine fo
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || 598 || 450 || ~12 || ~5
+| 1,093 <!--{{Specs|destruction|body}}--> || {{Specs|destruction|gear}} || N/A || 598 || 450 || ~12 || ~5
 |-
 |}
 

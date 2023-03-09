@@ -222,7 +222,7 @@ The first F-16 ADF was delivered to the Oregon Air National Guard in March 1989.
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f_16a_block_15_adf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-<gallery mode="packed-hover" heights="150">
+<gallery mode="packed-hover" heights="200">
 File:IFF F-16 ADF.png|<small>4-blade "bird slicer" antenna on the nose of the F-16A ADF (AN/APX-109)</small>
 </gallery>
 

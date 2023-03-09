@@ -122,21 +122,26 @@ The hull armour on the T-80UK is a 5-layer armour, which is comprised of 50 mm h
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+The T-80UK is a command variant of the T-80U. As such, the playstyle will not change much. The most notable difference between the two tanks is the soft-kill active protection system, which will disrupt the guidance of any ATGMs headed in the direction of the tank, provided the turret is facing the launching vehicle.
+
+While the armour is reasonably good, it will fail to stop some APFSDS rounds, so it is important that you refrain from relying on it. Remember that the armour is not meant to protect the tank, it is meant to protect the crew. With that said, you'll find yourself absorbing a significant portion of poorly-placed or rushed shots in your direction, provided they are not from the side or rear. It is also important to remember, the ERA is expendable. Once it is gone, your tank will be left with significant weak spots that can, and will be abused by your enemies. It is best not to get hit in the first place.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
 
 * Soft kill passive protection system
 * Overall good frontal armour
 * Good mobility
+* Effective ERA, capable of stopping many of the APFSDS rounds you'll face
 
 '''Cons:'''
 
-* Autoloader carousel is easy to hit
+* Autoloader carousel is a significant vulnerability
+* The vehicle is loud, effectively removing any sense of stealth
+* Rather slow turret traverse and reverse speed significantly reduce reactivity
+* Subpar gun depression
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -169,3 +174,4 @@ The hull armour on the T-80UK is a 5-layer armour, which is comprised of 50 mm h
 {{USSR medium tanks}}
 {{Squadron ground vehicles}}
 [[Category:ATGM vehicles]]
+[[Category:Ground vehicles with active protection system]]

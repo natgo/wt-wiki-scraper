@@ -107,7 +107,7 @@ The available ammunition allows for engaging all types of targets:
 {{:Ordnance BL Tk. L11 (120 mm)/Ammunition|Shot L15A3, Shell L31A7, L34}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x350px|[[Ammo racks]] of the {{PAGENAME}}]]
 <!-- '''Last updated: 2.19.0.76''' -->
 {| class="wikitable" style="text-align:center"
 |-
@@ -131,7 +131,7 @@ The available ammunition allows for engaging all types of targets:
 ! 13th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| 35&nbsp;''(+18)'' <br> 1&nbsp;''(+52)'' || 30&nbsp;''(+25)'' <br> N/A || 25&nbsp;''(+30)'' <br> N/A || 18&nbsp;''(+35)'' <br> N/A || 11&nbsp;''(+42)'' <br> N/A || 5&nbsp;''(+48)'' <br> N/A || 1&nbsp;''(+52)'' <br> N/A || No
+| 35&nbsp;''(+18)'' <br> 1&nbsp;''(+52)'' || 30&nbsp;''(+23)'' <br>&nbsp; || 25&nbsp;''(+28)'' <br>&nbsp; || 18&nbsp;''(+35)'' <br>&nbsp; || 11&nbsp;''(+42)'' <br>&nbsp; || 5&nbsp;''(+48)'' <br>&nbsp; || 1&nbsp;''(+52)'' <br>&nbsp; || No
 |-
 |}
 '''Notes''':
@@ -195,7 +195,7 @@ The IR searchlight on the {{PAGENAME}} is mounted in a distinctive box on the le
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 588 (3) || 300 || N/A || N/A
+| Coaxial || 588 (3) || 300 || - || -
 |-
 |}
 The 12.7 mm L21A1 machine gun is specifically used to determine ranging for the main gun. While the game indicates a very short clip of 3 rounds, it is in fact more accurate to say that the MG only fires small bursts of 3 rounds. It is not fired alongside the other machine guns but through the "Fire from secondary guns" option (Controls > Ground Vehicles > Weaponry).
@@ -215,14 +215,13 @@ The 12.7 mm L21A1 machine gun is specifically used to determine ranging for the 
 | Pintle || 2,000 (100) || 650 || -10°/+50° || ±180°
 |-
 |}
-
 {| class="wikitable" style="text-align:center" width="50%"
 |-
 ! colspan="5" | [[L8A1 (7.62 mm)|7.62 mm L8A1]]
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 6,000 (200) || 600 || N/A || N/A
+| Coaxial || 6,000 (200) || 600 || - || -
 |-
 |}
 The small calibre of the 7.62 mm machine gun makes them largely ineffective against all armoured vehicles but the ones with an open compartment.
@@ -230,7 +229,7 @@ The small calibre of the 7.62 mm machine gun makes them largely ineffective agai
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-Fundamental advantages of Chieftain Mk 3 are its fast fire rate and high penetration. Few vehicles within its BR range can resist the Chieftain's firepower, with some exceptions possibly being a well-positioned [[T95|T95]] or [[Maus|Maus]]. Because the 120 mm APDS shells have such high penetration, one should aim for critical internal modules rather than armour weak points. This requires good knowledge of the enemy tanks. You should know where shells, fuel tanks, and crew reside in the vehicles you'll face.
+Fundamental advantages of Chieftain Mk 3 are its fast fire rate and high penetration. Few vehicles within its BR range can resist the Chieftain's firepower, with some exceptions possibly being a well-positioned [[T95]] or [[Maus]]. Because the 120 mm APDS shells have such high penetration, one should aim for critical internal modules rather than armour weak points. This requires good knowledge of the enemy tanks. You should know where shells, fuel tanks, and crew reside in the vehicles you'll face.
 
 '''Defensively:'''<br>
 The Chieftain's gun is very accurate when equipped with all gun modules -- move to a location overlooking enemy movements from long range. Maintain a hull-down position whenever possible to hide your weaker hull. Consider placing camouflage bushes on your turret to force your enemy to spend more time aiming.

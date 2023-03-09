@@ -132,12 +132,12 @@ The '''''{{PAGENAME}}''''' is armed with:
 ** 4 x 20 mm Browning-Colt Mk12 Mod 3 cannons, nose-mounted (144 rpg = 576 total)
 ** 4 x 20 mm Browning-Colt Mk12 Mod 3 cannons + 60 x countermeasures
 
-The offensive armament of the F-8E consists of 4 x 20 mm Browning-Colt Mk12 Mod 3 autocannons, grouped into 2 selectable groups. The guns replaced the 20 mm M3 commonly used from the end of WW2 until the Korean war, and has a quick fire rate of 1,000 rpm, outputting 7.30 kg of shells per second towards the enemy. With 144 rounds per gun, this gives pilots of the F-8E 8.64 seconds of trigger time. If ammo capacity is a concern, pilots can select one group of 20 mm to fire at a time, doubling their trigger time. The guns do reliable damage and have a good velocity of 1012 m/s, only slightly less than the [[M61 (20 mm)|20 mm M61]] found on later jets. This makes getting reliable gun kills easy for pilots.
+The offensive armament of the F-8E consists of 4 x 20 mm Browning-Colt Mk12 Mod 3 autocannons, grouped into 2 selectable groups. The guns replaced the 20 mm M3 commonly used from the end of WW2 until the Korean war, and has a quick fire rate of 1,000 rpm, outputting 7.30 kg of shells per second towards the enemy. With 144 rounds per gun, this gives pilots of the F-8E 8.64 seconds of trigger time. If ammo capacity is a concern, pilots can select one group of 20 mm to fire at a time, doubling their trigger time. The guns do reliable damage and have a good velocity of 1,012 m/s, only slightly less than the [[M61 (20 mm)|20 mm M61]] found on later jets. This makes getting reliable gun kills easy for pilots.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)|MK 77 Mod 4 incendiary}}
+{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)|Mk 77 mod 4 incendiary}}
 {{main|AGM-12B Bullpup|AIM-9B Sidewinder|AIM-9C Sidewinder|AIM-9D Sidewinder}}
 {{main|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP}}
 
@@ -161,7 +161,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 8 x 500 lb LDGP Mk 82 bombs (4,000 lb total)
 * 4 x 1,000 lb LDGP Mk 83 bombs (4,000 lb total)
 * 2 x 2,000 lb LDGP Mk 84 bombs (4,000 lb total)
-* 2 x MK 77 Mod 4 incendiary bombs
+* 2 x Mk 77 mod 4 incendiary bombs
 
 The F-8E has a much more extensive selection of multirole weaponry when compared to the preceding [[F8U-2]], although it is still intended for use mainly as an air supremacy aircraft.
 
@@ -197,7 +197,7 @@ The final missile the F-8E gains access to is the AIM-9D. A later evolution of t
 ! 2,000 lb LDGP Mk 84 bombs
 | 1 || || || 1
 |-
-! MK 77 Mod 4 incendiary bombs
+! Mk 77 mod 4 incendiary bombs
 | 1 || || || 1
 |-
 ! FFAR Mighty Mouse rockets
@@ -248,7 +248,6 @@ The flight performance of the {{PAGENAME}} is similar enough to the preceding [[
 * Fragile wings which can easily rip at high speeds and in high-G turns
 * Very likely to set on fire because of the fuel tank placement
 * Below average low level top speed compared to other supersonic competitors; can barely break Mach 1 at low altitude
-* Lacks RWR, which is a major disadvantage as it frequently encounters opponents equipped with SARH missiles
 * Lacks a ballistic computer, which greatly limits its ground attack potential
 
 == History ==

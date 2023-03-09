@@ -193,6 +193,7 @@ It is advisable to bomb enemy bases, since the Tornado is not very good in air c
 * Mauser BK27 guns have decent hitting power and ammunition capacity
 * Impressive bombload and access to AS.34 Kormoran anti-ship missiles
 * Access to two AIM-9L Sidewinder air-to-air missiles stock
+* slow speed helps with turning when you have manual control of sweep wing 
 
 '''Cons:'''
 
@@ -233,12 +234,16 @@ The Bundeswehr Navy used the variants IDS, Recce, and ECR.
 ;Skins
 * [https://live.warthunder.com/feed/camouflages/?vehicle=tornado_ids_de_mfg Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
+;Videos
+{{Youtube-gallery|wpe-_5xxJ5A|'''Tornado IDS Marineflieger: A Quick Review''' - ''Tims Variety''}}
+
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[Tornado (Family)|Related development]]
+
 * [[Tornado IDS ASSTA1 (Germany)]]
 * [[Tornado IDS (1995) (Italy)]]
 
@@ -247,10 +252,7 @@ The Bundeswehr Navy used the variants IDS, Recce, and ECR.
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-=== References ===
+* [https://marine-flieger.de/mrca-tornado-pa200 <nowiki>[Marine-Flieger]</nowiki> MRCA Tornado PA200] 
 
-;Bibliography
-
-* MRCA Tornado PA200. https://marine-flieger.de/mrca-tornado-pa200. 
-
+{{AirManufacturer Panavia}}
 {{Germany jet aircraft}}

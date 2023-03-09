@@ -133,7 +133,7 @@ Though the G.91 R/4 does have a decent amount of armour spaced out between the c
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M64A1 (500 lb)|FFAR Mighty Mouse|M3 Browning (12.7 mm)}}
+{{main|AN-M64A1 (500 lb)|Aerea 559G1 incendiary|FFAR Mighty Mouse|M3 Browning (12.7 mm)}}
 {{main|AA-20 Nord|AIM-9B Sidewinder|AS-20 Nord}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
@@ -148,6 +148,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 2 x 12.7 mm M3 Browning machine guns + 2 x 500 lb AN-M64A1 bombs + 2 x AA-20 Nord missiles (1,000 lb total)
 * 4 x 12.7 mm M3 Browning machine guns + 4 x AIM-9B Sidewinder missiles
 * 4 x 12.7 mm M3 Browning machine guns + 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
+* 4 x 12.7 mm M3 Browning machine guns + 2 x Aerea 559G1 incendiary bombs
 
 Featuring a wide range of ordnance, the G.91 R/4 can be equipped for any role from ground to air combat, though it prefers air superiority.
 

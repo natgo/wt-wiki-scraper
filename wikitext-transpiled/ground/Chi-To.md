@@ -190,6 +190,8 @@ The second tank is still believed to be at the bottom of the lake. A project to 
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
+* [https://sensha-manual.blogspot.com/2021/09/type4.html <nowiki>[SENSHA Blog]</nowiki> Type 4 Medium Tank, 'Chi-To': The Last Tank of the Japanese Army]
+
 ===References===
 <references />
 

@@ -132,7 +132,7 @@ The Sambad is equipped with 2 x DEFA 552 30 mm cannons mounted on the underside 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|100/50 kg G.P. (100 kg)|250/50 kg G.P. (250 kg)|500/50 kg G.P. (500 kg)}}
+{{main|100/50 kg G.P. (100 kg)|250/50 kg G.P. (250 kg)|500/50 kg G.P. (500 kg)|Mk.2 incendiary}}
 {{main|Shafrir|SNEB type 23|T10 151}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
@@ -142,6 +142,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 8 x 100/50 kg G.P. bombs (800 kg total)
 * 2 x 250/50 kg G.P. bombs (500 kg total)
 * 2 x 500/50 kg G.P. bombs (1,000 kg total)
+* 2 x Mk.2 incendiary bombs
 * 12 x T10 151 rockets
 * 38 x SNEB type 23 rockets
 

@@ -73,28 +73,6 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French naval fighter {{Battle-
 |-
 |}
 
-{| class="wikitable" style="text-align:center"
-|-
-! colspan="3" | Compressor (RB/SB)
-|-
-! colspan="3" | Setting 1
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 995 m || 2,120 hp || 2,826 hp
-|-
-! colspan="3" | Setting 2
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 5,090 m || 1,700 hp || 2,244 hp
-|-
-|}
-
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
@@ -121,7 +99,8 @@ The four cannons are arranged in bundles of two mounted in each wing. Each canno
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|HVAR|Tiny Tim|M2 Browning (12.7 mm)}}
+{{main|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|M116A2 incendiary}}
+{{main|HVAR|Tiny Tim|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
@@ -133,6 +112,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 1 x 1,000 lb AN-M65A1 bomb (1,000 lb total)
 * 1 x 1,000 lb AN-M65A1 bomb + 2 x 500 lb AN-M64A1 bombs (2,000 lb total)
 * 3 x 1,000 lb AN-M65A1 bombs (3,000 lb total)
+* 2 x M116A2 incendiary bombs
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

@@ -102,7 +102,9 @@ The available ammunition offers a wide range of shells to engage all types of ta
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+The Sd.Kfz.251/9 is a lightly-armoured vehicle that can be penetrated by nearly anything, including heavy machine guns, and destroyed by overpressure. This means you want to avoid rushing points and areas of high traffic, and instead flank the enemy team with your decent mobility. The 75 mm gun on the 251/9 is excellent at its BR, coming with an APCBC shell with moderate penetration and an excellent HEAT shell with good explosive filler and 100 mm of penetration at all angles. However, sniping with this tank is not recommended, as its gun and shells have low muzzle velocity and high drop, making it difficult to hit your targets at range. A better way to use this tank is in an ambush role. If you can find a good spot that protects your sides and flanks from enemy tanks, you can surprise and quickly destroy almost enemy tank that come your way with your excellent reload speed and HEAT shells. It also has excellent depression, allowing you to engage enemy targets over ridges and give you more combat flexibility.
+
+The biggest threats to this tank are aircraft and flankers. It is an open-topped vehicle, leaving it vulnerable to strafing and bombing from enemy aircraft. Because it lacks a turret, the 251/9 also struggles against flanking manoeuvres and is doomed if an enemy tanker flanks and gets a good firing profile on the side of your tank. To counteract this, stick with teammates and/or relocate after a few shots, to prevent players whose tanks you destroyed from coming back and revenge-bombing you. It may also be beneficial to pair with a friendly SPAA, as they can help provide some measure of defence against CAS.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -126,6 +128,7 @@ The available ammunition offers a wide range of shells to engage all types of ta
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_sdkfz_251_9 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

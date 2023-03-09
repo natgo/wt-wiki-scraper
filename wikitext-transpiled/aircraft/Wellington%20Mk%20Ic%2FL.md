@@ -96,7 +96,7 @@ The sneaky approach, on the other hand, relies less on speed, but on surviving t
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|G.P. Mk.I (1,000 lb)|H.C. 4,000 lb Mk.II (4,000 lb)|18 inch Mark XII (450 mm)}}
+{{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|G.P. Mk.I (1,000 lb)|H.C. Mk.II (4,000 lb)|18 inch Mark XII (450 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
@@ -105,7 +105,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 9 x 500 lb G.P. Mk.IV bombs (4,500 lb total)
 * 2 x 1,000 lb G.P. Mk.I bombs + 6 x 250 lb G.P. Mk.IV bombs (3,500 lb total)
 * 2 x 18 inch Mark XII torpedoes
-* 1 x H.C. 4,000 lb Mk.II bomb (4,000 lb total)
+* 1 x 4,000 lb H.C. Mk.II bomb (4,000 lb total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
@@ -176,7 +176,7 @@ The Mk Ic was the second most produced variant of the Wellington, at 2,685 airfr
 {{break}}
 {{Navigation-Start|{{Annotation|Archive of the in-game description|An archive of the historical description of the vehicle that was presented in-game prior to Update 1.55 'Royal Armour'}}}}
 {{Navigation-First-Simple-Line}}
-In May 1940, the Vickers Wellington bomber was included in the list of aircraft declared a high priority by Great Britain's Ministry of Aircraft Production. The Wellington was built around Barnes Wallis' geodetic structure concept, maximising airframe strength for minimum weight. Powered by two Bristol Pegasus engines, the Wellington was first test flown in May 1936 and entered service with RAF Bomber Command in 1938. Full-scale production of the Mk Ic (Type 415) model started in April 1940; the most numerous of the Mk.Is, the Mk Ic differed from previous variants by replacing the ventral turret with guns fitted to the aircraft's beams. In place of the Frazer-Nash FN-25 turret, the Mk Ic featured two side blisters consisting of 0.303 inch Vickers Class K machine guns with 483 rounds each (7 flat pan magazines, standard capacity). The Mk Ic bombers of later series were fitted with Colt-Browning Mk.II .303 inch belt-fed machine guns with 600 rounds each. The standard bomb capacity was 4,500 lbs (2,041 kg); this was normally made up of nine 500-lb (227-kg) bombs or two 2,000-lb (907-kg) bombs. A special model, the Type 423, was based on the Wellington Mk Ic; it was able to deliver one 4,000-lb (1,816-kg) extra-heavy Cookie Mk.I or Mk.II bomb to the target. To accomplish this, the central bomb bay doors were removed and the bomb bay itself was modified. The defensive armament remained the same.
+In May 1940, the Vickers Wellington bomber was included in the list of aircraft declared a high priority by Great Britain's Ministry of Aircraft Production. The Wellington was built around Barnes Wallis' geodetic structure concept, maximising airframe strength for minimum weight. Powered by two Bristol Pegasus engines, the Wellington was first test flown in May 1936 and entered service with RAF Bomber Command in 1938. Full-scale production of the Mk Ic (Type 415) model started in April 1940; the most numerous of the Mk.Is, the Mk Ic differed from previous variants by replacing the ventral turret with guns fitted to the aircraft's beams. In place of the Frazer-Nash FN-25 turret, the Mk Ic featured two side blisters consisting of 0.303 inch Vickers Class K machine guns with 483 rounds each (7 flat pan magazines, standard capacity). The Mk Ic bombers of later series were fitted with Colt-Browning Mk.II .303 inch belt-fed machine guns with 600 rounds each. The standard bomb capacity was 4,500 lbs (2,041 kg); this was normally made up of nine 500 lb (227 kg) bombs or two 2,000 lb (907 kg) bombs. A special model, the Type 423, was based on the Wellington Mk Ic; it was able to deliver one 4,000 lb (1,816 kg) extra-heavy Cookie Mk.I or Mk.II bomb to the target. To accomplish this, the central bomb bay doors were removed and the bomb bay itself was modified. The defensive armament remained the same.
 
 On the night of July 7th 1941, Sgt James Ward became the only Wellington crewman to win a Victoria Cross when his Mk Ic was hit by a German night fighter and its starboard engine set on fire. With a rope attached to him, Ward crawled out onto the wing and tearing holes in the aircraft's fabric for hand holds, reached the fire to extinguish it.
 

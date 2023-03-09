@@ -69,9 +69,9 @@ The {{PAGENAME}} does not have that great average speed, which means that the 39
 * '''Default:''' {{Annotation|APHE|Armour-piercing high-explosive}}{{-}}{{Annotation|FI-T|Fragmentation incendiary tracer}}
 * '''Sprgr. 18:''' {{Annotation|FI-T|Fragmentation incendiary tracer}}
 * '''PzGr:''' {{Annotation|APHE|Armour-piercing high-explosive}}
-* '''M.Gr.18:''' {{Annotation|FI-T|Fragmentation incendiary tracer}}
+* '''M.Gr.18:''' {{Annotation|HEI-T|High-explosive incendiary tracer}}
 
-{{:FlaK44 (37 mm)/Ammunition|Sprgr. 18, PzGr, M.Gr.18}}
+{{:FlaK44 (37 mm)/Ammunition|FI-T, APHE, HEI-T}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.jpg|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

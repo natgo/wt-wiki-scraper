@@ -52,7 +52,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish fighter {{Battle-ratin
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 761 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 425 || 380 || 240 || ~__ || ~__
+| 761 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 425 || 380 || 240 || ~12 || ~4
 |-
 |}
 
@@ -117,10 +117,7 @@ You are pretty manoeuvrable and can win a dogfight against most enemies, the exc
 |}
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
-
-'''Pros:'''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
 
 * Very manoeuvrable
 * Effective weaponry
@@ -133,12 +130,17 @@ You are pretty manoeuvrable and can win a dogfight against most enemies, the exc
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-44 F2A-1 Buffallos (B-239 in Finnish service) were delivered in 1940 and they achieved great success in combat with Soviet aircraft. Ilmari Juutilainen scored 34 kills flying it.
+At the beginning of 1939, Finland was looking to purchase modern fighter aircraft. They contacted the USA with the only demand being that the plane was already in service and had the ability to use 87-octane fuel. 44 F2A-1 Buffalo fighters intended originally for the US Navy were sold to Finland after the USN agreed to wait for the F2A-2 variant instead. Model B-239E was built with a more powerful Wright R-1820-G5 engine producing 950 hp as opposed to the 940 hp Wright R-1820-34 engine used in USN planes and featured mountings allowing installation of four machine guns instead of two on the American counterpart. The planes were also de-navalised, which meant they weighed less while having better performance.
+
+The planes were delivered in January and February 1940 to Bergen, Norway, then sent by railway to Sweden where they were assembled in SAAB factory at Trollhättan. There, they were equipped with armoured backrests, metric flight instruments, a domestic Väisälä T.h.m.40 gunsight, and four 12.7 mm machine guns. Unimpressed with the plane at first, the Finnish view on it changed drastically after a Brewster company test pilot demonstrated that the B-239E was able to out-turn the Fiat G.50 Freccia fighter, although it was slower in level flight than the G.50. None of the B-239s saw combat during the Winter War.
+
+Finnish pilots regarded the B-239 as an easy to fly plane, while its relatively long range and easy maintenance allowed to keep them operational without much effort. It earned a reputation as one of the best Finnish fighters alongside the Fiat G.50 which had a kill-loss ratio of 33:1, while Lentolaivue 24 (Fighter Squadron 24) managed to score 26:1 ratio with 477 Soviet planes claimed destroyed with loss of only 19 B-239s. Finnish B-239s were in service from 1940 all the way to 1948 with the last eight remaining since the end of war in Lapland. The last victory of a B-239 over Soviet aircraft was claimed on 17th June 1944 near the Karelian Isthmus, while the last victory of a B-239 in WWII was achieved on 3rd October 1944 when HLeLV 26 intercepted German Ju-87 Stuka dive bombers and claimed two shot down.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=b_239_finland Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -147,6 +149,7 @@ You are pretty manoeuvrable and can win a dogfight against most enemies, the exc
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[F2A (Family)]]
 
 == External links ==

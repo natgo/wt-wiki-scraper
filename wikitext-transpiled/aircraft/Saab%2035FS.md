@@ -174,7 +174,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-;[https://live.warthunder.com/feed/camouflages/?vehicle=saab_j35xs Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=saab_j35xs Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
 <gallery mode="packed-hover" heights="200">
@@ -182,6 +182,9 @@ File:J35FS Countermeasures.jpg|<small>J35FS flares, 6 x RB24Js</small>
 File:J35FS RM6C AB Off.jpg|<small>J35FS afterburner off</small>
 File:J35FS RM6C AB On.jpg|<small>J35FS afterburner on</small>
 </gallery>
+
+;Videos
+{{Youtube-gallery|CuN_b9Oxem8|'''Saab 35FS: A Basic Review''' - ''Tims Variety''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

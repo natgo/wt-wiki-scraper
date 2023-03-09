@@ -177,3 +177,4 @@ Windbreaker's development quickly drew the attention of the United States Army, 
 
 {{TankManufacturer Israeli Ordnance Corps}}
 {{Israel medium tanks}}
+[[Category:Ground vehicles with active protection system]]

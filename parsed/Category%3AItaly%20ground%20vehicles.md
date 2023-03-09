@@ -198,6 +198,8 @@
 {{Tree-Unit|it_c1_ariete_pso}}
 {{Tree-Arrow}}
 {{Tree-Unit|it_c1_ariete}}
+{{Tree-Arrow}}
+{{Tree-Unit|it_ariete_amv_pt1}}
 {{Tree-Skip}}
 |
 {{Tree-Unit|it_otobreda_sidam_25_mistral}}

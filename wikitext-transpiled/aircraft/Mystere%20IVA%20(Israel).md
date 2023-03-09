@@ -128,30 +128,32 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|250/50 kg G.P. (250 kg)|SAMP Type 21 (400 kg)|500/50 kg G.P. (500 kg)|SNEB type 23|T10 151}}
+{{main|250/50 kg G.P. (250 kg)|SAMP Type 21 (400 kg)|500/50 kg G.P. (500 kg)|Mk.2 incendiary}}
+{{main|SNEB type 23|T10 151}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * Without load
-* 2 x 250 kg 250/50 kg G.P. bombs (500 kg total)
-* 4 x 250 kg 250/50 kg G.P. bombs (1,000 kg total)
-* 2 x 500 kg 500/50 kg G.P. bombs (1,000 kg total)
+* 2 x 250/50 kg G.P. bombs (500 kg total)
+* 4 x 250/50 kg G.P. bombs (1,000 kg total)
+* 2 x 500/50 kg G.P. bombs (1,000 kg total)
 * 4 x 400 kg SAMP Type 21 bombs (1,600 kg total)
-* 2 x 500 kg 500/50 kg G.P. bombs + 2 x 250 kg 250/50 kg G.P. bombs (1,500 kg total)
-* 55 x SNEB type 23 rockets + 2 x 500 kg 500/50 kg G.P. bombs (1,000 kg total)
-* 55 x SNEB type 23 rockets + 2 x 250 kg 250/50 kg G.P. bombs + 2 x 500 kg 500/50 kg G.P. bombs (1,500 kg total)
-* 55 x SNEB type 23 rockets + 2 x 250 kg 250/50 kg G.P. bombs (500 kg total)
-* 55 x SNEB type 23 rockets + 4 x 250 kg 250/50 kg G.P. bombs (1,000 kg total)
-* 55 x SNEB type 23 rockets + 2 x 250 kg 250/50 kg G.P. bombs + 12 x T10 151 rockets (500 kg total)
-* 55 x SNEB type 23 rockets + 12 x T10 151 rockets + 2 x 500 kg 500/50 kg G.P. bombs (1,000 kg total)
-* 93 x SNEB type 23 rockets + 2 x 250 kg 250/50 kg G.P. bombs (500 kg total)
-* 93 x SNEB type 23 rockets + 2 x 500 kg 500/50 kg G.P. bombs (1,000 kg total)
+* 2 x 500/50 kg G.P. bombs + 2 x 250/50 kg G.P. bombs (1,500 kg total)
+* 4 x Mk.2 incendiary bombs
+* 55 x SNEB type 23 rockets + 2 x 500/50 kg G.P. bombs (1,000 kg total)
+* 55 x SNEB type 23 rockets + 2 x 250/50 kg G.P. bombs + 2 x 500/50 kg G.P. bombs (1,500 kg total)
+* 55 x SNEB type 23 rockets + 2 x 250/50 kg G.P. bombs (500 kg total)
+* 55 x SNEB type 23 rockets + 4 x 250/50 kg G.P. bombs (1,000 kg total)
+* 55 x SNEB type 23 rockets + 2 x 250/50 kg G.P. bombs + 12 x T10 151 rockets (500 kg total)
+* 55 x SNEB type 23 rockets + 12 x T10 151 rockets + 2 x 500/50 kg G.P. bombs (1,000 kg total)
+* 93 x SNEB type 23 rockets + 2 x 250/50 kg G.P. bombs (500 kg total)
+* 93 x SNEB type 23 rockets + 2 x 500/50 kg G.P. bombs (1,000 kg total)
 * 76 x SNEB type 23 rockets
-* 38 x SNEB type 23 rockets + 2 x 250 kg 250/50 kg G.P. bombs (500 kg total)
-* 38 x SNEB type 23 rockets + 2 x 500 kg 500/50 kg G.P. bombs (1,000 kg total)
+* 38 x SNEB type 23 rockets + 2 x 250/50 kg G.P. bombs (500 kg total)
+* 38 x SNEB type 23 rockets + 2 x 500/50 kg G.P. bombs (1,000 kg total)
 * 24 x T10 151 rockets
-* 12 x T10 151 rockets + 2 x 250 kg 250/50 kg G.P. bombs (500 kg total)
-* 12 x T10 151 rockets + 2 x 500 kg 500/50 kg G.P. bombs (1,000 kg total)
+* 12 x T10 151 rockets + 2 x 250/50 kg G.P. bombs (500 kg total)
+* 12 x T10 151 rockets + 2 x 500/50 kg G.P. bombs (1,000 kg total)
 * 55 x SNEB type 23 rockets
 * 93 x SNEB type 23 rockets
 * 55 x SNEB type 23 rockets + 12 x T10 151 rockets

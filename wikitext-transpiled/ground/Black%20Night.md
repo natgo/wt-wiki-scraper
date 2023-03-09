@@ -147,7 +147,7 @@ Where playing at range is not an option, such as urban maps, care should be take
 
 '''Pros:'''
 
-* Has a highly effective APS (Active Protection System) which can defend ATGMs 
+* Has a highly effective APS (Active Protection System) which can defend against ATGMs 
 * It has 20 smoke grenades with 4 salvos
 * The Black Night has modern thermal systems equipped in the gunner view and commander view with a high resolution
 * It comes equipped with a laser warning system which can give an idea of where an enemy might be attacking from
@@ -190,3 +190,4 @@ Rheinmetall's proposal was revealed in January 2019, featuring the Rh 120 mm L/5
 * ''other literature.''
 
 {{Britain medium tanks}}
+[[Category:Ground vehicles with active protection system]]

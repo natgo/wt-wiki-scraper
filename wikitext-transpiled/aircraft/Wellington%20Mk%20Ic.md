@@ -99,7 +99,7 @@ The sneaky approach, on the other hand, relies less on speed, but on surviving t
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|G.P. Mk.I (1,000 lb)|H.C. 4,000 lb Mk.II (4,000 lb)|18 inch Mark XII (450 mm)}}
+{{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|G.P. Mk.I (1,000 lb)|H.C. Mk.II (4,000 lb)|18 inch Mark XII (450 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
@@ -108,7 +108,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 9 x 500 lb G.P. Mk.IV bombs (4,500 lb total)
 * 2 x 1,000 lb G.P. Mk.I bombs + 6 x 250 lb G.P. Mk.IV bombs (3,500 lb total)
 * 2 x 18 inch Mark XII torpedoes
-* 1 x H.C. 4,000 lb Mk.II bomb (4,000 lb total)
+* 1 x 4,000 lb H.C. Mk.II bomb (4,000 lb total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}

@@ -145,11 +145,10 @@ Sadly, while the Leopard 1A5 performs great at longer ranges, its performance is
 * Has access to the powerful DM33 round
 * Has access to generation 1 gunner thermals
 * Excellent mobility
-* Turret angles can occasionally cause shots to ricochet
 
 '''Cons:'''
 
-* Armour doesn't offer much against any kinetic rounds
+* Armour doesn't offer much protection
 * Low survivability when hit
 * Weak armour overall
 
@@ -170,6 +169,7 @@ Sadly, while the Leopard 1A5 performs great at longer ranges, its performance is
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Leopard 1 (Family)]]
 
 == External links ==

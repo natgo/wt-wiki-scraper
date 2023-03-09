@@ -102,6 +102,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 4 x 500 lb AN-M64A1 bombs (2,000 lb total)
 * 1 x 1,000 lb AN-M65A1 bomb (1,000 lb total)
 
+Both loads with 500 lb bombs contain in total a higher TNT equivalent than a single 1,000 lb bomb. This makes that single 1,000 lb bomb suitable only against heavily armored targets in naval mode. Against most of the targets (including destroyers and strategic bases) a multi-bomb load outs are superior. An alternative would be to use the {{Specs-Link|f6f-5_france}} (BR {{#unit:f6f-5_france|br}}), the {{Specs-Link|sb2c_5_france}} (BR {{#unit:sb2c_5_france|br}}), or the {{Specs-Link|douglas_ad_4_france}} (BR {{#unit:douglas_ad_4_france|br}}) instead, as they all offer comparable or better loads.
+
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->

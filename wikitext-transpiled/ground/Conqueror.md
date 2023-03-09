@@ -162,7 +162,7 @@ As usual, keep in mind that the vehicle's sides and lower front plate are partic
 
 '''Pros:'''
 
-* APDS round is extremely powerful and accurate, with a maximum of 362 mm of penetration at 10 m/0°
+* APDS round is extremely powerful and accurate
 * HESH ammo may have surprising results, and can prove particularly effective against light or side armour
 * The L1A2 cannon is fully two-plane stabilised, allowing it to be fired accurately on the move
 * Coaxial machine gun has ballistic performance similar to the HESH round and may be used for ranging

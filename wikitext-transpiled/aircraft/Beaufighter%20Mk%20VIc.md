@@ -122,12 +122,14 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|18 inch Mark XII (450 mm)}}
+{{main|M.C. Mk.I (250 lb)|M.C. Mk.I (500 lb)|18 inch Mark XII (450 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * Without load
 * 1 x 450 mm 18 inch Mark XII torpedo
+* 2 x 250 lb M.C. Mk.I bombs (500 lb total)
+* 2 x 500 lb M.C. Mk.I bombs (1,000 lb total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
@@ -177,9 +179,8 @@ Enemies to be aware of are nimble fighters like [[Bf 109 (Family)|Bf 109s]] and 
 
 * Poor acceleration and top speed in level flight
 * Mediocre turn and climb rates
-* No bombs; can only carry one torpedo
 * Cannons jam quickly and are inaccurate when stock
-* The one defensive machine gun turret is very weak and will not reliably defend the aircraft 
+* The one defensive machine gun turret is very weak and will not reliably defend the aircraft
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

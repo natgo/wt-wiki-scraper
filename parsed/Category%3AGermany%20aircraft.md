@@ -409,6 +409,8 @@
 |
 {{Tree-Unit|mig_23bn}}
 | style="border-left: solid 1px #cccccc;" |
+{{Tree-Unit|hunter_f58_switzerland}}
+{{Tree-Skip}}
 {{Tree-Unit|mig-21_sps_k}}
 {{Tree-Skip}}
 |
@@ -442,6 +444,8 @@
 {{Tree-Skip}}
 |
 {{Tree-Unit|mig_23mla}}
+{{Tree-Arrow}}
+{{Tree-Unit|mig_29_9_12_germany}}
 {{Tree-Skip}}
 |
 {{Tree-Unit|tornado_ids_de_assta1}}

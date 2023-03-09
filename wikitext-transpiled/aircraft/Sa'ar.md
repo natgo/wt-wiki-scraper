@@ -134,7 +134,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
 {{main|LDGP Mk 81 (250 lb)|100/50 kg G.P. (100 kg)|LDGP Mk 82 (500 lb)|250/50 kg G.P. (250 kg)}}
-{{main|360/50 kg G.P. (360 kg)|500/50 kg G.P. (500 kg)}}
+{{main|360/50 kg G.P. (360 kg)|500/50 kg G.P. (500 kg)|Mk.2 incendiary}}
 {{main|Shafrir 2|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
@@ -163,6 +163,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 32 x Zuni Mk32 Mod 0 ATAP rockets
 * 32 x Zuni Mk32 Mod 0 ATAP rockets + 2 x Shafrir 2 missiles
 * 2 x Shafrir 2 missiles
+* 4 x Mk.2 incendiary bombs
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

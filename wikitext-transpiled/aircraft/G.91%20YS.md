@@ -153,7 +153,8 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)|AIM-9B Sidewinder|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP}}
+{{main|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)|Aerea 559G1 incendiary}}
+{{main|AIM-9B Sidewinder|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
@@ -165,18 +166,22 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 76 x FFAR Mighty Mouse rockets
 * 16 x Zuni Mk32 Mod 0 ATAP rockets
 * 2 x AIM-9B Sidewinder missiles
+* 2 x Aerea 559G1 incendiary bombs
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
-| rowspan="7" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
 ! 500 lb LDGP Mk 82 bombs
 | || 1 || 1 || 1 || 1 ||
 |-
 ! 1,000 lb LDGP Mk 83 bombs
 | || 1 || 1 || 1 || 1 ||
+|-
+! Aerea 559G1 incendiary bombs
+| || || 1 || 1 || ||
 |-
 ! FFAR Mighty Mouse rockets
 | || 19 || 19 || 19 || 19 ||
@@ -187,7 +192,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 ! AIM-9B Sidewinder missiles
 | 1 || || || || || 1
 |-
-| colspan="7" | Maximum permissible weight imbalance: 800 kg
+| colspan="7" | Maximum permissible loadout weight: 1,815 kg<br>Maximum permissible wing load: 1,000 kg<br>Maximum permissible weight imbalance: 800 kg
 |-
 |}
 

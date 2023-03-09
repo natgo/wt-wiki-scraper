@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French jet bomber {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French jet bomber {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]] as a premium pack but was removed from the Gaijin store after the [[wt:en/news/8046-shop-war-thunder-winter-sale-en|2022 "Winter sale"]].
 
 == General info ==
 === Flight performance ===

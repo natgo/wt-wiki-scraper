@@ -5,11 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese jet fighter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The J-6A (Chinese: 歼-6甲型歼击机; Type 59 Interceptor 五九式歼击机 before new naming), sharing the NATO codename of "Farmer" with its [[MiG-19 (Family)|Soviet counterpart]] since it was a licensed build of the MiG-19 series, was the main fighter jet of the PLAAF since the early 1960s. As the first country to build supersonic jets in Asia, the J-6 and its different variants were in service with the PLAAF for nearly 4 decades before they were finally replaced by new jets. Although already deemed obsolete by the time the F-104 and MiG-21 series joined their respective air forces, the J-6 scored some victories over the ROCAF and US(N)AF against their jets and drones, as well as overseas victories by other users. The jet also served as a platform of different prototypes, and was the predecessor of the Nanchang [[Q-5 (Family)|Q-5]], with 60% of the parts interchangeable.
 
-Largely identical to the Soviet [[MiG-19PT]], the J-6A is the first supersonic PLAAF jet available in the Chinese tech tree and has much to offer; radar, air-to-air missiles, and powerful guns in addition to high speed and acceleration. The only physical difference between it and the MiG-19PT is the relocated braking parachute, which is now placed at a bulge on the base of the rudder instead of underneath the engines.
-
-Compared to the [[F-100A (China)|F-100A]], its Taiwanese counterpart across the strait, the J-6A flies much better but has inferior suspended weapons. The J-6A's meagre selection of small bombs and rockets may be disappointing in combined battles. Still, pilots who practice with this plane or are used to its Soviet version can pose a major threat to enemy fighters. Despite having a lower top speed than many of the aircraft it encounters, the J-6A's excellent acceleration and relatively good manoeuvrability let it punch above its weight when flown carefully.
+Introduced to the game alongside the Chinese tech tree in [[Update 1.91 "Night Vision"]], the J-6 plays identically to the MiG-19PT previously introduced about a year earlier. The immense acceleration paired with its firepower strike fear in subsonic jets that cannot chase it; but do beware of its subpar manoeuvrability at transonic speeds where it will have a hard time pulling out from dives. Although it can face more advanced jets such as [[MiG-21 (Family)|MiG-21s]] and [[F-4 Phantom II (Family)|Phantoms]], if players are able to lure them into a dogfight, the 30 mm cannons will never disappoint as they can tear down enemy targets with ease; alternatively, the PL-2 missiles can also prove effective if they have used up all their energy/flares to escape from the inevitable.
 
 == General info ==
 === Flight performance ===
@@ -232,6 +230,7 @@ At present, the J-6 has been retired by most of its users, with North Korea havi
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mig-19j_6a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -240,6 +239,7 @@ At present, the J-6 has been retired by most of its users, with North Korea havi
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[MiG-19 (Family)]]
 
 == External links ==

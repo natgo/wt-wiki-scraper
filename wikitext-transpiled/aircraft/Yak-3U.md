@@ -58,7 +58,7 @@ The Yak-3U is the pinnacle of the Yakovlev piston engine fighter design, combini
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 710<!--{{Specs|destruction|body}}--> || {{Specs|destruction|gear}} || N/A || N/A || 280 || ~12 || ~9
+| 700<!--{{Specs|destruction|body}}--> || {{Specs|destruction|gear}} || N/A || N/A || 280 || ~12 || ~9
 |-
 |}
 

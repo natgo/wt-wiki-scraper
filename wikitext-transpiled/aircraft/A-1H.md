@@ -1,6 +1,7 @@
 {{Specs-Card
 |code=douglas_a_1h
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|market=id50201_a_1h_usa
 }}
 
 == Description ==
@@ -92,7 +93,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
 {{main|LDGP Mk 81 (250 lb)|AN-M57 (250 lb)|LDGP Mk 82 (500 lb)|AN-M64A1 (500 lb)|M117 cone 45 (750 lb)}}
-{{main|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)|BLU-1 incendiary|MK 77 mod 2 incendiary}}
+{{main|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)|BLU-1 incendiary|Mk 77 mod 2 incendiary}}
 {{main|FFAR Mighty Mouse|HVAR|Zuni Mk32 Mod 0 ATAP|M134 Minigun (7.62 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
@@ -109,7 +110,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 3 x 750 lb M117 cone 45 bombs (2,250 lb total)
 * 3 x 1,000 lb LDGP Mk 83 bombs (3,000 lb total)
 * 3 x 2,000 lb LDGP Mk 84 bombs (6,000 lb total)
-* 11 x MK 77 mod 2 incendiary bombs
+* 11 x Mk 77 mod 2 incendiary bombs
 * 2 x BLU-1 incendiary bombs
 * 8 x 7.62 mm M134 Minigun machine guns (1,500 rpg = 12,000 total)
 
@@ -145,7 +146,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 ! BLU-1 incendiary bombs
 | || || || || || || 1 || || 1 || || || || || ||
 |-
-! MK 77 mod 2 incendiary bombs
+! Mk 77 mod 2 incendiary bombs
 | || 1 || 1 || 1 || || 1 || 1 || 1 || 1 || 1 || || 1 || 1 || 1 ||
 |-
 ! FFAR Mighty Mouse rockets
@@ -166,7 +167,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The A-1H can perform well in battles at its BR, either in a CAS role with 30 x 250 lb bomb capacity, 228 x FFAR rockets and 11 x MK 77 mod 2 incendiary bombs. Once the ordnance is expended, it can also perform decently as a fighter since it has flares, which allows for it to be used in higher tier battles. 
+The A-1H can perform well in battles at its BR, either in a CAS role with 30 x 250 lb bomb capacity, 228 x FFAR rockets and 11 x Mk 77 mod 2 incendiary bombs. Once the ordnance is expended, it can also perform decently as a fighter since it has flares, which allows for it to be used in higher tier battles. 
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -217,7 +218,7 @@ The A-1H can perform well in battles at its BR, either in a CAS role with 30 x 2
 * [https://live.warthunder.com/feed/camouflages/?vehicle=douglas_a_1h Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|NxhYLDgeMOE|'''Battle Pass: Smell of Victory''' discusses the {{PAGENAME}} at 02:23 - ''War Thunder Official Channel''|cIV-3ekwmq8|'''The Shooting Range #327''' - ''Metal Beasts'' section at 00:27 discusses the {{PAGENAME}}.}}
+{{Youtube-gallery|R3ZIU3VGkOE|'''A-1H Skyraider: A Basic Review''' - ''Tims Variety''|NxhYLDgeMOE|'''Battle Pass: Smell of Victory''' discusses the {{PAGENAME}} at 02:23 - ''War Thunder Official Channel''|cIV-3ekwmq8|'''The Shooting Range #327''' - ''Metal Beasts'' section at 00:27 discusses the {{PAGENAME}}.}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

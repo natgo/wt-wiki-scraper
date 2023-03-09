@@ -138,7 +138,8 @@ A focus should be done on the engine modules, as the G.91 lives by its T/W ratio
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M64A1 (500 lb)|AA-20 Nord|AS-20 Nord|FFAR Mighty Mouse|M3 Browning (12.7 mm)}}
+{{main|AN-M64A1 (500 lb)|Aerea 559G1 incendiary}}
+{{main|AA-20 Nord|AS-20 Nord|FFAR Mighty Mouse|M3 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
@@ -147,6 +148,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 4 x 12.7 mm M3 Browning machine guns + 38 x FFAR Mighty Mouse rockets
 * 2 x 12.7 mm M3 Browning machine guns + 2 x AS-20 Nord missiles
 * 2 x 12.7 mm M3 Browning machine guns + 2 x AA-20 Nord missiles
+* 4 x 12.7 mm M3 Browning machine guns + 2 x Aerea 559G1 incendiary bombs
 
 The M3 Browning is a new weapon in the Italian arsenal at this 5th tier and compared to the previous experiences a letdown. The rate of fire is phenomenal, but the small calibre and ammo size put a serious damper to the mood, that is in comparison of course. In practice and with good aim, it can easily shred four fighters. The high bullet velocity and fire rate is quite the advantage in the fast-paced world of jet combat, ensuring hits in deflection shots where the lower rate of fire found in the [[:Category:Fifth_rank_aircraft|Soviet jet fighters]] might have failed the pilot.
 

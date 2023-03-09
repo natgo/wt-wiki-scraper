@@ -7,7 +7,8 @@
 
 {{Tree-Line|I Rank}}
 |
-{{Tree-Skip}}
+{{Tree-Unit|ro_44}}
+{{Tree-Arrow|2}}
 |
 {{Tree-Group|cr_32_group|CR.32|
   {{Tree-Unit|cr_32}}
@@ -154,7 +155,9 @@
 {{Tree-Arrow}}
 |
 {{Tree-Unit|sm_92}}
-{{Tree-Arrow|2}}
+{{Tree-Arrow}}
+{{Tree-Unit|p-47d_30_italy}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|p_108b_serie2}}
 | style="border-left: solid 1px #cccccc;" |

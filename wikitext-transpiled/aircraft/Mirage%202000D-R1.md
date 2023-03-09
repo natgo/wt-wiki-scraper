@@ -227,7 +227,7 @@ The 2000D was involved with many different conflicts, primarily in Africa and th
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mirage_2000d_r1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|UtpM_1j4G0c|'''The Shooting Range #338''' - ''Metal Beasts'' section at 00:25 discusses the {{PAGENAME}}.}}
+{{Youtube-gallery|UtpM_1j4G0c|'''The Shooting Range #338''' - ''Metal Beasts'' section at 00:25 discusses the {{PAGENAME}}.|Tg7U16FE_eo|'''Mirage-2000D R1: A Basic Review''' - ''Tims Variety''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

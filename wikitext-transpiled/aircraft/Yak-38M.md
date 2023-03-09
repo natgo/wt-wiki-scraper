@@ -296,7 +296,7 @@ File:Yak-38M WTWallpaper 004.jpg|
 </gallery>
 
 ;Videos
-{{Youtube-gallery|1yFd8lx7vQI|'''Yakovlev Yak-38 Soviet Naval Aviation''' - ''yolkhere''}}
+{{Youtube-gallery|Mc4zh0r8g64|'''Yak-38M: A Detailed Review''' - ''Tims Variety''|1yFd8lx7vQI|'''Yakovlev Yak-38 Soviet Naval Aviation''' - ''yolkhere''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

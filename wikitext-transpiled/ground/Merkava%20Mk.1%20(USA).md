@@ -160,17 +160,17 @@ Their penetration statistics are standard for their calibre.
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-The Merkava Mk.1 have BR 9.0 in AB and 8.7 in BR and SB. In this BR range, the Merkava will face some strong enemies. Although the Merkava is designed for maximum crew survivability, but don't trust completely on that. Between the armour plates sits your engine, transmission and fuel tank, these modules can absorb some damage, but in return you will lose mobility completely or catch on fire sometimes.
+At its BR, the Merkava will face some strong enemies. Although the Merkava is designed to maximize crew survivability, don't entirely rely on it. Between the armour plates sits your engine, transmission and fuel tank. These modules can absorb some damage, but in return you will lose mobility completely or even catch on fire.
 
-The gun carried by the Merkava is familiar to all top rank tank commanders: 105 mm Sharir cannon which is a modified version of the British L7 gun. The shells it fire is also quite promising. When stock it can fire M152 HEATFS shell instead of the normal APDS shell. After research tankers can fire the powerful M111 APFSDS shell. This shell can penetrate most same-tier enemies the Merkava might face. When facing up-tier enemies, play more as a support role since you can only shoot weak spots of your enemies' front.
+The gun carried by the Merkava is familiar to all top rank tank commanders: 105 mm Sharir cannon which is a modified version of the British L7 gun. The shells it fires are quite promising. When stock, it can fire M152 HEATFS shell instead of the normal APDS shell. After research tankers can fire the powerful M111 APFSDS shell. This shell can penetrate most enemies the Merkava might face. When uptiered, play more as a support role since you can only shoot weak spots of your enemies' front.
 
-The mobility of the Merkava Mk.1 is not so good by MBT standard. Teammates and enemies will arrive places you normally go faster than you. Be careful when you approaching the front line, there might be enemies nearby! Due to the mobility, it is recommend again to play as a support role. It will be easier to protect the side of your team from enemies' flank.
+The mobility of the Merkava Mk.1 is subpar by MBT standards. Teammates and enemies will both move faster than you, so keep that in mind. Be careful when you approaching the front line, as enemies may already be waiting to ambush you. Due to the poor mobility, it is recommend again to play as a support tank. You can also play as a flank guard, as you can easily defeat light tanks.
 
 In terms of threats:
 
-* Be careful for most MBTs firing kinetic rounds.
-* Leopards /Type 74 /OF-40: They carry the same gun as the Merkava, have almost the same rounds, but much faster. Their mobility makes them a big threat to the whole team when flanking. They are easy to kill due to weak armour.
-* AMX-30B2 BRENUS: It has better mobility than the Merkava, it also have ERA which can cause trouble for players which have not yet research the M111 round. Stay back, tell your teammates, and let them finish it. It will be much easier to deal if you have the M111 round.
+* Be careful for most MBTs that fire kinetic rounds.
+* Leopards /Type 74 /OF-40: They carry the same gun as the Merkava, have similar ammunition, but are much faster. Their mobility makes them a threat when flanking. They are easy to kill due to weak armour.
+* AMX-30B2 BRENUS: It has better mobility than the Merkava and ERA, which can cause trouble for players which have not yet research the M111 round. Stay back, tell your teammates, and let them finish it. It will be much easier to deal if you have the M111 round.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -178,20 +178,17 @@ In terms of threats:
 '''Pros:'''
 
 * Armour is surprisingly effective, due to it being multi-layered
-* Sometimes capable of just driving into the capture point, as if it doesn't care
-* Has weapons and ammunition similar to the [[Centauro I 105]], which is enough for most encounters
 * Different ammunition types are cheap to use
-* ATGMs may have problems destroying this vehicle, as well as small rockets and HESH
+* ATGMs, rockets, and HESH rounds may have problems destroying this vehicle
 
 '''Cons:'''
 
 * APFSDS does not care about module-based protection and will go straight through the entire vehicle
-* Second layer of defence has a lot of openings, which can be exploited with side shots so the vehicle cannot be angled a lot
-* Turret ring and middle rear weak spots compromise vehicle's defences and make it vulnerable to APHE at close ranges
-* Side hull armour is weak, can be destroyed by light tanks with +30 mm cannons, obversely, default ammo usually fails to penetrate
-* In up-tier, it's going to be slower than most of the adversaries
-* Can be simply burned, if it cannot be destroyed normally
-* Thermal signature is in the front of the tank, that make you easy to be seen by thermal sight
+* Second layer of defence has a lot of openings, which can be exploited with side shots so the vehicle cannot be angled effectively
+* Turret ring and middle rear weak spots compromise vehicle's defences, making it vulnerable to APHE at close ranges
+* Side hull armour is weak, can be destroyed by light tanks with +30 mm cannons
+* Slow for its tier, made worse in uptiers
+* Thermal signature is in the front of the tank, that make you very visible on thermals
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian medium tank {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian medium tank {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]]. The C1 Ariete PSO is one of the MBT players unlock before researching the C1 Ariete production which has access to the WAR add-on armour kit. The C1 Ariete was developed by OTO Melara during the late cold war to allow the Italian army to equip itself with a modern tank which could easily deal with Yugoslav and Warsaw pact tanks. The C1 Ariete PSO is sadly one of the slowest variant in the C1 Ariete family of vehicles. That is due to the fact that it has add-on armour kit surrounding the sides of the hull and turret, this add-on armour package will aid you in many ways, you will be able to handle most low level autocannon fire from enemies from the BMP family and at times even some APFSDS rounds. The tank can be effective when in use by a player who can work around its lackluster mobility and relatively weak frontal protection. It can also be a great back up for your top tier lineup if you choose to bring more than 1 variant of the C1 Ariete.
 
 == General info ==
 === Survivability and armour ===
@@ -62,7 +62,7 @@ While the Ariete starts off like most other high BR vehicles with HEATFS, that c
 |}
 
 ==== Ammunition ====
-{{:OTO Breda 120/44 (120 mm)/Ammunition|DM12A1, DM33, CL3143}}
+{{:OTO Breda 120/44 (120 mm)/Ammunition|DM12A1, DM33, DM53}}
 
 ==== [[Ammo racks]] ====
  [[File:Ammoracks_Ariete_(P).png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -105,7 +105,7 @@ Notes:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Ariete won't win any races with its mobility but it has the firepower to back it up. The Ariete can sit back and use its powerful APFSDS to take care of enemies at range to make up for its rather lacklustre armour for a top BR vehicle. The Ariete you can also play it aggressive but be warned! The Ariete doesn't have any composite armour on the front of the hull, only spaced armour on the upper plate. When playing aggressive you need to rely on fast reflexes otherwise there is a good chance that the 1st hit from a enemy will cripple you or knock you out of battle.
+The C1 Ariete PSO has access to a decent round, the DM53 which is able to take care of most top tier MBT's it will face. This specific Ariete has the PSO armour installed, which depending on the angle of the shot, can also protect itself against some 125 mm APFSDS and the majority of low level IFV autocannon fire. Due to the kit which you cannot remove, the Ariete PSO won't win any races with its mobility especially when compared to other NATO MBT's. The best playstyle for the Ariete PSO especially when you are just starting out with it, would be more a supportive one which involves flanking manoeuvres or to stick with your better armoured teammates who can withstand hits from enemy tanks such as Leopard 2A6's. Since the Ariete PSO is one of the weakest top tier MBTs for its battle rating, it is advised to keep your distance and try pick enemies from far away, the PSO can easily sit back and use its powerful DM53 APFSDS round to take care of enemies at range with one hit if you aim right. One great plus about the PSO is that if you are deciding to snipe and an enemy vehicle takes you by suprise, the PSO armour can actually be very useful, it can protect you against a multitude of ATGM's and can negate most autocanon fire. If you are lucky you will have enough time to react and take care of the enemy, most top tier MBT weak spots are present at the lower front of the vehicle. If you manage to flank the enemy team, go for the sides or where the ammunition is stored as that also will usually get rid of an enemy quickly. When playing aggressive you need to rely on fast reflexes otherwise there is a good chance that the 1st hit from a enemy will cripple you or knock you out of battle. The Ariete PSO also has an additional PSO modification but it really doesn't change much so it is not needed. The Ariete PSO also has access to commanders thermals, something the previous vehicle (Ariete (P)) does not have. This will be one of the most useful items in your arsenal and will allow you to better spot enemies from behind cover, as well as quickly engage and disengage without exposing yourself long enough for the enemy to see you coming. If you can master this technique, you'll be able to still be useful despite technically being at a disadvantage when compared to other MBT's. Remember that in Arcade Battles, enemies can easily find out where you are with your name tag and where your weak spots are. 
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -118,7 +118,11 @@ The Ariete won't win any races with its mobility but it has the firepower to bac
 * Fast turret traverse
 * Second generation CITV and gunner's sights
 * High reverse speed
+
 * Another additional roof mounted Beretta MG42 to ward of enemy helicopters
+
+* Decent FOV and zoom levels
+* Access to DM53
 
 '''Cons:'''
 
@@ -126,9 +130,8 @@ The Ariete won't win any races with its mobility but it has the firepower to bac
 * Large lower glacis
 * Least armoured MBT in the game
 * PSO Tipo 2 doesn't really offer any substantial differences or advantages over the regular PSO armour pack
-* Russian tanks with Kontakt-5 armour are capable of stopping CL3143 in certain places and will need careful aiming
+* Russian tanks with Explosive Reactive Armour are capable of stopping DM53 in certain places and will need careful aiming
 * Huge ammorack next to the driver
-* Narrow FOV and low levels of zoom for the gunner's sight
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -144,6 +147,7 @@ In terms of future upgrades, one is in the works, known as the C1 Ariete AMV, st
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_c1_ariete_pso Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -155,11 +159,13 @@ In terms of future upgrades, one is in the works, known as the C1 Ariete AMV, st
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[Ariete (Family)|Related development]]
+
 * [[Ariete (P)]]
 * [[Ariete]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

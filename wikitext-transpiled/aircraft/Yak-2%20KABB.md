@@ -18,7 +18,7 @@ The {{PAGENAME}} finds itself in an excellent position as a rank I aircraft as e
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
-The {{PAGENAME}} has great manoeuvrability, especially when it comes to low altitude flying, though, it also performs well at mid-altitudes too. It can be used as a great low-altitude ground-attack heavy fighter which can focus its four bombs and cannon/machine gun combination on light vehicles and anti-aircraft instalments. The turn rate is very good, which allows the {{PAGENAME}} to compete easily with some fighters can outperform other heavy fighters such as those from the Potez 630 family.
+The {{PAGENAME}} has great manoeuvrability, especially when it comes to low-altitude flying, and also performs well at mid-altitudes too. It can be used as a great low-altitude ground-attack heavy fighter which can focus its four bombs and cannon/machine gun combination on light vehicles and anti-aircraft instalments. The turn rate is very good, which allows the {{PAGENAME}} to compete easily with some fighters can outperform other heavy fighters such as those from the Potez 630 family.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics

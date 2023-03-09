@@ -19,10 +19,9 @@ This Panzer IV is a Ausf. J variant. The biggest difference with the German [[Pz
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-<!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+<!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->'''Armour type: RHA- rolled homogenous armor'''
 
-'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
+If you stay mobile and far from adversaries, or stay in a hulldown position for sniping, the Pz IV is survivable. In urban and CQC situations, unless in a downtier, survivability is lower than other medium tanks at 3.7 BR.  <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
 
@@ -30,11 +29,11 @@ This Panzer IV is a Ausf. J variant. The biggest difference with the German [[Pz
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 80 mm || 30 mm || 20 mm || ___ - ___ mm
+| Hull || 80 mm || 30 mm || 20 mm || 12 - 16 mm
 |-
-| Turret || 50 mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || 30 mm || 30 mm || ___ - ___ mm
+| Turret || 50 mm ''Turret front'' <br> 50 mm ''Gun mantlet'' || 30 mm || 30 mm || 16 - 25 mm
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Cupola || 50 mm || 50 mm || 50 mm || 8 mm
 |-
 |}
 
@@ -68,10 +67,10 @@ The turret traverse speed is slow since it is rotated manually.
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 87 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | N/A || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 87 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | N/A || 11.0 || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 6.9 || 8.1 || __._ || __._ || __._
 |-
 |}
 
@@ -165,12 +164,13 @@ Although any tank of Rank III can destroy the Panzer IV pretty quickly, the tank
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+The Finnish bought 15 '''''Panzerkampfwagen'' IV''' ('''Pz.Kpfw. IV''') in 1944, and another 40 Pz IV and StuG III, but only the first 15 arrived. Unfortunately they arrived too late to combat the soviets, but they were used against the Nazi during the Lapland retreat. After the war the Pz Iv (or as known to the Finns, Pzkw IV Ausf. J) was used in movies and as training vehicles.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sw_pzkpfw_IV_ausf_J Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

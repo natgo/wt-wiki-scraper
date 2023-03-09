@@ -139,14 +139,12 @@ Although the Leopard 2K is somewhat weak when stock, it is an adequate frontline
 '''Pros:'''
 
 * 120 mm gun with effective rounds
-* 20 mm cannon very effective against light armour, cannon barrels, and helicopters
 * Most manoeuvrable Leopard model
 * Very high torque
 * Very fast even cross country, even faster on roads.
 * Can actually reach top speed on flat grounds
 * Can move in reverse as fast as it can move forward
 * Has the best optics of all tanks in game with 8x-16x zoom level
-* Best optics and laser rangefinder makes it an excellent sniper
 
 '''Cons:'''
 
@@ -158,10 +156,10 @@ Although the Leopard 2K is somewhat weak when stock, it is an adequate frontline
 * Limited ammo selection
 * Requires skill to fully utilize its potential
 * You need to invest some skill points on the driver to actually benefit from its mobility
-* The 20mm is unstabilized, and has poor turning rates
-* The 20mm has HVAP-T(APCR) as ammo, thus it has very poor post-pen damage
+* The 20 mm is unstabilized, and has poor turning rates
+* The 20 mm has HVAP-T(APCR) as ammo, thus it has very poor post-penetration damage
 * Other contemporary MBTs can be faster or almost as fast as the Leopard 2k
-* 
+* Lack of thermal sights limits the sniping capability of the tank
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -171,7 +169,7 @@ But development problems plagued the MBT-70 project, and it appeared that the ve
 
 Instead of ordering the development of a new tank, the German government issued an order to the Porsche company to research ways to improve the Leopard I tank already in service with the German army. This enabled Germany to research a more advanced fighting vehicle without breaching the contract signed with the US.
 
-Porsche's first study of the Leopard I revealed a lot of room for improvement, and second study focusing on upgrading the Leopard I to match the MBT-70's firepower was launched almost immediately. This eventually resulted in the construction of two prototype vehicles—one in 1969 and one in 1970—nicknamed Keiler (tusker).
+Porsche's first study of the Leopard I revealed a lot of room for improvement, and second study focusing on upgrading the Leopard I to match the MBT-70's firepower was launched almost immediately. This eventually resulted in the construction of two prototype vehicles: one in 1969, and one in 1970 nicknamed Keiler (tusker).
 
 In the early 1970s, Germany was able to back out of the MBT-70 project due to spiraling development costs. Instead, they continued work on the development of the Keiler, which was renamed to Leopard 2.
 
@@ -187,6 +185,7 @@ Sixteen out of seventeen Leopard 2 prototypes were built and tested, yielding ma
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_leopard_2k Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

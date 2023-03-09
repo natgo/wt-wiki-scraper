@@ -148,6 +148,14 @@ The T-72AV is a modernized version of the Soviet-made main battle tank T-72A. Th
 
 The T-72AV (TURMS-T) is a Russian MBT that is the mainstay in long-range engagements as the cannon is accurate at long distances. The recommended combat tactics is to acquire targets from afar with the thermal imager, use the laser rangefinder to achieve a successful hit and engage from the greatest possible distance. Avoid short-range combat at all costs.
 
+While brawling in this tank is workable, it is not ideal. That said, the best way to engage in close-distance or urban fighting will be in a support role. Allow your teammates to push for positions, and help finish off any tanks with which they have trouble. Remember that this tank has an exceedingly slow reverse speed, so your defensive reactivity is very poor. It is best not to be caught off guard, as you will typically lose any 1 on 1 engagement in which you do not fire first.
+
+'''Fighting in a top rank environment'''
+
+If up-tiered to a top rank lineup match, remember that this tank is perfectly capable of destroying most of the enemies it will face. However, it is imperative that you aim for the usual weak spots on the enemy tanks. Most weak points that other Russian high-rank MBTs (such as the T-80U) rely on will still penetrate, even with the technically inferior top APFSDS round. The difference will primarily be in consistency of damage. {{PAGENAME}} players will find themselves firing more than one round into an enemy to reliably destroy them compared to just a single shot in a better, higher-rank tank.
+
+Common headaches will include the likes of the Challanger, Leclerc, and Leopard 2A6 (as well as its derivatives), which will be exceedingly difficult to destroy frontally. In cases such as this, it is best to flank, or pick a different route to the battlefield, as the {{PAGENAME}}'s armour is far too thin to stop top-rank APFSDS rounds effectively. Put simply, the {{PAGENAME}} has an effective gun, average mobility, poor reactivity, and poor survivability. A new player will struggle while using this tank in a top-rank lineup.
+
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 

@@ -140,7 +140,7 @@ If the enemy is approaching directly towards you around 1 km, fire your turrets 
 
 '''British Aircraft''' - While it is mainly uncommon to see one at high altitude, a [[Wyvern S4]] has the capability to intercept you thanks to its extremely powerful engine. In addition, a Wyvern will cut you to shreds as a result of the four 20 mm Mk.V Hispano cannons. In addition, the Hornet will also have the capability to intercept you. Perhaps the biggest threats lie with the Griffon Spitfires, especially the Mk. 22 and Mk. 24 variants. Also, keep your eyes peeled for the Tempest fighters.
 
-'''Japanese Aircraft''' - The Ki-87 is probably the single greatest threat to you at mid-rank battles due to the hard-hitting weaponry and its turboprop engine. In addition, (unlikely as it could be), the J7W will obliterate your plane due to the four 30 mm cannons in the nose. If not taken care of quickly, later models of the A7M "Reppu" can dispatch you if they have a good enough aim.
+'''Japanese Aircraft''' - The Ki-87 is probably the single greatest threat to you at mid-rank battles due to the hard-hitting weaponry and its turbo-supercharged engine. In addition, (unlikely as it could be), the J7W will obliterate your plane due to the four 30 mm cannons in the nose. If not taken care of quickly, later models of the A7M "Reppu" can dispatch you if they have a good enough aim.
 
 ====Counter-tactics====
 <!--What to expect, if it would be in command of the enemy and how to counter it. (i.e. They will most likely BnZ, etc.)-->

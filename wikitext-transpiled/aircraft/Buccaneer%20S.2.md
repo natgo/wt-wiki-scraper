@@ -192,7 +192,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 ! Large calibre countermeasures
 | 52 || || || || 52
 |-
-| colspan="6" | Maximum permissible loadout weight: 6,833 kg<br>Maximum permissible weight imbalance: 1,500 kg
+| colspan="6" | Maximum permissible weight imbalance: 1,500 kg
 |-
 |}
 

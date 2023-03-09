@@ -104,6 +104,11 @@ Once unlocked, it's recommended to take either three belts of AP rounds, or two 
 | '''3 <br> 180''' || ''Belts''<br>''Rounds'' || 2&nbsp;''(+1)'' <br> 72&nbsp;''(+36)'' || 1&nbsp;''(+2)'' <br> 36&nbsp;''(+72)'' || 0&nbsp;''(+3)'' <br> 0&nbsp;''(+108)'' || No
 |-
 |}
+'''Notes''':
+
+* Ammunition is modelled as 12 boxes of 9 rounds. A belt represents 36 rounds.
+* Since the total ammo count is low, it is recommended to carry the maximum.
+* Playing in the vicinity of an allied capture point will help restock while in-game.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

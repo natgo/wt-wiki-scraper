@@ -16,7 +16,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish medium tank {{Battle-r
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-The armour of the T-54 leaves nothing to be desired. It is one of the strongest frontal plates seen in an early MBT and is able to withstand full calibre solid shots from all nations (Obus de rupture for example, the French solid shot seen in most post war designs such as the [[Lorraine 40t]], [[AMX-50 (Family)|AMX-50]], etc). However, the armour is nonexistent for HEAT and ATGM which are the main ammunition used in 7.7 to 8.7. The tank is practically immune to low calibre autocannon fire with exception of APDS rounds to the sides (seen in [[Warrior]] and [[AMX-30 DCA]]).
+The armour of the T-54 leaves nothing to be desired except for the hull armour. It is one of the strongest frontal plates seen in an early MBT and is able to withstand full calibre solid shots from all nations (Obus de rupture for example, the French solid shot seen in most post war designs such as the [[Lorraine 40t]], [[AMX-50 (Family)|AMX-50]], etc). However, the armour is nonexistent for HEAT and ATGM which are the main ammunition used in 7.7 to 8.7. The tank is practically immune to low calibre autocannon fire with exception of APDS rounds to the sides (seen in [[Warrior]] and [[AMX-30 DCA]]).
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -26,13 +26,9 @@ The armour of the T-54 leaves nothing to be desired. It is one of the strongest 
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 100 mm (60°) ''Front glacis''
-100 mm (54°) ''Lower glacis''
-| ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 100 mm (60°) ''Front glacis'' <br> 100 mm (54°) ''Lower glacis'' || 80 mm || 45 mm (16°) ''Upper'' <br> 30 mm (72°) ''Lower'' || 30 mm ''Front'' <br> 20 mm ''Back''
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
-|-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Turret ||160 mm (14-39°) ''Turret front'' <br> 200 mm (4-78°) ''Gun mantlet'' || 115 mm (45-50°) ''Upper'' <br> 155 mm (10-30°) ''Lower'' || 65 mm (9-35°) || 30 mm
 |-
 |}
 
@@ -56,7 +52,7 @@ As a relatively heavily armoured tank and part of the Soviet doctrine, the mobil
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|D-10T (100 mm)}}
 
-The T-54 has access to the powerful D-10T. As seen in prior vehicles and other vehicles in the tree, the 100 mm is a reliable calibre for all situations with amazing ammunition for all cases. The T-54 (1951) also has access to APDS and HEATFS ammunition for use against everything. Both are impressive ammunition which require little to no practice in terms of use but they do require more trigger discipline and accurate aiming as they make much less spalling that the BR-412D. Despite not having great penetration which will be sort of required when facing heavily armoured targets like the Tiger II, it is able to decimate every vehicle it sees from all angles due to the explosive power. At 7.7 and above, the threats that will be seen (especially Europeans) have little to no armour, able to be easily penetrated by even the BR-412. However, some of the frontal plates of said vehicles are meant to stop the ammunition at certain distances (AMX-30 can stop BR-412 at past 500 m). Using 3BM-8 and 3BK-5 makes frontal engagements easier and with greater results due to the increased armour penetration. But again, they barely cause spalling and will most likely take more than one shot to fully disable and destroy an enemy tank.
+The T-54 has access to the powerful D-10T. As seen in prior vehicles and other vehicles in the tree, the 100 mm is a reliable calibre for all situations with amazing ammunition for all cases. The T-54 (1951) also has access to APDS and HEATFS ammunition for use against everything except Soviet tanks. Both are impressive ammunition which require little to no practice in terms of use but they do require more trigger discipline and accurate aiming as they make much less spalling that the BR-412D. Despite not having great penetration which will be sort of required when facing heavily armoured targets like the Tiger II, it is able to decimate every vehicle it sees from all angles due to the explosive power. At 7.7 and above, the threats that will be seen (especially Europeans) have little to no armour, able to be easily penetrated by even the BR-412. However, some of the frontal plates of said vehicles are meant to stop the ammunition at certain distances (AMX-30 can stop BR-412 at past 500 m). Using 3BM-8 and 3BK-5 makes frontal engagements easier and with greater results due to the increased armour penetration. But again, they barely cause spalling and will most likely take more than one shot to fully disable and destroy an enemy tank.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -67,10 +63,10 @@ The T-54 has access to the powerful D-10T. As seen in prior vehicles and other v
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 34 || rowspan="2" | -4°/+17° || rowspan="2" | ±180° || rowspan="2" | N/A || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 34 || rowspan="2" | -4°/+17° || rowspan="2" | ±180° || rowspan="2" | N/A ||9.52||13.18||16.00||17.69||18.82|| rowspan="2" |11.05|| rowspan="2" |9.78|| rowspan="2" |9.01|| rowspan="2" |8.50
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+|5.95||7.00||8.50||9.40||10.00
 |-
 |}
 
@@ -91,7 +87,7 @@ The T-54 has access to the powerful D-10T. As seen in prior vehicles and other v
 ! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''34''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+|'''34'''||33 ''(+1)''||28 ''(+6)''||24 ''(+10)''||23 ''(+11)''||21 ''(+13)''||1 ''(+33)''||No
 |-
 |}
 
@@ -109,7 +105,7 @@ The T-54 has access to the powerful D-10T. As seen in prior vehicles and other v
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+|Pintle||250 (50)||600||-10°/+60°||±180°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -118,7 +114,7 @@ The T-54 has access to the powerful D-10T. As seen in prior vehicles and other v
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+|Coaxial||3,500 (250)||600||N/A||N/A
 |-
 |}
 
@@ -149,6 +145,7 @@ The T-54 has access to the powerful D-10T. As seen in prior vehicles and other v
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sw_t_54_1951 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -157,6 +154,7 @@ The T-54 has access to the powerful D-10T. As seen in prior vehicles and other v
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[T-54/55 (Family)]]
 
 == External links ==

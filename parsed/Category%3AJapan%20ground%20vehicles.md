@@ -35,6 +35,7 @@
 {{Tree-Unit|jp_type_97_kai_td}}
 {{Tree-Skip}}
 {{Tree-Unit|jp_type_3_ka_chi}}
+{{Tree-Skip}}
 
 {{Tree-Line|II Rank}}
 |
@@ -64,6 +65,7 @@
 {{Tree-Unit|jp_type_1_chi_he_5th_regiment}}
 {{Tree-Skip}}
 |
+{{Tree-Skip}}
 
 {{Tree-Line|III Rank}}
 |
@@ -92,6 +94,7 @@
 {{Tree-Unit|jp_pzkpfw_VI_ausf_e_tiger}}
 {{Tree-Skip}}
 |
+{{Tree-Skip}}
 
 {{Tree-Line|IV Rank}}
 |
@@ -122,6 +125,7 @@
 {{Tree-Unit|jp_type_5_ho_ri_prototype}}
 {{Tree-Skip}}
 |
+{{Tree-Skip}}
 
 {{Tree-Line|V Rank}}
 |
@@ -145,6 +149,7 @@
 {{Tree-Unit|jp_type_75_mlrs}}
 {{Tree-Skip}}
 |
+{{Tree-Skip}}
 
 {{Tree-Line|VI Rank}}
 |
@@ -163,6 +168,7 @@
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|jp_type_74_mod_g_kai}}
 |
+{{Tree-Unit|jp_type_16_mod}}
 
 {{Tree-Line|VII Rank}}
 |

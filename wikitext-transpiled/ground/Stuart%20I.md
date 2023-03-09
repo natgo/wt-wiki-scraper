@@ -93,8 +93,8 @@ The main cannon is only effective in close quarters combat (usually within 200 m
 {{:M5 (37 mm)/Ammunition|M74 shot, M51B1}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks_M3_Stuart.jpg|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated:''' -->
+[[File:Ammoracks_M3_Stuart.jpg|right|thumb|x350px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.23.1.43''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -103,7 +103,7 @@ The main cannon is only effective in close quarters combat (usually within 200 m
 ! 3rd<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''103''' || 69&nbsp;''(+34)'' || 35&nbsp;''(+68)'' || 1&nbsp;''(+102)'' || No
+| '''103''' || 84&nbsp;''(+19)'' || 41&nbsp;''(+62)'' || 1&nbsp;''(+102)'' || No
 |-
 |}
 
@@ -197,6 +197,7 @@ The Stuart light tank design was also quite versatile that it was made into diff
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_m3_stuart Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

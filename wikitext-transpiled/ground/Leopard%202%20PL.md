@@ -199,6 +199,7 @@ File:Leopard 2 PL WTWallpaper 06.jpg|
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
+;[[Leopard 2 (Family)|Related development]]
 * [[Leopard 2A4]]
 
 == External links ==

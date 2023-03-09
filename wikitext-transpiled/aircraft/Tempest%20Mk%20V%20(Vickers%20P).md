@@ -10,12 +10,24 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.37]].
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.37]]. It is a dive fighter refitted to be a tank hunter. Since it's not as well suited for fighting planes, it is designated as attacker instead, with all the priveleges of attacker, such as air spawn. It is also placed much lower in BR than it's fighter equivalent, due to only having anti-tank ammunition and semi-automatic cannons, so the plane currently allows to research through rank V planes while effectively playing against ranks II-III.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!--''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''-->
+
+The Tempest retains its high maximum speed in a straight line and even at its worst will still keep ~516 km/h average speed at ground level. This is generally enough to keep distance from old interceptors and fighters by using WEP and escape towards teammates, even if they dive, as long as the pilot pays attention and leaves before the fight actually starts.
+
+The plane does not like to turn sideways as much as some attackers, even at low speed. With some effort it is possible to correct flight direction a bit, but this will still affect the shell trajectory.
+
+In RB WEP will never ever overheat the engine as long as the plane is not damaged and isn't doing a super dive (which is not expected at altitudes of attacker anyway), so unless damage is expected there is no need to go easy on the plane. The plane also has a very impressive climb rate, so it can gain momentary speed boosts by climbing and dropping back down. When there is only 5 minutes of fuel left and almost no ammo left, the engine will finally start going red, but still at a rate that allows to safely WEP all the way to the airfield with minimal attention required. When water is at 130+ °C the float carburetor seems to becomes more fragile and can spontaneously fail when plane does anything remotely resembling a negative G manoeuvre or a pulls down from any stalls.
+
+Plane can land on the short airfiel by losing speed (by cutting engine down to 30% or even 0, then doing some heavy turns and rolls simultaneously) until it reaches the speed of around 320 km/h, then pulling out landing gear and flaps. After that it can simply go down and land, as the flaps will prevent it from gaining any more speed. The plane should be able to stop before driving out of the airfield by doing a side slide while braking (avoid braking when the back wheel is not on the ground). Plane can lose the back wheel in process if the brake is held for too long while also sliding. If any of the landing flaps were lost, it is better to reduce plane speed to at least 250 km/h and approach the land as low as possible.
+
+The flaps will take damage if used at above ~340 km/h. The combat flaps will reduce average speed but will help the plane pull up at a faster rate, so they can be used when setting up for a second attack dive on the same convoy, or as a last resort when doing a low energy fight.
+
+As per default for the British planes, pilot should never try to do negative G manoeuvres or the engine will immediately choke.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -97,6 +109,12 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Batt
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
+The Tempest has rather mediocre damage retention. It can take some damage on the wings, even as far as losing a tip without falling, but this will heavily reduce its speed and control. The tail is often cut off in a head-on with other attackers, but otherwise can survive a fighter pass or two. Any random damage can damage water and oil cooling, putting the engine in danger of overheating when abusing WEP. 
+
+The weakest part of the Tempest is the engine - even a single 12.7 mm bullet can easily put it out of comission on a lucky hit, making the plane as good as dead. Fortunately, planes with wing-mounted guns rarely hit it, even in a head-on, but some SPAA or back gunners might just focus on it or accidentally hit it instead of a pilot.
+
+If shot from the back caused fire, the plane can still survive by pulling up and doing the stall with landing flaps. With minimal fuel load, sometimes all fuel leaves the plane before it explodes. This by no means ensures survival, as generally this particular Tempest is used next to the ground, but it still can get some RP from landing or waste more of enemy time by simply refusing to succumb to a fire. 
+
 * 44.45 mm Bulletproof glass - Armoured windscreen
 * 16.9 mm Steel - Armour plate in pilot's seat
 
@@ -114,13 +132,35 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 * 2 x 47 mm Vickers P cannons, wing-mounted (36 rpg = 72 total)
 
+The 47 mm on this plane can only be armed with armour piercing rounds. These rounds do not explode and tend to penetrate targets all the way through, if they hit well. It may not destroy some tanks outright, but it will definitely take out half of the crew or set them on fire on a good hit. Ammunition often struggles to penetrate American medium tanks.
+
+Against planes, AP works better when used to snap enemy wings (sometimes fails, as it's not HE-I, but the damage is hard to ignore), hit engines (generally instantly fatal for any plane) or the bomber's bomb cargo (if they had contact fuse installed, the bomber instantly explodes).
+
+The cannons are easier to aim in cockpit perspective when the target doesn't move too much, as the guns are aimed straight at the sight dot. Engine and plane drag affect the shell spread and direction, therefore the guns are never absolutely accurate as long as the thrust is above 70%, but at 800 and 600 m gun convergence the shells fly very predictably. For example, in a head-on with 800 m convergence and WEP on the shells will fly slightly below the dot at ranges above 800 m and at ranges below 800 m they will go to the dot sides.
+
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-This plane with its 2 x 47 mm cannons on each side with only armour piercing ammo (by default) with no other armament is clearly made for the ground attack role. It's definitely not a fighter as the heavy cannons make it very hard to manoeuvre, but once fully modified it has the ability to be the most unstoppable plane in its role. The Tempest Vickers Mk V equipped with the Vickers 47 mm cannons is an absolute tank buster when used correctly. Engaging enemy planes should only be done when they are distracted, and make sure to keep your speed high so that you can disengage by running away.
+This plane with its 2 x 47 mm cannons on each side with only armour piercing ammo (by default) with no other armament is clearly made for the ground attack role. It's definitely not a turn fighter, as the plane is not designed to manoeuvre well, and the price of missing a high calibre shot is way too high, but once fully modified the plane has the ability to be the most unstoppable force in its role.
 
-The Tempest can easily take out any light, medium, and most heavy tanks when the attack is made from the correct angle. You can hit light tanks from any angle, medium tanks from side or rear and you want to take the heavies from the rear. Light pillboxes are also easily destroyed. In addition, 76 rounds may not sound like a lot, but it will more than enough in most circumstances.
+The Tempest Vickers Mk V equipped with the Vickers 47 mm cannons is an absolute tank buster and in Air RB mode can destroy most of the NPC tanks in one hit or deal heavy damage to player tanks in Ground RB when used correctly. Engaging enemy planes is not recommended and preferrably should only be done when they are distracted, to make sure that you can keep your speed high, so that you can disengage by running away. 
 
-The best defence of the Tempest Vickers P is its speed. Almost all of the planes it will face will not be able to match its level flight speed. However, stay alert for enemy planes, because if they come out of a dive, they will be able to catch up to you. If you spot an enemy plane in the distance, start running to friendly aircraft before the enemy gets too close. In a dive, the Tempest can easily reach speeds of close to 800 km/h. In level flight, you will slowly reach about 620 km/h using WEP, and 590 km/h without it (note that these speeds are at sea level). The Tempest will lose a lot of energy in turns, so try to make smooth manoeuvres. Finally, your water and oil will start to overheat after prolonged use of WEP. Going to 100% power will cool your plane down again.
+If enemy plane is confronting you, cannons can also be used in a head-on to destroy almost any enemy plane in a single hit (with at least 3 or 4 attempts before most enemies will actually start dealing fatal damage to you), but you should keep long range gun convergence and practice aim for this a lot, as some enemies will immediately break out of a head-on after seeing 47 mm shells flying just past their face, which is a very bad outcome for you.
+
+The Tempest can easily take out any light, medium, and most heavy tanks when the attack is made from the correct angle. In Ground RB, you can hit light tanks from any angle, some medium tanks from side or rear and you want to take the heavies from the rear. In Air RB, most tanks explode in a single hit, but American medium tanks require side shots or engine fire to be taken out. Light pillboxes are also easily destroyed with about 6 shells (4 shells if they hit exactly at the bright roof portion), which can be done in a single pass. In addition, 76 rounds may not sound like a lot, but it will be more than enough to clean out most, if not all, tanks, assuming pilot does not miss all the time.
+
+The best defence of the Tempest Vickers P is its speed. In Air RB Tempest gets attacker spawn and can rush enemy ground targets under WEP. The only planes that can bother it in the beginning of a match are other attackers, which can be destroyed with a single hit in a head-on. Enemy fighters generally fail to arrive on the scene until Tempest did 2-3 attack runs and already left due to being low on ammo or simply noticing incoming enemies.
+
+When giving chase, many of the enemies Tempest will face will not be able to outmatch its level flight speed and will be forced to take shots at 1 km distance. However, stay alert for enemy planes and make sure that the horizontal distance is never below 2 km, because it will be already too late for a head-on attempt and if they come out of a dive they will be able to catch up to you. If you spot an enemy plane in the distance, start running to friendly aircraft before the enemy gets too close or set up for a head-on. 
+
+In a dive, the Tempest can easily reach speeds of close to 800 km/h. In level flight, you will slowly reach about 620 km/h using WEP, and 590 km/h without it (note that these speeds are at sea level). The Tempest will lose a lot of energy in turns, so try to make smooth manoeuvres. Finally, your water and oil will start to overheat after prolonged use of WEP, so getting in combat after "going orange" if your teammates decided to ditch you would be really bad. Going to 100% power first will cool your plane down again, so you can at least take a hit before accidentally melting the engine.
+
+In air RB, if the map has no tanks or they are very difficult to destroy, Tempest still can hunt attackers (players or NPC planes) or even go out of its way to hunt bombers that are climbing high. Bombers and attackers are very similar to tanks in a way that they don't move too much, but they can shoot back and will destroy your engine if not taken seriously and attacked from as far away as possible.
+
+'''Specific enemies worth noting:'''
+
+[[I-185 (M-82)]], [[La-5]] : almost all players that use these and similar planes will refuse head-ons. They simply know that they have nothing to lose for not playing your game.
+
+[[XP-50]], [[Wyvern S4]] : These premium planes can move around the map as fast as the Tempest. While Wyverns generally mind their own business and rush to bomb bases, the XP-50 is almost guaranteed to dive on you. 
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -144,11 +184,12 @@ The best defence of the Tempest Vickers P is its speed. Almost all of the planes
 
 '''Pros:'''
 
-* 2 x 47 mm guns great at destroying armoured targets
-* Very high-level speed
-* Great manoeuvrability at high speeds
+* 2 x 47 mm guns are great at destroying armoured targets
+* Very high level speed
+* Reasonable manoeuvrability at high speeds
 * Big ammo supply
-* Very agile for an attacker
+** On a small map, can take out 60% of enemy victory points in one reload, can end a game all by itself, if left alone for long enough
+** Technically, a 4-man squad of these planes can end an Air RB battle on medium maps by destroying all the ground targets before fighters can do anything at all
 * In hands of a skilled player, this plane can be used as a good fighter
 
 '''Cons:'''
@@ -157,10 +198,9 @@ The best defence of the Tempest Vickers P is its speed. Almost all of the planes
 * No bombs or rockets
 * Lose a lot of speed in turn fighting
 * Has only AP round
-* Can't destroy pillbox
-* Hard to aim, the cannon far from the centre of the plane
-* Not recommended to use on maps with ships and pillbox
-* Low rate of fire
+* Can't destroy medium pillbox
+* Hard to aim, low rate of fire, the cannons are far from the centre of the plane
+* Not recommended to use on maps with mostly ships and pillboxes
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

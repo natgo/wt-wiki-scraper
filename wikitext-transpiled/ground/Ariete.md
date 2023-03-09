@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian medium tank {{Battle-rating}}. It was introduced in [[Update 1.89 "Imperial Navy"]].
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian medium tank {{Battle-rating}}. It was introduced in [[Update 1.89 "Imperial Navy"]]. The C1 Ariete is one of the MBT players unlock before researching the Ariete AMV PT1. The C1 Ariete was developed by OTO Melara during the late cold war to allow the Italian army to equip itself with a modern tank which could easily deal with Yugoslav and Warsaw pact tanks. This Italian MBT is one of the staple tanks that you can add to your lineup, the key differences when compared to the C1 Ariete Preserie include better armour in the form of the unlockable WAR kit, better optics which include gen 2 commander and gunner thermals and lastly better firepower which includes the DM53 APFSDS round. Its a great MBT when used by players who can work around its weaknesses, mobility is also not bad which means you will easily be able to keep up with the majority of your teamates in battle. 
 
 == General info ==
 === Survivability and armour ===
@@ -93,7 +93,7 @@ Unfortunately that's where the armour ends, the hull is one large weak spot with
 |}
 
 ==== Ammunition ====
-{{:OTO Breda 120/44 (120 mm)/Ammunition|DM12A1, DM33, CL3143}}
+{{:OTO Breda 120/44 (120 mm)/Ammunition|DM12A1, DM33, DM53}}
 
 ==== [[Ammo racks]] ====
  [[File:Ammoracks_Ariete_(P).png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -137,7 +137,7 @@ Notes:
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-The C1 Ariete has access to a decent round, the CL3143, and with the WAR add-on armour installed, can also protect itself against some 125 mm APFSDS and the majority of low level IFV autocannon fire. The best playstyle for the Ariete, especially when you are just starting out with it, would be more a supportive one, such as flanking manoeuvres or to stick with your better armoured teammates who can withstand hits such as Leopards 2A6. The Ariete being one of the weakest top tier MBTs for its battle rating, it is advised to keep your distance and try pick enemies from far away. With the CL3143 round, you can easily take out the majority of enemies with one hit if you aim right. Most top tier MBT weak spots at the front are the lower front of the vehicle. If you manage to flank the enemy team, go for the sides or where the ammunition is stored as that also will usually get rid of an enemy quickly. When you have unlocked the WAR add-on armour kit, you have more chances to play hull down which will greatly increase your overall effectiveness on the battlefield, as you'll be able to withstand some shots coming your way. Remember that in Arcade Battles, enemies can easily find out where you are with your name tag and where your weak spots are. The Ariete also has access to commanders thermals, something the previous vehicle (Ariete (P)) did not have. This will be one of the most useful items in your arsenal and will allow you to better spot enemies from behind cover, as well as quickly engage and disengage without exposing yourself long enough for the enemy to see you coming. If you can master this technique, you'll be able to still be useful despite being at a disadvantage.
+The C1 Ariete has access to a decent APFSDS round known the DM53 which can easily take care of the majority of MBT's you'll face at your battle rating. What makes this C1 Ariete unique is that it has access to a special modification known as the WAR add-on armour kit. This is one of the later modifications you can install unto the C1 Ariete which greatly improves survivability against APFSDS rounds such as some 125 mm APFSDS munitions found primarily on Russian MBT'S. The WAR kit is not as good as soaking up damage as the PSO kit when it comes to HEAT and the majority of low level IFV autocannon fire, however it still is useful and will suprisingly come in useful when you least expect it. The best playstyle for the C1 Ariete especially when you are just starting out with it, would be more a supportive one, such as flanking manoeuvres or to stick with your better armoured teammates who can withstand hits such as Leopards 2A6. The Ariete being one of the weakest top tier MBTs for its battle rating, it is advised to keep your distance and try pick enemies from far away. With the DM53 APFSDS round, you can easily take out the majority of enemies with one hit if you aim right. Most top tier MBT weak spots at the front are the lower front of the vehicle. If you manage to flank the enemy team, go for the sides or where the ammunition is stored as that also will usually get rid of an enemy quickly. When you have unlocked the WAR add-on armour kit, you have more chances to play hull down which will greatly increase your overall effectiveness on the battlefield, as you'll be able to withstand some shots coming your way. Mobility wise this is much better than the PSO, you will be able to keep up with your team and at times be even faster than some tanks such as the Challenger 2. Remember that in Arcade Battles, enemies can easily find out where you are with your name tag and where your weak spots are so try not to be out in the open when possibile. The C1 Ariete also has access to commanders thermals, this will be one of the most useful items in your arsenal and will allow you to better spot enemies from behind cover, as well as quickly engage and disengage without exposing yourself long enough for the enemy to see you coming. If you can master this technique, you'll be able to still be useful despite being at a disadvantage.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -152,7 +152,7 @@ The C1 Ariete has access to a decent round, the CL3143, and with the WAR add-on 
 * Quick and responsive reverse
 * Fairly decent and reactive mobility at medium to high speeds
 * Quick neutral steering
-* CL3143, combined with great thermals and a laser rangefinder make for an exceptionally deadly sniper
+* DM53, combined with great thermals and a laser rangefinder make for an exceptionally deadly sniper
 * Unlike other NATO MBTs, there is no ammo rack in the turret bustle: a penetration in the turret rarely destroys the tank in one shot
 
 '''Cons:'''
@@ -160,11 +160,11 @@ The C1 Ariete has access to a decent round, the CL3143, and with the WAR add-on 
 * Hull armour almost non-existent
 * Placement of crew members and first stage ammo rack make hits to the hull fatal
 * The lack of armour is not counteracted by improved mobility, the mobility is average for a rank VII ground vehicle
-* The stock ammunition is HEATFS, the CL3143 APFSDS round is a tier 4 modification
+* The stock ammunition is HEATFS, the DM53 APFSDS round is a tier 4 modification
 * The War kit armour package is a tier 4 modification
 * The War kit armour package only increases chemical protection, with missiles and 125 mm HEATFS still able to penetrate
 * Transmission makes low speed manoeuvring sluggish
-* Russian tanks, protected by CONTACT-5 ERA, can withstand CL3143 directly on the ERA blocks
+* Russian tanks, protected by explosive reactive armour, can at times directly withstand DM53.
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

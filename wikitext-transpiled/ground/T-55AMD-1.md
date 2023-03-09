@@ -211,3 +211,4 @@ After the dissolution of the Soviet Union, some of these T-55ADs were in the han
 
 {{USSR medium tanks}}
 [[Category:ATGM vehicles]]
+[[Category:Ground vehicles with active protection system]]

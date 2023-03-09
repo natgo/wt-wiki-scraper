@@ -146,7 +146,7 @@ The Ground Targets belt is a good all-round choice. Its AP-I rounds deal heavy k
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|M117 cone 45 (750 lb)|AN-M65A1 Fin M129 (1,000 lb)|AGM-12B Bullpup|AIM-9B Sidewinder}}
+{{main|M117 cone 45 (750 lb)|AN-M65A1 Fin M129 (1,000 lb)|M116A2 incendiary|AGM-12B Bullpup|AIM-9B Sidewinder}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
@@ -156,6 +156,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 2 x 1,000 lb AN-M65A1 Fin M129 bombs (2,000 lb total)
 * 2 x AGM-12B Bullpup missiles
 * 4 x AIM-9B Sidewinder missiles
+* 2 x M116A2 incendiary bombs
 
 The F-100A's only air-to-air ordnance is the humble AIM-9B Sidewinder missile. It has poor tracking and manoeuvrability, so an attentive opponent can dodge them with a single well-timed turn. Still, they are helpful on occasion and give the F-100A more flexibility. Up to 4 can be carried, which is a capacity advantage over the J-6A and J-7II.
 

@@ -146,7 +146,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP}}
+{{main|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)|Aerea 559G1 incendiary|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
@@ -157,6 +157,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x 500 lb LDGP Mk 82 bombs (1,000 lb total)
 * 2 x 1,000 lb LDGP Mk 83 bombs (2,000 lb total)
 * 4 x 1,000 lb LDGP Mk 83 bombs (4,000 lb total)
+* 2 x Aerea 559G1 incendiary bombs
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"

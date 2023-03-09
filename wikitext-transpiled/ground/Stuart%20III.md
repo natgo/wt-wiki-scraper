@@ -78,8 +78,8 @@ While it lacks the post-penetration damage to disable most enemies in one shot, 
 {{:M6 (37 mm)/Ammunition|M74B1, M51B1}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks_M3A1_Stuart.jpg|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated:''' -->
+[[File:Ammoracks_M3A1_Stuart.jpg|right|thumb|x350px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.23.1.43''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -88,7 +88,7 @@ While it lacks the post-penetration damage to disable most enemies in one shot, 
 ! 3rd<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''106''' || 71&nbsp;''(+35)'' || 36&nbsp;''(+70)'' || 1&nbsp;''(+105)'' ||  No
+| '''106''' || 99&nbsp;''(+7)'' || 52&nbsp;''(+54)'' || 1&nbsp;''(+105)'' ||  No
 |-
 |}
 

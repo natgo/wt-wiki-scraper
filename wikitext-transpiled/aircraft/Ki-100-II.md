@@ -106,7 +106,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-Pilots of the standard Ki-100 found in the tech tree should feel relatively comfortable in the premium Ki-100-II. This aircraft offers balanced performance characteristics that allow the pilot to choose how he wishes to fight in the Ki-100-II and adapt to the combat situation as necessary. The performance of the Ki-100-II is characterized by decent climb rate and manoeuvrability. The aircraft has good (but not the best) acceleration in a dive that makes it suitable for short range "boom and zoom" style attacks. The pilot should position the fighter around 1000 meters above a selected target, dive rapidly, fire a quick burst, and then pull away in a shallow climb to hold the plane's speed and escape. This is the safest way to conduct combat in the Ki-100-II, but there are other options available.
+Pilots of the standard Ki-100 found in the tech tree should feel relatively comfortable in the premium Ki-100-II. This aircraft offers balanced performance characteristics that allow pilots to choose how they wish to fight in the Ki-100-II and adapt to the combat situation as necessary. The performance of the Ki-100-II is characterized by decent climb rate and manoeuvrability. The aircraft has good (but not the best) acceleration in a dive that makes it suitable for short range "boom and zoom" style attacks. The pilot should position the fighter around 1000 meters above a selected target, dive rapidly, fire a quick burst, and then pull away in a shallow climb to hold the plane's speed and escape. This is the safest way to conduct combat in the Ki-100-II, but there are other options available.
 
 Against less manoeuvrable opponents, turn fighting can be a valid approach. Most German and American aircraft will not be able to out-turn you. However, turning combat is only advised when there are no other enemies around that could pounce on you while you are focused on your target. Do not manoeuvre for too long and avoid getting too slow, because your control surfaces will become less responsive. Then you will be a sitting duck for most other fighters.
 
@@ -155,10 +155,12 @@ The Ki-100-II was a prototype version of the Ki-100, built to improve its high a
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ki_100_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

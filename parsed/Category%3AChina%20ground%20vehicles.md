@@ -11,7 +11,8 @@
 {{Tree-Unit|cn_type_97_chi_ha}}
 {{Tree-Arrow}}
 |
-{{Tree-Skip}}
+{{Tree-Unit|cn_sdkfz_222_early}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|cn_m8_scott}}
 {{Tree-Arrow}}
@@ -116,21 +117,23 @@
 |
 {{Tree-Unit|cn_type_86}}
 {{Tree-Arrow}}
+{{Tree-Unit|cn_zts_63_1980}}
+{{Tree-Arrow}}
 {{Tree-Unit|cn_m48a1_patton_III}}
 {{Tree-Arrow}}
 |
 {{Tree-Unit|cn_type_59}}
 {{Tree-Arrow}}
 {{Tree-Unit|cn_type_69}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|cn_wz_305}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow|2}}
 |
 {{Tree-Unit|cn_m113a1_tow}}
 {{Tree-Arrow}}
 {{Tree-Unit|cn_ptl_02}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|cn_ztz_59a}}
 {{Tree-Skip}}

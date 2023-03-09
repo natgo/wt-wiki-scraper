@@ -86,24 +86,19 @@ The IS-6 features an upgraded version of the [[D-25T (122 mm)|D-25T]] gun found 
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated:''' -->
+<!-- '''Last updated: 2.23.1.41''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
-! Ammo<br>part
 ! 1st<br>rack empty
 ! 2nd<br>rack empty
 ! 3rd<br>rack empty
-|-
-| '''30''' || ''Projectiles''<br>''Propellants'' || 17&nbsp;''(+13)''<br>25&nbsp;''(+5)'' || 13&nbsp;''(+17)''<br>19&nbsp;''(+11)'' || 9&nbsp;''(+21)''<br>13&nbsp;''(+17)''
-|-
 ! 4th<br>rack empty
 ! 5th<br>rack empty
 ! 6th<br>rack empty
-! 7th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| 7&nbsp;''(+23)''<br>7&nbsp;''(+23)'' || 5&nbsp;''(+25)''<br>1&nbsp;''(+27)'' || 3&nbsp;''(+27)''<br>N/A || 1&nbsp;''(+29)''<br>N/A || No
+| '''30''' || 13&nbsp;''(+17)''<br>25&nbsp;''(+5)'' || 9&nbsp;''(+21)''<br>19&nbsp;''(+11)'' || 7&nbsp;''(+23)''<br>13&nbsp;''(+17)'' || 5&nbsp;''(+25)''<br>7&nbsp;''(+23)'' || 3&nbsp;''(+27)''<br>1&nbsp;''(+27)'' || 1&nbsp;''(+29)''<br>&nbsp; || No
 |-
 |}
 '''Notes:'''

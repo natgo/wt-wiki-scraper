@@ -141,7 +141,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
 {{main|SAMP Mk 81 (250 lb)|SAMP Mk 82 (500 lb)|SAMP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)|GBU-8 (2,000 lb)}}
 {{main|100/50 kg G.P. (100 kg)|250/50 kg G.P. (250 kg)|360/50 kg G.P. (360 kg)|500/50 kg G.P. (500 kg)|AGM-62A Walleye I (505 kg)}}
-{{main|AIM-9B Sidewinder|MK 77 mod 4 incendiary|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|Mk 11 mod 5 (20 mm)}}
+{{main|AIM-9B Sidewinder|Mk 77 mod 4 incendiary|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|Mk 11 mod 5 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
@@ -156,7 +156,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
 * 2 x 505 kg AGM-62A Walleye I bombs (1,010 kg total)
 * 1 x 2,000 lb GBU-8 bomb (2,000 lb total)
-* 9 x MK 77 mod 4 incendiary bombs
+* 9 x Mk 77 mod 4 incendiary bombs
 * 3 x 20 mm Mk 11 mod 5 cannons (750 rpg = 2,250 total)
 
 ==== Custom loadout options ====
@@ -198,7 +198,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 ! 2,000 lb GBU-8 bombs
 | || || 1 || ||
 |-
-! MK 77 mod 4 incendiary bombs
+! Mk 77 mod 4 incendiary bombs
 | 1 || 2 || 3 || 2 || 1
 |-
 ! FFAR Mighty Mouse rockets

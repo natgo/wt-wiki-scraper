@@ -1,5 +1,5 @@
 {{About
-| about = Chinese heavy tank '''{{PAGENAME}}'''
+| about = heavy tank '''{{PAGENAME}}'''
 | usage = other versions
 | link = IS-2 (Family)
 }}
@@ -16,7 +16,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese heavy tank {{Battle-ra
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-[[File:IS-2 scheme of armour.jpg|right|thumbnail|x250px|The historical armour layout of the JS/IS-2 for the 1943 and 44 mod's]] <br />
+[[File:IS-2 scheme of armour.jpg|right|thumbnail|x250px|The historical armour layout of the JS/IS-2 for the 1943 and 1944 models]] <br />
 '''Armour type:'''
 
 * Cast homogeneous armour (Turret, Hull front, Hull side)
@@ -38,6 +38,8 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese heavy tank {{Battle-ra
 * Suspension wheels are 20 mm thick while tracks are 30 mm thick.
 
 The IS-2 has sufficient armour, but will not protect from the guns of its rank. The frontal plate has 120 mm of armour plating, which will not stop anything the IS-2 faces, making slight angle adjustments paramount survivability essential. However, due to a tendency for the driver's viewport to literally absorb the round, most players will not aim here. The LFP has a value of 100 mm angled at 27 degrees, and will not bounce any shots. Since behind the LFP is the driver and the 2 main fuel tanks, a penetrating round will have catastrophic results for the {{PAGENAME}}. The side armour is 90 mm, and observing the front of the tank, it has a noticeable curvature to it. When viewed from the front, the 90 mm of armour will deflect or absorb a high number of shots contrary to the 120 mm plate. Angling with large adjustments will cause the {{PAGENAME}} to render this part useless and make the tank extremely vulnerable. The frontal turret armour is 100 mm with a distinctive "cheek" construction. As with any "cheek" construction, the lower part may act as a shot trap and the middle may absorb shots, but it is more than likely to fail against high-penetration guns.
+
+A well-known trick for IS-2 series is driving with the rear facing forward. Doing so will remarkably remove the weak spots on IS-2's frontal hull armour listed above. Its turret was placed in front, and engine with large transmission in rear, while having relatively long hull and good reverse speed. These features increase the actual effectiveness of rear armour because most full-calibre kinetic ammunition and HEATs hitting IS-2's rear hull will be absorbed or detonated before reaching cockpit. Hence a successful penetration of the rear hull will only limit your movement or ignite fuel tanks. Note that ATGMs and some British post-war tanks with powerful sub-calibre APDS in your BR range won't have trouble shooting through your long hull, and there's still a well-known weak spot at your frontal turret exposed, which is flat and only 100 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -156,7 +158,7 @@ In regards to shells, the D-25T cannon is also equipped with powerful High Explo
 <!--Some concerning vehicles to worry about if playing this tank and how to fight them in an encounter. (i.e. Tiger II - shoot the turret cheeks)-->
 German Tiger IIs and Panthers will be common encounters at the IS-2's battle rating, combined with the more threatening and heavier American T-Series tanks such as the T34 and M26. At this Battle Rating, more powerful British tanks such as the Centurions will be encountered. As previously specified above, the IS-2 no longer retains its armour advantage in this battle rating unlike its IS-1 predecessor and thus, it is important to identify and fire on targets first before they do. In this rank, tanks such as the Panthers, Tiger II and similar vehicles will be present with sloped armour, strong enough to even withstand the might of the 122 mm shells of the D-25T gun. A common design flaw, however, is the turret of said vehicles, commonly being mostly blunt and flat and easy to penetrate. A patient and well placed aim and shot against these surfaces will destroy the target with no more than a single shot. Be aware that most opposition vehicles at this rank have the lower calibre and puncturing power than the D-25T of the IS-2, but come with an improved reload speed, a reload speed commonly faster than the IS-2. Japanese line of tanks at the same rank as the IS-2 is of little concern; their poor armour and armaments at the same rank will render them relatively easy to destroy.
 [[File:Wsp volumetric shell diagram.png|thumb|Differences between non-volumetric shells and volumetric shells hitting a Tiger I]]
-An important note when engaging tanks, especially Tiger I's, is that, with the implementation of volumetric shells, you can no longer expect your shells to pierce through small openings or right past an obstacle. The large 122mm calibre of your shells will result in it catching on an armour plate's edge very often, losing all of its penetration. For example, a Tiger I has quite some edges that can absorb your shell unexpectedly, despite having flat armour. Thus you must always make sure that where you are aiming at is absolutely free of obstruction, or it will result in a magical non-penetration or a ricochet. This can be seen in the diagram to the right.
+An important note when engaging tanks, especially Tiger I's, is that, with the implementation of volumetric shells, you can no longer expect your shells to pierce through small openings or right past an obstacle. The large 122 mm calibre of your shells will result in it catching on an armour plate's edge very often, losing all of its penetration. For example, a Tiger I has quite some edges that can absorb your shell unexpectedly, despite having flat armour. Thus you must always make sure that where you are aiming at is absolutely free of obstruction, or it will result in a magical non-penetration or a ricochet. This can be seen in the diagram to the right.
 
 Another specific enemy vehicle worth noting is the German [[Ferdinand]] tank destroyer. Most new players in Rank IV battles fielding the IS-2 may commonly mistake the front armour of the Ferdinand as appearing as thin as similar-looking tank destroyers such the [[Nashorn]] and are commonly caught unaware that almost the entire front of the Ferdinand consists entirely of heavy 100 mm and 200 mm plate armour, the largest being the fighting compartment located behind the driving compartment. Due to it being such a large target, many players including both IS-2 users and other vehicle type users alike will be tempted into firing at that portion expecting easy wins, only for almost all shots to be absorbed, even the powerful shells of the D-25T. It is recommended to avoid engaging the Ferdinand or ignore it entirely. If the opportunity arises, Ferdinand's weaker side and rear armour should be targeted (80 mm).
 
@@ -165,7 +167,7 @@ Another specific enemy vehicle worth noting is the German [[Ferdinand]] tank des
 
 '''Pros:'''
 
-* Excellent firepower with nearly unmatched one-shot potential
+* Excellent firepower with nearly unmatched knock-out potential
 * Considerably good speed for a heavy tank: around 40 km/h on road
 * Very fast reverse speed at 15 km/h
 * Repositioning of fuel tanks reduces chances of fires

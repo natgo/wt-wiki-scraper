@@ -153,7 +153,6 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 '''Pros:'''
 
 * Powerful armament for tough aircraft
-* Highest top speed of its rank
 * Extremely good acceleration
 * Good climb rate allows it to get altitude advantage over most enemies
 * 40 mm cannons can be used as impromptu brakes when landing (because of the huge recoil)
@@ -171,17 +170,20 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 <!--''Excellent additions to the article would be video guides, screenshots from the game, and photos.''-->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ki_44_2_otsu Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 {{Skin-gallery|market|ugcitem_1000418|Ki-44-II Otsu flown by Yoshida Yoshio.png|Camo "1st Chutai leader, Yoshida Yoshio"}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

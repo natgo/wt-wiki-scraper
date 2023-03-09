@@ -11,33 +11,35 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese SPAA {{Battle-rating}
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+The SUB-I-II has no notable armour. It is dangerous to stand in the open without cover as the SPAA can be penetrated by any tank or plane. The survivability of this SPAA is very low if any enemy has a direct line of sight on it. 
 
-'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
-<!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
-* Cast homogeneous armour (Turret, Transmission area) -->
+'''Armour type:'''
+* Aluminium ally 5083 (hull, gun mount)
+* Cast homogeneous armour (cupola)
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 20 mm (52°) ''Upper glacis'' <br> 20 mm (24-60°) ''Lower glacis'' || 12.7+5 mm ''Top'' <br> 12.7 mm ''Bottom'' || 20  mm (7°) || 10 mm <br> 5 mm ''Engine vents''
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+| Turret || 20 mm (conical) || 20 mm (conical) || 20 mm
+!
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Cupola || 10 mm (spherical) ''Base'' <br> 15 mm (spherical) ''Dome'' || 10 mm (spherical) ''Base'' <br> 15 mm (spherical) ''Dome'' || 10 mm (spherical) ''Base'' <br> 15 mm (spherical) ''Dome'' || 15 mm 
 |-
 |}
+'''Notes:'''
 
-'''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
-<!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+* Suspension wheels and torsion bars are 10 mm thick, while tracks are 15 mm thick.
+* Belly armour is 10 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
+The SUB-I-II has a modest top reverse speed in RB of -12 km/h so bear that in mind when choosing a good spot to shoot from.
 
-{{tankMobility}}
+{{tankMobility|abMinHp=426|rbMinHp=265}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -113,19 +115,20 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese SPAA {{Battle-rating}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+When hunting for planes, the SUB-I-II should always have some sort of cover to hide behind in case a plane retaliates. When shooting, you should also be mindful of the gun overheating and use all of the rounds in the belt as the SUB-I-II has only 800 rounds at most. If possible, try to remain near a friendly capture point to restock on ammo belts when they run out because the main canon can shoot at 800 rpm.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+* High rate of fire
+* Amphibious
+* Can penetrate some medium tanks from the side
 
-*
-
-'''Cons:'''
-
-*
+'''Cons:''' 
+* Low survivability
+* Slow speed in water
+* Low ammo count
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

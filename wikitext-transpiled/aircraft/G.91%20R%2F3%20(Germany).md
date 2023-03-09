@@ -137,7 +137,8 @@ Compressor > Boosters (don't equip them yet) > Engine > Both cannon upgrades > G
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M57 (250 lb)|AN-M64A1 (500 lb)|AS-20 Nord|SNEB type 23|DEFA 552 (30 mm)}}
+{{main|AN-M57 (250 lb)|AN-M64A1 (500 lb)|Aerea 559G1 incendiary}}
+{{main|AS-20 Nord|SNEB type 23|DEFA 552 (30 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
@@ -146,6 +147,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 2 x 30 mm DEFA 552 cannons + 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
 * 1 x 30 mm DEFA 552 cannon + 4 x AS-20 Nord missiles
 * 2 x 30 mm DEFA 552 cannons + 38 x SNEB type 23 rockets
+* 2 x 30 mm DEFA 552 cannons + 2 x Aerea 559G1 incendiary bombs
 
 Featuring a wide range of ordnance, the G.91 R/3 can be equipped for any role from ground to air combat, though it prefers air superiority.
 

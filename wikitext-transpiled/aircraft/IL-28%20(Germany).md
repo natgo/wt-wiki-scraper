@@ -57,7 +57,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German jet bomber {{Battle-rat
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 577 || 548 || 400 || ~7 || ~4
+| 810 <!--{{Specs|destruction|body}}--> || {{Specs|destruction|gear}} || 577 || 548 || 400 || ~7 || ~4
 |-
 |}
 
@@ -235,6 +235,7 @@ The IL-28 was created to meet a requirement for a bomber to carry a 3,000-kilogr
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_28_german Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -242,6 +243,7 @@ The IL-28 was created to meet a requirement for a bomber to carry a 3,000-kilogr
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -250,6 +252,7 @@ The IL-28 was created to meet a requirement for a bomber to carry a 3,000-kilogr
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

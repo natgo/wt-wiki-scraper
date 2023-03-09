@@ -131,7 +131,7 @@ The primary use of the Wiesel 1A2 should be as an ambush tank destroyer. Utilizi
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+The Wiesel was developed for German airborne troops due to their unadequate equipment used to fight enemy MBTs in 1970s. Requirements were that the vehicle is transportable by NATO transport planes and eventually is air droppable. Another requirement from the Bundeswehr was capability of fighting infantry and aircraft. Some prototypes were made by Porsche in 1975 but Bundeswehr stopped the project in 1978 due to lack of funds. Porsche continued developing the project cause of interest from abroad. In 1985 Bundeswehr ordered 343 vehicles. Out of these, 210 were Wiesel 1A2 armed with TOW launcher and 133 were Wiesel 1 Mk20 armed with Rheinmetall Mk 20 RH-202 20 mm autocannon. Both variants were deployed to Somalia in 1993 as part of United Nations forces intervention.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -159,5 +159,5 @@ The primary use of the Wiesel 1A2 should be as an ambush tank destroyer. Utilizi
 * ''other literature.'' -->
 
 * [[wt:en/news/7376-development-wiesel-armored-vehicles-mk20-tow-2-adwc-en|[Devblog] Wiesel armored vehicles: MK20/TOW/2 ADWC]]
-
+*[https://en.wikipedia.org/wiki/Wiesel_AWC Wiesel AWC]
 {{Germany tank destroyers}}

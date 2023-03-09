@@ -90,8 +90,8 @@ The main cannon is only effective in close-quarter combat (usually within 200 m)
 {{:M5 (37 mm)/Ammunition|M74 shot, M51B1}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks_{{PAGENAME}}.jpg|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated:''' -->
+[[File:Ammoracks_{{PAGENAME}}.jpg|right|thumb|x350px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.23.1.43''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -100,7 +100,7 @@ The main cannon is only effective in close-quarter combat (usually within 200 m)
 ! 3rd<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''103''' || 69&nbsp;''(+34)'' || 35&nbsp;''(+68)'' || 1&nbsp;''(+102)'' || No
+| '''103''' || 84&nbsp;''(+19)'' || 41&nbsp;''(+62)'' || 1&nbsp;''(+102)'' || No
 |-
 |}
 
@@ -121,11 +121,11 @@ The machine gun is only powerful enough to destroy poorly protected vehicles suc
 |-
 | Pintle || 2,000 (250) || 500 || -10°/+70° || ±60°
 |-
-| Coaxial || 2,250 (250) || 500 || N/A || N/A
+| Coaxial || 2,250 (250) || 500 || - || -
 |-
-| Hull || 2,000 (250) || 500 || N/A || N/A
+| Hull || 2,000 (250) || 500 || - || -
 |-
-| Hull || 2,000 (250) || 500 || N/A || N/A
+| Hull || 2,000 (250) || 500 || - || -
 |-
 |}
 
@@ -224,5 +224,6 @@ M3 Stuart light tanks were also delivered to the Red Army and the UK via Lend-Le
 
 * [[wikipedia:M3_Stuart|[Wikipedia] M3 Stuart]]
 * [https://tanks-encyclopedia.com/ww2/us/m3_stuart.php <nowiki>[Tanks Encyclopedia]</nowiki> Light Tank M3 Stuart]
+* [https://www.militaryfactory.com/armor/detail.php?armor_id=36 <nowiki>[Military Factory] M3 Stuart (Light Tank, M3)</nowiki>]
 
 {{USA light tanks}}

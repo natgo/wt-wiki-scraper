@@ -67,6 +67,8 @@
 {{Tree-Unit|ar_2}}
 {{Tree-Arrow|3}}
 | style="border-left: solid 1px #cccccc;" |
+{{Tree-Unit|i-15bis_krasnolutsky}}
+{{Tree-Skip}}
 {{Tree-Unit|i-153_m62_zhukovskiy}}
 {{Tree-Skip}}
 {{Tree-Unit|pby-5a_ussr}}
@@ -391,6 +393,7 @@
 {{Tree-Line|VI Rank}}
 |
 {{Tree-Unit|yak-38m}}
+{{Tree-Arrow|2}}
 |
 {{Tree-Unit|mig-19pt}}
 {{Tree-Arrow}}
@@ -420,6 +423,7 @@
 
 {{Tree-Line|VII Rank}}
 |
+{{Tree-Arrow-Full|2}}
 |
 {{Tree-Group|mig-21_group|MiG-21|
   {{Tree-Unit|mig-21_smt}}
@@ -445,6 +449,7 @@
 
 {{Tree-Line|VIII Rank}}
 |
+{{Tree-Unit|yak_141}}
 {{Tree-Skip}}
 |
 {{Tree-Unit|mig_23mld}}

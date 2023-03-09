@@ -146,7 +146,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 '''Pros:'''
 
 * Powerful air-to-air missiles available
-** R550 Magic 1s have high manoeuverability
+** R550 Magic 1s have high manoeuvrability
 ** R530E missiles have long range and can catch opponents by surprise
 * Landing flaps activate its variable-incidence wings, which provides a lot of lift
 * Very good sustained turn rate

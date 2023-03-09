@@ -90,18 +90,26 @@ Unlike the other heavy bombers, the Lancaster is surprisingly responsive and eas
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|M.C. 1,000 lb Mk.I (1,000 lb)|G.P. Mk.I (1,000 lb)|H.C. 4,000 lb Mk.II (4,000 lb)}}
+{{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|G.P. Mk.I (1,000 lb)|M.C. Mk.I (1,000 lb)}}
+{{main|H.C. Mk.II (4,000 lb)|H.C. Mk.II (8,000 lb)|H.C Mk.I (12,000 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * 14 x 250 lb G.P. Mk.IV bombs (3,500 lb total)
-* 6 x 500 lb G.P. Mk.IV bombs + 8 x 250 lb G.P. Mk.IV bombs (5,000 lb total)
 * 14 x 500 lb G.P. Mk.IV bombs (7,000 lb total)
+* 6 x 500 lb G.P. Mk.IV bombs + 8 x 250 lb G.P. Mk.IV bombs (5,000 lb total)
+* 14 x 1,000 lb M.C. Mk.I bombs (14,000 lb total)
 * 1 x 1,000 lb G.P. Mk.I bomb + 6 x 500 lb G.P. Mk.IV bombs + 2 x 250 lb G.P. Mk.IV bombs (4,500 lb total)
 * 6 x 1,000 lb G.P. Mk.I bombs + 3 x 250 lb G.P. Mk.IV bombs (6,750 lb total)
-* 14 x M.C. 1,000 lb Mk.I bombs (14,000 lb total)
-* 1 x H.C. 4,000 lb Mk.II bomb + 6 x M.C. 1,000 lb Mk.I bombs + 2 x 250 lb G.P. Mk.IV bombs (10,500 lb total)
-* 2 x H.C. 4,000 lb Mk.II bombs (8,000 lb total)
+* 1 x 4,000 lb H.C. Mk.II bomb (4,000 lb total)
+* 1 x 4,000 lb H.C. Mk.II bomb + 6 x 1,000 lb M.C. Mk.I bombs + 2 x 250 lb G.P. Mk.IV bombs (10,500 lb total)
+* 1 x 8,000 lb H.C. Mk.II bomb (8,000 lb total)
+* 1 x 8,000 lb H.C. Mk.II bomb + 6 x 500 lb G.P. Mk.IV bombs (11,000 lb total)
+* 1 x 12,000 lb H.C Mk.I bomb (12,000 lb total)
+
+Perhaps the most famous quality of the Lancaster is its huge payload. Though the stock payload of 14 x 500 lb bombs are quite mediocre, the Lanc only requires the "AUBC No.1 Mark II" modification to unlock its most efficient payload; 14 x M.C. 1,000 lb bombs with roughly 6,600 kg of total payload. This massive payload can easily take out two bases even in uptiers and is effective against columns of vehicle and stationary targets.
+
+In addition, the Lancaster also has access to the massive "Blockbuster" bombs with devastating explosive power. The 12,000 lb version in particular dethrones the infamous FAB-5000 bomb as the most powerful bomb in the game. With 6,300 kg of TNT equivalent, the bomb can easily destroy a group of vehicles in ground battles or sink a battleship in a single hit in naval battles.
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
@@ -144,7 +152,7 @@ The safest way to use this bomber is to attack bases from around the map. Do a b
 
 '''Pros:'''
 
-* Massive bombload of up to 6 tons
+* Massive bombload of up to 6 tons, including the Blockbuster bomb
 * Powerful Merlin engines providing good performance
 * Excellent handling and manoeuvrability
 * Has a total of 4 x 7.7 mm MG facing upper rear area which can be lethal to some targets with careful aiming

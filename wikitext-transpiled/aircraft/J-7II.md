@@ -176,6 +176,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |-
 |}
 
+The PL-2 infrared air-to-air missile is the most important ordnance for air combat and should be familiar to users of the previous J-6A. Although it is a primitive weapon that can be easily dodged or flared, it is useful for picking off distracted or stalled targets and can force supersonic enemies to turn and lose speed. For ground attack, the J-7II's suspended armaments are more limited than the original [[MiG-21F-13]]: it does not have napalm bombs, or more importantly, S-24 heavy rockets with ballistic computer assistance. The 57 mm HEAT rockets are inaccurate and deal relatively little damage. Players who find themselves needing to use the J-7II for CAS in Ground RB are better off with the 500 kg unguided bombs, which are nothing fancy but at least pack a punch.
+
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 

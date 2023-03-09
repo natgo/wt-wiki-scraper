@@ -102,9 +102,11 @@
 {{Tree-Arrow|1}}
 |
 {{Tree-Unit|uk_a_22b_mk_3_churchill_1942}}
+{{Tree-Skip}}
+{{Tree-Unit|uk_churchill_na75}}
 {{Tree-Arrow}}
 {{Tree-Unit|uk_a_22f_mk_7_churchill_1944}}
-{{Tree-Arrow|2}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|uk_a30_sp_avenger}}
 {{Tree-Arrow|3}}
@@ -258,6 +260,8 @@
 {{Tree-Unit|uk_challenger_2_tes}}
 {{Tree-Arrow}}
 {{Tree-Unit|uk_challenger_2_bn}}
+{{Tree-Arrow}}
+{{Tree-Unit|uk_challenger_2e}}
 {{Tree-Skip}}
 |
 {{Tree-Skip}}

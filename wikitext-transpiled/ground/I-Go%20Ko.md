@@ -215,6 +215,9 @@ kinsei1560''|LBM3eMJJRjg|'''Type 89 tank Imperial Japanese Army''' - ''MrHofner5
 * ''other literature.'' -->
 
 * [[wt:en/news/4341-development-type-89-i-go-ko-first-series-en/|[Devblog] Type 89 I-Go Ko: First Series]]
+* [[wikipedia:Type_89_I-Go_medium_tank|[Wikipedia] Type 89 I-Go medium tank]]
+* [https://www.tanks-encyclopedia.com/ww2/jap/Type_89_I-Go.php <nowiki>[Tank Encyclopedia] Type 89 I-Go</nowiki>]
+* [https://www.militaryfactory.com/armor/detail.php?armor_id=464 <nowiki>[Military Factory] Type 89 Chi-Ro</nowiki>]
 
 === References ===
 <references />

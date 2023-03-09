@@ -97,7 +97,7 @@ Damage to the aircraft, especially to the wings, will typically result in the de
 | colspan="3" | 6,584 kg || colspan="3" | 452 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="5" | Mass with fuel (no weapons load) || rowspan="2" |  | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
+! colspan="5" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
 ! 17m fuel || 20m fuel || 30m fuel || 45m fuel || 56m fuel
@@ -195,7 +195,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |}
 
 == Usage in battles ==
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+<!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
+This aircraft doesn't have any countermeasures (like flares, RWR). Any aircraft with air-to-air missiles will pose a threat to you. Although you can use rockets instead of flares, their effect is very limited. Moreover, the T-2 has no IRST system. Any plane with SARH missiles will pose a threat to you (F-4C, MiG-21, F-8E). Unless you see the other side firing missiles at you, you will not be able to detect the launch before being hit.
+Offensively, the damage caused by the JM61A1 gun is seriously insufficient. The gun's shooting axis is off centre, near the lower left position.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -225,6 +227,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=t2_early Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

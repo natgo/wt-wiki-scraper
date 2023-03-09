@@ -93,7 +93,7 @@ The {{PAGENAME}} has an acceptable top speed, however, acceleration and mobility
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|L11A5 (120 mm)}}
 
-The Challenger's main gun, while not the most powerful at its rank, is competitive, and more importantly, accurate. With over 470 mm of penetration at point blank, there is no need to aim for weak spots, unless you are facing higher-ranked vehicles such as the T-80U, Leopard 2A5, etc.). Make good use of the Challenger's good reload speed to knock out important modules first.
+The Challenger's main gun, while not the most powerful at its rank, is competitive, and more importantly, accurate. With over 470 mm of penetration at point blank, there is no need to aim for weak spots, unless you are facing higher-ranked vehicles (such as the T-80U, Leopard 2A5, etc.). Make good use of the Challenger's good reload speed to knock out important modules first.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -115,7 +115,7 @@ The Challenger's main gun, while not the most powerful at its rank, is competiti
 {{:L11A5 (120 mm)/Ammunition|Shot L23A1, Shell L31A7, L26, L34}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks_Challenger_Mk.2.png|right|thumb|x250px|[[Ammo racks]] of the Challenger Mk.2 (identical)]]
+[[File:Ammoracks_Challenger_Mk.2.png|right|thumb|x350px|[[Ammo racks]] of the Challenger Mk.2 (identical)]]
 <!-- '''Last updated: 2.19.0.82''' -->
 {| class="wikitable" style="text-align:center"
 |-
@@ -128,7 +128,7 @@ The Challenger's main gun, while not the most powerful at its rank, is competiti
 ! 5th<br>rack empty
 ! 6th<br>rack empty
 |-
-|'''52''' ||''Projectiles''<br>''Propellants'' || 50&nbsp;''(+2)''<br>''47 (+5)'' || 47&nbsp;''(+5)''<br>&nbsp;''41 (+11)'' || 45&nbsp;''(+7)''<br>&nbsp;''35 (+17)'' || 43&nbsp;''(+12)''<br>29&nbsp;''(+23)'' || 39&nbsp;''(+17)''<br>21&nbsp;''(+31)'' || 37&nbsp;''(+15)''<br>&nbsp;''11 (+28)''
+|'''52''' ||''Projectiles''<br>''Propellants'' || 50&nbsp;''(+2)''<br>47&nbsp;''(+5)'' || 47&nbsp;''(+5)''<br>41&nbsp;''(+11)'' || 45&nbsp;''(+7)''<br>35&nbsp;''(+17)'' || 43&nbsp;''(+9)''<br>29&nbsp;''(+23)'' || 39&nbsp;''(+13)''<br>21&nbsp;''(+31)'' || 37&nbsp;''(+15)''<br>11&nbsp;''(+41)''
 |-
 ! 7th<br>rack empty
 ! 8th<br>rack empty
@@ -139,7 +139,7 @@ The Challenger's main gun, while not the most powerful at its rank, is competiti
 ! 13th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| 34&nbsp;''(+18)''<br>&nbsp;''4 (+48)'' || 27&nbsp;''(+25)''<br>&nbsp;''1 (+51)'' || 22&nbsp;''(+30)''<br>N/A || 21&nbsp;''(+31)''<br>N/A || 7&nbsp;''(+45)''<br>N/A || 4&nbsp;''(+38)''<br>N/A || 1 ''(+51)''<br> N/A || No
+| 34&nbsp;''(+18)''<br>4&nbsp;''(+48)'' || 27&nbsp;''(+25)''<br>1&nbsp;''(+51)'' || 22&nbsp;''(+30)''<br>&nbsp; || 21&nbsp;''(+31)''<br>&nbsp; || 7&nbsp;''(+45)''<br>&nbsp; || 4&nbsp;''(+38)''<br>&nbsp; || 1&nbsp;''(+51)''<br>&nbsp; || No
 |-
 |}
 '''Notes''':

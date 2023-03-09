@@ -5,11 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese jet fighter {{Battle-rating}}. It was introduced in [[Update 1.43]].
+The '''{{Specs|name}}''' is the first Japanese jet and was a land-based attack plane developed by Nakajima for the IJNAS to attack US warships at high speed and close range with bombs. Taking inspiration from German jet development and advancement, the Kikka, contrary to common belief, was completely domestic in development and role for Japanese needs. Construction of the Kikka was simplified to allow unskilled labor and mass produce the jet plane to build up a large reserve of homeland defense and strike at American vessels. With the war ending, two prototypes were tested, 23 more proto-frames were under construction, and production halted.
 
-The Kikka is a fast and versatile fighter-bomber. It starts out with a single 30 mm and you will have to research the 'otsu' mod before you can obtain the second 30 mm. It is important you utilize your speed to your advantage, as that is its biggest advantage against most aircraft it encounters. A good turner at high speed, but at low speed you may find it difficult to turn, as well as to regain your speed. Always maintain an energy advantage over your enemies, so you can quickly engage and disengage your targets. Never try to keep on them unless you know you have the advantage. The Kikka is a small aircraft which has great acceleration and climb, so it shines in vertical energy retention. It is recommended you do not 'head-on' other targets until you have acquired the ''Otsu'' mod. The Kikka is a very durable and well armoured aircraft, so it can take a multiple hits in a head-on.
-
-Regarding its bombing capabilities, equipping a bomb (either 500kg or 800kg, both of which are heavy) makes the Kikka significantly slower and more difficult to control. Speed is a must with the Kikka, and it is recommended you perform high-speed dive bombing to ensure both the destruction of your target and escaping slower pursuers. The speed previously gained in a dive can now be maintained by your unburdened plane. Make sure to use the rocket boosters to take off, or else the aircraft will have significant difficulty taking off with bombs equipped, and you will be unable to retract its landing gear.
+In War Thunder, the Kikka is a fast and versatile fighter-bomber introduced in Update 1.43. It starts with a single 30 mm which can be modified with the 'otsu' mod equipping the second 30 mm. It is crucial to utilize speed, as that is its most significant advantage against most aircraft it encounters. While it can be loaded with up to 800 kg of bombs, it slows the jet down massively to the added weight, which is not advisable for air combat; against naval and ground targets, it is crucial to dive in at high speed to come in and out while evading anti-air fire with speed.
 
 == General info ==
 === Flight performance ===
@@ -128,7 +126,7 @@ Regarding its bombing capabilities, equipping a bomb (either 500kg or 800kg, bot
 | colspan="2" | ''Stationary'' || colspan="2" | 816 kgf || colspan="2" | ‭2,932‬ kgf
 | 0.85 || 0.78 || 0.77
 |-
-| colspan="2" | ''Optimal'' || colspan="2" | 816 kgf<br />(any speed) || colspan="2" | ‭2,932‬ kgf<br />(0kph)
+| colspan="2" | ''Optimal'' || colspan="2" | 816 kgf<br />(any speed) || colspan="2" | ‭2,932‬ kgf<br />(0 km/h)
 | 0.85 || 0.78 || 0.77
 |-
 |}
@@ -246,6 +244,8 @@ A fighter variant for intercepting B-29s with improved Ne-20 Kai engines and two
 
 * [https://forum.warthunder.com/index.php?/topic/414733-nakajima-kikka/ Official data sheet - more details about the performance]
 * [https://airpages.ru/eng/jp/j8n.shtml <nowiki>[Aviation of Word War II]</nowiki> J8N Kitsuka]
+* [https://sensha-manual.blogspot.com/2021/06/kikka-3.html <nowiki>[SENSHA blog]</nowiki> Japan's First Jet Plane] {{-}} [https://sensha-manual.blogspot.com/2020/03/kikka-1.html <nowiki>[Part 1]</nowiki>] {{-}} [https://sensha-manual.blogspot.com/2020/05/kikka-2.html <nowiki>[Part 2]</nowiki>] {{-}} [https://sensha-manual.blogspot.com/2021/06/kikka-3.html <nowiki>[Part 3]</nowiki>]
+
 
 {{AirManufacturer Nakajima}}
 {{Japan jet aircraft}}

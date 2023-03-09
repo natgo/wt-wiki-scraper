@@ -136,7 +136,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|OFAB-100 (100 kg)|FAB-250M54 (250 kg)|FAB-250M-62 (250 kg)|FAB-500M-54 (500 kg)|FAB-500M-62 (500 kg)}}
+{{main|OFAB-100 (100 kg)|FAB-250M-54 (250 kg)|FAB-250M-62 (250 kg)|FAB-500M-54 (500 kg)|FAB-500M-62 (500 kg)}}
 {{main|ZB-500 incendiary|S-8KO|S-24B}}
 {{main|R-27ER|R-27R|R-27T|R-60|R-60M}}
 
@@ -152,8 +152,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 80 x S-8KO rockets
 * 4 x S-24B rockets
 * 16 x 100 kg OFAB-100 bombs (1,600 kg total)
-* 4 x 250 kg FAB-250M54 bombs (1,000 kg total)
-* 8 x 250 kg FAB-250M54 bombs (2,000 kg total)
+* 4 x 250 kg FAB-250M-54 bombs (1,000 kg total)
+* 8 x 250 kg FAB-250M-54 bombs (2,000 kg total)
 * 4 x 250 kg FAB-250M-62 bombs (1,000 kg total)
 * 8 x 250 kg FAB-250M-62 bombs (2,000 kg total)
 * 4 x 500 kg FAB-500M-62 bombs (2,000 kg total) <small>across 2 pylons</small>
@@ -171,7 +171,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 ! 100 kg OFAB-100 bombs
 | || 4 || 4 || || 4 || 4 ||
 |-
-! 250 kg FAB-250M54 bombs
+! 250 kg FAB-250M-54 bombs
 | || 1, 2 || 1, 2 || || 1, 2 || 1, 2 ||
 |-
 ! 250 kg FAB-250M-62 bombs

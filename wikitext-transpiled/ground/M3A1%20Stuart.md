@@ -87,7 +87,7 @@ While it lacks the post-penetration damage to disable most enemies in one shot, 
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.jpg|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated:''' -->
+<!-- '''Last updated: 2.23.1.43''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -96,7 +96,7 @@ While it lacks the post-penetration damage to disable most enemies in one shot, 
 ! 3rd<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''106''' || 71&nbsp;''(+35)'' || 36&nbsp;''(+70)'' || 1&nbsp;''(+105)'' || No
+| '''106''' || 99&nbsp;''(+7)'' || 52&nbsp;''(+54)'' || 1&nbsp;''(+105)'' || No
 |-
 |}
 
@@ -113,7 +113,7 @@ The M3A1 employs a turret top MG and a coaxial MG, both of which are the same 7.
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 3,250 (250) || 500 || N/A || N/A
+| Coaxial || 3,250 (250) || 500 || - || -
 |-
 | Pintle || 3,000 (250) || 500 || -5°/+70° || ±60°
 |-

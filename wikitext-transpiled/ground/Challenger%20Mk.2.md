@@ -104,7 +104,7 @@ The Challenger bears the 120 mm L11A5, an updated but essentially identical vers
 {{:L11A5 (120 mm)/Ammunition|Shot L23, Shell L31A7, Shot L23A1, L34}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x350px|[[Ammo racks]] of the {{PAGENAME}}]]
 <!-- '''Last updated: 2.19.0.82''' -->
 {| class="wikitable" style="text-align:center"
 |-
@@ -117,7 +117,7 @@ The Challenger bears the 120 mm L11A5, an updated but essentially identical vers
 ! 5th<br>rack empty
 ! 6th<br>rack empty
 |-
-|'''52''' ||''Projectiles''<br>''Propellants'' || 50&nbsp;''(+2)''<br>''47 (+5)'' || 47&nbsp;''(+5)''<br>&nbsp;''41 (+11)'' || 45&nbsp;''(+7)''<br>&nbsp;''35 (+17)'' || 43&nbsp;''(+12)''<br>29&nbsp;''(+23)'' || 39&nbsp;''(+17)''<br>21&nbsp;''(+31)'' || 37&nbsp;''(+15)''<br>&nbsp;''11 (+28)''
+|'''52''' ||''Projectiles''<br>''Propellants'' || 50&nbsp;''(+2)''<br>''47 (+5)'' || 47&nbsp;''(+5)''<br>&nbsp;''41 (+11)'' || 45&nbsp;''(+7)''<br>35&nbsp;''(+17)'' || 43&nbsp;''(+9)''<br>29&nbsp;''(+23)'' || 39&nbsp;''(+13)''<br>21&nbsp;''(+31)'' || 37&nbsp;''(+15)''<br>11&nbsp;''(+41)''
 |-
 ! 7th<br>rack empty
 ! 8th<br>rack empty
@@ -128,7 +128,7 @@ The Challenger bears the 120 mm L11A5, an updated but essentially identical vers
 ! 13th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| 34&nbsp;''(+18)''<br>&nbsp;''4 (+48)'' || 27&nbsp;''(+25)''<br>&nbsp;''1 (+51)'' || 22&nbsp;''(+30)''<br>N/A || 21&nbsp;''(+31)''<br>N/A || 7&nbsp;''(+45)''<br>N/A || 4&nbsp;''(+38)''<br>N/A || 1 ''(+51)''<br> N/A || No
+| 34&nbsp;''(+18)''<br>4&nbsp;''(+48)'' || 27&nbsp;''(+25)''<br>1&nbsp;''(+51)'' || 22&nbsp;''(+30)''<br>&nbsp; || 21&nbsp;''(+31)''<br>&nbsp; || 7&nbsp;''(+45)''<br>&nbsp; || 4&nbsp;''(+38)''<br>&nbsp; || 1&nbsp;''(+51)''<br>&nbsp; || No
 |-
 |}
 '''Notes''':
@@ -157,7 +157,7 @@ The Challenger bears the 120 mm L11A5, an updated but essentially identical vers
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 2,400 (200) || 600 || N/A || N/A
+| Coaxial || 2,400 (200) || 600 || - || -
 |-
 |}
 

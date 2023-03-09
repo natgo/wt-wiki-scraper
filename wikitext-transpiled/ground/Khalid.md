@@ -7,7 +7,7 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' (FV4030/2) is a premium rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
 
-A modernized Chieftain Mk.5 sold to Jordan in late 1970s after the Islamic Revolution in Iran spoiled the original sales to Iran. Thanks to a new 1,200 hp engine, it now enjoys better overall mobility over its predecessors in UK service while utilizing the fire control system from later Mk.10s. But players have to beware of its not-so-effective protection and no APFSDS is available to the Khalid.
+A modernized Chieftain Mk.5 sold to Jordan in late 1970s after the Islamic Revolution in Iran spoiled the original sales to Iran. Thanks to a new 1,200 hp engine, it now enjoys better overall mobility over its predecessors in UK service while utilizing the fire control system from later Mk.10s. But players have to beware of its not-so-effective protection.
 
 ''Note: Khalid (lit. eternal) is a common name in Arabic World and not to be confused with the Al-Khalid MBT from Pakistan''
 
@@ -74,6 +74,7 @@ To conclude, Khalid has rather obsolete firepower for its tier; but aiming caref
 |}
 
 ==== Ammunition ====
+
 * '''L15A3; APDS''' - The most common round for British 120 mm for pre-Challenger tanks and the only kinetic shell option for Khalid. Although it is more than enough to take down most tanks which happen to run into Khalid, but at its current BR where T-64A and T-72A appear, the shell very likely does nothing to them without hitting the LFP or driver's hatch. So aim carefully for a single-shot knock-out as the APDS has lesser spalling.
 * '''L31A7; HESH''' - The other common round for British 120 mm up to this date, the shell itself has rather high penetration for a HESH shell and will very likely disintegrate any light vehicle that happen to run into Khalid. Alternatively, this also gives Khalid the chance to take down tanks with their hatches exposed as the shell "sticks" to the surface and cause extensive damage to the interior of enemy tanks, either from spalling or overpressure.
 * '''L23; APFSDS'''
@@ -160,8 +161,10 @@ However, the Islamic Revolution put an end to the project, and the parts from th
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_khalid Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+;Videos
+{{Youtube-gallery|-3QsGMSrgEM|'''The Shooting Range #343''' - ''Metal Beasts'' section at 00:25 discusses the {{PAGENAME}}.}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
@@ -169,6 +172,7 @@ However, the Islamic Revolution put an end to the project, and the parts from th
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Chieftain (Family)]]
 
 == External links ==

@@ -163,6 +163,8 @@ The Type 4 Ho-Ro was a Self Propelled Gun developed by the Imperial Japanese Arm
 * ''other literature.'' -->
 
 * [[Wikipedia:Type_4_Ho-Ro|[Wikipedia] Type 4 Ho-Ro]]
+* [https://tanks-encyclopedia.com/ww2/japan/type-4-ho-ro/ <nowiki>[Tank Encyclopedia] Type 4 Ho-Ro</nowiki>]
+* [https://www.militaryfactory.com/armor/detail.php?armor_id=403 <nowiki>[Military Factory] Type 4 Ho-Ro</nowiki>]
 
 === References ===
 <references />

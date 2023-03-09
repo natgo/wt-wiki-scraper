@@ -95,8 +95,10 @@
 |
 {{Tree-Unit|us_m6a1}}
 {{Tree-Arrow}}
+{{Tree-Unit|us_t1e1}}
+{{Tree-Arrow}}
 {{Tree-Unit|us_m4a3e2_sherman_jumbo}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow}}
 |
 {{Tree-Unit|us_m19}}
 {{Tree-Arrow}}

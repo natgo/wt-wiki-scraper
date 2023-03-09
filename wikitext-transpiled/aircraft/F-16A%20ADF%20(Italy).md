@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian jet fighter {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
 
-A representation of rented [[F-16A ADF]]s from the USAF for the Italian Air Force; aside from the roundel on the aircraft, the jet performs exactly like its American counterpart, ensuring the air-combat capability of Italy with some of the most advanced missiles in game, as well as advanced avionics and manoeuvrability.
+A representation of the rented [[F-16A ADF]]s from the USAF for the Italian Air Force; aside from the roundel on the aircraft, the jet performs exactly like its American counterpart, ensuring the air-combat capability of Italy with some of the most advanced missiles in game, as well as advanced avionics and manoeuvrability. For players who need interception both short and long range, the F-16 ADF is able to provide that. It's top speed will assure you that you will easily be able to be one of the first aircraft to spot incoming enemy jets. It does not have really have any air to ground capability, however if you're able to line up an easy shot against lightly armoured targets, such as SPAA's or IFV's, you can usually take them out. 
 
 == General info ==
 === Flight performance ===
@@ -218,7 +218,6 @@ Italian F-16s in service would not be equipped with rockets, bombs or air to gro
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
 * [[F-16 (Family)]]
 
 == External links ==
@@ -226,7 +225,11 @@ Italian F-16s in service would not be equipped with rockets, bombs or air to gro
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
+* https://forum.warthunder.com/index.php?/topic/496860-general-dynamics-f-16a-adf-and-variants/
+* https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104505/f-16-fighting-falcon/
+
 === References ===
 <references />
 
+{{AirManufacturer General Dynamics}}
 {{Italy jet aircraft}}

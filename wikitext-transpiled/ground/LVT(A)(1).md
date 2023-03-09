@@ -205,7 +205,6 @@ After World War II, the LVTs continued to see action in the multiple conflicts i
 * ''other literature.'' -->
 
 * [[wt:en/news/3755-development-lvt-a-1-en/|[Devblog] LVT(A)-1]]
-* [[wikipedia:Landing_Vehicle_Tracked|[Wikipedia] Landing Vehicle Tracked]]
 * [https://tanks-encyclopedia.com/ww2/US/LVTA-1_Amtrack.php <nowiki>[Tanks Encyclopedia]</nowiki> LVT(A)1 Amtrack]
 
 {{TankManufacturer Food Machinery Corporation (FMC)}}

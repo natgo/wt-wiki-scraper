@@ -6,7 +6,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet jet fighter {{Battle-rating}}, nicknamed "The devil's broomstick". It was introduced during [[Update "Raining Fire"]] as a reward for the [[wt:en/news/6878-event-wargame-strategist-en|2020 Wargame "Strategist" event]], and is currently available for sale on the Marketplace.
+The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet jet fighter {{Battle-rating}}. It was introduced during [[Update "Raining Fire"]] as a reward for the [[wt:en/news/6878-event-wargame-strategist-en|2020 Wargame "Strategist" event]], and is currently available for sale on the Marketplace.
+
+Nicknamed the "Devil's Broomstick", the Bereznyak-Isayev BI was one of the world's first rocket-powered fighter aircraft. Envisaged as a short-range point interceptor, it features extremely high acceleration and climb rate, in return for extremely limited fuel.
 
 == General info ==
 === Flight performance ===
@@ -136,41 +138,41 @@ The '''''{{PAGENAME}}''''' is armed with:
 ====Fuel management ====
 Managing your fuel will allow your endurance to increase from 1 minute 57 seconds to over 13 minutes, only use the fuel you need to use.
 
-To get the longest endurance out of its limited fuel amount, climb from the airfield at an angle of 70-80 degrees, at full throttle and as you hit 3,000 m, change the angle of the attack and throttle back to 30%. Adjust your climb angle to make sure speed is still increasing whilst the height increases too. This will allow you to travel to 5,000 plus  without burning much of your precious rocket fuel. This fuel, you will need for later in the battle. Once you have hit 5,000 m, throttle back to 14% and continue to climb and adjust your climb angle again to roughly 16 degrees. You can continue to climb at this angle until you see it fit not to do so.
+To get the longest endurance out of its limited fuel amount, climb from the airfield at an angle of 70-80 degrees, at full throttle and as you hit 3,000 m, change the angle of the attack and throttle back to 30%. Adjust your climb angle to make sure that both speed and altitude continue increasing. This will allow you to travel to 5,000+ m without burning too much of your precious rocket fuel, you will need this for later in the battle. Once you have hit 5,000 m, throttle back to 14% and continue to climb and adjust your climb angle again to roughly 16 degrees. You can continue to climb at this angle until you see it fit not to do so.
 
-When you hit the altitude you like, you can throttle back to 0% and just glide, with only minor adjustments to the throttle to keep in you level flight.
+When you hit the altitude you like, you can throttle back to 0% and just glide, with only minor adjustments to the throttle to stay in level flight.
 
 ==== Descending ====
+The key to descending without locking up and crashing is to not point your nose straight down. Unlike other aircraft, the BI is able to gain a lot of speed even in a little descent. When the BI starts going over 700 km/h, pull up slowly and slow back down. When you push the nose back down, push the rudder all the way to the left or right. If you aren't losing speed fast enough, shift the plane 45 degrees to the left and right, with full rudder movements. This will slow you down.
 
-The key to descending without locking up and crashing is, not to point your nose straight down unlike other aircrafts, the BI is able to gain a lot of speed even in a little descent. When, the BI speed starts going over 700 km/h pull up slowly and lose it, when you push the nose back down push the rudder all the way to the left or right. If you aren't losing speed fast enough, shift the plane 45 degrees to the left or right, with full rudder movements. This will slow you down.
-
-Due to the BI being able to go over 900 km/h with ease and locks up at Mach 0.76, descending from height from 5,000 m needs to be calculated based on the battle conditions in the match. If you descend to fast, due to a high angle of attack, you will lock up and crash into the ground, because you will be unable to pull out in time.
+Due to the BI being able to go over 900 km/h with ease and locking up at Mach 0.76, descending from height from 5,000 m needs to be carefully calculated based on the battle conditions in the match. If you descend to fast, due to a high angle of attack, you will lock up and crash into the ground, because you will be unable to pull out in time.
 
 A high angle of attack for a descent is around -70 degrees, even using the ruder and shifting the BI to the left and right will not be enough.
 
-A good angle of attack to descend is around -30 to -60, the steeper the angle faster you will go.  When you descend keep your throttles at 0%, only when you are pulling out of the dive at the very end, after losing speed, they should be opened carefully.
+A good angle of attack to descend is around -30 to -60, the steeper the angle faster you will go.  When you descend keep your throttle at 0%, only when you are pulling out of the dive at the very end, after losing speed, they should be opened carefully.
 
 ==== Engaging in combat ====
 [[File:BI Wiki Image 4.jpg|thumb|Cockpit of the BI.]]
-The BI is similar to the  '''''[[He_162_A-2|He 162 A-2]]''''' - small amounts of fuel and ammo (low flight endurance) but has astonishing performance, being able to climb 80 degrees vertically. As such it excels in the interceptor role, climbing at a extremely  high rate of up to 116.4 m/s in AB and 100.0 m/s in RB. Able to shoot down bombers and fighter bombers before exhausting the fuel supply and landing again. Don't be rused by its acceleration into thinking it has a high top speed - the wings and elevators will lock up at Mach speed: 0.76 Thus making any manoeuvres and climbs impossible. Flying full throttle at 8,000 m, will see you rip your wings off in level flight.
+The BI is similar to the [[Me 163 B]] - small amounts of fuel and ammo (low flight endurance) but with astonishing performance, being able to climb 80 degrees vertically. As such it excels in the interceptor role, climbing at a extremely high rate of up to 116.4 m/s in AB and 100 m/s in RB. Able to shoot down bombers and fighter bombers before exhausting the fuel supply and landing again. Don't be fooled by its acceleration into thinking it has a high top speed - the wings and elevators will lock up at Mach 0.76, making any manoeuvres impossible. Flying full throttle at 8,000 m will see you rip your wings off in level flight.
 
-Do not try to outrun enemies, in turn fights but instead use your manoeuvrability and acceleration to fight them, your speed & small size will be your only zenith. The BI only has 90 rounds of ammo, 45 rounds per gun. This is not a lot of ammo, you can get up to two kills, without having to reload with well placed shots.
+If engaged by an opponent, do not try to outrun them, instead use your manoeuvrability and acceleration to turn fight, your speed and small size are your greatest strengths. The BI only has 90 rounds of ammo, 45 rounds per gun. This is not a lot of ammo, so take care to make every shot count.
+
 =====Engaging fighters=====
-Fighting fighters in combat, aim for the wings and tail, aiming for wings with the limited ammo which the BI has will cause the wing fuel tanks to catch on fire. Aiming for the tail, will see that the tail gets cut clean from the fuselage, unlike a bomber a fighter is smaller and lesser space for fired ammo to miss critical elements.
+Fighting fighters in combat, aim for the wings and tail, aiming for wings with the limited ammo which the BI has will cause the wing fuel tanks to catch on fire. Aiming for the tail, will see that the tail gets cut clean from the fuselage, unlike a bomber a fighter is smaller and has less space for fired ammo to miss critical elements.
 
-The enemy fighter, may see you sneaking on him or her, they will bank left or right, do not follow them in the turn, the BI cannot turn fight with out losing its advantageous speed. Instead, disengage, throttle up, climb and come back around for another pass.
+If the enemy fighter notices you attempting to sneak up on them, they will bank left or right, do not follow them in the turn, the BI cannot turn fight without losing its advantageous speed. Instead, disengage, throttle up, climb and come back around for another pass.
 
 =====Engaging Bombers=====
-Fighting bombers, aim for the wings and engines, aiming for the fuselage will unlikely cause any critical hits unless you can hit the flight deck. Aiming for the wings, increases the odds of hitting a wing spar and seeing the wing get ripped off with a short one second salvo. Aiming for engine, will knock the engine out and possibly set fires inside of the wing installed fuel tanks. The larger area with more critical elements increase the odds of doing critical damage with the limited rounds which you have.
+Fighting bombers, aim for the wings and engines, aiming for the fuselage is unlikely to cause any critical hits unless you can hit the flight deck. Aiming for the wings increases the odds of hitting a wing spar and seeing the wing get ripped off with a short salvo. Aiming for engines will knock them out and possibly set fires inside of the wing-installed fuel tanks. The larger area with more critical elements increase the odds of doing critical damage with the limited rounds which you have.
 
-Do not stay behind the enemy bomber, their gunners will hit your rocket fuel tanks and will see the BI set on fire. If it is on fire, break off the attack and dive as fast as you can, this will put the fire out. Then head back to the airfield and repair, and refuel.
+Do not stay behind the enemy bomber, their gunners will hit your rocket fuel tanks and will see the BI set on fire. If this occurs, break off the attack and dive as fast as you can, this will put the fire out. Then head back to the airfield and repair, and refuel.
 
 ==== Landing ====
-To land the BI, you need to keep about 5 to 10 seconds of fuel in case you need to go around due to a missed approach. When on approach, you will need to lose speed fast, which it can do. This is due to the BI not using the sleek low profile aerodynamic wings, as you find on other jets. However, to do this, you must reduce the speed down to under 420 km/h or your gear will be ripped off making the odds of crashing on landing very high.
+To land the BI, you should keep about 5 to 10 seconds of fuel in case you need to go around due to a missed approach. When on approach, you will need to lose speed fast, which it can do. This is due to the BI not using the sleek low profile aerodynamic wings, as you find on other jets. However, to do this, you must reduce the speed down to under 420 km/h or your gear will be ripped off making the odds of crashing on landing very high.
 
 To land the BI, flip the plane on its side, use the rudder during the turns to help cause more fiction with the air, which will start reducing its speed. Due to the shape of the BI which features great glider aerodynamics, it is able to fly at high speeds and keep the momentum even without any throttle being active. As soon as the BI touches the ground, apply the breaks and turn the rudder hard left and right to help slow it down.
 
-Landing on short runways, should be avoided or risk crashing at the end, the reason for this if you come into fast or high the BI will bounce, it will bounce to 150 m or more. Ideally you should head back to the main airfield which has the long landing strip to land on.
+Landing on short runways should be avoided or risk crashing at the end, the reason for this if you come into fast or high the BI will bounce, it will bounce to 150 m or more. Ideally you should head back to the main airfield which has the long landing strip to land on.
 
 [[File:BI Wiki Image 2.jpg|thumb|BI attacking an enemy jet bomber.]]
 

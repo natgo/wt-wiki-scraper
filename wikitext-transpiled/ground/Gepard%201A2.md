@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=germ_flakpz_1a2_Gepard
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==

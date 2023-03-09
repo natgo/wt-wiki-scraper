@@ -314,6 +314,7 @@
 {{Tree-Unit|javelin_fmk9}}
 {{Tree-Arrow}}
 {{Tree-Unit|lightning_f6}}
+{{Tree-Arrow}}
 |
 {{Tree-Unit|scimitar_f1}}
 {{Tree-Arrow|1}}
@@ -338,6 +339,7 @@
 |
 {{Tree-Unit|f-4m_fgr2}}
 |
+{{Tree-Arrow-Full|1}}
 |
 {{Tree-Unit|f-4k}}
 |
@@ -354,6 +356,7 @@
 |
 {{Tree-Skip}}
 |
+{{Tree-Unit|tornado_f3}}
 {{Tree-Skip}}
 |
 {{Tree-Skip}}

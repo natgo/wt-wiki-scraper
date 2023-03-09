@@ -9,7 +9,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German self-propelled anti-air
 
 The 3.7-cm Flak 36 auf Selbstfahrlafette Sd.Kfz 6/2, or just Sd.Kfz 6/2 for short, with its 3.7 cm autocannon can easily dispatch any aircraft given the circumstances. However, its gun (with APHE ammo) can also make it a very good improvised anti-tank vehicle if push comes to shove against an enemy armoured vehicle.
 
-Because it is based on an artillery tug half-track, it has no armour anywhere so even machine guns can knock out the driver. The crew manning the turret is completely exposed aside from the gun shield. The Sd.Kfz 6/2 can be surprisingly durable at times, however. Inexperienced players may try attacking it with AP/APCR ammo, and often targeting all the wrong places like the engine, driver cabin, or edges of the gun shield. The chances are worse if the enemy decides to sling over a chemical round for the explosion to do its deed. HE or HEAT shells can knock out the entire crew, even just by hitting the ground around the vehicle. 
+Because it is based on an artillery tug half-track, it has no armour anywhere so even machine guns can knock out the driver. The crew manning the turret is completely exposed aside from the gun shield. The Sd.Kfz 6/2 can be surprisingly durable at times, however. Inexperienced players may try attacking it with AP/APCR ammo, and often targeting all the wrong places like the engine, driver cabin, or edges of the gun shield. The chances are worse if the enemy decides to sling over a chemical round for the explosion to do its deed. HE or HEAT shells can knock out the entire crew, even just by hitting the ground around the vehicle.
 
 The mobility is comparable to somewhere between a light and medium tank, and the chassis produces a favorable cross-country performance, so this can be used to get out of an area if spotted or being pursued.
 
@@ -75,11 +75,9 @@ The driving compartment at the front of the vehicle creates a dead zone for the 
 * '''Default:''' {{Annotation|APHE|Armour-piercing high-explosive}}{{-}}{{Annotation|FI-T|Fragmentation incendiary tracer}} - This belt can fulfill both roles (anti-aircraft and anti-tank) only at the cost of a halved rate of fire for effective shells against a specific target (especially for the anti-tank role) until dedicated belts are available.
 * '''Sprgr. 18:''' {{Annotation|FI-T|Fragmentation incendiary tracer}} - This belt is adapted to the anti-air role as it contains only incendiary rounds. It will deal good damage to aircraft but will deal next to no damage to ground vehicles.
 * '''PzGr:''' {{Annotation|APHE|Armour-piercing high-explosive}} - This belt deals decent damage against lightly armoured vehicles and planes but excels against tanks. When targeting ground vehicles, aim for weak spots.
-* '''M.Gr.18:''' {{Annotation|FI-T|Fragmentation incendiary tracer}} - This belt excels in the anti-air role: with an increased muzzle velocity and a larger explosive filler, it deals heavier damage to airplanes than the "Sprgr. 18" belt. It will deal next to no damage to ground vehicles.
+* '''M.Gr.18:''' {{Annotation|HEI-T|High-explosive incendiary tracer}} - This belt excels in the anti-air role: with an increased muzzle velocity and a larger explosive filler, it deals heavier damage to airplanes than the "Sprgr. 18" belt. It will deal next to no damage to ground vehicles.
 
-Since every FI-T bullet contains a tracer, it helps aiming at aircraft but detectability is also greatly increased.
-
-{{:FlaK36 (37 mm)/Ammunition|Sprgr. 18, PzGr, M.Gr.18}}
+{{:FlaK36 (37 mm)/Ammunition|FI-T, APHE, HEI-T}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Sd.Kfz.62.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

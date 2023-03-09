@@ -189,7 +189,9 @@ The Char B1, upon playing it for the first time will be slow in both acceleratio
 
 '''Enemies worth noting:'''
 
-* M3/M5 Stuart: as previously mentioned, light tanks can be a dangerous threat to the clumsy B1. The Stuarts have good acceleration, great top speed regardless of the terrain, and fast hull traverse, allowing them to sneak up or charge at a B1 without getting hit. When they are close, their 37 mm cannons can easily penetrate your hull cannon mount, turret sides and hull sides, and their fast reload can knock out your crews one by one. To counter them, angle your hull for about 45 degrees, this way their small calibre shells tend to ricochet and will have a hard time to penetrate you. If they circle you, turn your hull and reverse at the same time to avoid them flanking, and if possible gain some separation. Target their hull, as their frontal turret is mostly covered by a curved gun mantlet which can cause non-penetrations.
+* [[M3 Stuart (Family)|M3]]/[[M5 Stuart (Family)|M5 Stuart]] - These agile light tanks can be a dangerous threat to the clumsy B1. The Stuarts have good acceleration, great top speed regardless of the terrain, and fast hull traverse, allowing them to sneak up or charge at a B1 without getting hit. When they are close, their 37 mm cannons can easily penetrate your hull cannon mount, turret sides and hull sides, and their fast reload can knock out your crews one by one. To counter them, angle your hull for about 45 degrees, this way their small calibre shells tend to ricochet and will have a hard time to penetrate you. If they circle you, turn your hull and reverse at the same time to avoid them flanking, and if possible gain some separation. Target their hull, as their frontal turret is mostly covered by a curved gun mantlet which can cause non-penetrations.
+* [[T-50]]/[[T-126]] - These light tanks have a thick and well-sloped armour will prevent you from piercing them anywhere on the front hull save for extreme circumstances when they are nose-down to you (i.e. in a ditch). These tanks also receive high-penetration 45 mm guns which can fire the potent APHEBC shot, or even APCR, and these will cut through your armour with relative ease. Your only chances of damaging them frontally are to disable their tracks and then gun, or get lucky and penetrate the turret front, which is theoretically possible to do so, but the weak nature of the B1's guns plus the curved nature of their turrets means that doing so outside of close range isn't advisable. Leave these to stronger teammates to deal with.
+* [[Matilda III]]: This is perhaps the greatest threat to your existence. The only other infantry tank to serve at the same time as the B1 Bis, The Matilda boasts a near-solid 70+ mm of armour frontally, has 75 mm of armour all over the turret and 70 mm of side armour covered with side skirts. Only the rear hull (55 mm) is penetrable, and in any case the B1 is slow and sluggish, meaning that the Matilda, if not too crippled, can still ruin your day. The worst thing of all this, however, is that the Matilda boasts the 2-pounder; while not the best choice for its BR, it can still pierce your armour with relative ease if you haven't angled, meaning that a 1-vs-1 fight will almost certainly see the Matilda win hands-down. If you do see one in combat, floor the gas and start praying really hard that a friendly with a big gun also saw him. 
 
 '''Against the B1 bis:'''
 
@@ -257,6 +259,7 @@ In the 1940 Battle for France, only the German 88 mm guns could reliably defeat 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_b1_bis Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -268,9 +271,11 @@ In the 1940 Battle for France, only the German 88 mm guns could reliably defeat 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[B1 ter]]
 
 ;Other vehicles of similar configuration and role
+
 * [[M3 Lee]] / [[M3 Medium (USSR)]]
 * [[Grant I]] / [[Grant I (USA)]]
 * [[Churchill I]]

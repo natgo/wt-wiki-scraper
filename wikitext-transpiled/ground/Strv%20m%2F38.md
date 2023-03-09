@@ -68,6 +68,7 @@ The '''{{Specs|name}}''' (shortened '''{{Specs|pseudonym}}''') is a rank {{Specs
 {{:kan m/38 (37 mm)/Ammunition|slpprj m/38, slpgr m/39, 3.7 cm slpprj m/49}}
 
 ==== [[Ammo racks]] ====
+[[File:Ammoracks_Strv_m38.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
 <!-- '''Last updated: 2.9.0.52''' -->
 {| class="wikitable" style="text-align:center"
 |-
@@ -78,17 +79,25 @@ The '''{{Specs|name}}''' (shortened '''{{Specs|pseudonym}}''') is a rank {{Specs
 ! 4th<br>rack empty
 ! 5th<br>rack empty
 ! 6th<br>rack empty
+|-
+| '''100''' || 81&nbsp;''(+19)'' || 71&nbsp;''(+29)'' || 61&nbsp;''(+39)'' || 51&nbsp;''(+49)'' || 41&nbsp;''(+59)'' || 34&nbsp;''(+66)''
+|-
 ! 7th<br>rack empty
 ! 8th<br>rack empty
 ! 9th<br>rack empty
 ! 10th<br>rack empty
 ! 11th<br>rack empty
 ! Visual<br>discrepancy
+!
 |-
-| '''100''' || 81&nbsp;''(+19)'' || 71&nbsp;''(+29)'' || 61&nbsp;''(+39)'' || 51&nbsp;''(+49)'' || 41&nbsp;''(+59)'' || 34&nbsp;''(+66)'' || 28&nbsp;''(+72)'' || 21&nbsp;''(+79)'' || 14&nbsp;''(+86)'' || 8&nbsp;''(+92)'' || 1&nbsp;''(+99)'' || No
+| 28&nbsp;''(+72)'' || 21&nbsp;''(+79)'' || 14&nbsp;''(+86)'' || 8&nbsp;''(+92)'' || 1&nbsp;''(+99)'' || No
+!
 |-
 |}
-[[File:Ammoracks_Strv_m38.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+'''Notes''':
+
+* Shells are modeled by sets of 3, 4, or 5. They disappear from the rack only after you've fired all shells in the set.
+* Hull lower sides only: 41&nbsp;''(+59)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

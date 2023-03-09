@@ -147,18 +147,32 @@ The '''''{{PAGENAME}}''''' is armed with:
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
 {{main|G.P. Mk.IV (500 lb)|G.P. Mk.I (1,000 lb)|RP-3}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 * Without load
+* 16 x RP-3 rockets
 * 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
 * 4 x 500 lb G.P. Mk.IV bombs (2,000 lb total)
 * 2 x 1,000 lb G.P. Mk.I bombs (2,000 lb total)
-* 2 x 1,000 lb G.P. Mk.I bombs + 2 x 500 lb G.P. Mk.IV bombs (3,000 lb total)
-* 16 x RP-3 rockets
-* 16 x RP-3 rockets + 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
-* 16 x RP-3 rockets + 4 x 500 lb G.P. Mk.IV bombs (2,000 lb total)
-* 16 x RP-3 rockets + 2 x 1,000 lb G.P. Mk.I bombs (2,000 lb total)
-* 16 x RP-3 rockets + 2 x 1,000 lb G.P. Mk.I bombs + 2 x 500 lb G.P. Mk.IV bombs (3,000 lb total)
+
+==== Custom loadout options ====
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
+| rowspan="5" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! 500 lb G.P. Mk.IV bombs
+| || || || || 1 || 2 || 1 || || || ||
+|-
+! 1,000 lb G.P. Mk.I bombs
+| || || || || || 2 || || || || ||
+|-
+! RP-3 rockets
+| 2 || 2 || 2 || 2 || || || || 2 || 2 || 2 || 2
+|-
+| colspan="12" | Maximum permissible loadout weight: 1,690 kg<br>Maximum permissible weight imbalance: 500 kg
+|-
+|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

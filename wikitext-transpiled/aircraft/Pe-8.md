@@ -117,7 +117,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 4 x 1,000 kg FAB-1000 bombs (4,000 kg total)
 * 1 x 5,000 kg FAB-5000 bomb (5,000 kg total)
 
-The Pe-8 can carry the FAB-5000 bomb, the largest bomb in-game, with over 5 tons of TNT equivalent, which proves extremely deadly in ground RB and naval battles. The 40 x 100 kg bombs loadout is suitable for carpet bombing against columns of vehicles and occasionally base bombing while the 4 x 1000 kg bombs loadout is best suited for destroying bases and airfields, and 2 bombs are required to destroy a base. The stock payload of 40 x 50 kg bombs has very little efficiency against ground targets due to lack of explosive power and is ill-suited for base bombing.
+The Pe-8 can carry the FAB-5000 bomb with over 5 tons of TNT equivalent, which proves extremely deadly in ground RB and naval battles. The 40 x 100 kg bombs loadout is suitable for carpet bombing against columns of vehicles and occasionally base bombing while the 4 x 1000 kg bombs loadout is best suited for destroying bases and airfields, and 2 bombs are required to destroy a base. The stock payload of 40 x 50 kg bombs has very little efficiency against ground targets due to lack of explosive power and is ill-suited for base bombing.
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}

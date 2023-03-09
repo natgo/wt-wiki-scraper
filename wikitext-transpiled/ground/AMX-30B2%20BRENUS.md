@@ -249,3 +249,4 @@ During the mid to late 1990s, AMX-30B2 tanks of the 1er/ 2e Chasseurs tank regim
 
 {{TankManufacturer AMX}}
 {{France medium tanks}}
+[[Category:Ground vehicles with active protection system]]

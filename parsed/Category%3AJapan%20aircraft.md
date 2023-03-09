@@ -286,6 +286,7 @@
 {{Tree-Unit|t2}}
 {{Tree-Arrow}}
 {{Tree-Unit|f1}}
+{{Tree-Arrow}}
 |
 |
 |
@@ -299,6 +300,7 @@
 {{Tree-Unit|f-4ej}}
 {{Tree-Arrow}}
 |
+{{Tree-Arrow-Full|1}}
 |
 |
 |
@@ -311,6 +313,7 @@
 {{Tree-Unit|f-4ej_kai}}
 {{Tree-Skip}}
 |
+{{Tree-Unit|f_16aj}}
 {{Tree-Skip}}
 |
 {{Tree-Skip}}

@@ -169,9 +169,11 @@ File:M8 HMC pilot at Aberdeen Proving Ground.jpg|<small>An M8 Howitzer Motor Car
 * [[M8 General Scott (Family)]]
 
 == External links ==
-''Paste links to sources and external resources, such as:''
-
+<!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
-* ''other literature.''
+* ''other literature.'' -->
+* [[wikipedia:Howitzer_Motor_Carriage_M8|[Wikipedia] Howitzer Motor Carriage M8]]
+* [https://www.tanks-encyclopedia.com/ww2/US/M8_Scott.php <nowiki>[Tank Encyclopedia]</nowiki> H.M.C. M8 "Scott"]
+* [https://www.militaryfactory.com/armor/detail.php?armor_id=496 <nowiki>[Military Factory]</nowiki> M8 Scott (Howitzer Motor Carriage M8)]
 
 {{USA tank destroyers}}

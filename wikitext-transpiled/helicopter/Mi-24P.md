@@ -13,6 +13,8 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' (NATO Code: Hind-F) is a rank {{Specs|rank}} Soviet attack helicopter {{Battle-rating}}. It was introduced in [[Update 1.81 "The Valkyries"]].
 
+The Mi-24P is very similar to the previous [[Mi-24V]], having the same airframe, technology, and weapons. The only difference is the gun armament: the chin-mounted Yak-B gatling gun has been replaced with a fixed GSh-30-2 cannon mounted on the right side of the nose. This is the same type of cannon mounted on the [[Su-25]] attack jet, another Soviet "flying tank". Although it is difficult to aim, a quick burst from the cannon can shred lightly armored vehicles. Thus, the Mi-24P is a sidegrade to the Mi-24V, having more anti-ground ability at the cost of a minor amount of anti-air capability.
+
 == General info ==
 === Flight performance ===
 {{Specs-Heli-Flight}}
@@ -66,6 +68,10 @@ The '''''{{PAGENAME}}''''' is armed with:
 ** 1 x 30 mm GSh-30-2K cannon (250 rpg) + HIRSS
 ** 1 x 30 mm GSh-30-2K cannon (250 rpg) + HIRSS + 192 x countermeasures
 ** 1 x 30 mm GSh-30-2K cannon (250 rpg) + HIRSS + 192 x countermeasures + IRCM
+
+The fearsome dual-barrel GSh-30-2K cannon boasts a high muzzle velocity, a rapid 2,600 rounds/min rate of fire, and a powerful mix of shells that are effective against both aircraft and ground vehicles. Compared to the Su-25 Grach's basic GSh-30-2, the Mi-24P's "K" variant has a longer barrel (by nearly 1 metre) and thus improved muzzle velocity and penetration. It does not have enough punch to be a major threat to MBTs, other than those with particularly poor side armour, but it is a quick way to mop up IFVs and SPAAs that are within gun range and not paying attention. Be mindful of the limited ammunition supply and use the ballistic computer to aim precisely.
+
+Although the GSh-30-2K is powerful, its fixed mount makes it difficult to aim. The Mi-24P needs to point its nose directly at the target for the duration of a burst and the airframe does not have the nose authority or general agility to make this easy. In air-to-air combat, these disadvantages are magnified, and the previous Mi-24V's Yak-B gun may be more practical.
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
@@ -122,8 +128,16 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |-
 |}
 
+The Mi-24P has the exact same loadouts as the Mi-24V, so all previous advice applies. The 9M114 Shturm missiles are the main anti-tank weapons and the R-60 "Aphid" missiles are the main anti-air weapons, and remaining pylons can be distributed between rockets and bombs by personal choice.
+
 == Usage in battles ==
-''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+<!--''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''-->
+
+The Mi-24P can be used very similarly to the Mi-24V and will function identically in standoff situations where the 9M114 Shturm ATGMs or S-24 rockets would be used from afar. The powerful cannon is helpful when making aggressive attack runs, either as a first choice or when moving closer to the battlefield after expending ATGMs. Even with ballistic computer assistance, it may take some practice to use the cannon effectively. Line up the Mi-24P for a gun run in advance and start firing from some distance away to avoid needing heavy course corrections.
+
+The R-60/R-60M missiles are somewhat more important for the Mi-24P than they are on the Mi-24V. The cannon is likely to evaporate any aircraft it touches, but an agile opponent can dodge its fire. It is difficult to hit jets with it unless they linger in a head-on. Even in helicopter dogfights, the contemporary [[AH-1F]] for example has superior agility and a turreted 20 mm gatling cannon that can perforate the Mi-24P in turn, so having a couple of missiles on hand to dispatch aircraft with a couple of button presses is more helpful than ever.
+
+Keep in mind that the kind of light vehicles that the Mi-24P's cannon is most effective on are often quite good at fighting helicopters in their own right. For SPAA vehicles their effectiveness against nearby air targets is a given, but IFVs with optical tracking, proximity fused/airburst rounds, and/or proximity-fused ATGMs can also send the Mi-24P back to the hangar without much trouble. The Hind family may have a reputation as "flying tanks", but they may more accurately be considered "flying IFVs" given their troop transport capability and limited protection. Thus, in War Thunder the Mi-24P can borrow the IFV tactic of using its great speed to zip in and out of the battlefield and attack from unexpected directions.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

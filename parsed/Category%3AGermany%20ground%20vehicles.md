@@ -38,7 +38,9 @@
 {{Tree-Unit|germ_flakpanzer_I_ausf_A}}
 {{Tree-Arrow}}
 {{Tree-Unit|germ_flakpanzer_38t_Gepard}}
-{{Tree-Arrow|2}}
+{{Tree-Arrow}}
+{{Tree-Unit|germ_sdkfz_222}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|germ_pzkpfw_35t}}
 {{Tree-Arrow}}
@@ -294,6 +296,8 @@
 {{Tree-Unit|germ_mkpz_super_m48}}
 {{Tree-Arrow}}
 {{Tree-Unit|germ_kpz_70}}
+{{Tree-Arrow}}
+{{Tree-Unit|germ_kpz_t72m1}}
 |
 {{Tree-Group|germ_leopard_1_late_group|Leopard A1A1/1A5|
   {{Tree-Unit|germ_leopard_I_a1}}

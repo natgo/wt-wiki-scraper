@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ''(GRAU: '''9K331'''; NATO: '''SA-15 Gauntlet'''; commonly known in Chinese as '''道尔-M1''')'' is a rank {{Specs|rank}} Chinese SPAA {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]].
+The Tor-M1 ''(GRAU: '''9K331'''; NATO: '''SA-15 Gauntlet'''; commonly known in Chinese as '''道尔-M1''')'', was bought from Russia in late 1990s to fulfill the demand for a field air-defense system and was later reverse-engineered and improved under the name of HQ-17 (红旗-17). The basis of the Tor was to replace earlier divisional SAM systems and also develop a VLS SAM for the Soviet Navy, the result of this project was the Tor systems and they have been deployed on multiple occasions through the 21st century.
 
-Sitting at the end of the Chinese SPAA line and one of the more recent military purchases of Russian equipment by the PLAGF, the Tor-M1 also marked the introduction of SPAA systems that can track and engage multiple targets at once; with its 8 cell VLS onboard and great mobility even at such a huge size, as well as its 9M331 SAMs, the Tor-M1 will strike fear to any aerial targets and provides a vital long-range anti-aircraft measure for the Chinese tech tree.
+Introduced in [[Update "Apex Predators"]] as the first SAM system to receive Track-while-Scan functionality, the Tor-M1 offers valuable anti-aircraft capabilities for the Chinese tech tree and also marked the introduction of VLS systems for the game. While the 8 missiles have rather long intercept range and sustained speed before the motor burns out, as well as having a long-range search radar, players will have to be cautious about their rather low G overload for a top-rank SAM, and its enormous size which gives away the position of the vehicle right away.
 
 == General info ==
 === Survivability and armour ===

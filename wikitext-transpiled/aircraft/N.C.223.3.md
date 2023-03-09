@@ -196,6 +196,7 @@ The one in-game was a bomber version with different, weaker engines than the ori
 
 * [[wt:en/news/5095-development-nc-223-3-let-nobody-leave-unsatisfied-en|[Devblog] NC.223.3: let nobody leave unsatisfied!]]
 * [https://forum.warthunder.com/index.php?/topic/385686-nc-2233/ Official data sheet - more details about the performance]
+* [[wikipedia:Farman_F.220|[Wikipedia] Farman F.220]]
 
 {{AirManufacturer Farman}}
 {{France bombers}}

@@ -23,9 +23,7 @@ The STB-1 is unique in being one of the only Japanese tanks that can take a hit,
 |-
 | Turret || 132 mm (12-66°) ''Turret front'' <br> 100-200 mm (1-66°) ''Gun mantlet'' || 132 mm (1-54°) <br> 75 mm (26-61°) ''Rear'' || 40 mm (1-64°) <br> 40 mm (36-82°) ''Turret underside''|| 67 mm ''Front'' <br> 20 mm ''Rear''
 |-
-! Armour !! Sides !! Roof
-|-
-| Cupola || 30 mm || 30 mm
+| Cupola || 30 mm || 30 mm || 30 mm || 30 mm
 |-
 |}
 '''Notes:'''
@@ -84,7 +82,7 @@ The STB-1 is unique in being one of the only Japanese tanks that can take a hit,
 | '''50''' || 44&nbsp;''(+6)'' || 16&nbsp;''(+34)'' || 10&nbsp;''(+40)'' || 1&nbsp;''(+49)'' || No
 |-
 |}
-Notes:
+'''Notes''':
 
 * Hull floor empty: 16&nbsp;''(+34)'' shells
 * Shells are modeled individually and disappear after having been shot or loaded.
@@ -135,8 +133,7 @@ With only 2 shells to choose from being APDS & HESH, APDS can be used for long-d
 * 105 mm L7 cannon found on other NATO tanks
 * 12.7 mm Browning M2HB machine gun
 * Two-plane stabilizer that allows it to fire on the move
-* Highly mobile, comparable to the German [[Leopard I]]
-* More armour than the German Leopard (around 100 mm hull and turret)
+* Highly mobile
 * Armour may bounce APHE shells
 * Low profile
 * Utilization of [[hydropneumatic suspension]] allows for various offensive and defensive options
@@ -144,10 +141,8 @@ With only 2 shells to choose from being APDS & HESH, APDS can be used for long-d
 
 '''Cons:'''
 
+* Some areas are lightly armoured, vulnerable to high penetrating SPAAs
 * Poor gun elevation angle
-* Reload and top speed slower than Leopard
-* Other areas are lightly armoured, vulnerable to high penetrating SPAA
-* Engine can be vulnerable to some aircraft with powerful guns
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -157,10 +152,11 @@ The prototype for the Type 74. Known in Japanese as 74式戦車の試作車STB-1
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_st_b1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|GgC8UNa8dok|'''Leopard I vs STB-1''' - ''War Thunder Official Channel''|p6cWlyUnJQA|'''Top 7 off-road beasts'''  discusses the {{PAGENAME}} at 2:46  - ''War Thunder Official Channel''|PosWOnOGkSo|'''Best experimental vehicles''' discusses the {{PAGENAME}} at 6:11 - ''War Thunder Official Channel''}}
+{{Youtube-gallery|GgC8UNa8dok|'''Leopard I vs STB-1''' - ''War Thunder Official Channel''|p6cWlyUnJQA|'''Top 7 off-road beasts''' discusses the {{PAGENAME}} at 2:46 - ''War Thunder Official Channel''|PosWOnOGkSo|'''Best experimental vehicles''' discusses the {{PAGENAME}} at 6:11 - ''War Thunder Official Channel''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

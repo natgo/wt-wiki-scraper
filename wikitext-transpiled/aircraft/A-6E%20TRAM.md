@@ -113,6 +113,15 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American strike a
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="4" | [[Ballistic Computer]]
+|-
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+|-
+| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
+|-
+|}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
@@ -126,23 +135,27 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.' -->
-The '''''A-6E TRAM''''' can be outfitted with the following ordinance presets: 
+{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
+{{main|GBU-12 Paveway II (277 kg)|GBU-16 Paveway II (1,092 lb)|GBU-10 Paveway II (957 kg)|Mk 77 mod 4 incendiary}}
+{{main|AIM-9G Sidewinder|AIM-9L Sidewinder|Zuni Mk32 Mod 0 ATAP|FFAR Mighty Mouse|Mk 11 mod 5 (20 mm)}}
 
-* 6x 500 lb LDGP Mk 82 bombs, 2x AIM-9L Sidewinder missiles, 2x 957 kg GBU-10 Paveway II guided bombs
-* 4x AIM-9G Sidewinder missiles
-* 4x AIM-9L Sidewinder missiles
-* 28x 500 lb LDGP Mk 82 bombs
-* 13x 1,009 lb LDGP Mk 83 bombs 
-* 5x 957 kg GBU-10 Paveway II guided bombs
-* 5x 2,000 lb LDGP Mk 84 bombs 
-* 28x 250 lb LDGP Mk 81 bombs
-* 9x 277 kg GBU-12 Paveway II guided bombs
-* 5x 1,092 lb GBU-16 Paveway II guided bombs 
-* 10x Mk 77 mod 4 incendiary bombs 
-* 40x Zuni Mk32 Mod 0 ATAP rockets
-* 190x FFAR Mighty Mouse rockets 
-* 4x 20 mm Mk 11 mod 5 cannons 
-* Countermeasures x960 
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordinance presets: 
+
+* 6 x 500 lb LDGP Mk 82 bombs, 2 x AIM-9L Sidewinder missiles, 2 x 957 kg GBU-10 Paveway II guided bombs
+* 960 x countermeasures
+* 4 x 20 mm Mk 11 mod 5 cannons (750 rpg = 3,000 total)
+* 4 x AIM-9G Sidewinder missiles
+* 4 x AIM-9L Sidewinder missiles
+* 40 x Zuni Mk32 Mod 0 ATAP rockets
+* 190 x FFAR Mighty Mouse rockets
+* 28 x 250 lb LDGP Mk 81 bombs (7,000 lb total)
+* 28 x 500 lb LDGP Mk 82 bombs (14,000 lb total)
+* 13 x 1,000 lb LDGP Mk 83 bombs (13,000 lb total)
+* 5 x 2,000 lb LDGP Mk 84 bombs (10,000 lb total)
+* 5 x 957 kg GBU-10 Paveway II guided bombs (4,785 kg total)
+* 9 x 277 kg GBU-12 Paveway II guided bombs (2,493 kg total)
+* 5 x 1,092 lb GBU-16 Paveway II guided bombs (5,460 lb total)
+* 10 x Mk 77 mod 4 incendiary bombs
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -174,8 +187,10 @@ The '''''A-6E TRAM''''' can be outfitted with the following ordinance presets:
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
 * [https://live.warthunder.com/feed/camouflages/?vehicle=a_6e_tram Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+;Videos
+{{Youtube-gallery|5tE6fqxW0nQ|'''The Shooting Range #342''' - ''Metal Beasts'' section at 00:23 discusses the {{PAGENAME}}.|WtvaAHUrQZc|'''A-6E TRAM: A Basic Review''' - ''Tims Variety''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

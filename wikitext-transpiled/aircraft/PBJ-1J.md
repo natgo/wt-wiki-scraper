@@ -138,9 +138,9 @@ The '''''{{PAGENAME}}''''' is defended by:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The '''PBJ-1J''' is the U.S. Navy version of the B-25J-1 ''Mitchell'', however, these aircraft were assigned to U.S. Marine Corps marine bomber squadrons (VMB) as land-based bombers or ground attackers. This aircraft is virtually identical to its cousin, the PBJ-1H ''Mitchell'', which is also just ground attack variant of the U.S. Army Air Corps/U.S. Air Force '''B-25 Mitchell''' bomber. The only notable difference between the 1H and 1J model aircraft is that the 1J removes the 75 mm cannon and replaces it with an additional 4 x 12.7 mm Browning machine guns in the nose. Otherwise the same strategy and tactic for the 1H apply to the 1J. Fly almost at treetop levels in order to demotivate high altitude fighters from diving on you, and attack enemy ground targets. Ensure to use ground targets belts in order to maximize the effectiveness against light and medium tanks. Keep in mind that medium tanks will require precise aiming at the rear armour or roof from optimal angles in order to be effective. Reserve bombs for targets the 1J's machine guns under any circumstance cannot deal with (like heavy tanks and pillboxes, this is especially critical in Realistic and simulator battles as it is necessary to land on an airfield in order to retrieve new bombs).
+The '''PBJ-1J''' is the U.S. Navy version of the B-25J-1 ''Mitchell'', however, these aircraft were assigned to U.S. Marine Corps marine bomber squadrons (VMB) as land-based bombers or ground attackers. This aircraft is virtually identical to its cousin, the PBJ-1H ''Mitchell'', which is also just ground attack variant of the U.S. Army Air Corps/U.S. Air Force '''B-25 Mitchell''' bomber. The only notable difference between the 1H and 1J model aircraft is that the 1J removes the 75 mm cannon and replaces it with an additional 4 x 12.7 mm Browning machine guns in the nose. Otherwise the same strategy and tactic for the 1H apply to the 1J. Fly almost at treetop levels in order to demotivate high altitude fighters from diving on you, and attack enemy ground targets. Ensure to use ground targets belts in order to maximize the effectiveness against light and medium tanks. Keep in mind that medium tanks will require precise aiming at the rear armour or roof from optimal angles in order to be effective. Reserve bombs for targets the PBJ-1J's machine guns under any circumstance cannot deal with (like heavy tanks and pillboxes, this is especially critical in Realistic and simulator battles as it is necessary to land on an airfield in order to retrieve new bombs).
 
-While the PBJ can be effective at engaging other bombers, only engage enemy fighters if a good opportunity appears where an enemy is already engaged with another plane or is in low energy state (like stalling, taking off or landing). In these situations, the twelve 12.7 mm machine guns will make short work of virtually all single-engined fighter aircraft even at long range with ground target belts. That said, under no circumstances should the plane be used to actively pursue enemy fighters since any remotely competent pilot will be able to outmanoeuvre you once they become aware of your presence. Ideally, a PBJ-1J should operate in close proximity to friendly fighters who can support it if it is engaged.
+While the PBJ can be effective at engaging other bombers, only engage enemy fighters if a good opportunity appears where an enemy is already engaged with another plane or is in low energy state (like stalling, taking off or landing). In these situations, the twelve 12.7 mm machine guns will make short work of virtually all single-engined fighter aircraft even at long range with ground target belts. That said, under no circumstances should the plane be used to actively pursue enemy fighters since any remotely competent pilot will be able to outmanoeuvre you once they become aware of your presence. Ideally, a PBJ-1J should operate in close proximity to friendly fighters who can support it if it is engaged. As a last resort, you can use your twelve 12.7 mm machine guns to spray in a head-on attack if the opponent is foolish enough to do so.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -215,6 +215,7 @@ A total of 706 PBJ-1 aircraft were built for naval aviation forces, including 25
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=pbj_1j Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -223,9 +224,11 @@ A total of 706 PBJ-1 aircraft were built for naval aviation forces, including 25
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[B-25 (Family)]]
 
 ;Aircraft of comparable role, configuration and era
+
 * de Havilland [[Mosquito (Family)|Mosquito]]
 * Douglas [[DB-7 (Family)|DB-7]]
 * Douglas [[A-26 (Family)|A-26 ''Invader'']]

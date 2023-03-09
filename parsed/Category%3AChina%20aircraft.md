@@ -148,6 +148,8 @@
 {{Tree-Arrow}}
 {{Tree-Unit|il_28_china}}
 | style="border-left: solid 1px #cccccc;" |
+{{Tree-Unit|f-84g-31-re_china}}
+{{Tree-Skip}}
 {{Tree-Unit|mig-17_f5}}
 {{Tree-Skip}}
 |

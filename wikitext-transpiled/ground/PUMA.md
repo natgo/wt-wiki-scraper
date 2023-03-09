@@ -292,3 +292,4 @@ Another point of criticism is the 5.56x45 machine gun mounted in the turret. The
 
 {{TankManufacturer KMW}}
 {{Germany light tanks}}
+[[Category:Ground vehicles with active protection system]]

@@ -205,12 +205,15 @@ If an enemy positions themselves directly behind you, do not hesitate to use you
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-The JA37D Viggen is an improved variant of the original JA37 Jaktviggen fighter-interceptor, The D variant of the Viggen first began production in 1993 and served until 2006, with its last flight being in December 2007 during a special air show for the Swedish Air Force. The JA37D features improved, avionics, software systems of the previous JA37C, as a modernization for the ageing airframes. This allowed it to serve until the late 2000s, before being completely replaced by the JAS 39 Gripen jet fighter.
+The JA37D Viggen is an improved variant of the original JA37 Jaktviggen fighter-interceptor, The D variant of the Viggen first began its production in 1993 and served the Swedish airforce until 2006, with its last flight being in December 2007 during a special air show for the Swedish Air Force. The JA37D features improved, avionics, software systems of the previous JA37C, as a modernization for the ageing airframes. 
+
+However one of the main changes for the D variant, were the compatibility to equip and use the Rb 99 Air-To-Air Missile (Swedish designation for the AIM-120 AMRAAM). It could also be equipped with a external ECM pod designated as the "Störkapsel U95".<ref>https://sv.wikipedia.org/wiki/JA_37</ref><ref>https://www.aef.se/Flygvapnet/Notiser/JA37_Notis_2.htm</ref>  This allowed it to serve until the late 2000s, before being completely replaced by the more advanced JAS 39 Gripen jet fighter.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=saab_ja37d Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -236,3 +239,4 @@ File:JA37D cockpit lower half.jpg|<small>Interior cockpit instruments view insid
 * [[wikipedia:Saab_37_Viggen#Variants|[Wikipedia] Saab 37 Viggen - Variants]]
 
 {{Sweden jet aircraft}}
+<references />

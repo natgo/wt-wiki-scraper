@@ -178,11 +178,7 @@ Uptiers in this plane are tough. Supersonic fighters outrun, and outclimb you, s
 
 '''Pros:'''
 
-* Excellent low-medium speed manoeuvrability
-* Great stall characteristics
-* Powerful flaps, so powerful in fact, you may "float" on landing.
-* Difficult to break wings in turns
-* Effective airbrakes
+* Excellent low-medium speed manoeuvrability, great stall characteristics
 * Has a gyro gunsight that helps leading shots to some extent in simulator
 * Access to anti-aircraft missiles
 * Hard-hitting, concentrated armament
@@ -191,14 +187,13 @@ Uptiers in this plane are tough. Supersonic fighters outrun, and outclimb you, s
 '''Cons:'''
 
 * Poor high-speed manoeuvrability, suffers from extreme elevator, rudder, and aileron compression
-* Flaps break at speeds above 530 km/h (330 mph)
 * Afterburner chews through fuel
-* Guns have low velocity and different shell arcs which requires pilot practice to learn to use effectively
-* Very low ammo count for both types of guns
-* PL-2 missiles have very narrow locking arc and low G-force tolerance when launching
-* The 250 kg high-drag bombs are very challenging to drop accurately due to their curved trajectory and slow speed
-* Will have to deal with Phantoms and other supersonic aircraft with better weapons and speed
+* Guns are difficult to aim and have limited ammunition
+* PL-2 missiles have very narrow locking arc
 * Frontal-upward vision is entirely blocked out by the large cockpit frame, which disadvantages the pilot in simulator
+* Unlike the original MiG-17, no rocket ordnance for ground attack
+* Subsonic, easily outrun by many contemporaries
+* No RWR or flares, highly vulnerable to incoming missiles
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

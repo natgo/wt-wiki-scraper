@@ -97,7 +97,7 @@ The sneaky approach, on the other hand, relies less on speed, but on surviving t
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|G.P. Mk.I (1,000 lb)|H.C. 4,000 lb Mk.II (4,000 lb)|18 inch Mark XII (450 mm)}}
+{{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|G.P. Mk.I (1,000 lb)|H.C. Mk.II (4,000 lb)|18 inch Mark XII (450 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
@@ -106,7 +106,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 9 x 500 lb G.P. Mk.IV bombs (4,500 lb total)
 * 2 x 1,000 lb G.P. Mk.I bombs + 6 x 250 lb G.P. Mk.IV bombs (3,500 lb total)
 * 2 x 18 inch Mark XII torpedoes
-* 1 x H.C. 4,000 lb Mk.II bomb (4,000 lb total)
+* 1 x 4,000 lb H.C. Mk.II bomb (4,000 lb total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
@@ -125,7 +125,7 @@ The '''''{{PAGENAME}}''''' is defended by:
 In Air Battles, the winning tactic is to climb high and bomb your targets. If you don't want to climb the {{PAGENAME}}, is a great low flying bomber, offering great speed and manoeuvrability. However, it lacks any armour and only offers limited protection with turrets in the front, side and rear. It lacks armour plates, unlike other bombers of the other nations. A few well placed shots will see {{PAGENAME}}, getting torn apart to any aircraft which drop down to engage it from the top or belly. However, its rear gun turret offers four 7.7 mm machine guns which are able to shoot down the enemy aircraft with a few well placed shots.
 
 ====Ground battles====
-The {{PAGENAME}} should be used as a strategic bomber, that is what it excels at in this game mode. It is too big to be used in the ground attack role, making it an easy target for enemy tankers. To use the {{PAGENAME}}, load up on 500 lbs or the single 4,000 lbs cookie bomb. The 500 lbs, offer 65.5 Kg of HE filler and the cookie offers 1,339 Kg of HE filler.
+The {{PAGENAME}} should be used as a strategic bomber, that is what it excels at in this game mode. It is too big to be used in the ground attack role, making it an easy target for enemy tankers. To use the {{PAGENAME}}, load up on 500 lbs or the single 4,000 lb cookie bomb. The 500 lbs, offer 65.5 Kg of HE filler and the cookie offers 1,339 Kg of HE filler.
 
 Fly around the map, waiting for the enemy to cap the cap zones, when they start capping the zone - head towards it, gain altitude do not come in low or a single shot fired from a tank can knock you out of the game. Once at a good altitude, line up on the cap zone and drop the bombs. Any tank in the zone will be destroyed.
 
@@ -137,7 +137,7 @@ All of the Wellington bombers are well suited for the naval warfare, The {{PAGEN
 Those are:
 
 * 2 х 18 inch Mark XII torpedoes
-* 1 x 4,000 lb H.C. 4,000 lb Mk.II bomb
+* 1 x 4,000 lb H.C. Mk.II bomb
 
 With the torpedoes, the strategy goes in finding a good approach angle to successfully deliver both torpedoes to preferably gunboats and destroyers as they will have a tougher time evading them. Beware of anti-aircraft fire and swiftly turn back to safety while preparing the next drop.
 
@@ -164,7 +164,7 @@ Just be alert of enemy planes that will be eager to take you down, using the Arm
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-[[File:Wellington bombing.png|thumb|Wellington releasing a 4,000 lb "''Cookie''" blockbuster bomb onto a destroyer]]
+[[File:Wellington bombing.png|thumb|Wellington releasing a 4,000 lb "Cookie" blockbuster bomb onto a destroyer]]
 
 '''Pros:'''
 

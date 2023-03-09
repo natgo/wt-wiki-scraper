@@ -171,7 +171,7 @@ These vehicles would go on to serve in the Italian Campaign, European Campaign, 
 * ''other literature.'' -->
 
 * [[wikipedia:Howitzer_Motor_Carriage_M8|[Wikipedia] Howitzer Motor Carriage M8]]
-* [https://tanks-encyclopedia.com/ww2/US/M8_Scott.php <nowiki>[Tanks Encyclopedia]</nowiki> H.M.C. M8 "Scott"]
+* [https://tanks-encyclopedia.com/75-mm-gun-m3-on-howitzer-motor-carriage-m8-chassis/ <nowiki>[Tanks Encyclopedia]</nowiki> 75 mm Gun M3 on 75 mm Howitzer Motor Carriage M8 Chassis]
 
 {{TankManufacturer Ordnance Department}}
 {{USA light tanks}}

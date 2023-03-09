@@ -74,28 +74,6 @@ The flight characteristics of the airplane are very similar to its predecessor, 
 |-
 |}
 
-{| class="wikitable" style="text-align:center"
-|-
-! colspan="3" | Compressor (RB/SB)
-|-
-! colspan="3" | Setting 1
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 152 m || 3,640 hp || N/A
-|-
-! colspan="3" | Setting 2
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 2,438 m || 3,200 hp || N/A
-|-
-|}
-
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
@@ -124,13 +102,17 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|RP-3|18 inch Mark XII (450 mm)}}
+{{main|M.C. Mk.I (250 lb)|M.C. Mk.I (500 lb)|M.C. Mk.I (1,000 lb)|RP-3|18 inch Mark XII (450 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * Without load
 * 1 x 450 mm 18 inch Mark XII torpedo
 * 8 x RP-3 rockets
+* 4 x 250 lb M.C. Mk.I bombs (1,000 lb total)
+* 4 x 500 lb M.C. Mk.I bombs (2,000 lb total)
+* 2 x 500 lb M.C. Mk.I bombs + 2 x 250 lb M.C. Mk.I bombs (1,500 lb total)
+* 2 x 1,000 lb M.C. Mk.I bombs (2,000 lb total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}

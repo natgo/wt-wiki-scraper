@@ -117,7 +117,7 @@ With only a vertical 50 mm armour plate at the front, even some rank I guns can 
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-Use of this tank is similar to the Pz. III F. While it does have significantly better armour on the front than its predecessor, the higher battle rating means it faces tougher, more well-armoured opposition in uptiers. The [[T-34 (1940)]] is almost impenetrable, except for some weak spots around the turret and flat-on below the tracks. [[M4A1]]s are similar in speed to you, have better sloped frontal armour that you cannot penetrate, more powerful guns, and stabilizers. APCR post-penetration damage is not sufficient enough to be counted upon when you need it the most, plus neither PzGr.40/1 or PzGr.40 can frontally penetrate a Sherman or T-34. The best way to attack these tanks is to flank them with your good mobility, or wait for them to overextend, then shoot at their weaker side armour. Furthermore, the high fuse sensitivity makes many lightly-armoured tank destroyers equipped with strong guns your worst nightmare, since you'll over-penetrate repeatedly in most cases, allowing easy return fire from the enemy. Enemy SPAAG, in particular, is very dangerous because of your 15 mm turret ring weak pot, enabling them to spray all over you to incapacitate your gunner and loader.
+This tank is a captured Pz.III J, and plays similarly. While it does have significantly better armour on the front than its predecessor, the higher battle rating means it faces tougher, more well-armoured opposition in uptiers. The [[T-34 (1940)]] is almost impenetrable, except for some weak spots around the turret and flat-on below the tracks. [[M4A1]]s are similar in speed to you, have better sloped frontal armour that you cannot penetrate, more powerful guns, and stabilizers. APCR post-penetration damage is not sufficient enough to be counted upon when you need it the most, plus neither PzGr.40/1 or PzGr.40 can frontally penetrate a Sherman or T-34. The best way to attack these tanks is to flank them with your good mobility, or wait for them to overextend, then shoot at their weaker side armour. Furthermore, the high fuse sensitivity makes many lightly-armoured tank destroyers equipped with strong guns your worst nightmare, since you'll over-penetrate repeatedly in most cases, allowing easy return fire from the enemy. Enemy SPAAG, in particular, is very dangerous because of your 15 mm turret ring weak pot, enabling them to spray all over you to incapacitate your gunner and loader.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -152,6 +152,7 @@ The designation used for the captured Pz.Kpfw.lll German medium tank in the Red 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_pzkpfw_III_ausf_J_L42 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -162,11 +163,12 @@ The designation used for the captured Pz.Kpfw.lll German medium tank in the Red 
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-;Related development
-* [[Panzer III (Family)]]
+;[[Panzer III (Family)|Related development]]
+* [[Pz.III J]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

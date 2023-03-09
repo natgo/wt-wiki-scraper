@@ -96,7 +96,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+In dogfights, use your superior turn time to get an advantage over opponents. Keep your speed above 170 k/h while dogfighting to avoid becoming sluggish. Having a good altitude advantage is a must as this will grant your plane more energy before entering a fight.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -126,6 +126,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 * Sturdy airframe tolerates high speed dives
 * Very stable aircraft to fly in simulator battles
 * Fixed landing gear makes landings easier and more simplified
+* Good armament for its BR
 
 '''Cons:'''
 
@@ -141,6 +142,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fokker_d21_serie3_finland Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -156,10 +158,8 @@ The '''''{{PAGENAME}}''''' is armed with:
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+* [[wikipedia:Fokker_D.XXI|[Wikipedia] Fokker D.XXI]]
 
 {{AirManufacturer Fokker}}
 {{Sweden fighters}}

@@ -39,7 +39,7 @@ Designed for the same specifications as the IL-28, the Tu-14T is larger and has 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -189,6 +189,7 @@ Much like the IL-28, the Tu-14T can be used in a variety of roles, from a fast b
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
+
 * Fixed and turret guns of a large calibre
 * Unlike most jet bombers, it has a defensive turret
 ** Good firing angles for the turret
@@ -200,6 +201,7 @@ Much like the IL-28, the Tu-14T can be used in a variety of roles, from a fast b
 * Gunner and pilot both have armour protection
 
 '''Cons:'''
+
 * Limited ammunition for offensive armament
 * No access to rockets
 * Large silhouette
@@ -226,6 +228,7 @@ The Tu-14 started entering service in 1951, as a maritime reconnaissance aircraf
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=tu_14t Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -242,10 +245,12 @@ The Tu-14 started entering service in 1951, as a maritime reconnaissance aircraf
 * [https://forum.warthunder.com/index.php?/topic/341982-tupolev-tu-14/ Official data sheet - more details about the performance]
 
 === References ===
+
 ;Citations
 <references />
 
 ;Bibliography
+
 * Aguilera, R. (1997). Tu-14 'Bosun'. Retrieved November 23, 2020, from <nowiki>http://www.theworldwars.net/weapons/entry.php?b=air</nowiki>
 * Aviastar. (n.d.). Tupolev Tu-14 (Tu-81). Retrieved November 23, 2020, from <nowiki>http://www.aviastar.org/air/russia/tu-14.php</nowiki>
 

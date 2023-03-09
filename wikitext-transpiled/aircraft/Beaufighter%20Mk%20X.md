@@ -71,28 +71,6 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Batt
 |-
 |}
 
-{| class="wikitable" style="text-align:center"
-|-
-! colspan="3" | Compressor (RB/SB)
-|-
-! colspan="3" | Setting 1
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 460 m || 1,395 hp || 1,743 hp
-|-
-! colspan="3" | Setting 2
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 2,651 m || 1,300 hp || 1,547 hp
-|-
-|}
-
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
@@ -120,13 +98,17 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|RP-3|18 inch Mark XII (450 mm)}}
+{{main|M.C. Mk.I (250 lb)|M.C. Mk.I (500 lb)|M.C. Mk.I (1,000 lb)|RP-3|18 inch Mark XII (450 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * Without load
 * 1 x 18 inch Mark XII torpedo
 * 8 x RP-3 rockets
+* 4 x 250 lb M.C. Mk.I bombs (1,000 lb total)
+* 4 x 500 lb M.C. Mk.I bombs (2,000 lb total)
+* 2 x 500 lb M.C. Mk.I bombs + 2 x 250 lb M.C. Mk.I bombs (1,500 lb total)
+* 2 x 1,000 lb M.C. Mk.I bombs (2,000 lb total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
@@ -178,7 +160,6 @@ Just like the [[Beaufighter Mk VIc|Mk VIc]] version of the Beaufighter, you can 
 * Machine guns' accuracy suffers from wing mounting (convergence)
 * Bad roll rate at high speeds
 * Gunner is almost useless due to only having a single machine gun for defensive armament
-* Cannot carry any bombs, which makes it harder to destroy pillboxes and heavier tanks
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

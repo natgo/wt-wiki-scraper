@@ -83,8 +83,8 @@ While it lacks the post-penetration damage to disable most enemies in one shot, 
 {{:M6 (37 mm)/Ammunition|M74B1, M51B1}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks_M3A1 Stuart.jpg|right|thumb|x250px|[[Ammo racks]] of the M3A1 Stuart (identical)]]
-<!-- '''Last updated:''' -->
+[[File:Ammoracks_M3A1 Stuart.jpg|right|thumb|x350px|[[Ammo racks]] of the M3A1 Stuart (identical)]]
+<!-- '''Last updated: 2.23.1.43''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -93,7 +93,7 @@ While it lacks the post-penetration damage to disable most enemies in one shot, 
 ! 3rd<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''106''' || 71&nbsp;''(+35)'' || 36&nbsp;''(+70)'' || 1&nbsp;''(+105)'' || No
+| '''106''' || 99&nbsp;''(+7)'' || 52&nbsp;''(+54)'' || 1&nbsp;''(+105)'' || No
 |-
 |}
 
@@ -111,7 +111,7 @@ The M3A1 (USMC) employs a turret top MG and a Coaxial MG, both of which are the 
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 3,250 (250) || 500 || N/A || N/A
+| Coaxial || 3,250 (250) || 500 || - || -
 |-
 | Pintle || 3,000 (250) || 500 || -5°/+70° || ±60°
 |-

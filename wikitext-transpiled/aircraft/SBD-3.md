@@ -6,7 +6,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American dive bomber {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
+The SBD Dauntless was the workhorse of the US Navy, serving from 1940 all the way to late 1944 as the main carrier-based dive bomber. It replaced the SBC Helldiver and SBU Corsair aboard US carriers. Featuring a range of about 1,700 km, and quite heavy armaments for its size and role - two 12.7 mm Browning M2 machine guns in the engine cowling and a bomb load of up to 2,250 lbs, it was very versatile plane. The SBD participated in many battles in the Pacific theatre, and achieved successes such as the sinking of Japanese aircraft carrier Shōhō during the Battle of the Coral Sea in May 1942. Its biggest success was during the Battle of Midway in June 1942, when SBD bombers sank four aircraft carriers, namely Akagi, Kaga, Sōryū, and Hiryū. By 1944, the SBD was slowly being replaced by the faster and more modern SB2C Helldiver. Foreign users included the Royal Navy, Free French Air Force, Mexico, Chile, and Morocco.
+
+In War Thunder since the start of the Open Beta Test, the '''{{Specs|name}}''' is one of the first bombers in the American aviation tech tree. It features an airspawn allowing for quick bombing runs out of reach of enemy fighters, as your bombs are dropped before the fighters can climb up to your altitude. The heavy armament compared to contemporaries found in other tech trees allows for engaging enemy fighters using altitude advantage or, after installation of the DGP-1 machine gun pods, engaging enemy medium and heavy bombers such as Fw 200s, He 111s or Ju 88s. Despite being a bomber, SBD is also quite a manoeuvrable aircraft, allowing to win prolonged turn fights with less agile opponents such as the He 112 or MiG-3.
 
 == General info ==
 === Flight performance ===
@@ -68,28 +70,6 @@ As a dive bomber, it has very good dive characteristics and manoeuvres decently 
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
 | < 350 || < 350 || < 380 || > 299
-|-
-|}
-
-{| class="wikitable" style="text-align:center"
-|-
-! colspan="3" | Compressor (RB/SB)
-|-
-! colspan="3" | Setting 1
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 1,324 m || 950 hp || 1,000 hp
-|-
-! colspan="3" | Setting 2
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 4,777 m || 800 hp || 842 hp
 |-
 |}
 
@@ -265,21 +245,31 @@ It is very common in the game to encounter the SBD equipped with the gunpods, in
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
+The SBD ("Scout Bomber Douglas") was introduced in 1940 and was produced by Douglas until 1944. However its roots go further than that. The predecessor of the SBD, the Northrop BT-1, was designed in 1935. In 1937, Northrop Corporation was taken over by Douglas, and the Northrop BT-2, developed from the BT-1, served as a basis of what was to become the SBD. In 1938, the US Navy and US Marine Corps placed orders for a new dive bomber designated SBD-1 and SBD-2. The SBD-1 was delivered to the Marines in 1940 and the SBD-2 to the Navy in early 1941, replacing obsolete SBU Corsair and SBC Helldiver carrier-based dive bombers. The SBD, unusually for a carrier aircraft, did not possess folding wings - the designers opted to maintain the structural integrity of the plane instead. The next version, SBD-3, had increased armour protection, self-sealing fuel tanks, and the rear gunner's 7.62 mm Browning M1919 machine gun was switched to a dual-mount instead of the single mount on previous aircraft. The most produced version of SBD was SBD-5, over 2,400 of these were built, equipped with more powerful 1,200 hp Wright R-1820-60 Cyclone engines and increased ammo supply. The US Army Air Force used denavalized variants of the SBD, called the A-24 Banshee. These were flown during the early stages of the war, but quickly withdrawn from service.
 
-First flight recorded 1st of may 1940. Retired 1959. Produced from 1940 to 1944. Top speed of 410 km/h (255 mph). 1,200 hp engine. Length: 33 feet. Wing span is roughly 41 feet. Empty weight: 2,905 kg (6,404 lb). Gross weight is 4,245 kg (10,400 lb). Bomb load is 544 kg (1,200 lb). 
+In total, 5,936 SBDs were produced, with the last assembled on 21st July 1944. During their career, SBDs sunk six aircraft carriers, fourteen cruisers, six destroyers, fifteen cargo or transport ships, and numerous lesser craft. During and after the war, SBDs served with the Free French Air Force and French Navy, retiring in 1949. Other foreign users included the Royal New Zealand Air Force and Royal Navy, and after the war some examples were sold to Chile, Mexico, and Morocco.
 
-The SBD-3, also known as the Dauntless is an American dive-bomber from the early 1940s. It was a carrier-based aircraft which was used for scouting and bombing. This plane is most famous for its contribution to the Battle of Midway. This battle was the first major naval victory for the Americans, of which four Japanese carriers were sunk and multiple other ships heavily damaged and sunk.
+== Operational history ==
+The SBD's first action was during the attack on Pearl Harbor in December 1941, most of the Marine Corps SBDs of Marine Corps Scout Bombing Squadron 232 (VMSB-232) were destroyed on the ground while parked at Ewa Mooring Mast Field. The first victim of SBDs, 3 days after the attack on Pearl Harbor, was Japanese submarine I-70 which was sunk by SBDs from Yorktown-class carrier USS Enterprise, making it the first Japanese warship sunk by US aircraft during WWII. After that, SBDs were present at every US Pacific theater campaign, supporting troops with precision strikes and patrolling around allied ships.
 
-Pilots and gunners of the SBD-3 and other military personnel gave the bomber the nickname "Slow But Deadly". Although this plane was slow, it has a large wing area and thus high manoeuvrability. This aircraft is a 2-man crew, so when going into and out of a dive the pilot wouldn't have to check the altitude saving him time, though that was not the only use of the gunner/radioman he would cover the pilot, engaging any enemy fighters who would come behind the aircraft and could also double as a radioman.
+=== Battle of the Coral Sea ===
+At the beginning of May 1942, SBDs participated in the Battle of the Coral Sea where they sank Japanese light aircraft carrier Shōhō and damaged fleet carrier Shōkaku. During the battle, SBDs were flying anti-torpedo combat patrols focused on intercepting Japanese torpedo bombers trying to sink USS Lexington and USS Yorktown, scoring several victories. One of the pilots, Stanley "Swede" Vejtasa, scored two kills on A6M fighters after being attacked by them, and cut the wing of a third with his own wingtip during a head-on pass.
 
-These incredible planes all saw service in the United States Navy, United States Army Air Corps, United States Marine Corps and the Free French Air Force. There were 5,936 SBD-3 made; unfortunately, only four or five original US Navy planes survive today with the rest being replicas.
+=== Battle of Midway ===
+The most successful action of SBDs happened during the Battle of Midway in early June 1942, where four squadrons of Navy SBDs attacked the Japanese fleet, and sank all four aircraft carriers present, as well as multiple cruisers and destroyers. The carriers sunk were Akagi, Kaga, Sōryū, and Hiryū. Later that day, SBDs sighted a group of Japanese heavy cruisers en route from bombarding Midway, consisting of the four Mogami-class heavy cruisers Kumano, Suzuya, Mikuma, and Mogami. They heavily damaged Mogami and Mikuma, with Mikuma later sinking.
+
+=== Guadalcanal Campaign ===
+During the Guadalcanal Campaign, SBDs were conducting sorties from both US Navy carriers and Henderson Field, sinking Japanese shipping trying to reinforce the island with new troops. Aircraft carrier Ryūjō fell victim to 31 SBDs from USS Saratoga. In total, another three aircraft carriers were damaged, one heavy cruiser, and nine transport vessels were sunk during the six-month campaign.
+
+=== Battle of the Philippine Sea ===
+The Battle of the Philippine Sea was the last major battle where SBDs participated, before being replaced by the more powerful Curtiss SB2C Helldiver bombers. The Helldiver was faster, could carry bigger payload, and had more powerful engine, but had some characteristics that made it hard to fly. SBDs were favoured by pilots due to superior handling at low speed, crucial for carrier landing. Pilots nicknamed the plane "Slow But Deadly"
 
 {{break}}
 {{Navigation-Start|{{Annotation|Archive of the in-game description|An archive of the historical description of the vehicle that was presented in-game prior to Update 1.55 'Royal Armour'}}}}
 {{Navigation-First-Simple-Line}}
 A carrier-based dive-bomber/reconnaissance aircraft.
 
-The most well-known U.S. Navy bomber, and perhaps the most significant dive-bomber of the war. Despite the fact that the decision to write off the SBD as outdated was made before the war, the bomber was still actively involved in combat, and in 1942 it sunk more enemy ships than all other Navy aircraft combined.
+The most well-known US Navy bomber, and perhaps the most significant dive-bomber of the war. Despite the fact that the decision to write off the SBD as outdated was made before the war, the bomber was still actively involved in combat, and in 1942 it sunk more enemy ships than all other Navy aircraft combined.
 
 Originally, the series was called the XBT, and showed as many innovations as it did drawbacks. This aircraft had a revolutionary honeycomb wing structure and a reasonably small fuselage. But its wings could not be folded, and occasionally it would spontaneously go into a barrel roll, which caused a series of catastrophic accidents. After intensive research in conjunction with NACA, the dive-bomber was radically redesigned, most of its shortcomings were removed, and it was named the Scout Bomber.
 

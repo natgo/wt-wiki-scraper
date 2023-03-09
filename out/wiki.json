@@ -31,6 +31,12 @@
       "visibility": 750
     },
     {
+      "intname": "fr_char_2c",
+      "ab_top_speed": [16, 16],
+      "rb_top_speed": [16, 16],
+      "visibility": 750
+    },
+    {
       "intname": "ussr_2s25",
       "ab_top_speed": [78, 78],
       "rb_top_speed": [71, 71],
@@ -469,6 +475,12 @@
       "visibility": 88
     },
     {
+      "intname": "it_ariete_amv_pt1",
+      "ab_top_speed": [73, 52],
+      "rb_top_speed": [66, 47],
+      "visibility": 88
+    },
+    {
       "intname": "it_c1_ariete_pso",
       "ab_top_speed": [73, 52],
       "rb_top_speed": [65, 47],
@@ -799,6 +811,12 @@
       "visibility": 88
     },
     {
+      "intname": "uk_challenger_2e",
+      "ab_top_speed": [80, 39],
+      "rb_top_speed": [72, 35],
+      "visibility": 88
+    },
+    {
       "intname": "uk_challenger_1_mk_3_gulf",
       "ab_top_speed": [62, 41],
       "rb_top_speed": [56, 37],
@@ -962,6 +980,12 @@
     },
     {
       "intname": "uk_a_22b_mk_3_churchill_1942",
+      "ab_top_speed": [30, 3],
+      "rb_top_speed": [28, 3],
+      "visibility": 87
+    },
+    {
+      "intname": "uk_churchill_na75",
       "ab_top_speed": [30, 3],
       "rb_top_speed": [28, 3],
       "visibility": 87
@@ -1244,8 +1268,8 @@
     },
     {
       "intname": "ussr_gaz_mm_72k",
-      "ab_top_speed": [50, 7],
-      "rb_top_speed": [46, 6],
+      "ab_top_speed": [77, 10],
+      "rb_top_speed": [71, 9],
       "visibility": 79
     },
     {
@@ -1535,6 +1559,12 @@
       "ab_top_speed": [90, 16],
       "rb_top_speed": [83, 15],
       "visibility": -88
+    },
+    {
+      "intname": "sw_itpsv_90",
+      "ab_top_speed": [75, 34],
+      "rb_top_speed": [69, 31],
+      "visibility": 95
     },
     {
       "intname": "germ_kanonenjagdpanzer",
@@ -2318,7 +2348,7 @@
     },
     {
       "intname": "us_m3a3_bradley",
-      "ab_top_speed": [69, 16],
+      "ab_top_speed": [68, 16],
       "rb_top_speed": [62, 14],
       "visibility": 117
     },
@@ -2597,6 +2627,12 @@
       "ab_top_speed": [53, 9],
       "rb_top_speed": [49, 8],
       "visibility": 72
+    },
+    {
+      "intname": "ussr_m53_59",
+      "ab_top_speed": [66, 11],
+      "rb_top_speed": [60, 10],
+      "visibility": 75
     },
     {
       "intname": "us_m551",
@@ -2947,6 +2983,12 @@
       "visibility": 107
     },
     {
+      "intname": "il_merkava_mk_4_lic",
+      "ab_top_speed": [72, 72],
+      "rb_top_speed": [65, 65],
+      "visibility": 103
+    },
+    {
       "intname": "il_merkava_mk_4b",
       "ab_top_speed": [72, 72],
       "rb_top_speed": [65, 65],
@@ -3185,6 +3227,12 @@
       "ab_top_speed": [60, 16],
       "rb_top_speed": [54, 15],
       "visibility": 116
+    },
+    {
+      "intname": "ussr_pantsyr_s1",
+      "ab_top_speed": [77, 6],
+      "rb_top_speed": [70, 6],
+      "visibility": -862
     },
     {
       "intname": "germ_pz_IV_L70_A",
@@ -3787,6 +3835,18 @@
       "visibility": 107
     },
     {
+      "intname": "cn_sdkfz_222_early",
+      "ab_top_speed": [87, 17],
+      "rb_top_speed": [81, 16],
+      "visibility": 68
+    },
+    {
+      "intname": "germ_sdkfz_222",
+      "ab_top_speed": [98, 17],
+      "rb_top_speed": [91, 16],
+      "visibility": 68
+    },
+    {
       "intname": "germ_sdkfz_234_1",
       "ab_top_speed": [100, 100],
       "rb_top_speed": [90, 90],
@@ -4304,8 +4364,8 @@
     },
     {
       "intname": "ussr_t_34_100",
-      "ab_top_speed": [62, 10],
-      "rb_top_speed": [55, 9],
+      "ab_top_speed": [54, 10],
+      "rb_top_speed": [48, 9],
       "visibility": 100
     },
     {
@@ -4531,6 +4591,12 @@
       "visibility": 75
     },
     {
+      "intname": "germ_kpz_t72m1",
+      "ab_top_speed": [67, 5],
+      "rb_top_speed": [60, 5],
+      "visibility": 75
+    },
+    {
       "intname": "sw_t_72m1",
       "ab_top_speed": [67, 5],
       "rb_top_speed": [60, 5],
@@ -4613,6 +4679,12 @@
       "ab_top_speed": [89, 37],
       "rb_top_speed": [80, 33],
       "visibility": 84
+    },
+    {
+      "intname": "us_t1e1",
+      "ab_top_speed": [40, 40],
+      "rb_top_speed": [38, 38],
+      "visibility": 122
     },
     {
       "intname": "us_t20",
@@ -4841,6 +4913,12 @@
       "ab_top_speed": [78, 78],
       "rb_top_speed": [71, 71],
       "visibility": 96
+    },
+    {
+      "intname": "jp_type_16_mod",
+      "ab_top_speed": [111, 41],
+      "rb_top_speed": [100, 37],
+      "visibility": 113
     },
     {
       "intname": "jp_type_16_mcv_prot",
@@ -5261,6 +5339,12 @@
       "ab_top_speed": [115, 20],
       "rb_top_speed": [106, 18],
       "visibility": 84
+    },
+    {
+      "intname": "cn_zts_63_1980",
+      "ab_top_speed": [72, 9],
+      "rb_top_speed": [65, 9],
+      "visibility": 83
     },
     {
       "intname": "cn_ztz_59a",

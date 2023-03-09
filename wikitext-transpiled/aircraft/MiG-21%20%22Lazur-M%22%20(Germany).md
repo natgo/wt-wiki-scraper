@@ -133,6 +133,9 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
+{{main|R-3R|R-3S|R-13M1|R-60MK}}
+{{main|OFAB-100 (100 kg)|FAB-250M-62 (250 kg)|FAB-500M-62 (500 kg)|ZB-500 incendiary}}
+{{main|S-5K|S-24}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
@@ -140,14 +143,14 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x R-13M1 missiles
 * 4 x R-13M1 missiles
 * 4 x R-3S missiles
-* 4 x R-13R missiles
+* 4 x R-3R missiles
 * 6 x R-60MK missiles
 * 4 x R-60MK missiles
 * 8 x 100 kg OFAB-100 bombs (800 kg total)
 * 2 x 250 kg FAB-250M-62 bombs (500 kg total)
 * 2 x 500 kg FAB-500M-62 bombs (1,000 kg total)
-* 4 x S-24B rockets
 * 2 x ZB-500 incendiary bombs
+* 4 x S-24 rockets
 * 2 x 32 S-5K rockets (64 total)
 * 4 x 16 S-5K rockets (64 total)
 
@@ -160,7 +163,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 '''Pros:'''
 
-* Powerful Tumansky R-25 engine with high acceleration, climb rate, and power-weight ratio
+* Powerful Tumansky R-25 engine with high acceleration, climb rate, and power-to-weight ratio
 * Relatively large air-to-air payload for its tier
 * All-aspect IR AAMs
 * Varieties of air-to-air/ground weapons

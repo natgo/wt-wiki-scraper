@@ -23,7 +23,7 @@ The plane climbs and dives very well, it can reach a high speed quickly, but lik
 
 The best performance is between 400 to 500 km/h (248 to 310 mph) IAS, but in level flight the max speed is 450 km/h IAS.
 
-To be in the above-mentioned speed range, climb up to 3,000 meters, and then dive onto the enemy. If the enemy is more than 2 km below, cut your throttle to 0% and only increase once at the same altitude as the enemy and started to losing speed. Diving or climbing straight at a 90-degree angle will cause the engine to shut down due to fuel cut-off.
+To be in the above-mentioned speed range, climb up to 3,000 m, and then dive onto the enemy. If the enemy is more than 2 km below, cut your throttle to 0% and only increase once at the same altitude as the enemy and started to losing speed. Diving or climbing straight at a 90-degree angle will cause the engine to shut down due to fuel cut-off.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -83,8 +83,8 @@ To be in the above-mentioned speed range, climb up to 3,000 meters, and then div
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-* No Armor Protection
-* Self-Sealing Fuel Tanks
+* No armour plates
+* Self-sealing fuel tanks
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -113,9 +113,9 @@ Some enemies to be concerned about are:
 
 * Spitfires: The early versions carrying eight machine guns in their wings and will likely out turn you.
 * P-26s: Especially the version that carries a 12.7 mm M2 Browning machine gun.
-* Any Biplane: Most of these are very good turners. They can earn back speed after multiple turns very quickly, so in a dogfight, the Re.2000 might feel sluggish. Don't get baited into these turn fights and instead use the speed/climb to fly away towards an advantageous position to attack.
+* Any biplane: Most of these are very good turners. They can earn back speed after multiple turns very quickly, so in a dogfight, the Re.2000 might feel sluggish. Don't get baited into these turn fights and instead use the speed/climb to fly away towards an advantageous position to attack.
 
-When going against the Re.2000 serie 1, one will find head-ons effective against a Re.2000 since it only has two 12.7s machine guns. If you're in a head-on against one, shoot a small burst, and escape with a barrel roll.  If one is on your six, either run away at high speed or make some speed costly manoeuvres, and turn onto his six. Never try to follow one in a climb, and if one is diving on you, you can dodge it easily due to its control stiffening and average roll rate.
+When going against the Re.2000 serie 1, one will find head-ons effective against a Re.2000 since it only has two 12.7s machine guns. If you're in a head-on against one, shoot a small burst, and escape with a barrel roll. If one is on your six, either run away at high speed or make some speed costly manoeuvres, and turn onto his six. Never try to follow one in a climb, and if one is diving on you, you can dodge it easily due to its control stiffening and average roll rate.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -139,19 +139,17 @@ When going against the Re.2000 serie 1, one will find head-ons effective against
 
 '''Pros:'''
 
-* Great climb rate (20+ m/s)
+* Great climb rate
 * Great at energy fighting 
 * Good at dogfighting (some enemy aircraft still can destroy you easily)
-* Good acceleration (capable of 700 km/h (435 mph) in a dive)
 * Good turn rate, amazing at 400-500 km/h (248-310 mph)
 * Full manual engine control + propeller feathering
-* No armour (better performance than G.A. model)
 * Very good acceleration
 * Short distance to take off
 * Good multirole fighter (good in any battle condition except shooting down armoured ground units)
 * Good flap resistance
 * Has no problem fighting at high altitude
-* Good retention of energy
+* Good energy retention
 * Good stall speed (below 45 km/h)
 
 '''Cons:'''
@@ -162,13 +160,13 @@ When going against the Re.2000 serie 1, one will find head-ons effective against
 * Low ammunition count for machine guns (only 600 rounds total)
 * Overheats easily, even with 100% radiators, can only WEP for a few seconds before the engine overheats and destroys itself
 * Sensitive to battle damage (damage will usually result in the aircraft catching fire)
-* No armour (more vulnerable than G.A model)
-* No Payload (the [[Re.2000 G.A.]] has payload)
+* No armour
+* No payload
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
-The first project of the Reggiane design office was the Re.2000 which was designed by Italian engineers Alessio and Longhi. The first test flight was flown by Mario de Bernardi in 1939. With a superior engine in comparison to the FIAT powered MC.200, it was thought to be at least as manoeuvrable as the Bf 109 E in comparative trials, though the positioning of the fuel tank in an unarmored wing centre section was found to be a fatal drawback and thus it was not accepted into Italian service, however, the Re.2000 was sold to both Sweden and Hungary to complement their air forces. During 1940, the Italian Navy ordered a modified version for carrier use with a Piaggio P.XI bis engine and structural strengthening for catapult launching and carrier landings.<ref>Thompson, Jonathan W., Italian Civil and Military Aircraft 1930-1945, Aero Publishers, Los Angeles (1963), 304 pages.</ref>
+The first project of the Reggiane design office was the Re.2000 which was designed by Italian engineers Alessio and Longhi. The first test flight was flown by Mario de Bernardi in 1939. With a superior engine in comparison to the FIAT powered MC.200, it was thought to be at least as manoeuvrable as the Bf 109 E in comparative trials, though the positioning of the fuel tank in an unarmoured wing centre section was found to be a fatal drawback and thus it was not accepted into Italian service, however, the Re.2000 was sold to both Sweden and Hungary to complement their air forces. During 1940, the Italian Navy ordered a modified version for carrier use with a Piaggio P.XI bis engine and structural strengthening for catapult launching and carrier landings.<ref>Thompson, Jonathan W., Italian Civil and Military Aircraft 1930-1945, Aero Publishers, Los Angeles (1963), 304 pages.</ref>
 
 Hungary bought 70 Re.2000s and built another 192. Sweden bought 60, where they stayed in service until 1946. Britain had actually put in an order for 300, as well, before the onset of war prevented it. Those few of the 188 that were built by the Reggiane company that were not sold to other countries were used by an Italian squadron on Sicily in 1941/42, or converted for catapult use.
 
@@ -176,10 +174,11 @@ Hungary bought 70 Re.2000s and built another 192. Sweden bought 60, where they s
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=re_2000_int Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|YygUVbVn_gA|'''(Arcade): {{PAGENAME}} - Simple but Sweet''' - ''tx141TX''|F79Ab3i4elE|'''Realistic: {{PAGENAME}} [Reggiane Bellissima!]'''  - ''Jengar''|dglE5EGyY0o|'''The Shooting Range #87''' - ''Pages of History'' section at 04:39 discusses the Re.2000.|6JgPdjV4ljc|'''Update 1.77 - {{PAGENAME}}'''  - ''TheEuropeanCanadian''}}
+{{Youtube-gallery|YygUVbVn_gA|'''(Arcade): Re.2000 serie 1 - Simple but Sweet''' - ''tx141TX''|F79Ab3i4elE|'''Realistic: Re.2000 serie 1 [Reggiane Bellissima!]''' - ''Jengar''|dglE5EGyY0o|'''The Shooting Range #87''' - ''Pages of History'' section at 04:39 discusses the Re.2000.|6JgPdjV4ljc|'''Update 1.77 - Re.2000 serie 1''' - ''TheEuropeanCanadian''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

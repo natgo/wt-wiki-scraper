@@ -11,7 +11,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli SPAA {{Battle-rating}}
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+Armour is thin enough and can be destroyed by 12.7 mm machine gun fire from the sides and rear, and by any cannon calibre from the front. The turret is partially open, leaving the crew vulnerable to enemy small arms fire. If attacked, the best bet for taking a hit and surviving is to point the engine towards the enemy and hope it absorbs the shot.
 
 '''Armour type:'''
 * Rolled homogeneous armour
@@ -34,6 +34,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli SPAA {{Battle-rating}}
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
+The Hovet suffers from a low power-to-weight ratio and low top speed. One of its upsides is the good acceleration
 
 {{tankMobility|abMinHp=301|rbMinHp=188}}
 
@@ -90,11 +91,12 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli SPAA {{Battle-rating}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+The Hovet has an amazing rate of fire with the M168 gun, thus it has amazing damage output. In an anti-aircraft role, it is best used as a point-defence SPAA, defending a group of allies/cap zone from air attack. Its range isn't as good as the M247, so it's best to keep in mind the approximate 1 km targeting zone of the Hovet.
+
+The Hovet wields about 60 mm of penetration, which is enough to mortally wound/destroy many lightly-armoured vehicles such as the Leopard, AUBL, and Centauro. The high rate of fire also allows the Hovet a sort of CIWS (Close-In Weapon System) type of role, as it can easily spray in the direction of an incoming bomb, thus destroying it and saving nearby allies. This is especially easy against the infamous FAB-5000 bomb from the Soviet Pe-8, as the bomb is large and easy to track.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:''' 
 
