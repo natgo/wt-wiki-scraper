@@ -83,14 +83,14 @@ It should be noted that the ZTZ96A's gun depression and gun elevation have decli
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[Type 88C (125 mm)|125 mm Type 88C]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[Type 88C (125 mm)|125 mm Type 88C]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 40 || rowspan="2" | -5°/+12° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 28.6 || 39.5 || 48.0 || 53.1 || 56.5 || rowspan="2" | 7.10 || rowspan="2" | 7.10 || rowspan="2" | 7.10 || rowspan="2" | 7.10
+| rowspan="2" | 40 || rowspan="2" | -5°/+12° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 28.6 || 39.5 || 48.0 || 53.1 || 56.5 || rowspan="2" | 7.10
 |-
 ! ''Realistic''
 | 17.9 || 21.0 || 25.5 || 28.2 || 30.0
@@ -139,7 +139,7 @@ It should be noted that the ZTZ96A's gun depression and gun elevation have decli
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Commander's cupola || 600 (150) || 700 || -5°/+60° || ±180°
+| Commander's cupola || 600 (150) || 600 || -6°/+85° || ±180°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -148,7 +148,7 @@ It should be noted that the ZTZ96A's gun depression and gun elevation have decli
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 2,500 (250) || 700 || N/A || N/A
+| Coaxial || 2,500 (250) || 700 || - || -
 |-
 |}
 

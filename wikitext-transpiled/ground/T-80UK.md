@@ -67,10 +67,10 @@ The hull armour on the T-80UK is a 5-layer armour, which is comprised of 50 mm h
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 30 || rowspan="2" | -5°/+15° || rowspan="2" | ±180° || rowspan="2" | Two-plane || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 30 || rowspan="2" | -5°/+15° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 22.8 || 31.6 || 38.4 || 42.5 || 45.2 || rowspan="2" colspan="4" | 6.50
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 14.3 || 16.8 || 20.4 || 22.6 || 24.0
 |-
 |}
 

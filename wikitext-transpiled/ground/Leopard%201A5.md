@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=germ_leopard_1a5
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==

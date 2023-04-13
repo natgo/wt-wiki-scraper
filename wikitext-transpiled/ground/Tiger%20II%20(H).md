@@ -36,7 +36,7 @@ The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]
 '''Notes:'''
 
 * Suspension wheels are 20 mm thick while tracks are 30 mm thick.
-* Suspension wheels and interleaved and overlap.
+* Suspension wheels are interleaved and overlap.
 * Some part of the turret side have track links on them, which gives an additional 30 mm of protection.
 * A 30 mm turret ring plate is present.
 * Belly armour front part is 40 mm thick while the rest is 25 mm thick.
@@ -215,7 +215,7 @@ The Tigers' common enemies are going to be the [[M26|M26 Pershing]], an agile Am
 
 A further nuisance is the [[M41A1|M41A1 Bulldog]]. While it will mostly only fire sub-calibre shells, these are a danger up to 1,000 m to the frontal turret armour. Experienced light tank drivers will try to flank the Tiger to get shots into the exposed hull ammo racks, the APDS shot usually setting these off with one shot, unlike the APCR the Bulldog also carries. If you are stuck in close quarters, try to get a shot off as fast as possible in order to immobilise or destroy it.
 
-[[M46]] and [[M46 "Tiger"]] American medium tanka with a very similar gun to the Tiger II and a HEATFS round.
+[[M46]] and [[M46 "Tiger"]] American medium tanks with a very similar gun to the Tiger II and a HEATFS round.
 
 [[T28]] and [[T95]]: American tank destroyers with incredibly strong frontal armour and a gun far superior to the Tiger II's, these 2 vehicles should not be confronted frontally. Use your tank to either outflank them or put a few well-aimed shots into the cupolas. Watch out for its traverse speed, as the Doom turtle is shockingly fast to turn on the spot.
 
@@ -332,9 +332,11 @@ This combat vehicle had a number of serious shortcomings, such as low operationa
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_VI_ausf_b_tiger_IIh Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
+
 * [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 ;Videos

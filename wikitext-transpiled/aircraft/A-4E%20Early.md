@@ -227,7 +227,7 @@ General tactics with the A-4E is to keep altitude until one finds a target to po
 
 Your best defense is to not engage in fights where you are clearly outnumbered. However, if you are chased, there are little options for evasive manoeuvring. The plane's high roll rate will make it incredibly easy to dodge bullets, and the flares will help the plane dodge missiles. However, the low energy retention will make it extremely hard to escape the fight altogether, especially if perused by multiple aircraft. In such situations, your best bet is to have a friendly plane to pounce the chasing enemy fighters, which can give you a window to escape or fight back or to hide behind any hills or terrain that might cover you lower towards the ground.
 
-If using this plane as a ground attacker, equip either [[FFAR Mighty Mouse|FFAR]] or [[Zuni Mk32 Mod 0 ATAP|Zuni]] rocket pods, [[AGM-12B Bullpup|AGM-12]] Bullpups, or the 20mm gunpod, and attack ground targets. 
+If using this plane as a ground attacker, equip either [[FFAR Mighty Mouse|FFAR]] or [[Zuni Mk32 Mod 0 ATAP|Zuni]] rocket pods, [[AGM-12B Bullpup|AGM-12]] Bullpups, or the 20 mm gunpod, and attack ground targets. 
 
 Another option is to use the wide array of bombs, preferably the 14 x 500 lb loadout, and destroy enemy bases (typically you can only destroy one, sometimes two) with them. Do this by flying low and fast, to the base hitting one or two and then turn around away from the enemy fighters. When flying back to the base, if the jet has [[AIM-9B Sidewinder|AIM-9's]]  equipped, try to support the team by hitting or scarring off enemy fighters who may be attacking a helpless ally. Then, when you return to base, you could rearm with bombs, or rearm with [[AIM-9B Sidewinder|AIM-9's]] and fly as a late-game fighter to finish off remaining players.
 
@@ -242,25 +242,23 @@ In Ground RB, the preferable secondary armaments are the [[FFAR Mighty Mouse|FFA
 * Excellent roll rate
 * Can utilize [[Ballistic Computer#CCRP Usage|CCRP]] to assist in bomb dropping
 * Excellent ordnance options
-** Has strong air-to-air support capability with access to [[AIM-9B Sidewinder]] missiles, powerful quick-firing 20mm Mk11 Mod 5 gun pods, or a combination of both
+** Has strong air-to-air support capability with access to [[AIM-9B Sidewinder]] missiles, powerful quick-firing 20 mm Mk11 Mod 5 gun pods, or a combination of both
 ** Can carry three gun pods at once for a devastating one-second burst mass
 ** Has powerful ground-attack capability, sporting a variety of unguided bombs and rockets, as well as guided AGM-12B Bullpup guided missiles and AGM-62A Walleye guided bombs
 ** Can Obliterate bases in Air RB with 250kg bombs and Napalm Mk77s
 * Decent acceleration
-* Effective Radar Warning Receiver in up-tiers
+* Radar Warning Receiver useful in uptiers
 
 '''Cons:'''
 
-* 2x 20mm cannons have low ammo (only 100 rounds each) and aren't particularly powerful
+* 2 x 20 mm cannons have low ammo (only 100 rounds each) and aren't particularly powerful
 ** Inaccurate when stock; since they are your only weapon when stock, this makes for a painful stock grind
-* High speed manoeuvres can easily cause wings to rip
-* Is Fragile when hit in the tail or wing
-** potentially looses control even if the control surfaces are still intact
+* High speed manoeuvres can cause wings to rip
+* Fragile
 * Atrocious energy retention
-* Mediocre top speed
-* Mediocre climb rate compared to planes it can face
+* Mediocre top speed 
+* Mediocre climb rate 
 * Carrying any kind of ordnance diminishes the plane's flight performance significantly
-* Using the Walleye TV-guided bombs requires you to fly straight toward enemies and expose your aircraft to retaliatory fire (SAMs)
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

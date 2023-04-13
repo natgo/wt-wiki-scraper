@@ -152,7 +152,7 @@ If the map allows it and you prefer this kind of playstyle, the Panther F also e
 * Although the turret has increased armour, it remains a weak spot with basically no angling
 * Hull suffers similarly to turret; although good by itself, it becomes paper when facing higher tier guns
 * 75 mm KwK44 can become difficult to use as a sniper in an uptier
-* Pitiful reverse speed of only -3 km/h
+* Pitiful reverse speed
 * Slower turret traverse than the Panther A and G
 * Turret cheeks can be penetrated by high penetration guns (German 88 mm or US 90 mm)
 

@@ -1,3 +1,8 @@
+{{About
+|about = French heavy tank '''{{PAGENAME}}'''
+|usage = the other version
+|link = 2C
+}}
 {{Specs-Card
 |code=fr_char_2c_bis
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}

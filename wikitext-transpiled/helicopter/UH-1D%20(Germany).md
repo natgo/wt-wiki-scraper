@@ -56,7 +56,7 @@ There's no armour plating nor ballistic glass, and having only one engine, any d
 === Modifications and economy ===
 {{Specs-Economy}}
 
-Players' main focus should be on getting an SS.11 upgrade. This unlocks the ability to carry up to 6 [[SS.11|AS.11]] ATGMs. Those dramatically increases not only ▀UH-1D survivability, but also effectiveness against armoured targets. Thus it is preferable to start researching IL.68.22.I module first, as the player needs only one tier I module to progress and this module is a prerequisite for SS.11 upgrade. After that, it's up to the player what to research next.
+Players' main focus should be on getting the M156 AGM upgrade. This unlocks the ability to carry up to 6 [[AGM-22]] ATGMs. Those dramatically increases not only ▀UH-1D survivability, but also effectiveness against armoured targets. Thus it is preferable to start researching the IL.68.22.I module first, as the player needs only one tier I module to progress and this module is a prerequisite for SS.11 upgrade. After that, it's up to the player what to research next.
 
 == Armaments ==
 {{Specs-Heli-Armaments}}
@@ -67,14 +67,34 @@ Huey also lacks a ballistic computer, making its unguided rockets somewhat inacc
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AS.11|FFAR Mighty Mouse|TDA|M134 Minigun (7.62 mm)}}
+{{main|AGM-22|FFAR Mighty Mouse|TDA|M134 Minigun (7.62 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * 38 x FFAR Mighty Mouse rockets
 * 44 x TDA rockets
 * 2 x 7.62 mm M134 Minigun machine guns (1,500 rpg = 3,000 total)
-* 6 x AS.11 missiles
+* 6 x AGM-22 missiles
+
+==== Custom loadout options ====
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="18%" | 1 !! width="18%" | 2
+| rowspan="5" width="25%" | <div class="ttx-image">[[File:Hardpoints_UH-1B_(Japan).png]]</div>
+|-
+! FFAR Mighty Mouse rockets
+| 19 || 19
+|-
+! TDA rockets
+| 22 || 22
+|-
+! 7.62 mm M134 Minigun machine guns (1,500 rpg)
+| 1 || 1
+|-
+! AGM-22 missiles
+| 3 || 3
+|-
+|}
 
 '''FFAR Mighty Mouse rockets''' - stock armament available from the get go. They are launched in pairs and have up to 290 mm of penetration. They are also slightly faster than the TDA rockets and have slightly bigger explosive mass. Sadly their warhead is not powerful enough to cause indirect kills, meaning the player needs to land a hit directly on the enemy tank in order to take him out.
 
@@ -82,7 +102,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 '''7.62 mm M134 minigun''' - probably players best choice of weapon against other helicopters and planes. While having a high rate of fire, being of rifle calibre they present no threat to most ground vehicles (though they will decimate those few open-top vehicles that are encountered).
 
-'''AS.11 missiles''' - best weapon to deal with ground targets, ▀UH-1D can carry up to 6x of them. They are able to penetrate up to 600 mm of armour. There are not many tanks at ▀UH-1D's battle rating that carry reactive or composite armour, making them quite good. Their launch window is also huge, making the task of acquiring targets easier.
+'''AGM-22 missiles''' - best weapon to deal with ground targets, ▀UH-1D can carry up to 6x of them. They are able to penetrate up to 600 mm of armour. There are not many tanks at ▀UH-1D's battle rating that carry reactive or composite armour, making them quite good. Their launch window is also huge, making the task of acquiring targets easier.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -112,9 +132,9 @@ While player can also attack similarly to the plane and fly ground level in orde
 
 '''ATGM sniping'''
 
-'''Recommended loadout''': 6x AS.11 missile
+'''Recommended loadout''': 6x AGM-22 missiles
 
-Having greater capacity than its predecessor, this payload in theory enables an accurate player to score 6 kills at maximum. Though player must be aware that AS.11 missiles are relatively slow and it might take time for them to reach their maximum range. Thus player should not waste their missiles at vehicles that are near cover as the enemy can leave his line of sight before the missile arrives.
+Having greater capacity than its predecessor, this payload in theory enables an accurate player to score 6 kills at maximum. Though player must be aware that AGM-22 missiles are relatively slow and it might take time for them to reach their maximum range. Thus player should not waste their missiles at vehicles that are near cover as the enemy can leave his line of sight before the missile arrives.
 
 '''Tactics:'''
 
@@ -126,14 +146,14 @@ Pop above the cover for a few seconds, launch a missile or two, then go back. Ch
 
 Staying in one place not only helps the enemy team to locate helicopter sooner, but some tanks with laser range finders might be able to shoot hovering helicopter down with tank guns at a range of several kilometres, since they present almost static target.
 
-Planes and other helicopters also pose significant threat to player as ▀UH-1D cannot equip guns together with any missiles - if plane is spotted, player should consider retreating, either to closest airfield or in the vicinity of friendly AA.  If an enemy helicopter is spotted, player may attempt to shoot it down with ATGM if its close enough, but due to their relatively slow speed, misses are to be expected.
+Planes and other helicopters also pose significant threat to player as ▀UH-1D cannot equip guns together with any missiles - if plane is spotted, player should consider retreating, either to closest airfield or in the vicinity of friendly AA. If an enemy helicopter is spotted, player may attempt to shoot it down with ATGM if its close enough, but due to their relatively slow speed, misses are to be expected.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Able to carry 6 AS.11s ATGMs
+* Able to carry 6 x AGM-22 ATGMs
 * Able to carry unguided HEAT rockets with good penetration (which the predecessor [[SA.313B Alouette II (Germany)|Alouette II]] could not)
 * Reasonably fast
 * Very wide ATGM camera gimbal limits (110 degrees to each side horizontally and +10 to -70 vertically)
@@ -151,19 +171,19 @@ Planes and other helicopters also pose significant threat to player as ▀UH-1D 
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-The United States Army identified in 1952 a need for a new general utility helicopter which could also serve as medical evacuation (MEDEVAC) and instrument training helicopter too.  The current inventory of helicopters had several flaws which the Army wanted to overcome including being too large, underpowered or extremely complex to maintain.  The Army wanted a workhorse that was easy to maintain and have a fairly small profile. Twenty companies participated in the bidding process and in 1955, Bell Helicopter was selected to build three copies of the Model 204 for evaluation, and this version was designated XH-40 (Experimental Helicopter-40).
+The United States Army identified in 1952 a need for a new general utility helicopter which could also serve as medical evacuation (MEDEVAC) and instrument training helicopter too. The current inventory of helicopters had several flaws which the Army wanted to overcome including being too large, underpowered or extremely complex to maintain. The Army wanted a workhorse that was easy to maintain and have a fairly small profile. Twenty companies participated in the bidding process and in 1955, Bell Helicopter was selected to build three copies of the Model 204 for evaluation, and this version was designated XH-40 (Experimental Helicopter-40).
 
-The XH-40 was built with the Lycoming YT52-L-1 (LTC1B-1) turbo engine helicopter, the first non-piston helicopter tested by the military and first flew in 1956.  Even before the prototype had flown, the Army put in an order for six YH-40 service test aircraft in which they could field test to determine how it would work under military unit operations. Proving successful, Bell was awarded a contract to build another 100 helicopters which were designated HU-1A (Helicopter Utility-1A) and hence was officially named ''Iroquois''. Iroquois ended up being a mouthful for people to say, so a nickname developed from the HU-1 designation which ended up being pronounced as ''Huey'' and stuck.  In September 1962, the Department of Defense changed up the aircraft identification system to streamline between all of the different aircraft and their variations and changed the HU-1 to UH-1 (Utility Helicopter-1). Even with the change, the official Army name and the new DOD designation was rarely used as Huey was so well recognised as the name, that is what was to most people.
+The XH-40 was built with the Lycoming YT52-L-1 (LTC1B-1) turbo engine helicopter, the first non-piston helicopter tested by the military and first flew in 1956. Even before the prototype had flown, the Army put in an order for six YH-40 service test aircraft in which they could field test to determine how it would work under military unit operations. Proving successful, Bell was awarded a contract to build another 100 helicopters which were designated HU-1A (Helicopter Utility-1A) and hence was officially named ''Iroquois''. Iroquois ended up being a mouthful for people to say, so a nickname developed from the HU-1 designation which ended up being pronounced as ''Huey'' and stuck. In September 1962, the Department of Defense changed up the aircraft identification system to streamline between all of the different aircraft and their variations and changed the HU-1 to UH-1 (Utility Helicopter-1). Even with the change, the official Army name and the new DOD designation was rarely used as Huey was so well recognised as the name, that is what was to most people.
 
-Unfortunately, with all of the positive feedback received for the YH-40, service tests performed by the Army found the T53-L-1A engine was found to be underpowered and could not perform to the level that was needed.  Bell proposed to swap the T53-L-1A engine with the T53-L-5 engine, upping the shaft horsepower from 770 to 960 (570 kW to 720 kW) and extended the cabin to accommodate more people, up to 7 passengers or four stretchers and a medical attendant.  The first production of the new helicopter UH-1B was delivered for service in 1961.
+Unfortunately, with all of the positive feedback received for the YH-40, service tests performed by the Army found the T53-L-1A engine was found to be underpowered and could not perform to the level that was needed. Bell proposed to swap the T53-L-1A engine with the T53-L-5 engine, upping the shaft horsepower from 770 to 960 (570 kW to 720 kW) and extended the cabin to accommodate more people, up to 7 passengers or four stretchers and a medical attendant. The first production of the new helicopter UH-1B was delivered for service in 1961.
 
-Several aerodynamic deficiencies of an armed UH-1B was explicitly identified not having enough engine power to lift the necessary weapons systems.  The UH-1C was developed to overcome these problems by upgrading the helicopter with the T53-L-11 engine which had 1,100 shaft horsepower or 820 kW.  The UH-1B helicopters which were in the service of the Army at the time were also upgraded with the new engine.  Several adjustments were made to the UH-1C which included a new rotor-system, however, like many things which are upgraded, domino effect also requires other components and modules also to be updated.  A larger diameter rotor was installed to counter blade stall during dives which required the tail boom to be extended and larger synchronized elevators to be added. While operating in military operations, it was determined necessary to add a redundant hydraulic control system to allow for continued operation in the event of a failure in one system.  Larger fuel tanks allowed for further range with the total useful load capacity topping out at 4,673 lbs (2,120 kg). Mid-1966 saw the line production of the fully upgraded UH-1C helicopter.
+Several aerodynamic deficiencies of an armed UH-1B was explicitly identified not having enough engine power to lift the necessary weapons systems. The UH-1C was developed to overcome these problems by upgrading the helicopter with the T53-L-11 engine which had 1,100 shaft horsepower or 820 kW. The UH-1B helicopters which were in the service of the Army at the time were also upgraded with the new engine. Several adjustments were made to the UH-1C which included a new rotor-system, however, like many things which are upgraded, domino effect also requires other components and modules also to be updated. A larger diameter rotor was installed to counter blade stall during dives which required the tail boom to be extended and larger synchronized elevators to be added. While operating in military operations, it was determined necessary to add a redundant hydraulic control system to allow for continued operation in the event of a failure in one system. Larger fuel tanks allowed for further range with the total useful load capacity topping out at 4,673 lbs (2,120 kg). Mid-1966 saw the line production of the fully upgraded UH-1C helicopter.
 
-Huey model 204 helicopters were a huge success and were put to use in several different capacities. However, the Army wanted another version which facilitated the carrying of more troops which spawned the Model 205.  Bell adjusted by extending the HU-1B's fuselage by a total of 41 in (104 cm), boxed in the transmission and was able to add four more seats, two on each side of the transmission box facing out the side doors.  With the side doors being easily removable, options to fly without doors made for quick loading and unloading of the helicopter which could now accommodate 15 persons, including the crew and could now hold six stretchers and a medic. First flown in 1961, the 205 took on many of the same upgrades as the UH-1C including the T53-L-11 which enabled usage of multiple types of fuel.  Prototypes of this helicopter were designated YUH-1D, and the final assembly line aircraft was called the UH-1D.
+Huey model 204 helicopters were a huge success and were put to use in several different capacities. However, the Army wanted another version which facilitated the carrying of more troops which spawned the Model 205. Bell adjusted by extending the HU-1B's fuselage by a total of 41 in (104 cm), boxed in the transmission and was able to add four more seats, two on each side of the transmission box facing out the side doors. With the side doors being easily removable, options to fly without doors made for quick loading and unloading of the helicopter which could now accommodate 15 persons, including the crew and could now hold six stretchers and a medic. First flown in 1961, the 205 took on many of the same upgrades as the UH-1C including the T53-L-11 which enabled usage of multiple types of fuel. Prototypes of this helicopter were designated YUH-1D, and the final assembly line aircraft was called the UH-1D.
 
-This helicopter while still under evaluation the Army sent it to Vietnam in 1962 where it began operations.  Initially only required as a general utility, MEDEVAC, and an instrument trainer, this helicopters role also expanded to include but not limited to air assault, cargo transport, search and rescue, electronic warfare and eventually ground attack.
+This helicopter while still under evaluation the Army sent it to Vietnam in 1962 where it began operations. Initially only required as a general utility, MEDEVAC, and an instrument trainer, this helicopters role also expanded to include but not limited to air assault, cargo transport, search and rescue, electronic warfare and eventually ground attack.
 
-During the Vietnam War, the UH-1 earned several other nicknames other than "Huey" which quickly identified to troops what role the helicopter had been outfitted for.  Gunship versions of the UH-1s were identified as ''Frogs'' or ''Hogs'' if they carried rockets while if they just carried guns, they were identified as ''Cobras''.  Troop transport versions were called ''Slicks'' due to weapon pods being absent on the external pylons while they did retain their door gunners.  Later in the war from 1967 to 1968, the gunship Huey's were replaced by the new [[AH-1G|AH-1]] attack helicopters.
+During the Vietnam War, the UH-1 earned several other nicknames other than "Huey" which quickly identified to troops what role the helicopter had been outfitted for. Gunship versions of the UH-1s were identified as ''Frogs'' or ''Hogs'' if they carried rockets while if they just carried guns, they were identified as ''Cobras''. Troop transport versions were called ''Slicks'' due to weapon pods being absent on the external pylons while they did retain their door gunners. Later in the war from 1967 to 1968, the gunship Huey's were replaced by the new [[AH-1G|AH-1]] attack helicopters.
 
 The success of the Iroquois helicopters did not go unnoticed by allies of the United States. When the USA released the UH-1D model, the West German government agreed to purchase a license to manufacture the latest Iroquois helicopters at German factories, particularly those of the Dornier company. Between February 1967 and the end of 1981, German aircraft manufacturers constructed 352 UH-1D helicopters.
 

@@ -122,7 +122,7 @@ However, instead of a traditional 7.62 mm Type 86 coaxial machine gun, ZLT11 has
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle || 600 (150) || 700 || -5°/+60° || ±180°
+| Pintle || 600 (150) || 600 || -6°/+85° || ±180°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -131,7 +131,7 @@ However, instead of a traditional 7.62 mm Type 86 coaxial machine gun, ZLT11 has
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 800 (200) || 801 || N/A || N/A
+| Coaxial || 800 (200) || 801 || - || -
 |-
 |}
 

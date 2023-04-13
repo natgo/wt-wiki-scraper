@@ -64,7 +64,7 @@ As a variant of the Swiss Oerlikon GDF-002, the PG99-35-2 shares the same traits
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 440 (200) || rowspan="2" | 550 || rowspan="2" | -2°/+85° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 79.3 || 109.7 || 133.2 || 147.3 || 156.7 || rowspan="2" | 1.30 || rowspan="2" | 1.15 || rowspan="2" | 1.06 || rowspan="2" | 1.00
+| rowspan="2" | 480 (220 + 20) || rowspan="2" | 550 || rowspan="2" | -2°/+85° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 79.3 || 109.7 || 133.2 || 147.3 || 156.7 || rowspan="2" | 1.30 || rowspan="2" | 1.15 || rowspan="2" | 1.06 || rowspan="2" | 1.00
 |-
 ! ''Realistic''
 | 53.5 || 63.0 || 76.5 || 84.6 || 90.0
@@ -72,6 +72,7 @@ As a variant of the Swiss Oerlikon GDF-002, the PG99-35-2 shares the same traits
 |}
 
 ==== Ammunition ====
+
 * '''Default:''' {{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
 * '''DKG01A:''' {{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}{{-}}{{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}
 * '''DKP01A:''' {{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}{{-}}{{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}{{-}}{{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}

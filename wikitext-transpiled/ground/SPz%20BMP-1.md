@@ -13,7 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German light tank {{Battle-rating}}. It was introduced in [[Update 1.93 "Shark Attack"]].
+As part of the Cold War remilitarization, the growing East German National People's Army (NVA) began receiving BMP-1 infantry fighting vehicles (IFV) from both the Soviet Union and Czechoslovakia. Throughout the Cold War, the NVA would receive a total of 1,133 BMP-1s for use in their motorized rifle regiments. Following the reunification of East and West Germany, the Bundeswehr integrated the BMP-1 into its ranks in 1991, upgrading and modifying them into the BMP-1A1 Ost variant to meet Bundeswehr standards. The BMP-1 was eventually retired from service by 1994 and either scrapped or sold to other countries.
+
+The German version of the '''{{Specs|name}}''' (''Schützenpanzer, BMP-1'') was introduced into War Thunder in [[Update 1.93 "Shark Attack"]]. As an import, the {{Specs|name}} is similar to the Soviet Union's [[BMP-1|version]] with fast mobility, an assortment of dangerous armament, but paper-thin armour. The armament of a 73 mm HEAT warhead and a missile, either the MCLOS [[9M14]] or SACLOS [[9M113_Konkurs|9M113]], means the BMP-1 has more than enough firepower to take care of any enemy it encounters if it gets the first shot off. The BMP's mobility should allow it to get into places the enemy wouldn't expect it to be early in a match, and frequent repositioning is crucial as any incoming shots, even by autocannons and heavy machine guns, have the potential to penetrate the BMP-1's armour even from the front.
 
 == General info ==
 === Survivability and armour ===

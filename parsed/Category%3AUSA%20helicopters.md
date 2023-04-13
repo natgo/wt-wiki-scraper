@@ -10,16 +10,16 @@
 <span style="color:#cccccc;">Helicopters become available for research and purchase only with the ownership of at least one Rank 5 vehicle of the corresponding nation</span>
 
 {{Tree-Line|V Rank}}
-|style="width:500px;padding-left:18%;"|
+|style="width:500px;padding-left:10%;"|
 {| cellspacing="0" style="margin:0;margin-top:-7px;"
 |-
-| {{Tree-Unit|ah_1g}}
-|-
-| {{Tree-Arrow}}
-|-
-| {{Tree-Unit|uh_1b}} || {{Tree-Arrow-Right}} || {{Tree-Unit|uh_1c}}
+| || || {{Tree-Unit|ah_1g}}
 |-
 | || || {{Tree-Arrow}}
+|-
+| {{Tree-Skip}} || || {{Tree-Unit|uh_1b}} || {{Tree-Arrow-Right}} || {{Tree-Unit|uh_1c}}
+|-
+| colspan="3" style="text-align: center;"| <div class="tree-arrow-right">https://wiki.warthunder.ru/images/b/b3/Arrow-left-down.png</div> || || {{Tree-Arrow}}
 |}
 |style="border-left: solid 1px #cccccc;"|
 {{Tree-Unit|h_34}}
@@ -29,16 +29,16 @@
 |
 
 {{Tree-Line|VI Rank}}
-|style="width:500px;padding-left:18%;"|
+|style="width:500px;padding-left:10%;"|
 {| cellspacing="0" style="margin:0;margin-top:-7px;"
 |-
-| || || {{Tree-Unit|ah_1f}}
+| {{Tree-Unit|ah_6m}} || || || || {{Tree-Unit|ah_1f}}
 |-
-| colspan="3" style="text-align: center;"| <div class="tree-arrow-right">https://wiki.warthunder.ru/images/b/b3/Arrow-left-down.png</div>
+| || || colspan="3" style="text-align: center;"| <div class="tree-arrow-right">https://wiki.warthunder.ru/images/b/b3/Arrow-left-down.png</div>
 |-
-| {{Tree-Unit|ah_64a}} || || rowspan="2"| <div style="margin-top:-25px;margin-left:8px;">{{Tree-Arrow|1}}</div>
+| || || {{Tree-Unit|ah_64a}} || || rowspan="2"| <div style="margin-top:-25px;margin-left:8px;">{{Tree-Arrow|1}}</div>
 |-
-| {{Tree-Arrow}}
+| || || {{Tree-Arrow}}
 |}
 |style="border-left: solid 1px #cccccc;"|
 {{Tree-Unit|yah_64}}
@@ -50,10 +50,10 @@
 {{Tree-Skip}}
 
 {{Tree-Line|VII Rank}}
-|style="width:500px;padding-left:18%;"|
+|style="width:500px;padding-left:10%;"|
 {| cellspacing="0" style="margin:0;margin-top:-7px;"
 |-
-| {{Tree-Unit|ah_64d}} || || {{Tree-Unit|ah_1z}}
+| {{Tree-Skip}} || || {{Tree-Unit|ah_64d}} || || {{Tree-Unit|ah_1z}}
 {{Tree-Skip}}
 |-
 |}

@@ -61,7 +61,9 @@ The A-129 is lightweight but it hasn't got great armour or survivability. The on
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* 1 x 12.7 mm FN M3M machine gun (750 rpg)
+* A choice between two presets:
+** 1 x 12.7 mm FN M3M machine gun, chin turret (750 rpg)
+** 1 x 12.7 mm FN M3M machine gun + IRCM
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
@@ -74,7 +76,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 * Without load
 * 76 x Hydra-70 M247 rockets
-* 2 x 12.7 mm FN M3P machine guns (400 rpg = 800 total)
+* 2 x 12.7 mm FN M3P machine guns (250 rpg = 500 total)
 * 2 x 12.7 mm FN M3P machine guns + 6 x FFAR Mighty Mouse rockets
 * 2 x 12.7 mm FN M3P machine guns + 38 x Hydra-70 M247 rockets
 * 2 x 12.7 mm FN M3P machine guns + 38 x Hydra-70 M247 rockets + 6 x FFAR Mighty Mouse rockets
@@ -95,11 +97,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 ! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
 | rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_A129CBT.png]]</div>
 |-
-! 12.7 mm FN M3P machine guns (400 rpg)
-| || 1 || 1 ||
+! 12.7 mm FN M3P machine guns (250 rpg)
+| || 1* || 1* ||
 |-
 ! FFAR Mighty Mouse rockets
-| || 3 || 3 ||
+| || 3* || 3* ||
 |-
 ! Hydra-70 M247 rockets
 | 7, 19 || 7, 19 || 7, 19 || 7, 19

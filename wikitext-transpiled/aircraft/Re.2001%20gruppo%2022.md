@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Italian fighter {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
+The Re.2001 Group 22 is the Re.2001 belonging to the 22nd Autonomous Land Fighter Group founded on 5 July 1918 with the 181st Squadron and 182nd Squadron of Caproni Ca.40s, whose 22nd Group participated in World War I, after the outbreak of World War II participated on the Eastern Front, in the Naval Air War in the Mediterranean where it received the first Re.2001s and after the end of World War II was renamed the Interceptor Group and integrated into the 51st Squadron.
+
+The Re.2001 Group 22 is the premium version of the [[Re.2001 serie 1|Re.2001 Series I]] introduced with the [[Update "Starfighters"|"Starfighters" update]] the vehicle has good manoeuvrability even when it is not very fast, using the combat flaps you can increase the manoeuvrability but losing a lot of speed, in fact you have to keep the engine on WEP but not for too long because it is not well cooled the engine will tend to overheat and break, finally the armament composed of two 12.7mm and two 7.7mm can cause good damage to the enemy.
 
 == General info ==
 === Flight performance ===
@@ -162,6 +164,7 @@ From its full name "22°Gruppo Autonomo caccia terrestre", 22nd autonomous group
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=re_2001_serie1_ep Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -175,6 +178,7 @@ Re.2001 22°Gruppo.png|
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other Reggiane planes
+
 * [[Re.2000 (Family)]]
 * [[Re.2005 serie 0]]
 

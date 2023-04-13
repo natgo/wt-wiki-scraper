@@ -6,7 +6,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} German light tank {{Battle-rating}}. It was introduced during [[Update "Hot Tracks"]] as a reward for the [[wt:en/news/6981-special-operation-w-i-n-t-e-r-en|2020 Operation W.I.N.T.E.R.]] event.
+The '''{{Specs|pseudonym}}''', also known as the '''{{Specs|name}}''', is a gift rank {{Specs|rank}} German light tank {{Battle-rating}}. It was introduced during [[Update "Hot Tracks"]] as a reward for the [[wt:en/news/6981-special-operation-w-i-n-t-e-r-en|2020 Operation W.I.N.T.E.R.]] event.
 
 == General info ==
 === Survivability and armour ===

@@ -165,10 +165,10 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * 16 x 50 kg FAB-50sv bombs (800 kg total)
 * 16 x 100 kg FAB-100M-43 bombs (1,600 kg total)
-* 8 x 250 kg FAB-250M-46 bombs (2,000 kg total)
-* 4 x 500 kg FAB-500M-46 bombs (2,000 kg total)
-* 2 x 1,000 kg FAB-1000 bombs (2,000 kg total)
-* 1 x 1,500 kg FAB-1500M-46 bomb (1,500 kg total)
+* 12 x 250 kg FAB-250M-46 bombs (3,000 kg total)
+* 6 x 500 kg FAB-500M-46 bombs (3,000 kg total)
+* 1 x 1,000 kg FAB-1000 bomb (1,000 kg total)
+* 2 x 1,500 kg FAB-1500M-46 bombs (3,000 kg total)
 * 1 x 3,000 kg FAB-3000M-46 bomb (3,000 kg total)
 * 1 x 450 mm 45-36MAN torpedo
 

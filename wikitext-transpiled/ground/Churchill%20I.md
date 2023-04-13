@@ -136,7 +136,9 @@ The gun has excellent elevation and depression angles as well as a turret with d
 <!-- ''Some tanks are armed with several guns in one or more turrets. Evaluate the additional weaponry and give advice on its use. Describe the ammunition available for additional weaponry. Give advice on about how to use them and how to fill the ammunition storage. If there is no additional weaponry remove this subsection.'' -->
 {{main|OQF 3-inch Howitzer Mk I (76 mm)}}
 
-The hull-mounted 76 mm OQF 3-inch Howitzer Mk I has only 2 types of rounds available to it: HE and smoke. This is due to the fact that it was intended to be used against infantry. In the game, the HE round can be used to overpressure the roof or floor of light or open-topped vehicles. The smoke round is self-explanatory, and can be used to fire smoke at a great distance compared to smoke dischargers. The smoke rounds can be used to "smoke out" enemy positions by firing on them with the 76 mm howitzer to force them to move from a good position, or to cover advancing allies from enemy fire.
+The hull-mounted 76 mm OQF 3-inch Howitzer Mk I has only 2 types of rounds available to it: HE and smoke. This is due to the fact that it was intended to be used against infantry. In the game, the HE round can be used to overpressure the roof or floor of lightly armoured vehicles and can obliterate open-topped vehicles by hitting them almost anywhere. The smoke round is self-explanatory, and can be used to fire smoke at a greater distances compared to smoke dischargers. The smoke rounds can be used to "smoke out" enemy positions by firing on them with the 76 mm howitzer to force them to move from a good position, or to cover advancing allies from enemy fire.
+
+This weapon also receives aim assist in AB, but to see it the player must select the howitzer as a "primary weapon" which makes regular main weapon inoperable. To return back to the turret cannon it is adviced to use "reset" weapon selection rather than choosing it again, as otherwise it will be impossible to use both weapons at once anymore, which is inconvenient. Due to the extremely low muzzle velocity of the shell the howitzer can fire over tall builings and hills, which allows AB Churchill I to fire almost anywhere. Enemy open topped vehicles must react to the shell coming from the sky (if they even can see it coming) to dodge or they will not survive.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -220,32 +222,30 @@ The Churchill has heavy armour, especially when it is angled, but this certainly
 '''Pros:'''
 
 * Excellent armour
-* Almost immune to small calibre guns
-* Well armoured sides and a strong mantlet
-* Extremely fast-firing 40 mm gun, you will pretty much always get another shot off before your enemy does
-* The Churchill can fire APHE shells which have potent post-penetration damage
-* The Churchill's size and shoulder stabilizer eliminates any recoil from the gun, making it easy to fire a second shot without losing any accuracy
-* Ability to pivot steer
-* 76 mm howitzer can be used to smoke out enemy positions at long ranges or cover allied retreats
-* Large suspension sides have side hits more likely to break tracks than penetrate the hull
-* Incredibly hard to dislodge or destroy when properly angled
-* Works well as the spearhead of an assault when capturing a point, absorbing damage
-* Good acceleration
+** Almost immune to small calibre guns
+** Well armoured sides and a strong mantlet, incredibly hard to dislodge or destroy when properly angled
+** Large suspension sides have side hits more likely to break tracks than penetrate the hull
+** Works well as the spearhead of an assault when capturing a point, absorbing damage
+* Extremely fast-firing 40 mm gun, it will pretty much always get another shot off before the enemy does, making it easy to disable enemy tanks
+* This Churchill can fire APHE shells with some post-penetration damage to finish off crippled tanks
+* The Churchill's size, movement speed and shoulder stabilizer eliminates shake or recoil from the gun, making it easy to fire in any situation
+* 76 mm howitzer can be used to obliterate open topped tanks or smoke out enemy positions at long ranges or even to cover allied retreats
+* Although it is slow, it can move out of the way due to the good acceleration and ability to pivot steer
 
 '''Cons:'''
 
-* 40 mm gun is ineffective against anything with sloped armour
-* Shell Mk.1 AP/T with explosive mass has a low penetration of 66 mm
-* Will lose a lot of speed when making a sharp turn in motion
-* Has difficulty engaging other heavy tanks
-* Up-gunned Panzer IVs ([[Pz.IV F2]], [[Pz.IV G]], etc.) will penetrate flat faces with ease
-* Poor mobility when compared to other heavy tanks from other nations
-* Terrible reverse speed
-* Slow, will take a lot of time just to reach the combat zone from spawn points
-* Frontal 50 mm weak spot (machine gun port)
-* Turret and hull roof armour is somewhat thin
-* Priority target by planes due to size and bad reverse speed
-* Exposed tracks leave you incredibly vulnerable to being immobilized
+* 40 mm gun is ineffective against anything with sloped or heavy armour
+** Has difficulty engaging other heavy tanks
+* Shell Mk.1 AP/T with explosive mass has a low penetration of 66 mm at best
+* Up-gunned Panzer IVs ([[Pz.IV F2]], [[Pz.IV G]], etc.) will penetrate flat face with ease
+* Rather poor mobility when compared to other heavy tanks from other nations
+** Will take a lot of time just to reach the combat zone from spawn points
+** Will lose a lot of speed when making a sharp turn in motion
+** Terrible reverse speed
+* Has a frontal 50 mm thick weak spot (machine gun port)
+* Roof armour is very thin, attacks with stronger than usual HE can easily destroy this tank
+** Priority target for planes due to the size and bad speed, can be removed with a single rocket from a good pilot
+* Giant exposed tracks leave the tank incredibly vulnerable to being completely immobilized
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

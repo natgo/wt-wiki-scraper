@@ -1136,7 +1136,7 @@
     </tr>
     <tr>
       <th><i>Arcade</i></th>
-      <td rowspan="2">50</td>
+      <td rowspan="2">30</td>
       <td rowspan="2">-3°/+18°</td>
       <td rowspan="2">±180°</td>
       <td rowspan="2">N/A</td>
@@ -1345,20 +1345,20 @@
     >
   </h4>
   <div class="thumb tright">
-    <div class="thumbinner" style="width: 295px">
+    <div class="thumbinner" style="width: 256px">
       <a href="/File:Ammoracks_T-34-100.png" class="image"
         ><img
           alt=""
-          src="/images/thumb/c/c1/Ammoracks_T-34-100.png/293px-Ammoracks_T-34-100.png"
-          width="293"
+          src="/images/thumb/c/c1/Ammoracks_T-34-100.png/254px-Ammoracks_T-34-100.png"
+          width="254"
           height="250"
           class="thumbimage"
           srcset="
-            /images/thumb/c/c1/Ammoracks_T-34-100.png/440px-Ammoracks_T-34-100.png 1.5x,
-            /images/thumb/c/c1/Ammoracks_T-34-100.png/587px-Ammoracks_T-34-100.png 2x
+            /images/thumb/c/c1/Ammoracks_T-34-100.png/381px-Ammoracks_T-34-100.png 1.5x,
+            /images/thumb/c/c1/Ammoracks_T-34-100.png/508px-Ammoracks_T-34-100.png 2x
           "
-          data-file-width="744"
-          data-file-height="634"
+          data-file-width="765"
+          data-file-height="753"
       /></a>
       <div class="thumbcaption">
         <div class="magnify">
@@ -1380,13 +1380,13 @@
       <th>Visual<br />discrepancy</th>
     </tr>
     <tr>
-      <td><b>50</b></td>
-      <td>47&#160;<i>(+3)</i></td>
-      <td>37&#160;<i>(+13)</i></td>
-      <td>27&#160;<i>(+23)</i></td>
-      <td>17&#160;<i>(+33)</i></td>
-      <td>7&#160;<i>(+43)</i></td>
-      <td>1&#160;<i>(+49)</i></td>
+      <td><b>30</b></td>
+      <td>29&#160;<i>(+1)</i></td>
+      <td>27&#160;<i>(+3)</i></td>
+      <td>25&#160;<i>(+25)</i></td>
+      <td>10&#160;<i>(+20)</i></td>
+      <td>4&#160;<i>(+26)</i></td>
+      <td>1&#160;<i>(+29)</i></td>
       <td>No</td>
     </tr>
   </table>
@@ -1394,21 +1394,18 @@
   <ul>
     <li>Shells are modeled individually and disappear after having been shot or loaded.</li>
     <li>
-      Rack 6 is a first stage ammo rack. It totals 6 shells and gets filled first when loading up
-      the tank.
+      Racks 5 and 6 are first stage ammo racks. They total 9 shells and get filled first when
+      loading up the tank.
     </li>
     <li>
-      This rack is also emptied early: the rack depletion order at full capacity is: 6 - 1 - 2 -
-      etc. until 5.
+      These racks are also emptied early: the rack depletion order at full capacity is: 6 - 5 - 1 -
+      2 - 3 - 4.
     </li>
     <li>
-      Full reload speed will be realized as long as shells are available in the ready rack 6. If the
-      ready rack is empty, a penalty to reload speed will occur.
+      Simply not firing when the gun is loaded will move ammo from racks 1-4 into rack 5 then 6.
+      Firing will interrupt the restocking of the ready rack.
     </li>
-    <li>
-      Simply not firing when the gun is loaded will move ammo from racks 1-5 into rack 6. Firing
-      will interrupt the restocking of the ready rack.
-    </li>
+    <li>Hull empty: 10&#160;<i>(+20)</i> shells.</li>
   </ul>
   <h3>
     <span class="mw-headline" id="Machine_guns">Machine guns</span

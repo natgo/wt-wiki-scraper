@@ -93,7 +93,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M57 (250 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|AN-M66A2 (2,000 lb)}}
+{{main|AN-M57 (250 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|AN-M66A2 (2,000 lb)|Mk 78 incendiary}}
 {{main|HVAR|T10 140|T10 151|Tiny Tim|Mk.13-6 Case (2,216 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
@@ -111,12 +111,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x Tiny Tim rockets + 12 x HVAR rockets + 1 x 2,000 lb AN-M66A2 bomb (2,000 lb total)
 * 24 x T10 140 rockets + 3 x 1,000 lb AN-M65A1 bombs (3,000 lb total)
 * 24 x T10 151 rockets + 3 x 500 lb AN-M64A1 bombs (1,500 lb total)
+* 2 x Mk 78 incendiary bombs
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="3%" | 1 !! width="3%" | 2 !! width="3%" | 3 !! width="3%" | 4 !! width="3%" | 5 !! width="3%" | 6 !! width="3%" | 7 !! width="3%" | 8 !! width="3%" | 9 !! width="3%" | 10 !! width="3%" | 11 !! width="3%" | 12 !! width="3%" | 13 !! width="3%" | 14 !! width="3%" | 15
-| rowspan="10" width="30%" | <div class="ttx-image">[[File:Hardpoints_AD-2.png]]</div>
+| rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_AD-2.png]]</div>
 |-
 ! 250 lb AN-M57 bombs
 | || || || || || || 1 || || 1 || || || || || ||
@@ -129,6 +130,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |-
 ! 2,000 lb AN-M66A2 bombs
 | || || || || || || || 1 || || || || || || ||
+|-
+! Mk 78 incendiary bombs
+| || || || || || || 1 || || 1 || || || || || ||
 |-
 ! HVAR rockets
 | 1 || 1 || 1 || 1 || 1 || 1 || || || || 1 || 1 || 1 || 1 || 1 || 1

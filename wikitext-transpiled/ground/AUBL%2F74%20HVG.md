@@ -124,7 +124,7 @@ The AUBL/74's mobility is great. It can reach up to 100 km/h, with an average sp
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 800 (200) || 1,200 || N/A || N/A
+| Coaxial || 800 (200) || 801 || N/A || N/A
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"

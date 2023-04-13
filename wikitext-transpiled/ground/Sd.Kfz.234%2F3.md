@@ -105,12 +105,27 @@ The available ammunition offers a wide range of shells to engage all types of ta
 | '''50''' || 45&nbsp;''(+5)'' || 39&nbsp;''(+11)'' || 35&nbsp;''(+15)'' || 31&nbsp;''(+19)'' || 27&nbsp;''(+23)'' || 23&nbsp;''(+27)'' || 13&nbsp;''(+37)'' || 1&nbsp;''(+49)'' || No
 |-
 |}
-[[File:Ammoracks Sd.Kfz.234-3.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+[[File:Ammoracks Sd.Kfz.234-3.png|right|thumb|x200px|[[Ammo racks]] of the {{PAGENAME}}]]
 '''Notes''':
 
 * Shells in racks 1 and 2 are modeled individually and disappear after having been shot or loaded.
 * Shells in racks 3 to 8 are modeled by sets of 2 and disappear after both shells in the set having been shot or loaded.
 * Pack 27&nbsp;''(+23)'' shells (racks 1 to 5 emptied) to go into battle with the flanks empty of ammo.
+
+=== Machine guns ===
+{{Specs-Tank-Weapon|2}}
+<!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
+{{main|MG42 (7.92 mm)}}
+
+{| class="wikitable" style="text-align:center" width="50%"
+|-
+! colspan="5" | [[MG42 (7.92 mm)|7.92 mm MG42]]
+|-
+! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
+|-
+| Coaxial || 1,950 (150) || 1,200 || - || -
+|-
+|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -143,7 +158,6 @@ In its battle rating of 1.7, the 234/3 will face anything and everything between
 * Open-topped, making it very vulnerable to attacks from the air or artillery
 * Can be disabled by aircraft simply by ramming it
 * Limited gun traverse
-* No MG so it has no anti-aircraft defense and bad defense against light targets
 * Crew compartment is littered with ammo
 * Vehicle will be immobilized if one driver is knocked out despite having two drivers in its layout, due to game mechanic limitations of having only one driver at a time
 * Gun has low muzzle velocity, not suitable for long range engagements

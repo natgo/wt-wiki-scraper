@@ -67,14 +67,38 @@ The ammunition used is a 40 x 53 mm high-velocity grenade, the default in War Th
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
 {{main|AGM-22|BGM-71C Improved TOW|FFAR Mighty Mouse|M134 Minigun (7.62 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 * 38 x FFAR Mighty Mouse rockets
 * 76 x FFAR Mighty Mouse rockets
 * 6 x AGM-22 missiles
 * 6 x BGM-71C Improved TOW missiles
 * 2 x 7.62 mm M134 Minigun machine guns (1,500 rpg = 3,000 total)
-* 2 x 7.62 mm M134 Minigun machine guns (6,000 rpg = 12,000 total) + 38 x FFAR Mighty Mouse rockets
+* 2 x 7.62 mm M134 Minigun machine guns (3,000 rpg = 6,000 total)
+
+==== Custom loadout options ====
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4
+| rowspan="6" width="25%" | <div class="ttx-image">[[File:Hardpoints UH-1B.png]]</div>
+|-
+! 7.62 mm M134 Minigun machine guns (1,500 rpg)
+| || 1 || 1 ||
+|-
+! 7.62 mm M134 Minigun machine guns (3,000 rpg)
+| 1* || || || 1*
+|-
+! FFAR Mighty Mouse rockets
+| 19* || 19 || 19 || 19*
+|-
+! AGM-22 missiles
+| || 3* || 3* ||
+|-
+! BGM-71C Improved TOW missiles
+| || 3* || 3* ||
+|-
+| colspan="6" | * AGM-22 or BGM-71C Improved TOW missiles cannot be equipped with other ordnance
+|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

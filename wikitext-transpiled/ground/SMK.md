@@ -134,8 +134,9 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet heavy tank {{Ba
 
 === Machine guns ===
 {{Specs-Tank-Weapon|3}}
+{{Specs-Tank-Weapon|4}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-{{main|DK (12.7 mm)}}
+{{main|DK (12.7 mm)|DT (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -146,13 +147,22 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet heavy tank {{Ba
 | Turret rear || 600 (50) || 600 || -10°/+1° || ±15°
 |-
 |}
+{| class="wikitable" style="text-align:center" width="50%"
+|-
+! colspan="5" | [[DT (7.62 mm)|7.62 mm DT]]
+|-
+! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
+|-
+| Coaxial with 45 mm || 1,890 (63) || 600 || - || -
+|-
+|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
 Confidently stand against most enemy tanks especially if they are without support, use caution against engaging multiple targets from a distance however as a track hit will end any day on the battlefield, the SMK packs its biggest punch up close and cannot expect to survive against sniping units if caught in the open. Keep the tank moving as much as possible and slightly angled facing enemies directly. When engaging heavies it's best to not go toe to toe head on however by disabling a track or turret the SMK can hold itself up in close proximity to most heavy enemy tanks. HE and shrapnel shells are not this tanks forte, rather its APHE rounds usually due to the trick against most enemy units. The SMK can also fool enemies by shooting the 45 mm cannon, then letting the opponent peek out when they think that the cannon is reloading, and shoot them with the 76 mm cannon instead.
 
-Attack and break enemy lines, The SMK is very much a tank worthy of entitling "Not one step back"! A fast load rate and dual turret firing system allow this tank multiple scores even when surrounded or disabled, and the sizeable crew enables quick repair, which is great as its size makes the SMK a juicy target that is more than capable of withstanding incredible amounts of damage. Great at providing weaker units cover and protection from enemy fire, the one-two punch of its cannons reward players that love using more aggressive playing styles. 
+Attack and break enemy lines, The SMK is very much a tank worthy of entitling "Not one step back"! A fast load rate and dual turret firing system allow this tank multiple scores even when surrounded or disabled, and the sizeable crew enables quick repair, which is great as its size makes the SMK a juicy target that is more than capable of withstanding incredible amounts of damage. Great at providing weaker units cover and protection from enemy fire, the one-two punch of its cannons reward players that love using more aggressive playing styles.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

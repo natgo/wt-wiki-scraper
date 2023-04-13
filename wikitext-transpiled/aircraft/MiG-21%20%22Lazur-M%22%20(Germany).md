@@ -120,6 +120,15 @@ A version of the [[MiG-21bis]] with a homeland air-defense datalink system (Lazu
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="4" | [[Ballistic Computer]]
+|-
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+|-
+| {{Tick}} || {{Tick}} || {{Cross}} || {{Cross}}
+|-
+|}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
@@ -133,6 +142,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
+<!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
 {{main|R-3R|R-3S|R-13M1|R-60MK}}
 {{main|OFAB-100 (100 kg)|FAB-250M-62 (250 kg)|FAB-500M-62 (500 kg)|ZB-500 incendiary}}
 {{main|S-5K|S-24}}
@@ -153,6 +163,46 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 4 x S-24 rockets
 * 2 x 32 S-5K rockets (64 total)
 * 4 x 16 S-5K rockets (64 total)
+
+==== Custom loadout options ====
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-21bis.png]]</div>
+|-
+! 100 kg OFAB-100 bombs
+| || 4 || 4 ||
+|-
+! 250 kg FAB-250M-62 bombs
+| || 1 || 1 ||
+|-
+! 500 kg FAB-500M-62 bombs
+| || 1 || 1 ||
+|-
+! ZB-500 incendiary bombs
+| || 1 || 1 ||
+|-
+! S-5K rockets
+| 16 || 16, 32 || 16, 32 || 16
+|-
+! S-24 rockets
+| 1 || 1 || 1 || 1
+|-
+! R-3R missiles
+| 1 || 1 || 1 || 1
+|-
+! R-3S missiles
+| 1 || 1 || 1 || 1
+|-
+! R-13M1 missiles
+| 1 || 1 || 1 || 1
+|-
+! R-60MK missiles
+| 1, 2 || 1 || 1 || 1, 2
+|-
+| colspan="5" | Maximum permissible loadout weight: 1,300 kg<br>Maximum permissible wing load: 650 kg<br>Maximum permissible weight imbalance: 570 kg
+|-
+|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -179,7 +229,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 The "Lazur-M" (Лазурь-М; Azure-M), also known by its equipment name ARL-SM, was a communication equipment for PVO (Air-Defense Force) jets as part of their land-based air-defense system "Dozduh-1" (Воздух-1; Air-1). Lazur-M was first installed on the MiG-21S and retained on later models of the MiG-21 including the MiG-21bis; these were the base model of earlier MiG-21bis exported to Warsaw Pact countries, and the LSK (East German Air Force) was one of the users. Later deliveries were equipped with the Polyot ILS system (producing the [[MiG-21bis-SAU (Germany)|MiG-21bis-SAU]]; ''Sistema Avtomaticheskovo Upravleniya'', Automatic Landing System).
 
-The default livery in game is Red 872 (build no. 75033151) of JG (Jagdfliegergeschwader)-8, 1.LVD based in Neuhardenberg Marxwalde Airfield (now a regional airport) near Berlin. This aircraft was then numbered 24-27 of Luftwaffe and decommissioned on German Unification Day, and later scrapped in Dresden.<ref>Högel, Bianca. “Die Mig-21 in DER DDR.” DDR MiG-21 Lasur, n.d. https://www.biancahoegel.de/flug/typen/ru/mig/mig-21lazur-ddr.html.</ref>
+The default livery in game is Red 872 (build no. 75033151) of JG (Jagdfliegergeschwader)-8, 1.LVD based in Neuhardenberg Marxwalde Airfield (now a regional airport) near Berlin. This aircraft was then numbered 24-27 of Luftwaffe and decommissioned on German Unification Day, and later scrapped in Dresden.<ref>Högel, Bianca. "Die Mig-21 in DER DDR." DDR MiG-21 Lasur, n.d. https://www.biancahoegel.de/flug/typen/ru/mig/mig-21lazur-ddr.html.</ref>
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -199,6 +249,8 @@ The default livery in game is Red 872 (build no. 75033151) of JG (Jagdfliegerges
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
+
+* [[wt:en/news/8004-shop-pre-order-new-rank-vii-premium-jet-fighters-part-1-en|[Shop] Pre-order: new rank VII Premium jet fighters (part 1)]]
 
 === References ===
 <references />

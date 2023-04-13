@@ -9,8 +9,9 @@
 }}
 
 == Description ==
-<!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian medium tank {{Battle-rating}}. It was introduced in [[Update 1.87 "Locked On"]].  The C1 Ariete Preserie is one of the MBT players unlock before researching the production C1 Ariete PSO. The C1 Ariete was developed by OTO Melara during the late cold war to allow the Italian army to equip itself with a modern tank which could easily deal with Yugoslav and Warsaw pact tanks. The one represented in game is the preserie variant which means you don't get access to stronger equipment the production model has, however the preserie is at a lower battlerating which means the majority of enemy vehicles you face can be easily handled when used by someone who can make the most of its pros and cons. It has great mobility and the armour is surpisingly effective at its battlerating, players can research this tank to add to their 10.0 lineup, when all modifications are unlocked the preserie surely will exceed expectations.
+<!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->The C1 Ariete Preserie is one of the MBT players unlock before researching the production C1 Ariete PSO. The C1 Ariete was developed by OTO Melara during the late cold war to allow the Italian army to equip itself with a modern tank which could easily deal with Yugoslav and Warsaw pact tanks. 
+
+The one represented in game  introduced in [[Update 1.87 "Locked On"|1.87 "Locked On" update]] is the preserie variant which means you don't get access to stronger equipment the production model has, however the preserie is at a lower battlerating which means the majority of enemy vehicles you face can be easily handled when used by someone who can make the most of its pros and cons. It has great mobility and the armour is surpisingly effective at its battlerating, players can research this tank to add to their 10.0 lineup, when all modifications are unlocked the preserie surely will exceed expectations.
 
 == General info ==
 === Survivability and armour ===
@@ -119,9 +120,9 @@ Notes:
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 4,600 (200) || 1,200 || N/A || N/A
+| Coaxial || 4,600 (200) || 801 || N/A || N/A
 |-
-| Pintle || 2,000 (200) || 1,200 || -8°/+60° || ±120°
+| Pintle || 2,000 (200) || 801 || -8°/+60° || ±120°
 |-
 |}
 
@@ -172,8 +173,9 @@ The C1 Ariete Preserie was one of the first pre-production batches of the C1 Ari
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''[[Ariete]]''
+* ''[[Ariete PSO]]''
+* [[Ariete AMV]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''

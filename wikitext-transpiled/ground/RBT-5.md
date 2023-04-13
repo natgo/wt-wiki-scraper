@@ -15,7 +15,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet light tank
 
 The RBT-5 is a regular [[BT-5]] with mounts on the side of the turret to hold two 250 kg TT-250 "tank torpedo" rockets. These large calibre rockets are hard to aim as they're angled upwards but can destroy almost anything it hits.
 
-This tank is quite unique. It has virtually no armour, weights only 11.5 tons and has a massive engine, giving it a high power-to-weight ratio. This paired with excellent Christie suspension allows it to drive like a race car among tanks. The gun is an adequate 45 mm 20-K cannon with decent penetration and quick reload.
+This tank is quite unique. It has virtually no armour, weighs only 11.5 tons and has a massive engine, giving it a high power-to-weight ratio. This paired with excellent Christie suspension allows it to drive like a race car among tanks. The gun is an adequate 45 mm 20-K cannon with decent penetration and quick reload.
 
 The RBT-5's two rockets are quite apart from each other, and that should be taken into account when aiming. The first rocket to be fired is the one on the left side of the turret.
 
@@ -139,6 +139,7 @@ Once the point is captured, the player can either quickly ambush behind a nearby
 '''TT-250 usage:'''
 
 The RBT-5 carries two tank torpedos that are powerful enough to destroy any vehicle it lands a hit on or even near some medium, light or SPAA tanks. However, aiming them is pretty difficult and requires great precision. In order to be as accurate as possible, always rely on your rangefinder because getting precise measurements will ensure a hit to eliminate the enemy. Due to the starting angle of 9°, the closest distance the TT-250 can fire on is 350 meters, relegating any vehicles closer than that to the RBT-5's 45 mm cannon. There are several ways to use the TT-250:
+
 # Sniping at Still Targets: The TT-250 has a astounding effective fire range of 1,800 meters, which is more than enough to neutralize targets in the Rank I and II range. If you have spotted a target, start range-finding right away to get its approximate range. Fire the first torpedo to confirm the range, if spot-on, the torpedo will annihilate the target. If it misses, make the necessary corrections with the second torpedo and, hopefully with the target still in its place, fire the second one to finish the job, either by a direct hit or by overpressure damage.
 # Harrassing Capture Points: At a known distance from a spot like the capture point (or even the spawn!), you can use the RBT-5 to act as an impromptu artillery piece to lob the TT-250s at the enemy. Set the distance to the range that is displayed on the capture point and fire away. If there are enemies on the point, the landing rockets can sometimes destroy a vehicle or two, or at the very least take down the enemies tracks.
 # Close-range Fighting: There is a way to aim at targets closer than 350 meters, by driving the RBT-5 against a wall backwards. This will align the RBT-5 enough to gain the ability to shoot right in front of you. This can be especially useful if you try to destroy a enemy by surprise if they drive by, and it's especially handy in top-rank battles.
@@ -194,11 +195,13 @@ It is suggested to stay near a captured point so you may resupply your Torpedo's
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

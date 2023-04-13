@@ -21,7 +21,7 @@ In War Thunder, the MiG-23ML is functionally identical to the [[MiG-23MLA (Germa
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-The MiG-23ML has superior flight performance with its powerful engine and variable-geometry wing design which allows for faster turning on demand. With over 10,000 kgf of thrust, its thrust-to-weight ratio rivals that of even the F-104S. While the plane lacks the leading-edge slats of the MiG-23MLD, this gives it an energy retention advantage in sustained dogfights. 
+The MiG-23ML has superior flight performance with its powerful engine and variable-geometry wing design which allows for faster turning on demand. With over 10,000 kgf of thrust, its thrust-to-weight ratio rivals that of even the F-104S. While the plane lacks the leading-edge slats of the MiG-23MLD, this gives it an energy retention advantage in sustained dogfights.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -52,10 +52,9 @@ The MiG-23ML has superior flight performance with its powerful engine and variab
 |-
 |}
 
-{| class="wikitable" style="text-align:center" width="50%"
+{| class="wikitable" style="text-align:center" width="60%"
 |-
-! colspan="7" | Limits
-|-
+! rowspan="2" | Limits
 ! rowspan="2" | Wings (km/h)
 ! rowspan="2" | Gear (km/h)
 ! colspan="3" | Flaps (km/h)
@@ -63,7 +62,11 @@ The MiG-23ML has superior flight performance with its powerful engine and variab
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || ___ || ___ || ___ || ~__ || ~__
+! Min sweep
+| 892 || rowspan="2" | {{Specs|destruction|gear}} || N/A || 508 || 473 || ~10 || ~4
+|-
+! Max sweep
+| 1,470 || N/A || N/A || N/A || ~11 || ~4
 |-
 |}
 
@@ -123,6 +126,15 @@ As a premium vehicle, the MiG-23ML comes with all modifications unlocked. All pr
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="4" | [[Ballistic Computer]]
+|-
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+|-
+| {{Tick}} || {{Tick}} || {{Cross}} || {{Cross}}
+|-
+|}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
@@ -145,27 +157,81 @@ The '''''{{PAGENAME}}''''' is armed with:
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 * Without load
-* 2 x R-13M1 missiles
 * 4 x R-13M1 missiles
 * 6 x R-60M missiles
-* 2 x R-23R missiles
-* 2 x R-23T missiles
-* 2 x R-24R missiles
-* 2 x R-24T missiles
-* 64 x S-5K rockets
+* 4 x R-60M missiles + 2 x R-23T missiles
+* 4 x R-60M missiles + 2 x R-23R missiles
+* 4 x R-60M missiles + 2 x R-24R missiles
+* 4 x R-60M missiles + 2 x R-24T missiles
+* 16 x 100 kg OFAB-100 bombs (1,600 kg total)
+* 8 x 100 kg OFAB-100 bombs + 4 x R-60M missiles (800 kg total)
+* 4 x 250 kg FAB-250M-62 bombs (1,000 kg total)
+* 2 x 250 kg FAB-250M-62 bombs + 4 x R-60M missiles (500 kg total)
+* 2 x 500 kg FAB-500M-62 bombs (1,000 kg total)
+* 2 x ZB-500 incendiary bombs
+* 4 x R-60M missiles + 2 x 500 kg FAB-500M-62 bombs (1,000 kg total)
 * 64 x S-5K rockets
 * 40 x S-8KO rockets
 * 4 x S-24B rockets
 * 2 x Kh-23M missiles
-* 16 x 100 kg OFAB-100 bombs (1,600 kg total)
-* 4 x 250 kg FAB-250M-62 bombs (1,000 kg total)
-* 2 x 500 kg FAB-500M-62 bombs (1,000 kg total)
-* 2 x ZB-500 incendiary bombs
 * 2 x 23 mm GSh-23L cannons (250 rpg = 500 total)
 
-Taking any amount of Kh-23M rockets requires mounting of the "Targeting Delta-NG" pod on one of the slots.
-
-Custom weapon loadouts are available for the MiG-23ML.
+==== Custom loadout options ====
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="17" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-23MLA (Germany).png]]</div>
+|-
+! 23 mm GSh-23L cannons (250 rpg)
+| 1 || || || 1
+|-
+! 100 kg OFAB-100 bombs
+| 4 || 4 || 4 || 4
+|-
+! 250 kg FAB-250M-62 bombs
+| 1 || 1 || 1 || 1
+|-
+! 500 kg FAB-500M-62 bombs
+| 1 || || || 1
+|-
+! ZB-500 incendiary bombs
+| 1 || || || 1
+|-
+! S-5K rockets
+| 16, 32 || 16 || 16 || 16, 32
+|-
+! S-8KO rockets
+| 20 || || || 20
+|-
+! S-24B rockets
+| 1 || 1 || 1 || 1
+|-
+! Kh-23M missiles
+| 1* || || || 1*
+|-
+! R-13M1 missiles
+| 1 || 1 || 1 || 1
+|-
+! R-23R missiles
+| 1<sup>‡</sup> || || || 1<sup>‡</sup>
+|-
+! R-23T missiles
+| 1<sup>†</sup> || || || 1<sup>†</sup>
+|-
+! R-24R missiles
+| 1<sup>†</sup><sup>‡</sup> || || || 1<sup>†</sup><sup>‡</sup>
+|-
+! R-24T missiles
+| 1<sup>†</sup><sup>‡</sup> || || || 1<sup>†</sup><sup>‡</sup>
+|-
+! R-60M missiles
+| 1 || 2 || 2 || 1
+|-
+! Delta-NG targeting pod
+| || 1* || ||
+|-
+| colspan="6" | * It is required to equip the Delta-NG targeting pod with the Kh-23M missiles <br> <sup>†</sup> R-24R missiles cannot be equipped together with R-23T or R-24T missiles <br> <sup>‡</sup> R-24T missiles cannot be equipped together with R-23R or R-24R missiles
+|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -184,7 +250,7 @@ The MiG-23ML is very versatile and has usefulness in nearly every combat situati
 '''Cons:'''
 
 * Limited internal cannon ammunition (~3.5 seconds of firing time before depletion)
-* Large engine limits survivability from successful hits 
+* Large engine limits survivability from successful hits
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -209,10 +275,8 @@ The MiG-23ML is very versatile and has usefulness in nearly every combat situati
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+* [[wt:en/news/8015-shop-pre-order-new-rank-vii-premium-jet-fighters-part-2-en|[Shop] Pre-order: new rank VII Premium jet fighters (part 2)]]
 
 {{AirManufacturer MiG}}
 {{USSR jet aircraft}}

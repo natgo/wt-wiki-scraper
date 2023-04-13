@@ -20,6 +20,8 @@ The Comet has an olive drab colour like all other British tanks. It is also quit
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
+The turret is an unreliable area to target: its armour is thicker and bouncy, and can withstand a few hits from low-power guns in this BR range. The Comet has an extremely small silhouette if hull down, making long-range engagement very advantageous because the enemy will struggle to hit the turret from a long distance. With a total of 5 crew members, the Comet I has an increased survivability.
+
 '''Armour type:'''
 
 * Rolled homogeneous armour
@@ -43,13 +45,10 @@ The Comet has an olive drab colour like all other British tanks. It is also quit
 *Steel boxes on the left and right side of the hull by the turret gives 4 mm extra armour at their location.
 *The bustle rack on the back of the turret gives an armour rating of 5 mm
 
-Aim for the hull. You will almost certainly destroy the tank when a Comet player is reversing and panicking at the same time.
-
-The turret is an unreliable area to target. Its armour is thicker and bouncy. A good Comet player will be in a hull down position, but you can easily take it out if you aim for the cupola or if your gun can take it, the turret cheeks.
-
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
+This tank has a respectable top speed and can get into strategic positions faster than common enemies like the Tiger I and Panther. It also has neutral steering, which allows for easy turning in tight and narrow streets. When compared to the Challenger and the A.C.IV, the handling of the Comet I is slightly worse. The poor reverse speed is insufficient to return to cover if the enemy spots you: always plan ahead.
 
 {{tankMobility|abMinHp=930|rbMinHp=531}}
 
@@ -62,6 +61,7 @@ The turret is an unreliable area to target. Its armour is thicker and bouncy. A 
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|OQF Mk.II (77 mm)}}
+The OQF Mk.II is a good gun with a wide range of ammunition options for various situations. The Comet I has a very good gun depression of -12 degrees. In general, the turret transverse speed is poor: brawling in narrow streets is not recommended unless absolutely necessary. The reload speed is rather slow.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -80,6 +80,8 @@ The turret is an unreliable area to target. Its armour is thicker and bouncy. A 
 |}
 
 ==== Ammunition ====
+The high-penetrating APDS round should be the primary shell in long range and open maps. However, the APDS round has very poor post-penetration damage, necessitating multiple shots to destroy enemy tanks.
+
 {{:OQF Mk.II (77 mm)/Ammunition|Shot Mk.6, Shell Mk.1, Shot Mk.4, Shot Mk.8, Shot SV Mk.1}}
 
 ==== [[Ammo racks]] ====
@@ -150,7 +152,7 @@ With newfound APDS ammunition, you might want to take tank on a test drive to ge
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-Fighting a tank of the same weight classification is relatively easy, but difficult against the more armoured [[Panther A]] and [[T-34-85|T-34]] tanks. Until the APDS shot has been unlocked, more decisive shots will have to be made to take care of these tanks, the Mk.6 and Mk.8 shot are the preferred ammunition to use. The Panthers should be targeted on the gun mantlet in the front and should be aimed at the gunner to immobilize their firepower and cause crew damage. The T-34-85 is a bit of a hit-or-miss due to the more heavy sloping nature of the armour and the turret. Penetrating through the front hull armour when it is facing directly at you is the best course of action against the T-34-85. Heavy tanks get even more tricky, but easier once the APDS round is unlocked for use. A [[Tiger H1|Tiger I]] is admittedly an easy tank to deal with due to the vertical slope of the armour. Problems arise with the [[IS-2]] tanks that may show up, due to their heavy armour and their tendency to absolutely wreck vehicles with their 122 mm gun. Distance is not your friend against this tank, the closer the better for your gun to penetrate the weak spots on its frontal armour. A tough situation, but a survivable one.
+Fighting a tank of the same weight classification is relatively easy, but difficult against the more armoured [[Panther A]] and [[T-34-85|T-34]] tanks. Until the APDS shot has been unlocked, more decisive shots will have to be made to take care of these tanks, the Mk.6 and Mk.8 shot are the preferred ammunition to use. In mid and long range, the APDS shell will struggle to penetrate Panther upper front armour on the hull. The Panthers should be targeted on the gun mantlet in the front and should be aimed at the gunner to immobilize their firepower and cause crew damage. The T-34-85 is a bit of a hit-or-miss due to the more heavy sloping nature of the armour and the turret. Penetrating through the front hull armour when it is facing directly at you is the best course of action against the T-34-85. Heavy tanks get even more tricky, but easier once the APDS round is unlocked for use. A [[Tiger H1|Tiger I]] is admittedly an easy tank to deal with due to the vertical slope of the armour. Problems arise with the [[IS-2]] tanks that may show up, due to their heavy armour and their tendency to absolutely wreck vehicles with their 122 mm gun. Distance is not your friend against this tank, the closer the better for your gun to penetrate the weak spots on its frontal armour. A tough situation, but a survivable one.
 
 For every Comet player that does not have the APDS shells, do not engage in long distance gun fights. You are almost certainly going to lose. So use it first as its intention is, a cruiser tank. Cap point and retreat. If you find yourself in a sticky situation, get as close to the enemy as possible and fire at its side. Conduct the battle in this manner until the APDS is unlocked
 
@@ -184,17 +186,15 @@ Although your gun can counter anything within the Comet's BR range, you should c
 
 '''Pros:'''
 
-* Excellent manoeuvrability and speed
-* Good gun, precise and with good penetration values (vertical armour)
 * Great turret armour
 * Access to APDS shot
-* Low profile
 * Great gun depression
 * 5 crew members, for a better crew survivability
-* Good climbing ability, can get to sniping positions that other tanks cannot
-* When fully upgraded, the Comet I is fast and manoeuvrable
+* Excellent manoeuvrability and speed
 * Has access to neutral steering which allows quick repositioning of the tank
-* APDS is great at taking out Panthers and Tigers at long range. One shot KOs are common if you know where the ammo racks are
+* Good climbing ability, can get to sniping positions that other tanks cannot
+* Good gun, precise and with good penetration values (vertical armour)
+* APDS is great at taking out Panthers and Tigers at long range. Knock-outs are common if you know where the ammo racks are
 * APDS makes the tank very easy to use in RB and SB. The round drops very little over distance and retains a lot of penetration
 
 '''Cons:'''

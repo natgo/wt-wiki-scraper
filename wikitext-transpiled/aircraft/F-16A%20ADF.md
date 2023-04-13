@@ -16,7 +16,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} American jet fighter {{Battle-
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
+The F-16 ADF has a very poor manoeuvrability at higher speeds (above around 850 km/h) due to its angle of attack (AOA) limiter. Staying at these higher speeds is ideal for general air combat, but greatly limits your manoeuvring and dogfighting abilities. At these high speeds, poor nose-pointing ability makes it troublesome to lock Sidewinders, get an ACM radar lock, or aim the gun. Only by going below these speeds (thus getting slow) does any semblance of dogfighting ability whatsoever begin to be gained. The F-16's acceleration can be "too good": its poor high speed manoeuvrability combined with its excellent acceleration and energy retention means heavy down-throttling, air braking and energy management are practically required to drop below these speeds to be able to dogfight.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -174,7 +174,7 @@ The AIM-7Ms must be used wisely since only 2 Sparrows can be carried simultaneou
 
 The F-16 is very strong in a dogfight due to its excellent TWR and energy retention. Before entering a dogfight, however, it's critical to be at the correct speed. The F-16 has a very wide turning circle at high speeds, so make sure to stay around 800-850 km/h (497-528 mph) when entering a dogfight.
 
-'''<u>Countering the [[MiG-29]]</u>'''
+'''Countering the [[MiG-29]]'''
 
 The MiG-29 is a very versatile and capable fighter and will be one of the most common enemies you will face. However, like many planes, it's possible to counter it. It's one of the fastest jets on the deck (~1,550 km/h, 963 mph) and has access to a helmet-mounted sight, which allows the player to lock the missile in the direction of the pilot's view rather than just along the nose of the aircraft. This allows for off-bore missile launches which can be a threat. It's important to be on the lookout all the time for any missile launches, whether it be an [[R-60M]] or an [[R-27T]].
 
@@ -200,11 +200,7 @@ The MiG-29 at high altitude can be dangerous if the opponent utilizes [[R-27ER]]
 
 * Lacks any air-to-ground suspended ordnance whatsoever
 * Internal M61 cannon has a small ammo pool
-* Very poor manoeuvrability at higher speeds (above around 850km/h) due to angle of attack (AOA) limiter
-** Staying at these higher speeds is ideal for general air combat, but greatly limits manoeuvring and dogfighting ability
-** At these speeds, poor nose pointing ability makes it troublesome to lock Sidewinders, get an ACM radar lock, or aim the gun
-** Only by going below these speeds (thus getting slow) does ''any'' semblance of dogfighting ability whatsoever begin to be gained
-** Acceleration can be "too good": Poor high speed manoeuvrability combined with excellent acceleration and energy retention means heavy down-throttling and air braking is practically required to drop below these speeds to dogfight
+* Very poor manoeuvrability at higher speeds (above around 850 km/h), greatly limiting its manoeuvring and dogfighting ability
 * Very hot engine temperature
 * Extremely high fuel consumption on afterburner
 

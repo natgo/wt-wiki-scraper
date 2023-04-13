@@ -219,7 +219,8 @@ It is advised to side climb up to at least 8,000 m before engaging the enemy to 
 
 '''Cons:'''
 
-* Unlike the [[F-4E Phantom II]], the F-4EJ does not have the Agile Eagle upgrade
+* Unlike the [[F-4E Phantom II]], the F-4EJ does not have the Agile Eagle
+* Lacks the more capable [[AIM-7E-2]] Sparrow, only has the basic AIM-7E that takes longer to start manoeuvring so it is harder to use in short-range fights
 * Limited ammunition in the frontally-mounted cannon
 * Quite large and heavy compared to other fighters at its rank
 

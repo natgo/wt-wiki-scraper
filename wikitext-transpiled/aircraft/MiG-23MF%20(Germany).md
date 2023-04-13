@@ -168,7 +168,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x ZB-500 incendiary bombs
 
 ==== Custom loadout options ====
-{| class="wikitable" width="100%" style="text-align:center"
+{| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
 | rowspan="14" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-23MLA_(Germany).png]]</div>
@@ -256,7 +256,11 @@ When in a 1-vs-1 situation, try to use your great low-speed performance to trick
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+The Mikoyan-Gurevich MiG-23 was a Soviet supersonic fighter aircraft developed in the 1960s. It was designed to replace the MiG-21, and was the first Soviet aircraft to feature variable sweep wings, which allowed it to operate at both high and low speeds. The MiG-23 was developed in multiple variants, with the MiG-23MF being one of the most successful and widely used.
+
+The MiG-23M, also known as the Flogger-B, and its export derivative MiG-23MF were upgraded variants of the original MiG-23. They were powered by a more powerful R-29-300 engine and equipped with a better fire control system. The aircraft was armed with a GSh-23L twin-barrel 23 mm cannon and a variety of air-to-air missiles, including the R-60 and R-23.
+
+The MiG-23MF had several notable production issues. The aircraft had a short service life due to the high stresses placed on its airframe by its powerful engine and variable sweep wings. The aircraft's maintenance requirements were also high, as its complex systems and avionics required frequent servicing.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

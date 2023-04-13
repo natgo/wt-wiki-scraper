@@ -101,7 +101,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M30A1 (100 lb)|AN-M57 (250 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)}}
+{{main|AN-M30A1 (100 lb)|AN-M57 (250 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|Mk 78 incendiary}}
 {{main|HVAR|M8}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
@@ -116,6 +116,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 6 x HVAR rockets + 2 x 250 lb AN-M57 bombs (500 lb total)
 * 6 x HVAR rockets + 2 x 100 lb AN-M30A1 bombs (200 lb total)
 * 6 x HVAR rockets + 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
+* 2 x Mk 78 incendiary bombs
+* 2 x Mk 78 incendiary bombs + 6 x HVAR rockets
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -156,7 +158,7 @@ Since the P-51H-5-NA has a good engine and fast climb rate, you should be higher
 * Good acceleration
 * Good manoeuvrability
 * M2 Browning machine guns are accurate and have lots of ammo
-* Good payload options for ground attack 
+* Good payload options for ground attack
 
 '''Cons'''
 

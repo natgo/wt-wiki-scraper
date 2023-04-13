@@ -59,7 +59,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French jet fighte
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || ___ || ___ || ___ || ~__ || ~__
+| 1,457 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 555 || 549 || 416 || ~__ || ~__
 |-
 |}
 
@@ -69,7 +69,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French jet fighte
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || > ___
+| < 650 || < 800 || < 900 || -
 |-
 |}
 
@@ -77,34 +77,34 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French jet fighte
 {| class="wikitable" style="text-align:center"
 |-
 ! colspan="3" | Engine
-! colspan="4" | Aircraft mass
+! colspan="5" | Aircraft mass
 |-
 ! colspan="2" | Engine name || Number
-! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
+! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
-| colspan="2" | _____ || _
-| colspan="2" | _,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
+| colspan="2" | SNECMA Atar 9K-50 || 1
+| colspan="2" | 8,066 kg || colspan="3" | ___ kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | Max Takeoff<br>Weight
+! colspan="4" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
-! _m fuel || __m fuel || __m fuel
+! 13m fuel || 20m fuel || 30m fuel || 44m fuel
 |-
-| ___ kg || colspan="2" | _____
-| _,___ kg || _,___ kg || _,___ kg || _,___ kg
+| 1,590 kg || colspan="2" | Afterburning axial-flow turbojet
+| 9,088 kg || 9,611 kg || 10,384 kg || 11,473 kg || 14,214 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
-! colspan="4" | Thrust to weight ratio @ 0 m (___%/WEP)
+! colspan="5" | Thrust to weight ratio @ 0 m (WEP)
 |-
-! Condition || 100% || ___%/WEP
-! _m fuel || __m fuel || __m fuel || MTOW
+! Condition || 100% || WEP
+! 13m fuel || 20m fuel || 30m fuel || 44m fuel || MGW
 |-
-| ''Stationary'' || ___ kgf || ___ kgf
-| _.__ || _.__ || _.__ || _.__
+| ''Stationary'' || 4,890 kgf || 6,801 kgf
+| 0.75 || 0.71 || 0.66 || 0.59 || 0.48
 |-
-| ''Optimal'' || ___ kgf<br>(_ km/h) || ___ kgf<br>(_ km/h)
-| _.__ || _.__ || _.__ || _.__
+| ''Optimal'' || 5,917 kgf<br>(1,200 - 1,400 km/h) || 9,875 kgf<br>(1,200 km/h)
+| 1.09 || 1.03 || 0.95 || 0.86 || 0.69
 |-
 |}
 
@@ -118,6 +118,15 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French jet fighte
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="5" | [[Ballistic Computer]]
+|-
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+|-
+| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
+|-
+|}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
@@ -213,9 +222,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The most effective way of using the Mirage F1C-200 in Air Realistic battles is to play a support role, targeting slow or distracted enemies with your powerful air-to-air missiles. Try to avoid entering the furball as the Mirage F1C-200 has poor manoeuvrability and low top speed. It is recommended to avoid 1-vs-1 dogfights unless absolutely necessary due to the poor manoeuvrability and acceleration of the aircraft.
+The most effective way of using the Mirage F1C-200 in Air Realistic battles is to play a support role, targeting slow or distracted enemies with your powerful air-to-air missiles. Try to avoid entering the furball as the Mirage F1C-200 has poor manoeuvrability and low top speed. It is recommended to avoid 1-vs-1 dogfights unless absolutely necessary due to the poor manoeuvrability and acceleration of the aircraft.
 
-The Mirage F1C-200 can also be used as a strike aircraft with its bombs and rockets and transition to a fighter role after dropping its ordnance. 
+The Mirage F1C-200 can also be used as a strike aircraft with its bombs and rockets and transition to a fighter role after dropping its ordnance.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -231,14 +240,13 @@ The Mirage F1C-200 can also be used as a strike aircraft with its bombs and rock
 
 * Very slow acceleration with ordnance
 * Poor manoeuvrability at low and high speeds with only "workable" agility at medium speeds
-* Low wing-rip speed compared to other aircraft at the rank
 * The Matra Super 530F missiles are very heavy and strongly impact flight performance
 * 30 mm DEFA cannons are difficult to use, particularly against high-speed targets
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-The Mirage F1C-200 is essentially a Mirage F1C with an air-refuelling probe. The addition of the air-refuelling probe also extended the length of the fuselage by 7 cm. Some Mirage F1C-200s also received a GPS in the 1990s. These F1C-200s were intended for long expeditionary missions and saw combat in places like Africa and the Middle East. During the early 1980s, Mirage F1C-200s provided air cover for SEPECAT Jaguars performing attack runs against the Libyan-backed insurgency in Chad. A few years later, the F1C-200s and Jaguars were redeployed again to Chad until 1992, when the government was overthrown. Mirage F1C-200s were also present in the United Arab Emirates during the Gulf War to supplement air defense with Qatari Mirage F1EDAs. 
-The Iraqis took the refuelling probes from the Mirage F1C-200s they had acquired and fitted them on their MiG-23s. 
+The Mirage F1C-200 is essentially a Mirage F1C with an air-refuelling probe. The addition of the air-refuelling probe also extended the length of the fuselage by 7 cm. Some Mirage F1C-200s also received a GPS in the 1990s. These F1C-200s were intended for long expeditionary missions and saw combat in places like Africa and the Middle East. During the early 1980s, Mirage F1C-200s provided air cover for SEPECAT Jaguars performing attack runs against the Libyan-backed insurgency in Chad. A few years later, the F1C-200s and Jaguars were redeployed again to Chad until 1992, when the government was overthrown. Mirage F1C-200s were also present in the United Arab Emirates during the Gulf War to supplement air defense with Qatari Mirage F1EDAs.
+The Iraqis took the refuelling probes from the Mirage F1C-200s they had acquired and fitted them on their MiG-23s.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

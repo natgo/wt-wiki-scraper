@@ -72,7 +72,7 @@ Due to the lack of firepower for the original [[Type 69 (100 mm)|Type 69]] 100 m
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 44 || rowspan="2" | -4°/+18° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 14.3 || 19.8 || 24.0 || 26.5 || 28.2 || rowspan="2" | 11.05 || rowspan="2" | 9.78 || rowspan="2" | 9.01 || rowspan="2" | 8.50
+| rowspan="2" | 44 || rowspan="2" | -5°/+18° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 14.3 || 19.8 || 24.0 || 26.5 || 28.2 || rowspan="2" | 11.05 || rowspan="2" | 9.78 || rowspan="2" | 9.01 || rowspan="2" | 8.50
 |-
 ! ''Realistic''
 | 8.9 || 10.5 || 12.8 || 14.1 || 15.0
@@ -114,17 +114,17 @@ The second researchable shell, Type 1973 HEAT-FS, is identical to Soviet 3BK17M.
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' The text within these arrows are not to be deleted -->
-{{main|DShK (12.7 mm)|SGMT (7.62 mm)}}
+{{main|Type 54 (12.7 mm)|SGMT (7.62 mm)}}
 
-Like most Chinese tanks of the era, the Type 69-IIa is equipped with a DShK (Type 53) HMG on the commander's side of turret; although having only 50 rounds per load, the penetration and calibre can make sure aircraft that get too close will not have a good time, and sometimes even score a kill.
+Like most Chinese tanks of the era, the Type 69-IIa is equipped with a Type 54 HMG on the commander's side of turret; although having only 50 rounds per magazine, the penetration and calibre can make sure aircraft that get too close will not have a good time, and sometimes even score a kill.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
-! colspan="5" | [[DShK (12.7 mm)|12.7 mm DShK]]
+! colspan="5" | [[Type 54 (12.7 mm)|12.7 mm Type 54]]
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle || 500 (50) || 600 || -10°/+60° || ±180°
+| Pintle || 500 (50) || 600 || -4°/+82° || ±180°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -133,7 +133,7 @@ Like most Chinese tanks of the era, the Type 69-IIa is equipped with a DShK (Typ
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 3,500 (250) || 600 || N/A || N/A
+| Coaxial || 3,000 (250) || 600 || - || -
 |-
 |}
 

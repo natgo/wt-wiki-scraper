@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian medium tank {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]]. The C1 Ariete PSO is one of the MBT players unlock before researching the C1 Ariete production which has access to the WAR add-on armour kit. The C1 Ariete was developed by OTO Melara during the late cold war to allow the Italian army to equip itself with a modern tank which could easily deal with Yugoslav and Warsaw pact tanks. The C1 Ariete PSO is sadly one of the slowest variant in the C1 Ariete family of vehicles. That is due to the fact that it has add-on armour kit surrounding the sides of the hull and turret, this add-on armour package will aid you in many ways, you will be able to handle most low level autocannon fire from enemies from the BMP family and at times even some APFSDS rounds. The tank can be effective when in use by a player who can work around its lackluster mobility and relatively weak frontal protection. It can also be a great back up for your top tier lineup if you choose to bring more than 1 variant of the C1 Ariete.
+The C1 Ariete PSO is one of the MBT players unlock before researching the C1 Ariete production which has access to the WAR add-on armour kit. The C1 Ariete was developed by OTO Melara during the late cold war to allow the Italian army to equip itself with a modern tank which could easily deal with Yugoslav and Warsaw pact tanks. 
+
+The C1 Ariete PSO introduced in [[Update 1.91 "Night Vision"|1.91 "Night Vision" update]] is sadly one of the slowest variant in the C1 Ariete family of vehicles. That is due to the fact that it has add-on armour kit surrounding the sides of the hull and turret, this add-on armour package will aid you in many ways, you will be able to handle most low level autocannon fire from enemies from the BMP family and at times even some APFSDS rounds. The tank can be effective when in use by a player who can work around its lackluster mobility and relatively weak frontal protection. It can also be a great back up for your top tier lineup if you choose to bring more than 1 variant of the C1 Ariete.
 
 == General info ==
 === Survivability and armour ===
@@ -95,11 +97,11 @@ Notes:
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 4,600 (200) || 1,200 || N/A || N/A
+| Coaxial || 4,600 (200) || 801 || N/A || N/A
 |-
-| Pintle (Commander) - R || 2,000 (200) || 1,200 || -8°/+60° || ±120°
+| Pintle (Commander) - R || 2,000 (200) || 801 || -8°/+60° || ±120°
 |-
-| Pintle (Loader) - L || 2,000 (200) || 1,200 || -8°/+60° || ±120°
+| Pintle (Loader) - L || 2,000 (200) || 801 || -8°/+60° || ±120°
 |-
 |}
 
@@ -162,6 +164,7 @@ In terms of future upgrades, one is in the works, known as the C1 Ariete AMV, st
 
 * [[Ariete (P)]]
 * [[Ariete]]
+* [[Ariete AMV]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''

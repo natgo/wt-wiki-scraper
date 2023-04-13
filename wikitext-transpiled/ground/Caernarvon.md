@@ -67,7 +67,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British heavy tank {{Battle-ra
 |}
 
 ==== Ammunition ====
-The AP round is good to knock out crew members at it creates spalling. The solid shot does usually more damage inside enemy tanks than the APDS but its penetration power is lesser. When using APDS, target ammo racks (which it will easily set off). Know the weak spots on most vehicles s well as the crew's and modules' positions as you don't have rounds with explosive filler. The APDS shot can penetrate any Panthers' UFP, and also the Ferdinand's and Ho-Ri's frontal armour.
+The AP round is good to knock out crew members as it creates spalling. The solid shot does usually more damage inside enemy tanks than the APDS but its penetration power is lesser. When using APDS, target ammo racks (which it will easily set off). Know the weak spots on most vehicles s well as the crew's and modules' positions as you don't have rounds with explosive filler. The APDS shot can penetrate any Panthers' UFP, and also the Ferdinand's and Ho-Ri's frontal armour.
 
 {{:20pdr OQF Mk.I (84 mm)/Ammunition|Shot Mk.1, Shot Mk.3, Shell Mk.1, 20pdr Shell SS Mk.1}}
 
@@ -177,6 +177,7 @@ The Caernarvon, powerful as it was at the time period, was intended to fulfill t
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_fv221_caernarvon Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -188,9 +189,11 @@ The Caernarvon, powerful as it was at the time period, was intended to fulfill t
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[Conqueror]]
 
 ;Other vehicles of similar configuration and role
+
 * [[T34]]
 
 == External links ==

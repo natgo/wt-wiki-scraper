@@ -24,8 +24,108 @@ import {
   finalShopSchema,
 } from "./types";
 
+function minMaxRank(
+  army: FinalShopRange,
+  column: Record<string, ShopItem | ShopGroup>,
+  maxRank: number,
+  final: VehicleProps[],
+): { army: { max_rank: number; min_rank: number }; maxRank: number } {
+  Object.entries(column).forEach(([key, value]) => {
+    if (!("image" in value)) {
+      const find = final.find((vehicle) => {
+        return vehicle.intname === key;
+      });
+
+      if (find && find.rank < army.min_rank) {
+        army.min_rank = find.rank;
+      }
+
+      if (find && find.rank > maxRank) {
+        army.max_rank = find.rank;
+        maxRank = find.rank;
+      }
+    }
+  });
+  return { army, maxRank };
+}
+
+function parseColumn(
+  army: FinalShopRange,
+  isPrem: boolean,
+  column: Record<string, ShopItem | ShopGroup>,
+  units_lang: LangData[],
+  final: VehicleProps[],
+) {
+  const range: Array<FinalShopItem | FinalShopGroup> = [];
+  Object.entries(column).forEach(([key, value]) => {
+    if ("image" in value) {
+      const groupLang = parseLang(units_lang, "shop/group/" + key);
+      if (!groupLang) {
+        throw new Error(`no match in lang data to shop/group/${key}`);
+      }
+
+      const out: FinalShopGroup = {
+        name: key,
+        displayname: groupLang.English,
+        image: value.image.split("#")[2],
+        reqAir: value.reqAir,
+        vehicles: [],
+      };
+      Object.entries(value).forEach(([key, value]) => {
+        if (!(key === "image" || key === "reqAir") && typeof value !== "string") {
+          if (Array.isArray(value.reqAir)) {
+            value.reqAir = "";
+          }
+          out.vehicles.push({
+            name: key,
+            rank: value.rank,
+            reqAir: value.reqAir,
+            gift: value.gift ? true : undefined,
+            hidden: value.showOnlyWhenBought,
+            marketplace: value.marketplaceItemdefId,
+            event: value.event,
+            clanVehicle: value.isClanVehicle,
+          });
+        }
+      });
+      range.push(out);
+    } else {
+      const find = final.find((vehicle) => {
+        return vehicle.intname === key;
+      });
+      if (find && find.prem_type !== "false") {
+        isPrem = true;
+      }
+
+      // h8k3
+      if (Array.isArray(value.reqAir)) {
+        value.reqAir = "";
+      }
+
+      const out: FinalShopItem = {
+        name: key,
+        rank: value.rank,
+        reqAir: value.reqAir,
+        gift: value.gift ? true : undefined,
+        hidden: value.showOnlyWhenBought,
+        marketplace: value.marketplaceItemdefId,
+        event: value.event,
+        clanVehicle: value.isClanVehicle,
+      };
+      range.push(out);
+    }
+  });
+  if (!isPrem) {
+    army.col_normal++;
+  }
+
+  army.range.push(range);
+
+  return { army, isPrem };
+}
+
 function shopRangeFE(
-  range: Record<string, ShopItem | ShopGroup>[],
+  range: Record<string, ShopItem | ShopGroup>[] | Record<string, ShopItem | ShopGroup>,
   units_lang: LangData[],
   final: VehicleProps[],
   rank: NeedBuyToOpenNextInEra,
@@ -48,96 +148,34 @@ function shopRangeFE(
     }
   });
 
-  rank[country][`needBuyToOpenNextInEra${type}1`];
-
   let maxRank = 0;
   let isPrem = false;
 
-  range.forEach((element) => {
-    Object.entries(element).forEach(([key, value]) => {
-      if (!("image" in value)) {
-        const find = final.find((vehicle) => {
-          return vehicle.intname === key;
-        });
+  if (!Array.isArray(range)) {
+    const minMax = minMaxRank(army, range, maxRank, final);
+    maxRank = minMax.maxRank;
+    army.max_rank = minMax.army.max_rank;
+    army.min_rank = minMax.army.min_rank;
 
-        if (find && find.rank < army.min_rank) {
-          army.min_rank = find.rank;
-        }
-
-        if (find && find.rank > maxRank) {
-          army.max_rank = find.rank;
-          maxRank = find.rank;
-        }
-      }
+    const parsed = parseColumn(army, isPrem, range, units_lang, final);
+    isPrem = parsed.isPrem;
+    army.col_normal = parsed.army.col_normal;
+    army.range = parsed.army.range;
+  } else {
+    range.forEach((element) => {
+      const minMax = minMaxRank(army, element, maxRank, final);
+      maxRank = minMax.maxRank;
+      army.max_rank = minMax.army.max_rank;
+      army.min_rank = minMax.army.min_rank;
     });
-  });
 
-  range.forEach((element) => {
-    const range: Array<FinalShopItem | FinalShopGroup> = [];
-    Object.entries(element).forEach(([key, value]) => {
-      if ("image" in value) {
-        const groupLang = parseLang(units_lang, "shop/group/" + key);
-        if (!groupLang) {
-          throw new Error(`no match in lang data to shop/group/${element.intname}`);
-        }
-
-        const out: FinalShopGroup = {
-          name: key,
-          displayname: groupLang.English,
-          image: value.image.split("#")[2],
-          reqAir: value.reqAir,
-          vehicles: [],
-        };
-        Object.entries(value).forEach(([key, value]) => {
-          if (!(key === "image" || key === "reqAir") && typeof value !== "string") {
-            if (Array.isArray(value.reqAir)) {
-              value.reqAir = "";
-            }
-            out.vehicles.push({
-              name: key,
-              rank: value.rank,
-              reqAir: value.reqAir,
-              gift: value.gift ? true : undefined,
-              hidden: value.showOnlyWhenBought,
-              marketplace: value.marketplaceItemdefId,
-              event: value.event,
-              clanVehicle: value.isClanVehicle,
-            });
-          }
-        });
-        range.push(out);
-      } else {
-        const find = final.find((vehicle) => {
-          return vehicle.intname === key;
-        });
-        if (find && find.prem_type !== "false") {
-          isPrem = true;
-        }
-
-        // h8k3
-        if (Array.isArray(value.reqAir)) {
-          value.reqAir = "";
-        }
-
-        const out: FinalShopItem = {
-          name: key,
-          rank: value.rank,
-          reqAir: value.reqAir,
-          gift: value.gift ? true : undefined,
-          hidden: value.showOnlyWhenBought,
-          marketplace: value.marketplaceItemdefId,
-          event: value.event,
-          clanVehicle: value.isClanVehicle,
-        };
-        range.push(out);
-      }
+    range.forEach((element) => {
+      const parsed = parseColumn(army, isPrem, element, units_lang, final);
+      isPrem = parsed.isPrem;
+      army.col_normal = parsed.army.col_normal;
+      army.range = parsed.army.range;
     });
-    if (!isPrem) {
-      army.col_normal++;
-    }
-
-    army.range.push(range);
-  });
+  }
 
   // convert columns to rank columns
   const ranked: { rank: number; range: FinalRange[] }[] = [];
@@ -176,7 +214,10 @@ function shopRangeFE(
         ) {
           const next = toparray[topindex + 1].range[index][0];
           if (typeof next === "object" && next.reqAir !== "") {
-            console.log(next.name);
+            console.log("gap + " + next.name);
+            if (next.name === army.range[index][0].name) {
+              return;
+            }
             toparray[topindex].range[index] = "drawArrow";
             if (toparray[topindex - 1].range[index].length === 0) {
               toparray[topindex - 1].range[index] = "drawArrow";
@@ -248,6 +289,26 @@ async function main(dev: boolean) {
         country.parse(key),
         "Aircraft",
       ),
+      ship: value2.ships
+        ? shopRangeFE(
+            value2.ships.range,
+            units_lang,
+            final.ship,
+            rankData.needBuyToOpenNextInEra,
+            country.parse(key),
+            "Ship",
+          )
+        : undefined,
+      boat: value2.boats
+        ? shopRangeFE(
+            value2.boats.range,
+            units_lang,
+            final.boat,
+            rankData.needBuyToOpenNextInEra,
+            country.parse(key),
+            "Boat",
+          )
+        : undefined,
     };
   });
 

@@ -85,29 +85,29 @@ The MiG-9 has enough speed to get to 5,000 m within about 4 minutes, however onc
 ! colspan="2" | Engine name || Number
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
-| colspan="2" | Klimov RD-20A-2 || 2
+| colspan="2" | Klimov RD-20F || 2
 | colspan="2" | 3,790 kg || colspan="3" | 279 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="4" | Mass with fuel (no weapons load) || rowspan="2" | Max Takeoff<br>Weight
+! colspan="4" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
 ! 9m fuel || 20m fuel || 30m fuel || 31m fuel
 |-
 | 670 kg || colspan="2" | Axial-flow turbojet
-| 4,177 kg || 4,597 kg || 5,001 kg || 5,079 kg || 5,590 kg
+| 4,177 kg || 4,597 kg || 5,001 kg || 5,079 kg || 5,134 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
 ! colspan="5" | Thrust to weight ratio @ 0 m (108%)
 |-
 ! Condition || 100% || 108%
-! 9m fuel || 20m fuel || 30m fuel || 31m fuel || MTOW
+! 9m fuel || 20m fuel || 30m fuel || 31m fuel || MGW
 |-
 | ''Stationary'' || 898 kgf || 1,000 kgf
-| 0.48 || 0.44 || 0.40 || 0.39 || 0.36
+| 0.48 || 0.44 || 0.40 || 0.39 || 0.39
 |-
 | ''Optimal'' || 898 kgf<br>(0 km/h) || 1,000 kgf<br>(0 km/h)
-| 0.48 || 0.44 || 0.40 || 0.39 || 0.36
+| 0.48 || 0.44 || 0.40 || 0.39 || 0.39
 |-
 |}
 

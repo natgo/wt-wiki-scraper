@@ -16,7 +16,7 @@ In the few years leading up to World War II, the United States Army Air Corps (U
 [[File:B-29 kawashima momo 001.png|350px|thumb|left|A view of the B-29's cockpit.]]
 The resulting XB-29 prototype and the later production series B-29 bomber had everything the USAAC was looking for, high-pressured cockpit, a maximum altitude of almost 9,750 m (32,000 ft), true airspeed around 600 km/h (372 mph) and could carry a massive payload of bombs upwards of 9,000 kg (20,000 lbs). Defensive positions on the B-29 were well placed to ensure maximum coverage surrounding the bomber. This bomber was one of the first aircraft to be fitted with the General Electric Central Fire Control system which could be used to remotely control four of the remotely controlled turrets (two dorsal and two ventral). Though in their early stages, this aircraft's turrets each also had a General Electric analogue computer linked to it allowing the weapons to be more accurate by automatically factoring in airspeed, gravity, temperature and lead time for the inbound aircraft. With this setup, these turrets could be controlled from the nose, tail or any of the three mid-fuselage positions and a single gunner could actually control more than one turret at a time increasing the effectiveness and lethality of the bomber's defences. Bristling with 12 x M2 Browning machine guns, the B-29A-BN was extremely difficult to approach, yet make a successful pass and leave untouched.
 
-Unlike other bombers which can take on a secondary role as a pseudo-attacker, the B-29A-BN is a bomber, period. The sole purpose of the B-29 is to beat ground targets into submission either with upwards of 40 x 500 lb bombs, 18 x 1,000 lb bombs or 8 x 2,000 lb bombs. The larger 1,000 and 2,000 lb bombs are perfect for base bombing while the relatively smaller 500 lb bombs make the perfect tool for carpet bombing where vehicles, pillboxes or anti-aircraft artillery may be clustered together.
+Unlike other bombers which can take on a secondary role as a pseudo-attacker, the B-29A-BN is a bomber, period. The sole purpose of the B-29 is to beat ground targets into submission either with upwards of 40 x 500 lb bombs, 18 x 1,000 lb bombs, 8 x 2,000 lb bombs or 4 x 4,000 lb bombs. The larger 1,000, 2,000 and 4000 lb bombs are perfect for base bombing while the relatively smaller 500 lb bombs make the perfect tool for carpet bombing where vehicles, pillboxes or anti-aircraft artillery may be clustered together.
 
 The B-29A-BN is an aerial beast which can drop a beastly amount of explosive ordnance, rivalled by few, but is not immune to enemy fighters. Altitude is this bombers friend and when achieved can be a safer haven from which to rain down explosives on enemy bases or vehicles.
 
@@ -144,7 +144,7 @@ The B-29A-BN had to be judicious when it came to providing protecting armour for
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
 [[File:B-29 meanswing 001.png|450px|thumb|right]]
-{{main|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|AN-M66A2 (2,000 lb)}}
+{{main|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|AN-M66A2 (2,000 lb)|AN-M56 (4,000 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
@@ -152,6 +152,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 18 x 1,000 lb AN-M65A1 bombs (18,000 lb total)
 * 40 x 500 lb AN-M64A1 bombs (20,000 lb total)
 * 8 x 2,000 lb AN-M66A2 bombs (16,000 lb total)
+* 4 x 4,000 lb AN-M56 bombs (16,000 lb total)
 
 <nowiki>*</nowiki> Note: A nuclear payload becomes available for the B-29 in Ground Arcade battles of BR 6.0 and higher. It consists of 1 nuclear bomb and is attainable after reaching 15 kills in the match.
 

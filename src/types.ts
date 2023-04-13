@@ -89,6 +89,11 @@ export interface BaseVehicle {
   type: string;
 }
 
+export interface ShipVehicle extends BaseVehicle {
+  modifications: Record<string, GroundMod>;
+  commonWeapons: CommonGroundWeapons;
+}
+
 export interface GroundVehicle extends BaseVehicle {
   hasExpl: boolean;
   hasDmg2: boolean;
@@ -1503,6 +1508,24 @@ export interface Tags {
   type_interceptor?: boolean;
   type_aa_fighter?: boolean;
   type_light_bomber?: boolean;
+  type_battlecruiser?: boolean;
+  type_battleship?: boolean;
+  type_frigate?: boolean;
+  type_light_cruiser?: boolean;
+  type_heavy_cruiser?: boolean;
+  type_destroyer?: boolean;
+  type_barge?: boolean;
+  type_boat?: boolean;
+  type_heavy_boat?: boolean;
+  type_armored_boat?: boolean;
+  type_torpedo_boat?: boolean;
+  type_gun_boat?: boolean;
+  type_naval_ferry_barge?: boolean;
+  type_naval_aa_ferry?: boolean;
+  type_torpedo_gun_boat?: boolean;
+  type_minelayer?: boolean;
+  type_submarine_chaser?: boolean;
+  type_strike_ucav?: boolean;
 }
 
 //groundmodels_weapons
@@ -1686,7 +1709,7 @@ export interface ShopCountry {
 }
 
 export interface ShopRange {
-  range: Record<string, ShopItem | ShopGroup>[];
+  range: Record<string, ShopItem | ShopGroup>[] | Record<string, ShopItem | ShopGroup>;
 }
 
 export interface ShopItem {
@@ -2417,6 +2440,8 @@ export interface namevehicles {
   ground: namevehicle[];
   aviation: namevehicle[];
   helicopter: namevehicle[];
+  ships: namevehicle[];
+  boats: namevehicle[];
 }
 
 export interface namevehicle {
@@ -2428,7 +2453,7 @@ export interface namevehicle {
 
 // Final
 
-export type VehicleProps = GroundProps | AircraftProps | HelicopterProps;
+export type VehicleProps = GroundProps | AircraftProps | HelicopterProps | ShipProps | BoatProps;
 
 export const premTypeSchema = z.enum(["false", "event", "marketplace", "store", "gold", "squad"]);
 
@@ -2452,8 +2477,6 @@ export const finalPropsSchema = z.object({
   intname: z.string(),
   wikiname: z.string().optional(),
   displayname: z.string().optional(),
-  normal_type: z.string(),
-  extended_type: z.array(z.string()).optional(),
   country: z.string(),
   operator_country: z.string().optional(),
   rank: vehiclRankSchema,
@@ -2580,12 +2603,35 @@ export const secondaryWeaponPresetSchema = z.object({
 });
 export type SecondaryWeaponPreset = z.infer<typeof secondaryWeaponPresetSchema>;
 
-export const aircraftPropsSchema = finalPropsSchema.extend({
-  crew: z.number().optional(),
-  type: z.literal("aircraft"),
-  ballistic_computer: ballisticComputerSchema.optional(),
-  secondary_weapon_preset: secondaryWeaponPresetSchema.optional(),
+export const aircraftTypeSchema = z.object({
+  normal_type: z.enum(["type_fighter", "type_bomber", "type_assault", "type_strike_ucav"]),
+  extended_type: z
+    .array(
+      z.enum([
+        "type_jet_fighter",
+        "type_jet_bomber",
+        "type_longrange_bomber",
+        "type_frontline_bomber",
+        "type_hydroplane",
+        "type_naval_aircraft",
+        "type_torpedo_bomber",
+        "type_dive_bomber",
+        "type_interceptor",
+        "type_aa_fighter",
+        "type_light_bomber",
+      ]),
+    )
+    .optional(),
 });
+
+export const aircraftPropsSchema = finalPropsSchema
+  .extend({
+    crew: z.number().optional(),
+    type: z.literal("aircraft"),
+    ballistic_computer: ballisticComputerSchema.optional(),
+    secondary_weapon_preset: secondaryWeaponPresetSchema.optional(),
+  })
+  .merge(aircraftTypeSchema);
 export type AircraftProps = z.infer<typeof aircraftPropsSchema>;
 
 export const opticIr = z.object({
@@ -2757,27 +2803,40 @@ export const tankWeaponsSchema = z.object({
 });
 export type TankWeapons = z.infer<typeof tankWeaponsSchema>;
 
-export const groundPropsSchema = finalPropsSchema.extend({
-  type: z.literal("ground"),
-  mass: z.number(),
-  horsepower: z.number(),
-  gears_forward: z.number(),
-  gears_backward: z.number(),
-  hydro_suspension: z.boolean().optional(),
-  can_float: z.boolean().optional(),
-  has_synchro: z.boolean().optional(),
-  has_neutral: z.boolean().optional(),
-  has_dozer: z.boolean().optional(),
-  has_ess: z.boolean().optional(),
-  has_smoke: z.boolean().optional(),
-  has_lws: z.boolean().optional(),
-  has_era: z.boolean().optional(),
-  has_composite: z.boolean().optional(),
-  has_laser_range: z.boolean().optional(),
-  has_range: z.boolean().optional(),
-  optics: sightsSchema,
-  weapons: tankWeaponsSchema.optional(),
+export const groundTypeSchema = z.object({
+  normal_type: z.enum([
+    "type_light_tank",
+    "type_medium_tank",
+    "type_heavy_tank",
+    "type_tank_destroyer",
+    "type_spaa",
+  ]),
+  extended_type: z.array(z.enum(["type_missile_tank"])).optional(),
 });
+
+export const groundPropsSchema = finalPropsSchema
+  .extend({
+    type: z.literal("ground"),
+    mass: z.number(),
+    horsepower: z.number(),
+    gears_forward: z.number(),
+    gears_backward: z.number(),
+    hydro_suspension: z.boolean().optional(),
+    can_float: z.boolean().optional(),
+    has_synchro: z.boolean().optional(),
+    has_neutral: z.boolean().optional(),
+    has_dozer: z.boolean().optional(),
+    has_ess: z.boolean().optional(),
+    has_smoke: z.boolean().optional(),
+    has_lws: z.boolean().optional(),
+    has_era: z.boolean().optional(),
+    has_composite: z.boolean().optional(),
+    has_laser_range: z.boolean().optional(),
+    has_range: z.boolean().optional(),
+    optics: sightsSchema,
+    weapons: tankWeaponsSchema.optional(),
+  })
+  .merge(groundTypeSchema);
 export type GroundProps = z.infer<typeof groundPropsSchema>;
 
 export const heliSightSchema = z.object({
@@ -2809,24 +2868,86 @@ export const helicopterOpticsSchema = z.object({
 });
 export type HelicopterOptics = z.infer<typeof helicopterOpticsSchema>;
 
-export const helicopterPropsSchema = finalPropsSchema.extend({
-  type: z.literal("helicopter"),
-  ballistic_computer: ballisticComputerSchema.optional(),
-  secondary_weapon_preset: secondaryWeaponPresetSchema.optional(),
-  has_maw: z.boolean().optional(),
-  has_lws: z.boolean().optional(),
-  has_rwr: z.boolean().optional(),
-  has_ircm: z.boolean().optional(),
-  has_hirss: z.boolean().optional(),
-  optics: helicopterOpticsSchema.optional(),
+export const helicopterTypeSchema = z.object({
+  normal_type: z.enum(["type_attack_helicopter", "type_utility_helicopter"]),
+  extended_type: z.array(z.enum(["type_utility_helicopter"])).optional(),
 });
+
+export const helicopterPropsSchema = finalPropsSchema
+  .extend({
+    type: z.literal("helicopter"),
+    ballistic_computer: ballisticComputerSchema.optional(),
+    secondary_weapon_preset: secondaryWeaponPresetSchema.optional(),
+    has_maw: z.boolean().optional(),
+    has_lws: z.boolean().optional(),
+    has_rwr: z.boolean().optional(),
+    has_ircm: z.boolean().optional(),
+    has_hirss: z.boolean().optional(),
+    optics: helicopterOpticsSchema.optional(),
+  })
+  .merge(helicopterTypeSchema);
 export type HelicopterProps = z.infer<typeof helicopterPropsSchema>;
+
+export const shipTypeSchema = z.object({
+  normal_type: z.enum([
+    "type_battlecruiser",
+    "type_battleship",
+    "type_frigate",
+    "type_light_cruiser",
+    "type_heavy_cruiser",
+    "type_destroyer",
+  ]),
+});
+
+export const shipPropsSchema = finalPropsSchema
+  .extend({
+    type: z.literal("ship"),
+  })
+  .merge(shipTypeSchema);
+export type ShipProps = z.infer<typeof shipPropsSchema>;
+
+export const boatTypeSchema = z.object({
+  normal_type: z.enum(["type_barge", "type_boat", "type_frigate"]),
+  extended_type: z
+    .array(
+      z.enum([
+        "type_heavy_boat",
+        "type_armored_boat",
+        "type_torpedo_boat",
+        "type_gun_boat",
+        "type_naval_ferry_barge",
+        "type_naval_aa_ferry",
+        "type_torpedo_gun_boat",
+        "type_minelayer",
+        "type_submarine_chaser",
+        "type_frigate",
+      ]),
+    )
+    .optional(),
+});
+
+export const boatPropsSchema = finalPropsSchema
+  .extend({
+    type: z.literal("boat"),
+  })
+  .merge(boatTypeSchema);
+export type BoatProps = z.infer<typeof boatPropsSchema>;
+
+export const vehicleTypesSchema = z.union([
+  aircraftTypeSchema,
+  groundTypeSchema,
+  helicopterTypeSchema,
+  shipTypeSchema,
+  boatTypeSchema,
+]);
 
 export const finalSchema = z.object({
   version: z.string(),
   ground: z.array(groundPropsSchema),
   aircraft: z.array(aircraftPropsSchema),
   helicopter: z.array(helicopterPropsSchema),
+  ship: z.array(shipPropsSchema),
+  boat: z.array(boatPropsSchema),
 });
 export type Final = z.infer<typeof finalSchema>;
 
@@ -2883,6 +3004,8 @@ export const finalShopCountrySchema = z.object({
   army: finalFinalShopRangeSchema,
   helicopters: finalFinalShopRangeSchema,
   aviation: finalFinalShopRangeSchema,
+  ship: finalFinalShopRangeSchema.optional(),
+  boat: finalFinalShopRangeSchema.optional(),
 });
 
 export const finalShopSchema = z.record(finalShopCountrySchema);
@@ -2894,6 +3017,8 @@ export interface Modifications {
   ground: (VehicleMods | undefined)[];
   aircraft: (VehicleMods | undefined)[];
   helicopter: (VehicleMods | undefined)[];
+  ship: (VehicleMods | undefined)[];
+  boat: (VehicleMods | undefined)[];
 }
 
 export const modClassName = z.enum([

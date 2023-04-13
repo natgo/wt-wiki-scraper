@@ -144,6 +144,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x S-24 rockets
 * 2 x 250 kg OFAB-250sv bombs (500 kg total)
 * 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
+* 1 x 23 mm GSh-23L cannon + 2 x R-60 missiles
+* 1 x 23 mm GSh-23L cannon + 2 x R-3S missiles + 2 x R-3R missiles
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"

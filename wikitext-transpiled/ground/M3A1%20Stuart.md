@@ -105,7 +105,7 @@ While it lacks the post-penetration damage to disable most enemies in one shot, 
 {{Specs-Tank-Weapon|3}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 
-The M3A1 employs a turret top MG and a coaxial MG, both of which are the same 7.62 mm M1919A4 type, these guns are limited to a single AP & T belt type with up too 10 mm of penetration.
+The M3A1 employs a turret top MG and a coaxial MG, both of which are the same 7.62 mm M1919A4 type, these guns are limited to a single AP & T belt type with up to 10 mm of penetration. The machine guns are useful against low-flying biplanes and can help provide deterrence against enemy ground attack aircraft.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -189,6 +189,7 @@ From April to August of 1942 the M3A1 was produced alongside the M3. Changes wer
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_m3a1_stuart Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -200,6 +201,7 @@ From April to August of 1942 the M3A1 was produced alongside the M3. Changes wer
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
+
 * [[M2A2]]{{-}}[[M2A4 (1st Arm.Div.)]]
 
 == External links ==

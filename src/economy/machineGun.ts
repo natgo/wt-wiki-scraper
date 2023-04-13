@@ -10,6 +10,7 @@ export function machineGun(
   weaponry_lang: LangData[],
   modification_lang: LangData[],
   dev: boolean,
+  directory: "naval" | "ground",
 ): GenericGun | undefined {
   const name = Weapon.blk.split("/")[Weapon.blk.split("/").length - 1].replace(/\.blk/g, "");
   let weapon_data: Weapon;
@@ -22,7 +23,7 @@ export function machineGun(
       fs.readFileSync(
         `./${
           dev ? "datamine-dev" : "datamine"
-        }/aces.vromfs.bin_u/gamedata/weapons/groundmodels_weapons/${name.toLowerCase()}.blkx`,
+        }/aces.vromfs.bin_u/gamedata/weapons/${directory}models_weapons/${name.toLowerCase()}.blkx`,
         "utf-8",
       ),
     );

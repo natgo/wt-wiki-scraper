@@ -62,6 +62,17 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * 38 x FFAR Mighty Mouse rockets
 
+==== Custom loadout options ====
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="18%" | 1 !! width="18%" | 2
+| rowspan="5" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! FFAR Mighty Mouse rockets
+| 19 || 19
+|-
+|}
+
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 The UH-1B Hiyodori offers very little in a combat role due to lacklustre armament and minimal armour considering it's a utility helicopter. The most efficient way of utilizing the Hiyodori is as follows:

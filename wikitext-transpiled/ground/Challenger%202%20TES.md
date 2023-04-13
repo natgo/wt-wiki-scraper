@@ -164,6 +164,7 @@ Brawling is an option, however, the TES is rather sluggish and will not last lon
 * Maintains the kinetic protection from previous variants, with improvements in places
 * Very accurate L30A1 120 mm gun
 * Fast reload
+* Roof mounted machine gun has access to thermal and can be used as a CITV 
 
 '''Cons:'''
 
@@ -171,7 +172,6 @@ Brawling is an option, however, the TES is rather sluggish and will not last lon
 * Heaviest MBT in the game with a very poor hp/ton ratio; very poor acceleration
 * Same ammunition options as the previous Challengers
 * Maintains the same weak spots from previous variants
-* No CITV (Commander Independent Thermal Viewer)
 * L27A1 has low penetration compared to other top rank NATO ammunition
 * ERA is useless against tandem-charge warheads
 * Cannot maintain the short reload time after the first-stage ammo rack (4 rounds) has been depleted

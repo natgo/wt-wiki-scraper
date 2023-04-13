@@ -135,11 +135,13 @@ The '''''{{PAGENAME}}''''' is armed with:
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
 {{main|LDGP Mk 82 (500 lb)|SAMP Type 25 (250 kg)|SNEB type 23|AS-30L Nord|Matra R550 Magic 2}}
-{{main|GBU-12 Paveway II (277 kg)|GBU-16 Paveway II (1,092 lb)|GBU-24 Paveway III (2,000 lb)|BGL-1000 (970 kg)}}
+{{main|GBU-12 Paveway II (277 kg)|GBU-16 Paveway II (1,092 lb)|GBU-24 Paveway III (2,000 lb)|BGL-1000 (970 kg)|DEFA 554 (30 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 * 1 x 1,300 l drop tank
+* 1 x 30 mm DEFA 554 cannon (600 rpg)
+* 5 x 250 kg SAMP Type 25 bombs (1,250 kg total)
 * 2 x Matra R550 Magic 2 missiles
 * 72 x SNEB type 23 rockets
 * 9 x 250 kg SAMP Type 25 bombs (2,250 kg total)
@@ -154,7 +156,10 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8 !! width="5%" | 9
-| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mirage_2000C-S5.png]]</div>
+| rowspan="13" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mirage_2000C-S5.png]]</div>
+|-
+! 30 mm DEFA 554 cannons (300 rpg)
+| || || || || 2 || || || ||
 |-
 ! 250 kg SAMP Type 25 bombs
 | 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1
@@ -206,11 +211,12 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * Stock R.550 Magic II all-aspect heat-seekers leaves you with plenty defensive firepower.
 * All-round great ground-pounding ordnance, including 4 types of laser guided bombs, 2 types of unguided bombs, and the vastly powerful AS-30L laser guided missiles!
 * Thermal camera pod lets you find ground targets with ease in combined battles.
+*External gunpod has access to 600 rounds, providing plenty of trigger time
 
 '''Cons:'''
 
 * Relatively heavy when fully loaded with ordnance.
-* No integrated guns, nor external gunpods, leaving you with only missiles (max 2) to defend against enemies.
+* Gunpod adds weight and drag, hindering the flight performance
 * Carrying countermeasures blocks the drogue chute, meaning landings take more time, especially if landing with ordnance.
 * LGB choice is limited to only one of 2x GBU-12, 1x GBU-16, 1x BGL-1000, or 1x GBU-24.
 

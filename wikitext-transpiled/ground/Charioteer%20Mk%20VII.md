@@ -81,7 +81,7 @@ As said earlier, the {{PAGENAME}} share the hull of a typical Cromwell tank feat
 |-
 |}
 
-The {{PAGENAME}} carries an 84 mm 20pdr gun in a lightly armoured turret protected only with 30 mm RHA box. As the gun is very consequent, the turret traverse is quite slow so one should have to preventively aim towards a corner before going around it. The high penetration power of the gun compensates the poor slewing rate. Plus, even the stock shells has as much penetration as the [[QF 17-pounder (76 mm)|76 mm QF 17pdr]]'s APDS shell found on other Rank III tanks, this only gets better with the upgraded APDS shot, which can pierce up to 262 mm of armour at 500 m distance (or a [[Tiger II (H)]]'s UFP at point-blank range).
+The {{PAGENAME}} carries an 84 mm 20pdr gun in a lightly armoured turret protected only with 30 mm RHA box. As the gun is very consequent, the turret traverse is quite slow so one should have to preventively aim towards a corner before going around it. The high penetration power of the gun compensates the poor slewing rate. Plus, even the stock shells has as much penetration as the [[QF 17-pounder (76 mm)|76 mm QF 17pdr]]'s APDS shell found on other Rank III tanks, this only gets better with the upgraded APDS shot, which can pierce up to 363 mm of armour at 500 m distance (or a [[Tiger II (H)]]'s UFP at point-blank range).
 
 The tank commander has the ability to control the weapon if the gunner is knocked out, which is very unusual at the rank and might allow to aggressively trade shots, or even straight up rush some tanks in AB.
 

@@ -131,7 +131,7 @@ As with the previous Abrams tanks, the M1A2 SEP's gun handles very well, with an
 * Numerous weak spots in the armour layout:
 ** Large and poorly armoured turret ring 
 ** Hits to the highly angled upper frontal plate will likely cause the incoming shell to ricochet into aforementioned poorly armoured turret ring, creating a massive weak spot exploitable even by low rank 5 tanks
-** Like with most high-rank MBTs, the gun mantlet is poorly armotred and creates an easy way to disable the cannon breech
+** Like with most high-rank MBTs, the gun mantlet is poorly armoured and creates an easy way to disable the cannon breech
 ** The lower front plate is huge and has poor protection (~400 mm protection)
 * The engine deck is slightly raised, meaning that the gun cannot be depressed over the rear of the tank
 * High penetration APFSDS shells such as the Leopard 2A6's DM53 can still penetrate the turret cheeks at short ranges and at the right angle

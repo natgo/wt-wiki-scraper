@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese medium tank {{Battle-rating}}. It was introduced with the rest of the Japanese ground forces tree with [[Update 1.65 "Way of the Samurai"]].
+The '''{{Specs|name}}''' ({{Annotation|二式砲戦車「ホイ」|Ni-Shiki Hō-Sensha [Ho-I]}}) was designed to uparm the [[Chi-Ha]]'s 57 mm low velocity cannon to a 75 mm low velocity to beat bunkers the Chi-Ha couldn't. Development to squeeze a 75 mm into the turret of the Chi-Ha or Chi-Ha Kai took some time and only by 1941 was a ''Type 1 Experimental Ho-I'' ready, but for production the [[Chi-He]] hull was chosen to ease up production.
 
-The general configuration and proportions of the Ho-I are largely similar to the [[Chi-Ha Kai]]. The most apparent differences are the angular, welded hull and turret, which will become a familiar sight for the rest of the Japanese medium tanks in Rank II and III. The protection is improved significantly, no longer having the paper-thin armour plaguing previous tanks, but it is still nothing to boast about. Closer inspection reveals a larger, stubby 75 mm gun that is trickier to use than the reliable 47 mm gun on the Chi-Ha Kai but is fully capable of penetrating most tanks it will face. Overall, the Ho-I is comparable to the [[Pz.IV E]], a balanced medium tank with a short 75 mm gun.
+The Ho-I was introduced with the rest of the Japanese ground forces tree with [[Update 1.65 "Way of the Samurai"]]. Essentially a Chi-He with a new turret and short barrel 75 mm meant to replace the older [[Chi-Ha]]s in their infantry support role offering a bigger bang. It can also load HEAT, mimicking the role of the [[Pz.IV E]] in a smaller and faster package but with a longer reload.
 
 == General info ==
 === Survivability and armour ===

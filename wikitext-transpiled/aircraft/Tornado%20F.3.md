@@ -1,3 +1,8 @@
+{{About
+| about = British jet fighter '''{{PAGENAME}}'''
+| usage = other versions
+| link = Tornado (Family)
+}}
 {{Specs-Card
 |code=tornado_f3
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -11,11 +16,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-r
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
+! colspan="2" | Max speed<br>(km/h at 11,582 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -24,10 +28,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-r
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
+| 2,280 || 2,269 || rowspan="2" | {{Specs|ceiling}} || 28.4 || 28.6 || 167.3 || 163.4 || rowspan="2" | 800
 |-
 ! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+| 2,340 || 2,308 || 27.6 || 28.0 || 216.7 || 191.0
 |-
 |}
 
@@ -38,14 +42,13 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-r
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| _ || _ || _ || _ || _ || _     <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || X     <!-- ✓ -->
 |-
 |}
 
-{| class="wikitable" style="text-align:center" width="50%"
+{| class="wikitable" style="text-align:center" width="60%"
 |-
-! colspan="7" | Limits
-|-
+! rowspan="2" | Limits
 ! rowspan="2" | Wings (km/h)
 ! rowspan="2" | Gear (km/h)
 ! colspan="3" | Flaps (km/h)
@@ -53,7 +56,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-r
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || ___ || ___ || ___ || ~__ || ~__
+! Min sweep
+| 972 || rowspan="2" | {{Specs|destruction|gear}} || 1,166 || 552 || 440 || ~8 || ~3
+|-
+! Max sweep
+| 1,555 || - || - || - || ~9 || ~3
 |-
 |}
 
@@ -63,7 +70,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-r
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || > ___
+| < 670 || < 650 || < 700 || -
 |-
 |}
 
@@ -71,34 +78,34 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-r
 {| class="wikitable" style="text-align:center"
 |-
 ! colspan="3" | Engine
-! colspan="4" | Aircraft mass
+! colspan="6" | Aircraft mass
 |-
 ! colspan="2" | Engine name || Number
-! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
+! colspan="3" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full internal fuel)
 |-
-| colspan="2" | _____ || _
-| colspan="2" | _,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
+| colspan="2" | Turbo-Union RB199-34R Mk.104 || 2
+| colspan="3" | 14,659 kg || colspan="3" | ___ kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
+! colspan="5" | Mass with internal fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
-! _m fuel || __m fuel || __m fuel
+! 16m fuel || 20m fuel || 30m fuel || 45m fuel || 56m fuel
 |-
-| ___ kg || colspan="2" | ___
-| _,___ kg || _,___ kg || _,___ kg || _,___ kg
+| 968 kg || colspan="2" | Afterburning low-bypass turbofan
+| 16,186 kg || 16,463 kg || 17,365 kg || 18,718 kg || 19,749 kg || 23,512 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
-! colspan="4" | Thrust to weight ratio @ 0 m (___%/WEP)
+! colspan="6" | Thrust to weight ratio @ 0 m (WEP)
 |-
-! Condition || 100% || ___%/WEP
-! _m fuel || __m fuel || __m fuel || MGW
+! Condition || 100% || WEP
+! 16m fuel || 20m fuel || 30m fuel || 45m fuel || 56m fuel || MGW
 |-
-| ''Stationary'' || ___ kgf || ___ kgf
-| _.__ || _.__ || _.__ || _.__
+| ''Stationary'' || 3,756 kgf || 7,309 kgf
+| 0.90 || 0.89 || 0.84 || 0.78 || 0.74 || 0.62
 |-
-| ''Optimal'' || ___ kgf<br>(_ km/h) || ___ kgf<br>(_ km/h)
-| _.__ || _.__ || _.__ || _.__
+| ''Optimal'' || 4,169 kgf<br>(1,400 km/h) || 8,173 kgf<br>(1,400 km/h)
+| 1.01 || 0.99 || 0.94 || 0.87 || 0.83 || 0.70
 |-
 |}
 
@@ -112,6 +119,15 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-r
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="5" | [[Ballistic Computer]]
+|-
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
+|-
+| {{Tick}} || {{Cross}} || {{Cross}} || {{Cross}} || {{Tick}}
+|-
+|}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
@@ -126,21 +142,81 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.''
+{{main|AIM-9L Sidewinder|Skyflash|Skyflash SuperTEMP}}
+
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+
+* 2 x 330 gal drop tanks
+* 2 x AIM-9L Sidewinder missiles
+* 4 x AIM-9L Sidewinder missiles + 320 x countermeasures
+* 4 x Skyflash missiles
+* 4 x Skyflash SuperTEMP missiles
+
+==== Custom loadout options ====
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9.0%" | 1 !! width="9.0%" | 2 !! width="9.0%" | 3 !! width="9.0%" | 4 !! width="9.0%" | 5
+| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! AIM-9L Sidewinder missiles
+| 1, 2 *|| || || || 1, 2 *
+|-
+! Skyflash missiles
+| || || 4 || ||
+|-
+! Skyflash SuperTEMP missiles
+| || || 4 || ||
+|-
+! Countermeasures
+| 160 * || || || || 160 *
+|-
+! 330 gal drop tanks
+| || 1 || || 1 ||
+|-
+| colspan="7" | * Countermeasures can be carried with Sidewinder missiles on the same hardpoint
+|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+
+Like other planes at this BR, the Tornado F.3 is outclassed by higher tier aircraft. This is especially problematic given the Tornado F.3 is heavily dependent on its weaponry and avionics to be competitive.
+
+The Skyflash Super TEMPs are very potent but not on par with the [[AIM-7F Sparrow]]s. They accelerate faster and will outpace the AIM-7F within 4-6 km but refrain from trying to BVR Duel with the rank VIII Phantoms or the F-4J/S. The Skyflash will hang at around the same speed as the AIM-7F at BVR ranges. Due to how long the AIM-7F/M burns it will eventually outpace the Skyflash at longer ranges It goes without saying but The Skyflash is not an effective weapon against the [[R-27ER]] or the [[Matra Super 530D]]. Your prime targets are unsuspecting targets 4-9 km away heading generally towards you.
+
+Try and avoid "fair" missile jousts considering the atrocious manoeuvrability of the Tornado F.3 makes it near impossible to kinetically dodge SARH missiles. Most of the high-end radar missiles can still guide into you due to CW missiles tracking residual radar returns or just gliding into you since the Tornado F.3 is not manoeuvrable enough to change course quickly to dodge the missile, even if the lock was broken. While most planes can outmanoeuvre a head on SARH missile by manoeuvring (rolling) out of the way, the Tornado cannot. It's even difficult to notch a radar-guided missile within 10 km given the closure speed and nearly orbital turning circle of the tornado. Of course, both are possible in certain circumstances but it isn't a reliable way to survive an competent opponent who has taken their time setting up a good SARH missile. Within 5 km, there isn't much you can do other than spam chaff and hope for the best.
+
+Don't dogfight. You have no workable advantages against your opponent unless they are already badly crippled with large sections of their wings/tail missing. If you are chased, get a teammate to cover your back or run back to the airfield. Try and fly in a straight line given your speed bleed in any sort of turn manoeuvre.
+
+The tornado F.3 likes to fly predictable, straight paths and makes very predictable manoeuvres. Any enemy with an ounce of situational awareness will easily be able to keep tabs on you with no effort whatsoever. You can't really make unpredictable manoeuvres and sneak up on people given your overall lack of mobility in any direction other than forward. This makes it hard to employ your AIM-9Ls or your guns, given it is very difficult to stick to an opponent's tail for a good rear aspect shot. Although you will still find the AIM-9L to be a very consistent weapon and a good close range missile.
+
+At this BR, you can outrange pretty much anyone at your own BR with BVR missiles. Your biggest challenge will be F-4J/S with their AIM-7Fs and PDV radars. You have a fair chance of spotting and locking them first given your superior radar. When BVR fighting with an equal BR opponent, it might be a good idea to deliberately waste a Skyflash with a launch from maximum range just to give the enemy something to think about if they continue to commit to a head on. Once the missile is headed your way there isn't much you can do so the best defense is a good offence in this situation.
+
+Never pull negative Gs in the Tornado F.3. As with many top tier planes the negative G performance of the tornado is poor. Unlike the British [[Phantom FGR.2|Phantoms]] your wings are not sturdy enough to sustain negative Gs even for a few seconds, often snapping as soon as you put your nose down. The Tornado is generally an unstable aircraft and prone to flat spinning as soon as the wing falls off, so don't expect to get back to base once you've lost a wing. Rolling can easily make the Tornado snap its wings. When in a turn, refrain from rolling in a 2G+ turn or else there is a good chance you may loose one or both wings. You may not have the controllability to recover and you may go into an uncontrollable spin depending on how violently you were rolling.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
-
 '''Pros:'''
-*
+
+* Has a lot of countermeasures, including large-calibre ones
+* Can carry 8 air-to-air missiles at once
+** Skyflash SuperTEMPs are effective SARH missiles in a BVR role
+** Potent all-aspect heat-seeking AIM-9L missiles
+* Has radar gunsight
+* Advanced radar for its BR
+** Includes TWS that indicates direction of enemy
+** PD has IFF
+* Can carry drop tanks to extend range
 
 '''Cons:'''
-*
+
+* Poor turning performance
+* Loses energy quickly in a turn
+* Lacklustre acceleration
+* Other BVR missiles have a longer range in an uptier
+* Very difficult to kinetically dodge SARH missiles due to aforementioned poor turn rate
+* Short ACM range
+* The 27 mm cannon has a low rate of fire, low ammunition count, and mediocre damage
+* Absence of drogue chute requires a long distance to land
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -148,22 +224,31 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=tornado_f3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+;Videos
+{{Youtube-gallery|Kk-ag2B2ZqU|'''Tornado F.3: A Basic Review''' - ''Tims Variety''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+
+;Related development
+
+* [[Tornado (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{AirManufacturer Panavia}}
 {{Britain jet aircraft}}

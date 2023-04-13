@@ -94,7 +94,7 @@ The tank gets almost no armour, so you are best off hiding or staying at your te
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 '''Pros:'''
 
-* One of the longest ranges in the game at a maximum range of 12 km
+* Long range of 12 km
 * VT1 missiles come stock and they are very fast
 * Has access to gen 3 gunner thermals
 * Can fire all 8 missiles without reloading

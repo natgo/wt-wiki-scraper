@@ -32,10 +32,10 @@ The Corsair should be used as a medium-to-high altitude Boom & Zoomer as flying 
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 587 || 564 || rowspan="2" | {{Specs|ceiling}} || 25.1 || 25.9 || colspan="2" | 8.8 || rowspan="2" | 251
+| 587 || 565 || rowspan="2" | {{Specs|ceiling}} || 25.1 || 25.9 || colspan="2" | 8.8 || rowspan="2" | 251
 |-
 ! Upgraded
-| 646 || 615 || 23.0 || 24.0 || 16.8 || 12.3
+| 646 || 616 || 23.0 || 24.0 || 16.8 || 12.3
 |-
 |}
 

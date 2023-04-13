@@ -114,12 +114,12 @@ The '''''{{PAGENAME}}''''' is defended by:
 * 2 x 7.5 mm MAC 1934 machine guns, dorsal turret (400 rpg = 800 total)
 * 3 x 7.5 mm MAC 1934 machine guns, ventral turret (500 rpg = 1,500 total)
 
-The defensive armament of two MGs on the back of the cockpit do not amount to much, although if you can move your plane into directly lining up with the enemy on your six you can unleash the three bottom-mounted MGs too which might suffice in taking down the pursuer.
+The defensive armament of two MGs on the back of the cockpit does not amount to much, although if you can move your plane into directly lining up with the enemy on your six you can unleash the three bottom-mounted MGs too which might suffice in taking down the pursuer.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-With its heaviest and most effective bombload being a single 500 kg bomb held by bomb locks, the M.B.174 can effectively dive bomb. The recommended strategy is basically to dive on targets to secure a kill with a low number of high-weight bombs play like a [[Ju 87 B-2]] or a [[TBF-1C]]. The only limitation to this is that you cannot drop bombs while making a diving turn due to your twin-engine configuration. However, considering those engines provide you with a near-unmatched speed it is a worthwhile tradeoff. 
+With its heaviest and most effective bombload being a single 500 kg bomb held by bomb locks, the M.B.174 can effectively dive bomb. The recommended strategy is basically to dive on targets to secure a kill with a low number of high-weight bombs; a playstyle similar to the [[Ju 87 B-2]] or the [[TBF-1C]]. The only limitation to this strategy is that you cannot drop bombs while making a diving turn due to your twin-engine configuration. However, considering those engines provide you with a near-unmatched speed this is a worthwhile tradeoff. 
 
 Tactics should be focused on bombing ground targets with a straight line approach and a clear exit away from the enemy. The 50 kg bombs are not effective against any ground target. In attack mode, the 7.5 mm MG don't make much of a dent on enemies, and since ammo runs out quickly, any attack must be carefully planned. Attacking bombers at higher altitude is not advisable. Fighters busy in turn fights can be attacked if you have an altitude advantage and a line of exit. After bombing the target, by turning away from the enemy and descending at the same time you will probably be able either to outrun or keep up with most of the enemy fighters at this BR.
 

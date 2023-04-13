@@ -157,22 +157,23 @@ The {{PAGENAME}} retains almost the same mobility and exactly the same armour as
 
 '''Pros:'''
 
-* Incredibly powerful gun with the DM53 high penetrating kinetic round (650 mm of penetration at 100 m)
-* Impenetrable turret cheeks, the add-on wedge armour makes the turret cheeks immune from every shell in the game (average of 850 mm against APFSDS and 1,450 mm against HEAT), combined with a small mantlet weak spot, this tank has one of the toughest turrets in the game
-* Commander's camera with 2nd generation thermal imager - binoculars on steroids.
-* Good armour on the UFP (430 mm against APFSDS), immune to older shells; though all vehicles at its BR except some SPAAs can reliably penetrate it without an issue
-* Extremely good gun handling for an MBT: 40°/s both turret rotation speed and gun elevation speed (with Ace crew) and -9°/+20° of vertical guidance
-* Side turret covered by add-on armour can bounce early APFSDS shells and newer ones too if you get lucky
+* Incredibly powerful DM53 APFSDS round (650 mm of penetration at 100 m)
+* Great all-round turret armor
+** The add-on wedge armour makes the turret cheeks impenetrable (average of 850 mm against APFSDS and 1,450 mm against HEAT)
+** Small mantlet weak spot 
+** Side turret covered by add-on armour can bounce early APFSDS shells and newer ones too if you get lucky
+* Commander's camera with 2nd generation thermal imager; this is similar to binoculars, but with thermals
+* Good armour on the UFP (430 mm against APFSDS) makes it immune to older shells, though all vehicles at its BR except some SPAAs can reliably penetrate it 
+* Extremely good gun handling for an MBT: 40°/s for both turret rotation and gun elevation speed (with Ace crew) and -9°/+20° of maximum vertical guidance
 * Gunner optics are now mounted on top of the turret, removing the annoying weak spot present on the Leopard 2A4
 * Cannon barrel and cannon breech can absorb impact rounds which may otherwise penetrate the turret and injure crew members
 
 '''Cons:'''
 
-* Lower glacis can still be penetrated by most shells, ~250 mm of KE protection against APFSDS, similar to most MBTs. Late Abrams variants are an exception with ~400 mm
-* 16 shells in the ready-rack may be insufficient when playing in Arcade Battles, you have to aim for weak points and be prepared to fall back and wait for a minute for the rack to replenish
-* Huge hull ammo-rack if more than 16 shells are carried consequently making the tank vulnerable to HE shells and presenting an annoying weak spot in the hull. You can carry 21 or 27 rounds, they will be stored only in the lower plate. More than that is not recommended for close-quarters. It is both dangerous and unnecessary (no way you can spend 27 rounds in a city engagement)
-* A penetrating shot on the left side of the hull will most likely knock out the driver, gunner and commander, thus destroying the tank
-* A penetrating shell on the right side of the hull will most likely hit the ammo-rack, destroying the tank (if you carry more than 16 rounds) 
+* Lower glacis (~250 mm of KE protection against APFSDS) can still be penetrated by most shells, similar to most MBTs
+* 16 shells in the ready-rack may be insufficient when playing in Arcade Battles; be prepared to fall back and wait for a minute for the rack to replenish
+* Huge hull ammo-rack if more than 16 shells are carried makes the tank vulnerable to HE shells and presents an annoying hull weak spot
+* Hull penetrations are likely fatal; a penetrating shot on the left side of the hull will most likely knock out the driver, gunner and commander, while a penetrating shell on the right side of the hull will most likely hit the ammo-rack, in both cases destroying the tank
 * The wedges can be shot off with several hits, though the turret cheeks alone provide 710 mm against KE
 * Despite all the added armour, the turret ring and the mantlet are both easily penetrated, and the enemy will most likely aim at these two spots to disable or destroy the tank
 

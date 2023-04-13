@@ -139,9 +139,9 @@ The '''''{{PAGENAME}}''''' is armed with:
 {{main|GBU-12 Paveway II (277 kg)|GBU-16 Paveway II (1,092 lb)|GBU-10 Paveway II (957 kg)|Mk 77 mod 4 incendiary}}
 {{main|AIM-9G Sidewinder|AIM-9L Sidewinder|Zuni Mk32 Mod 0 ATAP|FFAR Mighty Mouse|Mk 11 mod 5 (20 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordinance presets: 
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-* 6 x 500 lb LDGP Mk 82 bombs, 2 x AIM-9L Sidewinder missiles, 2 x 957 kg GBU-10 Paveway II guided bombs
+* 6 x 500 lb LDGP Mk 82 bombs + 2 x AIM-9L Sidewinder missiles + 2 x 957 kg GBU-10 Paveway II guided bombs
 * 960 x countermeasures
 * 4 x 20 mm Mk 11 mod 5 cannons (750 rpg = 3,000 total)
 * 4 x AIM-9G Sidewinder missiles
@@ -156,6 +156,56 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordinance presets
 * 9 x 277 kg GBU-12 Paveway II guided bombs (2,493 kg total)
 * 5 x 1,092 lb GBU-16 Paveway II guided bombs (5,460 lb total)
 * 10 x Mk 77 mod 4 incendiary bombs
+
+==== Custom loadout options ====
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="15" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! 20 mm Mk 11 mod 5 cannons (750 rpg)
+| 1 || 1 || || 1 || 1
+|-
+! 250 lb LDGP Mk 81 bombs
+| 6 || 5 || 6 || 5 || 6
+|-
+! 500 lb LDGP Mk 82 bombs
+| 6 || 5 || 6 || 5 || 6
+|-
+! 1,000 lb LDGP Mk 83 bombs
+| 3 || 2 || 3 || 2 || 3
+|-
+! 2,000 lb LDGP Mk 84 bombs
+| 1 || 1 || 1 || 1 || 1
+|-
+! Mk 77 mod 4 incendiary bombs
+| 2 || 2 || 2 || 2 || 2
+|-
+! 277 kg GBU-12 Paveway II bombs
+| 2 || 2 || 1 || 2 || 2
+|-
+! 957 kg GBU-10 Paveway II bombs
+| 1 || 1 || 1 || 1 || 1
+|-
+! 1,092 lb GBU-16 Paveway II bombs
+| 1 || 1 || 1 || 1 || 1
+|-
+! FFAR Mighty Mouse rockets
+| 57 || 38 || || 38 || 57
+|-
+! Zuni Mk32 Mod 0 ATAP rockets
+| 12 || 8 || || 8 || 12
+|-
+! AIM-9G Sidewinder missiles
+| 1 || 1 || || 1 || 1
+|-
+! AIM-9L Sidewinder missiles
+| 1 || 1 || || 1 || 1
+|-
+! Countermeasures
+| 240 || 240 || || 240 || 240
+|-
+|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -173,10 +223,10 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordinance presets
 
 '''Cons:'''
 
-* No internal gun; taking gun pods or air-to-air missiles for self-defense reduces payload amount 
-* Loses speed very quickly in turns 
+* No internal gun; taking gun pods or air-to-air missiles for self-defense reduces payload amount
+* Loses speed very quickly in turns
 * Gunpods have poor accuracy and are wing-mounted (convergence issue)
-* TRAM turret cannot look fully backwards 
+* TRAM turret cannot look fully backwards
 * Relatively low top speed, acceleration and climb rate, especially when carrying heavy payloads
 
 == History ==

@@ -84,14 +84,14 @@ The ZTZ96 makes up for its drawbacks in protection and mobility with a superb gu
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[Type 88C (125 mm)|125 mm Type 88C]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[Type 88C (125 mm)|125 mm Type 88C]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 40 || rowspan="2" | -6°/+14° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 28.6 || 39.5 || 48.0 || 53.1 || 56.5 || rowspan="2" | 7.10 || rowspan="2" | 7.10 || rowspan="2" | 7.10 || rowspan="2" | 7.10
+| rowspan="2" | 40 || rowspan="2" | -6°/+14° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 28.6 || 39.5 || 48.0 || 53.1 || 56.5 || rowspan="2" | 7.10
 |-
 ! ''Realistic''
 | 17.9 || 21.0 || 25.5 || 28.2 || 30.0
@@ -108,7 +108,6 @@ The DTB-125 HE round is of the Soviet-style, packing a whopping 5.4 kg of TNT eq
 The 125-I APFSDS shell is a Tier 3 modification and the ZTZ96's only choice of kinetic ammunition. For its battle rating, 125-I performs very well, offering 466 mm of flat penetration at point-blank and dropping only to 434 mm at 2 km. Its angled performance is exceptionally good at 269 mm at 60 degrees, outperforming the common Soviet 3BM42 APFSDS round, whose angled penetration is only 248 mm. For reference, the 125-I performs comparably to Western long-rod sabot rounds such as DM33. Almost all of the ZTZ96's enemies can be dispatched easily with a center mass shot to the hull. The high muzzle velocity makes it easy to use at long range even without using the laser rangefinder.
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
 <!-- '''Last updated: 2.3.0.99''' -->
 {| class="wikitable" style="text-align:center"
 |-
@@ -128,6 +127,7 @@ The 125-I APFSDS shell is a Tier 3 modification and the ZTZ96's only choice of k
 | '''40''' || ''Projectiles''<br />''Propellants'' || 40&nbsp;''(+0)'' <br> 39&nbsp;''(+1)'' || 38&nbsp;''(+2)'' <br> 38&nbsp;''(+2)'' || 37&nbsp;''(+3)'' <br> 37&nbsp;''(+3)'' || 35&nbsp;''(+5)'' <br> 31&nbsp;''(+9)'' || 32&nbsp;''(+8)'' <br> 27&nbsp;''(+13)'' || 29&nbsp;''(+11)'' <br> 23&nbsp;''(+17)'' || 24&nbsp;''(+16)'' <br> 39&nbsp;''(+1)'' || 23&nbsp;''(+17)'' <br> N/A || 39&nbsp;''(+1)'' <br> N/A || No
 |-
 |}
+[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x450px|[[Ammo racks]] of the {{PAGENAME}}]]
 '''Notes''':
 
 * The 9th projectile rack and the 7th propellant rack are a mechanized first stage ammo rack. The mechanized nature indicates the tank has a fixed reload as it uses an autoloader to reload the main gun, as such the main gun cannot be reloaded when the ammo rack is empty.
@@ -145,7 +145,7 @@ The 125-I APFSDS shell is a Tier 3 modification and the ZTZ96's only choice of k
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle || 600 (150) || 700 || -5°/+60° || ±180°
+| Pintle || 600 (150) || 600 || -6°/+85° || ±180°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -154,7 +154,7 @@ The 125-I APFSDS shell is a Tier 3 modification and the ZTZ96's only choice of k
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 2,500 (250) || 700 || N/A || N/A
+| Coaxial || 2,500 (250) || 700 || - || -
 |-
 |}
 

@@ -78,7 +78,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * Without load
 * 28 x Hydra-70 M247 rockets
 * 76 x Hydra-70 M247 rockets
-* 2 x 12.7 mm FN M3P machine guns (400 rpg = 800 total)
+* 2 x 12.7 mm FN M3P machine guns (250 rpg = 500 total)
 * 2 x 12.7 mm FN M3P machine guns + 6 x FFAR Mighty Mouse rockets
 * 4 x BGM-71C Improved TOW missiles
 * 4 x BGM-71D TOW-2 missiles
@@ -95,7 +95,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 ! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
 | rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
-! 12.7 mm FN M3P machine guns (400 rpg)
+! 12.7 mm FN M3P machine guns (250 rpg)
 | || 1* || 1* ||
 |-
 ! FFAR Mighty Mouse rockets

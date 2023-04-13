@@ -57,7 +57,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-ra
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 1,351 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 555 || 549 || 416 || ~__ || ~__
+| 1,457 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 555 || 549 || 416 || ~__ || ~__
 |-
 |}
 
@@ -67,7 +67,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-ra
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 650 || < 600 || < 900 || N/A
+| < 650 || < 800 || < 900 || -
 |-
 |}
 
@@ -98,11 +98,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-ra
 ! Condition || 100% || WEP
 ! 13m fuel || 20m fuel || 30m fuel || 44m fuel || MGW
 |-
-| ''Stationary'' || 4,878 kgf || 6,745 kgf
+| ''Stationary'' || 4,890 kgf || 6,801 kgf
 | 0.75 || 0.71 || 0.66 || 0.59 || 0.41
 |-
-| ''Optimal'' || 5,904 kgf<br>(1,200 - 1,351 km/h) || 9,142 kgf<br>(1,200 - 1,351 km/h)
-| 1.02 || 0.96 || 0.89 || 0.81 || 0.55
+| ''Optimal'' || 5,917 kgf<br>(1,200 - 1,400 km/h) || 9,875 kgf<br>(1,200 km/h)
+| 1.09 || 1.03 || 0.95 || 0.86 || 0.59
 |-
 |}
 

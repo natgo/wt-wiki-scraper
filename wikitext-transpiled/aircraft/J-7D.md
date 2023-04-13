@@ -258,10 +258,8 @@ The default livery of the J-7D represents No.21002 of the PLAAF, while the pre-o
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+* [[wt:en/news/8015-shop-pre-order-new-rank-vii-premium-jet-fighters-part-2-en|[Shop] Pre-order: new rank VII Premium jet fighters (part 2)]]
 
 {{AirManufacturer Chengdu}}
 {{China jet aircraft}}

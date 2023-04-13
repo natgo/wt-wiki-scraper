@@ -1185,6 +1185,307 @@
           ]
         }
       ]
+    },
+    "ship": {
+      "col_normal": 3,
+      "min_rank": 1,
+      "max_rank": 5,
+      "needVehicles": [3, 3, 5, 6],
+      "range": [
+        {
+          "rank": 1,
+          "range": [
+            [
+              { "name": "us_destroyer_clemson_litchfield", "rank": 1 },
+              { "name": "us_destroyer_farragut_1942", "rank": 1 }
+            ],
+            [{ "name": "us_destroyer_clemson_barker", "rank": 1 }],
+            [],
+            [
+              {
+                "name": "us_destroyer_clemson_welborn_c_wood",
+                "rank": 1,
+                "reqAir": ""
+              }
+            ],
+            []
+          ]
+        },
+        {
+          "rank": 2,
+          "range": [
+            [{ "name": "us_destroyer_sumner", "rank": 2 }],
+            [{ "name": "us_destroyer_fletcher", "rank": 2 }],
+            [{ "name": "us_destroyer_mitscher", "rank": 2 }],
+            [
+              {
+                "name": "us_destroyer_mitscher_wilkinson",
+                "rank": 2,
+                "reqAir": ""
+              }
+            ],
+            []
+          ]
+        },
+        {
+          "rank": 3,
+          "range": [
+            [
+              { "name": "us_destroyer_somers", "rank": 3 },
+              { "name": "us_cruiser_omaha_class_trenton", "rank": 3 }
+            ],
+            [
+              { "name": "us_destroyer_porter_1941", "rank": 3 },
+              { "name": "us_cruiser_omaha_class_raleigh", "rank": 3 }
+            ],
+            [{ "name": "us_destroyer_gearing", "rank": 3 }],
+            [
+              {
+                "name": "us_destroyer_gearing_frank_knox",
+                "rank": 3,
+                "reqAir": ""
+              },
+              { "name": "us_destroyer_porter_1942", "rank": 3, "reqAir": "" },
+              {
+                "name": "us_destroyer_fletcher_bennion",
+                "rank": 3,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true
+              }
+            ],
+            [
+              {
+                "name": "us_destroyer_somers_davis",
+                "rank": 3,
+                "reqAir": "",
+                "gift": true,
+                "marketplace": 50174,
+                "event": "craft_2022_spring"
+              },
+              {
+                "name": "us_destroyer_fletcher_cowell",
+                "rank": 3,
+                "reqAir": "",
+                "hidden": true
+              },
+              {
+                "name": "us_destroyer_porter_1944",
+                "rank": 3,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true,
+                "event": "worldwar_attack_from_the_sea"
+              },
+              {
+                "name": "us_cruiser_omaha_class_detroit",
+                "rank": 3,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true,
+                "event": "battlepass_season4"
+              }
+            ]
+          ]
+        },
+        {
+          "rank": 4,
+          "range": [
+            [
+              { "name": "us_cruiser_atlanta_class_atlanta", "rank": 4 },
+              { "name": "us_cruiser_cleveland_class_cleveland", "rank": 4 },
+              { "name": "us_cruiser_fargo_class", "rank": 4 }
+            ],
+            [
+              { "name": "us_cruiser_portland_class", "rank": 4 },
+              { "name": "us_cruiser_pensacola_class", "rank": 4 }
+            ],
+            [{ "name": "us_cruiser_northampton_class", "rank": 4 }],
+            [
+              {
+                "name": "us_cruiser_brooklyn_class_helena",
+                "rank": 4,
+                "reqAir": ""
+              },
+              {
+                "name": "us_cruiser_des_moines_class",
+                "rank": 4,
+                "reqAir": "",
+                "gift": true
+              }
+            ],
+            []
+          ]
+        },
+        {
+          "rank": 5,
+          "range": [
+            [
+              { "name": "us_cruiser_brooklyn_class_brooklyn", "rank": 5 },
+              { "name": "us_cruiser_baltimore_class_pittsburgh", "rank": 5 },
+              { "name": "us_battlecruiser_alaska_class", "rank": 5 }
+            ],
+            [
+              { "name": "us_battleship_wyoming_class", "rank": 5 },
+              { "name": "us_battleship_nevada", "rank": 5 },
+              {
+                "name": "us_battleship_arizona_1931",
+                "rank": 5,
+                "reqAir": "us_battleship_wyoming_class"
+              }
+            ],
+            [
+              { "name": "us_cruiser_new_orleans_class", "rank": 5 },
+              { "name": "us_battleship_north_dakota", "rank": 5 }
+            ],
+            [
+              {
+                "name": "us_cruiser_baltimore_class",
+                "rank": 5,
+                "reqAir": "",
+                "gift": true,
+                "marketplace": 50119,
+                "event": "winter_2021"
+              }
+            ],
+            [
+              {
+                "name": "us_cruiser_des_moines_class_newport_news",
+                "rank": 5,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true,
+                "event": "winter_2023"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    "boat": {
+      "col_normal": 3,
+      "min_rank": 1,
+      "max_rank": 5,
+      "needVehicles": [3, 4, 5, 4],
+      "range": [
+        {
+          "rank": 1,
+          "range": [
+            [
+              { "name": "us_pt6", "rank": 1 },
+              { "name": "us_nasty_ptf", "rank": 1 }
+            ],
+            [{ "name": "us_elco_77ft_pt20", "rank": 1 }],
+            [],
+            [{ "name": "us_pt3", "rank": 1, "reqAir": "" }],
+            []
+          ]
+        },
+        {
+          "rank": 2,
+          "range": [
+            [
+              { "name": "us_elco_80ft_pt_boat", "rank": 2 },
+              { "name": "us_higgins_78ft_pt71", "rank": 2 }
+            ],
+            [
+              { "name": "us_pc_451", "rank": 2 },
+              { "name": "us_sc_497", "rank": 2 }
+            ],
+            [],
+            [
+              { "name": "us_pc_466_carmi", "rank": 2, "reqAir": "" },
+              { "name": "us_elco_80ft_pt174", "rank": 2, "reqAir": "" }
+            ],
+            [
+              {
+                "name": "us_elco_80ft_pt109_boat",
+                "rank": 2,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true
+              }
+            ]
+          ]
+        },
+        {
+          "rank": 3,
+          "range": [
+            [
+              { "name": "us_elco_80ft_pt_boat_mod01", "rank": 3 },
+              { "name": "us_elco_80ft_pt_boat_mod02", "rank": 3 }
+            ],
+            [
+              { "name": "us_higgins_78ft_pt625", "rank": 3 },
+              { "name": "us_elco_77ft_pt59", "rank": 3 }
+            ],
+            [{ "name": "us_pgm_59_class", "rank": 3 }],
+            [
+              {
+                "name": "us_lcm_zippo",
+                "rank": 3,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true,
+                "event": "battlepass_season9"
+              },
+              {
+                "name": "us_elco_80ft_pt_boat_thunderbolt",
+                "rank": 3,
+                "reqAir": ""
+              }
+            ],
+            [
+              {
+                "name": "us_higgins_78ft_pt658",
+                "rank": 3,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true,
+                "event": "battlepass_season5"
+              }
+            ]
+          ]
+        },
+        {
+          "rank": 4,
+          "range": [
+            [
+              { "name": "us_tucumcari_pgh2", "rank": 4 },
+              { "name": "us_pt812", "rank": 4 }
+            ],
+            [
+              { "name": "us_admirable_class", "rank": 4 },
+              { "name": "us_ashville_class", "rank": 4 }
+            ],
+            "drawArrow",
+            [{ "name": "us_ashville_class_douglas", "rank": 4, "reqAir": "" }],
+            [
+              {
+                "name": "us_pt811",
+                "rank": 4,
+                "reqAir": "",
+                "gift": true,
+                "marketplace": 50088,
+                "event": "winter_2020"
+              }
+            ]
+          ]
+        },
+        {
+          "rank": 5,
+          "range": [
+            [
+              { "name": "us_pt810", "rank": 5 },
+              { "name": "us_frigate_tacoma", "rank": 5 }
+            ],
+            [{ "name": "us_lcs_l_3", "rank": 5 }],
+            [{ "name": "us_cyclone_class_cyclone", "rank": 5 }],
+            [],
+            []
+          ]
+        }
+      ]
     }
   },
   "country_germany": {
@@ -2485,6 +2786,272 @@
                 "gift": true,
                 "hidden": true,
                 "event": "winter_2023"
+              }
+            ],
+            []
+          ]
+        }
+      ]
+    },
+    "ship": {
+      "col_normal": 3,
+      "min_rank": 1,
+      "max_rank": 5,
+      "needVehicles": [4, 2, 5, 2],
+      "range": [
+        {
+          "rank": 1,
+          "range": [
+            [
+              { "name": "germ_destroyer_class1924_leopard1932", "rank": 1 },
+              { "name": "germ_destroyer_class1934a_1944", "rank": 1 }
+            ],
+            [
+              { "name": "germ_destroyer_class1939_t22", "rank": 1 },
+              { "name": "germ_kanonenboot_k2", "rank": 1 }
+            ],
+            [],
+            [
+              {
+                "name": "germ_destroyer_class1924_iltis",
+                "rank": 1,
+                "reqAir": ""
+              }
+            ],
+            []
+          ]
+        },
+        {
+          "rank": 2,
+          "range": [
+            [{ "name": "germ_destroyer_class1934a_1940", "rank": 2 }],
+            [{ "name": "germ_destroyer_class1936_z20", "rank": 2 }],
+            [],
+            [
+              {
+                "name": "germ_destroyer_class1924_jaguar1941",
+                "rank": 2,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true,
+                "event": "winter_2020"
+              }
+            ],
+            []
+          ]
+        },
+        {
+          "rank": 3,
+          "range": [
+            [
+              { "name": "germ_destroyer_class1936a_mob_z32", "rank": 3 },
+              { "name": "germ_cruiser_elbing", "rank": 3 },
+              { "name": "germ_cruiser_emden_1944", "rank": 3 }
+            ],
+            [
+              { "name": "germ_destroyer_class1936b", "rank": 3 },
+              { "name": "germ_cruiser_leipzig", "rank": 3 }
+            ],
+            [],
+            [
+              {
+                "name": "germ_destroyer_class1936c_z47",
+                "rank": 3,
+                "reqAir": ""
+              },
+              {
+                "name": "germ_destroyer_class1936_z20_karlgalster",
+                "rank": 3,
+                "reqAir": "",
+                "hidden": true
+              }
+            ],
+            [
+              {
+                "name": "germ_destroyer_class1936a_z25",
+                "rank": 3,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true,
+                "event": "battlepass_season2"
+              },
+              {
+                "name": "germ_destroyer_class1939_t31",
+                "rank": 3,
+                "reqAir": "",
+                "hidden": true
+              }
+            ]
+          ]
+        },
+        {
+          "rank": 4,
+          "range": [
+            [{ "name": "germ_cruiser_nurnberg", "rank": 4 }],
+            [{ "name": "germ_cruiser_koln", "rank": 4 }],
+            [],
+            [
+              { "name": "germ_cruiser_karlsruhe", "rank": 4, "reqAir": "" },
+              {
+                "name": "germ_cruiser_prinz_eugen",
+                "rank": 4,
+                "reqAir": "",
+                "gift": true
+              }
+            ],
+            []
+          ]
+        },
+        {
+          "rank": 5,
+          "range": [
+            [
+              { "name": "germ_cruiser_admiral_hipper", "rank": 5 },
+              { "name": "germ_battleship_westfalen", "rank": 5 },
+              { "name": "germ_battleship_helgoland", "rank": 5 }
+            ],
+            [
+              { "name": "germ_cruiser_admiral_graf_spee", "rank": 5 },
+              { "name": "germ_battleship_kaiser", "rank": 5 },
+              { "name": "germ_battleship_bayern", "rank": 5 }
+            ],
+            [
+              { "name": "germ_battlecruiser_von_der_tann", "rank": 5 },
+              { "name": "germ_battleship_scharnhorst", "rank": 5 }
+            ],
+            [
+              {
+                "name": "germ_battleship_ostfriesland",
+                "rank": 5,
+                "reqAir": "",
+                "gift": true,
+                "marketplace": 50195,
+                "event": "craft_2022_autumn"
+              }
+            ],
+            []
+          ]
+        }
+      ]
+    },
+    "boat": {
+      "col_normal": 3,
+      "min_rank": 1,
+      "max_rank": 5,
+      "needVehicles": [3, 4, 4, 6],
+      "range": [
+        {
+          "rank": 1,
+          "range": [
+            [
+              { "name": "germ_ls_class", "rank": 1 },
+              { "name": "germ_s38", "rank": 1 }
+            ],
+            [{ "name": "germ_rboot_r41", "rank": 1 }],
+            [],
+            [
+              { "name": "germ_ls4_class", "rank": 1, "reqAir": "" },
+              { "name": "germ_km5", "rank": 1, "reqAir": "" }
+            ],
+            []
+          ]
+        },
+        {
+          "rank": 2,
+          "range": [
+            [
+              { "name": "germ_s38b", "rank": 2 },
+              { "name": "germ_s_100_class", "rank": 2 }
+            ],
+            [
+              { "name": "germ_rboot_r130", "rank": 2 },
+              { "name": "germ_rboot_r301", "rank": 2 }
+            ],
+            [],
+            [],
+            []
+          ]
+        },
+        {
+          "rank": 3,
+          "range": [
+            [
+              { "name": "germ_s_100_s_174_class", "rank": 3 },
+              { "name": "germ_pr_131", "rank": 3 }
+            ],
+            [
+              { "name": "germ_sf40_schwere_flakkampffaehre", "rank": 3 },
+              { "name": "germ_sf40_leichte_flakkampffaehre", "rank": 3 }
+            ],
+            [],
+            [
+              {
+                "name": "germ_s_100_s204_lang",
+                "rank": 3,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true
+              },
+              { "name": "germ_vs8_hydrofoil", "rank": 3, "reqAir": "" }
+            ],
+            []
+          ]
+        },
+        {
+          "rank": 4,
+          "range": [
+            [
+              { "name": "germ_vs10_hydrofoil", "rank": 4 },
+              { "name": "germ_mz_1", "rank": 4 }
+            ],
+            [
+              { "name": "germ_artilleriefahrprahm_typ_d1", "rank": 4 },
+              { "name": "germ_artilleriefahrprahm_typ_d3", "rank": 4 },
+              { "name": "germ_escort_typem1935", "rank": 4 }
+            ],
+            [{ "name": "germ_rdm242", "rank": 4 }],
+            [{ "name": "germ_escort_typem1943", "rank": 4, "reqAir": "" }],
+            [
+              {
+                "name": "germ_skr_pr50_karl_marx",
+                "rank": 4,
+                "reqAir": "",
+                "clanVehicle": true
+              },
+              {
+                "name": "germ_frigate_koln_lubeck",
+                "rank": 4,
+                "reqAir": "",
+                "gift": true,
+                "marketplace": 50103,
+                "event": "craft_2020_autumn"
+              }
+            ]
+          ]
+        },
+        {
+          "rank": 5,
+          "range": [
+            [
+              { "name": "germ_type143_albatros", "rank": 5 },
+              { "name": "germ_pr_206", "rank": 5 }
+            ],
+            [
+              { "name": "germ_type140_jaguar", "rank": 5 },
+              { "name": "germ_frigate_koln", "rank": 5 }
+            ],
+            [
+              { "name": "germ_type152_hugin", "rank": 5 },
+              { "name": "germ_type153_pfeil", "rank": 5 }
+            ],
+            [
+              {
+                "name": "germ_type143_bussard",
+                "rank": 5,
+                "reqAir": "",
+                "gift": true,
+                "marketplace": 50147,
+                "event": "summer_2021"
               }
             ],
             []
@@ -3821,6 +4388,316 @@
           ]
         }
       ]
+    },
+    "ship": {
+      "col_normal": 2,
+      "min_rank": 1,
+      "max_rank": 5,
+      "needVehicles": [5, 3, 3, 2],
+      "range": [
+        {
+          "rank": 1,
+          "range": [
+            [
+              { "name": "ussr_destroyer_frunze", "rank": 1 },
+              { "name": "ussr_destroyer_7_besposhchadny", "rank": 1 },
+              { "name": "ussr_destroyer_moskva", "rank": 1 }
+            ],
+            [
+              { "name": "ussr_destroyer_pr30_ognevoy", "rank": 1 },
+              {
+                "name": "ussr_destroyer_regele_ferdinand_class_letuchiy",
+                "rank": 1
+              }
+            ],
+            [
+              { "name": "ussr_destroyer_kerch", "rank": 1, "reqAir": "" },
+              { "name": "ussr_destroyer_7_ryany", "rank": 1, "reqAir": "" }
+            ],
+            []
+          ]
+        },
+        {
+          "rank": 2,
+          "range": [
+            [{ "name": "ussr_destroyer_7y", "rank": 2 }],
+            [
+              { "name": "ussr_destroyer_pr30bis_bezuprechnyi", "rank": 2 },
+              { "name": "ussr_destroyer_pr20_tashkent", "rank": 2 }
+            ],
+            [
+              {
+                "name": "ussr_destroyer_pr30bis_smelyi",
+                "rank": 2,
+                "reqAir": ""
+              }
+            ],
+            []
+          ]
+        },
+        {
+          "rank": 3,
+          "range": [
+            [{ "name": "ussr_cruiser_krasnyi_kavkaz", "rank": 3 }],
+            [
+              { "name": "ussr_destroyer_pr56_spokoinyy", "rank": 3 },
+              { "name": "ussr_cruiser_krasnyi_krim", "rank": 3 }
+            ],
+            [
+              {
+                "name": "ussr_destroyer_pr56_blagorodny",
+                "rank": 3,
+                "reqAir": ""
+              },
+              {
+                "name": "ussr_destroyer_leningrad",
+                "rank": 3,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true,
+                "event": "winter_2019_ship"
+              }
+            ],
+            [
+              {
+                "name": "ussr_destroyer_7y_stroyny",
+                "rank": 3,
+                "reqAir": "",
+                "hidden": true
+              },
+              {
+                "name": "ussr_destroyer_pr41_neustrashimy",
+                "rank": 3,
+                "reqAir": "",
+                "hidden": true
+              }
+            ]
+          ]
+        },
+        {
+          "rank": 4,
+          "range": [
+            [{ "name": "ussr_cruiser_kirov", "rank": 4 }],
+            [{ "name": "ussr_cruiser_chapayev", "rank": 4 }],
+            [
+              { "name": "ussr_cruiser_kerch", "rank": 4, "reqAir": "" },
+              { "name": "ussr_cruiser_zheleznyakov", "rank": 4, "reqAir": "" }
+            ],
+            [
+              {
+                "name": "ussr_cruiser_voroshilov",
+                "rank": 4,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true,
+                "event": "battlepass_season3"
+              }
+            ]
+          ]
+        },
+        {
+          "rank": 5,
+          "range": [
+            [
+              { "name": "ussr_cruiser_sverdlov", "rank": 5 },
+              { "name": "ussr_battleship_poltava", "rank": 5 },
+              { "name": "ussr_battlecruiser_kronshtadt", "rank": 5 }
+            ],
+            [
+              { "name": "ussr_cruiser_mikhail_kutuzov", "rank": 5 },
+              { "name": "ussr_battleship_imperatritsa_mariya", "rank": 5 },
+              { "name": "ussr_battleship_parizhskaya_kommuna", "rank": 5 }
+            ],
+            [
+              {
+                "name": "ussr_cruiser_maxim_gorky",
+                "rank": 5,
+                "reqAir": "",
+                "gift": true,
+                "marketplace": 50101,
+                "event": "summer_2020"
+              }
+            ],
+            []
+          ]
+        }
+      ]
+    },
+    "boat": {
+      "col_normal": 3,
+      "min_rank": 1,
+      "max_rank": 5,
+      "needVehicles": [4, 4, 5, 6],
+      "range": [
+        {
+          "rank": 1,
+          "range": [
+            [
+              { "name": "ussr_g5_mtb", "rank": 1 },
+              { "name": "ussr_d3", "rank": 1 }
+            ],
+            [
+              { "name": "ussr_mo_4", "rank": 1 },
+              { "name": "ussr_od_200", "rank": 1 }
+            ],
+            [],
+            [{ "name": "ussr_g5_mtb_shvak", "rank": 1, "reqAir": "" }],
+            [
+              {
+                "name": "ussr_g5_rct",
+                "rank": 1,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true
+              },
+              {
+                "name": "ussr_ya_5m",
+                "rank": 1,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true
+              }
+            ]
+          ]
+        },
+        {
+          "rank": 2,
+          "range": [
+            [
+              { "name": "ussr_mpk_163", "rank": 2 },
+              { "name": "ussr_pr_123bis", "rank": 2 }
+            ],
+            [
+              { "name": "ussr_mpk_122a", "rank": 2 },
+              { "name": "ussr_1124_art", "rank": 2 }
+            ],
+            [],
+            [
+              { "name": "ussr_pr_123k_hydrofoils", "rank": 2, "reqAir": "" },
+              { "name": "ussr_pr_1204", "rank": 2, "reqAir": "" }
+            ],
+            [
+              {
+                "name": "ussr_mpk_122bis",
+                "rank": 2,
+                "reqAir": "",
+                "gift": true,
+                "marketplace": 50061,
+                "event": "craft_2019_spring"
+              },
+              {
+                "name": "ussr_1124_rct",
+                "rank": 2,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true
+              }
+            ]
+          ]
+        },
+        {
+          "rank": 3,
+          "range": [
+            [
+              { "name": "ussr_pr_123k", "rank": 3 },
+              { "name": "ussr_pr_1204_late", "rank": 3 }
+            ],
+            [{ "name": "ussr_1124_ack", "rank": 3 }],
+            [
+              { "name": "ussr_pr_191", "rank": 3 },
+              { "name": "ussr_pr_191m", "rank": 3 }
+            ],
+            [
+              {
+                "name": "ussr_mbk_161_1943",
+                "rank": 3,
+                "reqAir": "",
+                "gift": true,
+                "marketplace": 50077,
+                "event": "craft_2019_autumn"
+              },
+              {
+                "name": "ussr_pr_183_egypt_bm_21",
+                "rank": 3,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true,
+                "event": "battlepass_season10"
+              }
+            ],
+            []
+          ]
+        },
+        {
+          "rank": 4,
+          "range": [
+            [
+              { "name": "ussr_bmo", "rank": 4 },
+              { "name": "ussr_pr_183", "rank": 4 }
+            ],
+            [
+              { "name": "ussr_skr_groza_1943", "rank": 4 },
+              { "name": "ussr_mpk_201m", "rank": 4 },
+              { "name": "ussr_mpk_204", "rank": 4 }
+            ],
+            [
+              { "name": "ussr_mkl_186", "rank": 4 },
+              { "name": "ussr_mbk_161_1944", "rank": 4 }
+            ],
+            [
+              { "name": "ussr_mkl_186_mk85", "rank": 4, "reqAir": "" },
+              { "name": "ussr_skr_pr50plo_rosomacha", "rank": 4, "reqAir": "" }
+            ],
+            [
+              {
+                "name": "ussr_mpk_201k",
+                "rank": 4,
+                "reqAir": "",
+                "gift": true,
+                "marketplace": 50162,
+                "event": "winter_2022"
+              },
+              { "name": "ussr_mpk_pr12412p", "rank": 4, "reqAir": "" }
+            ]
+          ]
+        },
+        {
+          "rank": 5,
+          "range": [
+            [
+              { "name": "ussr_pr_206", "rank": 5 },
+              { "name": "ussr_pr_206m", "rank": 5 },
+              { "name": "ussr_mpk_pr12412", "rank": 5 }
+            ],
+            [
+              {
+                "name": "ussr_skr_pr50_jenot",
+                "rank": 5,
+                "reqAir": "ussr_mpk_201m"
+              },
+              { "name": "ussr_mpk_pr1331m", "rank": 5 },
+              { "name": "ussr_skr_pr159", "rank": 5 }
+            ],
+            [],
+            [
+              {
+                "name": "ussr_skr_pr35",
+                "rank": 5,
+                "reqAir": "",
+                "clanVehicle": true
+              }
+            ],
+            [
+              {
+                "name": "ussr_pr_206_race",
+                "rank": 5,
+                "reqAir": "",
+                "hidden": true
+              }
+            ]
+          ]
+        }
+      ]
     }
   },
   "country_britain": {
@@ -4725,6 +5602,306 @@
           ]
         }
       ]
+    },
+    "ship": {
+      "col_normal": 3,
+      "min_rank": 1,
+      "max_rank": 5,
+      "needVehicles": [3, 5, 5, 5],
+      "range": [
+        {
+          "rank": 1,
+          "range": [
+            [
+              { "name": "uk_destroyer_v_class_vega", "rank": 1, "reqAir": "" },
+              { "name": "uk_destroyer_hunt_2series", "rank": 1 }
+            ],
+            [
+              {
+                "name": "uk_destroyer_clemson_churchill",
+                "rank": 1,
+                "hidden": true
+              },
+              { "name": "uk_destroyer_g_grafton", "rank": 1, "reqAir": "" }
+            ],
+            [],
+            [
+              {
+                "name": "uk_destroyer_v_class_verdun",
+                "rank": 1,
+                "reqAir": ""
+              },
+              {
+                "name": "uk_destroyer_v_class_valhalla",
+                "rank": 1,
+                "reqAir": ""
+              }
+            ],
+            [
+              {
+                "name": "uk_destroyer_clemson_montgomery_g95",
+                "rank": 1,
+                "reqAir": ""
+              }
+            ]
+          ]
+        },
+        {
+          "rank": 2,
+          "range": [
+            [
+              { "name": "uk_destroyer_tribal", "rank": 2 },
+              { "name": "uk_destroyer_n_class", "rank": 2 }
+            ],
+            [
+              { "name": "uk_destroyer_hunt_4series", "rank": 2 },
+              { "name": "uk_destroyer_k_class", "rank": 2 }
+            ],
+            [{ "name": "uk_minelayer_abdiel_class_abdiel", "rank": 2 }],
+            [{ "name": "uk_destroyer_j_class", "rank": 2, "reqAir": "" }],
+            [
+              {
+                "name": "uk_destroyer_g_garland",
+                "rank": 2,
+                "reqAir": "",
+                "gift": true,
+                "marketplace": 50109,
+                "event": "battlepass_season1"
+              },
+              {
+                "name": "uk_destroyer_tribal_mohawk",
+                "rank": 2,
+                "reqAir": "",
+                "gift": true,
+                "marketplace": 50152,
+                "event": "craft_2021_autumn"
+              }
+            ]
+          ]
+        },
+        {
+          "rank": 3,
+          "range": [
+            [
+              { "name": "uk_destroyer_battle_2series", "rank": 3 },
+              { "name": "uk_cruiser_enterprise_d52", "rank": 3 }
+            ],
+            [
+              { "name": "uk_destroyer_battle_tobruk", "rank": 3 },
+              { "name": "uk_cruiser_dido", "rank": 3 }
+            ],
+            [{ "name": "uk_destroyer_daring_class_diana", "rank": 3 }],
+            [
+              {
+                "name": "uk_destroyer_haida",
+                "rank": 3,
+                "reqAir": "",
+                "hidden": true
+              }
+            ],
+            [
+              {
+                "name": "uk_destroyer_battle_cadiz",
+                "rank": 3,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true,
+                "event": "battlepass_season7"
+              }
+            ]
+          ]
+        },
+        {
+          "rank": 4,
+          "range": [
+            [
+              { "name": "uk_cruiser_arethusa", "rank": 4 },
+              { "name": "uk_cruiser_leander", "rank": 4 },
+              { "name": "uk_cruiser_norfolk", "rank": 4 }
+            ],
+            [
+              { "name": "uk_cruiser_hawkins", "rank": 4 },
+              { "name": "uk_cruiser_york", "rank": 4 }
+            ],
+            "drawArrow",
+            [{ "name": "uk_cruiser_belfast", "rank": 4, "reqAir": "" }],
+            [
+              {
+                "name": "uk_cruiser_liverpool",
+                "rank": 4,
+                "reqAir": "",
+                "clanVehicle": true
+              }
+            ]
+          ]
+        },
+        {
+          "rank": 5,
+          "range": [
+            [
+              { "name": "uk_cruiser_southampton", "rank": 5 },
+              { "name": "uk_cruiser_kent", "rank": 5 },
+              { "name": "uk_battleship_marlborough", "rank": 5 }
+            ],
+            [
+              { "name": "uk_cruiser_london", "rank": 5 },
+              { "name": "uk_battleship_dreadnought", "rank": 5 },
+              { "name": "uk_battleship_colossus", "rank": 5 }
+            ],
+            [
+              { "name": "uk_battlecruiser_glorious", "rank": 5 },
+              { "name": "uk_battlecruiser_invincible", "rank": 5 },
+              { "name": "uk_battlecruiser_hood", "rank": 5 }
+            ],
+            [
+              {
+                "name": "uk_cruiser_tiger",
+                "rank": 5,
+                "reqAir": "",
+                "gift": true,
+                "marketplace": 50064,
+                "event": "craft_2019_spring"
+              }
+            ],
+            []
+          ]
+        }
+      ]
+    },
+    "boat": {
+      "col_normal": 2,
+      "min_rank": 1,
+      "max_rank": 5,
+      "needVehicles": [6, 4, 5, 4],
+      "range": [
+        {
+          "rank": 1,
+          "range": [
+            [
+              { "name": "uk_mtb_1series", "rank": 1 },
+              { "name": "uk_fairmile_a_ml100", "rank": 1 },
+              { "name": "uk_70ft_mgb", "rank": 1 }
+            ],
+            [
+              { "name": "uk_mtb_vosper_1series", "rank": 1 },
+              { "name": "uk_mtb_vosper_2series", "rank": 1 },
+              { "name": "uk_hdml_ml1383", "rank": 1 }
+            ],
+            [{ "name": "uk_mtb_2series", "rank": 1, "reqAir": "" }],
+            []
+          ]
+        },
+        {
+          "rank": 2,
+          "range": [
+            [
+              { "name": "uk_fairmile_b_ml345", "rank": 2 },
+              { "name": "uk_dark_class", "rank": 2 }
+            ],
+            [
+              { "name": "uk_isles_class_trawler", "rank": 2 },
+              { "name": "uk_flower_class", "rank": 2 }
+            ],
+            [{ "name": "uk_71ft_mgb", "rank": 2, "reqAir": "" }],
+            []
+          ]
+        },
+        {
+          "rank": 3,
+          "range": [
+            [
+              { "name": "uk_dark_class_mtb", "rank": 3 },
+              { "name": "uk_fairmile_d_617_632", "rank": 3 }
+            ],
+            [
+              { "name": "uk_fairmile_c", "rank": 3 },
+              { "name": "uk_fairmile_lcs_l_h_mk2", "rank": 3 },
+              { "name": "uk_fairmile_d_601_616", "rank": 3 }
+            ],
+            [
+              {
+                "name": "uk_sgb_309",
+                "rank": 3,
+                "reqAir": "",
+                "gift": true,
+                "marketplace": 50092,
+                "event": "craft_2020_spring"
+              },
+              {
+                "name": "uk_fairmile_d_5001_5029",
+                "rank": 3,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true
+              }
+            ],
+            [
+              {
+                "name": "uk_higgins_78ft_mtb422",
+                "rank": 3,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true,
+                "event": "battlepass_season6"
+              },
+              {
+                "name": "uk_dark_class_mtb_td",
+                "rank": 3,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true
+              }
+            ]
+          ]
+        },
+        {
+          "rank": 4,
+          "range": [
+            [
+              { "name": "uk_fairmile_d_697_800", "rank": 4 },
+              { "name": "uk_sgb_304", "rank": 4 }
+            ],
+            [
+              { "name": "uk_attack_class_arrow", "rank": 4 },
+              { "name": "uk_fairmile_c_332", "rank": 4 }
+            ],
+            [
+              { "name": "uk_corvette_orla", "rank": 4, "reqAir": "" },
+              { "name": "uk_frigate_whitby", "rank": 4, "reqAir": "" }
+            ],
+            [
+              {
+                "name": "uk_frigate_river",
+                "rank": 4,
+                "reqAir": "",
+                "gift": true,
+                "marketplace": 50072,
+                "event": "summer_2019"
+              }
+            ]
+          ]
+        },
+        {
+          "rank": 5,
+          "range": [
+            [
+              { "name": "uk_brave_borderer", "rank": 5 },
+              { "name": "uk_destroyer_restigouche_class_terranova", "rank": 5 },
+              {
+                "name": "uk_frigate_leopard",
+                "rank": 5,
+                "reqAir": "uk_brave_borderer"
+              }
+            ],
+            [
+              { "name": "uk_corvette_peacock", "rank": 5 },
+              { "name": "uk_frigate_whitby_blackpool", "rank": 5 }
+            ],
+            [],
+            []
+          ]
+        }
+      ]
     }
   },
   "country_japan": {
@@ -5328,6 +6505,241 @@
             [],
             [],
             [],
+            []
+          ]
+        }
+      ]
+    },
+    "ship": {
+      "col_normal": 3,
+      "min_rank": 1,
+      "max_rank": 5,
+      "needVehicles": [2, 3, 4, 4],
+      "range": [
+        {
+          "rank": 1,
+          "range": [
+            [{ "name": "jp_destroyer_mutsuki", "rank": 1 }],
+            [{ "name": "jp_destroyer_fubuki", "rank": 1 }],
+            [],
+            [{ "name": "jp_destroyer_satsuki", "rank": 1, "reqAir": "" }],
+            []
+          ]
+        },
+        {
+          "rank": 2,
+          "range": [
+            [{ "name": "jp_destroyer_harukaze", "rank": 2 }],
+            [
+              { "name": "jp_destroyer_yugumo", "rank": 2 },
+              { "name": "jp_destroyer_hatsuharu", "rank": 2 }
+            ],
+            [],
+            [
+              { "name": "jp_destroyer_nenohi", "rank": 2, "reqAir": "" },
+              {
+                "name": "jp_destroyer_yugure",
+                "rank": 2,
+                "reqAir": "",
+                "gift": true,
+                "marketplace": 50129,
+                "event": "craft_2021_spring"
+              }
+            ],
+            [
+              {
+                "name": "jp_destroyer_hayanami",
+                "rank": 2,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true,
+                "event": "winter_2022"
+              }
+            ]
+          ]
+        },
+        {
+          "rank": 3,
+          "range": [
+            [
+              { "name": "jp_destroyer_akizuki", "rank": 3 },
+              { "name": "jp_cruiser_kako", "rank": 3 }
+            ],
+            [
+              { "name": "jp_cruiser_isuzu", "rank": 3 },
+              { "name": "jp_cruiser_kuma", "rank": 3 }
+            ],
+            [],
+            [
+              { "name": "jp_cruiser_yubari", "rank": 3, "reqAir": "" },
+              {
+                "name": "jp_destroyer_shimakaze",
+                "rank": 3,
+                "reqAir": "",
+                "clanVehicle": true
+              }
+            ],
+            [
+              {
+                "name": "jp_destroyer_yuudachi",
+                "rank": 3,
+                "reqAir": "",
+                "gift": true,
+                "marketplace": 50075,
+                "event": "summer_2019"
+              },
+              {
+                "name": "jp_destroyer_kiyoshimo",
+                "rank": 3,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true
+              }
+            ]
+          ]
+        },
+        {
+          "rank": 4,
+          "range": [
+            [
+              { "name": "jp_cruiser_furutaka", "rank": 4 },
+              { "name": "jp_cruiser_aoba", "rank": 4 }
+            ],
+            [
+              { "name": "jp_cruiser_sendai", "rank": 4 },
+              { "name": "jp_cruiser_agano", "rank": 4 }
+            ],
+            [],
+            [
+              { "name": "jp_cruiser_myoko", "rank": 4, "reqAir": "" },
+              { "name": "jp_cruiser_mogami_mikuma", "rank": 4, "reqAir": "" }
+            ],
+            []
+          ]
+        },
+        {
+          "rank": 5,
+          "range": [
+            [
+              { "name": "jp_cruiser_tone", "rank": 5 },
+              { "name": "jp_battleship_settsu", "rank": 5 },
+              { "name": "jp_battleship_fuso", "rank": 5 }
+            ],
+            [
+              { "name": "jp_cruiser_mogami_suzuya", "rank": 5 },
+              { "name": "jp_cruiser_mogami", "rank": 5 },
+              { "name": "jp_battleship_hyuga", "rank": 5 }
+            ],
+            [
+              { "name": "jp_armoredcruiser_ikoma", "rank": 5 },
+              { "name": "jp_battlecruiser_kongo", "rank": 5 }
+            ],
+            [
+              {
+                "name": "jp_battlecruiser_haruna",
+                "rank": 5,
+                "reqAir": "",
+                "gift": true,
+                "marketplace": 50192,
+                "event": "summer_2022"
+              }
+            ],
+            []
+          ]
+        }
+      ]
+    },
+    "boat": {
+      "col_normal": 2,
+      "min_rank": 1,
+      "max_rank": 5,
+      "needVehicles": [4, 4, 4, 3],
+      "range": [
+        {
+          "rank": 1,
+          "range": [
+            [
+              { "name": "jp_t14_class", "rank": 1 },
+              { "name": "jp_type5_escortboat", "rank": 1 }
+            ],
+            [
+              { "name": "jp_type_t1_1941", "rank": 1 },
+              { "name": "jp_abtei_pr1", "rank": 1 }
+            ],
+            [{ "name": "jp_t14_class_mod01", "rank": 1, "reqAir": "" }]
+          ]
+        },
+        {
+          "rank": 2,
+          "range": [
+            [
+              { "name": "jp_karotei_type2", "rank": 2 },
+              { "name": "jp_sehatei_mod1", "rank": 2 }
+            ],
+            [
+              { "name": "jp_abtei_pr4", "rank": 2 },
+              { "name": "jp_type38_1944", "rank": 2 }
+            ],
+            [
+              {
+                "name": "jp_kusen_tei_13_1942",
+                "rank": 2,
+                "reqAir": "",
+                "gift": true,
+                "event": "winter_2021"
+              },
+              { "name": "jp_karotei_type4", "rank": 2, "reqAir": "" }
+            ]
+          ]
+        },
+        {
+          "rank": 3,
+          "range": [
+            [
+              { "name": "jp_kusen_tei_13_1944", "rank": 3 },
+              { "name": "jp_t51b", "rank": 3 }
+            ],
+            [
+              { "name": "jp_no1_ch2", "rank": 3 },
+              { "name": "jp_no4_ch8", "rank": 3 }
+            ],
+            [
+              {
+                "name": "jp_t51a",
+                "rank": 3,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true,
+                "event": "battlepass_season8"
+              }
+            ]
+          ]
+        },
+        {
+          "rank": 4,
+          "range": [
+            [
+              { "name": "jp_type_11_pt_15", "rank": 4 },
+              { "name": "jp_escort_ikazuchi_class", "rank": 4 }
+            ],
+            [{ "name": "jp_escort_chikugo_class", "rank": 4 }],
+            [
+              { "name": "jp_escort_akebono_class", "rank": 4, "reqAir": "" },
+              { "name": "jp_pg02", "rank": 4, "reqAir": "" }
+            ]
+          ]
+        },
+        {
+          "rank": 5,
+          "range": [
+            [
+              { "name": "jp_escort_hiburi_class_syonan", "rank": 5 },
+              { "name": "jp_destroyer_chidori", "rank": 5 }
+            ],
+            [
+              { "name": "jp_destroyer_isuzu", "rank": 5 },
+              { "name": "jp_destroyer_ayanami", "rank": 5 }
+            ],
             []
           ]
         }
@@ -6358,6 +7770,186 @@
           ]
         }
       ]
+    },
+    "ship": {
+      "col_normal": 2,
+      "min_rank": 1,
+      "max_rank": 5,
+      "needVehicles": [3, 1, 6, 3],
+      "range": [
+        {
+          "rank": 1,
+          "range": [
+            [
+              { "name": "it_destroyer_turbine", "rank": 1 },
+              { "name": "it_destroyer_dardo", "rank": 1 }
+            ],
+            [{ "name": "it_destroyer_vifor_class_aquila", "rank": 1 }],
+            [{ "name": "it_destroyer_aquilone", "rank": 1, "reqAir": "" }],
+            []
+          ]
+        },
+        {
+          "rank": 2,
+          "range": [
+            [{ "name": "it_destroyer_comandanti_medaglie_doro", "rank": 2 }],
+            "drawArrow",
+            [
+              {
+                "name": "it_destroyer_fletcher_geniere",
+                "rank": 2,
+                "reqAir": ""
+              }
+            ],
+            []
+          ]
+        },
+        {
+          "rank": 3,
+          "range": [
+            [
+              { "name": "it_destroyer_soldati_serie1_camicianera", "rank": 3 },
+              { "name": "it_destroyer_leone_class", "rank": 3 },
+              {
+                "name": "it_cruiser_capitani_romani_class_attilio_regolo",
+                "rank": 3
+              }
+            ],
+            [
+              { "name": "it_destroyer_navigatori_class_verazzano", "rank": 3 },
+              { "name": "it_cruiser_etna_class", "rank": 3 },
+              { "name": "it_cruiser_bartolomeocolleoni_1940", "rank": 3 }
+            ],
+            [
+              {
+                "name": "it_destroyer_leone_class_tigre",
+                "rank": 3,
+                "reqAir": ""
+              }
+            ],
+            [
+              {
+                "name": "it_destroyer_soldati_serie1",
+                "rank": 3,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true,
+                "event": "summer_2021"
+              },
+              {
+                "name": "it_destroyer_soldati_serie1_geniere",
+                "rank": 3,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true
+              }
+            ]
+          ]
+        },
+        {
+          "rank": 4,
+          "range": [
+            [{ "name": "it_cruiser_trento", "rank": 4 }],
+            [
+              { "name": "it_cruiser_montecuccoli", "rank": 4 },
+              { "name": "it_cruiser_eugenio_di_savoia", "rank": 4 }
+            ],
+            [{ "name": "it_cruiser_zara_class_pola", "rank": 4, "reqAir": "" }],
+            []
+          ]
+        },
+        {
+          "rank": 5,
+          "range": [
+            [
+              { "name": "it_cruiser_zara_class", "rank": 5 },
+              { "name": "it_battleship_dante_alighieri", "rank": 5 }
+            ],
+            [
+              { "name": "it_cruiser_garibaldi_class_abruzzi", "rank": 5 },
+              { "name": "it_battleship_andrea_doria", "rank": 5 },
+              { "name": "it_battleship_caio_duilio", "rank": 5 }
+            ],
+            [],
+            []
+          ]
+        }
+      ]
+    },
+    "boat": {
+      "col_normal": 2,
+      "min_rank": 1,
+      "max_rank": 5,
+      "needVehicles": [3, 3, 3, 3],
+      "range": [
+        {
+          "rank": 1,
+          "range": [
+            [
+              { "name": "it_mas_classe500_3_1944", "rank": 1 },
+              { "name": "it_vas_baglietto_68t_1serie", "rank": 1 }
+            ],
+            [{ "name": "it_mas_classe500_3", "rank": 1 }],
+            [{ "name": "it_mas_classe500_4", "rank": 1, "reqAir": "" }],
+            []
+          ]
+        },
+        {
+          "rank": 2,
+          "range": [
+            [
+              { "name": "it_ms15_1a", "rank": 2 },
+              { "name": "it_mas_stefano_turr", "rank": 2 }
+            ],
+            [{ "name": "it_ms53_2a", "rank": 2 }],
+            [],
+            []
+          ]
+        },
+        {
+          "rank": 3,
+          "range": [
+            [
+              { "name": "it_a1_vosper", "rank": 3 },
+              { "name": "it_ms473_2a", "rank": 3 }
+            ],
+            [{ "name": "it_ms471_1a", "rank": 3 }],
+            [],
+            []
+          ]
+        },
+        {
+          "rank": 4,
+          "range": [
+            [{ "name": "it_mc490_folgore", "rank": 4 }],
+            [
+              { "name": "it_ms473_2a_art", "rank": 4 },
+              { "name": "it_gabbiano_class", "rank": 4 }
+            ],
+            [
+              { "name": "it_p420_sparviero", "rank": 4, "reqAir": "" },
+              {
+                "name": "it_p493_freccia",
+                "rank": 4,
+                "reqAir": "",
+                "gift": true,
+                "hidden": true,
+                "event": "summer_2020"
+              }
+            ],
+            [{ "name": "it_gabbiano_class_c16", "rank": 4, "reqAir": "" }]
+          ]
+        },
+        {
+          "rank": 5,
+          "range": [
+            [{ "name": "it_p494_saetta", "rank": 5 }],
+            [{ "name": "it_albatros_class_f543", "rank": 5 }],
+            [],
+            []
+          ]
+        }
+      ]
     }
   },
   "country_france": {
@@ -6969,6 +8561,40 @@
             [{ "name": "mirage_2000d_r1", "rank": 8 }],
             [],
             []
+          ]
+        }
+      ]
+    },
+    "ship": {
+      "col_normal": 0,
+      "min_rank": 2,
+      "max_rank": 3,
+      "needVehicles": [2, 2, 2, 2],
+      "range": [
+        {
+          "rank": 2,
+          "range": [
+            [
+              {
+                "name": "fr_destroyer_aigle_class_aigle",
+                "rank": 2,
+                "reqAir": "",
+                "gift": true
+              }
+            ]
+          ]
+        },
+        {
+          "rank": 3,
+          "range": [
+            [
+              {
+                "name": "fr_cruiser_dugauy_class_dugauy_trouin",
+                "rank": 3,
+                "reqAir": "",
+                "gift": true
+              }
+            ]
           ]
         }
       ]

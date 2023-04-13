@@ -140,7 +140,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)}}
+{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)|Mk 77 mod 4 incendiary}}
 {{main|AIM-9G Sidewinder|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
@@ -153,12 +153,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 5 x 250 lb LDGP Mk 81 bombs (1,250 lb total)
 * 5 x 500 lb LDGP Mk 82 bombs (2,500 lb total)
 * 2 x 1,000 lb LDGP Mk 83 bombs (2,000 lb total)
+* 5 x Mk 77 mod 4 incendiary bombs
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_Harrier_GR.3.png]]</div>
+| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_Harrier_GR.3.png]]</div>
 |-
 ! 250 lb LDGP Mk 81 bombs
 | 1 || 1 || 1 || 1 || 1
@@ -168,6 +169,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |-
 ! 1,000 lb LDGP Mk 83 bombs
 | || 1 || || 1 ||
+|-
+! Mk 77 mod 4 incendiary bombs
+| 1 || 1 || 1 || 1 || 1
 |-
 ! FFAR Mighty Mouse rockets
 | 7, 19 || 7, 19 || || 7, 19 || 7, 19
@@ -226,13 +230,13 @@ Harrier can be used as a helicopter thanks to the VTOL capabilities, rockets are
 '''Pros:'''
 
 * Thrust vectoring capabilities, helpful in low-speed dogfights
-* Insane thrust-to-weight ratio; superb acceleration and climb rate, and can sustain Mach 0.88 in level flight with just 50% throttle 
+* Insane thrust-to-weight ratio; superb acceleration and climb rate, and can sustain Mach 0.88 in level flight with just 50% throttle
 * Excellent roll rate
-* Strong flaps 
+* Strong flaps
 * Versatile secondary weapons consisting of air-to-air missiles, rockets, and bombs
-* AIM-9G sidewinders are good long range missiles 
+* AIM-9G sidewinders are good long range missiles
 * Has a ballistic computer for precision strikes
-* 30 mm ADEN cannons do high damage 
+* 30 mm ADEN cannons do high damage
 * High ammo count for the cannons
 * Has a [[HUD#410SUM1|Head-Up Display]] in the cockpit which provides flight information and weapon-aiming functionality
 * Has a radar warning receiver and countermeasures

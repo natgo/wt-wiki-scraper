@@ -9,13 +9,14 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American bomber {{Battle-
 
 '''Ships that carry the SOC-1'''
 
-* [[USS Detroit]]
-* [[USS New Orleans]]
-* [[USS Northampton]]
-* [[USS Pensacola]]
-* [[USS Portland]]
-* [[USS Raleigh]]
-* [[USS Helena]]
+* {{Specs-Link|us_battleship_arizona_1931}}
+* {{Specs-Link|us_cruiser_omaha_class_detroit}}
+* {{Specs-Link|us_cruiser_brooklyn_class_helena}}
+* {{Specs-Link|us_cruiser_new_orleans_class}}
+* {{Specs-Link|us_cruiser_northampton_class}}
+* {{Specs-Link|us_cruiser_pensacola_class}}
+* {{Specs-Link|us_cruiser_portland_class}}
+* {{Specs-Link|us_cruiser_omaha_class_raleigh}}
 
 == General info ==
 === Flight performance ===

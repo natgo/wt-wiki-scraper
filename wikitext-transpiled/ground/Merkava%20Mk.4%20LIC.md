@@ -1,3 +1,8 @@
+{{About
+|about = Israeli medium tank '''{{PAGENAME}}'''
+|usage = other versions
+|link = Merkava (Family)
+}}
 {{Specs-Card
 |code=il_merkava_mk_4_lic
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}

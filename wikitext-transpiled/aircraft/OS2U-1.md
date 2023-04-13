@@ -15,13 +15,14 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} American hydroplane bomber {{B
 
 '''Ships that carry the OS2U-1 as a ship-launched reconnaissance aircraft'''
 
-* [[HMS Enterprise]]
-* [[USS Brooklyn]]
-* [[USS Cleveland]]
-* [[USS Trenton]]
-* [[USS Frank Knox]]
-* [[USS Baltimore]]
-* [[USS Alaska]]
+* {{Specs-Link|uk_cruiser_enterprise_d52}}
+* {{Specs-Link|us_battlecruiser_alaska_class}}
+* {{Specs-Link|us_cruiser_baltimore_class}}
+* {{Specs-Link|us_cruiser_brooklyn_class_brooklyn}}
+* {{Specs-Link|us_cruiser_cleveland_class_cleveland}}
+* {{Specs-Link|us_cruiser_fargo_class}}
+* {{Specs-Link|us_battleship_nevada}}
+* {{Specs-Link|us_cruiser_omaha_class_trenton}}
 
 == General info ==
 === Flight performance ===

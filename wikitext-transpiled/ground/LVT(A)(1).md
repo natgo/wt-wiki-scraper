@@ -117,6 +117,7 @@ Due to its big and tall tracks, the LVT can drive over some obstacles that are t
 | Coaxial || 3,000 (250) || 500 || N/A || N/A
 |-
 |}
+The M1919 machine guns are mostly an afterthought on the LVT. The rear machine gunners are exposed to bullets and are most likely the first knocked out in engagements. The bullets are only useful against some light tanks and open-topped vehicles. The LVT can double as an anti-aircraft platform as well, because the elevation on the coaxial and rear machine guns is better suited for this task.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

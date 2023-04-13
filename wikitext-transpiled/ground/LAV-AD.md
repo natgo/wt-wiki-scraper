@@ -180,45 +180,52 @@ The FIM-92E detonates on impact while the FIM-92K has a proximity fuse.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-In battles, the player can either use the LAV-AD as an AA or in an anti-tank role. By using the LAV's fast speed, the player can easily reach deep into enemy territory where enemies are less vigilant compared to when they're near the frontline. The player can use this advantage by either hiding and waiting for planes to be distracted on friendly tanks and shooting them down or used to attack unsuspecting SPAAs and IFVs/light tanks from mid range and then closing up close to killing MBTs, having the rocket pod unlocked makes quick work of enemy armour if you can get on their flanks additionally the LAV can be used a very good bait against the enemy to lure their concentration while you teammates may shoot the said tank.
+In battles, the player can either use the LAV-AD as an AA or in a limited anti-tank role. By using the LAV's fast speed, the player can easily reach deep into enemy territory where enemies are less vigilant compared to when they're near the frontline. The player can use this advantage by either hiding and waiting for planes to be distracted on friendly tanks and shooting them down or used to attack unsuspecting SPAAs and IFVs/light tanks from mid range and then closing up close to killing MBTs. The rocket pod makes quick work of enemy armour if you can get on their flanks. Additionally, the LAV's fast speed makes for a decent distraction against enemies while your teammates destroy them.
 
 '''Against Aircraft'''
 
-The LAV's stingers are decent but they are easy to notice and evade with their smoke trail, leading to the use of 2-3 Stingers to get a hit. While the gun has a fast rate of fire, it has a terrible drop over distance, meaning it is a bit harder to hit but you have a lead indicator upon locking on the aircraft. The best option is to lure the plane into thinking it is safe and engage it with the 25 mm gun under 3 km range to minimize the chance of survival and launch a Stinger at the plane if you did not fully kill it with the 25 mm.
+The LAV's Stinger SAMs are a mixed bag. The Stingers have a decent maximum range of around 6 km, and once launched, powerful IRCCM (InfraRed counter-counter measures) makes it difficult for flares or IRCM to distract the missile. However, it has a mere 10G overload, meaning even basic defensive manoeuvres may defeat the missile. Upon launching, a conspicuous smoke trail makes the missile as well as your own position easy to notice. In addition, a small warhead makes for unreliable damage; more survivable aircraft may need two or more hits to bring down.
+
+The Stinger's maximum range of around 6 km is usually sufficient to lock onto the hot engines of jet aircraft. It is useful against aircraft at 2-4 km altitude, where their manoeuvrability will be reduced, making it easier for the Stinger to hit. The Stinger is particularly useful against helicopters near the battlefield (1-3 km). Helicopters are slow and have a difficult time kinetically evading even the 10G Stinger, and the Stinger's IRCCM sees that IRCM and flares are useless against it. In an uptier, however, helicopters are actually the Stinger's worst nightmare. Helicopters do not have particularly hot engines, and with long-range air-to-ground missiles, the Stinger cannot even get a lock on helicopters at long ranges. In these cases, the LAV simply cannot do anything but hide from the helicopter.
+
+The LAV's 25 mm cannon is sufficient against close aircraft and helicopters. However, it has poor long range accuracy, and thus should only be used within a absolute maximum of 3 km.
 
 '''Against Tanks'''
 
-The LAV is mobile, outpacing most light tanks at its BR, and can use this to its advantage by reaching the enemy territory and flanking SPAAs and light tanks. Against MBTs, the LAV's 25 mm can penetrate the side armour of most MBTs, but the post-penetration damage is very weak. However, against Soviet armour, the LAVs struggles to penetrate the side armour. In such cases, bringing the 70 mm Hydra pod is a good choice. The LAV-AD can  knock out most MBTs with 2 HEAT grenades. Combined with its good mobility, the 70 mm Hydra make the LAV a beast if given a solid flank.
+The LAV is mobile, outpacing most light tanks at its BR, and can use this to its advantage by reaching the enemy territory and flanking SPAAs and light tanks. Against MBTs, the LAV's 25 mm cannon is insufficient to reliably penetrate any MBTs frontally. In addition, the 25 mm cannon has poor post-penetration damage against MBTs. Therefore, side shots are highly recommended to reliably penetrate them.
+
+If you find yourself in the unfortunate situation of facing an MBT head-on, aim for the gun mantlet. This will potentially damage their gun breech and/or cannon barrel and blind their gun sights with explosions. If you are lucky, these factors will have damaged their breech enough before they have a chance to fire, allowing you to then destroy the tracks and manoeuvre for a shot at the less protected side armour. However, considering the low post-penetration damage of the 25 mm gun, there is a very high chance you will simply be one-shot before you can do enough damage to the cannon, and therefore it is highly ill-advised to intentionally face an MBT head-on unless absolutely necessary.
+
+Though side shots are recommended against MBTs, depending on the angle, the 25 mm gun may not be enough to penetrate and/or deal sufficient damage. This is especially true against commonly-faced Soviet MBTs, which often have more armoured sides that the 25 mm gun struggles to penetrate. In such cases, bringing the 70 mm Hydra rocket pod is a good choice. With 290 mm of HEAT penetration, the LAV-AD can knock out many MBTs from the side with a few rockets. However, the rockets have low velocity and do not work with the laser rangefinder, making precise shots difficult, especially at range. And, despite the increased penetration over the 25 mm gun, is still insufficient to frontally penetrate MBTs. Therefore, the rockets should be fired at the sides of MBTs and at close ranges. Make sure to make your rocket shots count, as the pod only holds 19 rockets.
 
 '''Threats'''
 
-In the LAV-AD, anything above a 12.7 mm calibre poses a big threat to the player. In such cases, it is recommended to knock out the enemy vehicle with autocannons first as they can shred the LAV, Large calibre tank shells can overpenetrate the tank without detonating and therefore do minimal damage.
+In the LAV-AD, anything above a 12.7 mm calibre poses a big threat to the player. Therefore, the LAV's best defense is offense. You should aim to destroy enemy vehicles before they even have a chance to train any of their weapons (including heavy machine guns) on you. If taking hits cannot be avoided, your best bet is to first destroy autocannon-equipped vehicles that can shred the lightly armoured LAV (luckily, most autocannon-equipped vehicles are lightly armoured themselves and can be shredded by the LAV's 25 mm cannon or 70 mm Hydra 70 rockets). As for the main cannon of a MBT's, it's all down to luck; hope that the MBT either misses or the armor-piercing shell overpenetrates and deals no damage.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Has access to Hydra 70 rockets
-* The 25 mm GAU-12U cannon shreds any air vehicles in its range
-* The 25mm GAU-12U has no tracers making enemy planes/tanks harder to notice your location when firing
+* Has access to Hydra 70 rockets for additional anti-tank firepower
+* The 25 mm GAU-12U cannon shreds air vehicles
+* The 25 mm GAU-12U has no tracers making it harder for enemies to notice your location when firing
 * Highly mobile thanks to its light weight and is also amphibious
-* Can carry up to 16 SAMs if you choose to not have Hydras
+* Can carry up to 16 Stinger SAMs if you choose to not have Hydras
+* Stinger SAMs have IRCCM that make them practically immune to flares once launched
 * Has access to 2nd generation thermal sights for the gunner
-* Has optical tracking meaning air targets will not receive RWR pings when locked onto
+* Has optical tracking which does not trigger RWR
 * Comes with smoke grenades stock
-* Laser rangefinder automatically adjusts the sights
+* Access to laser rangefinder for the 25 mm gun
 * Not equipping Hydras enables the Stingers to be fired in relatively quick succession with no reload
-* Can fire Stingers while on the move
 
 '''Cons:'''
 
-* Stinger SAMs only have a maximum overload of 10G and has difficulty overcoming even basic defensive maneuvers 
+* Stinger SAMs only have a maximum overload of 10G and have difficulty overcoming even basic defensive manoeuvres
 * Long reload for the 25 mm gun
 * Bringing the Hydra rocket pod reduces the number of available Stingers and gives them a lengthy reload time after 4 have been launched
-* Penetrable by heavy machine gun fire and is prone to overpressure damage
+* Penetrable by heavy machine gun fire and prone to overpressure damage
 * Shorter missile range and lacks a search radar when compared to its contemporaries like the [[Roland 1]], [[FlaRakPz 1]], and [[XM975]] at the same BR
-* MAW detects missile launches and Stingers are prone to being diverted by flares
 * No proximity-fused ammunition
 * Hydra rockets are hard to aim due to their low velocity and do not work properly with the laser rangefinder
 * Low sight FOV and relatively high zoom levels makes it hard to use against multiple targets up close
@@ -236,6 +243,7 @@ Having reviewed both prototypes, the USMC decided to procure General Electric's 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_lav_ad Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

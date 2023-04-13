@@ -52,7 +52,13 @@ interface categorymemberspart {
 
 function cleanPages(output: categorymemberspart[]) {
   output.forEach((element, i, array) => {
-    if (element.pageid === 46 || element.pageid === 3378 || element.pageid === 66) {
+    if (
+      element.pageid === 46 ||
+      element.pageid === 3378 ||
+      element.pageid === 66 ||
+      element.pageid === 8019 ||
+      element.pageid === 3421
+    ) {
       array.splice(i, 1);
     }
   });
@@ -89,7 +95,7 @@ async function download(vehicles: categorymemberspart[], type: string) {
     const wikiresponse: parsedwikipage = await axios.get(
       wikiparsequery + `&pageid=${element.pageid}`,
     );
-    console.info(element.title);
+    //console.info(element.title);
     const out: modernparse = {
       title: response.data.parse.title,
       pageid: response.data.parse.pageid,
@@ -161,17 +167,22 @@ async function main() {
     "https://wiki.warthunder.com/api.php?action=query&list=categorymembers&cmtitle=Category%3AGround+vehicles&cmlimit=max&format=json&cmtype=page";
   const helicopterQuery =
     "https://wiki.warthunder.com/api.php?action=query&list=categorymembers&cmtitle=Category%3AHelicopters&cmlimit=max&format=json&cmtype=page";
+  const fleetQuery =
+    "https://wiki.warthunder.com/api.php?action=query&list=categorymembers&cmtitle=Category%3AFleet&cmlimit=max&format=json&cmtype=page";
 
   const aircraft = await getVehicles(airQuery);
   const ground = await getVehicles(groundQuery);
   const helicopter = await getVehicles(helicopterQuery);
+  const fleet = await getVehicles(fleetQuery);
 
-  //download all vehicle pages
+  // download all vehicle pages
   await download(aircraft, "aircraft");
   await download(ground, "ground");
   await download(helicopter, "helicopter");
+  await download(fleet, "fleet");
   console.info("Downloading Wikitexts");
 
+  // no boat?
   getTechTree();
   console.info("Downloading Techtrees");
 }

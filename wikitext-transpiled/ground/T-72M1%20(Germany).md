@@ -1,3 +1,8 @@
+{{About
+| about = medium tank '''{{PAGENAME}}'''
+| usage = other versions
+| link = T-72 (Family)
+}}
 {{Specs-Card
 |code=germ_kpz_t72m1
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -37,7 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-ra
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
 
-{{tankMobility}}
+{{tankMobility|abMinHp=1,209|rbMinHp=690}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -102,7 +107,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-ra
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Pintle || 300 (60) || 700 || -4°/+75° || ±180°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -111,7 +116,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-ra
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Coaxial || 2000 (250) || 700 || N/A || N/A
 |-
 |}
 
@@ -135,15 +140,17 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-ra
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_kpz_t72m1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+
+;Related development
+* [[T-72 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

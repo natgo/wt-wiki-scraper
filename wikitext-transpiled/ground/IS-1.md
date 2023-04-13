@@ -13,6 +13,8 @@ Operational and visual characteristics of the IS-1 retain the visual and operati
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
+The IS-1 has an excellent armour overall: its strong well sloped turret can bounce a few shells with an improved hull compared to the [[KV-85]]. The tank's heavy armour has similar properties of its previous KV-1 line, but the introduction of sloped armour on the front plate and turret mantlet can allow operators to withstand a significant amount of damage at most ranges, especially when armour is angled. The unique curvature of the upper front portion of hull armour can sometimes effectively bounce incoming shells from high penetrating cannons. It is a trait that remains in the IS-2 series. A huge and easy to hit weak spot is the commander's cupola that will easily knock out the turret crew if penetrated by APHE shells. It is impossible to angle the tank due to the unique curvature of the upper front portion of hull armour; while it serves to be an advantage when facing directly forward, any angling will be counterproductive, turning the upper front portion of the hull armour to a major weak spot. Taking too much ammunition will risk easy explosion from penetrating enemy shells due to the widespread storage of tank ammunition around the hull and in turret.
+
 '''Armour type:'''
 
 * Cast homogeneous armour (Front hull, Turret)
@@ -37,6 +39,7 @@ Operational and visual characteristics of the IS-1 retain the visual and operati
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
+The IS-1 has a good overall mobility and maneuverability for a heavy tank. Its respectable reverse speed allows for getting back to cover fast enough to avoid retaliatory fire. The mobility can be sluggish when attempting to turn or steer from previous stationary position, it is advised to build up speed first.
 
 {{tankMobility|abMinHp=671|abMaxHp=827|rbMinHp=460}}
 
@@ -49,6 +52,7 @@ Operational and visual characteristics of the IS-1 retain the visual and operati
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|D-5T (85 mm)}}
+The 85 mm D-5T is a very strong and potent cannon for this BR that can deal with a range of enemies with relative ease; careful aiming is required against Tiger Is and Panthers. The poor gun depression makes fighting in mountainous terrain very difficult.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -95,6 +99,7 @@ Operational and visual characteristics of the IS-1 retain the visual and operati
 {{Specs-Tank-Weapon|2}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|DT (7.62 mm)}}
+The IS-1 has no roof-mounted heavy machine gun lime they are found in later Soviet heavy tanks and SPGs to defend against incoming enemy aircraft. The only machine gun available is a 7.7 mm coaxial MG.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -109,7 +114,7 @@ Operational and visual characteristics of the IS-1 retain the visual and operati
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-As the tank's design purpose suggests, the IS-1 is a heavy tank built with an emphasis on engaging hostile armoured vehicles as well as a breakthrough tank. The tanks heavy armour has similar properties of its previous KV-1 line, but the introduction of sloped armour on the front plate and turret mantlet can allow operators to withstand a significant amount of damage at most ranges, especially when armour is angled. The fast reloads speed of the 85 mm gun (on par with its T-34 and KV-85 mounted sisters) also allows it to be an effective brawler in close quarters combat against multiple targets. When encountering better-protected targets, the IS tank (although equipped with the same type of cannon) has access to APCR rounds to better deal with heavier opponents, something the KV and T-34 models lack.
+As the tank's design purpose suggests, the IS-1 is a heavy tank built with an emphasis on engaging hostile armoured vehicles as well as a breakthrough tank. It has a relatively similar playstyle compared to the previous [[KV-85]] tank, reducing the learning curve. The fast reloads speed of the 85 mm gun (on par with its T-34 and KV-85 mounted sisters) also allows it to be an effective brawler in close quarters combat against multiple targets. When encountering better-protected targets, the IS tank (although equipped with the same type of cannon) has access to APCR rounds to better deal with heavier opponents, something the KV and T-34 models lack.
 
 Although classified as a heavy tank and an upgraded improved design over the KV predecessor, the tank is not invulnerable. The vehicle's armour thickness is quite effective in its class.  Unlike its Tiger rivals and KV predecessors, the IS-1 has better or equal thickness armour on almost all sides except the rear hull and is sloped increasing the chance of ricochet and damage reduction when struck. Of note is the large turret and exposed turret mount which is commonly targeted at engaging hostile vehicles from the front. Armaments and ammunition options aside, the IS tank can perform similarly if not better at engaging targets than the common T-34, albeit with more satisfactory armour protection, able to allow users to lead a charge from the front with relative confidence or provide fire support from the sides or rear. This tank is quite sufficient in holding its own on the battlefield in many situations where a lighter vehicle cannot.
 

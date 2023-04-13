@@ -152,6 +152,28 @@ For players more interested in unguided air-support, the {{PAGENAME}} doesn't di
 
 It is important to remember that the {{PAGENAME}} is incredibly vulnerable to SPAA when using the m/56D, as they require the {{PAGENAME}} to position itself close to the battlefield. And since the {{PAGENAME}} is one of the slowest jet-powered aircraft in the game, even machine-gun fire can prove lethal if the plane is flown carelessly. Sticking low to the ground and carefully observing opponents is a must if a pilot wants to make every rocket count.
 
+==== Custom loadout options ====
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! 30 mm Akan m/55 cannons (150 rpg)
+| || 1 || || || 1 ||
+|-
+! m/56D rockets
+| 2 || 2 || 2 || 2 || 2 || 2
+|-
+! psrak m/49/56 rockets
+| 1 || 1 || 1 || 1 || 1 || 1
+|-
+! Rb05A missiles
+| || 1 || || || 1 ||
+|-
+| colspan="7" | Maximum permissible weight imbalance: 450 kg
+|-
+|}
+
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 '''Air Realistic Battles'''

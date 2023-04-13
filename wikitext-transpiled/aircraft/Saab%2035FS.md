@@ -9,7 +9,8 @@
 |store=11813
 }}
 
-== Description ==<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
+== Description ==
+<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Swedish jet fighter {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
 
 == General info ==
@@ -42,7 +43,7 @@ The Saab J-35XS turns very fast, however turning too fast at lower speeds can al
 ! colspan="6" | Features
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
-|-	
+|-
 | X || X || X || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
@@ -117,6 +118,15 @@ The Saab J-35XS turns very fast, however turning too fast at lower speeds can al
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="4" | [[Ballistic Computer]]
+|-
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+|-
+| {{Tick}} || {{Tick}} || {{Cross}} || {{Cross}}
+|-
+|}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
@@ -131,17 +141,37 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.' -->
-{{main|RB24J|m/56D|Srak m/57B}}
+{{main|RB24|RB24J|m/56D|srak m/57B}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-* Without Load
-* 6 x RB24J air-to-air missiles
-* 76 x 7,5 cm srak m/57B rockets
+* Without load
+* 6 x RB24J missiles
 * 12 x m/56D rockets
-* 4 x RB24J air-to-air missiles + 76 x 7,5 cm srak m/57B rockets
-* 4 x RB24J air-to-air missiles + 12 x m/56D rockets
-* 2 x RB24J air-to-air missiles + 76 x 7,5 cm srak m/57B rockets + 8 x m/56D rockets
+* 76 x srak m/57B rockets
+* 4 x RB24J missiles + 76 x srak m/57B rockets
+* 4 x RB24J missiles + 12 x m/56D rockets
+* 2 x RB24J missiles + 8 x m/56D rockets + 76 x srak m/57B rockets
+
+==== Custom loadout options ====
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6 !! width="7%" | 7 !! width="7%" | 8
+| rowspan="5" width="20%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! m/56D rockets
+| 4, 6 || || || || || || || 4, 6
+|-
+! srak m/57B rockets
+| || 19 || || 19 || 19 || || 19 ||
+|-
+! RB24 missiles
+| 1 || || 1 || 1 || 1 || 1 || || 1
+|-
+! RB24J missiles
+| 1 || || 1 || 1 || 1 || 1 || || 1
+|-
+|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -151,7 +181,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
-'''Pros:''' 
+'''Pros:'''
 
 * Decent speed
 * Effective high calibre flares/chaffs

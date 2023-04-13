@@ -150,19 +150,26 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+During the mid-1950s, Israel was keen to procure new fighter jets as tensions were rising between Israel's Arab neighbors. Israel looked at multiple jets such as the F-86 and F-84 but those deals fell through due to Arab involvement. France was the only country willing to sell jets to Israel, so Israel made a deal with France to acquire multiple Mystere IIs and 15 Mystere IVAs in July of 1954. However, this deal fell through due to performance issues with the Mystere II and problems with the Mystere IVA delayed transfers to the IAF. Israel acquired 12 M.D. 450 Ouragans as a stop-gap until the Mystere IVA was ready.
+
+The Mystere IVA was sent to Israel in April of 1956 and replaced the Ouragan as a first-line fighter. This didn't stop the use of Ouragans during the Suez Crisis where the Ouragan acquired its first air kill against a Vampire and was used as a ground striker. The Ouragan proved to be a formidable ground striker due to its capable loadout of bombs and rockets. In one instance, the Egyptian destroyer, Ibrahim el Awal, sailed undetected to Israel's only seaport and began shelling the city of Haifa. 2 M.D. 450s were dispatched and they successfully disabled the ship, forcing its surrender. After the war, Israel obtained more Ouragans and continued using them as a ground attacker up until 1970 when the Ouragans were transferred for pilot training. In 1973, the Ouragans were phased out of service with 18 Ouragans being sold to the El Salvadorian Air Force. 
+
+The M.D. 450 Ouragan proved to be a very good asset in Israeli hands with multiple air-to-air kills, even downing a MiG-21, and very proficient in ground strikes. A high-ranking IAF official later said, "The Ouragan was a much better aeroplane than had been thought."
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=md_450b_ouragan_iaf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -171,6 +178,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[M.D.450B Ouragan]]
 * [[M.D.450B Barougan]]
 
@@ -179,6 +187,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

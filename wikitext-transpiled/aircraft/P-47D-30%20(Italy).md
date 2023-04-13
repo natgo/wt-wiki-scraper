@@ -1,3 +1,8 @@
+{{About
+|about = fighter '''{{PAGENAME}}'''
+|usage = other versions
+|link = P-47 (Family)
+}}
 {{Specs-Card
 |code=p-47d_30_italy
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -15,7 +20,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian fighter {{Battle-ratin
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
+! colspan="2" | Max speed<br>(km/h at 7,071 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -24,7 +29,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian fighter {{Battle-ratin
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
+| 689 || 673 || rowspan="2" | {{Specs|ceiling}} || 24.1 || 24.9 || 10.1 || 10.1 || rowspan="2" | 700
 |-
 ! Upgraded
 | ___ || ___ || __._ || __._ || __._ || __._
@@ -38,7 +43,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian fighter {{Battle-ratin
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| _ || _ || _ || _ || _     <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X     <!-- ✓ -->
 |-
 |}
 
@@ -104,14 +109,32 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
 
-'''Pros:'''
-*
+* Great bomber destroyer against a lone bomber
+* Excellent high altitude performance
+* If taken care of, can easily fly with one wing
+* Muscle car with wings, excellent at Boom and Zoom tactics
+* 8 M2 Browning machine guns are accurate at a longer range than most cannons at its BR
+* High speed, even while stock
+* Very durable which semi-compensates with its lacklustre turn rate
+* Plenty of ammo
+* Can easily escape enemies with its high speed for its rank
+* Great multirole aircraft, can carry various bombs and rockets, acting as an interceptor or ground-attack aircraft
 
 '''Cons:'''
-*
+
+* Frontal armour can easily be penetrated by 20 mm rounds
+* Can easily snap a wing when even the slightest gunfire hits it
+* Poor stall characteristics
+* Mediocre climb performance (side climbing recommended)
+* Slow and hard to manoeuvre at low altitudes
+* Larger than average fighter
+* Poor overall performance when mounting payloads
+* After attacking ground targets, the P-47 lacks the altitude to Boom & Zoom enemy fighters
+* Big engine easily hit during a head-on attack
+* Worse cockpit visibility than in the other bubble canopy P-47s
+* No armour protection for pilot from behind
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -125,16 +148,17 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+
+;Related development
+* [[P-47 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
-* ''topic on the official game forum;''
-* ''other literature.''
 
+* https://forum.warthunder.com/index.php?/topic/527988-republic-f-47d/
+* https://www.airhistory.net/photo/453449/MM4653
+
+{{AirManufacturer Republic}}
 {{Italy fighters}}

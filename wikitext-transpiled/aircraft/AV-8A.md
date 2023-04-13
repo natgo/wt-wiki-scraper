@@ -139,7 +139,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)}}
+{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)|Mk 77 mod 4 incendiary}}
 {{main|AIM-9G Sidewinder|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
@@ -152,13 +152,14 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 5 x 250 lb LDGP Mk 81 bombs (1,250 lb total)
 * 5 x 500 lb LDGP Mk 82 bombs (2,500 lb total)
 * 2 x 1,000 lb LDGP Mk 83 bombs (2,000 lb total)
+* 5 x Mk 77 mod 4 incendiary bombs
 * 240 x countermeasures
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_Harrier_GR.3.png]]</div>
+| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_Harrier_GR.3.png]]</div>
 |-
 ! 250 lb LDGP Mk 81 bombs
 | 1 || 1 || 1 || 1 || 1
@@ -168,6 +169,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |-
 ! 1,000 lb LDGP Mk 83 bombs
 | || 1 || || 1 ||
+|-
+! Mk 77 mod 4 incendiary bombs
+| 1 || 1 || 1 || 1 || 1
 |-
 ! FFAR Mighty Mouse rockets
 | 7, 19 || 7, 19 || || 7, 19 || 7, 19
@@ -223,7 +227,7 @@ AIM-9G are not recommended to be taken in Ground Realistic Battles as most of th
 '''Pros:'''
 
 * Thrust vectoring capabilities
-** Can be used during combat to temporarily boost turn rate 
+** Can be used during combat to temporarily boost turn rate
 ** Can land and rearm on the helicopter bases in combined battles
 * AIM-9Gs are potent missiles, having a max overload of 18G and a very long burn time
 * 22 different payload options, many of which are great for bombing
@@ -236,11 +240,11 @@ AIM-9G are not recommended to be taken in Ground Realistic Battles as most of th
 * Heavy airframe loses significant speed in turns
 * No Radar Warning Receiver
 * Only gets two air-to-air missiles at most
-* ADEN cannons have low velocity 
+* ADEN cannons have low velocity
 * Limited WEP and lack of afterburner
 * Engine overheats very quickly above 90% throttle
 * Using thrust vectoring in combat bleeds speed and leaves you vulnerable
-* Stiffens up in dives; this can be fatal during ground attack missions 
+* Stiffens up in dives; this can be fatal during ground attack missions
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

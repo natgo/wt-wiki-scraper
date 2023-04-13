@@ -231,6 +231,10 @@ The Type 75 has not yet participated in any combat operations during its service
 ;Skins
 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_75 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+{{Skin-gallery
+ |market|ugcitem_1000479|Type 75 SPH of the Fuji Artillery School Corps.png|Camo "Fuji Tank Instructor Corps"
+ |market|ugcitem_1001419|Type 75 SPH of the 7th Artillery Regiment.png|Camo "7th Artillery Regiment"
+}}
 
 ;Videos
 {{Youtube-gallery|ux3UJ8qg8Go|'''The Shooting Range #268''' - ''Round Study'' section at 06:45 compares the rounds of the {{PAGENAME}}.|e2VsOCEhzy4|'''The Shooting Range #170''' - ''Metal Beasts'' section at 00:32 discusses the Type 75 SPH.}}

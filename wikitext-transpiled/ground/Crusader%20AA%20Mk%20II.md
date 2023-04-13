@@ -103,6 +103,7 @@ Though the Crusader AA Mk.II was meant for SPAA, the twin 20 mm cannons mean thi
 Due to the heavy ammunition consumption as SPAA in AA fights, stay at "safe" capture points to get free ammunition to reload during battle.
 
 This vehicle has multiple uses depending on which type of ammunition is selected:
+
 * HET is recommended for destroying planes, but it would be impossible to destroy a tank with them. If such an encounter occurs, get out of the vicinity and do not draw the attention of tanks like the [[T-34-57]] or [[Tiger H1|Tiger]] will one shot this SPAA. When shooting planes try to aim for bombers and ground attack planes as they won't be able to outmanoeuvre the shots.
 * APT rounds gives a lot more choices. Though it is a Rank 3 vehicle, the low battle rating means it will be matched against Rank 2 opponents, many of which won't stand a chance if shot from the sides with APT. If in a higher rank battle (with opponents like the [[Panther D]] and the [[IS-1]]), this tactic will often not work. However, the Mark II can still tear apart tracks and gun barrels just as easily with the APT rounds.
 * As for the default belt, it is probably better off changing to prioritize HET or APT.
@@ -116,20 +117,16 @@ Due to the closed nature of the vehicle, the Crusader AA Mk.II doesn't need to w
 
 '''Pros:'''
 
-* Using [[Crusader Mk II]]'s chassis - fast with a low profile.
-* High fire rate and a quick reload.
-* Closed-top AAA - the crew is well protected from strafing planes.
-* Extremely dangerous for vehicles with the armour of 40 mm or less.
-* Rank III vehicle - suitable for completing missions for war bonds and events.
-* Lightly armoured vehicles like armoured cars, SPAA, and tank side armour can be an easy target to the rapid-fire 20 mm autocannons.
+* Using the [[Crusader Mk II]]'s chassis - fast with a low profile
+* High fire rate and a quick reload
+* Closed-top AAA - the crew is well protected from strafing planes
+* Lightly-armoured vehicles like armoured cars, SPAA, and tank side armour can be an easy target to the rapid-firing 20 mm autocannons
 
 '''Cons:'''
 
-* Limited ammo supply (can be a problem when losing on one point maps).
-* Essentially the armour of a Rank 1 tank.
-* Can only penetrate medium tanks like the Panzer IVs from the side at close range, any more armour will leave the SPAA armament useless.
-* Contemporary to the German [[Wirbelwind]], but with less firepower, less anti-tank ability, and less hull armour.
-* No improvement in firepower compared to the 20 mm Oerlikon cannons on the Armoured Car Mk.II AA.
+* Limited ammo supply can be a problem when no allied capture point is available
+* The armour is overall weak and the hull roof can be penetrated by aircraft cannons
+* Can only penetrate medium tanks like the Panzer IVs from the side at close range, any more armour will leave the SPAA armament useless
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -157,6 +154,7 @@ About 21 Crusaders still exist intact in various parts of the world. The most no
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_crusader_aa_mk_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -167,6 +165,7 @@ File:Crusader AA Mk II after shooting down a Ju-87.jpg|A Crusader shortly after 
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

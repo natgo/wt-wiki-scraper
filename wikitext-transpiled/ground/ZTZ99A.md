@@ -64,14 +64,14 @@ The new ZPT99A gun on ZTZ99A is similar to previous ZPT98 gun, both gun share ve
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[Type 99A (125 mm)|125 mm Type 99A]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[Type 99A (125 mm)|125 mm Type 99A]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 39 || rowspan="2" | -5°/+13° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 36.2 || 50.1 || 60.8 || 67.2 || 71.5 || rowspan="2" | 7.10 || rowspan="2" | 7.10 || rowspan="2" | 7.10 || rowspan="2" | 7.10
+| rowspan="2" | 39 || rowspan="2" | -5°/+13° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 36.2 || 50.1 || 60.8 || 67.2 || 71.5 || rowspan="2" | 7.10
 |-
 ! ''Realistic''
 | 22.6 || 26.6 || 32.3 || 35.7 || 38.0
@@ -127,7 +127,7 @@ Like its predecessors, to ensure the best survivability, only bring 23 shells at
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle || 600 (150) || 700 || -5°/+60° || ±180°
+| Pintle || 600 (150) || 600 || -6°/+85° || ±180°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -136,7 +136,7 @@ Like its predecessors, to ensure the best survivability, only bring 23 shells at
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 2,600 (200) || 801 || N/A || N/A
+| Coaxial || 2,600 (200) || 801 || - || -
 |-
 |}
 

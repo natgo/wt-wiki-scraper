@@ -41,7 +41,7 @@ The Khalid looks exactly like any other Chieftain plus a panoramic periscope wit
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 The Chieftain series are known for their rather sluggish mobility and top speed (at only 48 km/h), but in Khalid's case, since the export version for Chieftains opted for the latest Rolls-Royce (later Perkins) CV-12 engine and TN-34 transmission which would eventually used on FV4030 Challengers, this means a vastly improvement on its mobility; not only this can push the tank at a higher top speed at 56 km/h with higher acceleration, it also has a high reverse speed (at -37 km/h), making it surprisingly flexible for enemy encounters.
 
-{{tankMobility}}
+{{tankMobility|abMinHp=1,860|rbMinHp=1,061}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -105,26 +105,26 @@ Although smoke grenade launchers equip the Khalid to lay a protective smoke scre
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-{{main|L8A1 (7.62 mm)|L37A1 (7.62 mm)}}
+{{main|L8A2 (7.62 mm)|L37A2 (7.62 mm)}}
 
 A common feature for British tanks are their lack of high-calibre machine guns, Khalid also falls into this norm with only rifle-calibre machine guns for gun-ranging and handling infantry, only good for gunning down exposed crews or sometimes aircraft in rare occasions.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
-! colspan="5" | [[L8A1 (7.62 mm)|7.62 mm L8A1]]
+! colspan="5" | [[L8A2 (7.62 mm)|7.62 mm L8A2]]
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 6,000 (200) || 600 || N/A || N/A
+| Coaxial || 6,000 (200) || 600 || - || -
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
 |-
-! colspan="5" | [[L37A1 (7.62 mm)|7.62 mm L37A1]]
+! colspan="5" | [[L37A2 (7.62 mm)|7.62 mm L37A2]]
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle || 2,000 (100) || 650 || -10°/+50° || ±180°
+| Pintle || 2,000 (100) || 650 || -10°/+90° || ±180°
 |-
 |}
 

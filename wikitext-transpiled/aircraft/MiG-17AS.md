@@ -118,9 +118,12 @@ The MiG-17AS is powered by the Klimov VK-1 jet engine, the same as the engine fo
 [[File:MiG-17AS Armour Scheme.png|right|thumb|The armour plates on the {{PAGENAME}}.]]
 The {{PAGENAME}} armour around the pilot is a bit more substantial than that seen on F-86 Sabres. With a large 10 mm steel plate in the nose, this armour protects both the pilot and the fuel tank from any glancing frontal shots from going through and causing damage. A 60 mm bullet proof glass is also present in front of the pilot, which may also offer some ballistic protection against machine gun rounds. However, the glass and steel armour are not substantial enough to take a head-on attack from a similar aircraft, so don't use these as a safety net from head-on attacks. 16 mm steel plates cover the pilot's seat, which will protect the pilot against any glancing shots approaching from the rear, but it does not protect the fuel tank.
 
-The {{PAGENAME}} structure overall is minimal, with the a lot of empty spaces in the fuselage and tail, but the control surfaces all over are still vulnerable to being cut and driving the {{PAGENAME}} out of control. Although there are two self-sealing fuel tanks on the {{PAGENAME}}, the largest one is seated right behind the pilot and so can be prone to being hit. This means an enemy that misses an attempt at a pilot snipe can still have a chance of hitting the fuel tank and igniting it, causing crippling damages to the overall {{PAGENAME}} structure.
+The {{PAGENAME}} structure overall is minimal, with a lot of empty spaces in the fuselage and tail, but the control surfaces all over are still vulnerable to being cut and driving the {{PAGENAME}} out of control. Although there are two self-sealing fuel tanks on the {{PAGENAME}}, the largest one is seated right behind the pilot and so can be prone to being hit. This means an enemy that misses an attempt at a pilot snipe can still have a chance of hitting the fuel tank and igniting it, causing crippling damages to the overall {{PAGENAME}} structure.
 
 Like the MiG-15 before it, if the tail vertical stabilizer gets knocked off the plane, so are the elevators, leaving the aircraft helpless if not already determined a victory by the score system to the offending enemy.
+
+It is important to note that the MiG-17 does not take damage well. Damage to the fuselage, even if minimal, will significantly hamper performance in the speed and energy retention department. Any damage to the wings will cause the aircraft to roll to one side, impairing its ability to properly dogfight its opponents. Damage to the engine is also quite fatal. Though still flyable after light damage, it is recommended to return to base if damaged, as the aircraft loses its ability to dogfight completely.
+
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -140,6 +143,8 @@ The '''''{{PAGENAME}}''''' is armed with:
 The Nudelman N-37D was a 37 mm autocannon which replaced the Nudelman-Suranov NS-37 autocannons. The N-37D was 30% lighter than the NS-37, but to lighten the load, a sacrifice was made causing a 23% drop in muzzle velocity in comparison. Even with the loss of muzzle velocity, this autocannon can still fire at 400 rounds per minute which equates to just over six per second, emptying the belt in just over 7 seconds if the firing button is continuously held and the gun does not jam. The continuous fire of this weapon should not be attempted as only one or two rounds is enough to take down the largest of aircraft, though a dodging fighter may take a few more rounds before one connects.
 
 The Nudelman-Rikhter NR-23 was a 23 mm autocannon which was widely used on many Soviet aircraft. The NR-23 has a faster muzzle velocity over the N-37D by 200 m/s, firing them at the same time will not result in them landing in the same place as the N-37D will begin to drop sooner. Firing at around 900 rounds per minute, the NR-23 can unload a good amount of ammunition downrange, however, with a limited supply of only 80 rounds per gun, it is best to fire in small bursts when the pilot has a good gun solution. Firing in "hopes" to hit the target will result in many missed and wasted shots and may very well cause the {{PAGENAME}} to go dry just when those rounds are needed the most.
+
+Though the combination of the aforementioned cannons can pack quite a punch, the low accuracy, low muzzle velocity, low ammo count, and odd placement makes them quite difficult to aim. It is recommended to set the weapon convergence to 400 m since the guns will not reliably reach any farther than that. Some may also find it helpful to toggle on vertical convergence, due to the high drop these autocannons have. Currently, the recommended ammo belts are armoured targets for both of the cannons, since the high explosive shells lack damage.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -167,7 +172,7 @@ The MiG-17AS has much better high-altitude flight characteristics most planes at
 
 This vehicle performs much better in vertical manoeuvres than many other aircraft, and such manoeuvres may be employed to cause an enemy aircraft to stall, giving the player an easy kill. But make sure that there are no other enemies nearby before attempting a low-speed stall manoeuvre.
 
-The engine also gives this vehicle very good energy retention and a high climb rate. However, the plane begins to compress at high speeds, and aiming may become difficult. Watch out for this during diving attacks.
+The engine also gives this vehicle very good energy retention and a high climb rate. However, the plane begins to compress at high speeds, and aiming may become difficult. To avoid compression of the control surfaces, it is advisable to put the aircraft in a slight climb (~10°) when at higher speeds (>700 km/h ias) in order to build up an energy advantage while remaining manouverable.
 
 So, this plane is well-suited for medium-speed dogfights, where it can utilise its energy retention and good turn rate against enemy aircraft. In addition, luring enemies to slow speeds will allow the MiG-17AS's air-to-air missiles to better track and destroy them. (In practically all other cases, the poor-tracking missiles will struggle to keep up with a fast-moving, turning enemy.)
 
@@ -176,7 +181,9 @@ As for cannon armament, the MiG-17AS has three high-calibre cannons. This may so
 ==== Against ground targets ====
 The MiG-17AS has the option to mount 2 x 250 kg bombs. However, these bombs considerably harm the vehicle's flight performance, and have quite low destructive power. Using them against armoured ground targets is often difficult.
 
-In most cases, a better option is to use the 2 x S-21 air-to-ground rockets available to this aircraft. These each contain a very good 9.95 kg of TNT, and may be fired separately. They also have quite respectable penetration, and will be able to penetrate the roof armour of many of the tanks that this vehicle might face in ground RB. They also have a decent velocity, and are easier to aim than bombs.
+In most cases, a better option is to use the 2 x S-21 air-to-ground rockets available to this aircraft. These each contain a very good 9.95 kg of TNT, and may be fired separately. They also have quite respectable penetration and will be able to penetrate the roof armour of many of the tanks that this vehicle might face in ground RB. They also have a decent velocity and are easier to aim than bombs.
+
+Although the MiG-17AS has some ground attack capabilities, the MiG-17 is by no means a viable CAS aircraft and it is recommended to use it as an air-superiority fighter rather than ground attack.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -189,6 +196,7 @@ In most cases, a better option is to use the 2 x S-21 air-to-ground rockets avai
 * Better high-speed manoeuvrability than the MiG-15
 * Doesn't rip its wings easily
 * Good top speed, especially in a dive
+* Flaps are very effective in low-speed fights
 
 '''Cons:'''
 
@@ -198,6 +206,7 @@ In most cases, a better option is to use the 2 x S-21 air-to-ground rockets avai
 * Armament difficult to use (low velocities, low ammo and two different trajectories)
 * Guns tend to spark a lot (the N-37 in particular), especially with stock belts
 * Tail hangs very close to the ground. Along with the pelvic fin, this can make takeoff trickier if the pilot is careless.
+* Engine will begin to overheat when flying above 96% throttle, though rarely gets to dangerous levels if managed correctly
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -214,6 +223,7 @@ The change in the shape of the wing led to appropriate changes in the constructi
 ;Skins
 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mig-17_cuba Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://trade.gaijin.net/?n=ugcitem_1001121&viewitem=&a=1067 "MiG-17AS Kinel-Cherkassk Aviation Training Center" skin in the Gaijin Market]
 
 ;Videos
 {{Youtube-gallery|SA65YXTKyBU|'''Should You Buy The MiG 17 AS''' - ''Sako Sniper''|hPPDvFNbbR0|'''Mig-17AS - So Good, Even I got An Ace In It''' - ''Napalmratte''|fCSKtDYDAYk|'''War Thunder Sim - MiG-17AS - Missile Armed MiG17''' - ''Spicysauced'' (Part starts at 6:16)}}

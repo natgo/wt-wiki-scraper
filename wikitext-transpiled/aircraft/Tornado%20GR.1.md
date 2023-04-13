@@ -76,34 +76,34 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Batt
 {| class="wikitable" style="text-align:center"
 |-
 ! colspan="3" | Engine
-! colspan="7" | Aircraft mass
+! colspan="6" | Aircraft mass
 |-
 ! colspan="2" | Engine name || Number
-! colspan="3" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="4" | Wing loading (full internal fuel)
+! colspan="3" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full internal fuel)
 |-
 | colspan="2" | Turbo-Union RB199-34R Mk.101 || 2
-| colspan="3" | 14,309 kg || colspan="4" | 634 kg/m<sup>2</sup>
+| colspan="3" | 14,309 kg || colspan="3" | 634 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="5" | Mass with internal fuel (no weapons load or external fuel) || rowspan="2" | Max Takeoff<br>Weight
+! colspan="5" | Mass with internal fuel (no weapons load or external fuel) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
 ! 17m fuel || 20m fuel || 30m fuel || 45m fuel || 58m fuel
 |-
-| 2,200 kg || colspan="2" | Afterburning low-bypass turbofan
-| 15,801 kg || 16,064 kg || 16,942 kg || 18,258 kg || 19,399 kg || 27,200 kg
+| 968 kg || colspan="2" | Afterburning low-bypass turbofan
+| 15,836 kg || 16,054 kg || 16,926 kg || 18,234 kg || 19,399 kg || 25,910 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
 ! colspan="6" | Thrust to weight ratio @ 0 m (WEP)
 |-
 ! Condition || 100% || WEP
-! 17m fuel || 20m fuel || 30m fuel || 45m fuel || 58m fuel || MTOW
+! 17m fuel || 20m fuel || 30m fuel || 45m fuel || 58m fuel || MGW
 |-
 | ''Stationary'' || 3,633 kgf || 7,015 kgf
-| 0.89 || 0.87 || 0.83 || 0.77 || 0.72 || 0.52
+| 0.89 || 0.87 || 0.83 || 0.77 || 0.72 || 0.54
 |-
 | ''Optimal'' || 4,032 kgf<br>(1,400 km/h) || 7,845 kgf<br>(1,400 km/h)
-| 0.99 || 0.98 || 0.93 || 0.86 || 0.81 || 0.58
+| 0.99 || 0.98 || 0.93 || 0.86 || 0.81 || 0.61
 |-
 |}
 
@@ -147,6 +147,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x AIM-9L Sidewinder missiles
 * 4 x 546 kg Mk.13 bombs (2,184 kg total)
 * 1 x 2,000 lb GBU-24 Paveway III bomb (2,000 lb total)
+* 4 x 1,000 lb H.E. M.C. Mk.13 bombs (4,000 lb total)
 * 7 x 1,000 lb H.E. M.C. Mk.13 bombs (7,000 lb total)
 * 7 x 1,000 lb LDGP Mk 83 bombs (7,000 lb total)
 * 12 x 1,000 lb H.E. M.C. Mk.13 bombs (12,000 lb total)
@@ -187,7 +188,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-There are multiple ways to use the Tornado in ARB, one tactic is to stick to the team and try and give support with your AIM-9Ls on your way to the enemy bases and/or ground targets. This gives you the advantage of team cover and a bit of safety, although you will undoubtedly be in the midst of battle once enemy interceptors and fighters reach your team. The other tactic would be to go full throttle directly to the enemy bases while keeping extremely low to the ground to decrease your chances of being spotted visually or by radar. While this leaves you mostly alone and isolated from the possible support of your team, you will be able to take a more direct route to your main target, meaning you'll be able to evade any slower or unsuspecting enemies. Taking an active role in air-to-air combat is not advised, as the Tornado's flight performance is not suited to it and you'll most likely be shot down very quickly. So keep in mind that although the Tornado is fast, its not very manoeuvrable at high speed so try to avoid faster enemies such as the [[F-16 (Family)|F-16]] or the [[F-14A Early|F-14]]. In the case of 1-to-1 confrontation the best option is to simply hope you are faster and run away, against capable fighters like the MiG-23, F-16, MiG-29, Viggen, F-14, and Mirage 2000 you don't stand a chance, unless the enemy pilot is extremely inexperienced. With countermeasures you are able to survive for longer if you can time their use and can dodge without losing too much of your speed. In GRB you can easily pick off enemy SPAA once you have unlocked your laser guided bombs, so try to fly as high as possibile. If you only have dumb bombs you're going to need to stick to the ground as much as possibile to avoid enemy AA, you can't linger too much on the battlefield or else the enemy team will begin to prioratise you as a target. You also need to be very weary of what type of enemy air has been spawned in, if you focus too much on ground vehicles you become easy pickings for any enemy aircraft which can take advantage of you not realising they're there. In conclusion, play a reserved role and only engage when you think its clear.  
+There are multiple ways to use the Tornado in ARB, one tactic is to stick to the team and try and give support with your AIM-9Ls on your way to the enemy bases and/or ground targets. This gives you the advantage of team cover and a bit of safety, although you will undoubtedly be in the midst of battle once enemy interceptors and fighters reach your team. The other tactic would be to go full throttle directly to the enemy bases while keeping extremely low to the ground to decrease your chances of being spotted visually or by radar. While this leaves you mostly alone and isolated from the possible support of your team, you will be able to take a more direct route to your main target, meaning you'll be able to evade any slower or unsuspecting enemies. Taking an active role in air-to-air combat is not advised, as the Tornado's flight performance is not suited to it and you'll most likely be shot down very quickly. So keep in mind that although the Tornado is fast, its not very manoeuvrable at high speed so try to avoid faster enemies such as the [[F-16 (Family)|F-16]] or the [[F-14A Early|F-14]]. In the case of 1-to-1 confrontation the best option is to simply hope you are faster and run away, against capable fighters like the MiG-23, F-16, MiG-29, Viggen, F-14, and Mirage 2000 you don't stand a chance, unless the enemy pilot is extremely inexperienced. With countermeasures you are able to survive for longer if you can time their use and can dodge without losing too much of your speed. In GRB you can easily pick off enemy SPAA once you have unlocked your laser guided bombs, so try to fly as high as possibile. If you only have dumb bombs you're going to need to stick to the ground as much as possibile to avoid enemy AA, you can't linger too much on the battlefield or else the enemy team will begin to prioratise you as a target. You also need to be very weary of what type of enemy air has been spawned in, if you focus too much on ground vehicles you become easy pickings for any enemy aircraft which can take advantage of you not realising they're there. In conclusion, play a reserved role and only engage when you think its clear.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

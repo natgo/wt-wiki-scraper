@@ -97,6 +97,8 @@ async function main() {
   imageLoop(final.aircraft);
   imageLoop(final.ground);
   imageLoop(final.helicopter);
+  imageLoop(final.ship);
+  imageLoop(final.boat);
 }
 
 main();

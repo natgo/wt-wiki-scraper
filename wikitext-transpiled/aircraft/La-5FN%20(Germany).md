@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} German fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27 as an in-game premium vehicle purchasable with Golden Eagles {{ge}}, but was removed from in-game sale during the [https://forum.warthunder.com/index.php?/topic/529689-planned-economy-changes-in-july-2021 July 2021 Economy Update].
+The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} German fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27 as an in-game premium vehicle purchasable with Golden Eagles {{ge}}, but was removed from in-game sale during the [https://forum.warthunder.com/index.php?/topic/529689-planned-economy-changes-in-july-2021 July 2021 Economy Update]. It has since been made available for purchase with Golden Eagles {{ge}} during the [[wt:en/news/8161-special-first-flight-of-the-la-5-en|2023 "First Flight of the La-5"]] flash sale.
 
 == General info ==
 === Flight performance ===
@@ -165,7 +165,7 @@ Some enemies to be considered:
 '''Cons:'''
 
 * Engine asphyxiates at high altitudes
-* Only two cannons can is inadequate against heavier fighters and bombers
+* Only two cannons can be inadequate against heavier fighters and bombers
 * Lower dive speed compared to contemporaries
 * Rudder locks up above 500 km/h IAS, which will sometimes lead to a crash especially in low altitude dives
 
@@ -190,6 +190,7 @@ In April 1943 a serial La-5FN was flight tested in mock combat against a capture
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=la-5fn_luftwaffe Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -201,6 +202,7 @@ In April 1943 a serial La-5FN was flight tested in mock combat against a capture
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other German-captured Soviet aircraft
+
 * [[IL-2 (1942) (Germany)]]
 * [[Yak-1B (Germany)]]
 

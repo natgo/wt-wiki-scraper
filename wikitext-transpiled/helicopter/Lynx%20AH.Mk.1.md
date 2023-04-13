@@ -69,32 +69,51 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AGM-114B Hellfire|ATAS (AIM-92)|BGM-71C Improved TOW|BGM-71D TOW-2|Hydra-70 M247}}
-{{main|Oerlikon KAD-B (20 mm)}}
+{{main|AGM-114B Hellfire|ATAS (AIM-92)|BGM-71C Improved TOW|BGM-71D TOW-2}}
+{{main|Hydra-70 M247|Oerlikon KAD-B (20 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 * 1 x 20 mm Oerlikon KAD-B cannon (570 rpg) + 38 x Hydra-70 M247 rockets
-* 1 x 20 mm Oerlikon KAD-B cannon + 4 x BGM-71C Improved TOW missiles
-* 1 x 20 mm Oerlikon KAD-B cannon + 4 x BGM-71D TOW-2 missiles
-* 1 x 20 mm Oerlikon KAD-B cannon + 8 x BGM-71C Improved TOW missiles
+* 4 x ATAS (AIM-92) missiles
+* 38 x Hydra-70 M247 rockets
+* 2 x BGM-71C Improved TOW missiles
+* 4 x BGM-71C Improved TOW missiles
+* 8 x BGM-71C Improved TOW missiles
+* 4 x BGM-71D TOW-2 missiles
+* 8 x BGM-71D TOW-2 missiles
+* 4 x AGM-114B Hellfire missiles
+* 8 x AGM-114B Hellfire missiles
+* 1 x 20 mm Oerlikon KAD-B cannon
 * 1 x 20 mm Oerlikon KAD-B cannon + 8 x BGM-71D TOW-2 missiles
-* 1 x 20 mm Oerlikon KAD-B cannon + 4 x AGM-114B Hellfire missiles
-* 1 x 20 mm Oerlikon KAD-B cannon + 8 x AGM-114B Hellfire missiles
-* 1 x 20 mm Oerlikon KAD-B cannon + 2 x ATAS (AIM-92) missiles + 38 x Hydra-70 M247 rockets
-* 1 x 20 mm Oerlikon KAD-B cannon + 2 x ATAS (AIM-92) missiles + 4 x BGM-71C Improved TOW missiles
-* 1 x 20 mm Oerlikon KAD-B cannon + 2 x ATAS (AIM-92) missiles + 4 x BGM-71D TOW-2 missiles
-* 1 x 20 mm Oerlikon KAD-B cannon + 2 x ATAS (AIM-92) missiles + 8 x BGM-71C Improved TOW missiles
-* 1 x 20 mm Oerlikon KAD-B cannon + 2 x ATAS (AIM-92) missiles + 8 x BGM-71D TOW-2 missiles
-* 1 x 20 mm Oerlikon KAD-B cannon + 2 x ATAS (AIM-92) missiles + 4 x AGM-114B Hellfire missiles
-* 1 x 20 mm Oerlikon KAD-B cannon + 2 x ATAS (AIM-92) missiles + 8 x AGM-114B Hellfire missiles
-* 4 x ATAS (AIM-92) missiles + 38 x Hydra-70 M247 rockets
-* 4 x ATAS (AIM-92) missiles + 4 x BGM-71C Improved TOW missiles
-* 4 x ATAS (AIM-92) missiles + 4 x BGM-71D TOW-2 missiles
-* 4 x ATAS (AIM-92) missiles + 8 x BGM-71C Improved TOW missiles
-* 4 x ATAS (AIM-92) missiles + 8 x BGM-71D TOW-2 missiles
-* 4 x ATAS (AIM-92) missiles + 4 x AGM-114B Hellfire missiles
-* 4 x ATAS (AIM-92) missiles + 8 x AGM-114B Hellfire missiles
+
+==== Custom loadout options ====
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_G-LYNX.png]]</div>
+|-
+! 20 mm Oerlikon KAD-B cannons (570 rpg)
+| || || 1 ||
+|-
+! Hydra-70 M247 rockets
+| 19 || || || 19
+|-
+! AGM-114B Hellfire missiles
+| 2, 4 || || || 2, 4
+|-
+! ATAS (AIM-92) missiles
+| || 2 || 2 ||
+|-
+! BGM-71C Improved TOW missiles
+| 2, 4 || || || 2, 4
+|-
+! BGM-71D TOW-2 missiles
+| 2, 4 || || || 2, 4
+|-
+| colspan="5" | Maximum permissible weight imbalance: 200 kg
+|-
+|}
 
 '''20 mm Oerlikon KAD-B cannon:'''
 
@@ -102,7 +121,7 @@ The 20 mm cannon on the Lynx is adequate for its uses, it can take an air target
 
 '''ATAS (AIM-92) missile:'''
 
-The Lynx can carry 2-4 Stingers depending on the pilot's preference (the second pair replaces the autocannon). The AIM-92 is similar to the FIM-92 found on the LAV-AD in the american tech tree but as an air-to-air variant. The missile is all-aspect and has some ECCM capabilities, however in most weather conditions it only boasts a maximum range of 5 km or even 3.5 km at worst, which may be too close for comfort for some pilots when it concerns jets. 
+The Lynx can carry 2-4 Stingers depending on the pilot's preference (the second pair replaces the autocannon). The AIM-92 is similar to the FIM-92 found on the LAV-AD in the american tech tree but as an air-to-air variant. The missile is all-aspect and has some ECCM capabilities, however in most weather conditions it only boasts a maximum range of 5 km or even 3.5 km at worst, which may be too close for comfort for some pilots when it concerns jets.
 
 The missile only possesses up to 10G of overload which can be insufficient against aircraft who are actively paying attention to the actions of the Lynx. To minimize the amount of fuel the missile wastes during launch and increase hit chance tenfold it is necessary to perform a short 90 degree roll into enemy movement direction to change inertia vector of the helicopter to that of the enemy, but in doing so pilot wastes precious time which could be spent avoiding attacks.
 

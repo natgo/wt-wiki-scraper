@@ -1,0 +1,122 @@
+{{Specs-Card
+|code=germ_destroyer_class1934a_1944
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+}}
+
+== Description ==
+<!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} German destroyer {{Battle-rating}}. It was introduced in [[Update 1.93 "Shark Attack"]].
+
+== General info ==
+=== Survivability and armour ===
+{{Specs-Fleet-Armour}}
+<!-- ''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.'' -->
+Similar to other destroyers at its rank, the Type 1934A (1944) has very little armour to shield itself from incoming fire except from small-calibre machine guns. However, the ship is quite survivable thanks to its 8-section hull and high crew count. This allows the Type 1934A (1944) to last longer in a trading firefight.
+
+=== Mobility ===
+{{Specs-Fleet-Mobility}}
+<!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
+
+{{NavalMobility
+|SpeedForwardStockAB = 63
+|SpeedBackStockAB = 23
+|TurnTimeStockAB = 128.6
+|TurnSpeedStockAB = 44
+}}
+
+The Type 1934A (1944) is fast and manoeuvrable, which can help the ship to survive longer via evasive manoeuvring.
+
+=== Modifications and economy ===
+{{Specs-Economy}}
+
+== Armament ==
+{{Specs-Fleet-Armaments}}
+=== Primary armament ===
+{{Specs-Fleet-Primary}}
+<!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
+{{main|SK C/34 (127 mm)}}
+
+Similar to most German destroyers prior to rank III, the Type 1934A (1944) is equipped with basic 127 mm naval cannons, two at the front of the ship and the other two at the back. These cannons' damage per shot is not bad against targets at its BR range, but not that good either, requiring you to hit the enemy several times (usually 20 - 30 hits for destroyers) to sink them (thus somewhat inadequate at long ranges due to lack of stopping power). Fortunately, the gun has a very good reload time of just 4 seconds with ace crew, coupled with good shell velocity and accuracy. This makes the Type 1934A (1944) capable of continuously lobbing its shells into its target within a mid-to-close range (within 7 kilometres) into submission.
+
+{{:SK C/34 (127 mm)/Ammunition|12.7 cm Sprgr. L/4.4 Kpf.Z, 12.7 cm Sprgr. L/4.4 Bd.Z, 12.7 cm Sprgr. L/4.4 Zt.Z}}
+
+=== Secondary armament ===
+{{Specs-Fleet-Secondary}}
+<!-- ''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.'' -->
+{{main|FlaK-Lafette LM/42 (37 mm)}}
+
+The secondary battery consists of seven dual 37 mm AA gun mounts (14 barrels total), two at the bridge, two at the second smokestack and three on the aft of the ship before the rear two turrets. These guns provide deadly firepower at close range against destroyers and coastal vessels, and good anti-air coverage.
+
+* '''Universal:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}
+* '''37 mm HE clips:''' {{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}
+* '''37 mm APT clips:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}
+
+{{:FlaK-Lafette LM/42 (37 mm)/Ammunition|HEF-I, AP-T}}
+
+=== Anti-aircraft armament ===
+{{Specs-Fleet-AA}}
+<!-- ''An important part of the ship's armament responsible for air defence. Anti-aircraft armament is defined by the weapon chosen with the control <code>Select anti-aircraft weapons</code>. Talk about the ship's anti-air cannons and machine guns, the number of guns and their positions, their effective range, and about their overall effectiveness – including against surface targets. If there are no anti-aircraft armaments, remove this section.'' -->
+{{main|2 cm/65 C/30 (20 mm)|2 cm/65 Flakvierling 38 (20 mm)}}
+
+In addition, the Type 1934A (1944) also features two twin 20 mm anti-aircraft mounts, one at the bow and the other at the rear compartment.
+
+=== Additional armament ===
+{{Specs-Fleet-Additional}}
+<!-- ''Describe the available additional armaments of the ship: depth charges, mines, torpedoes. Talk about their positions, available ammunition and launch features such as dead zones of torpedoes. If there is no additional armament, remove this section.'' -->
+{{main|G7a (533 mm)|WBG depth charge}}
+
+As with other German destroyers, the Type 1934A (1944) comes equipped with G7a torpedoes in two quadruple launchers. These torpedoes remain very deadly against any target the ship may face.
+
+== Usage in battles ==
+<!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
+The Type 1934A (1944) is a potent support and brawling ship that excels at mid-to-close range combat. Although its 127 mm guns is somewhat inadequate against long-range targets, it is quite deadly at closer range thanks to its rapid rate of fire and good accuracy. This allows the ship to pick off important modules on the enemy ships (turrets, engines, bridge) and slowly killing them.
+
+To complement its primary armament, the Type 1934A (1944) is also equipped with fourteen 37 mm guns as secondary armaments. These guns are very useful for occasionally setting enemy ships on fire, depleting the crew, and finishing them off. This gun is also useful for anti-air purposes, although it's advised to man the guns yourself when an enemy plane is getting close.
+
+Due to its gun placement, the Type 1934A is able to aim and shoot two main guns with greater accuracy and still pack enough firepower to pick off critical modules, moving in this position can make the ship more survivable, since not only the ship's profile is much smaller and harder to hit when bow on, this also prevent most enemies from damaging its unprotected engines and transmission.
+
+=== Pros and cons ===
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+
+'''Pros:'''
+
+* High survivability due to high crew count and section layout
+* Good top speed and agility
+* Main guns is very accurate and has very good rate of fire
+* Powerful secondary armaments
+* Good anti-air coverage
+* Equipped with deadly G7a torpedoes
+
+'''Cons:'''
+
+* Average (but adequate) damage per shot for its BR
+* Lacks armour to shield off small-calibre cannons at close range
+* Engines and transmissions is exposed to any incoming shots from the sides
+
+== History ==
+''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+
+== Media ==
+<!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Skins
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_destroyer_class1934a_1944 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+== See also ==
+<!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+* ''reference to the series of the ship;''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;[[Type 1934A (Family)|Related development]]
+
+* [[Z12 Erich Giese]] - a Type 1934A-class prior refit
+
+== External links ==
+<!-- ''Paste links to sources and external resources, such as:''
+* ''topic on the official game forum;''
+* ''other literature.'' -->
+
+* [[Wikipedia:German_destroyer_Z15_Erich_Steinbrinck|[Wikipedia] German destroyer Z15 Erich Steinbrinck]]
+
+{{Germany destroyers}}

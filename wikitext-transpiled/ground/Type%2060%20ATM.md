@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.67 "Assault"]].
+The '''{{Specs|name}}''' is a missile-armed APC to motorize Japan's new development in anti-tank measures, the [[Type 64 MAT]] which was armed on a multitude of vehicles including the '''Type 60 APC'''.
 
-Alongside its tank-destroying role, the {{PAGENAME}} can also function as a "light tank" being able to scout enemies and assist in repairing teammates, just like [[Type 60 SPRG (C)]].
+The Type 60 ATM was introduced in [[Update 1.67 "Assault"]]. It comes with plenty of disadvantages to work with, offering only an APC as non-existent armour, missiles that fly by wire and swap vehicle control to missile control and a very slow speed due to only being a gen 1 missile. However, this can be turned into an advantage considering the missiles fly in an upwards arc, allowing the APC to hide behind solid cover, and the speed can be used to maneuver around or over obstacles.
 
 == General info ==
 === Survivability and armour ===

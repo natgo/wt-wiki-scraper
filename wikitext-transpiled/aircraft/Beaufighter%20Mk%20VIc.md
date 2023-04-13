@@ -149,6 +149,8 @@ It's a heavy fighter that does not lack in firepower, equipped with four 20 mm [
 
 Enemies to be aware of are nimble fighters like [[Bf 109 (Family)|Bf 109s]] and [[Yak-9 (Family)|Yak-9s]] which are nimble and fast fighters to engage the Beaufighter Mk VIc.
 
+The aircraft can also be used to support ground units in combined battles, as it gains access to two 250 or 500 pound bombs. The 500 pound bombs are recommended in all cases, as the 250 pounders only have 51 kg explosive mass, compared to the 128.9 kg in the 500 pound bombs. While this can dispatch armoured targets, it requires the pilot to land the bomb within 4 meters of enemy tanks to even have a chance of destruction. Additionally the Beaufighter Mk VIc has access to fire extinguishers for the engines, which can be extremely helpful in the contested environment found in ground battles. This can help extinguish engine fires which would have normally destroyed the aircraft, allowing pilots to limp back to base on only one engine.
+
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
 |-

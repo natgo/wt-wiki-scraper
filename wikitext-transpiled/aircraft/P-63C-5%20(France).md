@@ -104,12 +104,13 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M64A1 (500 lb)}}
+{{main|AN-M64A1 (500 lb)|Mk 78 incendiary}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * Without load
 * 3 x 500 lb AN-M64A1 bombs (1,500 lb total)
+* 3 x Mk 78 incendiary bombs
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

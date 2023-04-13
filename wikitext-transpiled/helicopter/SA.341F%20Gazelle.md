@@ -52,13 +52,12 @@ Has no armour plating present on the vehicle, this helicopter is incredibly vuln
 === Offensive armament ===
 {{Specs-Heli-Offensive}}
 <!-- ''Describe the offensive armament of the helicopter, if any. Describe how effective the cannons and machine guns are in battle, also what ammunition belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-{{main|GIAT M.621 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
 * A choice between two presets:
 ** Without offensive armament
-** 1 x 20 mm GIAT M.621 cannon (1,000 rpg) + 32 x countermeasures
+** 32 x countermeasures
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
@@ -67,10 +66,10 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* 1 x 20 mm GIAT M.621 cannon (1,000 rpg) + 7 x FFAR Mighty Mouse rockets
-* 1 x 20 mm GIAT M.621 cannon (1,000 rpg) + 2 x HOT-1 missiles
-* 1 x 20 mm GIAT M.621 cannon (1,000 rpg) + 2 x HOT-2 TOW missiles
-* 1 x 20 mm GIAT M.621 cannon (1,000 rpg) + 2 x Mistral missiles
+* 1 x 20 mm GIAT M.621 cannon (240 rpg) + 7 x FFAR Mighty Mouse rockets
+* 1 x 20 mm GIAT M.621 cannon + 2 x HOT-1 missiles
+* 1 x 20 mm GIAT M.621 cannon + 2 x HOT-2 TOW missiles
+* 1 x 20 mm GIAT M.621 cannon + 2 x Mistral missiles
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

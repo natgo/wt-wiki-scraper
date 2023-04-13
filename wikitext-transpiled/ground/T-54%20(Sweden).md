@@ -26,9 +26,9 @@ The armour of the T-54 leaves nothing to be desired except for the hull armour. 
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 100 mm (60°) ''Front glacis'' <br> 100 mm (54°) ''Lower glacis'' || 80 mm || 45 mm (16°) ''Upper'' <br> 30 mm (72°) ''Lower'' || 30 mm ''Front'' <br> 20 mm ''Back''
+| Hull || 100 mm (60°) ''Front glacis'' <br> 100 mm (54°) ''Lower glacis'' || 80 mm || 45 mm (16°) ''Upper'' <br> 30 mm (72°) ''Lower'' || 30 mm ''Front'' <br> 20 mm ''Back''
 |-
-| Turret ||160 mm (14-39°) ''Turret front'' <br> 200 mm (4-78°) ''Gun mantlet'' || 115 mm (45-50°) ''Upper'' <br> 155 mm (10-30°) ''Lower'' || 65 mm (9-35°) || 30 mm
+| Turret ||160 mm (14-39°) ''Turret front'' <br> 200 mm (4-78°) ''Gun mantlet'' || 115 mm (45-50°) ''Upper'' <br> 155 mm (10-30°) ''Lower'' || 65 mm (9-35°) || 30 mm
 |-
 |}
 
@@ -63,10 +63,10 @@ The T-54 has access to the powerful D-10T. As seen in prior vehicles and other v
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 34 || rowspan="2" | -4°/+17° || rowspan="2" | ±180° || rowspan="2" | N/A ||9.52||13.18||16.00||17.69||18.82|| rowspan="2" |11.05|| rowspan="2" |9.78|| rowspan="2" |9.01|| rowspan="2" |8.50
+| rowspan="2" | 34 || rowspan="2" | -4°/+17° || rowspan="2" | ±180° || rowspan="2" | - || 9.5 || 13.2 || 16.0 || 17.7 || 18.8 || rowspan="2" | 11.05 || rowspan="2" | 9.78 || rowspan="2" | 9.01 || rowspan="2" | 8.50
 |-
 ! ''Realistic''
-|5.95||7.00||8.50||9.40||10.00
+| 5.9 || 7.0 || 8.5 || 9.4 || 10.0
 |-
 |}
 
@@ -87,7 +87,7 @@ The T-54 has access to the powerful D-10T. As seen in prior vehicles and other v
 ! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-|'''34'''||33 ''(+1)''||28 ''(+6)''||24 ''(+10)''||23 ''(+11)''||21 ''(+13)''||1 ''(+33)''||No
+| '''34''' || 33&nbsp;''(+1)'' || 28&nbsp;''(+6)'' || 24&nbsp;''(+10)'' || 23&nbsp;''(+11)'' || 21&nbsp;''(+13)'' || 1&nbsp;''(+33)'' || No
 |-
 |}
 
@@ -97,15 +97,13 @@ The T-54 has access to the powerful D-10T. As seen in prior vehicles and other v
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|DShK (12.7 mm)|SGMT (7.62 mm)}}
 
-''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.''
-
 {| class="wikitable" style="text-align:center" width="50%"
 |-
 ! colspan="5" | [[DShK (12.7 mm)|12.7 mm DShK]]
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-|Pintle||250 (50)||600||-10°/+60°||±180°
+| Pintle || 250 (50) || 600 || -4°/+82° || ±180°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -114,7 +112,7 @@ The T-54 has access to the powerful D-10T. As seen in prior vehicles and other v
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-|Coaxial||3,500 (250)||600||N/A||N/A
+| Coaxial || 3,500 (250) || 600 || - || -
 |-
 |}
 

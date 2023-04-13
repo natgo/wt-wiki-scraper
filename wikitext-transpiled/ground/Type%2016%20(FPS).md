@@ -1,43 +1,53 @@
+{{About
+| about = Japanese premium light tank '''{{PAGENAME}}'''
+| usage = other versions
+| link = Type 16 (Family)
+}}
 {{Specs-Card
 |code=jp_type_16_mod
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage_{{PAGENAME}}_005.jpg}}
+|store=12047
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Japanese light tank {{Battle-rating}}. It was introduced in [[Update "Sky Guardians"]].
+The '''{{Specs|name}}''' is an early production model of the [[Type 16]] which belongs to the 14th Brigade, 15th Rapid Deployment Regiment, 1st 16 MCV company.
+
+Introduced in [[Update "Sky Guardians"]] as a pack premium, it comes with the same shells and gameplay as the [[Type 16 (P)]], and the armour of the [[Type 16]]. Being a fast, wheeled vehicle, it can traverse the map at high speeds, using Gen 3 thermals with a laser rangefinder to acquire targets on the fly making quick work on flanks and long range. The Type 16 also provides a laser warning system, which can be used to evade long-range shots if the driver responds to it with the mobility the Type 16 offers on top of smoke grenades which can be used to hide from helicopters.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
 
-'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
-<!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
-* Cast homogeneous armour (Turret, Transmission area) -->
+'''Armour type:'''
+
+* Rolled homogeneous armour
+* Composite screen (hull sides and turret front)
+* Wheel (tires)
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 20 mm (80°) ''Upper glacis'' <br> 5 + 150 + 35 mm (45°) ''Lower front plate'' || 15 mm ''Top'' <br> 10 mm ''Bottom'' || 20 mm (9°) || 5 - 20 mm
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+| Turret || 5 - 25 mm ''Turret front'' <br> 5 mm (61°) ''Spaced armour'' <br> 20 mm (65°) ''Gun mantlet'' || 25 mm <br> 5 mm (25°-38°) ''Spaced armour'' || 15 mm || 5 - 25 mm
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Cupola || 25 mm (0°-13°) || 25 mm || 25 mm || 5 mm ''Commander hatch'' <br> 25 mm ''Outer ring''
 |-
 |}
+'''Notes:'''
 
-'''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
-<!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+* Wheels and torsion bars are 10 mm thick.
+* Belly armour is 15 mm thick.
+* Turret composite screen is 200 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
 
-{{tankMobility}}
+{{tankMobility|abMinHp=883|rbMinHp=504}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -49,8 +59,6 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Japanese light ta
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|JSW (105 mm)}}
 
-''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.''
-
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! colspan="5" | [[JSW (105 mm)|105 mm JSW]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
@@ -60,10 +68,10 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Japanese light ta
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 40 || rowspan="2" | -6°/+15° || rowspan="2" | ±180° || rowspan="2" | Two-plane || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 40 || rowspan="2" | -6°/+15° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 28.6 || 39.5 || 48.0 || 53.1 || 56.5 || rowspan="2" | 8.71 || rowspan="2" | 7.70 || rowspan="2" | 7.10 || rowspan="2" | 6.70
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 17.9 || 21.0 || 25.5 || 28.2 || 30.0
 |-
 |}
 
@@ -71,22 +79,23 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Japanese light ta
 {{:JSW (105 mm)/Ammunition|Type 91, Type 75, M735, M416}}
 
 ==== [[Ammo racks]] ====
-<!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
-<!-- '''Last updated:''' -->
+[[File:Ammoracks_Type 16.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.15.1.70''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
 ! 1st<br>rack empty
 ! 2nd<br>rack empty
-! 3rd<br>rack empty
-! 4th<br>rack empty
-! 5th<br>rack empty
-! 6th<br>rack empty
+! 3rd<br>rack empty*
+! 4th<br>rack empty*
 ! Visual<br>discrepancy
 |-
-| '''40''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''40''' || 25&nbsp;''(+15)'' || 16&nbsp;''(+24)'' || 8&nbsp;''(+32)'' || 1&nbsp;''(+39)'' || No
 |-
 |}
+'''Note''':
+
+* The 3rd and 4th racks serve as first-stage ammo stowage.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
@@ -94,15 +103,13 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Japanese light ta
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|M2HB (12.7 mm)|Type 74 (7.62 mm)}}
 
-''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.''
-
 {| class="wikitable" style="text-align:center" width="50%"
 |-
 ! colspan="5" | [[M2HB (12.7 mm)|12.7 mm M2HB]]
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Pintle || 1,000 (200) || 577 || -8°/+60° || ±120°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -111,7 +118,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Japanese light ta
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Coaxial || 3,000 (250) || 701 || N/A || N/A
 |-
 |}
 
@@ -124,9 +131,11 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Japanese light ta
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
@@ -141,18 +150,27 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Japanese light ta
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related Development
+* [[Type 16 (P)]] - <sub>Prototype</sub>
+* [[Type 16]] - <sub>Main Production</sub>
+
+;Other {{Annotation|MCV|Maneuver Combat Vehicle}}/{{Annotation|MGS|Mobile Gun Systems}}:
+
+* [[File:Italy_flag.png|20px|link=]] [[Centauro (Family)]]
+* [[File:South Africa_flag.png|20px|link=]] [[Rooikat (Family)]]
+* [[File:FRG_flag.png|20px|link=]] [[Radkampfwagen 90]]
+* [[File:USA_flag.png|20px|link=]] [[M1128]]
+* [[File:France_flag.png|20px|link=]] [[AMX-10RC]]
+* [[File:China_flag.png|20px|link=]] [[ZLT11]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
-* ''topic on the official game forum;''
-* ''other literature.''
 
+* [[wt:en/news/8101-development-pre-order-type-16-fps-wheeled-spg-en|[Devblog] Pre-order: Type 16 (FPS) wheeled SPG]]
+
+{{Manufacturer MHI}}
 {{Japan light tanks}}
 {{Japan premium ground vehicles}}
 [[Category:Wheeled ground vehicles]]

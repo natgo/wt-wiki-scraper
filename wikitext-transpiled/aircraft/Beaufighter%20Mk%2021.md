@@ -125,9 +125,11 @@ The '''''{{PAGENAME}}''''' is defended by:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The final Beaufighter in the research tree can be characterized primarily by its main armament.  In its BR there's barely anything that comes close to the combination of 4 x 20mm cannons and 4 x 12.7 mm machine guns, especially considering the superior layout of the cannons, with all four clustered right under the cockpit, making precise aiming far easier. If there's anything to be desired - it's the Minengeschoß of the [[M3 (20 mm)|German counterpart]] for the 20 mm cannons. This Beaufighter can swiftly tear apart enemy fighters and bombers alike, typically in a single sweep if aimed accurately. This makes it a potent fighter in a number of circumstances and giving it a fighting chance even if its an underdog in the encounter.
+The final Beaufighter in the research tree can be characterized primarily by its main armament.  At its BR in air battles there's barely anything that comes close to the firepower 4 x 20mm cannons and 4 x 12.7 mm machine guns provide; this is especially notable considering the superior layout of the cannons, with all four clustered right under the cockpit, making precise aiming far easier. If there's anything to be desired - it's the Minengeschoß of the [[M3 (20 mm)|German counterpart]] for the 20 mm cannons. This Beaufighter can swiftly tear apart enemy fighters and bombers alike, typically in a single sweep if aimed accurately. This makes it a potent fighter in a number of circumstances and giving it a fighting chance even if its an underdog in the encounter.
 
 In Arcade Battles, the most favorable encounters are against unsuspecting targets, and ideally, only such should be picked, preferably diving in and out of the main battle, or picking off strugglers nearby. Good survivability, combined with outstanding firepower allows it to quickly take the enemies down before they manage to react. What should be avoided at all costs are turn fights or prolonged chases. Mk 21 neither has speed nor a turning rate to stand a chance against anything but bombers or other heavy fighters. Similarly fighting against high-altitude fighters (such as the [[Fw 190 A-4]]) might be extremely problematic due to their superior climb rate, which will give them the energy advantage, and through that - an opportunity to easily outfly you at any given time.
+
+Similar to the earlier [[Beaufighter Mk X]], the Beaufighter Mk 21 can serve in a close air support role in ground battles, utilizing the same loadouts as its predecessor. These include both bombs and rockets, with four 250 or 500 pound bombs or two 1000 pounders being the typical bomb loadouts. While the 1000 pound bombs are certainly the most effective at taking out heavy enemy armour, in most cases the four 500 pound bombs will have a greater impact on the battle, as this will provide pilots more opportunities to execute successful runs on enemy targets. The RP-3 rockets can also be used, but their small warheads in combination but the low accuracy caused by the large wingspan makes them less ideal for this role. They can be useful to pilots who are familiar with the ballistics in dispatching enemy anti-aircraft, since most are open and vulnerable to even the splash of the smaller warheads. The engines having access to fire extinguishers also helps in this case, as it provides extra survivability to pilots attacking these dangerous targets.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -154,7 +156,7 @@ In Arcade Battles, the most favorable encounters are against unsuspecting target
 * Powerful offensive armament
 * Fairly rugged aircraft that can survive a fair share of damage
 * Radial engines don't overheat easily
-* Can carry rockets for the ground attack role
+* Can carry rockets and bombs for the ground attack role
 * Fuselage-mounted cannons assist in accuracy
 * Crew is well protected against attacks from behind
 

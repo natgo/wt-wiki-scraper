@@ -164,12 +164,14 @@ The '''''{{PAGENAME}}''''' is defended by:
 * Does not have a ventral gunner, making it vulnerable to attacks from under
 
 == History ==
-''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/ History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+<!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/ History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
+Final evolution of the Bloch MB.170 line, the MB.175T is a 1947 adaptation for torpedo bombing purposes. It served with the Aéronavale (French naval aviation) until 1950. <ref>[[wikipedia:Bloch_MB.170#Operational_history|[Wikipedia] Bloch MB.170 - Operational history]]</ref>
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mb_175t Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -177,6 +179,7 @@ The '''''{{PAGENAME}}''''' is defended by:
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -186,6 +189,9 @@ The '''''{{PAGENAME}}''''' is defended by:
 * ''other literature.''-->
 
 * [https://forum.warthunder.com/index.php?/topic/430078-bloch-mb175-t/ Official data sheet - more details about the performance]
+
+=== References ===
+<references/>
 
 {{AirManufacturer Dassault}}
 {{France bombers}}

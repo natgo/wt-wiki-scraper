@@ -9,9 +9,10 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet bomber {{Battle-ra
 
 '''Ships that carry the KOR-1'''
 
-* [[Kirov]]
-* [[Voroshilov]]
-* [[Maxim Gorky]]
+* {{Specs-Link|ussr_cruiser_kirov}}
+* {{Specs-Link|ussr_battlecruiser_kronshtadt}}
+* {{Specs-Link|ussr_cruiser_maxim_gorky}}
+* {{Specs-Link|ussr_cruiser_voroshilov}}
 
 == General info ==
 === Flight performance ===

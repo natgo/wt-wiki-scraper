@@ -160,7 +160,7 @@ The TOW-2B is a researchable modification. Unlike the TOW-2, the 2B has the abil
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 1,200 (200) || 1,200 || N/A || N/A
+| Coaxial || 1,200 (200) || 801 || N/A || N/A
 |-
 |}
 

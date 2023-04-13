@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian medium tank {{Battle-rating}}. It was introduced in [[Update 1.89 "Imperial Navy"]]. The C1 Ariete is one of the MBT players unlock before researching the Ariete AMV PT1. The C1 Ariete was developed by OTO Melara during the late cold war to allow the Italian army to equip itself with a modern tank which could easily deal with Yugoslav and Warsaw pact tanks. This Italian MBT is one of the staple tanks that you can add to your lineup, the key differences when compared to the C1 Ariete Preserie include better armour in the form of the unlockable WAR kit, better optics which include gen 2 commander and gunner thermals and lastly better firepower which includes the DM53 APFSDS round. Its a great MBT when used by players who can work around its weaknesses, mobility is also not bad which means you will easily be able to keep up with the majority of your teamates in battle. 
+The C1 Ariete is one of the MBT players unlock before researching the Ariete AMV PT1. The C1 Ariete was developed by OTO Melara during the late cold war to allow the Italian army to equip itself with a modern tank which could easily deal with Yugoslav and Warsaw pact tanks. This Italian MBT introduced during the [[Update 1.89 "Imperial Navy"|1.89 "Imperial Navy" update]] is one of the staple tanks that you can add to your lineup, the key differences when compared to the C1 Ariete Preserie include better armour in the form of the unlockable WAR kit, better optics which include gen 2 commander and gunner thermals and lastly better firepower which includes the DM53 APFSDS round. Its a great MBT when used by players who can work around its weaknesses, mobility is also not bad which means you will easily be able to keep up with the majority of your teamates in battle. 
 
 == General info ==
 === Survivability and armour ===
@@ -126,11 +126,11 @@ Notes:
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 4,600 (200) || 1,200 || N/A || N/A
+| Coaxial || 4,600 (200) || 801 || N/A || N/A
 |-
-| Pintle (Commander) - R || 2,000 (200) || 1,200 || -8°/+60° || ±120°
+| Pintle (Commander) - R || 2,000 (200) || 801 || -8°/+60° || ±120°
 |-
-| Pintle (Loader) - L || 2,000 (200) || 1,200 || -8°/+60° || ±120°
+| Pintle (Loader) - L || 2,000 (200) || 801 || -8°/+60° || ±120°
 |-
 |}
 
@@ -187,14 +187,15 @@ Currently there are 3 known upgrades to the C1 Ariete armour, one of which was f
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* [[Ariete AMV]]
+* [[Ariete PSO]]
+* [[Ariete (P)]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+* https://forum.warthunder.com/index.php?/topic/413416-carro-armato-ariete-c1/
+* https://forum.warthunder.com/index.php?/topic/454340-add-on-armor-modification-for-production-c1-ariete/
 
 {{TankManufacturer OTO Melara}}
 {{Italy medium tanks}}

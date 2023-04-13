@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese medium tank {{Battle-rating}}. It was introduced along with the initial Japanese Ground Forces tree in [[Update 1.65 "Way of the Samurai"]].
+The '''{{Specs|name}}''' was the 2nd prototype towards the [[Type 61]], starting to resemble the tank more and more with the main difference over the [[ST-A1]] being the design of the hull. Offering the same engine, overall weight, and cannon, other than design differences, the ST-A2 is a very similar vehicle.
 
-It is a sidegrade to [[ST-A1]], which takes sniping duty as its main work while neglecting most of the other roles. One can literally treat them as the same tank, but they have some minor quality of life differences, which will be mentioned here.
+It was introduced along with the initial Japanese Ground Forces tree in [[Update 1.65 "Way of the Samurai"]]. It is more of a sidegrade to the [[ST-A1]], which takes sniping duty as its main work while neglecting most of the other roles. One can treat them as the same tank, but they have some minor quality of life differences.
 
 == General info ==
 === Survivability and armour ===

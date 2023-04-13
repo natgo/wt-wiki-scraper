@@ -81,7 +81,7 @@ The 100 mm PTP-86 smoothbore gun found on this vehicle was a improvement on the 
 |}
 
 ==== Ammunition ====
-{{:PTP86 (100 mm)/Ammunition|1-72-85 APDS-FS, 1-71-74 HE, Type 1973 HEAT-FS, DYW PT86-100}}
+{{:PTP86 (100 mm)/Ammunition|Type 71 APDS-FS, Type 71 HE, Type 1973 HEAT-FS, DYW PT86-100}}
 
 The PTL02 has a similar ammunition selection as the [[Type 69]], with the exception of the DYW PT86-100 APFSDS round. The stock 1-72-85 APFSDS with 220 mm of flat penetration at 10 m is worse than many AP/APHE rounds. The low penetration will not impact gameplay a lot if you are in a downtier or facing opponents of equal battle-rating. Common Cold War vehicles such as the [[Leopard 1 (Family)|Leopard 1]], [[OF-40 (Family)|OF-40]], [[Centauro (Family)|Centauro]], etc. are all weakly armoured and will easily get penetrated. However against heavy tanks like the [[Maus]], [[M103]], [[T-10A|T-10]], etc. this APFSDS will struggle even when hitting their weak spots. It also suffers noticeable drop-off at long distances. 1-72-85 does have a few good qualities: it has a good muzzle velocity of 1,505 m/s and the angled penetration is decent considering the flat penetration, topping out at 127 mm @ 60 degrees. For comparison, the [[T-55A]]'s 3BM25 APFSDS round has far superior flat penetration (up to 335 mm) but only has slightly higher angled penetration (up to 129 mm @ 60 degrees). 1-72-85 penetrates sloped armour more effectively than flat armour, rather like long rod APFSDS rounds. The post-penetration damage is nothing to write home about but still workable. Spalling is poor, but the round tends to stay intact after penetration and is quite good at detonating ammo racks and knocking out crew members if they are in the line of fire. Memorize the module layouts of enemy tanks to efficiently cripple and destroy them as the PTL02 cannot withstand return fire.
 
@@ -127,7 +127,7 @@ The 7.62 mm MG, on the other hand, is only useful in clearing obstacles such as 
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle || 600 (150) || 700 || -5°/+60° || ±180°
+| Pintle || 600 (150) || 600 || -6°/+85° || ±180°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -136,7 +136,7 @@ The 7.62 mm MG, on the other hand, is only useful in clearing obstacles such as 
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 1,000 (250) || 700 || N/A || N/A
+| Coaxial || 1,000 (250) || 700 || - || -
 |-
 |}
 

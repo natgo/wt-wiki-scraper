@@ -921,7 +921,11 @@
     { "intname": "jp_type_74_mod_g_kai", "wikiname": "Type 74 (G)" },
     { "intname": "jp_type_97_kai_td", "wikiname": "Chi-Ha Kai TD" },
     { "intname": "jp_type_3_ka_chi", "wikiname": "Ka-Chi" },
-    { "intname": "jp_type_16_mod", "wikiname": "Type 16 (FPS)" },
+    {
+      "intname": "jp_type_16_mod",
+      "wikiname": "Type 16 (FPS)",
+      "store": "12047"
+    },
     { "intname": "cn_m8_greyhound", "wikiname": "M8 LAC (China)" },
     { "intname": "cn_m3a3_stuart", "wikiname": "M3A3 Stuart (China)" },
     { "intname": "cn_m5a1_stuart", "wikiname": "M5A1 (China)" },
@@ -1469,7 +1473,7 @@
     { "intname": "a_10a_early", "wikiname": "A-10A", "store": "10896" },
     { "intname": "f-5c", "wikiname": "F-5C", "store": "10174" },
     { "intname": "a_6e_tram", "wikiname": "A-6E TRAM", "store": "11805" },
-    { "intname": "f-4s", "wikiname": "F-4S Phantom II" },
+    { "intname": "f-4s", "wikiname": "F-4S Phantom II", "store": "12048" },
     { "intname": "ucav_mq_1_predator", "wikiname": "MQ-1" },
     {
       "intname": "p-26a_34",
@@ -2808,5 +2812,590 @@
     { "intname": "ah_64d_i_saraph", "wikiname": "Saraph" },
     { "intname": "md_500_tow_late", "wikiname": "Lahatut" },
     { "intname": "ah_64a_peten_iaf", "wikiname": "AH-64A Peten (Israel)" }
+  ],
+  "ships": [
+    {
+      "intname": "us_destroyer_clemson_litchfield",
+      "wikiname": "USS Mitscher"
+    },
+    { "intname": "us_destroyer_farragut_1942", "wikiname": "USS Baltimore" },
+    { "intname": "us_destroyer_sumner", "wikiname": "USS Trenton" },
+    { "intname": "us_destroyer_somers", "wikiname": "USS Sumner" },
+    {
+      "intname": "us_cruiser_omaha_class_trenton",
+      "wikiname": "USS Tucumcari"
+    },
+    { "intname": "us_cruiser_atlanta_class_atlanta", "wikiname": "USS Aylwin" },
+    {
+      "intname": "us_cruiser_cleveland_class_cleveland",
+      "wikiname": "USS Cowell"
+    },
+    { "intname": "us_cruiser_fargo_class", "wikiname": "USS Fletcher" },
+    {
+      "intname": "us_cruiser_brooklyn_class_brooklyn",
+      "wikiname": "USS Candid"
+    },
+    {
+      "intname": "us_cruiser_baltimore_class_pittsburgh",
+      "wikiname": "USS Porter"
+    },
+    { "intname": "us_battlecruiser_alaska_class", "wikiname": "USS Arizona" },
+    { "intname": "us_destroyer_clemson_barker", "wikiname": "USS Bennion" },
+    { "intname": "us_destroyer_fletcher", "wikiname": "USS Frank Knox" },
+    { "intname": "us_destroyer_porter_1941", "wikiname": "USS Portland" },
+    { "intname": "us_cruiser_omaha_class_raleigh", "wikiname": "USS Somers" },
+    { "intname": "us_cruiser_portland_class", "wikiname": "USS Raleigh" },
+    { "intname": "us_cruiser_pensacola_class", "wikiname": "USS Phelps" },
+    { "intname": "us_battleship_wyoming_class", "wikiname": "V-990" },
+    { "intname": "us_battleship_nevada", "wikiname": "USS New Orleans" },
+    { "intname": "us_battleship_arizona_1931", "wikiname": "USS Asheville" },
+    { "intname": "us_destroyer_mitscher", "wikiname": "USS Moffett" },
+    { "intname": "us_destroyer_gearing", "wikiname": "USS Helena" },
+    { "intname": "us_cruiser_northampton_class", "wikiname": "USS Pensacola" },
+    {
+      "intname": "us_cruiser_new_orleans_class",
+      "wikiname": "USS Newport News"
+    },
+    { "intname": "us_battleship_north_dakota", "wikiname": "USS Northampton" },
+    {
+      "intname": "us_destroyer_clemson_welborn_c_wood",
+      "wikiname": "USS Wilkinson"
+    },
+    { "intname": "us_destroyer_mitscher_wilkinson", "wikiname": "USS Wyoming" },
+    { "intname": "us_destroyer_gearing_frank_knox", "wikiname": "USS Gearing" },
+    { "intname": "us_destroyer_porter_1942", "wikiname": "USS Nevada" },
+    { "intname": "us_destroyer_fletcher_bennion", "wikiname": "USS Brooklyn" },
+    {
+      "intname": "us_cruiser_brooklyn_class_helena",
+      "wikiname": "USS Hoquiam"
+    },
+    {
+      "intname": "us_cruiser_des_moines_class",
+      "wikiname": "USS Detroit",
+      "store": "12049"
+    },
+    {
+      "intname": "us_cruiser_baltimore_class",
+      "wikiname": "USS Barker",
+      "marketplace": "items_USS Baltimore (CA-68) (USA)"
+    },
+    {
+      "intname": "us_destroyer_somers_davis",
+      "wikiname": "USS Des Moines",
+      "marketplace": "id50174_uss_davis_usa"
+    },
+    { "intname": "us_destroyer_fletcher_cowell", "wikiname": "USS Cyclone" },
+    {
+      "intname": "us_destroyer_porter_1944",
+      "wikiname": "USS Pittsburgh",
+      "marketplace": "USS Phelps (DD-360) (USA)"
+    },
+    { "intname": "us_cruiser_omaha_class_detroit", "wikiname": "USS Douglas" },
+    {
+      "intname": "us_cruiser_des_moines_class_newport_news",
+      "wikiname": "USS North Dakota",
+      "marketplace": "id50208_uss_newport_news_usa"
+    },
+    {
+      "intname": "germ_destroyer_class1924_leopard1932",
+      "wikiname": "Letuchiy"
+    },
+    {
+      "intname": "germ_destroyer_class1934a_1944",
+      "wikiname": "Z20 Karl Galster"
+    },
+    {
+      "intname": "germ_destroyer_class1934a_1940",
+      "wikiname": "Z15 Erich Steinbrinck"
+    },
+    { "intname": "germ_destroyer_class1936a_mob_z32", "wikiname": "Z43" },
+    { "intname": "germ_cruiser_elbing", "wikiname": "SMS Helgoland" },
+    { "intname": "germ_cruiser_emden_1944", "wikiname": "Fairmile A (ML100)" },
+    { "intname": "germ_cruiser_nurnberg", "wikiname": "Neustrashimy" },
+    { "intname": "germ_cruiser_admiral_hipper", "wikiname": "Admiral Hipper" },
+    { "intname": "germ_battleship_westfalen", "wikiname": "Saetta P-494" },
+    { "intname": "germ_battleship_helgoland", "wikiname": "SMS Kaiser" },
+    { "intname": "germ_destroyer_class1939_t22", "wikiname": "T31" },
+    { "intname": "germ_kanonenboot_k2", "wikiname": "KM-5" },
+    { "intname": "germ_destroyer_class1936_z20", "wikiname": "Z25" },
+    { "intname": "germ_destroyer_class1936b", "wikiname": "Z47" },
+    { "intname": "germ_cruiser_leipzig", "wikiname": "Leningrad" },
+    { "intname": "germ_cruiser_koln", "wikiname": "K2" },
+    {
+      "intname": "germ_cruiser_admiral_graf_spee",
+      "wikiname": "Admiral Graf Spee"
+    },
+    { "intname": "germ_battleship_kaiser", "wikiname": "SMS Ostfriesland" },
+    { "intname": "germ_battleship_bayern", "wikiname": "SMS Elbing" },
+    {
+      "intname": "germ_battlecruiser_von_der_tann",
+      "wikiname": "SMS Westfalen"
+    },
+    { "intname": "germ_battleship_scharnhorst", "wikiname": "Smelyi" },
+    { "intname": "germ_destroyer_class1924_iltis", "wikiname": "M-17" },
+    {
+      "intname": "germ_destroyer_class1924_jaguar1941",
+      "wikiname": "Köln F220",
+      "marketplace": "Type 1924 Jaguar (Germany)"
+    },
+    { "intname": "germ_destroyer_class1936c_z47", "wikiname": "Zheleznyakov" },
+    {
+      "intname": "germ_destroyer_class1936_z20_karlgalster",
+      "wikiname": "Z22 Anton Schmitt"
+    },
+    { "intname": "germ_cruiser_karlsruhe", "wikiname": "Kerch (cruiser)" },
+    {
+      "intname": "germ_cruiser_prinz_eugen",
+      "wikiname": "R-130",
+      "store": "8103"
+    },
+    {
+      "intname": "germ_battleship_ostfriesland",
+      "wikiname": "SMS Von der Tann",
+      "marketplace": "id50195_sms_ostfriesland_germany"
+    },
+    { "intname": "germ_destroyer_class1936a_z25", "wikiname": "Z32" },
+    { "intname": "germ_destroyer_class1939_t31", "wikiname": "TKA-106" },
+    { "intname": "ussr_destroyer_frunze", "wikiname": "G-5 (ShVAK)" },
+    {
+      "intname": "ussr_destroyer_7_besposhchadny",
+      "wikiname": "Besposhchadny"
+    },
+    { "intname": "ussr_destroyer_moskva", "wikiname": "Nürnberg" },
+    { "intname": "ussr_destroyer_7y", "wikiname": "Soukou-Tei No.4" },
+    { "intname": "ussr_cruiser_krasnyi_kavkaz", "wikiname": "Krasny Krym" },
+    { "intname": "ussr_cruiser_kirov", "wikiname": "Krasny Kavkaz" },
+    { "intname": "ussr_cruiser_sverdlov", "wikiname": "Syonan" },
+    { "intname": "ussr_battleship_poltava", "wikiname": "Pr. 206 (Germany)" },
+    { "intname": "ussr_battlecruiser_kronshtadt", "wikiname": "LÉ Orla" },
+    { "intname": "ussr_destroyer_pr30_ognevoy", "wikiname": "PC-451" },
+    {
+      "intname": "ussr_destroyer_regele_ferdinand_class_letuchiy",
+      "wikiname": "Luchs"
+    },
+    {
+      "intname": "ussr_destroyer_pr30bis_bezuprechnyi",
+      "wikiname": "Bezuprechny"
+    },
+    {
+      "intname": "ussr_destroyer_pr20_tashkent",
+      "wikiname": "Thunderbolt (PT-556)"
+    },
+    { "intname": "ussr_destroyer_pr56_spokoinyy", "wikiname": "Stefano Turr" },
+    {
+      "intname": "ussr_cruiser_krasnyi_krim",
+      "wikiname": "Krischan der Große"
+    },
+    { "intname": "ussr_cruiser_chapayev", "wikiname": "Chapayev" },
+    { "intname": "ussr_cruiser_mikhail_kutuzov", "wikiname": "Moskva" },
+    { "intname": "ussr_battleship_imperatritsa_mariya", "wikiname": "Isuzu" },
+    { "intname": "ussr_battleship_parizhskaya_kommuna", "wikiname": "Pfeil" },
+    { "intname": "ussr_destroyer_kerch", "wikiname": "Kim Qui" },
+    { "intname": "ussr_destroyer_7_ryany", "wikiname": "S-100 (1944)" },
+    { "intname": "ussr_destroyer_pr30bis_smelyi", "wikiname": "Soobrazitelny" },
+    { "intname": "ussr_destroyer_pr56_blagorodny", "wikiname": "Blagorodnyy" },
+    {
+      "intname": "ussr_destroyer_leningrad",
+      "wikiname": "Leopard",
+      "marketplace": "Leader Leningrad (USSR)"
+    },
+    { "intname": "ussr_cruiser_kerch", "wikiname": "Kerch (destroyer)" },
+    { "intname": "ussr_cruiser_zheleznyakov" },
+    {
+      "intname": "ussr_cruiser_maxim_gorky",
+      "wikiname": "Mikhail Kutuzov",
+      "marketplace": "items_Maxim Gorky (USSR)"
+    },
+    { "intname": "ussr_destroyer_7y_stroyny", "wikiname": "Sverdlov" },
+    { "intname": "ussr_destroyer_pr41_neustrashimy", "wikiname": "OD-200" },
+    { "intname": "ussr_cruiser_voroshilov", "wikiname": "Ya-5M" },
+    { "intname": "uk_destroyer_v_class_vega", "wikiname": "HMS Verdun" },
+    { "intname": "uk_destroyer_hunt_2series", "wikiname": "HMS Churchill" },
+    { "intname": "uk_destroyer_tribal", "wikiname": "HMS Glorious" },
+    { "intname": "uk_destroyer_n_class", "wikiname": "HMS Norfolk" },
+    { "intname": "uk_destroyer_battle_2series", "wikiname": "HMS Belfast" },
+    { "intname": "uk_cruiser_enterprise_d52", "wikiname": "HMS Eskimo" },
+    { "intname": "uk_cruiser_arethusa", "wikiname": "HMS Armada" },
+    { "intname": "uk_cruiser_leander", "wikiname": "HMS Abdiel" },
+    { "intname": "uk_cruiser_norfolk", "wikiname": "HMS Peacock" },
+    { "intname": "uk_cruiser_southampton", "wikiname": "HMS Spey" },
+    { "intname": "uk_cruiser_kent", "wikiname": "HMS Leopard" },
+    { "intname": "uk_battleship_marlborough", "wikiname": "HMS Mohawk" },
+    { "intname": "uk_destroyer_clemson_churchill", "wikiname": "HMS Colossus" },
+    { "intname": "uk_destroyer_g_grafton", "wikiname": "HMS Hawkins" },
+    { "intname": "uk_destroyer_hunt_4series", "wikiname": "HMS Cadiz" },
+    { "intname": "uk_destroyer_k_class", "wikiname": "HMS Kent" },
+    { "intname": "uk_destroyer_battle_tobruk", "wikiname": "HMCS Brantford" },
+    { "intname": "uk_cruiser_dido", "wikiname": "HMS Dreadnought" },
+    { "intname": "uk_cruiser_hawkins", "wikiname": "HMS Hood" },
+    { "intname": "uk_cruiser_york", "wikiname": "Ha-Go (mod. 1)" },
+    { "intname": "uk_cruiser_london", "wikiname": "HMS Marlborough" },
+    { "intname": "uk_battleship_dreadnought", "wikiname": "HMS Enterprise" },
+    { "intname": "uk_battleship_colossus", "wikiname": "HMS Diana" },
+    {
+      "intname": "uk_minelayer_abdiel_class_abdiel",
+      "wikiname": "HMS Arethusa"
+    },
+    { "intname": "uk_destroyer_daring_class_diana", "wikiname": "HMS Dido" },
+    { "intname": "uk_battlecruiser_glorious", "wikiname": "HMS Grafton" },
+    { "intname": "uk_battlecruiser_invincible", "wikiname": "HMS Jervis" },
+    { "intname": "uk_battlecruiser_hood", "wikiname": "HMS Invincible" },
+    { "intname": "uk_destroyer_v_class_verdun", "wikiname": "HMS Whitby" },
+    { "intname": "uk_destroyer_v_class_valhalla", "wikiname": "HMS Vega" },
+    { "intname": "uk_destroyer_j_class", "wikiname": "HMS Kelvin" },
+    { "intname": "uk_destroyer_haida", "wikiname": "HMCS Terra Nova" },
+    { "intname": "uk_cruiser_belfast", "wikiname": "HMS Blackpool" },
+    {
+      "intname": "uk_cruiser_tiger",
+      "wikiname": "HMS Valhalla",
+      "marketplace": "HMS Tiger (Britain)"
+    },
+    {
+      "intname": "uk_destroyer_clemson_montgomery_g95",
+      "wikiname": "HMS Nepal"
+    },
+    {
+      "intname": "uk_destroyer_g_garland",
+      "wikiname": "Ognevoy",
+      "marketplace": "items_HMS Garland (H37) (Britain)"
+    },
+    {
+      "intname": "uk_destroyer_tribal_mohawk",
+      "wikiname": "HMS Montgomery",
+      "marketplace": "id50152_hms_mohawk_great_britain"
+    },
+    { "intname": "uk_destroyer_battle_cadiz", "wikiname": "HMS Calpe" },
+    { "intname": "uk_cruiser_liverpool", "wikiname": "HMS London" },
+    { "intname": "jp_destroyer_mutsuki", "wikiname": "IJN Myoko" },
+    { "intname": "jp_destroyer_harukaze", "wikiname": "JDS Yūgure (DD-184)" },
+    { "intname": "jp_destroyer_akizuki", "wikiname": "IJN Aoba" },
+    { "intname": "jp_cruiser_kako", "wikiname": "IJN Kiyoshimo" },
+    { "intname": "jp_cruiser_furutaka", "wikiname": "IJN Fuso" },
+    { "intname": "jp_cruiser_aoba", "wikiname": "IJN Ayanami" },
+    { "intname": "jp_cruiser_tone", "wikiname": "IJN Yubari" },
+    { "intname": "jp_battleship_settsu", "wikiname": "IJN Shimakaze" },
+    { "intname": "jp_battleship_fuso", "wikiname": "IJN Haruna" },
+    { "intname": "jp_destroyer_fubuki", "wikiname": "IJN Furutaka" },
+    { "intname": "jp_destroyer_yugumo", "wikiname": "IJN Yuudachi" },
+    { "intname": "jp_destroyer_hatsuharu", "wikiname": "IJN Hayanami" },
+    { "intname": "jp_cruiser_isuzu", "wikiname": "IJN Kako" },
+    { "intname": "jp_cruiser_kuma", "wikiname": "IJN Mikuma" },
+    { "intname": "jp_cruiser_sendai", "wikiname": "IJN Settsu" },
+    { "intname": "jp_cruiser_agano", "wikiname": "IJN Akizuki" },
+    { "intname": "jp_cruiser_mogami_suzuya", "wikiname": "IJN Tone" },
+    { "intname": "jp_cruiser_mogami", "wikiname": "IJN Mutsuki" },
+    { "intname": "jp_battleship_hyuga", "wikiname": "IJN Ikoma" },
+    { "intname": "jp_armoredcruiser_ikoma", "wikiname": "IJN Isuzu" },
+    { "intname": "jp_battlecruiser_kongo", "wikiname": "IJN Kuma" },
+    { "intname": "jp_destroyer_satsuki", "wikiname": "IJN Sendai" },
+    { "intname": "jp_destroyer_nenohi", "wikiname": "IJN Satsuki" },
+    {
+      "intname": "jp_destroyer_yugure",
+      "wikiname": "Jaguar-Klasse",
+      "marketplace": "items_JDS Yūgure (DD-184) (Japan)"
+    },
+    { "intname": "jp_cruiser_yubari", "wikiname": "IJN Yugumo" },
+    { "intname": "jp_destroyer_shimakaze", "wikiname": "IJN Suzuya" },
+    { "intname": "jp_cruiser_myoko", "wikiname": "IJN Nenohi" },
+    { "intname": "jp_cruiser_mogami_mikuma", "wikiname": "IJN Mogami" },
+    {
+      "intname": "jp_battlecruiser_haruna",
+      "wikiname": "IJN Hatsuharu",
+      "marketplace": "id50192_ijn_haruna_japan"
+    },
+    { "intname": "jp_destroyer_hayanami", "wikiname": "IJN Hyuga" },
+    {
+      "intname": "jp_destroyer_yuudachi",
+      "wikiname": "Ikazuchi",
+      "marketplace": "IJN Yuudachi (Japan)"
+    },
+    { "intname": "jp_destroyer_kiyoshimo", "wikiname": "IJN Kongo" },
+    { "intname": "it_destroyer_turbine", "wikiname": "RN Zara" },
+    { "intname": "it_destroyer_dardo", "wikiname": "RN Duca degli Abruzzi" },
+    {
+      "intname": "it_destroyer_comandanti_medaglie_doro",
+      "wikiname": "RN Corazziere"
+    },
+    {
+      "intname": "it_destroyer_soldati_serie1_camicianera",
+      "wikiname": "RN Da Verazzano"
+    },
+    { "intname": "it_destroyer_leone_class", "wikiname": "RN Pola" },
+    {
+      "intname": "it_cruiser_capitani_romani_class_attilio_regolo",
+      "wikiname": "RN Aviere"
+    },
+    { "intname": "it_cruiser_trento", "wikiname": "RN Turbine" },
+    { "intname": "it_cruiser_zara_class", "wikiname": "Rosomacha" },
+    { "intname": "it_battleship_dante_alighieri", "wikiname": "RN Dardo" },
+    { "intname": "it_destroyer_vifor_class_aquila", "wikiname": "RN Aquilone" },
+    {
+      "intname": "it_destroyer_navigatori_class_verazzano",
+      "wikiname": "RN Dante Alighieri"
+    },
+    { "intname": "it_cruiser_etna_class", "wikiname": "RN Eugenio di Savoia" },
+    {
+      "intname": "it_cruiser_bartolomeocolleoni_1940",
+      "wikiname": "RN Comandante Margottini"
+    },
+    { "intname": "it_cruiser_montecuccoli", "wikiname": "RN Tigre" },
+    { "intname": "it_cruiser_eugenio_di_savoia", "wikiname": "RN Gabbiano" },
+    {
+      "intname": "it_cruiser_garibaldi_class_abruzzi",
+      "wikiname": "RN Duilio"
+    },
+    { "intname": "it_battleship_andrea_doria", "wikiname": "RN Aquila" },
+    { "intname": "it_battleship_caio_duilio", "wikiname": "RN Etna" },
+    { "intname": "it_destroyer_aquilone", "wikiname": "RN Attilio Regolo" },
+    { "intname": "it_destroyer_fletcher_geniere", "wikiname": "Groza" },
+    { "intname": "it_destroyer_leone_class_tigre", "wikiname": "RN Trento" },
+    {
+      "intname": "it_cruiser_zara_class_pola",
+      "wikiname": "RN Raimondo Montecuccoli"
+    },
+    {
+      "intname": "it_destroyer_soldati_serie1",
+      "wikiname": "RN Bartolomeo Colleoni"
+    },
+    {
+      "intname": "it_destroyer_soldati_serie1_geniere",
+      "wikiname": "RN Leone"
+    },
+    {
+      "intname": "fr_destroyer_aigle_class_aigle",
+      "wikiname": "Aigle",
+      "store": "12045"
+    },
+    {
+      "intname": "fr_cruiser_dugauy_class_dugauy_trouin",
+      "wikiname": "Duguay-Trouin",
+      "store": "12046"
+    }
+  ],
+  "boats": [
+    { "intname": "us_pt6", "wikiname": "PT-658" },
+    { "intname": "us_nasty_ptf", "wikiname": "Parizhskaya kommuna" },
+    { "intname": "us_elco_80ft_pt_boat", "wikiname": "PT-109" },
+    { "intname": "us_higgins_78ft_pt71", "wikiname": "PT-810" },
+    { "intname": "us_elco_80ft_pt_boat_mod01", "wikiname": "PT-565" },
+    { "intname": "us_elco_80ft_pt_boat_mod02", "wikiname": "PT-59" },
+    { "intname": "us_tucumcari_pgh2", "wikiname": "USS Welborn C. Wood" },
+    { "intname": "us_pt812", "wikiname": "PTF-7" },
+    { "intname": "us_pt810", "wikiname": "PT-811" },
+    { "intname": "us_frigate_tacoma", "wikiname": "USS Litchfield" },
+    { "intname": "us_elco_77ft_pt20", "wikiname": "PT-200" },
+    { "intname": "us_pc_451", "wikiname": "PG 02" },
+    { "intname": "us_sc_497", "wikiname": "SF40 Heavy" },
+    { "intname": "us_higgins_78ft_pt625", "wikiname": "PT-3" },
+    { "intname": "us_elco_77ft_pt59", "wikiname": "PT-6" },
+    { "intname": "us_admirable_class", "wikiname": "USS Cleveland" },
+    { "intname": "us_ashville_class", "wikiname": "USS Atlanta" },
+    { "intname": "us_lcs_l_3", "wikiname": "LS 3" },
+    { "intname": "us_pgm_59_class", "wikiname": "Kirov" },
+    { "intname": "us_cyclone_class_cyclone", "wikiname": "USS Davis" },
+    { "intname": "us_pt3", "wikiname": "PT-314" },
+    { "intname": "us_pc_466_carmi", "wikiname": "Carmi (PC-466)" },
+    { "intname": "us_elco_80ft_pt174", "wikiname": "PT-20" },
+    { "intname": "us_lcm_zippo", "wikiname": "LCS(L)(3)" },
+    {
+      "intname": "us_elco_80ft_pt_boat_thunderbolt",
+      "wikiname": "Type 4 (Mod 4)"
+    },
+    { "intname": "us_ashville_class_douglas", "wikiname": "USS Fargo" },
+    { "intname": "us_elco_80ft_pt109_boat", "wikiname": "PT-15" },
+    { "intname": "us_higgins_78ft_pt658", "wikiname": "PT-71" },
+    {
+      "intname": "us_pt811",
+      "wikiname": "PT-812",
+      "marketplace": "94 ft PT-811 (USA)"
+    },
+    { "intname": "germ_ls_class", "wikiname": "LS 4 Esau" },
+    { "intname": "germ_s38", "wikiname": "S-38b" },
+    { "intname": "germ_s38b", "wikiname": "SC-497" },
+    { "intname": "germ_s_100_class", "wikiname": "S-204 Lang" },
+    { "intname": "germ_s_100_s_174_class", "wikiname": "S-100" },
+    { "intname": "germ_pr_131", "wikiname": "VAS 201" },
+    { "intname": "germ_vs10_hydrofoil", "wikiname": "VS-8" },
+    { "intname": "germ_mz_1", "wikiname": "Maxim Gorky" },
+    { "intname": "germ_type143_albatros", "wikiname": "Albatros" },
+    { "intname": "germ_pr_206", "wikiname": "Pr. 206" },
+    { "intname": "germ_rboot_r41", "wikiname": "RN Andrea Doria" },
+    { "intname": "germ_rboot_r130", "wikiname": "R-301" },
+    { "intname": "germ_rboot_r301", "wikiname": "R-41" },
+    {
+      "intname": "germ_sf40_schwere_flakkampffaehre",
+      "wikiname": "SF40 Light"
+    },
+    {
+      "intname": "germ_sf40_leichte_flakkampffaehre",
+      "wikiname": "SGB Grey Fox"
+    },
+    { "intname": "germ_artilleriefahrprahm_typ_d1", "wikiname": "AF D1" },
+    { "intname": "germ_artilleriefahrprahm_typ_d3", "wikiname": "AF D3" },
+    { "intname": "germ_escort_typem1935", "wikiname": "M-802" },
+    { "intname": "germ_type140_jaguar", "wikiname": "Jaguar" },
+    { "intname": "germ_frigate_koln", "wikiname": "Köln" },
+    { "intname": "germ_rdm242", "wikiname": "Kronshtadt" },
+    { "intname": "germ_type152_hugin", "wikiname": "IJN Agano" },
+    { "intname": "germ_type153_pfeil", "wikiname": "Poltava" },
+    { "intname": "germ_ls4_class", "wikiname": "Leipzig" },
+    { "intname": "germ_km5", "wikiname": "Karl Marx" },
+    { "intname": "germ_s_100_s204_lang", "wikiname": "S-38" },
+    { "intname": "germ_vs8_hydrofoil", "wikiname": "Voroshilov" },
+    { "intname": "germ_escort_typem1943", "wikiname": "MAS 555" },
+    {
+      "intname": "germ_type143_bussard",
+      "wikiname": "Bussard",
+      "marketplace": "id50147_bussard_germany"
+    },
+    { "intname": "germ_skr_pr50_karl_marx", "wikiname": "Karlsruhe" },
+    {
+      "intname": "germ_frigate_koln_lubeck",
+      "wikiname": "LCM(6) Zippo",
+      "marketplace": "items_Lübeck F224 (Germany)"
+    },
+    { "intname": "ussr_g5_mtb", "wikiname": "GIS 811" },
+    { "intname": "ussr_d3", "wikiname": "D-3" },
+    { "intname": "ussr_mpk_163", "wikiname": "MS-15" },
+    { "intname": "ussr_pr_123bis", "wikiname": "Pr.123K (A-11)" },
+    { "intname": "ussr_pr_123k", "wikiname": "Pr.183 BM-21" },
+    { "intname": "ussr_pr_1204_late", "wikiname": "Pr.1204" },
+    { "intname": "ussr_bmo", "wikiname": "BMO" },
+    { "intname": "ussr_pr_183", "wikiname": "Pr.191" },
+    { "intname": "ussr_pr_206", "wikiname": "Pr.1124 MLRS" },
+    { "intname": "ussr_pr_206m", "wikiname": "Prinz Eugen" },
+    { "intname": "ussr_mpk_pr12412", "wikiname": "MPK Pr.12412P" },
+    { "intname": "ussr_mo_4", "wikiname": "MPK Pr.122bis" },
+    { "intname": "ussr_od_200", "wikiname": "ORP Garland" },
+    { "intname": "ussr_mpk_122a", "wikiname": "MPK-163" },
+    { "intname": "ussr_1124_art", "wikiname": "Pr.1124 late" },
+    { "intname": "ussr_1124_ack", "wikiname": "Pr.1204 late" },
+    { "intname": "ussr_skr_groza_1943", "wikiname": "HMAS Arrow" },
+    { "intname": "ussr_mpk_201m", "wikiname": "MPK Pr.204" },
+    { "intname": "ussr_mpk_204", "wikiname": "MPK pr.122A" },
+    { "intname": "ussr_skr_pr50_jenot", "wikiname": "Z12 Erich Giese" },
+    { "intname": "ussr_mpk_pr1331m", "wikiname": "MPK Pr.201K" },
+    { "intname": "ussr_skr_pr159", "wikiname": "SKR-7" },
+    { "intname": "ussr_pr_191", "wikiname": "Pr.191M" },
+    { "intname": "ussr_pr_191m", "wikiname": "Pr.206-M" },
+    { "intname": "ussr_mkl_186", "wikiname": "MBK-161 early" },
+    { "intname": "ussr_mbk_161_1944", "wikiname": "MC-490" },
+    { "intname": "ussr_g5_mtb_shvak", "wikiname": "G-5" },
+    { "intname": "ussr_pr_123k_hydrofoils", "wikiname": "Pr.123K" },
+    { "intname": "ussr_pr_1204", "wikiname": "Pr.123-bis" },
+    {
+      "intname": "ussr_mbk_161_1943",
+      "wikiname": "MBK-161 late",
+      "marketplace": "MBK-161 (1943) (USSR)"
+    },
+    { "intname": "ussr_pr_183_egypt_bm_21", "wikiname": "Pr.183" },
+    { "intname": "ussr_mkl_186_mk85", "wikiname": "MBK pr.186" },
+    { "intname": "ussr_skr_pr50plo_rosomacha", "wikiname": "Ryany" },
+    { "intname": "ussr_skr_pr35", "wikiname": "SMS Bayern" },
+    { "intname": "ussr_g5_rct", "wikiname": "Tashkent" },
+    { "intname": "ussr_ya_5m", "wikiname": "Yenot" },
+    {
+      "intname": "ussr_mpk_122bis",
+      "wikiname": "MPK Pr.12412",
+      "marketplace": "MPK Pr.122bis (USSR)"
+    },
+    { "intname": "ussr_1124_rct", "wikiname": "Pr.1124 early" },
+    {
+      "intname": "ussr_mpk_201k",
+      "wikiname": "MPK Pr.201M",
+      "marketplace": "id50162_mpk_pr_201k_ussr"
+    },
+    { "intname": "ussr_mpk_pr12412p", "wikiname": "MPK Pr.1331M" },
+    { "intname": "ussr_pr_206_race" },
+    { "intname": "uk_mtb_1series", "wikiname": "MTB-1(2)" },
+    { "intname": "uk_fairmile_a_ml100", "wikiname": "Fairmile B (ML345)" },
+    { "intname": "uk_70ft_mgb", "wikiname": "MGB-75" },
+    { "intname": "uk_fairmile_b_ml345", "wikiname": "Fairmile C (312)" },
+    { "intname": "uk_dark_class", "wikiname": "Dark Adventurer" },
+    { "intname": "uk_dark_class_mtb", "wikiname": "Dark Aggressor" },
+    { "intname": "uk_fairmile_d_617_632", "wikiname": "Fairmile D (697)" },
+    { "intname": "uk_fairmile_d_697_800", "wikiname": "Fairmile H LCS(L)(2)" },
+    { "intname": "uk_sgb_304", "wikiname": "SGB Grey Goose" },
+    { "intname": "uk_brave_borderer", "wikiname": "Brave Borderer" },
+    {
+      "intname": "uk_destroyer_restigouche_class_terranova",
+      "wikiname": "HMNZS Leander"
+    },
+    { "intname": "uk_frigate_leopard", "wikiname": "HMS Liscomb" },
+    { "intname": "uk_mtb_vosper_1series", "wikiname": "MTB-1(1)" },
+    { "intname": "uk_mtb_vosper_2series", "wikiname": "MTB Vosper" },
+    { "intname": "uk_hdml_ml1383", "wikiname": "MO-4" },
+    { "intname": "uk_isles_class_trawler", "wikiname": "HMS Liverpool" },
+    { "intname": "uk_flower_class", "wikiname": "HMCS Haida" },
+    { "intname": "uk_fairmile_c", "wikiname": "Fairmile C (332)" },
+    { "intname": "uk_fairmile_lcs_l_h_mk2", "wikiname": "Folaga" },
+    { "intname": "uk_fairmile_d_601_616", "wikiname": "Fairmile D (617)" },
+    { "intname": "uk_attack_class_arrow", "wikiname": "HMAS Tobruk" },
+    { "intname": "uk_fairmile_c_332", "wikiname": "Fairmile D (5001)" },
+    { "intname": "uk_corvette_peacock", "wikiname": "HMS Southampton" },
+    { "intname": "uk_frigate_whitby_blackpool", "wikiname": "HMS Brissenden" },
+    { "intname": "uk_mtb_2series", "wikiname": "MTB-422" },
+    { "intname": "uk_71ft_mgb", "wikiname": "ML 1383" },
+    {
+      "intname": "uk_sgb_309",
+      "wikiname": "SKR-1",
+      "marketplace": "SGB (S309) (Britain)"
+    },
+    { "intname": "uk_fairmile_d_5001_5029", "wikiname": "Fairmile D (601)" },
+    { "intname": "uk_corvette_orla", "wikiname": "Lübeck" },
+    { "intname": "uk_frigate_whitby", "wikiname": "HMS York" },
+    { "intname": "uk_higgins_78ft_mtb422", "wikiname": "MV-611" },
+    { "intname": "uk_dark_class_mtb_td", "wikiname": "Dark Aggressor TD" },
+    {
+      "intname": "uk_frigate_river",
+      "wikiname": "HMS Tiger",
+      "marketplace": "River class (K-246) (Britain)"
+    },
+    { "intname": "jp_t14_class", "wikiname": "Type T-38" },
+    { "intname": "jp_type5_escortboat", "wikiname": "Type K-3 No.1" },
+    { "intname": "jp_karotei_type2", "wikiname": "Type 5" },
+    { "intname": "jp_sehatei_mod1", "wikiname": "Hugin" },
+    { "intname": "jp_kusen_tei_13_1944", "wikiname": "Type K-8 No.13" },
+    { "intname": "jp_t51b", "wikiname": "USS Alaska" },
+    { "intname": "jp_type_11_pt_15", "wikiname": "PT-174" },
+    {
+      "intname": "jp_escort_ikazuchi_class",
+      "wikiname": "Imperatritsa Mariya"
+    },
+    { "intname": "jp_escort_hiburi_class_syonan", "wikiname": "T22" },
+    { "intname": "jp_destroyer_chidori", "wikiname": "Chidori" },
+    { "intname": "jp_type_t1_1941", "wikiname": "Type T-14 (mod. 1)" },
+    { "intname": "jp_abtei_pr1", "wikiname": "Sparviero" },
+    { "intname": "jp_abtei_pr4", "wikiname": "Soukou-Tei" },
+    { "intname": "jp_type38_1944", "wikiname": "Type T-51a" },
+    { "intname": "jp_no1_ch2", "wikiname": "Type K-7 No.4" },
+    { "intname": "jp_no4_ch8", "wikiname": "Type K-8 No.13 late" },
+    { "intname": "jp_escort_chikugo_class", "wikiname": "Chikugo" },
+    { "intname": "jp_destroyer_isuzu", "wikiname": "JDS Ayanami (DD-103)" },
+    { "intname": "jp_destroyer_ayanami", "wikiname": "JDS Harukaze (DD-101)" },
+    { "intname": "jp_t14_class_mod01", "wikiname": "Type T-14" },
+    { "intname": "jp_kusen_tei_13_1942", "wikiname": "Type T-1" },
+    { "intname": "jp_karotei_type4", "wikiname": "Type 4 (mod. 2)" },
+    { "intname": "jp_t51a", "wikiname": "Type T-51b" },
+    { "intname": "jp_escort_akebono_class", "wikiname": "Akebono" },
+    { "intname": "jp_pg02", "wikiname": "PT-103" },
+    { "intname": "it_mas_classe500_3_1944", "wikiname": "MAS 569" },
+    { "intname": "it_vas_baglietto_68t_1serie", "wikiname": "VS-10" },
+    { "intname": "it_ms15_1a", "wikiname": "MS-472" },
+    { "intname": "it_mas_stefano_turr", "wikiname": "Stroyny" },
+    { "intname": "it_a1_vosper", "wikiname": "Geniere" },
+    { "intname": "it_ms473_2a", "wikiname": "MS-473" },
+    { "intname": "it_mc490_folgore", "wikiname": "MGB-61" },
+    { "intname": "it_p494_saetta", "wikiname": "Scharnhorst" },
+    { "intname": "it_mas_classe500_3", "wikiname": "MAS 561" },
+    { "intname": "it_ms53_2a", "wikiname": "MTB Vosper(2)" },
+    { "intname": "it_ms471_1a", "wikiname": "MZ1" },
+    { "intname": "it_ms473_2a_art", "wikiname": "MS-53" },
+    { "intname": "it_gabbiano_class", "wikiname": "RN Geniere" },
+    { "intname": "it_albatros_class_f543", "wikiname": "Albatros F543" },
+    { "intname": "it_mas_classe500_4", "wikiname": "MBK pr.186 (MK 85)" },
+    { "intname": "it_p420_sparviero", "wikiname": "Spokoinyy" },
+    { "intname": "it_p493_freccia", "wikiname": "Frunze" },
+    { "intname": "it_gabbiano_class_c16", "wikiname": "Freccia P-493" }
   ]
 }

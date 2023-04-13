@@ -11,13 +11,13 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British heavy tank {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]] as a reward for [[Battle Pass: Season IX, "Smell of Victory"]].
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British heavy tank {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]] as a reward for [[Battle Pass: Season IX, "Smell of Victory"]]. The Churchill Crocodile differentiates itself from the CHurchill VII with its flamethrower as an extremely effective secondary weapon against vehicles with exposed crew (SPAAs, tank destroyers, etc.).
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+The Churchill Crocodile has the same armour layout as the Churchill VII, most enemy tanks will struggle to penetrate its excellent armour in a downtier. The armour can be further upgraded with additional tracks. Being angled and hull down significantly improves the survivability. The Crocodile is a good "shell magnet" for the team; attracting the main firepower from the enemy tanks while friendly tanks engage them, reducing the pressure on the friendly team significantly.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -42,7 +42,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British heavy tan
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-The Churchill Crocodile retains the same slow mobility as the [[Churchill VII]]. It has a low top speed and difficulty to turn and climb slopes. It won't be the first to the frontline, but that means it will be ideal for a support role.
+The Churchill Crocodile retains the same slow mobility as the [[Churchill VII]]. It has a low top speed and difficulty to turn and climb slopes. It won't be the first to the frontline, but that means it will be ideal for a support role. The Crocodile is very difficult to manoeuvre in tight and narrow streets with its long hull and its towed trailer. With a terrible and slow reverse speed (-3 km/h), retreating is difficult and the vehicle is easily flanked by enemies close by.
 
 {{tankMobility}}
 
@@ -56,7 +56,7 @@ The Churchill Crocodile retains the same slow mobility as the [[Churchill VII]].
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|OQF Mk.V (75 mm)}}
 
-The 75mm OQF Mk. V is an underwhelming gun for its BR. Its best shell can only go through 103 mm of armour. In an uptier, your gun will barely damage enemy vehicles. The most you can do is disable external components like barrels and tracks. 
+The 75mm OQF Mk. V is an underwhelming gun for its BR. Its best shell can only go through 103 mm of armour. In an uptier, your gun will barely damage enemy vehicles. The most you can do is disable external components like barrels and tracks. The gun depression of -10 degrees allows for easier fighting in mountainous terrain. The gun sight has excellent zoom, making mid-range engagements easier.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -109,11 +109,13 @@ As the flamethrower is unable to penetrate fully armoured vehicles, it is ineffe
 
 However, this weapon is particularly useful for eliminating exposed crew members in open-topped vehicles and SPAA. For example, if a Churchill Crocodile shot flames at a [[Pz.IV H]], it would take no damage. A [[Sd.Kfz. 6/2]], however, would be burnt down within a few seconds.
 
-This weapon is located in the bow gun position, replacing the machine gun mounted in the regular [[Churchill VII]]. As such, it has a very limited traverse and is dependent on the hull position for horizontal targeting. Vertical guidance is quite good, which can allow it to reach targets at short ranges outside of point-blank. Unfortunately, the slow speed of the Crocodile can make it difficult to get within range, so players will need to use the vertical limit to 'lob' shots onto the enemy.
+This weapon is located in the bow gun position, replacing the machine gun mounted in the regular [[Churchill VII]]. As such, it has a very limited traverse and is dependent on the hull position for horizontal targeting. Vertical guidance is quite good, which can allow it to reach targets at short ranges outside of point-blank. Unfortunately, the slow speed of the Crocodile can make it difficult to get within range, so players will need to use the vertical limit to lob shots onto the enemy.
 
 In attacking enemies that are fully armoured, a Churchill Crocodile can use its flamethrower to temporarily blind or distract the enemy. Fully armoured vehicles can be shot with flames to blind and confuse them which can allow the Crocodile to shoot back or reposition itself. Fire can serve as a deterrent to vehicles with exposed crew from getting too close, something that can be problematic for a Churchill tank.
 
-It should be noted that since this weapon is very unique, enemies will know a Churchill Crocodile is around when the flamethrower is used. When it is not in use, the fuel trailer is a major indicator of the vehicle. If this fuel tank is destroyed, it will explode. The tank crew will be unharmed, but the weapon system will be rendered unusable.
+Since this weapon is very unique, enemies will know a Churchill Crocodile is around when the flamethrower is used. When it is not in use, the fuel trailer is a major indicator of the vehicle. Flamethrower fuel tanks are susceptible to being shot. If this fuel tank is destroyed, it will explode. The tank crew will be unharmed, but the weapon system will be rendered unusable.
+
+The use of the flamethrower is highly situational: most of the time, it will not damage enemy tanks that are adequately protected. Furthermore, the flamethrower's range is limited, and aiming it requires aiming the gun upwards, which can interfere with firing from the main gun.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -141,12 +143,14 @@ The Churchill Crocodile is not too different from the [[Churchill VII]], being a
 
 The flamethrower is useful against open-topped vehicles, but otherwise the Churchill Crocodile's offensive capabilities remain the same as the Churchill VII with the 75 mm gun. Due to the 75 mm's low penetration and situational use of the flamethrower, it is recommended to work and rely on teammates to help destroy the enemy.
 
+Thanks to its thick armour, the Churchill Crocodile can hold a strategic position, like a choke point or a capture zone. The tank's slow top speed, combined with its relatively poor main armament, makes it very situational most of the time. It will struggle to get into any strategic spots during matches, and extra care must be taken to avoid enemies camping around the maps at the start of a match.
+
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Access to a flamethrower, effective against open topped vehicles
+* Access to a flamethrower, effective against open-topped vehicles
 * Same tough armour of the Churchill VII
 
 '''Cons:'''

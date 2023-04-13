@@ -137,7 +137,7 @@ Pilots familiar with delta-wing fighter designs will be at home in the Mirage 20
 The '''''{{PAGENAME}}''''' is armed with:
 
 * A choice between two presets:
-** 2 x 30 mm DEFA 554 cannons, belly-mounted (135 rpg = 270 total)
+** 2 x 30 mm DEFA 554 cannons, belly-mounted (125 rpg = 250 total)
 ** 2 x 30 mm DEFA 554 cannons + 90 x countermeasures
 
 === Suspended armament ===
@@ -203,7 +203,7 @@ When it comes to dogfighting, the Mirage's flight performance enables a skilled 
 '''Cons:'''
 
 * Poor energy retention
-* Low ammo count for the DEFA cannons
+* Low ammo count for the DEFA cannons (only 250 rounds total)
 * Carries a maximum of only 4 missiles
 * Very limited options for ground attack ordnance
 

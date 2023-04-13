@@ -132,21 +132,50 @@ There is no armour on the SAAB-105G; the internal modules of the aircraft are fa
 {{main|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)}}
 {{main|RB24|m/56D|psrak m/49/56|srak m/55 Frida|Akan m/55 (30 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 * 2 x 30 mm Akan m/55 cannons (150 rpg = 300 total)
+* 2 x RB24 missiles
 * 22 x srak m/55 Frida rockets
 * 12 x m/56D rockets
-* 8 x m/56D rockets + 2 x 30 mm Akan m/55 cannons
 * 6 x psrak m/49/56 rockets
-* 2 x RB24 missiles
-* 4 x 750 lb M117 cone 45 bombs (3,000 lb total)
 * 6 x 500 lb LDGP Mk 82 bombs (3,000 lb total)
+* 4 x 750 lb M117 cone 45 bombs (3,000 lb total)
 * 4 x 1,000 lb LDGP Mk 83 bombs (4,000 lb total)
-* 4 x 500 lb LDGP Mk 82 bombs + 2 x 30 mm Akan m/55 cannons (2,000 lb total)
-* 2 x RB24 missiles + 4 x 750 lb M117 cone 45 bombs (3,000 lb total)
-* 2 x RB24 missiles + 4 x 500 lb LDGP Mk 82 bombs (2,000 lb total)
-* 2 x RB24 missiles + 4 x 1,000 lb LDGP Mk 83 bombs (4,000 lb total)
+
+==== Custom loadout options ====
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="10" width="30%" | <div class="ttx-image">[[File:Hardpoints_SK60B.png]]</div>
+|-
+! 30 mm Akan m/55 cannons (150 rpg)
+| || 1 || || || 1 ||
+|-
+! 500 lb LDGP Mk 82 bombs
+| 1 || 1 || 1 || 1 || 1 || 1
+|-
+! 750 lb M117 cone 45 bombs
+| || 1 || 1 || 1 || 1 ||
+|-
+! 1,000 lb LDGP Mk 83 bombs
+| || 1 || 1 || 1 || 1 ||
+|-
+! m/56D rockets
+| 2 || 2 || 2 || 2 || 2 || 2
+|-
+! psrak m/49/56 rockets
+| 1 || 1 || 1 || 1 || 1 || 1
+|-
+! srak m/55 Frida rockets
+| 3 || 4 || 4 || 4 || 4 || 3
+|-
+! RB24 missiles
+| 1 || || || || || 1
+|-
+| colspan="7" | Maximum permissible weight imbalance: 900 kg
+|-
+|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -167,6 +196,7 @@ As a CAS aircraft in Ground RB you need to be aware of the airspace conditions b
 * Excellent guns
 * Extremely early in BR access to air-to-air missiles in the RB24, ideal for scoring kills on Tu-4s, IL-28s, B-57s and other unaware or slow enemies
 * Wide variety of ground attack ordnance, including a heavy load of bombs with AAMs
+* Access to customizable loadouts for secondary weapons, allowing a vide variety of roles from air interdiction to ground attack
 * Access to bombing computer, making accurate bombing runs even with low yield bombs very rewarding
 * Decent turning ability making for a capable dogfighter
 * Good airbrake and tricycle landing gear makes landing easy
@@ -175,7 +205,6 @@ As a CAS aircraft in Ground RB you need to be aware of the airspace conditions b
 
 * Below average acceleration, loses speed in vertical manoeuvres rapidly
 * Engines run very hot at 100% throttle under 2,500 m, can be offset by setting to 98% throttle however
-* Unable to take RB24 missiles and gun pods at the same time, unlike the premium [[SAAB-105ÖE]]
 * RB24 missiles are very unreliable on targets with any turning ability
 * Heavier bomb/AAM loads put massive strain on the wings, flying at high speed or making any sharp turns can rip the wings off very suddenly
 * Stiff elevator handling at high speed, hard to pull off from a high-speed dive

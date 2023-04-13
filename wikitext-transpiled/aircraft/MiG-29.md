@@ -1,3 +1,8 @@
+{{About
+|about = Soviet jet fighter '''{{PAGENAME}}'''
+|usage = the other version
+|link = MiG-29 (Germany)
+}}
 {{Specs-Card
 |code=mig_29_9_13
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -25,10 +30,10 @@ The first revision of the famous ''Strizhi'' (Swifts; nickname in Russian) famil
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 2,364 || 2,316 || rowspan="2" | {{Specs|ceiling}} || 20.2 || 20.3 || 275.7 || 262.5 || rowspan="2" | 750
+| 2,360 || 2,314 || rowspan="2" | {{Specs|ceiling}} || 20.3 || 20.5 || 272.2 || 258.6 || rowspan="2" | 750
 |-
 ! Upgraded
-| 2,549 || 2,452 || 19.0 || 19.6 || 368.1 || 320.0
+| 2,544 || 2,448 || 19.2 || 19.7 || 367.7 || 318.0
 |-
 |}
 
@@ -54,7 +59,7 @@ The first revision of the famous ''Strizhi'' (Swifts; nickname in Russian) famil
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 1,575<!--{{Specs|destruction|body}}--> || 700<!--{{Specs|destruction|gear}}--> || N/A || 532 || 463 || ~10 || ~4
+| 1,575<!--{{Specs|destruction|body}}--> || {{Specs|destruction|gear}} || - || 532 || 463 || ~10 || ~4
 |-
 |}
 
@@ -64,7 +69,7 @@ The first revision of the famous ''Strizhi'' (Swifts; nickname in Russian) famil
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || N/A
+| < 680 || < 750 || < 700 || -
 |-
 |}
 
@@ -115,11 +120,11 @@ Aside from the airframe and the alloy skin themselves, the MiG-29 offers no extr
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
 |-
-| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
+| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
 |-
 |}
 === Offensive armament ===
@@ -131,7 +136,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 * A choice between two presets:
 ** 1 x 30 mm GSh-30-1 cannon, cheek-mounted (150 rpg)
-** 1 x 30 mm GSh-30-1 cannon + 60 x large calibre countermeasures
+** 1 x 30 mm GSh-30-1 cannon + 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -216,7 +221,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The MiG-29 has an unique flight character, it's engines consume much fuel thus the external fuel tank, getting rid of the external fuel tank will reduce drag and improve the performance of the aircraft, this is mostly done before engaging a target. But the engines also provide excellent thrust at a very wide range of speeds giving you enough power to engage in long-lasting dogfights. The aircraft is not equipped with variable wing sweep, which is not very noticeable. Only when flying at high speeds at lower altitudes will you begin to notice that the wings produce much lift. The MiG-29 has decent manoeuvrability at high and low speeds, the energy retention is not something to complain about either. The 30 mm guns have a high velocity, making it easy to aim at targets, and are much better than earlier Soviet aircraft. The missiles which are the most effective are the R-60M and R-27ER. The R-60M are very easy to flare off, and at its BR many people will dodge these missiles in a head-on fairly easily. But the R-27ER has some very effective performance, with an improved radar system this missile will rock the battlefield.
+The MiG-29 has a unique flight character, its engines consume a lot of fuel thus the external fuel tank, getting rid of the external fuel tank will reduce drag and improve the performance of the aircraft, this is mostly done before engaging a target. But the engines also provide excellent thrust at a very wide range of speeds giving you enough power to engage in long-lasting dogfights. The aircraft is not equipped with variable wing sweep, which is not very noticeable. Only when flying at high speeds at lower altitudes will you begin to notice that the wings produce much lift. The MiG-29 has decent manoeuvrability at high and low speeds, the energy retention is not something to complain about either. The 30 mm guns have a high velocity, making it easy to aim at targets, and are much better than earlier Soviet aircraft. The missiles which are the most effective are the R-60M and R-27ER. The R-60M are very easy to flare off, and at its BR many people will dodge these missiles in a head-on fairly easily. But the R-27ER has some very effective performance, with an improved radar system this missile will rock the battlefield.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -232,6 +237,7 @@ The MiG-29 has an unique flight character, it's engines consume much fuel thus t
 * Has IRST to search and track enemies, as well as slave IR weaponry, without alerting their Radar Warning Receiver (RWR)
 
 '''Cons:'''
+
 * Manoeuvrability drops at higher speed due to pilot pulling more G's, which can make it difficult to turn quickly without G-LOCing the pilot, such as evading a radar missile fired at close range
 * Underperforming IR missiles
 * Radar mechanics may have larger margin of error against very long-range (greater than 30 km) and very low altitude planes, even if enemy are within radar missile's weapon envelope.
@@ -246,6 +252,7 @@ Compared to its Sukhoi rival, the MiG-29 traded the advanced flight control syst
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mig_29_9_13 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -255,10 +262,10 @@ Compared to its Sukhoi rival, the MiG-29 traded the advanced flight control syst
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+
+* [[MiG-29 (Germany)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

@@ -121,7 +121,7 @@ As inherent to most light tanks, the lack of reliable armour is one of the most 
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 800 (200) || 1,200 || N/A || N/A
+| Coaxial || 800 (200) || 801 || N/A || N/A
 |-
 |}
 

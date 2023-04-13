@@ -45,7 +45,7 @@ The engine, radiator, and transmission are positioned in the front of the tank, 
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
-{{tankMobility|abMinHp=942|rbMinHp=538}}
+{{tankMobility|abMinHp=930|rbMinHp=531}}
 
 === Modifications and economy ===
 {{Specs-Economy}}

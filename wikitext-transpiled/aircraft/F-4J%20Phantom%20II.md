@@ -148,7 +148,7 @@ Like all naval Phantom models, the F-4J lacks an internal gun and is forced to r
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)}}
+{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|Mk 79 Mod 1 incendiary}}
 {{main|AIM-7E-2 Sparrow|AIM-7F Sparrow|AIM-9D Sidewinder|AIM-9G Sidewinder}}
 {{main|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|Mk 11 mod 5 (20 mm)}}
 
@@ -166,6 +166,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 24 x 500 lb LDGP Mk 82 bombs (12,000 lb total)
 * 15 x 750 lb M117 cone 45 bombs (11,250 lb total)
 * 11 x 1,000 lb LDGP Mk 83 bombs (11,000 lb total)
+* 3 x Mk 79 Mod 1 incendiary bombs
 
 The F-4J's arsenal does not look as impressive as its air force counterparts. While it does have the large bomb and rocket capacity that the fighter-bomber Phantoms are known for, the F-4J cannot use any guided air-to-ground munitions, not even the basic MCLOS [[AGM-12C Bullpup]] available to the F-4C. Thus, it is not very suitable for CAS in Ground RB at a battle rating where it faces long-range radar SAMs and the closest things it has to a standoff capability are firing swarms of Zuni rockets with ballistic computer assistance.
 
@@ -197,6 +198,9 @@ Up to four Sparrows can be carried on the fuselage pylons, but what is unique am
 |-
 ! 1,000 lb LDGP Mk 83 bombs
 | 2 || 2 || || || || 3 || || || || 2 || 2
+|-
+! Mk 79 Mod 1 incendiary bombs
+| || 1 || || || || 1 || || || || 1 ||
 |-
 ! FFAR Mighty Mouse rockets
 | 38 || 57 || || || || 57 || || || || 57 || 38

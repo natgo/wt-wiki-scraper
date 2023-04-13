@@ -75,10 +75,9 @@ The ZU-23 is perhaps one of the most famous AA autocannon in service, due to the
 |}
 
 ==== Ammunition ====
-
 * '''Default:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}
-* '''HEI-T:''' {{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}
-* '''API-T:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
+* '''HEFI-T:''' {{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}
+* '''APIT:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
 
 {{:ZU-23 (23 mm)/Ammunition|HEF-I, API-T, HEFI-T}}
 

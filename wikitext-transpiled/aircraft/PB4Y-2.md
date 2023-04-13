@@ -179,12 +179,13 @@ In general, when engaged by fighters, one should attempt to force them to attack
 
 * Large payload (8 x naval mines) allows the plane to be used for area denial in ground and naval battles
 * Great defensive coverage except from below
-* Highly survivable, with critical modules spread out to help absorb the damage
 * Tricycle landing gear helps the plane to land without the risk of nosing over
 
 '''Cons:'''
 
 * Mediocre stock payload
+* Mediocre survivability
+* The tail can come off very easily due to enemy attacks, causing the destruction of the vehicle
 * Extremely slow and sluggish, even for a heavy bomber
 * Poor engine performance at high altitude (optimized for low altitude)
 * Huge vertical stabiliser can be easily damaged
@@ -204,6 +205,7 @@ Following the end of the Second World War, the remaining PB4Ys were used as mari
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=pb4y-2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

@@ -11,13 +11,19 @@ import {
   HelicopterOptics,
   Mods,
   NightVision,
+  ShipVehicle,
   Shop,
   Sights,
   TankWeapons,
   UnitData,
+  aircraftTypeSchema,
+  boatTypeSchema,
+  groundTypeSchema,
   helicopterOpticsSchema,
+  helicopterTypeSchema,
   namevehicles,
   opticIr,
+  shipTypeSchema,
 } from "../types";
 import { commonVehicle } from "./commonVehicle";
 import { commonWeaponToCannon } from "./commonWeaponToCannon";
@@ -25,6 +31,7 @@ import { machineGun } from "./machineGun";
 import { sensors } from "./sensors";
 import { vehicleBallistic } from "./vehicleBallistic";
 import { vehiclePreset } from "./vehiclePreset";
+import { vehicleType } from "./vehicleType";
 
 async function main(dev: boolean) {
   const economy: Record<string, Economy> = JSON.parse(
@@ -87,6 +94,8 @@ async function main(dev: boolean) {
     ground: [],
     aircraft: [],
     helicopter: [],
+    ship: [],
+    boat: [],
   };
 
   vehicles.ground.forEach((element) => {
@@ -185,6 +194,7 @@ async function main(dev: boolean) {
                 weaponry_lang,
                 modification_lang,
                 dev,
+                "ground",
               );
               gun ? weapons.cannon?.push(gun) : null;
             }
@@ -195,11 +205,12 @@ async function main(dev: boolean) {
               weaponry_lang,
               modification_lang,
               dev,
+              "ground",
             );
             gun ? weapons.cannon?.push(gun) : null;
           }
         } else if (element.triggerGroup === "coaxial" || element.triggerGroup === "machinegun") {
-          const gun = machineGun(element, bullets, weaponry_lang, modification_lang, dev);
+          const gun = machineGun(element, bullets, weaponry_lang, modification_lang, dev, "ground");
           gun ? weapons.machineGun?.push(gun) : null;
         }
       });
@@ -211,7 +222,7 @@ async function main(dev: boolean) {
         Weapon.triggerGroup === "secondary"
       ) {
         weapons.cannon?.push(
-          commonWeaponToCannon(Weapon, bullets, weaponry_lang, modification_lang, dev),
+          commonWeaponToCannon(Weapon, bullets, weaponry_lang, modification_lang, dev, "ground"),
         );
       }
     }
@@ -276,6 +287,7 @@ async function main(dev: boolean) {
 
     final.ground.push({
       ...commonVehicle(element, vehicleLang, vehicleEconomy, vehicleUnit, shopData, "army"),
+      ...groundTypeSchema.parse(vehicleType(vehicleUnit, "ground")),
       type: "ground",
       mass: vehicleData.VehiclePhys.Mass.Empty + vehicleData.VehiclePhys.Mass.Fuel,
       horsepower: vehicleData.VehiclePhys.engine.horsePowers,
@@ -313,6 +325,7 @@ async function main(dev: boolean) {
 
     final.aircraft.push({
       ...commonVehicle(element, vehicleLang, vehicleEconomy, vehicleUnit, shopData, "aviation"),
+      ...aircraftTypeSchema.parse(vehicleType(vehicleUnit, "aircraft")),
       type: "aircraft",
       ballistic_computer: vehicleBallistic(vehicleData),
       secondary_weapon_preset: vehiclePreset(vehicleData, weaponry_lang, dev),
@@ -372,6 +385,7 @@ async function main(dev: boolean) {
 
     final.helicopter.push({
       ...commonVehicle(element, vehicleLang, vehicleEconomy, vehicleUnit, shopData, "helicopters"),
+      ...helicopterTypeSchema.parse(vehicleType(vehicleUnit, "helicopter")),
       type: "helicopter",
       ...sensors(vehicleData, dev),
       optics: helicopterOpticsSchema.parse(optics),
@@ -379,6 +393,47 @@ async function main(dev: boolean) {
       secondary_weapon_preset: vehiclePreset(vehicleData, weaponry_lang, dev),
     });
   });
+  vehicles.ships.forEach((element) => {
+    const vehicleData: ShipVehicle = JSON.parse(
+      fs.readFileSync(
+        `./${
+          dev ? "datamine-dev" : "datamine"
+        }/aces.vromfs.bin_u/gamedata/units/ships/${element.intname.toLowerCase()}.blkx`,
+        "utf-8",
+      ),
+    );
+    const vehicleEconomy = economy[element.intname];
+    const vehicleUnit = unitData[element.intname];
+    const vehicleLang = parseLang(units_lang, element.intname + "_shop");
+    console.log(element.intname);
+
+    final.ship.push({
+      ...commonVehicle(element, vehicleLang, vehicleEconomy, vehicleUnit, shopData, "ships"),
+      ...shipTypeSchema.parse(vehicleType(vehicleUnit, "ship")),
+      type: "ship",
+    });
+  });
+  vehicles.boats.forEach((element) => {
+    const vehicleData: ShipVehicle = JSON.parse(
+      fs.readFileSync(
+        `./${
+          dev ? "datamine-dev" : "datamine"
+        }/aces.vromfs.bin_u/gamedata/units/ships/${element.intname.toLowerCase()}.blkx`,
+        "utf-8",
+      ),
+    );
+    const vehicleEconomy = economy[element.intname];
+    const vehicleUnit = unitData[element.intname];
+    const vehicleLang = parseLang(units_lang, element.intname + "_shop");
+    console.log(element.intname);
+
+    final.boat.push({
+      ...commonVehicle(element, vehicleLang, vehicleEconomy, vehicleUnit, shopData, "boats"),
+      ...boatTypeSchema.parse(vehicleType(vehicleUnit, "boat")),
+      type: "boat",
+    });
+  });
+
   fs.writeFileSync(
     `./out/${dev ? "final-dev" : "final"}.json`,
     format(JSON.stringify(final), { parser: "json" }),

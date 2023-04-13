@@ -10,10 +10,9 @@
 }}
 
 == Description ==
-<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Italian jet fighter {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
+<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->This is F-104S exported to Turkey from Italy, the Turkish Air Force bought these F-104S during the Cuban Missile Crisis era to increase the combat capabilities of the air force already equipped with 2 squadrons of F-4E, Turkey bought 40 new F-104S interceptors from FIAT in 1974-1975.
 
-The Italian-exported F-104S to Turkey; although the F-104 series are deemed obsolete at this tier, especially in terms of its doctrine of trading manoeuvrability for high speed and climb rate, if used with caution to more advanced jets, it is still capable in combat with a large amount of A2A weaponry against unaware targets.
+The F-104S (TAF) was introduced during the [[Update "Apex Predators"|"Apex Predators" update]] in the game is very complicated to use because of its manoeuvrability, in comparison to the tech tree F-104S it carries the 20mm minigun under the fuselage instead of in the nose, the aircraft can be used both as a CAS and air superiority platform due to its excellent acceleration, ballistic computer and climb rate, As an air-to-air missile you can rely on both the AIM-9J and AIM-7E SARH missiles to shoot down enemy planes and helicopters during battles, or using a payload of bombs or rockets to act as a CAS for your allies in Ground Battles, while you can use the available flare/chaff to ward off enemy threats.
 
 == General info ==
 === Flight performance ===
@@ -266,6 +265,8 @@ This jet, numbered '''MM6900/75-6900''' of the Project Bora-II delivery was then
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
+
+* [[wt:en/news/8004-shop-pre-order-new-rank-vii-premium-jet-fighters-part-1-en|[Shop] Pre-order: new rank VII Premium jet fighters (part 1)]]
 
 === References ===
 <references />

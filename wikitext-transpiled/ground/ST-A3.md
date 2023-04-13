@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese medium tank {{Battle-rating}}. It was introduced in [[Update "Hot Tracks"]].
+The '''{{Specs|name}}''' was the third and last finished prototype for the [[Type 61]]. Being part of the second phase of development for the Type 61, together with the ST-A4 it overcame the transmission problems the ST-A1/2 had, and the overall vehicle design was pretty much the same as the final production model. While the ST-A4 was a later prototype, it was completed earlier than the ST-A3, and due to the ease of manufacturing and enlarged cupola became the basis for the Type 61 MBT. This left the ST-A3 behind as a promising prototype incorporating an autoloader.
+
+The ST-A3 was introduced in [[Update "Hot Tracks"]]. While very similar to the final product being the [[Type 61]] MBT, it comes with a 6-second autoloader with a first-stage of 11 shells, which makes it essentially a Type 61 with a 1-second faster reload regardless of crew damage. For tank combat, the ST-A3 in War Thunder has a commander cupola that is less at risk of being hit due to its small profile, the machine gun coming with a gun shield offers some spalling protection to the HMG and offers slightly higher elevation making for a better anti-air defense.
 
 == General info ==
 === Survivability and armour ===

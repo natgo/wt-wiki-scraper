@@ -204,8 +204,6 @@ The A-1H can perform well in battles at its BR, either in a CAS role with 30 x 2
 * 20 mm cannons and miniguns have different ballistic properties, can make lining up shot somewhat tricky
 * Can face jet aircraft that can easily hunt down and destroy the plane
 * Mighty Mouse Rockets are ineffective, requiring a direct hit even against SPAA
-* Anti-air like the AMX-13 DCA 40, Ostwind, Kugelblitz, BTR-ZD, and Lvkv II can punish this aircraft if too close
-* Toilet bomb has very low explosive mass, only effective on GAZ trucks and open-top AA
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -215,6 +213,7 @@ The A-1H can perform well in battles at its BR, either in a CAS role with 30 x 2
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=douglas_a_1h Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

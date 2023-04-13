@@ -111,7 +111,7 @@ The main cannon is only effective in close-quarter combat (usually within 200 m)
 
 Alongside the main gun, the M3 has four additional [[M1919A4 (7.62 mm)|7.62 mm M1919A4]] machine guns. The first machine gun noted is in a coaxial mount aligned with the gun, the second is mounted on the turret top in a pintle mount and the last two are mounted on the hull sides in a fixed firing position. The M3 does also have a hull front machine gun, however, this machine gun cannot be fired.
 
-The machine gun is only powerful enough to destroy poorly protected vehicles such as AS 42, Flakpanzer I and GAZ-AAAs. The penetration of around 10 mm is not enough to go through the frontal armour of those not-so-weakly-armoured tanks like SU-5-1, Panzerjäger I or 15cm sIG 33 B Sfl. If you are skilled the two machine guns can effectively damage low-flying biplanes.
+The machine gun is only powerful enough to destroy poorly protected vehicles such as AS 42, Flakpanzer I and GAZ-AAAs. The penetration of around 10 mm is not enough to go through the frontal armour of those not-so-weakly-armoured tanks like SU-5-1, Panzerjäger I or 15cm sIG 33 B Sfl. If you are skilled the two machine guns can effectively damage low-flying biplanes or deter enemy ground attack aircraft.
 
 {| class="wikitable" style="text-align:center"
 |-

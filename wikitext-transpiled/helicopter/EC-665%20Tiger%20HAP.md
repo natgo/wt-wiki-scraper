@@ -65,7 +65,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 * A choice between two presets:
 ** 1 x 30 mm GIAT M781 cannon (450 rpg)
-** 1 x 30 mm GIAT M781 cannon + 60 x countermeasures
+** 1 x 30 mm GIAT M781 cannon + 64 x countermeasures
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}

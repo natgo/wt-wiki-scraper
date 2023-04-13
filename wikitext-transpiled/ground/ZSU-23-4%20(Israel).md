@@ -43,9 +43,8 @@ ZSU-23-4s were captured from Egypt and Syria by Israel during the Yom Kippur War
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
 
-{{tankMobility}}
+{{tankMobility|abMinHp=398|rbMinHp=248}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -57,8 +56,6 @@ ZSU-23-4s were captured from Egypt and Syria by Israel during the Yom Kippur War
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|AZP-23 (23 mm)}}
 
-''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.''
-
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! colspan="6" | [[AZP-23 (23 mm)|23 mm AZP-23]] (x4) || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
@@ -68,20 +65,19 @@ ZSU-23-4s were captured from Egypt and Syria by Israel during the Yom Kippur War
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 2,000 (500) || rowspan="2" | 850 || rowspan="2" | -4°/+85° || rowspan="2" | ±180° || rowspan="2" | Two-plane || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 2,000 (500) || rowspan="2" | 850 || rowspan="2" | -4°/+85° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 61.6 || 85.3 || 103.6 || 114.6 || 121.9 || rowspan="2" | 5.20 || rowspan="2" | 4.60 || rowspan="2" | 4.24 || rowspan="2" | 4.00
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 41.6 || 49.0 || 59.5 || 65.8 || 70.0
 |-
 |}
 
 ==== Ammunition ====
-
 * '''Default:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}
-* '''HEI-T:''' {{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}
-* '''API-T:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
+* '''HEFI-T:''' {{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}
+* '''APIT:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
 
-{{:AZP-23 (23 mm)/Ammunition|API-T, HEF-I, HEFI-T}}
+{{:AZP-23 (23 mm)/Ammunition|HEF-I, API-T, HEFI-T}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->

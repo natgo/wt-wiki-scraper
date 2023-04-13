@@ -146,25 +146,20 @@ One somewhat unconventional tool that the Cromwell has access to is an abundance
 
 '''Pros:'''
 
-* Very fast for a medium tank
-* 57 mm is a good gun in dealing with many vehicles that it may face
-* Above 2 combined make it excellent for seizing zones and destroying the lighter tanks from other nations that are usually the first there
-* Great gun handling
-* With judicious use, the tank can often end up with the most formidable tank in a lower rank game
+* Very fast for a medium tank, excellent for capturing zones
+* 57 mm performs well against most armoured targets
+* Gun handles well
 * Can easily hide behind obstacles and surprise passing enemies with a flanking manoeuvre
-* If played correctly, it can outflank and destroy even higher ranking tanks
-* Has a speed of 64 km/h on flat terrain
+* Remains competitive even in an uptier
 
 '''Cons:'''
 
-* Terrible reverse speed
-* Neutral turning does not like any terrain sloping
-* Poor at peeking shots
-* Not well armoured when up-tiered and the 57 mm gun is marginal
+* Terrible reverse speed, makes overtextending difficult
+* Neutral turning performs poorly on sloped terrain
 * Sensitive steering in forward travelling gears
-* Boxy, vertical armour on hull and turret makes angling critical
-* 57 mm struggles to penetrate sloped or angled (or both) armour. T-34s and KV-1s are an issue at this rank as they are very difficult to penetrate at long range
-* Gunner is frequently knocked out from frontal shots
+* Boxy, vertical armour on hull and turret makes angling essential
+* Gunner can frequently be knocked out from frontal shots
+* 57 mm struggles to penetrate sloped or angled armour. T-34s and KV-1s are an issue at this rank as they are very difficult to penetrate at long ranges
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -176,7 +171,7 @@ When Britain entered the war, Rolls-Royce stopped producing cars and set up a te
 Production of the tank began in November 1942 with new names given out the tanks. The original A24 Cromwell I from Nuffield was renamed the Cavalier, the Liberty powered Cromwell II became the Centaur, and the Meteor powered Cromwell III retained the name as the '''Cromwell'''. The actual Cromwell tank production was delayed until January 1943 due to low supply of Meteor engines until the Rover factory began producing it. With more Meteor engines being produced, the Centaur tanks were often converted to use the Meteor engine, turning them into Cromwells. Field tests with the tanks took place in August to September in 1943 alongside the [[M4A2|M4A2]] and M4A4 Shermans. The tests proved the Shermans to be more reliable than the Cromwell and Centaurs, needing only about 0.03 hours of mechanical attention every mile compared to the Cromwell's 0.07 hours per mile and the Centaur's 0.08 hours per mile. The two tanks were thus given time to iron out these deficiencies, the Cromwell suffered from oil leaks along with brake and clutch failures. While the tank suffered from these defects, the crews expressed their satisfaction with the designs for their speed and handling, but the Centaur was not given the same attention as the Cromwell. The second test in November had the Cromwell perform with improved results while the Centaur was still experiencing the same problems. The production model was finalized on February 2, 1944, after a specifications for a "Battle Cromwell" came in from Leyland, which included some design changes, an increase of 6 mm on the bottom of the tank, seam welding the joints, and the standard usage of the Meteor engine and the Merritt Brown transmission. The Centaur was relegated to training roles or modified for specialist roles such as anti-aircraft guns or engineering vehicles. Total production for the A27 tank series is 4,016 tanks, of which 950 are Centaurs and 3,066 are Cromwells.
 
 ===Design===
-The Cromwell's frame used a riveted construction in its initial production models, but this later changed to welding. The frame was strengthened with bolted armour plates. Companies involved in the A27 production were LMS Railway, Morris Motors, Metro-Cammell, Birmingham Railway Carriage & Wagon Company, and English Electric. Some of these models were not consistent in construction, such as some variants built with 360 mm wide tracks and some with 393 mm tracks. The suspension was a Christie suspension derived from the earlier cruiser tank designs. Four of the tanks' road wheels have shock absorbers, and no return rollers are available, the tracks are supported on the top of the large road wheels. The gearbox has five forward and one reverse gear, with the first forward gear made for confined areas and sharp turns. While the Meteor engine is capable of going faster, it is restricted to 540 hp output with a governor to avoid straining the engine and suspension. The Cromwell's armaments changed over a few times, it's initial model mounted the 6-pounder gun, but the later models [[Cromwell V|mounted the 75 mm gun]]. The adaption was easy due to the 75 mm gun being a 6-pounder bored for the larger calibre. A 7.92 mm BESA machine gun was available for coaxial firing on the turret. The armour on the Cromwell started as a 76 mm plate, which increased gradually to 83 mm and 100 mm overtime for additional protection.
+The Cromwell's frame used a riveted construction in its initial production models, but this later changed to welding. The frame was strengthened with bolted armour plates. Companies involved in the A27 production were LMS Railway, Morris Motors, Metro-Cammell, Birmingham Railway Carriage & Wagon Company, and English Electric. Some of these models were not consistent in construction, such as some variants built with 360 mm wide tracks and some with 393 mm tracks. The suspension was a Christie suspension derived from the earlier cruiser tank designs. Four of the tanks' road wheels have shock absorbers, and no return rollers are available, the tracks are supported on the top of the large road wheels. The gearbox has five forward and one reverse gear, with the first forward gear made for confined areas and sharp turns. While the Meteor engine is capable of going faster, it is restricted to 540 hp output with a governor to avoid straining the engine and suspension. The Cromwell's armaments changed over a few times, its initial model mounted the 6-pounder gun, but the later models [[Cromwell V|mounted the 75 mm gun]]. The adaption was easy due to the 75 mm gun being a 6-pounder bored for the larger calibre. A 7.92 mm BESA machine gun was available for coaxial firing on the turret. The armour on the Cromwell started as a 76 mm plate, which increased gradually to 83 mm and 100 mm overtime for additional protection.
 
 The '''A27M Cromwell I''' was exactly the same as Centaur I, with the biggest difference being that it was powered with a Meteor engine. It featured a 6-pounder as its main armament, but only a few were produced before the Cromwell changed armament to the [[Ordnance QF Mk.V (75 mm)|75 mm gun]]
 

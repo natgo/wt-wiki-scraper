@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' {{Annotation|八九式中戦車 (乙型)「イ号」|Hachikyū-Shiki Chū-Sensha (Otsu-Gata) [I-Gō]}}  is a reserve rank {{Specs|rank}} Japanese light tank {{Battle-rating}}. It was introduced in [[Update 1.65 "Way of the Samurai"]] along with the rest of the initial Japanese Ground Forces Tree.
+The '''{{Specs|name}}''' {{Annotation|八九式中戦車 (乙型)「イ号」|Hachikyū-Shiki Chū-Sensha (Otsu-Gata) [I-Gō]}} was Japan's first domestic mass-produced tank, with the model B (otsu) being the world's first diesel-powered mass-produced tank to boot. Design started in 1925 as a light tank project planned on the FT-17, but the design based on the Vickers Medium C, the I-Go was adopted in 1929 as a light tank but shortly after reclassified as a medium tank for weighing over 10 tons. Well regarded in its early career against the poorly armoured forces of the Chinese, it couldn't keep up with motorized infantry and was easily outgunned at Khalkin Gol, and would be phased out by the 2nd generation of Imperial Japanese tanks, the [[Ha-Go]] and [[Chi-Ha]].
+
+It was introduced in [[Update 1.65 "Way of the Samurai"]] along with the rest of the initial Japanese Ground Forces Tree. While a slow infantry support tank, with little armour for tank combat, it comes equipped with a low velocity 57 mm cannon loaded with capable HEAT shells, able to lob high penetrating shells at close range and behind cover. Making for a challenging task for new tankers, it will serve as a trial by fire to learn positioning and shell trajectory with a glass cannon.
 
 == General info ==
 === Survivability and armour ===

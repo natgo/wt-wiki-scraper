@@ -160,9 +160,9 @@ The MGS is armed with the already seen MG42/59 and a newly mounted M2HB. As seen
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 4,600 (200) || 1,200 || N/A || N/A
+| Coaxial || 4,600 (200) || 801 || N/A || N/A
 |-
-| Pintle || 2,000 (200) || 1,200 || -8°/+20° || ±120°
+| Pintle || 2,000 (200) || 801 || -8°/+20° || ±120°
 |-
 |}
 

@@ -93,18 +93,19 @@ The VRCC-105 has enough armour to withstand attacks from machine-guns but enough
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|Beretta MG42/59 (7.62 mm)}}
 
-The VRCC-105 is equipped with two 7.62 mm Beretta MG42/59 machine guns with a high rate of fire. One machine gun is coaxial and operates on the same axes as the main cannon. The other machine gun is mounted to the left of the commander's cupola and moves independently from the rest of the turret. This gives it 360-degrees of rotation. These machine guns can sometimes be effective against helicopters and slow-moving planes, but a large number of bullets are required to take down these targets. Otherwise, the machine guns are ineffective against armoured targets such as enemy tanks and IFVs. They can be used to take down foliage and light obstructions in order to clean lines of travel or sight. If fired at an enemy turret it has the potential to obscure the gunner's view, making it harder for the enemy to shoot you. Otherwise, the machine guns are unremarkable.
+The VRCC-105 is equipped with two 7.62 mm Beretta MG42/59 machine guns with a high rate of fire. One machine gun is coaxial and operates on the same axes as the main cannon. The other machine gun is mounted to the left of the commander's cupola and moves independently from the rest of the turret. This gives it a 360-degree rotation. These machine guns can sometimes be effective against helicopters and slow-moving planes, but a large number of bullets are required to take down these targets. Otherwise, the machine guns are ineffective against armoured targets such as enemy tanks and IFVs. They can be used to take down foliage and light obstructions in order to clean lines of travel or sight. If fired at an enemy turret it has the potential to obscure the gunner's view, making it harder for the enemy to shoot you. Otherwise, the machine guns are unremarkable.
 {| class="wikitable" width="50%" style="text-align:center"
 |-
 ! colspan="5" |[[Beretta MG42/59 (7.62 mm)|7.62 mm Beretta MG42/59]]
 |-
-!Mount!!Capacity (Belt)!!Fire rate!!Vertical!!Horizontal
+! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-|Coaxial||4,600 (200)||1,200||N/A||N/A
+| Coaxial || 4,600 (200) || 801 || N/A || N/A
 |-
-|Pintle||2,000 (200)||1,200||-8°/+20°||±120°
+| Pintle || 2,000 (200) || 801 || -8°/+20° || ±120°
 |-
 |}
+
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 <!--''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).-->''

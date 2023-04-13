@@ -62,17 +62,17 @@ The PTZ89 uses a domestic 120 mm smoothbore cannon. The turret is equipped with 
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[PTZ89 (120 mm)|120 mm PTZ89]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[PTZ89 (120 mm)|120 mm PTZ89]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 30 || rowspan="2" | -5°/+18° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 13.2 || 18.3 || 22.2 || 24.6 || 26.1 || rowspan="2" | 5.00 || rowspan="2" | 5.00 || rowspan="2" | 5.00 || rowspan="2" | 5.00
+| rowspan="2" | 30 || rowspan="2" | -5°/+18° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 15.8 || 21.9 || 26.6 || 29.4 || 31.3 || rowspan="2" | 5.00
 |-
 ! ''Realistic''
-| 8.9 || 10.5 || 12.8 || 14.1 || 15.0
+| 10.7 || 12.6 || 15.3 || 16.9 || 18.0
 |-
 |}
 
@@ -110,7 +110,7 @@ The DYS120 HE shell is not very powerful and has limited utility. It might be ab
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle || 600 (150) || 700 || -5°/+60° || ±180°
+| Pintle || 600 (150) || 600 || -6°/+85° || ±180°
 |-
 |}
 

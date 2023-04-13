@@ -61,10 +61,10 @@ The main and the only armament on AFT09 is the HJ-9 ATGMs onboard, these 12 roun
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 12 (4) || rowspan="2" | ±10° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 26.4 || 36.5 || 44.4 || 49.1 || 52.2 || rowspan="2" | 15.00 || rowspan="2" | 15.00 || rowspan="2" | 15.00 || rowspan="2" | 15.00
+| rowspan="2" | 12 (4) || rowspan="2" | ±10° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 13.2 || 18.3 || 22.2 || 24.5 || 26.1 || rowspan="2" | 15.00 || rowspan="2" | 15.00 || rowspan="2" | 15.00 || rowspan="2" | 15.00
 |-
 ! ''Realistic''
-| 17.9 || 21.0 || 25.5 || 28.2 || 30.0
+| 8.9 || 10.5 || 12.8 || 14.1 || 15.0
 |-
 |}
 

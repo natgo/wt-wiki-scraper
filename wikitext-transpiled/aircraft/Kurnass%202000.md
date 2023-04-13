@@ -1,3 +1,8 @@
+{{About
+| about = Israeli jet fighter '''{{PAGENAME}}'''
+| usage = the other version
+| link = Kurnass
+}}
 {{Specs-Card
 |code=f-4e_kurnass_2000
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -11,11 +16,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-r
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
+! colspan="2" | Max speed<br>(km/h at 12,192 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -24,10 +28,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-r
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
+| 2,065 || 2,039 || rowspan="2" | {{Specs|ceiling}} || 26.5 || 27.5 || 160.6 || 150.9 || rowspan="2" | 850
 |-
 ! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+| 2,202 || 2,140 || 25.5 || 26.0 || 221.6 || 190.0
 |-
 |}
 
@@ -38,7 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-r
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| _ || _ || _ || _ || _ || _     <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -53,7 +57,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-r
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || ___ || ___ || ___ || ~__ || ~__
+| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 1,458 || 625 || 463 || ~11 || ~4
 |-
 |}
 
@@ -63,7 +67,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-r
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || > ___
+| < 810 || < 750 || < 700 || -
 |-
 |}
 
@@ -76,29 +80,29 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-r
 ! colspan="2" | Engine name || Number
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
 |-
-| colspan="2" | _____ || _
-| colspan="2" | _,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
+| colspan="2" | General Electric J79-GE-17 || 2
+| colspan="2" | 14,205 kg || colspan="2" | 408 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
-! _m fuel || __m fuel || __m fuel
+! 9m fuel || 20m fuel || 30m fuel
 |-
-| ___ kg || colspan="2" | ___
-| _,___ kg || _,___ kg || _,___ kg || _,___ kg
+| 1,750 kg || colspan="2" | Afterburning axial-flow turbojet
+| 15,964 kg || 18,027 kg || 20,070 kg || 27,501 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
-! colspan="4" | Thrust to weight ratio @ 0 m (___%/WEP)
+! colspan="4" | Thrust to weight ratio @ 0 m (WEP)
 |-
-! Condition || 100% || ___%/WEP
-! _m fuel || __m fuel || __m fuel || MGW
+! Condition || 100% || WEP
+! 9m fuel || 20m fuel || 30m fuel || MGW
 |-
-| ''Stationary'' || ___ kgf || ___ kgf
-| _.__ || _.__ || _.__ || _.__
+| ''Stationary'' || 5,200 kgf || 8,008 kgf
+| 1.00 || 0.89 || 0.80 || 0.58
 |-
-| ''Optimal'' || ___ kgf<br>(_ km/h) || ___ kgf<br>(_ km/h)
-| _.__ || _.__ || _.__ || _.__
+| ''Optimal'' || 5,260 kgf<br>(1,458 km/h) || 10,170 kgf<br>(1,400 km/h)
+| 1.27 || 1.13 || 1.01 || 0.74
 |-
 |}
 
@@ -112,6 +116,15 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-r
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="5" | [[Ballistic Computer]]
+|-
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
+|-
+| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
+|-
+|}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
@@ -126,21 +139,121 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.''
+{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
+{{main|GBU-12 Paveway II (277 kg)|GBU-10 Paveway II (957 kg)|AGM-65D}}
+{{main|AIM-7E-2 Sparrow|AIM-7F Sparrow|AIM-9G Sidewinder|AIM-9L Sidewinder}}
+{{main|BLU-27/B incendiary|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|GAU-4 (20 mm)}}
+
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+
+* Without load
+* 2 x AIM-9G Sidewinder missiles
+* 6 x AIM-9G Sidewinder missiles
+* 6 x AIM-9L Sidewinder missiles
+* 3 x 20 mm GAU-4 cannons (1,200 rpg = 3,600 total)
+* 24 x 250 lb LDGP Mk 81 bombs (6,000 lb total)
+* 24 x 500 lb LDGP Mk 82 bombs (12,000 lb total)
+* 17 x 750 lb M117 cone 45 bombs (12,750 lb total)
+* 4 x BLU-27/B incendiary bombs
+* 13 x 1,000 lb LDGP Mk 83 bombs (13,000 lb total)
+* 3 x 2,000 lb LDGP Mk 84 bombs (6,000 lb total)
+* 285 x FFAR Mighty Mouse rockets
+* 60 x Zuni Mk32 Mod 0 ATAP rockets
+* 4 x AIM-7E-2 Sparrow missiles
+* 4 x AIM-7F Sparrow missiles
+* 144 x countermeasures
+* 6 x AGM-65D missiles
+* 4 x 277 kg GBU-12 Paveway II bombs (1,108 kg total)
+* 4 x 957 kg GBU-10 Paveway II bombs (3,828 kg total)
+
+==== Custom loadout options ====
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
+| rowspan="20" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-4C_Phantom_II.png]]</div>
+|-
+! 20 mm GAU-4 cannons (1,200 rpg)
+| 1 || || || || || 1 || || || || || 1
+|-
+! 250 lb LDGP Mk 81 bombs
+| 6 || 3 || || || || 6 || || || || 3 || 6
+|-
+! 500 lb LDGP Mk 82 bombs
+| 6 || 3 || || || || 6 || || || || 3 || 6
+|-
+! 750 lb M117 cone 45 bombs
+| 3 || 3 || || || || 5 || || || || 3 || 3
+|-
+! 1,000 lb LDGP Mk 83 bombs
+| 2 || 3 || || || || 3 || || || || 3 || 2
+|-
+! 2,000 lb LDGP Mk 84 bombs
+| 1 || || || || || 1 || || || || || 1
+|-
+! BLU-27/B incendiary bombs
+| 1 || || || || || 2 || || || || || 1
+|-
+! 277 kg GBU-12 Paveway II bombs
+| || 2*<sup>†</sup> || || || || || || || || 2*<sup>†</sup> ||
+|-
+! 957 kg GBU-10 Paveway II bombs
+| 1*<sup>†</sup> || 1*<sup>†</sup> || || || || || || || || 1*<sup>†</sup> || 1*<sup>†</sup>
+|-
+! FFAR Mighty Mouse rockets
+| 57 || 57 || || || || 57 || || || || 57 || 57
+|-
+! Zuni Mk32 Mod 0 ATAP rockets
+| 12 || 12 || || || || 12 || || || || 12 || 12
+|-
+! AGM-65D missiles
+| || 3<sup>†</sup> || || || || || || || || 3<sup>†</sup> ||
+|-
+! AIM-7E-2 Sparrow missiles
+| || || || 1<sup>‡</sup> || 1 || || 1 || 1<sup>‡</sup> || || ||
+|-
+! AIM-7F Sparrow missiles
+| || || || 1<sup>‡</sup> || 1 || || 1 || 1<sup>‡</sup> || || ||
+|-
+! AIM-9G Sidewinder missiles
+| || || 2<sup>†</sup> || || 1<sup>‡</sup> || || 1<sup>‡</sup> || || 2<sup>†</sup> || ||
+|-
+! AIM-9L Sidewinder missiles
+| || || 2<sup>†</sup> || || 1<sup>‡</sup> || || 1<sup>‡</sup> || || 2<sup>†</sup> || ||
+|-
+! Countermeasures
+| || || || 72 || || || || 72 || || ||
+|-
+! Pave Spike targeting pod
+| || || || || || || 1* || || || ||
+|-
+| colspan="12" | Maximum permissible loadout weight: 7,257 kg<br>Maximum permissible weight imbalance: 1,500 kg
+|-
+| colspan="13" | * Pave Spike targeting pod must be equipped when carrying guided bombs <br> <sup>†</sup> AGM-65D missiles on hardpoints 2/10 cannot be equipped in conjunction with guided bombs, or Sidewinders on hardpoints 3/9 respectively <br> <sup>‡</sup> Sparrows on hardpoints 4/8 cannot be carried in conjunction with Sidewinders on hardpoints 5/7 respectively
+|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+
+'''Air RB:'''
+
+In Air RB, the Kurnass 2000 could be compared to the [[F-4EJ Kai Phantom II|F-4EJ Kai]], having the same air-to-air missile armament and similar radar. To properly utilize the 8 potent missiles and one of the best radars in game is the major task that every Kurnass 2000 pilot will have to face. Typically, enter the battle at a low altitude and shooting down everyone on your way is a viable and effective way to fly the Kurnass 2000. Climbing could also be attempted, but given the presence of AIM-54s and 4th generation fighter jets featuring the same avionics and significantly higher climb rate, it would be a riskier style to fly the Kurnass 2000.
+
+A major difference between the Kurnass 2000 and the F-4EJ Kai is the slats on the Kurnass' wings. At high speed, extension of the slats provides more lift and limits the angle of attack of the aircraft, resulting in a significant decrease in speed loss during turns to a level even comparable to the level of 4th generation aircraft like the F-16 and MiG-29. At lower speed, the slats also increase the overall manoeuvrability of the aircraft, so it is advised to extend the slats in battles (by toggling "combat flaps"), especially when fighting in groups, retracting them when needed to gain more speed or for higher angle of attack. Overall, the slats of the Kurnass provides pilots with the ability to alter the aerodynamics of the aircraft during combat, and provide more versatility and a higher overall performance compared to the F-4EJ Kai.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
-*
+
+* One of the most effective air-to-air armament sets in-game with AN/APG-76, AIM-7Fs, and AIM-9Ls
+* Wing slats for increased manoeuvrability and versatility
+* High level of manoeuvrability at high speed as with any other Phantoms
+* Guided bombs and missile with targeting pod for engaging ground targets
 
 '''Cons:'''
-*
+
+* Big and heavy aircraft
+* Thrust to weight ratio less than 4th generation jets
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -148,21 +261,29 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f-4e_kurnass_2000 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+;Videos
+{{Youtube-gallery|We702awM1kA|'''Kurnass 2000: A Basic Review''' - ''Tims Variety''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+
+;Related development
+
+* [[F-4 Phantom II (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

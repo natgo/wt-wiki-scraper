@@ -159,17 +159,16 @@ Another way to play the M4 Sherman is to tap into its traditional cavalry role, 
 * Great turret traverse speed allows it to deal with multiple threats easily
 * Sloped hull armour provides good protection against small calibre / low-penetration shells (e.g. 75 mm M3), and even large calibre guns when angled correctly. In addition, Italy is usually grouped with Germany therefore this M4 won't face the long 75 mm, increasing its survivability
 * Adequate top speed allows it to get to positions in time, or to do tactical manoeuvres like flanking
-* Pintle-mounted HMG provides an anti-aircraft defence or anti-tank duty against tanks like [[ZiS-30]]
 * Fitted with a vertical stabilizer, allowing more accurate fire on the move compared to other tanks, as well as better usage of shoot-n-scoot tactics
 
 '''Cons:'''
 
 * Large profile and weak side armour; flankers like the M24 Chaffee can easily see and penetrate it
 * Frontal armour is still inadequate, will get frontally penetrated and knocked out with a single shot
-* The best M61 shell struggles to penetrate heavy targets
+* The M61 shell struggles to penetrate heavy targets
 * Trajectory is curved and velocity is low due to its short barrel, thus distant/moving targets are hard to shoot at
 * Hull traverse is quite slow, making it sluggish in a turn
-* Roof armour of 19.5 mm thick is vulnerable to airstrikes with AP cannons. For example the widely used [[M2 Browning (12.7 mm)|M2 Browning]]
+* Roof armour of 19.5 mm thick is vulnerable to airstrikes with AP cannons
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

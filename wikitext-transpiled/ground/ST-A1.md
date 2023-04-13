@@ -12,11 +12,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (also known by '''STA-1''') is a rank {{Specs|rank}} Japanese medium tank {{Battle-rating}}. It was introduced along with the initial Japanese Ground Forces tree in [[Update 1.65 "Way of the Samurai"]].
+The '''{{Specs|name}}''' was Japan's first indigenous tank design after the war, being the first prototype towards the later [[Type 61]] MBT. It was mainly based on the [[M46|M46 Patton]], carrying the 90 mm M3 cannon capable of firing HEAT-FS to defeat contemporary Soviet armour.
 
-The ST-A1, similar to most Japanese tanks, is lightly armoured. Although the sloped upper glacis and the rounded turret are capable of bouncing off the occasional shot at BR 6.3, most enemies it faces will not have any problems in penetrating the armour. Combined with the tight placement of crew, modules, and ammo, the ST-A1 is easily taken out in a single shot. The ST-A1 can serve as a sniper or flanker (although it does not have the best speed), however, full utilization of the terrain is essential for survival - due to its powerful gun and low profile, the tank is able to fire off long-range shots without exposing itself. The excellent reverse speed should also be taken advantage of to quickly retreat into cover.
-
-The ST-A1 bears the common Japanese post-war camouflage-schemes - green, bi-colour green and the white spotted winter camouflage, as well as the beige-grey-green and multi-colour camouflage patterns that are purchasable with Golden Eagles. The tank has a distinct silhouette with its rounded turret and long, low chassis, and carries the 90 mm M3A1 cannon found on the [[M46|M46 Patton]] tank.
+It was introduced along with the initial Japanese Ground Forces tree in [[Update 1.65 "Way of the Samurai"]]. The ST-A1, similar to most Japanese tanks, is lightly armoured. Combined with the tight placement of crew, modules, and ammo, the ST-A1 is easily taken out in a single shot. The ST-A1 can serve as a sniper or flanker (although it does not have the best speed), however, full utilization of the terrain is essential for survival - due to its powerful gun and low profile, the tank is able to fire off long-range shots without exposing itself. The excellent reverse speed should also be taken advantage of to quickly retreat into cover.
 
 == General info ==
 === Survivability and armour ===

@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German light tank {{Battle-rating}}. It was introduced in [[Update 1.79 "Project X"]].
+The le.Pz.Sp.Wg. Sd.Kfz. 221 (''Leichter Panzerspähwagen, Sonderkraftfahrzeug 221''), first produced in 1935, was a German armoured car used as a reconnaissance vehicle for the German Panzer Divisions during World War II. At 339 vehicle manufactured between 1935 to 1940, the Sd.Kfz. 221 saw use in Nazi Germany's early campaigns in Europe, North Africa, and the Eastern Front. Some of these vehicles were armed with the 2.8 cm sPzB 41, a squeeze-bore anti-tank weapon that was capable of producing high-velocity projectiles to penetrate armour. The Sd.Kfz. 221 in German service was eventually succeeded by the larger Sd.Kfz. 222 design, or the more off-road capable Sd.Kfz. 250 half-tracks.
 
-The le.Pz.Sp.Wg. (s.Pz.B.41) Sd.Kfz.221 is a unique vehicle in its own right. This vehicle is a lightly armoured, highly mobile car, with a 20 mm squeeze bore cannon. What that means is that a 28 mm wide shell is inserted into a 28 mm wide breech, and subsequently fired down a barrel that narrows down to 20 mm at the end. This gives you a projectile that was 28 mm, now squeezed down to 20 mm. In effect, this gives you a heavier, longer 20 mm shell. This allows old and outdated anti-tank weapon calibres to be re-designed and revitalized so that they could be effective again.
+Introduced into War Thunder in [[Update 1.79 "Project X"]], the '''{{Specs|name}}''' is a unique armoured car with its squeeze-bore armament attached to the car's high mobility and relatively thin armour on the body. The squeeze-bore armament, named the [[S.Pz.B.41_(28/20_mm)|28/20 mm S.Pz.B.41]], functions by firing a 28 mm caliber shell down a barrel that narrows it to 20 mm at the muzzle end. This method creates a very high pressure within the barrel that causes the projectile to exit with a high velocity to penetrate more armour relative to the caliber diameter. While providing a bigger punch for the caliber size, the weapon only fires APCR shots as a consequence. Due to this, players using the gun would find some issues such as relatively poor armour-piercing performance against highly sloped armour plating and poor post-penetration damage.
 
 == General info ==
 === Survivability and armour ===
@@ -167,5 +167,6 @@ The Sd.Kfz.221 served mainly in the Aufklärungsabteilung (reconnaissance battal
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{TankManufacturer Eisenwerk Weserhutte}}
 {{Germany light tanks}}
 [[Category:Wheeled ground vehicles]]

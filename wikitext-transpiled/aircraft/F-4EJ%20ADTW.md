@@ -223,6 +223,7 @@ It is advised to side climb up to at least 8,000 m before engaging the enemy to 
 '''Cons:'''
 
 * Unlike the [[F-4E Phantom II]], the F-4EJ does not have the Agile Eagle upgrade
+* Lacks the more capable [[AIM-7E-2]] Sparrow, only has the basic AIM-7E that takes longer to start manoeuvring so it is harder to use in short-range fights
 * Limited ammunition in the frontally-mounted cannon
 * Quite large and heavy compared to other fighters at its rank
 
@@ -249,6 +250,10 @@ This F-4EJ sports the livery for the 60th Anniversary of the ADTW (Air Developme
 ;Skins
 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f-4ej_adtw Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+{{Skin-gallery
+ |market|ugcitem_1001457|F-4EJ ADTW 25th Anniversary.png|Camo "25th Anniversary Special Colour"
+}}
 
 ;Videos
 {{Youtube-gallery|TWT-ETcU_No|'''The Shooting Range #198''' - ''Metal Beasts'' section at 05:01 discusses the F-4EJ.|PNkoJ-MFERc|'''Best naval fighters''' discusses the F-4EJ at 3:39 - ''War Thunder Official Channel''|DCvuy_E5ZAk|'''JASDF F-4EJ Phantom II: Actual Sound Recording''' - ''DMM GAMES Official Channel''}}

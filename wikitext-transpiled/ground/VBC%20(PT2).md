@@ -85,11 +85,9 @@ The VBC is equipped with a powerful 520 hp engine that is capable of taking this
 ! 2nd<br>rack empty
 ! 3rd<br>rack empty
 ! 4th<br>rack empty
-! 5th<br>rack empty
-! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''4''' || 3&nbsp;''(+1)'' || 2&nbsp;''(+2)'' || 1&nbsp;''(+3)'' || ''0(+4)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || No
+| '''4''' || 3&nbsp;''(+1)'' || 2&nbsp;''(+2)'' || 1&nbsp;''(+3)'' || ''0(+4)'' || No
 |-
 |}
 
@@ -105,9 +103,9 @@ The VBC is equipped with a powerful 520 hp engine that is capable of taking this
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 4,600 (200) || 1,200 || N/A || N/A
+| Coaxial || 4,600 (200) || 801 || N/A || N/A
 |-
-| Pintle || 2,000 (200) || 1,200 || -8°/+20° || -160°/+60°
+| Pintle || 2,000 (200) || 801 || -8°/+20° || -160°/+60°
 |-
 |}
 
@@ -156,6 +154,7 @@ The Freccia represents the spearhead of the Italian light armored units and is a
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_vbc_pt2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

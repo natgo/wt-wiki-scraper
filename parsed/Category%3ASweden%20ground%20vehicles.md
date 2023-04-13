@@ -134,7 +134,7 @@
 |
 {{Tree-Unit|sw_zsu_57_2}}
 {{Tree-Arrow}}
-{{Tree-Unit|sw_veak_40}}
+{{Tree-Unit|sw_itpsv_90}}
 {{Tree-Arrow}}
 |
 {{Tree-Unit|sw_udes_33}}
@@ -165,10 +165,12 @@
 {{Tree-Unit|sw_strv_121}}
 {{Tree-Arrow}}
 |
+{{Tree-Unit|sw_veak_40}}
+{{Tree-Arrow}}
 {{Tree-Unit|sw_lvkv_90c}}
 {{Tree-Arrow}}
 {{Tree-Unit|sw_lvrbv_701}}
-{{Tree-Arrow|2}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|sw_pvrbv_551}}
 {{Tree-Arrow}}

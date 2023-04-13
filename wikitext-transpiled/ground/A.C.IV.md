@@ -7,7 +7,7 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''', also known as the ''AC IV Thunderbolt'' or the ''AC IV Sentinel'',  is a premium rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was released some time after [[Update 1.55 "Royal Armour"]]. Armed with a [[Ordnance QF 17-pounder (76 mm)|17-pounder gun]], it has a high firepower for the battle rating it is in, able to effectively fight any other tanks at the battle rating. The Thunderbolt is also a small and manoeuvrable tank able to exploit harsh terrain to target the enemy.
 
-The AC IV is a relatively small medium tank in comparison to the common mainstay of the other countries, especially when compared to the American [[M4A2|Sherman]] tanks. The Sentinel also has a good manoeuvrability and power-to-weight ratio for the propulsion, able to accelerate to its max speed of roughly 30 km/h quickly and stay there on stable terrain. The tank has a great advantage of a decent reverse speed in comparison to other medium tanks of its calibre, with a reverse speed almost the same speed as forward. The addition of the 17-pounder gun also gives this tank a whopping high firepower for the size, so it can stand a chance against tanks of the same tier despite being out of the league in terms of armour.
+The AC IV is a well-rounded tank with superior armour layout compared to other British tanks at its BR; it can occasionally bounce shells from Tigers and Panthers if lucky. It is a relatively small medium tank in comparison to the common mainstay of the other countries, especially when compared to the American [[M4A2|Sherman]] tanks. The Sentinel also has a good manoeuvrability and power-to-weight ratio for the propulsion, able to accelerate to its max speed of roughly 30 km/h quickly and stay there on stable terrain. The tank has a great advantage of a decent reverse speed in comparison to other medium tanks of its calibre, with a reverse speed almost the same speed as forward. The addition of the 17-pounder gun also gives this tank a whopping high firepower for the size, so it can stand a chance against tanks of the same tier despite being out of the league in terms of armour.
 
 The tank in the game is the version planned for serial production, so it has the hull of the AC III; unlike the actual prototype design developed, which used the hull from the AC I version.
 
@@ -15,7 +15,7 @@ The tank in the game is the version planned for serial production, so it has the
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-The AC IV Thunderbolt's armour have a high tendency to bounce shells. This is obvious with the extreme slope on the from of the tank, and turret design. The armour itself is not thick, but thanks to the angle of it this tank can be very fierce competition to enemy vehicles.
+The AC IV Thunderbolt is one of the few British tanks at this BR with sloped armour rather than the traditional boxy armour found in other British tanks. Its armour has a high tendency to bounce shells. This is obvious with the extreme slope on the from of the tank, and turret design. The armour itself is not thick, but thanks to the angle of it this tank can be very fierce competition to enemy vehicles. Although the armour is superior to that of other British tanks, it is not recommended to rely on it too heavily. Other nations, particularly the Germans, have no trouble penetrating the tank from any range. Because the crew compartment is relatively cramped, any penetrating shots can be fatal. The side armour on the Sentinel is extremely weak and vulnerable to SPAA flanking.
 
 '''Armour type:'''
 
@@ -43,6 +43,7 @@ The AC IV Thunderbolt's armour have a high tendency to bounce shells. This is ob
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
+The AC.IV has an overall good mobility, with an acceptable reverse speed not found in other British tanks (e.g., Challenger, Comet, etc.). The manoeuvrability in soft terrain can be significantly reduced and can feel sluggish.
 
 {{tankMobility|abMinHp=615|rbMinHp=351}}
 
@@ -55,6 +56,7 @@ The AC IV Thunderbolt's armour have a high tendency to bounce shells. This is ob
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|QF 17-pounder (76 mm)}}
+The classic Ordnance QF 17-pounder is a very powerful gun: its performance against Tiger I and Panthers is very consistent and satisfactory. The Sentinel offers a smooth gun handling, with a good turret traverse speed and a good gun elevation speed. It has an excellent gun depression of -10 degrees and offers a small silhouette when hull down, comparable to the Comet. Because British tanks do not have access to APHE shells, any shot fired must be accurate; always aim for crew compartments and vital components of enemy tanks.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -95,7 +97,7 @@ The AC IV Thunderbolt's armour have a high tendency to bounce shells. This is ob
 |-
 |}
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-Notes:
+'''Notes''':
 
 * Racks disappear after you've fired all shells in the rack.
 
@@ -123,6 +125,7 @@ In full up-tier, do not let Japanese medium tanks (e.g. [[ST-A1]]) get an upper 
 {{Specs-Tank-Weapon|2}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|Vickers (7.7 mm)}}
+There is only one 7.7 mm coaxial MG with a very slow rate of fire, and no roof-mounted MG to defend against incoming planes. The small calibre of the Vickers machine gun makes it largely ineffective against all armoured vehicles but the ones with an open compartment. It still can be used to ping targets as a rangefinding help. While the belt capacity of the machine gun is adequate, its rate of fire is extremely slow for the battle rating.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -133,14 +136,15 @@ In full up-tier, do not let Japanese medium tanks (e.g. [[ST-A1]]) get an upper 
 | Coaxial || 4,250 (250) || 390 || N/A || N/A
 |-
 |}
-The small calibre of the Vickers machine gun makes it largely ineffective against all armoured vehicles but the ones with an open compartment. It still can be used to ping targets as a rangefinding help. While the belt capacity of the machine gun is adequate, its rate of fire is extremely slow for the battle rating.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-Exploit the A.C. IV's manoeuvrability against the heavier tanks, plus the 17-pounder tank allows for a penetration through the enemy's armour to cause internal damages. The fast reverse speed makes the "shoot-and-scoot" tactic a viable method against the enemy, and should be the prime one as the armour of the Sentinel is not exactly the most durable at only 50 mm flat. However, the sloping nature of the armour could give the bouncing capability of the tank comparable to the [[T-34 (1942)|T-34]], it's even arguably much better. So while the weight class is definitely against the Sentinel, a chance is always there to take out the opposition.
+Exploit the A.C. IV's manoeuvrability against the heavier tanks, plus the 17-pounder tank allows for a penetration through the enemy's armour to cause internal damages. The fast reverse speed makes the "shoot-and-scoot" tactic a viable method against the enemy, and should be the prime one as the armour of the Sentinel is not exactly the most durable at only 50 mm flat. However, the sloping nature of the armour could give the bouncing capability of the tank comparable to the [[T-34 (1942)|T-34]], it's even arguably much better. So while the weight class is definitely against the Sentinel, a chance is always there to take out the opposition. When compared to other British tanks, this tank lacks access to APDS rounds. Extra caution should be paid during full uptier matches as there will be many enemy tanks, particularly German tanks, that this tank will find difficult to engage from the front.
 
 "Shoot-and-scoot" tactics are the best tactics to use with this vehicle. The Sentinel's armour does not let the tank be a brawler, so it must be more "sneaky" against the enemies. Another thing to note is the driver's hatch at the front of the tank. To avoid a frontally penetrating shot, always angle the driver's hatch away from the enemy.
+
+The AC.IV can play any role in the game, since it is decent at brawling, close range, mid range, and far range.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

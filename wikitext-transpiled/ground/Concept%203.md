@@ -7,16 +7,16 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British light tank {{Battle-rating}}. It was introduced in [[Update "Red Skies"]].
 
-The Concept 3 is a direct ancestor in development to the well-known Rooikat family of vehicles. Though it lacks the level of agility those vehicles can attain, the Concept 3 is by no means a slouch. Offering a fast and punchy contender to follow up from the SARC vehicles players will have experienced prior, boasting the same firepower not seen until later British medium tanks but on a nimble albeit fragile chassis.
+The Concept 3 is a well-rounded light tank with an excellent gun for its tier, a decent reload speed, and adequate ammunition. It is a direct ancestor in development to the well-known Rooikat family of vehicles. Though it lacks the level of agility those vehicles can attain, the Concept 3 is by no means a slouch. Offering a fast and punchy contender to follow up from the SARC vehicles players will have experienced prior, boasting the same firepower not seen until later British medium tanks but on a nimble albeit fragile chassis.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
-Like the American [[M18 GMC|M18 Hellcat]], the Concept 3 only has 12.7 mm (0.5 in) of armour in most areas, with some areas being only 6.5 mm. As a result, anything at this BR can penetrate this vehicle's armour. Compounding issues, the Concept 3 has ammunition scattered all throughout its body. In other words: while incoming fire from the sides is somewhat prone to overpenetration, this cannot be depended upon. Try to avoid being shot at in the first place.
+Like the American [[M18 GMC|M18 Hellcat]], the Concept 3 only has 12.7 mm (0.5 in) of armour in most areas, with some areas being only 6.5 mm. As a result, anything at this BR can penetrate this vehicle's armour. Compounding issues, the Concept 3 has ammunition scattered all throughout its body. Shots hitting the front part of the hull are prone to cause ammunition explosion: any shell hitting the front hull of the Concept 3 will almost certainly be fatal. The crew members are generally spread out, avoiding knock-outs by a single shot. While incoming fire from the sides is somewhat prone to overpenetration, this cannot be depended upon. Try to avoid being shot at in the first place. While the armour can protect the crew from heavy machine gun fire from the front and some aircraft strafing with MGs, anything larger in calibre (20 mm and above) will easily destroy this light tank. 
 
-However it is worth noting the geometry of the Concept 3 when presented from the front. While thin, the armour can ricochet rounds with far more consistency than one might expect, offering angles of around 65-80 degrees across the frontal profile.
+However it is worth noting the geometry of the Concept 3 when presented from the front. While thin, the armour can ricochet rounds with far more consistency than one might expect, offering angles of around 65-80 degrees across the frontal profile. While a light armour is certainly a disadvantage against armoured vehicles, it is also a potential advantage as some APHE shells may not detonate when they penetrate the light tank. Artillery strikes can easily damage or destroy the vehicle; always move when your area is highlighted for artillery strikes by the enemy. The Concept 3 lacks a smoke grenade launcher, which would increase its survivability.
 
 '''Armour type:'''
 
@@ -43,9 +43,10 @@ However it is worth noting the geometry of the Concept 3 when presented from the
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-The Concept 3 represents the crystallization of the set of traits that define the South African tech line. It is able to comfortable reach 70+ km/h when stock on paved roads and a respectable 40-50 km/h across rough terrain with the common exceptions of boggy, sandy, or snow-covered ground. It will get the player where they wish to go swiftly; however, owing to its 8 wheel design, it does offer a much more sluggish turning radius than its predecessors in the SARC family, or its contemporary in the SPAA line, the Ystervark. Take care to begin turning earlier than than previous vehicles to avoid crashing into a street corner or odd boulder.
 
-The suspension is superb even stock, allowing the Concept 3 to maintain good speed across rough ground and steady the chassis swiftly upon halting; crucial to bringing its armament to bear upon its target or a surprise encounter.
+The Concept 3 represents the crystallization of the set of traits that define the South African tech line. It is able to comfortable reach 70+ km/h when stock on paved roads and a respectable 40-50 km/h across rough terrain with the common exceptions of boggy, sandy, or snow-covered ground. It will get the player where they wish to go swiftly; however, owing to its 8 wheel design, it does offer a much more sluggish turning radius than its predecessors in the SARC family, or its contemporary in the SPAA line, the Ystervark. Take care to begin turning earlier than than previous vehicles to avoid crashing into a street corner or odd boulder. Mobility is poor in soft terrain (sand, mud, snow), and top speeds are difficult to achieve; it is recommended to use roads or hard terrain as much as possible during matches.
+
+It is very fast in both forward and reverse, allowing players to take advantage of strategic spots early in the game while also making quick retreats if things do not go their way. The suspension is superb even stock, allowing the Concept 3 to maintain good speed across rough ground and steady the chassis swiftly upon halting; crucial to bringing its armament to bear upon its target or a surprise encounter.
 
 {{tankMobility|abMinHp=324|rbMinHp=185}}
 
@@ -67,7 +68,7 @@ Due to highly mobile playstyle, one might try to fight on the move or to attack 
 
 In AB, the rocking can be countered by maxing out "targeting" and "leadership", gaining at least "expert" crew qualification and getting all of the tank modifications. The gun will still shake a bit and fail when the car is moving over hills, but the gunner will try his best to stop this.
 
-The gun also has a very powerful recoil, which slows the car down and can throw it around if fired broadside. It's generally not fatal, but it can be extremely annoying when firing to the side off slopes, because it will move the car and ruin the aim by pushing the car above the gun depression threshold.
+The excellent gun depression of -10 degrees allows players to utilise mountainous terrain at their advantage. The gun also has a very powerful recoil, which slows the car down and can throw it around if fired broadside. It's generally not fatal, but it can be extremely annoying when firing to the side off slopes, because it will move the car and ruin the aim by pushing the car above the gun depression threshold. When firing with the turrets turned to the sides, the gun sights shake horribly; it can take a long time for the guns to stabilise again. 
 
 Due to the low weight of the car, any enemy can ram the Concept 3 to prevent it from firing. Melee combat with tanks is possible, but going literally into their face is not recommended.
 
@@ -137,6 +138,10 @@ As with most if not all of the South African vehicles, the Concept 3 boasts an e
 
 The Concept 3 has little in the way of armour to rely upon, only being able to resist rifle calibre rounds where a flat strike is concerned. The vast majority of munitions fired at the Concept 3 will penetrate its armour, with some parts of the armour still thick enough to activate the fuse of an APHE round. Avoiding being struck is always the most favourable scenario for any vehicle. However the Concept 3 can in some instances show surprising resilience in the harshly angled geometry of its frontal profile which boasts the aforementioned extreme angles of around 65-80 degrees. Many rounds such as the BR-350SP round utilised by the T-34 family have a ricochet chance of 100% at 71 degrees of angle. Meaning that a savvy Concept 3 player can use the respectable gun depression of 10 degrees to increase these angles and be a more tricky contender for an inexperienced opponent.
 
+The ammunition performance is noticeably inferior to that of the Ordnance QF 17-pounder found on the Sherman Firefly; some shots may not penetrate the enemy as intended, necessitating extra caution when fighting Panthers and Tigers at full uptier.
+
+The turret does not turn quickly enough, and this, combined with the bouncy suspension, slow gun elevation speed, and lack of a primary stabiliser found in the American 76 mm gun M1, makes street brawling relatively dangerous; paying attention to potential enemy engine sounds is highly recommended.
+
 In conclusion, the Concept 3 can be reliably played the same way as the previous SARC vehicles albeit with a punchy gun and a little trickery in the armour department with ricochet.
 
 === Pros and cons ===
@@ -156,7 +161,7 @@ In conclusion, the Concept 3 can be reliably played the same way as the previous
 * Turning is slow when stock
 * Suffers in soft terrain, sometimes speed will drop massively upon the slightest obstacle
 * Negligible armour, vulnerable to artillery overpressure
-* Sub-par accuracy at range when stock
+* Subpar accuracy at range when stock
 * Lacks a smoke grenade launcher
 
 == History ==

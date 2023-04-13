@@ -44,7 +44,7 @@ While playing the Type 62, it is important to stay hidden from your enemy at all
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
-{{tankMobility|abMinHp=775|rbMinHp=442}}
+{{tankMobility|abMinHp=666|rbMinHp=380}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -100,15 +100,15 @@ While playing the Type 62, it is important to stay hidden from your enemy at all
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-{{main|DShK (12.7 mm)|SGMT (7.62 mm)}}
+{{main|Type 54 (12.7 mm)|SGMT (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
-! colspan="5" | [[DShK (12.7 mm)|12.7 mm DShK]]
+! colspan="5" | [[Type 54 (12.7 mm)|12.7 mm Type 54]]
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle || 500 (50) || 600 || -2°/+60° || ±180°
+| Pintle || 500 (50) || 600 || -4°/+82° || ±180°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -117,7 +117,7 @@ While playing the Type 62, it is important to stay hidden from your enemy at all
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 2,000 (250) || 600 || N/A || N/A
+| Coaxial || 2,000 (250) || 600 || - || -
 |-
 |}
 

@@ -87,15 +87,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 | || 1 || 1 ||
 |-
 ! 7.62 mm M134 Minigun machine guns (3,000 rpg)
-| 1*<sup>†</sup> || || || 1*<sup>†</sup>
+| 1* || || || 1*
 |-
 ! FFAR Mighty Mouse rockets
-| 19<sup>†</sup> || 19 || 19 || 19<sup>†</sup>
+| 19* || 19 || 19 || 19*
 |-
 ! AGM-22 missiles
-| || 3<sup>†</sup> || 3<sup>†</sup> ||
+| || 3* || 3* ||
 |-
-| colspan="6" | * Equipping an M134 Minigun on hardpoint 1 will automatically equip the other Minigun on hardpoint 4 if the hardpoint is left empty <br> <sup>†</sup> AGM-22 missiles cannot be equipped with other ordnance
+| colspan="6" | * AGM-22 missiles cannot be equipped with other ordnance
 |}
 
 The {{PAGENAME}} is a real workhorse utility helicopter which can pack a punch with several different weapons load-outs and configurations utilising rockets, guns and missiles. Selecting a single type of weapon to fly into battle with or mixing it up will allow the pilot to mix and match as necessary for the upcoming fight. The [[M134 Minigun (7.62 mm)|M134]] with it's almost 6,000 rounds-per-minute fire were an early fixture to helicopters as they can fly low and slow allowing them to pivot on the battlefield as necessary to take out personnel and light armoured vehicles. While initially not doing much damage being rifle calibre bullets, if the enemy does not move to avoid the fire, they will start taking on more and more damage. The M134 is also good for clearing trees and exposing hiding positions of armoured vehicles providing a better shot for harder hitting weapon systems. Note that unlike the fixed forward-facing XM-18 gun pods, the XM-21 mounts for the M134 Miniguns are flexible and can be aimed almost 90° to either side, as well as nearly straight up and straight down, providing a key advantage especially when encountering enemy helicopters.

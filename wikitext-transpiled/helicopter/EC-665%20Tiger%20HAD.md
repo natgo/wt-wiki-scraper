@@ -69,7 +69,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 * A choice between two presets:
 ** 1 x 30 mm GIAT M781 cannon (450 rpg)
-** 1 x 30 mm GIAT M781 cannon + 60 x countermeasures
+** 1 x 30 mm GIAT M781 cannon + 64 x countermeasures
 
 The 30 mm cannon only fires high explosive ammo (4 mm penetration), so it is advised only to use it against aircraft and light-armoured, open-topped vehicles.
 

@@ -79,34 +79,34 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} German strike aircraft {{
 {| class="wikitable" style="text-align:center"
 |-
 ! colspan="3" | Engine
-! colspan="4" | Aircraft mass
+! colspan="6" | Aircraft mass
 |-
 ! colspan="2" | Engine name || Number
-! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
+! colspan="3" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
 | colspan="2" | Turbo-Union RB199-34R Mk.103 || 2
-| colspan="2" | _,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
+| colspan="3" | 14,709 kg || colspan="3" | ___ kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
+! colspan="5" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
-! _m fuel || __m fuel || __m fuel
+! 16m fuel || 20m fuel || 30m fuel || 45m fuel || 56m fuel
 |-
-| 2,200 kg || colspan="2" | Afterburning low-bypass turbofan
-| _,___ kg || _,___ kg || _,___ kg || _,___ kg
+| 968 kg || colspan="2" | Afterburning low-bypass turbofan
+| 16,236 kg || 16,523 kg || 17,429 kg || 18,789 kg || 19,799 kg || 25,423 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
-! colspan="4" | Thrust to weight ratio @ 0 m (___%/WEP)
+! colspan="6" | Thrust to weight ratio @ 0 m (WEP)
 |-
-! Condition || 100% || ___%/WEP
-! _m fuel || __m fuel || __m fuel || MGW
+! Condition || 100% || WEP
+! 16m fuel || 20m fuel || 30m fuel || 45m fuel || 56m fuel || MGW
 |-
-| ''Stationary'' || ___ kgf || ___ kgf
-| _.__ || _.__ || _.__ || _.__
+| ''Stationary'' || 3,777 kgf || 7,293 kgf
+| 0.90 || 0.88 || 0.84 || 0.78 || 0.74 || 0.57
 |-
-| ''Optimal'' || ___ kgf<br>(_ km/h) || ___ kgf<br>(_ km/h)
-| _.__ || _.__ || _.__ || _.__
+| ''Optimal'' || 4,192 kgf<br>(1,400 km/h) || 8,155 kgf<br>(1,400 km/h)
+| 1.00 || 0.99 || 0.94 || 0.87 || 0.82 || 0.64
 |-
 |}
 
@@ -151,6 +151,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 7 x 1,000 lb LDGP Mk 83 bombs (7,000 lb total)
 * 12 x 1,000 lb LDGP Mk 83 bombs (12,000 lb total)
 * 4 x AS.34 Kormoran missiles
+* 4 x 1,000 lb LDGP Mk 83 bombs (4,000 lb total)
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -232,6 +233,7 @@ The Bundeswehr Navy used the variants IDS, Recce, and ECR.
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=tornado_ids_de_mfg Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -253,6 +255,7 @@ The Bundeswehr Navy used the variants IDS, Recce, and ECR.
 * ''other literature.'' -->
 
 * [https://marine-flieger.de/mrca-tornado-pa200 <nowiki>[Marine-Flieger]</nowiki> MRCA Tornado PA200] 
+* [[wt:en/news/8024-development-winter-event-vehicles-tornado-ids-marineflieger-en|[Devblog] Winter event vehicles: Tornado IDS Marineflieger]]
 
 {{AirManufacturer Panavia}}
 {{Germany jet aircraft}}

@@ -1,14 +1,15 @@
 import {
+  CountryName,
   Economy,
   FinalProps,
   LangData,
   Shop,
+  ShopGroup,
   ShopItem,
   UnitData,
   namevehicle,
   premTypeSchema,
 } from "../types";
-import { vehicleType } from "./vehicleType";
 
 const br = [
   "1.0",
@@ -50,34 +51,64 @@ const br = [
   "13.0",
 ];
 
+function parseRangeColumn(
+  intname: string,
+  column: Record<string, ShopItem | ShopGroup>,
+): ShopItem | undefined {
+  let vehicle: ShopItem | undefined;
+  Object.entries(column).forEach(([key, value]) => {
+    if ("image" in value) {
+      Object.entries(value).forEach(([key, value]) => {
+        if (!(key === "image" || key === "reqAir")) {
+          if (key === intname) {
+            const value2 = value as ShopItem;
+            vehicle = value2;
+          }
+        }
+      });
+    } else {
+      if (key === intname) {
+        const value2 = value as ShopItem;
+        vehicle = value2;
+      }
+    }
+  });
+  return vehicle;
+}
+
+function findVehicleShop(
+  intname: string,
+  shopData: Shop,
+  country: CountryName,
+  shop: "army" | "aviation" | "helicopters" | "ships" | "boats",
+): ShopItem | undefined {
+  const shoprange = shopData[country][shop];
+  if (!shoprange) {
+    throw new Error(`no tree in ${shop} ${country}`);
+  }
+  let vehicle: ShopItem | undefined;
+  if (!Array.isArray(shoprange.range)) {
+    return parseRangeColumn(intname, shoprange.range);
+  }
+
+  shoprange.range.forEach((notelement) => {
+    if (!vehicle) {
+      vehicle = parseRangeColumn(intname, notelement);
+    }
+  });
+
+  return vehicle;
+}
+
 export function commonVehicle(
   element: namevehicle,
   vehicleLang: LangData | undefined,
   vehicleEconomy: Economy,
   vehicleUnit: UnitData,
   shopData: Shop,
-  shop: "army" | "aviation" | "helicopters",
+  shop: "army" | "aviation" | "helicopters" | "ships" | "boats",
 ): FinalProps {
-  let marketplace: number | undefined;
-  shopData[vehicleEconomy.country][shop].range.forEach((notelement) => {
-    Object.entries(notelement).forEach(([key, value]) => {
-      if ("image" in value) {
-        Object.entries(value).forEach(([key, value]) => {
-          if (!(key === "image" || key === "reqAir")) {
-            if (key === element.intname) {
-              const value2 = value as ShopItem;
-              marketplace = value2.marketplaceItemdefId;
-            }
-          }
-        });
-      } else {
-        if (key === element.intname) {
-          const value2 = value as ShopItem;
-          marketplace = value2.marketplaceItemdefId;
-        }
-      }
-    });
-  });
+  const shopVehicle = findVehicleShop(element.intname, shopData, vehicleEconomy.country, shop);
 
   let prem = "false";
   if (vehicleEconomy.costGold) {
@@ -85,7 +116,7 @@ export function commonVehicle(
       if (vehicleEconomy.event) {
         prem = "event";
       } else {
-        if (marketplace) {
+        if (shopVehicle?.marketplaceItemdefId) {
           prem = "marketplace";
         } else {
           prem = "store";
@@ -108,7 +139,6 @@ export function commonVehicle(
     intname: element.intname,
     wikiname: element.wikiname,
     displayname: vehicleLang?.English ? vehicleLang.English : undefined,
-    ...vehicleType(vehicleUnit),
     country: vehicleEconomy.country,
     operator_country: vehicleUnit.operatorCountry,
     rank: vehicleEconomy.rank,

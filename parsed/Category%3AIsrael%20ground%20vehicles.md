@@ -95,6 +95,8 @@
 |
 {{Tree-Unit|il_merkava_mk_4b}}
 {{Tree-Arrow}}
+{{Tree-Unit|il_merkava_mk_4_lic}}
+{{Tree-Arrow}}
 {{Tree-Unit|il_merkava_mk_4m}}
 {{Tree-Skip}}
 |

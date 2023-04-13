@@ -14,6 +14,7 @@ import {
   ModClassName,
   Modifications,
   Mods,
+  ShipVehicle,
   VehicleMods,
   VehicleProps,
   modClassName,
@@ -56,6 +57,8 @@ async function main(dev: boolean) {
     ground: [],
     aircraft: [],
     helicopter: [],
+    ship: [],
+    boat: [],
   };
 
   final.ground.forEach((element) => {
@@ -67,7 +70,7 @@ async function main(dev: boolean) {
         "utf-8",
       ),
     );
-    const vehicleEconomy = economy[element.intname];
+    //const vehicleEconomy = economy[element.intname];
     const mods = modificationLoop(
       element,
       vehicleData,
@@ -89,7 +92,7 @@ async function main(dev: boolean) {
         "utf-8",
       ),
     );
-    const vehicleEconomy = economy[element.intname];
+    //const vehicleEconomy = economy[element.intname];
     const mods = modificationLoop(
       element,
       vehicleData,
@@ -111,7 +114,7 @@ async function main(dev: boolean) {
         "utf-8",
       ),
     );
-    const vehicleEconomy = economy[element.intname];
+    //const vehicleEconomy = economy[element.intname];
     const mods = modificationLoop(
       element,
       vehicleData,
@@ -124,6 +127,53 @@ async function main(dev: boolean) {
       modFinal.helicopter.push(mods);
     }
   });
+
+  final.ship.forEach((element) => {
+    const vehicleData: ShipVehicle = JSON.parse(
+      fs.readFileSync(
+        `./${
+          dev ? "datamine-dev" : "datamine"
+        }/aces.vromfs.bin_u/gamedata/units/ships/${element.intname.toLowerCase()}.blkx`,
+        "utf-8",
+      ),
+    );
+    //const vehicleEconomy = economy[element.intname];
+    const mods = modificationLoop(
+      element,
+      vehicleData,
+      modifications,
+      element,
+      modification_lang,
+      weaponry_lang,
+    );
+    if (mods) {
+      modFinal.ship.push(mods);
+    }
+  });
+
+  final.boat.forEach((element) => {
+    const vehicleData: ShipVehicle = JSON.parse(
+      fs.readFileSync(
+        `./${
+          dev ? "datamine-dev" : "datamine"
+        }/aces.vromfs.bin_u/gamedata/units/ships/${element.intname.toLowerCase()}.blkx`,
+        "utf-8",
+      ),
+    );
+    //const vehicleEconomy = economy[element.intname];
+    const mods = modificationLoop(
+      element,
+      vehicleData,
+      modifications,
+      element,
+      modification_lang,
+      weaponry_lang,
+    );
+    if (mods) {
+      modFinal.boat.push(mods);
+    }
+  });
+
   fs.writeFileSync(
     `./out/${dev ? "modifications-dev" : "modifications"}.json`,
     format(JSON.stringify(modFinal), { parser: "json" }),
@@ -135,7 +185,7 @@ main(true);
 
 function modificationLoop(
   vehicle: VehicleProps,
-  vehicleData: GroundVehicle | AirVehicle,
+  vehicleData: GroundVehicle | AirVehicle | ShipVehicle,
   modifications: Mods,
   element: VehicleProps,
   modification_lang: LangData[],

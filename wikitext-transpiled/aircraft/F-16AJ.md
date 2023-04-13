@@ -1,6 +1,11 @@
+{{About
+| about = Japanese jet fighter '''{{PAGENAME}}'''
+| usage = other versions
+| link = F-16 (Family)
+}}
 {{Specs-Card
 |code=f_16aj
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -11,11 +16,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese jet fighter {{Battle-
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
+! colspan="2" | Max speed<br>(km/h at 10,973 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -24,10 +28,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese jet fighter {{Battle-
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
+| 2,103 || 2,072 || rowspan="2" | {{Specs|ceiling}} || 20.0 || 20.2 || 262.9 || 250.8 || rowspan="2" | 850
 |-
 ! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+| 2,209 || 2,156 || 19.0 || 19.5 || 350.9 || 305.0
 |-
 |}
 
@@ -38,7 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese jet fighter {{Battle-
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| _ || _ || _ || _ || _ || _     <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || ✓ || X     <!-- ✓ -->
 |-
 |}
 
@@ -53,7 +57,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese jet fighter {{Battle-
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || ___ || ___ || ___ || ~__ || ~__
+| 1,555 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || 470 || 463 || ~__ || ~__
 |-
 |}
 
@@ -74,31 +78,31 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese jet fighter {{Battle-
 ! colspan="4" | Aircraft mass
 |-
 ! colspan="2" | Engine name || Number
-! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
+! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full internal fuel)
 |-
-| colspan="2" | _____ || _
-| colspan="2" | _,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
+| colspan="2" | Pratt & Whitney F100-PW-220 || 1
+| colspan="2" | 7,690 kg || colspan="2" | 392 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
+! colspan="3" | Mass with internal fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
-! _m fuel || __m fuel || __m fuel
+! 8m fuel || 20m fuel || 29m fuel
 |-
-| ___ kg || colspan="2" | ___
-| _,___ kg || _,___ kg || _,___ kg || _,___ kg
+| 1,470 kg || colspan="2" | Afterburning low-bypass turbofan
+| 8,662 kg || 9,913 kg || 10,930 kg || 16,848 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
-! colspan="4" | Thrust to weight ratio @ 0 m (___%/WEP)
+! colspan="4" | Thrust to weight ratio @ 0 m (WEP)
 |-
-! Condition || 100% || ___%/WEP
-! _m fuel || __m fuel || __m fuel || MGW
+! Condition || 100% || WEP
+! 8m fuel || 20m fuel || 29m fuel || MGW
 |-
-| ''Stationary'' || ___ kgf || ___ kgf
-| _.__ || _.__ || _.__ || _.__
+| ''Stationary'' || 6,490 kgf || 8,985 kgf
+| 1.04 || 0.90 || 0.82 || 0.53
 |-
-| ''Optimal'' || ___ kgf<br>(_ km/h) || ___ kgf<br>(_ km/h)
-| _.__ || _.__ || _.__ || _.__
+| ''Optimal'' || 7,434 kgf<br>(1,555 km/h) || 15,225 kgf<br>(1,400 km/h)
+| 1.76 || 1.53 || 1.39 || 0.90
 |-
 |}
 
@@ -112,6 +116,15 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese jet fighter {{Battle-
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="5" | [[Ballistic Computer]]
+|-
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
+|-
+| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
+|-
+|}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
@@ -126,7 +139,54 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.''
+{{main|LDGP Mk 82 (500 lb)|LDGP Mk 84 (2,000 lb)|FFAR Mighty Mouse}}
+{{main|AGM-65B|AIM-7F Sparrow|AIM-9L Sidewinder|AIM-9P Sidewinder}}
+
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+
+* 1 x 300 gal drop tank
+* 2 x AIM-9P Sidewinder missiles
+* 6 x AIM-9P Sidewinder missiles
+* 6 x AIM-9L Sidewinder missiles
+* 2 x AIM-7F Sparrow missiles
+* 19 x 500 lb LDGP Mk 82 bombs (9,500 lb total)
+* 4 x 2,000 lb LDGP Mk 84 bombs (8,000 lb total)
+* 114 x FFAR Mighty Mouse rockets
+* 6 x AGM-65B missiles
+
+==== Custom loadout options ====
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8 !! width="5%" | 9
+| rowspan="10" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-16A.png]]</div>
+|-
+! 500 lb LDGP Mk 82 bombs
+| || || 3 || 3, 6 || 1 || 3, 6 || 3 || ||
+|-
+! 2,000 lb LDGP Mk 84 bombs
+| || || 1 || 1 || || 1 || 1 || ||
+|-
+! FFAR Mighty Mouse rockets
+| || || 57 || || || || 57 || ||
+|-
+! AGM-65B missiles
+| || || 1, 3 || || || || 1, 3 || ||
+|-
+! AIM-7F Sparrow missiles
+| || || 1 || || || || 1 || ||
+|-
+! AIM-9L Sidewinder missiles
+| 1 || 1 || 1 || || || || 1 || 1 || 1
+|-
+! AIM-9P Sidewinder missiles
+| 1 || 1 || 1 || || || || 1 || 1 || 1
+|-
+! 300 gal drop tanks
+| || || || || 1 || || || ||
+|-
+| colspan="10" | Maximum permissible weight imbalance: 2,000 kg
+|-
+|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -137,9 +197,11 @@ The '''''{{PAGENAME}}''''' is armed with:
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
@@ -148,22 +210,25 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f_16aj Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+{{Skin-gallery |market|ugcitem_1001426|F-16AJ Representing the 501st Squadron.jpg|Camo "Representing the 501st Squadron"}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+
+;Related development
+* [[F-16 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
-* ''topic on the official game forum;''
-* ''other literature.''
 
+* [[wt:en/news/8121-development-f-16aj-cover-boy-en|[Devblog] F-16AJ: Cover-boy]]
+
+{{AirManufacturer General Dynamics}}
 {{Japan jet aircraft}}

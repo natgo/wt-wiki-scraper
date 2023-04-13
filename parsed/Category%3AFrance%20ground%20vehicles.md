@@ -42,25 +42,27 @@
 {{Tree-Line|II Rank}}
 |
 {{Tree-Unit|fr_crusader_mk_2}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow|2}}
 |
 {{Tree-Unit|fr_m3a3_stuart}}
 {{Tree-Arrow}}
 {{Tree-Unit|fr_m4a1_sherman}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|fr_b1_bis}}
+{{Tree-Arrow}}
+{{Tree-Unit|fr_char_2c}}
 {{Tree-Arrow}}
 {{Tree-Unit|fr_m4a3_105_sherman}}
 {{Tree-Arrow}}
 |
 {{Tree-Unit|fr_cckw_353_bofors}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow|2}}
 |
 {{Tree-Unit|fr_somua_sau40}}
 {{Tree-Arrow}}
 {{Tree-Unit|fr_m10}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|fr_b1_ter}}
 {{Tree-Skip}}
@@ -107,25 +109,25 @@
 {{Tree-Unit|fr_amx_13_75}}
 {{Tree-Arrow}}
 {{Tree-Unit|fr_aml_90}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|fr_bat_chat_25t}}
 {{Tree-Arrow}}
 {{Tree-Unit|fr_lorraine_40t}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|fr_amx_m4}}
 {{Tree-Arrow}}
 {{Tree-Unit|fr_amx_50}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|fr_amx_13_dca_40}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow|2}}
 |
 {{Tree-Unit|fr_lorraine_100}}
 {{Tree-Arrow}}
 {{Tree-Unit|fr_amx_elc_bis}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|fr_pzkpfw_V_panther_dauphine}}
 {{Tree-Skip}}
@@ -135,6 +137,8 @@
 {{Tree-Unit|fr_panhard_ebr_1963}}
 {{Tree-Skip}}
 {{Tree-Unit|fr_somua_sm}}
+{{Tree-Skip}}
+{{Tree-Unit|fr_amx_50_1950}}
 {{Tree-Skip}}
 
 {{Tree-Line|V Rank}}
