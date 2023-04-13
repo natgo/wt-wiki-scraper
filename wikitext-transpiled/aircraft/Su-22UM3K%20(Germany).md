@@ -57,7 +57,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German strike aircraft {{Battl
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || 477 || 473 || ~__ || ~__
+| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || 477 || 473 || ~11 || ~4
 |-
 |}
 
@@ -268,6 +268,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=su_22um3k Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

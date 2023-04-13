@@ -197,13 +197,78 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Jaguar is mostly an air-to-ground plane with defensive capabilities against aircraft. The role of the Jaguar is pretty straightforward when it comes to air battles: base bombing or ground/naval units bombing. It is recommended to utilize the different bomb payloads combined with flares or with the AIM-9G if desired. Rockets are not recommended to be taken as they are inaccurate and useless against lightly armoured vehicles, even with the ballistic computer. GBUs are the main weapon against any vessel. They are recommended to be used against destroyers, cruisers, battleships, and even enemy carriers. A well-placed Mk.13 is enough to sink a carrier.
+The Jaguar is mostly a strike aircraft with defensive capabilities against aircraft. The role of the Jaguar is pretty straightforward when it comes to air battles: base bombing or ground/naval units bombing. It is recommended to utilize the different bomb payloads combined with flares and the AIM-9G. Rockets are not recommended to be taken as they are inaccurate and useless against lightly armoured vehicles, even with the ballistic computer. GBUs are the main weapon against any vessel. They are recommended to be used against destroyers, cruisers, battleships, and even enemy carriers. A well-placed Mk.13 is enough to sink a carrier.
 
-The Jaguar has a wide variety of payloads for all types of players: for those who want to be fast and engage bases or ground targets as quickly as possible, and for those who want to carry out as much destruction as possible. The main advantage of the GR.1A over other strike aircraft is its ability to carry AIM-9G as well as significant ground ordnance due to the over-wing pylons. The recommended payload for a fair trade in speed, firepower and defensive capabilities is the 2 x AIM-9G + 6 x 1,000 lb bombs payload, which provides more than enough bombs to take 2 bases in maps where there are only 3 bases and airfield, or 1 of the 4 respawning bases which take double the payload. If the player wants to play a more aggressive full bomb payload, then the 8 x 1,000 lb bombs payload can be carried.
+The Jaguar has a wide variety of payloads for all types of players: for those who want to be fast and engage bases or ground targets as quickly as possible, and for those who want to carry out as much destruction as possible. The main advantage of the GR.1A over other strike aircraft is its ability to carry AIM-9G as well as significant ground ordnance due to the over-wing pylons.
+
+The recommended payload for a fair trade in speed, firepower and defensive capabilities is the 2 x AIM-9G + 6 x 1,000 lb bombs payload, which provides more than enough bombs to take 2 bases in maps where there are only 3 bases and airfield, or 1 of the 4 respawning bases which take double the payload. If the player wants to play a more aggressive full bomb payload, then the 8 x 1,000 lb bombs payload can be carried.
+
+=== In Air Battles ===
+
+==== In Arcade ====
+The high nose authority of the aircraft in Arcade lends it the ability to land very clean shots on enemy aircraft in a dogfight. Furthermore, the low muzzle velocity of the autocannons are better accommodated in Arcade, due to the presence of the lead indicator. However, it is not recommended to be used in Arcade due to its poor overall flight characteristics. Its only advantage in this field is its indestructible combat flaps, which are moot in Arcade, as this is the case with all Arcade flight models.
+
+The recommended payload in Arcade is:
+
+* 2× AIM-9Gs
+* 6× 1,000lb bombs
+
+This is because bomb targets have greater survivability in Arcade.
+
+==== In Realistic ====
+The Jaguar lacks the speed and acceleration to make it to bomb targets before any other teammates. Players should therefore expect to encounter the possibility that most bomb targets have been destroyed by the time they reach the battlefield, and be willing to adjust their flight path towards other bases in this instance.
+
+Furthermore, players are rather limited in their versatility. The Jaguar lacks air-to-air capabilities, and is very vulnerable to being attacked by other players, as most fighters it encounters unilaterally out-perform it in every way. A lack of precision ordnance also renders it inept against most ground targets. Targeting bases should always be the priority of a Jaguar GR.1A pilot, as this gives the largest bang for your buck.
+
+At the beginning of each battle, players should check the battle rating of enemies they are engaging, by referencing it against their own team. If the highest-rated player is at 10.7, players should exclusively take flares in their countermeasure slots. If, however, the player is at 11.0 or 11.3, the player should take chaff too, as many aircraft begin to carry Semi-Active Radar Homing (SARH) missiles at this battle rating.
+
+The recommended payload in Realistic is to carry a custom loadout.
+
+* 2× AIM-9Gs on over-wing pylons
+* 2× 540lb bombs under the fuselage
+* 4× 1,000lb bombs mounted on wing pylons (2 on each wing)
+
+This is exactly enough to destroy one base. Carrying 6× 1,000lb bombs only serves to limit your flight performance, as the 1,000lb bombs always drop in pairs, and it takes ~5,000lbs of payload to destroy a base.
+
+==== In Simulator ====
+The Jaguar is surprisingly effective in Air Simulator battles. Less players focusing on air-to-air combat gives it much needed breathing room to focus on ground attack, without having to always check your six.
+
+The Jaguar can focus on both base and unit destruction in GSB.
+
+For destroying bases, the recommended payload is the same as in Realistic battles:
+
+* 2× AIM-9Gs on over-wing pylons
+* 2× 540lb bombs under the fuselage
+* 4× 1,000lb bombs mounted on wing pylons (2 on each wing)
+
+For destroying ground targets, the recommended payload is the guided bombs and the TIALD pod.
+
+* 2× AIM-9Gs on over-wing pylons
+* 1× TIALD targeting pod beneath the fuselage
+* 2× Mk.13 guided bombs mounted on wing pylons
+* 2× 1,000lb bombs mounted on wing pylons
+
+For maximum efficiency, it is recommended to focus on naval units if acting as CAS. This nets the greatest reward for each unit destroyed. Using the guided bombs on naval units is highly recommended, as a well-placed bomb can even sink a carrier on occasion. On the other hand, the unguided bombs should be used on ground targets, due to their inaccuracy.
+
+=== In Ground Battles ===
+The Jaguar should be played the same way in both Ground Realistic Battles and Ground Simulator Battles; it is highly effective regardless. Your greatest threat is enemy SPAA units, so you should carry some chaff in your countermeasure slots to interrupt enemy radar systems.
+
+The recommended bombload in both Ground Realistic Battles and Ground Simulator Battles is:
+
+* 2× AIM-9Gs on over-wing pylons
+* 1× TIALD targeting pod beneath the fuselage
+* 2× Mk.13 guided bombs mounted on wing pylons
+* 2× 1,000lb bombs mounted on wing pylons
+
+If a player is comfortable with using the Constantly Computed Impact Point (CCIP) in Ground Realistic Battles, and cares more about total damage output rather than accuracy, it is also recommended to use:
+
+* 2× AIM-9Gs on over-wing pylons
+* 2× 540lb bombs under the fuselage
+* 4× 1,000lb bombs mounted on wing pylons (2 on each wing)
 
 === Using Mk.13 GBU and TIALD ===
 [[File:Jaguar GR.1A TIALD Display.png|thumb|379x379px|As seen in picture, TIALD shares similarities with the helicopter gunner sights.]]
-The Jaguar GR.1A brings completely new systems to Great Britain's aircraft tech-tree. While similar to the French [[Jaguar A]], it does has its changes, pros and cons. The guided munitions features have been seen in other aircraft in-game such as the [[MiG-27M]], [[MiG-23 (Family)|MiG-23]], [[A-7D]] and the like. However, the Jaguar GR.1A is the only top tier aircraft to not have access to guided missiles, only bombs.
+The Jaguar GR.1A brings completely new systems to Great Britain's aircraft tech-tree. While similar to the French [[Jaguar A]], it does has its changes, pros and cons. The guided munitions features have been seen in other aircraft in-game such as the [[MiG-27M]], [[MiG-23 (Family)|MiG-23]], [[A-7D]] and the like. However, the Jaguar GR.1A is the only penultimate strike aircraft to lack access to guided air-to-ground missiles, only bombs.
 
 ==== TIALD ====
 The TIALD (Thermal Imaging Airborne Laser Designator) is a new targeting pod added to the Jaguar GR.1A which, unlike the French Jaguar, has access to thermal vision, making target acquisition a much easier task. While in use, it acts very similar to helicopter gunner sights for modern helicopters, utilizing almost the exact same functions. Range is not displayed in the HUD as seen in helicopters. However, this is not a crucial aspect of accurate bombing as the range is fully dependent on the aircraft's attitude (altitude, speed, angle of attack, etc). If the user is familiar with helicopter HUD, you will be familiar with the indicators to the left of the reticle.
@@ -226,23 +291,26 @@ A single GBU is needed per ground target, not only because the bomb has the equi
 
 '''Pros:'''
 
-* Good speed
+* Can outrun most enemy aircraft in a full down-tier
 * Excellent roll rate
-* Decent turning circle
-* Sufficient quantity of flares & chaff
-* Good nose-mounted autocannon
-* Wide variety of ordnance
-* Effective air-to-air missiles
-* Access to laser-guided bombs
-* Air-to-air missiles are mounted on over wing pylons so you do not have to sacrifice any air-to-ground ordnance to carry them (unlike on the [[Jaguar GR.1]] and [[Jaguar A]])
-* TIALD targeting pod has thermal imaging, unlike the ATLIS II targeting pod on the [[Jaguar A]]
+* Combat flaps cannot rip off
+* Sufficient quantity of countermeasures
+* A sufficient and potent autocannon armament
+* Diverse array of ordnance
+** Effective air-to-air missiles that can be mounted on over-wing pylons to avoid sacrificing underwing pylons to carry them (unlike on the other [[Jaguar (Family)|Jaguar]] variants)
+** Sizeable bomb load
+** Access to laser-guided bombs with a thermal imaging TIALD targeting pod (unlike the prior ATLIS II targeting pod on the [[Jaguar A]])
 
 '''Cons:'''
 
-* Underwhelming stock performance
+* Poor overall flight performance
+** Very poor acceleration, even when afterburning
+** Low top-speed
+** Very poor energy retention, leading to severe loss of speed in evasive manoeuvres
+** Propensity to stall
+** Horrendous stock performance
 * Limited air-to-air ordnance
 * Rather lacking ammunition for the 30 mm cannons
-* Poor energy retention means that you bleed speed very quickly in turns
 * Very high fuel consumption when using afterburner (more so than on other aircraft)
 
 == History ==

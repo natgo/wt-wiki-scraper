@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' The text within these arrows are not to be deleted -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese SPAA {{Battle-rating}}. It was introduced in [[Update "Direct Hit"]].
+The '''{{Specs|name}}''' was American surplus equipment at the end of WWII, and was handed down to Japanese national forces for self-defense and building of a Japanese reserve in the image of the US military. Serving through the NSF and JGSDF, they were in service until 1974 when they were deemed obsolete.
 
-As American surplus equipment at the end of WWII, the [[M16 MGMC]] was handed down to Japanese national forces for self-defense and building of a Japanese reserve in the image of the US military.
+It was introduced in [[Update "Direct Hit"]]. Being a simple hand-me-down from the US, it plays and is exactly the same as the [[M16 MGMC]], offering 4x .50 M2HBs in a single mount, it destroys aircraft by the sheer volume of fire which is further helped by the Incendiary it carries in its belts. Armour protection is little to rely upon, but due to the placement of the crew, it may survive more often than not when fired upon.
 
 == General info ==
 === Survivability and armour ===

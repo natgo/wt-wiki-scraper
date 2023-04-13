@@ -183,7 +183,7 @@ When playing the Halloween race event, you will spawn in the air at the start of
 '''Pros:'''
 
 * A race variant of the [[Po-2]]
-* Alot of fun to fly in the Halloween race events.  
+* A lot of fun to fly in the Halloween race events.  
 
 '''Cons:'''
 
@@ -207,10 +207,12 @@ By 1932, a new military trainer variant, U-2VS was designed. It could carry six 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Po-2]] - The in-game playable version
 * [[Po-2M]]
 
 ;Other race event vehicles
+
 * [["Racing" M18]]
 
 == External links ==

@@ -302,6 +302,8 @@
 {{Tree-Skip}}
 {{Tree-Unit|us_merkava_mk_3d}}
 {{Tree-Skip}}
+{{Tree-Unit|us_m1a1_abrams_yt_cup_2019}}
+{{Tree-Skip}}
 
 {{Tree-End}}
 

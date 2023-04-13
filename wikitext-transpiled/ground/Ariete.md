@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The C1 Ariete is one of the MBT players unlock before researching the Ariete AMV PT1. The C1 Ariete was developed by OTO Melara during the late cold war to allow the Italian army to equip itself with a modern tank which could easily deal with Yugoslav and Warsaw pact tanks. This Italian MBT introduced during the [[Update 1.89 "Imperial Navy"|1.89 "Imperial Navy" update]] is one of the staple tanks that you can add to your lineup, the key differences when compared to the C1 Ariete Preserie include better armour in the form of the unlockable WAR kit, better optics which include gen 2 commander and gunner thermals and lastly better firepower which includes the DM53 APFSDS round. Its a great MBT when used by players who can work around its weaknesses, mobility is also not bad which means you will easily be able to keep up with the majority of your teamates in battle. 
+The C1 Ariete was developed by OTO Melara during the late Cold War to allow the Italian army to equip itself with a modern tank which could easily deal with Yugoslav and Warsaw pact tanks.
+
+Introduced in [[Update 1.89 "Imperial Navy"]], this Italian MBT is one of the staple tanks that you can add to your lineup. The key differences when compared to the [[Ariete (P)|C1 Ariete Preserie]] include better armour in the form of the unlockable WAR kit, better optics which include gen 2 commander and gunner thermals and lastly better firepower which includes the DM53 APFSDS round. It's a great MBT when used by players who can work around its weaknesses, mobility is also not bad which means you will easily be able to keep up with the majority of your teammates in battle.
 
 == General info ==
 === Survivability and armour ===

@@ -102,7 +102,7 @@
 {{Tree-Arrow|1}}
 |
 {{Tree-Unit|uk_a_22b_mk_3_churchill_1942}}
-{{Tree-Skip}}
+{{Tree-Arrow}}
 {{Tree-Unit|uk_churchill_na75}}
 {{Tree-Arrow}}
 {{Tree-Unit|uk_a_22f_mk_7_churchill_1944}}
@@ -246,6 +246,7 @@
 {{Tree-Unit|uk_centurion_shot_kal_d}}
 {{Tree-Skip}}
 {{Tree-Unit|uk_challenger_1_mk_3_gulf}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|uk_rooikat_105_td}}
 {{Tree-Skip}}
@@ -276,6 +277,7 @@
 {{Tree-Unit|uk_ttd}}
 {{Tree-Skip}}
 | style="border-left: solid 1px #cccccc;" |
+{{Tree-Unit|uk_challenger_II_yt_cup_2019}}
 {{Tree-Skip}}
 |
 {{Tree-Skip}}

@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian jet fighter {{Battle-rating}}. It was introduced in [[Update "Direct Hit"]].
+The first F-104G to be delivered to Italy was on March 3, 1961, built by Lockheed and was later disassembled and studied for production in Italy. 105 units were then produced under license in Italy, and they were used as interceptor aircraft, armed with AIM-9B Sidewinder missiles, and in some departments were used as fighter-bombers. After the continued use of the F-104G, an updated version was requested that would become the [[F-104S]] produced by Aeritalia. At the end of their service, the various Italian F-104s would become monuments and kept in museums.
+
+Introduced in [[Update "Direct Hit"]], the F-104G is not very manoeuvrable but in return has great acceleration and speed so should be used more as a boom-and-zoom fighter with the 20 mm cannon and the AIM-9J missiles. Thanks to its acceleration, you can quickly climb to high altitudes or chase enemy aircraft, but never turn-fight because it will rarely find success. For the defence of the aircraft you can count on the Chaff and Flares to avoid IR and semi-active radar missiles.
 
 == General info ==
 === Flight performance ===

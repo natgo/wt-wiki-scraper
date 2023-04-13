@@ -212,6 +212,7 @@ But there are some good news for the jet though: it is a very fast attacker in-g
 
 * Extremely fast top speed
 * Great acceleration
+* Great energy retention
 * Sufficient payload for ground-attack
 * Variable swept-wing makes it manoeuvrable
 * Equipped with RWR

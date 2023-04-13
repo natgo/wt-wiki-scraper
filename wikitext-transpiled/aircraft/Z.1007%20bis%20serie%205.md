@@ -103,6 +103,7 @@ Being an all wooden design and designed as a fast bomber, the Z.1007 lacks any s
 {{main|F200/450 (450 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+
 * 18 x 50 kg GP 50 bombs (900 kg total)
 * 18 x 100 kg GP 100 bombs (1,800 kg total)
 * 1 x 450 mm F200/450 torpedo
@@ -126,6 +127,7 @@ Noteworthy is the internally mounted torpedo. The F200/450 has a max drop speed 
 {{main|Breda-SAFAT (12.7 mm)|Scotti (12.7 mm)|Breda-SAFAT (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
+
 * 1 x 12.7 mm Breda-SAFAT machine gun, ventral turret (350 rpg)
 * 1 x 12.7 mm Scotti machine gun, dorsal turret (350 rpg)
 * 1 x 7.7 mm Breda-SAFAT machine gun, 2 x beam turrets (500 rpg)
@@ -161,14 +163,17 @@ The biggest difference between the serie 5 from the serie 3 is the twin tail con
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
+
 * Dorsal turret can traverse 360 degrees
+* Good dorsal turret coverage with its twin tail design (better than the [[Z.1007 bis serie 3|serie 3]] single-tail design)
 * Decent speed and performance
 * Decent bomb-load
 * Central engine provides some protection to the crew against head-on attacks
 
 '''Cons:'''
-* Poor defensive armament
-* Under-powered engines; losing one dramatically impacts flight performance
+
+* Poor defensive armament: Breda-SAFATs have low velocity
+* Underpowered engines: losing one dramatically impacts flight performance
 * Aircraft crew are closely bunched up together
 * Non-existent armour
 * No defensive armament at the front of the plane
@@ -182,6 +187,7 @@ One of the three standard Italian wartime bombers, alongside the S.M. 79 and the
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=z_1007_bis_serie5 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -191,6 +197,7 @@ One of the three standard Italian wartime bombers, alongside the S.M. 79 and the
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
+
 * [[S.M.79 (Family)|S.M.79]] - research tree rank 2 predecessor
 * CANT [[Z.1007 bis serie 3]] - production predecessor
 * [[SB 2M-100|SB 2]], [[Ar-2]], [[Ki-49 (Family)|Ki-49]], and [[Ju 88 (Family)|Ju 88]] - similar in flight and combat style

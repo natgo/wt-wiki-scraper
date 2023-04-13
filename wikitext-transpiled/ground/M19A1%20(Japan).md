@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' The text within these arrows are not to be deleted -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese SPAA {{Battle-rating}}. It was introduced in [[Update "Direct Hit"]].
+The '''{{Specs|name}}''', like the [[M16 MGMC (Japan)]], was American surplus equipment at the end of WWII, and was gifted to the start-up of the JSDF. Serving in the JASDF and JGSDF, they were in service until 1979 when they were deemed obsolete.
+
+It was introduced in [[Update "Direct Hit"]]. Being a simple hand-me-down from the US, it plays and is exactly the same as the [[M19A1]], offering 2 x 40 mm in a large open-top turret. Having relatively high armour penetration and the benefit of being built on the chassis of the [[M24 (Family)|M24 Chaffee]], it can be used to flank and demolish ground targets. Fighting air targets with the M19 may prove more difficult than previous Japanese anti-aircraft vehicles: offering 40 mm auto cannons, the fire rate is diminished but is exchanged for increased shell velocity and single shell damage potential that can shred planes with a single hit.
 
 == General info ==
 === Survivability and armour ===

@@ -150,12 +150,13 @@ Although the Leopard 2K is somewhat weak when stock, it is an adequate frontline
 
 * Thin armour overall
 * Reload is slower than other Leopard 2 models
-* Relatively high profile, the 20 mm gun often sticks out behind cover
+* Very high profile, the 20 mm gun always sticks out behind cover
 * Stock HEATFS round struggles against some enemy vehicles' armour, especially those with ERA or composite armour
 * Doesn't have access to thermal imaging system
 * Limited ammo selection
 * Requires skill to fully utilize its potential
 * You need to invest some skill points on the driver to actually benefit from its mobility
+* The 20mm has very sluggish penetration, often failing to penetrate light tanks
 * The 20 mm is unstabilized, and has poor turning rates
 * The 20 mm has HVAP-T(APCR) as ammo, thus it has very poor post-penetration damage
 * Other contemporary MBTs can be faster or almost as fast as the Leopard 2k

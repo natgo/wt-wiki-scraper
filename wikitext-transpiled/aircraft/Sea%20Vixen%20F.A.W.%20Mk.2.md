@@ -212,7 +212,6 @@ Enemies worth noting: All MiG 15s and 17s as they can out turn you and [[A-4E Ea
 
 * The Sea Vixen has no guns or cannons, relying entirely on missiles for air-to-air combat
 * Missiles are rear-aspect only so you cannot engage targets you are approaching head-on (or from the front aspect in general)
-* Although you can use [[RN]] rockets for air-to-air they are very hard to aim and are impact fuse only
 * Both [[Red Top]] and [[Firestreak]] missiles do not have great range when fired from directly behind a target.
 * Only having four air-to-air missiles with no other air-to-air armament limits how many kills you can get without re-arming
 * Unlike in aircraft with guns you cannot opportunistically kill ground targets while flying around

@@ -174,7 +174,11 @@
       "wikiname": "Merkava Mk.3D (USA)",
       "marketplace": "items_Merkava Mk.3D (USA)"
     },
-    { "intname": "us_m1a1_abrams_yt_cup_2019" },
+    { "intname": "us_m1a1_abrams_yt_cup_2019", "wikiname": "M1A1 (USA)" },
+    { "intname": "us_mk_5_assault_combat_exoskeleton" },
+    { "intname": "us_mk_5_aa_combat_exoskeleton" },
+    { "intname": "us_mk_5_at_combat_exoskeleton" },
+    { "intname": "us_mk_5_sniper_combat_exoskeleton" },
     {
       "intname": "germ_sdkfz_221_s_pz_b_41",
       "wikiname": "Sd.Kfz.221 (s.Pz.B.41)"
@@ -340,7 +344,10 @@
       "store": "11228"
     },
     { "intname": "germ_leopard_2pl", "wikiname": "Leopard 2 PL" },
-    { "intname": "germ_leopard_2a5_yt_cup_2019" },
+    {
+      "intname": "germ_leopard_2a5_yt_cup_2019",
+      "wikiname": "Leopard 2A5 (Germany)"
+    },
     {
       "intname": "germ_sdkfz_251_10",
       "wikiname": "Sd.Kfz.251/10",
@@ -666,8 +673,12 @@
       "marketplace": "id50176_t_72m2_moderna_ussr"
     },
     { "intname": "ussr_m551_football" },
-    { "intname": "ussr_t_80u_yt_cup_2019" },
+    { "intname": "ussr_t_80u_yt_cup_2019", "wikiname": "T-80U (USSR)" },
     { "intname": "ussr_t_80u_race" },
+    { "intname": "ussr_mk_5_assault_combat_exoskeleton" },
+    { "intname": "ussr_mk_5_aa_combat_exoskeleton" },
+    { "intname": "ussr_mk_5_at_combat_exoskeleton" },
+    { "intname": "ussr_mk_5_sniper_combat_exoskeleton" },
     { "intname": "uk_a_13_mk1", "wikiname": "A13 Mk I" },
     { "intname": "uk_a_13_mk2", "wikiname": "A13 Mk II" },
     { "intname": "uk_crusader_mk_2", "wikiname": "Crusader II" },
@@ -792,7 +803,10 @@
       "wikiname": "Challenger DS",
       "store": "11226"
     },
-    { "intname": "uk_challenger_II_yt_cup_2019" },
+    {
+      "intname": "uk_challenger_II_yt_cup_2019",
+      "wikiname": "Challenger 2 (Great Britain)"
+    },
     {
       "intname": "uk_alecto_mk_1",
       "wikiname": "Alecto I",
@@ -1013,6 +1027,7 @@
     { "intname": "cn_bt_5" },
     { "intname": "cn_type_95_ha_go" },
     { "intname": "cn_t_62", "wikiname": "T-62 545 (China)" },
+    { "intname": "cn_qn506" },
     { "intname": "cn_ztz_96a_race" },
     { "intname": "it_ab_41", "wikiname": "AB 41" },
     { "intname": "it_m11_39", "wikiname": "M11/39" },
@@ -1093,10 +1108,10 @@
     { "intname": "it_m60a1_ariete", "wikiname": "M60A1 \"D.C.Ariete\"" },
     { "intname": "it_of_40_mtca", "wikiname": "OF-40 (MTCA)" },
     { "intname": "it_vrcc_centauro", "wikiname": "VRCC", "store": "11443" },
-    { "intname": "it_toldi_II_a", "wikiname": "Toldi IIA" },
-    { "intname": "it_41m_turan_2", "wikiname": "Turan II" },
+    { "intname": "it_toldi_II_a", "wikiname": "Toldi IIA (Italy)" },
+    { "intname": "it_41m_turan_2", "wikiname": "Turan II (Italy)" },
     { "intname": "it_p_26_40", "wikiname": "P40 \"G.C. Leoncello\"" },
-    { "intname": "it_44m_zrinyi_1", "wikiname": "Zrinyi I" },
+    { "intname": "it_44m_zrinyi_1", "wikiname": "Zrinyi I (Italy)" },
     {
       "intname": "it_aubl_74_60_70m",
       "wikiname": "AUBL/74 HVG",
@@ -1181,6 +1196,7 @@
       "wikiname": "AMX-30 Super",
       "store": "6881"
     },
+    { "intname": "fr_amd_35_sa35" },
     { "intname": "fr_lvt_bofors", "wikiname": "LVT-4/40" },
     { "intname": "fr_lorraine_155", "wikiname": "Lorraine 155 Mle.50" },
     { "intname": "fr_panhard_ebr_1954", "wikiname": "E.B.R. (1954)" },
@@ -1258,8 +1274,8 @@
       "wikiname": "Charioteer Mk VII (Sweden)"
     },
     { "intname": "sw_t_54_1951", "wikiname": "T-54 (Sweden)" },
-    { "intname": "sw_t_55m", "wikiname": "T-55M" },
-    { "intname": "sw_t_72m1", "wikiname": "T-72M1" },
+    { "intname": "sw_t_55m", "wikiname": "T-55M (Sweden)" },
+    { "intname": "sw_t_72m1", "wikiname": "T-72M1 (Sweden)" },
     { "intname": "sw_leopard_2a4_fin", "wikiname": "Leopard 2A4 (Sweden)" },
     { "intname": "sw_leopard_2a6nl", "wikiname": "Leopard 2A6 (Sweden)" },
     { "intname": "sw_strv_m39", "wikiname": "Strv m/39" },
@@ -1548,6 +1564,8 @@
       "wikiname": "F-5A",
       "marketplace": "id50153_f_5a_usa"
     },
+    { "intname": "a_7k" },
+    { "intname": "uav_quadcopter" },
     { "intname": "ucav_recon_micro" },
     { "intname": "ucav_recon_micro_flir" },
     { "intname": "bf-109b_2", "wikiname": "Bf 109 B-1" },
@@ -2574,7 +2592,10 @@
     { "intname": "so_8000_narval", "wikiname": "S.O.8000 Narval" },
     { "intname": "douglas_ad_4na_france", "wikiname": "AD-4NA (France)" },
     { "intname": "so_4050_vautour_2n", "wikiname": "S.O.4050 Vautour IIN" },
-    { "intname": "md_460_yt_cup_2019" },
+    {
+      "intname": "md_460_yt_cup_2019",
+      "wikiname": "Super Mystere B2 (France)"
+    },
     { "intname": "mirage_milan", "wikiname": "Milan", "store": "10892" },
     {
       "intname": "mirage_f1c_200",
@@ -2676,7 +2697,7 @@
     { "intname": "saab_105oe", "wikiname": "SAAB-105OE" },
     { "intname": "saab_j29d", "wikiname": "J29D" },
     { "intname": "saab_j35a", "wikiname": "J35A", "store": "10409" },
-    { "intname": "saab_j35xs", "wikiname": "Saab 35FS", "store": "11813" },
+    { "intname": "saab_j35xs", "wikiname": "Saab J35XS", "store": "11813" },
     { "intname": "vl_myrsky_2_late", "wikiname": "VL Myrsky II" },
     { "intname": "spitfire_mk9c_iaf", "wikiname": "Spitfire Mk IXc (Israel)" },
     {
@@ -3006,13 +3027,14 @@
       "wikiname": "Mikhail Kutuzov",
       "marketplace": "items_Maxim Gorky (USSR)"
     },
+    { "intname": "ussr_cruiser_shcherbakov" },
     { "intname": "ussr_destroyer_7y_stroyny", "wikiname": "Sverdlov" },
     { "intname": "ussr_destroyer_pr41_neustrashimy", "wikiname": "OD-200" },
     { "intname": "ussr_cruiser_voroshilov", "wikiname": "Ya-5M" },
     { "intname": "uk_destroyer_v_class_vega", "wikiname": "HMS Verdun" },
     { "intname": "uk_destroyer_hunt_2series", "wikiname": "HMS Churchill" },
     { "intname": "uk_destroyer_tribal", "wikiname": "HMS Glorious" },
-    { "intname": "uk_destroyer_n_class", "wikiname": "HMS Norfolk" },
+    { "intname": "uk_destroyer_n_class", "wikiname": "HMAS Tobruk" },
     { "intname": "uk_destroyer_battle_2series", "wikiname": "HMS Belfast" },
     { "intname": "uk_cruiser_enterprise_d52", "wikiname": "HMS Eskimo" },
     { "intname": "uk_cruiser_arethusa", "wikiname": "HMS Armada" },
@@ -3052,7 +3074,7 @@
     },
     {
       "intname": "uk_destroyer_clemson_montgomery_g95",
-      "wikiname": "HMS Nepal"
+      "wikiname": "HMS Norfolk"
     },
     {
       "intname": "uk_destroyer_g_garland",
@@ -3330,7 +3352,7 @@
     { "intname": "uk_fairmile_c", "wikiname": "Fairmile C (332)" },
     { "intname": "uk_fairmile_lcs_l_h_mk2", "wikiname": "Folaga" },
     { "intname": "uk_fairmile_d_601_616", "wikiname": "Fairmile D (617)" },
-    { "intname": "uk_attack_class_arrow", "wikiname": "HMAS Tobruk" },
+    { "intname": "uk_attack_class_arrow", "wikiname": "HMAS Nepal" },
     { "intname": "uk_fairmile_c_332", "wikiname": "Fairmile D (5001)" },
     { "intname": "uk_corvette_peacock", "wikiname": "HMS Southampton" },
     { "intname": "uk_frigate_whitby_blackpool", "wikiname": "HMS Brissenden" },

@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Japanese heavy tank {{Battle-rating}}. It was introduced in [[Update 1.67 "Assault"]].
+The '''{{Specs|name}}''' ({{Annotation|九五式重戦車「ロ号」|Kyūgo-Shiki Jū-Sensha [Ro-Go]}}) was a Japanese heavy tank design that joined the trend of multi-turret tank designs such as the [[T-28]], [[T-35]], and the [[Independent]]. While it was the second Japanese tank that was adopted for service after the [[I-Go Ko|Type 89 I-Go]], its combat trials in Manchuria proved that the production, cost, weight, and mobility were problems and resulted in not seeing mass production.
+
+The Ro-Go was introduced in [[Update 1.67 "Assault"]]. It plays very closely to the [[I-Go Ko|I-Go]], lacking any real armour, offering a low-velocity main cannon that does have a potentially strong HEAT shell and lacklustre mobility. The additional benefits however include an additional 37 mm in a secondary turret, a rear machine gun operated by an independent crew member that helps survivability, and overall more crew members in total.
 
 == General info ==
 === Survivability and armour ===

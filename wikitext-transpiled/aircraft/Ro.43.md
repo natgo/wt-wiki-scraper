@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Italian hydroplane {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]] as a ship-launched reconnaissance aircraft.
+In 1933, the Regia Marina asked the Italian aeronautical industries for a new reconnaissance seaplane to replace the Piaggio P.6 and CANT 25 already in use on some cruisers. One of these aeronautical companies was IMAM, and thanks to Giovanni Galasso the IMAM Ro.37 Bis was modified into a seaplane version for maritime reconnaissance. Modifying the Ro.37 Bis with a different wing configuration and a central float to better balance the aircraft, the Ro.43 was born, took off for the first time on 19 November 1934, and won the competition issued by the Regia Marina, even exceeding the specifications required by the Navy itself.
+
+Introduced in [[Update "Winged Lions"]], the Ro.43 is the only catapult-able aircraft from Italian ships in the game. It is equipped with an armament of only two 7.7 mm frontal guns and a defensive turret with a 7.7 mm, which are not very powerful but do the job. This is an excellent aircraft for shooting down other enemy seaplanes present from other nations' ships, thanks to its engine it also manages to quickly regain speed even after capturing a point, and the smoke screen can be used to protect both yourself and your allies when sailing in open waters.
 
 '''Ships that carry the {{PAGENAME}}'''
 
@@ -106,17 +108,15 @@ The '''''{{PAGENAME}}''''' is defended by:
 ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
 
-'''Pros:'''
-
-*
+* Optimal acceleration
+* Very manoeuvrable
 
 '''Cons:'''
 
-* Has no access to bombs, restricting its ability to damage ships
-* Cumbersome for a biplane
+* It has no access to bombs, restricting its ability to damage ships
+* Quite heavy
 * Light offensive armament
 
 == History ==
@@ -125,6 +125,7 @@ The '''''{{PAGENAME}}''''' is defended by:
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
 ;Videos
 {{Youtube-gallery|kMitXbnJb5A|'''Incrociatore Eugenio di Savoia - 1940 - Lancio di aereo da catapulta''' - ''silvan500''<br>Archival film of a Ro.43 being launched from the [[RN Eugenio di Savoia|Eugenio di Savoia]].}}
 

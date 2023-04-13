@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian strike aircraft {{Battle-rating}}. It was introduced in [[Update "Hot Tracks"]].
+The [[F-84F]] was exported to several countries, one of which was Italy. The 102nd Group was the first Italian air group to equip the F-84F and replaced the [[F-84G-21-RE (Italy)|F-84G]] in 1956, then later the 101st Group, and finally the 103rd Group. The F-84F was not much liked by the pilots at the time because it had poor flying qualities, however between 1958 and 1959, the F-84F was used by the Diavoli Rossi aerobatic patrol. In addition to the F-84F, Italy also used the reconnaissance variant the RF-84F. Eventually, the F-84F would be replaced by the [[G.91 (Family)|G.91]] and in other groups by the [[F-104G (Italy)|F-104G]], and their last use would be by the 5th Air Brigade to escort Pope Paolo VI who went to Israel for the first time in January 1964.
+
+Introduced in [[Update "Hot Tracks"]], the ▄F-84F is an assaulter/fighter-bomber, with swept wings that allow it to reach high speeds faster but reduce the aircraft's manoeuvrability due to the loss of speed in manoeuvres. It is more of an energy fight and boom and zoom aircraft, but can also be used as CAS in ground battles or as a bomber in air battles, thanks to its good payloads of a variety of bombs and rockets.
 
 == General info ==
 === Flight performance ===

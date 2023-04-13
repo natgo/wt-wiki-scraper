@@ -130,11 +130,16 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
+
 ;Realistic Battles
 
-First, climb up to 3,000-3,500 m, and visualize the battlefield. If there is another plane at the same altitude or above you, it is a potential hazard and must be dealt with. Either eliminate the threat, or fly towards your allies, if there is more than one fighter.
+Before engaging in aerial combat, it is essential to have a strategic plan to maximize your chances of success. One of the first steps in this process is to gain altitude and get an overview of the battlefield. Climbing to a height of 3,000-3,500 meters provides a good vantage point to spot any potential threats and allows you to identify any enemy planes that might be flying at the same altitude or higher. These planes are potential hazards and must be dealt with immediately.
 
-When tailed by enemy fighters, force them to overshoot and use energy fight tactics to deplete their energy and end up on their tail. Your 20 mm ShVAKs can knock out planes easily with short to mid bursts. With 340 rounds, you can eliminate 2 or 3 enemies before returning to the airfield.
+If you spot an enemy plane at the same altitude or higher, you have two options. You can either eliminate the threat by attacking the enemy plane or fly towards your allies if there are more than one fighter. It is essential to keep in mind that the presence of an enemy fighter at the same altitude or higher can significantly affect your chances of success in aerial combat. Thus, it is crucial to deal with them as quickly and efficiently as possible.
+
+In the event that you are being tailed by enemy fighters, it is essential to use energy fight tactics to force them to overshoot you. By doing this, you can deplete their energy and end up on their tail, giving you the advantage in the fight. Your 20 mm ShVAKs can be highly effective in taking down enemy planes with short to mid bursts, and with 340 rounds, you can eliminate two or three enemies before having to return to the airfield.
+
+Overall, having a strategic plan and being aware of your surroundings is crucial when engaging in aerial combat. By gaining altitude, identifying potential threats, and using energy fight tactics, you can maximize your chances of success and emerge victorious in aerial combat.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"

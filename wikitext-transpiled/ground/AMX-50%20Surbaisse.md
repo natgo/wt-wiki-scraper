@@ -13,7 +13,7 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} French heavy tank {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]]. On the battlefield, the vehicle is very easy to recognize due to its shape which simply cannot be mistaken for another French tank.
 
-The AMX-50 Surbaissé differs from every heavy tank in its general playstyle, since it has rather thin armour which will not protect it against incoming enemy fire, you have to use its medium tank like mobility to perform deadly flank attacks which will often prove very catastrophic for the enemy team. Indeed, since you can keep up with most medium tanks and even outpace some, especially the British medium tanks, many enemies will find themselves completely caught off guard and at the mercy of your autoloading 120 mm gun which will allow you to kill one tank every 6 seconds. The tank is also a great long-range sniper (1,500 m and beyond) as it comes equipped with a rangefinder that will allow you to range very quickly distant targets and deliver accurate shots upon them, also at such distances, your armour will start to be difficult to penetrate for most lower rank gun you'll encounter. Overall this tank, while being a heavy tank, is not meant to be played as such since it does not behave as such. You must use your mobility and your accurate fast-firing armament to prove effective against the enemies you'll come across
+The AMX-50 Surbaissé differs from every heavy tank in its general playstyle. Since it has rather thin armour which will not protect it against incoming enemy fire, you have to use its medium tank-like mobility to perform deadly flank attacks which will often prove very catastrophic for the enemy team. Indeed, since you can keep up with most medium tanks and even outpace some, especially the British medium tanks, many enemies will find themselves completely caught off guard and at the mercy of your autoloading 120 mm gun which will allow you to fire one shot every 6 seconds. The tank is also a great long-range sniper (1,500 m and beyond) as it comes equipped with a rangefinder that will allow you to quickly range very distant targets and deliver accurate shots upon them. At such distances, your armour will start to become difficult to penetrate for most lower rank guns you'll encounter. Overall this tank, while being a heavy tank, is not meant to be played like one. You must use your mobility and your accurate fast-firing armament to prove effective against the enemies you'll come across.
 
 == General info ==
 === Survivability and armour ===
@@ -157,6 +157,7 @@ Every enemy you can encounter which do not result from deliberate up tiers from 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_amx_50_surbaisse Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -168,6 +169,7 @@ Every enemy you can encounter which do not result from deliberate up tiers from 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[AMX-50 (Family)]]
 
 == External links ==

@@ -5,13 +5,15 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ({{Annotation|九八式軽戦車「ケニ」|Kyūhachi-Shiki Kei-Sensha [Ke-Ni]}}) is a reserve rank {{Specs|rank}} Japanese light tank {{Battle-rating}}. It was introduced along with the initial Japanese Ground Forces tree in [[Update 1.65 "Way of the Samurai"]].
+The '''{{Specs|name}}''' ({{Annotation|九八式軽戦車「ケニ」|Kyūhachi-Shiki Kei-Sensha [Ke-Ni]}}) was a light tank prototype to replace and improve on the Ha-Go, built with a smaller silhouette and primarily focused as a light tank instead of a general purpose tank like the Ha-Go. It included some unconventional design choices for a Japanese tank: due to the small size of the tank and only having a driver in the hull, the machine gun was moved to the turret in a coaxial mount, and it had armour improvements and a Christie suspension. While a very promising tank, high command didn't feel the need to replace the adequately performing Type 95 Ha-Go's against the little Chinese armour they faced.
+
+The Ke-Ni was introduced along with the initial Japanese Ground Forces tree in [[Update 1.65 "Way of the Samurai"]]. Being a small and zippy tank, it plays very similarly to the [[M22]]; while the cannon isn't completely up-to-par, it does offer APHE to deal some post-penetration damage. It's best used in flanks and hitting enemy tanks from the side.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-With around 12 mm of armour all around, this tank is barely bulletproof. German and British machine guns can even knock you down at point-blank range. Your crew is cramped and not numerous, which makes surviving a shot extremely unlikely. This is definitely not the tank to expose to any kind of shots. With its small turret and impressive gun depression, hull-down positions improve this vehicle's survivability and should be sought whenever possible. 
+With around 12 mm of armour all around, this tank is barely bulletproof. German and British machine guns can even knock you down at point-blank range. Your crew is cramped and not numerous, which makes surviving a shot extremely unlikely. This is definitely not the tank to expose to any kind of shots. With its small turret and impressive gun depression, hull-down positions improve this vehicle's survivability and should be sought whenever possible.
 
 '''Armour type:'''
 
@@ -112,7 +114,7 @@ Being a light tank, the Ke-Ni cannot engage enemies head-on. To succeed in an as
 
 '''Pros:'''
 
-* Low profile 
+* Low profile
 * Slightly improved 37 mm cannon able to penetrate the majority of rank 1 tanks it faces
 * Coaxial machine gun (rare for a early Japanese tank)
 * Large ammo load

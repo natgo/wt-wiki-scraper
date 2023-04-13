@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=fiat_cr42_italy
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |cockpit=cockpit_fiat_cr42_italy.jpg
 }}
 

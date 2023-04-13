@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian jet fighter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]]. It is the first jet in the Italian tree's export fighter line, and is placed after the [[Re.2005 serie 0]]. It is followed by the rank VI fighter, the [[CL-13 Mk.4]]. The Vampire FB 52A is an export version of the British Vampire FB 6, itself an upgraded version of the [[Vampire FB 5]] with an improved engine.
+In 1946, the Kingdom of Italy became a democracy (the Italian Republic); meanwhile, between the 1950s and 1960s, a big step in aviation took place due to the simple fact that jet aircraft began to enter service in several nations, replacing some propeller-driven aircraft. In Italy, the first aircraft to be acquired was the Vampire F.3, and then later the Vampire FB.5. and eventually 51 Vampire FB.52As were purchased from Great Britain. The FB.52A variants in particular had a new Goblin 3 engine that offered more thrust than the FB.5's Goblin 2. After the delivery of the 51 Vampire FB.52As, Italy began to produce them locally by FIAT and Macchi building 195 units. In 1960, they were decommissioned and replaced by the [[F-84G-21-RE (Italy)|F-84G Thunderjet]].
+
+Introduced in [[Update 1.91 "Night Vision"]], the Vampire FB.52A is a good fighter for turn fighting thanks to its manoeuvrability at low speed, giving it the advantage over most enemy jets. Even if it has a more powerful engine, it struggles to accelerate. The four Hispano Mk.V cannons can severely damage enemy aircraft, it can also be used in ground RB to destroy armoured vehicles with the light suspended armaments.
 
 == General info ==
 === Flight performance ===
@@ -187,6 +189,7 @@ The Vampire's service in Italian hands was uneventful. They were retired by 1960
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=vampire_fb52a_italy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

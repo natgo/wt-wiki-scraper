@@ -9,9 +9,10 @@
 }}
 
 == Description ==
-<!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->The C1 Ariete Preserie is one of the MBT players unlock before researching the production C1 Ariete PSO. The C1 Ariete was developed by OTO Melara during the late cold war to allow the Italian army to equip itself with a modern tank which could easily deal with Yugoslav and Warsaw pact tanks. 
+<!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
+The C1 Ariete was developed by OTO Melara during the late cold war to allow the Italian army to equip itself with a modern tank which could easily deal with Yugoslav and Warsaw pact tanks.
 
-The one represented in game  introduced in [[Update 1.87 "Locked On"|1.87 "Locked On" update]] is the preserie variant which means you don't get access to stronger equipment the production model has, however the preserie is at a lower battlerating which means the majority of enemy vehicles you face can be easily handled when used by someone who can make the most of its pros and cons. It has great mobility and the armour is surpisingly effective at its battlerating, players can research this tank to add to their 10.0 lineup, when all modifications are unlocked the preserie surely will exceed expectations.
+Introduced in [[Update 1.87 "Locked On"]], this vehicle represents the "preserie" variant, which means you don't get access to the stronger equipment the [[Ariete|production model]] has. However, the preserie is at a lower battle rating, which means the majority of enemy vehicles you face can still be easily handled. It has great mobility and the armour is surprisingly effective at its battle rating, when all modifications are unlocked the preserie surely will exceed expectations.
 
 == General info ==
 === Survivability and armour ===

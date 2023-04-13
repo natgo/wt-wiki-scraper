@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese tank destroyer {{Battle-rating}}. It was introduced in [[Update "Ixwa Strike"]]. The Ro-Go Experimental is a modification of the [[Ro-Go]] platform. It features a French model 120 mm Schneider-Canet 1898 cannon as its main armament.
+The '''{{Specs|name}}''' was a modification of the [[Ro-Go]] platform. It features a French model 120 mm Schneider-Canet 1898 cannon as its main armament to up-gun unused hulls and press them into service as capable glass-cannon self-propelled guns.
+
+Ro-Go Experimental was introduced in [[Update "Ixwa Strike"]]. It is a very strong cannon against the vehicles it faces with the main drawback being based on a slow and sluggish heavy tank hull. Additionally, it being open top, relatively thin armoured, and once again on a sluggish hull, the best course of action is to use this glass cannon in a sniping position, dealing with targets at a range.
 
 == General info ==
 === Survivability and armour ===

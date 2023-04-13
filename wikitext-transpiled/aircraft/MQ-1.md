@@ -93,11 +93,12 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 '''Cons:'''
 
 * Limited payload, only two missiles
+* Slow
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
-The MQ-1 Predator was introduced to the US on 1 July 1995 and developed by General Atomics to be a observational and attack aircraft which could be remotely controlled over long distances. This would mean there would be no danger to the pilot since there wasn't a pilot. It was retired from the USAF on 9 March 2018 in favour of the more capable and heavier MQ-9 Reaper.
+The MQ-1 Predator was introduced to the US on 1 July 1995 and developed by General Atomics to be a observational and attack aircraft which could be remotely controlled over long distances. This would mean there would be no danger to the pilot since there wasn't a pilot. It saw numerous deployments, including Afghanistan, Pakistan, Bosnia, Yugoslavia, Iraq, Yemen, Libyan civil war, Syria, and Somalia. It was retired from the USAF on 9 March 2018 in favour of the more capable and heavier MQ-9 Reaper.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

@@ -97,6 +97,7 @@ As a patrol boat with heavy firepower, it is able to dominate the steep waters o
 
 * No armour whatsoever
 * Small crew complement
+* The 30 mm guns are quickly depleted
 * Closed and tightly packed crew compartments
 
 == History ==

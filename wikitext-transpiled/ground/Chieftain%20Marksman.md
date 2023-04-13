@@ -29,7 +29,9 @@ The Chieftain chassis is fairly well protected against frontal attacks by light 
 
 Do not show the lower front plate to the enemy's tanks, as it's considerably weaker. Despite having better armour for hull, the Marksman is extremely slow for it, so keeping the enemy away from this vehicle is the key to making the most of the armour it have, even though most opponents will only fire at its turret.
 
-Generally, if turret doesn't break in a single hit, the crew is taken out in such order: Firstly the enemy does a precise shot at the bottom-left (vehicle's right) of the turret to take out the gunner, then fires at the opposite to take out tank commander. Turret may tank 20 mm autocannon shots, but only at about 1.2 km range, which is an acceptable duel range for the Marksman. Any non-stock combat SPAA's and light tanks, though, will breach it with no effort even from 3 km away.
+Generally, if turret doesn't break in a single hit, the crew is taken out in such order: Firstly the enemy does a precise shot at the bottom-left (vehicle's right) of the turret to take out the gunner, then fires at the opposite to take out tank commander. 
+
+Turret may tank 20 mm autocannon shots, but only at about 1.2 km range, which is an acceptable duel range for the Marksman. Any non-stock combat SPAA's and light tanks, though, will breach it with no effort even from 3 km away.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -72,7 +74,7 @@ Guns converge at about 1.2 km range without "Adjustment of Fire" modification an
 
 The guns can disable both tracks of the enemy vehicle at once at 300 m distance if facing the enemy's front. This allows the Marksman to escape and ask teammates to finish off the threat.
 
-Due to the belt limitations, the optimal playstyle is much less aggressive than the [[Falcon]]; however, the APDS belt is no joke, as every shell in it can penetrate about 100 mm of armour up to 500 m and up to 60 mm at 2,000 m at 30°. As such, weaker side armour on most rank V+ vehicles of all nations can be threatened by the Marksman from almost any range, and it only brings much more pain to light vehicles from afar. Only [[:Category:USSR ground vehicles|Soviet tanks]] have decent enough armour on nearly all vehicles to negate its firepower in optimal weapon range.
+Due to the belt limitations, the optimal playstyle is much less aggressive than the [[Falcon]]; however, the APDS belt is no joke, as every shell in it can penetrate about 100 mm of armour up to 500 m and up to 60 mm at 2,000 m at 30°. Laser rangefinder also ensures that Marksman volleys hit enemy tanks without failure. As such, weaker side armour on most rank V+ vehicles of all nations can be threatened by the Marksman from almost any range, and it only brings much more pain to light vehicles from afar.  Only [[:Category:USSR ground vehicles|Soviet tanks]] have decent enough armour on nearly all vehicles to negate its firepower in optimal weapon range.
 
 Guns still overheat in about 10 seconds and can put the Marksman out of fighting capability for half a minute. Avoid spray-and-pray tactics and let the cannons cool down at least for a bit between volleys.
 
@@ -139,23 +141,23 @@ Rearming of the belts takes 20 seconds, but it can only do two belts at once (re
 ! {{Annotation|Noise Level|How much noise is present in the image (how grainy the image is)}}
 |-
 ! Gunner's Sight
-| X~7,5 - X~8 || N/A || N/A || N/A || Not Fitted ||
+| X3 - X10 || N/A || N/A || N/A || Not Fitted ||
 |-
 ! Commander's View
-| X6 || N/A || N/A || N/A || Not Fitted ||
+| X3 - X10 || N/A || N/A || N/A || Not Fitted ||
 |-
 ! Driver's View
 | X1 / 3PV || 800X600 || _ || high || Not Fitted || Only useable with tier 2 upgrade
 |-
 |}
 
-*Zoom level estimated using optics gallery.
-
 Use night vision to avoid hostile tanks or to fight them at close range at night. The image intensifier is not installed for gunner or commander, so be cautious when shifting between third person and other views during night.
 
 While Chieftain Marksman gun convergence can allow its user to fire at targets in 3-rd person view and still hit a target, you have to use sniper scope to increase accuracy of radar aim, but keep [[SPAA_radars#Sensor_guidance_errors|sensor guidance errors]] in mind during this.
 
-Rely mostly on your radar when firing at night, but do not forget to check, if lock-on is stable, as it may wobble around the target at times.
+Commander sight can be used in AB/RB to fire weapons at super long range while only exposing the radar and optics, as otherwise "sniper optics" are located lower on cannon level. This does not make fighting much safer in general as the radar is still exposed, but can sometimes help when fighting tanks on high ground.
+
+Rely mostly on radar when firing at night, but do not forget to reduce zoom and check, if lock-on is stable, as it may wobble around the target at times.
 
 ===Radars===
 {{main|Marconi S 400}}
@@ -195,7 +197,7 @@ Alternatively, you could go straight for capture point defence and unload second
 
 Using radar-assisted aim is advised since it's more accurate and can lead to hits at over 3 km range. To conserve ammo, however, do not just blindly follow it, especially in arcade, as arcade mode aircraft tend to dodge direct shots - do some short bursts around it. If you are standing on a frontline, remember that the Marksman is very tall and it is not rare for some tankers to get annoyed by your presence and try to shoot the radar off the turret, even if the turret itself is almost entirely behind cover and attack achieves nothing else, so try to move somewhere remotely safe if you are expecting an air raid.
 
-In arcade mode your combat ability is severely limited, due to many maps being 2 x 2 km wide at best, so on such maps you could try to train your crew with very high "keen vision", then try to camp enemy base entrances across the map, using the fact that your shells have little penetration falloff over distance and slight armour angling. This would require great map knowledge, though. As soon as enemy planes or attack helicopters appear, destroy them.
+In arcade mode your combat ability is severely limited, due to many maps being 2 x 2 km wide at best, so on such maps you could try to train your crew with very high "keen vision", then try to camp enemy base entrances across the map, using the fact that your shells have little penetration falloff over distance, laser rangefinder assistance and slight armour angling. This would require great map knowledge, though. If you do not have map knowledge or are quickly bored, try to follow some medium tanks and attack whoever tries to flank or got distracted by them, but be ready to suffer consequences if you fail. As soon as enemy planes or attack helicopters appear, destroy them.
 
 On big maps in arcade mode, keep in mind, that every sniper tank on enemy team might try to shoot in your direction, as soon as they are done destroying medium tanks, or if hostile light tank "scout" you. It is very hard to snipe planes from spawn on such maps, so try to secure some "trench line" in form of a hill, which you can use to follow your team even under sniper fire. Snipe lightly-armoured tanks back, if they expose themselves. Having high "keen vision" greatly helps at this as well.
 
@@ -214,15 +216,16 @@ Some enemies to be concerned about:
 '''Pros:'''
 
 * Guns produce a great effect upon shell contact on target, requiring only one or two hits to down a plane
-* Can fire effectively at longer ranges than [[Falcon]] and has radar guidance on top of that
+* Can fire effectively at longer ranges than [[Falcon]] and has laser rangefinder with radar guidance on top of that
 * Compared to [[Gepard]] and [[Type 87]] has relatively easy time shooting down planes even without use of a sniper scope
 * Secondary belts and near-instant reload allows for safer rearms compared to the [[Falcon]] and the [[M163]] Vulcan
 * Has a stable radar system with full 360° target tracking - it rarely ever needs to be manually locked on
 * Unlike the latter [[ZA-35]], can lock-on and fight through some trees, at the cost of triggering radar warning systems
+* Due to how tall this SPAA is, the APDS belt can breach weak spots of some tanks which rely on angled armour in a downtier
 
 '''Cons:'''
 
-* Low mobility - it can't outrun most of its opponents and moving around the map at its rank can be a challenge in itself
+* Low mobility - it can't outrun most of its opponents and moving around the map at its rank can be a challenge in itself, eventually becomes obsolete because of this
 * LFP is a weak spot even for some light tanks, turret is lightly-armoured and is a big target for rockets and other explosives - keeping 1.3 km distance is crucial when fighting light tanks and other SPAA
 * Due to very tall profile it is an easy target, when compared to other SPAAs of the rank. it is hard to never show it to medium tanks or SPGs in order to avoid being destroyed by overpressure
 * The cannon's convergence makes the Marksman weaker in close combat, as it can only hit targets with one gun at short range

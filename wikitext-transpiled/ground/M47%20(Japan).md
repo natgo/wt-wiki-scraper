@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese medium tank {{Battle-rating}}. It was introduced in [[Update "Red Skies"]].
+The '''{{Specs|name}}''' was sent by the US to Japan for trials to evaluate its potential as the JGSDF was looking for a new medium tank design. But due to the Japanese order being backlogged because of the German order of M47s, the Japanese started development on their own tank beginning with [[Type 61 (Family)|ST-A series towards the Type 61 MBT]]. Somewhere halfway through the development, an American M47 could finally be acquired and was compared to the progress the Japanese already had, and it was decided that the Japanese maintained course in developing their own tank instead of ordering more of the M47.
 
-An M47 was sent by the US to Japan for trials to evaluate its potentials as the JGSDF was looking for a new medium tank design. The Japanese instead adopted the [[Type 61 (Family)|Type 61]], which took design inspiration from the Patton.
+The Japanese M47 was introduced in [[Update "Red Skies"]]. Offering the exact same vehicle as the American counterpart, it gives Japanese tankers a glance at what more reliable armour can do, which at the battle range the M47 sits is pretty negatable due to APDS(FS) and HEAT(FS) being common sight here. The best course of action is to use this tank as any other Japanese medium tank, making good use of the powerful cannon while playing safe with the vehicle itself, treating it more like a glass cannon such as the previous [[Type 61 (Family)|Type 61 & ST-As]] before it.
 
 == General info ==
 === Survivability and armour ===

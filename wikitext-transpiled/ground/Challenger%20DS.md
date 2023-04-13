@@ -1,7 +1,7 @@
 {{About
 | about = premium British MBT '''{{PAGENAME}}'''
-| usage = other versions
-| link = Challenger 2 (Family)
+| usage = other uses
+| link = Challenger (Disambiguation)
 }}
 {{Specs-Card
 |code=uk_challenger_1_mk_3_gulf

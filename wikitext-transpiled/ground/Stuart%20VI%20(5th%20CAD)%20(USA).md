@@ -201,6 +201,14 @@ Shown as a tank from the Canadian Fifth Armored Division.
 
 * [[M3 Stuart (Family)]]
 
+;Other Canadian ground vehicles present in the game
+
+*[[QF 3.7 Ram]]
+*[[M4A5]]
+*[[C2A1]]
+*[[ADATS (M113)]]
+*[[Skink]]
+
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''

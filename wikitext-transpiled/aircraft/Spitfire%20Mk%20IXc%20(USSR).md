@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
-It was made available for purchase in-game with Golden Eagles {{ge}} briefly [[wt:en/news/534--en|after the release of Update 1.39]], then in [[wt:en/news/2603--en|November 2014]], then during the [[wt:en/news/4554-event-spitfire-day-in-honor-of-the-first-flight-en|2017 "Spitfire Day"]] mini-event, then during the [[wt:en/news/4969-video-event-legends-spitfire-and-tournaments-royal-joust-en|2017 "Royal joust"]] mini-event and in [https://forum.warthunder.com/index.php?/topic/551755-spitfire-mk-ixc-ussr-available-for-ge-for-limited-time/ April 2022]. It was also gifted as a reward for the [[wt:en/news/2987--en|2015 "WW2 Chronicles"]] event.
+It was made available for purchase in-game with Golden Eagles {{ge}} briefly [[wt:en/news/534--en|after the release of Update 1.39]], then in [[wt:en/news/2603--en|November 2014]], then during the [[wt:en/news/4554-event-spitfire-day-in-honor-of-the-first-flight-en|2017 "Spitfire Day"]] mini-event, then during the [[wt:en/news/4969-video-event-legends-spitfire-and-tournaments-royal-joust-en|2017 "Royal joust"]] mini-event, then in [https://forum.warthunder.com/index.php?/topic/551755-spitfire-mk-ixc-ussr-available-for-ge-for-limited-time/ April 2022] and in [[wt:en/news/8194-special-vasily-matsievich-s-birthday-en|April 2023]]. It was also gifted as a reward for the [[wt:en/news/2987--en|2015 "WW2 Chronicles"]] event.
 
 == General info ==
 === Flight performance ===
@@ -76,7 +76,9 @@ It was made available for purchase in-game with Golden Eagles {{ge}} briefly [[w
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
+
 ;Armour plates
+
 * 38 mm (66°) Bulletproof glass - Frontal windscreen
 * 4 mm Steel - Pilot's seat
 * 6-7 mm Steel - Plates behind the pilot
@@ -84,6 +86,7 @@ It was made available for purchase in-game with Golden Eagles {{ge}} briefly [[w
 * 3 mm Steel - Plates around the wing ammunition
 
 ;Modules
+
 * Critical components located at the front of aircraft (fuel, pilot, engine, controls)
 * The top fuel tank is not self-sealing but the bottom fuel tank is
 * Liquid cooling systems are located at each wing root and the oil cooling system is under the engine
@@ -154,6 +157,7 @@ The biggest threats you will have will be other Spitfires, which there will be m
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=spitfire_ix_ussr Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -161,6 +165,7 @@ The biggest threats you will have will be other Spitfires, which there will be m
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

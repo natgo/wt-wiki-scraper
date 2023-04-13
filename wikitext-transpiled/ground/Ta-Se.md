@@ -1,11 +1,13 @@
 {{Specs-Card
 |code=jp_type_98_ta_se
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png|ArtImage2_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese self-propelled anti-aircraft vehicle {{Battle-rating}}. It was introduced along with the initial Japanese Ground Forces tree in [[Update 1.65 "Way of the Samurai"]]
+The '''Experimental Anti-Air {{Specs|name}}''' ({{Annotation|試製対空戦車 「タセ」|Shisei Taikū Sensha [Ta-Se]}}) was a prototype anti-air to mechanize the [[Type 98 (20 mm)]] along with armoured units. Early during the design phase, the [[Type 94]] anti-air truck was easy to produce and took away the priority of further developing the Ta-Se. While prototyping and the design phase were all done with, the Ta-Se was supposed to supplement the Type 98 [[Ke-Ni]] if it would be formally adopted and replace the Type 95 [[Ha-Go]], which it didn't. In the end, the Army decided it was easier to maintain Type 98 cannons towed behind truck or use the Type 94 truck as a flatbed than having to adopt and mass produce anti-air tanks to move the same anti-air guns.
+
+It was introduced along with the initial Japanese Ground Forces tree in [[Update 1.65 "Way of the Samurai"]]. Capable of dispatching airplanes as well as it can destroy tanks, the Ta-Se does it quickly; Being built on top of the [[Ke-Ni]] chassis, it maintains its zippy manoeuvrability and thin armour. Crew survivability isn't the best for 3 crew members, with 2 sticking out in the turret, it can get lucky losing a crew member and continue the fight unlike its German counterparts the [[Flakpanzer I]] and [[Flakpanzer 38]] only crewing 2 men.
 
 == General info ==
 === Survivability and armour ===
@@ -133,6 +135,11 @@ In 1941, Japanese command ordered armoured self-propelled anti-aircraft gun. The
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Images
+<gallery mode="packed-hover" heights="x250px">
+File:ArtImage2 Ta-Se.png|<small>Ta-Se in [[Japan (Ground Forces)]]</small>
+</gallery>
 
 ;Skins
 

@@ -33,7 +33,7 @@ The hull and turret of the T-72M1 are strong enough to somewhat reliably bounce 
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 60+16 mm (68°) <br> mm || 80 mm ''Top'' <br> 20 mm ''Bottom'' || 40 mm || 30 mm ''Frontal roof'' <br> 20 mm ''Engine deck roof''
+| Hull || 60 + 16 mm (68°) ''Upper'' <br> 80 + 20 mm (60°) ''Lower'' || 80 mm ''Top'' <br> 20 mm ''Bottom'' || 40 mm || 30 mm ''Frontal roof'' <br> 20 mm ''Engine deck roof''
 |-
 | Turret || 200-280 mm ''Turret front'' (variable angles)<br> 150-400 mm ''Gun mantlet'' (variable angles) || 130-240 mm || 75 mm || 45 mm
 |-
@@ -177,6 +177,7 @@ The T-72 is a Soviet-designed main battle tank which started production in 1971.
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sw_t_72m1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -185,6 +186,7 @@ The T-72 is a Soviet-designed main battle tank which started production in 1971.
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[T-72 (Family)]]
 
 == External links ==

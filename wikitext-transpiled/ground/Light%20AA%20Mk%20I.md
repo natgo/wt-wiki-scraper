@@ -26,7 +26,7 @@ This tank makes for a good entry-level anti-aircraft vehicle; good speed, manoeu
 |Turret || 14 mm (0-64°) ''Turret front'' || 14 mm || 14 mm || N/A
 |}
 
-The {{PAGENAME}} has very little armour. Most of the hull has 14 mm of armour, which is sufficient only against rifle-calibre rounds. However, the gunner is exposed to machine gun fire, and being that there are only 2 crew members, if he dies, the entire vehicle is destroyed. This means even enemy machine guns can kill you if they hit your gunner. You may be able to somewhat protect the gunner by aiming upwards with the machine guns, but this is not reliable. In any case, the {{PAGENAME}} is vulnerable to any vehicle in the game.
+The {{PAGENAME}} has very little armour. Most of the hull has 14 mm of armour, which is sufficient only against rifle-calibre rounds. The gunner is exposed to machine gun fire, and if he dies the entire vehicle is destroyed. This leaves you vulnerable to even enemy machine guns can kill you if they hit your gunner. You may be able to somewhat protect the gunner by aiming upwards with the machine guns as a last resort. The {{PAGENAME}} is vulnerable to any vehicle in the game.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -62,14 +62,14 @@ The {{PAGENAME}} is decently quick and manoeuvrable, and its small size allows i
 |-
 |}
 
-The four BESA machine guns the {{PAGENAME}} is armed with can be devastating to open-topped vehicles thanks to their high rate of fire, but they are completely ineffective against anything with armour. They are also less effective and less accurate over distance against planes than the cannons or heavy machine guns most other anti-aircraft vehicles are armed with, although a well-placed burst will still tear apart the biplanes you are likely to face. Each belt is large enough to enable sustained fire, allowing you to compensate for your poor accuracy through sheer volume of bullets.
+The four BESA machine guns the {{PAGENAME}} is armed with can be devastating to open-topped vehicles thanks to their high rate of fire, but they are completely ineffective against anything with armour. They are also less effective and less accurate over distance against planes than the cannons or heavy machine guns most other anti-aircraft vehicles are armed with, although a well-placed burst will still do serious damage to the biplanes you are likely to face. Each belt is large enough to enable sustained fire, allowing you to compensate for your poor accuracy through sheer volume of bullets.
 
 ==== Ammunition ====
 
 * '''Default:''' {{Annotation|Ball|Omni-purpose}}{{-}}{{Annotation|T|Tracer}}{{-}}{{Annotation|IT|Incendiary tracer}} - The worst option, due to the highest quantity of poorly damaging ball and tracer rounds.
 * '''Universal:''' {{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|T|Tracer}}{{-}}{{Annotation|IT|Incendiary tracer}}{{-}}{{Annotation|Ball|Omni-purpose}} - Better than default, but still has regular tracers and ball rounds which hurt damage output.
-* '''API-T:''' {{Annotation|IT|Incendiary tracer}}{{-}}{{Annotation|IT|Incendiary tracer}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|T|Tracer}} - Contains a lot of incendiary tracer rounds, which have a higher chance of starting fires in aircraft. Once a fire is started, it is likely to destroy the plane, making this belt very effective.
-* '''AP-T:''' {{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|IT|Incendiary tracer}}{{-}}{{Annotation|T|Tracer}} - AP rounds are still ineffective against armour, despite the name, but deal more damage to aircraft components. With good aim, this belt can tear wings off and destroy engines.
+* '''API-T:''' {{Annotation|IT|Incendiary tracer}}{{-}}{{Annotation|IT|Incendiary tracer}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|T|Tracer}} - Contains a substantial amount of incendiary tracer rounds, which have a higher chance of starting fires in aircraft.
+* '''AP-T:''' {{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|IT|Incendiary tracer}}{{-}}{{Annotation|T|Tracer}} - AP rounds are still ineffective against ground armour,  but deal substantial damage to aircraft components. With good aim, this belt can tear wings off, destroy engines, and penetrate cockpits glass armour.
 
 {{:BESA (7.92 mm)/Ammunition|T, Ball, IT, AP}}
 
@@ -118,6 +118,8 @@ The four BESA machine guns the {{PAGENAME}} is armed with can be devastating to 
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 The {{PAGENAME}} is a very vulnerable vehicle, so commanders should be careful not to expose themselves to enemy fire. Take care to find a position where you will not be seen by enemy ground vehicles, and watch the sky. Due to the low velocity of the machine guns, the {{PAGENAME}} should not open fire until the enemy plane is very close, probably within 1 km. If you begin to fire while the enemy plane is out of range, they will likely change course and stay away from your position. Also be wary if there is more than one enemy plane up, as you can easily be strafed to death by machine gun fire. Once you have a good shot on the enemy plane, the 4 machine guns are capable of dealing more damage than one might expect. You can down most aircraft quite quickly, although twin-engine fighters and bombers will take longer to destroy.
 
+It is advisable to fire off your artillery as quickly as possible, since it is the only realistic way you can possibly damage enemy tanks.
+
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
@@ -125,16 +127,16 @@ The {{PAGENAME}} is a very vulnerable vehicle, so commanders should be careful n
 
 * 4 BESA machine guns have a high ammo load and a good rate of fire
 * 4 machine guns means that you have a high hit probability
-* Can be used against low tier SPAA and open-top tank destroyers, however, it is best suited to strictly SPAA duties
+* Can be used against low tier SPAA and open-top tank destroyers,
 * Small and mobile
 
 '''Cons:'''
 
-* Cannot defend itself from ground attacks, as none of its belts can penetrate tanks
-* Damage output is nowhere near comparable to SPAA armed with 20 mm autocannons at this tier
+* Cannot defend itself from most ground attacks, as none of its belts can penetrate tank armour
+* Damage output is nowhere near comparable to SPAA armed with 12.7 mm machine guns or 20 mm autocannons at this tier
 * The gunner is exposed to machine gun fire from above and the front
 * The armour will not protect you from 12.7 mm rounds and above
-* Vulnerable to artillery
+* Vulnerable to artillery and aircraft
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -147,6 +149,7 @@ As they were withdrawn from service, some Mark VI's were converted to anti-aircr
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_vickers_mk_6_aa_mk_1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

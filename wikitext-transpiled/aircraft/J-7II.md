@@ -227,6 +227,7 @@ It will automatically detect other planes within the scanning area and display t
 * Missiles have poor agility and tracking, easily dodged by attentive targets
 * Engine tends to overheat on sustained afterburner
 * Unlike the MiG-21F-13, no access to S-24 heavy rockets for ground attack or head-ons
+* Does not have access to flares, making it hard to operate in up-tiers
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -263,6 +264,7 @@ File:J-7 mkII WTWallpaper 006.jpg
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[J-7D]] - Upgraded version based on reverse engineered MiG-21MF (J-7C)
 * [[J-7E]] - Double-delta wing version with more advanced avionics
 

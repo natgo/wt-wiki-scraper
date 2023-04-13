@@ -147,7 +147,7 @@ The '''''{{PAGENAME}}''''' is defended by:
 
 ''Air mode''
 
-The {{PAGENAME}} is a mediocre bomber at its battle rating in air battles, though this variant can stay in WEP for longer and is good for a warm climate. At the beginning of the battle, go up to 3,000-4,500 m and go to destroy enemy bases. Whenever enemy fighters or other aircraft attack the {{PAGENAME}}, use your gunners to fight back against enemy aircraft, it is recommended to use the universal ammunition for the [[Breda-SAFAT (12.7 mm)|12.7 mm Breda-SAFAT ]] turret belt because it contains 2 API-T and 2 AP-I per belt. {{annotation|AP-I|Armour-Piercing Incendiary}} and {{annotation|API-T|Armour-Piercing Incendiary Tracer}} ammo is perfect for defeating enemy planes because it can knock out the enemy pilot or set fire to enemy planes. Meanwhile for the [[Lewis (7.7 mm)|7.7 mm Lewis machine gun]], use universal ammo for the side turrets belt because it contains 1 Tracer and 3 AP-I rounds. When you are close to the enemy base, use your bomber sights to drop your bombs and then return to the airfield to reload your bombs.
+The {{PAGENAME}} is a mediocre bomber at its battle rating in air battles, though this variant can stay in WEP for longer and is good for a warm climate. At the beginning of the battle, go up to 3,000-4,500 m and go to destroy enemy bases. Whenever enemy fighters or other aircraft attack the {{PAGENAME}}, use your gunners to fight back against enemy aircraft, it is recommended to use the universal ammunition for the [[Breda-SAFAT (12.7 mm)|12.7 mm Breda-SAFAT]] turret belt because it contains 2 API-T and 2 AP-I per belt. {{annotation|AP-I|Armour-Piercing Incendiary}} and {{annotation|API-T|Armour-Piercing Incendiary Tracer}} ammo is perfect for defeating enemy planes because it can knock out the enemy pilot or set fire to enemy planes. Meanwhile for the [[Lewis (7.7 mm)|7.7 mm Lewis machine gun]], use universal ammo for the side turrets belt because it contains 1 Tracer and 3 AP-I rounds. When you are close to the enemy base, use your bomber sights to drop your bombs and then return to the airfield to reload your bombs.
 
 ''Ground mode''
 
@@ -200,6 +200,7 @@ Like any bomber in Arcade Battles, the {{PAGENAME}} is likely to be the first to
 * Lacks armour protection for the crew
 * Forced to choose between less total bomb payload, but individually more powerful bombs or higher total bomb payload with less powerful bombs
 * Engines are prone to catching fire when hit
+* Lewis guns are mostly obsolete at this tier
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -233,7 +234,9 @@ The version was modified to mount a torpedo, but was little changed from earlier
 * ''links to approximate analogues of other nations and research trees.''-->
 
 
+
 ;Other S.M.79 vehicles:
+
 * [[S.M.79_AS_(Germany)|▀S.M.79 AS]] - Version of the plane in the German tech tree
 * [[S.M.79 serie 1]]
 * [[S.M.79 serie 8]]

@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian fighter {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]] along with the initial Italian aviation tree.
+After the entry of the C.202 into service in 1941, the Regia Aeronautica was already beginning to look for new possibilities for a new generation of fighters requiring better engine power and high performance so that they could change armament. With the Germans' permission to build the DB605A engine in Italy, two development paths were created, one leading to the C.205N 'Orione' programme and the other to the C.202Bis. On 16 December 1941, the first aircraft of the former type, which would later be renamed C.205 V, were built by Macchi with 100 units of the 1st series armed with two 12.7 mm and two 7.7 mm, later by FIAT with 300 units of the 2nd series. The aircraft would fly for the first time on April 19, 1942, then be put into service in February 1943, after which it would participate in several battles, for the most part to defend Italian airspace from enemy aircraft. Even after the armistice, it would still be used by both the Italy Co-belligerent forces and that of the RSI.
+
+The C.205 serie 1 was introduced in [[Update 1.69 "Regia Aeronautica"]] along with the initial Italian aviation tree. It is a fighter with a great balance of manoeuvrability and speed, it can fight both in turn fights and energy fights, using combat flaps to turn a little tighter while in combat. However, it has relatively poor armament consisting of two 12.7 mm and two 7.7 mm machine guns for which you will have to shoot many shots at the enemy aircraft. The aircraft's survivability is also rather poor, as many opponents at the battle rating will have hard-hitting cannons that can easily send you back to the hangar.
 
 == General info ==
 === Flight performance ===
@@ -155,6 +157,7 @@ The last Italian fighters of the war (the Serie 5, or "third-generation") all us
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mc-205_serie1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

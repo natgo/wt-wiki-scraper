@@ -129,7 +129,7 @@ As with the previous Abrams tanks, the M1A2 SEP's gun handles very well, with an
 '''Cons:'''
 
 * Numerous weak spots in the armour layout:
-** Large and poorly armoured turret ring 
+** Large and poorly armoured turret ring
 ** Hits to the highly angled upper frontal plate will likely cause the incoming shell to ricochet into aforementioned poorly armoured turret ring, creating a massive weak spot exploitable even by low rank 5 tanks
 ** Like with most high-rank MBTs, the gun mantlet is poorly armoured and creates an easy way to disable the cannon breech
 ** The lower front plate is huge and has poor protection (~400 mm protection)
@@ -153,6 +153,10 @@ While the M1A2 SEP was still in production, experiences from the US Invasion of 
 
 ;Skins
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_m1a2_sep_abrams Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+{{Skin-gallery
+  |market|ugcitem_1001388|Rawr_M1A2SEP.jpeg|Team RAWR - [[wt:en/news/8157-esport-thunder-cup-2023-and-trophy-with-esport-camouflages-en|"eSport" trophy]]
+}}
 
 ;Videos
 {{Youtube-gallery|Qgsv6_VWzbc|'''The Shooting Range #326''' - ''Metal Beasts'' section at 00:26 discusses the {{PAGENAME}}.|dwruZG8-_os

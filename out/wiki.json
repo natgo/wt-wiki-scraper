@@ -530,8 +530,8 @@
     },
     {
       "intname": "ussr_bmd_4",
-      "ab_top_speed": [78, 79],
-      "rb_top_speed": [70, 71],
+      "ab_top_speed": [78, 78],
+      "rb_top_speed": [70, 70],
       "visibility": 78
     },
     {
@@ -799,6 +799,12 @@
       "visibility": 88
     },
     {
+      "intname": "uk_challenger_II_yt_cup_2019",
+      "ab_top_speed": [66, 42],
+      "rb_top_speed": [60, 38],
+      "visibility": 88
+    },
+    {
       "intname": "uk_challenger_2_tes",
       "ab_top_speed": [66, 42],
       "rb_top_speed": [60, 38],
@@ -843,7 +849,7 @@
     {
       "intname": "fr_bat_chat_25t",
       "ab_top_speed": [73, 73],
-      "rb_top_speed": [65, 65],
+      "rb_top_speed": [66, 66],
       "visibility": 82
     },
     {
@@ -1154,7 +1160,7 @@
     },
     {
       "intname": "fr_amx_elc_bis",
-      "ab_top_speed": [88, 38],
+      "ab_top_speed": [87, 38],
       "rb_top_speed": [81, 35],
       "visibility": 64
     },
@@ -1256,14 +1262,14 @@
     },
     {
       "intname": "ussr_gaz_4m",
-      "ab_top_speed": [50, 7],
-      "rb_top_speed": [46, 6],
+      "ab_top_speed": [71, 10],
+      "rb_top_speed": [65, 9],
       "visibility": 75
     },
     {
       "intname": "ussr_gaz_dshk",
-      "ab_top_speed": [50, 7],
-      "rb_top_speed": [46, 6],
+      "ab_top_speed": [71, 10],
+      "rb_top_speed": [65, 9],
       "visibility": 75
     },
     {
@@ -1790,7 +1796,7 @@
     },
     {
       "intname": "it_lancia3ro_100",
-      "ab_top_speed": [50, 13],
+      "ab_top_speed": [49, 13],
       "rb_top_speed": [46, 12],
       "visibility": 97
     },
@@ -1859,6 +1865,12 @@
       "ab_top_speed": [76, 35],
       "rb_top_speed": [69, 31],
       "visibility": 95
+    },
+    {
+      "intname": "germ_leopard_2a5_yt_cup_2019",
+      "ab_top_speed": [76, 35],
+      "rb_top_speed": [69, 31],
+      "visibility": 87
     },
     {
       "intname": "germ_leopard_2a5",
@@ -2129,6 +2141,12 @@
       "ab_top_speed": [62, 26],
       "rb_top_speed": [57, 24],
       "visibility": 123
+    },
+    {
+      "intname": "us_m1a1_abrams_yt_cup_2019",
+      "ab_top_speed": [76, 43],
+      "rb_top_speed": [69, 39],
+      "visibility": 82
     },
     {
       "intname": "us_m1a1_aim_abrams",
@@ -3182,8 +3200,8 @@
     },
     {
       "intname": "cn_ptz_89",
-      "ab_top_speed": [57, 9],
-      "rb_top_speed": [52, 8],
+      "ab_top_speed": [60, 9],
+      "rb_top_speed": [56, 8],
       "visibility": 84
     },
     {
@@ -4058,8 +4076,8 @@
     },
     {
       "intname": "sw_strv_105",
-      "ab_top_speed": [56, 9],
-      "rb_top_speed": [50, 9],
+      "ab_top_speed": [54, 9],
+      "rb_top_speed": [49, 8],
       "visibility": 119
     },
     {
@@ -4627,6 +4645,12 @@
       "visibility": 79
     },
     {
+      "intname": "ussr_t_80u_yt_cup_2019",
+      "ab_top_speed": [78, 13],
+      "rb_top_speed": [70, 11],
+      "visibility": 79
+    },
+    {
       "intname": "ussr_t_80u",
       "ab_top_speed": [78, 13],
       "rb_top_speed": [70, 11],
@@ -4748,8 +4772,8 @@
     },
     {
       "intname": "us_t54e1",
-      "ab_top_speed": [48, 13],
-      "rb_top_speed": [43, 12],
+      "ab_top_speed": [48, 10],
+      "rb_top_speed": [44, 9],
       "visibility": 100
     },
     {
@@ -4971,7 +4995,7 @@
     {
       "intname": "cn_type_63_I",
       "ab_top_speed": [72, 9],
-      "rb_top_speed": [64, 9],
+      "rb_top_speed": [65, 9],
       "visibility": 75
     },
     {

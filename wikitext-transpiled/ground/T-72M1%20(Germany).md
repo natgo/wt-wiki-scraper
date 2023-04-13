@@ -16,9 +16,14 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-ra
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+The T-72M1 is basically a near identical copy of the T-72A found in the Soviet tech tree, therefore the armour layout is also almost identical. Some differences are the additional applique armour placed on the front glacis. While not substantially thick, the sloping effect on top of the composite front glacis might be enough to prevent some shells from fully penetrating.
 
-'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
+The hull and turret of the T-72M1 are strong enough to somewhat reliably bounce some shells and eat, although it still possesses the same "weak spots" that most other soviet tanks have (weak lower front plate, drivers optics etc.)
+
+'''Armour type:'''
+
+* Cast homogenous armor (turret)
+* Rolled homogenous armor (hull)<!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
 
@@ -26,11 +31,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-ra
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 210+16 mm || 80 mm ''Top'' <br>20 mm ''Bottom'' || 40 mm || 20 mm 
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+| Turret || 200-280 mm Turret front <br>150-400 mm Gun mantlet || 130-240 mm || 60-100 mm || 45 mm
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Cupola || 100 mm || 100 mm || 100 mm || 45 mm
 |-
 |}
 
@@ -42,7 +47,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-ra
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
 
-{{tankMobility|abMinHp=1,209|rbMinHp=690}}
+{{tankMobility|abMinHp=1,209|rbMinHp=690|AoAweight=}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -65,10 +70,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-ra
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 44 || rowspan="2" | -6°/+13° || rowspan="2" | ±180° || rowspan="2" | Two-plane || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 44 || rowspan="2" | -6°/+13° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 19.0 || 26.4 || 32.0 || 35.4 || 37.6 || rowspan="2" | 7.10 || rowspan="2" | 7.10 || rowspan="2" | 7.10 || rowspan="2" | 7.10
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 11.9 || 14.0 || 17.0 || 18.8 || 20.0
 |-
 |}
 
@@ -85,11 +90,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-ra
 ! 2nd<br>rack empty
 ! 3rd<br>rack empty
 ! 4th<br>rack empty
-! 5th<br>rack empty
-! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''44''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''44''' || 40&nbsp;''(+4)'' || 29&nbsp;''(+15)'' || 23&nbsp;''(+21)'' || 1&nbsp;''(+43)'' || No
 |-
 |}
 
@@ -129,9 +132,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-ra
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
@@ -142,6 +147,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-ra
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_kpz_t72m1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -150,6 +156,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-ra
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[T-72 (Family)]]
 
 == External links ==
@@ -157,6 +164,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-ra
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

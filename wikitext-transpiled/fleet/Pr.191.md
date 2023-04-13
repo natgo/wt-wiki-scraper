@@ -147,6 +147,7 @@ Finally, the Pr. 191 suffers from a rather mediocre manoeuvrability, with a poor
 ** 7 mm hull armour is not enough to protect the ship from cannon fire
 ** Small crew complement of 14 crew members, very low among the Soviet armoured gun boats
 * 12.7 mm guns drop off in effectiveness rapidly with range, limiting their usefulness as anti-aircraft weapons
+* Shallow draught causes the boat to constantly rock in sea conditions, hampering accuracy
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

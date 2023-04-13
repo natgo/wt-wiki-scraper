@@ -345,6 +345,7 @@
 {{Tree-Unit|ussr_bmd_4}}
 {{Tree-Skip}}
 {{Tree-Unit|ussr_t_72m2_moderna}}
+{{Tree-Skip}}
 
 {{Tree-Line|VII Rank}}
 |
@@ -376,6 +377,7 @@
 {{Tree-Unit|ussr_t_80uk}}
 {{Tree-Skip}}
 |
+{{Tree-Unit|ussr_t_80u_yt_cup_2019}}
 {{Tree-Skip}}
 
 {{Tree-End}}

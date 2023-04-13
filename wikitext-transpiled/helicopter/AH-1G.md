@@ -14,7 +14,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} American attack helicopter {{B
 
 This helicopter, being the first attack helicopter in the American Tech Tree, is a manoeuvrable and powerful beast if used in the right hands. Aspiring American helicopter pilots carry the duty to provide the best Close Air Support (CAS) of the rank, and from the NATO side.
 
-It has 7 armaments presets which are outstanding when compared to analogues, but most of which need to be researched before use. The AH-1G comes with one secondary weapon, in the form of 28 Mighty Mouse rockets.
+It has 7 armaments presets which are outstanding when compared to analogues, but most of which need to be researched before use. The AH-1G comes with one secondary weapon, in the form of 28 Mighty Mouse rockets. The rockets are good for close-to-medium range air-to-ground combat.
 
 == General info ==
 === Flight performance ===

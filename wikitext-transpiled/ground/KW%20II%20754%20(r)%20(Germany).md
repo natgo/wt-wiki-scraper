@@ -34,13 +34,11 @@ Mobility is that of a KV-1 powerplant, but with six more tons added. This causes
 |-
 ! Armour !! Front !! Sides !! Rear !! Roof
 |-
-| Hull || 75 mm (30°) ''Front plate'' <br> 70 mm (70°) ''Front glacis'' <br> 75 mm (26-58°) ''Lower glacis'' || 75 mm || 60 mm (3-86°) ''Top'' <br /> 70 mm (11-58°) ''Bottom'' || 35 mm ''Front'' <br> 30 mm ''Rear''
+| Hull || 75 mm (30°) ''Front plate'' <br> 70 mm (70°) ''Front glacis'' <br> 75 mm (26-58°) ''Lower glacis'' || 75 mm || 60 mm (3-86°) ''Top'' <br> 70 mm (11-58°) ''Bottom'' || 35 mm ''Front'' <br> 30 mm ''Rear''
 |-
-| Turret || 75 mm ''Front turret'' <br /> 75 mm (2-41°) ''Gun mantlet'' || 75 mm || 75 mm <br> 45 mm (2-49°) ''Machine gun port'' || 40 mm
+| Turret || 75 mm ''Front turret'' <br> 75 mm (2-41°) ''Gun mantlet'' || 75 mm || 75 mm <br> 45 mm (2-49°) ''Machine gun port'' || 40 mm
 |-
-! Armour !! Sides !! Roof
-|-
-| Cupola || 50 mm || 30 mm
+| Cupola || 50 mm || 50 mm || 50 mm || 30 mm
 |-
 |}
 '''Notes:'''
@@ -81,9 +79,9 @@ Mobility is that of a KV-1 powerplant, but with six more tons added. This causes
 
 ==== Ammunition ====
 
-* '''G-530''' (AC)<br> The "Anti-Concrete" round has the same speed as the HE shell with decent amount of penetration for nearly all [[:Category:Third rank ground vehicles|rank III]] tanks. In ranges greater than 1000m, the OF-530 shell should be loaded to effectively deal with any vehicle including heavy tanks. Compared to the PB-35, it has much greater speed, improving long range accuracy.
+* '''G-530''' (SAPCBC)<br> The semi armour-piercing round has the same speed as the HE shell with decent amount of penetration for nearly all [[:Category:Third rank ground vehicles|rank III]] tanks. In ranges greater than 1,000 m, the OF-530 shell should be loaded to effectively deal with any vehicle including heavy tanks. Compared to the PB-35, it has much greater speed, improving long range accuracy.
 * '''OF-530''' (HE)<br>The "High-explosive" shell requires careful aim as despite its infamous power, a solid hit on the front of an enemy tank would not necessarily defeat the enemy. One must preferably aim beneath tanks or below the gun mantlets to sneak into thinly armoured portions such as the roof or belly armour.
-* '''PB-35''' (APCBC)<br> The shell with the most penetration on all ranges and the one with the worst accuracy, given due its abysmal slow velocity of 436 m/s (975 mph). Thus it is not advised to be used, except in close range combat.
+* '''PB-35''' (SAPCBC)<br> The shell with the most penetration on all ranges and the one with the worst accuracy, given due its abysmal slow velocity of 436 m/s (975 mph). Thus it is not advised to be used, except in close range combat.
 
 {{:M-10T (152 mm)/Ammunition|G-530, OF-530, PB-35}}
 
@@ -133,14 +131,14 @@ The KV-II, while able to destroy most enemies in one hit, is very vulnerable to 
 The target lead indicator make the slow, but long range penetrating PB-35 a destructive force to be afraid of. On more open maps like Karelia and Carpathians, the KV-II can hang back (mostly due its speed) and snipe of unsuspecting targets while being itself mostly immune to return fire. Smaller maps benefit the low shell velocity due to closer engagement distances, but also empowers the enemy medium tanks who will have it much easier to get juicy shots into your side. Situational awareness is the key to victory or rather ''survival''.
 
 ===Realistic/Simulator battles===
-The KV-II's best friend are the binoculars. Keep the turret in a well angled position while scouting for targets with your glasses or normal eyesight. Unfortunately, in this mode the PB-35 is practically useless as the usual fighting ranges exceed 600m and without aim assistance getting hits with this howitzer are rare. Exceptions are town fights, but CQC is nothing a lone KV-2 should indulge in. A case could be made to focus on the OF-530 HE shell on long ranges. Not to destroy the enemy, but to track them and then sent a nice and juicy G-530 AC shell afterwards. Do not forget: G-530 and OF-530 share the same ballistics, if one hits the other one is likely to hit in the same ''wide'' area.
+The KV-II's best friend are the binoculars. Keep the turret in a well angled position while scouting for targets with your glasses or normal eyesight. Unfortunately, in this mode the PB-35 is practically useless as the usual fighting ranges exceed 600 m and without aim assistance getting hits with this howitzer are rare. Exceptions are town fights, but CQC is nothing a lone KV-2 should indulge in. A case could be made to focus on the OF-530 HE shell on long ranges. Not to destroy the enemy, but to track them and then sent a nice and juicy G-530 SAPCBC shell afterwards. Do not forget: G-530 and OF-530 share the same ballistics, if one hits the other one is likely to hit in the same wide area.
 
 ===Counter-tactics===
-'''Getting close''': Probably the most difficult part, if spotted a 40 kg shell with your name and address is coming for you. Thus sneaking up, or attacking from outside the KV-2's field of view is advised. Of course after the HE-trash-can has left the barrel a window of opportunity and hope will open up for you. With moving up and aiming two shots can be placed on the moving Soviet tower tank. An attack route from the side or rear is preferable, not only are you hidden, but the turret traverse is so awful on the KV-2 that it will not have the time to react fast enough. Just make sure to hit, or you are in a world of pain as soon&#8482; as it tank gets its chassis traverse to speed.
+'''Getting close''': Probably the most difficult part, if spotted a 40 kg shell with your name and address is coming for you. Thus sneaking up, or attacking from outside the KV-2's field of view is advised. Of course after the HE-trash-can has left the barrel a window of opportunity and hope will open up for you. With moving up and aiming two shots can be placed on the moving Soviet tower tank. An attack route from the side or rear is preferable, not only are you hidden, but the turret traverse is so awful on the KV-2 that it will not have the time to react fast enough. Just make sure to hit, or you are in a world of pain as soon as it tank gets its chassis traverse to speed.
 
-[[File:Where to shoot KV-2 side and rear.jpg|right|thumb|350px|Blue = bad,  Red = Shoot me!]]
+[[File:Where to shoot KV-2 side and rear.jpg|right|thumb|350px|Blue = bad, Red = Shoot me!]]
 
-'''Shooting''': Targets should be the gunner (right side) to stop the loading process (yes, weird mechanic) and the loader (left and right) to reduce loading time. If shooting HE filled AP shells two penetrating hits will often take out the gun breech as well, stopping reload and return fire ability entirely. The easiest way of performing these hits is via the turret ring which will always not be angled at certain parts from the front. If APHE shells hit below the side hull, it will possibly detonate the main storage of ammunition, resulting in an ammo rack detonation. If that is not the case the gunner, commander, cannon breech, loader, and ammunition  and turret ring will be damaged or wounded.
+'''Shooting''': Targets should be the gunner (right side) to stop the loading process (yes, weird mechanic) and the loader (left and right) to reduce loading time. If shooting HE filled AP shells two penetrating hits will often take out the gun breech as well, stopping reload and return fire ability entirely. The easiest way of performing these hits is via the turret ring which will always not be angled at certain parts from the front. If APHE shells hit below the side hull, it will possibly detonate the main storage of ammunition, resulting in an ammo rack detonation. If that is not the case the gunner, commander, cannon breech, loader, and ammunition and turret ring will be damaged or wounded.
 
 Shooting a KV-2 from the side is much easier, just one massive turret reaching into the sky. But do not shoot anywhere! The tracks will often eat shots and most KV-2 drivers are by now smart enough to not fully load up their KV-2, leaving the rear turret empty of shells.
 
@@ -154,14 +152,11 @@ Shooting a KV-2 from the side is much easier, just one massive turret reaching i
 * Acceptable armour, especially for its rank
 * Able to destroy higher rank tanks (although not advised)
 * Bouncy hull and turret, the chassis may effectively absorb shots as well
-* Many experienced tank drivers would dread the characteristic, map-echoing sound of the 152 mm howitzer being fired
-* As is the case with all russian 152mm armed tanks, the kv2 can one shot any tank or tank destroyer in the game with a single HE shell to the turret or rear hull
-* Has the armour of the KV-1 which will stop most Pz.III and Pre T-34-57 shots
-* Has premium RP and SL rewards
+* As is the case with all Soviet 152 mm armed tanks, the KW II can knock out any tank in the game with a single HE shell to the turret or rear hull
 
 '''Cons:'''
 
-* Long reload, resulting in difficult 1-on-1 fights since missing gives the enemy an opportunity to destroy the KV-II
+* Long reload, resulting in difficult 1-vs-1 fights since missing gives the enemy an opportunity to destroy the KV-II
 * Slow rotation speed of the turret means that flank attacks are difficult to respond to
 * Tall turret is very vulnerable from the side and difficult to hide
 * Turret has a lot of flat areas which are easy to punch through if not angled
@@ -176,7 +171,7 @@ Shooting a KV-2 from the side is much easier, just one massive turret reaching i
 ===Development===
 The start of the KV heavy tanks began after the heavy tank [[T-35]] flaws came to light. Designers were ordered to draw up new designs to become the basis of a breakthrough heavy tank needed for the Soviet doctrine. This made for a tank that was heavily armoured, but not very mobile as it was to be for siege warfare. The designs offered all had heavy armour, wide tracks, and used the torsion-bar suspension. The designs were the [[SMK]], T-100, and what would be the '''KV-1 tank''', which was named after the then Soviet Defense Commissar '''K'''liment '''V'''oroshilov.
 
-During the developmental progress, the prototypes of all these heavy tanks were made and the Winter War with Finland was on its way. The Soviets sent these tanks into Finland for combat testing, to which the KV design outperform in every way with its superior armour and firepower. The armour on the KV tank was impenetrable by an tank cannon in service and most anti-tank guns as well, the 76.2 cannon also gave it a huge firepower boost compared to the usual 37 mm in use by other countries. However, the design was found to be difficult to steer, the transmission was unreliable, ergonomics was poor and vision was limited, plus with its 45 ton weight, it was a very heavy tank for its time. In truth, while formidable in power and protection, courageous crew member willing to curse the name would speak out about the trouble the KV tank really was. The main variant of production before World War II broke out was the '''[[KV-1 (ZiS-5)|KV-1]]''' model.
+During the developmental progress, the prototypes of all these heavy tanks were made and the Winter War with Finland was on its way. The Soviets sent these tanks into Finland for combat testing, to which the KV design outperform in every way with its superior armour and firepower. The armour on the KV tank was impenetrable by an tank cannon in service and most anti-tank guns as well, the 76.2 cannon also gave it a huge firepower boost compared to the usual 37 mm in use by other countries. However, the design was found to be difficult to steer, the transmission was unreliable, ergonomics was poor and vision was limited, plus with its 45 ton weight, it was a very heavy tank for its time. In truth, while formidable in power and protection, courageous crew member willing to curse the name would speak out about the trouble the KV tank really was. The main variant of production before World War II broke out was the [[KV-1 (ZiS-5)|KV-1]] model.
 
 ===KV-2===
 Despite its superiority on the battlefield, some observed that the KV-1's armament was not enough to destroy some of the Finnish fortifications that they encountered. For this, a request to mount a 152 mm howitzer on the KV-1 was made, and resulted in the '''KV-2''' with its extremely large turret and an increased weight of 52 tons. The KV-2 suffered from a very high profile, low speed, and was too turret heavy. Compared to the KV-1 height of about 9 feet, the KV-2 was at 11 ft. tall. The increased weight of the tank slowed it down drastically, and the very heavy turret mixed with a low-powered traverse speed meant that the KV-2 can only traverse on level ground, as a slope would cause the turret to start turning with gravity. The combat ineffectiveness and flaws of the KV-2 came to light, and was only put on limited production due to them, resulting in only about 334 units being produced from 1939 to 1941.
@@ -184,7 +179,7 @@ Despite its superiority on the battlefield, some observed that the KV-1's armame
 ===Combat usage===
 During the opening stages of Operation Barbarossa, the KV tanks came as a huge surprise from the Germans as they had no prior intel about these tanks, resulting in a lack of capable anti-tank weapons that could destroy these tanks aside from 88 mm Flak guns. The KV-2 served alongside the KV-1 in stalling the German Offensive to Moscow. During the Battle of Raseiniai, in Lithuania, a single KV-2 was able to hold up the entire 6th Panzer Divison for a full day by firing at them from a concealed location before it ran out of ammunition, ending with about two dozen tanks destroyed.
 
-Due to the low quantity of KV-2 produced, they didn't see much service past the opening stages of the war due to loss from attrition or mechanical failures, however 10 were still in service with the Voronezh Front on 4 July 1943 for the Battle of Kursk.  These were transferred to the 3rd Mech Corps on 9 July, and by 18 July only 1 was left serviceable - 5 were destroyed on 12 July, and 4 are recorded as being in repair from 13 July.  <ref name="3rdMechKursk">[http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA360311 Link, open at your own discression!] Source provided by‎ user Stalins Organ. US Army Center for Strategy and Force Evaluation - detailed day-day analysis of formation strengths at Kursk - both sides.  12MB PDF download </ref>
+Due to the low quantity of KV-2 produced, they didn't see much service past the opening stages of the war due to loss from attrition or mechanical failures, however 10 were still in service with the Voronezh Front on 4 July 1943 for the Battle of Kursk. These were transferred to the 3rd Mech Corps on 9 July, and by 18 July only 1 was left serviceable - 5 were destroyed on 12 July, and 4 are recorded as being in repair from 13 July. <ref name="3rdMechKursk">[http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA360311 Link, open at your own discretion!] Source provided by‎ user Stalins Organ. US Army Center for Strategy and Force Evaluation - detailed day-day analysis of formation strengths at Kursk - both sides. 12MB PDF download </ref>
 
 ===Survivors===
 Only one KV-2 is left intact as a survivor of the war, it is housed at the Central Armed Forces Museum in Moscow.

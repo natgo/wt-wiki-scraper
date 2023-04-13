@@ -145,7 +145,7 @@ While the frontal armour is good, especially when angled, staying constantly exp
 
 [[KW I C 756 (r) (Germany)|KW I C 756 (r)]] - One heavy tank where the M4 Sherman will have difficulty fighting is this upgunned German-captured KV-1. While the early Russian KV-1's L-11 cannon is less powerful, this new long barreled 75 mm KwK40 is lethal enough to penetrate the M4A4's front and one-shot it, while the M4A4 cannot consistently penetrate the thick armour of the KV-1, especially when it has its additional armour plates equipped. If you come across this heavy tank and it angles the hull, aim for the gun mantlet since it is only 50 mm thick. You can easily take out its gunner. Or shoot at the equally thin commander cupola, where you also have a chance to take down some turret crew. Of course, the most reliable tactic is to shoot at its sides without any angle, where its flat side armour becomes a large and easy target, although you will still have to get as close as you can to penetrate the armour. In addition, side shots will most likely hit fuel tanks or ammunition racks, causing fires or blowing up the ammunition. Remember, your vertical stabiliser and better agility are always great assists when fighting against heavily protected tanks like this. 
 
-[[Churchill (Family)|Churchill]] heavy tanks - The Churchills, with their complex hulls and sturdy turrets, can be quite hard to kill at range. Again, manoeuvre as close to them as possible, the ideal distance being no more than 200 m. If they are angling their hull but facing their turret at you, only go for the turret. For the Mk I Churchills, aim at the near-vertical part of their rounded cheeks to ensure successful penetrations. For the Mk III and the German Churchill, also aim for their flat turret which is at most 89 mm. The shell should go in easily and knock out most, if not all of the crew. Only when you are facing their hull without any angles should you shoot the hull, otherwise shoot the turret only, as their big tracks can easily get in front of the frontal hull. The side hull have multiple layers of armour, some of which are weirdly angled and can absorb plenty of shells.
+[[Churchill (Family)|Churchill]] heavy tanks - The Churchills, with their complex hulls and sturdy turrets, can be quite hard to kill at range. Again, manoeuvre as close to them as possible, the ideal distance being no more than 200 m. If they are angling their hull but facing their turret at you, only go for the turret. For the Mk I Churchills, aim at the near-vertical part of their rounded cheeks to ensure successful penetrations. For the Mk III and the German Churchill, also aim for their flat turret which is at most 89 mm. The shell should go in easily and knock out most, if not all of the crew. Only when you are facing their hull without any angles should you shoot the hull, otherwise shoot the turret only, as their big tracks can easily get in front of the frontal hull. The side hull have multiple layers of armour, some of which are weirdly angled and can absorb plenty of shells. Luckily this tank is a rare matchup for the French M4A4 in Realistic Battles, where the British are usually on your team.
 
 [[Pz.IV F2]]/[[Pz.IV G|G]]/[[Pz.IV H|H]]/[[Pz.IV J|J]] - The historical nemesis of any Sherman, the Panzer IV is one of the Sherman's biggest threats at this rank. The long barrel 75 mm gun will easily penetrate the Sherman from the front. The F2 variant is admittedly easy to deal with. A single APCBC to its hull or turret should end it pretty quickly, even at long range. The other variants are slightly harder to deal with. They have thicker hull armour, at 80 mm, which will be much harder to penetrate with the APCBC over 500 m. Luckily the turret armour remains the same at 50 mm. Either aim here with APCBC or sacrifice damage potential and use the AP round to penetrate the hull.
 
@@ -163,15 +163,14 @@ While the frontal armour is good, especially when angled, staying constantly exp
 * Adequate top speed allows it to get to positions in time, or to do tactical manoeuvres like flanking
 * Rather fast reload speed for follow up shots
 * Plenty of reserve ammunition for prolonged fighting without replenishing at captured points
-* Due to it being a part of the German tech tree, you will not have to face the long barrel 75 mm (RB/SB) which increases its survivability quite a bit
 
 '''Cons:'''
 
 * Large profile and weak side armour; flankers like the M24 Chaffee can easily see and penetrate it
-* Frontal armour is still inadequate, will get frontally penetrated and one-shot by tanks like Achilles, [[M10 (Family)|M10]] and T-34-57
-* The best M61 shell struggles to penetrate heavy targets like [[KV-1 (ZiS-5)]], Churchill Mk.III or even the T-34 and M10 when angled
+* Frontal armour is still inadequate, will get frontally penetrated and one-shot by tanks like the [[Pz.IV (Family)|long-barreled Pz.IV]], [[StuG III F]] and [[T-34-57]]
+* The best M61 shell struggles to penetrate heavy targets like [[KV-1 (ZiS-5)]], Churchill Mk.III or even the T-34 when angled
 * Trajectory is curved and velocity is low due to its short barrel, thus distant/moving targets are hard to shoot at
-* Hull traverse is quite slow, making it sluggish in a turn
+* Hull traverse is quite slow, making it sluggish in a turn; this tank also lacks neutral steering
 * Roof armour of 19.5 mm thick is vulnerable to airstrikes with AP cannons. For example the widely used [[M2 Browning (12.7 mm)|M2 Browning]]
 
 == History ==
@@ -186,6 +185,7 @@ The {{PAGENAME}} were provided officially to the Free French Forces through the 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_m4a4_sherman Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -194,6 +194,7 @@ The {{PAGENAME}} were provided officially to the Free French Forces through the 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[M4A4 (1st PTG)]]
 * [[M4A4 (China)]]
 * [[M4A4 (Italy)]]

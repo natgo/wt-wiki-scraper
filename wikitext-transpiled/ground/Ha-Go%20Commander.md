@@ -8,14 +8,14 @@
 }}
 {{Specs-Card
 |code=jp_type_95_ha_go_commander
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png|ArtImage2_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ({{Annotation|九五式軽戦車 指揮車型「ハ号」|Kyūgo-Shiki Kei-Sensha Shiki-Shagata [Ha-Gō]}}) is a premium rank {{Specs|rank}} Japanese light tank {{Battle-rating}}. It was introduced in [[Update 1.65 "Way of the Samurai"]] along with the initial set of the Japanese Ground Forces Tree and was the prize in the [[wt:en/news/4418-special-collect-a-premium-type-95-ha-go-commander-for-christmas-en|2016 "Christmas gift"]] giveaway.
+The '''{{Specs|name}}''' ({{Annotation|九五式軽戦車 指揮車型「ハ号」|Kyūgo-Shiki Kei-Sensha Shiki-Shagata [Ha-Gō]}}) is the personal tank of a tank company's commander within the Japanese armoured forces. In the early stages, the Japanese didn't equip their tanks with radios like many others and had to make do with signal flags; to keep the commander's tank visible, they were usually painted with relatively unique camouflage patterns or insignias. Command versions differed in modifications and standard production procedures: some were outfitted with a radio and circular radio antenna on the commander's cupola, while others like this one came mounted with smoke dischargers (though this was not exclusive to only command vehicles).
 
-The command version (not variant) of the [[Ha-Go]] comes with an additional 4 smoke grenades.
+The Ha-Go Commander was introduced in [[Update 1.65 "Way of the Samurai"]] along with the initial Japanese Ground Forces Tree and was the prize in the [[wt:en/news/4418-special-collect-a-premium-type-95-ha-go-commander-for-christmas-en|2016 "Christmas gift"]] giveaway. While it performs like its tech tree counterpart, it comes with an additional 4 smoke grenades providing a stealthy retreat or approach, depending on how daring its commander is.
 
 == General info ==
 === Survivability and armour ===
@@ -163,7 +163,10 @@ The Japanese continued using their Ha-Go in the Pacific Theater all the way unti
 After the war, the remnants of the Japanese Army left behind a huge number of Type 95 Ha-Go in their depot at the occupied territory. This led to a massive amount of tanks being captured and used by the opposing sides of the Chinese Civil War. Another curious user of the captured Japanese tanks were the French, which captured them from Japanese-occupied area in French Indochina. The French used the Japanese tanks alongside French tanks to hastily make units called 'Commando Blindé du Cambodge' to fight in the First Indochina War.
 
 == Media ==
-<!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+;Images
+<gallery mode="packed-hover"  heights="x250px">
+File:ArtImage2 Ha-Go Commander.png|<small>Ha-Go Commander in [[jungle]]</small>
+</gallery>
 
 ;Skins
 

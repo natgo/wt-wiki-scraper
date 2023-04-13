@@ -16,21 +16,23 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli SPAA {{Battle-rating}}
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
+* Rolled homogeneous armour
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 6.35 mm (28-83°)<br> 12.7 mm (1-27°) ''Driver windshield'' || 6.35 mm || 6.35 mm || N/A
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
-|-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Turret || 6.35 mm (0-77°) ''Turret front'' || 6.35 mm || N/A || N/A
 |-
 |}
 
 '''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
 <!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+* Tracks are 15 mm thick
+* Suspension wheels are 15 mm thick, with the bogie being 10 mm thick.
+* Belly armour is 6.35 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -134,6 +136,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli SPAA {{Battle-rating}}
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_tcm_20 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

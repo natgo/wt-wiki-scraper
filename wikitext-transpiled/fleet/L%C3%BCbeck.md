@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=germ_frigate_koln_lubeck
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |market=items_Lübeck F224 (Germany)
 }}
 

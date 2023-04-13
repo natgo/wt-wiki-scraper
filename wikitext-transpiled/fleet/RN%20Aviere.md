@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Italian destroyer {{Battle-rating}}. It was introduced during [[Update "Red Skies"]] as a reward for the [[wt:en/news/7267-event-summer-landing-en|2021 Summer Landing event]].
+The RN Aviere was one of the 19 [[Soldati (Family)|Soldati-class]] destroyers, built in an OTO Melara shipyard in Livorno between 1937 and 1938, entered service on 31 August 1938, and was assigned to the 11th destroyer squadron. In the pre-war period she performed training activities, and during the Second World War participated in several missions, most famously the Battle of Punta Stilo (1940), Battle of Sirte (1941-1942), and eventually the Battle of Mezzo Agosto, completing 145 missions in all her service and having a distance travelled of 58,000 miles (93,000 km). Eventually, on 17 December 1942, while escorting the RN Camicia Nera and the German ship Ankara north of Biserta, she was hit by torpedoes from the submarine HMS Splendid, causing her to sink rapidly.
+
+Introduced in the [[wt:en/news/7267-event-summer-landing-en|2021 Summer Landing event]] during [[Update "Red Skies"]], RN Aviere is a ship with excellent acceleration and manoeuvrability and therefore a good ability to dodge enemy hits and torpedoes. The armament is composed of four 120 mm and eight 20 mm cannons, a good armament but not excellent. It is not recommended to attempt breakthroughs because of the reload of the main guns. The strong point is the torpedoes that can easily demolish enemy ships.
 
 == General info ==
 === Survivability and armour ===
@@ -122,7 +124,7 @@ In 1941 RN Aviere participated in the 1st Battle of Sirte.
 In 1942 joined the 1st Squadra Navale; participated in the 2nd Battle of Sirte, then in the same year did several escort missions and later participated in the Battle of "Mezzo Agosto".
 
 === Sinking ===
-On 17 December 1942, north of Biserta, while on an escort mission with the RN Black Shirt, the German ship Ankara was hit by two torpedoes from an enemy submarine, causing the rapid sinking of the ship.
+On 17 December 1942, north of Biserta, while on an escort mission with the RN Camicia Nera and the German ship Ankara, was hit by two torpedoes from an enemy submarine HMS Splendid, causing the rapid sinking of the ship.
 
 The Memorial of Commander C.V. Ignazio Castrogiovanni, who died at sea, was awarded the Gold Medal for Military Valour (Medaglia d'oro al valor militare).
 

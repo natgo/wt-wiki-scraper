@@ -27,7 +27,7 @@ Like other American cruisers, she lacks meaningful torpedo defence. Captains sho
 === Mobility ===
 {{Specs-Fleet-Mobility}}
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
-''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.''
+The Newport News is very large and heavy, even for a heavy cruiser. The ship is over 213 meters long at the waterline and weighs close to 21,000 tons in displacement. Because of this, her mobility is noticeably worse than the previous Baltimore-class, being somewhat sluggish to manoeuvre and control, especially when stock. When fully upgraded, the Newport News's mobility is noticeably easier to handle, though can still be unwieldy at times.
 
 {{NavalMobility}}
 
@@ -41,17 +41,17 @@ Like other American cruisers, she lacks meaningful torpedo defence. Captains sho
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
 {{main|8 inch/55 Mark 16 (203 mm)}}
 
-USS Newport News has [[8 inch/55 Mark 16 (203 mm)]] main guns. These are fundamentally the same gun barrels as those on the Baltimore-class heavy cruisers, but now boast a much higher rate of fire (10 rpm with max level crew vs 4 rpm of its predecessors), thanks to an automatic loading mechanism. This provides USS Newport News formidable firepower and makes her a serious threat to enemy cruisers and even some capital ships at close range, though don't get cocky because they can still blast you out of the water as easily as any other cruiser when they turn their guns on you. 
+USS Newport News has [[8 inch/55 Mark 16 (203 mm)]] main guns. These are fundamentally the same gun barrels as those on the Baltimore-class heavy cruisers, but now boast a much higher rate of fire (10 rpm with max level crew vs 4 rpm of its predecessors), thanks to an automatic loading mechanism. This provides USS Newport News formidable firepower and makes her a serious threat to enemy cruisers and even some capital ships at close range, though don't get cocky because they can still blast you out of the water as easily as any other cruiser when they turn their guns on you.
 
 Being the same armaments as the Baltimore-class, the guns also have similar shell choices:
 
 * The stock common SAP shells have very poor penetration statistics and explosive filler for their calibre. Featuring even worse penetration than some {{Annotation|6-inch|152 mm}} or even {{Annotation|5-inch|127 mm}} guns. The shell still have some niche use against destroyers and can certainly threaten other cruisers at close range. But they are completely useless against capital ships and anything smaller beyond 8 km range.
 
-* The HE shell is reasonably effective, the 9.5 kg of filler capable of harassing deck mounts, setting fires and poking holes in enemy hulls, but it won't do well against ships with capable armouring and anti-fragmentation protection. 
+* The HE shell is reasonably effective, the 9.5 kg of filler capable of harassing deck mounts, setting fires and poking holes in enemy hulls, but it won't do well against ships with capable armouring and anti-fragmentation protection.
 
-* The "super-heavy" APCBC shell features an average penetration and filler for {{Annotation|8-inch|203 mm}} guns. It is noticeably heavier than an average {{Annotation|8-inch|203 mm}} shell and has a slower muzzle velocity, intended to make it able to punch through relatively thin deck armour with its high ballistic trajectory, though this doesn't really work in practice. That being said, it's not a bad shell for using on major warships and the fast fire rate makes it fearsome in that regard.  
+* The "super-heavy" APCBC shell features an average penetration and filler for {{Annotation|8-inch|203 mm}} guns. It is noticeably heavier than an average {{Annotation|8-inch|203 mm}} shell and has a slower muzzle velocity, intended to make it able to punch through relatively thin deck armour with its high ballistic trajectory, though this doesn't really work in practice. That being said, it's not a bad shell for using on major warships and the fast fire rate makes it fearsome in that regard.
 
-The USS Newport News still carries the same amount of main battery ammunition as the Baltimore-class heavy cruisers, which have substantially lower rates of fire. Captains will need to allocate their ammo types carefully and keep an eye out on the ammo count during battle, or they might find themselves out of shells in the middle of a firefight. 
+The USS Newport News still carries the same amount of main battery ammunition as the Baltimore-class heavy cruisers, which have substantially lower rates of fire. Captains will need to allocate their ammo types carefully and keep an eye out on the ammo count during battle, or they might find themselves out of shells in the middle of a firefight.
 
 {{:8 inch/55 Mark 16 (203 mm)/Ammunition|8 inch Mk.14 Common, 8 inch Mk.21 APCBC, 8 inch Mk.25 HC, 8 inch Mk.17 SP Common}}
 
@@ -89,6 +89,7 @@ USS Newport News is in her 1962 state, after modifications to be a fleet flagshi
 
 '''Cons:'''
 
+* Very large and heavy, hampering the overall mobility and makes the ship easily spotted and targeted by any enemies
 * Extremely fragile against battleships and battlecruisers. 305 mm and above calibre guns can overmatch the bulkhead and pierce the athwartship armour fairly easily
 * The magazine of her second turret is above waterline
 * Terrible stock SAP shell, forcing the ship to get close to the enemy to deal damage
@@ -109,10 +110,7 @@ USS Newport News is in her 1962 state, after modifications to be a fleet flagshi
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-* ''reference to the series of the ship;''
-* ''links to approximate analogues of other nations and research trees.''
+* [[USS Des Moines]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

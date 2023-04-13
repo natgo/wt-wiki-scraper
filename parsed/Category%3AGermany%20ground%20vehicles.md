@@ -361,6 +361,8 @@
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|germ_leopard_2pl}}
 {{Tree-Skip}}
+{{Tree-Unit|germ_leopard_2a5_yt_cup_2019}}
+{{Tree-Skip}}
 |
 {{Tree-Skip}}
 

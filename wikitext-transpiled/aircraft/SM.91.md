@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.85 "Supersonic"]].
+During 1942, the Regia Aeronautica required a defence fighter to provide a defence against bombers accelerating the advance of Allied troops into Italy. The SM.91 was created, a twin-engine fighter with DB 601 engines, armed with six 20 mm MG 151s up front and a turret equipped with a 20 mm MG 151 controlled by the gunner. 2 were created, taking flight for the first time on 11 May 1943, and achieved 27 hours of flight time but never entered official evaluations. One was captured by the Germans, while the other was destroyed by Allied bombing raids.
+
+Introduced in [[Update 1.85 "Supersonic"]], the SM.91 looks like a normal heavy fighter with a very good frontal armament capable of destroying an enemy aircraft or a light or medium tank very easily with a single burst, however the performance of the aircraft allows it to recover quickly enough when it loses a lot of speed, unlike other heavy fighters. In addition to this, it equips a small rear turret with a 20 mm cannon with which you can easily defend yourself from enemy fighters.
 
 == General info ==
 === Flight performance ===
@@ -141,19 +143,19 @@ When flying it as an interceptor, it can shred bombers apart with its powerful a
 When flying it as a ground attacker, be wary that carrying the max payload will significantly decrease performance and you will be a prime target for low flying fighters like Yaks and Spitfires. However the maximum payload is rather weak, only 6 x 100 kg bombs with a max armour penetration value of 91 mm and a blast radius of 4 m. This means that you must land a near perfect or direct hit on medium and heavy tanks in order to destroy them.
 
 ====On Simulation Mode====
-While flying on simulation mode you can take your time to reach a safe altitude around 3,500 to 5,000 m climbing within ally air space. Keep in mind that you should use this aircraft with a Boom and Run mindset, that being the case, you should dive on your target while remaining hidden for your enemy as long as possible. Remember that in order to concentrate your burst mass in one zone, and hence having a greater chance to destroy the enemy plane (module; i.e., wings, tail) in one pass, you should open fire according to the gun targeting distance you are using, being a good setup from 300 m to 500 m. 
+While flying on simulation mode you can take your time to reach a safe altitude around 3,500 to 5,000 m climbing within ally air space. Keep in mind that you should use this aircraft with a Boom and Run mindset, that being the case, you should dive on your target while remaining hidden for your enemy as long as possible. Remember that in order to concentrate your burst mass in one zone, and hence having a greater chance to destroy the enemy plane (module; i.e., wings, tail) in one pass, you should open fire according to the gun targeting distance you are using, being a good setup from 300 m to 500 m.
 
-With your 6 x 20 mm MG 151/20 cannons you will be able to shoot down almost every enemy aircraft on your gunsight. However, always check the surroundings before attacking, you dont want to get swarmed after engaging with an enemy. You have to remember that most enemy aircraft, save bombers, are faster and turn better than you. Therefore, you need to choose your targets wisely. 
+With your 6 x 20 mm MG 151/20 cannons you will be able to shoot down almost every enemy aircraft on your gunsight. However, always check the surroundings before attacking, you dont want to get swarmed after engaging with an enemy. You have to remember that most enemy aircraft, save bombers, are faster and turn better than you. Therefore, you need to choose your targets wisely.
 
-If everything mentioned before goes wrong and you end up with an enemy, or in the worst case, multiple of them going after you, you still have one chance to get out of that situation alive and it is your dorsal turret. The plane is equipped with a 20 mm MG 151/20 cannon and, when used correctly, it can pose a serious threat to most enemy fighters tailing you. 
+If everything mentioned before goes wrong and you end up with an enemy, or in the worst case, multiple of them going after you, you still have one chance to get out of that situation alive and it is your dorsal turret. The plane is equipped with a 20 mm MG 151/20 cannon and, when used correctly, it can pose a serious threat to most enemy fighters tailing you.
 
 It is recommended to perform evasive manoeuvres and wait until the enemy behind you gets in a range of <500 m, practically point blank. Therefore you will have an easier time leading your bullets in the enemy direction; when successfully hitting an enemy at this range it will just take a couple of direct hits to set the bandit on fire, or if you get a good shot at his wings, send him down immediately.
 
 ====Counter-tactics====
 <!--What to expect, if it would be in command of the enemy and how to counter it. (i.e. They will most likely BnZ, etc.)-->
-Do not head-on this plane, the 6 x 20 mm cannons will most likely destroy your plane and do not underestimate the defensive cannon. Armed with minengeschoß belts, the nose-mounted cannons can easily cut your wings or set you on fire. 
+Do not head-on this plane, the 6 x 20 mm cannons will most likely destroy your plane and do not underestimate the defensive cannon. Armed with minengeschoß belts, the nose-mounted cannons can easily cut your wings or set you on fire.
 
-It is best to attack this plane from below since the deffensive 20 mm MG 151/20 cannon won't be able to aim lower than just a few degrees below the tail. Keep also in mind that even a P-47 can outturn it, so if an SM.91 gets behind you, force him to turn and make it lose energy. 
+It is best to attack this plane from below since the deffensive 20 mm MG 151/20 cannon won't be able to aim lower than just a few degrees below the tail. Keep also in mind that even a P-47 can outturn it, so if an SM.91 gets behind you, force him to turn and make it lose energy.
 
 If you are flying an aircraft with decent performance in vertical manoeuvres, force the SM.91 to fight on the vertical. Due to the deficient acceleration capacity combined with a bad performance when going vertical, you will most likely get guns on target rather easily with this tactic.
 
@@ -174,11 +176,11 @@ If you are flying an aircraft with decent performance in vertical manoeuvres, fo
 |-
 |}
 
-The SM.91 has a very forgiving MEC, therefore don't worry about killing your engine and try different settings according to the maps conditions. 
+The SM.91 has a very forgiving MEC, therefore don't worry about killing your engine and try different settings according to the maps conditions.
 
-As a general setting you can: set the water and oil radiator at 30%, it will be a long time before cooling off is needed if using 100% throttle, however if WEP is engaged then you will need to open both radiators up to 45%; propeller pitch set at 100% when climbing and lower it to 85%-90% when going horizontal. 
+As a general setting you can: set the water and oil radiator at 30%, it will be a long time before cooling off is needed if using 100% throttle, however if WEP is engaged then you will need to open both radiators up to 45%; propeller pitch set at 100% when climbing and lower it to 85%-90% when going horizontal.
 
-If the engines take damage, it will usually be only one of them. That said, the SM.91 is able to fly with only one of its engines working. However, try to extend its life span or even keep the engine alive until you are back at the airfield to repair. 
+If the engines take damage, it will usually be only one of them. That said, the SM.91 is able to fly with only one of its engines working. However, try to extend its life span or even keep the engine alive until you are back at the airfield to repair.
 
 In order to do this, set the damaged engine (or both, if that's the case) as follows: water and oil radiator at a 100%, propeller pitch at 0% to 30% depending if you really need a boost to, for example, get over a hill; and throttle to 50%.
 

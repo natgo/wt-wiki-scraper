@@ -15,15 +15,16 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' ('''{{Specs|pseudonym}}''') ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 171''') is a rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41.
 
-Like any Panther, the Panther A features a broad, sloping upper glacis, and the curved gun mantle. Its main distinguishing factors from the [[Panther D]] or the [[Panther G]] are; A new cupola (compared to the Ausf. D), and the normal, rounded gun mantle (compared to the chinned one on the Ausf. G).
+Like any Panther, the Panther A features a broad, sloping upper glacis, and the curved gun mantle. Its main distinguishing factors from the [[Panther D]] or the [[Panther G]] are; A new cupola (compared to the Ausf. D), and the normal, rounded gun mantle (compared to the chinned one on the Ausf. G). While following a somewhat unconventional naming scheme, the Panther A is the second in the series of the Panther tank development history and is improved from the experience with the Panther D in mid-1943. The Panther A would serve as one of the more numerous variant of the Panther tanks and be succeeded by the Panther G variant with additional design changes and improvements.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-Due to its weak side armour (20 mm autocannons can penetrate it), flanking is the best option to deal with any Panther. However, should the Panther be forced to face it frontally, shoot the right turret cheek to take out the gunner. This is one of the weakest places frontally, only ("only") 100 mm thick. Heavier guns such as the 17-pdr can penetrate the lower glacis at short ranges, and any large calibre (100 mm and up) can penetrate the upper glacis.
 
-Any British tank that fires APDS can penetrate the upper glacis. The 17-pounder can sometimes go through the lower glacis at shorter ranges too. Any standard AP or APHE shell of a calibre above the 80-90 mm range (aka 100 mm and above) will penetrate the Panther anywhere frontally.
+The Panther A has excellent frontal armour, which can protect the crew from many of the kinetic shells found in this battle rating range (with the exception of chemical shells and large calibre kinetic shells). Panther A's survivability is excellent when played to its strengths in long-range engagement; avoid brawling with enemy tanks unless absolutely necessary. Although the turret cheek of all Panther medium tanks is a well-known weak spot, engaging the enemy from a mid- to long-distance can greatly mitigate this weakness because the enemy will struggle to effectively penetrate the weak spot as engagement distance increases. Furthermore, due to the unique curvature of the turret armour layout, the turret cheek can bounce many kinetic shells from the enemy as distance increases. Keep in mind that powerful kinetic shells like that of the 122 mm D-25 cannon and APDS shells from British and Swedish tanks will easily penetrate the frontal armour, necessitating greater caution when engaging such foes.
+
+The Panther A armour is not very different from the Panther D, retaining the curved gun mantlet that could potentially bounce a kinetic round down into the vulnerable hull roof. While this phenomenon is relatively rare, the risk is present and should be considered when fighting any enemy even if they don’t have a gun that can reliably penetrate the Panther’s turret front armour.
 
 '''Armour type:'''
 
@@ -51,6 +52,8 @@ Any British tank that fires APDS can penetrate the upper glacis. The 17-pounder 
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=930|rbMinHp=531|AoAweight=0.45}}
+
+The mobility of the Panther A is greatly improved over that of the previous Panther D, and it can be considered one of the best medium tanks in Germany's mid-BR range during WWII. The Panther A combines great mobility with excellent firepower thanks to its high top speed and neutral steering. However, mobility is still lacking when compared to its contemporary era tanks, particularly the Soviet T-34-85. Most Panther enemies, such as Sherman and T-34-85, will have no trouble firing the first shot when they come face-to-face with Panthers unexpectedly. Maps with lots of cover should be played with caution as US M18 light tanks frequently appear in unexpected areas of the map at the start of a match. Overall, the Panther A should be played as a fast medium tank, taking advantage of its excellent frontal armour while not overly relying on it to take hits, and engaging the enemy from a distance with its excellent cannon.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -129,17 +132,23 @@ Any British tank that fires APDS can penetrate the upper glacis. The 17-pounder 
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
+'''Playing as Panther A:'''
+
 As with all other Panther-series medium tanks, it is best played in a supporting role or as a front-line offensive tank due to its agility. The cannon mounted is more than forgiving and powerful enough to destroy any potential target, so use it to an advantage; long-range shooting is effective as the muzzle velocity is extremely high, owing to the long-barreled 75 mm, the penetration values are more than capable of punching through any opposing armour, and the shell weight will, if the shell penetrates, consistently deal decent amounts of crew and module damage, if not immediately make the target on combat ineffective.
 
-This tank, however, owing to its "mailbox" gun mantlet design, is not good combatant frontally, especially at its BR; many enemy tanks will find the gun mantlet a juicy target. Never engage in extended frontal skirmishes with enemy tanks; instead, use the high mobility as much as possible. Don't stay in one place as much as possible, shoot and scoot before the enemy can react shoot through the mantlet.
+Because Panthers have relatively weak side armour that even 20 mm autocannons can penetrate it, most enemies would make it their goal to flank around and penetrate the Panther’s side armour (it does not help that the Panther’s target profile is much larger from the side compared to the front as well). The Panther A’s significantly improve turret traverse speed makes it better able to counter this trick than the Panther D, but it can still struggle against enemies that are moving at high speed like Shermans and T-34-85 at close ranges.
 
-'''Against a Panther A:'''
+As the Panther’s suspension rocks violently during the start and stop of the tank movement, it is recommended to not drive too fast when enemies are expected to be close by in order to reduce the gun sway and gun sight stabilization. 
 
-'''Light tank/SPAA''': lighter vehicles will certainly find the Panther A much easier to kill than the Tiger, thanks to its much thinner sides and rear armour. The relative thickness of no more than 50 mm is very easily penetrated by common light tanks such as the M24, AMX-13, and SPAA like the M42. The side profile of th Panther is tall and long, making it even easier to spot and shoot at. Note that just like many other German tanks, the Panther is able to traverse the hull on the spot, allowing it to angle extremely quickly if they sense someone is aiming at their side armour, so you must be decisive, do not hesitate to open fire. Of course, when it is impossible to flank, you can disable its wide tracks or gun barrel and call an artillery strike on it.
+'''Playing against Panther A:'''
 
-'''Medium tank''': the biggest strengths of the Panther shine at long range engagements as its frontal armour, cannon penetration and trajectory all outmatch medium tanks at similar BR. Thus it is always a good idea to close in the combat distance. This also eliminates the disadvantages of low penetration and poor gunsight magnification of Allied medium tanks. Against a Panther, it is always about targeting the mantlet quick and accurate, or flanking. In a close quarters encounter, target the Panther's gun mantlet as it is only 100 mm thick. It will usually knock out the gunner, cannon breech, commander, or loader. Utilise your advantage, for example [[M4]] Shermans have stabilisers meaning they can perform fire-on-the-move more stable, and [[T-34-85]] are more agile, allowing them to flank better. Sometimes the Panther will peek out of cover to shoot, and because their hull is long and the turret is placed in the middle, they may unintentionally expose a small, front section of the hull side armour out of the cover as they move forward. Do not miss this chance to give it a clean side-shot.
+Like when fighting the previous Panther D variant head-on, fight the Panther A by firing into the right turret cheek. This is one of its weak points and can also knock out the gunner to provide some breathing room for a follow-up shot. Keep in mind that as the range increases, the shell may bounce. At short ranges, high-velocity guns like the 17-pounder can penetrate the lower glacis, and any large calibre (100 mm and up) can penetrate the upper glacis. Any British tank equipped with APDS can easily penetrate the upper glacis.
 
-'''Heavy tank/tank destroyer''': an enemy Panther A can be a very tough target to wipe out if the friendly team consists mostly of light/medium vehicles, so heavy tanks or tank destroyers who can frontally penetrate a Panther become very significant. Vehicles with powerful cannons, such as the [[IS-2 (Family)|IS-2]] and [[Ikv 103]] can all punch through the upper front plate of a Panther easily. It is better to target the UFP if the Panther is not angling, since the turret is smaller thus harder to hit.
+'''Light tank''': Light tanks can use their high speed to flank the Panther A tank, often more successfully than medium tanks due to their smaller profile and swift mobility. Most light tanks also carry sufficiently powerful cannons to penetrate the Panther A side armour from even a fair distance away as the Panther A’s side armour is only 50 mm thick. Ensure that the Panther’s firepower or mobility is taken out with the first shot, or else the Panther A would be able to quickly respond to a flanking threat by either their turret traverse or hull neutral steering turn to point directly at the light tank’s position, protecting themselves while allowing them to handle the light tank threat.
+
+'''Medium tank''': The Panther series medium tanks' greatest strengths are long-range engagements with its high-velocity 75 mm cannon and thick frontal armour. Their mobility also allow the Panther tank to reach most places an up-tiered medium tank may not reach in time. Try to minimize this disadvantage by closing the combat distance to minimize the firepower and armour disparity. Take care to make use of all map terrain and cover in order to avoid getting into the Panther’s gun sights. Closing the distance also enable better targeting of weak points like the turret cheeks that is only 100 mm thick to quickly incapacitate the Panther A’s turret crew, allowing for an opportunity to advance as the gunner is being replaced by another crew member. Tanks like the M4 Shermans can take advantage of their gun stabilizers to quickly move up and briefly pause and take a well-aimed shot at the Panther weak point as they get closer to take out the Panther A without needing to flank all the way around. Tanks like the T-34-85 can often instantly take out the Panther A with one well-placed APCBC round into the side and letting the post-penetration damage devastate the interior, often taking out all the crew members or igniting the ammunition.
+
+'''Heavy tank/tank destroyer''': While heavy tanks are more well-armoured, caution is still needed as the Panther’s high-velocity cannon can easily penetrate tanks like the IS-2 from a distance. Continue to approach the Panther A as one would with a medium tank, making the most of existing cover and terrain to avoid staying in the Panther’s gun sights for very long. That said, heavy tanks and tank destroyers often have cannon armament more than able to penetrate the Panther’s front armour without relying on weak points. With this attribute, heavy tanks and tank destroyers should take on the “Panther-destroyer” role by having allies attempt to expose the Panther tank in the open and keep it in placed for the heavy tank/tank destroyer to aim at the Panther tank and penetrate their armour with ease.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -206,9 +215,11 @@ Beginning in 1943, the Red Army captured a small number of Panther tanks (of sev
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_V_ausf_a_panther Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
+
 * [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 ;Videos
@@ -216,11 +227,13 @@ Beginning in 1943, the Red Army captured a small number of Panther tanks (of sev
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

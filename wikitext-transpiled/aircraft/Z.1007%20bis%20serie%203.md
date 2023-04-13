@@ -184,10 +184,12 @@ For [[:Category:Game_modes#Realistic_Battles|tank battles]] the control lock-up 
 '''Cons:'''
 
 * Average manoeuvrability
+* Underpowered, losing one engine impacts flight performance dramatically
+* No WEP
 * Control surfaces lock-up early
-* Mediocre to bad defensive fire
 * All guns are only single mounts, making the turrets less effective
-* Payload often loaded outside
+* Single tail limits the dorsal turret angles (cannot fire at an enemy directly behind)
+* Payload often loaded on wing racks (more drag)
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -197,6 +199,7 @@ One of the three standard Italian wartime bombers, alongside the S.M. 79 and the
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=z_1007_bis_serie3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

@@ -15,10 +15,16 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' ('''{{Specs|pseudonym}}''') ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 171''') is a rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was one of the first vehicles introduced in the opening of "Ground Forces" in [[Update 1.41]]. The Panther G improves upon its predecessor with an improved armour on the gun mantlet, lower glacis, sides, and roof, but has a cost of a slightly less powerful engine.
 
+The Panther G, like any other Panther, has a broad, sloping upper glacis and a curved gun mantlet. It is generally similar to Panther A in terms of play styles and tactics. The Panther medium tank series was designed to replace the Panzer III and Panzer IV medium tanks and compete with the Soviet T-34 medium tank. Regardless, it served alongside the Panzer IV and the heavier Tiger I until the end of the war. According to historical resources, it had excellent firepower, protection, and mobility, but its reliability was lacking. The Panther was significantly less expensive to produce than the Tiger I. To improve production rates and address raw material shortages at later stage of WW2, key elements of the Panther's design, such as its armour, transmission, and final drive, were simplified compared to Tiger I.
+
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
+The Panther G has excellent frontal armour, which can protect the crew from many of the kinetic shells found in this BR range (with the exception of chemical shells and large calibre kinetic shells). Panther G's survivability is excellent when played to its strengths in long-range engagement; avoid brawling with enemy tanks unless absolutely necessary. Although the turret cheek of all Panther medium tanks is a well-known weak spot, engaging the enemy from a mid- to long-distance can greatly mitigate this weakness because the enemy will struggle to effectively penetrate the weak spot as engagement distance increases. Furthermore, due to the unique curvature of the turret armour layout, the turret cheek can bounce many kinetic shells from the enemy as distance increases. Keep in mind that kinetic shells and APDS shells from the like of US M36 tank destroyers, UK tanks, and Swedish tanks will easily penetrate the frontal armour of all Panther tanks, necessitating greater caution when engaging such foes.
+
+Panther A and Panther G differ in that Panther G has slightly improved side armour, with a 10 mm increase. Nonetheless, such enhancements are negligible and will not protect the Panther G from enemy tank side shots any more than the Panther A.
+
 '''Armour type:'''
 
 *Rolled homogeneous armour
@@ -47,6 +53,8 @@ The '''{{Specs|name}}''' ('''{{Specs|pseudonym}}''') ([[Abbreviations#.28DE.29_S
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=930|rbMinHp=531|AoAweight=0.5}}
+
+The Panther G's mobility is very similar to that of the previous Panther A, though it is slower due to its slightly weaker engine. The Panther G combines great mobility with excellent firepower thanks to its high-top speed and neutral steering. However, mobility is still lacking when compared to its contemporary era tanks, particularly the Soviet T-34-85. Most Panther enemies, such as Sherman and T-34-85, will have no trouble firing the first shot when they come face-to-face with Panthers unexpectedly. Maps with lots of cover should be played with caution as US M18 light tanks frequently appear in unexpected areas of the map at the start of a match. Overall, the Panther G should be played as a fast medium tank, taking advantage of its excellent frontal armour while not overly relying on it to take hits, and engaging the enemy from a distance with its excellent cannon.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -126,11 +134,24 @@ The '''{{Specs|name}}''' ('''{{Specs|pseudonym}}''') ([[Abbreviations#.28DE.29_S
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-Panther is a great "hunter"; locating the weak (slow, damaged, lone) tank and taking it out is by far the greatest thing achieved with it. Mobility is a big advantage and you should use it, especially at high-rank vehicles. You should find a suitable location and take it as soon as possible; when you do this, you can easily push off advancing enemy tanks while heavy infantry joins the action. Just when you notice that you have strong enough backup it is time to retreat. Your role is not to fight directly but rather spot weaknesses in the enemy defence. Once you learn how to take advantage of the speed and a gun, you'll easily take out enemy targets by surprise.
+
+'''Playing as Panther G:'''
+
+Panther is a great "hunter"; locating the weak (slow, damaged, lone) tank and taking it out is one of the best ways to play the vehicle. Mobility is a big advantage and you should use it, especially againstt high-rank vehicles. You should find a suitable location and take it as soon as possible; when you do this, you can easily push off advancing enemy tanks while heavy tanks join the action. Just when you notice that you have strong enough backup it is time to retreat. Your role is not to fight directly but rather spot weaknesses in the enemy defence. Once you learn how to take advantage of the speed and a gun, you'll easily take out enemy targets by surprise.
 
 However, this tank can only reach its full potential in Realistic and Historical battles where there are no spotting systems and where you can use it the way it's meant to be used.
 
 Most of the heavy tanks are not fast enough to counter your attacks; however, this does not mean their turret is stuck. Be careful when approaching one and always try to have the advantage. It is not advised to attack enemy heavy tanks directly or frontally; this is where they have most of their armour and, most likely, will bounce anything you throw at them. It's better to retreat and try to find an alternative route before engaging the enemy.
+
+Because Panthers, like other medium tanks, have weak side armour (20 mm autocannons can penetrate it), flanking is the best way to deal with them. Despite Panther G's significantly improved turret traverse speed, which greatly aids in reducing reaction time to sudden threats, all Panthers continue to struggle to get the first shot in against common enemies such as Shermans and T-34-85. Due to the rather violent rocking of the gun sight during abrupt stopping of the vehicle, it is not recommended to drive too fast in zones where enemy tanks are close by, as this significantly reduces gun sight stabilisation time.
+
+'''Playing against Panther G:'''
+
+When confronted with a Panther head-on, always shoot the right turret cheek to take out the gunner. This is one of the front armour weak points, but keep in mind that as the range increases, the shell may bounce. At short ranges, heavy guns like the 17-pounder can penetrate the lower glacis, and any large calibre (100 mm and up) can penetrate the upper glacis. Any British tank equipped with APDS can easily penetrate the upper glacis. At shorter ranges, the 17-pounder can also pass through the lower glacis. The Panthers will be easily penetrated from the front by the Soviet 122mm gun.
+
+* '''Light tank''': Light tanks will be able to engage the Panther G much more easily than medium or heavy tanks due to their higher speed, increasing the chances of successful flanking. Common light tanks, such as the US M18, can easily penetrate the side armour, which is only 50 mm thick. The Panther has a tall and long side profile, making it even easier to spot and shoot at. All Panther series medium tanks have neutral steering and can traverse the hull on the spot, allowing them to respond to threats quickly.
+* '''Medium tank''': The Panther series' greatest strengths are long-range engagements, as their excellent combination of thick frontal armour, great firepower, and decent mobility allows them to reach advantageous positions quickly enough to compete effectively against other medium tanks of similar BR. Close the combat distance and force close-range engagements with Panthers are always a good idea. This also helps to mitigate the disadvantages of Allied medium tank gun ammunition's lower penetration. The Panther series medium tank's turret cheek is a well-known weak spot that should be targeted quickly and accurately. In a close-quarters battle, aim for the Panther's gun mantlet, which is only 100 mm thick. It typically knocks out the gunner, cannon breech, commander, or loader. Due to the primitive one-plane stabiliser found in Shermans and the relatively stable gun sights found in T-34-85, Shermans and T-34-85s can usually pull off the first shot more effectively than Panthers. On an open map, never engage any Panthers from the front, as this will be detrimental.
+* '''Heavy tank/tank destroyer''': Heavy tanks should still be played with caution, as the cannon on all Panther series medium tanks has a high penetration. Do not rely too heavily on armour unless you are certain that Panther will be unable to penetrate your frontal armour anywhere. Vehicles with powerful cannons, such as the IS-2, can easily penetrate a Panther's frontal armour, so players should aim to engage Panthers as soon as possible to reduce pressure on the friendly team.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -198,6 +219,7 @@ After the war, many French tank divisions were equipped with Panther tanks. Also
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_V_ausf_g_panther Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -205,11 +227,13 @@ After the war, many French tank divisions were equipped with Panther tanks. Also
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

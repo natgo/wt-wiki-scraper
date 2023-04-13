@@ -17,6 +17,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish jet fighter {{Battle-r
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
+A decently fast plane, capable of around Mach 1.4 within a game. Somewhat fast turning, but It cannot hold a fight for long.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -187,11 +188,12 @@ Try to stay out of any extended dogfight, especially if your opponent has any su
 * High top speed of mach 1.21 at sea level
 * Competitive turning rate
 * Agile with responsive elevons at higher speeds and a large rudder
-* Moderately heavy air-to-air payload; able to carry up to six under-wing missiles and has an internally mounted 30mm cannon
+* Moderately heavy air-to-air payload; able to carry up to six under-wing missiles and has an internally mounted 30 mm cannon
 * Can carry a respectable amount of countermeasures
 * Comfortable to land thanks to a low stall speed, strong landing gear, and the ability to reverse the engine's thrust
 * Potent radar set with access to both Pulse-Doppler and track-while-scan modes, with a lengthy search range
-* Access to the deadly [[RB71]] semi-active radar missile which can out-turn the RB24J's on paper
+* Access to the deadly RB71 semi-active radar missile which can out-turn the RB24Js on paper
+* Access to rockets
 
 '''Cons:'''
 
@@ -199,7 +201,10 @@ Try to stay out of any extended dogfight, especially if your opponent has any su
 * Fuel-thirsty afterburner
 * Lackluster performance at mid-to-low subsonic speeds and mediocre acceleration
 * Weak airbrakes
-* Low ammo count for the 30mm cannon, which also completely lacks tracers in any of it's belts
+* You are facing better-performing missiles at your BR
+* Radar locks onto chaff easily
+* Loses control if one aileron is lost
+* Low ammo count for the 30 mm cannon, which also completely lacks tracers in any of its belts
 * Unconventional flaps which are mostly only useful during landings
 
 == History ==

@@ -13,24 +13,34 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French SPAA {{Battle-rating}}.
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
 
-'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
-<!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
-* Cast homogeneous armour (Turret, Transmission area) -->
+'''Armour type:'''
+
+* Rolled homogeneous armour  (hull )
+* Structural steel
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull ||Front glacis
+
+* 8 mm (74°) Rolled homogeneous armour
+
+* 4 mm (74°) Structural steel 
+
+Lower glacis
+
+* 8 mm (45°) Rolled homogeneous armour
+| 8 mm ''(28°)Top'' <br>8 mm (12°) ''Bottom'' || 8 mm (7°) || 8 mm
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
-|-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Turret || 8 mm ''Turret front''  || 8 mm || 8 mm || 8 mm
 |-
 |}
 
-'''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
-<!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+'''Notes:'''
+
+* Wheels are 10 mm thick.
+* 5 mm thick rolled homogeneous armor is surrounding the engine.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -94,9 +104,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French SPAA {{Battle-rating}}.
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
@@ -107,6 +119,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French SPAA {{Battle-rating}}.
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_vab_santal Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -114,6 +127,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French SPAA {{Battle-rating}}.
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -122,6 +136,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French SPAA {{Battle-rating}}.
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

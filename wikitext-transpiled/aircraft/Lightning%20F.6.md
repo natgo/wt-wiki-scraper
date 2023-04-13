@@ -194,19 +194,33 @@ The Lightning F.6 is equipped with an AI.23 search and tracking radar. The radar
 
 '''Pros:'''
 
-* Good climb rate and acceleration.
-* Formidable angle-of-attack above low speeds.
-* Very powerful cannons, and good missiles.
-* Surprisingly good turn rate between 800 and 1,000 km/h IAS.
+* Extraordinarily competitive climb rate & acceleration
+** Can out-speed & out-accelerate aircraft even in a full up-tier
+* Formidable angle-of-attack above low speeds
+* Highly versatile missiles
+** Capable of all-aspect tracking via radar slaving
+** Unlikely to encounter countermeasures
+* Surprisingly good turn rate between 800 and 1,000 km/h IAS
+* Comparatively survivable
+** One engine is sufficient to power aircraft
+** Engines rarely overheat
+** Enemies aiming centre-mass are unlikely to kill the pilot
 
 '''Cons:'''
 
-* Quite poor energy retention.
-* Large target for enemy aircraft.
-* Awkward under-belly cannon placement.
-* Relatively low top speed (1,280 km/h IAS at sea level).
-* Poor low-speed manoeuvrability.
-* Limited armament selection.
+* Vulnerable to itself
+** Can rip wings and avionics easily at 1360 km/h IAS
+** Very high fuel consumption when using afterburner
+* Awkward cannon handling
+** Cannons are mounted under the fuselage
+** Low muzzle velocity
+** Low fire rate
+* Poor manoeuvrability
+** Controls are unresponsive at low speeds
+** Poor energy retention at high-subsonic speeds
+** Avionics lock-up (compress) at transonic/supersonic speeds
+* Lack of versatility
+** No strike ordnance
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

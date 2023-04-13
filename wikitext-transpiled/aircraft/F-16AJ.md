@@ -193,16 +193,21 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
 
-'''Pros:'''
-
-*
+* Excellent acceleration and climb rate at any speed and highly manoeuvrable at low to medium speeds
+* Excellent 20 mm Vulcan cannon, with a high precision, fire rate and damage
+* Able to carry a drop tank to increase flight time
+* Capable of carry 6 powerful air-to-air missiles, such as 6 x [[AIM-9L Sidewinder]] or mixed with 2 x [[AIM-7F Sparrow|AIM-7F]]
+* 360° unobstructed bubble canopy perfect for simulator battles
+* Capable of carrying an extremely diverse wide range of bombs, rockets and AGM-65Bs
 
 '''Cons:'''
 
-*
+* As the airframe is based on the earlier F-16A models, the elevator is significantly smaller than the late variants of the F-16A and has a worse manoeuvrability compared to a ADF or MLU models
+* Internal M61 cannon has a low ammo pool and trigger time
+* Control surfaces compression above 850 km/h, greatly decreasing the manoeuvrability above this speed
+* Very high fuel consumption with afterburner on, and high engine temperature
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -212,6 +217,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f_16aj Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 {{Skin-gallery |market|ugcitem_1001426|F-16AJ Representing the 501st Squadron.jpg|Camo "Representing the 501st Squadron"}}
 
@@ -221,6 +227,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[F-16 (Family)]]
 
 == External links ==

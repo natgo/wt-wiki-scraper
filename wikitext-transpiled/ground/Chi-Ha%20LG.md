@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}} / Long 12cm SPG''' ({{Annotation|長十二糎自走砲|Naga-Jūni Senchimētoru Ji Hashi-Hō}}) is a rank {{Specs|rank}} Japanese tank destroyer {{Battle-rating}}. It was introduced in [[Update "Raining Fire"]].
+The '''{{Specs|name}} / Long 12 cm SPG''' ({{Annotation|長十二糎自走砲|Naga-Jūni Senchimētoru Ji Hashi-Hō}}) was a one-off prototype was made with a 12 cm cruiser gun placed on the hull of a Chi-Ha to provide firepower in the defence of the Japanese homeland if the Americans invaded.
 
-This one-off prototype was made with a 12cm cruiser gun placed on the hull of a Chi-Ha to provide firepower in the defence of the Japanese homeland if the Americans invaded.
+It was introduced in [[Update "Raining Fire"]]. This tank was primarily built around the gun to mechanize it with little consideration to combat protection. Hence it should also be played as it was designed, hunkering down in a protected sniper position, take a shot, and duck for cover until the next shell is loaded.
 
 == General info ==
 === Survivability and armour ===
@@ -65,6 +65,8 @@ As a glass-cannon sniper with hefty reload, modifications are down to personal p
 {{main|10th Year Type (120 mm)}}
 
 This gun shouldn't be confused with the one on the [[Chi-Ha Short Gun]], while said Chi-Ha has a short gun meant for transport ships on anti submarine & close range fire range, the 12cm/45 10th Year was used as coastal emplacements and outfitted on early Japanese cruisers. It offers a high velocity gun to fling HE over the map with quite an ease.
+
+The 120mm cannon offers two ammunition types: a normal HE and an SAPCBC shot. It is highly recommended to only carry maximum SAPCBC, since you will need to make the 10 rounds count. besides, the SAPCBC has nearly the same equivalent of TNT in explosive filler, meaning that it will react the same way as HE upon hitting the groung or failing to pen.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-

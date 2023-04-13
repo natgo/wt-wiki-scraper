@@ -222,7 +222,7 @@ Pilots of the J-8B should be extra cautious to any enemies that might appear. Al
 * Small ammo pool at only 200 rounds
 * Bleeds speed severely in manoeuvres
 * Inferior avionics to its counterparts such as [[F-4EJ Phantom II|F-4EJ]]
-** Radar has no pulse-Doppler capabilities, harder to lock onto lower altitude targets
+* Radar is notoriously unreliable, no PD capability nor an ACM feature.
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

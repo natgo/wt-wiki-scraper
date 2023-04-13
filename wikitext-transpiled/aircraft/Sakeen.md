@@ -101,7 +101,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The S-199 as has awful energy retention meaning that the aircraft is not effective at turnfighting. It also lacks manoeuvrability and has a poor climb rate. In Realistic Battles, the fighter should be used as a support role. The S-199 is effective at boom-and-zooming and is able to knock out an enemy aircraft quickly with a few bursts.
+The S-199 has awful energy retention meaning that the aircraft is not effective at turnfighting. It also lacks manoeuvrability and has a poor climb rate. In Realistic Battles, the fighter should be used as a support role. The S-199 is effective at boom-and-zooming and is able to knock out an enemy aircraft quickly with a few bursts.
 
 First, you level out on the runway after taking off and hit 300 km/h IAS, then you climb to the side opposite to the one facing the enemy airfield and lower your climb angle once you hit 250-270 km/h IAS. Continue climbing until you reach 4,500 m, despite the stats, the S-199 has a pretty average climb and if you utilise your climb speed well, you can find yourself at comparable altitude. It's a good option to let your teammates engage first, and drive the enemy to a lower altitude than you, after that you can Boom-n-Zoom them.
 

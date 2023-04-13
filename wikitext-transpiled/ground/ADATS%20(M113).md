@@ -146,10 +146,17 @@ The ADATS entered service with the Canadian Armed Forces in 1989, and was built 
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[ADATS]]
+
+;Other Canadian ground vehicles present in the game
+
+* [[M5A1 (5th arm.div.)]]
+* [[M4A5]]
+* [[C2A1]]
+* [[QF 3.7 Ram]]
+* [[Skink]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

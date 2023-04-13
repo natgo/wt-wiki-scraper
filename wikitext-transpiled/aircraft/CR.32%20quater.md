@@ -5,19 +5,15 @@
 }}
 {{Specs-Card
 |code=cr_32_quater
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |cockpit=cockpit_cr_32_quater.jpg
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian fighter {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]].
+The CR.32 quater was the next development of the [[CR.32 (Family)|CR.32 family]], in particular compared to the CR.32 ter, this variant was lightened to increase manoeuvrability at low altitudes. It was the last variant of the CR.32 to be built when production of them ended in 1939, and they began to be replaced by the more powerful [[CR.42 (Family)|CR.42]] from 1940 onwards. When World War II broke out, the CR.32 quater were mostly in the hands of the 1st, 2nd and 6th Stormo, Caccia Terrestre, and a small part of the Gruppi Autonomi, and eventually the 410th and 411th Squadriglia Autonoma Caccia located in East Africa.
 
-The C.R.32 quater fights are usually at low to medium altitude, the recommended fight altitude is around 1,000 to 3,000 m. Flying above ground level gives you the advantage of diving on your enemies, and you can also dive to avoid incoming fighters.
-
-For a reserve plane, it is one of the best. It does lack armour for the pilot, meaning new players should focus on increasing the pilot's vitality. Its 2 x 12.7 mm (.50 cal) guns are one of the most powerful armaments in reserve planes, just behind the [[Ba.65 (K.14) L]].
-
-It has plenty of ammo, 350 rpg, which is enough to kill at least 2 planes. Its armament is also enough to kill a pilot in a single hit, which is similar to the [[P-26 (Family)|P-26 ''Peashooter'']]. It does, however, trade some manoeuvrability for superb diving capability. It can not turn fight [[Ki-10 (Family)|Ki-10s]], [[I-15 (Family)|I-15s]] and is comparable to a [[Fury Mk II]]. It can fight pretty much anything it faces, but sometimes needs the help of a teammate.
+Added with the introduction of the Italian air tech tree in [[Update 1.69 "Regia Aeronautica"]], this aircraft is the second reserve of the Italian air tech tree. It is an enhancement of the CR.32 that allows it to be more manoeuvrable, while the armament is the same as the previous one having two very powerful 12.7 mm machine guns; in particular, using the "Air targets" belts that contain many incendiary projectiles can set enemies on fire very easily.
 
 == General info ==
 === Flight performance ===
@@ -117,7 +113,9 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The CR.32 Quater does not have a real playstyle that differs much from other biplanes. Compared to the Soviet and German biplanes, it is slightly less manoeuvrable because it has a little more structural resistance, this also means that it is able to absorb many more shots during fights. Its increased resistance allows it to absorb many hits from 12.7 mm MGs without causing too much damage to the aircraft. In these cases, each player is free to use the aircraft as he likes, being a biplane it is difficult to differentiate it from the others, but use it in pairs or in groups when possible because its slowness is a disadvantage in solo fights. 
+The CR.32 Quater does not have a real playstyle that differs much from other biplanes. Compared to the Soviet and German biplanes, it is slightly less manoeuvrable because it has a little more structural resistance, this also means that it is able to absorb many more shots during fights. Its increased resistance allows it to absorb many hits from 12.7 mm MGs without causing too much damage to the aircraft. In these cases, each player is free to use the aircraft as he likes, being a biplane it is difficult to differentiate it from the others, but use it in pairs or in groups when possible because its slowness is a disadvantage in solo fights.
+
+The C.R.32 Quater fights are usually at low to medium altitude, the recommended fight altitude is around 1,000 to 3,000 m. Flying above ground level gives you the advantage of diving on your enemies, and you can also dive to avoid incoming fighters. For a reserve plane, it is one of the best. It does lack armour for the pilot, meaning new players should focus on increasing the pilot's vitality. Its 2 x 12.7 mm (.50 cal) guns are one of the most powerful armaments in reserve planes. It has plenty of ammo, 350 rpg, which is enough to kill at least 2 planes. Its armament is also enough to kill a pilot in a single hit, which is similar to the [[P-26 (Family)|P-26 ''Peashooter'']]. It does, however, trade some manoeuvrability for superb diving capability. It can not turn fight [[Ki-10 (Family)|Ki-10s]], [[I-15 (Family)|I-15s]] and is comparable to a [[Fury Mk II]]. It can fight pretty much anything it faces, but sometimes needs the help of a teammate.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -186,10 +184,11 @@ The other front where the machine was used to the last example was Eastern Afric
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=cr_32_quater Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-<gallery mode="packed-hover"  heights="150">
+<gallery mode="packed-hover" heights="150">
 File:CR.32 quater banking left.png|<small>Front view of the CR.32 Quater</small>
 File:CR.32 quater over Italian city.png|<small>Overflying Italy in war</small>
 </gallery>
@@ -199,11 +198,13 @@ File:CR.32 quater over Italian city.png|<small>Overflying Italy in war</small>
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

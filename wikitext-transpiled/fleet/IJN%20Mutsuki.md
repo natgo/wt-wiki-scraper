@@ -70,7 +70,7 @@ Note that these are auxiliary weapons, not anti-aircraft, therefore they won't u
 [[File:Mutsuki torpedo firing arcs.jpg|thumb|right|Graphic detailing port firing arcs for each of the launchers, with a total firing arc of 70° and an overlapping arc of 35°]]
 {{main|Type 90 (610 mm)|Type 95 depth charge|Type 93 mod1 mine}}
 
-The IJN Mutsuki carries two triple centre mountings for 610 mm Type 90 torpedoes, along with 6 reload torpedoes in lockers alongside the rearmost funnel. This gives it the ability to reload mid-battle. Each torpedo has a 480 gram TNT equivalent warhead and travels for 7 km at 85 km/h.
+The IJN Mutsuki carries two triple centre mountings for 610 mm Type 90 torpedoes, along with 6 reload torpedoes in lockers alongside the rearmost funnel. This gives it the ability to reload mid-battle. Each torpedo has a 480 kg TNT equivalent warhead and travels for 7 km at 85 km/h.
 
 This gives it the best torpedo count, torpedo speed and damage at its rank and the second-best range that can be upgraded to by far the longest range through the Torpedo Mode modification that adds 8,000 m for a total of 15 km range, making it capable of reaching opposing spawn area within nearly all maps played on the ship's battle rating.
 
@@ -147,10 +147,12 @@ Range dials are not functional in the game, they're purely visual part of the sh
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_destroyer_mutsuki Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 

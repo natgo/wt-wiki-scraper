@@ -28,7 +28,7 @@ The '''{{Specs|name}}''' (ちくご, [[Abbreviations#.28JP.29_Naval|namesake]]: 
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
 {{main|3 inch Mk.33 (76 mm)}}
 
-Chikugo carries two 3 inch Mk.33 automatic cannons in twin installation. The turret is placed at the front of the ship and can effectively cover the front and sides of your vessel, but is unable to react to enemies from the rear. HE shells can take care of unarmoured targets especially motor boats which can be destroyed within a few shots. For armoured targets and destroyers you can choose AP shells but you still have to keep in mind that it is a 76 mm multi-purpose cannon. HE-VT shells are good for use in AA roles.
+Chikugo carries two 3 inch Mk.33 automatic cannons in twin installation. The turret is placed at the front of the ship and can effectively cover the front and sides of your vessel, but is unable to react to enemies from the rear. HE shells can take care of unarmoured targets especially motor boats which can be destroyed within a few shots. For armoured targets and destroyers you can choose AP shells but you still have to keep in mind that it is a 76 mm multi-purpose cannon. HE-VT shells are good for use in AA roles. These guns heat up quickly so keep an eye on continuous rapid fire or you may lose one or both until repairs complete.
 
 {{:3 inch Mk.33 (76 mm)/Ammunition|76 mm HC Mk.27, 76 mm APHE, 76 mm HE-VT}}
 === Secondary armament ===
@@ -78,15 +78,18 @@ On the other hand, the main gun can load high explosive shells with time variabl
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_escort_chikugo_class Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

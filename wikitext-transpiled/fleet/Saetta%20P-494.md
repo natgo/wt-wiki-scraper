@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian motor torpedo gun boat {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
+Between the 1950s and '70s, the Italian Navy was experimenting with particular gunboats whose armament and configuration could be quickly changed. These boats would be called convertible gunboats (''motoconvertibili''), going from the [[MC-490]] to the Lampo class and finally the [[MC Freccia (Family)|Freccia class]]. The P-494 Saetta was the second and last of the Freccia class to be built, laid down 11 June 1964, launched 11 April 1965 and finally commissioned 25 April 1966. She took part in several sea trials and tests, changing armament several times like her sister [[Freccia P-493|P-493 Freccia]], but in comparison to her sister she would use the missile gunship configuration equipped with a 105 mm missile launcher tower, firing Nettuno anti-ship explosive missiles with a small electronic fuse for aerial targets. This configuration was used only by the P-494 Saetta, because eventually the project was abandoned and the P-494 Saetta would be decommissioned on 15 May 1986.
+
+The P-494 Saetta was added with the Italian naval tech tree in [[Update "Starfighters"]], and was the first ship in the game to have anti-ship missiles. It is equipped with two 40 mm Breda-Bofors cannons that are excellent for taking out coastal ships and enemy aircraft with HE and HE-VT projectiles, but very ineffective against destroyers and cruisers. This is where the 105 mm missile launcher equipped with Nettuno missiles comes in, these anti-ship missiles can severely damage destroyers and cruisers if aimed at the right spots.
 
 == General info ==
 [[File:Saetta Screenshot 1.jpg|thumb|Saetta sails into battle]]

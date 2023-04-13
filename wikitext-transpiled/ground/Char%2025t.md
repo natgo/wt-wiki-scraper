@@ -82,7 +82,7 @@ The reload time is short, 6.7 seconds between shots (even with a knocked out loa
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.jpg|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated: 2.3.0.27''' -->
+<!-- '''Last updated: 2.25.1.48''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -94,19 +94,17 @@ The reload time is short, 6.7 seconds between shots (even with a knocked out loa
 ! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''52''' || 44&nbsp;''(+8)'' || 35&nbsp;''(+17)'' || 26&nbsp;''(+26)'' || 17&nbsp;''(+35)'' || 8&nbsp;''(+44)'' || 1&nbsp;''(+51)'' || No
+| '''52''' || 49&nbsp;''(+3)'' || 40&nbsp;''(+12)'' || 31&nbsp;''(+21)'' || 22&nbsp;''(+30)'' || 13&nbsp;''(+39)'' || 1&nbsp;''(+51)'' || No
 |-
 |}
-
-Notes:
+'''Notes''':
 
 * Shells are modeled individually and disappear after having been shot or loaded.
-* Rack 6 (autoloader magazine) is a first stage ammo rack. It totals 7 shells.
-** This racks get filled first when loading up the tank and is also emptied first.
+* Rack 6 (autoloader magazine) is a first stage ammo rack. It totals 12 shells.
+** This rack gets filled first when loading up the tank and is also emptied first.
 ** As it is equipped with an autoloader, manual reloading of the gun is not possible.
 ** Once the autoloader magazine has been depleted, you can't shoot until the loader has restocked the autoloader. The restocking time is longer than the normal reload time of the gun. Take this into account when playing.
-** Simply not firing when the gun is loaded will move ammo from racks 1 to 5 into rack 6. Firing will interrupt the restocking of the ready racks.
-** The depletion order at full capacity is: 6 - 1 - 2 up to 5.
+** Simply not firing when the gun is loaded will move ammo from racks 1 to 5 into rack 6. Firing will interrupt the restocking of the ready rack.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
@@ -192,6 +190,7 @@ As a prototype vehicle, Char 25t never saw service or combat action in the Frenc
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_bat_chat_25t Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -203,6 +202,7 @@ As a prototype vehicle, Char 25t never saw service or combat action in the Frenc
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
+
 * [[AMX-13 (Family)]]
 
 == External links ==

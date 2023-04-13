@@ -190,7 +190,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x AGM-65B missiles
 
 ==== Custom loadout options ====
-{| class="wikitable" width="100%" style="text-align:center"
+{| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
 | rowspan="16" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
@@ -249,7 +249,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 '''AIM-9E''' - First upgraded missiles available to F-4F, Echo Sidewinders provide much needed performance boost over the AIM-9B. Better speed, better range and wider seeker window allow Es to hit more reliably. Still, they retain its predecessor's poor G limit and should be used only as stop gap solution.
 
-'''AIM-9J''' - Final upgrade available to F-4F, AIM-9Js provide excellent performance and are the best Sidewinders available to German pilots. They can pull twice the G limit of its predecessors, are resistant to flares, and can be radar-slaved (which helps in high traffic airspace or when leading a target). These bad boys should be the pilot's weapons of choice for engaging air targets.
+'''AIM-9J''' - Final upgrade available to F-4F, AIM-9Js provide good performance. They can pull twice the G limit of its predecessors, are resistant to flares, and can be radar-slaved (which helps in high traffic airspace or when leading a target). These bad boys should be the pilot's weapons of choice for engaging air targets.
 
 '''Air-to-ground'''
 

@@ -17,6 +17,7 @@ The Flakpanzer IV Wirbelwind is a anti-aircraft platform on a Panzer IV chassis.
 The armour surrounding the turret can provide a small amount of protection against plane machine guns, but the amount of armour on its turret is still low and it has an open top so it's best to destroy the attacking plane quickly or move out of the way.
 
 '''Armour type:'''
+
 * Rolled homogeneous armour
 
 {| class="wikitable"
@@ -70,6 +71,7 @@ The PzGr 40 modification gives this vehicle a decent anti-tank capability, altho
 |}
 
 ==== Ammunition ====
+
 * '''Default:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}} - These are adapted for the anti-air role with much less performance against enemy tanks. Focus on the AA role with this belt until others are researched. You can still damage and take out lightly armoured vehicles in self-defence as last resort.
 * '''Sprgr.:''' {{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}} - These are absolutely devastating in the anti-air role.
 * '''PzGr:''' {{Annotation|API-T|Armour-piercing incendiary tracer}} - They do decent damage against lightly armoured vehicles as well as planes. When targeting enemy vehicles, focus on weak spots like the rear or the sides.
@@ -111,16 +113,19 @@ Being the first anti-aircraft of a modified Panzer IV, it is superior to the pre
 In terms of advantages with the 20 mm autocannons, the quad-mount gives the Wirbelwind the ability to fire a lethal stream of bullets at any pilot who wanders into your sights.
 
 ;Anti-Aircraft:
+
 While in tank guns, dispersion (the MOA cone that is used to determine accuracy) is something that is ideally kept to a minimum, this vehicle benefits from it by having shots spread out in a sort of "shotgun" effect, rather than having four separate beams of projectiles. This means that if you can get your lead point right, your odds of shredding aircraft with even a momentary burst is exceptional compared to other types of AA present at the ranks that you will be operating this vehicle. Unfortunately, this rapid-fire ability is hindered by the 20 round magazine capacity for each cannon (for a total of 80 rounds), meaning that it is best to fire 3-5 round bursts to make effective use of what ammunition you have and your magazine size. This is one of the few areas the Wirbelwind is caught lacking, the others being an open crew compartment roof and the fact that your SPAA houses most of its crew in a thinly armoured turret.
 
 Some of these disadvantages with the Wirbelwind can be mitigated by working with another SPAA. Two Wirbelwinds about 30m apart prove a daunting combination to enemy aircraft as their crossed streams maximize their ability to hit and it is very hard to neutralise both in one go. Besides doubling their spotting ability — when one sees the other firing, he or she will be quick to acquire the same target and proceed to severely worsen the aeroplane's day. For this reason, as a matter of etiquette, do not fire into the air if you do not see anyone, so as not to mislead your teammates.
 
 ;Attack:
+
 It is highly discouraged to use the Wirbelwind aggressively since it can be hard to always get such a favourable engagement (and also it is not the SPAA's job to do so). However, should a player choose such an attack plan, they should consider either being supported by friendly tanks as an additional gun or cover, or flanking wide and make effective use of cover and concealment against thin-skinned vehicles. Use roads less-traveled to remain hidden. No matter which manoeuvre that is used, stay vigilant for enemy aircraft to avoid them spotting and pouncing on the Wirbelwind. Even if equipped with the PzGr 40 belt for anti-tank purposes, eighty 20 mm shells from the Wirbelwind can still mess up an aircraft's flight time.
 
 Once the question of manoeuvring to an advantageous position is answered, the next concern is seeing if the 20 mm have enough firepower to be of any threat to the enemy downrange. While the PzGr 40 APCR belt can be a threat to enemy light tank, lightly armoured tank destroyers like the [[M18 GMC|M18 Hellcat]], and also enemy anti-air vehicle, the shell's penetration decreases drastically at range and it's not enough to deal with more heavily armoured vehicles, with the side armour of some medium tanks even being a questionable option. The Wirbelwind's armour is only enough to reduce the damage done by aeroplanes, which makes engaging any sort of tank very dangerous. As such, pick targets wisely and make sure to either take them out within one belt's worth of shells or hold fire to avoid drawing any attention at all.
 
 ==== Against the Wirbelwind ====
+
 * '''Aircraft''': the Wirbelwind is an extremely popular SPAA in Ground Realistic battles and pose a huge threat to any plane, thus every pilot should know how to counter it. Aircraft with access to rockets (e.g. P-47D, IL-2) can practice firing off a salvo of rockets at long distances, this way the pilot can score hits/critical hits if not a kill without even entering the effective range of the 20 mm autocannons. Bomb-carrying planes, for example BTD-1, P-47D, will be more dangerous, as they usually need to get closer to drop the bombs accurately. The conventional method of shallow dive bombing will not work if the Wirbelwind knows your presence and starts spraying bursts towards you as you dive, 1-2 hits from it and your wing will snap off. Pilots can try flying low to the ground - at tree-top level if they can, to avoid getting spotted by the SPAA. On occasion, the opposing team, being usually the Allies, will have aircraft with huge cannons, like the XA-38 and Yak-9K. In this case, practising long-range shooting with these plane cannons can definitely help, since you want to finish your pass as quick as possible so you do not get too close to the Wirbelwind. Its armour can overall be easily penetrated by most aircraft armaments, except the frontal hull.
 
 * '''Light tank/SPAA''': light tanks generally see the Wirbelwind as a nice target if their cannon is effective, for example the M24. Other countries' SPAAs usually cannot quickly kill a Wirbelwind from the front, because its hull can reach 100 mm thick which no SPAA at this tier can pierce through. It is best to focus fire on its thin turret, clean out every crew inside, wait for ~12 seconds so it finishes replenishing new crew, and wipe out the new crew again, destroying the Wirbelwind. Perform this task carefully, though, as the Wirbelwind has access to a HVAP belt with ~48 mm penetration, allowing it to penetrate almost all light vehicles without a problem.
@@ -132,23 +137,23 @@ Once the question of manoeuvring to an advantageous position is answered, the ne
 
 '''Pros:'''
 
-* High rate of fire (1,800 rounds per minute combined!) allows it to spray shells in an aircraft's path and quickly take them down
-* Impressive ammo capacity of 3,200 rounds (~2 minutes of continuous fire)
+* Excellent hull armour for an AA vehicle, can resist low-penetrating tanks like [[M24]], T-34 (1942) and 75 mm M4
+* Turret armour is thick enough to protect the crew inside from light machine gun fire from enemy tanks
+* High driving speed able to move from cover to cover with little to no problem
+* High rate of fire allows it to spray shells in an aircraft's path and quickly take them down
+* Impressive ammo capacity (~2 minutes of continuous fire)
 * Excellent gun elevation and depression allows it to deal with targets regardless of their location
 * Powerful guns with various belts: HE belt will devastate planes at close range, while HVAP can go through side armour and quickly knock out the crew of common enemies like [[M4]], [[T-34 (1942)]] and [[Cromwell (Family)|Cromwell]]
 * Excellent turret traverse makes it possible to stay on aircraft
-* Excellent hull armour for an AA vehicle, can resist low-penetrating tanks like [[M24]], T-34 (1942) and 75 mm M4
-* Turret armour is thick enough to protect the crew inside from machine gun fire from enemy tanks
-* High driving speed able to move from cover to cover with little to no problem
 
 '''Cons:'''
 
 * Weak turret protection: open top design makes vehicle vulnerable to strafing runs by enemy aircraft, especially those with .50 cals like the [[P-40 (Family)|P-40]], and the thin armour can get penetrated by other SPAA like [[M16 MGMC|M16]], [[ZSD63]] and [[GAZ-MM (72-K)|GAZ]] trucks
-* Less effective at firing at distant aircraft
-* Reloading rate sub-par compared to other SPAAs at 5.6 seconds
-* With continuous firing, a magazine is emptied very fast so strict trigger control is important
-* 20 mm shells have difficulty dealing with bombers due to both durability and the typical altitude of targets
 * Weak side armour, where an ammo rack is located
+* Especially vulnerable to HE and HEAT shells: even glancing shots could be lethal
+* Less effective at firing at distant aircraft, 20 mm shells have difficulty dealing with bombers due to both durability and the typical altitude of targets
+* Long reload time compared to other SPAAs at this BR
+* With continuous firing, a magazine is emptied very fast so strict trigger control is important
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -173,6 +178,7 @@ After losing air superiority, the Wehrmacht needed to improve the AA weapons of 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_flakpanzer_IV_Wirbelwind Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -189,9 +195,11 @@ Image:Wirbelwind looking for planes.jpg|<small>The Wirbelwind scanning the sky f
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[Flakpanzer IV]]
 
 ;Other vehicles of similar configuration and role
+
 * [[Crusader AA Mk II]]
 * [[ZSD63]]
 

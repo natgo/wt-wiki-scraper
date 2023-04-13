@@ -104,7 +104,9 @@ The armour is very thin throughout the vehicle, only able to protect from shrapn
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-Given the size and speed of the Wiesel, it is very competent at flanking or rushing objectives. With the ability to spot and use thermals, the Wiesel can help its team by spotting enemies when flanking, or help its team by assisting with repairs and shooting down low-flying aircraft. Because of the minimal armour though, the Wiesel will almost always die from a single shot because of this, being alone in open areas or near enemies is not a good idea.
+The Wiesel 1A4 is small, light and thus has great acceleration, which can help you to get to positions early and to arrive at capture points before the enemies. Given its very low profile, it can hide behind almost everything and can provide support for the team. The Wiesel 1A4 is very lightly armoured, thus it should not be used to attack enemies face-to-face and it should be where fire support is available because the Wiesel 1A4 cannot effectively destroy a medium tank on its own. The 20 mm is effective against lightly armored vehicles, but it has low post-penetration damage, so it's not as useful against medium tanks. It is very effective if used as a spotter because it has Gen 3 thermals at 7.0, and with its low profile, it is hard to be spotted. As for anti-aircraft purpose, it has limited elevation of 45 degrees that hinders its performance, but the gun makes quick work of any low flying aircraft. Although beware when using the Wiesel in this role as the firing will gives away your position.
+
+In conclusion, the Wiesel 1A4 has a rather passive playstyle, which is to rush a capture point, and to eliminate any opposing light tanks, and then hide behind some cover and spot as much as possible, shoot down low flying planes, and if any lightly armored targets are present, then they should also be taken out.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -121,9 +123,11 @@ Given the size and speed of the Wiesel, it is very competent at flanking or rush
 
 * Almost no armour
 * Can't penetrate tanks reliably
+* Low post-penetration damage
 * Turret can't rotate a full 360°
 * Its gun heats up quite quickly
 * Poor gun elevation compared to other SPAA
+* The rounds don't have a lot of range, maximum effectiveness is around 1,500 - 2,000 meters
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -137,6 +141,7 @@ The Wiesel 1A4 first saw service in 1993 as a part of the UN mission to Somalia 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_wiesel_1_mk20 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -146,10 +151,10 @@ The Wiesel 1A4 first saw service in 1993 as a part of the UN mission to Somalia 
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+; [[Wiesel (Family)]]
+* [[Wiesel 1A2]]
+* [[Ozelot]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

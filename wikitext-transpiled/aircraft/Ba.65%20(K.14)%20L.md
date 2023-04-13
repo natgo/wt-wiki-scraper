@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=ba_65_k14_l
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -181,6 +181,12 @@ Nevertheless, over 200 Ba.65 aircraft were built between 1935 and 1939. The airc
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Images
+
+<gallery mode="packed-hover"  heights="x250px">
+File:ArtImage Ba.65 (K.14) L.png|<small>Closeup on Ba.65 (K.14) L fuselage</small>
+</gallery>
 
 ;Skins
 

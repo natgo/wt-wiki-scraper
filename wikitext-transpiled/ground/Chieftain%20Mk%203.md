@@ -262,6 +262,7 @@ While manoeuvring, beware to the width of Chieftain; it's very easy to make the 
 * Ammo rack everywhere
 * Small ammo variety (APDS or HESH only) means that it struggles with modern composite armour
 * APDS deals minimal, punctual damage
+* Fairly significant drop in flat angle penetration compared to preceding Conqueror
 * Slowest of all MBTs
 * Poor mobility on rough terrain
 
@@ -291,6 +292,7 @@ The Chieftain is still in service in Iran, Jordan, and Oman in varying numbers, 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_chieftain_mk_3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

@@ -7,10 +7,14 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} German tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.71 "New E.R.A."]]. Waffenträger translates to "weapon carrier" in English.
 
+The Waffenträger 88 mm PaK 43/3 is a German prototype tank destroyer from World War II. With its default yellow camouflage, low profile, and 88 mm cannon, the Waffenträger is a versatile tank destroyer that can play many roles and offer new playstyles that are not possible with conventional turretless German tank destroyers. The vehicle had a single 88 mm PaK43/3 gun and no secondary armament. It was assumed from the start that the new tank destroyer would be as simple in construction and design as possible, that the crew compartment would only be marginally protected, and that the vehicle would enter production as soon as possible.
+
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
+The Waffenträger is extremely vulnerable in a combat zone due to its extremely weak armour and open-topped design. Even if the thin armour may not set off the fuse of enemy shells, the extensive placement of ammunition around the tank frequently results in explosions if the crew compartment at the back of the tank is penetrated. Furthermore, any plane that spot the Waffenträger will not hesitate to strafe it, resulting in the vehicle's destruction. Remember that Waffenträger can be easily damaged by nearby explosions from bombs or artillery; always move or change position whenever you notice planes heading your way or an enemy artillery alert is displayed.
+
 '''Armour type:'''
 
 * Rolled homogeneous armour
@@ -33,6 +37,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German tank destroyer {{Battle
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
+The Waffenträger's mobility is suboptimal, and it frequently fails to react quickly enough to the sudden appearance of enemy tanks in close combat. Due to its slow turret traverse speed and slow top speed, it can be difficult to reach advantageous positions ahead of time against enemy light tanks at the start of the match. This, combined with the fact that the engine is located in front of the tank, makes it easy for enemy gunfire to disable the vehicle. To maximise your reaction time, always plan your route ahead of time and keep some distance between yourself and the main combat zone.
 
 {{tankMobility|abMinHp=199|rbMinHp=124}}
 
@@ -135,6 +140,7 @@ Due to the design losing the tender, the tank never saw mass production or comba
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_waffentrager_krupp_steyr Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -142,6 +148,7 @@ Due to the design losing the tender, the tank never saw mass production or comba
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

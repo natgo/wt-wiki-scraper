@@ -9,7 +9,10 @@
 }}
 
 == Description ==
-<!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->The C1 Ariete AMV PT1 is the final main battle tank that is available to research in the Italian ground forces tech tree. The C1 Ariete was developed by OTO Melara during the late Cold War to allow the Italian army to equip itself with a modern tank which could easily deal with Yugoslav and Warsaw Pact tanks. The AMV PT1 is a further development of the C1 Ariete, it being the first prototype of the AMV program which aims to upgrade several features to improve the tank and extend its life. The PT1 specifically features mobility improvements which allows the tank to be on par in terms of mobility with the rest of the top-tier MBTs. The C1 Ariete AMV was introduced in the [[Update "Sky Guardians"|"Sky Guardians" update]] is one of the staple tanks that you can add to your lineup, as a tier 1 mod you get access to the CL3143 APFSDS round which will greatly help you when grinding the vehicle. It's a great MBT when used by players who can work around its weaknesses, keep in mind that unlike the previous Ariete you don't have access to the WAR add-on armour kit.
+<!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
+The C1 Ariete was developed by OTO Melara during the late Cold War to allow the Italian army to equip itself with a modern tank which could easily deal with Yugoslav and Warsaw Pact tanks. The AMV PT1 is a further development of the C1 Ariete, it being the first prototype of the AMV program which aims to upgrade several features to improve the tank and extend its life. The PT1 specifically features mobility improvements which allows the tank to be on par in terms of mobility with the rest of the top-tier MBTs.
+
+Introduced in [[Update "Sky Guardians"]], the C1 Ariete AMV is one of the staple tanks that you can add to your lineup. As a tier 1 mod you get access to the CL3143 APFSDS round which will greatly help you when grinding the vehicle. It's a great MBT when used by players who can work around its weaknesses, keep in mind that unlike the previous Ariete you don't have access to the WAR add-on armour kit.
 
 '''Fun fact''': this MBT is the newest vehicle in the game, first shown in February 2022 during testing for the C1 Ariete upgrade
 
@@ -28,9 +31,9 @@
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || Spaced Armour ''Upper glacis'' <br> 50 mm (50°) ''Lower glacis'' <br> 35 mm (60°) ''Sponson front''|| 10-20 mm ''Top'' <br> 35 mm ''Bottom'' || 20 mm || 35 mm ''Crew compartment'' <br> 20 mm ''Engine compartment'' <br> 5 mm ''Exhaust radiators''
+| Hull || Spaced Armour ''Upper glacis'' <br> 50 mm (50°) ''Lower glacis'' <br> 35 mm (60°) ''Sponson front''|| 10-20 mm ''Top'' <br> 35 mm ''Bottom'' || 20 mm || 35 mm ''Crew compartment'' <br> 20 mm ''Engine compartment'' <br> 5 mm ''Exhaust radiators''
 |-
-| Turret || Composite armour ''Turret front'' <br> Spaced armour + 90 mm ''Gun mantlet'' || Spaced armour || 20 mm + 10 mm || 40 mm ''Front portion'' <br> 20 mm ''Rear portion''
+| Turret || Composite armour ''Turret front'' <br> Spaced armour + 90 mm ''Gun mantlet'' || Spaced armour || 20 mm + 10 mm || 40 mm ''Front portion'' <br> 20 mm ''Rear portion''
 |-
 |}
 
@@ -104,7 +107,7 @@
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The C1 Ariete AMV can be played in different roles. It can be played as a sniper due to its decent APFSDS rounds, good thermal and  laser rangefinder, however you must not over expose yourself since the armour of the tank cannot withstand any hit from any top tier rounds, even some chemical projectile can penetrate the armour of the Ariete, even in the turret. Due to its improved mobility and very powerful round the Ariete fits perfectly in the "glass gun" role, flanking the enemy and hitting them from the side. However the Ariete cannot be used as a brawler since, as previously mentioned, its armour isn't great, and its rounds aren't protected by any kind of blowout panels which means that any penetrating rounds will result if a one shot. 
+The C1 Ariete AMV can be played in different roles. It can be played as a sniper due to its decent APFSDS rounds, good thermal and  laser rangefinder, however you must not over expose yourself since the armour of the tank cannot withstand any hit from any top tier rounds, even some chemical projectile can penetrate the armour of the Ariete, even in the turret. Due to its improved mobility and very powerful round the Ariete fits perfectly in the "glass gun" role, flanking the enemy and hitting them from the side. However the Ariete cannot be used as a brawler since, as previously mentioned, its armour isn't great, and its rounds aren't protected by any kind of blowout panels which means that any penetrating rounds will result if a one shot.
 
 To sum up, the Ariete is very good at long range and as a glass gun but you have to keep in mind that you can not rely on your armour at all.
 

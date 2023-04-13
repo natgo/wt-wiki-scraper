@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian strike aircraft {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]]. The Panavia Tornado is a two-seat, twin-engine, swing-wing, multi-role combat aircraft built jointly by Germany, the United Kingdom, and Italy. This version is the Tornado Interdiction/Strike or IDS, and was intended as a low-flying fighter bomber armed with precision weapons. The one inside of the Italian tree is similar to other Tornados in the game, only really differing in the skin and markings. The Tornado can be an effective air support provider, mainly thanks to it having access to a wide array of armaments which include guided and unguided bombs. It does lack in the air to air department so do keep that in mind when playing the Tornado.
+The Panavia Tornado is a two-seat, twin-engine, swing-wing, multi-role combat aircraft built jointly by Germany, the United Kingdom, and Italy. This version is the Tornado Interdiction/Strike or IDS, and was intended as a low-flying fighter bomber armed with precision weapons.
+
+Introduced in [[Update "Apex Predators"]] this Italian Tornado is similar to other Tornados in other nations, only really differing in the skin, markings and targeting pod. The Tornado can be an effective air support provider, mainly thanks to having access to a wide array of armaments which include guided and unguided bombs. However, it does lack somewhat in the air-to-air department.
 
 == General info ==
 === Flight performance ===
@@ -31,7 +33,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian strike aircraft {{Batt
 | 1,993 || 1,989 || rowspan="2" | {{Specs | ceiling}} || 31.4 || 31.5 || 154.1 || 151.8 || rowspan="2" | 800
 |-
 ! Upgraded
-| 2038 || 2005 || 30.6 || 31.0 || 203.3 || 177.0
+| 2,038 || 2,005 || 30.6 || 31.0 || 203.3 || 177.0
 |-
 |}
 
@@ -189,23 +191,26 @@ There are multiple ways to use the Tornado in ARB, one tactic is to stick to the
 
 '''Pros:'''
 
-* Variable sweep wing
-* Large payload
-* Advanced weapons
+* Variable sweep wing and good controllability in landing and takeoff
+* Large payload of almost 3 tons in effective TNT with dumb bombs
+* Has a good amount of GBU-16 and GBU-24 laser guided bombs, very effective in close air support and reliable against advanced enemy SPAAs
 * Supersonic
+* As it has the same targeting pod of the Mirage 2000D, the quality of thermal view and zoom is significantly better than the targeting pod of ASSTA1 and Gr 1, being easier to spot enemy tanks
+* Very effective and advanced in simulator battles in any close air support or bombing scenario, thanks to the excellent HUD, complete Ballistic Computer and great cockpit
 
 '''Cons:'''
 
-* Can struggle in air-to-air combat
+* Terrible in air-to-air combat, heavy airframe, big and slow vs any contemporaries and also only having 2 AIM-9Ls for self defence
 * High fuel consumption
 * Bombs severely limit its maximum speed to about Mach 1.05
 * No search radar
+* The wing rips pretty easily under any high G stress and with a combat load, and mainly in manual wing sweep control
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-The Panavia Tornado was born out of a joint effort by Italy, Germany and the United Kingdom during the late cold war in the 1970's. The Tornado would be designed as a twin-engined, variable-swept wing aircraft with a two-person crew an internal gun and provisions for a wide array of armament which included guided/unguided bombs, mine launchers, rockets, air to air missiles and air to ground missiles. The aircraft was also armed with 2 German made 27mm Mauser BK-27 revolver cannon which was able to make short work of pretty much any aircraft it had in its sights, with the right munition it was also capable of taking out lightly armoured vehicles such as the BMP-1. The Panavia Tornado was primarily made to undertake missions which included tactical strike, reconnaissance, air defence and maritime patrol. What they aimed when making the design was an aircraft which could be very multi-role, ot would allow the Panavia Tornado to replace several different types of aircraft which were at the time in service with the respected countries. The main variants which were designed included the IDS which was mainly a strike-fighter, the ADV which was the Air Defence Variant and lastly the ECR, which was mainly created to carry out recon and SEAD missions. In terms speed the Tornado could go up to 2400km per hour, its engine being known as the Turbo-Union RB199-34R Mk.103. After several proposals and design changes, the first prototype of the Panavia Tornado would fly on the 14th of August, 1974. The prototype would further solidify the partnership as when it was being demonstrated, a lot of positive comments would be made. Thus development would continue smoothly with the first aircraft being officially delivered to the RAF (Royal Air Force) and the German Air Force on 5 and 6 June 1979 respectively.  
+The Panavia Tornado was born out of a joint effort by Italy, Germany and the United Kingdom during the late cold war in the 1970's. The Tornado would be designed as a twin-engined, variable-swept wing aircraft with a two-person crew an internal gun and provisions for a wide array of armament which included guided/unguided bombs, mine launchers, rockets, air to air missiles and air to ground missiles. The aircraft was also armed with 2 German made 27mm Mauser BK-27 revolver cannon which was able to make short work of pretty much any aircraft it had in its sights, with the right munition it was also capable of taking out lightly armoured vehicles such as the BMP-1. The Panavia Tornado was primarily made to undertake missions which included tactical strike, reconnaissance, air defence and maritime patrol. What they aimed when making the design was an aircraft which could be very multi-role, ot would allow the Panavia Tornado to replace several different types of aircraft which were at the time in service with the respected countries. The main variants which were designed included the IDS which was mainly a strike-fighter, the ADV which was the Air Defence Variant and lastly the ECR, which was mainly created to carry out recon and SEAD missions. In terms speed the Tornado could go up to 2400km per hour, its engine being known as the Turbo-Union RB199-34R Mk.103. After several proposals and design changes, the first prototype of the Panavia Tornado would fly on the 14th of August, 1974. The prototype would further solidify the partnership as when it was being demonstrated, a lot of positive comments would be made. Thus development would continue smoothly with the first aircraft being officially delivered to the RAF (Royal Air Force) and the German Air Force on 5 and 6 June 1979 respectively.
 
-Italy on the other hand would get their hands on the Panavia Tornado a couple years later on the 25th September, 1981. It wouldn't take long before it would actually begin to face actual combat missions, although it wouldn't be facing any Warsaw Pact enemies as previously envisioned. Its first combat missions would happen during the second Gulf War by the British, Italian and Saudi Arabian air forces. This would be later followed by missions in the Yugoslavian and Kosovo wars. In terms of service within the Italian air force, Italian Tornados would be the first aircraft that Italy actually fully used in full scale combat since the end of WW2. 
+Italy on the other hand would get their hands on the Panavia Tornado a couple years later on the 25th September, 1981. It wouldn't take long before it would actually begin to face actual combat missions, although it wouldn't be facing any Warsaw Pact enemies as previously envisioned. Its first combat missions would happen during the second Gulf War by the British, Italian and Saudi Arabian air forces. This would be later followed by missions in the Yugoslavian and Kosovo wars. In terms of service within the Italian air force, Italian Tornados would be the first aircraft that Italy actually fully used in full scale combat since the end of WW2.
 
 Their more famous usage would be during Operazione Locusta, and would also be the first time since the end of WW2 that an Italian Air Force fighter would be shot down. During Operazione Locusta (the code name given to the contribution of the Italian Air Force during the Gulf War) Italian Tornados would be sent to Kuwait in 1990 by the Italian Government. In total 8 Panavia Tornados in the IDS variant would be sent. These Tornados would be from the 6º, 36º and 50º Stormo, their mission was to fly into Iraq from Kuwait and drop bombs unto Iraqi controlled territory. The Tornado squadron would form the <nowiki>''</nowiki>Autonomous Flight Department of the Italian Air Force in the Arabian Peninsula<nowiki>''</nowiki>. During the time they were deployed the Italian airforce would rack up to 589 flight hours and would complete 226 sorties into Iraqi airspace in just 42 days of war. After the war they'd return to Italy and be used in other conflicts, the Italian air force Tornados are still in service as of 2023, mainly thanks to several different extensive upgrade programs which extended the life of those aircraft up to 2035, where they will likely be replaced by the F-35.
 
@@ -231,9 +236,10 @@ Their more famous usage would be during Operazione Locusta, and would also be th
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
+''Paste links to sources and external resources, such as:''
 
 * https://forum.warthunder.com/index.php?/topic/485805-panavia-tornado/
-* [https://www.aircraftrecognitionguide.com/panavia-tornado <nowiki>[Aircraft Recognition Guide]</nowiki> Panavia Tornado]
+* https://www.aircraftrecognitionguide.com/panavia-tornado
 
 {{AirManufacturer Panavia}}
 {{Italy jet aircraft}}

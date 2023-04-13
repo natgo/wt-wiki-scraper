@@ -5,13 +5,15 @@
 }}
 {{Specs-Card
 |code=cr_32
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |cockpit=cockpit_cr_32.jpg
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} reserve Italian biplane {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]].
+The CR.32 is a biplane fighter designed by the aeronautical engineer Celestino Rosatelli, as a modification of the CR.30: the structure around the engine was modified, and the armament was improved with two Breda-SAFAT 12.7 mm. It was given the serial number MM 201, tested at Montecelio and consequently renamed to CR.32. The biplane was appreciated by the Regia Aeronautica for its balanced manoeuvrability and armament and was used in several units and various campaigns.
+
+Introduced in [[Update 1.69 "Regia Aeronautica"]], the CR.32 is the first aircraft available in the Italian tech tree. It is a very good fighter with very powerful 12.7 mm machine guns, particularly when using the "Air targets" belt, very manoeuvrable even at low speeds, and is in practice a turn fighter. It can withstand few shots before being destroyed, but in the end as a reserve is an excellent aircraft.
 
 == General info ==
 === Flight performance ===

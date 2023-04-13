@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=fiat_cr42_marcolin_italy
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |cockpit=cockpit_fiat_cr42_marcolin_italy.jpg
 }}
 
@@ -201,7 +201,7 @@ The C.R.42 is also credited with the world's last aerial combat biplane kill. A 
 * ''other literature.'' -->
 
 * [https://forum.warthunder.com/index.php?/topic/445727-fiat-cr42/ Official data sheet - more details about the performance]
-* [[wikipedia:Fiat_CR.42|[Wikipedia] Fiat CR.42]]
+
 
 {{AirManufacturer Fiat}}
 {{Italy fighters}}

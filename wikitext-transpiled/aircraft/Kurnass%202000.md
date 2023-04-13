@@ -267,7 +267,7 @@ A major difference between the Kurnass 2000 and the F-4EJ Kai is the slats on th
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f-4e_kurnass_2000 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|We702awM1kA|'''Kurnass 2000: A Basic Review''' - ''Tims Variety''}}
+{{Youtube-gallery|U8PuopV6XyY|'''The Shooting Range #348''' - ''Metal Beasts'' section at 00:24 discusses the {{PAGENAME}}.|We702awM1kA|'''Kurnass 2000: A Basic Review''' - ''Tims Variety''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

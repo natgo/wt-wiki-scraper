@@ -38,13 +38,15 @@ In terms of survivability, the Wiesel performs rather poorly there as well. Bein
 <!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
 
 === Mobility ===
-The mobility of the Wiesel 1a2 is quite excellent, boasting 30 horsepower per ton with 87HP(spaded) on a 2.9T chasse. with such acceleration the Wiesel can quickly reach its top speed on both hard road and grassland ground very fast. The Wiesel does quite well climbing hills and steep inclines when spaded. Commanders of a spaded Wiesel can expect the tank to reach a top speed of about 51 KM/H on grass dirt terrain, and about 65 on roads, although higher speeds can be achieved in prolonged straight-line dashes.{{Specs-Tank-Mobility}}
+{{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
+The mobility of the Wiesel 1A2 is quite excellent, boasting 30 horsepower per ton with 87 hp (spaded) on a 2.9t chassis. With such acceleration, the Wiesel can quickly reach its top speed on both hard road and grassland. The Wiesel does quite well climbing hills and steep inclines when spaded. Commanders of a spaded Wiesel can expect the tank to reach a top speed of about 51 km/h on grass dirt terrain, and about 65 km/h on roads, although higher speeds can be achieved in prolonged straight-line dashes.
 
 {{tankMobility|abMinHp=124|rbMinHp=77}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
+
 The modification acquisition order for the Wiesel differs from other tanks severely. After getting Parts and FPE, the modification that should be pursued is the TOW-2A. Acquiring this missile will allow the Wiesel to frontally engage and kill any target at its BR with few exceptions, granting the tank a significant power boost. The next modification to be acquired is the thermals, as this will allow faster target acquisition and allow for more tolerable conditions in night battles. After the previously mentioned modifications are obtained, all other modifications are to be gathered at the user's preference.
 
 == Armaments ==
@@ -109,7 +111,7 @@ The modification acquisition order for the Wiesel differs from other tanks sever
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The primary use of the Wiesel 1A2 should be as an ambush tank destroyer. Utilizing the ATGM's impressive depression angle of -20* to conceal the Wiesel on the tops of hills and in ditches allow the player to be all but invisible to enemy armour. In terrains that lack such features such as cities, the Wiesel is able to best fulfill its role by hiding in corners and dead ends angles so that an enemy approaching the Wiesel will not be able to react in time. Due to the long reload of the ATGM paired with the paper-thin armour, it is not recommended to brawl with this tankette. However, if the Wiesel has the element of surprise, the punchy TOW-2A can deliver a killing blow in a single hit. Another aspect to note is the insanely good power-to-weight ratio, allowing Wiesel to climb steep inclines and to access locations not often accessible to most tanks. Use this mobility to place the Wiesel in a spot where enemy tanks will not be expecting it.
+The primary use of the Wiesel 1A2 should be as an ambush tank destroyer. Utilizing the ATGM's impressive depression angle of -20° to conceal the Wiesel on the tops of hills and in ditches allow the player to be all but invisible to enemy armour. In environments that lack such features such as cities, the Wiesel is able to best fulfill its role by hiding in corners and dead ends angles so that an enemy approaching the Wiesel will not be able to react in time. Due to the long reload of the ATGM paired with the paper-thin armour, it is not recommended to brawl with this tankette. However, if the Wiesel has the element of surprise, the punchy TOW-2A can deliver a killing blow in a single hit. Another aspect to note is the insanely good power-to-weight ratio, allowing Wiesel to climb steep inclines and to access locations not often accessible to most tanks. Use this mobility to place the Wiesel in a spot where enemy tanks will not be expecting it.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -131,7 +133,7 @@ The primary use of the Wiesel 1A2 should be as an ambush tank destroyer. Utilizi
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-The Wiesel was developed for German airborne troops due to their unadequate equipment used to fight enemy MBTs in 1970s. Requirements were that the vehicle is transportable by NATO transport planes and eventually is air droppable. Another requirement from the Bundeswehr was capability of fighting infantry and aircraft. Some prototypes were made by Porsche in 1975 but Bundeswehr stopped the project in 1978 due to lack of funds. Porsche continued developing the project cause of interest from abroad. In 1985 Bundeswehr ordered 343 vehicles. Out of these, 210 were Wiesel 1A2 armed with TOW launcher and 133 were Wiesel 1 Mk20 armed with Rheinmetall Mk 20 RH-202 20 mm autocannon. Both variants were deployed to Somalia in 1993 as part of United Nations forces intervention.
+The Wiesel was developed for German airborne troops due to their inadequate equipment used to fight enemy MBTs in 1970s. Requirements were that the vehicle is transportable by NATO transport planes and eventually is air droppable. Another requirement from the Bundeswehr was capability of fighting infantry and aircraft. Some prototypes were made by Porsche in 1975 but Bundeswehr stopped the project in 1978 due to lack of funds. Porsche continued developing the project cause of interest from abroad. In 1985 Bundeswehr ordered 343 vehicles. Out of these, 210 were Wiesel 1A2 armed with TOW launcher and 133 were Wiesel 1 Mk20 armed with Rheinmetall Mk 20 RH-202 20 mm autocannon. Both variants were deployed to Somalia in 1993 as part of United Nations forces intervention.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -160,4 +162,5 @@ The Wiesel was developed for German airborne troops due to their unadequate equi
 
 * [[wt:en/news/7376-development-wiesel-armored-vehicles-mk20-tow-2-adwc-en|[Devblog] Wiesel armored vehicles: MK20/TOW/2 ADWC]]
 *[https://en.wikipedia.org/wiki/Wiesel_AWC Wiesel AWC]
+
 {{Germany tank destroyers}}

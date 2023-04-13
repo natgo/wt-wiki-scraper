@@ -312,10 +312,6 @@ function weaponLang(
     return langelement.ID === name || langelement.ID === name + "/name";
   });
 
-  if (name === "152mm_football_jump") {
-    return "";
-  }
-
   if (!langFindShort && !langFind && !langFind2 && !modlangFind && !bulletTypeFindShort && !dev) {
     if (name.endsWith("_universal")) {
       return "Universal";

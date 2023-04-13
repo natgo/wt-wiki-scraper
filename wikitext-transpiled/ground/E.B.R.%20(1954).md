@@ -121,7 +121,7 @@ The EBR best preforms on the sidelines of the enemy team, using its autoloader a
 
 ;Enemies worth keeping
 
-* [[Tiger I (Family)|Tiger I]] and [[Panzer V Panther (Family)|Panther I]]: Sitting at the same BR, these targets can prove to be difficult. Flanking them and shooting their weakly armoured sides is advised, but in case of a face to face encounter, shooting the right side (from the players point of view) of the Panther's mantlet or the right side of the Tiger's Hull will disable or destroy them. In case these shots are impossible or too risky, one can shoot the barrels, take a track out and relocate and target the side of said tanks.
+* [[Tiger I (Family)|Tiger I]] and [[Panzer V Panther (Family)|Panther I]]: Although sitting at a lower BR, these targets are common to encounter on the battlefield. Flanking them and shooting their weakly armoured sides is advised, but in case of a face to face encounter, shooting the right side (from the players point of view) of the Panther's mantlet or the right side of the Tiger's Hull will disable or destroy them. In case these shots are impossible or too risky, one can shoot the barrels, take a track out and relocate and target the side of said tanks.
 
 * [[T26E1-1]] "Super Pershing" and [[Tiger II (H)]]: At a range larger than 200 m these targets become invulnerable to the 75 mm gun, one should side shoot them or disable their guns and tracks.
  
@@ -142,6 +142,7 @@ The EBR best preforms on the sidelines of the enemy team, using its autoloader a
 
 * Due to its shape, a penetration in the front (or back) by any actual tank cannon will mean losing the vehicle.
 * The 7° gun depression is far from optimal for players that want to shoot from an hull down position.
+* Poor angle performance of the ammunition, shooting at flat plates is strongly advised.
 * The massive radio antennas will make you visible even when the rest of the vehicle is hidden behind a hill or small building.
 * Very easy to spot and recognize from the side due to its size and shape; in addition, the side armour won't really stop anything more than small calibre machine gun fire.
 * The roof of the turret is thin, making it vulnerable to airborne attacks.

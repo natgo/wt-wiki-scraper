@@ -127,6 +127,11 @@ The Leopard A1A1 (L/44) sports an excellent 120 mm L/44 cannon which can make sh
 ==== Realistic battles ====
 The primary role of the Leopard A1A1 (L/44) should be that of a long-range sniper and flanker. Its incredible firepower with its 120 mm gun makes it easy to engage and destroy any tank from long distances while remaining concealed and thus protected from enemy fire. The good mobility on this vehicle allows you to reach good positions to snipe from and the laser rangefinder makes long-range targeting easy. The lack of armour on this tank makes direct engagements very risky and often nonviable so keeping at a distance maximizes your chances of survival and opportunity to inflict damage. Alternatively, the Leopard can be employed in flanking manoeuvres, using its good mobility to encircle the enemy and destroy them while they are unaware, again removing the danger of enemy fire destroying your tank. If you want to take a risk, you could rush a cap circle at the beginning of a match, if you tag along with other, better armed MBTs. However, this will almost always result in being destroyed, especially since the vehicle is vulnerable to artillery.
 
+=====Up-tiered Gameplay=====
+When using the {{PAGENAME}} in uptiers, the tank can still exceed if played like a light tank or IFV, as the A1A1 platform behaves very similarly to IFVs with decent (although comparatively lacking) mobility. Since most in-game IFVs also have less mobility than the top-rank MBTs, learning how to make the most out of this disadvantage would be beneficial skill transfer to the {{PAGENAME}} gameplay. The DM13 APFSDS round would serve the {{PAGENAME}} well even in an uptier provided it hits top-rank MBTs in their weak spots, though this knowledge would still be important to know even when using other higher-ranked MBTs like the [[Leopard 2 (PzBtl 123)]].
+
+Flanking is still very strong, especially when your enemy is caught by surprise or is otherwise occupied. Rushing can also be a viable strategy when working alongside teammates, however you would be well-advised to use this strategy sparingly, as many of the tanks in this BR range are superior to you in every way possible, so timing will be crucial to ensure the enemy is inclined to engage a more significant threat first, thus allowing you to achieve good positioning on him before he can engage you. For the most part, playing this tank in the 10.0 bracket will require you to stay near teammates and play a support role, or flank the enemy and snipe those who are engaging your teammates. Remember that your tank is worse than those of your teammates, so they are unlikely to prioritize helping you, should you be left in need of repairs or firefighting. As such, flanking to snipe will require good instincts, so the enemy doesn't engage you.
+
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
@@ -149,18 +154,20 @@ The primary role of the Leopard A1A1 (L/44) should be that of a long-range snipe
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
+==== Leopard 1A6 Project ====
+The Leopard A1A1 (L/44), also known as the "Leopard 1A6" was a testbed which utilized the Leopard A1A1 hull along with a modified Leopard 1 turret, featuring supplemental armor and a modified mantlet created to accept the Rhenmetall L/44 120mm smoothbore cannon. The project was cancelled in 1987 after it was determined the Leopard 1A5 upgrade package was comparable in effectiveness at a fraction of the cost, and the Leopard 2 had been in widespread service by then, so an expensive upgrade package to bring the Leopard 1 up to the same level as more modern MBTs was seen as unnecessary.
+==== [[wt:en/news/5724-development-leopard-1-with-the-rheinmetall-120mm-l44-en|Devblog]] ====
 Development of a Leopard 1 fitted with the 120 mm L44 cannon began as a private venture of the Rheinmetall company, hoping that such a Leopard 1 variant would be of interest, not just to the German army due to logistical commonalities with the Leopard 2 and higher performance of the gun, but also to international customers seeking third generation MBT features on older machines.
 
 In the early 1980s, a Leopard 1A1A1 was modified with a thicker cast steel mantlet, suitable for mounting the Rheinmetall 120 mm cannon, and additional interior changes to hold the respective ammunition. Further changes were applied in early 1985, with the installation of the EMES 18 fire control system from the Leopard 1A5.
 
 Although there were several different prototypes based on Leopard 1 outfitted with the 120 mm Rheinmetall cannon, none of them managed to justify a costly large scale upgrade effort of existing Leopard 1s. The upgrade was largely considered redundant due to the already more advanced Leopard 2 being in service.
 
-''- From [[wt:en/news/5724-development-leopard-1-with-the-rheinmetall-120mm-l44-en|Devblog]]''
-
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_leopard_a1a1_120 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -172,9 +179,11 @@ Although there were several different prototypes based on Leopard 1 outfitted wi
 * ''links to approximate analogues of other nations and research trees.''-->
 
 ;[[Leopard 1 (Family)|Related development]]
+
 * [[Leopard 1A5]] - Base model of the L/44 installation
 
 ;Similar vehicles of the era that were up-gunned
+
 * [[M60 AMBT]] - Upgunned [[M60A3 TTS|M60A3]] with a 120 mm
 
 == External links ==
@@ -186,3 +195,4 @@ Although there were several different prototypes based on Leopard 1 outfitted wi
 
 {{Germany medium tanks}}
 {{Germany premium ground vehicles}}
+<references />

@@ -10,11 +10,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet SPAA {{Battle-rating}}.
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-The Pantsir-S1 doesn't offer a strong armor of any kind, the strongest part of the vehicle is the 40 mm armoured glass that protects the driver. On the front, sides and rear there is mostly a 5 to 6 mm structural steel armor and high hardness rolled armor. 
+The Pantsir-S1 doesn't offer a strong armour of any kind, the strongest part of the vehicle is the 40 mm armoured glass that protects the driver. On the front, sides, and rear there is mostly a 5 to 6 mm structural steel armour and high hardness rolled armour. 
 
-The crew placement makes it even more vulnerable, as the 3 crew members are placed near each other, making a single shot lethal for the majority (every time if the shot is from the front) of the time, making this vehicle unsuited for tank-to-tank combat. 
-
-The best choice is to find natural or artificial cover to avoid being seen or being exposed to enemy fire.
+The crew placement makes it even more vulnerable, as the 3 crew members are placed near each other, making a single shot lethal for the majority of the time, making this vehicle unsuited for tank-on-tank combat. The best choice is to find natural or artificial cover to avoid being seen or being exposed to enemy fire.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -24,24 +22,23 @@ The best choice is to find natural or artificial cover to avoid being seen or be
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 6 mm || 6 - 5 mm ''Top'' <br>6 - 5 mm ''Bottom'' || 6 mm || 6 mm
+| Hull || 6 mm || 5 - 6 mm ''Top'' <br> 5 - 6 mm ''Bottom'' || 6 mm || 6 mm
 |-
-| Turret || 15 mm ''Turret front'' <br>10 - 5 mm ''Gun mantlet'' || 15 - 5 mm || 5 mm || 15 - 5 mm
+| Turret || 15 mm ''Turret front'' <br> 5 - 10 ''Gun mantlet'' || 5 - 15 mm || 5 mm || 5 - 15 mm
 |-
-| Cupola || 15 - 5 mm || 15 - 5 mm || 5 mm || 15 - 5 mm
+| Cupola || 5 - 15 mm || 5 - 15 mm || 5 mm || 15 - 5 mm
 |-
 |}
+'''Notes:'''
 
-'''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
-<!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
-The structural steel located on the bottom of the Pantsir-S1 is 35 mm thick, being on the same level of the upper transmission.
+* The structural steel located on the bottom of the Pantsir-S1 is 35 mm thick, being on the same level of the upper transmission.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 The Pantsir-S1 is a wheeled vehicle, making any crossing on mud, snow or ice difficult. 
 
-This vehicle moves thanks to the KamAZ 740.632-400, that offers 354 HP at 1,900 RPM. The max speed while moving forward is 70km/h, while for moving backwards is a sub 10km/h making retreats difficult.
+This vehicle moves thanks to the KamAZ 740.632-400, that offers 354 HP at 1,900 RPM. The maximum speed forwards is 70 km/h, while the reverse speed is limited to -10 km/h, making retreats difficult.
 
 {{tankMobility}}
 
@@ -145,11 +142,11 @@ This vehicle moves thanks to the KamAZ 740.632-400, that offers 354 HP at 1,900 
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
-'''Pros:'''
+'''Pros:''' 
 
 *
 
-'''Cons:'''
+'''Cons:''' 
 
 *
 
@@ -163,6 +160,11 @@ This vehicle moves thanks to the KamAZ 740.632-400, that offers 354 HP at 1,900 
 ;Skins
 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_pantsyr_s1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+;Images
+<gallery mode="packed-hover" heights="200">
+File:Pantsir-S1 WTWallpaper001.jpg
+</gallery>
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

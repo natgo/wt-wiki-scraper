@@ -197,13 +197,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * Average turn speed above ~900 km/h
 
 == History ==
-<!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
-
+<!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>== In-game description ===</nowiki></code>, also if applicable).'' -->
+The SAAB J-35XS (Xerxes Sigurd/Export Suomi) is a Finnish export of the Swedish J35F interceptor. During and after 1970, Sweden provided second hand J35's to the Finnish Air Force. The first wave of exported Drakens were put into service on 1972, while the first J35 assembled under licence by Valmet was finished on March 12th, 1974. A unique feature to the Finnish variants was the ability to mount Soviet R-13M missiles, along with countermeasures such as flares and chaff. 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=saab_j35xs Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -229,11 +229,7 @@ File:J35FS RM6C AB On.jpg|<small>J35FS afterburner on</small>
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
-
-* ''topic on the official game forum;''
-* ''other literature.''
-
+* [https://en.wikipedia.org/wiki/Saab_35_Draken ''https://en.wikipedia.org/wiki/Saab_35_Draken'']
 {{Sweden jet aircraft}}
 {{Sweden premium aircraft}}
 <references />

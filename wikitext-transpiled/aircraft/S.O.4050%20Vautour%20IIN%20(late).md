@@ -157,16 +157,18 @@ The Vautour II N is an interceptor, and for the most part, can only be played as
 
 Meanwhile, the 4 x radar-guided Matra R511 missiles are not particularly reliable but can be launched as soon as passing the 8 km threshold, and can be quite effective against the occasional bomber.
 
-There are several big threats to the Vautour, most notably, avoid at all costs engaging the [[Su-25]] and [[A-10A]], which possess all-aspect missiles that the Vautour has very few chances to dodge. Also take care around the [[Sea Vixen F.A.W. Mk.2]], while the Vautour cannot really dodge missiles, it can often outrun them, but this does not apply to the Sea Vixen as it is faster than the Vautour and will catch up eventually.
+There are several big threats to the Vautour, most notably, avoid at all costs engaging the [[Su-25]], which possess all-aspect missiles that the Vautour has very few chances to dodge. Also take care around the [[Sea Vixen F.A.W. Mk.2]], while the Vautour cannot really dodge missiles, it can often outrun them, but this does not apply to the Sea Vixen as it is faster than the Vautour and will catch up eventually.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
+
 * Among the fastest in a downtier
 * 4 missiles loadouts on top of sufficient cannon ammo
 
 '''Cons:'''
+
 * An interceptor with nothing to intercept in uptiers
 * Incredibly poor manoeuvrability
 * Unlike [[S.O.4050 Vautour IIN|its premium counterpart]], entirely lacks air-to-ground options, making it a one-dimensional vehicle.
@@ -184,6 +186,7 @@ There are several big threats to the Vautour, most notably, avoid at all costs e
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -192,6 +195,7 @@ There are several big threats to the Vautour, most notably, avoid at all costs e
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

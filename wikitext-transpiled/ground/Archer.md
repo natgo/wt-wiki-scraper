@@ -14,6 +14,10 @@ The Archer's armament is very good at this battle rating. The same cannon is eve
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
+The Archer's armour will not protect against close range fire, and the gun shield is especially vulnerable to fire from heavy machine guns and autocannons. When in a firing position, the engine block can work as extra protection. Generally speaking, don't expect to survive prolonged exchanges with enemy tanks.
+
+When facing the Archer's gun, consider firing onto the right side of the gun shield, as that will eliminate the gunner and prevent the Archer from firing back. Avoid firing directly on the front of the vehicle, as you are unlikely to kill the crew in an efficient amount of time. Instead get shots on the side or concentrate fire on the gun compartment.
+
 '''Armour type:'''
 
 * Rolled homogeneous armour
@@ -101,24 +105,24 @@ Whenever facing tanks of any battle rating and rank, always be on alert and alwa
 
 '''Pros:'''
 
-* Ability to move faster in the opposite direction of the gun can allow for a quick retreat
-* The vehicle's cannon (17-pounder) is amazing at causing damage and offers easy ballistic trajectory
+* Ability to move faster in the opposite direction of the gun allows for a quick retreat
+* The QF 17-pounder is amazing at causing damage and offers easy ballistic trajectory
 * The direction configuration can confuse or surprise enemies
-* Very stealthy when in a good hull-down position
-* Engine and gun can be extremely effective armour; absorbing shots without them hurting the crew
-* Despite slow top speed, it feels very smooth when aiming, turning or in reverse
-* Decent speed for a SPG, making it able to catch up with the team
+* Very stealthy when in hull-down position
+* Engine can double as armour: some shots will be absorbed, protecting the crew
+* Smooth handling despite strange design
+* Decent speed for a SPG, allowing it to keep pace with teammates
 
 '''Cons:'''
 
-* It can be hard to master this vehicle as the gun does not face forward
-* The Archer has a long reload time for its BR
+* Thin armour means that heavy machine gun fire will penetrate armour plates quite easily
+* Open-topped vehicle; vulnerable to planes, HE shells, and artillery strikes
 * Vehicle immobilization can occur often
 * Only travels about 4 km/h backwards, which makes it hard to move in the direction of your gun
-* Very slow cannon traverse speed and average reload speed, high crew training is required
-* Lightly-armoured tanks may in some circumstances get off easy from your shots, as the QF-17 over-penetrates and produces little spalling with no HE filler
-* Due to thin armour, heavy calibre fire especially from 20 mm's, will rip through armour plates quite easy
-* Open-topped vehicle makes it a target for planes, HE shells and artillery strikes
+* The Archer has a long reload time for its BR
+* Very slow cannon traverse speed and average reload speed; high crew training is critical for maximum effectiveness
+* Lightly-armoured tanks may get off easy from your shots, as the solid shots lack HE filler and produce little spalling
+* It can be hard to master this vehicle as the gun does not face forward
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -135,6 +139,7 @@ Britain continued to use the Archer up until the 1950s. Once retired, some were 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_sp_17_pdr_valentine Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

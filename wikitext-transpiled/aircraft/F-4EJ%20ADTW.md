@@ -256,7 +256,7 @@ This F-4EJ sports the livery for the 60th Anniversary of the ADTW (Air Developme
 }}
 
 ;Videos
-{{Youtube-gallery|TWT-ETcU_No|'''The Shooting Range #198''' - ''Metal Beasts'' section at 05:01 discusses the F-4EJ.|PNkoJ-MFERc|'''Best naval fighters''' discusses the F-4EJ at 3:39 - ''War Thunder Official Channel''|DCvuy_E5ZAk|'''JASDF F-4EJ Phantom II: Actual Sound Recording''' - ''DMM GAMES Official Channel''}}
+{{Youtube-gallery|TWT-ETcU_No|'''The Shooting Range #198''' - ''Metal Beasts'' section at 05:01 discusses the F-4EJ.|PNkoJ-MFERc|'''Best naval fighters''' discusses the F-4EJ at 3:39 - ''War Thunder Official Channel''|DCvuy_E5ZAk|'''JASDF F-4EJ Phantom II: Actual Sound Recording''' - ''DMM GAMES Official Channel''|wzoNirlvARE|'''F-4 PHANTOM Ⅱ JASDF Final year''' - ''Yomiuri Shimbun''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

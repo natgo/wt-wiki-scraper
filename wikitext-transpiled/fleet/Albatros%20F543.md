@@ -35,8 +35,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian gunboat {{Battle-ratin
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
 {{main|76 mm/62 SMP 3 (76 mm)}}
 
-''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.''
+The main armament composed of two 76mm SMP3 in single positions located one in front and one in the back are very good because they do not overheat, you have only explosive bullets and explosives with anti-aircraft fuse, there are two explosive bullets OM-1 and OM-2 the difference is that OM-2 has more explosive potential than the OM-1 and these bullets are able to disable any component present in the enemy ship from the armament up to the engines thanks to its explosive potential, the advice is always to disable the enemy armament before any other component.
 
+In contrast, HE-VTs are perfect for shooting down enemy targets from long to short range, and this projectile also has great explosive power with 0.864 kg of explosive so can destroy even a strategic bomber (B-17, He 177 and so on) with a single shot.
 {| class="wikitable sortable" style="text-align:center" width="100%"
 ! colspan="8" | Penetration statistics
 |-
@@ -111,14 +112,18 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian gunboat {{Battle-ratin
 ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).''
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
 
-'''Pros:'''
+* Excellent AA Armament
+* The main armament does not overheat
+* Searching and Track Radar for Air targets
 
 *
 
 '''Cons:'''
+
+* Low Speed and acceleration
+* Don't have any AP rounds
 
 *
 
@@ -136,6 +141,7 @@ The Albatros-class was the first series of warships constructed by Italian shipy
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_albatros_class_f543 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

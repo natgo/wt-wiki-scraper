@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian fighter {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]].
+The C.205N2, also known as the "''Orione''" ("Orion"), was the next development of the [[C. 205 (Family)|C.205V Veltro]]. During 1942-1943, the Regia Aeronautica requested an upgrade for the C.205. The C.205N1 prototype was created in 1942 with larger wings and a longer fuselage but only armed with 12.7 mm machine guns, and it was not accepted due to its poor armament. In 1943, the second prototype of the C.205N named C.205N2 was produced with a more powerful engine and the addition of a 20 mm cannon inside the crankshaft. Thanks to its improved armament the C.205N2 was accepted by the Regia Aeronautica but due to lack of resources and the Armistice, it was abandoned and remained at the prototype stage.
 
-The C.205N, also known as the "Orione" ("Orion"), was a development of the [[C.205_serie_3|C.205V "Veltro"]] to bring more firepower and higher altitude into the aircraft's performance.
+Introduced along with the initial Italian tech tree in [[Update 1.69 "Regia Aeronautica"]], the C.205N2 is an excellent fighter for both turn-fighting and energy-fighting, being very manoeuvrable both at high speed and low speed. Thanks to the three 20 mm cannons and two 12.7 mm machine guns, destruction of enemy aircraft will only take a few hits, particularly with the anti-aircraft belts that contain many incendiary rounds.
 
 == General info ==
 === Flight performance ===
@@ -152,10 +152,11 @@ However, as the war in the Mediterranean was drawing to a close and resources dw
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mc-205_n2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-<gallery mode="packed-hover"  heights="150">
+<gallery mode="packed-hover" heights="150">
 Image:C.205N2 Destroying an American B-17.png|<small>C.205N2 Destroying an American B-17</small>
 Image:C.205N2 Formation (1).png|<small>C.205N2 in formation</small>
 Image:C.205N2 Formation (2).png|<small>C.205N2 in formation</small>

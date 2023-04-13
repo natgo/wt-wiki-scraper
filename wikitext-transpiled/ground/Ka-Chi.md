@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Japanese medium tank {{Battle-rating}}. It was introduced during [[Update "Red Skies"]] as a reward for the [[wt:en/news/7267-event-summer-landing-en|2021 Summer Landing event]].
+The '''Special {{Specs|name}}''' ({{Annotation|特三式内火艇 「カチ」|Toku San-Shiki Uchibitei [Ka-Chi]}}) was an improvement program by the Navy over the [[Ka-Mi]], going larger and stronger using the [[Chi-He]] as a base instead of the Ha-Go. During development the idea of making the tank transportable by submarine came up, allowing the tank to stealthily approach islands, emerge with the submarine, and off-load into the water to then land on the island amphibiously. While a very potent tank and operationally interesting, the Navy had more pressing issues during 1943-45 on top of being on the defensive, the Ka-Chi's priority and use case was diminished. Only 12 - 19 were built and all were reserved for homeland defense.
 
-This vehicle might seem familiar to some Japanese players as this is essentially a waterborne [[Chi-He]], boasting the same turret, max armour of 50 mm, and the same engine. Allied players will find the Ka-Chi reminiscent of the [[LVT(A)(1)]] as both are amphibious tanks with similar configurations.  
+It was introduced during [[Update "Red Skies"]] as a reward for the [[wt:en/news/7267-event-summer-landing-en|2021 Summer Landing event]]. This vehicle might seem familiar to some Japanese players as this is essentially a much larger, amphibious [[Chi-He]], boasting the same turret, max armour of 50 mm, and the same engine. Allied players will find the Ka-Chi reminiscent of the [[LVT(A)(1)]] as both are amphibious tanks with similar configurations.
 
 == General info ==
 === Survivability and armour ===

@@ -131,7 +131,7 @@ export interface GroundVehicle extends BaseVehicle {
   destroysTrees: boolean;
   rearmSmokeTimeOnField: number;
   canReloadNonGuns: boolean;
-  VehiclePhys: VehiclePhys;
+  VehiclePhys?: VehiclePhys;
   sound: Sound;
   cockpit: GroundCockpit;
   modifications: Record<string, GroundMod>;
@@ -2817,10 +2817,10 @@ export const groundTypeSchema = z.object({
 export const groundPropsSchema = finalPropsSchema
   .extend({
     type: z.literal("ground"),
-    mass: z.number(),
-    horsepower: z.number(),
-    gears_forward: z.number(),
-    gears_backward: z.number(),
+    mass: z.number().optional(),
+    horsepower: z.number().optional(),
+    gears_forward: z.number().optional(),
+    gears_backward: z.number().optional(),
     hydro_suspension: z.boolean().optional(),
     can_float: z.boolean().optional(),
     has_synchro: z.boolean().optional(),

@@ -241,7 +241,7 @@ In addition to flying with the Soviet Air Force, La-9 fighters remained in servi
 * [https://live.warthunder.com/feed/camouflages/?vehicle=la-9 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|4v3fxupuZPA|'''Last piston fighters''' discusses the {{PAGENAME}} at 2:57 - ''War Thunder Official Channel''}}
+{{Youtube-gallery|C4P93QnwRlI|'''The Shooting Range #349''' - ''Pages of History'' section at 03:30 discusses the {{PAGENAME}}.|4v3fxupuZPA|'''Last piston fighters''' discusses the {{PAGENAME}} at 2:57 - ''War Thunder Official Channel''}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

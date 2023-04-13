@@ -78,17 +78,20 @@ Located amidships is a catapult with one Beriev Be-2 (aka KOR-1) scout plane whi
 
 '''Pros:'''
 
-* Powerful 180 mm cannons with good firing angle
-* Fairly survivable against AP and SAP shells
-* Good top speed and mobility
-* One scout seaplane
+* Exceptional damage output, besting almost all of the comparable foreign light cruisers and most of the heavy cruisers
+* Access to various types of shells, including {{Annotation|SAP|Semi armour-piercing}}, {{Annotation|APCBC|Armor-piercing capped ballistic capped}} and even {{Annotation|HE-VT|High-explosive variable time fuse}} shells for secondaries
+* Decent medium and long-range anti-air defense
+* Above average mobility
+* Relatively good torpedoes
+* Access to the [[Shipboard reconnaissance aircraft|hydroplane]]
 
 '''Cons:'''
 
-* Prone to damage from HE shells due to lack of armour
+* Low crew count and a minimal armor protection
+* Numerous exposed stations make it prone to HE damage. Relatively thin armor makes it possible to destroy turrets even with a 200 mm / 8-inch {{Annotation|HE|High-explosive fragmentation}} rounds.
 * Very large, can be easily targeted
-* Poor anti-air defense
-* Sluggish traverse speed
+* [[Ammo racks|Auxiliary ammunition storage]] located above the water line
+* Poor short-range anti-air defence
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

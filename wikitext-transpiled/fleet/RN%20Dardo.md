@@ -4,8 +4,9 @@
 }}
 
 == Description ==
-<!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian destroyer {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
+<!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->RN Dardo is one of the Dardo class destroyers following the Turbine class in which the major difference was the ship's range and the replacement of the [[120 mm/45 O.T.O. Mod. 1926 (120 mm)|120/45 OTO Mod.1926]] guns with the always twin [[120 mm/50 Ansaldo mod.1926 (120 mm)|120/50 Ansaldo Mod.1926]] guns, the RN Dardo laid down on 23 January 1929, launched 6 July 1930 and eventually built at the OTO shipyard in Genoa and commissioned on 25 January 1932, was used by both the Regia Marina and the German Navy after her capture following the armistice of 8 September 1943, in her service with the Regia Marina she took part in several battles from the Spanish Civil War, escort operations until her capture by the Germans who used her under the name TA 31 officially entered service 17 June 1944, only to be eventually disarmed and sunk in Genoa on 24 April 1945.
+
+In the Game the RN Dardo was added with the Italian Naval Tech tree in the [[Update "Starfighters"|"Starfighters" update]], this ship in practice is an enhancement of the RN turbine in terms of manoeuvrability and speed, in particular, the armament the guns have greater accuracy at medium and long range, in battle, it is very advisable not to perform frontal attacks because you are very light but to attack from the side and launch torpedoes at the right times to the enemies, with the manoeuvrability and acceleration of the ship you can also dodge more easily torpedoes or enemy bombs.
 
 == General info ==
 === Survivability and armour ===

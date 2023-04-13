@@ -10,9 +10,10 @@
 }}
 
 == Description ==
-<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->This is F-104S exported to Turkey from Italy, the Turkish Air Force bought these F-104S during the Cuban Missile Crisis era to increase the combat capabilities of the air force already equipped with 2 squadrons of F-4E, Turkey bought 40 new F-104S interceptors from FIAT in 1974-1975.
+<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
+During the Cuban Missile Crisis era, the Turkish Air Force bought the F-104S from Italy to increase the combat capabilities of their air force already equipped with 2 squadrons of F-4E. Turkey bought 40 new F-104S interceptors from FIAT in 1974-1975.
 
-The F-104S (TAF) was introduced during the [[Update "Apex Predators"|"Apex Predators" update]] in the game is very complicated to use because of its manoeuvrability, in comparison to the tech tree F-104S it carries the 20mm minigun under the fuselage instead of in the nose, the aircraft can be used both as a CAS and air superiority platform due to its excellent acceleration, ballistic computer and climb rate, As an air-to-air missile you can rely on both the AIM-9J and AIM-7E SARH missiles to shoot down enemy planes and helicopters during battles, or using a payload of bombs or rockets to act as a CAS for your allies in Ground Battles, while you can use the available flare/chaff to ward off enemy threats.
+Introduced in [[Update "Apex Predators"]], the F-104S (TAF) is rather complicated to use because of its lack of manoeuvrability. The aircraft can be used both as a CAS and an air superiority platform due to its excellent acceleration and climb rate, as well as a ballistic computer to aid in use of ordnance. You can rely on both the AIM-9J and AIM-7E SARH air-to-air missiles to shoot down enemy planes and helicopters during battles, or use a payload of bombs or rockets to act as CAS for your allies in Ground Battles, while the available flare/chaff can be used to ward off enemy threats. In comparison to the tech tree F-104S, the TAF carries the 20 mm minigun under the fuselage instead of in the nose.
 
 == General info ==
 === Flight performance ===
@@ -243,7 +244,7 @@ During the heat of the Cold War when the Cuban Missile Crisis almost brought an 
 
 Their only combat operation was the Invasion of Cyprus where they could have encountered Starfighters from their neighbour across the Aegean Sea, Greece, but both air forces didn't meet each other and the F-104 series were kept in service until TAI's license-assembled F-16Cs arrived and eventually replaced them in the mid-1990s.<ref>Baugher, Joe. Starfighters with Turkey, December 12, 1999. http://www.joebaugher.com/usaf_fighters/f104_24.html.</ref><ref>F-104 Starfighter with the THK. http://www.karo-aviation.nl/favorite/pages/f104/f104thk.htm.</ref>
 
-This jet, numbered '''MM6900/75-6900''' of the Project Bora-II delivery was then stored as part of the Conventional Armed Forces in Europe (CFE) and later scrapped in June 1995.<ref>Peitzmeier, Hubert. “F-104S Turkish Air Force Serials,” May 21, 2022. http://www.916-starfighter.de/F-104_THK_S.pdf.</ref>
+This jet, numbered '''MM6900/75-6900''' of the Project Bora-II delivery was then stored as part of the Conventional Armed Forces in Europe (CFE) and later scrapped in June 1995.<ref>Peitzmeier, Hubert. "F-104S Turkish Air Force Serials," May 21, 2022. http://www.916-starfighter.de/F-104_THK_S.pdf.</ref>
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

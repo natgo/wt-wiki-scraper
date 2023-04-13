@@ -176,7 +176,7 @@ Ground pounding ability is average as there is only light bombs and rockets. The
 * Fast for a biplane
 * Great offensive capabilities
 ** 4 x rapid-firing ShKAS machine guns with large ammo reserves and deadly incendiary tracer belts
-** Can carry rockets to deal with ground target
+** Can carry rockets to deal with ground targets
 
 '''Cons:'''
 
@@ -204,6 +204,7 @@ Sergey Yakovlevich Zhukovsky was awarded with the Order of Lenin, six Orders of 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=i-153_m62_zhukovskiy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -215,12 +216,14 @@ Sergey Yakovlevich Zhukovsky was awarded with the Order of Lenin, six Orders of 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[I-15 (Family)|Related development]]
+
 * [[I-153 M-62]]
 * [[I-153 M-62 (China)]]
 * [[I-153P]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

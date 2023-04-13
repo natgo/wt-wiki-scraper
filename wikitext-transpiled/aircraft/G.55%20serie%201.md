@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=g_55_serie1
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |cockpit=Cockpit g.55 serie 1.jpg
 }}
 
