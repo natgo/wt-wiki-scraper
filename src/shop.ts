@@ -178,13 +178,16 @@ function shopRangeFE(
   }
 
   // convert columns to rank columns
-  const ranked: { rank: number; range: FinalRange[] }[] = [];
+  const ranked: FinalRange[][] = [];
+
+  if (army.min_rank > 1) {
+    for (let index = 0; index < army.min_rank - 1; index++) {
+      ranked.push([]);
+    }
+  }
 
   for (let index = army.min_rank - 1; index < army.max_rank; index++) {
-    const rank: { rank: number; range: FinalRange[] } = {
-      rank: index + 1,
-      range: [],
-    };
+    const rank: FinalRange[] = [];
     army.range.forEach((element) => {
       const range: FinalRange = [];
       element.forEach((element) => {
@@ -198,29 +201,29 @@ function shopRangeFE(
           }
         }
       });
-      rank.range.push(range);
+      rank.push(range);
     });
     ranked.push(rank);
   }
 
   // precomputed drawArrow
   ranked.forEach((element, topindex, toparray) => {
-    element.range.forEach((element, index) => {
+    element.forEach((element, index) => {
       if (element.length === 0) {
         if (
           toparray[topindex - 1] &&
           toparray[topindex + 1] &&
-          toparray[topindex + 1].range[index].length > 0
+          toparray[topindex + 1][index].length > 0
         ) {
-          const next = toparray[topindex + 1].range[index][0];
+          const next = toparray[topindex + 1][index][0];
           if (typeof next === "object" && next.reqAir !== "") {
             console.log("gap + " + next.name);
             if (next.name === army.range[index][0].name) {
               return;
             }
-            toparray[topindex].range[index] = "drawArrow";
-            if (toparray[topindex - 1].range[index].length === 0) {
-              toparray[topindex - 1].range[index] = "drawArrow";
+            toparray[topindex][index] = "drawArrow";
+            if (toparray[topindex - 1][index].length === 0) {
+              toparray[topindex - 1][index] = "drawArrow";
             }
           }
         }

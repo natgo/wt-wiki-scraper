@@ -2989,10 +2989,7 @@ export const finalRangeSchema = z.union([
 ]);
 export type FinalRange = z.infer<typeof finalRangeSchema>;
 
-export const finalRangeObjectSchema = z.object({
-  rank: z.number(),
-  range: z.array(finalRangeSchema),
-});
+export const finalRangeObjectSchema = z.array(finalRangeSchema);
 export type FinalObjectRange = z.infer<typeof finalRangeObjectSchema>;
 
 export const finalFinalShopRangeSchema = finalShopRangeSchema.extend({
