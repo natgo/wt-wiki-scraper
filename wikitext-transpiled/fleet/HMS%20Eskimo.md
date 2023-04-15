@@ -110,7 +110,7 @@ The Tribal class possessed heavy armament and decent mobility, as such, it was u
 
 The act of accurate gunnery means a lot in the Tribal class, mainly based on the unarmoured ship and reduced crew complement in pro of increasing the offensive capabilities of the class. Inside the Tribal class, Eskimo is the precise definition of gunnery thanks to the six devastating main calibre cannons, therefore her playstyle should be based on outranging other destroyers, while Eskimo lands accurate fire from the safety of distance. Ideally, the way to do this is to reach for the farthest areas of the map, where the enemy's poor gunnery skill will be given away.
 
-It is important to tame this distant gunnery gameplay since it will be crucial for all other Royal Navy's destroyers with similar capacities such as [[HMS Nepal]], [[HMS Kelvin]], [[HMS Jervis]], and [[HMCS Haida]]. All of those destroyers will share similar endurance, crew complement, main firepower, and mobility.
+It is important to tame this distant gunnery gameplay since it will be crucial for all other Royal Navy's destroyers with similar capacities such as [[HMAS Nepal]], [[HMS Kelvin]], [[HMS Jervis]], and [[HMCS Haida]]. All of those destroyers will share similar endurance, crew complement, main firepower, and mobility.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

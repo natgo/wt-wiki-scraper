@@ -10,11 +10,8 @@ import {
   GroundVehicle,
   HelicopterOptics,
   Mods,
-  NightVision,
   ShipVehicle,
   Shop,
-  Sights,
-  TankWeapons,
   UnitData,
   aircraftTypeSchema,
   boatTypeSchema,
@@ -22,13 +19,10 @@ import {
   helicopterOpticsSchema,
   helicopterTypeSchema,
   namevehicles,
-  opticIr,
   shipTypeSchema,
 } from "../types";
 import { commonVehicle } from "./commonVehicle";
-import { commonWeaponToCannon } from "./commonWeaponToCannon";
 import { drive, groundVehicle } from "./groundVehicle";
-import { machineGun } from "./machineGun";
 import { sensors } from "./sensors";
 import { vehicleBallistic } from "./vehicleBallistic";
 import { vehiclePreset } from "./vehiclePreset";

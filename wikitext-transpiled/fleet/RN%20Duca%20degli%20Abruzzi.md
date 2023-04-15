@@ -59,8 +59,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian light cruiser {{Battle
 ''Describe the available additional armaments of the ship: depth charges, mines, torpedoes. Talk about their positions, available ammunition and launch features such as dead zones of torpedoes. If there is no additional armament, remove this section.''
 
 == Usage in battles ==
-<!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
-Duca degli Abruzzi is a long-range light cruiser. Whenever you begin an engagement, make sure your ship is facing your enemy on full broadside. Do not attempt to angle your ship as doing that exposes the most deadly weakness of your ship: your frontal magazine is covered merely by a 30 mm bulkhead armour plate. (Notice that a part of the magazine is sandwiched between the 30 mm armour plate and the 100 mm armour plate behind it.) Therefore, you should analyse your rivals carefully, learn their shell performance and armour, and make sure to maintain a distance where they can't penetrate your main belt armour whilst you can penetrate theirs.
+<!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).''
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -74,7 +73,7 @@ Duca degli Abruzzi is a long-range light cruiser. Whenever you begin an engageme
 '''Cons:'''
 
 * The guns have a lower RoF than those of previous Italian light cruisers(but the total broadside remains comparable due to the increase in barrel count)
-* Deceivingly exposed frontal main magazines
+* Somewhat lackluster AA armament
 * No scout aircraft
 * Slower max speed compared to previous Italian light cruisers
 
@@ -92,6 +91,7 @@ After the Italian Armistice in 1943, both vessels fought side by side with the A
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_cruiser_garibaldi_class_abruzzi Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

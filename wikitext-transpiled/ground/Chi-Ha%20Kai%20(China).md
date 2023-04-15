@@ -17,7 +17,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese medium tank {{Battle-r
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
-The Chi-Ha Kai has little to no armour against its common opponents like the [[Pz.II (Disambiguation)|Pz.II]]. It has only 25 mm of armour on the turret cheeks and the frontal plate, and 20-25 mm at the hull sides. Its thin armour might only, with some luck, bounce off some autocannon shells while angling, or block the low penetration shells from a distance. Unfortunately, when being hit and penetrated, the Chi-Ha Kai is usually destroyed with one or two shots. However, this tank has a fairly small frontal profile, making it harder to be hit. Also, for the guns lacking post-penetration damage, the Chi-Ha Kai has an alright survivability, as it has a total of 5 crews and they are fairly spaced out due to the long hull. The huge transmission system at the front of the tank can also serve as further protection for the crew members, at the price of making the tank immobile and thus vulnerable.
+The Chi-Ha Kai has little to no armour against its common opponents like the [[Pz.II (Disambiguation)|Pz.II]]. It has only 25 mm of armour on the turret cheeks and the frontal plate, and 20-25 mm at the hull sides. Its thin armour might only, with some luck, bounce off some autocannon shells while angling, or block the low penetration shells from a distance. Unfortunately, when being hit and penetrated, the Chi-Ha Kai is usually destroyed with one or two shots. However, this tank has a fairly small frontal profile, making it harder to be hit. Also, for the guns lacking post-penetration damage, the Chi-Ha Kai has an acceptable survivability, as it has a total of 5 crews and they are fairly spaced out due to the long hull. The huge transmission system at the front of the tank can also serve as further protection for the crew members, at the price of making the tank immobile and thus vulnerable.
 
 '''Armour type:'''
 
@@ -178,7 +178,7 @@ After the battle, the "102" Chi-ha was renamed "Gongchen tank" (功臣號, meani
 * [https://live.warthunder.com/feed/camouflages/?vehicle=cn_type_97_kai Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-<gallery mode="packed-hover"  heights="150">
+<gallery mode="packed-hover" heights="150">
 Image:Gongchen Chi-Ha Kai Assembly.jpg|<small>PLA Chi-Ha Kai tanks on parade</small>
 Image:Gongchen Chi-Ha Kai Parade.jpg|<small>PLA Chi-Ha Kai on Parade, 1949</small>
 Image:PLA Chi-Ha Kai crew.jpg|<small>PLA crews posing for a photo op</small>

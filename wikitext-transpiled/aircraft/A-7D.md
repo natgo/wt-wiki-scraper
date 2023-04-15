@@ -1,7 +1,7 @@
 {{About
 |about= American strike aircraft '''{{PAGENAME}}'''
-|usage= the other version
-|link= A-7E
+|usage= other versions
+|link= A-7 Corsair II (Family)
 }}
 {{Specs-Card
 |code=a_7d

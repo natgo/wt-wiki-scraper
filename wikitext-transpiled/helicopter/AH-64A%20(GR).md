@@ -1,3 +1,8 @@
+{{About
+| about = American attack helicopter '''{{PAGENAME}}'''
+| usage = other versions
+| link = AH-64 (Family)
+}}
 {{Specs-Card
 |code=ah_64a_greece_usa
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage_{{PAGENAME}}_001.jpg}}

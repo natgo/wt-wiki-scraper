@@ -109,6 +109,7 @@ Since the SA.313B was not routinely equipped with weapons, this issue has been r
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sa_313b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -123,10 +124,11 @@ File:SA 313B WTWallpaper 007.jpg
 </gallery>
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the helicopter;''
-* ''links to approximate analogues of other nations and research trees.''
+* '''Helicopters of the same family'''
+** [[SA 313B Alouette II]]
+* '''Helicopters''' '''of comparable role, configuration and era'''.
+* [[Scout AH.Mk.1]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

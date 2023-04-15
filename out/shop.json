@@ -4017,12 +4017,7 @@
               "reqAir": "",
               "hidden": true
             },
-            {
-              "name": "spitfire_ix_ussr",
-              "rank": 4,
-              "reqAir": "",
-              "hidden": true
-            },
+            { "name": "spitfire_ix_ussr", "rank": 4, "reqAir": "" },
             { "name": "tu-1", "rank": 4, "reqAir": "", "gift": true }
           ]
         ],

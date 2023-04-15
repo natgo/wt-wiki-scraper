@@ -7,7 +7,7 @@
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British destroyer {{Battle-rating}}. It was introduced in [[Update 1.83 "Masters of the Sea"]] as part of the British fleet closed beta test.
 
-HMS ''Armada'' is a Battle-class destroyer. Built near the end of the war, she diverges radically from earlier British destroyers such as the Tribals (e.g. [[HMS Eskimo|HMS ''Eskimo'']]) or the N-class (e.g. [[HMS Nepal|HMS ''Nepal'']]) by the very strong emphasis on anti-aircraft capability, reflected in the dual-purpose main gun turrets located in the bow of the ship and large complement of 40 mm Bofors guns.
+HMS ''Armada'' is a Battle-class destroyer. Built near the end of the war, she diverges radically from earlier British destroyers such as the Tribals (e.g. [[HMS Eskimo|HMS ''Eskimo'']]) or the N-class (e.g. [[HMAS Nepal|HMAS ''Nepal'']]) by the very strong emphasis on anti-aircraft capability, reflected in the dual-purpose main gun turrets located in the bow of the ship and large complement of 40 mm Bofors guns.
 
 == General info ==
 === Survivability and armour ===

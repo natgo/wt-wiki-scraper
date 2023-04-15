@@ -217,6 +217,12 @@
       "visibility": 88
     },
     {
+      "intname": "fr_amd_35_sa35",
+      "ab_top_speed": [80, 47],
+      "rb_top_speed": [72, 43],
+      "visibility": 77
+    },
+    {
       "intname": "fr_amd_35",
       "ab_top_speed": [80, 47],
       "rb_top_speed": [72, 43],
@@ -3521,6 +3527,12 @@
       "ab_top_speed": [44, 6],
       "rb_top_speed": [40, 6],
       "visibility": 90
+    },
+    {
+      "intname": "cn_qn506",
+      "ab_top_speed": [56, 9],
+      "rb_top_speed": [51, 8],
+      "visibility": 200
     },
     {
       "intname": "fr_renault_r39",

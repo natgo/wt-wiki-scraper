@@ -7,7 +7,7 @@
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British destroyer {{Battle-rating}}. It was introduced in [[Update 1.95 "Northern Wind"]].
 
-HMS Kelvin is a member of the trio of J, K, and N classes of destroyers. She is modeled as she was when originally completed in 1939, while her relatives [[HMS Nepal]] and [[HMS Jervis]] are modeled with their wartime refits. Thus, the Kelvin has weaker anti-aircraft defences than her relatives, in exchange for a heavier torpedo broadside.
+HMS Kelvin is a member of the trio of J, K, and N classes of destroyers. She is modeled as she was when originally completed in 1939, while her relatives [[HMAS Nepal]] and [[HMS Jervis]] are modeled with their wartime refits. Thus, the Kelvin has weaker anti-aircraft defences than her relatives, in exchange for a heavier torpedo broadside.
 
 == General info ==
 === Survivability and armour ===

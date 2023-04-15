@@ -87,15 +87,19 @@ The helicopter, while appearing frail, is quite robust as well as versatile in i
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sa_313b_france Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|2RX3Y1-HJHE|'''The Shooting Range #142''' - ''Pages of History'' section at 04:25 discusses the SUD Aviation Alouette.}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the helicopter;''
-* ''links to approximate analogues of other nations and research trees.''
+
+* '''Rotor craft of the same family'''
+** [[SA 313B Alouette II (Germany)]]
+
+* '''Rotorcraft of comparable role, configuration and era'''
+* [[Scout AH.Mk.1]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

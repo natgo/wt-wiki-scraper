@@ -1027,7 +1027,7 @@
     { "intname": "cn_bt_5" },
     { "intname": "cn_type_95_ha_go" },
     { "intname": "cn_t_62", "wikiname": "T-62 545 (China)" },
-    { "intname": "cn_qn506" },
+    { "intname": "cn_qn506", "wikiname": "QN506" },
     { "intname": "cn_ztz_96a_race" },
     { "intname": "it_ab_41", "wikiname": "AB 41" },
     { "intname": "it_m11_39", "wikiname": "M11/39" },
@@ -1196,7 +1196,7 @@
       "wikiname": "AMX-30 Super",
       "store": "6881"
     },
-    { "intname": "fr_amd_35_sa35" },
+    { "intname": "fr_amd_35_sa35", "wikiname": "AMD.35 (SA35)" },
     { "intname": "fr_lvt_bofors", "wikiname": "LVT-4/40" },
     { "intname": "fr_lorraine_155", "wikiname": "Lorraine 155 Mle.50" },
     { "intname": "fr_panhard_ebr_1954", "wikiname": "E.B.R. (1954)" },
@@ -1564,7 +1564,7 @@
       "wikiname": "F-5A",
       "marketplace": "id50153_f_5a_usa"
     },
-    { "intname": "a_7k" },
+    { "intname": "a_7k", "wikiname": "A-7K" },
     { "intname": "uav_quadcopter" },
     { "intname": "ucav_recon_micro" },
     { "intname": "ucav_recon_micro_flir" },
@@ -2952,7 +2952,7 @@
       "intname": "germ_battlecruiser_von_der_tann",
       "wikiname": "SMS Westfalen"
     },
-    { "intname": "germ_battleship_scharnhorst", "wikiname": "Smelyi" },
+    { "intname": "germ_battleship_scharnhorst", "wikiname": "Scherbakov" },
     { "intname": "germ_destroyer_class1924_iltis", "wikiname": "M-17" },
     {
       "intname": "germ_destroyer_class1924_jaguar1941",
@@ -3027,7 +3027,7 @@
       "wikiname": "Mikhail Kutuzov",
       "marketplace": "items_Maxim Gorky (USSR)"
     },
-    { "intname": "ussr_cruiser_shcherbakov" },
+    { "intname": "ussr_cruiser_shcherbakov", "wikiname": "Smelyi" },
     { "intname": "ussr_destroyer_7y_stroyny", "wikiname": "Sverdlov" },
     { "intname": "ussr_destroyer_pr41_neustrashimy", "wikiname": "OD-200" },
     { "intname": "ussr_cruiser_voroshilov", "wikiname": "Ya-5M" },
