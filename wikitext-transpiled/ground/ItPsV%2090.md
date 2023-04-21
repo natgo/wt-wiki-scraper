@@ -31,7 +31,7 @@ Generally, one should try their best to remain unseen by enemy armour, the guns 
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 40 mm (51°) ''Lower Front Plate'' <br> 35mm (53°-82°) ''Upper Front Plate'' || 10 mm ''Top'' <br> 35 mm ''Mid'' <br> 20 mm ''Bottom'' || 20mm || 20mm
+| Hull || 40 mm (51°) ''Lower Front Plate'' <br> 35 mm (53°-82°) ''Upper Front Plate'' || 10 mm ''Top'' <br> 35 mm ''Mid'' <br> 20 mm ''Bottom'' || 20 mm || 20 mm
 |-
 | Turret || 25 mm (19°-39°) <br> 30 mm ''Turret ring'' || 20 mm (varied angles) || 20 mm || 10 mm
 |-
@@ -45,7 +45,7 @@ Generally, one should try their best to remain unseen by enemy armour, the guns 
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
 
-{{tankMobility}}
+{{tankMobility|abMinHp=2,131|rbMinHp=1,327}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -128,6 +128,9 @@ The ItPsV-90, or Ilmatorjuntapanssarivaunu 90, is a Finnish SPAAG. Used for low-
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=sw_itpsv_90 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
 ;Videos
 {{Youtube-gallery|GLhl4uB0QhU|'''The Shooting Range #347''' - ''Metal Beasts'' section at 00:26 discusses the {{PAGENAME}}.}}
 
@@ -135,10 +138,12 @@ The ItPsV-90, or Ilmatorjuntapanssarivaunu 90, is a Finnish SPAAG. Used for low-
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+;Other vehicles of similar configuration and role
+* [[Gepard]]
+* [[Chieftain Marksman]]
+* [[Type 87]]
+* [[PGZ09]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

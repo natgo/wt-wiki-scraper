@@ -4,8 +4,9 @@
 }}
 
 == Description ==
-<!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian battleship {{Battle-rating}}. It was introduced in [[Update "Sky Guardians"]].
+<!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->The RN Duilio, also known as the RN Caio Duilio, is the sister ship of the previous battleship, RN Andrea Doria, laid down on 24 February 1942, launched on 24 April 1913 and completed and entered into service on 10 May 1915, the ship took part only in exercises, the ship did not see any operations or misses because naval supremacy in the Mediterranean was in favour of the Allies and not the enemy, it was later rebuilt in the Ansaldo Shipyard in Genoa from 1937 until her return to service on 15 July 1940, the RN Duilio got one of the most extensive modernisations that were ever given to any dreadnoughts, resulting in vessels that were almost unrecognisable as compared to before, the RN Duilio took part in several activities during WW2, though the ship never got a chance to engage another surface target and arguably the most interesting part of its service life was when it was torpedoed in Taranto by the British. The ship continued serving in the Italian Navy after the war and was decommissioned in late 1956, being sold for scrap the next year. 
+
+The RN Duilio, also known as the RN Caio Duilio added in [[Update "Sky Guardians"|"Sky Guardians" update]], is the sister ship of the previous battleship in the tech tree, RN Andrea Doria, compared to the sister ship, the RN Duilio in game is with the configuration of 1942, whose version had one of the most extensive modernisations that were ever given to any dreadnoughts, resulting in vessels that were almost unrecognisable as compared to before, which you can see by comparing the Andrea Doria and Duilio in game, the ship's armament is very strong, from the main armament consisting of two 320mm twin turrets that can damage any ship you encounter without any problems, the secondary armament instead consists of four 135mm twin turrets, very useful for destroying smaller targets such as destroyers and cruisers, and finally the anti-aircraft armament that in comparison to the RN Andrea Doria has been greatly enhanced, consisting of ten 90mm cannons, three 37mm single, eight 37mm twin and finally eight twin 20mm, you can have a decent protection from enemy aircraft, and finally to speak of manoeuvrability and speed is not bad for a Battleship.
 
 == General info ==
 === Survivability and armour ===
@@ -61,31 +62,46 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian battleship {{Battle-ra
 '''Pros:'''
 
 * Turret barbettes are protected by two layers of steel, giving a total of 290+ mm armour thickness. The magazines are also well protected
-* Fast and manoeuvrable, with 5°/sec the turrets can also keep up its aim during a turn
+* Relatively fast and manoeuvrable (compared to previous dreadnoughts)
+* Good 5°/sec traverse rate on main turrets
 * 320 mm APCBC shell features outstanding ballistic characteristics and high penetration
+* Decent AA capability
 
 '''Cons:'''
 
 * Crew compartments are compact and cramped in midship (at second deck level), taking hit will result in heavy crew loss
+* 90 mm turrets can easily be taken out by HE splash and rapid lower calibre hits
 * 320 mm gun dispersion is high for a large-calibre naval gun
 * Low ammo capacity, 65 rounds per gun is not sufficient in a prolonged battle
+* Very poor bursting charge for the main calibre AP shells
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+Launched on 24 February 1942, launched on 24 April 1913 and completed and entered service on 10 May 1915, the ship only participated in exercises, later to be rebuilt at the Ansaldo Shipyard in Genoa from 1937 until her return to service on 15 July 1940.
+
+The RN Duilio, also known as the Caio Duilio, is the sister ship of the RN Andrea Doria. Built in the Dreadnought era, the ship did not enter the action in World War I due to Allied naval supremacy in the Mediterranean. What makes this ship special is the refit it underwent in the years between the wars. Due to the lack of other options, the Italians gave the old battleships of the Conte di Cavour class and the Andrea Doria class the most extensive modernisations ever made to any dreadnought, resulting in ships that were almost unrecognisable from before.
+
+She was later rebuilt at the Ansaldo shipyard in Genoa from 1937 until her return to service on 15 July 1940.
+
+The refit for this vessel consisted of Extensive modifications to the hull including a rebuild of the bow and stern, lengthening the ship by almost 11 metres, two propeller shafts removed, the old turbines replaced by new geared turbines, the ageing machinery, powerplant and all 20 old boilers were ripped out and replaced with modern systems and 8 new superheated oil-fired boilers, while the amidships main battery turret was taken out to make way for an entire rearrangement of the machinery and funnels, increasing the maximum speed by about 10km/h. The remaining main guns were bored out an extra 15 mm to allow the guns to fire heavier 320 mm shells, the turrets were retrofitted with electric power and their maximum elevation was increased, the obsolete torpedo tubes were removed, several 37 mm and 20 mm anti-air guns were added, the old casemate 152 mm guns were torn out and replaced with four forward-facing triple 135 mm turrets and several dual-purpose single-gun 90 mm turrets which were placed along the side of the superstructure, which itself was also completely rebuilt, including a new conning tower and modern rangefinding systems. The deck armour was increased to a total of 135 mm and a Pugliese torpedo defence system was installed.
+
+The RN Duilio took part in several activities during WW2, though the ship never got a chance to engage another surface target and arguably the most interesting part of its service life was when it was torpedoed in Taranto by the British. The ship continued serving in the Italian Navy after the war and was decommissioned in late 1956, being sold for scrap the next year.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=it_battleship_caio_duilio Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the ship;''
-* ''links to approximate analogues of other nations and research trees.''
+;[[Duilio (Family)|Related development]]
+
+* [[RN Andrea Doria]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

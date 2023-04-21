@@ -103,10 +103,9 @@ As a result, Andrea Doria survived The Great War without great incident and cont
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the ship;''
-* ''links to approximate analogues of other nations and research trees.''
+;[[Duilio (Family)|Related development]]
+* [[RN Duilio]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

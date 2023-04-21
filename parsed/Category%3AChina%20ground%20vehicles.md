@@ -178,6 +178,8 @@
 {{Tree-Unit|cn_ztz_96a_prot}}
 |
 {{Tree-Unit|cn_t_62}}
+{{Tree-Skip}}
+{{Tree-Unit|cn_qn506}}
 
 {{Tree-Line|VII Rank}}
 |

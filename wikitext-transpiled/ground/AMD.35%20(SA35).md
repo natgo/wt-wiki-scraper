@@ -125,10 +125,10 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French light tank
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
-* ''topic on the official game forum;''
-* ''other literature.''
 
+* [[wt:en/news/8172-development-repair-factory-amd-35-sa35-en|[Devblog] Repair Factory: AMD 35 SA35]]
+
+{{TankManufacturer Panhard}}
 {{France light tanks}}
 {{France premium ground vehicles}}
 [[Category:Wheeled ground vehicles]]

@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Italian medium tank {{Battle-rating}}. It was introduced in [[Update "Ixwa Strike"]]. It differs from the German Pz.IV G by its longer gun, protection in the turret and its curved radio antenna.
+During the advance of the Allies on Italian territory in 1943, Germany began to send different types of vehicles to Italy (RSI) to increase the effectiveness and in turn improve the defence of the territory, the vehicles were aircraft, light vehicles, transport vehicles, cannons and eventually tanks, of these tanks, the most particular ones were Pz. IV G, Pz.III N and eventually StuG III G, these were to be used in the 1st Armoured Division Black Shirts "M" formed in the same year, and divided into three companies, the first of which had Pz. IV G in 12 examples, in particular these Pz.IV G will be the last to be produced because later will come to the H version and later the J version do not get confused by the protection of the turret, the Italian Pz.IV G has two particular differences, the first added protection on the turret, the second a more elongated cannon, the Italian Pz.IV G will not fight because the division was still in training and because eventually will be recovered by the Germans only to be captured by the Allies during the advance towards Germany.
+
+In the game the italian Pz.IV G will be added as a premium with the [[Update "Ixwa Strike"|"Ixwa Strike" update]], the vehicle is very balanced for all its stats, and the armament is capable of destroying any target at its level without any problems and also destroy it in one shot, thanks to the smoke grenades you can run away from the enemy, confuse it or do a tactical attack, its acceleration and speed also allow you to position yourself in places where you are sure to destroy enemies or capture points and defend them.
 
 == General info ==
 === Survivability and armour ===
@@ -170,6 +172,7 @@ The Italian versions would remove this, as was the case for many Italian vehicle
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_pzkpfw_IV_ausf_G Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

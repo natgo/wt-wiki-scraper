@@ -5233,14 +5233,7 @@
             { "name": "meteor_fmk8_reaper", "rank": 5, "reqAir": "" },
             { "name": "dh_110_sea_vixen", "rank": 5, "reqAir": "" }
           ],
-          [
-            {
-              "name": "hunter_f9_rhodesia",
-              "rank": 5,
-              "reqAir": "",
-              "hidden": true
-            }
-          ]
+          [{ "name": "hunter_f9_rhodesia", "rank": 5, "reqAir": "" }]
         ],
         [
           [

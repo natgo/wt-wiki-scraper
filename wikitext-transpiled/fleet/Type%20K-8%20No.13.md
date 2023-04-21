@@ -95,7 +95,7 @@ With the benefit of being a whole battle rating lower compared the 1944 refit, i
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-Submarine chasers of the project number K8, also known as the No.13-class submarine chasers (第十三号型駆潜艇, Dai 13 Gō-gata Kusentei), were built under Maru 4 Keikaku programme, totalling 15 ships built from 1940 till 1942. The primary principle of the design was to build capable ships quickly and cheaply. The resulting design used cheaper, more common steel found on merchant ships, not military units. But an additional reinforcements created a notably sturdier hull, which also helped avoiding secondary vibrations due to the sonar. Furthermore, the ship had an increased ballast, lowered centre of gravity and an increased hull width what resulted in a ship having displacement roughly 1.5 times the one of its predecessor, the [[Type K-7 / No.4 Class|No.4-class]].
+Submarine chasers of the project number K8, also known as the No.13-class submarine chasers (第十三号型駆潜艇, Dai 13 Gō-gata Kusentei), were built under Maru 4 Keikaku programme, totalling 15 ships built from 1940 till 1942. The primary principle of the design was to build capable ships quickly and cheaply. The resulting design used cheaper, more common steel found on merchant ships, not military units. But an additional reinforcements created a notably sturdier hull, which also helped avoiding secondary vibrations due to the sonar. Furthermore, the ship had an increased ballast, lowered centre of gravity and an increased hull width what resulted in a ship having displacement roughly 1.5 times the one of its predecessor, the [[Type K-7 No.4|No.4]].
 
 ===Ships of class===
 {{Sp-begin|Ships of class}}
@@ -255,7 +255,7 @@ File:Type K-8 Class No.13 Kusentei (1942) WTWallpaper 004.jpg|
 * ''links to approximate analogues of other nations and research trees.'' -->
 Ships of comparable role, configuration and era
 
-* [[Type K-7 / No.4 Class]] (predecessor)
+* [[Type K-7 No.4]] (predecessor)
 * [[Pr.191M]] (comparable USSR armoured gun boat)
 
 == External links ==

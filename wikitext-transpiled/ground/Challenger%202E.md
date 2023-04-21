@@ -39,8 +39,7 @@ Furthermore, the Challenger 2E lacks any additional armour packages, and does no
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 38-50 mm (60-83°) ''Upper glacis'' <br> 70 mm (28°) ''Lower glacis'' <br>
-60 mm (0-83°) ''Driver's port'' || 25 mm (71°) ''Top'' <br> 25 mm ''Middle'' <br> 38 mm (14°) ''Bottom'' || 50 mm (29-65°) || 10-20 mm (79-90°)
+| Hull || 38-50 mm (60-83°) ''Upper glacis'' <br> 70 mm (28°) ''Lower glacis'' <br> 60 mm (0-83°) ''Driver's port'' || 25 mm (71°) ''Top'' <br> 25 mm ''Middle'' <br> 38 mm (14°) ''Bottom'' || 50 mm (29-65°) || 10-20 mm (79-90°)
 |-
 |Turret || 100 mm (50°) ''Turret cheeks'' <br> 30 mm (13-50°) ''Gun mantlet'' || 10-20 mm (8-10°) || 20 mm (18°) || 10-38 mm (0-15°)
 |-
@@ -121,6 +120,7 @@ Where the Challenger 2E really shines, however, is its immense rate of fire. It 
 ! 6th<br>rack empty
 ! 7th<br>rack empty
 ! 8th<br>rack empty
+! 9th<br>rack empty
 ! Visual<br>discrepancy
 |-
 | '''50''' || Projectiles <br> Propellants || 48&nbsp;''(+2)''<br>45&nbsp;''(+5)'' || 45&nbsp;''(+5)''<br>39&nbsp;''(+11)'' || 43&nbsp;''(+7)''<br>31&nbsp;''(+19)'' || 41&nbsp;''(+9)''<br>22&nbsp;''(+28)'' || 34&nbsp;''(+16)''<br>14&nbsp;''(+36)'' || 29&nbsp;''(+21)''<br>5&nbsp;''(+45)'' || 5&nbsp;''(+45)''<br>1&nbsp;''(+49)'' || 4&nbsp;''(+46)''<br>&nbsp; || 1&nbsp;''(+49)''<br>&nbsp; || No
@@ -202,6 +202,9 @@ By 2005, the Challenger 2E project was entirely abandoned by BAE systems.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_challenger_2e Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|7J9VTmvFRT4|'''The Shooting Range #346''' - ''Metal Beasts'' section at 00:25 discusses the {{PAGENAME}}.}}

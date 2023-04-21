@@ -118,7 +118,7 @@ Gun convergence is not really a problem since all of these weapons are clustered
 
 '''Air RB'''
 
-Typical Yakovlev strategies can be applied to the Yak-3. At the start of the match, climb and try to gain some altitude, perhaps to at least 3000-4000 meters. Some players may stay at tree-top level, but having altitude gives more room and energy to manoeuvre and escape. If using MEC, turn up the prop pitch to around 80-90% and open the radiators slightly; this will give maximum propeller thrust while keeping the engine nice and cool. If not using MEC, leave the throttle at around 90%. The Yak-3 does not have WEP in Realistic Battles.
+Typical Yakovlev strategies can be applied to the Yak-3. At the start of the match, climb and try to gain some altitude, perhaps to at least 3,000-4,000 m. Some players may stay at tree-top level, but having altitude gives more room and energy to manoeuvre and escape. If using MEC, turn up the prop pitch to around 80-90% and open the radiators slightly; this will give maximum propeller thrust while keeping the engine nice and cool. If not using MEC, leave the throttle at around 90%. The Yak-3 does not have WEP in Realistic Battles.
 
 As you get closer to the front lines, examine what the enemy team is doing. If there are enemies like Bf 109s looming at high altitudes, avoid approaching them directly. Ideally, they will dive on teammates first. If they get greedy and start dogfighting, you can pounce on them and take them out. If they start diving on you, turn towards teammates and enter a shallow dive. If their energy state is not much higher than yours, they may not have enough dive speed to catch you, and the Yak-3's low altitude speed can be put to good use in bleeding their energy. If they continue to chase you futilely after their energy has been bled, you can nose up and climb a bit before circling around and starting a dogfight.
 
@@ -183,7 +183,7 @@ Bring out the Yak-3 if enemy fighters are in the air or will be soon. Climb a bi
 
 The idea to produce a new fighter for the Red Army Air Force went as far back as 1941. It was then that the Yakovlev Design Bureau presented the I-30 prototype, intended as an alternative to the earlier Yak-1 design. However, the German invasion of the USSR, as well as aluminium shortages, meant that the project had to be put on hold. Yakovlev resumed the development in 1943 while working on an upgraded version of the Yak-1 fighter. This time, it was decided that a new aircraft should be produced to completely replace the Yak-1 and Yak-7 models. The new machine was dubbed as the Yak-3 and entered service with the Red Army Air Force in 1944.
 
-The new fighter quickly became very popular with Soviet pilots. They highly praised its solid armament of two Berezin UBS 12.7 mm machine guns and one ShVAK 20 mm cannon as well as ease of piloting and superb low-altitude performance. Marcel Albert, the top scoring French ace of World War II, cited the Yak-3 as one of the best fighters of the war, along with the P-51 Mustang and the Supermarine Spitfire. After the war, the Yak-3 was also used by the Air Forces of Socialist Yugoslavia and Poland.<ref name="forum">[https://warthunder.com/en/news/2693--en <nowiki>[Aircraft Profile] Yak-3</nowiki>]</ref>
+The new fighter quickly became very popular with Soviet pilots. They highly praised its solid armament of two Berezin UBS 12.7 mm machine guns and one ShVAK 20 mm cannon as well as ease of piloting and superb low-altitude performance. Marcel Albert, the top scoring French ace of World War II, cited the Yak-3 as one of the best fighters of the war, along with the P-51 Mustang and the Supermarine Spitfire. After the war, the Yak-3 was also used by the Air Forces of Socialist Yugoslavia and Poland.<ref name="forum">[[wt:en/news/2693--en|[Aircraft Profile] Yak-3]]</ref>
 
 The Yak-3P was produced from April 1945 until mid-1946, armed with 3 × 20 mm Berezin B-20 cannon with 120 rounds for the middle cannon and 130 rpg for the side weapons. The three-cannon armament with full ammunition load was actually 11 kg (24 lb) lighter than that of a standard Yak-3, and the one-second burst mass of 3.52 kg (7.74 lb) was greater than that of most contemporary fighters. Starting in August 1945, all Yak-3 were produced in the Yak-3P configuration with a total of 596 built.
 
@@ -192,7 +192,7 @@ The Yak-3P was produced from April 1945 until mid-1946, armed with 3 × 20 mm Be
 {{Navigation-First-Simple-Line}}
 The Yak-3 was a Soviet single-engine fighter of the WWII era. It was the first combat aircraft designed by Alexander Yakovlev's construction bureau. The Yak-3 was a further modification of the Yak-1, produced in 1944 and 1945, with a total of 4,848 built, and considered one of the best fighters of the war. In February 1943, a new Yak-1M variant was completed. It was a further development of the Yak-1, differing from it mainly in lower weight and smaller wing span.
 
-By September 1943, yet another improved variant was ready, designated Yak-1M Dubler, on which the canvas skin on the tail section was replaced with 2 mm plywood, and oil and water radiators were improved. The Dubler also had a new mastless antenna, a ring sight instead of a reflector sight, improved armour and a new propeller. Test pilots were impressed by the new prototype. Their report stated in part: "Yak-1M possessed excellent horizontal, and especially vertical, maneuverability. Top speed greatly improved compared to earlier serial-production Yaks. Despite the improved performance, the aircraft remains easy to fly and does not require extensive pilot training". Therefore, the new modification went into production, receiving a new designation, Yak-3.
+By September 1943, yet another improved variant was ready, designated Yak-1M Dubler, on which the canvas skin on the tail section was replaced with 2 mm plywood, and oil and water radiators were improved. The Dubler also had a new mastless antenna, a ring sight instead of a reflector sight, improved armour and a new propeller. Test pilots were impressed by the new prototype. Their report stated in part: "Yak-1M possessed excellent horizontal, and especially vertical, manoeuvrability. Top speed greatly improved compared to earlier serial-production Yaks. Despite the improved performance, the aircraft remains easy to fly and does not require extensive pilot training". Therefore, the new modification went into production, receiving a new designation, Yak-3.
 
 One of the most memorable air battles for the Yak-3 took place on 16th July 1944, when the plane showed it could confidently engage superior enemy forces. On that day, 10 Yak-3s met 8 Bf 109s and 4 Fw 190s, with the battle eventually growing to 18 Soviet and 24 German planes. In the end, 15 German planes were shot down, for the loss of a single Yak-3.
 {{Navigation-End}}
@@ -212,8 +212,10 @@ One of the most memorable air battles for the Yak-3 took place on 16th July 1944
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-;Aircraft of comparable role, configuration and era
+;Related development
+* [[Yak-3 (Family)]]
 
+;Aircraft of comparable role, configuration and era
 * [[Yak-9 (Family)]]
 
 == External links ==

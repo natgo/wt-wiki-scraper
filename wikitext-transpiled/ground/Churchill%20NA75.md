@@ -4,7 +4,7 @@
 |link = Churchill (Family)
 }}
 {{Specs-Card
-|code=uk_churchill_na75	
+|code=uk_churchill_na75
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
@@ -28,17 +28,13 @@ The Churchill NA75 has the ability to angle the tank to improve overall frontal 
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
 | Hull || 89 mm ''Front plate'' <br> 89 + 89 mm ''Front plate (MG Port)'' <br> 38 mm (70°) ''Front glacis'' <br> 76.2 mm (20°) ''Lower glacis''
-| 64 mm <br> 76.2 mm ''Side hatch'' <br> 38 mm ''Edges'' <br> 26 + 38 mm ''Rear''
-| 50.8 mm <br> 25.4 mm (71°) ''Bottom''
-| 15.87 mm
+| 64 mm <br> 76.2 mm ''Side hatch'' <br> 38 mm ''Edges'' <br> 26 + 38 mm ''Rear'' || 50.8 mm <br> 25.4 mm (71°) ''Bottom'' || 15.87 mm
 |-
 | Turret || 89-104 mm (1°-38°) ''Turret front'' <br>76.2 mm (5°-65°) + 50.8 mm (10°-63°) ''Gun mantlet'' || 76-80 mm || 76-80 mm || 35-45 mm
 |-
-| Cupola || 19.05 mm || 19.05 mm || 19.05 mm || 19.5 mm ''Front'' door
-25.4 mm ''Back'' door
+| Cupola || 19.05 mm || 19.05 mm || 19.05 mm || 19.5 mm ''Front'' <br> 25.4 mm ''Back''
 |-
 |}
-
 '''Notes:'''
 
 * Suspension wheels and chassis construction are 20 mm thick while tracks are 30 mm thick.
@@ -49,7 +45,7 @@ The Churchill NA75 has the ability to angle the tank to improve overall frontal 
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
 
-{{tankMobility}}
+{{tankMobility|abMinHp=452|rbMinHp=310}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -59,11 +55,11 @@ The Churchill NA75 has the ability to angle the tank to improve overall frontal 
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-{{main|OQF Mk.V (75 mm)}}
+{{main|M3 (75 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[OQF Mk.V (75 mm)|75 mm OQF Mk.V]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[M3 (75 mm)|75 mm M3]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
@@ -98,6 +94,7 @@ The Churchill NA75 has the ability to angle the tank to improve overall frontal 
 '''Notes:'''
 
 * Racks disappear after all shells in the rack have been fired.
+{{Clear}}
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
@@ -120,7 +117,6 @@ The Churchill NA75 has the ability to angle the tank to improve overall frontal 
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
 
@@ -143,7 +139,9 @@ The Churchill NA75 has the ability to angle the tank to improve overall frontal 
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_churchill_na75 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
@@ -154,8 +152,6 @@ The Churchill NA75 has the ability to angle the tank to improve overall frontal 
 * [[Churchill I]]
 * [[Churchill III]]
 * [[Pz.Kpfw. Churchill (Germany)|▀Pz.Kpfw. Churchill]]
-
-'''See [[M4 Sherman (Family)]] for vehicles sharing the [[M3 (75 mm)]] cannon.'''
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

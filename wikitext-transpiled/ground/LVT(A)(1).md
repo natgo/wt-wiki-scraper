@@ -19,6 +19,7 @@ The LVT is unique among the Rank I vehicles, given its ability to float across d
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 Its large and spacious hull might seem hard to knock out all of its crew, but that's only true when you are getting shot from the side. From your side, there is a huge empty area between the driving compartment and the fighting compartment that will absorb any shell, regardless of their explosive fillers. However an experienced player will know to shoot at these two compartments and avoid the empty space. From the front, the spacious hull does not help to keep the crew safe as a penetrating shell will travel through the empty space and hit any crew at the back, so you could die sooner than you expected. Avoid tanks with solid shots, for example British/Swedish tanks.
+The deadliest threats are HMG and autocannon mounted vehicles such as the Pz.IIs, T-60, and AA guns. They can quickly chew through all of the crew.
 
 '''Armour type:'''
 
@@ -29,17 +30,15 @@ Its large and spacious hull might seem hard to knock out all of its crew, but th
 |-
 ! Armour !! Front (Slope angle°) !! Sides !! Rear !! Roof
 |-
-| Hull || 12.7 mm (31°) ''Front plate'' <br> 6.35 mm (83-84°) ''Upper glacis'' <br> 6.35 mm (41-81°) ''Lower glacis'' || 6.35 mm (11-51°) ''Top'' <br> 6.35 + 6.35 mm ''Bottom'' || 6.35 mm (0-62°) || 6.35 mm
+| Hull || 12.7 mm (30°) ''Front plate'' <br> 6.35 mm (83-84°) ''Upper glacis'' <br> 6.35 mm (41-81°) ''Lower glacis'' || 6.35 mm (11-51°) ''Top'' <br> 6.35 + 6.35 mm ''Bottom'' || 6.35 mm ''Top'' <br> 6.35 mm (62°) ''Bottom'' || 6.35 mm (7°) ''Front glacis'' <br> 6.35 mm <br> 5 mm ''Engine vent''
 |-
-| Turret || 12.7 mm (10°) ''Turret front'' <br> 50.8 mm (1-81°) ''Gun mantlet'' || 12.7 mm || 12.7 mm || 6 mm
+| Turret || 12.7 mm (10°) ''Turret front'' <br> 50.8 mm (1-81°) ''Gun mantlet'' || 12.7 mm || 12.7 mm || 6 mm (16°) ''Front'' <br> 6 mm ''Rear''
 |-
 |}
 '''Notes:'''
 
 * Suspension wheels and tracks are 15 mm thick.
-* Front hull has flat armour area where driver & co-driver sits.
-
-The deadliest threats are HMG and autocannon mounted vehicles such as the Pz.II's, T-60, and AA guns. They can quickly chew through all of the crew.
+* Belly armour is 6.35 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}

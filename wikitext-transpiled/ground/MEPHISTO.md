@@ -39,7 +39,7 @@ The smoke launchers on the MEPHISTO fire in every direction and the grenades exp
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-Mobility-wise, the MEPHISTO leaves nothing to be desired. It is a fast and agile platform with a very high top speed. However, like other wheeled vehicles, it lacks traction in muddy and snowy terrain, draining the speed significantly. While it does not lack a decent reverse speed, it is certainly not the best, it can reach up to 9 km/h. It holds a significantly amazing acceleration and an amazing turn rate as the short length and both axle turn make it capable to do a full 360° turn in ~4-8 seconds depending on terrain. The MEPHISTO is also fully amphibious, meaning it can cross and reach specific places in the maps inaccessible to other vehicles.
+Mobility-wise, the MEPHISTO leaves nothing to be desired. It is a fast and agile platform with a very high top speed. However, like other wheeled vehicles, it lacks traction in muddy and snowy terrain, draining the speed significantly. It can reach up to -14 km/h in reverse. It holds a significantly amazing acceleration and an amazing turn rate as the short length and both axle turn make it capable to do a full 360° turn in ~4-8 seconds depending on terrain. The MEPHISTO is also fully amphibious, meaning it can cross and reach specific places in the maps inaccessible to other vehicles.
 
 {{tankMobility|abMinHp=312|rbMinHp=195}}
 

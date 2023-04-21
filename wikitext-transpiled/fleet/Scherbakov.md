@@ -1,6 +1,7 @@
 {{Specs-Card
 |code=ussr_cruiser_shcherbakov
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|market=id50216_scherbakov_ussr
 }}
 
 == Description ==
@@ -84,8 +85,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet light cruiser {{Ba
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
-* ''topic on the official game forum;''
-* ''other literature.''
+
+* [[wt:en/news/8181-development-repair-factory-shcherbakov-light-cruiser-en|[Devblog] Repair Factory: Shcherbakov light cruiser]]
 
 {{USSR light cruisers}}

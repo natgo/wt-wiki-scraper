@@ -99,7 +99,9 @@ The ship's namesake is [[wikipedia:René Duguay-Trouin|René Duguay-Trouin]] (16
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=fr_cruiser_dugauy_class_dugauy_trouin Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

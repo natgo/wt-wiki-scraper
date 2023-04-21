@@ -5,14 +5,16 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-rating}}. It was introduced in [[Update "Direct Hit"]].
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-rating}}. It was introduced in [[Update "Direct Hit"]]. This aircraft represents the first entry of the French carrier-based air force into the supersonic era. The Crusader is a relatively difficult aircraft to master, especially when considering its opponents in the battle rating. It represents the continuous improvement of French armaments, installed on a relatively old machine. The result is a curious mix of early supersonic jets flight characteristics, with 70's era available weaponry.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
+The French Crusader is a very agile aircraft, propelled by a powerful afterburning jet engine. When equipped with its new boosters and G-suit, it is not uncommon to engage enemy aircrafts with double digit load factors. The complement of missiles is installed on horizontal hardpoints, affixed to the fuselage, and the whings are thus free of load, and can support extremely agressive manoeuvers. Also, it's enormous tail planes gives the Crusader high angles of attack capabilities.
 
+The aircraft does not compress at high speeds but will tend to consume its energy while dogfighting relatively quickly, when compared to the extremely light F-5, or the gigantically powered Mig-21. This means that agressive manoeuvers should be reserved for clean kills, whereas speed is the Crusader's ally in furballs, constantly harrassing enemies, engaged elsewhere, or unaware of its presence.
+Speed-wise, the French Crusader is victim to a strange effect, that makes it often stuck at Mach 1.00, close to sea level. while it's acceleration is on-par, when compared to its contemporaties. Researching new airframe and engine upgrades tend to mitigate this effect, but never aleviate it completely. 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
 ! colspan="2" | Max Speed<br>(km/h at 10,668 m)
@@ -41,7 +43,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-ra
 | ✓ || X || ✓ || ✓ || ✓ || X     <!-- ✓ -->
 |-
 |}
+Warning: The Crusader is a heavy carrier-borne fighter. Because of its weight, it is constructed with a ''variable angle of attack wing plane.'' This means that the wings can change position to act as a single, giant, take-off flap (see picture). This feature is NOT associated to the "variable geometry" control input, but rather is considered the Landing position of the flaps.
 
+It is possible to use this feature to its advantage in a low speed dogfight, and using the higher angle of attack to turn into the circle of the opponent, sacrificing your own speed in the process, to attack with a missile or gun fire. Note that wether the manoeuver succeeds or fails, the Crusader with be left in a extremely vulnerable position until it regains speed.
 {| class="wikitable" style="text-align:center" width="50%"
 |-
 ! colspan="7" | Limits
@@ -105,10 +109,12 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-ra
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+The F8E(FN) possesses no armour on any part of the aircraft. it has a bulletproof glass front canopy, 25mm thick, reclined at 70°, and self-sealing tanks. These protection devices are of very little help, because such a thickness of bulletproof glass will virtually never stop cold war era jet guns, ranging in the 20-30 mm of diameter, and the self-sealing tanks are incapable of sealing even a single hole of such a diameter. Overall, the Crusader has little chances of surviving a missile hit, but can sometimes be seen surviving a 20 mm volley, just enough to get its pilot back to base, although it remains a minority of occurences.
 
 === Modifications and economy ===
-{{Specs-Economy}}
+As any fighter of its battle-rating, the missiles complement are an absolute priority, multiplying the capabilities of the aircraft tenfold. Every missile type is stacked in a single line, and the aircraft is the last of its line, meaning each component is very expensive, RP wise. Nevertheless, each new missile component is an upgrade from the last, finishing with the dreaded Matra 550 Magic 1 missile.
+
+The components associated with the airflow dynamics of the aircraft are also important.{{Specs-Economy}}
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
@@ -120,6 +126,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-ra
 The '''''{{PAGENAME}}''''' is armed with:
 
 * 4 x 20 mm Browning-Colt Mk12 Mod 3 cannons, cheek-mounted (144 rpg = 576 total)
+
+The Mk12 Browning-Colt 20mm guns are stacked in the center of the aircraft, on each side of the air intake. It is to be noted that unlike the French DEFA 30mm guns, that are on every French made aircrafts from 8.3 up to this battle-rating, these guns carry a much smaller explosive charge per round, but at a substantially higher velocity, allowing to fire at opponents with a lower lead.
+
+Warning: These cannons can and will overheat extremely quickly, after a salvo of approximately 1.2 - 1.4 seconds. Short bursts are advised, as they are often sufficient and conserve ammunition.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -136,9 +146,35 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 1 x Matra R530 missile + 1 x Matra R530E missile
 * 2 x Matra R550 Magic 1 missiles
 
+The whole range of suspended armament available to the French F8E(FN) are exclusively air-to-air missiles.
+
+The AIM-9B Sidewinder are of poor performance at this tier and can only be used against players that are unaware of the Crusader's presence. They are sufficient to engage and destroy AI aircrafts to gain the necessary research points to unlock the next missiles. Note that these missiles are the only ones that can be carried in a cluster of four.
+
+The Matra 530 is a good upgrade from the Sidewinder-B. The Radar guided 530 gives the Crusader BVR capabilities, and all aspect capabilities, that are superior in range (albeit less agile) to the radar guided AIM-9C carried by the American counterpart of the F8E. The usage of a radar guided missile with a flare-less aircraft can be dangerous because the optimal altitudes of the missile will not allow the F8E to evade any incoming enemy threats, if they also carry radar missiles.
+
+The Matra 530E, unlocked after the 530 is a viable alternative to the 530 if the player  has not mastered the radar guidance, or simply doesn't like the radar guided version.
+
+At rank 4 of modifications, the Matra 550 MAGIC 1 is unlocked. With its 30G overload, and Mach 3.00 max speed, this missile is a revolution in the arsenal of the Crusader, giving it the capability to fire a missile in dogfight, as a snap-fire, or off-boresight. The MAGIC 1 is also slaved to the radar, giving it an even higher hit-probability if the target is tracked by radar at launch.
+
+Overall, the complement of missiles available to the F8E(FN) is representative to the French cold war missile arsenal, with different engagement methods, tracking systems, and size. 
+
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+The entirety of the tactics available to the F8E(FN) are limited by its lack of flares. The French Crusader will not be able to survive a missile exchange, and is vulnerable to all-aspect IR missiles, that are available to some aircrafts at this tier.
+
+In the same concept, the French Crusader cannot be played at high altitude like its American counterpart, because it will be quickly picked off by a radar missile like an early AIM-7 Sparrow, AIM9-C, or R-3R that it will not be able to evade.
+
+With these two factors into account, the F8E(FN) must be played as a harrasser. The missiles it can carry emphasize this, as they are either not very 
+
+manoeuvrable, or have a short range.
+
+If a French F8E arrives onto an already engaged enemy group, it can wreak havoc with its high manoeuvrability, and engage basically any target with great effect. As long as attention is not drawn onto the Crusader, it can re-engage at will, always keeping up its speed, picking off enemies.
+
+If despite that, a missile is fired upon the French Crusader, it's speed protects it from most IR missiles like the AIM-9B/E, or the R-60 and will outrun them. This is not the case for later generation AIM-9Ls and equivalents.
+
+As with its neighbours in the french tech-tree, the Mirage IIIC and the Mirage 5F (and the Milan, to some extent), the aircraft has to remain close to supersonic as much as possible.
+
+Overall, the F8E(FN) is a quite difficult aircraft to master, especially selecting when and where to strike and where not to, but the skills developed while playing it are very useful for the entirety of the other French supersonic jets.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

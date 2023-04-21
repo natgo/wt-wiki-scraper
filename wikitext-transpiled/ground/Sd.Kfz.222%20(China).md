@@ -16,7 +16,6 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese SPAA {{Battle-rating}}
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
 
 The Sd.Kfz.222 is overall a poorly protected vehicle. 
 
@@ -46,7 +45,6 @@ The post-penetration survivability is low. There are only 3 crews, with 2 sittin
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
 
 The Sd.Kfz.222 is a highly mobile vehicle, so the player should utilise this trait and avoid the flaws in protection.
 
@@ -58,7 +56,7 @@ The vehicle's 4 wheels can all steer, making it very agile to navigate through c
 
 The only flaw in mobility is that, at high speed, it is awkward to precisely control the direction as the vehicle tend to "snake" around when trying to steer. Also, it takes a few seconds to fully come to a halt when braking at high speed. Lastly, due to the vehicle's light weight (only 5t), it cannot quickly ram through obstacles like metal fences without losing speed, so avoid driving into them. 
 
-{{tankMobility}}
+{{tankMobility|abMinHp=107|rbMinHp=66}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -160,7 +158,9 @@ The MG13 Dreyse is s a rifle-calibre machine gun that will only damage vehicles 
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=cn_sdkfz_222_early Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

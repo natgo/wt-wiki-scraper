@@ -107,15 +107,18 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ah_64a_iaf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the helicopter;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the helicopter;''
-* ''links to approximate analogues of other nations and research trees.''
+
+;[[AH-64 (Family)|Related development]]
+* [[AH-64A Peten (USA)]]
+* [[AH-64A Peten (Israel)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

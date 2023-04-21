@@ -225,6 +225,6 @@
 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
-{{Youtube-gallery|WE6zWmBlfSk|'''The Shooting Range #318''' - ''Pages of History'' section at 03:35 discusses early WW2 French tanks.|rg_wXlgm-ZM|'''Climbing the ranks with French tanks''' - ''War Thunder Official Channel''|Ue0YqmjtEPo|'''Obtaining «secrit» documents in Saumur (How we prepared for the French)''' - ''War Thunder Official Channel''}}
+{{Youtube-gallery|o_dcIVrvsCo|'''Book of Records: French Armor''' - ''War Thunder Official Channel''|WE6zWmBlfSk|'''The Shooting Range #318''' - ''Pages of History'' section at 03:35 discusses early WW2 French tanks.|rg_wXlgm-ZM|'''Climbing the ranks with French tanks''' - ''War Thunder Official Channel''|Ue0YqmjtEPo|'''Obtaining «secrit» documents in Saumur (How we prepared for the French)''' - ''War Thunder Official Channel''}}
 
 [[Category:Ground vehicles by country]]

@@ -64,7 +64,7 @@ For module research, the following order is recommended:
 
 As this tank has a similar playstyle to its 8.3 counterpart, the [[BMP-2]], the main armament of the Shipunov 2A42 30 mm autocannon is a very versatile weapon, considering its vertical guidance, traverse speed, and large selection of ammo belts.
 
-It is not recommended to engage in long-term combat without ATGMs using only the autocannon with any tank heavier than a light tank or an Anti-Tank Missile Carrier unless using the APDS ammo selection. If not using APDS, for heavier tanks it is recommended to cripple it by shooting its tracks and the main armament.
+It is not recommended to engage in long-term combat without ATGMs using only the autocannon with any tank heavier than a light tank or an Anti-Tank Missile Carrier unless using the APDS or APDS-FS ammo selection. If not using APDS/APDS-FS, for heavier tanks it is recommended to cripple it by shooting its tracks and the main armament.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-

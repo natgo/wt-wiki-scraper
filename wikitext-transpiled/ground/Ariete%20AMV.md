@@ -89,6 +89,7 @@ Introduced in [[Update "Sky Guardians"]], the C1 Ariete AMV is one of the staple
 | '''42''' || 16&nbsp;''(+26)'' || 1&nbsp;''(+41)'' || No
 |-
 |}
+{{Clear}}
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
@@ -151,14 +152,16 @@ The improvements in the Ariete AMV PT1 are as follows: increase in power from 1,
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=it_ariete_amv_pt1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
+;[[Ariete (Family)|Related development]]
 * [[Ariete]]
 * [[Ariete PSO]]
 * [[Ariete (P)]]

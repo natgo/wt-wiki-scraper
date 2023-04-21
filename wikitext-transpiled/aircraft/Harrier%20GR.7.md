@@ -1,5 +1,5 @@
 {{About
-| about = premium British strike aircraft '''{{PAGENAME}}'''
+| about = British strike aircraft '''{{PAGENAME}}'''
 | usage = other versions
 | link = Harrier (Family)
 }}

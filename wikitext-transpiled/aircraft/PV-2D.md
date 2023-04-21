@@ -6,7 +6,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American bomber {{Battle-rating}}. It was introduced in [[Update 1.67 "Assault"]], during the [[wt:en/news/4648-special-war-thunder-chronicles-en/|2017 World War Two: Chronicle]] event, unlocked after obtaining 6 Chronicle Awards. It was later obtainable at the end of the [[wt:en/news/6421-special-operation-shipyard-exchanging-materials-en|2019 Operation "Shipyard"]] by buying a "Shipyard" trophy.
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American bomber {{Battle-rating}}. It was introduced in [[Update 1.67 "Assault"]], during the [[wt:en/news/4648-special-war-thunder-chronicles-en/|2017 World War Two: Chronicle]] event, unlocked after obtaining 6 Chronicle Awards.
 
 == General info ==
 === Flight performance ===

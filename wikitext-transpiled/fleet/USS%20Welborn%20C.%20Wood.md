@@ -105,6 +105,6 @@ After her transfer, Welborn C. Wood was renamed Chesterfield and served in the A
 
 * Helgason, G. (1995). USS Welborn. Retrieved January 26, 2021, from <nowiki>https://uboat.net/allies/warships/ship/2373.html</nowiki>
 
-{{ShipManufacturer Newport News Shipbuilding & Drydock Co.}}
+{{ShipManufacturer Newport News}}
 {{USA destroyers}}
 {{USA premium ships}}

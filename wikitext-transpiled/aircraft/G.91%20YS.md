@@ -213,7 +213,7 @@ Your biggest threats will be F-4Cs, MiG-19S/PT, F-100D, Mitsubishi T2, J-6A, J-7
 * High rate of climb
 * Deadly main armament
 * Drag chute helps slow you down very quickly during landings
-
+ 
 '''Cons:'''
 
 * Slower than most planes it will face
@@ -222,6 +222,7 @@ Your biggest threats will be F-4Cs, MiG-19S/PT, F-100D, Mitsubishi T2, J-6A, J-7
 * Flaps and landing gear are prone to ripping off
 * New booster module is a must to research in order to avoid crashing during a very fast and low-level dive
 * AIM-9Bs have a poorer performance other air-to-air missiles at this BR
+* No countemeasures
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

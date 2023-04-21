@@ -54,12 +54,15 @@ The '''{{Specs|name}}''' (いかづち, [[Abbreviations#.28JP.29_Naval|namesake]
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
+
 * Able to equip AP and HE-VT shells
 * Each gun is placed at other end of ship which provides 360° coverage
 * Secondary armament is capable against all kind of targets
 
 '''Cons:'''
+
 * No torpedoes
+* The 3" (76mm) guns heat up very quickly so disciplined fire control is necessary to avoid gun failure
 
 == History ==
 ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
@@ -68,15 +71,18 @@ The '''{{Specs|name}}''' (いかづち, [[Abbreviations#.28JP.29_Naval|namesake]
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_escort_ikazuchi_class Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

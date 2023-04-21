@@ -229,8 +229,9 @@ Never pull negative Gs in the Tornado F.3. As with many top tier planes the nega
 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=tornado_f3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
+
 ;Videos
-{{Youtube-gallery|Kk-ag2B2ZqU|'''Tornado F.3: A Basic Review''' - ''Tims Variety''}}
+{{Youtube-gallery|8q2mDrbxOT8|'''The Shooting Range #350''' - ''Metal Beasts'' section at 00:25 discusses the {{PAGENAME}}.|Kk-ag2B2ZqU|'''Tornado F.3: A Basic Review''' - ''Tims Variety''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

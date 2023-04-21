@@ -61,7 +61,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American heavy cr
 '''Pros:'''
 
 * Adequate speed, on par with the rest of the American ships of this level
-* Decent main firepower with an excellent fire rate if 10 rounds per minute
+* Decent main firepower with an excellent fire rate of 10 rounds per minute
 * Has access to a tracking radar
 * Powerful auxiliary and AA defense with decent range and effective against both aircraft and light naval targets
 * Large crew complement allows for a decent survivability
@@ -81,16 +81,19 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American heavy cr
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=us_cruiser_des_moines_class Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the ship;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+
+* [[USS Newport News]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
@@ -99,5 +102,6 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American heavy cr
 
 * [[wt:en/news/8107-development-pre-order-uss-ca-134-des-moines-1948-heavy-cruiser-en|[Devblog] Pre-order: USS CA-134 Des Moines 1948 heavy cruiser]]
 
+{{ShipManufacturer Bethlehem Steel}}
 {{USA heavy cruisers}}
 {{USA premium ships}}

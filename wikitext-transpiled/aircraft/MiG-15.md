@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet jet fighter {{Battle-rating}}. It was introduced in [[Update 1.35]]. The main differences between this aircraft and the [[MiG-15bis]] are weaker engine performance and [[NR-23 (23 mm)|23 mm NR-23]] autocannons.
+The '''{{Specs|name}}''' (NATO reporting name: Fagot) is a rank {{Specs|rank}} Soviet jet fighter {{Battle-rating}}. It was introduced in [[Update 1.35]]. The main differences between this aircraft and the [[MiG-15bis]] are weaker engine performance and [[NR-23 (23 mm)|23 mm NR-23]] autocannons.
 
 == General info ==
 [[File:CockpitImage_MiG-15.jpg|thumbnail|right|The MiG-15's instrument panel.]]
@@ -216,6 +216,7 @@ The first production MiG-15s with RD-45F engines began to leave the factory floo
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mig-15_ns23 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -224,9 +225,11 @@ The first production MiG-15s with RD-45F engines began to leave the factory floo
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[MiG-15 (Family)|Related development]]
+
 * [[MiG-15bis]]
 
 ;Aircraft of comparable role, configuration and era
+
 * [[F-86 Sabre (Family)|F-86 Family]]
 * [[F9F (Family)|F9F Family]]
 * [[F-80C-10|F-80C]]

@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian attack helicopter {{Battle-rating}}. It was introduced in [[Update "Hot Tracks"]].
+After the creation of the A129 International, and its failure to export it to other countries, Italy, Spain, Great Britain and the Netherlands signed a memorandum in 1986 to have a better version of the A129 developed, the project was called Joint European Helicopter, the memorandum called for more powerful engines, new rotor system, retractable landing gear, improved armament and improved sensors, but the project was cancelled in 1990, with Great Britain and the Netherlands buying AH-64 Apache and Spain opting for Eurocopter Tiger, but thanks to the project the Italians were able to improve the A129 and put it into service as the A129 Mangusta 'Combat' (A129CBT), which had modernised avionics, this would eventually be used in various theatres of war such as Iraq and Afghanistan.
+
+In-game A129CBT was added as the final vehicle in the Italian helicopter tech tree added in the [[Update "Hot Tracks"|"Hot Tracks" update]], it is an excellent helicopter for its low-speed manoeuvrability and acceleration that allows it to exit quickly and hit enemy targets, A129CBT is equipped with several armaments the best of which are the AGM-114B Hellfire that can hit the enemy hard or destroy them instantly, while for your defence from other enemy helicopters and aircraft, you can use the mistral much better than the ATAS that can chase the target better, you can also count on a 20mm rotary 3-barrel that can shoot down most light targets.
 
 == General info ==
 === Flight performance ===

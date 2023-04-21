@@ -42,7 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
 
-{{tankMobility}}
+{{tankMobility|abMinHp=2,325|rbMinHp=1,327}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -141,23 +141,24 @@ The Merkava Mk.4 LIC (Low-Intensity Conflict) is a modern main battle tank used 
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=il_merkava_mk_4_lic Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[Merkava (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
-
-* [[Merkava (Family)]]
+* ''topic on the official game forum;''
+* ''other literature.''
 
 {{Israel medium tanks}}

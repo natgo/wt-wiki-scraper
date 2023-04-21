@@ -10,7 +10,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet SPAA {{Battle-rating}}.
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-The Pantsir-S1 doesn't offer a strong armour of any kind, the strongest part of the vehicle is the 40 mm armoured glass that protects the driver. On the front, sides, and rear there is mostly a 5 to 6 mm structural steel armour and high hardness rolled armour. 
+The Pantsir-S1 doesn't offer a strong armour of any kind, the strongest part of the vehicle is the 40 mm armoured glass that protects the driver. On the front, sides, and rear there is mostly a 5 to 6 mm structural steel armour and high hardness rolled armour.
 
 The crew placement makes it even more vulnerable, as the 3 crew members are placed near each other, making a single shot lethal for the majority of the time, making this vehicle unsuited for tank-on-tank combat. The best choice is to find natural or artificial cover to avoid being seen or being exposed to enemy fire.
 
@@ -36,7 +36,7 @@ The crew placement makes it even more vulnerable, as the 3 crew members are plac
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-The Pantsir-S1 is a wheeled vehicle, making any crossing on mud, snow or ice difficult. 
+The Pantsir-S1 is a wheeled vehicle, making any crossing on mud, snow or ice difficult.
 
 This vehicle moves thanks to the KamAZ 740.632-400, that offers 354 HP at 1,900 RPM. The maximum speed forwards is 70 km/h, while the reverse speed is limited to -10 km/h, making retreats difficult.
 
@@ -136,19 +136,30 @@ This vehicle moves thanks to the KamAZ 740.632-400, that offers 354 HP at 1,900 
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+The Pantsir-S1 is the final word when it comes to Russian self-propelled anti-air technology, and as such affords the player much more flexibility when it comes to anti-air operations than ever before. The radar can be toggled to scan the skies in varying degrees of elevation and speed; players can choose the 30 degree mode for lower flying targets on the horizon with faster update speeds or the 80 degree mode allowing for unparalleled ability to target high flying targets at a cost of update speed, or a compromise between both with the 60 degree mode. Either way, with skilful toggling, there is little of the sky that the Pantsir-S1 cannot touch thanks to its new 95Ya6 missiles that can fly out to 20 km at nearly 50% faster top speed than the 9M311 missiles on the Tunguska. Complementary to the enhanced radar and missile suite is a very powerful gunner optic that can zoom to 28x, allowing for better target recognition and acquisition on the battlefield.
+
+As much as it is an upgrade over the 2S6 Tunguska in the relevant fields, it does also have reduced tactical mobility owing to its turret being mounted on a truck and not the GM chassis that the Tunguska was built on. As a result, the versatility of the Tunguska that its users have come to be familiar with, are now discarded and will require an extremely cautious and defensive gameplay more so than ever before as you will be a priority target for anyone in the air that can destroy you. Staying behind teammates and utilising low terrain and cover will aid your survival, just like with the previous SPAAs.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
-'''Pros:''' 
+'''Pros:'''
 
-*
+* New high performance radar suite that can detect and track targets at ranges beyond 30 km and 18 km, respectively
+* 95Ya6 missile is unparalleled in flight range, with flight performance and overload limit comparable to NATO's top tier missiles like VT1
+* 28x zoom gunner optics combined with 2nd+ gen thermal sight and a longer range IRST tracking, reducing dependence on radar tracking as needed
+* 2A38M autocannons as installed on the Tunguska, allowing Pantsir-S1 some attack capability at close range against both AFVs and planes
+* 50% more missiles than the 2S6 Tunguska (12 vs 8) means that the Pantsir-S1 can shoot down more aircraft before having to reload
 
-'''Cons:''' 
+'''Cons:'''
 
-*
+* No neutral steering like its predecessor, Tunguska, owing to the system being a wheeled truck, not tracked chassis
+* No hydropneumatic suspension as used on its predecessor, meaning the Pantsir can't lower its massive profile
+* Very horrible reverse speed on par with the T-72/T-90 series of MBTs, disallowing tactical retreats
+* Basically no depression at all, severely reducing capability should the Pantsir find itself on high ground
+* Like most SPAAs, it has next to no armour. Not getting hit is of utmost importance
+* Has a huge profile that rivals the German FlakRakRad, that can't be reduced whatsoever outside of disabling radar and using IRST over radar tracking
+* Mobility and acceleration is so low, such that it is reminiscent of the ZSU-23-4 Shilka
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

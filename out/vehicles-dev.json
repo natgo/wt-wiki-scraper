@@ -105,7 +105,7 @@
     { "intname": "us_m901_itv", "wikiname": "M901" },
     { "intname": "us_m1128_wolfpack", "wikiname": "M1128 Wolfpack" },
     { "intname": "us_m1a1_aim_abrams", "wikiname": "M1A1 AIM" },
-    { "intname": "us_lvt_a_1_trb" },
+    { "intname": "us_lvt_a_1_trb", "wikiname": "LVT(A)(1) (TheRussianBadger)" },
     { "intname": "us_m8_greyhound", "wikiname": "M8 LAC", "marketplace": "M8" },
     {
       "intname": "us_m8a1",
@@ -174,7 +174,10 @@
       "wikiname": "Merkava Mk.3D (USA)",
       "marketplace": "items_Merkava Mk.3D (USA)"
     },
-    { "intname": "us_m1a1_abrams_yt_cup_2019", "wikiname": "M1A1 (USA)" },
+    {
+      "intname": "us_m1a1_abrams_yt_cup_2019",
+      "wikiname": "M1A1 (YouTube Cup)"
+    },
     { "intname": "us_mk_5_assault_combat_exoskeleton" },
     { "intname": "us_mk_5_aa_combat_exoskeleton" },
     { "intname": "us_mk_5_at_combat_exoskeleton" },
@@ -346,7 +349,7 @@
     { "intname": "germ_leopard_2pl", "wikiname": "Leopard 2 PL" },
     {
       "intname": "germ_leopard_2a5_yt_cup_2019",
-      "wikiname": "Leopard 2A5 (Germany)"
+      "wikiname": "Leopard 2A5 (YouTube Cup)"
     },
     {
       "intname": "germ_sdkfz_251_10",
@@ -673,7 +676,7 @@
       "marketplace": "id50176_t_72m2_moderna_ussr"
     },
     { "intname": "ussr_m551_football" },
-    { "intname": "ussr_t_80u_yt_cup_2019", "wikiname": "T-80U (USSR)" },
+    { "intname": "ussr_t_80u_yt_cup_2019", "wikiname": "T-80U (YouTube Cup)" },
     { "intname": "ussr_t_80u_race" },
     { "intname": "ussr_mk_5_assault_combat_exoskeleton" },
     { "intname": "ussr_mk_5_aa_combat_exoskeleton" },
@@ -805,7 +808,7 @@
     },
     {
       "intname": "uk_challenger_II_yt_cup_2019",
-      "wikiname": "Challenger 2 (Great Britain)"
+      "wikiname": "Challenger 2 (YouTube Cup)"
     },
     {
       "intname": "uk_alecto_mk_1",
@@ -1027,7 +1030,11 @@
     { "intname": "cn_bt_5" },
     { "intname": "cn_type_95_ha_go" },
     { "intname": "cn_t_62", "wikiname": "T-62 545 (China)" },
-    { "intname": "cn_qn506", "wikiname": "QN506" },
+    {
+      "intname": "cn_qn506",
+      "wikiname": "QN506",
+      "marketplace": "id50218_qn506_china"
+    },
     { "intname": "cn_ztz_96a_race" },
     { "intname": "it_ab_41", "wikiname": "AB 41" },
     { "intname": "it_m11_39", "wikiname": "M11/39" },
@@ -1454,7 +1461,7 @@
     { "intname": "b-57b", "wikiname": "B-57B" },
     { "intname": "f-105d", "wikiname": "F-105D" },
     { "intname": "f3f-2_galer", "wikiname": "Galer's F3F-2" },
-    { "intname": "p-36c_rb" },
+    { "intname": "p-36c_rb", "wikiname": "P-36C (TheRussianBadger)" },
     { "intname": "f2a-1_thach", "wikiname": "Thach's F2A-1" },
     { "intname": "soc_1", "wikiname": "SOC-1" },
     { "intname": "o3u_1" },
@@ -1564,7 +1571,11 @@
       "wikiname": "F-5A",
       "marketplace": "id50153_f_5a_usa"
     },
-    { "intname": "a_7k", "wikiname": "A-7K" },
+    {
+      "intname": "a_7k",
+      "wikiname": "A-7K",
+      "marketplace": "id50217_a_7k_usa"
+    },
     { "intname": "uav_quadcopter" },
     { "intname": "ucav_recon_micro" },
     { "intname": "ucav_recon_micro_flir" },
@@ -2594,7 +2605,7 @@
     { "intname": "so_4050_vautour_2n", "wikiname": "S.O.4050 Vautour IIN" },
     {
       "intname": "md_460_yt_cup_2019",
-      "wikiname": "Super Mystere B2 (France)"
+      "wikiname": "Super Mystere B2 (YouTube Cup)"
     },
     { "intname": "mirage_milan", "wikiname": "Milan", "store": "10892" },
     {
@@ -3027,7 +3038,11 @@
       "wikiname": "Mikhail Kutuzov",
       "marketplace": "items_Maxim Gorky (USSR)"
     },
-    { "intname": "ussr_cruiser_shcherbakov", "wikiname": "Smelyi" },
+    {
+      "intname": "ussr_cruiser_shcherbakov",
+      "wikiname": "Smelyi",
+      "marketplace": "id50216_scherbakov_ussr"
+    },
     { "intname": "ussr_destroyer_7y_stroyny", "wikiname": "Sverdlov" },
     { "intname": "ussr_destroyer_pr41_neustrashimy", "wikiname": "OD-200" },
     { "intname": "ussr_cruiser_voroshilov", "wikiname": "Ya-5M" },

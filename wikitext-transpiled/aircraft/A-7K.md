@@ -6,6 +6,7 @@
 {{Specs-Card
 |code=a_7k
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|market=id50217_a_7k_usa
 }}
 
 == Description ==
@@ -81,7 +82,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American strike aircraft 
 ! colspan="2" | Engine name || Number
 ! colspan="3" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
-| colspan="2" | Allison TF-41-A-1 || 1
+| colspan="2" | Allison TF-41-A-2 || 1
 | colspan="3" | 9,196 kg || colspan="3" | 395 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
@@ -140,21 +141,58 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.''
+{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
+{{main|GBU-8 (2,000 lb)|AGM-65B|AIM-9L Sidewinder|AIM-9J Sidewinder}}
+{{main|FFAR Mighty Mouse|BLU-27/B incendiary|GAU-13/A (30 mm)|GAU-4 (20 mm)}}
+
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+
+* Without load
+* 2 x AIM-9L Sidewinder missiles
+* 2 x AIM-9J Sidewinder missiles
+* 114 x FFAR Mighty Mouse rockets
+* 24 x 250 lb LDGP Mk 81 bombs (6,000 lb total)
+* 24 x 500 lb LDGP Mk 82 bombs (12,000 lb total)
+* 14 x 750 lb M117 cone 45 bombs (10,500 lb total)
+* 12 x 1,000 lb LDGP Mk 83 bombs (12,000 lb total)
+* 6 x 2,000 lb LDGP Mk 84 bombs (12,000 lb total)
+* 4 x 2,000 lb GBU-8 (8,000 lb total)
+* 6 x BLU-27/B incendiary bombs
+* 6 x AGM-65B
+* 2 x 20 mm GAU-4 cannons (1,200 rpg = 2,400 total)
+* 2 x 30 mm GAU-13/A cannons (353 rpg = 706 total)
+
+The A-7K can carry huge amount of suspended armament for ground attack use. Aircraft starts of with up to 24 x 250 lb LDGP Mk 81 bombs, which are enough to dispose of a base in Air RB. After researching 24 x 500 lb Mk 82 bombs the plane is capable of destroying 2 bases in one run. It can also take 14 x 750 lb M117, 12 x 1,000 lb LDGP Mk 83 and 6 x 2,000 lb LDGP Mk 84 bombs, which are more useful in Ground RB since they offer larger blast radii. For use against ground vehicles the plane can carry 114 x FFAR Mighty Mouse rockets, 4 x 2,000 lb GBU-8 TV-guided bombs and 6 x AGM-65B TV-guided air-to-ground missiles. Guided munitions are used with the LANA Flir Navigation Pod, which provides thermal vision over the battlefield, making spotting targets easier. That makes the A-7K a very potent CAS option that can bring havoc upon the enemy team. The aircraft can also carry 6 x BLU-27/B incendiary bombs, and for self-defense against enemy planes it starts with 2 x AIM-9J air-to-air missiles, which can be upgraded to AIM-9Ls. For increased firepower, the plane can take 2 x 20 mm  GAU-4 gunpods (with 1,200 rounds each) or 2 x 30 mm GAU-13/A gunpods (with 353 rounds each).
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+
+;Air Realistic Battles
+
+In Air RB, the A-7K presents a very limited utility, mainly attacking ground targets. Bases are an option, but its low top speed combined with the limited manoeuvrability while carrying ordinance make it a perilous mission, as you are an easy target for any fighter that can show up, and friendly planes will almost always get there before you do. Flying to the side low to the ground is recommended, until enemy aircraft will back out or start fighting with your team. Then you can target respawning bases behind the frontline, and once you are done, if you didn't get a chance to do so, you can try to use your missiles to take down enemies, but keep in mind you don't want to start actively fighting. If a fighter decides to target you, strongly consider dropping your ordinance and abandoning any bombing run to increase your chances of survival. The strongest enemies you can encounter are the MiG-29, F-16 and F-14. There is nothing the A-7K can realistically do to counter those aircraft, so you want to stay unseen as long as it is possible, though the AIM-9L can occasionally get rid of an unsuspecting target. 
+
+;Ground Realistic Battles
+
+As a strike aircraft, the A-7K is exceptionally well equipped for CAS missions. Guided ordnance with LANA Flir navigation pod make a very potent combo, allowing you to keep distance from SPAAGs, though SAM SPAAs are still a huge threat, especially the Pantsir-S1, as you spawn within its range. The best thing you can do is fly close to the ground, go to the side of the map and only reveal yourself when you are close to the battlefield. Then, you want to quickly spot SPAAs and target them with your AGMs or guided bombs using the navigation pod. You can also go and check if there are any helicopters up and destroy them so your team can focus more on objectives.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
-*
+
+* Airframe is relatively sturdy
+* Carries enough ordinance to destroy 2 bases
+* Guided munitions make it very effective for CAS
+* Gets LANA Flir navigation pod for spotting ground targets
+* The internal 20 mm M61A1 rotary cannon can shred enemy aircraft
+* AIM-9Ls can be pretty effective for air-to-air combat
 
 '''Cons:'''
-*
+
+* Poor flight performance
+* Easy target for enemy aircraft
+* Lacks a functional radar
+* Prone to catch fire when hit
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -168,16 +206,17 @@ The '''''{{PAGENAME}}''''' is armed with:
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+
+;Related development
+
+* [[A-7 Corsair II (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
-* ''topic on the official game forum;''
-* ''other literature.''
 
+* [[wt:en/news/8184-development-repair-factory-a-7k-corsair-ii-en|[Devblog] Repair Factory: A-7K Corsair II]]
+
+{{AirManufacturer Vought}}
 {{USA jet aircraft}}

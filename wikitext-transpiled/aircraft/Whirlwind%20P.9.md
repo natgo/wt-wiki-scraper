@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} British twin-engine fighter {{Battle-rating}}. This aircraft was introduced in [[Update 1.77 "Advancing Storm"]] during the 2018 World War Two Chronicles. It was later re-released during [[Update 1.91 "Night Vision"]] as a reward for Operation "Shipyard". Whirlwind P.9, an experimental pre-production vehicle, is the direct ancestor of the British [[Whirlwind Mk I]] heavy fighter. Development of the aircraft began in 1937 and the aircraft in this series had plenty of time to fight against German aircraft and ships during the Battle of Britain.
+The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} British twin-engine fighter {{Battle-rating}}. This aircraft was introduced in [[Update 1.77 "Advancing Storm"]] during the 2018 World War Two Chronicles. It was later re-released during [[Update 1.91 "Night Vision"]] as a reward for the [[wt:en/news/6409-special-operation-shipyard-en|2019 Operation "Shipyard"]] event.
+
+Whirlwind P.9, an experimental pre-production vehicle, is the direct ancestor of the British [[Whirlwind Mk I]] heavy fighter. Development of the aircraft began in 1937 and the aircraft in this series had plenty of time to fight against German aircraft and ships during the Battle of Britain.
 
 == General info ==
 === Flight performance ===

@@ -208,12 +208,15 @@ It will automatically detect other planes within the scanning area and display t
 
 '''Pros:'''
 
-* Can carry heavy bombs
-* Gets an airspawn on some maps
+* Can carry a decent amount of bombs and rockets, being able to destroy a base and after light targets or tanks with the rockets 
+* Gets an airspawn and being extremely useful for a F84F at the start of the match
+* Somewhat fast and with a good top speed
+* Has an analog ballistic computer (CCRP) with its use being very helpful for bombing at higher altitudes safely and with precision
 
 '''Cons:'''
 
-* Rather slow, can be outrun by even the early jet bombers
+* While fast as long as it has enough energy, it can still be reached or outrun by some planes, mainly by any variant of the F-86 sabre 
+* Slow acceleration, and even bad fully loaded with bombs
 * 12.7 mm armament does not do enough damage in the short engagement windows of jet dogfights
 * Fragile, any 20+ mm calibre cannons will shred the aircraft if they hit
 * Elevator locks up heavily above 800 km/h
@@ -236,6 +239,7 @@ The F-84F was also widely exported to NATO members. Chiefly among them were Germ
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f-84f_france Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images

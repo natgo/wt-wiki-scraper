@@ -314,6 +314,6 @@ File:Town class HMS Churchill Secondary gun.png|Auxiliary gun is lightly protect
 * ''British Destroyers and Frigates: The Second World War and After'', Norman Friedman
 * ''Destroyers of World War Two: An International Encyclopedia,'' M. J. Whitley, (2000)
 
-{{ShipManufacturer Newport News Shipbuilding & Drydock Co.}}
+{{ShipManufacturer Newport News}}
 {{Britain destroyers}}
 [[Category:Hidden vehicles]]

@@ -41,7 +41,7 @@ The Kongo's nature as a battlecruiser reflects in her speed, which is a very goo
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
 {{main|36 cm/45 Type 41 (356 mm)}}
 
-The 36 cm/45 Type 41, also seen on IJN Hyuga, is an exceptional 14-inch battleship cannon. Compared to the Hyuga, the {{PAGENAME}} gets only 8 guns, but she features a new selection of shells. Her stock shell, ''Ordinary SAP'', is identical to the shell on Hyuga, and certainly gets the job done. With the equivalent of 68.64 kg of TNT, her SAP is still a head and shoulders over even the HE on most other battleships. These shells will smash cruisers whenever they hit, and against battleships, while they will rarely penetrate the hull armour, the splash damage from the detonation will frequently destroy guns and turrets. Type 91 APC is an improvement over the Hyuga's equivalent AP shell, with extra penetration. This shell is mostly used against battleships, where the extra penetration is needed to penetrate the belt armour. The last shell is Type 0 Common, an HE shell. This shell is very poor, possessing only half the explosive filler of SAP. It may find some utility when it comes to sniping patrol boats or stray floatplanes, but overall, it isn't very good.
+The 36 cm/45 Type 41, also seen on IJN Hyuga, is an exceptional 356 mm battleship cannon. Compared to the Hyuga, the {{PAGENAME}} gets only 8 guns, but she features a new selection of shells. Her stock shell, ''Ordinary SAP'', is identical to the shell on Hyuga, and certainly gets the job done. With the equivalent of 68.64 kg of TNT, her SAP is still a head and shoulders over even the HE on most other battleships. These shells will smash cruisers whenever they hit, and against battleships, while they will rarely penetrate the hull armour, the splash damage from the detonation will frequently destroy guns and turrets. Type 91 APC is an improvement over the Hyuga's equivalent AP shell, with extra penetration. This shell is mostly used against battleships, where the extra penetration is needed to penetrate the belt armour. The last shell is Type 0 Common, an HE shell. This shell is very poor, possessing only half the explosive filler of SAP. It may find some utility when it comes to sniping patrol boats or stray floatplanes, but overall, it isn't very good.
 
 {{:36 cm/45 Type 41 (356 mm)/Ammunition|356 mm ordinary SAP, 356 mm Type 91 APC, 356 mm Common Type 0}}
 
@@ -59,7 +59,7 @@ The Kongo's secondaries consist of eight 15 cm/50 Type 41 cannons, four per side
 <!-- ''An important part of the ship's armament responsible for air defence. Anti-aircraft armament is defined by the weapon chosen with the control <code>Select anti-aircraft weapons</code>. Talk about the ship's anti-air cannons and machine guns, the number of guns and their positions, their effective range, and about their overall effectiveness – including against surface targets. If there are no anti-aircraft armaments, remove this section.'' -->
 {{main|5 inch/40 Type 89 (127 mm)|25 mm/60 Type 96 (25 mm)}}
 
-The IJN Kongo's AA armament sets her apart from other battleships. It includes six 5 inch/40 Type 89 twin cannons, as well as a total of 100 25 mm cannons. The 5" guns, which behave more like secondaries, are automatically loaded with HE-VT, with no alternate ammunition choice, which makes them pretty useless against surface targets, as the shells will always detonate early, but decent against aircraft. Meanwhile, the 25 mm cannons provide the Kongo with exceptional close-range AA firepower, being able to put up a hail of fire in any direction. However, note the stopping power of the 25 mm is not very good, and these cannons are only really suitable for self-defence.
+The IJN Kongo's AA armament sets her apart from other battleships. It includes six 127 mm (5 inch/40 Type 89) twin cannons, as well as a total of 100 25 mm cannons. The 127 mm guns, which behave more like secondaries, are automatically loaded with HE-VT, with no alternate ammunition choice, which makes them pretty useless against surface targets, as the shells will always detonate early, but decent against aircraft. Meanwhile, the 25 mm cannons provide the Kongo with exceptional close-range AA firepower, being able to put up a hail of fire in any direction. However, note the stopping power of the 25 mm is not very good, and these cannons are only really suitable for self-defence.
 
 === Scout plane ===
 {{Specs-Fleet-Plane}}
@@ -77,23 +77,25 @@ Overall, the Kongo is the most efficient ship in the game when it comes to deliv
 
 * [[:Category:Heavy cruisers|Heavy cruisers]] - Most cruisers are completely incapable of doing significant damage to you, but if left to their own devices they will eventually chip away at you. Learn their ammunition locations, and dispose of them quickly with SAP. Also, keep in mind which enemy cruisers are armed with torpedoes, and keep them at arms length.
 * [[Scharnhorst]] - The Scharnhorst is the Kongo's biggest rival, boasting heavier armour and a lower profile hull, while having weaker but more rapid firing armament. Approach them with caution, aiming to disable turrets, and preferably have backup from your team. Never brawl them, as the Scharnhorst's torpedoes will be decisive. 
-* [[USS Arizona]] - The USS Arizona is extremely durable, and their broadside of twelve 14" guns is very imposing. However, her Achilles' heel is her reload. Knocking out turrets and dodging incoming fire from an Arizona will cripple their damage output, while you can bombard them until they eventually explode.
+* [[USS Arizona]] - The USS Arizona is extremely durable, and their broadside of twelve 356 mm guns is very imposing. However, her Achilles' heel is her reload. Knocking out turrets and dodging incoming fire from an Arizona will cripple their damage output, while you can bombard them until they eventually explode.
 * [[IJN Hyuga]] - Essentially having your guns, but four more of them, the Hyuga has the deadliest broadside in the game. Chip away from them at long range, and make sure you do not get hit in return. If the Hyuga is playing passively, use your speed to flank and attack from an unexpected direction.
+* [[Kronshtadt]] - This Soviet battlecruiser is another key rival, possessing a total of nine highly lethal 305 mm cannons in three triple turrets. This ship has a very effective armour layout that can significantly reduce damage when angled, especially at longer ranges, whilst the anti-frag armour and lack of deck clutter renders the vessel quite resistant to fragmentation damage from explosions. It's best to face these ships by focusing on the frontal turrets and taking them out before they can cripple or destroy you first. Ignoring fire coming from this ship is a great way to get blown up. 
 
 === Pros and cons===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 '''Pros:'''
 
-* Exceptional 14" guns with the most potent SAP round in the game and comfortable gun arcs
-* Very fast for her size
+* Exceptional 356 mm guns with the most potent SAP round in the game and comfortable gun arcs
+* Relatively fast for her size
 * Good AA protection, 25 mm AA guns don't cost crew count (the animated crew models don't affect the gameplay)
 * Workable armour above waterline; turtleback around the magazines
 * Access to floatplanes
 
 '''Cons:'''
 
-* Extremely weak underwater protection, vulnerable to large caliber diving shots from heavy cruiser or above
+* Extremely weak underwater protection, vulnerable to large calibre diving shots from heavy cruiser or above
 * Subject to flooding and capsizing in addition due to aforementioned weakness
+* 25 mm guns don't have good range - may fire on a target too late, or not at all if at high altitude
 * 127mm batteries are categorized into AAA group and hence no combined manual control or ammo options
 
 == History ==

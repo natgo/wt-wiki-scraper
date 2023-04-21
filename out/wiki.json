@@ -1765,6 +1765,12 @@
       "visibility": 136
     },
     {
+      "intname": "us_lvt_a_1_trb",
+      "ab_top_speed": [45, 6],
+      "rb_top_speed": [40, 5],
+      "visibility": 133
+    },
+    {
       "intname": "us_lvt_a_1",
       "ab_top_speed": [45, 6],
       "rb_top_speed": [40, 5],

@@ -52,7 +52,7 @@ The 3 inch (76 mm) cannons do have HE-VT shells, meaning that they can ward off 
 <!-- ''An important part of the ship's armament responsible for air defence. Anti-aircraft armament is defined by the weapon chosen with the control <code>Select anti-aircraft weapons</code>. Talk about the ship's anti-air cannons and machine guns, the number of guns and their positions, their effective range, and about their overall effectiveness – including against surface targets. If there are no anti-aircraft armaments, remove this section.'' -->
 {{main|1.1 inch/75 Mk.1 (28 mm)|20 mm/70 Oerlikon Mk.II (20 mm)}}
 
-The Raleigh is equipped with one Chicago Piano mount and eight single-mount Oerlikon cannons. This provides some decent AA cover at close range, though it certainly isn't winning any awards for defensive firepower. It is better to simply stay close to AA ships and destroyers for some extra protection.
+The Detroit is equipped with one Chicago Piano mount and eight single-mount Oerlikon cannons. This provides some decent AA cover at close range, though it certainly isn't winning any awards for defensive firepower. It is better to simply stay close to AA ships and destroyers for some extra protection.
 
 === Additional armament ===
 {{Specs-Fleet-Additional}}
@@ -93,6 +93,7 @@ While using the USS Detroit, try to exploit its mobility advantage and flank aro
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_cruiser_omaha_class_detroit Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Photos

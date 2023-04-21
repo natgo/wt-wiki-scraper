@@ -37,6 +37,8 @@
 {{Tree-Unit|us_m3a1_stuart_usmc}}
 {{Tree-Skip}}
 |
+{{Tree-Unit|us_lvt_a_1_trb}}
+{{Tree-Skip}}
 {{Tree-Unit|us_m8_greyhound}}
 {{Tree-Skip}}
 {{Tree-Unit|us_m8a1}}

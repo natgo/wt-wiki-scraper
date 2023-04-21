@@ -9,7 +9,9 @@ async function main(dev: boolean) {
   );
   const arr: { ptow: number; name: string }[] = [];
   final.ground.forEach((element) => {
-    arr.push({ ptow: element.horsepower / (element.mass / 1000), name: element.intname });
+    if (element.horsepower && element.mass) {
+      arr.push({ ptow: element.horsepower / (element.mass / 1000), name: element.intname });
+    }
   });
   arr.sort((a, b) => {
     return b.ptow - a.ptow;

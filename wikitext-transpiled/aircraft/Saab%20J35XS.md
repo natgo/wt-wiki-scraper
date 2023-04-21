@@ -59,7 +59,7 @@ The Saab J-35XS turns very fast, however turning too fast at lower speeds can al
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || - || - || - || ~13 || ~6
+| 1,417 <!--{{Specs|destruction|body}}--> || {{Specs|destruction|gear}} || - || - || - || ~13 || ~6
 |-
 |}
 
@@ -229,6 +229,7 @@ File:J35FS RM6C AB On.jpg|<small>J35FS afterburner on</small>
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
+
 * [https://en.wikipedia.org/wiki/Saab_35_Draken ''https://en.wikipedia.org/wiki/Saab_35_Draken'']
 {{Sweden jet aircraft}}
 {{Sweden premium aircraft}}

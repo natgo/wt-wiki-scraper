@@ -105,7 +105,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet heavy tank {{Ba
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 300 || rowspan="2" | -7°/+25° || rowspan="2" | ±135° || rowspan="2" | N/A || 12.1 || 16.8 || 20.4 || 22.6 || 24.0 || rowspan="2" | 3.90 || rowspan="2" | 3.40 || rowspan="2" | 3.10 || rowspan="2" | 3.00
+| rowspan="2" | 300 || rowspan="2" | -7°/+25° || rowspan="2" | ±135° || rowspan="2" | N/A || 12.1 || 16.8 || 20.4 || 22.6 || 24.0 || rowspan="2" | 3.8 || rowspan="2" | 3.3 || rowspan="2" | 3.1 || rowspan="2" | 2.9
 |-
 ! ''Realistic''
 | 8.9 || 10.5 || 12.8 || 14.1 || 15.0

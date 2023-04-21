@@ -11,7 +11,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese sub-chaser {{Battle-r
 === Survivability and armour ===
 {{Specs-Fleet-Armour}}
 <!--Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.-->
-Relatively well-armoured, large ship with high survivability for its rank. Its major weakness is in being prone to fires. Major strength in a high crew count of 65, one of the largest in its battle rating class (after [[Flower class (K-218)|Flower-class]]). Weapons are relatively well distributed, making them a difficult targets to take down separately. While the ship itself is large in size, its frontal cross-section is relatively small, making it a tricky target in a hands of a more experienced player. Secondary anti-aircraft armament, while powerful, is centred around sides, making ship most prone to the attacks from a rear. Another potential weak-point are ammunition racks exposed over the water line, however those can be minimized by reducing the ammunition count by half.
+Relatively well-armoured, large ship with high survivability for its rank. Its major weakness is in being prone to fires. Major strength in a high crew count of 65, one of the largest in its battle rating class (after [[HMCS Brantford]]). Weapons are relatively well distributed, making them a difficult targets to take down separately. While the ship itself is large in size, its frontal cross-section is relatively small, making it a tricky target in a hands of a more experienced player. Secondary anti-aircraft armament, while powerful, is centred around sides, making ship most prone to the attacks from a rear. Another potential weak-point are ammunition racks exposed over the water line, however those can be minimized by reducing the ammunition count by half.
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
@@ -95,7 +95,7 @@ Both K-3 and K-7 have a relatively undefended rear arc, where at most only one 2
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-The No.1-class submarine chasers (第一号型駆潜艇, Dai 1 Gō-gata Kusentei) were built under Maru 1 Keikaku programme, totalling 2 ships built in 1933. Vessels suffered from stability and hull strength issues that were resolved in a later redesign that became the [[Type K-7 / No.4 Class|No.4]]. The ship is a flush deck design with a relatively high freeboard for its size and an unproportionally large bridge. Ship's waterline length was 64 m, width 5.6 m for a total displacement of 383 tonnes. Crew consisted of 53 sailors, with up to 65 capacity.
+The No.1-class submarine chasers (第一号型駆潜艇, Dai 1 Gō-gata Kusentei) were built under Maru 1 Keikaku programme, totalling 2 ships built in 1933. Vessels suffered from stability and hull strength issues that were resolved in a later redesign that became the [[Type K-7 No.4|No.4]]. The ship is a flush deck design with a relatively high freeboard for its size and an unproportionally large bridge. Ship's waterline length was 64 m, width 5.6 m for a total displacement of 383 tonnes. Crew consisted of 53 sailors, with up to 65 capacity.
 
 Designers considered one of two primary guns against surfaced submarines: Either 8 cm/40 3rd Year Type naval gun or Type Bi-4 cm autocannon, which they've eventually picked for the final design. Both proposed guns were built domestically in Japan on a license. Additionally armament featured two imported Lewis light machine guns with the third one added during the war. Ships were equipped with 36 depth charges released overboard (projectors were added in the No.4). Additional equipment included Type 91 sonar, Type MV hydrophone, 6m motor boat and a 6m cutter, 60 mm search and signal light and an additional 30 mm search light.
 
@@ -115,11 +115,11 @@ On 27 June 1945 No.2 was struck by a 533 mm torpedo from the Balao-class submari
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Ships of comparable role, configuration and era
-* [[110 ft SC-497]]
-* [[R-boot R-301]]
+* [[SC-497]]
+* [[R-301]]
 * [[MPK pr. 122A]]
-* [[Flower class (K-218)|Flower class]]
-* [[Type K-7 / No.4 Class]]
+* [[HMCS Brantford]]
+* [[Type K-7 No.4]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''

@@ -110,6 +110,8 @@ USS Newport News is in her 1962 state, after modifications to be a fleet flagshi
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
+
+;Related development
 * [[USS Des Moines]]
 
 == External links ==
@@ -119,4 +121,5 @@ USS Newport News is in her 1962 state, after modifications to be a fleet flagshi
 
 * [[wt:en/news/7991-development-winter-event-uss-newport-news-ca-148-en|[Devblog] Winter Event: USS Newport News (CA-148)]]
 
+{{ShipManufacturer Newport News}}
 {{USA heavy cruisers}}

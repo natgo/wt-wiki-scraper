@@ -9,8 +9,9 @@
 }}
 
 == Description ==
-<!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian gunboat {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+<!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->Albatros F543 Set up on 27 June 1953, launched on 18 July 1954 and entered into service on 1 June 1955, the Albatros F543 was the first ship of the albatross class to be built, with the role of convoy flanking and anti-submarine search, she was in service from 1955 until October 1962 under the 10th A/S Squadron of the 1st Naval Division, She would only carry out escort missions, submarine search operations and intercoastal patrols, and in fact, she would be used for Fisheries Surveillance in the Sicilian Channel until June 1983 when she was transferred back to La Spezia, only to be removed from service after 3 years and decommissioned in 1986.
+
+In the game Albatros F543 added in the [[Update "Wind of Change"|"Wind of Change" update]], it is a very good corvette thanks to its firepower, the SMP3 have only HE and HEVT as hits but thanks to its rapid-fire without overheating compared to other 76mm SMP3 cannons you can cause a lot of surface damage destroying the enemy ship by explosive damage and continuous crew loss, while your 40mm Breda-Bofors with its rapid-fire can quickly destroy any small targets, and not to forget that both the 76mm and 40mm are equipped with HE-VT and in addition in the ship you are equipped with a radar that can lock on to enemy aircraft so it will be child's play to destroy enemy aircraft.
 
 == General info ==
 === Survivability and armour ===
@@ -129,7 +130,106 @@ In contrast, HE-VTs are perfect for shooting down enemy targets from long to sho
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+=== Albatros-class ===
+The Albatross-class consisted of 10 ships built by Italy to give to some NATO nations using American funds to increase the defence capabilities of these nations under the Mutual Defence Assistance Program, eventually, the albatross class corvettes were built, all equipped at the beginning with two 76mm SMP3 placed both front and rear, a twin 40mm Breda-Bofors tower at the rear in the centre of the ship and a hedgehog launcher to attack submarines, later the various nations would change the existing armament to something else.
+
+Of the Albatros-class, 3 corvettes would be built for Italy, 4 corvettes for Denmark but the class would be renamed Triton-class in their case, 2 corvettes for Indonesia but these, in particular, would be modified quite a bit creating the Pattimura-class and is a slightly larger version of the Albatros and finally a corvette for the Dutch navy.
+{| class="wikitable sortable"
+!Ship name
+!Builder
+!Setting
+!Launch
+!Entry in service
+! colspan="2" |Final Destiny
+|-
+! colspan="7" |ITALY
+|-
+|Albatros (F 543)
+| rowspan="3" |Navalmeccanica, Castellammare di Stabia
+|27 June 1953
+|18 July 1954
+|1 June 1955
+|1986
+|Decommissioned and disarmed
+|-
+|Alcione (F 544)
+|1953
+|19 September 1954
+|23 October 1955
+|1992
+| rowspan="3" |Decommissioned
+|-
+|Airone (F 545)
+|1953
+|21 November 1954
+|29 December 1955
+|1992
+|-
+|Aquila (F 542)
+|Cantiere Breda Marghera, Venezia
+|__
+| colspan="2" |Ex Lynx (F 823), transferred to italy  and put in service in 18 October 1961
+|1992
+|-
+! colspan="7" |DENMARK
+|-
+|Bellona (F 344)
+|Navalmeccanica, Castellammare di Stabia
+|1954
+|9 January 1955
+|31 January 1957
+|9 January 1981
+| rowspan="4" |Decommissioned and disarmed
+|-
+|Diana (F 345)
+| rowspan="2" |Cantiere del Tirreno, Riva, Trigoso
+|1953
+|19 December 1954
+|30 July 1955
+|30 August 1975
+|-
+|Flora (F 346)
+|1953
+|25 June 1955
+|28 August 1956
+|1977
+|-
+|Triton (F 347)
+|Cantieri Navali di Taranto
+|1953
+|12 September 1954
+|10 August 1955
+|9 January 1981
+|-
+! colspan="7" |NETHERLANDS
+|-
+|Lynx (F 823)
+|Cantiere Breda Marghera, Venezia
+|__
+|31 July 1954
+|2 October 1956
+|1961
+|Given to Italy
+|-
+! colspan="7" |INDONESIA
+|-
+|Pattimura (257, after 371)
+| rowspan="2" |Ansaldo, Livorno
+|__
+|1 July 1956
+|28 January 1958
+|1985
+| rowspan="2" |Decommissioned
+|-
+|Sultan Hasanudin (253, after 372)
+|__
+|24 March 1957
+|8 March 1958
+|1979
+|}
+
+=== Albatros F543 Service History ===
+Laid down on 27 June 1953, launched on 18 July 1954 and entered into service on 1 June 1955, the albatross F543 was the first ship of the albatross class to be built, to support allied ships in convoy in the role of destroyer-submarine and in defence against enemy small ships, and to patrol the coasts, in her service history between 1955 until 1986 she was assigned to the 10th A/S Squadron of the 1st Naval Division until October 1962, on 4 March 1956, she was awarded the combat flag by the ANMI (Associazione Nazionale Marinai d'Italia) Group of Ivrea in Genoa, after active service she went on to serve as a training ship, carrying out fishing surveillance missions in the Sicilian Channel until June 1983, before being permanently transferred to La Spezia. where in 1986 she was taken out of service and decommissioned.
 
 '''Devblog History'''
 
