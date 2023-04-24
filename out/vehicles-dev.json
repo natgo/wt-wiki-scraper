@@ -856,6 +856,7 @@
       "wikiname": "QF 3.7 Ram",
       "marketplace": "QF 3.7 Ram (Britain)"
     },
+    { "intname": "uk_centurion_mk_2" },
     {
       "intname": "uk_centurion_mk_5_raac",
       "wikiname": "Centurion Mk.5/1",
@@ -1203,7 +1204,11 @@
       "wikiname": "AMX-30 Super",
       "store": "6881"
     },
-    { "intname": "fr_amd_35_sa35", "wikiname": "AMD.35 (SA35)" },
+    {
+      "intname": "fr_amd_35_sa35",
+      "wikiname": "AMD.35 (SA35)",
+      "marketplace": "id50215_amd_35_sa35_france"
+    },
     { "intname": "fr_lvt_bofors", "wikiname": "LVT-4/40" },
     { "intname": "fr_lorraine_155", "wikiname": "Lorraine 155 Mle.50" },
     { "intname": "fr_panhard_ebr_1954", "wikiname": "E.B.R. (1954)" },
@@ -2703,6 +2708,7 @@
       "wikiname": "Fokker D.XXI (Sweden)",
       "store": "9855"
     },
+    { "intname": "p-51b_7_sweden" },
     { "intname": "pyorremyrsky", "wikiname": "VL Pyörremyrsky" },
     { "intname": "bf-109g-6_finland", "wikiname": "Bf 109 G-6 (Sweden)" },
     { "intname": "saab_105oe", "wikiname": "SAAB-105OE" },
@@ -3285,6 +3291,7 @@
       "wikiname": "Bussard",
       "marketplace": "id50147_bussard_germany"
     },
+    { "intname": "germ_s_700_s_701" },
     { "intname": "germ_skr_pr50_karl_marx", "wikiname": "Karlsruhe" },
     {
       "intname": "germ_frigate_koln_lubeck",

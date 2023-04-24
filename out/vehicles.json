@@ -1203,7 +1203,11 @@
       "wikiname": "AMX-30 Super",
       "store": "6881"
     },
-    { "intname": "fr_amd_35_sa35", "wikiname": "AMD.35 (SA35)" },
+    {
+      "intname": "fr_amd_35_sa35",
+      "wikiname": "AMD.35 (SA35)",
+      "marketplace": "id50215_amd_35_sa35_france"
+    },
     { "intname": "fr_lvt_bofors", "wikiname": "LVT-4/40" },
     { "intname": "fr_lorraine_155", "wikiname": "Lorraine 155 Mle.50" },
     { "intname": "fr_panhard_ebr_1954", "wikiname": "E.B.R. (1954)" },

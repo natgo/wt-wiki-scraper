@@ -55,7 +55,7 @@ The gun was originally designed as a high-elevation one, historically being ofte
 
 Unlike predecessors, this boat have separate anti-aircraft armament which consists from twin Type 93 (13.2 mm) machine guns on a single mount at the rear of the ship. It has a notable advantage in vertical guidance over the Type 96 automatic cannons, being able to aim at targets up to +80° vs +65° for the Type 96. Also having nearly double the fire rate further increases its chances of landing successful shots at the enemy. That said though, even with two bullets hitting the enemy, the overall damage is much lower, with 13.2 mm HEI bullet bearing 1g TNT, while 25 mm HEI bears 15.3 g TNT.
 
-The more familiar with the K-8 will realize that on the 1942 refit there are no 25 mm to be spotted unlike on the [[Type K-8 (1944)]] which would only get the anti-air package late in the war.
+The more familiar with the K-8 will realize that on the 1942 refit there are no 25 mm to be spotted unlike on the [[Type K-8 No.13 late]] which would only get the anti-air package late in the war.
 
 * '''Universal:''' {{Annotation|T|Tracer}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|IAI|Immediate-action incendiary}}{{-}}{{Annotation|AP|Armour-piercing}}
 * '''AP-T:''' {{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|T|Tracer}}

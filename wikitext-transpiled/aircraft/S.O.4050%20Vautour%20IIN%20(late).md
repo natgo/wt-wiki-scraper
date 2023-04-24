@@ -16,7 +16,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-ra
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-The Vautour IIN boasts a top speed of just under Mach 1 and adequate acceleration. On the other side, it has very poor manoeuvrability in its BR range, right behind the [[Tu-4]]. Neither of its two possible loadouts noticeably affect flight performance.
+The Vautour IIN boasts a top speed of just under Mach 1 and adequate acceleration. On the other side, it has very poor manoeuvrability in its BR range, right behind the [[Tu-4]]. Neither of its two possible loadouts noticeably affects flight performance.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -157,26 +157,26 @@ The Vautour II N is an interceptor, and for the most part, can only be played as
 
 Meanwhile, the 4 x radar-guided Matra R511 missiles are not particularly reliable but can be launched as soon as passing the 8 km threshold, and can be quite effective against the occasional bomber.
 
-There are several big threats to the Vautour, most notably, avoid at all costs engaging the [[Su-25]], which possess all-aspect missiles that the Vautour has very few chances to dodge. Also take care around the [[Sea Vixen F.A.W. Mk.2]], while the Vautour cannot really dodge missiles, it can often outrun them, but this does not apply to the Sea Vixen as it is faster than the Vautour and will catch up eventually.
+There are several big threats to the Vautour, take care around the [[Sea Vixen F.A.W. Mk.2]], while the Vautour cannot really dodge missiles, it can often outrun them, but this does not apply to the Sea Vixen as it is faster than the Vautour and will eventually catch up.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Has a great acceleration and good top speed
-* Able to mix the loadouts of AA nords and R.511
-* The AA-Nords are very useful and reliable in head ons thanks to the great proxy fuse and warhead, and the R.511 in most situations as the Vautour is able to lock by radar
-* Excelent quadruple 30MM cannons with good ammo capacity and insane damage
-* R.511 has excellent maneuverability for a early radar-guided missile, and also the radar has much less ground interference compared to it´s contemporaries
+* Has great acceleration and good top speed
+* Able to mix the loadouts of AA-20 Nord and R.511 missiles
+* The AA-20 Nords are very useful and reliable in head-ons thanks to the great proxy fuse and warhead, and the R.511 in most situations as the Vautour is able to lock by radar
+* Excellent quadruple 30 mm cannons with good ammo capacity and insane damage
+* R.511 has excellent manoeuvrability for an early radar-guided missile, and also the radar has much less ground interference compared to its contemporaries
 
 '''Cons:'''
 
-* Although maneuverable, the R.511 is one of the slowest missiles in the game, not being possible to catch enemies in a tail chase with a considerable speed
-* The R.511 produces a pretty visible smoke from kilometers away, and many planes can see and evade pretty easily
-* Incredibly poor manoeuvrability in any maneuver and speed
-* Unlike [[S.O.4050 Vautour IIN|its premium counterpart]], entirely lacks air-to-ground options, making it a one-dimensional vehicle.
-* the AA-Nords missiles are MCLOS, needing specific keybinds and 100% manual guidance of the pilot in certain situations, not friendly beginner
+* Although manoeuvrable, the R.511 is one of the slowest missiles in the game, it is not able to catch enemies with considerable speed in a tail chase
+* The R.511 produces a pretty visible smoke from kilometres away, and many planes can see and evade pretty easily
+* Incredibly poor manoeuvrability in any manoeuvre and speed
+* Entirely lacks air-to-ground options, making it a one-dimensional vehicle.
+* the AA-20 Nord missiles are MCLOS, needing specific keybinds and full manual guidance by the pilot in certain situations, not beginner-friendly
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

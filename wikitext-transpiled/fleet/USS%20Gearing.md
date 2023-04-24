@@ -11,11 +11,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} American destroyer {{Battle-ra
 === Survivability and armour ===
 {{Specs-Fleet-Armour}}
 <!-- ''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.'' -->
-USS Gearing, as a late war US destroyer, has very good armour in comparison to destroyers from other nations. This takes the shape of a main armour belt consisting of {{Annotation|0.75 inches|19 mm}} of antifragmentation armour. This, while being unable to stop any fire from other destroyer or cruiser guns such as the {{Annotation|5-6 inch|127-152 mm}} commonly found, it will still drastically reduce the damage done to the internals of the ship from high-explosive shells. This greatly increases the survivability of the ship, especially against Japanese ships such as the [[IJN Shimakaze]] which have no access to any form of {{Annotation|SAP|Semo-Armour Piercing}} or {{Annotation|AP|Armour Piercing}}. The top of the machinery spaces are covered by a layer of {{Annotation|0.5-inch|13 mm}} armour as well, protecting against splinters from shells landing higher in the ship. This in combination with the respectable crew of 336 members gives her good survivability, some of the best in the USN destroyer line, surpassed only by the [[USS Sumner]] and [[Mitscher (Family)| Mitscher-class]] destroyers.
+USS Gearing, as a late war US destroyer, has very good armour in comparison to destroyers from other nations. This takes the shape of a main armour belt consisting of {{Annotation|0.75 inches|19 mm}} of anti-fragmentation armour. While being unable to stop any fire from other destroyer or cruiser guns such as the commonly found {{Annotation|5-6 inch|127-152 mm}}, it will still drastically reduce the damage done to the internals of the ship from high-explosive shells. This greatly increases the survivability of the ship, especially against Japanese ships such as the [[IJN Shimakaze]] which have no access to any form of {{Annotation|SAP|Semi-Armour Piercing}} or {{Annotation|AP|Armour Piercing}}. The top of the machinery spaces are covered by a layer of {{Annotation|0.5-inch|13 mm}} armour as well, protecting against shrapnel from shells landing higher in the ship. This, in combination with the respectable crew of 336 members, gives her good survivability, some of the best of the USN destroyers, surpassed only by the [[USS Sumner]] and [[Mitscher (Family)| Mitscher-class]] destroyers.
 
-The dual mounts, similar to other US destroyers, are designed as dual purpose, and are therefore unable to be protected by thick armour as this would slow turret traverse. This means the turrets are only lightly covered by {{Annotation|0.125-inch|3.175 mm}} anti-fragmentation armour. This means any direct hit from anything larger than a 20 mm will almost definitely knock out the turret, although at least near misses will leave the turret unharmed or with slight damage.
- 
-However the USS Gearing still has one of the issues left over from earlier US destroyers: the rear magazine being elevated near the waterline. This was a necessity to allow room for the propeller shafts in the stern of the ship, but still can have rather explosive consequences. The issue has been alleviated somewhat compared to the earlier [[Porter (Family)|Porter-class]] which are infamous for how easily they are destroyed via this area, but captains should still be wary and avoid fire to the aft of the ship whenever possible.
+The dual mounts, similar to other US destroyers, were designed as dual-purpose, and were therefore unable to be protected by thick armour as this would slow turret traverse. This means the turrets are only lightly covered by {{Annotation|0.125-inch|3.175 mm}} anti-fragmentation armour. Any direct hit from anything larger than a 20 mm will almost definitely knock out the turret, although at least near misses will leave the turret unharmed or with only slight damage.
+
+However, the USS Gearing still has one of the issues left over from earlier US destroyers: the rear magazine being elevated near the waterline. This was a necessity to allow room for the propeller shafts in the stern of the ship, but still can have rather explosive consequences. The issue has been alleviated somewhat compared to the earlier [[Porter (Family)|Porter-class]] which are infamous for how easily they are destroyed via this area, but captains should still be wary and avoid fire to the aft of the ship whenever possible.
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
@@ -61,7 +61,7 @@ The USS Gearing has a very strong secondary armament, with a total of 16 x 40 mm
 <!-- ''An important part of the ship's armament responsible for air defence. Anti-aircraft armament is defined by the weapon chosen with the control <code>Select anti-aircraft weapons</code>. Talk about the ship's anti-air cannons and machine guns, the number of guns and their positions, their effective range, and about their overall effectiveness – including against surface targets. If there are no anti-aircraft armaments, remove this section.'' -->
 {{main|20 mm/70 Oerlikon Mk.II (20 mm)}}
 
-The short range AA of the USS Gearing is made up of no less than 11 x 20 mm Oerlikon autocannons. These can quickly handle most close range threats, but their range is limited, so if they start firing then look out for closing threats. 
+The short range AA of the USS Gearing is made up of no less than 11 x 20 mm Oerlikon autocannons. These can quickly handle most close range threats, but their range is limited, so if they start firing then look out for closing threats.
 
 === Additional armament ===
 {{Specs-Fleet-Additional}}
@@ -74,14 +74,14 @@ The depth charges are dropped from the back of the ship and as such are only use
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
-The USS Gearing can be played aggressively as the fast firing 5-inch guns and powerful 40 mm cannons can shred most opponents with ease and the large crew count allows for punishment to be taken in return. It is recommended to release torpedoes early in the match to prevent them from being detonated later in the match. 
+The USS Gearing can be played aggressively as the fast firing 5-inch guns and powerful 40 mm cannons can shred most opponents with ease and the large crew count allows for punishment to be taken in return. It is recommended to release torpedoes early in the match to prevent them from being detonated later in the match.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 '''Pros:'''
 
 * Very powerful close and medium AA armament
-* Large crew complement for a destroyer for longer survivability 
+* Large crew complement for a destroyer for longer survivability
 * Fast firing 5-inch guns
 * Good antifragmentation armour
 

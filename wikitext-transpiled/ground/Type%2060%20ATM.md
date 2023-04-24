@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a missile-armed APC to motorize Japan's new development in anti-tank measures, the [[Type 64 MAT]] which was armed on a multitude of vehicles including the '''Type 60 APC'''.
+The '''{{Specs|name}}''' was a missile-armed APC to motorize Japan's new development in anti-tank measures, the [[Type 64 MAT]] ATGM, which was armed on a multitude of vehicles.
 
-The Type 60 ATM was introduced in [[Update 1.67 "Assault"]]. It comes with plenty of disadvantages to work with, offering only an APC as non-existent armour, missiles that fly by wire and swap vehicle control to missile control and a very slow speed due to only being a gen 1 missile. However, this can be turned into an advantage considering the missiles fly in an upwards arc, allowing the APC to hide behind solid cover, and the speed can be used to maneuver around or over obstacles.
+The Type 60 ATM was introduced in [[Update 1.67 "Assault"]]. It comes with plenty of disadvantages to work with, with minimal armour, and missiles that fly by wire, swapping vehicle control to missile control, and have very slow speed due to only being a gen 1 missile. However, this can be turned into an advantage considering the missiles fly in an upwards arc, allowing the Type 60 to hide behind solid cover and manoeuvre the missile around or over obstacles relatively easily.
 
 == General info ==
 === Survivability and armour ===
@@ -173,7 +173,7 @@ If it is necessary to use some hill to avoid being destroyed via countersnipe an
 
 Long range sniping isn't much different from RB, you just have to aim at the enemy with your mouse instead of manually curving missile. You also can move while guiding it, though it is very hard to do on a move without aim assist (by default, right mouse button) due to a lack of stabiliser.
 
-Semi-auto mode disallows the {{PAGENAME}} to attack tanks that are outside of sniper scope aim in AB, especially if they are way outside of horizontal launch zone at long ranges. But, if enemy tank is further than than 300 m and is about 30 degrees to your left or right, you can launch missile high-forward and turn the APC while dragging it to that side, then point at the enemy tank for a likely hit. Be aware that in AB the missile heavily dislikes being treated like a slingshot and will constantly drop downwards, which is why you should launch it higher than usual - do not let it hit the ground. 
+Semi-auto mode disallows the {{PAGENAME}} to attack tanks that are outside of sniper scope aim in AB, especially if they are way outside of horizontal launch zone at long ranges. But, if enemy tank is further than than 300 m and is about 30 degrees to your left or right, you can launch missile high-forward and turn the APC while dragging it to that side, then point at the enemy tank for a likely hit. Be aware that in AB the missile heavily dislikes being treated like a slingshot and will constantly drop downwards, which is why you should launch it higher than usual - do not let it hit the ground.
 
 ;Combat tactics
 
@@ -217,7 +217,7 @@ The biggest threat from this tank comes in form of its abilities to hide behind 
 
 For example, the Type 60's ATGM is very loud, so unless it was fired from 1.5 km away (almost maximum range for this tank), the sound of the missile launch will likely be audible. '''Do not ignore them''', check if there is a missile coming for you, and if not - remember where the noise came from.
 
-The only comfortable way to destroy hull-down Type 60 ATM relies on using chemical shells, preferably HE or HESH. If using HEAT, whenever a Type 60 ATM is spotted standing behind low cover, try to not focus on its launchers and instead try to spot machine gun shield on its right (left for an opposing player) and fire explosives at the lower part of the shield itself. It is much more likely then that the shock-wave will hit poor roof armour and annihilate tank crew. 
+The only comfortable way to destroy hull-down Type 60 ATM relies on using chemical shells, preferably HE or HESH. If using HEAT, whenever a Type 60 ATM is spotted standing behind low cover, try to not focus on its launchers and instead try to spot machine gun shield on its right (left for an opposing player) and fire explosives at the lower part of the shield itself. It is much more likely then that the shock-wave will hit poor roof armour and annihilate tank crew.
 
 Do note, that Type 60 ATM has '''two''' missiles at once and is rarely truly alone due to "scouting" ability, as it can manipulate its allies into helping it. Scouting also allows it to track tanks, even behind smoke screens and walls, for better missile accuracy.
 

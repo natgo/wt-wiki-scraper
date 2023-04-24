@@ -6,6 +6,7 @@
 {{Specs-Card
 |code=fr_amd_35_sa35
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|market=id50215_amd_35_sa35_france
 }}
 
 == Description ==

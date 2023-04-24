@@ -17,17 +17,17 @@ In the game Albatros F543 added in the [[Update "Wind of Change"|"Wind of Change
 === Survivability and armour ===
 {{Specs-Fleet-Armour}}
 <!-- ''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.'' -->
-''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.''
+The survivability of the Albatros F543 is decently able to withstand several enemy hits, the crew consists of 117 people so you have decent survivability against enemy damage to the hull, armaments and fires on the ship, however, if the ship is under continuous enemy fire it is not able to respond to enemy fire because many times they will start to shoot down all your armaments first so in the end it cannot be under continuous enemy fire.
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
-''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.''
+For a frigate, the Albatros F543 is very manoeuvrable and decently fast, which allows it to dodge some enemy fire coming towards your ship and also to dodge any torpedoes or enemy bombs while speaking of acceleration, it can accelerate both forward and reverse quickly, but it struggles to slow down quickly, so, in this case, you'll have to go left and right to slow down further.
 
 {{NavalMobility}}
 
 === Modifications and economy ===
-{{Specs-Economy}}
+{{Specs-Economy}}A little tip is to look for HE OM-2 and HE-VT OM-2 rounds after repairs and extinguishers to give you an advantage in firepower for both naval and air targets
 
 == Armament ==
 {{Specs-Fleet-Armaments}}
@@ -99,18 +99,18 @@ In contrast, HE-VTs are perfect for shooting down enemy targets from long to sho
 <!-- ''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.'' -->
 {{main|L70 Bofors-Breda (40 mm)}}
 
-''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.''
+The secondary armament consisting of a twin 40mm Breda-Bofors tower is a great secondary for the simple fact that you have a high rate of fire and can use this armament against both coastal ships except those that have high survivability ([[LE Orla]], [[HMS Peacock]]) and in particular very effective against air targets due to the HE-VT belt selection and the radar which you can use to manually lock on to aircraft and shoot them.
 
 === Additional armament ===
 {{Specs-Fleet-Additional}}
 <!-- ''Describe the available additional armaments of the ship: depth charges, mines, torpedoes. Talk about their positions, available ammunition and launch features such as dead zones of torpedoes. If there is no additional armament, remove this section.'' -->
 {{main|Mk.10 Hedgehog mortar|B TG 100 depth charge}}
 
-''Describe the available additional armaments of the ship: depth charges, mines, torpedoes. Talk about their positions, available ammunition and launch features such as dead zones of torpedoes. If there is no additional armament, remove this section.''
+The added armament consists of two Mk.10 Hedgehog mortars and two B TG 100 depth charge launchers, both of which are submarine-specific armaments but being that they are not on War Thunder, you will use them against both small and large ships, both of which cause severe hull damage in capacitating the enemy ship and causing it to flood quickly.
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
-''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).''
+Then before using the Albatros F543, use another ship or boat so that as the battle goes on the enemy comes closer to your spawn after being destroyed choose Albatros F543, and spawn in the destroyers spawn for the simple fact that the albatross is a frigate, start to engage enemy ships with your 76mm cannons, from stock you will have the OM-1 but later when you research the HE OM-2 you will be able to cause a lot of damage to enemy ships thanks to the explosive mass of the shot, when you are against enemy ships always aim at the main guns and then at the bridge so you can disable the main armament that is the most lethal, Every now and then look at the radar to see if enemy planes are approaching if you spot one the 40mm Bofors-Breda should easily destroy the air target or lock on to the enemy plane and switch shots with the HE-VT OM-2 so that you can shoot down enemy planes that are attacking you or attacking an ally, the 40mm Breda Bofors can be left in AI mode in air and naval targets, depending on the map I recommend you find a sheltered position for safety so that if they destroy the main armament you can hide and take cover.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
@@ -248,10 +248,8 @@ The Albatros-class was the first series of warships constructed by Italian shipy
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-* ''reference to the series of the ship;''
-* ''links to approximate analogues of other nations and research trees.''
+* [[Sparviero]]
+* [[76 mm/62 OTO-Melara Compact (76 mm)/Ammunition|76 mm/62 OTO-Melara Compact]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

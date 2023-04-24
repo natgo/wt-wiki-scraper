@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-During the advance of the Allies on Italian territory in 1943, Germany began to send different types of vehicles to Italy (RSI) to increase the effectiveness and in turn improve the defence of the territory, the vehicles were aircraft, light vehicles, transport vehicles, cannons and eventually tanks, of these tanks the most particular ones were Pz.IV G, Pz. III N and eventually StuG III G, these were used in the 1st Armoured Division Black Shirts "M" formed in the same year and was divided into three companies, the third of which had as tanks the StuG III G in 12 examples, with 2 particular differences, the first the removal of the side protections the second the addition of smoke launchers on both sides, the Italian StuG III Gs did not fight because the division was still in training and would eventually be recovered by the Germans only to be captured by the Allies during the advance into Germany.
+During the advance of the Allies on Italian territory in 1943, Germany began to send different types of vehicles to Italy (RSI) to increase their effectiveness and in turn improve the defence of the territory, including aircraft, light vehicles, transport vehicles, cannons, and eventually tanks. In particular, Pz.IV G, Pz.III N, and eventually StuG III G were sent. These were used in the 1st Armoured Division Black Shirts "M" formed in the same year and was divided into three companies, the third of which was equipped with 12 StuG III G, with 2 particular differences: the removal of the side skirts, and the addition of smoke launchers on both sides. The Italian StuG III Gs did not see combat because the division was still in training, and would eventually be recovered by the Germans only to be captured by the Allies during the advance into Germany.
 
-In the game the italian StuG III G will be added with the [[Update "Ixwa Strike"|"Ixwa Strike" update]], the vehicle is almost the same as the German one however it has its particular differences such as the removal of the side protections, and the most useful difference 2 triple smoke grenade launchers useful to escape from dangerous situations or to confuse the enemy, however thanks to its cannon you can destroy any target you meet at your level, always try to position yourself in well-protected places so you can destroy as many targets as possible.
+Introduced in [[Update "Ixwa Strike"]], the Italian StuG III G is almost the same as the German one however it has its particular differences such as the removal of the side skirts, and the addition of 2 triple smoke grenade launchers, which can be useful to escape from dangerous situations or to confuse the enemy. Thanks to the powerful cannon, you can destroy any target you meet at your level, always try to position yourself in well-protected places so you can destroy as many targets as possible.
 
 == General info ==
 === Survivability and armour ===
@@ -111,7 +111,7 @@ The StuG III G has no defense against enemy aircraft, so if you see one heading 
 * Good frontal armour
 * Low silhouette
 * Powerful 75 mm cannon
-* Boxy design makes it excellent for angling 
+* Boxy design makes it excellent for angling
 
 '''Cons:'''
 

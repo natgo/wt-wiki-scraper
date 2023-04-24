@@ -17,7 +17,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French jet bomber
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
-The Vautour has decent manoeuvrability (for a bomber), but you shouldn't be turning with anything to begin with. Where this plane really shines is the acceleration owing to the two powerful engines in the underling nacelles and the heavy air frame. Which makes it amazing in the vertical. But since you can't have everything, the wings will break in prolonged >7g manoeuvres. Essentially you don't want to do any insane manoeuvres, and risk getting sent back to the hanger.
+The Vautour IIA IDF/AF has decent manoeuvrability for a bomber, but you shouldn't be turning with anything to begin with. Where this plane really shines is the acceleration owing to the two powerful engines in the underling nacelles and the heavy airframe, which makes it amazing in the vertical. But since you can't have everything, the wings will break in prolonged >7g manoeuvres. Essentially you don't want to do any insane manoeuvres and risk getting sent back to the hangar.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -121,7 +121,7 @@ The Vautour has decent manoeuvrability (for a bomber), but you shouldn't be turn
 * 50 mm bulletproof in front of pilot
 * Self-sealing fuel tanks (4 in the fuselage, 1 in each wing)
 
-This thing can take quite a lot of punishment before going down due to the bomber's damage model.
+The Vautour IIA IDF/AF can take quite a lot of punishment before going down due to the bomber's damage model.
 
 === Modifications and economy ===
 {{Specs-Economy}}

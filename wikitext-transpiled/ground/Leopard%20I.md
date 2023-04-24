@@ -121,7 +121,7 @@ The {{PAGENAME}} mounts one coaxial 7.62 mm machine gun and one pintle-mounted 7
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 6,000 (200) || 1,200 || N/A || N/A
+| Coaxial || 5,400 (200) || 1,200 || N/A || N/A
 |-
 | Pintle || 2,000 (200) || 1,200 || -8°/+20° || ±120°
 |-
@@ -236,6 +236,7 @@ The first production order of 1,500 tanks was placed in 1963, and in September, 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_leopard_I Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

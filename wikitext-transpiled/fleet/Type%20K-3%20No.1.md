@@ -117,7 +117,7 @@ On 27 June 1945 No.2 was struck by a 533 mm torpedo from the Balao-class submari
 ;Ships of comparable role, configuration and era
 * [[SC-497]]
 * [[R-301]]
-* [[MPK pr. 122A]]
+* [[MPK pr.122A]]
 * [[HMCS Brantford]]
 * [[Type K-7 No.4]]
 

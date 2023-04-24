@@ -2838,7 +2838,16 @@
             },
             { "name": "germ_vs8_hydrofoil", "rank": 3, "reqAir": "" }
           ],
-          []
+          [
+            {
+              "name": "germ_s_700_s_701",
+              "rank": 3,
+              "reqAir": "",
+              "gift": true,
+              "hidden": true,
+              "event": "battlepass_season11"
+            }
+          ]
         ],
         [
           [
@@ -4699,7 +4708,15 @@
             },
             { "name": "uk_centurion_action_x", "rank": 4, "reqAir": "" }
           ],
-          []
+          [
+            {
+              "name": "uk_centurion_mk_2",
+              "rank": 4,
+              "reqAir": "",
+              "gift": true,
+              "event": "battlepass_season11"
+            }
+          ]
         ],
         [
           [
@@ -8238,7 +8255,17 @@
           "drawArrow",
           [{ "name": "saab_b18b", "rank": 3 }],
           "drawArrow",
-          [{ "name": "pyorremyrsky", "rank": 3, "reqAir": "" }],
+          [
+            {
+              "name": "p-51b_7_sweden",
+              "rank": 3,
+              "reqAir": "",
+              "gift": true,
+              "hidden": true,
+              "event": "battlepass_season11"
+            },
+            { "name": "pyorremyrsky", "rank": 3, "reqAir": "" }
+          ],
           []
         ],
         [

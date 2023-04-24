@@ -81,6 +81,7 @@ Since the reload speed is so fast, it is very easy to switch between belts even 
 |}
 
 ==== Ammunition ====
+
 * '''Default:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|FI-T*|Fragmentation incendiary tracer (self-destroying)}} - These work fine, a hit on an aircraft means instant disassembly for it and still is able to hurt ground vehicles, especially if it is side into the side of a enemy tank.
 * '''Mk.II:''' {{Annotation|FI-T*|Fragmentation incendiary tracer (self-destroying)}} - These mean bad news for aircraft, what should be used for AA work.
 * '''M81A1:''' {{Annotation|AP-T|Armour-piercing tracer}} - These are the worst belts against airplanes. However, they are able to hurt ground vehicles especially if shot into the side of an enemy tank. If you plan on penetrating tanks, load this and flank, since side shots are almost a necessity.
@@ -88,18 +89,16 @@ Since the reload speed is so fast, it is very easy to switch between belts even 
 {{:Dual Automatic Gun M2 (40 mm)/Ammunition|Mk.II, M81A1}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks_M42.png|right|thumb|x250px|[[Ammo racks]] of the M42 Duster.]]
-<!-- '''Last updated:''' -->
+[[File:New Ammoracks M42.png|thumb|307x307px|[[Ammo racks]] of the M42 Duster.]]<!-- '''Last updated:''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
 ! 1st<br>rack empty
 ! 2nd<br>rack empty
 ! 3rd<br>rack empty
-! 4th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''60''' || 50&nbsp;''(+10)'' || 38&nbsp;''(+22)'' || 14&nbsp;''(+46)'' || 2&nbsp;''(+58)'' || Yes
+| '''60''' || 30&nbsp;''(+30)'' || 4&nbsp;''(+56)'' || 2&nbsp;''(+58)'' || Yes
 |-
 |}
 

@@ -159,11 +159,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 ;Arcade battles
 
-The Su-7BMK can bomb bases, intercept bombers, and fight other fighter planes at the same time. With the excellent acceleration of the Su-7, you can easily catch up with the enemy because of the massive and powerful engine with its afterburner. However, keep an eye on the fuel: the afterburner burns a ton of fuel when active, so the best would be to fill the fuel tank up to full. The plane also features a ballistic computer and two 30 mm autocannons, with excellent ammo selection, which can rip apart any plane you'll face in battle. The Su-7BMK can perform well in a 1-vs-1 scenario, but if it encounters multiple enemy planes, it will have problems (especially if your enemy is equipped with air-to-air missiles). The best would be to have a teammate close to you, so you will have some cover if things go wrong.
+The Su-7BMK can bomb bases, intercept bombers, and fight other fighter planes at the same time. You can easily catch up with the enemy because of the massive and powerful engine with its afterburner. However, keep an eye on the fuel; the afterburner burns a ton of fuel when active, so if you plan on actively using it, it would be to fill the fuel tank up to full. The plane also features a ballistic computer and two 30 mm autocannons, with excellent ammo selection, which can rip apart any plane you'll face in battle. The Su-7BMK can perform well in a 1-vs-1 scenario, but if it encounters multiple enemy planes, it will have problems (especially if your enemy is equipped with air-to-air missiles). The best strategy is to have a teammate close to you, so you will have some cover if things go wrong.
 
 ;Realistic battles
 
-Dogfighting is not viable because of the poor turn rate; the enemy can out-turn you quickly and get behind you. The Su-7BMK is an interceptor/attacker with a slow roll rate. Because of the low ammo capacity of the guns (160 rounds), pilots should apply strict trigger discipline. The two 30 mm autocannons are potent and can quickly destroy most planes that the Su-7BMK fights. Remember to use short/controlled bursts since the ammo belts are short. Overall, the Su-7BMK should remain an interceptor and a base bomber. With its ballistic computer, pilots will obliterate ground targets and bases.
+Dogfighting is not viable because of the poor turn rate; the enemy can out-turn you quickly and get behind you. The Su-7BMK is an interceptor/attacker with a slow roll rate. Because of the low ammo capacity of the guns (160 rounds), pilots should apply strict trigger discipline. The two 30 mm autocannons are potent and can quickly destroy most planes that the Su-7BMK fights. Remember to use short, controlled bursts since the ammo belts are short. Overall, the Su-7BMK should remain an interceptor and a base bomber. With its ballistic computer, pilots will obliterate ground targets and bases.
 
 === Radars ===
 {| class="wikitable" style="text-align:center"
@@ -195,7 +195,7 @@ Dogfighting is not viable because of the poor turn rate; the enemy can out-turn 
 * Lacks guided weapons: neither AGMs nor AAMs are available
 * Wings can be ripped apart if one isn't careful when diving on bomb targets
 * No countermeasures
-* Is practically restricted to ground operations
+* Practically restricted to ground operations
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -224,6 +224,7 @@ File:Su-7 BMK WTWallpaper005.jpg|
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Su-7 (Family)]]
 
 == External links ==

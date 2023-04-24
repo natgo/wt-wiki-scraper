@@ -51,7 +51,7 @@ The BMP-2 has optional add-on armour which improves its resistance to heavy mach
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
-{{tankMobility|abMinHp=465|rbMinHp=265|AoAweight=0.8}}
+{{tankMobility|abMinHp=465|rbMinHp=265|AoAweight=0.8|weight=14|rbReverseSpeed=10.5}}
 
 The {{PAGENAME}}'s mobility is reasonable, albeit not excellent, at a maximum of 72/65 km/h (AB\RB) on-road, however, the vehicle's acceleration and off-road performance leave something to be desired.
 
@@ -71,7 +71,7 @@ The Shipunov 2A42 30 mm autocannon is a very versatile weapon - it is possible t
 
 The main concern with this powerful main weapon is the ammo capacity. The gun has two firing modes - relatively slow (~200/minute) and extremely fast (~550/minute), while your ammo capacity is 500. To not run out of ammo during the battle, one should use full auto mode only when facing certain doom, or when sitting in an ambush position against an unknown enemy.
 
-Its reload rate for the belts is quite fast at 1.15 seconds and it gets a choice of HEF-T, AP-T, and HVAP in belts. Every belt is universal and has at least 1 AP and 1 HE in them, HE belt carrying 2 of HEF-T for 1 AP-T per cycle.
+Its reload rate for the belts is quite fast at 1 second and it gets a choice of HEF-T, AP-T, and HVAP in belts. Every belt is universal and has at least 1 AP and 1 HE in them, HE belt carrying 2 of HEF-T for 1 AP-T per cycle.
 
 The HVAP belts have enough penetration to obliterate lighter tanks such as [[Leopard A1A1|Leopard A1A1s]], [[AMX-30B2 BRENUS]]  and [[Warrior]] frontally, however, when engaging other larger targets it's only possible to completely defeat them from the side, though you can still cripple enemy tanks frontally by shooting cannon barrels and tracks.
 
@@ -94,6 +94,7 @@ The main difference of the HVAP compared to the APDS of other autocannon-equippe
 |}
 
 ==== Ammunition ====
+
 * '''Default:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}
 * '''30 mm HE:''' {{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}{{-}}{{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}
 * '''30 mm APT:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}
@@ -251,6 +252,7 @@ The arrival of the BMP-1 infantry combat vehicle in the Soviet Army greatly incr
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_bmp_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -274,6 +276,7 @@ The arrival of the BMP-1 infantry combat vehicle in the Soviet Army greatly incr
 === References ===
 
 ;Bibliography
+
 * David B. (2016, December 12). BMP-2. Tank Encyclopedia. https://tanks-encyclopedia.com/coldwar/USSR/BMP-2.php
 * BMP-2. (2020, April 27). In ''Wikipedia''. https://en.wikipedia.org/w/index.php?title=BMP-2&oldid=953499108
 
