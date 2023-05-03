@@ -163,7 +163,7 @@ Some enemies to be considered:
 |-
 |}
 
-Usage of manual engine controls will allow you get more out of the engine at lower altitudes. Setting the propeller pitch to 100%, the radiator to 65% and the oil radiator to 85% will allow you to use WEP indefinitely without overheating. The values for both of the radiators can be reduced slightly when flying at higher altitudes or on colder maps.
+Usage of manual engine controls will allow you get more out of the engine at lower altitudes. Setting the propeller pitch to 100%, the radiator to 35% and the oil radiator to 40% will allow you to use WEP indefinitely without overheating. The values for both of the radiators can be reduced slightly when flying at higher altitudes or on colder maps.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -178,7 +178,7 @@ Usage of manual engine controls will allow you get more out of the engine at low
 
 '''Cons:'''
 
-* Poor engine performance at higher altitudes, can't use WEP above 3,700 metres
+* Poor engine performance at higher altitudes, can't use WEP above 3,700 metres or gear 2 supercharger with MEC
 * Engine has a tendency to overheat at lower altitudes if manual engine controls aren't used
 * Armament is inadequate when facing multi-engined aircraft, such as bombers
 * Lower dive speed compared to contemporaries
@@ -228,6 +228,7 @@ In April 1943 a serial La-5FN was flight tested in mock combat against a capture
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[La-5 (Family)]]
 * [[La-7 (Family)]]
 

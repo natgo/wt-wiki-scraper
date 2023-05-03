@@ -186,9 +186,9 @@ To conclude, this armoured car is very useful when used in a harasser role, and 
 * [[Sd.Kfz.234/3]], tank destroyer version of the Sd.Kfz.234, with a [[K51 L/24 (75 mm)|75 mm K51]] howitzer.
 * [[Sd.Kfz.234/4]], tank destroyer version equipped with the longer [[PaK40/3 L46 (75 mm)|75 mm PaK40/3]] gun.
 
-;Vehicles equipped with the same gun
-* [[Pz.II F]]
-* [[Sd.Kfz. 140/1]]
+;Other vehicles of similar configuration and role
+* [[Sd.Kfz.222]]
+* [[Sd.Kfz.222 (China)]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''

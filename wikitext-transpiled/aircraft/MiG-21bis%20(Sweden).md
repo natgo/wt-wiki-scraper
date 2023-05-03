@@ -189,7 +189,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 The MiG-21bis is fairly manoeuvrable at high speeds and since it accelerates quickly and climbs extremely well, it works well as an interceptor (take off, reach around 1,000 km/h, burst climb at a 20-25 degree angle up to 6,000 or 7,000 m and fire on anything that can be sighted) but this method has some risks.
 
-First, the MiG-21bis is prone being hit by a [[Matra R530E]] or the infamous [[AIM-7E Sparrow|AIM-7]] SARHMs (Semi Active Radar Homing Missiles) that can easily shoot the MiG-21bis down since the plane becomes a brick at higher altitudes. And sometimes, even if the MiG-21bis succeeds in its interception objective, some enemies will fly in a different path, so they'll easily sneak up behind the MiG-21bis and take it down with missiles if it is high and slow enough.
+First, the MiG-21bis is prone being hit by a SARH (Semi-Active Radar-Homing) missile such as the AIM-7F or R-24R that can easily shoot the MiG-21bis down since the plane becomes a brick at higher altitudes. And sometimes, even if the MiG-21bis succeeds in its interception objective, some enemies will fly in a different path, so they'll easily sneak up behind the MiG-21bis and take it down with missiles if it is high and slow enough.
 
 The second way to play this plane is to fly at lower altitudes (below 2,000 m) and engage any targets that are encountered, the risk here is that the MiG-21bis is left vulnerable to high-flying enemies that, again, can easily sneak up and take the MiG-21bis down, so pay attention to the surroundings and avoid getting an IR missile shot up into the engine.
 
@@ -199,8 +199,9 @@ A more risky but rewarding playstyle is to use 2 x R-13M-1 and 4 x R-60MK, or 4 
 
 '''Enemies worth noting:'''
 
-* [[F-4 Phantom II (Family)|Phantoms]], particularly [[F-4E]] and [[F-4EJ|EJ]] models: these should be the MiG-21bis' priority targets, F-4Es and F-4EJs are well-known for being extremely versatile and dangerous (even sometimes referred to as the best top tier jets in the game). These planes accelerate quickly, can wield the dangerous [[AIM-9J]] AAMs that are able to pull 20 Gs of overload and can hit targets up to 3 km of range, have access to a large amount of flares and have responsive flight controls. However, a lot of Phantom pilots are overconfident into their planes and will often jump into a dogfight with the MiG-21bis, which is a terrible idea for Phantom pilots. The motto "a slow jet is a dead jet" rings true for most situations, but the MiG-21bis has an ace up its sleeve against Phantoms: better low and high speed manoeuvrability that can sometimes match the Phantom's turn rate! So if a Phantom attempts to dogfight the MiG-21bis, take up the challenge as it'll most likely end up with the Phantom pilots losing. However, only do so if there are allies nearby or if there aren't any enemies nearby or the MiG-21bis may end up getting taken out unexpectedly.
-* The [[Mirage IIIC]] and the [[J35D|J35D Draken]]: These planes are also serious foes since they out turn everything at their BR (keep in mind that the J35D Draken is more manoeuvrable than the Mirage) so dogfighting them is a death sentence. They're also able to wield deadly missiles, the Draken wields the Swedish license built AIM-9P3s known as [[RB24J|RB24Js]] and the Mirage has access to the extremely effective [[Matra R550 Magic 1]] that pulls 30 Gs and has a higher top speed than other IR guided missiles. The best thing to do against these planes is to do a zoom-climb to bleed their speed since they have a lower thrust-to-weight ratio than the MiG-21bis and then do oblique turns since they both bleed a ton of speed when turning and have a lower acceleration than the MiG-21bis does. And if they try to fire a missile at the MiG-21bis? Don't worry, pop flares, turn off afterburner, and pull hard.
+* [[F-4 Phantom II (Family)|F-4 Phantoms]], particularly those with PD radars: these should be the MiG-21bis' priority targets, F-4s are well-known for being extremely versatile and dangerous. These planes accelerate quickly and wield dangerous AIM-7 SARH missiles that can shut down the MiG-21's climbing efforts. While the F-4E variant can be relatively easily countered with chaff to interfere the radar, the ones with PD radars like the F-4J and F-4S can easily track and destroy the MiG-21, requiring notching to break off the radar lock. These planes also have a large number of countermeasures, so the MiG-21's effort to attack them with IR missiles can be easily thwarted. At closer ranges, the fight is more even, as the F-4's Sidewinder missiles can be diverted with countermeasures (though beware if it is a F-4 equipped with the all-aspect AIM-9L Sidewinder missile) However, the dogfight can still be tough if the F-4 has the right pilot playing to its strengths, so be wary and don't assume the MiG-21 has control of the dogfight until the MiG-21's nose is pointed right at the target's six o' clock.
+* [[F-14A Early]]: The F-14 can be a very dangerous opponent as it has access to the AIM-54 Phoenix and the AIM-7F Sparrow missiles. Multiple F-14s will be able to effectively shut down higher altitudes at the start of the game by launching AIM-54 missiles. Thankfully, the MiG-21 Bis is fitted with a RWR to alert you of any potential incoming treats. Whenever you notice a possible incoming SARH missile at high altitude, the best thing to do is to immediately start to notch the enemy radar (Going 90 degrees in relation to the enemy radar) and release chaff. In a dogfight, the F-14 will gain the upper hand in just a few turns due to the poor energy retention of the MIG-21. However the MiG-21 will have the better turn radius in the first 1-2 turns if the fight starts at high speed.  
+* The [[F-16_(Family)|F-16A]] and [[MiG-29]]: Hopefully, the MiG-21bis does not encounter either of these due to the BR differences, but in the case that it does, both of these planes feature advanced radar and highly dangerous SARH missiles. (AIM-7F and R-27ER respectively) However these can still be countered by notching the enemy radar. Both of these planes will have the advantage in a dogfight, the MiG-29 will be able to out-turn you at most speeds while the F-16 is much more agile at lower speed and can easily put you into an energy trap. 
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -208,21 +209,20 @@ A more risky but rewarding playstyle is to use 2 x R-13M-1 and 4 x R-60MK, or 4 
 
 '''Pros:'''
 
-* Impressive climb rate of 225 m/s, making it one of the best climbers
+* Impressive climb rate of 225 m/s
 * Increased flight performance compared to earlier MiG-21s
 * Excels against both aerial and ground targets
 * Has access to flares that are fired downwards, which means that missiles can be more easily evaded
 * Stunning acceleration
-* Excellent energy retention
 * Can wield six R-60MKs
 * Huge thrust to weight ratio
 
 '''Cons:'''
 
 * As all MiG-21s, it tends to bleed speed in turns, though not as much, thanks to the improved engine
-* Vicious rudder lock at speeds above 700 km/h, can be frustrating when trying to get guns on target
 * Pretty bad low speed manoeuvrability
 * Doesn't respond well to wing damage - if a wingtip is lost, landing this plane will be very difficult, and if a wing is lost, the plane should be considered as lost
+* Poor energy retention
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

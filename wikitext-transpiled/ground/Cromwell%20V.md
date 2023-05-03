@@ -14,7 +14,7 @@ The '''{{Specs|name}}''' (or just '''{{Specs|pseudonym}}''') is a Rank {{Specs|r
 
 The Cromwell V, despite being a later and more modern version than the Mk I, has a slightly lower (3.0-3.3) BR than the [[Cromwell I|Mk.I]] and arrives first in the tech tree. This is due to its 75 mm gun, which offers less penetration than the [[Ordnance QF 6-pounder Mk.III (57 mm)|57 mm]] in the Mk. I, and thus makes many higher BR tanks effectively invulnerable to it. Those few points of BR make little the difference; in its match-ups the Cromwell V is an average opponent, but will easily outrun anything on the map to take up effective positions for the first shot, and then doling out some of the worst damage in the game at its BR from its 75 before running off to another location.
 
-This tank is not a beginner-friendly vehicle. Though fast, the vehicle's gun does not provide reliable victories against enemy tanks. Skill is required to maximize the vehicle's speed, rectangular armour, and firepower against enemy vehicles with AP rounds with HE fillers. Excellent aim very important to get the job done.
+This tank is not a beginner-friendly vehicle. Though fast, the vehicle's gun does not provide reliable victories against enemy tanks. Skill is required to maximize the vehicle's speed, rectangular armour, and firepower against enemy vehicles with AP rounds with HE fillers. Excellent aim is very important to get the job done.
 
 == General info ==
 === Survivability and armour ===
@@ -195,6 +195,7 @@ The Cromwells were also given out to Allied units such as the 1st Polish Armoure
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a27m_cromwell_5 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -206,6 +207,7 @@ The Cromwells were also given out to Allied units such as the 1st Polish Armoure
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Cromwell (Family)]]
 
 == External links ==

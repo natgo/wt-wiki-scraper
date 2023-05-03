@@ -5,11 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British battlecruiser {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]].
+One of the trio of the Courageous-class "large light cruisers", the {{PAGENAME}}'s design perfectly encapsulates First Sea Lord John ('Jackie') Fisher's obsession with superior speed and firepower. Built with his 'Baltic Project' in mind, the ship was designed with high speed and large guns to devastate enemy cruisers while having a shallow draught to allow operations supporting coastal landings in the Baltics. Despite being a capital ship, it was designed with paper thin armour, partly to allow for the high speed and partly to get around a restriction imposed by the Government on the construction of new capital ships, with First Sea Lord Fisher presenting the ships as simply large light cruisers. In fact, the ships were so lightly built that HMS Courageous took not insignificant structural damage in rough seas during sea trials, buckling the hull and deck in several places, shearing off rivets and allowing water to pour in.
 
-One of the trio of the Courageous-class "large light cruiser", the {{PAGENAME}}'s design perfectly encapsulates Fleet Admiral Jackie Fisher's obsession with speed and firepower. Designed to get around the restriction to build new capital ship by the government, the Glorious' appearance is akin to that of a half-finished battleship with protection nowhere close to an actual battleship. Fortunately for the Glorious and her sister ship, the ship would later be converted into an aircraft carrier to put the better use for the wasted deck space after the Great War.
-
-In War Thunder, the Glorious' unconventional design made her distinctive from the other "pocket battleship" at her BR, such as [[Admiral Graf Spee|Graf Spee]] and the [[IJN Ikoma|Ikoma]]. The ship is a true "glass cannon", featuring high offensive firepower in the form of four 381 mm cannons, numerous 102 mm guns, a truckload of torpedoes, along with good mobility to boot. But it still lacks an adequate armour to shield her off from enemy fire.
+Introduced in [[Update "Fire and Ice"]], the unconventional design of HMS Glorious in her 1919 configuration makes her very distinctive from the other "pocket battleships" at her BR, such as [[Admiral Graf Spee|Graf Spee]] and the [[IJN Ikoma|Ikoma]]. The ship is a true "glass cannon", featuring high offensive firepower in the form of four 381 mm cannons, numerous 102 mm guns, a huge stockpile of torpedoes, along with great mobility to boot, however still lacks adequate armour to shield from even cruiser-calibre guns.
 
 == General info ==
 === Survivability and armour ===
@@ -63,7 +61,11 @@ In War Thunder, the Glorious' unconventional design made her distinctive from th
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
-''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).''
+HMS Glorious is a classic "glass cannon", featuring extremely powerful 381 mm cannons, backed up by a suite of decent secondary armaments and torpedoes, and great mobility. However, it also has extremely thin armour, which can sometimes prove insufficient against even cruiser-calibre cannons.
+
+Against other battleships and battlecruisers, the armour is wholly inadequate, and the ship really does become equivalent to a large light cruiser. Its mobility can be used to play around hard cover and attempt to dodge incoming shells; however, if caught in the open, Glorious is unlikely to survive for long.
+
+On the other hand, if in a match against only cruisers, the unusual armaments can be used to great effect, quickly destroying any cruiser in a few good hits. When facing destroyers, consider switching to control of the 102 mm cannons - the greater volume of fire (up to 12 guns on a broadside) and sufficient stopping power of the guns will rapidly wreck any small ship. The 4" SAP ammunition is significantly better for this than the stock HE.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -82,27 +84,26 @@ In War Thunder, the Glorious' unconventional design made her distinctive from th
 * Poor armour protection, relies heavily on fuel tanks to absorb damage
 * Terrible main turret traverse speed, inability to fire reactively
 * Poor anti-air defence
-* Fixed torpedo tubes restrict its usage to saturational barrages
+* Fixed torpedo tubes restrict their usage to saturational barrages
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The Courageous-class battlecruisers were formulated during WW1 by the ever-eccentric First Sea Lord, Jacky Fisher, as part of his 'Baltic Project', a planned attack on the German Baltic coastline. In 1915, the Chancellor of the Exchequer had forbidden new construction of any warships larger than light cruisers, yet Lord Fisher wanted new fast capital ships for the Baltic Project in order to support his proposed landings of troops on the beaches of Pomerania.
 
-In order to get around the rule against new capital ships and also because of Lord Fisher's obsession with speed at the expense of all else, the Courageous class were presented as 'large light cruisers', with extremely light armour, extremely high speed and half the main armament of the new Queen Elizabeth-class battleships. Fortunately for Fisher, many of the politicians up top had little knowledge in naval matters and so they saw the high speed, low armour and just approved the design for construction.
-
-Unfortunately, however, the ships proved to be a little too lightly built and had a tendency to take structural damage in rough seas or at high speed or even when firing the main guns until they were structurally stiffened in response.
+In order to get around the rule against new capital ships and also because of Lord Fisher's obsession with speed at the expense of all else, the Courageous class were presented as 'large light cruisers', with extremely light armour, extremely high speed and half the main armament of the new Queen Elizabeth-class battleships. Fortunately for Fisher, many of the politicians up top had little knowledge in naval matters and so they saw the high speed, low armour and just approved the design for construction. Unfortunately, however, the ships proved to be a little too lightly built and had a tendency to take structural damage in rough seas or at high speed or even when firing the main guns until they were structurally stiffened in response.
 
 As Fisher's Baltic Project never took place, the ships spent the war patrolling the North Sea. HMS Glorious saw little action, other than the Second Battle of Heligoland Bight, during which she only suffered damage from a premature shell detonation and her own muzzle blasts. She was also present for the surrender of the German High Seas Fleet in 1918.
 
-The Courageous-class battlecruisers were converted into aircraft carriers in the 1920s.
+Following the end of WW1, the battlecruisers were converted into aircraft carriers due to their high speed, whilst the 381 mm turrets of Courageous and Glorious were put into storage. During WW2, these turrets would be reused in the construction of HMS Vanguard, the last battleship ever built.
 
-On the return journey of an evacuation of British aircraft from Norway in June 1940, HMS Glorious was attacked by the German battleships [[Scharnhorst]] and Gneisenau, losing over 1,200 lives in the battle. HMS Glorious remains on the floor of the Fjord today.
+During WW2, Glorious served in the Mediterranean, Indian Ocean, and in the Norwegian Campaign, before being intercepted in the Norwegian Sea by [[Scharnhorst]] and Gneisenau. Due to a number of faults in leadership, the ship was flying no patrols and made no effort to change course or speed. Glorious was struck by Scharnhorst at a range of 24 km, the longest range capital ship hit in history (a title which Scharnhorst shares with HMS Warspite, which struck an Italian battleship at approximately the same range). Despite the heroic efforts of her two escorting destroyers, Ardent and Acasta, Glorious was sunk by the German battleships a little over two hours after first sighting them, although Scharnhorst was badly damaged by a torpedo from Acasta, requiring the ship to head to port for immediate repairs.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_battlecruiser_glorious Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

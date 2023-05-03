@@ -6,7 +6,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Swedish fighter {{Battle-rating}}. It was introduced in [[Update 1.93 "Shark Attack"]] as a [[wt:en/news/6450-development-pyörremyrsky-the-nordic-whirlwind-en|premium pack]], and was removed from the Gaijin store after the [[wt:en/news/7674-shop-may-sale-en|2022 May sale]].
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Swedish fighter {{Battle-rating}}. It was introduced in [[Update 1.93 "Shark Attack"]] as a [[wt:en/news/6450-development-pyörremyrsky-the-nordic-whirlwind-en|premium pack]], but was removed from the Gaijin store after the [[wt:en/news/7674-shop-may-sale-en|2022 May sale]]. It was re-introduced as a regular in-game premium for {{GE}} in [[Update "Fire and Ice"]].
 
 Though the Pyörremyrsky shares some design traits with the [[Bf 109 (Family)|Bf 109 series]] of German fighters, it is in fact a completely domestic Finnish design and has significantly different flight characteristics.
 

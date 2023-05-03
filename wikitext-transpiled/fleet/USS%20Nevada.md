@@ -17,7 +17,7 @@ USS Nevada is a very well-armoured battleship. Like other American battleships o
 
 The best armoured areas on the ship are the turrets; the angled {{Annotation|16-inch|406.4 mm}} plates on the turret faces are almost impenetrable, the 43 degree angle making it incredibly unlikely for any fire to penetrate the face. The armour is lighter on the sides, rear and top with {{Annotation|10 inches|254 mm}}, {{Annotation|9 inches|228.6 mm}}, and {{Annotation|5 inches|127 mm}} respectively. This leaves the sides and top of the turrets vulnerable to even heavy cruisers, so it's recommended to be cautious of exposing the sides of the turrets. The barbettes also have {{Annotation|13 inches|330.2 mm}} of armour, which is quite good, more than most battleships of the same rank. The magazines are placed slightly below the waterline and against the waterline, mostly shielding them from enemy fire; however shots on a flat trajectory directly above the waterline do pose a slight risk of ammo rack detonation.
 
-USS Nevada was the first ship ever to use the "all or nothing" armour scheme. This armour philosophy uses the most armour in critical areas like the citadel, and none in other areas. This is perfect for fighting enemy capital ships at range, as AP shells will pass through unimportant areas that lack armour armour without fusing, and allows for the thickest possible armour over important sections of the ship. However, keep in mind that this also makes the unprotected areas of the ship vulnerable to taking damage from smaller ships, even destroyers. These areas may not be important, but crew still resides in these areas and constant repairing will still bleed crew, even more so on Nevada since she has so many secondary and anti-aircraft guns.
+USS Nevada was the first ship ever to use the "all or nothing" armour scheme. This armour philosophy uses the most armour in critical areas like the citadel, and none in other areas. This is perfect for fighting enemy capital ships at range, as AP shells will pass through unimportant areas that lack armour armour without fusing, and allows for the thickest possible armour over important sections of the ship. However, keep in mind that this also makes the unprotected areas of the ship (especially the amidship deck) vulnerable to taking damage from smaller ships, even destroyers. These areas may not be important, but crew still resides in these areas and constant repairing will still bleed crew, even more so on Nevada since she has so many secondary and anti-aircraft guns.
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
@@ -80,13 +80,15 @@ If an aircraft manages to get past the {{Annotation|5-inch|127 mm}} {{Annotation
 '''Pros:'''
 
 * Decent quality 356 mm shells
-* Heavily armoured
+* Heavily armoured belt
+* Reasonably powerful secondary armaments
 * Large and effective AA suite
 
 '''Cons:'''
 
 * Incredibly slow
-* AA suite highly vulnerable to explosive blasts
+* Unarmoured deck can cause the ship to bleed a significant amount of crew from fire and HE damage
+* AA suite were highly vulnerable to explosive blasts
 * Long main battery reload
 
 == History ==

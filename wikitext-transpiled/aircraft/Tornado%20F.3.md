@@ -206,11 +206,11 @@ Never pull negative Gs in the Tornado F.3. As with many top tier planes the nega
 ** Includes TWS that indicates direction of enemy
 ** PD has IFF
 * Can carry drop tanks to extend range
+* Has reverse thrust to reduce landing distance
 
 '''Cons:'''
 
 * Poor turning performance
-* Loses energy quickly in a turn
 * Lacklustre acceleration
 * Other BVR missiles have a longer range in an uptier
 * Very difficult to kinetically dodge SARH missiles due to aforementioned poor turn rate
@@ -228,6 +228,7 @@ Never pull negative Gs in the Tornado F.3. As with many top tier planes the nega
 ;Skins
 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=tornado_f3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
 
 
 ;Videos

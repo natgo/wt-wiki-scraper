@@ -89,7 +89,8 @@ Since the reload speed is so fast, it is very easy to switch between belts even 
 {{:Dual Automatic Gun M2 (40 mm)/Ammunition|Mk.II, M81A1}}
 
 ==== [[Ammo racks]] ====
-[[File:New Ammoracks M42.png|thumb|307x307px|[[Ammo racks]] of the M42 Duster.]]<!-- '''Last updated:''' -->
+[[File:Ammoracks_M42.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.25.1.70''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -101,6 +102,11 @@ Since the reload speed is so fast, it is very easy to switch between belts even 
 | '''60''' || 30&nbsp;''(+30)'' || 4&nbsp;''(+56)'' || 2&nbsp;''(+58)'' || Yes
 |-
 |}
+'''Notes''':
+
+* Ammunition is modeled as 60 clips of 8 rounds.
+* The visual discrepancy concerns the total number of rounds: 232 rounds are modeled (58 clips of 4 rounds) but you can pack 480 rounds (60 clips of 8 rounds).
+{{Clear}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

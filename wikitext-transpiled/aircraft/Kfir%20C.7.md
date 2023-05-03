@@ -216,7 +216,9 @@ The Kfir C.7 is one of the fastest accelerating and best climbing planes in the 
 
 The Kfir suffers from the same issue as other delta wing designs such as the [[J35 (Family)]] and [[MiG-21 (Family)]], and [[Mirage 5 (Family)|Mirage (Family)]] (which it's derived from), in that it bleeds quite a bit of speed while performing manoeuvres, and therefore sustained dogfights are not recommended in the Kfir. It will perform exceptionally well for the first few turns, so attempt to shoot down the target within that window. If unable to dispatch the enemy and the fight is being prolonged, then it's recommended to use the Kfir's exceptional acceleration and top speed to egress from the situation, and perhaps re-enter when the situation is more favourable to the Kfir.
 
-One way of playing the Kfir C.7 is to accelerate past Mach after takeoff, and then proceed to zoom up to high altitude at roughly 8-10 km where missiles are capable of flying much further, where the Kfir can truly stretch its exceptional speed and performance. Its primary weapon, the [[AIM-9G Sidewinder]], will have an exceptional range at these altitudes and it is not uncommon to achieve kills at ranges over 6-7 km. Be mindful that the radar will slave the seeker head of the [[AIM-9G Sidewinder]], and can be used to help achieve locks even if the plane is not directly off the nose of the aircraft.
+One way of playing the Kfir C.7 is to fly around the center of the map and launch missiles at distracted enemies from behind. This will require you to stay low after takeoff and fly near the edge of the map to avoid being seen or being detected by enemy radar. Once the furball has formed, climb above the enemy, then look for enemies that are slow, distracted, un-aware of their surroundings then launch an AIM-9G missile at 3 km or closer. The main challenge to this play style is to find distracted enemy and be unnoticed when launching your missile. 
+
+Another way of playing the Kfir C.7 is to accelerate past Mach after takeoff, and then proceed to zoom up to high altitude at roughly 6-8 km where missiles are capable of flying much further, where the Kfir can truly stretch its exceptional speed and performance. Its primary weapon, the [[AIM-9G Sidewinder]], will have an exceptional range at these altitudes and it is not uncommon to achieve kills at ranges over 5-6 km. Be mindful that the radar will slave the seeker head of the [[AIM-9G Sidewinder]], and can be used to help achieve locks even if the plane is not directly off the nose of the aircraft. However, this play style is not recommended unless down tiered due to SARH and ARH missiles being very common at battle rating 11.3 and higher
 
 ;SB:
 
@@ -240,6 +242,8 @@ The AIM-9G locking is at the bottom of your HUD, this can be difficult to learn,
 * Above average acceleration below Mach 1, and one of the fastest acceleration in the game above Mach 1
 * Extremely fast, especially at high altitudes
 * Has long range AIM-9Gs
+* Able to take out 1 base if loaded with bombs
+* Ballistic computer for guns, bombs, and rockets 
 
 '''Cons:'''
 
@@ -248,6 +252,7 @@ The AIM-9G locking is at the bottom of your HUD, this can be difficult to learn,
 * 36 x countermeasures can be quickly used up, especially if split 50/50 between chaff and flares
 * Missiles are pointed down requiring you to pull alpha or be above the target to get a lock
 * No radar or radar-guided armament
+* No all-aspect missiles
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

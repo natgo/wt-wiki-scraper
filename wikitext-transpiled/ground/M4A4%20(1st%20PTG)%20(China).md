@@ -13,7 +13,8 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Chinese medium tank {{Battle-rating}}. It was introduced as a [[wt:en/news/6377-news-chinese-air-and-ground-forces-become-a-tester-en|premium pack]] in [[Update 1.91 "Night Vision"]] and was removed from the store after the [[wt:en/news/7154-shop-may-sale-in-the-gaijin-store-en|2021 May sale]]. The M4A4 has since been made available for purchase in-game ({{GE}}) for specific Chinese events like the [[wt:en/news/7359-special-national-day-of-the-people-s-republic-of-china-en|2021 "National Day of the People's Republic of China"]] mini-event.
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Chinese medium tank {{Battle-rating}}. It was introduced as a [[wt:en/news/6377-news-chinese-air-and-ground-forces-become-a-tester-en|premium pack]] in [[Update 1.91 "Night Vision"]] and was removed from the store after the [[wt:en/news/7154-shop-may-sale-in-the-gaijin-store-en|2021 May sale]]. The M4A4 was made available for purchase in-game ({{GE}}) for specific Chinese events like the [[wt:en/news/7359-special-national-day-of-the-people-s-republic-of-china-en|2021 "National Day of the People's Republic of China"]] mini-event and with [[Update "Sky Guardians"]] it became available as a regular in-game premium for ({{GE}}).
+ 
 The vehicle is identical to the tech tree [[M4A4 (China)|M4A4]] except for a unique skin and a pintle-mounted heavy machine gun.
 
 == General info ==

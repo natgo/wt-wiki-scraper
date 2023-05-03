@@ -156,7 +156,7 @@ As with all the other British planes, this plane is also very forgiving when usi
 
 Prop pitch: This should be set to 100% when climbing to utilize the aircraft's superior climb rate. This will come in handy both at the start of a match and during combat. However when in level flight or chasing another plane this can be set back as far to 70-80% to get a few more km/h.
 
-Radiator: as soon as you unlock the radiator module you can set this to 30% and leave it there for the entire match. On Sicily however you want to set it to 35-40% until you reach 6,000 m (19,685 ft)
+Radiator: The radiator can be set to around 30% when using 100% power, however setting the radiator to around 80% will allow you to use WEP for the entire game.
 
 Supercharger: Switching this at 2,000 m (6,561 ft) will give you quite a boost in performance and it will retain its climbrate up until 4,500 m, after it will suffer miserably but still climb better than almost every plane. Therefore the supercharger gears should be switched at 2 km (6,561 ft) altitude
 
@@ -174,7 +174,6 @@ Supercharger: Switching this at 2,000 m (6,561 ft) will give you quite a boost i
 
 '''Cons:'''
 
-* Tendency to break wings its during high speed manoeuvres
 * Sub average roll rate can make the plane suffer in tight scissors
 * Limited dive rate, moderate parasitic drag
 * Limited ammo capacity
@@ -198,6 +197,7 @@ A total of 5,665 Mk IX were produced and 262 more Mk Vs were converted to Mk IX.
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=spitfire_ix Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -209,6 +209,7 @@ A total of 5,665 Mk IX were produced and 262 more Mk Vs were converted to Mk IX.
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other late Merlin-engine LF variant Spitfires
+
 * [[Spitfire LF Mk IXc (USA)]]
 * [[Plagis' Spitfire LF Mk IXc]]
 * [[Spitfire LF Mk.IX Weizman's (Israel)]]

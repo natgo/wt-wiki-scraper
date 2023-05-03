@@ -23,6 +23,7 @@ The name "Sho't Kal Alef" can be roughly translated as ''Centurion tank (Sho't; 
 At longer ranges, the Alef looks exactly like a Centurion Mk 10 where its 105 mm gun gives it away; but upon closer inspection to the Alef, it is in fact a Centurion Mk 5 with additional headlights and no weld-on applique armour on its UFP, meaning the overall protection is exactly the same as the pre-Mk 10 series of Centurion tanks. Most shells at the battle rating are lethal to its survival as 76.2 mm of armour at 58° cannot really withstand Cold War or late WWII shells, and due to the fact that Centurions have a cramped interior space, penetrating shots are very likely to knock out most of the crew or in some cases detonate all ammunition on board.
 
 '''Armour type:'''
+
 * Rolled homogeneous armour (Hull, Turret roof)
 * Cast homogeneous armour (Turret)
 
@@ -152,12 +153,25 @@ Players do have to keep in mind that, despite the upgraded gun, the armour itsel
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+'''Combat history'''
+
+The Sho't tank served in the Six-Day War in 1967 and the Yom Kippur war in 1973; one of them, belonging to the 188th Armored Brigade, was operated by Captain Zvika Greengold, an Israeli tank ace. However, as all tanks in the opening days of the 1973 Yom Kippur war, it proved exceedingly vulnerable to Soviet-made weapons such as the RPG-2, RPG-7, and briefcase Sagger guided missile, weapons which the Egyptians used in large numbers in the crossing of the Bar Lev line. It is estimated that the Israeli armed forces lost up to 40% of their southern armored groups during the first two days of the war, highlighting the necessity for infantry support to armoured groups, culminating in the Merkava main battle tanks being equipped with rear troop bays.
+
+The Sho't was also used in the 1978 and 1982 invasions of Lebanon.
 
 == Media ==
-<!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+Images<!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
+[[File:Valley of Tears.png|left|thumb]]
+
+;
+;
+;
+;
+;
+;
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_centurion_shot_kal_alef Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

@@ -58,7 +58,7 @@ The Blenheim can be absolutely deadly to other early planes, particularly as the
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 305 || 289 || 211 || ~11 || ~5
+| 482 <!--{{Specs|destruction|body}}--> || {{Specs|destruction|gear}} || 305 || 289 || 211 || ~11 || ~5
 |-
 |}
 

@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese SPAA {{Battle-rating}}. It was introduced in [[Update "Red Skies"]]. PGZ is the Chinese PLA designation for its SPAA platforms. With PGZ being the Pinyin abbreviation for "''炮，高射，自走" (Pao, Gaoshe, Zizou)'', or Lit. ''"Artillery, Anti-Air, Self-Propelled".''
+The PGZ04A (Chinese: PGZ04(A)式25毫米弹炮结合防空武器系统; lit. 25 mm missile-gun AA system), is the 21st Century upgrade of the existing PGZ95 fleet in PLAGF with new MANPADS replacing the earlier QW-2 MAPNPADS and currently served as the close-range interception layer of PLA's anti-air defense system. The development of PGZ95 could trace back to 1980s when PLAGF was in dire for a new SPAA which was yet to be introduced to the Army; earlier plans were reverse-engineering Egyptian's (purchased) ZSU-23-4 which has already been exchanged to Mainland China via bi-directional arms trade. When the observer team arrived in Italy and knew the existence of SIDAM 25, PLAGF soon ditched the ZSU-23-4 plans and planned for a better SPAA system with all-weather combat capabilities; the new SPAA was tested extensively in the 1990s and made its first appearance at the 50th National Day Parade.
 
-An upgrade to the previous PGZ95 in PLAGF service, PGZ04A provided reliable firepower against aerial targets that get too close to its 25 mm autocannons or its MANPADS, with sufficient mobility and ammo pool at disposal. 
+Introduced in [[Update "Red Skies"]] alongside with PGZ09, thanks to its opto-electronic tracker and advanced TVD sight, PGZ04A can safely track enemy targets without triggering their warning systems and the weaponries onboard will certainly cause havoc to enemy jets or helicopter that come too close; do remember to conceal yourself from them as well since a sudden strike on enemies will greatly enhance the odds to take them out straight away, and leave the MANPADS for targets at lower speed or helicopters- conserving precious missiles can earn great rewards for yourself and the team. 
 
 == General info ==
 === Survivability and armour ===
@@ -159,6 +159,7 @@ Later in the 2000s, the PGZ95 received an overhaul upgrade on its systems and up
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=cn_pgz_04a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

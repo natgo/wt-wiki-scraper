@@ -161,7 +161,7 @@ File:Mi-24A WTWallpaper 005.jpg
 </gallery>
 
 ;Videos
-{{Youtube-gallery|lTR8bhL4BUc|'''The Mi-24 Family''' discusses the {{PAGENAME}} at 1:16 - ''War Thunder Official Channel''}}
+{{Youtube-gallery|lTR8bhL4BUc|'''The Mi-24 Family''' discusses the {{PAGENAME}} at 1:16 - ''War Thunder Official Channel''|o90jz82NemI|'''Ultimate MI-24 Guide''' -By Bob Dickinson}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

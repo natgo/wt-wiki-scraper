@@ -149,6 +149,7 @@ Alternatively, flying a 10-20 degree descent straight towards a bombing target c
 * Decent payload
 * High service ceiling(max. altitude)
 * Great climb rate
+* Almost untouchable in Air SB (7.0 to 8.0), almost no plane can catch up with you
 
 '''Cons:'''
 

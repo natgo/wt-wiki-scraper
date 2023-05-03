@@ -14,7 +14,7 @@
 The '''{{Specs|name}}''' (Battle tank B1 "tertiaire") is a premium rank {{Specs|rank}} French heavy tank {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]] as a [[wt:en/news/5161-development-char-b1ter-a-blast-from-the-past-en|premium pack]] vehicle and eventually discontinued from the store after [[wt:en/news/5852-special-news-war-thunder-s-birthday-discounts-and-gifts-en|War Thunder's 6th Anniversary sale]], but was later reintroduced for [[wt:en/news/6442-special-war-thunder-reaches-its-7th-year-en|War Thunder's 7th anniversary]] as a premium purchasable in-game for Golden Eagles {{ge}}. It has also been obtainable several times through the Warbond shop since January 2020.
 
 With the best armour at its BR, this tank is a beast in engagements since it is hard to penetrate at a distance. While not having the best armament, it should do the job taking care of these dangerous early SPGs and light tanks. The "ter" suffix to its name is a Latin abbreviation which means "third", referring to the series, just as the suffix "bis" identified the previous second B1 production series. Its most noticeable features from its predecessor ([[B1 bis]]) are an increased horizontal traverse for the hull gun, thicker armour and an extra crew member.
-
+[[File:B1 Ter.png|thumb|B1 ter advancing through the forest]]
 This tank's mobility won't allow you to position fast enough. Taking time is the only way to get where you want safely. Since this tank is pretty long and narrow, do not engage in cramped spaces since you will not be allowed to manoeuvre as you wish. You reverse speed won't allow you to retreat if things get bad around you, stay behind the front-lines, making good use of your armour.
 
 In order to effectively use this tank's armour, there are a few things to consider. First of all, there are some shot traps, most noticeably the turret ring and the hull gun mount. In order to minimize your enemies' chance to hit these weak spots, stay away from them. Second, even if your armour is very strong for the BR, do not completely rely on it by sitting around in an open field: you will eventually get hit where it hurts. The third thing to consider is your small and thick turret: hide that big clumsy hull behind a hill and pop out only your hard "head", take a shot, fall back, reload, repeat. If something goes wrong (i.e. getting shot in the turret ring), there is usually enough men left to take the job left by their knocked out crew. Do not bother getting spotted: it is your job to stay in the enemies' sights while your lighter teammates do what they ought to. In some situations, it can even be used as a breakthrough tank, rely on your own experience to guess when it is time to do so.
@@ -267,6 +267,7 @@ Compared to the B1 bis, the ter modification featured thicker frontal armour pro
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_b1_ter Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

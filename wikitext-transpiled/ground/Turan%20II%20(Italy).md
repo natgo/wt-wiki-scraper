@@ -166,9 +166,9 @@ This undertaking was successful, though it required the Turán's turret to be en
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-* [[Toldi IIA]]
+* [[Toldi IIA (Italy)]]
 * [[Pz.III N (Italy)]]
-* [[Zrinyi I|Zrínyi I]]
+* [[Zrinyi I (Italy)|Zrínyi I]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

@@ -48,11 +48,11 @@ APIT belts are suggested as they contain both HE and AP mixed to maximize damage
 The Ya-5M comes armed with 24 M-8 rockets and one full reload. These rockets are decent area-denial light artillery weapons, but suffer from terrible accuracy beyond 100 m due to conditions at sea. It is recommended to fire these rockets in 4-5 burst salvoes to offset the lack of precision.
 
 == Usage in battles ==
-''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).''
+<!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
+The Ya-5M is a lightly-armoured patrol boat useful for close combat. Its 2 x 12.7 mm DShK machine guns are the primary anti-air and naval engagement weapon. The rockets can decimate enemy patrol boats, but their inaccuracy is a downside, especially in choppy waters. The rockets are very ineffective against enemy destroyers, as their armour prevents any real damage. You may only damage exposed compartments, auxiliary weaponry and lightly-armoured gun turrets. 
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 '''Pros:'''
 
 * Good armaments

@@ -68,7 +68,7 @@ The only flaw in mobility is that, at high speed, it is awkward to precisely con
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|KwK30 (20 mm)}}
 
-The Sd.Kfz.222 is armed with a single 20 mm KwK30 autocannon paired with a coaxial rifle-calibre machine gun. The Sd.Kfz.222 possesses a quick turret traverse and elevation speeds, and can elevate its gun to 80 degrees, allowing you to aim at and track aircraft with comfort. Compared to its German counterpart, the 20 mm KwK30 autocannon fires at a slower rate than the KwK38, but has double the ammunition per magazine. The KwK30 doesn't have access to the PzGr.40 belt, which grants it a higher penetration. This is a bigger disadvantage than one might expect, and limits the Chinese Sd.Kfz.222 more to its stated role as SPAA, especially in uptiers. Against many of its contemporaries, however, the penetration at point blank should be enough to deal with armoured cars and light tanks. There is more bullet drop on the KwK30 than the KwK38 autocannon, but the low penetration means it shouldn't be used to snipe, and it is not noticeable enough to really affect anti-air performance.
+The Sd.Kfz.222 is armed with a single 20 mm KwK30 autocannon paired with a coaxial rifle-calibre machine gun. The Sd.Kfz.222 possesses a quick turret traverse and elevation speeds, and can elevate its gun to 80 degrees, allowing you to aim at and track aircraft with comfort. Compared to its German counterpart, the 20 mm KwK30 autocannon fires at a slower rate than the KwK38, but has double the ammunition per magazine. The KwK30 doesn't have access to the PzGr.40 belt, which grants it a higher penetration. This is a bigger disadvantage than one might expect, and limits the Chinese Sd.Kfz.222 more to its stated role as SPAA, especially in uptiers. Against many of its contemporaries, however, the penetration at point blank should be enough to deal with armoured cars and light tanks. There is more bullet drop on the KwK30 than the KwK38 autocannon, but the low penetration means it shouldn't be used to snipe, and it is not noticeable enough to really affect anti-air performance. The lower BR on the Chinese Sd.Kfz.222 should place you against weaker enemies than the German one anyway, making the lack of HVAP belts not as noticeable.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -117,7 +117,7 @@ The Sd.Kfz.222 is armed with a single 20 mm KwK30 autocannon paired with a coaxi
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|MG13 Dreyse (7.92 mm)}}
 
-The MG13 Dreyse is s a rifle-calibre machine gun that will only damage vehicles with exposed crew and will fail to penetrate any armoured vehicle.
+The MG13 Dreyse is a normal coaxial MG with a significantly lower rate of fire than its original German version. The MG is capable of elevating alongside the main cannon and can be utilised in AA work as a reserve weapon while loading the main gun or just attracting enemy planes to get a shot. It has decent penetration for a rifle-calibre MG, so it can be used in rare circumstances against very lightly-armoured vehicles or exposed crewmen. 
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -131,7 +131,7 @@ The MG13 Dreyse is s a rifle-calibre machine gun that will only damage vehicles 
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+The Sd.Kfz.222 is a fast vehicle capable of keeping up with the fastest of Rank I vehicles. This opens up numerous opportunities for you, as unlike the [[Flakpanzer I]] or the [[Flakpanzer 38]], you are not nearly as vulnerable to gunner snipes as you would be with them. In addition, you are not nearly as well suited for AA work as you only have room for a maximum of 9 magazines (including the one you have loaded), so prolonged AA work will simply burn your ammunition long before the Flakpanzers even needed to start getting worried. The closest analogue one can compare the 222 to is the Sd.Kfz.234/1 (basically a Puma chassis with the same turret). Instead of shooting planes, one can actively use the 222 as a speedier version of the Pz.II, attacking enemy tanks. Your lack of armour and excellent speeds encourage flanking or ambushing roles. Remember enemy weak spots and avoid armour you can't handle.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -147,10 +147,11 @@ The MG13 Dreyse is s a rifle-calibre machine gun that will only damage vehicles 
 
 '''Cons:'''
 
-* No HVAP shells unlike the [[Sd.Kfz.222|German version]], cannot penetrate armoured targets like [[H.39]], [[D2]], etc
+* No HVAP shells unlike the [[Sd.Kfz.222|German version]], cannot penetrate armoured targets like [[H.39]], [[D2]], etc.
 * Very poorly protected, even a heavy machine gun can frontally penetrate it
 * 7-second reload is quite slow
 * 280 rounds/min fire rate is slower than the German version, requiring extra aiming skills to hit planes
+* Only 9 magazines of 20 mm rounds can be carried compared to 18 in the German Sd.Kfz.222, limiting ones potential without any restocking of ammo
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -162,14 +163,19 @@ The MG13 Dreyse is s a rifle-calibre machine gun that will only damage vehicles 
 ;Skins
 * [https://live.warthunder.com/feed/camouflages/?vehicle=cn_sdkfz_222_early Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
+;Videos
+{{Youtube-gallery|izFpnktG5w4|'''The Shooting Range #351''' - ''Metal Beasts'' section at 00:23 discusses the {{PAGENAME}}.}}
+
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[Sd.Kfz.222]]
+
+;Other vehicles of similar configuration and role
+* [[Sd.Kfz.234/1]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

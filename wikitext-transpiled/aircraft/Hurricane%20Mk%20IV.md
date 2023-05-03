@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.51 "Cold Steel"]]. A ground-attack variant of the Hurricane, the Mk IV can carry an arsenal of high-calibre cannons, rockets, or bombs.
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.51 "Cold Steel"]]. A ground-attack variant of the Hurricane, the Mk IV can carry an arsenal of heavy-calibre cannons, rockets, or bombs.
 
-Some players feel that this plane is overpowered in Arcade Mode with its twin 40 mm cannons. Since the planes are relatively slow in this rank it is easier to shoot them down. However, the weight of the cannons makes the plane difficult to handle, making it an awkward turn fighter, and like any other Hurricane it is not as well suited to Boom & Zoom due to its slow climb rate, made worse by the weight of the cannons. Additionally, players at this rank rarely have the skill and accuracy necessary for this plane to reach its potential. It is recommended to go for ground targets like light and medium tanks, AAA and armoured cars. This is how you would help your team succeed in battle. However, equipping Air Target rounds and turning enemy planes into aerosol can be infinitely more fun.
+Famous for its twin 40 mm gunpods, this aircraft is intended for ground attack duties. Boasting a more powerful Merlin 24 engine than the other Hurricanes in-game, this aircraft is rather unique in more than one way.
 
 == General info ==
 === Flight performance ===
@@ -132,17 +132,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Hurricane Mk IV fits into an interesting niche in the British tech tree. It takes the usual Hurricane airframe, removes the usual large number of machine guns (except two), adds armour plates around the engine and cockpit. Then there is the armament. Two 40 mm guns on the wings, which can equip high explosive or armour piercing rounds. You also have the choice to swap these guns for rockets or bombs depending on your targets/playstyle. This makes the Hurricane most suitable for two roles. These are:
+The Hurricane Mk IV fits into an interesting niche in the British tech tree. It takes the usual Hurricane airframe, removes the usual large number of machine guns (except two), adds armour plates around the engine and cockpit. Then there is the armament. Two 40 mm guns on the wings, which can equip high explosive or armour piercing rounds. You also have the choice to swap these guns for rockets or bombs depending on your targets/playstyle. This makes the Hurricane most suitable for two roles:
 
 '''Ground Attack''' - Being a little more agile than the usual attacker, but still very well armed, the Hurricane Mk IV makes a good ground attack aircraft. The 40 mm cannons can penetrate most vehicles from a steep angle or from the side with armour piercing ammunition. However, they cause very little post-penetration damage and are inaccurate. Against light vehicles they can be very effective, but heavily armoured vehicles like [[KV-1 (Family)|KV-1s]] and even [[T-34 (Family)|T-34s]] can usually shrug off the 40 mm rounds. Beware that the cannons are very hard to score hits when aiming for smaller targets, unless you zero the guns to a short distance. The guns also have a very large recoil which makes them furthermore inaccurate. The RP-3 rockets are another good option. A direct hit with one of these rockets to the side/rear/top of an enemy tank will cause serious damage. They cause good explosive damage and can penetrate around 60 mm of armour, but are quite inaccurate and hard to aim for inexperienced players. You also have access to 250 lb and 500 lb bombs, which are ideal for taking out singular high value targets.
 
-'''Bomber Hunting''' - The two 40 mm cannons can be deadly against any aircraft they hit. Bombers particularly fit into the category. They are generally big, slow targets that are easy to hit with the otherwise inaccurate and difficult to aim 40 mm cannons. Usually it only takes one or two hits and BOOM! The HE rounds in the air targets belt work particularly well, but for certain targets, the AP rounds are more suitable. Heavily armoured aircraft like the B-25 or the IL-2 can sometimes shrug off the HE rounds, due to their low penetration values, but the AP round can be deadly. For particularly large targets like the BV 238, you can even use rockets, which are sure to cause massive damage.
+'''Bomber Hunting''' - The two 40 mm cannons can be deadly against any aircraft they hit. Bombers particularly fit into the category. They are generally big, slow targets that are easy to hit with the otherwise inaccurate and difficult to aim 40 mm cannons. Usually it only takes one or two hits. The HE rounds in the air targets belt work particularly well, but for certain targets, the AP rounds are more suitable. Heavily-armoured aircraft like the B-25 or the IL-2 can sometimes shrug off the HE rounds, due to their low penetration values, but the AP round can be deadly. For particularly large targets like the BV238, you can even use rockets, which are sure to cause massive damage.
 
-Despite its heavy handling and only two 7.7 mm machine guns, some more experienced players use the Hurricane as a fighter. If you can get the 40 mm cannons on target, they are deadly. The two 7.7 mm MGs can come in reasonably handy too if you're accurate with them, but they are not suitable for prolonged combat. There are a few ways to use the Hurricane in this way:
-
-Boom & Zoom is the main tactic to use for this Hurricane. The turn rate of this aircraft cannot compete with most other nations, and it has very poor energy retention. The best thing to do in this aircraft is to climb at the start of the round and go bomber hunting, as it is extremely efficient at shooting down the slow, less manoeuvrable targets it will be pitted against at its battle rating. Take your time when taking a shot, tank calibre guns are not meant to be wing mounted and are very inaccurate as a result, so if a shot doesn't look good to you, '''do not fire'''. Boom and zoom is the tactic that should always be employed with this aircraft. Climb, find your target, dive, fire, then using the speed gained in the dive, climb away. Rinse and repeat. Under no circumstances should you attempt to turn fight with this aircraft. Almost any other plane will be able to out turn you. If you do find yourself with an aircraft on your 6, dive and gun the throttle. You should be able to out dive most aircraft. In a ground attack role, this aircraft can be used in much higher battle ratings, where the rockets / 40 mm's remain effective, even against heavy tanks.
-
-If using the Hurricane Mk IV in higher rank matches, beware of enemy fighters. Almost anything will be able to catch you and easily destroy you. To avoid being obliterated by enemy aircraft, try to spawn only when you have air support or good SPAA coverage. Your twin 7.7 mm will not be enough to deter enemy fighters, but if you are a good shot, the twin 40 mm (with air targets belt) can take out even the most heavily armoured fighters.
+'''Last resort fighter''' - The aircraft can, however, be used as a pure fighter. Selecting bombs, and dropping them after takeoff, leaves you with something of a 'Super Hurricane', as its engine puts out over 300 more horsepower than any other Hurricane and is thus significantly faster. This also allows nice turning ability, as through sheer power the aircraft will lose less energy in sustained turnfights than comparable aircraft such as the Bf 109. The obvious tradeoff however, is the woeful armament of just two 7.7 mm machine guns. With good aim, and well-placed bursts, the Hurricane Mk.IV can be fairly effective even with this armament. The extra engine power also allows this Hurricane to climb better, dive better, turn faster and hold its own better in vertical engagements than all other Hurricanes. With the larger radiators and tropical filter, overheating isn't much of an issue, so the full engine power can be capitalised on. However, this use of the aircraft can only be described as fairly niche and only suitable for skilled players, as for most the twin 7.7 mm machine guns will simply be too ineffective against aircraft of this BR. Nevertheless, it can be a powerful weapon to keep in your locker, a 'Super Hurricane' in terms of flight performance, with a sad tradeoff of woefully inadequate armament. Of course the 40 mm gunpods can address this, but they affect flight performance so badly that all of your advantages will be negated.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -166,35 +162,20 @@ If using the Hurricane Mk IV in higher rank matches, beware of enemy fighters. A
 
 '''Pros:'''
 
-* Exceptional stopping power, capable of downing bombers with only one shot from the 40 mm cannon
-* Good dive rate
-* Decent max speed
-* The first aircraft in the British tree to carry the deadly ''Air Targets'' belt
-* Machine guns help aiming the cannons
-* Rockets allow for quicker destruction of targets compared to the 40 mm, but you get less ammunition and can be less accurate
-* Excellent ground attack capability in Realistic and Simulator battles
-* The cannons are great for causing fires on ground targets
-* The rockets, though inaccurate, can destroy heavy tanks
-* Well armoured compared to other Hurricanes, making it more suited to a ground attack role. Can shrug off small calibre rounds relatively easily
-* Small compared to other ground attack aircraft
-* Good at hunting low flying bombers with the 40 mm
-* Rockets or 40 mm can be used on big targets like the BV-238
-* Excellent over-the-nose visibility ensures easy tracking and leading in cockpit view
-* Is a stable gun platform with very smooth handling with simulator controls
+* Decent top speed
+* Can carry the deadly Air Targets belts
+* Good ordnance variety
+* Good amount of armour, making the aircraft fairly durable
+* Excellent flight characteristics in simulator
+* Excellent flight performance without suspended ordnance
 
 '''Cons:'''
 
-* Extremely poor climb rate
-* 40 mm cannons are wing mounted and are somewhat inaccurate and shells will often splice targets at long range
-* Poor turn rate
-* Only 15 rounds per 40 mm gun and only two 7.7 mm Browning's as backup
-* Terrible energy retention
-* Default ammo belts are mixed with AP shells, making it so that shots can cripple rather than destroy
+* Extremely poor climb rate when fitted with ordnance
+* 40 mm belts have a mix of AP and HE, so there is a large variance in effectiveness
 * Requires an exceptionally good aim in order to be effective due to the 40 mm cannons slow rate of fire
 * Significant recoil from the 40 mm cannons will make follow up shots difficult
-* Continuous fire with the 40 mm cannons will cause them to fire asynchronously, resulting in extremely poor accuracy due to recoil
-* 40 mm AP rounds cause mainly puncturing damage, destroying enemies can be difficult
-* Using WEP at the start of takeoff can cause a nose-over
+* Bad energy retention
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -215,11 +196,13 @@ The Hurricane Mk IV was used as a ground attack aircraft in the European theater
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

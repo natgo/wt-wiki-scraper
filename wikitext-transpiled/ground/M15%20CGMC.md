@@ -18,7 +18,7 @@ A noteworthy issue is the gun layout: The secondary anti-air weapons (the M2 Bro
 
 As being a half truck and tank it will turn well in all speeds compared to other SPAA.
 
-The M15 CGMC is a '''s'''elf '''p'''ropelled '''a'''nti-'''a'''ir vehicle. This machine is a very simple deal: More armour and a cannon in change for less ammo and more difficult aiming. Not much more to say. Stay behind and close to allies, but outside the enemies view-range and with a clear line of sight to the horizon for low aircraft, and try to keep the turret facing the rear of the vehicle.
+The M15 CGMC is a self-propelled anti-air vehicle. This machine is a very simple deal: More armour and a cannon in change for less ammo and more difficult aiming. Not much more to say. Stay behind, close to allies but outside the enemies view-range, and with a clear line of sight to the horizon for low aircraft. Keep the turret facing the rear of the vehicle.
 
 == General info ==
 === Survivability and armour ===
@@ -75,7 +75,7 @@ Open top, open rear and only 12 mm (0.5 inch) all around? [[SU-152|SU-152's]] an
 
 ==== Ammunition ====
 
-* '''M59A1 shot (mixed):''' {{Annotation|APC|Armour-piercing capped}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}} -  These work fine, a hit on an aircraft means certain destruction for it and still is able to damage lightly armoured vehicles.
+* '''M59A1 shot (mixed):''' {{Annotation|APC|Armour-piercing capped}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}} - These work fine, a hit on an aircraft means certain destruction for it and still is able to damage lightly armoured vehicles.
 * '''M54 shell:''' {{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}} - These are best for against aircraft.
 * '''M59A1 shot:''' {{Annotation|APC|Armour-piercing capped}} - These are the worst belts against airplanes and even though they are able to damage lightly armoured vehicles, loading them in a RB match is usually a mistake.
 

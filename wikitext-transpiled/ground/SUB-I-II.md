@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese SPAA {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
+The '''{{Specs|name}}''' was a prototype for the Type 73 APC meant to replace the smaller [[Type 60 ATM|Type 60 APC]]. Going through multiple prototypes, this particular version was tested with a [[Rh202 (20 mm)]] as a self-defense and anti-air cannon. 
+
+It was introduced in [[Update "Apex Predators"]]. The SUB-I-II provides an excellent fire rate with the possibility of an APDS belt in an amphibious yet squishy APC hull only offering up to 20 mm of armour.
 
 == General info ==
 === Survivability and armour ===

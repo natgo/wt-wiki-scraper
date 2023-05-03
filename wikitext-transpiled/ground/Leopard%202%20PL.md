@@ -91,13 +91,13 @@ The Leopard 2PL is fitted with the powerful Rh120 L/44 120 mm gun, a gun that ha
 |}
 
 ==== Ammunition ====
-The 2PL has access to all the ammunition seen in Leopard 2 series past 2A4 with exception of DM53. It has access to a unique round, DM11, proximity fuze HE shell. All are capable rounds which are not new and have same handling.
+The 2PL has access to all the ammunition seen in Leopard 2 series past 2A4 with exception of DM53. It has access to a unique round, DM11, time fuze HE shell. All are capable rounds which are not new and have same handling.
 
 '''DM12A1; HEATFS''' - The DM12A1 is the first round the 2PL has access to, it can be considered a mediocre round as most of the enemies which will be faced will be able to withstand it due to composite armour. However, it is particularly useful when facing light armoured vehicles which are prompt to get overpressurised (SPAA, light tanks, etc) and useful when facing enemy helicopters as it has enough explosive mass and flight speed to be competitive as last resort. As a hollow charge, it is prompt to detonate mid air due to trees, bushes and fences. This makes the round difficult to use when in long range engagements as some field elements may not be rendered.
 
-'''DM33 & DM43; APFSDS''' - The 2PL has access to 2 types of APFSDS: the DM33 and DM43. The DM33 is a decent round with decent penetration and stopping power. While it lacks penetration to frontally penetrate some MBTs, it is enough to hit and cause critical damage in weak spots and side shots. DM43 however has much more penetration, and can typically penetrate all tanks from all sides.
+'''DM33 & DM43; APFSDS''' - The 2PL has access to 2 types of APFSDS: the DM33 and DM43. The DM33 is a decent round with decent penetration and stopping power. While it lacks penetration to frontally penetrate some MBTs, it is enough to hit and cause critical damage in weak spots and side shots. DM43 however has much more penetration, but it still isn't enough to penetrate an MBT frontally.
 
-'''DM11; HE''' - The DM11 is the a new HE-VT proxy shell for germany. It is pretty much useless against non lightly armoured vehicles (even 20 mm roofs will stop the spalling if an air explosion is done) but can be devastating against helicopters as there will be no need for direct hit in order to cause critical damage. The round has to fly at least 400 m to arm the fuse. It has a trigger radius of 10m.
+'''DM11; HE''' - The DM11 is the a new HE-TF shell for germany. It is pretty much useless against non lightly armoured vehicles (even 20 mm roofs will stop the spalling if an air explosion is done) but can be devastating against helicopters as there will be no need for direct hit in order to cause critical damage. 
 
 {{:Rh120 L/44 (120 mm)/Ammunition|DM12A1, DM11, DM33, DM43}}
 
@@ -161,7 +161,6 @@ The 2PL playstyle is identical to the 2A4 (and also subsequent German MBTs). One
 * Good gun
 * Good mobility, due to its powerful engine
 * Has access to the DM11 HE-TF round that can counter helicopters 
-* Good reload rate
 * Has access to 2nd generation thermals for both the gunner and commander
 
 '''Cons:'''
@@ -169,6 +168,7 @@ The 2PL playstyle is identical to the 2A4 (and also subsequent German MBTs). One
 * Nearly no gun mantlet armour
 * Hull armour is also not so good, is based on the Leopard 2A4
 * Gunner Primary Sight is a big weak spot
+* Slow reload compared to other top tier MBTs
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -200,6 +200,7 @@ File:Leopard 2 PL WTWallpaper 06.jpg|
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[Leopard 2 (Family)|Related development]]
+
 * [[Leopard 2A4]]
 
 == External links ==

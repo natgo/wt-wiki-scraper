@@ -125,7 +125,11 @@ Be aware of radar interference (mountains, trees, tall structures in general), a
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
 The Spokoinyy is a Cold War destroyer, excelling in use as a support and anti air ship. The powerful 130 mm shells are able to decimate enemy destroyers and are capable of killing some of the weaker cruisers, in some circumstances. The main guns are also highly useful against aircraft, due to the high muzzle velocity HE-VT shells, great gun handling and your radar. The high speed and agility of the ship makes it a decent runner for capping points, evading enemies and generally moving around the map. The torpedoes can be formidable against cruisers and battleships if used correctly, though some people decide to leave them behind and focus on the guns. The 45 mm mounts are capable of providing decent secondary anti-surface fire against coastal vessels and are lethal to aircraft that they hit.
 
-The Spokoinyy is arguably most effective as an anti-air flagship, since it is able to detect aircraft from even dozens of kilometres away and has an effective range of 7 to 9 km with the main guns. Absolutely no aircraft should be able to surprise the Spokoinyy while the search radar is active. The Spokoinyy, when used in Enduring Confrontation events, is the most reliable "Jack-of-All-Trades" ship seen in-game, combining formidable anti-surface firepower with a capability for anti-air that surpasses even many cruisers
+The Spokoinyy is arguably most effective as an anti-air flagship, since it is able to detect aircraft from even dozens of kilometres away and has an effective AA range of potentially up to 7-9 km with the main guns. Absolutely no aircraft (in regular circumstances) should be able to surprise the Spokoinyy while the search radar is active. The Spokoinyy, when used in Enduring Confrontation events, is the most reliable "Jack-of-All-Trades" ship seen in-game, combining formidable anti-surface firepower with a capability for anti-air that surpasses even many cruisers.
+
+As a (relatively) modern destroyer, the Spokoinyy has a very capable fire control system, enabling prediction estimates (the aiming indicator) to update much faster than on the common WW2 era destroyers. This allows for greatly increased accuracy at longer ranges. A competent player in a Spokoinyy can reliably duel enemy destroyers at ranges that are several kilometres or more further than the ranges at which an enemy can effectively shoot back from. 
+
+For example, a Spokoinyy can potentially start getting hits on small enemies such as destroyers from 10-15km away, whilst most players with WW2 destroyer calibre guns will have serious trouble hitting their own shots in return at such ranges, especially if the Spokoinyy is firing whilst being evasive with manoeuvres and throttle control, something which would normally heavily disrupt your own aiming but is allowed in the Pr.56 because of the fast update rate of the FCS. And with the high speed of the Spokoinyy, the ship can usually control the ranges at which battle is fought at, keeping the enemy from closing to effective gun range, especially since the advanced fire control commonly gives the Spokoinyy the first hits, which can often strike enemy propulsion modules and thus slow them down before they get the chance to close in. This is highly useful in EC events where the huge map size complements this kind of gameplay, whereas it may be less useful in the much shorter ranges usually found in regular matches. 
 
 Absolutely no battleship should be engaged with the 130 mm as the cannons are ineffective at damaging capital ships. When facing heavily armoured vessels, torpedoes are a must as they will be your only reliable weapon against them. The Spokoinyy should move evasively when being fired at by a major ship as a single salvo can be enough to instantly cripple or even destroy you.
 
@@ -134,9 +138,11 @@ Absolutely no battleship should be engaged with the 130 mm as the cannons are in
 
 '''Pros:'''
 
-* Superior AA protection
+* Capable AA protection
 * Fast-firing 130 mm cannons with 360° of rotation and 82° of elevation
 * Equipped with a radar system
+* Can use proximity fuze shells
+* Superior FCS
 * Can launch ten torpedoes
 * Has excellent SAPCBC shells
 
@@ -155,6 +161,7 @@ The Spokoinyy is a cheaper and smaller version of the Neustrashimy-class destroy
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_destroyer_pr56_spokoinyy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

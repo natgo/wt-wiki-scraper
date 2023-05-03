@@ -183,7 +183,7 @@ File:Mi-24V WTWallpaper 004.jpg
 </gallery>
 
 ;Videos
-{{Youtube-gallery|lTR8bhL4BUc|'''The Mi-24 Family''' discusses the {{PAGENAME}} at 4:42 - ''War Thunder Official Channel''|6QZAY1EtkFU|'''The Shooting Range #110''' - ''Pages of History'' section at 10:26 discusses the {{PAGENAME}}.}}
+{{Youtube-gallery|lTR8bhL4BUc|'''The Mi-24 Family''' discusses the {{PAGENAME}} at 4:42 - ''War Thunder Official Channel''|6QZAY1EtkFU|'''The Shooting Range #110''' - ''Pages of History'' section at 10:26 discusses the {{PAGENAME}}.|o90jz82NemI|'''Ultimate MI-24 Guide''' -By Bob Dickinson}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

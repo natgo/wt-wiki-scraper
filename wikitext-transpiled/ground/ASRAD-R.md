@@ -13,30 +13,33 @@ The ASRAD-R received a number of improvements over the [[Lvrbv 701]]: The launch
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+The ASRAD-R uses the chassis of M113 armored personnel carrier. With the whole chassis made up of the fragile Aluminium alloy 5083, any heavy machine gun round that is larger than 7.62 mm can cut through its hull at ease. The ASRAD-R is also very vulnerable to overpressure damage and airstrikes. The crew is fairly spread out which usually helps it survive from a single kinetic shot. However, the engine and transmission are placed in front, thus a frontal shot will likely disable its mobility and bring more shots on the ASRAD-R. A successful penetration on the right side of the hull usually detonates the ammo and blows the whole crew up. The unmanned turret contains several critical modules of the fire control system, and the exposed ammo is very volatile to overpressure damage. Thankfully, the ASRAD-R has 8 rounds of smoke grenades which might save your life from the enemy ATGM on occasion.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
+* Aluminium alloy 5083 (hull, turret, engine maintenance hatch)
+* Rolled homogeneous armour (engine vents, top hatch)
+* Rubber-fabric screens (side skirts)
 
 {| class="wikitable"
-|-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 38 mm (45°) ''Upper Glacis'' <br> 38.1 mm (25°) ''Lower Glacis'' <br> 29 mm (45°) ''Engine Maintenance Hatch'' || 44 mm ''Top'' <br> 32 mm ''Bottom'' || 38.1 mm || 38.1 mm <br> 10 mm ''Engine vents''
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
-|-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+|Turret || 25.4 mm || 25.4 mm || 25.4 mm || 25.4 mm
 |-
 |}
 
 '''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
 <!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+* Suspension wheels are 10 mm thick, and tracks are 15 mm thick.
+* Side skirts are 4 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
+As a tracked vehicle, the ASRAD-R adjusts to narrow and rugged terrains and has decent flexibility to evade and take cover while moving. In spite of that, the average speed of ASRAD-R is around 30-40 km/h, and its acceleration and climbing ability aren't so impressive compared to its firepower. 
 
 {{tankMobility|abMinHp=305|rbMinHp=190}}
 
@@ -99,12 +102,16 @@ The ASRAD-R received a number of improvements over the [[Lvrbv 701]]: The launch
 * Horizontal traverse of 360° allows for more flexibility compared to the [[Lvrbv 701]]
 * BOLIDE missiles with greater range (9 km) and velocity (700 m/s) are a tier II modification
 * Access to 1st generation thermals and high magnification in the gunner sight
+* Can fire 4 missiles before reloading
+* Opto-electronic tracker for locking hostile aircraft without triggering LWS
 
 '''Cons:'''
 
 * Limited anti-ground capabilities due to poor gun depression of -5° and low penetration of 200 mm
 * Subpar mobility and armour protection as a result of using the M113 chassis
 * High profile and thus easy to spot, especially when the radar is active
+* Limited elevation (+35°) causes trouble when fighting
+* Relies on thermal sight to find the hostile aircraft because the opto-electronic tracker can't detect the target in the third-person view
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

@@ -80,7 +80,8 @@ As the {{PAGENAME}} has an open-topped turret, gun servants are also very expose
 {{:Dual Automatic Gun M2 (40 mm)/Ammunition|Mk.II, M81A1}}
 
 ==== [[Ammo racks]] ====
-<!-- '''Last updated:''' -->
+[[File:Ammoracks_M19A1.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.25.1.70''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -91,6 +92,9 @@ As the {{PAGENAME}} has an open-topped turret, gun servants are also very expose
 ! 5th<br>rack empty
 ! 6th<br>rack empty
 ! 7th<br>rack empty
+|-
+| '''44''' || 40&nbsp;''(+4)'' || 36&nbsp;''(+8)'' || 32&nbsp;''(+12)'' || 30&nbsp;''(+14)'' || 26&nbsp;''(+18)'' || 22&nbsp;''(+22)'' || 18&nbsp;''(+36)''
+|-
 ! 8th<br>rack empty
 ! 9th<br>rack empty
 ! 10th<br>rack empty
@@ -98,16 +102,17 @@ As the {{PAGENAME}} has an open-topped turret, gun servants are also very expose
 ! 12th<br>rack empty
 ! 13th<br>rack empty
 ! Visual<br>discrepancy
+!
 |-
-| '''44''' || 22&nbsp;''(+22)'' || 20&nbsp;''(+24)'' || 18&nbsp;''(+26)'' || 17&nbsp;''(+27)'' || 15&nbsp;''(+29)'' || 13&nbsp;''(+31)'' || 12&nbsp;''(+32)'' || 10&nbsp;''(+34)'' || 8&nbsp;''(+36)'' || 7&nbsp;''(+37)'' || 5&nbsp;''(+39)'' || 3&nbsp;''(+41)'' || 2&nbsp;''(+42)'' || Yes
+| 16&nbsp;''(+28)'' || 12&nbsp;''(+32)'' || 8&nbsp;''(+36)'' || 4&nbsp;''(+40)'' || 2&nbsp;''(+42)'' || 0&nbsp;''(+44)'' || Yes
+!
 |-
 |}
-[[File:Ammoracks_M19.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+
 '''Notes''':
 
-* The visual discrepancy concerns racks and clips: racks are modelled to contain 5 clips while clips are modelled to contain 5 rounds.
-* The game however shoots 8 rounds per clip and racks disappear after varying amounts of rounds have been shot. Example: Racks 2 to 13 are the same size (25 rounds) but some disappear after 2 clips were fired (16 rounds), some others disappear only after 1 clip (8 rounds) has been fired.
-* No rack is emptied before you have fired 21 clips out of 44.
+* Ammunition is modelled as 44 clips of 8 rounds
+* The visual discrepancy concerns the total number of rounds: 312 rounds are modeled but you can pack 352 rounds.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

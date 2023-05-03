@@ -190,12 +190,25 @@ Compared to the vehicles it will face, the AMX-30 ranges from Inferior to Harmle
 * Fuel tanks everywhere in hull, front and sides, likely to cause a fire
 
 == History ==
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+''The AMX-30 is a main battle tank that was designed and produced by the French company Ateliers de construction d'Issy-les-Moulineaux (AMX). Development of the tank began in the early 1960s, and it entered service with the French Army in 1966.''
+
+''The development of the AMX-30 began in 1960, when the French Army began to look for a replacement for its aging fleet of tanks, which included the M4 Sherman and the AMX-13. The new tank was required to have a low silhouette, be highly mobile, and be capable of engaging targets at long ranges. The design was also required to be cost-effective, as the French Army was operating on a limited budget.''
+
+''The first prototype of the AMX-30 was completed in 1963, and it underwent testing throughout the year. The tank was powered by a Hispano-Suiza HS-110 diesel engine, which provided a top speed of 65 km/h on the road. The tank was armed with a 105 mm gun, which was capable of firing a variety of ammunition types, including armor-piercing, high-explosive, and smoke rounds.''
+
+''The AMX-30 entered production in 1965, and the first tanks were delivered to the French Army in 1966. Over the next few years, the tank was exported to several other countries, including Spain, Greece, and Saudi Arabia.''
+
+''In the 1970s, the French Army began to upgrade the AMX-30 with a number of improvements, including a new engine and improved armor protection. The upgraded version of the tank, known as the AMX-30B2, entered service in 1983.''
+
+''The AMX-30 saw action in several conflicts around the world, including the Gulf War, the Kosovo War, and the Iraq War. The tank was generally well-regarded for its mobility and reliability, but its armor protection was criticized as inadequate in some situations.''
+
+''The production of the AMX-30 continued until 1992, by which time a total of around 3,500 tanks had been produced. The tank was eventually replaced in French Army service by the Leclerc tank in the 1990s. However, some countries, such as Spain, continued to operate the AMX-30 until the early 2000s. Today, the AMX-30 is largely retired from service, although some tanks can still be found in museums and private collections around the world''
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_amx_30 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -203,6 +216,7 @@ Compared to the vehicles it will face, the AMX-30 ranges from Inferior to Harmle
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 
