@@ -4714,6 +4714,7 @@
               "rank": 4,
               "reqAir": "",
               "gift": true,
+              "hidden": true,
               "event": "battlepass_season11"
             }
           ]

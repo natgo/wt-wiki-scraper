@@ -856,6 +856,7 @@
       "wikiname": "QF 3.7 Ram",
       "marketplace": "QF 3.7 Ram (Britain)"
     },
+    { "intname": "uk_centurion_mk_2" },
     {
       "intname": "uk_centurion_mk_5_raac",
       "wikiname": "Centurion Mk.5/1",
@@ -2707,6 +2708,7 @@
       "wikiname": "Fokker D.XXI (Sweden)",
       "store": "9855"
     },
+    { "intname": "p-51b_7_sweden" },
     { "intname": "pyorremyrsky", "wikiname": "VL Pyörremyrsky" },
     { "intname": "bf-109g-6_finland", "wikiname": "Bf 109 G-6 (Sweden)" },
     { "intname": "saab_105oe", "wikiname": "SAAB-105OE" },
@@ -3289,6 +3291,7 @@
       "wikiname": "Bussard",
       "marketplace": "id50147_bussard_germany"
     },
+    { "intname": "germ_s_700_s_701" },
     { "intname": "germ_skr_pr50_karl_marx", "wikiname": "Karlsruhe" },
     {
       "intname": "germ_frigate_koln_lubeck",
