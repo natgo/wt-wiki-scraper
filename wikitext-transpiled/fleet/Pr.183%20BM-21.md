@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet motor gun boat {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]] as a reward for [[Battle Pass: Season X, "Royal Guard"]].
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet motor gun boat {{Battle-rating}}. It was introduced during [[Update "Apex Predators"]] as a reward for [[Battle Pass: Season X, "Royal Guard"]].
 
 The Pr.183 BM-21 is a non-standard Project 183 PT boat (AKA P-6 in NATO code) exported to Egypt with its rear-turret and torpedoes removed for the installation of a BM-21 MLRS. The major difference between the Pr.183 and the Pr.183 BM-21 is the BM-21 Grad 122 mm MLRS launcher on the aft platform in place of the turret; as well as a new radar replacing the original, dome-like one. The 40 rockets onboard will make sure light vessels will meet a swift end from the bombardment of 122 mm rockets from distance.
 

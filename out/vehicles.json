@@ -556,6 +556,7 @@
       "intname": "ussr_t_34_1941_cast_turret",
       "wikiname": "T-34 (1st Gv.T.Br.)"
     },
+    { "intname": "ussr_bm_31_12" },
     { "intname": "ussr_t_34_57_1943", "wikiname": "T-34-57 (1943)" },
     { "intname": "ussr_su_100Y", "wikiname": "SU-100Y" },
     { "intname": "ussr_m4a2_76w_sherman", "wikiname": "M4A2 (USSR)" },

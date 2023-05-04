@@ -1,3 +1,8 @@
+{{About
+| about = Swedish light tank '''{{PAGENAME}}'''
+| usage = the British machine gun
+| link = Vickers E (7.7 mm)
+}}
 {{Specs-Card
 |code=sw_vickers_mk_e_37
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}

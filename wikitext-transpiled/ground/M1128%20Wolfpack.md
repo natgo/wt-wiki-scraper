@@ -11,7 +11,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} American light tank {{
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+The M1128 Wolfpack's narrow profile turret provides a significant advantage in combat situations. The vehicle may face challenges in terms of survivability due to its thinner armour and the relatively close proximity of its crew members. In certain circumstances, the tall vehicle profile can be a disadvantage because it restricts the vehicle's ability to take cover and remain hidden, leaving it more open to enemy fire.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -35,7 +35,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} American light tank {{
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
+The M1128 Wolfpack, with its advanced suspension and powerful engine, has high forward mobility and can effortlessly manoeuvre through rough terrain.
 
 {{tankMobility}}
 
@@ -48,8 +48,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} American light tank {{
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|M68A1E8 (105 mm)}}
-
-''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.''
+Target identification is effortless thanks to third-generation thermal imaging technology integrated into the gunner, commander, and driver optics. On some maps, such as those where you are engaging targets on uneven terrain, the limited gun depression and elevation is a significant disadvantage.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -60,15 +59,17 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} American light tank {{
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 18 || rowspan="2" | -5°/+15° || rowspan="2" | ±180° || rowspan="2" | Two-plane || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 18 || rowspan="2" | -5°/+15° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 38.1 || 52.7 || 64.0 || 70.7 || 75.3 || rowspan="2" | 7.50 || rowspan="2" | 7.50 || rowspan="2" | 7.50 || rowspan="2" | 7.50
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 23.8 || 28.0 || 34.0 || 37.6 || 40.0
 |-
 |}
 
 ==== Ammunition ====
 {{:M68A1E8 (105 mm)/Ammunition|M456A2, M774, M833}}
+
+While the M833 is still a capable shell, it performs significantly worse than the M900 featured in the tech tree counterpart.
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
@@ -78,13 +79,9 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} American light tank {{
 ! Full<br>ammo
 ! 1st<br>rack empty
 ! 2nd<br>rack empty
-! 3rd<br>rack empty
-! 4th<br>rack empty
-! 5th<br>rack empty
-! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''18''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''18''' || 9&nbsp;''(+9)'' || 1&nbsp;''(+17)'' || No
 |-
 |}
 

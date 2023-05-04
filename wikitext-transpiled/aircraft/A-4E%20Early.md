@@ -248,6 +248,7 @@ In Ground RB, the preferable secondary armaments are the [[FFAR Mighty Mouse|FFA
 ** Can Obliterate bases in Air RB with 250kg bombs and Napalm Mk77s
 * Decent acceleration
 * Radar Warning Receiver useful in uptiers
+* Has access to takeoff boosters that can be useful in dogfighting
 
 '''Cons:'''
 

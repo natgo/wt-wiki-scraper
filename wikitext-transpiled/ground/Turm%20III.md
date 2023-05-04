@@ -157,6 +157,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German medium tan
 
 '''Pros:'''
 
+* Huge first stage ammo rack   
 * Has a fast autoloader for the main armament
 * Has an autocannon for coaxial weapon that can defeat even some MBTs through the side armour
 * Extremely good mobility, can easily get up to 66 kilometres per hour in RB

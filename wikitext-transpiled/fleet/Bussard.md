@@ -115,7 +115,7 @@ File:Bussard firing on the enemy.jpg|<small>Bussard firing at the enemy</small>
 
 ;Other boats of similar configuration and role
 
-* [[Asheville (PGM-84)]]
+* [[USS Asheville]]
 * [[SKR-1]]
 * [[HMS Peacock]]
 * [[Chikugo]]

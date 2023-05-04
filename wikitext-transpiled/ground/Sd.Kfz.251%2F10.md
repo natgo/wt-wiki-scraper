@@ -133,7 +133,7 @@ Due to being a halftrack, the {{PAGENAME}} has superb traction and decent speed 
 
 '''Pros:'''
 
-* Thin armour, does not trigger most APHE rounds fired at it
+* Thin armour does not trigger most APHE rounds fired at it
 * Relatively punchy APCR round and high-velocity
 * Very fast reload
 * High survivability due to a crew of five
@@ -161,6 +161,7 @@ However, platoon leader vehicles received a special upgrade to their firepower i
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_sdkfz_251_10 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images

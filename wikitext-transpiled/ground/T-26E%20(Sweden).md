@@ -44,7 +44,7 @@ This vehicle is not to be confused with the Soviet uparmoured [[T-26E]]. The T-2
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
 
-{{tankMobility}}
+{{tankMobility|abMinHp=143|rbMinHp=81}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -67,10 +67,10 @@ This vehicle is not to be confused with the Soviet uparmoured [[T-26E]]. The T-2
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 50 || rowspan="2" | -6°/+22° || rowspan="2" | ±180° || rowspan="2" | N/A || 13.3 || || __._ || __._ || __._ || rowspan="2" | 3.8 || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 50 || rowspan="2" | -6°/+22° || rowspan="2" | ±180° || rowspan="2" | N/A || 13.3 || 18.8 || __._ || __._ || 26.4 || rowspan="2" | 3.8 || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | 2.9
 |-
 ! ''Realistic''
-| 8.3 || || __._ || __._ || __._
+| 8.3 || 10.0 || __._ || __._ || 14.0
 |-
 |}
 
@@ -78,23 +78,23 @@ This vehicle is not to be confused with the Soviet uparmoured [[T-26E]]. The T-2
 {{:20-K (45 mm)/Ammunition|BR-240, BR-240SP}}
 
 ==== [[Ammo racks]] ====
-<!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
-<!-- '''Last updated:''' -->
+[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.25.1.89''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
 ! 1st<br>rack empty
 ! 2nd<br>rack empty
 ! 3rd<br>rack empty
-! 4th<br>rack empty
-! 5th<br>rack empty
-! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''50''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''50''' || 32&nbsp;''(+18)'' || 13&nbsp;''(+37)'' || 1&nbsp;''(+49)'' || No
 |-
 |}
+'''Note''':
 
+* Shells are modeled individually and disappear after having been shot or loaded.
+{{Clear}}
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
@@ -137,6 +137,7 @@ This vehicle is not to be confused with the Soviet uparmoured [[T-26E]]. The T-2
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sw_vickers_mk_e_45 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
