@@ -10,7 +10,7 @@
 </p>
 War thunder wiki scraper and data collector
 
-All the data in final.json comes from game files
+Most of the data in final.json currently comes from game files
 
 ### How does it work
 1. The app starts by querying a public api on wiki.warthunder.com for vehicles and downloads all vehicle pages
@@ -18,6 +18,12 @@ All the data in final.json comes from game files
 3. Reads from game files data for all vehicles and parses it to out/final.json 
 4. Downloads all garageimages from wiki.warthunder.com and saves them to garageimages directory
 5. Parses and creates shop.json from shop.blkx
+
+# Usage
+
+Prerequisites:
+- POSIX Shell
+- pnpm
 
 ## Development
 
@@ -40,7 +46,7 @@ To prettify source code, run:
 pnpm pretty # or npm run pretty
 ```
 
-## Build
+### Build
 
 In order to do a build, run:
 
@@ -48,7 +54,7 @@ In order to do a build, run:
 pnpm build # npm run build
 ```
 
-# Running
+## Running
 
 Just run 
 
@@ -60,8 +66,8 @@ the output will be in out/ directory
 
 # Todo
 - [ ] Add lint-staged
-- [ ] Make a CI/CD pipeline to wt-app
-- [x] Complete the scrape module
+- [ ] Create a pipeline to [wt-app](https://github.com/natgo/wt-app)
 - [ ] Improve the file structure
+- [x] Complete the scrape module
 - [x] Driver thermal
 - [x] Add machineguns

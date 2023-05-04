@@ -1,20 +1,29 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {
-		"editor.tabSize": 2,
-		"npm.packageManager": "pnpm",
-		"javascript.preferences.quoteStyle": "double",
-		"typescript.preferences.quoteStyle": "double",
-		"files.insertFinalNewline": true,
-		"editor.acceptSuggestionOnEnter": "off",
-		"terminal.integrated.shellIntegration.enabled": true,
-		"files.associations": {
-			"*.blkx": "json"
-		},
-		"typescript.updateImportsOnFileMove.enabled": "always"
-	}
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.tabSize": 2,
+    "npm.packageManager": "pnpm",
+    "javascript.preferences.quoteStyle": "double",
+    "typescript.preferences.quoteStyle": "double",
+    "files.insertFinalNewline": true,
+    "editor.acceptSuggestionOnEnter": "off",
+    "terminal.integrated.shellIntegration.enabled": true,
+    "files.associations": {
+      "*.blkx": "json"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.formatOnSave": true
+    },
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.formatOnSave": true
+    }
+  }
 }
