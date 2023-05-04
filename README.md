@@ -1,5 +1,6 @@
 # WT Wiki scraper
 <p align="center">
+  <img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/natgo/wt-wiki-scraper">
   <a href="https://github.com/prettier/prettier"><img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg"></a>
   <img alt="GitHub" src="https://img.shields.io/github/license/natgo/wt-wiki-scraper">
 </p>
