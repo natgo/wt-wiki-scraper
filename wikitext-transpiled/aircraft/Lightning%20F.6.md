@@ -157,11 +157,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 In combined battles, pilots of the {{PAGENAME}} may find themselves unable to deal much damage against ground vehicles, especially without the use of rockets, anti-tank missiles, or bombs. As such, this fighter is better suited to dealing with enemy air targets such as helicopters, which are plentiful at the Lightning's battle rating.
 
-Although it faces challenges there, air realistic battles are where the Lightning truly belongs.  The F.6 is able to use its Red Top missiles to dispatch enemies from a distance.  Best practice with the missiles is to fire when there is about a 1.5 km gap between the F.6 and the enemy aircraft.  This gap gives the missile time to lock on its target and track the enemy.  One downside to the Red Tops is that they are not particularly fast compared to other missiles at its tier and may have trouble manoeuvring to catch an enemy aircraft travelling at top speed.
+Although it faces challenges there, air realistic battles are where the Lightning truly belongs. The F.6 is able to use its Red Top missiles to dispatch enemies from a distance. Best practice with the missiles is to fire when there is about a 1.5 km gap between the F.6 and the enemy aircraft. This gap gives the missile time to lock on its target and track the enemy. One downside to the Red Tops is that they are not particularly fast compared to other missiles at its tier and may have trouble manoeuvring to catch an enemy aircraft travelling at top speed.
 
-The {{PAGENAME}} handles well at subsonic speeds, although dogfights at those speeds are not common at this battle rating.  Flying slowly leaves the pilot vulnerable to nearby enemies.  Among those enemies may be the [[MiG-21 F-13]], which the Lightning can often out-dogfight and the [[F-4 Phantom II (Family)|F-4C]], which the Lightning has an extremely difficult time trying to out-dogfight.  The Lightning just doesn't have the energy retention that the Phantom does.
+The {{PAGENAME}} handles well at subsonic speeds, although dogfights at those speeds are not common at this battle rating. Flying slowly leaves the pilot vulnerable to nearby enemies. Among those enemies may be the [[MiG-21 F-13]], which the Lightning can often out-dogfight and the [[F-4 Phantom II (Family)|F-4C]], which the Lightning has an extremely difficult time trying to out-dogfight. The Lightning just doesn't have the energy retention that the Phantom does.
 
-Keeping this in mind, it is advised that pilots use this plane as part of a team, rather than as an attempted solo carry.  It is recommended that they climb to higher altitude early on in the match and by gaining as much energy as possible before dumping it in dogfight manoeuvres.
+Keeping this in mind, it is advised that pilots use this plane as part of a team, rather than as an attempted solo carry. It is recommended that they climb to higher altitude early on in the match and by gaining as much energy as possible before dumping it in dogfight manoeuvres.
 
 Enemy planes that the Lightning F.6 is well-suited to take on in a fight are the [[Mitsubishi T-2]], the [[F-100D]], and the [[MiG-19 (Family)|Mig-19s]] of all variants.
 
@@ -209,7 +209,7 @@ The Lightning F.6 is equipped with an AI.23 search and tracking radar. The radar
 '''Cons:'''
 
 * Vulnerable to itself
-** Can rip wings and avionics easily at 1360 km/h IAS
+** Can rip wings and avionics easily at 1,360 km/h IAS
 ** Very high fuel consumption when using afterburner
 * Awkward cannon handling
 ** Cannons are mounted under the fuselage
@@ -221,7 +221,7 @@ The Lightning F.6 is equipped with an AI.23 search and tracking radar. The radar
 ** Avionics lock-up (compress) at transonic/supersonic speeds
 * Lack of versatility
 ** No strike ordnance
-*Incredibly vulnerable to infrared guided missiles as a result of having two very hot engines
+* Engines run very hot and are therefore incredibly vulnerable to infrared-guided missiles
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

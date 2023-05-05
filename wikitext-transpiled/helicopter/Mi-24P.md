@@ -178,7 +178,7 @@ The Mi-24P's modernized variant, the [[Mi-35M]], is still in use to this day in 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mi_24p Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|lTR8bhL4BUc|'''The Mi-24 Family''' discusses the {{PAGENAME}} at 5:15 - ''War Thunder Official Channel''|6QZAY1EtkFU|'''The Shooting Range #110''' - ''Pages of History'' section at 10:26 discusses the {{PAGENAME}}.}}
+{{Youtube-gallery|o90jz82NemI|'''Mi-24 Ultimate Review''' - ''Bob Dickinson''|lTR8bhL4BUc|'''The Mi-24 Family''' discusses the {{PAGENAME}} at 5:15 - ''War Thunder Official Channel''|6QZAY1EtkFU|'''The Shooting Range #110''' - ''Pages of History'' section at 10:26 discusses the {{PAGENAME}}.}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

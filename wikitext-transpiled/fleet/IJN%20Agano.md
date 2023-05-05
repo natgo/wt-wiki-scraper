@@ -14,7 +14,8 @@ The '''{{Specs|name}}''' (阿賀野, [[Abbreviations#.28JP.29_Naval|namesake]]: 
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
-''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.''
+<!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
+The Agano is very fast for a cruiser and can keep up with some destroyers when fully upgraded.The ship makes up for its overall semi-weak armour with speed. It is able to weave in and out of combat at will and is relatively manoeuvrable when compared to its usual adversaries.
 
 {{NavalMobility}}
 
@@ -65,7 +66,7 @@ Located amidships is a catapult with one Aichi E13A1 scout plane (the second sto
 * 16 Long Lance torpedoes are devastating against enemy ships
 * Very fast for a cruiser, can keep up with some destroyers when fully upgraded
 * Main guns have a great rate of fire in first-stage, equal to US cruisers
-* One scout plane.
+* One scout plane
 
 '''Cons:'''
 

@@ -26,6 +26,10 @@ Prerequisites:
 - POSIX Shell
 - pnpm
 
+Clone the repo with submodules:
+```bash
+git clone --recursive https://github.com/natgo/wt-wiki-scraper.git
+```
 ## Development
 
 Install dependencies:
@@ -40,14 +44,11 @@ In order to run building in watch mode, run:
 pnpm build --watch # or npm run build --watch
 ```
 
-
 To prettify source code, run:
 
 ```bash
 pnpm pretty # or npm run pretty
 ```
-
-### Build
 
 In order to do a build, run:
 

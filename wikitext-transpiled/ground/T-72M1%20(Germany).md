@@ -18,14 +18,12 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-ra
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 The T-72M1 is basically a near identical copy of the T-72A found in the Soviet tech tree, therefore the armour layout is also almost identical. Some differences are the additional applique armour placed on the front glacis. While not substantially thick, the sloping effect on top of the composite front glacis might be enough to prevent some shells from fully penetrating.
 
-The hull and turret of the T-72M1 are strong enough to somewhat reliably bounce some shells and eat, although it still possesses the same "weak spots" that most other soviet tanks have (weak lower front plate, drivers optics etc.)
+The hull and turret of the T-72M1 are strong enough to somewhat reliably bounce some shells and eat, although it still possesses the same weak spots that most other soviet tanks have (lower front plate, drivers optics, etc.).
 
 '''Armour type:'''
 
-* Cast homogenous armor (turret)
-* Rolled homogenous armor (hull)<!-- The types of armour present on the vehicle and their general locations -->
-<!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
-* Cast homogeneous armour (Turret, Transmission area) -->
+* Cast homogeneous armor (turret)
+* Rolled homogeneous armor (hull)
 
 {| class="wikitable"
 |-
@@ -47,7 +45,7 @@ The hull and turret of the T-72M1 are strong enough to somewhat reliably bounce 
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
 
-{{tankMobility|abMinHp=1,209|rbMinHp=690|AoAweight=}}
+{{tankMobility|abMinHp=1,209|rbMinHp=690}}
 
 === Modifications and economy ===
 {{Specs-Economy}}

@@ -109,10 +109,10 @@ In the Pz.Sfl.Ic, you should avoid well-protected tanks like the [[KV-1 (L-11)]]
 
 '''Pros:'''
 
-* Has a gun which will reliably penetrate pretty much any of its expected enemies
+* Has a gun that will reliably penetrate pretty much any of its expected enemies
 * Is very, very fast (Max speed off-road of around 56 km/h)
 * Has a decent reload speed
-* Has the scouting ability, can earn you some extra silver lions and valuable intel for your team
+* Has the scouting ability, which can earn you some extra silver lions and valuable intel for your team
 * Because of lack of armour, some shells will pass right through you
 * Can change positions very quickly if needed
 * Can get to the cap points and good positions early in the match
@@ -120,11 +120,11 @@ In the Pz.Sfl.Ic, you should avoid well-protected tanks like the [[KV-1 (L-11)]]
 '''Cons:'''
 
 * Weak armour - trade-off of speed for less weight
-* Open top, planes can destroy the vehicle with machine guns when strafing very easily
+* Open-top, planes can destroy the vehicle with machine guns when strafing very easily
 * No stabiliser, which means that the gun will take a moment to settle after stopping the tank
 * Has very bad depression angles
 * Can get slowed down in difficult terrain
-* If your tracks or engine are knocked out, you are a basically a sitting duck
+* You are a sitting duck if your tracks or engines are knocked out
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

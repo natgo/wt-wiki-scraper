@@ -277,7 +277,9 @@ Instead, exploit Hind's high speed to get on flanks and hit enemy tanks from the
 * No thermal sights, only infrared night vision
 
 == History ==
-''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+One of the first known occasion for Mi-24P in East Germany was observed as early as 1982 where it joined Soviet Armed Force and also been deployed by the Group of Soviet Forces in Germany (GSFG).<ref>https://www.16va.be/4.2_les_mi-24_part2_eng.html</ref> Accord to the records of NVA and Luftwaffe, the 3rd Helicopter Squadron of Kampfhubschraubergeschwader 5 ''(KHG 5 "Adolf von Lützow")'' of the Basepohl Airfield received 12 Mi-24P in late-1989, all after the collapse of Berlin Wall. These helicopters were soon transferred to the post-unification ''Heeresfliegerstaffel 80'' (Army Aviation Squadron 80) of German Army then the WTD 61(Wehrtechnische Dienststelle 61) for further evaluation by both Heer and US Army.
+
+These helicopters are either being displayed in museums, sent for evaluation or been sold to Hungary which still used Mi-24P as the donor aircraft for their fleet.<ref>https://www.biancahoegel.de/flug/typen/ru/mil/mi-24-ddr.html</ref> 
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -286,7 +288,7 @@ Instead, exploit Hind's high speed to get on flanks and hit enemy tanks from the
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mi_24p_german Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|lTR8bhL4BUc|'''The Mi-24 Family''' discusses the {{PAGENAME}} at 5:56 - ''War Thunder Official Channel''}}
+{{Youtube-gallery|o90jz82NemI|'''Mi-24 Ultimate Review''' - ''Bob Dickinson''|lTR8bhL4BUc|'''The Mi-24 Family''' discusses the {{PAGENAME}} at 5:56 - ''War Thunder Official Channel''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
@@ -294,11 +296,13 @@ Instead, exploit Hind's high speed to get on flanks and hit enemy tanks from the
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other Mi-24P variants
+
 * [[Mi-24P HFS 80 (Germany)]]
 * [[Mi-24P]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

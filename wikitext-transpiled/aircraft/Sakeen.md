@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=s_199
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -157,6 +157,11 @@ The S-199, despite its poor mechanical performance, gained the distinction of be
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Images
+<gallery mode="packed-hover" heights="x250px">
+File:ArtImage Sakeen.png
+</gallery>
 
 ;Skins
 
