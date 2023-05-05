@@ -5,7 +5,7 @@ import { Final } from "./types";
 
 async function main(dev: boolean) {
   const final: Final = JSON.parse(
-    fs.readFileSync(`./out/${dev ? "final-dev" : "final"}.json`, "utf-8"),
+    fs.readFileSync(`./data/data/${dev ? "final-dev" : "final"}.json`, "utf-8"),
   );
   const arr: { ptow: number; name: string }[] = [];
   final.ground.forEach((element) => {
@@ -17,7 +17,7 @@ async function main(dev: boolean) {
     return b.ptow - a.ptow;
   });
   fs.writeFileSync(
-    `./out/${dev ? "powertoweight-dev" : "powertoweight"}.json`,
+    `./data/data/${dev ? "powertoweight-dev" : "powertoweight"}.json`,
     format(JSON.stringify(arr), { parser: "json" }),
   );
 }

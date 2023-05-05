@@ -5,7 +5,7 @@ import { format } from "prettier";
 import { Final, ScrapeFull, topSpeed, visibility } from "./types";
 
 async function main() {
-  const final: Final = JSON.parse(fs.readFileSync("./out/final.json", "utf-8"));
+  const final: Final = JSON.parse(fs.readFileSync("./data/data/final.json", "utf-8"));
 
   const vehicles: {
     ground: string[];
@@ -116,7 +116,7 @@ async function main() {
       visibility: parseFloat(vehicleVisibility),
     });
   });
-  fs.writeFileSync("./out/wiki.json", format(JSON.stringify(scrape), { parser: "json" }));
+  fs.writeFileSync("./data/data/wiki.json", format(JSON.stringify(scrape), { parser: "json" }));
 }
 
 main();

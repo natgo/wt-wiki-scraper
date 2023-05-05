@@ -92,7 +92,7 @@ function imageLoop(vehicles: VehicleProps[]) {
 }
 
 async function main() {
-  const final: Final = JSON.parse(fs.readFileSync("./out/final.json", "utf-8"));
+  const final: Final = JSON.parse(fs.readFileSync("./data/data/final.json", "utf-8"));
 
   imageLoop(final.aircraft);
   imageLoop(final.ground);

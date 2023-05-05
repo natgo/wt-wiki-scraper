@@ -43,7 +43,7 @@ async function main(dev: boolean) {
   );
 
   const vehicles: namevehicles = JSON.parse(
-    fs.readFileSync(`./out/${dev ? "vehicles-dev" : "vehicles"}.json`, "utf-8"),
+    fs.readFileSync(`./data/data/${dev ? "vehicles-dev" : "vehicles"}.json`, "utf-8"),
   );
 
   const weaponry_lang = langcsvJSON(
@@ -241,7 +241,7 @@ async function main(dev: boolean) {
   });
 
   fs.writeFileSync(
-    `./out/${dev ? "final-dev" : "final"}.json`,
+    `./data/data/${dev ? "final-dev" : "final"}.json`,
     format(JSON.stringify(final), { parser: "json" }),
   );
 }

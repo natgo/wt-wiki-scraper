@@ -63,7 +63,7 @@ Just run
 pnpm start # npm run start
 ```
 
-the output will be in out/ directory
+the output will be in data/data/ directory
 
 # Todo
 - [ ] Add lint-staged

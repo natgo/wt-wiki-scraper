@@ -43,7 +43,7 @@ async function main(dev: boolean) {
   );
 
   const final: Final = JSON.parse(
-    fs.readFileSync(`./out/${dev ? "final-dev" : "final"}.json`, "utf-8"),
+    fs.readFileSync(`./data/data/${dev ? "final-dev" : "final"}.json`, "utf-8"),
   );
 
   const modifications: Mods = JSON.parse(
@@ -175,7 +175,7 @@ async function main(dev: boolean) {
   });
 
   fs.writeFileSync(
-    `./out/${dev ? "modifications-dev" : "modifications"}.json`,
+    `./data/data/${dev ? "modifications-dev" : "modifications"}.json`,
     format(JSON.stringify(modFinal), { parser: "json" }),
   );
 }

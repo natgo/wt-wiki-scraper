@@ -223,7 +223,7 @@ async function main(dev: boolean) {
     }
   });
   fs.writeFileSync(
-    `./out/${dev ? "vehicles-dev" : "vehicles"}.json`,
+    `./data/data/${dev ? "vehicles-dev" : "vehicles"}.json`,
     format(JSON.stringify(result), { parser: "json" }),
   );
 }

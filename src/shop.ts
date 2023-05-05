@@ -238,7 +238,7 @@ function shopRangeFE(
 
 async function main(dev: boolean) {
   const final: Final = JSON.parse(
-    fs.readFileSync(`./out/${dev ? "final-dev" : "final"}.json`, "utf-8"),
+    fs.readFileSync(`./data/data/${dev ? "final-dev" : "final"}.json`, "utf-8"),
   );
 
   const shopData: Shop = JSON.parse(
@@ -316,7 +316,7 @@ async function main(dev: boolean) {
   });
 
   fs.writeFileSync(
-    `./out/${dev ? "shop-dev" : "shop"}.json`,
+    `./data/data/${dev ? "shop-dev" : "shop"}.json`,
     format(JSON.stringify(finalShopSchema.parse(result)), { parser: "json" }),
   );
 }
