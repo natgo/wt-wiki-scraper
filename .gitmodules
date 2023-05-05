@@ -5,3 +5,6 @@
 	path = datamine-dev
 	url = https://github.com/natgo/War-Thunder-Datamine.git
 	branch = dev
+[submodule "data"]
+	path = data
+	url = https://github.com/natgo/wt-data.git
