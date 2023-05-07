@@ -12,10 +12,10 @@
     "files.insertFinalNewline": true,
     "editor.acceptSuggestionOnEnter": "off",
     "terminal.integrated.shellIntegration.enabled": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
     "files.associations": {
       "*.blkx": "json"
     },
-    "typescript.updateImportsOnFileMove.enabled": "always",
 
     "[typescript]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode",
