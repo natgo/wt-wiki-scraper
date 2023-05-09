@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "ES2022",
     "module": "CommonJS",
-    "lib": ["DOM","ES2022", "ESNext"],
+    "lib": ["DOM", "ES2022", "ESNext"],
     "skipLibCheck": true,
     "sourceMap": true,
     "outDir": "./dist",
@@ -22,8 +22,8 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "resolveJsonModule": true,
-    "baseUrl": "."
+    "baseUrl": "./src"
   },
-  "exclude": ["node_modules", "./src/**/*.test.ts"],
-  "include": ["src"]
+  "exclude": ["node_modules", "./src/**/*.test.ts", "data/types/generateSchema.ts"],
+  "include": ["src", "data/types"]
 }

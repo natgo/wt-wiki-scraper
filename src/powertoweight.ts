@@ -1,7 +1,7 @@
 import fs from "fs";
 import { format } from "prettier";
 
-import { Final } from "./types";
+import { Final } from "../data/types/final.schema";
 
 async function main(dev: boolean) {
   const final: Final = JSON.parse(

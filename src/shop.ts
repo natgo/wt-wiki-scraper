@@ -1,17 +1,7 @@
 import fs from "fs";
 import { format } from "prettier";
-
-import { langcsvJSON } from "./csvJSON";
-import { parseLang } from "./lang";
 import {
   CountryName,
-  Final,
-  FinalFinalShopRange,
-  FinalRange,
-  FinalShop,
-  FinalShopGroup,
-  FinalShopItem,
-  FinalShopRange,
   LangData,
   NeedBuyToOpenNextInEra,
   Rank,
@@ -19,10 +9,21 @@ import {
   ShopCountry,
   ShopGroup,
   ShopItem,
-  VehicleProps,
   country,
+} from "types";
+
+import { Final, VehicleProps } from "../data/types/final.schema";
+import {
+  FinalFinalShopRange,
+  FinalRange,
+  FinalShop,
+  FinalShopGroup,
+  FinalShopItem,
+  FinalShopRange,
   finalShopSchema,
-} from "./types";
+} from "../data/types/shop.schema";
+import { langcsvJSON } from "./csvJSON";
+import { parseLang } from "./lang";
 
 function minMaxRank(
   army: FinalShopRange,

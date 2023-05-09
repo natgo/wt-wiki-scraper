@@ -1,11 +1,11 @@
+import { AirVehicle, LangData } from "types";
+
 import {
-  AirVehicle,
   FinalWeapon,
   FinalWeapons,
-  LangData,
   SecondaryWeaponPreset,
   secondaryWeaponPresetSchema,
-} from "../types";
+} from "../../data/types/final.schema";
 import { DeepShit, WeaponArray, typeSwitch } from "./secondaryPresets";
 import { weaponDisplayname } from "./weaponDisplayname";
 

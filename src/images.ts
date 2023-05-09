@@ -2,7 +2,7 @@ import axios, { AxiosResponse } from "axios";
 import fs from "fs";
 import https from "https";
 
-import { Final, VehicleProps } from "./types";
+import { Final, VehicleProps } from "../data/types/final.schema";
 
 interface pageimages extends AxiosResponse {
   data: {

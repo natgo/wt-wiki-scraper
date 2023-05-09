@@ -1,7 +1,8 @@
 import fs from "fs";
+import { LangData, Weapon, WeaponGround } from "types";
 
+import { GenericGun } from "../../data/types/final.schema";
 import { parseLang } from "../lang";
-import { GenericGun, LangData, Weapon, WeaponGround } from "../types";
 import { weaponbulletsLoop } from "./commonWeaponToCannon";
 
 export function machineGun(

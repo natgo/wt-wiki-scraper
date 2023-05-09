@@ -2,7 +2,8 @@ import fs from "fs";
 import { parseHTML } from "linkedom";
 import { format } from "prettier";
 
-import { Final, ScrapeFull, topSpeed, visibility } from "./types";
+import { Final } from "../data/types/final.schema";
+import { Wiki, topSpeed, visibility } from "../data/types/wiki.schema";
 
 async function main() {
   const final: Final = JSON.parse(fs.readFileSync("./data/data/final.json", "utf-8"));
@@ -17,7 +18,7 @@ async function main() {
     helicopter: [],
   };
 
-  const scrape: ScrapeFull = {
+  const scrape: Wiki = {
     ground: [],
     aircraft: [],
     helicopter: [],

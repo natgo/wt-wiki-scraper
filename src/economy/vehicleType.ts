@@ -1,11 +1,12 @@
+import { UnitData } from "types";
+
 import {
-  UnitData,
   aircraftTypeSchema,
   boatTypeSchema,
   groundTypeSchema,
   shipTypeSchema,
   vehicleTypesSchema,
-} from "../types";
+} from "../../data/types/final.schema";
 
 export function vehicleType(
   vehicleUnit: UnitData,

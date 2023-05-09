@@ -1,13 +1,7 @@
+import { Cannon, LangData, WeaponNamePreset, WeaponPreset } from "types";
+
+import { FinalWeapon, FinalWeaponArray, FinalWeapons } from "../../data/types/final.schema";
 import { parseLang } from "../lang";
-import {
-  Cannon,
-  FinalWeapon,
-  FinalWeaponArray,
-  FinalWeapons,
-  LangData,
-  WeaponNamePreset,
-  WeaponPreset,
-} from "../types";
 import { weaponDisplayname } from "./weaponDisplayname";
 
 export function DeepShit(

@@ -1,25 +1,27 @@
 import fs from "fs";
 import { format } from "prettier";
 
-import { langcsvJSON } from "../csvJSON";
-import { parseLang } from "../lang";
 import {
-  AirVehicle,
-  Economy,
   Final,
-  GroundVehicle,
   HelicopterOptics,
-  Mods,
-  ShipVehicle,
-  Shop,
-  UnitData,
   aircraftTypeSchema,
   boatTypeSchema,
   groundTypeSchema,
   helicopterOpticsSchema,
   helicopterTypeSchema,
-  namevehicles,
   shipTypeSchema,
+} from "../../data/types/final.schema";
+import { langcsvJSON } from "../csvJSON";
+import { parseLang } from "../lang";
+import {
+  AirVehicle,
+  Economy,
+  GroundVehicle,
+  Mods,
+  ShipVehicle,
+  Shop,
+  UnitData,
+  namevehicles,
 } from "../types";
 import { commonVehicle } from "./commonVehicle";
 import { drive, groundVehicle } from "./groundVehicle";

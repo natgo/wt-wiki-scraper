@@ -1,24 +1,18 @@
 import fs from "fs";
 import { format } from "prettier";
+import { AirVehicle, Economy, GroundVehicle, LangData, Mods, ShipVehicle } from "types";
 
-import { langcsvJSON } from "../csvJSON";
-import { parseLang } from "../lang";
+import { Final, VehicleProps } from "../../data/types/final.schema";
 import {
-  AirVehicle,
   BaseMod,
-  Economy,
-  Final,
-  GroundVehicle,
-  LangData,
   ModClass,
   ModClassName,
   Modifications,
-  Mods,
-  ShipVehicle,
   VehicleMods,
-  VehicleProps,
   modClassName,
-} from "../types";
+} from "../../data/types/modifications.schema";
+import { langcsvJSON } from "../csvJSON";
+import { parseLang } from "../lang";
 
 async function main(dev: boolean) {
   const economy: Record<string, Economy> = JSON.parse(

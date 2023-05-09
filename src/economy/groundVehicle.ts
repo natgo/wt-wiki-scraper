@@ -1,4 +1,6 @@
-import { GroundVehicle, LangData, Mods, NightVision, Sights, TankWeapons, opticIr } from "../types";
+import { GroundVehicle, LangData, Mods } from "types";
+
+import { NightVision, Sights, TankWeapons, opticIr } from "../../data/types/final.schema";
 import { commonWeaponToCannon } from "./commonWeaponToCannon";
 import { machineGun } from "./machineGun";
 

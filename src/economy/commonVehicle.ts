@@ -1,15 +1,15 @@
 import {
   CountryName,
   Economy,
-  FinalProps,
   LangData,
   Shop,
   ShopGroup,
   ShopItem,
   UnitData,
   namevehicle,
-  premTypeSchema,
-} from "../types";
+} from "types";
+
+import { FinalProps, premTypeSchema } from "../../data/types/final.schema";
 
 const br = [
   "1.0",

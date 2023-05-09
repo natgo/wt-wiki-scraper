@@ -1,7 +1,8 @@
 import fs from "fs";
+import { LangData, Weapon, WeaponGround } from "types";
 
+import { Belt, Shell, ShellBelt, TankCannon } from "../../data/types/final.schema";
 import { parseLang } from "../lang";
-import { Belt, LangData, Shell, ShellBelt, TankCannon, Weapon, WeaponGround } from "../types";
 import { stabilizer } from "./stabilizer";
 
 export function commonWeaponToCannon(
