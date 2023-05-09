@@ -5,7 +5,7 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} American light cruiser {{Battle-rating}}. It was introduced in [[Update 1.93 "Shark Attack"]] purchasable in-game with Golden Eagles {{ge}}. The {{PAGENAME}} was available in the store in a [[wt:en/news/7087-shop-new-packs-and-a-unique-bundle-en|premium pack]] until it was removed after the [[wt:en/news/7417-shop-war-thunder-birthday-sale-in-gaijin-net-store-en|9th Anniversary Sale]].
+The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} American light cruiser {{Battle-rating}}. It was introduced in [[Update 1.93 "Shark Attack"]] purchasable in-game with Golden Eagles {{ge}}. The {{PAGENAME}} was available in the store in a [[wt:en/news/7087-shop-new-packs-and-a-unique-bundle-en|premium pack]] until it was removed after the [[wt:en/news/7417-shop-war-thunder-birthday-sale-in-gaijin-net-store-en|9th Anniversary Sale]], but was later re-introduced as a regular in-game premium for {{GE}}.
 
 == General info ==
 === Survivability and armour ===

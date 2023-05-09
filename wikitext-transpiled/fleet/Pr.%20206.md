@@ -1,7 +1,7 @@
 {{About
 | about = Soviet motor torpedo gun boat '''{{PAGENAME}}'''
-| usage = the other version
-| link = Pr.206-M
+| usage = the other versions
+| link = Pr.206 (Family)
 }}
 {{Specs-Card
 |code=ussr_pr_206

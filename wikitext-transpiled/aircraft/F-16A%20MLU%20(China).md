@@ -204,7 +204,7 @@ The introduction of the F-16A MLU means the Chinese tech tree finally has the up
 
 '''Pros:'''
 
-* Equipped with both SARH missiles and air-to-ground weapons, unlike their counterparts in different nations
+* Equipped with both SARH missiles and air-to-ground weapons, unlike most counterparts in different nations
 * Impressive payload for interception missions with up to 6 x AAMs
 * Impressive manoeuvrability at around 700 km/h, useful when there's the need for a dogfight
 * Equipped with a drogue chute for shorter landing distance

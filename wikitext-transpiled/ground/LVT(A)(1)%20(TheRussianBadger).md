@@ -85,10 +85,9 @@ The deadliest threats are HMG and autocannon mounted vehicles such as the Pz.IIs
 ! 3rd<br>rack empty
 ! 4th<br>rack empty
 ! 5th<br>rack empty
-! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''104''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''104''' ||92 ''(+12)''||69 ''(+35)''||46 ''(+58)''||23 ''(+81)''||1 ''(+103)''||No
 |-
 |}
 
@@ -113,19 +112,38 @@ The deadliest threats are HMG and autocannon mounted vehicles such as the Pz.IIs
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+Use the LVT(A)(1)'s ability to sneak up waterways to work around the enemy lines, and ambush when possible. If that is not a option, come at them head on, either taking their vehicle out or disabling it long enough to get around and finish it with a side shot. Once done, do not take the waterways back as the LVT(A)(1) is much faster on land. This tank has the capability to work as an early assault tank, not as fast as the Stuarts, BTs and other light tanks. Another tactic that can be done against lightly armoured vehicles is to drive backwards towards the enemy. The combined firepower of 3 machine guns and the cannon increases the chance of take out the enemy before they can take out the LVT(A)(1). The big thing to keep in mind is that the LVT(A)(1) is big. It is a large target that is hard to hide, but the spacious interior makes it harder for enemies to take out all of the crew members. At the same time, keep in mind that the LVT(A)(1) is an easy target for aircraft, as the vehicle presents as very easy target for anything .50 cal and up.
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
 
-'''Pros:'''
-
-* spaced crew
+* Very fast and manoeuverable on most terrain
+* 6 crew members
+* Fast-firing and accurate 37 mm gun
+* Crew members are spread out, less likely to get knocked out in one shot
+* Great gun depression at the side and front
+* Heavily armoured gun mantlet
+* 2 machine gunners that can fire at high angles, enabling anti-air
+* Small engine makes it hard to hit
+* Reserve tank (no repair costs)
+* Amphibious (the first reserve floating tank)
+* Spaced Crew
 
 *
 
 '''Cons:'''
+
+* Huge (shell magnet)
+* Barely any armour to speak about
+* Exposed lower glacis
+* Weak armour and huge size makes it vulnerable to artillery
+* Can easily be destroyed by HE shells (overpressure).
+* Very slow reverse speed can prevent it from retreating back to cover in time
+* Unstable aim while moving
+* Bad suspension makes it unstable at humps
+* Very slow speed when traveling in water
+* Water rocks the tank when moving, making it unstable during and a while after movement in the water
+* Poor Gun Depression in the rear in combination with it´s size makes it hard to hit smaller tanks who attack from the rea
 
 *
 
@@ -136,6 +154,10 @@ The deadliest threats are HMG and autocannon mounted vehicles such as the Pz.IIs
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 ''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+'''Skins'''
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=us_lvt_a_1 Skins and camouflages for the LVT(A)(1) from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

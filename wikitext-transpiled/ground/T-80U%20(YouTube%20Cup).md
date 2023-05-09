@@ -5,7 +5,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet medium tank {{Battle-rating}}. It was introduced during [[Update 1.89 "Imperial Navy"]] as a grand prize for the [[wt:en/news/6286-esport-war-thunder-youtube-cup-results-en|2019 YouTube Cup]].
+The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet medium tank {{Battle-rating}}. It was introduced during [[Update 1.89 "Imperial Navy"]] as a grand prize for the [[wt:en/news/6286-esport-war-thunder-youtube-cup-results-en|2019 YouTube Cup]]. It is unobtainable and only one exists, owned by the YouTuber [https://www.youtube.com/@OddBawZ Oddbawz]
 
 == General info ==
 === Survivability and armour ===
@@ -35,9 +35,9 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet medium tank {{Batt
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
+The mobility of the T-80U is actually much better than that of the [[T-80B]], despite the U model weighing three tons more. This is thanks to the improved engine mounted in theT-80U which has a stock engine power of 1,106 hp, going up to 1,250 hp once the appropriate modules have been researched. It has a maximum speed of 69 km/h (43 mph) forward and -9.7 km/h (-6 mph) in reverse. The one downside is the traverse in neutral, taking around 19 seconds for a full 360° spin, but this can be greatly reduced if the tank is already in at least in 3rd gear.
 
-{{tankMobility}}
+As with most Russian MBTs, the reverse speed (-9.7 km/h (-6 mph)) does leave the tank vulnerable in situations where a fast retreat would be preferable. The commander should always be aware of his immediate surroundings and have a plan to get out of the area in case of a debilitating hit.{{tankMobility}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -53,17 +53,19 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet medium tank {{Batt
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[2A46M-1 (125 mm)|125 mm 2A46M-1]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
+! colspan="5" | [[2A46M-1 (125 mm)|125 mm 2A46M-1]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" rowspan="2" | Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 45 || rowspan="2" | -5°/+15° || rowspan="2" | ±180° || rowspan="2" | Two-plane || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__
+| rowspan="2" | 45 || rowspan="2" | -5°/+15° || rowspan="2" | ±180° || rowspan="2" | Two-plane ||22.8||31.6||38.4||42.5||45.2|| rowspan="2" |6.50
+| rowspan="2" |6.50
+| rowspan="2" |6.50
+| rowspan="2" |6.50
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+|14.3||16.8||20.4||22.6||24.0
 |-
 |}
 
@@ -84,7 +86,19 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet medium tank {{Batt
 ! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''45''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''45''' ||45 ''(+0)''
+45 ''(+0)''
+|44 ''(+1)''
+44 ''(+1)''
+|43 ''(+2)''
+43 ''(+2)''
+|38 ''(+7)''
+41 ''(+4)''
+|37 ''(+8)''
+39 ''(+6)''
+|34 ''(+11)''
+38 ''(+7)''
+| No
 |-
 |}
 
@@ -101,7 +115,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet medium tank {{Batt
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+|Pintle||500 (100)||700||-5°/+60°||±180°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -110,7 +124,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet medium tank {{Batt
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+|Coaxial||1,250 (250)||700||N/A||N/A
 |-
 |}
 
@@ -120,12 +134,27 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet medium tank {{Batt
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
-
 '''Pros:'''
+
+* Effective armour against KE and chemical munitions. The CONTACT-5 ERA mounted to the tank's frontal arc and turret means that even helicopter-launched ATGMs may fail to penetrate
+* Varied and powerful ammunition available, from stock HEAT and HE to APFSDS and ATGM.
+* Accurate and high muzzle velocity gun combined with the laser rangefinder provides easy long-range gameplay
+* Autoloader provider a steady reload time in any situation
+* Nimble tank for its size and tonnage - a fully upgraded T-80U is much more responsive than the T-80B.
+* Low silhouette, a hull-down T-80U is hard to spot and harder to hit
+
 *
 
 '''Cons:'''
+
+* Rather "easy to hit" weak spots at close medium ranges - some of them leading to turret kill or ammo detonation
+* Vertical gaps between ERA plates are many small weak spots
+* The cramped interior, with the crew placed tightly together, means that the tank is easily disabled if a shot penetrates
+* Ammo detonation hazard from side shots due to the vertical ammunition carousel in the centre of the hull
+* Spare ammunition is distributed around the hull and turret and increases the chance of ammo detonation
+* Relatively low reverse speed and lack of neutral steering, makes it hard to fall back when flanked or damaged
+* Poor gun depression of -5° due to the low turret height, makes it difficult to shoot over hills and other obstacles, especially on rough terrain
+
 *
 
 == History ==
@@ -136,19 +165,25 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet medium tank {{Batt
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 ''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
 
+'''Skins'''
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_t_80u Skins and camouflages for the T-80U from live.warthunder.com.]
+
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+
+* [[T-80U]]
+* [[T-80BVM]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

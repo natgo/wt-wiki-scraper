@@ -17,20 +17,33 @@ The M1128 Wolfpack's narrow profile turret provides a significant advantage in c
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
 
+* High-hardness rolled armour (hull, turret, gun shield, underbody, spaced armour)
+* MEXAS 2C (applique armour on hull and lower turret)
+* Rolled homogeneous armour (turret roof, engine vent, gunner optics shield)
+
 {| class="wikitable"
-|-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+|Hull
+|12.7 + 25.4 mm (70°) ''Upper Glacis''<br>12.7 + 25.4 mm (1-3°) ''Middle Plate''<br>12.7 + 25.4 mm (54°) ''Lower Glacis'' <br>12.7 + 25.4 mm (9-82°) ''Driver hatch''
+|12.7 + 25.4 mm (11°) ''Top'' <br> 12.7 + 12.7 mm (0°, 26-31°) ''Bottom''
+|12.7 mm <br> 12.7 + 25.4 mm ''Door''
+|12.7 + 25.4 mm <br> 5 mm ''Engine vent''
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+|Turret
+|12.7 mm ''Upper Part'' <br>12.7 + 25.4 mm ''Lower Part'' <br>12.7 + 12.7 mm ''Turret ring shield''
+|12.7 mm ''Upper Part'' <br>12.7 + 25.4 mm ''Lower Part'' <br>12.7 + 12.7 mm ''Turret ring shield''
+|12.7 mm ''Upper Part'' <br>12.7 + 25.4 mm ''Lower Part'' <br>12.7 + 12.7 mm ''Turret ring shield''
+|15 mm <br>12.7 mm ''Hatches''
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
-|-
+|Cupola
+| colspan="4" style="text-align: center;" | 12.7 mm (21°, 27°)
 |}
-
-'''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
-<!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+'''Notes:'''
+* Wheels are 10 mm thick, and the underbody is 12.7 mm thick.
+* There is a 5 mm internal RHA screen separating the engine and the radiator from the other compartments. It also gives additional protection to the driver against fragments and shockwaves from the front. 
+* .50 cal machine gun shield has 12.7 mm of armour protection.
+* Both sides have 6.35 mm thick spaced armour on the rear part of the side armour.  
 
 === Mobility ===
 {{Specs-Tank-Mobility}}

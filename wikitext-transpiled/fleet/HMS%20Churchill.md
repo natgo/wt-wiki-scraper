@@ -80,7 +80,7 @@ When torpedo attacked, captains must manoeuvre skillfully and in anticipation; k
 
 The ship is armed with a single BL Mark IX (102 mm) medium-velocity breech-loading gun. This gun is the biggest aboard the destroyer, however, is not the most lethal. The gun is located at the bow of the ship, just ahead of the bridge.
 
-This gun was meant to engage light targets like submarines and motor gunboats like the German E-boats ([[S-100 (S204)]], [[S-100 (1945)]], [[S-100 (1944)]]). It performs okay against armoured boats and small corvettes, but it struggles to cause meaningful damage to many destroyers or fast small boats. This is because of the poor explosive filler and just being one gun.
+This gun was meant to engage light targets like submarines and motor gunboats like the German E-boats ([[S-204 Lang]], [[S-100]], [[S-100 (1944)]]). It performs okay against armoured boats and small corvettes, but it struggles to cause meaningful damage to many destroyers or fast small boats. This is because of the poor explosive filler and just being one gun.
 [[File:HMS Churchill main turret.png|thumb|The lonely main turret is exposed and externally manned by sailors.]]
 Because of that low explosive amount, the shell won't trigger any hull break on small boats. This is really critical and inefficient since several consecutive shots will be needed for a single small boat that will not be destroyed, no matter how small it is. The helpful aspect of this gun is the great reload rate of 12 rounds/min and once the ready ammo rack has been spent, the fire rate remains on 10 rounds/min. The gun maintains decent ballistics<ref><u>Ballistics</u> refers mainly to the ability of the gun to fire a shell towards greater distances (Range), keeping a preferable flat and not parabolic trajectory, a small-time of flight of the shell and keeping adequate penetration values at long distances.</ref> because of an appropriate muzzle velocity of 805 m/s. This facilitates the leading of the targets as well as the short-medium distances shooting (500-4,000m); quite easy to get used to it since at short ranges it's almost a completely flat trajectory.
 
@@ -202,7 +202,7 @@ The less favourable aspect of doing this is the rather slow speed of the Churchi
 * Great amount of anti-air guns; perform well against boats and planes
 * High amount of additional armaments: Torpedoes, depth charges and Hedgehog mortars
 * Narrow hull allows for an incursion in small boat's area
-* Useful penetration of the main gun's SAP round; useful for heavily armoured ships as the [[Kanonenboot K-2]] or [[MBK-161 (1943)]]
+* Useful penetration of the main gun's SAP round; useful for heavily armoured ships as the [[K2]] or [[MBK-161 early]]
 * Reliable reload rate of the main gun
 * Is amongst the finest anti-air capable reserve destroyers, second only to [[Turbine]]
 

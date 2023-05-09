@@ -185,7 +185,7 @@ It will automatically detect other planes within the scanning area and display t
 
 * Three powerful, high velocity 30 mm cannons
 * Unparalleled thrust-to-weight ratio, providing excellent acceleration and climb rate
-* Amongst the fastest of all aircraft in-game
+* Amongst the fastest of all aircraft at its BR
 * Notably short takeoff run for a high-tier jet
 * Access to a drogue chute for high-speed landings (deploys automatically below 300 km/h)
 * Can perform combat manoeuvres which even modern fly-by-wire aircraft struggle with
@@ -214,6 +214,7 @@ The MiG-19 did not see much combat under the Soviet flag. However, the MiG-19S, 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mig-19s Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images

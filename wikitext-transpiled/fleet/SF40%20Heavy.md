@@ -25,7 +25,7 @@ The SF40 Heavy has the following armour layout:
 * Hull: 8 mm, steel
 * Superstructure: 20 mm, steel
 
-The SF40 Heavy's armour is basically the same as [[SF40 Leichte]] with changes around guns. It lacks armoured turret platforms, so guns taken out with HE shells might occur more often. Besides armour, the SF40 Heavy can be a tough opponent to sink since most HE shots will hit the deck with no damage to the hull. Also, the rather high crew complement of 47 (5 more than Leichte) makes it harder to incapacitate by killing crew, though this is still the easiest way to take out this barge. Clever captains will try to angle the ship to allow aiming 3 guns on enemy targets, but this also makes the opposing ship able to hit only one of the four ammo storages. Even though this storage is high above the waterline, hitting it doesn't happen often, since the bridge in the center is a way easier target to aim at.
+The SF40 Heavy's armour is basically the same as [[SF40 Light]] with changes around guns. It lacks armoured turret platforms, so guns taken out with HE shells might occur more often. Besides armour, the SF40 Heavy can be a tough opponent to sink since most HE shots will hit the deck with no damage to the hull. Also, the rather high crew complement of 47 (5 more than the SF40 Light) makes it harder to incapacitate by killing crew, though this is still the easiest way to take out this barge. Clever captains will try to angle the ship to allow aiming 3 guns on enemy targets, but this also makes the opposing ship able to hit only one of the four ammo storages. Even though this storage is high above the waterline, hitting it doesn't happen often, since the bridge in the center is a way easier target to aim at.
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
@@ -76,7 +76,7 @@ The 20 mm multipurpose cannons with a fire rate of 480 rounds/min is very effect
 * Not very fast or manoeuvrable
 * Large target
 * Lacks an AP shell for dealing with armoured targets.
-* The 37 mm fast firing flak on the SF40 Leichte is replaced by two single 20 mm mounts
+* The 37 mm fast firing flak on the SF40 Light is replaced by two single 20 mm mounts
 * Hard to get all 4 cannons on target
 * Easy to torpedo or dive bomb due to its size and sluggishness
 * Lacks a VT-fuze shell, only has timed and impact fuses

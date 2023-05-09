@@ -19,13 +19,43 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} British medium tank {{Bat
 
 {| class="wikitable"
 |-
-! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
+!Armour!!Front (Slope angle)!!Sides!!Rear!!Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+|Hull||38 mm (79-82°), 50* mm (60°) ''Upper glacis''
+70 mm (28°) ''Lower glacis''
+
+60 mm (84°-0°) ''Driver hatch''
+|25 mm (0°) ''Top''
+50 mm
+
+38 mm (14°) + 4 mm ''Bottom''
+|25 mm (29-30°) + 4 mm||20 mm
+25 mm (71-74°) ''Sides''
+
+10 mm (90°) ''Engine grille''
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+|Turret||50* mm (50°)
+30 mm (50-0°), 4 mm Gun mantlet
+
+38 mm (0-90°) Turret cast
+
+|20 mm (6-7°) Front
+25 mm (6°) Mid right
+
+80 mm (6°) Mid
+
+10 mm (6-7°) Rear
+
+|10 mm (17-18°)
+38 mm (82°)
+|10 mm (80-90°) Rear
+38 mm (75-78°)
+
+20 mm (71°) Sides
+
+38 mm (82-79°)Turret cast
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+|Cupola||60 mm||60 mm||60 mm||60 mm
 |-
 |}
 
@@ -60,10 +90,10 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} British medium tank {{Bat
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 50 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 50 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane ||29.5||40.8||49.6||54.8||58.4|| rowspan="2" |6.50|| rowspan="2" |5.75|| rowspan="2" |5.30|| rowspan="2" |5.00
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+|18.4||21.7||26.4||29.1||31.0
 |-
 |}
 
@@ -84,7 +114,19 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} British medium tank {{Bat
 ! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''50''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''50''' ||48 ''(+2)''
+45 ''(+5)''
+|45 ''(+5)''
+39 ''(+11)''
+|43 ''(+7)''
+31 ''(+19)''
+|41 ''(+9)''
+22 ''(+28)''
+|34 ''(+16)''
+14 ''(+36)''
+|29 ''(+21)''
+5 ''(+45)''
+| No
 |-
 |}
 
@@ -93,7 +135,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} British medium tank {{Bat
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|L37A2 (7.62 mm)|L94A1 (7.62 mm)}}
 
-''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.''
+The Challenger 2 possesses one pintle-mounted 7.62 mm machine gun and one coaxial 7.62 mm machine gun. While these aren't particularly effective against tanks, they can be used as a aircraft deterrent, and lucky shots may result in critical damage or pilot snipes. Besides anti-aircraft fire, they're useful for clearing light obstacles and the crew of open-top vehicles.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -101,7 +143,8 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} British medium tank {{Bat
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Pintle
+|1,700 (100)||650||-10°/+25°||±180°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -110,7 +153,8 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} British medium tank {{Bat
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Coaxial
+|4,000 (2,000)||600||N/A||N/A
 |-
 |}
 
@@ -123,9 +167,25 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} British medium tank {{Bat
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
+* Extremely accurate main cannon with a fast reload, particularly for a 120 mm; also good gunner optics
+* 10° of gun depression is highly useful and also increases the extremely good turret cheek protection
+* 36 km/h reverse speed, a far cry from the early poor reverse speed of other British MBTs
+* Has ESS, smoke shells and smoke grenades, a potential combat support tank
+* Excellent armour protection levels and can get upgraded chemical protection with Dorchester armour pack
+* Ammunition on the turret is inert; less vulnerable to overpenetrating shots by APFSDS, like on [[Ariete]]. (NATO tanks with "blowout panel" as [[IPM1]], get sniped through the turret)
+
 *
 
 '''Cons:'''
+
+* A CR2 with an exposed hull is extremely vulnerable because of the negligible LFP armour
+* Cannon mantlet area has unreliable armour; this is the worst weak spot as is impossible to hide while firing
+* The frontal turret roof is somewhat vulnerable to chemical rounds when the optics or the machine gun is hit
+* Ammunition propellants are strewn inside the vehicle; hull or side penetrations often result in ammo detonation (Avoidable with only 16 shells loaded)
+* Sub-par acceleration and top speed relative to many other MBTs
+* Prior to mobility upgrades being researched, manual neutral gear selection is required for reasonable hull traverse
+
 *
 
 == History ==
@@ -136,20 +196,26 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} British medium tank {{Bat
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 ''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
 
+; '''Skins'''
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_challenger_II Skins and camouflages for the Challenger 2 from live.warthunder.com.]
+
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+
+* [[Challenger 2]]
+* [[Challenger 2E]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
-* ''topic on the official game forum;''
+
+* https://warthunder.com/en/news/6035-development-challenger-2-and-rank-vii-armored-vehicles-en
 * ''other literature.''
 
 {{Britain medium tanks}}

@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=germ_destroyer_class1934a_1944
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -117,6 +117,5 @@ Due to its gun placement, the Type 1934A is able to aim and shoot two main guns 
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-* [[Wikipedia:German_destroyer_Z15_Erich_Steinbrinck|[Wikipedia] German destroyer Z15 Erich Steinbrinck]]
 
 {{Germany destroyers}}

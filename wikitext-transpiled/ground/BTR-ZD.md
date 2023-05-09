@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=ussr_btr_zd
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -173,7 +173,6 @@ This variant, dubbed "Скрежет" (a metal file) installed a ZU-23-2 autocan
 * ''other literature.'' -->
 
 * [[wt:en/news/7729-development-btr-zd-gun-savvy-en|[Devblog] BTR-ZD: Gun Savvy]]
-* [[wikipedia:BTR-D#Variants|[Wikipedia] BTR-D - Variants]]
 * [http://www.military-today.com/artillery/btr_zd.htm <nowiki>[Military Today]</nowiki> BTR ZD]
 * [https://weaponsystems.net/system/64-BTR-ZD%20%22Skrezhet%22 <nowiki>[Weapon Systems]</nowiki> BTR-ZD "Skrezhet"]
 

@@ -46,7 +46,7 @@ The PTZ89 is susceptible to overpressure damage. Sizeable HE shells that hit the
 
 {{tankMobility|abMinHp=739|rbMinHp=460}}
 
-The PTZ89 has a slightly better power-to-weight than the contemporary [[ZTZ59D1]] and [[M60A3 TTS (China)|M60A3 TTS]], but not by much, and it is still unlikely to win any races versus Leopards or OF-40s. The 8 km/h reverse speed is poor but pretty typical for a Chinese vehicle. It is more concerning than usual on the PTZ89 since the chassis is very long and reversing into cover is not easy. However, since the turret is located at the rear of the vehicle, it often makes sense to peek out of cover using the reverse gear and quickly re-enter cover by driving forward.
+The PTZ89 has a better power-to-weight ratio than the contemporary [[ZTZ59D1]] and [[M60A3 TTS (China)|M60A3 TTS]], but not by much, and it is still unlikely to win any races versus Leopards or OF-40s. The 8 km/h reverse speed is poor but pretty typical for a Chinese vehicle. It is more concerning than usual on the PTZ89 since the chassis is very long and reversing into cover is not easy. However, since the turret is located at the rear of the vehicle, it often makes sense to peek out of cover using the reverse gear and quickly re-enter cover by driving forward.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -58,7 +58,7 @@ The PTZ89 has a slightly better power-to-weight than the contemporary [[ZTZ59D1]
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|PTZ89 (120 mm)}}
 
-The PTZ89 uses a domestic 120 mm smoothbore cannon. The turret is equipped with an assisted loader in the bustle that can hold up to 10 rounds at once. When the assisted loader still has ammunition, the gun only takes 5 seconds to reload, which is highly impressive for its rank. Refilling the assisted loader is done one round at a time and takes a while, so it's best to take a break from heated combat once the supplies start to run low. The turret rotation speed is on par with the [[Type 69]]; below average, but not agonizing like the [[ZTZ59D1]]. Gun depression and elevation levels are rather poor, so be careful on hilly terrain. 5 degrees of gun depression is better than the ZTZ59D1 but still far worse than the [[M60A3 TTS (China)|M60A3 TTS]].
+The PTZ89 uses a domestic 120 mm smoothbore cannon. The turret is equipped with an assisted loader in the bustle that can hold up to 10 rounds at once. When the assisted loader still has ammunition, the gun only takes 5 seconds to reload, which is highly impressive for its rank. Refilling the assisted loader is done one round at a time and takes a while, so it's best to take a break from heated combat once the supplies start to run low. The turret rotation speed is 18 degrees per second in RB with an ace crew, which is below average but not agonizing like the [[ZTZ59D1]]. Gun depression and elevation levels are rather poor, so be careful on hilly terrain. 5 degrees of gun depression is better than the ZTZ59D1 but still far worse than the [[M60A3 TTS (China)|M60A3 TTS]].
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -173,6 +173,7 @@ Following a successful testing phase, the PTZ-89, as it became known, was approv
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=cn_ptz_89 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -193,6 +194,7 @@ File:PTZ-89 WTWallpaper 006.jpg|
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

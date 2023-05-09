@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' (島風, [[Abbreviations#.28JP.29_Naval|namesake]]: Island Wind) is a heavy-duty destroyer focused on torpedoes. She was the fastest ship in the Japanese Navy at 40.9 knots and the only one of her class. Commissioned in 1939 to lead a class of 16 ships and with future plans extending to 32 ships, her kind was cancelled with the Pacific war and funds relocated. She's essentially an elongated [[Yugumo (Family)|Yūgumo-class destroyer]] allowing her to fit 3 quintuple torpedo launchers and keeping the same main and anti-air armament as shorter ships. Seeing little combat action, Shimakaze primarily took part in [[#1943|Operation Sword]] and afterward escorted other ships.
+The '''{{Specs|name}}''' (島風, [[Abbreviations#.28JP.29_Naval|namesake]]: Island Wind) is a heavy-duty destroyer focused on torpedoes. She was the fastest ship in the Japanese Navy at {{Annotation|40.9 knots|75.7 km/h}} and the only one of her class. Commissioned in 1939 to lead a class of 16 ships and with future plans extending to 32 ships, her kind was cancelled with the Pacific war and funds relocated. She's essentially an elongated [[Yugumo (Family)|Yūgumo-class destroyer]] allowing her to fit 3 quintuple torpedo launchers and keeping the same main and anti-air armament as shorter ships. Seeing little combat action, Shimakaze primarily took part in [[#1943|Operation Sword]] and afterwards escorted other ships.
 
-She was introduced in War Thunder during [[Update "Raining Fire"]] and excels at her primary function of torpedo-centric gameplay, with 15 tubes loaded with the deadly Type 93 oxygen torpedoes, she can send a full wall of torpedoes in a single salvo. This gameplay is dampened in realistic battles where she can only launch a single salvo, so it's better to conserve torpedoes for certain hits. In arcade battles it's best to launch all torpedoes at targets when possible, having as many fish in the water as possible while reloading the tubes in the meantime. At the battle range Shimakaze sits, her primary cannons will be outgunned by other destroyers and cruisers, keep distance and use her speed to evade shells at long range.
+She was introduced in War Thunder during [[Update "Raining Fire"]] and excels at her primary function of torpedo-centric gameplay, with 15 tubes loaded with the deadly Type 93 oxygen torpedoes, she can send a full wall of torpedoes in a single salvo. This gameplay is dampened in realistic battles where she can only launch a single salvo, so it's better to conserve torpedoes for certain hits. In arcade battles it's best to launch all torpedoes at targets when possible, having as many fish in the water as possible while reloading the tubes in the meantime. At the battle rating Shimakaze sits, her primary cannons will be outgunned by other destroyers and cruisers, keep distance and use her speed to evade shells at long range.
 
 == General info ==
 === Survivability and armour ===
@@ -15,14 +15,14 @@ She was introduced in War Thunder during [[Update "Raining Fire"]] and excels at
 <!-- ''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.'' -->
 Shimakaze is an extended [[Yugumo (Family)|Yugumo-class]] hull which comparatively gives her more displacement for an additional torpedo launcher, place for more anti-air and also a higher crew count (+40 men). Additionally, her survivability is further aided by having ammunition stored deep underneath the waterline, which ensures survival if faced with AP shells and having torpedo turrets protecting the tubes against fragmentation damage. However, they are still one of the easiest components to damage on the ship.
 
-That said though, compared to the equivalents in its BR, the ship has a relatively low crew count, sailing just a 2/3 of the [[Leningrad (leader)|Leningrad]]'s men, in short-range fights, Shimakaze has to rely on her overwhelming firepower to take down the enemy before suffering overwhelming causalities herself. This can either be the use of her main armament, her plentiful arsenal of torpedoes and/or Type 96 25 mm's.
+That said though, compared to the equivalents in its BR, the ship has a relatively low crew count, sailing just a 2/3 of the [[Leningrad (leader)|Leningrad]]'s men, in short-range fights, Shimakaze has to rely on dealing overwhelming damage to take down the enemy before suffering overwhelming causalities herself. This can either be the use of aiming her main armament at weak spots, her plentiful arsenal of torpedoes and/or Type 96 25 mm's.
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
 [[File:Shimakaze (1).png|thumb|Shimakaze reaching her top speed of 40,9 kn]]
 
-Shimakaze is by far the fastest Japanese {{Annotation|ship|not including boats}} ever made. She could reach a top speed of 40.9 kn due to her new experimental high temperature and pressure Kampon boilers that developed {{Annotation|79,240 shaft horsepower|59,090 kW}}, powering a new type of turbine, which generated 50 per cent more power than typical turbines used in previous destroyers.
+Shimakaze is by far the fastest Japanese {{Annotation|ship|not including boats}} ever made. She can reach speeds of 40.9 knots (~76 km/h) due to her new experimental high temperature and pressure Kampon boilers that developed {{Annotation|79,240 shaft horsepower|59,090 kW}}, powering a new type of turbine, which generated 50 per cent more power than typical turbines used in previous destroyers.
 
 {{NavalMobility
 |SpeedForwardStockAB = 68
@@ -42,7 +42,7 @@ Shimakaze is by far the fastest Japanese {{Annotation|ship|not including boats}}
 [[File:Shimakaze (7).png|thumb|Shimakaze shooting her main [[Type 3 (127 mm)|Type 3]] cannons]]
 {{main|127 mm/50 3rd Year Type (127 mm)}}
 
-Shimakaze's primary guns are shared with [[IJN Yugumo#Primary armament|Yugumo]] and [[IJN Ayanami#Primary armament|Ayanami]], offering the same capabilities and the same shell choice. They are quite accurate and have a higher muzzle velocity than most other destroyer guns. As she starts seeing end of the line heavy cruisers, her guns are only beneficial on other destroyers at best and added care must be put in accurate gunnery. Her torpedoes play an even more important role in disposing of opponents. But like her parallel predecessor ([[Yugumo (Family)|Yugumo-class]]), her main armament isn't her selling point at this BR.
+Shimakaze's primary guns are shared with [[IJN Yugumo#Primary armament|Yugumo]] and [[IJN Ayanami#Primary armament|Ayanami]], offering the same capabilities and the same shell choice. They are quite accurate and have a higher muzzle velocity than most other destroyer guns. As she starts seeing end-of-the-line heavy cruisers, her guns are only beneficial on other destroyers at best and added care must be put in accurate gunnery. Her torpedoes play an even more important role in disposing of opponents. But like her parallel predecessor ([[Yugumo (Family)|Yugumo-class]]), her main armament isn't her selling point at this BR.
 
 {{:127 mm/50 3rd Year Type (127 mm)/Ammunition|127 mm Type 1 HE, 127 mm HE-TF}}
 
@@ -51,10 +51,10 @@ Shimakaze's primary guns are shared with [[IJN Yugumo#Primary armament|Yugumo]] 
 <!-- ''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.'' -->
 {{main|25 mm/60 Type 96 (25 mm)}}
 
-Unlike other early refits of Japanese destroyers, which have very little anti-air defence, the Shimakaze is refitted in her 1944 fit, which gives her well enough air cover at semi-close ranges and decimates smaller patrol vessels within 2km range.
+Unlike other early refits of Japanese destroyers, which have very little anti-air defence, the Shimakaze is refitted in her 1944 fit, which gives her tons of the infamous Type 96 25 mm AA gun, which in volume works well enough for air cover and decimates smaller patrol vessels up to a range of about 2-3 km. 
 
 * Universal belts: a good balance between firepower and tracer contents, useful for newcomers to the Japanese 25 mm autocannon.
-* APT belts: Full of AP shells, good against boats, but you might not meet lots of them in a 4.7 destroyer.
+* APT belts: Full of AP shells, good against small boats.
 * HEI belts: Trades tracer rounds for extra firepower, harder to aim but very good at knocking out aircraft.
 
 === Anti-aircraft armament ===
@@ -62,7 +62,7 @@ Unlike other early refits of Japanese destroyers, which have very little anti-ai
 <!-- ''An important part of the ship's armament responsible for air defence. Anti-aircraft armament is defined by the weapon chosen with the control <code>Select anti-aircraft weapons</code>. Talk about the ship's anti-air cannons and machine guns, the number of guns and their positions, their effective range, and about their overall effectiveness – including against surface targets. If there are no anti-aircraft armaments, remove this section.'' -->
 {{main|Type 93 (13.2 mm)}}
 
-The Shimakaze has a single 13.2 mm HMG on the stern. Her 25 mm's are responsible for air cover and the 13 mm, but can't be manually controlled together with the 25 mm's at the same time.
+The Shimakaze has a single 13.2 mm HMG on the stern which has little to nothing to bring to the table for additional firepower. Her 25 mm's are responsible for air cover and under manual control aren't grouped together with the 13 mm.
 
 === Additional armament ===
 {{Specs-Fleet-Additional}}
@@ -139,9 +139,9 @@ Under this Maru 4, there would be 3 modernized destroyer types.
 *Type B: [[IJN Akizuki|Akizuki]]-class - Dedicated anti-air destroyers
 *Type C: Shimakaze-class - High-end heavy duty destroyers
 
-The top speed of any Japanese warship within the IJN went to a previous generation of Shimakaze (1920) from the Minekaze-class destroyers with a max speed of 40.7 knots while all other destroyers were to be designed with a top speed of only 35 knots. After that, the Navy was seeking to improve cruising speed yet keeping the possibility of armament and hull improvements open.
+The top speed of any Japanese warship within the IJN went to a previous generation of Shimakaze (1920) from the Minekaze-class destroyers with a max speed of {{Annotation|40.7 knots|75.3 km/h}} while all other destroyers were to be designed with a top speed of only {{Annotation|35 knots|~64 km/h}}. After that, the Navy was seeking to improve cruising speed yet keeping the possibility of armament and hull improvements open.
 
-These demands arose after Japan abolished the Washington Naval Treaty and withdrew from the London Naval Treaty in 1938, and began the rapid modernization of their navy in both tonnage and equipment. Together with Japanese intelligence gathering information on the USN, developing a new destroyer with a top speed of 38 knots or more and the new generation of American cruisers and battleships with a projected 27-33 kn. For those reasons, the Navy wanted to outshine the Americans by having faster ships and high power torpedoes which they already had developed.
+These demands arose after Japan abolished the Washington Naval Treaty and withdrew from the London Naval Treaty in 1938, and began the rapid modernization of their navy in both tonnage and equipment. Together with Japanese intelligence gathering information on the USN, developing a new destroyer with a top speed of {{Annotation|38 kn|~70 km/h}} or more and the new generation of American cruisers and battleships with a projected speed of {{Annotation|27 - 33 kn|~50 - 61 km/h}}. For those reasons, the Navy wanted to outshine the Americans by having faster ships and high-power torpedoes which they already had developed.
 
 ===Design===
 With the Maru 4 being specified and funded, the construction of Shimakaze started in 1941 at the Maizuru Naval Arsenal. She was to be built as a high-speed ship, heavily armed with torpedoes to excel at her role as a destroyer in the purpose of torpedo combat.
@@ -179,7 +179,7 @@ For the 2nd attempt, which was planned for 22 July - 1 August, weather condition
 
 The fleet was preparing to rush into Kiska bay without waiting for their fueling party to top them off outside the USS patrol area. The cruiser Abukuma pushed her fuel reserve and refuelled her accompanying destroyers. At midnight of the 29th, the fleet ran towards Kiska bay, following the island's shadow and passing from the west to evade any American patrols from the open south. On arrival at Kiska Bay, there was information on a detected vessel. However, what it was, was unknown, Shimakaze's radar detected it as well, thinking it might be a USS destroyer on patrol. Detecting an enemy, her crew were excited about her first naval engagement. At 13:00, she launched several torpedoes at the shadow of the enemy vessel together with the cruiser Abukuma who spotted it first and launched four torpedoes. But this target wasn't an allied vessel, but Little Kiska Island appeared to look like a ship in the very thick fog.
 
-The fleet would anchor at Kiska Harbor at 13:40, where at the time, there was a temporary, clear fog in the bay. An approximate 5,200 Kiska Island garrison members waiting for their evacuation immediately embarked on the fleet. They left behind their Type 38 rifles, which would be grossly outdated and save on weight while doing so. The whole garrison would be fully accommodated in the short time of 55 minutes with the help of [[Daihatsu-class Landing Craft|Daihatsu Landing Crafts]]. The fleet would leave Kiska at full speed (28 knots) surrounded once more by the deep fog they arrived in. In a detailed report, the number of men accommodated on ships was as follows:
+The fleet would anchor at Kiska Harbor at 13:40, where at the time, there was a temporary, clear fog in the bay. An approximate 5,200 Kiska Island garrison members waiting for their evacuation immediately embarked on the fleet. They left behind their Type 38 rifles, which would be grossly outdated and save on weight while doing so. The whole garrison would be fully accommodated in the short time of 55 minutes with the help of [[Daihatsu-class Landing Craft|Daihatsu Landing Crafts]]. The fleet would leave Kiska at full speed (28 knots, ~52 km/h) surrounded once more by the deep fog they arrived in. In a detailed report, the number of men accommodated on ships was as follows:
 
 {| class="wikitable mw-collapsible mw-collapsed"
 ! colspan="6" |Recovered men
@@ -230,15 +230,15 @@ The fleet would anchor at Kiska Harbor at 13:40, where at the time, there was a 
 | colspan="4" |5,183
 |}
 
-The whole island garrison would be fully withdrawn to the island of Paramushir between July 31 to August 1, fully returning 2,518 navy crew, 2,669 army men and 30 others, resulting in a total of 5,183 men. Because of the fog covering the withdrawal force, the success of Operation One Sword would be dubbed as a Miracle Operation ({{Annotation|奇跡の作戦|Kiseki no sakusen}})
+The whole island garrison would be fully withdrawn to the island of Paramushir between 31 July to 1 August, fully returning 2,518 navy crew, 2,669 army men and 30 others, resulting in a total of 5,183 men. Because of the fog covering the withdrawal force, the success of Operation One Sword would be dubbed as a Miracle Operation ({{Annotation|奇跡の作戦|Kiseki no sakusen}})
 
-Even though Allied reconnaissance reported diminishing island movement, damage not being repaired, less and less anti-aircraft fire and on July 28, radio signals from Kiska completely going silent, American forces still proceeded to invade the island being fully prepared to fight Japanese soldiers dug into the mountains.
+Even though Allied reconnaissance reported diminishing island movement, damage not being repaired, less and less anti-aircraft fire and on July 28, radio signals from Kiska completely went silent, American forces still proceeded to invade the island being fully prepared to fight Japanese soldiers dug into the mountains.
 
 As US and Canadian forces landed on opposite shores, they mistook each other for Japanese and sporadic friendly fire once meeting. Together with Japanese booby-traps and the [[Fletcher (Family)|USS Abner Read (DD-526)]] hitting a stray sea-mine, losing a large chunk of its stern, the invasion ended in around 100 Allied deaths, and 221 more wounded against a defending force of null.
 
 ;August
 
-On July 5, Shimakaze arrived at Paramushir after her July operations near the Aleutian Islands. She would escort the cruiser Maya to Yokosuka, arriving on 6 August, where she then docked for maintenance.
+On 5 July, Shimakaze arrived at Paramushir after her July operations near the Aleutian Islands. She would escort the cruiser Maya to Yokosuka, arriving on 6 August, where she then docked for maintenance.
 
 ;September
 
@@ -258,7 +258,7 @@ On December 1, 2017, the wreck of Shimakaze was found by RV Petrel in Ormoc Bay,
 -->
 
 ===Name===
-Shimakaze isn't the only vessel named Shimakaze (島風, しまかぜ, Island Wind);
+Shimakaze isn't the only vessel named Shimakaze ({{Annotation|島風|Kanji}}, {{Annotation|シマカゼ|Katakana}}, {{Annotation|しまかぜ|Hiragana}}, Island Wind);
 
 * 1st generation: Shimakaze (1920 - 1940), Minekaze-class destroyer (1919). 
 ** Renamed to "Patrol Boat No. 1" ({{Annotation|第一号哨戒艇|Dai-ichi-gō Shōkaitei}}) in 1940. 
@@ -272,6 +272,7 @@ Shimakaze isn't the only vessel named Shimakaze (島風, しまかぜ, Island Wi
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_destroyer_shimakaze Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images

@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Italian attack helicopter {{Battle-rating}}. It was introduced as a [[wt:en/news/6441-development-a129-mangusta-en|premium pack]] in [[Update 1.93 "Shark Attack"]] and was removed from the store after the [[wt:en/news/7154-shop-may-sale-in-the-gaijin-store-en|2021 May sale]].
+After the creation of the A129 Mangusta, Agusta would develop a new variant known as the A-129 International which would incorporate a lot of improvements to better suit export consumer needs. Of these improvements included a new engine, advanced armaments, and new avionics. Although it garnered interest from many nations, it wouldn't be picked up by any of them and thus what was learned from the International program would be applied on the A129 Mangusta upgrade known as the [[A129CBT]] for the Italian army.
+
+Introduced in [[Update 1.93 "Shark Attack"]], the A129 International has potent armament in the form of Hellfire anti-tank guided missiles and Hydra unguided rockets. It also has a .50 cal turret which can be used against other enemy aircraft or open top/unarmoured ground targets. The A-129 International is very manoeuvrable thanks to the stronger engines, it is able to reach its top speed quickly and has a great surface ceiling. Protection-wise, this variant of the International does not get access to flares or chaff, which can be a problem when enemy aircraft spot you. This helicopter also does not have access to anti-air missiles. That said, if there are no enemy aircraft or SPAA around, the International can be highly effective in the right hands.
 
 == General info ==
 === Flight performance ===

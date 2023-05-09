@@ -201,9 +201,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-
 ;Videos
-{{Youtube-gallery|IHFTE_5EtH8|'''And The Best Hunter Award Goes To.... Germany - Hunter F.58 -Sky Guardians''' - ''DEFYN''}}
+{{Youtube-gallery|WgmbLGEVWGg|'''The Shooting Range #352''' - ''Metal Beasts'' section at 00:23 discusses the {{PAGENAME}}.|IHFTE_5EtH8|'''And The Best Hunter Award Goes To.... Germany - Hunter F.58 -Sky Guardians''' - ''DEFYN''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

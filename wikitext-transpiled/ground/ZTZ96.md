@@ -68,7 +68,7 @@ While hull penetrations tend to be fatal, this is not necessarily the case for t
 
 {{tankMobility|abMinHp=1,131|rbMinHp=646}}
 
-The mobility of the {{PAGENAME}} is generally unimpressive, though still an improvement over preceding Chinese MBTs. It has 17.8 hp/ton when fully upgraded, which is about the same as the [[T-64B]] and less than the [[Challenger Mk.2]]; these two tanks are already considered quite immobile for their rank. The reverse speed of -7 km/h is painful but better than the agonizing 4 km/h of the Soviet T-64/72. Do not count on being able to retreat from danger rapidly. In general the {{PAGENAME}} will be among the last to arrive on the battlefield in top rank battles, and one should plan accordingly. However, the tank is still quite manoeuvrable and agile in its hull traverse, allowing it to weave through dense forests and urban areas with relative ease and react quickly to threats.
+The mobility of the {{PAGENAME}} is generally unimpressive, though still an improvement over preceding Chinese MBTs. It has 17.8 hp/ton when fully upgraded, which is about the same as the [[T-64B]] and less than the [[Challenger Mk.2]]; these two tanks are already considered quite immobile for their rank. The reverse speed of -9 km/h is slow but better than the agonizing 4 km/h of the Soviet T-64/72. Do not count on being able to retreat from danger rapidly. In general the {{PAGENAME}} will be among the last to arrive on the battlefield in top rank battles, and one should plan accordingly. However, the tank is still quite manoeuvrable and agile in its hull traverse, allowing it to weave through dense forests and urban areas with relative ease and react quickly to threats.
 
 === Modifications and economy ===
 {{Specs-Economy}}

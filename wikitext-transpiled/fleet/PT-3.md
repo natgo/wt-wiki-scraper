@@ -19,7 +19,7 @@ The PT-3 has no external armour to protect it, and as such cannot sustain much f
 
 {{NavalMobility}}
 
-The PT-3 has great mobility, and can achieve a top speed of 63 km/h. When compared to the [[Higgins 81 ft PT-6|PT-6]], the PT-3 with its shorter length overall can turn much sharper and can navigate narrow waters more easily, however it is slower than PT-6. It takes 19 seconds for the boat to make a complete circle in a turn. From a stop, it accelerates to its top speed of 63 km/h in 13 seconds. From its top speed of 63 km/h, it takes roughly 14 seconds to come to a full stop using the auto stop feature. Compared to other vehicles at its BR, it is slower than the [[LS 3]] and [[G-5]], but is faster than the [[Type T-14]] and the [[MTB-1 1 series|MTB-1 1]].
+The PT-3 has great mobility, and can achieve a top speed of 63 km/h. When compared to the [[PT-6]], the PT-3 with its shorter length overall can turn much sharper and can navigate narrow waters more easily, however it is slower than PT-6. It takes 19 seconds for the boat to make a complete circle in a turn. From a stop, it accelerates to its top speed of 63 km/h in 13 seconds. From its top speed of 63 km/h, it takes roughly 14 seconds to come to a full stop using the auto stop feature. Compared to other vehicles at its BR, it is slower than the [[LS 3]] and [[G-5]], but is faster than the [[Type T-14]] and the [[MTB-1(1)]].
 
 === Modifications and economy ===
 {{Specs-Economy}}

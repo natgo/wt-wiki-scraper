@@ -10,11 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Japanese attack helicopter {{Battle-rating}}. It was introduced as a [[wt:en/news/6223-shop-the-japanese-cobra-available-for-purchase-en|premium pack]] in [[Update 1.89 "Imperial Navy"]]. It was removed from the store after the [[wt:en/news/6924-shop-war-thunder-birthday-sale-in-gaijin-net-store-en|8th Anniversary Sale]], and reintroduced in [[Update "Hot Tracks"]] as a premium purchasable in-game for Golden Eagles {{ge}}.
-
 The '''{{Specs|name}}''' comes with a unique skin of the Kisarazu Sisters, whom started from the original character draft created by a personnel of the 4th Anti-Tank Helicopter Unit of the Ground Self-Defense Forces Kisarazu Camp, located in Kisarazu, Chiba Prefecture in Japan. These special illustrations were brought to life by a professional illustrator Takashi Fujisawa, in order to commemorate the 20th anniversary of the 4th Anti-Tank Helicopter Unit.
 
-In addition, the '''{{Specs|name}}''' is the first vehicle in the game to feature a female flight crew. Both females have a unique model and are part of the 4th ATH and one of which is cosplaying as one of the sisters, Kisarazu Wakana (木更津 若菜).
+It was introduced as a [[wt:en/news/6223-shop-the-japanese-cobra-available-for-purchase-en|premium pack]] in [[Update 1.89 "Imperial Navy"]]. It was removed from the store after the [[wt:en/news/6924-shop-war-thunder-birthday-sale-in-gaijin-net-store-en|8th Anniversary Sale]], and reintroduced in [[Update "Hot Tracks"]] as a premium purchasable in-game for Golden Eagles {{ge}}. In addition, the '''{{Specs|name}}''' is the first vehicle in the game to feature a female flight crew. Both females have a unique model and are part of the 4th ATH and one of which is cosplaying as one of the sisters, Kisarazu Wakana (木更津 若菜).
 
 == General info ==
 === Flight performance ===

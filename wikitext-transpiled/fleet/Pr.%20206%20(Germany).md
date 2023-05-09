@@ -1,3 +1,8 @@
+{{About
+| about = German motor torpedo gun boat '''{{PAGENAME}}'''
+| usage = the other versions
+| link = Pr.206 (Family)
+}}
 {{Specs-Card
 |code=germ_pr_206
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}

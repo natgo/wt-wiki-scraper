@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=us_nasty_ptf
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -184,7 +184,6 @@ With the escalation of the war in Vietnam, the United States saw a need for new 
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-* [[Wikipedia:United_States_Nasty-class_patrol_boat|[Wikipedia] United States Nasty-class patrol boat]]
 * [http://www.ptfnasty.com/index.htm [PTFNasty.com<nowiki>]</nowiki> The "Nasty Class" Fighting Boats]
 * [http://www.ptfnasty.com/gallery/galPtf7.htm [PTFNasty.com<nowiki>]</nowiki> Gallery of PTF-7]
 

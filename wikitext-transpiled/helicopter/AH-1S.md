@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese attack helicopter {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
+The '''{{Specs|name}}''' is the Japanese license production of a step 3 AH-1 (comparable to the [[AH-1F]]) built under Fuji Heavy Industries.
 
-This helicopter is the exact same variant as the [[AH-1S Kisarazu]] and comes with a shark mouth skin.
+It was introduced in [[Update "Starfighters"]]. Being the same late step 3 model AH-1 as the [[AH-1S Kisarazu]], it packs the same capabilities in ordnance of 8 x TOW-2s with thermal NVD sights.
 
 == General info ==
 === Flight performance ===

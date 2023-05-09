@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese attack helicopter {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
+The '''{{Specs|name}}''' is a step 2 Cobra (equivalent to AH-1E) variant the Japanese bought for trials in the consideration of attack helicopters as a branch. After positive results and coming to a deal, Japan ordered the license production of step 3 Cobra's becoming the [[AH-1S]]
 
-Unlike the other Japanese AH-1S counterparts, the AH-1S early doesn't come with [[BGM-71 TOW-2]]. Additionally it comes with a bicolor brown-white winter camouflage.
+It was introduced in [[Update "Starfighters"]]. As an earlier Cobra model, it doesn't come with TOW-2's or thermal NVD imaging unlike its later variant the [[AH-1S]] / [[AH-1S Kisarazu]]
 
 == General info ==
 === Flight performance ===

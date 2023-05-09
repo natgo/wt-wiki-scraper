@@ -136,7 +136,6 @@ This plane is a formidable opponent when going against it. It has an astounding 
 '''Pros:'''
 
 * Great climb rate
-* Relatively versatile weapon presets available
 * Fast turn rate for its battle rating
 * Good ground strike ability for a fighter
 * Carries bombs and rockets for ground attack

@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=germ_battlecruiser_von_der_tann
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==

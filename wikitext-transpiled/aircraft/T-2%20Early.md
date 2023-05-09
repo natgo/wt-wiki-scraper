@@ -1,7 +1,7 @@
 {{About
-| about = premium Japanese jet fighter '''{{PAGENAME}}'''
-| usage = the regular version
-| link = T-2
+| about = Japanese jet fighter '''{{PAGENAME}}'''
+| usage = other variants
+| link = F-1 (Family)
 }}
 {{Specs-Card
 |code=t2_early

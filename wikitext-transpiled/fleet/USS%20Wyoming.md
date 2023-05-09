@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=us_battleship_wyoming_class
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -141,7 +141,6 @@ USS ''Wyoming'' was decommissioned following the end of the war on August 1, 194
 * ''other literature.'' -->
 
 * [[wt:en/news/7185-development-uss-wyoming-bb-32-high-calibre-romance-en|[Devblog] USS Wyoming (BB-32): high calibre romance]]
-* [[wikipedia:USS_Wyoming_(BB-32)|[Wikipedia] USS Wyoming (BB-32)]]
 * [https://www.history.navy.mil/research/histories/ship-histories/danfs/w/wyoming-iii.html Dictionary of American Naval Fighting Ships's entry of the USS Wyoming (BB-32/AG-17)]
 
 {{ShipManufacturer William Cramp & Sons}}

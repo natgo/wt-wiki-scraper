@@ -39,7 +39,7 @@ The MPK Pr. 122bis has mediocre mobility at best. The ship can nominally make 39
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
 {{main|90-K (85 mm)}}
 
-The primary weapon on the {{PAGENAME}} is the [[90-K (85 mm)|85 mm 90-K]] cannon. A good gun in its own right that only really needs high-explosive shells to handle most of its opponents. Due to the cannon's ability, most battles may only require up to 100 shells to be brought in for the match. The gun has great frontal firing arcs, reaching all the way to the ship's sides to nigh-rear, with the ±160° horizontal traverse range. However, the slow traverse speed means that the {{PAGENAME}} shouldn't expect to fight enemies coming in at all sides.
+The primary weapon on the {{PAGENAME}} is the [[90-K (85 mm)|85 mm 90-K]] cannon. A good gun in its own right that only really needs high-explosive shells to handle most of its opponents. The gun has great frontal firing arcs, reaching all the way to the ship's sides to nigh-rear, with the ±160° horizontal traverse range. However, the slow traverse speed means that the {{PAGENAME}} shouldn't expect to fight enemies coming in at all sides.
 
 {{:90-K (85 mm)/Ammunition|85 mm O-365K, 85 mm O-365M, 85 mm BR-365}}
 
@@ -72,13 +72,13 @@ The tertiary armament of the {{PAGENAME}} are three turrets of dual-mounted DShK
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
-The Pr. 122bis can be thought of and played as a heavier armed, less manoeuvrable version of the tech tree [[MPK pr. 122A|Pr. 122A]] or the [[MPK-163]]. Make use of the ship's massive armament to pulverize any boats that dare get in your way.
+The Pr. 122bis can be thought of and played as a heavier armed, less manoeuvrable version of the tech tree [[MPK pr.122A]] or the [[MPK-163]]. Make use of the ship's massive armament to pulverize any boats that dare get in your way.
 
 The Pr. 122bis has lacking manoeuvrability, meaning that it isn't particularly effective at rushing to bases or charging into battle. Instead, one good strategy is to find a good piece of cover (i.e. a small island) to protect the ship's more vulnerable central section. If you just leave the ship's bow sticking out, most enemy ships won't be able to damage your main section. This leaves the powerful frontal 85 mm cannon exposed, allowing you to engage enemy ships with ease.
 
 However, this strategy doesn't allow usage of the ship's powerful secondary and AA armament suite, which offers a second gameplay option: serving as a brawler or mid-ranged gunship. This strategy maximizes the Pr. 122bis's high crew count and powerful armament spread across the vessel. When doing so, utilize the ship's powerful 85 mm gun to engage heavier targets (such as the [[SC-497]]) and utilize the 37 mm automatic cannons to engage smaller, faster targets. The 37 mm guns are also highly effective against enemy aircraft, capable of destroying most enemy aircraft with a couple of hits at most.
 
-When playing the MPK Pr. 122bis, always stay aware of your surroundings. The ship's lacking manoeuvrability may prevent it from dodging a torpedo if the torpedo isn't noticed early enough. As well, pay attention to enemy ships in the vicinity, particularly heavier-armed vessels such as the [[SF40 Leichte|SF40]] series anti-air ferries. These vessels typically carry numerous hard-hitting automatic guns which will quickly destroy the ship's crew.
+When playing the MPK Pr. 122bis, always stay aware of your surroundings. The ship's lacking manoeuvrability may prevent it from dodging a torpedo if the torpedo isn't noticed early enough. As well, pay attention to enemy ships in the vicinity, particularly heavier-armed vessels such as the [[SF40 Light|SF40]] series anti-air ferries. These vessels typically carry numerous hard-hitting automatic guns which will quickly destroy the ship's crew.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -130,6 +130,7 @@ File:MPK_Pr.122bis_WTWallpaper006.jpg
 
 == See also ==
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 

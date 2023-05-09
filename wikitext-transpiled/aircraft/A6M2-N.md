@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese hydroplane fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
+The '''{{Specs|name}}''' was as a stop-gap solution for the slow development of the [[N1K1]], this [[A6M]] is the result of taking the [[A6M2 mod. 11]], modifying the tail, and adding 3 floats, with the center pontoon containing an additional fuel tank. While intended as an offensive measure for the Japanese island hopping campaign, it came too late to be used in its initial role but was continued to be used due to not requiring airfield infrastructure to operate, and used in patrol and defensive roles.
 
-Built as a stop-gap solution for the slow development of the [[N1K1]], this [[A6M]] is the result of taking the [[A6M2 mod. 11]], modifying the tail, and adding 3 floats, with the center pontoon containing an additional fuel tank. Armament- and engine-wise nothing has changed and hence will perform worse to the regular [[A6M]] series due to the added weight of the pontoons.
+It has been in the game since the start of the Open Beta Test prior to Update 1.27. Mainly just a way heavier version of the [[A6M2 mod. 11]], armament- and engine-wise nothing has changed and hence will perform worse than the regular [[A6M]] series due to the added weight of the pontoons. The pontoons can however break off from gunfire, overspeeding or ripping them off by means of ground, making the plane return to its ideal aerodynamics and weight.
 
 == General info ==
 === Flight performance ===

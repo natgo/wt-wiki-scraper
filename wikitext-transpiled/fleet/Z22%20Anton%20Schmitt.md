@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=germ_destroyer_class1936_z20
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -126,8 +126,6 @@ On the dawn of 10 April, five destroyers of the British 2nd Destroyer Flotilla m
 * ''other literature.'' -->
 
 * [[wt:en/news/4867-development-type-1936-class-destroyer-en|[Devblog] Type 1936 Class Destroyer]]
-* [[Wikipedia:German_destroyer_Z22_Anton_Schmitt|[Wikipedia] German destroyer Z22 Anton Schmitt]]
-* [[Wikipedia:de:Z_22_Anton_Schmitt|[Wikipedia.de] Z 22 Anton Schmitt]] (in German)
 
 {{ShipManufacturer DeSchiMAG}}
 {{Germany destroyers}}

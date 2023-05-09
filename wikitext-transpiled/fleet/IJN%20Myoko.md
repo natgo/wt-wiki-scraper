@@ -11,7 +11,9 @@ The '''{{Specs|name}}''' (妙高, [[Abbreviations#.28JP.29_Naval|namesake]]: Mou
 === Survivability and armour ===
 {{Specs-Fleet-Armour}}
 <!-- ''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.'' -->
-''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.''
+The IJN Myoko features respectable armor for a heavy crusier, especially compared to its other 5.7 Japanese counterparts such as the [[IJN Aoba]]. The Main belt features 102mm of steel with the bulkheads and ammo elevators being 76mm thick. Contrary to other ships, the Myoko's frontal magazines are only protected by 76mm of steel whilst the rear magazines are protected by 102mm of steel. Both the magazines are housed below the waterline making magazine detonations fairly uncommon unless taking fire from guns larger than 8".
+
+The crew complement of 970 people is respectable but does not allow you to take extensive gunfire, especially from various high explosive shells which pose a great threat to your turrets which are protected by a only 25mm of steel. While your turrets only feature minimal protection they will not be disabled too often unless they take a near or direct hit. The 76mm ammo elevators are a major improvement over other Japanese cruisers and greatly help the ship maintain her rate of fire even under moderate gunfire. 
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
@@ -66,7 +68,14 @@ The ship is fitted with four turrets of dual 5 inch/40 (127 mm) Type 89 cannons 
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
-''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).''
+Due to the Myoko's moderate crew complement and armor she is able to take some damage when needed. However, as the powerful 203mm cannons provide great long range firepower and the floatplanes limit your rear turrets' ability's to engage targets in front of you, the Myoko excels in long range combat. In order to maximize your protection you can sail the ship away from your enemies utilizing the great firing arcs of your forward turrets to keep all guns on target while being heavily angled. This tactic will also mitigate the fact that your bridge features no armor by making it harder to hit and place your most armored sections of the ship in the line of fire. 
+
+It is also viable to utilize the speed of the Myoko to capture points and take an offensive role especially on maps which feature alot of cover enabling you to ambush other cruisers and destroyers. This tactic pairs well with your access to two quick floatplanes enabling you to provide your team with a potentially decisive advantage in tickets. However, captains will need to remain aware of their surroundings if pressing the offensive as the Myoko's main turrets only traverse at 4.0 degrees per second. This is only 1 degree faster than that of many battleships such as the [[SMS Bayern]] with many other cruisers featuring traverse rates around 6-8 degrees per second. If you are ambushed by a target with fast firing guns they may be able to disable most of your turrets before you can react leading to your destruction.
+
+'''Enemies worth noting'''
+
+* [[Brooklyn (Family)|Brooklyn-class]] - The ships of this class feature 15 6" guns which can fire HE and HE base fuse ammunition. Their rapid fire rate combine with a large explosive filler can devastate your crew and main turrets. While ships of this class feature shell rooms beneath each turret which can be detonated with your powerful guns; it usually requires multiple detonations to completely sink the ship or finishing off the remaining crew to prevent them from stopping the flooding. When engaging them ensure you actually kill them and did not just temporarily disable them.
+* [[Porter (Family)|Porter-class]] - While the Moffett & class is an easy target to kill especially when aiming for the rear magazines, they can pose a great threat due to her rate of fire and powerful 5" high explosive rounds which can set fires and disable your guns. When engaging Moffetts or other US destroyers range can shift the advantage into your favor by minimizing the accuracy of their gunfire and preventing your turrets from being knocked out. However due to their small size and agility if they choose to take defensive actions it may be difficult to accurately hit them at range and it may be best to utilize smoke and disengage in search of more cooperative targets.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -102,6 +111,7 @@ The ship is fitted with four turrets of dual 5 inch/40 (127 mm) Type 89 cannons 
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -110,6 +120,7 @@ The ship is fitted with four turrets of dual 5 inch/40 (127 mm) Type 89 cannons 
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

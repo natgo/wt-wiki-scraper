@@ -241,7 +241,7 @@ This can be the most tricky and complicated part of the Buccaneer as the pilot m
 [[File:Buccaneer combat turn.png|thumb|Buccaneer flare dump and break evasive manoeuvre]]
 '''When facing AIM-9s:'''
 
-Due to the way AIM-9s are meant to be used, do not try to outrun these missiles, they are meant to be used at long ranges as manoeuvres when seen from a distance mean smaller course corrections. They are often the easiest missiles to counter without the need of flares (with exception of AIM-9Ds as they have a G-limit of 20G). These missiles overall have an effective range of ~3.5 km, meaning they are easily countered when at distances closer than 2.5 km as they will not have enough agility to make flight corrections if a hard turn is made. This can be done effectively by not only doing a turn with the Buccaneer surface controls (being elevator or aileron) but also the use of the airbrake (as part of the thrust generated is partially redirected to the surface controls giving lift to them). This makes the Buccaneer able to outturn even fighters with bomb payload.
+Early AIM-9 variants such as the AIM-9B can easily be evaded by making a turn, but later variants such the AIM-9G are extremely hard to evade without the use of flares. Draining the missile of its energy is also possible but only when the launch distance is >3-3.5 km depending on speed.
 
 '''When facing AIM-7s, R-3Ss and Matra 530:'''
 
@@ -249,7 +249,7 @@ There is not much to say about radar-guided missiles besides their threatening s
 
 '''When facing R-60s:'''
 
-R-60s are a different story as they are the opposite of AIM-7s and AIM-9s. They have an effective range of ~2.25 km, making them useless for long range combat but are able to pull 30G, meaning R-60s have to be countered the other way around. R-60s should not be tried to out-turn but to outrun with the use of flares. Due to the spread the flares have on the Buccaneer (flare pods are on the most outer pylons), doing a straight flight path and let flares to the job does not work. In order to counter R-60s flares must be dumped and the Buccaneer must turn, a hard turn is not required but it is recommended as the incoming plane can do course correction to gun strafe the Buccaneer.
+R-60s are a different story as they are the opposite of AIM-7s and AIM-9s. They have an effective range of 2 km, making them useless for long range combat but are able to pull 30G, meaning R-60s have to be countered the other way around. Instead of attempting to out-turn R-60s try outrunning them instead with the use of flares.
 
 '''When facing SRAAMs:'''
 
@@ -274,7 +274,6 @@ This event is highly unlike to happen due to the SRAAM being a British missile w
 * No guns; the only effective way to fight enemy aircraft are the two [[AIM-9B]] missiles
 * Big target; often will be targeted by enemy aircraft
 * Flares are carried in pods suspended from the outboard pylons; must sacrifice ordnance to carry them
-* The flare position and deployment pattern (out to the sides) severely limits their effectiveness
 * If flaps rips off the ailerons will be ripped off as well, making the aircraft very hard to control
 * Heavily loaded wings can rip in turns if not careful
 

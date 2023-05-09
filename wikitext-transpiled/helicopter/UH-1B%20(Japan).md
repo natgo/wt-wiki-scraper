@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese utility helicopter {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
+The '''{{Specs|name}}''' is a license-built [[UH-1B]] by Fuji Heavy Industries and only differs in armament and name, with a Japanese-produced engine that delivers the same amount of power. It's officially designated by the JGSDF as UH-1B ''Hiyodori'' (ひよどり, Bulbul). It was primarily used for disaster relief purposes and only ever armed with rocket pods for training purposes.
 
-As a license-built [[UH-1B]] by Fuji Heavy Industries it only differs in armament and name, with a Japanese-produced engine that delivers the same amount of power. It's officially designated by the JGSDF as UH-1B ''Hiyodori'' (ひよどり, Bulbul).
+It was introduced in [[Update "Starfighters"]]. While it is a domestic copy of the [[UH-1B]], it only comes with FFARs as the JGSDF only ever used its utility purposes rather than its attack power. This leaves the Japanese Huey in a very vulnerable position as a combat vehicle and will have to fly very defensively to get into a position to unload its rocket arsenal into targets, playing very similarly to the [[AH-1G]].
 
 == General info ==
 === Flight performance ===

@@ -164,7 +164,7 @@ Following the Liberation of France in 1944, production of the Panhard 178 was re
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_amd_35 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|xPq54SeNigk|'''The {{PAGENAME}} Light Tank (Well... Reconnaissance Car)''' - ''Orangefan''|gqSXbVsxFXM|'''Spade Review, {{PAGENAME}}. An upgrade from the current Reserves''' - ''Joseph 2000''}}
+{{Youtube-gallery|WgmbLGEVWGg|'''The Shooting Range #352''' - ''Pages of History'' section at 03:24 discusses the {{PAGENAME}}.|xPq54SeNigk|'''The {{PAGENAME}} Light Tank (Well... Reconnaissance Car)''' - ''Orangefan''|gqSXbVsxFXM|'''Spade Review, {{PAGENAME}}. An upgrade from the current Reserves''' - ''Joseph 2000''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

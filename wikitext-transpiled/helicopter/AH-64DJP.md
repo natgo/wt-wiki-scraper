@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese attack helicopter {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
+The '''{{Specs|name}}''' is a license-built version of the [[AH-64D]] by Fuji Heavy Industries to improve the Japanese anti-tank helicopter capabilities, and a cost-efficient alternative over a domestic attack helicopter development program.
+
+It was introduced in [[Update "Starfighters"]]. It plays very similarly to its American counterpart but lacks AMASE and APKWS missiles. The most important asset of the Apache is its [[AGM-114K Hellfire II]] with its long-range anti-tank capability.
 
 == General info ==
 === Flight performance ===

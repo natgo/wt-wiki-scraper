@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=it_destroyer_dardo
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -166,9 +166,9 @@ After being captured by the Germans on 9 November 1943 in Genoa, the RN Dardo wa
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_destroyer_dardo Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-<gallery mode="packed" heights="200">
-File:Dardo 1.png|RN Dardo turning
-File:Dardo 2.png|Front of the RN Dardo
+<gallery mode="packed-hover" heights="200">
+File:Dardo 1.png|<small>RN Dardo turning</small>
+File:Dardo 2.png|<small>Front of the RN Dardo</small>
 </gallery>
 
 == See also ==

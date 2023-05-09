@@ -11,9 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ({{Annotation|一式中戦車（戦車第五連隊仕様）「チへ」|Ichi-Shiki Chū-Sensha (Sensha Dai Go Rentai Shiyō) [Chi-He]}}) is a premium rank {{Specs|rank}} Japanese medium tank {{Battle-rating}}. It was introduced in [[Update "Regia Marina"]].
+The '''{{Specs|name}}''' ({{Annotation|一式中戦車（戦車第五連隊仕様）「チへ」|Ichi-Shiki Chū-Sensha (Sensha Dai Go Rentai Shiyō) [Chi-He]}}) is a regular [[Chi-He]] in service by the 1st Tank Division, 2nd Armored Brigade, 5th Armored Regiment of the Imperial Japanese Army.
 
-It is a regular Chi-He in service by the 1st Tank Division, 2nd Armored Brigade, 5th Armored Regiment of the Imperial Japanese Army. It comes with a unique camouflage and 3 distinct decals on all available camouflages for the tank.
+It was introduced in [[Update "Regia Marina"]]. Being a carbon copy the [[Chi-He]], it plays exactly the same, on top of that it comes with a unique camouflage and 3 distinct decals on all available camouflages for the tank.
 
 == General info ==
 === Survivability and armour ===
