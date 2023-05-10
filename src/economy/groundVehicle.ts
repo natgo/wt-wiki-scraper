@@ -3,6 +3,7 @@ import { GroundVehicle, LangData, Mods } from "types";
 import { NightVision, Sights, TankWeapons, opticIr } from "../../data/types/final.schema";
 import { commonWeaponToCannon } from "./commonWeaponToCannon";
 import { machineGun } from "./machineGun";
+import { maxSpeed } from "./maxSpeed";
 
 export function groundVehicle(
   vehicleData: GroundVehicle,
@@ -182,10 +183,12 @@ export function groundVehicle(
 
 export function drive(vehicleData: GroundVehicle) {
   if (vehicleData.VehiclePhys) {
+    const phys = vehicleData.VehiclePhys;
+
     let gearsF = 0;
     let gearsB = 0;
-    if (vehicleData.VehiclePhys.mechanics.gearRatios.ratio) {
-      vehicleData.VehiclePhys.mechanics.gearRatios.ratio.forEach((element) => {
+    if (phys.mechanics.gearRatios.ratio) {
+      phys.mechanics.gearRatios.ratio.forEach((element) => {
         if (element > 0) {
           gearsF++;
         } else if (element < 0) {
@@ -197,7 +200,7 @@ export function drive(vehicleData: GroundVehicle) {
     let synchro = 0;
     let has_synchro = false;
     if (gearsB === gearsF) {
-      vehicleData.VehiclePhys.mechanics.gearRatios.ratio.forEach((element, i, array) => {
+      phys.mechanics.gearRatios.ratio.forEach((element, i, array) => {
         if (element + array[array.length - i - 1] === 0) {
           synchro++;
         }
@@ -207,15 +210,23 @@ export function drive(vehicleData: GroundVehicle) {
       }
     }
 
+    const speedAB = [
+      maxSpeed(phys, phys.mechanics.gearRatios.ratio.length - 1) * 1.1,
+      maxSpeed(phys, 0) * 1.1,
+    ];
+    const speedRB = [maxSpeed(phys, phys.mechanics.gearRatios.ratio.length - 1), maxSpeed(phys, 0)];
+
     return {
-      mass: vehicleData.VehiclePhys.Mass.Empty + vehicleData.VehiclePhys.Mass.Fuel,
-      horsepower: vehicleData.VehiclePhys.engine.horsePowers,
+      mass: phys.Mass.Empty + phys.Mass.Fuel,
+      horsepower: phys.engine.horsePowers,
       gears_forward: gearsF,
       gears_backward: gearsB,
-      hydro_suspension: vehicleData.VehiclePhys.movableSuspension ? true : undefined,
-      can_float: vehicleData.VehiclePhys.floats ? true : undefined,
+      maxSpeedAB: speedAB,
+      maxSpeedRB: speedRB,
+      hydro_suspension: phys.movableSuspension ? true : undefined,
+      can_float: phys.floats ? true : undefined,
       has_synchro: has_synchro ? true : undefined,
-      has_neutral: vehicleData.VehiclePhys.mechanics.neutralGearRatio ? true : undefined,
+      has_neutral: phys.mechanics.neutralGearRatio ? true : undefined,
       has_dozer: vehicleData.modifications.tank_bulldozer_blade ? true : undefined,
     };
   }
