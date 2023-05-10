@@ -1,12 +1,16 @@
 import { LangData } from "./types";
 
-export function parseLang(langdata: LangData[], name: string | undefined): LangData | undefined {
-  if (name === undefined) {
+/**
+ * Parses language data to find a language object with the specified ID.
+ *
+ * @param {LangData[]} langdata - The array of language data to search through.
+ * @param {string | undefined} id - The ID of the language object to find.
+ * @returns {LangData | undefined} The language object with the specified ID, or undefined if not found.
+ */
+export function parseLang(langdata: LangData[], id: string | undefined): LangData | undefined {
+  if (id === undefined) {
     return undefined;
   }
 
-  const data = langdata.find((element) => {
-    return element.ID.toLowerCase() === name.toLowerCase();
-  });
-  return data;
+  return langdata.find((element) => element.ID.toLowerCase() === id.toLowerCase());
 }

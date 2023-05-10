@@ -11,7 +11,7 @@ import {
   helicopterTypeSchema,
   shipTypeSchema,
 } from "../../data/types/final.schema";
-import { langcsvJSON } from "../csvJSON";
+import { langCsvToJSON } from "../csvJSON";
 import { parseLang } from "../lang";
 import {
   AirVehicle,
@@ -48,21 +48,21 @@ async function main(dev: boolean) {
     fs.readFileSync(`./data/data/${dev ? "vehicles-dev" : "vehicles"}.json`, "utf-8"),
   );
 
-  const weaponry_lang = langcsvJSON(
+  const weaponry_lang = langCsvToJSON(
     fs.readFileSync(
       `./${dev ? "datamine-dev" : "datamine"}/lang.vromfs.bin_u/lang/units_weaponry.csv`,
       "utf-8",
     ),
   );
 
-  const units_lang = langcsvJSON(
+  const units_lang = langCsvToJSON(
     fs.readFileSync(
       `./${dev ? "datamine-dev" : "datamine"}/lang.vromfs.bin_u/lang/units.csv`,
       "utf-8",
     ),
   );
 
-  const modification_lang = langcsvJSON(
+  const modification_lang = langCsvToJSON(
     fs.readFileSync(
       `./${dev ? "datamine-dev" : "datamine"}/lang.vromfs.bin_u/lang/units_modifications.csv`,
       "utf-8",

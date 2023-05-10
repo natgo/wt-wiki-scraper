@@ -11,7 +11,7 @@ import {
   VehicleMods,
   modClassName,
 } from "../../data/types/modifications.schema";
-import { langcsvJSON } from "../csvJSON";
+import { langCsvToJSON } from "../csvJSON";
 import { parseLang } from "../lang";
 
 async function main(dev: boolean) {
@@ -22,14 +22,14 @@ async function main(dev: boolean) {
     ),
   );
 
-  const modification_lang = langcsvJSON(
+  const modification_lang = langCsvToJSON(
     fs.readFileSync(
       `./${dev ? "datamine-dev" : "datamine"}/lang.vromfs.bin_u/lang/units_modifications.csv`,
       "utf-8",
     ),
   );
 
-  const weaponry_lang = langcsvJSON(
+  const weaponry_lang = langCsvToJSON(
     fs.readFileSync(
       `./${dev ? "datamine-dev" : "datamine"}/lang.vromfs.bin_u/lang/units_weaponry.csv`,
       "utf-8",

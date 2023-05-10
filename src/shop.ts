@@ -22,7 +22,7 @@ import {
   FinalShopRange,
   finalShopSchema,
 } from "../data/types/shop.schema";
-import { langcsvJSON } from "./csvJSON";
+import { langCsvToJSON } from "./csvJSON";
 import { parseLang } from "./lang";
 
 function minMaxRank(
@@ -249,7 +249,7 @@ async function main(dev: boolean) {
     ),
   );
 
-  const units_lang = langcsvJSON(
+  const units_lang = langCsvToJSON(
     fs.readFileSync(
       `./${dev ? "datamine-dev" : "datamine"}/lang.vromfs.bin_u/lang/units.csv`,
       "utf-8",
