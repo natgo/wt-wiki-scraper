@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' (摂津, [[Abbreviations#.28JP.29_Naval|namesake]]: Settsu Province) is a rank {{Specs|rank}} Japanese battleship {{Battle-rating}}. It was introduced in [[Update "New Power"]].
+The '''{{Specs|name}}''' (摂津, [[Abbreviations#.28JP.29_Naval|namesake]]: Settsu Province) Built after the Satsuma-class semi-dreadnoughts, the Kawachi-class were the first true dreadnoughts of the Imperial Japanese Navy. Uniquely among dreadnoughts, this class features a mixed-calibre main battery. The design originally used all 45-calibre main guns, but reports of the Royal Navy using 50-calibre guns in its newer battleships encouraged the IJN to adopt 50-calibre as well, though cost concerns prevented all the 45-calibers on the Kawachi design to be replaced.
+
+It was introduced in [[Update "New Power"]]. Besides the Settsu's plentiful main calibre guns, she is fairly average, with the standard 21 knots (39 km/h) top speed for its time, with a capable, but not unbreakable armour scheme.
 
 == General info ==
 === Survivability and armour ===
@@ -128,6 +130,7 @@ Shortly after, Settsu was converted into a target ship, keeping this role throug
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_battleship_settsu Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 {{Skin-gallery|market|ugcitem_1000886|Laitania.png|Camo "RLM Neo Tenova"}}
 
@@ -149,6 +152,7 @@ File:Settsu WTWallpaper 006.jpg|
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 

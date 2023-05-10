@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=fokker_d21_serie3_finland
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -158,8 +158,6 @@ In dogfights, use your superior turn time to get an advantage over opponents. Ke
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-
-* [[wikipedia:Fokker_D.XXI|[Wikipedia] Fokker D.XXI]]
 
 {{AirManufacturer Fokker}}
 {{Sweden fighters}}

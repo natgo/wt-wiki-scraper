@@ -163,13 +163,16 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
 ! 500 lb LDGP Mk 82 bombs
 | 1 || 1 || 1 || 1
 |-
 ! 1,000 lb LDGP Mk 83 bombs
 | 1 || 1 || 1 || 1
+|-
+! Aerea 559G1 incendiary bombs
+| || 1 || 1 ||
 |-
 ! FFAR Mighty Mouse rockets
 | 19 || 19 || 19 || 19

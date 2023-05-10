@@ -95,9 +95,17 @@ export function groundVehicle(
       Weapon.triggerGroup === "primary" ||
       Weapon.triggerGroup === "secondary"
     ) {
-      weapons.cannon?.push(
-        commonWeaponToCannon(Weapon, bullets, weaponry_lang, modification_lang, dev, "ground"),
+      const weapon = commonWeaponToCannon(
+        Weapon,
+        bullets,
+        weaponry_lang,
+        modification_lang,
+        dev,
+        "ground",
       );
+      if (weapon) {
+        weapons.cannon?.push(weapon);
+      }
     }
   }
 

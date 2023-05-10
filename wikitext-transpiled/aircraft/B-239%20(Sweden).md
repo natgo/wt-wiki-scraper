@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=b_239_finland
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
