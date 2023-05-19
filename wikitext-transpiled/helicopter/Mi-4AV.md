@@ -46,9 +46,9 @@ The airframe itself is relatively resilient to machine gun fire, although cannon
 
 === Modifications and economy ===
 {{Specs-Economy}}
-It is highly recommended to prioritise the K4V modification (which unlocks the Falanga anti-tank missile) and any performance upgrades as soon as possible.
+It is highly recommended to prioritise the K4V modification (to increase the amount of missiles carried )and any performance upgrades as soon as possible.
 
-One relatively easy way to use this helicopter is to play on Arcade Assault mode where you can rearm constantly and help your team against waves of enemies AI, while also researching more modules for the more challenging mixed battles. Researching the bombs first will be highly useful against AI units in the Arcade Assault mode, but their use is rather limited in mixed battles. The S-5K rockets are of very limited use against the modern MBTs the AI uses, and stock the helicopter is going to be dead weight in the Assault mode, which will contribute to a team's loss and dramatically cut rewards.
+One relatively easy way to use this helicopter is to play on Arcade Assault mode where you can rearm constantly and help your team against waves of enemies AI, while also researching more modules for the more challenging mixed battles. Researching the bombs first will be highly useful against AI units in the Arcade Assault mode, but their use is rather limited in mixed battles. The S-5K rockets are of very limited use against the modern MBTs the AI uses.
 
 Helicopter Enduring Confrontation can allow for greater profit and module research. However, it is risky to fly there, since there are a lot of technologically superior enemies (such as the [[Ka-50|Ka-50)]] that will make quick work of the Mi-4 with their long-range guided missiles, giving it little to no chance of survival. It is up to the pilots whether the risk is worth the greater reward.
 
@@ -144,6 +144,7 @@ Also remember that;
 * Falanga missiles can outrange cannon-based SPAA.
 * 12.7 mm turret machine gun can be fired in the ATGM shooter view.
 * Relatively durable airframe.
+* Comes with ATGM stock not requiring it to be researched like other starter helicopters
 
 '''Cons:'''
 

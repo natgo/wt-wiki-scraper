@@ -245,12 +245,17 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+In the years between 1972 and 1976, Israel received 117 upgraded A-4Ms called the A-4N. The A-4N ("Ayit" which means eagle) received many updated avionics over the standard A-4M while retaining the J52-P-408 engine. These updates included new computers, a heads-up display, a mapping, and range radar (AN/APQ-145), ECM homing and warning receiver (AN/APR-36/37), and more. The A-4N also received 2 DEFA 30 millimeter cannons, unlike the A-4M which had 2 20 millimeter cannons. In addition, the cockpit was revised for better visibility.
+
+In 1968, Israel launched a program to upgrade the Super Mystere with the Pratt & Whitney J52 to replace the original Atar 101.   This program was launched in order to make the Super Mystere more similar to the A-4 Skyhawks Israel had at the time which also had the J52. In order to fit the J52, major structural redesigns were needed and one of these changes included an extension of the tailpipe. During the Yom Kippur War in 1973, a year after Israel started receiving A-4Ns, Israeli officials noticed that although the upgraded Super Mysteres and A-4Ns flew almost the exact same type of missions and faced the same type of enemies, fewer Super Mysteres were being lost to missiles than the A-4Ns. Further analysis proved that the extension of the tailpipe from the upgraded Super Mystere moved the missile's detonation further away from the aircraft, thus leading to less damage and a lower loss rate. The A-4N was recommended to receive a similar type of tailpipe which is why A-4Ns after 1973 have an extended tailpipe. Israel continued using the A-4N until it was fully retired in 2015, 43 years after it was introduced into service.
+
+A few A-4Ns were acquired by Top Aces and Draken International. Draken International, a US-based company, provided training for the Air National Guard with their acquired A-4Ns. Top Aces has used A-4Ns for training the Canadian, Australian, and German armed forces.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=a_4n Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -259,6 +264,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[A-4 (Family)]]
 
 == External links ==

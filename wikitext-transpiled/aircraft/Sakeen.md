@@ -69,7 +69,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli fighter {{Battle-ratin
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+60mm armored glass in front of and behind the pilot's head. Pilot's seat is 8mm steel from the back and 4mm steel from the bottom.
+
+The fuel tank placed under/behind the pilot is protected by 21mm steel from the back and 4mm steel from top and sides. The back plate also somewhat covers the pilot.
+
+8mm steel under the radiator at the very front of the plane.
 
 === Modifications and economy ===
 {{Specs-Economy}}

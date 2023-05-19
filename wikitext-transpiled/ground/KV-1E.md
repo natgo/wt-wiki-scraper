@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=ussr_kv_1e
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -123,13 +123,13 @@ In game, this tank is possesses great armour and an adequate gun. However, it ma
 
 Urban areas tend to result in very close range engagements. At this range, the armour of this tank can no longer offer the degree of protection that it does at range. With this being said, urban can also present nice medium range opportunities, such as open-air squares and long streets in which this tank can utilise its armour. Urban fighting presents the largest challenge for this tank, as close range flank shots can easily pierce its mighty armour. As such, here are some tactics to use in a city setting:
 
-* Hold down a street - set up in a way that minimizes the chance to be flanked while allowing for the largest angle fire. This will allow the KV-1B to fire at the enemy while minimizing the chance of getting knocked out by a close-range flank shot
+* Hold down a street - set up in a way that minimizes the chance to be flanked while allowing for the largest angle fire. This will allow the KV-1E to fire at the enemy while minimizing the chance of getting knocked out by a close-range flank shot
 * Move with a group of tanks - try to stay in the middle of a group as this will minimize the chances of a close-range flank shot. At this range, the cannon of the tank can penetrate most tanks and has a decent rate of fire, allowing it to quickly engage multiple targets.
 * Never blindly drive through an intersection - always check both ways before crossing, as this presents the largest opportunity for danger for this tank.
 
 ;Open country
 
-The armour of this tank allows it to engage in the long-range fighting that defines an open country. However, the gun on this tank does not allow it to engage targets at range. This means that in while playing in open country, it is a good idea to get into a good overwatch position or to charge the enemy until the KV-1B is capable of engaging at the optimal range for the 76 mm weapon. While the armour on this tank is among the best for the enemies it faces, there are still certain tanks to worry about. The main tanks to work about are those with the American 76 mm, German 75 mm L/48, Soviet 57 mm and 85 mm, and of course all the large calibre guns such as the KV-2. These weapons are capable of piercing through the KV-1B armour at range, though this requires a lucky hit on an un-angled plate. Here are some tips when fighting in open country:
+The armour of this tank allows it to engage in the long-range fighting that defines an open country. However, the gun on this tank does not allow it to engage targets at range. This means that in while playing in open country, it is a good idea to get into a good overwatch position or to charge the enemy until the KV-1E is capable of engaging at the optimal range for the 76 mm weapon. While the armour on this tank is among the best for the enemies it faces, there are still certain tanks to worry about. The main tanks to work about are those with the American 76 mm, German 75 mm L/48, Soviet 57 mm and 85 mm, and of course all the large calibre guns such as the KV-2. These weapons are capable of piercing through the KV-1B armour at range, though this requires a lucky hit on an un-angled plate. Here are some tips when fighting in open country:
 
 * Always angle the tank - the unangled armour is good, but it is nearly impossible to pierce when properly angled.
 * Don't be afraid to expose the tank - use the armour to give a degree of freedom in finding the targets.
@@ -174,7 +174,7 @@ Generally, it is a good idea to avoid engaging the enemy armoured vehicles menti
 * Sides are well protected
 * Acceleration is good on flat terrain
 * Crew of five allows for higher survivability
-* Gun does a lot of damage upon penetration
+* Gun does a lot of post penetration damage
 
 '''Cons:'''
 
@@ -192,7 +192,7 @@ Generally, it is a good idea to avoid engaging the enemy armoured vehicles menti
 ===Development===
 The start of the KV-1 heavy tanks began after the heavy tank [[T-35]] flaws came to light. Designers were ordered to draw up new designs to become the basis of a breakthrough heavy tank needed for the Soviet doctrine. This made for a tank that was heavily armoured, but not very mobile as it was to be for siege warfare. The designs offered all had heavy armour, wide tracks, and used the torsion-bar suspension. The designs were the [[SMK]], T-100, and what would be the '''KV tank''', which was named after the then Soviet Defense Commissar '''K'''liment '''V'''oroshilov.
 
-During the developmental progress, the prototypes of all these heavy tanks were made and the Winter War with Finland was on its way. The Soviets sent these tanks into Finland for combat testing, to which the KV design outperform in every way with its superior armour and firepower. The armour on the KV tank was impenetrable by a tank cannon in service and most anti-tank guns as well, the 76.2 cannon also gave it a huge firepower boost compared to the usual 37 mm in use by other countries. However, the design was found to be difficult to steer, the transmission was unreliable, ergonomics was poor and vision was limited, plus with its 45-ton weight, it was a very heavy tank for its time. In truth, while formidable in power and protection, courageous crew member willing to curse the name would speak out about the trouble the KV tank really was. The main variant of production before World War II broke out was the KV-1 model.
+During the developmental progress, the prototypes of all these heavy tanks were made and the Winter War with Finland was on its way. The Soviets sent these tanks into Finland for combat testing, to which the KV design outperform in every way with its superior armour and firepower. The armour on the KV tank was impenetrable by any tank cannon in service and most anti-tank guns as well, the 76.2 cannon also gave it a huge firepower boost compared to the usual 37 mm in use by other countries. However, the design was found to be difficult to steer, the transmission was unreliable, ergonomics was poor and vision was limited, plus with its 45-ton weight, it was a very heavy tank for its time. In truth, while formidable in power and protection, courageous crew member willing to curse the name would speak out about the trouble the KV tank really was. The main variant of production before World War II broke out was the KV-1 model.
 
 ===KV-1E===
 The initial production in 1939 had the KV-1 equipped with an [[KV-1 (L-11)|L-11 cannon]], this was upgraded to the F-32 in 1940. The Model 1940 production was the main KV-1 variant that was available during the German invasion in Operation Barbarossa. During the German invasion, it was found that the KV-1s, while invulnerable to even the German [[Pz.III J|Panzer IIIs]] and [[Pz.IV F1|Panzer IVs]], was easily taken out by the German 88 mm FlaK cannon used in anti-tank roles. This caused the KV-1 production model to be up-armoured for increased survivability with applique armour bolted onto the tank. Though it varies on how much extra armour is bolted on, some KV-1s have overall armour width of 100 mm thick. These up-armoured Model 1940 KV-1s were called '''KV-1E''', with "E" standing for ''"ekranami "'', which means "with shields". This up-armouring of the tank caused the weight to be increased from its original 45 tons to 50 tons, further straining the drive system of the tank.
@@ -217,7 +217,13 @@ The stationary nature of combat encounters did not allow the KV to truly come in
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
+;Images
+<gallery mode="packed-hover" heights="200">
+File:ArtImage2 KV-1E.png|<small>The KV-1E with battle scars after a combat at [[Abandoned Factory]].</small>
+</gallery>
+
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_kv_1e Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -229,6 +235,7 @@ The stationary nature of combat encounters did not allow the KV to truly come in
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
+
 * [[Churchill III]]
 * [[ARL-44 (ACL-1)]]
 

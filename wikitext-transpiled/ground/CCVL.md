@@ -109,14 +109,21 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American light tank {{Bat
 ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
 
-'''Pros:'''
+* Fairly quick - useful as a scout vehicle at higher BRs
+* Can deploy a personal UAV
+* Ammunition combined with a powerful main armament creates a deadly combination
+* Much easier to aim due to two-plane stabilization
 
 *
 
 '''Cons:'''
+
+* Lacking in armour protection - lightweight vehicle means less protection
+* Can be picked off by sustained arms fire
+* Transmission and engine can easily be knocked out
+* Ammunition cooking is painfully common, especially when trying to rush a point
 
 *
 
@@ -128,6 +135,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American light tank {{Bat
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_ccvl Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

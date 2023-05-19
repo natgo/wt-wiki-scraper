@@ -15,18 +15,25 @@ While designations for this tank go all over the place, the ADATS can be simply 
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
+The ADATS boasts the same protection as the regular [[M3 Bradley]] hull-wise, with one key difference being that the side armour is thinner by 19 mm. High-calibre machine guns such as the 20 mm on French MBTs will easily penetrate the sides and at times even the front part of the hull. It's not advisable to use the ADATS as a front-line vehicle but rather as a second-line support vehicle by setting up in key-points around maps.
+
+[[File:Bradley ADATS Side-view.jpg|thumb|300x300px|The gap between the Loader/Gunner and the Driver visualized with a green square. Also, you can see the unmanned turret.]]
+The ADATS has a completely unmanned turret, meaning that any armour-piercing shells will over-penetrate with no injuries to the crew at all (be aware that explosive shells can cause the rockets to explode and instantly destroy the vehicle). However, two volatile autocannon ammo racks are on the top of the unmanned turret and few fragments are sufficient to detonate them and blow your whole crew up. The three crew members are situated in the hull with a massive empty space between the loader/gunner and the driver when approached from the side. Every enemy you face will most likely over-penetrate that section and do minimal damage to the vehicle itself.
+
+Overall, the ADATS can be quite a 'meme' vehicle as it can sometimes sustain 5-7 direct hits even centre-hull, seeing as most rounds just pierce and exit the armour without generating shrapnel, over-penetrating and forcing enemies to snipe for crew members.
 
 '''Armour type:'''
 
 * Aluminium alloy 5083 (Hull front, turret)
-* Aluminium alloy 7039 (Hull sides, rear, optics)
-* Rolled homogeneous armour (Hull plates)
+* Aluminium alloy 7039 (Hull sides, rear, optics, Left side hull vents)
+* Rolled homogeneous armour (Applique armour, rear hatch, engine vent)
+* Cast homogeneous armour (Gun mantlet)
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 25.4 mm + 6.35 mm (39-60°) ''Upper glacis'' <br> 25.4 mm (7-39°) ''Lower glacis'' || 25.4 mm + 6-6.35 mm || 25.4 mm + 6.35 mm || 25.4 mm
+| Hull || 25.4 mm + 6.35 mm (39-60°) ''Upper glacis'' <br> 25.4 mm (7-39°) ''Lower glacis'' || 25.4 mm + 6.35 mm <br> 5 mm ''Vents'' || 25.4 mm + 6.35 mm || 25.4 mm <br> 5 mm ''Engine vent''
 |-
 | Turret || 12.7 mm ''Turret front'' <br> 25.4 mm ''Gun mantlet'' <br> 19 mm ''Optics housing'' || 12.7 mm || 6.35-12.7 mm || 12.7 mm
 |-
@@ -34,19 +41,15 @@ While designations for this tank go all over the place, the ADATS can be simply 
 
 '''Notes:'''
 
-* Suspension wheels are 10 mm thick
-* Tracks are 15 mm thick
-
-The ADATS boasts the same protection as the regular [[M3 Bradley]] hull-wise, with one key difference being that the side armour is thinner by 19 mm. High-calibre machine guns such as the 20 mm on French MBTs will easily penetrate the sides and at times even the front part of the hull. It's not advisable to use the ADATS as a front-line vehicle but rather as a second-line support vehicle by setting up in key-points around maps.
-
-[[File:Bradley ADATS Side-view.jpg|thumb|300x300px|The gap between the Loader/Gunner and the Driver visualized with a green square. Also, you can see the unmanned turret.]]
-One upside for the ADATS is that the turret is completely unmanned, meaning that any Armour-piercing shells will over-penetrate with no injuries to the crew at all (be aware that explosive shells can cause the rockets to explode and instantly destroy the vehicle). The three crew members are situated in the hull with a massive empty space between the loader/gunner and the driver when approached from the side. Every enemy you face will most likely over-penetrate that section and do minimal damage to the vehicle itself.
-
-Overall, the ADATS can be quite a 'meme' vehicle as it can sometimes sustain 5-7 direct hits even centre-hull, seeing as most rounds just pierce and exit the armour without generating shrapnel, over-penetrating and forcing enemies to snipe for crew members.
+* Suspension wheels are 10 mm thick, and tracks are 15 mm thick.
+* Side skirts are 6 mm thick.
+* Applique armour plates are 6.35 and 9 mm thick.
+* There is a 6 mm internal RHA screen separating the driver from the engine and the transmission.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
+
 
 {{tankMobility|abMinHp=720|rbMinHp=448}}
 
@@ -104,7 +107,9 @@ The main armament of the ADATS is the M242 25 mm automatic cannon, the same as f
 <!-- ''Some tanks are armed with several guns in one or more turrets. Evaluate the additional weaponry and give advice on its use. Describe the ammunition available for additional weaponry. Give advice on about how to use them and how to fill the ammunition storage. If there is no additional weaponry remove this subsection.'' -->
 {{main|MIM146}}
 
-Secondary armament of the ADATS (or primary, depending on how you choose to play it) are the MIM146 dual purpose guided missiles. You can effectively use these against any target you can point them at, due to the facts that they air-burst near aircraft, usually one-hit killing them with the 7.86 kg of TNT equivalent, and have 900 mm of penetration against armoured targets. With a velocity of 1,027 m/s, aiming these things and tracking moving targets isn't an issue whatsoever. You point, you click, and the target usually dies in a single hit. In the event that, by some miracle of God himself, the target persists in clinging to their life, you can fire the MIM146 as fast as you'd like to, meaning follow-up shots are quick and easy, and with the aforementioned 900 mm of penetration, anything you shoot these at WILL be penetrated, unless the angle of impact is extreme.
+The secondary armament of the ADATS (or primary, depending on how you choose to play it) are the MIM146 beam-riding dual-purpose guided missiles. You can effectively use these against any target you can point them at, due to the facts that they air-burst the aircraft within 6 m of trigger radius, usually one-hit killing them with the 7.86 kg of TNT equivalent, and have 900 mm of penetration against armoured targets. With a velocity of 1,027 m/s, aiming these things and tracking moving targets isn't an issue whatsoever. You point, you click, and the target usually dies in a single hit. In the event that, by some miracle of God himself, the target persists in clinging to their life, you can fire the MIM146 as fast as you'd like to, meaning follow-up shots are quick and easy, and with the aforementioned 900 mm of penetration, anything you shoot these at will be penetrated, unless the angle of impact is extreme.
+
+The high velocity, brilliant 10 km of effective range, and decent 20 G of maximum overload make the MIM146 very efficient to catch high-speed jets even when they are evading. It never leaves any vapor trail and smoke in its path, and its long exhaust plume disappears a few seconds after launch. The ADATS has the capability to guide multiple MIM146s at once yet cannot be fired whilst in motion. Two launchers are a bit spread out, and the first 4 shots will launch from the left one. Remember to check whether your next missile might get blocked by the cover or not so you won't waste any of them.
 
 {| class="wikitable" style="text-align:center"
 |-
@@ -118,6 +123,32 @@ Secondary armament of the ADATS (or primary, depending on how you choose to play
 
 ==== Ammunition ====
 {{:MIM146/Ammunition|MIM146}}
+
+=== Radar ===
+As an ATGM carrier, the ADATS is equipped with an ADATS Search Radar and an electro-optical targeting system with TV and Forward Looking Infrared. The search radar is mounted on top of the turret at the rear and the barrel-like tracking optics is located at the front of the turret. The search radar has a brilliant 25 km of maximum detection range and can switch to 10 km, which is exactly the effective range of the MIM146. However, its scanning degrees of elevation is quite limited, making trouble to detect those jets that chose to opt for a very high entrance altitude. The lock from the electro-optical tracker shows the distance and the relative velocity of the target, not triggering the LWS of the locked hostile aircraft which gives it the advantage to fight modern jets compared to other top-tier SPAAs. However, you will heavily rely on thermal sight to find the hostile aircraft because the electro-optical tracker can't automatically lock the target in your plan position indicator.
+
+{| class="wikitable" style="text-align:center"
+! colspan="5" | ADATS - Target Detection Radar
+|-
+! {{Annotation|Maximum<br/>Detection<br/>Range|The maximum possible range at which a target can be detected}}
+! {{Annotation|Minimum<br/>Detection<br/>Range|The range, below which, a target cannot be detected}}
+! {{Annotation|Max Azimuth<br/>Scan Angle|How far to each side the radar can scan (widest search mode)}}
+! {{Annotation|Max Elevation<br/>Scan Angle|How far up and down the radar can scan (widest search mode)}}
+! {{Annotation|Minimum<br/>relative speed|The minimum speed a target must be moving, relative to the radar, in order to be detectable by the radar}}
+|-
+| 25,000 m || __ m || 360° ||­ 18° || __ m/s (__ km/h)
+|-
+! colspan="5" | Electro-Optical Target Tracking Radar
+|-
+! {{Annotation|Maximum<br>Tracking<br>Range|The maximum range at which a target can be tracked}}
+! {{Annotation|Minimum<br>Tracking<br>Range|The range below which targets cannot be tracked by the radar}}
+! {{Annotation|Azimuth Tracking<br>Angle|How far to each side the radar can track a target}}
+! {{Annotation|Elevation Tracking<br>Angle|How far up and down the radar can track a target}}
+! {{Annotation|Minimum<br>target speed|The minimum speed a target must be moving, relative to the radar, in order to be tracked by the radar}}
+|-
+| 10,000 m || __ m || ±__ || -__°/+__° || __ m/s (__ km/h)
+|-
+|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -147,10 +178,9 @@ The ADATS is an excellent support vehicle, able to defend teammates from both en
 
 '''Pros:'''
 
-* Has access to 8 x multi-purpose missiles, can effectively eliminate both aircraft and tanks
+* Has access to 8 x fast multi-purpose missiles, can efficiently and swiftly eliminate both aircraft and tanks without reloading
 * Missiles can penetrate up to 900 mm of armour and can cause overpressure with 7.9 kg TNT equivalent 
-* Missiles are very fast with a speed of 1,027 m/s
-* Powerful 25 mm cannon with good APDS for ground targets and HE ammunition for use against air targets
+* High rate of fire 25 mm cannon with good APDS for ground targets and HE ammunition for use against air targets
 ** Can fire 131 rounds before overheating
 * Gunner operates the turret and weapons from behind protective hull instead of being in the turret itself
 * Built on the chassis of M3 Bradley- good mobility and acceptable armour
@@ -161,15 +191,12 @@ The ADATS is an excellent support vehicle, able to defend teammates from both en
 
 '''Cons:'''
 
-* Thin armour is not effective against larger cannons
+* Thin armour is not effective against larger cannons and bullets from jets
 * High profile makes it hard to conceal, it is easily spotted
-* Can be destroyed if directly rammed by a plane
 * The three crew members are all situated within the hull, and can all be rendered unconscious if a shot penetrates the hull
 * The 25 mm autocannon cannot reliably penetrate MBTs frontally
-* The missiles are essentially giant exposed ammo-racks
+* The missiles and autocannon ammos are volatile and easy to get aimed at, especially in hull-down battles
 * Lack of stabilizer makes firing on the move difficult and increases the time to aim the weapons when suddenly braking
-* Missiles cannot be fired on the move, only guided
-* Lacks turret stabilization, also makes guiding missiles while on the move very difficult
 * No commander fire control
 * Vulnerable to the [[Damage mechanics#Overpressure|overpressure]] mechanic
 * ERA defeats the MIM146 ATGM

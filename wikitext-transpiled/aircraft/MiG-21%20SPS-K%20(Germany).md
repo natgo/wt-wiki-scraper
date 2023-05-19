@@ -6,7 +6,6 @@
 {{Specs-Card
 |code=mig-21_sps_k
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage_{{PAGENAME}}.jpg}}
-|store=10592
 }}
 
 == Description ==
@@ -208,6 +207,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * Has to give up the gun for flare/chaff pod
 * Suffers in uptiers
 * RWR is only working in the rear, not all around
+* Gun runs out of ammo quickly due to high rate of fire and low ammunition storage
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -217,6 +217,7 @@ The MiG-21 SPS (also MiG-21 PFS) was a subvariant of MiG-21 PF. The acronym SPS 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mig-21_sps_k Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

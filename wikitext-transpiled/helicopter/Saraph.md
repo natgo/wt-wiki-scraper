@@ -103,6 +103,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 ''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
 
+;Videos
+{{Youtube-gallery|irF2YOn8zOs|'''AH-64 Apache Ultimate Review''' - ''Bob Dickinson''}}
+
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the helicopter;''

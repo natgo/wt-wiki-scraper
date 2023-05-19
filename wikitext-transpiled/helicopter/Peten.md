@@ -111,6 +111,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ;Skins
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ah_64a_iaf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
+;Videos
+{{Youtube-gallery|irF2YOn8zOs|'''AH-64 Apache Ultimate Review''' - ''Bob Dickinson''}}
+
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the helicopter;''

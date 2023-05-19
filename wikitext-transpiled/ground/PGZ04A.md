@@ -5,9 +5,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The PGZ04A (Chinese: PGZ04(A)式25毫米弹炮结合防空武器系统; lit. 25 mm missile-gun AA system), is the 21st Century upgrade of the existing PGZ95 fleet in PLAGF with new MANPADS replacing the earlier QW-2 MAPNPADS and currently served as the close-range interception layer of PLA's anti-air defense system. The development of PGZ95 could trace back to 1980s when PLAGF was in dire for a new SPAA which was yet to be introduced to the Army; earlier plans were reverse-engineering Egyptian's (purchased) ZSU-23-4 which has already been exchanged to Mainland China via bi-directional arms trade. When the observer team arrived in Italy and knew the existence of SIDAM 25, PLAGF soon ditched the ZSU-23-4 plans and planned for a better SPAA system with all-weather combat capabilities; the new SPAA was tested extensively in the 1990s and made its first appearance at the 50th National Day Parade.
+The PGZ04A (Chinese: PGZ04(A)式25毫米弹炮结合防空武器系统; lit. 25 mm missile-gun AA system) is an upgraded version of the existing PGZ95 fleet in the PLAGF. This new version features new MANPADS, replacing the earlier QW-2 MAPNPADS, and currently serves as the close-range interception layer of the PLA's anti-air defense system.
 
-Introduced in [[Update "Red Skies"]] alongside with PGZ09, thanks to its opto-electronic tracker and advanced TVD sight, PGZ04A can safely track enemy targets without triggering their warning systems and the weaponries onboard will certainly cause havoc to enemy jets or helicopter that come too close; do remember to conceal yourself from them as well since a sudden strike on enemies will greatly enhance the odds to take them out straight away, and leave the MANPADS for targets at lower speed or helicopters- conserving precious missiles can earn great rewards for yourself and the team. 
+The development of the PGZ95 can be traced back to the 1980s when the PLAGF was in desperate need of a new SPAA system. Earlier plans involved reverse-engineering Egyptian ZSU-23-4s, which had already been obtained by Mainland China through bi-directional arms trade. However, when an observer team arrived in Italy and discovered the SIDAM 25, the PLAGF quickly abandoned the ZSU-23-4 plans and instead planned for a better SPAA system with all-weather combat capabilities. The new SPAA system was extensively tested in the 1990s and made its first appearance at the 50th National Day Parade (1999).
+
+Introduced in [[Update "Red Skies"]] along with the PGZ09, the PGZ04A can safely track enemy targets without triggering their warning systems thanks to its opto-electronic tracker and advanced TVD sight. The weaponries onboard can cause significant damage to enemy jets or helicopters that come too close. It is important to conceal yourself from the enemy as well, as a sudden strike can greatly enhance the odds of taking them out. Additionally, consider conserving precious missiles for targets at lower speeds or helicopters against whom they will be most effective.
 
 == General info ==
 === Survivability and armour ===
@@ -138,7 +140,7 @@ It is suggested to play the PGZ04A as a dedicated anti-air platform. However, du
 
 '''Cons:'''
 
-* IR missiles are often unreliable due to its short lock-on range and worse maneuverability  
+* IR missiles are often unreliable due to its short lock-on range and worse maneuverability
 * 25 mm shells are not as potent as 35 mm or 57 mm shells at longer ranges
 * Insufficient penetration to damage Israeli or Soviet MBTs
 * Completely exposed autocannons and missiles mean they are easily damaged

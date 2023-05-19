@@ -217,7 +217,7 @@ The A-1H can perform well in battles at its BR, either in a CAS role with 30 x 2
 * [https://live.warthunder.com/feed/camouflages/?vehicle=douglas_a_1h Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|R3ZIU3VGkOE|'''A-1H Skyraider: A Basic Review''' - ''Tims Variety''|NxhYLDgeMOE|'''Battle Pass: Smell of Victory''' discusses the {{PAGENAME}} at 02:23 - ''War Thunder Official Channel''|cIV-3ekwmq8|'''The Shooting Range #327''' - ''Metal Beasts'' section at 00:27 discusses the {{PAGENAME}}.}}
+{{Youtube-gallery|6OkWySAZEw0|'''The Shooting Range #354''' - ''Arsenal'' section at 07:12 discusses the {{PAGENAME}}.|R3ZIU3VGkOE|'''A-1H Skyraider: A Basic Review''' - ''Tims Variety''|NxhYLDgeMOE|'''Battle Pass: Smell of Victory''' discusses the {{PAGENAME}} at 02:23 - ''War Thunder Official Channel''|cIV-3ekwmq8|'''The Shooting Range #327''' - ''Metal Beasts'' section at 00:27 discusses the {{PAGENAME}}.}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

@@ -164,10 +164,11 @@ The MiG's hard-hitting cannons (2 x 23 mm and 1 x 37 mm) are a hard learning cur
 * Powerful armament, combination 37 mm and 23 mm cannons devastate targets
 * Low wing loading which results in great manoeuvrability
 * Great in vertical manoeuvres
-* Good flaps that allow them to be deployed even at high speeds (up to 800 km/h IAS)
+* Good flaps that allow them to be deployed even at high speeds (up to 670 km/h IAS)
 * High service ceiling
 * Excellent high altitude performance especially against aircraft such as [[F-86 (Family)|Sabres]]
 * S-21 rockets with good fuse time (1,000 m) result in a very high chance of head-on winning
+* Unguided rockets can be used as flares when uptiered and don't hurt aircraft performance much
 
 '''Cons:'''
 

@@ -139,7 +139,8 @@ In a more close-range tactic, stay with your allies. Allies will help you by cov
 
 '''Pros:'''
 
-* Excellent cannon has a range of ammo for any type of enemy: great stock AP for common targets, piercing APCR for early Cold War tanks and HE for light vehicles. Plenty of ammo capacity allows flexible ammo loadouts
+* Excellent cannon has a range of ammo for any type of enemy: great stock APCBC for common targets and HE for light vehicles
+* Large ammo capacity allows polyvalent ammo loadouts
 * Great accuracy and velocity allows easy long-range sniping.
 * Heavily armoured frontal hull is immune to most guns at its battle rating, e.g. the 85 mm D-5T or 76 mm M1
 * Fast top speed, good hull traverse. Can get to positions in time
@@ -208,9 +209,11 @@ The vehicle's combat debut was the Battle of Kursk, where the variant exhibited 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_V_ausf_d_panther Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
+
 * [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 ;Videos

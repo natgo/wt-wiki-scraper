@@ -192,7 +192,7 @@ The construction of the prototype was completed in 1944 and achieved a top speed
 {{Skin-gallery|market|ugcitem_1000314|Type 5 Ho-Ri Operation Ketsugo.png|Camo "Operation Ketsugo"}}
 
 ;Videos
-{{Youtube-gallery|B2woWvJK4ew|'''Top 7 most armoured vehicles'''  discusses the {{PAGENAME}} at 1:51  - ''War Thunder Official Channel''|xF4-TcnyWw0|'''Best tank destroyers''' discusses the {{PAGENAME}} at 3:35 - ''War Thunder Official Channel''}}
+{{Youtube-gallery|B2woWvJK4ew|'''Top 7 most armoured vehicles''' discusses the {{PAGENAME}} at 1:51 - ''War Thunder Official Channel''|xF4-TcnyWw0|'''Best tank destroyers''' discusses the {{PAGENAME}} at 3:35 - ''War Thunder Official Channel''}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

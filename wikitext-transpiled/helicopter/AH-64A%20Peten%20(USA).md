@@ -194,6 +194,10 @@ File:AH-64A Peten Store Pack Image 03.jpg|
 File:AH-64A Peten Store Pack Image 05.jpg|
 </gallery>
 
+
+;Videos
+{{Youtube-gallery|irF2YOn8zOs|'''AH-64 Apache Ultimate Review''' - ''Bob Dickinson''}}
+
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 

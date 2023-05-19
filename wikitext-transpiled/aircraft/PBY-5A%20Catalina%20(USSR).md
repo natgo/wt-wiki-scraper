@@ -12,11 +12,11 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet medium bomber {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
-Although technically a medium bomber, the PBY-5's strategies are much like that of heavy bombers in higher tiers such as the Pe-8. It is best to fly high, as flying low will make you an easy target for fighters and AA. The best tactic for fending off enemy fighters is to use the rudders to direct one of the side gunners towards the attacking plane. It is also smart to use the guns manually in this situation, as the AI is often very inaccurate and will refuse to fire beyond a certain distance. In the worst case scenarios, a dive can be used to greatly increase the plane's speed to get to attack a ground target before a pursuing enemy fighter shoots it down.
+Although technically a medium bomber, the PBY-5's strategies are much like that of heavy bombers in higher tiers such as the Pe-8. It is best to fly high, as flying low will make you an easy target for fighters and AA. The best tactic for fending off enemy fighters is to use the rudder to direct one of the side gunners towards the attacking plane. It is also smart to use the guns manually in this situation, as the AI is often very inaccurate and will refuse to fire beyond a certain distance. In the worst case scenarios, a dive can be used to greatly increase the plane's speed to get to attack a ground target before a pursuing enemy fighter shoots it down.
 
-The PBY-5a Catalina is slow and clunky, but it offers a heavy payload that is sure to be a game changer is used properly. It also has a very good defensive armament for its tier, which can occasionally be a saviour against an enemy fighter.
+The PBY-5A Catalina is slow and clunky, but it offers a heavy payload that is sure to be a game changer if used properly. It also has a very good defensive armament for its tier, which can occasionally be a saviour against an enemy fighter.
 
-The plane is quite unmanoeuvrable, and its wings are very weak, being able to snap just by turning just a little too tight at higher speeds in a realistic battle. This version has landing gear, facilitating the task of landing significantly and enabling it to capture bases in Airfield Domination mode in Arcade Battles.
+The plane is quite unmanoeuvrable, and its wings are very weak, being able to snap just by turning just a little too tight at higher speeds in a realistic battle. This version has landing gear, facilitating the task of landing and enabling it to capture bases in Airfield Domination mode in Arcade Battles.
 
 == General info ==
 === Flight performance ===
@@ -121,11 +121,11 @@ The '''''{{PAGENAME}}''''' is defended by:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-Climb off to the side immediately, and attempt to avoid all contact with enemy aircraft for as long as possible. The large bomb load will allow you to take care of bases easily, but the fact that this is a flying boat will prevent you from defending yourself in all directions. Never forget this aspect of the Catalina: It's defenceless against attacks from below.
+Climb off to the side immediately and attempt to avoid all contact with enemy aircraft for as long as possible. The large bomb load will allow you to take care of bases easily, but the fact that this is a flying boat will prevent you from defending yourself in all directions. Never forget this aspect of the Catalina: It's defenceless against attacks from below.
 
 ====Specific enemies worth noting====
 <!--Some concerning vehicles to worry about if playing this plane. (i.e. Japanese fighters will out turn you)-->
-Any vehicle with a 12.7 mm guns or higher or anything with a majority tracer filled belt. The 50 cals can easily disable your very much exposed engines and control surfaces, and tracer belts quickly ignite the exposed fuel tanks.
+Any vehicle with a 12.7 mm guns or higher or anything with a majority tracer filled belt. The .50 cals can easily disable your very much exposed engines and control surfaces, and tracer belts quickly ignite the exposed fuel tanks.
 
 ====Counter-tactics====
 <!--What to expect, if it would be in command of the enemy and how to counter it. (i.e. They will most likely BnZ, etc.)-->
@@ -212,6 +212,7 @@ The Catalinas that served with the Soviet Naval Aviation force were discarded fr
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=pby-5a_ussr Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -219,6 +220,7 @@ The Catalinas that served with the Soviet Naval Aviation force were discarded fr
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

@@ -59,7 +59,7 @@ The first PLAAF UCAV in service and one of the earliest UCAVS from Asia, althoug
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || > ___
+| < 200 || < 200 || < 200 || > ___
 |-
 |}
 
@@ -84,11 +84,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 Like other available Strike UCAVs in the game, Wing Long I is available to all players playing ground battles and is beneficial to players who have not researched BR appropriate aircraft or helicopters.
 
-You start off by spawning at an altitude of 4000 meters above the battlefield. Priority targets should be the enemy SPAA to allow your team's air support to fly without resistance. Enemy SPAAs are usually found stationary at the enemy spawn, though be aware of those moving closer to the frontlines as well. If there are no SPAA around, your next target would be enemy tanks that are near/on the capture points. Once you fire both [[AKD-9]] missiles, you have three options:
+You start off by spawning at an altitude of 4000 meters above the battlefield. Priority targets should be the enemy SPAA to allow your team's air support to fly without resistance. Enemy SPAAs are usually found stationary at the enemy spawn, though be aware of those moving closer to the frontlines as well. If there are no SPAA around, your next target would be enemy tanks that are near/on the capture points. Once you fire both [[AKD-9]] missiles, you have three options:
 
-# '''Loiter over the battlefield and provide reconnaissance:''' Just because you can no longer use your missiles doesn't mean you can't help your team! Fly around the battlefield and scan the area with your amazing optical camera. Once you spot any enemy vehicles that pose a threat to your team, quickly mark them on the map and tell your teammates using the in-game chat (alternatively if you have any squad mates, you can work with them and point out enemies nearby using the squad marker)
-# '''Land and rearm:''' Once the two ATGM's are used, reduce your throttle and glide towards the airbase. Once you land, begin any repairs and necessary rearming so you can take off. It should be worth noting that the UCAVs suffers from a low speed and a horrid climb rate, making the return to base and return to the battlefield incredibly lengthy. In terms of battlefield survival, the drone's altitude is its only saving grace, as helicopters/attack aircraft will generally be at lower altitudes and SPAA's will have no trouble sending a very slow target back to the hangar screen. Consequently, fighting at low altitudes should be regarded as a suicide mission.
-# '''Bail out of the vehicle and spawn in a more capable vehicle:''' While it feels counterintuitive to bail out of a vehicle that cost 750 spawn points, it is the fastest and best way to get you back into the battle. Using the spawn points you accumulated from the carnage your two missiles scored, you can get enough to spawn another tank, an attack aircraft, or a helicopter. The advantage of this is that you should have cleared the path for you or other pilots to make some damage, as the SPAA's and anti-air threats are no longer there.
+# '''Loiter over the battlefield and provide reconnaissance:''' Just because you can no longer use your missiles doesn't mean you can't help your team! Fly around the battlefield and scan the area with your amazing optical camera. Once you spot any enemy vehicles that pose a threat to your team, quickly mark them on the map and tell your teammates using the in-game chat (alternatively if you have any squad mates, you can work with them and point out enemies nearby using the squad marker)
+# '''Land and rearm:''' Once the two ATGM's are used, reduce your throttle and glide towards the airbase. Once you land, begin any repairs and necessary rearming so you can take off. It should be worth noting that the UCAVs suffers from a low speed and a horrid climb rate, making the return to base and return to the battlefield incredibly lengthy. In terms of battlefield survival, the drone's altitude is its only saving grace, as helicopters/attack aircraft will generally be at lower altitudes and SPAA's will have no trouble sending a very slow target back to the hangar screen. Consequently, fighting at low altitudes should be regarded as a suicide mission.
+# '''Bail out of the vehicle and spawn in a more capable vehicle:''' While it feels counterintuitive to bail out of a vehicle that cost 750 spawn points, it is the fastest and best way to get you back into the battle. Using the spawn points you accumulated from the carnage your two missiles scored, you can get enough to spawn another tank, an attack aircraft, or a helicopter. The advantage of this is that you should have cleared the path for you or other pilots to make some damage, as the SPAA's and anti-air threats are no longer there.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -96,7 +96,7 @@ You start off by spawning at an altitude of 4000 meters above the battlefield. P
 '''Pros:'''
 
 * Spawns at altitude (4000 meters)
-* Access to two devastating [[AKD-9]] missiles
+* Access to two devastating [[AKD-9]] missiles
 * Exceptional optical camera
 * Hard to counter by SPAA
 * Available to everyone to use

@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=il_magach_6r
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -152,6 +152,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 
 ;Skins
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_magach_6r Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+;Sights
+*[https://live.warthunder.com/post/1035654/en/ Caff_Gunner's (Israel) Historical and semi-historical gun reticles.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

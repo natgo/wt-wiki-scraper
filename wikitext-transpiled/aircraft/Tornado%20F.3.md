@@ -84,7 +84,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-r
 ! colspan="3" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full internal fuel)
 |-
 | colspan="2" | Turbo-Union RB199-34R Mk.104 || 2
-| colspan="3" | 14,659 kg || colspan="3" | ___ kg/m<sup>2</sup>
+| colspan="3" | 14,659 kg || colspan="3" | 742 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="5" | Mass with internal fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
@@ -112,7 +112,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-r
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+The Tornado F.3 does not have any armour plates within the plane, most of the planes central fuselage contains self-sealing fuel tanks. This means the Tornado F.3 is very likely to catch fire if hit by enemy rounds or missiles. An EFS system is available that could potentially save the aircraft in the case of an onboard fire.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -147,10 +147,10 @@ The '''''{{PAGENAME}}''''' is armed with:
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 * 2 x 330 gal drop tanks
-* 2 x AIM-9L Sidewinder missiles
-* 4 x AIM-9L Sidewinder missiles + 320 x countermeasures
-* 4 x Skyflash missiles
-* 4 x Skyflash SuperTEMP missiles
+* 2 x [[AIM-9L Sidewinder|AIM-9L]] Sidewinder missiles
+* 4 x [[AIM-9L Sidewinder|AIM-9L]] Sidewinder missiles + 320 x countermeasures
+* 4 x [[Skyflash]] missiles
+* 4 x [[Skyflash SuperTEMP]] missiles
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -183,15 +183,31 @@ Like other planes at this BR, the Tornado F.3 is outclassed by higher tier aircr
 
 The Skyflash Super TEMPs are very potent but not on par with the [[AIM-7F Sparrow]]s. They accelerate faster and will outpace the AIM-7F within 4-6 km but refrain from trying to BVR Duel with the rank VIII Phantoms or the F-4J/S. The Skyflash will hang at around the same speed as the AIM-7F at BVR ranges. Due to how long the AIM-7F/M burns it will eventually outpace the Skyflash at longer ranges It goes without saying but The Skyflash is not an effective weapon against the [[R-27ER]] or the [[Matra Super 530D]]. Your prime targets are unsuspecting targets 4-9 km away heading generally towards you.
 
-Try and avoid "fair" missile jousts considering the atrocious manoeuvrability of the Tornado F.3 makes it near impossible to kinetically dodge SARH missiles. Most of the high-end radar missiles can still guide into you due to CW missiles tracking residual radar returns or just gliding into you since the Tornado F.3 is not manoeuvrable enough to change course quickly to dodge the missile, even if the lock was broken. While most planes can outmanoeuvre a head on SARH missile by manoeuvring (rolling) out of the way, the Tornado cannot. It's even difficult to notch a radar-guided missile within 10 km given the closure speed and nearly orbital turning circle of the tornado. Of course, both are possible in certain circumstances but it isn't a reliable way to survive an competent opponent who has taken their time setting up a good SARH missile. Within 5 km, there isn't much you can do other than spam chaff and hope for the best.
+Avoid entering and staying in the furball as the you will likely have many missiles shot at you, combined with the Tornado's poor maneuverability means almost certain death. Instead lock up head on targets using ACM mode then fire off a Skyflash at your enemy, if they also launch a missile at you, start to notch their radar as fast as you can while releasing flares and chaff, or fly closely to the ground. (Lower than 30 meters) If the enemy starts to notch your radar, switch the radar mode from PD HDN to standard search as it'll be immune to notching, though it will not work if the enemy is close to the ground. (Ground clutter) Another tactic is to lock up the enemy with radar but fire off an AIM-9L instead, many times this will confuse the enemy into not releasing flares as they will believe that you fired a Skyflash instead of a AIM-9L.
 
 Don't dogfight. You have no workable advantages against your opponent unless they are already badly crippled with large sections of their wings/tail missing. If you are chased, get a teammate to cover your back or run back to the airfield. Try and fly in a straight line given your speed bleed in any sort of turn manoeuvre.
 
-The tornado F.3 likes to fly predictable, straight paths and makes very predictable manoeuvres. Any enemy with an ounce of situational awareness will easily be able to keep tabs on you with no effort whatsoever. You can't really make unpredictable manoeuvres and sneak up on people given your overall lack of mobility in any direction other than forward. This makes it hard to employ your AIM-9Ls or your guns, given it is very difficult to stick to an opponent's tail for a good rear aspect shot. Although you will still find the AIM-9L to be a very consistent weapon and a good close range missile.
+The tornado F.3 likes to fly predictable, straight paths and makes very predictable manoeuvres. Any enemy with an ounce of situational awareness will easily be able to keep tabs on you with no effort whatsoever. You can't really make unpredictable manoeuvres and sneak up on people given your overall lack of mobility in any direction other than forward. This makes it hard to employ your AIM-9Ls or your guns, given it is very difficult to stick to an opponent's tail for a good rear aspect shot. Although you will still find the AIM-9L to be a very consistent weapon and a good close to mid range missile.
 
-At this BR, you can outrange pretty much anyone at your own BR with BVR missiles. Your biggest challenge will be F-4J/S with their AIM-7Fs and PDV radars. You have a fair chance of spotting and locking them first given your superior radar. When BVR fighting with an equal BR opponent, it might be a good idea to deliberately waste a Skyflash with a launch from maximum range just to give the enemy something to think about if they continue to commit to a head on. Once the missile is headed your way there isn't much you can do so the best defense is a good offence in this situation.
+At this BR, you can outrange pretty much anyone at your own BR with BVR missiles. Your biggest challenge will be F-4J/S with their AIM-7Fs and PDV radars. You have a fair chance of spotting and locking them first given your superior radar. However this doesn't mean you have the advantage as the AIM-7F will out range the Skyflash SuperTEMP. If a missile joust must be started, try to delay the launch of the enemy missile until a close distance (Lower than around 8 km) as in those ranges the Skyflash will out speed the AIM-7F. In the event of an uptier you will almost certainly meet enemy Mig-29s with their R27ER missiles, in this scenario there is simply not much you can do due the R27ER outranging and out speeding the Skyflash.
 
 Never pull negative Gs in the Tornado F.3. As with many top tier planes the negative G performance of the tornado is poor. Unlike the British [[Phantom FGR.2|Phantoms]] your wings are not sturdy enough to sustain negative Gs even for a few seconds, often snapping as soon as you put your nose down. The Tornado is generally an unstable aircraft and prone to flat spinning as soon as the wing falls off, so don't expect to get back to base once you've lost a wing. Rolling can easily make the Tornado snap its wings. When in a turn, refrain from rolling in a 2G+ turn or else there is a good chance you may loose one or both wings. You may not have the controllability to recover and you may go into an uncontrollable spin depending on how violently you were rolling.
+
+==== List of missile and their carriers ====
+
+* [[AIM-7F Sparrow|AIM-7F]]/[[AIM-7M Sparrow|M]], carried by the following aircrafts. [[F-4J Phantom II|F-4J]], [[F-4S Phantom II|F-4S]], [[F-14A Early]], F-16 (All variants except the [[F-16A|USA block 10]] and [[F-16A Netz (Israel)|NETZ]] version) [[F-4EJ Kai Phantom II|F-4EJ Kai]]. 
+* [[R-27ER]]/[[R-27ER1|ER1]], carried by the Mig-29. (Both variants)
+* [[Matra Super 530D]], carried by the [[Mirage 2000C-S5]].
+* [[Aspide-1A]], carried by the [[F-104S.ASA]] and [[J-8B|J-8B.]] 
+* [[AIM-54A Phoenix]], carried by the [[F-14A Early]]
+
+==== How to counter these missiles ====
+
+* [[AIM-7F Sparrow|AIM-7F]]/[[AIM-7M Sparrow|M]]. Your Skyflash SuperTEMP will be faster than these missiles when under 6-8 km, above that distance, the AIM-7F/M will be faster.
+* [[R-27ER]]/[[R-27ER1|ER1]]. This missile will outperform the Skyflash SuperTEMP in everyway, the only possible way to kill a Mig-29 in the missile joust is to fire first, or notch/evade the incoming R27ER/ER1
+* [[Matra Super 530D]]. At close range, the Skyflash SuperTEMP has better acceleration and will eventually out range the Matra Super 530D.
+* [[Aspide-1A]]. The carriers of these missiles either has weak flight performance (F-104S.ASA) or a weak radar (J-8B). The Skyflash SuperTEMP will also outrange the Aspide-1A.
+* [[AIM-54A Phoenix]]. These missile has a lot of range, however it's very easy to notice the incoming missile and simply notch it.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -199,8 +215,8 @@ Never pull negative Gs in the Tornado F.3. As with many top tier planes the nega
 
 * Has a lot of countermeasures, including large-calibre ones
 * Can carry 8 air-to-air missiles at once
-** Skyflash SuperTEMPs are effective SARH missiles in a BVR role
-** Potent all-aspect heat-seeking AIM-9L missiles
+** [[Skyflash SuperTEMP]]<nowiki/>s are effective SARH missiles in a BVR role
+** Potent all-aspect heat-seeking [[AIM-9L Sidewinder|AIM-9L]] missiles
 * Has radar gunsight
 * Advanced radar for its BR
 ** Includes TWS that indicates direction of enemy

@@ -204,6 +204,10 @@ As of 2017, the JGSDF operated one squadron of ten AH-64DJP helicopters, with th
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ah_64d_japan Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 {{Skin-gallery |market|ugcitem_1000607|AH-64DJP JG-4557.png|Camo "AH-64DJP, Bicolor winter"}}
 
+
+;Videos
+{{Youtube-gallery|irF2YOn8zOs|'''AH-64 Apache Ultimate Review''' - ''Bob Dickinson''}}
+
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the helicopter;''

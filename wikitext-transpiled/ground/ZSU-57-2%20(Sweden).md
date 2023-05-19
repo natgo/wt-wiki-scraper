@@ -14,7 +14,7 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 In November 1960, Finland ordered 12 [[ZSU-57-2]]s from the Soviet Union to replace the ageing [[L-62 ANTI II]]. This allowed for 6 anti-aircraft vehicles per tank brigade, and they were delivered along with 60,000 HE rounds and 10,000 AP rounds, as well as a number of [[T-54 (Sweden)|T-54s]], between 1960-1961. However, they were found to be severely limited by their inability to operate at night, and were eventually replaced by the [[ItPsV 90]]. The vehicles were withdrawn from service completely in 2006.
 
-Introduced in [[Update "Fire and Ice"]], the ZSU-57-2 features two powerful 57 mm guns, as well as a heavily-modified T-54 chassis giving it good mobility but very light armour. It has proven to be more of a menace to ground vehicles than aircraft with its high-velocity cannons, but low sustained rate of fire and poor accuracy.
+Introduced in [[Update "Fire and Ice"]], the ZSU-57-2 features two powerful 57 mm guns, as well as a heavily-modified T-54 chassis giving it good mobility but very light armour. It proves to be more of a menace to ground vehicles than aircraft with its high-velocity cannons, but low sustained rate of fire and poor accuracy.
 
 == General info ==
 === Survivability and armour ===

@@ -73,18 +73,17 @@ The Trento is best used to support pushes towards caps by using its good module 
 
 '''Pros:'''
 
-* Adequate armour
+* Adequate armour for its BR, especially when angled
 * High top speed
-* Excellent guns
-* Adequate APHEBC rounds
-* Adequate crew size
-* One scout seaplane.
+* High firepower for its BR, with adequate APHEBC rounds
+* One scout seaplane
 
 '''Cons:'''
-
-* Slow reaction time
-* Inadequate ammunition protection
-* Static torpedo launchers
+* Poor reload time and accuracy, especially when stock
+* Poor manoverability, struggle to make an evasive manoever and moving around tight corridors
+* Inadequate ammunition protection, highly vulnerable to diving shots and torpedoes
+* Mediocre delicated anti-air armaments 
+* Static torpedo launchers 
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

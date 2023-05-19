@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish tank destroyer {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]].
+The '''{{Specs|name}}''' is a  Swedish tank destroyer prototype designed in the early 50s along with the [[Pvkv II]] in an attempt to reuse the old [[Strv m/41 S-II|Strv m/41]] hulls. Even though the 57 mm gun showed great potential, the project got cancelled after the Swedish armed forces bought their [[Centurion (Family)|Centurion tanks]]. 
+
+The '''{{PAGENAME}}''' was introduced in [[Update "Danger Zone"]]. It is a well-rounded Swedish tank destroyer with an excellent fire rate for an otherwise competent 57 mm gun which can prove to be a more dangerous opponent than it seems.
 
 == General info ==
 === Survivability and armour ===

@@ -46,7 +46,6 @@ LÉ Orla is armed with a single main 76 mm/62 OTO-Melara Compact Gun, located at
 The gun offers satisfactory firing range, up to 6,000 m. However, firing at such distances is not advised due to the very limited ammo count. The ammo count of 115 shells is sufficient to destroy numerous small boats, as 1-3 shots will be enough. But long-distance engagements and destroyers will require a lot more of ammunition, leaving the ship unable to defend or with reduced efficiency. As once the ready-use ammo of 85 shells is fired, the remaining ammo will be fired at a much slower rate.
 
 The turret mounting is highly mobile and provides adequate targeting speed, something beneficial for the reduced ship's mobility.
-[[File:Sector Orla.png|thumb|LE Orla's firing sector]]
 
 '''Ammunition'''
 
@@ -129,7 +128,6 @@ The LÉ Orla is still in service with the Irish Naval service, although manpower
 * ''other literature.'' -->
 
 === References ===
-
 ;Citations
 <references />
 

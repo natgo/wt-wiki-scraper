@@ -179,6 +179,9 @@ The IAF AH-64A began to be upgraded to the AH-64Ai standard in 2013, comparable 
 ;Skins
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ah_64a_peten_iaf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
+;Videos
+{{Youtube-gallery|irF2YOn8zOs|'''AH-64 Apache Ultimate Review''' - ''Bob Dickinson''}}
+
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the helicopter;''

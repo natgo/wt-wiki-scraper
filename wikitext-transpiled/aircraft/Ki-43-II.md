@@ -126,7 +126,7 @@ While having sufficient flight characteristics, the Ki-43 is extremely fragile a
 
 '''Enemies worth noting:'''
 
-* Typhoon Mk Ia: this is a very capable opponent, it is quite fast, climbs good, manoeuvres alright and has 12 x 7.7 mm MGs that can fatally damage the Ki-43. If you are attacking, get an altitude advantage first and BnZ it. If you are being attacked by it, evade its first pass and immediately start a turnfight. You need to deploy combat / takeoff flaps, or even landing flaps if needed to push your turn rate to the limit. Several circles are needed, don't panic to see the Typhoon keeping up with your turns at first. With appropriate flaps, the Ki-43 will slowly out turn it, allowing you to get onto its tail. The Typhoon overall resembles a Hurricane, except its symbolic giant intake below the engine.
+* [[Typhoon Mk Ia]]: this is a very capable opponent, it is quite fast, climbs good, manoeuvres alright and has 12 x 7.7 mm MGs that can fatally damage the Ki-43. If you are attacking, get an altitude advantage first and BnZ it. If you are being attacked by it, evade its first pass and immediately start a turnfight. You need to deploy combat / takeoff flaps, or even landing flaps if needed to push your turn rate to the limit. Several circles are needed, don't panic to see the Typhoon keeping up with your turns at first. With appropriate flaps, the Ki-43 will slowly out turn it, allowing you to get onto its tail. The Typhoon overall resembles a Hurricane, except its symbolic giant intake below the engine.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -192,6 +192,7 @@ All in all, 5919 Ki-43 fighters were produced, most of which were of the Ki-43-I
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ki_43_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -199,6 +200,7 @@ All in all, 5919 Ki-43 fighters were produced, most of which were of the Ki-43-I
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

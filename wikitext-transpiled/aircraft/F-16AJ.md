@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese jet fighter {{Battle-rating}}. It was introduced in [[Update "Sky Guardians"]].
+The '''{{Specs|name}}''' represents the proposed introduction of the F-16C Block 40 into JASDF service, as suggested by General Dynamics on multiple occasions, including Japanese airshows and their executive summary. The JASDF had plans to import third-generation jet fighters from NATO or allied countries to replace their existing fleet of F-86 and F-104J aircraft as part of a parallel program to develop the successor to the Mitsubishi F-1 by the 1980s. However, due to various complications within and outside Japan, the introduction plans were ultimately abandoned, and Mitsubishi chose to develop the F-2 with the support of General Dynamics instead.
+
+Introduced in [[Update "Sky Guardians"]], the F-16AJ is currently one of only two truly multirole F-16s in the game, alongside the ROCAF's [[F-16A MLU (China)|F-16A MLU]]. The F-16AJ also marks the introduction of the AGM-65 series into JASDF service, providing much-anticipated precision air-to-ground weaponry for the JGSDF. With one of the latest airborne radars in the game and weapon systems mostly identical to other F-16 variants, the F-16AJ now presents a good option for players who require both air interception and ground attack capabilities. Its available payloads will not disappoint players.
 
 == General info ==
 === Flight performance ===
@@ -243,3 +245,4 @@ Japan eventually opted for co-development between Japan and US based on the airf
 
 {{AirManufacturer General Dynamics}}
 {{Japan jet aircraft}}
+<references />

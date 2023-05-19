@@ -11,9 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Japanese jet fighter {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
+The '''{{Specs|name}}''' (Air Development and Test Wing) was the first and last operator of the F-4EJ in Japan until its complete decommission in 2021. The ADTW is responsible for testing and training on the newest equipment, to report on further developments for the JASDF.
 
-The ADTW (Air Development and Test Wing) was the last operator within Japan of the F-4EJ until its complete decommission in 2021. This F-4EJ is completely identical to the researchable [[F-4EJ Phantom II]] in the tech tree.
+It was introduced in [[Update "Apex Predators"]]. This F-4EJ is completely identical to the researchable [[F-4EJ Phantom II]] in the tech tree.
 
 == General info ==
 === Flight performance ===
@@ -202,7 +202,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The F-4EJ Phantom is well-suited for any in-game situation. For attacking ground targets, the plane is armed with an assortment of bombs and rockets, and against air targets, players may employ the vehicle's deadly air-to-air missiles and frontal cannon. If desired, three externally-mounted gun pods may be equipped, but note that these may not be useful in all situations. Although they will undoubtedly increase the vehicle's destructive capabilities, they also appreciably hinder flight performance. In many situations, one front-facing cannon is all that is required to dispatch an opponent aircraft. As for the missiles, the ones used by this plane are among the best in the game, comparable to the [[R-60]] missiles equipped by the [[MiG-21MF (Germany)]] and the [[MiG-21SMT]].
+The F-4EJ Phantom is well-suited for ground attacks, with a generous amount of options for bombs and rockets. Against air targets, players may employ the vehicle's air-to-air missiles and deadly frontal cannon. If desired, three externally-mounted gun pods may be equipped, but note that these may not be useful in all situations. Although they will undoubtedly increase the vehicle's destructive capabilities, they also appreciably hinder flight performance. In many situations, one front-facing cannon is all that is required to dispatch an opponent aircraft. As for the infrared missiles, the ones used by this plane are decent in the game, comparable to the [[R-60]] missiles equipped by the [[MiG-21MF (Germany)]] and the [[MiG-21SMT]].
 
 Thanks to its leading-edge flaps, the F-4EJ is more manoeuvrable than the [[F-4C Phantom II]]. Because of this, it can calmly deal with more intense dogfight situations than its predecessor. As with all top-tier fighter jets, extended turn fights should be avoided since they bleed much speed out of this heavy aircraft and leave the pilot defenceless against nearby vultures. Specifically, watch out for the [[J35D]] ''Draken'', which will beat any of its contemporaries in an extended turn, and also keep an eye on nearby [[Mitsubishi T-2]] pilots: although the T-2 doesn't do well in extended turns, it can pull a significant angle of attack in the first few moments of a turn fight. The [[F-4E Phantom II]] can also be considered a threat as it includes leading-edge slats not found on the F-4EJ.
 
@@ -214,16 +214,17 @@ It is advised to side climb up to at least 8,000 m before engaging the enemy to 
 '''Pros:'''
 
 * Fairly manoeuvrable thanks to leading-edge flaps, especially when low on fuel
-* AIM-9P air-to-air missiles are among the best in the game (export version of the AIM-9J)
-* Equipped with flares for evading enemy missiles
-* A wide range of suspended armaments, suitable for any playstyle
-* Deadly frontal armament with high burst mass
+* Equipped with countermeasures for evading enemy missiles
+* A wide range of suspended armaments, suitable for multi-purpose playstyle
+* Deadly frontal cannons with high burst mass
 * Makes use of a ballistic computer for assisting in the aim of cannons, rockets, and bombs against ground targets
 
 '''Cons:'''
 
-* Unlike the [[F-4E Phantom II]], the F-4EJ does not have the Agile Eagle upgrade
+* Unlike the [[F-4E Phantom II]], the F-4EJ ADTW does not have the Agile Eagle upgrade
+* AIM-9P air-to-air missiles are less capable than most infrared missiles found at its BR
 * Lacks the more capable [[AIM-7E-2]] Sparrow, only has the basic AIM-7E that takes longer to start manoeuvring so it is harder to use in short-range fights
+* Lacks PD radar, making it significantly harder for radar missiles to track and hit in combat
 * Limited ammunition in the frontally-mounted cannon
 * Quite large and heavy compared to other fighters at its rank
 
@@ -242,7 +243,7 @@ In July of 1984, after the post-war sanctions were dropped, Japan put together p
 
 The F-4EJ Phantoms were equipped with 3 different colour schemes. Blue Camo, Green Camo, and Grey. 127 aircraft were built, with 8 squadrons adopting the plane. The F-4EJ was decommissioned in 2020 to adapt to the F-35A Lightning II.
 
-This F-4EJ sports the livery for the 60th Anniversary of the ADTW (Air Development and Test Wing 飛行開発実験団) as in 2015 for 47-8336 (Mitsubishi's 36th Phantom; M036), where it was the very last few F-4EJs to be written off from JASDF in March 2021.
+This F-4EJ sports the livery for the 60th Anniversary of the ADTW (Air Development and Test Wing 飛行開発実験団) as in 2015 for 47-8336 (Mitsubishi's 36th Phantom; M036), where it was the very last few F-4EJs to be written off from JASDF in March 2021.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

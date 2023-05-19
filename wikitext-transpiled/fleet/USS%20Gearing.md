@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American destroyer {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]].
+The '''{{Specs|name}}''' is one of 98 [[Gearing (Family)|Gearing-class]] destroyers built for the US Navy near the end of WW2. Laid down in mid 1944, she wouldn't be commissioned until the 3rd of May 1945; meaning she saw only roughly 3 months before the end of hostilities with the Japanese empire. She would go on to serve for nearly 3 decades more, mostly with the Atlantic fleet, notably taking part in the blockade of Cuba during the Cuban missile crisis, before finally being decommissioned in 1973. 
+
+Introduced in [[Update "Danger Zone"]], USS Gearing is one of the best destroyers in War Thunder. With 3x dual mount turrets, she has greater main battery firepower than the [[Fletcher (Family)|Fletcher class]], though with one less dual mount than the [[Porter (Family)|Porter class]]. In exchange, she gains extra anti-fragmentation armour and, as she is in her 1945 refit, one of the greatest anti-aircraft batteries on any destroyer. This comes with the loss of one torpedo launcher compared to the [[USS Frank Knox]], another ship of her class.
 
 == General info ==
 === Survivability and armour ===

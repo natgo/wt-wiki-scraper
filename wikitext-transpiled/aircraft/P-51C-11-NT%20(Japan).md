@@ -10,11 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Japanese fighter {{Battle-rating}}. It was introduced in [[Update "Red Skies"]].
+The '''{{Specs|name}}''', nicknamed '''"Evalina"''' after the girlfriend of its pilot: 1st Lt. Oliver E. Strawbridge. Captured by the Japanese after an emergency landing on the 16th of January, 1945, she was left in her original scheme with Hinomarus painted over the American stars before she was sent over back to Japan. There she would be thoroughly evaluated, examined, and used in mock battles by the Japanese Army until just before the end of the war.
 
-The plane was nicknamed "Evalina" after the girlfriend of its pilot 1st Lt. Oliver E. Strawbridge.
-
-This plane got captured by the Japanese after an emergency landing on the 16th of January, 1945. She was left in her original scheme with Hinomarus painted over the American stars before she was sent over back to Japan. There she would be thoroughly evaluated, examined & mock battled with by the Japanese Army until just before the end of the war.
+Introduced in [[Update "Red Skies"]], the P-51C-11-NT is a carbon copy of the American [[P-51C-10]] without any bomb ordnance. Being an early P-51 model, it still gets late war .50 cal belts as a result of being captured in 1945, offering the very deadly full AP-I/T belts putting any target it faces ablaze. The P-51 will be a whole different plane to the average Japanese pilot and they will have to adjust to its American playstyle, flying fast and hitting hard with plenty of ammo, before disengaging and regaining altitude.
 
 == General info ==
 === Flight performance ===

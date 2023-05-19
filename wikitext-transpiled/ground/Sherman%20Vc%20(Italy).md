@@ -81,7 +81,7 @@ This tank should be the supporting line in both offensive and defensive actions,
 * '''Shell Mk.1:''' {{Annotation|HE|High-explosive}} - It is ideal for destroying SPAA and lightly armoured tanks, but useless against anything else.
 * '''Shot Mk.4:''' {{Annotation|APC|Armour-piercing capped}} - Cap for better grip against sloped armour.
 * '''Shot Mk.8:''' {{Annotation|APCBC|Armour-piercing capped ballistic capped}} - Like Shot Mk.4 but with a ballistic cap for improved flight path, as well as better penetration.
-* '''Shot SV Mk.1:''' {{Annotation|APDS|Armour-piercing discarding sabot}} - Highest armour penetration of any shot, but has worse spalling effect.
+* '''Shot SV Mk.1:''' {{Annotation|APDS|Armour-piercing discarding sabot}} - Highest armour penetration of any shot, but has worse spalling effect, and can only penetrate vertical surfaces.
 
 {{:QF 17-pounder (76 mm)/Ammunition|Shot Mk.6, Shell Mk.1, Shot Mk.4, Shot Mk.8, 17pdr Shell SS Mk.1, Shot SV Mk.1}}
 

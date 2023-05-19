@@ -6,7 +6,6 @@
 {{Specs-Card
 |code=mirage_milan
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
-|store=10892
 }}
 
 == Description ==

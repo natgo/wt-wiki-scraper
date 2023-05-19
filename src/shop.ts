@@ -1,16 +1,5 @@
 import fs from "fs";
 import { format } from "prettier";
-import {
-  CountryName,
-  LangData,
-  NeedBuyToOpenNextInEra,
-  Rank,
-  Shop,
-  ShopCountry,
-  ShopGroup,
-  ShopItem,
-  country,
-} from "types";
 
 import { Final, VehicleProps } from "../data/types/final.schema";
 import {
@@ -24,6 +13,17 @@ import {
 } from "../data/types/shop.schema";
 import { langCsvToJSON } from "./csvJSON";
 import { parseLang } from "./lang";
+import {
+  CountryName,
+  LangData,
+  NeedBuyToOpenNextInEra,
+  Rank,
+  Shop,
+  ShopCountry,
+  ShopGroup,
+  ShopItem,
+  country,
+} from "./types";
 
 function minMaxRank(
   army: FinalShopRange,
@@ -56,18 +56,19 @@ function parseColumn(
   column: Record<string, ShopItem | ShopGroup>,
   units_lang: LangData[],
   final: VehicleProps[],
+  dev: boolean,
 ) {
   const range: Array<FinalShopItem | FinalShopGroup> = [];
   Object.entries(column).forEach(([key, value]) => {
     if ("image" in value) {
       const groupLang = parseLang(units_lang, "shop/group/" + key);
-      if (!groupLang) {
+      if (!groupLang && !dev) {
         throw new Error(`no match in lang data to shop/group/${key}`);
       }
 
       const out: FinalShopGroup = {
         name: key,
-        displayname: groupLang.English,
+        displayname: groupLang?.English || key,
         image: value.image.split("#")[2],
         reqAir: value.reqAir,
         vehicles: [],
@@ -132,6 +133,7 @@ function shopRangeFE(
   rank: NeedBuyToOpenNextInEra,
   country: CountryName,
   type: string,
+  dev: boolean,
 ): FinalFinalShopRange {
   const army: FinalShopRange = {
     col_normal: 0,
@@ -158,7 +160,7 @@ function shopRangeFE(
     army.max_rank = minMax.army.max_rank;
     army.min_rank = minMax.army.min_rank;
 
-    const parsed = parseColumn(army, isPrem, range, units_lang, final);
+    const parsed = parseColumn(army, isPrem, range, units_lang, final, dev);
     isPrem = parsed.isPrem;
     army.col_normal = parsed.army.col_normal;
     army.range = parsed.army.range;
@@ -171,7 +173,7 @@ function shopRangeFE(
     });
 
     range.forEach((element) => {
-      const parsed = parseColumn(army, isPrem, element, units_lang, final);
+      const parsed = parseColumn(army, isPrem, element, units_lang, final, dev);
       isPrem = parsed.isPrem;
       army.col_normal = parsed.army.col_normal;
       army.range = parsed.army.range;
@@ -276,6 +278,7 @@ async function main(dev: boolean) {
         rankData.needBuyToOpenNextInEra,
         country.parse(key),
         "Tank",
+        dev,
       ),
       helicopters: shopRangeFE(
         value2.helicopters.range,
@@ -284,6 +287,7 @@ async function main(dev: boolean) {
         rankData.needBuyToOpenNextInEra,
         country.parse(key),
         "Helicopter",
+        dev,
       ),
       aviation: shopRangeFE(
         value2.aviation.range,
@@ -292,6 +296,7 @@ async function main(dev: boolean) {
         rankData.needBuyToOpenNextInEra,
         country.parse(key),
         "Aircraft",
+        dev,
       ),
       ship: value2.ships
         ? shopRangeFE(
@@ -301,6 +306,7 @@ async function main(dev: boolean) {
             rankData.needBuyToOpenNextInEra,
             country.parse(key),
             "Ship",
+            dev,
           )
         : undefined,
       boat: value2.boats
@@ -311,6 +317,7 @@ async function main(dev: boolean) {
             rankData.needBuyToOpenNextInEra,
             country.parse(key),
             "Boat",
+            dev,
           )
         : undefined,
     };

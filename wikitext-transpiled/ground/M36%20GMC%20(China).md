@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''{{Specs|name}}''' represents the M36 captured by the People's Voluntary Army (PVA, 中國人民志願軍) during the Korean War in Cheorwon County (철원군，鐵原郡), or the 10 M36s in service with the Republic of China Army (ROCA). The ROCA utilized these M36s as mobile artillery platforms during the First Taiwan Strait Crisis, using them to retaliate against the PLAGF in the artillery battles between the two powers. Until the late-1970s, these M36s had varying records of victories and losses against the PLAGF. They were eventually decommissioned and distributed across Taiwan Island and Kinmen Island as monuments.
 
-A version of the American [[M36 GMC]] in the Chinese tech tree, the vehicle shares identical characteristics. The only major differences is the Chinese M36 does not possess the M304 APCR shot round available to the American M36 GMC.
+Introduced in [[Update 1.91 "Night Vision"]], this vehicle is a version of the American [[M36 GMC]], sharing identical characteristics. The only notable difference is that the Chinese M36 lacks the M304 shot APCR round available to the American M36 GMC.
 
 == General info ==
 === Survivability and armour ===
@@ -154,16 +154,17 @@ One thing to note: if there is an enemy plane in the vicinity, getting to cover 
 {{main|M36_GMC#History|l1=History of the M36 GMC}}
 
 === ROCA Service ===
-Under known documentations, the PLA nor ROCA received the M36 GMC <small>(but PLA did captured one during the Korean War as PVA [People's Voluntary Army] in 1951, now displayed in Beijing)</small>, however the ROCA have received the [[M36B2_(France)|M36B2]] variant from France.
+According to available documents, neither the People's Liberation Army (PLA) nor the Republic of China Army (ROCA) received the M36 GMC (although one was captured by the People's Volunteer Army (PVA) in 1951 during the Korean War, which is currently displayed in Beijing). However, the ROCA did receive the M36B2 variant from France.
 
-As part of the retreat from Vietnam due to the total loss of French Indo-China, 8 of the M36B2 of the French Army were returned to USA and then handed to ROCA in 1955 to the '''3rd Armored Artillery Company, 600th Field Artillery Group''' of '''Kinmen Defense Command''' as a part of the emergency military aid against the ongoing artillery war between ROCA and PLA at costal Xiamen/Kinmen. They were positioned into fortified position with a slope for better trajectory against PLA targets on the other side of the Xiamen Bay. A memoir from a ROCA veteran claimed that one of these M36B2 took down a PLA broadcast station while records from ROCA have recorded losses of two M36B2 during the war.<ref>https://a2928796.pixnet.net/blog/post/289486502-%E9%87%91%E9%96%80%E7%9A%84m36</ref> The remaining of these M36s were likely decommissioned in 2000 as some photo suggests that two of them were still in commission as late as 2001.
+During the retreat from Vietnam following the complete loss of French Indochina, eight M36B2 tanks from the French Army were returned to the United States and then handed over to the ROCA in 1955. They were assigned to the 3rd Armored Artillery Company, 600th Field Artillery Group of the Kinmen Defense Command as part of emergency military aid in the ongoing artillery war between the ROCA and the PLA in coastal Xiamen/Kinmen. These tanks were positioned in fortified positions with an angled slope to enhance trajectory against PLA targets on the opposite side of Xiamen Bay. According to a memoir by a ROCA veteran, one of these M36B2 tanks successfully destroyed a PLA broadcast station, while ROCA records indicate that two M36B2 tanks were lost during the war.<ref>https://a2928796.pixnet.net/blog/post/289486502-%E9%87%91%E9%96%80%E7%9A%84m36</ref> Some photographs suggest that the remaining M36 tanks were likely decommissioned in 2000, although two of them were reportedly still in service as late as 2001.
 
-All the remaining 6 tanks are currently in Taichung (at Chenggongling Training Facility), Hsinchu (in ROCA Armor Training Command at Hukou Township; a theme park at Xinfeng Township respectively), Kaohsiung (ROCMC School at Zuoying) and 3 on Kinmen (2 are still in their combat fortifications while the remaining known one is at the Rushan Fort [乳山故壘] tank walkway<ref>https://blog.xuite.net/b0917581040191/twblog/176510695</ref>)
+Currently, the six remaining tanks are located in Taichung (at Chenggongling Training Facility), Hsinchu (in the ROCA Armor Training Command in Hukou Township and at a theme park in Xinfeng Township), Kaohsiung (ROCMC School in Zuoying), and three on Kinmen (two of which are still in their combat fortifications, while the other known tank is located at the Rushan Fort tank walkway<ref>https://blog.xuite.net/b0917581040191/twblog/176510695</ref>).
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=cn_m36 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -172,6 +173,7 @@ All the remaining 6 tanks are currently in Taichung (at Chenggongling Training F
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[M36 Jackson (Family)]], except the M36B1
 * [[M10 (Family)]]
 
@@ -181,8 +183,9 @@ All the remaining 6 tanks are currently in Taichung (at Chenggongling Training F
 * ''other literature.''-->
 
 ===References===
+
 ;Citations:
-<references/>
+<references />
 
 {{TankManufacturer Ordnance Department}}
 {{China tank destroyers}}

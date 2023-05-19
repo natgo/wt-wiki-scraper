@@ -138,7 +138,8 @@ The best ammunition for general use is the HE belt, due to it having the highest
 <!-- ''Describe the available additional armaments of the ship: depth charges, mines, torpedoes. Talk about their positions, available ammunition and launch features such as dead zones of torpedoes. If there is no additional armament, remove this section.'' -->
 {{main|Mk.VII depth charge}}
 
-{{PAGENAME}} has two possible loadouts:
+{{PAGENAME}}
+ has two possible loadouts:
 
 # 2 x Mk.VII depth charge
 # Without load
@@ -188,15 +189,15 @@ Lastly, if you come across any armoured targets that the 12.7 mm machine guns fa
 
 '''Pros:'''
 
-* Primary armament: high rate of fire, large belt capacity, and good damage output
-* Secondary armament: very quick reload, high penetration with AP rounds, and good firing arcs
-* Good mobility
+* Primary armament boasts an impressive combination of a high rate of fire, generous belt capacity, and significant damage output, ensuring sustained firepower during engagements.
+* Secondary armament exhibits exceptional reload speed, remarkable penetration capabilities with AP rounds, and advantageous firing arcs, allowing for effective target engagement.
+* Mobility enhances manoeuvrability and responsiveness, providing an advantage in more dynamic combat scenarios.
 
 '''Cons:'''
 
-* Blind spot directly in front while moving at high speeds
-* Primary armament: long reload and poor firing arcs
-* Secondary armament: cannot fire directly forwards, small magazine capacity, and cannot rotate 360°
+* While moving at high speeds, there is a slight blind spot directly in front of the vessel, necessitating cautious positioning to maintain situational awareness.
+* Primary armament experiences a relatively longer reload time and limited firing arcs, requiring strategic planning and well-timed shots for optimal effectiveness.
+* Secondary armament lacks the ability to fire directly forwards, possesses a smaller magazine capacity, and lacks full 360° rotation, potentially requiring careful targeting and ammunition conservation.
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -224,6 +225,7 @@ MGB-61 served as part of the 6th MGB Flotilla with HMS Beehive at Felixstowe fro
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_70ft_mgb Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

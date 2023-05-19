@@ -5,11 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' (金剛, [[Abbreviations#.28JP.29_Naval|namesake]]: Mount Kongō) is a rank {{Specs|rank}} Japanese battleship {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+The '''{{Specs|name}}''' (金剛, [[Abbreviations#.28JP.29_Naval|namesake]]: Mount Kongō) was the lead ship of the Kongō-class and would be the last Japanese capital ship built outside Japan. Designed by the British naval engineer George Thurston and laid down in 1911 initially as a battlecruiser, she would see 2 major refits that would reclassify her as a fast battleship. First commissioned in 1913, patrolling the Chinese coast during WWI, she would see many major naval actions in the Pacific War until November 1944 when she would be sunk by a submarine while in transit.
 
-The Kongō was the lead ship of the Kongō-class and would be the last Japanese capital ship built outside Japan. Designed by the British naval engineer George Thurston and laid down in 1911 initially as a battlecruiser she would see 2 major refits that would reclassify her as a fast battleship.
-
-First commissioned in 1913, patrolling the Chinese coast during WWI, she would see many major naval actions in the Pacific War until November 1944 when she would sink while in transit by a submarine.
+{{PAGENAME}} was introduced in [[Update "Wind of Change"]]. Being a sidegrade to the other capital ships Japan offers, the Kongō offers speed over total amount of guns and armour, this gives her more opportune reaction times in regards of angling her armour, and getting to desired locations faster than other battleships. Being in her last refit of 1944, she provides a large suite of 25 mm anti-air cannons to fend off medium-close range aerial targets.
 
 == General info ==
 === Survivability and armour ===
@@ -20,8 +18,7 @@ Kongo's armour truly reflects her legacy as a battlecruiser, even though she has
 
 Within the ship, all four magazines are protected by a turtleback armour scheme, which greatly improves her protection against ammunition detonations, especially at close range. In addition to this, the steering at the stern of the ship is armoured by an enormous concrete block.
 
-Overall, her armour is certainly enough to give her protection against most cruisers and some battleships on her side armour , especially when angled, but Kongo has no armour protection in the center of the ship, which means even a Destroyer can easily remove Kongo by shooting HE shells on her center. 
-[[File:Kongo has no armor in the center of the ship.png|thumb|Kongo has no armor in the center of the ship.]]
+Overall, her armour is certainly enough to give her protection against most cruisers and some battleships, especially when angled, but given her design and playstyle, it will never be her strength. At the end of the day, she is a battlecruiser at her core, and you should not expect her armour to make you impervious to battleship fire.
 
 The {{PAGENAME}}'s crew consists of 1,437 personnel, which is respectable. It is far more than any World War One-era dreadnought, although it's less than the Scharnhorst's complement, and is smaller than the crews of even some World War Two cruisers.
 
@@ -70,19 +67,17 @@ Located between the aft main turrets is a deck area and catapult for one Aichi E
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
 
-Aside from perhaps the Scharnhorst, there is no better ship when it comes to aggressive capital ship gameplay. While the {{PAGENAME}} has the ability to snipe passively, the Hyuga simply is more specialized in that role over the Kongo. It is best to lean into the {{PAGENAME}}'s advantages, and play like the battlecruiser that she was originally designed as. Her speed allows her to keep pace with friendly cruisers, while her exceptional gun arcs on the rear turrets (±150°) allow her to make the most of her somewhat lacklustre armour, as well as maintaining the ability to deliver full broadsides while sailing into combat. In addition, her AA is an extremely useful asset, as it allows her to be self-sufficient in combat, instead of relying on teammates for AA support. 
+Aside from perhaps the Scharnhorst, there is no better ship when it comes to aggressive capital ship gameplay. While the {{PAGENAME}} has the ability to snipe passively, the Hyuga simply is more specialized in that role over the Kongo. It is best to lean into the {{PAGENAME}}'s advantages, and play like the battlecruiser that she was originally designed as. Her speed allows her to keep pace with friendly cruisers, while her exceptional gun arcs on the rear turrets (±150°) allow her to make the most of her somewhat lacklustre armour, as well as maintaining the ability to deliver full broadsides while sailing into combat. In addition, her AA is an extremely useful asset, as it allows her to be self-sufficient in combat, instead of relying on teammates for AA support.
 
-Overall, the Kongo is the most efficient ship in the game when it comes to delivering devastating firepower to the enemy. Don't sit passively - put your ship on the line and don't be too afraid to engage in brawls, despite her light protection. Her armour is not good enough to let her speed and firepower do the rest due to lack of armor. 
+Overall, the Kongo is the most efficient ship in the game when it comes to delivering devastating firepower to the enemy. Don't sit passively - put your ship on the line and don't be too afraid to engage in brawls, despite her light protection. While she isn't exactly a very well protected capital ship, her armour is good enough to let her speed and firepower do the rest.
 
 '''Specific enemies worth noting'''
 
 * [[:Category:Heavy cruisers|Heavy cruisers]] - Most cruisers are completely incapable of doing significant damage to you, but if left to their own devices they will eventually chip away at you. Learn their ammunition locations, and dispose of them quickly with SAP. Also, keep in mind which enemy cruisers are armed with torpedoes, and keep them at arms length.
-* Light cruisers - Most cruisers can kill you with HE shells by shooting your center and foredeck due to no armor.
-* Destroyers - Some of the destroyers like Moffet can easily kill you due to no armor. Remember without armor, any type of HE shell can punch though your center and foredeck so better hide behind your teammates.
-* [[Scharnhorst]] - The Scharnhorst is the Kongo's biggest rival, boasting heavier armour and a lower profile hull, while having weaker but more rapid firing armament. Approach them with caution, aiming to disable turrets, and preferably have backup from your team. Never brawl them, as the Scharnhorst's torpedoes will be decisive. 
+* [[Scharnhorst]] - The Scharnhorst is the Kongo's biggest rival, boasting heavier armour and a lower profile hull, while having weaker but more rapid firing armament. Approach them with caution, aiming to disable turrets, and preferably have backup from your team. Never brawl them, as the Scharnhorst's torpedoes will be decisive.
 * [[USS Arizona]] - The USS Arizona is extremely durable, and their broadside of twelve 356 mm guns is very imposing. However, her Achilles' heel is her reload. Knocking out turrets and dodging incoming fire from an Arizona will cripple their damage output, while you can bombard them until they eventually explode.
 * [[IJN Hyuga]] - Essentially having your guns, but four more of them, the Hyuga has the deadliest broadside in the game. Chip away from them at long range, and make sure you do not get hit in return. If the Hyuga is playing passively, use your speed to flank and attack from an unexpected direction.
-* [[Kronshtadt]] - This Soviet battlecruiser is another key rival, possessing a total of nine highly lethal 305 mm cannons in three triple turrets. This ship has a very effective armour layout that can significantly reduce damage when angled, especially at longer ranges, whilst the anti-frag armour and lack of deck clutter renders the vessel quite resistant to fragmentation damage from explosions. It's best to face these ships by focusing on the frontal turrets and taking them out before they can cripple or destroy you first. Ignoring fire coming from this ship is a great way to get blown up. 
+* [[Kronshtadt]] - This Soviet battlecruiser is another key rival, possessing a total of nine highly lethal 305 mm cannons in three triple turrets. This ship has a very effective armour layout that can significantly reduce damage when angled, especially at longer ranges, whilst the anti-frag armour and lack of deck clutter renders the vessel quite resistant to fragmentation damage from explosions. It's best to face these ships by focusing on the frontal turrets and taking them out before they can cripple or destroy you first. Ignoring fire coming from this ship is a great way to get blown up.
 
 === Pros and cons===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -97,8 +92,6 @@ Overall, the Kongo is the most efficient ship in the game when it comes to deliv
 '''Cons:'''
 
 * Extremely weak underwater protection, vulnerable to large calibre diving shots from heavy cruiser or above
-* Foredeck has no armor
-* Centre has no armor
 * Subject to flooding and capsizing in addition due to aforementioned weakness
 * 25 mm guns don't have good range - may fire on a target too late, or not at all if at high altitude
 * 127mm batteries are categorized into AAA group and hence no combined manual control or ammo options

@@ -6,7 +6,6 @@
 {{Specs-Card
 |code=a_4e_late_iaf
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage_{{PAGENAME}}.jpg}}
-|store=10591
 }}
 
 == Description ==
@@ -239,11 +238,11 @@ The goal in this plane is to attack ground and keep the 15-minute timer constant
 
 '''Cons:'''
 
-* In SB, the seating position is very low. without manual adjustment it will feel like you are sitting in a bath tub
+* In SB, the seating position is very low. Without manual adjustment it will feel like you are sitting in a bath tub
 * In SB, the rear visibility is not great
-* In SB, a pilot will have to constantly be at the controls due to the wild changes in pitch and lift the plane experiences
+* In SB, the pilot will have to constantly be at the controls due to the wild changes in pitch and lift the plane experiences
 * Turning requires a high angle of attack which bleeds airspeed extremely quickly
-* The plane performs worse in a sustained Rate Fight compared to its main adversaries
+* The plane performs worse in a sustained rate fight compared to its main adversaries far outperforming the aircraft
 * The plane has a tendency to rip its wings if forced to withstand 10 Gs or more for extended periods of time
 
 == History ==
@@ -260,6 +259,7 @@ The impressive performance of the A-4H eventually led Israel to purchase a large
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=a_4e_late_iaf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -268,6 +268,7 @@ The impressive performance of the A-4H eventually led Israel to purchase a large
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[A-4 (Family)]]
 
 == External links ==

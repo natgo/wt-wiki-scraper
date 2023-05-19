@@ -125,8 +125,10 @@ In most cases, wheeled vehicles don't feature heavy duty protection so as to not
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
 * [https://live.warthunder.com/feed/camouflages/?vehicle=cn_hj_9 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+;Videos
+{{Youtube-gallery|2QdxhMAGn6o|'''The Shooting Range #353''' - ''Metal Beasts'' section at 00:24 discusses the {{PAGENAME}}.}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

@@ -31,10 +31,10 @@ At first glance, aside from having the LSK's emblem (East German Air Force), the
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 2,191 || 2,188 || rowspan="2" | {{Specs|ceiling}} || 36.6 || 37.0 || 135.4 || 130.7 || rowspan="2" | 750
+| 2,182 || 2,172 || rowspan="2" | {{Specs|ceiling}} || 36.6 || 37.0 || 132.5 || 125.5 || rowspan="2" | 750
 |-
 ! Upgraded
-| 2,209 || 2,200 || 35.4 || 36.0 || 176.4 || 155.0
+| 2,220 || 2,200 || 35.4 || 36.0 || 179.3 || 155.0
 |-
 |}
 

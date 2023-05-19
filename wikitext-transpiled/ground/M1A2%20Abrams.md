@@ -201,6 +201,7 @@ The M1A2 and its sub-variants are the most advanced modifications of the Abrams 
 File:M1A2 Cobra King II Hangar.png|<small>Cobra King II, prepped for combat.</small>
 File:M1A2 on Kursk.png|<small>Angel of Death, scanning the horizon on Kursk.</small>
 File:M1A2 Allied Spirit VIII camouflage.jpg|<small>Unlockable Allied Spirit VIII skin representing US Army units in Europe, 2018.</small>
+File:ArtImage2 M1A2 Abrams.png|<small>M1A2 Abrams in the desert.</small>
 </gallery>
 
 ;Videos

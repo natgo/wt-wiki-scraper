@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American battleship {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+The '''{{Specs|name}}''' is one of two Pennsylvania-class battleships built for the US Navy, laid down in 1914 and commissioned in late 1916. She saw only stateside service during hostilities in the First World War, but notably escorted President Woodrow Wilson on his way to the Paris Peace Conference at the end of the war. She then mostly served in a training capacity until the beginning of the American involvement in WW2, where she was tragically sunk in a massive explosion, and still lies in Pearl Harbor today.
 
-USS Arizona serves as the flagship of the American bluewater fleet in War Thunder. She has thick armour and the firepower from her main battery to command respect. With a reasonable anti-aircraft battery and torpedo bulges, USS Arizona is a survivable high-ranking battleship for USN captains.
+She was introduced in [[Update "Wind of Change"]], and gains an extra two guns to her main battery compared to the preceding [[USS Nevada]], this places her as the battleship with the greatest broadside in the American Bluewater fleet currently. In exchange, as she is in her 1938 refit, she has less secondary and anti-aircraft capability in comparison to the 1944 refit of Nevada. That firepower comes with an extremely long reload of 40 seconds; splitting the battery is a necessity when engaging multiple enemies.
 
 == General info ==
 === Survivability and armour ===
@@ -74,7 +74,7 @@ The AP shell has an impressive penetration with 637 mm at 1 km and 444 mm at 10 
 
 USS Arizona has a secondary battery consisting of 12 x {{Annotation|5-inch|127 mm}} casemate single-mount guns. They're arranged 6 per side and add a small but noticeable degree of firepower when dealing with smaller vessels, usually PT boats up to light cruisers.
 
-The guns have a maximum reload of 6.7 seconds with an aced crew, and are especially helpful to make up for the long time between reloads of the main battery. It is recommended to fire the APC shell, as it contains only 10 grams less explosive mass for almost 80 additional mm of pen, a very worthy trade. Captains of the USS Arizona are advised to use the "main and auxiliary calibre shooting with one button" control, as without this fire from the secondary battery will be much less accurate. 
+The guns have a maximum reload of 6.7 seconds with an aced crew, and are especially helpful to make up for the long time between reloads of the main battery. It is recommended to fire the APC shell, as it contains only 10 grams less explosive mass for almost 80 additional mm of pen, a very worthy trade. Captains of the USS Arizona are advised to use the "main and auxiliary calibre shooting with one button" control, as without this fire from the secondary battery will be much less accurate.
 
 {{:5 inch/51 Mk.7 (127 mm)/Ammunition|5-inch Mk.15 common, 5 inch APC}}
 
@@ -91,7 +91,7 @@ USS Arizona's AA defence consists of a battery of 8 x 5 inch/25 (127mm) guns fir
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
 
-The USS Arizona plays similar to most other battleships that are currently in-game, with one major caveat: the reload time. It is substantially longer at 1.5 rounds per minute compared to the average for battleships of around 2 RPM without an increase of firepower over other Battleships. Even with an ace crew, the crew will still take 40 seconds to reload the main guns. So while sailing out the USS Arizona, be conscious of the reload state and maintain a higher than usual awareness of threats. Ships with a fast reload such as [[Parizhskaya kommuna]], [[SMS Bayern]], and especially ships such as [[Kronshtadt]], [[USS Alaska]] and [[Scharnhorst]] should be priority targets for captains of the Arizona. All will easily beat the reload rate of USS Arizona, and the last three of the ships mentioned all at least have double the rate of fire, and will quickly deal damage if the captain of USS Arizona is unprepared to deal with the situation.
+The USS Arizona plays similar to most other battleships that are currently in-game, with one major caveat: the reload time. It is substantially longer at 1.5 rounds per minute compared to the average for battleships of around 2 RPM without an increase of firepower over other Battleships. Even with an ace crew, the crew will still take 40 seconds to reload the main guns. So while sailing out the USS Arizona, be conscious of the reload state and maintain a higher than usual awareness of threats. Ships with a fast reload such as [[Parizhskaya kommuna]], [[SMS Bayern]], and especially ships such as [[Kronshtadt]], [[USS Alaska]] and [[Scharnhorst]] should be priority targets for captains of the Arizona. All will easily beat the reload rate of USS Arizona, and the last three of the ships mentioned all at least have double the rate of fire, and will quickly deal damage if the captain of USS Arizona is unprepared to deal with the situation. It should also be noted that the reload penalty while repairing can severely reduce the already pitiful rate of fire, so perhaps refrain from initiating a repair right before firing. 
 
 For dealing with smaller targets, binding the "ranging shot" control helps immensely, allowing you to fire one turret at a time instead of firing an entire salvo at a singular target. HE is recommended for lightly-armoured targets ranging from destroyers to light cruisers, as AP will simply over-penetrate and do little to no damage. The HE can cause holes and massive flooding on lightly-armoured ships and can help to more easily dispatch of enemy vessels. Arizona certainly does the most damage out of any of the American battleships if the shots land, but will be held back with the lack of SAP shells and fire-rate. The speed of the ship is average compared to other battleships of the Dreadnought era at {{Annotation|21 knots|39 km/h}}, but on maps with capture zones, she will struggle to make it to capture points before the game is decided most of the time, therefore the floatplane can be utilized to capture objectives once unlocked, as it can make or break a match.
 
@@ -109,7 +109,7 @@ The strategy of sitting close to still for more stable shots like in other battl
 '''Cons:'''
 
 * Lacking armour for secondary battery
-* Extremely slow turret traverse 
+* Extremely slow turret traverse
 * Slow main battery reload
 * Lacklustre high-explosive ammunition; no SAP rounds
 

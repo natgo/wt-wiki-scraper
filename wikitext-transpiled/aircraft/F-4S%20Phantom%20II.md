@@ -207,12 +207,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 * Can carry 8 air-to-air missiles
 * Can take off and land on aircraft carrier
+* A wide range of suspended armaments, suitable for any playstyle
 
 '''Cons:'''
 
 * Doesn't have an internal gun
-* The external gunpod negatively affects flight performance
-* Somewhat large target
+* The external gun pod negatively affects flight performance
+* Quite large and heavy compared to other fighters at its rank
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

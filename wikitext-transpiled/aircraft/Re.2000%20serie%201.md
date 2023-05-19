@@ -111,8 +111,8 @@ If an enemy is below, dive down and attack. If you overshoot them, conduct a yo-
 
 Some enemies to be concerned about are:
 
-* Spitfires: The early versions carrying eight machine guns in their wings and will likely out turn you.
-* P-26s: Especially the version that carries a 12.7 mm M2 Browning machine gun.
+* [[Spitfire (Family)|Spitfire]]: The early versions carrying eight machine guns in their wings and will likely out turn you.
+* [[P-26 (Family)|P-26]]: Especially the version that carries a 12.7 mm M2 Browning machine gun.
 * Any biplane: Most of these are very good turners. They can earn back speed after multiple turns very quickly, so in a dogfight, the Re.2000 might feel sluggish. Don't get baited into these turn fights and instead use the speed/climb to fly away towards an advantageous position to attack.
 
 When going against the Re.2000 serie 1, one will find head-ons effective against a Re.2000 since it only has two 12.7s machine guns. If you're in a head-on against one, shoot a small burst, and escape with a barrel roll. If one is on your six, either run away at high speed or make some speed costly manoeuvres, and turn onto his six. Never try to follow one in a climb, and if one is diving on you, you can dodge it easily due to its control stiffening and average roll rate.

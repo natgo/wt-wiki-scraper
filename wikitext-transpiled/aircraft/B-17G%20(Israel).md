@@ -135,9 +135,27 @@ The '''''{{PAGENAME}}''''' is defended by:
 
 '''Pros:'''
 
+strong gun placement
+
+50 cal velocity is adequate for shooting down fighters
+
+more than enough bombs to take out a base even in full uptiers 
+
+relatively strong airframe vs many of the common calibers found at its br 
+
 *
 
 '''Cons:'''
+
+weak wings (they will rip in most maneuvers more that 4gs)
+
+weak to long ranged attacks from higher caliber/velocity rounds due to its size
+
+rear gunner/ball gunner susceptible to getting knocked out 
+
+ball gunner reloads frequently
+
+slow speed vs many common german bombers
 
 *
 
@@ -160,6 +178,7 @@ The three IAF B-17Gs continued to serve until 1953, during which time the IAF ma
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=b-17g_iaf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -168,6 +187,7 @@ The three IAF B-17Gs continued to serve until 1953, during which time the IAF ma
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[B-17 (Family)]]
 
 == External links ==

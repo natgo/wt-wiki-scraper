@@ -157,7 +157,7 @@ When focusing entirely on a ground attack role, the ITP performs best as a dive-
 '''Pros:'''
 
 * Powerful armament can destroy large targets with just a quick burst
-* Fairly manoeuvrable at higher speeds
+* Impressive manoeuvrability, especially at higher speeds
 * Versatile 37 mm cannon can load Armoured targets belts, capable of penetrating up to 60 mm of armour
 * Can carry bombs and rockets, allowing it to play a CAS role in ground battles
 * Great climb rate, can manage 30 degrees climb with WEP

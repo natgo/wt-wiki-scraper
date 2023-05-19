@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ({{Annotation|九七式中戦車 改「チハ」|Kyūnana-Shiki Chū-Sensha Kai [Chi-Ha]}}) is a twitch drop varriation of the [[Chi-Ha Kai]], only differing in offering a different default camouflage.
+The '''{{Specs|name}}''' ({{Annotation|九七式中戦車 改「チハ」|Kyūnana-Shiki Chū-Sensha Kai [Chi-Ha]}}) is a Twitch drop variation of the [[Chi-Ha Kai]], only differing in offering a different default camouflage.
 
 It was introduced during [[Update "Ixwa Strike"]] as a reward for watching the [https://ad.games.dmm.com/warthunder_tournament001/index.html Japan Tournament 2021] on [https://www.twitch.tv/ Twitch.tv].
 

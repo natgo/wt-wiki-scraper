@@ -10,7 +10,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The OF-40 MTCA is based on the OF-40 MK2 also made by OTO Melara, that is availble for research in the tree. The main difference between the two being the mobility as the MTCA has access to a much better engine. The MTCA also comes with a unique skin based on the OF-40's OTO Melara exported to the UAE. It does not have access to thermals but does have access to NVD. The same weakspots of the previous OF-40's remain. The MTCA can reach to spots on the maps much quicker than other vehicles at its battle rating so playing agressively or even flanking with this tank can be effective.
+The OF-40 MTCA is based on the [[OF-40 Mk.2A]], also made by OTO Melara, and fitted with a new Fiat MTCA V-12 1,000 hp engine, greatly improving mobility of the vehicle.
+
+Introduced in [[Update 1.89 "Imperial Navy"]], the MTCA can reach to spots on the maps much quicker than other vehicles at its battle rating, so playing aggressively or even flanking with this tank can be effective. However, the same weakspots of the previous OF-40's remain. It also does not have access to thermals but does have access to NVD. The MTCA also comes with a unique skin based on OF-40s exported to the UAE.
+
+The OF-40 MTCA was removed from [[wt:en/news/6201-shop-of-40-mk-2-mtca-pre-order-en|sale]] in the Gaijin store after the [[wt:en/news/7674-shop-may-sale-en|2022 May sale]], and was reintroduced as a Golden Eagle {{ge}} premium in [[Update "Danger Zone"]].
 
 == General info ==
 === Survivability and armour ===

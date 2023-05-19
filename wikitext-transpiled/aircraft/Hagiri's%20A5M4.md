@@ -11,9 +11,9 @@
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 
-This [[A5M4]] (W-102) was piloted by the Japanese pilot Matsuo Hagiri during his time in the fighter squadron on the Sōryū aircraft carrier. He would become an ace during the Second Sino-Japanese War and in the Pacific theatre of World War II. His early successes came in the skies over China where he shot down 8 Chinese aircraft, with both his A5M4 (W-102) and an [[A6M]] which he was piloting as part of combat trials with other high-ranking Navy pilots.
+This '''[[A5M4]] (W-102)''' was piloted by the Japanese pilot '''Matsuo Hagiri''' during his time in the fighter squadron on the Sōryū aircraft carrier. He would become an ace during the Second Sino-Japanese War and in the Pacific theatre of World War II. His early successes came in the skies over China where he shot down 8 Chinese aircraft, with both his A5M4 (W-102) and an [[A6M]] which he was piloting as part of combat trials with other high-ranking Navy pilots.
 
-In War Thunder, the A5M4 translates exactly over from reality, leading in monoplane manoeuvrability at the early ranks, allowing the pilot to evade and manoeuvre around its adversaries, as well as a decent airframe that can take a beating from regular munitions. However, it does lack in damage output, being equipped with only two 7.7 mm machine guns. It was introduced in [[Update 1.31]].
+The '''{{Specs|name}}''' was introduced in [[Update 1.31]] and translates exactly over from reality, leading in monoplane manoeuvrability at the early ranks. It allows the pilot to evade and manoeuvre around their adversaries, as well as presenting a decent airframe that can take a beating from regular munitions. However, it lacks in damage output, being equipped with only two 7.7 mm machine guns.
 
 == General info ==
 === Flight performance ===
@@ -251,9 +251,19 @@ Matsuo Hagiri A5M4.jpg||Japanese aviators pose in front of Matsuo Hagiri's A5M4,
 {{Youtube-gallery|WuYBwpr1V5g|'''Premium Review. Hagiri's A5M4. Outdated and replaced''' - ''Joseph 2000''|vW1is6U5wy4|'''Hagiri's A5M4 (Patch 1.31 New Plane) (Iwo Jima)''' - ''BaronVonGamez''}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;Related development
+* [[A5M4]]
+
+;Aircraft of comparable role, configuration and era
+* [[Ki-27 otsu]]
+* [[F2A (Family)]]
+* [[P-26 (Family)]]
+* [[G.50 (Family)]]
+* [[I-16 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

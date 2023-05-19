@@ -134,8 +134,7 @@ A prototype was completed by August 1944 and five more models were to be complet
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
-* [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_5_ho_ri_prototype Skins and Camouflages for the Ho-Ri Prototype in live.warthunder.com]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_5_ho_ri_prototype Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|ty1HJQ71nzI|'''Premium Vehicles: Type 5 Ho-Ri''' - ''War Thunder Wiki''}}

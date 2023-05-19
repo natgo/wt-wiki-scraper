@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=germ_panzerbefelhswagen_VI_P
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -179,7 +179,8 @@ However, several (at least ten) bodies of the future Porsche tank were built in 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_panzerbefelhswagen_VI_P Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
-* [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
+* [https://live.warthunder.com/post/675135/en/ RideR2's Realistic and semi-realistic gunsight reticles for German vehicles.]
+* [https://live.warthunder.com/post/1043715/en/ Caff_Gunner's (Germany) Historical and semi-historical gun reticles.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

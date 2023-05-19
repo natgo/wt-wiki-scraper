@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Japanese fighter {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
+The '''Ki-27 otsu''' is of the 4th Sentai based in the Japanese '''Tachiarai''' Air Base, located in Fukuoka, Kyūshū. Established in 1919 and in 1940 as an Army Flight School, it trained all new Army pilots to be ready for aerial combat over the skies of Asia.
+
+The '''{{Specs|name}}''' was introduced in [[Update "Starfighters"]]. Serving as a very good example of what to expect from the Japanese air tree, the Ki-27 excels in manoeuvrability above all else, having average survivability with lacklustre firepower.
 
 == General info ==
 === Flight performance ===

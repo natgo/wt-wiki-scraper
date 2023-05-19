@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American battleship {{Battle-rating}}. It was introduced in [[Update "New Power"]].
+The '''{{Specs|name}}''' is one of two Delaware-class battleships laid down for the US Navy. Laid down in 1907, she would be commissioned in 1910. The Delaware class were the first battleships constructed after the size limit of 16,000 tons imposed by the US Congress; as such USS North Dakota was much stronger than the preceding battleships, and along with her sister ship were the first American battleships to exceed 20,000 tons. North Dakota didn't see action during World War One, and while she was present during the occupation of Veracruz in 1914, she did not see any combat. She would be decommissioned under the Washington Naval Treaty and served as a radio-controlled target ship until she was scrapped in 1931.
+
+Introduced in [[Update "New Power"]], USS North Dakota was the first battleship added to the American Bluewater fleet. As a contemporary of [[HMS Dreadnought]], North Dakota has ten 12-inch guns, the weakest of the American battleships but still respectable for her rank. In her 1919 refit, she has essentially no anti-aircraft defences, and captains should be wary of enemy air, and attempt to sail with an escort when possible for protection.
 
 == General info ==
 === Survivability and armour ===

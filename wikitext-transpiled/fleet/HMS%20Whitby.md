@@ -31,7 +31,6 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British frigate {{Batt
 {{main|4.5 inch/45 QF Mark IV (114 mm)}}
 
 ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.''
-[[File:Sector Whitby.png|thumb|HMS Whitby's firing sector]]
 
 {{:4.5 inch/45 QF Mark IV (114 mm)/Ammunition|4.5 inch HE, 4.5 inch SAP, 4.5 inch HE-TF, 4.5 inch HE-VT}}
 
@@ -64,11 +63,9 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British frigate {{Batt
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
-
 *
 
 '''Cons:'''
-
 *
 
 == History ==
@@ -84,7 +81,6 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British frigate {{Batt
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -93,7 +89,6 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British frigate {{Batt
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
-
 * ''topic on the official game forum;''
 * ''other literature.''
 

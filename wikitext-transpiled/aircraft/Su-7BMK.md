@@ -6,7 +6,6 @@
 {{Specs-Card
 |code=su-7bmk
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage_{{PAGENAME}}_001.jpg|StoreImage_{{PAGENAME}}_003.jpg|StoreImage_{{PAGENAME}}_005.jpg}}
-|store=10173
 }}
 
 == Description ==
