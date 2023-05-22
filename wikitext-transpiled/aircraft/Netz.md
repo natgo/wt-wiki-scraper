@@ -215,6 +215,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * G limit
 
 * Cannot pull tight turns at high speed
+* No radar guided AAMs
 
 *
 
@@ -247,6 +248,7 @@ Israel did at one point attempt to produce its own 4th-generation multi-role fig
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[F-16 (Family)]]
 
 == External links ==

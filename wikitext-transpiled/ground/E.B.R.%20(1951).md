@@ -62,7 +62,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French light tank {{Battle-rat
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 47 || rowspan="2" | -8°/+15° || rowspan="2" | ±180° || rowspan="2" | N/A || 24.8 || 34.3 || 41.6 || 46.0 || 48.9 || rowspan="2" | 7.80 || rowspan="2" | 6.90 || rowspan="2" | 6.36 || rowspan="2" | 6.00
+| rowspan="2" | 60 || rowspan="2" | -10°/+15° || rowspan="2" | ±180° || rowspan="2" | - || 24.8 || 34.3 || 41.6 || 46.0 || 48.9 || rowspan="2" | 7.80 || rowspan="2" | 6.90 || rowspan="2" | 6.36 || rowspan="2" | 6.00
 |-
 ! ''Realistic''
 | 15.5 || 18.2 || 22.1 || 24.4 || 26.0
@@ -70,11 +70,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French light tank {{Battle-rat
 |}
 
 ==== Ammunition ====
-{{:SA49 (75 mm)/Ammunition|M72 shot, M48 shell, M61 shot, M89}}
+{{:SA49 (75 mm)/Ammunition|M72 shot, M48 shell, M89, M61 shot}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks_E.B.R._(1963).png|right|thumb|x250px|[[Ammo racks]] of the E.B.R. (1963) (identical).]]
-<!-- '''Last updated: 2.11.0.71''' -->
+<!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
+<!-- '''Last updated:''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -84,16 +84,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French light tank {{Battle-rat
 ! 4th<br>rack empty
 ! 5th<br>rack empty
 ! 6th<br>rack empty
-! 7th<br>rack empty
-! 8th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''47''' || 42&nbsp;''(+5)'' || 31&nbsp;''(+16)'' || 28&nbsp;''(+19)'' || 25&nbsp;''(+22)'' || 16&nbsp;''(+31)'' || 13&nbsp;''(+34)'' || 10&nbsp;''(+37)'' || 1&nbsp;''(+46)'' || No
+| '''60''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
 |-
 |}
-'''Notes''':
-
-* Shells are modeled individually and disappear after having been shot or loaded.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
@@ -106,7 +101,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French light tank {{Battle-rat
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 4,950 (150) || 551 || N/A || N/A
+| Coaxial || 4,950 (150) || 551 || - || -
 |-
 |}
 
@@ -129,7 +124,7 @@ This wheeled light tank is extremely fast, a feature which is very useful for fl
 
 '''Cons:'''
 
-* Relies on roads heavily as mobility on loose surfaces is quite poor 
+* Relies on roads heavily as mobility on loose surfaces is quite poor
 * Thin side armour can be penetrated by anything more powerful than .30 cals: heavy MGs and autocannons (e.g. [[M16 MGMC]], [[Wirbelwind]]) are considerably dangerous
 * Steering radius is quite large, navigation in confined environment can be awkward
 * M61 shell cannot reliably penetrate tanks like [[StuG III G]], [[T14]], [[KV-1E]]

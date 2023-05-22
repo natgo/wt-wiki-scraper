@@ -313,8 +313,8 @@ The Rolls-Royce Spey engines gave British Phantoms notably different performance
 ;Aircraft of comparable role, configuration and era
 
 * Mikoyan-Gurevich [[MiG-21 (Family)]]
-* SAAB [[J35D]] ''Draken''
-* Dassault [[Mirage IIIC]]
+* [[SAAB 35 Draken (Family)]]
+* Dassault [[Mirage III (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

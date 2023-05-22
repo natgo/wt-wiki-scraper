@@ -36,11 +36,11 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet armoured g
 
 {{:F-34 (76 mm)/Ammunition|OF-350M naval, BR-350A naval}}
 
-=== Anti-aircraft armament ===
-{{Specs-Fleet-AA}}
+=== Secondary armament ===
+{{Specs-Fleet-Secondary}}
 {{main|DShK (12.7 mm)}}
 
-''An important part of the ship's armament responsible for air defence. Anti-aircraft armament is defined by the weapon chosen with the control <code>Select anti-aircraft weapons</code>. Talk about the ship's anti-air cannons and machine guns, the number of guns and their positions, their effective range, and about their overall effectiveness – including against surface targets. If there are no anti-aircraft armaments, remove this section.''
+''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.''
 
 * '''Universal:''' {{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|IAI|Immediate-action incendiary}}
 * '''12.7 mm HE belts:''' {{Annotation|IAI|Immediate-action incendiary}}{{-}}{{Annotation|IAI|Immediate-action incendiary}}{{-}}{{Annotation|IAI|Immediate-action incendiary}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}

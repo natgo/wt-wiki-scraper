@@ -73,10 +73,11 @@
 |
 {{Tree-Arrow-Full|2}}
 | style="border-left: solid 1px #cccccc;" |
+{{Tree-Unit|p-51b_7_sweden}}
+{{Tree-Skip}}
 {{Tree-Unit|pyorremyrsky}}
 {{Tree-Skip}}
 |
-{{Tree-Unit|p-51b_7_sweden}}
 {{Tree-Skip}}
 
 {{Tree-Line|IV Rank}}

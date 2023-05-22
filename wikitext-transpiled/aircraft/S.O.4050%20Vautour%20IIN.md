@@ -81,28 +81,28 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French jet bomber
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
 |-
 | colspan="2" | SNECMA Atar 101E3 || 2
-| colspan="2" | 11,121 kg || colspan="2" | 318 kg/m<sup>2</sup>
+| colspan="2" | 11,211 kg || colspan="2" | 320 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | Max Takeoff<br>Weight
+! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
-! 8m fuel || 20m fuel || 27m fuel
+! 8m fuel || 20m fuel || 26m fuel
 |-
 | 950 kg || colspan="2" | Axial-flow turbojet
-| 12,076 kg || 13,462 kg || 14,303 kg || 21,000 kg
+| 12,166 kg || 13,573 kg || 14,393 kg || 18,505 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
-! colspan="4" | Thrust to weight ratio @ 0 m (100%)
+! colspan="4" | Thrust to weight ratio @ 0 m (110%)
 |-
-! Condition || 100% || WEP
-! 8m fuel || 20m fuel || 27m fuel || MTOW
+! Condition || 100% || 110%
+! 8m fuel || 20m fuel || 26m fuel || MGW
 |-
-| ''Stationary'' || 3,293 kgf || N/A
-| 0.55 || 0.49 || 0.46 || 0.31
+| ''Stationary'' || 3,322 kgf || 3,787 kgf
+| 0.62 || 0.56 || 0.53 || 0.41
 |-
-| ''Optimal'' || 3,628 kgf<br>(1,166 km/h) || N/A
-| 0.60 || 0.54 || 0.51 || 0.35
+| ''Optimal'' || 3,661 kgf<br>(1,166 km/h) || 4,173 kgf<br>(1,166 km/h)
+| 0.69 || 0.61 || 0.58 || 0.45
 |-
 |}
 

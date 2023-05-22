@@ -12,13 +12,12 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish jet fighter {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
 
-The JA37D is a modernized version of the [[JA37C]], introduced in the early 1990s, it served the purpose of modernizing the ageing fleet of viggens in the Swedish air force and includes various improvements over the previous variant. In game, it includes various improvements, in favour of a better pilot experience as to further improve upon BVR (Beyond Visual Range) engagements and have a better overall combat efficiency rating.
+The JA37D is a modernized version of the [[JA37C]], introduced in the early 1990s, it served the purpose of modernizing the ageing fleet of Viggens in the Swedish air force and includes various improvements over the previous variant. In game, it includes various improvements, in favour of a better pilot experience as to further improve upon BVR (Beyond Visual Range) engagements and have a better overall combat efficiency rating.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -60,8 +59,7 @@ The JA37D is a modernized version of the [[JA37C]], introduced in the early 1990
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 1,600 <!--{{Specs|destruction|body}}--> || {{Specs|destruction|gear}} || N/A || N/A || 450 || ~13 || ~3
-|
+| 1,536 <!--{{Specs|destruction|body}}--> || {{Specs|destruction|gear}} || - || - || 400 || ~13 || ~3
 |-
 |}
 
@@ -71,7 +69,7 @@ The JA37D is a modernized version of the [[JA37C]], introduced in the early 1990
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 650 || < 700 || < 900 || N/A
+| < 865 || < 700 || < 520 || -
 |-
 |}
 
@@ -79,34 +77,34 @@ The JA37D is a modernized version of the [[JA37C]], introduced in the early 1990
 {| class="wikitable" style="text-align:center"
 |-
 ! colspan="3" | Engine
-! colspan="4" | Aircraft mass
+! colspan="6" | Aircraft mass
 |-
-! colspan="2" | Engine name || Number	
-! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
+! colspan="2" | Engine name || Number
+! colspan="3" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
 | colspan="2" | Svenska Flygmotor RM8B || 1
-| colspan="2" | 10,731 kg || colspan="2" | 364 kg/m<sup>2</sup>
+| colspan="3" | 12,315 kg || colspan="3" | 334 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
+! colspan="5" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
-! 14m fuel || 20m fuel || 30m fuel
+! 14m fuel || 20m fuel || 30m fuel || 45m fuel || 48m fuel
 |-
 | 2,350 kg || colspan="2" | Afterburning low-bypass turbofan
-| 12,101kg || 12,684kg || 13,661kg || 17,800 kg
+| 13,635 kg || 14,119 kg || 15,021 kg || 16,374 kg || 16,715 kg || 19,716 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
-! colspan="4" | Thrust to weight ratio @ 0 m (WEP)
+! colspan="6" | Thrust to weight ratio @ 0 m (WEP)
 |-
 ! Condition || 100% || WEP
-! 14m fuel || 20m fuel || 30m fuel || MTOW
+! 14m fuel || 20m fuel || 30m fuel || 45m fuel || 48m fuel || MGW
 |-
-| ''Stationary'' || 6,300 kgf || 10,880 kgf
-| 0.90 || 0.86 || 0.80 || 0.61
+| ''Stationary'' || 6,800 kgf || 11,290 kgf
+| 0.83 || 0.80 || 0.75 || 0.69 || 0.68 || 0.57
 |-
-| ''Optimal'' || 6,800 kgf<br>(0 km/h) || 11,370 kgf<br>(1,400 km/h)
-| 0.93 || 0.90 || 0.83 || 0.64
+| ''Optimal'' || 6,800 kgf<br>(0 km/h) || 16,377 kgf<br>(1,250 km/h)
+| 1.20 || 1.16 || 1.09 || 1.00 || 0.98 || 0.83
 |-
 |}
 
@@ -122,11 +120,11 @@ The JA37D, being mainly used for fighter-interceptor purposes, is not equipped w
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
 |-
-| {{Tick}} || {{Tick}} || {{Cross}} || {{Cross}}
+| {{Tick}} || {{Tick}} || {{Cross}} || {{Cross}} || {{Tick}}
 |-
 |}
 === Offensive armament ===
@@ -205,7 +203,7 @@ If an enemy positions themselves directly behind you, do not hesitate to use you
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-The JA37D Viggen is an improved variant of the original JA37 Jaktviggen fighter-interceptor, The D variant of the Viggen first began its production in 1993 and served the Swedish airforce until 2006, with its last flight being in December 2007 during a special air show for the Swedish Air Force. The JA37D features improved, avionics, software systems of the previous JA37C, as a modernization for the ageing airframes. 
+The JA37D Viggen is an improved variant of the original JA37 Jaktviggen fighter-interceptor, The D variant of the Viggen first began its production in 1993 and served the Swedish airforce until 2006, with its last flight being in December 2007 during a special air show for the Swedish Air Force. The JA37D features improved, avionics, software systems of the previous JA37C, as a modernization for the ageing airframes.
 
 However one of the main changes for the D variant, were the compatibility to equip and use the Rb 99 Air-To-Air Missile (Swedish designation for the AIM-120 AMRAAM). It could also be equipped with a external ECM pod designated as the "Störkapsel U95".<ref>https://sv.wikipedia.org/wiki/JA_37</ref><ref>https://www.aef.se/Flygvapnet/Notiser/JA37_Notis_2.htm</ref>  This allowed it to serve until the late 2000s, before being completely replaced by the more advanced JAS 39 Gripen jet fighter.
 
@@ -238,5 +236,6 @@ File:JA37D cockpit lower half.jpg|<small>Interior cockpit instruments view insid
 * [https://forum.warthunder.com/index.php?/topic/524326-ja-37d-active-radar-viggen/ Ja 37D - Active radar Viggen suggestion]
 * [[wikipedia:Saab_37_Viggen#Variants|[Wikipedia] Saab 37 Viggen - Variants]]
 
+{{AirManufacturer Saab}}
 {{Sweden jet aircraft}}
 <references />

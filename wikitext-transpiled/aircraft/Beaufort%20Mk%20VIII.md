@@ -58,7 +58,7 @@ Overall, this is a great low-rank bomber and easily able to turn the tide of any
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 415 || 383 || 216 || ~7 || ~3
+| 523 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 415 || 383 || 216 || ~7 || ~3
 |-
 |}
 

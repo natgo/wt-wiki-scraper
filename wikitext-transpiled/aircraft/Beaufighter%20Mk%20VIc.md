@@ -60,7 +60,7 @@ The Beaufighter Mk VIc is very stable because of its large size and 2 engines. I
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 354 || 242 || 216 || ~8 || ~4
+| 676 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 354 || 242 || 216 || ~8 || ~4
 |-
 |}
 
@@ -71,28 +71,6 @@ The Beaufighter Mk VIc is very stable because of its large size and 2 engines. I
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
 | < 330 || < 390 || < 410 || > 310
-|-
-|}
-
-{| class="wikitable" style="text-align:center"
-|-
-! colspan="3" | Compressor (RB/SB)
-|-
-! colspan="3" | Setting 1
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 1,447 m || 1,400 hp || 1,568 hp
-|-
-! colspan="3" | Setting 2
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 4,310 m || 1,300 hp || 1,456 hp
 |-
 |}
 

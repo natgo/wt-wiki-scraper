@@ -82,23 +82,21 @@ The gun is clearly the biggest quality of the {{PAGENAME}} as it can take down a
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated: 2.9.0.17''' -->
+<!-- '''Last updated: 2.25.1.112''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
 ! 1st<br>rack empty
 ! 2nd<br>rack empty
-! 3rd<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''37''' || 25&nbsp;''(+12)'' || 13&nbsp;''(+24)'' || 1&nbsp;''(+36)'' || Yes
+| '''37''' || 25&nbsp;''(+12)'' || 1&nbsp;''(+36)'' || No
 |-
 |}
 '''Notes''':
 
-* Shells are modeled individually and disappear after having been shot or loaded.
-* The visual discrepancy concerns the crossed out shells: they are modeled but missing when in-game.
-* Turret empty: 25&nbsp;''(+12)'' shells.
+* Shells are modelled individually and disappear after having been shot or loaded.
+* Hull empty: 25&nbsp;''(+12)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

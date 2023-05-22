@@ -52,7 +52,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet bomber {{Battle
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 291 || 279 || 220 || ~5 || ~3
+| 500 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 291 || 279 || 220 || ~5 || ~3
 |-
 |}
 

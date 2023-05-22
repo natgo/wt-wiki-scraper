@@ -84,24 +84,24 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} American strike aircraft {{Bat
 | colspan="3" | 9,106 kg || colspan="3" | 392 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="5" | Mass with fuel (no weapons load) || rowspan="2" | Max Takeoff<br>Weight
+! colspan="5" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
 ! 15m fuel || 20m fuel || 30m fuel || 45m fuel || 53m fuel
 |-
 | 1,592 kg || colspan="2" | Low-bypass turbofan
-| 10,472 kg || 10,820 kg || 11,678 kg || 12,963 kg || 13,658 kg || 19,051 kg
+| 10,472 kg || 10,820 kg || 11,678 kg || 12,963 kg || 13,658 kg || 19,479 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
 ! colspan="6" | Thrust to weight ratio @ 0 m (100%)
 |-
 ! Condition || 100% || WEP
-! 15m fuel || 20m fuel || 30m fuel || 45m fuel || 53m fuel || MTOW
+! 15m fuel || 20m fuel || 30m fuel || 45m fuel || 53m fuel || MGW
 |-
-| ''Stationary'' || 4,741 kgf || N/A
-| 0.45 || 0.44 || 0.41 || 0.37 || 0.35 || 0.25
+| ''Stationary'' || 6,315 kgf || -
+| 0.60 || 0.58 || 0.54 || 0.49 || 0.46 || 0.32
 |-
-| ''Optimal'' || 6,378 kgf<br>(200 km/h) || N/A
+| ''Optimal'' || 6,378 kgf<br>(200 km/h) || -
 | 0.61 || 0.59 || 0.55 || 0.49 || 0.47 || 0.33
 |-
 |}
@@ -213,47 +213,47 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-'''Ground RB''' 
+'''Ground RB'''
 
-Ground RB is where the A-7E truly shines. Its poor flight performance and manoeuvrability is less of an issue due to a lessened fighter presence. In Ground RB, the A-7E's most potent weapon is the AGM-62A Walleye I ER guided bombs. These bombs are fire-and-forget and can still reliably hit a target point from more than five kilometers away. However, it has trouble tracking moving targets, so don’t expect to reliably hit moving targets. 
+Ground RB is where the A-7E truly shines. Its poor flight performance and manoeuvrability is less of an issue due to a lessened fighter presence. In Ground RB, the A-7E's most potent weapon is the AGM-62A Walleye I ER guided bombs. These bombs are fire-and-forget and can still reliably hit a target point from more than five kilometers away. However, it has trouble tracking moving targets, so don't expect to reliably hit moving targets.
 
-Additionally, an AN/AAR-45 Lana FLIR pod can optionally be carried in place of one Walleye guided bomb. This pod grants night vision and thermal imaging capabilities, allowing for significantly easier location of enemy vehicles. It is highly recommended to sacrifice a Walleye for the FLIR pod, as the Walleye's targeting sight uses very dark colors which at long distances make enemy tanks hard to distinguish from other common objects such as rocks. Even so, when using the FLIR pod, it can be easy to mistake dead tanks for alive tanks as they both give off generally similar thermal images. The best way to recognize an alive tank is the lack of particle effect (dead tanks are burning). 
+Additionally, an AN/AAR-45 Lana FLIR pod can optionally be carried in place of one Walleye guided bomb. This pod grants night vision and thermal imaging capabilities, allowing for significantly easier location of enemy vehicles. It is highly recommended to sacrifice a Walleye for the FLIR pod, as the Walleye's targeting sight uses very dark colors which at long distances make enemy tanks hard to distinguish from other common objects such as rocks. Even so, when using the FLIR pod, it can be easy to mistake dead tanks for alive tanks as they both give off generally similar thermal images. The best way to recognize an alive tank is the lack of particle effect (dead tanks are burning).
 
-When you first spawn in with the Walleyes, you must first gain some altitude. As the A-7E is very slow, it is essential that if you you enter directly above the battlefield, it is at higher altitudes (at the very, very least 5 kilometers) to ensure safety from enemy SAMs. Be sure to take note of who your opponent is; if you are facing China, their Tor-M1s have a long range, so to stay safe try to climb to at least 6.5 kilometers. 
+When you first spawn in with the Walleyes, you must first gain some altitude. As the A-7E is very slow, it is essential that if you you enter directly above the battlefield, it is at higher altitudes (at the very, very least 5 kilometers) to ensure safety from enemy SAMs. Be sure to take note of who your opponent is; if you are facing China, their Tor-M1s have a long range, so to stay safe try to climb to at least 6.5 kilometers.
 
-Once you are at this altitude, enter a shallow dive to point your sights down and locate targets using either the Walleye's own targeting sight or the FLIR pod. Ideally, you will be high enough that SAMs cannot reach, so you can focus mainly on locating targets. A good place to look is the enemy spawn, where SAM vehicles generally tend to reside. As they are poorly armored and usually stationary, the Walleyes inability to reliably track moving targets is less of an issue. Once you find an enemy, simply lock on to them with the bomb and drop the bomb. After this, you don't need to worry about the dropped bomb as it is fire-and-forget (no outside input is needed once it's dropped). 
+Once you are at this altitude, enter a shallow dive to point your sights down and locate targets using either the Walleye's own targeting sight or the FLIR pod. Ideally, you will be high enough that SAMs cannot reach, so you can focus mainly on locating targets. A good place to look is the enemy spawn, where SAM vehicles generally tend to reside. As they are poorly armored and usually stationary, the Walleyes inability to reliably track moving targets is less of an issue. Once you find an enemy, simply lock on to them with the bomb and drop the bomb. After this, you don't need to worry about the dropped bomb as it is fire-and-forget (no outside input is needed once it's dropped).
 
-With many strike aircraft, this is where you would pitch back up and regain your lost altitude quickly to get out of SAMs range. However, the A-7E is slow and accelerates poorly, so doing this repeatedly will make you quickly lose altitude, putting you into SAM range. Therefore, a good way to use the Walleyes is to drop most or all of them in one run, exploiting it’s fire-and-forget capability. Once at high altitude, pitch down and deploy your airbrake to give you more dive time to search for targets. Use your FLIR pod to quickly locate an enemy, and when one is found, drop a Walleye on them, and quickly rinse and repeat five more times. Once your bombs are expended, continue the dive and level out at very low altitude to avoid any SAMs. After this, you can reclimb to drop any remaining bombs, use your gun and AIM-9s for air defense, or to go back to base and rearm. 
+With many strike aircraft, this is where you would pitch back up and regain your lost altitude quickly to get out of SAMs range. However, the A-7E is slow and accelerates poorly, so doing this repeatedly will make you quickly lose altitude, putting you into SAM range. Therefore, a good way to use the Walleyes is to drop most or all of them in one run, exploiting it's fire-and-forget capability. Once at high altitude, pitch down and deploy your airbrake to give you more dive time to search for targets. Use your FLIR pod to quickly locate an enemy, and when one is found, drop a Walleye on them, and quickly rinse and repeat five more times. Once your bombs are expended, continue the dive and level out at very low altitude to avoid any SAMs. After this, you can reclimb to drop any remaining bombs, use your gun and AIM-9s for air defense, or to go back to base and rearm.
 
-'''Air RB'''  
+'''Air RB'''
 
-In Air RB, the A-7E is unfortunately extremely outclassed. Its potent ground attack capabilities offer minimal advantages in Air RB, and you are left only with its poor flight performance and bad manoeuvrability. Your best bet will be to attack ground targets in Air RB using your cannon. Don't try bombing bases as you are simply too slow; either other planes will get to the bases first, or the enemy will get to you first. 
+In Air RB, the A-7E is unfortunately extremely outclassed. Its potent ground attack capabilities offer minimal advantages in Air RB, and you are left only with its poor flight performance and bad manoeuvrability. Your best bet will be to attack ground targets in Air RB using your cannon. Don't try bombing bases as you are simply too slow; either other planes will get to the bases first, or the enemy will get to you first.
 
-Air Combat in the A-7E is hazard fraught. Against other planes at a comparable BR, your advantages are slim-to-none, and easy to counter if your opponent is aware of you and mindful. 
+Air Combat in the A-7E is hazard fraught. Against other planes at a comparable BR, your advantages are slim-to-none, and easy to counter if your opponent is aware of you and mindful.
 
-One advantage of the plane is that it does not have an afterburner, nor does it go fast enough to create a shock cone. This may enable you to start engagements with the element of surprise. In conjunction with the AIM-9G sidewinder missiles, this may be enough to secure 2 kills per battle against unaware opponents out of spotting range, as the AIM-9G modification of the sidewinder missile has a much larger engagement range compared to other IR missiles at its BR.   
+One advantage of the plane is that it does not have an afterburner, nor does it go fast enough to create a shock cone. This may enable you to start engagements with the element of surprise. In conjunction with the AIM-9G sidewinder missiles, this may be enough to secure 2 kills per battle against unaware opponents out of spotting range, as the AIM-9G modification of the sidewinder missile has a much larger engagement range compared to other IR missiles at its BR.
 
 Additionally, you have exceptional gun armament: the M61A1 Vulcan has a lightning fast fire rate, exceptional muzzle velocity, and a deep pool of ammunition. At this BR, any hit you score on an enemy plane will catastrophically damage it, and the Vulcan cannon lets you score a multitude of hits. Due to the high muzzle velocity, it may be possible to win head-on engagements against enemy aircraft which have slower bullets. A non-exhaustive list of cannons this is effective against is as follows:
 
 * The 30 mm ADEN/DEFA, including the gun in Swedish service as the Akan m/55
 * The GSh-23L and any other guns that fire 23x115 mm rounds, for example the Type 23-2K
 
-However, be aware that enemy aircraft will, in most cases, be faster than you, and will more easily evade your fire.  
+However, be aware that enemy aircraft will, in most cases, be faster than you, and will more easily evade your fire.
 
-Furthermore, your low speed can, in some occasions, enable you to cut into an enemy's turn, meaning you will make a turn with a smaller radius, in a shorter time, because you are not going as fast. This will give you a temporary, but powerful positional advantage, enabling you to put the Vulcan to best use. 
+Furthermore, your low speed can, in some occasions, enable you to cut into an enemy's turn, meaning you will make a turn with a smaller radius, in a shorter time, because you are not going as fast. This will give you a temporary, but powerful positional advantage, enabling you to put the Vulcan to best use.
 
-Unfortunately, this is where the list of advantages ends. The plane cannot generate or retain enough energy to stay competitive in a dogfight, and after a singular turn, or at most two, you will be out of energy and unable to follow your opponents' manoeuvres. This means that it is highly inadvisable to engage in a sustained rate fight with an enemy plane, as it will secure your death. 
+Unfortunately, this is where the list of advantages ends. The plane cannot generate or retain enough energy to stay competitive in a dogfight, and after a singular turn, or at most two, you will be out of energy and unable to follow your opponents' manoeuvres. This means that it is highly inadvisable to engage in a sustained rate fight with an enemy plane, as it will secure your death.
 
-To add insult to injury, the plane cannot evade engagements either, as it is too slow. This leaves the A-7E in the uncomfortable position of being quick enough to where most opponents have good control of their aircraft when lining up a shot, but not quick enough to avoid being shot. 
+To add insult to injury, the plane cannot evade engagements either, as it is too slow. This leaves the A-7E in the uncomfortable position of being quick enough to where most opponents have good control of their aircraft when lining up a shot, but not quick enough to avoid being shot.
 
-To summarize, if you must use the A-7E as a fighter, be sneaky with the missiles in the early game and secure sneaky kills on the most dangerous targets. Then, bait head-ons with opponents using slower guns, and finally, during the last phase of the battle, if you have survived this far, try to use your lower speed to gain position and finish the dogfight before it really starts. 
+To summarize, if you must use the A-7E as a fighter, be sneaky with the missiles in the early game and secure sneaky kills on the most dangerous targets. Then, bait head-ons with opponents using slower guns, and finally, during the last phase of the battle, if you have survived this far, try to use your lower speed to gain position and finish the dogfight before it really starts.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Wide variety of powerful air-to-ground payloads, including up to six AGM-62 Walleye fire-and-forget TV guided bombs 
+* Wide variety of powerful air-to-ground payloads, including up to six AGM-62 Walleye fire-and-forget TV guided bombs
 * Has thermal sights in the form of an optional FLIR pod which greatly helps in locating ground targets in mixed battles
 * Comes with an internal 20 mm M61A1 Vulcan cannon, with the option to add either more 20 mm M61A1 Vulcans or the devastating 30 mm GAU-13/A cannons as gunpods
 * Large amount of countermeasures
@@ -262,7 +262,7 @@ To summarize, if you must use the A-7E as a fighter, be sneaky with the missiles
 '''Cons:'''
 
 * Below average manoeuvrability and loses lots of speed in turns
-* Has poor top speed and acceleration for its BR, which makes it very difficult to bomb bases without being intercepted 
+* Has poor top speed and acceleration for its BR, which makes it very difficult to bomb bases without being intercepted
 * Equipping suspended ordnance further worsens its sluggish flight performance
 * When using the thermal sight, it may be hard to distinguish alive enemy tanks from destroyed tanks and fires
 * Walleye guided bombs generally have trouble locking on to moving targets, especially from medium to long ranges (>5 km)

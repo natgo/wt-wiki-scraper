@@ -8,12 +8,12 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} French fighter {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]].
 
-The D.500 is an all-metal mono-wing French aircraft with an open cockpit and fixed landing gear being built all through the mid-1930s. This fighter was France’s primary fighter aircraft until the Morane-Saulnier M.S.406 fighter replaced it in 1939. When playing Simulator Battles (or Arcade and Realistic Battles in cockpit view), this aircraft offers excellent visibility only really limiting visibility where the wings protrude out of the fuselage. This aircraft boasts 1,200 rounds of ammunition split between four machine guns which can do severe damage especially when gun convergence is between 150 and 350 m.
+The D.500 is an all-metal mono-wing French aircraft with an open cockpit and fixed landing gear being built all through the mid-1930s. This fighter was France's primary fighter aircraft until the Morane-Saulnier M.S.406 fighter replaced it in 1939. When playing Simulator Battles (or Arcade and Realistic Battles in cockpit view), this aircraft offers excellent visibility only really limiting visibility where the wings protrude out of the fuselage. This aircraft boasts 1,200 rounds of ammunition split between four machine guns which can do severe damage especially when gun convergence is between 150 and 350 m.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-<!--Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.-->
+<!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 As an early monoplane fighter, the D.500 handles quite well for a plane of its era. The aircraft's acceleration and climb rate are all quite satisfactory for a reserve fighter, though it should be noted that the sea-level top speed is quite low, at just over 300 km/h in level flight. The plane has a decent turn rate, but will not be able to out-turn manuveurable biplane fighters such as the [[I-15 (Family)|I-15]]. It should also be noted that the aircraft's engine doesn't have a WEP setting in Realistic Battles, and can overheat if left on 100% throttle for too long. The plane's control surfaces are all quite responsive and perform quite well at speeds between 250-350 km/h.
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -56,7 +56,7 @@ As an early monoplane fighter, the D.500 handles quite well for a plane of its e
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || N/A || N/A || ~13 || ~8
+| 576 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || - || ~13 || ~8
 |-
 |}
 
@@ -67,20 +67,6 @@ As an early monoplane fighter, the D.500 handles quite well for a plane of its e
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
 | < 320 || < 330 || < 360 || > 280
-|-
-|}
-
-{| class="wikitable" style="text-align:center"
-|-
-! colspan="3" | Compressor (RB/SB)
-|-
-! colspan="3" | Setting 1
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 3,800 m || 690 hp || N/A
 |-
 |}
 
@@ -109,7 +95,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 The four machine guns are arranged with the two Darne 1933 guns mounted in the nose and the two MAC 1934 guns mounted on the underside of each wing. Each are armed with the same amount of ammunition, which means that all guns will fire together until empty.
 
 == Usage in battles ==
-<!-- ''Describe the tactics of playing in an aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
+<!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 The D.500 is a good beginner aircraft for newer pilots. This airplane in the French tech tree is only one of two non-biplane aircraft offered as a reserve aircraft; the [[P-26 (Family)|P-26 Peashooter]] being the other. This aircraft is an excellent aircraft for in-close fighting. Bringing in the gun convergence between 150 and 350 m and then targeting an enemy fighter/bomber aircraft within that range or closer will allow for all four guns to do the most damage along with potentially setting alight the enemy vehicle. This aircraft can switch between attacking aircraft and ground vehicles with no problems as it is still quite manoeuvrable at lower speeds and altitudes. Long continued bursts from the guns can quickly lead to the machine guns jamming: instead, utilise short controlled bursts which should allow you to avoid that. In Arcade Battle, the relatively short ammunition reload rate (~10 seconds) will have you back in action fairly quickly. This aircraft is a very good plane in simulator battles because of its superior visibility as it has no canopy.
 
 === Manual Engine Control ===

@@ -59,7 +59,7 @@ This variant of the [[A6M]] series is a small-scale variant over the [[A6M3 mod.
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 397 || 368 || 220 || ~14 || ~6
+| 660 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 397 || 368 || 220 || ~14 || ~6
 |-
 |}
 
@@ -70,21 +70,6 @@ This variant of the [[A6M]] series is a small-scale variant over the [[A6M3 mod.
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
 | < 270 || < 420 || < 410 || > 335
-|-
-|}
-
-{| class="wikitable" style="text-align:center"
-|-
-! Compressor
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-! Setting 1
-| 1,850 m || 1,105 hp || 1,235 hp
-|-
-! Setting 2
-| 5,000 m || 985 hp || 1,101 hp
 |-
 |}
 

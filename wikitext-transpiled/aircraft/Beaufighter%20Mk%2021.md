@@ -60,7 +60,7 @@ The flight characteristics of the airplane are very similar to its predecessor, 
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 354 || 242 || 216 || ~7 || ~4
+| 676 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 354 || 242 || 216 || ~7 || ~4
 |-
 |}
 

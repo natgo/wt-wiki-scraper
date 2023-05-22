@@ -60,7 +60,7 @@ The overall flight performance of D.510C in Nationalist forces is identical to i
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || N/A || N/A || ~14 || ~8
+| 576 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || - || ~14 || ~8
 |-
 |}
 

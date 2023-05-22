@@ -11,9 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (Air Development and Test Wing) was the first and last operator of the F-4EJ in Japan until its complete decommission in 2021. The ADTW is responsible for testing and training on the newest equipment, to report on further developments for the JASDF.
+The '''{{Specs|name}}''' (Air Development and Test Wing) was the first and last operator of the F-4EJ in Japan until its complete decommission in 2021. The ADTW specialized in pre-operational testing and verification of JASDF equipment. The F-4EJ was chosen as a testing platform for the ADTW because of its reliability, versatility and long service history in Japan. The F-4EJ was also a source of pride and nostalgia for many pilots and enthusiasts.
 
-It was introduced in [[Update "Apex Predators"]]. This F-4EJ is completely identical to the researchable [[F-4EJ Phantom II]] in the tech tree.
+It was introduced in [[Update "Apex Predators"]]. This F-4EJ is completely identical to the researchable [[F-4EJ Phantom II]] in the tech tree, which in turn is a Japanese variant of the American F-4E Phantom II. It has a high versatility, as it can carry a large variety of weapons, such as bombs, rockets, air-to-air missiles and extra gunpods. The gunpods add more JM61 Vulcan cannons to the already abundant ammunition supply. However, it has a weak radar system, which limits the effectiveness of its 4 AIM-7 missiles. It also only has AIM-9P missiles as its best option for close-range combat.
 
 == General info ==
 === Flight performance ===

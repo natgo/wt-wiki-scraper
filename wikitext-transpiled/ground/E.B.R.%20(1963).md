@@ -76,7 +76,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French light tank
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated: 2.7.0.235''' -->
+<!-- '''Last updated: 2.25.1.112''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -90,12 +90,13 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French light tank
 ! 8th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''47''' || 42&nbsp;''(+5)'' || 31&nbsp;''(+16)'' || 28&nbsp;''(+19)'' || 25&nbsp;''(+22)'' || 16&nbsp;''(+31)'' || 13&nbsp;''(+34)'' || 10&nbsp;''(+37)'' || 1&nbsp;''(+46)'' || No
+| '''47''' || 45&nbsp;''(+2)'' || 42&nbsp;''(+5)'' || 33&nbsp;''(+14)'' || 24&nbsp;''(+23)'' || 21&nbsp;''(+26)'' || 18&nbsp;''(+29)'' || 12&nbsp;''(+35)'' || 1&nbsp;''(+46)'' || No
 |-
 |}
 '''Notes''':
 
-* Shells are modeled individually and disappear after having been shot or loaded.
+* Shells are modelled individually and disappear after having been shot or loaded.
+* Rack 7 and 8 are first stage ammo racks. They total 17 shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
@@ -164,6 +165,7 @@ The 75 mm APC rounds had problems with the penetration of particularly tough tar
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_panhard_ebr_1963 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

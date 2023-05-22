@@ -276,7 +276,7 @@ It will automatically detect other planes within the scanning area and display t
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 {{main|F-84G-21-RE#History|l1=History of the F-84G-21-RE}}
 
-As part of the Mutual Assistance Program for US-allied countries/regions, the ROCAF received their first jet, the F-84G series, in 1953 (ROC Year 42), and fleets of F-86s and F-104 series entered service by the late 1950s. F-84Gs have been the cornerstone of the ROCAF, and were one of the participants of the Taiwan Strait Crisis where the jet, piloted by Heinz Ouyan (歐陽漪棻; Ouyang Yifeng) on 21st July 1956, scored over 2 PLAAF MiG-17s and left the only remarkable victories of the F-84 series over Soviet-built jets.
+As part of the Mutual Assistance Program for US-allied countries/regions, the ROCAF received their first jet, the F-84G series, in 1953 (ROC Year 42), and fleets of F-86s and F-104 series entered service by the late 1950s. F-84Gs have been the cornerstone of the ROCAF, and were one of the participants of the Taiwan Strait Crisis where the jet, piloted by Heinz Ouyang (歐陽漪棻; Ouyang Yifeng) on 21st July 1956, scored over 2 PLAAF MiG-17s and left the only remarkable victories of the F-84 series over Soviet-built jets.
 
 As more advanced jets joined ROCAF rapidly by the later 1950s, the remaining combat variants of the F-84G were decommissioned by 1960 and some of these jets are now displayed at some locations across Taiwan Island.
 
@@ -298,6 +298,7 @@ As more advanced jets joined ROCAF rapidly by the later 1950s, the remaining com
 * [[F-84G-21-RE|F-84G-21-RE]]
 * [[F-84G-21-RE (Italy)]]
 * [[F-84G-26-RE (France)]]
+* [[F-84G-31-RE (China)]] - the very last block of straight-wing Thunderjet and used by Thunder Tiger Acrobatics Team
 
 ;Contemporary aircraft
 

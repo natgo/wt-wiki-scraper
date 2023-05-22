@@ -147,7 +147,7 @@ The Lorraine has almost the mobility of an M18 but with greater firepower. The r
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 At the end of the 1940s, during development of the AMX-50 heavy tank project, French engineers also decided to try creating a lighter tank that could serve the same role as the AMX-50.
 
-The project was initially designated "40 ton battle tank" with an oscillating turret on the Cannon D'assaut Lorraine's chassis. Later, the vehicle was called the Lorraine 40t, based upon the name of the region in which the experimental prototypes of it were built. The tank used many of the same technological developments of the experimental, specially the CA Lorraine but sharing also technology with the AMX-50 prototype, specifically the revolver autoloader.
+The project was initially designated "40 ton battle tank" with an oscillating turret on the Cannon D'assaut Lorraine's chassis. Later, the vehicle was called the Lorraine 40t, based upon the name of the company that developed it : Lorraine-Dietrich. The tank used many of the same technological developments of the experimental, specially the CA Lorraine but sharing also technology with the AMX-50 prototype, specifically the revolver autoloader.
 
 With armour plating at a maximum thickness of 45 mm, the Lorraine 40t isn't as well armoured as the AMX-50. The designers, however, set the armour plates on the Lorraine 40t at clever angles and implemented a chevron shape for the front of the hull (for which the tank is known). This effectively armoured the most vulnerable parts of the front projection and effectively exceeded the equivalent of 90 mm armour.
 
@@ -159,6 +159,7 @@ Two prototypes of the Lorraine 40t were completed in 1952. But the tank never re
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_lorraine_40t Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -170,6 +171,7 @@ Two prototypes of the Lorraine 40t were completed in 1952. But the tank never re
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
+
 * [[AMX M4]]
 
 == External links ==

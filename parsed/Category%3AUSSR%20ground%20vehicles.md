@@ -168,6 +168,8 @@
 {{Tree-Unit|ussr_zsu_37}}
 {{Tree-Arrow|3}}
 | style="border-left: solid 1px #cccccc;" |
+{{Tree-Unit|ussr_bm_31_12}}
+{{Tree-Skip}}
 {{Tree-Unit|ussr_t_34_57_1943}}
 {{Tree-Skip}}
 {{Tree-Unit|ussr_su_100Y}}

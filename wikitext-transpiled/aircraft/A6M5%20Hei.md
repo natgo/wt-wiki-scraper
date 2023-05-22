@@ -62,7 +62,7 @@ Due to the weight of the armour protecting the pilot and the additional heavy ma
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 397 || 368 || 220 || ~14 || ~6
+| 740 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 397 || 368 || 220 || ~14 || ~6
 |-
 |}
 

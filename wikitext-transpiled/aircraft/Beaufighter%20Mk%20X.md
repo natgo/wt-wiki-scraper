@@ -57,7 +57,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Batt
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 354 || 242 || 216 || ~7 || ~3
+| 676 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 354 || 242 || 216 || ~7 || ~3
 |-
 |}
 

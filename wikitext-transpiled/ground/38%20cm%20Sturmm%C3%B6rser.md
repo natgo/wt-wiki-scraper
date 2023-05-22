@@ -76,12 +76,14 @@ The survivability and armour of this vehicle can vary quite a lot depending on w
 ! 3rd<br>rack empty
 ! 4th<br>rack empty
 ! 5th<br>rack empty
-! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''14''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''14''' || 13&nbsp;''(+1)'' || 9&nbsp;''(+5)'' || 7&nbsp;''(+7)'' || 3&nbsp;''(+11)'' || 1&nbsp;''(+13)'' || No
 |-
 |}
+'''Notes:'''
+
+* Racks 2 and 3 have a shell set in common, as do 4 and 5
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

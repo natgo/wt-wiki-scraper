@@ -58,7 +58,7 @@ Compared to similarly tiered fighters, the AU-1 has mediocre flight performance,
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 388 || 299 || 252 || ~11 || ~4
+| 885 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 388 || 299 || 252 || ~11 || ~4
 |-
 |}
 

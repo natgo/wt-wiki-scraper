@@ -59,7 +59,7 @@ The D.521 is essentially a slightly improved version of the D.520. It has a some
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 385 || 365 || 280 || ~10 || ~9
+| 800 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 385 || 365 || 280 || ~10 || ~9
 |-
 |}
 
@@ -70,20 +70,6 @@ The D.521 is essentially a slightly improved version of the D.520. It has a some
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
 | < 400 || < 430 || < 460 || > 330
-|-
-|}
-
-{| class="wikitable" style="text-align:center"
-|-
-! colspan="3" | Compressor (RB/SB)
-|-
-! colspan="3" | Setting 1
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 4,953 m || 924 hp || 1,024 hp
 |-
 |}
 

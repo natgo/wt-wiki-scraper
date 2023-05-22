@@ -62,7 +62,7 @@ With the additional armour, this version is inherently heavier, making the aircr
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 397 || 368 || 220 || ~14 || ~6
+| 740 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 397 || 368 || 220 || ~14 || ~6
 |-
 |}
 
@@ -73,28 +73,6 @@ With the additional armour, this version is inherently heavier, making the aircr
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
 | < 280 || < 420 || < 410 || > 335
-|-
-|}
-
-{| class="wikitable" style="text-align:center"
-|-
-! colspan="3" | Compressor (RB/SB)
-|-
-! colspan="3" | Setting 1
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 2,500 m || 1,095 hp || 1,226 hp
-|-
-! colspan="3" | Setting 2
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 5,000 m || 965 hp || 1,081 hp
 |-
 |}
 

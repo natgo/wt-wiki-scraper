@@ -55,7 +55,7 @@ The D.501 is an all-metal mono-wing aircraft with an open cockpit and fixed land
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || N/A || N/A || ~13 || ~8
+| 576 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || - || ~13 || ~8
 |-
 |}
 
@@ -66,20 +66,6 @@ The D.501 is an all-metal mono-wing aircraft with an open cockpit and fixed land
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
 | < 320 || < 330 || < 360 || > 280
-|-
-|}
-
-{| class="wikitable" style="text-align:center"
-|-
-! colspan="3" | Compressor (RB/SB)
-|-
-! colspan="3" | Setting 1
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 3,800 m || 690 hp || N/A
 |-
 |}
 
@@ -110,7 +96,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 The single Hispano 404 cannon is mounted centrally in the fuselage while each of the MAC 1934 machine guns are mounted on the underside of the wing. Each of the machine guns are armed with the same amount of ammunition, which means that they will fire with each other until empty. On the other hand, the cannon only has 60 rounds of ammunition and if fired at the same time and at the same rate as the machine guns, it will run out of ammo first.
 
 == Usage in battles ==
-<!-- ''Describe the tactics of playing in an aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
+<!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 The D.501 is a French fighter which can be utilized for air-to-air combat or ground attack on light ground units (armoured vehicles and mobile AAA units). Good speed and manoeuvrability allows this aircraft to use its rudder and ailerons to roll, turn and manoeuvre out of tight spots. When going after ground units, this aircraft can make an attack and then loop up and back over down onto remaining targets with ease. The 20 mm cannon adds an extra punch which many early aircraft do not have and can be used to great effect on other aircraft, including larger bombers. However, thanks to its bad survivability, take care when engaging bombers, and remember: don't get shot at.
 
 === Manual Engine Control ===
@@ -144,7 +130,7 @@ The D.501 is a French fighter which can be utilized for air-to-air combat or gro
 * Easy to control at low speeds meaning forgiving landing characteristics for realistic / simulator
 * Open cockpit allows player to hear outside sounds easily, which is beneficial in noticing nearby enemies
 * Extremely simple to land (fixed landing gear, and no flaps)
-* The 20 mm cannons pierce the roof of low-tier tanks  
+* The 20 mm cannons pierce the roof of low-tier tanks
 
 '''Cons:'''
 

@@ -57,7 +57,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-ratin
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || N/A || N/A || ~14 || ~6
+| 580 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || - || ~14 || ~6
 |-
 |}
 
@@ -68,20 +68,6 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-ratin
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
 | < 180 || < 360 || < 260 || > 309
-|-
-|}
-
-{| class="wikitable" style="text-align:center"
-|-
-! colspan="3" | Compressor (RB/SB)
-|-
-! colspan="3" | Setting 1
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 2,900 m || 750 hp || 830 hp
 |-
 |}
 

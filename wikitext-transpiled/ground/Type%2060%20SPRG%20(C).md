@@ -5,19 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (shortened to '''{{Specs|pseudonym}}''') is a rank {{Specs|rank}} Japanese tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.65 "Way of the Samurai"]] along with the initial Japanese Ground Forces tree. The Type 60 is the first vehicle in War Thunder to implement a recoilless gun as the main armament of a vehicle.
+The '''{{Specs|name}}''' (shortened to '''{{Specs|pseudonym}}''') was a light anti-tank vehicle developed by Japan in the late 1950s. It was Japan’s first domestic combat vehicle after the Second World War. The vehicle was armed with dual 106 mm M40 recoilless rifles and was designed for ambush attacks against enemy tanks
 
-The principal role of the Type 60 SPRG is as a short-range ambushing "Tank destroyer" where it can make maximum use of its dual 106 mm M40 firepower to best effect, it is better suited to short range engagements and can find it difficult to make meaningful contributions to the team, on maps where the engagement range is far and distance.
-
-A secondary role for the Type 60 SPRG is as the budget "light" tank, it is quite nimble with a low profile enabling it to rush to caps and make use of cover, where a large vehicle would not be able to, however it is also extremely lightly armoured and most of the times it cannot properly use hull-down spots, so it is not a very good holder of the capture point.
-
-A tertiary role for the Type 60 SPRG is to make use of the "reconnaissance" function and mark opposition tanks for teammates which it can see but are too far for it to engage directly its own weapons. It also has the ability to repair allied vehicles.
-
-The secondary and tertiary roles enable the Type 60 SPRG to contribute to the team even on maps where its unable to directly attack opposition vehicles, however, it does make you heavily reliant on teammates taking advantage of your efforts to capture points or mark opposition targets, but it is possible to have decent games in this passive role.
-
-It is a small squat vehicle, most of its height comes from the raised platform that houses the twin 106 mm M40 on the left side (facing it). This raised platform enables the Type 60 to have an impressive 20° degree of gun depression combined with a 60° arc of fire to the right and left of the vehicle, however, it is also responsible for leaving an open area into the fighting compartment leaving the Commander/Gunner exposed to MG fire.
-
-Armour is non-existent on this vehicle only small areas are ~30 mm thick and capable of resisting ~50 cal MG fire, never mind opposition tanks main cannons.
+It was introduced in [[Update 1.65 "Way of the Samurai"]] along with the initial Japanese Ground Forces tree. The Type 60 is the first vehicle in War Thunder to implement a recoilless gun as the main armament of a vehicle. The principal role of the Type 60 SPRG is as a short-range ambushing "Tank destroyer" where it can make maximum use of its dual 106 mm M40 firepower to best effect, it is better suited to short range engagements and can find it difficult to make meaningful contributions to the team, on maps where the engagement range is far and distance. It does get the ability to scout out targets, which for the Type 60 SPRG can fulfill rather greatly with the small size and relatively good mobility.
 
 == General info ==
 === Survivability and armour ===

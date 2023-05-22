@@ -133,9 +133,18 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
+* decent 105mm gun with access to APFSDS
+* night fighting ability with NVD
+
 *
 
 '''Cons:'''
+
+* not very fast
+* low survivability even with ERA
+* no HMGs to defend yourself from CAS
+
 *
 
 == History ==
@@ -146,6 +155,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_magach_5 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -154,6 +164,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Magach (Family)]]
 
 == External links ==
@@ -161,6 +172,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

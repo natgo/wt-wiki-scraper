@@ -59,7 +59,7 @@ To overcome the deficiencies of the [[A6M3|A6M3 mod. 32]], the wings were redesi
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 397 || 368 || 220 || ~14 || ~6
+| 660 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 397 || 368 || 220 || ~14 || ~6
 |-
 |}
 
@@ -70,28 +70,6 @@ To overcome the deficiencies of the [[A6M3|A6M3 mod. 32]], the wings were redesi
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
 | < 310 || < 420 || < 410 || > 260
-|-
-|}
-
-{| class="wikitable" style="text-align:center"
-|-
-! colspan="3" | Compressor (RB/SB)
-|-
-! colspan="3" | Setting 1
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 2,500 m || 1,095 hp || 1,213 hp
-|-
-! colspan="3" | Setting 2
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 5,000 m || 965 hp || 1,069 hp
 |-
 |}
 

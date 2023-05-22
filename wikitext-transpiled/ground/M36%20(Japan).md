@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese tank destroyer {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]].
+The '''{{Specs|name}}''' were M36B2s assembled at the Japanese depot of Akabane to afterwards be shipped towards the Korean Peninsula to fight in the Korean War among US troops. Not meant for Japanese service, a single M36B2 was redirected towards the JGSDF for research purposes in assistance towards the domestic tank program of the Japanese, which would eventually become the [[Type 61]].
+
+It was introduced in [[Update "Danger Zone"]]. The M36B2 GMC is essentially the same as the [[M36 GMC]], with a few improvements. It has a new muzzle brake and bore evacuator that increase its penetration power. It also has a hull MG that can be used and a roof armour that is 6 mm thick. The most attractive feature of this M36 is its HEAT-FS ammunition, which can easily destroy most targets.
 
 == General info ==
 === Survivability and armour ===
