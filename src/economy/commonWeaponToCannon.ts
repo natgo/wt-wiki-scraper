@@ -154,6 +154,7 @@ export function commonWeaponToCannon(
     autoloader: Weapon.autoLoader,
     stabilizer: stab,
     shotFreq: weapon_data.shotFreq,
+    reloadTime: weapon_data.reloadTime,
     caliber: parseFloat(
       Weapon.blk
         .split("/")

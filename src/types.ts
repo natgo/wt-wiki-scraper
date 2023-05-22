@@ -1542,6 +1542,7 @@ export type Weapon = {
   maxDeltaAngle: number;
   maxDeltaAngleVertical: number;
   shotFreq: number;
+  reloadTime?: number;
   traceFreq: number;
   bEnablePause: boolean;
   bullets: number;
