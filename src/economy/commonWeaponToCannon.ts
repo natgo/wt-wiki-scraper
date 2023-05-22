@@ -153,8 +153,8 @@ export function commonWeaponToCannon(
         : Weapon.limits.pitch,
     autoloader: Weapon.autoLoader,
     stabilizer: stab,
-    shotFreq: weapon_data.shotFreq,
-    reloadTime: weapon_data.reloadTime,
+    shotFreq: Weapon.shotFreq ? Weapon.shotFreq : weapon_data.shotFreq,
+    reloadTime: Weapon.reloadTime ? Weapon.reloadTime : weapon_data.reloadTime,
     caliber: parseFloat(
       Weapon.blk
         .split("/")

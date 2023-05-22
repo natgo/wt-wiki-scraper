@@ -178,6 +178,7 @@ export interface WeaponGround {
   speedPitch: number;
   fireConeAngle?: number[] | number;
   bullets?: number;
+  shotFreq?: number;
   reloadTime?: number;
   changeBulletTypeReloadTime?: number;
   bulletsCartridge?: number;
