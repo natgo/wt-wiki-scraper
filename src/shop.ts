@@ -274,7 +274,7 @@ async function main(dev: boolean) {
       army: shopRangeFE(
         value2.army.range,
         units_lang,
-        final.ground,
+        final.army,
         rankData.needBuyToOpenNextInEra,
         country.parse(key),
         "Tank",
@@ -283,7 +283,7 @@ async function main(dev: boolean) {
       helicopters: shopRangeFE(
         value2.helicopters.range,
         units_lang,
-        final.helicopter,
+        final.helicopters,
         rankData.needBuyToOpenNextInEra,
         country.parse(key),
         "Helicopter",
@@ -292,7 +292,7 @@ async function main(dev: boolean) {
       aviation: shopRangeFE(
         value2.aviation.range,
         units_lang,
-        final.aircraft,
+        final.aviation,
         rankData.needBuyToOpenNextInEra,
         country.parse(key),
         "Aircraft",

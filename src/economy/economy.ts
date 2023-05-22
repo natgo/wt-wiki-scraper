@@ -88,9 +88,9 @@ async function main(dev: boolean) {
       `./${dev ? "datamine-dev" : "datamine"}/aces.vromfs.bin_u/version`,
       "utf-8",
     ),
-    ground: [],
-    aircraft: [],
-    helicopter: [],
+    army: [],
+    aviation: [],
+    helicopters: [],
     ship: [],
     boat: [],
   };
@@ -109,7 +109,7 @@ async function main(dev: boolean) {
     const vehicleLang = parseLang(units_lang, element.intname + "_shop");
     console.log(element.intname);
 
-    final.ground.push({
+    final.army.push({
       ...commonVehicle(element, vehicleLang, vehicleEconomy, vehicleUnit, shopData, "army"),
       ...groundTypeSchema.parse(vehicleType(vehicleUnit, "ground")),
       type: "ground",
@@ -131,7 +131,7 @@ async function main(dev: boolean) {
     const vehicleLang = parseLang(units_lang, element.intname + "_shop");
     console.log(element.intname);
 
-    final.aircraft.push({
+    final.aviation.push({
       ...commonVehicle(element, vehicleLang, vehicleEconomy, vehicleUnit, shopData, "aviation"),
       ...aircraftTypeSchema.parse(vehicleType(vehicleUnit, "aircraft")),
       type: "aircraft",
@@ -191,7 +191,7 @@ async function main(dev: boolean) {
       });
     }
 
-    final.helicopter.push({
+    final.helicopters.push({
       ...commonVehicle(element, vehicleLang, vehicleEconomy, vehicleUnit, shopData, "helicopters"),
       ...helicopterTypeSchema.parse(vehicleType(vehicleUnit, "helicopter")),
       type: "helicopter",

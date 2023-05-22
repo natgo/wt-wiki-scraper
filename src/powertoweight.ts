@@ -8,7 +8,7 @@ async function main(dev: boolean) {
     fs.readFileSync(`./data/data/${dev ? "final-dev" : "final"}.json`, "utf-8"),
   );
   const arr: { ptow: number; name: string }[] = [];
-  final.ground.forEach((element) => {
+  final.army.forEach((element) => {
     if (element.horsepower && element.mass) {
       arr.push({ ptow: element.horsepower / (element.mass / 1000), name: element.intname });
     }

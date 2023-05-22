@@ -55,7 +55,7 @@ async function main(dev: boolean) {
     boat: [],
   };
 
-  final.ground.forEach((element) => {
+  final.army.forEach((element) => {
     const vehicleData: GroundVehicle = JSON.parse(
       fs.readFileSync(
         `./${
@@ -77,7 +77,7 @@ async function main(dev: boolean) {
       modFinal.ground.push(mods);
     }
   });
-  final.aircraft.forEach((element) => {
+  final.aviation.forEach((element) => {
     const vehicleData: AirVehicle = JSON.parse(
       fs.readFileSync(
         `./${
@@ -99,7 +99,7 @@ async function main(dev: boolean) {
       modFinal.aircraft.push(mods);
     }
   });
-  final.helicopter.forEach((element) => {
+  final.helicopters.forEach((element) => {
     const vehicleData: AirVehicle = JSON.parse(
       fs.readFileSync(
         `./${

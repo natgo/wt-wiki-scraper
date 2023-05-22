@@ -50,7 +50,7 @@ async function main() {
     const { document } = parseHTML(element);
 
     const intname = document.querySelector(".specs_card_main")?.attributes.item(1)?.value;
-    const findFinal = final.ground.find((value) => {
+    const findFinal = final.army.find((value) => {
       return intname === value.intname;
     });
     if (!findFinal || !intname) {
