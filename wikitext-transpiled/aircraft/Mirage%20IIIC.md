@@ -233,7 +233,7 @@ The Mirage has a decent payload when in GRB. Although limited, the Mirage can do
 * Great air-to-air missiles
 ** Magic missiles have very good maneuverability
 ** Long range Matra R530E missile allows you to catch pilots by surprise
-* Very manoeuvrable
+* Excellent manoeuvrabilty, when you have good amount of energy and speed
 * Vast array of suspended armament
 
 '''Cons:'''

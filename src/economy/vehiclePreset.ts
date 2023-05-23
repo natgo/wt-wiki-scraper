@@ -2,8 +2,10 @@ import { AirVehicle, LangData } from "types";
 
 import {
   FinalWeapon,
+  FinalWeaponSlot,
   FinalWeapons,
   SecondaryWeaponPreset,
+  finalWeaponSlot,
   secondaryWeaponPresetSchema,
 } from "../../data/types/final.schema";
 import { DeepShit, WeaponArray, typeSwitch } from "./secondaryPresets";
@@ -16,10 +18,7 @@ export function vehiclePreset(
 ): SecondaryWeaponPreset | undefined {
   let weaponPreset: SecondaryWeaponPreset | undefined = undefined;
   if (vehicleData.WeaponSlots) {
-    const slots: Array<{
-      hidden?: boolean;
-      slot: Array<FinalWeapons | FinalWeapon | { name: string }>;
-    }> = [];
+    const slots: FinalWeaponSlot[] = [];
 
     vehicleData.WeaponSlots.WeaponSlot.forEach((topelement) => {
       const slot: Array<FinalWeapons | FinalWeapon | { name: string }> = [];
@@ -27,7 +26,14 @@ export function vehiclePreset(
         topelement.WeaponPreset.forEach((element) => {
           slot.push({ ...DeepShit(element, weaponry_lang, dev) });
         });
-        slots.push({ hidden: topelement.order ? undefined : true, slot: slot });
+        slots.push({
+          hidden: topelement.tier
+            ? undefined
+            : topelement.order && topelement.index !== 0
+            ? undefined
+            : true,
+          slot: slot,
+        });
       } else {
         if (!topelement.WeaponPreset) {
           slots.push({ slot: [] });
@@ -68,7 +74,7 @@ export function vehiclePreset(
       maxloadLeft: vehicleData.WeaponSlots.maxloadMassLeftConsoles,
       maxloadRight: vehicleData.WeaponSlots.maxloadMassRightConsoles,
       maxDisbalance: vehicleData.WeaponSlots.maxDisbalance,
-      weaponSlots: slots,
+      weaponSlots: finalWeaponSlot.array().parse(slots),
     };
   }
   return weaponPreset ? secondaryWeaponPresetSchema.parse(weaponPreset) : undefined;

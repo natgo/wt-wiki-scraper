@@ -10,11 +10,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish medium tank {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]]. Armed with a 77 mm HV gun, essentially a 17-pounder with a lower muzzle velocity, it has one of the more powerful guns available for a medium tank at the rating.
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish medium tank {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]]. Armed with a 77 mm HV gun, essentially a 17-pounder with a lower muzzle velocity, it has one of the more powerful guns available for a medium tank of its rating.
 
-The Comet is an excellent medium tank. It has great mobility and acceleration, able to reach 38 km/h very quickly and stay there in full throttle, but its reverse speed is pitiful like the Cromwell. Firepower is also a benefit of the vehicle, especially after the unlocking of the APDS shot, giving it the penetration needed to deal with any threat you might encounter. The drawback of the design is the sub-par armour that can be pretty easily penetrated at BR 5.3. One should take advantage of the Comet's low profile and mobility to hide and manoeuvre from the enemy to catch them at an advantageous angle. The Comet also has a benefit the previous tanks in its branch, the Sherman Firefly, didn't have in the great gun depression. This allows the Comet to more easily fire over hills in an hull-down position to destroy the enemy with a terrain benefit for protection.
+The Comet is an excellent medium tank. It has great mobility and acceleration, able to reach 38 km/h very quickly and stay there at full throttle, though suffers from pitiful reverse speed like with the Cromwell. Firepower is another benefit, especially after unlocking APDS, giving it the penetration needed to deal with any threat you might encounter. The drawback of the design is the sub-par armour that can be easily penetrated at BR 5.3. One should take advantage of the Comet's low profile and mobility to hide and manoeuvre from the enemy to catch them at an advantageous angle. Gun depression was a feature that the previous tank in the tech tree, the Sherman Firefly, was sorely lacking. This is much improved on the Comet allowing the vehicle to more easily shoot over hills while in hull-down position.
 
-This Comet is an example operated by the Finnish Defence Forces, imported in 1958 and used as training vehicles for the [[Charioteer Mk VII (Sweden)|Charioteers]] that they were bought alongside. It is identical in performance to the British [[Comet I]].
+This particular Comet is an example operated by the Finnish Defence Forces, imported in 1958 and used as training vehicles for the [[Charioteer Mk VII (Sweden)|Charioteers]] that they were bought alongside of. It is identical in performance to the British [[Comet I]].
 
 == General info ==
 === Survivability and armour ===
@@ -188,6 +188,7 @@ Also be very aware of lightly armoured tank destroyers - these vehicles will be 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sw_a_34_comet Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

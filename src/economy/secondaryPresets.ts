@@ -1,6 +1,11 @@
 import { Cannon, LangData, WeaponNamePreset, WeaponPreset } from "types";
 
-import { FinalWeapon, FinalWeaponArray, FinalWeapons } from "../../data/types/final.schema";
+import {
+  FinalWeapon,
+  FinalWeaponArray,
+  FinalWeapons,
+  WeaponType,
+} from "../../data/types/final.schema";
 import { parseLang } from "../lang";
 import { weaponDisplayname } from "./weaponDisplayname";
 
@@ -45,6 +50,7 @@ export function WeaponArray(element: Cannon[], weaponry_lang: LangData[]): Final
       console.log(element, element.trigger, "deep");
     }
     const blk = element.blk.split("/");
+
     weapons.push({
       type: type,
       displayname: parseLang(
@@ -57,36 +63,8 @@ export function WeaponArray(element: Cannon[], weaponry_lang: LangData[]): Final
   return weapons;
 }
 
-export function typeSwitch(
-  trigger: string,
-):
-  | "optics"
-  | "gun"
-  | "countermeasures"
-  | "aam"
-  | "agm"
-  | "bomb"
-  | "guided_bomb"
-  | "torpedo"
-  | "rocket"
-  | "fuel_tank"
-  | "targeting_pod"
-  | "booster"
-  | null {
-  let type:
-    | "aam"
-    | "agm"
-    | "bomb"
-    | "guided_bomb"
-    | "torpedo"
-    | "rocket"
-    | "gun"
-    | "countermeasures"
-    | "fuel_tank"
-    | "optics"
-    | "targeting_pod"
-    | "booster"
-    | null = null;
+export function typeSwitch(trigger: string): WeaponType {
+  let type: WeaponType = null;
   switch (trigger) {
     case "aam":
       type = "aam";
