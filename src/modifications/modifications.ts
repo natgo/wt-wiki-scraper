@@ -48,9 +48,9 @@ async function main(dev: boolean) {
   );
 
   const modFinal: Modifications = {
-    ground: [],
-    aircraft: [],
-    helicopter: [],
+    army: [],
+    aviation: [],
+    helicopters: [],
     ship: [],
     boat: [],
   };
@@ -74,7 +74,7 @@ async function main(dev: boolean) {
       weaponry_lang,
     );
     if (mods) {
-      modFinal.ground.push(mods);
+      modFinal.army.push(mods);
     }
   });
   final.aviation.forEach((element) => {
@@ -96,7 +96,7 @@ async function main(dev: boolean) {
       weaponry_lang,
     );
     if (mods) {
-      modFinal.aircraft.push(mods);
+      modFinal.aviation.push(mods);
     }
   });
   final.helicopters.forEach((element) => {
@@ -118,7 +118,7 @@ async function main(dev: boolean) {
       weaponry_lang,
     );
     if (mods) {
-      modFinal.helicopter.push(mods);
+      modFinal.helicopters.push(mods);
     }
   });
 
