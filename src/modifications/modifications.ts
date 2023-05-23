@@ -229,7 +229,7 @@ function modificationLoop(
         mod.image = value.image.split("#")[value.image.split("#").length - 1];
       }
 
-      if (key.includes("_ammo_pack") && vehicle.type === "ground") {
+      if (key.includes("_ammo_pack") && vehicle.type === "army") {
         const findMod = Object.values(modifications.modifications).filter((value) => {
           return value.reqModification === key && !value.tier;
         });

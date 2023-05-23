@@ -112,7 +112,7 @@ async function main(dev: boolean) {
     final.army.push({
       ...commonVehicle(element, vehicleLang, vehicleEconomy, vehicleUnit, shopData, "army"),
       ...groundTypeSchema.parse(vehicleType(vehicleUnit, "ground")),
-      type: "ground",
+      type: "army",
       ...drive(vehicleData),
       ...groundVehicle(vehicleData, modifications, weaponry_lang, modification_lang, dev),
     });
@@ -134,7 +134,7 @@ async function main(dev: boolean) {
     final.aviation.push({
       ...commonVehicle(element, vehicleLang, vehicleEconomy, vehicleUnit, shopData, "aviation"),
       ...aircraftTypeSchema.parse(vehicleType(vehicleUnit, "aircraft")),
-      type: "aircraft",
+      type: "aviation",
       ballistic_computer: vehicleBallistic(vehicleData),
       secondary_weapon_preset: vehiclePreset(vehicleData, weaponry_lang, dev),
     });
@@ -194,7 +194,7 @@ async function main(dev: boolean) {
     final.helicopters.push({
       ...commonVehicle(element, vehicleLang, vehicleEconomy, vehicleUnit, shopData, "helicopters"),
       ...helicopterTypeSchema.parse(vehicleType(vehicleUnit, "helicopter")),
-      type: "helicopter",
+      type: "helicopters",
       ...sensors(vehicleData, dev),
       optics: helicopterOpticsSchema.parse(optics),
       ballistic_computer: vehicleBallistic(vehicleData),
