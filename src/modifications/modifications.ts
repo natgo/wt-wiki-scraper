@@ -240,9 +240,10 @@ function modificationLoop(
         let displayname: string | undefined;
 
         vehicle.weapons?.cannon?.findIndex((element) => {
-          if (!element) {
+          if (!element || "dummy" in element) {
             return false;
           }
+
           const findShell = element.shells?.find((element) => {
             return findMod.find((modElement) => {
               return element.modname === modElement.effects?.additiveBulletMod;

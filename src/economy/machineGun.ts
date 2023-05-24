@@ -1,7 +1,7 @@
 import fs from "fs";
 import { LangData, Weapon, WeaponGround } from "types";
 
-import { GenericGun } from "../../data/types/final.schema";
+import { Flamethrower, GenericGun } from "../../data/types/final.schema";
 import { parseLang } from "../lang";
 import { weaponbulletsLoop } from "./commonWeaponToCannon";
 
@@ -12,7 +12,7 @@ export function machineGun(
   modification_lang: LangData[],
   dev: boolean,
   directory: "naval" | "ground",
-): GenericGun | undefined {
+): GenericGun | Flamethrower | undefined {
   const name = Weapon.blk.split("/")[Weapon.blk.split("/").length - 1].replace(/\.blk/g, "");
   let weapon_data: Weapon;
   const enName = parseLang(weaponry_lang, "weapons/" + name)?.English;
@@ -52,6 +52,34 @@ export function machineGun(
     false,
     dev,
   );
+
+  if (weapon_data.sound === "flamethrower") {
+    return {
+      intname: name,
+      displayname: enName ? enName : "",
+      flame: true,
+      ammo: Weapon.bullets ? Weapon.bullets : 0,
+      shells: weapon.shells.length > 0 ? weapon.shells : undefined,
+      belts: weapon.belts.length > 0 ? weapon.belts : undefined,
+      horizonalSpeed:
+        Weapon.parkInDeadzone || Weapon.speedYaw === 0 || Weapon.speedPitch === 0
+          ? "primary"
+          : Weapon.speedYaw,
+      verticalSpeed:
+        Weapon.parkInDeadzone || Weapon.speedYaw === 0 || Weapon.speedPitch === 0
+          ? "primary"
+          : Weapon.speedPitch,
+      horizonalLimit:
+        Weapon.parkInDeadzone || Weapon.speedYaw === 0 || Weapon.speedPitch === 0
+          ? "primary"
+          : Weapon.limits.yaw,
+      verticalLimit:
+        Weapon.parkInDeadzone || Weapon.speedYaw === 0 || Weapon.speedPitch === 0
+          ? "primary"
+          : Weapon.limits.pitch,
+      shotFreq: weapon_data.shotFreq,
+    };
+  }
 
   const cannon: GenericGun = {
     intname: name,

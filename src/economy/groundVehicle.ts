@@ -177,7 +177,7 @@ export function groundVehicle(
     has_laser_range: laser ? true : undefined,
     has_range: range ? true : undefined,
     optics: sights,
-    weapons: weapons,
+    weapons: weapons.machineGun?.length !== 0 ? weapons : { cannon: weapons.cannon },
   };
 }
 

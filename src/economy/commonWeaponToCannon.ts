@@ -12,13 +12,32 @@ export function commonWeaponToCannon(
   modification_lang: LangData[],
   dev: boolean,
   directory: "naval" | "ground",
-): TankCannon | undefined {
+): TankCannon {
   const name = Weapon.blk.split("/")[Weapon.blk.split("/").length - 1].replace(/\.blk/g, "");
   let weapon_data: Weapon;
   const enName = parseLang(weaponry_lang, "weapons/" + name)?.English;
 
   if (name === "dummy_weapon") {
-    weapon_data = {};
+    return {
+      dummy: true,
+      horizonalSpeed:
+        Weapon.parkInDeadzone || Weapon.speedYaw === 0 || Weapon.speedPitch === 0
+          ? "primary"
+          : Weapon.speedYaw,
+      verticalSpeed:
+        Weapon.parkInDeadzone || Weapon.speedYaw === 0 || Weapon.speedPitch === 0
+          ? "primary"
+          : Weapon.speedPitch,
+      horizonalLimit:
+        Weapon.parkInDeadzone || Weapon.speedYaw === 0 || Weapon.speedPitch === 0
+          ? "primary"
+          : Weapon.limits.yaw,
+      verticalLimit:
+        Weapon.parkInDeadzone || Weapon.speedYaw === 0 || Weapon.speedPitch === 0
+          ? "primary"
+          : Weapon.limits.pitch,
+      stabilizer: stabilizer(Weapon),
+    };
   } else {
     weapon_data = JSON.parse(
       fs.readFileSync(
