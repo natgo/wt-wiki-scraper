@@ -28,7 +28,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet bomber {{Battle-ra
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 835 || 809 || rowspan="2" | {{Specs|ceiling}} || 26.9 || 27.6 || 14.8 || 13.4 || rowspan="2" | 750
+| 835 || 807 || rowspan="2" | {{Specs|ceiling}} || 26.9 || 27.6 || 14.8 || 13.3 || rowspan="2" | 750
 |-
 ! Upgraded
 | 915 || 880 || 25.4 || 26.0 || 25.7 || 20.0

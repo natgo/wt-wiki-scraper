@@ -5,13 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British sub-chaser {{Battle-rating}}. It was introduced in [[Update "Raining Fire"]].
+The HMS ''Peacock'', pennant number P239, is the lead ship of the ''Peacock''-class corvettes. These 5 corvettes were specially commissioned during the 1980s for service in Hong Kong's 6th Patrol Craft Squadron, protecting the colony and performing numerous security-peace operations. After the return of Hong Kong to China, ''Peacock'' as well as sisters ''Clover'' and ''Starling'' were sold to the Philippine Navy, redesignated the ''Emilio Jacinto'' class, and upgunned and upgraded, where they remain in service today.
 
-The HMS ''Peacock'', pennant number (P239), is the lead ship of the Peacock-class corvette. These 5 corvettes were specially commissioned during the 1980s for service in Hong Kong's 6th Patrol Craft Squadron, protecting the British empire's colony (Hong Kong) and performing numerous security-peace operations.
-
-''Peacock'' delivers a brand-new and unique punch of naval power for the veteran British captains of the coastal fleet. The ship's playstyle is dependant on her sole bow gun; a 76 mm OTO-Melara Compact. Despite seeming like not enough firepower, she is really threatening in the hands of skilled players. The gun is not only capable of victimizing patrol boats but even destroyers!
-
-Her mobility and size leave a lot to desire as she will feel sluggish around the extremely manoeuvrable fast patrol boats and attack crafts of her rank. But slow and steady, the ship will arrive the combat-zone, where her full potential will be unleashed.
+Introduced in [[Update "Raining Fire"]], ''Peacock'' delivers a brand-new and unique punch of naval power for the veteran British captains of the coastal fleet. The ship's playstyle is dependant on her sole bow gun: a 76 mm OTO-Melara Compact cannon. Despite seeming like not enough firepower, she can be used to great effect in providing air defence and medium-range support against lighter crafts, defence of captured points, and can even combat destroyers by targeting their weakspots. However, her mobility and size leave a lot to be desired as she will feel sluggish around the extremely manoeuvrable fast patrol boats and attack crafts of her rank. But slow and steady, the ship will arrive at the combat-zone, where her full potential will be unleashed.
 
 == General info ==
 ''Peacock'' shouldn't be underrated, as it possesses enough crew size to endure some damage and a powerful gun capable of sinking multiple boats pretty quickly. Her mobility isn't great so players might need to plan a designated course in advance.
@@ -68,7 +64,7 @@ The turret mounting is highly mobile and provides adequate targeting speed, some
 
 '''Ammunition'''
 
-Due to the scarcity of ammo for all types of threats, once the HE-VT ammo has been researched, It should replace the regular HE. Consider arming the ship with SAP and HE-VT for more effective defence to fend off some planes; HE-VT being the main ammo and SAP the auxiliary for armoured encounters. 
+Due to the scarcity of ammo for all types of threats, once the HE-VT ammo has been researched, It should replace the regular HE. Consider arming the ship with SAP and HE-VT for more effective defence to fend off some planes; HE-VT being the main ammo and SAP the auxiliary for armoured encounters.
 
 {{:76 mm/62 OTO-Melara Compact (76 mm)/Ammunition|76/62 HE-MOM, 76/62 SAPOM, 76/62 HE-VT MOM}}
 

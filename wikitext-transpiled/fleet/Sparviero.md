@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Italian motor gun boat {{Battle-rating}}. It was introduced a [[wt:en/news/6690-development-italian-fleet-early-access-packs-en|premium pack]] in [[Update "Starfighters"]] and granted access to Italian fleet closed beta testing. It was removed from the store after the [[wt:en/news/7013-shop-new-year-sale-en|2020 New Year sale]] . It was reintroduced later in 2021 as a premium vehicle purchasable in-game with Golden Eagles {{ge}} in [[Update "Ixwa Strike"]].
+During the 1970s, a project named "Swordfish" was created with the goal of developing a hydrofoil that would be fast and manoeuvrable for coastal and sea patrols. The project began with the [[USS Tucumcari]], then progressed to the Pegasus class. Eventually, the P-420 Sparviero was created as part of the project, equipped with a single 76 mm OTO-MELARA gun and later fitted with OTOMAT anti-ship missiles. Its purpose was to replace the outdated Italian torpedo boats; however, it was later discovered that hydrofoils like the Sparviero were too expensive to maintain. The Sparviero P-420 was the prototype of the subsequent Nibbio class, while the mass production vessels of the Nibbio class, funded by the 1975 Naval Law, incorporated improvements in hydrodynamics, electronics, and other aspects. CNR Muggiano built six units of the Nibbio class by 1983. The Sparviero undertook several training and coastal control missions, until it was decommissioned after the Cold War along with the other vessels of the Nibbio class.
+
+Introduced as a premium pack during [[Update "Starfighters"]], it was removed from the store after the 2020 New Year sale and reintroduced later in 2021 as a premium vehicle purchasable in-game with Golden Eagles  {{ge}} in [[Update "Ixwa Strike"]]. The Sparviero exhibits remarkable agility and speed. Its armament consists of a single 76 mm OTO-MELARA cannon, which proves effective against almost all encountered enemy targets. However, due to its hydrofoil design, it can be challenging to handle, so it is advisable to slow down when engaging enemy vessels. Its survivability is not among the best, meaning you'll have to be cautious when facing other enemy ships.
 
 == General info ==
 === Survivability and armour ===
@@ -120,7 +122,7 @@ Built in light alloy with a honeycomb structure, they were armed with a 76/62 OT
 
 At 23 metres and about 60 tons fully loaded, it had the concentrated firepower of a frigate, governed by a crew of 10 men.
 
-The ''Sparviero'' P420 hydrofoil is part of the ''Nibbio'' class, a series of missile hydrofoils that remained as a remnant of the NATO program in seven examples including the prototype ''Sparviero''.
+The ''Sparviero'' P420 hydrofoil is the prototype of the ''Nibbio'' class, a series of missile hydrofoils that remained as a remnant of the NATO program in seven examples including the prototype ''Sparviero''.
 
 These hydrofoils entered service during the '70s in the MMI (Italian Navy), the hydrofoils were classified with P and the pennant number, all 7 examples were put into service and these were:
 

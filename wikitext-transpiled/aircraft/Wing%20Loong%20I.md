@@ -9,6 +9,8 @@ The '''{{Specs|name}}''', designated as GJ-1 (攻击-1; attacker-1) in PLAAF ser
 
 The first PLAAF UCAV in service and one of the earliest UCAVS from Asia, although having a missile with lesser penetration to USA/Russia counterpart, if utilized properly, it can do sufficient damage to enemy team with high precision; while players has to think twice for when to deploy an UCAV or alternatively deploy fixed-wing jets/rotorcrafts.
 
+Like all other strike drones, the Wing Loong becomes available in any GRB match BR 9.7 or higher - meaning an 8.7 lineup, in a full uptier, can encounter the Wing Loong and other strike drones.
+
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}

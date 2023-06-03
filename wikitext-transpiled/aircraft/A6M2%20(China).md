@@ -165,32 +165,20 @@ Unfortunately, missions like "destroy enemy bombers/attackers" and ground poundi
 
 '''Pros:'''
 
-* Excellent turn and roll rates
+* Incredibly manoeverable at low-to-medium speed, can out-turn most enemies it will face
 * Excellent climb rate up to 4,500 m
-* Good cannon armament
-* Extremely manoeuvrable, your opponents will have a hard time hitting you
-* Very good at catching enemies off guard
-* Can out turn most enemies it can face
-* Tail hook enables it to land on carriers
-* Very short takeoff distance
+* Hard-hitting 20 mm cannons
+* Low stall speed and easy to take off and landing due to being a carrier-based fighter
 * Excellent smooth handling in simulator and great rear visibility
 
 '''Cons:'''
 
-* Mostly faces Japan (facing equally/more manoeuvrable planes)
-* No armour and no pilot protection
-* Limited 20 mm cannon ammunition
-* 7.7 mm machine guns don't really do any significant damage
-* Guns have different trajectories, you need to get really close to a target to be effective
-* Attacking bombers is one of the worst jobs for the Zero, as it is easily damaged by tail gunners
-* Slow in a straight line
-* Strictly limited to the air-to-air role, although it performs exceptionally in it
-* No self-sealing fuel tanks and the plane is littered with fuel tanks, will ignite and burn to death quite often
-* Can easily be countered by just doing simple Boom & Zoom as the Zero lacks adequate energy retention
-* Low dive speed, and easily compressed in a dive
-* Has lots of bars inside the cockpit, limiting visibility
-* Prone to ripping during high-speed manoeuvres
-
+* Frail airframe with no protection, can be easily crippled by any incoming hits
+* Poor high-speed characteristics; control can easily lock at higher speeds, and high-speed manoevers may results into wing overloading
+* Generally slow top speed and poor energy retention, vulnerable to boom-and-zoom attacks
+* 20 mm cannons have very poor muzzle velocity, making it difficult to hit enemies at all but point blank ranges (~300 m)
+* Low ammo count for 20 mm cannons, while 7 mm machine guns offers little damage output 
+* Has lots of bars inside the cockpit, limiting visibility in simulator
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 {{main|A6M2#History|l1=History of the A6M2}}

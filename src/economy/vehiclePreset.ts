@@ -74,8 +74,8 @@ export function vehiclePreset(
       maxloadLeft: vehicleData.WeaponSlots.maxloadMassLeftConsoles,
       maxloadRight: vehicleData.WeaponSlots.maxloadMassRightConsoles,
       maxDisbalance: vehicleData.WeaponSlots.maxDisbalance,
-      weaponSlots: finalWeaponSlot.array().parse(slots),
+      weaponSlots: slots,
     };
   }
-  return weaponPreset ? secondaryWeaponPresetSchema.parse(weaponPreset) : undefined;
+  return weaponPreset ? weaponPreset : undefined;
 }

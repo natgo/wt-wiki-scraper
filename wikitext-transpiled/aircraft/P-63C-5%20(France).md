@@ -60,7 +60,7 @@ The aircraft is a high altitude interceptor/ energy fighter, with its turn radiu
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 378 || 359 || 262 || ~12 || ~6
+| 887 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 378 || 359 || 262 || ~12 || ~6
 |-
 |}
 
@@ -70,7 +70,7 @@ The aircraft is a high altitude interceptor/ energy fighter, with its turn radiu
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 410 || < 380 || < 410 || > 320
+| < 410 || < 380 || < 410 || > 420
 |-
 |}
 

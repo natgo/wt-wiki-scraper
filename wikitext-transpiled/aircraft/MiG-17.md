@@ -71,7 +71,7 @@ The stalling characteristics are quite forgiving, after reaching the maximum ang
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || 598 || 450 || ~12 || ~5
+| 1,150 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || 598 || 450 || ~12 || ~5
 |-
 |}
 
@@ -81,7 +81,7 @@ The stalling characteristics are quite forgiving, after reaching the maximum ang
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 600 || < 700 || < 750 || N/A
+| < 600 || < 700 || < 750 || -
 |-
 |}
 

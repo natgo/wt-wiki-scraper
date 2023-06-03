@@ -30,7 +30,7 @@ The Canberra B (I) Mk 6 is an interdiction model of the famous bomber, thus it i
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 858 || 832 || rowspan="2" | {{Specs|ceiling}} || 26.6 || 27.4 || 13.8 || 11.9 || rowspan="2" | 750
+| 858 || 830 || rowspan="2" | {{Specs|ceiling}} || 26.6 || 27.4 || 13.8 || 11.8 || rowspan="2" | 750
 |-
 ! Upgraded
 | 894 || 880 || 25.5 || 26.0 || 26.9 || 20.0
@@ -185,15 +185,18 @@ Whilst the Canberra was phased out of service as an RAF front line bomber in the
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=canberra_bimk6 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

@@ -58,7 +58,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet fighter {{
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 378 || 359 || 262 || ~12 || ~6
+| 887 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 378 || 359 || 262 || ~12 || ~6
 |-
 |}
 

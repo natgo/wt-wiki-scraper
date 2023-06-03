@@ -43,7 +43,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish jet fighter {{Battle-r
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || X || X
+| ✓ || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -58,7 +58,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish jet fighter {{Battle-r
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || ___ || ___ || ___ || ~__ || ~__
+| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 496 || 464 || 300 || ~10 || ~5
 |-
 |}
 
@@ -68,7 +68,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish jet fighter {{Battle-r
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || N/A
+| < 550 || < 600 || < 600 || -
 |-
 |}
 
@@ -76,34 +76,34 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish jet fighter {{Battle-r
 {| class="wikitable" style="text-align:center"
 |-
 ! colspan="3" | Engine
-! colspan="4" | Aircraft mass
+! colspan="5" | Aircraft mass
 |-
 ! colspan="2" | Engine name || Number
-! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
+! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
-| colspan="2" | _____ || _
-| colspan="2" | _,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
+| colspan="2" | de Havilland Goblin 3 || 1
+| colspan="2" | 3,502 kg || colspan="3" | 195 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
+! colspan="4" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
-! _m fuel || __m fuel || __m fuel
+! 10m fuel || 20m fuel || 30m fuel || 35m fuel
 |-
-| ___ kg || colspan="2" | ___
-| _,___ kg || _,___ kg || _,___ kg || _,___ kg
+| 705 kg || colspan="2" | Centrifugal-flow turbojet
+| 3,866 kg || 4,179 kg || 4,517 kg || 4,715 kg || 5,759 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
-! colspan="4" | Thrust to weight ratio @ 0 m (___%/WEP)
+! colspan="5" | Thrust to weight ratio @ 0 m (100%)
 |-
-! Condition || 100% || ___%/WEP
-! _m fuel || __m fuel || __m fuel || MGW
+! Condition || 100% || WEP
+! 10m fuel || 20m fuel || 30m fuel || 35m fuel || MGW
 |-
-| ''Stationary'' || ___ kgf || ___ kgf
-| _.__ || _.__ || _.__ || _.__
+| ''Stationary'' || 1,410 kgf || -
+| 0.36 || 0.34 || 0.31 || 0.30 || 0.24
 |-
-| ''Optimal'' || ___ kgf<br>(_ km/h) || ___ kgf<br>(_ km/h)
-| _.__ || _.__ || _.__ || _.__
+| ''Optimal'' || 1,410 kgf<br>(0 km/h) || -
+| 0.36 || 0.34 || 0.31 || 0.30 || 0.24
 |-
 |}
 

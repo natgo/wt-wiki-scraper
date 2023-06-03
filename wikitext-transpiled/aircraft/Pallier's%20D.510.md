@@ -60,7 +60,7 @@ The plane is modelled after one used by French pilot Gabriel Pallier. The Dewoit
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || N/A || N/A || ~14 || ~8
+| 576 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || - || ~14 || ~8
 |-
 |}
 
@@ -71,20 +71,6 @@ The plane is modelled after one used by French pilot Gabriel Pallier. The Dewoit
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
 | < 320 || < 330 || < 360 || > 280
-|-
-|}
-
-{| class="wikitable" style="text-align:center"
-|-
-! colspan="3" | Compressor (RB/SB)
-|-
-! colspan="3" | Setting 1
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 3,800 m || 690 hp || N/A
 |-
 |}
 

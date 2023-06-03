@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
 
-This aircraft is almost identical to the American [[F-4E Phantom II]] with little changes like Israeli weapons.
+The Kurnass is an Israeli-operated version of the American [[F-4E Phantom II]]. Besides the desert camouflage, it differs slightly in the selection of weapons, mainly in having AIM-9D/G Sidewinder missiles instead of the AIM-9E/J and lacking access to the GBU-15(V)1/B guided bomb. Otherwise, it is the same workhorse with high speed and a large arsenal.
 
 == General info ==
 === Flight performance ===
@@ -226,6 +226,12 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 | colspan="13" | * Marked options on hardpoints 2/10 cannot be carried in conjunction with air-to-air missiles on hardpoints 3/9 respectively <br> <sup>†</sup> Sparrows on hardpoints 4/8 cannot be carried in conjunction with Sidewinders on hardpoints 5/7 respectively
 |-
 |}
+
+The Kurnass's weapons will be largely familiar to previous US pilots. The change in Sidewinder variants compared to the original F-4E is worth discussing in more detail: as a US Air Force variant, the American F-4E has USAF models of the Sidewinder in the form of the stock AIM-9E and the top AIM-9J. The Kurnass on the other hand has US Navy Sidewinders as seen on the USN [[F-4J]] or the British [[Phantom FGR.2]]: the stock AIM-9D and the top AIM-G. As far as stock missiles go, the AIM-9D is greatly preferable to the AIM-9E with better range and maneuverability. The AIM-9J vs AIM-9G comparison is more up to personal preference, as the former has slightly higher overload and fares better in maneuvering combat while the latter has a wider seeker view and is better for sneak attacks at a distance. Thus, while the Kurnass has the maneuverable F-4E airframe with an internal gun for close in fights, its Sidewinders do not quite lean in that direction.
+
+Another Sidewinder-related quirk of the Kurnass is that two of the recessed fuselage pylons, which are normally reserved for Sparrows, can instead be used to carry Sidewinders, so its maximum IR missile capacity is 6x instead of the 4x of other Phantoms. This is often a reasonable trade to make, because although the AIM-7E2 Dogfight Sparrows offer the Kurnass a decent long-range option, they are held back by the radar's lack of look-down-shoot-down capability. Carrying four of them at once adds nearly 800 kg of weight that decreases performance. Bringing only two Sparrows for special occasions and stocking up on lighter Sidewinders reduces the need to jettison unnecessary weapons.
+
+The only change to the ground attack weapons is the lack of access to the GBU-15(V)1/B, a TV-guided glide bomb available on the inboard wing pylons of the American F-4E. The similar GBU-8, which can be dropped at supersonic speeds but is not as efficient in gliding, is still available on all wing pylons. Many CAS players will choose the smaller AGM-62A Walleye guided bombs or the AGM-65B Maverick air-to-ground missiles for tank busting instead, so the lack of the GBU-15 only really matters in unusual situations like needing to bomb enemy SPAA from extreme ranges.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

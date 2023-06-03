@@ -60,7 +60,7 @@ In general, the Mirage IIIE is nimble and fast, but it lacks the engine power of
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || N/A || N/A || ~11 || ~4
+| 1,460 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || - || ~11 || ~4
 |-
 |}
 
@@ -70,7 +70,7 @@ In general, the Mirage IIIE is nimble and fast, but it lacks the engine power of
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 920 || < 750 || < 650 || N/A
+| < 920 || < 750 || < 650 || -
 |-
 |}
 
@@ -176,7 +176,7 @@ As with most aircraft of this level, the Mirage is as good as the missiles it ca
 
 The Matra R530 is a radar guided, medium range missile. Only one can be carried, but it is one of best SARH missiles in the game. As a counterpart, the Cyrano radar of the Mirage IIIE is quite small, with range rarely exceeding 20 km. Inside this range, the missile has good range and manoeuvrability during the entire flight time. A good addition to the Mirage IIIE's arsenal. The SARH capability of the missile can be traded for the IR seeker of the Matra R530E, making it the biggest IR seeker of the game. This version does not require radar lock, but cannot be fired in front aspect, and can be distracted by flares, where the Cyrano radar guiding the R530 can only be disturbed by chaff, which is used much more rarely.
 
-As a tier 4 modification, the Mirage IIIE receives the dreaded Matra 550 Magic. This IR seeking missile of second generation is an excellent weapon, being both extremely manoeuvrable (pulling 30Gs, sometimes more), very light and reactive, and quite resilient to flares. Under two kilometres, and launched in appropriate conditions at subsonic speeds, this missile is virtually inescapable. It is to be noted that this missile, thanks to its canted launch rail, can be launched under significant G-load. Its only two drawbacks are its short range, and the limited number of units carried under the Mirage wings, with only two of the type. Comparatively, the F-4 Phantom series can carry 4 IR missiles, and 4 to 6 for the MiG-21 series, J35 Draken, and F-104 series.
+As a tier 4 modification, the Mirage IIIE receives the dreaded Matra 550 Magic. This IR seeking missile of second generation is an excellent weapon, being both extremely manoeuvrable (capable of pulling 35Gs), very light and reactive, and quite resilient to flares. Under two kilometres, and launched in appropriate conditions at subsonic speeds, this missile is virtually inescapable. It is to be noted that this missile, thanks to its canted launch rail, can be launched under significant G-load. Its only two drawbacks are its short range, and the limited number of units carried under the Mirage wings, with only two of the type. Comparatively, the F-4 Phantom series can carry 4 IR missiles, and 4 to 6 for the MiG-21 series, J35 Draken, and F-104 series.
 
 As for ground attack, the Mirage III E carries the usual load of post-war French ordnance, in the form of 250/400 kg SAMP bombs, SNEB HEAT rockets, and the AS-30 missile. The deployment of these weapons can be aided by the ballistic computer.
 

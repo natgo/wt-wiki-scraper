@@ -19,6 +19,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German medium tan
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
+
 * Rolled homogeneous armour (hull sides, rear, and roof, turret sides, rear, and roof)
 * High hardness rolled armour (hull front, turret front, gun mantlet)
 * Cast homogeneous armour (gun mantlet frame)
@@ -147,6 +148,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German medium tan
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_leopard_2a4_pzbtl_123 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -155,6 +157,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German medium tan
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[Leopard 2 (Family)|Related development]]
+
 * [[Leopard 2A4]]
 
 == External links ==

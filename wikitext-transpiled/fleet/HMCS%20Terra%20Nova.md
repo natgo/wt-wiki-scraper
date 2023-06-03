@@ -57,9 +57,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British frigate {{Battle-ratin
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
@@ -74,15 +76,18 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British frigate {{Battle-ratin
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the ship;''
-* ''links to approximate analogues of other nations and research trees.''
+
+;Other Canadian naval vehicles present in the game
+
+* [[HMCS Brantford]]
+* [[HMCS Haida]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

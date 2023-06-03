@@ -7,6 +7,8 @@
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} German battlecruiser {{Battle-rating}}. It was introduced in [[Update "Hot Tracks"]].
 
+After the commissioning of the British Invincible class and creation of the battlecruiser as a type of warship, the Kaiserliche Marine desired battlecruisers of their own and the Construction Office began work on unique warship that was to be the first German battlecruiser. Although Tirpitz wished to create a German version of the Invincible class, with heavy guns and light armour, he was overruled and the Von der Tann was designed with guns 22mm smaller than the British ships, but with considerably greater protection, setting the trend that subsequent German battlecruisers would follow, in that they would have greater protection at the expense of lesser firepower. 
+
 == General info ==
 === Survivability and armour ===
 {{Specs-Fleet-Armour}}
@@ -18,7 +20,7 @@ While the lack of AA guns can be problematic against enemy aircraft, this can ac
 === Mobility ===
 {{Specs-Fleet-Mobility}}
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
-Being a battlecruiser, the Von der Tann features superior mobility compared to battleships. Though still slower than the majority of cruisers, getting around the map will not be a problem for her.
+Being a battlecruiser, the Von der Tann features superior mobility compared to battleships of the time, though the ship is only a first generation battlecruiser and thus is still slower than the majority of cruisers in the game.
 
 {{NavalMobility}}
 
@@ -32,9 +34,11 @@ Being a battlecruiser, the Von der Tann features superior mobility compared to b
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
 {{main|283 mm/45 SK L/45 (283 mm)}}
 
-The Von der Tann features eight 283 mm SK L/45 cannons arranged in four twin turrets. While the ship's left and right turrets appear to be obstructed by lifeboats in your hangar screen, they will be removed once you get into battle, allowing the turrets to traverse into the other sides, and thus making her capable of doing full broadsides with a decent amount of firing angle.
+The Von der Tann features eight 283 mm SK L/45 cannons arranged in four twin turrets. While the ship's left and right turrets appear to be obstructed by lifeboats in your hangar screen, they will be removed once you get into battle, allowing the turrets to traverse into the other sides, and thus making her capable of doing full broadsides with a decent firing angle. The guns also have a good minimum reload time for its calibre at 20 seconds with an ace crew.
 
-While they are not as powerful as the 305 mm cannons equipping other dreadnoughts, the 283 mm guns still pack a huge punch and can do the short work out of enemy destroyers and cruisers. The gun also has a good reload time for its calibre at 20 seconds (ace crew).
+While they are not as powerful as the 305 mm cannons equipping other dreadnoughts, the 283 mm guns still pack a decent punch and can make quick work of destroyers and cruisers. However, these pre-WW1 era guns are a little lacking when it comes to penetration capabilities against more comparable or superior opponents. 
+
+At 5km, the AP shell has a maximum of 324 mm of penetration, barely enough to penetrate the main belt on a number of battleships, and that's assuming the target is not angled to any degree (which they usually are) and that the shell is hitting at a flat trajectory (which is physically impossible at that range unless the target is listing to the side). At 10km, this drops to 212 mm of penetration, at which range the shell is rendered incapable of punching through un-angled main armour belts of even some battlecruisers, let alone the heavy belts of battleships. Whilst this does not mean that the guns cannot damage such targets, it's not as though the entire ship has such protection after all, it does still severely limit the guns usage against any but the most weakly protected capital ships, and captains of the Von der Tann will have to get in to extremely close ranges to be able to punch through the thick armour present at higher tiers. 
 
 {{:283 mm/45 SK L/45 (283 mm)/Ammunition|283 mm Sprgr. L/3.6 Bdz, 283 mm Psgr. L/3.2}}
 
@@ -67,7 +71,7 @@ Similar to other dreadnoughts in her era, the Von der Tann features four underwa
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
-As a battlecruiser, the Von der Tann is fast and well-armed. The eight 283 mm guns can deal a huge amount of damage and have a reload of 20 seconds, much shorter than other battlecruisers and battleships (and the same as some American heavy cruisers), as well as capable of doing full broadsides. While other battleships can punch through your armour, cruisers will seriously struggle. Target cruisers and punish them with your strong secondary guns, colossal main battery firepower, and good reload. They'll struggle with your armour, and they'll struggle to outrun you.
+As a battlecruiser, the Von der Tann is (relatively) fast and well-armed. The eight 283 mm guns can deal a capable amount of damage and have a reload of 20 seconds, much shorter than most other battlecruisers and battleships (and the same as some American heavy cruisers), as well as being capable of doing full broadsides. While other battleships can punch through your armour, cruisers will seriously struggle. Target cruisers and punish them with your secondary guns and main battery. They'll struggle with your armour, and they'll struggle to outrun you.
 
 Your main threat will be battleships, who can angle against your guns and punch through your armour comfortably. Use your mobility to get away from, or around, them, and don't be afraid to unleash some torpedoes on them if they do get too close.
 
@@ -76,16 +80,16 @@ Your main threat will be battleships, who can angle against your guns and punch 
 
 '''Pros:'''
 
-* Fantastic speed for a ship of its size, able to outrun any battleship and stay close to cruisers
+* Good speed for a ship of its age, able to outrun most battleships and stay close to cruisers
 * Out-guns and out-armours every cruiser in the game
 * Can do a full broadsides with the same damage potential as the [[SMS Westfalen]]
-* Fantastic reload on its main guns, better than the Admiral Graf Spee despite them being the same size
+* Good reload on its main guns, better than the Admiral Graf Spee despite them being the same size
 * Deadly secondary armament that can punish cruisers if they come too close
 
 '''Cons:'''
 
 * Still slower than the majority of cruisers, can easily get left behind
-* Main armament is inferior to most battleships
+* Main armament lacks penetration required to compete with most other capital ships
 * Secondary armament is woefully inaccurate beyond 7 km
 * Placement of flank turrets makes it prone to ammo detonation from torpedo hits
 * Effectively no AA protection, easy target for aircraft

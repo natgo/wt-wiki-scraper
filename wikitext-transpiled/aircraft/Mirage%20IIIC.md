@@ -63,7 +63,7 @@ It should be noted that the Mirage IIIE has differing flight characteristics to 
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || N/A || N/A || ~12 || ~5
+| 1,460 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || - || ~12 || ~5
 |-
 |}
 
@@ -73,7 +73,7 @@ It should be noted that the Mirage IIIE has differing flight characteristics to 
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 920 || < 750 || < 650 || N/A
+| < 920 || < 750 || < 650 || -
 |-
 |}
 

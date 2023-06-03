@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=germ_kpz_t72m1
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -163,6 +163,11 @@ A common issue that haunts the T-72 series is the gun traverse speed, as previou
 ;Skins
 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_kpz_t72m1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+;Sights
+* [https://live.warthunder.com/post/675135/en/ RideR2's Realistic and semi-realistic gunsight reticles for German vehicles.]
+* [https://live.warthunder.com/post/1043715/en/ Caff_Gunner's (Germany) Historical and semi-historical gun reticles.]
+
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

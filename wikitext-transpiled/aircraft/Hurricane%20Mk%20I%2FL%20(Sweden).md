@@ -14,6 +14,12 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish fighter {{Battle-ratin
 
 It is an imported version of the British [[Hurricane Mk I/L]] flown by the Finnish Air Force.
 
+Whilst not quite as manoeuvrable or as fast as its [[Spitfire (Family)|Spitfire]] brethren, the Hurricane Mk I/L is still very agile for its rank and can hold its own very effectively in dogfights. One of the Hurricane's true strengths is in its durability and sheer robust nature which makes it a favourite among the virtual pilots of War Thunder as it was during the Battle of Britain over 80 years ago. You will find your Hurricane able to withstand a very high amount of damage before it will give in as it is a largely fabric covered aircraft.
+
+It is also a very stable gun platform which makes aiming and shooting a very easy task to do. In general the Hurricane is a joy to fly in all modes. A great and forgiving fighter aircraft for beginners to fly!
+
+This version was purchased by the Finns in 1940, but only saw limited use in the Continuation War due to lack of spares.
+
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}

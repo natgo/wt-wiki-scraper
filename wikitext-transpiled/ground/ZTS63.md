@@ -75,6 +75,14 @@ Still sharing the same gun as the Type 62 and 63, the Type 63 85 mm rifled canno
 ==== Ammunition ====
 {{:Type 63 (85 mm)/Ammunition|Type 1956 HEAT-FS, Type 56 HE, Type 56 AP, DJW85}}
 
+The ZTS63's rounds are somewhat different from the original Type 63-I. The BR-365A APHEBC shell, well known for its generous explosive content and slope modifiers, is not available anymore. The returning Type 1956 HEAT-FS is now the stock shell, which gives the ZTS63 the ability to engage heavy tanks like the [[IS-3]] from the start. Compared to the [[ZBD86]]'s PG-9 rocket propelled grenade, the HEAT-FS has the same penetration and a better muzzle velocity, which is helpful at medium and long ranges.
+
+The stock "Type 56 HE" shell is a renamed O-365K and should be completely ignored, because the HEAT-FS has a greater explosive mass.
+
+The only APHE shell available is the unlockable "Type 56 AP", a renamed BR-367 APCBC. Although it is not as efficient for one-shotting light targets or scoring sideshots as BR-365A, it still gets the job done with some careful aim and the enhanced flat penetration is nice to have. Enemy IFVs can be dispatched easily with a single AP shell, even from across the map, due to their thin armour and typically large profiles.
+
+The top round is the DJW85 APFSDS, something completely new to the 85 mm caliber. Although Chinese tankers may be apprehensive about early domestic APFSDS rounds, DJW85 actually has better performance than the [[Type 69]]'s Type 71 AFPSDS despite being a significantly smaller round. Although it has a a lower muzzle velocity, it does not lose as much penetration over distances. The 2.1 kg projectile mass is not able to create much spalling, but the ZTS63's decent reload speed makes follow-up shots much faster than on the Type 69. It is a useful tool for disabling shots and targeting ammo racks in long range combat.
+
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
 <!-- '''Last updated:''' -->

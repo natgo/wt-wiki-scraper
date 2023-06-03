@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet attack helicopter {{Battle-rating}}. It was introduced in [[Update 1.93 "Shark Attack"]].
+The '''{{Specs|name}}''' (NATO reporting name: "Havoc") is a rank {{Specs|rank}} Soviet attack helicopter {{Battle-rating}}. It was introduced in [[Update 1.93 "Shark Attack"]].
+
+The Mi-28 Havoc is a successor to the famous Mi-24 Hind. The Hind can be considered a "flying IFV" combining armament and troop transport capability, and the Havoc mostly abandons the later in order to become a dedicated attack helicopter. It maintains the Mil Mi tradition of heavy weight, strong armor protection (by helicopter standards), and inelegant looks, but without the volume required to ferry troops, the airframe does not feel as bulky in flight. Its suspended ordnance is almost the same as the preceding [[Mi-35M]], relying mostly on Ataka ATGMs and unguided rockets for tank busting and Igla MANPADS for air defence, but it is capable of carrying two times as many ATGMs. The cherry on the top is the massive chin turret carrying a 30 mm 2A42 autocannon, the same model used by the [[BMP-2]], with wide firing angles, APDS rounds, and an auto-tracker. Although sniping tanks with ATGMs is much safer in the face of enemy SAMs, pilots brave enough to bring the Mi-28N into close combat can indeed wreak havoc on unsuspecting opponents.
 
 == General info ==
 === Flight performance ===
@@ -73,6 +75,10 @@ The '''''{{PAGENAME}}''''' is armed with:
 ** 1 x 30 mm 2A42 cannon, chin turret (250 rpg)
 ** 1 x 30 mm 2A42 cannon, chin turret (250 rpg) + 128 x countermeasures
 
+The 30 mm 2A42 is the strongest helicopter cannon in War Thunder, with a high rate of fire and punchy APDS rounds that can rip through roof armor and turn light vehicles into Swiss cheese. Although it can be seen on Kamov helicopters such as the [[Ka-29|Ka-29 Helix]] and [[Ka-50|Ka-50 Hokum]], their cannons are mounted on the fuselage sides with limited articulation, forcing the pilot to point the helicopter's nose close to the target. The Mi-28N's chin turret holds less ammunition but has much better articulation, so once a target is acquired by the auto tracker, the pilot hold down the trigger and otherwise continue flying normally.
+
+The Mi-28N noticeably lacks the HIRSS and IRCM systems of the previous Mi-35M, which reduces its protection against IR missiles somewhat, but at its battle rating there are typically much greater threats to look out for.
+
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
@@ -115,11 +121,19 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |-
 |}
 
+The Mi-28N's weapons and even hardpoints will feel very familiar to players who have spaded the [[Mi-35M]]. The only differences are that the obsolete 9M114 Shturm is completely dropped from the arsenal and that both outboard hardpoints can support Ataka racks, not just the right side.
+
+Although the Mi-28N's ability to carry two racks of Atakas is a great boon for tank hunting, this introduces a new conundrum: Atakas and Iglas now compete for hardpoint space. Although it is nice to have some all-aspect MANPADS for warding off enemy aircraft, cutting the ATGM capacity in half is a considerable tradeoff for a missile with poor overload and a small warhead. If there are teammates with contemporary SAM systems like the [[2S6|2S6 Tunguska]], it is usually better to go all-in on Atakas. The Atakas themselves are actually quite effective in helicopter jousts due to their high flight speed and the chin-mounted 2A42 will happily shred planes, so a Havoc without Iglas is not exactly helpless against enemy aircraft either.
+
+The inner two hardpoints should be used to carry unguided rockets, and again there is a choice between S-8KO HEAT rockets and S-13OF HE rockets. At the Havoc's battle rating, most MBTs have good composite armour that can stop the HEAT warheads from the front, so the HE rockets tend to be more practical: they will easily obliterate light targets even with near misses, and it is often more reliable to score an overpressure kill on an MBT, especially with side attacks, than it is to fire a huge rocket swarm and hope that some of them get lucky.
+
+As a historical note, the Mi-28N was introduced to War Thunder with the [[S-13DF]], a variant of the S-13 rocket with a thermobaric warhead and phenomenal explosive power, but it was replaced with the S-13OF in [[Update "Red Skies"]] due to balance reasons.
+
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 '''Ground RB'''
 
-The Mi-28N is a fast, heavily armed and armoured, but not very manoeuvrable helicopter. For many, the Havoc is the perfect helicopter for utter destruction, given it can mount a total of sixteen Ataka ATGMs as well as liquid explosives as just some icing on the cake. Combined with the 2A42 autocannon equipped with APDS rounds penetrating 82 mm of armour, high-resolution thermals and decent survivability, the Havoc is great for all missions. It's a great first-spawner; 8 Igla AAMs are very useful, especially at the start of matches. They've got great flare resistance, and while they may not pull as much as a Mistral, they can still be great for shooting down dangerous enemies like A-10s and other jets that have just spawned in the air.
+The Mi-28N is a fast, heavily armed and armoured, but not very manoeuvrable helicopter. For many, the Havoc is the perfect helicopter for utter destruction, given it can mount a total of sixteen Ataka ATGMs as well as HE rockets as just some icing on the cake. Combined with the 2A42 autocannon equipped with APDS rounds penetrating 82 mm of armour, high-resolution thermals and decent survivability, the Havoc is great for all missions. It's a great first-spawner; 8 Igla AAMs are very useful, especially at the start of matches. They've got great flare resistance, and while they may not pull as much as a Mistral or TY-90, they can still be great for shooting down dangerous enemies like A-10s and other jets that have just spawned in the air.
 
 '''With ATGMs'''
 [[File:Mi-28N firing a missile.png|thumb|350px|Mi-28N firing an Ataka ATGM]]

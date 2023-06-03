@@ -11,7 +11,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet bomber {{B
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
+<!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -53,7 +53,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet bomber {{B
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 520 || 520 || 320 || ~7 || ~3
+| 405 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 405 || 405 || 320 || ~7 || ~3
 |-
 |}
 

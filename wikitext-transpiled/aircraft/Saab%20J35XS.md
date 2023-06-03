@@ -17,7 +17,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Swedish jet fight
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-The Saab J-35XS turns very fast, however turning too fast at lower speeds can also lead to a "superstall", which may cause a crash. Tight turns also lead to a significant loss of energy/speed.
+The Saab J35XS turns very fast, however turning too fast at lower speeds can also lead to a "superstall", which may cause a crash. Tight turns also lead to a significant loss of energy/speed.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -82,29 +82,29 @@ The Saab J-35XS turns very fast, however turning too fast at lower speeds can al
 ! colspan="2" | Engine name || Number
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
 |-
-| colspan="2" | Svenska Flygmotor RM6C || 1
-| colspan="2" | _,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
+| colspan="2" | Svenska Flygmotor RM 6C || 1
+| colspan="2" | 8,255 kg || colspan="2" | 210 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
-! _m fuel || __m fuel || __m fuel
+! 6m fuel || 20m fuel || 21m fuel
 |-
-| ___ kg || colspan="2" | Afterburning axial-flow turbojet
-| _,___ kg || _,___ kg || _,___ kg || _,___ kg
+| 1,400 kg || colspan="2" | Afterburning axial-flow turbojet
+| 8,909 kg || 10,284 kg || 10,435 kg || 11,634 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
-! colspan="4" | Thrust to weight ratio @ 0 m (___%/WEP)
+! colspan="4" | Thrust to weight ratio @ 0 m (WEP)
 |-
 ! Condition || 100% || WEP
-! _m fuel || __m fuel || __m fuel || MGW
+! 6m fuel || 20m fuel || 21m fuel || MGW
 |-
-| ''Stationary'' || 5,765 kgf || 7,800 kgf
-| _.__ || _.__ || _.__ || _.__
+| ''Stationary'' || 5,575 kgf || 8,028 kgf
+| 0.90 || 0.78 || 0.77 || 0.70
 |-
-| ''Optimal'' || ___ kgf<br>(_ km/h) || ___ kgf<br>(_ km/h)
-| _.__ || _.__ || _.__ || _.__
+| ''Optimal'' || 5,575 kgf<br>(0 km/h) || 10,126 kgf<br>(1,250 km/h)
+| 1.14 || 0.98 || 0.97 || 0.88
 |-
 |}
 
@@ -198,7 +198,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>== In-game description ===</nowiki></code>, also if applicable).'' -->
-The SAAB J-35XS (Xerxes Sigurd/Export Suomi) is a Finnish export of the Swedish J35F interceptor. During and after 1970, Sweden provided second hand J35's to the Finnish Air Force. The first wave of exported Drakens were put into service on 1972, while the first J35 assembled under licence by Valmet was finished on March 12th, 1974. A unique feature to the Finnish variants was the ability to mount Soviet R-13M missiles, along with countermeasures such as flares and chaff. 
+The SAAB J-35XS (Xerxes Sigurd/Export Suomi) is a Finnish export of the Swedish J35F interceptor. During and after 1970, Sweden provided second hand J35's to the Finnish Air Force. The first wave of exported Drakens were put into service on 1972, while the first J35 assembled under licence by Valmet was finished on March 12th, 1974. A unique feature to the Finnish variants was the ability to mount Soviet R-13M missiles, along with countermeasures such as flares and chaff.
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 

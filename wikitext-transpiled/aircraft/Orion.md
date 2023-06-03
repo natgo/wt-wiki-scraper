@@ -9,6 +9,8 @@ The '''{{Specs|name}}''' is a Russian strike UCAV. It was introduced in [[Update
 
 At its introduction, the Orion UCAV is the only drone with multiple types of loadouts to choose from when spawning.
 
+Like all other strike drones, the Orion becomes available in any GRB match BR 9.7 or higher - meaning an 8.7 lineup, in a full uptier, can encounter the Orion and other strike drones.
+
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
@@ -60,14 +62,14 @@ The Orion has a low top speed. As a propeller-driven UCAV, its climb rate and ma
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || > ___
+| < 250 || < 250 || < 250 || >250
 |-
 |}
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+Being a strike drone, the Orion has no amour plating whatsoever. The only saving grace of the Orion is that it is still a relatively small target and hard to spot. Remember that being out of sight means a higher chance of survival.
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
@@ -81,14 +83,18 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 2 x 9M133M-2 missiles
 * 2 x 9M133FM3 missiles
 
+The 9M133M-2 Kornet-М is a supersonic tandem charged missile, good for destroying MBTs that players at this battle rating use. It has a good flight speed and decent maneuverability, so you can always hit those sneaky light tanks and SPAAs running around the battlefield.
+
+The 9M113FM3 Kornet-М is a supersonic missile with a High Explosive warhead. It penetrates as much as 61 mm of armour. The blast is enough to 1-hit most MBTs. You can give most [[ADATS]] and [[PUMA]] users an extremely bad day.
+
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-The Orion fills a good niche as the "everyman's CAS". It is available to everyone, which can be very beneficial to players who have not researched BR appropriate aircraft or helicopters. You start off by spawning at an altitude of 4000 meters above the battlefield. Your main priority is SPAA. They are usually found stationary at the enemy spawn. Destroying them will not only help your survival, but also enable your fellow helicopter/aircraft pilots to move in and provide better, uninterrupted CAS. If there are no SPAA around, your next target would be enemy tanks that are near/on the capture points. Once you fire both [[9M133M-2]] missiles, you have three options:
+The Orion fills a good niche as the "everyman's CAS". It is available to everyone, which can be very beneficial to players who have not researched BR appropriate aircraft or helicopters. You start off by spawning at an altitude of 4000 meters above the battlefield. Your main priority is SPAA. They are usually found stationary at the enemy spawn. Destroying them will not only help your survival, but also enable your fellow helicopter/aircraft pilots to move in and provide better, uninterrupted CAS. If there are no SPAA around, your next target would be enemy tanks that are near/on the capture points. Once you fire both [[9M133M-2]] or [[9M133FM3]] missiles, you have three options:
 
 # '''Loiter over the battlefield and provide reconnaissance:''' Just because you can no longer use your missiles doesn't mean you can't help your team! Fly around the battlefield and scan the area with your amazing optical camera. Once you spot any enemy vehicles that pose a threat to your team, quickly mark them on the map and tell your teammates using the in-game chat (alternatively if you have any squad mates, you can work with them and point out enemies nearby using the squad marker)
 # '''Land and rearm:''' Once the two ATGM's are used, reduce your throttle and glide towards the airbase. Once you land, begin any repairs and necessary rearming so you can take off. It should be worth noting that the Orion UCAV suffers from a low speed and a horrid climb rate, making the return to base and return to the battlefield incredibly lengthy. Altitude is also the only saving grace of the Orion, as helicopters/attack aircraft will generally be at lower altitudes and SPAA's will have no trouble sending a very slow target back to the hangar screen. Consequently, fighting at low altitudes should be regarded as a suicide mission.
-# '''Bail out of the vehicle and spawn in a more capable vehicle:''' While it feels counterintuitive to bail out of a vehicle that cost 750 spawn points, it is the fastest and best way to get you back into the battle. Using the spawn points you accumulated, you can get enough to spawn another tank, an attack aircraft, or a helicopter. The advantage of this is that you should have cleared the path for you or other pilots to make some damage, as the SPAA's and anti air threats are no longer there.
+# '''Bail out of the vehicle and spawn in a more capable vehicle:''' While it feels counterintuitive to bail out of a vehicle that cost 750 spawn points, it is the fastest and best way to get you back into the battle. Using the spawn points you gained from the carnage your two [[9M133FM3|Kornet]] missiles caused, you can get enough to spawn another tank, an attack aircraft, or a helicopter. The advantage of this is that you should have cleared the path for you or other pilots to make some damage, as the SPAA's and anti-air threats are no longer there.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -97,7 +103,7 @@ The Orion fills a good niche as the "everyman's CAS". It is available to everyon
 
 * Spawns at altitude (4000 meters)
 * Access to two devastating [[9M133M-2]] or [[9M133FM3]] missiles
-* Exceptional optical camera
+* Exceptional optical camera with 2nd Gen thermals
 * Hard to counter by SPAA
 * Available for everyone to use
 
@@ -105,9 +111,9 @@ The Orion fills a good niche as the "everyman's CAS". It is available to everyon
 
 * Low maximum speed
 * Terrible climb rate
-* Access to only two ATGM's for a price higher than most helicopters and attack aircraft (which can carry more ATGM's)
+* Access to only two ATGMs for a price higher than most helicopters and attack aircraft (which can carry more ATGMs)
 * A large amount of time will be spent going from spawn to the airfield to rearm and back - better off bailing out and spawning another tank, aircraft, or helicopter
-* Small launch window.
+* Small launch window
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

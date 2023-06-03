@@ -237,6 +237,7 @@ Whilst Spitfires and Hurricanes kept the Luftwaffe out of British skies, the ven
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_flower_class Skins and camouflages for {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -255,6 +256,10 @@ File:Flower class (K-218) WTWallpaper 006.jpg
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 * {{Specs-Link|uk_isles_class_trawler}}
+
+;Other Canadian naval vehicles present in the game
+* [[HMCS Haida]]
+* [[HMCS Terra Nova]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

@@ -60,7 +60,7 @@ The {{PAGENAME}} has great manoeuvrability, especially when it comes to low-alti
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || N/A || 280 || ~19 || ~11
+| 680 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || 280 || ~19 || ~11
 |-
 |}
 

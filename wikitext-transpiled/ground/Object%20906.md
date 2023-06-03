@@ -5,7 +5,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rating}}. It was introduced in [[Update 1.65 "Way of the Samurai"]]. Combining a similar gun to the [[ASU-85]] on a turreted device and mobility from the [[PT-76B]], Object 906 is a perfect flanker.
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rating}}. It was introduced in [[Update 1.65 "Way of the Samurai"]]. Combining a gun similar gun those who have played the [[ASU-85]] on a turret, and the mobility from the [[PT-76B]], Object 906 is the perfect flanker.
 
 == General info ==
 === Survivability and armour ===
@@ -125,29 +125,29 @@ If an aircraft is aware of your presence search cover or hide in a treeline, '''
 
 '''Rush'''
 
-One may be tempted to charge and capture the point for the team at the beginning of a game. In such a case, a cooperative team is necessary since the 906 cannot hold the point all by its lonesome. When capturing the point, turn the engine deck towards the enemy. This tactic can actually save the 906 from hasty shots to the hull without hindering the gun arc, though this will cause engine fires which can lead to a burning end if not handled quickly. In this case, take a shot at the now vulnerable foe and then use the FPE item to extinguish the fire. If the point gets swarmed by enemies, fall back and wait for allies to regroup for a counter-attack.
+One may be tempted to charge and capture the point for the team at the beginning of a game. When capturing the point, turn the engine deck towards the enemy. This tactic can actually save the 906 from hasty shots to the hull without hindering the gun arc, though this will cause engine fires which can lead to a burning end if not handled quickly. In this case, take a shot at the now vulnerable foe and then use the FPE item to extinguish the fire. However, higher powered APFSDS will be able to go straight through the engine, killing your crew. If the point gets swarmed by enemies, you have two options. The first is falling back. Using the good reverse gear, and enabling ESS, one can easily retreat back to friendly lines. However, if there are swarms of unaware enemies, the Object 906 can be an absolute menace. Using the 4.3 second reload, you can easily eliminate half the enemy team, if they are unaware. 
 
 '''Decoy'''
 
-Another unusual tactic is to attract enemy players' focus to the 906's location. Use the amphibious capability and other great mobility features to put the 906 in a tricky position to reach for a non-floating/non-flying enemy (often down a cliff, beside/in the water) in such a way that some players will fall into the trap of trying to reach the 906 through methods that expose their sides to allies or falling into the water. This tactic is very situational and is not a method that should be prioritized over any other tactics. It may not win battles, but it could destroy a few enemies, reducing the number of enemies threatening the overall allied team.
+Another unusual tactic is to attract enemy players' focus to the Object 906's location. Use the amphibious capability and other great mobility features to put the Object 906 in a tricky position to reach for a non-floating/non-flying enemy (often down a cliff, beside/in the water) in such a way that some players will fall into the trap of trying to reach the 906 through methods that expose their sides to allies or falling into the water. This tactic is very situational and is not a method that should be prioritized over any other tactics. It may not win battles, but it could destroy a few enemies, reducing the number of enemies threatening the overall allied team.
 
-;Tank Assault
+;'''Tank Assault'''
 
 The Object 906 is a very capable tank in Tank Assault gamemode, largely due to its very fast reload rate, and extremely low cost (almost 4 times cheaper than MBTs / medium tanks). Since the AIs in Tank Assault don't try to angle their armour or present their front, their sides are very often exposed, which allows the Object 906 to quickly rack up kills. You should aim to take a position where you are covered from most sides except the direction where you are shooting, but you shouldn't worry about dying, at all.
 
-Generally, your role should be taken as the set-up/clean-up tank. You will often track or set enemies on fire, which makes them easy to pick-off for your team, or your armour-piercing shell with high explosives will cleanly knock out the tank with a single shot. With that shell, you can also clear out any stationary AIs, even if they are at a slight angle. Remember that top-tier vehicle (Abrams, Challengers etc.) have almost no lower side armour, and you can often penetrate and kill those tanks from the side at angles up to (almost) 60°.
+Generally, your role should be taken as the set-up/clean-up tank. You will often track or set enemies on fire, which makes them easy to pick-off for your team. If the AI are lighter targets, APHE shell will cleanly knock out the tank with a single shot. With that shell, you can also clear out any stationary AIs, even if they are at a slight angle. Remember that top-tier vehicle (Abrams, Challengers etc.) have almost no lower side armour, and you can often penetrate and kill those tanks from the side at angles up to (almost) 60°.
 
 ;Notable enemies
 
 Any tank is a threat that should be avoided, flanked, and destroyed. However, some tanks are impervious to these tactics:
 
-The [[Maus]] has thick flanks at nearly 200 mm that can absorb any shots if angled properly. Do not shoot at it since it will only bring this behemoth to turn itself against the 906 (in this case, just withdraw from its firing arc). Still, it can be defeated in a manner like mammoth hunting: wait until the target gets isolated and encircle it, then shoot it on the sides, in the rear of the hull and always try to be out of its line of sight.
+The [[Maus]] has thick flanks at nearly 200 mm that can absorb any shots if angled properly. Only fire if the Maus is unaware and showing it's flat, unangled side, and at close range. The APHE on the Object 906 has just enough penetration to punch through the side armor. If one is facing it head on, beware the secondary cannon; it is advised to use ESS and retreat. However, if one is defending a critical location and cannot retreat, one can use the HEAT-FS shell. It has over 400 millimeters of penetration. Shoot the Maus on the right side of it's turret face, as that will kill the gunner. You will have to kill each crew member separately. Watch out for other enemy vehicles. 
 
 [[T95]] (otherwise known as "Doom turtle") should not be engaged. Its good all-around bouncy armour will defeat most shots even from the Object 906 will take on the move. To defeat it, take some height at its flank and aim carefully, otherwise, it will just drag its attention. This worthy opponent has a very fast hull turning rate, turning it into an impervious wall even towards any adversary, including the 906 if it notices it. Engage only if necessary.
 
 With the [[Tortoise]], the same caution is advised but it is way easier to flank since its side armour is flat.
 
-Be cautious while aiming at [[IS-3]], [[IS-4M]] and [[T-10M]] since their sides can bounce the 85 mm shots.
+Be cautious while aiming at [[IS-3]], [[IS-4M]] and [[T-10M]] since their sides can bounce the 85 mm shots. Aim at the flat side of the hull, between the roadwheels and the mudguard. That will have the best chance of knocking it out. 
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -161,7 +161,7 @@ Be cautious while aiming at [[IS-3]], [[IS-4M]] and [[T-10M]] since their sides 
 ** Injured crew won't slow its reload rate
 * Very hard-hitting 85 mm, even for Rank V matches
 ** Comes with an APHE as a standard shot - easily capable of knocking out tanks from the side
-** The unlockable HEATFS shell lets the 906 comfortably fight heavier tanks
+** The unlockable HEATFS shell lets the Object 906 comfortably fight heavier tanks
 * Two-plane stabilized gun allows to fire on the move and while braking on almost any terrain
 * Amphibious capability lets you move around maps with bodies of water more easily - rivers can also be easily crossed
 * Very fast reverse speed, about -45 km/h, with fast acceleration towards -70 km/h 
@@ -172,12 +172,12 @@ Be cautious while aiming at [[IS-3]], [[IS-4M]] and [[T-10M]] since their sides 
 * Virtually no armour
 * Only 3 crewmen limits the survivability
 * Turret bustle is protected by only 8 mm, heavy machine guns can easily penetrate and detonate the ammunition in the autoloader
-* Overall, turret front is vulnerable to HMG at short distances
+* Turret front is vulnerable to HMG at short distances
 * Prone to destruction by overpressure
-* Stock experience is horrible
+* Stock experience is quite poor
 ** Mobility and accuracy are bad until relevant upgrades are researched and bought
 * Awful gun depression of -5°
-* Two-plane stabilizer becomes ineffective at speeds above 35-40 km/ph, especially on rough terrain
+* Two-plane stabilizer becomes ineffective at speeds above 35-40 km/h, especially on rough terrain
 * When firing from the water, can accidentally sink itself
 
 == History ==
@@ -196,6 +196,7 @@ The variant on display in the Kubinka museum is the Object 906 with the 8D-6M en
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_object_906 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

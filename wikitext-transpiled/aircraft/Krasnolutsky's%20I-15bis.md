@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet fighter {{Battle-rating}}. It was introduced in [[Update "Sky Guardians"]]. 
+'''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet fighter {{Battle-rating}}. It was introduced in [[Update "Sky Guardians"]]. 
 
 This plane belongs to ''Hero of the Soviet Union'' medal-wearing ace, Mitrofan Petrovich Krasnolutsky.
 
@@ -18,7 +18,6 @@ This plane belongs to ''Hero of the Soviet Union'' medal-wearing ace, Mitrofan P
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -60,7 +59,7 @@ This plane belongs to ''Hero of the Soviet Union'' medal-wearing ace, Mitrofan P
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || - || - || - || ~__ || ~__
+| 580 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || - || ~12 || ~6
 |-
 |}
 
@@ -70,7 +69,7 @@ This plane belongs to ''Hero of the Soviet Union'' medal-wearing ace, Mitrofan P
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || > ___
+| < 180 || < 360 || < 240 || > 190
 |-
 |}
 
@@ -89,7 +88,7 @@ This plane belongs to ''Hero of the Soviet Union'' medal-wearing ace, Mitrofan P
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
 {{main|PV-1 (7.62 mm)}}
 
-The '''''{{PAGENAME}}''''' is armed with:
+'''''{{PAGENAME}}''''' is armed with:
 
 * 4 x 7.62 mm PV-1 machine guns, nose-mounted (1,100 rpg upper + 425 rpg lower = 3,050 total)
 
@@ -98,7 +97,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
 {{main|FAB-50sv (50 kg)|RBS-82|ROS-82}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+'''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * Without load
 * 2 x 50 kg FAB-50sv bombs (100 kg total)

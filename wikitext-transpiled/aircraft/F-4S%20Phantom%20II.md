@@ -198,16 +198,24 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+
+Being a slightly upgraded F-4J, the F-4S retains many of its predecessor's defining characteristics. 
+
+The main difference between the two is the F-4S' leading edge wing slats. These greatly increase manoeuvrability, but as a side affect decrease energy retention. Even with improved manoeuvrability, the F-4S still does not pull hard enough to competitively dogfight.
+
+The most powerful aspect of the F-4S is its weaponry. For IR-guided missiles, it carries AIM-9Hs. Even though they have mediocre performance (max overload 18G), their respectable range and long guidance time makes them ideal for picking off inattentive players or AI planes. The crowning glory of the F-4S' arsenal is the AIM-7F.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Can carry 8 air-to-air missiles
+* Powerful pulse-Doppler radar
+* Can carry 8 air-to-air missiles 
+** One of the best SARH missiles at 11.3
 * Can take off and land on aircraft carrier
 * A wide range of suspended armaments, suitable for any playstyle
+** Can carry enough bombs to destroy a base without significantly affecting its flight performance
 
 '''Cons:'''
 
@@ -218,13 +226,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
-The F-4S is a variant of the F-4 Phantom II, a twin-engine, all-weather jet fighter-bomber originally developed by McDonnell Douglas (now part of Boeing) for the United States Navy in the 1950s. The F-4S was the final production version of the F-4, and saw extensive service during the Cold War and in various conflicts around the world.
+The F-4S is a variant of the F-4 Phantom II, a twin-engine, all-weather jet fighter-bomber originally developed by McDonnell Douglas (now part of Boeing) for the United States Navy in the 1950s. The F-4S was the final production version of the F-4, and saw extensive service during the Cold War and in various conflicts around the world. The F-4S was an upgraded F-4J, with slats and a better turn speed.
 
 The F-4S was developed in response to the need for an advanced fighter-bomber that could operate in all weather conditions and perform a wide range of missions, including air-to-air combat, ground attack, and reconnaissance. It featured improved avionics, a more powerful engine, and upgraded weapons systems compared to earlier variants of the F-4.
 
-One of the F-4S's most significant upgrades was its advanced radar system, which could track multiple targets at once and provide the pilot with a clear picture of the battlefield. It was also equipped with a more sophisticated weapons delivery system, which allowed it to carry a wider variety of bombs and missiles, including the AIM-7 Sparrow and AIM-9 Sidewinder air-to-air missiles, as well as the AGM-65 Maverick air-to-ground missile.
+One of the F-4S's most significant upgrades was its advanced radar system, which could track multiple targets at once and provide the pilot with a clear picture of the battlefield. It was also equipped with a more sophisticated weapons delivery system, which allowed it to carry a wider variety of bombs and missiles, including the AIM-7 Sparrow and AIM-9 Sidewinder air-to-air missiles, as well as multiple types of unguided bombs and rockets.
 
-The F-4S saw extensive service with the US Navy and Marine Corps, as well as with several foreign militaries, including the Israeli Air Force and the Japanese Self-Defense Forces. It was used in a variety of conflicts, including the Vietnam War, the Gulf War, and the Gulf of Sidra incident.
+The F-4S saw extensive service with the US Navy and Marine Corps. It was used in a variety of conflicts, including the Vietnam War, the Gulf War, and the Gulf of Sidra incident.
 
 Despite its success in combat, the F-4S was eventually phased out of service in the late 1980s and early 1990s, as newer and more advanced fighter aircraft were introduced into the US military fleet. Today, several examples of the F-4S can be found on display in aviation museums and military bases around the world, serving as a reminder of the aircraft's important role in military history.
 

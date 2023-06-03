@@ -71,34 +71,34 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battl
 {| class="wikitable" style="text-align:center"
 |-
 ! colspan="3" | Engine
-! colspan="4" | Aircraft mass
+! colspan="5" | Aircraft mass
 |-
 ! colspan="2" | Engine name || Number
-! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
+! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
 | colspan="2" | SNECMA M53-P2 || 1
-| colspan="2" | _,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
+| colspan="2" | 7,780 kg || colspan="3" | 273 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
+! colspan="4" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
-! _m fuel || __m fuel || __m fuel
+! 10m fuel || 20m fuel || 30m fuel || 34m fuel
 |-
-| 1,450 kg || colspan="2" | Afterburning Turbojet
-| _,___ kg || _,___ kg || _,___ kg || _,___ kg
+| 1,450 kg || colspan="2" | Afterburning low-bypass turbofan
+| 8,782 kg || 9,743 kg || 10,724 kg || 11,119 kg || 14,236 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
-! colspan="4" | Thrust to weight ratio @ 0 m (___%/WEP)
+! colspan="5" | Thrust to weight ratio @ 0 m (WEP)
 |-
-! Condition || 100% || ___%/WEP
-! _m fuel || __m fuel || __m fuel || MGW
+! Condition || 100% || WEP
+! 10m fuel || 20m fuel || 30m fuel || 34m fuel || MGW
 |-
-| ''Stationary'' || ___ kgf || ___ kgf
-| _.__ || _.__ || _.__ || _.__
+| ''Stationary'' || 6,200 kgf || 9,688 kgf
+| 1.10 || 0.99 || 0.90 || 0.87 || 0.68
 |-
-| ''Optimal'' || ___ kgf<br>(_ km/h) || ___ kgf<br>(_ km/h)
-| _.__ || _.__ || _.__ || _.__
+| ''Optimal'' || 7,083 kgf<br>(1,512 km/h) || 13,406 kgf<br>(1,512 km/h)
+| 1.53 || 1.38 || 1.25 || 1.21 || 0.94
 |-
 |}
 

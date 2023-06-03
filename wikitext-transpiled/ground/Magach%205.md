@@ -18,34 +18,26 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
-* cast homogeneous armour (hull, turret)
 
-* rolled homogeneous armour (hull roof, rear)
+* Rolled homogeneous armour (hull roof, hull rear - engine vents, turret roof, turret ring)
+* Cast homogeneous armour (hull, turret, cupola)
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 85-200 mm (59-74°) ''Front glacis''
-63-200 mm (13-60°) ''Lower glacis''
-| 76 mm (8-43°) ''Front''
-51 mm (0-43°) ''Rear''
-| 35 mm (26-32°) ''Top''
-25 mm (61-62°) ''Bottom''
-| 25.4-57 mm
+| Hull || 85-200 mm (59-74°) ''Front glacis'' <br> 63-200 mm (13-60°) ''Lower glacis'' || 76 mm (5-45°) ''Front'' <br> 51 mm (0-44°) ''Rear'' || 35 mm ''Top'' <br> 25 mm (32-62°) ''Bottom'' || 57 mm (0-58°) <br> 30 mm ''Engine access panel'' <br> 12.7 mm (76°) ''Engine vents''
 |-
-| Turret || 127 mm (12-76°) ''Turret front''
-152 + 82 mm (17-26°) ''Gun mantlet''
-| 69-100 mm (12-36°) || 51-55 mm (2-71°) || 25-69 mm
+|Turret || 83.2-173 mm (0-48°) ''Turret front'' <br> 152 + 82 mm (17-26°) ''Gun mantlet'' || 69-100 mm (12-36°) || 51-55 mm (2-71°) <br> 25.4 mm (75-82°) ''Underpart of the turret'' || 25-69 mm
 |-
-| Cupola || colspan="4" | ~ 26-71 mm (6-48°) 
-|-
+|Cupola || colspan="4" style="text-align:center" | 70 mm
 |}
 
 '''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
 <!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
-* suspension wheels, tracks and torsion bars are 20 mm thick
-* 25-55mm thick in the rear
+* Suspension wheels, tracks and torsion bars are 20 mm thick.
+* The turret ring is 70 mm thick.
+* "Blazer" ERA is 5 mm effectively thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -139,20 +131,21 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
-* decent 105mm gun with access to APFSDS
-* night fighting ability with NVD
+'''Pros:'''
 
-*
+* Good firepower
+* Decent mobility
+* Surprisingly survivable, two crew members often survive a shot
+* ERA able to defeat low-end chemical shells
 
 '''Cons:'''
 
-* not very fast
-* low survivability even with ERA
-* no HMGs to defend yourself from CAS
-
-*
+* Ineffective armour in an uptier
+* No stabilizer
+* Ammunition explosions are common as most of the shells are in the front next to the driver
+* ERA only effective against chemical shells - only provides 5 mm kinetic protection
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

@@ -48,10 +48,9 @@ Introduced in [[Update "Apex Predators"]] this Italian Tornado is similar to oth
 |-
 |}
 
-{| class="wikitable" style="text-align:center" width="50%"
+{| class="wikitable" style="text-align:center" width="60%"
 |-
-! colspan="7" | Limits
-|-
+! rowspan="2" | Limits
 ! rowspan="2" | Wings (km/h)
 ! rowspan="2" | Gear (km/h)
 ! colspan="3" | Flaps (km/h)
@@ -59,7 +58,11 @@ Introduced in [[Update "Apex Predators"]] this Italian Tornado is similar to oth
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || ___ || ___ || ___ || ~__ || ~__
+! Min sweep
+| 972 || rowspan="2" | 520 <!-- {{Specs|destruction|gear}} --> || 972 || 552 || 440 || ~__ || ~__
+|-
+! Max sweep
+| 1,555 || - || - || - || ~__ || ~__
 |-
 |}
 
@@ -134,7 +137,7 @@ The Tornado has no armour to speak of and is relatively large, making it an easy
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* 2 x 27 mm Mauser BK27 cannons, chin-mounted (180 rpg = 360 total)#
+* 2 x 27 mm Mauser BK27 cannons, chin-mounted (180 rpg = 360 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}

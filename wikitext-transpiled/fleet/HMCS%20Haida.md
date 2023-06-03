@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British destroyer {{Battle-rating}}. It was introduced as a [[wt:en/news/5810-fleet-news-what-awaits-us-in-update-1-83-masters-of-the-sea-en|premium pack]] in [[Update 1.83 "Masters of the Sea"]] as part of the British fleet closed beta test and was removed from the store after the [[wt:en/news/6464-shop-war-thunder-birthday-sale-en|2019 Anniversary sale]].
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British destroyer {{Battle-rating}}. It was introduced as a [[wt:en/news/5810-fleet-news-what-awaits-us-in-update-1-83-masters-of-the-sea-en|premium pack]] in [[Update 1.83 "Masters of the Sea"]] as part of the British fleet closed beta test and was removed from the store after the [[wt:en/news/6464-shop-war-thunder-birthday-sale-en|2019 Anniversary sale]].  It was made available for purchase with Golden Eagles {{ge}} in-game briefly during the [[wt:en/news/8296-special-decal-and-destroyer-for-canadian-armed-forces-day-en|2023 "Canadian Armed Forces Day"]] mini-event.
 
-She is a Tribal-class destroyer that has a unique layout of her primary, secondary and tertiary weaponry.
+The Haida is a Tribal-class destroyer in Canadian service, that has a unique layout of her primary, secondary and tertiary weaponry.
 
 == General info ==
 === Survivability and armour ===
@@ -124,12 +124,27 @@ After the Korean War, Haida was ultimately decommissioned from active service, b
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_destroyer_haida Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
+;Images
+<gallery mode="packed-hover" heights="200">
+File:HMCS Haida WTWallpaper001.jpg
+File:HMCS Haida WTWallpaper002.jpg
+File:HMCS Haida WTWallpaper003.jpg
+File:HMCS Haida WTWallpaper004.jpg
+File:HMCS Haida WTWallpaper005.jpg
+File:HMCS Haida WTWallpaper006.jpg
+</gallery>
+
 == See also ==
-''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+<!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;Other Canadian naval vehicles present in the game
+* [[HMCS Brantford]]
+* [[HMCS Terra Nova]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
@@ -139,7 +154,9 @@ After the Korean War, Haida was ultimately decommissioned from active service, b
 * [[wt:en/news/5818-fleet-development-hmcs-haida-commonwealth-veteran-en|[Devblog] HMCS Haida - Commonwealth Veteran]]
 
 === References ===
+
 ;Bibliography
+
 * Parks Canada. (n.d.). HMCS Haida, National historic site. Retrieved January 19, 2021, from <nowiki>https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=7624</nowiki>
 * Sarty, R. (2006, February 7). HMCS Haida. Retrieved January 19, 2021, from <nowiki>https://www.thecanadianencyclopedia.ca/en/article/haida-ship</nowiki>
 

@@ -14,7 +14,7 @@ The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]
 
 The most common iteration of the Panzer IV, the '''Ausf. H''' carries the powerful [[KwK40 L48 (75 mm)|75 mm KwK40 L/48]] gun that can destroy most tanks it encounters. It also has side skirts that can provide a small degree of protection to the side armour of the tank.
 
-The most distinctive aspect of this Panzer IV compared to its previous iterations, is that its covered head to toe in 5 mm thick spaced armour skirts (known as Schürzen). These skirts, while they won't stop much in the way of an enemy AP or APBC shell, It can give tanks like the [[M4A3 (105)]] some trouble in damaging you. There is a small mobility penalty from having the extra armour though, compared to the [[Pz.IV F2]] and [[Pz.IV G|G]]. It's the first Panzer IV to get the upgraded 75 mm L/48 gun. While not that much of an upgrade from the L/46 on the F2 and G, this cannon still packs a punch at its BR. It is also the only Panzer IV in the game that comes with Zimmerit modelled on the hull, turret, and turret skirts. This just affects the visuals though, as War Thunder doesn't have infantry armed with magnetic mines.
+The most distinctive aspect of this Panzer IV compared to its previous iterations, is that its covered head to toe in 5 mm thick spaced armour skirts (known as Schürzen). These skirts, while they won't stop much in the way of an enemy AP or APBC shell, It can give tanks like the [[M4A3 (105)]] some trouble in damaging you. There is a small mobility penalty from having the extra armour though, compared to the [[Pz.IV F2]] and [[Pz.IV G|G]]. It's the first Panzer IV to get the upgraded 75 mm L/48 gun. While not that much of an upgrade from the L/43 on the F2 and G, this cannon still packs a punch at its BR. It is also the only Panzer IV in the game that comes with Zimmerit modelled on the hull, turret, and turret skirts. This just affects the visuals though, as War Thunder doesn't have infantry armed with magnetic mines.
 
 == General info ==
 === Survivability and armour ===
@@ -230,9 +230,11 @@ Its disadvantages included low manoeuvrability and speed.
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_IV_ausf_H Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
+
 * [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 ;Videos

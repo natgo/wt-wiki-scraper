@@ -16,7 +16,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French light tank {{Battle-rat
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+The E.B.R 1951's armor is primarily designed to protect against small-caliber machine gun fire and shell fragments. Its hull and turret are made of welded steel plates, providing reasonable protection against low-caliber machine guns and light artillery fire. However, it should be noted that the E.B.R 1951 is not intended to engage in direct combat with heavy tanks or powerful anti-tank weaponry.
+
+While the armor is not very thick, the tank compensates for its vulnerability by relying on its excellent speed and agility to avoid enemy fire. Its speed and maneuverability make it a difficult target for slower tanks and artillery, allowing the E.B.R 1951 to employ hit-and-run tactics effectively.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)

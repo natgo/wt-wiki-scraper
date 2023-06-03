@@ -13,10 +13,11 @@ It was introduced in [[Update "Apex Predators"]]. The SUB-I-II provides an excel
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-The SUB-I-II has no notable armour. It is dangerous to stand in the open without cover as the SPAA can be penetrated by any tank or plane. The survivability of this SPAA is very low if any enemy has a direct line of sight on it. 
+The SUB-I-II has no notable armour. It is dangerous to stand in the open without cover, as the SPAA can be penetrated by any tank or plane. The survivability of this SPAA is very low if any enemy has a direct line of sight on it. 
 
 '''Armour type:'''
-* Aluminium ally 5083 (hull, gun mount)
+
+* Aluminium alloy 5083 (hull, gun mount)
 * Cast homogeneous armour (cupola)
 
 {| class="wikitable"
@@ -123,11 +124,13 @@ When hunting for planes, the SUB-I-II should always have some sort of cover to h
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
+
 * High rate of fire
 * Amphibious
 * Can penetrate some medium tanks from the side
 
 '''Cons:''' 
+
 * Low survivability
 * Slow speed in water
 * Low ammo count

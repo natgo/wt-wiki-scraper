@@ -85,7 +85,7 @@ Pilots familiar with delta-wing fighter designs will be at home in the Mirage 20
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
 | colspan="2" | SNECMA M53-P2 || 1
-| colspan="2" | 7,570 kg || colspan="3" | ___ kg/m<sup>2</sup>
+| colspan="2" | 7,570 kg || colspan="3" | 268 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="4" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
@@ -105,8 +105,8 @@ Pilots familiar with delta-wing fighter designs will be at home in the Mirage 20
 | ''Stationary'' || 6,200 kgf || 9,688 kgf
 | 1.13 || 1.02 || 0.92 || 0.89 || 0.75
 |-
-| ''Optimal'' || 6,879 kgf<br>(1,365 km/h) || 12,862 kgf<br>(1,365 km/h)
-| 1.50 || 1.35 || 1.22 || 1.18 || 0.99
+| ''Optimal'' || 7,083 kgf<br>(1,512 km/h) || 13,406 kgf<br>(1,512 km/h)
+| 1.56 || 1.41 || 1.27 || 1.23 || 1.04
 |-
 |}
 

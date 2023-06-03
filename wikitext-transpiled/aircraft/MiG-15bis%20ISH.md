@@ -59,7 +59,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet jet fighte
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || 598 || 450 || ~12 || ~7
+| 1,132 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || 598 || 450 || ~12 || ~7
 |-
 |}
 
@@ -69,7 +69,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet jet fighte
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 600 || < 700 || < 750 || N/A
+| < 600 || < 700 || < 750 || -
 |-
 |}
 

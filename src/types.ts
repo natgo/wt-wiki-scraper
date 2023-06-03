@@ -719,7 +719,7 @@ export interface AirMod extends GameBaseMod {
   effects?: {
     nightVision?: {
       sightThermal?: {
-        resolution: [1024, 768];
+        resolution: [1024 | 1920, 1080 | 768];
         noiseFactor: 0.5 | 0.05;
       };
       pilotIr?: {

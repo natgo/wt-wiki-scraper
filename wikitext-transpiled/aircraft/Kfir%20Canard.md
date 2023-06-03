@@ -11,19 +11,19 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}'''; known as F-21A/Kfir Gaderot(C.1) in US/Israeli service, is a premium gift rank {{Specs|rank}} Israeli jet fighter {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
+The '''{{Specs|name}}''', known as the F-21A/Kfir Gderot in US/Israeli service, is a premium gift rank {{Specs|rank}} Israeli jet fighter {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
 
-The representation of the IAI Kfir C.1 variant in Israel Air Force service; the jet itself looks extremely like its technological predecessor [[Nesher]], based on Dassault [[Mirage 5 (Family)|Mirage 5]], but with a pair of fixed canards bolted onto the the sides of the air intake. It might somehow make it look like the later Mirage 2000, but it has an air-to-air armament inferior to its enemies and the combat limitations of delta-wing jets. For ground attack, the Kfir Canard still offers varieties of US bombs and rocket pods to make it effective against grouped targets.
+The jet looks extremely like its technological predecessor, the [[Nesher]]; based on the Dassault [[Mirage 5 (Family)|Mirage 5]], but with a pair of fixed canards bolted onto the the sides of the air intake. It might somehow make it look like the later Mirage 2000, but it has an air-to-air armament inferior to its enemies and the combat limitations of delta-wing jets. For ground attack, the Kfir Canard still offers varieties of US bombs and rocket pods to make it effective against grouped targets.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-At first glance, the jet looks very similar to French's Mirage series and players might start to think about the tech-tree predecessor Nesher. However, closer inspection shows the major differences of the Kfir Canard over the Mirage 5/Nesher: a pitot tube, enlarged air intakes, a pair of canards on the intakes, a vertical stabilizer with a longer "spine" as well as a shorter tail. For players already used to the Nesher or Mirage IIICJ, they will quickly feel familiar to the Kfir. For new comers who are flying a delta-wing jet for the first time, they will have to keep in mind the traits of delta wing: high rate of climb, severely energy bleed under manoeuvre and rather high stall speed. But a good news for the Kfir series is the engine, due to the upgrade of engine from a Snecma Atar into a GE J79-GE-17 with higher thrust, the overall acceleration and manoeuvring ability in sustained turns is better than its predecessors (the fixed canard performs inferior to later variants with larger control-canards when pulling high AoA). Always remember the traits of delta-wings and stick to boom-and-zoom attacks rather than turnfights (unless in dire or 1-vs-1).
+At first glance, the jet looks very similar to the French Mirage series and players might start to think about the tech-tree predecessor Nesher. However, closer inspection shows the major differences of the Kfir Canard over the Mirage 5/Nesher: a pitot tube, enlarged air intakes, a pair of canards on the intakes, a vertical stabilizer with a longer "spine" as well as a shorter tail. For players already used to the Nesher or Mirage IIICJ, they will quickly feel familiar to the Kfir. For new comers who are flying a delta-wing jet for the first time, they will have to keep in mind the traits of delta wing: high rate of climb, severely energy bleed under manoeuvre and rather high stall speed. But a good news for the Kfir series is the engine, due to the upgrade of engine from a SNECMA Atar into a GE J79-GE-17 with higher thrust, the overall acceleration and manoeuvring ability in sustained turns is better than its predecessors (the fixed canard performs inferior to later variants with larger control-canards when pulling high AoA). Always remember the traits of delta-wings and stick to boom-and-zoom attacks rather than turnfights (unless in dire or 1-vs-1).
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
+! colspan="2" | Max speed<br>(km/h at 10,668 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -32,10 +32,10 @@ At first glance, the jet looks very similar to French's Mirage series and player
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
+| 2,304 || 2,254 || rowspan="2" | {{Specs|ceiling}} || 28.5 || 29.0 || 166.6 || 155.1 || rowspan="2" | 750
 |-
 ! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+| 2,444 || 2,376 || 25.6 || 27.0 || 246.4 || 205.0
 |-
 |}
 
@@ -61,7 +61,7 @@ At first glance, the jet looks very similar to French's Mirage series and player
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || N/A || N/A || ~__ || ~__
+| 1,460 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || - || ~11 || ~4
 |-
 |}
 
@@ -71,7 +71,7 @@ At first glance, the jet looks very similar to French's Mirage series and player
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || N/A
+| < 920 || < 750 || < 1,460 || -
 |-
 |}
 
@@ -84,29 +84,29 @@ At first glance, the jet looks very similar to French's Mirage series and player
 ! colspan="2" | Engine name || Number
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
 |-
-| colspan="2" | _____ || _
-| colspan="2" | _,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
+| colspan="2" | General Electric J79-GE-17 || 1
+| colspan="2" | 7,300 kg || colspan="2" | 285 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
-! _m fuel || __m fuel || __m fuel
+! 8m fuel || 20m fuel || 27m fuel
 |-
-| ___ kg || colspan="2" | ___
-| _,___ kg || _,___ kg || _,___ kg || _,___ kg
+| 1,750 kg || colspan="2" | Afterburning axial-flow turbojet
+| 8,055 kg || 9,082 kg || 9,818 kg || 13,893 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
-! colspan="4" | Thrust to weight ratio @ 0 m (___%/WEP)
+! colspan="4" | Thrust to weight ratio @ 0 m (WEP)
 |-
-! Condition || 100% || ___%/WEP
-! _m fuel || __m fuel || __m fuel || MGW
+! Condition || 100% || WEP
+! 8m fuel || 20m fuel || 27m fuel || MGW
 |-
-| ''Stationary'' || ___ kgf || ___ kgf
-| _.__ || _.__ || _.__ || _.__
+| ''Stationary'' || 5,200 kgf || 8,154 kgf
+| 1.01 || 0.89 || 0.83 || 0.58
 |-
-| ''Optimal'' || ___ kgf<br>(_ km/h) || ___ kgf<br>(_ km/h)
-| _.__ || _.__ || _.__ || _.__
+| ''Optimal'' || 5,366 kgf<br>(1,460 km/h) || 10,978 kgf<br>(1,200 - 1,400 km/h)
+| 1.36 || 1.20 || 1.12 || 0.79
 |-
 |}
 
@@ -273,5 +273,6 @@ The default delivery in-game represents the No. 703 of the 109th "Valley" Squadr
 === References ===
 <references />
 
+{{Manufacturer IAI}}
 {{Israel jet aircraft}}
 {{Israel premium aircraft}}

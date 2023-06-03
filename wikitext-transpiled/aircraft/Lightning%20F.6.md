@@ -11,11 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]].
+Development of the English Electric Lightning began in the late 1940s, following the cancellation of the Miles M.52 supersonic research aircraft program. It was designed as a high performance interceptor aircraft, to defend against Soviet bombers, with its unique stacked dual engine design. The Lightning F.6, entering service in December 1965, was the final production variant, and featured an enlarged ventral fuel tank, a new wing design, and reintroduction of the 30 mm ADEN cannons. The Lightning served as the RAF's primary interceptor throughout the 1960s and into the 1970s, and was gradually phased out of service in the late 1980s, being replaced by the McDonnell Douglas [[Phantom FGR.2]].
 
-The Lightning is a very distinctive aircraft, with its unique stacked engine design, highly swept wings, and large ventral fuel tank. It was designed as a high performance interceptor aircraft, to defend against Soviet bombers, sacrificing range and flexibility for raw performance. With most of the fuselage taken up by the two powerful Rolls-Royce Avon engines, fuel had to be put wherever it could fit inside the wings (including inside the flaps), and in a large ventral fuel tank fitted to the underside of the aircraft. Another factor adding to the Lightning's unique appearance is the fitment of two air-to-air missiles to the sides of the forward fuselage.
-
-In-game, the Lightning has decent acceleration, climb rate, and top speed; and can carry two Firestreak or Red Top missiles. While its missiles are not the best in the game they are still powerful weapons, although the limited quantity does require you to chose your shots carefully.
+Introduced in [[Update 1.97 "Viking Fury"]], the Lightning is a very distinctive aircraft, with its unique stacked engine design, highly swept wings, and large ventral fuel tank. It has decent acceleration, climb rate, and top speed; and can carry two Firestreak or Red Top missiles. While its missiles are not the best in the game they are still powerful weapons, although the limited quantity does require you to chose your shots carefully.
 
 == General info ==
 === Flight performance ===

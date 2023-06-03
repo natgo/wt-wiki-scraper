@@ -16,7 +16,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish light tank {{Battle-ra
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-The armour on the Vickers Mk.E will only stop rifle-calibre munitions reliably, although some machine guns like the British 7.92 mm BESA or the German 7.92 mm MG34/42 can easily punch through certain 10 mm plates. The unsloped armour plates, combined with their weak protection levels boils down to one conclusion: avoid getting shot at. However, unlike the T-26, the Vickers comes with 4 crewmen, which means that shells with no explosive filler shells may not knock out the entire crew with one hit to the hull, giving you a small chance to fight back, but don't count on this too much.
+The armour on the Vickers Mk.E will only stop rifle-calibre munitions reliably, although some machine guns like the British 7.92 mm BESA or the German 7.92 mm MG34/42 can easily punch through certain 10 mm plates. The unsloped armour plates, combined with their weak protection levels boils down to one conclusion: avoid getting shot at. However, unlike the [[T-26]], the Vickers comes with 4 crewmen, which means that shells with no explosive filler shells may not knock out the entire crew with one hit to the hull, giving you a small chance to fight back, but don't count on this too much.
 
 '''Armour type:'''
 
@@ -72,6 +72,7 @@ The Vickers Mk.E  is equipped with the 37 mm Psv.K/36 which is a fairly mediocr
 
 ==== Ammunition ====
 There are two available rounds:
+
 * an APHE round - Max 55 mm of penetration - Lower penetration but high damage potential.
 * an AP shell - Max 62 mm of penetration - Higher penetration but low damage potential.
 
@@ -135,14 +136,15 @@ Be aware that enemy aircraft with bombs or powerful guns can easily take out the
 
 '''Pros:'''
 
-* The APHE round has a good penetration for the low BR and inflicts potent post-penetration damage
+* The APHE round has a adequate penetration for the low BR and inflicts potent post-penetration damage
 * Very short reload time
 * Fairly accurate gun at short to medium ranges
+* Adequate gun depression
 
 '''Cons:'''
 
-* Poor protection
-* Side armour can be penetrated even by light machine guns
+* Poor protection, side armour can be penetrated even by light machine guns
+* Struggles against better-armoured foes like the D2
 * Slow reverse speed
 
 == History ==

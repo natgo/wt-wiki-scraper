@@ -131,9 +131,9 @@ Opponents to keep a keen eye out for are:
 
 '''CR.32''': These Italian craft can match and even out-turn the Nimrod Mk II while boasting the aforementioned fearsome twin Breda 12.7mm machine guns. Even a small pass during a turnfight can reduce the Nimrod to a flaming wreckage.
 
-'''Ki-10''': These Japanese craft, while sporting the same calibre armament as the Nimrod. Can also readily outturn and harass a Nimrod Mk II.
+'''Ki-10''': These Japanese craft, while sporting the same calibre armament as the Nimrod, they can also readily outturn and harass a Nimrod Mk II.
 
-'''I-15''': All I-15 aircraft whether the Russian or Chinese variants are fearsome opponents owing to their excellent agility and slightly superior firepower comparative to the Nimrods own.
+'''I-15''': All I-15s, whether the Russian or Chinese variants, are fearsome opponents owing to their excellent agility and slightly superior firepower comparative to the Nimrod's own.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"

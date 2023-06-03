@@ -5,13 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British motor gun boat {{Battle-rating}}. It was introduced in [[Update "Drone Age"]].
+The HMAS ''Arrow'' was part of the ''Attack'' class series of 20 patrol boats ordered by the Royal Australian Navy. HMAS ''Arrow'' was commissioned into naval service on 3 July 1968, to serve as light coast patrol, search and rescue and replacing older craft in service at the time. She served as a training vessel for the Royal Australian Naval Reserves (RANR) until 1974, before undergoing a major refit and returning to active duties with the RAN. On 25 December 1974, she was driven ashore in Darwin by Cyclone Tracy and sank.
 
-The HMAS Arrow was part of a series of 20 patrol boats ordered by the Royal Australian Navy. HMAS ''Arrow'' was commissioned into naval service on 3 July 1968, to serve as light coast patrol, search and rescue and replacing older craft in service at the time.
-
-While possibly being in the eye of the storm due to the evident lack of substantial firepower when compared to relatives at the rank as the armed to the teeth [[Fairmile D (697)]] or [[Fairmile D (601)]], Arrow should not be underestimated. The single 40 mm QF (Quick-Firing) Mark VII gun is a known effective gun. Not only for the superior fire rate but also due to efficient ballistics, range and penetration values. Experienced captains and newcomers alike may take advantage of this gun to make the Arrow shine.
-
-With no surprise on the speed or additional armament, Arrow is straightforward in its playstyle, likely focusing on long-range gunnery to duel faster and smaller patrol boats that probably will be also better armed. In this regard, it is a good learning step to the similar playstyle of the later [[Brave Borderer]].
+Introduced in [[Update "Drone Age"]], HMAS ''Arrow'' may be underestimated due to the evident lack of substantial firepower when compared to relatives at the rank such as the armed to the teeth [[Fairmile D (697)]] or [[Fairmile D (601)]]. However, the single 40 mm QF (Quick-Firing) Mark VII gun can be highly effective, not only for the superior fire rate but also due to efficient ballistics, range, and penetration values. Experienced captains and newcomers alike may take advantage of this gun to make the ''Arrow'' shine. Given the lack of speed or additional armament, ''Arrow'' is straightforward in its playstyle, likely focusing on long-range gunnery to duel faster and smaller patrol boats that probably will be also better armed. In this regard, it is a good learning step to the similar playstyle of the later [[Brave Borderer]].
 
 == General info ==
 === Survivability and armour ===

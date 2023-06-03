@@ -130,7 +130,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British medium ta
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Videos
-{{Youtube-gallery|AxypZKOq3Ms|'''Battle Pass: Her Majesty's Hussar''' discusses the {{PAGENAME}} at 02:48 - ''War Thunder Official Channel''}}
+{{Youtube-gallery|vknn8HX9DD4|'''The Shooting Range #355''' - ''Metal Beasts'' section at 00:23 discusses the {{PAGENAME}}.|AxypZKOq3Ms|'''Battle Pass: Her Majesty's Hussar''' discusses the {{PAGENAME}} at 02:48 - ''War Thunder Official Channel''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

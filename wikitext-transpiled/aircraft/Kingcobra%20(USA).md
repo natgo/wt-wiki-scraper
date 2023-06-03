@@ -59,7 +59,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American fighter 
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 378 || 359 || 262 || ~12 || ~6
+| 887 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 378 || 359 || 262 || ~12 || ~6
 |-
 |}
 
@@ -70,20 +70,6 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American fighter 
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
 | < 410 || < 380 || < 410 || > 420
-|-
-|}
-
-{| class="wikitable" style="text-align:center"
-|-
-! colspan="3" | Compressor (RB/SB)
-|-
-! colspan="3" | Setting 1
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 7,000 m || 1,100 hp || 1,705 hp
 |-
 |}
 

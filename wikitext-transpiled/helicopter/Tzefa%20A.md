@@ -9,14 +9,14 @@
 }}
 
 == Description ==
-<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli attack helicopter {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]].
-
+<!-- "'In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about." -->
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli attack helicopter {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]]. The Tzefa A is an AH-1G in Israeli service. It has no modifications to the helicopter, and has the same performance as the [[AH-1G]].
 == General info ==
 === Flight performance ===
 {{Specs-Heli-Flight}}
-<!-- ''Describe how the helicopter behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-''Describe how the helicopter behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
+<!-- "Describe how the helicopter behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle." -->
+
+The Tzefa A has a relatively slow climb rate, descent speed, and mediocre acceleration. In order to accelerate quickly, you need to tip the nose of the helicopter almost perpendicular to the ground. The maneuverability is also quite descent at high speeds, having good control. However, something to note is that when trying to suddenly stop the helicopter, if you tip the nose up, you will start to roll to one side. This essentially eliminates the ability for this helicopter to stop quickly. Keep that in mind when flying this vehicle. There are several weapon selections for this vehicle. This includes a 20mm cannon, 2x 7.62 machine guns, 28x FFAR Mighty Mouse rockets, or 76x FFAR Mighty Mouse rockets.
 
 {| class="wikitable" style="text-align:center"
 |-
@@ -36,8 +36,8 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli attack helicopter {{Ba
 
 === Survivability and armour ===
 {{Specs-Heli-Armour}}
-<!-- ''Examine the survivability of the helicopter. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical systems.'' -->
-''Examine the survivability of the helicopter. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical systems.''
+<!-- "Examine the survivability of the helicopter. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical systems." -->
+This helicopter is quite resilient when it comes to being hit. Being how skinny it is, it is quite hard to hit, especially when moving at high speeds. The pilot and gunner are secured in two seperate cockpits in the front of the helicopter with 20mm of kevlar protection for the crew. The most vulnerable part of the helicopter is the engine and tail. Being shot in these two vital places is almost guaranteed to send you back to the respawn screen. Being shot in the engine significantly decreases your flight performance which can lead to a crash due to terrain. Also, being shot in the tail will probably take out your tail control. With no tail control, you spin out of control and you'll crash.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -46,7 +46,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli attack helicopter {{Ba
 {{Specs-Heli-Armaments}}
 === Offensive armament ===
 {{Specs-Heli-Offensive}}
-<!-- ''Describe the offensive armament of the helicopter, if any. Describe how effective the cannons and machine guns are in battle, also what ammunition belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
+<!-- "Describe the offensive armament of the helicopter, if any. Describe how effective the cannons and machine guns are in battle, also what ammunition belts or drums are better to use. If there is no offensive weaponry, delete this subsection." -->
+The are essentially three options for offensive armaments'. 20mm cannon, 2x 7.62 machine guns, or FFAR Mighty Mouse rockets. The 20mm cannons are good for dealing with light vehicles and IFVs. The 7.62 is good if you wish to defend yourself against open-top vehicles or planes, and the FFAR rockets are good for destroying tanks. Most of the time, you'll take the FFAR rockets into battle. These rockets are unguided, which means you'll need to "spam" them in order to hit a target.
+
 {{main|M129 (40 mm)|M134 Minigun (7.62 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
@@ -57,7 +59,8 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
-<!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
+<!-- "Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection." -->
+All weapon selections are placed under the wings. This includes the 20mm cannon, 7.62 MGs, and FFAR rocket pods.
 {{main|FFAR Mighty Mouse|M195 (20 mm)|M134 Minigun (7.62 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
@@ -86,17 +89,29 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 |}
 
 == Usage in battles ==
-<!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
-
+<!-- "Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB)." -->
+The Tzefa A is a quite low profile helicopter. This means you can easily "sneak" around the battlefield almost unseen. Your best element in this helicopter is the element of surprise. Try not to linger too long in any specific area, or you'll most definitely be shot down. Another tactic is to simply run straight into the battlefield at a low altitude, high speed, and "boom n zoom". Using this tactic is much riskier as you are most prone to being fired upon, but it also offers a quicker disengagement. The most dangerous enemies you'll encounter are the Gepard, Strela, and most AA at this BR. The best way to kill these targets is to fly low to the ground, and flank around to their side and shoot them.
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
+<!-- "Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective"" -->
+In summary, the Tzefa A should be played cautiously. With correct usage, it can wreak havoc on the enemy team. Be careful when you come into contact with enemy AA, as you are very vulnerable in certain spots. Try to avoid getting shot in the engine and tail as those are vital to the flight of your helicopter. As you engage targets, make sure you always have a plan to disengage quickly in case things go wrong. Use the low profile of the helicopter to your advantage to "sneak" around and only pop up when you're about to strike.
+
 
 '''Pros:'''
+
+* High maneuverability
+* Lots of rockets
+* Low profile makes it a small target to hit
+* Airframe of the helicopter is very resilient
+* High speed
+
 *
 
 '''Cons:'''
+
+* Being shot in the engine/tail is almost guaranteed to kill you
+* Low climb rate
+* Cannot stop quickly if needed
+
 *
 
 == History ==
@@ -107,6 +122,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ah_1g_iaf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -115,6 +131,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[AH-1 (Family)]]
 
 == External links ==
@@ -122,6 +139,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

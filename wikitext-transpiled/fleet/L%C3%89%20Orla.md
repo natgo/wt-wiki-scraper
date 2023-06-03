@@ -5,13 +5,10 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British sub-chaser {{Battle-rating}}. It was introduced in [[Update "Direct Hit"]].
 
-LÉ Orla, pennant number (P41), is one of the five Peacock-class corvettes finished, originally under Royal Navy use as HMS Swift, then sold and renamed to Irish Naval Service in 1988.
+LÉ Orla, pennant number P41, is one of the five completed Peacock-class corvettes, originally built for Royal Navy use as HMS Swift (P243). Commissioned in 1985, she served in the waters around Hong Kong as part of the 6th Patrol Craft Squadron with the others of her class, undertaking training, search-and-rescue, and policing operations. In 1988, she was sold to the Irish Naval Service and renamed. She acted as a high-speed patrol vessel until her eventual decommission on 8 July 2022, to be replaced by new inshore patrol vessels purchased from New Zealand.
 
-As a Premium addition, LÉ Orla got some nifty things to deliver: namely the reliable 76 mm OTO-Melara Compact automatic gun, a unique punch of naval power for the veteran British captains in the coastal fleet, and fans of the [[HMS Peacock]]'s dexterity. With the addition of lighter yet useful auxiliary armament, two sets of 20 mm/65 Rheinmetall autocannons at each side of the ship with a menacing fire rate and distinct sound.
-
-Quite as much as her sister ship, The ship's playstyle is very dependent on her sole bow gun. Despite seeming like not enough firepower, she is quite threatening in the hands of skilled players. An adequate playstyle may be focused on proving air defence, medium-range support against lighter crafts and the defence of captured points.
+Introduced in [[Update "Direct Hit"]], LÉ Orla has some nifty features; namely, the reliable 76 mm OTO-Melara Compact automatic gun, a unique punch of naval power for the veteran British captains in the coastal fleet and fans of the [[HMS Peacock]]'s dexterity, but also the addition of lighter yet useful auxiliary armament, in two sets of 20 mm/65 Rheinmetall autocannons on each side of the ship with a menacing fire rate and distinct sound. Much like her sister ship, Orla's playstyle is very dependent on her sole bow gun. Despite seeming like not enough firepower, she can be used to great effect in providing air defence and medium-range support against lighter crafts, defence of captured points, and can even combat destroyers by targeting their weakspots.
 
 == General info ==
 === Survivability and armour ===
@@ -104,7 +101,7 @@ She was purchased by the Irish State in 1988 and given the name of LÉ Orla. The
 
 The LÉ Orla's is famous for its participation in two drug seizure operations in Irish water. The first was in 1993, when the LÉ Orla intercepted and boarded a 65 ft ketch named Brime, which was the largest cannabis seizure in Ireland.<ref name="Irish_P41" /> The second was in 2008 which LÉ Orla assisted in the seizure of cocaine.<ref name="CBC_Orla">The Associated Press 2007</ref>
 
-The LÉ Orla is still in service with the Irish Naval service, although manpower shortages have forced LÉ Orla off from routine use and left in the docks.<ref name="IE_Orla">O'Riordan 2020</ref>
+The LÉ Orla was decommissioned on 8 July 2022.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

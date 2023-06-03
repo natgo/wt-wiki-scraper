@@ -189,15 +189,16 @@ Lastly, if you come across any armoured targets that the 12.7 mm machine guns fa
 
 '''Pros:'''
 
-* Primary armament boasts an impressive combination of a high rate of fire, generous belt capacity, and significant damage output, ensuring sustained firepower during engagements.
-* Secondary armament exhibits exceptional reload speed, remarkable penetration capabilities with AP rounds, and advantageous firing arcs, allowing for effective target engagement.
+* Primary armament offers high rate-of-fire with a generous belt capacity for sustained firing.
+* Secondary armament has wide firing arcs for good coverage.
+* Both armaments produce significant firepower output with available shells and burst mass.
 * Mobility enhances manoeuvrability and responsiveness, providing an advantage in more dynamic combat scenarios.
 
 '''Cons:'''
 
-* While moving at high speeds, there is a slight blind spot directly in front of the vessel, necessitating cautious positioning to maintain situational awareness.
-* Primary armament experiences a relatively longer reload time and limited firing arcs, requiring strategic planning and well-timed shots for optimal effectiveness.
-* Secondary armament lacks the ability to fire directly forwards, possesses a smaller magazine capacity, and lacks full 360° rotation, potentially requiring careful targeting and ammunition conservation.
+* High-speed movement creates a small frontal blind spot, requiring careful positioning for situational awareness.
+* Primary armament has a relatively longer reload time and limited firing arcs.
+* Secondary armament cannot fire forward, cannot rotate 360° and has a smaller magazine capacity.
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

@@ -53,7 +53,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian fighter {{Battle-ratin
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || - || - || - || ~__ || ~__
+| 400 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || - || ~__ || ~__
 |-
 |}
 

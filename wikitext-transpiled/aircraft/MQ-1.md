@@ -5,7 +5,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is an American strike UCAV (Unmanned Combat Aerial Vehicle). It was introduced in [[Update "Drone Age"]]. It is available to all nations besides Russia and China. Unlike other aircraft, this is not researchable and can only be used once enough spawn points have been gained.
+The '''{{Specs|name}}''' is an American strike UCAV (Unmanned Combat Aerial Vehicle). It was introduced in [[Update "Drone Age"]]. It is available to all nations besides Russia and China. Unlike other aircraft, this is not researchable and can only be used once enough spawn points have been gained. Like all other strike drones, the MQ-1 becomes available in any GRB match BR 9.7 or higher - meaning an 8.7 lineup, in a full uptier, can encounter the MQ-1 and other strike drones.
 
 == General info ==
 === Flight performance ===

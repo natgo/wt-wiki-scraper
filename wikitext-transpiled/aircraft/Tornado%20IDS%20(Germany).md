@@ -136,7 +136,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} German strike aircraft {{
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* 2 x 27 mm Mauser BK27 cannons, -mounted (180 rpg = 360 total)
+* 2 x 27 mm Mauser BK27 cannons, chin-mounted (180 rpg = 360 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}

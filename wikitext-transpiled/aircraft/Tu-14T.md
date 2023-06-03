@@ -7,7 +7,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet jet bomber {{Battle-rating}}. It was introduced in [[Update 1.65 "Way of the Samurai"]].
 
-Designed for the same specifications as the IL-28, the Tu-14T is larger and has more loadout choices than its "cousin". Due to its larger size, it is slower, making it more vulnerable. Like the IL-28 it has 23 mm turret, allowing it to shoot down interceptors sitting on its tail. Unique among all jet bombers, the Tu-14T can carry a torpedo, which along with its airbrake means it can more effectively target naval vessels.
+Designed for the same specifications as the IL-28, the Tu-14T is larger and has more loadout choices than its "cousin". Due to its larger size, it is slower, making it more vulnerable. Like the IL-28 it has a 23 mm turret, allowing it to shoot down interceptors sitting on its tail. Unique among all jet bombers, the Tu-14T can carry a torpedo, which along with its airbrake means it can more effectively target naval vessels.
 
 == General info ==
 === Flight performance ===
@@ -54,7 +54,7 @@ Designed for the same specifications as the IL-28, the Tu-14T is larger and has 
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 580 || 554 || 420 || ~7 || ~3
+| 892 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 580 || 554 || 420 || ~7 || ~3
 |-
 |}
 
@@ -64,7 +64,7 @@ Designed for the same specifications as the IL-28, the Tu-14T is larger and has 
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 500 || < 600 || < 600 || N/A
+| < 500 || < 600 || < 600 || -
 |-
 |}
 

@@ -72,11 +72,12 @@ The other weaponry on-board are its quintuple 533 mm 53-57 torpedo launchers loc
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 '''Pros:'''
 
-* Fast-firing 130 mm turret with HE-VT shells
-* Extensive medium-calibre autocannons onboard for anti-aircraft/coastal ships
+* Fast-firing 130 mm turrets with 360 degree traverse and HE-VT shells
+* Extensive medium-caliber autocannons onboard for anti-aircraft/coastal ships
 * Anti-submarine rockets can sometimes knock out ships that get too close
 * Fast for its size and tier
 * Search radar for aerial targets
+* Powerful SAP rounds with good explosive filler and penetration, and long fuse delay
 
 '''Cons:'''
 

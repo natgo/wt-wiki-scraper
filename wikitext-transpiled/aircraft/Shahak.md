@@ -57,7 +57,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-r
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || N/A || N/A || ~12 || ~5
+| 1,460 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || - || ~12 || ~5
 |-
 |}
 
@@ -67,7 +67,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-r
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 920 || < 750 || < 650 || N/A
+| < 920 || < 750 || < 650 || -
 |-
 |}
 

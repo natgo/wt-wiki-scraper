@@ -10,11 +10,10 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese attack helicopter {{Battle-rating}}. It was introduced in [[Update "Drone Age"]]. It is known in the Chinese community as 海豚 "Haitun" (Dolphin).
 
-The Z-9W is a ground attack variant of the Eurocopter AS365 Dauphin helicopter, which was license produced as the Harbin Z-9. The "W" in the designation means 武装 (Wuzhaung; armed) and it was one of the earliest dedicated attack helicopters of the PLAGF Aviation Corps. The handsome appearance still greatly resembles the original Dauphin, the modifications being a pair of hardpoints on the side doors and optical systems mounted on the cockpit roof for observation and directing ATGMs.
+The Z-9W, also known as the 海豚 "Haitun" (Dolphin), is a ground attack variant of the Eurocopter AS365 Dauphin helicopter, which was license-produced as the Harbin Z-9. The "W" in the designation means 武装 (Wuzhaung; armed) and it was one of the earliest dedicated attack helicopters of the PLAGF Aviation Corps. The handsome appearance still greatly resembles the original Dauphin, the modifications being a pair of hardpoints on the side doors and optical systems mounted on the cockpit roof for observation and directing ATGMs.
 
-In War Thunder, the Z-9W offers a comfortable transition from the starting [[Z-11WA]] while bringing some powerful new toys. The Dauphin airframe has excellent agility and can make aerobatic maneuvers with ease. Its CAS capabilities are enhanced with a high-zoom optical camera, a ballistic computer, an improved HJ-8C missile, and 23 mm autocannons. It also introduces the infamous TY-90 AAM, which allows the Z-9W to serve as a makeshift "flying SPAAG". Thus, the Z-9W is a versatile and enjoyable helicopter that can be used for CAS, counter-CAS, or a bit of both.
+Introduced in [[Update "Drone Age"]], the Z-9W offers a comfortable transition from the starting [[Z-11WA]] while bringing some powerful new toys. The Dauphin airframe has excellent agility and can make aerobatic manoeuvres with ease. Its CAS capabilities are enhanced with a high-zoom optical camera, a ballistic computer, an improved HJ-8C missile, and 23 mm autocannons. It also introduces the infamous TY-90 AAM, which allows the Z-9W to serve as a makeshift "flying SPAAG". Thus, the Z-9W is a versatile and enjoyable helicopter that can be used for CAS, counter-CAS, or a bit of both.
 
 == General info ==
 === Flight performance ===
@@ -128,7 +127,7 @@ Depending on player's needs, custom loadouts with HJ-8s and TY-90s are good for 
 
 * Relatively fast top speed
 * Good manoeuvrability
-* TY-90 AAMs are very effective against air targets 
+* TY-90 AAMs are very effective against air targets
 * Access to tandem-warhead HJ-8C missiles
 * Ballistic computer
 * High-zoom optics

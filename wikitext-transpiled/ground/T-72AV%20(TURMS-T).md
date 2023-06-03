@@ -167,6 +167,7 @@ Common headaches will include the likes of the Challanger, Leclerc, and Leopard 
 * ERA offers excellent protection against non-tandem ATGMS and HEAT rounds
 * 3BM42 can penetrate most targets even at long range and in uptiers
 * Has commander fire control, enabling the commander to return fire even if the gunner is killed
+* Fuel tanks can absorb oncoming rounds
 
 '''Cons:'''
 
@@ -178,6 +179,7 @@ Common headaches will include the likes of the Challanger, Leclerc, and Leopard 
 * Sluggish mobility
 * Slower reload compared to the opposition
 * Does not have access to ATGMs
+* Fight compartment is cramped likely to get one shotted
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

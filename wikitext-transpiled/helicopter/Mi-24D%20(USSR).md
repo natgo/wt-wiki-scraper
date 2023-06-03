@@ -155,7 +155,7 @@ The best payload for combined battles is
 
 * 128 x S-5K rockets + 4 x 9M17M Falanga missiles
 
-When enemy tankers see the Hind coming towards them, or see it flash up on the hud, they flea for cover. The Mi-24D, provides eight ATGM (Falanga-PV) missiles - these are enough to knock out eight enemy tanks, with a single hit. The range of the Falanga-PV missiles allow for strikes to happen at a distance, which keeps the helicopter out of range from most enemy SPAA or tanks.
+When enemy tankers see the Hind coming towards them, or see it flash up on the hud, they flea for cover. The Mi-24D, provides four ATGM (Falanga-PV) missiles - these are -well aimed - enough to knock out up to four enemy tanks, with a single hit. The range of the Falanga-PV missiles allow for strikes to happen at a distance, which keeps the helicopter out of range from most enemy SPAA or tanks.
 
 ====Mi-24D Vs. SPAA====
 However the first target if seen, should always be enemy SPAA vehicles. Once the SPAA units have been located and knocked out, it is free hunting. The Mi-24D provides 128 S-5K rockets with its eight Falanga-PV missiles. These 128 rockets provide the capability for at least another two enemy tanks to be knocked out. With a skilled shot, it is EVEN possible that over four or five plus enemy tanks can be destroyed using them, on top of the eight ATGMs.
@@ -229,9 +229,11 @@ The Hungarian Air Force have a fleet of 30 Mi-24Ds received by the former Soviet
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Mi-24 (Family)]]
 
 ;Similar vehicles
+
 * [[AH-1F]]
 * [[AH-1S Kisarazu]]
 * [[A-129 International]]

@@ -55,7 +55,7 @@ The Yak-4 isn't that manoeuvrable, though it can outfly larger twin-engine bombe
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || N/A || 280 || ~15 || ~7
+| 680 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || 280 || ~15 || ~7
 |-
 |}
 
@@ -66,28 +66,6 @@ The Yak-4 isn't that manoeuvrable, though it can outfly larger twin-engine bombe
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
 | < 360 || < 360 || < 450 || > 340
-|-
-|}
-
-{| class="wikitable" style="text-align:center"
-|-
-! colspan="3" | Compressor (RB/SB)
-|-
-! colspan="3" | Setting 1
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 2,000 m || 1,100 hp || 1,186 hp
-|-
-! colspan="3" | Setting 2
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 4,000 m || 1,050 hp || N/A
 |-
 |}
 

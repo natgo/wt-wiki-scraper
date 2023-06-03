@@ -64,7 +64,7 @@ The P-63 is sleek and streamlined, gaining speed quickly in a shallow dive. Howe
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 378 || 359 || 262 || ~13 || ~6
+| 887 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 378 || 359 || 262 || ~12 || ~6
 |-
 |}
 

@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian motor torpedo boat {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
+In 1934, the Regia Marina made an effort to replace the MAS units under the initiative of Admiral Domenico Cavagnari, who was serving as Sottosegretario and Capo di Stato Maggiore (Chief of Staff) of the Regia Marina from 1933 to 1940. The chosen replacement for the MAS was a motor torpedo boat called the Stefano Turr, which had a metallic hull and weighed 61.6 tons. However, as the MAS boats were becoming smaller and faster, the MAS 500 was ultimately selected due to its speed and suitable armament for engaging various enemy naval targets. On the other hand, the Stefano Turr had to wait for new engines, which were not developed until 20 years later. Consequently, the Stefano Turr motor torpedo boat was decommissioned and scrapped soon after World War II.
+
+Introduced in [[Update "Starfighters"]], the Stefano Turr is fairly fast for its size. It is equipped with three 12.7mm machine guns and one 6.5 mm gun, along with additional armament comprising four torpedoes and 16 depth charges, allowing it to effectively destroy enemy targets. Utilizing its speed and manoeuvrability, the Stefano Turr can outmanoeuvre enemy vessels, flank them, and execute ambushes on larger ships using torpedoes and depth charges. Its survivability is also decent.
 
 == General info ==
 === Survivability and armour ===
@@ -88,6 +90,7 @@ Indeed, the ship was larger than the MAS and it caused propulsion problems. The 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_mas_stefano_turr Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -99,6 +102,7 @@ File:Stefano Turr III.png
 
 == See also ==
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -107,6 +111,7 @@ File:Stefano Turr III.png
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

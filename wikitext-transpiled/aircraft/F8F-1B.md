@@ -183,7 +183,7 @@ The Mitsubishi [[A7M2]] is much slower than any other aircraft mentioned but is 
 * High rate of fire
 * High ammo count
 * Can support high G's in sharp turns and has a G-suit upgrade available
-* Combat Flaps can't break, the wings will break faster
+* Combat flaps can't break, the wings will break first
 * Double the burst mass of the first [[F8F-1|F8F-1 Bearcat]] and in general powerful armament
 * Great roll rate compared to planes such as the BF-109
 * Respectable climb rate up to 5 km

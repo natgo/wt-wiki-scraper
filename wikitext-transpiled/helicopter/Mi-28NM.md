@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet attack helicopter {{Battle-rating}}. It was introduced in [[Update "Ground Breaking"]]. Also known as 'Havoc', it is the successor of the legendary [[Mi-24 (Family)|Mi-24 Hind]] in the gunship role, featuring much better combat systems for the task. It is an upgrade of the previous [[Mi-28N]] with better weapon systems, enhanced NVD and a surface-search radar.
+The '''{{Specs|name}}''' (NATO reporting name: "Havoc") is a rank {{Specs|rank}} Soviet attack helicopter {{Battle-rating}}. It was introduced in [[Update "Ground Breaking"]].
+
+The Mi-28NM is a further modernized version of the previous Mi-28N. The appearance of the aircraft has changed somewhat: the prominent dark "nose" is gone, a spherical radar has been mounted on the mast, and the general details are more streamlined. While this Havoc may look more fashionable, it is meaner than ever in combat. The new sensor suite has excellent quality 3rd generation gunner thermals and the radar, MAWS, and new RWR improve situational awareness. The arsenal has been improved with the addition of two new ATGMs: the 9K127 Vikhr made famous by Kamov's [[Ka-50]]/[[Ka-52|52]], and the 9M123 Khrizantema previously only seen on the ground-based [[Khrizantema-S]]. The Mi-28NM still lacks some of the flexibility of its Kamov counterparts, but it can unleash a huge amount of destruction on enemy tanks.
 
 == General info ==
 === Flight performance ===
@@ -87,9 +89,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 4 x 500 kg FAB-500M-62 bombs (2,000 kg total)
 * 2 x 23 mm GSh-23L cannons (250 rpg = 500 total)
 
-The Mi-28NM has a wide selection of weaponry for a range of roles, from small-game hunting to the most armoured targets. While Vikhrs may seem the most obvious decision of missile to carry, the Ataka and Khrizantema missiles can also be useful in certain situations. Khrizantema holds the highest penetration and the highest explosive payload at the same range of the Ataka (but almost half of the range of the Vikhr), at the cost of a reduced numbers able to be carried. Vikhr holds the highest speed and range with a bigger explosive payload than Ataka but smaller than Khrizantema, it also has a proximity fuze. Depending on the needs, the missiles to be carried are set to user's discretion.
+The Mi-28NM has a wide selection of weaponry for a range of roles, from small-game hunting to the most armoured targets. 
 
-The Mi-28NM also has access to Igla missiles, carrying the highest amount of anti-air missiles in-game (up to 8), making the Mi-28N a formidable anti-air platform. It should be noted that the Vikhr can also be used for the anti-air role, but require the constant attention of the user instead of being fire-and-forget like the Igla.
+Three types of ATGMs are available. The stock 9M120-1 Ataka is a mostly identical to the basic 9M120 Ataka seen on earlier Soviet helicopters, but has beam-riding guidance instead of SACLOS. 800 mm of tandem warhead penetration and 6 km of range are below average at such a high battle rating, and it is not safe to use against radar SAMs. Vikhrs are completely superior to the Atakas with 8+ km range and a proximity fuse, allowing them to engage SPAA from safer distances and shoot down incoming SAMs as an improvised active protection system. This makes them by far the most flexible option, but they also have a more limited capacity of only 6 tubes per pylon, versus 8 for the others. The Khrizantemas are heavier descendants of the Ataka, and although the range is still a short 6 km, they have 50% greater penetration and hit as hard as a [[BMP-2M]]'s Kornet, easily defeating most top-tier tanks.
+
+The Mi-28NM still has access to Igla missiles, making the Mi-28N a formidable anti-air platform against unaware jets or those with poor speed and maneuverability at the cost of ATGM capacity. It should be noted that the Vikhr can also be used for the anti-air role, but require the constant attention of the user instead of being fire-and-forget like the Igla.
+
+Amusingly, the Mi-28NM's arsenal adds back the 250 kg and 500 kg bombs that were unavailable to the previous two Russian helicopters and last seen on the [[Mi-24P]] Hind. Thus, the highly advanced Mi-28NM and the capstone of the Mil Mi line is in fact the best helicopter bomber in the game with a maximum load of 4x 500 kg = 2,000 kg. It should be obvious that helicopter bombing at top tier with the Mi-28NM is much more challenging than with the Mi-24A at 8.7, but the option does exist for bold pilots.
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"

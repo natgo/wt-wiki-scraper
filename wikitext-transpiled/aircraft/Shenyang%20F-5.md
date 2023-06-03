@@ -70,7 +70,7 @@ As an air-to-air fighter, it is possible to include two PL-2 air-to-air missiles
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || 598 || 450 || ~12 || ~5
+| 1,150 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || 598 || 450 || ~12 || ~5
 |-
 |}
 
@@ -80,7 +80,7 @@ As an air-to-air fighter, it is possible to include two PL-2 air-to-air missiles
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 600 || < 700 || < 750 || N/A
+| < 600 || < 700 || < 750 || -
 |-
 |}
 

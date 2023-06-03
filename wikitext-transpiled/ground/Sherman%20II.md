@@ -228,6 +228,7 @@ Past these designation, there would be a letter to signify differences in model 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_sherman_II Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

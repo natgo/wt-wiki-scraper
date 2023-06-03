@@ -76,7 +76,7 @@ The MiG-23ML has superior flight performance with its powerful engine and variab
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || N/A
+| < 665 || < 650 || < 700 || N/A
 |-
 |}
 
@@ -84,34 +84,34 @@ The MiG-23ML has superior flight performance with its powerful engine and variab
 {| class="wikitable" style="text-align:center"
 |-
 ! colspan="3" | Engine
-! colspan="4" | Aircraft mass
+! colspan="5" | Aircraft mass
 |-
 ! colspan="2" | Engine name || Number
-! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
+! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
 | colspan="2" | Tumansky R-35-300 || 1
-| colspan="2" | __,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
+| colspan="2" | 10,705 kg || colspan="3" | 374 - 422 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
+! colspan="4" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
-! _m fuel || __m fuel || __m fuel
+! 9m fuel || 20m fuel || 30m fuel || 31m fuel
 |-
 | 1,760 kg || colspan="2" | Afterburning axial-flow turbojet
-| _,___ kg || _,___ kg || _,___ kg || _,___ kg
+| 11,815 kg || 13,020 kg || 14,178 kg || 14,405 kg || 16,086 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
-! colspan="4" | Thrust to weight ratio @ 0 m (___%/WEP)
+! colspan="5" | Thrust to weight ratio @ 0 m (WEP)
 |-
-! Condition || 100% || ___%/WEP
-! _m fuel || __m fuel || __m fuel || MGW
+! Condition || 100% || WEP
+! 9m fuel || 20m fuel || 30m fuel || 31m fuel || MGW
 |-
-| ''Stationary'' || ___ kgf || ___ kgf
-| _.__ || _.__ || _.__ || _.__
+| ''Stationary'' || 7,103 kgf || 10,305 kgf
+| 0.87 || 0.79 || 0.73 || 0.72 || 0.64
 |-
-| ''Optimal'' || ___ kgf<br>(_ km/h) || ___ kgf<br>(_ km/h)
-| _.__ || _.__ || _.__ || _.__
+| ''Optimal'' || 8,368 kgf<br>(1,400 km/h) || 15,787 kgf<br>(1,400 km/h)
+| 1.34 || 1.21 || 1.11 || 1.10 || 0.98
 |-
 |}
 

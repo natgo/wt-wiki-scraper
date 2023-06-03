@@ -12,6 +12,8 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish light tank {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]]. It is identical to the [[PT-76B]] found in the Russian Tech Tree. 
 
+The PT-76B, as a light tank, has paper-thin armour but also has a powerful main gun that can engage most tanks at its battle rating. Its amphibious nature means that the tank can cover terrain and paths not normally travelled by land vehicles, allowing flexibilities on certain maps featuring water bodies.
+
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
@@ -44,9 +46,14 @@ Also, keep well clear of enemy SPAA. 12.7 mm guns and above will absolutely wrec
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
 
-{{tankMobility}}
+{{tankMobility|abMinHp=372|rbMinHp=212}}
+
+The PT-76B has decent mobility on land thanks to its rather light weight. It can reach its maximum speed of 49 km/h (AB) / 44 km/h (RB) easily due to its decent acceleration. Controlling it at maximum speed is not hard since its top speed is nothing special for a light tank (the ubiquitous M41A1, for example, has a top speed of 72 km/h). The PT-76B is also decently agile, being able to turn quickly in response to any events up the path. However, the vehicle does not have any type of neutral steering capability, so it will be difficult to turn on the spot. These forward mobility traits of the PT-76B can be interrupted severely by moderate obstacles such as medium trees, wooden fences, concretes plots/barriers or stone walls; these will cause the vehicle to lose considerable amount of speed, or even be brought to a halt, especially in Realistic Battles
+
+The maximum reverse speed is -7 km/h (AB) / -6 km/h (RB), which is too slow to allow overextend tactic (pop from behind cover, shoot, retreat behind cover), or for withdrawing from dangerous situation that the vehicle may have inadvertently driven itself into.
+
+The amphibious feature of the PT-76B makes the vehicle more versatile, broadening the flanking/sneaking potential and options on some maps. But this should only be exploited across smaller bodies of water, since it reaches only 12 km/h (AB) / 9 km/h (RB) in water when moving forward, and the reverse speed in water is only -7 km/h (AB) / -5 km/h (RB). These slow speeds mean that once the PT-76B is on water, it will likely be a sitting duck if spotted. While firing from the water is an option due to the vehicle's stabilizer, the water waves and the recoil from firing may cause the vehicle to wobble, making it hard to get a good shot. On top of that when planning an amphibious trip, it is best to ensure the destination can be reached in a straight line as the vehicle turns poorly and slowly in the water and so any course corrections will take more time, which leaves the PT-76B exposed to being spotted and taken out.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -117,7 +124,17 @@ Also, keep well clear of enemy SPAA. 12.7 mm guns and above will absolutely wrec
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+As the PT-76B doesn't have much armour, avoid directly confronting enemy tanks. In order to defeat heavy/medium tanks, watch them and fire when they are not aiming or focusing on you. Use the light tank's manoeuvrability and fire rate to deliver pin-point hits onto the enemy's flanks, then retreat back in to cover before they can get a fix on the firing location. The PT-76B is also helpful in scouting enemy positions for its allies so they could bring in more firepower. As previously mentioned, this tank does not have the armour nor the crew to take on enemies head-on, so try to remain stealthy. It functions great as a scout tank.
+
+If short to mid-range confrontation is inevitable, staying mobile makes you harder to hit while the impressive stabiliser will allow you to fire back almost unimpeded (while moving and shooting to the side, shots travel in the direction your vehicle is moving so when aiming at farther targets, remember to aim a little to one side to counteract this motion). While moving and shooting, always look where your vehicle is headed: a rock, cliff, enemy vehicle or similar obstacle could seriously ruin your PT-76B's day.
+
+While the PT-76B has amphibious capabilities, it is not necessary to use them all the time. Keep in mind that the PT-76B can only go about 10 km/h in the water (and your large size makes you an easier target for shore-based snipers), so utilize the ability to travel on land as well. Instead, use the water to make an escape or take a shortcut. As an example, drive into the water if an enemy has spotted you, and take cover behind an off-shore rock. Driving through a river to flank the enemy is also possible if a bridge is not nearby. Take caution that reversing in the water is slow, if not nonexistent, which may get the PT-76B stuck if driven into an obstacle. Also make sure to check the map, as some maps like ''Eastern Europe'' have rivers with no way to get back onto land, or at least not many.
+
+Otherwise, avoid directly confronting an enemy. Instead, take cover and scout. Another good tactic to use is watching the enemy - find a spot where they can't engage you and watch them. Wait for the right moment; when the enemy is reloading, aiming somewhere else, not noticing the PT-76, is attacking an ally, etc, quickly check to make sure no other enemy can target you and send a shell towards your enemy! Try to snipe at the enemy, but make sure to avoid all enemy fire, as all tanks can penetrate the PT-76's armour (even the [[GAZ-AAA (4M)]] technically has enough penetration to get through the tank's rear armour!).
+
+The amphibious capabilities are a huge helper to the vehicle, allowing it to reach unusual sniper areas that vehicles without said capabilities could not reach (e.g. hiding behind the rocks near the jetty on Normandy). The incredible stabiliser also allows the PT-76B to simply sit in the water and blast away at enemies without them even realizing where the shots are from. Make sure to relocate after knocking out enemies or being spotted, however, as they will know the PT-76B's location and likely broadcast it to other players, most often resulting in the PT-76B being destroyed.
+
+The HEATFS shell is powerful in terms of penetration, but the post-penetration damage is lacking compared to other Soviet shells. Oftentimes, 2 or more shots will be needed to destroy an enemy vehicle, particularly the more voluminous vehicles like the Tiger I and the Panther. It would be wise, therefore, to look up crew and module locations on enemy vehicles in order to make your shots as lethal as possible. Against open-topped and lightly-armoured vehicles, the explosive filler of the BK-354M will cause overpressure damage, resulting in a knock-out.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

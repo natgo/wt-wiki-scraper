@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]]. The Chieftain Mk 5 carries over its strength from the [[Chieftain Mk 3|Mk 3]] variant, but with a more powerful engine for improved mobility.
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]]. The Chieftain Mk 5 carries over the [[Chieftain Mk 3|Mk 3]] variant's strengths but is equipped with a more powerful engine for improved mobility.
 
-The fundamental average for Chieftain: its rate of shooting and its penetration. With Chieftain, there are few vehicles being able to resist the firepower, except perhaps [[T95]] or [[Maus]]. Shoot anywhere at the enemy with L15A3 shells, it will more than likely penetrate the armour. Know where to shoot, any enemies can be taken down with the 120 mm gun. That requires good knowledge of the enemy tanks. A Chieftain player will have to know where are the shells, fuel tanks, crews.
+Few vehicles are able to resist the Chieftain's firepower, except perhaps [[T95]] or [[Maus]]. The L15A3 shell has excellent penetration. However, users must know where to shoot to hit enemy tanks' critical modules and crew members.
 
 == General info ==
 === Survivability and armour ===
@@ -250,6 +250,7 @@ The Chieftain is still in service Iran, Jordan, and Oman in varying numbers, abo
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_chieftain_mk_5 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

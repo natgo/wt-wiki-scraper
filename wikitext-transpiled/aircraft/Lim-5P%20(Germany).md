@@ -7,12 +7,13 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} German jet fighter {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]].
 
-The Lim-5P (LI''cencyjny Myśliwiec; Licensed Fighter)'' is a Polish built MiG-17PF in East-German service. Compared to the [[MiG-17]] in the Soviet tech tree, the MiG-17PF/{{PAGENAME}} features an airborne radar to search for aerial targets, an afterburning engine, and a uniform armament with three 23 mm cannons. While players of China's [[Shenyang F-5]] will find the performance very similar thanks to the afterburner, the Lim-5P has 3 x 23 mm cannons and no missiles. Although the 23 mm guns have more ammo, players might need more practice to utilize this jet properly. 
+The Lim-5P (LI''cencyjny Myśliwiec; Licensed Fighter)'' is a Polish built MiG-17PF in East-German service. Compared to the [[MiG-17]] in the Soviet tech tree, the MiG-17PF/{{PAGENAME}} features an airborne radar to search for aerial targets, an afterburning engine, and a uniform armament with three 23 mm cannons. While players of China's [[Shenyang F-5]] will find the performance very similar thanks to the afterburner, the Lim-5P has 3 x 23 mm cannons and no missiles. Although the 23 mm guns have more ammo, players might need more practice to utilize this jet properly.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
+Players who own the Chinese (North Korean) [[Shenyang F-5|F-5]] will soon find themselves at home thanks to the exact same engine configuration- the VK-1F turbojet engine in this case; this sets Lim-5P apart from its Soviet counterparts. The overall handling though is very similar as well as they share the very same MiG-17 airframe aside from lacking the infamous N-37D cannon for higher damage; so most of the same traits shared on MiG-17 series are also a thing on Lim-5P. Be sure not to go too fast (> 900 km/h; the control surfaces lock up beyond this speed and increase the odds of an unwanted crash) and do make sure you finish off the target as fast as possible, bail from the battlefield before anything with better missiles come over; also beware of the below average roll rate, this could be a problem in necessary dogfights but the overall manoeuvrability is still sufficient to finish off damaged jets or jet bombers if needed.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -31,8 +32,6 @@ The Lim-5P (LI''cencyjny Myśliwiec; Licensed Fighter)'' is a Polish built MiG-
 | 1,126 || 1,114 || 21.2 || 21.5 || 61.9 || 50.0
 |-
 |}
-
-Players who own the Chinese (North Korean) [[Shenyang F-5|F-5]] will soon find themselves at home thanks to the exact same engine configuration- the VK-1F turbojet engine in this case; this sets Lim-5P apart from its Soviet counterparts. The overall handling though is very similar as well as they share the very same MiG-17 airframe aside from lacking the infamous N-37D cannon for higher damage; so most of the same traits shared on MiG-17 series are also a thing on Lim-5P. Be sure not to go too fast (> 900 km/h; the control surfaces lock up beyond this speed and increase the odds of an unwanted crash) and do make sure you finish off the target as fast as possible, bail from the battlefield before anything with better missiles come over; also beware of the below average roll rate, this could be a problem in necessary dogfights but the overall maneuverability is still sufficient to finish off damaged jets or jet bombers if needed.
 
 ==== Details ====
 [[File:Lim-5P Cockpit (2022).png|thumb|Unlike other MiG-17 variants, the Lim-5P has a unique cockpit with drastically improved visibility, a single artificial horizon reference line on both the collimator and the radar with separate search and track radars.]]
@@ -57,7 +56,7 @@ Players who own the Chinese (North Korean) [[Shenyang F-5|F-5]] will soon find t
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || 598 || 450 || ~12 || ~5
+| 1,150 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || 598 || 450 || ~12 || ~5
 |-
 |}
 
@@ -67,7 +66,7 @@ Players who own the Chinese (North Korean) [[Shenyang F-5|F-5]] will soon find t
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 600 || < 700 || < 750 || N/A
+| < 600 || < 700 || < 750 || -
 |-
 |}
 
@@ -129,7 +128,7 @@ Different from its cousins in other trees, the Lim-5P replaced the nose-mounted 
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-MiG-17 equivalent for the DDR line fighters is the best description for Lim-5P; it is the Polish licensed version of MiG-17PF and this also marks its identity as a all-weather interceptor with a RP-5 radar. It might not be very reliable due to its electronics, but 8 km detection range at higher altitude does also gives players an edge on spotting enemies beforehand; this is especially true in SB since who spot first really matters in this case (but do make sure the target is indeed an enemy). Another feature of Lim-5P is the VK-1F afterburner turbojet engine, players of [[Shenyang F-5]] will soon find themselves at home as this further boost its capability to chase down enemies with lower energy or altitude with ease, sometimes even handling supersonic jets in dire. 
+MiG-17 equivalent for the DDR line fighters is the best description for Lim-5P; it is the Polish licensed version of MiG-17PF and this also marks its identity as a all-weather interceptor with a RP-5 radar. It might not be very reliable due to its electronics, but 8 km detection range at higher altitude does also gives players an edge on spotting enemies beforehand; this is especially true in SB since who spot first really matters in this case (but do make sure the target is indeed an enemy). Another feature of Lim-5P is the VK-1F afterburner turbojet engine, players of [[Shenyang F-5]] will soon find themselves at home as this further boost its capability to chase down enemies with lower energy or altitude with ease, sometimes even handling supersonic jets in dire.
 
 However, players will also find the similar flaws from his cousins: control surfaces lock up and subpar roll rate at higher speeds. Be sure to check the speeds before chasing down enemies or players will meet their demise quickly; do beware of jets with missiles when doing dogfights, since the heat from the afterburner is high, turn it off for better odds to dodge the missile. Meanwhile, it has 3 x 23 mm NR-23 cannons instead of the conventional 2 x 23 mm and a 37 mm N-37D config for lighter weight during interception missions and also higher ammo count; to some players it means more rounds to sparse, while some consider it as a big nerf from his cousins since the 23 mm rounds don't fly as straight as their NATO counterparts and some might prefer having a 37 mm for an instant-kill. Trigger discipline is still essential for this jet (300 rounds in total) to make sure the best efficiency can be achieved- it is still an autocannon, after all.
 
@@ -149,7 +148,7 @@ However, players will also find the similar flaws from his cousins: control surf
 * Rather bad roll rate at high speeds
 * Compresses at high speeds
 * 23 mm cannons have subpar velocity
-* Lacks ground-attack ordnances 
+* Lacks ground-attack ordnances
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

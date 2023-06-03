@@ -67,15 +67,16 @@ The vehicle is armed with two Swiss made 35 mm Oerlikon KDA cannons with a rate 
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 500 (230) || rowspan="2" | 550 || rowspan="2" | -10°/+85° || rowspan="2" | ±180° || rowspan="2" | Two-plane || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 500 (230) || rowspan="2" | 550 || rowspan="2" | -10°/+85° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 79.3 ||109.7||133.2||147.3||156.7|| rowspan="2" | 1.30 || rowspan="2" |1.15|| rowspan="2" |1.06|| rowspan="2" |1.00
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 53.5 ||63.0||76.5||84.6||90.0
 |-
 |}
 
 ==== Ammunition ====
 The ItPsV 90 has 3 types of ammunition available:
+
 * High-explosive incendiary tracer (HEI-T): the shells are self-destroying, but the self-destruction range is the same as the radar's lead indicator maximum distance, therefore making the shells practically unusable at longer ranges
 * Armour-piercing incendiary tracer (API-T): they can be used extremely effectively against lightly-armoured vehicles and enemy SPAAs. Even though the damage to enemy aircraft is reduced unless hitting a critical module, because of the lack of HE filler. The shell can still be used outside of the radar range because it is not self destructive. Although it might not be able to penetrate heavier targets frontally, the guns will do short work of nearly every enemy vehicle from the side (even the heaviest IS tanks if one is able to aim and ricochet their shots well enough from the drive wheels) 
 * High-velocity armour-piercing discarding sabot (APDS): They can be used against targets mentioned above and provide way easier time due to their higher penetration, requiring less precise aiming to wound or destroy the target, but one should bear in mind the ammo amount is rather limited, so ammo should not be wasted needlessly. The APDS rounds can be used against aircraft and helicopters as well, but it is not advisable to do so due to their very limited count.
@@ -129,6 +130,7 @@ The ItPsV-90, or Ilmatorjuntapanssarivaunu 90, is a Finnish SPAAG. Used for low-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sw_itpsv_90 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -140,6 +142,7 @@ The ItPsV-90, or Ilmatorjuntapanssarivaunu 90, is a Finnish SPAAG. Used for low-
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
+
 * [[Gepard]]
 * [[Chieftain Marksman]]
 * [[Type 87]]

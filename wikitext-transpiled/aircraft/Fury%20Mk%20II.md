@@ -100,9 +100,9 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-'''Fury Mk II''' similar to the [[Fury Mk I]] in terms of usage, slightly faster than the Mk I but not by much. It got a good manoeuvrability to avoid being shot at, turning is one of its strong points but there are still some enemy planes that will be able to out turn it. Working with your team will greatly increase the chances for survival and to score a kill during engagement.
+The Fury Mk II is similar to the [[Fury Mk I|Mk I]] in terms of usage,  although it is slightly faster, but not by much. It has good manoeuvrability to avoid being shot at, so turning is one of its strong points, but there are still some enemy planes that will be able to out turn it. Working with your team will greatly increase the chances for survival and to score a kill during engagement.
 
-Still lacking in firepower like its predecessor the Mk I makes the '''Fury Mk II''' not great at head on combat and will have greater chances engaging from the sides or above, turning can work during some engagements. Certain enemies that can out turn it and  '''Fury Mk II''' will struggle against, its better to try a new tactic like "boom and zoom" dive and use speed and energy advantages to make passes on the enemy aircraft. Most engagement will likely turn into a turn fight.
+Still lacking in firepower like its predecessor, the Mk I, the Mk II is not great at head on combat and will have greater chances engaging from the sides or above, though turning can work during some engagements. Certain enemies that can out turn the Fury you will struggle against, its better to try a new tactic like "boom and zoom" dive and use speed and energy advantages to make passes on the enemy aircraft. Most engagements will likely turn into a turn fight.
 
 Most aircraft at 1.0 lack the armour protection to take great amount of damage, pilots are exposed so it's easier to pilot snipe or get pilot sniped by a bullet and get shot down easily. But it goes both ways for the Fury and other biplanes.
 
@@ -186,10 +186,12 @@ Nearly 300 Hawker Furies of all variants were built. Whilst obsolete as a fighte
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fury_mk2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

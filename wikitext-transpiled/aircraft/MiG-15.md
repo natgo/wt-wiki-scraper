@@ -24,7 +24,7 @@ The engine can start overheating after prolonged flying at 100% of power, but it
 The MiG-15's weight is very low in comparison to other jet fighters from similar era, it is only ~4700 kg and along with quite good wings aerodynamics and wing loading it makes the plane very manoeuvrable at low and medium speeds and makes it a very dangerous foe to any other plane when it comes to dogfighting, the only thing that slightly drags this plane down is its high speed turn rate, which is very underwhelming. The MiG-15 locks up at lot after reaching subsonic speeds and its rolling performance, which is already very average at medium and low speeds, gets very bad at high speed. It is also equipped with an airbrake that can help a lot with slowing down and it situations to make the enemy plane overshoot.
 Flaps while do not have very high speed limit can still make the turn fight at medium and low speed easier, as they increase turn rate by up to ~10% at a cost of increased drag.
 
-When flying with simulator controls, it is very pleasant to fly: trimming is almost not required when the plane travels at high speed, insufficient roll rate can be improved by using the rudder, but that can also make it slow down. The plane can be stalled out even at high speed, and when above its critical angle of attack (AoA) it severely wing-stalls, throwing off your aim and/or your heading. Be very careful to not pull too much from the stick as to not reach this state, remember that it is one of the best rate-fighter of its tier, so it's best to pull a bit less to keep your speed and not wing-stall as you'll get into position withing a few turns.
+When flying with simulator controls, it is very pleasant to fly: trimming is almost not required when the plane travels at high speed, insufficient roll rate can be improved by using the rudder, but that can also make it slow down. The plane can be stalled out even at high speed, and when above its critical angle of attack (AoA) it severely wing-stalls, throwing off your aim and/or your heading. Be very careful to not pull too much from the stick as to not reach this state, remember that it is one of the best rate-fighter of its tier, so it's best to pull a bit less to keep your speed and not wing-stall as you'll get into position within a few turns.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -66,7 +66,7 @@ When flying with simulator controls, it is very pleasant to fly: trimming is alm
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || 598 || 450 || ~12 || ~5
+| 1,132 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || 598 || 450 || ~12 || ~5
 |-
 |}
 
@@ -76,7 +76,7 @@ When flying with simulator controls, it is very pleasant to fly: trimming is alm
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 600 || < 700 || < 750 || N/A
+| < 600 || < 700 || < 750 || -
 |-
 |}
 

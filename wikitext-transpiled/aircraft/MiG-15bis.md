@@ -28,7 +28,7 @@ Like the previous version, it can not fly at max power for too long or it will s
 The manoeuvrability compared to the previous variant is basically the same, while this version is slightly worse at performing horizontal manoeuvres due to increased weight (by ~100 kg), it is now better at performing vertical loop and other similar manoeuvres because of the better engine. It struggles against other jets due to its overall poor handling characteristics (poor rudder authority at all speeds, poor roll rate at all speeds).
 At high speed, it does not suffer as much from compressibility but it is still at best mediocre. The elevator and rudder controls remained the same, so the plane still locks up a lot after reaching transonic speeds. Other features stayed the same: airbrakes help with slowing the plane down when it locks up too much and flaps help significantly increase dogfighting capability at low and medium speeds.
 
-When flying with simulator controls, it is very pleasant to fly: trimming is almost not required when the plane travels at high speed, insufficient roll rate can be improved by using the rudder, but that can also make it slow down. The plane can be stalled out even at high speed, and when above its critical angle of attack (AoA) it severely wing-stalls, throwing off your aim and/or your heading. Be very careful to not pull too much from the stick as to not reach this state, remember that it is one of the best rate-fighter of its tier, so it's best to pull a bit less to keep your speed and not wing-stall as you'll get into position withing a few turns. Its improved roll rate (compared to the MiG-15) makes it easier to use against the planes it faces, but it's still less than its opposition
+When flying with simulator controls, it is very pleasant to fly: trimming is almost not required when the plane travels at high speed, insufficient roll rate can be improved by using the rudder, but that can also make it slow down. The plane can be stalled out even at high speed, and when above its critical angle of attack (AoA) it severely wing-stalls, throwing off your aim and/or your heading. Be very careful to not pull too much from the stick as to not reach this state, remember that it is one of the best rate-fighter of its tier, so it's best to pull a bit less to keep your speed and not wing-stall as you'll get into position within a few turns. Its improved roll rate (compared to the MiG-15) makes it easier to use against the planes it faces, but it's still less than its opposition
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -70,7 +70,7 @@ When flying with simulator controls, it is very pleasant to fly: trimming is alm
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || 598 || 450 || ~12 || ~7
+| 1,132 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || 598 || 450 || ~12 || ~7
 |-
 |}
 
@@ -80,7 +80,7 @@ When flying with simulator controls, it is very pleasant to fly: trimming is alm
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 600 || < 700 || < 750 || N/A
+| < 600 || < 700 || < 750 || -
 |-
 |}
 
