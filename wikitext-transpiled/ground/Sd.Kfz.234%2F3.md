@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German tank destroyer {{Battle-rating}}. It was introduced during [[Update 1.79 "Project X"]] in the [[wt:en/news/5698-marathon-good-old-s-u-m-m-e-r-en|"Good Old S.U.M.M.E.R"]] event of 2018.
+The '''{{Specs|name}}''' is a vehicle that mounts the short-barreled [[KwK37 (75 mm)]] gun, which was used on early models of the Pz.IV tank. The Sd.Kfz.234/3 belongs to the [[Sd.Kfz.234 (Family)|Sd.Kfz.234 chassis]], which has high mobility and speed. The main role of the Sd.Kfz.234/3 is to provide infantry support with its gun, and to quickly relocate to different positions as needed.
+
+The Sd.Kfz.234/2 was introduced during [[Update 1.79 "Project X"]] in the [[wt:en/news/5698-marathon-good-old-s-u-m-m-e-r-en|"Good Old S.U.M.M.E.R"]] event of 2018. It is an armoured car with a short barrel 75 mm gun that requires skillful maneuvering to be effective. The commander has to exploit the vehicle's speed and agility to set up ambushes, flank enemies and retreat when needed, because of its little armour. The main ammunition type is going to be HEAT, which has decent penetration but low accuracy and range. The coaxial MG42 is a fast-firing machine gun that can damage trucks, but it has a limited traverse angle that restricts its use.
 
 == General info ==
 === Survivability and armour ===

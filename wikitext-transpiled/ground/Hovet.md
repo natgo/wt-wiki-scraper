@@ -14,6 +14,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli SPAA {{Battle-rating}}
 Armour is thin enough and can be destroyed by 12.7 mm machine gun fire from the sides and rear, and by any cannon calibre from the front. The turret is partially open, leaving the crew vulnerable to enemy small arms fire. If attacked, the best bet for taking a hit and surviving is to point the engine towards the enemy and hope it absorbs the shot.
 
 '''Armour type:'''
+
 * Rolled homogeneous armour
 
 {| class="wikitable"
@@ -65,6 +66,7 @@ The Hovet suffers from a low power-to-weight ratio and low top speed. One of its
 |}
 
 ==== Ammunition ====
+
 * '''Default:''' {{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|HEI-T|High-explosive incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}
 * '''HEI:''' {{Annotation|HEI-T|High-explosive incendiary tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}
 * '''AP-I:''' {{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}
@@ -101,10 +103,16 @@ The Hovet wields about 60 mm of penetration, which is enough to mortally wound/d
 '''Pros:''' 
 
 * Can be used as a last resort weapon to shoot down incoming bombs and rockets
+* Cannot be easily killed by .50 cal MGs, meaning you are stronger against strafing aircraft
+* High rate of fire
 
 '''Cons:''' 
 
 * Long reload time
+* The 20 mm shells lose velocity quickly, making it very difficult to attack fast planes past 2 km or light tanks past 1 km
+* No passive radar search 
+* The gun overheats over quickly 
+* Low penetration
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -114,6 +122,7 @@ The Hovet wields about 60 mm of penetration, which is enough to mortally wound/d
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_m163_vulcan Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -122,6 +131,7 @@ The Hovet wields about 60 mm of penetration, which is enough to mortally wound/d
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[M113 (Family)|Related development]]
+
 * [[M163]]
 * [[Machbet]]
 

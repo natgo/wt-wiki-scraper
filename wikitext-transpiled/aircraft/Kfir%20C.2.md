@@ -60,7 +60,7 @@ The '''{{Specs|name}}''', introduced into the game in [[Update "Wind of Change"]
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 1,460 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || N/A || N/A || N/A || ~11 || ~4
+| 1,460 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || - || ~11 || ~4
 |-
 |}
 
@@ -70,7 +70,7 @@ The '''{{Specs|name}}''', introduced into the game in [[Update "Wind of Change"]
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 920 || < 750 || < 1,460 || N/A
+| < 920 || < 750 || < 1,460 || -
 |-
 |}
 
@@ -84,28 +84,28 @@ The '''{{Specs|name}}''', introduced into the game in [[Update "Wind of Change"]
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
 |-
 | colspan="2" | General Electric J79-GE-17 || 1
-| colspan="2" | 7,370 kg || colspan="2" | ___ kg/m<sup>2</sup>
+| colspan="2" | 7,370 kg || colspan="2" | 287 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | Max Takeoff<br>Weight
+! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
 ! 8m fuel || 20m fuel || 28m fuel
 |-
 | 1,750 kg || colspan="2" | Afterburning axial-flow turbojet
-| 8,125 kg || 9,152 kg || 9,888 kg || _,___ kg
+| 8,125 kg || 9,152 kg || 9,888 kg || 14,163 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
 ! colspan="4" | Thrust to weight ratio @ 0 m (WEP)
 |-
 ! Condition || 100% || WEP
-! 8m fuel || 20m fuel || 28m fuel || MTOW
+! 8m fuel || 20m fuel || 28m fuel || MGW
 |-
 | ''Stationary'' || 5,200 kgf || 8,154 kgf
-| 1.00 || 0.89 || 0.82 || _.__
+| 1.00 || 0.89 || 0.82 || 0.58
 |-
 | ''Optimal'' || 5,366 kgf<br>(1,460 km/h) || 10,978 kgf<br>(1,400 km/h)
-| 1.35 || 1.19 || 1.11 || _.__
+| 1.35 || 1.19 || 1.11 || 0.78
 |-
 |}
 

@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian light tank {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]]. It is also known as the Centauro MGS.
+The B1 Centauro da 120, also known as the Centauro MGS, originated as a test vehicle made by OTO Melara in the late 1990s which experimented with the new HITFACT MK1 turret, equipped with an OTO 120/45 cannon, modern FCS, improved optics and other improvements. The plan was to convert a small batch of Italian army B1 Centauros, which had access to a 105 mm cannon; however, the Italian army did not see a need for the upgrade as the existing Centauro vehicles met their requirements. As a result, the B1 Centauro da 120 continued to be used for testing purposes and was showcased at military conventions like IDEX, in the hope of attracting potential foreign buyers. Ultimately, the only nation to adopt this variant was Oman, which purchased 9 units for the Royal Omani Guard. The B1 Centauro da 120 continued to undergo testing and served as a stepping stone towards the development of the B2 Centauro.
+
+Introduced in [[Update 1.97 "Viking Fury"]], the main features of the B1 Centauro da 120 are its incredible mobility and 5-second reload. It is highly versatile, allowing for a range of playstyles such as flanking or sniping, where your mobility at the start of a match means you can get to spots much quicker than your teammates or opponents. In terms of armour, the vehicle is vulnerable to tank APFSDS and HE rounds, but it comes with applique armour that provides protection against autocannon and heavy machine gun fire, offering some defence against IFVs. The armament consists of a 120 mm cannon, as well as 12.7 mm and 7.62 mm machine guns mounted on the turret.The vehicle is equipped with a laser rangefinder and stabilizer, enabling accurate firing on the move and allowing for quick shots against unsuspecting enemies. The second-generation thermals and night vision devices provide improved visibility compared to the earlier Centauro variants. Overall, the B1 Centauro da 120 is a solid platform and a valuable addition to any top-tier Italian lineup.
 
 == General info ==
 === Survivability and armour ===
@@ -233,8 +235,10 @@ The MGS would first be shown to the public in its official debut, at IDEX 2003. 
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* [[Centauro (Family)]]
+* [[Centauro I 105]]
+* [[Centauro I 105 R]]
+* [[VRCC]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
@@ -242,8 +246,8 @@ The MGS would first be shown to the public in its official debut, at IDEX 2003. 
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+* https://forum.warthunder.com/index.php?/topic/542326-centauro-variants-overview-b1-to-b2/
+* https://www.iveco-otomelara.com/tracked/CentauroI.php
 
 {{TankManufacturer OTO Melara}}
 {{Italy light tanks}}

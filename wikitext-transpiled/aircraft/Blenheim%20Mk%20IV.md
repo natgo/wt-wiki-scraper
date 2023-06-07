@@ -7,7 +7,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British bomber {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
-The Blenheim IV is a light bomber, therefore base bombing in Realistic Battles isn't recommended, as the armament of 2 x 500 lbs bombs isn't enough for one or two runs against a base. The Blenheim's advantage over other bombers is its speed, so remembering and implementing this into tactics is vital. Low and fast tactics are normally best, try to avoid flying at medium altitudes or high altitudes, as accuracy will drop and you will be weak against attacks from below. Although the "red-line" speed of the Blenheim is high, dive bombing isn't as accurate as level bombing, so try to fly very low over the target to ensure a hit with the weaker payloads. The front turret guns are excellent for the "drive-by" method of attack against un-armoured targets- this is an advised tactic to carry through to the [[Beaufort Mk VIII|Beaufort]] - the wing mounted gun was intended as a range finder in real life but can ground attack un-armoured targets, with time and patience, although the turret method is easier.
+The Blenheim IV is a light bomber, therefore base bombing in Realistic Battles isn't recommended, as the armament of 2 x 500 lbs bombs isn't enough for one or two runs against a base. The Blenheim's advantage over other bombers is its speed, so remembering and implementing this into tactics is vital. Low and fast tactics are normally best, try to avoid flying at medium altitudes or high altitudes, as accuracy will drop and you will be weak against attacks from below. Although the "red-line" speed of the Blenheim is high, dive bombing isn't as accurate as level bombing, so try to fly very low over the target to ensure a hit with the weaker payloads. The front turret guns have been modified to only fire rearwards, so the wing mounted gun which was only intended as a range finder in real life is your only FF weapon, but this can still ground attack un-armoured targets, with time and patience, although the turret method was easier.
 
 The plane can also be used as a fighter. This is due to its supreme low-speed turn capabilities. The Blenheim turns into a Spitfire with flaps deployed, and the elevator fully extended. Surprising as it may sound, the frontal armament may prove devastating when used in a correct way. That is, if you load tracers, for not only unlike other ammunition choices it gives you a rough idea where the shells are going, but also it consists of the best shell composition, with a decent chance to light fires. As for the turrets, load universal, again due to its best shell composition.
 
@@ -120,8 +120,6 @@ In order to be successful in shooting down enemy aircraft, one needs to either i
 
 If you are down-tiered, you can use your speed to completely avoid some enemy fighters. At a decent altitude (3,000 m or above works best), biplanes will not be able to catch you and low tier monoplanes will struggle.
 
-One last thing about the turrets: they both have a 360 degree firing arch. This means, that you may also use them offensively (especially when engaging bombers, with whom you may exchange broadsides, or when the offensive armament has run out of ammunition).
-
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
 |-
@@ -181,6 +179,7 @@ Whilst certainly one of the world's fastest aircraft during the prototype phase 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=blenheim_mkiv Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -188,6 +187,7 @@ Whilst certainly one of the world's fastest aircraft during the prototype phase 
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

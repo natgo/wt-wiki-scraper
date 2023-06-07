@@ -15,7 +15,7 @@ The '''{{Specs|name}}''' ({{Annotation|九七式中戦車「チハ」|Kyūnana-S
 It was introduced in [[Update 1.65 "Way of the Samurai"]] along with the initial Japanese vehicles of the Japanese Ground Forces Tree. Essentially a better armoured and engined [[I-Go Ko]], the Chi-Ha seems rather mediocre at first glance. However, this tank can perform quite well at its battle rating provided that it is played to its strengths, those being its decent mobility and low-velocity cannon with a relatively high penetrating HEAT shell that can be lobbed over cover.
 
 == General info ==
-The Type 97 Chi-Ha is an upgraded version of the earlier Type 89 I-Go. The engine has been upgraded, from the Mitsubishi A6120VD air-cooled straight-six diesel with 120 hp to a Mitsubishi SA12200VD air-cooled V12 diesel with 170 hp. As such, the top speed has increased from 27 kph on the I-Go to 38 kph on the Chi-Ha. The armament stays the same, with the same shells and gun characteristics. The 5.7 cm Tank Gun Type 97 is robust, but will get the job done. It still has four crewmen inside, no armour, and a 7.7 mm Type 97 in the hull. Overall, it's in general a better I-Go.
+The Type 97 Chi-Ha is an upgraded version of the earlier Type 89 I-Go. The engine has been upgraded, from the Mitsubishi A6120VD air-cooled straight-six diesel with 120 hp to a Mitsubishi SA12200VD air-cooled V12 diesel with 170 hp. As such, the top speed has increased from 27 km/h on the I-Go to 38 km/h on the Chi-Ha. The armament stays the same, with the same shells and gun characteristics. The 5.7 cm Tank Gun Type 97 is robust, but will get the job done. It still has four crewmen inside, no armour, and a 7.7 mm Type 97 in the hull. Overall, it's in general a better I-Go.
 
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
@@ -174,6 +174,7 @@ Japan then invaded the Americans in the Philippines. It was here that the Japane
 {{main|Chi-Ha (Family)#Media|l1=Media of the Type 97 Chi-Ha family}}
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_97_chi_ha Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 {{Skin-gallery
  |market|ugcitem_1000602|Type-97 Chi-Ha of the 9th Sensha Rentai.png|Camo "9th Sensha Rentai"
@@ -201,9 +202,11 @@ Chi-Ha (14).png|
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related Development
+
 * [[Chi-Ha (Family)]]
 
 ;Other vehicles of similar configuration and role
+
 * [[Ho-I]]
 * German tanks equipped with [[KwK37 (75 mm)]]
 * [[T-26-4]]

@@ -32,7 +32,7 @@ Taking a look at J-7D, other than its default grey-tone camo and the PLAAF round
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | 750
+| 2,348 || 2,323 || rowspan="2" | {{Specs|ceiling}} || 26.9 || 27.9 || 143.2 || 134.3 || rowspan="2" | 750
 |-
 ! Upgraded
 | 2,488 || 2,419 || 25.4 || 26.0 || 199.3 || 170.0
@@ -61,7 +61,7 @@ Taking a look at J-7D, other than its default grey-tone camo and the PLAAF round
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || ___ || ___ || ___ || ~__ || ~__
+| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || - || 500 || 450 || ~12 || ~6
 |-
 |}
 
@@ -71,7 +71,7 @@ Taking a look at J-7D, other than its default grey-tone camo and the PLAAF round
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || N/A
+| < 650 || < 600 || < 950 || -
 |-
 |}
 
@@ -84,29 +84,29 @@ Taking a look at J-7D, other than its default grey-tone camo and the PLAAF round
 ! colspan="2" | Engine name || Number
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
 |-
-| colspan="2" |Shenyang Liming WP-13FI||1
-| colspan="2" | _,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
+| colspan="2" | Shenyang Liming WP-13FI || 1
+| colspan="2" | 5,812 kg || colspan="2" | 353 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
-! _m fuel || __m fuel || __m fuel
+! 9m fuel || 20m fuel || 30m fuel
 |-
 | 1,200 kg || colspan="2" | Afterburning axial-flow turbojet
-| _,___ kg || _,___ kg || _,___ kg || _,___ kg
+| 6,501 kg || 7,297 kg || 8,108 kg || 9,635 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
-! colspan="4" | Thrust to weight ratio @ 0 m (___%/WEP)
+! colspan="4" | Thrust to weight ratio @ 0 m (WEP)
 |-
-! Condition || 100% || ___%/WEP
-! _m fuel || __m fuel || __m fuel || MGW
+! Condition || 100% || WEP
+! 9m fuel || 20m fuel || 30m fuel || MGW
 |-
-| ''Stationary'' || ___ kgf || ___ kgf
-| _.__ || _.__ || _.__ || _.__
+| ''Stationary'' || 4,160 kgf || 6,751 kgf
+| 1.04 || 0.93 || 0.83 || 0.70
 |-
-| ''Optimal'' || ___ kgf<br>(_ km/h) || ___ kgf<br>(_ km/h)
-| _.__ || _.__ || _.__ || _.__
+| ''Optimal'' || 4,283 kgf<br>(1,365 km/h) || 7,411 kgf<br>(1,365 km/h)
+| 1.14 || 1.02 || 0.91 || 0.77
 |-
 |}
 

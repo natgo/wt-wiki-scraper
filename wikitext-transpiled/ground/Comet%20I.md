@@ -194,12 +194,12 @@ Although your gun can counter anything within the Comet's BR range, you should c
 * Has access to neutral steering which allows quick repositioning of the tank
 * Good climbing ability, can get to sniping positions that other tanks cannot
 * Good gun, precise and with good penetration values (vertical armour)
-* APDS is great at taking out Panthers and Tigers at long range. Knock-outs are common if you know where the ammo racks are
+* APDS is great at taking out Tigers at long range. Knock-outs are common if you know where the ammo racks are
 * APDS makes the tank very easy to use in RB and SB. The round drops very little over distance and retains a lot of penetration
 
 '''Cons:'''
 
-* Bad penetration values against sloped armour without APDS
+* Bad penetration values against sloped armour 
 * Mediocre gun damage due to lack of explosive fillers, aim at the enemy gunner to increase your fighting chance
 * The 77 mm HV does not have as much penetration as the true 17-pounder and other Rank III guns
 * Overall bad armour for its rank, only the turret front has some good chance to bounce some hits
@@ -226,6 +226,7 @@ The Comet I saw service after World War II during the Korean War when it started
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a_34_comet Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

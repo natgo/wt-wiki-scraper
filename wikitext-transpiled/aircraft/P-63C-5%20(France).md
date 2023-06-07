@@ -15,6 +15,8 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French fighter {{Battle-rating
 
 The aircraft is a high altitude interceptor/ energy fighter, with its turn radius slightly better than before. The quick dive speed and high energy retention allows the player, with the correct altitude, to engage opponents below numerous times using the high yo-yo method. This aircraft should not be used for ground attack due to its average ammo count.
 
+There is an identical variant in the US tree - {{Specs-Link|p-63c-5}}. The key difference is in the fact that the French variant has access to the [[Incendiary weapons#Incendiary bombs|incendiary bombs]], while the US model doesn't.
+
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
@@ -78,15 +80,16 @@ The aircraft is a high altitude interceptor/ energy fighter, with its turn radiu
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
+* 12.7 mm Steel plate in front of the engine.
 * 38 mm Bulletproof glass in front of pilot.
-* 12.7 mm Steel plate behind pilot's top body.
-* 6.35 mm Steel plates on cockpit doors.
-* 19.05 mm Steel plate behind 37 mm autocannon.
+* 19.05 mm Steel plate behind 37 mm autocannon / in front of the pilot.
 * 15.87 mm Steel plates in front of pilot's feet.
-* 12.7 mm Steel plate behind engine.
+* 6.35 mm Steel plates on cockpit doors.
+* 12.7 mm Steel plate behind pilot's top body.
 
 === Modifications and economy ===
 {{Specs-Economy}}
+Tier I would be best started with either Radiator or Offensive 12 mm. Tier II would be best-started with Compressor, due to it's increase in rate of climb, followed by either Airframe (for construction strength and rate of climb) or FMBC mk.1 (for additional experience from destroying ground targets in both: air and ground battles). Tier III would be best-started with Engine followed by either Wings repair or Offensive 37 mm. The best choice in the Tier IV is the Engine injection due to the huge increase in engine power making a significant difference in climb and turn rate. From there on continue through the remaining modifications.
 
 == Armaments ==
 {{Specs-Avia-Armaments}}

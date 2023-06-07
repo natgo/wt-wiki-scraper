@@ -129,7 +129,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German jet bomber {{Battle-rat
 | colspan="2" | ''Stationary'' || colspan="2" | 1,682 kgf || colspan="2" | 8,720 kgf
 | 0.56 || 0.54 || 0.50 || 0.46 || 0.43
 |-
-| colspan="2" | ''Optimal'' || colspan="2" | 1,682 kgf<br />(any speed) || colspan="2" | 8,720 kgf<br />(0kph)
+| colspan="2" | ''Optimal'' || colspan="2" | 1,682 kgf<br />(any speed) || colspan="2" | 8,720 kgf<br />(0 km/h)
 | 0.56 || 0.54 || 0.50 || 0.46 || 0.43
 |-
 |}
@@ -229,7 +229,7 @@ The IL-28 starts off with twelve 100 kg bombs which in some cases are not enough
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-The IL-28 was created to meet a requirement for a bomber to carry a 3,000-kilogram payload at 800 kph (500 mph). Although there were several previous attempts to create such an aircraft the IL-28 was the first successful design. It incorporated the new Rolls-Royce Nene engines, produced as the unlicensed "RD-45". After the completion of testing in 1949, the aircraft was ordered into production on 14 May 1949, with the new Klimov VK-1, an improved version of the previous RD-45. The IL-28 was widely exported and was utilized by almost all of the Warsaw Pact nations along with various Middle Eastern and African nations. It was license-built in China as the Harbin H-5 and in Czechoslovakia as the Avia B-228. It is known to still be in service today in the Korean People's Air Force (KPAF). Although few in number, they provide North Korea with a means of strategically bombing targets.
+The IL-28 was created to meet a requirement for a bomber to carry a 3,000-kilogram payload at 800 km/h (500 mph). Although there were several previous attempts to create such an aircraft the IL-28 was the first successful design. It incorporated the new Rolls-Royce Nene engines, produced as the unlicensed "RD-45". After the completion of testing in 1949, the aircraft was ordered into production on 14 May 1949, with the new Klimov VK-1, an improved version of the previous RD-45. The IL-28 was widely exported and was utilized by almost all of the Warsaw Pact nations along with various Middle Eastern and African nations. It was license-built in China as the Harbin H-5 and in Czechoslovakia as the Avia B-228. It is known to still be in service today in the Korean People's Air Force (KPAF). Although few in number, they provide North Korea with a means of strategically bombing targets.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

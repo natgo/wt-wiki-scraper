@@ -135,7 +135,7 @@ For those aircraft which find themselves facing a P-43 in combat, head-on encoun
 
 The limited ammo means trigger discipline is important - something made a bit easier by the poor armour of those enemies. Use stealth belts. 400 m convergence is recommended, and you will want to wait until you are 0.5 km away to start firing. In a good pilot's hands, a P-43 can easily take out 5 enemy aircraft. However, if not played with a boom and zoom tactic, it is a sitting duck.  The P-43 is a good plane for pilots the offers a great learning step towards the P-47.
 
-* In simulator, the P-43 is overall good to fly. It is quite fast and climbs good, and can easily dive to >500 kph while still having responsive controls. It has sufficient visibility over the nose, but its cockpit is like a cage with thick frames at the sides and front, significantly limiting your visibility. When you circle above an area hoping to find a target, the horizontal piece of frame will always get into your way which forces you to roll the entire plane just to look out to the side. Its razorback design also means poor backwards visibility which can be fatal. You might hear the plane behind you, but you can barely see it. 
+* In simulator, the P-43 is overall good to fly. It is quite fast and climbs good, and can easily dive to >500 km/h while still having responsive controls. It has sufficient visibility over the nose, but its cockpit is like a cage with thick frames at the sides and front, significantly limiting your visibility. When you circle above an area hoping to find a target, the horizontal piece of frame will always get into your way which forces you to roll the entire plane just to look out to the side. Its razorback design also means poor backwards visibility which can be fatal. You might hear the plane behind you, but you can barely see it. 
 * During takeoff, its propeller starts off really slowly so patiently wait until it is spinning, then add throttle. It is easy to land as well, thanks to its strong gears it can withstand some heavy touch downs from beginners. You can also brake all the way until it stops and not worry about striking the propeller into the ground.
 * The P-43 performs adequately as an interceptor but not so well as a dogfighter, due to the fact that low-tier battles are always turnfights which is something the P-43 lacks. Its rather low one-second burst mass means that in the common short firing windows in a dogfight, the P-43 usually cannot effectively damage the enemy fighter as it passes in front of your guns. Therefore your priority should be destroying AI surveillance aircraft, intercepting AI / human bombers and attackers, and wiping out ground pounders. 
 
@@ -163,7 +163,7 @@ The limited ammo means trigger discipline is important - something made a bit ea
 
 * Efficient armament of 4 x .50 calibre Browning M2 machine guns
 * Late Browning belts packs heavy firepower
-* High red-line speed; 725 kph, does not compress too badly after 650 kph
+* High red-line speed; 725 km/h, does not compress too badly after 650 km/h
 * Decent energy retention for Boom & Zoom operations
 * Excellent turn time, can turn with anything but biplanes and Japanese fighters
 * Good performance at altitude thanks to a turbocharger
@@ -216,6 +216,7 @@ During their service with the CAF, the P-43 was credited, with P-40s, for taking
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=p-43a-1_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -232,10 +233,12 @@ During their service with the CAF, the P-43 was credited, with P-40s, for taking
 * [https://forum.warthunder.com/index.php?/topic/375197-p-43a/ Official data sheet - more details about the performance]
 
 === References ===
+
 ;Citations
 <references />
 
 ;Bibliography
+
 * Dunn, Richard L. Republic P-43 Lancer and China's Air War. Warbird Forum. 2004, [https://www.warbirdforum.com/richdunn.htm Website]
 
 {{AirManufacturer Republic}}

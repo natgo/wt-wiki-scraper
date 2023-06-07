@@ -171,7 +171,7 @@ After the initial stages of World War II, the Panzer IV Ausf. C saw further upgr
 {{break}}
 {{Navigation-Start|{{Annotation|Archive of the in-game description|An archive of the historical description of the vehicle that was presented in-game prior to Update 1.55 'Royal Armour'}}}}
 {{Navigation-First-Simple-Line}}
-The Pz.Kpfw.IV Ausf. C was the first Pz. IV variant to undergo relatively large-scale production. The tanks were produced from September 1938 to August 1939 in factories belonging to the company Krupp-Gruson. Beginning with the 40th tank to be produced, a Maybach HL 120TRM engine with 265 hp was used. This variant of tank had a specially reinforced stop under the gun barrel which reclined the radio antenna out of the way when the turret was rotated. The coaxial machine gun was fitted with an armoured casing. This variant included a new 6-speed gearbox. The vehicle's speed was increased to 40 kph. Its forward armour was 16 mm thick. The tank commander received a new commander's cupola. Ausf. C tanks had a modified engine installation and an improved turret rotating ring. On Pz.Kpfw. IV Ausf. C vehicles, the radio operator did not have a directional machine gun but an observation slit and pistol porthole instead.
+The Pz.Kpfw.IV Ausf. C was the first Pz. IV variant to undergo relatively large-scale production. The tanks were produced from September 1938 to August 1939 in factories belonging to the company Krupp-Gruson. Beginning with the 40th tank to be produced, a Maybach HL 120TRM engine with 265 hp was used. This variant of tank had a specially reinforced stop under the gun barrel which reclined the radio antenna out of the way when the turret was rotated. The coaxial machine gun was fitted with an armoured casing. This variant included a new 6-speed gearbox. The vehicle's speed was increased to 40 km/h. Its forward armour was 16 mm thick. The tank commander received a new commander's cupola. Ausf. C tanks had a modified engine installation and an improved turret rotating ring. On Pz.Kpfw. IV Ausf. C vehicles, the radio operator did not have a directional machine gun but an observation slit and pistol porthole instead.
 
 As a result of these improvements, the vehicle's reliability and ease of manufacturing were improved.
 140 units were produced in all.
@@ -187,9 +187,11 @@ The Pz.Kpfw. IV Ausf. C tank fought in combat operations until 1943.
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_IV_ausf_C Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
+
 * [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 == See also ==

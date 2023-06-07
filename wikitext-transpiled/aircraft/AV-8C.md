@@ -222,8 +222,6 @@ This is the trickiest but most rewarding payload the Harrier can carry (rewardin
 
 Harrier can be used as a helicopter thanks to the VTOL capabilities, rockets are recommended if used like this. It is able to hide behind mountains, poke to attack and go back into cover as a helicopter would do. Handling this technique can be tricky and will require practice but is an alternate way of playing CAS.
 
-*Note: AIM-9G are not recommended to be taken in GRB as most of the air to air engagements will be within a kilometre range specially since the AIM-9G turn radius is really narrow, meaning enemy planes can be taken with the 30 mm ADEN autocannons or be taken by friendly SPAA. It is not recommended to use them against enemy helicopters either as the autocannons are sufficient for them.
-
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 

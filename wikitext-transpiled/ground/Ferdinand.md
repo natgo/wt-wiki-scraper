@@ -139,7 +139,7 @@ IS-2 heavy tanks are a real threat to Ferdinand, as well as TD's of the same ran
 ===Development===
 During the program to create what will end up being the [[Tiger I (Family)|Tiger I]] tanks, Henschel and Porsche competed against each other for the contract to build the tanks. Porsche further developed their pre-existing 45-ton prototype, the [[VK 45.01 (P)]], while Henschel adapted their 36 ton prototype (VK 3601 H) to create the VK 4501 H. Henschel won the contract, but Porsche was extremely confident that their design would win that around 100 of the VK 4501 P chassis were already constructed. Since the design lost, it was determined to use the chassis for the basis of a new vehicle, namely a tank destroyer to mount the new and formidable [[PaK 43 (88 mm)|88 mm PaK 43 anti-tank gun]]. These new tank destroyers were then called the Ferdinand, after its designer Ferdinand Porsche.
 
-The Ferdinand was a formidable tank destroyer design. Changes from the original VK 4501 P chassis was the movement of the engine towards the centre rather than the rear. The armour bolted onto the front plate gave the Ferdinand an armour thickness of 200 mm. Plus, with the 88 mm Pak 43 on a fixed casemate design, it could knock out any allied tanks before they could enter effective ranges against the Ferdinand. 91 of the VK 4501 P chassis were converted into the Ferdinand. The design was not without its flaw though, mostly concerned with the heavy weight of 65 tons and an unreliable engine with the gasoline-electric drive system. Two Maybach 12 cylinder HL120 TRM engines with 265 hp constant power output drove 2 generators which powered 2 Siemens-Schuckert electric motors with 230 kW power output. This resulted in a top speed of only 20 kph and a very low operational range of only 150 km. Other lesser drawbacks were the lack of all-around vision ports and machine guns, which would be later addressed due to combat experience. Nevertheless, the engine and weight drawbacks would plague the Ferdinand design throughout its service life.
+The Ferdinand was a formidable tank destroyer design. Changes from the original VK 4501 P chassis was the movement of the engine towards the centre rather than the rear. The armour bolted onto the front plate gave the Ferdinand an armour thickness of 200 mm. Plus, with the 88 mm Pak 43 on a fixed casemate design, it could knock out any allied tanks before they could enter effective ranges against the Ferdinand. 91 of the VK 4501 P chassis were converted into the Ferdinand. The design was not without its flaw though, mostly concerned with the heavy weight of 65 tons and an unreliable engine with the gasoline-electric drive system. Two Maybach 12 cylinder HL120 TRM engines with 265 hp constant power output drove 2 generators which powered 2 Siemens-Schuckert electric motors with 230 kW power output. This resulted in a top speed of only 20 km/h and a very low operational range of only 150 km. Other lesser drawbacks were the lack of all-around vision ports and machine guns, which would be later addressed due to combat experience. Nevertheless, the engine and weight drawbacks would plague the Ferdinand design throughout its service life.
 
 ===Combat usage===
 The Ferdinand's combat debut was in the Battle of Kursk, with 89 vehicles available. The Ferdinand was optimized for destroying Soviet tanks at long ranges (over 3 miles or 5 km) with its 88 mm PaK 43/2 L/71 gun. The Ferdinand's flaws came to light during their movement; after advancing through Soviet defence lines, the Soviet infantry quickly recognized that it lacked peripheral vision blocks, a rotating turret (like most World War II tank destroyers for Germany) and the Ferdinand didn't even have a machine gun for anti-infantry purposes. Soviet infantry could hide in their trenches until the Ferdinand advanced the lines, then take out the vehicle with grenades and Molotov cocktails. Heinz Guderian remarked that Ferdinand's anti-infantry capabilities were essential "quail shooting with cannons".
@@ -171,6 +171,7 @@ However, the German military valued the controllability and survivability of the
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_panzerjager_tiger_P_ferdinand Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -178,6 +179,7 @@ However, the German military valued the controllability and survivability of the
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

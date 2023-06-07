@@ -1,3 +1,8 @@
+{{About
+| about = Japanese MLRS '''{{PAGENAME}}'''
+| usage = other versions
+| link = Type 73 (Family)
+}}
 {{Specs-Card
 |code=jp_type_75_mlrs
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
@@ -5,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Japanese tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.83 "Masters of the Sea"]].
+The '''Type 75 {{Annotation|MLRS|Multi Launch Rocket System}}''' is a system that launches multiple rockets based on a prototype of the [[Type 73 (Family)|Type 73 APC]] hull to provide a 30-barrel 130 mm Type 75 rocket launch system.
+
+It was introduced in [[Update 1.83 "Masters of the Sea"]]. Being an MLRS, it may seem like a gimmicky vehicle, but it has a large payload in its 130 mm rockets. It is similar to a [[Ho-Ro]] but without the need to reload the next shell and with good ballistics that make it rather easy to use.
 
 == General info ==
 === Survivability and armour ===

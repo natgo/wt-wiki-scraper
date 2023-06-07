@@ -13,7 +13,7 @@ Many people tend to ignore the Yak-30 for its easier-to-grind contemporary, the 
 
 Unlike previous Yak jets (such as the Yak-23/17/15) the Yak-30 is a conventional swept-wing jet fighter that performs much more akin to the famed Mig-15/17 than its more manoeuvrable, straight-winged forebears. At its BR, the Yak-30 is an excellent aircraft that can compete with the best other nations have to offer, if played right and not uptiered.
 
-The Yak-30 is incredibly fast, capable of over 1,000 km/h in level flight. Unfortunately, acceleration over 850 kph isn't particularly good and significant energy is lost in any sort of manoeuvre at those speeds.
+The Yak-30 is incredibly fast, capable of over 1,000 km/h in level flight. Unfortunately, acceleration over 850 km/h isn't particularly good and significant energy is lost in any sort of manoeuvre at those speeds.
 
 Please note that the Yak-30 starts to compresses significantly at high speeds and cannot effectively make high-speed deflection shots unless the target in question is flying idly and is not spatially aware.
 
@@ -193,6 +193,7 @@ The Yak-30 was the unsuccessful rival to the MiG-15. Design of the Yakovlev prot
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=yak-30d Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

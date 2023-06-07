@@ -13,7 +13,7 @@ This variant is the up-gunned version, designated 81C and it excels at ground su
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-On paper the IAR-81C looks to be a [[Bf 109 E-3|Bf 109E]] clone. Though looks can be deceiving. This vehicle feels far heavier than it really is. Cause for this is the early starting lock-up of the elevator at high speeds and the lack of leading-edge wing slats at low ones. Flaps use is essential, but slows down the plane very much in using so. Turn characteristics are average which can be said for most of its statistics. Although it lacks the horsepower to accelerate ones coming out of a manoeuvre. Despite the elevator lock-up above 400 kph, the IAR-81C is an excellent Boom & Zoom fighter. The sleek design, the terminal velocity of 680 km/h IAS and the late break-off speed for the flaps all greatly help. The latter especially is of use to tighten the recovery from dive attacks, ensuring that even at high dive speeds the flaps can be deployed.
+On paper the IAR-81C looks to be a [[Bf 109 E-3|Bf 109E]] clone. Though looks can be deceiving. This vehicle feels far heavier than it really is. Cause for this is the early starting lock-up of the elevator at high speeds and the lack of leading-edge wing slats at low ones. Flaps use is essential, but slows down the plane very much in using so. Turn characteristics are average which can be said for most of its statistics. Although it lacks the horsepower to accelerate ones coming out of a manoeuvre. Despite the elevator lock-up above 400 km/h, the IAR-81C is an excellent Boom & Zoom fighter. The sleek design, the terminal velocity of 680 km/h IAS and the late break-off speed for the flaps all greatly help. The latter especially is of use to tighten the recovery from dive attacks, ensuring that even at high dive speeds the flaps can be deployed.
 
 A bit cumbersome the IAR-81C takes about 20 seconds to take-off from a standstill, especially with a payload onboard. A hard Split-S without the combat flaps is a dangerous affair thanks to the elevator locking up and will take about 460 m to perform. The Immelmann should be reserved for a better accelerating fighter for this plane is not a fan of it. A high Yo-Yo is preferable. Climbing should be done at 15° and between 250 and 270 km/h (240 ft/s), though a stable climb is possible at 150 km/h, too.
 
@@ -181,6 +181,7 @@ Even prior to Romania's entry into WW2 in 1941, the government was keen on moder
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=iar_81c Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

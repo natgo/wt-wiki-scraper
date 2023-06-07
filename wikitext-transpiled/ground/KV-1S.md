@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet heavy tank {{Battle-rating}}. It was introduced in [[Update 1.57 "Battle March"]]. A lightened KV-1 made to improve its manoeuvrability, the KV-1S has less overall armour than the original design but keeps its same lethality with improved speed.
 
-Compared to the KV-1 L-11, side and rear armour are decreased to 60 mm, lightening the vehicle and increasing its speed to maximum 43 kph. A new turret was installed, presenting a smaller profile, thicker armour, and better angling all around. The armament is also changed to the ZIS-5, the equivalent of its [[KV-1 (ZiS-5)|successor]] and the [[T-34 (1941)|T-34]]'s F-34 guns.
+Compared to the KV-1 L-11, side and rear armour are decreased to 60 mm, lightening the vehicle and increasing its speed to maximum 43 km/h. A new turret was installed, presenting a smaller profile, thicker armour, and better angling all around. The armament is also changed to the ZIS-5, the equivalent of its [[KV-1 (ZiS-5)|successor]] and the [[T-34 (1941)|T-34]]'s F-34 guns.
 
 == General info ==
 === Survivability and armour ===
@@ -176,7 +176,7 @@ Measures taken to increase the mobility included reduction of weight by decreasi
 
 The KV-1S had a crew of five, two in the hull and three in the turret. It weighed only 42.5 tonnes compared to 47 tonnes on a KV-1B Model 1942. The KV-1S turret was a completely new, cast (rounded shape) turret that also featured a new commander's cupola with greater field of view. The armament consisted of a 76.2 mm ZiS-5 tank gun as well as three 7.62 mm DT machine guns; one coaxial to the main gun, one in the rear of the turret, and in a ball mount in the hull front.
 
-The powerplant used was a 600 brake horsepower V2 engine. The road wheels were made smaller and a new planetary transmission gearbox was fitted. This allowed a top speed of 40 km/h compared to 28 kph on the KV-1B Model 1942. The armour though was reduced from 20 - 130 mm to only 20 - 82 mm on the KV-1S.<ref name=":1" />
+The powerplant used was a 600 brake horsepower V2 engine. The road wheels were made smaller and a new planetary transmission gearbox was fitted. This allowed a top speed of 40 km/h compared to 28 km/h on the KV-1B Model 1942. The armour though was reduced from 20 - 130 mm to only 20 - 82 mm on the KV-1S.<ref name=":1" />
 
 '''Production and Service'''
 

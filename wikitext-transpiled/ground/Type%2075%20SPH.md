@@ -1,3 +1,8 @@
+{{About
+| about = Japanese SPH '''{{PAGENAME}}'''
+| usage = other versions
+| link = Type 73 (Family)
+}}
 {{Specs-Card
 |code=jp_type_75
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
@@ -5,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''Type 75 {{Annotation|SPH|Self Propelled Howitzer}}''' is an armoured artillery vehicle used exclusively by the Japan Ground Self-Defence Force. It is based on the  [[Type 73 (Family)|Type 73 APC]] chassis and has a 155 mm howitzer with an autoloader.
+
+It was introduced in [[Update 1.91 "Night Vision"]]. The autoloader allows a consistent 10s reload rate regardless of crew number, and can fire high-explosive shells with different fuses, as well as smoke shells. The best strategy is to aim for turret roofs or close to the turret base to maximise splash damage. The Type 75 SPH has weak aluminium armour and can be easily destroyed by heavy machine calibres and up.
 
 == General info ==
 === Survivability and armour ===

@@ -18,7 +18,7 @@ The Pe-3bis is the final aircraft in the Pe-3 family of strike aircraft, and sha
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-The Pe-3bis has similar handling characteristics as its predecessor, the Pe-3. It isn't a very manoeuvrable aircraft, and has mediocre handling characteristics even for a twin-engined heavy fighter. The plane can attain a top speed of roughly 430 kph at sea level when spaded, and up to 530 kph at higher altitudes. This means that the aircraft is much slower than most enemy single-engine fighters and some of its twin-engined brethren (for example, the [[Me 410 A-1|Me 410]]). The plane also has a slow climb rate, meaning that gaining altitude is always going to be a pain.
+The Pe-3bis has similar handling characteristics as its predecessor, the Pe-3. It isn't a very manoeuvrable aircraft, and has mediocre handling characteristics even for a twin-engined heavy fighter. The plane can attain a top speed of roughly 430 km/h at sea level when spaded, and up to 530 km/h at higher altitudes. This means that the aircraft is much slower than most enemy single-engine fighters and some of its twin-engined brethren (for example, the [[Me 410 A-1|Me 410]]). The plane also has a slow climb rate, meaning that gaining altitude is always going to be a pain.
 
 This aircraft benefits from having control surfaces that are relatively large and responsive. In particular, the aircraft's roll rate is actually quite satisfactory for an aircraft of its size. However, being a heavy fighter, the Pe-3bis suffers from relatively bad energy retention and turning capacity. The aircraft is equipped with leading-edge slats which can help improve manoeuvrability, but still cannot out-manoeuvre almost every single-engine fighter it faces at the BR. The aircraft suffers from slight control-surface lockup at higher speeds, but this isn't severe enough to prevent the aircraft from pulling out from a steep dive.
 
@@ -255,6 +255,7 @@ Pe-3/Pe-3bis fighters were in service only with the Air Force of the Workers' an
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=pe-3_bis Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -268,6 +269,7 @@ Pe-3/Pe-3bis fighters were in service only with the Air Force of the Workers' an
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 '''Aircraft of a comparable role, configuration or era:'''
+
 * [[Me 410 (Family)|Me 410 ''Hornisse'']]
 * [[Mosquito (Family)|Mosquito]]
 * [[Ki-108]]

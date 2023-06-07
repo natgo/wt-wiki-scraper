@@ -13,24 +13,27 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} American SPAA {{Battle-rating}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
 
-'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
-<!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
-* Cast homogeneous armour (Turret, Transmission area) -->
+'''Armour type:'''
+
+* High hardness rolled armour (hull, turret)
+* Aluminium alloy 7039 (front lower glacis)
+* Bulletproof glass (windows)
+* Wheel (tires)
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 7 mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 15 mm (45°) ''Lower glacis'' <br> 7.31 mm (66°) ''Upper glacis''  || 7.31 mm (35°) ''Top'' <br> 7.31 mm (0-20°) ''Bottom'' || 7.31 mm (15°) || 7.31 mm <br> 5 mm ''Engine vents''
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
-|-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Turret || 12.7 mm (49°) ''Turret front'' <br> 60 mm (49°) ''Windows'' || 7.31 mm (9-10°) <br> 60 mm (9°) ''Windows'' || 7.31 mm (0-31°) || 7.31 mm
 |-
 |}
 
-'''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
-<!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+'''Notes:''' 
+
+* Belly armour is 7.31 mm thick.
+* Wheels and torsion bars are 10 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -200,7 +203,7 @@ Though side shots are recommended against MBTs, depending on the angle, the 25 m
 
 '''Threats'''
 
-In the LAV-AD, anything above a 12.7 mm calibre poses a big threat to the player. Therefore, the LAV's best defense is offense. You should aim to destroy enemy vehicles before they even have a chance to train any of their weapons (including heavy machine guns) on you. If taking hits cannot be avoided, your best bet is to first destroy autocannon-equipped vehicles that can shred the lightly armoured LAV (luckily, most autocannon-equipped vehicles are lightly armoured themselves and can be shredded by the LAV's 25 mm cannon or 70 mm Hydra 70 rockets). As for the main cannon of a MBT's, it's all down to luck; hope that the MBT either misses or the armor-piercing shell overpenetrates and deals no damage.
+In the LAV-AD, anything above a 12.7 mm calibre poses a big threat to the player. Therefore, the LAV's best defense is offense. You should aim to destroy enemy vehicles before they even have a chance to train any of their weapons (including heavy machine guns) on you. If taking hits cannot be avoided, your best bet is to first destroy autocannon-equipped vehicles that can shred the lightly armoured LAV (luckily, most autocannon-equipped vehicles are lightly armoured themselves and can be shredded by the LAV's 25 mm cannon or 70 mm Hydra 70 rockets). As for the main cannon of a MBT, it's all down to luck; hope that the MBT either misses or the armour-piercing shell overpenetrates and deals no damage.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

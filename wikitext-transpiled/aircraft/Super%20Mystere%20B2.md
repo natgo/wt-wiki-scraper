@@ -28,7 +28,7 @@ The {{PAGENAME}} is a fighter/interceptor/bomber which newer pilots to supersoni
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 The {{PAGENAME}} is a typical middle of the road jet fighter in terms of flight performance. With its swept wings, it has a distinct advantage over earlier fighters with straight wings, however, it is surpassed by those jets which can hit or hit close to Mach 2. Modifications and upgrades from earlier Mystère fighters moulded the {{PAGENAME}} into what it is, going from its swept wings and tailplanes to its strengthened wing spars all held together with titanium bolts. This aircraft is meant to go fast, meant to make high-g manoeuvres and to carry heavy payloads when required.
 
-Outfitted with an afterburner, this fighter has decent acceleration and can achieve >Mach speed in level flight and even faster during a dive. This fighter does handle well during a dive and control stiffening does not begin until around 900 kph and starts to become severe around 1,050 kph. Though the wings have been reinforced for the greater weight loads, the wings can potentially shear off at around 1,265 kph. When carrying heavier loads such as the AN-M64A1 500 lb or AN-M65A1 1,000 lb bombs the overall manoeuvrability and acceleration of this aircraft will suffer, but not as bad as some of the other contemporary fighters in a similar situation.
+Outfitted with an afterburner, this fighter has decent acceleration and can achieve >Mach speed in level flight and even faster during a dive. This fighter does handle well during a dive and control stiffening does not begin until around 900 km/h and starts to become severe around 1,050 km/h. Though the wings have been reinforced for the greater weight loads, the wings can potentially shear off at around 1,265 km/h. When carrying heavier loads such as the AN-M64A1 500 lb or AN-M65A1 1,000 lb bombs the overall manoeuvrability and acceleration of this aircraft will suffer, but not as bad as some of the other contemporary fighters in a similar situation.
 
 Due to the possibility of being attacked by faster jet fighters, it is important to try to set up the enemy to overshoot the {{PAGENAME}} and one way to do that when being tailed is to reduce throttle, extend air brakes and manoeuvre to the right or left, if the chasing fighter cannot compensate to the Mystère's manoeuvres then they will zoom past, which will allow the {{PAGENAME}} to retract flaps, go full throttle and target the fleeing aircraft to attempt a firing solution.
 
@@ -45,10 +45,10 @@ While the acceleration in this aircraft is decent, the climb rate is quite good 
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 1,176 || 1,143 || rowspan="2" | {{Specs|ceiling}} || 31.8 || 33.1 || 47.5 || 47.5 || rowspan="2" | 800
+| 1,175 || 1,141 || rowspan="2" | {{Specs|ceiling}} || 31.8 || 33.1 || 47.4 || 47.4 || rowspan="2" | 800
 |-
 ! Upgraded
-| 1,208 || 1,199 || 30.4 || 31.0 || 76.0 || 61.0
+| 1,209 || 1,199 || 30.4 || 31.0 || 76.1 || 61.0
 |-
 |}
 
@@ -85,7 +85,7 @@ While the acceleration in this aircraft is decent, the climb rate is quite good 
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 600 || < 610 || < 590 || N/A
+| < 600 || < 610 || < 590 || -
 |-
 |}
 
@@ -96,31 +96,31 @@ While the acceleration in this aircraft is decent, the climb rate is quite good 
 ! colspan="5" | Aircraft mass
 |-
 ! colspan="2" | Engine name || Number
-! colspan="2" | Empty mass || colspan="3" | Wing loading (full fuel)
+! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
 | colspan="2" | SNECMA Atar 101G2 || 1
-| colspan="2" | 7,105 kg || colspan="3" | 262 kg/m<sup>2</sup>
+| colspan="2" | 7,213 kg || colspan="3" | 264 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="4" | Mass with fuel (no weapons load) || rowspan="2" | Max Takeoff<br />Weight
+! colspan="4" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
-! 11m fuel || 20m fuel || 30m fuel || 38m fuel
+! 10m fuel || 20m fuel || 30m fuel || 35m fuel
 |-
 | 950 kg || colspan="2" | Afterburning axial-flow turbojet
-| 7,711 kg || 8,192 kg || 8,726 kg || 9,154 kg || 11,645 kg
+| 7,822 kg || 8,361 kg || 8,934 kg || 9,244 kg || 10,490 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
 ! colspan="5" | Thrust to weight ratio @ 0 m (WEP)
 |-
 ! Condition || 100% || WEP
-! 11m fuel || 20m fuel || 30m fuel || 38m fuel || MTOW
+! 10m fuel || 20m fuel || 30m fuel || 35m fuel || MGW
 |-
-| ''Stationary'' || 3,003 kgf || 4,144 kgf
-| 0.54 || 0.51 || 0.47 || 0.45 || 0.36
+| ''Stationary'' || 3,003 kgf || 4,148 kgf
+| 0.53 || 0.50 || 0.46 || 0.45 || 0.39
 |-
-| ''Optimal'' || 3,222 kgf<br />(600 km/h) || 4,535 kgf<br />(600 km/h)
-| 0.59 || 0.55 || 0.52 || 0.50 || 0.39
+| ''Optimal'' || 3,222 kgf<br>(600 km/h) || 4,540 kgf<br>(600 km/h)
+| 0.58 || 0.54 || 0.51 || 0.49 || 0.43
 |-
 |}
 
@@ -158,7 +158,7 @@ The {{PAGENAME}} like many of the fighters of the time got away from machine gun
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
 {{main|AN-M64A1 (500 lb)|AN-M65A1 Fin M129 (1,000 lb)|SECAN 63 incendiary}}
-{{main|T10 151|SNEB type 23|AA-20 Nord|AIM-9B Sidewinder}}
+{{main|T10 151|SNEB type 23|AS-20 Nord|AA-20 Nord|AIM-9B Sidewinder}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 

@@ -181,7 +181,7 @@ A Praga AE engine with 160 hp at 2,600 rpm replaced the Praga AC. This required 
 
 The tank's armament consisted of a 20 mm automatic KwK38 L/55 cannon paired with a 7.92 mm MG42 machine gun. The guns could be pointed anywhere between -4 and 70 degrees and so could fire at air targets. The tank's ammunition included 300 shells and 1,500 machine gun rounds.
 
-The open-top hexahedral turret, manufactured by the company Appelt, was equipped with a metal mesh to protect against hand grenades. The tank's armor thickness ranged from 8 to 50 mm. Its operational weight reached 9,750 kg. At this weight, its maximum highway speed was 52 kph, and its maximum highway range was 240 km.
+The open-top hexahedral turret, manufactured by the company Appelt, was equipped with a metal mesh to protect against hand grenades. The tank's armor thickness ranged from 8 to 50 mm. Its operational weight reached 9,750 kg. At this weight, its maximum highway speed was 52 km/h, and its maximum highway range was 240 km.
 
 The Aufklärungpanzer 38(t) tank was accepted into the Wehrmacht in 1944, but large-scale production of the machine was never successfully introduced. A total of 70 tanks were produced.
 
@@ -194,6 +194,7 @@ Its design was successful, reliable, and advanced. However, the rivet joints in 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_38t_Aufklarungspanzer Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -205,9 +206,11 @@ Its design was successful, reliable, and advanced. However, the rivet joints in 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[LT-38 (Family)]]
 
 ;Other vehicles of similar configuration and role
+
 * [[T-60]]
 * [[L6/40]]
 

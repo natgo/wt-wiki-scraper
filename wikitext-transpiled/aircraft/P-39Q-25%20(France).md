@@ -134,6 +134,7 @@ In summary, this plane is a solid opponent if used correctly. The plane is equip
 | Controllable || Controllable<br>Not auto controlled || Controllable<br>Not auto controlled || Controllable<br>Not auto controlled || Separate || Not controllable<br>1 gear || Not controllable
 |-
 |}
+As the P39's engine often heats up, you might want to learn how to use MEC to counter it, it is way easier than most aircraft as you don't have a supercharger or the mixture to worry about, the optimal MEC settings are: 1% to 3% of radiator depending on the map, and ~73% of pitch.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -162,6 +163,7 @@ In summary, this plane is a solid opponent if used correctly. The plane is equip
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=p-39q_25_france Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -173,6 +175,7 @@ In summary, this plane is a solid opponent if used correctly. The plane is equip
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[P-39 (Family)]]
 * [[P-63 (Family)]]
 

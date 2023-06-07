@@ -9,8 +9,6 @@ The '''{{Specs|name}}''', designated as GJ-1 (攻击-1; attacker-1) in PLAAF ser
 
 The first PLAAF UCAV in service and one of the earliest UCAVS from Asia, although having a missile with lesser penetration to USA/Russia counterpart, if utilized properly, it can do sufficient damage to enemy team with high precision; while players has to think twice for when to deploy an UCAV or alternatively deploy fixed-wing jets/rotorcrafts.
 
-Like all other strike drones, the Wing Loong becomes available in any GRB match BR 9.7 or higher - meaning an 8.7 lineup, in a full uptier, can encounter the Wing Loong and other strike drones.
-
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
@@ -98,7 +96,6 @@ You start off by spawning at an altitude of 4000 meters above the battlefield. P
 '''Pros:'''
 
 * Spawns at altitude (4000 meters)
-* Access to two devastating [[AKD-9]] missiles
 * Exceptional optical camera
 * Hard to counter by SPAA
 * Available to everyone to use
@@ -107,6 +104,7 @@ You start off by spawning at an altitude of 4000 meters above the battlefield. P
 
 * Low max speed
 * Horrid climb rate
+* [[AKD-9]] missiles are quite underpowered
 * Access to only two ATGM's for a price higher than most helicopters and attack aircraft (which can carry more ATGM's)
 * A large amount of time will be spent going from spawn to the airfield to rearm and back
 

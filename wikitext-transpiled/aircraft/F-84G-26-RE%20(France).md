@@ -98,7 +98,7 @@ If ever in danger of risking going faster than maximum rip speed, it is importan
 | colspan="2" | 5,450 kg || colspan="2" | 276 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | Max Takeoff<br/>Weight
+! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | Max Takeoff<br />Weight
 |-
 ! Weight (each) || colspan="2" | Type
 ! 8m fuel || 20m fuel || 27m fuel
@@ -115,7 +115,7 @@ If ever in danger of risking going faster than maximum rip speed, it is importan
 | ''Stationary'' || 2,300 kgf || N/A
 | 0.39 || 0.36 || 0.34 || 0.23
 |-
-| ''Optimal'' || 2,300 kgf<br/>(0 km/h) || N/A
+| ''Optimal'' || 2,300 kgf<br />(0 km/h) || N/A
 | 0.39 || 0.36 || 0.34 || 0.23
 |-
 |}
@@ -210,6 +210,7 @@ Sometimes the suspended weapons you start out with doesn't work well later on in
 The F-84G is a versatile multi-role fighter and can be configured to be used in various types of aerial warfare, namely bomber interceptor, ground attack and fighter-interceptor.
 
 ;Bomber Interceptor
+
 Thanks to an upgraded engine compared to the F-84B, the G model has a bit more climbing power and does not need to rely solely on side climbing and reach the necessary altitude to begin hunting bombers or diving onto hapless fighters.  As a bomber interceptor, the pilot has two options for weapon load-outs besides the default guns, noting the HVAR and Tiny Tim rockets.
 
 If the F-84G is still stock or in the process of upgrading modules, the best bet will be to not load any suspended armaments and rely on the six 12.7 mm M3 Browning machine guns to do the work. Just using the machine guns will help save on weight and make it a bit easier to climb on the unmodified engine. For those pilots who have modified engines, they can opt for guns only for a quicker climb or attach HVAR rockets for an additional punch against larger bombers.
@@ -221,6 +222,7 @@ Since the six M3 machine guns are virtually centred on the aircraft, the inbound
 Utilizing HVAR rockets at large lumbering bombers can have a great impact, though unguided, they will need to be pointed in the general direction when launched, it may take several practice runs to determine best angle and distance in which to fire from for a successful attack. As with any unguided rocket, the best bet is to launch a volley of rockets to ensure a greater chance of at least one hitting.
 
 ;Ground Attack
+
 Jet fighters tend to not make good ground attackers as it typically requires them to fly low and slow making them easy pickings for enemy fighters above or anti-aircraft fire below. Since the F-84G is neither an exceptionally fast fighter nor a lumbering bomber, it has an advantage of being fast enough to be dangerous to ground targets without being a sitting duck for patrolling enemy fighters. Compared to many other fighters which are capable of ground attack, the F-84G can carry a fantastic amount of ground attack ordnance which can seriously put a dent into the enemy teams vehicles, bunkers and bases.
 
 While many aircraft available in War Thunder has a specific role of fighter-interceptor, ground attack or bomber, the F-84G can set itself up with suspended ordnance depending on the targets available on the map. The F-84G has several options depending on the modules unlocked by the pilot which range from outfitting HVAR unguided rockets, massive Tiny Tim unguided rockets, 100 lb, 250 lb, 500 lb and 1,000 lb bombs or a mixture of bombs and rockets.
@@ -228,6 +230,7 @@ While many aircraft available in War Thunder has a specific role of fighter-inte
 Smaller bombs and the HVAR rockets are best for going after lighter armoured targets such as aircraft (on the ground or with rockets in the air), anti-aircraft batteries, trucks, some light tanks and ships. The larger Tiny Tim rockets and bombs are best reserved for more hardened targets like pillboxes, medium and large tanks, bunkers, large ships and bases. This fighter is not afraid to get down and dirty taking out ground targets, just be aware of your surroundings and watch for enemy fighters or anti-aircraft guns poised to take you out.
 
 ;Fighter Interceptor
+
 While definitely not the fastest nor the most manoeuvrable fighter on the field, the F-84G has enough speed and manoeuvrability to take on fighter jets. The centerline six M3 machine guns concentrate enough lead into one spot to damage or destroy fighter aircraft flying in its path. While turning this fighter is bad due to bleeding airspeed (although maybe an option if you are trying to force an overshoot), Immelmann and Split-S manoeuvres will help you change directions keeping up your speed and allowing for a getaway or a targeting solution.
 
 Boom & Zoom tactics will enable the F-84G to have the speed to manoeuvre and set up their shots and keep them active in the fight. Many enemy fighters may mistake the F-84G as a weak and slow aircraft, however, the machine is not 100% of the solution and many pilots can take lesser aircraft and best faster, more agile and better-gunned aircraft by using their training, skills and the F-84G. The only time to count out the F-84G is when you see the pilot bail out, otherwise, always consider it a threat.
@@ -272,7 +275,7 @@ It will automatically detect other planes within the scanning area and display t
 
 In early 1944, Alexander Kartveli, the chief designer for the Republic Aviation Aircraft Company set out to work on a replacement for the piston-powered P-47 Thunderbolt which instead would be powered by a turbojet.<ref name="Burrows" /> All attempts at trying to use the P-47 frame to accommodate a turbojet failed and Kartveli resorted to designing a brand new aircraft around an axial compressor turbojet engine. Due to the nature of the engine taking up a large majority of the fuselage, fuel tanks were designed to be in the wings of the aircraft, however, the body was streamlined to make the smallest profile possible and retain all necessary critical components.
 
-The USAAF in September 1944 released new requirements for a daytime fighter along with specific characteristics such as the top speed of 600 mph (966 kph), armament of six 21.7mm machine guns or four 15.2 mm machine guns along with housing a General Electric TG-180 axial turbojet also known as the Allison J35 series turbojet engine.<ref name="Burrows" /> Republic proposed their new aircraft and on paper proposed it would be superior to Lockheed's P-80 Shooting Star. The USAAF noting Republic's already proven experience with single-seat fighters proposed a contract without holding any competition. These initial order fighters were listed as YP-84As and P-84Bs.
+The USAAF in September 1944 released new requirements for a daytime fighter along with specific characteristics such as the top speed of 600 mph (966 km/h), armament of six 21.7mm machine guns or four 15.2 mm machine guns along with housing a General Electric TG-180 axial turbojet also known as the Allison J35 series turbojet engine.<ref name="Burrows" /> Republic proposed their new aircraft and on paper proposed it would be superior to Lockheed's P-80 Shooting Star. The USAAF noting Republic's already proven experience with single-seat fighters proposed a contract without holding any competition. These initial order fighters were listed as YP-84As and P-84Bs.
 
 These early test aircraft were put to wind tunnel testing and it was found that major flaws developed when subjected to high speeds, notably longitudinal instability in the aircraft's frame and stabilizer skin buckling at high speeds. Also noted was issues with the weight of the aircraft and the problem with early turbojets not producing enough thrust for takeoff and climb outs (a problem which plagued the F-84B aircraft until more robust engines were outfitted). Early J35-GE-7 engines were replaced with J35-A-15 versions which helped with the thrust ratio, however wing-tip fuel tanks were added to the mix prior to proper testing and issues developed which at one point grounded the fleet of aircraft until modifications were made.
 
@@ -290,13 +293,16 @@ At least 13 other countries bought into the F-84 program including France which 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f-84g_france Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
+
 ;Other versions
+
 * [[F-84B-26]] ''Thunderjet''
 * [[F-84G-21-RE]]
 * [[F-84G-21-RE (China)]]

@@ -148,8 +148,8 @@ The weak guns make the {{PAGENAME}} unsuited to effectively engaging bombers, es
 
 '''Pros:'''
 
-* One of the fastest fighters compared to comparable fighters, rip speed is above 800 kph
-* Good roll rate under 600 kph
+* One of the fastest fighters compared to comparable fighters, rip speed is above 800 km/h
+* Good roll rate under 600 km/h
 * One of the best rates of climb compared to its contemporaries
 * Decent performance on all altitudes
 * Decent cockpit visibility, especially to the rear
@@ -178,6 +178,7 @@ Visconti remains a controversial figure due to his political alignment with Muss
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mc-202_italy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

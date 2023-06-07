@@ -154,7 +154,7 @@ The Hurricane II was developed by adding the 1,280 HP Rolls Royce Merlin XX engi
 
 The aircraft arrived via Lend-lease in Russia during the early stages of the Great Patriotic War (1941-1942). Before putting the Hurricane into service, the Soviets replaced the 7.7 mm Brownings with their indigenous 2 x 12.7 mm Berezin-UB MGs and 2 x 20 mm ShVAK cannons. This armament proved to be much more powerful, even surpassing its contemporary rivals, such as the Bf 109 F, in weight of fire. The Soviet Hurricane had far more weight of fire than its Commonwealth counterpart and this is why it resides at its rank position, much like the [[Sea_Hurricane_Mk_IС|Sea Hurricane Mk IC]] and its four Hispano 20 mm cannons.
 
-In battle, the Hurricane does not have sufficient performance to beat such formidable enemies as the Bf 109 F-4 or P-63C-5 in a 1 vs 1 duel, particularly when in an up-tier situation.  The pilot should climb at an angle between 250-270 kph IAS, while slightly side climbing.  This will almost always prevent you from being the first person engaged and leave you above the ball of dogfighters mixing it up at the lower altitudes.  From here pick on targets of opportunity, those low on energy or wounded.  Here you can benefit your team by using your heavy armament (double that of a typical Soviet fighter at this rank) to quickly dispatch these targets before escaping.  Bear in mind your low ammo count; only 120 RPG on the machine guns, half of most fighters.  While the Hurricane can outturn many other fighters if forced into a 1 vs 1, against both Allied (Spitfire) and Axis (A6M, Ki-44, Ki-43) there will almost always be another plane which can outturn it. Here you want to pick your battles while turning with some and with others extending away to reclaim an energy advantage and try again.
+In battle, the Hurricane does not have sufficient performance to beat such formidable enemies as the Bf 109 F-4 or P-63C-5 in a 1 vs 1 duel, particularly when in an up-tier situation.  The pilot should climb at an angle between 250-270 km/h IAS, while slightly side climbing.  This will almost always prevent you from being the first person engaged and leave you above the ball of dogfighters mixing it up at the lower altitudes.  From here pick on targets of opportunity, those low on energy or wounded.  Here you can benefit your team by using your heavy armament (double that of a typical Soviet fighter at this rank) to quickly dispatch these targets before escaping.  Bear in mind your low ammo count; only 120 RPG on the machine guns, half of most fighters.  While the Hurricane can outturn many other fighters if forced into a 1 vs 1, against both Allied (Spitfire) and Axis (A6M, Ki-44, Ki-43) there will almost always be another plane which can outturn it. Here you want to pick your battles while turning with some and with others extending away to reclaim an energy advantage and try again.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -213,6 +213,7 @@ To sum up this analysis of the Hurricane, it was a fighter whose combat, and fly
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=hurricanemkii_ussr Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -220,6 +221,7 @@ To sum up this analysis of the Hurricane, it was a fighter whose combat, and fly
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

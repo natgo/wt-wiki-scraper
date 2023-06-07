@@ -22,6 +22,8 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French light tank
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
+* Rolled homogeneous armour (hull, turret)
+* Wheel (tires)
 
 {| class="wikitable"
 |-
@@ -37,6 +39,13 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French light tank
 
 '''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
 <!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+* Wheels are 10 mm thick.
+* Storage boxes and mudguards are 5 mm thick
+* Belly armour is 7 mm thick.
+* The cupola is just a ventilation cupola and 7 mm thick.
+* Internal plates (7 mm thick) separate the crew compartment from the engine compartment, as well as the engine compartment in half and cover the commander from the top and the rear.
+
+The AMD.35's armour thickness is similar to other French rank I armoured cars.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -53,7 +62,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French light tank
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-{{main|SA35 L/32 (47 mm)}}
+{{main|SA35 L/32 (47 mm)}}The SA35 gun offers a reasonable penetration power at its battle rating. Its average muzzle velocity allows for a rather flat firing trajectory but the accuracy drop is noticeable from 700 m distance and becomes a handicap over 1,000 m. The rotation speed of the turret is slow compared to other tanks at the same rank or battle rating. Elevation and depression angles of the gun are important, allowing you to fire from unusual positions (behind a ridge, on a slope, etc.). Your recoil is nonexistent. The reload times of the gun are in line with other light tanks at the same BR. The average penetration power and the absence of post-penetration damage from the solid shot are the biggest weaknesses of the armament. This will bring you to have to shoot enemy tanks repeatedly to destroy them entirely, while being in close proximity to maximize your penetration power.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -64,7 +73,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French light tank
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 30 || rowspan="2" | -12°/+20° || rowspan="2" | ±180° || rowspan="2" | - || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 30 || rowspan="2" | -12°/+20° || rowspan="2" | ±180° || rowspan="2" | - || __._ || __._ || __._ || __._ || __._ || rowspan="2" | 3.90 || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | 3.00
 |-
 ! ''Realistic''
 | __._ || __._ || __._ || __._ || __._
@@ -72,6 +81,10 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French light tank
 |}
 
 ==== Ammunition ====
+The D2 has a limited choice of ammunition:
+
+* '''Mle1935''': APC; a solid shot with average penetration and no explosive filler. Make sure to target modules and crew positions to maximise the damage. Knowledge of enemy vehicle layouts is essential with this type of ammunition.
+* '''Mle1935 HE''': HE; useful for destroying open and very lightly armoured vehicles, pack 3-2 HE shells due to a lack of a coaxial machine gun.
 {{:SA35 L/32 (47 mm)/Ammunition|Mle1935, Mle1935 HE}}
 
 ==== [[Ammo racks]] ====
@@ -89,6 +102,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French light tank
 '''Notes''':
 
 * Shells are modeled individually and disappear after having been shot or loaded.
+* Recommended ammo load is the full 30 as the ammo capacity is already limited.
 {{Clear}}
 
 == Usage in battles ==
@@ -100,9 +114,23 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French light tank
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
+* High straight-line top speed on paved surfaces
+* Excellent reverse gear
+* Great penetration and shell velocity
+* Quick reload speed
+* High crew count and good survivability
+
 *
 
 '''Cons:'''
+
+* Poor cross-country performance
+* Weak brakes
+* Slow turret rotation an gun elevation
+* Below-average gun depression
+* Lightly armoured flanks and rear
+
 *
 
 == History ==
@@ -113,6 +141,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French light tank
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_amd_35_sa35 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -121,6 +150,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French light tank
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[AMD.35]]
 
 == External links ==

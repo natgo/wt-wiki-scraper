@@ -13,7 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian SPAA {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The SIDAM 25 is an Italian anti-air platform developed by OTO Melara during the Cold War. Based on the M113A1 platform, the SIDAM 25 was primarily designed to fulfill the short-range air defense needs of the Italian army. The Italian army initially showed interest in the [[OTOMATIC]] anti-air platform; however, due to factors such as cost, the SIDAM 25 was chosen instead. One of its main drawbacks was that it lacked a radar system unlike other anti-air platforms of the era. A total of 275 systems were ordered. In the late 2010s, the SIDAM 25 began to be phased out, with most units being used to arm the Freccia IFV with a 25 mm cannon. The SIDAM 25 (Mistral) was a sole prototype created to test the capability of the Mistral SAM on the SIDAM 25 platform, and as a last ditch effort for OTO Melara to upgrade the SIDAMs so they could remain in service and not be completely obsolete.
+
+Introduced in [[Update 1.91 "Night Vision"]], the SIDAM 25 is equipped with 4 x 25 mm Oerlikon KBA cannons able to fire both HEI-T* and APDS rounds. The high fire density of this SPAA allows it to destroy planes within seconds, often requiring only a few hits to bring down the target. The HEI-T rounds in the M792 belt contain a TNT equivalent of 54.4 grams in each projectile, with a high muzzle velocity of 1,100 m/s, making it easier to lead targets. However, the standard belts lack armour-penetrating rounds, so your maximum penetration remains at 3 mm until you unlock the M791 belt (APDS). Once the M791 belt is unlocked, defeating tanks becomes much easier, thanks to the 81 mm of penetration at 10 metres and a muzzle velocity of 1,345 m/s. The potential of the platform is however severely limited by the maximum capacity of 660 rounds (165 per gun). It is important to be very careful with your ammunition considering the fire rate and the small ammunition capacity, giving approximately 18 seconds of continuous fire. However, once your rounds hit their target, there is little that can survive. Helicopters and aircraft will be brought down with ease if you remain undetected. The platform's mobility is just sufficient to reach desired positions, but its large size makes it difficult to go unnoticed on the battlefield. The SIDAM 25 also lacks sufficient armour protection, as heavy machine guns can easily penetrate it. The 6 surface-to-air Mistral missiles can prove highly effective against low-flying aircraft and helicopters that venture too close to the battlefield. However, these aircraft often possess countermeasures that can prevent the missile from hitting its target. To maximize the chances of a successful hit, it is advisable to launch the missile while the target is preoccupied, or pair the missile with your main cannons to increase the likelihood of hitting the target.
 
 == General info ==
 === Survivability and armour ===
@@ -179,6 +181,7 @@ The modernization of the SIDAM 25s with Mistral SAMs was expected to begin in th
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_otobreda_sidam_25_mistral Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -186,8 +189,9 @@ The modernization of the SIDAM 25s with Mistral SAMs was expected to begin in th
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+
+* [[SIDAM 25]]
+* [[Machbet]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

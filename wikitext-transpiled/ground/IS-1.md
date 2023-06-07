@@ -99,7 +99,7 @@ The 85 mm D-5T is a very strong and potent cannon for this BR that can deal with
 {{Specs-Tank-Weapon|2}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|DT (7.62 mm)}}
-The IS-1 has no roof-mounted heavy machine gun lime they are found in later Soviet heavy tanks and SPGs to defend against incoming enemy aircraft. The only machine gun available is a 7.7 mm coaxial MG.
+The IS-1 has no roof-mounted heavy machine gun lime they are found in later Soviet heavy tanks and SPGs to defend against incoming enemy aircraft. The only machine gun available is a 7.62 mm coaxial MG. Useful for taking out unarmored trucks and exposed crew. 
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -178,6 +178,7 @@ The IS-1 was deployed in battles from February 1944 up to and including the wint
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_is_1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

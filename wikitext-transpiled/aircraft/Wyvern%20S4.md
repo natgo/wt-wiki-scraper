@@ -8,7 +8,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.59 "Flaming Arrows"]].
 
-The {{PAGENAME}} can carry great amounts of payload due to its distinctive feature, the turboprop powerplant. This engine enables it to exceed 600 kph in level flight.
+The {{PAGENAME}} can carry great amounts of payload due to its distinctive feature, the turboprop powerplant. This engine enables it to exceed 600 km/h in level flight.
 
 The Wyvern is an aircraft that can carry a large payload so it can be used in the strike fighter role. One of its most popular payloads, 16 x RP-3 , enables it to destroy a large amounts of targets with medium armour like light pillboxes and up to heavy tanks. The Wyvern is also a strong fighter, below 3,000 m. As the Wyvern does not have a compressor of any sorts, engine power drops significantly above 3,000 m. Keeping altitude at 3,000 and doing Boom & Zoom or Boom & Run attacks are of the most successful fighting doctrines. Although the Boom & Zoom attack will most likely bleed the Wyvern's speed very quickly, employing Boom & Run instead of this attack is recommended when possible.
 
@@ -184,6 +184,7 @@ The type was plagued with various engine problems during its brief period in ser
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=wyvern_s4 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -196,6 +197,7 @@ Image:Westland Wyvern on the runway.jpg|<small>Westland Wyvern on the runway</sm
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

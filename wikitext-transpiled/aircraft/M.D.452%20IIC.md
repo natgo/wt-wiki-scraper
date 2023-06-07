@@ -160,7 +160,7 @@ Overall, the Mystère IIC should be considered as buffed Ouragan/Barougan, incre
 
 * Excellent armament of 2 x 30 mm DEFA cannons (higher muzzle velocity and RoF than the ADEN cannon)
 * High roll rate, matches the Sabre's roll rate with "New boosters" modification installed
-* Good turn rate between 550 kph and 800 kph
+* Good turn rate between 550 km/h and 800 km/h
 * Decent climb rate
 * Payloads can include bombs or rockets
 * More effective air brake than its predecessors
@@ -191,6 +191,7 @@ In 1954, the French Air service placed an order for 150 M.D.452 IIC aircraft, wh
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=md_452_mystere_2c_preproduction Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -200,6 +201,7 @@ In 1954, the French Air service placed an order for 150 M.D.452 IIC aircraft, wh
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
+
 * [[M.D.452 IIA]]
 
 == External links ==

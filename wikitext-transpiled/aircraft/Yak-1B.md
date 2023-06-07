@@ -153,7 +153,7 @@ If not using MEC, take off at 100% throttle, then go to 90% after getting above 
 # You will have run your engine out trying to climb, so your engine has less time before it overheats than usual. (You also don't climb as fast as most other planes, in fact, there are better Soviet aircraft for climbing, such as the MiG-3 and the La-5).
 # You will be highly visible.
 # You will have reduced manoeuvrability.
-# You will easily rip your wings upon trying to dive (The Yak's wings, is made of wood, disappear at about 600 kph).
+# You will easily rip your wings upon trying to dive (The Yak's wings, is made of wood, disappear at about 600 km/h).
 
 If you stay below 3,000 m, then you will have more advantages than the enemy, such as:
 
@@ -248,6 +248,7 @@ However, the improvements looked so good on paper that a test batch was skipped,
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=yak-1b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -255,6 +256,7 @@ However, the improvements looked so good on paper that a test batch was skipped,
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

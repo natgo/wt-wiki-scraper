@@ -143,9 +143,9 @@ Like its predecessor, the Pz. III E is equipped with two coaxial 7.92 mm MG34 ma
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Pz.III E, despite its upgrades, functions almost exactly the same as the previous B model, the armour and mobility are improved, but not to the point where these aspects are reliable, or warrant a change in playstyle to take advantage of them. Because of the slow turret traverse and unimpressive firepower, consider playing the E in a more passive role. You can't comfortably rush around the map using your extra mobility as if you push to the point where enemies could get on your sides, you'll likely be knocked out very quickly. The largest drawbacks the E model has are its armour, turret traverse and firepower. The firepower can't be buffed in any way, but the negative effects of the armour and traverse can be somewhat negated by playing hull down and covering a narrow sight line. The turret armour can't be completely relied on, but it is the most consistent. Additionally, if you take fire into the turret, you'll likely only lose a couple of crew members. The E model has a fairly effective reverse rate, so you can easily retreat from combat, repair and reengage. You also have access to five rear drop smoke grenades to aid this purpose. Another advantage of covering a narrow sight line is that you don't really need to traverse your gun much to be able to fire on enemy vehicles.
+The Pz.III E, despite its upgrades, functions almost exactly the same as the previous B model, the armour and mobility are improved, but not to the point where these aspects are reliable, or warrant a change in playstyle to take advantage of them. Because of the slow turret traverse and unimpressive firepower, consider playing the E in a more passive role. You can't comfortably rush around the map using your extra mobility as if you push to the point where enemies could get on your sides, you'll likely be knocked out very quickly. The largest drawbacks the E model has are its armour, turret traverse and firepower. The firepower can't be buffed in any way, but the negative effects of the armour and traverse can be somewhat negated by playing hull down and covering a narrow sight line. The turret armour can't be completely relied on, but it is the most consistent. Additionally, if you take fire into the turret, you'll likely only lose a couple of crew members. In order to increase the effectiveness of the hull armour, you can sharply angle the tank at about 45 degrees, since the side armour is equally as thick as the front armour. That means there is no risk of exposing a weaker flank, and a steeply angled hull can even deflect the 37 mm. cannon shells fired by most tanks of its tier (it will not always deflect them, but your odds increase at longer ranges). The E model has a fairly effective reverse rate, so you can easily retreat from combat, repair and reengage. You also have access to five rear drop smoke grenades to aid this purpose. Another advantage of covering a narrow sight line is that you don't really need to traverse your gun much to be able to fire on enemy vehicles.
 
-If possible, try to remain somewhat sedentary, because the Pz.III E lacks a short stop stabiliser, if you run into an enemy allied tank on the move, they will likely be able to level off their gun and fire at you first, and as the armour of the E is very inconsistent, you will likely be knocked out. If you stay somewhat still and wait in ambush, you should be able to avoid this drawback. The E model works best at mid ranges, at long range the armour is effective but the gun isn't, whereas at close range the gun is effective but the armour isn't, sp at mid range you have the potential to maximise both. Aim to hide your hull and take a decent mix of APHE and APCR depending on the battle rating you're playing at. The E model isn't the most effective Panzer III, but if played in the right spot it can do a decent job.
+If possible, try to remain somewhat sedentary, because the Pz.III E lacks a short stop stabiliser, if you run into an enemy allied tank on the move, they will likely be able to level off their gun and fire at you first, and as the armour of the E is very inconsistent, you will likely be knocked out. If you stay somewhat still and wait in ambush, you should be able to avoid this drawback. The E model works best at mid ranges, at long range the armour is effective but the gun isn't, whereas at close range the gun is effective but the armour isn't - at mid range you have the potential to maximise both. Aim to angle or hide your hull and take a decent mix of APHE and APCR depending on the battle rating you're playing at. The E model isn't the most effective Panzer III, but if played in the right spot it can do a decent job.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -155,13 +155,14 @@ If possible, try to remain somewhat sedentary, because the Pz.III E lacks a shor
 * Very fast reload
 * Access to APCR
 * Decent overall mobility
-* Immune from heavy machine gun fire
+* Immune to heavy machine gun fire
+* Tougher than other reserve tanks if angled
 
 '''Cons:'''
 
 * Very slow turret traverse
 * Lacklustre firepower
-* Poor armour protection
+* Unimpressive armour protection if not angled
 * No short stabiliser
 
 == History ==
@@ -189,6 +190,7 @@ This tank's main disadvantage was that its armament was relatively weak for a me
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_III_ausf_E Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

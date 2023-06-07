@@ -5,8 +5,6 @@ import {
   FinalWeaponSlot,
   FinalWeapons,
   SecondaryWeaponPreset,
-  finalWeaponSlot,
-  secondaryWeaponPresetSchema,
 } from "../../data/types/final.schema";
 import { DeepShit, WeaponArray, typeSwitch } from "./secondaryPresets";
 import { weaponDisplayname } from "./weaponDisplayname";

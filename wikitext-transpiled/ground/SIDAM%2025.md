@@ -13,9 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (shortened to '''{{Specs|pseudonym}}''') is a rank {{Specs|rank}} Italian self-propelled anti-aircraft gun {{Battle-rating}}. It was introduced in [[Update 1.85 "Supersonic"]].
+The SIDAM 25 is an Italian anti-air platform developed by OTO Melara during the Cold War. Based on the M113A1 platform, the SIDAM 25 was primarily designed to fulfill the short-range air defense needs of the Italian army. The Italian army initially showed interest in the [[OTOMATIC]] anti-air platform; however, due to factors such as cost, the SIDAM 25 was chosen instead. One of its main drawbacks was that it lacked a radar system unlike other anti-air platforms of the era. A total of 275 systems were ordered. In the late 2010s, the SIDAM 25 began to be phased out, with most units being used to arm the Freccia IFV with a 25 mm cannon.
 
-The SIDAM 25 is an optronics-aimed SPAA equipped with 4 x 25 mm Oerlikon KBA cannons with the ability to fire HEI-T* and APDS rounds. Because of the high fire density, this SPAA is able to destroy planes within seconds and just needing a few rounds to hit their target. The M792 belt rounds (HEI-T*) contain a TNT equivalent of 54.4 grams in each projectile, and have a high muzzle velocity of 1,100 m/s, making target leading much easier. However, because of the lack of armour-penetrating rounds in the standard belts, your maximum penetration remains 3 mm until you get the M791 belt (APDS). Once the M791 belt is unlocked, defeating tanks will be much easier, given the 81 mm of penetration at 10 metres, and a muzzle velocity of 1,345 m/s. The potential is however severely limited by the maximum capacity of 660 rounds (165 per gun). Overall, be very careful with your ammunition considering the fire rate and the small ammunition capacity. 4 x 550 rpm and a maximum of 660 rounds means you have about 18 seconds of continuous fire available.
+Introduced in [[Update 1.85 "Supersonic"]], the SIDAM 25 is equipped with 4 x 25 mm Oerlikon KBA cannons able to fire both HEI-T* and APDS rounds. The high fire density of this SPAA allows it to destroy planes within seconds, often requiring only a few hits to bring down the target. The HEI-T rounds in the M792 belt contain a TNT equivalent of 54.4 grams in each projectile, with a high muzzle velocity of 1,100 m/s, making it easier to lead targets. However, the standard belts lack armour-penetrating rounds, so your maximum penetration remains at 3 mm until you unlock the M791 belt (APDS). Once the M791 belt is unlocked, defeating tanks becomes much easier, thanks to the 81 mm of penetration at 10 metres and a muzzle velocity of 1,345 m/s. The potential of the platform is however severely limited by the maximum capacity of 660 rounds (165 per gun). It is important to be very careful with your ammunition considering the fire rate and the small ammunition capacity, giving approximately 18 seconds of continuous fire. However, once your rounds hit their target, there is little that can survive. Helicopters and aircraft will be brought down with ease if you remain undetected. The platform's mobility is just sufficient to reach desired positions, but its large size makes it difficult to go unnoticed on the battlefield. The SIDAM 25 also lacks sufficient armour protection, as heavy machine guns can easily penetrate it. In conclusion, stay hidden and fire only when you see an opportunity to do so.
 
 == General info ==
 === Survivability and armour ===
@@ -153,17 +153,24 @@ Sadly the SIDAM 25 lived a short life, in total 276 of such systems were produce
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_otobreda_sidam_25 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+* [[SIDAM 25 (Mistral)]]
+* [[M163]]
 
 == External links ==
-''Paste links to sources and external resources, such as:''
+<!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
-* ''other literature.''
+* ''other literature.'' -->
+
+* https://forum.warthunder.com/index.php?/topic/543261-sidam-25/
+* https://forum.warthunder.com/index.php?/topic/486514-sidam-25-and-sidam-25-mistral/
 
 {{TankManufacturer OTO Melara}}
 {{Italy anti-aircraft vehicles}}

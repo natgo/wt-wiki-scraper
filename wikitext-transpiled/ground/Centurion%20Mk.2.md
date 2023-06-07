@@ -129,6 +129,9 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British medium ta
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_centurion_mk_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
 ;Videos
 {{Youtube-gallery|vknn8HX9DD4|'''The Shooting Range #355''' - ''Metal Beasts'' section at 00:23 discusses the {{PAGENAME}}.|AxypZKOq3Ms|'''Battle Pass: Her Majesty's Hussar''' discusses the {{PAGENAME}} at 02:48 - ''War Thunder Official Channel''}}
 

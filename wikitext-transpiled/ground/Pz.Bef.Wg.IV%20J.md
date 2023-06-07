@@ -76,10 +76,10 @@ In every case scenario, it is to the benefit of the surviving player to fire the
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 87 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | N/A || 5.7 || 7.9 || 9.6 || 10.6 || 11.3 || rowspan="2" | 7.67 || rowspan="2" | 6.79 || rowspan="2" | 6.25 || rowspan="2" | 5.90
+| rowspan="2" | 87 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | N/A || 9.5 || 13.2 || 16.0 || 17.7 || 18.8 || rowspan="2" | 7.67 || rowspan="2" | 6.79 || rowspan="2" | 6.25 || rowspan="2" | 5.90
 |-
 ! ''Realistic''
-| 3.6 || 4.2 || 5.1 || 5.6 || 6.0
+| 5.9 || 7.0 || 8.5 || 9.4 || 10.0
 |-
 |}
 
@@ -198,6 +198,7 @@ Commander vehicles for the commanders of medium tank battalions were built based
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_panzerbefelhswagen_IV_ausf_J Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
+
 * [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 ;Videos
@@ -215,6 +216,7 @@ Commander vehicles for the commanders of medium tank battalions were built based
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 
