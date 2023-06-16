@@ -1565,7 +1565,8 @@ export type Weapon = {
   isBulletBelt: boolean;
   notUseDefaultBulletInGui: boolean;
   bulletsCartridge?: number;
-  bullet: Bullet[] | Bullet;
+  bullet?: Bullet[] | Bullet;
+  rocket?: Bullet[] | Bullet;
 } & {
   [key: string]: BulletContainer;
 };

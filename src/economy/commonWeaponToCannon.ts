@@ -77,38 +77,41 @@ export function commonWeaponToCannon(
     dev,
   );
 
-  const weaponbullet = weapon_data.bullet;
+  const defaultbullet = weapon_data.bullet ?? weapon_data.rocket ?? null;
+  if (defaultbullet === null) {
+    throw new Error("no default bullet");
+  }
 
   // default shell
   if (
-    !Array.isArray(weaponbullet) &&
+    !Array.isArray(defaultbullet) &&
     !weapon.shells.find((element) => {
-      return element.intname === weaponbullet.bulletName;
+      return element.intname === defaultbullet.bulletName;
     }) &&
-    weaponbullet &&
+    defaultbullet &&
     isCannon
   ) {
-    const langFind = parseLang(weaponry_lang, weaponbullet.bulletName);
+    const langFind = parseLang(weaponry_lang, defaultbullet.bulletName);
     if (langFind) {
       const shell: Shell = {
         modname: "default",
-        type: weaponbullet.bulletType,
+        type: defaultbullet.bulletType,
         name: langFind.English,
-        intname: weaponbullet.bulletName,
+        intname: defaultbullet.bulletName,
       };
       weapon.shells.push(shell);
     }
   }
 
   // default belt
-  if ((!isCannon || weapon.belts.length > 0) && weaponbullet) {
+  if ((!isCannon || weapon.belts.length > 0) && defaultbullet) {
     const belt: ShellBelt = {
       modname: "default",
       name: "Default",
       shells: [],
     };
-    if (Array.isArray(weaponbullet)) {
-      weaponbullet.forEach((bulletelement) => {
+    if (Array.isArray(defaultbullet)) {
+      defaultbullet.forEach((bulletelement) => {
         const langFind = parseLang(weaponry_lang, bulletelement.bulletName);
         const langFind2 = parseLang(weaponry_lang, bulletelement.bulletName + "/name");
         const shell: Belt = {
@@ -126,12 +129,12 @@ export function commonWeaponToCannon(
         belt.shells.push(shell);
       });
     } else {
-      const langFind = parseLang(weaponry_lang, weaponbullet.bulletName);
-      const langFind2 = parseLang(weaponry_lang, weaponbullet.bulletName + "/name");
+      const langFind = parseLang(weaponry_lang, defaultbullet.bulletName);
+      const langFind2 = parseLang(weaponry_lang, defaultbullet.bulletName + "/name");
       const shell: Belt = {
-        type: weaponbullet.bulletType,
+        type: defaultbullet.bulletType,
         name: "",
-        intname: weaponbullet.bulletName ? weaponbullet.bulletName : "default",
+        intname: defaultbullet.bulletName ? defaultbullet.bulletName : "default",
       };
 
       if (langFind && langFind.English) {
@@ -143,6 +146,20 @@ export function commonWeaponToCannon(
       belt.shells.push(shell);
     }
     weapon.belts.push(belt);
+  }
+
+  let caliber;
+  if (Array.isArray(defaultbullet)) {
+    caliber = defaultbullet[0].caliber * 1000;
+  } else {
+    caliber = defaultbullet.caliber * 1000;
+  }
+
+  if (!caliber) {
+    console.log(defaultbullet);
+    console.log(name);
+
+    throw new Error("no caliber");
   }
 
   const stab = stabilizer(Weapon);
@@ -174,12 +191,7 @@ export function commonWeaponToCannon(
     stabilizer: stab,
     shotFreq: Weapon.shotFreq ? Weapon.shotFreq : weapon_data.shotFreq,
     reloadTime: Weapon.reloadTime ? Weapon.reloadTime : weapon_data.reloadTime,
-    caliber: parseFloat(
-      Weapon.blk
-        .split("/")
-        [Weapon.blk.split("/").length - 1].split("_")[0]
-        .substring(0, Weapon.blk.split("_")[0].length - 2),
-    ),
+    caliber: caliber,
   };
   return cannon;
 }
